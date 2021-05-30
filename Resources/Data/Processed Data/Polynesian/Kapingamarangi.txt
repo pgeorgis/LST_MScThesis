@@ -1,0 +1,213 @@
+1094/hau/hau
+1410/iloo/iloː
+1422/ora/ora
+1432/tuu/tuː
+1432/dalai/dalai
+1432/hele/hele
+1434/daalo/daːlo
+1434/hugi/huɡi
+1460/lodo/lodo
+1586/tuŋu/tuŋu
+1586/hongi/hoŋi
+1725/donu/donu
+2101/made/made
+2103/mhae/mhae
+2279/tee/teː
+354/tugi/tuɡi
+3764/huaaitu/huaːitu
+379/mariri/mariri
+3805/hila/hila
+ABOVE/nua/nua
+ALL/godoo/ɡodoː
+AND/maangi/maːŋi
+ASH/lehu/lehu
+AT/i/i
+BACK/dua/dua
+BELLY/kona/kona
+BELOW OR UNDER/rara/rara
+BIG/tamana/tamana
+BIRD/manu/manu
+BITE/kati/kati
+BLACK/uli/uli
+BLOOD/dodo/dodo
+BLOW (OF WIND)/angi/aŋi
+BONE/iwi/iwi
+BRANCH/rakau/rakau
+BREAST/uu/uː
+BREATHE/toki/toki
+BREATHE/manawa/manawa
+BURN/dudu/dudu
+BURN/tungi/tuŋi
+BUY/hui/hui
+CHEW/ngungu/ŋuŋu
+CHEW/ngau/ŋau
+CHILD/dama lligi/damalliɡi
+CHILD/tama/tama
+CHOOSE/hili/hili
+CLIMB/hiti/hiti
+CLOUD/kororangi/kororaŋi
+COLD/makariri/makariri
+COME/hani/hani
+COOK (SOMETHING)/daa/daː
+COUNT/dau/dau
+CRY/dangi/daŋi
+DAY (NOT NIGHT)/raani/raːni
+DAY (NOT NIGHT)/aal/laː
+DAY (NOT NIGHT)/a/a
+DIG/geli/ɡeli
+DIRTY/tokoria/tokoria
+DOG/pana/pana
+DREAM (SOMETHING)/midi/midi
+DRINK/inu/inu
+DRY/mango/maŋo
+DUST/bopobo/bopobo
+EAR/dalinga/daliŋa
+EARTH (SOIL)/gele/ɡele
+EAT/gai/ɡai
+EGG/ngoko/ŋoko
+EIGHT/walu/walu
+EYE/mata/mata
+FALL/hinga/hiŋa
+FAR/mokoa/mokoa
+FAT (ORGANIC SUBSTANCE)/kiris/kiris
+FATHER/dama/dama
+FEAR (BE AFRAID)/madagu/madaɡu
+FEATHER/ngahuru/ŋahuru
+FEMALE PERSON/ahina/ahina
+FIRE/ahi/ahi
+FISH/iga/iɡa
+FIVE/lima/lima
+FLESH OR MEAT/kano/kano
+FLOW/hari/hari
+FLOWER/akai/akai
+FLY (MOVE THROUGH AIR)/maangi/maːŋi
+FOOT OR LEG/wae/wae
+FOREST/wao/wao
+FOUR/haa/haː
+FRUIT/hua/hua
+GOOD/humalia/humalia
+HAIR/ŋahuru/ŋahuru
+HAIR/hulu/hulu
+HAND/lima/lima
+HE OR SHE/ia/ia
+HEAD/libogo/liboɡo
+HEAR/longo/loŋo
+HEAVY/maha/maha
+HIT/tugi/tuɡi
+HIT/ta/ta
+HIT/badu/badu
+HOLD/tahi/tahi
+HOUSE/hale/hale
+HOW/pehee/peheː
+HUNDRED/lau/lau
+I/au/au
+INTESTINES/tinae/tinae
+KILL/taliki/taliki
+LAKE/roto/roto
+LAUGH/katakata/katakata
+LEAF/rou/rou
+LEFT/tauihara/tauihara
+LIE DOWN/moe/moe
+LIGHTNING/ila/ila
+LIVER/ade/ade
+LONG/loo/loː
+LOUSE/gudu/ɡudu
+MALE PERSON/daane/daːne
+MOON/maahina/maːhina
+MOSQUITO/lamu/lamu
+MOTHER/dinana/dinana
+MOUTH/ngudu/ŋudu
+MOUTH/haha/haha
+NAME/ingoo/iŋoː
+NARROW/huka/huka
+NEAR/hoho/hoho
+NECK/ua/ua
+NEEDLE (FOR SEWING)/higa/hiɡa
+NEW/hoou/hoːu
+NIGHT/boo/boː
+NINE/hiwa/hiwa
+NOSE/uuhiu/uːhiu
+OLD/tuai/tuai
+ONE/dahi/dahi
+OTHER/huai/huai
+OTHER/tei/tei
+PATH OR ROAD/ala/ala
+PERSON/dangada/daŋada
+PLANT (SOMETHING)/tanu/tanu
+RAIN (PRECIPITATION)/ua/ua
+RED/mmee/mmeː
+RIGHT/tonu/tonu
+RIGHT/tau/tau
+ROOT/aga/aɡa
+ROPE/taura/taura
+ROPE/moea/moea
+ROTTEN/bobo/bobo
+SAND/one/one
+SAY/tapa/tapa
+SCRATCH/llagu/llaɡu
+SCRATCH/lodi/lodi
+SEA/dai/dai
+SEA/moana/moana
+SEE/mada/mada
+SEVEN/hidu/hidu
+SEW/dui/dui
+SHARP/gaa/ɡaː
+SHORT/bodo/bodo
+SIT/noho/noho
+SKIN/gili/ɡili
+SKY/langi/laŋi
+SLEEP/khi/khi
+SMALL/bodo/bodo
+SMOKE (EXHAUST)/seahi/seahi
+SPIDER/lewelewe/lewelewe
+SPIT/pui/pui
+SPLIT/mahaa/mahaː
+SQUEEZE/hakapui/hakapui
+STAND/duu/duː
+STAR/heduu/heduː
+STEAL/gaihaa/ɡaihaː
+STICK/laagau/laːɡau
+STONE/hadu/hadu
+SUCK/u/u
+SWELL/ki/ki
+SWIM/kau/kau
+TAIL/huku/huku
+TEN/matangahoru/mataŋahoru
+THAT/tera/tera
+THEY/tikaula/tikaula
+THICK/maadolu/maːdolu
+THIN/rahirahi/rahirahi
+THINK/hakapau/hakapau
+THIS/tenei/tenei
+THOU/goe/ɡoe
+THOUSAND/mana/mana
+THREE/dolu/dolu
+THROW/dili/dili
+THROW/maka/maka
+THUNDER/atili/atili
+TONGUE/horore/horore
+TOOTH/niha/niha
+TURN/magau/maɡau
+TWO/lua/lua
+VOMIT/luai/luai
+VOMIT/rua/rua
+WALK/heehee/heːheː
+WALK/taahao/taːhao
+WALK/haele/haele
+WARM/mahana/mahana
+WATER/wai/wai
+WE/gida/ɡida
+WE/gida/ɡida
+WET/thiu/tʰiu
+WHAT/aha/aha
+WHERE/hee/heː
+WHITE/kene/kene
+WHO/ai/ai
+WIDE/balaha/balaha
+WIFE/awanga/awaŋa
+WIND/madangi/madaŋi
+WING/bakau manu/bakaumanu
+WORM/patupatu/patupatu
+YEAR/tau/tau
+YELLOW/lau puke/laupuke
+YOU/goolua/ɡoːlua

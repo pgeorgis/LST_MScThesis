@@ -1,0 +1,257 @@
+1094/hau/hau
+1094/rii/riː
+1094/hiitiki/hiːtiki
+1156/heheu/heheu
+1410/maatau/maːtau
+1410/kite/kite
+1422/ora/ora
+1432/kokoti/kokoti
+1432/ihi/ihi
+1434/huki/huki
+1434/hoka/hoka
+1460/roto/roto
+1586/hoŋi/hoŋi
+1725/tika/tika
+2101/pohe/pohe
+2101/mate/mate
+2103/maauiui/maːuiui
+2103/mamae/mamae
+2279/kauraka/kauraka
+354/tuki/tuki
+3764/kiro/kiro
+379/tii/tiː
+ABOVE/ruŋa/ruŋa
+ALL/katoŋa/katoŋa
+ASH/rehu/rehu
+AT/tei/tei
+AT/i/i
+BACK/papatua/papatua
+BELLY/tia/tia
+BELLY/manava/manava
+BELLY/koopuu/koːpuː
+BELLY/kona/kona
+BELOW OR UNDER/raro/raro
+BIG/nui/nui
+BIRD/manu/manu
+BITE/kati/kati
+BLACK/hiva/hiva
+BLACK/uri/uri
+BLACK/kere/kere
+BLOOD/toto/toto
+BLOW (OF WIND)/puhi/puhi
+BLOW (OF WIND)/paa/paː
+BLOW (OF WIND)/harara/harara
+BLOW (OF WIND)/aŋi/aŋi
+BONE/ivi/ivi
+BRANCH/raakau/raːkau
+BREAST/koouma/koːuma
+BREATHE/manava/manava
+BREATHE/ŋaa/ŋaː
+BURN/tuŋi/tuŋi
+BURN/tahu/tahu
+BUY/hoko/hoko
+CHEW/ŋau/ŋau
+CHILD/tamaariki/tamaːriki
+CHILD/tama/tama
+CHOOSE/koikoi/koikoi
+CLIMB/kake/kake
+CLOUD/titi/titi
+CLOUD/ao/ao
+COLD/toketoke/toketoke
+COLD/anu/anu
+COLD/makariri/makariri
+COME/mai/mai
+COOK (SOMETHING)/tao/tao
+CRY/taŋi/taŋi
+DAY (NOT NIGHT)/ao/ao
+DIG/keri/keri
+DIRTY/hava/hava
+DOG/kurio/kurio
+DREAM (SOMETHING)/moemoeaa/moemoeaː
+DRINK/inu/inu
+DRY/maroo/maroː
+DUST/puuehu/puːehu
+EAR/tariŋa/tariŋa
+EARTH (SOIL)/repo/repo
+EAT/kai/kai
+EGG/toouo/toːuo
+EIGHT/varu/varu
+EYE/mata/mata
+FALL/topa/topa
+FALL/hiŋa/hiŋa
+FALL/marere/marere
+FALL/makiri/makiri
+FAR/taumamao/taumamao
+FAT (ORGANIC SUBSTANCE)/hinu/hinu
+FATHER/metua taane/metuataːne
+FEAR (BE AFRAID)/mataku/mataku
+FEATHER/huru/huru
+FEMALE PERSON/hiine/hiːne
+FEMALE PERSON/vahiine/vahiːne
+FIRE/ahi/ahi
+FISH/paru/ika
+FIVE/rima/rima
+FLESH OR MEAT/kiko/kiko
+FLOW/tahe/tahe
+FLOWER/pua/pua
+FLY (MOVE THROUGH AIR)/rere/rere
+FOG/maahu/maːhu
+FOG/kohu/kohu
+FOOT OR LEG/vae/vae
+FOREST/vao/vao
+FOREST/ŋahere/ŋahere
+FOUR/haa/haː
+FRUIT/hua/hua
+GOOD/meitaki/meitaki
+GOOD/reka/reka
+GRASS/moouku/moːuku
+GREEN/matie/matie
+GROW/tupu/tupu
+HAIR/roouru/roːuru
+HAIR/huru/huru
+HAND/rima/rima
+HAND/kapu/rima
+HE OR SHE/ia/ia
+HEAD/upoko/upoko
+HEAD/uru/uru
+HEAR/roŋo/roŋo
+HEAVY/tuʔatuʔa/tuʔatuʔa
+HIDE/taahuna/taːhuna
+HIT/tuki/tuki
+HIT/taa/taː
+HIT/patu/patu
+HIT/papaki/papaki
+HOLD/taŋo/taŋo
+HOUSE/hare/hare
+HUNDRED/rau/rau
+HUNT/akuaku/akuaku
+HUSBAND/taane/taːne
+I/-ku/ku
+I/au/au
+INTESTINES/ŋaakau/ŋaːkau
+KILL/patu/patu
+KILL/taparahi/taparahi
+LAKE/roto/roto
+LAKE/rano/rano
+LAUGH/kata/kata
+LEAF/rau/rau
+LEFT/hema/hema
+LIE DOWN/takoto/takoto
+LIGHTNING/uira/uira
+LIGHTNING/rapa/rapa
+LIVER/ate/ate
+LONG/roa/roa
+LOUSE/kutu/kutu
+MALE PERSON/taane/taːne
+MALE PERSON/haakoi/haːkoi
+MOON/hina/hina
+MOSQUITO/namu/namu
+MOTHER/metua vahine/metuavahine
+MOUTH/ŋutu/ŋutu
+MOUTH/vaha/vaha
+NAME/iŋoa/iŋoa
+NARROW/koma/koma
+NEAR/tata/tata
+NECK/ua/ua
+NECK/kaakii/kaːkiː
+NEEDLE (FOR SEWING)/hau/hau
+NEW/hoou/hoːu
+NIGHT/poo/poː
+NIGHT/ruki/ruki
+NINE/iva/iva
+NOSE/ihu/ihu
+OLD/korou/korou
+ONE/tahi/tahi
+PATH OR ROAD/ara/ara
+PERSON/taŋata/taŋata
+PLANT (SOMETHING)/tanu/tanu
+RAIN (PRECIPITATION)/ua/ua
+RAT/kiore/kiore
+RED/mea/mea
+RED/kura/kura
+RIGHT/katau/katau
+ROOT/aka/aka
+ROPE/taura/taura
+ROPE/patoko/patoko
+ROTTEN/popo/popo
+ROTTEN/para/para
+SALT/miti/miti
+SAND/one/one
+SAY/parau/parau
+SCRATCH/raku/raku
+SEA/tai/tai
+SEA/moana/moana
+SEE/kite/kite
+SEVEN/hitu/hitu
+SEW/tui/tui
+SHARP/popo/popo
+SHARP/koi/koi
+SHOOT/hana/hana
+SHORT/poto/poto
+SHOULDER/pakihui/pakihui
+SIT/noho/noho
+SIX/fene/fene
+SKIN/kiri/kiri
+SKY/raŋi/raŋi
+SLEEP/moe/moe
+SMALL/riki/riki
+SMALL/iti/iti
+SMOKE (EXHAUST)/auahi/auahi
+SPIDER/tukutuku/tukutuku
+SPIT/tufa/tufa
+SPIT/anu/anu
+SPLIT/tapahi/tapahi
+SPLIT/maataataa/maːtaːtaː
+SQUEEZE/ŋiŋiti/ŋiŋiti
+STAND/tuu/tuː
+STAR/hetuu/hetuː
+STEAL/keiaa/keiaː
+STICK/raakau/raːkau
+STONE/poofatu/poːfatu
+STONE/hatu/hatu
+SUCK/ŋoŋo/ŋoŋo
+SUCK/momi/momi
+SUCK/miti/miti
+SWELL/koropuupuu/koropuːpuː
+SWIM/kau/kau
+TAIL/vaero/vaero
+TAIL/hiku/hiku
+TEN/ŋahuru/ŋahuru
+THAT/aua/aua
+THATCH OR ROOF/ato/ato
+THICK/tuʔatuʔa/tuʔatuʔa
+THIN/rahi/rahi
+THINK/mahara/mahara
+THIS/te/te
+THOU/koe/koe
+THOUSAND/mano/mano
+THREE/toru/toru
+THROW/toro/toro
+THROW/tiri/tiri
+THROW/maka/maka
+THUNDER/fatutiri/fatutiri
+TONGUE/arero/arero
+TOOTH/niho/niho
+TURN/huri/huri
+TWO/rua/rua
+VOMIT/ruua/ruːa
+WALK/haere/haere
+WARM/mahana/mahana
+WATER/vai/vai
+WE/tatou/tatou
+WET/rari/rari
+WHAT/aha/aha
+WHERE/hea/hea
+WHITE/tea/tea
+WHO/ai/ai
+WIDE/raha/raha
+WIFE/moorire/moːrire
+WIND/ma-taŋi/mataŋi
+WING/pererau/pererau
+WORK (ACTIVITY)/haŋa/haŋa
+WORM/toke/toke
+YAWN/haamama/haːmama
+YEAR/tau/tau
+YELLOW/reŋareŋa/reŋareŋa
+YOU/koutou/koutou
+YOU/koorua/koːrua

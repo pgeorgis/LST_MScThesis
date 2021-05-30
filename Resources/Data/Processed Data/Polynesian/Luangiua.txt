@@ -1,0 +1,217 @@
+1094/ŋoa/ŋoa
+1094/gii/ɡiː
+1094/hau/hau
+1410/ailoa/ailoa
+1422/ola/ola
+1432/sele/sele
+1432/'oki/ʔoki
+1432/vahi/vahi
+1434/kalo/kalo
+1434/koʔi/koʔi
+1460/loko/loko
+1586/soŋi/soŋi
+1725/koŋu/koŋu
+2101/make/make
+2103/mmae/mmae
+2103/usu/usu
+2279/he/he
+354/kuì/kuʔi
+3764/ìŋo/ʔiŋo
+379/puŋu/puŋu
+ABOVE/luŋa/luŋa
+ALL/aakoa/aːkoa
+AND/maa/maː
+ASH/lehu/lehu
+AT/i/i
+BACK/aŋa/aŋa
+BELLY/maŋava/maŋava
+BELOW OR UNDER/lalo/lalo
+BIG/lahi/lahi
+BIRD/manu/manu
+BITE/uu/uː
+BITE/eki/eki
+BLACK/'uli/ʔuli
+BLOOD/koko/koko
+BLOW (OF WIND)/maili/maili
+BONE/ivi/ivi
+BRANCH/laalaa/laːlaː
+BREAST/uu/uː
+BREATHE/maanava/maːnava
+BURN/kuŋi/kuŋi
+BUY/sui/sui
+CHEW/ŋamuŋamu/ŋamuŋamu
+CHILD/kamali'i/kamaliʔi
+CHOOSE/hili/hili
+CLIMB/à'e/ʔaʔe
+CLOUD/puulehu/puːlehu
+COLD/maalili/maːlili
+COME/hā mai/haːmai
+COOK (SOMETHING)/kao/kao
+COUNT/pau/pau
+CRY/kaŋi/kaŋi
+DAY (NOT NIGHT)/aho/aho
+DIG/'eli/ʔeli
+DIRTY/sava/sava
+DOG/poi/poi
+DREAM (SOMETHING)/miki/miki
+DRINK/uŋu/uŋu
+DRY/paupaʔu/paupaʔu
+DUST/puŋaehu/puŋaehu
+EAR/kaliŋa/kaliŋa
+EARTH (SOIL)/'ele/ʔele
+EAT/ài/ʔai
+EGG/hua/hua
+EIGHT/valu/valu
+EYE/maka/maka
+FALL/siŋa/siŋa
+FAR/mao/mao
+FAT (ORGANIC SUBSTANCE)/sunu/sunu
+FATHER/kama/kama
+FEAR (BE AFRAID)/maka'u/makaʔu
+FEATHER/palaa/palaː
+FEMALE PERSON/hiŋe/hiŋe
+FIRE/ahi/ahi
+FISH/kaŋaha/kaŋaha
+FIVE/lima/lima
+FLESH OR MEAT/aŋohi/aŋohi
+FLOW/kahe/kahe
+FLOWER/uke/uke
+FLY (MOVE THROUGH AIR)/lele/lele
+FOG/'ohu/ʔohu
+FOOT OR LEG/vae/vae
+FOOT OR LEG/kapuae/kapuae
+FOREST/vao/vao
+FOUR/hā/haː
+FRUIT/hua/hua
+GOOD/kau/kau
+GRASS/veve/veve
+GREEN/kea/kea
+GROW/kipu/kipu
+GROW/somo/somo
+HAIR/laulu/laulu
+HAND/lima/lima
+HE OR SHE/aīa/aiːa
+HEAD/poho/poho
+HEAR/loŋo/loŋo
+HEAVY/maha/maha
+HIDE/muŋi/muŋi
+HIT/kuì/kuʔi
+HIT/kaa/kaː
+HIT/paku/paku
+HIT/paa/paː
+HOLD/kaohi/kaohi
+HOUSE/hale/hale
+HOW/pehee/peheː
+HUNDRED/hui kalau/huikalau
+HUNT/kakaloko/kakaloko
+I/aŋau/aŋau
+IF/po/po
+INTESTINES/vaavaa/vaːvaː
+KILL/kaa/kaː
+LAUGH/àka/ʔaka
+LEAF/lau/lau
+LEFT/kevahi selaua/kevahiselaua
+LIE DOWN/ka'oko/kaʔoko
+LIGHTNING/uila/uila
+LIVER/àte/ʔate
+LONG/loa/loa
+LOUSE/'uku/ʔuku
+MALE PERSON/kaŋe/kaŋe
+MOON/malama/malama
+MOSQUITO/namu/namu
+MOTHER/kiiŋa/kiːŋa
+MOUTH/pu'u/puʔu
+NAME/iŋ0a/iŋoa
+NEAR/ŋei/ŋei
+NECK/'ua/ʔua
+NEEDLE (FOR SEWING)/sià/siʔa
+NEW/hoou/hoːu
+NIGHT/poo/poː
+NINE/sivo/sivo
+NOSE/aisu/aisu
+NOSE/isu/isu
+OLD/makua/makua
+OLD/mua/mua
+OLD/ukuai/ukuai
+ONE/kahi/kahi
+PATH OR ROAD/ala/ala
+PERSON/kaŋaka/kaŋaka
+RAIN (PRECIPITATION)/'ua/ʔua
+RAT/iole/iole
+RED/mea/mea
+RIGHT/lāua/laːua
+ROOT/paìaà/paʔiaʔa
+ROPE/maea/maea
+ROTTEN/popo/popo
+ROTTEN/pala/pala
+SAND/'ele/ʔele
+SAY/kakala/kakala
+SAY/meaʔe/meaʔe
+SCRATCH/la'u/laʔu
+SEA/moaŋa/moaŋa
+SEE/'ike/ʔike
+SEVEN/hiku/hiku
+SEW/kui/kui
+SHARP/àa/ʔaa
+SHOOT/pihi/pihi
+SHORT/poko/poko
+SIT/ŋoho/ŋoho
+SIX/oŋo/oŋo
+SKIN/ʔili/ʔili
+SKY/laŋi/laŋi
+SLEEP/moe/moe
+SMALL/suli/suli
+SMOKE (EXHAUST)/'ohu/ʔohu
+SNAKE/'aka/ʔaka
+SPIDER/velevele/velevele
+SPIT/saavale/saːvale
+SPLIT/vahi/vahi
+SQUEEZE/lomi/lomi
+STAND/uu/uː
+STAR/heku/heku
+STEAL/ailaiao/ailaiao
+STONE/haku/haku
+SUCK/miki/miki
+SWELL/ehula/ehula
+SWIM/àu/ʔau
+TAIL/mosuʔi/mosuʔi
+TEN/saŋahulu/saŋahulu
+THATCH OR ROOF/àko/ʔako
+THATCH OR ROOF/iŋaì/iŋaʔi
+THEY/lāua/laːua
+THEY/lākou/laːkou
+THICK/makolu/makolu
+THIN/maŋihi/maŋihi
+THINK/hakaoko/hakaoko
+THIS/ke ŋei/keŋei
+THOU/'oe/ʔoe
+THOUSAND/simaka hokahi/simakahokahi
+THREE/kolu/kolu
+THROW/pesi/pesi
+THUNDER/hakuli/hakuli
+TONGUE/alelo/alelo
+TOOTH/ŋiho/ŋiho
+TURN/huli/huli
+TURN/hakiʔe/hakiʔe
+TWO/lua/lua
+VOMIT/lua/lua
+WALK/haele/haele
+WARM/mahaŋa/mahaŋa
+WATER/vai/vai
+WE/kāua/kaːua
+WE/mākou/maːkou
+WE/kākou/kaːkou
+WE/māua/maːua
+WET/suu/suː
+WHAT/ke a/kea
+WHEN/ke ao he/keaohe
+WHERE/hea/hea
+WHITE/maʔiŋi/maʔiŋi
+WHO/ai/ai
+WIDE/laha/laha
+WIND/makaŋi/makaŋi
+WING/apaàu/apaʔau
+WORK (ACTIVITY)/heheaʔu/heheaʔu
+YEAR/kau/kau
+YELLOW/helo/helo
+YOU/oolua/oːlua

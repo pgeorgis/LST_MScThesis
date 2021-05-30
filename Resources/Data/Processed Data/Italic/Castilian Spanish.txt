@@ -1,0 +1,109 @@
+I/yo/ʑo
+I/mí/mi
+all/todo/tˈoðo
+ashes/ceniza/θenˈiθa
+bark/corteza/koɾtˈeθa
+belly /tripa/tɾˈipa
+big/grande/ɡɾˈande
+bird/pájaro/pˈaxaɾo
+bite/morder/moɾðˈeɾ
+black/negro/nˈeɣɾo
+blood/sangre/sˈaŋɡɾe
+bone/hueso/ˈweso
+breast/pecho/pˈeʧo
+burn tr./quemar/kemˈaɾ
+claw(nail)/uña/ˈuɲa
+cloud/nube/nˈuβe
+cold/frío/fɾˈio
+come/venir/benˈiɾ
+die/morir/moɾˈiɾ
+dog/perro/pˈero
+dry/seco/sˈeko
+ear/oreja/oɾˈexa
+earth/tierra/tˈjera
+eat/comer/komˈeɾ
+egg/huevo/ˈweβo
+eye/ojo/ˈoxo
+far/lejos/lˈexos
+fat n./grasa/ɡɾˈasa
+feather/pluma/plˈuma
+fire/fuego/fˈweɣo
+fish/pez/peθ
+fly v./volar/bolˈaɾ
+foot/pie/pje
+full/lleno/ʎˈeno
+give/dar/daɾ
+green/verde/bˈeɾðe
+hair/pelo/pˈelo
+hand/mano/mˈano
+head/cabeza/kɑβˈeθa
+hear/oír/oˈiɾ
+heart/corazón/koɾaθˈon
+heavy/pesado/pesˈaðo
+horn/cuerno/kˈwerno
+kill/matar/matˈaɾ
+knee/rodilla/roðˈiʎa
+know/saber/saβˈeɾ
+leaf/hoja/ˈoxa
+lie/estar tumbado/estˈaɾtumbˈaðo
+liver/hígado/ˈiɣaðo
+long/largo/lˈaɾɡo
+louse/piojo/pˈjoxo
+man/hombre/ˈombɾe
+many/mucho/mˈuʧo
+meat/carne/kˈaɾne
+moon/luna/lˈuna
+mouth/boca/bˈoka
+name/nombre/nˈombɾe
+near/cerca/θˈeɾka
+neck/cuello/kˈweʎo
+new/nuevo/nˈweβo
+night/noche/nˈoʧe
+nose/nariz/naɾˈiθ
+not/no/no
+one/un/un
+person/hombre/ˈombɾe
+rain/lluvia/ʎˈuβja
+red/rojo/rˈoxo
+road/camino/kamˈino
+root/raíz/raˈiθ
+round/redondo/reðˈonðo
+salt/sal/sal
+sand/arena/aɾˈena
+say/decir/deθˈiɾ
+see/ver/beɾ
+seed/semilla/semˈiʎa
+short/corto/kˈoɾto
+sit/estar sentado/estˈaɾsentˈaðo
+skin/piel/pjel
+sleep/dormir/doɾmˈiɾ
+small/pequeño/pekˈeɲo
+smoke/humo/ˈumo
+stand/estar de pie/estˈaɾdepˈje
+star/estrella/estɾˈeʎa
+stone/piedra/pˈjeðɾa
+sun/sol/sol
+swim/nadar/naðˈaɾ
+tail/cola/kˈola
+tail/rabo/rˈaβo
+that/aquel/akˈel
+that/ese/ˈese
+thin/fino/fˈino
+this/este/ˈeste
+thou/tú/tu
+tongue/lengua/lˈeŋɡwa
+tooth/diente/dˈjente
+tree/árbol/ˈaɾβol
+two/dos/dos
+walk (go)/va/ba
+walk (go)/iba/ˈiβa
+warm (hot)/caliente/kalˈjente
+water/agua/ˈaɣwa
+we/nosotros/nosˈotɾos
+what/qué/ke
+white/blanco/blˈaŋko
+who/quién/kjen
+wind/viento/bˈjento
+worm/lombriz/lombɾˈiθ
+year/año/ˈaɲo
+yellow/amarillo/amaɾˈiʎo

@@ -1,0 +1,239 @@
+1094/lilii/liliː
+1156/afangi/afaŋi
+1410/iloa/iloa
+1422/ola/ola
+1432/talai/talai
+1432/hele/hele
+1432/kokoti/kokoti
+1432/iihi/iːhi
+1434/huki/huki
+1434/hoka/hoka
+1460/loto/loto
+1586/hoŋi/hoŋi
+1725/tonu/tonu
+1725/tika/tika
+2101/mate/mate
+2103/maki/maki
+2279/tee/teː
+354/tuki/tuki
+3805/maa/maː
+ABOVE/lunga/luŋa
+ALL/gotoa/ɡotoa
+AND/mo/mo
+AND/ma/ma
+ASH/efu/efu
+AT/i/i
+BACK/tu'a/tuʔa
+BELLY/manava/manava
+BELOW OR UNDER/lalo/lalo
+BIG/lahi/lahi
+BIRD/manu lele/manulele
+BITE/eti/eti
+BLACK/uli/uli
+BLOOD/toto/toto
+BLOW (OF WIND)/havili/havili
+BLOW (OF WIND)/puhi/puhi
+BLOW (OF WIND)/ifi/ifi
+BONE/ivi/ivi
+BONE/hui/hui
+BRANCH/laalaa/laːlaː
+BRANCH/laa/laː
+BREAST/huhu/huhu
+BREATHE/manava/manava
+BURN/tungi/tuŋi
+BURN/tafu/tafu
+BUY/taui/taui
+CHEW/gau/ɡau
+CHILD/tamaikiiki/tamaikiiki
+CHOOSE/fifili/fifili
+CLOUD/lagi/laɡi
+COLD/makalili/makalili
+COME/aua/aua
+COOK (SOMETHING)/tao/tao
+COUNT/totou/totou
+CRY/tagi/taɡi
+DAY (NOT NIGHT)/aho/aho
+DIG/keli/keli
+DIRTY/pilo/pilo
+DIRTY/palapala/palapala
+DOG/kulii/kuliː
+DREAM (SOMETHING)/miti/miti
+DRINK/inu/inu
+DRY/pakaka/pakaka
+DRY/maha/maha
+DUST/puefu/puefu
+DUST/efu/efu
+EAR/teliŋa/teliŋa
+EARTH (SOIL)/kele/kele
+EAT/kai/kai
+EIGHT/valu/valu
+EYE/mata/mata
+FALL/mokulu/mokulu
+FAR/mamao/mamao
+FAT (ORGANIC SUBSTANCE)/huni/huni
+FAT (ORGANIC SUBSTANCE)/gako/ɡako
+FATHER/matua taane/matuataːne
+FEAR (BE AFRAID)/mataku/mataku
+FEATHER/palaa/palaː
+FEMALE PERSON/-fine/fine
+FEMALE PERSON/fifine/fifine
+FIFTY/lima fiha/limafiha
+FIRE/afi/afi
+FISH/ika/ika
+FIVE/lima/lima
+FLESH OR MEAT/kiko/kiko
+FLESH OR MEAT/kakano/kakano
+FLOW/tafe/tafe
+FLOWER/fiti/fiti
+FLY (MOVE THROUGH AIR)/lele/lele
+FOOT OR LEG/vee/veː
+FOREST/vao/vao
+FOREST/ulu/ulu
+FOUR/faa/faː
+FRUIT/fua/fua
+GOOD/-melie/melie
+GREEN/lanu laukou/lanulaukou
+GROW/tupu/tupu
+HAIR/lau ulu/lauulu
+HAIR/fulu/fulu
+HAND/lima/lima
+HE OR SHE/ia/ia
+HEAD/ulu/ulu
+HEAR/faanoŋo/faːnoŋo
+HEAVY/mamafa/mamafa
+HIT/tuki/tuki
+HIT/taa/taː
+HIT/haha/haha
+HIT/poki/poki
+HIT/paa/paː
+HOLD/hapo/hapo
+HOLD/kuku/kuku
+HOUSE/fale/fale
+HOUSE/kaina/kaina
+HOW/pehe/pehe
+HUNDRED/te au/teau
+HUSBAND/taane/taːne
+I/-ku/ku
+I/kau/kau
+INTESTINES/ŋaakau/ŋaːkau
+KILL/taa/taː
+LAKE/namo/namo
+LAKE/loto/loto
+LAUGH/kata/kata
+LEAF/au/au
+LEFT/hema/hema
+LIE DOWN/takoto/takoto
+LIGHTNING/uhila/uhila
+LIVER/ate/ate
+LONG/loa/loa
+LOUSE/tuma/tuma
+LOUSE/kutu/kutu
+MALE PERSON/taane/taːne
+MOON/mahina/mahina
+MOSQUITO/namu/namu
+MOTHER/matua fifina/matuafifina
+MOUTH/ŋutu/ŋutu
+NAME/higoa/hiɡoa
+NARROW/tote/tote
+NEAR/tata/tata
+NECK/ua/ua
+NEEDLE (FOR SEWING)/hika/hika
+NEW/foou/foːu
+NIGHT/pouli-/pouli
+NIGHT/poo/poː
+NINE/hiva/hiva
+NOSE/ihu/ihu
+OLD/tuai/tuai
+ONE/taha/taha
+OTHER/falu/falu
+PATH OR ROAD/hala/hala
+PERSON/taŋata/taŋata
+PLANT (SOMETHING)/too/toː
+RAIN (PRECIPITATION)/uha/uha
+RAT/kumaa/kumaː
+RED/kula/kula
+RIGHT/matau/matau
+ROOT/aka/aka
+ROPE/toua/toua
+ROTTEN/popo/popo
+ROTTEN/pala/pala
+SALT/matima/matima
+SAND/one/one
+SAY/ke pehe/kepehe
+SCRATCH/laku/laku
+SCRATCH/alati/alati
+SEA/tahi/tahi
+SEA/moana/moana
+SEE/mata/mata
+SEVEN/fitu/fitu
+SEW/tui/tui
+SHARP/matila/matila
+SHOOT/fana/fana
+SHORT/puku/puku
+SHOULDER/tuke/tuke
+SIT/nofo/nofo
+SIX/ono/ono
+SKIN/kili/kili
+SLEEP/mohe/mohe
+SMALL/puku/puku
+SMALL/liki/liki
+SMOKE (EXHAUST)/ahu/ahu
+SNAKE/gata/ɡata
+SPIDER/kufani/kufani
+SPIT/anu/anu
+SPLIT/matofi/matofi
+SQUEEZE/tatau/tatau
+SQUEEZE/lomi/lomi
+STAND/tuu/tuː
+STAR/fetuu/fetuː
+STEAL/kaihaa/kaihaː
+STICK/laakau/laːkau
+STONE/maka/maka
+STONE/patu/patu
+SUCK/miti/miti
+SWELL/fula/fula
+SWIM/kou/kou
+TAIL/hiku/hiku
+TEN/hongofulu/hoŋofulu
+THAT/ia/ia
+THATCH OR ROOF/ato/ato
+THEY/maua/maua
+THICK/matolu/matolu
+THIN/aleale/aleale
+THINK/manatu/manatu
+THINK/mahala/mahala
+THOU/koe/koe
+THOUSAND/afe/afe
+THREE/tolu/tolu
+THROW/velo/velo
+THUNDER/pakūlagi/pakuːlaɡi
+TONGUE/alelo/alelo
+TOOTH/nifo/nifo
+TURN/fuli/fuli
+TWENTY/tekau/tekau
+TWO/ua/ua
+VOMIT/puhaki/puhaki
+VOMIT/lua/lua
+WALK/haele/haele
+WARM/mafana/mafana
+WATER/vai/vai
+WE/mautolu/mautolu
+WE/maua/maua
+WE/tautolu/tautolu
+WE/taua/taua
+WHAT/haa/haː
+WHEN/fe_/fe
+WHERE/fee/feː
+WHITE/tea/tea
+WHO/hai/hai
+WIDE/laulahi/laulahi
+WIFE/hoana/hoana
+WIND/havili/havili
+WIND/mataŋi/mataŋi
+WING/peehau/peːhau
+WING/tapakau/tapakau
+WORK (ACTIVITY)/gahua/ɡahua
+WORM/kelemutu/kelemutu
+YAWN/mamao/mamao
+YEAR/tau/tau
+YELLOW/ago/aɡo

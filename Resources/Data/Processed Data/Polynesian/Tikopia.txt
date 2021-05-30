@@ -1,0 +1,243 @@
+1094/noa/noa
+1094/rii/riː
+1094/fau/fau
+1156/afaafa/afaːfa
+1410/poto/poto
+1410/iloa/iloa
+1422/ora/ora
+1432/tuu/tuː
+1432/sere/sere
+1432/kokoti/kokoti
+1434/suki/suki
+1460/roto/roto
+1586/songi/soŋi
+1725/tonu/tonu
+2101/mate/mate
+2103/ngaengae/ŋaeŋae
+2279/siei/siei
+354/tuki/tuki
+3764/pariki/pariki
+379/paku/paku
+3805/koro/koro
+ABOVE/luga. ruga/luɡaruɡa
+ALL/katoa/katoa
+AND/mo/mo
+AND/ma/ma
+ASH/refu/refu
+AT/i/i
+BACK/tua/tua
+BELLY/manava/manava
+BELLY/kona/kona
+BELOW OR UNDER/raro/raro
+BIG/lasi/lasi
+BIRD/manu/manu
+BITE/uuti/uːti
+BITE/kati/kati
+BITE/ngau/ŋau
+BLACK/uri/uri
+BLOOD/toto/toto
+BLOW (OF WIND)/angi/aŋi
+BONE/ivi/ivi
+BRANCH/rakau/rakau
+BRANCH/raa/raː
+BREAST/uu/uː
+BREATHE/maanava/maːnava
+BURN/tutu/tutu
+BURN/tafu/tafu
+CHEW/ngau/ŋau
+CHILD/tamariki/tamariki
+CHOOSE/firi/firi
+CLIMB/kake/kake
+CLOUD/ao/ao
+COLD/makariri/makariri
+COME/au/au
+COOK (SOMETHING)/tao/tao
+COUNT/tau/tau
+COUNT/rau/rau
+CRY/tangi/taŋi
+DAY (NOT NIGHT)/aso/aso
+DIG/keri/keri
+DIRTY/kere/kere
+DOG/kuri/kuri
+DREAM (SOMETHING)/miti/miti
+DRINK/inu/inu
+DRY/maroo/maroː
+DRY/masa/masa
+DUST/refu/refu
+EAR/taringa/tariŋa
+EARTH (SOIL)/kere/kere
+EAT/kai/kai
+EGG/fuei/fuei
+EIGHT/varu/varu
+EYE/mata/mata
+FALL/singa/siŋa
+FAR/mao/mao
+FAT (ORGANIC SUBSTANCE)/sinu/sinu
+FATHER/tama/tama
+FEAR (BE AFRAID)/mataku/mataku
+FEATHER/furu/furu
+FEMALE PERSON/fine/fine
+FIRE/afi/afi
+FISH/ika/ika
+FIVE/rima/rima
+FLESH OR MEAT/kanofi/kanofi
+FLOW/ranu/ranu
+FLOWER/see/seː
+FLY (MOVE THROUGH AIR)/rere/rere
+FOG/nefu/nefu
+FOOT OR LEG/vae/vae
+FOREST/-vao/vao
+FOUR/faa/faː
+FRUIT/fua/fua
+GOOD/rekareka/rekareka
+GRASS/mauku/mauku
+GREEN/kefu/kefu
+GREEN/mata/mata
+GROW/tupu/tupu
+HAIR/rauuru/rauuru
+HAIR/furu/furu
+HAND/rima/rima
+HE OR SHE/ia/ia
+HEAD/poko/poko
+HEAR/rogo/roɡo
+HEAVY/mafa/mafa
+HIDE/funa/funa
+HIT/tuki/tuki
+HIT/taa/taː
+HIT/sasa/sasa
+HIT/paa/paː
+HOLD/sapo/sapo
+HOLD/puke/puke
+HOLD/kuku/kuku
+HOLD/fesu/fesu
+HOUSE/fare/fare
+HOUSE/paito/paito
+HOW/fefea/fefea
+HUNDRED/rau/rau
+HUNT/fara/fara
+HUNT/turi/turi
+I/-ku/ku
+I/kau/kau
+IF/ka/ka
+INTESTINES/ngakau/ŋakau
+KILL/ta/ta
+LAKE/roto/roto
+LAUGH/kata/kata
+LEAF/rau/rau
+LEFT/sema/sema
+LIE DOWN/moe/moe
+LIGHTNING/uira/uira
+LIVER/ate/ate
+LONG/loa/loa
+LOUSE/kutu/kutu
+MALE PERSON/taane/taːne
+MOON/marama/marama
+MOSQUITO/namu/namu
+MOTHER/tinana/tinana
+MOTHER/nau/nau
+MOTHER/nana/nana
+MOUTH/ngutu/ŋutu
+NAME/igoa/iɡoa
+NARROW/komo/komo
+NEAR/piri/piri
+NECK/ua/ua
+NEEDLE (FOR SEWING)/sika/sika
+NEEDLE (FOR SEWING)/sau/sau
+NEW/fou/fou
+NIGHT/poo/poː
+NINE/siva/siva
+NOSE/isu/isu
+OLD/mātua/maːtua
+ONE/tasi/tasi
+PATH OR ROAD/ara/ara
+PERSON/tangata/taŋata
+PLANT (SOMETHING)/too/toː
+RAIN (PRECIPITATION)/ua/ua
+RAT/kumari/kumari
+RAT/kiore/kiore
+RED/mero/mero
+RED/mea/mea
+RIGHT/matau/matau
+ROOT/vaiaka/vaiaka
+ROPE/maea/maea
+ROTTEN/kuu/kuː
+ROTTEN/para/para
+SAND/one/one
+SAY/muna/muna
+SCRATCH/maŋiso/maŋiso
+SEA/tai/tai
+SEA/moana/moana
+SEE/kite/kite
+SEVEN/fitu/fitu
+SEW/tui/tui
+SHARP/mata/mata
+SHOOT/fana/fana
+SHORT/pukupuku/pukupuku
+SHOULDER/kapakau/kapakau
+SIT/nofo/nofo
+SIX/ono/ono
+SKIN/kiri/kiri
+SKY/ragi/raɡi
+SLEEP/moe/moe
+SMALL/pukupuku/pukupuku
+SMOKE (EXHAUST)/kofu/kofu
+SMOKE (EXHAUST)/ausiafi/ausiafi
+SNAKE/ŋau/ŋau
+SPIT/aanu/aːnu
+SPLIT/faa/faː
+SQUEEZE/kumi/kumi
+STAND/tuu/tuː
+STAR/fetuu/fetuː
+STEAL/kaia/kaia
+STICK/rakau/rakau
+STONE/fatu/fatu
+SUCK/puku/puku
+SUCK/miti/miti
+SWELL/fura/fura
+SWIM/kau/kau
+TAIL/sikusiku/sikusiku
+TEN/angafuru/aŋafuru
+THAT/na/na
+THATCH OR ROOF/rautau/rautau
+THEY/ratou/ratou
+THEY/raua/raua
+THICK/maatoru/maːtoru
+THIN/nifi/nifi
+THINK/maanatu/maːnatu
+THIS/nei/nei
+THOU/koe/koe
+THOU/kee/keː
+THOUSAND/mano/mano
+THREE/toru/toru
+THUNDER/mana/mana
+THUNDER/fatitiri/fatitiri
+TONGUE/alelo/alelo
+TOOTH/nifo/nifo
+TURN/pare/pare
+TWO/rua/rua
+VOMIT/rua/rua
+WALK/tahao/tahao
+WALK/saere/saere
+WARM/mafana/mafana
+WATER/vai/vai
+WE/tou/tou
+WET/suu/suː
+WHAT/aa/aː
+WHEN/afea/afea
+WHERE/fea/fea
+WHITE/tea/tea
+WHITE/kena/kena
+WHO/ai/ai
+WIDE/lafalafa/lafalafa
+WIFE/nofine/nofine
+WIND/matagi/mataɡi
+WING/kapakau/kapakau
+WORK (ACTIVITY)/sanga/saŋa
+WORK (ACTIVITY)/ngaua/ŋaua
+YAWN/mava/mava
+YEAR/tau/tau
+YELLOW/senga/seŋa
+YELLOW/fero/fero
+YOU/kootou/koːtou
+YOU/korua/korua
+YOU/kee/keː

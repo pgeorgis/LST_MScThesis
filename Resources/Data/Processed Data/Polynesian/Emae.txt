@@ -1,0 +1,189 @@
+1094/salia/salia
+1410/iroa/iroa
+1422/mauri/mauri
+1432/teia/teia
+1434/laβoa/laβoa
+1434/sukia/sukia
+1460/i roto/iroto
+1586/saŋotia/saŋotia
+1725/sumarie/sumarie
+2101/mate/mate
+2103/masaki/masaki
+2279/e·/e
+3764/sati/sati
+ALL/pini/pini
+AND/mare/mare
+AND/ma/ma
+ASH/refu/refu
+BACK/simatua/simatua
+BELLY/nakau/nakau
+BIG/lasi/lasi
+BIRD/manu/manu
+BITE/utia/utia
+BLACK/uri/uri
+BLOOD/toto/toto
+BLOW (OF WIND)/rifia/rifia
+BONE/sui/sui
+BREAST/mumu/mumu
+BREATHE/manaβa/manaβa
+BURN/tuŋia/tuŋia
+CHILD/tamati·ti/tamatiti
+CLOUD/ᵐboroa/ᵐboroa
+COLD/makariri/makariri
+COME/numai/numai
+COOK (SOMETHING)/moso/moso
+COUNT/taua/taua
+CRY/taŋi/taŋi
+DAY (NOT NIGHT)/aso/aso
+DIG/keria/keria
+DIRTY/uri/uri
+DOG/kuri/kuri
+DRINK/βinu/βinu
+DRY/maro/maro
+DUST/refu/refu
+EAR/tariŋa/tariŋa
+EARTH (SOIL)/kere/kere
+EAT/foro/foro
+EAT/kaikai/kaikai
+EGG/fua-moa/fuamoa
+EIGHT/βaru/βaru
+EYE/mata/mata
+FALL/to/to
+FAR/iᵐbua/iᵐbua
+FAT (ORGANIC SUBSTANCE)/ŋako/ŋako
+FATHER/tama-n/taman
+FEAR (BE AFRAID)/mataku/mataku
+FEATHER/ᵐbala/ᵐbala
+FEMALE PERSON/fafine/fafine
+FIRE/afi/afi
+FISH/ika/ika
+FIVE/rima/rima
+FLESH OR MEAT/kanmate/kanmate
+FLOW/tafe/tafe
+FLOWER/se rakau/serakau
+FLY (MOVE THROUGH AIR)/rere/rere
+FOG/ne-funefu/nefunefu
+FOOT OR LEG/βae/βae
+FOREST/aβao/aβao
+FOUR/fa/fa
+FRUIT/afua/afua
+GOOD/sumarie/sumarie
+GRASS/mauku/mauku
+GREEN/matamata/matamata
+HAIR/fere-uru/fereuru
+HAND/rima/rima
+HE OR SHE/koia/koia
+HEAD/na-uru/nauru
+HEAR/fanoŋo/fanoŋo
+HEAVY/mamafa/mamafa
+HIT/pakia/pakia
+HOLD/tauai/tauai
+HOUSE/fare/fare
+HOW/fakafeina/fakafeina
+HUNT/kolikoli/kolikoli
+HUSBAND/matua/matua
+I/kou/kou
+IF/ka/ka
+INTESTINES/tinae/tinae
+KILL/teia-kemate/teiakemate
+LAUGH/kata/kata
+LEAF/raurau/raurau
+LEFT/sema/sema
+LIE DOWN/moe/moe
+LIGHTNING/wira/wira
+LIVER/ate/ate
+LONG/leβaleβa/leβaleβa
+LOUSE/kutu/kutu
+MALE PERSON/taŋata/taŋata
+MOON/masina/masina
+MOSQUITO/namu/namu
+MOTHER/tinana/tinana
+MOTHER/nau/nau
+MOUTH/ŋutu/ŋutu
+NAME/iŋoa/iŋoa
+NARROW/ti·ti/titi
+NEAR/fefetai/fefetai
+NECK/ua/ua
+NEW/fou/fou
+NIGHT/po/po
+NINE/siβa/siβa
+NOSE/isu/isu
+OLD/tuai/tuai
+ONE/tasi/tasi
+PATH OR ROAD/ara/ara
+PERSON/taŋata/taŋata
+RAIN (PRECIPITATION)/u·a/ua
+RAT/kimoa/kimoa
+RED/loa/loa
+RIGHT/matau/matau
+ROOT/kai rakau/kairakau
+ROPE/faβa/faβa
+ROTTEN/popo/popo
+SALT/tai/tai
+SAND/one/one
+SAY/muna/muna
+SCRATCH/rakutia/rakutia
+SEA/tai/tai
+SEE/kutea/kutea
+SEVEN/fitu/fitu
+SEW/tuitui/tuitui
+SHARP/makakai/makakai
+SHOULDER/pamu/pamu
+SIT/nofoiraro/nofoiraro
+SIX/ono/ono
+SKIN/kiri/kiri
+SKY/raŋi/raŋi
+SLEEP/moe/moe
+SLEEP/ŋoro/ŋoro
+SMALL/ti·ti/titi
+SMOKE (EXHAUST)/asuafi/asuafi
+SNAKE/ŋata/ŋata
+SPIT/nusi/nusi
+SPLIT/tafaia/tafaia
+SQUEEZE/toβia/toβia
+STAND/tuiruŋa/tuiruŋa
+STAR/fetu/fetu
+STICK/rakau/rakau
+STONE/maka/maka
+SUCK/mumu/mumu
+SWIM/kaokao/kaokao
+TAIL/siku/siku
+TEN/ŋafuru/ŋafuru
+THAT/ira/ira
+THEY/raua/raua
+THEY/ra·tou/ratou
+THICK/matorutoru/matorutoru
+THIN/manifinifi/manifinifi
+THINK/fakaturia/fakaturia
+THIS/reni/reni
+THOU/akue/akue
+THREE/toru/toru
+THROW/pepe/pepe
+THROW/pesia/pesia
+THUNDER/fatiri/fatiri
+TONGUE/arero/arero
+TOOTH/nifo/nifo
+TURN/fariu/fariu
+TWO/rua/rua
+VOMIT/rua/rua
+WALK/saere/saere
+WARM/mafanafana/mafanafana
+WATER/βai/βai
+WE/maua/maua
+WE/taua/taua
+WE/ma·tou/matou
+WE/ta·tou/tatou
+WET/roro/roro
+WHAT/rea/rea
+WHEN/afe/afe
+WHERE/ife/ife
+WHITE/tea/tea
+WHO/koi/koi
+WIFE/finamatua/finamatua
+WIND/mataŋi/mataŋi
+WING/pakakau/pakakau
+WORK (ACTIVITY)/feisaŋa/feisaŋa
+YEAR/tau/tau
+YELLOW/ferofero/ferofero
+YOU/korua/korua
+YOU/ko·tou/kotou
