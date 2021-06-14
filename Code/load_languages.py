@@ -104,6 +104,7 @@ class Language:
 
 Italic = Family('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/Italic/Italic forms.csv', 'Italic')   
 Polynesian = Family('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/Polynesian/Polynesian forms.csv', 'Polynesian')    
+Sinitic = Family('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/Sinitic/Sinitic forms.csv', 'Sinitic')
 Turkic = Family('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/Turkic/Turkic forms.csv', 'Turkic')
 
 
