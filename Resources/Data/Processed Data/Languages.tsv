@@ -14,7 +14,7 @@ Arabic	Afro-Asiatic, Semitic, Arabian, Levantine Arabic	Syrian Arabic	Dms	North 
 Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Maltese	Mlt	Maltese	malt1254	mlt	Maltese	Ratcliffe (2020)	
 Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Moroccan Arabic	Mor	Moroccan Arabic	moro1292	ary	Moroccan Arabic	Ratcliffe (2020)	Dialect of urban centers in Morocco
 Hokan	Chimariko	Chimariko	Chimariko	Chimariko	chim1301	cid	Chimariko	Zhivlov (2011)	
-Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman	Cocopa	﻿Cocopa	Cocopa	coco1261	coc	Cocopa	Zhivlov (2015)	
+Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman	Cocopa	Cocopa	Cocopa	coco1261	coc	Cocopa	Zhivlov (2015)	
 Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Ipai	Mesa Grande 'Iipay	Ipai	ipai1240	dih	Kumiai	Zhivlov (2015)	
 Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Tipay	Jamul Tiipay	Tipay	kumi1248	dih	Kumiai	Zhivlov (2015)	
 Hokan	Cochimi-Yuman, Yuman, Pai	Yavapai	Yavapai	Yavapai	yava1252	yuf	Havasupai-Walapai-Yavapai	Zhivlov (2015)	
@@ -33,8 +33,8 @@ Hokan	Tequistlatecan	Highland Chontal	Highland Chontal	Highland Oaxaca Chontal	h
 Hokan	Yana	Central Yana	Central Yana	Central Yana	cent2137	ynn	Yana	Zhivlov (2013)	
 Hokan	Yana	Northern Yana	Northern Yana	Northern Yana	nort2963	ynn	Yana	Zhivlov (2013)	
 Hokan	Yana	Yahi	Yahi	Yahi	yahi1243	ynn	Yana	Zhivlov (2013)	
-Italic	Indo-European, Italic	Latin (Archaic)	﻿Archaic Latin	Old Latin	oldl1238	qbb		Saenko (2016)	
-Italic	Indo-European, Italic	Latin (Late Classical)	Late Classical Latin	﻿Late Latin	late1252	lat	Latin	Saenko (2016)	
+Italic	Indo-European, Italic	Latin (Archaic)	Archaic Latin	Old Latin	oldl1238	qbb		Saenko (2016)	
+Italic	Indo-European, Italic	Latin (Late Classical)	Late Classical Latin	Late Latin	late1252	lat	Latin	Saenko (2016)	
 Italic	Indo-European, Italic, Eastern Romance	Aromanian	Aromanian	Aromanian	arom1237	rup	Aromanian	Saenko (2016)	
 Italic	Indo-European, Italic, Eastern Romance	Istro-Romanian	Istro Romanian	Istro Romanian	istr1245	ruo	Istro Romanian	Saenko (2016)	
 Italic	Indo-European, Italic, Eastern Romance	Megleno-Romanian	Megleno Romanian	Megleno Romanian	megl1237	ruq	Megleno Romanian	Saenko (2016)	
@@ -42,25 +42,25 @@ Italic	Indo-European, Italic, Eastern Romance	Romanian	Romanian	Romanian	roma132
 Italic	Indo-European, Italic, Italo-Dalmatian	Dalmatian	Dalmatian	Dalmatian	dalm1243	dlm	Dalmatian	Saenko (2016)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Italian	Standard Italian	Italian	ital1282	ita	Italian	Saenko (2016)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Italian (Foligno)	Foligno Italian					Saenko (2016)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Italian (Grosseto Tuscan)	Grosseto Tuscan Italian					Saenko (2016)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Neapolitan	Neapolitan	﻿Napoletano	napo1241	nap	Neapolitan	Saenko (2016)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Old Italian	Italian, Old	Old Italian	fior1236	ita	Italian	Saenko (2016)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Italian (Grosseto Tuscan)	Grosseto Italian					Saenko (2016)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Neapolitan	Neapolitan	Napoletano	napo1241	nap	Neapolitan	Saenko (2016)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Old Italian	Old Italian	Old Italian	fior1236	ita	Italian	Saenko (2016)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Catanian)	Catanian Sicilian	Eastern Nonmetafonetica	east2279	scn	Sicilian	Saenko (2016)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Messinese)	Messinese Sicilian	Messinese	mess1247	scn	Sicilian	Saenko (2016)	
-Italic	Indo-European, Italic, Italo-Dalmatian	﻿Sicilian (Palermitan)	Palermitan Sicilian	Western Sicilian	west2346	scn	﻿Sicilian	Saenko (2016)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Palermitan)	Palermitan Sicilian	Western Sicilian	west2346	scn	Sicilian	Saenko (2016)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Southeastern)	South-Eastern Sicilian	Southeast Metafonetica	sout2617	scn	Sicilian	Saenko (2016)	
 Italic	Indo-European, Italic, Southern Romance	Sardinian (Campidanese)	Campidanese	Campidanese Sardinian	camp1261	sro	Campidanese Sardinian	Saenko (2016)	
 Italic	Indo-European, Italic, Southern Romance	Sardinian (Logudorese)	Logudorese	Logudorese Sardinian	logu1236	src	Logudorese Sardinian	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Asturian	Asturian	Asturian	astu1246	ast	Asturian; Leonese	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Castelló de la Plana)	Castelló de la Plana Catalan	﻿Valencià Meridional	vale1255	cat	Valencian	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Central)	Central Catalan	﻿Central Catalan	nons1235	cat	Catalan	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Catalan (Castelló de la Plana)	Castelló de la Plana Catalan	Valencià Meridional	vale1255	cat	Valencian	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Catalan (Central)	Central Catalan	Central Catalan	nons1235	cat	Catalan	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Catalan (Manises)	Manises Catalan	Valencià Septentrional	vale1253	cat	Valencian	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Catalan (Minorcan)	Minorcan Catalan	Menorquí	meno1253	cat	Catalan	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Catalan (Northwestern)	North-Western Catalan	Català Nord-Occidental	cata1291	cat	Catalan	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Catalan (Valencia)	Valencia Catalan	Valencià	vale1252	cat	Valencian	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Emiliano (Carpigiano)	Carpigiano Emiliano	Emiliano	emil1241	egl	Emilian	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Emiliano (Ferrarese)	Ferrarese Emiliano	﻿Eastern Emiliano	east2275	egl	Emilian	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Emiliano (Reggiano)	Reggiano Emiliano	﻿Central Emiliano	cent1959	egl	Emilian	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Emiliano (Ferrarese)	Ferrarese Emiliano	Eastern Emiliano	east2275	egl	Emilian	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Emiliano (Reggiano)	Reggiano Emiliano	Central Emiliano	cent1959	egl	Emilian	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Franco-Provençal	Savoyard Franco-Provençal	Francoprovencalic	fran1269	frp	Francoprovençal	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	French	Standard French	French	stan1290	fra	French	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Friulian	Friulian	Friulian	friu1240	fur	Friulian	Saenko (2016)	
@@ -70,28 +70,28 @@ Italic	Indo-European, Italic, Western Romance	Ladin (Gardenese)	Gardenese Ladin	
 Italic	Indo-European, Italic, Western Romance	Ligurian (Genoese)	Genoese Ligurian	Genoese	geno1240	lij	Ligurian	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Ligurian (Rapallo)	Rapallo Ligurian			lij	Ligurian	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Ligurian (Stella)	Stella Ligurian			lij	Ligurian	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Lombard (Bergamo)	Bergamo Lombard	﻿Bergamasco	berg1241	lmo	Lombard	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Lombard (Bergamo)	Bergamo Lombard	Bergamasco	berg1241	lmo	Lombard	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Lombard (Plesio)	Plesio Lombard	Western Lombard	west2343	lmo	Lombard	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	﻿Occitan (post 1500)	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Old French	French, Old	Old French (842-ca. 1400)	oldf1239	fro	﻿Old French (842-ca. 1400)	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Old French	Old French	Old French (842-ca. 1400)	oldf1239	fro	Old French (842-ca. 1400)	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Picard	Picard	Picard	pica1241	pcd	Picard	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Piemontese (Barbania)	Barbania Piemontese			pms	Piemontese	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Piemontese (Carmagnola)	Carmagnola Piemontese			pms	Piemontese	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	﻿Piemontese (Lanzo Torinese)	Lanzo Torinese Piemontese			pms	Piemontese	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Turinese)	Turinese Piemontese	﻿Turinese	turi1245	pms	Piemontese	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Piemontese (Lanzo Torinese)	Lanzo Torinese Piemontese			pms	Piemontese	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Piemontese (Turinese)	Turinese Piemontese	Turinese	turi1245	pms	Piemontese	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Piemontese (Vercellese)	Vercellese Piemontese			pms	Piemontese	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Portuguese	Standard Portuguese	Portuguese	port1283	por	Portuguese	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Romagnol	Ravennate Romagnol	Romagnol	roma1328	rgn	﻿Romagnol	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Romansh (Grischun)	Rumantsch Grischun	﻿Rumantsch Grischun	ruma1247	roh	Romansh	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Romagnol	Ravennate Romagnol	Romagnol	roma1328	rgn	Romagnol	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Romansh (Grischun)	Rumantsch Grischun	Rumantsch Grischun	ruma1247	roh	Romansh	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Romansh (Surmiran)	Surmiran Romansh	Surmiran-Albula	surm1243	roh	Romansh	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Romansh (Sursilvan)	Sursilvan Romansh	Sursilvan	surs1244	roh	Romansh	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Romansh (Vallader)	Vallader Romansh	Lower Engadine	lowe1386	roh	Romansh	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Spanish	Castilian Spanish	﻿Castilian	cast1244	spa	Spanish	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Spanish	Castilian Spanish	Castilian	cast1244	spa	Spanish	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Venetian (Bellunese)	Bellunese Venetian	Triestine	trie1242	vec	Venetian	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Venetian (Primiero)	Primiero Venetian	Trentine	tret1239	vec	Venetian	Saenko (2016)	
-Italic	Indo-European, Italic, Western Romance	Venetian (Venice)	Venice Venetian	﻿Venetian Proper	vene1259	vec	Venetian	Saenko (2016)	
+Italic	Indo-European, Italic, Western Romance	Venetian (Venice)	Venice Venetian	Venetian Proper	vene1259	vec	Venetian	Saenko (2016)	
 Italic	Indo-European, Italic, Western Romance	Walloon	Walloon	Walloon	wall1255	wln	Walloon	Saenko (2016)	
-NorthEuraLex	Abkhaz-Adyge, Abkhaz-Abaza	Abkhaz	Abkhaz	﻿Abkhaz	abkh1244	abk	Abkhazian	Dellert et al., 2019	
+NorthEuraLex	Abkhaz-Adyge, Abkhaz-Abaza	Abkhaz	Abkhaz	Abkhaz	abkh1244	abk	Abkhazian	Dellert et al., 2019	
 NorthEuraLex	Abkhaz-Adyge, Circassian	Adyghe	Adyghe	Adyghe	adyg1241	ady	Adyghe	Dellert et al., 2019	
 NorthEuraLex	Afro-Asiatic, Semitic	Modern Hebrew	Modern Hebrew	Modern Hebrew	hebr1245	heb	Hebrew	Dellert et al., 2019	
 NorthEuraLex	Afro-Asiatic, Semitic	Standard Arabic	Standard Arabic	Standard Arabic	stan1318	arb	Standard Arabic	Dellert et al., 2019	
@@ -228,7 +228,7 @@ Polynesian	Austronesian, Polynesian, Vaeakau-Taumako	Vaeakau-Taumako	VaeakauTaum
 Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Emae	Emae	Emae	emae1237	mmw	Emae	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Futuna-Aniwa	FutunaAniwa	Futuna-Aniwa	futu1245	fut	Futuna-Aniwa	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Mele-Fila	MeleFila	Mele-Fila	mele1250	mxe	Mele-Fila	Walworth, 2018	
-Sinitic	Sino-Tibetan, Sinitic, Gan	Nanchang	Nanchang	Nanchang	nanc1254	gan	﻿Gan Chinese	Líu et al., 2007	
+Sinitic	Sino-Tibetan, Sinitic, Gan	Nanchang	Nanchang	Nanchang	nanc1254	gan	Gan Chinese	Líu et al., 2007	
 Sinitic	Sino-Tibetan, Sinitic, Hakka	Meixian	Meixian	Meixian	yuet1238	hak	Hakka Chinese	Líu et al., 2007	
 Sinitic	Sino-Tibetan, Sinitic, Hui	Jixi	Jixi	Jixi	jixi1238	czh	Huizhou Chinese	Líu et al., 2007	
 Sinitic	Sino-Tibetan, Sinitic, Jin	Taiyuan	Taiyuan	Taiyuan	taiy1243	cjy	Jinyu Chinese	Líu et al., 2007	
@@ -247,11 +247,11 @@ Sinitic	Sino-Tibetan, Sinitic, Wu	Wenzhou	Wenzhou	Wenzhou	ouji1238	wuu	Wu Chines
 Sinitic	Sino-Tibetan, Sinitic, Xiang	Changsha	Changsha	Changsha	chan1326	hsn	Xiang Chinese	Líu et al., 2007	
 Sinitic	Sino-Tibetan, Sinitic, Xiang	Loudi	Loudi	Loudi	loud1234	hsn	Xiang Chinese	Líu et al., 2007	
 Sinitic	Sino-Tibetan, Sinitic, Yue	Guangzhou	Guangzhou	Guangzhou	guan1279	yue	Yue Chinese	Líu et al., 2007	
-Turkic	Turkic, Bolgar	Chuvash	Chuvash	﻿Chuvash	chuv1255	chv	﻿Chuvash	Savelyev & Robbeets (2020)	Viryal dialect
-Turkic	Turkic, Central Siberian Turkic	﻿Baraba Tatar	﻿BarabaTatar	Baraba	bara1273	sty	Siberian Tatar	Savelyev & Robbeets (2020)	
+Turkic	Turkic, Bolgar	Chuvash	Chuvash	Chuvash	chuv1255	chv	Chuvash	Savelyev & Robbeets (2020)	Viryal dialect
+Turkic	Turkic, Central Siberian Turkic	Baraba Tatar	BarabaTatar	Baraba	bara1273	sty	Siberian Tatar	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Khalaj	Khalaj	Khalaj	Turkic Khalaj	turk1303	klj	Khalaj	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Kipchak	Bashkir	Bashkir	Bashkir	bash1264	bak	Bashkir	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Crimean Tatar	CrimeanTatar	Crimean Tatar	crim1257	crh	﻿Crimean Turkish	Savelyev & Robbeets (2020)	
+Turkic	Turkic, Kipchak	Crimean Tatar	CrimeanTatar	Crimean Tatar	crim1257	crh	Crimean Turkish	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Kipchak	Kara-Kalpak	KaraKalpak	Kara-Kalpak	kara1467	kaa	Kara-Kalpak	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Kipchak	Karachay-Balkar	KarachayBalkar	Karachay-Balkar	kara1465	krc	Karachay-Balkar	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Kipchak	Karaim	Karaim	Karaim	kara1464	kdr	Karaim	Savelyev & Robbeets (2020)	Dialects of Halych and Trakai
@@ -276,6 +276,6 @@ Turkic	Turkic, South Siberian Turkic	Shor	Shor	Shor	shor1247	cjs	Shor	Savelyev &
 Turkic	Turkic, South Siberian Turkic	Tofa	Tofa	Tofa	tofa1248	kim	Karagas	Savelyev & Robbeets (2020)	
 Turkic	Turkic, South Siberian Turkic	Tuvan	Tuvan	Tuvinian	tuvi1240	tyv	Tuvinian	Savelyev & Robbeets (2020)	
 Turkic	Turkic, South Siberian Turkic	West Yugur	SarygYugur	West Yugur	west2402	ybe	West Yugur	Savelyev & Robbeets (2020)	West Yugur, Yellow Uyghur
-Turkic	Turkic, Turkestan Turkic	Old Turkic	OldTurkic	Old Turkic	oldu1238	oui	﻿Old Uighur	Savelyev & Robbeets (2020)	Old Uyghur texts from the 9th century AD
+Turkic	Turkic, Turkestan Turkic	Old Turkic	OldTurkic	Old Turkic	oldu1238	oui	Old Uighur	Savelyev & Robbeets (2020)	Old Uyghur texts from the 9th century AD
 Turkic	Turkic, Turkestan Turkic	Uyghur	Uyghur	Uighur	uigh1240	uig	Uyghur	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Turkestan Turkic	Uzbek	Uzbek	Uzbek	uzbe1247	uzb	Uzbek	Savelyev & Robbeets (2020)	
