@@ -2743,7 +2743,7 @@ Tuamotuan_MOTHER_3	Tuamotuan	tuam1242	pmt	MOTHER	metua vahine	metuavahine	m e t 
 Niuean_MOTHER_3	Niuean	niue1239	niu	MOTHER	matua fifina	matuafifina	m a t u a  f i f i n a	matua_fifina	MOTHER_3	FALSE	parent female	POLLEX
 AustralB_MOTHER_3	Austral B	aust1304	aut	MOTHER	metua vaʔine	metuavaʔine	m e t u a  v a ʔ i n e	metua_vaʔine	MOTHER_3	FALSE		Meyer-128-2005
 AustralB_MOTHER_6	Austral B	aust1304	aut	MOTHER	maamaa	maamaaːma	m aa m aaː m a	maːmaː	MOTHER_6	TRUE	borrowing?-MW	Meyer-128-2005
-FutunaAniwa_MOTHER_1	Futuna-Aniwa	futu1245	fut	MOTHER	tsinana	tsinana	ts i n a n a	tsinana	MOTHER_1	FALSE	Mother	POLLEX
+FutunaAniwa_MOTHER_1	Futuna-Aniwa	futu1245	fut	MOTHER	tsinana	ʦinana	ʦ i n a n a	tsinana	MOTHER_1	FALSE	Mother	POLLEX
 FutunaAniwa_MOTHER_1	Futuna-Aniwa	futu1245	fut	MOTHER	nana	nana	n a n a	nana	MOTHER_1	FALSE	Mother (vocative)	POLLEX
 Hawaiian_MOTHER_3	Hawaiian	hawa1245	haw	MOTHER	makuahine	makuahine	m a k u a  h i n e	makua+hine	MOTHER_3	FALSE		71458
 Rarotongan_MOTHER_6	Rarotongan	raro1241	rar	MOTHER	māmā	maamaaːma	m aa m aaː m a	maːmaː	MOTHER_6	TRUE	borrowing?-MW	POLLEX
@@ -6493,7 +6493,7 @@ Tuamotuan_THROW_20	Tuamotuan	tuam1242	pmt	THROW	tiri	tiri	t i r i	tiri	THROW_20	
 Tuamotuan_THROW_3	Tuamotuan	tuam1242	pmt	THROW	maka	maka	m a k a	maka	THROW_3	FALSE	Throw, cast, sling; a sling (Stn)	POLLEX
 Niuean_THROW_9	Niuean	niue1239	niu	THROW	velo	velo	v e l o	velo	THROW_9	FALSE	Pollex 06: Velo. :Throw (Mce).	POLLEX
 AustralB_THROW_1	Austral B	aust1304	aut	THROW	taaora	taaora	t aa  o r a	taː+ora	THROW_1	FALSE		Meyer-128-2005
-FutunaAniwa_THROW_20	Futuna-Aniwa	futu1245	fut	THROW	tsiri	tsiri	t s i r i	tsiri	THROW_20	FALSE	Throw	POLLEX
+FutunaAniwa_THROW_20	Futuna-Aniwa	futu1245	fut	THROW	tsiri	ʦiri	t s i r i	tsiri	THROW_20	FALSE	Throw	POLLEX
 Hawaiian_THROW_12	Hawaiian	hawa1245	haw	THROW	ho'olei	hoʔolei	h o ʔ o  l e i	hoʔo+lei	THROW_12	FALSE		71458
 Rarotongan_THROW_20	Rarotongan	raro1241	rar	THROW	tiri	tiri	t i r i	tiri	THROW_20	FALSE		POLLEX
 Rarotongan_THROW_13	Rarotongan	raro1241	rar	THROW	-ìa	ʔia	ʔ i a	ʔia	THROW_13	FALSE	Throw, cast, hurl, fling (Sve)	POLLEX
