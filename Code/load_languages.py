@@ -13,6 +13,7 @@ class Family:
                                 'Segments':'Segments', 
                                 'Source_Form':'Source_Form',
                                 'Cognate_ID':'Cognate_ID',
+                                'Loan':'Loan',
                                 'Source':'Source'}):
         self.filepath = filepath
         self.directory = self.filepath.rsplit('/', maxsplit=1)[0] + '/'
