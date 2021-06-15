@@ -55,6 +55,11 @@ class Family:
                 entry = lang.vocabulary[i]
                 cognate_id = entry['Cognate_ID']
                 transcription = entry['IPA']
+                
+                #Write loanwords in parentheses, e.g. (word)
+                loan = entry['Loan']
+                if loan == 'TRUE':
+                    transcription = f'({transcription})'
                 self.cognate_sets[cognate_id][lang.name].append(transcription)
                 
         #Write cognate set index to .csv file
