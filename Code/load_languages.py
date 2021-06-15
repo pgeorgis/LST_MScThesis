@@ -32,7 +32,7 @@ class Family:
         
         #Initialize languages
         language_data = defaultdict(lambda:defaultdict(lambda:{}))
-        for i in range(len(data)):
+        for i in data:
             lang = data[i][self.language_name_column]
             for column in self.word_features:
                 feature = self.word_features[column]
