@@ -42,7 +42,7 @@ class Family:
             self.languages[lang] = Language(name=lang, vocabulary=language_data[lang])
     
     def create_vocab_index(self, output_file=None,
-                           sep='\t', variants_sep=','):
+                           sep='\t', variants_sep='~'):
         assert sep != variants_sep
         if output_file == None:
             output_file = f'{self.directory}{self.name} Vocabulary Index.csv'
