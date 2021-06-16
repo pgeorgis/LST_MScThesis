@@ -479,7 +479,7 @@ EgyptianArabic_some	Egyptian Arabic	egyp1253	arz	some	kemmeyya	kɛmmɛjja	k ɛ m
 SudaneseArabic_some	Sudanese Arabic	suda1236	apd	some	bɑʕd	bɑʕd	b ɑ ʕ d	bɑʕd	some			Wiktionary
 ChadianArabic_some	Chadian Arabic	chad1249	shu	some	šiyya	ʃijja	ʃ i j j a	šiyya	some			Wiktionary
 TunisianArabic_some	Tunisian Arabic	tuni1259	aeb	some	šwayya	ʃwajja	ʃ w a j j a	šwayya	some			Wiktionary
-TunisianArabic_some	Tunisian Arabic	tuni1259	aeb	some	baˁð̣	baˁðˤ	b a ˁ ðˤ	baˁð̣	some			Wiktionary
+TunisianArabic_some	Tunisian Arabic	tuni1259	aeb	some	baˁð̣	baʕðˤ	b a ʕ ðˤ	baˁð̣	some			Wiktionary
 MoroccanArabic_some	Moroccan Arabic	moro1292	ary	some	ši	ʃi	ʃ i	ši	some			Wiktionary
 MoroccanArabic_some	Moroccan Arabic	moro1292	ary	some	šwiyyɑ	ʃwijjɑ	ʃ w i j j ɑ	šwiyyɑ	some			Wiktionary
 HassaniyaArabic_some	Hassaniya Arabic	hass1238	mey	some	ši	ʃi	ʃ i	ši	some			Wiktionary
@@ -1145,7 +1145,7 @@ SudaneseArabic_bird	Sudanese Arabic	suda1236	apd	bird	ṭēr	tˤɛːr	tˤ ɛː r
 SudaneseArabic_bird	Sudanese Arabic	suda1236	apd	bird	ʕasfūr	ʕasfuːr	ʕ a s f uː r	ʕasfūr	bird			Wiktionary
 SudaneseArabic_bird	Sudanese Arabic	suda1236	apd	bird	zarzūr 	zarzuːr 	z a r z uː r  	zarzūr 	bird			Wiktionary
 ChadianArabic_bird	Chadian Arabic	chad1249	shu	bird	tɑyrɑ̄y	tɑjrɑːj	t ɑ j r ɑː j	tɑyrɑ̄y	bird			Wiktionary
-TunisianArabic_bird	Tunisian Arabic	tuni1259	aeb	bird	ˁaṣfūr	ˁasˤfuːr	ˁ a sˤ f uː r	ˁaṣfūr	bird			Wiktionary
+TunisianArabic_bird	Tunisian Arabic	tuni1259	aeb	bird	ˁaṣfūr	ʕasˤfuːr	ʕ a sˤ f uː r	ˁaṣfūr	bird			Wiktionary
 MoroccanArabic_bird	Moroccan Arabic	moro1292	ary	bird	bəṛṭɑl	bərˤtˤɑl	b ə rˤ tˤ ɑ l	bəṛṭɑl	bird			Wiktionary
 HassaniyaArabic_bird	Hassaniya Arabic	hass1238	mey	bird	ṭăyr	tˤʌjr	tˤ ʌ j r	ṭăyr	bird			Wiktionary
 Maltese_bird	Maltese	malt1254	mlt	bird	għasfur	ɐsfʊːr	ɐ s f ʊː r	għasfur	bird			Wiktionary
@@ -1172,7 +1172,7 @@ ModernStandardArabic_louse	Modern Standard Arabic	stan1318	arb	louse	qamla	qamla
 NajdiArabic_louse	Najdi Arabic	najd1235	ars	louse	gamlah	ɡamlah	ɡ a m l a h	gamlah	louse			Wiktionary
 GulfArabic_louse	Gulf Arabic	gulf1241	afb	louse	gamla	ɡamla	ɡ a m l a	gamla	louse			Wiktionary
 LevantineArabic_louse	Levantine Arabic	nort3139	apc	louse	ʔamle	ʔamlɛ	ʔ a m l ɛ	ʔamle	louse			Wiktionary
-IraqiArabic_louse	Iraqi Arabic	meso1252	acm	louse	gamḷa	ɡamḷa	ɡ a m ḷ a	gamḷa	louse			Wiktionary
+IraqiArabic_louse	Iraqi Arabic	meso1252	acm	louse	gamḷa	ɡamlˤa	ɡ a m lˤ a	gamḷa	louse			Wiktionary
 NorthMesopotamianArabic_louse	North Mesopotamian Arabic	mosu1235	ayp	louse	qămli	qʌmli	q ʌ m l i	qămli	louse			Wiktionary
 SanaaniArabic_louse	Sanaani Arabic	sana1295	ayn	louse	deðrī	dɛðriː	d ɛ ð r iː	deðrī	louse			Wiktionary
 SanaaniArabic_louse	Sanaani Arabic	sana1295	ayn	louse	gummalih	ɢummalih	ɢ u m m a l i h	gummalih	louse			Wiktionary
@@ -1197,7 +1197,7 @@ GulfArabic_snake	Gulf Arabic	gulf1241	afb	snake	ħanaš 	ħanaʃ 	ħ a n a ʃ  	
 LevantineArabic_snake	Levantine Arabic	nort3139	apc	snake	ħayyi	ħajji	ħ a j j i	ħayyi	snake			Wiktionary
 IraqiArabic_snake	Iraqi Arabic	meso1252	acm	snake	ħayya	ʜajja	ʜ a j j a	ħayya	snake			Wiktionary
 IraqiArabic_snake	Iraqi Arabic	meso1252	acm	snake	ħyɑ̄yɑ	ʜjɑːjɑ	ʜ j ɑː j ɑ	ħyɑ̄yɑ	snake			Wiktionary
-IraqiArabic_snake	Iraqi Arabic	meso1252	acm	snake	ṣeḷḷ	sˤɛḷḷ	sˤ ɛ ḷ ḷ	ṣeḷḷ	snake			Wiktionary
+IraqiArabic_snake	Iraqi Arabic	meso1252	acm	snake	ṣeḷḷ	sˤɛlˤlˤ	sˤ ɛ lˤ lˤ	ṣeḷḷ	snake			Wiktionary
 IraqiArabic_snake	Iraqi Arabic	meso1252	acm	snake	ʕerbīd 	ʢɛrbiːd 	ʢ ɛ r b iː d  	ʕerbīd 	snake			Wiktionary
 NorthMesopotamianArabic_snake	North Mesopotamian Arabic	mosu1235	ayp	snake	ħăyyi	ħʌjji	ħ ʌ j j i	ħăyyi	snake			Wiktionary
 SanaaniArabic_snake	Sanaani Arabic	sana1295	ayn	snake	ħanaš	ħanaʃ	ħ a n a ʃ	ħanaš	snake			Wiktionary
@@ -1459,7 +1459,7 @@ SanaaniArabic_grass	Sanaani Arabic	sana1295	ayn	grass	ʕušb	ʕuʃb	ʕ u ʃ b	ʕ
 DhofariArabic_grass	Dhofari Arabic	dhof1235	adf	grass	ħašīš	ħaʃiːʃ	ħ a ʃ iː ʃ	ħašīš	grass			Wiktionary
 DhofariArabic_grass	Dhofari Arabic	dhof1235	adf	grass	kutīl 	kutiːl 	k u t iː l  	kutīl 	grass			Wiktionary
 CypriotArabic_grass	Cypriot Arabic	cypr1248	acy	grass	šxéx	ʃxex	ʃ x e x	šxéx	grass			Wiktionary
-CypriotArabic_grass	Cypriot Arabic	cypr1248	acy	grass	tšeˁīr	tʃɛˁiːr	t ʃ ɛ ˁ iː r	tšeˁīr	grass			Wiktionary
+CypriotArabic_grass	Cypriot Arabic	cypr1248	acy	grass	tšeˁīr	tʃɛʕiːr	t ʃ ɛ ʕ iː r	tšeˁīr	grass			Wiktionary
 EgyptianArabic_grass	Egyptian Arabic	egyp1253	arz	grass	negīla	nɛɡiːla	n ɛ ɡ iː l a	negīla	grass			Wiktionary
 SudaneseArabic_grass	Sudanese Arabic	suda1236	apd	grass	gašš	ɢaʃʃ	ɢ a ʃ ʃ	gašš	grass			Wiktionary
 SudaneseArabic_grass	Sudanese Arabic	suda1236	apd	grass	umɑṣɑ̄biʕa	umɑsˤɑːbiʕa	u m ɑ sˤ ɑː b i ʕ a	umɑṣɑ̄biʕa	grass			Wiktionary
@@ -1771,7 +1771,7 @@ ChadianArabic_mouth	Chadian Arabic	chad1249	shu	mouth	xašem	xaʃɛm	x a ʃ ɛ m
 TunisianArabic_mouth	Tunisian Arabic	tuni1259	aeb	mouth	žalġa	ʒalɣa	ʒ a l ɣ a	žalġa	mouth			Wiktionary
 TunisianArabic_mouth	Tunisian Arabic	tuni1259	aeb	mouth	fum	fum	f u m	fum	mouth			Wiktionary
 MoroccanArabic_mouth	Moroccan Arabic	moro1292	ary	mouth	fumm	fumm	f u m m	fumm	mouth			Wiktionary
-HassaniyaArabic_mouth	Hassaniya Arabic	hass1238	mey	mouth	ṿumm	ṿumm	ṿ u m m	ṿumm	mouth			Wiktionary
+HassaniyaArabic_mouth	Hassaniya Arabic	hass1238	mey	mouth	ṿumm	vˤumm	vˤ u m m	ṿumm	mouth			Wiktionary
 Maltese_mouth	Maltese	malt1254	mlt	mouth	ħalq	ħɐlʔ	ħ ɐ l ʔ	ħalq	mouth			Wiktionary
 Maltese_mouth	Maltese	malt1254	mlt	mouth	fomm	fomm	f o m m	fomm	mouth			Wiktionary
 ModernStandardArabic_tooth (rather not molar)	Modern Standard Arabic	stan1318	arb	tooth (rather not molar)	sinna	sinna	s i n n a	sinna	tooth (rather not molar)			Wiktionary
@@ -2013,7 +2013,7 @@ GulfArabic_back	Gulf Arabic	gulf1241	afb	back	ð̣ɑher	ðˤɑhɛr	ðˤ ɑ h ɛ 
 LevantineArabic_back	Levantine Arabic	nort3139	apc	back	dɑhr	dɑhr	d ɑ h r	dɑhr	back			Wiktionary
 LevantineArabic_back	Levantine Arabic	nort3139	apc	back	ʔɑfɑ 	ʔɑfɑ 	ʔ ɑ f ɑ  	ʔɑfɑ 	back			Wiktionary
 IraqiArabic_back	Iraqi Arabic	meso1252	acm	back	ð̣ɑhɑr	ðˤɑhɑr	ðˤ ɑ h ɑ r	ð̣ɑhɑr	back			Wiktionary
-IraqiArabic_back	Iraqi Arabic	meso1252	acm	back	guf̣ɑ 	ɡuf̣ɑ 	ɡ u f ̣ ɑ  	guf̣ɑ 	back			Wiktionary
+IraqiArabic_back	Iraqi Arabic	meso1252	acm	back	guf̣ɑ 	ɡufˤɑ 	ɡ u fˤ ɑ  	guf̣ɑ 	back			Wiktionary
 NorthMesopotamianArabic_back	North Mesopotamian Arabic	mosu1235	ayp	back	ð̣ɑheġ	ðˤɑhɛɣ	ðˤ ɑ h ɛ ɣ	ð̣ɑheġ	back			Wiktionary
 SanaaniArabic_back	Sanaani Arabic	sana1295	ayn	back	gafā	ɢafaː	ɢ a f aː	gafā	back			Wiktionary
 SanaaniArabic_back	Sanaani Arabic	sana1295	ayn	back	ð̣ɑhr 	ðˤɑhr 	ðˤ ɑ h r  	ð̣ɑhr 	back			Wiktionary
@@ -2063,11 +2063,11 @@ Maltese_breast	Maltese	malt1254	mlt	breast	sider	sɪdɛr	s ɪ d ɛ r	sider	breas
 Maltese_breast	Maltese	malt1254	mlt	breast	żejża	żejża	ż e j ż a	żejża	breast			Wiktionary
 ModernStandardArabic_heart	Modern Standard Arabic	stan1318	arb	heart	qɑlb	qɑlb	q ɑ l b	qɑlb	heart			Wiktionary
 ModernStandardArabic_heart	Modern Standard Arabic	stan1318	arb	heart	fuʔād 	fuʔaːd 	f u ʔ aː d  	fuʔād 	heart			Wiktionary
-NajdiArabic_heart	Najdi Arabic	najd1235	ars	heart	gaḷb	ɡaḷb	ɡ a ḷ b	gaḷb	heart			Wiktionary
-GulfArabic_heart	Gulf Arabic	gulf1241	afb	heart	gaḷb	ɡaḷb	ɡ a ḷ b	gaḷb	heart			Wiktionary
+NajdiArabic_heart	Najdi Arabic	najd1235	ars	heart	gaḷb	ɡalˤb	ɡ a lˤ b	gaḷb	heart			Wiktionary
+GulfArabic_heart	Gulf Arabic	gulf1241	afb	heart	gaḷb	ɡalˤb	ɡ a lˤ b	gaḷb	heart			Wiktionary
 LevantineArabic_heart	Levantine Arabic	nort3139	apc	heart	ʔalb	ʔalb	ʔ a l b	ʔalb	heart			Wiktionary
-IraqiArabic_heart	Iraqi Arabic	meso1252	acm	heart	gaḷuḅ	ɡaḷubˤ	ɡ a ḷ u bˤ	gaḷuḅ	heart			Wiktionary
-IraqiArabic_heart	Iraqi Arabic	meso1252	acm	heart	f̣f̣ɑ̄d	f̣f̣ɑːd	f ̣ f ̣ ɑː d	f̣f̣ɑ̄d	heart			Wiktionary
+IraqiArabic_heart	Iraqi Arabic	meso1252	acm	heart	gaḷuḅ	ɡalˤubˤ	ɡ a lˤ u bˤ	gaḷuḅ	heart			Wiktionary
+IraqiArabic_heart	Iraqi Arabic	meso1252	acm	heart	f̣f̣ɑ̄d	fˤfˤɑːd	fˤ fˤ ɑː d	f̣f̣ɑ̄d	heart			Wiktionary
 IraqiArabic_heart	Iraqi Arabic	meso1252	acm	heart	del 	dɛl 	d ɛ l  	del 	heart			Wiktionary
 NorthMesopotamianArabic_heart	North Mesopotamian Arabic	mosu1235	ayp	heart	ffɑ̄d	ffɑːd	f f ɑː d	ffɑ̄d	heart			Wiktionary
 NorthMesopotamianArabic_heart	North Mesopotamian Arabic	mosu1235	ayp	heart	qălib	qʌlib	q ʌ l i b	qălib	heart			Wiktionary
@@ -2196,7 +2196,7 @@ TunisianArabic_to spit	Tunisian Arabic	tuni1259	aeb	to spit	bzaq	bzaq	b z a q	bz
 MoroccanArabic_to spit	Moroccan Arabic	moro1292	ary	to spit	bzəq	bzəq	b z ə q	bzəq	to spit			Wiktionary
 HassaniyaArabic_to spit	Hassaniya Arabic	hass1238	mey	to spit	tfəl	tfəl	t f ə l	tfəl	to spit			Wiktionary
 HassaniyaArabic_to spit	Hassaniya Arabic	hass1238	mey	to spit	dvǝl	dvǝl	d v ǝ l	dvǝl	to spit			Wiktionary
-HassaniyaArabic_to spit	Hassaniya Arabic	hass1238	mey	to spit	băẓẓag 	bʌẓẓaɡ 	b ʌ ẓ ẓ a ɡ  	băẓẓag 	to spit			Wiktionary
+HassaniyaArabic_to spit	Hassaniya Arabic	hass1238	mey	to spit	băẓẓag 	bʌzˤzˤaɡ 	b ʌ zˤ zˤ a ɡ  	băẓẓag 	to spit			Wiktionary
 Maltese_to spit	Maltese	malt1254	mlt	to spit	beżaq	beżaq	b e ż a q	beżaq	to spit			Wiktionary
 ModernStandardArabic_to vomit	Modern Standard Arabic	stan1318	arb	to vomit	qɑ̄ʔɑ	qɑːʔɑ	q ɑː ʔ ɑ	qɑ̄ʔɑ	to vomit			Wiktionary
 ModernStandardArabic_to vomit	Modern Standard Arabic	stan1318	arb	to vomit	taqayyaʔa	taqajjaʔa	t a q a j j a ʔ a	taqayyaʔa	to vomit			Wiktionary
@@ -2306,7 +2306,7 @@ DhofariArabic_to see	Dhofari Arabic	dhof1235	adf	to see	ħāli	ħaːli	ħ aː l 
 CypriotArabic_to see	Cypriot Arabic	cypr1248	acy	to see	kišʕé	kiʃʕe	k i ʃ ʕ e	kišʕé	to see			Wiktionary
 CypriotArabic_to see	Cypriot Arabic	cypr1248	acy	to see	ra	ra	r a	ra	to see			Wiktionary
 EgyptianArabic_to see	Egyptian Arabic	egyp1253	arz	to see	šāf	ʃaːf	ʃ aː f	šāf	to see			Wiktionary
-SudaneseArabic_to see	Sudanese Arabic	suda1236	apd	to see	nɑẓɑr	nɑẓɑr	n ɑ ẓ ɑ r	nɑẓɑr	to see			Wiktionary
+SudaneseArabic_to see	Sudanese Arabic	suda1236	apd	to see	nɑẓɑr	nɑzˤɑr	n ɑ zˤ ɑ r	nɑẓɑr	to see			Wiktionary
 SudaneseArabic_to see	Sudanese Arabic	suda1236	apd	to see	šɑ̄f	ʃɑːf	ʃ ɑː f	šɑ̄f	to see			Wiktionary
 ChadianArabic_to see	Chadian Arabic	chad1249	shu	to see	šāf	ʃaːf	ʃ aː f	šāf	to see			Wiktionary
 TunisianArabic_to see	Tunisian Arabic	tuni1259	aeb	to see	šāf	ʃaːf	ʃ aː f	šāf	to see			Wiktionary
@@ -2385,9 +2385,9 @@ DhofariArabic_to think	Dhofari Arabic	dhof1235	adf	to think	qatt 	qatt 	q a t t 
 CypriotArabic_to think	Cypriot Arabic	cypr1248	acy	to think	ftaen-	ftaɛn-	f t a ɛ n -	ftaen-	to think			Wiktionary
 CypriotArabic_to think	Cypriot Arabic	cypr1248	acy	to think	enómiza-	ɛnómiza-	ɛ n ó m i z a -	enómiza-	to think			Wiktionary
 EgyptianArabic_to think	Egyptian Arabic	egyp1253	arz	to think	fɑkkɑr	fɑkkɑr	f ɑ k k ɑ r	fɑkkɑr	to think			Wiktionary
-EgyptianArabic_to think	Egyptian Arabic	egyp1253	arz	to think	ẓɑnn 	ẓɑnn 	ẓ ɑ n n  	ẓɑnn 	to think			Wiktionary
+EgyptianArabic_to think	Egyptian Arabic	egyp1253	arz	to think	ẓɑnn 	zˤɑnn 	zˤ ɑ n n  	ẓɑnn 	to think			Wiktionary
 SudaneseArabic_to think	Sudanese Arabic	suda1236	apd	to think	iftɑkɑr	iftɑkɑr	i f t ɑ k ɑ r	iftɑkɑr	to think			Wiktionary
-SudaneseArabic_to think	Sudanese Arabic	suda1236	apd	to think	ẓɑnn 	ẓɑnn 	ẓ ɑ n n  	ẓɑnn 	to think			Wiktionary
+SudaneseArabic_to think	Sudanese Arabic	suda1236	apd	to think	ẓɑnn 	zˤɑnn 	zˤ ɑ n n  	ẓɑnn 	to think			Wiktionary
 ChadianArabic_to think	Chadian Arabic	chad1249	shu	to think	dɑnn	dɑnn	d ɑ n n	dɑnn	to think			Wiktionary
 ChadianArabic_to think	Chadian Arabic	chad1249	shu	to think	feker	fɛkɛr	f ɛ k ɛ r	feker	to think			Wiktionary
 TunisianArabic_to think	Tunisian Arabic	tuni1259	aeb	to think	xamməm	xamməm	x a m m ə m	xamməm	to think			Wiktionary
@@ -2534,7 +2534,7 @@ SanaaniArabic_to fight	Sanaani Arabic	sana1295	ayn	to fight	lābağ	laːbaɡʲ	l
 SanaaniArabic_to fight	Sanaani Arabic	sana1295	ayn	to fight	tgātal	tɢaːtal	t ɢ aː t a l	tgātal	to fight			Wiktionary
 DhofariArabic_to fight	Dhofari Arabic	dhof1235	adf	to fight	qɑ̄ṭaʕ	qɑːtˤaʕ	q ɑː tˤ a ʕ	qɑ̄ṭaʕ	to fight			Wiktionary
 DhofariArabic_to fight	Dhofari Arabic	dhof1235	adf	to fight	tqɑ̄tel	tqɑːtɛl	t q ɑː t ɛ l	tqɑ̄tel	to fight			Wiktionary
-CypriotArabic_to fight	Cypriot Arabic	cypr1248	acy	to fight	starrˁé	starrˁe	s t a r r ˁ e	starrˁé	to fight			Wiktionary
+CypriotArabic_to fight	Cypriot Arabic	cypr1248	acy	to fight	starrˁé	starrʕe	s t a r r ʕ e	starrˁé	to fight			Wiktionary
 CypriotArabic_to fight	Cypriot Arabic	cypr1248	acy	to fight	ðarep	ðarɛp	ð a r ɛ p	ðarep	to fight			Wiktionary
 EgyptianArabic_to fight	Egyptian Arabic	egyp1253	arz	to fight	etʕārek	ɛtʕ̞aːrɛk	ɛ t ʕ̞ aː r ɛ k	etʕārek	to fight			Wiktionary
 EgyptianArabic_to fight	Egyptian Arabic	egyp1253	arz	to fight	etxāneˀ 	ɛtxaːnɛˀ 	ɛ t x aː n ɛˀ  	etxāneˀ 	to fight			Wiktionary
@@ -2943,7 +2943,7 @@ NorthMesopotamianArabic_to squeeze	North Mesopotamian Arabic	mosu1235	ayp	to squ
 SanaaniArabic_to squeeze	Sanaani Arabic	sana1295	ayn	to squeeze	falħaṣ	falħasˤ	f a l ħ a sˤ	falħaṣ	to squeeze			Wiktionary
 SanaaniArabic_to squeeze	Sanaani Arabic	sana1295	ayn	to squeeze	ð̣ɑġɑṭ	ðˤɑɣɑtˤ	ðˤ ɑ ɣ ɑ tˤ	ð̣ɑġɑṭ	to squeeze			Wiktionary
 CypriotArabic_to squeeze	Cypriot Arabic	cypr1248	acy	to squeeze	palas	palas	p a l a s	palas	to squeeze			Wiktionary
-CypriotArabic_to squeeze	Cypriot Arabic	cypr1248	acy	to squeeze	ˁiser	ˁisɛr	ˁ i s ɛ r	ˁiser	to squeeze			Wiktionary
+CypriotArabic_to squeeze	Cypriot Arabic	cypr1248	acy	to squeeze	ˁiser	ʕisɛr	ʕ i s ɛ r	ˁiser	to squeeze			Wiktionary
 EgyptianArabic_to squeeze	Egyptian Arabic	egyp1253	arz	to squeeze	ʕɑṣɑr	ʕ̞ɑsˤɑr	ʕ̞ ɑ sˤ ɑ r	ʕɑṣɑr	to squeeze			Wiktionary
 SudaneseArabic_to squeeze	Sudanese Arabic	suda1236	apd	to squeeze	ʕɑṣɑr	ʕɑsˤɑr	ʕ ɑ sˤ ɑ r	ʕɑṣɑr	to squeeze			Wiktionary
 ChadianArabic_to squeeze	Chadian Arabic	chad1249	shu	to squeeze	hakk	hakk	h a k k	hakk	to squeeze			Wiktionary
@@ -2969,7 +2969,7 @@ SanaaniArabic_to rub	Sanaani Arabic	sana1295	ayn	to rub	farak	farak	f a r a k	fa
 DhofariArabic_to rub	Dhofari Arabic	dhof1235	adf	to rub	ʕrāk	ʕraːk	ʕ r aː k	ʕrāk	to rub			Wiktionary
 DhofariArabic_to rub	Dhofari Arabic	dhof1235	adf	to rub	dukk	dukk	d u k k	dukk	to rub			Wiktionary
 CypriotArabic_to rub	Cypriot Arabic	cypr1248	acy	to rub	xaff	xaff	x a f f	xaff	to rub			Wiktionary
-CypriotArabic_to rub	Cypriot Arabic	cypr1248	acy	to rub	maˁak	maˁak	m a ˁ a k	maˁak	to rub			Wiktionary
+CypriotArabic_to rub	Cypriot Arabic	cypr1248	acy	to rub	maˁak	maʕak	m a ʕ a k	maˁak	to rub			Wiktionary
 EgyptianArabic_to rub	Egyptian Arabic	egyp1253	arz	to rub	daʕak	daʕ̞ak	d a ʕ̞ a k	daʕak	to rub			Wiktionary
 EgyptianArabic_to rub	Egyptian Arabic	egyp1253	arz	to rub	farak	farak	f a r a k	farak	to rub			Wiktionary
 SudaneseArabic_to rub	Sudanese Arabic	suda1236	apd	to rub	ʕɑṣṣɑr	ʕɑsˤsˤɑr	ʕ ɑ sˤ sˤ ɑ r	ʕɑṣṣɑr	to rub			Wiktionary
@@ -3497,12 +3497,12 @@ Maltese_salt	Maltese	malt1254	mlt	salt	melħ	mɛlħ	m ɛ l ħ	melħ	salt			Wikti
 ModernStandardArabic_stone	Modern Standard Arabic	stan1318	arb	stone	ħajɑrɑ	ħaʤɑrɑ	ħ a ʤ ɑ r ɑ	ħajɑrɑ	stone			Wiktionary
 ModernStandardArabic_stone	Modern Standard Arabic	stan1318	arb	stone	ṣɑxɑr	sˤɑxɑr	sˤ ɑ x ɑ r	ṣɑxɑr	stone			Wiktionary
 NajdiArabic_stone	Najdi Arabic	najd1235	ars	stone	ħajɑr	ħaʤɑr	ħ a ʤ ɑ r	ħajɑr	stone			Wiktionary
-NajdiArabic_stone	Najdi Arabic	najd1235	ars	stone	ṣəḷbūx	sˤəḷbuːx	sˤ ə ḷ b uː x	ṣəḷbūx	stone			Wiktionary
+NajdiArabic_stone	Najdi Arabic	najd1235	ars	stone	ṣəḷbūx	sˤəlˤbuːx	sˤ ə lˤ b uː x	ṣəḷbūx	stone			Wiktionary
 NajdiArabic_stone	Najdi Arabic	najd1235	ars	stone	rð̣umah	rðˤumah	r ðˤ u m a h	rð̣umah	stone			Wiktionary
 GulfArabic_stone	Gulf Arabic	gulf1241	afb	stone	ħiyɑr	ħijɑr	ħ i j ɑ r	ħiyɑr	stone			Wiktionary
 LevantineArabic_stone	Levantine Arabic	nort3139	apc	stone	ħɑžrɑ	ħɑʒrɑ	ħ ɑ ʒ r ɑ	ħɑžrɑ	stone			Wiktionary
 IraqiArabic_stone	Iraqi Arabic	meso1252	acm	stone	ħjɑ̄ṛa	ʜʤɑːrˤa	ʜ ʤ ɑː rˤ a	ħjɑ̄ṛa	stone			Wiktionary
-IraqiArabic_stone	Iraqi Arabic	meso1252	acm	stone	ṣaḷbūx	sˤaḷbuːx	sˤ a ḷ b uː x	ṣaḷbūx	stone			Wiktionary
+IraqiArabic_stone	Iraqi Arabic	meso1252	acm	stone	ṣaḷbūx	sˤalˤbuːx	sˤ a lˤ b uː x	ṣaḷbūx	stone			Wiktionary
 IraqiArabic_stone	Iraqi Arabic	meso1252	acm	stone	ṣɑxrɑ	sˤɑxrɑ	sˤ ɑ x r ɑ	ṣɑxrɑ	stone			Wiktionary
 NorthMesopotamianArabic_stone	North Mesopotamian Arabic	mosu1235	ayp	stone	ħăjɑġ	ħʌʤɑɣ	ħ ʌ ʤ ɑ ɣ	ħăjɑġ	stone			Wiktionary
 SanaaniArabic_stone	Sanaani Arabic	sana1295	ayn	stone	ħiğɑ̄rɑh	ħiɡʲɑːrɑh	ħ i ɡʲ ɑː r ɑ h	ħiğɑ̄rɑh	stone			Wiktionary
@@ -3525,7 +3525,7 @@ ModernStandardArabic_sand	Modern Standard Arabic	stan1318	arb	sand	raml	raml	r a
 NajdiArabic_sand	Najdi Arabic	najd1235	ars	sand	ṛɑməl	rˤɑməl	rˤ ɑ m ə l	ṛɑməl	sand			Wiktionary
 GulfArabic_sand	Gulf Arabic	gulf1241	afb	sand	ṛɑmel	rˤɑmɛl	rˤ ɑ m ɛ l	ṛɑmel	sand			Wiktionary
 LevantineArabic_sand	Levantine Arabic	nort3139	apc	sand	rɑml	rɑml	r ɑ m l	rɑml	sand			Wiktionary
-IraqiArabic_sand	Iraqi Arabic	meso1252	acm	sand	rɑmuḷ	rɑmuḷ	r ɑ m u ḷ	rɑmuḷ	sand			Wiktionary
+IraqiArabic_sand	Iraqi Arabic	meso1252	acm	sand	rɑmuḷ	rɑmulˤ	r ɑ m u lˤ	rɑmuḷ	sand			Wiktionary
 NorthMesopotamianArabic_sand	North Mesopotamian Arabic	mosu1235	ayp	sand	ġɑməl	ɣɑməl	ɣ ɑ m ə l	ġɑməl	sand			Wiktionary
 SanaaniArabic_sand	Sanaani Arabic	sana1295	ayn	sand	nays	najs	n a j s	nays	sand			Wiktionary
 SanaaniArabic_sand	Sanaani Arabic	sana1295	ayn	sand	rɑml	rɑml	r ɑ m l	rɑml	sand			Wiktionary
@@ -3543,7 +3543,7 @@ ModernStandardArabic_dust	Modern Standard Arabic	stan1318	arb	dust	ġubɑ̄r	ɣu
 ModernStandardArabic_dust	Modern Standard Arabic	stan1318	arb	dust	turɑ̄b	turɑːb	t u r ɑː b	turɑ̄b	dust			Wiktionary
 NajdiArabic_dust	Najdi Arabic	najd1235	ars	dust	ʕɑjɑ̄j	ʕɑʤɑːʤ	ʕ ɑ ʤ ɑː ʤ	ʕɑjɑ̄j	dust			Wiktionary
 NajdiArabic_dust	Najdi Arabic	najd1235	ars	dust	ġbɑ̄r	ɣbɑːr	ɣ b ɑː r	ġbɑ̄r	dust			Wiktionary
-GulfArabic_dust	Gulf Arabic	gulf1241	afb	dust	ʕɑỵɑ̄y	ʕɑỵɑːj	ʕ ɑ ỵ ɑː j	ʕɑỵɑ̄y	dust			Wiktionary
+GulfArabic_dust	Gulf Arabic	gulf1241	afb	dust	ʕɑỵɑ̄y	ʕɑjˤɑːj	ʕ ɑ jˤ ɑː j	ʕɑỵɑ̄y	dust			Wiktionary
 GulfArabic_dust	Gulf Arabic	gulf1241	afb	dust	ġbɑ̄r	ɣbɑːr	ɣ b ɑː r	ġbɑ̄r	dust			Wiktionary
 GulfArabic_dust	Gulf Arabic	gulf1241	afb	dust	ṭōz 	tˤɔːz 	tˤ ɔː z  	ṭōz 	dust			Wiktionary
 LevantineArabic_dust	Levantine Arabic	nort3139	apc	dust	ġɑbrɑ	ɣɑbrɑ	ɣ ɑ b r ɑ	ġɑbrɑ	dust			Wiktionary
@@ -3629,7 +3629,7 @@ Maltese_cloud	Maltese	malt1254	mlt	cloud	sħaba	sħɐːbɐ	s ħ ɐː b ɐ	sħaba
 ModernStandardArabic_fog	Modern Standard Arabic	stan1318	arb	fog	ḍɑbāb	dˤɑbaːb	dˤ ɑ b aː b	ḍɑbāb	fog			Wiktionary
 NajdiArabic_fog	Najdi Arabic	najd1235	ars	fog	ġammah	ɣammah	ɣ a m m a h	ġammah	fog			Wiktionary
 NajdiArabic_fog	Najdi Arabic	najd1235	ars	fog	ð̣ɑbāb	ðˤɑbaːb	ðˤ ɑ b aː b	ð̣ɑbāb	fog			Wiktionary
-GulfArabic_fog	Gulf Arabic	gulf1241	afb	fog	ṭɑḷḷ	tˤɑḷḷ	tˤ ɑ ḷ ḷ	ṭɑḷḷ	fog			Wiktionary
+GulfArabic_fog	Gulf Arabic	gulf1241	afb	fog	ṭɑḷḷ	tˤɑlˤlˤ	tˤ ɑ lˤ lˤ	ṭɑḷḷ	fog			Wiktionary
 GulfArabic_fog	Gulf Arabic	gulf1241	afb	fog	ð̣ɑbɑ̄b	ðˤɑbɑːb	ðˤ ɑ b ɑː b	ð̣ɑbɑ̄b	fog			Wiktionary
 LevantineArabic_fog	Levantine Arabic	nort3139	apc	fog	ġṭayṭɑ	ɣtˤajtˤɑ	ɣ tˤ a j tˤ ɑ	ġṭayṭɑ	fog			Wiktionary
 LevantineArabic_fog	Levantine Arabic	nort3139	apc	fog	ḍɑbɑ̄b	dˤɑbɑːb	dˤ ɑ b ɑː b	ḍɑbɑ̄b	fog			Wiktionary
@@ -4254,7 +4254,7 @@ NajdiArabic_straight	Najdi Arabic	najd1235	ars	straight	bajd	baʤd	b a ʤ d	bajd
 GulfArabic_straight	Gulf Arabic	gulf1241	afb	straight	sīdɑ	siːdɑ	s iː d ɑ	sīdɑ	straight			Wiktionary
 LevantineArabic_straight	Levantine Arabic	nort3139	apc	straight	doġri	dɔɣri	d ɔ ɣ r i	doġri	straight			Wiktionary
 IraqiArabic_straight	Iraqi Arabic	meso1252	acm	straight	ʕadel	ʢadɛl	ʢ a d ɛ l	ʕadel	straight			Wiktionary
-IraqiArabic_straight	Iraqi Arabic	meso1252	acm	straight	guḅɑḷ	ɡubˤɑḷ	ɡ u bˤ ɑ ḷ	guḅɑḷ	straight			Wiktionary
+IraqiArabic_straight	Iraqi Arabic	meso1252	acm	straight	guḅɑḷ	ɡubˤɑlˤ	ɡ u bˤ ɑ lˤ	guḅɑḷ	straight			Wiktionary
 NorthMesopotamianArabic_straight	North Mesopotamian Arabic	mosu1235	ayp	straight	ṭăwlāni	tˤʌwlaːni	tˤ ʌ w l aː n i	ṭăwlāni	straight			Wiktionary
 NorthMesopotamianArabic_straight	North Mesopotamian Arabic	mosu1235	ayp	straight	ʕadil	ʕadil	ʕ a d i l	ʕadil	straight			Wiktionary
 SanaaniArabic_straight	Sanaani Arabic	sana1295	ayn	straight	sāni	saːni	s aː n i	sāni	straight			Wiktionary
@@ -4406,7 +4406,7 @@ NajdiArabic_right (correct)	Najdi Arabic	najd1235	ars	right (correct)	ṣəħī�
 NajdiArabic_right (correct)	Najdi Arabic	najd1235	ars	right (correct)	mɑð̣būt	mɑðˤbuːt	m ɑ ðˤ b uː t	mɑð̣būt	right (correct)			Wiktionary
 GulfArabic_right (correct)	Gulf Arabic	gulf1241	afb	right (correct)	ʕadel	ʕadɛl	ʕ a d ɛ l	ʕadel	right (correct)			Wiktionary
 GulfArabic_right (correct)	Gulf Arabic	gulf1241	afb	right (correct)	ṣɑħīħ	sˤɑħiːħ	sˤ ɑ ħ iː ħ	ṣɑħīħ	right (correct)			Wiktionary
-LevantineArabic_right (correct)	Levantine Arabic	nort3139	apc	right (correct)	mɑẓbūt	mɑẓbuːt	m ɑ ẓ b uː t	mɑẓbūt	right (correct)			Wiktionary
+LevantineArabic_right (correct)	Levantine Arabic	nort3139	apc	right (correct)	mɑẓbūt	mɑzˤbuːt	m ɑ zˤ b uː t	mɑẓbūt	right (correct)			Wiktionary
 LevantineArabic_right (correct)	Levantine Arabic	nort3139	apc	right (correct)	tamēm	tamɛːm	t a m ɛː m	tamēm	right (correct)			Wiktionary
 LevantineArabic_right (correct)	Levantine Arabic	nort3139	apc	right (correct)	sɑħħ	sɑħħ	s ɑ ħ ħ	sɑħħ	right (correct)			Wiktionary
 IraqiArabic_right (correct)	Iraqi Arabic	meso1252	acm	right (correct)	ṣɑ̄yeb	sˤɑːjɛb	sˤ ɑː j ɛ b	ṣɑ̄yeb	right (correct)			Wiktionary
@@ -4416,7 +4416,7 @@ SanaaniArabic_right (correct)	Sanaani Arabic	sana1295	ayn	right (correct)	ṣɑ�
 DhofariArabic_right (correct)	Dhofari Arabic	dhof1235	adf	right (correct)	ħaqq	ħaqq	ħ a q q	ħaqq	right (correct)			Wiktionary
 DhofariArabic_right (correct)	Dhofari Arabic	dhof1235	adf	right (correct)	ṣɑħħ	sˤɑħħ	sˤ ɑ ħ ħ	ṣɑħħ	right (correct)			Wiktionary
 EgyptianArabic_right (correct)	Egyptian Arabic	egyp1253	arz	right (correct)	ṣɑħħ	sˤɑħħ	sˤ ɑ ħ ħ	ṣɑħħ	right (correct)			Wiktionary
-EgyptianArabic_right (correct)	Egyptian Arabic	egyp1253	arz	right (correct)	mɑẓbūt	mɑẓbuːt	m ɑ ẓ b uː t	mɑẓbūt	right (correct)			Wiktionary
+EgyptianArabic_right (correct)	Egyptian Arabic	egyp1253	arz	right (correct)	mɑẓbūt	mɑzˤbuːt	m ɑ zˤ b uː t	mɑẓbūt	right (correct)			Wiktionary
 SudaneseArabic_right (correct)	Sudanese Arabic	suda1236	apd	right (correct)	ʕadil	ʕadil	ʕ a d i l	ʕadil	right (correct)			Wiktionary
 SudaneseArabic_right (correct)	Sudanese Arabic	suda1236	apd	right (correct)	ṣɑħħ	sˤɑħħ	sˤ ɑ ħ ħ	ṣɑħħ	right (correct)			Wiktionary
 ChadianArabic_right (correct)	Chadian Arabic	chad1249	shu	right (correct)	sehī	sɛhiː	s ɛ h iː	sehī	right (correct)			Wiktionary
