@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 from collections import defaultdict
-os.chdir('/Users/phgeorgis/Documents/Python Projects/') #fix this eventually, but somehow data is being lost loading the csv with pandas
+os.chdir('/Users/phgeorgis/Documents/Python Projects/') #fix this eventually, but somehow data is being lost while loading the csv with pandas
 from auxiliary_functions import csv_to_dict
 
 class Family:
@@ -107,10 +107,14 @@ class Language:
     
         
 #%%
+#LOAD FAMILIES
+processed_data_path = '/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/'
+os.chdir(processed_data_path)
 
-Italic = Family('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/Italic/Italic forms.csv', 'Italic')   
-Polynesian = Family('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/Polynesian/Polynesian forms.csv', 'Polynesian')    
-Sinitic = Family('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/Sinitic/Sinitic forms.csv', 'Sinitic')
-Turkic = Family('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/Turkic/Turkic forms.csv', 'Turkic')
+families = {}
+for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic']:
+    filepath = processed_data_path + family + '/data.csv'
+    families[family] = Family(filepath, family)
+globals().update(families)
 
 
