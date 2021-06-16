@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from collections import defaultdict
 os.chdir('/Users/phgeorgis/Documents/Python Projects/') #fix this eventually, but somehow data is being lost while loading the csv with pandas
-from auxiliary_functions import csv_to_dict
+from auxiliary_functions import csv_to_dict, format_as_variable
 
 class Family:
     def __init__(self, filepath, name, 
@@ -112,9 +112,11 @@ processed_data_path = '/Users/phgeorgis/Documents/School/MSc/Saarland_University
 os.chdir(processed_data_path)
 
 families = {}
-for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic']:
+for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic',
+               'NorthEuraLex/BaltoSlavic']:
     filepath = processed_data_path + family + '/data.csv'
-    families[family] = Family(filepath, family)
+    family_name = family.split('/')[-1]
+    families[family] = Family(filepath, family_name)
 globals().update(families)
 
 
