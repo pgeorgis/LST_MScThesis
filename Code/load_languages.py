@@ -113,7 +113,7 @@ os.chdir(processed_data_path)
 
 families = {}
 for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic',
-               'NorthEuraLex/BaltoSlavic']:
+               'NorthEuraLex/BaltoSlavic', 'NorthEuraLex/Uralic']:
     filepath = processed_data_path + family + '/data.csv'
     family_name = family.split('/')[-1]
     families[family] = Family(filepath, family_name)
