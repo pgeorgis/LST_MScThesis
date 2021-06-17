@@ -664,7 +664,7 @@ GulfArabic_SMALL	Gulf Arabic	gulf1241	afb	SMALL	ṣɑġīr	sˤɑɣiːr	sˤ ɑ ɣ
 LevantineArabic_SMALL	Levantine Arabic	nort3139	apc	SMALL	ṣġīr	sˤɣiːr	sˤ ɣ iː r	ṣġīr	SMALL			Wiktionary
 LevantineArabic_SMALL	Levantine Arabic	nort3139	apc	SMALL	zġīr	zɣiːr	z ɣ iː r	zġīr	SMALL			Wiktionary
 IraqiArabic_SMALL	Iraqi Arabic	meso1252	acm	SMALL	zġɑyyeṛ	zɣɑjjɛrˤ	z ɣ ɑ j j ɛ rˤ	zġɑyyeṛ	SMALL			Wiktionary
-NorthMesopotamianArabic_SMALL	North Mesopotamian Arabic	mosu1235	ayp	SMALL	ɘṣġɑyyəġ	ɘsˤɣɑjjəɣ	ɘ sˤ ɣ ɑ j j ə ɣ	ɘṣġɑyyəġ	SMALL			Wiktionary
+NorthMesopotamianArabic_SMALL	North Mesopotamian Arabic	mosu1235	ayp	SMALL	ɘṣġɑyyəġ	əsˤɣɑjjəɣ	ə sˤ ɣ ɑ j j ə ɣ	ɘṣġɑyyəġ	SMALL			Wiktionary
 SanaaniArabic_SMALL	Sanaani Arabic	sana1295	ayn	SMALL	zɑġīr	zɑɣiːr	z ɑ ɣ iː r	zɑġīr	SMALL			Wiktionary
 SanaaniArabic_SMALL	Sanaani Arabic	sana1295	ayn	SMALL	zuġayri	zuɣajri	z u ɣ a j r i	zuġayri	SMALL			Wiktionary
 DhofariArabic_SMALL	Dhofari Arabic	dhof1235	adf	SMALL	ṣɑġīr	sˤɑɣiːr	sˤ ɑ ɣ iː r	ṣɑġīr	SMALL			Wiktionary
@@ -1185,7 +1185,7 @@ ModernStandardArabic_STICK	Modern Standard Arabic	stan1318	arb	STICK	ʕūd	ʕuː
 ModernStandardArabic_STICK	Modern Standard Arabic	stan1318	arb	STICK	ħaṭɑb	ħatˤɑb	ħ a tˤ ɑ b	ħaṭɑb	STICK			Wiktionary
 NajdiArabic_STICK	Najdi Arabic	najd1235	ars	STICK	ʕɑṣɑ	ʕɑsˤɑ	ʕ ɑ sˤ ɑ	ʕɑṣɑ	STICK			Wiktionary
 NajdiArabic_STICK	Najdi Arabic	najd1235	ars	STICK	məd͡zlāb	məd͡zlaːb	m ə d͡z l aː b	məd͡zlāb	STICK			Wiktionary
-NajdiArabic_STICK	Najdi Arabic	najd1235	ars	STICK	mɘglāb	mɘɡlaːb	m ɘ ɡ l aː b	mɘglāb	STICK			Wiktionary
+NajdiArabic_STICK	Najdi Arabic	najd1235	ars	STICK	mɘglāb	məɡlaːb	m ə ɡ l aː b	mɘglāb	STICK			Wiktionary
 GulfArabic_STICK	Gulf Arabic	gulf1241	afb	STICK	ʕūd	ʕuːd	ʕ uː d	ʕūd	STICK			Wiktionary
 GulfArabic_STICK	Gulf Arabic	gulf1241	afb	STICK	ʕačwɑ	ʕaʧwɑ	ʕ a ʧ w ɑ	ʕačwɑ	STICK			Wiktionary
 LevantineArabic_STICK	Levantine Arabic	nort3139	apc	STICK	ʕɑṣɑ̄	ʕɑsˤɑː	ʕ ɑ sˤ ɑː	ʕɑṣɑ̄	STICK			Wiktionary
@@ -1702,7 +1702,7 @@ SudaneseArabic_TOOTH	Sudanese Arabic	suda1236	apd	TOOTH	senn	sɛnn	s ɛ n n	senn
 ChadianArabic_TOOTH	Chadian Arabic	chad1249	shu	TOOTH	senn	sɛnn	s ɛ n n	senn	TOOTH			Wiktionary
 TunisianArabic_TOOTH	Tunisian Arabic	tuni1259	aeb	TOOTH	sinna	sinna	s i n n a	sinna	TOOTH			Wiktionary
 MoroccanArabic_TOOTH	Moroccan Arabic	moro1292	ary	TOOTH	dərsɑ	dərsɑ	d ə r s ɑ	dərsɑ	TOOTH			Wiktionary
-MoroccanArabic_TOOTH	Moroccan Arabic	moro1292	ary	TOOTH	sɘnnɑ	sɘnnɑ	s ɘ n n ɑ	sɘnnɑ	TOOTH			Wiktionary
+MoroccanArabic_TOOTH	Moroccan Arabic	moro1292	ary	TOOTH	sɘnnɑ	sənnɑ	s ə n n ɑ	sɘnnɑ	TOOTH			Wiktionary
 HassaniyaArabic_TOOTH	Hassaniya Arabic	hass1238	mey	TOOTH	sănn	sʌnn	s ʌ n n	sănn	TOOTH			Wiktionary
 HassaniyaArabic_TOOTH	Hassaniya Arabic	hass1238	mey	TOOTH	ḍars	dˤars	dˤ a r s	ḍars	TOOTH			Wiktionary
 Maltese_TOOTH	Maltese	malt1254	mlt	TOOTH	sinna	sɪnnɐ	s ɪ n n ɐ	sinna	TOOTH			Wiktionary
@@ -3845,7 +3845,7 @@ SudaneseArabic_BLACK	Sudanese Arabic	suda1236	apd	BLACK	azrag	azraɢ	a z r a ɢ	
 SudaneseArabic_BLACK	Sudanese Arabic	suda1236	apd	BLACK	aswɑd	aswɑd	a s w ɑ d	aswɑd	BLACK			Wiktionary
 ChadianArabic_BLACK	Chadian Arabic	chad1249	shu	BLACK	ʔazrag	ʔazraɡ	ʔ a z r a ɡ	ʔazrag	BLACK			Wiktionary
 TunisianArabic_BLACK	Tunisian Arabic	tuni1259	aeb	BLACK	akħil	akħil	a k ħ i l	akħil	BLACK			Wiktionary
-MoroccanArabic_BLACK	Moroccan Arabic	moro1292	ary	BLACK	kħɘl	kħɘl	k ħ ɘ l	kħɘl	BLACK			Wiktionary
+MoroccanArabic_BLACK	Moroccan Arabic	moro1292	ary	BLACK	kħɘl	kħəl	k ħ ə l	kħɘl	BLACK			Wiktionary
 HassaniyaArabic_BLACK	Hassaniya Arabic	hass1238	mey	BLACK	ăkħal	ʌkħal	ʌ k ħ a l	ăkħal	BLACK			Wiktionary
 Maltese_BLACK	Maltese	malt1254	mlt	BLACK	iswed	ɪswɛt	ɪ s w ɛ t	iswed	BLACK			Wiktionary
 ModernStandardArabic_NIGHT	Modern Standard Arabic	stan1318	arb	NIGHT	layla	lajla	l a j l a	layla	NIGHT			Wiktionary
@@ -4059,7 +4059,7 @@ SudaneseArabic_GOOD	Sudanese Arabic	suda1236	apd	GOOD	šadīd	ʃadiːd	ʃ a d i�
 ChadianArabic_GOOD	Chadian Arabic	chad1249	shu	GOOD	sēme	sɛːmɛ	s ɛː m ɛ	sēme	GOOD			Wiktionary
 ChadianArabic_GOOD	Chadian Arabic	chad1249	shu	GOOD	zēn	zɛːn	z ɛː n	zēn	GOOD			Wiktionary
 TunisianArabic_GOOD	Tunisian Arabic	tuni1259	aeb	GOOD	bāhi	baːhi	b aː h i	bāhi	GOOD			Wiktionary
-MoroccanArabic_GOOD	Moroccan Arabic	moro1292	ary	GOOD	mɘzyan	mɘzjan	m ɘ z j a n	mɘzyan	GOOD			Wiktionary
+MoroccanArabic_GOOD	Moroccan Arabic	moro1292	ary	GOOD	mɘzyan	məzjan	m ə z j a n	mɘzyan	GOOD			Wiktionary
 MoroccanArabic_GOOD	Moroccan Arabic	moro1292	ary	GOOD	ḍrif	dˤrif	dˤ r i f	ḍrif	GOOD			Wiktionary
 HassaniyaArabic_GOOD	Hassaniya Arabic	hass1238	mey	GOOD	zayn	zajn	z a j n	zayn	GOOD			Wiktionary
 HassaniyaArabic_GOOD	Hassaniya Arabic	hass1238	mey	GOOD	măʕlūm	mʌʕluːm	m ʌ ʕ l uː m	măʕlūm	GOOD			Wiktionary
