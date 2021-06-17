@@ -112,7 +112,7 @@ processed_data_path = '/Users/phgeorgis/Documents/School/MSc/Saarland_University
 os.chdir(processed_data_path)
 
 families = {}
-for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic',
+for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic', 'Uralic',
                'NorthEuraLex/BaltoSlavic', 'NorthEuraLex/Uralic']:
     filepath = processed_data_path + family + '/data.csv'
     family_name = family.split('/')[-1]
