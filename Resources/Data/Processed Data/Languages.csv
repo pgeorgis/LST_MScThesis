@@ -177,9 +177,9 @@ NorthEuraLex	Uralic, Finnic	Livonian	Livonian	Liv	livv1244	liv	Liv	Dellert et al
 NorthEuraLex	Uralic, Finnic	North Karelian	North Karelian	Karelian	kare1335	krl	Karelian	Dellert et al., 2019	
 NorthEuraLex	Uralic, Finnic	Olonets Karelian	Olonets Karelian	Livvi	livv1243	olo	Livvi	Dellert et al., 2019	
 NorthEuraLex	Uralic, Finnic	Veps	Veps	Veps	veps1250	vep	Veps	Dellert et al., 2019	
-NorthEuraLex	Uralic, Hungarian	Hungarian	Hungarian	Hungarian	hung1274	hun	Hungarian	Dellert et al., 2019	
-NorthEuraLex	Uralic, Khantyic	Northern Khanty	Northern Khanty	Kazym-Berezover-Suryskarer Khanty	khan1273	kca	Khanty	Dellert et al., 2019	
-NorthEuraLex	Uralic, Mansic	Northern Mansi	Northern Mansi	Northern Mansi	mans1258	mns	Mansi	Dellert et al., 2019	
+NorthEuraLex	Uralic, Ugric, Hungarian	Hungarian	Hungarian	Hungarian	hung1274	hun	Hungarian	Dellert et al., 2019	
+NorthEuraLex	Uralic, Ugric, Khantyic	Northern Khanty	Northern Khanty	Kazym-Berezover-Suryskarer Khanty	khan1273	kca	Khanty	Dellert et al., 2019	
+NorthEuraLex	Uralic, Ugric, Mansic	Northern Mansi	Northern Mansi	Northern Mansi	mans1258	mns	Mansi	Dellert et al., 2019	
 NorthEuraLex	Uralic, Mari	Hill Mari	Hill Mari	Western Mari	west2392	mrj	Western Mari	Dellert et al., 2019	
 NorthEuraLex	Uralic, Mari	Meadow Mari	Meadow Mari	Eastern Mari	east2328	mhr	Eastern Mari	Dellert et al., 2019	
 NorthEuraLex	Uralic, Mordvin	Erzya	Erzya	Erzya	erzy1239	myv	Erzya	Dellert et al., 2019	
@@ -282,14 +282,30 @@ Turkic	Turkic, South Siberian Turkic	West Yugur	SarygYugur	West Yugur	west2402	y
 Turkic	Turkic, Turkestan Turkic	Old Turkic	OldTurkic	Old Turkic	oldu1238	oui	Old Uighur	Savelyev & Robbeets (2020)	Sakha
 Turkic	Turkic, Turkestan Turkic	Uyghur	Uyghur	Uighur	uigh1240	uig	Uyghur	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Turkestan Turkic	Uzbek	Uzbek	Uzbek	uzbe1247	uzb	Uzbek	Savelyev & Robbeets (2020)	
-									
-									
-									
-									
-									
-									Chelkan dialect
-									
-									
-									
-									West Yugur, Yellow Uyghur
-									Old Uyghur texts from the 9th century AD
+Uralic	Uralic	Proto-Uralic	Proto-Uralic*					De Heer et al.; Syrjänen	
+Uralic	Uralic, Saami	South Saami	South Saami	South Saami	sout2674	sma	Southern Sami	De Heer et al.; Syrjänen	
+Uralic	Uralic, Saami	Ume Saami	Ume Saami	Ume Saami	umes1235	sju	Ume Sami	De Heer et al.; Syrjänen	
+Uralic	Uralic, Saami	Pite Saami	Pite Saami	Pite Saami	pite1240	sje	Pite Sami	De Heer et al.; Syrjänen	
+Uralic	Uralic, Saami	North Saami	North Saami	North Saami	nort2671	sme	Northern Sami	De Heer et al.; Syrjänen	
+Uralic	Uralic, Saami	Inari Saami	Inari Saami	Inari Saami	inar1241	smn	Inari Sami	De Heer et al.; Syrjänen	Chelkan dialect
+Uralic	Uralic, Saami	Skolt Saami	Skolt Saami	Skolt Saami	skol1241	sms	Skolt Sami	De Heer et al.; Syrjänen	
+Uralic	Uralic, Saami	Kildin Saami	Kildin Saami	Kildin Saami	kild1236	sjd	Kildin Sami	De Heer et al.; Syrjänen	
+Uralic	Uralic, Finnic	Finnish	Standard Finnish	Finnish	finn1318	fin	Finnish	De Heer et al.; Syrjänen	
+Uralic	Uralic, Finnic	Karelian	Karelian Proper	Karelian	kare1335	krl	Karelian	De Heer et al.; Syrjänen	West Yugur, Yellow Uyghur
+Uralic	Uralic, Finnic	Veps	Veps	Veps	veps1250	vep	Veps	De Heer et al.; Syrjänen	Old Uyghur texts from the 9th century AD
+Uralic	Uralic, Finnic	Ingrian	Ingrian	Ingrian	ingr1248	izh	Ingrian	De Heer et al.; Syrjänen	
+Uralic	Uralic, Finnic	Votic	Western Votic	West Vod	west2391	vot	Votic	De Heer et al.; Syrjänen	
+Uralic	Uralic, Finnic	Estonian	Standard Estonian	Estonian	esto1258	ekk	Standard Estonian	De Heer et al.; Syrjänen	
+Uralic	Uralic, Finnic	Võro	Võro South Estonian	South Estonian	sout2679	vro	Võro	De Heer et al.; Syrjänen	
+Uralic	Uralic, Finnic	Livonian	Courland Livonian	Courland Livonian	west1760	liv	Liv	De Heer et al.; Syrjänen	
+Uralic	Uralic, Mordvin	Erzya	Erzya	Erzya	erzy1239	myv	Erzya	De Heer et al.; Syrjänen	
+Uralic	Uralic, Mari	Mari	Meadow Mari	Eastern Mari	east2328	mhr	Eastern Mari	De Heer et al.; Syrjänen	
+Uralic	Uralic, Permic	Komi-Zyrian	Komi-Zyrian	Komi-Zyrian	komi1268	kpv	Komi-Zyrian	De Heer et al.; Syrjänen	
+Uralic	Uralic, Permic	Komi-Permyak	Komi-Permyak	Komi-Permyak	komi1269	koi	Komi-Permyak	De Heer et al.; Syrjänen	
+Uralic	Uralic, Permic	Udmurt	Udmurt	Udmurt	udmu1245	udm	Udmurt	De Heer et al.; Syrjänen	
+Uralic	Uralic, Ugric, Hungarian	Hungarian	Hungarian	Hungarian	hung1274	hun	Hungarian	De Heer et al.; Syrjänen	
+Uralic	Uralic, Ugric, Mansic	Mansi	Sosva Mansi	Sosva Mansi	nort2677	mns	Mansi	De Heer et al.; Syrjänen	
+Uralic	Uralic, Ugric, Khantyic	Khanty	Vakh-Vasyugan Khanty	Vach-Vasjugan	fare1244			De Heer et al.; Syrjänen	
+Uralic	Uralic, Samoyedic	Nganasan	Nganasan	Nganasan	ngan1291	nio	﻿Nganasan	De Heer et al.; Syrjänen	
+Uralic	Uralic, Samoyedic	Tundra Nenets	Tundra Nenets	Tundra Nenets	nene1249	yrk	﻿Nenets	De Heer et al.; Syrjänen	
+Uralic	Uralic, Samoyedic	Selkup	Selkup	Taz-Turukhan	tazz1244	sel	﻿Selkup	De Heer et al.; Syrjänen	
