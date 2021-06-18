@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from collections import defaultdict
 os.chdir('/Users/phgeorgis/Documents/Python Projects/') #fix this eventually, but somehow data is being lost while loading the csv with pandas
-from auxiliary_functions import csv_to_dict, format_as_variable
+from auxiliary_functions import csv_to_dict, format_as_variable, strip_ch
 
 class Family:
     def __init__(self, filepath, name, 
@@ -23,6 +23,7 @@ class Family:
         self.languages = {}
         self.load_data()
         self.create_vocab_index()
+        self.concepts = set(concept.split('_')[0] for concept in self.cognate_sets.keys())
         
     def load_data(self, sep='\t'):
         #Load data file
@@ -116,7 +117,15 @@ for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic', 'Uralic',
                'NorthEuraLex/BaltoSlavic', 'NorthEuraLex/Uralic']:
     filepath = processed_data_path + family + '/data.csv'
     family_name = family.split('/')[-1]
-    families[family] = Family(filepath, family_name)
+    families[family_name] = Family(filepath, family_name)
 globals().update(families)
 
+#GET COMMON GLOSSES
+concept_counts = defaultdict(lambda:0)
+for family in families:
+    family = families[family]
+    for concept in family.concepts:
+        concept_counts[concept] += 1
+common_concepts = sorted([concept for concept in concept_counts 
+                          if concept_counts[concept] == len(families)])
 

@@ -18,7 +18,7 @@ TunisianArabic_I	Tunisian Arabic	tuni1259	aeb	I	āna	aːna	aː n a	āna	I			Wikt
 MoroccanArabic_I	Moroccan Arabic	moro1292	ary	I	anɑ	anɑ	a n ɑ	anɑ	I			Wiktionary
 MoroccanArabic_I	Moroccan Arabic	moro1292	ary	I	anayɑ	anajɑ	a n a j ɑ	anayɑ	I			Wiktionary
 HassaniyaArabic_I	Hassaniya Arabic	hass1238	mey	I	āna	aːna	aː n a	āna	I			Wiktionary
-Maltese_I	Maltese	malt1254	mlt	I	jɪːn	jɪːn	j ɪː n	jɪːn	I			Wiktionary
+Maltese_I	Maltese	malt1254	mlt	I	jien	jɪːn	j ɪː n	jɪːn	I			Wiktionary
 ModernStandardArabic_THOU	Modern Standard Arabic	stan1318	arb	THOU	ʔanta	ʔanta	ʔ a n t a	ʔanta	THOU			Wiktionary
 NajdiArabic_THOU	Najdi Arabic	najd1235	ars	THOU	ənta	ənta	ə n t a	ənta	THOU			Wiktionary
 GulfArabic_THOU	Gulf Arabic	gulf1241	afb	THOU	entɑ	ɛntɑ	ɛ n t ɑ	entɑ	THOU			Wiktionary
@@ -36,8 +36,8 @@ TunisianArabic_THOU	Tunisian Arabic	tuni1259	aeb	THOU	inti	inti	i n t i	inti	THO
 MoroccanArabic_THOU	Moroccan Arabic	moro1292	ary	THOU	ntɑ	ntɑ	n t ɑ	ntɑ	THOU			Wiktionary
 MoroccanArabic_THOU	Moroccan Arabic	moro1292	ary	THOU	ntayɑ	ntajɑ	n t a j ɑ	ntayɑ	THOU			Wiktionary
 HassaniyaArabic_THOU	Hassaniya Arabic	hass1238	mey	THOU	nta	nta	n t a	nta	THOU			Wiktionary
-Maltese_THOU	Maltese	malt1254	mlt	THOU	ɪnt	ɪnt	ɪ n t	ɪnt	THOU			Wiktionary
-Maltese_THOU	Maltese	malt1254	mlt	THOU	ɪntɪ	ɪntɪ	ɪ n t ɪ	ɪntɪ	THOU			Wiktionary
+Maltese_THOU	Maltese	malt1254	mlt	THOU	int	ɪnt	ɪ n t	ɪnt	THOU			Wiktionary
+Maltese_THOU	Maltese	malt1254	mlt	THOU	inti	ɪntɪ	ɪ n t ɪ	ɪntɪ	THOU			Wiktionary
 ModernStandardArabic_HE	Modern Standard Arabic	stan1318	arb	HE	huwa	huwa	h u w a	huwa	HE			Wiktionary
 NajdiArabic_HE	Najdi Arabic	najd1235	ars	HE	huww	huww	h u w w	huww	HE			Wiktionary
 GulfArabic_HE	Gulf Arabic	gulf1241	afb	HE	hu	hu	h u	hu	HE			Wiktionary
@@ -55,7 +55,7 @@ TunisianArabic_HE	Tunisian Arabic	tuni1259	aeb	HE	huwwā	huwwaː	h u w w aː	huw
 MoroccanArabic_HE	Moroccan Arabic	moro1292	ary	HE	həwɑ́	həwɑ	h ə w ɑ	həwɑ́	HE			Wiktionary
 HassaniyaArabic_HE	Hassaniya Arabic	hass1238	mey	HE	huwwɑ	huwwɑ	h u w w ɑ	huwwɑ	HE			Wiktionary
 HassaniyaArabic_HE	Hassaniya Arabic	hass1238	mey	HE	hūwɑ	huːwɑ	h uː w ɑ	hūwɑ	HE			Wiktionary
-Maltese_HE	Maltese	malt1254	mlt	HE	ˈuːwɐ	ʊːwɐ	ʊː w ɐ	ˈuːwɐ	HE			Wiktionary
+Maltese_HE	Maltese	malt1254	mlt	HE	huwa	ʊːwɐ	ʊː w ɐ	ˈuːwɐ	HE			Wiktionary
 ModernStandardArabic_WE	Modern Standard Arabic	stan1318	arb	WE	naħnu	naħnu	n a ħ n u	naħnu	WE			Wiktionary
 ModernStandardArabic_WE	Modern Standard Arabic	stan1318	arb	WE	ʔinnā	ʔinnaː	ʔ i n n aː	ʔinnā	WE			Wiktionary
 NajdiArabic_WE	Najdi Arabic	najd1235	ars	WE	əħna	əħna	ə ħ n a	əħna	WE			Wiktionary
@@ -74,7 +74,7 @@ TunisianArabic_WE	Tunisian Arabic	tuni1259	aeb	WE	ħənā	ħənaː	ħ ə n aː	�
 MoroccanArabic_WE	Moroccan Arabic	moro1292	ary	WE	ħnɑ	ħnɑ	ħ n ɑ	ħnɑ	WE			Wiktionary
 MoroccanArabic_WE	Moroccan Arabic	moro1292	ary	WE	ħnayɑ	ħnajɑ	ħ n a j ɑ	ħnayɑ	WE			Wiktionary
 HassaniyaArabic_WE	Hassaniya Arabic	hass1238	mey	WE	ăħna	ʌħna	ʌ ħ n a	ăħna	WE			Wiktionary
-Maltese_WE	Maltese	malt1254	mlt	WE	ˈaħ.na	ɐħnɐ	ɐ ħ n ɐ	ˈaħ.na	WE			Wiktionary
+Maltese_WE	Maltese	malt1254	mlt	WE	aħna	ɐħnɐ	ɐ ħ n ɐ	ˈaħ.na	WE			Wiktionary
 ModernStandardArabic_YOU	Modern Standard Arabic	stan1318	arb	YOU	ʔantum	ʔantum	ʔ a n t u m	ʔantum	YOU			Wiktionary
 NajdiArabic_YOU	Najdi Arabic	najd1235	ars	YOU	əntum	əntum	ə n t u m	əntum	YOU			Wiktionary
 GulfArabic_YOU	Gulf Arabic	gulf1241	afb	YOU	entu	ɛntu	ɛ n t u	entu	YOU			Wiktionary
@@ -90,7 +90,7 @@ ChadianArabic_YOU	Chadian Arabic	chad1249	shu	YOU	intu	intu	i n t u	intu	YOU			W
 TunisianArabic_YOU	Tunisian Arabic	tuni1259	aeb	YOU	ntūma	ntuːma	n t uː m a	ntūma	YOU			Wiktionary
 MoroccanArabic_YOU	Moroccan Arabic	moro1292	ary	YOU	ntumɑ	ntumɑ	n t u m ɑ	ntumɑ	YOU			Wiktionary
 HassaniyaArabic_YOU	Hassaniya Arabic	hass1238	mey	YOU	ntūmɑ	ntuːmɑ	n t uː m ɑ	ntūmɑ	YOU			Wiktionary
-Maltese_YOU	Maltese	malt1254	mlt	YOU	ɪntɔm	ɪntɔm	ɪ n t ɔ m	ɪntɔm	YOU			Wiktionary
+Maltese_YOU	Maltese	malt1254	mlt	YOU	intom	ɪntɔm	ɪ n t ɔ m	ɪntɔm	YOU			Wiktionary
 ModernStandardArabic_THEY	Modern Standard Arabic	stan1318	arb	THEY	hum	hum	h u m	hum	THEY			Wiktionary
 NajdiArabic_THEY	Najdi Arabic	najd1235	ars	THEY	humm	humm	h u m m	humm	THEY			Wiktionary
 GulfArabic_THEY	Gulf Arabic	gulf1241	afb	THEY	hum	hum	h u m	hum	THEY			Wiktionary
@@ -108,7 +108,7 @@ ChadianArabic_THEY	Chadian Arabic	chad1249	shu	THEY	hinna	hinna	h i n n a	hinna	
 TunisianArabic_THEY	Tunisian Arabic	tuni1259	aeb	THEY	hūma	huːma	h uː m a	hūma	THEY			Wiktionary
 MoroccanArabic_THEY	Moroccan Arabic	moro1292	ary	THEY	humɑ	humɑ	h u m ɑ	humɑ	THEY			Wiktionary
 HassaniyaArabic_THEY	Hassaniya Arabic	hass1238	mey	THEY	hūṃɑ	huːmˤɑ	h uː mˤ ɑ	hūṃɑ	THEY			Wiktionary
-Maltese_THEY	Maltese	malt1254	mlt	THEY	ˈuː.ma	ʊːmɐ	ʊː m ɐ	ˈuː.ma	THEY			Wiktionary
+Maltese_THEY	Maltese	malt1254	mlt	THEY	huma	ʊːmɐ	ʊː m ɐ	ˈuː.ma	THEY			Wiktionary
 ModernStandardArabic_THIS	Modern Standard Arabic	stan1318	arb	THIS	hāðā	haːðaː	h aː ð aː	hāðā	THIS			Wiktionary
 NajdiArabic_THIS	Najdi Arabic	najd1235	ars	THIS	ða	ða	ð a	ða	THIS			Wiktionary
 GulfArabic_THIS	Gulf Arabic	gulf1241	afb	THIS	hɑ̄ða	hɑːða	h ɑː ð a	hɑ̄ða	THIS			Wiktionary
@@ -124,7 +124,7 @@ ChadianArabic_THIS	Chadian Arabic	chad1249	shu	THIS	dā	daː	d aː	dā	THIS			Wi
 TunisianArabic_THIS	Tunisian Arabic	tuni1259	aeb	THIS	hāða	haːða	h aː ð a	hāða	THIS			Wiktionary
 MoroccanArabic_THIS	Moroccan Arabic	moro1292	ary	THIS	hada	hada	h a d a	hada	THIS			Wiktionary
 HassaniyaArabic_THIS	Hassaniya Arabic	hass1238	mey	THIS	ðɑ	ðɑ	ð ɑ	ðɑ	THIS			Wiktionary
-Maltese_THIS	Maltese	malt1254	mlt	THIS	daːn	dɐːn	d ɐː n	daːn	THIS			Wiktionary
+Maltese_THIS	Maltese	malt1254	mlt	THIS	dan	dɐːn	d ɐː n	daːn	THIS			Wiktionary
 ModernStandardArabic_THAT	Modern Standard Arabic	stan1318	arb	THAT	ðālika	ðaːlika	ð aː l i k a	ðālika	THAT			Wiktionary
 NajdiArabic_THAT	Najdi Arabic	najd1235	ars	THAT	ðāk	ðaːk	ð aː k	ðāk	THAT			Wiktionary
 GulfArabic_THAT	Gulf Arabic	gulf1241	afb	THAT	haðɑ̄k	haðɑːk	h a ð ɑː k	haðɑ̄k	THAT			Wiktionary
@@ -167,7 +167,7 @@ MoroccanArabic_HERE	Moroccan Arabic	moro1292	ary	HERE	hnɑ	hnɑ	h n ɑ	hnɑ	HERE
 MoroccanArabic_HERE	Moroccan Arabic	moro1292	ary	HERE	hnayɑ	hnajɑ	h n a j ɑ	hnayɑ	HERE			Wiktionary
 HassaniyaArabic_HERE	Hassaniya Arabic	hass1238	mey	HERE	hūn	huːn	h uː n	hūn	HERE			Wiktionary
 HassaniyaArabic_HERE	Hassaniya Arabic	hass1238	mey	HERE	hūnāti	huːnaːti	h uː n aː t i	hūnāti	HERE			Wiktionary
-Maltese_HERE	Maltese	malt1254	mlt	HERE	awn	ɐwn	ɐ w n	awn	HERE			Wiktionary
+Maltese_HERE	Maltese	malt1254	mlt	HERE	hawn	ɐwn	ɐ w n	awn	HERE			Wiktionary
 ModernStandardArabic_THERE	Modern Standard Arabic	stan1318	arb	THERE	hunāka	hunaːka	h u n aː k a	hunāka	THERE			Wiktionary
 ModernStandardArabic_THERE	Modern Standard Arabic	stan1318	arb	THERE	θamma	θamma	θ a m m a	θamma	THERE			Wiktionary
 NajdiArabic_THERE	Najdi Arabic	najd1235	ars	THERE	fiðāk	fiðaːk	f i ð aː k	fiðāk	THERE			Wiktionary
@@ -190,7 +190,7 @@ HassaniyaArabic_THERE	Hassaniya Arabic	hass1238	mey	THERE	vamm	vamm	v a m m	vamm
 HassaniyaArabic_THERE	Hassaniya Arabic	hass1238	mey	THERE	vammāti	vammaːti	v a m m aː t i	vammāti	THERE			Wiktionary
 HassaniyaArabic_THERE	Hassaniya Arabic	hass1238	mey	THERE	lhēh	lhɛːh	l h ɛː h	lhēh	THERE			Wiktionary
 HassaniyaArabic_THERE	Hassaniya Arabic	hass1238	mey	THERE	howk	hɔwk	h ɔ w k	howk	THERE			Wiktionary
-Maltese_THERE	Maltese	malt1254	mlt	THERE	ɛmm	ɛmm	ɛ m m	ɛmm	THERE			Wiktionary
+Maltese_THERE	Maltese	malt1254	mlt	THERE	hemm	ɛmm	ɛ m m	ɛmm	THERE			Wiktionary
 ModernStandardArabic_WHO	Modern Standard Arabic	stan1318	arb	WHO	man	man	m a n	man	WHO			Wiktionary
 NajdiArabic_WHO	Najdi Arabic	najd1235	ars	WHO	mən	mən	m ə n	mən	WHO			Wiktionary
 GulfArabic_WHO	Gulf Arabic	gulf1241	afb	WHO	men	mɛn	m ɛ n	men	WHO			Wiktionary
@@ -235,9 +235,9 @@ MoroccanArabic_WHAT	Moroccan Arabic	moro1292	ary	WHAT	ašnu	aʃnu	a ʃ n u	ašnu
 HassaniyaArabic_WHAT	Hassaniya Arabic	hass1238	mey	WHAT	š-	ʃ	ʃ	š-	WHAT			Wiktionary
 HassaniyaArabic_WHAT	Hassaniya Arabic	hass1238	mey	WHAT	-āš	aːʃ	aː ʃ	-āš	WHAT			Wiktionary
 HassaniyaArabic_WHAT	Hassaniya Arabic	hass1238	mey	WHAT	šənhu	ʃənhu	ʃ ə n h u	šənhu	WHAT			Wiktionary
-Maltese_WHAT	Maltese	malt1254	mlt	WHAT	ʃ	ʃ	ʃ	ʃ	WHAT			Wiktionary
-Maltese_WHAT	Maltese	malt1254	mlt	WHAT	ˈʃɪnu	ʃɪnʊ	ʃ ɪ n ʊ	ˈʃɪnu	WHAT			Wiktionary
-Maltese_WHAT	Maltese	malt1254	mlt	WHAT	ʃɪːʃ	ʃɪːʃ	ʃ ɪː ʃ	ʃɪːʃ	WHAT			Wiktionary
+Maltese_WHAT	Maltese	malt1254	mlt	WHAT	x'	ʃ	ʃ	ʃ	WHAT			Wiktionary
+Maltese_WHAT	Maltese	malt1254	mlt	WHAT	x'inhu	ʃɪnʊ	ʃ ɪ n ʊ	ˈʃɪnu	WHAT			Wiktionary
+Maltese_WHAT	Maltese	malt1254	mlt	WHAT	xiex	ʃɪːʃ	ʃ ɪː ʃ	ʃɪːʃ	WHAT			Wiktionary
 ModernStandardArabic_WHERE	Modern Standard Arabic	stan1318	arb	WHERE	ʔayna	ʔajna	ʔ a j n a	ʔayna	WHERE			Wiktionary
 NajdiArabic_WHERE	Najdi Arabic	najd1235	ars	WHERE	wein	wɛin	w ɛ i n	wein	WHERE			Wiktionary
 GulfArabic_WHERE	Gulf Arabic	gulf1241	afb	WHERE	wēn	wɛːn	w ɛː n	wēn	WHERE			Wiktionary
@@ -258,7 +258,7 @@ TunisianArabic_WHERE	Tunisian Arabic	tuni1259	aeb	WHERE	fīn	fiːn	f iː n	fīn	
 MoroccanArabic_WHERE	Moroccan Arabic	moro1292	ary	WHERE	fin	fin	f i n	fin	WHERE			Wiktionary
 HassaniyaArabic_WHERE	Hassaniya Arabic	hass1238	mey	WHERE	mneyn	mnɛjn	m n ɛ j n	mneyn	WHERE			Wiktionary
 HassaniyaArabic_WHERE	Hassaniya Arabic	hass1238	mey	WHERE	weyn	wɛjn	w ɛ j n	weyn	WHERE			Wiktionary
-Maltese_WHERE	Maltese	malt1254	mlt	WHERE	fɛjn	fɛjn	f ɛ j n	fɛjn	WHERE			Wiktionary
+Maltese_WHERE	Maltese	malt1254	mlt	WHERE	fejn	fɛjn	f ɛ j n	fɛjn	WHERE			Wiktionary
 ModernStandardArabic_WHEN	Modern Standard Arabic	stan1318	arb	WHEN	matā	mataː	m a t aː	matā	WHEN			Wiktionary
 NajdiArabic_WHEN	Najdi Arabic	najd1235	ars	WHEN	meta	mɛta	m ɛ t a	meta	WHEN			Wiktionary
 GulfArabic_WHEN	Gulf Arabic	gulf1241	afb	WHEN	meta	mɛta	m ɛ t a	meta	WHEN			Wiktionary
@@ -277,7 +277,7 @@ TunisianArabic_WHEN	Tunisian Arabic	tuni1259	aeb	WHEN	waqtē	waqtɛː	w a q t ɛ
 MoroccanArabic_WHEN	Moroccan Arabic	moro1292	ary	WHEN	fuqaš	fuqaʃ	f u q a ʃ	fuqaš	WHEN			Wiktionary
 MoroccanArabic_WHEN	Moroccan Arabic	moro1292	ary	WHEN	imta	imta	i m t a	imta	WHEN			Wiktionary
 HassaniyaArabic_WHEN	Hassaniya Arabic	hass1238	mey	WHEN	eynta	ɛjnta	ɛ j n t a	eynta	WHEN			Wiktionary
-Maltese_WHEN	Maltese	malt1254	mlt	WHEN	ˈmɛta	mɛtɐ	m ɛ t ɐ	ˈmɛta	WHEN			Wiktionary
+Maltese_WHEN	Maltese	malt1254	mlt	WHEN	meta	mɛtɐ	m ɛ t ɐ	ˈmɛta	WHEN			Wiktionary
 ModernStandardArabic_HOW	Modern Standard Arabic	stan1318	arb	HOW	kayfa	kajfa	k a j f a	kayfa	HOW			Wiktionary
 NajdiArabic_HOW	Najdi Arabic	najd1235	ars	HOW	keif	kɛif	k ɛ i f	keif	HOW			Wiktionary
 NajdiArabic_HOW	Najdi Arabic	najd1235	ars	HOW	t͡sēf	ʦɛːf	ʦ ɛː f	t͡sēf	HOW			Wiktionary
@@ -299,7 +299,7 @@ TunisianArabic_HOW	Tunisian Arabic	tuni1259	aeb	HOW	kīfē	kiːfɛː	k iː f ɛ�
 MoroccanArabic_HOW	Moroccan Arabic	moro1292	ary	HOW	ki	ki	k i	ki	HOW			Wiktionary
 MoroccanArabic_HOW	Moroccan Arabic	moro1292	ary	HOW	kifaš	kifaʃ	k i f a ʃ	kifaš	HOW			Wiktionary
 HassaniyaArabic_HOW	Hassaniya Arabic	hass1238	mey	HOW	bism il-ħīla	bism ilħiːla	b i s m   i l ħ iː l a	bism il-ħīla	HOW			Wiktionary
-Maltese_HOW	Maltese	malt1254	mlt	HOW	kiːf	kiːf	k iː f	kiːf	HOW			Wiktionary
+Maltese_HOW	Maltese	malt1254	mlt	HOW	kif	kiːf	k iː f	kiːf	HOW			Wiktionary
 ModernStandardArabic_NOT	Modern Standard Arabic	stan1318	arb	NOT	laysa	lajsa	l a j s a	laysa	NOT			Wiktionary
 NajdiArabic_NOT	Najdi Arabic	najd1235	ars	NOT	mū	muː	m uː	mū	NOT			Wiktionary
 NajdiArabic_NOT	Najdi Arabic	najd1235	ars	NOT	ma	ma	m a	ma	NOT			Wiktionary
@@ -338,7 +338,7 @@ MoroccanArabic_NOT	Moroccan Arabic	moro1292	ary	NOT	ma...š	ma   ʃ	m a       ʃ
 HassaniyaArabic_NOT	Hassaniya Arabic	hass1238	mey	NOT	mā	maː	m aː	mā	NOT			Wiktionary
 HassaniyaArabic_NOT	Hassaniya Arabic	hass1238	mey	NOT	lā	laː	l aː	lā	NOT			Wiktionary
 HassaniyaArabic_NOT	Hassaniya Arabic	hass1238	mey	NOT	māhu	maːhu	m aː h u	māhu	NOT			Wiktionary
-Maltese_NOT	Maltese	malt1254	mlt	NOT	muːʃ	mʊːʃ	m ʊː ʃ	muːʃ	NOT			Wiktionary
+Maltese_NOT	Maltese	malt1254	mlt	NOT	mhux	mʊːʃ	m ʊː ʃ	muːʃ	NOT			Wiktionary
 ModernStandardArabic_ALL	Modern Standard Arabic	stan1318	arb	ALL	kull	kull	k u l l	kull	ALL			Wiktionary
 ModernStandardArabic_ALL	Modern Standard Arabic	stan1318	arb	ALL	kāmil	kaːmil	k aː m i l	kāmil	ALL			Wiktionary
 ModernStandardArabic_ALL	Modern Standard Arabic	stan1318	arb	ALL	jamīʕ	ʤamiːʕ	ʤ a m iː ʕ	jamīʕ	ALL			Wiktionary
@@ -407,7 +407,7 @@ TunisianArabic_SOME	Tunisian Arabic	tuni1259	aeb	SOME	baˁð̣	baʕðˤ	b a ʕ �
 MoroccanArabic_SOME	Moroccan Arabic	moro1292	ary	SOME	ši	ʃi	ʃ i	ši	SOME			Wiktionary
 MoroccanArabic_SOME	Moroccan Arabic	moro1292	ary	SOME	šwiyyɑ	ʃwijjɑ	ʃ w i j j ɑ	šwiyyɑ	SOME			Wiktionary
 HassaniyaArabic_SOME	Hassaniya Arabic	hass1238	mey	SOME	ši	ʃi	ʃ i	ši	SOME			Wiktionary
-Maltese_SOME	Maltese	malt1254	mlt	SOME	ʃɪ	ʃɪ	ʃ ɪ	ʃɪ	SOME			Wiktionary
+Maltese_SOME	Maltese	malt1254	mlt	SOME	xi	ʃɪ	ʃ ɪ	ʃɪ	SOME			Wiktionary
 ModernStandardArabic_FEW	Modern Standard Arabic	stan1318	arb	FEW	qɑlīl	qɑliːl	q ɑ l iː l	qɑlīl	FEW			Wiktionary
 NajdiArabic_FEW	Najdi Arabic	najd1235	ars	FEW	gəlīl	ɡəliːl	ɡ ə l iː l	gəlīl	FEW			Wiktionary
 NajdiArabic_FEW	Najdi Arabic	najd1235	ars	FEW	šwayya	ʃwajja	ʃ w a j j a	šwayya	FEW			Wiktionary
@@ -441,7 +441,7 @@ MoroccanArabic_FEW	Moroccan Arabic	moro1292	ary	FEW	qlil	qlil	q l i l	qlil	FEW		
 MoroccanArabic_FEW	Moroccan Arabic	moro1292	ary	FEW	ši	ʃi	ʃ i	ši	FEW			Wiktionary
 HassaniyaArabic_FEW	Hassaniya Arabic	hass1238	mey	FEW	šweyy	ʃwɛjj	ʃ w ɛ j j	šweyy	FEW			Wiktionary
 HassaniyaArabic_FEW	Hassaniya Arabic	hass1238	mey	FEW	gleyyǝl	ɡlɛjjəl	ɡ l ɛ j j ə l	gleyyǝl	FEW			Wiktionary
-Maltese_FEW	Maltese	malt1254	mlt	FEW	ftiːt	ftiːt	f t iː t	ftiːt	FEW			Wiktionary
+Maltese_FEW	Maltese	malt1254	mlt	FEW	ftit	ftiːt	f t iː t	ftiːt	FEW			Wiktionary
 ModernStandardArabic_OTHER	Modern Standard Arabic	stan1318	arb	OTHER	ʔāxɑr	ʔaːxɑr	ʔ aː x ɑ r	ʔāxɑr	OTHER			Wiktionary
 ModernStandardArabic_OTHER	Modern Standard Arabic	stan1318	arb	OTHER	ġɑyr	ɣɑjr	ɣ ɑ j r	ġɑyr	OTHER			Wiktionary
 NajdiArabic_OTHER	Najdi Arabic	najd1235	ars	OTHER	θāni	θaːni	θ aː n i	θāni	OTHER			Wiktionary
@@ -464,7 +464,7 @@ ChadianArabic_OTHER	Chadian Arabic	chad1249	shu	OTHER	lʔāxar	lʔaːxar	l ʔ a�
 TunisianArabic_OTHER	Tunisian Arabic	tuni1259	aeb	OTHER	lēxɑr	lɛːxɑr	l ɛː x ɑ r	lēxɑr	OTHER			Wiktionary
 MoroccanArabic_OTHER	Moroccan Arabic	moro1292	ary	OTHER	axəṛ	axərˤ	a x ə rˤ	axəṛ	OTHER			Wiktionary
 HassaniyaArabic_OTHER	Hassaniya Arabic	hass1238	mey	OTHER	ăwxər	ʌwxər	ʌ w x ə r	ăwxər	OTHER			Wiktionary
-Maltese_OTHER	Maltese	malt1254	mlt	OTHER	ˈɪːħɔr	ɪːħɔr	ɪː ħ ɔ r	ˈɪːħɔr	OTHER			Wiktionary
+Maltese_OTHER	Maltese	malt1254	mlt	OTHER	ieħor	ɪːħɔr	ɪː ħ ɔ r	ˈɪːħɔr	OTHER			Wiktionary
 ModernStandardArabic_ONE	Modern Standard Arabic	stan1318	arb	ONE	wāħid	waːħid	w aː ħ i d	wāħid	ONE			Wiktionary
 NajdiArabic_ONE	Najdi Arabic	najd1235	ars	ONE	wāħid	waːħid	w aː ħ i d	wāħid	ONE			Wiktionary
 GulfArabic_ONE	Gulf Arabic	gulf1241	afb	ONE	wɑ̄ħed	wɑːħɛd	w ɑː ħ ɛ d	wɑ̄ħed	ONE			Wiktionary
@@ -480,7 +480,7 @@ ChadianArabic_ONE	Chadian Arabic	chad1249	shu	ONE	wāhid	waːhid	w aː h i d	wā
 TunisianArabic_ONE	Tunisian Arabic	tuni1259	aeb	ONE	wāħid	waːħid	w aː ħ i d	wāħid	ONE			Wiktionary
 MoroccanArabic_ONE	Moroccan Arabic	moro1292	ary	ONE	waħed	waħɛd	w a ħ ɛ d	waħed	ONE			Wiktionary
 HassaniyaArabic_ONE	Hassaniya Arabic	hass1238	mey	ONE	wāħid	waːħid	w aː ħ i d	wāħid	ONE			Wiktionary
-Maltese_ONE	Maltese	malt1254	mlt	ONE	ˈwɪː.ħɛt	wɪːħɛt	w ɪː ħ ɛ t	ˈwɪː.ħɛt	ONE			Wiktionary
+Maltese_ONE	Maltese	malt1254	mlt	ONE	wieħed	wɪːħɛt	w ɪː ħ ɛ t	ˈwɪː.ħɛt	ONE			Wiktionary
 ModernStandardArabic_TWO	Modern Standard Arabic	stan1318	arb	TWO	ʔiθnān	ʔiθnaːn	ʔ i θ n aː n	ʔiθnān	TWO			Wiktionary
 NajdiArabic_TWO	Najdi Arabic	najd1235	ars	TWO	əθnēn	əθnɛːn	ə θ n ɛː n	əθnēn	TWO			Wiktionary
 GulfArabic_TWO	Gulf Arabic	gulf1241	afb	TWO	θnēn	θnɛːn	θ n ɛː n	θnēn	TWO			Wiktionary
@@ -500,8 +500,8 @@ TunisianArabic_TWO	Tunisian Arabic	tuni1259	aeb	TWO	θnīn	θniːn	θ n iː n	θ
 MoroccanArabic_TWO	Moroccan Arabic	moro1292	ary	TWO	žuž	ʒuʒ	ʒ u ʒ	žuž	TWO			Wiktionary
 MoroccanArabic_TWO	Moroccan Arabic	moro1292	ary	TWO	tnin	tnin	t n i n	tnin	TWO			Wiktionary
 HassaniyaArabic_TWO	Hassaniya Arabic	hass1238	mey	TWO	iθ̬nayn	iθ̬̬najn	i θ̬̬ n a j n	iθ̬nayn	TWO			Wiktionary
-Maltese_TWO	Maltese	malt1254	mlt	TWO	tnɛjn	tnɛjn	t n ɛ j n	tnɛjn	TWO			Wiktionary
-Maltese_TWO	Maltese	malt1254	mlt	TWO	zɛwt͡ʃ	zɛwʧ	z ɛ w ʧ	zɛwt͡ʃ	TWO			Wiktionary
+Maltese_TWO	Maltese	malt1254	mlt	TWO	tnejn	tnɛjn	t n ɛ j n	tnɛjn	TWO			Wiktionary
+Maltese_TWO	Maltese	malt1254	mlt	TWO	żewġ	zɛwʧ	z ɛ w ʧ	zɛwt͡ʃ	TWO			Wiktionary
 ModernStandardArabic_THREE	Modern Standard Arabic	stan1318	arb	THREE	θalāθa	θalaːθa	θ a l aː θ a	θalāθa	THREE			Wiktionary
 NajdiArabic_THREE	Najdi Arabic	najd1235	ars	THREE	θalāθ	θalaːθ	θ a l aː θ	θalāθ	THREE			Wiktionary
 GulfArabic_THREE	Gulf Arabic	gulf1241	afb	THREE	θalɑ̄θa	θalɑːθa	θ a l ɑː θ a	θalɑ̄θa	THREE			Wiktionary
@@ -520,7 +520,7 @@ ChadianArabic_THREE	Chadian Arabic	chad1249	shu	THREE	talāta	talaːta	t a l aː
 TunisianArabic_THREE	Tunisian Arabic	tuni1259	aeb	THREE	θlāθa	θlaːθa	θ l aː θ a	θlāθa	THREE			Wiktionary
 MoroccanArabic_THREE	Moroccan Arabic	moro1292	ary	THREE	tlatɑ	tlatɑ	t l a t ɑ	tlatɑ	THREE			Wiktionary
 HassaniyaArabic_THREE	Hassaniya Arabic	hass1238	mey	THREE	θ̬lāθ̬a	θ̬̬laːθ̬̬a	θ̬̬ l aː θ̬̬ a	θ̬lāθ̬a	THREE			Wiktionary
-Maltese_THREE	Maltese	malt1254	mlt	THREE	ˈtlɪː.ta	tlɪːtɐ	t l ɪː t ɐ	ˈtlɪː.ta	THREE			Wiktionary
+Maltese_THREE	Maltese	malt1254	mlt	THREE	tlieta	tlɪːtɐ	t l ɪː t ɐ	ˈtlɪː.ta	THREE			Wiktionary
 ModernStandardArabic_FOUR	Modern Standard Arabic	stan1318	arb	FOUR	ʔarbaʕa	ʔarbaʕa	ʔ a r b a ʕ a	ʔarbaʕa	FOUR			Wiktionary
 NajdiArabic_FOUR	Najdi Arabic	najd1235	ars	FOUR	ʔarbaʕ	ʔarbaʕ	ʔ a r b a ʕ	ʔarbaʕ	FOUR			Wiktionary
 GulfArabic_FOUR	Gulf Arabic	gulf1241	afb	FOUR	ʔɑrbɑʕa	ʔɑrbɑʕa	ʔ ɑ r b ɑ ʕ a	ʔɑrbɑʕa	FOUR			Wiktionary
@@ -536,7 +536,7 @@ ChadianArabic_FOUR	Chadian Arabic	chad1249	shu	FOUR	arba	arba	a r b a	arba	FOUR	
 TunisianArabic_FOUR	Tunisian Arabic	tuni1259	aeb	FOUR	rbʕā	rbʕaː	r b ʕ aː	rbʕā	FOUR			Wiktionary
 MoroccanArabic_FOUR	Moroccan Arabic	moro1292	ary	FOUR	ṛəbʕa	rˤəbʕa	rˤ ə b ʕ a	ṛəbʕa	FOUR			Wiktionary
 HassaniyaArabic_FOUR	Hassaniya Arabic	hass1238	mey	FOUR	ărbʕa	ʌrbʕa	ʌ r b ʕ a	ărbʕa	FOUR			Wiktionary
-Maltese_FOUR	Maltese	malt1254	mlt	FOUR	ˈɛr.ba	ɛrbɐ	ɛ r b ɐ	ˈɛr.ba	FOUR			Wiktionary
+Maltese_FOUR	Maltese	malt1254	mlt	FOUR	erbgħa	ɛrbɐ	ɛ r b ɐ	ˈɛr.ba	FOUR			Wiktionary
 ModernStandardArabic_FIVE	Modern Standard Arabic	stan1318	arb	FIVE	xamsa	xamsa	x a m s a	xamsa	FIVE			Wiktionary
 NajdiArabic_FIVE	Najdi Arabic	najd1235	ars	FIVE	xams	xams	x a m s	xams	FIVE			Wiktionary
 GulfArabic_FIVE	Gulf Arabic	gulf1241	afb	FIVE	xamsɑ	xamsɑ	x a m s ɑ	xamsɑ	FIVE			Wiktionary
@@ -552,7 +552,7 @@ ChadianArabic_FIVE	Chadian Arabic	chad1249	shu	FIVE	xamsa	xamsa	x a m s a	xamsa	
 TunisianArabic_FIVE	Tunisian Arabic	tuni1259	aeb	FIVE	xamsa	xamsa	x a m s a	xamsa	FIVE			Wiktionary
 MoroccanArabic_FIVE	Moroccan Arabic	moro1292	ary	FIVE	xəmsɑ	xəmsɑ	x ə m s ɑ	xəmsɑ	FIVE			Wiktionary
 HassaniyaArabic_FIVE	Hassaniya Arabic	hass1238	mey	FIVE	xămsa	xʌmsa	x ʌ m s a	xămsa	FIVE			Wiktionary
-Maltese_FIVE	Maltese	malt1254	mlt	FIVE	ħam.sa	ħɐmsɐ	ħ ɐ m s ɐ	ħam.sa	FIVE			Wiktionary
+Maltese_FIVE	Maltese	malt1254	mlt	FIVE	ħamsa	ħɐmsɐ	ħ ɐ m s ɐ	ħam.sa	FIVE			Wiktionary
 ModernStandardArabic_BIG	Modern Standard Arabic	stan1318	arb	BIG	kabīr	kabiːr	k a b iː r	kabīr	BIG			Wiktionary
 NajdiArabic_BIG	Najdi Arabic	najd1235	ars	BIG	t͡səbīr	ʦəbiːr	ʦ ə b iː r	t͡səbīr	BIG			Wiktionary
 NajdiArabic_BIG	Najdi Arabic	najd1235	ars	BIG	kəbīr	kəbiːr	k ə b iː r	kəbīr	BIG			Wiktionary
@@ -571,7 +571,7 @@ ChadianArabic_BIG	Chadian Arabic	chad1249	shu	BIG	kabīr	kabiːr	k a b iː r	kab
 TunisianArabic_BIG	Tunisian Arabic	tuni1259	aeb	BIG	kbīr	kbiːr	k b iː r	kbīr	BIG			Wiktionary
 MoroccanArabic_BIG	Moroccan Arabic	moro1292	ary	BIG	kbir	kbir	k b i r	kbir	BIG			Wiktionary
 HassaniyaArabic_BIG	Hassaniya Arabic	hass1238	mey	BIG	əkbīr	əkbiːr	ə k b iː r	əkbīr	BIG			Wiktionary
-Maltese_BIG	Maltese	malt1254	mlt	BIG	ɡbiːr	ɡbiːr	ɡ b iː r	ɡbiːr	BIG			Wiktionary
+Maltese_BIG	Maltese	malt1254	mlt	BIG	kbir	ɡbiːr	ɡ b iː r	ɡbiːr	BIG			Wiktionary
 ModernStandardArabic_LONG	Modern Standard Arabic	stan1318	arb	LONG	ṭɑwīl	tˤɑwiːl	tˤ ɑ w iː l	ṭɑwīl	LONG			Wiktionary
 NajdiArabic_LONG	Najdi Arabic	najd1235	ars	LONG	ṭuwīl	tˤuwiːl	tˤ u w iː l	ṭuwīl	LONG			Wiktionary
 GulfArabic_LONG	Gulf Arabic	gulf1241	afb	LONG	ṭɑwīl	tˤɑwiːl	tˤ ɑ w iː l	ṭɑwīl	LONG			Wiktionary
@@ -587,7 +587,7 @@ ChadianArabic_LONG	Chadian Arabic	chad1249	shu	LONG	tɑwīl	tɑwiːl	t ɑ w iː 
 TunisianArabic_LONG	Tunisian Arabic	tuni1259	aeb	LONG	twīl	twiːl	t w iː l	twīl	LONG			Wiktionary
 MoroccanArabic_LONG	Moroccan Arabic	moro1292	ary	LONG	ṭwil	tˤwil	tˤ w i l	ṭwil	LONG			Wiktionary
 HassaniyaArabic_LONG	Hassaniya Arabic	hass1238	mey	LONG	əṭwīl	ətˤwiːl	ə tˤ w iː l	əṭwīl	LONG			Wiktionary
-Maltese_LONG	Maltese	malt1254	mlt	LONG	twiːl	twiːl	t w iː l	twiːl	LONG			Wiktionary
+Maltese_LONG	Maltese	malt1254	mlt	LONG	twil	twiːl	t w iː l	twiːl	LONG			Wiktionary
 ModernStandardArabic_WIDE	Modern Standard Arabic	stan1318	arb	WIDE	wāsiʕ	waːsiʕ	w aː s i ʕ	wāsiʕ	WIDE			Wiktionary
 ModernStandardArabic_WIDE	Modern Standard Arabic	stan1318	arb	WIDE	raħīb	raħiːb	r a ħ iː b	raħīb	WIDE			Wiktionary
 ModernStandardArabic_WIDE	Modern Standard Arabic	stan1318	arb	WIDE	ʕɑrīḍ	ʕɑriːdˤ	ʕ ɑ r iː dˤ	ʕɑrīḍ	WIDE			Wiktionary
@@ -612,7 +612,7 @@ ChadianArabic_WIDE	Chadian Arabic	chad1249	shu	WIDE	wasī	wasiː	w a s iː	wasī
 TunisianArabic_WIDE	Tunisian Arabic	tuni1259	aeb	WIDE	wāseʕ	waːsɛʕ	w aː s ɛ ʕ	wāseʕ	WIDE			Wiktionary
 MoroccanArabic_WIDE	Moroccan Arabic	moro1292	ary	WIDE	waseʕ	wasɛʕ	w a s ɛ ʕ	waseʕ	WIDE			Wiktionary
 HassaniyaArabic_WIDE	Hassaniya Arabic	hass1238	mey	WIDE	wāsəʕ	waːsəʕ	w aː s ə ʕ	wāsəʕ	WIDE			Wiktionary
-Maltese_WIDE	Maltese	malt1254	mlt	WIDE	ˈwɪː.sa	wɪːsɐ	w ɪː s ɐ	ˈwɪː.sa	WIDE			Wiktionary
+Maltese_WIDE	Maltese	malt1254	mlt	WIDE	wiesa'	wɪːsɐ	w ɪː s ɐ	ˈwɪː.sa	WIDE			Wiktionary
 ModernStandardArabic_THICK	Modern Standard Arabic	stan1318	arb	THICK	ġɑlīð̣	ɣɑliːðˤ	ɣ ɑ l iː ðˤ	ġɑlīð̣	THICK			Wiktionary
 ModernStandardArabic_THICK	Modern Standard Arabic	stan1318	arb	THICK	θaxīn	θaxiːn	θ a x iː n	θaxīn	THICK			Wiktionary
 ModernStandardArabic_THICK	Modern Standard Arabic	stan1318	arb	THICK	samīk	samiːk	s a m iː k	samīk	THICK			Wiktionary
@@ -636,7 +636,7 @@ TunisianArabic_THICK	Tunisian Arabic	tuni1259	aeb	THICK	ġlīð̣	ɣliːðˤ	ɣ 
 MoroccanArabic_THICK	Moroccan Arabic	moro1292	ary	THICK	ġliḍ	ɣlidˤ	ɣ l i dˤ	ġliḍ	THICK			Wiktionary
 HassaniyaArabic_THICK	Hassaniya Arabic	hass1238	mey	THICK	ġlīð̣	ɣliːðˤ	ɣ l iː ðˤ	ġlīð̣	THICK			Wiktionary
 HassaniyaArabic_THICK	Hassaniya Arabic	hass1238	mey	THICK	qlīð̣	qliːðˤ	q l iː ðˤ	qlīð̣	THICK			Wiktionary
-Maltese_THICK	Maltese	malt1254	mlt	THICK	ˈɔħ.ʃɔn	ɔħʃɔn	ɔ ħ ʃ ɔ n	ˈɔħ.ʃɔn	THICK			Wiktionary
+Maltese_THICK	Maltese	malt1254	mlt	THICK	oħxon	ɔħʃɔn	ɔ ħ ʃ ɔ n	ˈɔħ.ʃɔn	THICK			Wiktionary
 ModernStandardArabic_HEAVY	Modern Standard Arabic	stan1318	arb	HEAVY	θaqīl	θaqiːl	θ a q iː l	θaqīl	HEAVY			Wiktionary
 NajdiArabic_HEAVY	Najdi Arabic	najd1235	ars	HEAVY	θagīl	θaɡiːl	θ a ɡ iː l	θagīl	HEAVY			Wiktionary
 GulfArabic_HEAVY	Gulf Arabic	gulf1241	afb	HEAVY	θagīl	θaɡiːl	θ a ɡ iː l	θagīl	HEAVY			Wiktionary
@@ -655,7 +655,7 @@ ChadianArabic_HEAVY	Chadian Arabic	chad1249	shu	HEAVY	tɑgīl	tɑɡiːl	t ɑ ɡ 
 TunisianArabic_HEAVY	Tunisian Arabic	tuni1259	aeb	HEAVY	θqīl	θqiːl	θ q iː l	θqīl	HEAVY			Wiktionary
 MoroccanArabic_HEAVY	Moroccan Arabic	moro1292	ary	HEAVY	tqil	tqil	t q i l	tqil	HEAVY			Wiktionary
 HassaniyaArabic_HEAVY	Hassaniya Arabic	hass1238	mey	HEAVY	əθ̬gīl	əθ̬̬ɡiːl	ə θ̬̬ ɡ iː l	əθ̬gīl	HEAVY			Wiktionary
-Maltese_HEAVY	Maltese	malt1254	mlt	HEAVY	tʔiːl	tʔiːl	t ʔ iː l	tʔiːl	HEAVY			Wiktionary
+Maltese_HEAVY	Maltese	malt1254	mlt	HEAVY	tqil	tʔiːl	t ʔ iː l	tʔiːl	HEAVY			Wiktionary
 ModernStandardArabic_SMALL	Modern Standard Arabic	stan1318	arb	SMALL	ṣɑġīr	sˤɑɣiːr	sˤ ɑ ɣ iː r	ṣɑġīr	SMALL			Wiktionary
 NajdiArabic_SMALL	Najdi Arabic	najd1235	ars	SMALL	ṣuġēr	sˤuɣɛːr	sˤ u ɣ ɛː r	ṣuġēr	SMALL			Wiktionary
 NajdiArabic_SMALL	Najdi Arabic	najd1235	ars	SMALL	ṣəġīr	sˤəɣiːr	sˤ ə ɣ iː r	ṣəġīr	SMALL			Wiktionary
@@ -680,8 +680,8 @@ HassaniyaArabic_SMALL	Hassaniya Arabic	hass1238	mey	SMALL	sqīr	sqiːr	s q iː r
 HassaniyaArabic_SMALL	Hassaniya Arabic	hass1238	mey	SMALL	sqayyǝr	sqajjər	s q a j j ə r	sqayyǝr	SMALL			Wiktionary
 HassaniyaArabic_SMALL	Hassaniya Arabic	hass1238	mey	SMALL	sġīr	sɣiːr	s ɣ iː r	sġīr	SMALL			Wiktionary
 HassaniyaArabic_SMALL	Hassaniya Arabic	hass1238	mey	SMALL	sġayyǝr	sɣajjər	s ɣ a j j ə r	sġayyǝr	SMALL			Wiktionary
-Maltese_SMALL	Maltese	malt1254	mlt	SMALL	zɛjr	zɛjr	z ɛ j r	zɛjr	SMALL			Wiktionary
-Maltese_SMALL	Maltese	malt1254	mlt	SMALL	ˈt͡ʃkɛj.kɛn	ʧkɛjkɛn	ʧ k ɛ j k ɛ n	ˈt͡ʃkɛj.kɛn	SMALL			Wiktionary
+Maltese_SMALL	Maltese	malt1254	mlt	SMALL	żgħir	zɛjr	z ɛ j r	zɛjr	SMALL			Wiktionary
+Maltese_SMALL	Maltese	malt1254	mlt	SMALL	ċkejken	ʧkɛjkɛn	ʧ k ɛ j k ɛ n	ˈt͡ʃkɛj.kɛn	SMALL			Wiktionary
 ModernStandardArabic_SHORT	Modern Standard Arabic	stan1318	arb	SHORT	qɑṣīr	qɑsˤiːr	q ɑ sˤ iː r	qɑṣīr	SHORT			Wiktionary
 NajdiArabic_SHORT	Najdi Arabic	najd1235	ars	SHORT	gəṣīr	ɡəsˤiːr	ɡ ə sˤ iː r	gəṣīr	SHORT			Wiktionary
 GulfArabic_SHORT	Gulf Arabic	gulf1241	afb	SHORT	gaṣīr	ɡasˤiːr	ɡ a sˤ iː r	gaṣīr	SHORT			Wiktionary
@@ -699,7 +699,7 @@ ChadianArabic_SHORT	Chadian Arabic	chad1249	shu	SHORT	gisɑyyɑr	ɡisɑjjɑr	ɡ 
 TunisianArabic_SHORT	Tunisian Arabic	tuni1259	aeb	SHORT	qṣīr	qsˤiːr	q sˤ iː r	qṣīr	SHORT			Wiktionary
 MoroccanArabic_SHORT	Moroccan Arabic	moro1292	ary	SHORT	qṣiṛ	qsˤirˤ	q sˤ i rˤ	qṣiṛ	SHORT			Wiktionary
 HassaniyaArabic_SHORT	Hassaniya Arabic	hass1238	mey	SHORT	gṣayyǝr	ɡsˤajjər	ɡ sˤ a j j ə r	gṣayyǝr	SHORT			Wiktionary
-Maltese_SHORT	Maltese	malt1254	mlt	SHORT	ʔaˈsiːr	ʔɐsiːr	ʔ ɐ s iː r	ʔaˈsiːr	SHORT			Wiktionary
+Maltese_SHORT	Maltese	malt1254	mlt	SHORT	qasir	ʔɐsiːr	ʔ ɐ s iː r	ʔaˈsiːr	SHORT			Wiktionary
 ModernStandardArabic_NARROW	Modern Standard Arabic	stan1318	arb	NARROW	ḍɑyyiq	dˤɑjjiq	dˤ ɑ j j i q	ḍɑyyiq	NARROW			Wiktionary
 NajdiArabic_NARROW	Najdi Arabic	najd1235	ars	NARROW	ð̣əyyid͡z	ðˤəjjid͡z	ðˤ ə j j i d͡z	ð̣əyyid͡z	NARROW			Wiktionary
 NajdiArabic_NARROW	Najdi Arabic	najd1235	ars	NARROW	ð̣əyyig	ðˤəjjiɡ	ðˤ ə j j i ɡ	ð̣əyyig	NARROW			Wiktionary
@@ -720,7 +720,7 @@ ChadianArabic_NARROW	Chadian Arabic	chad1249	shu	NARROW	dayyig	dajjiɡ	d a j j i
 TunisianArabic_NARROW	Tunisian Arabic	tuni1259	aeb	NARROW	ð̣iyyiq	ðˤijjiq	ðˤ i j j i q	ð̣iyyiq	NARROW			Wiktionary
 MoroccanArabic_NARROW	Moroccan Arabic	moro1292	ary	NARROW	ḍiyyəq	dˤijjəq	dˤ i j j ə q	ḍiyyəq	NARROW			Wiktionary
 HassaniyaArabic_NARROW	Hassaniya Arabic	hass1238	mey	NARROW	ð̣eyyig	ðˤɛjjiɡ	ðˤ ɛ j j i ɡ	ð̣eyyig	NARROW			Wiktionary
-Maltese_NARROW	Maltese	malt1254	mlt	NARROW	ˈdɛj.jaʔ	dɛjjɐʔ	d ɛ j j ɐ ʔ	ˈdɛj.jaʔ	NARROW			Wiktionary
+Maltese_NARROW	Maltese	malt1254	mlt	NARROW	dejjaq	dɛjjɐʔ	d ɛ j j ɐ ʔ	ˈdɛj.jaʔ	NARROW			Wiktionary
 ModernStandardArabic_THIN	Modern Standard Arabic	stan1318	arb	THIN	rɑqīq	rɑqiːq	r ɑ q iː q	rɑqīq	THIN			Wiktionary
 ModernStandardArabic_THIN	Modern Standard Arabic	stan1318	arb	THIN	rafīʕ	rafiːʕ	r a f iː ʕ	rafīʕ	THIN			Wiktionary
 ModernStandardArabic_THIN	Modern Standard Arabic	stan1318	arb	THIN	naħīf	naħiːf	n a ħ iː f	naħīf	THIN			Wiktionary
@@ -751,7 +751,7 @@ MoroccanArabic_THIN	Moroccan Arabic	moro1292	ary	THIN	nħif	nħif	n ħ i f	nħif
 MoroccanArabic_THIN	Moroccan Arabic	moro1292	ary	THIN	rqiq	rqiq	r q i q	rqiq	THIN			Wiktionary
 HassaniyaArabic_THIN	Hassaniya Arabic	hass1238	mey	THIN	rgīg	rɡiːɡ	r ɡ iː ɡ	rgīg	THIN			Wiktionary
 HassaniyaArabic_THIN	Hassaniya Arabic	hass1238	mey	THIN	rgeyyǝg	rɡɛjjəɡ	r ɡ ɛ j j ə ɡ	rgeyyǝg	THIN			Wiktionary
-Maltese_THIN	Maltese	malt1254	mlt	THIN	rˈʔɪːʔ	rʔɪːʔ	r ʔ ɪː ʔ	rˈʔɪːʔ	THIN			Wiktionary
+Maltese_THIN	Maltese	malt1254	mlt	THIN	rqiq	rʔɪːʔ	r ʔ ɪː ʔ	rˈʔɪːʔ	THIN			Wiktionary
 ModernStandardArabic_WOMAN	Modern Standard Arabic	stan1318	arb	WOMAN	imrɑʔa	imrɑʔa	i m r ɑ ʔ a	imrɑʔa	WOMAN			Wiktionary
 ModernStandardArabic_WOMAN	Modern Standard Arabic	stan1318	arb	WOMAN	al-mɑrʔa	almɑrʔa	a l m ɑ r ʔ a	al-mɑrʔa	WOMAN			Wiktionary
 NajdiArabic_WOMAN	Najdi Arabic	najd1235	ars	WOMAN	ħŭrma	ħɔrma	ħ ɔ r m a	ħŭrma	WOMAN			Wiktionary
@@ -796,7 +796,7 @@ TunisianArabic_MAN	Tunisian Arabic	tuni1259	aeb	MAN	rāžil	raːʒil	r aː ʒ i 
 MoroccanArabic_MAN	Moroccan Arabic	moro1292	ary	MAN	ṛāžəl	rˤaːʒəl	rˤ aː ʒ ə l	ṛāžəl	MAN			Wiktionary
 HassaniyaArabic_MAN	Hassaniya Arabic	hass1238	mey	MAN	aragāž	araɡaːʒ	a r a ɡ aː ʒ	aragāž	MAN			Wiktionary
 HassaniyaArabic_MAN	Hassaniya Arabic	hass1238	mey	MAN	rɑ̄žəl	rɑːʒəl	r ɑː ʒ ə l	rɑ̄žəl	MAN			Wiktionary
-Maltese_MAN	Maltese	malt1254	mlt	MAN	ˈraː.d͡ʒɛl	rɐːʤɛl	r ɐː ʤ ɛ l	ˈraː.d͡ʒɛl	MAN			Wiktionary
+Maltese_MAN	Maltese	malt1254	mlt	MAN	raġel	rɐːʤɛl	r ɐː ʤ ɛ l	ˈraː.d͡ʒɛl	MAN			Wiktionary
 ModernStandardArabic_PERSON	Modern Standard Arabic	stan1318	arb	PERSON	ʔinsān	ʔinsaːn	ʔ i n s aː n	ʔinsān	PERSON			Wiktionary
 ModernStandardArabic_PERSON	Modern Standard Arabic	stan1318	arb	PERSON	nafɑr	nafɑr	n a f ɑ r	nafɑr	PERSON			Wiktionary
 ModernStandardArabic_PERSON	Modern Standard Arabic	stan1318	arb	PERSON	šɑxṣ	ʃɑxsˤ	ʃ ɑ x sˤ	šɑxṣ	PERSON			Wiktionary
@@ -845,8 +845,8 @@ MoroccanArabic_PERSON	Moroccan Arabic	moro1292	ary	PERSON	rqaba	rqaba	r q a b a	
 MoroccanArabic_PERSON	Moroccan Arabic	moro1292	ary	PERSON	bɑšɑr	bɑʃɑr	b ɑ ʃ ɑ r	bɑšɑr	PERSON			Wiktionary
 HassaniyaArabic_PERSON	Hassaniya Arabic	hass1238	mey	PERSON	aragāž	araɡaːʒ	a r a ɡ aː ʒ	aragāž	PERSON			Wiktionary
 HassaniyaArabic_PERSON	Hassaniya Arabic	hass1238	mey	PERSON	mnādǝm	mnaːdəm	m n aː d ə m	mnādǝm	PERSON			Wiktionary
-Maltese_PERSON	Maltese	malt1254	mlt	PERSON	ˈbnɪːdɛm	bnɪːdɛm	b n ɪː d ɛ m	ˈbnɪːdɛm	PERSON			Wiktionary
-Maltese_PERSON	Maltese	malt1254	mlt	PERSON	uˈmaːn	ʊmɐːn	ʊ m ɐː n	uˈmaːn	PERSON			Wiktionary
+Maltese_PERSON	Maltese	malt1254	mlt	PERSON	bniedem	bnɪːdɛm	b n ɪː d ɛ m	ˈbnɪːdɛm	PERSON			Wiktionary
+Maltese_PERSON	Maltese	malt1254	mlt	PERSON	uman	ʊmɐːn	ʊ m ɐː n	uˈmaːn	PERSON			Wiktionary
 ModernStandardArabic_CHILD (YOUNG HUMAN)	Modern Standard Arabic	stan1318	arb	CHILD (YOUNG HUMAN)	ṭifl	tˤifl	tˤ i f l	ṭifl	CHILD (YOUNG HUMAN)			Wiktionary
 ModernStandardArabic_CHILD (YOUNG HUMAN)	Modern Standard Arabic	stan1318	arb	CHILD (YOUNG HUMAN)	walad	walad	w a l a d	walad	CHILD (YOUNG HUMAN)			Wiktionary
 NajdiArabic_CHILD (YOUNG HUMAN)	Najdi Arabic	najd1235	ars	CHILD (YOUNG HUMAN)	walad	walad	w a l a d	walad	CHILD (YOUNG HUMAN)			Wiktionary
@@ -875,7 +875,7 @@ TunisianArabic_CHILD (YOUNG HUMAN)	Tunisian Arabic	tuni1259	aeb	CHILD (YOUNG HUM
 MoroccanArabic_CHILD (YOUNG HUMAN)	Moroccan Arabic	moro1292	ary	CHILD (YOUNG HUMAN)	darri	darri	d a r r i	darri	CHILD (YOUNG HUMAN)			Wiktionary
 HassaniyaArabic_CHILD (YOUNG HUMAN)	Hassaniya Arabic	hass1238	mey	CHILD (YOUNG HUMAN)	īššīr	iːʃʃiːr	iː ʃ ʃ iː r	īššīr	CHILD (YOUNG HUMAN)			Wiktionary
 HassaniyaArabic_CHILD (YOUNG HUMAN)	Hassaniya Arabic	hass1238	mey	CHILD (YOUNG HUMAN)	ṭfeyl	tˤfɛjl	tˤ f ɛ j l	ṭfeyl	CHILD (YOUNG HUMAN)			Wiktionary
-Maltese_CHILD (YOUNG HUMAN)	Maltese	malt1254	mlt	CHILD (YOUNG HUMAN)	ˈtɪ.fɛl	tɪfɛl	t ɪ f ɛ l	ˈtɪ.fɛl	CHILD (YOUNG HUMAN)			Wiktionary
+Maltese_CHILD (YOUNG HUMAN)	Maltese	malt1254	mlt	CHILD (YOUNG HUMAN)	tifel	tɪfɛl	t ɪ f ɛ l	ˈtɪ.fɛl	CHILD (YOUNG HUMAN)			Wiktionary
 ModernStandardArabic_WIFE	Modern Standard Arabic	stan1318	arb	WIFE	zawja	zawʤa	z a w ʤ a	zawja	WIFE			Wiktionary
 ModernStandardArabic_WIFE	Modern Standard Arabic	stan1318	arb	WIFE	imrɑʔa	imrɑʔa	i m r ɑ ʔ a	imrɑʔa	WIFE			Wiktionary
 ModernStandardArabic_WIFE	Modern Standard Arabic	stan1318	arb	WIFE	ħurma	ħurma	ħ u r m a	ħurma	WIFE			Wiktionary
@@ -936,8 +936,8 @@ TunisianArabic_HUSBAND	Tunisian Arabic	tuni1259	aeb	HUSBAND	rāžil	raːʒil	r a
 MoroccanArabic_HUSBAND	Moroccan Arabic	moro1292	ary	HUSBAND	ṛɑžəl	rˤɑʒəl	rˤ ɑ ʒ ə l	ṛɑžəl	HUSBAND			Wiktionary
 HassaniyaArabic_HUSBAND	Hassaniya Arabic	hass1238	mey	HUSBAND	mūlā l-xayma	muːlaː lxajma	m uː l aː   l x a j m a	mūlā l-xayma	HUSBAND			Wiktionary
 HassaniyaArabic_HUSBAND	Hassaniya Arabic	hass1238	mey	HUSBAND	ṛāžǝl-	rˤaːʒəl	rˤ aː ʒ ə l	ṛāžǝl-	HUSBAND			Wiktionary
-Maltese_HUSBAND	Maltese	malt1254	mlt	HUSBAND	zɛwt͡ʃ	zɛwʧ	z ɛ w ʧ	zɛwt͡ʃ	HUSBAND			Wiktionary
-Maltese_HUSBAND	Maltese	malt1254	mlt	HUSBAND	ˈraː.d͡ʒɛl	rɐːʤɛl	r ɐː ʤ ɛ l	ˈraː.d͡ʒɛl	HUSBAND			Wiktionary
+Maltese_HUSBAND	Maltese	malt1254	mlt	HUSBAND	żewġ	zɛwʧ	z ɛ w ʧ	zɛwt͡ʃ	HUSBAND			Wiktionary
+Maltese_HUSBAND	Maltese	malt1254	mlt	HUSBAND	raġel	rɐːʤɛl	r ɐː ʤ ɛ l	ˈraː.d͡ʒɛl	HUSBAND			Wiktionary
 ModernStandardArabic_MOTHER	Modern Standard Arabic	stan1318	arb	MOTHER	ʔumm	ʔumm	ʔ u m m	ʔumm	MOTHER			Wiktionary
 NajdiArabic_MOTHER	Najdi Arabic	najd1235	ars	MOTHER	umm	umm	u m m	umm	MOTHER			Wiktionary
 GulfArabic_MOTHER	Gulf Arabic	gulf1241	afb	MOTHER	ʔuṃṃ	ʔumˤmˤ	ʔ u mˤ mˤ	ʔuṃṃ	MOTHER			Wiktionary
@@ -957,7 +957,7 @@ MoroccanArabic_MOTHER	Moroccan Arabic	moro1292	ary	MOTHER	ṃṃʷ-	mˤmˤʷ	mˤ
 MoroccanArabic_MOTHER	Moroccan Arabic	moro1292	ary	MOTHER	umm	umm	u m m	umm	MOTHER			Wiktionary
 HassaniyaArabic_MOTHER	Hassaniya Arabic	hass1238	mey	MOTHER	uṃṃ	umˤmˤ	u mˤ mˤ	uṃṃ	MOTHER			Wiktionary
 HassaniyaArabic_MOTHER	Hassaniya Arabic	hass1238	mey	MOTHER	wālda	waːlda	w aː l d a	wālda	MOTHER			Wiktionary
-Maltese_MOTHER	Maltese	malt1254	mlt	MOTHER	ɔmː	ɔmː	ɔ mː	ɔmː	MOTHER			Wiktionary
+Maltese_MOTHER	Maltese	malt1254	mlt	MOTHER	omm	ɔmː	ɔ mː	ɔmː	MOTHER			Wiktionary
 ModernStandardArabic_FATHER	Modern Standard Arabic	stan1318	arb	FATHER	ʔabb	ʔabb	ʔ a b b	ʔabb	FATHER			Wiktionary
 ModernStandardArabic_FATHER	Modern Standard Arabic	stan1318	arb	FATHER	ʔabā-	ʔabaː	ʔ a b aː	ʔabā-	FATHER			Wiktionary
 NajdiArabic_FATHER	Najdi Arabic	najd1235	ars	FATHER	ʔubō-	ʔubɔː	ʔ u b ɔː	ʔubō-	FATHER			Wiktionary
@@ -984,7 +984,7 @@ MoroccanArabic_FATHER	Moroccan Arabic	moro1292	ary	FATHER	bu-	bu	b u	bu-	FATHER	
 MoroccanArabic_FATHER	Moroccan Arabic	moro1292	ary	FATHER	ḅḅʷɑ	bˤbˤʷɑ	bˤ bˤʷ ɑ	ḅḅʷɑ	FATHER			Wiktionary
 HassaniyaArabic_FATHER	Hassaniya Arabic	hass1238	mey	FATHER	bu	bu	b u	bu	FATHER			Wiktionary
 HassaniyaArabic_FATHER	Hassaniya Arabic	hass1238	mey	FATHER	wālǝd	waːləd	w aː l ə d	wālǝd	FATHER			Wiktionary
-Maltese_FATHER	Maltese	malt1254	mlt	FATHER	mɪsˈsɪːr	mɪssɪːr	m ɪ s s ɪː r	mɪsˈsɪːr	FATHER			Wiktionary
+Maltese_FATHER	Maltese	malt1254	mlt	FATHER	missier	mɪssɪːr	m ɪ s s ɪː r	mɪsˈsɪːr	FATHER			Wiktionary
 ModernStandardArabic_ANIMAL	Modern Standard Arabic	stan1318	arb	ANIMAL	ħaywān	ħajwaːn	ħ a j w aː n	ħaywān	ANIMAL			Wiktionary
 ModernStandardArabic_ANIMAL	Modern Standard Arabic	stan1318	arb	ANIMAL	dābba	daːbba	d aː b b a	dābba	ANIMAL			Wiktionary
 ModernStandardArabic_ANIMAL	Modern Standard Arabic	stan1318	arb	ANIMAL	bahīma	bahiːma	b a h iː m a	bahīma	ANIMAL			Wiktionary
@@ -1009,8 +1009,8 @@ TunisianArabic_ANIMAL	Tunisian Arabic	tuni1259	aeb	ANIMAL	ħayawān	ħajawaːn	�
 MoroccanArabic_ANIMAL	Moroccan Arabic	moro1292	ary	ANIMAL	ħəywan	ħəjwan	ħ ə j w a n	ħəywan	ANIMAL			Wiktionary
 HassaniyaArabic_ANIMAL	Hassaniya Arabic	hass1238	mey	ANIMAL	ħăywān	ħʌjwaːn	ħ ʌ j w aː n	ħăywān	ANIMAL			Wiktionary
 HassaniyaArabic_ANIMAL	Hassaniya Arabic	hass1238	mey	ANIMAL	baxnūs	baxnuːs	b a x n uː s	baxnūs	ANIMAL			Wiktionary
-Maltese_ANIMAL	Maltese	malt1254	mlt	ANIMAL	an.nɪˈmaːl	ɐnnɪmɐːl	ɐ n n ɪ m ɐː l	an.nɪˈmaːl	ANIMAL			Wiktionary
-Maltese_ANIMAL	Maltese	malt1254	mlt	ANIMAL	ˈbiː.ma	biːmɐ	b iː m ɐ	ˈbiː.ma	ANIMAL			Wiktionary
+Maltese_ANIMAL	Maltese	malt1254	mlt	ANIMAL	annimal	ɐnnɪmɐːl	ɐ n n ɪ m ɐː l	an.nɪˈmaːl	ANIMAL			Wiktionary
+Maltese_ANIMAL	Maltese	malt1254	mlt	ANIMAL	bhima	biːmɐ	b iː m ɐ	ˈbiː.ma	ANIMAL			Wiktionary
 ModernStandardArabic_FISH	Modern Standard Arabic	stan1318	arb	FISH	samaka	samaka	s a m a k a	samaka	FISH			Wiktionary
 ModernStandardArabic_FISH	Modern Standard Arabic	stan1318	arb	FISH	ħūt	ħuːt	ħ uː t	ħūt	FISH			Wiktionary
 ModernStandardArabic_FISH	Modern Standard Arabic	stan1318	arb	FISH	ṣɑyd	sˤɑjd	sˤ ɑ j d	ṣɑyd	FISH			Wiktionary
@@ -1031,7 +1031,7 @@ ChadianArabic_FISH	Chadian Arabic	chad1249	shu	FISH	hūt	huːt	h uː t	hūt	FISH
 TunisianArabic_FISH	Tunisian Arabic	tuni1259	aeb	FISH	ħūta	ħuːta	ħ uː t a	ħūta	FISH			Wiktionary
 MoroccanArabic_FISH	Moroccan Arabic	moro1292	ary	FISH	ħutɑ	ħutɑ	ħ u t ɑ	ħutɑ	FISH			Wiktionary
 HassaniyaArabic_FISH	Hassaniya Arabic	hass1238	mey	FISH	ħūt	ħuːt	ħ uː t	ħūt	FISH			Wiktionary
-Maltese_FISH	Maltese	malt1254	mlt	FISH	ħuːta	ħʊːtɐ	ħ ʊː t ɐ	ħuːta	FISH			Wiktionary
+Maltese_FISH	Maltese	malt1254	mlt	FISH	ħuta	ħʊːtɐ	ħ ʊː t ɐ	ħuːta	FISH			Wiktionary
 ModernStandardArabic_BIRD	Modern Standard Arabic	stan1318	arb	BIRD	ṭɑ̄ʔir	tˤɑːʔir	tˤ ɑː ʔ i r	ṭɑ̄ʔir	BIRD			Wiktionary
 ModernStandardArabic_BIRD	Modern Standard Arabic	stan1318	arb	BIRD	ʕaṣfūrɑ	ʕasˤfuːrɑ	ʕ a sˤ f uː r ɑ	ʕaṣfūrɑ	BIRD			Wiktionary
 NajdiArabic_BIRD	Najdi Arabic	najd1235	ars	BIRD	ʕaṣfūr	ʕasˤfuːr	ʕ a sˤ f uː r	ʕaṣfūr	BIRD			Wiktionary
@@ -1053,7 +1053,7 @@ ChadianArabic_BIRD	Chadian Arabic	chad1249	shu	BIRD	tɑyrɑ̄y	tɑjrɑːj	t ɑ j
 TunisianArabic_BIRD	Tunisian Arabic	tuni1259	aeb	BIRD	ˁaṣfūr	ʕasˤfuːr	ʕ a sˤ f uː r	ˁaṣfūr	BIRD			Wiktionary
 MoroccanArabic_BIRD	Moroccan Arabic	moro1292	ary	BIRD	bəṛṭɑl	bərˤtˤɑl	b ə rˤ tˤ ɑ l	bəṛṭɑl	BIRD			Wiktionary
 HassaniyaArabic_BIRD	Hassaniya Arabic	hass1238	mey	BIRD	ṭăyr	tˤʌjr	tˤ ʌ j r	ṭăyr	BIRD			Wiktionary
-Maltese_BIRD	Maltese	malt1254	mlt	BIRD	asˈfuːr	ɐsfʊːr	ɐ s f ʊː r	asˈfuːr	BIRD			Wiktionary
+Maltese_BIRD	Maltese	malt1254	mlt	BIRD	għasfur	ɐsfʊːr	ɐ s f ʊː r	asˈfuːr	BIRD			Wiktionary
 ModernStandardArabic_DOG	Modern Standard Arabic	stan1318	arb	DOG	kalb	kalb	k a l b	kalb	DOG			Wiktionary
 NajdiArabic_DOG	Najdi Arabic	najd1235	ars	DOG	t͡salb	ʦalb	ʦ a l b	t͡salb	DOG			Wiktionary
 NajdiArabic_DOG	Najdi Arabic	najd1235	ars	DOG	kalb	kalb	k a l b	kalb	DOG			Wiktionary
@@ -1073,7 +1073,7 @@ ChadianArabic_DOG	Chadian Arabic	chad1249	shu	DOG	kelib	kɛlib	k ɛ l i b	kelib	
 TunisianArabic_DOG	Tunisian Arabic	tuni1259	aeb	DOG	kalb	kalb	k a l b	kalb	DOG			Wiktionary
 MoroccanArabic_DOG	Moroccan Arabic	moro1292	ary	DOG	kəlb	kəlb	k ə l b	kəlb	DOG			Wiktionary
 HassaniyaArabic_DOG	Hassaniya Arabic	hass1238	mey	DOG	kălb	kʌlb	k ʌ l b	kălb	DOG			Wiktionary
-Maltese_DOG	Maltese	malt1254	mlt	DOG	kɛlp	kɛlp	k ɛ l p	kɛlp	DOG			Wiktionary
+Maltese_DOG	Maltese	malt1254	mlt	DOG	kelb	kɛlp	k ɛ l p	kɛlp	DOG			Wiktionary
 ModernStandardArabic_LOUSE	Modern Standard Arabic	stan1318	arb	LOUSE	qamla	qamla	q a m l a	qamla	LOUSE			Wiktionary
 NajdiArabic_LOUSE	Najdi Arabic	najd1235	ars	LOUSE	gamlah	ɡamlah	ɡ a m l a h	gamlah	LOUSE			Wiktionary
 GulfArabic_LOUSE	Gulf Arabic	gulf1241	afb	LOUSE	gamla	ɡamla	ɡ a m l a	gamla	LOUSE			Wiktionary
@@ -1091,7 +1091,7 @@ ChadianArabic_LOUSE	Chadian Arabic	chad1249	shu	LOUSE	gemel	ɡɛmɛl	ɡ ɛ m ɛ 
 TunisianArabic_LOUSE	Tunisian Arabic	tuni1259	aeb	LOUSE	qamla	qamla	q a m l a	qamla	LOUSE			Wiktionary
 MoroccanArabic_LOUSE	Moroccan Arabic	moro1292	ary	LOUSE	qəmlɑ	qəmlɑ	q ə m l ɑ	qəmlɑ	LOUSE			Wiktionary
 HassaniyaArabic_LOUSE	Hassaniya Arabic	hass1238	mey	LOUSE	dămla	dʌmla	d ʌ m l a	dămla	LOUSE			Wiktionary
-Maltese_LOUSE	Maltese	malt1254	mlt	LOUSE	ˈʔam.la	ʔɐmlɐ	ʔ ɐ m l ɐ	ˈʔam.la	LOUSE			Wiktionary
+Maltese_LOUSE	Maltese	malt1254	mlt	LOUSE	qamla	ʔɐmlɐ	ʔ ɐ m l ɐ	ˈʔam.la	LOUSE			Wiktionary
 ModernStandardArabic_SNAKE	Modern Standard Arabic	stan1318	arb	SNAKE	ħayya	ħajja	ħ a j j a	ħayya	SNAKE			Wiktionary
 ModernStandardArabic_SNAKE	Modern Standard Arabic	stan1318	arb	SNAKE	θuʕbān	θuʕbaːn	θ u ʕ b aː n	θuʕbān	SNAKE			Wiktionary
 ModernStandardArabic_SNAKE	Modern Standard Arabic	stan1318	arb	SNAKE	ħanaš	ħanaʃ	ħ a n a ʃ	ħanaš	SNAKE			Wiktionary
@@ -1120,8 +1120,8 @@ MoroccanArabic_SNAKE	Moroccan Arabic	moro1292	ary	SNAKE	ħənš	ħənʃ	ħ ə n 
 MoroccanArabic_SNAKE	Moroccan Arabic	moro1292	ary	SNAKE	lfʕa	lfʕa	l f ʕ a	lfʕa	SNAKE			Wiktionary
 HassaniyaArabic_SNAKE	Hassaniya Arabic	hass1238	mey	SNAKE	ħnaš	ħnaʃ	ħ n a ʃ	ħnaš	SNAKE			Wiktionary
 HassaniyaArabic_SNAKE	Hassaniya Arabic	hass1238	mey	SNAKE	ṣăffɑ̄r	sˤʌffɑːr	sˤ ʌ f f ɑː r	ṣăffɑ̄r	SNAKE			Wiktionary
-Maltese_SNAKE	Maltese	malt1254	mlt	SNAKE	sɛrp	sɛrp	s ɛ r p	sɛrp	SNAKE			Wiktionary
-Maltese_SNAKE	Maltese	malt1254	mlt	SNAKE	ˈlɪ.fa	lɪfɐ	l ɪ f ɐ	ˈlɪ.fa	SNAKE			Wiktionary
+Maltese_SNAKE	Maltese	malt1254	mlt	SNAKE	serp	sɛrp	s ɛ r p	sɛrp	SNAKE			Wiktionary
+Maltese_SNAKE	Maltese	malt1254	mlt	SNAKE	lifgħa	lɪfɐ	l ɪ f ɐ	ˈlɪ.fa	SNAKE			Wiktionary
 ModernStandardArabic_WORM	Modern Standard Arabic	stan1318	arb	WORM	dūda	duːda	d uː d a	dūda	WORM			Wiktionary
 NajdiArabic_WORM	Najdi Arabic	najd1235	ars	WORM	dūdah	duːdah	d uː d a h	dūdah	WORM			Wiktionary
 GulfArabic_WORM	Gulf Arabic	gulf1241	afb	WORM	dūd	duːd	d uː d	dūd	WORM			Wiktionary
@@ -1142,8 +1142,8 @@ ChadianArabic_WORM	Chadian Arabic	chad1249	shu	WORM	dūda	duːda	d uː d a	dūda
 TunisianArabic_WORM	Tunisian Arabic	tuni1259	aeb	WORM	dūda	duːda	d uː d a	dūda	WORM			Wiktionary
 MoroccanArabic_WORM	Moroccan Arabic	moro1292	ary	WORM	duda	duda	d u d a	duda	WORM			Wiktionary
 HassaniyaArabic_WORM	Hassaniya Arabic	hass1238	mey	WORM	dūd	duːd	d uː d	dūd	WORM			Wiktionary
-Maltese_WORM	Maltese	malt1254	mlt	WORM	ˈduː.du	dʊːdʊ	d ʊː d ʊ	ˈduː.du	WORM			Wiktionary
-Maltese_WORM	Maltese	malt1254	mlt	WORM	ˈħa.nɛʃ	ħɐnɛʃ	ħ ɐ n ɛ ʃ	ˈħa.nɛʃ	WORM			Wiktionary
+Maltese_WORM	Maltese	malt1254	mlt	WORM	dudu	dʊːdʊ	d ʊː d ʊ	ˈduː.du	WORM			Wiktionary
+Maltese_WORM	Maltese	malt1254	mlt	WORM	ħanex	ħɐnɛʃ	ħ ɐ n ɛ ʃ	ˈħa.nɛʃ	WORM			Wiktionary
 ModernStandardArabic_TREE	Modern Standard Arabic	stan1318	arb	TREE	šajarɑ	ʃaʤarɑ	ʃ a ʤ a r ɑ	šajarɑ	TREE			Wiktionary
 NajdiArabic_TREE	Najdi Arabic	najd1235	ars	TREE	šejarɑ	ʃɛʤarɑ	ʃ ɛ ʤ a r ɑ	šejarɑ	TREE			Wiktionary
 GulfArabic_TREE	Gulf Arabic	gulf1241	afb	TREE	šyɑṛɑ	ʃjɑrˤɑ	ʃ j ɑ rˤ ɑ	šyɑṛɑ	TREE			Wiktionary
@@ -1161,7 +1161,7 @@ TunisianArabic_TREE	Tunisian Arabic	tuni1259	aeb	TREE	šužra	ʃuʒra	ʃ u ʒ r 
 TunisianArabic_TREE	Tunisian Arabic	tuni1259	aeb	TREE	sužra	suʒra	s u ʒ r a	sužra	TREE			Wiktionary
 MoroccanArabic_TREE	Moroccan Arabic	moro1292	ary	TREE	šəžṛa	ʃəʒrˤa	ʃ ə ʒ rˤ a	šəžṛa	TREE			Wiktionary
 HassaniyaArabic_TREE	Hassaniya Arabic	hass1238	mey	TREE	ṣadṛɑ̄ya	sˤadrˤɑːja	sˤ a d rˤ ɑː j a	ṣadṛɑ̄ya	TREE			Wiktionary
-Maltese_TREE	Maltese	malt1254	mlt	TREE	ˈsɪd͡ʒ.ra	sɪʤrɐ	s ɪ ʤ r ɐ	ˈsɪd͡ʒ.ra	TREE			Wiktionary
+Maltese_TREE	Maltese	malt1254	mlt	TREE	siġra	sɪʤrɐ	s ɪ ʤ r ɐ	ˈsɪd͡ʒ.ra	TREE			Wiktionary
 ModernStandardArabic_FOREST	Modern Standard Arabic	stan1318	arb	FOREST	ġāba	ɣaːba	ɣ aː b a	ġāba	FOREST			Wiktionary
 ModernStandardArabic_FOREST	Modern Standard Arabic	stan1318	arb	FOREST	ħirš	ħirʃ	ħ i r ʃ	ħirš	FOREST			Wiktionary
 NajdiArabic_FOREST	Najdi Arabic	najd1235	ars	FOREST	ġɑ̄bɑ	ɣɑːbɑ	ɣ ɑː b ɑ	ġɑ̄bɑ	FOREST			Wiktionary
@@ -1178,8 +1178,8 @@ TunisianArabic_FOREST	Tunisian Arabic	tuni1259	aeb	FOREST	ġāba	ɣaːba	ɣ aː 
 MoroccanArabic_FOREST	Moroccan Arabic	moro1292	ary	FOREST	ġaba	ɣaba	ɣ a b a	ġaba	FOREST			Wiktionary
 HassaniyaArabic_FOREST	Hassaniya Arabic	hass1238	mey	FOREST	ġābe	ɣaːbɛ	ɣ aː b ɛ	ġābe	FOREST			Wiktionary
 HassaniyaArabic_FOREST	Hassaniya Arabic	hass1238	mey	FOREST	ʕŭgda	ʕɔɡda	ʕ ɔ ɡ d a	ʕŭgda	FOREST			Wiktionary
-Maltese_FOREST	Maltese	malt1254	mlt	FOREST	fɔˈrɛsta	fɔrɛstɐ	f ɔ r ɛ s t ɐ	fɔˈrɛsta	FOREST			Wiktionary
-Maltese_FOREST	Maltese	malt1254	mlt	FOREST	ˈmaz.d͡ʒar	mɐzʤɐr	m ɐ z ʤ ɐ r	ˈmaz.d͡ʒar	FOREST			Wiktionary
+Maltese_FOREST	Maltese	malt1254	mlt	FOREST	foresta	fɔrɛstɐ	f ɔ r ɛ s t ɐ	fɔˈrɛsta	FOREST			Wiktionary
+Maltese_FOREST	Maltese	malt1254	mlt	FOREST	masġar	mɐzʤɐr	m ɐ z ʤ ɐ r	ˈmaz.d͡ʒar	FOREST			Wiktionary
 ModernStandardArabic_STICK	Modern Standard Arabic	stan1318	arb	STICK	ʕaṣɑ̄	ʕasˤɑː	ʕ a sˤ ɑː	ʕaṣɑ̄	STICK			Wiktionary
 ModernStandardArabic_STICK	Modern Standard Arabic	stan1318	arb	STICK	ʕūd	ʕuːd	ʕ uː d	ʕūd	STICK			Wiktionary
 ModernStandardArabic_STICK	Modern Standard Arabic	stan1318	arb	STICK	ħaṭɑb	ħatˤɑb	ħ a tˤ ɑ b	ħaṭɑb	STICK			Wiktionary
@@ -1209,9 +1209,9 @@ TunisianArabic_STICK	Tunisian Arabic	tuni1259	aeb	STICK	ʕṣā	ʕsˤaː	ʕ sˤ 
 MoroccanArabic_STICK	Moroccan Arabic	moro1292	ary	STICK	qṭib	qtˤib	q tˤ i b	qṭib	STICK			Wiktionary
 MoroccanArabic_STICK	Moroccan Arabic	moro1292	ary	STICK	ʕṣɑ	ʕsˤɑ	ʕ sˤ ɑ	ʕṣɑ	STICK			Wiktionary
 HassaniyaArabic_STICK	Hassaniya Arabic	hass1238	mey	STICK	dəbbūs	dəbbuːs	d ə b b uː s	dəbbūs	STICK			Wiktionary
-Maltese_STICK	Maltese	malt1254	mlt	STICK	basˈtuːn	bɐstʊːn	b ɐ s t ʊː n	basˈtuːn	STICK			Wiktionary
-Maltese_STICK	Maltese	malt1254	mlt	STICK	asˈluːt͡ʃ	ɐslʊːʧ	ɐ s l ʊː ʧ	asˈluːt͡ʃ	STICK			Wiktionary
-Maltese_STICK	Maltese	malt1254	mlt	STICK	ˈħa.tar	ħɐtɐr	ħ ɐ t ɐ r	ˈħa.tar	STICK			Wiktionary
+Maltese_STICK	Maltese	malt1254	mlt	STICK	bastun	bɐstʊːn	b ɐ s t ʊː n	basˈtuːn	STICK			Wiktionary
+Maltese_STICK	Maltese	malt1254	mlt	STICK	għasluġ	ɐslʊːʧ	ɐ s l ʊː ʧ	asˈluːt͡ʃ	STICK			Wiktionary
+Maltese_STICK	Maltese	malt1254	mlt	STICK	ħatar	ħɐtɐr	ħ ɐ t ɐ r	ˈħa.tar	STICK			Wiktionary
 ModernStandardArabic_FRUIT	Modern Standard Arabic	stan1318	arb	FRUIT	fākiha	faːkiha	f aː k i h a	fākiha	FRUIT			Wiktionary
 ModernStandardArabic_FRUIT	Modern Standard Arabic	stan1318	arb	FRUIT	fawākih	fawaːkih	f a w aː k i h	fawākih	FRUIT			Wiktionary
 ModernStandardArabic_FRUIT	Modern Standard Arabic	stan1318	arb	FRUIT	θamarɑ	θamarɑ	θ a m a r ɑ	θamarɑ	FRUIT			Wiktionary
@@ -1237,7 +1237,7 @@ MoroccanArabic_FRUIT	Moroccan Arabic	moro1292	ary	FRUIT	ġəllɑ	ɣəllɑ	ɣ ə 
 MoroccanArabic_FRUIT	Moroccan Arabic	moro1292	ary	FRUIT	fakyɑ	fakjɑ	f a k j ɑ	fakyɑ	FRUIT			Wiktionary
 HassaniyaArabic_FRUIT	Hassaniya Arabic	hass1238	mey	FRUIT	ləħdaž	ləħdaʒ	l ə ħ d a ʒ	ləħdaž	FRUIT			Wiktionary
 HassaniyaArabic_FRUIT	Hassaniya Arabic	hass1238	mey	FRUIT	θ̬ămra	θ̬̬ʌmra	θ̬̬ ʌ m r a	θ̬ămra	FRUIT			Wiktionary
-Maltese_FRUIT	Maltese	malt1254	mlt	FRUIT	frɔt	frɔt	f r ɔ t	frɔt	FRUIT			Wiktionary
+Maltese_FRUIT	Maltese	malt1254	mlt	FRUIT	frott	frɔt	f r ɔ t	frɔt	FRUIT			Wiktionary
 ModernStandardArabic_SEED	Modern Standard Arabic	stan1318	arb	SEED	zarʕ	zarʕ	z a r ʕ	zarʕ	SEED			Wiktionary
 ModernStandardArabic_SEED	Modern Standard Arabic	stan1318	arb	SEED	ħabba	ħabba	ħ a b b a	ħabba	SEED			Wiktionary
 ModernStandardArabic_SEED	Modern Standard Arabic	stan1318	arb	SEED	biðra	biðra	b i ð r a	biðra	SEED			Wiktionary
@@ -1267,7 +1267,7 @@ TunisianArabic_SEED	Tunisian Arabic	tuni1259	aeb	SEED	zurrīʕa	zurriːʕa	z u r
 MoroccanArabic_SEED	Moroccan Arabic	moro1292	ary	SEED	zərriʕa	zərriʕa	z ə r r i ʕ a	zərriʕa	SEED			Wiktionary
 MoroccanArabic_SEED	Moroccan Arabic	moro1292	ary	SEED	ʕḍəm	ʕdˤəm	ʕ dˤ ə m	ʕḍəm	SEED			Wiktionary
 HassaniyaArabic_SEED	Hassaniya Arabic	hass1238	mey	SEED	žǝgrāž	ʒəɡraːʒ	ʒ ə ɡ r aː ʒ	žǝgrāž	SEED			Wiktionary
-Maltese_SEED	Maltese	malt1254	mlt	SEED	zɛrˈrɪː.ja	zɛrrɪːjɐ	z ɛ r r ɪː j ɐ	zɛrˈrɪː.ja	SEED			Wiktionary
+Maltese_SEED	Maltese	malt1254	mlt	SEED	żerriegħa	zɛrrɪːjɐ	z ɛ r r ɪː j ɐ	zɛrˈrɪː.ja	SEED			Wiktionary
 ModernStandardArabic_LEAF	Modern Standard Arabic	stan1318	arb	LEAF	waraqɑ	waraqɑ	w a r a q ɑ	waraqɑ	LEAF			Wiktionary
 NajdiArabic_LEAF	Najdi Arabic	najd1235	ars	LEAF	waragah	waraɡah	w a r a ɡ a h	waragah	LEAF			Wiktionary
 GulfArabic_LEAF	Gulf Arabic	gulf1241	afb	LEAF	wruga	wruɡa	w r u ɡ a	wruga	LEAF			Wiktionary
@@ -1286,7 +1286,7 @@ ChadianArabic_LEAF	Chadian Arabic	chad1249	shu	LEAF	warga	warɡa	w a r ɡ a	warg
 TunisianArabic_LEAF	Tunisian Arabic	tuni1259	aeb	LEAF	warqa	warqa	w a r q a	warqa	LEAF			Wiktionary
 MoroccanArabic_LEAF	Moroccan Arabic	moro1292	ary	LEAF	wəṛqɑ	wərˤqɑ	w ə rˤ q ɑ	wəṛqɑ	LEAF			Wiktionary
 HassaniyaArabic_LEAF	Hassaniya Arabic	hass1238	mey	LEAF	waṛga	warˤɡa	w a rˤ ɡ a	waṛga	LEAF			Wiktionary
-Maltese_LEAF	Maltese	malt1254	mlt	LEAF	ˈwɛr.ʔa	wɛrʔɐ	w ɛ r ʔ ɐ	ˈwɛr.ʔa	LEAF			Wiktionary
+Maltese_LEAF	Maltese	malt1254	mlt	LEAF	werqa	wɛrʔɐ	w ɛ r ʔ ɐ	ˈwɛr.ʔa	LEAF			Wiktionary
 ModernStandardArabic_ROOT	Modern Standard Arabic	stan1318	arb	ROOT	jaðr	ʤaðr	ʤ a ð r	jaðr	ROOT			Wiktionary
 ModernStandardArabic_ROOT	Modern Standard Arabic	stan1318	arb	ROOT	ʕirq	ʕirq	ʕ i r q	ʕirq	ROOT			Wiktionary
 NajdiArabic_ROOT	Najdi Arabic	najd1235	ars	ROOT	jaðer	ʤaðɛr	ʤ a ð ɛ r	jaðer	ROOT			Wiktionary
@@ -1307,7 +1307,7 @@ TunisianArabic_ROOT	Tunisian Arabic	tuni1259	aeb	ROOT	ʕirq	ʕirq	ʕ i r q	ʕirq
 MoroccanArabic_ROOT	Moroccan Arabic	moro1292	ary	ROOT	ždər	ʒdər	ʒ d ə r	ždər	ROOT			Wiktionary
 MoroccanArabic_ROOT	Moroccan Arabic	moro1292	ary	ROOT	loħ	lɔħ	l ɔ ħ	loħ	ROOT			Wiktionary
 HassaniyaArabic_ROOT	Hassaniya Arabic	hass1238	mey	ROOT	ʕǐrg	ʕɛrɡ	ʕ ɛ r ɡ	ʕǐrg	ROOT			Wiktionary
-Maltese_ROOT	Maltese	malt1254	mlt	ROOT	ɛːrʔ	ɛːrʔ	ɛː r ʔ	ɛːrʔ	ROOT			Wiktionary
+Maltese_ROOT	Maltese	malt1254	mlt	ROOT	għerq	ɛːrʔ	ɛː r ʔ	ɛːrʔ	ROOT			Wiktionary
 ModernStandardArabic_BARK	Modern Standard Arabic	stan1318	arb	BARK	liħāʔ	liħaːʔ	l i ħ aː ʔ	liħāʔ	BARK			Wiktionary
 ModernStandardArabic_BARK	Modern Standard Arabic	stan1318	arb	BARK	qilf	qilf	q i l f	qilf	BARK			Wiktionary
 NajdiArabic_BARK	Najdi Arabic	najd1235	ars	BARK	jedeʕ	ʤɛdɛʕ	ʤ ɛ d ɛ ʕ	jedeʕ	BARK			Wiktionary
@@ -1326,7 +1326,7 @@ ChadianArabic_BARK	Chadian Arabic	chad1249	shu	BARK	girf	ɡirf	ɡ i r f	girf	BAR
 TunisianArabic_BARK	Tunisian Arabic	tuni1259	aeb	BARK	qišra	qiʃra	q i ʃ r a	qišra	BARK			Wiktionary
 MoroccanArabic_BARK	Moroccan Arabic	moro1292	ary	BARK	qəšṛa	qəʃrˤa	q ə ʃ rˤ a	qəšṛa	BARK			Wiktionary
 HassaniyaArabic_BARK	Hassaniya Arabic	hass1238	mey	BARK	gušra	ɡuʃra	ɡ u ʃ r a	gušra	BARK			Wiktionary
-Maltese_BARK	Maltese	malt1254	mlt	BARK	ˈʔɔʃ.ra	ʔɔʃrɐ	ʔ ɔ ʃ r ɐ	ˈʔɔʃ.ra	BARK			Wiktionary
+Maltese_BARK	Maltese	malt1254	mlt	BARK	qoxra	ʔɔʃrɐ	ʔ ɔ ʃ r ɐ	ˈʔɔʃ.ra	BARK			Wiktionary
 ModernStandardArabic_FLOWER	Modern Standard Arabic	stan1318	arb	FLOWER	zahrɑ	zahrɑ	z a h r ɑ	zahrɑ	FLOWER			Wiktionary
 ModernStandardArabic_FLOWER	Modern Standard Arabic	stan1318	arb	FLOWER	ward	ward	w a r d	ward	FLOWER			Wiktionary
 NajdiArabic_FLOWER	Najdi Arabic	najd1235	ars	FLOWER	zahrah	zahrah	z a h r a h	zahrah	FLOWER			Wiktionary
@@ -1346,7 +1346,7 @@ ChadianArabic_FLOWER	Chadian Arabic	chad1249	shu	FLOWER	nuwār	nuwaːr	n u w aː
 TunisianArabic_FLOWER	Tunisian Arabic	tuni1259	aeb	FLOWER	nawwāra	nawwaːra	n a w w aː r a	nawwāra	FLOWER			Wiktionary
 MoroccanArabic_FLOWER	Moroccan Arabic	moro1292	ary	FLOWER	nuwwɑ́ṛɑ	nuwwɑrˤɑ	n u w w ɑ rˤ ɑ	nuwwɑ́ṛɑ	FLOWER			Wiktionary
 HassaniyaArabic_FLOWER	Hassaniya Arabic	hass1238	mey	FLOWER	nəwwɑ̄r	nəwwɑːr	n ə w w ɑː r	nəwwɑ̄r	FLOWER			Wiktionary
-Maltese_FLOWER	Maltese	malt1254	mlt	FLOWER	ˈfjuːra	fjʊːrɐ	f j ʊː r ɐ	ˈfjuːra	FLOWER			Wiktionary
+Maltese_FLOWER	Maltese	malt1254	mlt	FLOWER	fjura	fjʊːrɐ	f j ʊː r ɐ	ˈfjuːra	FLOWER			Wiktionary
 ModernStandardArabic_GRASS	Modern Standard Arabic	stan1318	arb	GRASS	ʕušb	ʕuʃb	ʕ u ʃ b	ʕušb	GRASS			Wiktionary
 ModernStandardArabic_GRASS	Modern Standard Arabic	stan1318	arb	GRASS	ħašīš	ħaʃiːʃ	ħ a ʃ iː ʃ	ħašīš	GRASS			Wiktionary
 NajdiArabic_GRASS	Najdi Arabic	najd1235	ars	GRASS	ʕešb	ʕɛʃb	ʕ ɛ ʃ b	ʕešb	GRASS			Wiktionary
@@ -1376,7 +1376,7 @@ TunisianArabic_GRASS	Tunisian Arabic	tuni1259	aeb	GRASS	ħšīš	ħʃiːʃ	ħ ʃ
 MoroccanArabic_GRASS	Moroccan Arabic	moro1292	ary	GRASS	rbiʕ	rbiʕ	r b i ʕ	rbiʕ	GRASS			Wiktionary
 HassaniyaArabic_GRASS	Hassaniya Arabic	hass1238	mey	GRASS	rbīʕa	rbiːʕa	r b iː ʕ a	rbīʕa	GRASS			Wiktionary
 HassaniyaArabic_GRASS	Hassaniya Arabic	hass1238	mey	GRASS	ɑlɑmūz	ɑlɑmuːz	ɑ l ɑ m uː z	ɑlɑmūz	GRASS			Wiktionary
-Maltese_GRASS	Maltese	malt1254	mlt	GRASS	ħaˈʃiːʃ	ħɐʃiːʃ	ħ ɐ ʃ iː ʃ	ħaˈʃiːʃ	GRASS			Wiktionary
+Maltese_GRASS	Maltese	malt1254	mlt	GRASS	ħaxix	ħɐʃiːʃ	ħ ɐ ʃ iː ʃ	ħaˈʃiːʃ	GRASS			Wiktionary
 ModernStandardArabic_ROPE	Modern Standard Arabic	stan1318	arb	ROPE	ħabl	ħabl	ħ a b l	ħabl	ROPE			Wiktionary
 NajdiArabic_ROPE	Najdi Arabic	najd1235	ars	ROPE	ħabel	ħabɛl	ħ a b ɛ l	ħabel	ROPE			Wiktionary
 GulfArabic_ROPE	Gulf Arabic	gulf1241	afb	ROPE	ħabel	ħabɛl	ħ a b ɛ l	ħabel	ROPE			Wiktionary
@@ -1396,7 +1396,7 @@ MoroccanArabic_ROPE	Moroccan Arabic	moro1292	ary	ROPE	ṭwɑl	tˤwɑl	tˤ w ɑ l
 MoroccanArabic_ROPE	Moroccan Arabic	moro1292	ary	ROPE	ħbəl	ħbəl	ħ b ə l	ħbəl	ROPE			Wiktionary
 MoroccanArabic_ROPE	Moroccan Arabic	moro1292	ary	ROPE	kurdɑ	kurdɑ	k u r d ɑ	kurdɑ	ROPE			Wiktionary
 HassaniyaArabic_ROPE	Hassaniya Arabic	hass1238	mey	ROPE	ħbăl	ħbʌl	ħ b ʌ l	ħbăl	ROPE			Wiktionary
-Maltese_ROPE	Maltese	malt1254	mlt	ROPE	ˈħabɛl	ħɐbɛl	ħ ɐ b ɛ l	ˈħabɛl	ROPE			Wiktionary
+Maltese_ROPE	Maltese	malt1254	mlt	ROPE	ħabel	ħɐbɛl	ħ ɐ b ɛ l	ˈħabɛl	ROPE			Wiktionary
 ModernStandardArabic_SKIN (HUMAN)	Modern Standard Arabic	stan1318	arb	SKIN (HUMAN)	jild	ʤild	ʤ i l d	jild	SKIN (HUMAN)			Wiktionary
 ModernStandardArabic_SKIN (HUMAN)	Modern Standard Arabic	stan1318	arb	SKIN (HUMAN)	bašarɑ	baʃarɑ	b a ʃ a r ɑ	bašarɑ	SKIN (HUMAN)			Wiktionary
 NajdiArabic_SKIN (HUMAN)	Najdi Arabic	najd1235	ars	SKIN (HUMAN)	jeld	ʤɛld	ʤ ɛ l d	jeld	SKIN (HUMAN)			Wiktionary
@@ -1416,7 +1416,7 @@ ChadianArabic_SKIN (HUMAN)	Chadian Arabic	chad1249	shu	SKIN (HUMAN)	farwa	farwa	
 TunisianArabic_SKIN (HUMAN)	Tunisian Arabic	tuni1259	aeb	SKIN (HUMAN)	žilda	ʒilda	ʒ i l d a	žilda	SKIN (HUMAN)			Wiktionary
 MoroccanArabic_SKIN (HUMAN)	Moroccan Arabic	moro1292	ary	SKIN (HUMAN)	žəld	ʒəld	ʒ ə l d	žəld	SKIN (HUMAN)			Wiktionary
 HassaniyaArabic_SKIN (HUMAN)	Hassaniya Arabic	hass1238	mey	SKIN (HUMAN)	žəll	ʒəll	ʒ ə l l	žəll	SKIN (HUMAN)			Wiktionary
-Maltese_SKIN (HUMAN)	Maltese	malt1254	mlt	SKIN (HUMAN)	ˈdʒɪldɐ	ʤɪldɐ	ʤ ɪ l d ɐ	ˈdʒɪldɐ	SKIN (HUMAN)			Wiktionary
+Maltese_SKIN (HUMAN)	Maltese	malt1254	mlt	SKIN (HUMAN)	ġilda	ʤɪldɐ	ʤ ɪ l d ɐ	ˈdʒɪldɐ	SKIN (HUMAN)			Wiktionary
 ModernStandardArabic_MEAT	Modern Standard Arabic	stan1318	arb	MEAT	laħm	laħm	l a ħ m	laħm	MEAT			Wiktionary
 NajdiArabic_MEAT	Najdi Arabic	najd1235	ars	MEAT	laħam	laħam	l a ħ a m	laħam	MEAT			Wiktionary
 GulfArabic_MEAT	Gulf Arabic	gulf1241	afb	MEAT	laħam	laħam	l a ħ a m	laħam	MEAT			Wiktionary
@@ -1433,7 +1433,7 @@ ChadianArabic_MEAT	Chadian Arabic	chad1249	shu	MEAT	leham	lɛham	l ɛ h a m	leha
 TunisianArabic_MEAT	Tunisian Arabic	tuni1259	aeb	MEAT	lħam	lħam	l ħ a m	lħam	MEAT			Wiktionary
 MoroccanArabic_MEAT	Moroccan Arabic	moro1292	ary	MEAT	lħam	lħam	l ħ a m	lħam	MEAT			Wiktionary
 HassaniyaArabic_MEAT	Hassaniya Arabic	hass1238	mey	MEAT	lħăm	lħʌm	l ħ ʌ m	lħăm	MEAT			Wiktionary
-Maltese_MEAT	Maltese	malt1254	mlt	MEAT	ˈla.ħam	lɐħɐm	l ɐ ħ ɐ m	ˈla.ħam	MEAT			Wiktionary
+Maltese_MEAT	Maltese	malt1254	mlt	MEAT	laħam	lɐħɐm	l ɐ ħ ɐ m	ˈla.ħam	MEAT			Wiktionary
 ModernStandardArabic_BLOOD	Modern Standard Arabic	stan1318	arb	BLOOD	damm	damm	d a m m	damm	BLOOD			Wiktionary
 NajdiArabic_BLOOD	Najdi Arabic	najd1235	ars	BLOOD	damm	damm	d a m m	damm	BLOOD			Wiktionary
 GulfArabic_BLOOD	Gulf Arabic	gulf1241	afb	BLOOD	damm	damm	d a m m	damm	BLOOD			Wiktionary
@@ -1449,7 +1449,7 @@ ChadianArabic_BLOOD	Chadian Arabic	chad1249	shu	BLOOD	damm	damm	d a m m	damm	BLO
 TunisianArabic_BLOOD	Tunisian Arabic	tuni1259	aeb	BLOOD	dam	dam	d a m	dam	BLOOD			Wiktionary
 MoroccanArabic_BLOOD	Moroccan Arabic	moro1292	ary	BLOOD	dam	dam	d a m	dam	BLOOD			Wiktionary
 HassaniyaArabic_BLOOD	Hassaniya Arabic	hass1238	mey	BLOOD	dămm	dʌmm	d ʌ m m	dămm	BLOOD			Wiktionary
-Maltese_BLOOD	Maltese	malt1254	mlt	BLOOD	dɛmm	dɛmm	d ɛ m m	dɛmm	BLOOD			Wiktionary
+Maltese_BLOOD	Maltese	malt1254	mlt	BLOOD	demm	dɛmm	d ɛ m m	dɛmm	BLOOD			Wiktionary
 ModernStandardArabic_BONE	Modern Standard Arabic	stan1318	arb	BONE	ʕɑð̣m	ʕɑðˤm	ʕ ɑ ðˤ m	ʕɑð̣m	BONE			Wiktionary
 NajdiArabic_BONE	Najdi Arabic	najd1235	ars	BONE	ʕeðəm	ʕɛðəm	ʕ ɛ ð ə m	ʕeðəm	BONE			Wiktionary
 GulfArabic_BONE	Gulf Arabic	gulf1241	afb	BONE	ʕɑð̣ṃ	ʕɑðˤmˤ	ʕ ɑ ðˤ mˤ	ʕɑð̣ṃ	BONE			Wiktionary
@@ -1465,7 +1465,7 @@ ChadianArabic_BONE	Chadian Arabic	chad1249	shu	BONE	ʔadem	ʔadɛm	ʔ a d ɛ m	�
 TunisianArabic_BONE	Tunisian Arabic	tuni1259	aeb	BONE	ʕð̣am	ʕðˤam	ʕ ðˤ a m	ʕð̣am	BONE			Wiktionary
 MoroccanArabic_BONE	Moroccan Arabic	moro1292	ary	BONE	ʕḍem	ʕdˤɛm	ʕ dˤ ɛ m	ʕḍem	BONE			Wiktionary
 HassaniyaArabic_BONE	Hassaniya Arabic	hass1238	mey	BONE	ʕð̣ăm	ʕðˤʌm	ʕ ðˤ ʌ m	ʕð̣ăm	BONE			Wiktionary
-Maltese_BONE	Maltese	malt1254	mlt	BONE	ˈaːd.ma	ɐːdmɐ	ɐː d m ɐ	ˈaːd.ma	BONE			Wiktionary
+Maltese_BONE	Maltese	malt1254	mlt	BONE	għadma	ɐːdmɐ	ɐː d m ɐ	ˈaːd.ma	BONE			Wiktionary
 ModernStandardArabic_FAT (ORGANIC SUBSTANCE)	Modern Standard Arabic	stan1318	arb	FAT (ORGANIC SUBSTANCE)	samn	samn	s a m n	samn	FAT (ORGANIC SUBSTANCE)			Wiktionary
 ModernStandardArabic_FAT (ORGANIC SUBSTANCE)	Modern Standard Arabic	stan1318	arb	FAT (ORGANIC SUBSTANCE)	dahn	dahn	d a h n	dahn	FAT (ORGANIC SUBSTANCE)			Wiktionary
 ModernStandardArabic_FAT (ORGANIC SUBSTANCE)	Modern Standard Arabic	stan1318	arb	FAT (ORGANIC SUBSTANCE)	šaħm	ʃaħm	ʃ a ħ m	šaħm	FAT (ORGANIC SUBSTANCE)			Wiktionary
@@ -1493,8 +1493,8 @@ ChadianArabic_FAT (ORGANIC SUBSTANCE)	Chadian Arabic	chad1249	shu	FAT (ORGANIC S
 TunisianArabic_FAT (ORGANIC SUBSTANCE)	Tunisian Arabic	tuni1259	aeb	FAT (ORGANIC SUBSTANCE)	šħam	ʃħam	ʃ ħ a m	šħam	FAT (ORGANIC SUBSTANCE)			Wiktionary
 MoroccanArabic_FAT (ORGANIC SUBSTANCE)	Moroccan Arabic	moro1292	ary	FAT (ORGANIC SUBSTANCE)	šħem	ʃħɛm	ʃ ħ ɛ m	šħem	FAT (ORGANIC SUBSTANCE)			Wiktionary
 HassaniyaArabic_FAT (ORGANIC SUBSTANCE)	Hassaniya Arabic	hass1238	mey	FAT (ORGANIC SUBSTANCE)	šħam	ʃħam	ʃ ħ a m	šħam	FAT (ORGANIC SUBSTANCE)			Wiktionary
-Maltese_FAT (ORGANIC SUBSTANCE)	Maltese	malt1254	mlt	FAT (ORGANIC SUBSTANCE)	ˈʃa.ħam	ʃɐħɐm	ʃ ɐ ħ ɐ m	ˈʃa.ħam	FAT (ORGANIC SUBSTANCE)			Wiktionary
-Maltese_FAT (ORGANIC SUBSTANCE)	Maltese	malt1254	mlt	FAT (ORGANIC SUBSTANCE)	ˈsɪm.na	sɪmnɐ	s ɪ m n ɐ	ˈsɪm.na	FAT (ORGANIC SUBSTANCE)			Wiktionary
+Maltese_FAT (ORGANIC SUBSTANCE)	Maltese	malt1254	mlt	FAT (ORGANIC SUBSTANCE)	xaħam	ʃɐħɐm	ʃ ɐ ħ ɐ m	ˈʃa.ħam	FAT (ORGANIC SUBSTANCE)			Wiktionary
+Maltese_FAT (ORGANIC SUBSTANCE)	Maltese	malt1254	mlt	FAT (ORGANIC SUBSTANCE)	simna	sɪmnɐ	s ɪ m n ɐ	ˈsɪm.na	FAT (ORGANIC SUBSTANCE)			Wiktionary
 ModernStandardArabic_EGG	Modern Standard Arabic	stan1318	arb	EGG	bayḍɑ	bajdˤɑ	b a j dˤ ɑ	bayḍɑ	EGG			Wiktionary
 NajdiArabic_EGG	Najdi Arabic	najd1235	ars	EGG	bíeð̣ah	bɪe̯ðˤah	b ɪ e̯ ðˤ a h	bíeð̣ah	EGG			Wiktionary
 GulfArabic_EGG	Gulf Arabic	gulf1241	afb	EGG	bēð̣a	bɛːðˤa	b ɛː ðˤ a	bēð̣a	EGG			Wiktionary
@@ -1510,7 +1510,7 @@ ChadianArabic_EGG	Chadian Arabic	chad1249	shu	EGG	bēda	bɛːda	b ɛː d a	bēda
 TunisianArabic_EGG	Tunisian Arabic	tuni1259	aeb	EGG	ʕað̣ma	ʕaðˤma	ʕ a ðˤ m a	ʕað̣ma	EGG			Wiktionary
 MoroccanArabic_EGG	Moroccan Arabic	moro1292	ary	EGG	biḍɑ	bidˤɑ	b i dˤ ɑ	biḍɑ	EGG			Wiktionary
 HassaniyaArabic_EGG	Hassaniya Arabic	hass1238	mey	EGG	bayð̣ɑ	bajðˤɑ	b a j ðˤ ɑ	bayð̣ɑ	EGG			Wiktionary
-Maltese_EGG	Maltese	malt1254	mlt	EGG	ˈbaj.da	bɐjdɐ	b ɐ j d ɐ	ˈbaj.da	EGG			Wiktionary
+Maltese_EGG	Maltese	malt1254	mlt	EGG	bajda	bɐjdɐ	b ɐ j d ɐ	ˈbaj.da	EGG			Wiktionary
 ModernStandardArabic_HORN (ANATOMY)	Modern Standard Arabic	stan1318	arb	HORN (ANATOMY)	qɑrn	qɑrn	q ɑ r n	qɑrn	HORN (ANATOMY)			Wiktionary
 NajdiArabic_HORN (ANATOMY)	Najdi Arabic	najd1235	ars	HORN (ANATOMY)	garn	ɡarn	ɡ a r n	garn	HORN (ANATOMY)			Wiktionary
 NajdiArabic_HORN (ANATOMY)	Najdi Arabic	najd1235	ars	HORN (ANATOMY)	d͡zarn	d͡zarn	d͡z a r n	d͡zarn	HORN (ANATOMY)			Wiktionary
@@ -1526,7 +1526,7 @@ ChadianArabic_HORN (ANATOMY)	Chadian Arabic	chad1249	shu	HORN (ANATOMY)	gurn	ɡu
 TunisianArabic_HORN (ANATOMY)	Tunisian Arabic	tuni1259	aeb	HORN (ANATOMY)	garn	ɡarn	ɡ a r n	garn	HORN (ANATOMY)			Wiktionary
 MoroccanArabic_HORN (ANATOMY)	Moroccan Arabic	moro1292	ary	HORN (ANATOMY)	qərn	qərn	q ə r n	qərn	HORN (ANATOMY)			Wiktionary
 HassaniyaArabic_HORN (ANATOMY)	Hassaniya Arabic	hass1238	mey	HORN (ANATOMY)	găṛn	ɡʌrˤn	ɡ ʌ rˤ n	găṛn	HORN (ANATOMY)			Wiktionary
-Maltese_HORN (ANATOMY)	Maltese	malt1254	mlt	HORN (ANATOMY)	ʔarn	ʔɐrn	ʔ ɐ r n	ʔarn	HORN (ANATOMY)			Wiktionary
+Maltese_HORN (ANATOMY)	Maltese	malt1254	mlt	HORN (ANATOMY)	qarn	ʔɐrn	ʔ ɐ r n	ʔarn	HORN (ANATOMY)			Wiktionary
 ModernStandardArabic_TAIL	Modern Standard Arabic	stan1318	arb	TAIL	ðanab	ðanab	ð a n a b	ðanab	TAIL			Wiktionary
 ModernStandardArabic_TAIL	Modern Standard Arabic	stan1318	arb	TAIL	ðayl	ðajl	ð a j l	ðayl	TAIL			Wiktionary
 NajdiArabic_TAIL	Najdi Arabic	najd1235	ars	TAIL	ðanab	ðanab	ð a n a b	ðanab	TAIL			Wiktionary
@@ -1547,7 +1547,7 @@ MoroccanArabic_TAIL	Moroccan Arabic	moro1292	ary	TAIL	zɑnṭiṭ	zɑntˤitˤ	z 
 HassaniyaArabic_TAIL	Hassaniya Arabic	hass1238	mey	TAIL	sbīb	sbiːb	s b iː b	sbīb	TAIL			Wiktionary
 HassaniyaArabic_TAIL	Hassaniya Arabic	hass1238	mey	TAIL	nəwwāša	nəwwaːʃa	n ə w w aː ʃ a	nəwwāša	TAIL			Wiktionary
 HassaniyaArabic_TAIL	Hassaniya Arabic	hass1238	mey	TAIL	āgilāl	aːɡilaːl	aː ɡ i l aː l	āgilāl	TAIL			Wiktionary
-Maltese_TAIL	Maltese	malt1254	mlt	TAIL	ˈdɛmp	dɛmp	d ɛ m p	ˈdɛmp	TAIL			Wiktionary
+Maltese_TAIL	Maltese	malt1254	mlt	TAIL	denb	dɛmp	d ɛ m p	ˈdɛmp	TAIL			Wiktionary
 ModernStandardArabic_FEATHER	Modern Standard Arabic	stan1318	arb	FEATHER	rīša	riːʃa	r iː ʃ a	rīša	FEATHER			Wiktionary
 NajdiArabic_FEATHER	Najdi Arabic	najd1235	ars	FEATHER	rīšah	riːʃah	r iː ʃ a h	rīšah	FEATHER			Wiktionary
 GulfArabic_FEATHER	Gulf Arabic	gulf1241	afb	FEATHER	rīša	riːʃa	r iː ʃ a	rīša	FEATHER			Wiktionary
@@ -1563,7 +1563,7 @@ ChadianArabic_FEATHER	Chadian Arabic	chad1249	shu	FEATHER	sūf	suːf	s uː f	sū
 TunisianArabic_FEATHER	Tunisian Arabic	tuni1259	aeb	FEATHER	rīša	riːʃa	r iː ʃ a	rīša	FEATHER			Wiktionary
 MoroccanArabic_FEATHER	Moroccan Arabic	moro1292	ary	FEATHER	riša	riʃa	r i ʃ a	riša	FEATHER			Wiktionary
 HassaniyaArabic_FEATHER	Hassaniya Arabic	hass1238	mey	FEATHER	rīša	riːʃa	r iː ʃ a	rīša	FEATHER			Wiktionary
-Maltese_FEATHER	Maltese	malt1254	mlt	FEATHER	ˈriː.ʃa	riːʃɐ	r iː ʃ ɐ	ˈriː.ʃa	FEATHER			Wiktionary
+Maltese_FEATHER	Maltese	malt1254	mlt	FEATHER	rixa	riːʃɐ	r iː ʃ ɐ	ˈriː.ʃa	FEATHER			Wiktionary
 ModernStandardArabic_HAIR	Modern Standard Arabic	stan1318	arb	HAIR	šaʕr	ʃaʕr	ʃ a ʕ r	šaʕr	HAIR			Wiktionary
 NajdiArabic_HAIR	Najdi Arabic	najd1235	ars	HAIR	šaʕar	ʃaʕar	ʃ a ʕ a r	šaʕar	HAIR			Wiktionary
 GulfArabic_HAIR	Gulf Arabic	gulf1241	afb	HAIR	šaʕar	ʃaʕar	ʃ a ʕ a r	šaʕar	HAIR			Wiktionary
@@ -1583,7 +1583,7 @@ MoroccanArabic_HAIR	Moroccan Arabic	moro1292	ary	HAIR	šəʕrɑ	ʃəʕrɑ	ʃ ə 
 HassaniyaArabic_HAIR	Hassaniya Arabic	hass1238	mey	HAIR	zġab	zɣab	z ɣ a b	zġab	HAIR			Wiktionary
 HassaniyaArabic_HAIR	Hassaniya Arabic	hass1238	mey	HAIR	zqab	zqab	z q a b	zqab	HAIR			Wiktionary
 HassaniyaArabic_HAIR	Hassaniya Arabic	hass1238	mey	HAIR	šăʕra	ʃʌʕra	ʃ ʌ ʕ r a	šăʕra	HAIR			Wiktionary
-Maltese_HAIR	Maltese	malt1254	mlt	HAIR	ʃaːr	ʃɐːr	ʃ ɐː r	ʃaːr	HAIR			Wiktionary
+Maltese_HAIR	Maltese	malt1254	mlt	HAIR	xagħar	ʃɐːr	ʃ ɐː r	ʃaːr	HAIR			Wiktionary
 ModernStandardArabic_HEAD	Modern Standard Arabic	stan1318	arb	HEAD	rɑʔs	rɑʔs	r ɑ ʔ s	rɑʔs	HEAD			Wiktionary
 NajdiArabic_HEAD	Najdi Arabic	najd1235	ars	HEAD	ṛɑ̄s	rˤɑːs	rˤ ɑː s	ṛɑ̄s	HEAD			Wiktionary
 GulfArabic_HEAD	Gulf Arabic	gulf1241	afb	HEAD	ṛɑ̄s	rˤɑːs	rˤ ɑː s	ṛɑ̄s	HEAD			Wiktionary
@@ -1604,7 +1604,7 @@ TunisianArabic_HEAD	Tunisian Arabic	tuni1259	aeb	HEAD	rās	raːs	r aː s	rās	HE
 MoroccanArabic_HEAD	Moroccan Arabic	moro1292	ary	HEAD	rɑs	rɑs	r ɑ s	rɑs	HEAD			Wiktionary
 HassaniyaArabic_HEAD	Hassaniya Arabic	hass1238	mey	HEAD	ṛɑ̄ṣ	rˤɑːsˤ	rˤ ɑː sˤ	ṛɑ̄ṣ	HEAD			Wiktionary
 HassaniyaArabic_HEAD	Hassaniya Arabic	hass1238	mey	HEAD	ṛɑ̄s	rˤɑːs	rˤ ɑː s	ṛɑ̄s	HEAD			Wiktionary
-Maltese_HEAD	Maltese	malt1254	mlt	HEAD	raːs	rɐːs	r ɐː s	raːs	HEAD			Wiktionary
+Maltese_HEAD	Maltese	malt1254	mlt	HEAD	ras	rɐːs	r ɐː s	raːs	HEAD			Wiktionary
 ModernStandardArabic_EAR	Modern Standard Arabic	stan1318	arb	EAR	ʔuðun	ʔuðun	ʔ u ð u n	ʔuðun	EAR			Wiktionary
 NajdiArabic_EAR	Najdi Arabic	najd1235	ars	EAR	ʔeðen	ʔɛðɛn	ʔ ɛ ð ɛ n	ʔeðen	EAR			Wiktionary
 GulfArabic_EAR	Gulf Arabic	gulf1241	afb	EAR	ʔeðen	ʔɛðɛn	ʔ ɛ ð ɛ n	ʔeðen	EAR			Wiktionary
@@ -1623,7 +1623,7 @@ ChadianArabic_EAR	Chadian Arabic	chad1249	shu	EAR	uden	udɛn	u d ɛ n	uden	EAR		
 TunisianArabic_EAR	Tunisian Arabic	tuni1259	aeb	EAR	wðin	wðin	w ð i n	wðin	EAR			Wiktionary
 MoroccanArabic_EAR	Moroccan Arabic	moro1292	ary	EAR	wdən	wdən	w d ə n	wdən	EAR			Wiktionary
 HassaniyaArabic_EAR	Hassaniya Arabic	hass1238	mey	EAR	ūðŭn	uːðɔn	uː ð ɔ n	ūðŭn	EAR			Wiktionary
-Maltese_EAR	Maltese	malt1254	mlt	EAR	ˈwɪd.na	wɪdnɐ	w ɪ d n ɐ	ˈwɪd.na	EAR			Wiktionary
+Maltese_EAR	Maltese	malt1254	mlt	EAR	widna	wɪdnɐ	w ɪ d n ɐ	ˈwɪd.na	EAR			Wiktionary
 ModernStandardArabic_EYE	Modern Standard Arabic	stan1318	arb	EYE	ʕayn	ʕajn	ʕ a j n	ʕayn	EYE			Wiktionary
 NajdiArabic_EYE	Najdi Arabic	najd1235	ars	EYE	ʕēn	ʕɛːn	ʕ ɛː n	ʕēn	EYE			Wiktionary
 GulfArabic_EYE	Gulf Arabic	gulf1241	afb	EYE	ʕēn	ʕɛːn	ʕ ɛː n	ʕēn	EYE			Wiktionary
@@ -1639,7 +1639,7 @@ ChadianArabic_EYE	Chadian Arabic	chad1249	shu	EYE	ʔēn	ʔɛːn	ʔ ɛː n	ʔēn	
 TunisianArabic_EYE	Tunisian Arabic	tuni1259	aeb	EYE	ʕīn	ʕiːn	ʕ iː n	ʕīn	EYE			Wiktionary
 MoroccanArabic_EYE	Moroccan Arabic	moro1292	ary	EYE	ʕin	ʕin	ʕ i n	ʕin	EYE			Wiktionary
 HassaniyaArabic_EYE	Hassaniya Arabic	hass1238	mey	EYE	ʕăyn	ʕʌjn	ʕ ʌ j n	ʕăyn	EYE			Wiktionary
-Maltese_EYE	Maltese	malt1254	mlt	EYE	aːjn	ɐːjn	ɐː j n	aːjn	EYE			Wiktionary
+Maltese_EYE	Maltese	malt1254	mlt	EYE	għajn	ɐːjn	ɐː j n	aːjn	EYE			Wiktionary
 ModernStandardArabic_NOSE	Modern Standard Arabic	stan1318	arb	NOSE	ʔanf	ʔanf	ʔ a n f	ʔanf	NOSE			Wiktionary
 NajdiArabic_NOSE	Najdi Arabic	najd1235	ars	NOSE	xašim	xaʃim	x a ʃ i m	xašim	NOSE			Wiktionary
 GulfArabic_NOSE	Gulf Arabic	gulf1241	afb	NOSE	xašem	xaʃɛm	x a ʃ ɛ m	xašem	NOSE			Wiktionary
@@ -1656,7 +1656,7 @@ TunisianArabic_NOSE	Tunisian Arabic	tuni1259	aeb	NOSE	xšam	xʃam	x ʃ a m	xšam
 TunisianArabic_NOSE	Tunisian Arabic	tuni1259	aeb	NOSE	mnēxer	mnɛːxɛr	m n ɛː x ɛ r	mnēxer	NOSE			Wiktionary
 MoroccanArabic_NOSE	Moroccan Arabic	moro1292	ary	NOSE	nif	nif	n i f	nif	NOSE			Wiktionary
 HassaniyaArabic_NOSE	Hassaniya Arabic	hass1238	mey	NOSE	xnāvĭr	xnaːvɛr	x n aː v ɛ r	xnāvĭr	NOSE			Wiktionary
-Maltese_NOSE	Maltese	malt1254	mlt	NOSE	ˈmnɪːħɛr	mnɪːħɛr	m n ɪː ħ ɛ r	ˈmnɪːħɛr	NOSE			Wiktionary
+Maltese_NOSE	Maltese	malt1254	mlt	NOSE	mnieħer	mnɪːħɛr	m n ɪː ħ ɛ r	ˈmnɪːħɛr	NOSE			Wiktionary
 ModernStandardArabic_MOUTH	Modern Standard Arabic	stan1318	arb	MOUTH	famm	famm	f a m m	famm	MOUTH			Wiktionary
 NajdiArabic_MOUTH	Najdi Arabic	najd1235	ars	MOUTH	θemm	θɛmm	θ ɛ m m	θemm	MOUTH			Wiktionary
 NajdiArabic_MOUTH	Najdi Arabic	najd1235	ars	MOUTH	ħalg	ħalɡ	ħ a l ɡ	ħalg	MOUTH			Wiktionary
@@ -1679,8 +1679,8 @@ TunisianArabic_MOUTH	Tunisian Arabic	tuni1259	aeb	MOUTH	žalġa	ʒalɣa	ʒ a l �
 TunisianArabic_MOUTH	Tunisian Arabic	tuni1259	aeb	MOUTH	fum	fum	f u m	fum	MOUTH			Wiktionary
 MoroccanArabic_MOUTH	Moroccan Arabic	moro1292	ary	MOUTH	fumm	fumm	f u m m	fumm	MOUTH			Wiktionary
 HassaniyaArabic_MOUTH	Hassaniya Arabic	hass1238	mey	MOUTH	ṿumm	vˤumm	vˤ u m m	ṿumm	MOUTH			Wiktionary
-Maltese_MOUTH	Maltese	malt1254	mlt	MOUTH	ħalʔ	ħɐlʔ	ħ ɐ l ʔ	ħalʔ	MOUTH			Wiktionary
-Maltese_MOUTH	Maltese	malt1254	mlt	MOUTH	ˈfɔmm	fɔmm	f ɔ m m	ˈfɔmm	MOUTH			Wiktionary
+Maltese_MOUTH	Maltese	malt1254	mlt	MOUTH	ħalq	ħɐlʔ	ħ ɐ l ʔ	ħalʔ	MOUTH			Wiktionary
+Maltese_MOUTH	Maltese	malt1254	mlt	MOUTH	fomm	fɔmm	f ɔ m m	ˈfɔmm	MOUTH			Wiktionary
 ModernStandardArabic_TOOTH	Modern Standard Arabic	stan1318	arb	TOOTH	sinna	sinna	s i n n a	sinna	TOOTH			Wiktionary
 ModernStandardArabic_TOOTH	Modern Standard Arabic	stan1318	arb	TOOTH	ḍirs	dˤirs	dˤ i r s	ḍirs	TOOTH			Wiktionary
 NajdiArabic_TOOTH	Najdi Arabic	najd1235	ars	TOOTH	ð̣irs	ðˤirs	ðˤ i r s	ð̣irs	TOOTH			Wiktionary
@@ -1705,7 +1705,7 @@ MoroccanArabic_TOOTH	Moroccan Arabic	moro1292	ary	TOOTH	dərsɑ	dərsɑ	d ə r s
 MoroccanArabic_TOOTH	Moroccan Arabic	moro1292	ary	TOOTH	sɘnnɑ	sənnɑ	s ə n n ɑ	sɘnnɑ	TOOTH			Wiktionary
 HassaniyaArabic_TOOTH	Hassaniya Arabic	hass1238	mey	TOOTH	sănn	sʌnn	s ʌ n n	sănn	TOOTH			Wiktionary
 HassaniyaArabic_TOOTH	Hassaniya Arabic	hass1238	mey	TOOTH	ḍars	dˤars	dˤ a r s	ḍars	TOOTH			Wiktionary
-Maltese_TOOTH	Maltese	malt1254	mlt	TOOTH	ˈsɪnna	sɪnnɐ	s ɪ n n ɐ	ˈsɪnna	TOOTH			Wiktionary
+Maltese_TOOTH	Maltese	malt1254	mlt	TOOTH	sinna	sɪnnɐ	s ɪ n n ɐ	ˈsɪnna	TOOTH			Wiktionary
 ModernStandardArabic_TONGUE	Modern Standard Arabic	stan1318	arb	TONGUE	lisān	lisaːn	l i s aː n	lisān	TONGUE			Wiktionary
 NajdiArabic_TONGUE	Najdi Arabic	najd1235	ars	TONGUE	lsān	lsaːn	l s aː n	lsān	TONGUE			Wiktionary
 GulfArabic_TONGUE	Gulf Arabic	gulf1241	afb	TONGUE	lesɑ̄n	lɛsɑːn	l ɛ s ɑː n	lesɑ̄n	TONGUE			Wiktionary
@@ -1721,7 +1721,7 @@ ChadianArabic_TONGUE	Chadian Arabic	chad1249	shu	TONGUE	lisān	lisaːn	l i s aː
 TunisianArabic_TONGUE	Tunisian Arabic	tuni1259	aeb	TONGUE	lsān	lsaːn	l s aː n	lsān	TONGUE			Wiktionary
 MoroccanArabic_TONGUE	Moroccan Arabic	moro1292	ary	TONGUE	lsan	lsan	l s a n	lsan	TONGUE			Wiktionary
 HassaniyaArabic_TONGUE	Hassaniya Arabic	hass1238	mey	TONGUE	lsān	lsaːn	l s aː n	lsān	TONGUE			Wiktionary
-Maltese_TONGUE	Maltese	malt1254	mlt	TONGUE	ˈlsɪːn	lsɪːn	l s ɪː n	ˈlsɪːn	TONGUE			Wiktionary
+Maltese_TONGUE	Maltese	malt1254	mlt	TONGUE	lsien	lsɪːn	l s ɪː n	ˈlsɪːn	TONGUE			Wiktionary
 ModernStandardArabic_FINGERNAIL	Modern Standard Arabic	stan1318	arb	FINGERNAIL	ð̣ifr	ðˤifr	ðˤ i f r	ð̣ifr	FINGERNAIL			Wiktionary
 ModernStandardArabic_FINGERNAIL	Modern Standard Arabic	stan1318	arb	FINGERNAIL	ð̣ufr	ðˤufr	ðˤ u f r	ð̣ufr	FINGERNAIL			Wiktionary
 NajdiArabic_FINGERNAIL	Najdi Arabic	najd1235	ars	FINGERNAIL	ð̣əfer	ðˤəfɛr	ðˤ ə f ɛ r	ð̣əfer	FINGERNAIL			Wiktionary
@@ -1740,7 +1740,7 @@ ChadianArabic_FINGERNAIL	Chadian Arabic	chad1249	shu	FINGERNAIL	dufr	dufr	d u f 
 TunisianArabic_FINGERNAIL	Tunisian Arabic	tuni1259	aeb	FINGERNAIL	ð̣far	ðˤfar	ðˤ f a r	ð̣far	FINGERNAIL			Wiktionary
 MoroccanArabic_FINGERNAIL	Moroccan Arabic	moro1292	ary	FINGERNAIL	ḍfər	dˤfər	dˤ f ə r	ḍfər	FINGERNAIL			Wiktionary
 HassaniyaArabic_FINGERNAIL	Hassaniya Arabic	hass1238	mey	FINGERNAIL	ð̣fər	ðˤfər	ðˤ f ə r	ð̣fər	FINGERNAIL			Wiktionary
-Maltese_FINGERNAIL	Maltese	malt1254	mlt	FINGERNAIL	ˈdɪfɛr	dɪfɛr	d ɪ f ɛ r	ˈdɪfɛr	FINGERNAIL			Wiktionary
+Maltese_FINGERNAIL	Maltese	malt1254	mlt	FINGERNAIL	difer	dɪfɛr	d ɪ f ɛ r	ˈdɪfɛr	FINGERNAIL			Wiktionary
 ModernStandardArabic_FOOT	Modern Standard Arabic	stan1318	arb	FOOT	qɑdam	qɑdam	q ɑ d a m	qɑdam	FOOT			Wiktionary
 ModernStandardArabic_FOOT	Modern Standard Arabic	stan1318	arb	FOOT	rijl	riʤl	r i ʤ l	rijl	FOOT			Wiktionary
 NajdiArabic_FOOT	Najdi Arabic	najd1235	ars	FOOT	rijil	riʤil	r i ʤ i l	rijil	FOOT			Wiktionary
@@ -1763,7 +1763,7 @@ TunisianArabic_FOOT	Tunisian Arabic	tuni1259	aeb	FOOT	sāq	saːq	s aː q	sāq	FO
 MoroccanArabic_FOOT	Moroccan Arabic	moro1292	ary	FOOT	ržəl	rʒəl	r ʒ ə l	ržəl	FOOT			Wiktionary
 HassaniyaArabic_FOOT	Hassaniya Arabic	hass1238	mey	FOOT	krāʕ	kraːʕ	k r aː ʕ	krāʕ	FOOT			Wiktionary
 HassaniyaArabic_FOOT	Hassaniya Arabic	hass1238	mey	FOOT	ržǝl	rʒəl	r ʒ ə l	ržǝl	FOOT			Wiktionary
-Maltese_FOOT	Maltese	malt1254	mlt	FOOT	sɪːʔ	sɪːʔ	s ɪː ʔ	sɪːʔ	FOOT			Wiktionary
+Maltese_FOOT	Maltese	malt1254	mlt	FOOT	sieq	sɪːʔ	s ɪː ʔ	sɪːʔ	FOOT			Wiktionary
 ModernStandardArabic_LEG	Modern Standard Arabic	stan1318	arb	LEG	sāq	saːq	s aː q	sāq	LEG			Wiktionary
 ModernStandardArabic_LEG	Modern Standard Arabic	stan1318	arb	LEG	rijl	riʤl	r i ʤ l	rijl	LEG			Wiktionary
 NajdiArabic_LEG	Najdi Arabic	najd1235	ars	LEG	rijil	riʤil	r i ʤ i l	rijil	LEG			Wiktionary
@@ -1790,7 +1790,7 @@ MoroccanArabic_LEG	Moroccan Arabic	moro1292	ary	LEG	ržəl	rʒəl	r ʒ ə l	rž�
 HassaniyaArabic_LEG	Hassaniya Arabic	hass1238	mey	LEG	ṣāg	sˤaːɡ	sˤ aː ɡ	ṣāg	LEG			Wiktionary
 HassaniyaArabic_LEG	Hassaniya Arabic	hass1238	mey	LEG	gāyma	ɡaːjma	ɡ aː j m a	gāyma	LEG			Wiktionary
 HassaniyaArabic_LEG	Hassaniya Arabic	hass1238	mey	LEG	krāʕ	kraːʕ	k r aː ʕ	krāʕ	LEG			Wiktionary
-Maltese_LEG	Maltese	malt1254	mlt	LEG	ˈrɪ.d͡ʒɛl	rɪʤɛl	r ɪ ʤ ɛ l	ˈrɪ.d͡ʒɛl	LEG			Wiktionary
+Maltese_LEG	Maltese	malt1254	mlt	LEG	riġel	rɪʤɛl	r ɪ ʤ ɛ l	ˈrɪ.d͡ʒɛl	LEG			Wiktionary
 ModernStandardArabic_KNEE	Modern Standard Arabic	stan1318	arb	KNEE	rukba	rukba	r u k b a	rukba	KNEE			Wiktionary
 NajdiArabic_KNEE	Najdi Arabic	najd1235	ars	KNEE	rikbah	rikbah	r i k b a h	rikbah	KNEE			Wiktionary
 GulfArabic_KNEE	Gulf Arabic	gulf1241	afb	KNEE	ričba	riʧba	r i ʧ b a	ričba	KNEE			Wiktionary
@@ -1806,7 +1806,7 @@ ChadianArabic_KNEE	Chadian Arabic	chad1249	shu	KNEE	rukba	rukba	r u k b a	rukba	
 TunisianArabic_KNEE	Tunisian Arabic	tuni1259	aeb	KNEE	rukba	rukba	r u k b a	rukba	KNEE			Wiktionary
 MoroccanArabic_KNEE	Moroccan Arabic	moro1292	ary	KNEE	rukbɑ	rukbɑ	r u k b ɑ	rukbɑ	KNEE			Wiktionary
 HassaniyaArabic_KNEE	Hassaniya Arabic	hass1238	mey	KNEE	rŭkba	rɔkba	r ɔ k b a	rŭkba	KNEE			Wiktionary
-Maltese_KNEE	Maltese	malt1254	mlt	KNEE	rˈkɔp.pa	rkɔppɐ	r k ɔ p p ɐ	rˈkɔp.pa	KNEE			Wiktionary
+Maltese_KNEE	Maltese	malt1254	mlt	KNEE	rkoppa	rkɔppɐ	r k ɔ p p ɐ	rˈkɔp.pa	KNEE			Wiktionary
 ModernStandardArabic_HAND	Modern Standard Arabic	stan1318	arb	HAND	yadd	jadd	j a d d	yadd	HAND			Wiktionary
 NajdiArabic_HAND	Najdi Arabic	najd1235	ars	HAND	kaff	kaff	k a f f	kaff	HAND			Wiktionary
 NajdiArabic_HAND	Najdi Arabic	najd1235	ars	HAND	īd	iːd	iː d	īd	HAND			Wiktionary
@@ -1826,7 +1826,7 @@ ChadianArabic_HAND	Chadian Arabic	chad1249	shu	HAND	id	id	i d	id	HAND			Wiktiona
 TunisianArabic_HAND	Tunisian Arabic	tuni1259	aeb	HAND	yid	jid	j i d	yid	HAND			Wiktionary
 MoroccanArabic_HAND	Moroccan Arabic	moro1292	ary	HAND	yədd	jədd	j ə d d	yədd	HAND			Wiktionary
 HassaniyaArabic_HAND	Hassaniya Arabic	hass1238	mey	HAND	eyd	ɛjd	ɛ j d	eyd	HAND			Wiktionary
-Maltese_HAND	Maltese	malt1254	mlt	HAND	iːt	iːt	iː t	iːt	HAND			Wiktionary
+Maltese_HAND	Maltese	malt1254	mlt	HAND	id	iːt	iː t	iːt	HAND			Wiktionary
 ModernStandardArabic_WING	Modern Standard Arabic	stan1318	arb	WING	janāħ	ʤanaːħ	ʤ a n aː ħ	janāħ	WING			Wiktionary
 NajdiArabic_WING	Najdi Arabic	najd1235	ars	WING	janāħ	ʤanaːħ	ʤ a n aː ħ	janāħ	WING			Wiktionary
 GulfArabic_WING	Gulf Arabic	gulf1241	afb	WING	janāħ	ʤanaːħ	ʤ a n aː ħ	janāħ	WING			Wiktionary
@@ -1840,7 +1840,7 @@ ChadianArabic_WING	Chadian Arabic	chad1249	shu	WING	jenāh	ʤɛnaːh	ʤ ɛ n aː
 TunisianArabic_WING	Tunisian Arabic	tuni1259	aeb	WING	žnāħ	ʒnaːħ	ʒ n aː ħ	žnāħ	WING			Wiktionary
 MoroccanArabic_WING	Moroccan Arabic	moro1292	ary	WING	žənħ	ʒənħ	ʒ ə n ħ	žənħ	WING			Wiktionary
 HassaniyaArabic_WING	Hassaniya Arabic	hass1238	mey	WING	žnāħ	ʒnaːħ	ʒ n aː ħ	žnāħ	WING			Wiktionary
-Maltese_WING	Maltese	malt1254	mlt	WING	ˈd͡ʒɛw.naħ	ʤɛwnɐħ	ʤ ɛ w n ɐ ħ	ˈd͡ʒɛw.naħ	WING			Wiktionary
+Maltese_WING	Maltese	malt1254	mlt	WING	ġewnaħ	ʤɛwnɐħ	ʤ ɛ w n ɐ ħ	ˈd͡ʒɛw.naħ	WING			Wiktionary
 ModernStandardArabic_BELLY	Modern Standard Arabic	stan1318	arb	BELLY	bɑṭɑn	bɑtˤɑn	b ɑ tˤ ɑ n	bɑṭɑn	BELLY			Wiktionary
 ModernStandardArabic_BELLY	Modern Standard Arabic	stan1318	arb	BELLY	miʕda	miʕda	m i ʕ d a	miʕda	BELLY			Wiktionary
 NajdiArabic_BELLY	Najdi Arabic	najd1235	ars	BELLY	bɑṭn	bɑtˤn	b ɑ tˤ n	bɑṭn	BELLY			Wiktionary
@@ -1867,7 +1867,7 @@ MoroccanArabic_BELLY	Moroccan Arabic	moro1292	ary	BELLY	bṭen	btˤɛn	b tˤ ɛ 
 MoroccanArabic_BELLY	Moroccan Arabic	moro1292	ary	BELLY	kərš	kərʃ	k ə r ʃ	kərš	BELLY			Wiktionary
 HassaniyaArabic_BELLY	Hassaniya Arabic	hass1238	mey	BELLY	kirš	kirʃ	k i r ʃ	kirš	BELLY			Wiktionary
 HassaniyaArabic_BELLY	Hassaniya Arabic	hass1238	mey	BELLY	žŏwf	ʒɔwf	ʒ ɔ w f	žŏwf	BELLY			Wiktionary
-Maltese_BELLY	Maltese	malt1254	mlt	BELLY	zaʔ	zɐʔ	z ɐ ʔ	zaʔ	BELLY			Wiktionary
+Maltese_BELLY	Maltese	malt1254	mlt	BELLY	żaqq	zɐʔ	z ɐ ʔ	zaʔ	BELLY			Wiktionary
 ModernStandardArabic_GUTS	Modern Standard Arabic	stan1318	arb	GUTS	ʔamʕāʔ	ʔamʕaːʔ	ʔ a m ʕ aː ʔ	ʔamʕāʔ	GUTS			Wiktionary
 ModernStandardArabic_GUTS	Modern Standard Arabic	stan1318	arb	GUTS	ʔaħšāʔ	ʔaħʃaːʔ	ʔ a ħ ʃ aː ʔ	ʔaħšāʔ	GUTS			Wiktionary
 ModernStandardArabic_GUTS	Modern Standard Arabic	stan1318	arb	GUTS	muṣrɑ̄n	musˤrɑːn	m u sˤ r ɑː n	muṣrɑ̄n	GUTS			Wiktionary
@@ -1891,7 +1891,7 @@ TunisianArabic_GUTS	Tunisian Arabic	tuni1259	aeb	GUTS	bzīz	bziːz	b z iː z	bz�
 TunisianArabic_GUTS	Tunisian Arabic	tuni1259	aeb	GUTS	mṣārīn	msˤaːriːn	m sˤ aː r iː n	mṣārīn	GUTS			Wiktionary
 MoroccanArabic_GUTS	Moroccan Arabic	moro1292	ary	GUTS	məṣrɑn	məsˤrɑn	m ə sˤ r ɑ n	məṣrɑn	GUTS			Wiktionary
 HassaniyaArabic_GUTS	Hassaniya Arabic	hass1238	mey	GUTS	mṣɑ̄rīn	msˤɑːriːn	m sˤ ɑː r iː n	mṣɑ̄rīn	GUTS			Wiktionary
-Maltese_GUTS	Maltese	malt1254	mlt	GUTS	mˈsaː.rɛn	msɐːrɛn	m s ɐː r ɛ n	mˈsaː.rɛn	GUTS			Wiktionary
+Maltese_GUTS	Maltese	malt1254	mlt	GUTS	msaren	msɐːrɛn	m s ɐː r ɛ n	mˈsaː.rɛn	GUTS			Wiktionary
 ModernStandardArabic_NECK	Modern Standard Arabic	stan1318	arb	NECK	ʕanq	ʕanq	ʕ a n q	ʕanq	NECK			Wiktionary
 ModernStandardArabic_NECK	Modern Standard Arabic	stan1318	arb	NECK	raqaba	raqaba	r a q a b a	raqaba	NECK			Wiktionary
 NajdiArabic_NECK	Najdi Arabic	najd1235	ars	NECK	ʕelba	ʕɛlba	ʕ ɛ l b a	ʕelba	NECK			Wiktionary
@@ -1912,7 +1912,7 @@ TunisianArabic_NECK	Tunisian Arabic	tuni1259	aeb	NECK	raqbā	raqbaː	r a q b aː
 TunisianArabic_NECK	Tunisian Arabic	tuni1259	aeb	NECK	krūmā	kruːmaː	k r uː m aː	krūmā	NECK			Wiktionary
 MoroccanArabic_NECK	Moroccan Arabic	moro1292	ary	NECK	ʕənq	ʕənq	ʕ ə n q	ʕənq	NECK			Wiktionary
 HassaniyaArabic_NECK	Hassaniya Arabic	hass1238	mey	NECK	ragba	raɡba	r a ɡ b a	ragba	NECK			Wiktionary
-Maltese_NECK	Maltese	malt1254	mlt	NECK	ɔːnʔ	ɔːnʔ	ɔː n ʔ	ɔːnʔ	NECK			Wiktionary
+Maltese_NECK	Maltese	malt1254	mlt	NECK	għonq	ɔːnʔ	ɔː n ʔ	ɔːnʔ	NECK			Wiktionary
 ModernStandardArabic_BACK	Modern Standard Arabic	stan1318	arb	BACK	ð̣ahar	ðˤahar	ðˤ a h a r	ð̣ahar	BACK			Wiktionary
 ModernStandardArabic_BACK	Modern Standard Arabic	stan1318	arb	BACK	qufā	qufaː	q u f aː	qufā	BACK			Wiktionary
 NajdiArabic_BACK	Najdi Arabic	najd1235	ars	BACK	ð̣ɑhɑr	ðˤɑhɑr	ðˤ ɑ h ɑ r	ð̣ɑhɑr	BACK			Wiktionary
@@ -1935,7 +1935,7 @@ MoroccanArabic_BACK	Moroccan Arabic	moro1292	ary	BACK	llur	llur	l l u r	llur	BAC
 HassaniyaArabic_BACK	Hassaniya Arabic	hass1238	mey	BACK	ð̣hər	ðˤhər	ðˤ h ə r	ð̣hər	BACK			Wiktionary
 HassaniyaArabic_BACK	Hassaniya Arabic	hass1238	mey	BACK	gfa	ɡfa	ɡ f a	gfa	BACK			Wiktionary
 HassaniyaArabic_BACK	Hassaniya Arabic	hass1238	mey	BACK	llūrɑ	lluːrɑ	l l uː r ɑ	llūrɑ	BACK			Wiktionary
-Maltese_BACK	Maltese	malt1254	mlt	BACK	daːr	dɐːr	d ɐː r	daːr	BACK			Wiktionary
+Maltese_BACK	Maltese	malt1254	mlt	BACK	dahar	dɐːr	d ɐː r	daːr	BACK			Wiktionary
 ModernStandardArabic_BREAST	Modern Standard Arabic	stan1318	arb	BREAST	θadiy	θadij	θ a d i j	θadiy	BREAST			Wiktionary
 ModernStandardArabic_BREAST	Modern Standard Arabic	stan1318	arb	BREAST	nahad	nahad	n a h a d	nahad	BREAST			Wiktionary
 ModernStandardArabic_BREAST	Modern Standard Arabic	stan1318	arb	BREAST	ṣidr	sˤidr	sˤ i d r	ṣidr	BREAST			Wiktionary
@@ -1966,8 +1966,8 @@ ChadianArabic_BREAST	Chadian Arabic	chad1249	shu	BREAST	dēd	dɛːd	d ɛː d	dē
 TunisianArabic_BREAST	Tunisian Arabic	tuni1259	aeb	BREAST	bazzūla	bazzuːla	b a z z uː l a	bazzūla	BREAST			Wiktionary
 MoroccanArabic_BREAST	Moroccan Arabic	moro1292	ary	BREAST	bəzzulɑ	bəzzulɑ	b ə z z u l ɑ	bəzzulɑ	BREAST			Wiktionary
 HassaniyaArabic_BREAST	Hassaniya Arabic	hass1238	mey	BREAST	băzzūla	bʌzzuːla	b ʌ z z uː l a	băzzūla	BREAST			Wiktionary
-Maltese_BREAST	Maltese	malt1254	mlt	BREAST	ˈsɪ.dɛr	sɪdɛr	s ɪ d ɛ r	ˈsɪ.dɛr	BREAST			Wiktionary
-Maltese_BREAST	Maltese	malt1254	mlt	BREAST	ˈzɛj.za	zɛjzɐ	z ɛ j z ɐ	ˈzɛj.za	BREAST			Wiktionary
+Maltese_BREAST	Maltese	malt1254	mlt	BREAST	sider	sɪdɛr	s ɪ d ɛ r	ˈsɪ.dɛr	BREAST			Wiktionary
+Maltese_BREAST	Maltese	malt1254	mlt	BREAST	żejża	zɛjzɐ	z ɛ j z ɐ	ˈzɛj.za	BREAST			Wiktionary
 ModernStandardArabic_HEART	Modern Standard Arabic	stan1318	arb	HEART	qɑlb	qɑlb	q ɑ l b	qɑlb	HEART			Wiktionary
 ModernStandardArabic_HEART	Modern Standard Arabic	stan1318	arb	HEART	fuʔād	fuʔaːd	f u ʔ aː d	fuʔād	HEART			Wiktionary
 NajdiArabic_HEART	Najdi Arabic	najd1235	ars	HEART	gaḷb	ɡalˤb	ɡ a lˤ b	gaḷb	HEART			Wiktionary
@@ -1988,7 +1988,7 @@ ChadianArabic_HEART	Chadian Arabic	chad1249	shu	HEART	gelb	ɡɛlb	ɡ ɛ l b	gelb
 TunisianArabic_HEART	Tunisian Arabic	tuni1259	aeb	HEART	qalb	qalb	q a l b	qalb	HEART			Wiktionary
 MoroccanArabic_HEART	Moroccan Arabic	moro1292	ary	HEART	qəlb	qəlb	q ə l b	qəlb	HEART			Wiktionary
 HassaniyaArabic_HEART	Hassaniya Arabic	hass1238	mey	HEART	gălb	ɡʌlb	ɡ ʌ l b	gălb	HEART			Wiktionary
-Maltese_HEART	Maltese	malt1254	mlt	HEART	ʔalp	ʔɐlp	ʔ ɐ l p	ʔalp	HEART			Wiktionary
+Maltese_HEART	Maltese	malt1254	mlt	HEART	qalb	ʔɐlp	ʔ ɐ l p	ʔalp	HEART			Wiktionary
 ModernStandardArabic_LIVER	Modern Standard Arabic	stan1318	arb	LIVER	kabad	kabad	k a b a d	kabad	LIVER			Wiktionary
 ModernStandardArabic_LIVER	Modern Standard Arabic	stan1318	arb	LIVER	fuʔād	fuʔaːd	f u ʔ aː d	fuʔād	LIVER			Wiktionary
 NajdiArabic_LIVER	Najdi Arabic	najd1235	ars	LIVER	t͡sabd	ʦabd	ʦ a b d	t͡sabd	LIVER			Wiktionary
@@ -2009,7 +2009,7 @@ ChadianArabic_LIVER	Chadian Arabic	chad1249	shu	LIVER	kebd	kɛbd	k ɛ b d	kebd	L
 TunisianArabic_LIVER	Tunisian Arabic	tuni1259	aeb	LIVER	kibda	kibda	k i b d a	kibda	LIVER			Wiktionary
 MoroccanArabic_LIVER	Moroccan Arabic	moro1292	ary	LIVER	kəbdɑ	kəbdɑ	k ə b d ɑ	kəbdɑ	LIVER			Wiktionary
 HassaniyaArabic_LIVER	Hassaniya Arabic	hass1238	mey	LIVER	kăbda	kʌbda	k ʌ b d a	kăbda	LIVER			Wiktionary
-Maltese_LIVER	Maltese	malt1254	mlt	LIVER	fwɪːt	fwɪːt	f w ɪː t	fwɪːt	LIVER			Wiktionary
+Maltese_LIVER	Maltese	malt1254	mlt	LIVER	fwied	fwɪːt	f w ɪː t	fwɪːt	LIVER			Wiktionary
 ModernStandardArabic_DRINK	Modern Standard Arabic	stan1318	arb	DRINK	šariba	ʃariba	ʃ a r i b a	šariba	DRINK			Wiktionary
 NajdiArabic_DRINK	Najdi Arabic	najd1235	ars	DRINK	šereb	ʃɛrɛb	ʃ ɛ r ɛ b	šereb	DRINK			Wiktionary
 GulfArabic_DRINK	Gulf Arabic	gulf1241	afb	DRINK	šereb	ʃɛrɛb	ʃ ɛ r ɛ b	šereb	DRINK			Wiktionary
@@ -2025,7 +2025,7 @@ ChadianArabic_DRINK	Chadian Arabic	chad1249	shu	DRINK	šereb	ʃɛrɛb	ʃ ɛ r ɛ
 TunisianArabic_DRINK	Tunisian Arabic	tuni1259	aeb	DRINK	šrab	ʃrab	ʃ r a b	šrab	DRINK			Wiktionary
 MoroccanArabic_DRINK	Moroccan Arabic	moro1292	ary	DRINK	šrəb	ʃrəb	ʃ r ə b	šrəb	DRINK			Wiktionary
 HassaniyaArabic_DRINK	Hassaniya Arabic	hass1238	mey	DRINK	šrəb	ʃrəb	ʃ r ə b	šrəb	DRINK			Wiktionary
-Maltese_DRINK	Maltese	malt1254	mlt	DRINK	ˈʃɔ.rɔp	ʃɔrɔp	ʃ ɔ r ɔ p	ˈʃɔ.rɔp	DRINK			Wiktionary
+Maltese_DRINK	Maltese	malt1254	mlt	DRINK	xorob	ʃɔrɔp	ʃ ɔ r ɔ p	ˈʃɔ.rɔp	DRINK			Wiktionary
 ModernStandardArabic_EAT	Modern Standard Arabic	stan1318	arb	EAT	ʔakala	ʔakala	ʔ a k a l a	ʔakala	EAT			Wiktionary
 NajdiArabic_EAT	Najdi Arabic	najd1235	ars	EAT	akal	akal	a k a l	akal	EAT			Wiktionary
 GulfArabic_EAT	Gulf Arabic	gulf1241	afb	EAT	kal	kal	k a l	kal	EAT			Wiktionary
@@ -2041,7 +2041,7 @@ ChadianArabic_EAT	Chadian Arabic	chad1249	shu	EAT	akel	akɛl	a k ɛ l	akel	EAT		
 TunisianArabic_EAT	Tunisian Arabic	tuni1259	aeb	EAT	klā	klaː	k l aː	klā	EAT			Wiktionary
 MoroccanArabic_EAT	Moroccan Arabic	moro1292	ary	EAT	kla	kla	k l a	kla	EAT			Wiktionary
 HassaniyaArabic_EAT	Hassaniya Arabic	hass1238	mey	EAT	kāl	kaːl	k aː l	kāl	EAT			Wiktionary
-Maltese_EAT	Maltese	malt1254	mlt	EAT	kɪːl	kɪːl	k ɪː l	kɪːl	EAT			Wiktionary
+Maltese_EAT	Maltese	malt1254	mlt	EAT	kiel	kɪːl	k ɪː l	kɪːl	EAT			Wiktionary
 ModernStandardArabic_BITE	Modern Standard Arabic	stan1318	arb	BITE	ʕɑḍḍɑ	ʕɑdˤdˤɑ	ʕ ɑ dˤ dˤ ɑ	ʕɑḍḍɑ	BITE			Wiktionary
 NajdiArabic_BITE	Najdi Arabic	najd1235	ars	BITE	ʕɑð̣ð̣	ʕɑðˤðˤ	ʕ ɑ ðˤ ðˤ	ʕɑð̣ð̣	BITE			Wiktionary
 GulfArabic_BITE	Gulf Arabic	gulf1241	afb	BITE	ʕɑð̣ð̣	ʕɑðˤðˤ	ʕ ɑ ðˤ ðˤ	ʕɑð̣ð̣	BITE			Wiktionary
@@ -2061,7 +2061,7 @@ TunisianArabic_BITE	Tunisian Arabic	tuni1259	aeb	BITE	gdim	ɡdim	ɡ d i m	gdim	B
 MoroccanArabic_BITE	Moroccan Arabic	moro1292	ary	BITE	gdəm	ɡdəm	ɡ d ə m	gdəm	BITE			Wiktionary
 MoroccanArabic_BITE	Moroccan Arabic	moro1292	ary	BITE	ʕəḍḍ	ʕədˤdˤ	ʕ ə dˤ dˤ	ʕəḍḍ	BITE			Wiktionary
 HassaniyaArabic_BITE	Hassaniya Arabic	hass1238	mey	BITE	ʕăð̣ð̣	ʕʌðˤðˤ	ʕ ʌ ðˤ ðˤ	ʕăð̣ð̣	BITE			Wiktionary
-Maltese_BITE	Maltese	malt1254	mlt	BITE	ˈɡɪ.dɛm	ɡɪdɛm	ɡ ɪ d ɛ m	ˈɡɪ.dɛm	BITE			Wiktionary
+Maltese_BITE	Maltese	malt1254	mlt	BITE	gidem	ɡɪdɛm	ɡ ɪ d ɛ m	ˈɡɪ.dɛm	BITE			Wiktionary
 ModernStandardArabic_SUCK	Modern Standard Arabic	stan1318	arb	SUCK	mɑṣṣ	mɑsˤsˤ	m ɑ sˤ sˤ	mɑṣṣ	SUCK			Wiktionary
 ModernStandardArabic_SUCK	Modern Standard Arabic	stan1318	arb	SUCK	rɑḍiʕa	rɑdˤiʕa	r ɑ dˤ i ʕ a	rɑḍiʕa	SUCK			Wiktionary
 NajdiArabic_SUCK	Najdi Arabic	najd1235	ars	SUCK	mɑṣṣ	mɑsˤsˤ	m ɑ sˤ sˤ	mɑṣṣ	SUCK			Wiktionary
@@ -2084,7 +2084,7 @@ TunisianArabic_SUCK	Tunisian Arabic	tuni1259	aeb	SUCK	rð̣aʕ	rðˤaʕ	r ðˤ a
 MoroccanArabic_SUCK	Moroccan Arabic	moro1292	ary	SUCK	məṣṣ	məsˤsˤ	m ə sˤ sˤ	məṣṣ	SUCK			Wiktionary
 HassaniyaArabic_SUCK	Hassaniya Arabic	hass1238	mey	SUCK	măṣṣ	mʌsˤsˤ	m ʌ sˤ sˤ	măṣṣ	SUCK			Wiktionary
 HassaniyaArabic_SUCK	Hassaniya Arabic	hass1238	mey	SUCK	rð̣aʕ	rðˤaʕ	r ðˤ a ʕ	rð̣aʕ	SUCK			Wiktionary
-Maltese_SUCK	Maltese	malt1254	mlt	SUCK	ˈrɛ.da	rɛdɐ	r ɛ d ɐ	ˈrɛ.da	SUCK			Wiktionary
+Maltese_SUCK	Maltese	malt1254	mlt	SUCK	reda'	rɛdɐ	r ɛ d ɐ	ˈrɛ.da	SUCK			Wiktionary
 ModernStandardArabic_SPIT	Modern Standard Arabic	stan1318	arb	SPIT	baṣɑqa	basˤɑqa	b a sˤ ɑ q a	baṣɑqa	SPIT			Wiktionary
 GulfArabic_SPIT	Gulf Arabic	gulf1241	afb	SPIT	tefal	tɛfal	t ɛ f a l	tefal	SPIT			Wiktionary
 GulfArabic_SPIT	Gulf Arabic	gulf1241	afb	SPIT	bezag	bɛzaɡ	b ɛ z a ɡ	bezag	SPIT			Wiktionary
@@ -2104,7 +2104,7 @@ MoroccanArabic_SPIT	Moroccan Arabic	moro1292	ary	SPIT	bzəq	bzəq	b z ə q	bzəq
 HassaniyaArabic_SPIT	Hassaniya Arabic	hass1238	mey	SPIT	tfəl	tfəl	t f ə l	tfəl	SPIT			Wiktionary
 HassaniyaArabic_SPIT	Hassaniya Arabic	hass1238	mey	SPIT	dvǝl	dvəl	d v ə l	dvǝl	SPIT			Wiktionary
 HassaniyaArabic_SPIT	Hassaniya Arabic	hass1238	mey	SPIT	băẓẓag	bʌzˤzˤaɡ	b ʌ zˤ zˤ a ɡ	băẓẓag	SPIT			Wiktionary
-Maltese_SPIT	Maltese	malt1254	mlt	SPIT	ˈbɛ.zaʔ	bɛzɐʔ	b ɛ z ɐ ʔ	ˈbɛ.zaʔ	SPIT			Wiktionary
+Maltese_SPIT	Maltese	malt1254	mlt	SPIT	beżaq	bɛzɐʔ	b ɛ z ɐ ʔ	ˈbɛ.zaʔ	SPIT			Wiktionary
 ModernStandardArabic_VOMIT	Modern Standard Arabic	stan1318	arb	VOMIT	qɑ̄ʔɑ	qɑːʔɑ	q ɑː ʔ ɑ	qɑ̄ʔɑ	VOMIT			Wiktionary
 ModernStandardArabic_VOMIT	Modern Standard Arabic	stan1318	arb	VOMIT	taqayyaʔa	taqajjaʔa	t a q a j j a ʔ a	taqayyaʔa	VOMIT			Wiktionary
 ModernStandardArabic_VOMIT	Modern Standard Arabic	stan1318	arb	VOMIT	istafrɑġa	istafrɑɣa	i s t a f r ɑ ɣ a	istafrɑġa	VOMIT			Wiktionary
@@ -2133,7 +2133,7 @@ MoroccanArabic_VOMIT	Moroccan Arabic	moro1292	ary	VOMIT	rədd	rədd	r ə d d	rə
 MoroccanArabic_VOMIT	Moroccan Arabic	moro1292	ary	VOMIT	ruwwəʕ	ruwwəʕ	r u w w ə ʕ	ruwwəʕ	VOMIT			Wiktionary
 HassaniyaArabic_VOMIT	Hassaniya Arabic	hass1238	mey	VOMIT	gðǝf	ɡðəf	ɡ ð ə f	gðǝf	VOMIT			Wiktionary
 HassaniyaArabic_VOMIT	Hassaniya Arabic	hass1238	mey	VOMIT	rŭdd	rɔdd	r ɔ d d	rŭdd	VOMIT			Wiktionary
-Maltese_VOMIT	Maltese	malt1254	mlt	VOMIT	ˈʔa.la	ʔɐlɐ	ʔ ɐ l ɐ	ˈʔa.la	VOMIT			Wiktionary
+Maltese_VOMIT	Maltese	malt1254	mlt	VOMIT	qala'	ʔɐlɐ	ʔ ɐ l ɐ	ˈʔa.la	VOMIT			Wiktionary
 ModernStandardArabic_BLOW (OF WIND)	Modern Standard Arabic	stan1318	arb	BLOW (OF WIND)	tanassama	tanassama	t a n a s s a m a	tanassama	BLOW (OF WIND)			Wiktionary
 ModernStandardArabic_BLOW (OF WIND)	Modern Standard Arabic	stan1318	arb	BLOW (OF WIND)	habba	habba	h a b b a	habba	BLOW (OF WIND)			Wiktionary
 ModernStandardArabic_BLOW (OF WIND)	Modern Standard Arabic	stan1318	arb	BLOW (OF WIND)	nafaxɑ	nafaxɑ	n a f a x ɑ	nafaxɑ	BLOW (OF WIND)			Wiktionary
@@ -2157,7 +2157,7 @@ ChadianArabic_BLOW (OF WIND)	Chadian Arabic	chad1249	shu	BLOW (OF WIND)	nafax	na
 TunisianArabic_BLOW (OF WIND)	Tunisian Arabic	tuni1259	aeb	BLOW (OF WIND)	nfax	nfax	n f a x	nfax	BLOW (OF WIND)			Wiktionary
 MoroccanArabic_BLOW (OF WIND)	Moroccan Arabic	moro1292	ary	BLOW (OF WIND)	ṣɑṭ	sˤɑtˤ	sˤ ɑ tˤ	ṣɑṭ	BLOW (OF WIND)			Wiktionary
 HassaniyaArabic_BLOW (OF WIND)	Hassaniya Arabic	hass1238	mey	BLOW (OF WIND)	nvăx	nvʌx	n v ʌ x	nvăx	BLOW (OF WIND)			Wiktionary
-Maltese_BLOW (OF WIND)	Maltese	malt1254	mlt	BLOW (OF WIND)	ˈnɛ.faħ	nɛfɐħ	n ɛ f ɐ ħ	ˈnɛ.faħ	BLOW (OF WIND)			Wiktionary
+Maltese_BLOW (OF WIND)	Maltese	malt1254	mlt	BLOW (OF WIND)	nefaħ	nɛfɐħ	n ɛ f ɐ ħ	ˈnɛ.faħ	BLOW (OF WIND)			Wiktionary
 ModernStandardArabic_BREATHE	Modern Standard Arabic	stan1318	arb	BREATHE	tanaffasa	tanaffasa	t a n a f f a s a	tanaffasa	BREATHE			Wiktionary
 ModernStandardArabic_BREATHE	Modern Standard Arabic	stan1318	arb	BREATHE	tanassama	tanassama	t a n a s s a m a	tanassama	BREATHE			Wiktionary
 NajdiArabic_BREATHE	Najdi Arabic	najd1235	ars	BREATHE	nafas	nafas	n a f a s	nafas	BREATHE			Wiktionary
@@ -2198,7 +2198,7 @@ TunisianArabic_LAUGH	Tunisian Arabic	tuni1259	aeb	LAUGH	ð̣ħak	ðˤħak	ðˤ �
 MoroccanArabic_LAUGH	Moroccan Arabic	moro1292	ary	LAUGH	ḍħak	dˤħak	dˤ ħ a k	ḍħak	LAUGH			Wiktionary
 MoroccanArabic_LAUGH	Moroccan Arabic	moro1292	ary	LAUGH	kakɑ	kakɑ	k a k ɑ	kakɑ	LAUGH			Wiktionary
 HassaniyaArabic_LAUGH	Hassaniya Arabic	hass1238	mey	LAUGH	ð̣ħăk	ðˤħʌk	ðˤ ħ ʌ k	ð̣ħăk	LAUGH			Wiktionary
-Maltese_LAUGH	Maltese	malt1254	mlt	LAUGH	ˈda.ħak	dɐħɐk	d ɐ ħ ɐ k	ˈda.ħak	LAUGH			Wiktionary
+Maltese_LAUGH	Maltese	malt1254	mlt	LAUGH	daħak	dɐħɐk	d ɐ ħ ɐ k	ˈda.ħak	LAUGH			Wiktionary
 ModernStandardArabic_SEE	Modern Standard Arabic	stan1318	arb	SEE	rɑʔā	rɑʔaː	r ɑ ʔ aː	rɑʔā	SEE			Wiktionary
 ModernStandardArabic_SEE	Modern Standard Arabic	stan1318	arb	SEE	bɑṣirɑ	bɑsˤirɑ	b ɑ sˤ i r ɑ	bɑṣirɑ	SEE			Wiktionary
 NajdiArabic_SEE	Najdi Arabic	najd1235	ars	SEE	šāf	ʃaːf	ʃ aː f	šāf	SEE			Wiktionary
@@ -2220,7 +2220,7 @@ TunisianArabic_SEE	Tunisian Arabic	tuni1259	aeb	SEE	rā	raː	r aː	rā	SEE			Wik
 MoroccanArabic_SEE	Moroccan Arabic	moro1292	ary	SEE	šaf	ʃaf	ʃ a f	šaf	SEE			Wiktionary
 HassaniyaArabic_SEE	Hassaniya Arabic	hass1238	mey	SEE	šāv	ʃaːv	ʃ aː v	šāv	SEE			Wiktionary
 HassaniyaArabic_SEE	Hassaniya Arabic	hass1238	mey	SEE	ṛāʕi v-	rˤaːʕi v	rˤ aː ʕ i   v	ṛāʕi v-	SEE			Wiktionary
-Maltese_SEE	Maltese	malt1254	mlt	SEE	raː	rɐː	r ɐː	raː	SEE			Wiktionary
+Maltese_SEE	Maltese	malt1254	mlt	SEE	ra	rɐː	r ɐː	raː	SEE			Wiktionary
 ModernStandardArabic_HEAR	Modern Standard Arabic	stan1318	arb	HEAR	samiʕa	samiʕa	s a m i ʕ a	samiʕa	HEAR			Wiktionary
 NajdiArabic_HEAR	Najdi Arabic	najd1235	ars	HEAR	samiʕ	samiʕ	s a m i ʕ	samiʕ	HEAR			Wiktionary
 GulfArabic_HEAR	Gulf Arabic	gulf1241	afb	HEAR	semaʕ	sɛmaʕ	s ɛ m a ʕ	semaʕ	HEAR			Wiktionary
@@ -2236,7 +2236,7 @@ ChadianArabic_HEAR	Chadian Arabic	chad1249	shu	HEAR	semī	sɛmiː	s ɛ m iː	sem
 TunisianArabic_HEAR	Tunisian Arabic	tuni1259	aeb	HEAR	smaʕ	smaʕ	s m a ʕ	smaʕ	HEAR			Wiktionary
 MoroccanArabic_HEAR	Moroccan Arabic	moro1292	ary	HEAR	sməʕ	sməʕ	s m ə ʕ	sməʕ	HEAR			Wiktionary
 HassaniyaArabic_HEAR	Hassaniya Arabic	hass1238	mey	HEAR	smăʕ	smʌʕ	s m ʌ ʕ	smăʕ	HEAR			Wiktionary
-Maltese_HEAR	Maltese	malt1254	mlt	HEAR	ˈsɛ.ma	sɛmɐ	s ɛ m ɐ	ˈsɛ.ma	HEAR			Wiktionary
+Maltese_HEAR	Maltese	malt1254	mlt	HEAR	sema'	sɛmɐ	s ɛ m ɐ	ˈsɛ.ma	HEAR			Wiktionary
 ModernStandardArabic_KNOW (SOMETHING)	Modern Standard Arabic	stan1318	arb	KNOW (SOMETHING)	darɑ	darɑ	d a r ɑ	darɑ	KNOW (SOMETHING)			Wiktionary
 ModernStandardArabic_KNOW (SOMETHING)	Modern Standard Arabic	stan1318	arb	KNOW (SOMETHING)	ʕalima	ʕalima	ʕ a l i m a	ʕalima	KNOW (SOMETHING)			Wiktionary
 ModernStandardArabic_KNOW (SOMETHING)	Modern Standard Arabic	stan1318	arb	KNOW (SOMETHING)	ʕarifa	ʕarifa	ʕ a r i f a	ʕarifa	KNOW (SOMETHING)			Wiktionary
@@ -2266,7 +2266,7 @@ ChadianArabic_KNOW (SOMETHING)	Chadian Arabic	chad1249	shu	KNOW (SOMETHING)	ʔar
 TunisianArabic_KNOW (SOMETHING)	Tunisian Arabic	tuni1259	aeb	KNOW (SOMETHING)	ʕraf	ʕraf	ʕ r a f	ʕraf	KNOW (SOMETHING)			Wiktionary
 MoroccanArabic_KNOW (SOMETHING)	Moroccan Arabic	moro1292	ary	KNOW (SOMETHING)	ʕrəf	ʕrəf	ʕ r ə f	ʕrəf	KNOW (SOMETHING)			Wiktionary
 HassaniyaArabic_KNOW (SOMETHING)	Hassaniya Arabic	hass1238	mey	KNOW (SOMETHING)	ʕrɑf	ʕrɑf	ʕ r ɑ f	ʕrɑf	KNOW (SOMETHING)			Wiktionary
-Maltese_KNOW (SOMETHING)	Maltese	malt1254	mlt	KNOW (SOMETHING)	jaːf	jɐːf	j ɐː f	jaːf	KNOW (SOMETHING)			Wiktionary
+Maltese_KNOW (SOMETHING)	Maltese	malt1254	mlt	KNOW (SOMETHING)	jaf	jɐːf	j ɐː f	jaːf	KNOW (SOMETHING)			Wiktionary
 ModernStandardArabic_THINK	Modern Standard Arabic	stan1318	arb	THINK	ħasiba	ħasiba	ħ a s i b a	ħasiba	THINK			Wiktionary
 ModernStandardArabic_THINK	Modern Standard Arabic	stan1318	arb	THINK	ʔiʕtaqɑda	ʔiʕtaqɑda	ʔ i ʕ t a q ɑ d a	ʔiʕtaqɑda	THINK			Wiktionary
 ModernStandardArabic_THINK	Modern Standard Arabic	stan1318	arb	THINK	fakkara	fakkara	f a k k a r a	fakkara	THINK			Wiktionary
@@ -2304,7 +2304,7 @@ MoroccanArabic_THINK	Moroccan Arabic	moro1292	ary	THINK	xəmməm	xəmməm	x ə m
 MoroccanArabic_THINK	Moroccan Arabic	moro1292	ary	THINK	fbal-	fbal	f b a l	fbal-	THINK			Wiktionary
 HassaniyaArabic_THINK	Hassaniya Arabic	hass1238	mey	THINK	txămməm	txʌmməm	t x ʌ m m ə m	txămməm	THINK			Wiktionary
 HassaniyaArabic_THINK	Hassaniya Arabic	hass1238	mey	THINK	stăʕql	stʌʕql	s t ʌ ʕ q l	stăʕql	THINK			Wiktionary
-Maltese_THINK	Maltese	malt1254	mlt	THINK	ˈħasɛp	ħɐsɛp	ħ ɐ s ɛ p	ˈħasɛp	THINK			Wiktionary
+Maltese_THINK	Maltese	malt1254	mlt	THINK	ħaseb	ħɐsɛp	ħ ɐ s ɛ p	ˈħasɛp	THINK			Wiktionary
 ModernStandardArabic_SMELL (PERCEIVE)	Modern Standard Arabic	stan1318	arb	SMELL (PERCEIVE)	šamma	ʃamma	ʃ a m m a	šamma	SMELL (PERCEIVE)			Wiktionary
 NajdiArabic_SMELL (PERCEIVE)	Najdi Arabic	najd1235	ars	SMELL (PERCEIVE)	šamm	ʃamm	ʃ a m m	šamm	SMELL (PERCEIVE)			Wiktionary
 GulfArabic_SMELL (PERCEIVE)	Gulf Arabic	gulf1241	afb	SMELL (PERCEIVE)	šamm	ʃamm	ʃ a m m	šamm	SMELL (PERCEIVE)			Wiktionary
@@ -2321,7 +2321,7 @@ ChadianArabic_SMELL (PERCEIVE)	Chadian Arabic	chad1249	shu	SMELL (PERCEIVE)	šem
 TunisianArabic_SMELL (PERCEIVE)	Tunisian Arabic	tuni1259	aeb	SMELL (PERCEIVE)	šam	ʃam	ʃ a m	šam	SMELL (PERCEIVE)			Wiktionary
 MoroccanArabic_SMELL (PERCEIVE)	Moroccan Arabic	moro1292	ary	SMELL (PERCEIVE)	šamm	ʃamm	ʃ a m m	šamm	SMELL (PERCEIVE)			Wiktionary
 HassaniyaArabic_SMELL (PERCEIVE)	Hassaniya Arabic	hass1238	mey	SMELL (PERCEIVE)	šəmm	ʃəmm	ʃ ə m m	šəmm	SMELL (PERCEIVE)			Wiktionary
-Maltese_SMELL (PERCEIVE)	Maltese	malt1254	mlt	SMELL (PERCEIVE)	ʃamm	ʃɐmm	ʃ ɐ m m	ʃamm	SMELL (PERCEIVE)			Wiktionary
+Maltese_SMELL (PERCEIVE)	Maltese	malt1254	mlt	SMELL (PERCEIVE)	xamm	ʃɐmm	ʃ ɐ m m	ʃamm	SMELL (PERCEIVE)			Wiktionary
 ModernStandardArabic_FEAR (BE AFRAID)	Modern Standard Arabic	stan1318	arb	FEAR (BE AFRAID)	xāfa	xaːfa	x aː f a	xāfa	FEAR (BE AFRAID)			Wiktionary
 ModernStandardArabic_FEAR (BE AFRAID)	Modern Standard Arabic	stan1318	arb	FEAR (BE AFRAID)	rihaba	rihaba	r i h a b a	rihaba	FEAR (BE AFRAID)			Wiktionary
 ModernStandardArabic_FEAR (BE AFRAID)	Modern Standard Arabic	stan1318	arb	FEAR (BE AFRAID)	fazaʕa	fazaʕa	f a z a ʕ a	fazaʕa	FEAR (BE AFRAID)			Wiktionary
@@ -2342,7 +2342,7 @@ ChadianArabic_FEAR (BE AFRAID)	Chadian Arabic	chad1249	shu	FEAR (BE AFRAID)	xāf
 TunisianArabic_FEAR (BE AFRAID)	Tunisian Arabic	tuni1259	aeb	FEAR (BE AFRAID)	xāf	xaːf	x aː f	xāf	FEAR (BE AFRAID)			Wiktionary
 MoroccanArabic_FEAR (BE AFRAID)	Moroccan Arabic	moro1292	ary	FEAR (BE AFRAID)	xaf	xaf	x a f	xaf	FEAR (BE AFRAID)			Wiktionary
 HassaniyaArabic_FEAR (BE AFRAID)	Hassaniya Arabic	hass1238	mey	FEAR (BE AFRAID)	xāv	xaːv	x aː v	xāv	FEAR (BE AFRAID)			Wiktionary
-Maltese_FEAR (BE AFRAID)	Maltese	malt1254	mlt	FEAR (BE AFRAID)	ˈbɛ.za	bɛzɐ	b ɛ z ɐ	ˈbɛ.za	FEAR (BE AFRAID)			Wiktionary
+Maltese_FEAR (BE AFRAID)	Maltese	malt1254	mlt	FEAR (BE AFRAID)	beża'	bɛzɐ	b ɛ z ɐ	ˈbɛ.za	FEAR (BE AFRAID)			Wiktionary
 ModernStandardArabic_SLEEP	Modern Standard Arabic	stan1318	arb	SLEEP	nāma	naːma	n aː m a	nāma	SLEEP			Wiktionary
 ModernStandardArabic_SLEEP	Modern Standard Arabic	stan1318	arb	SLEEP	raqɑda	raqɑda	r a q ɑ d a	raqɑda	SLEEP			Wiktionary
 NajdiArabic_SLEEP	Najdi Arabic	najd1235	ars	SLEEP	nām	naːm	n aː m	nām	SLEEP			Wiktionary
@@ -2361,7 +2361,7 @@ ChadianArabic_SLEEP	Chadian Arabic	chad1249	shu	SLEEP	nām	naːm	n aː m	nām	SL
 TunisianArabic_SLEEP	Tunisian Arabic	tuni1259	aeb	SLEEP	rqad	rqad	r q a d	rqad	SLEEP			Wiktionary
 MoroccanArabic_SLEEP	Moroccan Arabic	moro1292	ary	SLEEP	nʕas	nʕas	n ʕ a s	nʕas	SLEEP			Wiktionary
 HassaniyaArabic_SLEEP	Hassaniya Arabic	hass1238	mey	SLEEP	rgǝd	rɡəd	r ɡ ə d	rgǝd	SLEEP			Wiktionary
-Maltese_SLEEP	Maltese	malt1254	mlt	SLEEP	ˈraʔat	rɐʔɐt	r ɐ ʔ ɐ t	ˈraʔat	SLEEP			Wiktionary
+Maltese_SLEEP	Maltese	malt1254	mlt	SLEEP	raqad	rɐʔɐt	r ɐ ʔ ɐ t	ˈraʔat	SLEEP			Wiktionary
 ModernStandardArabic_BE ALIVE	Modern Standard Arabic	stan1318	arb	BE ALIVE	ʕāša	ʕaːʃa	ʕ aː ʃ a	ʕāša	BE ALIVE			Wiktionary
 ModernStandardArabic_BE ALIVE	Modern Standard Arabic	stan1318	arb	BE ALIVE	ħiya	ħija	ħ i j a	ħiya	BE ALIVE			Wiktionary
 ModernStandardArabic_BE ALIVE	Modern Standard Arabic	stan1318	arb	BE ALIVE	sakana	sakana	s a k a n a	sakana	BE ALIVE			Wiktionary
@@ -2384,7 +2384,7 @@ MoroccanArabic_BE ALIVE	Moroccan Arabic	moro1292	ary	BE ALIVE	ħyɑ	ħjɑ	ħ j �
 MoroccanArabic_BE ALIVE	Moroccan Arabic	moro1292	ary	BE ALIVE	ʕaš	ʕaʃ	ʕ a ʃ	ʕaš	BE ALIVE			Wiktionary
 HassaniyaArabic_BE ALIVE	Hassaniya Arabic	hass1238	mey	BE ALIVE	ʕāš	ʕaːʃ	ʕ aː ʃ	ʕāš	BE ALIVE			Wiktionary
 HassaniyaArabic_BE ALIVE	Hassaniya Arabic	hass1238	mey	BE ALIVE	ħya	ħja	ħ j a	ħya	BE ALIVE			Wiktionary
-Maltese_BE ALIVE	Maltese	malt1254	mlt	BE ALIVE	ɛːʃ	ɛːʃ	ɛː ʃ	ɛːʃ	BE ALIVE			Wiktionary
+Maltese_BE ALIVE	Maltese	malt1254	mlt	BE ALIVE	għex	ɛːʃ	ɛː ʃ	ɛːʃ	BE ALIVE			Wiktionary
 ModernStandardArabic_DIE	Modern Standard Arabic	stan1318	arb	DIE	māta	maːta	m aː t a	māta	DIE			Wiktionary
 NajdiArabic_DIE	Najdi Arabic	najd1235	ars	DIE	māt	maːt	m aː t	māt	DIE			Wiktionary
 GulfArabic_DIE	Gulf Arabic	gulf1241	afb	DIE	mɑ̄t	mɑːt	m ɑː t	mɑ̄t	DIE			Wiktionary
@@ -2403,7 +2403,7 @@ MoroccanArabic_DIE	Moroccan Arabic	moro1292	ary	DIE	mat	mat	m a t	mat	DIE			Wikt
 HassaniyaArabic_DIE	Hassaniya Arabic	hass1238	mey	DIE	māt	maːt	m aː t	māt	DIE			Wiktionary
 HassaniyaArabic_DIE	Hassaniya Arabic	hass1238	mey	DIE	twăffa	twʌffa	t w ʌ f f a	twăffa	DIE			Wiktionary
 HassaniyaArabic_DIE	Hassaniya Arabic	hass1238	mey	DIE	rtħam	rtħam	r t ħ a m	rtħam	DIE			Wiktionary
-Maltese_DIE	Maltese	malt1254	mlt	DIE	mɪːt	mɪːt	m ɪː t	mɪːt	DIE			Wiktionary
+Maltese_DIE	Maltese	malt1254	mlt	DIE	miet	mɪːt	m ɪː t	mɪːt	DIE			Wiktionary
 ModernStandardArabic_KILL	Modern Standard Arabic	stan1318	arb	KILL	qɑtala	qɑtala	q ɑ t a l a	qɑtala	KILL			Wiktionary
 ModernStandardArabic_KILL	Modern Standard Arabic	stan1318	arb	KILL	ðabaħa	ðabaħa	ð a b a ħ a	ðabaħa	KILL			Wiktionary
 NajdiArabic_KILL	Najdi Arabic	najd1235	ars	KILL	ketal	kɛtal	k ɛ t a l	ketal	KILL			Wiktionary
@@ -2425,7 +2425,7 @@ ChadianArabic_KILL	Chadian Arabic	chad1249	shu	KILL	katal	katal	k a t a l	katal	
 TunisianArabic_KILL	Tunisian Arabic	tuni1259	aeb	KILL	qtal	qtal	q t a l	qtal	KILL			Wiktionary
 MoroccanArabic_KILL	Moroccan Arabic	moro1292	ary	KILL	qtal	qtal	q t a l	qtal	KILL			Wiktionary
 HassaniyaArabic_KILL	Hassaniya Arabic	hass1238	mey	KILL	ktǝl	ktəl	k t ə l	ktǝl	KILL			Wiktionary
-Maltese_KILL	Maltese	malt1254	mlt	KILL	ˈʔa.tɛl	ʔɐtɛl	ʔ ɐ t ɛ l	ˈʔa.tɛl	KILL			Wiktionary
+Maltese_KILL	Maltese	malt1254	mlt	KILL	qatel	ʔɐtɛl	ʔ ɐ t ɛ l	ˈʔa.tɛl	KILL			Wiktionary
 ModernStandardArabic_FIGHT	Modern Standard Arabic	stan1318	arb	FIGHT	ħāriba	ħaːriba	ħ aː r i b a	ħāriba	FIGHT			Wiktionary
 ModernStandardArabic_FIGHT	Modern Standard Arabic	stan1318	arb	FIGHT	qɑ̄tala	qɑːtala	q ɑː t a l a	qɑ̄tala	FIGHT			Wiktionary
 NajdiArabic_FIGHT	Najdi Arabic	najd1235	ars	FIGHT	tahāwɑš	tahaːwɑʃ	t a h aː w ɑ ʃ	tahāwɑš	FIGHT			Wiktionary
@@ -2496,8 +2496,8 @@ TunisianArabic_HIT	Tunisian Arabic	tuni1259	aeb	HIT	ð̣rab	ðˤrab	ðˤ r a b	�
 MoroccanArabic_HIT	Moroccan Arabic	moro1292	ary	HIT	ḍrəb	dˤrəb	dˤ r ə b	ḍrəb	HIT			Wiktionary
 HassaniyaArabic_HIT	Hassaniya Arabic	hass1238	mey	HIT	xbaṭ	xbatˤ	x b a tˤ	xbaṭ	HIT			Wiktionary
 HassaniyaArabic_HIT	Hassaniya Arabic	hass1238	mey	HIT	băṭṭ	bʌtˤtˤ	b ʌ tˤ tˤ	băṭṭ	HIT			Wiktionary
-Maltese_HIT	Maltese	malt1254	mlt	HIT	ˈla.ʔat	lɐʔɐt	l ɐ ʔ ɐ t	ˈla.ʔat	HIT			Wiktionary
-Maltese_HIT	Maltese	malt1254	mlt	HIT	ˈda.rap	dɐrɐp	d ɐ r ɐ p	ˈda.rap	HIT			Wiktionary
+Maltese_HIT	Maltese	malt1254	mlt	HIT	laqat	lɐʔɐt	l ɐ ʔ ɐ t	ˈla.ʔat	HIT			Wiktionary
+Maltese_HIT	Maltese	malt1254	mlt	HIT	darab	dɐrɐp	d ɐ r ɐ p	ˈda.rap	HIT			Wiktionary
 ModernStandardArabic_CUT	Modern Standard Arabic	stan1318	arb	CUT	qɑṭaʕa	qɑtˤaʕa	q ɑ tˤ a ʕ a	qɑṭaʕa	CUT			Wiktionary
 ModernStandardArabic_CUT	Modern Standard Arabic	stan1318	arb	CUT	qɑṣṣ	qɑsˤsˤ	q ɑ sˤ sˤ	qɑṣṣ	CUT			Wiktionary
 NajdiArabic_CUT	Najdi Arabic	najd1235	ars	CUT	gɑṭaʕ	ɡɑtˤaʕ	ɡ ɑ tˤ a ʕ	gɑṭaʕ	CUT			Wiktionary
@@ -2516,7 +2516,7 @@ ChadianArabic_CUT	Chadian Arabic	chad1249	shu	CUT	gatā	ɡataː	ɡ a t aː	gatā
 TunisianArabic_CUT	Tunisian Arabic	tuni1259	aeb	CUT	qaṣ	qasˤ	q a sˤ	qaṣ	CUT			Wiktionary
 MoroccanArabic_CUT	Moroccan Arabic	moro1292	ary	CUT	qṭəʕ	qtˤəʕ	q tˤ ə ʕ	qṭəʕ	CUT			Wiktionary
 HassaniyaArabic_CUT	Hassaniya Arabic	hass1238	mey	CUT	gṭăʕ	ɡtˤʌʕ	ɡ tˤ ʌ ʕ	gṭăʕ	CUT			Wiktionary
-Maltese_CUT	Maltese	malt1254	mlt	CUT	ˈʔa.ta	ʔɐtɐ	ʔ ɐ t ɐ	ˈʔa.ta	CUT			Wiktionary
+Maltese_CUT	Maltese	malt1254	mlt	CUT	qata'	ʔɐtɐ	ʔ ɐ t ɐ	ˈʔa.ta	CUT			Wiktionary
 ModernStandardArabic_SPLIT	Modern Standard Arabic	stan1318	arb	SPLIT	qasama	qasama	q a s a m a	qasama	SPLIT			Wiktionary
 ModernStandardArabic_SPLIT	Modern Standard Arabic	stan1318	arb	SPLIT	šaqqa	ʃaqqa	ʃ a q q a	šaqqa	SPLIT			Wiktionary
 NajdiArabic_SPLIT	Najdi Arabic	najd1235	ars	SPLIT	šeṭɑb	ʃɛtˤɑb	ʃ ɛ tˤ ɑ b	šeṭɑb	SPLIT			Wiktionary
@@ -2542,7 +2542,7 @@ TunisianArabic_SPLIT	Tunisian Arabic	tuni1259	aeb	SPLIT	šaqq	ʃaqq	ʃ a q q	ša
 MoroccanArabic_SPLIT	Moroccan Arabic	moro1292	ary	SPLIT	qṣem	qsˤɛm	q sˤ ɛ m	qṣem	SPLIT			Wiktionary
 MoroccanArabic_SPLIT	Moroccan Arabic	moro1292	ary	SPLIT	fəlləħ	fəlləħ	f ə l l ə ħ	fəlləħ	SPLIT			Wiktionary
 HassaniyaArabic_SPLIT	Hassaniya Arabic	hass1238	mey	SPLIT	fgăs	fɡʌs	f ɡ ʌ s	fgăs	SPLIT			Wiktionary
-Maltese_SPLIT	Maltese	malt1254	mlt	SPLIT	ˈʔasam	ʔɐsɐm	ʔ ɐ s ɐ m	ˈʔasam	SPLIT			Wiktionary
+Maltese_SPLIT	Maltese	malt1254	mlt	SPLIT	qasam	ʔɐsɐm	ʔ ɐ s ɐ m	ˈʔasam	SPLIT			Wiktionary
 ModernStandardArabic_STAB	Modern Standard Arabic	stan1318	arb	STAB	ṭɑʕana	tˤɑʕana	tˤ ɑ ʕ a n a	ṭɑʕana	STAB			Wiktionary
 NajdiArabic_STAB	Najdi Arabic	najd1235	ars	STAB	ṭɑʕən	tˤɑʕən	tˤ ɑ ʕ ə n	ṭɑʕən	STAB			Wiktionary
 GulfArabic_STAB	Gulf Arabic	gulf1241	afb	STAB	ṭeʕan	tˤɛʕan	tˤ ɛ ʕ a n	ṭeʕan	STAB			Wiktionary
@@ -2557,7 +2557,7 @@ ChadianArabic_STAB	Chadian Arabic	chad1249	shu	STAB	taʔan	taʔan	t a ʔ a n	ta�
 TunisianArabic_STAB	Tunisian Arabic	tuni1259	aeb	STAB	dġar	dɣar	d ɣ a r	dġar	STAB			Wiktionary
 MoroccanArabic_STAB	Moroccan Arabic	moro1292	ary	STAB	tʕaz	tʕaz	t ʕ a z	tʕaz	STAB			Wiktionary
 HassaniyaArabic_STAB	Hassaniya Arabic	hass1238	mey	STAB	dăgg	dʌɡɡ	d ʌ ɡ ɡ	dăgg	STAB			Wiktionary
-Maltese_STAB	Maltese	malt1254	mlt	STAB	ˈnɪ.fɛt	nɪfɛt	n ɪ f ɛ t	ˈnɪ.fɛt	STAB			Wiktionary
+Maltese_STAB	Maltese	malt1254	mlt	STAB	nifed	nɪfɛt	n ɪ f ɛ t	ˈnɪ.fɛt	STAB			Wiktionary
 ModernStandardArabic_SCRATCH	Modern Standard Arabic	stan1318	arb	SCRATCH	xadaša	xadaʃa	x a d a ʃ a	xadaša	SCRATCH			Wiktionary
 ModernStandardArabic_SCRATCH	Modern Standard Arabic	stan1318	arb	SCRATCH	xamaša	xamaʃa	x a m a ʃ a	xamaša	SCRATCH			Wiktionary
 ModernStandardArabic_SCRATCH	Modern Standard Arabic	stan1318	arb	SCRATCH	ħakka	ħakka	ħ a k k a	ħakka	SCRATCH			Wiktionary
@@ -2599,7 +2599,7 @@ ChadianArabic_DIG	Chadian Arabic	chad1249	shu	DIG	hafer	hafɛr	h a f ɛ r	hafer	
 TunisianArabic_DIG	Tunisian Arabic	tuni1259	aeb	DIG	ħfar	ħfar	ħ f a r	ħfar	DIG			Wiktionary
 MoroccanArabic_DIG	Moroccan Arabic	moro1292	ary	DIG	ħfer	ħfɛr	ħ f ɛ r	ħfer	DIG			Wiktionary
 HassaniyaArabic_DIG	Hassaniya Arabic	hass1238	mey	DIG	žhăr	ʒhʌr	ʒ h ʌ r	žhăr	DIG			Wiktionary
-Maltese_DIG	Maltese	malt1254	mlt	DIG	ˈħaf.fɛr	ħɐffɛr	ħ ɐ f f ɛ r	ˈħaf.fɛr	DIG			Wiktionary
+Maltese_DIG	Maltese	malt1254	mlt	DIG	ħaffer	ħɐffɛr	ħ ɐ f f ɛ r	ˈħaf.fɛr	DIG			Wiktionary
 ModernStandardArabic_SWIM	Modern Standard Arabic	stan1318	arb	SWIM	sabaħa	sabaħa	s a b a ħ a	sabaħa	SWIM			Wiktionary
 ModernStandardArabic_SWIM	Modern Standard Arabic	stan1318	arb	SWIM	ʕām	ʕaːm	ʕ aː m	ʕām	SWIM			Wiktionary
 NajdiArabic_SWIM	Najdi Arabic	najd1235	ars	SWIM	sebeħ	sɛbɛħ	s ɛ b ɛ ħ	sebeħ	SWIM			Wiktionary
@@ -2620,7 +2620,7 @@ ChadianArabic_SWIM	Chadian Arabic	chad1249	shu	SWIM	ʔarrad fi l-alme	ʔarrad fi
 TunisianArabic_SWIM	Tunisian Arabic	tuni1259	aeb	SWIM	ʕām	ʕaːm	ʕ aː m	ʕām	SWIM			Wiktionary
 MoroccanArabic_SWIM	Moroccan Arabic	moro1292	ary	SWIM	ʕam	ʕam	ʕ a m	ʕam	SWIM			Wiktionary
 HassaniyaArabic_SWIM	Hassaniya Arabic	hass1238	mey	SWIM	ʕām	ʕaːm	ʕ aː m	ʕām	SWIM			Wiktionary
-Maltese_SWIM	Maltese	malt1254	mlt	SWIM	aːm	ɐːm	ɐː m	aːm	SWIM			Wiktionary
+Maltese_SWIM	Maltese	malt1254	mlt	SWIM	għam	ɐːm	ɐː m	aːm	SWIM			Wiktionary
 ModernStandardArabic_FLY (MOVE THROUGH AIR)	Modern Standard Arabic	stan1318	arb	FLY (MOVE THROUGH AIR)	ṭɑ̄ra	tˤɑːra	tˤ ɑː r a	ṭɑ̄ra	FLY (MOVE THROUGH AIR)			Wiktionary
 NajdiArabic_FLY (MOVE THROUGH AIR)	Najdi Arabic	najd1235	ars	FLY (MOVE THROUGH AIR)	ṭār	tˤaːr	tˤ aː r	ṭār	FLY (MOVE THROUGH AIR)			Wiktionary
 GulfArabic_FLY (MOVE THROUGH AIR)	Gulf Arabic	gulf1241	afb	FLY (MOVE THROUGH AIR)	ṭɑ̄r	tˤɑːr	tˤ ɑː r	ṭɑ̄r	FLY (MOVE THROUGH AIR)			Wiktionary
@@ -2635,7 +2635,7 @@ ChadianArabic_FLY (MOVE THROUGH AIR)	Chadian Arabic	chad1249	shu	FLY (MOVE THROU
 TunisianArabic_FLY (MOVE THROUGH AIR)	Tunisian Arabic	tuni1259	aeb	FLY (MOVE THROUGH AIR)	tɑ̄r	tɑːr	t ɑː r	tɑ̄r	FLY (MOVE THROUGH AIR)			Wiktionary
 MoroccanArabic_FLY (MOVE THROUGH AIR)	Moroccan Arabic	moro1292	ary	FLY (MOVE THROUGH AIR)	ṭɑr	tˤɑr	tˤ ɑ r	ṭɑr	FLY (MOVE THROUGH AIR)			Wiktionary
 HassaniyaArabic_FLY (MOVE THROUGH AIR)	Hassaniya Arabic	hass1238	mey	FLY (MOVE THROUGH AIR)	ṭɑ̄r	tˤɑːr	tˤ ɑː r	ṭɑ̄r	FLY (MOVE THROUGH AIR)			Wiktionary
-Maltese_FLY (MOVE THROUGH AIR)	Maltese	malt1254	mlt	FLY (MOVE THROUGH AIR)	taːr	tɐːr	t ɐː r	taːr	FLY (MOVE THROUGH AIR)			Wiktionary
+Maltese_FLY (MOVE THROUGH AIR)	Maltese	malt1254	mlt	FLY (MOVE THROUGH AIR)	tar	tɐːr	t ɐː r	taːr	FLY (MOVE THROUGH AIR)			Wiktionary
 ModernStandardArabic_WALK	Modern Standard Arabic	stan1318	arb	WALK	mašā	maʃaː	m a ʃ aː	mašā	WALK			Wiktionary
 NajdiArabic_WALK	Najdi Arabic	najd1235	ars	WALK	meša	mɛʃa	m ɛ ʃ a	meša	WALK			Wiktionary
 GulfArabic_WALK	Gulf Arabic	gulf1241	afb	WALK	mešɑ	mɛʃɑ	m ɛ ʃ ɑ	mešɑ	WALK			Wiktionary
@@ -2659,7 +2659,7 @@ MoroccanArabic_WALK	Moroccan Arabic	moro1292	ary	WALK	ṣɑr	sˤɑr	sˤ ɑ r	ṣ
 MoroccanArabic_WALK	Moroccan Arabic	moro1292	ary	WALK	tməššɑ	tməʃʃɑ	t m ə ʃ ʃ ɑ	tməššɑ	WALK			Wiktionary
 HassaniyaArabic_WALK	Hassaniya Arabic	hass1238	mey	WALK	twāṭa	twaːtˤa	t w aː tˤ a	twāṭa	WALK			Wiktionary
 HassaniyaArabic_WALK	Hassaniya Arabic	hass1238	mey	WALK	gowṭaṛ	ɡɔwtˤarˤ	ɡ ɔ w tˤ a rˤ	gowṭaṛ	WALK			Wiktionary
-Maltese_WALK	Maltese	malt1254	mlt	WALK	ˈmɛʃa	mɛʃɐ	m ɛ ʃ ɐ	ˈmɛʃa	WALK			Wiktionary
+Maltese_WALK	Maltese	malt1254	mlt	WALK	mexa	mɛʃɐ	m ɛ ʃ ɐ	ˈmɛʃa	WALK			Wiktionary
 ModernStandardArabic_COME	Modern Standard Arabic	stan1318	arb	COME	ʔatā	ʔataː	ʔ a t aː	ʔatā	COME			Wiktionary
 ModernStandardArabic_COME	Modern Standard Arabic	stan1318	arb	COME	jāʔa	ʤaːʔa	ʤ aː ʔ a	jāʔa	COME			Wiktionary
 NajdiArabic_COME	Najdi Arabic	najd1235	ars	COME	ja	ʤa	ʤ a	ja	COME			Wiktionary
@@ -2676,7 +2676,7 @@ ChadianArabic_COME	Chadian Arabic	chad1249	shu	COME	jā	ʤaː	ʤ aː	jā	COME			
 TunisianArabic_COME	Tunisian Arabic	tuni1259	aeb	COME	žā	ʒaː	ʒ aː	žā	COME			Wiktionary
 MoroccanArabic_COME	Moroccan Arabic	moro1292	ary	COME	ža	ʒa	ʒ a	ža	COME			Wiktionary
 HassaniyaArabic_COME	Hassaniya Arabic	hass1238	mey	COME	ža	ʒa	ʒ a	ža	COME			Wiktionary
-Maltese_COME	Maltese	malt1254	mlt	COME	d͡ʒɪː	ʤɪː	ʤ ɪː	d͡ʒɪː	COME			Wiktionary
+Maltese_COME	Maltese	malt1254	mlt	COME	ġie	ʤɪː	ʤ ɪː	d͡ʒɪː	COME			Wiktionary
 ModernStandardArabic_LIE (REST)	Modern Standard Arabic	stan1318	arb	LIE (REST)	istalqɑ̄	istalqɑː	i s t a l q ɑː	istalqɑ̄	LIE (REST)			Wiktionary
 ModernStandardArabic_LIE (REST)	Modern Standard Arabic	stan1318	arb	LIE (REST)	raqɑda	raqɑda	r a q ɑ d a	raqɑda	LIE (REST)			Wiktionary
 ModernStandardArabic_LIE (REST)	Modern Standard Arabic	stan1318	arb	LIE (REST)	tamaddada	tamaddada	t a m a d d a d a	tamaddada	LIE (REST)			Wiktionary
@@ -2704,7 +2704,7 @@ MoroccanArabic_LIE (REST)	Moroccan Arabic	moro1292	ary	LIE (REST)	tmədd	tmədd	
 MoroccanArabic_LIE (REST)	Moroccan Arabic	moro1292	ary	LIE (REST)	təkkɑ	təkkɑ	t ə k k ɑ	təkkɑ	LIE (REST)			Wiktionary
 HassaniyaArabic_LIE (REST)	Hassaniya Arabic	hass1238	mey	LIE (REST)	tkɑ	tkɑ	t k ɑ	tkɑ	LIE (REST)			Wiktionary
 HassaniyaArabic_LIE (REST)	Hassaniya Arabic	hass1238	mey	LIE (REST)	tmadda	tmadda	t m a d d a	tmadda	LIE (REST)			Wiktionary
-Maltese_LIE (REST)	Maltese	malt1254	mlt	LIE (REST)	mˈtɛt	mtɛt	m t ɛ t	mˈtɛt	LIE (REST)			Wiktionary
+Maltese_LIE (REST)	Maltese	malt1254	mlt	LIE (REST)	mtedd	mtɛt	m t ɛ t	mˈtɛt	LIE (REST)			Wiktionary
 ModernStandardArabic_SIT	Modern Standard Arabic	stan1318	arb	SIT	jalasa	ʤalasa	ʤ a l a s a	jalasa	SIT			Wiktionary
 ModernStandardArabic_SIT	Modern Standard Arabic	stan1318	arb	SIT	qaʕada	qaʕada	q a ʕ a d a	qaʕada	SIT			Wiktionary
 NajdiArabic_SIT	Najdi Arabic	najd1235	ars	SIT	gaʕad	ɡaʕad	ɡ a ʕ a d	gaʕad	SIT			Wiktionary
@@ -2726,8 +2726,8 @@ ChadianArabic_SIT	Chadian Arabic	chad1249	shu	SIT	gaʔad	ɡaʔad	ɡ a ʔ a d	ga�
 TunisianArabic_SIT	Tunisian Arabic	tuni1259	aeb	SIT	qʕad	qʕad	q ʕ a d	qʕad	SIT			Wiktionary
 MoroccanArabic_SIT	Moroccan Arabic	moro1292	ary	SIT	gləs	ɡləs	ɡ l ə s	gləs	SIT			Wiktionary
 HassaniyaArabic_SIT	Hassaniya Arabic	hass1238	mey	SIT	gʕăd	ɡʕʌd	ɡ ʕ ʌ d	gʕăd	SIT			Wiktionary
-Maltese_SIT	Maltese	malt1254	mlt	SIT	ʔaːt	ʔɐːt	ʔ ɐː t	ʔaːt	SIT			Wiktionary
-Maltese_SIT	Maltese	malt1254	mlt	SIT	ˈpɔd.d͡ʒa	pɔdʤɐ	p ɔ d ʤ ɐ	ˈpɔd.d͡ʒa	SIT			Wiktionary
+Maltese_SIT	Maltese	malt1254	mlt	SIT	qagħad	ʔɐːt	ʔ ɐː t	ʔaːt	SIT			Wiktionary
+Maltese_SIT	Maltese	malt1254	mlt	SIT	poġġa	pɔdʤɐ	p ɔ d ʤ ɐ	ˈpɔd.d͡ʒa	SIT			Wiktionary
 ModernStandardArabic_STAND	Modern Standard Arabic	stan1318	arb	STAND	qɑ̄ma	qɑːma	q ɑː m a	qɑ̄ma	STAND			Wiktionary
 ModernStandardArabic_STAND	Modern Standard Arabic	stan1318	arb	STAND	waqɑfa	waqɑfa	w a q ɑ f a	waqɑfa	STAND			Wiktionary
 NajdiArabic_STAND	Najdi Arabic	najd1235	ars	STAND	wagf	waɡf	w a ɡ f	wagf	STAND			Wiktionary
@@ -2769,7 +2769,7 @@ TunisianArabic_TURN AROUND	Tunisian Arabic	tuni1259	aeb	TURN AROUND	dār	daːr	d
 MoroccanArabic_TURN AROUND	Moroccan Arabic	moro1292	ary	TURN AROUND	dɑr	dɑr	d ɑ r	dɑr	TURN AROUND			Wiktionary
 HassaniyaArabic_TURN AROUND	Hassaniya Arabic	hass1238	mey	TURN AROUND	sădd	sʌdd	s ʌ d d	sădd	TURN AROUND			Wiktionary
 HassaniyaArabic_TURN AROUND	Hassaniya Arabic	hass1238	mey	TURN AROUND	glăb	ɡlʌb	ɡ l ʌ b	glăb	TURN AROUND			Wiktionary
-Maltese_TURN AROUND	Maltese	malt1254	mlt	TURN AROUND	daːr	dɐːr	d ɐː r	daːr	TURN AROUND			Wiktionary
+Maltese_TURN AROUND	Maltese	malt1254	mlt	TURN AROUND	dar	dɐːr	d ɐː r	daːr	TURN AROUND			Wiktionary
 ModernStandardArabic_FALL	Modern Standard Arabic	stan1318	arb	FALL	saqɑta	saqɑta	s a q ɑ t a	saqɑta	FALL			Wiktionary
 ModernStandardArabic_FALL	Modern Standard Arabic	stan1318	arb	FALL	waqɑʕa	waqɑʕa	w a q ɑ ʕ a	waqɑʕa	FALL			Wiktionary
 NajdiArabic_FALL	Najdi Arabic	najd1235	ars	FALL	ṭɑ̄ħ	tˤɑːħ	tˤ ɑː ħ	ṭɑ̄ħ	FALL			Wiktionary
@@ -2792,7 +2792,7 @@ ChadianArabic_FALL	Chadian Arabic	chad1249	shu	FALL	daffag	daffaɡ	d a f f a ɡ	
 TunisianArabic_FALL	Tunisian Arabic	tuni1259	aeb	FALL	ṭāħ	tˤaːħ	tˤ aː ħ	ṭāħ	FALL			Wiktionary
 MoroccanArabic_FALL	Moroccan Arabic	moro1292	ary	FALL	ṭɑħ	tˤɑħ	tˤ ɑ ħ	ṭɑħ	FALL			Wiktionary
 HassaniyaArabic_FALL	Hassaniya Arabic	hass1238	mey	FALL	ṭɑ̄ħ	tˤɑːħ	tˤ ɑː ħ	ṭɑ̄ħ	FALL			Wiktionary
-Maltese_FALL	Maltese	malt1254	mlt	FALL	ˈwa.ʔa	wɐʔɐ	w ɐ ʔ ɐ	ˈwa.ʔa	FALL			Wiktionary
+Maltese_FALL	Maltese	malt1254	mlt	FALL	waqa'	wɐʔɐ	w ɐ ʔ ɐ	ˈwa.ʔa	FALL			Wiktionary
 ModernStandardArabic_GIVE	Modern Standard Arabic	stan1318	arb	GIVE	ʔaʕṭɑ̄	ʔaʕtˤɑː	ʔ a ʕ tˤ ɑː	ʔaʕṭɑ̄	GIVE			Wiktionary
 NajdiArabic_GIVE	Najdi Arabic	najd1235	ars	GIVE	ʕəṭɑ	ʕətˤɑ	ʕ ə tˤ ɑ	ʕəṭɑ	GIVE			Wiktionary
 GulfArabic_GIVE	Gulf Arabic	gulf1241	afb	GIVE	ʕeṭɑ	ʕɛtˤɑ	ʕ ɛ tˤ ɑ	ʕeṭɑ	GIVE			Wiktionary
@@ -2809,7 +2809,7 @@ TunisianArabic_GIVE	Tunisian Arabic	tuni1259	aeb	GIVE	ʕṭā	ʕtˤaː	ʕ tˤ a�
 MoroccanArabic_GIVE	Moroccan Arabic	moro1292	ary	GIVE	ʕṭɑ	ʕtˤɑ	ʕ tˤ ɑ	ʕṭɑ	GIVE			Wiktionary
 MoroccanArabic_GIVE	Moroccan Arabic	moro1292	ary	GIVE	əddɑ	əddɑ	ə d d ɑ	əddɑ	GIVE			Wiktionary
 HassaniyaArabic_GIVE	Hassaniya Arabic	hass1238	mey	GIVE	ʕṭɑ	ʕtˤɑ	ʕ tˤ ɑ	ʕṭɑ	GIVE			Wiktionary
-Maltese_GIVE	Maltese	malt1254	mlt	GIVE	taː	tɐː	t ɐː	taː	GIVE			Wiktionary
+Maltese_GIVE	Maltese	malt1254	mlt	GIVE	ta	tɐː	t ɐː	taː	GIVE			Wiktionary
 ModernStandardArabic_HOLD	Modern Standard Arabic	stan1318	arb	HOLD	ʔaxaða	ʔaxaða	ʔ a x a ð a	ʔaxaða	HOLD			Wiktionary
 ModernStandardArabic_HOLD	Modern Standard Arabic	stan1318	arb	HOLD	masika	masika	m a s i k a	masika	HOLD			Wiktionary
 NajdiArabic_HOLD	Najdi Arabic	najd1235	ars	HOLD	gabɑð̣	ɡabɑðˤ	ɡ a b ɑ ðˤ	gabɑð̣	HOLD			Wiktionary
@@ -2831,8 +2831,8 @@ TunisianArabic_HOLD	Tunisian Arabic	tuni1259	aeb	HOLD	šad	ʃad	ʃ a d	šad	HOLD
 MoroccanArabic_HOLD	Moroccan Arabic	moro1292	ary	HOLD	rfəd	rfəd	r f ə d	rfəd	HOLD			Wiktionary
 HassaniyaArabic_HOLD	Hassaniya Arabic	hass1238	mey	HOLD	krǝd	krəd	k r ə d	krǝd	HOLD			Wiktionary
 HassaniyaArabic_HOLD	Hassaniya Arabic	hass1238	mey	HOLD	ħkam	ħkam	ħ k a m	ħkam	HOLD			Wiktionary
-Maltese_HOLD	Maltese	malt1254	mlt	HOLD	zamm	zɐmm	z ɐ m m	zamm	HOLD			Wiktionary
-Maltese_HOLD	Maltese	malt1254	mlt	HOLD	ħaː	ħɐː	ħ ɐː	ħaː	HOLD			Wiktionary
+Maltese_HOLD	Maltese	malt1254	mlt	HOLD	żamm	zɐmm	z ɐ m m	zamm	HOLD			Wiktionary
+Maltese_HOLD	Maltese	malt1254	mlt	HOLD	ħa	ħɐː	ħ ɐː	ħaː	HOLD			Wiktionary
 ModernStandardArabic_SQUEEZE	Modern Standard Arabic	stan1318	arb	SQUEEZE	ʕaṣɑrɑ	ʕasˤɑrɑ	ʕ a sˤ ɑ r ɑ	ʕaṣɑrɑ	SQUEEZE			Wiktionary
 ModernStandardArabic_SQUEEZE	Modern Standard Arabic	stan1318	arb	SQUEEZE	ḍɑġaṭɑ	dˤɑɣatˤɑ	dˤ ɑ ɣ a tˤ ɑ	ḍɑġaṭɑ	SQUEEZE			Wiktionary
 GulfArabic_SQUEEZE	Gulf Arabic	gulf1241	afb	SQUEEZE	ʕeṣɑr	ʕɛsˤɑr	ʕ ɛ sˤ ɑ r	ʕeṣɑr	SQUEEZE			Wiktionary
@@ -2851,9 +2851,9 @@ ChadianArabic_SQUEEZE	Chadian Arabic	chad1249	shu	SQUEEZE	hakk	hakk	h a k k	hakk
 TunisianArabic_SQUEEZE	Tunisian Arabic	tuni1259	aeb	SQUEEZE	ʕṣar	ʕsˤar	ʕ sˤ a r	ʕṣar	SQUEEZE			Wiktionary
 MoroccanArabic_SQUEEZE	Moroccan Arabic	moro1292	ary	SQUEEZE	ʕṣɑr	ʕsˤɑr	ʕ sˤ ɑ r	ʕṣɑr	SQUEEZE			Wiktionary
 HassaniyaArabic_SQUEEZE	Hassaniya Arabic	hass1238	mey	SQUEEZE	ʕṣər	ʕsˤər	ʕ sˤ ə r	ʕṣər	SQUEEZE			Wiktionary
-Maltese_SQUEEZE	Maltese	malt1254	mlt	SQUEEZE	ˈaː.fas	ɐːfɐs	ɐː f ɐ s	ˈaː.fas	SQUEEZE			Wiktionary
-Maltese_SQUEEZE	Maltese	malt1254	mlt	SQUEEZE	ras	rɐs	r ɐ s	ras	SQUEEZE			Wiktionary
-Maltese_SQUEEZE	Maltese	malt1254	mlt	SQUEEZE	ˈaː.sar	ɐːsɐr	ɐː s ɐ r	ˈaː.sar	SQUEEZE			Wiktionary
+Maltese_SQUEEZE	Maltese	malt1254	mlt	SQUEEZE	għafas	ɐːfɐs	ɐː f ɐ s	ˈaː.fas	SQUEEZE			Wiktionary
+Maltese_SQUEEZE	Maltese	malt1254	mlt	SQUEEZE	rass	rɐs	r ɐ s	ras	SQUEEZE			Wiktionary
+Maltese_SQUEEZE	Maltese	malt1254	mlt	SQUEEZE	għasar	ɐːsɐr	ɐː s ɐ r	ˈaː.sar	SQUEEZE			Wiktionary
 ModernStandardArabic_RUB	Modern Standard Arabic	stan1318	arb	RUB	ħaffa	ħaffa	ħ a f f a	ħaffa	RUB			Wiktionary
 ModernStandardArabic_RUB	Modern Standard Arabic	stan1318	arb	RUB	faraka	faraka	f a r a k a	faraka	RUB			Wiktionary
 ModernStandardArabic_RUB	Modern Standard Arabic	stan1318	arb	RUB	dalaka	dalaka	d a l a k a	dalaka	RUB			Wiktionary
@@ -2880,7 +2880,7 @@ TunisianArabic_RUB	Tunisian Arabic	tuni1259	aeb	RUB	ħak	ħak	ħ a k	ħak	RUB			
 MoroccanArabic_RUB	Moroccan Arabic	moro1292	ary	RUB	frək	frək	f r ə k	frək	RUB			Wiktionary
 HassaniyaArabic_RUB	Hassaniya Arabic	hass1238	mey	RUB	ħăkk	ħʌkk	ħ ʌ k k	ħăkk	RUB			Wiktionary
 HassaniyaArabic_RUB	Hassaniya Arabic	hass1238	mey	RUB	ʕrăk	ʕrʌk	ʕ r ʌ k	ʕrăk	RUB			Wiktionary
-Maltese_RUB	Maltese	malt1254	mlt	RUB	ˈɔː.rɔk	ɔːrɔk	ɔː r ɔ k	ˈɔː.rɔk	RUB			Wiktionary
+Maltese_RUB	Maltese	malt1254	mlt	RUB	għorok	ɔːrɔk	ɔː r ɔ k	ˈɔː.rɔk	RUB			Wiktionary
 ModernStandardArabic_WASH	Modern Standard Arabic	stan1318	arb	WASH	ġasala	ɣasala	ɣ a s a l a	ġasala	WASH			Wiktionary
 NajdiArabic_WASH	Najdi Arabic	najd1235	ars	WASH	ġasəl	ɣasəl	ɣ a s ə l	ġasəl	WASH			Wiktionary
 GulfArabic_WASH	Gulf Arabic	gulf1241	afb	WASH	ġesal	ɣɛsal	ɣ ɛ s a l	ġesal	WASH			Wiktionary
@@ -2898,7 +2898,7 @@ MoroccanArabic_WASH	Moroccan Arabic	moro1292	ary	WASH	ġsal	ɣsal	ɣ s a l	ġsal
 HassaniyaArabic_WASH	Hassaniya Arabic	hass1238	mey	WASH	ġsǝl	ɣsəl	ɣ s ə l	ġsǝl	WASH			Wiktionary
 HassaniyaArabic_WASH	Hassaniya Arabic	hass1238	mey	WASH	qsǝl	qsəl	q s ə l	qsǝl	WASH			Wiktionary
 HassaniyaArabic_WASH	Hassaniya Arabic	hass1238	mey	WASH	ṣgǝl	sˤɡəl	sˤ ɡ ə l	ṣgǝl	WASH			Wiktionary
-Maltese_WASH	Maltese	malt1254	mlt	WASH	ˈħasɛl	ħɐsɛl	ħ ɐ s ɛ l	ˈħasɛl	WASH			Wiktionary
+Maltese_WASH	Maltese	malt1254	mlt	WASH	ħasel	ħɐsɛl	ħ ɐ s ɛ l	ˈħasɛl	WASH			Wiktionary
 ModernStandardArabic_WIPE	Modern Standard Arabic	stan1318	arb	WIPE	maħā	maħaː	m a ħ aː	maħā	WIPE			Wiktionary
 ModernStandardArabic_WIPE	Modern Standard Arabic	stan1318	arb	WIPE	masaħa	masaħa	m a s a ħ a	masaħa	WIPE			Wiktionary
 GulfArabic_WIPE	Gulf Arabic	gulf1241	afb	WIPE	mašš	maʃʃ	m a ʃ ʃ	mašš	WIPE			Wiktionary
@@ -2938,7 +2938,7 @@ ChadianArabic_PULL	Chadian Arabic	chad1249	shu	PULL	jarr	ʤarr	ʤ a r r	jarr	PUL
 TunisianArabic_PULL	Tunisian Arabic	tuni1259	aeb	PULL	žbid	ʒbid	ʒ b i d	žbid	PULL			Wiktionary
 MoroccanArabic_PULL	Moroccan Arabic	moro1292	ary	PULL	žbad	ʒbad	ʒ b a d	žbad	PULL			Wiktionary
 HassaniyaArabic_PULL	Hassaniya Arabic	hass1238	mey	PULL	ănṭăr	ʌntˤʌr	ʌ n tˤ ʌ r	ănṭăr	PULL			Wiktionary
-Maltese_PULL	Maltese	malt1254	mlt	PULL	ˈd͡ʒɪ.bɛt	ʤɪbɛt	ʤ ɪ b ɛ t	ˈd͡ʒɪ.bɛt	PULL			Wiktionary
+Maltese_PULL	Maltese	malt1254	mlt	PULL	ġibed	ʤɪbɛt	ʤ ɪ b ɛ t	ˈd͡ʒɪ.bɛt	PULL			Wiktionary
 ModernStandardArabic_PUSH	Modern Standard Arabic	stan1318	arb	PUSH	dafaʕa	dafaʕa	d a f a ʕ a	dafaʕa	PUSH			Wiktionary
 NajdiArabic_PUSH	Najdi Arabic	najd1235	ars	PUSH	dazz	dazz	d a z z	dazz	PUSH			Wiktionary
 GulfArabic_PUSH	Gulf Arabic	gulf1241	afb	PUSH	defaʕ	dɛfaʕ	d ɛ f a ʕ	defaʕ	PUSH			Wiktionary
@@ -2996,9 +2996,9 @@ MoroccanArabic_THROW	Moroccan Arabic	moro1292	ary	THROW	laħ	laħ	l a ħ	laħ	TH
 MoroccanArabic_THROW	Moroccan Arabic	moro1292	ary	THROW	siyyəb	sijjəb	s i j j ə b	siyyəb	THROW			Wiktionary
 HassaniyaArabic_THROW	Hassaniya Arabic	hass1238	mey	THROW	lāħ	laːħ	l aː ħ	lāħ	THROW			Wiktionary
 HassaniyaArabic_THROW	Hassaniya Arabic	hass1238	mey	THROW	zrăg	zrʌɡ	z r ʌ ɡ	zrăg	THROW			Wiktionary
-Maltese_THROW	Maltese	malt1254	mlt	THROW	ˈtɛ.fa	tɛfɐ	t ɛ f ɐ	ˈtɛ.fa	THROW			Wiktionary
-Maltese_THROW	Maltese	malt1254	mlt	THROW	ˈʃɛ.ħɛt	ʃɛħɛt	ʃ ɛ ħ ɛ t	ˈʃɛ.ħɛt	THROW			Wiktionary
-Maltese_THROW	Maltese	malt1254	mlt	THROW	ˈrɛ.ma	rɛmɐ	r ɛ m ɐ	ˈrɛ.ma	THROW			Wiktionary
+Maltese_THROW	Maltese	malt1254	mlt	THROW	tefa'	tɛfɐ	t ɛ f ɐ	ˈtɛ.fa	THROW			Wiktionary
+Maltese_THROW	Maltese	malt1254	mlt	THROW	xeħet	ʃɛħɛt	ʃ ɛ ħ ɛ t	ˈʃɛ.ħɛt	THROW			Wiktionary
+Maltese_THROW	Maltese	malt1254	mlt	THROW	rema	rɛmɐ	r ɛ m ɐ	ˈrɛ.ma	THROW			Wiktionary
 ModernStandardArabic_TIE	Modern Standard Arabic	stan1318	arb	TIE	rɑbɑṭɑ	rɑbɑtˤɑ	r ɑ b ɑ tˤ ɑ	rɑbɑṭɑ	TIE			Wiktionary
 NajdiArabic_TIE	Najdi Arabic	najd1235	ars	TIE	rabṭ	rabtˤ	r a b tˤ	rabṭ	TIE			Wiktionary
 GulfArabic_TIE	Gulf Arabic	gulf1241	afb	TIE	ribɑṭ	ribɑtˤ	r i b ɑ tˤ	ribɑṭ	TIE			Wiktionary
@@ -3022,7 +3022,7 @@ MoroccanArabic_TIE	Moroccan Arabic	moro1292	ary	TIE	rbɑṭ	rbɑtˤ	r b ɑ tˤ	r
 MoroccanArabic_TIE	Moroccan Arabic	moro1292	ary	TIE	ʕqɑd	ʕqɑd	ʕ q ɑ d	ʕqɑd	TIE			Wiktionary
 HassaniyaArabic_TIE	Hassaniya Arabic	hass1238	mey	TIE	ħzǝm	ħzəm	ħ z ə m	ħzǝm	TIE			Wiktionary
 HassaniyaArabic_TIE	Hassaniya Arabic	hass1238	mey	TIE	ʕgad	ʕɡad	ʕ ɡ a d	ʕgad	TIE			Wiktionary
-Maltese_TIE	Maltese	malt1254	mlt	TIE	ˈra.bat	rɐbɐt	r ɐ b ɐ t	ˈra.bat	TIE			Wiktionary
+Maltese_TIE	Maltese	malt1254	mlt	TIE	rabat	rɐbɐt	r ɐ b ɐ t	ˈra.bat	TIE			Wiktionary
 ModernStandardArabic_SEW	Modern Standard Arabic	stan1318	arb	SEW	qɑṭɑba	qɑtˤɑba	q ɑ tˤ ɑ b a	qɑṭɑba	SEW			Wiktionary
 ModernStandardArabic_SEW	Modern Standard Arabic	stan1318	arb	SEW	xɑ̄ṭa	xɑːtˤa	x ɑː tˤ a	xɑ̄ṭa	SEW			Wiktionary
 NajdiArabic_SEW	Najdi Arabic	najd1235	ars	SEW	xɑ̄ṭ	xɑːtˤ	x ɑː tˤ	xɑ̄ṭ	SEW			Wiktionary
@@ -3042,7 +3042,7 @@ TunisianArabic_SEW	Tunisian Arabic	tuni1259	aeb	SEW	xɑyyiṭ	xɑjjitˤ	x ɑ j j
 MoroccanArabic_SEW	Moroccan Arabic	moro1292	ary	SEW	xəyyəṭ	xəjjətˤ	x ə j j ə tˤ	xəyyəṭ	SEW			Wiktionary
 HassaniyaArabic_SEW	Hassaniya Arabic	hass1238	mey	SEW	šəll	ʃəll	ʃ ə l l	šəll	SEW			Wiktionary
 HassaniyaArabic_SEW	Hassaniya Arabic	hass1238	mey	SEW	xăyyɑṭ	xʌjjɑtˤ	x ʌ j j ɑ tˤ	xăyyɑṭ	SEW			Wiktionary
-Maltese_SEW	Maltese	malt1254	mlt	SEW	ħɪːt	ħɪːt	ħ ɪː t	ħɪːt	SEW			Wiktionary
+Maltese_SEW	Maltese	malt1254	mlt	SEW	ħiet	ħɪːt	ħ ɪː t	ħɪːt	SEW			Wiktionary
 ModernStandardArabic_COUNT	Modern Standard Arabic	stan1318	arb	COUNT	ʕadda	ʕadda	ʕ a d d a	ʕadda	COUNT			Wiktionary
 ModernStandardArabic_COUNT	Modern Standard Arabic	stan1318	arb	COUNT	ħasiba	ħasiba	ħ a s i b a	ħasiba	COUNT			Wiktionary
 ModernStandardArabic_COUNT	Modern Standard Arabic	stan1318	arb	COUNT	ʔaħṣɑ̄	ʔaħsˤɑː	ʔ a ħ sˤ ɑː	ʔaħṣɑ̄	COUNT			Wiktionary
@@ -3067,7 +3067,7 @@ TunisianArabic_COUNT	Tunisian Arabic	tuni1259	aeb	COUNT	ħsib	ħsib	ħ s i b	ħs
 MoroccanArabic_COUNT	Moroccan Arabic	moro1292	ary	COUNT	ħsəb	ħsəb	ħ s ə b	ħsəb	COUNT			Wiktionary
 HassaniyaArabic_COUNT	Hassaniya Arabic	hass1238	mey	COUNT	ħsǝb	ħsəb	ħ s ə b	ħsǝb	COUNT			Wiktionary
 HassaniyaArabic_COUNT	Hassaniya Arabic	hass1238	mey	COUNT	ʕədd	ʕədd	ʕ ə d d	ʕədd	COUNT			Wiktionary
-Maltese_COUNT	Maltese	malt1254	mlt	COUNT	aːt	ɐːt	ɐː t	aːt	COUNT			Wiktionary
+Maltese_COUNT	Maltese	malt1254	mlt	COUNT	għadd	ɐːt	ɐː t	aːt	COUNT			Wiktionary
 ModernStandardArabic_SAY	Modern Standard Arabic	stan1318	arb	SAY	qɑ̄la	qɑːla	q ɑː l a	qɑ̄la	SAY			Wiktionary
 NajdiArabic_SAY	Najdi Arabic	najd1235	ars	SAY	gāl	ɡaːl	ɡ aː l	gāl	SAY			Wiktionary
 GulfArabic_SAY	Gulf Arabic	gulf1241	afb	SAY	gāl	ɡaːl	ɡ aː l	gāl	SAY			Wiktionary
@@ -3084,7 +3084,7 @@ TunisianArabic_SAY	Tunisian Arabic	tuni1259	aeb	SAY	qāl	qaːl	q aː l	qāl	SAY	
 MoroccanArabic_SAY	Moroccan Arabic	moro1292	ary	SAY	gal	ɡal	ɡ a l	gal	SAY			Wiktionary
 MoroccanArabic_SAY	Moroccan Arabic	moro1292	ary	SAY	duɑ	duɑ	d u ɑ	duɑ	SAY			Wiktionary
 HassaniyaArabic_SAY	Hassaniya Arabic	hass1238	mey	SAY	gāl	ɡaːl	ɡ aː l	gāl	SAY			Wiktionary
-Maltese_SAY	Maltese	malt1254	mlt	SAY	ʔaːl	ʔɐːl	ʔ ɐː l	ʔaːl	SAY			Wiktionary
+Maltese_SAY	Maltese	malt1254	mlt	SAY	qal	ʔɐːl	ʔ ɐː l	ʔaːl	SAY			Wiktionary
 ModernStandardArabic_SING	Modern Standard Arabic	stan1318	arb	SING	ġanna	ɣanna	ɣ a n n a	ġanna	SING			Wiktionary
 ModernStandardArabic_SING	Modern Standard Arabic	stan1318	arb	SING	našada	naʃada	n a ʃ a d a	našada	SING			Wiktionary
 NajdiArabic_SING	Najdi Arabic	najd1235	ars	SING	ġanna	ɣanna	ɣ a n n a	ġanna	SING			Wiktionary
@@ -3105,8 +3105,8 @@ TunisianArabic_SING	Tunisian Arabic	tuni1259	aeb	SING	ġannā	ɣannaː	ɣ a n n 
 MoroccanArabic_SING	Moroccan Arabic	moro1292	ary	SING	ġənnɑ	ɣənnɑ	ɣ ə n n ɑ	ġənnɑ	SING			Wiktionary
 HassaniyaArabic_SING	Hassaniya Arabic	hass1238	mey	SING	ġănna	ɣʌnna	ɣ ʌ n n a	ġănna	SING			Wiktionary
 HassaniyaArabic_SING	Hassaniya Arabic	hass1238	mey	SING	škur	ʃkur	ʃ k u r	škur	SING			Wiktionary
-Maltese_SING	Maltese	malt1254	mlt	SING	ˈaːn.na	ɐːnnɐ	ɐː n n ɐ	ˈaːn.na	SING			Wiktionary
-Maltese_SING	Maltese	malt1254	mlt	SING	ˈkan.ta	kɐntɐ	k ɐ n t ɐ	ˈkan.ta	SING			Wiktionary
+Maltese_SING	Maltese	malt1254	mlt	SING	għanna	ɐːnnɐ	ɐː n n ɐ	ˈaːn.na	SING			Wiktionary
+Maltese_SING	Maltese	malt1254	mlt	SING	kanta	kɐntɐ	k ɐ n t ɐ	ˈkan.ta	SING			Wiktionary
 ModernStandardArabic_PLAY	Modern Standard Arabic	stan1318	arb	PLAY	laʕiba	laʕiba	l a ʕ i b a	laʕiba	PLAY			Wiktionary
 NajdiArabic_PLAY	Najdi Arabic	najd1235	ars	PLAY	leʕeb	lɛʕɛb	l ɛ ʕ ɛ b	leʕeb	PLAY			Wiktionary
 GulfArabic_PLAY	Gulf Arabic	gulf1241	afb	PLAY	leʕab	lɛʕab	l ɛ ʕ a b	leʕab	PLAY			Wiktionary
@@ -3124,7 +3124,7 @@ TunisianArabic_PLAY	Tunisian Arabic	tuni1259	aeb	PLAY	lʕab	lʕab	l ʕ a b	lʕab
 MoroccanArabic_PLAY	Moroccan Arabic	moro1292	ary	PLAY	lʕab	lʕab	l ʕ a b	lʕab	PLAY			Wiktionary
 HassaniyaArabic_PLAY	Hassaniya Arabic	hass1238	mey	PLAY	nzǝl	nzəl	n z ə l	nzǝl	PLAY			Wiktionary
 HassaniyaArabic_PLAY	Hassaniya Arabic	hass1238	mey	PLAY	lʕǝb	lʕəb	l ʕ ə b	lʕǝb	PLAY			Wiktionary
-Maltese_PLAY	Maltese	malt1254	mlt	PLAY	laːp	lɐːp	l ɐː p	laːp	PLAY			Wiktionary
+Maltese_PLAY	Maltese	malt1254	mlt	PLAY	lagħab	lɐːp	l ɐː p	laːp	PLAY			Wiktionary
 ModernStandardArabic_FLOAT	Modern Standard Arabic	stan1318	arb	FLOAT	ṭɑfā	tˤɑfaː	tˤ ɑ f aː	ṭɑfā	FLOAT			Wiktionary
 ModernStandardArabic_FLOAT	Modern Standard Arabic	stan1318	arb	FLOAT	ʕām	ʕaːm	ʕ aː m	ʕām	FLOAT			Wiktionary
 GulfArabic_FLOAT	Gulf Arabic	gulf1241	afb	FLOAT	ṭɑ̄f	tˤɑːf	tˤ ɑː f	ṭɑ̄f	FLOAT			Wiktionary
@@ -3163,7 +3163,7 @@ TunisianArabic_FLOW	Tunisian Arabic	tuni1259	aeb	FLOW	žrā	ʒraː	ʒ r aː	žr�
 MoroccanArabic_FLOW	Moroccan Arabic	moro1292	ary	FLOW	sal	sal	s a l	sal	FLOW			Wiktionary
 MoroccanArabic_FLOW	Moroccan Arabic	moro1292	ary	FLOW	nəbbaʕ	nəbbaʕ	n ə b b a ʕ	nəbbaʕ	FLOW			Wiktionary
 HassaniyaArabic_FLOW	Hassaniya Arabic	hass1238	mey	FLOW	sāl	saːl	s aː l	sāl	FLOW			Wiktionary
-Maltese_FLOW	Maltese	malt1254	mlt	FLOW	ˈd͡ʒɛ.ra	ʤɛrɐ	ʤ ɛ r ɐ	ˈd͡ʒɛ.ra	FLOW			Wiktionary
+Maltese_FLOW	Maltese	malt1254	mlt	FLOW	ġera	ʤɛrɐ	ʤ ɛ r ɐ	ˈd͡ʒɛ.ra	FLOW			Wiktionary
 ModernStandardArabic_FREEZE	Modern Standard Arabic	stan1318	arb	FREEZE	ajlada	aʤlada	a ʤ l a d a	ajlada	FREEZE			Wiktionary
 ModernStandardArabic_FREEZE	Modern Standard Arabic	stan1318	arb	FREEZE	jammada	ʤammada	ʤ a m m a d a	jammada	FREEZE			Wiktionary
 ModernStandardArabic_FREEZE	Modern Standard Arabic	stan1318	arb	FREEZE	θallaja	θallaʤa	θ a l l a ʤ a	θallaja	FREEZE			Wiktionary
@@ -3188,8 +3188,8 @@ MoroccanArabic_FREEZE	Moroccan Arabic	moro1292	ary	FREEZE	žməd	ʒməd	ʒ m ə 
 MoroccanArabic_FREEZE	Moroccan Arabic	moro1292	ary	FREEZE	ttəlləž	ttəlləʒ	t t ə l l ə ʒ	ttəlləž	FREEZE			Wiktionary
 HassaniyaArabic_FREEZE	Hassaniya Arabic	hass1238	mey	FREEZE	glaṣ	ɡlasˤ	ɡ l a sˤ	glaṣ	FREEZE			Wiktionary
 HassaniyaArabic_FREEZE	Hassaniya Arabic	hass1238	mey	FREEZE	žmăd	ʒmʌd	ʒ m ʌ d	žmăd	FREEZE			Wiktionary
-Maltese_FREEZE	Maltese	malt1254	mlt	FREEZE	ˈaː.ʔat	ɐːʔɐt	ɐː ʔ ɐ t	ˈaː.ʔat	FREEZE			Wiktionary
-Maltese_FREEZE	Maltese	malt1254	mlt	FREEZE	ɪnˈd͡ʒat.t͡sa	ɪnʤɐtʦɐ	ɪ n ʤ ɐ t ʦ ɐ	ɪnˈd͡ʒat.t͡sa	FREEZE			Wiktionary
+Maltese_FREEZE	Maltese	malt1254	mlt	FREEZE	għaqad	ɐːʔɐt	ɐː ʔ ɐ t	ˈaː.ʔat	FREEZE			Wiktionary
+Maltese_FREEZE	Maltese	malt1254	mlt	FREEZE	inġazza	ɪnʤɐtʦɐ	ɪ n ʤ ɐ t ʦ ɐ	ɪnˈd͡ʒat.t͡sa	FREEZE			Wiktionary
 ModernStandardArabic_SWELL	Modern Standard Arabic	stan1318	arb	SWELL	intafaxa	intafaxa	i n t a f a x a	intafaxa	SWELL			Wiktionary
 ModernStandardArabic_SWELL	Modern Standard Arabic	stan1318	arb	SWELL	warima	warima	w a r i m a	warima	SWELL			Wiktionary
 GulfArabic_SWELL	Gulf Arabic	gulf1241	afb	SWELL	ntefax	ntɛfax	n t ɛ f a x	ntefax	SWELL			Wiktionary
@@ -3227,7 +3227,7 @@ TunisianArabic_SUN	Tunisian Arabic	tuni1259	aeb	SUN	samš	samʃ	s a m ʃ	samš	S
 TunisianArabic_SUN	Tunisian Arabic	tuni1259	aeb	SUN	šams	ʃams	ʃ a m s	šams	SUN			Wiktionary
 MoroccanArabic_SUN	Moroccan Arabic	moro1292	ary	SUN	šəmš	ʃəmʃ	ʃ ə m ʃ	šəmš	SUN			Wiktionary
 HassaniyaArabic_SUN	Hassaniya Arabic	hass1238	mey	SUN	šams	ʃams	ʃ a m s	šams	SUN			Wiktionary
-Maltese_SUN	Maltese	malt1254	mlt	SUN	ʃɛmʃ	ʃɛmʃ	ʃ ɛ m ʃ	ʃɛmʃ	SUN			Wiktionary
+Maltese_SUN	Maltese	malt1254	mlt	SUN	xemx	ʃɛmʃ	ʃ ɛ m ʃ	ʃɛmʃ	SUN			Wiktionary
 ModernStandardArabic_MOON	Modern Standard Arabic	stan1318	arb	MOON	qɑmɑr	qɑmɑr	q ɑ m ɑ r	qɑmɑr	MOON			Wiktionary
 NajdiArabic_MOON	Najdi Arabic	najd1235	ars	MOON	gumɑr	ɡumɑr	ɡ u m ɑ r	gumɑr	MOON			Wiktionary
 NajdiArabic_MOON	Najdi Arabic	najd1235	ars	MOON	gemar	ɡɛmar	ɡ ɛ m a r	gemar	MOON			Wiktionary
@@ -3246,7 +3246,7 @@ TunisianArabic_MOON	Tunisian Arabic	tuni1259	aeb	MOON	gamra	ɡamra	ɡ a m r a	ga
 MoroccanArabic_MOON	Moroccan Arabic	moro1292	ary	MOON	qəmr	qəmr	q ə m r	qəmr	MOON			Wiktionary
 HassaniyaArabic_MOON	Hassaniya Arabic	hass1238	mey	MOON	qămăṛ	qʌmʌrˤ	q ʌ m ʌ rˤ	qămăṛ	MOON			Wiktionary
 HassaniyaArabic_MOON	Hassaniya Arabic	hass1238	mey	MOON	gamṛa	ɡamrˤa	ɡ a m rˤ a	gamṛa	MOON			Wiktionary
-Maltese_MOON	Maltese	malt1254	mlt	MOON	ˈʔa.mar	ʔɐmɐr	ʔ ɐ m ɐ r	ˈʔa.mar	MOON			Wiktionary
+Maltese_MOON	Maltese	malt1254	mlt	MOON	qamar	ʔɐmɐr	ʔ ɐ m ɐ r	ˈʔa.mar	MOON			Wiktionary
 ModernStandardArabic_STAR	Modern Standard Arabic	stan1318	arb	STAR	najm	naʤm	n a ʤ m	najm	STAR			Wiktionary
 ModernStandardArabic_STAR	Modern Standard Arabic	stan1318	arb	STAR	kawkab	kawkab	k a w k a b	kawkab	STAR			Wiktionary
 NajdiArabic_STAR	Najdi Arabic	najd1235	ars	STAR	najem	naʤɛm	n a ʤ ɛ m	najem	STAR			Wiktionary
@@ -3265,8 +3265,8 @@ ChadianArabic_STAR	Chadian Arabic	chad1249	shu	STAR	nejma	nɛʤma	n ɛ ʤ m a	ne
 TunisianArabic_STAR	Tunisian Arabic	tuni1259	aeb	STAR	nižma	niʒma	n i ʒ m a	nižma	STAR			Wiktionary
 MoroccanArabic_STAR	Moroccan Arabic	moro1292	ary	STAR	nəžmɑ	nəʒmɑ	n ə ʒ m ɑ	nəžmɑ	STAR			Wiktionary
 HassaniyaArabic_STAR	Hassaniya Arabic	hass1238	mey	STAR	năžma	nʌʒma	n ʌ ʒ m a	năžma	STAR			Wiktionary
-Maltese_STAR	Maltese	malt1254	mlt	STAR	ˈkɛw.ba	kɛwbɐ	k ɛ w b ɐ	ˈkɛw.ba	STAR			Wiktionary
-Maltese_STAR	Maltese	malt1254	mlt	STAR	ˈstɪl.la	stɪllɐ	s t ɪ l l ɐ	ˈstɪl.la	STAR			Wiktionary
+Maltese_STAR	Maltese	malt1254	mlt	STAR	kewkba	kɛwbɐ	k ɛ w b ɐ	ˈkɛw.ba	STAR			Wiktionary
+Maltese_STAR	Maltese	malt1254	mlt	STAR	stilla	stɪllɐ	s t ɪ l l ɐ	ˈstɪl.la	STAR			Wiktionary
 ModernStandardArabic_WATER	Modern Standard Arabic	stan1318	arb	WATER	māʔ	maːʔ	m aː ʔ	māʔ	WATER			Wiktionary
 ModernStandardArabic_WATER	Modern Standard Arabic	stan1318	arb	WATER	miyāh	mijaːh	m i j aː h	miyāh	WATER			Wiktionary
 NajdiArabic_WATER	Najdi Arabic	najd1235	ars	WATER	mā	maː	m aː	mā	WATER			Wiktionary
@@ -3287,7 +3287,7 @@ ChadianArabic_WATER	Chadian Arabic	chad1249	shu	WATER	mōya	mɔːja	m ɔː j a	m
 TunisianArabic_WATER	Tunisian Arabic	tuni1259	aeb	WATER	mā	maː	m aː	mā	WATER			Wiktionary
 MoroccanArabic_WATER	Moroccan Arabic	moro1292	ary	WATER	ma	ma	m a	ma	WATER			Wiktionary
 HassaniyaArabic_WATER	Hassaniya Arabic	hass1238	mey	WATER	ălma	ʌlma	ʌ l m a	ălma	WATER			Wiktionary
-Maltese_WATER	Maltese	malt1254	mlt	WATER	ˈɪl.ma	ɪlmɐ	ɪ l m ɐ	ˈɪl.ma	WATER			Wiktionary
+Maltese_WATER	Maltese	malt1254	mlt	WATER	ilma	ɪlmɐ	ɪ l m ɐ	ˈɪl.ma	WATER			Wiktionary
 ModernStandardArabic_RAIN (PRECIPITATION)	Modern Standard Arabic	stan1318	arb	RAIN (PRECIPITATION)	mɑṭɑr	mɑtˤɑr	m ɑ tˤ ɑ r	mɑṭɑr	RAIN (PRECIPITATION)			Wiktionary
 NajdiArabic_RAIN (PRECIPITATION)	Najdi Arabic	najd1235	ars	RAIN (PRECIPITATION)	muṭɑr	mutˤɑr	m u tˤ ɑ r	muṭɑr	RAIN (PRECIPITATION)			Wiktionary
 GulfArabic_RAIN (PRECIPITATION)	Gulf Arabic	gulf1241	afb	RAIN (PRECIPITATION)	muṭɑr	mutˤɑr	m u tˤ ɑ r	muṭɑr	RAIN (PRECIPITATION)			Wiktionary
@@ -3309,7 +3309,7 @@ ChadianArabic_RAIN (PRECIPITATION)	Chadian Arabic	chad1249	shu	RAIN (PRECIPITATI
 TunisianArabic_RAIN (PRECIPITATION)	Tunisian Arabic	tuni1259	aeb	RAIN (PRECIPITATION)	štā	ʃtaː	ʃ t aː	štā	RAIN (PRECIPITATION)			Wiktionary
 MoroccanArabic_RAIN (PRECIPITATION)	Moroccan Arabic	moro1292	ary	RAIN (PRECIPITATION)	štɑ	ʃtɑ	ʃ t ɑ	štɑ	RAIN (PRECIPITATION)			Wiktionary
 HassaniyaArabic_RAIN (PRECIPITATION)	Hassaniya Arabic	hass1238	mey	RAIN (PRECIPITATION)	ăsħāb	ʌsħaːb	ʌ s ħ aː b	ăsħāb	RAIN (PRECIPITATION)			Wiktionary
-Maltese_RAIN (PRECIPITATION)	Maltese	malt1254	mlt	RAIN (PRECIPITATION)	ˈʃɪ.ta	ʃɪtɐ	ʃ ɪ t ɐ	ˈʃɪ.ta	RAIN (PRECIPITATION)			Wiktionary
+Maltese_RAIN (PRECIPITATION)	Maltese	malt1254	mlt	RAIN (PRECIPITATION)	xita	ʃɪtɐ	ʃ ɪ t ɐ	ˈʃɪ.ta	RAIN (PRECIPITATION)			Wiktionary
 ModernStandardArabic_RIVER	Modern Standard Arabic	stan1318	arb	RIVER	nahr	nahr	n a h r	nahr	RIVER			Wiktionary
 NajdiArabic_RIVER	Najdi Arabic	najd1235	ars	RIVER	šɑṭṭ	ʃɑtˤtˤ	ʃ ɑ tˤ tˤ	šɑṭṭ	RIVER			Wiktionary
 GulfArabic_RIVER	Gulf Arabic	gulf1241	afb	RIVER	nɑhɑr	nɑhɑr	n ɑ h ɑ r	nɑhɑr	RIVER			Wiktionary
@@ -3331,7 +3331,7 @@ TunisianArabic_RIVER	Tunisian Arabic	tuni1259	aeb	RIVER	wād	waːd	w aː d	wād	
 MoroccanArabic_RIVER	Moroccan Arabic	moro1292	ary	RIVER	wad	wad	w a d	wad	RIVER			Wiktionary
 HassaniyaArabic_RIVER	Hassaniya Arabic	hass1238	mey	RIVER	bħɑr	bħɑr	b ħ ɑ r	bħɑr	RIVER			Wiktionary
 HassaniyaArabic_RIVER	Hassaniya Arabic	hass1238	mey	RIVER	năhăr	nʌhʌr	n ʌ h ʌ r	năhăr	RIVER			Wiktionary
-Maltese_RIVER	Maltese	malt1254	mlt	RIVER	ˈʃmaːra	ʃmɐːrɐ	ʃ m ɐː r ɐ	ˈʃmaːra	RIVER			Wiktionary
+Maltese_RIVER	Maltese	malt1254	mlt	RIVER	xmara	ʃmɐːrɐ	ʃ m ɐː r ɐ	ˈʃmaːra	RIVER			Wiktionary
 ModernStandardArabic_LAKE	Modern Standard Arabic	stan1318	arb	LAKE	buħayra	buħajra	b u ħ a j r a	buħayra	LAKE			Wiktionary
 ModernStandardArabic_LAKE	Modern Standard Arabic	stan1318	arb	LAKE	birka	birka	b i r k a	birka	LAKE			Wiktionary
 ModernStandardArabic_LAKE	Modern Standard Arabic	stan1318	arb	LAKE	ġadīr	ɣadiːr	ɣ a d iː r	ġadīr	LAKE			Wiktionary
@@ -3353,7 +3353,7 @@ ChadianArabic_LAKE	Chadian Arabic	chad1249	shu	LAKE	bahar	bahar	b a h a r	bahar	
 TunisianArabic_LAKE	Tunisian Arabic	tuni1259	aeb	LAKE	sabxa	sabxa	s a b x a	sabxa	LAKE			Wiktionary
 MoroccanArabic_LAKE	Moroccan Arabic	moro1292	ary	LAKE	ḍayɑ	dˤajɑ	dˤ a j ɑ	ḍayɑ	LAKE			Wiktionary
 HassaniyaArabic_LAKE	Hassaniya Arabic	hass1238	mey	LAKE	bħayrɑ	bħajrɑ	b ħ a j r ɑ	bħayrɑ	LAKE			Wiktionary
-Maltese_LAKE	Maltese	malt1254	mlt	LAKE	aˈdiː.ra	ɐdiːrɐ	ɐ d iː r ɐ	aˈdiː.ra	LAKE			Wiktionary
+Maltese_LAKE	Maltese	malt1254	mlt	LAKE	għadira	ɐdiːrɐ	ɐ d iː r ɐ	aˈdiː.ra	LAKE			Wiktionary
 ModernStandardArabic_SEA	Modern Standard Arabic	stan1318	arb	SEA	yamm	jamm	j a m m	yamm	SEA			Wiktionary
 ModernStandardArabic_SEA	Modern Standard Arabic	stan1318	arb	SEA	baħr	baħr	b a ħ r	baħr	SEA			Wiktionary
 NajdiArabic_SEA	Najdi Arabic	najd1235	ars	SEA	baħar	baħar	b a ħ a r	baħar	SEA			Wiktionary
@@ -3373,7 +3373,7 @@ ChadianArabic_SEA	Chadian Arabic	chad1249	shu	SEA	bahar el māleh	bahar ɛl maː
 TunisianArabic_SEA	Tunisian Arabic	tuni1259	aeb	SEA	bħar	bħar	b ħ a r	bħar	SEA			Wiktionary
 MoroccanArabic_SEA	Moroccan Arabic	moro1292	ary	SEA	bħɑr	bħɑr	b ħ ɑ r	bħɑr	SEA			Wiktionary
 HassaniyaArabic_SEA	Hassaniya Arabic	hass1238	mey	SEA	bħɑr	bħɑr	b ħ ɑ r	bħɑr	SEA			Wiktionary
-Maltese_SEA	Maltese	malt1254	mlt	SEA	ˈba.ħar	bɐħɐr	b ɐ ħ ɐ r	ˈba.ħar	SEA			Wiktionary
+Maltese_SEA	Maltese	malt1254	mlt	SEA	baħar	bɐħɐr	b ɐ ħ ɐ r	ˈba.ħar	SEA			Wiktionary
 ModernStandardArabic_SALT	Modern Standard Arabic	stan1318	arb	SALT	milħ	milħ	m i l ħ	milħ	SALT			Wiktionary
 NajdiArabic_SALT	Najdi Arabic	najd1235	ars	SALT	melħ	mɛlħ	m ɛ l ħ	melħ	SALT			Wiktionary
 GulfArabic_SALT	Gulf Arabic	gulf1241	afb	SALT	melħ	mɛlħ	m ɛ l ħ	melħ	SALT			Wiktionary
@@ -3389,7 +3389,7 @@ ChadianArabic_SALT	Chadian Arabic	chad1249	shu	SALT	melh	mɛlh	m ɛ l h	melh	SAL
 TunisianArabic_SALT	Tunisian Arabic	tuni1259	aeb	SALT	milħ	milħ	m i l ħ	milħ	SALT			Wiktionary
 MoroccanArabic_SALT	Moroccan Arabic	moro1292	ary	SALT	məlħ	məlħ	m ə l ħ	məlħ	SALT			Wiktionary
 HassaniyaArabic_SALT	Hassaniya Arabic	hass1238	mey	SALT	məlħ	məlħ	m ə l ħ	məlħ	SALT			Wiktionary
-Maltese_SALT	Maltese	malt1254	mlt	SALT	mɛlħ	mɛlħ	m ɛ l ħ	mɛlħ	SALT			Wiktionary
+Maltese_SALT	Maltese	malt1254	mlt	SALT	melħ	mɛlħ	m ɛ l ħ	mɛlħ	SALT			Wiktionary
 ModernStandardArabic_STONE	Modern Standard Arabic	stan1318	arb	STONE	ħajɑrɑ	ħaʤɑrɑ	ħ a ʤ ɑ r ɑ	ħajɑrɑ	STONE			Wiktionary
 ModernStandardArabic_STONE	Modern Standard Arabic	stan1318	arb	STONE	ṣɑxɑr	sˤɑxɑr	sˤ ɑ x ɑ r	ṣɑxɑr	STONE			Wiktionary
 NajdiArabic_STONE	Najdi Arabic	najd1235	ars	STONE	ħajɑr	ħaʤɑr	ħ a ʤ ɑ r	ħajɑr	STONE			Wiktionary
@@ -3415,8 +3415,8 @@ TunisianArabic_STONE	Tunisian Arabic	tuni1259	aeb	STONE	ħɑžrɑ	ħɑʒrɑ	ħ �
 MoroccanArabic_STONE	Moroccan Arabic	moro1292	ary	STONE	ħəžra	ħəʒra	ħ ə ʒ r a	ħəžra	STONE			Wiktionary
 MoroccanArabic_STONE	Moroccan Arabic	moro1292	ary	STONE	kurd	kurd	k u r d	kurd	STONE			Wiktionary
 HassaniyaArabic_STONE	Hassaniya Arabic	hass1238	mey	STONE	ħăžra	ħʌʒra	ħ ʌ ʒ r a	ħăžra	STONE			Wiktionary
-Maltese_STONE	Maltese	malt1254	mlt	STONE	ˈd͡ʒɛb.la	ʤɛblɐ	ʤ ɛ b l ɐ	ˈd͡ʒɛb.la	STONE			Wiktionary
-Maltese_STONE	Maltese	malt1254	mlt	STONE	ˈħad͡ʒra	ħɐʤrɐ	ħ ɐ ʤ r ɐ	ˈħad͡ʒra	STONE			Wiktionary
+Maltese_STONE	Maltese	malt1254	mlt	STONE	ġebla	ʤɛblɐ	ʤ ɛ b l ɐ	ˈd͡ʒɛb.la	STONE			Wiktionary
+Maltese_STONE	Maltese	malt1254	mlt	STONE	ħaġra	ħɐʤrɐ	ħ ɐ ʤ r ɐ	ˈħad͡ʒra	STONE			Wiktionary
 ModernStandardArabic_SAND	Modern Standard Arabic	stan1318	arb	SAND	raml	raml	r a m l	raml	SAND			Wiktionary
 NajdiArabic_SAND	Najdi Arabic	najd1235	ars	SAND	ṛɑməl	rˤɑməl	rˤ ɑ m ə l	ṛɑməl	SAND			Wiktionary
 GulfArabic_SAND	Gulf Arabic	gulf1241	afb	SAND	ṛɑmel	rˤɑmɛl	rˤ ɑ m ɛ l	ṛɑmel	SAND			Wiktionary
@@ -3434,7 +3434,7 @@ TunisianArabic_SAND	Tunisian Arabic	tuni1259	aeb	SAND	rmal	rmal	r m a l	rmal	SAN
 MoroccanArabic_SAND	Moroccan Arabic	moro1292	ary	SAND	rəmlɑ	rəmlɑ	r ə m l ɑ	rəmlɑ	SAND			Wiktionary
 HassaniyaArabic_SAND	Hassaniya Arabic	hass1238	mey	SAND	trāb	traːb	t r aː b	trāb	SAND			Wiktionary
 HassaniyaArabic_SAND	Hassaniya Arabic	hass1238	mey	SAND	ləħaṣ	ləħasˤ	l ə ħ a sˤ	ləħaṣ	SAND			Wiktionary
-Maltese_SAND	Maltese	malt1254	mlt	SAND	ˈramɛl	rɐmɛl	r ɐ m ɛ l	ˈramɛl	SAND			Wiktionary
+Maltese_SAND	Maltese	malt1254	mlt	SAND	ramel	rɐmɛl	r ɐ m ɛ l	ˈramɛl	SAND			Wiktionary
 ModernStandardArabic_DUST	Modern Standard Arabic	stan1318	arb	DUST	ġubɑ̄r	ɣubɑːr	ɣ u b ɑː r	ġubɑ̄r	DUST			Wiktionary
 ModernStandardArabic_DUST	Modern Standard Arabic	stan1318	arb	DUST	turɑ̄b	turɑːb	t u r ɑː b	turɑ̄b	DUST			Wiktionary
 NajdiArabic_DUST	Najdi Arabic	najd1235	ars	DUST	ʕɑjɑ̄j	ʕɑʤɑːʤ	ʕ ɑ ʤ ɑː ʤ	ʕɑjɑ̄j	DUST			Wiktionary
@@ -3462,8 +3462,8 @@ TunisianArabic_DUST	Tunisian Arabic	tuni1259	aeb	DUST	ġabra	ɣabra	ɣ a b r a	�
 MoroccanArabic_DUST	Moroccan Arabic	moro1292	ary	DUST	ġobrɑ	ɣɔbrɑ	ɣ ɔ b r ɑ	ġobrɑ	DUST			Wiktionary
 HassaniyaArabic_DUST	Hassaniya Arabic	hass1238	mey	DUST	qăbṛa	qʌbrˤa	q ʌ b rˤ a	qăbṛa	DUST			Wiktionary
 HassaniyaArabic_DUST	Hassaniya Arabic	hass1238	mey	DUST	ġabṛa	ɣabrˤa	ɣ a b rˤ a	ġabṛa	DUST			Wiktionary
-Maltese_DUST	Maltese	malt1254	mlt	DUST	traːp	trɐːp	t r ɐː p	traːp	DUST			Wiktionary
-Maltese_DUST	Maltese	malt1254	mlt	DUST	ˈaːb.ra	ɐːbrɐ	ɐː b r ɐ	ˈaːb.ra	DUST			Wiktionary
+Maltese_DUST	Maltese	malt1254	mlt	DUST	trab	trɐːp	t r ɐː p	traːp	DUST			Wiktionary
+Maltese_DUST	Maltese	malt1254	mlt	DUST	għabra	ɐːbrɐ	ɐː b r ɐ	ˈaːb.ra	DUST			Wiktionary
 ModernStandardArabic_EARTH (SOIL)	Modern Standard Arabic	stan1318	arb	EARTH (SOIL)	ʔarḍ	ʔardˤ	ʔ a r dˤ	ʔarḍ	EARTH (SOIL)			Wiktionary
 ModernStandardArabic_EARTH (SOIL)	Modern Standard Arabic	stan1318	arb	EARTH (SOIL)	θarɑ̄	θarɑː	θ a r ɑː	θarɑ̄	EARTH (SOIL)			Wiktionary
 ModernStandardArabic_EARTH (SOIL)	Modern Standard Arabic	stan1318	arb	EARTH (SOIL)	ṭīn	tˤiːn	tˤ iː n	ṭīn	EARTH (SOIL)			Wiktionary
@@ -3495,7 +3495,7 @@ MoroccanArabic_EARTH (SOIL)	Moroccan Arabic	moro1292	ary	EARTH (SOIL)	arəḍ	ar
 HassaniyaArabic_EARTH (SOIL)	Hassaniya Arabic	hass1238	mey	EARTH (SOIL)	ătrāb	ʌtraːb	ʌ t r aː b	ătrāb	EARTH (SOIL)			Wiktionary
 HassaniyaArabic_EARTH (SOIL)	Hassaniya Arabic	hass1238	mey	EARTH (SOIL)	ṭīn	tˤiːn	tˤ iː n	ṭīn	EARTH (SOIL)			Wiktionary
 Maltese_EARTH (SOIL)	Maltese	malt1254	mlt	EARTH (SOIL)	art	ɐrt	ɐ r t	art	EARTH (SOIL)			Wiktionary
-Maltese_EARTH (SOIL)	Maltese	malt1254	mlt	EARTH (SOIL)	ħamˈriːja	ħɐmriːjɐ	ħ ɐ m r iː j ɐ	ħamˈriːja	EARTH (SOIL)			Wiktionary
+Maltese_EARTH (SOIL)	Maltese	malt1254	mlt	EARTH (SOIL)	ħamrija	ħɐmriːjɐ	ħ ɐ m r iː j ɐ	ħamˈriːja	EARTH (SOIL)			Wiktionary
 ModernStandardArabic_CLOUD	Modern Standard Arabic	stan1318	arb	CLOUD	saħāba	saħaːba	s a ħ aː b a	saħāba	CLOUD			Wiktionary
 ModernStandardArabic_CLOUD	Modern Standard Arabic	stan1318	arb	CLOUD	ġamāma	ɣamaːma	ɣ a m aː m a	ġamāma	CLOUD			Wiktionary
 ModernStandardArabic_CLOUD	Modern Standard Arabic	stan1318	arb	CLOUD	ġɑym	ɣɑjm	ɣ ɑ j m	ġɑym	CLOUD			Wiktionary
@@ -3522,7 +3522,7 @@ MoroccanArabic_CLOUD	Moroccan Arabic	moro1292	ary	CLOUD	sħaba	sħaba	s ħ a b a
 MoroccanArabic_CLOUD	Moroccan Arabic	moro1292	ary	CLOUD	ġmama	ɣmama	ɣ m a m a	ġmama	CLOUD			Wiktionary
 HassaniyaArabic_CLOUD	Hassaniya Arabic	hass1238	mey	CLOUD	məzna	məzna	m ə z n a	məzna	CLOUD			Wiktionary
 HassaniyaArabic_CLOUD	Hassaniya Arabic	hass1238	mey	CLOUD	noww	nɔww	n ɔ w w	noww	CLOUD			Wiktionary
-Maltese_CLOUD	Maltese	malt1254	mlt	CLOUD	ˈsħaːba	sħɐːbɐ	s ħ ɐː b ɐ	ˈsħaːba	CLOUD			Wiktionary
+Maltese_CLOUD	Maltese	malt1254	mlt	CLOUD	sħaba	sħɐːbɐ	s ħ ɐː b ɐ	ˈsħaːba	CLOUD			Wiktionary
 ModernStandardArabic_FOG	Modern Standard Arabic	stan1318	arb	FOG	ḍɑbāb	dˤɑbaːb	dˤ ɑ b aː b	ḍɑbāb	FOG			Wiktionary
 NajdiArabic_FOG	Najdi Arabic	najd1235	ars	FOG	ġammah	ɣammah	ɣ a m m a h	ġammah	FOG			Wiktionary
 NajdiArabic_FOG	Najdi Arabic	najd1235	ars	FOG	ð̣ɑbāb	ðˤɑbaːb	ðˤ ɑ b aː b	ð̣ɑbāb	FOG			Wiktionary
@@ -3545,7 +3545,7 @@ TunisianArabic_FOG	Tunisian Arabic	tuni1259	aeb	FOG	ḍbāb	dˤbaːb	dˤ b aː b
 MoroccanArabic_FOG	Moroccan Arabic	moro1292	ary	FOG	ḍbab	dˤbab	dˤ b a b	ḍbab	FOG			Wiktionary
 HassaniyaArabic_FOG	Hassaniya Arabic	hass1238	mey	FOG	teleṃayt	tɛlɛmˤajt	t ɛ l ɛ mˤ a j t	teleṃayt	FOG			Wiktionary
 HassaniyaArabic_FOG	Hassaniya Arabic	hass1238	mey	FOG	ġmām	ɣmaːm	ɣ m aː m	ġmām	FOG			Wiktionary
-Maltese_FOG	Maltese	malt1254	mlt	FOG	t͡ʃpaːr	ʧpɐːr	ʧ p ɐː r	t͡ʃpaːr	FOG			Wiktionary
+Maltese_FOG	Maltese	malt1254	mlt	FOG	ċpar	ʧpɐːr	ʧ p ɐː r	t͡ʃpaːr	FOG			Wiktionary
 ModernStandardArabic_SKY	Modern Standard Arabic	stan1318	arb	SKY	samāʔ	samaːʔ	s a m aː ʔ	samāʔ	SKY			Wiktionary
 NajdiArabic_SKY	Najdi Arabic	najd1235	ars	SKY	sema	sɛma	s ɛ m a	sema	SKY			Wiktionary
 GulfArabic_SKY	Gulf Arabic	gulf1241	afb	SKY	sama	sama	s a m a	sama	SKY			Wiktionary
@@ -3564,7 +3564,7 @@ ChadianArabic_SKY	Chadian Arabic	chad1249	shu	SKY	sama	sama	s a m a	sama	SKY			W
 TunisianArabic_SKY	Tunisian Arabic	tuni1259	aeb	SKY	smā	smaː	s m aː	smā	SKY			Wiktionary
 MoroccanArabic_SKY	Moroccan Arabic	moro1292	ary	SKY	smɑ	smɑ	s m ɑ	smɑ	SKY			Wiktionary
 HassaniyaArabic_SKY	Hassaniya Arabic	hass1238	mey	SKY	sma	sma	s m a	sma	SKY			Wiktionary
-Maltese_SKY	Maltese	malt1254	mlt	SKY	ˈsɛ.ma	sɛmɐ	s ɛ m ɐ	ˈsɛ.ma	SKY			Wiktionary
+Maltese_SKY	Maltese	malt1254	mlt	SKY	sema	sɛmɐ	s ɛ m ɐ	ˈsɛ.ma	SKY			Wiktionary
 ModernStandardArabic_WIND	Modern Standard Arabic	stan1318	arb	WIND	rīħ	riːħ	r iː ħ	rīħ	WIND			Wiktionary
 ModernStandardArabic_WIND	Modern Standard Arabic	stan1318	arb	WIND	hawāʔ	hawaːʔ	h a w aː ʔ	hawāʔ	WIND			Wiktionary
 NajdiArabic_WIND	Najdi Arabic	najd1235	ars	WIND	rīħ	riːħ	r iː ħ	rīħ	WIND			Wiktionary
@@ -3588,7 +3588,7 @@ TunisianArabic_WIND	Tunisian Arabic	tuni1259	aeb	WIND	rīḥ	riːħ	r iː ħ	rī
 MoroccanArabic_WIND	Moroccan Arabic	moro1292	ary	WIND	riħ	riħ	r i ħ	riħ	WIND			Wiktionary
 HassaniyaArabic_WIND	Hassaniya Arabic	hass1238	mey	WIND	rīħ	riːħ	r iː ħ	rīħ	WIND			Wiktionary
 HassaniyaArabic_WIND	Hassaniya Arabic	hass1238	mey	WIND	aryāħ	arjaːħ	a r j aː ħ	aryāħ	WIND			Wiktionary
-Maltese_WIND	Maltese	malt1254	mlt	WIND	rɪːħ	rɪːħ	r ɪː ħ	rɪːħ	WIND			Wiktionary
+Maltese_WIND	Maltese	malt1254	mlt	WIND	riħ	rɪːħ	r ɪː ħ	rɪːħ	WIND			Wiktionary
 ModernStandardArabic_SNOW	Modern Standard Arabic	stan1318	arb	SNOW	θalj	θalʤ	θ a l ʤ	θalj	SNOW			Wiktionary
 GulfArabic_SNOW	Gulf Arabic	gulf1241	afb	SNOW	θalj	θalʤ	θ a l ʤ	θalj	SNOW			Wiktionary
 LevantineArabic_SNOW	Levantine Arabic	nort3139	apc	SNOW	talž	talʒ	t a l ʒ	talž	SNOW			Wiktionary
@@ -3602,7 +3602,7 @@ ChadianArabic_SNOW	Chadian Arabic	chad1249	shu	SNOW	talj	talʤ	t a l ʤ	talj	SNO
 TunisianArabic_SNOW	Tunisian Arabic	tuni1259	aeb	SNOW	θilž	θilʒ	θ i l ʒ	θilž	SNOW			Wiktionary
 MoroccanArabic_SNOW	Moroccan Arabic	moro1292	ary	SNOW	təlž	təlʒ	t ə l ʒ	təlž	SNOW			Wiktionary
 HassaniyaArabic_SNOW	Hassaniya Arabic	hass1238	mey	SNOW	glāṣ	ɡlaːsˤ	ɡ l aː sˤ	glāṣ	SNOW			Wiktionary
-Maltese_SNOW	Maltese	malt1254	mlt	SNOW	ˈbɔr.rɐ	bɔrrɐ	b ɔ r r ɐ	ˈbɔr.rɐ	SNOW			Wiktionary
+Maltese_SNOW	Maltese	malt1254	mlt	SNOW	borra	bɔrrɐ	b ɔ r r ɐ	ˈbɔr.rɐ	SNOW			Wiktionary
 ModernStandardArabic_ICE	Modern Standard Arabic	stan1318	arb	ICE	jalīd	ʤaliːd	ʤ a l iː d	jalīd	ICE			Wiktionary
 ModernStandardArabic_ICE	Modern Standard Arabic	stan1318	arb	ICE	θalj	θalʤ	θ a l ʤ	θalj	ICE			Wiktionary
 NajdiArabic_ICE	Najdi Arabic	najd1235	ars	ICE	θalj	θalʤ	θ a l ʤ	θalj	ICE			Wiktionary
@@ -3623,7 +3623,7 @@ ChadianArabic_ICE	Chadian Arabic	chad1249	shu	ICE	alme jamad	almɛ ʤamad	a l m 
 TunisianArabic_ICE	Tunisian Arabic	tuni1259	aeb	ICE	θilž	θilʒ	θ i l ʒ	θilž	ICE			Wiktionary
 MoroccanArabic_ICE	Moroccan Arabic	moro1292	ary	ICE	təlž	təlʒ	t ə l ʒ	təlž	ICE			Wiktionary
 HassaniyaArabic_ICE	Hassaniya Arabic	hass1238	mey	ICE	glāṣ	ɡlaːsˤ	ɡ l aː sˤ	glāṣ	ICE			Wiktionary
-Maltese_ICE	Maltese	malt1254	mlt	ICE	sɪlt͡ʃ	sɪlʧ	s ɪ l ʧ	sɪlt͡ʃ	ICE			Wiktionary
+Maltese_ICE	Maltese	malt1254	mlt	ICE	silġ	sɪlʧ	s ɪ l ʧ	sɪlt͡ʃ	ICE			Wiktionary
 ModernStandardArabic_SMOKE (EXHAUST)	Modern Standard Arabic	stan1318	arb	SMOKE (EXHAUST)	duxxān	duxxaːn	d u x x aː n	duxxān	SMOKE (EXHAUST)			Wiktionary
 NajdiArabic_SMOKE (EXHAUST)	Najdi Arabic	najd1235	ars	SMOKE (EXHAUST)	dəxxɑ̄n	dəxxɑːn	d ə x x ɑː n	dəxxɑ̄n	SMOKE (EXHAUST)			Wiktionary
 GulfArabic_SMOKE (EXHAUST)	Gulf Arabic	gulf1241	afb	SMOKE (EXHAUST)	dexxɑ̄n	dɛxxɑːn	d ɛ x x ɑː n	dexxɑ̄n	SMOKE (EXHAUST)			Wiktionary
@@ -3641,7 +3641,7 @@ ChadianArabic_SMOKE (EXHAUST)	Chadian Arabic	chad1249	shu	SMOKE (EXHAUST)	duxxā
 TunisianArabic_SMOKE (EXHAUST)	Tunisian Arabic	tuni1259	aeb	SMOKE (EXHAUST)	duxxān	duxxaːn	d u x x aː n	duxxān	SMOKE (EXHAUST)			Wiktionary
 MoroccanArabic_SMOKE (EXHAUST)	Moroccan Arabic	moro1292	ary	SMOKE (EXHAUST)	duxxan	duxxan	d u x x a n	duxxan	SMOKE (EXHAUST)			Wiktionary
 HassaniyaArabic_SMOKE (EXHAUST)	Hassaniya Arabic	hass1238	mey	SMOKE (EXHAUST)	dəxxān	dəxxaːn	d ə x x aː n	dəxxān	SMOKE (EXHAUST)			Wiktionary
-Maltese_SMOKE (EXHAUST)	Maltese	malt1254	mlt	SMOKE (EXHAUST)	duħˈħaːn	dʊħħɐːn	d ʊ ħ ħ ɐː n	duħˈħaːn	SMOKE (EXHAUST)			Wiktionary
+Maltese_SMOKE (EXHAUST)	Maltese	malt1254	mlt	SMOKE (EXHAUST)	duħħan	dʊħħɐːn	d ʊ ħ ħ ɐː n	duħˈħaːn	SMOKE (EXHAUST)			Wiktionary
 ModernStandardArabic_FIRE	Modern Standard Arabic	stan1318	arb	FIRE	nār	naːr	n aː r	nār	FIRE			Wiktionary
 ModernStandardArabic_FIRE	Modern Standard Arabic	stan1318	arb	FIRE	ħarīq	ħariːq	ħ a r iː q	ħarīq	FIRE			Wiktionary
 NajdiArabic_FIRE	Najdi Arabic	najd1235	ars	FIRE	ð̣ɑẉ	ðˤɑwˤ	ðˤ ɑ wˤ	ð̣ɑẉ	FIRE			Wiktionary
@@ -3671,7 +3671,7 @@ TunisianArabic_FIRE	Tunisian Arabic	tuni1259	aeb	FIRE	nɑ̄r	nɑːr	n ɑː r	nɑ
 MoroccanArabic_FIRE	Moroccan Arabic	moro1292	ary	FIRE	ʕafyɑ	ʕafjɑ	ʕ a f j ɑ	ʕafyɑ	FIRE			Wiktionary
 MoroccanArabic_FIRE	Moroccan Arabic	moro1292	ary	FIRE	ħriqɑ	ħriqɑ	ħ r i q ɑ	ħriqɑ	FIRE			Wiktionary
 HassaniyaArabic_FIRE	Hassaniya Arabic	hass1238	mey	FIRE	nɑ̄r	nɑːr	n ɑː r	nɑ̄r	FIRE			Wiktionary
-Maltese_FIRE	Maltese	malt1254	mlt	FIRE	naːr	nɐːr	n ɐː r	naːr	FIRE			Wiktionary
+Maltese_FIRE	Maltese	malt1254	mlt	FIRE	nar	nɐːr	n ɐː r	naːr	FIRE			Wiktionary
 ModernStandardArabic_ASH	Modern Standard Arabic	stan1318	arb	ASH	rɑmād	rɑmaːd	r ɑ m aː d	rɑmād	ASH			Wiktionary
 NajdiArabic_ASH	Najdi Arabic	najd1235	ars	ASH	remɑ̄d	rɛmɑːd	r ɛ m ɑː d	remɑ̄d	ASH			Wiktionary
 GulfArabic_ASH	Gulf Arabic	gulf1241	afb	ASH	rmɑ̄d	rmɑːd	r m ɑː d	rmɑ̄d	ASH			Wiktionary
@@ -3687,7 +3687,7 @@ ChadianArabic_ASH	Chadian Arabic	chad1249	shu	ASH	rumād	rumaːd	r u m aː d	rum
 TunisianArabic_ASH	Tunisian Arabic	tuni1259	aeb	ASH	rmād	rmaːd	r m aː d	rmād	ASH			Wiktionary
 MoroccanArabic_ASH	Moroccan Arabic	moro1292	ary	ASH	rmɑḍ	rmɑdˤ	r m ɑ dˤ	rmɑḍ	ASH			Wiktionary
 HassaniyaArabic_ASH	Hassaniya Arabic	hass1238	mey	ASH	rmɑ̄d	rmɑːd	r m ɑː d	rmɑ̄d	ASH			Wiktionary
-Maltese_ASH	Maltese	malt1254	mlt	ASH	rˈmɪːt	rmɪːt	r m ɪː t	rˈmɪːt	ASH			Wiktionary
+Maltese_ASH	Maltese	malt1254	mlt	ASH	rmied	rmɪːt	r m ɪː t	rˈmɪːt	ASH			Wiktionary
 ModernStandardArabic_BURNING	Modern Standard Arabic	stan1318	arb	BURNING	šaʕala	ʃaʕala	ʃ a ʕ a l a	šaʕala	BURNING			Wiktionary
 ModernStandardArabic_BURNING	Modern Standard Arabic	stan1318	arb	BURNING	ħarɑqa	ħarɑqa	ħ a r ɑ q a	ħarɑqa	BURNING			Wiktionary
 NajdiArabic_BURNING	Najdi Arabic	najd1235	ars	BURNING	ənħarag	ənħaraɡ	ə n ħ a r a ɡ	ənħarag	BURNING			Wiktionary
@@ -3709,7 +3709,7 @@ TunisianArabic_BURNING	Tunisian Arabic	tuni1259	aeb	BURNING	ħraq	ħraq	ħ r a q
 MoroccanArabic_BURNING	Moroccan Arabic	moro1292	ary	BURNING	ħrəq	ħrəq	ħ r ə q	ħrəq	BURNING			Wiktionary
 HassaniyaArabic_BURNING	Hassaniya Arabic	hass1238	mey	BURNING	ħrăg	ħrʌɡ	ħ r ʌ ɡ	ħrăg	BURNING			Wiktionary
 HassaniyaArabic_BURNING	Hassaniya Arabic	hass1238	mey	BURNING	ħma	ħma	ħ m a	ħma	BURNING			Wiktionary
-Maltese_BURNING	Maltese	malt1254	mlt	BURNING	ˈħaraʔ	ħɐrɐʔ	ħ ɐ r ɐ ʔ	ˈħaraʔ	BURNING			Wiktionary
+Maltese_BURNING	Maltese	malt1254	mlt	BURNING	ħaraq	ħɐrɐʔ	ħ ɐ r ɐ ʔ	ˈħaraʔ	BURNING			Wiktionary
 ModernStandardArabic_ROAD	Modern Standard Arabic	stan1318	arb	ROAD	ṭɑrīq	tˤɑriːq	tˤ ɑ r iː q	ṭɑrīq	ROAD			Wiktionary
 ModernStandardArabic_ROAD	Modern Standard Arabic	stan1318	arb	ROAD	darb	darb	d a r b	darb	ROAD			Wiktionary
 NajdiArabic_ROAD	Najdi Arabic	najd1235	ars	ROAD	darəb	darəb	d a r ə b	darəb	ROAD			Wiktionary
@@ -3736,7 +3736,7 @@ TunisianArabic_ROAD	Tunisian Arabic	tuni1259	aeb	ROAD	kayyās	kajjaːs	k a j j a
 MoroccanArabic_ROAD	Moroccan Arabic	moro1292	ary	ROAD	ṭriq	tˤriq	tˤ r i q	ṭriq	ROAD			Wiktionary
 MoroccanArabic_ROAD	Moroccan Arabic	moro1292	ary	ROAD	karrətēra	karrətɛːra	k a r r ə t ɛː r a	karrətēra	ROAD			Wiktionary
 HassaniyaArabic_ROAD	Hassaniya Arabic	hass1238	mey	ROAD	ṭrīg	tˤriːɡ	tˤ r iː ɡ	ṭrīg	ROAD			Wiktionary
-Maltese_ROAD	Maltese	malt1254	mlt	ROAD	trɪːʔ	trɪːʔ	t r ɪː ʔ	trɪːʔ	ROAD			Wiktionary
+Maltese_ROAD	Maltese	malt1254	mlt	ROAD	triq	trɪːʔ	t r ɪː ʔ	trɪːʔ	ROAD			Wiktionary
 ModernStandardArabic_MOUNTAIN	Modern Standard Arabic	stan1318	arb	MOUNTAIN	jabal	ʤabal	ʤ a b a l	jabal	MOUNTAIN			Wiktionary
 NajdiArabic_MOUNTAIN	Najdi Arabic	najd1235	ars	MOUNTAIN	jebal	ʤɛbal	ʤ ɛ b a l	jebal	MOUNTAIN			Wiktionary
 NajdiArabic_MOUNTAIN	Najdi Arabic	najd1235	ars	MOUNTAIN	ð̣ilāʕ	ðˤilaːʕ	ðˤ i l aː ʕ	ð̣ilāʕ	MOUNTAIN			Wiktionary
@@ -3755,8 +3755,8 @@ ChadianArabic_MOUNTAIN	Chadian Arabic	chad1249	shu	MOUNTAIN	hajar	haʤar	h a ʤ 
 TunisianArabic_MOUNTAIN	Tunisian Arabic	tuni1259	aeb	MOUNTAIN	žbal	ʒbal	ʒ b a l	žbal	MOUNTAIN			Wiktionary
 MoroccanArabic_MOUNTAIN	Moroccan Arabic	moro1292	ary	MOUNTAIN	žbal	ʒbal	ʒ b a l	žbal	MOUNTAIN			Wiktionary
 HassaniyaArabic_MOUNTAIN	Hassaniya Arabic	hass1238	mey	MOUNTAIN	kǝdya	kədja	k ə d j a	kǝdya	MOUNTAIN			Wiktionary
-Maltese_MOUNTAIN	Maltese	malt1254	mlt	MOUNTAIN	munˈtan.ja	mʊntɐnjɐ	m ʊ n t ɐ n j ɐ	munˈtan.ja	MOUNTAIN			Wiktionary
-Maltese_MOUNTAIN	Maltese	malt1254	mlt	MOUNTAIN	ˈɔːl.ja	ɔːljɐ	ɔː l j ɐ	ˈɔːl.ja	MOUNTAIN			Wiktionary
+Maltese_MOUNTAIN	Maltese	malt1254	mlt	MOUNTAIN	muntanja	mʊntɐnjɐ	m ʊ n t ɐ n j ɐ	munˈtan.ja	MOUNTAIN			Wiktionary
+Maltese_MOUNTAIN	Maltese	malt1254	mlt	MOUNTAIN	għolja	ɔːljɐ	ɔː l j ɐ	ˈɔːl.ja	MOUNTAIN			Wiktionary
 ModernStandardArabic_RED	Modern Standard Arabic	stan1318	arb	RED	ʔaħmɑr	ʔaħmɑr	ʔ a ħ m ɑ r	ʔaħmɑr	RED			Wiktionary
 NajdiArabic_RED	Najdi Arabic	najd1235	ars	RED	ħɑmɑṛ	ħɑmɑrˤ	ħ ɑ m ɑ rˤ	ħɑmɑṛ	RED			Wiktionary
 GulfArabic_RED	Gulf Arabic	gulf1241	afb	RED	ħɑmɑṛ	ħɑmɑrˤ	ħ ɑ m ɑ rˤ	ħɑmɑṛ	RED			Wiktionary
@@ -3775,7 +3775,7 @@ ChadianArabic_RED	Chadian Arabic	chad1249	shu	RED	ahmar	ahmar	a h m a r	ahmar	RE
 TunisianArabic_RED	Tunisian Arabic	tuni1259	aeb	RED	aħmar	aħmar	a ħ m a r	aħmar	RED			Wiktionary
 MoroccanArabic_RED	Moroccan Arabic	moro1292	ary	RED	ħmər	ħmər	ħ m ə r	ħmər	RED			Wiktionary
 HassaniyaArabic_RED	Hassaniya Arabic	hass1238	mey	RED	ăħmɑr	ʌħmɑr	ʌ ħ m ɑ r	ăħmɑr	RED			Wiktionary
-Maltese_RED	Maltese	malt1254	mlt	RED	ˈaħ.mar	ɐħmɐr	ɐ ħ m ɐ r	ˈaħ.mar	RED			Wiktionary
+Maltese_RED	Maltese	malt1254	mlt	RED	aħmar	ɐħmɐr	ɐ ħ m ɐ r	ˈaħ.mar	RED			Wiktionary
 ModernStandardArabic_GREEN	Modern Standard Arabic	stan1318	arb	GREEN	ʔaxḍɑr	ʔaxdˤɑr	ʔ a x dˤ ɑ r	ʔaxḍɑr	GREEN			Wiktionary
 NajdiArabic_GREEN	Najdi Arabic	najd1235	ars	GREEN	xɑð̣ɑṛ	xɑðˤɑrˤ	x ɑ ðˤ ɑ rˤ	xɑð̣ɑṛ	GREEN			Wiktionary
 GulfArabic_GREEN	Gulf Arabic	gulf1241	afb	GREEN	xɑð̣ɑṛ	xɑðˤɑrˤ	x ɑ ðˤ ɑ rˤ	xɑð̣ɑṛ	GREEN			Wiktionary
@@ -3793,7 +3793,7 @@ ChadianArabic_GREEN	Chadian Arabic	chad1249	shu	GREEN	ʔaxadar	ʔaxadar	ʔ a x a
 TunisianArabic_GREEN	Tunisian Arabic	tuni1259	aeb	GREEN	axḍir	axdˤir	a x dˤ i r	axḍir	GREEN			Wiktionary
 MoroccanArabic_GREEN	Moroccan Arabic	moro1292	ary	GREEN	xḍər	xdˤər	x dˤ ə r	xḍər	GREEN			Wiktionary
 HassaniyaArabic_GREEN	Hassaniya Arabic	hass1238	mey	GREEN	ăxð̣ɑr neʕnāʕ	ʌxðˤɑr nɛʕnaːʕ	ʌ x ðˤ ɑ r   n ɛ ʕ n aː ʕ	ăxð̣ɑr neʕnāʕ	GREEN			Wiktionary
-Maltese_GREEN	Maltese	malt1254	mlt	GREEN	ˈaħ.dar	ɐħdɐr	ɐ ħ d ɐ r	ˈaħ.dar	GREEN			Wiktionary
+Maltese_GREEN	Maltese	malt1254	mlt	GREEN	aħdar	ɐħdɐr	ɐ ħ d ɐ r	ˈaħ.dar	GREEN			Wiktionary
 ModernStandardArabic_YELLOW	Modern Standard Arabic	stan1318	arb	YELLOW	ʔaṣfar	ʔasˤfar	ʔ a sˤ f a r	ʔaṣfar	YELLOW			Wiktionary
 NajdiArabic_YELLOW	Najdi Arabic	najd1235	ars	YELLOW	ɑṣfɑr	ɑsˤfɑr	ɑ sˤ f ɑ r	ɑṣfɑr	YELLOW			Wiktionary
 GulfArabic_YELLOW	Gulf Arabic	gulf1241	afb	YELLOW	ɑṣfɑr	ɑsˤfɑr	ɑ sˤ f ɑ r	ɑṣfɑr	YELLOW			Wiktionary
@@ -3811,7 +3811,7 @@ ChadianArabic_YELLOW	Chadian Arabic	chad1249	shu	YELLOW	ʔasfar	ʔasfar	ʔ a s f
 TunisianArabic_YELLOW	Tunisian Arabic	tuni1259	aeb	YELLOW	aṣfir	asˤfir	a sˤ f i r	aṣfir	YELLOW			Wiktionary
 MoroccanArabic_YELLOW	Moroccan Arabic	moro1292	ary	YELLOW	ṣfər	sˤfər	sˤ f ə r	ṣfər	YELLOW			Wiktionary
 HassaniyaArabic_YELLOW	Hassaniya Arabic	hass1238	mey	YELLOW	ăṣvɑr	ʌsˤvɑr	ʌ sˤ v ɑ r	ăṣvɑr	YELLOW			Wiktionary
-Maltese_YELLOW	Maltese	malt1254	mlt	YELLOW	ˈɪs.far	ɪsfɐr	ɪ s f ɐ r	ˈɪs.far	YELLOW			Wiktionary
+Maltese_YELLOW	Maltese	malt1254	mlt	YELLOW	isfar	ɪsfɐr	ɪ s f ɐ r	ˈɪs.far	YELLOW			Wiktionary
 ModernStandardArabic_WHITE	Modern Standard Arabic	stan1318	arb	WHITE	ʔabyɑḍ	ʔabjɑdˤ	ʔ a b j ɑ dˤ	ʔabyɑḍ	WHITE			Wiktionary
 NajdiArabic_WHITE	Najdi Arabic	najd1235	ars	WHITE	ɑbyɑð̣	ɑbjɑðˤ	ɑ b j ɑ ðˤ	ɑbyɑð̣	WHITE			Wiktionary
 GulfArabic_WHITE	Gulf Arabic	gulf1241	afb	WHITE	ɑbyɑð̣	ɑbjɑðˤ	ɑ b j ɑ ðˤ	ɑbyɑð̣	WHITE			Wiktionary
@@ -3828,7 +3828,7 @@ ChadianArabic_WHITE	Chadian Arabic	chad1249	shu	WHITE	ʔabyet	ʔabjɛt	ʔ a b j 
 TunisianArabic_WHITE	Tunisian Arabic	tuni1259	aeb	WHITE	abyiḍ	abjidˤ	a b j i dˤ	abyiḍ	WHITE			Wiktionary
 MoroccanArabic_WHITE	Moroccan Arabic	moro1292	ary	WHITE	byəḍ	bjədˤ	b j ə dˤ	byəḍ	WHITE			Wiktionary
 HassaniyaArabic_WHITE	Hassaniya Arabic	hass1238	mey	WHITE	ăbyɑð̣	ʌbjɑðˤ	ʌ b j ɑ ðˤ	ăbyɑð̣	WHITE			Wiktionary
-Maltese_WHITE	Maltese	malt1254	mlt	WHITE	ˈab.jat	ɐbjɐt	ɐ b j ɐ t	ˈab.jat	WHITE			Wiktionary
+Maltese_WHITE	Maltese	malt1254	mlt	WHITE	abjad	ɐbjɐt	ɐ b j ɐ t	ˈab.jat	WHITE			Wiktionary
 ModernStandardArabic_BLACK	Modern Standard Arabic	stan1318	arb	BLACK	ʔaswad	ʔaswad	ʔ a s w a d	ʔaswad	BLACK			Wiktionary
 NajdiArabic_BLACK	Najdi Arabic	najd1235	ars	BLACK	aswad	aswad	a s w a d	aswad	BLACK			Wiktionary
 GulfArabic_BLACK	Gulf Arabic	gulf1241	afb	BLACK	aswad	aswad	a s w a d	aswad	BLACK			Wiktionary
@@ -3847,7 +3847,7 @@ ChadianArabic_BLACK	Chadian Arabic	chad1249	shu	BLACK	ʔazrag	ʔazraɡ	ʔ a z r 
 TunisianArabic_BLACK	Tunisian Arabic	tuni1259	aeb	BLACK	akħil	akħil	a k ħ i l	akħil	BLACK			Wiktionary
 MoroccanArabic_BLACK	Moroccan Arabic	moro1292	ary	BLACK	kħɘl	kħəl	k ħ ə l	kħɘl	BLACK			Wiktionary
 HassaniyaArabic_BLACK	Hassaniya Arabic	hass1238	mey	BLACK	ăkħal	ʌkħal	ʌ k ħ a l	ăkħal	BLACK			Wiktionary
-Maltese_BLACK	Maltese	malt1254	mlt	BLACK	ˈɪs.wɛt	ɪswɛt	ɪ s w ɛ t	ˈɪs.wɛt	BLACK			Wiktionary
+Maltese_BLACK	Maltese	malt1254	mlt	BLACK	iswed	ɪswɛt	ɪ s w ɛ t	ˈɪs.wɛt	BLACK			Wiktionary
 ModernStandardArabic_NIGHT	Modern Standard Arabic	stan1318	arb	NIGHT	layla	lajla	l a j l a	layla	NIGHT			Wiktionary
 NajdiArabic_NIGHT	Najdi Arabic	najd1235	ars	NIGHT	lēl	lɛːl	l ɛː l	lēl	NIGHT			Wiktionary
 GulfArabic_NIGHT	Gulf Arabic	gulf1241	afb	NIGHT	lēl	lɛːl	l ɛː l	lēl	NIGHT			Wiktionary
@@ -3864,7 +3864,7 @@ ChadianArabic_NIGHT	Chadian Arabic	chad1249	shu	NIGHT	llēl	llɛːl	l l ɛː l	l
 TunisianArabic_NIGHT	Tunisian Arabic	tuni1259	aeb	NIGHT	līl	liːl	l iː l	līl	NIGHT			Wiktionary
 MoroccanArabic_NIGHT	Moroccan Arabic	moro1292	ary	NIGHT	lil	lil	l i l	lil	NIGHT			Wiktionary
 HassaniyaArabic_NIGHT	Hassaniya Arabic	hass1238	mey	NIGHT	leyl	lɛjl	l ɛ j l	leyl	NIGHT			Wiktionary
-Maltese_NIGHT	Maltese	malt1254	mlt	NIGHT	lɛjl	lɛjl	l ɛ j l	lɛjl	NIGHT			Wiktionary
+Maltese_NIGHT	Maltese	malt1254	mlt	NIGHT	lejl	lɛjl	l ɛ j l	lɛjl	NIGHT			Wiktionary
 ModernStandardArabic_DAY (NOT NIGHT)	Modern Standard Arabic	stan1318	arb	DAY (NOT NIGHT)	yawm	jawm	j a w m	yawm	DAY (NOT NIGHT)			Wiktionary
 ModernStandardArabic_DAY (NOT NIGHT)	Modern Standard Arabic	stan1318	arb	DAY (NOT NIGHT)	nahār	nahaːr	n a h aː r	nahār	DAY (NOT NIGHT)			Wiktionary
 NajdiArabic_DAY (NOT NIGHT)	Najdi Arabic	najd1235	ars	DAY (NOT NIGHT)	yōṃ	jɔːmˤ	j ɔː mˤ	yōṃ	DAY (NOT NIGHT)			Wiktionary
@@ -3885,9 +3885,9 @@ ChadianArabic_DAY (NOT NIGHT)	Chadian Arabic	chad1249	shu	DAY (NOT NIGHT)	yōm	j
 TunisianArabic_DAY (NOT NIGHT)	Tunisian Arabic	tuni1259	aeb	DAY (NOT NIGHT)	nhār	nhaːr	n h aː r	nhār	DAY (NOT NIGHT)			Wiktionary
 MoroccanArabic_DAY (NOT NIGHT)	Moroccan Arabic	moro1292	ary	DAY (NOT NIGHT)	nhɑr	nhɑr	n h ɑ r	nhɑr	DAY (NOT NIGHT)			Wiktionary
 HassaniyaArabic_DAY (NOT NIGHT)	Hassaniya Arabic	hass1238	mey	DAY (NOT NIGHT)	ănhār	ʌnhaːr	ʌ n h aː r	ănhār	DAY (NOT NIGHT)			Wiktionary
-Maltese_DAY (NOT NIGHT)	Maltese	malt1254	mlt	DAY (NOT NIGHT)	juːm	jʊːm	j ʊː m	juːm	DAY (NOT NIGHT)			Wiktionary
-Maltese_DAY (NOT NIGHT)	Maltese	malt1254	mlt	DAY (NOT NIGHT)	d͡ʒurˈnaː.ta	ʤʊrnɐːtɐ	ʤ ʊ r n ɐː t ɐ	d͡ʒurˈnaː.ta	DAY (NOT NIGHT)			Wiktionary
-Maltese_DAY (NOT NIGHT)	Maltese	malt1254	mlt	DAY (NOT NIGHT)	naːr	nɐːr	n ɐː r	naːr	DAY (NOT NIGHT)			Wiktionary
+Maltese_DAY (NOT NIGHT)	Maltese	malt1254	mlt	DAY (NOT NIGHT)	jum	jʊːm	j ʊː m	juːm	DAY (NOT NIGHT)			Wiktionary
+Maltese_DAY (NOT NIGHT)	Maltese	malt1254	mlt	DAY (NOT NIGHT)	ġurnata	ʤʊrnɐːtɐ	ʤ ʊ r n ɐː t ɐ	d͡ʒurˈnaː.ta	DAY (NOT NIGHT)			Wiktionary
+Maltese_DAY (NOT NIGHT)	Maltese	malt1254	mlt	DAY (NOT NIGHT)	nhar	nɐːr	n ɐː r	naːr	DAY (NOT NIGHT)			Wiktionary
 ModernStandardArabic_YEAR	Modern Standard Arabic	stan1318	arb	YEAR	ʕām	ʕaːm	ʕ aː m	ʕām	YEAR			Wiktionary
 ModernStandardArabic_YEAR	Modern Standard Arabic	stan1318	arb	YEAR	sana	sana	s a n a	sana	YEAR			Wiktionary
 NajdiArabic_YEAR	Najdi Arabic	najd1235	ars	YEAR	sanah	sanah	s a n a h	sanah	YEAR			Wiktionary
@@ -3908,7 +3908,7 @@ TunisianArabic_YEAR	Tunisian Arabic	tuni1259	aeb	YEAR	ʕām	ʕaːm	ʕ aː m	ʕā
 MoroccanArabic_YEAR	Moroccan Arabic	moro1292	ary	YEAR	ʕam	ʕam	ʕ a m	ʕam	YEAR			Wiktionary
 HassaniyaArabic_YEAR	Hassaniya Arabic	hass1238	mey	YEAR	ʕām	ʕaːm	ʕ aː m	ʕām	YEAR			Wiktionary
 HassaniyaArabic_YEAR	Hassaniya Arabic	hass1238	mey	YEAR	sna	sna	s n a	sna	YEAR			Wiktionary
-Maltese_YEAR	Maltese	malt1254	mlt	YEAR	ˈsɛ.na	sɛnɐ	s ɛ n ɐ	ˈsɛ.na	YEAR			Wiktionary
+Maltese_YEAR	Maltese	malt1254	mlt	YEAR	sena	sɛnɐ	s ɛ n ɐ	ˈsɛ.na	YEAR			Wiktionary
 ModernStandardArabic_WARM	Modern Standard Arabic	stan1318	arb	WARM	dāfiʔ	daːfiʔ	d aː f i ʔ	dāfiʔ	WARM			Wiktionary
 NajdiArabic_WARM	Najdi Arabic	najd1235	ars	WARM	dāfi	daːfi	d aː f i	dāfi	WARM			Wiktionary
 GulfArabic_WARM	Gulf Arabic	gulf1241	afb	WARM	dɑ̄fi	dɑːfi	d ɑː f i	dɑ̄fi	WARM			Wiktionary
@@ -3929,7 +3929,7 @@ TunisianArabic_WARM	Tunisian Arabic	tuni1259	aeb	WARM	sxūn	sxuːn	s x uː n	sx�
 MoroccanArabic_WARM	Moroccan Arabic	moro1292	ary	WARM	dafi	dafi	d a f i	dafi	WARM			Wiktionary
 HassaniyaArabic_WARM	Hassaniya Arabic	hass1238	mey	WARM	ħāmi	ħaːmi	ħ aː m i	ħāmi	WARM			Wiktionary
 HassaniyaArabic_WARM	Hassaniya Arabic	hass1238	mey	WARM	dāfi	daːfi	d aː f i	dāfi	WARM			Wiktionary
-Maltese_WARM	Maltese	malt1254	mlt	WARM	sħuːn	sħʊːn	s ħ ʊː n	sħuːn	WARM			Wiktionary
+Maltese_WARM	Maltese	malt1254	mlt	WARM	sħun	sħʊːn	s ħ ʊː n	sħuːn	WARM			Wiktionary
 ModernStandardArabic_COLD	Modern Standard Arabic	stan1318	arb	COLD	bārid	baːrid	b aː r i d	bārid	COLD			Wiktionary
 NajdiArabic_COLD	Najdi Arabic	najd1235	ars	COLD	bāred	baːrɛd	b aː r ɛ d	bāred	COLD			Wiktionary
 GulfArabic_COLD	Gulf Arabic	gulf1241	afb	COLD	bɑ̄ṛed	bɑːrˤɛd	b ɑː rˤ ɛ d	bɑ̄ṛed	COLD			Wiktionary
@@ -3946,8 +3946,8 @@ ChadianArabic_COLD	Chadian Arabic	chad1249	shu	COLD	bārid	baːrid	b aː r i d	b
 TunisianArabic_COLD	Tunisian Arabic	tuni1259	aeb	COLD	bārid	baːrid	b aː r i d	bārid	COLD			Wiktionary
 MoroccanArabic_COLD	Moroccan Arabic	moro1292	ary	COLD	bared	barɛd	b a r ɛ d	bared	COLD			Wiktionary
 HassaniyaArabic_COLD	Hassaniya Arabic	hass1238	mey	COLD	bārəd	baːrəd	b aː r ə d	bārəd	COLD			Wiktionary
-Maltese_COLD	Maltese	malt1254	mlt	COLD	ˈkɪːsaħ	kɪːsɐħ	k ɪː s ɐ ħ	ˈkɪːsaħ	COLD			Wiktionary
-Maltese_COLD	Maltese	malt1254	mlt	COLD	ˈbɪː.rɛt	bɪːrɛt	b ɪː r ɛ t	ˈbɪː.rɛt	COLD			Wiktionary
+Maltese_COLD	Maltese	malt1254	mlt	COLD	kiesaħ	kɪːsɐħ	k ɪː s ɐ ħ	ˈkɪːsaħ	COLD			Wiktionary
+Maltese_COLD	Maltese	malt1254	mlt	COLD	biered	bɪːrɛt	b ɪː r ɛ t	ˈbɪː.rɛt	COLD			Wiktionary
 ModernStandardArabic_FULL	Modern Standard Arabic	stan1318	arb	FULL	malān	malaːn	m a l aː n	malān	FULL			Wiktionary
 ModernStandardArabic_FULL	Modern Standard Arabic	stan1318	arb	FULL	mumtaliʔ	mumtaliʔ	m u m t a l i ʔ	mumtaliʔ	FULL			Wiktionary
 ModernStandardArabic_FULL	Modern Standard Arabic	stan1318	arb	FULL	kāmil	kaːmil	k aː m i l	kāmil	FULL			Wiktionary
@@ -3987,7 +3987,7 @@ ChadianArabic_NEW	Chadian Arabic	chad1249	shu	NEW	jedīd	ʤɛdiːd	ʤ ɛ d iː d
 TunisianArabic_NEW	Tunisian Arabic	tuni1259	aeb	NEW	ždīd	ʒdiːd	ʒ d iː d	ždīd	NEW			Wiktionary
 MoroccanArabic_NEW	Moroccan Arabic	moro1292	ary	NEW	ždid	ʒdid	ʒ d i d	ždid	NEW			Wiktionary
 HassaniyaArabic_NEW	Hassaniya Arabic	hass1238	mey	NEW	ždīd	ʒdiːd	ʒ d iː d	ždīd	NEW			Wiktionary
-Maltese_NEW	Maltese	malt1254	mlt	NEW	d͡ʒdiːt	ʤdiːt	ʤ d iː t	d͡ʒdiːt	NEW			Wiktionary
+Maltese_NEW	Maltese	malt1254	mlt	NEW	ġdid	ʤdiːt	ʤ d iː t	d͡ʒdiːt	NEW			Wiktionary
 ModernStandardArabic_OLD	Modern Standard Arabic	stan1318	arb	OLD	qɑdīm	qɑdiːm	q ɑ d iː m	qɑdīm	OLD			Wiktionary
 ModernStandardArabic_OLD	Modern Standard Arabic	stan1318	arb	OLD	ʕatīq	ʕatiːq	ʕ a t iː q	ʕatīq	OLD			Wiktionary
 ModernStandardArabic_OLD	Modern Standard Arabic	stan1318	arb	OLD	šayb	ʃajb	ʃ a j b	šayb	OLD			Wiktionary
@@ -4030,8 +4030,8 @@ MoroccanArabic_OLD	Moroccan Arabic	moro1292	ary	OLD	kbir	kbir	k b i r	kbir	OLD		
 HassaniyaArabic_OLD	Hassaniya Arabic	hass1238	mey	OLD	adras	adras	a d r a s	adras	OLD			Wiktionary
 HassaniyaArabic_OLD	Hassaniya Arabic	hass1238	mey	OLD	akhal	akhal	a k h a l	akhal	OLD			Wiktionary
 HassaniyaArabic_OLD	Hassaniya Arabic	hass1238	mey	OLD	kbīr	kbiːr	k b iː r	kbīr	OLD			Wiktionary
-Maltese_OLD	Maltese	malt1254	mlt	OLD	ʃɪːħ	ʃɪːħ	ʃ ɪː ħ	ʃɪːħ	OLD			Wiktionary
-Maltese_OLD	Maltese	malt1254	mlt	OLD	ʔaˈdiːm	ʔɐdiːm	ʔ ɐ d iː m	ʔaˈdiːm	OLD			Wiktionary
+Maltese_OLD	Maltese	malt1254	mlt	OLD	xiħ	ʃɪːħ	ʃ ɪː ħ	ʃɪːħ	OLD			Wiktionary
+Maltese_OLD	Maltese	malt1254	mlt	OLD	qadim	ʔɐdiːm	ʔ ɐ d iː m	ʔaˈdiːm	OLD			Wiktionary
 ModernStandardArabic_GOOD	Modern Standard Arabic	stan1318	arb	GOOD	jayyid	ʤajjid	ʤ a j j i d	jayyid	GOOD			Wiktionary
 ModernStandardArabic_GOOD	Modern Standard Arabic	stan1318	arb	GOOD	ħasan	ħasan	ħ a s a n	ħasan	GOOD			Wiktionary
 ModernStandardArabic_GOOD	Modern Standard Arabic	stan1318	arb	GOOD	ṭɑyyib	tˤɑjjib	tˤ ɑ j j i b	ṭɑyyib	GOOD			Wiktionary
@@ -4063,7 +4063,7 @@ MoroccanArabic_GOOD	Moroccan Arabic	moro1292	ary	GOOD	mɘzyan	məzjan	m ə z j a
 MoroccanArabic_GOOD	Moroccan Arabic	moro1292	ary	GOOD	ḍrif	dˤrif	dˤ r i f	ḍrif	GOOD			Wiktionary
 HassaniyaArabic_GOOD	Hassaniya Arabic	hass1238	mey	GOOD	zayn	zajn	z a j n	zayn	GOOD			Wiktionary
 HassaniyaArabic_GOOD	Hassaniya Arabic	hass1238	mey	GOOD	măʕlūm	mʌʕluːm	m ʌ ʕ l uː m	măʕlūm	GOOD			Wiktionary
-Maltese_GOOD	Maltese	malt1254	mlt	GOOD	ˈtaj.jɛp	tɐjjɛp	t ɐ j j ɛ p	ˈtaj.jɛp	GOOD			Wiktionary
+Maltese_GOOD	Maltese	malt1254	mlt	GOOD	tajjeb	tɐjjɛp	t ɐ j j ɛ p	ˈtaj.jɛp	GOOD			Wiktionary
 ModernStandardArabic_BAD	Modern Standard Arabic	stan1318	arb	BAD	sayyiʔ	sajjiʔ	s a j j i ʔ	sayyiʔ	BAD			Wiktionary
 ModernStandardArabic_BAD	Modern Standard Arabic	stan1318	arb	BAD	radīʔ	radiːʔ	r a d iː ʔ	radīʔ	BAD			Wiktionary
 NajdiArabic_BAD	Najdi Arabic	najd1235	ars	BAD	šēn	ʃɛːn	ʃ ɛː n	šēn	BAD			Wiktionary
@@ -4094,7 +4094,7 @@ HassaniyaArabic_BAD	Hassaniya Arabic	hass1238	mey	BAD	šayn	ʃajn	ʃ a j n	šayn
 HassaniyaArabic_BAD	Hassaniya Arabic	hass1238	mey	BAD	rāx	raːx	r aː x	rāx	BAD			Wiktionary
 HassaniyaArabic_BAD	Hassaniya Arabic	hass1238	mey	BAD	mmăhli	mmʌhli	m m ʌ h l i	mmăhli	BAD			Wiktionary
 HassaniyaArabic_BAD	Hassaniya Arabic	hass1238	mey	BAD	ffɑnṭi	ffɑntˤi	f f ɑ n tˤ i	ffɑnṭi	BAD			Wiktionary
-Maltese_BAD	Maltese	malt1254	mlt	BAD	ħaˈziːn	ħɐziːn	ħ ɐ z iː n	ħaˈziːn	BAD			Wiktionary
+Maltese_BAD	Maltese	malt1254	mlt	BAD	ħażin	ħɐziːn	ħ ɐ z iː n	ħaˈziːn	BAD			Wiktionary
 ModernStandardArabic_ROTTEN	Modern Standard Arabic	stan1318	arb	ROTTEN	fāsid	faːsid	f aː s i d	fāsid	ROTTEN			Wiktionary
 ModernStandardArabic_ROTTEN	Modern Standard Arabic	stan1318	arb	ROTTEN	ʕafn	ʕafn	ʕ a f n	ʕafn	ROTTEN			Wiktionary
 ModernStandardArabic_ROTTEN	Modern Standard Arabic	stan1318	arb	ROTTEN	musawwas	musawwas	m u s a w w a s	musawwas	ROTTEN			Wiktionary
@@ -4164,7 +4164,7 @@ TunisianArabic_STRAIGHT	Tunisian Arabic	tuni1259	aeb	STRAIGHT	ṭūl	tˤuːl	tˤ
 MoroccanArabic_STRAIGHT	Moroccan Arabic	moro1292	ary	STRAIGHT	mʕewweṭ	mʕɛwwɛtˤ	m ʕ ɛ w w ɛ tˤ	mʕewweṭ	STRAIGHT			Wiktionary
 MoroccanArabic_STRAIGHT	Moroccan Arabic	moro1292	ary	STRAIGHT	nišan	niʃan	n i ʃ a n	nišan	STRAIGHT			Wiktionary
 HassaniyaArabic_STRAIGHT	Hassaniya Arabic	hass1238	mey	STRAIGHT	msaggam	msaɡɡam	m s a ɡ ɡ a m	msaggam	STRAIGHT			Wiktionary
-Maltese_STRAIGHT	Maltese	malt1254	mlt	STRAIGHT	drɪt	drɪt	d r ɪ t	drɪt	STRAIGHT			Wiktionary
+Maltese_STRAIGHT	Maltese	malt1254	mlt	STRAIGHT	dritt	drɪt	d r ɪ t	drɪt	STRAIGHT			Wiktionary
 ModernStandardArabic_ROUND	Modern Standard Arabic	stan1318	arb	ROUND	mustadīr	mustadiːr	m u s t a d iː r	mustadīr	ROUND			Wiktionary
 NajdiArabic_ROUND	Najdi Arabic	najd1235	ars	ROUND	mdawwɑr	mdawwɑr	m d a w w ɑ r	mdawwɑr	ROUND			Wiktionary
 GulfArabic_ROUND	Gulf Arabic	gulf1241	afb	ROUND	mdawwɑr	mdawwɑr	m d a w w ɑ r	mdawwɑr	ROUND			Wiktionary
@@ -4199,7 +4199,7 @@ HassaniyaArabic_SHARP	Hassaniya Arabic	hass1238	mey	SHARP	mṭaṛṛag	mtˤarˤ
 HassaniyaArabic_SHARP	Hassaniya Arabic	hass1238	mey	SHARP	ħādd	ħaːdd	ħ aː d d	ħādd	SHARP			Wiktionary
 HassaniyaArabic_SHARP	Hassaniya Arabic	hass1238	mey	SHARP	māð̣i	maːðˤi	m aː ðˤ i	māð̣i	SHARP			Wiktionary
 HassaniyaArabic_SHARP	Hassaniya Arabic	hass1238	mey	SHARP	mtīn	mtiːn	m t iː n	mtīn	SHARP			Wiktionary
-Maltese_SHARP	Maltese	malt1254	mlt	SHARP	ˈʔaw.wɪ	ʔɐwwɪ	ʔ ɐ w w ɪ	ˈʔaw.wɪ	SHARP			Wiktionary
+Maltese_SHARP	Maltese	malt1254	mlt	SHARP	qawwi	ʔɐwwɪ	ʔ ɐ w w ɪ	ˈʔaw.wɪ	SHARP			Wiktionary
 ModernStandardArabic_BLUNT	Modern Standard Arabic	stan1318	arb	BLUNT	kalīl	kaliːl	k a l iː l	kalīl	BLUNT			Wiktionary
 ModernStandardArabic_BLUNT	Modern Standard Arabic	stan1318	arb	BLUNT	muθlim	muθlim	m u θ l i m	muθlim	BLUNT			Wiktionary
 GulfArabic_BLUNT	Gulf Arabic	gulf1241	afb	BLUNT	aʕma	aʕma	a ʕ m a	aʕma	BLUNT			Wiktionary
@@ -4237,8 +4237,8 @@ TunisianArabic_SMOOTH	Tunisian Arabic	tuni1259	aeb	SMOOTH	arṭib	artˤib	a r t�
 MoroccanArabic_SMOOTH	Moroccan Arabic	moro1292	ary	SMOOTH	mləs	mləs	m l ə s	mləs	SMOOTH			Wiktionary
 MoroccanArabic_SMOOTH	Moroccan Arabic	moro1292	ary	SMOOTH	rṭəb	rtˤəb	r tˤ ə b	rṭəb	SMOOTH			Wiktionary
 HassaniyaArabic_SMOOTH	Hassaniya Arabic	hass1238	mey	SMOOTH	ămlas	ʌmlas	ʌ m l a s	ămlas	SMOOTH			Wiktionary
-Maltese_SMOOTH	Maltese	malt1254	mlt	SMOOTH	ˈmɪː.lɛs	mɪːlɛs	m ɪː l ɛ s	ˈmɪː.lɛs	SMOOTH			Wiktionary
-Maltese_SMOOTH	Maltese	malt1254	mlt	SMOOTH	lɪʃː	lɪʃː	l ɪ ʃː	lɪʃː	SMOOTH			Wiktionary
+Maltese_SMOOTH	Maltese	malt1254	mlt	SMOOTH	mieles	mɪːlɛs	m ɪː l ɛ s	ˈmɪː.lɛs	SMOOTH			Wiktionary
+Maltese_SMOOTH	Maltese	malt1254	mlt	SMOOTH	lixx	lɪʃː	l ɪ ʃː	lɪʃː	SMOOTH			Wiktionary
 ModernStandardArabic_WET	Modern Standard Arabic	stan1318	arb	WET	rɑṭb	rɑtˤb	r ɑ tˤ b	rɑṭb	WET			Wiktionary
 ModernStandardArabic_WET	Modern Standard Arabic	stan1318	arb	WET	muballal	muballal	m u b a l l a l	muballal	WET			Wiktionary
 NajdiArabic_WET	Najdi Arabic	najd1235	ars	WET	mablūl	mabluːl	m a b l uː l	mablūl	WET			Wiktionary
@@ -4261,7 +4261,7 @@ ChadianArabic_WET	Chadian Arabic	chad1249	shu	WET	mablūl	mabluːl	m a b l uː l
 TunisianArabic_WET	Tunisian Arabic	tuni1259	aeb	WET	mablūl	mabluːl	m a b l uː l	mablūl	WET			Wiktionary
 MoroccanArabic_WET	Moroccan Arabic	moro1292	ary	WET	fazəg	fazəɡ	f a z ə ɡ	fazəg	WET			Wiktionary
 HassaniyaArabic_WET	Hassaniya Arabic	hass1238	mey	WET	măblūl	mʌbluːl	m ʌ b l uː l	măblūl	WET			Wiktionary
-Maltese_WET	Maltese	malt1254	mlt	WET	mˈʃar.rap	mʃɐrrɐp	m ʃ ɐ r r ɐ p	mˈʃar.rap	WET			Wiktionary
+Maltese_WET	Maltese	malt1254	mlt	WET	mxarrab	mʃɐrrɐp	m ʃ ɐ r r ɐ p	mˈʃar.rap	WET			Wiktionary
 ModernStandardArabic_DRY	Modern Standard Arabic	stan1318	arb	DRY	jāff	ʤaːff	ʤ aː f f	jāff	DRY			Wiktionary
 ModernStandardArabic_DRY	Modern Standard Arabic	stan1318	arb	DRY	yābis	jaːbis	j aː b i s	yābis	DRY			Wiktionary
 NajdiArabic_DRY	Najdi Arabic	najd1235	ars	DRY	yābis	jaːbis	j aː b i s	yābis	DRY			Wiktionary
@@ -4283,8 +4283,8 @@ ChadianArabic_DRY	Chadian Arabic	chad1249	shu	DRY	yābis	jaːbis	j aː b i s	yā
 TunisianArabic_DRY	Tunisian Arabic	tuni1259	aeb	DRY	šāyɑħ	ʃaːjɑħ	ʃ aː j ɑ ħ	šāyɑħ	DRY			Wiktionary
 MoroccanArabic_DRY	Moroccan Arabic	moro1292	ary	DRY	yabəs	jabəs	j a b ə s	yabəs	DRY			Wiktionary
 HassaniyaArabic_DRY	Hassaniya Arabic	hass1238	mey	DRY	yābəs	jaːbəs	j aː b ə s	yābəs	DRY			Wiktionary
-Maltese_DRY	Maltese	malt1254	mlt	DRY	ˈnɪːʃɛf	nɪːʃɛf	n ɪː ʃ ɛ f	ˈnɪːʃɛf	DRY			Wiktionary
-Maltese_DRY	Maltese	malt1254	mlt	DRY	ʃɔt	ʃɔt	ʃ ɔ t	ʃɔt	DRY			Wiktionary
+Maltese_DRY	Maltese	malt1254	mlt	DRY	niexef	nɪːʃɛf	n ɪː ʃ ɛ f	ˈnɪːʃɛf	DRY			Wiktionary
+Maltese_DRY	Maltese	malt1254	mlt	DRY	xott	ʃɔt	ʃ ɔ t	ʃɔt	DRY			Wiktionary
 ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	ṣɑħīħ	sˤɑħiːħ	sˤ ɑ ħ iː ħ	ṣɑħīħ	CORRECT (RIGHT)			Wiktionary
 ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	tamāma	tamaːma	t a m aː m a	tamāma	CORRECT (RIGHT)			Wiktionary
 ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	ṣɑ̄ˀib	sˤɑːˀib	sˤ ɑːˀ i b	ṣɑ̄ˀib	CORRECT (RIGHT)			Wiktionary
@@ -4315,8 +4315,8 @@ MoroccanArabic_CORRECT (RIGHT)	Moroccan Arabic	moro1292	ary	CORRECT (RIGHT)	ṣ�
 MoroccanArabic_CORRECT (RIGHT)	Moroccan Arabic	moro1292	ary	CORRECT (RIGHT)	hadak	hadak	h a d a k	hadak	CORRECT (RIGHT)			Wiktionary
 HassaniyaArabic_CORRECT (RIGHT)	Hassaniya Arabic	hass1238	mey	CORRECT (RIGHT)	ṣħīħ	sˤħiːħ	sˤ ħ iː ħ	ṣħīħ	CORRECT (RIGHT)			Wiktionary
 HassaniyaArabic_CORRECT (RIGHT)	Hassaniya Arabic	hass1238	mey	CORRECT (RIGHT)	ṣɑ̄ləħ	sˤɑːləħ	sˤ ɑː l ə ħ	ṣɑ̄ləħ	CORRECT (RIGHT)			Wiktionary
-Maltese_CORRECT (RIGHT)	Maltese	malt1254	mlt	CORRECT (RIGHT)	ˈtaj.jɛp	tɐjjɛp	t ɐ j j ɛ p	ˈtaj.jɛp	CORRECT (RIGHT)			Wiktionary
-Maltese_CORRECT (RIGHT)	Maltese	malt1254	mlt	CORRECT (RIGHT)	ˈsɛw.wa	sɛwwɐ	s ɛ w w ɐ	ˈsɛw.wa	CORRECT (RIGHT)			Wiktionary
+Maltese_CORRECT (RIGHT)	Maltese	malt1254	mlt	CORRECT (RIGHT)	tajjeb	tɐjjɛp	t ɐ j j ɛ p	ˈtaj.jɛp	CORRECT (RIGHT)			Wiktionary
+Maltese_CORRECT (RIGHT)	Maltese	malt1254	mlt	CORRECT (RIGHT)	sewwa	sɛwwɐ	s ɛ w w ɐ	ˈsɛw.wa	CORRECT (RIGHT)			Wiktionary
 ModernStandardArabic_NEAR	Modern Standard Arabic	stan1318	arb	NEAR	qɑrīb	qɑriːb	q ɑ r iː b	qɑrīb	NEAR			Wiktionary
 ModernStandardArabic_NEAR	Modern Standard Arabic	stan1318	arb	NEAR	bi-qurb	biqurb	b i q u r b	bi-qurb	NEAR			Wiktionary
 ModernStandardArabic_NEAR	Modern Standard Arabic	stan1318	arb	NEAR	bi-jānib	biʤaːnib	b i ʤ aː n i b	bi-jānib	NEAR			Wiktionary
@@ -4347,8 +4347,8 @@ MoroccanArabic_NEAR	Moroccan Arabic	moro1292	ary	NEAR	qrib	qrib	q r i b	qrib	NEA
 MoroccanArabic_NEAR	Moroccan Arabic	moro1292	ary	NEAR	ħdɑ	ħdɑ	ħ d ɑ	ħdɑ	NEAR			Wiktionary
 HassaniyaArabic_NEAR	Hassaniya Arabic	hass1238	mey	NEAR	grăyyəb	ɡrʌjjəb	ɡ r ʌ j j ə b	grăyyəb	NEAR			Wiktionary
 HassaniyaArabic_NEAR	Hassaniya Arabic	hass1238	mey	NEAR	ħða	ħða	ħ ð a	ħða	NEAR			Wiktionary
-Maltese_NEAR	Maltese	malt1254	mlt	NEAR	ʔriːp	ʔriːp	ʔ r iː p	ʔriːp	NEAR			Wiktionary
-Maltese_NEAR	Maltese	malt1254	mlt	NEAR	ħdɛjn	ħdɛjn	ħ d ɛ j n	ħdɛjn	NEAR			Wiktionary
+Maltese_NEAR	Maltese	malt1254	mlt	NEAR	qrib	ʔriːp	ʔ r iː p	ʔriːp	NEAR			Wiktionary
+Maltese_NEAR	Maltese	malt1254	mlt	NEAR	ħdejn	ħdɛjn	ħ d ɛ j n	ħdɛjn	NEAR			Wiktionary
 ModernStandardArabic_FAR	Modern Standard Arabic	stan1318	arb	FAR	baʕīd	baʕiːd	b a ʕ iː d	baʕīd	FAR			Wiktionary
 NajdiArabic_FAR	Najdi Arabic	najd1235	ars	FAR	baʕīd	baʕiːd	b a ʕ iː d	baʕīd	FAR			Wiktionary
 GulfArabic_FAR	Gulf Arabic	gulf1241	afb	FAR	baʕīd	baʕiːd	b a ʕ iː d	baʕīd	FAR			Wiktionary
@@ -4366,7 +4366,7 @@ ChadianArabic_FAR	Chadian Arabic	chad1249	shu	FAR	beʔīd	bɛʔiːd	b ɛ ʔ iː 
 TunisianArabic_FAR	Tunisian Arabic	tuni1259	aeb	FAR	bʕīd	bʕiːd	b ʕ iː d	bʕīd	FAR			Wiktionary
 MoroccanArabic_FAR	Moroccan Arabic	moro1292	ary	FAR	bʕid	bʕid	b ʕ i d	bʕid	FAR			Wiktionary
 HassaniyaArabic_FAR	Hassaniya Arabic	hass1238	mey	FAR	bʕīd	bʕiːd	b ʕ iː d	bʕīd	FAR			Wiktionary
-Maltese_FAR	Maltese	malt1254	mlt	FAR	bɛjt	bɛjt	b ɛ j t	bɛjt	FAR			Wiktionary
+Maltese_FAR	Maltese	malt1254	mlt	FAR	bgħid	bɛjt	b ɛ j t	bɛjt	FAR			Wiktionary
 ModernStandardArabic_RIGHT	Modern Standard Arabic	stan1318	arb	RIGHT	yamīn	jamiːn	j a m iː n	yamīn	RIGHT			Wiktionary
 NajdiArabic_RIGHT	Najdi Arabic	najd1235	ars	RIGHT	yəmīn	jəmiːn	j ə m iː n	yəmīn	RIGHT			Wiktionary
 GulfArabic_RIGHT	Gulf Arabic	gulf1241	afb	RIGHT	yemīn	jɛmiːn	j ɛ m iː n	yemīn	RIGHT			Wiktionary
@@ -4381,7 +4381,7 @@ ChadianArabic_RIGHT	Chadian Arabic	chad1249	shu	RIGHT	azzenāy	azzɛnaːj	a z z 
 TunisianArabic_RIGHT	Tunisian Arabic	tuni1259	aeb	RIGHT	līmīn	liːmiːn	l iː m iː n	līmīn	RIGHT			Wiktionary
 MoroccanArabic_RIGHT	Moroccan Arabic	moro1292	ary	RIGHT	əmin	əmin	ə m i n	əmin	RIGHT			Wiktionary
 HassaniyaArabic_RIGHT	Hassaniya Arabic	hass1238	mey	RIGHT	lʕarbiyya	lʕarbijja	l ʕ a r b i j j a	lʕarbiyya	RIGHT			Wiktionary
-Maltese_RIGHT	Maltese	malt1254	mlt	RIGHT	lɛˈmiːn	lɛmiːn	l ɛ m iː n	lɛˈmiːn	RIGHT			Wiktionary
+Maltese_RIGHT	Maltese	malt1254	mlt	RIGHT	lemin	lɛmiːn	l ɛ m iː n	lɛˈmiːn	RIGHT			Wiktionary
 ModernStandardArabic_LEFT	Modern Standard Arabic	stan1318	arb	LEFT	yasār	jasaːr	j a s aː r	yasār	LEFT			Wiktionary
 ModernStandardArabic_LEFT	Modern Standard Arabic	stan1318	arb	LEFT	šimāl	ʃimaːl	ʃ i m aː l	šimāl	LEFT			Wiktionary
 NajdiArabic_LEFT	Najdi Arabic	najd1235	ars	LEFT	yesār	jɛsaːr	j ɛ s aː r	yesār	LEFT			Wiktionary
@@ -4401,7 +4401,7 @@ TunisianArabic_LEFT	Tunisian Arabic	tuni1259	aeb	LEFT	līsār	liːsaːr	l iː s 
 MoroccanArabic_LEFT	Moroccan Arabic	moro1292	ary	LEFT	šmal	ʃmal	ʃ m a l	šmal	LEFT			Wiktionary
 MoroccanArabic_LEFT	Moroccan Arabic	moro1292	ary	LEFT	əṣri	əsˤri	ə sˤ r i	əṣri	LEFT			Wiktionary
 HassaniyaArabic_LEFT	Hassaniya Arabic	hass1238	mey	LEFT	lʕaṣriyya	lʕasˤrijja	l ʕ a sˤ r i j j a	lʕaṣriyya	LEFT			Wiktionary
-Maltese_LEFT	Maltese	malt1254	mlt	LEFT	ʃɛlˈluːk	ʃɛllʊːk	ʃ ɛ l l ʊː k	ʃɛlˈluːk	LEFT			Wiktionary
+Maltese_LEFT	Maltese	malt1254	mlt	LEFT	xellug	ʃɛllʊːk	ʃ ɛ l l ʊː k	ʃɛlˈluːk	LEFT			Wiktionary
 ModernStandardArabic_AT	Modern Standard Arabic	stan1318	arb	AT	bi	bi	b i	bi	AT			Wiktionary
 ModernStandardArabic_AT	Modern Standard Arabic	stan1318	arb	AT	ʕind	ʕind	ʕ i n d	ʕind	AT			Wiktionary
 ModernStandardArabic_AT	Modern Standard Arabic	stan1318	arb	AT	ʔilā	ʔilaː	ʔ i l aː	ʔilā	AT			Wiktionary
@@ -4424,7 +4424,7 @@ ChadianArabic_AT	Chadian Arabic	chad1249	shu	AT	fōg	fɔːɡ	f ɔː ɡ	fōg	AT		
 TunisianArabic_AT	Tunisian Arabic	tuni1259	aeb	AT	ʕand	ʕand	ʕ a n d	ʕand	AT			Wiktionary
 MoroccanArabic_AT	Moroccan Arabic	moro1292	ary	AT	ʕənd	ʕənd	ʕ ə n d	ʕənd	AT			Wiktionary
 HassaniyaArabic_AT	Hassaniya Arabic	hass1238	mey	AT	ʕand	ʕand	ʕ a n d	ʕand	AT			Wiktionary
-Maltese_AT	Maltese	malt1254	mlt	AT	aːnt	ɐːnt	ɐː n t	aːnt	AT			Wiktionary
+Maltese_AT	Maltese	malt1254	mlt	AT	għand	ɐːnt	ɐː n t	aːnt	AT			Wiktionary
 Maltese_AT	Maltese	malt1254	mlt	AT	sa	sɐ	s ɐ	sa	AT			Wiktionary
 ModernStandardArabic_IN	Modern Standard Arabic	stan1318	arb	IN	fī	fiː	f iː	fī	IN			Wiktionary
 ModernStandardArabic_IN	Modern Standard Arabic	stan1318	arb	IN	bi	bi	b i	bi	IN			Wiktionary
@@ -4446,7 +4446,7 @@ ChadianArabic_IN	Chadian Arabic	chad1249	shu	IN	fī	fiː	f iː	fī	IN			Wiktiona
 TunisianArabic_IN	Tunisian Arabic	tuni1259	aeb	IN	fī	fiː	f iː	fī	IN			Wiktionary
 MoroccanArabic_IN	Moroccan Arabic	moro1292	ary	IN	fi	fi	f i	fi	IN			Wiktionary
 HassaniyaArabic_IN	Hassaniya Arabic	hass1238	mey	IN	v	v	v	v	IN			Wiktionary
-Maltese_IN	Maltese	malt1254	mlt	IN	dʒɔ	ʤɔ	ʤ ɔ	dʒɔ	IN			Wiktionary
+Maltese_IN	Maltese	malt1254	mlt	IN	ġo	ʤɔ	ʤ ɔ	dʒɔ	IN			Wiktionary
 ModernStandardArabic_WITH	Modern Standard Arabic	stan1318	arb	WITH	maʕ	maʕ	m a ʕ	maʕ	WITH			Wiktionary
 ModernStandardArabic_WITH	Modern Standard Arabic	stan1318	arb	WITH	bi	bi	b i	bi	WITH			Wiktionary
 NajdiArabic_WITH	Najdi Arabic	najd1235	ars	WITH	maʕ	maʕ	m a ʕ	maʕ	WITH			Wiktionary
@@ -4474,7 +4474,7 @@ TunisianArabic_WITH	Tunisian Arabic	tuni1259	aeb	WITH	mʕā	mʕaː	m ʕ aː	mʕ�
 MoroccanArabic_WITH	Moroccan Arabic	moro1292	ary	WITH	mʕa	mʕa	m ʕ a	mʕa	WITH			Wiktionary
 HassaniyaArabic_WITH	Hassaniya Arabic	hass1238	mey	WITH	mʕa	mʕa	m ʕ a	mʕa	WITH			Wiktionary
 HassaniyaArabic_WITH	Hassaniya Arabic	hass1238	mey	WITH	bə	bə	b ə	bə	WITH			Wiktionary
-Maltese_WITH	Maltese	malt1254	mlt	WITH	maː	mɐː	m ɐː	maː	WITH			Wiktionary
+Maltese_WITH	Maltese	malt1254	mlt	WITH	ma'	mɐː	m ɐː	maː	WITH			Wiktionary
 ModernStandardArabic_AND	Modern Standard Arabic	stan1318	arb	AND	wa	wa	w a	wa	AND			Wiktionary
 NajdiArabic_AND	Najdi Arabic	najd1235	ars	AND	w-	w	w	w-	AND			Wiktionary
 NajdiArabic_AND	Najdi Arabic	najd1235	ars	AND	wɑ	wɑ	w ɑ	wɑ	AND			Wiktionary
@@ -4529,7 +4529,7 @@ TunisianArabic_IF	Tunisian Arabic	tuni1259	aeb	IF	ʔīðā	ʔiːðaː	ʔ iː ð 
 MoroccanArabic_IF	Moroccan Arabic	moro1292	ary	IF	ilɑ	ilɑ	i l ɑ	ilɑ	IF			Wiktionary
 HassaniyaArabic_IF	Hassaniya Arabic	hass1238	mey	IF	ilā	ilaː	i l aː	ilā	IF			Wiktionary
 HassaniyaArabic_IF	Hassaniya Arabic	hass1238	mey	IF	lu	lu	l u	lu	IF			Wiktionary
-Maltese_IF	Maltese	malt1254	mlt	IF	ˈjɛkː	jɛkː	j ɛ kː	ˈjɛkː	IF			Wiktionary
+Maltese_IF	Maltese	malt1254	mlt	IF	jekk	jɛkː	j ɛ kː	ˈjɛkː	IF			Wiktionary
 ModernStandardArabic_BECAUSE	Modern Standard Arabic	stan1318	arb	BECAUSE	liʔanna	liʔanna	l i ʔ a n n a	liʔanna	BECAUSE			Wiktionary
 ModernStandardArabic_BECAUSE	Modern Standard Arabic	stan1318	arb	BECAUSE	kayy	kajj	k a j j	kayy	BECAUSE			Wiktionary
 ModernStandardArabic_BECAUSE	Modern Standard Arabic	stan1318	arb	BECAUSE	min ajali	min aʤali	m i n   a ʤ a l i	min ajali	BECAUSE			Wiktionary
@@ -4562,7 +4562,7 @@ MoroccanArabic_BECAUSE	Moroccan Arabic	moro1292	ary	BECAUSE	ħit	ħit	ħ i t	ħi
 MoroccanArabic_BECAUSE	Moroccan Arabic	moro1292	ary	BECAUSE	ʕla ħqqaš	ʕla ħqqaʃ	ʕ l a   ħ q q a ʃ	ʕla ħqqaš	BECAUSE			Wiktionary
 MoroccanArabic_BECAUSE	Moroccan Arabic	moro1292	ary	BECAUSE	ʕla qbal	ʕla qbal	ʕ l a   q b a l	ʕla qbal	BECAUSE			Wiktionary
 HassaniyaArabic_BECAUSE	Hassaniya Arabic	hass1238	mey	BECAUSE	bīh	biːh	b iː h	bīh	BECAUSE			Wiktionary
-Maltese_BECAUSE	Maltese	malt1254	mlt	BECAUSE	aːʃ	ɐːʃ	ɐː ʃ	aːʃ	BECAUSE			Wiktionary
+Maltese_BECAUSE	Maltese	malt1254	mlt	BECAUSE	għax	ɐːʃ	ɐː ʃ	aːʃ	BECAUSE			Wiktionary
 ModernStandardArabic_NAME	Modern Standard Arabic	stan1318	arb	NAME	ʔism	ʔism	ʔ i s m	ʔism	NAME			Wiktionary
 NajdiArabic_NAME	Najdi Arabic	najd1235	ars	NAME	esm	ɛsm	ɛ s m	esm	NAME			Wiktionary
 GulfArabic_NAME	Gulf Arabic	gulf1241	afb	NAME	asem	asɛm	a s ɛ m	asem	NAME			Wiktionary
@@ -4580,4 +4580,4 @@ TunisianArabic_NAME	Tunisian Arabic	tuni1259	aeb	NAME	ism	ism	i s m	ism	NAME			W
 MoroccanArabic_NAME	Moroccan Arabic	moro1292	ary	NAME	səm	səm	s ə m	səm	NAME			Wiktionary
 MoroccanArabic_NAME	Moroccan Arabic	moro1292	ary	NAME	smiyyɑ	smijjɑ	s m i j j ɑ	smiyyɑ	NAME			Wiktionary
 HassaniyaArabic_NAME	Hassaniya Arabic	hass1238	mey	NAME	ism	ism	i s m	ism	NAME			Wiktionary
-Maltese_NAME	Maltese	malt1254	mlt	NAME	ˈɪsɛm	ɪsɛm	ɪ s ɛ m	ˈɪsɛm	NAME			Wiktionary
+Maltese_NAME	Maltese	malt1254	mlt	NAME	isem	ɪsɛm	ɪ s ɛ m	ˈɪsɛm	NAME			Wiktionary
