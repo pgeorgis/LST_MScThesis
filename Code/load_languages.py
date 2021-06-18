@@ -48,6 +48,7 @@ class Family: #could also be renamed to Dataset
         
         #Initialize languages
         language_vocab_data = defaultdict(lambda:defaultdict(lambda:{}))
+        language_vocabulary = defaultdict(lambda:defaultdict(lambda:{}))
         for i in data:
             lang = data[i][self.language_name_c]
             features = list(data[i].keys())
@@ -61,7 +62,8 @@ class Family: #could also be renamed to Dataset
             self.languages[lang] = Language(name=lang, data=language_vocab_data[lang],
                                             segments_c = self.segments_c,
                                             ipa_c = self.ipa_c,
-                                            
+                                            orthography_c = self.orthography_c,
+                                            concept_c = self.concept_c,
                                             glottocode=self.glottocodes[lang],
                                             iso_code=self.iso_codes[lang])
     
@@ -110,19 +112,28 @@ class Family: #could also be renamed to Dataset
 
 class Language():
     def __init__(self, name, data, glottocode, iso_code, 
-                 segments_c='Segments', ipa_c=''):
+                 segments_c='Segments', ipa_c='Form', 
+                 orthography_c='Value', concept_c='Paramter_ID'):
+        
+        #Attributes for parsing data dictionary (could this be inherited via a subclass?)
+        self.segments_c = segments_c
+        self.ipa_c = ipa_c
+        self.orthography_c = orthography_c
+        self.concept_c = concept_c
         
         self.name = name
         self.glottocode = glottocode
         self.iso_code = iso_code
         self.data = data
+        self.vocabulary = defaultdict(lambda:[])
         self.phonemes = defaultdict(lambda:0)
-        self.create_phoneme_inventory(segments_c)
+        self.create_phoneme_inventory()
+        self.create_vocabulary()
         
-    def create_phoneme_inventory(self, segments_c): #diacritics to remove as non-phonemic
+    def create_phoneme_inventory(self):
         for i in self.data:
             entry = self.data[i]
-            segments = entry[segments_c].split()
+            segments = entry[self.segments_c].split()
             
             #Remove stress and syllabic diacritics
             diacritics_to_remove = ['ˈ', 'ˌ', '̩'] #there should be another syllabic diacritic, for above
@@ -136,9 +147,16 @@ class Language():
             self.phonemes[phoneme] = self.phonemes[phoneme] / total_tokens
             
     def create_vocabulary(self):
-        pass
+        for i in self.data:
+            entry = self.data[i]
+            concept = entry[self.concept_c]
+            orthography = entry[self.orthography_c]
+            ipa = entry[self.ipa_c]
+            self.vocabulary[concept].append([orthography, ipa])
+            
     
-        
+    def lookup(self):
+        pass
 
 #LOAD FAMILIES
 processed_data_path = '/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/'
