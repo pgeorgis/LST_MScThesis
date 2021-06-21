@@ -38,7 +38,8 @@ class Dataset:
         self.glottocodes = {}
         self.iso_codes = {}
         self.load_data()
-        self.create_vocab_index()
+        self.cognate_sets = defaultdict(lambda:defaultdict(lambda:[]))
+        self.load_cognate_sets()
         self.concepts = set(concept.split('_')[0] for concept in self.cognate_sets.keys())
         
     def load_data(self, sep='\t'):
@@ -70,14 +71,8 @@ class Dataset:
                                             iso_code=self.iso_codes[lang], 
                                             loan_c=self.loan_c)
     
-    def create_vocab_index(self, output_file=None,
-                           sep='\t', variants_sep='~'):
-        assert sep != variants_sep
-        if output_file == None:
-            output_file = f'{self.directory}{self.name} Vocabulary Index.csv'
-        
-        #Create cognate set index
-        self.cognate_sets = defaultdict(lambda:defaultdict(lambda:[]))
+    def load_cognate_sets(self):
+        """Creates vocabulary index sorted by cognate sets"""
         for lang in self.languages:
             lang = self.languages[lang]
             for i in lang.data:
@@ -90,8 +85,15 @@ class Dataset:
                 if loan == 'TRUE':
                     transcription = f'({transcription})'
                 self.cognate_sets[cognate_id][lang.name].append(transcription)
-                
-        #Write cognate set index to .csv file
+    
+    def write_vocab_index(self, output_file=None, 
+                          sep='\t', variants_sep='~'):
+        """Write cognate set index to .csv file"""
+        assert sep != variants_sep
+        if output_file == None:
+            output_file = f'{self.directory}{self.name} Vocabulary Index.csv'
+        
+        
         with open(output_file, 'w') as f:
             language_names = sorted([self.languages[lang].name for lang in self.languages])
             header = '\t'.join(['Gloss'] + language_names)
@@ -172,7 +174,7 @@ class Language(Dataset):
     
 
 
-#LOAD FAMILIES
+#LOAD FAMILIES AND WRITE VOCABULARY INDEX FILES
 processed_data_path = '/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/'
 os.chdir(processed_data_path)
 
@@ -183,6 +185,7 @@ for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic', 'Uralic',
     filepath = processed_data_path + family + '/data.csv'
     family_name = family.split('/')[-1]
     families[family_name] = Dataset(filepath, family_name)
+    families[family_name].write_vocab_index()
     globals().update(families[family_name].languages)
 globals().update(families)
 
