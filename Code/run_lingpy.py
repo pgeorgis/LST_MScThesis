@@ -30,13 +30,13 @@ def run_lingpy(lang_group,
         output_file = f'{lang_group.directory}LingPy_input_{lang_group.name}.tsv'
     prepare_lingpy_input(lang_group, output_file, DOCULECT, CONCEPT, TOKENS)
     wl = Wordlist(output_file)
-    lex = LexStat(output_file, segments='tokens', check=False) #previously check=True
+    lex = LexStat(output_file, segments='tokens', check=False) #previously False 
     lex.cluster(method="sca", threshold=0.45, ref='scaid')
     lex.get_scorer(runs=10000)
-    lex.output('tsv', filename=f'LingPy_output_{lang_group.name}.bin', ignore=[])
+    lex.output('tsv', filename=f'{lang_group.directory}LingPy_output_{lang_group.name}.bin', ignore=[])
     lex.cluster(method='lexstat', threshold=0.60, ref='lexstatid')
-    lex.output('tsv', filename=f'Lingpy_{lang_group.name}-lexstat')
-    lex = LexStat(f'Lingpy_output_{lang_group.name}.bin.tsv')
+    lex.output('tsv', filename=f'{lang_group.directory}Lingpy_{lang_group.name}-lexstat')
+    lex = LexStat(f'{lang_group.directory}Lingpy_output_{lang_group.name}.bin.tsv')
     
     
 def process_lingpy_data(lang_group, filepath=None):

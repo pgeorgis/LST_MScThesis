@@ -1,11 +1,11 @@
 #import pandas as pd
 import os
 from collections import defaultdict
-os.chdir('/Users/phgeorgis/Documents/Python Projects/') #fix this eventually, but somehow data is being lost while loading the csv with pandas
 from auxiliary_functions import csv_to_dict, strip_ch
 
-class Family: #could also be renamed to Dataset
+class Dataset: 
     def __init__(self, filepath, name, 
+                 id_c = 'ID',
                  language_name_c='Language_ID',
                  concept_c = 'Parameter_ID',
                  orthography_c = 'Value',
@@ -21,6 +21,7 @@ class Family: #could also be renamed to Dataset
         self.directory = self.filepath.rsplit('/', maxsplit=1)[0] + '/'
         
         #Columns of dataset
+        self.id_c = id_c
         self.language_name_c = language_name_c
         self.concept_c = concept_c
         self.orthography_c = orthography_c
@@ -43,7 +44,7 @@ class Family: #could also be renamed to Dataset
     def load_data(self, sep='\t'):
         #Load data file
         #data = pd.read_csv(self.filepath, sep=sep, error_bad_lines=False)
-        data = csv_to_dict(self.filepath, divider=sep)
+        data = csv_to_dict(self.filepath, sep=sep)
         self.data = data
         
         #Initialize languages
@@ -60,12 +61,14 @@ class Family: #could also be renamed to Dataset
         
         for lang in language_vocab_data:
             self.languages[lang] = Language(name=lang, data=language_vocab_data[lang],
+                                            id_c = self.id_c,
                                             segments_c = self.segments_c,
                                             ipa_c = self.ipa_c,
                                             orthography_c = self.orthography_c,
                                             concept_c = self.concept_c,
                                             glottocode=self.glottocodes[lang],
-                                            iso_code=self.iso_codes[lang])
+                                            iso_code=self.iso_codes[lang], 
+                                            loan_c=self.loan_c)
     
     def create_vocab_index(self, output_file=None,
                            sep='\t', variants_sep='~'):
@@ -110,23 +113,31 @@ class Family: #could also be renamed to Dataset
 
         
 
-class Language():
-    def __init__(self, name, data, glottocode, iso_code, 
+class Language(Dataset):
+    def __init__(self, name, data, glottocode, iso_code,
                  segments_c='Segments', ipa_c='Form', 
-                 orthography_c='Value', concept_c='Paramter_ID'):
+                 orthography_c='Value', concept_c='Paramter_ID',
+                 loan_c='Loan', id_c='ID'):
         
         #Attributes for parsing data dictionary (could this be inherited via a subclass?)
+        self.id_c = id_c
         self.segments_c = segments_c
         self.ipa_c = ipa_c
         self.orthography_c = orthography_c
         self.concept_c = concept_c
+        self.loan_c = loan_c
         
         self.name = name
         self.glottocode = glottocode
         self.iso_code = iso_code
         self.data = data
-        self.vocabulary = defaultdict(lambda:[])
+        
+        
         self.phonemes = defaultdict(lambda:0)
+        self.vocabulary = defaultdict(lambda:[])
+        self.loanwords = defaultdict(lambda:[])
+        
+        
         self.create_phoneme_inventory()
         self.create_vocabulary()
         
@@ -153,10 +164,13 @@ class Language():
             orthography = entry[self.orthography_c]
             ipa = entry[self.ipa_c]
             self.vocabulary[concept].append([orthography, ipa])
+            loan = entry[self.loan_c]
             
+            #Mark known loanwords
+            if loan == 'TRUE':
+                self.loanwords[concept].append([orthography, ipa])
     
-    def lookup(self):
-        pass
+
 
 #LOAD FAMILIES
 processed_data_path = '/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/'
@@ -168,7 +182,7 @@ for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic', 'Uralic',
                'NorthEuraLex/BaltoSlavic', 'NorthEuraLex/Uralic']:
     filepath = processed_data_path + family + '/data.csv'
     family_name = family.split('/')[-1]
-    families[family_name] = Family(filepath, family_name)
+    families[family_name] = Dataset(filepath, family_name)
     globals().update(families[family_name].languages)
 globals().update(families)
 
