@@ -1,7 +1,10 @@
-#import pandas as pd
-import os
+import os, re
 from collections import defaultdict
 from auxiliary_functions import csv_to_dict, strip_ch
+from pathlib import Path
+local_dir = Path(str(os.getcwd()))
+parent_dir = local_dir.parent
+grandparent_dir = parent_dir.parent
 
 class Dataset: 
     def __init__(self, filepath, name, 
@@ -175,18 +178,17 @@ class Language(Dataset):
 
 
 #LOAD FAMILIES AND WRITE VOCABULARY INDEX FILES
-processed_data_path = '/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Resources/Data/Processed Data/'
-os.chdir(processed_data_path)
-
-
+datasets_path = str(parent_dir) + '/Datasets/'
+os.chdir(datasets_path)
 families = {}
-for family in ['Arabic', 'Italic', 'Polynesian', 'Sinitic', 'Turkic', 'Uralic',
-               'NorthEuraLex/BaltoSlavic', 'NorthEuraLex/Uralic']:
-    filepath = processed_data_path + family + '/data.csv'
-    family_name = family.split('/')[-1]
-    families[family_name] = Dataset(filepath, family_name)
-    families[family_name].write_vocab_index()
-    globals().update(families[family_name].languages)
+for family in ['Arabic', 'Balto-Slavic', 'Italic', 
+               'Polynesian', 'Sinitic', 
+               'Turkic', 'Uralic']:
+    family_path = re.sub('-', '_', family).lower()
+    filepath = datasets_path + family + f'/{family_path}_data.csv'
+    families[family] = Dataset(filepath, family)
+    families[family].write_vocab_index()
+    globals().update(families[family].languages)
 globals().update(families)
 
 #%%
