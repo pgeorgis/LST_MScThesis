@@ -87,7 +87,11 @@ class Dataset:
                 loan = entry[self.loan_c]
                 if loan == 'TRUE':
                     transcription = f'({transcription})'
-                self.cognate_sets[cognate_id][lang.name].append(transcription)
+                
+                #Don't add duplicate entries
+                if transcription not in self.cognate_sets[cognate_id][lang.name]:
+                    self.cognate_sets[cognate_id][lang.name].append(transcription)
+
     
     def write_vocab_index(self, output_file=None, 
                           sep='\t', variants_sep='~'):
