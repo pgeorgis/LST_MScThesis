@@ -62,7 +62,7 @@ for i in range(len(list(lang_metadata['Name']))):
 #WRITE LANGUAGE INDICES
 for dataset in ['Arabic',
                 'Balto-Slavic',
-                #'Hokan',
+                'Hokan',
                 'Italic',
                 'Polynesian',
                 'Sinitic',

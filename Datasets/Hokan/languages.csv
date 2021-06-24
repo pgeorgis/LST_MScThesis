@@ -1,0 +1,21 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Concept_Count,Word_Count
+CentralPomo,Central Pomo,cent2138,Central Pomo,poo,North America,38.90547,-123.66393,Pomoan,98,99
+CentralYana,Central Yana,cent2137,Central Yana,ynn,North America,39.2769,-121.608,Yana,78,80
+Chimariko,Chimariko,chim1301,Chimariko,cid,North America,41.0,-123.0,Isolate,99,117
+Cocopa,Cocopa,coco1261,Cocopa,coc,North America,32.376,-114.848,Cochimi-Yuman,111,115
+EasternPomo,Eastern Pomo,east2545,Eastern Pomo,peb,North America,38.5647,-122.586,Pomoan,108,109
+HighlandChontal,Highland Chontal,high1242,Highland Oaxaca Chontal,chd,North America,16.1849,-95.7301,Tequistlatecan,111,113
+MesaGrande'Iipay,Ipai,ipai1240,Ipai,dih,North America,33.005,-116.993,Cochimi-Yuman,107,113
+Karuk,Karok,karo1304,Karok,kyh,North America,41.8228,-123.315,Isolate,110,114
+Kashaya,Kashaya,kash1280,Kashaya,kju,North America,38.5424,-123.08,Pomoan,103,104
+Mojave,Mohave,moha1256,Mohave,mov,North America,34.8866,-114.599,Cochimi-Yuman,109,129
+NortheasternPomo,Northeastern Pomo,nort2967,Northeastern Russian River Pomo,pef,North America,39.2894,-122.509,Pomoan,92,94
+NorthernPomo,Northern Pomo,nort2966,Northern Pomo,pej,North America,39.1084,-123.209,Pomoan,104,105
+NorthernYana,Northern Yana,nort2963,Northern Yana,ynn,North America,39.2769,-121.608,Yana,96,98
+Seri,Seri,seri1257,Seri,sei,North America,28.9877,-112.384,Isolate,111,111
+Shasta,Shasta,shas1239,Shasta,sht,North America,41.7587,-122.738,Shastan,105,106
+SoutheasternPomo,Southeastern Pomo,sout2982,Southeastern Pomo,pom,North America,38.9354,-122.599,Pomoan,102,104
+SouthernPomo,Southern Pomo,sout2984,Southern Pomo,peq,North America,38.7643,-122.545,Pomoan,99,100
+JamulTiipay,Tipay,kumi1248,Tipay,dih,North America,32.331,-116.604,Cochimi-Yuman,88,93
+Yahi,Yahi,yahi1243,Yahi,ynn,North America,39.2769,-121.608,Yana,80,82
+Yavapai,Yavapai,yava1252,Yavapai,yuf,North America,35.6302,-113.385,Cochimi-Yuman,110,123
