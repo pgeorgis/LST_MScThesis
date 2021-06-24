@@ -1,0 +1,24 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Concept_Count,Word_Count
+Erzya,Erzya,erzy1239,Erzya,myv,Eurasia,52.8548,45.3901,Uralic,309,431
+Estonian,Estonian,esto1258,Estonian,ekk,Eurasia,58.55,25.82,Uralic,311,372
+Finnish,Finnish,finn1318,Finnish,fin,Eurasia,64.7628,25.5577,Uralic,311,360
+Hungarian,Hungarian,hung1274,Hungarian,hun,Eurasia,46.9068585714,19.6555271429,Uralic,295,376
+Ingrian,Ingrian,ingr1248,Ingrian,izh,Eurasia,59.47403,29.71145,Uralic,293,371
+Karelian,Karelian,kare1335,Karelian,krl,Eurasia,65.1691,30.8655,Uralic,193,201
+Khanty,Khanty,fare1244,Vach-Vasjugan,,Eurasia,60.10378,79.873651,Uralic,285,372
+KildinSaami,Kildin Saami,kild1236,Kildin Saami,sjd,Eurasia,68.2158,35.8348,Uralic,306,327
+Komi-Permyak,Komi-Permyak,komi1269,Komi-Permyak,koi,Eurasia,59.6602,54.7959,Uralic,310,362
+Komi-Zyrian,Komi-Zyrian,komi1268,Komi-Zyrian,kpv,Eurasia,64.0527,54.946,Uralic,303,390
+Livonian,Livonian,west1760,Courland Livonian,liv,Eurasia,57.566,22.0262,Uralic,197,209
+Mansi,Mansi,nort2677,Sosva Mansi,mns,Eurasia,64.4118,61.344,Uralic,299,369
+MeadowMari,Meadow Mari,east2328,Eastern Mari,mhr,Eurasia,55.8307,48.405,Uralic,310,425
+Nganasan,Nganasan,ngan1291,Nganasan,nio,Eurasia,73.1354,86.2106,Uralic,277,370
+NorthSaami,North Saami,nort2671,North Saami,sme,Eurasia,68.725,22.1113,Uralic,194,210
+Selkup,Selkup,tazz1244,Taz-Turukhan,sel,Eurasia,65.7035,82.4441,Uralic,288,310
+SkoltSaami,Skolt Saami,skol1241,Skolt Saami,sms,Eurasia,68.8326,29.7204,Uralic,199,211
+SouthSaami,South Saami,sout2674,South Saami,sma,Eurasia,62.8801,13.7006,Uralic,185,209
+TundraNenets,Tundra Nenets,nene1249,Tundra Nenets,yrk,Eurasia,66.1775,71.0234,Uralic,172,173
+Udmurt,Udmurt,udmu1245,Udmurt,udm,Eurasia,56.12921,52.63548,Uralic,303,357
+Veps,Veps,veps1250,Veps,vep,Eurasia,60.3353,34.7865,Uralic,194,199
+Votic,Votic,west2391,West Vod,vot,Eurasia,57.85,27.0,Uralic,295,400
+Võro,Võro,sout2679,South Estonian,vro,Eurasia,57.85,27.0,Uralic,1,1
