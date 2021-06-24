@@ -1,0 +1,7 @@
+Arabic:arab1395
+Balto-Slavic:balt1263
+Italic:lati1263
+Polynesian:poly1242
+Sinitic:sini1245
+Turkic:turk1311
+Uralic:ural1272
