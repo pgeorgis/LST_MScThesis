@@ -1,311 +1,311 @@
-Dataset	Family	Name	Source Name	Glottolog Name	Glottocode	ISO 639-3	ISO 639-3 Name	Reference	Notes
-Arabic	Afro-Asiatic, Semitic, Arabian	Modern Standard Arabic	Arabic (MSA)	Standard Arabic	stan1318	arb	Standard Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Arabian Peninsula Arabic	Dhofari Arabic	Dhofari (Oman)	Dhofari Arabic	dhof1235	adf	Dhofari Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Arabian Peninsula Arabic	Gulf Arabic	Gulf (Emirati)	Gulf Arabic	gulf1241	afb	Gulf Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Arabian Peninsula Arabic	Najdi Arabic	Najdi (Riyadh)	Najdi Arabic	najd1235	ars	Najdi Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Arabian Peninsula Arabic	Sanaani Arabic	Sanaani (Sana'a)	Sanaani Arabic	sana1295	ayn	Sanaani Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Eastern Arabic	Iraqi Arabic	Iraqi (Southern Iraq/Baghdad)	Gilit Mesopotamian Arabic	meso1252	acm	Mesopotamian Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Eastern Arabic, Qeltu	North Mesopotamian Arabic	Moslawi (Northern Iraq)	Mosul Arabic	mosu1235	ayp	North Mesopotamian Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Egyptic Arabic	Egyptian Arabic	Egyptian (Lower Egyptian)	Egyptian Arabic	egyp1253	arz	Egyptian Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Egyptic Arabic, Sudanese-Chadian Arabic	Chadian Arabic	Chadian (Western Sudanic)	Chadian Arabic	chad1249	shu	Chadian Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Egyptic Arabic, Sudanese-Chadian Arabic	Sudanese Arabic	Sudanese (Khartoum)	Sudanese Arabic	suda1236	apd	Sudanese Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Levantine Arabic	Cypriot Arabic	Cypriot (Kormakitis)	Cypriot Arabic	cypr1248	acy	Cypriot Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, Levantine Arabic	Levantine Arabic	Levantine (Central/Syro-Lebanese)	North Levantine Arabic	nort3139	apc	North Levantine Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Hassaniya Arabic	Hassaniya (Mauritanian)	Hassaniyya	hass1238	mey	Hassaniyya	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Maltese	Maltese	Maltese	malt1254	mlt	Maltese	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Moroccan Arabic	Moroccan (Casablanca)	Moroccan Arabic	moro1292	ary	Moroccan Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Tunisian Arabic	Tunisian (Tunis)	Tunisian Arabic	tuni1259	aeb	Tunisian Arabic	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
-Hokan	Chimariko	Chimariko	Chimariko	Chimariko	chim1301	cid	Chimariko	Zhivlov (2011)	
-Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman	Cocopa	Cocopa	Cocopa	coco1261	coc	Cocopa	Zhivlov (2015)	
-Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Ipai	Mesa Grande 'Iipay	Ipai	ipai1240	dih	Kumiai	Zhivlov (2015)	
-Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Tipay	Jamul Tiipay	Tipay	kumi1248	dih	Kumiai	Zhivlov (2015)	
-Hokan	Cochimi-Yuman, Yuman, Pai	Yavapai	Yavapai	Yavapai	yava1252	yuf	Havasupai-Walapai-Yavapai	Zhivlov (2015)	
-Hokan	Cochimi-Yuman, Yuman, River Yuman	Mohave	Mojave	Mohave	moha1256	mov	Mohave	Zhivlov (2015)	
-Hokan	Karok	Karok	Karuk	Karok	karo1304	kyh	Karok	Zhivlov (2011)	
-Hokan	Pomoan	Southeastern Pomo	Southeastern Pomo	Southeastern Pomo	sout2982	pom	Southeastern Pomo	Zhivlov (2013)	
-Hokan	Pomoan, Russian River and Eastern	Eastern Pomo	Eastern Pomo	Eastern Pomo	east2545	peb	Eastern Pomo	Zhivlov (2013)	
-Hokan	Pomoan, Russian River and Eastern, Russian River	Northeastern Pomo	Northeastern Pomo	Northeastern Russian River Pomo	nort2967	pef	Northeastern Pomo	Zhivlov (2013)	
-Hokan	Pomoan, Russian River and Eastern, Russian River, Northern-Central Pomoan	Central Pomo	Central Pomo	Central Pomo	cent2138	poo	Central Pomo	Zhivlov (2013)	
-Hokan	Pomoan, Russian River and Eastern, Russian River, Northern-Central Pomoan	Northern Pomo	Northern Pomo	Northern Pomo	nort2966	pej	Northern Pomo	Zhivlov (2013)	
-Hokan	Pomoan, Russian River and Eastern, Russian River, Southern Pomoan-Kashaya	Kashaya	Kashaya	Kashaya	kash1280	kju	Kashaya	Zhivlov (2013)	
-Hokan	Pomoan, Russian River and Eastern, Russian River, Southern Pomoan-Kashaya	Southern Pomo	Southern Pomo	Southern Pomo	sout2984	peq	Southern Pomo	Zhivlov (2013)	
-Hokan	Seri	Seri	Seri	Seri	seri1257	sei	Seri	Zhivlov (2011)	
-Hokan	Shastan	Shasta	Shasta	Shasta	shas1239	sht	Shasta	Zhivlov (2012)	
-Hokan	Tequistlatecan	Highland Chontal	Highland Chontal	Highland Oaxaca Chontal	high1242	chd	Highland Oaxaca Chontal	Zhivlov (2012)	
-Hokan	Yana	Central Yana	Central Yana	Central Yana	cent2137	ynn	Yana	Zhivlov (2013)	
-Hokan	Yana	Northern Yana	Northern Yana	Northern Yana	nort2963	ynn	Yana	Zhivlov (2013)	
-Hokan	Yana	Yahi	Yahi	Yahi	yahi1243	ynn	Yana	Zhivlov (2013)	
-Italic	Indo-European, Italic	Latin (Archaic)	Archaic Latin	Old Latin	oldl1238	qbb		Saenko (2015)	
-Italic	Indo-European, Italic	Latin (Late Classical)	Late Classical Latin	Late Latin	late1252	lat	Latin	Saenko (2015)	
-Italic	Indo-European, Italic, Eastern Romance	Aromanian	Aromanian	Aromanian	arom1237	rup	Aromanian	Saenko (2015)	
-Italic	Indo-European, Italic, Eastern Romance	Istro-Romanian	Istro Romanian	Istro Romanian	istr1245	ruo	Istro Romanian	Saenko (2015)	
-Italic	Indo-European, Italic, Eastern Romance	Megleno-Romanian	Megleno Romanian	Megleno Romanian	megl1237	ruq	Megleno Romanian	Saenko (2015)	
-Italic	Indo-European, Italic, Eastern Romance	Romanian	Romanian	Romanian	roma1327	ron	Romanian	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Dalmatian	Dalmatian	Dalmatian	dalm1243	dlm	Dalmatian	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Italian (Foligno)	Foligno Italian	Italian	ital1282	ita	Italian	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Italian (Grosseto)	Grosseto Italian	Italian	ital1282	ita	Italian	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Italian (Standard)	Standard Italian	Italian	ital1282	ita	Italian	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Neapolitan	Neapolitan	Napoletano	napo1241	nap	Neapolitan	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Old Italian	Old Italian	Old Italian	fior1236	ita	Italian	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Catanian)	Catanian Sicilian	Eastern Nonmetafonetica	east2279	scn	Sicilian	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Messinese)	Messinese Sicilian	Messinese	mess1247	scn	Sicilian	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Palermitan)	Palermitan Sicilian	Western Sicilian	west2346	scn	Sicilian	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Southeastern)	South-Eastern Sicilian	Southeast Metafonetica	sout2617	scn	Sicilian	Saenko (2015)	
-Italic	Indo-European, Italic, Southern Romance	Sardinian (Campidanese)	Campidanese	Campidanese Sardinian	camp1261	sro	Campidanese Sardinian	Saenko (2015)	
-Italic	Indo-European, Italic, Southern Romance	Sardinian (Logudorese)	Logudorese	Logudorese Sardinian	logu1236	src	Logudorese Sardinian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Asturian	Asturian	Asturian	astu1246	ast	Asturian; Leonese	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Castelló de la Plana)	Castelló de la Plana Catalan	Valencià Meridional	vale1255	cat	Valencian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Central)	Central Catalan	Central Catalan	nons1235	cat	Catalan	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Manises)	Manises Catalan	Valencià Septentrional	vale1253	cat	Valencian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Minorcan)	Minorcan Catalan	Menorquí	meno1253	cat	Catalan	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Northwestern)	North-Western Catalan	Català Nord-Occidental	cata1291	cat	Catalan	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Valencia)	Valencia Catalan	Valencià	vale1252	cat	Valencian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Emiliano (Carpigiano)	Carpigiano Emiliano	Emiliano	emil1241	egl	Emilian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Emiliano (Ferrarese)	Ferrarese Emiliano	Eastern Emiliano	east2275	egl	Emilian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Emiliano (Reggiano)	Reggiano Emiliano	Central Emiliano	cent1959	egl	Emilian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Franco-Provençal	Savoyard Franco-Provençal	Francoprovencalic	fran1269	frp	Francoprovençal	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	French	Standard French	French	stan1290	fra	French	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Friulian	Friulian	Friulian	friu1240	fur	Friulian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Galician	Galician	Galician	gali1258	glg	Galician	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ladin (Fassano)	Fassano Ladin	Fassano	fass1244	lld	Ladin	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ladin (Gardenese)	Gardenese Ladin	Gardenese	gard1241	lld	Ladin	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ligurian (Genoese)	Genoese Ligurian	Genoese	geno1240	lij	Ligurian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ligurian (Rapallo)	Rapallo Ligurian	Ligurian	ligu1248	lij	Ligurian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ligurian (Stella)	Stella Ligurian	Ligurian	ligu1248	lij	Ligurian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Lombard (Bergamo)	Bergamo Lombard	Bergamasco	berg1241	lmo	Lombard	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Lombard (Plesio)	Plesio Lombard	Western Lombard	west2343	lmo	Lombard	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Old French	Old French	Old French (842-ca. 1400)	oldf1239	fro	Old French (842-ca. 1400)	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Picard	Picard	Picard	pica1241	pcd	Picard	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Barbania)	Barbania Piemontese	Piemontese	piem1238	pms	Piemontese	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Carmagnola)	Carmagnola Piemontese	Piemontese	piem1238	pms	Piemontese	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Lanzo Torinese)	Lanzo Torinese Piemontese	Piemontese	piem1238	pms	Piemontese	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Turinese)	Turinese Piemontese	Turinese	turi1245	pms	Piemontese	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Vercellese)	Vercellese Piemontese	Piemontese	piem1238	pms	Piemontese	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Portuguese	Standard Portuguese	Portuguese	port1283	por	Portuguese	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romagnol	Ravennate Romagnol	Romagnol	roma1328	rgn	Romagnol	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romansh (Grischun)	Rumantsch Grischun	Rumantsch Grischun	ruma1247	roh	Romansh	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romansh (Surmiran)	Surmiran Romansh	Surmiran-Albula	surm1243	roh	Romansh	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romansh (Sursilvan)	Sursilvan Romansh	Sursilvan	surs1244	roh	Romansh	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romansh (Vallader)	Vallader Romansh	Lower Engadine	lowe1386	roh	Romansh	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Spanish	Castilian Spanish	Castilian	cast1244	spa	Spanish	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Venetian (Bellunese)	Bellunese Venetian	Triestine	trie1242	vec	Venetian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Venetian (Primiero)	Primiero Venetian	Trentine	tret1239	vec	Venetian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Venetian (Venice)	Venice Venetian	Venetian Proper	vene1259	vec	Venetian	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Walloon	Walloon	Walloon	wall1255	wln	Walloon	Saenko (2015)	
-NorthEuraLex	Abkhaz-Adyge, Abkhaz-Abaza	Abkhaz	Abkhaz	Abkhaz	abkh1244	abk	Abkhazian	Dellert et al., 2019	
-NorthEuraLex	Abkhaz-Adyge, Circassian	Adyghe	Adyghe	Adyghe	adyg1241	ady	Adyghe	Dellert et al., 2019	
-NorthEuraLex	Afro-Asiatic, Semitic	Modern Hebrew	Modern Hebrew	Modern Hebrew	hebr1245	heb	Hebrew	Dellert et al., 2019	
-NorthEuraLex	Afro-Asiatic, Semitic	Standard Arabic	Standard Arabic	Standard Arabic	stan1318	arb	Standard Arabic	Dellert et al., 2019	
-NorthEuraLex	Ainu, Hokkaido-Kuril Ainu	Hokkaido Ainu	Hokkaido Ainu	Hokkaido Ainu	ainu1240	ain	Ainu (Japan)	Dellert et al., 2019	
-NorthEuraLex	Basque, Basque	Basque	Basque	Basque	basq1248	eus	Basque	Dellert et al., 2019	
-NorthEuraLex	Burushaski, Burushaski	Burushaski	Burushaski	Burushaski	buru1296	bsk	Burushaski	Dellert et al., 2019	
-NorthEuraLex	Chukotko-Kamchatkan, Chukotian	Chukchi	Chukchi	Chukchi	chuk1273	ckt	Chukot	Dellert et al., 2019	
-NorthEuraLex	Chukotko-Kamchatkan, Itelmen	Itelmen	Itelmen	West Itelmen	itel1242	itl	Itelmen	Dellert et al., 2019	
-NorthEuraLex	Dravidian, South Dravidian	Kannada	Kannada	Kannada	nucl1305	kan	Kannada	Dellert et al., 2019	
-NorthEuraLex	Dravidian, South Dravidian	Malayalam	Malayalam	Malayalam	mala1464	mal	Malayalam	Dellert et al., 2019	
-NorthEuraLex	Dravidian, South Dravidian	Tamil	Tamil	Tamil	tami1289	tam	Tamil	Dellert et al., 2019	
-NorthEuraLex	Dravidian, South Dravidian	Telugu	Telugu	Telugu	telu1262	tel	Telugu	Dellert et al., 2019	
-NorthEuraLex	Eskimo-Aleut, Aleut	Aleut	Aleut	Aleut	aleu1260	ale	Aleut	Dellert et al., 2019	
-NorthEuraLex	Eskimo-Aleut, Eskimo	Central Siberian Yupik	Central Siberian Yupik	Central Siberian Yupik	cent2128	ess	Central Siberian Yupik	Dellert et al., 2019	
-NorthEuraLex	Eskimo-Aleut, Eskimo	Kalaallisut	Kalaallisut	Kalaallisut	kala1399	kal	Kalaallisut	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Albanian	Standard Albanian	Standard Albanian	Albanian	alba1267	sqi	Albanian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Armenic	Armenian	Armenian	Eastern Armenian	nucl1235	hye	Armenian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Baltic	Latvian	Latvian	Latvian	latv1249	lav	Latvian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Baltic	Lithuanian	Lithuanian	Lithuanian	lith1251	lit	Lithuanian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Belarusian	Belarusian	Belarusian	bela1254	bel	Belarusian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Bulgarian	Bulgarian	Bulgarian	bulg1262	bul	Bulgarian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Croatian	Croatian	Croatian Standard	croa1245	hrv	Croatian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Czech	Czech	Czech	czec1258	ces	Czech	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Polish	Polish	Polish	poli1260	pol	Polish	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Russian	Russian	Russian	russ1263	rus	Russian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Slovak	Slovak	Slovak	slov1269	slk	Slovak	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Slovene	Slovene	Slovenian	slov1268	slv	Slovenian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Ukrainian	Ukrainian	Ukrainian	ukra1253	ukr	Ukrainian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Celtic	Breton	Breton	Breton	bret1244	bre	Breton	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Celtic	Irish	Irish	Irish	iris1253	gle	Irish	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Celtic	Welsh	Welsh	Welsh	wels1247	cym	Welsh	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Germanic	Danish	Danish	Danish	dani1285	dan	Danish	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Germanic	Dutch	Dutch	Dutch	dutc1256	nld	Dutch; Flemish	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Germanic	English	English	English	stan1293	eng	English	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Germanic	German	German	German	stan1295	deu	German	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Germanic	Icelandic	Icelandic	Icelandic	icel1247	isl	Icelandic	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Germanic	Norwegian (Bokmål)	Norwegian (Bokmål)	Norwegian	norw1258	nor	Norwegian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Germanic	Swedish	Swedish	Swedish	swed1254	swe	Swedish	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Graeco-Phrygian, Greek	Modern Greek	Modern Greek	Modern Greek	mode1248	ell	Modern Greek (1453-)	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Indo-Iranian, Indo-Aryan	Bengali	Bengali	Bengali	beng1280	ben	Bengali	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Indo-Iranian, Indo-Aryan	Hindi	Hindi	Hindi	hind1269	hin	Hindi	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Indo-Iranian, Iranian	Northern Kurdish	Northern Kurdish	Northern Kurdish	nort2641	kmr	Northern Kurdish	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Indo-Iranian, Iranian	Northern Pashto	Northern Pashto	Northern Pashto	nort2646	pbu	Northern Pashto	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Indo-Iranian, Iranian	Ossetian	Ossetian	Modern Ossetic	osse1243	oss	Ossetic	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Indo-Iranian, Iranian	Western Farsi	Western Farsi	Western Farsi	west2369	pes	Iranian Persian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Italic	Catalan	Catalan	Catalan	stan1289	cat	Catalan; Valencian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Italic	French	French	French	stan1290	fra	French	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Italic	Italian	Italian	Italian	ital1282	ita	Italian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Italic	Latin	Latin	Latin	lati1261	lat	Latin	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Italic	Portuguese	Portuguese	Portuguese	port1283	por	Portuguese	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Italic	Romanian	Romanian	Romanian	roma1327	ron	Romanian	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Italic	Spanish	Spanish	Spanish	stan1288	spa	Spanish	Dellert et al., 2019	
-NorthEuraLex	Japonic, Japanesic	Japanese	Japanese	Japanese	nucl1643	jpn	Japanese	Dellert et al., 2019	
-NorthEuraLex	Kartvelian, Georgian-Zan	Georgian	Georgian	Georgian	nucl1302	kat	Georgian	Dellert et al., 2019	
-NorthEuraLex	Koreanic, Korean	Korean	Korean	Korean	kore1280	kor	Korean	Dellert et al., 2019	
-NorthEuraLex	Mongolic, Eastern Mongolic	Buryat	Buryat	Buriat	buri1258	bua	Buriat	Dellert et al., 2019	
-NorthEuraLex	Mongolic, Eastern Mongolic	Kalmyk	Kalmyk	Oirad-Kalmyk-Darkhat	kalm1243	xal	Oirat	Dellert et al., 2019	
-NorthEuraLex	Mongolic, Eastern Mongolic	Khalkha Mongolian	Khalkha Mongolian	Halh Mongolian	halh1238	khk	Halh Mongolian	Dellert et al., 2019	
-NorthEuraLex	Nakh-Daghestanian, Daghestanian	Avar	Avar	Avar	avar1256	ava	Avaric	Dellert et al., 2019	
-NorthEuraLex	Nakh-Daghestanian, Daghestanian	Dargwa	Dargwa	North-Central Dargwa	darg1241	dar	Dargwa	Dellert et al., 2019	
-NorthEuraLex	Nakh-Daghestanian, Daghestanian	Lak	Lak	Lak	lakk1252	lbe	Lak	Dellert et al., 2019	
-NorthEuraLex	Nakh-Daghestanian, Daghestanian	Lezgian	Lezgian	Lezgian	lezg1247	lez	Lezghian	Dellert et al., 2019	
-NorthEuraLex	Nakh-Daghestanian, Daghestanian	Tsez	Tsez	Tsez	dido1241	ddo	Dido	Dellert et al., 2019	
-NorthEuraLex	Nakh-Daghestanian, Nakh	Chechen	Chechen	Chechen	chec1245	che	Chechen	Dellert et al., 2019	
-NorthEuraLex	Nivkh, Nivkh	Nivkh	Nivkh	Amur Nivkh	gily1242	niv	Gilyak	Dellert et al., 2019	
-NorthEuraLex	Sino-Tibetan, Sinitic	Mandarin Chinese	Mandarin Chinese	Mandarin Chinese	mand1415	cmn	Mandarin Chinese		
-NorthEuraLex	Tungusic, Central Tungusic	Nanai	Nanai	Nanai	nana1257	gld	Nanai	Dellert et al., 2019	
-NorthEuraLex	Tungusic, Manchu-Jurchen	Manchu	Manchu	Manchu	manc1252	mnc	Manchu	Dellert et al., 2019	
-NorthEuraLex	Tungusic, Northern Tungusic	Evenki	Evenki	Evenki	even1259	evn	Evenki	Dellert et al., 2019	
-NorthEuraLex	Turkic, Bolgar	Chuvash	Chuvash	Chuvash	chuv1255	chv	Chuvash	Dellert et al., 2019	
-NorthEuraLex	Turkic, Kipchak	Bashkir	Bashkir	Bashkir	bash1264	bak	Bashkir	Dellert et al., 2019	
-NorthEuraLex	Turkic, Kipchak	Kazakh	Kazakh	Kazakh	kaza1248	kaz	Kazakh	Dellert et al., 2019	
-NorthEuraLex	Turkic, Kipchak	Tatar	Tatar	Tatar	tata1255	tat	Tatar	Dellert et al., 2019	
-NorthEuraLex	Turkic, North Siberian Turkic	Sakha	Sakha	Sakha	yaku1245	sah	Yakut	Dellert et al., 2019	
-NorthEuraLex	Turkic, Oghuz	North Azerbaijani	North Azerbaijani	North Azerbaijani	nort2697	azj	North Azerbaijani	Dellert et al., 2019	
-NorthEuraLex	Turkic, Oghuz	Turkish	Turkish	Turkish	nucl1301	tur	Turkish	Dellert et al., 2019	
-NorthEuraLex	Turkic, Turkestan Turkic	Northern Uzbek	Northern Uzbek	Northern Uzbek	nort2690	uzn	Northern Uzbek	Dellert et al., 2019	
-NorthEuraLex	Uralic, Finnic	Estonian	Estonian	Estonian	esto1258	ekk	Standard Estonian	Dellert et al., 2019	
-NorthEuraLex	Uralic, Finnic	Finnish	Finnish	Finnish	finn1318	fin	Finnish	Dellert et al., 2019	
-NorthEuraLex	Uralic, Finnic	Livonian	Livonian	Liv	livv1244	liv	Liv	Dellert et al., 2019	
-NorthEuraLex	Uralic, Finnic	North Karelian	North Karelian	Karelian	kare1335	krl	Karelian	Dellert et al., 2019	
-NorthEuraLex	Uralic, Finnic	Olonets Karelian	Olonets Karelian	Livvi	livv1243	olo	Livvi	Dellert et al., 2019	
-NorthEuraLex	Uralic, Finnic	Veps	Veps	Veps	veps1250	vep	Veps	Dellert et al., 2019	
-NorthEuraLex	Uralic, Ugric, Hungarian	Hungarian	Hungarian	Hungarian	hung1274	hun	Hungarian	Dellert et al., 2019	
-NorthEuraLex	Uralic, Ugric, Khantyic	Northern Khanty	Northern Khanty	Kazym-Berezover-Suryskarer Khanty	khan1273	kca	Khanty	Dellert et al., 2019	
-NorthEuraLex	Uralic, Ugric, Mansic	Northern Mansi	Northern Mansi	Northern Mansi	mans1258	mns	Mansi	Dellert et al., 2019	
-NorthEuraLex	Uralic, Mari	Hill Mari	Hill Mari	Western Mari	west2392	mrj	Western Mari	Dellert et al., 2019	
-NorthEuraLex	Uralic, Mari	Meadow Mari	Meadow Mari	Eastern Mari	east2328	mhr	Eastern Mari	Dellert et al., 2019	
-NorthEuraLex	Uralic, Mordvin	Erzya	Erzya	Erzya	erzy1239	myv	Erzya	Dellert et al., 2019	
-NorthEuraLex	Uralic, Mordvin	Moksha	Moksha	Moksha	moks1248	mdf	Moksha	Dellert et al., 2019	
-NorthEuraLex	Uralic, Permian	Komi-Permyak	Komi-Permyak	Komi-Permyak	komi1269	koi	Komi-Permyak	Dellert et al., 2019	
-NorthEuraLex	Uralic, Permian	Komi-Zyrian	Komi-Zyrian	Komi-Zyrian	komi1268	kpv	Komi-Zyrian	Dellert et al., 2019	
-NorthEuraLex	Uralic, Permian	Udmurt	Udmurt	Udmurt	udmu1245	udm	Udmurt	Dellert et al., 2019	
-NorthEuraLex	Uralic, Saami	Inari Sami	Inari Sami	Inari Saami	inar1241	smn	Inari Sami	Dellert et al., 2019	
-NorthEuraLex	Uralic, Saami	Kildin Sami	Kildin Sami	Kildin Saami	kild1236	sjd	Kildin Sami	Dellert et al., 2019	
-NorthEuraLex	Uralic, Saami	Lule Sami	Lule Sami	Lule Saami	lule1254	smj	Lule Sami	Dellert et al., 2019	
-NorthEuraLex	Uralic, Saami	Northern Sami	Northern Sami	North Saami	nort2671	sme	Northern Sami	Dellert et al., 2019	
-NorthEuraLex	Uralic, Saami	Skolt Sami	Skolt Sami	Skolt Saami	skol1241	sms	Skolt Sami	Dellert et al., 2019	
-NorthEuraLex	Uralic, Saami	Southern Sami	Southern Sami	South Saami	sout2674	sma	Southern Sami	Dellert et al., 2019	
-NorthEuraLex	Uralic, Samoyedic	Forest Enets	Forest Enets	Forest Enets	fore1265	enf	Forest Enets	Dellert et al., 2019	
-NorthEuraLex	Uralic, Samoyedic	Nganasan	Nganasan	Nganasan	ngan1291	nio	Nganasan	Dellert et al., 2019	
-NorthEuraLex	Uralic, Samoyedic	Northern Selkup	Northern Selkup	Selkup	selk1253	sel	Selkup	Dellert et al., 2019	
-NorthEuraLex	Uralic, Samoyedic	Tundra Nenets	Tundra Nenets	Tundra Nenets	nene1249	yrk	Nenets	Dellert et al., 2019	
-NorthEuraLex	Yeniseian, Northern Yeniseian	Ket	Ket	Ket	kett1243	ket	Ket	Dellert et al., 2019	
-NorthEuraLex	Yukaghir, Kolymic	Southern Yukaghir	Southern Yukaghir	Southern Yukaghir	sout2750	yux	Southern Yukaghir	Dellert et al., 2019	
-NorthEuraLex	Yukaghir, Northern Yukaghir	Northern Yukaghir	Northern Yukaghir	Northern Yukaghir	nort2745	ykg	Northern Yukaghir	Dellert et al., 2019	
-Polynesian	Austronesian, Polynesian	Proto-Polynesian	Polynesian	Polynesian	poly1242			Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Anuta	Anuta	Anuta	Anuta	anut1237	aud	Anuta	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Carolinean Outlier Polynesian	Kapingamarangi	Kapingamarangi	Kapingamarangi	kapi1249	kpg	Kapingamarangi	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Futuna	East Futuna	EastFutuna	East Futuna	east2447	fud	East Futuna	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Austral A	AustralA	Austral	aust1304	aut	Austral	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Austral B	AustralB	Austral	aust1304	aut	Austral	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Hawaiian	Hawaiian	Hawaiian	hawa1245	haw	Hawaiian	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Mangareva	Mangareva	Mangareva	mang1401	mrv	Mangareva	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Maori	Maori	Maori	maor1246	mri	Maori	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	North Marquesan	NorthMarquesan	North Marquesan	nort2845	mrq	North Marquesan	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Penrhyn	Penrhyn	Māngarongaro	penr1237	pnh	Penrhyn	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	RakahangaManihiki	RakahangaManihiki	Rakahanga-Manihiki	raka1237	rkh	Rakahanga-Manihiki	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Rapanui	Rapanui	Rapanui	rapa1244	rap	Rapanui	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Rarotongan	Rarotongan	Southern Cook Island Maori	raro1241	rar	Rarotongan	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Tahitian	Tahitian	Tahitian	tahi1242	tah	Tahitian	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Tuamotuan	Tuamotuan	Tuamotuan	tuam1242	pmt	Tuamotuan	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Uvean-Niuafo'ou	Wallisian	Wallisian	East Uvean	wall1257	wls	Wallisian	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Ellicean	Samoan	Samoan	Samoan	samo1305	smo	Samoan	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Ellicean	Tuvalu	Tuvalu	Tuvalu	tuva1244	tvl	Tuvalu	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Pukapuka	Pukapuka	Pukapuka	Pukapuka	puka1242	pkp	Pukapuka	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Rennell-Bellona	RennellBellona	RennellBellona	Rennell-Bellona	renn1242	mnv	Rennell-Bellona	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Solomons Northern Outlier Polynesian	Luangiua	Luangiua	Luangiua	onto1237	ojv	Ontong Java	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Solomons Northern Outlier Polynesian	Nukuria	Nukuria	Nukuria	nuku1259	nur	Nukuria	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Solomons Northern Outlier Polynesian	Sikaiana	Sikaiana	Sikaiana	sika1261	sky	Sikaiana	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Tikopia	Tikopia	Tikopia	Tikopia	tiko1237	tkp	Tikopia	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Tongic	Niuean	Niuean	Niuean	niue1239	niu	Niuean	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Tongic	Tongan	TongatongaIslands	Tonga (Tonga Islands)	tong1325	ton	Tonga (Tonga Islands)	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Vaeakau-Taumako	Vaeakau-Taumako	VaeakauTaumako	Vaeakau-Taumako	pile1238	piv	Vaeakau-Taumako	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Emae	Emae	Emae	emae1237	mmw	Emae	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Futuna-Aniwa	FutunaAniwa	Futuna-Aniwa	futu1245	fut	Futuna-Aniwa	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Mele-Fila	MeleFila	Mele-Fila	mele1250	mxe	Mele-Fila	Walworth, 2018	
-Sinitic	Sino-Tibetan, Sinitic, Gan	Nanchang	Nanchang	Nanchang	nanc1254	gan	Gan Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Hakka	Meixian	Meixian	Meixian	yuet1238	hak	Hakka Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Hui	Jixi	Jixi	Jixi	jixi1238	czh	Huizhou Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Jin	Taiyuan	Taiyuan	Taiyuan	taiy1243	cjy	Jinyu Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Mandarin	Beijing	Beijing	Beijing Mandarin	beij1234	cmn	Mandarin Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Mandarin	Chengdu	Chengdu	Chengdu Mandarin	chen1267	cmn	Mandarin Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Mandarin	Ha'erbin	Haerbin	Ha'erbin Mandarin	haer1234	cmn	Mandarin Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Mandarin	Jinan	Jinan	Jinan Mandarin	jina1245	cmn	Mandarin Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Mandarin	Nanjing	Nanjing	Nanjing Mandarin	nanj1234	cmn	Mandarin Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Mandarin	Rongcheng	Rongcheng	Rongcheng Mandarin	rong1271	cmn	Mandarin Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Mandarin	Xi'an	XiAn	Xi'an Mandarin	xian1253	cmn	Mandarin Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Min	Fuzhou	Fuzhou	Houguan	fuzh1239	cdo	Min Dong Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Min	Xiamen	Xiamen	Xiamen	xiam1236	cdo	Min Dong Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Pinghua	Guilin	Guilin	Guilin Pinghua	guil1241	cnp	Northern Pinghua	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Wu	Suzhou	Suzhou	Suzhou	suzh1234	wuu	Wu Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Wu	Wenzhou	Wenzhou	Wenzhou	ouji1238	wuu	Wu Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Xiang	Changsha	Changsha	Changsha	chan1326	hsn	Xiang Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Xiang	Loudi	Loudi	Loudi	loud1234	hsn	Xiang Chinese	Líu et al., 2007	
-Sinitic	Sino-Tibetan, Sinitic, Yue	Guangzhou	Guangzhou	Guangzhou	guan1279	yue	Yue Chinese	Líu et al., 2007	
-Turkic	Turkic, Bolgar	Chuvash	Chuvash	Chuvash	chuv1255	chv	Chuvash	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Central Siberian Turkic	Baraba Tatar	BarabaTatar	Baraba	bara1273	sty	Siberian Tatar	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Khalaj	Khalaj	Khalaj	Turkic Khalaj	turk1303	klj	Khalaj	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Bashkir	Bashkir	Bashkir	bash1264	bak	Bashkir	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Crimean Tatar	CrimeanTatar	Crimean Tatar	crim1257	crh	Crimean Turkish	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Kara-Kalpak	KaraKalpak	Kara-Kalpak	kara1467	kaa	Kara-Kalpak	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Karachay-Balkar	KarachayBalkar	Karachay-Balkar	kara1465	krc	Karachay-Balkar	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Karaim	Karaim	Karaim	kara1464	kdr	Karaim	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Kazakh	Kazakh	Kazakh	kaza1248	kaz	Kazakh	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Kumyk	Kumyk	Kumyk	kumy1244	kum	Kumyk	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Kyrgyz	Kirghiz	Kirghiz	kirg1245	kir	Kyrgyz	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Middle Kipchak	CodexCumanicus					Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Nogai	Nogai	Nogai	noga1249	nog	Nogai	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Southern Altai	SouthAltai	Altai-Kizi	alta1277	alt	Southern Altai	Savelyev & Robbeets (2020)	Viryal dialect
-Turkic	Turkic, Kipchak	Tatar	KazanTatar	Kazan Tatar	kaza1250	tat	Tatar	Savelyev & Robbeets (2020)	
-Turkic	Turkic, North Siberian Turkic	Dolgan	Dolgan	Dolgan	dolg1241	dlg	Dolgan	Savelyev & Robbeets (2020)	
-Turkic	Turkic, North Siberian Turkic	Yakut	Yakut	Sakha	yaku1245	sah	Yakut	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Oghuz	Azerbaijani	Azeri	North Azerbaijani	nort2697	azj	North Azerbaijani	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Oghuz	Gagauz	Gagauz	Gagauz	gaga1249	gag	Gagauz	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Oghuz	Salar	Salar	Salar	sala1264	slr	Salar	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Oghuz	Turkish	Turkish	Turkish	nucl1301	tur	Turkish	Savelyev & Robbeets (2020)	Dialects of Halych and Trakai
-Turkic	Turkic, Oghuz	Turkmen	Turkmen	Turkmen	turk1304	tuk	Turkmen	Savelyev & Robbeets (2020)	
-Turkic	Turkic, South Siberian Turkic	Chulym	MiddleChulym	Middle Chulym Turkic	midd1324	clw	Chulym	Savelyev & Robbeets (2020)	
-Turkic	Turkic, South Siberian Turkic	Khakas	Khakas	Khakas	khak1248	kjh	Khakas	Savelyev & Robbeets (2020)	
-Turkic	Turkic, South Siberian Turkic	Northern Altai	NorthAltai	Chelkan	chel1242	atv	Northern Altai	Savelyev & Robbeets (2020)	Middle Kipchak variety attested in the Codex Cumanicus manuscript, dating from the early 14th century AD
-Turkic	Turkic, South Siberian Turkic	Shor	Shor	Shor	shor1247	cjs	Shor	Savelyev & Robbeets (2020)	
-Turkic	Turkic, South Siberian Turkic	Tofa	Tofa	Tofa	tofa1248	kim	Karagas	Savelyev & Robbeets (2020)	Altay-Kiži dialect
-Turkic	Turkic, South Siberian Turkic	Tuvan	Tuvan	Tuvinian	tuvi1240	tyv	Tuvinian	Savelyev & Robbeets (2020)	
-Turkic	Turkic, South Siberian Turkic	West Yugur	SarygYugur	West Yugur	west2402	ybe	West Yugur	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Turkestan Turkic	Old Turkic	OldTurkic	Old Turkic	oldu1238	oui	Old Uighur	Savelyev & Robbeets (2020)	Sakha
-Turkic	Turkic, Turkestan Turkic	Uyghur	Uyghur	Uighur	uigh1240	uig	Uyghur	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Turkestan Turkic	Uzbek	Uzbek	Uzbek	uzbe1247	uzb	Uzbek	Savelyev & Robbeets (2020)	
-Uralic	Uralic	Proto-Uralic	Proto-Uralic*					De Heer et al.; Syrjänen	
-Uralic	Uralic, Saami	South Saami	South Saami	South Saami	sout2674	sma	Southern Sami	De Heer et al.; Syrjänen	
-Uralic	Uralic, Saami	Ume Saami	Ume Saami	Ume Saami	umes1235	sju	Ume Sami	De Heer et al.; Syrjänen	
-Uralic	Uralic, Saami	Pite Saami	Pite Saami	Pite Saami	pite1240	sje	Pite Sami	De Heer et al.; Syrjänen	
-Uralic	Uralic, Saami	North Saami	North Saami	North Saami	nort2671	sme	Northern Sami	De Heer et al.; Syrjänen	
-Uralic	Uralic, Saami	Inari Saami	Inari Saami	Inari Saami	inar1241	smn	Inari Sami	De Heer et al.; Syrjänen	Chelkan dialect
-Uralic	Uralic, Saami	Skolt Saami	Skolt Saami	Skolt Saami	skol1241	sms	Skolt Sami	De Heer et al.; Syrjänen	
-Uralic	Uralic, Saami	Kildin Saami	Kildin Saami	Kildin Saami	kild1236	sjd	Kildin Sami	De Heer et al.; Syrjänen	
-Uralic	Uralic, Finnic	Finnish	Standard Finnish	Finnish	finn1318	fin	Finnish	De Heer et al.; Syrjänen	
-Uralic	Uralic, Finnic	Karelian	Karelian Proper	Karelian	kare1335	krl	Karelian	De Heer et al.; Syrjänen	West Yugur, Yellow Uyghur
-Uralic	Uralic, Finnic	Veps	Veps	Veps	veps1250	vep	Veps	De Heer et al.; Syrjänen	Old Uyghur texts from the 9th century AD
-Uralic	Uralic, Finnic	Ingrian	Ingrian	Ingrian	ingr1248	izh	Ingrian	De Heer et al.; Syrjänen	
-Uralic	Uralic, Finnic	Votic	Western Votic	West Vod	west2391	vot	Votic	De Heer et al.; Syrjänen	
-Uralic	Uralic, Finnic	Estonian	Standard Estonian	Estonian	esto1258	ekk	Standard Estonian	De Heer et al.; Syrjänen	
-Uralic	Uralic, Finnic	Võro	Võro South Estonian	South Estonian	sout2679	vro	Võro	De Heer et al.; Syrjänen	
-Uralic	Uralic, Finnic	Livonian	Courland Livonian	Courland Livonian	west1760	liv	Liv	De Heer et al.; Syrjänen	
-Uralic	Uralic, Mordvin	Erzya	Erzya	Erzya	erzy1239	myv	Erzya	De Heer et al.; Syrjänen	
-Uralic	Uralic, Mari	Meadow Mari	Meadow Mari	Eastern Mari	east2328	mhr	Eastern Mari	De Heer et al.; Syrjänen	
-Uralic	Uralic, Permic	Komi-Zyrian	Komi-Zyrian	Komi-Zyrian	komi1268	kpv	Komi-Zyrian	De Heer et al.; Syrjänen	
-Uralic	Uralic, Permic	Komi-Permyak	Komi-Permyak	Komi-Permyak	komi1269	koi	Komi-Permyak	De Heer et al.; Syrjänen	
-Uralic	Uralic, Permic	Udmurt	Udmurt	Udmurt	udmu1245	udm	Udmurt	De Heer et al.; Syrjänen	
-Uralic	Uralic, Ugric, Hungarian	Hungarian	Hungarian	Hungarian	hung1274	hun	Hungarian	De Heer et al.; Syrjänen	
-Uralic	Uralic, Ugric, Mansic	Mansi	Sosva Mansi	Sosva Mansi	nort2677	mns	Mansi	De Heer et al.; Syrjänen	
-Uralic	Uralic, Ugric, Khantyic	Khanty	Vakh-Vasyugan Khanty	Vach-Vasjugan	fare1244			De Heer et al.; Syrjänen	
-Uralic	Uralic, Samoyedic	Nganasan	Nganasan	Nganasan	ngan1291	nio	Nganasan	De Heer et al.; Syrjänen	
-Uralic	Uralic, Samoyedic	Tundra Nenets	Tundra Nenets	Tundra Nenets	nene1249	yrk	Nenets	De Heer et al.; Syrjänen	
-Uralic	Uralic, Samoyedic	Selkup	Selkup	Taz-Turukhan	tazz1244	sel	Selkup	De Heer et al.; Syrjänen	
+Dataset	Classification	Name	Source Name	Glottolog Name	Glottocode	ISO 639-3	ISO 639-3 Name	Family	Macroarea	Latitude	Longitude	Reference	Notes
+Polynesian	Austronesian, Polynesian, East Polynesian	Maori	Maori	Maori	maor1246	mri	Maori	Austronesian	Papunesia	-38.2881	176.541	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Rapanui	Rapanui	Rapanui	rapa1244	rap	Rapanui	Austronesian	Papunesia	-27.113	-109.342	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Austral A	AustralA	Austral	aust1304	aut	Austral	Austronesian	Papunesia	-23.3843	-149.462	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Austral B	AustralB	Austral	aust1304	aut	Austral	Austronesian	Papunesia	-23.3843	-149.462	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Mangareva	Mangareva	Mangareva	mang1401	mrv	Mangareva	Austronesian	Papunesia	-23.1095	-134.97	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Rarotongan	Rarotongan	Southern Cook Island Maori	raro1241	rar	Rarotongan	Austronesian	Papunesia	-21.23	-159.78	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Tongic	Tongan	TongatongaIslands	Tonga (Tonga Islands)	tong1325	ton	Tonga (Tonga Islands)	Austronesian	Papunesia	-21.17	-175.25	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Futuna-Aniwa	FutunaAniwa	Futuna-Aniwa	futu1245	fut	Futuna-Aniwa	Austronesian	Papunesia	-19.5303	170.215	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Tongic	Niuean	Niuean	Niuean	niue1239	niu	Niuean	Austronesian	Papunesia	-19.06	-169.86	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Mele-Fila	MeleFila	Mele-Fila	mele1250	mxe	Mele-Fila	Austronesian	Papunesia	-17.6841	168.275	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Tahitian	Tahitian	Tahitian	tahi1242	tah	Tahitian	Austronesian	Papunesia	-17.6485	-149.45	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Emae	Emae	Emae	emae1237	mmw	Emae	Austronesian	Papunesia	-17.052	168.399	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Tuamotuan	Tuamotuan	Tuamotuan	tuam1242	pmt	Tuamotuan	Austronesian	Papunesia	-16.17259	-146.321755	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Futuna	East Futuna	EastFutuna	East Futuna	east2447	fud	East Futuna	Austronesian	Papunesia	-14.278717	-178.137222	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Ellicean	Samoan	Samoan	Samoan	samo1305	smo	Samoan	Austronesian	Papunesia	-13.92	-171.83	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Uvean-Niuafo'ou	Wallisian	Wallisian	East Uvean	wall1257	wls	Wallisian	Austronesian	Papunesia	-13.2903	-176.207	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Tikopia	Tikopia	Tikopia	Tikopia	tiko1237	tkp	Tikopia	Austronesian	Papunesia	-12.2766	168.822	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Rennell-Bellona	RennellBellona	RennellBellona	Rennell-Bellona	renn1242	mnv	Rennell-Bellona	Austronesian	Papunesia	-11.6237	160.265	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Anuta	Anuta	Anuta	Anuta	anut1237	aud	Anuta	Austronesian	Papunesia	-11.61	169.85	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Pukapuka	Pukapuka	Pukapuka	Pukapuka	puka1242	pkp	Pukapuka	Austronesian	Papunesia	-10.91	-165.83	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Vaeakau-Taumako	Vaeakau-Taumako	VaeakauTaumako	Vaeakau-Taumako	pile1238	piv	Vaeakau-Taumako	Austronesian	Papunesia	-10.173335	166.247188	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	RakahangaManihiki	RakahangaManihiki	Rakahanga-Manihiki	raka1237	rkh	Rakahanga-Manihiki	Austronesian	Papunesia	-10.03	-161.09	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Penrhyn	Penrhyn	Māngarongaro	penr1237	pnh	Penrhyn	Austronesian	Papunesia	-9.082238	-157.922908	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	North Marquesan	NorthMarquesan	North Marquesan	nort2845	mrq	North Marquesan	Austronesian	Papunesia	-8.89412	-140.108	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Ellicean	Tuvalu	Tuvalu	Tuvalu	tuva1244	tvl	Tuvalu	Austronesian	Papunesia	-8.520813	179.198088	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Solomons Northern Outlier Polynesian	Sikaiana	Sikaiana	Sikaiana	sika1261	sky	Sikaiana	Austronesian	Papunesia	-8.378194	162.72952	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Solomons Northern Outlier Polynesian	Luangiua	Luangiua	Luangiua	onto1237	ojv	Ontong Java	Austronesian	Papunesia	-5.49029	159.701	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Solomons Northern Outlier Polynesian	Nukuria	Nukuria	Nukuria	nuku1259	nur	Nukuria	Austronesian	Papunesia	-3.40038	154.731	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, Carolinean Outlier Polynesian	Kapingamarangi	Kapingamarangi	Kapingamarangi	kapi1249	kpg	Kapingamarangi	Austronesian	Papunesia	1.039166	154.797223	Walworth, 2018	
+NorthEuraLex	Dravidian, South Dravidian	Malayalam	Malayalam	Malayalam	mala1464	mal	Malayalam	Dravidian	Eurasia	9.59208	76.7651	Dellert et al., 2019	
+NorthEuraLex	Dravidian, South Dravidian	Tamil	Tamil	Tamil	tami1289	tam	Tamil	Dravidian	Eurasia	10.520219	78.825989	Dellert et al., 2019	
+NorthEuraLex	Dravidian, South Dravidian	Kannada	Kannada	Kannada	nucl1305	kan	Kannada	Dravidian	Eurasia	13.5878	76.1198	Dellert et al., 2019	
+Arabic	Afro-Asiatic, Semitic, Arabian, Egyptic Arabic, Sudanese-Chadian Arabic	Chadian Arabic	Chadian (Western Sudanic)	Chadian Arabic	chad1249	shu	Chadian Arabic	Afro-Asiatic	Africa	14.67	13.5	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Arabic	Afro-Asiatic, Semitic, Arabian, Arabian Peninsula Arabic	Sanaani Arabic	Sanaani (Sana'a)	Sanaani Arabic	sana1295	ayn	Sanaani Arabic	Afro-Asiatic	Eurasia	15.6552	44.8412	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Hokan	Tequistlatecan	Highland Chontal	Highland Chontal	Highland Oaxaca Chontal	high1242	chd	Highland Oaxaca Chontal	Tequistlatecan	North America	16.1849	-95.7301	Zhivlov (2012)	
+NorthEuraLex	Dravidian, South Dravidian	Telugu	Telugu	Telugu	telu1262	tel	Telugu	Dravidian	Eurasia	16.4529	78.7024	Dellert et al., 2019	
+Arabic	Afro-Asiatic, Semitic, Arabian, Arabian Peninsula Arabic	Dhofari Arabic	Dhofari (Oman)	Dhofari Arabic	dhof1235	adf	Dhofari Arabic	Afro-Asiatic	Eurasia	17.0796	54.4894	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Arabic	Afro-Asiatic, Semitic, Arabian, Egyptic Arabic, Sudanese-Chadian Arabic	Sudanese Arabic	Sudanese (Khartoum)	Sudanese Arabic	suda1236	apd	Sudanese Arabic	Afro-Asiatic	Africa	17.8021	33.3179	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Hassaniya Arabic	Hassaniya (Mauritanian)	Hassaniyya	hass1238	mey	Hassaniyya	Afro-Asiatic	Africa	18.29	-14.11	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Polynesian	Austronesian, Polynesian, East Polynesian	Hawaiian	Hawaiian	Hawaiian	hawa1245	haw	Hawaiian	Austronesian	Papunesia	19.6297	-155.43	Walworth, 2018	
+Sinitic	Sino-Tibetan, Sinitic, Yue	Guangzhou	Guangzhou	Guangzhou	guan1279	yue	Yue Chinese	Sino-Tibetan	Eurasia	23.1253503	112.9476548	Líu et al., 2007	
+NorthEuraLex	Indo-European, Indo-Iranian, Indo-Aryan	Bengali	Bengali	Bengali	beng1280	ben	Bengali	Indo-European	Eurasia	24.0	90.0	Dellert et al., 2019	
+Sinitic	Sino-Tibetan, Sinitic, Hakka	Meixian	Meixian	Meixian	yuet1238	hak	Hakka Chinese	Sino-Tibetan	Eurasia	24.3522958	115.8903375	Líu et al., 2007	
+Sinitic	Sino-Tibetan, Sinitic, Min	Xiamen	Xiamen	Xiamen	xiam1236	cdo	Min Dong Chinese	Sino-Tibetan	Eurasia	24.49421	118.08918	Líu et al., 2007	
+NorthEuraLex	Indo-European, Indo-Iranian, Indo-Aryan	Hindi	Hindi	Hindi	hind1269	hin	Hindi	Indo-European	Eurasia	25.0	77.0	Dellert et al., 2019	
+Sinitic	Sino-Tibetan, Sinitic, Pinghua	Guilin	Guilin	Guilin Pinghua	guil1241	cnp	Northern Pinghua	Sino-Tibetan	Eurasia	25.266667	110.283333	Líu et al., 2007	
+Sinitic	Sino-Tibetan, Sinitic, Min	Fuzhou	Fuzhou	Houguan	fuzh1239	cdo	Min Dong Chinese	Sino-Tibetan	Eurasia	26.08904	119.294243	Líu et al., 2007	
+Sinitic	Sino-Tibetan, Sinitic, Xiang	Loudi	Loudi	Loudi	loud1234	hsn	Xiang Chinese	Sino-Tibetan	Eurasia	27.733333	111.9281883	Líu et al., 2007	
+Arabic	Afro-Asiatic, Semitic, Arabian	Modern Standard Arabic	Arabic (MSA)	Standard Arabic	stan1318	arb	Standard Arabic	Afro-Asiatic	Eurasia	27.9625	43.8525	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+NorthEuraLex	Afro-Asiatic, Semitic	Standard Arabic	Standard Arabic	Standard Arabic	stan1318	arb	Standard Arabic	Afro-Asiatic	Eurasia	27.9625	43.8525	Dellert et al., 2019	
+Sinitic	Sino-Tibetan, Sinitic, Wu	Wenzhou	Wenzhou	Wenzhou	ouji1238	wuu	Wu Chinese	Sino-Tibetan	Eurasia	28.005496	120.701179	Líu et al., 2007	
+Sinitic	Sino-Tibetan, Sinitic, Gan	Nanchang	Nanchang	Nanchang	nanc1254	gan	Gan Chinese	Sino-Tibetan	Eurasia	28.706609	115.857468	Líu et al., 2007	
+Sinitic	Sino-Tibetan, Sinitic, Xiang	Changsha	Changsha	Changsha	chan1326	hsn	Xiang Chinese	Sino-Tibetan	Eurasia	28.85032	112.943344	Líu et al., 2007	
+Hokan	Seri	Seri	Seri	Seri	seri1257	sei	Seri	Isolate	North America	28.9877	-112.384	Zhivlov (2011)	
+Sinitic	Sino-Tibetan, Sinitic, Hui	Jixi	Jixi	Jixi	jixi1238	czh	Huizhou Chinese	Sino-Tibetan	Eurasia	30.071111	118.592222	Líu et al., 2007	
+Arabic	Afro-Asiatic, Semitic, Arabian, Arabian Peninsula Arabic	Gulf Arabic	Gulf (Emirati)	Gulf Arabic	gulf1241	afb	Gulf Arabic	Afro-Asiatic	Eurasia	30.17	47.5	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Arabic	Afro-Asiatic, Semitic, Arabian, Arabian Peninsula Arabic	Najdi Arabic	Najdi (Riyadh)	Najdi Arabic	najd1235	ars	Najdi Arabic	Afro-Asiatic	Eurasia	30.3371	42.1773	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Sinitic	Sino-Tibetan, Sinitic, Mandarin	Chengdu	Chengdu	Chengdu Mandarin	chen1267	cmn	Mandarin Chinese	Sino-Tibetan	Eurasia	30.605768	103.970947	Líu et al., 2007	
+Arabic	Afro-Asiatic, Semitic, Arabian, Egyptic Arabic	Egyptian Arabic	Egyptian (Lower Egyptian)	Egyptian Arabic	egyp1253	arz	Egyptian Arabic	Afro-Asiatic	Africa	31.0	31.0	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+NorthEuraLex	Afro-Asiatic, Semitic	Modern Hebrew	Modern Hebrew	Modern Hebrew	hebr1245	heb	Hebrew	Afro-Asiatic	Eurasia	31.1056	35.0179	Dellert et al., 2019	
+Sinitic	Sino-Tibetan, Sinitic, Wu	Suzhou	Suzhou	Suzhou	suzh1234	wuu	Wu Chinese	Sino-Tibetan	Eurasia	31.3280439	120.364116	Líu et al., 2007	
+Sinitic	Sino-Tibetan, Sinitic, Mandarin	Nanjing	Nanjing	Nanjing Mandarin	nanj1234	cmn	Mandarin Chinese	Sino-Tibetan	Eurasia	32.0989607	118.4575646	Líu et al., 2007	
+Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Tipay	Jamul Tiipay	Tipay	kumi1248	dih	Kumiai	Cochimi-Yuman	North America	32.331	-116.604	Zhivlov (2015)	
+Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman	Cocopa	Cocopa	Cocopa	coco1261	coc	Cocopa	Cochimi-Yuman	North America	32.376	-114.848	Zhivlov (2015)	
+Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Moroccan Arabic	Moroccan (Casablanca)	Moroccan Arabic	moro1292	ary	Moroccan Arabic	Afro-Asiatic	Africa	32.5	-7.5	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+NorthEuraLex	Indo-European, Indo-Iranian, Iranian	Western Farsi	Western Farsi	Western Farsi	west2369	pes	Iranian Persian	Indo-European	Eurasia	32.9	53.3	Dellert et al., 2019	
+Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Ipai	Mesa Grande 'Iipay	Ipai	ipai1240	dih	Kumiai	Cochimi-Yuman	North America	33.005	-116.993	Zhivlov (2015)	
+Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Tunisian Arabic	Tunisian (Tunis)	Tunisian Arabic	tuni1259	aeb	Tunisian Arabic	Afro-Asiatic	Africa	33.7966	9.56156	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Arabic	Afro-Asiatic, Semitic, Arabian, Eastern Arabic	Iraqi Arabic	Iraqi (Southern Iraq/Baghdad)	Gilit Mesopotamian Arabic	meso1252	acm	Mesopotamian Arabic	Afro-Asiatic	Eurasia	33.8178	43.1095	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+NorthEuraLex	Indo-European, Indo-Iranian, Iranian	Northern Pashto	Northern Pashto	Northern Pashto	nort2646	pbu	Northern Pashto	Indo-European	Eurasia	34.0	71.33	Dellert et al., 2019	
+Arabic	Afro-Asiatic, Semitic, Arabian, Levantine Arabic	Levantine Arabic	Levantine (Central/Syro-Lebanese)	North Levantine Arabic	nort3139	apc	North Levantine Arabic	Afro-Asiatic	Eurasia	34.1709	36.0468	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Sinitic	Sino-Tibetan, Sinitic, Mandarin	Xi'an	XiAn	Xi'an Mandarin	xian1253	cmn	Mandarin Chinese	Sino-Tibetan	Eurasia	34.228154	108.960571	Líu et al., 2007	
+Turkic	Turkic, Khalaj	Khalaj	Khalaj	Turkic Khalaj	turk1303	klj	Khalaj	Turkic	Eurasia	34.4224	50.3222	Savelyev & Robbeets (2020)	
+Hokan	Cochimi-Yuman, Yuman, River Yuman	Mohave	Mojave	Mohave	moha1256	mov	Mohave	Cochimi-Yuman	North America	34.8866	-114.599	Zhivlov (2015)	
+NorthEuraLex	Japonic, Japanesic	Japanese	Japanese	Japanese	nucl1643	jpn	Japanese	Japonic	Eurasia	35.0	135.0	Dellert et al., 2019	
+Arabic	Afro-Asiatic, Semitic, Arabian, Levantine Arabic	Cypriot Arabic	Cypriot (Kormakitis)	Cypriot Arabic	cypr1248	acy	Cypriot Arabic	Afro-Asiatic	Eurasia	35.1674	33.0943	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Turkic	Turkic, Oghuz	Salar	Salar	Salar	sala1264	slr	Salar	Turkic	Eurasia	35.5457	102.819	Savelyev & Robbeets (2020)	
+Hokan	Cochimi-Yuman, Yuman, Pai	Yavapai	Yavapai	Yavapai	yava1252	yuf	Havasupai-Walapai-Yavapai	Cochimi-Yuman	North America	35.6302	-113.385	Zhivlov (2015)	
+Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Maltese	Maltese	Maltese	malt1254	mlt	Maltese	Afro-Asiatic	Eurasia	35.8884	14.4508	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+NorthEuraLex	Burushaski, Burushaski	Burushaski	Burushaski	Burushaski	buru1296	bsk	Burushaski	Isolate	Eurasia	36.2161	74.8236	Dellert et al., 2019	
+Arabic	Afro-Asiatic, Semitic, Arabian, Eastern Arabic, Qeltu	North Mesopotamian Arabic	Moslawi (Northern Iraq)	Mosul Arabic	mosu1235	ayp	North Mesopotamian Arabic	Afro-Asiatic	Eurasia	36.566667	43.216667	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Sinitic	Sino-Tibetan, Sinitic, Mandarin	Jinan	Jinan	Jinan Mandarin	jina1245	cmn	Mandarin Chinese	Sino-Tibetan	Eurasia	36.690777	116.997299	Líu et al., 2007	
+NorthEuraLex	Indo-European, Indo-Iranian, Iranian	Northern Kurdish	Northern Kurdish	Northern Kurdish	nort2641	kmr	Northern Kurdish	Indo-European	Eurasia	37.0	43.0	Dellert et al., 2019	
+Turkic	Turkic, Oghuz	Turkmen	Turkmen	Turkmen	turk1304	tuk	Turkmen	Turkic	Eurasia	37.0872	59.1757	Savelyev & Robbeets (2020)	
+Sinitic	Sino-Tibetan, Sinitic, Mandarin	Rongcheng	Rongcheng	Rongcheng Mandarin	rong1271	cmn	Mandarin Chinese	Sino-Tibetan	Eurasia	37.130642	122.434269	Líu et al., 2007	
+NorthEuraLex	Koreanic, Korean	Korean	Korean	Korean	kore1280	kor	Korean	Koreanic	Eurasia	37.5	128.0	Dellert et al., 2019	
+Sinitic	Sino-Tibetan, Sinitic, Jin	Taiyuan	Taiyuan	Taiyuan	taiy1243	cjy	Jinyu Chinese	Sino-Tibetan	Eurasia	37.8632119	112.4024883	Líu et al., 2007	
+NorthEuraLex	Indo-European, Graeco-Phrygian, Greek	Modern Greek	Modern Greek	Modern Greek	mode1248	ell	Modern Greek (1453-)	Indo-European	Eurasia	38.36	23.13	Dellert et al., 2019	
+Hokan	Pomoan, Russian River and Eastern, Russian River, Southern Pomoan-Kashaya	Kashaya	Kashaya	Kashaya	kash1280	kju	Kashaya	Pomoan	North America	38.5424	-123.08	Zhivlov (2013)	
+Hokan	Pomoan, Russian River and Eastern	Eastern Pomo	Eastern Pomo	Eastern Pomo	east2545	peb	Eastern Pomo	Pomoan	North America	38.5647	-122.586	Zhivlov (2013)	
+Hokan	Pomoan, Russian River and Eastern, Russian River, Southern Pomoan-Kashaya	Southern Pomo	Southern Pomo	Southern Pomo	sout2984	peq	Southern Pomo	Pomoan	North America	38.7643	-122.545	Zhivlov (2013)	
+Hokan	Pomoan, Russian River and Eastern, Russian River, Northern-Central Pomoan	Central Pomo	Central Pomo	Central Pomo	cent2138	poo	Central Pomo	Pomoan	North America	38.90547	-123.66393	Zhivlov (2013)	
+Hokan	Pomoan	Southeastern Pomo	Southeastern Pomo	Southeastern Pomo	sout2982	pom	Southeastern Pomo	Pomoan	North America	38.9354	-122.599	Zhivlov (2013)	
+Turkic	Turkic, Turkestan Turkic	Uzbek	Uzbek	Uzbek	uzbe1247	uzb	Uzbek	Turkic	Eurasia	39.0	66.0	Savelyev & Robbeets (2020)	
+Turkic	Turkic, South Siberian Turkic	West Yugur	SarygYugur	West Yugur	west2402	ybe	West Yugur	Turkic	Eurasia	39.0548	99.3112	Savelyev & Robbeets (2020)	West Yugur, Yellow Uyghur
+Italic	Indo-European, Italic, Southern Romance	Sardinian (Campidanese)	Campidanese	Campidanese Sardinian	camp1261	sro	Campidanese Sardinian	Indo-European	Eurasia	39.0566	9.03935	Saenko (2015)	
+Hokan	Pomoan, Russian River and Eastern, Russian River, Northern-Central Pomoan	Northern Pomo	Northern Pomo	Northern Pomo	nort2966	pej	Northern Pomo	Pomoan	North America	39.1084	-123.209	Zhivlov (2013)	
+Hokan	Yana	Central Yana	Central Yana	Central Yana	cent2137	ynn	Yana	Yana	North America	39.2769	-121.608	Zhivlov (2013)	
+Hokan	Yana	Northern Yana	Northern Yana	Northern Yana	nort2963	ynn	Yana	Yana	North America	39.2769	-121.608	Zhivlov (2013)	
+Hokan	Yana	Yahi	Yahi	Yahi	yahi1243	ynn	Yana	Yana	North America	39.2769	-121.608	Zhivlov (2013)	
+Hokan	Pomoan, Russian River and Eastern, Russian River	Northeastern Pomo	Northeastern Pomo	Northeastern Russian River Pomo	nort2967	pef	Northeastern Pomo	Pomoan	North America	39.2894	-122.509	Zhivlov (2013)	
+NorthEuraLex	Turkic, Oghuz	Turkish	Turkish	Turkish	nucl1301	tur	Turkish	Turkic	Eurasia	39.8667	32.8667	Dellert et al., 2019	
+Turkic	Turkic, Oghuz	Turkish	Turkish	Turkish	nucl1301	tur	Turkish	Turkic	Eurasia	39.8667	32.8667	Savelyev & Robbeets (2020)	
+Italic	Indo-European, Italic, Western Romance	Portuguese	Standard Portuguese	Portuguese	port1283	por	Portuguese	Indo-European	Eurasia	39.91	-8.1	Saenko (2015)	
+NorthEuraLex	Indo-European, Italic	Portuguese	Portuguese	Portuguese	port1283	por	Portuguese	Indo-European	Eurasia	39.91	-8.1	Dellert et al., 2019	
+Sinitic	Sino-Tibetan, Sinitic, Mandarin	Beijing	Beijing	Beijing Mandarin	beij1234	cmn	Mandarin Chinese	Sino-Tibetan	Eurasia	39.9385466	116.1172766	Líu et al., 2007	
+Turkic	Turkic, Kipchak	Kara-Kalpak	KaraKalpak	Kara-Kalpak	kara1467	kaa	Kara-Kalpak	Turkic	Eurasia	39.98	63.3223	Savelyev & Robbeets (2020)	
+NorthEuraLex	Indo-European, Armenic	Armenian	Armenian	Eastern Armenian	nucl1235	hye	Armenian	Indo-European	Eurasia	40.0	45.0	Dellert et al., 2019	
+NorthEuraLex	Sino-Tibetan, Sinitic	Mandarin Chinese	Mandarin Chinese	Mandarin Chinese	mand1415	cmn	Mandarin Chinese	Sino-Tibetan	Eurasia	40.0209	116.228	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Italic	Spanish	Spanish	Spanish	stan1288	spa	Spanish	Indo-European	Eurasia	40.4414	-1.11788	Dellert et al., 2019	
+Italic	Indo-European, Italic, Southern Romance	Sardinian (Logudorese)	Logudorese	Logudorese Sardinian	logu1236	src	Logudorese Sardinian	Indo-European	Eurasia	40.49	9.09957	Saenko (2015)	
+Italic	Indo-European, Italic, Eastern Romance	Aromanian	Aromanian	Aromanian	arom1237	rup	Aromanian	Indo-European	Eurasia	40.616	21.2	Saenko (2015)	
+NorthEuraLex	Turkic, Turkestan Turkic	Northern Uzbek	Northern Uzbek	Northern Uzbek	nort2690	uzn	Northern Uzbek	Turkic	Eurasia	40.886	69.211	Dellert et al., 2019	
+NorthEuraLex	Turkic, Oghuz	North Azerbaijani	North Azerbaijani	North Azerbaijani	nort2697	azj	North Azerbaijani	Turkic	Eurasia	40.9777	46.4737	Dellert et al., 2019	
+Turkic	Turkic, Oghuz	Azerbaijani	Azeri	North Azerbaijani	nort2697	azj	North Azerbaijani	Turkic	Eurasia	40.9777	46.4737	Savelyev & Robbeets (2020)	
+Hokan	Chimariko	Chimariko	Chimariko	Chimariko	chim1301	cid	Chimariko	Isolate	North America	41.0	-123.0	Zhivlov (2011)	
+Italic	Indo-European, Italic, Eastern Romance	Megleno-Romanian	Megleno Romanian	Megleno Romanian	megl1237	ruq	Megleno Romanian	Indo-European	Eurasia	41.1174	22.3782	Saenko (2015)	
+NorthEuraLex	Indo-European, Italic	Catalan	Catalan	Catalan	stan1289	cat	Catalan; Valencian	Indo-European	Eurasia	41.453	1.569	Dellert et al., 2019	
+NorthEuraLex	Nakh-Daghestanian, Daghestanian	Lezgian	Lezgian	Lezgian	lezg1247	lez	Lezghian	Nakh-Daghestanian	Eurasia	41.5157	47.8951	Dellert et al., 2019	
+NorthEuraLex	Nakh-Daghestanian, Daghestanian	Avar	Avar	Avar	avar1256	ava	Avaric	Nakh-Daghestanian	Eurasia	41.7047	46.558	Dellert et al., 2019	
+Hokan	Shastan	Shasta	Shasta	Shasta	shas1239	sht	Shasta	Shastan	North America	41.7587	-122.738	Zhivlov (2012)	
+Hokan	Karok	Karok	Karuk	Karok	karo1304	kyh	Karok	Isolate	North America	41.8228	-123.315	Zhivlov (2011)	
+NorthEuraLex	Kartvelian, Georgian-Zan	Georgian	Georgian	Georgian	nucl1302	kat	Georgian	Kartvelian	Eurasia	41.850397	43.78613	Dellert et al., 2019	
+NorthEuraLex	Turkic, Kipchak	Kazakh	Kazakh	Kazakh	kaza1248	kaz	Kazakh	Turkic	Eurasia	41.8729	65.7709	Dellert et al., 2019	
+Turkic	Turkic, Kipchak	Kazakh	Kazakh	Kazakh	kaza1248	kaz	Kazakh	Turkic	Eurasia	41.8729	65.7709	Savelyev & Robbeets (2020)	
+Italic	Indo-European, Italic	Latin (Late Classical)	Late Classical Latin	Late Latin	late1252	lat	Latin	Indo-European	Eurasia	41.901111	12.488333	Saenko (2015)	
+Italic	Indo-European, Italic	Latin (Archaic)	Archaic Latin	Old Latin	oldl1238	qbb		Indo-European	Eurasia	41.901111	12.488333	Saenko (2015)	
+NorthEuraLex	Indo-European, Italic	Latin	Latin	Latin	lati1261	lat	Latin	Indo-European	Eurasia	41.9026	12.4502	Dellert et al., 2019	
+Turkic	Turkic, Kipchak	Kyrgyz	Kirghiz	Kirghiz	kirg1245	kir	Kyrgyz	Turkic	Eurasia	42.0	74.0	Savelyev & Robbeets (2020)	
+NorthEuraLex	Nakh-Daghestanian, Daghestanian	Lak	Lak	Lak	lakk1252	lbe	Lak	Nakh-Daghestanian	Eurasia	42.1328	47.0809	Dellert et al., 2019	
+Italic	Indo-European, Italic, Western Romance	Galician	Galician	Galician	gali1258	glg	Galician	Indo-European	Eurasia	42.2446	-7.5343	Saenko (2015)	
+NorthEuraLex	Nakh-Daghestanian, Daghestanian	Tsez	Tsez	Tsez	dido1241	ddo	Dido	Nakh-Daghestanian	Eurasia	42.2646	45.8096	Dellert et al., 2019	
+NorthEuraLex	Nakh-Daghestanian, Daghestanian	Dargwa	Dargwa	North-Central Dargwa	darg1241	dar	Dargwa	Nakh-Daghestanian	Eurasia	42.4257	47.4388	Dellert et al., 2019	
+Italic	Indo-European, Italic, Italo-Dalmatian	Dalmatian	Dalmatian	Dalmatian	dalm1243	dlm	Dalmatian	Indo-European	Eurasia	42.7095	18.0238	Saenko (2015)	
+Turkic	Turkic, Turkestan Turkic	Old Turkic	OldTurkic	Old Turkic	oldu1238	oui	Old Uighur	Turkic	Eurasia	42.852778	89.529167	Savelyev & Robbeets (2020)	Old Uyghur texts from the 9th century AD
+NorthEuraLex	Indo-European, Indo-Iranian, Iranian	Ossetian	Ossetian	Modern Ossetic	osse1243	oss	Ossetic	Indo-European	Eurasia	42.98	44.61	Dellert et al., 2019	
+Turkic	Turkic, Kipchak	Kumyk	Kumyk	Kumyk	kumy1244	kum	Kumyk	Turkic	Eurasia	43.0	47.0	Savelyev & Robbeets (2020)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Italian (Foligno)	Foligno Italian	Italian	ital1282	ita	Italian	Indo-European	Eurasia	43.0464	12.6489	Saenko (2015)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Italian (Grosseto)	Grosseto Italian	Italian	ital1282	ita	Italian	Indo-European	Eurasia	43.0464	12.6489	Saenko (2015)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Italian (Standard)	Standard Italian	Italian	ital1282	ita	Italian	Indo-European	Eurasia	43.0464	12.6489	Saenko (2015)	
+NorthEuraLex	Indo-European, Italic	Italian	Italian	Italian	ital1282	ita	Italian	Indo-European	Eurasia	43.0464	12.6489	Dellert et al., 2019	
+NorthEuraLex	Abkhaz-Adyge, Abkhaz-Abaza	Abkhaz	Abkhaz	Abkhaz	abkh1244	abk	Abkhazian	Abkhaz-Adyge	Eurasia	43.056218	41.159115	Dellert et al., 2019	
+NorthEuraLex	Basque, Basque	Basque	Basque	Basque	basq1248	eus	Basque	Isolate	Eurasia	43.2787	-1.31622	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Bulgarian	Bulgarian	Bulgarian	bulg1262	bul	Bulgarian	Indo-European	Eurasia	43.3646	25.047	Dellert et al., 2019	
+NorthEuraLex	Nakh-Daghestanian, Nakh	Chechen	Chechen	Chechen	chec1245	che	Chechen	Nakh-Daghestanian	Eurasia	43.5	45.5	Dellert et al., 2019	
+Turkic	Turkic, Kipchak	Karachay-Balkar	KarachayBalkar	Karachay-Balkar	kara1465	krc	Karachay-Balkar	Turkic	Eurasia	43.565	42.2606	Savelyev & Robbeets (2020)	
+Turkic	Turkic, Kipchak	Nogai	Nogai	Nogai	noga1249	nog	Nogai	Turkic	Eurasia	43.5917	46.6618	Savelyev & Robbeets (2020)	
+NorthEuraLex	Ainu, Hokkaido-Kuril Ainu	Hokkaido Ainu	Hokkaido Ainu	Hokkaido Ainu	ainu1240	ain	Ainu (Japan)	Ainu	Eurasia	43.633654	142.46167	Dellert et al., 2019	
+Turkic	Turkic, Turkestan Turkic	Uyghur	Uyghur	Uighur	uigh1240	uig	Uyghur	Turkic	Eurasia	43.88	87.38	Savelyev & Robbeets (2020)	
+NorthEuraLex	Abkhaz-Adyge, Circassian	Adyghe	Adyghe	Adyghe	adyg1241	ady	Adyghe	Abkhaz-Adyge	Eurasia	44.0	39.33	Dellert et al., 2019	
+Italic	Indo-European, Italic, Western Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Indo-European	Eurasia	44.0	6.0	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Ligurian (Rapallo)	Rapallo Ligurian	Ligurian	ligu1248	lij	Ligurian	Indo-European	Eurasia	44.0816	7.90522	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Ligurian (Stella)	Stella Ligurian	Ligurian	ligu1248	lij	Ligurian	Indo-European	Eurasia	44.0816	7.90522	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Romagnol	Ravennate Romagnol	Romagnol	roma1328	rgn	Romagnol	Indo-European	Eurasia	44.2349	11.7189	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Emiliano (Carpigiano)	Carpigiano Emiliano	Emiliano	emil1241	egl	Emilian	Indo-European	Eurasia	44.3536	11.5794	Saenko (2015)	
+Turkic	Turkic, Oghuz	Gagauz	Gagauz	Gagauz	gaga1249	gag	Gagauz	Turkic	Eurasia	44.5988	28.0277	Savelyev & Robbeets (2020)	
+Turkic	Turkic, Kipchak	Crimean Tatar	CrimeanTatar	Crimean Tatar	crim1257	crh	Crimean Turkish	Turkic	Eurasia	45.0	34.08	Savelyev & Robbeets (2020)	
+Italic	Indo-European, Italic, Eastern Romance	Istro-Romanian	Istro Romanian	Istro Romanian	istr1245	ruo	Istro Romanian	Indo-European	Eurasia	45.433	14.2	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Piemontese (Barbania)	Barbania Piemontese	Piemontese	piem1238	pms	Piemontese	Indo-European	Eurasia	45.4633	8.32366	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Piemontese (Carmagnola)	Carmagnola Piemontese	Piemontese	piem1238	pms	Piemontese	Indo-European	Eurasia	45.4633	8.32366	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Piemontese (Lanzo Torinese)	Lanzo Torinese Piemontese	Piemontese	piem1238	pms	Piemontese	Indo-European	Eurasia	45.4633	8.32366	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Piemontese (Vercellese)	Vercellese Piemontese	Piemontese	piem1238	pms	Piemontese	Indo-European	Eurasia	45.4633	8.32366	Saenko (2015)	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Croatian	Croatian	Croatian Standard	croa1245	hrv	Croatian	Indo-European	Eurasia	45.555	15.982	Dellert et al., 2019	
+Sinitic	Sino-Tibetan, Sinitic, Mandarin	Ha'erbin	Haerbin	Ha'erbin Mandarin	haer1234	cmn	Mandarin Chinese	Sino-Tibetan	Eurasia	45.846595	126.551056	Líu et al., 2007	
+Italic	Indo-European, Italic, Western Romance	Friulian	Friulian	Friulian	friu1240	fur	Friulian	Indo-European	Eurasia	46.1473	13.0493	Saenko (2015)	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Slovene	Slovene	Slovenian	slov1268	slv	Slovenian	Indo-European	Eurasia	46.2543	14.7766	Dellert et al., 2019	
+Italic	Indo-European, Italic, Eastern Romance	Romanian	Romanian	Romanian	roma1327	ron	Romanian	Indo-European	Eurasia	46.3913	24.2256	Saenko (2015)	
+NorthEuraLex	Indo-European, Italic	Romanian	Romanian	Romanian	roma1327	ron	Romanian	Indo-European	Eurasia	46.3913	24.2256	Dellert et al., 2019	
+NorthEuraLex	Mongolic, Eastern Mongolic	Kalmyk	Kalmyk	Oirad-Kalmyk-Darkhat	kalm1243	xal	Oirat	Mongolic-Khitan	Eurasia	46.566667	45.316667	Dellert et al., 2019	
+NorthEuraLex	Uralic, Ugric, Hungarian	Hungarian	Hungarian	Hungarian	hung1274	hun	Hungarian	Uralic	Eurasia	46.9068585714	19.6555271429	Dellert et al., 2019	
+Uralic	Uralic, Ugric, Hungarian	Hungarian	Hungarian	Hungarian	hung1274	hun	Hungarian	Uralic	Eurasia	46.9068585714	19.6555271429	De Heer et al.; Syrjänen	
+NorthEuraLex	Tungusic, Manchu-Jurchen	Manchu	Manchu	Manchu	manc1252	mnc	Manchu	Tungusic	Eurasia	47.3122	126.557	Dellert et al., 2019	
+Italic	Indo-European, Italic, Western Romance	French	Standard French	French	stan1290	fra	French	Indo-European	Eurasia	48.0	2.0	Saenko (2015)	
+NorthEuraLex	Indo-European, Italic	French	French	French	stan1290	fra	French	Indo-European	Eurasia	48.0	2.0	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Celtic	Breton	Breton	Breton	bret1244	bre	Breton	Indo-European	Eurasia	48.2452	-3.78934	Dellert et al., 2019	
+NorthEuraLex	Mongolic, Eastern Mongolic	Khalkha Mongolian	Khalkha Mongolian	Halh Mongolian	halh1238	khk	Halh Mongolian	Mongolic-Khitan	Eurasia	48.324	106.289	Dellert et al., 2019	
+NorthEuraLex	Tungusic, Central Tungusic	Nanai	Nanai	Nanai	nana1257	gld	Nanai	Tungusic	Eurasia	48.4343	134.797	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Slovak	Slovak	Slovak	slov1269	slk	Slovak	Indo-European	Eurasia	48.545705	18.78479	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Germanic	German	German	German	stan1295	deu	German	Indo-European	Eurasia	48.649	12.4676	Dellert et al., 2019	
+Italic	Indo-European, Italic, Western Romance	Old French	Old French	Old French (842-ca. 1400)	oldf1239	fro	Old French (842-ca. 1400)	Indo-European	Eurasia	48.8	1.11	Saenko (2015)	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Ukrainian	Ukrainian	Ukrainian	ukra1253	ukr	Ukrainian	Indo-European	Eurasia	49.796	29.945	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Czech	Czech	Czech	czec1258	ces	Czech	Indo-European	Eurasia	49.873398	15.10437	Dellert et al., 2019	
+Turkic	Turkic, Kipchak	Southern Altai	SouthAltai	Southern Altai	sout2694	alt	Southern Altai	Turkic	Eurasia	50.1347	86.8705	Savelyev & Robbeets (2020)	Altay-Kiži dialect
+Italic	Indo-European, Italic, Western Romance	Walloon	Walloon	Walloon	wall1255	wln	Walloon	Indo-European	Eurasia	50.2235	5.14509	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Picard	Picard	Picard	pica1241	pcd	Picard	Indo-European	Eurasia	50.2831	3.25085	Saenko (2015)	
+Turkic	Turkic, South Siberian Turkic	Khakas	Khakas	Khakas	khak1248	kjh	Khakas	Turkic	Eurasia	50.7393	107.169	Savelyev & Robbeets (2020)	
+Turkic	Turkic, South Siberian Turkic	Tuvan	Tuvan	Tuvinian	tuvi1240	tyv	Tuvinian	Turkic	Eurasia	51.7	94.36667	Savelyev & Robbeets (2020)	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Polish	Polish	Polish	poli1260	pol	Polish	Indo-European	Eurasia	51.8439	18.6255	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Germanic	Dutch	Dutch	Dutch	dutc1256	nld	Dutch; Flemish	Indo-European	Eurasia	52.0	5.0	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Celtic	Welsh	Welsh	Welsh	wels1247	cym	Welsh	Indo-European	Eurasia	52.0	-4.0	Dellert et al., 2019	
+NorthEuraLex	Eskimo-Aleut, Aleut	Aleut	Aleut	Aleut	aleu1260	ale	Aleut	Eskimo-Aleut	North America	52.1228	-174.29	Dellert et al., 2019	
+Turkic	Turkic, South Siberian Turkic	Shor	Shor	Shor	shor1247	cjs	Shor	Turkic	Eurasia	52.3261	88.4344	Savelyev & Robbeets (2020)	
+NorthEuraLex	Nivkh, Nivkh	Nivkh	Nivkh	Amur Nivkh	gily1242	niv	Gilyak	Nivkh	Eurasia	52.59	140.681	Dellert et al., 2019	
+NorthEuraLex	Uralic, Mordvin	Erzya	Erzya	Erzya	erzy1239	myv	Erzya	Uralic	Eurasia	52.8548	45.3901	Dellert et al., 2019	
+Uralic	Uralic, Mordvin	Erzya	Erzya	Erzya	erzy1239	myv	Erzya	Uralic	Eurasia	52.8548	45.3901	De Heer et al.; Syrjänen	
+NorthEuraLex	Indo-European, Germanic	English	English	English	stan1293	eng	English	Indo-European	Eurasia	53.0	-1.0	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Celtic	Irish	Irish	Irish	iris1253	gle	Irish	Indo-European	Eurasia	53.2186	-7.61509	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Belarusian	Belarusian	Belarusian	bela1254	bel	Belarusian	Indo-European	Eurasia	53.2307	25.6038	Dellert et al., 2019	
+NorthEuraLex	Turkic, Kipchak	Bashkir	Bashkir	Bashkir	bash1264	bak	Bashkir	Turkic	Eurasia	53.5967	56.5594	Dellert et al., 2019	
+Turkic	Turkic, Kipchak	Bashkir	Bashkir	Bashkir	bash1264	bak	Bashkir	Turkic	Eurasia	53.5967	56.5594	Savelyev & Robbeets (2020)	
+Turkic	Turkic, South Siberian Turkic	Tofa	Tofa	Tofa	tofa1248	kim	Karagas	Turkic	Eurasia	53.75	98.0	Savelyev & Robbeets (2020)	
+NorthEuraLex	Uralic, Mordvin	Moksha	Moksha	Moksha	moks1248	mdf	Moksha	Uralic	Eurasia	54.1855	42.6728	Dellert et al., 2019	
+Turkic	Turkic, Kipchak	Karaim	Karaim	Karaim	kara1464	kdr	Karaim	Turkic	Eurasia	54.5534	25.1054	Savelyev & Robbeets (2020)	Dialects of Halych and Trakai
+NorthEuraLex	Indo-European, Germanic	Danish	Danish	Danish	dani1285	dan	Danish	Indo-European	Eurasia	54.8655	9.36284	Dellert et al., 2019	
+NorthEuraLex	Turkic, Kipchak	Tatar	Tatar	Tatar	tata1255	tat	Tatar	Turkic	Eurasia	55.0	50.0	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Baltic	Lithuanian	Lithuanian	Lithuanian	lith1251	lit	Lithuanian	Indo-European	Eurasia	55.1429	23.9601	Dellert et al., 2019	
+NorthEuraLex	Turkic, Bolgar	Chuvash	Chuvash	Chuvash	chuv1255	chv	Chuvash	Turkic	Eurasia	55.487	47.163	Dellert et al., 2019	
+Turkic	Turkic, Bolgar	Chuvash	Chuvash	Chuvash	chuv1255	chv	Chuvash	Turkic	Eurasia	55.487	47.163	Savelyev & Robbeets (2020)	Viryal dialect
+Turkic	Turkic, Kipchak	Tatar	KazanTatar	Kazan Tatar	kaza1250	tat	Tatar	Turkic	Eurasia	55.796389	49.108889	Savelyev & Robbeets (2020)	
+NorthEuraLex	Uralic, Mari	Meadow Mari	Meadow Mari	Eastern Mari	east2328	mhr	Eastern Mari	Uralic	Eurasia	55.8307	48.405	Dellert et al., 2019	
+Uralic	Uralic, Mari	Meadow Mari	Meadow Mari	Eastern Mari	east2328	mhr	Eastern Mari	Uralic	Eurasia	55.8307	48.405	De Heer et al.; Syrjänen	
+NorthEuraLex	Chukotko-Kamchatkan, Itelmen	Itelmen	Itelmen	West Itelmen	itel1242	itl	Itelmen	Chukotko-Kamchatkan	Eurasia	56.046173	156.30704	Dellert et al., 2019	
+NorthEuraLex	Uralic, Permian	Udmurt	Udmurt	Udmurt	udmu1245	udm	Udmurt	Uralic	Eurasia	56.12921	52.63548	Dellert et al., 2019	
+Uralic	Uralic, Permic	Udmurt	Udmurt	Udmurt	udmu1245	udm	Udmurt	Uralic	Eurasia	56.12921	52.63548	De Heer et al.; Syrjänen	
+NorthEuraLex	Uralic, Mari	Hill Mari	Hill Mari	Western Mari	west2392	mrj	Western Mari	Uralic	Eurasia	56.22	46.569	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Baltic	Latvian	Latvian	Latvian	latv1249	lav	Latvian	Indo-European	Eurasia	56.826108	24.309118	Dellert et al., 2019	
+NorthEuraLex	Uralic, Finnic	Livonian	Livonian	Liv	livv1244	liv	Liv	Uralic	Eurasia	57.566	22.0262	Dellert et al., 2019	
+Uralic	Uralic, Finnic	Votic	Western Votic	West Vod	west2391	vot	Votic	Uralic	Eurasia	57.85	27.0	De Heer et al.; Syrjänen	
+NorthEuraLex	Uralic, Finnic	Estonian	Estonian	Estonian	esto1258	ekk	Standard Estonian	Uralic	Eurasia	58.55	25.82	Dellert et al., 2019	
+Uralic	Uralic, Finnic	Estonian	Standard Estonian	Estonian	esto1258	ekk	Standard Estonian	Uralic	Eurasia	58.55	25.82	De Heer et al.; Syrjänen	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Russian	Russian	Russian	russ1263	rus	Russian	Indo-European	Eurasia	59.0	50.0	Dellert et al., 2019	
+Uralic	Uralic, Finnic	Ingrian	Ingrian	Ingrian	ingr1248	izh	Ingrian	Uralic	Eurasia	59.47403	29.71145	De Heer et al.; Syrjänen	
+NorthEuraLex	Uralic, Permian	Komi-Permyak	Komi-Permyak	Komi-Permyak	komi1269	koi	Komi-Permyak	Uralic	Eurasia	59.6602	54.7959	Dellert et al., 2019	
+Uralic	Uralic, Permic	Komi-Permyak	Komi-Permyak	Komi-Permyak	komi1269	koi	Komi-Permyak	Uralic	Eurasia	59.6602	54.7959	De Heer et al.; Syrjänen	
+NorthEuraLex	Indo-European, Germanic	Swedish	Swedish	Swedish	swed1254	swe	Swedish	Indo-European	Eurasia	59.800634	17.389526	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Germanic	Norwegian (Bokmål)	Norwegian (Bokmål)	Norwegian	norw1258	nor	Norwegian	Indo-European	Eurasia	59.92	10.71	Dellert et al., 2019	
+NorthEuraLex	Uralic, Samoyedic	Northern Selkup	Northern Selkup	Selkup	selk1253	sel	Selkup	Uralic	Eurasia	59.9409	82.3004	Dellert et al., 2019	
+Uralic	Uralic, Ugric, Khantyic	Khanty	Vakh-Vasyugan Khanty	Vach-Vasjugan	fare1244			Uralic	Eurasia	60.10378	79.873651	De Heer et al.; Syrjänen	
+NorthEuraLex	Uralic, Finnic	Veps	Veps	Veps	veps1250	vep	Veps	Uralic	Eurasia	60.3353	34.7865	Dellert et al., 2019	
+Uralic	Uralic, Finnic	Veps	Veps	Veps	veps1250	vep	Veps	Uralic	Eurasia	60.3353	34.7865	De Heer et al.; Syrjänen	
+NorthEuraLex	Uralic, Finnic	Olonets Karelian	Olonets Karelian	Livvi	livv1243	olo	Livvi	Uralic	Eurasia	61.6565	29.0726	Dellert et al., 2019	
+NorthEuraLex	Turkic, North Siberian Turkic	Sakha	Sakha	Sakha	yaku1245	sah	Yakut	Turkic	Eurasia	61.6974	133.98	Dellert et al., 2019	
+NorthEuraLex	Tungusic, Northern Tungusic	Evenki	Evenki	Evenki	even1259	evn	Evenki	Tungusic	Eurasia	61.972	94.689	Dellert et al., 2019	
+NorthEuraLex	Uralic, Ugric, Khantyic	Northern Khanty	Northern Khanty	Kazym-Berezover-Suryskarer Khanty	khan1273	kca	Khanty	Uralic	Eurasia	62.4308	66.1218	Dellert et al., 2019	
+NorthEuraLex	Uralic, Saami	Southern Sami	Southern Sami	South Saami	sout2674	sma	Southern Sami	Uralic	Eurasia	62.8801	13.7006	Dellert et al., 2019	
+Uralic	Uralic, Saami	South Saami	South Saami	South Saami	sout2674	sma	Southern Sami	Uralic	Eurasia	62.8801	13.7006	De Heer et al.; Syrjänen	
+NorthEuraLex	Eskimo-Aleut, Eskimo	Central Siberian Yupik	Central Siberian Yupik	Central Siberian Yupik	cent2128	ess	Central Siberian Yupik	Eskimo-Aleut	Eurasia	63.4308	-170.272	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Germanic	Icelandic	Icelandic	Icelandic	icel1247	isl	Icelandic	Indo-European	Eurasia	63.4837	-19.0212	Dellert et al., 2019	
+NorthEuraLex	Yeniseian, Northern Yeniseian	Ket	Ket	Ket	kett1243	ket	Ket	Yeniseian	Eurasia	63.7551	87.5466	Dellert et al., 2019	
+NorthEuraLex	Uralic, Permian	Komi-Zyrian	Komi-Zyrian	Komi-Zyrian	komi1268	kpv	Komi-Zyrian	Uralic	Eurasia	64.0527	54.946	Dellert et al., 2019	
+Uralic	Uralic, Permic	Komi-Zyrian	Komi-Zyrian	Komi-Zyrian	komi1268	kpv	Komi-Zyrian	Uralic	Eurasia	64.0527	54.946	De Heer et al.; Syrjänen	
+NorthEuraLex	Yukaghir, Kolymic	Southern Yukaghir	Southern Yukaghir	Southern Yukaghir	sout2750	yux	Southern Yukaghir	Yukaghir	Eurasia	64.218	154.375	Dellert et al., 2019	
+NorthEuraLex	Uralic, Ugric, Mansic	Northern Mansi	Northern Mansi	Northern Mansi	mans1258	mns	Mansi	Uralic	Eurasia	64.4118	61.344	Dellert et al., 2019	
+NorthEuraLex	Uralic, Finnic	Finnish	Finnish	Finnish	finn1318	fin	Finnish	Uralic	Eurasia	64.7628	25.5577	Dellert et al., 2019	
+Uralic	Uralic, Finnic	Finnish	Standard Finnish	Finnish	finn1318	fin	Finnish	Uralic	Eurasia	64.7628	25.5577	De Heer et al.; Syrjänen	
+NorthEuraLex	Uralic, Finnic	North Karelian	North Karelian	Karelian	kare1335	krl	Karelian	Uralic	Eurasia	65.1691	30.8655	Dellert et al., 2019	
+Uralic	Uralic, Finnic	Karelian	Karelian Proper	Karelian	kare1335	krl	Karelian	Uralic	Eurasia	65.1691	30.8655	De Heer et al.; Syrjänen	
+Uralic	Uralic, Samoyedic	Selkup	Selkup	Taz-Turukhan	tazz1244	sel	Selkup	Uralic	Eurasia	65.7035	82.4441	De Heer et al.; Syrjänen	
+NorthEuraLex	Uralic, Samoyedic	Tundra Nenets	Tundra Nenets	Tundra Nenets	nene1249	yrk	Nenets	Uralic	Eurasia	66.1775	71.0234	Dellert et al., 2019	
+Uralic	Uralic, Samoyedic	Tundra Nenets	Tundra Nenets	Tundra Nenets	nene1249	yrk	Nenets	Uralic	Eurasia	66.1775	71.0234	De Heer et al.; Syrjänen	
+NorthEuraLex	Uralic, Saami	Lule Sami	Lule Sami	Lule Saami	lule1254	smj	Lule Sami	Uralic	Eurasia	67.2759	17.8057	Dellert et al., 2019	
+NorthEuraLex	Uralic, Saami	Kildin Sami	Kildin Sami	Kildin Saami	kild1236	sjd	Kildin Sami	Uralic	Eurasia	68.2158	35.8348	Dellert et al., 2019	
+Uralic	Uralic, Saami	Kildin Saami	Kildin Saami	Kildin Saami	kild1236	sjd	Kildin Sami	Uralic	Eurasia	68.2158	35.8348	De Heer et al.; Syrjänen	
+NorthEuraLex	Chukotko-Kamchatkan, Chukotian	Chukchi	Chukchi	Chukchi	chuk1273	ckt	Chukot	Chukotko-Kamchatkan	Eurasia	68.6436	170.045	Dellert et al., 2019	
+NorthEuraLex	Uralic, Saami	Northern Sami	Northern Sami	North Saami	nort2671	sme	Northern Sami	Uralic	Eurasia	68.725	22.1113	Dellert et al., 2019	
+Uralic	Uralic, Saami	North Saami	North Saami	North Saami	nort2671	sme	Northern Sami	Uralic	Eurasia	68.725	22.1113	De Heer et al.; Syrjänen	
+NorthEuraLex	Uralic, Saami	Skolt Sami	Skolt Sami	Skolt Saami	skol1241	sms	Skolt Sami	Uralic	Eurasia	68.8326	29.7204	Dellert et al., 2019	
+Uralic	Uralic, Saami	Skolt Saami	Skolt Saami	Skolt Saami	skol1241	sms	Skolt Sami	Uralic	Eurasia	68.8326	29.7204	De Heer et al.; Syrjänen	
+NorthEuraLex	Eskimo-Aleut, Eskimo	Kalaallisut	Kalaallisut	Kalaallisut	kala1399	kal	Kalaallisut	Eskimo-Aleut	North America	69.3761	-52.864	Dellert et al., 2019	
+NorthEuraLex	Uralic, Saami	Inari Sami	Inari Sami	Inari Saami	inar1241	smn	Inari Sami	Uralic	Eurasia	69.4229	27.8658	Dellert et al., 2019	
+NorthEuraLex	Uralic, Samoyedic	Forest Enets	Forest Enets	Forest Enets	fore1265	enf	Forest Enets	Uralic	Eurasia	69.9829	88.2121	Dellert et al., 2019	
+NorthEuraLex	Yukaghir, Northern Yukaghir	Northern Yukaghir	Northern Yukaghir	Northern Yukaghir	nort2745	ykg	Northern Yukaghir	Yukaghir	Eurasia	70.498	157.853	Dellert et al., 2019	
+Turkic	Turkic, North Siberian Turkic	Dolgan	Dolgan	Dolgan	dolg1241	dlg	Dolgan	Turkic	Eurasia	71.1083	94.2936	Savelyev & Robbeets (2020)	
+NorthEuraLex	Uralic, Samoyedic	Nganasan	Nganasan	Nganasan	ngan1291	nio	Nganasan	Uralic	Eurasia	73.1354	86.2106	Dellert et al., 2019	
+Uralic	Uralic, Samoyedic	Nganasan	Nganasan	Nganasan	ngan1291	nio	Nganasan	Uralic	Eurasia	73.1354	86.2106	De Heer et al.; Syrjänen	
+NorthEuraLex	Indo-European, Albanian	Standard Albanian	Standard Albanian	Albanian	alba1267	sqi	Albanian	Indo-European	Eurasia	41.33	19.85	Dellert et al., 2019	
+Italic	Indo-European, Italic, Western Romance	Asturian	Asturian	Asturian	astu1246	ast	Asturian; Leonese	Indo-European	Eurasia	42.4181	-6.02227	Saenko (2015)	
+Turkic	Turkic, Central Siberian Turkic	Baraba Tatar	BarabaTatar	Baraba	bara1273	sty	Siberian Tatar	Turkic	Eurasia	57.4921	72.5642	Savelyev & Robbeets (2020)	
+Italic	Indo-European, Italic, Western Romance	Lombard (Bergamo)	Bergamo Lombard	Bergamasco	berg1241	lmo	Lombard	Indo-European	Eurasia	45.8817	9.39509	Saenko (2015)	
+NorthEuraLex	Mongolic, Eastern Mongolic	Buryat	Buryat	Buriat	buri1258	bua	Buriat	Mongolic-Khitan	Eurasia	50.85	105.56	Dellert et al., 2019	
+Italic	Indo-European, Italic, Western Romance	Spanish	Castilian Spanish	Castilian	cast1244	spa	Spanish	Indo-European	Eurasia	40.4414	-1.11788	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Catalan (Northwestern)	North-Western Catalan	Català Nord-Occidental	cata1291	cat	Catalan	Indo-European	Eurasia	41.453	1.569	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Emiliano (Reggiano)	Reggiano Emiliano	Central Emiliano	cent1959	egl	Emilian	Indo-European	Eurasia	44.3536	11.5794	Saenko (2015)	
+Turkic	Turkic, South Siberian Turkic	Northern Altai	NorthAltai	Chelkan	chel1242	atv	Northern Altai	Turkic	Eurasia	50.8998	88.0672	Savelyev & Robbeets (2020)	Chelkan dialect
+Italic	Indo-European, Italic, Western Romance	Emiliano (Ferrarese)	Ferrarese Emiliano	Eastern Emiliano	east2275	egl	Emilian	Indo-European	Eurasia	44.3536	11.5794	Saenko (2015)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Catanian)	Catanian Sicilian	Eastern Nonmetafonetica	east2279	scn	Sicilian	Indo-European	Eurasia	37.5735	14.0414	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Ladin (Fassano)	Fassano Ladin	Fassano	fass1244	lld	Ladin	Indo-European	Eurasia	46.60651	11.89498	Saenko (2015)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Old Italian	Old Italian	Old Italian	fior1236	ita	Italian	Indo-European	Eurasia	43.0464	12.6489	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Ladin (Gardenese)	Gardenese Ladin	Gardenese	gard1241	lld	Ladin	Indo-European	Eurasia	46.60651	11.89498	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Ligurian (Genoese)	Genoese Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.0816	7.90522	Saenko (2015)	
+Uralic	Uralic, Saami	Inari Saami	Inari Saami	Inari Saami	inar1241	smn	Inari Sami	Uralic	Eurasia	69.4229	27.8658	De Heer et al.; Syrjänen	
+Italic	Indo-European, Italic, Western Romance	Romansh (Vallader)	Vallader Romansh	Lower Engadine	lowe1386	roh	Romansh	Indo-European	Eurasia	46.5538	9.92812	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Catalan (Minorcan)	Minorcan Catalan	Menorquí	meno1253	cat	Catalan	Indo-European	Eurasia	41.453	1.569	Saenko (2015)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Messinese)	Messinese Sicilian	Messinese	mess1247	scn	Sicilian	Indo-European	Eurasia	37.5735	14.0414	Saenko (2015)	
+Turkic	Turkic, South Siberian Turkic	Chulym	MiddleChulym	Middle Chulym Turkic	midd1324	clw	Chulym	Turkic	Eurasia	54.3209	89.5541	Savelyev & Robbeets (2020)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Neapolitan	Neapolitan	Napoletano	napo1241	nap	Neapolitan	Indo-European	Eurasia	39.2288	16.4225	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Catalan (Central)	Central Catalan	Central Catalan	nons1235	cat	Catalan	Indo-European	Eurasia	41.453	1.569	Saenko (2015)	
+Uralic	Uralic, Ugric, Mansic	Mansi	Sosva Mansi	Sosva Mansi	nort2677	mns	Mansi	Uralic	Eurasia	64.4118	61.344	De Heer et al.; Syrjänen	
+Uralic	Uralic, Saami	Pite Saami	Pite Saami	Pite Saami	pite1240	sje	Pite Sami	Uralic	Eurasia	66.4011	17.4261	De Heer et al.; Syrjänen	
+Polynesian	Austronesian, Polynesian	Proto-Polynesian	Polynesian	Polynesian	poly1242			Austronesian	Papunesia			Walworth, 2018	
+Italic	Indo-European, Italic, Western Romance	Romansh (Grischun)	Rumantsch Grischun	Rumantsch Grischun	ruma1247	roh	Romansh	Indo-European	Eurasia	46.5538	9.92812	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Franco-Provençal	Savoyard Franco-Provençal	Savoyard	savo1253	frp	Francoprovençal	Indo-European	Eurasia	45.8051	6.48152	Saenko (2015)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Southeastern)	South-Eastern Sicilian	Southeast Metafonetica	sout2617	scn	Sicilian	Indo-European	Eurasia	37.5735	14.0414	Saenko (2015)	
+Uralic	Uralic, Finnic	Võro	Võro South Estonian	South Estonian	sout2679	vro	Võro	Uralic	Eurasia	57.85	27.0	De Heer et al.; Syrjänen	
+Italic	Indo-European, Italic, Western Romance	Romansh (Surmiran)	Surmiran Romansh	Surmiran-Albula	surm1243	roh	Romansh	Indo-European	Eurasia	46.5538	9.92812	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Romansh (Sursilvan)	Sursilvan Romansh	Sursilvan	surs1244	roh	Romansh	Indo-European	Eurasia	46.5538	9.92812	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Venetian (Primiero)	Primiero Venetian	Trentine	tret1239	vec	Venetian	Indo-European	Eurasia	45.503581	12.214167	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Venetian (Bellunese)	Bellunese Venetian	Triestine	trie1242	vec	Venetian	Indo-European	Eurasia	45.503581	12.214167	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Piemontese (Turinese)	Turinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.4633	8.32366	Saenko (2015)	
+Uralic	Uralic, Saami	Ume Saami	Ume Saami	Ume Saami	umes1235	sju	Ume Sami	Uralic	Eurasia	64.6383	18.646	De Heer et al.; Syrjänen	
+Italic	Indo-European, Italic, Western Romance	Catalan (Valencia)	Valencia Catalan	Valencià	vale1252	cat	Valencian	Indo-European	Eurasia	41.453	1.569	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Catalan (Manises)	Manises Catalan	Valencià Septentrional	vale1253	cat	Valencian	Indo-European	Eurasia	41.453	1.569	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Catalan (Castelló de la Plana)	Castelló de la Plana Catalan	Valencià Meridional	vale1255	cat	Valencian	Indo-European	Eurasia	41.453	1.569	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Venetian (Venice)	Venice Venetian	Venetian Proper	vene1259	vec	Venetian	Indo-European	Eurasia	45.503581	12.214167	Saenko (2015)	
+Uralic	Uralic, Finnic	Livonian	Courland Livonian	Courland Livonian	west1760	liv	Liv	Uralic	Eurasia	57.566	22.0262	De Heer et al.; Syrjänen	
+Italic	Indo-European, Italic, Western Romance	Lombard (Plesio)	Plesio Lombard	Western Lombard	west2343	lmo	Lombard	Indo-European	Eurasia	45.8817	9.39509	Saenko (2015)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Palermitan)	Palermitan Sicilian	Western Sicilian	west2346	scn	Sicilian	Indo-European	Eurasia	37.5735	14.0414	Saenko (2015)	
+Turkic	Turkic, North Siberian Turkic	Yakut	Yakut	Sakha	yaku1245	sah	Yakut	Turkic	Eurasia	61.6974	133.98	Savelyev & Robbeets (2020)	Sakha
+Turkic	Turkic, Kipchak	Middle Kipchak	CodexCumanicus					Turkic	Eurasia			Savelyev & Robbeets (2020)	Middle Kipchak variety attested in the Codex Cumanicus manuscript, dating from the early 14th century AD
+Uralic	Uralic	Proto-Uralic	Proto-Uralic*					Uralic	Eurasia			De Heer et al.; Syrjänen	

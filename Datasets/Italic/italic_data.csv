@@ -6267,144 +6267,144 @@ ProvençalOccitan_WIND_1	Occitan	prov1235	oci	WIND	vènt	vɛnt	v ɛ n t	vɛnt	WI
 ProvençalOccitan_WIND_3	Occitan	prov1235	oci	WIND	auro	ˈawɾo	ˈa w ɾ o	ˈawɾ-o	WIND_3	FALSE		Coupier 1995: 1468-1469
 ProvençalOccitan_WORM_1	Occitan	prov1235	oci	WORM	verme	vˈɛɾme	v ˈɛ ɾ m e	vˈɛɾm-e	WORM_1	FALSE		Coupier 1995: 1470
 ProvençalOccitan_YEAR_1	Occitan	prov1235	oci	YEAR	annado	anːˈado	a nː ˈa d o	anː-ˈad-o	YEAR_1	FALSE		Coupier 1995: 72
-SavoyardFranco-Provençal_ALL_2	Franco-Provençal	fran1269	frp	ALL	to	to	t o	to	ALL_2	FALSE	The form tot {tot} is used before a vowel.	Viret 2013: 2127-2129
-SavoyardFranco-Provençal_ALL_2	Franco-Provençal	fran1269	frp	ALL	tot	tot	t o t	tot	ALL_2	FALSE	The form tot {tot} is used before a vowel.	Viret 2013: 2127-2129
-SavoyardFranco-Provençal_ASH_1	Franco-Provençal	fran1269	frp	ASH	findra	fˈɛ̃dra	f ˈɛ̃ d r a	fˈɛ̃dr-a	ASH_1	FALSE		Viret 2013: 429-430
-SavoyardFranco-Provençal_ASH_1	Franco-Provençal	fran1269	frp	ASH	fêdra	fˈɛdra	f ˈɛ d r a	fˈɛdr-a	ASH_1	FALSE		Viret 2013: 429-430
-SavoyardFranco-Provençal_BARK_3	Franco-Provençal	fran1269	frp	BARK	ékeûrsa	ekˈøːrsa	e k ˈøː r s a	ekˈöːrs-a	BARK_3	FALSE	Bas-Faucigny: {égueurfa} 'bark'; Semine: {égorsa} 'bark'; Samoëns: {égourfa} 'bark'; Quintal: {égrufa} 'bark'. These forms may be of Arabic origin or at least influenced by it (see the comment on Manises Catalan). Lanslebourg: {rufi} 'bark'; Montagny vers Bozel: {pèla'ra} 'bark'; Cordon: {peleura} 'bark'.	Viret 2013: 803
-SavoyardFranco-Provençal_BELLY_1	Franco-Provençal	fran1269	frp	BELLY	vêtro	vˈɛtro	v ˈɛ t r o	vˈɛtr-o	BELLY_1	FALSE	Viret also mentions the term bˈod-a {bôda} 'belly' without differentiating them, but bˈod-a {bôda} also occurs in another entry as a translation of French {panse} 'paunch', so we do not include it in the list. Distinct from pˈãf-a {panfa} 'belly', which is pejorative. 	Viret 2013: 2210-2211
-SavoyardFranco-Provençal_BIG_2	Franco-Provençal	fran1269	frp	BIG	gran	ɡrã	ɡ r ã	grã	BIG_2	FALSE	Viret mentions two words for 'big': grã {gran} in accordance with French {grand} [Viret 2013: 1091-1092] and gru {grou} in accordance with French {gros} [Viret 2013: 1109-1110]. Based on these data, we include only the first term in the list; see notes on the list for Standard French.	Viret 2013: 1091-1092
-SavoyardFranco-Provençal_BIRD_1	Franco-Provençal	fran1269	frp	BIRD	aijô	ajʒˈo	a j ʒ ˈo	ayžˈo	BIRD_1	FALSE		Viret 2013: 1499
-SavoyardFranco-Provençal_BITE_1	Franco-Provençal	fran1269	frp	BITE	meûrdre	mˈøːrdre	m ˈøː r d r e	mˈöːrd-re	BITE_1	FALSE	Côte-d'Aime: ĩ=bok-ˈaː {ihnbôkâ} 'to bite'.	Viret 2013: 1427
-SavoyardFranco-Provençal_BLACK_2	Franco-Provençal	fran1269	frp	BLACK	nai	naj	n a j	nay	BLACK_2	FALSE		Viret 2013: 1472-1473
-SavoyardFranco-Provençal_BLOOD_1	Franco-Provençal	fran1269	frp	BLOOD	san	sã	s ã	sã	BLOOD_1	FALSE		Viret 2013: 1934
-SavoyardFranco-Provençal_BONE_1	Franco-Provençal	fran1269	frp	BONE	o	ɔ	ɔ	ɔ	BONE_1	FALSE		Viret 2013: 1512
-SavoyardFranco-Provençal_BREAST_-1	Franco-Provençal	fran1269	frp	BREAST	èstoma	ɛstˈɔma	ɛ s t ˈɔ m a	ɛstˈɔma	BREAST_3	TRUE	Distinct from pˈɛtr-o {pètro} 'gizzard'.	Viret 2013: 1676-1677
-SavoyardFranco-Provençal_BURN (SOMETHING)_-1	Franco-Provençal	fran1269	frp	BURN (SOMETHING)	brûlâ	bryːlˈaː	b r yː l ˈaː	brüːl-ˈaː	BURN (SOMETHING)_1	TRUE	Along with this term, Viret also mentions fwaːʎ-ˈiː {fwâlyî} and kraːm-ˈaː {krâmâ}, without differentiating them. In another entry he translates fwaːʎ-ˈiː {fwâlyî} as 'to blaze (intransitive)', so we include only brüːl-ˈaː {brûlâ} and kraːm-ˈaː {krâmâ} in the list.	Viret 2013: 379-380
-SavoyardFranco-Provençal_BURN (SOMETHING)_4	Franco-Provençal	fran1269	frp	BURN (SOMETHING)	krâmâ	kraːmˈaː	k r aː m ˈaː	kraːm-ˈaː	BURN (SOMETHING)_4	FALSE		Viret 2013: 379-380
-SavoyardFranco-Provençal_FINGERNAIL_1	Franco-Provençal	fran1269	frp	FINGERNAIL	onglya	ˈɔ̃ɡʎa	ˈɔ̃ ɡ ʎ a	ˈɔ̃gʎ-a	FINGERNAIL_1	FALSE		Viret 2013: 1503
-SavoyardFranco-Provençal_CLOUD_1	Franco-Provençal	fran1269	frp	CLOUD	nyôla	ɲˈola	ɲ ˈo l a	ɲˈol-a	CLOUD_1	FALSE		Viret 2013: 1485-1486
-SavoyardFranco-Provençal_COLD (OF WEATHER)_1	Franco-Provençal	fran1269	frp	COLD (OF WEATHER)	frai	fraj	f r a j	fray	COLD (OF WEATHER)_1	FALSE		Viret 2013: 1032-1033
-SavoyardFranco-Provençal_COME_1	Franco-Provençal	fran1269	frp	COME	mnyi	mɲi	m ɲ i	mɲ-i	COME_1	FALSE		Viret 2013: 2206-2208
-SavoyardFranco-Provençal_DIE_1	Franco-Provençal	fran1269	frp	DIE	mori	morˈi	m o r ˈi	mor-ˈi	DIE_1	FALSE		Viret 2013: 1440-1441
-SavoyardFranco-Provençal_DOG_1	Franco-Provençal	fran1269	frp	DOG	shin	θɛ̃	θ ɛ̃	θɛ̃	DOG_1	FALSE	Distinct from wuwˈu {wouwou} 'dog', which is used in child speech.	Viret 2013: 499-500
-SavoyardFranco-Provençal_DRINK_1	Franco-Provençal	fran1269	frp	DRINK	baire	bˈajre	b ˈa j r e	bˈay-re	DRINK_1	FALSE		Viret 2013: 318-319
-SavoyardFranco-Provençal_DRY_1	Franco-Provençal	fran1269	frp	DRY	sè	sɛ	s ɛ	sɛ	DRY_1	FALSE		Viret 2013: 1956
-SavoyardFranco-Provençal_EAR_1	Franco-Provençal	fran1269	frp	EAR	orlyo	ˈɔrʎo	ˈɔ r ʎ o	ˈɔrʎ-o	EAR_1	FALSE		Viret 2013: 1507-1508
-SavoyardFranco-Provençal_EARTH (SOIL)_1	Franco-Provençal	fran1269	frp	EARTH (SOIL)	têra	tˈɛra	t ˈɛ r a	tˈɛr-a	EARTH (SOIL)_1	FALSE		Viret 2013: 2085-2086
-SavoyardFranco-Provençal_EAT_-1	Franco-Provençal	fran1269	frp	EAT	bdjî	bʤiː	b ʤ iː	bǯ-iː	EAT_2	TRUE	Phonetic variants: bdy-iː {bdyî} ~ bǯy-iː {bdjyî} ~ mdy-iː {mdyî} ~ mǯy-iː {mdjyî} ~ mǯ-iː {mdjî}. Distinct from kas-ˈaː {kassâ} 'to eat', which belongs to informal speech. Annecy: mdy-iː {mdyî} 'to eat', pek-ˈaː {pekâ} 'to eat'; Saint-Pierre-de-Genebroz, Saint-Pierre-de-Soucy: pek-ˈaː {pekâ} 'to eat'.	Viret 2013: 1325-1328
-SavoyardFranco-Provençal_EGG_1	Franco-Provençal	fran1269	frp	EGG	wà	wa	w a	wa	EGG_1	FALSE	Distinct from kok-ˈɔ̃ {kokon} 'egg', used in child speech.	Viret 2013: 1496-1497
-SavoyardFranco-Provençal_EYE_1	Franco-Provençal	fran1269	frp	EYE	ju	ʒy	ʒ y	žü	EYE_1	FALSE		Viret 2013: 1494-1496
-SavoyardFranco-Provençal_EYE_1	Franco-Provençal	fran1269	frp	EYE	jû	ʒyː	ʒ yː	žüː	EYE_1	FALSE		Viret 2013: 1494-1496
-SavoyardFranco-Provençal_FAT (ORGANIC SUBSTANCE)_2	Franco-Provençal	fran1269	frp	FAT (ORGANIC SUBSTANCE)	gréssa	ɡrˈesa	ɡ r ˈe s a	grˈes-a	FAT (ORGANIC SUBSTANCE)_2	FALSE		Viret 2013: 1090-1091
-SavoyardFranco-Provençal_FEATHER_2	Franco-Provençal	fran1269	frp	FEATHER	plyonma	pʎˈɔ̃ma	p ʎ ˈɔ̃ m a	pʎˈɔ̃m-a	FEATHER_2	FALSE		Viret 2013: 1646
-SavoyardFranco-Provençal_FIRE_2	Franco-Provençal	fran1269	frp	FIRE	fwà	fwa	f w a	fwa	FIRE_2	FALSE		Viret 2013: 965-966
-SavoyardFranco-Provençal_FISH_1	Franco-Provençal	fran1269	frp	FISH	paisson	pˈajsɔ̃	p ˈa j s ɔ̃	pˈays-ɔ̃	FISH_1	FALSE		Viret 2013: 1676
-SavoyardFranco-Provençal_FISH_1	Franco-Provençal	fran1269	frp	FISH	pêsson	pˈɛsɔ̃	p ˈɛ s ɔ̃	pˈɛs-ɔ̃	FISH_1	FALSE		Viret 2013: 1676
-SavoyardFranco-Provençal_FLY (MOVE THROUGH AIR)_1	Franco-Provençal	fran1269	frp	FLY (MOVE THROUGH AIR)	volâ	volˈaː	v o l ˈaː	vol-ˈaː	FLY (MOVE THROUGH AIR)_1	FALSE		Viret 2013: 2251
-SavoyardFranco-Provençal_FOOT_1	Franco-Provençal	fran1269	frp	FOOT	pî	piː	p iː	piː	FOOT_1	FALSE		Viret 2013: 1610-1612
-SavoyardFranco-Provençal_FULL_1	Franco-Provençal	fran1269	frp	FULL	plyê	pʎɛː	p ʎ ɛː	pʎɛː	FULL_1	FALSE		Viret 2013: 1639-1640
-SavoyardFranco-Provençal_GIVE_3	Franco-Provençal	fran1269	frp	GIVE	balyî	baʎˈiː	b a ʎ ˈiː	baʎ-ˈiː	GIVE_3	FALSE	Saxel, Annecy: dɛn-ˈaː {dènâ} 'to give'.	Viret 2013: 763-765
-SavoyardFranco-Provençal_GOOD_1	Franco-Provençal	fran1269	frp	GOOD	bon	bɔ̃	b ɔ̃	bɔ̃	GOOD_1	FALSE		Viret 2013: 324-325
-SavoyardFranco-Provençal_GREEN_1	Franco-Provençal	fran1269	frp	GREEN	vê	vɛ	v ɛ	vɛ	GREEN_1	FALSE		Viret 2013: 2221
-SavoyardFranco-Provençal_HAIR_-1	Franco-Provençal	fran1269	frp	HAIR	cheveû	ʃevˈøː	ʃ e v ˈøː	ševˈöː	HAIR_1	TRUE	Borrowed from French {cheveu} 'hair'. Distinct from pay {pai} 'body hair' [Viret 2013: 1667-1668].	Viret 2013: 494-495
-SavoyardFranco-Provençal_HAND_1	Franco-Provençal	fran1269	frp	HAND	man	mã	m ã	mã	HAND_1	FALSE		Viret 2013: 1310
-SavoyardFranco-Provençal_HEAD_2	Franco-Provençal	fran1269	frp	HEAD	téta	tˈeta	t ˈe t a	tˈet-a	HEAD_2	FALSE	There are also a lot of pejorative words for 'head', which we do not include into the list [Viret 2013: 2088-2089].	Viret 2013: 2088-2089
-SavoyardFranco-Provençal_HEAR_1	Franco-Provençal	fran1269	frp	HEAR	awire	awˈire	a w ˈi r e	aw-ˈi-re	HEAR_1	FALSE	There are two terms for 'to hear': aw-ˈi-re {awire} and ɛ̃=tˈɛ̃d-re {intindre} ~ ɛ=tˈɛd-re {êtêdre}. Viret provides two terms without differentiation in this case. We include both in the list. Giettaz: {chantre} 'to hear'; Bourg-Saint-Maurice, Côte-d'Aime: {chintre} 'to hear'; Bessans {sintré} 'to hear'; Bonneval en Tarentaise: {sîntre} 'to hear'; Montagny vers Bozel: {sintre} 'to hear'.	Viret 2013: 863-864
-SavoyardFranco-Provençal_HEAR_-1	Franco-Provençal	fran1269	frp	HEAR	intindre	ɛ̃tˈɛ̃dre	ɛ̃ t ˈɛ̃ d r e	ɛ̃=tˈɛ̃d-re	HEAR_3	TRUE		Viret 2013: 863
-SavoyardFranco-Provençal_HEAR_-1	Franco-Provençal	fran1269	frp	HEAR	êtêdre	ɛtˈɛdre	ɛ t ˈɛ d r e	ɛ=tˈɛd-re	HEAR_3	TRUE		Viret 2013: 863
-SavoyardFranco-Provençal_HEART_1	Franco-Provençal	fran1269	frp	HEART	keû	køː	k øː	köː	HEART_1	FALSE		Viret 2013: 529-530
-SavoyardFranco-Provençal_HORN (ANATOMY)_1	Franco-Provençal	fran1269	frp	HORN (ANATOMY)	keûrna	kˈøːrna	k ˈøː r n a	kˈöːrn-a	HORN (ANATOMY)_1	FALSE		Viret 2013: 588-589
-SavoyardFranco-Provençal_I_1	Franco-Provençal	fran1269	frp	I	dè	dɛ	d ɛ	dɛ	I_1	FALSE		Viret 2013: 1208-1210
-SavoyardFranco-Provençal_I_2	Franco-Provençal	fran1269	frp	I	mai	maj	m a j	may	I_2	FALSE		Viret 2013: 1408-1409
-SavoyardFranco-Provençal_I_2	Franco-Provençal	fran1269	frp	I	mê	mɛ	m ɛ	mɛ	I_2	FALSE		Viret 2013: 1408-1409
-SavoyardFranco-Provençal_KILL_-1	Franco-Provençal	fran1269	frp	KILL	twâ	twaː	t w aː	twaː	KILL_9	TRUE		Viret 2013: 2171
-SavoyardFranco-Provençal_KNEE_1	Franco-Provençal	fran1269	frp	KNEE	zhèneu	ðɛnˈœ	ð ɛ n ˈœ	ðɛnˈœ	KNEE_1	FALSE		Viret 2013: 1066
-SavoyardFranco-Provençal_KNEE_1	Franco-Provençal	fran1269	frp	KNEE	zhènò	ðɛnˈɔ	ð ɛ n ˈɔ	ðɛnˈɔ	KNEE_1	FALSE		Viret 2013: 1066
-SavoyardFranco-Provençal_KNEE_1	Franco-Provençal	fran1269	frp	KNEE	zhènoy	ðɛnˈoj	ð ɛ n ˈo j	ðɛnˈoy	KNEE_1	FALSE		Viret 2013: 1066
-SavoyardFranco-Provençal_KNOW (SOMETHING)_2	Franco-Provençal	fran1269	frp	KNOW (SOMETHING)	savai	savˈaj	s a v ˈa j	sav-ˈay	KNOW (SOMETHING)_2	FALSE	Distinct from ko=ɲˈayt-re {konyaitre} 'to know (a person), to be acquainted' [Viret 2013: 564-565].	Viret 2013: 1946-1947
-SavoyardFranco-Provençal_LEAF_1	Franco-Provençal	fran1269	frp	LEAF	fôlye	fˈoʎe	f ˈo ʎ e	fˈoʎ-e	LEAF_1	FALSE		Viret 2013: 967
-SavoyardFranco-Provençal_LIVER_2	Franco-Provençal	fran1269	frp	LIVER	fèzho	fˈɛðo	f ˈɛ ð o	fˈɛð-o	LIVER_2	FALSE		Viret 2013: 992
-SavoyardFranco-Provençal_LONG_1	Franco-Provençal	fran1269	frp	LONG	lon	lɔ̃	l ɔ̃	lɔ̃	LONG_1	FALSE		Viret 2013: 1287-1288
-SavoyardFranco-Provençal_LOUSE_1	Franco-Provençal	fran1269	frp	LOUSE	pyu	pjy	p j y	pyü	LOUSE_1	FALSE		Viret 2013: 1698
-SavoyardFranco-Provençal_LOUSE_1	Franco-Provençal	fran1269	frp	LOUSE	pyû	pjyː	p j yː	pyüː	LOUSE_1	FALSE		Viret 2013: 1698
-SavoyardFranco-Provençal_MALE PERSON_2	Franco-Provençal	fran1269	frp	MALE PERSON	omo	ˈomo	ˈo m o	ˈom-o	MALE PERSON_2	FALSE	Polysemy: 'man / husband / person'.	Viret 2013: 1145-1146
-SavoyardFranco-Provençal_MANY_12	Franco-Provençal	fran1269	frp	MANY	byê	bjɛ	b j ɛ	byɛ	MANY_12	FALSE	Saxel: brˈaːv-o {brâvo}, gɛʎˈaː {guèlyâ} 'many'; Samoëns: brav-amã {bravaman} 'many'; Billième, Attignat-Oncin, Bourget-en-Huile: braːv-amˈɛ {brâvamê} 'many'; Beaufort, Boëge: gaʎˈaː {galyâ} 'many'; Saint-Jean-de-Belleville: gɛʎˈaːr {galyâr} 'many'; Peisey-Nancroix: gɛʎˈaːrt {galyârt} 'many'; Chamonix: gɛʎˈaː {guèlyâ}, wˈɛro {wêro} 'many'; Montagny vers Bozel: gɛyˈaːr {guèyâr} ~ güʎˈaːr {gulyâr} 'many'; Chambéry, Moûtiers: gˈero {guéro} 'many'; Manigod: gˈero {guéro} ~ wˈɛro {wêro} 'many'; Saint-Jean-Aulps, Taninges: wˈɛro {wêro} 'many'.	Viret 2013: 278-279
-SavoyardFranco-Provençal_FLESH OR MEAT_-1	Franco-Provençal	fran1269	frp	FLESH OR MEAT	vyanda	vˈjãda	v ˈj ã d a	vˈyãd-a	FLESH OR MEAT_4	TRUE		Viret 2013: 2226-2227
-SavoyardFranco-Provençal_MOON_1	Franco-Provençal	fran1269	frp	MOON	lnà	lna	l n a	lna	MOON_1	FALSE	Distinct from may {mai} 'month' [Viret 2013: 1410].	Viret 2013: 1303-1304
-SavoyardFranco-Provençal_MOUNTAIN_1	Franco-Provençal	fran1269	frp	MOUNTAIN	montanye	mɔ̃tˈaɲe	m ɔ̃ t ˈa ɲ e	mɔ̃t-ˈaɲ-e	MOUNTAIN_1	FALSE		Viret 2013: 1418-1419
-SavoyardFranco-Provençal_MOUTH_3	Franco-Provençal	fran1269	frp	MOUTH	grwin	ɡrwɛ̃	ɡ r w ɛ̃	grwɛ̃	MOUTH_3	FALSE	Goes back to Latin {gula} 'throat'. In some villages reflexes of Latin {bucca} are used in the meaning 'mouth' as well (usually along with the reflexes of {gula}) [Viret 2013: 336-337].	Viret 2013: 336-337
-SavoyardFranco-Provençal_NAME_1	Franco-Provençal	fran1269	frp	NAME	non	nɔ̃	n ɔ̃	nɔ̃	NAME_1	FALSE		Viret 2013: 1475
-SavoyardFranco-Provençal_NECK_1	Franco-Provençal	fran1269	frp	NECK	kou	ku	k u	ku	NECK_1	FALSE		Viret 2013: 597-598
-SavoyardFranco-Provençal_NECK_1	Franco-Provençal	fran1269	frp	NECK	koû	kuː	k uː	kuː	NECK_1	FALSE		Viret 2013: 597-598
-SavoyardFranco-Provençal_NEW_1	Franco-Provençal	fran1269	frp	NEW	nové	novˈe	n o v ˈe	novˈe	NEW_1	FALSE		Viret 2013: 1483
-SavoyardFranco-Provençal_NIGHT_1	Franco-Provençal	fran1269	frp	NIGHT	né	ne	n e	ne	NIGHT_1	FALSE		Viret 2013: 1486-1487
-SavoyardFranco-Provençal_NOSE_1	Franco-Provençal	fran1269	frp	NOSE	nâ	naː	n aː	naː	NOSE_1	FALSE		Viret 2013: 1466-1467
-SavoyardFranco-Provençal_NOT_1	Franco-Provençal	fran1269	frp	NOT	ne...pâ	nepaː	n e p aː	ne-paː	NOT_1	FALSE	The first form is used before a consonant; the second one occurs before a vowel.	Viret 2013: 1555-1556
-SavoyardFranco-Provençal_NOT_1	Franco-Provençal	fran1269	frp	NOT	ne...pâz	nepaːz	n e p aː z	ne-paːz	NOT_1	FALSE	The first form is used before a consonant; the second one occurs before a vowel.	Viret 2013: 1555-1556
-SavoyardFranco-Provençal_NOT_5	Franco-Provençal	fran1269	frp	NOT	ne...pâ	nepaː	n e p aː	ne=paː	NOT_5	FALSE		
-SavoyardFranco-Provençal_NOT_5	Franco-Provençal	fran1269	frp	NOT	ne...pâz	nepaːz	n e p aː z	ne=paːz	NOT_5	FALSE		
-SavoyardFranco-Provençal_ONE_1	Franco-Provençal	fran1269	frp	ONE	yon	jɔ̃	j ɔ̃	yɔ̃	ONE_1	FALSE	The first form is used before a consonant or at the end of a word group; the second one occurs before a vowel.	Viret 2013: 2176-2177
-SavoyardFranco-Provençal_ONE_1	Franco-Provençal	fran1269	frp	ONE	yon-n	jɔ̃n	j ɔ̃ n	yɔ̃n	ONE_1	FALSE	The first form is used before a consonant or at the end of a word group; the second one occurs before a vowel.	Viret 2013: 2176-2177
-SavoyardFranco-Provençal_PERSON_1	Franco-Provençal	fran1269	frp	PERSON	omo	ˈomo	ˈo m o	ˈom-o	PERSON_1	FALSE	Polysemy: 'man / husband / person'.	Viret 2013: 1145-1146
-SavoyardFranco-Provençal_RAIN (RAINING)_1	Franco-Provençal	fran1269	frp	RAIN (RAINING)	plyôzhe	pʎˈoðe	p ʎ ˈo ð e	pʎˈoð-e	RAIN (RAINING)_1	FALSE		Viret 2013: 1645-1646
-SavoyardFranco-Provençal_RED_1	Franco-Provençal	fran1269	frp	RED	rozho	rˈoðo	r ˈo ð o	rˈoð-o	RED_1	FALSE		Viret 2013: 1893-1894
-SavoyardFranco-Provençal_ROAD_5	Franco-Provençal	fran1269	frp	ROAD	rota	rˈota	r ˈo t a	rˈot-a	ROAD_5	FALSE	In Côte-d'Aime, besides rˈot-a {rota} ~ {rôta}, the term vya {vyа} 'road' is also used [Viret 2013: 1899].	Viret 2013: 1899-1900
-SavoyardFranco-Provençal_ROOT_1	Franco-Provençal	fran1269	frp	ROOT	rassina	rasˈina	r a s ˈi n a	rasˈin-a	ROOT_1	FALSE		Viret 2013: 1771
-SavoyardFranco-Provençal_ROUND_1	Franco-Provençal	fran1269	frp	ROUND	ryon	rjɔ̃	r j ɔ̃	ryɔ̃	ROUND_1	FALSE		Viret 2013: 1887
-SavoyardFranco-Provençal_SAND_2	Franco-Provençal	fran1269	frp	SAND	sablya	sˈabʎa	s ˈa b ʎ a	sˈabʎ-a	SAND_2	FALSE	In Esserts-Blay and Bonneval en Tarentaise, besides sˈabl-a {sabla} 'sand', the term arˈɛn-a {arêna} ~ arˈɛ̃n-a {arin-na} ~ aːrˈɛ̃ːn-a {ârîn-na} is also used. Viret defines the latter as 'sable pris dans les terrains' ('sand taken from the earth') [Viret 2013: 1909].	Viret 2013: 1909
-SavoyardFranco-Provençal_SAY_1	Franco-Provençal	fran1269	frp	SAY	dire	dˈire	d ˈi r e	dˈi-re	SAY_1	FALSE		Viret 2013: 747-750
-SavoyardFranco-Provençal_SEE_1	Franco-Provençal	fran1269	frp	SEE	vi	vi	v i	vi	SEE_1	FALSE		Viret 2013: 2247-2249
-SavoyardFranco-Provençal_SEED_3	Franco-Provençal	fran1269	frp	SEED	gran-na	ɡrˈãna	ɡ r ˈã n a	grˈãn-a	SEED_3	FALSE		Viret 2013: 1090
-SavoyardFranco-Provençal_SIT_1	Franco-Provençal	fran1269	frp	SIT	étre achtâ	ˈetreaʃtˈaː	ˈe t r e a ʃ t ˈaː	ˈet=re=a=št-ˈaː	SIT_1	FALSE	Taking into account that it literally means 'to be sat' (cf. {achtâ} 'to sit down (transitive)' [Viret 2013: 190-191]), this seems to be a good candidate for the list. Distinct from s=a=št-ˈaː {s'achtâ} 'to sit down (intransitive)' [Viret 2013: 191].	Viret's dictionary does not provide a separate entry for 'être assis' 'to sit', but the construction {étre achtâ}, which appears in the entry for 'siéger' 'to sit (for example, in the senate)', is glossed as 'être assis' [Viret 2013: 1987]
-SavoyardFranco-Provençal_SKIN (HUMAN)_2	Franco-Provençal	fran1269	frp	SKIN (HUMAN)	pé	pe	p e	pe	SKIN (HUMAN)_2	FALSE		Viret 2013: 1571
-SavoyardFranco-Provençal_SLEEP_1	Franco-Provençal	fran1269	frp	SLEEP	dromi	dromˈi	d r o m ˈi	drom-ˈi	SLEEP_1	FALSE		Viret 2013: 765-767
-SavoyardFranco-Provençal_SMALL_3	Franco-Provençal	fran1269	frp	SMALL	ptyou	ptju	p t j u	ptyu	SMALL_3	FALSE		Viret 2013: 1597-1599
-SavoyardFranco-Provençal_SMOKE (EXHAUST)_1	Franco-Provençal	fran1269	frp	SMOKE (EXHAUST)	fmîre	fmˈiːre	f m ˈiː r e	fm-ˈiːre	SMOKE (EXHAUST)_1	FALSE	Côte-d'Aime: tür-ˈiʎe {turilye} 'smoke'.	Viret 2013: 1040
-SavoyardFranco-Provençal_SMOKE (EXHAUST)_1	Franco-Provençal	fran1269	frp	SMOKE (EXHAUST)	fomîre	fomˈiːre	f o m ˈiː r e	fom-ˈiːre	SMOKE (EXHAUST)_1	FALSE	Côte-d'Aime: tür-ˈiʎe {turilye} 'smoke'.	Viret 2013: 1040
-SavoyardFranco-Provençal_STAND_2	Franco-Provençal	fran1269	frp	STAND	étre dêpî	ˈetredɛpˈiː	ˈe t r e d ɛ p ˈiː	ˈet=re=dɛ=pˈiː	STAND_2	FALSE	Consequently, we suppose that 'to stand' is ˈet=re=dɛ=pˈiː {étre dêpî} ~ ˈet=re=dɛ̃=pˈiː {étre dinpî} in Albanais, cf. {а dromi dêpî} 'to sleep standing' [Viret 2013: 1177], {k'tin pâ dêpî} 'absurd, improbable' (literally 'that which does not keeps on its feet') [Viret 2013: 73, 1199] and {étre d'pwinta} 'to stand' (Les Villards-sur-Thônes) [Viret 2013: 670]. Distinct from sɛ=lv-ˈaː {sè lvâ} ~ s=lɛv-ˈaː {s'lèvâ} ~ sɛ=pt-ˈaː-dɛ-pˈiː {sè ptâ dêpî} 'to stand up' [Viret 2013: 1270].	Viret's dictionary does not provide a separate entry for 'être debout' 'to stand', but there is an entry for 'debout', and in the Albanais dialect this adverb sounds as dɛ=pˈiː {dêpî} or dɛ̃=pˈiː {dinpî} [Viret 2013: 670]
-SavoyardFranco-Provençal_STAND_2	Franco-Provençal	fran1269	frp	STAND	étre dinpî	ˈetredɛ̃pˈiː	ˈe t r e d ɛ̃ p ˈiː	ˈet=re=dɛ̃=pˈiː	STAND_2	FALSE	Consequently, we suppose that 'to stand' is ˈet=re=dɛ=pˈiː {étre dêpî} ~ ˈet=re=dɛ̃=pˈiː {étre dinpî} in Albanais, cf. {а dromi dêpî} 'to sleep standing' [Viret 2013: 1177], {k'tin pâ dêpî} 'absurd, improbable' (literally 'that which does not keeps on its feet') [Viret 2013: 73, 1199] and {étre d'pwinta} 'to stand' (Les Villards-sur-Thônes) [Viret 2013: 670]. Distinct from sɛ=lv-ˈaː {sè lvâ} ~ s=lɛv-ˈaː {s'lèvâ} ~ sɛ=pt-ˈaː-dɛ-pˈiː {sè ptâ dêpî} 'to stand up' [Viret 2013: 1270].	Viret's dictionary does not provide a separate entry for 'être debout' 'to stand', but there is an entry for 'debout', and in the Albanais dialect this adverb sounds as dɛ=pˈiː {dêpî} or dɛ̃=pˈiː {dinpî} [Viret 2013: 670]
-SavoyardFranco-Provençal_STAR_1	Franco-Provençal	fran1269	frp	STAR	étaila	etˈajla	e t ˈa j l a	etˈayl-a	STAR_1	FALSE		Viret 2013: 905
-SavoyardFranco-Provençal_STONE_-1	Franco-Provençal	fran1269	frp	STONE	pyêro	pˈjɛro	p ˈj ɛ r o	pˈyɛr-o	STONE_6	TRUE		Viret 2013: 1614-1615
-SavoyardFranco-Provençal_SUN_1	Franco-Provençal	fran1269	frp	SUN	sèlwà	sɛlˈwa	s ɛ l ˈw a	sɛlˈwa	SUN_1	FALSE		Viret 2013: 1999
-SavoyardFranco-Provençal_SWIM_1	Franco-Provençal	fran1269	frp	SWIM	nazhî	naðˈiː	n a ð ˈiː	nað-ˈiː	SWIM_1	FALSE	Distinct from fʎot-ˈaː {flyotâ} 'to float' (the collocation {tnyi su l'éga} 'to hold on water' can also be used in this meaning) [Viret 2013: 991].	Viret 2013: 1454
-SavoyardFranco-Provençal_TAIL_1	Franco-Provençal	fran1269	frp	TAIL	kava	kˈava	k ˈa v a	kˈav-a	TAIL_1	FALSE		Viret 2013: 1764-1765
-SavoyardFranco-Provençal_THAT_2	Franco-Provençal	fran1269	frp	THAT	chô…lé	ʃole	ʃ o l e	šo-le	THAT_2	FALSE	Distal demonstrative.	Viret 2013: 425
-SavoyardFranco-Provençal_THAT_7	Franco-Provençal	fran1269	frp	THAT	chô…tyè	ʃotjɛ	ʃ o t j ɛ	šo-tyɛ	THAT_7	FALSE	Medial demonstrative.	Viret 2013: 425
-SavoyardFranco-Provençal_THIS_2	Franco-Provençal	fran1269	frp	THIS	sti…tyè	stitjɛ	s t i t j ɛ	sti-tyɛ	THIS_2	FALSE		Viret 2013: 423-424
-SavoyardFranco-Provençal_THOU_1	Franco-Provençal	fran1269	frp	THOU	tè	tɛ	t ɛ	tɛ	THOU_1	FALSE	Paradigm: tɛ {tè} [nom.] / tay {tai} [obj.].	Viret 2013: 2170, 2101
-SavoyardFranco-Provençal_TONGUE_1	Franco-Provençal	fran1269	frp	TONGUE	lêga	lˈɛɡa	l ˈɛ ɡ a	lˈɛg-a	TONGUE_1	FALSE	Polysemy: 'tongue / language'.	Viret 2013: 1250
-SavoyardFranco-Provençal_TOOTH_1	Franco-Provençal	fran1269	frp	TOOTH	dê'	dɛː	d ɛː	dɛː	TOOTH_1	FALSE		Viret 2013: 704-705
-SavoyardFranco-Provençal_TOOTH_1	Franco-Provençal	fran1269	frp	TOOTH	din	dɛ̃	d ɛ̃	dɛ̃	TOOTH_1	FALSE		Viret 2013: 704-705
-SavoyardFranco-Provençal_TREE_1	Franco-Provençal	fran1269	frp	TREE	âbro	ˈaːbro	ˈaː b r o	ˈaːbr-o	TREE_1	FALSE		Viret 2013: 168
-SavoyardFranco-Provençal_TREE_1	Franco-Provençal	fran1269	frp	TREE	ârbro	ˈaːrbro	ˈaː r b r o	ˈaːrbr-o	TREE_1	FALSE		Viret 2013: 168
-SavoyardFranco-Provençal_TWO_1	Franco-Provençal	fran1269	frp	TWO	dou	du	d u	du	TWO_1	FALSE		Viret 2013: 733
-SavoyardFranco-Provençal_TWO_1	Franco-Provençal	fran1269	frp	TWO	douz	duz	d u z	duz	TWO_1	FALSE		Viret 2013: 733
-SavoyardFranco-Provençal_WALK_4	Franco-Provençal	fran1269	frp	WALK	vâ	vaː	v aː	vaː	WALK_4	FALSE	This verb is suppletive, like in other Romance languages, see the paradigm: {vé} 'I go' / {vâ} 'you go' / {vâ} 'he goes' / {alin} 'we go' / {alâ} 'you go' / {von} 'they go' / {alivou} 'I was going' (imperf.) / {vrai} 'I will go' / {vri} 'I would go' (cond.) / {alâ} 'to go'.	Viret 2013: 122-125
-SavoyardFranco-Provençal_WALK_2	Franco-Provençal	fran1269	frp	WALK	alâ	alˈaː	a l ˈaː	al-ˈaː	WALK_2	FALSE		The infinitive form
-SavoyardFranco-Provençal_WARM (OF WEATHER)_1	Franco-Provençal	fran1269	frp	WARM (OF WEATHER)	shô	θo	θ o	θo	WARM (OF WEATHER)_1	FALSE		Viret 2013: 476
-SavoyardFranco-Provençal_WATER_1	Franco-Provençal	fran1269	frp	WATER	éga	ˈeɡa	ˈe ɡ a	ˈeg-a	WATER_1	FALSE		Viret 2013: 785-786
-SavoyardFranco-Provençal_WE_1	Franco-Provençal	fran1269	frp	WE	no	no	n o	no	WE_1	FALSE	The second form is used before a vowel.	Viret 2013: 1482-1483
-SavoyardFranco-Provençal_WE_1	Franco-Provençal	fran1269	frp	WE	noz	noz	n o z	noz	WE_1	FALSE	The second form is used before a vowel.	Viret 2013: 1482-1483
-SavoyardFranco-Provençal_WHAT_1	Franco-Provençal	fran1269	frp	WHAT	kai	kaj	k a j	kay	WHAT_1	FALSE		Viret 2013: 1769-1770
-SavoyardFranco-Provençal_WHITE_-1	Franco-Provençal	fran1269	frp	WHITE	blyan	bʎã	b ʎ ã	bʎã	WHITE_1	TRUE		Viret 2013: 309
-SavoyardFranco-Provençal_WHO_1	Franco-Provençal	fran1269	frp	WHO	kwi	kwi	k w i	kwi	WHO_1	FALSE		Viret 2013: 1766-1767
-SavoyardFranco-Provençal_WOMAN_2	Franco-Provençal	fran1269	frp	WOMAN	fèna	fˈɛna	f ˈɛ n a	fˈɛna	WOMAN_2	FALSE		Viret 2013: 952-955
-SavoyardFranco-Provençal_YELLOW_2	Franco-Provençal	fran1269	frp	YELLOW	zhôno	ðˈono	ð ˈo n o	ðˈon-o	YELLOW_2	FALSE		Viret 2013: 1207
-SavoyardFranco-Provençal_FAR_1	Franco-Provençal	fran1269	frp	FAR	lwin	lwɛ̃	l w ɛ̃	lwɛ̃	FAR_1	FALSE		Viret 2013: 1286-1287
-SavoyardFranco-Provençal_FAR_1	Franco-Provençal	fran1269	frp	FAR	lwê	lwɛ	l w ɛ	lwɛ	FAR_1	FALSE		Viret 2013: 1286-1287
-SavoyardFranco-Provençal_HEAVY_2	Franco-Provençal	fran1269	frp	HEAVY	pèzan	pɛzã	p ɛ z ã	pɛz-ã	HEAVY_2	FALSE		Viret 2013: 1294
-SavoyardFranco-Provençal_NEAR_9	Franco-Provençal	fran1269	frp	NEAR	pré	pre	p r e	pre	NEAR_9	FALSE		Viret 2013: 1722
-SavoyardFranco-Provençal_SALT_1	Franco-Provençal	fran1269	frp	SALT	sâ	saː	s aː	saː	SALT_1	FALSE		Viret 2013: 1963
-SavoyardFranco-Provençal_SHORT_2	Franco-Provençal	fran1269	frp	SHORT	ko	ko	k o	ko	SHORT_2	FALSE		Viret 2013: 615
-SavoyardFranco-Provençal_SNAKE_2	Franco-Provençal	fran1269	frp	SNAKE	sarpê	sarpˈɛ	s a r p ˈɛ	sarp-ˈɛ	SNAKE_2	FALSE		Viret 2013: 1975
-SavoyardFranco-Provençal_SNAKE_2	Franco-Provençal	fran1269	frp	SNAKE	sarpin	sarpˈɛ̃	s a r p ˈɛ̃	sarp-ˈɛ̃	SNAKE_2	FALSE		Viret 2013: 1975
-SavoyardFranco-Provençal_THIN_4	Franco-Provençal	fran1269	frp	THIN	fin	fɛ̃	f ɛ̃	fɛ̃	THIN_4	FALSE	Viret provides two terms without any differentiation in this case: fɛ̃ {fin} and prɛ̃ {prin}. We include both in the list.	Viret 2013: 978
-SavoyardFranco-Provençal_THIN_7	Franco-Provençal	fran1269	frp	THIN	prin	prɛ̃	p r ɛ̃	prɛ̃	THIN_7	FALSE		Viret 2013: 978
-SavoyardFranco-Provençal_WIND_1	Franco-Provençal	fran1269	frp	WIND	vé	ve	v e	ve	WIND_1	FALSE	Viret mentions two terms for 'wind' in the Albanais dialect: ve {vé} ~ vɛː {ven} ~ {vê'} and ˈur-a {oura}, but the second one was taken from the 1903 year book Monographie du patois savoyard by Félix Fenouillet, so we include only the first one into the list. However continuants of Latin {aura} occur in many other dialects, sometimes along with continuants of {ventus} [Viret 2013: 2208].	Viret 2013: 2208-2210
-SavoyardFranco-Provençal_WIND_1	Franco-Provençal	fran1269	frp	WIND	ven	vɛː	v ɛː	vɛː	WIND_1	FALSE	Viret mentions two terms for 'wind' in the Albanais dialect: ve {vé} ~ vɛː {ven} ~ {vê'} and ˈur-a {oura}, but the second one was taken from the 1903 year book Monographie du patois savoyard by Félix Fenouillet, so we include only the first one into the list. However continuants of Latin {aura} occur in many other dialects, sometimes along with continuants of {ventus} [Viret 2013: 2208].	Viret 2013: 2208-2210
-SavoyardFranco-Provençal_WORM_1	Franco-Provençal	fran1269	frp	WORM	vé	ve	v e	ve	WORM_1	FALSE		Viret 2013: 2212-2213
-SavoyardFranco-Provençal_YEAR_1	Franco-Provençal	fran1269	frp	YEAR	an	ã	ã	ã	YEAR_1	FALSE		Viret 2013: 145-146
+SavoyardFranco-Provençal_ALL_2	Franco-Provençal	savo1253	frp	ALL	to	to	t o	to	ALL_2	FALSE	The form tot {tot} is used before a vowel.	Viret 2013: 2127-2129
+SavoyardFranco-Provençal_ALL_2	Franco-Provençal	savo1253	frp	ALL	tot	tot	t o t	tot	ALL_2	FALSE	The form tot {tot} is used before a vowel.	Viret 2013: 2127-2129
+SavoyardFranco-Provençal_ASH_1	Franco-Provençal	savo1253	frp	ASH	findra	fˈɛ̃dra	f ˈɛ̃ d r a	fˈɛ̃dr-a	ASH_1	FALSE		Viret 2013: 429-430
+SavoyardFranco-Provençal_ASH_1	Franco-Provençal	savo1253	frp	ASH	fêdra	fˈɛdra	f ˈɛ d r a	fˈɛdr-a	ASH_1	FALSE		Viret 2013: 429-430
+SavoyardFranco-Provençal_BARK_3	Franco-Provençal	savo1253	frp	BARK	ékeûrsa	ekˈøːrsa	e k ˈøː r s a	ekˈöːrs-a	BARK_3	FALSE	Bas-Faucigny: {égueurfa} 'bark'; Semine: {égorsa} 'bark'; Samoëns: {égourfa} 'bark'; Quintal: {égrufa} 'bark'. These forms may be of Arabic origin or at least influenced by it (see the comment on Manises Catalan). Lanslebourg: {rufi} 'bark'; Montagny vers Bozel: {pèla'ra} 'bark'; Cordon: {peleura} 'bark'.	Viret 2013: 803
+SavoyardFranco-Provençal_BELLY_1	Franco-Provençal	savo1253	frp	BELLY	vêtro	vˈɛtro	v ˈɛ t r o	vˈɛtr-o	BELLY_1	FALSE	Viret also mentions the term bˈod-a {bôda} 'belly' without differentiating them, but bˈod-a {bôda} also occurs in another entry as a translation of French {panse} 'paunch', so we do not include it in the list. Distinct from pˈãf-a {panfa} 'belly', which is pejorative. 	Viret 2013: 2210-2211
+SavoyardFranco-Provençal_BIG_2	Franco-Provençal	savo1253	frp	BIG	gran	ɡrã	ɡ r ã	grã	BIG_2	FALSE	Viret mentions two words for 'big': grã {gran} in accordance with French {grand} [Viret 2013: 1091-1092] and gru {grou} in accordance with French {gros} [Viret 2013: 1109-1110]. Based on these data, we include only the first term in the list; see notes on the list for Standard French.	Viret 2013: 1091-1092
+SavoyardFranco-Provençal_BIRD_1	Franco-Provençal	savo1253	frp	BIRD	aijô	ajʒˈo	a j ʒ ˈo	ayžˈo	BIRD_1	FALSE		Viret 2013: 1499
+SavoyardFranco-Provençal_BITE_1	Franco-Provençal	savo1253	frp	BITE	meûrdre	mˈøːrdre	m ˈøː r d r e	mˈöːrd-re	BITE_1	FALSE	Côte-d'Aime: ĩ=bok-ˈaː {ihnbôkâ} 'to bite'.	Viret 2013: 1427
+SavoyardFranco-Provençal_BLACK_2	Franco-Provençal	savo1253	frp	BLACK	nai	naj	n a j	nay	BLACK_2	FALSE		Viret 2013: 1472-1473
+SavoyardFranco-Provençal_BLOOD_1	Franco-Provençal	savo1253	frp	BLOOD	san	sã	s ã	sã	BLOOD_1	FALSE		Viret 2013: 1934
+SavoyardFranco-Provençal_BONE_1	Franco-Provençal	savo1253	frp	BONE	o	ɔ	ɔ	ɔ	BONE_1	FALSE		Viret 2013: 1512
+SavoyardFranco-Provençal_BREAST_-1	Franco-Provençal	savo1253	frp	BREAST	èstoma	ɛstˈɔma	ɛ s t ˈɔ m a	ɛstˈɔma	BREAST_3	TRUE	Distinct from pˈɛtr-o {pètro} 'gizzard'.	Viret 2013: 1676-1677
+SavoyardFranco-Provençal_BURN (SOMETHING)_-1	Franco-Provençal	savo1253	frp	BURN (SOMETHING)	brûlâ	bryːlˈaː	b r yː l ˈaː	brüːl-ˈaː	BURN (SOMETHING)_1	TRUE	Along with this term, Viret also mentions fwaːʎ-ˈiː {fwâlyî} and kraːm-ˈaː {krâmâ}, without differentiating them. In another entry he translates fwaːʎ-ˈiː {fwâlyî} as 'to blaze (intransitive)', so we include only brüːl-ˈaː {brûlâ} and kraːm-ˈaː {krâmâ} in the list.	Viret 2013: 379-380
+SavoyardFranco-Provençal_BURN (SOMETHING)_4	Franco-Provençal	savo1253	frp	BURN (SOMETHING)	krâmâ	kraːmˈaː	k r aː m ˈaː	kraːm-ˈaː	BURN (SOMETHING)_4	FALSE		Viret 2013: 379-380
+SavoyardFranco-Provençal_FINGERNAIL_1	Franco-Provençal	savo1253	frp	FINGERNAIL	onglya	ˈɔ̃ɡʎa	ˈɔ̃ ɡ ʎ a	ˈɔ̃gʎ-a	FINGERNAIL_1	FALSE		Viret 2013: 1503
+SavoyardFranco-Provençal_CLOUD_1	Franco-Provençal	savo1253	frp	CLOUD	nyôla	ɲˈola	ɲ ˈo l a	ɲˈol-a	CLOUD_1	FALSE		Viret 2013: 1485-1486
+SavoyardFranco-Provençal_COLD (OF WEATHER)_1	Franco-Provençal	savo1253	frp	COLD (OF WEATHER)	frai	fraj	f r a j	fray	COLD (OF WEATHER)_1	FALSE		Viret 2013: 1032-1033
+SavoyardFranco-Provençal_COME_1	Franco-Provençal	savo1253	frp	COME	mnyi	mɲi	m ɲ i	mɲ-i	COME_1	FALSE		Viret 2013: 2206-2208
+SavoyardFranco-Provençal_DIE_1	Franco-Provençal	savo1253	frp	DIE	mori	morˈi	m o r ˈi	mor-ˈi	DIE_1	FALSE		Viret 2013: 1440-1441
+SavoyardFranco-Provençal_DOG_1	Franco-Provençal	savo1253	frp	DOG	shin	θɛ̃	θ ɛ̃	θɛ̃	DOG_1	FALSE	Distinct from wuwˈu {wouwou} 'dog', which is used in child speech.	Viret 2013: 499-500
+SavoyardFranco-Provençal_DRINK_1	Franco-Provençal	savo1253	frp	DRINK	baire	bˈajre	b ˈa j r e	bˈay-re	DRINK_1	FALSE		Viret 2013: 318-319
+SavoyardFranco-Provençal_DRY_1	Franco-Provençal	savo1253	frp	DRY	sè	sɛ	s ɛ	sɛ	DRY_1	FALSE		Viret 2013: 1956
+SavoyardFranco-Provençal_EAR_1	Franco-Provençal	savo1253	frp	EAR	orlyo	ˈɔrʎo	ˈɔ r ʎ o	ˈɔrʎ-o	EAR_1	FALSE		Viret 2013: 1507-1508
+SavoyardFranco-Provençal_EARTH (SOIL)_1	Franco-Provençal	savo1253	frp	EARTH (SOIL)	têra	tˈɛra	t ˈɛ r a	tˈɛr-a	EARTH (SOIL)_1	FALSE		Viret 2013: 2085-2086
+SavoyardFranco-Provençal_EAT_-1	Franco-Provençal	savo1253	frp	EAT	bdjî	bʤiː	b ʤ iː	bǯ-iː	EAT_2	TRUE	Phonetic variants: bdy-iː {bdyî} ~ bǯy-iː {bdjyî} ~ mdy-iː {mdyî} ~ mǯy-iː {mdjyî} ~ mǯ-iː {mdjî}. Distinct from kas-ˈaː {kassâ} 'to eat', which belongs to informal speech. Annecy: mdy-iː {mdyî} 'to eat', pek-ˈaː {pekâ} 'to eat'; Saint-Pierre-de-Genebroz, Saint-Pierre-de-Soucy: pek-ˈaː {pekâ} 'to eat'.	Viret 2013: 1325-1328
+SavoyardFranco-Provençal_EGG_1	Franco-Provençal	savo1253	frp	EGG	wà	wa	w a	wa	EGG_1	FALSE	Distinct from kok-ˈɔ̃ {kokon} 'egg', used in child speech.	Viret 2013: 1496-1497
+SavoyardFranco-Provençal_EYE_1	Franco-Provençal	savo1253	frp	EYE	ju	ʒy	ʒ y	žü	EYE_1	FALSE		Viret 2013: 1494-1496
+SavoyardFranco-Provençal_EYE_1	Franco-Provençal	savo1253	frp	EYE	jû	ʒyː	ʒ yː	žüː	EYE_1	FALSE		Viret 2013: 1494-1496
+SavoyardFranco-Provençal_FAT (ORGANIC SUBSTANCE)_2	Franco-Provençal	savo1253	frp	FAT (ORGANIC SUBSTANCE)	gréssa	ɡrˈesa	ɡ r ˈe s a	grˈes-a	FAT (ORGANIC SUBSTANCE)_2	FALSE		Viret 2013: 1090-1091
+SavoyardFranco-Provençal_FEATHER_2	Franco-Provençal	savo1253	frp	FEATHER	plyonma	pʎˈɔ̃ma	p ʎ ˈɔ̃ m a	pʎˈɔ̃m-a	FEATHER_2	FALSE		Viret 2013: 1646
+SavoyardFranco-Provençal_FIRE_2	Franco-Provençal	savo1253	frp	FIRE	fwà	fwa	f w a	fwa	FIRE_2	FALSE		Viret 2013: 965-966
+SavoyardFranco-Provençal_FISH_1	Franco-Provençal	savo1253	frp	FISH	paisson	pˈajsɔ̃	p ˈa j s ɔ̃	pˈays-ɔ̃	FISH_1	FALSE		Viret 2013: 1676
+SavoyardFranco-Provençal_FISH_1	Franco-Provençal	savo1253	frp	FISH	pêsson	pˈɛsɔ̃	p ˈɛ s ɔ̃	pˈɛs-ɔ̃	FISH_1	FALSE		Viret 2013: 1676
+SavoyardFranco-Provençal_FLY (MOVE THROUGH AIR)_1	Franco-Provençal	savo1253	frp	FLY (MOVE THROUGH AIR)	volâ	volˈaː	v o l ˈaː	vol-ˈaː	FLY (MOVE THROUGH AIR)_1	FALSE		Viret 2013: 2251
+SavoyardFranco-Provençal_FOOT_1	Franco-Provençal	savo1253	frp	FOOT	pî	piː	p iː	piː	FOOT_1	FALSE		Viret 2013: 1610-1612
+SavoyardFranco-Provençal_FULL_1	Franco-Provençal	savo1253	frp	FULL	plyê	pʎɛː	p ʎ ɛː	pʎɛː	FULL_1	FALSE		Viret 2013: 1639-1640
+SavoyardFranco-Provençal_GIVE_3	Franco-Provençal	savo1253	frp	GIVE	balyî	baʎˈiː	b a ʎ ˈiː	baʎ-ˈiː	GIVE_3	FALSE	Saxel, Annecy: dɛn-ˈaː {dènâ} 'to give'.	Viret 2013: 763-765
+SavoyardFranco-Provençal_GOOD_1	Franco-Provençal	savo1253	frp	GOOD	bon	bɔ̃	b ɔ̃	bɔ̃	GOOD_1	FALSE		Viret 2013: 324-325
+SavoyardFranco-Provençal_GREEN_1	Franco-Provençal	savo1253	frp	GREEN	vê	vɛ	v ɛ	vɛ	GREEN_1	FALSE		Viret 2013: 2221
+SavoyardFranco-Provençal_HAIR_-1	Franco-Provençal	savo1253	frp	HAIR	cheveû	ʃevˈøː	ʃ e v ˈøː	ševˈöː	HAIR_1	TRUE	Borrowed from French {cheveu} 'hair'. Distinct from pay {pai} 'body hair' [Viret 2013: 1667-1668].	Viret 2013: 494-495
+SavoyardFranco-Provençal_HAND_1	Franco-Provençal	savo1253	frp	HAND	man	mã	m ã	mã	HAND_1	FALSE		Viret 2013: 1310
+SavoyardFranco-Provençal_HEAD_2	Franco-Provençal	savo1253	frp	HEAD	téta	tˈeta	t ˈe t a	tˈet-a	HEAD_2	FALSE	There are also a lot of pejorative words for 'head', which we do not include into the list [Viret 2013: 2088-2089].	Viret 2013: 2088-2089
+SavoyardFranco-Provençal_HEAR_1	Franco-Provençal	savo1253	frp	HEAR	awire	awˈire	a w ˈi r e	aw-ˈi-re	HEAR_1	FALSE	There are two terms for 'to hear': aw-ˈi-re {awire} and ɛ̃=tˈɛ̃d-re {intindre} ~ ɛ=tˈɛd-re {êtêdre}. Viret provides two terms without differentiation in this case. We include both in the list. Giettaz: {chantre} 'to hear'; Bourg-Saint-Maurice, Côte-d'Aime: {chintre} 'to hear'; Bessans {sintré} 'to hear'; Bonneval en Tarentaise: {sîntre} 'to hear'; Montagny vers Bozel: {sintre} 'to hear'.	Viret 2013: 863-864
+SavoyardFranco-Provençal_HEAR_-1	Franco-Provençal	savo1253	frp	HEAR	intindre	ɛ̃tˈɛ̃dre	ɛ̃ t ˈɛ̃ d r e	ɛ̃=tˈɛ̃d-re	HEAR_3	TRUE		Viret 2013: 863
+SavoyardFranco-Provençal_HEAR_-1	Franco-Provençal	savo1253	frp	HEAR	êtêdre	ɛtˈɛdre	ɛ t ˈɛ d r e	ɛ=tˈɛd-re	HEAR_3	TRUE		Viret 2013: 863
+SavoyardFranco-Provençal_HEART_1	Franco-Provençal	savo1253	frp	HEART	keû	køː	k øː	köː	HEART_1	FALSE		Viret 2013: 529-530
+SavoyardFranco-Provençal_HORN (ANATOMY)_1	Franco-Provençal	savo1253	frp	HORN (ANATOMY)	keûrna	kˈøːrna	k ˈøː r n a	kˈöːrn-a	HORN (ANATOMY)_1	FALSE		Viret 2013: 588-589
+SavoyardFranco-Provençal_I_1	Franco-Provençal	savo1253	frp	I	dè	dɛ	d ɛ	dɛ	I_1	FALSE		Viret 2013: 1208-1210
+SavoyardFranco-Provençal_I_2	Franco-Provençal	savo1253	frp	I	mai	maj	m a j	may	I_2	FALSE		Viret 2013: 1408-1409
+SavoyardFranco-Provençal_I_2	Franco-Provençal	savo1253	frp	I	mê	mɛ	m ɛ	mɛ	I_2	FALSE		Viret 2013: 1408-1409
+SavoyardFranco-Provençal_KILL_-1	Franco-Provençal	savo1253	frp	KILL	twâ	twaː	t w aː	twaː	KILL_9	TRUE		Viret 2013: 2171
+SavoyardFranco-Provençal_KNEE_1	Franco-Provençal	savo1253	frp	KNEE	zhèneu	ðɛnˈœ	ð ɛ n ˈœ	ðɛnˈœ	KNEE_1	FALSE		Viret 2013: 1066
+SavoyardFranco-Provençal_KNEE_1	Franco-Provençal	savo1253	frp	KNEE	zhènò	ðɛnˈɔ	ð ɛ n ˈɔ	ðɛnˈɔ	KNEE_1	FALSE		Viret 2013: 1066
+SavoyardFranco-Provençal_KNEE_1	Franco-Provençal	savo1253	frp	KNEE	zhènoy	ðɛnˈoj	ð ɛ n ˈo j	ðɛnˈoy	KNEE_1	FALSE		Viret 2013: 1066
+SavoyardFranco-Provençal_KNOW (SOMETHING)_2	Franco-Provençal	savo1253	frp	KNOW (SOMETHING)	savai	savˈaj	s a v ˈa j	sav-ˈay	KNOW (SOMETHING)_2	FALSE	Distinct from ko=ɲˈayt-re {konyaitre} 'to know (a person), to be acquainted' [Viret 2013: 564-565].	Viret 2013: 1946-1947
+SavoyardFranco-Provençal_LEAF_1	Franco-Provençal	savo1253	frp	LEAF	fôlye	fˈoʎe	f ˈo ʎ e	fˈoʎ-e	LEAF_1	FALSE		Viret 2013: 967
+SavoyardFranco-Provençal_LIVER_2	Franco-Provençal	savo1253	frp	LIVER	fèzho	fˈɛðo	f ˈɛ ð o	fˈɛð-o	LIVER_2	FALSE		Viret 2013: 992
+SavoyardFranco-Provençal_LONG_1	Franco-Provençal	savo1253	frp	LONG	lon	lɔ̃	l ɔ̃	lɔ̃	LONG_1	FALSE		Viret 2013: 1287-1288
+SavoyardFranco-Provençal_LOUSE_1	Franco-Provençal	savo1253	frp	LOUSE	pyu	pjy	p j y	pyü	LOUSE_1	FALSE		Viret 2013: 1698
+SavoyardFranco-Provençal_LOUSE_1	Franco-Provençal	savo1253	frp	LOUSE	pyû	pjyː	p j yː	pyüː	LOUSE_1	FALSE		Viret 2013: 1698
+SavoyardFranco-Provençal_MALE PERSON_2	Franco-Provençal	savo1253	frp	MALE PERSON	omo	ˈomo	ˈo m o	ˈom-o	MALE PERSON_2	FALSE	Polysemy: 'man / husband / person'.	Viret 2013: 1145-1146
+SavoyardFranco-Provençal_MANY_12	Franco-Provençal	savo1253	frp	MANY	byê	bjɛ	b j ɛ	byɛ	MANY_12	FALSE	Saxel: brˈaːv-o {brâvo}, gɛʎˈaː {guèlyâ} 'many'; Samoëns: brav-amã {bravaman} 'many'; Billième, Attignat-Oncin, Bourget-en-Huile: braːv-amˈɛ {brâvamê} 'many'; Beaufort, Boëge: gaʎˈaː {galyâ} 'many'; Saint-Jean-de-Belleville: gɛʎˈaːr {galyâr} 'many'; Peisey-Nancroix: gɛʎˈaːrt {galyârt} 'many'; Chamonix: gɛʎˈaː {guèlyâ}, wˈɛro {wêro} 'many'; Montagny vers Bozel: gɛyˈaːr {guèyâr} ~ güʎˈaːr {gulyâr} 'many'; Chambéry, Moûtiers: gˈero {guéro} 'many'; Manigod: gˈero {guéro} ~ wˈɛro {wêro} 'many'; Saint-Jean-Aulps, Taninges: wˈɛro {wêro} 'many'.	Viret 2013: 278-279
+SavoyardFranco-Provençal_FLESH OR MEAT_-1	Franco-Provençal	savo1253	frp	FLESH OR MEAT	vyanda	vˈjãda	v ˈj ã d a	vˈyãd-a	FLESH OR MEAT_4	TRUE		Viret 2013: 2226-2227
+SavoyardFranco-Provençal_MOON_1	Franco-Provençal	savo1253	frp	MOON	lnà	lna	l n a	lna	MOON_1	FALSE	Distinct from may {mai} 'month' [Viret 2013: 1410].	Viret 2013: 1303-1304
+SavoyardFranco-Provençal_MOUNTAIN_1	Franco-Provençal	savo1253	frp	MOUNTAIN	montanye	mɔ̃tˈaɲe	m ɔ̃ t ˈa ɲ e	mɔ̃t-ˈaɲ-e	MOUNTAIN_1	FALSE		Viret 2013: 1418-1419
+SavoyardFranco-Provençal_MOUTH_3	Franco-Provençal	savo1253	frp	MOUTH	grwin	ɡrwɛ̃	ɡ r w ɛ̃	grwɛ̃	MOUTH_3	FALSE	Goes back to Latin {gula} 'throat'. In some villages reflexes of Latin {bucca} are used in the meaning 'mouth' as well (usually along with the reflexes of {gula}) [Viret 2013: 336-337].	Viret 2013: 336-337
+SavoyardFranco-Provençal_NAME_1	Franco-Provençal	savo1253	frp	NAME	non	nɔ̃	n ɔ̃	nɔ̃	NAME_1	FALSE		Viret 2013: 1475
+SavoyardFranco-Provençal_NECK_1	Franco-Provençal	savo1253	frp	NECK	kou	ku	k u	ku	NECK_1	FALSE		Viret 2013: 597-598
+SavoyardFranco-Provençal_NECK_1	Franco-Provençal	savo1253	frp	NECK	koû	kuː	k uː	kuː	NECK_1	FALSE		Viret 2013: 597-598
+SavoyardFranco-Provençal_NEW_1	Franco-Provençal	savo1253	frp	NEW	nové	novˈe	n o v ˈe	novˈe	NEW_1	FALSE		Viret 2013: 1483
+SavoyardFranco-Provençal_NIGHT_1	Franco-Provençal	savo1253	frp	NIGHT	né	ne	n e	ne	NIGHT_1	FALSE		Viret 2013: 1486-1487
+SavoyardFranco-Provençal_NOSE_1	Franco-Provençal	savo1253	frp	NOSE	nâ	naː	n aː	naː	NOSE_1	FALSE		Viret 2013: 1466-1467
+SavoyardFranco-Provençal_NOT_1	Franco-Provençal	savo1253	frp	NOT	ne...pâ	nepaː	n e p aː	ne-paː	NOT_1	FALSE	The first form is used before a consonant; the second one occurs before a vowel.	Viret 2013: 1555-1556
+SavoyardFranco-Provençal_NOT_1	Franco-Provençal	savo1253	frp	NOT	ne...pâz	nepaːz	n e p aː z	ne-paːz	NOT_1	FALSE	The first form is used before a consonant; the second one occurs before a vowel.	Viret 2013: 1555-1556
+SavoyardFranco-Provençal_NOT_5	Franco-Provençal	savo1253	frp	NOT	ne...pâ	nepaː	n e p aː	ne=paː	NOT_5	FALSE		
+SavoyardFranco-Provençal_NOT_5	Franco-Provençal	savo1253	frp	NOT	ne...pâz	nepaːz	n e p aː z	ne=paːz	NOT_5	FALSE		
+SavoyardFranco-Provençal_ONE_1	Franco-Provençal	savo1253	frp	ONE	yon	jɔ̃	j ɔ̃	yɔ̃	ONE_1	FALSE	The first form is used before a consonant or at the end of a word group; the second one occurs before a vowel.	Viret 2013: 2176-2177
+SavoyardFranco-Provençal_ONE_1	Franco-Provençal	savo1253	frp	ONE	yon-n	jɔ̃n	j ɔ̃ n	yɔ̃n	ONE_1	FALSE	The first form is used before a consonant or at the end of a word group; the second one occurs before a vowel.	Viret 2013: 2176-2177
+SavoyardFranco-Provençal_PERSON_1	Franco-Provençal	savo1253	frp	PERSON	omo	ˈomo	ˈo m o	ˈom-o	PERSON_1	FALSE	Polysemy: 'man / husband / person'.	Viret 2013: 1145-1146
+SavoyardFranco-Provençal_RAIN (RAINING)_1	Franco-Provençal	savo1253	frp	RAIN (RAINING)	plyôzhe	pʎˈoðe	p ʎ ˈo ð e	pʎˈoð-e	RAIN (RAINING)_1	FALSE		Viret 2013: 1645-1646
+SavoyardFranco-Provençal_RED_1	Franco-Provençal	savo1253	frp	RED	rozho	rˈoðo	r ˈo ð o	rˈoð-o	RED_1	FALSE		Viret 2013: 1893-1894
+SavoyardFranco-Provençal_ROAD_5	Franco-Provençal	savo1253	frp	ROAD	rota	rˈota	r ˈo t a	rˈot-a	ROAD_5	FALSE	In Côte-d'Aime, besides rˈot-a {rota} ~ {rôta}, the term vya {vyа} 'road' is also used [Viret 2013: 1899].	Viret 2013: 1899-1900
+SavoyardFranco-Provençal_ROOT_1	Franco-Provençal	savo1253	frp	ROOT	rassina	rasˈina	r a s ˈi n a	rasˈin-a	ROOT_1	FALSE		Viret 2013: 1771
+SavoyardFranco-Provençal_ROUND_1	Franco-Provençal	savo1253	frp	ROUND	ryon	rjɔ̃	r j ɔ̃	ryɔ̃	ROUND_1	FALSE		Viret 2013: 1887
+SavoyardFranco-Provençal_SAND_2	Franco-Provençal	savo1253	frp	SAND	sablya	sˈabʎa	s ˈa b ʎ a	sˈabʎ-a	SAND_2	FALSE	In Esserts-Blay and Bonneval en Tarentaise, besides sˈabl-a {sabla} 'sand', the term arˈɛn-a {arêna} ~ arˈɛ̃n-a {arin-na} ~ aːrˈɛ̃ːn-a {ârîn-na} is also used. Viret defines the latter as 'sable pris dans les terrains' ('sand taken from the earth') [Viret 2013: 1909].	Viret 2013: 1909
+SavoyardFranco-Provençal_SAY_1	Franco-Provençal	savo1253	frp	SAY	dire	dˈire	d ˈi r e	dˈi-re	SAY_1	FALSE		Viret 2013: 747-750
+SavoyardFranco-Provençal_SEE_1	Franco-Provençal	savo1253	frp	SEE	vi	vi	v i	vi	SEE_1	FALSE		Viret 2013: 2247-2249
+SavoyardFranco-Provençal_SEED_3	Franco-Provençal	savo1253	frp	SEED	gran-na	ɡrˈãna	ɡ r ˈã n a	grˈãn-a	SEED_3	FALSE		Viret 2013: 1090
+SavoyardFranco-Provençal_SIT_1	Franco-Provençal	savo1253	frp	SIT	étre achtâ	ˈetreaʃtˈaː	ˈe t r e a ʃ t ˈaː	ˈet=re=a=št-ˈaː	SIT_1	FALSE	Taking into account that it literally means 'to be sat' (cf. {achtâ} 'to sit down (transitive)' [Viret 2013: 190-191]), this seems to be a good candidate for the list. Distinct from s=a=št-ˈaː {s'achtâ} 'to sit down (intransitive)' [Viret 2013: 191].	Viret's dictionary does not provide a separate entry for 'être assis' 'to sit', but the construction {étre achtâ}, which appears in the entry for 'siéger' 'to sit (for example, in the senate)', is glossed as 'être assis' [Viret 2013: 1987]
+SavoyardFranco-Provençal_SKIN (HUMAN)_2	Franco-Provençal	savo1253	frp	SKIN (HUMAN)	pé	pe	p e	pe	SKIN (HUMAN)_2	FALSE		Viret 2013: 1571
+SavoyardFranco-Provençal_SLEEP_1	Franco-Provençal	savo1253	frp	SLEEP	dromi	dromˈi	d r o m ˈi	drom-ˈi	SLEEP_1	FALSE		Viret 2013: 765-767
+SavoyardFranco-Provençal_SMALL_3	Franco-Provençal	savo1253	frp	SMALL	ptyou	ptju	p t j u	ptyu	SMALL_3	FALSE		Viret 2013: 1597-1599
+SavoyardFranco-Provençal_SMOKE (EXHAUST)_1	Franco-Provençal	savo1253	frp	SMOKE (EXHAUST)	fmîre	fmˈiːre	f m ˈiː r e	fm-ˈiːre	SMOKE (EXHAUST)_1	FALSE	Côte-d'Aime: tür-ˈiʎe {turilye} 'smoke'.	Viret 2013: 1040
+SavoyardFranco-Provençal_SMOKE (EXHAUST)_1	Franco-Provençal	savo1253	frp	SMOKE (EXHAUST)	fomîre	fomˈiːre	f o m ˈiː r e	fom-ˈiːre	SMOKE (EXHAUST)_1	FALSE	Côte-d'Aime: tür-ˈiʎe {turilye} 'smoke'.	Viret 2013: 1040
+SavoyardFranco-Provençal_STAND_2	Franco-Provençal	savo1253	frp	STAND	étre dêpî	ˈetredɛpˈiː	ˈe t r e d ɛ p ˈiː	ˈet=re=dɛ=pˈiː	STAND_2	FALSE	Consequently, we suppose that 'to stand' is ˈet=re=dɛ=pˈiː {étre dêpî} ~ ˈet=re=dɛ̃=pˈiː {étre dinpî} in Albanais, cf. {а dromi dêpî} 'to sleep standing' [Viret 2013: 1177], {k'tin pâ dêpî} 'absurd, improbable' (literally 'that which does not keeps on its feet') [Viret 2013: 73, 1199] and {étre d'pwinta} 'to stand' (Les Villards-sur-Thônes) [Viret 2013: 670]. Distinct from sɛ=lv-ˈaː {sè lvâ} ~ s=lɛv-ˈaː {s'lèvâ} ~ sɛ=pt-ˈaː-dɛ-pˈiː {sè ptâ dêpî} 'to stand up' [Viret 2013: 1270].	Viret's dictionary does not provide a separate entry for 'être debout' 'to stand', but there is an entry for 'debout', and in the Albanais dialect this adverb sounds as dɛ=pˈiː {dêpî} or dɛ̃=pˈiː {dinpî} [Viret 2013: 670]
+SavoyardFranco-Provençal_STAND_2	Franco-Provençal	savo1253	frp	STAND	étre dinpî	ˈetredɛ̃pˈiː	ˈe t r e d ɛ̃ p ˈiː	ˈet=re=dɛ̃=pˈiː	STAND_2	FALSE	Consequently, we suppose that 'to stand' is ˈet=re=dɛ=pˈiː {étre dêpî} ~ ˈet=re=dɛ̃=pˈiː {étre dinpî} in Albanais, cf. {а dromi dêpî} 'to sleep standing' [Viret 2013: 1177], {k'tin pâ dêpî} 'absurd, improbable' (literally 'that which does not keeps on its feet') [Viret 2013: 73, 1199] and {étre d'pwinta} 'to stand' (Les Villards-sur-Thônes) [Viret 2013: 670]. Distinct from sɛ=lv-ˈaː {sè lvâ} ~ s=lɛv-ˈaː {s'lèvâ} ~ sɛ=pt-ˈaː-dɛ-pˈiː {sè ptâ dêpî} 'to stand up' [Viret 2013: 1270].	Viret's dictionary does not provide a separate entry for 'être debout' 'to stand', but there is an entry for 'debout', and in the Albanais dialect this adverb sounds as dɛ=pˈiː {dêpî} or dɛ̃=pˈiː {dinpî} [Viret 2013: 670]
+SavoyardFranco-Provençal_STAR_1	Franco-Provençal	savo1253	frp	STAR	étaila	etˈajla	e t ˈa j l a	etˈayl-a	STAR_1	FALSE		Viret 2013: 905
+SavoyardFranco-Provençal_STONE_-1	Franco-Provençal	savo1253	frp	STONE	pyêro	pˈjɛro	p ˈj ɛ r o	pˈyɛr-o	STONE_6	TRUE		Viret 2013: 1614-1615
+SavoyardFranco-Provençal_SUN_1	Franco-Provençal	savo1253	frp	SUN	sèlwà	sɛlˈwa	s ɛ l ˈw a	sɛlˈwa	SUN_1	FALSE		Viret 2013: 1999
+SavoyardFranco-Provençal_SWIM_1	Franco-Provençal	savo1253	frp	SWIM	nazhî	naðˈiː	n a ð ˈiː	nað-ˈiː	SWIM_1	FALSE	Distinct from fʎot-ˈaː {flyotâ} 'to float' (the collocation {tnyi su l'éga} 'to hold on water' can also be used in this meaning) [Viret 2013: 991].	Viret 2013: 1454
+SavoyardFranco-Provençal_TAIL_1	Franco-Provençal	savo1253	frp	TAIL	kava	kˈava	k ˈa v a	kˈav-a	TAIL_1	FALSE		Viret 2013: 1764-1765
+SavoyardFranco-Provençal_THAT_2	Franco-Provençal	savo1253	frp	THAT	chô…lé	ʃole	ʃ o l e	šo-le	THAT_2	FALSE	Distal demonstrative.	Viret 2013: 425
+SavoyardFranco-Provençal_THAT_7	Franco-Provençal	savo1253	frp	THAT	chô…tyè	ʃotjɛ	ʃ o t j ɛ	šo-tyɛ	THAT_7	FALSE	Medial demonstrative.	Viret 2013: 425
+SavoyardFranco-Provençal_THIS_2	Franco-Provençal	savo1253	frp	THIS	sti…tyè	stitjɛ	s t i t j ɛ	sti-tyɛ	THIS_2	FALSE		Viret 2013: 423-424
+SavoyardFranco-Provençal_THOU_1	Franco-Provençal	savo1253	frp	THOU	tè	tɛ	t ɛ	tɛ	THOU_1	FALSE	Paradigm: tɛ {tè} [nom.] / tay {tai} [obj.].	Viret 2013: 2170, 2101
+SavoyardFranco-Provençal_TONGUE_1	Franco-Provençal	savo1253	frp	TONGUE	lêga	lˈɛɡa	l ˈɛ ɡ a	lˈɛg-a	TONGUE_1	FALSE	Polysemy: 'tongue / language'.	Viret 2013: 1250
+SavoyardFranco-Provençal_TOOTH_1	Franco-Provençal	savo1253	frp	TOOTH	dê'	dɛː	d ɛː	dɛː	TOOTH_1	FALSE		Viret 2013: 704-705
+SavoyardFranco-Provençal_TOOTH_1	Franco-Provençal	savo1253	frp	TOOTH	din	dɛ̃	d ɛ̃	dɛ̃	TOOTH_1	FALSE		Viret 2013: 704-705
+SavoyardFranco-Provençal_TREE_1	Franco-Provençal	savo1253	frp	TREE	âbro	ˈaːbro	ˈaː b r o	ˈaːbr-o	TREE_1	FALSE		Viret 2013: 168
+SavoyardFranco-Provençal_TREE_1	Franco-Provençal	savo1253	frp	TREE	ârbro	ˈaːrbro	ˈaː r b r o	ˈaːrbr-o	TREE_1	FALSE		Viret 2013: 168
+SavoyardFranco-Provençal_TWO_1	Franco-Provençal	savo1253	frp	TWO	dou	du	d u	du	TWO_1	FALSE		Viret 2013: 733
+SavoyardFranco-Provençal_TWO_1	Franco-Provençal	savo1253	frp	TWO	douz	duz	d u z	duz	TWO_1	FALSE		Viret 2013: 733
+SavoyardFranco-Provençal_WALK_4	Franco-Provençal	savo1253	frp	WALK	vâ	vaː	v aː	vaː	WALK_4	FALSE	This verb is suppletive, like in other Romance languages, see the paradigm: {vé} 'I go' / {vâ} 'you go' / {vâ} 'he goes' / {alin} 'we go' / {alâ} 'you go' / {von} 'they go' / {alivou} 'I was going' (imperf.) / {vrai} 'I will go' / {vri} 'I would go' (cond.) / {alâ} 'to go'.	Viret 2013: 122-125
+SavoyardFranco-Provençal_WALK_2	Franco-Provençal	savo1253	frp	WALK	alâ	alˈaː	a l ˈaː	al-ˈaː	WALK_2	FALSE		The infinitive form
+SavoyardFranco-Provençal_WARM (OF WEATHER)_1	Franco-Provençal	savo1253	frp	WARM (OF WEATHER)	shô	θo	θ o	θo	WARM (OF WEATHER)_1	FALSE		Viret 2013: 476
+SavoyardFranco-Provençal_WATER_1	Franco-Provençal	savo1253	frp	WATER	éga	ˈeɡa	ˈe ɡ a	ˈeg-a	WATER_1	FALSE		Viret 2013: 785-786
+SavoyardFranco-Provençal_WE_1	Franco-Provençal	savo1253	frp	WE	no	no	n o	no	WE_1	FALSE	The second form is used before a vowel.	Viret 2013: 1482-1483
+SavoyardFranco-Provençal_WE_1	Franco-Provençal	savo1253	frp	WE	noz	noz	n o z	noz	WE_1	FALSE	The second form is used before a vowel.	Viret 2013: 1482-1483
+SavoyardFranco-Provençal_WHAT_1	Franco-Provençal	savo1253	frp	WHAT	kai	kaj	k a j	kay	WHAT_1	FALSE		Viret 2013: 1769-1770
+SavoyardFranco-Provençal_WHITE_-1	Franco-Provençal	savo1253	frp	WHITE	blyan	bʎã	b ʎ ã	bʎã	WHITE_1	TRUE		Viret 2013: 309
+SavoyardFranco-Provençal_WHO_1	Franco-Provençal	savo1253	frp	WHO	kwi	kwi	k w i	kwi	WHO_1	FALSE		Viret 2013: 1766-1767
+SavoyardFranco-Provençal_WOMAN_2	Franco-Provençal	savo1253	frp	WOMAN	fèna	fˈɛna	f ˈɛ n a	fˈɛna	WOMAN_2	FALSE		Viret 2013: 952-955
+SavoyardFranco-Provençal_YELLOW_2	Franco-Provençal	savo1253	frp	YELLOW	zhôno	ðˈono	ð ˈo n o	ðˈon-o	YELLOW_2	FALSE		Viret 2013: 1207
+SavoyardFranco-Provençal_FAR_1	Franco-Provençal	savo1253	frp	FAR	lwin	lwɛ̃	l w ɛ̃	lwɛ̃	FAR_1	FALSE		Viret 2013: 1286-1287
+SavoyardFranco-Provençal_FAR_1	Franco-Provençal	savo1253	frp	FAR	lwê	lwɛ	l w ɛ	lwɛ	FAR_1	FALSE		Viret 2013: 1286-1287
+SavoyardFranco-Provençal_HEAVY_2	Franco-Provençal	savo1253	frp	HEAVY	pèzan	pɛzã	p ɛ z ã	pɛz-ã	HEAVY_2	FALSE		Viret 2013: 1294
+SavoyardFranco-Provençal_NEAR_9	Franco-Provençal	savo1253	frp	NEAR	pré	pre	p r e	pre	NEAR_9	FALSE		Viret 2013: 1722
+SavoyardFranco-Provençal_SALT_1	Franco-Provençal	savo1253	frp	SALT	sâ	saː	s aː	saː	SALT_1	FALSE		Viret 2013: 1963
+SavoyardFranco-Provençal_SHORT_2	Franco-Provençal	savo1253	frp	SHORT	ko	ko	k o	ko	SHORT_2	FALSE		Viret 2013: 615
+SavoyardFranco-Provençal_SNAKE_2	Franco-Provençal	savo1253	frp	SNAKE	sarpê	sarpˈɛ	s a r p ˈɛ	sarp-ˈɛ	SNAKE_2	FALSE		Viret 2013: 1975
+SavoyardFranco-Provençal_SNAKE_2	Franco-Provençal	savo1253	frp	SNAKE	sarpin	sarpˈɛ̃	s a r p ˈɛ̃	sarp-ˈɛ̃	SNAKE_2	FALSE		Viret 2013: 1975
+SavoyardFranco-Provençal_THIN_4	Franco-Provençal	savo1253	frp	THIN	fin	fɛ̃	f ɛ̃	fɛ̃	THIN_4	FALSE	Viret provides two terms without any differentiation in this case: fɛ̃ {fin} and prɛ̃ {prin}. We include both in the list.	Viret 2013: 978
+SavoyardFranco-Provençal_THIN_7	Franco-Provençal	savo1253	frp	THIN	prin	prɛ̃	p r ɛ̃	prɛ̃	THIN_7	FALSE		Viret 2013: 978
+SavoyardFranco-Provençal_WIND_1	Franco-Provençal	savo1253	frp	WIND	vé	ve	v e	ve	WIND_1	FALSE	Viret mentions two terms for 'wind' in the Albanais dialect: ve {vé} ~ vɛː {ven} ~ {vê'} and ˈur-a {oura}, but the second one was taken from the 1903 year book Monographie du patois savoyard by Félix Fenouillet, so we include only the first one into the list. However continuants of Latin {aura} occur in many other dialects, sometimes along with continuants of {ventus} [Viret 2013: 2208].	Viret 2013: 2208-2210
+SavoyardFranco-Provençal_WIND_1	Franco-Provençal	savo1253	frp	WIND	ven	vɛː	v ɛː	vɛː	WIND_1	FALSE	Viret mentions two terms for 'wind' in the Albanais dialect: ve {vé} ~ vɛː {ven} ~ {vê'} and ˈur-a {oura}, but the second one was taken from the 1903 year book Monographie du patois savoyard by Félix Fenouillet, so we include only the first one into the list. However continuants of Latin {aura} occur in many other dialects, sometimes along with continuants of {ventus} [Viret 2013: 2208].	Viret 2013: 2208-2210
+SavoyardFranco-Provençal_WORM_1	Franco-Provençal	savo1253	frp	WORM	vé	ve	v e	ve	WORM_1	FALSE		Viret 2013: 2212-2213
+SavoyardFranco-Provençal_YEAR_1	Franco-Provençal	savo1253	frp	YEAR	an	ã	ã	ã	YEAR_1	FALSE		Viret 2013: 145-146
 OldFrench_ALL_2	Old French	oldf1239	fro	ALL	tot	tot	t o t	tot	ALL_2	FALSE	Polysemy: 'all (omnis) / all (totus)', cf. {tot son aé} "all his life" and {toz les jorz de son ahé} "all the days of his life" [EDCT 2014: 16].	Does not have a separate entry in the EDCT, but occurs in numerous examples, from other entries
 OldFrench_ASH_1	Old French	oldf1239	fro	ASH	cendre	ʦˈãndrə	ʦ ˈã n d r ə	cˈãndr-ə	ASH_1	FALSE		EDCT 2014: 164
 OldFrench_BARK_3	Old French	oldf1239	fro	BARK	escorce	eskˈɔrʦə	e s k ˈɔ r ʦ ə	eskˈɔrc-ə	BARK_3	FALSE		EDCT 2014: 429
