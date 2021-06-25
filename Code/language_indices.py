@@ -33,7 +33,7 @@ def write_lang_index(dataset_file, language_metadata, output_file):
             longitude = str(lang_metadata['Longitude'][metadata_index])
             family = lang_metadata['Family'][metadata_index]
             concept_count = str(len(words[lang_name]))
-            word_count = str(sum([len(words[lang_name][concept]) for concept in words[lang_name]]))
+            word_count = str(sum([len(set(words[lang_name][concept])) for concept in words[lang_name]]))
             f.write(','.join([lang_id, lang_name, glottocode, glottolog_name,
                               iso_code, macroarea, latitude, longitude, family,
                               concept_count, word_count]))

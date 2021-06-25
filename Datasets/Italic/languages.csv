@@ -8,11 +8,11 @@ MinorcanCatalan,Catalan (Minorcan),meno1253,Menorquí,cat,Eurasia,41.453,1.569,I
 North-WesternCatalan,Catalan (Northwestern),cata1291,Català Nord-Occidental,cat,Eurasia,41.453,1.569,Indo-European,110,125
 ValenciaCatalan,Catalan (Valencia),vale1252,Valencià,cat,Eurasia,41.453,1.569,Indo-European,110,116
 Dalmatian,Dalmatian,dalm1243,Dalmatian,dlm,Eurasia,42.7095,18.0238,Indo-European,103,134
-CarpigianoEmiliano,Emiliano (Carpigiano),emil1241,Emiliano,egl,Eurasia,44.3536,11.5794,Indo-European,110,116
+CarpigianoEmiliano,Emiliano (Carpigiano),emil1241,Emiliano,egl,Eurasia,44.3536,11.5794,Indo-European,110,115
 FerrareseEmiliano,Emiliano (Ferrarese),east2275,Eastern Emiliano,egl,Eurasia,44.3536,11.5794,Indo-European,109,111
 ReggianoEmiliano,Emiliano (Reggiano),cent1959,Central Emiliano,egl,Eurasia,44.3536,11.5794,Indo-European,110,125
-SavoyardFranco-Provençal,Franco-Provençal,savo1253,Savoyard,frp,Eurasia,45.8051,6.48152,Indo-European,109,138
-StandardFrench,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European,110,117
+SavoyardFranco-Provençal,Franco-Provençal,savo1253,Savoyard,frp,Eurasia,45.8051,6.48152,Indo-European,109,136
+StandardFrench,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European,110,116
 Friulian,Friulian,friu1240,Friulian,fur,Eurasia,46.1473,13.0493,Indo-European,110,115
 Galician,Galician,gali1258,Galician,glg,Eurasia,42.2446,-7.5343,Indo-European,110,117
 IstroRomanian,Istro-Romanian,istr1245,Istro Romanian,ruo,Eurasia,45.433,14.2,Indo-European,110,113
@@ -31,9 +31,9 @@ PlesioLombard,Lombard (Plesio),west2343,Western Lombard,lmo,Eurasia,45.8817,9.39
 MeglenoRomanian,Megleno-Romanian,megl1237,Megleno Romanian,ruq,Eurasia,41.1174,22.3782,Indo-European,109,115
 Neapolitan,Neapolitan,napo1241,Napoletano,nap,Eurasia,39.2288,16.4225,Indo-European,110,147
 ProvençalOccitan,Occitan,prov1235,Provençal,oci,Eurasia,44.0,6.0,Indo-European,109,141
-OldFrench,Old French,oldf1239,Old French (842-ca. 1400),fro,Eurasia,48.8,1.11,Indo-European,110,119
+OldFrench,Old French,oldf1239,Old French (842-ca. 1400),fro,Eurasia,48.8,1.11,Indo-European,110,118
 OldItalian,Old Italian,fior1236,Old Italian,ita,Eurasia,43.0464,12.6489,Indo-European,110,126
-Picard,Picard,pica1241,Picard,pcd,Eurasia,50.2831,3.25085,Indo-European,110,114
+Picard,Picard,pica1241,Picard,pcd,Eurasia,50.2831,3.25085,Indo-European,110,113
 BarbaniaPiemontese,Piemontese (Barbania),piem1238,Piemontese,pms,Eurasia,45.4633,8.32366,Indo-European,110,115
 CarmagnolaPiemontese,Piemontese (Carmagnola),piem1238,Piemontese,pms,Eurasia,45.4633,8.32366,Indo-European,110,114
 LanzoTorinesePiemontese,Piemontese (Lanzo Torinese),piem1238,Piemontese,pms,Eurasia,45.4633,8.32366,Indo-European,110,113
