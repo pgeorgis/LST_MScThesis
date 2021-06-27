@@ -3,6 +3,8 @@ library(phangorn)
 library(phytools)
 library(geiger)
 library(dplyr)
+library(stringi)
+library(stringr)
 
 #Set working directory to location where this script is saved
 library("rstudioapi")
@@ -14,83 +16,122 @@ setwd("..")
 lang_data <- read.csv('Datasets/Languages.csv', sep='\t')
 setwd(local_dir)
 
-#Function to turn nodes into tips and prune off extra tips
-reformat_tree <- function(tree, languages) {
-  #Iterate through the list of languages
-  for (lang in languages) {
-    
-    #Check whether the language name is already a tip of the tree
-    if (lang %in% tree$tip.label == FALSE) { 
-      
-      #If not, we assume it is instead a node of the tree and extract its node number
-      node_index <- match(lang, tree$node.label) + Ntip(tree)
-      
-      #Add the language as a tip of the tree under its own node
-      tree <- bind.tip(tree, lang, edge.length=1, where=node_index, position=0)
+#Function from: https://rdrr.io/github/bstaggmartin/backwards-BM-simulator/src/R/mis_multi.bind.tip.R
+multi.bind.tip<-function(tree,names,edge.lengths=NULL,nodes,positions=0){
+  if(is.null(edge.lengths)){
+    edge.lengths<-NA
+  }
+  args.list<-list(names=names,edge.lengths=edge.lengths,nodes=nodes,positions=positions)
+  max.len<-max(sapply(args.list,length))
+  for(i in 1:length(args.list)){
+    args.list[[i]]<-rep(args.list[[i]],length.out=max.len)
+  }
+  nodes<-args.list$nodes
+  positions<-args.list$positions
+  names(nodes)<-ifelse(nodes<=length(tree$tip.label),nodes+tree$Nnode,nodes-length(tree$tip.label))
+  args.list<-lapply(args.list,function(ii) ii[order(as.numeric(names(nodes)),-positions)])
+  nodes<-nodes[order(as.numeric(names(nodes)))]
+  int.nodes<-nodes>length(tree$tip.label)
+  tips<-nodes<=length(tree$tip.label)
+  for(i in 1:max.len){
+    try.tree<-try(phytools::bind.tip(tree,args.list$names[i],
+                                     if(is.na(args.list$edge.lengths[i])) NULL else args.list$edge.lengths[i],
+                                     args.list$nodes[i],
+                                     args.list$positions[i]),silent=T)
+    if(inherits(try.tree,'try-error')){
+      warning("failed to bind tip '",args.list$names[i],"' to node ",nodes[i],' due to following error:\n',
+              try.tree)
+    }else{
+      tree<-try.tree
+      args.list$nodes[int.nodes]<-args.list$nodes[int.nodes]+if(args.list$positions[i]<=0) 1 else 2
+      tmp<-which(tree$tip.label==args.list$names[i])
+      tmp<-args.list$nodes>=tmp
+      args.list$nodes[tips&tmp]<-args.list$nodes[tips&tmp]+1
     }
   }
+  tree
+}
+
+
+#Function to turn nodes into tips and prune off extra tips
+reformat_tree <- function(tree, languages) { 
+  #Remove any languages which couldn't be found in Glottolog (and thus have no Glottolog name)
+  languages <- stri_remove_empty(languages)
   
-  #Prune all tips not in the given list of languages
+  #Replace parentheses in language names with curly brackets in order to match name in Newick format
+  #(parentheses are used for grouping taxa, so parentheses in language names are written as curly brackets instead)
+  languages <- lapply(languages, gsub, pattern="\\(", replacement="{")
+  languages <- lapply(languages, gsub, pattern="\\)", replacement="}")
+  
+  #Turn named list of languages resulting from lapply back into character vector, using values
+  languages <- unlist(languages, use.names=FALSE)
+  
+  #Identify languages from dataset which are missing as tips in the tree
+  missing_langs <- languages[!languages %in% tree$tip.label]
+  
+  if (length(missing_langs)>0) {
+    #Get indices of the nodes with the names of the missing languages
+    node_indices <- sapply(missing_langs, match, tree$node.label) 
+    node_indices <- node_indices + Ntip(tree) 
+    
+    #Add the missing languages as tips of the tree under their own nodes
+    tree <- multi.bind.tip(tree=tree,
+                           names=missing_langs,
+                           edge.lengths=rep(1,length(node_indices)),
+                           nodes=node_indices,
+                           positions=rep(0,length(node_indices)))
+  }
+  
+  #Prune all tips not in the given list of languages and return the pruned tree
   tree <- drop.tip(tree, setdiff(tree$tip.label,languages))
-  
-  #Return the reformatted tree
   return(tree)
 }
 
-#BALTO-SLAVIC
-baltoslav_tree <- read.newick('Gold/Balto-Slavic.tre')
-baltoslav_data <- filter(lang_data, grepl('Balto-Slavic', lang_data$Classification, fixed=TRUE))
-baltoslav_langs <- as.vector(baltoslav_data$Glottolog.Name)
-new_baltoslav <- reformat_tree(baltoslav_tree, baltoslav_langs)
-write.tree(new_baltoslav,file="Gold/Balto-Slavic_pruned.tre")
+#Get list of files in Gold tree directory
+#files <- list.files(paste(local_dir, "/Gold", sep=""))
 
-#ARABIC
-arabic_tree <- read.newick('Gold/Arabic.tre')
-arabic_data <- filter(lang_data, grepl('Semitic', lang_data$Classification, fixed=TRUE))
-arabic_langs <- as.vector(arabic_data$Glottolog.Name)
-new_arabic <- reformat_tree(arabic_tree, arabic_langs)
-#write.tree(new_arabic,file="Gold/Arabic_pruned.tre")
+#Get list of families
+families <- c('Arabic', 
+              'Balto-Slavic', 
+              'Italic', 
+              'Polynesian', 
+              'Sinitic',
+              'Turkic', 
+              'Uralic',
+              
+              #Hokan non-isolate subfamilies
+              #'Chimariko',
+              'Cochimi-Yuman',
+              #'Karuk',
+              'Pomoan',
+              #'Seri',
+              #'Shastan',
+              'Tequistlatecan',
+              'Yana')
 
-#ITALIC
-italic_tree <- read.newick('Gold/Italic.tre')
-italic_data <- filter(lang_data, grepl('Italic', lang_data$Classification, fixed=TRUE))
-italic_langs <- as.vector(italic_data$Glottolog.Name)
-new_italic <- reformat_tree(italic_tree, italic_langs)
-#write.tree(new_italic,file="Gold/Italic_pruned.tre")
+for (family in families) {
+  
+  #Load tree for family
+  tree <- read.newick(paste(local_dir, '/Gold/', family, '.tre', sep=""))
+  
+  #Plot the original Glottolog tree
+  plot(tree)
+  
+  #Extract data for this family
+  family_data <- filter(lang_data, grepl(family, lang_data$Classification, fixed=TRUE))
+  
+  #Get list of languages included in family's dataset
+  langs <- as.vector(family_data$Glottolog.Name)
+  
+  #Reformat the tree
+  new_tree <- reformat_tree(tree, langs)
+  
+  #Plot the new tree if there are at least 2 tips (would raise error otherwise)
+  if (Ntip(new_tree) > 1) {
+    plot(new_tree)
+  }
+  
+  #Write the reformatted/pruned tree in Newick format
+  write.tree(new_tree, file=paste("Gold/", family, "_pruned.tre", sep=""))
+}
 
-#POLYNESIAN
-polynesian_tree <- read.newick('Gold/Polynesian.tre')
-polynesian_data <- filter(lang_data, grepl('Polynesian', lang_data$Classification, fixed=TRUE))
-polynesian_langs <- as.vector(polynesian_data$Glottolog.Name)
-new_polynesian <- reformat_tree(polynesian_tree, polynesian_langs)
-#write.tree(new_polynesian,file="Gold/Polynesian_pruned.tre")
-
-#SINITIC
-sinitic_tree <- read.newick('Gold/Sinitic.tre')
-sinitic_data <- filter(lang_data, grepl('Sinitic', lang_data$Classification, fixed=TRUE))
-sinitic_langs <- as.vector(sinitic_data$Glottolog.Name)
-new_sinitic <- reformat_tree(sinitic_tree, sinitic_langs)
-write.tree(new_sinitic,file="Gold/Sinitic_pruned.tre")
-
-#TURKIC
-turkic_tree <- read.newick('Gold/Turkic.tre')
-turkic_data <- filter(lang_data, grepl('Turkic', lang_data$Classification, fixed=TRUE))
-turkic_langs <- as.vector(turkic_data$Glottolog.Name)
-new_turkic <- reformat_tree(turkic_tree, turkic_langs)
-#write.tree(new_turkic,file="Gold/Turkic_pruned.tre")
-
-#URALIC
-uralic_tree <- read.newick('Gold/Uralic.tre')
-uralic_data <- filter(lang_data, grepl('Uralic', lang_data$Classification, fixed=TRUE))
-uralic_langs <- as.vector(uralic_data$Glottolog.Name)
-new_uralic <- reformat_tree(uralic_tree, uralic_langs)
-#write.tree(new_uralic,file="Gold/Uralic_pruned.tre")
-
-#Still to do:
-#figure out why it's not working for other families (Arabic, Uralic, Polynesian, Italic, Turkic)
-#why only working for Balto-Slavic and Sinitic?
-#test Hokan last
-
-#once that's done:
-#turn this into a for loop so that it is done automatically for all families
-#ideally: rename the languages to local name
