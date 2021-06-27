@@ -74,6 +74,29 @@ reformat_tree <- function(tree, languages) {
     node_indices <- sapply(missing_langs, match, tree$node.label) 
     node_indices <- node_indices + Ntip(tree) 
     
+    #Languoids whose node index could not be found (node_index = NA) are typically dialects 
+    #which were not listed in the original Glottolog tree
+    #e.g. Ligurian {Rapallo}, Italian {Grosseto}, Piemontese {Barbania}
+    #Note that they all include curly brackets in their names
+    #Check whether there are any such languoids by checking for NA indices
+    NA_langs <- which(is.na(node_indices))
+    if (length(NA_langs)>0) {
+      #Get the node index of the dialects' parent language by splitting by the " {"
+      #and finding a match with the first part
+      #e.g. "Piemontese {Barbania}" --> "Piemontese"
+      NA_names <- names(NA_langs)
+      split_names <- strsplit(NA_names, " \\{")
+      parents <- sapply(split_names, "[", 1)
+      parent_node_indices <- sapply(parents, grep, tree$node.label) 
+      parent_node_indices <- sapply(parent_node_indices, "[", 1)
+      parent_node_indices <- parent_node_indices + Ntip(tree)
+      for (i in seq(length(NA_langs))) {
+        node_indices[[NA_langs[[i]]]] <- parent_node_indices[[i]]
+      }
+    }
+    
+    
+    
     #Add the missing languages as tips of the tree under their own nodes
     tree <- multi.bind.tip(tree=tree,
                            names=missing_langs,
@@ -111,24 +134,33 @@ families <- c('Arabic',
 
 for (family in families) {
   
-  #Load tree for family
+  #Load original Glottolog tree for family
   tree <- read.newick(paste(local_dir, '/Gold/', family, '.tre', sep=""))
   
   #Plot the original Glottolog tree
-  plot(tree)
+  #plot(tree)
   
   #Extract data for this family
   family_data <- filter(lang_data, grepl(family, lang_data$Classification, fixed=TRUE))
   
   #Get list of languages included in family's dataset
-  langs <- as.vector(family_data$Glottolog.Name)
+  langs <- as.vector(family_data$Name)
+  
+  #Load the preprocessed Glottolog tree for family
+  preprocessed_tree <- read.newick(paste(local_dir, '/Gold/', family, '_preprocessed.tre', sep=""))
+  
+  #Plot the preprocessed tree before reformatting and pruning
+  #plot(preprocessed_tree)
   
   #Reformat the tree
-  new_tree <- reformat_tree(tree, langs)
+  new_tree <- reformat_tree(preprocessed_tree, langs)
   
-  #Plot the new tree if there are at least 2 tips (would raise error otherwise)
+  #Plot and save the new tree if there are at least 2 tips (would raise error otherwise)
   if (Ntip(new_tree) > 1) {
+    plot_path <- paste('Gold/Plots/', family, "_pruned.png", sep='')
+    png(filename=plot_path, width=960, height=960)
     plot(new_tree)
+    dev.off()
   }
   
   #Write the reformatted/pruned tree in Newick format
