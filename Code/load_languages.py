@@ -1,10 +1,10 @@
-import os, re
+import os, re, itertools
+from statistics import mean
 from collections import defaultdict
 from auxiliary_functions import csv_to_dict, strip_ch
 from pathlib import Path
 local_dir = Path(str(os.getcwd()))
 parent_dir = local_dir.parent
-grandparent_dir = parent_dir.parent
 
 class Dataset: 
     def __init__(self, filepath, name, 
@@ -38,12 +38,14 @@ class Dataset:
         #About the family
         self.name = name
         self.languages = {}
+        self.lang_ids = {}
         self.glottocodes = {}
         self.iso_codes = {}
-        self.load_data()
+        self.concepts = []
         self.cognate_sets = defaultdict(lambda:defaultdict(lambda:[]))
+        self.load_data()
         self.load_cognate_sets()
-        self.concepts = set(concept.split('_')[0] for concept in self.cognate_sets.keys())
+        self.mutual_coverage = self.calculate_mutual_coverage()
         
     def load_data(self, sep='\t'):
         #Load data file
@@ -62,6 +64,7 @@ class Dataset:
                 language_vocab_data[lang][i][feature] = value
             self.glottocodes[lang] = data[i][self.glottocode_c]
             self.iso_codes[lang] = data[i][self.iso_code_c]
+            self.lang_ids[lang] = data[i][self.id_c].split('_')[0]
         
         for lang in language_vocab_data:
             self.languages[lang] = Language(name=lang, data=language_vocab_data[lang],
@@ -71,8 +74,11 @@ class Dataset:
                                             orthography_c = self.orthography_c,
                                             concept_c = self.concept_c,
                                             glottocode=self.glottocodes[lang],
-                                            iso_code=self.iso_codes[lang], 
+                                            iso_code=self.iso_codes[lang],
+                                            lang_id=self.lang_ids[lang],
                                             loan_c=self.loan_c)
+            self.concepts.extend(self.languages[lang].vocabulary.keys())
+            self.concepts = list(set(self.concepts))
     
     def load_cognate_sets(self):
         """Creates vocabulary index sorted by cognate sets"""
@@ -113,8 +119,30 @@ class Dataset:
                     forms.append(variants_sep.join(lang_forms))
                 f.write(sep.join(forms))
                 f.write('\n')
-                
-                    
+    
+    def calculate_mutual_coverage(self):
+        #Calculate mutual coverage
+        concept_counts = defaultdict(lambda:0)
+        for lang in self.languages:
+            lang = self.languages[lang]
+            for concept in lang.vocabulary:
+                concept_counts[concept] += 1
+        common_concepts = [concept for concept in concept_counts
+                           if concept_counts[concept] == len(self.languages)]
+        mutual_coverage = len(common_concepts)
+        
+        #Calculate average mutual coverage
+        mutual_coverages = {}
+        for lang_pair in itertools.product(self.languages.keys(), self.languages.keys()):
+            lang1, lang2 = lang_pair
+            if lang1 != lang2:
+                lang1, lang2 = self.languages[lang1], self.languages[lang2]
+                pair_mutual_coverage = len([concept for concept in lang1.vocabulary 
+                                            if concept in lang2.vocabulary])
+                mutual_coverages[lang_pair] = pair_mutual_coverage
+        avg_mutual_coverage = mean(mutual_coverages.values()) / len(self.concepts)
+        
+        return mutual_coverage, avg_mutual_coverage
                     
                 
             
@@ -123,7 +151,7 @@ class Dataset:
         
 
 class Language(Dataset):
-    def __init__(self, name, data, glottocode, iso_code,
+    def __init__(self, name, lang_id, data, glottocode, iso_code,
                  segments_c='Segments', ipa_c='Form', 
                  orthography_c='Value', concept_c='Paramter_ID',
                  loan_c='Loan', id_c='ID'):
@@ -136,7 +164,9 @@ class Language(Dataset):
         self.concept_c = concept_c
         self.loan_c = loan_c
         
+        #Language data
         self.name = name
+        self.lang_id = lang_id
         self.glottocode = glottocode
         self.iso_code = iso_code
         self.data = data
@@ -180,28 +210,31 @@ class Language(Dataset):
                 self.loanwords[concept].append([orthography, ipa])
     
 
-
+#%%
 #LOAD FAMILIES AND WRITE VOCABULARY INDEX FILES
 datasets_path = str(parent_dir) + '/Datasets/'
 os.chdir(datasets_path)
 families = {}
-for family in ['Arabic', 'Balto-Slavic', 'Italic', 
+for family in ['Arabic', 'Balto-Slavic', 
+               'Hokan','Italic', 
                'Polynesian', 'Sinitic', 
                'Turkic', 'Uralic']:
     family_path = re.sub('-', '_', family).lower()
     filepath = datasets_path + family + f'/{family_path}_data.csv'
+    print(f'Loading {family}...')
     families[family] = Dataset(filepath, family)
     families[family].write_vocab_index()
     globals().update(families[family].languages)
 globals().update(families)
 
-#%%
-#GET COMMON GLOSSES
-concept_counts = defaultdict(lambda:0)
-for family in families:
-    family = families[family]
-    for concept in family.concepts:
-        concept_counts[concept] += 1
-common_concepts = sorted([concept for concept in concept_counts 
-                          if concept_counts[concept] == len(families)])
+#Exclude Võro, since it only has 1 word available, then recalculate mutual coverage
+del Uralic.languages['Võro']
+Uralic.mutual_coverage = Uralic.calculate_mutual_coverage()
+
+#Get lists and counts of languages/families
+all_languages = [families[family].languages[lang] for family in families 
+                 for lang in families[family].languages]
+all_families = [families[family] for family in families]
+total_languages = len(all_languages)
+total_families = len(all_families)
 

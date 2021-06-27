@@ -5,6 +5,7 @@ Bashkir,Bashkir,bash1264,Bashkir,bak,Eurasia,53.5967,56.5594,Turkic,248,280
 Chulym,Chulym,midd1324,Middle Chulym Turkic,clw,Eurasia,54.3209,89.5541,Turkic,234,250
 Chuvash,Chuvash,chuv1255,Chuvash,chv,Eurasia,55.487,47.163,Turkic,236,257
 CrimeanTatar,Crimean Tatar,crim1257,Crimean Tatar,crh,Eurasia,45.0,34.08,Turkic,245,276
+Cuman,Cuman,pech1242,Pecheneg,qwm,Eurasia,47.393251,33.522692,Turkic,215,268
 Dolgan,Dolgan,dolg1241,Dolgan,dlg,Eurasia,71.1083,94.2936,Turkic,225,240
 Gagauz,Gagauz,gaga1249,Gagauz,gag,Eurasia,44.5988,28.0277,Turkic,240,258
 Kara-Kalpak,Kara-Kalpak,kara1467,Kara-Kalpak,kaa,Eurasia,39.98,63.3223,Turkic,240,277
@@ -15,13 +16,12 @@ Khakas,Khakas,khak1248,Khakas,kjh,Eurasia,50.7393,107.169,Turkic,246,281
 Khalaj,Khalaj,turk1303,Turkic Khalaj,klj,Eurasia,34.4224,50.3222,Turkic,186,209
 Kumyk,Kumyk,kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic,248,267
 Kyrgyz,Kyrgyz,kirg1245,Kirghiz,kir,Eurasia,42.0,74.0,Turkic,248,279
-MiddleKipchak,Middle Kipchak,,,,Eurasia,,,Turkic,215,268
 Nogai,Nogai,noga1249,Nogai,nog,Eurasia,43.5917,46.6618,Turkic,252,290
 NorthernAltai,Northern Altai,chel1242,Chelkan,atv,Eurasia,50.8998,88.0672,Turkic,242,356
 OldTurkic,Old Turkic,oldu1238,Old Turkic,oui,Eurasia,42.852778,89.529167,Turkic,232,269
 Salar,Salar,sala1264,Salar,slr,Eurasia,35.5457,102.819,Turkic,218,277
 Shor,Shor,shor1247,Shor,cjs,Eurasia,52.3261,88.4344,Turkic,242,268
-SouthernAltai,Southern Altai,alta1277,Southern Altai,alt,Eurasia,50.1347,86.8705,Turkic,244,269
+SouthernAltai,Southern Altai,sout2694,Southern Altai,alt,Eurasia,50.1347,86.8705,Turkic,244,269
 Tatar,Tatar,kaza1250,Kazan Tatar,tat,Eurasia,55.796389,49.108889,Turkic,248,277
 Tofa,Tofa,tofa1248,Tofa,kim,Eurasia,53.75,98.0,Turkic,243,266
 Turkish,Turkish,nucl1301,Turkish,tur,Eurasia,39.8667,32.8667,Turkic,245,267

@@ -808,8 +808,8 @@ Dalmatian_WE_1	Dalmatian	dalm1243	dlm	WE	nojiltri	nojˈiltri	n o j ˈi l t r i	n
 Dalmatian_WHAT_1	Dalmatian	dalm1243	dlm	WHAT	kos	kos	k o s	kos	WHAT_1	FALSE		Some examples are: {ma nena mája ko vo fóte čako} "But mother, what are you doing here?" [Bartoli 2002: 230]; {kos te búle?} "what do you want?" [Bartoli 2002: 251]
 Dalmatian_WHAT_1	Dalmatian	dalm1243	dlm	WHAT	ko	ko	k o	ko	WHAT_1	FALSE		Some examples are: {ma nena mája ko vo fóte čako} "But mother, what are you doing here?" [Bartoli 2002: 230]; {kos te búle?} "what do you want?" [Bartoli 2002: 251]
 Dalmatian_WHITE_1	Dalmatian	dalm1243	dlm	WHITE	juálb	jwalb	j w a l b	ywalb	WHITE_1	FALSE	Cf. the examples: {Jaime de vain vetrún, juálb, fosc, ruass, dole, garb} "We have wine old, white, black, red, sweet, gentle} (Cubich) [Bartoli 2002: 288-289]; {fúrme un páuk de pun juálb e un páuk de niár: el juálb per mančur nói} "we will make a little white bread and a little brown: the white is for us" (Ive) [Bartoli 2002: 297-298]; {kak le avàs jon fazolét toč baṅk} "here people had a headscarf, all white"; {i kalzu͡ọni fero baṅk} "the pants were white" [Bartoli 2002: 232]; {Cost pélo jéra vestiát de blank: el avája la baréta ruássa atuarn el bragáun; la bareta jéra ruássa, el bragáun blank} "This child was dressed in white; he had a red cap and pants; the cap was red and the pants were white" (Ive) [Bartoli 2002: 299]; {jóin pélo cuón blank} "a little dog" (Ive) [Bartoli 2002: 299-300]. All the forms are used by Udina, so we treat them as synonyms.	In addition to the inherited term ywalb {juálb}, there is also a borrowing byaŋk {baṅk} ''white' and a word blaŋk {blaṅk} 'white', which is, according to Bartoli, a "dalmatianized" form of byaŋk [Bartoli 2002: 424]
-Dalmatian_WHITE_-1	Dalmatian	dalm1243	dlm	WHITE	baṅk	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE		See the discussion above
-Dalmatian_WHITE_-1	Dalmatian	dalm1243	dlm	WHITE	blaṅk	blaŋk	b l a ŋ k	blaŋk	WHITE_1	TRUE		See the discussion above
+Dalmatian_WHITE_-1	Dalmatian	dalm1243	dlm	WHITE	baṅk	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE		See the discussion above
+Dalmatian_WHITE_-1	Dalmatian	dalm1243	dlm	WHITE	blaṅk	blaŋk	b l a ŋ k	blaŋk	WHITE_2	TRUE		See the discussion above
 Dalmatian_WHO_1	Dalmatian	dalm1243	dlm	WHO	ku	ku	k u	ku	WHO_1	FALSE		The example is {kon kú?} "with whom?" [Bartoli 2002: 251]
 Dalmatian_WOMAN_1	Dalmatian	dalm1243	dlm	WOMAN	muľér	muʎˈer	m u ʎ ˈe r	muʎˈer	WOMAN_1	FALSE	Some examples are: {kák fero tu͡ọnta żant; jona kál fero tu͡ọnti jóṅ, ne la jultra kál fero tu͡ọnte muľér} "here are a lot of people, one part of us is a lot of men, the other is a lot of women" [Bartoli 2002: 251]; {toče le moľér stentúa: le arúa, le zapúa la tára toča kanta e i ómiṅ tenúa la píp iṅ bák e kosák i stùa da gardúrle} "all the women work; they plow, they dig all the ground and the men keep the pipes in their mouths and so they stand watching" [Bartoli 2002: 249].	Polysemy: 'woman / wife'
 Dalmatian_WOMAN_1	Dalmatian	dalm1243	dlm	WOMAN	moľér	moʎˈer	m o ʎ ˈe r	moʎˈer	WOMAN_1	FALSE	Some examples are: {kák fero tu͡ọnta żant; jona kál fero tu͡ọnti jóṅ, ne la jultra kál fero tu͡ọnte muľér} "here are a lot of people, one part of us is a lot of men, the other is a lot of women" [Bartoli 2002: 251]; {toče le moľér stentúa: le arúa, le zapúa la tára toča kanta e i ómiṅ tenúa la píp iṅ bák e kosák i stùa da gardúrle} "all the women work; they plow, they dig all the ground and the men keep the pipes in their mouths and so they stand watching" [Bartoli 2002: 249].	Polysemy: 'woman / wife'
@@ -923,7 +923,7 @@ Friulian_WARM (OF WEATHER)_1	Friulian	friu1240	fur	WARM (OF WEATHER)	cjalt	calt	
 Friulian_WATER_1	Friulian	friu1240	fur	WATER	aghe	ˈaɡe	ˈa ɡ e	ˈag-e	WATER_1	FALSE		Decorte 2015; Virili 2015; Pirona 1871: 650, 3-4
 Friulian_WE_1	Friulian	friu1240	fur	WE	nô	noː	n oː	noː	WE_1	FALSE	Less frequent is the form no-ˈaltr-is {noaltris} 'we' [Decorte 2015]. Paradigm: noː {nô} ~ noˈaltris {noaltris} ~ o {o} (clitic) [nom.] / a=noˈaltris {a noaltris} [dat.] / noː {nô} ~ noˈaltris {noaltris} ~ nus {nus} (clitic) [acc.].	Decorte 2015; Virili 2015; Pirona 1871: 686, 271; Haiman & Benincà 1992: 115, 120; Narumov & Sukhachev 2001: 381-382
 Friulian_WHAT_1	Friulian	friu1240	fur	WHAT	ce	ʧe	ʧ e	če	WHAT_1	FALSE		Decorte 2015; Virili 2015; Pirona 1871: 57
-Friulian_WHITE_-1	Friulian	friu1240	fur	WHITE	blanc	blaŋk	b l a ŋ k	blaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Decorte 2015; Virili 2015; Pirona 1871: 656, 26
+Friulian_WHITE_-1	Friulian	friu1240	fur	WHITE	blanc	blaŋk	b l a ŋ k	blaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Decorte 2015; Virili 2015; Pirona 1871: 656, 26
 Friulian_WHO_1	Friulian	friu1240	fur	WHO	cui	kuj	k u j	kuy	WHO_1	FALSE		Decorte 2015; Virili 2015; Pirona 1871: 662, 91
 Friulian_WOMAN_2	Friulian	friu1240	fur	WOMAN	femine	fˈɛmine	f ˈɛ m i n e	fˈɛmin-e	WOMAN_2	FALSE	Polysemy: 'woman / wife' [Virili 2015].	Decorte 2015; Virili 2015; Pirona 1871: 668, 156
 Friulian_YELLOW_-1	Friulian	friu1240	fur	YELLOW	zâl	ʤaːl	ʤ aː l	ǯaːl	YELLOW_2	TRUE	Borrowed from Italian {giallo} 'yellow' (< Old French {jalne} 'yellow').	Decorte 2015; Virili 2015; Pirona 1871: 674, 474
@@ -1040,7 +1040,7 @@ GardeneseLadin_WARM (OF WEATHER)_1	Ladin (Gardenese)	gard1241	lld	WARM (OF WEATH
 GardeneseLadin_WATER_1	Ladin (Gardenese)	gard1241	lld	WATER	ega	ˈɛɡa	ˈɛ ɡ a	ˈɛg-a	WATER_1	FALSE		Forni 2015; Gartner 1923: 28, 194
 GardeneseLadin_WE_1	Ladin (Gardenese)	gard1241	lld	WE	nëus	nəws	n ə w s	nəws	WE_1	FALSE	Paradigm: nəws {nëus} [nom.] / nəws {nëus} ~ nes {nes} (clitic) [obl.].	Forni 2015; Gartner 1923: 60; Narumov: 405
 GardeneseLadin_WHAT_1	Ladin (Gardenese)	gard1241	lld	WHAT	cie	ʧə	ʧ ə	čə	WHAT_1	FALSE		Forni 2015; Gartner 1923: 195
-GardeneseLadin_WHITE_-1	Ladin (Gardenese)	gard1241	lld	WHITE	blanch	blaŋk	b l a ŋ k	blaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Forni 2015; Gartner 1923: 17, 195
+GardeneseLadin_WHITE_-1	Ladin (Gardenese)	gard1241	lld	WHITE	blanch	blaŋk	b l a ŋ k	blaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Forni 2015; Gartner 1923: 17, 195
 GardeneseLadin_WHO_1	Ladin (Gardenese)	gard1241	lld	WHO	chi	ki	k i	ki	WHO_1	FALSE		Forni 2015; Gartner 1923: 39, 196
 GardeneseLadin_WOMAN_4	Ladin (Gardenese)	gard1241	lld	WOMAN	ëila	ˈəjla	ˈə j l a	ˈəyl-a	WOMAN_4	FALSE	Goes back to the Latin {illa} 'that / she'. Distinct from fˈən-a {fëna} 'wife' [Forni 2015].	Forni 2015; Gartner 1923: 12
 GardeneseLadin_YELLOW_-1	Ladin (Gardenese)	gard1241	lld	YELLOW	ghiel	ɡjəl	ɡ j ə l	gyəl	YELLOW_2	TRUE	Borrowed from German {gelb}, not derived from Latin {galbinus} (cf. normal phonetic development in the word ǯˈam-a {giama} 'leg' < Vulgar Latin {gamba}).	Forni 2015; Gartner 1923: 34, 141
@@ -1157,7 +1157,7 @@ FassanoLadin_WARM (OF WEATHER)_1	Ladin (Fassano)	fass1244	lld	WARM (OF WEATHER)	
 FassanoLadin_WATER_1	Ladin (Fassano)	fass1244	lld	WATER	èga	ˈɛɡa	ˈɛ ɡ a	ˈɛg-a	WATER_1	FALSE		DILF 2001: 9
 FassanoLadin_WE_1	Ladin (Fassano)	fass1244	lld	WE	nos	nos	n o s	nos	WE_1	FALSE	Paradigm: nos {nos} [nom.] / nos {nos} ~ ne {ne} (clitic) [obl.].	DILF 2001: 196; Haiman & Benincà 1992: 114, 119
 FassanoLadin_WHAT_1	Ladin (Fassano)	fass1244	lld	WHAT	che...pa	kepa	k e p a	ke-pa	WHAT_1	FALSE	A discontinuous pronoun, cf. {che fèste pa?} "what are you doing?" [DILF 2001: 60].	DILF 2001: 60-61
-FassanoLadin_WHITE_-1	Ladin (Fassano)	fass1244	lld	WHITE	biạnch	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	DILF 2001: 44
+FassanoLadin_WHITE_-1	Ladin (Fassano)	fass1244	lld	WHITE	biạnch	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	DILF 2001: 44
 FassanoLadin_WHO_1	Ladin (Fassano)	fass1244	lld	WHO	chi...pa	kipa	k i p a	ki-pa	WHO_1	FALSE	A discontinuous pronoun, see 'what'.	DILF 2001: 61
 FassanoLadin_WOMAN_2	Ladin (Fassano)	fass1244	lld	WOMAN	fémena	fˈemena	f ˈe m e n a	fˈemen-a	WOMAN_2	FALSE	Polysemy: 'woman / wife'.	DILF 2001: 97
 FassanoLadin_YELLOW_-1	Ladin (Fassano)	fass1244	lld	YELLOW	śal	zal	z a l	zal	YELLOW_2	TRUE	Borrowed from some Romance source, not derived from Latin {galbinus} (cf. normal phonetic development in the word ǯˈam-a {giama} 'leg' < Vulgar Latin {gamba}).	DILF 2001: 128
@@ -1739,7 +1739,7 @@ LanzoTorinesePiemontese_WARM (OF WEATHER)_2	Piemontese (Lanzo Torinese)	piem1238
 LanzoTorinesePiemontese_WATER_1	Piemontese (Lanzo Torinese)	piem1238	pms	WATER	eva	ˈeva	ˈe v a	ˈev-a	WATER_1	FALSE		Gisolo 2015; Brero 1976: 4
 LanzoTorinesePiemontese_WE_1	Piemontese (Lanzo Torinese)	piem1238	pms	WE	noi	nuj	n u j	nuy	WE_1	FALSE		Gisolo 2015; Brero 1976: 214
 LanzoTorinesePiemontese_WHAT_2	Piemontese (Lanzo Torinese)	piem1238	pms	WHAT	còsa	kˈɔza	k ˈɔ z a	kˈɔza	WHAT_2	FALSE		Gisolo 2015
-LanzoTorinesePiemontese_WHITE_-1	Piemontese (Lanzo Torinese)	piem1238	pms	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Gisolo 2015; Brero 1976: 33
+LanzoTorinesePiemontese_WHITE_-1	Piemontese (Lanzo Torinese)	piem1238	pms	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Gisolo 2015; Brero 1976: 33
 LanzoTorinesePiemontese_WHO_1	Piemontese (Lanzo Torinese)	piem1238	pms	WHO	chi	ki	k i	ki	WHO_1	FALSE		Gisolo 2015; Brero 1976: 52
 LanzoTorinesePiemontese_WOMAN_2	Piemontese (Lanzo Torinese)	piem1238	pms	WOMAN	fomna	fˈumna	f ˈu m n a	fˈumn-a	WOMAN_2	FALSE	Polysemy: 'woman / wife'.	Gisolo 2015; Brero 1976: 97-98
 LanzoTorinesePiemontese_YELLOW_-1	Piemontese (Lanzo Torinese)	piem1238	pms	YELLOW	giàun	ʤawŋ	ʤ a w ŋ	ǯawŋ	YELLOW_2	TRUE	Borrowed from Old French {jalne}.	Gisolo 2015; Brero 1976: 139
@@ -1855,7 +1855,7 @@ BarbaniaPiemontese_WATER_1	Piemontese (Barbania)	piem1238	pms	WATER	èva	ˈɛva	
 BarbaniaPiemontese_WE_1	Piemontese (Barbania)	piem1238	pms	WE	noi	nuj	n u j	nuy	WE_1	FALSE		Fiandro 2015; Brero 1976: 214
 BarbaniaPiemontese_WE_1	Piemontese (Barbania)	piem1238	pms	WE	noiautri	nujˈawtri	n u j ˈa w t r i	nuy-ˈawtr-i	WE_1	FALSE		Fiandro 2015; Brero 1976: 214
 BarbaniaPiemontese_WHAT_2	Piemontese (Barbania)	piem1238	pms	WHAT	còsa	kˈɔza	k ˈɔ z a	kˈɔza	WHAT_2	FALSE		Fiandro 2015
-BarbaniaPiemontese_WHITE_-1	Piemontese (Barbania)	piem1238	pms	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Fiandro 2015; Brero 1976: 33
+BarbaniaPiemontese_WHITE_-1	Piemontese (Barbania)	piem1238	pms	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Fiandro 2015; Brero 1976: 33
 BarbaniaPiemontese_WHO_1	Piemontese (Barbania)	piem1238	pms	WHO	chi	ki	k i	ki	WHO_1	FALSE		Fiandro 2015; Brero 1976: 52
 BarbaniaPiemontese_WOMAN_2	Piemontese (Barbania)	piem1238	pms	WOMAN	fomna	fˈumna	f ˈu m n a	fˈumn-a	WOMAN_2	FALSE	Polysemy: 'woman / wife'. Distinct from spˈuz-a {sposa} 'wife' [Fiandro 2015].	Fiandro 2015; Brero 1976: 97-98
 BarbaniaPiemontese_YELLOW_-1	Piemontese (Barbania)	piem1238	pms	YELLOW	giaun	ʤawŋ	ʤ a w ŋ	ǯawŋ	YELLOW_2	TRUE	Borrowed from Old French {jalne}.	Fiandro 2015; Brero 1976: 139
@@ -1968,7 +1968,7 @@ CarmagnolaPiemontese_WARM (OF WEATHER)_1	Piemontese (Carmagnola)	piem1238	pms	WA
 CarmagnolaPiemontese_WATER_1	Piemontese (Carmagnola)	piem1238	pms	WATER	eva	ˈeva	ˈe v a	ˈev-a	WATER_1	FALSE		Sanero 2015
 CarmagnolaPiemontese_WE_1	Piemontese (Carmagnola)	piem1238	pms	WE	noi	nuj	n u j	nuy	WE_1	FALSE		Sanero 2015
 CarmagnolaPiemontese_WHAT_2	Piemontese (Carmagnola)	piem1238	pms	WHAT	còsa	kˈɔza	k ˈɔ z a	kˈɔza	WHAT_2	FALSE		Sanero 2015
-CarmagnolaPiemontese_WHITE_-1	Piemontese (Carmagnola)	piem1238	pms	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Sanero 2015
+CarmagnolaPiemontese_WHITE_-1	Piemontese (Carmagnola)	piem1238	pms	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Sanero 2015
 CarmagnolaPiemontese_WHO_1	Piemontese (Carmagnola)	piem1238	pms	WHO	chi	ki	k i	ki	WHO_1	FALSE		Sanero 2015
 CarmagnolaPiemontese_WOMAN_2	Piemontese (Carmagnola)	piem1238	pms	WOMAN	fomna	fˈumna	f ˈu m n a	fˈumn-a	WOMAN_2	FALSE	Polysemy: 'woman / wife'.	Sanero 2015
 CarmagnolaPiemontese_YELLOW_-1	Piemontese (Carmagnola)	piem1238	pms	YELLOW	giàun	ʤawŋ	ʤ a w ŋ	ǯawŋ	YELLOW_2	TRUE	Borrowed from Old French {jalne}.	Sanero 2015
@@ -2089,7 +2089,7 @@ TurinesePiemontese_WATER_1	Piemontese (Turinese)	turi1245	pms	WATER	eva	ˈeva	ˈ
 TurinesePiemontese_WE_1	Piemontese (Turinese)	turi1245	pms	WE	noi	nuj	n u j	nuy	WE_1	FALSE		Davico 2016
 TurinesePiemontese_WHAT_2	Piemontese (Turinese)	turi1245	pms	WHAT	cosa	kˈɔza	k ˈɔ z a	kˈɔza	WHAT_2	FALSE		Davico 2016
 TurinesePiemontese_WHAT_2	Piemontese (Turinese)	turi1245	pms	WHAT	cò	kɔ	k ɔ	kɔ	WHAT_2	FALSE		Davico 2016
-TurinesePiemontese_WHITE_-1	Piemontese (Turinese)	turi1245	pms	WHITE	bianc	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Davico 2016
+TurinesePiemontese_WHITE_-1	Piemontese (Turinese)	turi1245	pms	WHITE	bianc	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Davico 2016
 TurinesePiemontese_WHO_1	Piemontese (Turinese)	turi1245	pms	WHO	chi	ki	k i	ki	WHO_1	FALSE		Davico 2016
 TurinesePiemontese_WOMAN_5	Piemontese (Turinese)	turi1245	pms	WOMAN	dona	dˈɔna	d ˈɔ n a	dˈɔn-a	WOMAN_5	FALSE	The term fˈumn-a {fomna} 'wife' can be occasionally used in the meaning 'woman' as well.	Davico 2016
 TurinesePiemontese_YELLOW_-1	Piemontese (Turinese)	turi1245	pms	YELLOW	giaun	ʤawŋ	ʤ a w ŋ	ǯawŋ	YELLOW_2	TRUE	Borrowed from Old French {jalne}.	Davico 2016
@@ -2205,7 +2205,7 @@ VercellesePiemontese_WARM (OF WEATHER)_1	Piemontese (Vercellese)	piem1238	pms	WA
 VercellesePiemontese_WATER_1	Piemontese (Vercellese)	piem1238	pms	WATER		ˈakwa	ˈa k w a	ˈakw-a	WATER_1	FALSE		Noris 2015
 VercellesePiemontese_WE_1	Piemontese (Vercellese)	piem1238	pms	WE		nyj	n y j	nüy	WE_1	FALSE	Paradigm: nüy ~ i (clitic) [nom.] / ni [dat.] / aŋ [acc.].	Noris 2015
 VercellesePiemontese_WHAT_1	Piemontese (Vercellese)	piem1238	pms	WHAT		kwɛ	k w ɛ	kwɛ	WHAT_1	FALSE		Noris 2015
-VercellesePiemontese_WHITE_-1	Piemontese (Vercellese)	piem1238	pms	WHITE		bjaːŋk	b j aː ŋ k	byaːŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Noris 2015
+VercellesePiemontese_WHITE_-1	Piemontese (Vercellese)	piem1238	pms	WHITE		bjaːŋk	b j aː ŋ k	byaːŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Noris 2015
 VercellesePiemontese_WHO_1	Piemontese (Vercellese)	piem1238	pms	WHO		ki	k i	ki	WHO_1	FALSE		Noris 2015
 VercellesePiemontese_WOMAN_5	Piemontese (Vercellese)	piem1238	pms	WOMAN		dˈɔːna	d ˈɔː n a	dˈɔːn-a	WOMAN_5	FALSE	Polysemy: 'woman / wife'.	Noris 2015
 VercellesePiemontese_YELLOW_-1	Piemontese (Vercellese)	piem1238	pms	YELLOW		ʤalt	ʤ a l t	ǯalt	YELLOW_2	TRUE	Borrowed from Old French {jalne}.	Noris 2015
@@ -2322,7 +2322,7 @@ BergamoLombard_WARM (OF WEATHER)_1	Lombard (Bergamo)	berg1241	lmo	WARM (OF WEATH
 BergamoLombard_WATER_1	Lombard (Bergamo)	berg1241	lmo	WATER	acqua	ˈakːwa	ˈa kː w a	ˈakːw-a	WATER_1	FALSE	Polysemy: 'water / rain'.	Garlini 2015
 BergamoLombard_WE_1	Lombard (Bergamo)	berg1241	lmo	WE	nóter	nˈoter	n ˈo t e r	nˈo-ter	WE_1	FALSE		Garlini 2015
 BergamoLombard_WHAT_2	Lombard (Bergamo)	berg1241	lmo	WHAT	cozè	kozˈɛ	k o z ˈɛ	kozˈɛ	WHAT_2	FALSE		Garlini 2015
-BergamoLombard_WHITE_-1	Lombard (Bergamo)	berg1241	lmo	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Garlini 2015
+BergamoLombard_WHITE_-1	Lombard (Bergamo)	berg1241	lmo	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Garlini 2015
 BergamoLombard_WHO_1	Lombard (Bergamo)	berg1241	lmo	WHO	chi	ki	k i	ki	WHO_1	FALSE		Garlini 2015
 BergamoLombard_WOMAN_2	Lombard (Bergamo)	berg1241	lmo	WOMAN	fènne	fˈɛnːe	f ˈɛ nː e	fˈɛnː-e	WOMAN_2	FALSE	Distinct from fˈonː-a {fónna} 'wife' [Garlini 2015].	Garlini 2015
 BergamoLombard_YELLOW_-1	Lombard (Bergamo)	berg1241	lmo	YELLOW	zàlt	zalt	z a l t	zalt	YELLOW_2	TRUE	Borrowed from Old French {jalne} 'yellow'.	Garlini 2015
@@ -2434,7 +2434,7 @@ PlesioLombard_WARM (OF WEATHER)_1	Lombard (Plesio)	west2343	lmo	WARM (OF WEATHER
 PlesioLombard_WATER_1	Lombard (Plesio)	west2343	lmo	WATER	acqua	ˈakːwa	ˈa kː w a	ˈakːw-a	WATER_1	FALSE	Polysemy: 'water / rain'.	Selva 2015
 PlesioLombard_WE_1	Lombard (Plesio)	west2343	lmo	WE	nün	nyŋ	n y ŋ	nüŋ	WE_1	FALSE	Paradigm: nüŋ {nün} [nom.] / me {me} ~ nüŋ {nün} [obl.].	Selva 2015
 PlesioLombard_WHAT_2	Lombard (Plesio)	west2343	lmo	WHAT	cusa	kˈuza	k ˈu z a	kˈuza	WHAT_2	FALSE		Selva 2015
-PlesioLombard_WHITE_-1	Lombard (Plesio)	west2343	lmo	WHITE	bianch	bjaːŋk	b j aː ŋ k	byaːŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Selva 2015
+PlesioLombard_WHITE_-1	Lombard (Plesio)	west2343	lmo	WHITE	bianch	bjaːŋk	b j aː ŋ k	byaːŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Selva 2015
 PlesioLombard_WHO_1	Lombard (Plesio)	west2343	lmo	WHO	chi	ki	k i	ki	WHO_1	FALSE		Selva 2015
 PlesioLombard_WOMAN_5	Lombard (Plesio)	west2343	lmo	WOMAN	dona	dˈona	d ˈo n a	dˈon-a	WOMAN_5	FALSE	Polysemy: 'woman / wife'.	Selva 2015
 PlesioLombard_YELLOW_-1	Lombard (Plesio)	west2343	lmo	YELLOW	giald	ʤaːlt	ʤ aː l t	ǯaːlt	YELLOW_2	TRUE	Borrowed from Old French {jalne} 'yellow'.	Selva 2015
@@ -2547,7 +2547,7 @@ RavennateRomagnol_WARM (OF WEATHER)_1	Romagnol	roma1328	rgn	WARM (OF WEATHER)	ch
 RavennateRomagnol_WATER_1	Romagnol	roma1328	rgn	WATER	acva	ˈakva	ˈa k v a	ˈakv-a	WATER_1	FALSE		Ercolani 1960: 3-4
 RavennateRomagnol_WE_1	Romagnol	roma1328	rgn	WE	nô	now	n o w	now	WE_1	FALSE	Marchigiano: nɔ {nò} 'we' [Pucci 2015].	Ercolani 1960: 278
 RavennateRomagnol_WHAT_1	Romagnol	roma1328	rgn	WHAT	che	ke	k e	ke	WHAT_1	FALSE	Marchigiano: kɔ {cò} 'what' [Pucci 2015].	Ercolani 1960: 91
-RavennateRomagnol_WHITE_-1	Romagnol	roma1328	rgn	WHITE	biânc	bjãnk	b j ã n k	byãnk	WHITE_1	TRUE	An old borrowing from some Germanic source. Marchigiano: byaŋk {bianc} 'white' [Pucci 2015].	Ercolani 1960: 46
+RavennateRomagnol_WHITE_-1	Romagnol	roma1328	rgn	WHITE	biânc	bjãnk	b j ã n k	byãnk	WHITE_2	TRUE	An old borrowing from some Germanic source. Marchigiano: byaŋk {bianc} 'white' [Pucci 2015].	Ercolani 1960: 46
 RavennateRomagnol_WHO_1	Romagnol	roma1328	rgn	WHO	chi	ki	k i	ki	WHO_1	FALSE	Marchigiano: ki {chì} 'who' [Pucci 2015].	Ercolani 1960: 92
 RavennateRomagnol_WOMAN_5	Romagnol	roma1328	rgn	WOMAN	dóna	dˈona	d ˈo n a	dˈon-a	WOMAN_5	FALSE	Distinct from moy {mój} 'wife' [Ercolani 1960: 266]. Marchigiano: dˈɔn-a {dòna} 'woman' [Pucci 2015].	Ercolani 1960: 131-132
 RavennateRomagnol_YELLOW_-1	Romagnol	roma1328	rgn	YELLOW	ẓal	ʒal	ʒ a l	ʒal	YELLOW_2	TRUE	Borrowed from Old French {jalne}.	Ercolani 1960: 500
@@ -2659,7 +2659,7 @@ FerrareseEmiliano_WARM (OF WEATHER)_1	Emiliano (Ferrarese)	east2275	egl	WARM (OF
 FerrareseEmiliano_WATER_1	Emiliano (Ferrarese)	east2275	egl	WATER	aqua	ˈakwa	ˈa k w a	ˈakw-a	WATER_1	FALSE		Piacentini 2015
 FerrareseEmiliano_WHAT_2	Emiliano (Ferrarese)	east2275	egl	WHAT	cusa	kˈuza	k ˈu z a	kˈuza	WHAT_2	FALSE		Piacentini 2015
 FerrareseEmiliano_WHAT_2	Emiliano (Ferrarese)	east2275	egl	WHAT	'sa	za	z a	za	WHAT_2	FALSE		Piacentini 2015
-FerrareseEmiliano_WHITE_-1	Emiliano (Ferrarese)	east2275	egl	WHITE	bianc	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Piacentini 2015
+FerrareseEmiliano_WHITE_-1	Emiliano (Ferrarese)	east2275	egl	WHITE	bianc	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Piacentini 2015
 FerrareseEmiliano_WHO_1	Emiliano (Ferrarese)	east2275	egl	WHO	chi	ki	k i	ki	WHO_1	FALSE		Piacentini 2015
 FerrareseEmiliano_WOMAN_5	Emiliano (Ferrarese)	east2275	egl	WOMAN	dòna	dˈɔna	d ˈɔ n a	dˈɔn-a	WOMAN_5	FALSE	Distinct from muyˈɛr {muièr} 'wife' [Piacentini 2015].	Piacentini 2015
 FerrareseEmiliano_YELLOW_-1	Emiliano (Ferrarese)	east2275	egl	YELLOW	zal	ʒal	ʒ a l	ʒal	YELLOW_2	TRUE	Borrowed from Old French {jalne}.	Piacentini 2015
@@ -2775,7 +2775,7 @@ CarpigianoEmiliano_WE_1	Emiliano (Carpigiano)	emil1241	egl	WE	nuèter	nuˈɛter	
 CarpigianoEmiliano_WE_2	Emiliano (Carpigiano)	emil1241	egl	WE	se	se	s e	se	WE_2	FALSE		Oblique stem
 CarpigianoEmiliano_WHAT_2	Emiliano (Carpigiano)	emil1241	egl	WHAT	cuśa	kˈuza	k ˈu z a	kˈuza	WHAT_2	FALSE		Sacchi 2015
 CarpigianoEmiliano_WHAT_2	Emiliano (Carpigiano)	emil1241	egl	WHAT	sa	sa	s a	sa	WHAT_2	FALSE		Sacchi 2015
-CarpigianoEmiliano_WHITE_-1	Emiliano (Carpigiano)	emil1241	egl	WHITE	biànc	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Sacchi 2015
+CarpigianoEmiliano_WHITE_-1	Emiliano (Carpigiano)	emil1241	egl	WHITE	biànc	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Sacchi 2015
 CarpigianoEmiliano_WHO_1	Emiliano (Carpigiano)	emil1241	egl	WHO	chi	ki	k i	ki	WHO_1	FALSE		Sacchi 2015
 CarpigianoEmiliano_WOMAN_5	Emiliano (Carpigiano)	emil1241	egl	WOMAN	dòna	dˈɔna	d ˈɔ n a	dˈɔn-a	WOMAN_5	FALSE	Distinct from muyˈer {mujér} ~ muyˈer-a {mujéra} 'wife' and spˈoz-a {spóśa} 'wife' [Sacchi 2015].	Sacchi 2015
 CarpigianoEmiliano_YELLOW_-1	Emiliano (Carpigiano)	emil1241	egl	YELLOW	śâl	zaːl	z aː l	zaːl	YELLOW_2	TRUE	Borrowed from Old French {jalne}.	Sacchi 2015
@@ -2898,7 +2898,7 @@ ReggianoEmiliano_WATER_1	Emiliano (Reggiano)	cent1959	egl	WATER	âcva	ˈaːkva	�
 ReggianoEmiliano_WATER_1	Emiliano (Reggiano)	cent1959	egl	WATER	âqua	ˈaːkwa	ˈaː k w a	ˈaːkw-a	WATER_1	FALSE	Polysemy: 'water / rain'.	Chertein 2015
 ReggianoEmiliano_WE_1	Emiliano (Reggiano)	cent1959	egl	WE	nuêter	nuˈɛːter	n u ˈɛː t e r	nu-ˈɛːter	WE_1	FALSE		Chertein 2015
 ReggianoEmiliano_WHAT_2	Emiliano (Reggiano)	cent1959	egl	WHAT	csâ	ksaː	k s aː	ksaː	WHAT_2	FALSE		Chertein 2015
-ReggianoEmiliano_WHITE_-1	Emiliano (Reggiano)	cent1959	egl	WHITE	biânch	bjaːŋk	b j aː ŋ k	byaːŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Chertein 2015
+ReggianoEmiliano_WHITE_-1	Emiliano (Reggiano)	cent1959	egl	WHITE	biânch	bjaːŋk	b j aː ŋ k	byaːŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Chertein 2015
 ReggianoEmiliano_WHO_1	Emiliano (Reggiano)	cent1959	egl	WHO	chi	ki	k i	ki	WHO_1	FALSE		Chertein 2015
 ReggianoEmiliano_WOMAN_5	Emiliano (Reggiano)	cent1959	egl	WOMAN	dòna	dˈɔna	d ˈɔ n a	dˈɔn-a	WOMAN_5	FALSE	Distinct from muyˈer-a {mujera} 'wife' and spˈɔwz-a {spòuša} 'wife' [Chertein 2015].	Chertein 2015
 ReggianoEmiliano_YELLOW_-1	Emiliano (Reggiano)	cent1959	egl	YELLOW	zâl	ʒaːl	ʒ aː l	ʒaːl	YELLOW_2	TRUE	Borrowed from Old French {jalne}.	Chertein 2015
@@ -3011,7 +3011,7 @@ RapalloLigurian_WARM (OF WEATHER)_1	Ligurian (Rapallo)	ligu1248	lij	WARM (OF WEA
 RapalloLigurian_WATER_1	Ligurian (Rapallo)	ligu1248	lij	WATER		ˈɛːɡwa	ˈɛː ɡ w a	ˈäːgw-a	WATER_1	FALSE		Fasce 2015
 RapalloLigurian_WE_1	Ligurian (Rapallo)	ligu1248	lij	WE		nuˈi	n u ˈi	nuˈi	WE_1	FALSE	The oblique form is ne.	Fasce 2015
 RapalloLigurian_WHAT_2	Ligurian (Rapallo)	ligu1248	lij	WHAT		kosːˈe	k o sː ˈe	kosːˈe	WHAT_2	FALSE		Fasce 2015
-RapalloLigurian_WHITE_-1	Ligurian (Rapallo)	ligu1248	lij	WHITE		ʤˈaːŋku	ʤ ˈaː ŋ k u	ǯˈaːŋk-u	WHITE_1	TRUE	An old borrowing from some Germanic source.	Fasce 2015
+RapalloLigurian_WHITE_-1	Ligurian (Rapallo)	ligu1248	lij	WHITE		ʤˈaːŋku	ʤ ˈaː ŋ k u	ǯˈaːŋk-u	WHITE_2	TRUE	An old borrowing from some Germanic source.	Fasce 2015
 RapalloLigurian_WHO_1	Ligurian (Rapallo)	ligu1248	lij	WHO		ki	k i	ki	WHO_1	FALSE		Fasce 2015
 RapalloLigurian_WOMAN_5	Ligurian (Rapallo)	ligu1248	lij	WOMAN		dˈonːa	d ˈo nː a	dˈonː-a	WOMAN_5	FALSE	Distinct from mowǯ-ˈɛ 'wife'.	Fasce 2015
 RapalloLigurian_YELLOW_-1	Ligurian (Rapallo)	ligu1248	lij	YELLOW		ʤˈalːu	ʤ ˈa lː u	ǯˈalː-u	YELLOW_2	TRUE	Borrowed from Old French {jalne} 'yellow' via Italian {giallo} 'yellow'.	Fasce 2015
@@ -3122,7 +3122,7 @@ GenoeseLigurian_WARM (OF WEATHER)_2	Ligurian (Genoese)	geno1240	lij	WARM (OF WEA
 GenoeseLigurian_WATER_1	Ligurian (Genoese)	geno1240	lij	WATER	êgua	ˈeːɡwa	ˈeː ɡ w a	ˈeːgw-a	WATER_1	FALSE	Polysemy: 'water / rain'.	Parodi 2015
 GenoeseLigurian_WE_1	Ligurian (Genoese)	geno1240	lij	WE	nuîatri	nuiːˈatri	n u iː ˈa t r i	nuiː-ˈatr-i	WE_1	FALSE	The oblique form is ne {ne} ~ n {n'} (before a vowel).	Parodi 2015
 GenoeseLigurian_WHAT_2	Ligurian (Genoese)	geno1240	lij	WHAT	cose	kˈose	k ˈo s e	kˈose	WHAT_2	FALSE		Parodi 2015
-GenoeseLigurian_WHITE_-1	Ligurian (Genoese)	geno1240	lij	WHITE	giàncǒ	ʤˈaŋku	ʤ ˈa ŋ k u	ǯˈaŋk-u	WHITE_1	TRUE	An old borrowing from some Germanic source.	Parodi 2015
+GenoeseLigurian_WHITE_-1	Ligurian (Genoese)	geno1240	lij	WHITE	giàncǒ	ʤˈaŋku	ʤ ˈa ŋ k u	ǯˈaŋk-u	WHITE_2	TRUE	An old borrowing from some Germanic source.	Parodi 2015
 GenoeseLigurian_WHO_1	Ligurian (Genoese)	geno1240	lij	WHO	chi	ki	k i	ki	WHO_1	FALSE		Parodi 2015
 GenoeseLigurian_WOMAN_5	Ligurian (Genoese)	geno1240	lij	WOMAN	dönna	dˈønːa	d ˈø nː a	dˈönː-a	WOMAN_5	FALSE	Distinct from muǯ-ˈe {mǒgé} 'wife'.	Parodi 2015
 GenoeseLigurian_YELLOW_-1	Ligurian (Genoese)	geno1240	lij	YELLOW	giànǒ	ʤˈanu	ʤ ˈa n u	ǯˈan-u	YELLOW_2	TRUE	Borrowed from Old French {jalne} 'yellow'.	Parodi 2015
@@ -3237,7 +3237,7 @@ StellaLigurian_WARM (OF WEATHER)_2	Ligurian (Stella)	ligu1248	lij	WARM (OF WEATH
 StellaLigurian_WATER_1	Ligurian (Stella)	ligu1248	lij	WATER	ǽgua	ˈɛːɡwa	ˈɛː ɡ w a	ˈäːgw-a	WATER_1	FALSE	Polysemy: 'water / rain'.	Piccone 2015
 StellaLigurian_WE_1	Ligurian (Stella)	ligu1248	lij	WE	nuiàtri	nɥiˈatri	n ɥ i ˈa t r i	nɥi-ˈatr-i	WE_1	FALSE	The oblique form is ne {ne} ~ n {n'} (before a vowel).	Piccone 2015
 StellaLigurian_WHAT_2	Ligurian (Stella)	ligu1248	lij	WHAT	côsse	kˈoːsːe	k ˈoː sː e	kˈoːsːe	WHAT_2	FALSE		Piccone 2015
-StellaLigurian_WHITE_-1	Ligurian (Stella)	ligu1248	lij	WHITE	giancu	ʤˈaːŋku	ʤ ˈaː ŋ k u	ǯˈaːŋk-u	WHITE_1	TRUE	An old borrowing from some Germanic source.	Piccone 2015
+StellaLigurian_WHITE_-1	Ligurian (Stella)	ligu1248	lij	WHITE	giancu	ʤˈaːŋku	ʤ ˈaː ŋ k u	ǯˈaːŋk-u	WHITE_2	TRUE	An old borrowing from some Germanic source.	Piccone 2015
 StellaLigurian_WHO_1	Ligurian (Stella)	ligu1248	lij	WHO	chì	ki	k i	ki	WHO_1	FALSE		Piccone 2015
 StellaLigurian_WOMAN_5	Ligurian (Stella)	ligu1248	lij	WOMAN	dônna	dˈoːnːa	d ˈoː nː a	dˈoːnː-a	WOMAN_5	FALSE	Distinct from muy-ˈe {muié} 'wife'.	Piccone 2015
 StellaLigurian_YELLOW_-1	Ligurian (Stella)	ligu1248	lij	YELLOW	giȃnu	ʤˈaːnu	ʤ ˈaː n u	ǯˈaːn-u	YELLOW_2	TRUE	Borrowed from Old French {jalne} 'yellow'.	Piccone 2015
@@ -3368,7 +3368,7 @@ VeniceVenetian_WARM (OF WEATHER)_2	Venetian (Venice)	vene1259	vec	WARM (OF WEATH
 VeniceVenetian_WATER_1	Venetian (Venice)	vene1259	vec	WATER	àqua	ˈakwa	ˈa k w a	ˈakw-a	WATER_1	FALSE		Tosi 2015; Gasparini 2015; Tre 2015; Melon 2015; Busato 2015; Poletto 2015; Cortiana 2015; Ricchieri 2015; Clementi 2015; Serena 2015; Pezzin 2015; Zanetti 2015
 VeniceVenetian_WE_1	Venetian (Venice)	vene1259	vec	WE	nialtri	niˈaltri	n i ˈa l t r i	ni-ˈaltr-i	WE_1	FALSE	Padua, Schio, Arzignano: noy-ˈaltr-i {noialtri} 'we' [Tre 2015; Clementi 2015; Serena 2015]. Este: nu {nu} 'we' [Melon 2015]. Marostica: n-ˈaltr-i {n'altri} ~ noy-ˈaltr-i {noialtri} 'we' [Pezzin 2015]. Treviso, Verona: no-ˈaltr-i {noàltri} 'we' [Busato 2015; Zanetti 2015]. Salgareda: no-ˈaŋtr-i {noantri} 'we' [Poletto 2015]. The oblique clitic form is ne {ne} [Chelysheva 2001: 122].	Tosi 2015; Gasparini 2015; Cortiana 2015; Ricchieri 2015
 VeniceVenetian_WHAT_2	Venetian (Venice)	vene1259	vec	WHAT	còssa	kˈɔsa	k ˈɔ s a	kˈɔsa	WHAT_2	FALSE	Verona: sa {'ssa} 'what' [Zanetti 2015].	Tosi 2015; Gasparini 2015; Tre 2015; Melon 2015; Busato 2015; Poletto 2015; Cortiana 2015; Ricchieri 2015; Clementi 2015; Serena 2015; Pezzin 2015
-VeniceVenetian_WHITE_-1	Venetian (Venice)	vene1259	vec	WHITE	biànco	bˈjaŋko	b ˈj a ŋ k o	bˈyaŋk-o	WHITE_1	TRUE	Tre 2015; Melon 2015; Busato 2015; Poletto 2015; Cortiana 2015; Ricchieri 2015; Clementi 2015; Serena 2015; Pezzin 2015; Zanetti 2015. An old borrowing from some Germanic source.	Tosi 2015; Gasparini 2015
+VeniceVenetian_WHITE_-1	Venetian (Venice)	vene1259	vec	WHITE	biànco	bˈjaŋko	b ˈj a ŋ k o	bˈyaŋk-o	WHITE_2	TRUE	Tre 2015; Melon 2015; Busato 2015; Poletto 2015; Cortiana 2015; Ricchieri 2015; Clementi 2015; Serena 2015; Pezzin 2015; Zanetti 2015. An old borrowing from some Germanic source.	Tosi 2015; Gasparini 2015
 VeniceVenetian_WHO_1	Venetian (Venice)	vene1259	vec	WHO	chi	ki	k i	ki	WHO_1	FALSE	Verona: či {ci} 'who' [Zanetti 2015].	Tosi 2015; Gasparini 2015; Tre 2015; Melon 2015; Busato 2015; Poletto 2015; Cortiana 2015; Ricchieri 2015; Clementi 2015; Serena 2015; Pezzin 2015
 VeniceVenetian_WOMAN_5	Venetian (Venice)	vene1259	vec	WOMAN	dóna	dˈona	d ˈo n a	dˈon-a	WOMAN_5	FALSE	Padua: fˈeman-a {femana} 'woman', dˈɔn-a {dòna} 'woman' (less frequent and more restricted in use) [Tre 2015]. Treviso, Salgareda, Arzignano, Marostica: fˈemen-a {femena} 'woman' [Busato 2015; Poletto 2015; Ricchieri 2015; Serena 2015; Pezzin 2015]. Distinct from muǯˈɛr {mugèr} [Tosi 2015; Gasparini 2015; Melon 2015] ~ moyˈɛr-a {mojera} [Tre 2015] ~ moyˈɛr {moier} [Zanetti 2015; Busato 2015] ~ moyˈɛr-e {moiere} [Zanetti 2015; Ricchieri 2015] ~ muyˈɛr {muier} 'wife' [Poletto 2015].	Tosi 2015; Gasparini 2015; Melon 2015; Cortiana 2015; Clementi 2015; Zanetti 2015
 VeniceVenetian_YELLOW_-1	Venetian (Venice)	vene1259	vec	YELLOW	zàło	zˈae̯o	z ˈa e̯ o	zˈae-o	YELLOW_2	TRUE	Borrowed from old French {jalne} 'yellow'. Padua: ǯˈae-o {giało} 'yellow' of Italian origin [Tre 2015]. Este, Vicenza, Schio: zˈal-o {zalo} 'yellow' [Melon 2015; Cortiana 2015; Clementi 2015]. Treviso: zˈaɰ-o {xàło} 'yellow' [Busato 2015; Serena 2015]. Salgareda: zal {zal} 'yellow' [Poletto 2015]. Marostica, Verona: ǯˈal-o {giàlo} 'yellow' of Italian origin [Pezzin 2015; Zanetti 2015].	Tosi 2015; Gasparini 2015; Ricchieri 2015
@@ -3489,7 +3489,7 @@ PrimieroVenetian_WARM (OF WEATHER)_1	Venetian (Primiero)	tret1239	vec	WARM (OF W
 PrimieroVenetian_WATER_1	Venetian (Primiero)	tret1239	vec	WATER	àcua	ˈakwa	ˈa k w a	ˈakw-a	WATER_1	FALSE		Gaio 2015
 PrimieroVenetian_WE_1	Venetian (Primiero)	tret1239	vec	WE	noi	noj	n o j	noy	WE_1	FALSE	The form no-ˈaltr-i {noaltri} 'we' is used as well, but is less frequent [Gaio 2015].	Gaio 2015
 PrimieroVenetian_WHAT_1	Venetian (Primiero)	tret1239	vec	WHAT	che	ke	k e	ke	WHAT_1	FALSE		Gaio 2015
-PrimieroVenetian_WHITE_-1	Venetian (Primiero)	tret1239	vec	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Gaio 2015
+PrimieroVenetian_WHITE_-1	Venetian (Primiero)	tret1239	vec	WHITE	bianch	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Gaio 2015
 PrimieroVenetian_WHO_1	Venetian (Primiero)	tret1239	vec	WHO	chi	ki	k i	ki	WHO_1	FALSE		Gaio 2015
 PrimieroVenetian_WOMAN_2	Venetian (Primiero)	tret1239	vec	WOMAN	fémena	fˈemena	f ˈe m e n a	fˈemen-a	WOMAN_2	FALSE		Gaio 2015
 PrimieroVenetian_YELLOW_-1	Venetian (Primiero)	tret1239	vec	YELLOW	gial	ʤal	ʤ a l	ǯal	YELLOW_2	TRUE	Borrowed from Italian {giallo} 'yellow'. The obsolete form is ðal {đal} 'yellow' [Gaio 2015].	Gaio 2015
@@ -3600,7 +3600,7 @@ BelluneseVenetian_WARM (OF WEATHER)_1	Venetian (Bellunese)	trie1242	vec	WARM (OF
 BelluneseVenetian_WATER_1	Venetian (Bellunese)	trie1242	vec	WATER	aqua	ˈakwa	ˈa k w a	ˈakw-a	WATER_1	FALSE		Caneve 2015
 BelluneseVenetian_WE_1	Venetian (Bellunese)	trie1242	vec	WE	noi	noj	n o j	noy	WE_1	FALSE		Caneve 2015
 BelluneseVenetian_WHAT_1	Venetian (Bellunese)	trie1242	vec	WHAT	che	ke	k e	ke	WHAT_1	FALSE		Caneve 2015
-BelluneseVenetian_WHITE_-1	Venetian (Bellunese)	trie1242	vec	WHITE	bianc	bjaŋk	b j a ŋ k	byaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Caneve 2015
+BelluneseVenetian_WHITE_-1	Venetian (Bellunese)	trie1242	vec	WHITE	bianc	bjaŋk	b j a ŋ k	byaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Caneve 2015
 BelluneseVenetian_WHO_1	Venetian (Bellunese)	trie1242	vec	WHO	chi	ki	k i	ki	WHO_1	FALSE		Caneve 2015
 BelluneseVenetian_WOMAN_2	Venetian (Bellunese)	trie1242	vec	WOMAN	femena	fˈemena	f ˈe m e n a	fˈemen-a	WOMAN_2	FALSE		Caneve 2015
 BelluneseVenetian_YELLOW_-1	Venetian (Bellunese)	trie1242	vec	YELLOW	gial	ʤal	ʤ a l	ǯal	YELLOW_2	TRUE	Borrowed from Italian {giallo} 'yellow'.	Caneve 2015
@@ -3726,7 +3726,7 @@ OldItalian_WATER_1	Old Italian	fior1236	ita	WATER	acqua	ˈakːwa	ˈa kː w a	ˈa
 OldItalian_WE_1	Old Italian	fior1236	ita	WE	noi	nˈoi	n ˈo i	nˈoi	WE_1	FALSE	some examples: {Noi eravam partiti già da esso, // e brigavam di soverchiar la strada} "From him already we departed were, // and made endeavour to o'ercome the road" [Purg. 20]; {Che farem noi a chi mal ne disira, // se quei che ci ama è per noi condannato?} "What shall we do to those who wish us ill, // if he who loves us be by us condemned?" [Purg. 15].	Cf
 OldItalian_WE_2	Old Italian	fior1236	ita	WE	ci	ʧi	ʧ i	či	WE_2	FALSE		
 OldItalian_WHAT_1	Old Italian	fior1236	ita	WHAT	che	ke	k e	ke	WHAT_1	FALSE	2]; {che è quel ch'i' odo?} "what is this which now I hear?" [Inf. 3]. The intensified form {che cosa} is also possible: {Che cosa è questa?} "What thing is this?" [Purg. 29].	Some examples are: {Dunque: che è?} "What is it, then?" [Inf
-OldItalian_WHITE_-1	Old Italian	fior1236	ita	WHITE	bianco	bˈjaŋko	b ˈj a ŋ k o	bˈyaŋk-o	WHITE_1	TRUE	some examples: {come procede innanzi da l'ardore, // per lo papiro suso, un color bruno // che non è nero ancora e 'l bianco more} "E'en as proceedeth on before the flame // Upward along the paper a brown colour, // Which is not black as yet, and the white dies" [Inf. 25]; {L'una era d'oro e l'altra era d'argento; // pria con la bianca e poscia con la gialla} "One was of gold, and the other was of silver; // first with the white, and after with the yellow" [Purg. 9]; {mostrando un'oca bianca più che burro} "display a goose more white than butter is" [Inf. 17]. This term is first time attested in the form {bla(n)cho} in the "Dichiarzaione di Paxia" (1178-1182, Savona) [TdLJdO 2016].  _x0015_The term ˈalb-o {albo} 'white' is not attested in Dante's works. However we find it contrasted with {negro} 'black' in the Veronese Riddle (VIII-IX centuries): {Se pareba boves alba pratalia araba albo versorio teneba et negro semen seminaba}. Michel regards it as a Latinism [Michel 2011: 45], but this is not necessary. It occurs even after Dante, in the XIV-XVth centuries [TdLJdO 2016], but at the time it was no longer the basic term for 'white'.	Cf
+OldItalian_WHITE_-1	Old Italian	fior1236	ita	WHITE	bianco	bˈjaŋko	b ˈj a ŋ k o	bˈyaŋk-o	WHITE_2	TRUE	some examples: {come procede innanzi da l'ardore, // per lo papiro suso, un color bruno // che non è nero ancora e 'l bianco more} "E'en as proceedeth on before the flame // Upward along the paper a brown colour, // Which is not black as yet, and the white dies" [Inf. 25]; {L'una era d'oro e l'altra era d'argento; // pria con la bianca e poscia con la gialla} "One was of gold, and the other was of silver; // first with the white, and after with the yellow" [Purg. 9]; {mostrando un'oca bianca più che burro} "display a goose more white than butter is" [Inf. 17]. This term is first time attested in the form {bla(n)cho} in the "Dichiarzaione di Paxia" (1178-1182, Savona) [TdLJdO 2016].  _x0015_The term ˈalb-o {albo} 'white' is not attested in Dante's works. However we find it contrasted with {negro} 'black' in the Veronese Riddle (VIII-IX centuries): {Se pareba boves alba pratalia araba albo versorio teneba et negro semen seminaba}. Michel regards it as a Latinism [Michel 2011: 45], but this is not necessary. It occurs even after Dante, in the XIV-XVth centuries [TdLJdO 2016], but at the time it was no longer the basic term for 'white'.	Cf
 OldItalian_WHO_1	Old Italian	fior1236	ita	WHO	chi	ki	k i	ki	WHO_1	FALSE	25]; {chi è quel grande che non par che curi // lo 'ncendio e giace dispettoso e torto} "who is that mighty one who seems to heed not // the fire, and lieth lowering and disdainful" [Inf. 14].	Some examples are: {Chi siete voi?} "Who are you?" [Inf
 OldItalian_WOMAN_2	Old Italian	fior1236	ita	WOMAN	femmina	fˈemːina	f ˈe mː i n a	fˈemːin-a	WOMAN_2	FALSE	The latter is much more frequent (9 : 96 in 'Divine Comedy'), but the distribution is important: in Inferno {donna} is used only 10 times out of 96, in Purgatorio it is already used 38 times, and half of its usage occurs in Paradiso. What we are actually dealing with is the gradual replacement of {femmina} by {donna}, but it seems that during Dante's life, this replacement had not yet been completed and {donna} still had "elevated" connotations. For a more detailed analysis, see [Passera 1998]. Because of this, we include only {femmina} in the list, as a term of broader and more neutral usage.  _x0015_ It is important that {femmina} can be used not only in stylistically low ({Via, // ruffian! qui non son femmine da conio} "Get thee gone // pander, there are no women here for coin" [Inf. 18]) or neutral contexts, but also in high ones: {Maria Vergine (femmina veramente e figlia di Giovacchino e d'Adamo)} "the Virgin Mary, the true woman and daughter of Joachim and of Adam" [Conv. 2], {che là dove ubidia la terra e 'l cielo, // femmina, sola e pur testé formata} "for there where earth and heaven obedient were, // the woman only, and but just created" (about Eve) [Purg. 29]. Oher contexts with {femmina}: {ciò avvenia di duol sanza martìri, // ch'avean le turbe, ch'eran molte e grandi, // d'infanti e di femmine e di viri} "and this arose from sorrow without torment, // which the crowds had, that many were and great, // of infants and of women and of men" [Inf. 4]; {poi che l'ardite femmine spietate // tutti li maschi loro a morte dienno} "after the daring women pitiless // had unto death devoted all their males" [Inf. 18]; {Vedi Tiresia, che mutò sembiante // quando di maschio femmina divenne} "Behold Tiresias, who his semblance changed, // when from a male a female he became" [Inf. 20]; {quanto in femmina foco d'amor dura} "how long in woman lasts the fire of love" [Purg. 8]; {mi venne in sogno una femmina balba} "there came to me in dreams a stammering woman" [Purg. 19]; {ne le femmine sue più è pudica // che la Barbagia dov' io la lasciai} "by far more modest in its women is // than the Barbagia I have left her in" [Purg. 23]; {Femmina è nata, e non porta ancor benda} "A maid is born, and wears not yet the veil" [Purg. 24].  _x0015_Some contexts on {donna}: {e donna mi chiamò beata e bella} "and a fair, saintly Lady called to me" [Inf. 2]; {O donna di virtù sola per cui // l'umana spezie eccede ogne contento} "'O Lady of virtue, thou alone through whom // the human race exceedeth all contained" [Inf. 2]; {poscia che tai tre donne benedette} "seeing that three such Ladies benedight" [Inf. 2].	There are two designations for 'woman' in Dante's works: fˈemːin-a {femmina} and dˈɔnː-a {donna}
 OldItalian_YELLOW_-1	Old Italian	fior1236	ita	YELLOW	giallo	ʤalːo	ʤ a lː o	ǯalː-o	YELLOW_2	TRUE	some examples: {L'una era d'oro e l'altra era d'argento; // pria con la bianca e poscia con la gialla} "One was of gold, and the other was of silver; // first with the white, and after with the yellow" [Purg. 9]; {L'uno al pubblico segno i gigli gialli // oppone} "To the public standard one the yellow lilies // opposes" [Par. 6].	Cf
@@ -3845,7 +3845,7 @@ StandardItalian_WATER_1	Italian (Standard)	ital1282	ita	WATER	acqua	ˈakːwa	ˈa
 StandardItalian_WE_1	Italian (Standard)	ital1282	ita	WE	noi	nˈoi	n ˈo i	nˈoi	WE_1	FALSE	Paradigm: nˈoi {noi} [nom.] / nˈoi {noi} ~ či {ci} (clitic) [obl.].	Passerini Tosi 1989: 2496; Chelysheva & Cherdantseva 2001: 81
 StandardItalian_WE_2	Italian (Standard)	ital1282	ita	WE	ci	ʧi	ʧ i	či	WE_2	FALSE	The oblique stem.	Chelysheva & Cherdantseva 2001: 81
 StandardItalian_WHAT_1	Italian (Standard)	ital1282	ita	WHAT	che	ke	k e	ke	WHAT_1	FALSE	Can be expanded with the element kˈɔs-a {cosa} 'thing', cf. {che vuoi?} / {che cosa vuoi?} "What do you want?" [Passerini Tosi 1989: 2502-2503].	Passerini Tosi 1989: 2502-2503
-StandardItalian_WHITE_-1	Italian (Standard)	ital1282	ita	WHITE	bianco	bˈjaŋko	b ˈj a ŋ k o	bˈyaŋk-o	WHITE_1	TRUE	An old borrowing from some Germanic source. Distinct from ˈalb-o {albo} 'white', used only in the literary language [Battaglia I: 291].	Passerini Tosi 1989: 2508-2509
+StandardItalian_WHITE_-1	Italian (Standard)	ital1282	ita	WHITE	bianco	bˈjaŋko	b ˈj a ŋ k o	bˈyaŋk-o	WHITE_2	TRUE	An old borrowing from some Germanic source. Distinct from ˈalb-o {albo} 'white', used only in the literary language [Battaglia I: 291].	Passerini Tosi 1989: 2508-2509
 StandardItalian_WHO_1	Italian (Standard)	ital1282	ita	WHO	chi	ki	k i	ki	WHO_1	FALSE		Passerini Tosi 1989: 2509
 StandardItalian_WOMAN_5	Italian (Standard)	ital1282	ita	WOMAN	donna	dˈɔnːa	d ˈɔ nː a	dˈɔnː-a	WOMAN_5	FALSE	Distinct from fˈemːin-a {femmina} 'female' [Battaglia V: 803-805], from mˈoʎː-e {moglie} 'wife' and spˈɔz-a {sposa} 'wife, spouse' [Passerini Tosi 1989: 2511].	Passerini Tosi 1989: 2519
 StandardItalian_YELLOW_-1	Italian (Standard)	ital1282	ita	YELLOW	giallo	ʤalːo	ʤ a lː o	ǯalː-o	YELLOW_2	TRUE	Borrowed from Old French {jalne} 'yellow'.	Passerini Tosi 1989: 2531-2532
@@ -3959,7 +3959,7 @@ GrossetoItalian_WATER_1	Italian (Grosseto)	ital1282	ita	WATER	acqua	ˈakːwa	ˈa
 GrossetoItalian_WE_1	Italian (Grosseto)	ital1282	ita	WE	noi	nˈoi	n ˈo i	nˈoi	WE_1	FALSE	Paradigm: nˈoi {noi} [nom.] / nˈoi {noi} ~ či {ci} (clitic) [obl.].	Marcelli 2015
 GrossetoItalian_WE_2	Italian (Grosseto)	ital1282	ita	WE	ci	ʧi	ʧ i	či	WE_2	FALSE	The oblique stem.	Marcelli 2015
 GrossetoItalian_WHAT_1	Italian (Grosseto)	ital1282	ita	WHAT	che	ke	k e	ke	WHAT_1	FALSE	Can be expanded with the element kˈɔs-a {cosa} 'thing'.	Marcelli 2015
-GrossetoItalian_WHITE_-1	Italian (Grosseto)	ital1282	ita	WHITE	bianco	bˈjaŋko	b ˈj a ŋ k o	bˈyaŋk-o	WHITE_1	TRUE	An old borrowing from some Germanic source.	Marcelli 2015
+GrossetoItalian_WHITE_-1	Italian (Grosseto)	ital1282	ita	WHITE	bianco	bˈjaŋko	b ˈj a ŋ k o	bˈyaŋk-o	WHITE_2	TRUE	An old borrowing from some Germanic source.	Marcelli 2015
 GrossetoItalian_WHO_1	Italian (Grosseto)	ital1282	ita	WHO	chi	ki	k i	ki	WHO_1	FALSE		Marcelli 2015
 GrossetoItalian_WOMAN_5	Italian (Grosseto)	ital1282	ita	WOMAN	donna	dˈɔnːa	d ˈɔ nː a	dˈɔnː-a	WOMAN_5	FALSE	Distinct from mˈoʎː-e {moglie} 'wife' [Marcelli 2015].	Marcelli 2015
 GrossetoItalian_YELLOW_-1	Italian (Grosseto)	ital1282	ita	YELLOW	giallo	ʤalːo	ʤ a lː o	ǯalː-o	YELLOW_2	TRUE		Marcelli 2015
@@ -4075,7 +4075,7 @@ FolignoItalian_WATER_1	Italian (Foligno)	ital1282	ita	WATER	acqua	ˈakːwa	ˈa k
 FolignoItalian_WE_1	Italian (Foligno)	ital1282	ita	WE	noe	nˈoe	n ˈo e	nˈo-e	WE_1	FALSE	Indeclinable pronoun.	Monti Barnocchi-Moscati 2016
 FolignoItalian_WE_1	Italian (Foligno)	ital1282	ita	WE	nojantri	nojˈantri	n o j ˈa n t r i	noy-ˈantr-i	WE_1	FALSE	Indeclinable pronoun.	Monti Barnocchi-Moscati 2016
 FolignoItalian_WHAT_1	Italian (Foligno)	ital1282	ita	WHAT	che	ke	k e	ke	WHAT_1	FALSE		Monti Barnocchi-Moscati 2016
-FolignoItalian_WHITE_-1	Italian (Foligno)	ital1282	ita	WHITE	viancu	vˈjanku	v ˈj a n k u	vˈyank-u	WHITE_1	TRUE	An old borrowing from some Germanic source.	Monti Barnocchi-Moscati 2016
+FolignoItalian_WHITE_-1	Italian (Foligno)	ital1282	ita	WHITE	viancu	vˈjanku	v ˈj a n k u	vˈyank-u	WHITE_2	TRUE	An old borrowing from some Germanic source.	Monti Barnocchi-Moscati 2016
 FolignoItalian_WHO_1	Italian (Foligno)	ital1282	ita	WHO	chi	ki	k i	ki	WHO_1	FALSE		Monti Barnocchi-Moscati 2016
 FolignoItalian_WOMAN_2	Italian (Foligno)	ital1282	ita	WOMAN	femmina	fˈemːina	f ˈe mː i n a	fˈemːin-a	WOMAN_2	FALSE	Distinct from mˈoy-e {moje} 'wife' [Monti Barnocchi-Moscati 2016].	Monti Barnocchi-Moscati 2016
 FolignoItalian_YELLOW_-1	Italian (Foligno)	ital1282	ita	YELLOW	ghjallu	ɟˈalːu	ɟ ˈa lː u	ȡˈalː-u	YELLOW_2	TRUE		Monti Barnocchi-Moscati 2016
@@ -4216,7 +4216,7 @@ Neapolitan_WARM (OF WEATHER)_1	Neapolitan	napo1241	nap	WARM (OF WEATHER)	cauro	k
 Neapolitan_WATER_1	Neapolitan	napo1241	nap	WATER	acqua	ˈakːwə	ˈa kː w ə	ˈakːw-ə	WATER_1	FALSE		Esposito 2015; Russo 2015; Matarazzo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Musella 2015; Fattoruso 2015; Morelli 2015; Cerrone 2015; Alois 2015
 Neapolitan_WE_1	Neapolitan	napo1241	nap	WE	nuje	nˈujə	n ˈu j ə	nˈuy-ə	WE_1	FALSE	Not declinable [Mancusi 2015].	Esposito 2015; Russo 2015; Matarazzo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Musella 2015; Fattoruso 2015; Morelli 2015; Cerrone 2015; Alois 2015
 Neapolitan_WHAT_1	Neapolitan	napo1241	nap	WHAT	ca	kə	k ə	kə	WHAT_1	FALSE		Esposito 2015; Russo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Fattoruso 2015; Cerrone 2015; Alois 2015
-Neapolitan_WHITE_-1	Neapolitan	napo1241	nap	WHITE	janco	jˈaŋkə	j ˈa ŋ k ə	yˈaŋk-ə	WHITE_1	TRUE	Borrowed from some Germanic source. Grottaminarda: ʎˈaŋk {glia'nc} 'white' [Morelli 2015].	Esposito 2015; Russo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Musella 2015; Fattoruso 2015; Cerrone 2015; Alois 2015
+Neapolitan_WHITE_-1	Neapolitan	napo1241	nap	WHITE	janco	jˈaŋkə	j ˈa ŋ k ə	yˈaŋk-ə	WHITE_2	TRUE	Borrowed from some Germanic source. Grottaminarda: ʎˈaŋk {glia'nc} 'white' [Morelli 2015].	Esposito 2015; Russo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Musella 2015; Fattoruso 2015; Cerrone 2015; Alois 2015
 Neapolitan_WHO_1	Neapolitan	napo1241	nap	WHO	chi	ki	k i	ki	WHO_1	FALSE		Esposito 2015; Russo 2015; Matarazzo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Musella 2015; Fattoruso 2015; Cerrone 2015; Alois 2015
 Neapolitan_WOMAN_2	Neapolitan	napo1241	nap	WOMAN		fˈɛmːənə	f ˈɛ mː ə n ə	fˈɛmːən-ə	WOMAN_2	FALSE	Distinct from muʎːˈɛr-ə {mugliera} 'wife' [Esposito 2015; Russo 2015; Matarazzo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Alois 2015]. Salerno: muyˈɛr-ə {mujera} 'wife' [Cerrone 2015].	Esposito 2015; Russo 2015; Matarazzo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Musella 2015; Fattoruso 2015; Morelli 2015; Cerrone 2015; Alois 2015
 Neapolitan_WOMAN_2	Neapolitan	napo1241	nap	WOMAN	femmena	fˈemːənə	f ˈe mː ə n ə	fˈemːən-ə	WOMAN_2	FALSE	Distinct from muʎːˈɛr-ə {mugliera} 'wife' [Esposito 2015; Russo 2015; Matarazzo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Alois 2015]. Salerno: muyˈɛr-ə {mujera} 'wife' [Cerrone 2015].	Esposito 2015; Russo 2015; Matarazzo 2015; Cirillo 2015; Nagar 2015; Mancusi 2015; Musella 2015; Fattoruso 2015; Morelli 2015; Cerrone 2015; Alois 2015
@@ -4338,7 +4338,7 @@ Logudorese_WARM (OF WEATHER)_-1	Sardinian (Logudorese)	logu1236	src	WARM (OF WEA
 Logudorese_WATER_1	Sardinian (Logudorese)	logu1236	src	WATER	abba	ˈabːa	ˈa bː a	ˈabː-a	WATER_1	FALSE		Buttu 2015
 Logudorese_WE_1	Sardinian (Logudorese)	logu1236	src	WE	nòis	nˈois	n ˈo i s	nˈois	WE_1	FALSE	Paradigm: nˈois {nòis} [nom.] / nos {nos} [obl.].	Buttu 2015; Narumov 2001: 177
 Logudorese_WHAT_3	Sardinian (Logudorese)	logu1236	src	WHAT	itte	ˈitːe	ˈi tː e	ˈitː-e	WHAT_3	FALSE		Buttu 2015
-Logudorese_WHITE_-1	Sardinian (Logudorese)	logu1236	src	WHITE	biancu	bˈjaŋku	b ˈj a ŋ k u	bˈyaŋk-u	WHITE_1	TRUE	An old borrowing from some Germanic source.	Buttu 2015
+Logudorese_WHITE_-1	Sardinian (Logudorese)	logu1236	src	WHITE	biancu	bˈjaŋku	b ˈj a ŋ k u	bˈyaŋk-u	WHITE_2	TRUE	An old borrowing from some Germanic source.	Buttu 2015
 Logudorese_WHO_1	Sardinian (Logudorese)	logu1236	src	WHO	chìe	kˈie	k ˈi e	kˈi-e	WHO_1	FALSE		Buttu 2015
 Logudorese_WOMAN_2	Sardinian (Logudorese)	logu1236	src	WOMAN	'émmina	ˈemːina	ˈe mː i n a	ˈemːin-a	WOMAN_2	FALSE	Distinct from muʒˈer-e {mudzère} 'wife' [Buttu 2015].	Buttu 2015
 Logudorese_YELLOW_-1	Sardinian (Logudorese)	logu1236	src	YELLOW	grogu	ɡrˈoɡu	ɡ r ˈo ɡ u	grˈog-u	YELLOW_4	TRUE	Borrowed from Catalan {groc} 'yellow'.	Buttu 2015
@@ -4459,7 +4459,7 @@ Campidanese_WATER_1	Sardinian (Campidanese)	camp1261	sro	WATER	abba	ˈabːa	ˈa 
 Campidanese_WE_1	Sardinian (Campidanese)	camp1261	sro	WE	nosatrusu	nozˈatruzu	n o z ˈa t r u z u	noz-ˈatru-zu	WE_1	FALSE	Paradigm: noz-ˈatru-zu {nosatrusu} [nom.] / si {si} (clitic) ~ s {s'} (clitic) [obl.]. Domus de Maria: nˈɔz-u {nosu} 'we' [Fadda 2015].	Pintus 2015; Casciu 2006: 288; Narumov 2001: 177
 Campidanese_WHAT_3	Sardinian (Campidanese)	camp1261	sro	WHAT	itta	ˈitːa	ˈi tː a	ˈitːa	WHAT_3	FALSE	Domus de Maria: ˈitːa {itta} 'what' [Fadda 2015].	Ballicu 2015; Pintus 2015; Casciu 2006: 246
 Campidanese_WHAT_3	Sardinian (Campidanese)	camp1261	sro	WHAT	ita	ˈita	ˈi t a	ˈita	WHAT_3	FALSE	Domus de Maria: ˈitːa {itta} 'what' [Fadda 2015].	Ballicu 2015; Pintus 2015; Casciu 2006: 246
-Campidanese_WHITE_-1	Sardinian (Campidanese)	camp1261	sro	WHITE	biancu	bjˈaŋku	b j ˈa ŋ k u	byˈaŋk-u	WHITE_1	TRUE	An old borrowing from some Germanic source. Domus de Maria: byˈank-u {biancu} [Fadda 2015].	Ballicu 2015; Pintus 2015; Casciu 2006: 84
+Campidanese_WHITE_-1	Sardinian (Campidanese)	camp1261	sro	WHITE	biancu	bjˈaŋku	b j ˈa ŋ k u	byˈaŋk-u	WHITE_2	TRUE	An old borrowing from some Germanic source. Domus de Maria: byˈank-u {biancu} [Fadda 2015].	Ballicu 2015; Pintus 2015; Casciu 2006: 84
 Campidanese_WHO_1	Sardinian (Campidanese)	camp1261	sro	WHO	chini	kˈini	k ˈi n i	kˈi-ni	WHO_1	FALSE	Domus de Maria: kˈi-ni {chini} 'who' [Fadda 2015].	Ballicu 2015; Pintus 2015; Casciu 2006: 111
 Campidanese_WOMAN_2	Sardinian (Campidanese)	camp1261	sro	WOMAN	femmina	fˈɛmːina	f ˈɛ mː i n a	fˈɛmːin-a	WOMAN_2	FALSE	Distinct from mulːˈer-i {mulleri} 'wife' [Ballicu 2015; Pintus 2015; Casciu 2006: 281]. Domus de Maria: fˈemːin-a {femmina} 'woman'. Distinct from mulːˈer-i {mulleri} 'wife' [Fadda 2015].	Ballicu 2015; Pintus 2015; Casciu 2006: 184
 Campidanese_YELLOW_-1	Sardinian (Campidanese)	camp1261	sro	YELLOW	grogu	ɡrˈoɣu	ɡ r ˈo ɣ u	grˈoɣ-u	YELLOW_4	TRUE	Borrowed from Catalan {groc} 'yellow'. Domus de Maria: ǯˈalː-u {giallu} 'yellow' of Italian origin [Fadda 2015].	Ballicu 2015; Pintus 2015; Casciu 2006: 206
@@ -4579,7 +4579,7 @@ PalermitanSicilian_WATER_1	Sicilian (Palermitan)	west2346	scn	WATER	acqua	ˈakː
 PalermitanSicilian_WE_1	Sicilian (Palermitan)	west2346	scn	WE	nuavutri	nuˈavuʈɽi	n u ˈa v u ʈ ɽ i	nu-ˈavuʈɽ-i	WE_1	FALSE	Termini Imerese: nu-ˈaʈɽ-i {nuatri} 'we' [La Bua 2015]. Paradigm: nu-ˈavuʈɽ-i {nuavutri} ~ nu-ˈawʈɽ-i {nuautri} [nom.] / nːi {nni} [obl.] [Messina 2015]. Buscemi: nˈy-awc̢ɽ-i {niàutri} 'we' [Coccimiglio 2016].	Messina 2015; Ornato 2015
 PalermitanSicilian_WE_1	Sicilian (Palermitan)	west2346	scn	WE	nuautri	nuˈawʈɽi	n u ˈa w ʈ ɽ i	nu-ˈawʈɽ-i	WE_1	FALSE	Termini Imerese: nu-ˈaʈɽ-i {nuatri} 'we' [La Bua 2015]. Paradigm: nu-ˈavuʈɽ-i {nuavutri} ~ nu-ˈawʈɽ-i {nuautri} [nom.] / nːi {nni} [obl.] [Messina 2015]. Buscemi: nˈy-awc̢ɽ-i {niàutri} 'we' [Coccimiglio 2016].	Messina 2015; Ornato 2015
 PalermitanSicilian_WHAT_1	Sicilian (Palermitan)	west2346	scn	WHAT	chi	ki	k i	ki	WHAT_1	FALSE	Messina mentions the term kˈwɔs-a {cuosa} 'what' [Messina 2015], but it seems to be an Italianism. Buscemi: ki {chi} ~ ki-kːˈɔz-a {chi cosa} 'what' [Coccimiglio 2016].	Ornato 2015; La Bua 2015
-PalermitanSicilian_WHITE_-1	Sicilian (Palermitan)	west2346	scn	WHITE	biancu	bˈjaŋku	b ˈj a ŋ k u	bˈyaŋk-u	WHITE_1	TRUE	Buscemi: ˈyaŋk-u {jancu} 'white' [Coccimiglio 2016]. An old borrowing from some Germanic source.	Ornato 2015; La Bua 2015
+PalermitanSicilian_WHITE_-1	Sicilian (Palermitan)	west2346	scn	WHITE	biancu	bˈjaŋku	b ˈj a ŋ k u	bˈyaŋk-u	WHITE_2	TRUE	Buscemi: ˈyaŋk-u {jancu} 'white' [Coccimiglio 2016]. An old borrowing from some Germanic source.	Ornato 2015; La Bua 2015
 PalermitanSicilian_WHO_1	Sicilian (Palermitan)	west2346	scn	WHO	cu	ku	k u	ku	WHO_1	FALSE	Termini Imerese: kuy {cùi} 'who' [La Bua 2015]. Buscemi: kuy {cui} 'who' [Coccimiglio 2016].	Ornato 2015
 PalermitanSicilian_WOMAN_2	Sicilian (Palermitan)	west2346	scn	WOMAN	fimmina	fˈimːina	f ˈi mː i n a	fˈimːin-a	WOMAN_2	FALSE	Distinct from muȡːˈyɛɾ-i {mugghieri} 'wife' [Messina 2015]. Buscemi: fˈimːin-a {fimmina} 'woman', muȡːˈyɛɾ-i {mugghieri} 'wife' [Coccimiglio 2016].	Messina 2015; Ornato 2015; La Bua 2015
 PalermitanSicilian_YELLOW_-1	Sicilian (Palermitan)	west2346	scn	YELLOW	giarnu	ʤˈaɾnu	ʤ ˈa ɾ n u	ǯˈaɾn-u	YELLOW_2	TRUE	Borrowed from Old French {jalne} 'yellow'. The later Italianism ǯˈalː-u {giallu} 'yellow' can be used as well [Ornato 2015; La Bua 2015]. Buscemi: ǯˈalː-u {giallu} 'yellow', ǯˈaɾn-u {giarnu} 'pale' [Coccimiglio 2016].	Messina 2015
@@ -4697,7 +4697,7 @@ MessineseSicilian_WATER_1	Sicilian (Messinese)	mess1247	scn	WATER	acqua	ˈakːwa
 MessineseSicilian_WE_1	Sicilian (Messinese)	mess1247	scn	WE	nui	nui	n u i	nui	WE_1	FALSE	. Paradigm: nuy {nui} ~ nu-ˈawʈɽ-i {nuautri} [nom.] / nuy {nui} ~ nu-ˈawʈɽ-i {nuautri} (after a prepostion) ~ ni {ni} [obl.] [Stornanti 2015].	Salzano 2015; Stornanti 2015; Sorbello 2015
 MessineseSicilian_WE_1	Sicilian (Messinese)	mess1247	scn	WE	nuautri	nuˈawʈɽi	n u ˈa w ʈ ɽ i	nu-ˈawʈɽ-i	WE_1	FALSE	. Paradigm: nuy {nui} ~ nu-ˈawʈɽ-i {nuautri} [nom.] / nuy {nui} ~ nu-ˈawʈɽ-i {nuautri} (after a prepostion) ~ ni {ni} [obl.] [Stornanti 2015].	Salzano 2015; Stornanti 2015; Sorbello 2015
 MessineseSicilian_WHAT_1	Sicilian (Messinese)	mess1247	scn	WHAT	chi	ki	k i	ki	WHAT_1	FALSE		Salzano 2015; Stornanti 2015; Sorbello 2015
-MessineseSicilian_WHITE_-1	Sicilian (Messinese)	mess1247	scn	WHITE	iancu	ˈjaŋku	ˈj a ŋ k u	ˈyaŋk-u	WHITE_1	TRUE	An old borrowing from some Germanic source.	Salzano 2015; Stornanti 2015; Sorbello 2015
+MessineseSicilian_WHITE_-1	Sicilian (Messinese)	mess1247	scn	WHITE	iancu	ˈjaŋku	ˈj a ŋ k u	ˈyaŋk-u	WHITE_2	TRUE	An old borrowing from some Germanic source.	Salzano 2015; Stornanti 2015; Sorbello 2015
 MessineseSicilian_WHO_1	Sicilian (Messinese)	mess1247	scn	WHO	cu	ku	k u	ku	WHO_1	FALSE		Salzano 2015; Stornanti 2015; Sorbello 2015
 MessineseSicilian_WOMAN_2	Sicilian (Messinese)	mess1247	scn	WOMAN	fimmina	fˈimːɨna	f ˈi mː ɨ n a	fˈimːɨn-a	WOMAN_2	FALSE	Distinct from muȡːˈɛɾ-i {mugghieri} 'wife' [Salzano 2015; Stornanti 2015].	Salzano 2015; Stornanti 2015; Sorbello 2015
 MessineseSicilian_YELLOW_-1	Sicilian (Messinese)	mess1247	scn	YELLOW	giallu	ʤˈalːu	ʤ ˈa lː u	ǯˈalː-u	YELLOW_2	TRUE	Borrowed from Italian {giallo} 'yellow'.	Salzano 2015; Stornanti 2015; Sorbello 2015
@@ -4824,7 +4824,7 @@ CatanianSicilian_WE_1	Sicilian (Catanian)	east2279	scn	WE	nui	nui	n u i	nui	WE_1
 CatanianSicilian_WE_1	Sicilian (Catanian)	east2279	scn	WE	nuatri	nuˈaʈɽi	n u ˈa ʈ ɽ i	nu-ˈaʈɽ-i	WE_1	FALSE	Paradigm: nuy {nui} ~ nu-ˈaʈɽ-i {nuatri} ~ ni-ˈawʈɽ-i {niautri} [nom.] / ni {ni} [obl.] [Salerno 2015].	Corsaro 2015; La Mattina 2015; Salerno 2015
 CatanianSicilian_WE_1	Sicilian (Catanian)	east2279	scn	WE	niautri	niˈawʈɽi	n i ˈa w ʈ ɽ i	ni-ˈawʈɽ-i	WE_1	FALSE	Paradigm: nuy {nui} ~ nu-ˈaʈɽ-i {nuatri} ~ ni-ˈawʈɽ-i {niautri} [nom.] / ni {ni} [obl.] [Salerno 2015].	Corsaro 2015; La Mattina 2015; Salerno 2015
 CatanianSicilian_WHAT_1	Sicilian (Catanian)	east2279	scn	WHAT	chi	ki	k i	ki	WHAT_1	FALSE	La Mattina mentions the term kˈɔs-a {cosa} 'what' [La Mattina 2015], but it seems to be an Italianism.	Corsaro 2015; Salerno 2015
-CatanianSicilian_WHITE_-1	Sicilian (Catanian)	east2279	scn	WHITE	iancu	ˈjaŋku	ˈj a ŋ k u	ˈyaŋk-u	WHITE_1	TRUE	An old borrowing from some Germanic source.	Corsaro 2015; La Mattina 2015; Salerno 2015
+CatanianSicilian_WHITE_-1	Sicilian (Catanian)	east2279	scn	WHITE	iancu	ˈjaŋku	ˈj a ŋ k u	ˈyaŋk-u	WHITE_2	TRUE	An old borrowing from some Germanic source.	Corsaro 2015; La Mattina 2015; Salerno 2015
 CatanianSicilian_WHO_1	Sicilian (Catanian)	east2279	scn	WHO	cui	kui	k u i	kui	WHO_1	FALSE		Corsaro 2015; La Mattina 2015; Salerno 2015
 CatanianSicilian_WOMAN_2	Sicilian (Catanian)	east2279	scn	WOMAN	fimmina	fˈimːina	f ˈi mː i n a	fˈimːin-a	WOMAN_2	FALSE	Distinct from muȡːˈɛɾ-i {mugghieri} 'wife' [La Mattina 2015; Salerno 2015].	Corsaro 2015; La Mattina 2015; Salerno 2015
 CatanianSicilian_YELLOW_-1	Sicilian (Catanian)	east2279	scn	YELLOW	giallu	ʤˈalːu	ʤ ˈa lː u	ǯˈalː-u	YELLOW_2	TRUE	Borrowed from Italian {giallo} 'yellow'.	Corsaro 2015; La Mattina 2015; Salerno 2015
@@ -4940,8 +4940,8 @@ South-EasternSicilian_WARM (OF WEATHER)_1	Sicilian (Southeastern)	sout2617	scn	W
 South-EasternSicilian_WATER_1	Sicilian (Southeastern)	sout2617	scn	WATER	accua	ˈakːwa	ˈa kː w a	ˈakːw-a	WATER_1	FALSE		Leggio 2015; Miccichè 2015
 South-EasternSicilian_WE_1	Sicilian (Southeastern)	sout2617	scn	WE	niautri	niˈawʈɽi	n i ˈa w ʈ ɽ i	ni-ˈawʈɽ-i	WE_1	FALSE	Paradigm: ni-ˈawʈɽ-i {niautri} (Agrigento: nuy {nui}) [nom.] / ni {ni} [obl.] [Leggio 2015; Miccichè 2015].	Leggio 2015
 South-EasternSicilian_WHAT_1	Sicilian (Southeastern)	sout2617	scn	WHAT	chi	ki	k i	ki	WHAT_1	FALSE		Leggio 2015; Miccichè 2015
-South-EasternSicilian_WHITE_-1	Sicilian (Southeastern)	sout2617	scn	WHITE	brancu	brˈaŋku	b r ˈa ŋ k u	brˈaŋk-u	WHITE_1	TRUE	Agrigento: bˈyaŋk-u {biancu} ~ ˈyaŋk-u {jancu} 'white' [Miccichè 2015]. An old borrowing from some Germanic source.	Leggio 2015
-South-EasternSicilian_WHITE_-1	Sicilian (Southeastern)	sout2617	scn	WHITE	jancu	ˈjaŋku	ˈj a ŋ k u	ˈyaŋk-u	WHITE_1	TRUE	Agrigento: bˈyaŋk-u {biancu} ~ ˈyaŋk-u {jancu} 'white' [Miccichè 2015]. An old borrowing from some Germanic source.	Leggio 2015
+South-EasternSicilian_WHITE_-1	Sicilian (Southeastern)	sout2617	scn	WHITE	brancu	brˈaŋku	b r ˈa ŋ k u	brˈaŋk-u	WHITE_2	TRUE	Agrigento: bˈyaŋk-u {biancu} ~ ˈyaŋk-u {jancu} 'white' [Miccichè 2015]. An old borrowing from some Germanic source.	Leggio 2015
+South-EasternSicilian_WHITE_-1	Sicilian (Southeastern)	sout2617	scn	WHITE	jancu	ˈjaŋku	ˈj a ŋ k u	ˈyaŋk-u	WHITE_2	TRUE	Agrigento: bˈyaŋk-u {biancu} ~ ˈyaŋk-u {jancu} 'white' [Miccichè 2015]. An old borrowing from some Germanic source.	Leggio 2015
 South-EasternSicilian_WHO_1	Sicilian (Southeastern)	sout2617	scn	WHO	cui	kui	k u i	kui	WHO_1	FALSE	Agrigento: ku {ku} 'who' [Miccichè 2015].	Leggio 2015
 South-EasternSicilian_WOMAN_2	Sicilian (Southeastern)	sout2617	scn	WOMAN	fimmina	fˈimːina	f ˈi mː i n a	fˈimːin-a	WOMAN_2	FALSE	Distinct from muȡːˈyɛɾ-i {mugghieri} 'wife' [Leggio 2015].	Leggio 2015; Miccichè 2015
 South-EasternSicilian_YELLOW_-1	Sicilian (Southeastern)	sout2617	scn	YELLOW	gghiarnu	ɟːˈaɾnu	ɟː ˈa ɾ n u	ȡːˈaɾn-u	YELLOW_2	TRUE	The later Italianism ǯˈalː-u {giallu} 'yellow' can be used as well [Leggio 2015; Miccichè 2015].	Leggio 2015
@@ -5058,7 +5058,7 @@ CentralCatalan_WARM (OF WEATHER)_1	Catalan (Central)	nons1235	cat	WARM (OF WEATH
 CentralCatalan_WATER_1	Catalan (Central)	nons1235	cat	WATER	aigua	ˈajɣwə	ˈa j ɣ w ə	ˈayɣw-ə	WATER_1	FALSE	A more colloquial pronunciation is ˈayɣ-ə [Alòs i Font 2015].	Alòs i Font 2015; Llorens 2015; EDCC 1993: 9
 CentralCatalan_WE_1	Catalan (Central)	nons1235	cat	WE	nosaltres	nuzˈaɫtɾəs	n u z ˈa ɫ t ɾ ə s	nuz-ˈaɫtɾ-əs	WE_1	FALSE	A more colloquial pronunciation is nuz-ˈatɾ-əs. Narumov 2001: 508. Paradigm: nuz-ˈaɫtɾ-əs {nosaltres} [nom.] / nus {nos} (enclitic) ~ əns {ens} (proclitic) ~ ns {'ns} (elided) [obl.].	Alòs i Font 2015; Llorens 2015; EDCC 1993: 202
 CentralCatalan_WHAT_1	Catalan (Central)	nons1235	cat	WHAT	què	kɛ	k ɛ	kɛ	WHAT_1	FALSE		Alòs i Font 2015; Llorens 2015; EDCC 1993: 237
-CentralCatalan_WHITE_-1	Catalan (Central)	nons1235	cat	WHITE	blanc	bɫaŋ	b ɫ a ŋ	bɫaŋ	WHITE_1	TRUE	An old borrowing from some Germanic source.	Alòs i Font 2015; Llorens 2015; EDCC 1993: 37
+CentralCatalan_WHITE_-1	Catalan (Central)	nons1235	cat	WHITE	blanc	bɫaŋ	b ɫ a ŋ	bɫaŋ	WHITE_2	TRUE	An old borrowing from some Germanic source.	Alòs i Font 2015; Llorens 2015; EDCC 1993: 37
 CentralCatalan_WHO_1	Catalan (Central)	nons1235	cat	WHO	qui	ki	k i	ki	WHO_1	FALSE		Alòs i Font 2015; Llorens 2015; EDCC 1993: 236
 CentralCatalan_WOMAN_5	Catalan (Central)	nons1235	cat	WOMAN	dona	dˈɔnə	d ˈɔ n ə	dˈɔn-ə	WOMAN_5	FALSE	Polysemy: 'woman / wife'. In the meaning ˈwifeˈ the word muʎˈer {muller} is used as well, especially in formal speech [Alòs i Font 2015; Llorens 2015].	Alòs i Font 2015; Llorens 2015; EDCC 1993: 197
 CentralCatalan_YELLOW_4	Catalan (Central)	nons1235	cat	YELLOW	groc	ɡɾɔk	ɡ ɾ ɔ k	gɾɔk	YELLOW_4	FALSE	Goes back to Latin {crocus} 'saffron', which is borrowed from Ancient Greek {κρόκος} 'saffron', but we do not regard this word as a borrowing, because the meaning shift 'saffron' > 'yellow' took place already in Catalan.	Alòs i Font 2015; Llorens 2015; EDCC 1993: 15
@@ -5182,7 +5182,7 @@ North-WesternCatalan_WE_1	Catalan (Northwestern)	cata1291	cat	WE	nosaltres	nozˈ
 North-WesternCatalan_WE_1	Catalan (Northwestern)	cata1291	cat	WE	naltres	nˈaɫtɾes	n ˈa ɫ t ɾ e s	nˈaɫtɾ-es	WE_1	FALSE		Montagut 2015; Balletbò 2015
 North-WesternCatalan_WE_1	Catalan (Northwestern)	cata1291	cat	WE	nantros	nˈantɾos	n ˈa n t ɾ o s	nˈantɾ-os	WE_1	FALSE		Montagut 2015; Balletbò 2015
 North-WesternCatalan_WHAT_1	Catalan (Northwestern)	cata1291	cat	WHAT	què	ke	k e	ke	WHAT_1	FALSE		Montagut 2015; Balletbò 2015
-North-WesternCatalan_WHITE_-1	Catalan (Northwestern)	cata1291	cat	WHITE	blanc	bɫaŋ	b ɫ a ŋ	bɫaŋ	WHITE_1	TRUE	An old borrowing from some Germanic source.	Montagut 2015; Balletbò 2015
+North-WesternCatalan_WHITE_-1	Catalan (Northwestern)	cata1291	cat	WHITE	blanc	bɫaŋ	b ɫ a ŋ	bɫaŋ	WHITE_2	TRUE	An old borrowing from some Germanic source.	Montagut 2015; Balletbò 2015
 North-WesternCatalan_WHO_1	Catalan (Northwestern)	cata1291	cat	WHO	qui	ki	k i	ki	WHO_1	FALSE		Montagut 2015; Balletbò 2015
 North-WesternCatalan_WOMAN_5	Catalan (Northwestern)	cata1291	cat	WOMAN	dona	dˈɔnɛ	d ˈɔ n ɛ	dˈɔn-ɛ	WOMAN_5	FALSE	Polysemy: 'woman / wife'. Distinct from muʎˈer {muller} 'wife' [Montagut 2015; Balletbò 2015].	Montagut 2015; Balletbò 2015
 North-WesternCatalan_YELLOW_4	Catalan (Northwestern)	cata1291	cat	YELLOW	groc	ɡɾɔk	ɡ ɾ ɔ k	gɾɔk	YELLOW_4	FALSE		Montagut 2015; Balletbò 2015
@@ -5298,7 +5298,7 @@ MinorcanCatalan_WARM (OF WEATHER)_1	Catalan (Minorcan)	meno1253	cat	WARM (OF WEA
 MinorcanCatalan_WATER_1	Catalan (Minorcan)	meno1253	cat	WATER	aigua	ˈajɣu	ˈa j ɣ u	ˈayɣ-u	WATER_1	FALSE		Cardona 2015
 MinorcanCatalan_WE_1	Catalan (Minorcan)	meno1253	cat	WE	noltros	nˈoɫtɾus	n ˈo ɫ t ɾ u s	nˈo-ɫtɾ-us	WE_1	FALSE	Paradigm: nˈo-ɫtɾ-us {noltros} [nom.] / mus {mos} (clitic)  ~ ns {'ns} (elided) [obl.].	Cardona 2015
 MinorcanCatalan_WHAT_1	Catalan (Minorcan)	meno1253	cat	WHAT	què	kɛ	k ɛ	kɛ	WHAT_1	FALSE		Cardona 2015
-MinorcanCatalan_WHITE_-1	Catalan (Minorcan)	meno1253	cat	WHITE	blanc	bɫaŋ	b ɫ a ŋ	bɫaŋ	WHITE_1	TRUE	An old borrowing from some Germanic source.	Cardona 2015
+MinorcanCatalan_WHITE_-1	Catalan (Minorcan)	meno1253	cat	WHITE	blanc	bɫaŋ	b ɫ a ŋ	bɫaŋ	WHITE_2	TRUE	An old borrowing from some Germanic source.	Cardona 2015
 MinorcanCatalan_WHO_1	Catalan (Minorcan)	meno1253	cat	WHO	qui	ki	k i	ki	WHO_1	FALSE		Cardona 2015
 MinorcanCatalan_WOMAN_5	Catalan (Minorcan)	meno1253	cat	WOMAN	dona	dˈɔnə	d ˈɔ n ə	dˈɔn-ə	WOMAN_5	FALSE	Polysemy: 'woman / wife'.	Cardona 2015
 MinorcanCatalan_YELLOW_4	Catalan (Minorcan)	meno1253	cat	YELLOW	groc	ɡɾɔk	ɡ ɾ ɔ k	gɾɔk	YELLOW_4	FALSE		Cardona 2015
@@ -5413,7 +5413,7 @@ CastellódelaPlanaCatalan_WARM (OF WEATHER)_1	Catalan (Castelló de la Plana)	v
 CastellódelaPlanaCatalan_WATER_1	Catalan (Castelló de la Plana)	vale1255	cat	WATER	aigua	ˈajɣwa	ˈa j ɣ w a	ˈayɣw-a	WATER_1	FALSE		Barreda 2015
 CastellódelaPlanaCatalan_WE_1	Catalan (Castelló de la Plana)	vale1255	cat	WE	nosaltres	mozˈatɾos	m o z ˈa t ɾ o s	moz-ˈatɾ-os	WE_1	FALSE	Paradigm: noz-ˈaɫtɾ-es {nosaltres} ~ nˈatɾ-os {natros} ~ noz-ˈatɾ-os {nosatros} [nom.] / mos {mos} [obl.].	Barreda 2015
 CastellódelaPlanaCatalan_WHAT_1	Catalan (Castelló de la Plana)	vale1255	cat	WHAT	què	ke	k e	ke	WHAT_1	FALSE		Barreda 2015
-CastellódelaPlanaCatalan_WHITE_-1	Catalan (Castelló de la Plana)	vale1255	cat	WHITE	blanc	bɫaŋk	b ɫ a ŋ k	bɫaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Barreda 2015
+CastellódelaPlanaCatalan_WHITE_-1	Catalan (Castelló de la Plana)	vale1255	cat	WHITE	blanc	bɫaŋk	b ɫ a ŋ k	bɫaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Barreda 2015
 CastellódelaPlanaCatalan_WHO_1	Catalan (Castelló de la Plana)	vale1255	cat	WHO	quí	ki	k i	ki	WHO_1	FALSE		Barreda 2015
 CastellódelaPlanaCatalan_WOMAN_5	Catalan (Castelló de la Plana)	vale1255	cat	WOMAN	dona	dˈɔna	d ˈɔ n a	dˈɔn-a	WOMAN_5	FALSE		Barreda 2015
 CastellódelaPlanaCatalan_YELLOW_4	Catalan (Castelló de la Plana)	vale1255	cat	YELLOW	groc	ɡɾɔk	ɡ ɾ ɔ k	gɾɔk	YELLOW_4	FALSE		Barreda 2015
@@ -5529,7 +5529,7 @@ ValenciaCatalan_WARM (OF WEATHER)_1	Catalan (Valencia)	vale1252	cat	WARM (OF WEA
 ValenciaCatalan_WATER_1	Catalan (Valencia)	vale1252	cat	WATER	aigua	ˈaiwa	ˈa i w a	ˈaiw-a	WATER_1	FALSE		Pérez i Sanchis 2015
 ValenciaCatalan_WE_1	Catalan (Valencia)	vale1252	cat	WE	mosatros	mosˈatɾos	m o s ˈa t ɾ o s	mos-ˈatɾ-os	WE_1	FALSE	Paradigm: mos-ˈatɾ-os {mosatros} [nom.] / mos {mos} [obl.].	Pérez i Sanchis 2015
 ValenciaCatalan_WHAT_1	Catalan (Valencia)	vale1252	cat	WHAT	què	ke	k e	ke	WHAT_1	FALSE		Pérez i Sanchis 2015
-ValenciaCatalan_WHITE_-1	Catalan (Valencia)	vale1252	cat	WHITE	blanc	bɫaŋk	b ɫ a ŋ k	bɫaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Pérez i Sanchis 2015
+ValenciaCatalan_WHITE_-1	Catalan (Valencia)	vale1252	cat	WHITE	blanc	bɫaŋk	b ɫ a ŋ k	bɫaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Pérez i Sanchis 2015
 ValenciaCatalan_WHO_1	Catalan (Valencia)	vale1252	cat	WHO	quí	ki	k i	ki	WHO_1	FALSE		Pérez i Sanchis 2015
 ValenciaCatalan_WOMAN_5	Catalan (Valencia)	vale1252	cat	WOMAN	dona	dˈɔna	d ˈɔ n a	dˈɔn-a	WOMAN_5	FALSE	Distinct from muʎˈer {muller} 'wife' [Pérez i Sanchis 2015].	Pérez i Sanchis 2015
 ValenciaCatalan_YELLOW_4	Catalan (Valencia)	vale1252	cat	YELLOW	groc	ɡɾɔk	ɡ ɾ ɔ k	gɾɔk	YELLOW_4	FALSE		Pérez i Sanchis 2015
@@ -5645,7 +5645,7 @@ ManisesCatalan_WARM (OF WEATHER)_1	Catalan (Manises)	vale1253	cat	WARM (OF WEATH
 ManisesCatalan_WATER_1	Catalan (Manises)	vale1253	cat	WATER	aigua	ˈaiwa	ˈa i w a	ˈaiw-a	WATER_1	FALSE		Pedrós 2015
 ManisesCatalan_WE_1	Catalan (Manises)	vale1253	cat	WE	nosaltres	mosˈatɾos	m o s ˈa t ɾ o s	mos-ˈatɾ-os	WE_1	FALSE	Paradigm: noz-ˈaɫtɾ-es {nosaltres} [nom.] / mos {mos} [obl.].	Pedrós 2015
 ManisesCatalan_WHAT_1	Catalan (Manises)	vale1253	cat	WHAT	què	ke	k e	ke	WHAT_1	FALSE		Pedrós 2015
-ManisesCatalan_WHITE_-1	Catalan (Manises)	vale1253	cat	WHITE	blanc	bɫaŋk	b ɫ a ŋ k	bɫaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Pedrós 2015
+ManisesCatalan_WHITE_-1	Catalan (Manises)	vale1253	cat	WHITE	blanc	bɫaŋk	b ɫ a ŋ k	bɫaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Pedrós 2015
 ManisesCatalan_WHO_1	Catalan (Manises)	vale1253	cat	WHO	qui	ki	k i	ki	WHO_1	FALSE		Pedrós 2015
 ManisesCatalan_WOMAN_5	Catalan (Manises)	vale1253	cat	WOMAN	dona	dˈɔna	d ˈɔ n a	dˈɔn-a	WOMAN_5	FALSE	Polysemy: 'woman / wife'. Distinct from muʎˈer {muller} 'wife' [Pedrós 2015].	Pedrós 2015
 ManisesCatalan_YELLOW_4	Catalan (Manises)	vale1253	cat	YELLOW	groc	ɡɾɔk	ɡ ɾ ɔ k	gɾɔk	YELLOW_4	FALSE		Pedrós 2015
@@ -5760,7 +5760,7 @@ CastilianSpanish_WARM (OF WEATHER)_1	Spanish	cast1244	spa	WARM (OF WEATHER)	cali
 CastilianSpanish_WATER_1	Spanish	cast1244	spa	WATER	agua	ˈaɣwa	ˈa ɣ w a	ˈaɣw-a	WATER_1	FALSE		Valén 2015
 CastilianSpanish_WE_1	Spanish	cast1244	spa	WE	nosotros	nosˈotɾos	n o s ˈo t ɾ o s	nos-ˈotɾ-os	WE_1	FALSE	Paradigm: nos-ˈotɾ-os {nosotros} [nom.] / nos {nos} [obl.].	Valén 2015; Narumov 2001: 444
 CastilianSpanish_WHAT_1	Spanish	cast1244	spa	WHAT	qué	ke	k e	ke	WHAT_1	FALSE		Valén 2015
-CastilianSpanish_WHITE_-1	Spanish	cast1244	spa	WHITE	blanco	blˈaŋko	b l ˈa ŋ k o	blˈaŋk-o	WHITE_1	TRUE	An old borrowing from some Germanic source.	Valén 2015
+CastilianSpanish_WHITE_-1	Spanish	cast1244	spa	WHITE	blanco	blˈaŋko	b l ˈa ŋ k o	blˈaŋk-o	WHITE_2	TRUE	An old borrowing from some Germanic source.	Valén 2015
 CastilianSpanish_WHO_1	Spanish	cast1244	spa	WHO	quién	kjen	k j e n	kyen	WHO_1	FALSE		Valén 2015
 CastilianSpanish_WOMAN_1	Spanish	cast1244	spa	WOMAN	mujer	muxˈeɾ	m u x ˈe ɾ	muxˈeɾ 	WOMAN_1	FALSE	Polysemy : 'woman / wife'. Distinct from espˈos-a {esposa} 'spouse' [Valén 2015.].	Valén 2015
 CastilianSpanish_YELLOW_5	Spanish	cast1244	spa	YELLOW	amarillo	amaɾˈiʎo	a m a ɾ ˈi ʎ o	amaɾ-ˈiʎ-o	YELLOW_5	FALSE		Valén 2015
@@ -5876,7 +5876,7 @@ Asturian_WARM (OF WEATHER)_1	Asturian	astu1246	ast	WARM (OF WEATHER)	caliente	ka
 Asturian_WATER_1	Asturian	astu1246	ast	WATER	agua	ˈaɡwa	ˈa ɡ w a	ˈagw-a	WATER_1	FALSE	Langreo: ˈagw-a {agua} 'water' [González Rato 2016].	Riego-Delgado 2016
 Asturian_WE_1	Asturian	astu1246	ast	WE	nos	nos	n o s	nos	WE_1	FALSE	Indeclinable form. Langreo: nos {nós} ~ nos-ˈotɾ-os {nosotros} 'we' [González Rato 2016].	Riego-Delgado 2016; Narumov 2001: 545
 Asturian_WHAT_1	Asturian	astu1246	ast	WHAT	qué	ke	k e	ke	WHAT_1	FALSE	Langreo: ke {qué} 'what' [González Rato 2016].	Riego-Delgado 2016
-Asturian_WHITE_-1	Asturian	astu1246	ast	WHITE	blanco	blˈaŋko	b l ˈa ŋ k o	blˈaŋk-o	WHITE_1	TRUE	Langreo: blˈaŋk-u {blancu} 'white' [González Rato 2016].	Riego-Delgado 2016
+Asturian_WHITE_-1	Asturian	astu1246	ast	WHITE	blanco	blˈaŋko	b l ˈa ŋ k o	blˈaŋk-o	WHITE_2	TRUE	Langreo: blˈaŋk-u {blancu} 'white' [González Rato 2016].	Riego-Delgado 2016
 Asturian_WHO_1	Asturian	astu1246	ast	WHO	quién	kjeŋ	k j e ŋ	kyeŋ	WHO_1	FALSE	Langreo: kyeŋ {quién} 'who' [González Rato 2016].	Riego-Delgado 2016
 Asturian_WOMAN_1	Asturian	astu1246	ast	WOMAN	muyer	mujˈeɾ	m u j ˈe ɾ	muyˈeɾ	WOMAN_1	FALSE	Langreo: muyˈeɾ {muyer} 'woman / wife', espˈos-a {esposa} 'wife' [González Rato 2016].	Riego-Delgado 2016
 Asturian_YELLOW_5	Asturian	astu1246	ast	YELLOW	amarillo	amaɾˈiʎo	a m a ɾ ˈi ʎ o	amaɾ-ˈiʎ-o	YELLOW_5	FALSE	Langreo: maɾ-ˈyeʎ-u {mariellu} 'yellow' [González Rato 2016].	Riego-Delgado 2016
@@ -5993,7 +5993,7 @@ StandardPortuguese_WARM (OF WEATHER)_1	Portuguese	port1283	por	WARM (OF WEATHER)
 StandardPortuguese_WATER_1	Portuguese	port1283	por	WATER	água	ˈaɣwɐ	ˈa ɣ w ɐ	ˈaɣw-ɐ	WATER_1	FALSE	1989: 70.	Voinova et al
 StandardPortuguese_WE_1	Portuguese	port1283	por	WE	nós	nɔʃ	n ɔ ʃ	nɔš	WE_1	FALSE	1989: 294; Volf 2001: 479. Paradigm: nɔš {nós} [nom.] / nuš {nos} ~ nu {no-} [obj.].	Voinova et al
 StandardPortuguese_WHAT_1	Portuguese	port1283	por	WHAT	o que	ukə	u k ə	u=kə	WHAT_1	FALSE	1989: 701. In the modern language the extended form u=kə {o que} is used, cf. the example: {Quem veio e o que trouxe?} "Who came and what did he bring?" [Pimentel Ferreira 2016].	Voinova et al
-StandardPortuguese_WHITE_-1	Portuguese	port1283	por	WHITE	branco	bɾˈɐ̃ŋku	b ɾ ˈɐ̃ ŋ k u	bɾˈɐ͂ŋk-u	WHITE_1	TRUE	1989: 35. An old borrowing from some Germanic source.	Voinova et al
+StandardPortuguese_WHITE_-1	Portuguese	port1283	por	WHITE	branco	bɾˈɐ̃ŋku	b ɾ ˈɐ̃ ŋ k u	bɾˈɐ͂ŋk-u	WHITE_2	TRUE	1989: 35. An old borrowing from some Germanic source.	Voinova et al
 StandardPortuguese_WHO_1	Portuguese	port1283	por	WHO	quem	kɐ̃j̃	k ɐ̃ j̃	kɐ͂y͂	WHO_1	FALSE	1989: 251.	Voinova et al
 StandardPortuguese_WOMAN_1	Portuguese	port1283	por	WOMAN	mulher	muʎˈɛɾ	m u ʎ ˈɛ ɾ	muʎˈɛɾ	WOMAN_1	FALSE	1989: 157. Polysemy: 'woman / wife'. Distinct from išpˈoz-ɐ {esposa} 'wife' [Voinova et al. 1989: 157].	Voinova et al
 StandardPortuguese_YELLOW_5	Portuguese	port1283	por	YELLOW	amarelo	ɐmɐɾˈɛlu	ɐ m ɐ ɾ ˈɛ l u	ɐmɐɾ-ˈɛl-u	YELLOW_5	FALSE	1989: 157.	Voinova et al
@@ -6111,7 +6111,7 @@ Galician_WARM (OF WEATHER)_-1	Galician	gali1258	glg	WARM (OF WEATHER)	cálido	k�
 Galician_WATER_1	Galician	gali1258	glg	WATER	auga	ˈawɣa	ˈa w ɣ a	ˈawɣ-a	WATER_1	FALSE		Montoya Bolaños 2015; Franco Grande 1968: 760, 133; Fernández Armesto 1981: 40; Carré Alvarellos 1972: 916, 131
 Galician_WE_1	Galician	gali1258	glg	WE	nós	nɔs	n ɔ s	nɔs	WE_1	FALSE	Undeclinable; in the indirect case is used without stress. 	Montoya Bolaños 2015; Narumov 2001: 530; Franco Grande 1968: 824, 574; Fernández Armesto 1981: 536; Carré Alvarellos 1972: 993, 558
 Galician_WHAT_1	Galician	gali1258	glg	WHAT	qué	ke	k e	ke	WHAT_1	FALSE		Montoya Bolaños 2015; Fernández Armesto 1981: 612; Carré Alvarellos 1972: 1011, 735
-Galician_WHITE_-1	Galician	gali1258	glg	WHITE	branco	bɾˈaŋko	b ɾ ˈa ŋ k o	bɾˈaŋk-o	WHITE_1	TRUE	An old borrowing from some Germanic source. Distinct from albˈeyɾ-o {albeiro} 'white', which is rather restricted in use: {fariña albeira} "white flour", {pan albeiro} "white bread", {un seixo albeiro} "a white pebble" [Montoya Bolaños 2016; DRAG 2016]. 	Montoya Bolaños 2015; Franco Grande 1968: 770, 181; Fernández Armesto 1981: 128; Carré Alvarellos 1972: 931; Carré Alvarellos 1972: 41
+Galician_WHITE_-1	Galician	gali1258	glg	WHITE	branco	bɾˈaŋko	b ɾ ˈa ŋ k o	bɾˈaŋk-o	WHITE_2	TRUE	An old borrowing from some Germanic source. Distinct from albˈeyɾ-o {albeiro} 'white', which is rather restricted in use: {fariña albeira} "white flour", {pan albeiro} "white bread", {un seixo albeiro} "a white pebble" [Montoya Bolaños 2016; DRAG 2016]. 	Montoya Bolaños 2015; Franco Grande 1968: 770, 181; Fernández Armesto 1981: 128; Carré Alvarellos 1972: 931; Carré Alvarellos 1972: 41
 Galician_WHO_1	Galician	gali1258	glg	WHO	quen	keŋ	k e ŋ	keŋ	WHO_1	FALSE		Montoya Bolaños 2015; Fernández Armesto 1981: 613; Carré Alvarellos 1972: 1011, 737-738
 Galician_WOMAN_1	Galician	gali1258	glg	WOMAN	muller	muʎˈɛɾ	m u ʎ ˈɛ ɾ	muʎˈɛɾ	WOMAN_1	FALSE	Distinct from dˈɔn-a {dona} 'wife' [Montoya Bolaños 2015]. 	Montoya Bolaños 2015; Franco Grande 1968: 822, 565; Fernández Armesto 1981: 527; Carré Alvarellos 1972: 991, 647
 Galician_YELLOW_5	Galician	gali1258	glg	YELLOW	amarelo	amaɾˈɛlo	a m a ɾ ˈɛ l o	amaɾ-ˈɛl-o	YELLOW_5	FALSE		Montoya Bolaños 2015; Franco Grande 1968: 762, 73; Fernández Armesto 1981: 61; Carré Alvarellos 1972: 919, 615
@@ -6245,7 +6245,7 @@ ProvençalOccitan_WARM (OF WEATHER)_1	Occitan	prov1235	oci	WARM (OF WEATHER)	cau
 ProvençalOccitan_WATER_1	Occitan	prov1235	oci	WATER	aigo	ˈajɡo	ˈa j ɡ o	ˈayg-o	WATER_1	FALSE		Coupier 1995: 445
 ProvençalOccitan_WE_1	Occitan	prov1235	oci	WE	nous	nus	n u s	nus	WE_1	FALSE		Coupier 1995: 946
 ProvençalOccitan_WHAT_1	Occitan	prov1235	oci	WHAT	que	ke	k e	ke	WHAT_1	FALSE		Coupier 1995: 1141
-ProvençalOccitan_WHITE_-1	Occitan	prov1235	oci	WHITE	blanc	blaŋk	b l a ŋ k	blaŋk	WHITE_1	TRUE	An old borrowing from some Germanic source.	Coupier 1995: 153
+ProvençalOccitan_WHITE_-1	Occitan	prov1235	oci	WHITE	blanc	blaŋk	b l a ŋ k	blaŋk	WHITE_2	TRUE	An old borrowing from some Germanic source.	Coupier 1995: 153
 ProvençalOccitan_WHO_1	Occitan	prov1235	oci	WHO	qu	ku	k u	ku	WHO_1	FALSE		Coupier 1995: 1144
 ProvençalOccitan_WHO_1	Occitan	prov1235	oci	WHO	quau	kau	k a u	kau	WHO_1	FALSE		Coupier 1995: 1144
 ProvençalOccitan_WOMAN_2	Occitan	prov1235	oci	WOMAN	femo	fˈemo	f ˈe m o	fˈem-o	WOMAN_2	FALSE	Polysemy: 'woman / wife'.	Coupier 1995: 581-582
@@ -6387,7 +6387,7 @@ SavoyardFranco-Provençal_WATER_1	Franco-Provençal	savo1253	frp	WATER	éga	ˈe�
 SavoyardFranco-Provençal_WE_1	Franco-Provençal	savo1253	frp	WE	no	no	n o	no	WE_1	FALSE	The second form is used before a vowel.	Viret 2013: 1482-1483
 SavoyardFranco-Provençal_WE_1	Franco-Provençal	savo1253	frp	WE	noz	noz	n o z	noz	WE_1	FALSE	The second form is used before a vowel.	Viret 2013: 1482-1483
 SavoyardFranco-Provençal_WHAT_1	Franco-Provençal	savo1253	frp	WHAT	kai	kaj	k a j	kay	WHAT_1	FALSE		Viret 2013: 1769-1770
-SavoyardFranco-Provençal_WHITE_-1	Franco-Provençal	savo1253	frp	WHITE	blyan	bʎã	b ʎ ã	bʎã	WHITE_1	TRUE		Viret 2013: 309
+SavoyardFranco-Provençal_WHITE_-1	Franco-Provençal	savo1253	frp	WHITE	blyan	bʎã	b ʎ ã	bʎã	WHITE_2	TRUE		Viret 2013: 309
 SavoyardFranco-Provençal_WHO_1	Franco-Provençal	savo1253	frp	WHO	kwi	kwi	k w i	kwi	WHO_1	FALSE		Viret 2013: 1766-1767
 SavoyardFranco-Provençal_WOMAN_2	Franco-Provençal	savo1253	frp	WOMAN	fèna	fˈɛna	f ˈɛ n a	fˈɛna	WOMAN_2	FALSE		Viret 2013: 952-955
 SavoyardFranco-Provençal_YELLOW_2	Franco-Provençal	savo1253	frp	YELLOW	zhôno	ðˈono	ð ˈo n o	ðˈon-o	YELLOW_2	FALSE		Viret 2013: 1207
@@ -6509,7 +6509,7 @@ OldFrench_WARM (OF WEATHER)_1	Old French	oldf1239	fro	WARM (OF WEATHER)	chaut	ʧ
 OldFrench_WATER_1	Old French	oldf1239	fro	WATER	aigue	ˈejɡə	ˈe j ɡ ə	ˈeyg-ə	WATER_1	FALSE		EDCT 2014: 27-28
 OldFrench_WE_1	Old French	oldf1239	fro	WE	nos	nos	n o s	nos	WE_1	FALSE	Indeclinable pronoun. Does not have a separate entry in the EDCT, but frequently occurs in texts, cf. some examples: {Nos savomes bien tuit piece a // quel costume li blans cers a} "We all know long since what this custom of the White Stag is" (Erec 43-44); {De mout grant folie vos vient // quant vos rien nos an demandez} "You must be mad to make any demand of us" (Erec 4392-4393).	Chelysheva 2001: 268
 OldFrench_WHAT_1	Old French	oldf1239	fro	WHAT	que	kə	k ə	kə	WHAT_1	FALSE	some examples: {Puis dist as chevaliers : "Seignor, // que dites vos? Que vos an sanble?"} "Then he added to the knights: "My lords, what say you? What is your opinion?" (Erec 1736-1737); {Mes qu'ai ge dit?} "But what did I say?" (Erec 4606).	Does not have a separate entry in the EDCT, but frequently occurs in texts, cf
-OldFrench_WHITE_-1	Old French	oldf1239	fro	WHITE	blanc	blãŋk	b l ã ŋ k	blãŋk	WHITE_1	TRUE		EDCT 2014: 137
+OldFrench_WHITE_-1	Old French	oldf1239	fro	WHITE	blanc	blãŋk	b l ã ŋ k	blãŋk	WHITE_2	TRUE		EDCT 2014: 137
 OldFrench_WHO_1	Old French	oldf1239	fro	WHO	qui	ki	k i	ki	WHO_1	FALSE	some examples: {Qui est? Qui est cil chevaliers?} "Who is yonder knight?" (Erec 753); {Cui? fet il. Vassax, qui es tu, // qui l'esprevier m'as contredit?} "Vassal," he cries, "who art thou who dost thus dispute with me the hawk?" (Erec 840-841).	Does not have a separate entry in the EDCT, but frequently occurs in texts, cf
 OldFrench_WOMAN_2	Old French	oldf1239	fro	WOMAN	feme	fˈãmə	f ˈã m ə	fˈãm-ə	WOMAN_2	FALSE	Polysemy: 'woman / wife'. Distinct from dˈãm-ə {dame} 'lady, noble woman' [EDCT 2014: 283-284]. Distinct from espˈos-ə {espose} 'wife' [EDCT 2014: 450].	EDCT 2014: 488-489
 OldFrench_YELLOW_2	Old French	oldf1239	fro	YELLOW	jaune	ʤˈawnə	ʤ ˈa w n ə	ǯˈawn-ə	YELLOW_2	FALSE		EDCT 2014: 601
@@ -6626,7 +6626,7 @@ StandardFrench_WARM (OF WEATHER)_1	French	stan1290	fra	WARM (OF WEATHER)	chaud	�
 StandardFrench_WATER_1	French	stan1290	fra	WATER	eau	o	o	o	WATER_1	FALSE		Robert-Collins 1989: 798-799; Rayevskaya 2013: 361
 StandardFrench_WE_1	French	stan1290	fra	WE	nous	nu	n u	nu	WE_1	FALSE	2001: 230. Indeclinable form.	Robert-Collins 1989: 801; Rayevskaya 2013: 477; Referovskaya et al
 StandardFrench_WHAT_1	French	stan1290	fra	WHAT	que	kə	k ə	kə	WHAT_1	FALSE	The form kwa {quoi} is used after prepositions [Robert-Collins 1989: 806].	Robert-Collins 1989: 806; Rayevskaya 2013: 642
-StandardFrench_WHITE_-1	French	stan1290	fra	WHITE	blanc	blɑ̃	b l ɑ̃	blɑ	WHITE_1	TRUE	An old borrowing from some Germanic source.	Robert-Collins 1989: 810; Rayevskaya 2013: 341
+StandardFrench_WHITE_-1	French	stan1290	fra	WHITE	blanc	blɑ̃	b l ɑ̃	blɑ	WHITE_2	TRUE	An old borrowing from some Germanic source.	Robert-Collins 1989: 810; Rayevskaya 2013: 341
 StandardFrench_WHO_1	French	stan1290	fra	WHO	qui	ki	k i	ki	WHO_1	FALSE		Robert-Collins 1989: 811; Rayevskaya 2013: 456
 StandardFrench_WOMAN_2	French	stan1290	fra	WOMAN	femme	fam	f a m	fam	WOMAN_2	FALSE	Polysemy: 'woman / wife'. Distinct from epuz {épouse} 'spouse' [Robert-Collins 1989: 812-813].	Robert-Collins 1989: 819; Rayevskaya 2013: 409
 StandardFrench_YELLOW_2	French	stan1290	fra	YELLOW	jaune	ʒon	ʒ o n	žon	YELLOW_2	FALSE		Robert-Collins 1989: 830; Rayevskaya 2013: 408
@@ -6741,7 +6741,7 @@ Picard_WARM (OF WEATHER)_1	Picard	pica1241	pcd	WARM (OF WEATHER)	keud	kø	k ø	k
 Picard_WATER_1	Picard	pica1241	pcd	WATER	ieu	jø	j ø	yö	WATER_1	FALSE		Leplubo 2016
 Picard_WE_1	Picard	pica1241	pcd	WE	os	o	o	o	WE_1	FALSE	Paradigm: o {os} [nom.] / no {no} [obl.].	Leplubo 2016
 Picard_WHAT_1	Picard	pica1241	pcd	WHAT	quoé	kwe	k w e	kwe	WHAT_1	FALSE		Leplubo 2016
-Picard_WHITE_-1	Picard	pica1241	pcd	WHITE	blank	blɑ̃	b l ɑ̃	blɑ̃	WHITE_1	TRUE	An old borrowing from some Germanic source.	Leplubo 2016
+Picard_WHITE_-1	Picard	pica1241	pcd	WHITE	blank	blɑ̃	b l ɑ̃	blɑ̃	WHITE_2	TRUE	An old borrowing from some Germanic source.	Leplubo 2016
 Picard_WHO_1	Picard	pica1241	pcd	WHO	qui	ki	k i	ki	WHO_1	FALSE		Leplubo 2016
 Picard_WOMAN_2	Picard	pica1241	pcd	WOMAN	feume	fœm	f œ m	fœm	WOMAN_2	FALSE	Distinct from buʁž-wɛz {bourjouèse} 'wife' [Leplubo 2016].	Leplubo 2016
 Picard_YELLOW_2	Picard	pica1241	pcd	YELLOW	ganne	ɡɑ̃n	ɡ ɑ̃ n	gɑ̃n	YELLOW_2	FALSE		Leplubo 2016
@@ -6866,7 +6866,7 @@ Walloon_WATER_1	Walloon	wall1255	wln	WATER	êwe	eːw	eː w	eːw	WATER_1	FALSE	Ri
 Walloon_WE_3	Walloon	wall1255	wln	WE	dju	ʤy	ʤ y	ǯü	WE_3	FALSE	Paradigm: ǯü {dju} [nom.] / nuz-ot {nouzôtes} ~ nu {nous} (clitic) [obl.]. In the nominative the inherited form was replaced by the pronoun ǯü {dju} 'I', but this does not lead to misunderstanding due to the difference in verb forms: {dju tchante} "I sing", but {dju tchantans} "we sing"; {dju va vey} "I will see", but {dju vons vey} ~ {dj'alans vey} "we will see". Some examples of oblique forms: {nouzôtes, dju nous plaijhans bin vaici} "we are happy here"; {vin avu nouzôtes} "come with us"; {dju n' nous vons nin bate po ça!} "We won't fight for that!" [Mahin 2016]. Rifondou: nɔ {nos} ~ ǯi {dji} [nom.] / nuz-ot {nouzôtes} ~ nɔ {nos} ~ nz {ns} (before vowel) 'we'. In Rifondou, in contrast to Transinne, {nos} can be used after prepositions as well: {c' est por nos} ~ {c' est po nozôtes} "it is for us" (Transinne: only {c' est pou nouzôtes} "it is for us") [Mahin 2016].	Mahin 2016
 Walloon_WE_1	Walloon	wall1255	wln	WE	nouzôtes	nuzot	n u z o t	nuz-ot	WE_1	FALSE		Oblique form
 Walloon_WHAT_1	Walloon	wall1255	wln	WHAT	cwè çku	kwɛsky	k w ɛ s k y	kwɛ-skü	WHAT_1	FALSE	With some verbs, the forms kwɛ {cwè} and kü {ku} can also be used: {cwè vuss?} "what would you like?", {ku dîross bin a ça!} "what could you answer to this?". Rifondou: kwɛ-ski {cwè зki} 'what', kwɛ {cwè} 'what', ki {ki} 'what'.	Mahin 2016
-Walloon_WHITE_-1	Walloon	wall1255	wln	WHITE	blanc	blã	b l ã	blã	WHITE_1	TRUE	Rifondou: blã {blanc} 'white'. An old borrowing from some Germanic source.	Mahin 2016
+Walloon_WHITE_-1	Walloon	wall1255	wln	WHITE	blanc	blã	b l ã	blã	WHITE_2	TRUE	Rifondou: blã {blanc} 'white'. An old borrowing from some Germanic source.	Mahin 2016
 Walloon_WHO_1	Walloon	wall1255	wln	WHO	kî	kiː	k iː	kiː	WHO_1	FALSE	Rifondou: kiː {kî} 'who'.	Mahin 2016
 Walloon_WOMAN_2	Walloon	wall1255	wln	WOMAN	fame	fam	f a m	fam	WOMAN_2	FALSE	Polysemy: 'woman / wife'. Distinct from ku=meʀ {coumére} 'teenage girl / young not married woman / fiancée / girlfriend / virgin', which is the same as French {commère} 'gossip', derived from Vulgar Latin {commater} 'godmother'. Cf. some examples: {ça dvint ene pitite coumére} "she is turning to a woman" (about 13 years old girl); {Djan è ruvnu avu sa} "John came back with his girlfriend"; {èle est co coumére} "she is still a virgin" [Mahin 2016]. In Rifondou Walloon we observe another situation: ki=mɛʀ {kimere} ~ k=mɛʀ {kmere} ~ ko=mɛʀ {comere} is used as generic term for 'woman' and fɛm {feme} means 'wife', but due to French influence it started extending its meaning to 'woman' in the past decades [Mahin 2016].	Mahin 2016
 Walloon_YELLOW_2	Walloon	wall1255	wln	YELLOW	djaune	ʤoːn	ʤ oː n	ǯoːn	YELLOW_2	FALSE	Rifondou: ǯɛn {djaene} 'yellow'.	Mahin 2016

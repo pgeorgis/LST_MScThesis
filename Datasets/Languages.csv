@@ -74,7 +74,7 @@ Italic	Indo-European, Italic, Western Romance	Ligurian (Rapallo)	Rapallo Liguria
 Italic	Indo-European, Italic, Western Romance	Ligurian (Stella)	Stella Ligurian	Ligurian	ligu1248	lij	Ligurian	Indo-European	Eurasia	44.0816	7.90522	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Lombard (Bergamo)	Bergamo Lombard	Bergamasco	berg1241	lmo	Lombard	Indo-European	Eurasia	45.8817	9.39509	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Lombard (Plesio)	Plesio Lombard	Western Lombard	west2343	lmo	Lombard	Indo-European	Eurasia	45.8817	9.39509	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Indo-European	Eurasia	44.0	6.0	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Indo-European	Eurasia	44.0	6.0	Saenko (2015)	Named Occitan rather than Provençal in order to avoid confusion with Franco-Provençal
 Italic	Indo-European, Italic, Western Romance	Old French	Old French	Old French (842-ca. 1400)	oldf1239	fro	Old French (842-ca. 1400)	Indo-European	Eurasia	48.8	1.11	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Picard	Picard	Picard	pica1241	pcd	Picard	Indo-European	Eurasia	50.2831	3.25085	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Piemontese (Barbania)	Barbania Piemontese	Piemontese	piem1238	pms	Piemontese	Indo-European	Eurasia	45.4633	8.32366	Saenko (2015)	
@@ -108,8 +108,8 @@ Polynesian	Austronesian, Polynesian	Proto-Polynesian	Polynesian	Polynesian	poly1
 Polynesian	Austronesian, Polynesian, Anuta	Anuta	Anuta	Anuta	anut1237	aud	Anuta	Austronesian	Papunesia	-11.61	169.85	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, Carolinean Outlier Polynesian	Kapingamarangi	Kapingamarangi	Kapingamarangi	kapi1249	kpg	Kapingamarangi	Austronesian	Papunesia	1.039166	154.797223	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, East Futuna	East Futuna	EastFutuna	East Futuna	east2447	fud	East Futuna	Austronesian	Papunesia	-14.278717	-178.137222	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Austral A	AustralA	Austral	aust1304	aut	Austral	Austronesian	Papunesia	-23.3843	-149.462	Walworth, 2018	
-Polynesian	Austronesian, Polynesian, East Polynesian	Austral B	AustralB	Austral	aust1304	aut	Austral	Austronesian	Papunesia	-23.3843	-149.462	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Austral (Ra'ivavae)	AustralA	Ra'ivavae	raiv1237	aut	Austral	Austronesian	Papunesia	-23.865	-147.6609	Walworth, 2018	
+Polynesian	Austronesian, Polynesian, East Polynesian	Austral (Rurutuan)	AustralB	Rurutuan	ruru1237	aut	Austral	Austronesian	Papunesia	-22.4801	-151.3385	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, East Polynesian	Hawaiian	Hawaiian	Hawaiian	hawa1245	haw	Hawaiian	Austronesian	Papunesia	19.6297	-155.43	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, East Polynesian	Mangareva	Mangareva	Mangareva	mang1401	mrv	Mangareva	Austronesian	Papunesia	-23.1095	-134.97	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, East Polynesian	Maori	Maori	Maori	maor1246	mri	Maori	Austronesian	Papunesia	-38.2881	176.541	Walworth, 2018	
@@ -165,7 +165,7 @@ Turkic	Turkic, Kipchak	Karaim	Karaim	Karaim	kara1464	kdr	Karaim	Turkic	Eurasia	5
 Turkic	Turkic, Kipchak	Kazakh	Kazakh	Kazakh	kaza1248	kaz	Kazakh	Turkic	Eurasia	41.8729	65.7709	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Kipchak	Kumyk	Kumyk	Kumyk	kumy1244	kum	Kumyk	Turkic	Eurasia	43.0	47.0	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Kipchak	Kyrgyz	Kirghiz	Kirghiz	kirg1245	kir	Kyrgyz	Turkic	Eurasia	42.0	74.0	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Kipchak	Middle Kipchak	CodexCumanicus					Turkic	Eurasia			Savelyev & Robbeets (2020)	Middle Kipchak variety attested in the Codex Cumanicus manuscript, dating from the early 14th century AD
+Turkic	Turkic, Kipchak	Cuman	CodexCumanicus	Pecheneg	pech1242	qwm	Kuman	Turkic	Eurasia	47.393251	33.522692	Savelyev & Robbeets (2020)	Middle Kipchak variety attested in the Codex Cumanicus manuscript, dating from the early 14th century AD; Not listed as such in Glottolog but may be the same as the Pecheneg language (see Comment at Glottolog [pech1242] and Wikipedia [Pecheneg language])
 Turkic	Turkic, Kipchak	Nogai	Nogai	Nogai	noga1249	nog	Nogai	Turkic	Eurasia	43.5917	46.6618	Savelyev & Robbeets (2020)	
 Turkic	Turkic, Kipchak	Southern Altai	SouthAltai	Southern Altai	sout2694	alt	Southern Altai	Turkic	Eurasia	50.1347	86.8705	Savelyev & Robbeets (2020)	Altay-Kiži dialect
 Turkic	Turkic, Kipchak	Tatar	KazanTatar	Kazan Tatar	kaza1250	tat	Tatar	Turkic	Eurasia	55.796389	49.108889	Savelyev & Robbeets (2020)	
@@ -192,7 +192,7 @@ Uralic	Uralic, Finnic	Ingrian	Ingrian	Ingrian	ingr1248	izh	Ingrian	Uralic	Eurasi
 Uralic	Uralic, Finnic	Karelian	Karelian Proper	Karelian	kare1335	krl	Karelian	Uralic	Eurasia	65.1691	30.8655	De Heer et al.; Syrjänen	
 Uralic	Uralic, Finnic	Livonian	Courland Livonian	Courland Livonian	west1760	liv	Liv	Uralic	Eurasia	57.566	22.0262	De Heer et al.; Syrjänen	
 Uralic	Uralic, Finnic	Veps	Veps	Veps	veps1250	vep	Veps	Uralic	Eurasia	60.3353	34.7865	De Heer et al.; Syrjänen	
-Uralic	Uralic, Finnic	Võro	Võro South Estonian	South Estonian	sout2679	vro	Võro	Uralic	Eurasia	57.85	27	De Heer et al.; Syrjänen	
+Uralic	Uralic, Finnic	Võro	Võro South Estonian	South Estonian	sout2679	vro	Võro	Uralic	Eurasia	57.85	27.0	De Heer et al.; Syrjänen	
 Uralic	Uralic, Finnic	Votic	Western Votic	West Vod	west2391	vot	Votic	Uralic	Eurasia	57.85	27.0	De Heer et al.; Syrjänen	
 Uralic	Uralic, Mari	Meadow Mari	Meadow Mari	Eastern Mari	east2328	mhr	Eastern Mari	Uralic	Eurasia	55.8307	48.405	De Heer et al.; Syrjänen	
 Uralic	Uralic, Mordvin	Erzya	Erzya	Erzya	erzy1239	myv	Erzya	Uralic	Eurasia	52.8548	45.3901	De Heer et al.; Syrjänen	
