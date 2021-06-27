@@ -18,7 +18,7 @@ Arabic	Afro-Asiatic, Semitic, Arabian, North African Arabic	Tunisian Arabic	Tuni
 Hokan	Chimariko	Chimariko	Chimariko	Chimariko	chim1301	cid	Chimariko	Isolate	North America	41.0	-123.0	Zhivlov (2011)	
 Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman	Cocopa	Cocopa	Cocopa	coco1261	coc	Cocopa	Cochimi-Yuman	North America	32.376	-114.848	Zhivlov (2015)	
 Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Ipai	Mesa Grande 'Iipay	Ipai	ipai1240	dih	Kumiai	Cochimi-Yuman	North America	33.005	-116.993	Zhivlov (2015)	
-Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Tipay	Jamul Tiipay	Tipay	kumi1248	dih	Kumiai	Cochimi-Yuman	North America	32.331	-116.604	Zhivlov (2015)	
+Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Tipai	Jamul Tiipay	Tipai	kumi1248	dih	Kumiai	Cochimi-Yuman	North America	32.331	-116.604	Zhivlov (2015)	
 Hokan	Cochimi-Yuman, Yuman, Pai	Yavapai	Yavapai	Yavapai	yava1252	yuf	Havasupai-Walapai-Yavapai	Cochimi-Yuman	North America	35.6302	-113.385	Zhivlov (2015)	
 Hokan	Cochimi-Yuman, Yuman, River Yuman	Mohave	Mojave	Mohave	moha1256	mov	Mohave	Cochimi-Yuman	North America	34.8866	-114.599	Zhivlov (2015)	
 Hokan	Karok	Karok	Karuk	Karok	karo1304	kyh	Karok	Isolate	North America	41.8228	-123.315	Zhivlov (2011)	
@@ -102,7 +102,7 @@ NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Czech	Czech	Czech	czec1258	ces	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Polish	Polish	Polish	poli1260	pol	Polish	Indo-European	Eurasia	51.8439	18.6255	Dellert et al., 2019	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Russian	Russian	Russian	russ1263	rus	Russian	Indo-European	Eurasia	59.0	50.0	Dellert et al., 2019	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Slovak	Slovak	Slovak	slov1269	slk	Slovak	Indo-European	Eurasia	48.545705	18.78479	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Slovene	Slovene	Slovenian	slov1268	slv	Slovenian	Indo-European	Eurasia	46.2543	14.7766	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Slovenian	Slovene	Slovenian	slov1268	slv	Slovenian	Indo-European	Eurasia	46.2543	14.7766	Dellert et al., 2019	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic	Ukrainian	Ukrainian	Ukrainian	ukra1253	ukr	Ukrainian	Indo-European	Eurasia	49.796	29.945	Dellert et al., 2019	
 Polynesian	Austronesian, Polynesian	Proto-Polynesian	Polynesian	Polynesian	poly1242			Austronesian	Papunesia			Walworth, 2018	
 Polynesian	Austronesian, Polynesian, Anuta	Anuta	Anuta	Anuta	anut1237	aud	Anuta	Austronesian	Papunesia	-11.61	169.85	Walworth, 2018	
