@@ -116,6 +116,7 @@ reformat_tree <- function(tree, languages) {
 #Get list of families
 families <- c('Arabic', 
               'Balto-Slavic', 
+              'Dravidian',
               'Italic', 
               'Polynesian', 
               'Sinitic',
