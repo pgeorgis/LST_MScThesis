@@ -38,7 +38,6 @@ def write_lang_index(dataset_file, language_metadata, output_file):
                               iso_code, macroarea, latitude, longitude, family,
                               concept_count, word_count]))
             f.write('\n')
-            
 
 #%%
 #LOAD LANGUAGE METADATA
@@ -62,6 +61,7 @@ for i in range(len(list(lang_metadata['Name']))):
 #WRITE LANGUAGE INDICES
 for dataset in ['Arabic',
                 'Balto-Slavic',
+                'Dravidian',
                 'Hokan',
                 'Italic',
                 'Polynesian',

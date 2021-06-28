@@ -179,6 +179,7 @@ class Language(Dataset):
         
         self.create_phoneme_inventory()
         self.create_vocabulary()
+        self.check_affricates()
         
     def create_phoneme_inventory(self):
         for i in self.data:
@@ -208,6 +209,16 @@ class Language(Dataset):
             #Mark known loanwords
             if loan == 'TRUE':
                 self.loanwords[concept].append([orthography, ipa])
+                
+    def check_affricates(self):
+        """Ensure that affricates have consistent representation"""
+        ligatures = ['ʦ', 'ʣ', 'ʧ', 'ʤ', 'ʨ', 'ʥ']
+        double_ch = ['t͡s', 'd͡z', 't͡ʃ', 'd͡ʒ', 't͡ɕ', 'd͡ʑ']
+        for aff_pair in zip(ligatures, double_ch):
+            lig, double = aff_pair
+            if lig in self.phonemes:
+                if double in self.phonemes:
+                    print(f'Warning! Both /{lig}/ and /{double}/ are in {self.name} transcriptions!')
     
 
 #%%
@@ -215,7 +226,7 @@ class Language(Dataset):
 datasets_path = str(parent_dir) + '/Datasets/'
 os.chdir(datasets_path)
 families = {}
-for family in ['Arabic', 'Balto-Slavic', 
+for family in ['Arabic', 'Balto-Slavic', 'Dravidian',
                'Hokan','Italic', 
                'Polynesian', 'Sinitic', 
                'Turkic', 'Uralic']:
@@ -237,4 +248,6 @@ all_languages = [families[family].languages[lang] for family in families
 all_families = [families[family] for family in families]
 total_languages = len(all_languages)
 total_families = len(all_families)
+
+
 
