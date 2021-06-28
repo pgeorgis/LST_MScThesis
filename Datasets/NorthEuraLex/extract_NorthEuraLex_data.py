@@ -218,7 +218,8 @@ for i in forms_data:
         elif lang == 'Hindi':
             if tr == 'sélf':
                 tr = 'ɕeːlf'
-                
+          
+        #CORRECTIONS IN SLAVIC LANGUAGES
         elif lang == 'Russian':
             #Russian: palatalized /l/ <ль> or <л> followed by soft vowel transcribed
             #as /l/ instead of /lʲ/
@@ -226,12 +227,157 @@ for i in forms_data:
             #the non-palatalized version is transcribed as /ɫ/
             tr = re.sub('l', 'lʲ', tr)
             
-            #Russian: <щ> transcribed as /ʃʃ/ instead of /ɕː/
+            #Russian: <щ> transcribed as /ʃʃ/ or /ʃʲː/ instead of /ɕː/
             tr = re.sub('(?<!͡)ʃʃ', 'ɕː', tr)
+            tr = re.sub('ʃʲː', 'ɕː', tr)
             
-            #and <ч> as <t͡ʃʲ> instead of <ʨ>
+            #and <ч> as /t͡ʃʲ/ or /t͡ʃ/ instead of <ʨ>
             tr = re.sub('t͡ʃʲ', 'ʨ', tr)
+            tr = re.sub('t͡ʃ', 'ʨ', tr)
+            
+            #/ʒʲ/ --> /ʐj/, e.g. <побережье>, <ружьё> 
+            #(<ь> after hard consonants such as <ж> marks /j/ rather than palatalization, 
+            #as hard consonants have no palatalized equivalent)
+            tr = re.sub('ʒʲ', 'ʐj', tr)
+            
+            #and /ʒ/ --> /ʐ/, /ʃ/ --> /ʂ/
+            tr = re.sub('ʒ', 'ʐ', tr)
+            tr = re.sub('ʃ', 'ʂ', tr)
+            
+            #Russian: <что> transcribed with long /ɔː/ -- Russian has no long vowels
+            tr = re.sub('ɔː', 'ɔ', tr)
+            
+            #Then, it has <ё> transcribed as /о/ instead of /ɵ/
+            #and <о> transcribed as /ɔ/ instead of /o/
+            tr = re.sub('o', 'ɵ', tr)
+            tr = re.sub('ɔ', 'o', tr)
+            #Exception: <ё> is /o/, not /ɵ/, after hard consonants <ж, ш>, it is only /ɵ/ after soft consonants
+            tr = re.sub('ʐɵ', 'ʐo', tr)
+            tr = re.sub('ʂɵ', 'ʂo', tr)
+            
+            #Correct sequence /stʲ/ to /sʲtʲ/ (palatalization assimilation)
+            tr = re.sub('stʲ', 'sʲtʲ', tr)
+            
+            #Remove half-long marking
+            tr = re.sub('ˑ', '', tr)
+            
+            #removed this block because of a bug and because we can't properly convert all
+            #vowels to ther inter-palatal form since some are transcribed as reduced, see note below
+            """
+            #Russian <а, у> between soft/palatalized consonants are [æ, ʉ]
+            segments = segment_word(tr)
+            if len(segments) > 1: #don't bother for words consisting of only a single segment
+                ru_soft_c = ['bʲ', 'dʲ', 'fʲ', 'lʲ', 'mʲ', 'nʲ', 'pʲ', 
+                             'rʲ', 'sʲ', 'tʲ', 'vʲ', 'zʲ', 'ɕː', 'ʨ']
+                tr = [segments[0]]
+                for i in range(1, len(segments)-1):
+                    seg = segments[i]
+                    if seg in ['a', 'u', 'ʊ']: 
+                        nxt_seg = segments[i+1]
+                        prev_seg = segments[i-1]
+                        if ((nxt_seg in ru_soft_c) and (prev_seg in ru_soft_c)):
+                            #some /a/ are mistranscribed as /ə, ɐ/ (e.g. <часть> /ʨəstʲ/), 
+                            #can't do anything about those though because we can't distinguish 
+                            #them from reduced <о> unless the orthography is checked
+                            if seg in ['a']:
+                                tr.append('æ')
+                            elif seg in ['u', 'ʊ']:
+                                tr.append('ʉ')
+                        else:
+                            tr.append(seg)
+                    else:
+                        tr.append(seg)
+                tr.append(segments[-1])
+                tr = ''.join(tr)"""
+            
+            
+        elif lang == 'Bulgarian':
+            #Palatalized <т, д> should be transcribed as either /c, ɟ/ or /tʲ, dʲ/, not mix and match
+            #The former version is the standard transcription convention, also already used in NEL for /c/
+            tr = re.sub('dʲ', 'ɟ', tr)
+            
+        elif lang == 'Croatian':
+            #Standard (Serbo-)Croatian has /e, o/, not /ɛ, ɔ/
+            tr = re.sub('ɛ', 'e', tr)
+            tr = re.sub('ɔ', 'o', tr)
+            
+            #<ije> is not /ije/ but /jeː/, it is the long version of <je>
+            #(i.e., the orthographic <i> is present only to mark the length)
+            tr = re.sub('ije', 'jeː', tr)
+            #Remove any accidental resulting double length markings
+            tr = re.sub('ːː', 'ː', tr)
         
+        elif lang == 'Slovene':
+            #Switch ordering of length and tone markings in order for the length
+            #to be counted as part of the phoneme
+            tr = re.sub('˦ː', 'ː˦', tr)
+            tr = re.sub('˨ː', 'ː˨', tr)
+        
+        elif lang == 'Czech':
+            #Czech has no geminated/long consonants, only preserved in orthography for etymological reasons
+            tr = re.sub('kː', 'k', tr)
+            tr = re.sub('nː', 'n', tr)
+            tr = re.sub('tː͡s', 'ʦ', tr)
+            
+            #Exception is in prefixes, e.g. <od-> followed by <t>,
+            #then pronounced as two distinct consonants rather than geminate
+            #All instances of [tː] in Czech NEL are of this type, except [tː͡s],
+            #which will have already been converted in previous line
+            tr = re.sub('tː', 'tt', tr)
+            
+            #Not incorrect transcription, but change position of voiceless diacritic in
+            #voiceless <ř> to be more easily discernible since there is already a diacritic below
+            tr = re.sub('r̝̥', 'r̝̊', tr)
+        
+        elif lang == 'Slovak':
+            #Same geminate/long consonant situation as described above in Czech
+            #Exception: <ŕ, ĺ> /r̩ː, l̩ː/, which we leave unchanged
+            tr = re.sub('kː', 'k', tr)
+            tr = re.sub('nː', 'n', tr)
+            
+            #<dd> in prefix, as describe in Czech
+            tr = re.sub('dː', 'dd', tr)
+            
+            #Diphthongs <ie>, <iu>, <ia> have /ɪ̯/, not /i̯/, according to Illustrations of IPA Slovak
+            tr = re.sub('i̯', 'ɪ̯', tr)
+            
+            #Likewise, diphthong <ô> has /ʊ̯/ not /u̯/
+            tr = re.sub('u̯', 'ʊ̯', tr)
+        
+        elif lang == 'Polish':
+            #Double consonants in Polish orthography are released separately, not geminate
+            tr = re.sub('dː', 'dd', tr)
+            tr = re.sub('nː', 'nn', tr)
+            tr = re.sub('sː', 'ss', tr)
+            tr = re.sub('tː', 'tt', tr)
+            
+            #Only one example of <kk>, in <miękki>; not released double due to preceding nasal
+            tr = re.sub('kː', 'kk', tr)
+        
+        elif lang == 'Belarusian':
+            #Apostrophe <ʼ> in Belarusian orthography marks that preceding consonant is not palatalized,
+            #similar to Russian <ъ> --> should not be in phonetic transcription
+            tr = re.sub('ʼ', '', tr)
+            
+            #Note: geminates in Belarusian are genuine geminates
+        
+        elif lang == 'Ukrainian':
+            #All instances of /t͡sː/ should actually be /sʦ/
+            tr = re.sub('t͡sː', 'sʦ', tr)
+            #Other geminates are genuine geminates, as in Belarusian
+            #Correct these to geminates, will be corrected to proper alveolar affricates in next line
+            tr = re.sub('ʈʈ͡ʂ', 'ʈ͡ʂː', tr)
+            
+            #Change retroflex fricatives and affricates to alveolar, according to Illustrations of the IPA Ukrainian
+            tr = re.sub('ʈ͡ʂ', 'ʧ', tr)
+            tr = re.sub('ɖ͡ʐ', 'ʤ', tr)
+            tr = re.sub('ʂ', 'ʃ', tr)
+            tr = re.sub('ʐ', 'ʒ', tr)
+            
+        
+            
+            
+        #Then make general, non-language specific corrections
         tr = fix_transcription(tr)
         
         
