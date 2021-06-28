@@ -220,6 +220,12 @@ for i in forms_data:
                 tr = 'ɕeːlf'
                 
         elif lang == 'Russian':
+            #Russian: palatalized /l/ <ль> or <л> followed by soft vowel transcribed
+            #as /l/ instead of /lʲ/
+            #simply changing all instances of /l/ to /lʲ/ isn't a problem because 
+            #the non-palatalized version is transcribed as /ɫ/
+            tr = re.sub('l', 'lʲ', tr)
+            
             #Russian: <щ> transcribed as /ʃʃ/ instead of /ɕː/
             tr = re.sub('(?<!͡)ʃʃ', 'ɕː', tr)
             
