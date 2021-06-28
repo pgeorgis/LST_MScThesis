@@ -359,6 +359,9 @@ for i in forms_data:
             #similar to Russian <ъ> --> should not be in phonetic transcription
             tr = re.sub('ʼ', '', tr)
             
+            #/dz/ --> /ʣ/
+            tr = re.sub('dz', 'ʣ', tr)
+            
             #Note: geminates in Belarusian are genuine geminates
         
         elif lang == 'Ukrainian':

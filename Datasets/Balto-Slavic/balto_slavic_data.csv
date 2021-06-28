@@ -8148,8 +8148,8 @@ Belarusian_HEAD	Belarusian	bela1254	bel	HEAD	галава	ɣalava	ɣ a l a v a	�
 Belarusian_BACK	Belarusian	bela1254	bel	BACK	спіна	spina	s p i n a	spina	BACK			
 Belarusian_BELLY	Belarusian	bela1254	bel	BELLY	жывот	ʐɨvɔt	ʐ ɨ v ɔ t	ʐɨvɔt	BELLY			
 Belarusian_NAVEL	Belarusian	bela1254	bel	NAVEL	пупок	pupɔk	p u p ɔ k	pupɔk	NAVEL			
-Belarusian_BREAST	Belarusian	bela1254	bel	BREAST	грудзі	ɣrudzi	ɣ r u d z i	ɣrudzi	BREAST			
-Belarusian_CHEST	Belarusian	bela1254	bel	CHEST	грудзі	ɣrudzi	ɣ r u d z i	ɣrudzi	CHEST			
+Belarusian_BREAST	Belarusian	bela1254	bel	BREAST	грудзі	ɣruʣi	ɣ r u ʣ i	ɣrudzi	BREAST			
+Belarusian_CHEST	Belarusian	bela1254	bel	CHEST	грудзі	ɣruʣi	ɣ r u ʣ i	ɣrudzi	CHEST			
 Belarusian_SHOULDER	Belarusian	bela1254	bel	SHOULDER	плячо	plʲaʈ͡ʂɔ	p lʲ a ʈ͡ʂ ɔ	plʲaʈ͡ʂɔ	SHOULDER			
 Belarusian_ARM	Belarusian	bela1254	bel	ARM	рука	ruka	r u k a	ruka	ARM			
 Belarusian_ELBOW	Belarusian	bela1254	bel	ELBOW	локаць	lɔkaʦʲ	l ɔ k a ʦʲ	lɔkat͡sʲ	ELBOW			
@@ -8273,7 +8273,7 @@ Belarusian_SHEEP	Belarusian	bela1254	bel	SHEEP	авечка	avʲɛʈ͡ʂka	a vʲ
 Belarusian_PIG	Belarusian	bela1254	bel	PIG	свіння	svinʲːa	s v i nʲː a	svinʲːa	PIG			
 Belarusian_DOG	Belarusian	bela1254	bel	DOG	сабака	sabaka	s a b a k a	sabaka	DOG			
 Belarusian_CAT	Belarusian	bela1254	bel	CAT	кошка	kɔʂka	k ɔ ʂ k a	kɔʂka	CAT			
-Belarusian_BEAR	Belarusian	bela1254	bel	BEAR	мядзведзь	mʲadzvʲɛdzʲ	mʲ a d z vʲ ɛ d zʲ	mʲadzvʲɛdzʲ	BEAR			
+Belarusian_BEAR	Belarusian	bela1254	bel	BEAR	мядзведзь	mʲaʣvʲɛʣʲ	mʲ a ʣ vʲ ɛ ʣʲ	mʲadzvʲɛdzʲ	BEAR			
 Belarusian_SQUIRREL	Belarusian	bela1254	bel	SQUIRREL	вавёрка	vavʲɔrka	v a vʲ ɔ r k a	vavʲɔrka	SQUIRREL			
 Belarusian_ELK	Belarusian	bela1254	bel	ELK	лось	lɔsʲ	l ɔ sʲ	lɔsʲ	ELK			
 Belarusian_FOX	Belarusian	bela1254	bel	FOX	ліса	lisa	l i s a	lisa	FOX			
@@ -8293,7 +8293,7 @@ Belarusian_CRANE	Belarusian	bela1254	bel	CRANE	жораў	ʐɔraw	ʐ ɔ r a w	ʐ
 Belarusian_CRANE	Belarusian	bela1254	bel	CRANE	журавель	ʐuravʲɛlʲ	ʐ u r a vʲ ɛ lʲ	ʐuravʲɛlʲ	CRANE			
 Belarusian_CROW	Belarusian	bela1254	bel	CROW	варона	varɔna	v a r ɔ n a	varɔna	CROW			
 Belarusian_CUCKOO	Belarusian	bela1254	bel	CUCKOO	зязюля	zʲazʲulʲa	zʲ a zʲ u lʲ a	zʲazʲulʲa	CUCKOO			
-Belarusian_SWAN	Belarusian	bela1254	bel	SWAN	лебедзь	lʲɛbʲɛdzʲ	lʲ ɛ bʲ ɛ d zʲ	lʲɛbʲɛdzʲ	SWAN			
+Belarusian_SWAN	Belarusian	bela1254	bel	SWAN	лебедзь	lʲɛbʲɛʣʲ	lʲ ɛ bʲ ɛ ʣʲ	lʲɛbʲɛdzʲ	SWAN			
 Belarusian_FISH	Belarusian	bela1254	bel	FISH	рыба	rɨba	r ɨ b a	rɨba	FISH			
 Belarusian_PERCH_(FISH)	Belarusian	bela1254	bel	PERCH_(FISH)	акунь	akunʲ	a k u nʲ	akunʲ	PERCH_(FISH)			
 Belarusian_PIKE_(FISH)	Belarusian	bela1254	bel	PIKE_(FISH)	шчупак	ʂʈ͡ʂupak	ʂ ʈ͡ʂ u p a k	ʂʈ͡ʂupak	PIKE_(FISH)			
@@ -8329,11 +8329,11 @@ Belarusian_SAND	Belarusian	bela1254	bel	SAND	пясок	pʲasɔk	pʲ a s ɔ k	p�
 Belarusian_PERSON	Belarusian	bela1254	bel	PERSON	чалавек	ʈ͡ʂalavʲɛk	ʈ͡ʂ a l a vʲ ɛ k	ʈ͡ʂalavʲɛk	PERSON			
 Belarusian_MAN	Belarusian	bela1254	bel	MAN	мужчына	muʐʈ͡ʂɨna	m u ʐ ʈ͡ʂ ɨ n a	muʐʈ͡ʂɨna	MAN			
 Belarusian_WOMAN	Belarusian	bela1254	bel	WOMAN	жанчына	ʐanʈ͡ʂɨna	ʐ a n ʈ͡ʂ ɨ n a	ʐanʈ͡ʂɨna	WOMAN			
-Belarusian_CHILD_(YOUNG_HUMAN)	Belarusian	bela1254	bel	CHILD_(YOUNG_HUMAN)	дзіця	dziʦʲa	d z i ʦʲ a	dzit͡sʲa	CHILD_(YOUNG_HUMAN)			
+Belarusian_CHILD_(YOUNG_HUMAN)	Belarusian	bela1254	bel	CHILD_(YOUNG_HUMAN)	дзіця	ʣiʦʲa	ʣ i ʦʲ a	dzit͡sʲa	CHILD_(YOUNG_HUMAN)			
 Belarusian_BOY	Belarusian	bela1254	bel	BOY	хлопчык	xlɔpʈ͡ʂɨk	x l ɔ p ʈ͡ʂ ɨ k	xlɔpʈ͡ʂɨk	BOY			
-Belarusian_GIRL	Belarusian	bela1254	bel	GIRL	дзяўчынка	dzʲawʈ͡ʂɨnka	d zʲ a w ʈ͡ʂ ɨ n k a	dzʲawʈ͡ʂɨnka	GIRL			
+Belarusian_GIRL	Belarusian	bela1254	bel	GIRL	дзяўчынка	ʣʲawʈ͡ʂɨnka	ʣʲ a w ʈ͡ʂ ɨ n k a	dzʲawʈ͡ʂɨnka	GIRL			
 Belarusian_FAMILY	Belarusian	bela1254	bel	FAMILY	сямʼя	sʲamja	sʲ a m j a	sʲamʼja	FAMILY			
-Belarusian_GRANDFATHER	Belarusian	bela1254	bel	GRANDFATHER	дзядуля	dzʲadulʲa	d zʲ a d u lʲ a	dzʲadulʲa	GRANDFATHER			
+Belarusian_GRANDFATHER	Belarusian	bela1254	bel	GRANDFATHER	дзядуля	ʣʲadulʲa	ʣʲ a d u lʲ a	dzʲadulʲa	GRANDFATHER			
 Belarusian_GRANDMOTHER	Belarusian	bela1254	bel	GRANDMOTHER	бабуля	babulʲa	b a b u lʲ a	babulʲa	GRANDMOTHER			
 Belarusian_PARENTS	Belarusian	bela1254	bel	PARENTS	бацькі	baʦʲki	b a ʦʲ k i	bat͡sʲki	PARENTS			
 Belarusian_FATHER	Belarusian	bela1254	bel	FATHER	бацька	baʦʲka	b a ʦʲ k a	bat͡sʲka	FATHER			
@@ -8342,7 +8342,7 @@ Belarusian_SON	Belarusian	bela1254	bel	SON	сын	sɨn	s ɨ n	sɨn	SON
 Belarusian_DAUGHTER	Belarusian	bela1254	bel	DAUGHTER	дачка	daʈ͡ʂka	d a ʈ͡ʂ k a	daʈ͡ʂka	DAUGHTER			
 Belarusian_BROTHER	Belarusian	bela1254	bel	BROTHER	брат	brat	b r a t	brat	BROTHER			
 Belarusian_SISTER	Belarusian	bela1254	bel	SISTER	сястра	sʲastra	sʲ a s t r a	sʲastra	SISTER			
-Belarusian_UNCLE	Belarusian	bela1254	bel	UNCLE	дзядзька	dzʲadzʲka	d zʲ a d zʲ k a	dzʲadzʲka	UNCLE			
+Belarusian_UNCLE	Belarusian	bela1254	bel	UNCLE	дзядзька	ʣʲaʣʲka	ʣʲ a ʣʲ k a	dzʲadzʲka	UNCLE			
 Belarusian_AUNT	Belarusian	bela1254	bel	AUNT	цётка	ʦʲɔtka	ʦʲ ɔ t k a	t͡sʲɔtka	AUNT			
 Belarusian_HUSBAND	Belarusian	bela1254	bel	HUSBAND	муж	muʐ	m u ʐ	muʐ	HUSBAND			
 Belarusian_WIFE	Belarusian	bela1254	bel	WIFE	жонка	ʐɔnka	ʐ ɔ n k a	ʐɔnka	WIFE			
@@ -8379,7 +8379,7 @@ Belarusian_SOUND_OR_NOISE	Belarusian	bela1254	bel	SOUND_OR_NOISE	гук	ɣuk	ɣ 
 Belarusian_TONE_(MUSIC)	Belarusian	bela1254	bel	TONE_(MUSIC)	гучанне	ɣuʈ͡ʂanʲːɛ	ɣ u ʈ͡ʂ a nʲː ɛ	ɣuʈ͡ʂanʲːɛ	TONE_(MUSIC)			
 Belarusian_SONG	Belarusian	bela1254	bel	SONG	песня	pʲɛsnʲa	pʲ ɛ s nʲ a	pʲɛsnʲa	SONG			
 Belarusian_QUIET	Belarusian	bela1254	bel	QUIET	спакой	spakɔj	s p a k ɔ j	spakɔj	QUIET			
-Belarusian_PEOPLE_(SEVERAL)	Belarusian	bela1254	bel	PEOPLE_(SEVERAL)	людзі	lʲudzi	lʲ u d z i	lʲudzi	PEOPLE_(SEVERAL)			
+Belarusian_PEOPLE_(SEVERAL)	Belarusian	bela1254	bel	PEOPLE_(SEVERAL)	людзі	lʲuʣi	lʲ u ʣ i	lʲudzi	PEOPLE_(SEVERAL)			
 Belarusian_PEOPLE	Belarusian	bela1254	bel	PEOPLE	народ	narɔd	n a r ɔ d	narɔd	PEOPLE			
 Belarusian_WORK_(LABOUR)	Belarusian	bela1254	bel	WORK_(LABOUR)	праца	praʦa	p r a ʦ a	prat͡sa	WORK_(LABOUR)			
 Belarusian_WORK_(LABOUR)	Belarusian	bela1254	bel	WORK_(LABOUR)	работа	rabɔta	r a b ɔ t a	rabɔta	WORK_(LABOUR)			
@@ -8409,7 +8409,7 @@ Belarusian_AREA	Belarusian	bela1254	bel	AREA	мясцовасць	mʲasʦɔvasʦ
 Belarusian_SPACE_(FREE)	Belarusian	bela1254	bel	SPACE_(FREE)	месца	mʲɛsʦa	mʲ ɛ s ʦ a	mʲɛst͡sa	SPACE_(FREE)			
 Belarusian_PLACE_(POSITION)	Belarusian	bela1254	bel	PLACE_(POSITION)	месца	mʲɛsʦa	mʲ ɛ s ʦ a	mʲɛst͡sa	PLACE_(POSITION)			
 Belarusian_SIDE_(OF_OBJECT)	Belarusian	bela1254	bel	SIDE_(OF_OBJECT)	бок	bɔk	b ɔ k	bɔk	SIDE_(OF_OBJECT)			
-Belarusian_MIDDLE	Belarusian	bela1254	bel	MIDDLE	сярэдзіна	sʲarɛdzina	sʲ a r ɛ d z i n a	sʲarɛdzina	MIDDLE			
+Belarusian_MIDDLE	Belarusian	bela1254	bel	MIDDLE	сярэдзіна	sʲarɛʣina	sʲ a r ɛ ʣ i n a	sʲarɛdzina	MIDDLE			
 Belarusian_ITEM_(TOUCHABLE)	Belarusian	bela1254	bel	ITEM_(TOUCHABLE)	прадмет	pradmʲɛt	p r a d mʲ ɛ t	pradmʲɛt	ITEM_(TOUCHABLE)			
 Belarusian_THING	Belarusian	bela1254	bel	THING	рэч	rɛʈ͡ʂ	r ɛ ʈ͡ʂ	rɛʈ͡ʂ	THING			
 Belarusian_FRINGE	Belarusian	bela1254	bel	FRINGE	край	kraj	k r a j	kraj	FRINGE			
@@ -8418,7 +8418,7 @@ Belarusian_EDGE	Belarusian	bela1254	bel	EDGE	кант	kant	k a n t	kant	EDGE
 Belarusian_CORNER_(OUTSIDE)	Belarusian	bela1254	bel	CORNER_(OUTSIDE)	вугал	vuɣal	v u ɣ a l	vuɣal	CORNER_(OUTSIDE)			
 Belarusian_TIP_(OF_OBJECT)	Belarusian	bela1254	bel	TIP_(OF_OBJECT)	кончык	kɔnʈ͡ʂɨk	k ɔ n ʈ͡ʂ ɨ k	kɔnʈ͡ʂɨk	TIP_(OF_OBJECT)			
 Belarusian_END_(OF_SPACE)	Belarusian	bela1254	bel	END_(OF_SPACE)	канец	kanʲɛʦ	k a nʲ ɛ ʦ	kanʲɛt͡s	END_(OF_SPACE)			
-Belarusian_HOLE	Belarusian	bela1254	bel	HOLE	дзірка	dzirka	d z i r k a	dzirka	HOLE			
+Belarusian_HOLE	Belarusian	bela1254	bel	HOLE	дзірка	ʣirka	ʣ i r k a	dzirka	HOLE			
 Belarusian_CORNER	Belarusian	bela1254	bel	CORNER	вугал	vuɣal	v u ɣ a l	vuɣal	CORNER			
 Belarusian_PATTERN	Belarusian	bela1254	bel	PATTERN	узор	uzɔr	u z ɔ r	uzɔr	PATTERN			
 Belarusian_SIZE_(OF_OBJECT)	Belarusian	bela1254	bel	SIZE_(OF_OBJECT)	памер	pamʲɛr	p a mʲ ɛ r	pamʲɛr	SIZE_(OF_OBJECT)			
@@ -8438,7 +8438,7 @@ Belarusian_WALK_(TRIP)	Belarusian	bela1254	bel	WALK_(TRIP)	ход	xɔd	x ɔ d	x�
 Belarusian_STEP	Belarusian	bela1254	bel	STEP	шаг	ʂaɣ	ʂ a ɣ	ʂaɣ	STEP			
 Belarusian_STEP	Belarusian	bela1254	bel	STEP	крок	krɔk	k r ɔ k	krɔk	STEP			
 Belarusian_NORTH	Belarusian	bela1254	bel	NORTH	поўнач	pɔwnaʈ͡ʂ	p ɔ w n a ʈ͡ʂ	pɔwnaʈ͡ʂ	NORTH			
-Belarusian_SOUTH	Belarusian	bela1254	bel	SOUTH	поўдзень	pɔwdzʲɛnʲ	p ɔ w d zʲ ɛ nʲ	pɔwdzʲɛnʲ	SOUTH			
+Belarusian_SOUTH	Belarusian	bela1254	bel	SOUTH	поўдзень	pɔwʣʲɛnʲ	p ɔ w ʣʲ ɛ nʲ	pɔwdzʲɛnʲ	SOUTH			
 Belarusian_WEST	Belarusian	bela1254	bel	WEST	захад	zaxad	z a x a d	zaxad	WEST			
 Belarusian_EAST	Belarusian	bela1254	bel	EAST	усход	usxɔd	u s x ɔ d	usxɔd	EAST			
 Belarusian_WOOD	Belarusian	bela1254	bel	WOOD	дрэва	drɛva	d r ɛ v a	drɛva	WOOD			
@@ -8464,7 +8464,7 @@ Belarusian_BED	Belarusian	bela1254	bel	BED	пасцель	pasʦʲɛlʲ	p a s ʦ�
 Belarusian_SHELF	Belarusian	bela1254	bel	SHELF	паліца	paliʦa	p a l i ʦ a	palit͡sa	SHELF			
 Belarusian_BOX	Belarusian	bela1254	bel	BOX	скрынка	skrɨnka	s k r ɨ n k a	skrɨnka	BOX			
 Belarusian_WINDOW	Belarusian	bela1254	bel	WINDOW	акно	aknɔ	a k n ɔ	aknɔ	WINDOW			
-Belarusian_DOOR	Belarusian	bela1254	bel	DOOR	дзверы	dzvʲɛrɨ	d z vʲ ɛ r ɨ	dzvʲɛrɨ	DOOR			
+Belarusian_DOOR	Belarusian	bela1254	bel	DOOR	дзверы	ʣvʲɛrɨ	ʣ vʲ ɛ r ɨ	dzvʲɛrɨ	DOOR			
 Belarusian_GATE	Belarusian	bela1254	bel	GATE	вароты	varɔtɨ	v a r ɔ t ɨ	varɔtɨ	GATE			
 Belarusian_FENCE	Belarusian	bela1254	bel	FENCE	агароджа	aɣarɔdʐa	a ɣ a r ɔ d ʐ a	aɣarɔdʐa	FENCE			
 Belarusian_ROOF	Belarusian	bela1254	bel	ROOF	дах	dax	d a x	dax	ROOF			
@@ -8521,7 +8521,7 @@ Belarusian_THREAD	Belarusian	bela1254	bel	THREAD	нітка	nitka	n i t k a	nitk
 Belarusian_BUTTON	Belarusian	bela1254	bel	BUTTON	гузік	ɣuzik	ɣ u z i k	ɣuzik	BUTTON			
 Belarusian_KNOT	Belarusian	bela1254	bel	KNOT	вузел	vuzʲɛl	v u zʲ ɛ l	vuzʲɛl	KNOT			
 Belarusian_PAINT_(PIGMENTS)	Belarusian	bela1254	bel	PAINT_(PIGMENTS)	фарба	farba	f a r b a	farba	PAINT_(PIGMENTS)			
-Belarusian_CLOTHES	Belarusian	bela1254	bel	CLOTHES	адзенне	adzʲɛnʲːɛ	a d zʲ ɛ nʲː ɛ	adzʲɛnʲːɛ	CLOTHES			
+Belarusian_CLOTHES	Belarusian	bela1254	bel	CLOTHES	адзенне	aʣʲɛnʲːɛ	a ʣʲ ɛ nʲː ɛ	adzʲɛnʲːɛ	CLOTHES			
 Belarusian_SHIRT	Belarusian	bela1254	bel	SHIRT	кашуля	kaʂulʲa	k a ʂ u lʲ a	kaʂulʲa	SHIRT			
 Belarusian_COLLAR	Belarusian	bela1254	bel	COLLAR	каўнер	kawnʲɛr	k a w nʲ ɛ r	kawnʲɛr	COLLAR			
 Belarusian_SLEEVE	Belarusian	bela1254	bel	SLEEVE	рукаў	rukaw	r u k a w	rukaw	SLEEVE			
@@ -8551,7 +8551,7 @@ Belarusian_FEVER	Belarusian	bela1254	bel	FEVER	гарачка	ɣaraʈ͡ʂka	ɣ a
 Belarusian_FEVER	Belarusian	bela1254	bel	FEVER	ліхаманка	lixamanka	l i x a m a n k a	lixamanka	FEVER			
 Belarusian_MEDICINE	Belarusian	bela1254	bel	MEDICINE	лекі	lʲɛki	lʲ ɛ k i	lʲɛki	MEDICINE			
 Belarusian_BRIDGE	Belarusian	bela1254	bel	BRIDGE	мост	mɔst	m ɔ s t	mɔst	BRIDGE			
-Belarusian_WELL	Belarusian	bela1254	bel	WELL	калодзеж	kalɔdzʲɛʐ	k a l ɔ d zʲ ɛ ʐ	kalɔdzʲɛʐ	WELL			
+Belarusian_WELL	Belarusian	bela1254	bel	WELL	калодзеж	kalɔʣʲɛʐ	k a l ɔ ʣʲ ɛ ʐ	kalɔdzʲɛʐ	WELL			
 Belarusian_PASTURE	Belarusian	bela1254	bel	PASTURE	паша	paʂa	p a ʂ a	paʂa	PASTURE			
 Belarusian_PATH	Belarusian	bela1254	bel	PATH	сцежка	sʦʲɛʐka	s ʦʲ ɛ ʐ k a	st͡sʲɛʐka	PATH			
 Belarusian_WAY	Belarusian	bela1254	bel	WAY	шлях	ʂlʲax	ʂ lʲ a x	ʂlʲax	WAY			
@@ -8586,7 +8586,7 @@ Belarusian_BENEFIT	Belarusian	bela1254	bel	BENEFIT	выгада	vɨɣada	v ɨ ɣ
 Belarusian_WEALTH	Belarusian	bela1254	bel	WEALTH	багацце	baɣatʦʲɛ	b a ɣ a t ʦʲ ɛ	baɣatt͡sʲɛ	WEALTH			
 Belarusian_WORLD	Belarusian	bela1254	bel	WORLD	свет	svʲɛt	s vʲ ɛ t	svʲɛt	WORLD			
 Belarusian_COUNTRY	Belarusian	bela1254	bel	COUNTRY	краіна	kraina	k r a i n a	kraina	COUNTRY			
-Belarusian_STATE_(POLITICS)	Belarusian	bela1254	bel	STATE_(POLITICS)	дзяржава	dzʲarʐava	d zʲ a r ʐ a v a	dzʲarʐava	STATE_(POLITICS)			
+Belarusian_STATE_(POLITICS)	Belarusian	bela1254	bel	STATE_(POLITICS)	дзяржава	ʣʲarʐava	ʣʲ a r ʐ a v a	dzʲarʐava	STATE_(POLITICS)			
 Belarusian_KING	Belarusian	bela1254	bel	KING	кароль	karɔlʲ	k a r ɔ lʲ	karɔlʲ	KING			
 Belarusian_POWER	Belarusian	bela1254	bel	POWER	улада	ulada	u l a d a	ulada	POWER			
 Belarusian_BORDER	Belarusian	bela1254	bel	BORDER	граніца	ɣraniʦa	ɣ r a n i ʦ a	ɣranit͡sa	BORDER			
@@ -8606,21 +8606,21 @@ Belarusian_FAULT	Belarusian	bela1254	bel	FAULT	віна	vina	v i n a	vina	FAULT
 Belarusian_AGE	Belarusian	bela1254	bel	AGE	узрост	uzrɔst	u z r ɔ s t	uzrɔst	AGE			
 Belarusian_END_(OF_TIME)	Belarusian	bela1254	bel	END_(OF_TIME)	канец	kanʲɛʦ	k a nʲ ɛ ʦ	kanʲɛt͡s	END_(OF_TIME)			
 Belarusian_TIME	Belarusian	bela1254	bel	TIME	час	ʈ͡ʂas	ʈ͡ʂ a s	ʈ͡ʂas	TIME			
-Belarusian_DAY_(NOT_NIGHT)	Belarusian	bela1254	bel	DAY_(NOT_NIGHT)	дзень	dzʲɛnʲ	d zʲ ɛ nʲ	dzʲɛnʲ	DAY_(NOT_NIGHT)			
+Belarusian_DAY_(NOT_NIGHT)	Belarusian	bela1254	bel	DAY_(NOT_NIGHT)	дзень	ʣʲɛnʲ	ʣʲ ɛ nʲ	dzʲɛnʲ	DAY_(NOT_NIGHT)			
 Belarusian_MORNING	Belarusian	bela1254	bel	MORNING	ранак	ranak	r a n a k	ranak	MORNING			
 Belarusian_MORNING	Belarusian	bela1254	bel	MORNING	раніца	raniʦa	r a n i ʦ a	ranit͡sa	MORNING			
 Belarusian_MIDDAY	Belarusian	bela1254	bel	MIDDAY	паўдня	pawdnʲa	p a w d nʲ a	pawdnʲa	MIDDAY			
-Belarusian_MIDDAY	Belarusian	bela1254	bel	MIDDAY	поўдзень	pɔwdzʲɛnʲ	p ɔ w d zʲ ɛ nʲ	pɔwdzʲɛnʲ	MIDDAY			
+Belarusian_MIDDAY	Belarusian	bela1254	bel	MIDDAY	поўдзень	pɔwʣʲɛnʲ	p ɔ w ʣʲ ɛ nʲ	pɔwdzʲɛnʲ	MIDDAY			
 Belarusian_EVENING	Belarusian	bela1254	bel	EVENING	вечар	vʲɛʈ͡ʂar	vʲ ɛ ʈ͡ʂ a r	vʲɛʈ͡ʂar	EVENING			
 Belarusian_NIGHT	Belarusian	bela1254	bel	NIGHT	ноч	nɔʈ͡ʂ	n ɔ ʈ͡ʂ	nɔʈ͡ʂ	NIGHT			
-Belarusian_WEEK	Belarusian	bela1254	bel	WEEK	тыдзень	tɨdzʲɛnʲ	t ɨ d zʲ ɛ nʲ	tɨdzʲɛnʲ	WEEK			
+Belarusian_WEEK	Belarusian	bela1254	bel	WEEK	тыдзень	tɨʣʲɛnʲ	t ɨ ʣʲ ɛ nʲ	tɨdzʲɛnʲ	WEEK			
 Belarusian_MONTH	Belarusian	bela1254	bel	MONTH	месяц	mʲɛsʲaʦ	mʲ ɛ sʲ a ʦ	mʲɛsʲat͡s	MONTH			
 Belarusian_YEAR	Belarusian	bela1254	bel	YEAR	год	ɣɔd	ɣ ɔ d	ɣɔd	YEAR			
 Belarusian_SPRINGTIME	Belarusian	bela1254	bel	SPRINGTIME	вясна	vʲasna	vʲ a s n a	vʲasna	SPRINGTIME			
 Belarusian_SUMMER	Belarusian	bela1254	bel	SUMMER	лета	lʲɛta	lʲ ɛ t a	lʲɛta	SUMMER			
 Belarusian_AUTUMN	Belarusian	bela1254	bel	AUTUMN	восень	vɔsʲɛnʲ	v ɔ sʲ ɛ nʲ	vɔsʲɛnʲ	AUTUMN			
 Belarusian_WINTER	Belarusian	bela1254	bel	WINTER	зіма	zima	z i m a	zima	WINTER			
-Belarusian_JANUARY	Belarusian	bela1254	bel	JANUARY	студзень	studzʲɛnʲ	s t u d zʲ ɛ nʲ	studzʲɛnʲ	JANUARY			
+Belarusian_JANUARY	Belarusian	bela1254	bel	JANUARY	студзень	stuʣʲɛnʲ	s t u ʣʲ ɛ nʲ	studzʲɛnʲ	JANUARY			
 Belarusian_FEBRUARY	Belarusian	bela1254	bel	FEBRUARY	люты	lʲutɨ	lʲ u t ɨ	lʲutɨ	FEBRUARY			
 Belarusian_MARCH	Belarusian	bela1254	bel	MARCH	сакавік	sakavik	s a k a v i k	sakavik	MARCH			
 Belarusian_APRIL	Belarusian	bela1254	bel	APRIL	красавік	krasavik	k r a s a v i k	krasavik	APRIL			
@@ -8633,13 +8633,13 @@ Belarusian_SEPTEMBER	Belarusian	bela1254	bel	SEPTEMBER	верасень	vʲɛras
 Belarusian_OCTOBER	Belarusian	bela1254	bel	OCTOBER	кастрычнік	kastrɨʈ͡ʂnik	k a s t r ɨ ʈ͡ʂ n i k	kastrɨʈ͡ʂnik	OCTOBER			
 Belarusian_NOVEMBER	Belarusian	bela1254	bel	NOVEMBER	лістапад	listapad	l i s t a p a d	listapad	NOVEMBER			
 Belarusian_DECEMBER	Belarusian	bela1254	bel	DECEMBER	снежань	snʲɛʐanʲ	s nʲ ɛ ʐ a nʲ	snʲɛʐanʲ	DECEMBER			
-Belarusian_MONDAY	Belarusian	bela1254	bel	MONDAY	панядзелак	panʲadzʲɛlak	p a nʲ a d zʲ ɛ l a k	panʲadzʲɛlak	MONDAY			
+Belarusian_MONDAY	Belarusian	bela1254	bel	MONDAY	панядзелак	panʲaʣʲɛlak	p a nʲ a ʣʲ ɛ l a k	panʲadzʲɛlak	MONDAY			
 Belarusian_TUESDAY	Belarusian	bela1254	bel	TUESDAY	аўторак	awtɔrak	a w t ɔ r a k	awtɔrak	TUESDAY			
 Belarusian_WEDNESDAY	Belarusian	bela1254	bel	WEDNESDAY	серада	sʲɛrada	sʲ ɛ r a d a	sʲɛrada	WEDNESDAY			
 Belarusian_THURSDAY	Belarusian	bela1254	bel	THURSDAY	чацвер	ʈ͡ʂaʦvʲɛr	ʈ͡ʂ a ʦ vʲ ɛ r	ʈ͡ʂat͡svʲɛr	THURSDAY			
 Belarusian_FRIDAY	Belarusian	bela1254	bel	FRIDAY	пятніца	pʲatniʦa	pʲ a t n i ʦ a	pʲatnit͡sa	FRIDAY			
 Belarusian_SATURDAY	Belarusian	bela1254	bel	SATURDAY	субота	subɔta	s u b ɔ t a	subɔta	SATURDAY			
-Belarusian_SUNDAY	Belarusian	bela1254	bel	SUNDAY	нядзеля	nʲadzʲɛlʲa	nʲ a d zʲ ɛ lʲ a	nʲadzʲɛlʲa	SUNDAY			
+Belarusian_SUNDAY	Belarusian	bela1254	bel	SUNDAY	нядзеля	nʲaʣʲɛlʲa	nʲ a ʣʲ ɛ lʲ a	nʲadzʲɛlʲa	SUNDAY			
 Belarusian_BIG	Belarusian	bela1254	bel	BIG	вялікі	vʲaliki	vʲ a l i k i	vʲaliki	BIG			
 Belarusian_SMALL	Belarusian	bela1254	bel	SMALL	маленькі	malʲɛnʲki	m a lʲ ɛ nʲ k i	malʲɛnʲki	SMALL			
 Belarusian_LONG	Belarusian	bela1254	bel	LONG	доўгі	dɔwɣi	d ɔ w ɣ i	dɔwɣi	LONG			
@@ -8748,7 +8748,7 @@ Belarusian_SECOND	Belarusian	bela1254	bel	SECOND	другі	druɣi	d r u ɣ i	dr
 Belarusian_THIRD	Belarusian	bela1254	bel	THIRD	трэці	trɛʦi	t r ɛ ʦ i	trɛt͡si	THIRD			
 Belarusian_LAST_(FINAL)	Belarusian	bela1254	bel	LAST_(FINAL)	апошні	apɔʂni	a p ɔ ʂ n i	apɔʂni	LAST_(FINAL)			
 Belarusian_ALONE	Belarusian	bela1254	bel	ALONE	сам	sam	s a m	sam	ALONE			
-Belarusian_ALONE	Belarusian	bela1254	bel	ALONE	адзін	adzin	a d z i n	adzin	ALONE			
+Belarusian_ALONE	Belarusian	bela1254	bel	ALONE	адзін	aʣin	a ʣ i n	adzin	ALONE			
 Belarusian_ALL_AT_ONCE	Belarusian	bela1254	bel	ALL_AT_ONCE	адразу	adrazu	a d r a z u	adrazu	ALL_AT_ONCE			
 Belarusian_TOGETHER	Belarusian	bela1254	bel	TOGETHER	разам	razam	r a z a m	razam	TOGETHER			
 Belarusian_FOR_A_LONG_TIME	Belarusian	bela1254	bel	FOR_A_LONG_TIME	доўга	dɔwɣa	d ɔ w ɣ a	dɔwɣa	FOR_A_LONG_TIME			
@@ -8768,7 +8768,7 @@ Belarusian_AFTERWARDS	Belarusian	bela1254	bel	AFTERWARDS	затым	zatɨm	z a t
 Belarusian_BEFORE	Belarusian	bela1254	bel	BEFORE	раней	ranʲɛj	r a nʲ ɛ j	ranʲɛj	BEFORE			
 Belarusian_AT_FIRST	Belarusian	bela1254	bel	AT_FIRST	спярша	spʲarʂa	s pʲ a r ʂ a	spʲarʂa	AT_FIRST			
 Belarusian_AT_FIRST	Belarusian	bela1254	bel	AT_FIRST	спачатку	spaʈ͡ʂatku	s p a ʈ͡ʂ a t k u	spaʈ͡ʂatku	AT_FIRST			
-Belarusian_ONE_TIME	Belarusian	bela1254	bel	ONE_TIME	адзін раз	adzinraz	a d z i n r a z	adzin raz	ONE_TIME			
+Belarusian_ONE_TIME	Belarusian	bela1254	bel	ONE_TIME	адзін раз	aʣinraz	a ʣ i n r a z	adzin raz	ONE_TIME			
 Belarusian_SOMETIMES	Belarusian	bela1254	bel	SOMETIMES	часам	ʈ͡ʂasam	ʈ͡ʂ a s a m	ʈ͡ʂasam	SOMETIMES			
 Belarusian_OFTEN	Belarusian	bela1254	bel	OFTEN	часта	ʈ͡ʂasta	ʈ͡ʂ a s t a	ʈ͡ʂasta	OFTEN			
 Belarusian_ALWAYS	Belarusian	bela1254	bel	ALWAYS	заўсёды	zawsʲɔdɨ	z a w sʲ ɔ d ɨ	zawsʲɔdɨ	ALWAYS			
@@ -8791,7 +8791,7 @@ Belarusian_UP	Belarusian	bela1254	bel	UP	угару	uɣaru	u ɣ a r u	uɣaru	UP
 Belarusian_EVERYWHERE	Belarusian	bela1254	bel	EVERYWHERE	усюды	usʲudɨ	u sʲ u d ɨ	usʲudɨ	EVERYWHERE			
 Belarusian_NOT	Belarusian	bela1254	bel	NOT	не	nʲɛ	nʲ ɛ	nʲɛ	NOT			
 Belarusian_A_LITTLE	Belarusian	bela1254	bel	A_LITTLE	трошкі	trɔʂki	t r ɔ ʂ k i	trɔʂki	A_LITTLE			
-Belarusian_HARDLY	Belarusian	bela1254	bel	HARDLY	ледзьве	lʲɛdzʲvʲɛ	lʲ ɛ d zʲ vʲ ɛ	lʲɛdzʲvʲɛ	HARDLY			
+Belarusian_HARDLY	Belarusian	bela1254	bel	HARDLY	ледзьве	lʲɛʣʲvʲɛ	lʲ ɛ ʣʲ vʲ ɛ	lʲɛdzʲvʲɛ	HARDLY			
 Belarusian_VERY	Belarusian	bela1254	bel	VERY	вельмі	vʲɛlʲmi	vʲ ɛ lʲ m i	vʲɛlʲmi	VERY			
 Belarusian_SO_(IN_THIS_WAY)	Belarusian	bela1254	bel	SO_(IN_THIS_WAY)	так	tak	t a k	tak	SO_(IN_THIS_WAY)			
 Belarusian_STILL	Belarusian	bela1254	bel	STILL	яшчэ	jaʂʈ͡ʂɛ	j a ʂ ʈ͡ʂ ɛ	jaʂʈ͡ʂɛ	STILL			
@@ -8820,12 +8820,12 @@ Belarusian_YOU	Belarusian	bela1254	bel	YOU	вы	vɨ	v ɨ	vɨ	YOU
 Belarusian_THEY	Belarusian	bela1254	bel	THEY	яны	janɨ	j a n ɨ	janɨ	THEY			
 Belarusian_WHAT	Belarusian	bela1254	bel	WHAT	што	ʂtɔ	ʂ t ɔ	ʂtɔ	WHAT			
 Belarusian_WHO	Belarusian	bela1254	bel	WHO	хто	xtɔ	x t ɔ	xtɔ	WHO			
-Belarusian_WHERE	Belarusian	bela1254	bel	WHERE	дзе	dzʲɛ	d zʲ ɛ	dzʲɛ	WHERE			
+Belarusian_WHERE	Belarusian	bela1254	bel	WHERE	дзе	ʣʲɛ	ʣʲ ɛ	dzʲɛ	WHERE			
 Belarusian_WHITHER	Belarusian	bela1254	bel	WHITHER	куды	kudɨ	k u d ɨ	kudɨ	WHITHER			
 Belarusian_HOW	Belarusian	bela1254	bel	HOW	як	jak	j a k	jak	HOW			
 Belarusian_WHY	Belarusian	bela1254	bel	WHY	чаму	ʈ͡ʂamu	ʈ͡ʂ a m u	ʈ͡ʂamu	WHY			
 Belarusian_HOW_MUCH	Belarusian	bela1254	bel	HOW_MUCH	колькі	kɔlʲki	k ɔ lʲ k i	kɔlʲki	HOW_MUCH			
-Belarusian_ONE	Belarusian	bela1254	bel	ONE	адзін	adzin	a d z i n	adzin	ONE			
+Belarusian_ONE	Belarusian	bela1254	bel	ONE	адзін	aʣin	a ʣ i n	adzin	ONE			
 Belarusian_TWO	Belarusian	bela1254	bel	TWO	два	dva	d v a	dva	TWO			
 Belarusian_THREE	Belarusian	bela1254	bel	THREE	тры	trɨ	t r ɨ	trɨ	THREE			
 Belarusian_FOUR	Belarusian	bela1254	bel	FOUR	чатыры	ʈ͡ʂatɨrɨ	ʈ͡ʂ a t ɨ r ɨ	ʈ͡ʂatɨrɨ	FOUR			
@@ -8833,25 +8833,25 @@ Belarusian_FIVE	Belarusian	bela1254	bel	FIVE	пяць	pʲaʦʲ	pʲ a ʦʲ	pʲat�
 Belarusian_SIX	Belarusian	bela1254	bel	SIX	шесць	ʂɛsʦʲ	ʂ ɛ s ʦʲ	ʂɛst͡sʲ	SIX			
 Belarusian_SEVEN	Belarusian	bela1254	bel	SEVEN	сем	sʲɛm	sʲ ɛ m	sʲɛm	SEVEN			
 Belarusian_EIGHT	Belarusian	bela1254	bel	EIGHT	восем	vɔsʲɛm	v ɔ sʲ ɛ m	vɔsʲɛm	EIGHT			
-Belarusian_NINE	Belarusian	bela1254	bel	NINE	дзевяць	dzʲɛvʲaʦʲ	d zʲ ɛ vʲ a ʦʲ	dzʲɛvʲat͡sʲ	NINE			
-Belarusian_TEN	Belarusian	bela1254	bel	TEN	дзесяць	dzʲɛsʲaʦʲ	d zʲ ɛ sʲ a ʦʲ	dzʲɛsʲat͡sʲ	TEN			
-Belarusian_ELEVEN	Belarusian	bela1254	bel	ELEVEN	адзінаццаць	adzinatʦaʦʲ	a d z i n a t ʦ a ʦʲ	adzinatt͡sat͡sʲ	ELEVEN			
+Belarusian_NINE	Belarusian	bela1254	bel	NINE	дзевяць	ʣʲɛvʲaʦʲ	ʣʲ ɛ vʲ a ʦʲ	dzʲɛvʲat͡sʲ	NINE			
+Belarusian_TEN	Belarusian	bela1254	bel	TEN	дзесяць	ʣʲɛsʲaʦʲ	ʣʲ ɛ sʲ a ʦʲ	dzʲɛsʲat͡sʲ	TEN			
+Belarusian_ELEVEN	Belarusian	bela1254	bel	ELEVEN	адзінаццаць	aʣinatʦaʦʲ	a ʣ i n a t ʦ a ʦʲ	adzinatt͡sat͡sʲ	ELEVEN			
 Belarusian_TWELVE	Belarusian	bela1254	bel	TWELVE	дванаццаць	dvanatʦaʦʲ	d v a n a t ʦ a ʦʲ	dvanatt͡sat͡sʲ	TWELVE			
 Belarusian_TWENTY	Belarusian	bela1254	bel	TWENTY	дваццаць	dvatʦaʦʲ	d v a t ʦ a ʦʲ	dvatt͡sat͡sʲ	TWENTY			
 Belarusian_THIRTY	Belarusian	bela1254	bel	THIRTY	трыццаць	trɨtʦaʦʲ	t r ɨ t ʦ a ʦʲ	trɨtt͡sat͡sʲ	THIRTY			
 Belarusian_FORTY	Belarusian	bela1254	bel	FORTY	сорак	sɔrak	s ɔ r a k	sɔrak	FORTY			
-Belarusian_FIFTY	Belarusian	bela1254	bel	FIFTY	пядзесят	pʲadzʲɛsʲat	pʲ a d zʲ ɛ sʲ a t	pʲadzʲɛsʲat	FIFTY			
-Belarusian_SIXTY	Belarusian	bela1254	bel	SIXTY	шесдзесят	ʂɛsdzʲɛsʲat	ʂ ɛ s d zʲ ɛ sʲ a t	ʂɛsdzʲɛsʲat	SIXTY			
-Belarusian_SEVENTY	Belarusian	bela1254	bel	SEVENTY	семдзесят	sʲɛmdzʲɛsʲat	sʲ ɛ m d zʲ ɛ sʲ a t	sʲɛmdzʲɛsʲat	SEVENTY			
-Belarusian_EIGHTY	Belarusian	bela1254	bel	EIGHTY	восемдзесят	vɔsʲɛmdzʲɛsʲat	v ɔ sʲ ɛ m d zʲ ɛ sʲ a t	vɔsʲɛmdzʲɛsʲat	EIGHTY			
-Belarusian_NINETY	Belarusian	bela1254	bel	NINETY	дзевяноста	dzʲɛvʲanɔsta	d zʲ ɛ vʲ a n ɔ s t a	dzʲɛvʲanɔsta	NINETY			
+Belarusian_FIFTY	Belarusian	bela1254	bel	FIFTY	пядзесят	pʲaʣʲɛsʲat	pʲ a ʣʲ ɛ sʲ a t	pʲadzʲɛsʲat	FIFTY			
+Belarusian_SIXTY	Belarusian	bela1254	bel	SIXTY	шесдзесят	ʂɛsʣʲɛsʲat	ʂ ɛ s ʣʲ ɛ sʲ a t	ʂɛsdzʲɛsʲat	SIXTY			
+Belarusian_SEVENTY	Belarusian	bela1254	bel	SEVENTY	семдзесят	sʲɛmʣʲɛsʲat	sʲ ɛ m ʣʲ ɛ sʲ a t	sʲɛmdzʲɛsʲat	SEVENTY			
+Belarusian_EIGHTY	Belarusian	bela1254	bel	EIGHTY	восемдзесят	vɔsʲɛmʣʲɛsʲat	v ɔ sʲ ɛ m ʣʲ ɛ sʲ a t	vɔsʲɛmdzʲɛsʲat	EIGHTY			
+Belarusian_NINETY	Belarusian	bela1254	bel	NINETY	дзевяноста	ʣʲɛvʲanɔsta	ʣʲ ɛ vʲ a n ɔ s t a	dzʲɛvʲanɔsta	NINETY			
 Belarusian_HUNDRED	Belarusian	bela1254	bel	HUNDRED	сто	stɔ	s t ɔ	stɔ	HUNDRED			
 Belarusian_THOUSAND	Belarusian	bela1254	bel	THOUSAND	тысяча	tɨsʲaʈ͡ʂa	t ɨ sʲ a ʈ͡ʂ a	tɨsʲaʈ͡ʂa	THOUSAND			
 Belarusian_AND	Belarusian	bela1254	bel	AND	і	i	i	i	AND			
 Belarusian_AND	Belarusian	bela1254	bel	AND	ды	dɨ	d ɨ	dɨ	AND			
 Belarusian_OR	Belarusian	bela1254	bel	OR	або	abɔ	a b ɔ	abɔ	OR			
 Belarusian_STAND	Belarusian	bela1254	bel	STAND	стаяць	stajaʦʲ	s t a j a ʦʲ	stajat͡sʲ	STAND			
-Belarusian_SIT	Belarusian	bela1254	bel	SIT	сядзець	sʲadzʲɛʦʲ	sʲ a d zʲ ɛ ʦʲ	sʲadzʲɛt͡sʲ	SIT			
+Belarusian_SIT	Belarusian	bela1254	bel	SIT	сядзець	sʲaʣʲɛʦʲ	sʲ a ʣʲ ɛ ʦʲ	sʲadzʲɛt͡sʲ	SIT			
 Belarusian_LIE_(REST)	Belarusian	bela1254	bel	LIE_(REST)	ляжаць	lʲaʐaʦʲ	lʲ a ʐ a ʦʲ	lʲaʐat͡sʲ	LIE_(REST)			
 Belarusian_HANG	Belarusian	bela1254	bel	HANG	вісець	visʲɛʦʲ	v i sʲ ɛ ʦʲ	visʲɛt͡sʲ	HANG			
 Belarusian_BECOME	Belarusian	bela1254	bel	BECOME	стаць	staʦʲ	s t a ʦʲ	stat͡sʲ	BECOME			
@@ -8864,7 +8864,7 @@ Belarusian_RISE_(MOVE_UPWARDS)	Belarusian	bela1254	bel	RISE_(MOVE_UPWARDS)	уз�
 Belarusian_SET_(HEAVENLY_BODIES)	Belarusian	bela1254	bel	SET_(HEAVENLY_BODIES)	зайсці	zajsʦi	z a j s ʦ i	zajst͡si	SET_(HEAVENLY_BODIES)			
 Belarusian_SHINE	Belarusian	bela1254	bel	SHINE	свяціць	svʲaʦiʦʲ	s vʲ a ʦ i ʦʲ	svʲat͡sit͡sʲ	SHINE			
 Belarusian_THUNDER_(VERB)	Belarusian	bela1254	bel	THUNDER_(VERB)	грымець	ɣrɨmʲɛʦʲ	ɣ r ɨ mʲ ɛ ʦʲ	ɣrɨmʲɛt͡sʲ	THUNDER_(VERB)			
-Belarusian_BLOW_(OF_WIND)	Belarusian	bela1254	bel	BLOW_(OF_WIND)	дзьмуць	dzʲmuʦʲ	d zʲ m u ʦʲ	dzʲmut͡sʲ	BLOW_(OF_WIND)			
+Belarusian_BLOW_(OF_WIND)	Belarusian	bela1254	bel	BLOW_(OF_WIND)	дзьмуць	ʣʲmuʦʲ	ʣʲ m u ʦʲ	dzʲmut͡sʲ	BLOW_(OF_WIND)			
 Belarusian_FLOW_(OF_RIVER)	Belarusian	bela1254	bel	FLOW_(OF_RIVER)	ліцца	litʦa	l i t ʦ a	litt͡sa	FLOW_(OF_RIVER)			
 Belarusian_FLOW	Belarusian	bela1254	bel	FLOW	цячы	ʦʲaʈ͡ʂɨ	ʦʲ a ʈ͡ʂ ɨ	t͡sʲaʈ͡ʂɨ	FLOW			
 Belarusian_REVOLVE	Belarusian	bela1254	bel	REVOLVE	круціцца	kruʦitʦa	k r u ʦ i t ʦ a	krut͡sitt͡sa	REVOLVE			
@@ -8885,7 +8885,7 @@ Belarusian_SPOIL_(BECOME_SPOILED)	Belarusian	bela1254	bel	SPOIL_(BECOME_SPOILED)
 Belarusian_DECAY	Belarusian	bela1254	bel	DECAY	згнісці	zɣnisʦi	z ɣ n i s ʦ i	zɣnist͡si	DECAY			
 Belarusian_SNAP_(INTO_BITS)	Belarusian	bela1254	bel	SNAP_(INTO_BITS)	ірвацца	irvatʦa	i r v a t ʦ a	irvatt͡sa	SNAP_(INTO_BITS)			
 Belarusian_SINK_(IN_WATER)	Belarusian	bela1254	bel	SINK_(IN_WATER)	тануць	tanuʦʲ	t a n u ʦʲ	tanut͡sʲ	SINK_(IN_WATER)			
-Belarusian_PASS	Belarusian	bela1254	bel	PASS	праходзіць	praxɔdziʦʲ	p r a x ɔ d z i ʦʲ	praxɔdzit͡sʲ	PASS			
+Belarusian_PASS	Belarusian	bela1254	bel	PASS	праходзіць	praxɔʣiʦʲ	p r a x ɔ ʣ i ʦʲ	praxɔdzit͡sʲ	PASS			
 Belarusian_APPEAR	Belarusian	bela1254	bel	APPEAR	зʼявіцца	zjavitʦa	z j a v i t ʦ a	zʼjavitt͡sa	APPEAR			
 Belarusian_DISAPPEAR	Belarusian	bela1254	bel	DISAPPEAR	знікнуць	zniknuʦʲ	z n i k n u ʦʲ	zniknut͡sʲ	DISAPPEAR			
 Belarusian_DROP_(MOVEMENT)	Belarusian	bela1254	bel	DROP_(MOVEMENT)	спадаць	spadaʦʲ	s p a d a ʦʲ	spadat͡sʲ	DROP_(MOVEMENT)			
@@ -8904,13 +8904,13 @@ Belarusian_RUSTLE_(OF_LEAVES)	Belarusian	bela1254	bel	RUSTLE_(OF_LEAVES)	шас�
 Belarusian_SOUND_(OF_INSTRUMENT)	Belarusian	bela1254	bel	SOUND_(OF_INSTRUMENT)	гучаць	ɣuʈ͡ʂaʦʲ	ɣ u ʈ͡ʂ a ʦʲ	ɣuʈ͡ʂat͡sʲ	SOUND_(OF_INSTRUMENT)			
 Belarusian_BARKING	Belarusian	bela1254	bel	BARKING	брахаць	braxaʦʲ	b r a x a ʦʲ	braxat͡sʲ	BARKING			
 Belarusian_HOWL	Belarusian	bela1254	bel	HOWL	выць	vɨʦʲ	v ɨ ʦʲ	vɨt͡sʲ	HOWL			
-Belarusian_BLOW_(WITH_MOUTH)	Belarusian	bela1254	bel	BLOW_(WITH_MOUTH)	дзьмухнуць	dzʲmuxnuʦʲ	d zʲ m u x n u ʦʲ	dzʲmuxnut͡sʲ	BLOW_(WITH_MOUTH)			
+Belarusian_BLOW_(WITH_MOUTH)	Belarusian	bela1254	bel	BLOW_(WITH_MOUTH)	дзьмухнуць	ʣʲmuxnuʦʲ	ʣʲ m u x n u ʦʲ	dzʲmuxnut͡sʲ	BLOW_(WITH_MOUTH)			
 Belarusian_WHISTLE	Belarusian	bela1254	bel	WHISTLE	свістаць	svistaʦʲ	s v i s t a ʦʲ	svistat͡sʲ	WHISTLE			
 Belarusian_SHOUT	Belarusian	bela1254	bel	SHOUT	крычаць	krɨʈ͡ʂaʦʲ	k r ɨ ʈ͡ʂ a ʦʲ	krɨʈ͡ʂat͡sʲ	SHOUT			
 Belarusian_GROAN	Belarusian	bela1254	bel	GROAN	стагнаць	staɣnaʦʲ	s t a ɣ n a ʦʲ	staɣnat͡sʲ	GROAN			
 Belarusian_TREMBLE	Belarusian	bela1254	bel	TREMBLE	дрыжаць	drɨʐaʦʲ	d r ɨ ʐ a ʦʲ	drɨʐat͡sʲ	TREMBLE			
 Belarusian_BE_ALIVE	Belarusian	bela1254	bel	BE_ALIVE	жыць	ʐɨʦʲ	ʐ ɨ ʦʲ	ʐɨt͡sʲ	BE_ALIVE			
-Belarusian_BE_BORN	Belarusian	bela1254	bel	BE_BORN	нарадзіцца	naradzitʦa	n a r a d z i t ʦ a	naradzitt͡sa	BE_BORN			
+Belarusian_BE_BORN	Belarusian	bela1254	bel	BE_BORN	нарадзіцца	naraʣitʦa	n a r a ʣ i t ʦ a	naradzitt͡sa	BE_BORN			
 Belarusian_BREATHE	Belarusian	bela1254	bel	BREATHE	дыхаць	dɨxaʦʲ	d ɨ x a ʦʲ	dɨxat͡sʲ	BREATHE			
 Belarusian_DRINK	Belarusian	bela1254	bel	DRINK	піць	piʦʲ	p i ʦʲ	pit͡sʲ	DRINK			
 Belarusian_EAT	Belarusian	bela1254	bel	EAT	есці	jɛsʦi	j ɛ s ʦ i	jɛst͡si	EAT			
@@ -8934,7 +8934,7 @@ Belarusian_BUDGE	Belarusian	bela1254	bel	BUDGE	варушыцца	varuʂɨtʦa	v
 Belarusian_STAND_UP	Belarusian	bela1254	bel	STAND_UP	устаць	ustaʦʲ	u s t a ʦʲ	ustat͡sʲ	STAND_UP			
 Belarusian_SIT_DOWN	Belarusian	bela1254	bel	SIT_DOWN	сесці	sʲɛsʦi	sʲ ɛ s ʦ i	sʲɛst͡si	SIT_DOWN			
 Belarusian_TUMBLE	Belarusian	bela1254	bel	TUMBLE	упасці	upasʦi	u p a s ʦ i	upast͡si	TUMBLE			
-Belarusian_WALK	Belarusian	bela1254	bel	WALK	хадзіць	xadziʦʲ	x a d z i ʦʲ	xadzit͡sʲ	WALK			
+Belarusian_WALK	Belarusian	bela1254	bel	WALK	хадзіць	xaʣiʦʲ	x a ʣ i ʦʲ	xadzit͡sʲ	WALK			
 Belarusian_STEP_(VERB)	Belarusian	bela1254	bel	STEP_(VERB)	шагаць	ʂaɣaʦʲ	ʂ a ɣ a ʦʲ	ʂaɣat͡sʲ	STEP_(VERB)			
 Belarusian_STEP_(VERB)	Belarusian	bela1254	bel	STEP_(VERB)	крочыць	krɔʈ͡ʂɨʦʲ	k r ɔ ʈ͡ʂ ɨ ʦʲ	krɔʈ͡ʂɨt͡sʲ	STEP_(VERB)			
 Belarusian_TAKE_A_WALK	Belarusian	bela1254	bel	TAKE_A_WALK	гуляць	ɣulʲaʦʲ	ɣ u lʲ a ʦʲ	ɣulʲat͡sʲ	TAKE_A_WALK			
@@ -8956,7 +8956,7 @@ Belarusian_LEAVE	Belarusian	bela1254	bel	LEAVE	пайсці	pajsʦi	p a j s ʦ i
 Belarusian_DEPART	Belarusian	bela1254	bel	DEPART	адʼяжджаць	adjaʐdʐaʦʲ	a d j a ʐ d ʐ a ʦʲ	adʼjaʐdʐat͡sʲ	DEPART			
 Belarusian_STOP_(OF_MOVEMENT)	Belarusian	bela1254	bel	STOP_(OF_MOVEMENT)	спыніцца	spɨnitʦa	s p ɨ n i t ʦ a	spɨnitt͡sa	STOP_(OF_MOVEMENT)			
 Belarusian_STOP_(OF_MOVEMENT)	Belarusian	bela1254	bel	STOP_(OF_MOVEMENT)	затрымацца	zatrɨmatʦa	z a t r ɨ m a t ʦ a	zatrɨmatt͡sa	STOP_(OF_MOVEMENT)			
-Belarusian_GO_INSIDE	Belarusian	bela1254	bel	GO_INSIDE	уваходзіць	uvaxɔdziʦʲ	u v a x ɔ d z i ʦʲ	uvaxɔdzit͡sʲ	GO_INSIDE			
+Belarusian_GO_INSIDE	Belarusian	bela1254	bel	GO_INSIDE	уваходзіць	uvaxɔʣiʦʲ	u v a x ɔ ʣ i ʦʲ	uvaxɔdzit͡sʲ	GO_INSIDE			
 Belarusian_ENTER	Belarusian	bela1254	bel	ENTER	увайсці	uvajsʦi	u v a j s ʦ i	uvajst͡si	ENTER			
 Belarusian_COME	Belarusian	bela1254	bel	COME	прыйсці	prɨjsʦi	p r ɨ j s ʦ i	prɨjst͡si	COME			
 Belarusian_ARRIVE	Belarusian	bela1254	bel	ARRIVE	прыбыць	prɨbɨʦʲ	p r ɨ b ɨ ʦʲ	prɨbɨt͡sʲ	ARRIVE			
@@ -8980,8 +8980,8 @@ Belarusian_FEAR_(BE_AFRAID)	Belarusian	bela1254	bel	FEAR_(BE_AFRAID)	баяцц�
 Belarusian_FLEE	Belarusian	bela1254	bel	FLEE	уцякаць	uʦʲakaʦʲ	u ʦʲ a k a ʦʲ	ut͡sʲakat͡sʲ	FLEE			
 Belarusian_ESCAPE	Belarusian	bela1254	bel	ESCAPE	уцячы	uʦʲaʈ͡ʂɨ	u ʦʲ a ʈ͡ʂ ɨ	ut͡sʲaʈ͡ʂɨ	ESCAPE			
 Belarusian_SEE	Belarusian	bela1254	bel	SEE	бачыць	baʈ͡ʂɨʦʲ	b a ʈ͡ʂ ɨ ʦʲ	baʈ͡ʂɨt͡sʲ	SEE			
-Belarusian_LOOK	Belarusian	bela1254	bel	LOOK	паглядзець	paɣlʲadzʲɛʦʲ	p a ɣ lʲ a d zʲ ɛ ʦʲ	paɣlʲadzʲɛt͡sʲ	LOOK			
-Belarusian_WATCH	Belarusian	bela1254	bel	WATCH	глядзець	ɣlʲadzʲɛʦʲ	ɣ lʲ a d zʲ ɛ ʦʲ	ɣlʲadzʲɛt͡sʲ	WATCH			
+Belarusian_LOOK	Belarusian	bela1254	bel	LOOK	паглядзець	paɣlʲaʣʲɛʦʲ	p a ɣ lʲ a ʣʲ ɛ ʦʲ	paɣlʲadzʲɛt͡sʲ	LOOK			
+Belarusian_WATCH	Belarusian	bela1254	bel	WATCH	глядзець	ɣlʲaʣʲɛʦʲ	ɣ lʲ a ʣʲ ɛ ʦʲ	ɣlʲadzʲɛt͡sʲ	WATCH			
 Belarusian_HEAR	Belarusian	bela1254	bel	HEAR	чуць	ʈ͡ʂuʦʲ	ʈ͡ʂ u ʦʲ	ʈ͡ʂut͡sʲ	HEAR			
 Belarusian_LISTEN	Belarusian	bela1254	bel	LISTEN	слухаць	sluxaʦʲ	s l u x a ʦʲ	sluxat͡sʲ	LISTEN			
 Belarusian_TASTE_(SOMETHING)	Belarusian	bela1254	bel	TASTE_(SOMETHING)	каштаваць	kaʂtavaʦʲ	k a ʂ t a v a ʦʲ	kaʂtavat͡sʲ	TASTE_(SOMETHING)			
@@ -9002,7 +9002,7 @@ Belarusian_RESULT_IN	Belarusian	bela1254	bel	RESULT_IN	аказацца	akazatʦ
 Belarusian_OPEN	Belarusian	bela1254	bel	OPEN	адчыніць	adʈ͡ʂɨniʦʲ	a d ʈ͡ʂ ɨ n i ʦʲ	adʈ͡ʂɨnit͡sʲ	OPEN			
 Belarusian_SHUT	Belarusian	bela1254	bel	SHUT	зачыніць	zaʈ͡ʂɨniʦʲ	z a ʈ͡ʂ ɨ n i ʦʲ	zaʈ͡ʂɨnit͡sʲ	SHUT			
 Belarusian_PUT	Belarusian	bela1254	bel	PUT	паставіць	pastaviʦʲ	p a s t a v i ʦʲ	pastavit͡sʲ	PUT			
-Belarusian_CAUSE_TO_SIT	Belarusian	bela1254	bel	CAUSE_TO_SIT	пасадзіць	pasadziʦʲ	p a s a d z i ʦʲ	pasadzit͡sʲ	CAUSE_TO_SIT			
+Belarusian_CAUSE_TO_SIT	Belarusian	bela1254	bel	CAUSE_TO_SIT	пасадзіць	pasaʣiʦʲ	p a s a ʣ i ʦʲ	pasadzit͡sʲ	CAUSE_TO_SIT			
 Belarusian_LAY_(VERB)	Belarusian	bela1254	bel	LAY_(VERB)	класці	klasʦi	k l a s ʦ i	klast͡si	LAY_(VERB)			
 Belarusian_TOUCH	Belarusian	bela1254	bel	TOUCH	чапаць	ʈ͡ʂapaʦʲ	ʈ͡ʂ a p a ʦʲ	ʈ͡ʂapat͡sʲ	TOUCH			
 Belarusian_CONNECT	Belarusian	bela1254	bel	CONNECT	звязаць	zvʲazaʦʲ	z vʲ a z a ʦʲ	zvʲazat͡sʲ	CONNECT			
@@ -9063,7 +9063,7 @@ Belarusian_CATCH	Belarusian	bela1254	bel	CATCH	лавіць	laviʦʲ	l a v i ʦ�
 Belarusian_GRAB_(SOMETHING)	Belarusian	bela1254	bel	GRAB_(SOMETHING)	схапіць	sxapiʦʲ	s x a p i ʦʲ	sxapit͡sʲ	GRAB_(SOMETHING)			
 Belarusian_GRAB_(SOMETHING)	Belarusian	bela1254	bel	GRAB_(SOMETHING)	схваціць	sxvaʦiʦʲ	s x v a ʦ i ʦʲ	sxvat͡sit͡sʲ	GRAB_(SOMETHING)			
 Belarusian_HIDE_(CONCEAL)	Belarusian	bela1254	bel	HIDE_(CONCEAL)	схаваць	sxavaʦʲ	s x a v a ʦʲ	sxavat͡sʲ	HIDE_(CONCEAL)			
-Belarusian_DIVIDE	Belarusian	bela1254	bel	DIVIDE	раздзяліць	razdzʲaliʦʲ	r a z d zʲ a l i ʦʲ	razdzʲalit͡sʲ	DIVIDE			
+Belarusian_DIVIDE	Belarusian	bela1254	bel	DIVIDE	раздзяліць	razʣʲaliʦʲ	r a z ʣʲ a l i ʦʲ	razdzʲalit͡sʲ	DIVIDE			
 Belarusian_SEND	Belarusian	bela1254	bel	SEND	пасылаць	pasɨlaʦʲ	p a s ɨ l a ʦʲ	pasɨlat͡sʲ	SEND			
 Belarusian_BRING	Belarusian	bela1254	bel	BRING	прынесці	prɨnʲɛsʦi	p r ɨ nʲ ɛ s ʦ i	prɨnʲɛst͡si	BRING			
 Belarusian_ADD	Belarusian	bela1254	bel	ADD	дабавіць	dabaviʦʲ	d a b a v i ʦʲ	dabavit͡sʲ	ADD			
@@ -9075,7 +9075,7 @@ Belarusian_SELECT	Belarusian	bela1254	bel	SELECT	адабраць	adabraʦʲ	a d
 Belarusian_PRESERVE	Belarusian	bela1254	bel	PRESERVE	захаваць	zaxavaʦʲ	z a x a v a ʦʲ	zaxavat͡sʲ	PRESERVE			
 Belarusian_HINDER	Belarusian	bela1254	bel	HINDER	перашкаджаць	pʲɛraʂkadʐaʦʲ	pʲ ɛ r a ʂ k a d ʐ a ʦʲ	pʲɛraʂkadʐat͡sʲ	HINDER			
 Belarusian_SPOIL_(SOMEBODY_OR_SOMETHING)	Belarusian	bela1254	bel	SPOIL_(SOMEBODY_OR_SOMETHING)	сапсаваць	sapsavaʦʲ	s a p s a v a ʦʲ	sapsavat͡sʲ	SPOIL_(SOMEBODY_OR_SOMETHING)			
-Belarusian_DAMAGE	Belarusian	bela1254	bel	DAMAGE	пашкодзіць	paʂkɔdziʦʲ	p a ʂ k ɔ d z i ʦʲ	paʂkɔdzit͡sʲ	DAMAGE			
+Belarusian_DAMAGE	Belarusian	bela1254	bel	DAMAGE	пашкодзіць	paʂkɔʣiʦʲ	p a ʂ k ɔ ʣ i ʦʲ	paʂkɔdzit͡sʲ	DAMAGE			
 Belarusian_BREAK_(CLEAVE)	Belarusian	bela1254	bel	BREAK_(CLEAVE)	разбіць	razbiʦʲ	r a z b i ʦʲ	razbit͡sʲ	BREAK_(CLEAVE)			
 Belarusian_SHRED	Belarusian	bela1254	bel	SHRED	разадраць	razadraʦʲ	r a z a d r a ʦʲ	razadrat͡sʲ	SHRED			
 Belarusian_DESTROY	Belarusian	bela1254	bel	DESTROY	разбурыць	razburɨʦʲ	r a z b u r ɨ ʦʲ	razburɨt͡sʲ	DESTROY			
@@ -9090,7 +9090,7 @@ Belarusian_KISS	Belarusian	bela1254	bel	KISS	цалаваць	ʦalavaʦʲ	ʦ a l
 Belarusian_ROCK_(A_CHILD)	Belarusian	bela1254	bel	ROCK_(A_CHILD)	гушкаць	ɣuʂkaʦʲ	ɣ u ʂ k a ʦʲ	ɣuʂkat͡sʲ	ROCK_(A_CHILD)			
 Belarusian_ROCK_(A_CHILD)	Belarusian	bela1254	bel	ROCK_(A_CHILD)	калыхаць	kalɨxaʦʲ	k a l ɨ x a ʦʲ	kalɨxat͡sʲ	ROCK_(A_CHILD)			
 Belarusian_COVER_(A_CHILD)	Belarusian	bela1254	bel	COVER_(A_CHILD)	накрыць	nakrɨʦʲ	n a k r ɨ ʦʲ	nakrɨt͡sʲ	COVER_(A_CHILD)			
-Belarusian_WAKE	Belarusian	bela1254	bel	WAKE	пабудзіць	pabudziʦʲ	p a b u d z i ʦʲ	pabudzit͡sʲ	WAKE			
+Belarusian_WAKE	Belarusian	bela1254	bel	WAKE	пабудзіць	pabuʣiʦʲ	p a b u ʣ i ʦʲ	pabudzit͡sʲ	WAKE			
 Belarusian_SHOW	Belarusian	bela1254	bel	SHOW	паказаць	pakazaʦʲ	p a k a z a ʦʲ	pakazat͡sʲ	SHOW			
 Belarusian_GUIDE_(TO_DESTINATION)	Belarusian	bela1254	bel	GUIDE_(TO_DESTINATION)	весці	vʲɛsʦi	vʲ ɛ s ʦ i	vʲɛst͡si	GUIDE_(TO_DESTINATION)			
 Belarusian_TEACH	Belarusian	bela1254	bel	TEACH	вучыць	vuʈ͡ʂɨʦʲ	v u ʈ͡ʂ ɨ ʦʲ	vuʈ͡ʂɨt͡sʲ	TEACH			
@@ -9124,7 +9124,7 @@ Belarusian_KICK	Belarusian	bela1254	bel	KICK	штурхаць	ʂturxaʦʲ	ʂ t u
 Belarusian_STING	Belarusian	bela1254	bel	STING	укалоць	ukalɔʦʲ	u k a l ɔ ʦʲ	ukalɔt͡sʲ	STING			
 Belarusian_SHOVE_(SOMEONE)	Belarusian	bela1254	bel	SHOVE_(SOMEONE)	папхнуць	papxnuʦʲ	p a p x n u ʦʲ	papxnut͡sʲ	SHOVE_(SOMEONE)			
 Belarusian_STEAL	Belarusian	bela1254	bel	STEAL	украсці	ukrasʦi	u k r a s ʦ i	ukrast͡si	STEAL			
-Belarusian_DISTURB_(SOMEONE)	Belarusian	bela1254	bel	DISTURB_(SOMEONE)	перашкодзіць	pʲɛraʂkɔdziʦʲ	pʲ ɛ r a ʂ k ɔ d z i ʦʲ	pʲɛraʂkɔdzit͡sʲ	DISTURB_(SOMEONE)			
+Belarusian_DISTURB_(SOMEONE)	Belarusian	bela1254	bel	DISTURB_(SOMEONE)	перашкодзіць	pʲɛraʂkɔʣiʦʲ	pʲ ɛ r a ʂ k ɔ ʣ i ʦʲ	pʲɛraʂkɔdzit͡sʲ	DISTURB_(SOMEONE)			
 Belarusian_BOTHER	Belarusian	bela1254	bel	BOTHER	дакучаць	dakuʈ͡ʂaʦʲ	d a k u ʈ͡ʂ a ʦʲ	dakuʈ͡ʂat͡sʲ	BOTHER			
 Belarusian_CONCEAL	Belarusian	bela1254	bel	CONCEAL	скрыць	skrɨʦʲ	s k r ɨ ʦʲ	skrɨt͡sʲ	CONCEAL			
 Belarusian_CONCEAL	Belarusian	bela1254	bel	CONCEAL	схаваць	sxavaʦʲ	s x a v a ʦʲ	sxavat͡sʲ	CONCEAL			
@@ -9164,8 +9164,8 @@ Belarusian_SWEEP_(SOMETHING)	Belarusian	bela1254	bel	SWEEP_(SOMETHING)	месц�
 Belarusian_BATHE	Belarusian	bela1254	bel	BATHE	купацца	kupatʦa	k u p a t ʦ a	kupatt͡sa	BATHE			
 Belarusian_WASH_(ONESELF)	Belarusian	bela1254	bel	WASH_(ONESELF)	мыцца	mɨtʦa	m ɨ t ʦ a	mɨtt͡sa	WASH_(ONESELF)			
 Belarusian_TAKE_OFF	Belarusian	bela1254	bel	TAKE_OFF	зняць	znʲaʦʲ	z nʲ a ʦʲ	znʲat͡sʲ	TAKE_OFF			
-Belarusian_PUT_ON	Belarusian	bela1254	bel	PUT_ON	надзець	nadzʲɛʦʲ	n a d zʲ ɛ ʦʲ	nadzʲɛt͡sʲ	PUT_ON			
-Belarusian_DRESS_UP	Belarusian	bela1254	bel	DRESS_UP	адзецца	adzʲɛtʦa	a d zʲ ɛ t ʦ a	adzʲɛtt͡sa	DRESS_UP			
+Belarusian_PUT_ON	Belarusian	bela1254	bel	PUT_ON	надзець	naʣʲɛʦʲ	n a ʣʲ ɛ ʦʲ	nadzʲɛt͡sʲ	PUT_ON			
+Belarusian_DRESS_UP	Belarusian	bela1254	bel	DRESS_UP	адзецца	aʣʲɛtʦa	a ʣʲ ɛ t ʦ a	adzʲɛtt͡sa	DRESS_UP			
 Belarusian_COMB_(VERB)	Belarusian	bela1254	bel	COMB_(VERB)	прычасаць	prɨʈ͡ʂasaʦʲ	p r ɨ ʈ͡ʂ a s a ʦʲ	prɨʈ͡ʂasat͡sʲ	COMB_(VERB)			
 Belarusian_DECORATE	Belarusian	bela1254	bel	DECORATE	аздобіць	azdɔbiʦʲ	a z d ɔ b i ʦʲ	azdɔbit͡sʲ	DECORATE			
 Belarusian_SAY	Belarusian	bela1254	bel	SAY	сказаць	skazaʦʲ	s k a z a ʦʲ	skazat͡sʲ	SAY			
