@@ -1,0 +1,6 @@
+[submodule "Code/Automatic_Transcription"]
+	path = Code/Automatic_Transcription
+	url = https://github.com/pgeorgis/Automatic_Transcription.git
+[submodule "Trees/glottolog"]
+	path = Trees/glottolog
+	url = https://github.com/glottolog/glottolog.git
