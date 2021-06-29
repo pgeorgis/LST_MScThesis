@@ -10,6 +10,11 @@ grandparent_dir = parent_dir.parent
 os.chdir(str(grandparent_dir) + '/Code')
 from phonetic_distance import *
 from auxiliary_functions import csv_to_dict, strip_ch
+
+#Load automatic G2P transcription tools for Czech and Polish
+os.chdir(str(grandparent_dir) + '/Code/Automatic_Transcription/')
+from transcribe_czech import *
+from transcribe_polish import *
 os.chdir(local_dir)
 
 
@@ -301,10 +306,45 @@ for i in forms_data:
             tr = re.sub('ɛ', 'e', tr)
             tr = re.sub('ɔ', 'o', tr)
             
-            #<ije> is not /ije/ but /jeː/, it is the long version of <je>
+
+            #<ije> is not /ije/ or /ie/, but /jeː/ -- it is the long version of <je>
             #(i.e., the orthographic <i> is present only to mark the length)
+            #Several steps required to fix this
+            
+            #Step 1: fix /ije/ without tone marking
             tr = re.sub('ije', 'jeː', tr)
-            #Remove any accidental resulting double length markings
+            
+            #Step 2: fix /ije/ with tone marking
+            #Some mistakenly have a pitch accent on the <i> instead of on the <e>
+            tones = re.compile(r'̂|̌') #rising and falling tone diacritics
+            ije_tones = re.compile(r'i[̂|̌]je') 
+            if ije_tones.search(tr):
+                #Distinguish between <iTONEje> within and at the end of a word (e.g. <prije>)
+                #Don't change anything if this sequence is at the end of the word
+                ije_end = re.compile(r'i[̂|̌]je($| )')
+                if ije_end.search(tr):
+                    pass
+                
+                else:
+                    tone = tones.findall(tr)[0]
+                    indices = [(m.start(0), m.end(0)) for m in re.finditer(ije_tones, tr)][0]
+                    start, end = indices
+                    new_tr = tr[:start] + 'je'
+                    if tr[start+4] == 'ː':
+                        new_tr += tr[start+4] + tone + tr[start+5:]
+                    else:
+                        new_tr += 'ː' + tone + tr[start+4:]
+                    tr = new_tr
+            
+            #Step 3: fix /ie/
+            if 'ie' in tr:
+                #these two words are exceptions, the 'ije' is not of the same type
+                if orth not in ['kasnije', 'najprije']:
+                    tr = re.sub('ie', 'jeː', tr)
+                else:
+                    tr = re.sub('ie', 'ije', tr)
+            
+            #Step 4: Remove any accidental resulting double length markings
             tr = re.sub('ːː', 'ː', tr)
         
         elif lang == 'Slovene':
@@ -314,20 +354,18 @@ for i in forms_data:
             tr = re.sub('˨ː', 'ː˨', tr)
         
         elif lang == 'Czech':
+            #NEL Czech transcriptions had many errors, use my Czech G2P tool 
+            #instead on orthographic form
+            tr = transcribe_cz(orth)
+            
             #Czech has no geminated/long consonants, only preserved in orthography for etymological reasons
-            tr = re.sub('kː', 'k', tr)
-            tr = re.sub('nː', 'n', tr)
-            tr = re.sub('tː͡s', 'ʦ', tr)
+            tr = re.sub('kk', 'k', tr)
+            tr = re.sub('nn', 'n', tr)
             
             #Exception is in prefixes, e.g. <od-> followed by <t>,
             #then pronounced as two distinct consonants rather than geminate
-            #All instances of [tː] in Czech NEL are of this type, except [tː͡s],
-            #which will have already been converted in previous line
-            tr = re.sub('tː', 'tt', tr)
-            
-            #Not incorrect transcription, but change position of voiceless diacritic in
-            #voiceless <ř> to be more easily discernible since there is already a diacritic below
-            tr = re.sub('r̝̥', 'r̝̊', tr)
+            #All instances of /tt/ in Czech NEL words are of this type,
+            #so no need to simplify /tt/ to /t/
         
         elif lang == 'Slovak':
             #Same geminate/long consonant situation as described above in Czech
@@ -381,7 +419,9 @@ for i in forms_data:
             
             
         #Then make general, non-language specific corrections
-        tr = fix_transcription(tr)
+        #Don't do this for Czech, as it was already properly transcribed using G2P
+        if lang != 'Czech':
+            tr = fix_transcription(tr)
         
         
     except IndexError:
