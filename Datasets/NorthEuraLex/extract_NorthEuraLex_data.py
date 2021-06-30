@@ -383,14 +383,29 @@ for i in forms_data:
             tr = re.sub('u̯', 'ʊ̯', tr)
         
         elif lang == 'Polish':
-            #Double consonants in Polish orthography are released separately, not geminate
-            tr = re.sub('dː', 'dd', tr)
-            tr = re.sub('nː', 'nn', tr)
-            tr = re.sub('sː', 'ss', tr)
-            tr = re.sub('tː', 'tt', tr)
+            #NEL Polish transcriptions had many errors, use my Czech G2P tool 
+            #instead on orthographic form
+            words = orth.split()
+            tr_words = []
+            for word in words:
+                #This word (reflexive particle) typically is not pronounced with a nasal vowel, 
+                #as would have been automatically transcribed
+                if word == 'się':
+                    tr_words.append('ɕɛ')
+                    
+                #Otherwise transcribe all other words automatically using G2P
+                else:
+                    tr_words.append(transcribe_pl(word))
+            tr = ' '.join(tr_words)
+            
+            #Remove dental diacritic from automatic transcription, this level of detail is unnecessary
+            tr = re.sub('̪', '', tr)
             
             #Only one example of <kk>, in <miękki>; not released double due to preceding nasal
-            tr = re.sub('kː', 'kk', tr)
+            tr = re.sub('kk', 'k', tr)
+            
+            #Replace '_' with white space
+            tr = re.sub('_', ' ', tr)
         
         elif lang == 'Belarusian':
             #Apostrophe <ʼ> in Belarusian orthography marks that preceding consonant is not palatalized,
@@ -419,8 +434,8 @@ for i in forms_data:
             
             
         #Then make general, non-language specific corrections
-        #Don't do this for Czech, as it was already properly transcribed using G2P
-        if lang != 'Czech':
+        #Don't do this for Czech or Polish, as they were already properly transcribed using G2P
+        if lang not in ['Czech', 'Polish']:
             tr = fix_transcription(tr)
         
         
