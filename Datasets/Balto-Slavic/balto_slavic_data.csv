@@ -6598,7 +6598,7 @@ Polish_THITHER	Polish	poli1260	pol	THITHER	tam	tam	t a m	tam	THITHER
 Polish_AHEAD	Polish	poli1260	pol	AHEAD	prosto	pɾˈɔstɔ	p ɾ ˈɔ s t ɔ	pɾɔstɔ	AHEAD			
 Polish_FORWARD	Polish	poli1260	pol	FORWARD	naprzód	nˈapʂut	n ˈa p ʂ u t	napʂut	FORWARD			
 Polish_BACKWARD	Polish	poli1260	pol	BACKWARD	wstecz	fstɛt͡ʂ	f s t ɛ t͡ʂ	fstɛʈ͡ʂ	BACKWARD			
-Polish_BACK_(DIRECTION)	Polish	poli1260	pol	BACK_(DIRECTION)	z powrotem	z pɔvɾˈɔtɛm	z   p ɔ v ɾ ˈɔ t ɛ m	z pɔvɾɔtɛm	BACK_(DIRECTION)			
+Polish_BACK_(DIRECTION)	Polish	poli1260	pol	BACK_(DIRECTION)	z powrotem	s pɔvɾˈɔtɛm	s   p ɔ v ɾ ˈɔ t ɛ m	z pɔvɾɔtɛm	BACK_(DIRECTION)			
 Polish_DOWN_OR_BELOW	Polish	poli1260	pol	DOWN_OR_BELOW	u dołu	u dˈɔwu	u   d ˈɔ w u	u dɔwu	DOWN_OR_BELOW			
 Polish_DOWN_OR_BELOW	Polish	poli1260	pol	DOWN_OR_BELOW	na dole	na dˈɔlɛ	n a   d ˈɔ l ɛ	na dɔlɛ	DOWN_OR_BELOW			
 Polish_DOWN	Polish	poli1260	pol	DOWN	na_dół	nˈa duw	n ˈa   d u w	na duw	DOWN			
@@ -6626,7 +6626,7 @@ Polish_BELOW_OR_UNDER	Polish	poli1260	pol	BELOW_OR_UNDER	pod	pɔt	p ɔ t	pɔt	BE
 Polish_THROUGH	Polish	poli1260	pol	THROUGH	przez	pʂɛs	p ʂ ɛ s	pʂɛs	THROUGH			
 Polish_NEXT_TO	Polish	poli1260	pol	NEXT_TO	obok	ˈɔbɔk	ˈɔ b ɔ k	ɔbɔk	NEXT_TO			
 Polish_BETWEEN	Polish	poli1260	pol	BETWEEN	między	mʲjˈɛnʣɨ	mʲ j ˈɛ n ʣ ɨ	miɛnd͡zɨ	BETWEEN			
-Polish_BECAUSE_OF	Polish	poli1260	pol	BECAUSE_OF	z powodu	z pɔvˈɔdu	z   p ɔ v ˈɔ d u	z pɔvɔdu	BECAUSE_OF			
+Polish_BECAUSE_OF	Polish	poli1260	pol	BECAUSE_OF	z powodu	s pɔvˈɔdu	s   p ɔ v ˈɔ d u	z pɔvɔdu	BECAUSE_OF			
 Polish_THIS	Polish	poli1260	pol	THIS	to	tɔ	t ɔ	tɔ	THIS			
 Polish_THAT	Polish	poli1260	pol	THAT	to	tɔ	t ɔ	tɔ	THAT			
 Polish_ALL	Polish	poli1260	pol	ALL	wszystko	fʂˈɨstkɔ	f ʂ ˈɨ s t k ɔ	fʂɨstkɔ	ALL			

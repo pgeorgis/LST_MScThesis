@@ -392,11 +392,7 @@ for i in forms_data:
             orth = re.sub('niedźwiedż', 'niedźwiedź', orth)
             
             #Then perform the G2P conversion on the orthography
-            words = orth.split()
-            tr_words = []
-            for word in words:
-                tr_words.append(transcribe_pl(word, final_denasal=True))
-            tr = ' '.join(tr_words)
+            tr = transcribe_pl(orth, final_denasal=True)
             
             #Remove dental diacritic from automatic transcription, this level of detail is unnecessary
             tr = re.sub('̪', '', tr)
