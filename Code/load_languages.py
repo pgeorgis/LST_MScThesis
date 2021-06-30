@@ -197,6 +197,8 @@ class Language(Dataset):
         for phoneme in self.phonemes:
             self.phonemes[phoneme] = self.phonemes[phoneme] / total_tokens
             
+        
+            
     def create_vocabulary(self):
         for i in self.data:
             entry = self.data[i]
@@ -209,6 +211,35 @@ class Language(Dataset):
             #Mark known loanwords
             if loan == 'TRUE':
                 self.loanwords[concept].append([orthography, ipa])
+    
+    def lookup(self, segment, 
+               field='transcription',
+               return_list=False):
+        """Prints or returns a list of all word entries containing a given 
+        segment/character or sequence or segments/characters"""
+        if field == 'transcription':
+            field_index = 1
+        elif field == 'orthography':
+            field_index = 0
+        else:
+            print(f'Error: search field should be either "transcription" or "orthography"!')
+            raise ValueError
+        
+        matches = []
+        for concept in self.vocabulary:
+            for entry in self.vocabulary[concept]:
+                orthography, transcription = entry
+                if segment in entry[field_index]:
+                    matches.append((concept, orthography, transcription))
+        
+        if return_list == True:
+            return matches
+        
+        else:
+            for match in matches:
+                concept, orthography, transcription = match
+                print(f"<{orthography}> /{transcription}/ '{concept}'")
+            
                 
     def check_affricates(self):
         """Ensure that affricates have consistent representation"""
@@ -248,6 +279,8 @@ all_languages = [families[family].languages[lang] for family in families
 all_families = [families[family] for family in families]
 total_languages = len(all_languages)
 total_families = len(all_families)
+
+
 
 
 
