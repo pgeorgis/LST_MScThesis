@@ -385,17 +385,17 @@ for i in forms_data:
         elif lang == 'Polish':
             #NEL Polish transcriptions had many errors, use my Czech G2P tool 
             #instead on orthographic form
+            
+            #Two words <łabędź, niedźwiedź> are incorrect in the orthography *<łabędż, niedźwiedż>
+            #Correct these spellings first
+            orth = re.sub('łabędż', 'łabędź', orth)
+            orth = re.sub('niedźwiedż', 'niedźwiedź', orth)
+            
+            #Then perform the G2P conversion on the orthography
             words = orth.split()
             tr_words = []
             for word in words:
-                #This word (reflexive particle) typically is not pronounced with a nasal vowel, 
-                #as would have been automatically transcribed
-                if word == 'się':
-                    tr_words.append('ɕɛ')
-                    
-                #Otherwise transcribe all other words automatically using G2P
-                else:
-                    tr_words.append(transcribe_pl(word))
+                tr_words.append(transcribe_pl(word, final_denasal=True))
             tr = ' '.join(tr_words)
             
             #Remove dental diacritic from automatic transcription, this level of detail is unnecessary

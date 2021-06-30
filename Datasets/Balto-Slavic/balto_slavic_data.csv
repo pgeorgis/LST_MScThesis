@@ -5945,9 +5945,9 @@ Polish_NAVEL	Polish	poli1260	pol	NAVEL	pępek	pˈɛmpɛk	p ˈɛ m p ɛ k	pɛmpɛ
 Polish_BREAST	Polish	poli1260	pol	BREAST	biust	bʲjust	bʲ j u s t	biust	BREAST			
 Polish_CHEST	Polish	poli1260	pol	CHEST	pierś	pʲjɛɾɕ	pʲ j ɛ ɾ ɕ	piɛɾɕ	CHEST			
 Polish_SHOULDER	Polish	poli1260	pol	SHOULDER	bark	baɾk	b a ɾ k	baɾk	SHOULDER			
-Polish_SHOULDER	Polish	poli1260	pol	SHOULDER	ramię	ɾˈamʲjɛw̃	ɾ ˈa mʲ j ɛ w̃	ɾamiɛ̃	SHOULDER			
+Polish_SHOULDER	Polish	poli1260	pol	SHOULDER	ramię	ɾˈamʲjɛ	ɾ ˈa mʲ j ɛ	ɾamiɛ̃	SHOULDER			
 Polish_ARM	Polish	poli1260	pol	ARM	ręka	ɾˈɛŋka	ɾ ˈɛ ŋ k a	ɾɛŋka	ARM			
-Polish_ARM	Polish	poli1260	pol	ARM	ramię	ɾˈamʲjɛw̃	ɾ ˈa mʲ j ɛ w̃	ɾamiɛ̃	ARM			
+Polish_ARM	Polish	poli1260	pol	ARM	ramię	ɾˈamʲjɛ	ɾ ˈa mʲ j ɛ	ɾamiɛ̃	ARM			
 Polish_ELBOW	Polish	poli1260	pol	ELBOW	łokieć	wˈɔkʲjɛʨ	w ˈɔ kʲ j ɛ ʨ	wɔkiɛt͡ɕ	ELBOW			
 Polish_HAND	Polish	poli1260	pol	HAND	dłoń	dwɔɲ	d w ɔ ɲ	dwɔɲ	HAND			
 Polish_PALM_OF_HAND	Polish	poli1260	pol	PALM_OF_HAND	dłoń	dwɔɲ	d w ɔ ɲ	dwɔɲ	PALM_OF_HAND			
@@ -6061,7 +6061,7 @@ Polish_TAIL	Polish	poli1260	pol	TAIL	ogon	ˈɔɡɔn	ˈɔ ɡ ɔ n	ɔɡɔn	TAIL
 Polish_EGG	Polish	poli1260	pol	EGG	jajko	jˈajkɔ	j ˈa j k ɔ	jajkɔ	EGG			
 Polish_NEST	Polish	poli1260	pol	NEST	gniazdo	ɡɲˈazdɔ	ɡ ɲ ˈa z d ɔ	ɡniazdɔ	NEST			
 Polish_LAIR	Polish	poli1260	pol	LAIR	nora	nˈɔɾa	n ˈɔ ɾ a	nɔɾa	LAIR			
-Polish_ANIMAL	Polish	poli1260	pol	ANIMAL	zwierzę	zvʲjˈɛʐɛw̃	z vʲ j ˈɛ ʐ ɛ w̃	zviɛʐɛ̃	ANIMAL			
+Polish_ANIMAL	Polish	poli1260	pol	ANIMAL	zwierzę	zvʲjˈɛʐɛ	z vʲ j ˈɛ ʐ ɛ	zviɛʐɛ̃	ANIMAL			
 Polish_FLOCK_(OF_SHEEP)	Polish	poli1260	pol	FLOCK_(OF_SHEEP)	stado	stˈadɔ	s t ˈa d ɔ	stadɔ	FLOCK_(OF_SHEEP)			
 Polish_FLOCK_(OF_SHEEP)	Polish	poli1260	pol	FLOCK_(OF_SHEEP)	trzoda	tʂˈɔda	t ʂ ˈɔ d a	tʂɔda	FLOCK_(OF_SHEEP)			
 Polish_COW	Polish	poli1260	pol	COW	krowa	kɾˈɔva	k ɾ ˈɔ v a	kɾɔva	COW			
@@ -6072,7 +6072,7 @@ Polish_PIG	Polish	poli1260	pol	PIG	świnia	ɕfʲˈiɲa	ɕ fʲ ˈi ɲ a	ɕfinia	P
 Polish_DOG	Polish	poli1260	pol	DOG	pies	pʲjɛs	pʲ j ɛ s	piɛs	DOG			
 Polish_CAT	Polish	poli1260	pol	CAT	kot	kɔt	k ɔ t	kɔt	CAT			
 Polish_CAT	Polish	poli1260	pol	CAT	kotka	kˈɔtka	k ˈɔ t k a	kɔtka	CAT			
-Polish_BEAR	Polish	poli1260	pol	BEAR	niedźwiedż	ɲˈɛʥvʲjɛt͡ʂ	ɲ ˈɛ ʥ vʲ j ɛ t͡ʂ	niɛd͡ʑviɛʈ͡ʂ	BEAR			
+Polish_BEAR	Polish	poli1260	pol	BEAR	niedźwiedź	ɲˈɛʥvʲjɛʨ	ɲ ˈɛ ʥ vʲ j ɛ ʨ	niɛd͡ʑviɛʈ͡ʂ	BEAR			
 Polish_SQUIRREL	Polish	poli1260	pol	SQUIRREL	wiewiórka	vʲjɛvʲjˈuɾka	vʲ j ɛ vʲ j ˈu ɾ k a	viɛviuɾka	SQUIRREL			
 Polish_ELK	Polish	poli1260	pol	ELK	łóś	wuɕ	w u ɕ	wuɕ	ELK			
 Polish_FOX	Polish	poli1260	pol	FOX	lis	lʲis	lʲ i s	lis	FOX			
@@ -6090,7 +6090,7 @@ Polish_OWL	Polish	poli1260	pol	OWL	sowa	sˈɔva	s ˈɔ v a	sɔva	OWL
 Polish_CRANE	Polish	poli1260	pol	CRANE	żuraw	ʐˈuɾaf	ʐ ˈu ɾ a f	ʐuɾav	CRANE			
 Polish_CROW	Polish	poli1260	pol	CROW	wrona	vɾˈɔna	v ɾ ˈɔ n a	vɾɔna	CROW			
 Polish_CUCKOO	Polish	poli1260	pol	CUCKOO	kukułka	kukˈuwka	k u k ˈu w k a	kukuwka	CUCKOO			
-Polish_SWAN	Polish	poli1260	pol	SWAN	łabędż	wˈabɛnt͡ʂ	w ˈa b ɛ n t͡ʂ	wabɛnʈ͡ʂ	SWAN			
+Polish_SWAN	Polish	poli1260	pol	SWAN	łabędź	wˈabɛɲʨ	w ˈa b ɛ ɲ ʨ	wabɛnʈ͡ʂ	SWAN			
 Polish_FISH	Polish	poli1260	pol	FISH	ryba	ɾˈɨba	ɾ ˈɨ b a	ɾɨba	FISH			
 Polish_PERCH_(FISH)	Polish	poli1260	pol	PERCH_(FISH)	okoń	ˈɔkɔɲ	ˈɔ k ɔ ɲ	ɔkɔɲ	PERCH_(FISH)			
 Polish_PIKE_(FISH)	Polish	poli1260	pol	PIKE_(FISH)	szczupak	ʂt͡ʂˈupak	ʂ t͡ʂ ˈu p a k	ʂʈ͡ʂupak	PIKE_(FISH)			
@@ -6166,7 +6166,7 @@ Polish_FAIRY_TALE	Polish	poli1260	pol	FAIRY_TALE	bajka	bˈajka	b ˈa j k a	bajka
 Polish_STORY	Polish	poli1260	pol	STORY	opowiadanie	ɔpɔvʲjadˈaɲɛ	ɔ p ɔ vʲ j a d ˈa ɲ ɛ	ɔpɔviadaniɛ	STORY			
 Polish_MESSAGE	Polish	poli1260	pol	MESSAGE	wiadomość	vʲjadˈɔmɔɕʨ	vʲ j a d ˈɔ m ɔ ɕ ʨ	viadɔmɔɕt͡ɕ	MESSAGE			
 Polish_NEWS	Polish	poli1260	pol	NEWS	nowina	nɔvʲˈina	n ɔ vʲ ˈi n a	nɔvina	NEWS			
-Polish_NAME	Polish	poli1260	pol	NAME	imię	ˈimʲjɛw̃	ˈi mʲ j ɛ w̃	imiɛ̃	NAME			
+Polish_NAME	Polish	poli1260	pol	NAME	imię	ˈimʲjɛ	ˈi mʲ j ɛ	imiɛ̃	NAME			
 Polish_SPEECH_(ADDRESS)	Polish	poli1260	pol	SPEECH_(ADDRESS)	zagadka	zaɡˈatka	z a ɡ ˈa t k a	zaɡatka	SPEECH_(ADDRESS)			
 Polish_SPEECH	Polish	poli1260	pol	SPEECH	mowa	mˈɔva	m ˈɔ v a	mɔva	SPEECH			
 Polish_LANGUAGE	Polish	poli1260	pol	LANGUAGE	język	jˈɛw̃zɨk	j ˈɛ w̃ z ɨ k	jɛ̃zɨk	LANGUAGE			
@@ -6242,7 +6242,7 @@ Polish_SLEDGE	Polish	poli1260	pol	SLEDGE	sanki	sˈaŋkʲi	s ˈa ŋ kʲ i	saŋki	
 Polish_SKI	Polish	poli1260	pol	SKI	narta	nˈaɾta	n ˈa ɾ t a	naɾta	SKI			
 Polish_CAMPFIRE	Polish	poli1260	pol	CAMPFIRE	ognisko	ɔɡɲˈiskɔ	ɔ ɡ ɲ ˈi s k ɔ	ɔɡniskɔ	CAMPFIRE			
 Polish_LOAD	Polish	poli1260	pol	LOAD	ciężar	ʨˈɛw̃ʐaɾ	ʨ ˈɛ w̃ ʐ a ɾ	t͡ɕɛ̃ʐaɾ	LOAD			
-Polish_LOAD	Polish	poli1260	pol	LOAD	brzemię	bʐˈɛmʲjɛw̃	b ʐ ˈɛ mʲ j ɛ w̃	bʐɛmiɛ̃	LOAD			
+Polish_LOAD	Polish	poli1260	pol	LOAD	brzemię	bʐˈɛmʲjɛ	b ʐ ˈɛ mʲ j ɛ	bʐɛmiɛ̃	LOAD			
 Polish_WALK_(TRIP)	Polish	poli1260	pol	WALK_(TRIP)	chód	xut	x u t	xut	WALK_(TRIP)			
 Polish_STEP	Polish	poli1260	pol	STEP	krok	kɾɔk	k ɾ ɔ k	kɾɔk	STEP			
 Polish_NORTH	Polish	poli1260	pol	NORTH	północ	pˈuwnɔʦ	p ˈu w n ɔ ʦ	puwnɔt͡s	NORTH			
@@ -6598,18 +6598,18 @@ Polish_THITHER	Polish	poli1260	pol	THITHER	tam	tam	t a m	tam	THITHER
 Polish_AHEAD	Polish	poli1260	pol	AHEAD	prosto	pɾˈɔstɔ	p ɾ ˈɔ s t ɔ	pɾɔstɔ	AHEAD			
 Polish_FORWARD	Polish	poli1260	pol	FORWARD	naprzód	nˈapʂut	n ˈa p ʂ u t	napʂut	FORWARD			
 Polish_BACKWARD	Polish	poli1260	pol	BACKWARD	wstecz	fstɛt͡ʂ	f s t ɛ t͡ʂ	fstɛʈ͡ʂ	BACKWARD			
-Polish_BACK_(DIRECTION)	Polish	poli1260	pol	BACK_(DIRECTION)	z powrotem	s pɔvɾˈɔtɛm	s   p ɔ v ɾ ˈɔ t ɛ m	z pɔvɾɔtɛm	BACK_(DIRECTION)			
+Polish_BACK_(DIRECTION)	Polish	poli1260	pol	BACK_(DIRECTION)	z powrotem	z pɔvɾˈɔtɛm	z   p ɔ v ɾ ˈɔ t ɛ m	z pɔvɾɔtɛm	BACK_(DIRECTION)			
 Polish_DOWN_OR_BELOW	Polish	poli1260	pol	DOWN_OR_BELOW	u dołu	u dˈɔwu	u   d ˈɔ w u	u dɔwu	DOWN_OR_BELOW			
 Polish_DOWN_OR_BELOW	Polish	poli1260	pol	DOWN_OR_BELOW	na dole	na dˈɔlɛ	n a   d ˈɔ l ɛ	na dɔlɛ	DOWN_OR_BELOW			
 Polish_DOWN	Polish	poli1260	pol	DOWN	na_dół	nˈa duw	n ˈa   d u w	na duw	DOWN			
 Polish_DOWN	Polish	poli1260	pol	DOWN	w_dół	v duw	v   d u w	v duw	DOWN			
-Polish_ABOVE	Polish	poli1260	pol	ABOVE	w górze	f ɡˈuʐɛ	f   ɡ ˈu ʐ ɛ	v ɡuʐɛ	ABOVE			
+Polish_ABOVE	Polish	poli1260	pol	ABOVE	w górze	v ɡˈuʐɛ	v   ɡ ˈu ʐ ɛ	v ɡuʐɛ	ABOVE			
 Polish_ABOVE	Polish	poli1260	pol	ABOVE	na górze	na ɡˈuʐɛ	n a   ɡ ˈu ʐ ɛ	na ɡuʐɛ	ABOVE			
-Polish_UP	Polish	poli1260	pol	UP	w górę	f ɡˈuɾɛw̃	f   ɡ ˈu ɾ ɛ w̃	v ɡuɾɛ̃	UP			
-Polish_UP	Polish	poli1260	pol	UP	na górę	na ɡˈuɾɛw̃	n a   ɡ ˈu ɾ ɛ w̃	na ɡuɾɛ̃	UP			
+Polish_UP	Polish	poli1260	pol	UP	w górę	v ɡˈuɾɛ	v   ɡ ˈu ɾ ɛ	v ɡuɾɛ̃	UP			
+Polish_UP	Polish	poli1260	pol	UP	na górę	na ɡˈuɾɛ	n a   ɡ ˈu ɾ ɛ	na ɡuɾɛ̃	UP			
 Polish_EVERYWHERE	Polish	poli1260	pol	EVERYWHERE	wszędzie	fʂˈɛɲʥɛ	f ʂ ˈɛ ɲ ʥ ɛ	fʂɛnd͡ʑɛ	EVERYWHERE			
 Polish_NOT	Polish	poli1260	pol	NOT	nie	ɲɛ	ɲ ɛ	niɛ	NOT			
-Polish_A_LITTLE	Polish	poli1260	pol	A_LITTLE	trochę	tɾˈɔxɛw̃	t ɾ ˈɔ x ɛ w̃	tɾɔxɛ̃	A_LITTLE			
+Polish_A_LITTLE	Polish	poli1260	pol	A_LITTLE	trochę	tɾˈɔxɛ	t ɾ ˈɔ x ɛ	tɾɔxɛ̃	A_LITTLE			
 Polish_HARDLY	Polish	poli1260	pol	HARDLY	ledwie	lˈɛdvʲjɛ	l ˈɛ d vʲ j ɛ	lɛdviɛ	HARDLY			
 Polish_HARDLY	Polish	poli1260	pol	HARDLY	prawie nie	pɾˈavʲjɛ ɲɛ	p ɾ ˈa vʲ j ɛ   ɲ ɛ	pɾaviɛ niɛ	HARDLY			
 Polish_VERY	Polish	poli1260	pol	VERY	bardzo	bˈaɾʣɔ	b ˈa ɾ ʣ ɔ	baɾd͡zɔ	VERY			
@@ -6626,7 +6626,7 @@ Polish_BELOW_OR_UNDER	Polish	poli1260	pol	BELOW_OR_UNDER	pod	pɔt	p ɔ t	pɔt	BE
 Polish_THROUGH	Polish	poli1260	pol	THROUGH	przez	pʂɛs	p ʂ ɛ s	pʂɛs	THROUGH			
 Polish_NEXT_TO	Polish	poli1260	pol	NEXT_TO	obok	ˈɔbɔk	ˈɔ b ɔ k	ɔbɔk	NEXT_TO			
 Polish_BETWEEN	Polish	poli1260	pol	BETWEEN	między	mʲjˈɛnʣɨ	mʲ j ˈɛ n ʣ ɨ	miɛnd͡zɨ	BETWEEN			
-Polish_BECAUSE_OF	Polish	poli1260	pol	BECAUSE_OF	z powodu	s pɔvˈɔdu	s   p ɔ v ˈɔ d u	z pɔvɔdu	BECAUSE_OF			
+Polish_BECAUSE_OF	Polish	poli1260	pol	BECAUSE_OF	z powodu	z pɔvˈɔdu	z   p ɔ v ˈɔ d u	z pɔvɔdu	BECAUSE_OF			
 Polish_THIS	Polish	poli1260	pol	THIS	to	tɔ	t ɔ	tɔ	THIS			
 Polish_THAT	Polish	poli1260	pol	THAT	to	tɔ	t ɔ	tɔ	THAT			
 Polish_ALL	Polish	poli1260	pol	ALL	wszystko	fʂˈɨstkɔ	f ʂ ˈɨ s t k ɔ	fʂɨstkɔ	ALL			
