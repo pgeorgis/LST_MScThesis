@@ -159,7 +159,7 @@ SWELL	SWELL	104	5	Arabic; Polynesian; Sinitic; Turkic; Uralic
 OTHER	OTHER	101	5	Arabic; Balto-Slavic; Polynesian; Turkic; Uralic
 HERE	HERE	99	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
 WASH	WASH	99	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
-CLAW	CLAW	98	5	Balto-Slavic; Dravidian; Sinitic; Turkic; Uralic
+CLAW	FINGERNAIL	98	5	Balto-Slavic; Dravidian; Sinitic; Turkic; Uralic
 CUT	CUT	98	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
 PULL	PULL	98	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
 ICE	ICE	97	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
@@ -575,7 +575,7 @@ FEEL (TACTUALLY)	FEEL (TACTUALLY)	11	1	Balto-Slavic
 FENCE	FENCE	11	1	Balto-Slavic
 FEVER	FEVER	11	1	Balto-Slavic
 FILL	FILL	11	1	Balto-Slavic
-FINGER	FINGERNAIL	11	1	Balto-Slavic
+FINGER	FINGER	11	1	Balto-Slavic
 FINGERNAIL OR TOENAIL	FINGERNAIL	11	1	Balto-Slavic
 FINISH	FINISH	11	1	Balto-Slavic
 FIR	FIR	11	1	Balto-Slavic
