@@ -103,7 +103,7 @@ RAIN (PRECIPITATION)	RAIN	146	7	Arabic; Balto-Slavic; Dravidian; Hokan; Polynesi
 WARM	WARM	145	7	Arabic; Balto-Slavic; Dravidian; Hokan; Polynesian; Turkic; Uralic
 MAN	MAN	136	7	Arabic; Balto-Slavic; Dravidian; Hokan; Sinitic; Turkic; Uralic
 HAIR	HAIR	158	6	Arabic; Balto-Slavic; Hokan; Italic; Polynesian; Uralic
-ROAD	ROAD	144	6	Arabic; Balto-Slavic; Dravidian; Hokan; Italic; Uralic
+ROAD	PATH OR ROAD	144	6	Arabic; Balto-Slavic; Dravidian; Hokan; Italic; Uralic
 LIE (REST)	LIE	137	6	Arabic; Balto-Slavic; Dravidian; Hokan; Italic; Sinitic
 DIG	DIG	130	6	Arabic; Balto-Slavic; Polynesian; Sinitic; Turkic; Uralic
 FIVE	FIVE	130	6	Arabic; Balto-Slavic; Polynesian; Sinitic; Turkic; Uralic
@@ -201,7 +201,7 @@ LEG	LEG	67	4	Arabic; Balto-Slavic; Sinitic; Uralic
 RUB	RUB	66	4	Arabic; Balto-Slavic; Sinitic; Uralic
 FLESH OR MEAT	MEAT	104	3	Italic; Polynesian; Uralic
 BURN (SOMETHING)	BURN	81	3	Balto-Slavic; Hokan; Italic
-LIE DOWN	LIE DOWN	76	3	Polynesian; Turkic; Uralic
+LIE DOWN	LIE	76	3	Polynesian; Turkic; Uralic
 HAIR (HEAD)	HAIR	69	3	Dravidian; Sinitic; Turkic
 ABOVE	ABOVE	68	3	Balto-Slavic; Polynesian; Turkic
 GROW	GROW	68	3	Balto-Slavic; Polynesian; Turkic
@@ -326,7 +326,7 @@ SOME	SOME	31	2	Arabic; Uralic
 TOUCH	TOUCH	31	2	Balto-Slavic; Uralic
 CLEAN	CLEAN	30	2	Balto-Slavic; Uralic
 OLD (AGED)	OLD	30	2	Balto-Slavic; Sinitic
-PATH	PATH	30	2	Balto-Slavic; Sinitic
+PATH	PATH OR ROAD	30	2	Balto-Slavic; Sinitic
 RAINBOW	RAINBOW	30	2	Balto-Slavic; Uralic
 SHAKE	SHAKE	30	2	Balto-Slavic; Uralic
 SISTER	SISTER	30	2	Balto-Slavic; Uralic
@@ -752,7 +752,7 @@ RESULT IN	RESULT IN	11	1	Balto-Slavic
 RICH	RICH	11	1	Balto-Slavic
 RING	RING	11	1	Balto-Slavic
 RIPEN	RIPEN	11	1	Balto-Slavic
-ROCK	ROCK	11	1	Balto-Slavic
+ROCK	STONE	11	1	Balto-Slavic
 ROOF	ROOF	11	1	Balto-Slavic
 ROOSTER	ROOSTER	11	1	Balto-Slavic
 ROUGH	ROUGH	11	1	Uralic
