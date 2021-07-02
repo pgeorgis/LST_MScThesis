@@ -196,6 +196,7 @@ def fix_tr(word, lang):
 #%%
 turkic_data = defaultdict(lambda:{})
 index = 0
+missing_glosses = []
 for row in range(3, 915): #word entries go from lines 3-914 in Excel dataset
     go_back = 0
     while glosses[row-3-go_back] == None:
@@ -205,7 +206,8 @@ for row in range(3, 915): #word entries go from lines 3-914 in Excel dataset
     gloss = glosses[row-3-go_back]
     concepticon_gloss = concepticon_conversion[gloss]
     if type(concepticon_gloss) == float: #nan (N/A)
-        concepticon_gloss = ''
+        concepticon_gloss = gloss.upper()
+        missing_glosses.append(gloss)
     parameter_ID = concepticon_gloss
     
     #Create cognate ID for row

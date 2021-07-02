@@ -71,6 +71,7 @@ for key, value in [('all', 'ALL'),
                    ('man', 'MALE PERSON'),
                    ('meat', 'FLESH OR MEAT'),
                    ('moon', 'MOON'),
+                   ('rain', 'RAIN (PRECIPITATION)'), #noun form
                    ('road', 'ROAD'),
                    ('round', 'ROUND'),
                    ('skin', 'SKIN (HUMAN)'),

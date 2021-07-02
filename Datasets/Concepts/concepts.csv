@@ -234,7 +234,7 @@ FLOAT	FLOAT	45	3	Arabic; Sinitic; Uralic
 WIPE	WIPE	45	3	Arabic; Balto-Slavic; Uralic
 MALE PERSON	MAN	89	2	Italic; Polynesian
 SKIN (HUMAN)	SKIN	73	2	Arabic; Italic
-RAIN (RAINING)	RAIN	69	2	Balto-Slavic; Italic
+RAIN (RAINING)	RAINING	69	2	Balto-Slavic; Italic
 FOOT OR LEG	FOOT	62	2	Polynesian; Turkic
 CHEW	CHEW	56	2	Polynesian; Turkic
 HE OR SHE	3SG	46	2	Polynesian; Uralic
@@ -351,7 +351,7 @@ ARRIVE	ARRIVE	24	2	Balto-Slavic; Uralic
 FIFTY	FIFTY	24	2	Balto-Slavic; Polynesian
 PICK UP	PICK UP	22	2	Balto-Slavic; Uralic
 THIN (OF LEAF AND CLOTH)	THIN	21	2	Hokan; Sinitic
-THIN (OF SHAPE OF OBJECT)	THIN (OF SHAPE OF OBJECT)	19	2	Balto-Slavic; Hokan
+THIN (OF SHAPE OF OBJECT)	THIN	19	2	Balto-Slavic; Hokan
 COLD (OF WEATHER)	COLD	58	1	Italic
 WARM (OF WEATHER)	WARM	58	1	Italic
 BE DEAD OR DIE	DIE	31	1	Polynesian
