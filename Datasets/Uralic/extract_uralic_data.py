@@ -211,6 +211,7 @@ def transcribe_voro(word):
     #Based on: https://www.omniglot.com/writing/voro.htm
     #https://en.wikipedia.org/wiki/V%C3%B5ro_language#Orthography
     #https://www.thefreelibrary.com/Grade+alternation+in+Voro+South+Estonian.-a0243043467
+    https://eurphon.info/languages/html?lang_id=285
     """
     voro_ipa_dict = {'a':'ɑ',
                 'b':'p',
