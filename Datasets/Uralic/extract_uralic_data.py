@@ -668,7 +668,7 @@ def write_data(data_dict, output_file, sep='\t'):
         f.write(f'{header}\n')
         for i in data_dict:
             try:
-                values = sep.join([data_dict[i][feature] for feature in features])
+                values = sep.join([str(data_dict[i][feature]) for feature in features])
             except TypeError:
                 print(i, data_dict[i])
             f.write(f'{values}\n')
