@@ -120,16 +120,21 @@ class Dataset:
                 f.write(sep.join(forms))
                 f.write('\n')
     
-    def calculate_mutual_coverage(self):
+    def calculate_mutual_coverage(self, concept_list=None):
+        """Calculate the mutual coverage and average mutual coverage (AMC)
+        of the dataset on a particular wordlist"""
+        
+        #By default use the entire vocabulary if no specific concept list is given
+        if concept_list == None:
+            concept_list = self.concepts
+        
         #Calculate mutual coverage
-        concept_counts = defaultdict(lambda:0)
-        for lang in self.languages:
-            lang = self.languages[lang]
-            for concept in lang.vocabulary:
-                concept_counts[concept] += 1
-        common_concepts = [concept for concept in concept_counts
+        concept_counts = {concept:len([lang for lang in self.languages 
+                                       if concept in self.languages[lang].vocabulary]) 
+                          for concept in concept_list}
+        shared_concepts = [concept for concept in concept_counts
                            if concept_counts[concept] == len(self.languages)]
-        mutual_coverage = len(common_concepts)
+        mutual_coverage = len(shared_concepts)
         
         #Calculate average mutual coverage
         mutual_coverages = {}
@@ -144,7 +149,35 @@ class Dataset:
         
         return mutual_coverage, avg_mutual_coverage
                     
-                
+    def prune_languages(self, min_amc=0.8, concept_list=None):
+        """Prunes the language with the smallest number of transcribed words
+        until the dataset's AMC score reaches the minimum value"""
+        
+        #By default use the entire vocabulary if no specific concept list is given
+        if concept_list == None:
+            concept_list = self.concepts
+        
+        pruned = []
+        start_n_langs = len(self.languages)
+        original_amc = self.calculate_mutual_coverage(concept_list)[1]
+        while self.calculate_mutual_coverage(concept_list)[1] < min_amc:
+            smallest_lang = min(self.languages.keys(), 
+                                key=lambda x: len(self.languages[x].vocabulary))
+            pruned.append((smallest_lang, len(self.languages[smallest_lang].vocabulary)))
+            del self.languages[smallest_lang]
+        
+        self.mutual_coverage = self.calculate_mutual_coverage(concept_list)
+        
+        if len(pruned) > 0:
+            print(f'\tPruned {len(pruned)} of {start_n_langs} {self.name} languages:')
+            for item in pruned:
+                lang, vocab_size = item
+                if vocab_size == 1:
+                    print(f'\t\t{lang} ({vocab_size} concept)')
+                else:
+                    print(f'\t\t{lang} ({vocab_size} concepts)')
+            print(f'\tAMC increased from {round(original_amc, 2)} to {round(self.mutual_coverage[1], 2)}.')
+        
             
             
 
@@ -265,13 +298,11 @@ for family in ['Arabic', 'Balto-Slavic', 'Dravidian',
     filepath = datasets_path + family + f'/{family_path}_data.csv'
     print(f'Loading {family}...')
     families[family] = Dataset(filepath, family)
+    families[family].prune_languages(min_amc=0.75)
     families[family].write_vocab_index()
     globals().update(families[family].languages)
 globals().update(families)
 
-#Exclude Võro, since it only has 1 word available, then recalculate mutual coverage
-del Uralic.languages['Võro']
-Uralic.mutual_coverage = Uralic.calculate_mutual_coverage()
 
 #Get lists and counts of languages/families
 all_languages = [families[family].languages[lang] for family in families 
