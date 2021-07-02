@@ -1,29 +1,29 @@
 UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_Form	LevenshteinDist	Accepted?
 9309	Karelian	muurahaine	muurahaine	muːrɑhɑini	muurahaini	muːrɑhɑini	0.1	x
-7868	Karelian	ukonkoari	ukonkoari	ʊkɔŋkʊɑri	ukonkuari	ʊkɔŋkʊɑri	0.1111111111111111	x
-10077	Karelian	kuvahaine	kuvahaine	kʊvɑhɑini	kuvahaini	kʊvɑhɑini	0.1111111111111111	x
-483	Karelian	henkitteä	henkitteä	hɛŋkitːyæ	henkittyä	hɛŋkitːyæ	0.1111111111111111	x
-5444	Karelian	hämehikki	hämehikki	hæmæhikːi	hämähikki	hæmæhikːi	0.1111111111111111	x
-7834	Karelian	ukonkoari	ukonkoari	ʊkɔŋkʊɑri	ukonkuari	ʊkɔŋkʊɑri	0.1111111111111111	x
+7868	Karelian	ukonkoari	ukonkoari	ʊkɔŋkʊɑri	ukonkuari	ʊkɔŋkʊɑri	0.111111111	x
+10077	Karelian	kuvahaine	kuvahaine	kʊvɑhɑini	kuvahaini	kʊvɑhɑini	0.111111111	x
+483	Karelian	henkitteä	henkitteä	hɛŋkitːyæ	henkittyä	hɛŋkitːyæ	0.111111111	x
+5444	Karelian	hämehikki	hämehikki	hæmæhikːi	hämähikki	hæmæhikːi	0.111111111	x
+7834	Karelian	ukonkoari	ukonkoari	ʊkɔŋkʊɑri	ukonkuari	ʊkɔŋkʊɑri	0.111111111	x
 257	Karelian	šiivatta	šiivatta	siːvɑtːɑ	siivatta	siːvɑtːɑ	0.125	x
 7623	Karelian	vihelteä	vihelteä	vihɛltyæ	viheltyä	vihɛltyæ	0.125	x
-6377	Karelian	puistoa	puistoa	pʊistʊɑ	puistua	pʊistʊɑ	0.1428571428571428	x
-2973	Karelian	keärmis	keärmis	kiærmis	kiärmis	kiærmis	0.1428571428571428	x
-6100	Karelian	opastoa	opastoa	ɔpɑstʊɑ	opastua	ɔpɑstʊɑ	0.1428571428571428	x
-3540	Karelian	viskata	viskata	visɑtɑ	visata	visɑtɑ	0.1428571428571428	x
-3402	Karelian	tuolla	tuolla	tʊɔlɑ	tuola	tʊɔlɑ	0.1666666666666667	x
-9445	Karelian	syyvä	syyvä	syyvvæ	syyvvä	syyvvæ	0.1666666666666667	x
-2781	Karelian	lauloa	lauloa	lɑʊlʊɑ	laulua	lɑʊlʊɑ	0.1666666666666667	x
-1813	Karelian	tappoa	tappoa	tɑpːʊɑ	tappua	tɑpːʊɑ	0.1666666666666667	x
-1379	Karelian	jeätyö	jeätyö	jiætyœ	jiätyö	jiætyœ	0.1666666666666667	x
-9282	Karelian	kantoa	kantoa	kɑntʊɑ	kantua	kɑntʊɑ	0.1666666666666667	x
-8997	Karelian	nakroa	nakroa	nɑkrʊɑ	nakrua	nɑkrʊɑ	0.1666666666666667	x
-8100	Karelian	lyyvä	lyyvä	lyyvvæ	lyyvvä	lyyvvæ	0.1666666666666667	x
-783	Karelian	kaivoa	kaivoa	kɑivʊɑ	kaivua	kɑivʊɑ	0.1666666666666667	x
-8386	Karelian	juuva	juuva	juːvvɑ	juuvva	juːvvɑ	0.1666666666666667	x
-4255	Karelian	nostoa	nostoa	nɔstʊɑ	nostua	nɔstʊɑ	0.1666666666666667	x
-964	Karelian	toatto	toatto	tʊɑtːɔ	tuatto	tʊɑtːɔ	0.1666666666666667	x
-1715	Karelian	miten	miten	mitɛin	mitein	mitɛin	0.1666666666666667	x
+6377	Karelian	puistoa	puistoa	pʊistʊɑ	puistua	pʊistʊɑ	0.142857143	x
+2973	Karelian	keärmis	keärmis	kiærmis	kiärmis	kiærmis	0.142857143	x
+6100	Karelian	opastoa	opastoa	ɔpɑstʊɑ	opastua	ɔpɑstʊɑ	0.142857143	x
+3540	Karelian	viskata	viskata	visɑtɑ	visata	visɑtɑ	0.142857143	x
+3402	Karelian	tuolla	tuolla	tʊɔlɑ	tuola	tʊɔlɑ	0.166666667	x
+9445	Karelian	syyvä	syyvä	syyvvæ	syyvvä	syyvvæ	0.166666667	x
+2781	Karelian	lauloa	lauloa	lɑʊlʊɑ	laulua	lɑʊlʊɑ	0.166666667	x
+1813	Karelian	tappoa	tappoa	tɑpːʊɑ	tappua	tɑpːʊɑ	0.166666667	x
+1379	Karelian	jeätyö	jeätyö	jiætyœ	jiätyö	jiætyœ	0.166666667	x
+9282	Karelian	kantoa	kantoa	kɑntʊɑ	kantua	kɑntʊɑ	0.166666667	x
+8997	Karelian	nakroa	nakroa	nɑkrʊɑ	nakrua	nɑkrʊɑ	0.166666667	x
+8100	Karelian	lyyvä	lyyvä	lyyvvæ	lyyvvä	lyyvvæ	0.166666667	x
+783	Karelian	kaivoa	kaivoa	kɑivʊɑ	kaivua	kɑivʊɑ	0.166666667	x
+8386	Karelian	juuva	juuva	juːvvɑ	juuvva	juːvvɑ	0.166666667	x
+4255	Karelian	nostoa	nostoa	nɔstʊɑ	nostua	nɔstʊɑ	0.166666667	x
+964	Karelian	toatto	toatto	tʊɑtːɔ	tuatto	tʊɑtːɔ	0.166666667	x
+1715	Karelian	miten	miten	mitɛin	mitein	mitɛin	0.166666667	x
 7561	Karelian	jakoa	jakoa	jɑkʊɑ	jakua	jɑkʊɑ	0.2	x
 4048	Karelian	naine	naine	nɑini	naini	nɑini	0.2	x
 2872	Karelian	moata	moata	mʊɑtɑ	muata	mʊɑtɑ	0.2	x
@@ -35,35 +35,35 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 9374	Karelian	ottoa	ottoa	ɔtːʊɑ	ottua	ɔtːʊɑ	0.2	x
 2186	Karelian	toine	toine	tɔini	toini	tɔini	0.2	x
 4198	Karelian	keltaine	keltaine	kɛltɑni	keltani	kɛltɑni	0.25	x
-7742	Karelian	likaine	likaine	likɑni	likani	likɑni	0.2857142857142857	x
-1103	Karelian	torata	torata	tɔrɑ	tora	tɔrɑ	0.3333333333333333	x
-6907	Karelian	jeä	jeä	jiæ	jiä	jiæ	0.3333333333333333	x
-1575	Karelian	peä	peä	piæ	piä	piæ	0.3333333333333333	x
-1646	Karelian	teällä	teällä	tiælæ	tiälä	tiælæ	0.3333333333333333	x
+7742	Karelian	likaine	likaine	likɑni	likani	likɑni	0.285714286	x
+1103	Karelian	torata	torata	tɔrɑ	tora	tɔrɑ	0.333333333	x
+6907	Karelian	jeä	jeä	jiæ	jiä	jiæ	0.333333333	x
+1575	Karelian	peä	peä	piæ	piä	piæ	0.333333333	x
+1646	Karelian	teällä	teällä	tiælæ	tiälä	tiælæ	0.333333333	x
 4505	Karelian	kantapeä	kantapeä	kɑntɑ	kanta	kɑntɑ	0.375	x
 2084	Karelian	vuori	vuori	vʊɑrɑ	vuara	vʊɑrɑ	0.4	x
 4816	Karelian	etähänä	etähänä	ɛtæhælːini	etähällini	ɛtæhælːini	0.4	x
 4081	Karelian	mettšä	mettšä	mɛʧːæ	meččä	mɛt͡ʃːæ	0.5	x
-4417	Karelian	kymmen ~ kymmenen	kymmen ~ kymmenen	kymːɛnɛn	kymmenen	kymːɛnɛn	0.5294117647058824	x
-5198	Karelian	imehnine ~ inehmine	imehnine ~ inehmine	imɛxnini	imehnini	imɛxnini	0.5789473684210527	x
-10213	Karelian	teähti ~ tähti	teähti ~ tähti	tæxti	tähti	tæxti	0.6428571428571429	x
-4875	Karelian	repo ~ repoi	repo ~ repoi	rɛpɔ	repo	rɛpɔ	0.6666666666666666	x
-4757	Karelian	koarna	koarna	kʊɔri	kuori	kʊɔri	0.6666666666666666	x
-5930	Karelian	talo ~ taloi	talo ~ taloi	tɑlɔ	talo	tɑlɔ	0.6666666666666666	x
-5198	Karelian	imehnine ~ inehmine	imehnine ~ inehmine	ixmini	ihmini	ixmini	0.7368421052631579	x
+4417	Karelian	kymmen ~ kymmenen	kymmen ~ kymmenen	kymːɛnɛn	kymmenen	kymːɛnɛn	0.529411765	x
+5198	Karelian	imehnine ~ inehmine	imehnine ~ inehmine	imɛxnini	imehnini	imɛxnini	0.578947368	x
+10213	Karelian	teähti ~ tähti	teähti ~ tähti	tæxti	tähti	tæxti	0.642857143	x
+4875	Karelian	repo ~ repoi	repo ~ repoi	rɛpɔ	repo	rɛpɔ	0.666666667	x
+4757	Karelian	koarna	koarna	kʊɔri	kuori	kʊɔri	0.666666667	x
+5930	Karelian	talo ~ taloi	talo ~ taloi	tɑlɔ	talo	tɑlɔ	0.666666667	x
+5198	Karelian	imehnine ~ inehmine	imehnine ~ inehmine	ixmini	ihmini	ixmini	0.736842105	x
 192	Karelian	ta ~ tai	ta ~ tai	tɑ	ta	tɑ	0.75	x
-6975	Karelian	mettšuija	metšätteä	mɛʧæstyæ	mečästyä	mɛt͡ʃæstyæ	0.7777777777777778	x
-8615	Karelian	mi ~ mikä	mi ~ mikä	mi	mi	mi	0.7777777777777778	x
-6976	Karelian	mettšuija	metšätteä	mɛʧæstyæ	mečästyä	mɛt͡ʃæstyæ	0.7777777777777778	x
+6975	Karelian	mettšuija	metšätteä	mɛʧæstyæ	mečästyä	mɛt͡ʃæstyæ	0.777777778	x
+8615	Karelian	mi ~ mikä	mi ~ mikä	mi	mi	mi	0.777777778	x
+6976	Karelian	mettšuija	metšätteä	mɛʧæstyæ	mečästyä	mɛt͡ʃæstyæ	0.777777778	x
 7084	Karelian	tylttšä ~ tšylttšä	tylttšä ~ tšylttšä	tylʧːæ	tylččä	tylt͡ʃːæ	0.8	x
 9315	Livonian	siprikki	siprikki	sipriki	sipriki	sipriki	0.125	x
-4881	Livonian	reʾbbi	reʾbbi	rɛˀbːi	re’bbi	rɛˀbːi	0.1666666666666667	x
-4178	Livonian	àigast	àigast	ɑːiɡɑst	āigast	ɑːiɡɑst	0.1666666666666667	x
-4510	Livonian	kùonda	kùonda	kuːondɑ	kūonda	kuːondɑ	0.1666666666666667	x
-10125	Livonian	pišški	pišški	piʃki	piški	piʃki	0.1666666666666667	x
-7068	Livonian	neìtst	neìtst	nɛitst	neitst	nɛitst	0.1666666666666667	x
-3514	Livonian	ku̯olm	ku̯olm	kuolm	kuolm	kuolm	0.1666666666666667	x
-9092	Livonian	puʾnni	puʾnni	punːi	punni	punːi	0.1666666666666667	x
+4881	Livonian	reʾbbi	reʾbbi	rɛˀbːi	re’bbi	rɛˀbːi	0.166666667	x
+4178	Livonian	àigast	àigast	ɑːiɡɑst	āigast	ɑːiɡɑst	0.166666667	x
+4510	Livonian	kùonda	kùonda	kuːondɑ	kūonda	kuːondɑ	0.166666667	x
+10125	Livonian	pišški	pišški	piʃki	piški	piʃki	0.166666667	x
+7068	Livonian	neìtst	neìtst	nɛitst	neitst	nɛitst	0.166666667	x
+3514	Livonian	ku̯olm	ku̯olm	kuolm	kuolm	kuolm	0.166666667	x
+9092	Livonian	puʾnni	puʾnni	punːi	punni	punːi	0.166666667	x
 9542	Livonian	pitkà	pitkà	pitkɑː	pitkā	pitkɑː	0.2	x
 10149	Livonian	laigà	laigà	lɑiɡɑː	laigā	lɑiɡɑː	0.2	x
 2657	Livonian	tībəz	tībəz	tiːbɨz	tībõz	tiːbɨz	0.2	x
@@ -76,7 +76,7 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 4450	Livonian	kùora	kùora	kuːorɑ	kūora	kuːorɑ	0.2	x
 393	Livonian	vats	vats	vɑtsɑː	vatsā	vɑtsɑː	0.2	x
 2787	Livonian	loùlə	loùlə	loulə	loulõ	loulə	0.2	x
-2504	Livonian	immər-goùtlimi	immər-goùtlimi	imːɨrɡoutlimi	immõrgoutlimi	imːɨrɡoutlimi	0.2142857142857143	x
+2504	Livonian	immər-goùtlimi	immər-goùtlimi	imːɨrɡoutlimi	immõrgoutlimi	imːɨrɡoutlimi	0.214285714	x
 2090	Livonian	mäʾg	mäʾg	mæɡ	mäg	mæɡ	0.25	x
 7212	Livonian	līt	līt	liːti	līti	liːti	0.25	x
 3415	Livonian	sǟʾl	sǟʾl	sæːˀl	sǟ’l	sæːˀl	0.25	x
@@ -95,37 +95,37 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 1426	Livonian	täùž	täùž	tæuʒ	täuž	tæuʒ	0.25	x
 5409	Livonian	pigà	pigà	piɡɑː	pigā	piɡɑː	0.25	x
 7504	Livonian	kemm	kemm	kɛm	kem	kɛm	0.25	x
-5209	Livonian	rištìŋg	rištìŋg	riʃtiːŋɡ	rištīng	riʃtiːŋɡ	0.2857142857142857	x
-5418	Livonian	pakkànd	pakkànd	pɑkɑːnd	pakānd	pɑkɑːnd	0.2857142857142857	x
-8501	Livonian	jammstə	jammstə	jɑmstə	jamstõ	jɑmstə	0.2857142857142857	x
-5207	Livonian	rištìŋg	rištìŋg	riʃtiːŋɡ	rištīng	riʃtiːŋɡ	0.2857142857142857	x
-657	Livonian	luʾggə	luʾggə	luˀɡːə	lu’ggõ	luˀɡːə	0.3333333333333333	x
-3996	Livonian	pūʾstə	pūʾstə	puːˀstə	pū’stõ	puːˀstə	0.3333333333333333	x
-1733	Livonian	ku	ku(i)	kui	kui	kui	0.3333333333333333	x
-1323	Livonian	uʾd	uʾd	uˀd	u’d	uˀd	0.3333333333333333	x
-9750	Livonian	tūʾgəd	tūʾgəd	tuːˀɡɨd	tū’gõd	tuːˀɡɨd	0.3333333333333333	x
-7568	Livonian	jaʾggə	jaʾggə	jɑˀɡːə	ja’ggõ	jɑˀɡːə	0.3333333333333333	x
-241	Livonian	lùoməz	lùoməz	luːomɨz	lūomõz	luːomɨz	0.3333333333333333	x
-8392	Livonian	jùodə	jùodə	juːodə	jūodõ	juːodə	0.3333333333333333	x
-752	Livonian	kùolə	kùolə	kuːolə	kūolõ	kuːolə	0.3333333333333333	x
-1228	Livonian	jùokšə	jùokšə	juːokʃə	jūokšõ	juːokʃə	0.3333333333333333	x
-6450	Livonian	pūʾdəz	pūʾdəz	puːˀdɨz	pū’dõz	puːˀdɨz	0.3333333333333333	x
-9868	Livonian	siʾddə	siʾddə	siˀdːə	si’ddõ	siˀdːə	0.3333333333333333	x
-6999	Livonian	jaktʹə	jaktʹə	jɑktə	jaktõ	jɑktə	0.3333333333333333	x
-6541	Livonian	kaʾddə	kaʾddə	kɑdːə	kaddõ	kɑdːə	0.3333333333333333	x
-5579	Livonian	naì	naì	nɑi	nai	nɑi	0.3333333333333333	x
-7785	Livonian	ibùks	ibùks	ibuːkst	ibūkst	ibuːkst	0.3333333333333333	x
-2752	Livonian	vaʾimə	vaʾimə	vɑˀimi	va’imi	vɑˀimi	0.3333333333333333	x
-9689	Livonian	jùokšə	jùokšə	juːokʃə	jūokšõ	juːokʃə	0.3333333333333333	x
-1680	Livonian	piʾddə	piʾddə	piˀdːə	pi’ddõ	piˀdːə	0.3333333333333333	x
-311	Livonian	slikt	slikt	slikcːə	slikțõ	slikcːə	0.3333333333333333	x
-959	Livonian	izà	izà	izɑː	izā	izɑː	0.3333333333333333	x
-9004	Livonian	naʾgrə	naʾgrə	nɑˀɡrə	na’grõ	nɑˀɡrə	0.3333333333333333	x
-1913	Livonian	teì	teì	tɛi	tei	tɛi	0.3333333333333333	x
-4054	Livonian	naì	naì	nɑi	nai	nɑi	0.3333333333333333	x
-8869	Livonian	äʾb	äʾb	æˀb	ä’b	æˀb	0.3333333333333333	x
-9481	Livonian	jaʾmdə	jaʾmdə	jɑˀmdi	ja’mdi	jɑˀmdi	0.3333333333333333	x
-9931	Livonian	nǣʾdə	nǣʾdə	næːdə	nǟdõ	næːdə	0.3333333333333333	x
+5209	Livonian	rištìŋg	rištìŋg	riʃtiːŋɡ	rištīng	riʃtiːŋɡ	0.285714286	x
+5418	Livonian	pakkànd	pakkànd	pɑkɑːnd	pakānd	pɑkɑːnd	0.285714286	x
+8501	Livonian	jammstə	jammstə	jɑmstə	jamstõ	jɑmstə	0.285714286	x
+5207	Livonian	rištìŋg	rištìŋg	riʃtiːŋɡ	rištīng	riʃtiːŋɡ	0.285714286	x
+657	Livonian	luʾggə	luʾggə	luˀɡːə	lu’ggõ	luˀɡːə	0.333333333	x
+3996	Livonian	pūʾstə	pūʾstə	puːˀstə	pū’stõ	puːˀstə	0.333333333	x
+1733	Livonian	ku	ku(i)	kui	kui	kui	0.333333333	x
+1323	Livonian	uʾd	uʾd	uˀd	u’d	uˀd	0.333333333	x
+9750	Livonian	tūʾgəd	tūʾgəd	tuːˀɡɨd	tū’gõd	tuːˀɡɨd	0.333333333	x
+7568	Livonian	jaʾggə	jaʾggə	jɑˀɡːə	ja’ggõ	jɑˀɡːə	0.333333333	x
+241	Livonian	lùoməz	lùoməz	luːomɨz	lūomõz	luːomɨz	0.333333333	x
+8392	Livonian	jùodə	jùodə	juːodə	jūodõ	juːodə	0.333333333	x
+752	Livonian	kùolə	kùolə	kuːolə	kūolõ	kuːolə	0.333333333	x
+1228	Livonian	jùokšə	jùokšə	juːokʃə	jūokšõ	juːokʃə	0.333333333	x
+6450	Livonian	pūʾdəz	pūʾdəz	puːˀdɨz	pū’dõz	puːˀdɨz	0.333333333	x
+9868	Livonian	siʾddə	siʾddə	siˀdːə	si’ddõ	siˀdːə	0.333333333	x
+6999	Livonian	jaktʹə	jaktʹə	jɑktə	jaktõ	jɑktə	0.333333333	x
+6541	Livonian	kaʾddə	kaʾddə	kɑdːə	kaddõ	kɑdːə	0.333333333	x
+5579	Livonian	naì	naì	nɑi	nai	nɑi	0.333333333	x
+7785	Livonian	ibùks	ibùks	ibuːkst	ibūkst	ibuːkst	0.333333333	x
+2752	Livonian	vaʾimə	vaʾimə	vɑˀimi	va’imi	vɑˀimi	0.333333333	x
+9689	Livonian	jùokšə	jùokšə	juːokʃə	jūokšõ	juːokʃə	0.333333333	x
+1680	Livonian	piʾddə	piʾddə	piˀdːə	pi’ddõ	piˀdːə	0.333333333	x
+311	Livonian	slikt	slikt	slikcːə	slikțõ	slikcːə	0.333333333	x
+959	Livonian	izà	izà	izɑː	izā	izɑː	0.333333333	x
+9004	Livonian	naʾgrə	naʾgrə	nɑˀɡrə	na’grõ	nɑˀɡrə	0.333333333	x
+1913	Livonian	teì	teì	tɛi	tei	tɛi	0.333333333	x
+4054	Livonian	naì	naì	nɑi	nai	nɑi	0.333333333	x
+8869	Livonian	äʾb	äʾb	æˀb	ä’b	æˀb	0.333333333	x
+9481	Livonian	jaʾmdə	jaʾmdə	jɑˀmdi	ja’mdi	jɑˀmdi	0.333333333	x
+9931	Livonian	nǣʾdə	nǣʾdə	næːdə	nǟdõ	næːdə	0.333333333	x
 3809	Livonian	pi̯eʾzzə	pi̯eʾzzə	piɛˀzːə	pie’zzõ	piɛˀzːə	0.375	x
 7626	Livonian	svillppə	svillppə	sviʎpə	sviļpõ	sviʎpə	0.375	x
 1494	Livonian	me̮lltsi	me̮lltsi	mɨltsi	mõltsi	mɨltsi	0.375	x
@@ -145,10 +145,10 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 5938	Livonian	kwodà	kwodà	kuodɑː	kuodā	kuodɑː	0.4	x
 1261	Livonian	putʹk	putʹk(əz)	pusk	pusk	pusk	0.4	x
 5110	Livonian	pūttə	pūttə	puːtə	pūtõ	puːtə	0.4	x
-7331	Livonian	sūr-veʾlʹkki	sūr-veʾlʹkki	suːrvɛˀʎki	sūrve’ļki	suːrvɛˀʎki	0.4166666666666667	x
-6105	Livonian	oppàttə	oppàttə	opɑːtə	opātõ	opɑːtə	0.4285714285714285	x
-7086	Livonian	tē̮lza	tē̮l(d)za	tɨːlzɑ	tȭlza	tɨːlzɑ	0.4285714285714285	x
-6652	Livonian	kiʾbdʹi	kiʾbdʹi	kiˀbɟi	ki’bḑi	kiˀbɟi	0.4285714285714285	x
+7331	Livonian	sūr-veʾlʹkki	sūr-veʾlʹkki	suːrvɛˀʎki	sūrve’ļki	suːrvɛˀʎki	0.416666667	x
+6105	Livonian	oppàttə	oppàttə	opɑːtə	opātõ	opɑːtə	0.428571429	x
+7086	Livonian	tē̮lza	tē̮l(d)za	tɨːlzɑ	tȭlza	tɨːlzɑ	0.428571429	x
+6652	Livonian	kiʾbdʹi	kiʾbdʹi	kiˀbɟi	ki’bḑi	kiˀbɟi	0.428571429	x
 4764	Livonian	kùoŕ	kùoŕ	kuːorʲ	kūoŗ	kuːorʲ	0.5	x
 8892	Livonian	kēlʹ	kēlʹ	kɛːʎ	kēļ	kɛːʎ	0.5	x
 6913	Livonian	jeì	jeì	jɛij	jeij	jɛij	0.5	x
@@ -166,8 +166,8 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 436	Livonian	mɔ̄ŕa	mɔ̄ŕa	mɔːrʲɑ	mǭŗa	mɔːrʲɑ	0.5	x
 887	Livonian	pe̮rrm	pe̮rrm	pɨrm	põrm	pɨrm	0.5	x
 9788	Livonian	piʾń	piʾń	piɲ	piņ	piɲ	0.5	x
-2694	Livonian	sìemt	sìemt	siːɛmɡɨz	sīemgõz	siːɛmɡɨz	0.5714285714285714	x
-1261	Livonian	putʹk	putʹk(əz)	pucːkɨz	puțkõz	pucːkɨz	0.5714285714285714	x
+2694	Livonian	sìemt	sìemt	siːɛmɡɨz	sīemgõz	siːɛmɡɨz	0.571428571	x
+1261	Livonian	putʹk	putʹk(əz)	pucːkɨz	puțkõz	pucːkɨz	0.571428571	x
 6420	Livonian	uòməg	uòməg	uːomɨɡ	ūomõg	uːomɨɡ	0.6	x
 3307	Livonian	voìgə	voìgə	vʊiɡə	vȯigõ	vʊiɡə	0.6	x
 4733	Livonian	se̮nà	se̮nà	sɨnɑː	sõnā	sɨnɑː	0.6	x
@@ -177,87 +177,87 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 10219	Livonian	tēʾdʹ	tēʾdʹ	tɛːɟ	tēḑ	tɛːɟ	0.6	x
 16	Livonian	tuʾlʹ	tuʾlʹ	tuˀʎ	tu’ļ	tuˀʎ	0.6	x
 1883	Livonian	lēʾdʹ	lēʾdʹ	lɛːɟ	lēḑ	lɛːɟ	0.6	x
-620	Livonian	kīlma ~ kǖlma	kīlma ~ kǖlma	kiːlmɑ	kīlma	kiːlmɑ	0.6153846153846154	x
-7752	Livonian	reppi ~ räppi	reppi ~ räppi	ræpːi	räppi	ræpːi	0.6153846153846154	x
-1262	Livonian	pusk ~ pušk	pusk ~ pušk	pusk	pusk	pusk	0.6363636363636364	x
-6511	Livonian	kurrli ~ kūrli	kurrli ~ kūrli	kurli	kurli	kurli	0.6428571428571429	x
-6657	Livonian	kɔ̄raz	kɔ̄raz	kɑrːi	karri	kɑrːi	0.6666666666666666	x
-3842	Livonian	meg ~ mēg	meg ~ mēg	mɛːɡ	mēg	mɛːɡ	0.6666666666666666	x
-8012	Livonian	ikš ~ ükš	ikš ~ ükš	ikʃ	ikš	ikʃ	0.6666666666666666	x
-1396	Livonian	killmə ~ küllmə	killmə ~ küllmə	kilmə	kilmõ	kilmə	0.6666666666666666	x
-4423	Livonian	kim ~ küm	kim ~ küm	kim	kim	kim	0.6666666666666666	x
-8947	Livonian	je̮ùgə	je̮ùgə	jɨuɡə	jõugõ	jɨuɡə	0.6666666666666666	x
-9196	Livonian	nɔ̄ʾgə	nɔ̄ʾgə(z)	noːɡə	nōgõ	noːɡə	0.6666666666666666	x
-1493	Livonian	ɔ̄lʹaz	ɔ̄lʹaz	oːʎɑz	ōļaz	oːʎɑz	0.6666666666666666	x
-1611	Livonian	sidàm ~ südàm	sidàm ~ südàm	sidɑːm	sidām	sidɑːm	0.6923076923076923	x
-8357	Livonian	muštà ~ mustà	muštà ~ mustà	mustɑː	mustā	mustɑː	0.6923076923076923	x
-2340	Livonian	likkə ~ lükkə	likkə ~ lükkə	likːə	likkõ	likːə	0.6923076923076923	x
+620	Livonian	kīlma ~ kǖlma	kīlma ~ kǖlma	kiːlmɑ	kīlma	kiːlmɑ	0.615384615	x
+7752	Livonian	reppi ~ räppi	reppi ~ räppi	ræpːi	räppi	ræpːi	0.615384615	x
+1262	Livonian	pusk ~ pušk	pusk ~ pušk	pusk	pusk	pusk	0.636363636	x
+6511	Livonian	kurrli ~ kūrli	kurrli ~ kūrli	kurli	kurli	kurli	0.642857143	x
+6657	Livonian	kɔ̄raz	kɔ̄raz	kɑrːi	karri	kɑrːi	0.666666667	x
+3842	Livonian	meg ~ mēg	meg ~ mēg	mɛːɡ	mēg	mɛːɡ	0.666666667	x
+8012	Livonian	ikš ~ ükš	ikš ~ ükš	ikʃ	ikš	ikʃ	0.666666667	x
+1396	Livonian	killmə ~ küllmə	killmə ~ küllmə	kilmə	kilmõ	kilmə	0.666666667	x
+4423	Livonian	kim ~ küm	kim ~ küm	kim	kim	kim	0.666666667	x
+8947	Livonian	je̮ùgə	je̮ùgə	jɨuɡə	jõugõ	jɨuɡə	0.666666667	x
+9196	Livonian	nɔ̄ʾgə	nɔ̄ʾgə(z)	noːɡə	nōgõ	noːɡə	0.666666667	x
+1493	Livonian	ɔ̄lʹaz	ɔ̄lʹaz	oːʎɑz	ōļaz	oːʎɑz	0.666666667	x
+1611	Livonian	sidàm ~ südàm	sidàm ~ südàm	sidɑːm	sidām	sidɑːm	0.692307692	x
+8357	Livonian	muštà ~ mustà	muštà ~ mustà	mustɑː	mustā	mustɑː	0.692307692	x
+2340	Livonian	likkə ~ lükkə	likkə ~ lükkə	likːə	likkõ	likːə	0.692307692	x
 7972	Livonian	sūr ~ sūŕ	sūr ~ sūŕ	suːr	sūr	suːr	0.7	x
-5175	Livonian	kaʾggəl ~ ka’gləz	kaʾggəl ~ ka’gləz	kɑˀɡːɨl	ka’ggõl	kɑˀɡːɨl	0.7058823529411765	x
-7287	Livonian	siʾž ~ süʾž	siʾž ~ süʾž	siˀʒ	si’ž	siˀʒ	0.7272727272727273	x
-6747	Livonian	gillgə ~ güllgə	gillgə ~ güllgə	ɡilɡə	gilgõ	ɡilɡə	0.7333333333333333	x
-4683	Livonian	īʾdəks ~ ǖʾdəks	īʾdəks ~ ǖʾdəks	iːˀdɨks	ī’dõks	iːˀdɨks	0.7333333333333333	x
-2879	Livonian	maʾggə ~ magàtə	maʾggə ~ magàtə	mɑˀɡːə	ma’ggõ	mɑˀɡːə	0.7333333333333333	x
-1396	Livonian	killmə ~ küllmə	killmə ~ küllmə	jɛiɨkilmə	jeiõ kilmõ	jɛiɨ kilmə	0.7333333333333333	x
-7873	Livonian	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	picːkiːzkɔːr	pițkīzkǭr	picːkiːzkɔːr	0.7407407407407407	x
-7838	Livonian	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	picːkiːzkɔːr	pițkīzkǭr	picːkiːzkɔːr	0.7407407407407407	x
+5175	Livonian	kaʾggəl ~ ka’gləz	kaʾggəl ~ ka’gləz	kɑˀɡːɨl	ka’ggõl	kɑˀɡːɨl	0.705882353	x
+7287	Livonian	siʾž ~ süʾž	siʾž ~ süʾž	siˀʒ	si’ž	siˀʒ	0.727272727	x
+6747	Livonian	gillgə ~ güllgə	gillgə ~ güllgə	ɡilɡə	gilgõ	ɡilɡə	0.733333333	x
+4683	Livonian	īʾdəks ~ ǖʾdəks	īʾdəks ~ ǖʾdəks	iːˀdɨks	ī’dõks	iːˀdɨks	0.733333333	x
+2879	Livonian	maʾggə ~ magàtə	maʾggə ~ magàtə	mɑˀɡːə	ma’ggõ	mɑˀɡːə	0.733333333	x
+1396	Livonian	killmə ~ küllmə	killmə ~ küllmə	jɛiɨkilmə	jeiõ kilmõ	jɛiɨ kilmə	0.733333333	x
+7873	Livonian	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	picːkiːzkɔːr	pițkīzkǭr	picːkiːzkɔːr	0.740740741	x
+7838	Livonian	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	picːkiːzkɔːr	pițkīzkǭr	picːkiːzkɔːr	0.740740741	x
 2987	Livonian	ùiska ~ ūśka	ùiska ~ ūśka	uːʃkɑ	ūška	uːʃkɑ	0.75	x
 2054	Livonian	jemà	jemà	æːmɑ	ǟma	æːmɑ	0.75	x
 3861	Livonian	kaʾižʹžʹi ~ kaʾžʹžʹi	kaʾižʹžʹi ~ kaʾžʹžʹi	kɑˀʒːi	ka’žži	kɑˀžːi	0.75	x
 4840	Livonian	kwoŕŕə	kwoŕŕə	krɔːˀjə	krǭ’jõ	krɔːˀjə	0.75	x
 1561	Livonian	ma	ma	minɑː	minā	minɑː	0.75	x
 8295	Livonian	täʾm	täʾm	tɑ	ta	tɑ	0.75	x
-2444	Livonian	joʾug ~ joʾg etc.	joʾug ~ joʾg etc.	joˀuɡ	jo’ug	joˀuɡ	0.7647058823529411	x
-8236	Livonian	veiʾž ~ veʾžʹ	veiʾž ~ veʾžʹ	vɛʒ	vež	vɛʒ	0.7692307692307693	x
-5898	Livonian	irrgə ~ ürrgə	irrgə ~ ürrgə	irɡə	irgõ	irɡə	0.7692307692307693	x
-3377	Livonian	keʾiž ~ keʾžʹ	keʾiž ~ keʾžʹ	kɛˀʒ	ke’ž	kɛˀʒ	0.7692307692307693	x
-563	Livonian	kīntš ~ kǖntš etc.	kīntš ~ kǖntš etc.	kiːɲtʃ	kīņtš	kiːɲtʃ	0.7777777777777778	x
-4240	Livonian	teg ~ tēg etc.	teg ~ tēg etc.	tɛːɡ	tēg	tɛːɡ	0.7857142857142857	x
-6618	Livonian	se̮zàr ~ sizàr	se̮zàr ~ sizàr	sɨzɑːr	sõzār	sɨzɑːr	0.7857142857142857	x
-6389	Livonian	repptʹə ~ röpptʹə	repptʹə ~ röpptʹə	rɛpcːə	repțõ	rɛpcːə	0.8235294117647058	x
-3038	Livonian	luʾm ~ luʾim etc.	luʾm ~ luʾim etc.	lum	lum	lum	0.8235294117647058	x
-4487	Livonian	knoùsəl ~ knoùsəlʹ	knoùsəl ~ knoùsəlʹ	knouʃɨʎ	knoušõļ	knouʃɨʎ	0.8333333333333334	x
-4087	Livonian	me̮tsà ~ mütsà etc.	me̮tsà ~ mütsà etc.	mɨtsɑː	mõtsā	mɨtsɑː	0.8421052631578947	x
+2444	Livonian	joʾug ~ joʾg etc.	joʾug ~ joʾg etc.	joˀuɡ	jo’ug	joˀuɡ	0.764705882	x
+8236	Livonian	veiʾž ~ veʾžʹ	veiʾž ~ veʾžʹ	vɛʒ	vež	vɛʒ	0.769230769	x
+5898	Livonian	irrgə ~ ürrgə	irrgə ~ ürrgə	irɡə	irgõ	irɡə	0.769230769	x
+3377	Livonian	keʾiž ~ keʾžʹ	keʾiž ~ keʾžʹ	kɛˀʒ	ke’ž	kɛˀʒ	0.769230769	x
+563	Livonian	kīntš ~ kǖntš etc.	kīntš ~ kǖntš etc.	kiːɲtʃ	kīņtš	kiːɲtʃ	0.777777778	x
+4240	Livonian	teg ~ tēg etc.	teg ~ tēg etc.	tɛːɡ	tēg	tɛːɡ	0.785714286	x
+6618	Livonian	se̮zàr ~ sizàr	se̮zàr ~ sizàr	sɨzɑːr	sõzār	sɨzɑːr	0.785714286	x
+6389	Livonian	repptʹə ~ röpptʹə	repptʹə ~ röpptʹə	rɛpcːə	repțõ	rɛpcːə	0.823529412	x
+3038	Livonian	luʾm ~ luʾim etc.	luʾm ~ luʾim etc.	lum	lum	lum	0.823529412	x
+4487	Livonian	knoùsəl ~ knoùsəlʹ	knoùsəl ~ knoùsəlʹ	knouʃɨʎ	knoušõļ	knouʃɨʎ	0.833333333	x
+4087	Livonian	me̮tsà ~ mütsà etc.	me̮tsà ~ mütsà etc.	mɨtsɑː	mõtsā	mɨtsɑː	0.842105263	x
 2546	Livonian	ē̮rə ~ īrə etc.	ē̮rə ~ īrə etc.	ɨːrʲə	ȭŗõ	ɨːrʲə	0.875	x
-6787	Livonian	se̮ʾu ~ süʾuv	se̮ʾu ~ süʾuv	sɨˀvːə	sõ’vvõ	sɨˀvːə	0.9230769230769231	x
+6787	Livonian	se̮ʾu ~ süʾuv	se̮ʾu ~ süʾuv	sɨˀvːə	sõ’vvõ	sɨˀvːə	0.923076923	x
 7839	North Saami	arvẹdávgi	arvẹdávgi	ɑrɛveðaːvɡi	arvedávgi	ɑrɛveðaːvɡi	0.1	x
-5828	North Saami	fuoikut	fuoikut	fʊɛjkih	fuoikit	fʊɛjkih	0.1428571428571428	x
-1099	North Saami	doarrut	doarrut	tɔ̯ɑrːʊ	doarru	tɔ̯ɑrːʊ	0.1428571428571428	x
-9936	North Saami	oaidnit	oaidnit	ɔ̯ɑidniːh	oaidnít	ɔ̯ɑidníh	0.1428571428571428	x
-2552	North Saami	ruvˈvet	ruvˈvet	rʊvːeh	ruvvet	rʊvːeh	0.1428571428571428	x
-316	North Saami	hēittot	hēittot	hejtːɔh	heittot	hejtːɔh	0.1428571428571428	x
-9483	North Saami	asˈsái	asˈsái	ɑsːaːj	assái	ɑsːaːj	0.1666666666666667	x
-5699	North Saami	almmái	almmái	ɔlmːaːj	olmmái	ɔlmːaːj	0.1666666666666667	x
-229	North Saami	ealˈli	ealˈli	e̯ælːi	ealli	e̯ælːi	0.1666666666666667	x
-6467	North Saami	buhtis	buhtis	pʊhtes	buhtes	pʊhtes	0.1666666666666667	x
-5734	North Saami	duššẹ	duššẹ	tʊʃːe	dušše	tʊʃːe	0.1666666666666667	x
-9517	North Saami	badjeváhkká	badjeváhkká	pɑcːevaːhkaːɑ	badjeváhkáa	pɑcːevaːhkaːɑ	0.1818181818181818	x
+5828	North Saami	fuoikut	fuoikut	fʊɛjkih	fuoikit	fʊɛjkih	0.142857143	x
+1099	North Saami	doarrut	doarrut	tɔ̯ɑrːʊ	doarru	tɔ̯ɑrːʊ	0.142857143	x
+9936	North Saami	oaidnit	oaidnit	ɔ̯ɑidniːh	oaidnít	ɔ̯ɑidníh	0.142857143	x
+2552	North Saami	ruvˈvet	ruvˈvet	rʊvːeh	ruvvet	rʊvːeh	0.142857143	x
+316	North Saami	hēittot	hēittot	hejtːɔh	heittot	hejtːɔh	0.142857143	x
+9483	North Saami	asˈsái	asˈsái	ɑsːaːj	assái	ɑsːaːj	0.166666667	x
+5699	North Saami	almmái	almmái	ɔlmːaːj	olmmái	ɔlmːaːj	0.166666667	x
+229	North Saami	ealˈli	ealˈli	e̯ælːi	ealli	e̯ælːi	0.166666667	x
+6467	North Saami	buhtis	buhtis	pʊhtes	buhtes	pʊhtes	0.166666667	x
+5734	North Saami	duššẹ	duššẹ	tʊʃːe	dušše	tʊʃːe	0.166666667	x
+9517	North Saami	badjeváhkká	badjeváhkká	pɑcːevaːhkaːɑ	badjeváhkáa	pɑcːevaːhkaːɑ	0.181818182	x
 10124	North Saami	unˈni	unˈni	ʊnːi	unni	ʊnːi	0.2	x
-6513	North Saami	bealjẹheapmẹ	bealjẹheapmẹ	pe̯æʎehe̯æpmi	bealjeheapmi	pe̯æʎehe̯æpmi	0.2142857142857143	x
+6513	North Saami	bealjẹheapmẹ	bealjẹheapmẹ	pe̯æʎehe̯æpmi	bealjeheapmi	pe̯æʎehe̯æpmi	0.214285714	x
 3548	North Saami	suohpput	suohpput	sʊhpːeh	suhppet	sʊhpːeh	0.25	x
 2756	North Saami	bastil	bastil	pɑstilih	bastilit	pɑstilih	0.25	x
 9966	North Saami	njálggis	njálggis	ɲaːlɡkɑh	njálggat	ɲaːlɡkɑh	0.25	x
-8361	North Saami	čáhppat	čáhppat	ʧaːhpːes	čáhppes	t͡ʃaːhpːes	0.2857142857142857	x
-4210	North Saami	fiskat	fiskat	fiskes	fiskes	fiskes	0.3333333333333333	x
-3358	North Saami	dot	dot	tɑh	dat	tɑh	0.3333333333333333	x
-4306	North Saami	maŋŋin	maŋŋin	mɑŋil	maŋil	mɑŋil	0.3333333333333333	x
-7865	North Saami	čáhcẹdávgi	arvẹdávgi	ɑrɛveðaːvɡi	arvedávgi	ɑrɛveðaːvɡi	0.4545454545454545	x
-7864	North Saami	čáhcẹdávgi	arvẹdávgi	ɑrɛveðaːvɡi	arvedávgi	ɑrɛveðaːvɡi	0.4545454545454545	x
+8361	North Saami	čáhppat	čáhppat	ʧaːhpːes	čáhppes	t͡ʃaːhpːes	0.285714286	x
+4210	North Saami	fiskat	fiskat	fiskes	fiskes	fiskes	0.333333333	x
+3358	North Saami	dot	dot	tɑh	dat	tɑh	0.333333333	x
+4306	North Saami	maŋŋin	maŋŋin	mɑŋil	maŋil	mɑŋil	0.333333333	x
+7865	North Saami	čáhcẹdávgi	arvẹdávgi	ɑrɛveðaːvɡi	arvedávgi	ɑrɛveðaːvɡi	0.454545455	x
+7864	North Saami	čáhcẹdávgi	arvẹdávgi	ɑrɛveðaːvɡi	arvedávgi	ɑrɛveðaːvɡi	0.454545455	x
 1326	North Saami	murku	murku	miɛrɑhkaː	mierká	miɛrɑhkaː	0.5	x
 3326	North Saami	duot	duot	tɑh	dat	tɑh	0.5	x
 8459	North Saami	čielgi	čielgi	se̯ælɛki	sealgi	se̯ælɛki	0.5	x
-7096	North Saami	basttoheapme ~ bastteheapme	basttoheapme ~ bastteheapme	pɑstːɔhe̯æpme	basttoheapme	pɑstːɔhe̯æpme	0.5555555555555556	x
-4291	North Saami	duohkin	duohkin	tʊ̯ɔkaːs	duogás	tʊ̯ɔkaːs	0.5714285714285714	x
+7096	North Saami	basttoheapme ~ bastteheapme	basttoheapme ~ bastteheapme	pɑstːɔhe̯æpme	basttoheapme	pɑstːɔhe̯æpme	0.555555556	x
+4291	North Saami	duohkin	duohkin	tʊ̯ɔkaːs	duogás	tʊ̯ɔkaːs	0.571428571	x
 2666	North Saami	soadjá ~ soadji	soadjá ~ soadji	sɔ̯ɑcːi	soadji	sɔ̯ɑcːi	0.6	x
-8677	North Saami	manni ~ monni	manni ~ monni	mɔnːi	monni	mɔnːi	0.6153846153846154	x
-5420	North Saami	fargga ~ farga	fargga ~ farga	fɑrɑkɑ	farga	fɑrɑkɑ	0.6428571428571429	x
-1710	North Saami	mō	mō	mɔh	mot	mɔh	0.6666666666666666	x
-4953	North Saami	bassit	bassit	paːhkːeh	báhkket	paːhkːeh	0.7142857142857143	x
+8677	North Saami	manni ~ monni	manni ~ monni	mɔnːi	monni	mɔnːi	0.615384615	x
+5420	North Saami	fargga ~ farga	fargga ~ farga	fɑrɑkɑ	farga	fɑrɑkɑ	0.642857143	x
+1710	North Saami	mō	mō	mɔh	mot	mɔh	0.666666667	x
+4953	North Saami	bassit	bassit	paːhkːeh	báhkket	paːhkːeh	0.714285714	x
 6423	Skolt Saami	eeʹđääldõž	eeʹđääldõž	eːðʲaːldəʒ	ee´đääldõž	eːðʲaːldəʒ	0.1	x
-9938	Skolt Saami	vueiʹnned	vueiʹnned	vuɛinːʲɛd	vuei´nned	vuɛinːʲɛd	0.1111111111111111	x
-677	Skolt Saami	laʹsǩǩeed	laʹsǩǩeed	lɒsʲcc͡çʲeːd	la´sǩǩeed	lɒsʲcc͡çʲeːd	0.1111111111111111	x
-9968	Skolt Saami	njääʹljes	njääʹljes	ɲaːʎʲɛs	njää´ljes	ɲaːʎʲɛs	0.1111111111111111	x
-7022	Skolt Saami	ceäʹlǩǩed	ceäʹlǩǩed	ʦɛalʲcc͡çʲɛd	ceä´lǩǩed	t͡sɛalʲcc͡çʲɛd	0.1111111111111111	x
+9938	Skolt Saami	vueiʹnned	vueiʹnned	vuɛinːʲɛd	vuei´nned	vuɛinːʲɛd	0.111111111	x
+677	Skolt Saami	laʹsǩǩeed	laʹsǩǩeed	lɒsʲcc͡çʲeːd	la´sǩǩeed	lɒsʲcc͡çʲeːd	0.111111111	x
+9968	Skolt Saami	njääʹljes	njääʹljes	ɲaːʎʲɛs	njää´ljes	ɲaːʎʲɛs	0.111111111	x
+7022	Skolt Saami	ceäʹlǩǩed	ceäʹlǩǩed	ʦɛalʲcc͡çʲɛd	ceä´lǩǩed	t͡sɛalʲcc͡çʲɛd	0.111111111	x
 6469	Skolt Saami	puuʹttes	puuʹttes	puːtːʲɛs	puu´ttes	puːtːʲɛs	0.125	x
 2941	Skolt Saami	lääʹttes	lääʹttes	laːtːʲɛs	lää´ttes	laːtːʲɛs	0.125	x
 9386	Skolt Saami	väʹldded	väʹldded	valʲdːʲɛd	vä´ldded	valʲdːʲɛd	0.125	x
@@ -278,41 +278,41 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 470	Skolt Saami	pueʹtted	pueʹtted	puɛtːʲɛd	pue´tted	puɛtːʲɛd	0.125	x
 2757	Skolt Saami	pâʹsttel	pâʹsttel	pɐsʲtːʲɛl	pâ´sttel	pɐsʲtːʲɛl	0.125	x
 2554	Skolt Saami	ruʹvvjed	ruʹvvjed	ruvːʲʝʲɛd	ru´vvjed	ruvːʲʝʲɛd	0.125	x
-7221	Skolt Saami	vuäʹniǩ	vuäʹniǩ	vuanʲic͡ç	vuä´niǩ	vuanʲic͡ç	0.1428571428571428	x
-1591	Skolt Saami	vueiʹvv	vueiʹvv	vuɛivːʲɘ	vuei´vv	vuɛivːʲɘ	0.1428571428571428	x
-1823	Skolt Saami	kåʹdded	kåʹdded	kɔdːʲɛd	kå´dded	kɔdːʲɛd	0.1428571428571428	x
-8562	Skolt Saami	njäʹlmm	njäʹlmm	ɲalʲmːʲɘ	njä´lmm	ɲalʲmːʲɘ	0.1428571428571428	x
-3745	Skolt Saami	njuuʹnn	njuuʹnn	ɲuːnːʲɘ	njuu´nn	ɲuːnːʲɘ	0.1428571428571428	x
-2219	Skolt Saami	jeeʹres	jeeʹres	ʝeːrʲɛs	jee´res	ʝeːrʲɛs	0.1428571428571428	x
-8486	Skolt Saami	seäʹlǧǧ	seäʹlǧǧ	sɛalʲɟɟ͡ʝʲɘ	seä´lǧǧ	sɛalʲɟɟ͡ʝʲɘ	0.1428571428571428	x
-8177	Skolt Saami	jueʹlǧǧ	jueʹlǧǧ	ʝuɛlʲɟɟ͡ʝʲɘ	jue´lǧǧ	ʝuɛlʲɟɟ͡ʝʲɘ	0.1428571428571428	x
-5626	Skolt Saami	käʹtted	käʹtted	katːʲɛd	kä´tted	katːʲɛd	0.1428571428571428	x
-231	Skolt Saami	jieʹlli	jieʹlli	ʝiɛlːʲi	jie´lli	ʝiɛlːʲi	0.1428571428571428	x
-8149	Skolt Saami	jueʹlǧǧ	jueʹlǧǧ	ʝuɛlʲɟɟ͡ʝʲɘ	jue´lǧǧ	ʝuɛlʲɟɟ͡ʝʲɘ	0.1428571428571428	x
-429	Skolt Saami	mueʹrjj	mueʹrjj	muɛrʲʝːʲɘ	mue´rjj	muɛrʲʝːʲɘ	0.1428571428571428	x
-8429	Skolt Saami	nääʹpp	nääʹpp	naːpːʲɘ	nää´pp	naːpːʲɘ	0.1666666666666667	x
-9722	Skolt Saami	čâʹlmm	čâʹlmm	ʧɐlʲmːʲɘ	čâ´lmm	t͡ʃɐlʲmːʲɘ	0.1666666666666667	x
-8799	Skolt Saami	pueʹrr	pueʹrr	puɛrːʲɘ	pue´rr	puɛrːʲɘ	0.1666666666666667	x
-8679	Skolt Saami	mââʹnn	mââʹnn	mɐːnːʲɘ	mââ´nn	mɐːnːʲɘ	0.1666666666666667	x
-8207	Skolt Saami	kueʹll	kueʹll	kuɛlːʲɘ	kue´ll	kuɛlːʲɘ	0.1666666666666667	x
-2096	Skolt Saami	vääʹrr	vääʹrr	vaːrːʲɘ	vää´rr	vaːrːʲɘ	0.1666666666666667	x
-7792	Skolt Saami	vuõptt	vuõptt	vuəptɐ	vuõpt	vuəptɐ	0.1666666666666667	x
-10049	Skolt Saami	säʹltt	säʹltt	salʲtːʲɘ	sä´ltt	salʲtːʲɘ	0.1666666666666667	x
-9816	Skolt Saami	seiʹbb	seiʹbb	sɛibːʲɘ	sei´bb	sɛibːʲɘ	0.1666666666666667	x
-1712	Skolt Saami	mäʹhtt	mäʹhtt	maxʲtːʲɘ	mä´htt	maxʲtːʲɘ	0.1666666666666667	x
-8252	Skolt Saami	čääʹcc	čääʹcc	ʧaːtʦʲɘ	čää´cc	t͡ʃaːtt͡sʲɘ	0.1666666666666667	x
-7448	Skolt Saami	pääʹnn	pääʹnn	paːnːʲɘ	pää´nn	paːnːʲɘ	0.1666666666666667	x
-9585	Skolt Saami	täʹhtt	täʹhtt	taxʲtːʲɘ	tä´htt	taxʲtːʲɘ	0.1666666666666667	x
-5667	Skolt Saami	kuʹsǩǩ	kuʹsǩǩ	kusʲcc͡çʲɘ	ku´sǩǩ	kusʲcc͡çʲɘ	0.1666666666666667	x
-4753	Skolt Saami	sääʹnn	sääʹnn	saːnːʲɘ	sää´nn	saːnːʲɘ	0.1666666666666667	x
-2996	Skolt Saami	kuʹvdd	kuʹvdd	kuvʲdːʲɘ	ku´vdd	kuvʲdːʲɘ	0.1666666666666667	x
-8537	Skolt Saami	piõgˈg	piõgˈg	piəɡɡɐ	piõg'g	piəɡɡɐ	0.1666666666666667	x
-9199	Skolt Saami	leʹšǩǩ	leʹšǩǩ	lɛʃʲcc͡çʲɘ	le´šǩǩ	lɛʃʲcc͡çʲɘ	0.1666666666666667	x
-4457	Skolt Saami	peʹllj	peʹllj	pɛʎːʲɘ	pe´llj	pɛʎːʲɘ	0.1666666666666667	x
-3237	Skolt Saami	peiʹvv	peiʹvv	pɛivːʲɘ	pei´vv	pɛivːʲɘ	0.1666666666666667	x
-307	Skolt Saami	hueʹnn	hueʹnn	xuɛnːʲɘ	hue´nn	xuɛnːʲɘ	0.1666666666666667	x
-1452	Skolt Saami	rääʹss	rääʹss	raːsːʲɘ	rää´ss	raːsːʲɘ	0.1666666666666667	x
-407	Skolt Saami	čåuʹjj	čåuʹjj	ʧɔuʝːʲɘ	čåu´jj	t͡ʃɔuʝːʲɘ	0.1666666666666667	x
+7221	Skolt Saami	vuäʹniǩ	vuäʹniǩ	vuanʲic͡ç	vuä´niǩ	vuanʲic͡ç	0.142857143	x
+1591	Skolt Saami	vueiʹvv	vueiʹvv	vuɛivːʲɘ	vuei´vv	vuɛivːʲɘ	0.142857143	x
+1823	Skolt Saami	kåʹdded	kåʹdded	kɔdːʲɛd	kå´dded	kɔdːʲɛd	0.142857143	x
+8562	Skolt Saami	njäʹlmm	njäʹlmm	ɲalʲmːʲɘ	njä´lmm	ɲalʲmːʲɘ	0.142857143	x
+3745	Skolt Saami	njuuʹnn	njuuʹnn	ɲuːnːʲɘ	njuu´nn	ɲuːnːʲɘ	0.142857143	x
+2219	Skolt Saami	jeeʹres	jeeʹres	ʝeːrʲɛs	jee´res	ʝeːrʲɛs	0.142857143	x
+8486	Skolt Saami	seäʹlǧǧ	seäʹlǧǧ	sɛalʲɟɟ͡ʝʲɘ	seä´lǧǧ	sɛalʲɟɟ͡ʝʲɘ	0.142857143	x
+8177	Skolt Saami	jueʹlǧǧ	jueʹlǧǧ	ʝuɛlʲɟɟ͡ʝʲɘ	jue´lǧǧ	ʝuɛlʲɟɟ͡ʝʲɘ	0.142857143	x
+5626	Skolt Saami	käʹtted	käʹtted	katːʲɛd	kä´tted	katːʲɛd	0.142857143	x
+231	Skolt Saami	jieʹlli	jieʹlli	ʝiɛlːʲi	jie´lli	ʝiɛlːʲi	0.142857143	x
+8149	Skolt Saami	jueʹlǧǧ	jueʹlǧǧ	ʝuɛlʲɟɟ͡ʝʲɘ	jue´lǧǧ	ʝuɛlʲɟɟ͡ʝʲɘ	0.142857143	x
+429	Skolt Saami	mueʹrjj	mueʹrjj	muɛrʲʝːʲɘ	mue´rjj	muɛrʲʝːʲɘ	0.142857143	x
+8429	Skolt Saami	nääʹpp	nääʹpp	naːpːʲɘ	nää´pp	naːpːʲɘ	0.166666667	x
+9722	Skolt Saami	čâʹlmm	čâʹlmm	ʧɐlʲmːʲɘ	čâ´lmm	t͡ʃɐlʲmːʲɘ	0.166666667	x
+8799	Skolt Saami	pueʹrr	pueʹrr	puɛrːʲɘ	pue´rr	puɛrːʲɘ	0.166666667	x
+8679	Skolt Saami	mââʹnn	mââʹnn	mɐːnːʲɘ	mââ´nn	mɐːnːʲɘ	0.166666667	x
+8207	Skolt Saami	kueʹll	kueʹll	kuɛlːʲɘ	kue´ll	kuɛlːʲɘ	0.166666667	x
+2096	Skolt Saami	vääʹrr	vääʹrr	vaːrːʲɘ	vää´rr	vaːrːʲɘ	0.166666667	x
+7792	Skolt Saami	vuõptt	vuõptt	vuəptɐ	vuõpt	vuəptɐ	0.166666667	x
+10049	Skolt Saami	säʹltt	säʹltt	salʲtːʲɘ	sä´ltt	salʲtːʲɘ	0.166666667	x
+9816	Skolt Saami	seiʹbb	seiʹbb	sɛibːʲɘ	sei´bb	sɛibːʲɘ	0.166666667	x
+1712	Skolt Saami	mäʹhtt	mäʹhtt	maxʲtːʲɘ	mä´htt	maxʲtːʲɘ	0.166666667	x
+8252	Skolt Saami	čääʹcc	čääʹcc	ʧaːtʦʲɘ	čää´cc	t͡ʃaːtt͡sʲɘ	0.166666667	x
+7448	Skolt Saami	pääʹnn	pääʹnn	paːnːʲɘ	pää´nn	paːnːʲɘ	0.166666667	x
+9585	Skolt Saami	täʹhtt	täʹhtt	taxʲtːʲɘ	tä´htt	taxʲtːʲɘ	0.166666667	x
+5667	Skolt Saami	kuʹsǩǩ	kuʹsǩǩ	kusʲcc͡çʲɘ	ku´sǩǩ	kusʲcc͡çʲɘ	0.166666667	x
+4753	Skolt Saami	sääʹnn	sääʹnn	saːnːʲɘ	sää´nn	saːnːʲɘ	0.166666667	x
+2996	Skolt Saami	kuʹvdd	kuʹvdd	kuvʲdːʲɘ	ku´vdd	kuvʲdːʲɘ	0.166666667	x
+8537	Skolt Saami	piõgˈg	piõgˈg	piəɡɡɐ	piõg'g	piəɡɡɐ	0.166666667	x
+9199	Skolt Saami	leʹšǩǩ	leʹšǩǩ	lɛʃʲcc͡çʲɘ	le´šǩǩ	lɛʃʲcc͡çʲɘ	0.166666667	x
+4457	Skolt Saami	peʹllj	peʹllj	pɛʎːʲɘ	pe´llj	pɛʎːʲɘ	0.166666667	x
+3237	Skolt Saami	peiʹvv	peiʹvv	pɛivːʲɘ	pei´vv	pɛivːʲɘ	0.166666667	x
+307	Skolt Saami	hueʹnn	hueʹnn	xuɛnːʲɘ	hue´nn	xuɛnːʲɘ	0.166666667	x
+1452	Skolt Saami	rääʹss	rääʹss	raːsːʲɘ	rää´ss	raːsːʲɘ	0.166666667	x
+407	Skolt Saami	čåuʹjj	čåuʹjj	ʧɔuʝːʲɘ	čåu´jj	t͡ʃɔuʝːʲɘ	0.166666667	x
 2852	Skolt Saami	âʹlmm	âʹlmm	ɐlʲmːʲɘ	â´lmm	ɐlʲmːʲɘ	0.2	x
 4180	Skolt Saami	eeʹǩǩ	eeʹǩǩ	eːcc͡çʲɘ	ee´ǩǩ	eːcc͡çʲɘ	0.2	x
 9989	Skolt Saami	låʹdd	låʹdd	lɔdːʲɘ	lå´dd	lɔdːʲɘ	0.2	x
@@ -324,80 +324,80 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 890	Skolt Saami	põõʹl	põõʹl	pəːlʲɘ	põõ´l	pəːlʲɘ	0.2	x
 2198	Skolt Saami	nuʹbb	nuʹbb	nubːʲɘ	nu´bb	nubːʲɘ	0.2	x
 1603	Skolt Saami	čââʹđ	čââʹđ	ʧɐːðʲɘ	čââ´đ	t͡ʃɐːðʲɘ	0.2	x
-2312	Skolt Saami	ǩiẹʹssed	ǩiẹʹssed	c͡çiɛsːʲɛd	ǩie´ssed	c͡çiɛsːʲɛd	0.2222222222222222	x
-9279	Skolt Saami	kueʹdˈded	kueʹdˈded	kuɛdʲdɛd	kue´d'ded	kuɛdʲdɛd	0.2222222222222222	x
+2312	Skolt Saami	ǩiẹʹssed	ǩiẹʹssed	c͡çiɛsːʲɛd	ǩie´ssed	c͡çiɛsːʲɛd	0.222222222	x
+9279	Skolt Saami	kueʹdˈded	kueʹdˈded	kuɛdʲdɛd	kue´d'ded	kuɛdʲdɛd	0.222222222	x
 5102	Skolt Saami	kuõskkâd	kuõskkâd	kuəsktɛd	kuõskted	kuəsktɛd	0.25	x
 3682	Skolt Saami	väʹʒʒed	väʹʒʒed	vadʣʲɛd	vä ́ʒʒed	va ́dd͡zɛd	0.25	x
 10115	Skolt Saami	uʹcc	uʹcc	utʦʲɘ	u´cc	utt͡sʲɘ	0.25	x
 952	Skolt Saami	eʹčč	e(e)ʹčč	ɛtʧʲɘ	e´čč	ɛtt͡ʃʲɘ	0.25	x
-3175	Skolt Saami	suäʹbˈb	suäʹbˈb	suabʲbɐ	suä´b'b	suabʲbɐ	0.2857142857142857	x
-6629	Skolt Saami	vuäʹbˈb	vuäʹbˈb	vuabʲbɐ	vuä´b'b	vuabʲbɐ	0.2857142857142857	x
-5045	Skolt Saami	võõidâd	uuidâd	vəidːɐd	võiddâd	vəidːɐd	0.2857142857142857	x
-5044	Skolt Saami	võõidâd	uuidâd	vəidːɐd	võiddâd	vəidːɐd	0.2857142857142857	x
-4106	Skolt Saami	meäʹcˈc	meäʹcˈc	mɛaʦʲʦɐ	meä´c'c	mɛat͡sʲt͡sɐ	0.2857142857142857	x
+3175	Skolt Saami	suäʹbˈb	suäʹbˈb	suabʲbɐ	suä´b'b	suabʲbɐ	0.285714286	x
+6629	Skolt Saami	vuäʹbˈb	vuäʹbˈb	vuabʲbɐ	vuä´b'b	vuabʲbɐ	0.285714286	x
+5045	Skolt Saami	võõidâd	uuidâd	vəidːɐd	võiddâd	vəidːɐd	0.285714286	x
+5044	Skolt Saami	võõidâd	uuidâd	vəidːɐd	võiddâd	vəidːɐd	0.285714286	x
+4106	Skolt Saami	meäʹcˈc	meäʹcˈc	mɛaʦʲʦɐ	meä´c'c	mɛat͡sʲt͡sɐ	0.285714286	x
 6997	Skolt Saami	miẹʹcsted	miẹʹc(c)sted	miaʦʲsʲtʲɛd	miä´csted	miat͡sʲsʲtʲɛd	0.3	x
-6515	Skolt Saami	peeʹlljteʹmes	peeʹlljteʹm	peːʎːʲtʲɛmʲɘ	pee´lljte´m	peːʎːʲtʲɛmʲɘ	0.3076923076923077	x
-6516	Skolt Saami	peeʹlljteʹmes	peeʹlljteʹm	peːʎːʲtʲɛmʲɘ	pee´lljte´m	peːʎːʲtʲɛmʲɘ	0.3076923076923077	x
-7270	Skolt Saami	iil	iil	ilːɐ	ill	ilːɐ	0.3333333333333333	x
-1847	Skolt Saami	jäuʹrr	jäuʹrr	ʝɐurːʲɘ	jâu´rr	ʝɐurːʲɘ	0.3333333333333333	x
-5743	Skolt Saami	tåʹlǩ	tåʹlǩ	tɔːlʲc͡çʲɘ	tåå´lǩ	tɔːlʲc͡çʲɘ	0.3333333333333333	x
-9489	Skolt Saami	kõss	kõss(âd)	kəsːɐd	kõssâd	kəsːɐd	0.3333333333333333	x
-3328	Skolt Saami	tut	tut	tətɐ	tõt	tətɐ	0.3333333333333333	x
-2886	Skolt Saami	vuẹʹđđed	vuẹʹđđed	vuɐðːʲɛd	vuâ´đđed	vuɐðːʲɛd	0.3333333333333333	x
-8438	Skolt Saami	čuẹǯ’ǯad	čuẹǯ’ǯad	ʧuɐdʤɒd	čuâǯ'ǯad	t͡ʃuɐdd͡ʒɒd	0.3333333333333333	x
-4149	Skolt Saami	smäʹtt	smäʹtt	maːtːɐ	määtt	maːtːɐ	0.3333333333333333	x
-1416	Skolt Saami	tiudd	tiudd	tiːudɒs	tiiudas	tiːudɒs	0.4285714285714285	x
-7307	Skolt Saami	čiẹʹcc	čiẹʹcc	ʧiɒtʦʲɘ	čia´cc	t͡ʃiɒtt͡sʲɘ	0.4285714285714285	x
-6775	Skolt Saami	ǩiẹʹss	ǩiẹʹss	c͡çiasːʲɘ	ǩiä´ss	c͡çiasːʲɘ	0.4285714285714285	x
-4804	Skolt Saami	kuʹǩǩen	kuʹǩǩen	kuc͡çʲɛs	ku´ǩes	kuc͡çʲɛs	0.4285714285714285	x
+6515	Skolt Saami	peeʹlljteʹmes	peeʹlljteʹm	peːʎːʲtʲɛmʲɘ	pee´lljte´m	peːʎːʲtʲɛmʲɘ	0.307692308	x
+6516	Skolt Saami	peeʹlljteʹmes	peeʹlljteʹm	peːʎːʲtʲɛmʲɘ	pee´lljte´m	peːʎːʲtʲɛmʲɘ	0.307692308	x
+7270	Skolt Saami	iil	iil	ilːɐ	ill	ilːɐ	0.333333333	x
+1847	Skolt Saami	jäuʹrr	jäuʹrr	ʝɐurːʲɘ	jâu´rr	ʝɐurːʲɘ	0.333333333	x
+5743	Skolt Saami	tåʹlǩ	tåʹlǩ	tɔːlʲc͡çʲɘ	tåå´lǩ	tɔːlʲc͡çʲɘ	0.333333333	x
+9489	Skolt Saami	kõss	kõss(âd)	kəsːɐd	kõssâd	kəsːɐd	0.333333333	x
+3328	Skolt Saami	tut	tut	tətɐ	tõt	tətɐ	0.333333333	x
+2886	Skolt Saami	vuẹʹđđed	vuẹʹđđed	vuɐðːʲɛd	vuâ´đđed	vuɐðːʲɛd	0.333333333	x
+8438	Skolt Saami	čuẹǯ’ǯad	čuẹǯ’ǯad	ʧuɐdʤɒd	čuâǯ'ǯad	t͡ʃuɐdd͡ʒɒd	0.333333333	x
+4149	Skolt Saami	smäʹtt	smäʹtt	maːtːɐ	määtt	maːtːɐ	0.333333333	x
+1416	Skolt Saami	tiudd	tiudd	tiːudɒs	tiiudas	tiːudɒs	0.428571429	x
+7307	Skolt Saami	čiẹʹcc	čiẹʹcc	ʧiɒtʦʲɘ	čia´cc	t͡ʃiɒtt͡sʲɘ	0.428571429	x
+6775	Skolt Saami	ǩiẹʹss	ǩiẹʹss	c͡çiasːʲɘ	ǩiä´ss	c͡çiasːʲɘ	0.428571429	x
+4804	Skolt Saami	kuʹǩǩen	kuʹǩǩen	kuc͡çʲɛs	ku´ǩes	kuc͡çʲɛs	0.428571429	x
 1642	Skolt Saami	tääiʹb	tääiʹb(en)	taːɐ	tää	taːɐ	0.5	x
-7631	Skolt Saami	njorggad ~ njõrggad	njorggad ~ njõrggad	ɲorɡːɒd	njorggad	ɲorɡːɒd	0.5789473684210527	x
-2807	Skolt Saami	laullad ~ läullad	laullad ~ läullad	laulːɒd	läullad	laulːɒd	0.5882352941176471	x
-612	Skolt Saami	kõõlmâs ~ kõõumâs	kõõlmâs ~ kõõumâs	kəːlmɐs	kõõlmâs	kəːlmɐs	0.5882352941176471	x
-6129	Skolt Saami	vuäʹpsted ~ vuäʹppsted	vuäʹpsted ~ vuäʹppsted	vuapːʲsʲtʲɛd	vuä´ppsted	vuapːʲsʲtʲɛd	0.5909090909090909	x
+7631	Skolt Saami	njorggad ~ njõrggad	njorggad ~ njõrggad	ɲorɡːɒd	njorggad	ɲorɡːɒd	0.578947368	x
+2807	Skolt Saami	laullad ~ läullad	laullad ~ läullad	laulːɒd	läullad	laulːɒd	0.588235294	x
+612	Skolt Saami	kõõlmâs ~ kõõumâs	kõõlmâs ~ kõõumâs	kəːlmɐs	kõõlmâs	kəːlmɐs	0.588235294	x
+6129	Skolt Saami	vuäʹpsted ~ vuäʹppsted	vuäʹpsted ~ vuäʹppsted	vuapːʲsʲtʲɛd	vuä´ppsted	vuapːʲsʲtʲɛd	0.590909091	x
 5815	Skolt Saami	luẹikkad ~ luâikkad	luẹikkad ~ luâikkad	luɐikːɒd	luâikkad	luɐikːɒd	0.6	x
-1268	Skolt Saami	rääʹss	(heäʹrvv)rääʹss	xɛarʲvːʲrʲaːsːʲɘ	heä´rvvrää´ss	xɛarʲvːʲrʲaːsːʲɘ	0.6153846153846154	x
+1268	Skolt Saami	rääʹss	(heäʹrvv)rääʹss	xɛarʲvːʲrʲaːsːʲɘ	heä´rvvrää´ss	xɛarʲvːʲrʲaːsːʲɘ	0.615384615	x
 9905	Skolt Saami	vuäʹdˈd	vuẹʹddes	vuɛdːʲɛs	vue´ddes	vuɛdːʲɛs	0.625	x
 9694	Skolt Saami	urččâd ~ uʹrččâd	urččâd ~ uʹrččâd	urʲtʧʲɐd	u´rččâd	urʲtt͡ʃʲɐd	0.625	x
 2386	Skolt Saami	vuäʹljes	vuäʹljes	vuəiɣɐs	vuõiǥâs	vuəiɣɐs	0.625	x
 9906	Skolt Saami	vuäʹdˈd	vuẹʹddes	vuɛdːʲɛs	vue´ddes	vuɛdːʲɛs	0.625	x
-9009	Skolt Saami	påǥsted ~ pååǥǥsted	påǥsted ~ pååǥǥsted	pɔɣstɛd	påǥsted	pɔɣstɛd	0.631578947368421	x
-1685	Skolt Saami	tuõʹlˈl’jed	tuõʹlˈl’jed	tuɛrʲʝːʲeːd	tue´rjjeed	tuɛrʲʝːʲeːd	0.6363636363636364	x
-5701	Skolt Saami	åålm ~ ååum	åålm(ai) ~ ååum(ai)	ɔːlmɐ	åålm	ɔːlmɐ	0.6363636363636364	x
-4502	Skolt Saami	kädd	jueʹlǧǧkädd	ʝuɛlʲɟɟ͡ʝʲkʲadː	jue´lǧǧkädd	ʝuɛlʲɟɟ͡ʝʲkʲadː	0.6363636363636364	x
-4501	Skolt Saami	kädd	jueʹlǧǧkädd	ʝuɛlʲɟɟ͡ʝʲkʲadː	jue´lǧǧkädd	ʝuɛlʲɟɟ͡ʝʲkʲadː	0.6363636363636364	x
-3613	Skolt Saami	kuõʹhtt ~ kueʹhtt	kuõʹhtt ~ kueʹhtt	kuəxʲtːʲɘ	kuõ´htt	kuəxʲtːʲɘ	0.6470588235294118	x
-2166	Skolt Saami	ââld ~ âʹldd	ââld(a) ~ âʹldd	ɐldːləs	âlddlõs	ɐldːləs	0.6666666666666666	x
-5215	Skolt Saami	ooumaž ~ ååumaž	ooumaž ~ ååumaž	oːumɐʒ	ooumâž	oːumɐʒ	0.6666666666666666	x
-2685	Skolt Saami	sieʹm ~ siõm	sieʹm ~ siõm	siəmɐ	siõm	siəmɐ	0.6666666666666666	x
-3399	Skolt Saami	toʹben ~ tåʹben	toʹben ~ tåʹben	tobʲɛn	to´ben	tobʲɛn	0.6666666666666666	x
-10210	Skolt Saami	täʹstt ~ täʹsnn	täʹstt ~ täʹsnn	tasʲnːʲɘ	tä´snn	tasʲnːʲɘ	0.6666666666666666	x
-4674	Skolt Saami	ååʹuc ~ åʹhcc	ååʹuc ~ åʹhcc	ɔxʲtʦʲɘ	å´hcc	ɔxʲtt͡sʲɘ	0.6923076923076923	x
-4873	Skolt Saami	riʹmjj ~ rieʹmnnj	riʹmjj ~ rieʹmnnj	riɛmʲʝːʲɘ	rie´mjj	riɛmʲʝːʲɘ	0.7058823529411765	x
-2066	Skolt Saami	jeäʹnˈn ~ jieʹnˈn	jeäʹnˈn ~ jieʹnˈn	ʝɛanʲnɐ	jeä´n'n	ʝɛanʲnɐ	0.7058823529411765	x
-9071	Skolt Saami	čiʹǯǯ- ~ čiʹǯs-	čiʹǯǯ- ~ čiʹǯs-	ʧidʤʲɘ	či´ǯǯ	t͡ʃidd͡ʒʲɘ	0.7333333333333333	x
+9009	Skolt Saami	påǥsted ~ pååǥǥsted	påǥsted ~ pååǥǥsted	pɔɣstɛd	påǥsted	pɔɣstɛd	0.631578947	x
+1685	Skolt Saami	tuõʹlˈl’jed	tuõʹlˈl’jed	tuɛrʲʝːʲeːd	tue´rjjeed	tuɛrʲʝːʲeːd	0.636363636	x
+5701	Skolt Saami	åålm ~ ååum	åålm(ai) ~ ååum(ai)	ɔːlmɐ	åålm	ɔːlmɐ	0.636363636	x
+4502	Skolt Saami	kädd	jueʹlǧǧkädd	ʝuɛlʲɟɟ͡ʝʲkʲadː	jue´lǧǧkädd	ʝuɛlʲɟɟ͡ʝʲkʲadː	0.636363636	x
+4501	Skolt Saami	kädd	jueʹlǧǧkädd	ʝuɛlʲɟɟ͡ʝʲkʲadː	jue´lǧǧkädd	ʝuɛlʲɟɟ͡ʝʲkʲadː	0.636363636	x
+3613	Skolt Saami	kuõʹhtt ~ kueʹhtt	kuõʹhtt ~ kueʹhtt	kuəxʲtːʲɘ	kuõ´htt	kuəxʲtːʲɘ	0.647058824	x
+2166	Skolt Saami	ââld ~ âʹldd	ââld(a) ~ âʹldd	ɐldːləs	âlddlõs	ɐldːləs	0.666666667	x
+5215	Skolt Saami	ooumaž ~ ååumaž	ooumaž ~ ååumaž	oːumɐʒ	ooumâž	oːumɐʒ	0.666666667	x
+2685	Skolt Saami	sieʹm ~ siõm	sieʹm ~ siõm	siəmɐ	siõm	siəmɐ	0.666666667	x
+3399	Skolt Saami	toʹben ~ tåʹben	toʹben ~ tåʹben	tobʲɛn	to´ben	tobʲɛn	0.666666667	x
+10210	Skolt Saami	täʹstt ~ täʹsnn	täʹstt ~ täʹsnn	tasʲnːʲɘ	tä´snn	tasʲnːʲɘ	0.666666667	x
+4674	Skolt Saami	ååʹuc ~ åʹhcc	ååʹuc ~ åʹhcc	ɔxʲtʦʲɘ	å´hcc	ɔxʲtt͡sʲɘ	0.692307692	x
+4873	Skolt Saami	riʹmjj ~ rieʹmnnj	riʹmjj ~ rieʹmnnj	riɛmʲʝːʲɘ	rie´mjj	riɛmʲʝːʲɘ	0.705882353	x
+2066	Skolt Saami	jeäʹnˈn ~ jieʹnˈn	jeäʹnˈn ~ jieʹnˈn	ʝɛanʲnɐ	jeä´n'n	ʝɛanʲnɐ	0.705882353	x
+9071	Skolt Saami	čiʹǯǯ- ~ čiʹǯs-	čiʹǯǯ- ~ čiʹǯs-	ʧidʤʲɘ	či´ǯǯ	t͡ʃidd͡ʒʲɘ	0.733333333	x
 4293	Skolt Saami	tuâǥǥ-	tuâǥǥ-	tuɛcc͡çʲɛn	tue´ǩǩen	tuɛcc͡çʲɛn	0.75	x
 5703	Skolt Saami	ååumaž ~ ooumaž	ååumaž ~ ooumaž	ɔːlmɐ	åålm	ɔːlmɐ	0.8	x
-195	Skolt Saami	di ~ da etc.	di ~ da etc.	diɐ	di	diɐ	0.8333333333333334	x
-2968	South Saami	gïermesj	gïermesj	kɨɛrmɛʃɛ	gïermesje	kɨɛrmɛʃɛ	0.1111111111111111	x
+195	Skolt Saami	di ~ da etc.	di ~ da etc.	diɐ	di	diɐ	0.833333333	x
+2968	South Saami	gïermesj	gïermesj	kɨɛrmɛʃɛ	gïermesje	kɨɛrmɛʃɛ	0.111111111	x
 1348	South Saami	nieljie	nieljie	ɲiɛljiɛ	njieljie	ɲiɛljiɛ	0.125	x
 2753	South Saami	bestele	bestele	pɛstɛlɛs	besteles	pɛstɛlɛs	0.125	x
-4225	South Saami	dijjieh	dijjieh	tijːiɛ	dijjie	tijːiɛ	0.1428571428571428	x
-4798	South Saami	gåhkese	guhkene	kahkɛsɛ	gahkese	kahkɛsɛ	0.1428571428571428	x
-4799	South Saami	gåhkese	guhkene	kahkɛsɛ	gahkese	kahkɛsɛ	0.1428571428571428	x
-333	South Saami	madtan	madtan	mɔtːan	mådtan	mɔtːan	0.1666666666666667	x
-1411	South Saami	dïeves	dïeves	tɨɛβɛ	dïeve	tɨɛβɛ	0.1666666666666667	x
+4225	South Saami	dijjieh	dijjieh	tijːiɛ	dijjie	tijːiɛ	0.142857143	x
+4798	South Saami	gåhkese	guhkene	kahkɛsɛ	gahkese	kahkɛsɛ	0.142857143	x
+4799	South Saami	gåhkese	guhkene	kahkɛsɛ	gahkese	kahkɛsɛ	0.142857143	x
+333	South Saami	madtan	madtan	mɔtːan	mådtan	mɔtːan	0.166666667	x
+1411	South Saami	dïeves	dïeves	tɨɛβɛ	dïeve	tɨɛβɛ	0.166666667	x
 492	South Saami	voejngedh	voejngedh	βuʌjŋɛhtidh	voejngehtidh	βuʌjŋɛhtidh	0.25	x
-4958	South Saami	bååhkesjidh	bååhkesjidh	poːhkɛdh	bååhkedh	poːhkɛdh	0.2727272727272727	x
-666	South Saami	ryöknedh	ryöknedh	ryœknɛhtidh	ryöknehtidh	ryœknɛhtidh	0.2727272727272727	x
-2181	South Saami	gïetskese	gïetskese	kiɛʦkiɛs	gietskies	kiɛt͡skiɛs	0.3333333333333333	x
+4958	South Saami	bååhkesjidh	bååhkesjidh	poːhkɛdh	bååhkedh	poːhkɛdh	0.272727273	x
+666	South Saami	ryöknedh	ryöknedh	ryœknɛhtidh	ryöknehtidh	ryœknɛhtidh	0.272727273	x
+2181	South Saami	gïetskese	gïetskese	kiɛʦkiɛs	gietskies	kiɛt͡skiɛs	0.333333333	x
 6451	South Saami	raajne	raajne	ræːjniɛs	raejnies	ræːjniɛs	0.375	x
-9349	South Saami	lyövlehke	leevles ~ löövles	leːβlɛs	leevles	leːβlɛs	0.5555555555555556	x
-9348	South Saami	lyövlehke	leevles ~ löövles	leːβlɛs	leevles	leːβlɛs	0.5555555555555556	x
+9349	South Saami	lyövlehke	leevles ~ löövles	leːβlɛs	leevles	leːβlɛs	0.555555556	x
+9348	South Saami	lyövlehke	leevles ~ löövles	leːβlɛs	leevles	leːβlɛs	0.555555556	x
 4102	South Saami	skåake ~ skåajje	skåake ~ skåajje	skoɒjːɛ	skåajje	skoɒjːɛ	0.5625	x
-9215	South Saami	njaltja ~ njaltje	njaltja ~ njaltje	ɲalʧa	njaltja	ɲalt͡ʃa	0.5882352941176471	x
+9215	South Saami	njaltja ~ njaltje	njaltja ~ njaltje	ɲalʧa	njaltja	ɲalt͡ʃa	0.588235294	x
 4102	South Saami	skåake ~ skåajje	skåake ~ skåajje	skoɒkɛ	skåake	skoɒkɛ	0.625	x
-5695	South Saami	alma ~ ålma	alma ~ ålma	ɔlma	ålma	ɔlma	0.6363636363636364	x
+5695	South Saami	alma ~ ålma	alma ~ ålma	ɔlma	ålma	ɔlma	0.636363636	x
 5682	Tundra Nenets	mun°	mun°	mun	мун	mun	0.25	x
 9741	Tundra Nenets	sæw°	sæw°	sæw	сэв	sæw	0.25	x
 4157	Tundra Nenets	xəli	xəli	xəlɨ	хӑлы	xəlɨ	0.25	x
@@ -405,14 +405,14 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 7234	Tundra Nenets	xæm	xæm	xæmʔ	хэмʼ	xæmʔ	0.25	x
 8960	Tundra Nenets	təb°	təb°	təb	тӑб	təb	0.25	x
 2861	Tundra Nenets	num	num	numʔ	нумʼ	numʔ	0.25	x
-9334	Tundra Nenets	xudumka	xudumka	xudumɡɑ	худумга	xudumɡɑ	0.2857142857142857	x
-2661	Tundra Nenets	to	to	toː	то	toː	0.3333333333333333	x
-1865	Tundra Nenets	to	to	toː	то	toː	0.3333333333333333	x
-4191	Tundra Nenets	po	po	poː	по	poː	0.3333333333333333	x
-2740	Tundra Nenets	sædə°	sædə°	sædəsʲ	сэдӑ(сь)	sædəsʲ	0.3333333333333333	x
-4133	Tundra Nenets	pyi	pyi	pʲi	пи	pʲi	0.3333333333333333	x
-5954	Tundra Nenets	xarəd°	xarəd°	xɑrəd	харӑд	xɑrəd	0.3333333333333333	x
-63	Tundra Nenets	pidər°	pidər°	pɨdər	пыдӑр	pɨdər	0.3333333333333333	x
+9334	Tundra Nenets	xudumka	xudumka	xudumɡɑ	худумга	xudumɡɑ	0.285714286	x
+2661	Tundra Nenets	to	to	toː	то	toː	0.333333333	x
+1865	Tundra Nenets	to	to	toː	то	toː	0.333333333	x
+4191	Tundra Nenets	po	po	poː	по	poː	0.333333333	x
+2740	Tundra Nenets	sædə°	sædə°	sædəsʲ	сэдӑ(сь)	sædəsʲ	0.333333333	x
+4133	Tundra Nenets	pyi	pyi	pʲi	пи	pʲi	0.333333333	x
+5954	Tundra Nenets	xarəd°	xarəd°	xɑrəd	харӑд	xɑrəd	0.333333333	x
+63	Tundra Nenets	pidər°	pidər°	pɨdər	пыдӑр	pɨdər	0.333333333	x
 7639	Tundra Nenets	syudər-	syudər-	sʲudərʦʲ	сюдӑрць	sʲudərt͡sʲ	0.375	x
 250	Tundra Nenets	sarmyik°	sarmyik°	sɑrmʲik	сармик	sɑrmʲik	0.375	x
 803	Tundra Nenets	səbkasy°	səbkasy°	səbkɑsʲ	сӑбка(сь)	səbkɑsʲ	0.375	x
@@ -423,10 +423,10 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 1893	Tundra Nenets	weba	weba	weːbɑ	вэ̇ба	weːbɑ	0.4	x
 1669	Tundra Nenets	tyukoxəna	tyukoxəna	tʲukoːxonɑ	тюкохо̆на	tʲukoːxonɑ	0.4	x
 8027	Tundra Nenets	ŋob	ŋob	ŋoːbʔ	ӈобˮ	ŋoːbʔ	0.4	x
-4100	Tundra Nenets	pedara	pedara	peːdɑrɑ	пэ̇дара	peːdɑrɑ	0.4285714285714285	x
-2955	Tundra Nenets	salmuy°	salmuy°	sɑlmuj	салмуй	sɑlmuj	0.4285714285714285	x
-8374	Tundra Nenets	pəryidye°	pəryidye°	pərʲidʲeːɲɑ	пӑриденя	pərʲidʲeːɲɑ	0.4545454545454545	x
-9368	Tundra Nenets	səŋkowocy°	səŋkowocy°	səŋɡoːwoːtɑ	сӑӈговота	səŋɡoːwoːtɑ	0.4545454545454545	x
+4100	Tundra Nenets	pedara	pedara	peːdɑrɑ	пэ̇дара	peːdɑrɑ	0.428571429	x
+2955	Tundra Nenets	salmuy°	salmuy°	sɑlmuj	салмуй	sɑlmuj	0.428571429	x
+8374	Tundra Nenets	pəryidye°	pəryidye°	pərʲidʲeːɲɑ	пӑриденя	pərʲidʲeːɲɑ	0.454545455	x
+9368	Tundra Nenets	səŋkowocy°	səŋkowocy°	səŋɡoːwoːtɑ	сӑӈговота	səŋɡoːwoːtɑ	0.454545455	x
 3636	Tundra Nenets	syidya	syidya	sʲidʲɑ	сидя	sʲidʲɑ	0.5	x
 8479	Tundra Nenets	məxa	məxa	mɑxɑ	маха	mɑxɑ	0.5	x
 7441	Tundra Nenets	tyibya	tyibya	tʲibʲɑ	тибя	tʲibʲɑ	0.5	x
@@ -449,18 +449,18 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 9139	Tundra Nenets	mid°	mid°	mɨd	мыд	mɨd	0.5	x
 10010	Tundra Nenets	tyírtya sarmyik°	tyírtya sarmyik°	tʲirtʲɑsɑrmʲik	тиртя сармик	tʲirtʲɑ sɑrmʲik	0.5	x
 9023	Tundra Nenets	pyisyəncy°	pyisyəncy°	pʲisʲənzʲ	пися̆нзь	pʲisʲənzʲ	0.5	x
-1407	Tundra Nenets	xənyimcy°	xənyimcy°	xəɲimzʲ	хӑнимзь	xəɲimzʲ	0.5555555555555556	x
-7772	Tundra Nenets	wərcawey°	wərcawey°	wərʦɑwæj	вӑрцавэй	wərt͡sɑwæj	0.5555555555555556	x
-9703	Tundra Nenets	syur°mpə°	syur°mpə°	sʲurmbəsʲ	сюрмбӑ(сь)	sʲurmbəsʲ	0.5555555555555556	x
-1922	Tundra Nenets	pəncyeq°	pəncyeq°	pənzʲeːʔæ	пӑнзе”э̆	pənzʲeːʔæ	0.5555555555555556	x
-7411	Tundra Nenets	myincy°	myincy°	mʲinzʲ	минзь	mʲinzʲ	0.5714285714285714	x
-8990	Tundra Nenets	nəmtə°	nəmtə°	nɑmdəsʲ	на́мдӑ(сь)	nɑmdəsʲ	0.5714285714285714	x
-4252	Tundra Nenets	pid°raq	pid°raq	pɨdərɑʔ	пыдӑраˮ	pɨdərɑʔ	0.5714285714285714	x
-4303	Tundra Nenets	tyax°na	tyax°na	tʲɑxənɑ	тяхӑна	tʲɑxənɑ	0.5714285714285714	x
-2799	Tundra Nenets	xinocy°	xinocy°	xɨnoːʦʲ	хыноць	xɨnoːt͡sʲ	0.5714285714285714	x
-6527	Tundra Nenets	xasyə-	xasyə-	xɑsʲədɑ	хася̆да	xɑsʲədɑ	0.5714285714285714	x
-3825	Tundra Nenets	xəl°ta°	xəl°ta°	xəltɑsʲ	хӑлта(сь)	xəltɑsʲ	0.5714285714285714	x
-9884	Tundra Nenets	syarə°	syarə°	sʲɑrəsʲ	сярӑ(сь)	sʲɑrəsʲ	0.5714285714285714	x
+1407	Tundra Nenets	xənyimcy°	xənyimcy°	xəɲimzʲ	хӑнимзь	xəɲimzʲ	0.555555556	x
+7772	Tundra Nenets	wərcawey°	wərcawey°	wərʦɑwæj	вӑрцавэй	wərt͡sɑwæj	0.555555556	x
+9703	Tundra Nenets	syur°mpə°	syur°mpə°	sʲurmbəsʲ	сюрмбӑ(сь)	sʲurmbəsʲ	0.555555556	x
+1922	Tundra Nenets	pəncyeq°	pəncyeq°	pənzʲeːʔæ	пӑнзе”э̆	pənzʲeːʔæ	0.555555556	x
+7411	Tundra Nenets	myincy°	myincy°	mʲinzʲ	минзь	mʲinzʲ	0.571428571	x
+8990	Tundra Nenets	nəmtə°	nəmtə°	nɑmdəsʲ	на́мдӑ(сь)	nɑmdəsʲ	0.571428571	x
+4252	Tundra Nenets	pid°raq	pid°raq	pɨdərɑʔ	пыдӑраˮ	pɨdərɑʔ	0.571428571	x
+4303	Tundra Nenets	tyax°na	tyax°na	tʲɑxənɑ	тяхӑна	tʲɑxənɑ	0.571428571	x
+2799	Tundra Nenets	xinocy°	xinocy°	xɨnoːʦʲ	хыноць	xɨnoːt͡sʲ	0.571428571	x
+6527	Tundra Nenets	xasyə-	xasyə-	xɑsʲədɑ	хася̆да	xɑsʲədɑ	0.571428571	x
+3825	Tundra Nenets	xəl°ta°	xəl°ta°	xəltɑsʲ	хӑлта(сь)	xəltɑsʲ	0.571428571	x
+9884	Tundra Nenets	syarə°	syarə°	sʲɑrəsʲ	сярӑ(сь)	sʲɑrəsʲ	0.571428571	x
 8457	Tundra Nenets	núsy°	núsy°	nusʲ	нусь	nusʲ	0.6	x
 463	Tundra Nenets	tosy°	tosy°	toːsʲ	тось	toːsʲ	0.6	x
 9244	Tundra Nenets	weya	weya	weːjɑ	вэ̇я	weːjɑ	0.6	x
@@ -488,34 +488,34 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 8698	Tundra Nenets	sar°qnyu	sar°qnyu	sɑrʔɲu	сарˮню	sɑrʔɲu	0.625	x
 2897	Tundra Nenets	xonyo°	xonyo°	xoːɲoːsʲ	хонё(сь)	xoːɲoːsʲ	0.625	x
 8544	Tundra Nenets	myercya	myercya	mʲeːrʦʲɑ	мерця	mʲeːrt͡sʲɑ	0.625	x
-1150	Tundra Nenets	səmp°lyaŋk°	səmp°lyaŋk°	səmʎɑŋɡ	сӑмляӈг	səmʎɑŋɡ	0.6363636363636364	x
-1339	Tundra Nenets	syinyo	syinyo	sʲiɲoː	синё	sʲiɲoː	0.6666666666666666	x
-8343	Tundra Nenets	tye-nyana	tye-nyana	tʲeːɲɑnɑ	теняна	tʲeːɲɑnɑ	0.6666666666666666	x
-3983	Tundra Nenets	serako	ser	seːrʔ	сэ̇рˮ	seːrʔ	0.6666666666666666	x
-3410	Tundra Nenets	tay°na	tay°na	təɲɑnɑ	тӑняна	təɲɑnɑ	0.6666666666666666	x
-8316	Tundra Nenets	tyuku°	tyuku°	tʲikɨ	тикы	tʲikɨ	0.6666666666666666	x
-3189	Tundra Nenets	pya	pya	pʲɑ	пя	pʲɑ	0.6666666666666666	x
-3410	Tundra Nenets	tay°na	tay°na	tɑjnɑ	тайна	tɑjnɑ	0.6666666666666666	x
-4891	Tundra Nenets	tyonya	tyonya	tʲoːɲɑ	тёня	tʲoːɲɑ	0.6666666666666666	x
-4220	Tundra Nenets	tasyexey°	tasyexey°	tɑsʲeːxæj	тасехэй	tɑsʲeːxæj	0.6666666666666666	x
-2834	Tundra Nenets	ŋamtyo°	ŋamtyo°	ŋɑmdʲoːsʲ	ӈамдёсь	ŋɑmdʲoːsʲ	0.6666666666666666	x
-6791	Tundra Nenets	təh	təh	tɑʔ	таʼ(н)	tɑʔ	0.6666666666666666	x
-3982	Tundra Nenets	serako	ser	seːrʔ	сэ̇рˮ	seːrʔ	0.6666666666666666	x
-9638	Tundra Nenets	pya	pya	pʲɑ	пя	pʲɑ	0.6666666666666666	x
-10137	Tundra Nenets	nyudya	nyudya	ɲudʲɑ	нюдя	ɲudʲɑ	0.6666666666666666	x
-1831	Tundra Nenets	xada°	xada°	xɑdɑsʲ	хада(сь)	xɑdɑsʲ	0.6666666666666666	x
-7030	Tundra Nenets	mancy°	mancy°	mɑnzʲ	манзь	mɑnzʲ	0.6666666666666666	x
-1464	Tundra Nenets	ŋum	ŋum	ŋɑmdæʔ	ӈамдэˮ(д)	ŋɑmdæʔ	0.6666666666666666	x
-7581	Tundra Nenets	tyar-	tyar-	tʲɑrʦʲ	тярць	tʲɑrt͡sʲ	0.6666666666666666	x
-5914	Tundra Nenets	pyasy°	pyasy°	pʲɑsʲ	пясь	pʲɑsʲ	0.6666666666666666	x
-5823	Tundra Nenets	təxa-	təxa-	tɑxəsʲ	тахӑ(сь)	tɑxəsʲ	0.6666666666666666	x
-8245	Tundra Nenets	yiq	yiq	jiʔ	иˮ(д)	jiʔ	0.6666666666666666	x
-6435	Tundra Nenets	xúb°ta	xúb°ta	xuːbtɑ	хӯбта	xuːbtɑ	0.6666666666666666	x
+1150	Tundra Nenets	səmp°lyaŋk°	səmp°lyaŋk°	səmʎɑŋɡ	сӑмляӈг	səmʎɑŋɡ	0.636363636	x
+1339	Tundra Nenets	syinyo	syinyo	sʲiɲoː	синё	sʲiɲoː	0.666666667	x
+8343	Tundra Nenets	tye-nyana	tye-nyana	tʲeːɲɑnɑ	теняна	tʲeːɲɑnɑ	0.666666667	x
+3983	Tundra Nenets	serako	ser	seːrʔ	сэ̇рˮ	seːrʔ	0.666666667	x
+3410	Tundra Nenets	tay°na	tay°na	təɲɑnɑ	тӑняна	təɲɑnɑ	0.666666667	x
+8316	Tundra Nenets	tyuku°	tyuku°	tʲikɨ	тикы	tʲikɨ	0.666666667	x
+3189	Tundra Nenets	pya	pya	pʲɑ	пя	pʲɑ	0.666666667	x
+3410	Tundra Nenets	tay°na	tay°na	tɑjnɑ	тайна	tɑjnɑ	0.666666667	x
+4891	Tundra Nenets	tyonya	tyonya	tʲoːɲɑ	тёня	tʲoːɲɑ	0.666666667	x
+4220	Tundra Nenets	tasyexey°	tasyexey°	tɑsʲeːxæj	тасехэй	tɑsʲeːxæj	0.666666667	x
+2834	Tundra Nenets	ŋamtyo°	ŋamtyo°	ŋɑmdʲoːsʲ	ӈамдёсь	ŋɑmdʲoːsʲ	0.666666667	x
+6791	Tundra Nenets	təh	təh	tɑʔ	таʼ(н)	tɑʔ	0.666666667	x
+3982	Tundra Nenets	serako	ser	seːrʔ	сэ̇рˮ	seːrʔ	0.666666667	x
+9638	Tundra Nenets	pya	pya	pʲɑ	пя	pʲɑ	0.666666667	x
+10137	Tundra Nenets	nyudya	nyudya	ɲudʲɑ	нюдя	ɲudʲɑ	0.666666667	x
+1831	Tundra Nenets	xada°	xada°	xɑdɑsʲ	хада(сь)	xɑdɑsʲ	0.666666667	x
+7030	Tundra Nenets	mancy°	mancy°	mɑnzʲ	манзь	mɑnzʲ	0.666666667	x
+1464	Tundra Nenets	ŋum	ŋum	ŋɑmdæʔ	ӈамдэˮ(д)	ŋɑmdæʔ	0.666666667	x
+7581	Tundra Nenets	tyar-	tyar-	tʲɑrʦʲ	тярць	tʲɑrt͡sʲ	0.666666667	x
+5914	Tundra Nenets	pyasy°	pyasy°	pʲɑsʲ	пясь	pʲɑsʲ	0.666666667	x
+5823	Tundra Nenets	təxa-	təxa-	tɑxəsʲ	тахӑ(сь)	tɑxəsʲ	0.666666667	x
+8245	Tundra Nenets	yiq	yiq	jiʔ	иˮ(д)	jiʔ	0.666666667	x
+6435	Tundra Nenets	xúb°ta	xúb°ta	xuːbtɑ	хӯбта	xuːbtɑ	0.666666667	x
 10005	Tundra Nenets	(nuw°h sarmyik°)	(tyírtya) sarmyik°	tʲirtʲɑsɑrmʲik	тиртя сармик	tʲirtʲɑ sɑrmʲik	0.6875	x
-1441	Tundra Nenets	panəcy°	panəcy°	pɑntɑ	панта	pɑntɑ	0.7142857142857143	x
-8911	Tundra Nenets	nya°myu	nya°myu	ɲɑmʲu	нямю	ɲɑmʲu	0.7142857142857143	x
-7299	Tundra Nenets	yataqma	yataqma	jɑtɑʔmɑ	ятаˮма	jɑtɑʔmɑ	0.7142857142857143	x
-2394	Tundra Nenets	məxa-nyaŋi°	məxa-nyaŋi°	mɑxɑɲɑŋɨ	маханяӈы	mɑxɑɲɑŋɨ	0.7272727272727273	x
+1441	Tundra Nenets	panəcy°	panəcy°	pɑntɑ	панта	pɑntɑ	0.714285714	x
+8911	Tundra Nenets	nya°myu	nya°myu	ɲɑmʲu	нямю	ɲɑmʲu	0.714285714	x
+7299	Tundra Nenets	yataqma	yataqma	jɑtɑʔmɑ	ятаˮма	jɑtɑʔmɑ	0.714285714	x
+2394	Tundra Nenets	məxa-nyaŋi°	məxa-nyaŋi°	mɑxɑɲɑŋɨ	маханяӈы	mɑxɑɲɑŋɨ	0.727272727	x
 3764	Tundra Nenets	piya	piya	pɨjɑ	пыя	pɨjɑ	0.75	x
 640	Tundra Nenets	tyecyə°	tyecyə°	tʲeːʦʲdɑ	тецьда	tʲeːt͡sʲdɑ	0.75	x
 9212	Tundra Nenets	ŋaya	ŋaya	ŋɑjɑ	ӈая	ŋɑjɑ	0.75	x
@@ -530,49 +530,49 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 9081	Tundra Nenets	syata-nyaŋi°	syata-nyaŋi°	sʲɑtɑɲɑŋɨ	сятаняӈы	sʲɑtɑɲɑŋɨ	0.75	x
 5193	Tundra Nenets	yík°	yík°	jik	ик	jik	0.75	x
 7494	Tundra Nenets	tyírcy°h	tyírcy°h	tʲirʦʲ	тирць(н)	tʲirt͡sʲ	0.75	x
-4495	Tundra Nenets	nyenyaŋk°	nyenyaŋk°	ɲeːɲɑŋɡ	неняӈг	ɲeːɲɑŋɡ	0.7777777777777778	x
-9947	Tundra Nenets	mənecy°	mənecy°	mɑɲijeːsʲ	мание(сь)	mɑɲijeːsʲ	0.7777777777777778	x
+4495	Tundra Nenets	nyenyaŋk°	nyenyaŋk°	ɲeːɲɑŋɡ	неняӈг	ɲeːɲɑŋɡ	0.777777778	x
+9947	Tundra Nenets	mənecy°	mənecy°	mɑɲijeːsʲ	мание(сь)	mɑɲijeːsʲ	0.777777778	x
 1571	Tundra Nenets	məny°	məny°	mɑɲ	мань	mɑɲ	0.8	x
 8223	Tundra Nenets	xalya	xalya	xɑʎɑ	халя	xɑʎɑ	0.8	x
 2044	Tundra Nenets	yiryiy° ~ yiri°	yiryiy° ~ yiri°	jirʲij	ирий	jirʲij	0.8	x
 9558	Tundra Nenets	yamp°	yamp°	jɑmb	ямб	jɑmb	0.8	x
 2140	Tundra Nenets	tiya	tiya	tɨjɑk	тыяк	tɨjɑk	0.8	x
 3344	Tundra Nenets	taki°	taki°	tʲikɨ	тикы	tʲikɨ	0.8	x
-1274	Tundra Nenets	ŋəmteq	ŋəmteq	ŋɑmdædʔŋæwɑ	ӈамдэдʼ ӈэва	ŋɑmdædʔ ŋæwɑ	0.8181818181818182	x
-9800	Tundra Nenets	wenyeko ~ wenyako	wenyeko ~ wenyako	wæɲeːkoː	вэнеко	wæɲeːkoː	0.8235294117647058	x
-3852	Tundra Nenets	mənyaq	mənyaq	mɑɲɑʔ	маняˮ	mɑɲɑʔ	0.8333333333333334	x
-2056	Tundra Nenets	nyebya	nyebya	ɲeːbʲɑ	небя	ɲeːbʲɑ	0.8333333333333334	x
-962	Tundra Nenets	nyísya	nyísya	ɲisʲɑ	нися	ɲisʲɑ	0.8333333333333334	x
-8778	Tundra Nenets	yedey°	yedey°	jeːdæj	едэй	jeːdæj	0.8333333333333334	x
-3525	Tundra Nenets	nyax°r	nyax°r	ɲɑxɑrʔ	няхарˮ	ɲɑxɑrʔ	0.8333333333333334	x
-4859	Tundra Nenets	məq°la°	məq°la°	mɑʔlɑsʲ	маˮла(сь)	mɑʔlɑsʲ	0.8571428571428571	x
-6986	Tundra Nenets	xanye°	xanye°	xɑɲeːsʲ	хане(сь)	xɑɲeːsʲ	0.8571428571428571	x
-1701	Tundra Nenets	nyəqm°bə° ~ nyəqmibə°	nyəqm°bə° ~ nyəqmibə°	ɲɑʔəmbəsʲ	няˮӑмбӑ(сь)	ɲɑʔəmbəsʲ	0.8571428571428571	x
-3255	Tundra Nenets	xayer°q ~ xayer	xayer°q ~ xayer	xɑjeːrdʔ	хаердˮ(д)	xɑjeːrdʔ	0.8666666666666667	x
-2044	Tundra Nenets	yiryiy° ~ yiri°	yiryiy° ~ yiri°	jirɨ	иры	jirɨ	0.8666666666666667	x
+1274	Tundra Nenets	ŋəmteq	ŋəmteq	ŋɑmdædʔŋæwɑ	ӈамдэдʼ ӈэва	ŋɑmdædʔ ŋæwɑ	0.818181818	x
+9800	Tundra Nenets	wenyeko ~ wenyako	wenyeko ~ wenyako	wæɲeːkoː	вэнеко	wæɲeːkoː	0.823529412	x
+3852	Tundra Nenets	mənyaq	mənyaq	mɑɲɑʔ	маняˮ	mɑɲɑʔ	0.833333333	x
+2056	Tundra Nenets	nyebya	nyebya	ɲeːbʲɑ	небя	ɲeːbʲɑ	0.833333333	x
+962	Tundra Nenets	nyísya	nyísya	ɲisʲɑ	нися	ɲisʲɑ	0.833333333	x
+8778	Tundra Nenets	yedey°	yedey°	jeːdæj	едэй	jeːdæj	0.833333333	x
+3525	Tundra Nenets	nyax°r	nyax°r	ɲɑxɑrʔ	няхарˮ	ɲɑxɑrʔ	0.833333333	x
+4859	Tundra Nenets	məq°la°	məq°la°	mɑʔlɑsʲ	маˮла(сь)	mɑʔlɑsʲ	0.857142857	x
+6986	Tundra Nenets	xanye°	xanye°	xɑɲeːsʲ	хане(сь)	xɑɲeːsʲ	0.857142857	x
+1701	Tundra Nenets	nyəqm°bə° ~ nyəqmibə°	nyəqm°bə° ~ nyəqmibə°	ɲɑʔəmbəsʲ	няˮӑмбӑ(сь)	ɲɑʔəmbəsʲ	0.857142857	x
+3255	Tundra Nenets	xayer°q ~ xayer	xayer°q ~ xayer	xɑjeːrdʔ	хаердˮ(д)	xɑjeːrdʔ	0.866666667	x
+2044	Tundra Nenets	yiryiy° ~ yiri°	yiryiy° ~ yiri°	jirɨ	иры	jirɨ	0.866666667	x
 9115	Tundra Nenets	nyar°ya°	nyar°ya°	ɲɑrjɑnɑ	няръяна	ɲɑrjɑnɑ	0.875	x
 2714	Tundra Nenets	yah sæw°	yah sæw°	sæwkoː	сэвко	sæwkoː	0.875	x
-5232	Tundra Nenets	nyenecy°h	nyenecy°h	ɲeːnæʦʲ	ненэ́ць(н)	ɲeːnæt͡sʲ	0.8888888888888888	x
+5232	Tundra Nenets	nyenecy°h	nyenecy°h	ɲeːnæʦʲ	ненэ́ць(н)	ɲeːnæt͡sʲ	0.888888889	x
 9857	Tundra Nenets	yaərcy° ~ yarcy°	yaərcy° ~ yarcy°	jɑrʦʲ	ярць	jɑrt͡sʲ	0.9375	x
-5468	Tundra Nenets	lyarca	lyarca	ʎɑrʦoː	лярцо	ʎɑrt͡soː	1.0	x
-8571	Tundra Nenets	nyah	nyah	ɲɑʔ	няʼ(н)	ɲɑʔ	1.0	x
-5593	Tundra Nenets	nye	nye	ɲeː	не	ɲeː	1.0	x
-4073	Tundra Nenets	nye	nye	ɲeː	не	ɲeː	1.0	x
-7924	Tundra Nenets	yí	yí	ji	и	ji	1.0	x
-4440	Tundra Nenets	yúq	yúq	juʔ	юˮ(д)	juʔ	1.0	x
-7835	Veps	jumalanbembelʹ	jumalanbembelʹ	jʊmɑlɑnbɛmbɛlʲ	jumalanbembel'	jʊmɑlɑnbɛmbɛlʲ	0.07142857142857142	x
+5468	Tundra Nenets	lyarca	lyarca	ʎɑrʦoː	лярцо	ʎɑrt͡soː	1	x
+8571	Tundra Nenets	nyah	nyah	ɲɑʔ	няʼ(н)	ɲɑʔ	1	x
+5593	Tundra Nenets	nye	nye	ɲeː	не	ɲeː	1	x
+4073	Tundra Nenets	nye	nye	ɲeː	не	ɲeː	1	x
+7924	Tundra Nenets	yí	yí	ji	и	ji	1	x
+4440	Tundra Nenets	yúq	yúq	juʔ	юˮ(д)	juʔ	1	x
+7835	Veps	jumalanbembelʹ	jumalanbembelʹ	jʊmɑlɑnbɛmbɛlʲ	jumalanbembel'	jʊmɑlɑnbɛmbɛlʲ	0.071428571	x
 5445	Veps	hämähoug	hämähoug	hæmæhɔʊk	hämähouk	hæmæhɔʊk	0.125	x
-1606	Veps	südʹäin	südʹäin	sʏdæin	südäin	sʏdæin	0.1428571428571428	x
-10080	Veps	pilʹvez	pilʹvez	pilʲvɛz	pil'vez	pilʲvɛz	0.1428571428571428	x
-1677	Veps	pidʹada	pidʹada	pidɑdɑ	pidada	pidɑdɑ	0.1428571428571428	x
-6253	Veps	t́ehtas	t́ehtas	tɛxtɑs	tehtas	tɛxtɑs	0.1428571428571428	x
-4418	Veps	kümńe	kümńe	kʏmnɛ	kümne	kʏmnɛ	0.1666666666666667	x
-2934	Veps	silʹed	silʹed	silɛd	siled	silɛd	0.1666666666666667	x
-9684	Veps	josta	josta	jɔkstɑ	joksta	jɔkstɑ	0.1666666666666667	x
-2747	Veps	tʹerav	tʹerav	tɛrɑv	terav	tɛrɑv	0.1666666666666667	x
-1380	Veps	jaduda	jaduda	jædʊdɑ	jäduda	jædʊdɑ	0.1666666666666667	x
-23	Veps	lʹämoi	lʹämoi	læmɔi	lämoi	læmɔi	0.1666666666666667	x
-3966	Veps	vouged	vouged	vɑʊɡɛd	vauged	vɑʊɡɛd	0.1666666666666667	x
+1606	Veps	südʹäin	südʹäin	sʏdæin	südäin	sʏdæin	0.142857143	x
+10080	Veps	pilʹvez	pilʹvez	pilʲvɛz	pil'vez	pilʲvɛz	0.142857143	x
+1677	Veps	pidʹada	pidʹada	pidɑdɑ	pidada	pidɑdɑ	0.142857143	x
+6253	Veps	t́ehtas	t́ehtas	tɛxtɑs	tehtas	tɛxtɑs	0.142857143	x
+4418	Veps	kümńe	kümńe	kʏmnɛ	kümne	kʏmnɛ	0.166666667	x
+2934	Veps	silʹed	silʹed	silɛd	siled	silɛd	0.166666667	x
+9684	Veps	josta	josta	jɔkstɑ	joksta	jɔkstɑ	0.166666667	x
+2747	Veps	tʹerav	tʹerav	tɛrɑv	terav	tɛrɑv	0.166666667	x
+1380	Veps	jaduda	jaduda	jædʊdɑ	jäduda	jædʊdɑ	0.166666667	x
+23	Veps	lʹämoi	lʹämoi	læmɔi	lämoi	læmɔi	0.166666667	x
+3966	Veps	vouged	vouged	vɑʊɡɛd	vauged	vɑʊɡɛd	0.166666667	x
 586	Veps	pilʹv	pilʹv	pilʲv	pil'v	pilʲv	0.2	x
 9227	Veps	veŕi	veŕi	vɛri	veri	vɛri	0.2	x
 3372	Veps	käźi	käźi	kæzi	käzi	kæzi	0.2	x
@@ -601,22 +601,22 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 1908	Veps	tʹäi	tʹäi	tæi	täi	tæi	0.25	x
 43	Veps	sińä	śä	sinæ	sinä	sinæ	0.25	x
 6743	Veps	külʹptas	külʹptas	kʏlʲptæs	kül'ptäs	kʏlʲptæs	0.25	x
-3991	Veps	pühktʹa	pühktʹa	pʏxktæ	pühktä	pʏxktæ	0.2857142857142857	x
-2549	Veps	hośtʹa	hośtʹa	hɔstɑ	hosta	hɔstɑ	0.2857142857142857	x
-6977	Veps	metsata	metsata	mɛʦɑtɑ	mecata	mɛt͡sɑtɑ	0.2857142857142857	x
-680	Veps	leigota	leigota	lɛikɑtɑ	leikata	lɛikɑtɑ	0.2857142857142857	x
-5573	Veps	akk	akk	ɑk	ak	ɑk	0.3333333333333333	x
-6508	Veps	kurdeh	kurdeh	kʊrdiʒ	kurdiž	kʊrdiʒ	0.3333333333333333	x
-2689	Veps	semen	semen	sɛmnɛd	semned	sɛmnɛd	0.3333333333333333	x
-2463	Veps	tʹe	tʹe	tɛ	te	tɛ	0.3333333333333333	x
-1104	Veps	torata	torata	tɔrɑ	tora	tɔrɑ	0.3333333333333333	x
+3991	Veps	pühktʹa	pühktʹa	pʏxktæ	pühktä	pʏxktæ	0.285714286	x
+2549	Veps	hośtʹa	hośtʹa	hɔstɑ	hosta	hɔstɑ	0.285714286	x
+6977	Veps	metsata	metsata	mɛʦɑtɑ	mecata	mɛt͡sɑtɑ	0.285714286	x
+680	Veps	leigota	leigota	lɛikɑtɑ	leikata	lɛikɑtɑ	0.285714286	x
+5573	Veps	akk	akk	ɑk	ak	ɑk	0.333333333	x
+6508	Veps	kurdeh	kurdeh	kʊrdiʒ	kurdiž	kʊrdiʒ	0.333333333	x
+2689	Veps	semen	semen	sɛmnɛd	semned	sɛmnɛd	0.333333333	x
+2463	Veps	tʹe	tʹe	tɛ	te	tɛ	0.333333333	x
+1104	Veps	torata	torata	tɔrɑ	tora	tɔrɑ	0.333333333	x
 2150	Veps	lähen	lähen	læhɛlinɛ	läheline	læhɛlinɛ	0.375	x
 8101	Veps	lʹödä	lʹödä	lœdɑ	löda	lœdɑ	0.4	x
 8463	Veps	śelʹg	śelʹg	sɛlʲɡ	sel'g	sɛlʲɡ	0.4	x
 8322	Veps	eglē	eglē	ɛɡlɑi	eglai	ɛɡlɑi	0.4	x
 557	Veps	künź	künź	kʏnzʲ	künz'	kʏnzʲ	0.4	x
 7206	Veps	lyhyd	lyhyd	lʏhʏd	lühüd	lʏhʏd	0.4	x
-9310	Veps	murhāńe	murhāńe	mʊrɑhɑinɛ	murahaine	mʊrɑhɑinɛ	0.4444444444444444	x
+9310	Veps	murhāńe	murhāńe	mʊrɑhɑinɛ	murahaine	mʊrɑhɑinɛ	0.444444444	x
 1878	Veps	lʹeht	lʹeht	lɛxtɛz	lehtez	lɛxtɛz	0.5	x
 4082	Veps	mets	mets	mɛʦ	mec	mɛt͡s	0.5	x
 5688	Veps	meź	meź	mɛzʲ	mez'	mɛzʲ	0.5	x
@@ -633,51 +633,71 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 3704	Veps	lʹäm	lʹäm	læmʲ	läm'	læmʲ	0.5	x
 7085	Veps	tülʹts	tülʹts	tʏlʲʦ	tül'c	tʏlʲt͡s	0.5	x
 9446	Veps	śödä	śödä	sœdɑ	söda	sœdɑ	0.5	x
-4945	Veps	pašta ~ paštta	pašta ~ paštta	pɑʃtːɑ	paštta	pɑʃtːɑ	0.5714285714285714	x
-9283	Veps	kanta ~ kantta	kanta ~ kantta	kɑntːɑ	kantta	kɑntːɑ	0.5714285714285714	x
-455	Veps	tulda ~ tūda	tulda ~ tūda	tʊldɑ	tulda	tʊldɑ	0.5833333333333334	x
-8977	Veps	kulda ~ kūda	kulda ~ kūda	kʊldɑ	kulda	kʊldɑ	0.5833333333333334	x
+4945	Veps	pašta ~ paštta	pašta ~ paštta	pɑʃtːɑ	paštta	pɑʃtːɑ	0.571428571	x
+9283	Veps	kanta ~ kantta	kanta ~ kantta	kɑntːɑ	kantta	kɑntːɑ	0.571428571	x
+455	Veps	tulda ~ tūda	tulda ~ tūda	tʊldɑ	tulda	tʊldɑ	0.583333333	x
+8977	Veps	kulda ~ kūda	kulda ~ kūda	kʊldɑ	kulda	kʊldɑ	0.583333333	x
 9513	Veps	reiž	reiž	riːʒɛ	riiže	riːʒɛ	0.6	x
-748	Veps	kolda ~ kouda	kolda ~ kouda	kɔldɑ	kolda	kɔldɑ	0.6153846153846154	x
+748	Veps	kolda ~ kouda	kolda ~ kouda	kɔldɑ	kolda	kɔldɑ	0.615384615	x
 3372	Veps	käźi	käźi	kæzitɛrɑ	käzitera	kæzitɛrɑ	0.625	x
 3673	Veps	kävelta ~ kävuda	kävelta ~ kävuda	kævʊdɑ	kävuda	kævʊdɑ	0.625	x
-1554	Veps	mińa ~ mä	mińa ~ mä	minæ	minä	minæ	0.6666666666666666	x
-8765	Veps	uź	uź	ʊzʲ	uz'	ʊzʲ	0.6666666666666666	x
+1554	Veps	mińa ~ mä	mińa ~ mä	minæ	minä	minæ	0.666666667	x
+8765	Veps	uź	uź	ʊzʲ	uz'	ʊzʲ	0.666666667	x
 2718	Veps	ombōda ~ ombleda	ombōda ~ ombleda	ɔmbɛltɑ	ombelta	ɔmbɛltɑ	0.6875	x
-484	Veps	hengitada ~ henkta	hengitada ~ henkta	hɛŋktæ	henktä	hɛŋktæ	0.7222222222222222	x
-652	Karelian	lukie	lukie	lɑskiɛ	laskie	lɑskiɛ	0.3333333333333333	
-2548	Karelian	hivuo	hivuo	hiɛrʊɔ	hieruo	hiɛrʊɔ	0.3333333333333333	
-2266	Karelian	leikitä	leikitä	lɛikːiɛ	leikkie	lɛikːiɛ	0.4285714285714285	
-4944	Karelian	paistoa	paistoa	pɑisːɛlːɑ	paissella	pɑisːɛlːɑ	0.4444444444444444	
+484	Veps	hengitada ~ henkta	hengitada ~ henkta	hɛŋktæ	henktä	hɛŋktæ	0.722222222	x
+4565	Karelian	sytytteä	sytytteä	sytytːyæ	sytyttyä	sytytːyæ	0.125	x
+4570	Karelian	viritteä	viritteä	viritːyæ	virittyä	viritːyæ	0.125	x
+8824	Karelian	tieteä	tieteä	tiɛtyæ	tietyä	tiɛtyæ	0.166666667	x
+1288	Karelian	lenteä	lenteä	lɛntyæ	lentyä	lɛntyæ	0.166666667	x
+8710	Karelian	paloa	paloa	pɑlʊɑ	palua	pɑlʊɑ	0.2	x
+5997	Karelian	eäni	eäni	iæni	iäni	iæni	0.25	x
+1960	Karelian	eleä	eleä	ɛlyæ	elyä	ɛlyæ	0.25	x
+8039	Karelian	heän	heän	hiæn	hiän	hiæn	0.25	x
+3772	Karelian	kärpäine	kärpäine	kærpæni	kärpäni	kærpæni	0.25	x
+9030	Karelian	moa	moa	mʊɑ	mua	mʊɑ	0.333333333	x
+652	Karelian	lukie	lukie	lɑskiɛ	laskie	lɑskiɛ	0.333333333	
+2548	Karelian	hivuo	hivuo	hiɛrʊɔ	hieruo	hiɛrʊɔ	0.333333333	
+1288	Karelian	lenteä	lenteä	lɛnːɛlːæ	lennellä	lɛnːɛlːæ	0.375	
+5076	Karelian	olla nälkähine	olla nälkähine	nælkæhini	nälkähini	nælkæhini	0.428571429	x
+2266	Karelian	leikitä	leikitä	lɛikːiɛ	leikkie	lɛikːiɛ	0.428571429	
+2902	Karelian	haistoa	haistoa	hɑisːɛlːɑ	haissella	hɑisːɛlːɑ	0.444444444	
+4944	Karelian	paistoa	paistoa	pɑisːɛlːɑ	paissella	pɑisːɛlːɑ	0.444444444	
 5065	Karelian	uitie	uitie	læxtiɛ	lähtie	læxtiɛ	0.5	
 4480	Karelian	seäksi	seäksi	siæski	siäski	siæski	0.5	
 1646	Karelian	teällä	teällä	tæsːæ	tässä	tæsːæ	0.5	
 1605	Karelian	seän	seän	syvæin	syväin	syvæin	0.5	
 2238	Karelian	kisata	kisata	pɛlɑtɑ	pelata	pɛlɑtɑ	0.5	
-2333	Karelian	työnteä	työnteä	lykætæ	lykätä	lykætæ	0.5714285714285714	
-7743	Karelian	revukas	revukas	rɛtʊni	retuni	rɛtʊni	0.5714285714285714	
-2149	Karelian	lähellä	lähellä	læhini	lähini	læhini	0.5714285714285714	
-685	Karelian	halata	halata	lɛikɑtɑ	leikata	lɛikɑtɑ	0.5714285714285714	
+8710	Karelian	paloa	paloa	pɔltːɑː	polttaa	pɔltːɑː	0.571428571	
+7242	Karelian	uneksie	uneksie	ʊni	uni	ʊni	0.571428571	
+2333	Karelian	työnteä	työnteä	lykætæ	lykätä	lykætæ	0.571428571	
+7743	Karelian	revukas	revukas	rɛtʊni	retuni	rɛtʊni	0.571428571	
+2149	Karelian	lähellä	lähellä	læhini	lähini	læhini	0.571428571	
+685	Karelian	halata	halata	lɛikɑtɑ	leikata	lɛikɑtɑ	0.571428571	
 4758	Karelian	koja	koja	kʊɔri	kuori	kʊɔri	0.6	
-1714	Karelian	milleh	milleh	mitɛin	mitein	mitɛin	0.6666666666666666	
-7590	Karelian	piteä	piteä	sæilytːyæ	säilyttyä	sæilytːyæ	0.6666666666666666	
-2880	Karelian	uinota	uinota	mʊɑtɑ	muata	mʊɑtɑ	0.6666666666666666	
-1726	Karelian	kuin	kuin	mitɛin	mitein	mitɛin	0.6666666666666666	
-233	Karelian	elukka	elävä	ɛlæin	eläin	ɛlæin	0.6666666666666666	
-388	Karelian	vattša	vattša	mɑhɑ	maha	mɑhɑ	0.6666666666666666	
-6535	Karelian	kavota	kavota	hævitæ	hävitä	hævitæ	0.6666666666666666	
-8110	Karelian	iskie	iskie	kɔpsiɛ	kopsie	kɔpsiɛ	0.6666666666666666	
-823	Karelian	rynnäs	rynnäs	rintɑ	rinta	rintɑ	0.6666666666666666	
-1379	Karelian	jeätyö	jeätyö	kylmæxtyæ	kylmähtyä	kylmæxtyæ	0.6666666666666666	
-5805	Karelian	ohkoa	ohkoa	vɔivɔtːʊɑ	voivottua	vɔivɔtːʊɑ	0.6666666666666666	
-234	Karelian	elukka	elävä	ɛlæin	eläin	ɛlæin	0.6666666666666666	
-6647	Karelian	katškera ~ kitškerä	katškera ~ kitškerä	kɑrkiɛ	karkie	kɑrkiɛ	0.7142857142857143	
-4944	Karelian	paistoa	paistoa	lɛipʊɔ	leipuo	lɛipʊɔ	0.7142857142857143	
-5610	Karelian	sulkie	sulkie	sɑlvɑtɑ	salvata	sɑlvɑtɑ	0.7142857142857143	
-2266	Karelian	leikitä	leikitä	pɛlɑtɑ	pelata	pɛlɑtɑ	0.7142857142857143	
-3539	Karelian	lykätä	lykätä	hɛitːyæ	heittyä	hɛitːyæ	0.7142857142857143	
-9652	Karelian	pakkuo	pakkuo	lɑŋkɛtɑ	lanketa	lɑŋkɛtɑ	0.7142857142857143	
-1091	Karelian	tapella	tapella	tɔrɑ	tora	tɔrɑ	0.7142857142857143	
+917	Karelian	isra	isra	rɑsvɑ	rasva	rɑsvɑ	0.6	
+9402	Karelian	vanha ~ vahna	vanha ~ vahna	vɑnhɑ	vanha	vɑnhɑ	0.615384615	x
+4565	Karelian	sytytteä	sytytteä	viritːyæ	virittyä	viritːyæ	0.625	
+4570	Karelian	viritteä	viritteä	sytytːyæ	sytyttyä	sytytːyæ	0.625	
+1714	Karelian	milleh	milleh	mitɛin	mitein	mitɛin	0.666666667	
+7590	Karelian	piteä	piteä	sæilytːyæ	säilyttyä	sæilytːyæ	0.666666667	
+2880	Karelian	uinota	uinota	mʊɑtɑ	muata	mʊɑtɑ	0.666666667	
+1726	Karelian	kuin	kuin	mitɛin	mitein	mitɛin	0.666666667	
+233	Karelian	elukka	elävä	ɛlæin	eläin	ɛlæin	0.666666667	
+388	Karelian	vattša	vattša	mɑhɑ	maha	mɑhɑ	0.666666667	
+6535	Karelian	kavota	kavota	hævitæ	hävitä	hævitæ	0.666666667	
+8110	Karelian	iskie	iskie	kɔpsiɛ	kopsie	kɔpsiɛ	0.666666667	
+823	Karelian	rynnäs	rynnäs	rintɑ	rinta	rintɑ	0.666666667	
+1379	Karelian	jeätyö	jeätyö	kylmæxtyæ	kylmähtyä	kylmæxtyæ	0.666666667	
+5805	Karelian	ohkoa	ohkoa	vɔivɔtːʊɑ	voivottua	vɔivɔtːʊɑ	0.666666667	
+234	Karelian	elukka	elävä	ɛlæin	eläin	ɛlæin	0.666666667	
+8833	Karelian	tuntie ~ tuta	tuntie ~ tuta	tiɛtyæ	tietyä	tiɛtyæ	0.692307692	
+6647	Karelian	katškera ~ kitškerä	katškera ~ kitškerä	kɑrkiɛ	karkie	kɑrkiɛ	0.714285714	
+4944	Karelian	paistoa	paistoa	lɛipʊɔ	leipuo	lɛipʊɔ	0.714285714	
+5610	Karelian	sulkie	sulkie	sɑlvɑtɑ	salvata	sɑlvɑtɑ	0.714285714	
+2266	Karelian	leikitä	leikitä	pɛlɑtɑ	pelata	pɛlɑtɑ	0.714285714	
+3539	Karelian	lykätä	lykätä	hɛitːyæ	heittyä	hɛitːyæ	0.714285714	
+9652	Karelian	pakkuo	pakkuo	lɑŋkɛtɑ	lanketa	lɑŋkɛtɑ	0.714285714	
+1091	Karelian	tapella	tapella	tɔrɑ	tora	tɔrɑ	0.714285714	
 2801	Karelian	pajattoa	pajattoa	lɑʊlʊɑ	laulua	lɑʊlʊɑ	0.75	
 8066	Karelian	kuka	ku	kɛn	ken	kɛn	0.75	
 8065	Karelian	kuka	ku	kɛn	ken	kɛn	0.75	
@@ -689,65 +709,93 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 838	Karelian	nänni	nänni	rintɑ	rinta	rintɑ	0.8	
 622	Karelian	vilu	vilu	kylmæ	kylmä	kylmæ	0.8	
 5271	Karelian	noama	noama	nækœ	näkö	nækœ	0.8	
-5613	Karelian	panna umpeh	panna umpeh	sɑlvɑtɑ	salvata	sɑlvɑtɑ	0.8181818181818182	
-881	Karelian	tomu ~ tömy	tomu ~ tömy	pœly	pöly	pœly	0.8181818181818182	
-9339	Karelian	raskas	raskas	jykiɛ	jykie	jykiɛ	0.8333333333333334	
-5892	Karelian	alkoa	alkoa	rʊvɛtɑ	ruveta	rʊvɛtɑ	0.8333333333333334	
-1048	Karelian	heyhen	heyhen	kynæ	kynä	kynæ	0.8333333333333334	
-2487	Karelian	toroka	toroka	tiɛ	tie	tiɛ	0.8333333333333334	
-7037	Karelian	paissa	paissa	sɑnʊɔ	sanuo	sɑnʊɔ	0.8333333333333334	
-3539	Karelian	lykätä	lykätä	visɑtɑ	visata	visɑtɑ	0.8333333333333334	
-3402	Karelian	tuolla	tuolla	siɛlæ	sielä	siɛlæ	0.8333333333333334	
-7742	Karelian	likaine	likaine	rɛtʊni	retuni	rɛtʊni	0.8571428571428571	
-2238	Karelian	kisata	kisata	lɛikːiɛ	leikkie	lɛikːiɛ	0.8571428571428571	
-1223	Karelian	virrata	virrata	vɑlʊɔ	valuo	vɑlʊɔ	0.8571428571428571	
-2975	Karelian	kyy	kyy	kiærmis	kiärmis	kiærmis	0.8571428571428571	
-5415	Karelian	teräväh	teräväh	rʊtːɔh	ruttoh	rʊtːɔh	0.8571428571428571	
-7743	Karelian	revukas	revukas	likɑni	likani	likɑni	0.8571428571428571	
-1315	Karelian	sumu	sumu	huːvvɛh	huuvveh	huːvvɛh	0.8571428571428571	
-1331	Karelian	tumana	tumana	huːvvɛh	huuvveh	huːvvɛh	0.8571428571428571	
+1929	Karelian	viruo	viruo	vɛnyœ	venyö	vɛnyœ	0.8	
+9599	Karelian	puhaltoa ~ puhuo	puhaltoa ~ puhuo	tuːlːɑ	tuulla	tuːlːɑ	0.8125	
+5613	Karelian	panna umpeh	panna umpeh	sɑlvɑtɑ	salvata	sɑlvɑtɑ	0.818181818	
+881	Karelian	tomu ~ tömy	tomu ~ tömy	pœly	pöly	pœly	0.818181818	
+4978	Karelian	poimie	poimie	nɔstʊɑ	nostua	nɔstʊɑ	0.833333333	
+9339	Karelian	raskas	raskas	jykiɛ	jykie	jykiɛ	0.833333333	
+5892	Karelian	alkoa	alkoa	rʊvɛtɑ	ruveta	rʊvɛtɑ	0.833333333	
+1048	Karelian	heyhen	heyhen	kynæ	kynä	kynæ	0.833333333	
+2487	Karelian	toroka	toroka	tiɛ	tie	tiɛ	0.833333333	
+7037	Karelian	paissa	paissa	sɑnʊɔ	sanuo	sɑnʊɔ	0.833333333	
+3539	Karelian	lykätä	lykätä	visɑtɑ	visata	visɑtɑ	0.833333333	
+3402	Karelian	tuolla	tuolla	siɛlæ	sielä	siɛlæ	0.833333333	
+7742	Karelian	likaine	likaine	rɛtʊni	retuni	rɛtʊni	0.857142857	
+2238	Karelian	kisata	kisata	lɛikːiɛ	leikkie	lɛikːiɛ	0.857142857	
+1223	Karelian	virrata	virrata	vɑlʊɔ	valuo	vɑlʊɔ	0.857142857	
+2975	Karelian	kyy	kyy	kiærmis	kiärmis	kiærmis	0.857142857	
+5415	Karelian	teräväh	teräväh	rʊtːɔh	ruttoh	rʊtːɔh	0.857142857	
+7743	Karelian	revukas	revukas	likɑni	likani	likɑni	0.857142857	
+1315	Karelian	sumu	sumu	huːvvɛh	huuvveh	huːvvɛh	0.857142857	
+1331	Karelian	tumana	tumana	huːvvɛh	huuvveh	huːvvɛh	0.857142857	
 4816	Karelian	etähänä	etähänä	lɔitːɔni	loittoni	lɔitːɔni	0.875	
 233	Karelian	elukka	elävä	siːvɑtːɑ	siivatta	siːvɑtːɑ	0.875	
 234	Karelian	elukka	elävä	siːvɑtːɑ	siivatta	siːvɑtːɑ	0.875	
 1488	Karelian	ruohoine	ruohoine	vihɑntɑ	vihanta	vihɑntɑ	0.875	
-4947	Karelian	voalie	voalie	pɑisːɛlːɑ	paissella	pɑisːɛlːɑ	0.8888888888888888	
-1487	Karelian	selenäine	selenäine	vihɑntɑ	vihanta	vihɑntɑ	0.8888888888888888	
-7974	Karelian	topie	topie	suːri	suuri	suːri	1.0	
-2200	Karelian	muu	muu	tɔini	toini	tɔini	1.0	
-189	Karelian	i	i	tɑ	ta	tɑ	1.0	
-3331	Karelian	tuo	tuo	sɛ	se	sɛ	1.0	
-9751	Karelian	poro	poro	tʊxkɑ	tuhka	tʊxkɑ	1.0	
-257	Karelian	šiivatta	šiivatta	ɛlæin	eläin	ɛlæin	1.0	
-1036	Karelian	pero	pero	kynæ	kynä	kynæ	1.0	
-8110	Karelian	iskie	iskie	lyyvvæ	lyyvvä	lyyvvæ	1.0	
-10079	Karelian	pilves	pilves	kʊvɑhɑini	kuvahaini	kʊvɑhɑini	1.0	
-9064	Karelian	hura	hura	vɑsɛn	vasen	vɑsɛn	1.0	
-2336	Karelian	tunkie	tunkie	lykætæ	lykätä	lykætæ	1.0	
-1036	Karelian	pero	pero	sʊlkɑ	sulka	sʊlkɑ	1.0	
-1048	Karelian	heyhen	heyhen	sʊlkɑ	sulka	sʊlkɑ	1.0	
-10105	Karelian	vähä	vähä	piɛni	pieni	piɛni	1.0	
-9191	Karelian	hipie	hipie	nɑxkɑ	nahka	nɑxkɑ	1.0	
-8941	Karelian	hiekka	hiekka	ʧuːrʊ	čuuru	t͡ʃuːrʊ	1.0	
-1748	Karelian	mies	mies	ʊkːɔ	ukko	ʊkːɔ	1.0	
-955	Karelian	isä	isä	tʊɑtːɔ	tuatto	tʊɑtːɔ	1.0	
-3540	Karelian	viskata	viskata	hɛitːyæ	heittyä	hɛitːyæ	1.0	
-1468	Karelian	ruoho	ruoho	hɛinæ	heinä	hɛinæ	1.0	
-8100	Karelian	lyyvä	lyyvä	kɔpsiɛ	kopsie	kɔpsiɛ	1.0	
-4947	Karelian	voalie	voalie	lɛipʊɔ	leipuo	lɛipʊɔ	1.0	
-2982	Karelian	mato	mato	kiærmis	kiärmis	kiærmis	1.0	
-5804	Karelian	yhkeä	yhkeä	vɔivɔtːʊɑ	voivottua	vɔivɔtːʊɑ	1.0	
-7818	Karelian	karva	karva	hivʊs	hivus	hivʊs	1.0	
-5968	Karelian	virsi	virsi	lɑʊlʊ	laulu	lɑʊlʊ	1.0	
-5271	Karelian	noama	noama	mʊɔtɔ	muoto	mʊɔtɔ	1.0	
+3469	Karelian	tuumaija	tuumaija	ɑjɑtɛlːɑ	ajatella	ɑjɑtɛlːɑ	0.875	
+2902	Karelian	haistoa	haistoa	nuːhɛlːɑ	nuuhella	nuːhɛlːɑ	0.875	
+4947	Karelian	voalie	voalie	pɑisːɛlːɑ	paissella	pɑisːɛlːɑ	0.888888889	
+1487	Karelian	selenäine	selenäine	vihɑntɑ	vihanta	vihɑntɑ	0.888888889	
+7974	Karelian	topie	topie	suːri	suuri	suːri	1	
+2200	Karelian	muu	muu	tɔini	toini	tɔini	1	
+189	Karelian	i	i	tɑ	ta	tɑ	1	
+3331	Karelian	tuo	tuo	sɛ	se	sɛ	1	
+9751	Karelian	poro	poro	tʊxkɑ	tuhka	tʊxkɑ	1	
+257	Karelian	šiivatta	šiivatta	ɛlæin	eläin	ɛlæin	1	
+1036	Karelian	pero	pero	kynæ	kynä	kynæ	1	
+8110	Karelian	iskie	iskie	lyyvvæ	lyyvvä	lyyvvæ	1	
+10079	Karelian	pilves	pilves	kʊvɑhɑini	kuvahaini	kʊvɑhɑini	1	
+9064	Karelian	hura	hura	vɑsɛn	vasen	vɑsɛn	1	
+2336	Karelian	tunkie	tunkie	lykætæ	lykätä	lykætæ	1	
+1036	Karelian	pero	pero	sʊlkɑ	sulka	sʊlkɑ	1	
+1048	Karelian	heyhen	heyhen	sʊlkɑ	sulka	sʊlkɑ	1	
+10105	Karelian	vähä	vähä	piɛni	pieni	piɛni	1	
+9191	Karelian	hipie	hipie	nɑxkɑ	nahka	nɑxkɑ	1	
+8941	Karelian	hiekka	hiekka	ʧuːrʊ	čuuru	t͡ʃuːrʊ	1	
+1748	Karelian	mies	mies	ʊkːɔ	ukko	ʊkːɔ	1	
+955	Karelian	isä	isä	tʊɑtːɔ	tuatto	tʊɑtːɔ	1	
+3540	Karelian	viskata	viskata	hɛitːyæ	heittyä	hɛitːyæ	1	
+1468	Karelian	ruoho	ruoho	hɛinæ	heinä	hɛinæ	1	
+8100	Karelian	lyyvä	lyyvä	kɔpsiɛ	kopsie	kɔpsiɛ	1	
+4947	Karelian	voalie	voalie	lɛipʊɔ	leipuo	lɛipʊɔ	1	
+2982	Karelian	mato	mato	kiærmis	kiärmis	kiærmis	1	
+5804	Karelian	yhkeä	yhkeä	vɔivɔtːʊɑ	voivottua	vɔivɔtːʊɑ	1	
+7818	Karelian	karva	karva	hivʊs	hivus	hivʊs	1	
+5968	Karelian	virsi	virsi	lɑʊlʊ	laulu	lɑʊlʊ	1	
+5271	Karelian	noama	noama	mʊɔtɔ	muoto	mʊɔtɔ	1	
+919	Karelian	kuu	kuu	rɑsvɑ	rasva	rɑsvɑ	1	
+1188	Karelian	saje	saje(h)	vixmɑ	vihma	vixmɑ	1	
+1294	Livonian	linndə	linndə	lində	lindõ	lində	0.166666667	x
+9408	Livonian	vanà	vanà	vɑnɑː	vanā	vɑnɑː	0.25	x
+915	Livonian	razà	razà	rɑzɑː	razā	rɑzɑː	0.25	x
+3438	Livonian	vòitti	vòitti	vʊiti	vȯiti	vʊiti	0.333333333	x
+1005	Livonian	karrtə	karrtə	kɑrtə	kartõ	kɑrtə	0.333333333	x
+1966	Livonian	jeʾllə	jeʾllə	jɛˀlːə	je’llõ	jɛˀlːə	0.333333333	x
+8716	Livonian	paʾllə	paʾllə	pɑlːə	pallõ	pɑlːə	0.333333333	x
+8830	Livonian	tìedə	tìedə	tiːɛdə	tīedõ	tiːɛdə	0.4	x
+9606	Livonian	pūʾgə	pūʾgə	puːˀɡə	pū’gõ	puːˀɡə	0.4	x
+4574	Livonian	aʾltə	aʾltə	ɑˀltə	a’ltõ	ɑˀltə	0.4	x
+1204	Livonian	vīʾm	vīʾm	viːˀmə	vī’mõ	viːˀmə	0.4	x
+3475	Livonian	mē̮tlə	mē̮tlə	mɨtlə	mõtlõ	mɨtlə	0.428571429	x
+8590	Livonian	soʾu	soʾu	soˀv	so’v	soˀv	0.5	x
+1193	Livonian	saʾddə	saʾd	sɑˀd	sa’d	sɑˀd	0.5	x
+3013	Livonian	vozà	vozà	vʊzɑː	vȯzā	vʊzɑː	0.5	x
+1192	Livonian	saʾddə	saʾd	sɑˀd	sa’d	sɑˀd	0.5	x
+5083	Livonian	nǟlgas vōlda	nǟlgas vōlda	næːlɡɑʎi	nǟlgaļi	næːlɡɑʎi	0.583333333	x
 6258	Livonian	sɔ̄də	sɔ̄də	liːdə	līdõ	liːdə	0.6	
 9525	Livonian	raigà	raigà	rɛiz	reiz	rɛiz	0.6	
-10109	Livonian	vǟʾkki	vǟʾkki	piʃki	piški	piʃki	0.6666666666666666	
-6652	Livonian	kiʾbdʹi	kiʾbdʹi	kɑrːi	karri	kɑrːi	0.7142857142857143	
-1262	Livonian	pusk ~ pušk	pusk ~ pušk	pucːkɨz	puțkõz	pucːkɨz	0.7272727272727273	
+2426	Livonian	e̮ìgi	e̮ìgi	ɨiɡi	õigi	ɨiɡi	0.6	x
+3438	Livonian	vòitti	vòitti	piːɛnti	pīenti	piːɛnti	0.666666667	
+10109	Livonian	vǟʾkki	vǟʾkki	piʃki	piški	piʃki	0.666666667	
+6652	Livonian	kiʾbdʹi	kiʾbdʹi	kɑrːi	karri	kɑrːi	0.714285714	
+1262	Livonian	pusk ~ pušk	pusk ~ pušk	pucːkɨz	puțkõz	pucːkɨz	0.727272727	
+1928	Livonian	maʾggə ~ magàtə	maʾggə ~ magàtə	mɑˀɡːə	ma’ggõ	mɑˀɡːə	0.733333333	x
 2470	Livonian	rek	rek	rɑdɑː	radā	rɑdɑː	0.75	
 852	Livonian	tajà	tajà	kuːjɑ	kūja	kuːjɑ	0.75	
 1665	Livonian	sīd etc.	sīn	siːˀɟʃ	sī’ḑš	siːˀɟʃ	0.75	
 1664	Livonian	sīd etc.	sīn	siːˀɟʃ	sī’ḑš	siːˀɟʃ	0.75	
+6238	Livonian	veʾlʹkki	veʾlʹkki	vɛˀʎ	ve’ļ	vɛˀʎ	0.75	
 2788	Livonian	ziŋgə	ziŋgə	loulə	loulõ	loulə	0.8	
 3676	Livonian	kǟʾdə	kǟʾdə	ɑstə	astõ	ɑstə	0.8	
 5811	Livonian	eʾggə	eʾggə	vʊikə	vȯikõ	vʊikə	0.8	
@@ -757,248 +805,317 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 2192	Livonian	tu̯oì	tu̯oì	muː	mū	muː	0.8	
 6980	Livonian	aʾijə	aʾijə	jɑktə	jaktõ	jɑktə	0.8	
 3533	Livonian	eìttə	eìttə	viskə	viskõ	viskə	0.8	
-6389	Livonian	repptʹə ~ röpptʹə	repptʹə ~ röpptʹə	puriːɲcːə	purīņțõ	puriːɲcːə	0.8235294117647058	
-7331	Livonian	sūr-veʾlʹkki	sūr-veʾlʹkki	izɑːvɛˀʎ	izāve’ļ	izɑːvɛˀʎ	0.8333333333333334	
-9660	Livonian	saʾddə	saʾddə	lɑŋɡə	langõ	lɑŋɡə	0.8333333333333334	
-9689	Livonian	jùokšə	jùokšə	ɑˀilə	a’ilõ	ɑˀilə	0.8333333333333334	
-7331	Livonian	sūr-veʾlʹkki	sūr-veʾlʹkki	jɛmɑːvɛˀʎ	jemāve’ļ	jɛmɑːvɛˀʎ	0.8333333333333334	
-7014	Livonian	re̮kkə	re̮kkə	kiːtə	kītõ	kiːtə	0.8333333333333334	
-6657	Livonian	kɔ̄raz	kɔ̄raz	kiˀbɟi	ki’bḑi	kiˀbɟi	0.8333333333333334	
-1493	Livonian	ɔ̄lʹaz	ɔ̄lʹaz	mɨltsi	mõltsi	mɨltsi	0.8333333333333334	
-7593	Livonian	piʾddə	piʾddə	toupə	toupõ	toupə	0.8333333333333334	
-1228	Livonian	jùokšə	jùokšə	ɑˀilə	a’ilõ	ɑˀilə	0.8333333333333334	
-5409	Livonian	pigà	pigà	pɑkɑːnd	pakānd	pɑkɑːnd	0.8333333333333334	
-9651	Livonian	puʾddə	puʾddə	lɑŋɡə	langõ	lɑŋɡə	0.8333333333333334	
-315	Livonian	tiʾg	tiʾg	slikcːə	slikțõ	slikcːə	0.8333333333333334	
-7751	Livonian	muštà	muštà	rumɑːli	rumāli	rumɑːli	0.8333333333333334	
-1026	Livonian	tūrgəz	tūrgəz	kɔːrɑ	kǭra	kɔːrɑ	0.8333333333333334	
-3171	Livonian	kàikka	kàikka	stok	stok	stok	0.8333333333333334	
-7752	Livonian	reppi ~ räppi	reppi ~ räppi	rumɑːli	rumāli	rumɑːli	0.8461538461538461	
-2939	Livonian	kīlʹaz	kīlʹaz	siˀldzi	si’ldzi	siˀldzi	0.8571428571428571	
-8112	Livonian	raʾbbə	raʾbbə	piɛkslə	piekslõ	piɛkslə	0.8571428571428571	
-6388	Livonian	veʾrštə	veʾrštə	rɛpcːə	repțõ	rɛpcːə	0.8571428571428571	
-5418	Livonian	pakkànd	pakkànd	piɡɑː	pigā	piɡɑː	0.8571428571428571	
-9690	Livonian	aʾilə	aʾilə	juːokʃə	jūokšõ	juːokʃə	0.8571428571428571	
-5811	Livonian	eʾggə	eʾggə	stɛˀɲːə	ste’ņņõ	stɛˀɲːə	0.8571428571428571	
+6292	Livonian	kiʾuv ~ kiʾv etc.	kiʾuv ~ kiʾv etc.	kiv	kiv	kiv	0.823529412	x
+6389	Livonian	repptʹə ~ röpptʹə	repptʹə ~ röpptʹə	puriːɲcːə	purīņțõ	puriːɲcːə	0.823529412	
+1193	Livonian	saʾddə	saʾd	viːˀmə	vī’mõ	viːˀmə	0.833333333	
+8716	Livonian	paʾllə	paʾllə	kitːə	kittõ	kitːə	0.833333333	
+7246	Livonian	uʾńštə	uʾnssə nǟʾdə	uˀɲ	u’ņ	uˀɲ	0.833333333	
+1192	Livonian	saʾddə	saʾd	viːˀmə	vī’mõ	viːˀmə	0.833333333	
+7247	Livonian	uʾńštə	uʾnssə nǟʾdə	uˀɲ	u’ņ	uˀɲ	0.833333333	
+7331	Livonian	sūr-veʾlʹkki	sūr-veʾlʹkki	izɑːvɛˀʎ	izāve’ļ	izɑːvɛˀʎ	0.833333333	
+9660	Livonian	saʾddə	saʾddə	lɑŋɡə	langõ	lɑŋɡə	0.833333333	
+9689	Livonian	jùokšə	jùokšə	ɑˀilə	a’ilõ	ɑˀilə	0.833333333	
+7331	Livonian	sūr-veʾlʹkki	sūr-veʾlʹkki	jɛmɑːvɛˀʎ	jemāve’ļ	jɛmɑːvɛˀʎ	0.833333333	
+7014	Livonian	re̮kkə	re̮kkə	kiːtə	kītõ	kiːtə	0.833333333	
+6657	Livonian	kɔ̄raz	kɔ̄raz	kiˀbɟi	ki’bḑi	kiˀbɟi	0.833333333	
+1493	Livonian	ɔ̄lʹaz	ɔ̄lʹaz	mɨltsi	mõltsi	mɨltsi	0.833333333	
+7593	Livonian	piʾddə	piʾddə	toupə	toupõ	toupə	0.833333333	
+1228	Livonian	jùokšə	jùokšə	ɑˀilə	a’ilõ	ɑˀilə	0.833333333	
+5409	Livonian	pigà	pigà	pɑkɑːnd	pakānd	pɑkɑːnd	0.833333333	
+9651	Livonian	puʾddə	puʾddə	lɑŋɡə	langõ	lɑŋɡə	0.833333333	
+315	Livonian	tiʾg	tiʾg	slikcːə	slikțõ	slikcːə	0.833333333	
+7751	Livonian	muštà	muštà	rumɑːli	rumāli	rumɑːli	0.833333333	
+1026	Livonian	tūrgəz	tūrgəz	kɔːrɑ	kǭra	kɔːrɑ	0.833333333	
+3171	Livonian	kàikka	kàikka	stok	stok	stok	0.833333333	
+7752	Livonian	reppi ~ räppi	reppi ~ räppi	rumɑːli	rumāli	rumɑːli	0.846153846	
+8054	Livonian	ta ~ tä	tämà	tæmɑː	tämā	tæmɑː	0.857142857	x
+8055	Livonian	ta ~ tä	tämà	tæmɑː	tämā	tæmɑː	0.857142857	x
+3475	Livonian	mē̮tlə	mē̮tlə	ɑrːə	arrõ	ɑrːə	0.857142857	
+2939	Livonian	kīlʹaz	kīlʹaz	siˀldzi	si’ldzi	siˀldzi	0.857142857	
+8112	Livonian	raʾbbə	raʾbbə	piɛkslə	piekslõ	piɛkslə	0.857142857	
+6388	Livonian	veʾrštə	veʾrštə	rɛpcːə	repțõ	rɛpcːə	0.857142857	
+5418	Livonian	pakkànd	pakkànd	piɡɑː	pigā	piɡɑː	0.857142857	
+9690	Livonian	aʾilə	aʾilə	juːokʃə	jūokšõ	juːokʃə	0.857142857	
+5811	Livonian	eʾggə	eʾggə	stɛˀɲːə	ste’ņņõ	stɛˀɲːə	0.857142857	
 2546	Livonian	ē̮rə ~ īrə etc.	ē̮rə ~ īrə etc.	riːvə	rīvõ	riːvə	0.875	
 4123	Livonian	ìe < ǜö	ìe < ǜö	iːɛ	īe	iːɛ	0.875	
 1665	Livonian	sīd etc.	sīn	tæs	täs	tæs	0.875	
 7000	Livonian	meʾdʹdʹə	meʾdʹdʹə	jɑktə	jaktõ	jɑktə	0.875	
 1664	Livonian	sīd etc.	sīn	tæs	täs	tæs	0.875	
 2302	Livonian	vi̯eʾddə	vi̯eʾddə	tɨmbə	tõmbõ	tɨmbə	0.875	
-7873	Livonian	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	ɨvɑːtɨks	õvātõks	ɨvɑːtɨks	0.8888888888888888	
-5485	Livonian	att-tūlda	att-tūlda	joudə	joudõ	joudə	0.8888888888888888	
-1094	Livonian	taplə	taplə	vɨikslimi	võikslimi	vɨikslimi	0.8888888888888888	
-7838	Livonian	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	ɨvɑːtɨks	õvātõks	ɨvɑːtɨks	0.8888888888888888	
-6388	Livonian	veʾrštə	veʾrštə	puriːɲcːə	purīņțõ	puriːɲcːə	0.8888888888888888	
+7873	Livonian	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	ɨvɑːtɨks	õvātõks	ɨvɑːtɨks	0.888888889	
+5485	Livonian	att-tūlda	att-tūlda	joudə	joudõ	joudə	0.888888889	
+1094	Livonian	taplə	taplə	vɨikslimi	võikslimi	vɨikslimi	0.888888889	
+7838	Livonian	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	pitʹtʹki-kɔ̄r ~ pikkìs-kɔ̄r	ɨvɑːtɨks	õvātõks	ɨvɑːtɨks	0.888888889	
+6388	Livonian	veʾrštə	veʾrštə	puriːɲcːə	purīņțõ	puriːɲcːə	0.888888889	
 7751	Livonian	muštà	muštà	æˀbpuːˀdɨz	ä’bpū’dõz	æˀbpuːˀdɨz	0.9	
-886	Livonian	tellm ~ töllm	tellm ~ töllm	pɨrm	põrm	pɨrm	0.9230769230769231	
-3377	Livonian	keʾiž ~ keʾžʹ	keʾiž ~ keʾžʹ	kæˀdlɑbɑː	kä’dlabā	kæˀdlɑbɑː	0.9230769230769231	
-6750	Livonian	leʾbl ~ löʾbl	leʾbl ~ löʾbl	ɡilɡə	gilgõ	ɡilɡə	0.9230769230769231	
-7752	Livonian	reppi ~ räppi	reppi ~ räppi	æˀbpuːˀdɨz	ä’bpū’dõz	æˀbpuːˀdɨz	0.9230769230769231	
-1277	Livonian	ēdrəm	ēdrəm	pusk	pusk	pusk	1.0	
-8314	Livonian	se	se	tɑ	ta	tɑ	1.0	
-5618	Livonian	kle̮kkšə	kle̮kkšə	viˀzːɨpɑːndɑ	vi’zzõ pānda	viˀzːɨ pɑːndɑ	1.0	
-1718	Livonian	mià	mis	kui	kui	kui	1.0	
-5733	Livonian	īʾd ~ ǖʾd	īʾd ~ ǖʾd	sɛt	set	sɛt	1.0	
-1494	Livonian	me̮lltsi	me̮lltsi	oːʎɑz	ōļaz	oːʎɑz	1.0	
-1277	Livonian	ēdrəm	ēdrəm	pucːkɨz	puțkõz	pucːkɨz	1.0	
-2376	Livonian	paràz	paràz	jɨvɑː	jõvā	jɨvɑː	1.0	
-1475	Livonian	re̮ʾu ~ riʾu	re̮ʾu(v) ~ riʾu(v)	ɑːinɑd	āinad	ɑːinɑd	1.0	
-5284	Livonian	gīm	gīm	pɑlɡ	palg	pɑlɡ	1.0	
-1753	Livonian	mìez	(naìz-)mìez	ɑˀbpuːol	a’bpūol	ɑˀbpuːol	1.0	
-4143	Livonian	boʾŕ	boʾŕ	uːʃkɑ	ūška	uːʃkɑ	1.0	
-5650	Livonian	palà	palà	stik	stik	stik	1.0	
-5654	Livonian	kabàl	kabàl	stik	stik	stik	1.0	
-5579	Livonian	naì	naì	ɑˀbpuːol	a’bpūol	ɑˀbpuːol	1.0	
-7751	Livonian	muštà	muštà	ræpːi	räppi	ræpːi	1.0	
-1323	Livonian	uʾd	uʾd	tosɑː	tosā	tosɑː	1.0	
-1719	Livonian	mià	mis	kui	kui	kui	1.0	
-219	Livonian	ja	ja	un	un	un	1.0	
-8869	Livonian	äʾb	äʾb	mitːə	mittõ	mitːə	1.0	
-158	Livonian	amà	amà	tikːiʒ	tikkiž	tikːiʒ	1.0	
-8688	Livonian	munà	munà	uɨlɑ	uõla	uɨlɑ	1.0	
-7916	Livonian	mēlʹ	mēlʹ	ɑruː	arū	ɑruː	1.0	
-966	Livonian	tɔ̄tʹi	tɔ̄tʹi	izɑː	izā	izɑː	1.0	
-241	Livonian	lùoməz	lùoməz	jɛlɑːj	jelāj	jɛlɑːj	1.0	
-9517	North Saami	badjeváhkká	badjeváhkká	kɑsːɑvaːhkːaː	gassaváhkká	kɑsːɑvaːhkːaː	0.3636363636363636	
+6004	Livonian	ēlʹ ~ ȫlʹ	ēlʹ ~ ȫlʹ	kiˀl	ki’l	kiˀl	0.9	
+886	Livonian	tellm ~ töllm	tellm ~ töllm	pɨrm	põrm	pɨrm	0.923076923	
+3377	Livonian	keʾiž ~ keʾžʹ	keʾiž ~ keʾžʹ	kæˀdlɑbɑː	kä’dlabā	kæˀdlɑbɑː	0.923076923	
+6750	Livonian	leʾbl ~ löʾbl	leʾbl ~ löʾbl	ɡilɡə	gilgõ	ɡilɡə	0.923076923	
+7752	Livonian	reppi ~ räppi	reppi ~ räppi	æˀbpuːˀdɨz	ä’bpū’dõz	æˀbpuːˀdɨz	0.923076923	
+1277	Livonian	ēdrəm	ēdrəm	pusk	pusk	pusk	1	
+8314	Livonian	se	se	tɑ	ta	tɑ	1	
+5618	Livonian	kle̮kkšə	kle̮kkšə	viˀzːɨpɑːndɑ	vi’zzõ pānda	viˀzːɨ pɑːndɑ	1	
+1718	Livonian	mià	mis	kui	kui	kui	1	
+5733	Livonian	īʾd ~ ǖʾd	īʾd ~ ǖʾd	sɛt	set	sɛt	1	
+1494	Livonian	me̮lltsi	me̮lltsi	oːʎɑz	ōļaz	oːʎɑz	1	
+1277	Livonian	ēdrəm	ēdrəm	pucːkɨz	puțkõz	pucːkɨz	1	
+2376	Livonian	paràz	paràz	jɨvɑː	jõvā	jɨvɑː	1	
+1475	Livonian	re̮ʾu ~ riʾu	re̮ʾu(v) ~ riʾu(v)	ɑːinɑd	āinad	ɑːinɑd	1	
+5284	Livonian	gīm	gīm	pɑlɡ	palg	pɑlɡ	1	
+1753	Livonian	mìez	(naìz-)mìez	ɑˀbpuːol	a’bpūol	ɑˀbpuːol	1	
+4143	Livonian	boʾŕ	boʾŕ	uːʃkɑ	ūška	uːʃkɑ	1	
+5650	Livonian	palà	palà	stik	stik	stik	1	
+5654	Livonian	kabàl	kabàl	stik	stik	stik	1	
+5579	Livonian	naì	naì	ɑˀbpuːol	a’bpūol	ɑˀbpuːol	1	
+7751	Livonian	muštà	muštà	ræpːi	räppi	ræpːi	1	
+1323	Livonian	uʾd	uʾd	tosɑː	tosā	tosɑː	1	
+1719	Livonian	mià	mis	kui	kui	kui	1	
+219	Livonian	ja	ja	un	un	un	1	
+8869	Livonian	äʾb	äʾb	mitːə	mittõ	mitːə	1	
+158	Livonian	amà	amà	tikːiʒ	tikkiž	tikːiʒ	1	
+8688	Livonian	munà	munà	uɨlɑ	uõla	uɨlɑ	1	
+7916	Livonian	mēlʹ	mēlʹ	ɑruː	arū	ɑruː	1	
+966	Livonian	tɔ̄tʹi	tɔ̄tʹi	izɑː	izā	izɑː	1	
+241	Livonian	lùoməz	lùoməz	jɛlɑːj	jelāj	jɛlɑːj	1	
+1204	Livonian	vīʾm	vīʾm	sɑˀd	sa’d	sɑˀd	1	
+1935	North Saami	vealˈlát	vealˈlát	ve̯ælːaːh	veallát	ve̯ælːaːh	0.125	x
+2927	North Saami	háistit	háistit	haːjsʊh	háisut	haːjsʊh	0.285714286	x
+9418	North Saami	oamis	oamis	pɔ̯ɑris	boaris	pɔ̯ɑris	0.333333333	
+9517	North Saami	badjeváhkká	badjeváhkká	kɑsːɑvaːhkːaː	gassaváhkká	kɑsːɑvaːhkːaː	0.363636364	
 6662	North Saami	rihča	rihča	pɑhʧɑ	bahča	pɑht͡ʃɑ	0.4	
-7840	North Saami	čáhcẹdávgi	čáhcẹdávgi	ɑrɛveðaːvɡi	arvedávgi	ɑrɛveðaːvɡi	0.4545454545454545	
+7840	North Saami	čáhcẹdávgi	čáhcẹdávgi	ɑrɛveðaːvɡi	arvedávgi	ɑrɛveðaːvɡi	0.454545455	
+5071	North Saami	leat nealggis	leat nealggis	ne̯ælɡkɑs	nealggas	ne̯ælɡkɑs	0.461538462	x
 5813	North Saami	luoibmat	luoibmat	fʊɛjkih	fuoikit	fʊɛjkih	0.5	
 1723	North Saami	govt	govt	mɔh	mot	mɔh	0.5	
 7825	North Saami	guolga	guolga	vʊ̯ɔktɑ	vuokta	vʊ̯ɔktɑ	0.5	
 9488	North Saami	gassat	gassat	ɑsːaːj	assái	ɑsːaːj	0.5	
 2248	North Saami	stoahkat	stoahkat	spe̯ælːɑh	speallat	spe̯ælːɑh	0.5	
 7839	North Saami	arvẹdávgi	arvẹdávgi	pɑjaːntaːvɡi	bajándávgi	pɑjaːntaːvɡi	0.5	
-7864	North Saami	čáhcẹdávgi	arvẹdávgi	pɑjaːntaːvɡi	bajándávgi	pɑjaːntaːvɡi	0.5454545454545454	
-7865	North Saami	čáhcẹdávgi	arvẹdávgi	pɑjaːntaːvɡi	bajándávgi	pɑjaːntaːvɡi	0.5454545454545454	
-7840	North Saami	čáhcẹdávgi	čáhcẹdávgi	pɑjaːntaːvɡi	bajándávgi	pɑjaːntaːvɡi	0.5454545454545454	
-5486	North Saami	joavdat	joavdat	pɔ̯ɑhtih	boahtit	pɔ̯ɑhtih	0.5714285714285714	
-6269	North Saami	šaddat	šaddat	pe̯æsːɑh	beassat	pe̯æsːɑh	0.5714285714285714	
-6273	North Saami	boahtit	boahtit	pe̯æsːɑh	beassat	pe̯æsːɑh	0.5714285714285714	
+3782	North Saami	čurrot	čurrot	ʧʊrʊ	čuru	t͡ʃʊrʊ	0.5	x
+2911	North Saami	haksit	haksit	haːjsʊh	háisut	haːjsʊh	0.5	x
+6240	North Saami	uhcavielja	unnavielja	viɛʎːɑ	viellja	viɛʎːɑ	0.5	
+2412	North Saami	rievttes	rievttes	riɛktɑ	riekta	riɛktɑ	0.5	
+6241	North Saami	uhcavielja	unnavielja	viɛʎːɑ	viellja	viɛʎːɑ	0.5	
+7864	North Saami	čáhcẹdávgi	arvẹdávgi	pɑjaːntaːvɡi	bajándávgi	pɑjaːntaːvɡi	0.545454545	
+7865	North Saami	čáhcẹdávgi	arvẹdávgi	pɑjaːntaːvɡi	bajándávgi	pɑjaːntaːvɡi	0.545454545	
+7840	North Saami	čáhcẹdávgi	čáhcẹdávgi	pɑjaːntaːvɡi	bajándávgi	pɑjaːntaːvɡi	0.545454545	
+5486	North Saami	joavdat	joavdat	pɔ̯ɑhtih	boahtit	pɔ̯ɑhtih	0.571428571	
+6269	North Saami	šaddat	šaddat	pe̯æsːɑh	beassat	pe̯æsːɑh	0.571428571	
+6273	North Saami	boahtit	boahtit	pe̯æsːɑh	beassat	pe̯æsːɑh	0.571428571	
 2159	North Saami	lahka	lahka	lɑkɑs	lagas	lɑkɑs	0.6	
 10124	North Saami	unˈni	unˈni	ʊhʦːi	uhcci	ʊht͡sːi	0.6	
 7598	North Saami	doaladit	doallat	sæjlːʊhih	seailluhit	sæjlːʊhih	0.6	
 7597	North Saami	doaladit	doallat	sæjlːʊhih	seailluhit	sæjlːʊhih	0.6	
 6390	North Saami	šluvgit	šluvgit	sɑlɑhkɑlih	salkalit	sɑlɑhkɑlih	0.625	
 2569	North Saami	skuhppet	skuhppet	rʊvːeh	ruvvet	rʊvːeh	0.625	
-669	North Saami	rēhkenastit	rēhkenastit	lɔhkɑh	lohkat	lɔhkɑh	0.6363636363636364	
-5615	North Saami	giddet	giddet	kɔkʧɑh	gokčat	kɔkt͡ʃɑh	0.6666666666666666	
-2142	North Saami	baski	baski	se̯æɡki	seaggi	se̯æɡki	0.6666666666666666	
-6753	North Saami	lávggodit	lávggodit	kaːlɑʃih	gálašit	kaːlɑʃih	0.6666666666666666	
-2142	North Saami	baski	baski	ke̯æd͡sːi	geazzi	ke̯æd͡sːi	0.6666666666666666	
-9872	North Saami	čatnat	čatnat	kaːrːɑh	gárrat	kaːrːɑh	0.6666666666666666	
-7017	North Saami	lohkat	lohkat	tɑcːɑh	dadjat	tɑcːɑh	0.6666666666666666	
+7252	North Saami	niegadit	niegadit	niɛhkʊ	niehku	niɛhkʊ	0.625	
+669	North Saami	rēhkenastit	rēhkenastit	lɔhkɑh	lohkat	lɔhkɑh	0.636363636	
+5615	North Saami	giddet	giddet	kɔkʧɑh	gokčat	kɔkt͡ʃɑh	0.666666667	
+2142	North Saami	baski	baski	se̯æɡki	seaggi	se̯æɡki	0.666666667	
+6753	North Saami	lávggodit	lávggodit	kaːlɑʃih	gálašit	kaːlɑʃih	0.666666667	
+2142	North Saami	baski	baski	ke̯æd͡sːi	geazzi	ke̯æd͡sːi	0.666666667	
+9872	North Saami	čatnat	čatnat	kaːrːɑh	gárrat	kaːrːɑh	0.666666667	
+7017	North Saami	lohkat	lohkat	tɑcːɑh	dadjat	tɑcːɑh	0.666666667	
 7017	North Saami	lohkat	lohkat	ʦe̯ælɛhkih	cealkit	t͡se̯ælɛhkih	0.7	
 7603	North Saami	atnit	atnit	sæjlːʊhih	seailluhit	sæjlːʊhih	0.7	
-8117	North Saami	časkit	časkit	ʧʊ̯ɔlːɑh	čuollat	t͡ʃʊ̯ɔlːɑh	0.7142857142857143	
-2869	North Saami	nohkkat	nohkkat	ɔ̯ɑðːih	oađđit	ɔ̯ɑðːih	0.7142857142857143	
-7905	North Saami	miella	miella	jiɛrɛbmi	jierbmi	jiɛrɛbmi	0.7142857142857143	
-6548	North Saami	láhppit	láhppit	jaːvkɑh	jávkat	jaːvkɑh	0.7142857142857143	
-1099	North Saami	doarrut	doarrut	vʊ̯ɔstelɑsvʊ̯ɔhtɑ	vuostelasvuohta	vʊ̯ɔstelɑsvʊ̯ɔhtɑ	0.7333333333333333	
+4986	North Saami	čoaggit	čoaggit	pɑjiðih	bajidit	pɑjiðih	0.714285714	
+9594	North Saami	bossut	bossut	piɛɡkɑh	bieggat	piɛɡkɑh	0.714285714	
+8117	North Saami	časkit	časkit	ʧʊ̯ɔlːɑh	čuollat	t͡ʃʊ̯ɔlːɑh	0.714285714	
+2869	North Saami	nohkkat	nohkkat	ɔ̯ɑðːih	oađđit	ɔ̯ɑðːih	0.714285714	
+7905	North Saami	miella	miella	jiɛrɛbmi	jierbmi	jiɛrɛbmi	0.714285714	
+6548	North Saami	láhppit	láhppit	jaːvkɑh	jávkat	jaːvkɑh	0.714285714	
+1099	North Saami	doarrut	doarrut	vʊ̯ɔstelɑsvʊ̯ɔhtɑ	vuostelasvuohta	vʊ̯ɔstelɑsvʊ̯ɔhtɑ	0.733333333	
 7757	North Saami	nuoski	nuoski	tʊ̯ɔlvːɑs	duolvvas	tʊ̯ɔlvːɑs	0.75	
 4953	North Saami	bassit	bassit	kɔjkɑðih	goikadit	kɔjkɑðih	0.75	
 6390	North Saami	šluvgit	šluvgit	skʊlːheh	skullhet	skʊlːheh	0.75	
 2216	North Saami	iežá	iežá	e̯æraː	eará	e̯æraː	0.75	
 4772	North Saami	garra	garra	paːrɑhkʊ	bárku	paːrɑhkʊ	0.75	
 627	North Saami	čoaskkis	čoaskkis	kɑlmːɑs	galmmas	kɑlmːɑs	0.75	
-5051	North Saami	geassádit	geassádit	vʊ̯ɔlɛkih	vuolgit	vʊ̯ɔlɛkih	0.7777777777777778	
+5051	North Saami	geassádit	geassádit	vʊ̯ɔlɛkih	vuolgit	vʊ̯ɔlɛkih	0.777777778	
 1016	North Saami	dolgi	dolgi	pɔd͡sːɑ	bozza	pɔd͡sːɑ	0.8	
 3426	North Saami	dos	dos	tɑkːɔ	dakko	tɑkːɔ	0.8	
 811	North Saami	raddi	raddi	ʧiʤːi	čižži	t͡ʃid͡ʒːi	0.8	
 3395	North Saami	duos	duos	tɑkːɔ	dakko	tɑkːɔ	0.8	
-5737	North Saami	aivvẹ	aivvẹ	tʊʃːe	dušše	tʊʃːe	0.8333333333333334	
-2342	North Saami	hoigat	hoigat	ʦaːhkih	cáhkit	t͡saːhkih	0.8333333333333334	
-10120	North Saami	smávis	smávis	ʊhʦːi	uhcci	ʊht͡sːi	0.8333333333333334	
-1263	North Saami	lieđđi	lieđđi	raːsːi	rássi	raːsːi	0.8333333333333334	
-5959	North Saami	dállu	dállu	stɔhpʊ	stohpu	stɔhpʊ	0.8333333333333334	
-10120	North Saami	smávis	smávis	ʊnːi	unni	ʊnːi	0.8333333333333334	
-7096	North Saami	basttoheapme ~ bastteheapme	basttoheapme ~ bastteheapme	ne̯ærɑs	nearas	ne̯ærɑs	0.8518518518518519	
-316	North Saami	hēittot	hēittot	he̯æcːʊ	headju	he̯æcːʊ	0.8571428571428571	
-5655	North Saami	stuhkka	stuhkka	pihtːaː	bihttá	pihtːaː	0.8571428571428571	
-10084	North Saami	suoivva	suoivva	itkʊ	itku	itkʊ	0.8571428571428571	
-4268	North Saami	bajidit	bajidit	lɔkteh	loktet	lɔkteh	0.8571428571428571	
-6467	North Saami	buhtis	buhtis	raːjnːɑs	ráinnas	raːjnːɑs	0.8571428571428571	
-8116	North Saami	cábmit	cábmit	ʧʊ̯ɔlːɑh	čuollat	t͡ʃʊ̯ɔlːɑh	0.8571428571428571	
-2949	North Saami	livttis	livttis	ɲɑlkːɑs	njalkkas	ɲɑlkːɑs	0.8571428571428571	
-4802	North Saami	guhkkin	guhkkin	kaːjdtʊs	gáiddus	kaːjdtʊs	0.8571428571428571	
-4291	North Saami	duohkin	duohkin	mɑŋil	maŋil	mɑŋil	0.8571428571428571	
+4580	North Saami	buolˈlàhit	bulˈlehit	ʦɑhkːeðih	cahkkedit	t͡sɑhkːeðih	0.8	
+4579	North Saami	buolˈlàhit	bulˈlehit	ʦɑhkːeðih	cahkkedit	t͡sɑhkːeðih	0.8	
+5085	North Saami	borastuvvat	borastuvvat	ne̯ælɡkɑs	nealggas	ne̯ælɡkɑs	0.818181818	
+9418	North Saami	oamis	oamis	vʊ̯ɔrɑs	vuoras	vʊ̯ɔrɑs	0.833333333	
+5737	North Saami	aivvẹ	aivvẹ	tʊʃːe	dušše	tʊʃːe	0.833333333	
+2342	North Saami	hoigat	hoigat	ʦaːhkih	cáhkit	t͡saːhkih	0.833333333	
+10120	North Saami	smávis	smávis	ʊhʦːi	uhcci	ʊht͡sːi	0.833333333	
+1263	North Saami	lieđđi	lieđđi	raːsːi	rássi	raːsːi	0.833333333	
+5959	North Saami	dállu	dállu	stɔhpʊ	stohpu	stɔhpʊ	0.833333333	
+10120	North Saami	smávis	smávis	ʊnːi	unni	ʊnːi	0.833333333	
+7096	North Saami	basttoheapme ~ bastteheapme	basttoheapme ~ bastteheapme	ne̯ærɑs	nearas	ne̯ærɑs	0.851851852	
+2399	North Saami	vuoigat	vuoigat	riɛktɑ	riekta	riɛktɑ	0.857142857	
+316	North Saami	hēittot	hēittot	he̯æcːʊ	headju	he̯æcːʊ	0.857142857	
+5655	North Saami	stuhkka	stuhkka	pihtːaː	bihttá	pihtːaː	0.857142857	
+10084	North Saami	suoivva	suoivva	itkʊ	itku	itkʊ	0.857142857	
+4268	North Saami	bajidit	bajidit	lɔkteh	loktet	lɔkteh	0.857142857	
+6467	North Saami	buhtis	buhtis	raːjnːɑs	ráinnas	raːjnːɑs	0.857142857	
+8116	North Saami	cábmit	cábmit	ʧʊ̯ɔlːɑh	čuollat	t͡ʃʊ̯ɔlːɑh	0.857142857	
+2949	North Saami	livttis	livttis	ɲɑlkːɑs	njalkkas	ɲɑlkːɑs	0.857142857	
+4802	North Saami	guhkkin	guhkkin	kaːjdtʊs	gáiddus	kaːjdtʊs	0.857142857	
+4291	North Saami	duohkin	duohkin	mɑŋil	maŋil	mɑŋil	0.857142857	
 2759	North Saami	ávjui	ávjui	pɑstilih	bastilit	pɑstilih	0.875	
-5486	North Saami	joavdat	joavdat	pʊvtːehih	buvttehit	pʊvtːehih	0.8888888888888888	
-3547	North Saami	bálkestit	bálkestit	sʊhpːeh	suhppet	sʊhpːeh	0.8888888888888888	
-4306	North Saami	maŋŋin	maŋŋin	tʊ̯ɔkaːs	duogás	tʊ̯ɔkaːs	1.0	
-2451	North Saami	eatnu	eatnu	jɔhkɑ	johka	jɔhkɑ	1.0	
-2216	North Saami	iežá	iežá	nʊbpi	nubbi	nʊbpi	1.0	
-4772	North Saami	garra	garra	ɔstʊ	ostu	ɔstʊ	1.0	
-5581	North Saami	eamit	eamit	aːhkːaː	áhkká	aːhkːaː	1.0	
-888	North Saami	gavja	gavja	tɔpmʊ	dopmu	tɔpmʊ	1.0	
-5705	North Saami	dievdu	dievdu	ɔlmːaːj	olmmái	ɔlmːaːj	1.0	
+5486	North Saami	joavdat	joavdat	pʊvtːehih	buvttehit	pʊvtːehih	0.888888889	
+3547	North Saami	bálkestit	bálkestit	sʊhpːeh	suhppet	sʊhpːeh	0.888888889	
+4306	North Saami	maŋŋin	maŋŋin	tʊ̯ɔkaːs	duogás	tʊ̯ɔkaːs	1	
+2451	North Saami	eatnu	eatnu	jɔhkɑ	johka	jɔhkɑ	1	
+2216	North Saami	iežá	iežá	nʊbpi	nubbi	nʊbpi	1	
+4772	North Saami	garra	garra	ɔstʊ	ostu	ɔstʊ	1	
+5581	North Saami	eamit	eamit	aːhkːaː	áhkká	aːhkːaː	1	
+888	North Saami	gavja	gavja	tɔpmʊ	dopmu	tɔpmʊ	1	
+5705	North Saami	dievdu	dievdu	ɔlmːaːj	olmmái	ɔlmːaːj	1	
+8060	North Saami	dat	dat	sɔn	son	sɔn	1	
+3009	North Saami	oažži	oažži	piɛrɑkʊ	biergu	piɛrɑkʊ	1	
+4581	Skolt Saami	puâlˈlted	puâlˈlted	puɐlltɛd	puâl'lted	puɐlltɛd	0.111111111	x
+1297	Skolt Saami	ǩeʹrdded	ǩeʹrdded	c͡çɛrʲdːʲɛd	ǩe´rdded	c͡çɛrʲdːʲɛd	0.125	x
+8821	Skolt Saami	tieʹtted	tieʹtted	tiɛtːʲɛd	tie´tted	tiɛtːʲɛd	0.125	x
+8707	Skolt Saami	pueʹlled	pueʹlled	puɛlːʲɛd	pue´lled	puɛlːʲɛd	0.125	x
+6302	Skolt Saami	ǩeäʹdǧǧ	ǩeäʹdǧǧ	c͡çɛadʲɟɟ͡ʝʲɘ	ǩeä´dǧǧ	c͡çɛadʲɟɟ͡ʝʲɘ	0.142857143	x
+9413	Skolt Saami	puäʹres	puäʹres	puarʲɛs	puä´res	puarʲɛs	0.142857143	x
+8261	Skolt Saami	čuäʹrvv	čuäʹrvv	ʧuarʲvːʲɘ	čuä´rvv	t͡ʃuarʲvːʲɘ	0.142857143	x
+9419	Skolt Saami	vuäʹmes	vuäʹmes	vuamʲɛs	vuä´mes	vuamʲɛs	0.142857143	x
+723	Skolt Saami	peiʹvv	peiʹvv	pɛivːʲɘ	pei´vv	pɛivːʲɘ	0.166666667	x
+1208	Skolt Saami	âʹbrr	âʹbrr	ɐbʲrːʲɘ	â´brr	ɐbʲrːʲɘ	0.2	x
+3442	Skolt Saami	ââʹzzteʹm	ââʹzzteʹm(es)	ɐːzːʲtʲɛmʲɘ	ââ´zzte´m	ɐːzːʲtʲɛmʲɘ	0.222222222	x
+1957	Skolt Saami	jiẹʹlled	jiẹʹlled	ʝiɛlːʲɛd	jie´lled	ʝiɛlːʲɛd	0.222222222	x
+2913	Skolt Saami	âʹpssed	âʹpssed	ɐpːʲsʲɛd	â´ppsed	ɐpːʲsʲɛd	0.285714286	x
+929	Skolt Saami	pueiʹdd	pueiʹdd	puəidːʲɘ	puõi´dd	puəidːʲɘ	0.285714286	x
 1101	Skolt Saami	tuärrad	tuärrad	tuarːməʃ	tuärrmõš	tuarːməʃ	0.375	
+9413	Skolt Saami	puäʹres	puäʹres	vuamʲɛs	vuä´mes	vuamʲɛs	0.428571429	
+9419	Skolt Saami	vuäʹmes	vuäʹmes	puarʲɛs	puä´res	puarʲɛs	0.428571429	
+8707	Skolt Saami	pueʹlled	pueʹlled	pualʲdːʲɛd	puä´ldded	pualʲdːʲɛd	0.444444444	x
 6550	Skolt Saami	läppjed	läppjed	xaːvʲʝʲɛd	hää´vjed	xaːvʲʝʲɛd	0.5	
-1330	Skolt Saami	suâlnõk	suâlnõk	suɛlʲnːʲɘ	sue´lnn	suɛlʲnːʲɘ	0.5555555555555556	
-2555	Skolt Saami	sââjjad	sââjjad	xɛɐrːɒd	heârrad	xɛɐrːɒd	0.5714285714285714	
+1330	Skolt Saami	suâlnõk	suâlnõk	suɛlʲnːʲɘ	sue´lnn	suɛlʲnːʲɘ	0.555555556	
+2555	Skolt Saami	sââjjad	sââjjad	xɛɐrːɒd	heârrad	xɛɐrːɒd	0.571428571	
 6108	Skolt Saami	mätt’ted	mätt’ted	vuapːʲsʲtʲɛd	vuä´ppsted	vuapːʲsʲtʲɛd	0.6	
-3554	Skolt Saami	laʹǧǧsted	laʹǧǧsted	ʧɛɐɣːtɛd	čeâǥǥted	t͡ʃɛɐɣːtɛd	0.6666666666666666	
-4114	Skolt Saami	ijj	ijj	inːɐ	inn	inːɐ	0.6666666666666666	
-4941	Skolt Saami	päʹštted	päʹštted	vaːlʲʝɛd	vää´l'jed	vaːlʲʝɛd	0.6666666666666666	
+3783	Skolt Saami	čuâr ~ čuâraš	čuâr(as) ~ čuâraš	ʧuɐrɒs	čuâras	t͡ʃuɐrɒs	0.615384615	x
+4581	Skolt Saami	puâlˈlted	puâlˈlted	ʦəcc͡çʲtʲɛd	cõ´ǩǩted	t͡səcc͡çʲtʲɛd	0.666666667	
+3554	Skolt Saami	laʹǧǧsted	laʹǧǧsted	ʧɛɐɣːtɛd	čeâǥǥted	t͡ʃɛɐɣːtɛd	0.666666667	
+4114	Skolt Saami	ijj	ijj	inːɐ	inn	inːɐ	0.666666667	
+4941	Skolt Saami	päʹštted	päʹštted	vaːlʲʝɛd	vää´l'jed	vaːlʲʝɛd	0.666666667	
+3783	Skolt Saami	čuâr ~ čuâraš	čuâr(as) ~ čuâraš	ʧuɐrɐ	čuâr	t͡ʃuɐrɐ	0.692307692	x
 6423	Skolt Saami	eeʹđääldõž	eeʹđääldõž	tuɛlʲaːʒ	tue´lääž	tuɛlʲaːʒ	0.7	
 6427	Skolt Saami	tueʹlääž	tueʹlääž	eːðʲaːldəʒ	ee´đääldõž	eːðʲaːldəʒ	0.7	
 3555	Skolt Saami	vueʹlǧǧeed	vueʹlǧǧeed	ʧɛɐɣːtɛd	čeâǥǥted	t͡ʃɛɐɣːtɛd	0.7	
-5927	Skolt Saami	äʹǧǧled	äʹǧǧled	ɒːlɣtɛd	aalǥted	ɒːlɣtɛd	0.7142857142857143	
-3724	Skolt Saami	paakkâs	paakkâs	liəɡːɐs	liõggâs	liəɡːɐs	0.7142857142857143	
-6755	Skolt Saami	läuggad	lääuǥõõttäd ~ laauǥõõttâd	saːunəːtːɐd	sääunõõttâd	saːunəːtːɐd	0.7272727272727273	
-6756	Skolt Saami	läuggad	lääuǥõõttäd ~ laauǥõõttâd	saːunəːtːɐd	sääunõõttâd	saːunəːtːɐd	0.7272727272727273	
+3011	Skolt Saami	vuäʹǯˈǯ ~ vueʹǯˈǯ	vuäʹǯˈǯ ~ vueʹǯˈǯ	vuadʤʲɘ	vuä´ǯ'ǯ	vuadd͡ʒʲɘ	0.705882353	x
+9596	Skolt Saami	pååssad	pååssad	piəɡɡɐd	piõg'gâd	piəɡɡɐd	0.714285714	
+932	Skolt Saami	vuõjj	vuõjj	puəidːʲɘ	puõi´dd	puəidːʲɘ	0.714285714	
+5927	Skolt Saami	äʹǧǧled	äʹǧǧled	ɒːlɣtɛd	aalǥted	ɒːlɣtɛd	0.714285714	
+3724	Skolt Saami	paakkâs	paakkâs	liəɡːɐs	liõggâs	liəɡːɐs	0.714285714	
+6755	Skolt Saami	läuggad	lääuǥõõttäd ~ laauǥõõttâd	saːunəːtːɐd	sääunõõttâd	saːunəːtːɐd	0.727272727	
+6756	Skolt Saami	läuggad	lääuǥõõttäd ~ laauǥõõttâd	saːunəːtːɐd	sääunõõttâd	saːunəːtːɐd	0.727272727	
 2555	Skolt Saami	sââjjad	sââjjad	ruvːʲʝʲɛd	ru´vvjed	ruvːʲʝʲɛd	0.75	
 8121	Skolt Saami	västtled	västtled	ʧɐʦʲcc͡çʲɛd	čâ´cǩǩed	t͡ʃɐt͡sʲcc͡çʲɛd	0.75	
 7605	Skolt Saami	ââʹnned	ââʹnned	seːiltɛd	seeilted	seːiltɛd	0.75	
-6129	Skolt Saami	vuäʹpsted ~ vuäʹppsted	vuäʹpsted ~ vuäʹppsted	matːtɛd	mätt'ted	matːtɛd	0.7727272727272727	
-5102	Skolt Saami	kuõskkâd	kuõskkâd	ɲɒːukstɛd	njaauksted	ɲɒːukstɛd	0.7777777777777778	
-7022	Skolt Saami	ceäʹlǩǩed	ceäʹlǩǩed	nəmːeːd	nõmmeed	nəmːeːd	0.7777777777777778	
-1823	Skolt Saami	kåʹdded	kåʹdded	sorʲmːʲʝʲɛd	so´rmmjed	sorʲmːʲʝʲɛd	0.7777777777777778	
-5045	Skolt Saami	võõidâd	uuidâd	vuɛlʲɟɟ͡ʝʲɛd	vue´lǧǧed	vuɛlʲɟɟ͡ʝʲɛd	0.7777777777777778	
-5044	Skolt Saami	võõidâd	uuidâd	vuɛlʲɟɟ͡ʝʲɛd	vue´lǧǧed	vuɛlʲɟɟ͡ʝʲɛd	0.7777777777777778	
-4269	Skolt Saami	pââʹjded	pââʹjded	kuɔstːeːd	kuåstteed	kuɔstːeːd	0.7777777777777778	
-4274	Skolt Saami	kaggâd	kaggâd	kuɔstːeːd	kuåstteed	kuɔstːeːd	0.7777777777777778	
+1938	Skolt Saami	lieʹnˈnjsted	lieʹnˈnjsted	liɐʃːɐd	liâššâd	liɐʃːɐd	0.75	
+7254	Skolt Saami	niõǥǥeed	niõǥǥeed	nɐːɛrɐ	nââ´er	nɐːɛrɐ	0.75	
+6129	Skolt Saami	vuäʹpsted ~ vuäʹppsted	vuäʹpsted ~ vuäʹppsted	matːtɛd	mätt'ted	matːtɛd	0.772727273	
+5102	Skolt Saami	kuõskkâd	kuõskkâd	ɲɒːukstɛd	njaauksted	ɲɒːukstɛd	0.777777778	
+7022	Skolt Saami	ceäʹlǩǩed	ceäʹlǩǩed	nəmːeːd	nõmmeed	nəmːeːd	0.777777778	
+1823	Skolt Saami	kåʹdded	kåʹdded	sorʲmːʲʝʲɛd	so´rmmjed	sorʲmːʲʝʲɛd	0.777777778	
+5045	Skolt Saami	võõidâd	uuidâd	vuɛlʲɟɟ͡ʝʲɛd	vue´lǧǧed	vuɛlʲɟɟ͡ʝʲɛd	0.777777778	
+5044	Skolt Saami	võõidâd	uuidâd	vuɛlʲɟɟ͡ʝʲɛd	vue´lǧǧed	vuɛlʲɟɟ͡ʝʲɛd	0.777777778	
+4269	Skolt Saami	pââʹjded	pââʹjded	kuɔstːeːd	kuåstteed	kuɔstːeːd	0.777777778	
+4274	Skolt Saami	kaggâd	kaggâd	kuɔstːeːd	kuåstteed	kuɔstːeːd	0.777777778	
 7828	Skolt Saami	sõõus	sõõus	vuəptɐ	vuõpt	vuəptɐ	0.8	
 7907	Skolt Saami	miõll	miõll	toːlkɐ	toolk	toːlkɐ	0.8	
 9489	Skolt Saami	kõss	kõss(âd)	ɐsːɒi	âssai	ɐsːɒi	0.8	
-670	Skolt Saami	rekknâʹstted	rekknâʹstted	lɒsʲcc͡çʲeːd	la´sǩǩeed	lɒsʲcc͡çʲeːd	0.8333333333333334	
-2131	Skolt Saami	seäʹǧˈǧ	seäʹǧˈǧ	c͡çɛdʣʲɘ	ǩe´ʒʒ	c͡çɛdd͡zʲɘ	0.8571428571428571	
-6550	Skolt Saami	läppjed	läppjed	ʝɒukːɐd	jaukkâd	ʝɒukːɐd	0.8571428571428571	
-6755	Skolt Saami	läuggad	lääuǥõõttäd ~ laauǥõõttâd	vuəʝːɐd	vuõjjâd	vuəʝːɐd	0.8571428571428571	
-5625	Skolt Saami	tõppâd	tõppâd	katːʲɛd	kä´tted	katːʲɛd	0.8571428571428571	
-2164	Skolt Saami	luʹnn	luʹnn	ɐldːləs	âlddlõs	ɐldːləs	0.8571428571428571	
-2477	Skolt Saami	čuâǥǥas	čuâǥǥas	uːlʲɛʦ	uu´lec	uːlʲɛt͡s	0.8571428571428571	
-8460	Skolt Saami	čiõʹlj	čiõʹlj	sɛalʲɟɟ͡ʝʲɘ	seä´lǧǧ	sɛalʲɟɟ͡ʝʲɘ	0.8571428571428571	
-1642	Skolt Saami	tääiʹb	tääiʹb(en)	tɒlʲtːʲɛ	ta´ltte	tɒlʲtːʲɛ	0.8571428571428571	
-7338	Skolt Saami	jiẹʹǩǩ	jiẹʹǩǩ	ʝaːnɐ	jään	ʝaːnɐ	0.8571428571428571	
-6756	Skolt Saami	läuggad	lääuǥõõttäd ~ laauǥõõttâd	vuəʝːɐd	vuõjjâd	vuəʝːɐd	0.8571428571428571	
-7338	Skolt Saami	jiẹʹǩǩ	jiẹʹǩǩ	ʧiɒtʦʲɘ	čia´cc	t͡ʃiɒtt͡sʲɘ	0.8571428571428571	
+2928	Skolt Saami	njuʹnn’jed	njuʹnn’jed	ɐpːʲsʲɛd	â´ppsed	ɐpːʲsʲɛd	0.8	
+670	Skolt Saami	rekknâʹstted	rekknâʹstted	lɒsʲcc͡çʲeːd	la´sǩǩeed	lɒsʲcc͡çʲeːd	0.833333333	
+2131	Skolt Saami	seäʹǧˈǧ	seäʹǧˈǧ	c͡çɛdʣʲɘ	ǩe´ʒʒ	c͡çɛdd͡zʲɘ	0.857142857	
+6550	Skolt Saami	läppjed	läppjed	ʝɒukːɐd	jaukkâd	ʝɒukːɐd	0.857142857	
+6755	Skolt Saami	läuggad	lääuǥõõttäd ~ laauǥõõttâd	vuəʝːɐd	vuõjjâd	vuəʝːɐd	0.857142857	
+5625	Skolt Saami	tõppâd	tõppâd	katːʲɛd	kä´tted	katːʲɛd	0.857142857	
+2164	Skolt Saami	luʹnn	luʹnn	ɐldːləs	âlddlõs	ɐldːləs	0.857142857	
+2477	Skolt Saami	čuâǥǥas	čuâǥǥas	uːlʲɛʦ	uu´lec	uːlʲɛt͡s	0.857142857	
+8460	Skolt Saami	čiõʹlj	čiõʹlj	sɛalʲɟɟ͡ʝʲɘ	seä´lǧǧ	sɛalʲɟɟ͡ʝʲɘ	0.857142857	
+1642	Skolt Saami	tääiʹb	tääiʹb(en)	tɒlʲtːʲɛ	ta´ltte	tɒlʲtːʲɛ	0.857142857	
+7338	Skolt Saami	jiẹʹǩǩ	jiẹʹǩǩ	ʝaːnɐ	jään	ʝaːnɐ	0.857142857	
+6756	Skolt Saami	läuggad	lääuǥõõttäd ~ laauǥõõttâd	vuəʝːɐd	vuõjjâd	vuəʝːɐd	0.857142857	
+7338	Skolt Saami	jiẹʹǩǩ	jiẹʹǩǩ	ʧiɒtʦʲɘ	čia´cc	t͡ʃiɒtt͡sʲɘ	0.857142857	
 2554	Skolt Saami	ruʹvvjed	ruʹvvjed	xɛɐrːɒd	heârrad	xɛɐrːɒd	0.875	
 628	Skolt Saami	čueʹcǩes	čueʹcǩes	kəːlmɐs	kõõlmâs	kəːlmɐs	0.875	
 7907	Skolt Saami	miõll	miõll	fitːʲʝʲəs	fi´ttjõs	fitːʲʝʲəs	0.875	
 1393	Skolt Saami	kâʹlmmed	kâʹlmmed	ʝiəŋːɐd	jiõŋŋâd	ʝiəŋːɐd	0.875	
 5488	Skolt Saami	dooidâd	dooidâd	puɛtːʲɛd	pue´tted	puɛtːʲɛd	0.875	
+4990	Skolt Saami	tuäpˈpad	tuäpˈpad	pɐːidʲɛd	pââi´ded	pɐːidʲɛd	0.875	
+4989	Skolt Saami	uussâd	uussâd	pɐːidʲɛd	pââi´ded	pɐːidʲɛd	0.875	
 9816	Skolt Saami	seiʹbb	seiʹbb	piatʦʲic͡ç	piä´cciǩ	piatt͡sʲic͡ç	0.9	
-2198	Skolt Saami	nuʹbb	nuʹbb	ʝeːrʲɛs	jee´res	ʝeːrʲɛs	1.0	
-2964	Skolt Saami	šõllâd	šõllâd	laːtːʲɛs	lää´ttes	laːtːʲɛs	1.0	
-7907	Skolt Saami	miõll	miõll	ʝɛarʲmːʲɘ	jeä´rmm	ʝɛarʲmːʲɘ	1.0	
-5945	Skolt Saami	põrtt	põrtt	taːlːɐ	tääll	taːlːɐ	1.0	
-8799	Skolt Saami	pueʹrr	pueʹrr	ʃiəɣːɐ	šiõǥǥ	ʃiəɣːɐ	1.0	
-10115	Skolt Saami	uʹcc	uʹcc	smɒːvɐs	smaavâs	smɒːvɐs	1.0	
-10115	Skolt Saami	uʹcc	uʹcc	siəmːɐ	siõmm	siəmːɐ	1.0	
-314	Skolt Saami	neuʹrr	neuʹrr	xuɛnːʲɘ	hue´nn	xuɛnːʲɘ	1.0	
-5743	Skolt Saami	tåʹlǩ	tåʹlǩ	pɐiɐ	pâi	pɐiɐ	1.0	
-7111	Skolt Saami	tåʹlcc	tåʹlcc	miarːʲɛs	miä´r'res	miarːʲɛs	1.0	
-813	Skolt Saami	râʹdd	râʹdd	ɲɛdʤʲɘ	nje´ǯǯ	ɲɛdd͡ʒʲɘ	1.0	
-10086	Skolt Saami	ǩeeuʹniǩ	ǩeeuʹniǩ	əːtːɐ	õõtt	əːtːɐ	1.0	
-9510	Skolt Saami	ruõidd	ruõidd	ʧɛbːʲɘ	če´bb	t͡ʃɛbːʲɘ	1.0	
-6664	Skolt Saami	šuõrš-	šuõrš-	pɛʧʲcc͡çʲɛr	pe´čǩǩer	pɛt͡ʃʲcc͡çʲɛr	1.0	
-1018	Skolt Saami	tåʹlǧǧ	tåʹlǧǧ	podʣɐ	poʒʒ	podd͡zɐ	1.0	
-212	Skolt Saami	ja	ja	diɐ	di	diɐ	1.0	
-8733	Skolt Saami	uʹvdded	uʹvdded	anʲɘ	ä´n	anʲɘ	1.0	
-2989	Skolt Saami	smäʹtt	smäʹtt	kuvʲdːʲɘ	ku´vdd	kuvʲdːʲɘ	1.0	
-5743	Skolt Saami	tåʹlǩ	tåʹlǩ	lɛʃɒ	leša	lɛʃɒ	1.0	
-2129	Skolt Saami	korččai	korččai	c͡çɛdʣʲɘ	ǩe´ʒʒ	c͡çɛdd͡zʲɘ	1.0	
-5588	Skolt Saami	kaav	kaav	acc͡çʲɘ	ä´ǩǩ	acc͡çʲɘ	1.0	
-7307	Skolt Saami	čiẹʹcc	čiẹʹcc	ʝaːnɐ	jään	ʝaːnɐ	1.0	
-4106	Skolt Saami	meäʹcˈc	meäʹcˈc	vuɛmːʲɘ	vue´mm	vuɛmːʲɘ	1.0	
-2473	Skolt Saami	ǩeäinn	ǩeäinn	uːlʲɛʦ	uu´lec	uːlʲɛt͡s	1.0	
-2219	Skolt Saami	jeeʹres	jeeʹres	nubːʲɘ	nu´bb	nubːʲɘ	1.0	
-1895	South Saami	plaerie	plaerie	pʰliɛniɛ	plienie	pʰliɛniɛ	0.2857142857142857	
+2198	Skolt Saami	nuʹbb	nuʹbb	ʝeːrʲɛs	jee´res	ʝeːrʲɛs	1	
+2964	Skolt Saami	šõllâd	šõllâd	laːtːʲɛs	lää´ttes	laːtːʲɛs	1	
+7907	Skolt Saami	miõll	miõll	ʝɛarʲmːʲɘ	jeä´rmm	ʝɛarʲmːʲɘ	1	
+5945	Skolt Saami	põrtt	põrtt	taːlːɐ	tääll	taːlːɐ	1	
+8799	Skolt Saami	pueʹrr	pueʹrr	ʃiəɣːɐ	šiõǥǥ	ʃiəɣːɐ	1	
+10115	Skolt Saami	uʹcc	uʹcc	smɒːvɐs	smaavâs	smɒːvɐs	1	
+10115	Skolt Saami	uʹcc	uʹcc	siəmːɐ	siõmm	siəmːɐ	1	
+314	Skolt Saami	neuʹrr	neuʹrr	xuɛnːʲɘ	hue´nn	xuɛnːʲɘ	1	
+5743	Skolt Saami	tåʹlǩ	tåʹlǩ	pɐiɐ	pâi	pɐiɐ	1	
+7111	Skolt Saami	tåʹlcc	tåʹlcc	miarːʲɛs	miä´r'res	miarːʲɛs	1	
+813	Skolt Saami	râʹdd	râʹdd	ɲɛdʤʲɘ	nje´ǯǯ	ɲɛdd͡ʒʲɘ	1	
+10086	Skolt Saami	ǩeeuʹniǩ	ǩeeuʹniǩ	əːtːɐ	õõtt	əːtːɐ	1	
+9510	Skolt Saami	ruõidd	ruõidd	ʧɛbːʲɘ	če´bb	t͡ʃɛbːʲɘ	1	
+6664	Skolt Saami	šuõrš-	šuõrš-	pɛʧʲcc͡çʲɛr	pe´čǩǩer	pɛt͡ʃʲcc͡çʲɛr	1	
+1018	Skolt Saami	tåʹlǧǧ	tåʹlǧǧ	podʣɐ	poʒʒ	podd͡zɐ	1	
+212	Skolt Saami	ja	ja	diɐ	di	diɐ	1	
+8733	Skolt Saami	uʹvdded	uʹvdded	anʲɘ	ä´n	anʲɘ	1	
+2989	Skolt Saami	smäʹtt	smäʹtt	kuvʲdːʲɘ	ku´vdd	kuvʲdːʲɘ	1	
+5743	Skolt Saami	tåʹlǩ	tåʹlǩ	lɛʃɒ	leša	lɛʃɒ	1	
+2129	Skolt Saami	korččai	korččai	c͡çɛdʣʲɘ	ǩe´ʒʒ	c͡çɛdd͡zʲɘ	1	
+5588	Skolt Saami	kaav	kaav	acc͡çʲɘ	ä´ǩǩ	acc͡çʲɘ	1	
+7307	Skolt Saami	čiẹʹcc	čiẹʹcc	ʝaːnɐ	jään	ʝaːnɐ	1	
+4106	Skolt Saami	meäʹcˈc	meäʹcˈc	vuɛmːʲɘ	vue´mm	vuɛmːʲɘ	1	
+2473	Skolt Saami	ǩeäinn	ǩeäinn	uːlʲɛʦ	uu´lec	uːlʲɛt͡s	1	
+2219	Skolt Saami	jeeʹres	jeeʹres	nubːʲɘ	nu´bb	nubːʲɘ	1	
+3442	Skolt Saami	ââʹzzteʹm	ââʹzzteʹm(es)	fiːnɐs	fiinâs	fiːnɐs	1	
+2409	South Saami	rïektes	rïektes	rɨɛktɛ	rïekte	rɨɛktɛ	0.142857143	x
+1895	South Saami	plaerie	plaerie	pʰliɛniɛ	plienie	pʰliɛniɛ	0.285714286	
 6568	South Saami	gaarvanidh	gaarvanidh	hɑːjpanidh	haajpanidh	hɑːjpanidh	0.3	
-8502	South Saami	gaetskedh	gaetskedh	kæːkʧɛdh	gaektjedh	kæːkt͡ʃɛdh	0.3333333333333333	
-7775	South Saami	sleagran	sleagran	sleæɡruʌh	sleagroeh	sleæɡruʌh	0.3333333333333333	
-2326	South Saami	sigkedh	sigkedh	kiɛsɛdh	giesedh	kiɛsɛdh	0.4285714285714285	
+8502	South Saami	gaetskedh	gaetskedh	kæːkʧɛdh	gaektjedh	kæːkt͡ʃɛdh	0.333333333	
+7775	South Saami	sleagran	sleagran	sleæɡruʌh	sleagroeh	sleæɡruʌh	0.333333333	
+8839	South Saami	daejredh	daejredh	tiɛtɛdh	dietedh	tiɛtɛdh	0.375	x
+6239	South Saami	onnevïelle	onnevïelle	βɨɛlːɛ	vïelle	βɨɛlːɛ	0.4	
+943	South Saami	båervie	båervie	pʉɛjtiɛ	buejtie	pʉɛjtiɛ	0.428571429	
+2326	South Saami	sigkedh	sigkedh	kiɛsɛdh	giesedh	kiɛsɛdh	0.428571429	
+4575	South Saami	båaltajehtedh	båaltajehtedh	ʦɨhkijɛhtɛdh	tsïhkijehtedh	t͡sɨhkijɛhtɛdh	0.461538462	
 2091	South Saami	vaerie	vaerie	pɨɛrjɛ	bïerje	pɨɛrjɛ	0.5	
 7823	South Saami	goelke	goelke	βuʌptɛ	voepte	βuʌptɛ	0.5	
 2068	South Saami	tjidtjie	tjidtjie	iɛtniɛ	ietnie	iɛtniɛ	0.5	
 6567	South Saami	daajkedh	daajkedh	hɑːjpanidh	haajpanidh	hɑːjpanidh	0.5	
-3550	South Saami	slijredh	slearodh	slampɛstidh	slampestidh	slampɛstidh	0.5454545454545454	
-3551	South Saami	slijredh	slearodh	slampɛstidh	slampestidh	slampɛstidh	0.5454545454545454	
-3535	South Saami	seedtedh	seedtedh	slampɛstidh	slampestidh	slampɛstidh	0.5454545454545454	
-5812	South Saami	loejhmedh	loejhmedh	ʃɵahkɛdh	sjuahkedh	ʃɵahkɛdh	0.5555555555555556	
-332	South Saami	måekies	måekies	noɒkɛ	nåake	noɒkɛ	0.5714285714285714	
-7389	South Saami	mïnnedh	mïnnedh	jʉhtɛdh	juhtedh	jʉhtɛdh	0.5714285714285714	
-2234	South Saami	spealadidh	spealadidh	lʉstɛdalːɛdh	lustedalledh	lʉstɛdalːɛdh	0.5833333333333334	
+4999	South Saami	bihkedh	bihkedh	pijːiɛdidh	bijjiedidh	pijːiɛdidh	0.5	
+3550	South Saami	slijredh	slearodh	slampɛstidh	slampestidh	slampɛstidh	0.545454545	
+3551	South Saami	slijredh	slearodh	slampɛstidh	slampestidh	slampɛstidh	0.545454545	
+3535	South Saami	seedtedh	seedtedh	slampɛstidh	slampestidh	slampɛstidh	0.545454545	
+5812	South Saami	loejhmedh	loejhmedh	ʃɵahkɛdh	sjuahkedh	ʃɵahkɛdh	0.555555556	
+332	South Saami	måekies	måekies	noɒkɛ	nåake	noɒkɛ	0.571428571	
+7389	South Saami	mïnnedh	mïnnedh	jʉhtɛdh	juhtedh	jʉhtɛdh	0.571428571	
+2234	South Saami	spealadidh	spealadidh	lʉstɛdalːɛdh	lustedalledh	lʉstɛdalːɛdh	0.583333333	
+3479	South Saami	ussjedidh ~ ussjiedidh	ussjedidh ~ ussjiedidh	ʉsːjɛdidh	ussjedidh	ʉsːjɛdidh	0.590909091	x
 2365	South Saami	dïemtjestehtedh	dïemtjestehtedh	βʉɛʧɛdh	vuetjedh	βʉɛt͡ʃɛdh	0.6	
 6569	South Saami	gaatodh	gaatodh	hɑːjpanidh	haajpanidh	hɑːjpanidh	0.6	
 9459	South Saami	bårredh	bårredh	pyœpmɛdidh	byöpmedidh	pyœpmɛdidh	0.6	
+1950	South Saami	gællasjidh	gællasjidh	kɑːjranidh	gaajranidh	kɑːjranidh	0.6	
 9712	South Saami	hajkedh	hajkedh	ruʌhtɛdh	roehtedh	ruʌhtɛdh	0.625	
 2578	South Saami	knugkedh	knugkedh	tɑːɲɛdh	daanjedh	tɑːɲɛdh	0.625	
 9713	South Saami	vaarredh	vaarredh	ruʌhtɛdh	roehtedh	ruʌhtɛdh	0.625	
-3536	South Saami	sleengkedh	sleengkedh	slampɛstidh	slampestidh	slampɛstidh	0.6363636363636364	
-2364	South Saami	dïelkestidh	dïelkestidh	βʉɛʧɛdh	vuetjedh	βʉɛt͡ʃɛdh	0.6363636363636364	
-96	South Saami	tjamke	tjamke	karːɛ	garre	karːɛ	0.6666666666666666	
-5622	South Saami	dahpedh	dahpedh	steːkːɛdh	steegkedh	steːkːɛdh	0.6666666666666666	
-4144	South Saami	soekse	soekse	miɛtiɛ	mietie	miɛtiɛ	0.6666666666666666	
-831	South Saami	mïelke	mïelke	puʌŋɛ	boenge	puʌŋɛ	0.6666666666666666	
-688	South Saami	tjoehpedh	tjoehpedh	piɛʦkɛdh	bietskedh	piɛt͡skɛdh	0.6666666666666666	
-6995	South Saami	vïjredh	vïjredh	peærhtudh	bearhtodh	peærhtudh	0.6666666666666666	
-5826	South Saami	hojjedh	hojjedh	ʃɵahkɛdh	sjuahkedh	ʃɵahkɛdh	0.6666666666666666	
-2963	South Saami	sjyjjehke	sjyjjehke	ɲalhkɛdihks	njalhkedihks	ɲalhkɛdihks	0.6666666666666666	
-676	South Saami	tsïehkesjidh	tsïehkesjidh	ryœknɛhtidh	ryöknehtidh	ryœknɛhtidh	0.6666666666666666	
-2245	South Saami	stååkedidh	stååkedidh	lʉstɛdalːɛdh	lustedalledh	lʉstɛdalːɛdh	0.6666666666666666	
+9591	South Saami	båssodh	båssodh	pɨɛkːɛdh	bïegkedh	pɨɛkːɛdh	0.625	
+3536	South Saami	sleengkedh	sleengkedh	slampɛstidh	slampestidh	slampɛstidh	0.636363636	
+2364	South Saami	dïelkestidh	dïelkestidh	βʉɛʧɛdh	vuetjedh	βʉɛt͡ʃɛdh	0.636363636	
+7250	South Saami	nïekedidh	nïekedidh	nahkɛrɛ	nahkere	nahkɛrɛ	0.666666667	
+96	South Saami	tjamke	tjamke	karːɛ	garre	karːɛ	0.666666667	
+5622	South Saami	dahpedh	dahpedh	steːkːɛdh	steegkedh	steːkːɛdh	0.666666667	
+4144	South Saami	soekse	soekse	miɛtiɛ	mietie	miɛtiɛ	0.666666667	
+831	South Saami	mïelke	mïelke	puʌŋɛ	boenge	puʌŋɛ	0.666666667	
+688	South Saami	tjoehpedh	tjoehpedh	piɛʦkɛdh	bietskedh	piɛt͡skɛdh	0.666666667	
+6995	South Saami	vïjredh	vïjredh	peærhtudh	bearhtodh	peærhtudh	0.666666667	
+5826	South Saami	hojjedh	hojjedh	ʃɵahkɛdh	sjuahkedh	ʃɵahkɛdh	0.666666667	
+2963	South Saami	sjyjjehke	sjyjjehke	ɲalhkɛdihks	njalhkedihks	ɲalhkɛdihks	0.666666667	
+676	South Saami	tsïehkesjidh	tsïehkesjidh	ryœknɛhtidh	ryöknehtidh	ryœknɛhtidh	0.666666667	
+2245	South Saami	stååkedidh	stååkedidh	lʉstɛdalːɛdh	lustedalledh	lʉstɛdalːɛdh	0.666666667	
 7600	South Saami	utniehtidh	utniedidh	βøːrhkɛdh	vöörhkedh	βøːrhkɛdh	0.7	
 4266	South Saami	bijjiedidh	bijjiedidh	lʉtɲɛdh	lutnjedh	lʉtɲɛdh	0.7	
 6125	South Saami	lïeredh	lïeredh	øːhpɛhtidh	ööhpehtidh	øːhpɛhtidh	0.7	
@@ -1008,121 +1125,173 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 2245	South Saami	stååkedidh	stååkedidh	rɨʧːɛdh	rïdtjedh	rɨt͡ʃːɛdh	0.7	
 8113	South Saami	tsaepmedh	tsaepmedh	peːŋhkɛdh	beenghkedh	peːŋhkɛdh	0.7	
 7601	South Saami	utniehtidh	utniedidh	βøːrhkɛdh	vöörhkedh	βøːrhkɛdh	0.7	
-332	South Saami	måekies	måekies	mɔtːan	mådtan	mɔtːan	0.7142857142857143	
-5933	South Saami	gåetie	gåetie	stoɒpuʌ	ståapoe	stoɒpuʌ	0.7142857142857143	
-5234	South Saami	nïere	nïere	almɛʧɛ	almetje	almɛt͡ʃɛ	0.7142857142857143	
-9145	South Saami	librie	librie	mʉɛksiɛ	mueksie	mʉɛksiɛ	0.7142857142857143	
-7902	South Saami	mïele	mïele	jiɛrmiɛ	jiermie	jiɛrmiɛ	0.7142857142857143	
+1975	South Saami	veasodh	veasodh	jiɛlɛdh	jieledh	jiɛlɛdh	0.714285714	
+332	South Saami	måekies	måekies	mɔtːan	mådtan	mɔtːan	0.714285714	
+5933	South Saami	gåetie	gåetie	stoɒpuʌ	ståapoe	stoɒpuʌ	0.714285714	
+5234	South Saami	nïere	nïere	almɛʧɛ	almetje	almɛt͡ʃɛ	0.714285714	
+9145	South Saami	librie	librie	mʉɛksiɛ	mueksie	mʉɛksiɛ	0.714285714	
+7902	South Saami	mïele	mïele	jiɛrmiɛ	jiermie	jiɛrmiɛ	0.714285714	
 6403	South Saami	såvnjodh	såvnjodh	firːɛdh	firredh	firːɛdh	0.75	
 7109	South Saami	nalhve	nalhve	pæːnɛhʦ	baenehts	pæːnɛht͡s	0.75	
 2637	South Saami	saelhtie	saelhtie	meæruʌ	mearoe	meæruʌ	0.75	
 7902	South Saami	mïele	mïele	kuʌrkɛsh	goerkesh	kuʌrkɛsh	0.75	
 255	South Saami	vaejsjie	vaejsjie	jʉβrɛ	juvre	jʉβrɛ	0.75	
 573	South Saami	guehpere	guehpere	kaʦːɛ	gadtse	kat͡sːɛ	0.75	
-6751	South Saami	laavkodh	laavkodh	βuʌjɛdidh	voejedidh	βuʌjɛdidh	0.7777777777777778	
+3459	South Saami	siegkies	siegkies	jisːɛhʦ	jissehts	jisːɛht͡s	0.75	
+6751	South Saami	laavkodh	laavkodh	βuʌjɛdidh	voejedidh	βuʌjɛdidh	0.777777778	
 8285	South Saami	daan	daam	tihtɛ	dihte	tihtɛ	0.8	
 2234	South Saami	spealadidh	spealadidh	rɨʧːɛdh	rïdtjedh	rɨt͡ʃːɛdh	0.8	
 8284	South Saami	daan	daam	tihtɛ	dihte	tihtɛ	0.8	
+8030	South Saami	satne	satne	tɨhtɛ	dïhte	tɨhtɛ	0.8	
 4102	South Saami	skåake ~ skåajje	skåake ~ skåajje	miɛhʦiɛ	miehtsie	miɛht͡siɛ	0.8125	
-624	South Saami	tjåetskemes	tjåetskemes	kalmɛ	galme	kalmɛ	0.8181818181818182	
-1443	South Saami	ellies	ellies	tɨɛβɛ	dïeve	tɨɛβɛ	0.8333333333333334	
-4355	South Saami	sijjieh	sijjieh	tah	dah	tah	0.8571428571428571	
-206	South Saami	gonnoeh	gon	jɨh	jïh	jɨh	0.8571428571428571	
-4144	South Saami	soekse	soekse	mɑːrhkɛ	maarhke	mɑːrhkɛ	0.8571428571428571	
-205	South Saami	gonnoeh	gon	jɨh	jïh	jɨh	0.8571428571428571	
-333	South Saami	madtan	madtan	skrɑːpɛ	skraape	skrɑːpɛ	0.8571428571428571	
+624	South Saami	tjåetskemes	tjåetskemes	kalmɛ	galme	kalmɛ	0.818181818	
+1443	South Saami	ellies	ellies	tɨɛβɛ	dïeve	tɨɛβɛ	0.833333333	
+9045	South Saami	eatneme	eatneme	mʉɛltiɛ	mueltie	mʉɛltiɛ	0.857142857	
+4355	South Saami	sijjieh	sijjieh	tah	dah	tah	0.857142857	
+206	South Saami	gonnoeh	gon	jɨh	jïh	jɨh	0.857142857	
+4144	South Saami	soekse	soekse	mɑːrhkɛ	maarhke	mɑːrhkɛ	0.857142857	
+205	South Saami	gonnoeh	gon	jɨh	jïh	jɨh	0.857142857	
+333	South Saami	madtan	madtan	skrɑːpɛ	skraape	skrɑːpɛ	0.857142857	
 3193	South Saami	stuehkie	stuehkie	kaltɛ	galte	kaltɛ	0.875	
 1096	South Saami	dåarodh	dåarodh	kæmhpumɛ	gæmhpome	kæmhpumɛ	0.875	
 2193	South Saami	mubpie	mubpie	jeæʧɛbɛ	jeatjebe	jeæt͡ʃɛbɛ	0.875	
 3193	South Saami	stuehkie	stuehkie	kʰlɔpːuʌ	klåbpoe	kʰlɔpːuʌ	0.875	
-333	South Saami	madtan	madtan	noɒkɛ	nåake	noɒkɛ	1.0	
-332	South Saami	måekies	måekies	skrɑːpɛ	skraape	skrɑːpɛ	1.0	
-2325	Tundra Nenets	nekəlcy°	nekəlcy°	nækəlpəsʲ	нэкӑлпӑ(сь)	nækəlpəsʲ	0.5555555555555556	
+333	South Saami	madtan	madtan	noɒkɛ	nåake	noɒkɛ	1	
+332	South Saami	måekies	måekies	skrɑːpɛ	skraape	skrɑːpɛ	1	
+9045	South Saami	eatneme	eatneme	joɒrta	jåarta	joɒrta	1	
+3026	Tundra Nenets	ŋəmca	ŋəmca	ŋəmzɑ	ӈӑмза	ŋəmzɑ	0.4	x
+3793	Tundra Nenets	toxontabco	toxontabco	toːxoːndɑbʦoː	тохондабцо	toːxoːndɑbt͡soː	0.461538462	x
+8057	Tundra Nenets	pida	pida	pɨdə	пыдӑ	pɨdə	0.5	x
+939	Tundra Nenets	yur	yur	jurʔ	юрˮ	jurʔ	0.5	x
+1195	Tundra Nenets	saryo	saryo	sɑrʲoː	сарё	sɑrʲoː	0.5	x
+2325	Tundra Nenets	nekəlcy°	nekəlcy°	nækəlpəsʲ	нэкӑлпӑ(сь)	nækəlpəsʲ	0.555555556	
+3457	Tundra Nenets	yabta	yabta	jɑbtɑ	ябта	jɑbtɑ	0.6	x
+7265	Tundra Nenets	yude-	yude-	judæ	юдэ	judæ	0.6	x
 8401	Tundra Nenets	ŋercy°	ŋercy°	ŋeːrpəsʲ	ӈэ̇рпӑ(сь)	ŋeːrpəsʲ	0.625	
-4828	Tundra Nenets	ŋax°qna	ŋax°qna	ŋɨxɨ	ӈыхы	ŋɨxɨ	0.7142857142857143	
-7234	Tundra Nenets	xæm	xæm	xæbʲiʦʲ	хэбиць	xæbʲit͡sʲ	0.7142857142857143	
-673	Tundra Nenets	tola°	tola°	toːlɑŋɡoːsʲ	толаӈго(сь)	toːlɑŋɡoːsʲ	0.7272727272727273	
+8726	Tundra Nenets	pəra°	pəra°	pərɑdɑsʲ	пӑрада(сь)	pərɑdɑsʲ	0.625	x
+8849	Tundra Nenets	tyenyewə°	tyenyewə°	tʲeːɲeːwɑsʲ	тенева(сь)	tʲeːɲeːwɑsʲ	0.636363636	x
+6017	Tundra Nenets	múh	múh	muʔ	муʼ(н)	muʔ	0.666666667	x
+1947	Tundra Nenets	yúsyeda°	yúsyeda°	jusʲeːdɑsʲ	юседа(сь)	jusʲeːdɑsʲ	0.7	x
+1309	Tundra Nenets	tyírcy°	tyírcy°	tʲirʦʲ	тирць	tʲirt͡sʲ	0.714285714	x
+4828	Tundra Nenets	ŋax°qna	ŋax°qna	ŋɨxɨ	ӈыхы	ŋɨxɨ	0.714285714	
+7234	Tundra Nenets	xæm	xæm	xæbʲiʦʲ	хэбиць	xæbʲit͡sʲ	0.714285714	
+673	Tundra Nenets	tola°	tola°	toːlɑŋɡoːsʲ	толаӈго(сь)	toːlɑŋɡoːsʲ	0.727272727	
 1922	Tundra Nenets	pəncyeq°	pəncyeq°	pəjɑk	пӑяк	pəjɑk	0.75	
 4966	Tundra Nenets	yabcə°	yabcə°	jɑbʦbəsʲ	ябцбӑ(сь)	jɑbt͡sbəsʲ	0.75	
 9677	Tundra Nenets	xaqmə°	xaqmə°	xəwŋɡəsʲ	хӑвӈгӑ(сь)	xəwŋɡəsʲ	0.75	
 1034	Tundra Nenets	to	to	tərʔ	тӑрˮ	tərʔ	0.75	
 5640	Tundra Nenets	pəkəlcy°	pəkəlcy°	tələsʲ	тӑлӑ(сь)	tələsʲ	0.75	
 8137	Tundra Nenets	ladə°	ladə°	xɑdɑbəsʲ	хадабӑ(сь)	xɑdɑbəsʲ	0.75	
+539	Tundra Nenets	ŋəcyeki°	ŋəcyeki°	ŋɑʦʲeːkɨ	ӈацекы	ŋɑt͡sʲeːkɨ	0.75	x
+9434	Tundra Nenets	nyew°xi°	nyew°xi°	ɲeːwxɨ	невхы	ɲeːwxɨ	0.75	x
+2926	Tundra Nenets	tyunye°	tyunye°	tʲuɲeːsʲ	тюне(сь)	tʲuɲeːsʲ	0.75	x
+2420	Tundra Nenets	nyenesya	nyenesya	ɲeːnæsʲɑ	ненэся	ɲeːnæsʲɑ	0.75	x
+8601	Tundra Nenets	yake	yake	jɑkæ	якэ	jɑkæ	0.75	x
 5498	Tundra Nenets	tæwə°	tæwə°	toːsʲ	тось	toːsʲ	0.8	
 4692	Tundra Nenets	xasawa yúq	xasawa yúq	xɑsujuʔ	хасуюˮ(д)	xɑsujuʔ	0.8	
 9244	Tundra Nenets	weya	weya	xeːmʔ	хэ̇мʼ	xeːmʔ	0.8	
 5125	Tundra Nenets	yayebta°	yayebta°	mənzɑbtɑsʲ	мӑнзабта(сь)	mənzɑbtɑsʲ	0.8	
 8343	Tundra Nenets	tye-nyana	tye-nyana	tʲeːjʲɑʎɑʔ	тей яляʼ	tʲeːj ʲɑʎɑʔ	0.8	
-8880	Tundra Nenets	nyisy°	nyisy°	ɲi	ни	ɲi	0.8333333333333334	
-2227	Tundra Nenets	nyabyi	nyabyi	ŋɑɲi	ӈани	ŋɑɲi	0.8333333333333334	
-6435	Tundra Nenets	xúb°ta	xúb°ta	xuː	хӯ	xuː	0.8333333333333334	
-6435	Tundra Nenets	xúb°ta	xúb°ta	xuːwɨ	хӯвы	xuːwɨ	0.8333333333333334	
-4828	Tundra Nenets	ŋax°qna	ŋax°qna	ŋɑʔi	ӈаˮи	ŋɑʔi	0.8571428571428571	
-4828	Tundra Nenets	ŋax°qna	ŋax°qna	xubtɑ	хубта	xubtɑ	0.8571428571428571	
-8137	Tundra Nenets	ladə°	ladə°	jutbəsʲ	ютбӑ(сь)	jutbəsʲ	0.8571428571428571	
-4828	Tundra Nenets	ŋax°qna	ŋax°qna	ŋɑdɨxɨ	ӈадыхы	ŋɑdɨxɨ	0.8571428571428571	
-3698	Tundra Nenets	yadə°	yadə°	jɑdærʦʲ	ядэрць	jɑdært͡sʲ	0.8571428571428571	
-836	Tundra Nenets	lempara	lempara	ŋɑmʲɑ	ӈамя	ŋɑmʲɑ	0.8571428571428571	
+3489	Tundra Nenets	yí yadercy°	yí yadercy°	jiʔʲɑdærʦʲ	иʼ- ядэрць	jiʔ ʲɑdært͡sʲ	0.818181818	x
+8280	Tundra Nenets	nyamt°	nyamt°	ɲɑmd	нямд	ɲɑmd	0.833333333	x
+8880	Tundra Nenets	nyisy°	nyisy°	ɲi	ни	ɲi	0.833333333	
+2227	Tundra Nenets	nyabyi	nyabyi	ŋɑɲi	ӈани	ŋɑɲi	0.833333333	
+6435	Tundra Nenets	xúb°ta	xúb°ta	xuː	хӯ	xuː	0.833333333	
+6435	Tundra Nenets	xúb°ta	xúb°ta	xuːwɨ	хӯвы	xuːwɨ	0.833333333	
+1973	Tundra Nenets	yilye°	yilye°	jiʎeːsʲ	иле(сь)	jiʎeːsʲ	0.857142857	x
+4601	Tundra Nenets	tyunye°	tyunye°	tumdɑsʲ	тумда́(сь)	tumdɑsʲ	0.857142857	
+4828	Tundra Nenets	ŋax°qna	ŋax°qna	ŋɑʔi	ӈаˮи	ŋɑʔi	0.857142857	
+4828	Tundra Nenets	ŋax°qna	ŋax°qna	xubtɑ	хубта	xubtɑ	0.857142857	
+8137	Tundra Nenets	ladə°	ladə°	jutbəsʲ	ютбӑ(сь)	jutbəsʲ	0.857142857	
+4828	Tundra Nenets	ŋax°qna	ŋax°qna	ŋɑdɨxɨ	ӈадыхы	ŋɑdɨxɨ	0.857142857	
+3698	Tundra Nenets	yadə°	yadə°	jɑdærʦʲ	ядэрць	jɑdært͡sʲ	0.857142857	
+836	Tundra Nenets	lempara	lempara	ŋɑmʲɑ	ӈамя	ŋɑmʲɑ	0.857142857	
 2706	Tundra Nenets	yah sæw°	yah sæw°	sæwkoː	сэвко	sæwkoː	0.875	
 1119	Tundra Nenets	pyodə°	pyodə°	tɑroːʔmɑ	тароˮма	tɑroːʔmɑ	0.875	
 2566	Tundra Nenets	puyə°	puyə°	jixibəsʲ	ихибӑ(сь)	jixibəsʲ	0.875	
-9800	Tundra Nenets	wenyeko ~ wenyako	wenyeko ~ wenyako	weːʔ	вэ̇ʼ(н)	weːʔ	0.8823529411764706	
+9434	Tundra Nenets	nyew°xi°	nyew°xi°	weːsæj	весэй	weːsæj	0.875	
+1010	Tundra Nenets	pyínə°	pyínə°	pʲīʎuʦʲ	пӣлюць	pʲīʎut͡sʲ	0.875	
+9800	Tundra Nenets	wenyeko ~ wenyako	wenyeko ~ wenyako	weːʔ	вэ̇ʼ(н)	weːʔ	0.882352941	
 9884	Tundra Nenets	syarə°	syarə°	mɑnoːmbəsʲ	маномбӑ(сь)	mɑnoːmbəsʲ	0.9	
 8518	Tundra Nenets	syakəlcy°	syakəlcy°	sʲɑtoːrəsʲ	сяторӑ(сь)	sʲɑtoːrəsʲ	0.9	
 1744	Tundra Nenets	xən-cyer°q	xən-cyer°q	xurkɑwnɑ	хуркавна	xurkɑwnɑ	0.9	
-7611	Tundra Nenets	mecy°	mecy°	leːtrɑmbəsʲ	лэ̇трамбӑ(сь)	leːtrɑmbəsʲ	0.9090909090909091	
-6767	Tundra Nenets	pədyer-	pədyer-	xəltɑŋɡoːsʲ	хӑлтаӈго(сь)	xəltɑŋɡoːsʲ	0.9090909090909091	
-9677	Tundra Nenets	xaqmə°	xaqmə°	moːʔnɑŋɡəsʲ	моˮнаӈгӑсь	moːʔnɑŋɡəsʲ	0.9090909090909091	
-6406	Tundra Nenets	lyed°rəltye-	lyed°rəltye-	pərpəsʲ	пӑрпӑ(сь)	pərpəsʲ	0.9166666666666666	
-5435	Tundra Nenets	myin°xə-	myin°xə-	mʲeːrbʲɑrʲiwnɑ	мербяривна	mʲeːrbʲɑrʲiwnɑ	0.9285714285714286	
-500	Tundra Nenets	yínt°q	yínt°q	jindɑdmʔneːkɑlpəsʲ	индадмʼ нэ̇калпӑ(сь)	jindɑdmʔ neːkɑlpəsʲ	0.9444444444444444	
-91	Tundra Nenets	yabtyiy° ~ yabtiy°	yabtyiy° ~ yabtiy°	toːjeːnɑnɑ	тоенана	toːjeːnɑnɑ	0.9444444444444444	
-1247	Tundra Nenets	yent°q	yent°q	loːxoːrʦʲ	лохорць	loːxoːrt͡sʲ	1.0	
-2772	Tundra Nenets	pəqmya	pəqmya	ɲɑndoːtɑ	няндота	ɲɑndoːtɑ	1.0	
-168	Tundra Nenets	mal°h	mal°h	tʲukuʔ	тюкуˮ	tʲukuʔ	1.0	
-5751	Tundra Nenets	tæryi	tæryi	wɑlɑkədɑ	валакӑда	wɑlɑkədɑ	1.0	
-8753	Tundra Nenets	myicy°	myicy°	tɑsʲ	тась	tɑsʲ	1.0	
-4523	Tundra Nenets	yarcoŋkey°	yarcoŋkey°	jeːɲɑd	еняд	jeːɲɑd	1.0	
-6554	Tundra Nenets	yoxo°	yoxo°	jəŋɡumzʲ	я̆ӈгумзь	jəŋɡumzʲ	1.0	
-2356	Tundra Nenets	tyircyidye°	tyircyidye°	ɲeːnzxəlɑsʲ	нензхӑла(сь)	ɲeːnzxəlɑsʲ	1.0	
-7299	Tundra Nenets	yataqma	yataqma	jɑʔ	яˮ(с)	jɑʔ	1.0	
-5062	Tundra Nenets	tərpə°	tərpə°	xæsʲ	хэсь	xæsʲ	1.0	
-5467	Tundra Nenets	nyibyi	nyibyi	ʎɑrʦoː	лярцо	ʎɑrt͡soː	1.0	
-5435	Tundra Nenets	myin°xə-	myin°xə-	ŋæloːmʔ	ӈэломʼ	ŋæloːmʔ	1.0	
-7077	Tundra Nenets	pyíryibtya	pyíryibtya	ɲeːŋɑʦʲeːkɨ	не ӈацекы	ɲeː ŋɑt͡sʲeːkɨ	1.0	
-5981	Tundra Nenets	syo	syo	xɨnəbʦ	хынӑбц	xɨnəbt͡s	1.0	
-7814	Tundra Nenets	tər	tər	ŋæbt	ӈэбт	ŋæbt	1.0	
-5593	Tundra Nenets	nye	nye	puxu	пуху	puxu	1.0	
-713	Tundra Nenets	məda°	məda°	jeːrpəsʲ	ерпӑ(сь)	jeːrpəsʲ	1.0	
-10137	Tundra Nenets	nyudya	nyudya	ɲoːʔʎoːkoː	нёˮлёко	ɲoːʔʎoːkoː	1.0	
-9530	Tundra Nenets	sidi°	sidi°	jeːjʔ	ейʼ(н)	jeːjʔ	1.0	
-9819	Tundra Nenets	tæwa	tæwa	murtɨʔ	муртыˮ(с)	murtɨʔ	1.0	
-5232	Tundra Nenets	nyenecy°h	nyenecy°h	xibʲɑ	хибя	xibʲɑ	1.0	
-9081	Tundra Nenets	syata-nyaŋi°	syata-nyaŋi°	wɑdʲisʲeːj	вадисей	wɑdʲisʲeːj	1.0	
-1247	Tundra Nenets	yent°q	yent°q	sʲəlɑjɑsʲ	ся̆лая(сь)	sʲəlɑjɑsʲ	1.0	
-9291	Tundra Nenets	xana°	xana°	mʲiɲeːsʲ	мине(сь)	mʲiɲeːsʲ	1.0	
-3836	Veps	me	me	mœ	mö	mœ	0.5	
-4364	Veps	hī	hī	hœ	hö	hœ	0.5	
+7611	Tundra Nenets	mecy°	mecy°	leːtrɑmbəsʲ	лэ̇трамбӑ(сь)	leːtrɑmbəsʲ	0.909090909	
+6767	Tundra Nenets	pədyer-	pədyer-	xəltɑŋɡoːsʲ	хӑлтаӈго(сь)	xəltɑŋɡoːsʲ	0.909090909	
+9677	Tundra Nenets	xaqmə°	xaqmə°	moːʔnɑŋɡəsʲ	моˮнаӈгӑсь	moːʔnɑŋɡəsʲ	0.909090909	
+6406	Tundra Nenets	lyed°rəltye-	lyed°rəltye-	pərpəsʲ	пӑрпӑ(сь)	pərpəsʲ	0.916666667	
+5435	Tundra Nenets	myin°xə-	myin°xə-	mʲeːrbʲɑrʲiwnɑ	мербяривна	mʲeːrbʲɑrʲiwnɑ	0.928571429	
+500	Tundra Nenets	yínt°q	yínt°q	jindɑdmʔneːkɑlpəsʲ	индадмʼ нэ̇калпӑ(сь)	jindɑdmʔ neːkɑlpəsʲ	0.944444444	
+91	Tundra Nenets	yabtyiy° ~ yabtiy°	yabtyiy° ~ yabtiy°	toːjeːnɑnɑ	тоенана	toːjeːnɑnɑ	0.944444444	
+1247	Tundra Nenets	yent°q	yent°q	loːxoːrʦʲ	лохорць	loːxoːrt͡sʲ	1	
+2772	Tundra Nenets	pəqmya	pəqmya	ɲɑndoːtɑ	няндота	ɲɑndoːtɑ	1	
+168	Tundra Nenets	mal°h	mal°h	tʲukuʔ	тюкуˮ	tʲukuʔ	1	
+5751	Tundra Nenets	tæryi	tæryi	wɑlɑkədɑ	валакӑда	wɑlɑkədɑ	1	
+8753	Tundra Nenets	myicy°	myicy°	tɑsʲ	тась	tɑsʲ	1	
+4523	Tundra Nenets	yarcoŋkey°	yarcoŋkey°	jeːɲɑd	еняд	jeːɲɑd	1	
+6554	Tundra Nenets	yoxo°	yoxo°	jəŋɡumzʲ	я̆ӈгумзь	jəŋɡumzʲ	1	
+2356	Tundra Nenets	tyircyidye°	tyircyidye°	ɲeːnzxəlɑsʲ	нензхӑла(сь)	ɲeːnzxəlɑsʲ	1	
+7299	Tundra Nenets	yataqma	yataqma	jɑʔ	яˮ(с)	jɑʔ	1	
+5062	Tundra Nenets	tərpə°	tərpə°	xæsʲ	хэсь	xæsʲ	1	
+5467	Tundra Nenets	nyibyi	nyibyi	ʎɑrʦoː	лярцо	ʎɑrt͡soː	1	
+5435	Tundra Nenets	myin°xə-	myin°xə-	ŋæloːmʔ	ӈэломʼ	ŋæloːmʔ	1	
+7077	Tundra Nenets	pyíryibtya	pyíryibtya	ɲeːŋɑʦʲeːkɨ	не ӈацекы	ɲeː ŋɑt͡sʲeːkɨ	1	
+5981	Tundra Nenets	syo	syo	xɨnəbʦ	хынӑбц	xɨnəbt͡s	1	
+7814	Tundra Nenets	tər	tər	ŋæbt	ӈэбт	ŋæbt	1	
+5593	Tundra Nenets	nye	nye	puxu	пуху	puxu	1	
+713	Tundra Nenets	məda°	məda°	jeːrpəsʲ	ерпӑ(сь)	jeːrpəsʲ	1	
+10137	Tundra Nenets	nyudya	nyudya	ɲoːʔʎoːkoː	нёˮлёко	ɲoːʔʎoːkoː	1	
+9530	Tundra Nenets	sidi°	sidi°	jeːjʔ	ейʼ(н)	jeːjʔ	1	
+9819	Tundra Nenets	tæwa	tæwa	murtɨʔ	муртыˮ(с)	murtɨʔ	1	
+5232	Tundra Nenets	nyenecy°h	nyenecy°h	xibʲɑ	хибя	xibʲɑ	1	
+9081	Tundra Nenets	syata-nyaŋi°	syata-nyaŋi°	wɑdʲisʲeːj	вадисей	wɑdʲisʲeːj	1	
+1247	Tundra Nenets	yent°q	yent°q	sʲəlɑjɑsʲ	ся̆лая(сь)	sʲəlɑjɑsʲ	1	
+9291	Tundra Nenets	xana°	xana°	mʲiɲeːsʲ	мине(сь)	mʲiɲeːsʲ	1	
+539	Tundra Nenets	ŋəcyeki°	ŋəcyeki°	ɲu	ню	ɲu	1	
+9616	Tundra Nenets	púcy°	púcy°	xeːjɑrʦʲ	хэ̇ярць	xeːjɑrt͡sʲ	1	
+9434	Tundra Nenets	nyew°xi°	nyew°xi°	puxumɨ	пухумы	puxumɨ	1	
+3457	Tundra Nenets	yabta	yabta	ɲɑnzʲədɑ	нянзя̆да	ɲɑnzʲədɑ	1	
+8665	Tundra Nenets	nyú	nyú	ŋɑʦʲeːkɨ	ӈацекы	ŋɑt͡sʲeːkɨ	1	
+8665	Tundra Nenets	nyú	nyú	ɲu	ню	ɲu	1	x
+8726	Tundra Nenets	pəra°	pəra°	tuʦʲ	туць	tut͡sʲ	1	
+9622	Tundra Nenets	posə°	posə°	xeːjɑrʦʲ	хэ̇ярць	xeːjɑrt͡sʲ	1	
+743	Tundra Nenets	yalya	yalya	jɑʎɑ	яля	jɑʎɑ	1	x
+9053	Tundra Nenets	ya	ya	jɑ	я	jɑ	1	x
+6246	Tundra Nenets	pyebya	pyebya	ɲɑ	ня	ɲɑ	1	
+8711	Veps	palada	palada	pɑlːɑdɑ	pallada	pɑlːɑdɑ	0.142857143	x
+8825	Veps	tʹeta	tʹeta	tɛtɑ	teta	tɛtɑ	0.2	x
+8265	Veps	saŕv	saŕv	sɑrʲv	sar'v	sɑrʲv	0.2	x
+8040	Veps	hʹän	hʹän	hæn	hän	hæn	0.25	x
+727	Veps	päi	päi(v)	pæiv	päiv	pæiv	0.25	x
+1961	Veps	elʹada	elʹada	ɛlædɑ	eläda	ɛlædɑ	0.333333333	x
+3773	Veps	kärbhǟń	kärbhǟń	kærbhɑinɛ	kärbhaine	kærbhɑinɛ	0.333333333	x
+514	Veps	lapś	lapś	lɑpsʲ	laps'	lɑpsʲ	0.4	x
+8639	Veps	lapś	lapś	lɑpsʲ	laps'	lɑpsʲ	0.4	x
+3836	Veps	me	me	mœ	mö	mœ	0.5	x
+4364	Veps	hī	hī	hœ	hö	hœ	0.5	x
 4835	Veps	kerata	kerata	kɔɡɔtɑ	kogota	kɔɡɔtɑ	0.5	
 1481	Veps	viher	viher	vihɑnd	vihand	vihɑnd	0.5	
+4571	Veps	viritada	viritada	sʏtʊtɑdɑ	sütutada	sʏtʊtɑdɑ	0.5	
+8711	Veps	palada	palada	pɔltːɑ	poltta	pɔltːɑ	0.5	
 2541	Veps	herda	herda	hɔstɑ	hosta	hɔstɑ	0.6	
 4261	Veps	leta	leta	libʊtɑdɑ	libutada	libʊtɑdɑ	0.625	
 2549	Veps	hośtʹa	hośtʹa	jɔrɔtɑdɑ	jorotada	jɔrɔtɑdɑ	0.625	
 2541	Veps	herda	herda	jɔrɔtɑdɑ	jorotada	jɔrɔtɑdɑ	0.625	
-9283	Veps	kanta ~ kantta	kanta ~ kantta	kɑndiʃtɑ	kandišta	kɑndiʃtɑ	0.6428571428571429	
-6536	Veps	kadoda	kadoda	hɑjɛtɑ	hajeta	hɑjɛtɑ	0.6666666666666666	
-3544	Veps	tatsta	tatsta	ʧʊtɑ	čuta	t͡ʃʊtɑ	0.6666666666666666	
-1716	Veps	mit	mit	kʊt	kut	kʊt	0.6666666666666666	
-7398	Veps	mändä	mändä	kævʊdɑ	kävuda	kævʊdɑ	0.6666666666666666	
-686	Veps	tšapta	tšapta	lɛikɑtɑ	leikata	lɛikɑtɑ	0.7142857142857143	
-2541	Veps	herda	herda	tœrkitɑ	törkita	tœrkitɑ	0.7142857142857143	
-9657	Veps	kirbota	kirbota	lɑŋːɛtɑ	langeta	lɑŋːɛtɑ	0.7142857142857143	
+9600	Veps	puhalta ~ puhuda	puhalta ~ puhuda	pʊhʊdɑ	puhuda	pʊhʊdɑ	0.625	x
+9283	Veps	kanta ~ kantta	kanta ~ kantta	kɑndiʃtɑ	kandišta	kɑndiʃtɑ	0.642857143	
+6536	Veps	kadoda	kadoda	hɑjɛtɑ	hajeta	hɑjɛtɑ	0.666666667	
+3544	Veps	tatsta	tatsta	ʧʊtɑ	čuta	t͡ʃʊtɑ	0.666666667	
+1716	Veps	mit	mit	kʊt	kut	kʊt	0.666666667	
+7398	Veps	mändä	mändä	kævʊdɑ	kävuda	kævʊdɑ	0.666666667	
+686	Veps	tšapta	tšapta	lɛikɑtɑ	leikata	lɛikɑtɑ	0.714285714	
+2541	Veps	herda	herda	tœrkitɑ	törkita	tœrkitɑ	0.714285714	
+9657	Veps	kirbota	kirbota	lɑŋːɛtɑ	langeta	lɑŋːɛtɑ	0.714285714	
 2022	Veps	ku	ku	kʊdmɑinɛ	kudmaine	kʊdmɑinɛ	0.75	
 2782	Veps	loulda	loulda	pɑjɑtɑdɑ	pajatada	pɑjɑtɑdɑ	0.75	
 308	Veps	hond	hond	hʊbɑ	huba	hʊbɑ	0.75	
 817	Veps	rind	rind	niʒɑ	niža	niʒɑ	0.75	
 2337	Veps	rekta	rekta	ʒiɡʊtɑdɑ	žigutada	ʒiɡʊtɑdɑ	0.75	
-4234	Veps	tʹö ~ tʹe	tʹö ~ tʹe	tœ	tö	tœ	0.7777777777777778	
+918	Veps	izr	izr	rɑzv	razv	rɑzv	0.75	
+4234	Veps	tʹö ~ tʹe	tʹö ~ tʹe	tœ	tö	tœ	0.777777778	
 5694	Veps	mužik	mužik	mɛzʲ	mez'	mɛzʲ	0.8	
 7780	Veps	hibus	hibus	tʊk	tuk	tʊk	0.8	
 4734	Veps	vajeh	vajeh	sɑnɑ	sana	sɑnɑ	0.8	
@@ -1131,31 +1300,39 @@ UraLex_Index	Language	UraLex_Form	UraLex_Value	NEL_Form	NEL_Value	NEL_Source_For
 8920	Veps	polʹv	polʹv	kɔmb	komb	kɔmb	0.8	
 7967	Veps	suŕ	suŕ	jærɛd	järed	jærɛd	0.8	
 5935	Veps	koti	koti	pɛrtʲ	pert'	pɛrtʲ	0.8	
-7591	Veps	pidäda	pidäda	kɑitɑ	kaita	kɑitɑ	0.8333333333333334	
-1226	Veps	joksta	joksta	vɑlʊdɑ	valuda	vɑlʊdɑ	0.8333333333333334	
-10102	Veps	peń	peń	piʧʊinɛ	pičuine	pit͡ʃʊinɛ	0.8571428571428571	
-7746	Veps	pagan	pagan	rɛdʊkɑz	redukaz	rɛdʊkɑz	0.8571428571428571	
-2505	Veps	kruglʹē	kruglʹē	kɛxkɛr	kehker	kɛxkɛr	0.8571428571428571	
-1380	Veps	jaduda	jaduda	kʏlʲmdæ	kül'mdä	kʏlʲmdæ	0.8571428571428571	
-5199	Veps	ińehmoi	ińehmoi	mɛzʲ	mez'	mɛzʲ	0.8571428571428571	
-5416	Veps	teravas	teravas	piɡɑi	pigai	piɡɑi	0.8571428571428571	
-2549	Veps	hośtʹa	hośtʹa	tœrkitɑ	törkita	tœrkitɑ	0.8571428571428571	
+9600	Veps	puhalta ~ puhuda	puhalta ~ puhuda	dœltɑ	dölta	dœltɑ	0.8125	
+1927	Veps	magata	magata	vɛnʊdɑ	venuda	vɛnʊdɑ	0.833333333	
+4979	Veps	poimda	poimda	lɛtɑ	leta	lɛtɑ	0.833333333	
+2904	Veps	ńuhtta	ńuhtta	riʒɑdɑ	rižada	riʒɑdɑ	0.833333333	
+7591	Veps	pidäda	pidäda	kɑitɑ	kaita	kɑitɑ	0.833333333	
+1226	Veps	joksta	joksta	vɑlʊdɑ	valuda	vɑlʊdɑ	0.833333333	
+5077	Veps	olda ńälʹgäs	ńälʹktuda	nælʲɡhinɛ	näl'ghine	nælʲɡhinɛ	0.846153846	
+5078	Veps	olda ńälʹgäs	ńälʹktuda	nælʲɡhinɛ	näl'ghine	nælʲɡhinɛ	0.846153846	
+10102	Veps	peń	peń	piʧʊinɛ	pičuine	pit͡ʃʊinɛ	0.857142857	
+7746	Veps	pagan	pagan	rɛdʊkɑz	redukaz	rɛdʊkɑz	0.857142857	
+2505	Veps	kruglʹē	kruglʹē	kɛxkɛr	kehker	kɛxkɛr	0.857142857	
+1380	Veps	jaduda	jaduda	kʏlʲmdæ	kül'mdä	kʏlʲmdæ	0.857142857	
+5199	Veps	ińehmoi	ińehmoi	mɛzʲ	mez'	mɛzʲ	0.857142857	
+5416	Veps	teravas	teravas	piɡɑi	pigai	piɡɑi	0.857142857	
+2549	Veps	hośtʹa	hośtʹa	tœrkitɑ	törkita	tœrkitɑ	0.857142857	
 1271	Veps	cvetuińe	cvetuińe	ænik	änik	ænik	0.875	
+7243	Veps	nähta unt	nähta unt	ʊnikʊvɑ	unikuva	ʊnikʊvɑ	0.888888889	
 3353	Veps	nakkalaine	nakkalaine	sɛ	se	sɛ	0.9	
-4486	Veps	t́iheińe ~ t́ihäińe	t́iheińe ~ t́ihäińe	sæsʲk	säs'k	sæsʲk	0.9523809523809523	
-10080	Veps	pilʹvez	pilʹvez	kʊvɑhɑinɛ	kuvahaine	kʊvɑhɑinɛ	1.0	
-1021	Veps	sūg	sūg	hœʊnɛh	höuneh	hœʊnɛh	1.0	
-6253	Veps	t́ehtas	t́ehtas	lindæ	lindä	lindæ	1.0	
-438	Veps	bolāńe	bō	mɑrj	marj	mɑrj	1.0	
-1469	Veps	roho	roho	hɛin	hein	hɛin	1.0	
-8531	Veps	ahav	ahav	tʊlːɛi	tullei	tʊlːɛi	1.0	
-9227	Veps	veŕi	veŕi	ʧɑk	čak	t͡ʃɑk	1.0	
-7819	Veps	karv	karv	hibʊz	hibuz	hibʊz	1.0	
-9192	Veps	hibi	hibi	nɑxk	nahk	nɑxk	1.0	
-7819	Veps	karv	karv	tʊk	tuk	tʊk	1.0	
-882	Veps	tomu	tomu	pœlʏ	pölü	pœlʏ	1.0	
-3412	Veps	nakka	nakka(na)	siɡæ	sigä	siɡæ	1.0	
-2488	Veps	doroga	doroga	tɛ	te	tɛ	1.0	
-5199	Veps	ińehmoi	ińehmoi	ristit	ristit	ristit	1.0	
-8531	Veps	ahav	ahav	dœl	döl	dœl	1.0	
-439	Veps	bolāńe	bō	mɑrj	marj	mɑrj	1.0	
+4486	Veps	t́iheińe ~ t́ihäińe	t́iheińe ~ t́ihäińe	sæsʲk	säs'k	sæsʲk	0.952380952	
+10080	Veps	pilʹvez	pilʹvez	kʊvɑhɑinɛ	kuvahaine	kʊvɑhɑinɛ	1	
+1021	Veps	sūg	sūg	hœʊnɛh	höuneh	hœʊnɛh	1	
+6253	Veps	t́ehtas	t́ehtas	lindæ	lindä	lindæ	1	
+438	Veps	bolāńe	bō	mɑrj	marj	mɑrj	1	
+1469	Veps	roho	roho	hɛin	hein	hɛin	1	
+8531	Veps	ahav	ahav	tʊlːɛi	tullei	tʊlːɛi	1	
+9227	Veps	veŕi	veŕi	ʧɑk	čak	t͡ʃɑk	1	
+7819	Veps	karv	karv	hibʊz	hibuz	hibʊz	1	
+9192	Veps	hibi	hibi	nɑxk	nahk	nɑxk	1	
+7819	Veps	karv	karv	tʊk	tuk	tʊk	1	
+882	Veps	tomu	tomu	pœlʏ	pölü	pœlʏ	1	
+3412	Veps	nakka	nakka(na)	siɡæ	sigä	siɡæ	1	
+2488	Veps	doroga	doroga	tɛ	te	tɛ	1	
+5199	Veps	ińehmoi	ińehmoi	ristit	ristit	ristit	1	
+8531	Veps	ahav	ahav	dœl	döl	dœl	1	
+439	Veps	bolāńe	bō	mɑrj	marj	mɑrj	1	
+1189	Veps	sadada	sadada	vixm	vihm	vixm	1	

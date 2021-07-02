@@ -36,6 +36,12 @@ concept_data = csv_to_dict('Source/cldf/parameters.csv', sep=',')
 concept_dict = {concept_data[i]['ID']:concept_data[i]['Concepticon_Gloss']
                 for i in concept_data}
 
+#Load mappings of differing labels for the same concept group
+all_concepts = pd.read_csv(str(parent_dir) + '/Concepts/concepts.csv', sep='\t')
+base_concepts = {list(all_concepts.Concept)[i]:list(all_concepts.BaseConcept)[i] 
+                 for i in range(len(all_concepts))}
+
+
 #%%
 #LOAD COGNATE SETS AND BORROWING DATA
 print('Loading cognate sets...')
@@ -207,8 +213,9 @@ for i in forms_data:
         if type(iso_code) == float: #nan
             iso_code = ''
         concepticon_gloss = concept_dict[Parameter_ID]
+        base_concept = base_concepts[concepticon_gloss]
         cognacy_ID = cognate_dict[ID]
-        cognate_sets[concepticon_gloss].append(cognacy_ID)
+        cognate_sets[base_concept].append(cognacy_ID)
         
         tr = item_IPA.strip()
         original_tr = tr[:]
@@ -266,12 +273,12 @@ for i in forms_data:
                 new_entry['Language_ID'] = lang_name
                 new_entry['Glottocode'] = glottocode
                 new_entry['ISO 639-3'] = iso_code
-                new_entry['Parameter_ID'] = concepticon_gloss
+                new_entry['Parameter_ID'] = base_concept
                 new_entry['Value'] = Value
                 new_entry['Form'] = tr
                 new_entry['Segments'] = ' '.join(segment_word(tr))
                 new_entry['Source_Form'] = original_tr
-                new_entry['Cognate_ID'] = '_'.join([concepticon_gloss, cognacy_ID])
+                new_entry['Cognate_ID'] = '_'.join([base_concept, cognacy_ID])
                 if ID in loan_list:
                     new_entry['Loan'] = 'TRUE' 
                 else:
@@ -329,14 +336,16 @@ for i in NEL_data:
     if NEL_data[i]['Language_ID'] in uralex_NEL_mapping.values():
         lang_id = NEL_data[i]['Language_ID']
         gloss = NEL_data[i]['Parameter_ID']
+        base_concept = base_concepts[gloss]
         value = NEL_data[i]['Value']
         form = NEL_data[i]['Form']
         source_form = NEL_data[i]['Source_Form']
-        NEL_data_dict[(lang_id, gloss)].append((value, form, source_form))
+        NEL_data_dict[(lang_id, base_concept)].append((value, form, source_form))
         included.append(lang_id)
     else:
         not_included.append(NEL_data[i]['Language_ID'])
-    
+
+#%%    
 print('Searching for equivalent word entries between UraLex and NorthEuraLex...')
 found_in_NEL = defaultdict(lambda:[])  
 not_found_in_NEL = defaultdict(lambda:[])                                               
@@ -358,11 +367,12 @@ for uralex_lang in uralex_NEL_mapping:
             if type(iso_code) == float: #nan
                 iso_code = ''
             concepticon_gloss = concept_dict[Parameter_ID]
+            base_concept = base_concepts[concepticon_gloss]
             cognacy_ID = cognate_dict[ID]
-            cognate_sets[concepticon_gloss].append(cognacy_ID)
+            cognate_sets[base_concept].append(cognacy_ID)
             found = False
             #NEL_data_dict is a default dict, no need for try/except KeyError
-            NEL_entries = NEL_data_dict[(NEL_lang, concepticon_gloss)]
+            NEL_entries = NEL_data_dict[(NEL_lang, base_concept)]
             for NEL_entry in NEL_entries:
                 if ((Value in NEL_entry) or (Form in NEL_entry)):
                     found = NEL_entry
@@ -390,12 +400,12 @@ for uralex_lang in uralex_NEL_mapping:
                 new_entry['Language_ID'] = lang_name
                 new_entry['Glottocode'] = glottocode
                 new_entry['ISO 639-3'] = iso_code
-                new_entry['Parameter_ID'] = concepticon_gloss
+                new_entry['Parameter_ID'] = base_concept
                 new_entry['Value'] = NEL_value
                 new_entry['Form'] = NEL_form
                 new_entry['Segments'] = ' '.join(segment_word(NEL_form))
                 new_entry['Source_Form'] = NEL_source_form
-                new_entry['Cognate_ID'] = '_'.join([concepticon_gloss, cognacy_ID])
+                new_entry['Cognate_ID'] = '_'.join([base_concept, cognacy_ID])
                 if ID in loan_list:
                     new_entry['Loan'] = 'TRUE' 
                 else:
@@ -510,7 +520,8 @@ for j in index_dict:
     lang_name, glottocode, iso_code = lang_data[uralic_ids[lang_id]]
     cognacy_ID = cognate_dict[uralex_entry['ID']]
     concepticon_gloss = concept_dict[uralex_entry['Parameter_ID']]
-    cognate_sets[concepticon_gloss].append(cognacy_ID)
+    base_concept = base_concepts[concepticon_gloss]
+    cognate_sets[base_concept].append(cognacy_ID)
     NEL_value = imported_entry['NEL_Value']
     NEL_form = imported_entry['NEL_Form']
     NEL_source = imported_entry['NEL_Source_Form']
@@ -520,12 +531,12 @@ for j in index_dict:
     new_entry['Language_ID'] = lang_name
     new_entry['Glottocode'] = glottocode
     new_entry['ISO 639-3'] = iso_code
-    new_entry['Parameter_ID'] = concepticon_gloss
+    new_entry['Parameter_ID'] = base_concept
     new_entry['Value'] = NEL_value
     new_entry['Form'] = NEL_form
     new_entry['Segments'] = ' '.join(segment_word(NEL_form))
     new_entry['Source_Form'] = NEL_source
-    new_entry['Cognate_ID'] = '_'.join([concepticon_gloss, cognacy_ID])
+    new_entry['Cognate_ID'] = '_'.join([base_concept, cognacy_ID])
     if uralex_entry['ID'] in loan_list:
         new_entry['Loan'] = 'TRUE' 
     else:
