@@ -137,6 +137,23 @@ def has_parentheses(string):
     else:
         return False
 
+def standardize_geminates(word):
+    #convert double vowels to long vowels; but not consonants
+    #(some sequences of non-identical in some Uralic languages correspond with sequences of identical consonants in others, cf. Italian)
+    segments = segment_word(word)
+    for i in range(1, len(segments)):
+        if segments[i] == segments[i-1]:
+            if strip_diacritics(segments[i]) in vowels:
+                segments[i] = 'ː'
+        if 'ː' in segments[i]:
+            seg_list = list(segments[i])
+            if strip_diacritics(segments[i]) not in vowels:
+                seg_list[-1] = ''.join(seg_list[:-1])
+                segments[i] = ''.join(seg_list)
+    word = ''.join(segments)
+    return word
+    
+
 def fix_tr(word, lang):
     #use conversion dict to convert individual segments
     word = ''.join([conversion_dict.get(ch, ch) for ch in word])
@@ -148,7 +165,7 @@ def fix_tr(word, lang):
         word = re.sub('a', 'ɑ', word) 
     
     #needs to precede reg exp conversions in order to escape changing <ḱ> --> <c> --> <ʦ>
-    if lang not in ['Hungarian', 'Votic']:
+    if lang not in ['Hungarian']:#, 'Votic']: #why was Votic previously excluded? seems to need this conversion too
         word = re.sub('c', 'ʦ', word)    
 
     #reg exp conversions
@@ -169,16 +186,18 @@ def fix_tr(word, lang):
     word = re.sub('ts', 'ʦ', word) #change to a single affricate symbol
     word = re.sub('t͡s', 'ʦ', word) #change to a single affricate symbol
     word = re.sub('dz', 'ʣ', word) #change to a single affricate symbol
+    word = re.sub('ːʲ', 'ʲː', word) #reverse ordering of length and palatalizing symbols
     
-    #convert double consonants to long consonants
-    segments = segment_word(word)
-    for i in range(1, len(segments)):
-        if segments[i] == segments[i-1]:
-            segments[i] = 'ː'
-    word = ''.join(segments)
+    #convert double vowels to long vowels; but not consonants
+    #(some sequences of non-identical in some Uralic languages correspond with sequences of identical consonants in others, cf. Italian)
+    word = standardize_geminates(word)
+    
+    #correct any double long symbols
+    word = re.sub('ːː', 'ː', word)
     
     #after converting double consonants, remove '-' segmentation 
     #(otherwise e.g. Mansi /lɑp-pɑnti/ would become /lɑpːɑnti/ instead of /lɑppɑnti/)
+    #probably irrelevant if we don't convert consonants, see above note
     word = re.sub('-', '', word)
     
     #remove parenthetical annotations/alternatives
@@ -186,6 +205,83 @@ def fix_tr(word, lang):
         word = re.sub(r'\([^()]*\)', '', word)
     
     return word
+
+def transcribe_voro(word):
+    """Grapheme-to-phoneme transcription tool for the Võro language
+    #Based on: https://www.omniglot.com/writing/voro.htm
+    #https://en.wikipedia.org/wiki/V%C3%B5ro_language#Orthography
+    #https://www.thefreelibrary.com/Grade+alternation+in+Voro+South+Estonian.-a0243043467
+    """
+    voro_ipa_dict = {'a':'ɑ',
+                'b':'p',
+                'c':'ʦ',
+                'd':'t',
+                'e':'e',
+                'f':'f',
+                'g':'k',
+                'h':'h',
+                'i':'i',
+                'j':'j',
+                'k':'kk',
+                'l':'l',
+                'm':'m',
+                'n':'n',
+                'o':'o',
+                'p':'pp',
+                'q':'ʔ',
+                'r':'r',
+                's':'ss',
+                't':'tt',
+                'u':'u',
+                'v':'v',
+                'w':'v',
+                'x':'ks',
+                'y':'ɨ',
+                'z':'s',
+                'ä':'æ',
+                'õ':'ɤ',
+                'ö':'ø',
+                'ü':'y',
+                'š':'ʃʃ',
+                'ž':'ʃ',
+                '’':'ʲ',
+                "'":"ʲ"}
+    #Note: transcription in UraLex seems not to use <c, w, x, y, z>
+    #<ts> --> /ʦ/ rather than <c>
+    
+    
+    #First convert two-character sequences
+    tr = re.sub('ng', 'ŋ', word) #phoneme according to Wikipedia description
+    tr = re.sub('ts', 'ʦ', word)
+    
+    #Then convert all single characters
+    tr = [voro_ipa_dict.get(ch, ch) for ch in tr]
+    
+    #Convert sequences of two identical vowels to a long vowel
+    voro_vowels = ['ɑ', 'e', 'i', 'o', 'u', 'ɨ', 'æ', 'ɤ', 'ø', 'y']
+    if len(tr) > 1:
+        for i in range(1, len(tr)):
+            ch = tr[i]
+            if ch in voro_vowels:
+                prev_ch = tr[i-1]
+                if prev_ch == ch:
+                    tr[i] = 'ː'
+    tr = ''.join(tr)
+    
+    #Then fix doubles/Q3 (quantity 3)
+    #double <pp, tt, kk, ss> represent overlong (Q3) consonants (Iva, 2010)
+    #they will be mistakenly be written as 4x consonants, reduce to only 3x
+    tr = re.sub('pppp', 'ppp', tr)
+    tr = re.sub('tttt', 'ttt', tr)
+    tr = re.sub('kkkk', 'kkk', tr)
+    tr = re.sub('ssss', 'sss', tr)
+    
+    #Possible remaining issues:
+        #is this the best way to transcribe Q3?
+        #currently double consonants which are palatalized have only the second
+        #part palatalized: e.g. <tiokarp'> /ttiokɑrppʲ/, <miis'> /miːssʲ/
+    
+    return tr
 
 #%%
 #PREPROCESS URALEX DATA TRANSCRIPTION
@@ -219,6 +315,10 @@ for i in forms_data:
         
         tr = item_IPA.strip()
         original_tr = tr[:]
+        
+        #if the language is Võro, use the Võro G2P on the orthography instead
+        if lang_name == 'Võro':
+            tr = transcribe_voro(Value)
         
         #if the IPA transcription is missing, try to find it in the raw data file
         if tr == '':
@@ -392,8 +492,9 @@ for uralex_lang in uralex_NEL_mapping:
                         'ɟɟ͡ʝ':'ɟ͡ʝː'}
                 for to_fix in NEL_fix_dict:
                     NEL_form = re.sub(to_fix, NEL_fix_dict[to_fix], NEL_form)
-                #and one more fix which must follow 
+                #and two more fixes which MUST follow 
                 NEL_form = re.sub('ːʲ', 'ʲː', NEL_form)
+                NEL_form = standardize_geminates(NEL_form)
                 
                 new_entry = uralic_data[i]
                 new_entry['ID'] = '_'.join([strip_ch(lang_name, [' ']), cognacy_ID])
@@ -478,8 +579,10 @@ for i in NEL_equivalents:
                         'ɟɟ͡ʝ':'ɟ͡ʝː'}
         for to_fix in NEL_fix_dict:
             NEL_form = re.sub(to_fix, NEL_fix_dict[to_fix], NEL_form)
-        #and one more fix which must follow
+        #and two more fixes which MUST follow
         NEL_form = re.sub('ːʲ', 'ʲː', NEL_form)
+        NEL_form = standardize_geminates(NEL_form)
+        
         NEL_equivalents[i]['NEL_Form'] = NEL_form
         
         NEL_value = entry['NEL_Value']
