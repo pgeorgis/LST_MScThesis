@@ -152,6 +152,31 @@ def fix_tr(tr, lang):
     tr = re.sub('ːː', 'ː', tr)
     tr = re.sub('̯̯', '̯', tr)
     
+    #fix position of primary stress annotation (make it immediately precede the stress-bearing segment)
+    stress_marked = 'ˈ' in tr
+    if stress_marked == True:
+        segments = segment_word(tr)
+        stress_is = []
+        for i in range(len(segments)):
+            for stress_mark in ['ˈ', 'ˌ']:
+                if stress_mark in segments[i]:
+                    stress_is.append((i, stress_mark))
+        offset = 0
+        for entry in stress_is:
+            i, stress_mark = entry
+            new_i = i
+            while strip_diacritics(segments[new_i])[0] not in vowels:
+                if '̩' in segments[new_i]:
+                    break
+                elif '̍' in segments[new_i]:
+                    break
+                else:
+                    new_i += 1
+            if new_i != i:
+                segments[i] = ''.join([ch for ch in segments[i] if ch != stress_mark])
+                segments[new_i] = stress_mark + segments[new_i]
+        tr = ''.join(segments)
+    
     return tr
 
 problems = []

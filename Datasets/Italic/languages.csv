@@ -1,59 +1,59 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Concept_Count,Word_Count
 Aromanian,Aromanian,arom1237,Aromanian,rup,Eurasia,40.616,21.2,Indo-European,110,119
 Asturian,Asturian,astu1246,Asturian,ast,Eurasia,42.4181,-6.02227,Indo-European,110,118
-CastellódelaPlanaCatalan,Catalan (Castelló de la Plana),vale1255,Valencià Meridional,cat,Eurasia,41.453,1.569,Indo-European,110,115
-CentralCatalan,Catalan (Central),nons1235,Central Catalan,cat,Eurasia,41.453,1.569,Indo-European,110,119
-ManisesCatalan,Catalan (Manises),vale1253,Valencià Septentrional,cat,Eurasia,41.453,1.569,Indo-European,110,116
-MinorcanCatalan,Catalan (Minorcan),meno1253,Menorquí,cat,Eurasia,41.453,1.569,Indo-European,110,114
-North-WesternCatalan,Catalan (Northwestern),cata1291,Català Nord-Occidental,cat,Eurasia,41.453,1.569,Indo-European,110,125
-ValenciaCatalan,Catalan (Valencia),vale1252,Valencià,cat,Eurasia,41.453,1.569,Indo-European,110,116
+CastellódelaPlanaCatalan,Catalan (Castelló de la Plana),vale1255,Valencià Meridional,cat,Eurasia,39.9864,-0.0513,Indo-European,110,115
+CentralCatalan,Catalan (Central),nons1235,Barceloní,cat,Eurasia,41.3851,2.1734,Indo-European,110,119
+ManisesCatalan,Catalan (Manises),vale1253,Valencià Septentrional,cat,Eurasia,39.4938,-0.4635,Indo-European,110,116
+MinorcanCatalan,Catalan (Minorcan),meno1253,Menorquí,cat,Eurasia,39.9496,4.1104,Indo-European,110,114
+North-WesternCatalan,Catalan (Northwestern),cata1291,Català Nord-Occidental,cat,Eurasia,41.3985,0.7913,Indo-European,110,125
+ValenciaCatalan,Catalan (Valencia),vale1252,Valencià,cat,Eurasia,39.4699,-0.3763,Indo-European,110,116
 Dalmatian,Dalmatian,dalm1243,Dalmatian,dlm,Eurasia,42.7095,18.0238,Indo-European,103,134
-CarpigianoEmiliano,Emiliano (Carpigiano),emil1241,Emiliano,egl,Eurasia,44.3536,11.5794,Indo-European,110,115
-FerrareseEmiliano,Emiliano (Ferrarese),east2275,Eastern Emiliano,egl,Eurasia,44.3536,11.5794,Indo-European,109,111
-ReggianoEmiliano,Emiliano (Reggiano),cent1959,Central Emiliano,egl,Eurasia,44.3536,11.5794,Indo-European,110,125
+CarpigianoEmiliano,Emiliano (Carpigiano),emil1241,Emiliano,egl,Eurasia,44.7839,11.5794,Indo-European,110,115
+FerrareseEmiliano,Emiliano (Ferrarese),east2275,Eastern Emiliano,egl,Eurasia,44.8381,11.6198,Indo-European,109,111
+ReggianoEmiliano,Emiliano (Reggiano),cent1959,Central Emiliano,egl,Eurasia,44.699,10.6297,Indo-European,110,125
 SavoyardFranco-Provençal,Franco-Provençal,savo1253,Savoyard,frp,Eurasia,45.8051,6.48152,Indo-European,109,136
 StandardFrench,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European,110,116
 Friulian,Friulian,friu1240,Friulian,fur,Eurasia,46.1473,13.0493,Indo-European,110,115
 Galician,Galician,gali1258,Galician,glg,Eurasia,42.2446,-7.5343,Indo-European,110,117
 IstroRomanian,Istro-Romanian,istr1245,Istro Romanian,ruo,Eurasia,45.433,14.2,Indo-European,110,113
-FolignoItalian,Italian (Foligno),ital1282,Italian,ita,Eurasia,43.0464,12.6489,Indo-European,110,116
-GrossetoItalian,Italian (Grosseto),ital1282,Italian,ita,Eurasia,43.0464,12.6489,Indo-European,110,114
-StandardItalian,Italian (Standard),ital1282,Italian,ita,Eurasia,43.0464,12.6489,Indo-European,110,118
-FassanoLadin,Ladin (Fassano),fass1244,Fassano,lld,Eurasia,46.60651,11.89498,Indo-European,110,117
-GardeneseLadin,Ladin (Gardenese),gard1241,Gardenese,lld,Eurasia,46.60651,11.89498,Indo-European,110,117
+StandardItalian,Italian,ital1282,Italian,ita,Eurasia,43.0464,12.6489,Indo-European,110,118
+FassanoLadin,Ladin (Fassano),fass1244,Fassano,lld,Eurasia,46.4333,11.7,Indo-European,110,117
+GardeneseLadin,Ladin (Gardenese),gard1241,Gardenese,lld,Eurasia,46.5559,11.7028,Indo-European,110,117
 ArchaicLatin,Latin (Archaic),oldl1238,Old Latin,qbb,Eurasia,41.901111,12.488333,Indo-European,109,114
 LateClassicalLatin,Latin (Late Classical),late1252,Late Latin,lat,Eurasia,41.901111,12.488333,Indo-European,107,113
-GenoeseLigurian,Ligurian (Genoese),geno1240,Genoese,lij,Eurasia,44.0816,7.90522,Indo-European,110,111
-RapalloLigurian,Ligurian (Rapallo),ligu1248,Ligurian,lij,Eurasia,44.0816,7.90522,Indo-European,110,111
-StellaLigurian,Ligurian (Stella),ligu1248,Ligurian,lij,Eurasia,44.0816,7.90522,Indo-European,110,116
-BergamoLombard,Lombard (Bergamo),berg1241,Bergamasco,lmo,Eurasia,45.8817,9.39509,Indo-European,110,116
-PlesioLombard,Lombard (Plesio),west2343,Western Lombard,lmo,Eurasia,45.8817,9.39509,Indo-European,110,112
+GenoeseLigurian,Ligurian (Genoese),geno1240,Genoese,lij,Eurasia,44.4056,8.9463,Indo-European,110,111
+RapalloLigurian,Ligurian (Rapallo),ligu1248,Ligurian,lij,Eurasia,44.3498,9.2339,Indo-European,110,111
+StellaLigurian,Ligurian (Stella),ligu1248,Ligurian,lij,Eurasia,44.394,8.4952,Indo-European,110,116
+BergamoLombard,Lombard (Bergamo),berg1241,Bergamasco,lmo,Eurasia,45.6983,9.6773,Indo-European,110,116
+PlesioLombard,Lombard (Plesio),west2343,Western Lombard,lmo,Eurasia,46.0633,9.2074,Indo-European,110,112
 MeglenoRomanian,Megleno-Romanian,megl1237,Megleno Romanian,ruq,Eurasia,41.1174,22.3782,Indo-European,109,115
-Neapolitan,Neapolitan,napo1241,Napoletano,nap,Eurasia,39.2288,16.4225,Indo-European,110,147
+Neapolitan,Neapolitan,napo1241,Napoletano,nap,Eurasia,40.8518,14.2681,Indo-European,110,147
 ProvençalOccitan,Occitan,prov1235,Provençal,oci,Eurasia,44.0,6.0,Indo-European,109,141
 OldFrench,Old French,oldf1239,Old French (842-ca. 1400),fro,Eurasia,48.8,1.11,Indo-European,110,118
 OldItalian,Old Italian,fior1236,Old Italian,ita,Eurasia,43.0464,12.6489,Indo-European,110,126
 Picard,Picard,pica1241,Picard,pcd,Eurasia,50.2831,3.25085,Indo-European,110,113
-BarbaniaPiemontese,Piemontese (Barbania),piem1238,Piemontese,pms,Eurasia,45.4633,8.32366,Indo-European,110,115
-CarmagnolaPiemontese,Piemontese (Carmagnola),piem1238,Piemontese,pms,Eurasia,45.4633,8.32366,Indo-European,110,114
-LanzoTorinesePiemontese,Piemontese (Lanzo Torinese),piem1238,Piemontese,pms,Eurasia,45.4633,8.32366,Indo-European,110,113
-TurinesePiemontese,Piemontese (Turinese),turi1245,Turinese,pms,Eurasia,45.4633,8.32366,Indo-European,110,121
-VercellesePiemontese,Piemontese (Vercellese),piem1238,Piemontese,pms,Eurasia,45.4633,8.32366,Indo-European,110,116
+BarbaniaPiemontese,Piemontese (Barbania),piem1238,Piemontese,pms,Eurasia,45.2913,7.6312,Indo-European,110,115
+CarmagnolaPiemontese,Piemontese (Carmagnola),piem1238,Piemontese,pms,Eurasia,44.8459,7.7174,Indo-European,110,114
+LanzoTorinesePiemontese,Piemontese (Lanzo Torinese),piem1238,Piemontese,pms,Eurasia,45.2701,7.4775,Indo-European,110,113
+TurinesePiemontese,Piemontese (Turinese),turi1245,Turinese,pms,Eurasia,45.0703,7.6869,Indo-European,110,121
+VercellesePiemontese,Piemontese (Vercellese),piem1238,Piemontese,pms,Eurasia,45.3202,8.4186,Indo-European,110,116
 StandardPortuguese,Portuguese,port1283,Portuguese,por,Eurasia,39.91,-8.1,Indo-European,110,117
 RavennateRomagnol,Romagnol,roma1328,Romagnol,rgn,Eurasia,44.2349,11.7189,Indo-European,108,114
 Romanian,Romanian,roma1327,Romanian,ron,Eurasia,46.3913,24.2256,Indo-European,110,116
 RumantschGrischun,Romansh (Grischun),ruma1247,Rumantsch Grischun,roh,Eurasia,46.5538,9.92812,Indo-European,110,112
-SurmiranRomansh,Romansh (Surmiran),surm1243,Surmiran-Albula,roh,Eurasia,46.5538,9.92812,Indo-European,110,113
-SursilvanRomansh,Romansh (Sursilvan),surs1244,Sursilvan,roh,Eurasia,46.5538,9.92812,Indo-European,110,120
-ValladerRomansh,Romansh (Vallader),lowe1386,Lower Engadine,roh,Eurasia,46.5538,9.92812,Indo-European,110,124
+SurmiranRomansh,Romansh (Surmiran),surm1243,Surmiran-Albula,roh,Eurasia,46.7123,9.4494,Indo-European,110,113
+SursilvanRomansh,Romansh (Sursilvan),surs1244,Sursilvan,roh,Eurasia,46.6881,9.2007,Indo-European,110,120
+ValladerRomansh,Romansh (Vallader),lowe1386,Lower Engadine,roh,Eurasia,46.5497,9.8959,Indo-European,110,124
 Campidanese,Sardinian (Campidanese),camp1261,Campidanese Sardinian,sro,Eurasia,39.0566,9.03935,Indo-European,110,119
 Logudorese,Sardinian (Logudorese),logu1236,Logudorese Sardinian,src,Eurasia,40.49,9.09957,Indo-European,110,118
-CatanianSicilian,Sicilian (Catanian),east2279,Eastern Nonmetafonetica,scn,Eurasia,37.5735,14.0414,Indo-European,110,128
-MessineseSicilian,Sicilian (Messinese),mess1247,Messinese,scn,Eurasia,37.5735,14.0414,Indo-European,110,116
-PalermitanSicilian,Sicilian (Palermitan),west2346,Western Sicilian,scn,Eurasia,37.5735,14.0414,Indo-European,110,122
-South-EasternSicilian,Sicilian (Southeastern),sout2617,Southeast Metafonetica,scn,Eurasia,37.5735,14.0414,Indo-European,110,116
-CastilianSpanish,Spanish,cast1244,Castilian,spa,Eurasia,40.4414,-1.11788,Indo-European,110,114
-BelluneseVenetian,Venetian (Bellunese),trie1242,Triestine,vec,Eurasia,45.503581,12.214167,Indo-European,110,112
-PrimieroVenetian,Venetian (Primiero),tret1239,Trentine,vec,Eurasia,45.503581,12.214167,Indo-European,110,118
-VeniceVenetian,Venetian (Venice),vene1259,Venetian Proper,vec,Eurasia,45.503581,12.214167,Indo-European,110,133
+CatanianSicilian,Sicilian (Catanian),east2279,Eastern Nonmetafonetica,scn,Eurasia,37.5079,15.083,Indo-European,110,128
+MessineseSicilian,Sicilian (Messinese),mess1247,Messinese,scn,Eurasia,38.1937,15.5542,Indo-European,110,116
+PalermitanSicilian,Sicilian (Palermitan),west2346,Western Sicilian,scn,Eurasia,38.1157,13.3615,Indo-European,110,122
+South-EasternSicilian,Sicilian (Southeastern),sout2617,Southeast Metafonetica,scn,Eurasia,37.3089,13.5858,Indo-European,110,116
+CastilianSpanish,Spanish,cast1244,Castilian,spa,Eurasia,41.7666,-2.479,Indo-European,110,114
+GrossetoItalian,Tuscan,fior1235,Fiorentino,ita,Eurasia,42.7635,11.1124,Indo-European,110,114
+FolignoItalian,Umbrian,lazi1238,Laziale,ita,Eurasia,42.9509,12.7015,Indo-European,110,116
+BelluneseVenetian,Venetian (Bellunese),trie1242,Triestine,vec,Eurasia,46.1425,12.2167,Indo-European,110,112
+PrimieroVenetian,Venetian (Primiero),tret1239,Trentine,vec,Eurasia,46.1758,11.8284,Indo-European,110,118
+VeniceVenetian,Venetian (Venice),vene1259,Venetian Proper,vec,Eurasia,45.4408,12.3155,Indo-European,110,133
 Walloon,Walloon,wall1255,Walloon,wln,Eurasia,50.2235,5.14509,Indo-European,110,126
