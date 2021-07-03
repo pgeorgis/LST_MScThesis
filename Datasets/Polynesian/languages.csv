@@ -1,7 +1,7 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Concept_Count,Word_Count
 Anuta,Anuta,anut1237,Anuta,aud,Papunesia,-11.61,169.85,Austronesian,196,222
-AustralA,Austral (Ra'ivavae),raiv1237,Ra'ivavae,aut,Papunesia,-23.865,-147.6609,Austronesian,192,200
-AustralB,Austral (Rurutuan),ruru1237,Rurutuan,aut,Papunesia,-22.4801,-151.3385,Austronesian,210,262
+AustralA,Austral (Ra'ivavae),raiv1237,Raivavae,aut,Papunesia,-23.865,-147.6609,Austronesian,192,200
+AustralB,Austral (Rurutuan),ruru1237,Rurutu,aut,Papunesia,-22.4801,-151.3385,Austronesian,210,262
 EastFutuna,East Futuna,east2447,East Futuna,fud,Papunesia,-14.278717,-178.137222,Austronesian,209,279
 Emae,Emae,emae1237,Emae,mmw,Papunesia,-17.052,168.399,Austronesian,178,189
 FutunaAniwa,Futuna-Aniwa,futu1245,Futuna-Aniwa,fut,Papunesia,-19.5303,170.215,Austronesian,202,240
