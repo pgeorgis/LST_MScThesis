@@ -11,11 +11,12 @@ os.chdir(str(grandparent_dir) + '/Code')
 from phonetic_distance import *
 from auxiliary_functions import csv_to_dict, strip_ch
 
-#Load automatic G2P transcription tools for Czech and Polish
+#Load automatic G2P transcription tools
 os.chdir(str(grandparent_dir) + '/Code/Automatic_Transcription/')
 from transcribe_czech import *
 from transcribe_polish import *
 from transcribe_ukrainian import *
+from transcribe_belarusian import *
 os.chdir(local_dir)
 
 
@@ -34,22 +35,39 @@ concept_data = csv_to_dict('Source/northeuralex-0.9-concept-data.tsv', sep='\t')
 
 #Take Concepticon gloss, unless there isn't one, in which case the proposed Concepticon gloss
 #If that also doesn't exist, take the NELEX ID
+#Update: only take words with concepticon glosses
 concept_IDs = {}
+excluded_concepts = []
 for i in concept_data:
     entry = concept_data[i]
     id_nelex = entry['id_nelex']
     concepticon = entry['concepticon']
     if concepticon == '<NA>':
-        concepticon = entry['concepticon_proposed']
-    if concepticon != '<NA>':    
+    #    concepticon = entry['concepticon_proposed']
+        excluded_concepts.append(entry['concepticon_proposed'])
+    elif concepticon != '<NA>':    
         concept_IDs[id_nelex] = concepticon
     else:
-        concept_IDs[id_nelex] = id_nelex
+    #    concept_IDs[id_nelex] = id_nelex
+        excluded_concepts.append(id_nelex)
 
-#Load Swadesh 215 list, limit extracted concepts to this list to facilitate manual annotations
-swadesh_215 = pd.read_csv('Source/Concept_list_Swadesh_1950_215.csv', sep='\t')
-swadesh_215 = list(swadesh_215.Parameter)
-excluded_concepts = []
+#Load lists of concepts: only extract concepts from these lists, in order to reduce manual annotation
+#Load Swadesh lists
+swadesh_215 = pd.read_csv(str(parent_dir) + '/Concepts/Concept_list_Swadesh_1950_215.csv', sep='\t')
+swadesh_100 = pd.read_csv(str(parent_dir) + '/Concepts/Concept_list_Swadesh_1955_100.csv', sep='\t')
+swadesh = set(list(swadesh_215.Parameter) + list(swadesh_100.Parameter))
+
+#Load common concepts list
+common_concepts_data = pd.read_csv(str(parent_dir) + '/Concepts/common_concepts.csv', sep='\t')
+common_concepts = list(common_concepts_data.Concept)
+for i in range(len(common_concepts_data)):
+    alternates = list(common_concepts_data.Alternate_Labels)[i].split('; ')
+    common_concepts.extend(alternates)
+common_concepts = set(common_concepts)
+
+#Get set of all allowed meanings
+concepts_to_extract = set(list(swadesh) + list(common_concepts))
+
 
 #%%
 #LOAD LANGUAGE CSV
@@ -168,8 +186,12 @@ for i in forms_data:
         
         #Only extract data for Swadesh 215 list items for Balto-Slavic in order to facilitate manual annotations
         #No such restriction for Uralic as the manual cognate set annotation is not necessary
-        gloss = concept_IDs[entry['Concept_ID']]
-        if (((lang in balto_slavic_langs) and (gloss in swadesh_215)) or (lang in uralic_langs)):
+        #Ignore concepts without a concepticon ID
+        gloss = concept_IDs.get(entry['Concept_ID'], None)
+        if gloss == None:
+            continue
+        gloss = re.sub('_', ' ', gloss)
+        if (((lang in balto_slavic_langs) and (gloss in concepts_to_extract)) or (lang in uralic_langs)):
             orth = entry['Word_Form']
             try:
                 original_tr, tr = entry['rawIPA'], entry['rawIPA']
@@ -199,8 +221,8 @@ for i in forms_data:
                     tr = re.sub('l', 'lʲ', tr)
                     
                     #Russian: <щ> transcribed as /ʃʃ/ or /ʃʲː/ instead of /ɕː/
-                    tr = re.sub('(?<!͡)ʃʃ', 'ɕː', tr)
-                    tr = re.sub('ʃʲː', 'ɕː', tr)
+                    tr = re.sub('(?<!͡)ʃʃ', 'ɕɕ', tr)
+                    tr = re.sub('ʃʲː', 'ɕɕ', tr)
                     
                     #and <ч> as /t͡ʃʲ/ or /t͡ʃ/ instead of <ʨ>
                     tr = re.sub('t͡ʃʲ', 'ʨ', tr)
@@ -268,6 +290,9 @@ for i in forms_data:
                     tr = re.sub('dʲ', 'ɟ', tr)
                     
                 elif lang == 'Croatian':
+                    if orth == 'uski': #skip this word, because "uzak" (same lemma) is already included
+                        continue
+                    
                     #Standard (Serbo-)Croatian has /e, o/, not /ɛ, ɔ/
                     tr = re.sub('ɛ', 'e', tr)
                     tr = re.sub('ɔ', 'o', tr)
@@ -370,26 +395,25 @@ for i in forms_data:
                     tr = re.sub('_', ' ', tr)
                 
                 elif lang == 'Belarusian':
+                    tr = transcribe_be(orth)
+                    
                     #Apostrophe <ʼ> in Belarusian orthography marks that preceding consonant is not palatalized,
                     #similar to Russian <ъ> --> should not be in phonetic transcription
                     tr = re.sub('ʼ', '', tr)
                     
-                    #/dz/ --> /ʣ/
-                    tr = re.sub('dz', 'ʣ', tr)
-                    
-                    #Note: geminates in Belarusian are genuine geminates
                 
                 elif lang == 'Ukrainian':
                     #Many mistakes in NEL Ukrainian transcriptions, use my own G2P instead
                     #on orthographic forms with stress marked (stress automatically extracted from Wiktionary entries)
-                    stress_orth = ukrainian_stress[orth]
+                    stress_orth = ukrainian_stress.get(orth, orth)
                     tr = transcribe_uk(stress_orth)
                     orth = ''.join([ch for ch in stress_orth if ch != '́'])
-
+    
                     
                 #Then make general, non-language specific corrections
-                #Don't do this for CZ/PL/UK, as they were already properly transcribed using G2P
-                if lang not in ['Czech', 'Polish', 'Ukrainian']:
+                #Don't do this for CZ/PL/UK/BE, as they were already properly transcribed using G2P
+                if lang not in ['Czech', 'Polish', 
+                                'Ukrainian', 'Belarusian']:
                     tr = fix_transcription(tr)
                 
                 
@@ -399,7 +423,8 @@ for i in forms_data:
                 
             
             new_entry = NEL_data[i]
-            new_entry['ID'] = '_'.join([strip_ch(new_name, [' ']), gloss])
+            parameter_id = re.sub(' ', '_', gloss)
+            new_entry['ID'] = '_'.join([strip_ch(new_name, [' ']), parameter_id])
             new_entry['Language_ID'] = new_name
             new_entry['Glottocode'] = glottocode
             new_entry['ISO 639-3'] = iso_code
@@ -408,14 +433,11 @@ for i in forms_data:
             new_entry['Form'] = tr
             new_entry['Segments'] = ' '.join(segment_word(tr))
             new_entry['Source_Form'] = original_tr
-            new_entry['Cognate_ID'] = gloss
+            new_entry['Cognate_ID'] = parameter_id
             new_entry['Loan'] = ''
             new_entry['Comment'] = ''
             new_entry['Source'] = 'Dellert et al., 2019'
-        else:
-            excluded_concepts.append(gloss)
 
-excluded_concepts = set(excluded_concepts)
 
 #%%
 #CHECKING PHONETIC CHARACTERS
@@ -470,7 +492,7 @@ uralic_NEL_data = {i:NEL_data[i] for i in NEL_data
 
 if len(problems) == 0:
     write_data(NEL_data, 'northeuralex_data.csv')
-    write_data(balto_slavic_NEL_data, str(parent_dir) + '/Balto-Slavic/balto_slavic_data.csv')
+    write_data(balto_slavic_NEL_data, str(parent_dir) + '/Balto-Slavic/balto_slavic_NEL_data.csv')
     write_data(uralic_NEL_data, str(parent_dir) + '/Uralic/uralic_NEL_data.csv')
         
         
