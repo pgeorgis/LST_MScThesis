@@ -138,18 +138,11 @@ def has_parentheses(string):
         return False
 
 def standardize_geminates(word):
-    #convert double vowels to long vowels; but not consonants
-    #(some sequences of non-identical in some Uralic languages correspond with sequences of identical consonants in others, cf. Italian)
+    #convert sequences of two identical segments to a long segment
     segments = segment_word(word)
     for i in range(1, len(segments)):
         if segments[i] == segments[i-1]:
-            if strip_diacritics(segments[i]) in vowels:
-                segments[i] = 'ː'
-        if 'ː' in segments[i]:
-            seg_list = list(segments[i])
-            if strip_diacritics(segments[i]) not in vowels:
-                seg_list[-1] = ''.join(seg_list[:-1])
-                segments[i] = ''.join(seg_list)
+            segments[i] = 'ː'
     word = ''.join(segments)
     return word
     
@@ -166,7 +159,15 @@ def fix_tr(word, lang):
     
     #needs to precede reg exp conversions in order to escape changing <ḱ> --> <c> --> <ʦ>
     if lang not in ['Hungarian']:#, 'Votic']: #why was Votic previously excluded? seems to need this conversion too
-        word = re.sub('c', 'ʦ', word)    
+        word = re.sub('c', 'ʦ', word)
+    
+    #Hungarian transcriptions of <r> use both tap /ɾ/ and trill /r/, change all to trills (Szende, 1994)
+    #<rr> is transcribed as geminate /rː/, so that's not the issue
+    if lang == 'Hungarian':
+        word = re.sub('ɾ', 'r', word) 
+        
+        #One word, 'fiúunoka', /fiʲuːunokɒ/ uses segment /iʲ/ -- change to /ij/
+        word = re.sub('iʲ', 'ij', word)
 
     #reg exp conversions
     word = re.sub('dʹ', 'dʲ', word) #Nganasan, Erzya; according to their raw file transcriptions
@@ -223,16 +224,16 @@ def transcribe_voro(word):
                 'h':'h',
                 'i':'i',
                 'j':'j',
-                'k':'kk',
+                'k':'kˑ',
                 'l':'l',
                 'm':'m',
                 'n':'n',
                 'o':'o',
-                'p':'pp',
+                'p':'pˑ',
                 'q':'ʔ',
                 'r':'r',
-                's':'ss',
-                't':'tt',
+                's':'sˑ',
+                't':'tˑ',
                 'u':'u',
                 'v':'v',
                 'w':'v',
@@ -243,7 +244,7 @@ def transcribe_voro(word):
                 'õ':'ɤ',
                 'ö':'ø',
                 'ü':'y',
-                'š':'ʃʃ',
+                'š':'ʃˑ',
                 'ž':'ʃ',
                 '’':'ʲ',
                 "'":"ʲ"}
@@ -269,18 +270,19 @@ def transcribe_voro(word):
                     tr[i] = 'ː'
     tr = ''.join(tr)
     
-    #Then fix doubles/Q3 (quantity 3)
+    #Then fix doubles letters / Q3 (quantity 3)
+    #single <p, t, k, s> represent Q2 (quantity 2), transcribed as half-long /pˑ, tˑ, kˑ, sˑ/
     #double <pp, tt, kk, ss> represent overlong (Q3) consonants (Iva, 2010)
-    #they will be mistakenly be written as 4x consonants, reduce to only 3x
-    tr = re.sub('pppp', 'ppp', tr)
-    tr = re.sub('tttt', 'ttt', tr)
-    tr = re.sub('kkkk', 'kkk', tr)
-    tr = re.sub('ssss', 'sss', tr)
+    #they will be mistakenly be written as sequences of two half-long consonants,
+    #so change these to Q3, transcribed as fully-long consonants
+    tr = re.sub('pˑpˑ', 'pː', tr)
+    tr = re.sub('tˑtˑ', 'tː', tr)
+    tr = re.sub('kˑkˑ', 'kː', tr)
+    tr = re.sub('sˑsˑ', 'sː', tr)
     
-    #Possible remaining issues:
-        #is this the best way to transcribe Q3?
-        #currently double consonants which are palatalized have only the second
-        #part palatalized: e.g. <tiokarp'> /ttiokɑrppʲ/, <miis'> /miːssʲ/
+    #Change ordering of palatalization and length marking
+    tr = re.sub('ˑʲ', 'ʲˑ', tr)
+    tr = re.sub('ːʲ', 'ʲː', tr)
     
     return tr
 
