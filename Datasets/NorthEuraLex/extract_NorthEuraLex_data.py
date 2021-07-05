@@ -10,13 +10,6 @@ grandparent_dir = parent_dir.parent
 os.chdir(str(grandparent_dir) + '/Code')
 from phonetic_distance import *
 from auxiliary_functions import csv_to_dict, strip_ch
-
-#Load automatic G2P transcription tools
-os.chdir(str(grandparent_dir) + '/Code/Automatic_Transcription/')
-from transcribe_czech import *
-from transcribe_polish import *
-from transcribe_ukrainian import *
-from transcribe_belarusian import *
 os.chdir(local_dir)
 
 
@@ -103,10 +96,7 @@ lang_data = {lang_data['Source Name'][i]:(lang_data['Name'][i],
 #LOAD WORD FORM DATA
 forms_data = csv_to_dict('Source/northeuralex-0.9-forms.tsv', sep='\t')
 
-#Load Ukrainian word forms annotated with stress
-ukrainian_words = pd.read_csv('Source/ukrainian_transcriptions_annotated.csv', sep=',')
-ukrainian_stress = {list(ukrainian_words.Orthography)[i]:list(ukrainian_words.StressAnnotation)[i] 
-                    for i in range(len(ukrainian_words))}
+
 
 #%%
 #Transform data into different type of dictionary
@@ -126,16 +116,9 @@ conversion_dict = {'à':'a', #Chuvash, unclear why the diacritic is there; just 
                    '-':'', #several languages, seems to be punctuation that wasn't properly removed from transcriptions
                    '|':''} #Russian, marks syllable boundaries in a few words
 
-def fix_transcription(word):
-    #remove spaces and secondary stress marking from words
-    word = ''.join([conversion_dict.get(ch, ch) for ch in word if ch not in [' ', 'ˌ']])
-    
+def adjust_stress(word):
     #fix position of primary stress annotation (make it immediately precede the stress-bearing segment)
-    stress_marked = False
-    if 'ˈ' in word:
-        stress_marked = True
-    #elif 'ˌ' in word:
-    #    stress_marked = True
+    stress_marked = 'ˈ' in word
     if stress_marked == True:
         segments = segment_word(word)
         stress_is = []
@@ -158,15 +141,108 @@ def fix_transcription(word):
                 segments[i] = ''.join([ch for ch in segments[i] if ch != stress_mark])
                 segments[new_i] = stress_mark + segments[new_i]
         word = ''.join(segments)
-    
+    return word
+
+def standardize_affricates(word):
     #equivalent affricate representations, latter versions are cleaner to read
     affricate_conversion = {'t͡s':'ʦ', 'd͡z':'ʣ', 't͡ʃ':'ʧ', 'd͡ʒ':'ʤ', 't͡ɕ':'ʨ', 'd͡ʑ':'ʥ'}
     for affricate in affricate_conversion:
         word = re.sub(affricate, affricate_conversion[affricate], word)
-        
-                   
-    
     return word
+
+def fix_transcription(word):
+    #remove spaces and secondary stress marking from words
+    word = ''.join([conversion_dict.get(ch, ch) for ch in word if ch not in [' ', 'ˌ']])
+    
+    #Adjust position of stress marking
+    word = adjust_stress(word)
+    
+    #Standardize affricates
+    word = standardize_affricates(word)
+
+    return word
+
+
+#%%
+#LOAD TOOLS FOR CORRECTING TRANSCRIPTIONS
+
+#Load automatic G2P transcription tools
+os.chdir(str(grandparent_dir) + '/Code/Automatic_Transcription/')
+from transcribe_czech import *
+from transcribe_polish import *
+from transcribe_ukrainian import *
+from transcribe_belarusian import *
+from transcribe_bulgarian import *
+os.chdir(local_dir)
+
+
+def correct_ru(tr):
+    """Adjusts the transcription from Russian Wiktionary"""
+    
+    #Remove parentheses and any unintentional characters from Excel sheet
+    tr = strip_ch(tr, ['(', ')', '\ufeff'])
+    
+    #Correct position of stress
+    tr = adjust_stress(tr)
+    
+    #Adjust transcription of affricates
+    tr = standardize_affricates(tr)
+    
+    #Change /ɕː/ --> /ɕɕ/
+    #tr = re.sub('ɕː', 'ɕɕ', tr) 
+    #decision: don't do this, as this is actually a separate phoneme in modern Russian
+    
+    #Change /ʦː/ (<-ться>, <двадцать>) to /tʦ/ and /nː/ to /nn/
+    tr = re.sub('ʦː', 'tʦ', tr)
+    tr = re.sub('nː', 'nn', tr)
+    
+    #Change /j/ in diphthongs <ый>, <ий>, and <ой >to /ɪ̯/
+    tr = re.sub('ɪj', 'ɪɪ̯', tr)
+    tr = re.sub('ɨj', 'ɨɪ̯', tr)
+    tr = re.sub('oj', 'oɪ̯', tr)
+    
+    return tr
+
+#%%
+#Load BE, BG, RU, UK word forms annotated with stress, and transcriptions in RU
+stress_annotation_data = csv_to_dict(str(parent_dir) + '/Balto-Slavic/Source/stress_annotations_be_bg_ru_uk.csv', sep=',')
+stress_annotations = defaultdict(lambda:{})
+bulgarian_verbs = []
+for i in stress_annotation_data:
+    entry = stress_annotation_data[i]
+    lang = entry['Language']
+    orth = entry['Orthography']
+    stress_anno = entry['StressAnnotation']
+    correct_word = entry['CorrectWord']
+    
+    #For Russian, import the form with annotated stress and the transcribed form
+    if lang == 'Russian':
+        tr = entry['Transcription']
+        if correct_word.strip() == '':
+            stress_annotations[lang][orth] = (stress_anno, correct_ru(tr))
+        else:
+            stress_annotations[lang][orth] = (correct_word, correct_ru(tr))
+    
+    #Mark the verbs in Bulgarian to change the final vowels
+    if lang == 'Bulgarian':
+        bg_verb_anno = entry['BG_Verb']
+        if bg_verb_anno != '':
+            bulgarian_verbs.append(orth)
+    
+    if lang != 'Russian': #don't do this for Russian, as it would override was was done a few lines earlier
+        #If there is no corrected word, take the stress-annotated word
+        if correct_word.strip() == '':
+            stress_annotations[lang][orth] = (stress_anno, '')
+            
+        #If there is a corrected version of the word, take instead the corrected
+        #word and mark that it has been corrected
+        else:
+            stress_annotations[lang][orth] = (correct_word, '*')
+    
+
+
+
+
 
 #%%
 problems = []
@@ -214,83 +290,58 @@ for i in forms_data:
                   
                 #CORRECTIONS IN SLAVIC LANGUAGES
                 elif lang == 'Russian':
-                    #Russian: palatalized /l/ <ль> or <л> followed by soft vowel transcribed
-                    #as /l/ instead of /lʲ/
-                    #simply changing all instances of /l/ to /lʲ/ isn't a problem because 
-                    #the non-palatalized version is transcribed as /ɫ/
-                    tr = re.sub('l', 'lʲ', tr)
+                    if orth in ['наполненный']:
+                        #skip "наполненный", better equivalent "полный" already in list
+                        continue
                     
-                    #Russian: <щ> transcribed as /ʃʃ/ or /ʃʲː/ instead of /ɕː/
-                    tr = re.sub('(?<!͡)ʃʃ', 'ɕɕ', tr)
-                    tr = re.sub('ʃʲː', 'ɕɕ', tr)
-                    
-                    #and <ч> as /t͡ʃʲ/ or /t͡ʃ/ instead of <ʨ>
-                    tr = re.sub('t͡ʃʲ', 'ʨ', tr)
-                    tr = re.sub('t͡ʃ', 'ʨ', tr)
-                    
-                    #/ʒʲ/ --> /ʐj/, e.g. <побережье>, <ружьё> 
-                    #(<ь> after hard consonants such as <ж> marks /j/ rather than palatalization, 
-                    #as hard consonants have no palatalized equivalent)
-                    tr = re.sub('ʒʲ', 'ʐj', tr)
-                    
-                    #and /ʒ/ --> /ʐ/, /ʃ/ --> /ʂ/
-                    tr = re.sub('ʒ', 'ʐ', tr)
-                    tr = re.sub('ʃ', 'ʂ', tr)
-                    
-                    #Russian: <что> transcribed with long /ɔː/ -- Russian has no long vowels
-                    tr = re.sub('ɔː', 'ɔ', tr)
-                    
-                    #Then, it has <ё> transcribed as /о/ instead of /ɵ/
-                    #and <о> transcribed as /ɔ/ instead of /o/
-                    tr = re.sub('o', 'ɵ', tr)
-                    tr = re.sub('ɔ', 'o', tr)
-                    #Exception: <ё> is /o/, not /ɵ/, after hard consonants <ж, ш>, it is only /ɵ/ after soft consonants
-                    tr = re.sub('ʐɵ', 'ʐo', tr)
-                    tr = re.sub('ʂɵ', 'ʂo', tr)
-                    
-                    #Correct sequence /stʲ/ to /sʲtʲ/ (palatalization assimilation)
-                    tr = re.sub('stʲ', 'sʲtʲ', tr)
-                    
-                    #Remove half-long marking
-                    tr = re.sub('ˑ', '', tr)
-                    
-                    #removed this block because of a bug and because we can't properly convert all
-                    #vowels to ther inter-palatal form since some are transcribed as reduced, see note below
-                    """
-                    #Russian <а, у> between soft/palatalized consonants are [æ, ʉ]
-                    segments = segment_word(tr)
-                    if len(segments) > 1: #don't bother for words consisting of only a single segment
-                        ru_soft_c = ['bʲ', 'dʲ', 'fʲ', 'lʲ', 'mʲ', 'nʲ', 'pʲ', 
-                                     'rʲ', 'sʲ', 'tʲ', 'vʲ', 'zʲ', 'ɕː', 'ʨ']
-                        tr = [segments[0]]
-                        for i in range(1, len(segments)-1):
-                            seg = segments[i]
-                            if seg in ['a', 'u', 'ʊ']: 
-                                nxt_seg = segments[i+1]
-                                prev_seg = segments[i-1]
-                                if ((nxt_seg in ru_soft_c) and (prev_seg in ru_soft_c)):
-                                    #some /a/ are mistranscribed as /ə, ɐ/ (e.g. <часть> /ʨəstʲ/), 
-                                    #can't do anything about those though because we can't distinguish 
-                                    #them from reduced <о> unless the orthography is checked
-                                    if seg in ['a']:
-                                        tr.append('æ')
-                                    elif seg in ['u', 'ʊ']:
-                                        tr.append('ʉ')
-                                else:
-                                    tr.append(seg)
-                            else:
-                                tr.append(seg)
-                        tr.append(segments[-1])
-                        tr = ''.join(tr)"""
+                    stress_anno = stress_annotations['Russian'][orth]
+                    stress_anno, tr = stress_anno
+                    #The transcription will already have been fixed when imported
+                    #In case the original orthography was modified, use this
+                    orth = strip_ch(stress_anno, ['́']) #remove stress mark
                     
                     
                 elif lang == 'Bulgarian':
-                    #Palatalized <т, д> should be transcribed as either /c, ɟ/ or /tʲ, dʲ/, not mix and match
-                    #The former version is the standard transcription convention, also already used in NEL for /c/
-                    tr = re.sub('dʲ', 'ɟ', tr)
+                    if orth in ['китка', 'тояга']: #skip these incorrect translations
+                    #skip "китка", not correct translation for HAND; use already present "ръка" instead
+                    #skip "тояга", although valid translation, it is a Turkic loanword and a better translation "прът" is already listed
+                        continue
+                    
+                    #Check whether the word is a verb
+                    is_verb = orth in bulgarian_verbs
+                    
+                    #Then extract the stress-annotated orthography
+                    stress_orth = stress_annotations['Bulgarian'][orth]
+                    stress_orth, note = stress_orth
+                    
+                    
+                    #Check whether the orthography was modified, if so take the new orthography
+                    if note != '': 
+                        orth = strip_ch(stress_orth, ['́']) #remove stress mark                        
+                    
+                    #Automatically transcribe
+                    tr = transcribe_bg(stress_orth)
+                    
+                    #Correct the final vowel in verbs stressed on final syllable
+                    #/a/ --> /ɤ/
+                    if is_verb == True:
+                        words = tr.split() #need to split into words because of entries like <боя́ се>
+                        for k in range(len(words)):
+                            word = words[k]
+                            word = list(word)
+                            if word[-1] == 'a': #if unstressed it would have been reduced to [ɐ], and monosyllabic verbs won't have stress marked
+                                word[-1] = 'ɤ'
+                            words[k] = ''.join(word)
+                        tr = ' '.join(words)
+                    
                     
                 elif lang == 'Croatian':
-                    if orth == 'uski': #skip this word, because "uzak" (same lemma) is already included
+                    if orth in ['uski', 'put', 'papak', 'bio']: 
+                        #skip "uski", because "uzak" (same lemma) is already included for "NARROW"
+                        #skip "put", not a correct translation for "SKIN"
+                        #skip "papak", not a correct translation for "CLAW" (means HOOF)
+                        #skip "pseto", not a correct translation of "DOG" (means "dog" in the sense of a detestable person)
+                        #skip "bio", this is not the standard Ijekavian form for WHITE ("bijel" is correct)
                         continue
                     
                     #Standard (Serbo-)Croatian has /e, o/, not /ɛ, ɔ/
@@ -343,6 +394,11 @@ for i in forms_data:
                     #to be counted as part of the phoneme
                     tr = re.sub('˦ː', 'ː˦', tr)
                     tr = re.sub('˨ː', 'ː˨', tr)
+                    
+                    #Then change the tone markings to use same system as BCS/Lithuanian
+                    tr = re.sub('˦', '́', tr) #high tone
+                    tr = re.sub('˨', '̀', tr) #low tone
+                    
                 
                 elif lang == 'Czech':
                     #NEL Czech transcriptions had many errors, use my Czech G2P tool 
@@ -394,26 +450,26 @@ for i in forms_data:
                     #Replace '_' with white space
                     tr = re.sub('_', ' ', tr)
                 
-                elif lang == 'Belarusian':
-                    tr = transcribe_be(orth)
+                elif lang in ['Belarusian', 'Ukrainian']:
+                    orth = re.sub("’", "'", orth)
                     
-                    #Apostrophe <ʼ> in Belarusian orthography marks that preceding consonant is not palatalized,
-                    #similar to Russian <ъ> --> should not be in phonetic transcription
-                    tr = re.sub('ʼ', '', tr)
+                    #Fetch the stress-annotated orthography
+                    stress_orth = stress_annotations[lang][orth]
+                    stress_orth, note = stress_orth
+                    #Check whether the orthography was modified, if so take the new orthography
+                    if note != '': 
+                        orth = strip_ch(stress_orth, ['́']) #remove stress mark  
                     
-                
-                elif lang == 'Ukrainian':
-                    #Many mistakes in NEL Ukrainian transcriptions, use my own G2P instead
-                    #on orthographic forms with stress marked (stress automatically extracted from Wiktionary entries)
-                    stress_orth = ukrainian_stress.get(orth, orth)
-                    tr = transcribe_uk(stress_orth)
-                    orth = ''.join([ch for ch in stress_orth if ch != '́'])
-    
+                    #Automatically transcribe the stress-annotated form
+                    if lang == 'Belarusian':
+                        tr = transcribe_be(stress_orth)
+                    elif lang == 'Ukrainian':
+                        tr = transcribe_uk(stress_orth)    
                     
                 #Then make general, non-language specific corrections
-                #Don't do this for CZ/PL/UK/BE, as they were already properly transcribed using G2P
-                if lang not in ['Czech', 'Polish', 
-                                'Ukrainian', 'Belarusian']:
+                #Don't do this for CZ/PL/BG/UK/BE/RU, as they were already properly transcribed otherwise
+                if lang not in ['Czech', 'Polish', 'Bulgarian',
+                                'Ukrainian', 'Belarusian', 'Russian']:
                     tr = fix_transcription(tr)
                 
                 

@@ -113,6 +113,7 @@ for dataset in datasets:
                            
                            #Language-specific fixes
                            ('ʒ', 'Standard Latvian'):'ʣ',
+                           ('ʒ', 'Dihovo Macedonian'):'ʣ',
                            
                            #Other
                            '=':'', #morphemic segmentation, remove
