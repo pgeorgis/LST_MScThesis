@@ -50,6 +50,11 @@ swadesh_215 = pd.read_csv(str(parent_dir) + '/Concepts/Concept_list_Swadesh_1950
 swadesh_100 = pd.read_csv(str(parent_dir) + '/Concepts/Concept_list_Swadesh_1955_100.csv', sep='\t')
 swadesh = set(list(swadesh_215.Parameter) + list(swadesh_100.Parameter))
 
+#Load mappings of differing labels for the same concept group
+all_concepts = pd.read_csv(str(parent_dir) + '/Concepts/concepts.csv', sep='\t')
+base_concepts = {list(all_concepts.Concept)[i]:list(all_concepts.BaseConcept)[i] 
+                 for i in range(len(all_concepts))}
+
 #Load common concepts list
 common_concepts_data = pd.read_csv(str(parent_dir) + '/Concepts/common_concepts.csv', sep='\t')
 common_concepts = list(common_concepts_data.Concept)
@@ -169,6 +174,7 @@ def fix_transcription(word):
 #Load automatic G2P transcription tools
 os.chdir(str(grandparent_dir) + '/Code/Automatic_Transcription/')
 from transcribe_czech import *
+from transcribe_slovak import *
 from transcribe_polish import *
 from transcribe_ukrainian import *
 from transcribe_belarusian import *
@@ -196,10 +202,10 @@ def correct_ru(tr):
     tr = re.sub('ʦː', 'tʦ', tr)
     tr = re.sub('nː', 'nn', tr)
     
-    #Change /j/ in diphthongs <ый>, <ий>, and <ой >to /ɪ̯/
-    tr = re.sub('ɪj', 'ɪɪ̯', tr)
-    tr = re.sub('ɨj', 'ɨɪ̯', tr)
-    tr = re.sub('oj', 'oɪ̯', tr)
+    #Change /j/ in diphthongs <ый>, <ий>, and <ой> to /ɪ̯/ when appearing word-finally
+    tr = re.sub('ɪj$', 'ɪɪ̯', tr)
+    tr = re.sub('ɨj$', 'ɨɪ̯', tr)
+    tr = re.sub('oj$', 'oɪ̯', tr)
     
     return tr
 
@@ -267,10 +273,16 @@ for i in forms_data:
         if gloss == None:
             continue
         gloss = re.sub('_', ' ', gloss)
-        if (((lang in balto_slavic_langs) and (gloss in concepts_to_extract)) or (lang in uralic_langs)):
+        
+        #Convert gloss to base concept
+        base_concept = base_concepts[gloss]
+        
+        if (((lang in balto_slavic_langs) and ((gloss in concepts_to_extract) or (base_concept in concepts_to_extract))) or (lang in uralic_langs)):
             orth = entry['Word_Form']
+            source_orth = entry['Word_Form']
             try:
                 original_tr, tr = entry['rawIPA'], entry['rawIPA']
+                
                 
                 #in Northern Khanty, "lˈ" seems to be used to represent "ɭ"
                 if lang == 'Northern Khanty':
@@ -336,12 +348,14 @@ for i in forms_data:
                     
                     
                 elif lang == 'Croatian':
-                    if orth in ['uski', 'put', 'papak', 'bio']: 
+                    if orth in ['uski', 'put', 'papak', 'pseto', 'bio', 'bridak', 'guja']: 
                         #skip "uski", because "uzak" (same lemma) is already included for "NARROW"
                         #skip "put", not a correct translation for "SKIN"
                         #skip "papak", not a correct translation for "CLAW" (means HOOF)
                         #skip "pseto", not a correct translation of "DOG" (means "dog" in the sense of a detestable person)
                         #skip "bio", this is not the standard Ijekavian form for WHITE ("bijel" is correct)
+                        #skip "bridak", more general translation for SHARP oštar is already in list and bridak doesn't have any cognate equivalents in other languages
+                        #skip "guja", more general translation for SNAKE is zmija, which is already in list (guja is literary)
                         continue
                     
                     #Standard (Serbo-)Croatian has /e, o/, not /ɛ, ɔ/
@@ -389,11 +403,30 @@ for i in forms_data:
                     #Step 4: Remove any accidental resulting double length markings
                     tr = re.sub('ːː', 'ː', tr)
                 
+                    #Simply replace some translations with better ones, and supply their transcriptions directly
+                    replace_orth = {'sisa':('grudi', 'ɡrûːdi'), #grudi is the more common word, match cognate set in other languages
+                                    'njedra':('prsa', 'pr̩̂sa'), #njedra is a literary word, prsa is more common, also matches cognate set in other languages
+                                    'ispravan':('pravilan', 'prâʋiːlan'), #match the cognate set in other languages
+                                    'tačan':('točan', 'tôʧan'), #tačan is the Serbian form, točan the Croatian form
+                                    'blatan':('prljav', 'pr̩̂ʎaʋ'), #'blatan' means 'muddy', 'prljav' is proper translation for DIRTY
+                                    'brdo':('planina', 'planǐna'), #'brdo' means 'hill', not 'mountain'
+                                    'drum':('put', 'pûːt'), #drum is a loanword from Greek and a very uncommon word at that; replace with "put", which is more common and matches other cognate sets
+                                    'ondje':('tamo', 'tâmo'), #ondje is correct, but tamo is the more general word and matches existing cognate set in data
+                                    'osjećati miris':('njušiti', 'ɲûʃiti'), #use the simpler verb
+                                    'sjemenje':('sjeme', 'sjême') #sjemenje is pluralia tantum, use singular
+                                    }
+                    if orth in replace_orth:
+                        orth, tr = replace_orth[orth]
+                
                 elif lang == 'Slovene':
+                    if orth == 'dúhati': #correct this one word and supply transcription directly; cognate to Polish word
+                        orth = 'vọ̑hati'
+                        tr = 'ʋóːxati'
+                    
                     #Switch ordering of length and tone markings in order for the length
                     #to be counted as part of the phoneme
-                    tr = re.sub('˦ː', 'ː˦', tr)
-                    tr = re.sub('˨ː', 'ː˨', tr)
+                    #tr = re.sub('˦ː', 'ː˦', tr)
+                    #tr = re.sub('˨ː', 'ː˨', tr)
                     
                     #Then change the tone markings to use same system as BCS/Lithuanian
                     tr = re.sub('˦', '́', tr) #high tone
@@ -401,6 +434,17 @@ for i in forms_data:
                     
                 
                 elif lang == 'Czech':
+                    if orth in ['šatstvo']:
+                        #skip 'šatstvo', more appropriate translation for CLOTHES 'šaty' is already in wordlist
+                        continue
+                    
+                    replace_orth = {'pěšina':'stezka', #pěšina is not wrong, but stezka matches a cognate set used in other languages
+                                    'silnice':'cesta', #cesta is a better/more general word for ROAD, matches cognate set in other languages
+                                    'osivo':'semeno' #semeno is better translation for SEED, matches other cognate sets
+                                    }
+                    if orth in replace_orth:
+                        orth = replace_orth[orth]
+                    
                     #NEL Czech transcriptions had many errors, use my Czech G2P tool 
                     #instead on orthographic form
                     tr = transcribe_cz(orth)
@@ -415,28 +459,40 @@ for i in forms_data:
                     #so no need to simplify /tt/ to /t/
                 
                 elif lang == 'Slovak':
-                    #Same geminate/long consonant situation as described above in Czech
-                    #Exception: <ŕ, ĺ> /r̩ː, l̩ː/, which we leave unchanged
-                    tr = re.sub('kː', 'k', tr)
-                    tr = re.sub('nː', 'n', tr)
                     
-                    #<dd> in prefix, as describe in Czech
-                    tr = re.sub('dː', 'dd', tr)
+                    #skip mistaken translations which aren't to be replaced
+                    if orth in ['vajíčko', 'šatstvo']:
+                        #skip 'vajíčko', it is simply the diminutive of 'vajce', which is already in wordlist
+                        #skip 'šatstvo', more appropriate translation for CLOTHES 'šaty' is already in wordlist
+                        continue
                     
-                    #Diphthongs <ie>, <iu>, <ia> have /ɪ̯/, not /i̯/, according to Illustrations of IPA Slovak
-                    tr = re.sub('i̯', 'ɪ̯', tr)
+                    #Correct some translations
+                    replace_orth = {'mračno':'mrak', #'mračno' is not a correct translation for CLOUD, rather 'mrak'
+                                    'osivo':'semeno', #'osivo' is not corrected translation for SEED, rather 'semeno'
+                                    'hradská':'cesta' #cesta is a better/more general word for ROAD, matches cognate set in other languages
+                                    }
+                    if orth in replace_orth:
+                        orth = replace_orth[orth]
                     
-                    #Likewise, diphthong <ô> has /ʊ̯/ not /u̯/
-                    tr = re.sub('u̯', 'ʊ̯', tr)
+                    #NEL Slovak transcriptions had many errors, use my Slovak G2P tool 
+                    #instead on orthographic form
+                    tr = transcribe_sk(orth)
                 
                 elif lang == 'Polish':
                     #NEL Polish transcriptions had many errors, use my Czech G2P tool 
                     #instead on orthographic form
                     
-                    #Two words <łabędź, niedźwiedź> are incorrect in the orthography *<łabędż, niedźwiedż>
-                    #Correct these spellings first
-                    orth = re.sub('łabędż', 'łabędź', orth)
-                    orth = re.sub('niedźwiedż', 'niedźwiedź', orth)
+                    #Correct some translations
+                    replace_orth = {'łabędż':'łabędź', #misspelling
+                                    'niedźwiedż':'niedźwiedź', #misspelling
+                                    'zimny':'chłodny', #zimny is not wrong, but chłodny is the cognate set used in other languages, so better choice
+                                    'właściwy':'prawidłowy', #better translation, fits with cognate set in other languages
+                                    'dłoń':'ręka', #dłoń is PALM OF THE HAND, not HAND; ręka is HAND
+                                    'ulica':'droga', #ulica is STREET, droga is ROAD (and matches existing cognate sets)
+                                    'siew':'nasiono' #siew meangs "SOWING"; SEED is nasiono or nasienie
+                                    }
+                    if orth in replace_orth:
+                        orth = replace_orth[orth]
                     
                     #Then perform the G2P conversion on the orthography
                     tr = transcribe_pl(orth, final_denasal=True)
@@ -484,11 +540,18 @@ for i in forms_data:
             new_entry['Language_ID'] = new_name
             new_entry['Glottocode'] = glottocode
             new_entry['ISO 639-3'] = iso_code
-            new_entry['Parameter_ID'] = gloss
+            if lang in balto_slavic_langs:
+                new_entry['Parameter_ID'] = base_concept
+                
+            else:
+                new_entry['Parameter_ID'] = gloss
             new_entry['Value'] = orth
             new_entry['Form'] = tr
             new_entry['Segments'] = ' '.join(segment_word(tr))
-            new_entry['Source_Form'] = original_tr
+            if source_orth != orth:
+                new_entry['Source_Form'] = f'{source_orth} / {original_tr}'
+            else:
+                new_entry['Source_Form'] = original_tr
             new_entry['Cognate_ID'] = parameter_id
             new_entry['Loan'] = ''
             new_entry['Comment'] = ''
