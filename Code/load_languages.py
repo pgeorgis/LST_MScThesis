@@ -186,7 +186,7 @@ class Dataset:
 class Language(Dataset):
     def __init__(self, name, lang_id, data, glottocode, iso_code,
                  segments_c='Segments', ipa_c='Form', 
-                 orthography_c='Value', concept_c='Paramter_ID',
+                 orthography_c='Value', concept_c='Parameter_ID',
                  loan_c='Loan', id_c='ID'):
         
         #Attributes for parsing data dictionary (could this be inherited via a subclass?)
@@ -298,7 +298,7 @@ for family in ['Arabic', 'Balto-Slavic', 'Dravidian',
     filepath = datasets_path + family + f'/{family_path}_data.csv'
     print(f'Loading {family}...')
     families[family] = Dataset(filepath, family)
-    families[family].prune_languages(min_amc=0.75)
+    #families[family].prune_languages(min_amc=0.75)
     families[family].write_vocab_index()
     globals().update(families[family].languages)
 globals().update(families)

@@ -3,6 +3,7 @@
 from lingpy import *
 from load_languages import *
 from auxiliary_functions import csv_to_dict
+import re
 
 def prepare_lingpy_input(lang_group, 
                        output_file=None,
@@ -89,7 +90,67 @@ def create_LingPy_cognate_index(lang_group, output_file=None,
                     forms_list.append(variants_sep.join(lang_forms))
                 f.write(sep.join(forms_list))
                 f.write('\n')
-            
+
+missing_segs = []
+def create_orthographic_cognate_index(lang_group, output_file=None, sep='\t'):
+    if output_file == None:
+        output_file = f'{lang_group.directory}{lang_group.name}_lexstat_cognate_assignments.csv'
+    
+    cognate_sets = process_lingpy_data(lang_group)
+    
+    with open(output_file, 'w') as f:
+        f.write(sep.join(['CONCEPT', 'LANGUAGE', 'ORTHOGRAPHY', 'IPA', 'COGNACY']))
+        f.write('\n')
+        
+        for concept in cognate_sets:
+            for cognate_class in cognate_sets[concept]:
+                for item in cognate_sets[concept][cognate_class]:
+                    lang, tr = item
+                    
+                    #Convert characters back to IPA, which were distorted when running LingPy/LexStat
+                    tr_fixes = {'à':'à',
+                                'á':'á',
+                                'â':'â',
+                                'é':'é',
+                                'ê':'ê',
+                                'ì':'ì',
+                                'í':'í',
+                                'î':'î',
+                                'ó':'ó',
+                                'ô':'ô',
+                                'ù':'ù',
+                                'ú':'ú',
+                                'û':'û',
+                                'ě':'ě',
+                                'ř':'ř',
+                                'ǎ':'ǎ',
+                                'ǐ':'ǐ',
+                                'ǒ':'ǒ',
+                                'ǔ':'ǔ',
+                                '̩̂':'̩̂'
+                                }
+                    
+                    for fix in tr_fixes:
+                        tr = re.sub(fix, tr_fixes[fix], tr)
+                    
+                    orth = None
+                    for entry in lang_group.languages[lang].vocabulary[concept]:
+                        if entry[1] == tr:
+                            orth = entry[0]
+                            break
+                        elif re.sub(' ', '', entry[1]) == tr:
+                            orth = entry[0]
+                            break
+                        elif re.sub('̩̂', '̩̂', tr) == entry[1]:
+                            orth = entry[0]
+                            break
+                    if orth == None:
+                        print(f"Error: can't find orthography for {tr} '{concept}' in {lang_group.languages[lang].name}!")
+                        segs = list(tr)
+                        missing_segs.extend(segs)
+                        orth = ''
+                    f.write(sep.join([concept, lang, orth, tr, cognate_class]))
+                    f.write('\n')
     
 
     
