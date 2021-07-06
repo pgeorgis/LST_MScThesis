@@ -34,11 +34,18 @@ for key, value in [('claw(nail)', 'CLAW OR NAIL'),
                    ('warm (hot)', 'WARM')]:
     concepticon_swadesh[key] = value
 
+#Load mappings of differing labels for the same concept group
+all_concepts = pd.read_csv(str(parent_dir) + '/Concepts/concepts.csv', sep='\t')
+base_concepts = {list(all_concepts.Concept)[i]:list(all_concepts.BaseConcept)[i] 
+                 for i in range(len(all_concepts))}
+
+for concept in concepticon_swadesh:
+    concepticon_swadesh[concept] = base_concepts[concepticon_swadesh[concept]]
 
 #%%
 #LOAD BALTO-SLAVIC DATASETS BY SUBGROUP
 
-datasets = glob.glob('Source/*.xlsx')
+datasets = ['Source/Baltic.xlsx', 'Source/Slavic.xlsx'] #glob.glob('Source/*.xlsx')
 
 new_baltoslav_ch = defaultdict(lambda:[])
 

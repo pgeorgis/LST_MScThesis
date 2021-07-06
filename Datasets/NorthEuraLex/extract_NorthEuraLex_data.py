@@ -274,8 +274,10 @@ for i in forms_data:
             continue
         gloss = re.sub('_', ' ', gloss)
         
-        #Convert gloss to base concept
+        #Convert gloss to base concept: change to base concept for Slavic languages only
         base_concept = base_concepts[gloss]
+        if lang in balto_slavic_langs:
+            gloss = base_concept
         
         if (((lang in balto_slavic_langs) and ((gloss in concepts_to_extract) or (base_concept in concepts_to_extract))) or (lang in uralic_langs)):
             orth = entry['Word_Form']
@@ -540,11 +542,7 @@ for i in forms_data:
             new_entry['Language_ID'] = new_name
             new_entry['Glottocode'] = glottocode
             new_entry['ISO 639-3'] = iso_code
-            if lang in balto_slavic_langs:
-                new_entry['Parameter_ID'] = base_concept
-                
-            else:
-                new_entry['Parameter_ID'] = gloss
+            new_entry['Parameter_ID'] = gloss
             new_entry['Value'] = orth
             new_entry['Form'] = tr
             new_entry['Segments'] = ' '.join(segment_word(tr))

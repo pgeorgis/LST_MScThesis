@@ -14,7 +14,6 @@ BELLY_1								mef
 BELLY_2			tˈr̩buːɦ		tˈɛrbuh									tɛrbˈux	tr̩bˈux	
 BELLY_3					drowb											
 BERRY	jˈæʁada	pɫɔt		bˈobulɛ		uɔ̯ɡɑ	ûəɡɐ		jaɡˈɔda	jˈaɡədə	bˈɔbuʎa	jàːɡɔda	jˈɑɦɔdɐ			bǒːba~bǒbiʦa
-BE_ALIVE	ʐɨʦʲ	ʒivˈɛjɐ		ʒˈiːt		ʣiːvuɔ̯t	ɡʲiːʋêˑntʲɪ		ʐɨʨ	ʐɨtʲ	ʒic	ʒiʋɛ̀ːti	ʒˈɪtɪ			ʒǐːʋjeti
 BIG	vʲælʲˈikʲi	ˈɛdɐr~ɡolʲˈam		vˈɛlkiː		diʃː~liɛ̯ls	dʲɪ̂dʲɪs~dʲɪ̂dɛlʲɪs		dˈuʐɨ~vʲjˈɛlkʲi	bɐlʲʂˈoɪ̯	ʋˈɛʎkiː	ʋéːlik	ʋɛɫˈɪkɪi̯			ʋêlik
 BIG_1								ɡoʎem								
 BIG_2			vˈɛliːk~vjělik		vˈæli~vˈælːi~vˈælik									věːli	vêːli	
@@ -35,13 +34,10 @@ BREAST	ʁrˈuʣʲi	ɡrɤt		ɲˈadra		ɡruːts	kruːtʲɪ̂neː		bʲjust	ɡrutʲ	
 BREAST_1			pˈr̩sa~pˈr̩si					ɡrada								
 BREAST_2					pˈɛrsi									pˈɛrsɛ	pˈr̩sa	
 BREATHE	dˈɨxaʦʲ	dˈiʃɐm		dˈiːxat		ælpuɔ̯t	ɐɫsûətʲɪ~kʋeːpûətʲɪ		ɔddˈɨxaʨ	dɨʂˈatʲ	dˈiːxac	dìːxati	dˈɪxɐtɪ			dǐːsati
-BURN (SOMETHING)_1								ɡori						ɡɔrˈɛt		
-BURN (SOMETHING)_2															paːlˈit	
-BURN (SOMETHING)_3					ʒɡɒt											
-BURNING	ʁarˈɛʦʲ	ɡorʲˈɤ		ɦˈor̝ɛt		dɛkt	dɛ̂ɡtʲɪ		pˈalʲiʨ ɕɛ	ɡɐrʲˈetʲ	pˈaːɫic~ɦˈɔrɪ̯ɛc	ɡɔrɛ̀ːti	ɦɔɾʲˈitɪ			ɡǒrjeti
-BURN_(SOMETHING)	spalʲˈiʦʲ	izɡorʲˈɤ		spˈaːlɪt		dɛʣinɑːt~sɑdɛʣinɑːt	dɛ̌ɡʲɪntʲɪ~sʊdɛ̌ɡʲɪntʲɪ		spˈalʲiʨ	zʐɛʨ	spˈaːɫic	sɛʒɡàːti	spɐɫˈɪtɪ			spǎːliti~saɡǒrjeti
-CLAW	kʲipʲʦʲˈʉr	nˈɔkɐt		drˈaːp~pˈaznɛxt		nɑks	kɐnôːpɐ		ʂpɔn	kˈoɡətʲ	pˈazɲɛxt	pàːrkɛl	kʲˈiɦɔtʲ			
-CLAW OR NAIL_1			nu̯ɔ̌ɦat		nˈu̯ovæt			nokt						nɔ̌ːxɛt~nɔ̌ːfɛt	nˈɔxat	
+BURN	ʁarˈɛʦʲ~spalʲˈiʦʲ	ɡorʲˈɤ~izɡorʲˈɤ		ɦˈor̝ɛt~spˈaːlɪt		dɛkt~dɛʣinɑːt~sɑdɛʣinɑːt	dɛ̂ɡtʲɪ~dɛ̌ɡʲɪntʲɪ~sʊdɛ̌ɡʲɪntʲɪ		pˈalʲiʨ ɕɛ~spˈalʲiʨ	ɡɐrʲˈetʲ~zʐɛʨ	pˈaːɫic~ɦˈɔrɪ̯ɛc~spˈaːɫic	ɡɔrɛ̀ːti~sɛʒɡàːti	ɦɔɾʲˈitɪ~spɐɫˈɪtɪ			ɡǒrjeti~spǎːliti~saɡǒrjeti
+BURN_1								ɡori						ɡɔrˈɛt		
+BURN_2															paːlˈit	
+BURN_3					ʒɡɒt											
 CLOTHES	aʣʲˈenʲnʲe	drˈɛxi~oblɛkɫˈɔ		ʃˈatɪ		tæːrps~dreːbɛs	rǔːbɐʲɪ̯ˑ~drɐbʊ̂ʒʲɛʲɪ̯ˑ		ˈɔʥɛʂ	ɐdʲˈeʐdə	ʃˈati	ɔblɛ̀ːka	ˈɔdʲɐɦ~ʊbrˈɑnʲnʲɐ			ǒdjeʨa
 CLOUD	vˈoblaka	ˈɔbɫɐk		mrˈak~ˈoblak		mɑːkuɔ̯nis	dɛbɛsʲɪ̂s		ˈɔbwɔk~xmˈuɾa	ˈobɫəkə	ˈɔbɫak~mrak	ɔblàːk	xmˈɑrɐ			ôblaːk
 CLOUD_1			u̯ɔ̌blak~ʔˈɔblak		ˈu̯oblɒk			oblak						ɔ̌ːblak	ˈɔblak	
@@ -51,13 +47,10 @@ COLD_2														xlǎːdni	xlâːdan
 COLD_3			mˈr̩zal													
 COME	prɨjsʲʦʲˈi	ˈidɐ~dˈɔjdɐ		pr̝̊ˈɪjiːt		nɑːkt	ɐtɛʲɪ̯ˑtʲɪ		pʂɨjɕʨ	prʲɪjtʲˈi	priːsc	prìːti	prɪjtˈɪ			dǒːʨi
 COME_1			du̯ôjt		dowt~du̯ojt~dˈowti			idi~doj						prǐːt	prǐːt	
-COOK_(SOMETHING)	zvarˈɨʦʲ~zʁatavaʦʲ	priɡˈɔtvʲɐ		pr̝̊ˈɪpravɪt		tai̯siːt~ɡɑtːɑvuɔ̯t	ruəʃtʲɪ~ɡɐmʲɪ̂ntʲɪ		pʂɨʐˈɔɲʥiʨ	prʲɪɡɐtˈovʲɪtʲ	prˈipraʋic	pripràːʋiti	zɦɔtˈɔʋɪtɪ~prɪɦɔtʊʋˈɑtɪ			priɡǒtoʋiti
-CORRECT_(RIGHT)	pravʲˈilʲnɨ	prˈavilɛn		prˈaviː~sprˈaːvniː		riktiːks	tʲɪ̂krɐs~tɛʲɪ̯ˑsʲɪ̂nɡɐs		swˈuʂnɨ~pɾavʲidwˈɔvɨ	prˈavʲɪlʲnɨɪ̯	sprˈaːʋni	praʋìːlɛn	prˈɑʋɪlʲnɪi̯			tôʧan~prâʋiːlan
 COUNT	lʲiʧˈɨʦʲ	brˈɔjɐ		spˈoʧiːtat		skai̯tiːt	skɐʲɪ̯ˑʧʲɪûətʲɪ		lʲˈit͡ʂɨʨ	ɕːɪtˈatʲ	pˈɔʧiːtac	ʃtɛ̀ːti	lʲiʧˈɪtɪ			brǒjiti
 CRY	plˈakaʦʲ	pɫˈaʧɐ		plˈakat		rau̯dɑːt	ʋɛ̂rˑktʲɪ		pwˈakaʨ	pɫˈakətʲ	pɫˈakac	jɔ̀ːkati~plàːkati	pɫˈɑkɐtɪ			plâkati
 CUT	rˈɛzaʦʲ	rˈɛʒɐ		r̝ˈɛzat~str̝̊ˈɪɦat		ɡriɛ̯st~sɑɡriɛ̯st	pjâˑʊ̯tʲɪ~kʲɪ̂rˑptʲɪ		ʨɔɲʨ~kɾˈajaʨ	rʲˈezətʲ	rˈɛzac~strˈiɦac	rɛ̀ːzati	ɾʲˈizɐtɪ			rêzati
 DANCE	tʌnʦavˈaʦʲ	tɐnʦˈuvɐm		tˈanʧɪt		diɛ̯t~dɛjuɔ̯t~dɑnʦuɔ̯t	ʃôːktʲɪ		plˈɔw̃saʨ~tˈaɲt͡ʂɨʨ	plʲɪsˈatʲ~tənʦɨvˈatʲ	tˈanʦɔʋac	plɛ̀ːsati	tɐnʦʲʊʋˈɑtɪ			plěsati
-DAY_(NOT_NIGHT)	ʣʲenʲ	dɛn		dˈɛn		diɛ̯nɑ	diənɑ̂		ʥɛɲ	dʲenʲ	ɟɛɲ	dàːn	dɛnʲ			dâːn
 DIE	pamʲˈerʦʲi	umrˈɤ		ˈumr̝iːt		mirt~nuɔ̯mirt	mʲɪ̂rˑtʲɪ~nʊmʲɪ̂rˑtʲɪ		ˈumʐɛʨ	ʊmʲɪrʲˈetʲ	ˈumrɪ̯ɛc~zˈɔmrɪ̯ɛc	umrɛ̀ːti	pɔmˈɛrtɪ			ǔmrjeːti
 DIE_1			ˈumriːt		mrejt			umri						pɔmrěːt~umrěːt	umrjěːt	
 DIG	kapˈaʦʲ	kopˈajɐ		rˈiːt~kˈopat		rɑkt	kɑ̂stʲɪ		kˈɔpaʨ	kɐpˈatʲ	ric~kˈɔpac	kɔpàːti~ɡréːbsti	kɔpˈɑtɪ			kǒpati~kôpkati
@@ -72,8 +65,8 @@ DRY	suxʲˈi	sux		sˈuxiː		sau̯sː	sɒʊ̯ˑsɐs		sˈuxɨ	sʊxˈoɪ̯	sˈuxiː
 DRY_1			sûːɦ		suːh			suf						sûːx	sûːx	
 DUST	pɨl	prax		prˈax		putːɛɡʎi	dʊ̂ɫkeːs		pɨw~kuʂ	pɨlʲ	prax	pràːx	pɪɫ			prâːx~prǎʃina
 EAR	vˈuxa	uxˈɔ		ˈuxo		au̯sː	ɒʊ̯ˑsʲɪ̂s		ˈuxɔ	ˈuxə	ˈuxɔ	uxɔ̀ː	wˈuxɔ			ûxo
-EARTH (SOIL)_1			zˈɛmʎa~zˈɛmja		zˈæmʎɒ~zˈæmjɒ			zemʲa						zɛmjˈa	zɛmʎˈa	
-EARTH_(SOIL)	zʲæmlʲˈæ	zɛmʲˈa~pˈɔʧvɐ		zˈɛmɲɛ		zɛmɛ	ʒɛ̌meː		ʑˈɛmʲja	zʲɪmlʲˈa	zɛm	pə̀rst~zéːmla	zɛmlʲˈɑ			zěmʎa
+EARTH	zʲæmlʲˈæ	zɛmʲˈa~pˈɔʧvɐ		zˈɛmɲɛ		zɛmɛ	ʒɛ̌meː		ʑˈɛmʲja	zʲɪmlʲˈa	zɛm	pə̀rst~zéːmla	zɛmlʲˈɑ			zěmʎa
+EARTH_1			zˈɛmʎa~zˈɛmja		zˈæmʎɒ~zˈæmjɒ			zemʲa						zɛmjˈa	zɛmʎˈa	
 EAR_1			ǔːɦɔ		vuʃˈejso			uvo						ûːxɔ	ûːxɔ	
 EAT	jˈesʲʦʲi	jam		jˈiːst		eːst	ʋâˑɫɡʲiːtʲɪ		jɛɕʨ	jesʲtʲ~kˈuʂətʲ	jɛsc	jɛ̀ːsti	jˈistɪ			jêsti
 EAT_1			jîːst		jejs			jaj						jɛst	jɛs	
@@ -87,17 +80,15 @@ FAR	dalʲˈɵkʲi	dɐlˈɛʧɛn		dˈalɛkiː		tɑːls	tôːlʲɪmɐs		dalˈɛk�
 FAR_-1														(lǎːrɡɔ)		
 FAR_1			dǎːlɛkɔ		dˈaːlkɔ			daʎeko								
 FAR_2														děːlɡɔ	dˈuɡɔ	
-FAT (FROM ANIMALS)_1					maːs			mas						mâːst	mâːs	
-FAT (FROM ANIMALS)_2															tûːk	
+FAT	tluʂʧ	mɐzninˈa		tˈuk~ˈomastɛk		tau̯ki	tɒʊ̯ˑkɐʲɪ̯ˑ~riəbɐɫɐʲɪ̯ˑ		twuʂt͡ʂ	ʐɨr	tuk~masc	màːst~maʃʧóːba	ʒɪr			mâːst~sâlo
 FATHER	bˈaʦʲka	bɐʃtˈa		ˈotɛʦ		tæːfs	têːʋɐs		ˈɔjʨɛʦ	ɐtʲˈeʦ	ˈɔcɛʦ	óːʧɛ	bˈɑtʲkɔ			ǒtaʦ
-FAT_(ORGANIC_SUBSTANCE)	tluʂʧ	mɐzninˈa		tˈuk~ˈomastɛk		tau̯ki	tɒʊ̯ˑkɐʲɪ̯ˑ~riəbɐɫɐʲɪ̯ˑ		twuʂt͡ʂ	ʐɨr	tuk~masc	màːst~maʃʧóːba	ʒɪr			mâːst~sâlo
-FEAR_(BE_AFRAID)	baʲˈæʦʦa	bojˈɤ sɛ~strɐxˈuvɐm sɛ ɔt		bˈaːt sˈɛ		bai̯diːtiɛ̯snuɔ̯	bʲɪjôːtʲɪ~bâˑʲɪ̯mʲɪntʲɪs		baʨ ɕɛ	bɐjˈatʦə	baːcsa	bàːtisɛ	bɔʲˈɑtɪsʲɐ			bǒjatise
+FAT_1					maːs			mas						mâːst	mâːs	
+FAT_2															tûːk	
 FEATHER	pʲærˈo	pɛrˈɔ		pˈɛro		spɑlvɑ	pɫʊ̂nksnɐ		pʲjˈuɾɔ	pʲɪrˈo	pˈɛrɔ	pɛrɔ̀ː	pɛrˈɔ			pěro
 FEATHER_1			pˈɛrɔ		pˈærɔ			perduf						pɛrˈɔ	pɛrˈɔ~perijˈɔ	
 FIGHT	bʌraʣʲbˈa	borbˈa~srɐʒˈɛniɛ		bˈoj		ʦiːɲɑ	koʋɑ̂		buj~vˈalka	bɐrʲbˈa	bɔj	bɔ́j~bɔ̀ːrba	bʲii̯~bɔrɔtʲbˈɑ			bôːj~bǒrba
-FINE_OR_THIN	tˈonkʲi	fin~tˈɤnɐk		jˈɛmniː		zmɑlks	smʊ̂ɫkʊs		dɾˈɔbnɨ	tˈonkʲɪɪ̯	jˈɛmniː	dróːbɛn	dɾʲibnˈɪi̯			fîːn~tânak
-FINGERNAIL	nˈoʁaʦʲ	nˈɔkɐt		nˈɛɦɛt		nɑks	nǎɡɐs		paznˈɔkʲjɛʨ	nˈoɡətʲ	ɲɛxt	nɔ̀ːxtnaróːki	nʲˈiɦɔtʲ			nôkat
-FINGERNAIL_OR_TOENAIL	nˈoʁaʦʲ	nˈɔkɐt		nˈɛɦɛt		nɑks	nǎɡɐs		paznˈɔkʲjɛʨ	nˈoɡətʲ	ɲɛxt	nɔ̀ːxt	nʲˈiɦɔtʲ			nôkat
+FINGERNAIL	nˈoʁaʦʲ~kʲipʲʦʲˈʉr	nˈɔkɐt		nˈɛɦɛt~drˈaːp~pˈaznɛxt		nɑks	nǎɡɐs~kɐnôːpɐ		paznˈɔkʲjɛʨ~ʂpɔn	nˈoɡətʲ~kˈoɡətʲ	ɲɛxt~pˈazɲɛxt	nɔ̀ːxtnaróːki~nɔ̀ːxt~pàːrkɛl	nʲˈiɦɔtʲ~kʲˈiɦɔtʲ			nôkat
+FINGERNAIL_1			nu̯ɔ̌ɦat		nˈu̯ovæt			nokt						nɔ̌ːxɛt~nɔ̌ːfɛt	nˈɔxat	
 FIRE	aʁˈonʲ	ˈɔɡɐn		ˈoɦɛɲ		uɡuns	ʊɡnʲɪ̂s		ˈɔɡʲjɛɲ	ɐɡˈonʲ	ˈɔɦɛɲ	óːɡɛn	wɔɦˈɔnʲ			ʋâtra
 FIRE_1			ʔˈɔɡaːɲ		ˈu̯oɡæɲ			oɡan						ɔɡˈɛɲ	uɡǎːɲ	
 FISH	rˈɨba	rˈibɐ		rˈɪba		zifs	ʒʊʋʲɪ̂s		ɾˈɨba	rˈɨbə	rˈiba	rìːba	rˈɪbɐ			rîba
@@ -105,8 +96,8 @@ FISH_1			rˈiba		rˈibɒ			riba						rˈiba	rˈiba
 FIVE	pʲæʦʲ	pɛt		pjˈɛt		piɛ̯ʦi	pɛnkʲɪ̂		pʲjɛɲʨ	pʲætʲ	pæc	pɛ̀ːt	pjɑtʲ			pêːt
 FLOW	ʦʲæʧˈɨ	tɛkˈɤ		tˈɛːʦt		tɛʦeːt	tɛkêːtʲɪ		ʨɛʦ~pwˈɨnɔɲʨ	tʲeʨ	cɪ̯ɛʦc	téːʧi	tɛktˈɪ			těʨi
 FLOWER	kʲvʲˈetka	ʦvˈɛtɛ		kvjˈɛcɪna		pucːɛ~ziɛ̯ts	ɡeːɫěː		kfʲjat	ʦvʲɪtˈok	kʋɛt~kʋˈɛcina	ʦʋɛtlìːʦa	kʋʲˈitkɐ			ʦʋjeː̂t
-FLY (MOVE THROUGH AIR)_1			lˈɛtit		lˈætit			ʎeta~ʎetnuva						lɛtˈɛt	lɛtˈɛt	
-FLY_(MOVE_THROUGH_AIR)	lʲætˈaʦʲ	lɛtʲˈɤ~xvˈɤrʧɐ		lˈɛːtat		liduɔ̯t~lai̯stiɛ̯s	ɫěːktʲɪ~skrʲɪ̂stʲɪ		lˈataʨ~lˈɛʨɛʨ	lʲɪtˈatʲ	ɫˈɛcɪ̯ɛc	lɛ̀ːtati	lʲitˈɑtɪ			lětjeti~ljeː̌tati
+FLY	lʲætˈaʦʲ	lɛtʲˈɤ~xvˈɤrʧɐ		lˈɛːtat		liduɔ̯t~lai̯stiɛ̯s	ɫěːktʲɪ~skrʲɪ̂stʲɪ		lˈataʨ~lˈɛʨɛʨ	lʲɪtˈatʲ	ɫˈɛcɪ̯ɛc	lɛ̀ːtati	lʲitˈɑtɪ			lětjeti~ljeː̌tati
+FLY_1			lˈɛtit		lˈætit			ʎeta~ʎetnuva						lɛtˈɛt	lɛtˈɛt	
 FOG	tumˈan	mɐɡɫˈa		mˈl̩ɦa		miɡlɑ	mʲɪɡɫɑ̂~rûːkɐs		mɡwa	tʊmˈan	ɦmɫa	mɛɡlá	tʊmˈɑn			mǎɡla
 FOOT	naʁˈa	krak~noɡˈa		nˈoɦa		kɑːjɑ	peːdɑ̂		stˈɔpa	stʊpnʲˈa	nˈɔɦa	nóːɡa	nɔɦˈɑ			nǒɡa~stǒpalo
 FOOT_1			nu̯ɔ̌ɡa		nˈu̯oɡɒ			noɡa						nɔɡˈa	nɔɡˈa	
@@ -138,9 +129,8 @@ HEAVY	ʦʲˈæʂkʲi	tˈɛʒɐk		cˈɛʃkiː		zmɑks	sʊnkʊ̂s		ʨˈɛw̃ʂkʲi
 HEAVY_1			tjêʒak		tˈæʒæk			teʒok						těːʃki	tˈɛʒak	
 HERE	tut	tuk~tˈukɐ		zdˈɛ~tˈadɪ		tɛ~ʃɛi̯t	ʧʲɛ̂		tu~tˈutaj	zʲdʲesʲ	tu	tú~tùːkaj	tut			tûː~ǒːʋdje
 HOLD	trɨmˈaʦʲ	dɐrʒˈɤ		dˈr̩ʒɛt		tureːt~sɑtːureːt	ɫɐʲɪ̯ˑkîːtʲɪ~pɐɫɐʲɪ̯ˑkîːtʲɪ		tʂˈɨmaʨ	dʲɪrʐˈatʲ	dˈr̩ʒac	drʒàːti	trɪmˈɑtɪ			dř̩ʒati
-HORN (ANATOMY)_1			ru̯ôɡ		ru̯oɡ			rok						rôːx	ru̯ôx	
-HORN_(ANATOMY)	roʁ̥	rɔk		rˈox		rɑks	rǎɡɐs		ɾuk	rok	rɔx	rɔ̀ːɡ	ɾʲiɦ			rôːɡ
-HOT	ʁarˈaʧɨ	ʒˈarɐk		ɦˈorkiː		kɑrsts	kâˑrʃtɐs		ɡɔɾˈɔnʦɨ	ʐˈarkʲɪɪ̯	ɦˈɔruːʦi	ʋrɔ́ʧ	ʒɐrkˈɪi̯~ɦɐɾʲˈɑʧɪi̯			ʋrûːʨ
+HORN	roʁ̥	rɔk		rˈox		rɑks	rǎɡɐs		ɾuk	rok	rɔx	rɔ̀ːɡ	ɾʲiɦ			rôːɡ
+HORN_1			ru̯ôɡ		ru̯oɡ			rok						rôːx	ru̯ôx	
 HOW	jæk	kak		jˈak		kɑː	kɐʲɪ̯ˑp		jak	kak	ˈakɔ	kakɔ̀ː	jɑk			kâko
 HUNDRED	sto	stɔ		stˈo		simt	ʃʲɪ̂mˑtɐs		stɔ	sto	stɔ	stɔ̀ː	stɔ			stôː
 HUNT	pʌlʲævˈaʦʲ	ɫovˈuvɐm		ˈuɦoɲɪt		mɛdiːt	mɛdʒʲɪôːtʲɪ		pɔlˈɔvaʨ	ɐxˈotʲɪtʦə	pˈɔʎɔʋac	lɔʋìːti	pɔlʲʊʋˈɑtɪ			lǒʋiti
@@ -153,16 +143,16 @@ KILL	zabʲˈiʦʲ	ubˈijɐ~umɐrtvʲˈɤ		zˈabiːt		nɑːveːt~nuɔ̯ɡɑlinɑ�
 KILL_1			ʔˈubit		ˈubit			ubije						ubˈit	ubˈit	
 KNEE	kalʲˈena	kolʲˈano		kˈolɛno		ʦɛlis	kɛ̌lʲɪs		kɔlˈanɔ	kɐlʲˈenə	kˈɔɫɛnɔ	kɔlɛ̀ːnɔ	kɔlʲˈinɔ			kǒʎeno
 KNEE_1			kɔljěnɔ		kɔlˈænɔ			koʎeno						kɔlěːnɔ	kɔlˈɛnɔ	
-KNOW (SOMETHING)_1			znat		znɒt			znaj						znat	znat	
-KNOW_(SOMETHING)	znaʦʲ	znˈajɐ		vjˈɛɟɛt		zinɑːt	ʒʲɪnôːtʲɪ		vʲjˈɛʥɛʨ	znatʲ	ʋˈɛɟɪ̯ɛc	znàːti~ʋɛ̀ːdɛti	znˈɑtɪ			znâti
+KNOW	znaʦʲ	znˈajɐ		vjˈɛɟɛt		zinɑːt	ʒʲɪnôːtʲɪ		vʲjˈɛʥɛʨ	znatʲ	ʋˈɛɟɪ̯ɛc	znàːti~ʋɛ̀ːdɛti	znˈɑtɪ			znâti
+KNOW_1			znat		znɒt			znaj						znat	znat	
 LAKE	vˈozʲera	ˈɛzɛro		jˈɛzɛro		ɛzɛrs	ɛ̌ʒɛrɐs		jɛʑˈɔɾɔ	ˈozʲɪrə	jˈazɛrɔ	jɛ̀ːzɛrɔ	ˈɔzɛrɔ			jêzero
 LAUGH	smʲæʲˈæʦʦa	smˈɛjɐ sɛ		smˈaːt sˈɛ		zmiɛ̯t~zmiɛ̯tiɛ̯s	juəktʲɪs		ɕmʲjaʨ ɕɛ	smʲɪjˈatʦə	smɪ̯acsa	smɛjàːtisɛ	smʲiʲˈɑtɪsʲɐ			smǐjatise
 LEAF	lʲist	list		lˈupɛn		lɑpːɑ	ɫǎpɐs		lʲiɕʨ	lʲist	ɫist	lìːst	ɫɪst			lîːst
 LEAF_1			lîːst		lˈiːʃʧæ			ʎis							lîːs	
 LEAF_2														pɛrˈɔ		
 LEG	naʁˈa	krak~noɡˈa		nˈoɦa		kɑːjɑ	kôːjɐ		nˈɔɡa	nɐɡˈa	nˈɔɦa	nóːɡa	nɔɦˈɑ			nǒɡa
-LIE (REST)_1			lˈɛʒat		lˈæʒɒt			ʎeʒi						lɛʒˈat	lɛʒˈat	
-LIE_(REST)	lʲæʐˈaʦʲ	lɛʒˈɤ		lˈɛʒɛt		ɡuleːt	ɡʊɫêːtʲɪ		lˈɛʐɛʨ	lʲɪʐˈatʲ	ɫˈɛʒac	lɛʒàːti	ɫɛʒˈɑtɪ			lěʒati
+LIE	lʲæʐˈaʦʲ	lɛʒˈɤ		lˈɛʒɛt		ɡuleːt	ɡʊɫêːtʲɪ		lˈɛʐɛʨ	lʲɪʐˈatʲ	ɫˈɛʒac	lɛʒàːti	ɫɛʒˈɑtɪ			lěʒati
+LIE_1			lˈɛʒat		lˈæʒɒt			ʎeʒi						lɛʒˈat	lɛʒˈat	
 LIVER	pʲˈeʧanʲ	ʧˈɛrɛn drɔp		jˈaːtra		ɑɡnɑs	kɛ̌pɛnʲiːs		vɔntɾˈɔba	pʲˈeʨɪnʲ	pˈɛʧɛɲ	jɛ̀ːtra	peʧʲˈinkɐ			jêtra
 LIVER_-1								(ʦr̩n ʤiɡer)								
 LIVER_1			jâːtra		jejtra									jěːtra	jjětra	
@@ -193,11 +183,10 @@ MOUTH_1			ʔûːsta					usta						ǔːsta	ǔːsta
 MOUTH_2					zˈowbi											
 NAME	jimʲˈæ	ˈimɛ		jmˈɛːno		vɑːrts	ʋɐ̂rˑdɐs		ˈimʲjɛ	ˈimʲə	mˈɛnɔ	imɛ̀ː	imjˈɑ			îme
 NAME_1			ʔimɛ		ˈimæ			ime						ˈimɛ~jˈimɛ	ˈimɛ	
-NAPE_(OF_NECK)	patˈɨlʲiʦa	tiɫ		tˈiːl		sbrɑnts	sprâˑndɐs		kaɾk	zɐtˈɨɫək	ʋˈæzi	zatìːlnik	pɔtˈɪɫɪʦʲɐ			zǎtiʎak
 NARROW	vˈusʲkʲi	tˈɛsɛn		ˈuːskiː		tiɛ̯fs	smʊ̂ɫkʊs		vˈɔw̃skʲi	ˈuskʲɪɪ̯	ˈuːski	ɔ̀ːzɛk	wʊzʲkˈɪi̯			ûzak
 NEAR	blʲˈisʲkʲi	blˈizɐk		blˈiːskiː		tufs	ɐ̂rˑtʲɪmɐs		blʲˈiskʲi	blʲˈiskʲɪɪ̯	bɫˈiːski	blìːʒni	bɫɪzʲkˈɪi̯			blîzak
 NEAR_1					blˈizu~blˈiːzu			bʎizu						blǐːzu	blǐːzu	
-NECK	ʂˈɨjæ	vrat		kˈr̩k		kɑɡls	kǎkɫɐs		ʂˈɨja	ʂˈɛjə	kr̩k	ʋràːt	ʃˈɪjɐ			ʋrâːt
+NECK	ʂˈɨjæ~patˈɨlʲiʦa	vrat~tiɫ		kˈr̩k~tˈiːl		kɑɡls~sbrɑnts	kǎkɫɐs~sprâˑndɐs		ʂˈɨja~kaɾk	ʂˈɛjə~zɐtˈɨɫək	kr̩k~ʋˈæzi	ʋràːt~zatìːlnik	ʃˈɪjɐ~pɔtˈɪɫɪʦʲɐ			ʋrâːt~zǎtiʎak
 NECK_1								ʃija								
 NECK_2			vrat											vrâːt	vrâːt	
 NECK_3					ɡowt											
@@ -210,30 +199,27 @@ NOSE	nos	nɔs		nˈos		dæɡuns	nôːsʲɪs		nɔs	nos	nɔs	nɔ̀ːs	nʲis			nô
 NOSE_1			nu̯ôs		nu̯os~nows			nos						nôːs	nu̯ôs	
 NOT	nʲe	nɛ		nˈɛ		nɛ	nɛ̂		ɲɛ	nʲɪ	ɲɪ̯ɛ	nɛ	nɛ			nê
 NOT_1			nɛ		næ			ne						nɛ	nɛ	
-OLD_(AGED)	starˈɨ	star		stˈariː		væʦ	pɐɡʲiːʋɛ̌næːs		stˈaɾɨ	pəʐɨɫˈoɪ̯	stˈariː	stár	stɐrˈɪi̯			stâr
-OLD_(USED)	starˈɨ	star~drˈɛvɛn		stˈariː		sɛns~væʦ	sɛ̌nɐs		stˈaɾɨ	stˈarɨɪ̯	stˈariː	stár	stɐrˈɪi̯			stâr
+OLD	starˈɨ	star~drˈɛvɛn		stˈariː		sɛns~væʦ	sɛ̌nɐs~pɐɡʲiːʋɛ̌næːs		stˈaɾɨ	stˈarɨɪ̯~pəʐɨɫˈoɪ̯	stˈariː	stár	stɐrˈɪi̯			stâr
 ONE	aʣʲˈin	ɛdˈin		jˈɛdɛn		viɛ̯ns	ʋîənɐs		jˈɛdɛn	ɐdʲˈin	jˈɛdɛn	éːdɛn	ɔdˈɪn			jědan
 ONE_1			jˈɛdaːn~jˈɛdan		jˈædæn			eden						jɛdˈɛn	jɛdǎːn	
 OTHER	jˈinʂɨ~druɣʲˈi	druk		jˈɪniː		uɔ̯drs	kʲɪ̂tɐs		ˈinnɨ	drʊɡˈoɪ̯	ˈiniː~drˈuɦiː	drùːɡi	inˈɑkʃɪi̯			drûɡiː~druɡǎʧijiː
-PATH	sʲʦʲˈeʂka	pɐtˈɛkɐ		stˈɛska		tɑkːɑ	tǎkɐs		ɕʨˈɛʂka	trɐpˈa	xˈɔdɲiːk	stɛzá	stˈɛʒkɐ			stǎza
+PATH OR ROAD_-1			(ʦjěsta)													
+PATH OR ROAD_1								pat								
+PATH OR ROAD_2														ʧˈɛsta	ʧˈɛsta	
+PATH OR ROAD_3					stjˈezɒ											
+PATH_OR_ROAD	sʲʦʲˈeʂka~darˈoʁa	pɐtˈɛkɐ~pɤt		stˈɛska~ʦˈɛsta		tɑkːɑ~iɛ̯lɑ	tǎkɐs~ɡǎtʋeː		ɕʨˈɛʂka~dɾˈɔɡa	trɐpˈa~putʲ~dɐrˈoɡə	xˈɔdɲiːk~ʦˈɛsta	stɛzá~ʦɛ̀ːsta	stˈɛʒkɐ~dɔrˈɔɦɐ			stǎza~pûːt~ʦêsta
 PERSON	ʧʌlavʲˈek	ʧovˈɛk		ʧlˈovjɛk		ʦilvæːks	ʒmoɡʊ̂s		t͡ʂwˈɔvʲjɛk	ʨɪɫɐvʲˈek	ʧɫˈɔʋɛk	ʧlóːʋɛk	lʲʊdˈɪnɐ			ʧǒʋjek
 PERSON_1			ʧlˈɔviːk		ʧlˈu̯ovæk			ʧojek						ʧɔvˈɛk~ʃlɔvˈɛk	ʧɔvˈɛk	
 PLAY	jiʁrˈaʦʲ	iɡrˈajɐ		ɦrˈaːt		speːleːt~speːleːtiɛ̯s	ɡrôːtʲɪ~ʒɐʲɪ̯ˑstʲɪ		ɡɾaʨ~bˈavʲiʨ ɕɛ	ɪɡrˈatʲ	ɦrac	iɡràːtisɛ	ɦrˈɑtɪ			ǐɡratise
 PULL	ʦʲæʁnˈuʦʲ	tˈɛɡlʲɐ~drˈɤpnɐ		tˈaɦat~tˈaːɦnou̯t		vilkt	tɛ̂mˑptʲɪ		ʨˈɔŋɡnɔɲʨ	tʲɪnˈutʲ	cˈaɦac	ʋlɛ̀ːʧi	tʲɐɦnˈutɪ			ʋǔːʨi
 PUSH	pxaʦʲ~ʂtˈurxaʦʲ	tˈikɐm		pˈosou̯vat		stumt	stʊ̂mtʲɪ		pxaʨ~pɔsˈuvaʨ	tɐɫkˈatʲ	pˈɔsunɔʋac	rìːniti	pxˈɑtɪ~ʃtɔʋxˈɑtɪ			ɡǔːrati
-RAIN (PRECIPITATION)_1								doʃ						dɛʃ	dǎːʃ	
-RAIN (PRECIPITATION)_2			ɡu̯ɔ̌dina		ɡˈu̯odinɒ											
-RAIN_(PRECIPITATION)	doʂʧ	dɤʃt		dˈɛːʃc		liɛ̯tus	ɫiətʊ̂s		dɛʂt͡ʂ	doʂtʲ	daːʃc	dɛ́ʒ	dɔʃʧ			kîʃa
+RAIN	doʂʧ	dɤʃt		dˈɛːʃc		liɛ̯tus	ɫiətʊ̂s		dɛʂt͡ʂ	doʂtʲ	daːʃc	dɛ́ʒ	dɔʃʧ			kîʃa
+RAIN_1								doʃ						dɛʃ	dǎːʃ	
+RAIN_2			ɡu̯ɔ̌dina		ɡˈu̯odinɒ											
 RED	ʧɨrvˈonɨ	ʧɛrvˈɛn		rˈudiː~ʧˈɛrvɛniː		sɑrkɑns	rɒʊ̯ˑdôːnɐs		t͡ʂɛɾvˈɔnɨ	krˈasnɨɪ̯	ʧˈɛrʋɛniː	rdɛ́ʧ	ʧɛrwˈɔnɪi̯			ʦř̩ʋen
 RED_1			ʧˈr̩ʎjɛn~ʧˈr̩ʎɛn		ʧˈɛrjæn			ʦr̩ven						ʧɛvjěːni		
 RED_2															kr̩vǎːvi	
 RIVER	rakˈa	rɛkˈa		r̝ˈɛka		upːɛ	ʊ̂peː		ʐˈɛka	rʲɪkˈa	rˈɪ̯ɛka	rɛ̀ːka	ɾʲikˈɑ			rjeː̌ka
-ROAD	darˈoʁa	pɤt		ʦˈɛsta		iɛ̯lɑ	ɡǎtʋeː		dɾˈɔɡa	putʲ~dɐrˈoɡə	ʦˈɛsta	ʦɛ̀ːsta	dɔrˈɔɦɐ			pûːt~ʦêsta
-ROAD_-1			(ʦjěsta)													
-ROAD_1								pat								
-ROAD_2														ʧˈɛsta	ʧˈɛsta	
-ROAD_3					stjˈezɒ											
-ROCK	kˈamʲenʲ	kˈamɐk		kˈaːmɛn		ɑɡmɛns	ɐkmuə		kˈamʲjɛɲ	kˈamʲɪnʲ	kˈamɛɲ	kàːmɛn	kˈɑmʲinʲ			kâmeːn
 ROOT	kˈoranʲ	kˈɔrɛn		kˈor̝ɛn		sɑɡnɛ	ʃɐknʲɪ̂s		kˈɔʐɛɲ	kˈorʲɪnʲ	kˈɔrɛɲ	kɔrɛnìːna	kˈɔɾʲinʲ			kôrjeːn
 ROOT_1			ku̯ɔ̌rɛn		kˈu̯orænɒ			koren						kɔ̌ːrɛn	kˈɔrɛn	
 ROUND	krˈuʁlɨ	krˈɤɡɐɫ		kˈulatiː~ˈokrou̯ɦliː		ɑpːɑʎʃ	ɐpʋɐɫʊ̂s~ǎpskrʲɪtɐs		ɔkɾˈɔŋɡwɨ	krˈuɡɫɨɪ̯	ɡˈuʎatiː~ˈɔkruːɦɫi	ɔkrɔ̀ːɡɛl	krˈuɦɫɪi̯			ǒkruːɡao
@@ -273,10 +259,10 @@ SLEEP	spaʦʲ	spʲɤ		spˈaːt		ɡuleːt	miəɡôːtʲɪ		spaʨ	spatʲ	spac	spa
 SLEEP_1			spat		spaːt			spije						spat	spat	
 SMALL	malʲˈenʲkʲi	mˈaɫɐk~drˈɛbɛn		mˈaliː		mɑsː	mǎʒɐs		mˈawɨ	mˈalʲɪnʲkʲɪɪ̯	mˈaɫiː	màːjxɛn	mɐɫˈɪi̯~mɐɫˈɛnʲkɪi̯			mâːliː~mǎlen
 SMALL_1			mǎːʎuʧak~mǎːjuʧak		mɒl			mal						mâːli	mâːli	
-SMELL_(PERCEIVE)	nʲˈʉxaʦʲ	dˈuʃɐ		ʦˈiːcɪt		uɔ̯st~uɔ̯stiːt	ûəstʲɪ~ʊʒûəstʲɪ		vˈɔw̃xaʨ	nʲˈuxətʲ	ɲˈuxac	ʋóːxati	nʲˈuxɐtɪ			ɲûʃiti
-SMOKE (EXHAUST)_1								ʧat								
-SMOKE (EXHAUST)_2			dîːm		diːm~dim									dǐːm	dǐːm	
-SMOKE_(EXHAUST)	dɨm	dim~pˈuʃɛk		dˈiːm~kˈou̯r̝̊		duːmi	dûːmɐʲɪ̯ˑ		dɨm	dɨm	dim	dím	dɪm			dîm
+SMELL	nʲˈʉxaʦʲ	dˈuʃɐ		ʦˈiːcɪt		uɔ̯st~uɔ̯stiːt	ûəstʲɪ~ʊʒûəstʲɪ		vˈɔw̃xaʨ	nʲˈuxətʲ	ɲˈuxac	ʋóːxati	nʲˈuxɐtɪ			ɲûʃiti
+SMOKE	dɨm	dim~pˈuʃɛk		dˈiːm~kˈou̯r̝̊		duːmi	dûːmɐʲɪ̯ˑ		dɨm	dɨm	dim	dím	dɪm			dîm
+SMOKE_1								ʧat								
+SMOKE_2			dîːm		diːm~dim									dǐːm	dǐːm	
 SMOOTH	ʁlˈatʲkʲi	ɡɫˈadɐk		ɦlˈatkiː		ɡluts~zlidæns	slʲɪdʊ̂s		ɡwˈatkʲi	ɡɫˈatkʲɪɪ̯	ɦɫˈatkiː	ɡlàːdɛk	ɾʲˈiʋnɪi̯~ɦɫɐdkˈɪi̯			ɡlâdak
 SNAKE	zmʲæʲˈæ	zmijˈa		ɦˈat		ʧuːskɑ	ɡʲiːʋǎteː		vɔw̃ʂ~ʐmʲˈija	zmʲɪjˈa	ɦat	kàːʧa	zmʲiʲˈɑ			zmǐja
 SNAKE_-1			(ɦad)													
@@ -291,6 +277,7 @@ STAND_1			stâːt		staːt			stoj						stǎːt	stǎːt
 STAR	zˈorka	zvɛzdˈa		ɦvjˈɛzda		zvai̯ɡznɛ	ʒʋɐʲɪ̯ˑɡʒděː		ɡvʲjˈazda	zvʲɪzdˈa	ɦʋˈɪ̯ɛzda	zʋɛ̀ːzda	zʲˈirkɐ			zʋjeː̌zda
 STAR_1			zvjêzda		zvˈejzdɒ			ʣvezda						zvɛzdˈa	zvjezdˈa	
 STICK	pˈalka	prɤt		ɦˈuːlka		buɔ̯zɛ~spiɛ̯cis	ɫɐzdɑ̂		kʲij~lˈaska	pˈaɫkə	pˈaɫiʦa	pàːliʦa	pˈɑɫɪʦʲɐ			ʃtâːp~pâliʦa
+STONE	kˈamʲenʲ	kˈamɐk		kˈaːmɛn		ɑɡmɛns	ɐkmuə		kˈamʲjɛɲ	kˈamʲɪnʲ	kˈamɛɲ	kàːmɛn	kˈɑmʲinʲ			kâmeːn
 STONE_-1															(ɡrˈɔta)	
 STONE_1			kǎːmɛn		kˈowmæn			kamen						kaměːna~kǎːmik	kˈamik	
 STUPID	durnˈɨ	ɡɫˈupɐf		ɦlˈou̯piː		stulps~muʎciːks	pɐʲɪ̯ˑkɐs~kʋɐʲɪ̯ˑɫɐs		ɡwˈupʲi	ɡɫˈupɨɪ̯	ɦɫˈuːpi	ɡlùːp~bɛ̀ːdast	dʊrnˈɪi̯			ɡlûːp
@@ -309,9 +296,9 @@ THAT_2			tâː		tej~taː			t						ɔtɔ̌ːx~tɔ̌ːx	ta~tâː
 THERE	tam	tam		tˈam		tur	tɛ̂nˑ~tɛnɐʲɪ̯ˑ		tam	tam	tam	tám	tɑm			tâmo
 THEY	jænˈɨ	tɛ		ˈoɲɪ		viɲi~viɲɑs	jɪ̂~jǒːs		ˈɔɲi	ɐnʲˈi	ˈɔɲi	óːni	wɔnˈɪ			ǒni
 THICK	tˈowstɨ	dɛbˈɛɫ		tlˈustiː		biɛ̯sː	stôːrɐs		ɡɾˈubɨ	tˈoɫstɨɪ̯	tˈɫ̩stiː	déːbɛl	tɔʋstˈɪi̯			děbeo
-THIN (OF SHAPE OF OBJECT)_1			tǎːnak		tˈejnæk			tanok						tˈɛnɛk	tˈanak	
-THINK_(REFLECT)	dˈumaʦʲ	mˈislʲɐ		mˈɪslɪt		duɔ̯mɑːt	ɡɐɫʋôːtʲɪ		mˈɨɕlɛʨ	dˈumətʲ	mˈisɫɪ̯ɛc	mìːsliti	dˈumɐtɪ~mˈɪsɫɪtɪ			mîsliti
-THIN_(OF_SHAPE_OF_OBJECT)	tˈonkʲi	tˈɤnɐk		tˈɛŋkiː		blɑːns	pɫôːnɐs		ʨˈɛŋkʲi	tˈonkʲɪɪ̯	cˈɛŋkiː	tàːnɛk	tɔnkˈɪi̯			tânak
+THIN	tˈonkʲi	tˈɤnɐk~fin		tˈɛŋkiː~jˈɛmniː		blɑːns~zmɑlks	pɫôːnɐs~smʊ̂ɫkʊs		ʨˈɛŋkʲi~dɾˈɔbnɨ	tˈonkʲɪɪ̯	cˈɛŋkiː~jˈɛmniː	tàːnɛk~dróːbɛn	tɔnkˈɪi̯~dɾʲibnˈɪi̯			tânak~fîːn
+THINK	dˈumaʦʲ	mˈislʲɐ		mˈɪslɪt		duɔ̯mɑːt	ɡɐɫʋôːtʲɪ		mˈɨɕlɛʨ	dˈumətʲ	mˈisɫɪ̯ɛc	mìːsliti	dˈumɐtɪ~mˈɪsɫɪtɪ			mîsliti
+THIN_1			tǎːnak		tˈejnæk			tanok						tˈɛnɛk	tˈanak	
 THIS	ʁˈɛta	tˈɔzi		tˈoto~tˈoɦlɛ		ʃis	ʃʲɪ̂s~ʃʲɪ̂tɐs		tɔ	ˈɛtə	tɔ~tˈaːtɔ	tɔ̀ː	ʦɛ			ǒʋoː
 THIS_1			u̯ôv		owv			ov						ɔvɔ̌ːx~vɔ̌ːx	ɔvˈi	
 THIS_2								t								
@@ -335,7 +322,7 @@ TWO_1			dvǎː		dvaː			dva						dvâː	dvâː
 WALK	xaʣʲˈiʦʲ	xˈɔdʲɐ		bjˈɛʒɛt		iɛ̯t~sɡrai̯diːt	ɛʲɪ̯ˑtʲɪ		xˈɔʥiʨ	xɐdʲˈitʲ	bˈɛʒac	xɔdìːti	xɔdˈɪtɪ			xǒːdati
 WALK_1			ʔit		powt~pˈowti			oj						pɔ̌ːc	pu̯ǒc	
 WALK_2														rěːn~ɡrěːn	ɡrjěn	
-WARM	ʦʲˈɵplɨ	tˈɔpɐɫ		tˈɛpliː		silts	ʃʲɪ̂ɫˑtɐs		ʨˈɛpwɨ	tʲˈɵpɫɨɪ̯	cˈɛpɫiː	tóːpɛl	tˈɛpɫɪi̯			tôpao
+WARM	ʁarˈaʧɨ~ʦʲˈɵplɨ	ʒˈarɐk~tˈɔpɐɫ		ɦˈorkiː~tˈɛpliː		kɑrsts~silts	kâˑrʃtɐs~ʃʲɪ̂ɫˑtɐs		ɡɔɾˈɔnʦɨ~ʨˈɛpwɨ	ʐˈarkʲɪɪ̯~tʲˈɵpɫɨɪ̯	ɦˈɔruːʦi~cˈɛpɫiː	ʋrɔ́ʧ~tóːpɛl	ʒɐrkˈɪi̯~ɦɐɾʲˈɑʧɪi̯~tˈɛpɫɪi̯			ʋrûːʨ~tôpao
 WARM_1			tjěpal		tˈu̯opɛl			topol						těːpɛl	tˈɛpal	
 WASH	mɨʦʲ	mˈijɐ~pɛrˈɤ		mˈiːt		mɑzɡɑːt	pɫâˑʊ̯tʲɪ~mɐzɡôːtʲɪ~skɐ̂ɫˑbtʲɪ		pɾaʨ	mɨtʲ	mic	ɔpràːti	mˈɪtɪ			prâti
 WATER	vadˈa	vodˈa		vˈoda		uːdɛns	ʋɐnduə		vˈɔda	vɐdˈa	ʋˈɔda	ʋóːda	wɔdˈɑ			ʋǒda
