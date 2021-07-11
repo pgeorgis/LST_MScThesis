@@ -1,0 +1,780 @@
+Language,Concept,Ratcliffe,Wiktionary,LD,N_LD
+Moroccan Arabic,BARK,qeʃrˤa,qəʃrˤa,1,0.167
+Moroccan Arabic,BELLY,kerʃ,kərʃ,1,0.2
+Moroccan Arabic,BITE,ʕedˤdˤ,ʕədˤdˤ,1,0.167
+Moroccan Arabic,BLACK,kħel,kħəl,1,0.2
+Moroccan Arabic,BONE,ʕdˤem,ʕdˤɛm,1,0.2
+Moroccan Arabic,COLD,bared,barɛd,1,0.2
+Moroccan Arabic,DOG,kelb,kəlb,1,0.25
+Moroccan Arabic,DRINK,ʃreb,ʃrəb,1,0.2
+Moroccan Arabic,DRY,jabes,jabəs,1,0.2
+Moroccan Arabic,EAR,wden,wdən,1,0.25
+Moroccan Arabic,EGG,bidˤa,bidˤɑ,1,0.2
+Moroccan Arabic,FIRE,ʕafja,ʕafjɑ,1,0.2
+Moroccan Arabic,FISH,ħut,ħutɑ,1,0.25
+Moroccan Arabic,FOOT,rʒel,rʒəl,1,0.25
+Moroccan Arabic,FULL,ʕamer,ʕamər,1,0.2
+Moroccan Arabic,GIVE,ʕtˤa,ʕtˤɑ,1,0.25
+Moroccan Arabic,GREEN,xdˤer,xdˤər,1,0.2
+Moroccan Arabic,HEAR,smeʕ,sməʕ,1,0.25
+Moroccan Arabic,HEART,qelb,qəlb,1,0.2
+Moroccan Arabic,I,ana,anɑ,1,0.333
+Moroccan Arabic,KILL,qtel,qtal,1,0.25
+Moroccan Arabic,MANY,bezzaf,bəzzaf,1,0.167
+Moroccan Arabic,MOUNTAIN,ʒbel,ʒbal,1,0.125
+Moroccan Arabic,MOUTH,fomm,fumm,1,0.2
+Moroccan Arabic,NECK,ʕenq,ʕənq,1,0.25
+Moroccan Arabic,NIGHT,lila,lil,1,0.2
+Moroccan Arabic,NOT,maʃ,maʃi,1,0.333
+Moroccan Arabic,ONE,waħed,waħɛd,1,0.2
+Moroccan Arabic,ROAD,tˤrˤiq,tˤriq,1,0.167
+Moroccan Arabic,ROOT,ʒder,ʒdər,1,0.25
+Moroccan Arabic,ROUND,mdˤuwwer,mdˤuwwər,1,0.125
+Moroccan Arabic,SAY,qal,ɡal,1,0.333
+Moroccan Arabic,SIT,ɡles,ɡləs,1,0.25
+Moroccan Arabic,SLEEP,nʕes,nʕas,1,0.2
+Moroccan Arabic,STAND,wqef,wqəf,1,0.2
+Moroccan Arabic,STONE,ħeʒra,ħəʒra,1,0.2
+Moroccan Arabic,SUN,ʃemʃ,ʃəmʃ,1,0.25
+Moroccan Arabic,TAIL,ʃuwwal,ʃwwal,1,0.167
+Moroccan Arabic,THIS,had,hada,1,0.25
+Moroccan Arabic,THOU,nta,ntɑ,1,0.25
+Moroccan Arabic,WE,ħna,ħnɑ,1,0.333
+Moroccan Arabic,WHITE,bjedˤ,bjədˤ,1,0.2
+Moroccan Arabic,YELLOW,sˤfer,sˤfər,1,0.167
+Moroccan Arabic,ALL,koll,kul,2,0.5
+Moroccan Arabic,ASH,rˤmadˤ,rmɑdˤ,2,0.333
+Moroccan Arabic,BLOOD,demm,dam,2,0.4
+Moroccan Arabic,BREAST,bezzula,bəzzulɑ,2,0.286
+Moroccan Arabic,EYE,ʕejn,ʕin,2,0.5
+Moroccan Arabic,HAND,idd,jədd,2,0.5
+Moroccan Arabic,KNEE,rokba,rukbɑ,2,0.4
+Moroccan Arabic,LIVER,kebda,kəbdɑ,2,0.4
+Moroccan Arabic,LOUSE,qemla,qəmlɑ,2,0.4
+Moroccan Arabic,MAN,rˤaʒel,rˤaːʒəl,2,0.333
+Moroccan Arabic,NAME,smija,smijjɑ,2,0.4
+Moroccan Arabic,RED,ħmerˤ,ħmər,2,0.4
+Moroccan Arabic,SEED,ʒerriʕa,zərriʕa,2,0.286
+Moroccan Arabic,STAR,neʒma,nəʒmɑ,2,0.4
+Moroccan Arabic,TOOTH,senn,sənnɑ,2,0.4
+Moroccan Arabic,TREE,ʃeʒra,ʃəʒrˤa,2,0.4
+Moroccan Arabic,WOMAN,mra,mrˤɑ,2,0.4
+Moroccan Arabic,HAIR,ʃʕer,ʃəʕrɑ,3,0.75
+Moroccan Arabic,HEAD,rˤasˤ,rɑs,3,0.6
+Moroccan Arabic,LEAF,werqa,wərˤqɑ,3,0.6
+Moroccan Arabic,SAND,rˤemla,rəmlɑ,3,0.5
+Moroccan Arabic,MOON,ɡamrˤa,qəmr,4,0.667
+Moroccan Arabic,WALK,mʃa,sˤɑr,4,1.0
+Moroccan Arabic,PERSON,sijed,nsan,5,0.833
+Moroccan Arabic,BIRD,tˤir,bərˤtˤɑl,6,1.5
+Maltese,BLOOD,demm,dɛmm,1,0.2
+Maltese,COME,ʤiː,ʤɪː,1,0.25
+Maltese,DIE,miːt,mɪːt,1,0.25
+Maltese,EAT,kiːl,kɪːl,1,0.25
+Maltese,FOOT,siːʔ,sɪːʔ,1,0.25
+Maltese,I,jiːn,jɪːn,1,0.25
+Maltese,LONG,twil,twiːl,1,0.25
+Maltese,MOUTH,ħalʔ,ħɐlʔ,1,0.2
+Maltese,NIGHT,lejl,lɛjl,1,0.2
+Maltese,SUN,ʃemʃ,ʃɛmʃ,1,0.25
+Maltese,THOU,int,ɪnt,1,0.25
+Maltese,TONGUE,lsiːn,lsɪːn,1,0.167
+Maltese,TWO,tnejn,tnɛjn,1,0.2
+Maltese,ALL,kollu,kʊll,2,0.4
+Maltese,ASH,rmiːd,rmɪːt,2,0.4
+Maltese,BARK,ʔoʃra,ʔɔʃrɐ,2,0.4
+Maltese,BELLY,zaʔʔ,zɐʔ,2,0.4
+Maltese,BITE,ɡidem,ɡɪdɛm,2,0.4
+Maltese,BREAST,sider,sɪdɛr,2,0.333
+Maltese,DOG,kelb,kɛlp,2,0.5
+Maltese,DRY,niːʃef,nɪːʃɛf,2,0.333
+Maltese,EAR,widna,wɪdnɐ,2,0.4
+Maltese,EGG,bajda,bɐjdɐ,2,0.4
+Maltese,EYE,ʕajn,ɐːjn,2,0.5
+Maltese,FEATHER,riʃa,riːʃɐ,2,0.286
+Maltese,FIRE,nar,nɐːr,2,0.5
+Maltese,GIVE,ta,tɐː,2,0.5
+Maltese,GREEN,aħdar,ɐħdɐr,2,0.4
+Maltese,HAND,id,iːt,2,0.5
+Maltese,HEAD,ras,rɐːs,2,0.5
+Maltese,HEART,ʔalb,ʔɐlp,2,0.4
+Maltese,KILL,ʔatel,ʔɐtɛl,2,0.4
+Maltese,LEAF,werʔa,wɛrʔɐ,2,0.4
+Maltese,LIVER,fwiːd,fwɪːt,2,0.4
+Maltese,LOUSE,ʔamla,ʔɐmlɐ,2,0.4
+Maltese,MEAT,laħam,lɐħɐm,2,0.4
+Maltese,MOON,ʔamar,ʔɐmɐr,2,0.4
+Maltese,NAME,isem,ɪsɛm,2,0.5
+Maltese,NECK,ʕonʔ,ɔːnʔ,2,0.5
+Maltese,NEW,ʤdida,ʤdiːt,2,0.4
+Maltese,NOT,mhuʃ,mʊːʃ,2,0.5
+Maltese,RED,aħmar,ɐħmɐr,2,0.4
+Maltese,ROAD,triʔ,trɪːʔ,2,0.5
+Maltese,ROOT,ʕerʔ,ɛːrʔ,2,0.5
+Maltese,SAND,ramel,rɐmɛl,2,0.4
+Maltese,SAY,ʔal,ʔɐːl,2,0.667
+Maltese,SEE,ra,rɐː,2,0.667
+Maltese,SMALL,zɣir,zɛjr,2,0.4
+Maltese,STAR,stilla,stɪllɐ,2,0.333
+Maltese,STONE,ʤebla,ʤɛblɐ,2,0.4
+Maltese,SWIM,ʕam,ɐːm,2,0.5
+Maltese,THIS,din,dɐːn,2,0.5
+Maltese,TREE,siʤra,sɪʤrɐ,2,0.4
+Maltese,WALK,meʃa,mɛʃɐ,2,0.5
+Maltese,WATER,ilma,ɪlmɐ,2,0.4
+Maltese,WE,aħna,ɐħnɐ,2,0.5
+Maltese,WOMAN,mara,mɐrɐ,2,0.4
+Maltese,BIG,kibir,ɡbiːr,3,0.6
+Maltese,BLACK,iswed,ɪswɛt,3,0.6
+Maltese,BONE,ʕadma,ɐːdmɐ,3,0.6
+Maltese,CLOUD,sħaba,sħɐːbɐ,3,0.6
+Maltese,COLD,biːred,bɪːrɛt,3,0.5
+Maltese,DRINK,ʃorob,ʃɔrɔp,3,0.6
+Maltese,FISH,ħuta,ħʊːtɐ,3,0.75
+Maltese,HAIR,ʃaʕar,ʃɐːr,3,0.6
+Maltese,HEAR,sama’,sɛmɐ,3,0.6
+Maltese,MAN,raʤel,rɐːʤɛl,3,0.6
+Maltese,MOUNTAIN,muntanja,mʊntɐnjɐ,3,0.375
+Maltese,NOSE,imniːħer,mnɪːħɛr,3,0.375
+Maltese,ONE,wiːħed,wɪːħɛt,3,0.5
+Maltese,TAIL,denb,dɛmp,3,0.75
+Maltese,TOOTH,sins,sɪnnɐ,3,0.6
+Maltese,WARM,sħuna,sħʊːn,3,0.6
+Maltese,WHITE,abjad,ɐbjɐt,3,0.6
+Maltese,BIRD,ʕasfur,ɐsfʊːr,4,0.667
+Maltese,KNEE,rkobba,rkɔppɐ,4,0.667
+Maltese,SEED,zerriːʕa,zɛrrɪːjɐ,4,0.5
+Maltese,SIT,ʔaʕad,ʔɐːt,4,0.8
+Maltese,SLEEP,irʔad,rɐʔɐt,4,0.8
+Maltese,YELLOW,sfajjar,ɪsfɐr,5,0.714
+Maltese,PERSON,persuna,ʊmɐːn,6,0.857
+Egyptian Arabic,ALL,kull,kɔll,1,0.25
+Egyptian Arabic,BELLY,batˤn,bɑtˤn,1,0.2
+Egyptian Arabic,COME,ɡa,ɡɛ,1,0.25
+Egyptian Arabic,DIE,maat,maːt,1,0.25
+Egyptian Arabic,DRY,naːʃif,naːʃɛf,1,0.167
+Egyptian Arabic,EAR,widn,wɛdn,1,0.25
+Egyptian Arabic,EAT,akal,kal,1,0.25
+Egyptian Arabic,FIRE,naːr,nɑːr,1,0.25
+Egyptian Arabic,FISH,samak,samaka,1,0.2
+Egyptian Arabic,FOOT,riɡl,rɛɡl,1,0.25
+Egyptian Arabic,FULL,maljaan,maljaːn,1,0.143
+Egyptian Arabic,GIVE,idda,ɛdda,1,0.25
+Egyptian Arabic,HAND,iːd,ʔiːd,1,0.25
+Egyptian Arabic,KILL,mawwit,mawwɛt,1,0.167
+Egyptian Arabic,KNEE,rukba,rɔkba,1,0.2
+Egyptian Arabic,LIVER,kibda,kɛbda,1,0.2
+Egyptian Arabic,MOUTH,buʔʔ,bɔʔʔ,1,0.2
+Egyptian Arabic,NAME,ism,ɛsm,1,0.25
+Egyptian Arabic,NOT,miʃ,mɛʃ,1,0.333
+Egyptian Arabic,ONE,waːħid,waːħɛd,1,0.167
+Egyptian Arabic,PERSON,ʃaxsˤ,ʃɑxsˤ,1,0.167
+Egyptian Arabic,SLEEP,naam,naːm,1,0.2
+Egyptian Arabic,STAR,niɡma,nɛɡma,1,0.2
+Egyptian Arabic,SWIM,ʕaːm,ʕ̞aːm,1,0.25
+Egyptian Arabic,THOU,inta,ɛnta,1,0.25
+Egyptian Arabic,WALK,miʃi,mɛʃi,1,0.25
+Egyptian Arabic,WARM,daːfiː,daːfi,1,0.167
+Egyptian Arabic,WE,iħna,ɛħna,1,0.25
+Egyptian Arabic,WOMAN,sitt,sɛtt,1,0.2
+Egyptian Arabic,BIG,kibiir,kɛbiːr,2,0.333
+Egyptian Arabic,BIRD,tˤeer,tˤɛːr,2,0.4
+Egyptian Arabic,BLACK,iswid,ɛswɛd,2,0.4
+Egyptian Arabic,BREAST,sidir,sɛdr,2,0.333
+Egyptian Arabic,CLOUD,saħaab,saħaːba,2,0.333
+Egyptian Arabic,DRINK,ʃirib,ʃɛrɛb,2,0.4
+Egyptian Arabic,HAIR,ʃaʕr,ʃɑʕ̞r,2,0.5
+Egyptian Arabic,LONG,tˤawiːl,twiːl,2,0.286
+Egyptian Arabic,MANY,kitiir,kɛtiːr,2,0.333
+Egyptian Arabic,MOON,ʔamar,ʔɑmɑr,2,0.4
+Egyptian Arabic,NEW,ɡidiid,ɡɛdiːd,2,0.333
+Egyptian Arabic,NIGHT,leela,lɛːla,2,0.4
+Egyptian Arabic,NOSE,manaxiir,maraxiːr,2,0.25
+Egyptian Arabic,RED,aħmar,ɑħmɑr,2,0.4
+Egyptian Arabic,ROAD,tˤariːʔ,tɑriːʔ,2,0.286
+Egyptian Arabic,SAND,raml,rɑmlɑ,2,0.5
+Egyptian Arabic,SIT,ʔaʕad,aʕ̞ad,2,0.4
+Egyptian Arabic,STAND,wiʔif,wɛʔɛf,2,0.4
+Egyptian Arabic,TONGUE,lisaan,lɛsaːn,2,0.333
+Egyptian Arabic,TOOTH,sinn,sɛnna,2,0.4
+Egyptian Arabic,ASH,ramaːdˤ,rɑmɑːd,3,0.429
+Egyptian Arabic,EGG,beedˤa,bɛːdˤɑ,3,0.5
+Egyptian Arabic,EYE,ʕeen,ʕ̞ɛːn,3,0.75
+Egyptian Arabic,HEAD,rˤaas,rɑːs,3,0.6
+Egyptian Arabic,HEAR,simiʕ,sɛmɛʕ̞,3,0.6
+Egyptian Arabic,LOUSE,ʔamla,ʔamlaːja,3,0.6
+Egyptian Arabic,MAN,rˤaːɡil,rɑːɡɛl,3,0.429
+Egyptian Arabic,ROUND,midawwar,mɛdɑwwɑr,3,0.375
+Egyptian Arabic,TREE,ʃaɡara,ʃɑɡɑrɑ,3,0.5
+Egyptian Arabic,TWO,itneen,ɛtnɛːn,3,0.5
+Egyptian Arabic,WHAT,eeh,ʔɛː,3,0.75
+Egyptian Arabic,WHITE,abjadˤ,ɑbjɑd,3,0.5
+Egyptian Arabic,YELLOW,asˤfar,ɑsfɑr,3,0.5
+Egyptian Arabic,BITE,ʕadˤdˤ,ʕ̞ɑdd,4,0.667
+Egyptian Arabic,BONE,ʕadma,ʕ̞ɑdˤm,4,0.8
+Egyptian Arabic,SMALL,sˤuɣajjar,sɔɣɑjjɑr,4,0.444
+Egyptian Arabic,STONE,ħaɡarˤa,ħɑɡɑrɑ,4,0.571
+Egyptian Arabic,TAIL,danab,dɛːl,4,0.8
+Egyptian Arabic,THAT,da,dawwat,4,1.0
+Egyptian Arabic,WATER,mayya,mɑjjɑ,4,0.8
+Egyptian Arabic,BARK,ʔiʃr,ɡɛdʕ̞,5,1.25
+Egyptian Arabic,GREEN,ʔaxdˤar,ɑɣdɑr,5,0.714
+Egyptian Arabic,SEED,ħabba,bɛzr,5,1.0
+Egyptian Arabic,COLD,bard,saːʔɛʕ̞,6,1.5
+Egyptian Arabic,LEAF,warʔa,waraʔɛt ʃɑɡɑr,9,1.8
+Levantine Arabic,ALL,kəll,kɛll,1,0.25
+Levantine Arabic,BITE,ʕadˤdˤ,ʕɑdˤdˤ,1,0.167
+Levantine Arabic,FEATHER,riːʃe,riːʃɛ,1,0.143
+Levantine Arabic,FULL,malaːn,maljaːn,1,0.167
+Levantine Arabic,HEAD,raːs,rɑːs,1,0.25
+Levantine Arabic,LONG,tˤawiːl,tˤɑwiːl,1,0.143
+Levantine Arabic,LOUSE,ʔamle,ʔamlɛ,1,0.2
+Levantine Arabic,MOUNTAIN,ʤabal,ʒabal,1,0.125
+Levantine Arabic,MOUTH,təmm,tɛmm,1,0.2
+Levantine Arabic,NEW,ʤdiːd,ʒdiːd,1,0.2
+Levantine Arabic,SAY,ʔaːl,ʔɛːl,1,0.25
+Levantine Arabic,SMALL,zˤɣiːr,sˤɣiːr,1,0.167
+Levantine Arabic,SUN,ʃaməs,ʃams,1,0.2
+Levantine Arabic,TAIL,danab,danɛb,1,0.2
+Levantine Arabic,TOOTH,sənn,sɛnn,1,0.2
+Levantine Arabic,WALK,məʃi,mɛʃi,1,0.25
+Levantine Arabic,WHAT,ʃuː,ʃu,1,0.25
+Levantine Arabic,ASH,ramaːd,rimɛːd,2,0.333
+Levantine Arabic,BELLY,batˤən,bɑtˤn,2,0.333
+Levantine Arabic,BIRD,tˤeer,tˤɑjr,2,0.4
+Levantine Arabic,BLACK,ʔaswad,ʔɑswɑd,2,0.333
+Levantine Arabic,BONE,ʕadˤme,ʕɑdˤmi,2,0.333
+Levantine Arabic,DRINK,ʃəreb,ʃɛrɛb,2,0.4
+Levantine Arabic,DRY,naːʃef,nɛːʃɛf,2,0.333
+Levantine Arabic,EAT,ʔakal,ʔɑkɑl,2,0.4
+Levantine Arabic,EYE,ʕeen,ʕɑjn,2,0.5
+Levantine Arabic,GREEN,ʔaxdˤar,ʔɑxdˤɑr,2,0.286
+Levantine Arabic,HAIR,ʃaʕər,ʃɑʕɛr,2,0.4
+Levantine Arabic,HEAR,səmeʕ,sɑmɑʕ,2,0.4
+Levantine Arabic,KILL,ʔatal,ʔɑtɑl,2,0.4
+Levantine Arabic,KNEE,rəkbe,rɛkbɛ,2,0.4
+Levantine Arabic,LIVER,kəbəd,kɛbɛd,2,0.4
+Levantine Arabic,NAME,ʔəsəm,ʔɛsɛm,2,0.4
+Levantine Arabic,NECK,raʔbe,rɑʔbɛ,2,0.4
+Levantine Arabic,NOT,maː,mɛʃ,2,0.667
+Levantine Arabic,ONE,waːħed,wɑːħɑd,2,0.333
+Levantine Arabic,RED,ʔaħmar,ʔɑħmɑr,2,0.333
+Levantine Arabic,ROAD,tˤariːʔ,tɑriːʔ,2,0.286
+Levantine Arabic,ROOT,ʃərəʃ,ʃɛrʃ,2,0.4
+Levantine Arabic,ROUND,mdawwar,mdɔwwɛr,2,0.286
+Levantine Arabic,SAND,raməl,rɑml,2,0.4
+Levantine Arabic,SEED,bəzre,bɛzr,2,0.4
+Levantine Arabic,SIT,ʔaʕad,ʔɑʕɑd,2,0.4
+Levantine Arabic,STAR,naʤme,naʒmɛ,2,0.4
+Levantine Arabic,SWIM,sabaħ,sɛbɛħ,2,0.4
+Levantine Arabic,THAT,hadaːk,hajdiːk,2,0.333
+Levantine Arabic,THIS,haːda,hajdɑ,2,0.4
+Levantine Arabic,TWO,tneen,tnɛjn,2,0.4
+Levantine Arabic,WATER,mˤajj,mɑjj,2,0.4
+Levantine Arabic,WHITE,ʔabjadˤ,ʔɑbjɑdˤ,2,0.286
+Levantine Arabic,WOMAN,mara,mɑrɑ,2,0.4
+Levantine Arabic,YELLOW,ʔasˤfar,ʔɑsˤfɑr,2,0.286
+Levantine Arabic,BARK,ʔəʃər,ʔɛʃri,3,0.6
+Levantine Arabic,BREAST,sˤədˤər,sˤɛdr,3,0.429
+Levantine Arabic,CLOUD,ɣeeme,ɣɛjmɛ,3,0.6
+Levantine Arabic,COLD,barəd,bɛːrɛd,3,0.6
+Levantine Arabic,EAR,ʔədən,ɛdn,3,0.6
+Levantine Arabic,EGG,beedˤa,bɑjdˤɑ,3,0.5
+Levantine Arabic,FIRE,nˤaːrˤ,nɑːr,3,0.5
+Levantine Arabic,GIVE,ʕatˤa,ʕɑtˤɑː,3,0.6
+Levantine Arabic,LEAF,waraʔa,wɑrʔɑ,3,0.5
+Levantine Arabic,MAN,rəʤʤaːl,rɛʒʒaːl,3,0.429
+Levantine Arabic,MOON,ʔamarˤ,ʔɑmɑr,3,0.5
+Levantine Arabic,NIGHT,leele,lɛjlɛ,3,0.6
+Levantine Arabic,STAND,waʔʔaf,wɑʔɑf,3,0.5
+Levantine Arabic,THOU,ʔənte,ɛntɑ,3,0.6
+Levantine Arabic,WE,nəħna,nɑħnɑː,3,0.6
+Levantine Arabic,COME,ʔəʤa,ɛʒɑ,4,1.0
+Levantine Arabic,STONE,ħaʤara,ħɑʒrɑ,4,0.667
+Levantine Arabic,WARM,ʃoob,sɔxn,4,1.0
+Levantine Arabic,FOOT,rəʤəl,ɛʒr,5,1.0
+Levantine Arabic,NOSE,ʔənf,manxɑr,5,1.25
+Levantine Arabic,PERSON,zalame,ʃaxsˤ,5,0.833
+Levantine Arabic,TREE,ʃaʤara,siʒrɛ,5,0.833
+North Mesopotamian Arabic,ALL,kəll,kill,1,0.25
+North Mesopotamian Arabic,COME,ʤaː,ʤiː,1,0.25
+North Mesopotamian Arabic,DIE,maːt,mɑːt,1,0.25
+North Mesopotamian Arabic,DOG,kalb,kalib,1,0.25
+North Mesopotamian Arabic,KILL,qatal,qʌtal,1,0.2
+North Mesopotamian Arabic,MEAT,laħəm,laħim,1,0.2
+North Mesopotamian Arabic,NEW,ʤədiːd,ʤdiːd,1,0.167
+North Mesopotamian Arabic,NOT,maː,mɒː,1,0.333
+North Mesopotamian Arabic,SAY,qaːl,qɑːl,1,0.25
+North Mesopotamian Arabic,SLEEP,naːm,nɑːm,1,0.2
+North Mesopotamian Arabic,SUN,ʃams,ʃamis,1,0.25
+North Mesopotamian Arabic,TOOTH,snn,sin,1,0.2
+North Mesopotamian Arabic,WATER,maːj,mɑːj,1,0.2
+North Mesopotamian Arabic,WHO,məni,mənu,1,0.25
+North Mesopotamian Arabic,BLACK,əswəd,ʌswad,2,0.4
+North Mesopotamian Arabic,BLOOD,dam,dʌmm,2,0.4
+North Mesopotamian Arabic,EAR,ədən,əðin,2,0.5
+North Mesopotamian Arabic,EAT,akal,ʔʌkal,2,0.5
+North Mesopotamian Arabic,EYE,ʕajn,ʕɛɛn,2,0.5
+North Mesopotamian Arabic,HEAR,səməʕ,simiʕ,2,0.4
+North Mesopotamian Arabic,HEART,faːd,ffɑːd,2,0.4
+North Mesopotamian Arabic,I,ana,anɑː,2,0.667
+North Mesopotamian Arabic,MOUTH,təmm,θimm,2,0.4
+North Mesopotamian Arabic,NAME,əsəm,isim,2,0.5
+North Mesopotamian Arabic,NIGHT,lajl,lɛl,2,0.4
+North Mesopotamian Arabic,ONE,weeħəd,wiːħəd,2,0.333
+North Mesopotamian Arabic,THIS,hadaː,haːðaː,2,0.4
+North Mesopotamian Arabic,THOU,ənta,ʌntɑ,2,0.5
+North Mesopotamian Arabic,BIG,ɡəbiːr,kbiːɣ,3,0.5
+North Mesopotamian Arabic,BONE,ʕadˤəm,ʕʌðˤim,3,0.5
+North Mesopotamian Arabic,DRINK,ʃərəb,ʃiɣib,3,0.6
+North Mesopotamian Arabic,EGG,bajdˤa,bɛðˤa,3,0.5
+North Mesopotamian Arabic,FIRE,naːrˤ,nɑːɣ,3,0.6
+North Mesopotamian Arabic,FISH,samak,sʌmʌki,3,0.6
+North Mesopotamian Arabic,GIVE,ʕatˤa,ʕʌtˤɑː,3,0.6
+North Mesopotamian Arabic,LEAF,waraqa,waɣʌqɑ,3,0.5
+North Mesopotamian Arabic,LONG,tˤwl,tˤʌwiːl,3,0.75
+North Mesopotamian Arabic,MANY,kətiːr,ksiːɣ,3,0.5
+North Mesopotamian Arabic,RED,aħmar,ʌħmɑɣ,3,0.6
+North Mesopotamian Arabic,ROAD,tˤareeq,tˤriːq,3,0.429
+North Mesopotamian Arabic,ROOT,ʕərooq,ʕiriq,3,0.5
+North Mesopotamian Arabic,STONE,ħaʤar,ħʌʤɑɣ,3,0.6
+North Mesopotamian Arabic,SWIM,zəbəħ,sibiħ,3,0.6
+North Mesopotamian Arabic,THAT,hadaːk,hʌðɛːk,3,0.5
+North Mesopotamian Arabic,WE,nəħna,niħnɑː,3,0.6
+North Mesopotamian Arabic,WHAT,aʃ,ʌʃuː,3,0.75
+North Mesopotamian Arabic,YELLOW,asˤfar,ʌsˤfɑɣ,3,0.5
+North Mesopotamian Arabic,ASH,rˤamaːd,ɣɑmɑːd,4,0.571
+North Mesopotamian Arabic,FOOT,əʤər,ɣiʤil,4,1.0
+North Mesopotamian Arabic,GREEN,axdˤar,ʌxðˤɑɣ,4,0.667
+North Mesopotamian Arabic,HEAD,rˤaːs,ɣɑːsˤ,4,0.8
+North Mesopotamian Arabic,MAN,raʤəl,ɣiʤiːl,4,0.8
+North Mesopotamian Arabic,ROUND,mədawwərˤ,mdawwiɣ,4,0.444
+North Mesopotamian Arabic,SIT,qəʕəd,bəʧɛx,4,0.8
+North Mesopotamian Arabic,TONGUE,seen,əlsuːn,4,0.667
+North Mesopotamian Arabic,TWO,tənajn,θniːn,4,0.667
+North Mesopotamian Arabic,WHITE,ʔabjadˤ,ʌbjɑðˤ,4,0.571
+North Mesopotamian Arabic,WOMAN,marˤa,mɑɣɑ,4,0.8
+North Mesopotamian Arabic,BELLY,ʤoof,kiriʃ,5,1.0
+North Mesopotamian Arabic,FULL,əmmala,kaːməl,5,0.833
+North Mesopotamian Arabic,NOSE,ənf,xʌʃim,5,1.25
+North Mesopotamian Arabic,PERSON,nafarˤ,ʔaːdmi,5,0.833
+North Mesopotamian Arabic,SEE,arˤa,ɣiʃiʕ,5,1.25
+North Mesopotamian Arabic,STAND,qaːm,wiqif,5,1.0
+North Mesopotamian Arabic,BARK,səviːye,qiʃiɣ,6,0.857
+North Mesopotamian Arabic,COLD,beerəd,sˤqiːʕ,6,1.0
+North Mesopotamian Arabic,DRY,jeebəs,niːʃif,6,1.0
+North Mesopotamian Arabic,SEED,bazərħabb,baziɣ,6,0.667
+North Mesopotamian Arabic,TREE,ʃəʤarˤa,siʤʌɣɑ,6,0.857
+North Mesopotamian Arabic,BIRD,kuːʧkaːye,tˤɑjɣ,9,1.0
+North Mesopotamian Arabic,SMALL,ɣəziːrzəɣajjər,əsˤɣɑjjəɣ,9,0.643
+Gulf Arabic,BLACK,ʔaswad,aswad,1,0.167
+Gulf Arabic,FEATHER,riiʃa,riːʃa,1,0.143
+Gulf Arabic,FOOT,riil,riːl,1,0.25
+Gulf Arabic,FULL,matruus,matruːs,1,0.143
+Gulf Arabic,HEAR,simaʕ,sɛmaʕ,1,0.2
+Gulf Arabic,HEART,ɡalb,ɡalˤb,1,0.2
+Gulf Arabic,KILL,ɡital,ɡɛtal,1,0.2
+Gulf Arabic,KNEE,rikba,riʧba,1,0.2
+Gulf Arabic,LEAF,wriɡa,wruɡa,1,0.2
+Gulf Arabic,LIVER,ʧibd,ʧabd,1,0.2
+Gulf Arabic,NOSE,xaʃim,xaʃɛm,1,0.2
+Gulf Arabic,SAY,ɡaal,ɡaːl,1,0.25
+Gulf Arabic,SIT,ɡaʕad,ɡɛʕad,1,0.2
+Gulf Arabic,TOOTH,sinn,sɛnn,1,0.2
+Gulf Arabic,WHO,min,mɛn,1,0.333
+Gulf Arabic,ALL,kil,kɛll,2,0.667
+Gulf Arabic,BELLY,batˤn,bɑtˤɛn,2,0.4
+Gulf Arabic,BIG,ʕood,ʕɔːd,2,0.5
+Gulf Arabic,BIRD,tˤeer,tˤɛːr,2,0.4
+Gulf Arabic,BONE,ʕaðˤm,ʕɑðˤmˤ,2,0.4
+Gulf Arabic,CLOUD,siħaab,saħaːb,2,0.333
+Gulf Arabic,COME,ʤa,jɑ,2,0.5
+Gulf Arabic,DIE,maat,mɑːt,2,0.5
+Gulf Arabic,DRINK,ʃarab,ʃɛrɛb,2,0.4
+Gulf Arabic,EAT,ʔakal,kal,2,0.4
+Gulf Arabic,EYE,ʕeen,ʕɛːn,2,0.5
+Gulf Arabic,GIVE,ʕatˤa,ʕɛtˤɑ,2,0.4
+Gulf Arabic,HAND,yad,iːd,2,0.5
+Gulf Arabic,I,ana,ɑːna,2,0.667
+Gulf Arabic,LONG,tˤawiil,tˤɑwiːl,2,0.286
+Gulf Arabic,MOON,ɡamar,ɡumɑr,2,0.4
+Gulf Arabic,MOUNTAIN,ʤibal,jɛbal,2,0.25
+Gulf Arabic,NAME,isim,asɛm,2,0.5
+Gulf Arabic,NEW,ʤadiid,jadiːd,2,0.333
+Gulf Arabic,NIGHT,leel,lɛːl,2,0.4
+Gulf Arabic,PERSON,nafar,nafs,2,0.333
+Gulf Arabic,ROAD,tˤariiɡ,tˤɑriːɡ,2,0.286
+Gulf Arabic,ROUND,mudawwar,mdawwɑr,2,0.25
+Gulf Arabic,SLEEP,naam,nɑːm,2,0.4
+Gulf Arabic,SMALL,sˤaɣiir,sˤɑɣiːr,2,0.286
+Gulf Arabic,STAR,naʤma,niːma,2,0.4
+Gulf Arabic,TAIL,ðeel,ðɛːl,2,0.5
+Gulf Arabic,THIS,haaða,hɑːða,2,0.4
+Gulf Arabic,THOU,inta,ɛntɑ,2,0.5
+Gulf Arabic,WALK,miʃa,mɛʃɑ,2,0.5
+Gulf Arabic,WHAT,ʃinhu,ʃɛnu,2,0.4
+Gulf Arabic,ASH,ramaad,rmɑːd,3,0.5
+Gulf Arabic,BITE,ʕadˤdˤ,ʕɑðˤðˤ,3,0.5
+Gulf Arabic,EAR,iðin,ʔɛðɛn,3,0.75
+Gulf Arabic,EGG,beedˤa,bɛːðˤa,3,0.5
+Gulf Arabic,FIRE,dˤaw,ðˤɑwˤ,3,0.75
+Gulf Arabic,FISH,simaʧ,smiʧɑ,3,0.6
+Gulf Arabic,HEAD,raas,rˤɑːs,3,0.75
+Gulf Arabic,ONE,waaħid,wɑːħɛd,3,0.5
+Gulf Arabic,ROOT,jiðir,ʤaðɛr,3,0.6
+Gulf Arabic,SAND,ramil,rˤɑmɛl,3,0.6
+Gulf Arabic,SEE,ʃaaf,ʧɑːf,3,0.75
+Gulf Arabic,SEED,baðra,bazir,3,0.6
+Gulf Arabic,STONE,ħaʤar,ħijɑr,3,0.6
+Gulf Arabic,TONGUE,lisaan,lɛsɑːn,3,0.5
+Gulf Arabic,TWO,iθneen,θnɛːn,3,0.5
+Gulf Arabic,WATER,maay,mɑːj,3,0.6
+Gulf Arabic,WOMAN,mara,ħurma,3,0.6
+Gulf Arabic,YELLOW,ʔasˤfar,ɑsˤfɑr,3,0.429
+Gulf Arabic,COLD,baarid,bɑːrˤɛd,4,0.667
+Gulf Arabic,MAN,rayyaal,rajjɑːl,4,0.571
+Gulf Arabic,MANY,waaʤid,wɑːjɛd,4,0.667
+Gulf Arabic,THAT,ðaak,haðɑːk,4,1.0
+Gulf Arabic,WARM,ħaami,dɑːfi,4,0.8
+Gulf Arabic,WE,iħna,nɛħɛn,4,1.0
+Gulf Arabic,WHITE,ʔabjadˤ,ɑbjɑðˤ,4,0.571
+Gulf Arabic,BARK,ɡiʃra,jɛdɛʕ,5,1.0
+Gulf Arabic,DRY,jaabis,ħaːff,5,0.833
+Gulf Arabic,RED,ʔaħmar,ħɑmɑrˤ,5,0.833
+Gulf Arabic,SWIM,sibaħ,ʕaːm,5,1.0
+Gulf Arabic,TREE,ʃiʤara,ʃjɑrˤɑ,5,0.833
+Gulf Arabic,BREAST,deedsˤadr,sˤɑdɛr,6,0.667
+Gulf Arabic,GREEN,ʔaxdˤar,xɑðˤɑrˤ,6,0.857
+Chadian Arabic,BREAST,deːd,dɛːd,1,0.167
+Chadian Arabic,COME,ʤa,ʤaː,1,0.25
+Chadian Arabic,EAT,akal,akɛl,1,0.25
+Chadian Arabic,FEATHER,suːfa,suːf,1,0.143
+Chadian Arabic,FOOT,riʤil,riʤl,1,0.2
+Chadian Arabic,HAND,iːd,id,1,0.25
+Chadian Arabic,HEAD,raːs,ras,1,0.25
+Chadian Arabic,KNEE,rukuba,rukba,1,0.167
+Chadian Arabic,LEAF,waraɡa,warɡa,1,0.167
+Chadian Arabic,MAN,raʤil,raːʤil,1,0.2
+Chadian Arabic,NECK,raɡaba,rɛɡaba,1,0.167
+Chadian Arabic,NEW,ʤadiːd,ʤɛdiːd,1,0.167
+Chadian Arabic,SIT,ɡa’ad,ɡaʔad,1,0.2
+Chadian Arabic,SLEEP,noːm,naːm,1,0.2
+Chadian Arabic,SUN,ʃam,ʃams,1,0.333
+Chadian Arabic,TOOTH,sinn,sɛnn,1,0.2
+Chadian Arabic,TWO,tineːn,tinɛːn,1,0.167
+Chadian Arabic,WATER,alme,almɛ,1,0.2
+Chadian Arabic,WE,aniːna,ʔaniːna,1,0.167
+Chadian Arabic,WHAT,ʃinu,ʃunu,1,0.25
+Chadian Arabic,DOG,kalb,kɛlib,2,0.5
+Chadian Arabic,DRINK,ʃarab,ʃɛrɛb,2,0.4
+Chadian Arabic,EYE,eːn,ʔɛːn,2,0.667
+Chadian Arabic,GREEN,axadˤar,ʔaxadar,2,0.286
+Chadian Arabic,HAIR,ʃiʔir,ʃaʔur,2,0.4
+Chadian Arabic,HEAR,simi,sɛmiː,2,0.5
+Chadian Arabic,HEART,ɡalib,ɡɛlb,2,0.4
+Chadian Arabic,LIVER,kibde,kɛbd,2,0.4
+Chadian Arabic,NOSE,munxur,muxɛr,2,0.333
+Chadian Arabic,NOT,mi,maː,2,0.667
+Chadian Arabic,PERSON,naːdi,naːdum,2,0.333
+Chadian Arabic,RED,eːmar,ahmar,2,0.4
+Chadian Arabic,ROOT,irɡ,ʔiriɡ,2,0.5
+Chadian Arabic,SEED,teːrab,tɛːraːb,2,0.333
+Chadian Arabic,STAR,naʤima,nɛʤma,2,0.333
+Chadian Arabic,YELLOW,asˤfar,ʔasfar,2,0.333
+Chadian Arabic,BONE,adˤum,ʔadɛm,3,0.6
+Chadian Arabic,EAR,dˤan,udɛn,3,0.75
+Chadian Arabic,EGG,beːdˤe,bɛːda,3,0.5
+Chadian Arabic,FULL,malʔan,mɛlaːn,3,0.5
+Chadian Arabic,LONG,tˤawil,tɑwiːl,3,0.5
+Chadian Arabic,NAME,isim,ʔusm,3,0.75
+Chadian Arabic,NIGHT,leːle,llɛːl,3,0.6
+Chadian Arabic,THAT,ɖˤaːka,daːk,3,0.5
+Chadian Arabic,WARM,saːxin,haːmi,3,0.5
+Chadian Arabic,BARK,liːhe,ɡirf,4,0.8
+Chadian Arabic,BITE,adˤdˤa,ʔadd,4,0.667
+Chadian Arabic,MEAT,laːma,lɛham,4,0.8
+Chadian Arabic,SAND,keesa,ramla,4,0.8
+Chadian Arabic,WHITE,abjadˤ,ʔabjɛt,4,0.667
+Chadian Arabic,WHO,minejaːtu,jaːtu,4,0.444
+Chadian Arabic,ALL,tʃat,kulla,5,1.25
+Chadian Arabic,BELLY,kirʃ,bɛtɛn,5,1.0
+Chadian Arabic,BLACK,axadˤar,ʔazraɡ,5,0.714
+Chadian Arabic,COLD,bardaːn,baːrid,5,0.714
+Chadian Arabic,GIVE,tˤaʔan,ʔanta,5,0.833
+Chadian Arabic,ROUND,daːjir,mudawwar,5,0.833
+Chadian Arabic,STONE,hiʤer,haʤaraːj,5,1.0
+Chadian Arabic,TREE,ʃadara,ʃɑdɑrɑːj,5,0.833
+Chadian Arabic,BIRD,tˤeːra,tɑjrɑːj,6,1.0
+Chadian Arabic,MOUTH,ɡadduːma,xaʃɛm,6,0.75
+Chadian Arabic,SMALL,daɡiːɡ,saxajjar,7,1.167
+Chadian Arabic,STAND,anʔadal,wiɡif,7,1.0
+Chadian Arabic,CLOUD,dˤawije,sahaːbaːj,8,1.143
+Chadian Arabic,FISH,samakaħuːtˤa,huːt,9,0.75
+Chadian Arabic,SWIM,aːm,ʔarrad fi lalmɛ,13,3.25
+Modern Standard Arabic,ASH,ramaːd,rɑmaːd,1,0.167
+Modern Standard Arabic,BIRD,tˤaːʔir,tˤɑːʔir,1,0.143
+Modern Standard Arabic,BLOOD,dam,damm,1,0.2
+Modern Standard Arabic,BONE,ʕaðˤm,ʕɑðˤm,1,0.2
+Modern Standard Arabic,BREAST,sˤadr,sˤidr,1,0.167
+Modern Standard Arabic,CLOUD,ɣamaːmat,ɣamaːma,1,0.125
+Modern Standard Arabic,EAR,ʔuðn,ʔuðun,1,0.25
+Modern Standard Arabic,EYE,ʕain,ʕajn,1,0.25
+Modern Standard Arabic,FEATHER,riːʃat,riːʃa,1,0.143
+Modern Standard Arabic,FISH,samak,samaka,1,0.2
+Modern Standard Arabic,FULL,malʔaːn,malaːn,1,0.143
+Modern Standard Arabic,GIVE,ʔaʕtˤaː,ʔaʕtˤɑː,1,0.143
+Modern Standard Arabic,GREEN,ʔaxdˤar,ʔaxdˤɑr,1,0.143
+Modern Standard Arabic,HAND,jad,jadd,1,0.25
+Modern Standard Arabic,HEAD,raʔs,rɑʔs,1,0.25
+Modern Standard Arabic,HEART,qalb,qɑlb,1,0.2
+Modern Standard Arabic,KILL,qatala,qɑtala,1,0.167
+Modern Standard Arabic,KNEE,rukbat,rukba,1,0.167
+Modern Standard Arabic,LIVER,kabid,kabad,1,0.2
+Modern Standard Arabic,LONG,tˤawiːl,tˤɑwiːl,1,0.143
+Modern Standard Arabic,LOUSE,qamlah,qamla,1,0.167
+Modern Standard Arabic,MAN,raʤul,rɑʤul,1,0.2
+Modern Standard Arabic,MOUTH,fam,famm,1,0.2
+Modern Standard Arabic,NAME,ism,ʔism,1,0.25
+Modern Standard Arabic,NECK,ʕunq,ʕanq,1,0.25
+Modern Standard Arabic,NOSE,ʔunf,ʔanf,1,0.25
+Modern Standard Arabic,RED,ʔaħmar,ʔaħmɑr,1,0.167
+Modern Standard Arabic,ROAD,tˤariːq,tˤɑriːq,1,0.143
+Modern Standard Arabic,SAY,qaːla,qɑːla,1,0.2
+Modern Standard Arabic,SEE,raʔaː,rɑʔaː,1,0.2
+Modern Standard Arabic,SMALL,sˤaɣiːr,sˤɑɣiːr,1,0.143
+Modern Standard Arabic,STAND,qaːma,qɑːma,1,0.2
+Modern Standard Arabic,STAR,naʤma,naʤm,1,0.2
+Modern Standard Arabic,THAT,ðalika,ðaːlika,1,0.167
+Modern Standard Arabic,TOOTH,sinn,sinna,1,0.2
+Modern Standard Arabic,WHITE,ʔabjadˤ,ʔabjɑdˤ,1,0.143
+Modern Standard Arabic,BELLY,batˤn,bɑtˤɑn,2,0.4
+Modern Standard Arabic,BITE,ʕadˤdˤa,ʕɑdˤdˤɑ,2,0.286
+Modern Standard Arabic,LEAF,waraqat,waraqɑ,2,0.286
+Modern Standard Arabic,MOON,qamar,qɑmɑr,2,0.4
+Modern Standard Arabic,NIGHT,lailah,lajla,2,0.333
+Modern Standard Arabic,TREE,ʃaʤarah,ʃaʤarɑ,2,0.286
+Modern Standard Arabic,TWO,iθnaːni,ʔiθnaːn,2,0.286
+Modern Standard Arabic,WOMAN,imraʔah,imrɑʔa,2,0.286
+Modern Standard Arabic,BARK,qirfat,qilf,3,0.5
+Modern Standard Arabic,EGG,baidˤat,bajdˤɑ,3,0.429
+Modern Standard Arabic,NOT,laː,lajsa,3,1.0
+Modern Standard Arabic,ONE,ʔaħad,waːħid,3,0.6
+Modern Standard Arabic,STONE,ħaʤarah,ħaʤɑrɑ,3,0.429
+Modern Standard Arabic,WARM,ħaːmm,daːfiʔ,4,0.8
+Modern Standard Arabic,ROUND,mudawwar,mustadiːr,5,0.625
+Iraqi Arabic,DIE,maːt,mɑːt,1,0.25
+Iraqi Arabic,DOG,ʧalib,ʧalɛb,1,0.2
+Iraqi Arabic,DRINK,ʃirab,ʃɛrab,1,0.2
+Iraqi Arabic,FIRE,naːr,nˤaːr,1,0.25
+Iraqi Arabic,HAND,ʔiːd,iːd,1,0.25
+Iraqi Arabic,HEAD,raːs,rɑːs,1,0.25
+Iraqi Arabic,KILL,kital,kɛtal,1,0.2
+Iraqi Arabic,KNEE,rukba,rukbɑ,1,0.2
+Iraqi Arabic,MANY,hwaːja,hwɑːja,1,0.167
+Iraqi Arabic,MEAT,laħam,laʜam,1,0.2
+Iraqi Arabic,MOON,ɡumar,ɡumɑr,1,0.2
+Iraqi Arabic,MOUNTAIN,ʤibal,ʤɛbal,1,0.125
+Iraqi Arabic,NECK,ruɡba,ruɡbɑ,1,0.2
+Iraqi Arabic,NEW,ʤidiːd,ʤɛdiːd,1,0.167
+Iraqi Arabic,NOSE,xaʃim,xaʃɛm,1,0.2
+Iraqi Arabic,SAND,ramulˤ,rɑmulˤ,1,0.167
+Iraqi Arabic,SAY,ɡaːl,ɡɑːl,1,0.25
+Iraqi Arabic,SEE,ʃaːf,ʃɑːf,1,0.25
+Iraqi Arabic,SLEEP,naːm,nɑːm,1,0.2
+Iraqi Arabic,SUN,ʃamis,ʃamɛs,1,0.2
+Iraqi Arabic,TOOTH,sinn,sɛnn,1,0.2
+Iraqi Arabic,TREE,ʃaʤara,ʃaʤarɑ,1,0.167
+Iraqi Arabic,WALK,miʃa,mɛʃa,1,0.25
+Iraqi Arabic,WARM,daːfi,dɑːfi,1,0.2
+Iraqi Arabic,WHAT,ʃ,ʃə,1,0.25
+Iraqi Arabic,BITE,ʕaðˤðˤ,ʢɑðˤðˤ,2,0.333
+Iraqi Arabic,CLOUD,ɣeema,ɣɪe̯ma,2,0.4
+Iraqi Arabic,COME,ʤaː,ʔʤɑː,2,0.5
+Iraqi Arabic,DRY,naːʃif,nɑːʃɛf,2,0.333
+Iraqi Arabic,EAR,ʔiðin,ʔɛðɛn,2,0.4
+Iraqi Arabic,FOOT,riʤil,rɛʤɛl,2,0.4
+Iraqi Arabic,GIVE,nitˤa,nɛtˤɑ,2,0.4
+Iraqi Arabic,GREEN,ʔaxðˤar,ʔɑxðˤɑr,2,0.286
+Iraqi Arabic,HEAR,simaʕ,sɛmaʢ,2,0.4
+Iraqi Arabic,I,ʔaːni,ʔɑːniː,2,0.4
+Iraqi Arabic,LIVER,kabda,kabɛd,2,0.4
+Iraqi Arabic,MAN,riʤʤaːl,rɛʤʤɑːl,2,0.286
+Iraqi Arabic,SIT,ɡiʕad,ɡɛʢad,2,0.4
+Iraqi Arabic,SWIM,sibaħ,sɛbaʜ,2,0.4
+Iraqi Arabic,TAIL,ðeel,ðɪe̯l,2,0.5
+Iraqi Arabic,THAT,ðaːk,ðɑːkɑ,2,0.5
+Iraqi Arabic,THIS,haːða,hɑːðɑ,2,0.4
+Iraqi Arabic,TWO,θneen,θnɪe̯n,2,0.4
+Iraqi Arabic,WATER,maːj,mˤɑːj,2,0.4
+Iraqi Arabic,WHITE,ʔabjaðˤ,ʔɑbjɑðˤ,2,0.286
+Iraqi Arabic,WHO,minu,manuː,2,0.5
+Iraqi Arabic,WOMAN,mara,mɑrɑ,2,0.4
+Iraqi Arabic,YELLOW,ʔasˤfar,ʔɑsˤfɑr,2,0.286
+Iraqi Arabic,ASH,rumaːd,rmˤɑːd,3,0.5
+Iraqi Arabic,BARK,ɡiʃra,ɡɛʃɛr,3,0.6
+Iraqi Arabic,BELLY,batˤin,bɑtˤɛnˤ,3,0.5
+Iraqi Arabic,BIRD,tˤeer,tˤɛːrˤ,3,0.6
+Iraqi Arabic,EGG,beeðˤa,bɪe̯ðˤɑ,3,0.5
+Iraqi Arabic,EYE,ʕeen,ʢɛːn,3,0.75
+Iraqi Arabic,HAIR,ʃaʕra,ʃaʢar,3,0.6
+Iraqi Arabic,HEART,qalb,dɛl,3,0.6
+Iraqi Arabic,MOUTH,ħaliq,ʜalɛɡ,3,0.6
+Iraqi Arabic,NAME,ʔisim,ɛsm,3,0.6
+Iraqi Arabic,NIGHT,leela,lɪe̯l,3,0.6
+Iraqi Arabic,RED,ʔaħmar,ʔɑʜmɑr,3,0.5
+Iraqi Arabic,ROOT,ʕiriɡ,ʢɛrɛɡ,3,0.6
+Iraqi Arabic,STONE,ħʤaːra,ʜʤɑːrˤa,3,0.5
+Iraqi Arabic,THOU,ʔinta,ɛntɛ,3,0.6
+Iraqi Arabic,TONGUE,lisaːn,əlsɑːn,3,0.5
+Iraqi Arabic,BONE,ʕaðˤma,ʢɑðˤumˤ,4,0.667
+Iraqi Arabic,FULL,maljaːn,matruːs,4,0.571
+Iraqi Arabic,LONG,tˤuwiːl,tˤɑwɪe̯l,4,0.571
+Iraqi Arabic,ONE,waːħid,wɑʜɛd,4,0.667
+Iraqi Arabic,WE,ʔiħna,ɛʜnɛ,4,0.8
+Iraqi Arabic,BIG,ʧbiːr,ʧɛbɪe̯rˤ,5,1.0
+Iraqi Arabic,BREAST,nahid,dɛːs,5,0.833
+Iraqi Arabic,EAT,ʔakal,iːaːkuːl,5,1.0
+Iraqi Arabic,PERSON,ʃaxisˤ,baʃɑr,5,0.833
+Iraqi Arabic,ROAD,tˤariːq,darɛb,5,0.714
+Iraqi Arabic,SMALL,sˤɣajjir,zɣɑjjɛrˤ,5,0.625
+Iraqi Arabic,COLD,bardaːn,bɑːrˤɛd,6,0.857
+Cypriot Arabic,DIE,mwt,mat,1,0.333
+Cypriot Arabic,HEAD,mxx,mɔx,1,0.25
+Cypriot Arabic,I,ʔna,ana,1,0.333
+Cypriot Arabic,MANY,xtir,xtiːr,1,0.25
+Cypriot Arabic,MOUNTAIN,ʒipel,ʒipɛl,1,0.125
+Cypriot Arabic,NAME,ʔsm,ism,1,0.25
+Cypriot Arabic,NOT,lʔ,la,1,0.333
+Cypriot Arabic,SLEEP,nwm,nam,1,0.2
+Cypriot Arabic,THOU,ʔnt,int,1,0.25
+Cypriot Arabic,WALK,miʃi,miʃɛ,1,0.25
+Cypriot Arabic,WHO,mn,mɛn,1,0.333
+Cypriot Arabic,COLD,peret,pɛrɛt,2,0.4
+Cypriot Arabic,DOG,klb,kilp,2,0.667
+Cypriot Arabic,EAT,ʔkl,kɛl,2,0.667
+Cypriot Arabic,HAND,ityd,it,2,0.5
+Cypriot Arabic,HEAR,smʕ,simʕe,2,0.5
+Cypriot Arabic,HEART,kilep,kɑlp,2,0.4
+Cypriot Arabic,MEAT,lħm,laxm,2,0.5
+Cypriot Arabic,NIGHT,lyl,lajl,2,0.4
+Cypriot Arabic,ONE,exen,ɛxɛn,2,0.5
+Cypriot Arabic,SAY,qwl,kal,2,0.667
+Cypriot Arabic,TONGUE,lsn,san,2,0.333
+Cypriot Arabic,WARM,saxan,sxun,2,0.4
+Cypriot Arabic,WATER,mwh,mɔɛ,2,0.4
+Cypriot Arabic,BIG,kbr,kpiːr,3,1.0
+Cypriot Arabic,BLOOD,dmy,timm,3,0.6
+Cypriot Arabic,COME,ʤyy,ʒa,3,0.75
+Cypriot Arabic,DRINK,ʃrb,ʃirɛp,3,0.6
+Cypriot Arabic,EAR,iðnʔðn,iðn,3,0.5
+Cypriot Arabic,FULL,mplanml',mplan,3,0.375
+Cypriot Arabic,GIVE,ʕtˤy,tɑ,3,0.75
+Cypriot Arabic,GREEN,xdˤr,xɔðɛr,3,0.6
+Cypriot Arabic,HAIR,ʃaxveʃʕf,ʃaxve,3,0.375
+Cypriot Arabic,LONG,tˤwl,tviːl,3,0.75
+Cypriot Arabic,MOON,qmr,kamar,3,0.75
+Cypriot Arabic,MOUTH,xankħnk,xank,3,0.429
+Cypriot Arabic,NECK,rqb,raɣbe,3,0.75
+Cypriot Arabic,SEE,qʃʕ,kiʃʕe,3,1.0
+Cypriot Arabic,SIT,qʕd,kaʕa,3,1.0
+Cypriot Arabic,STAND,wqf,ɛkɛf,3,0.6
+Cypriot Arabic,STAR,nʤm,naʒme,3,0.75
+Cypriot Arabic,THIS,hʔ,aða,3,0.75
+Cypriot Arabic,WE,nħn,naxni,3,1.0
+Cypriot Arabic,WHAT,ʔyy,aʃ,3,0.75
+Cypriot Arabic,YELLOW,sˤfr,asfar,3,0.5
+Cypriot Arabic,ASH,ramatrmd,rmat,4,0.5
+Cypriot Arabic,EGG,bydˤ,pɛð,4,1.0
+Cypriot Arabic,FIRE,wqd,ɔkit,4,1.0
+Cypriot Arabic,KILL,qtl,maɛt,4,1.0
+Cypriot Arabic,LIVER,qsˤb,kaspe,4,0.8
+Cypriot Arabic,LOUSE,qml,kamplɛ,4,0.8
+Cypriot Arabic,NEW,ʒtitʤdd,ʒtiːt,4,0.571
+Cypriot Arabic,NOSE,maxurnxr,mɑxur,4,0.5
+Cypriot Arabic,PERSON,insanʔns,intsan,4,0.5
+Cypriot Arabic,SEED,ptarbzr,pizr,4,0.571
+Cypriot Arabic,STONE,ħʤr,xaʒra,4,0.8
+Cypriot Arabic,THAT,ʔxð,aðak,4,1.0
+Cypriot Arabic,TOOTH,snansnn,sinn,4,0.571
+Cypriot Arabic,TWO,xnaynθny,xnajn,4,0.5
+Cypriot Arabic,BELLY,patnbtˤn,pɑtn,5,0.625
+Cypriot Arabic,BLACK,isfetswd,isvɛt,5,0.625
+Cypriot Arabic,CLOUD,ɣyr,ʕajara,5,1.0
+Cypriot Arabic,EYE,ʕaynʕyn,ʕɑjn,5,0.714
+Cypriot Arabic,RED,axmarħmr,ɑxmɑr,5,0.625
+Cypriot Arabic,ROAD,trupdrb,tɑrp,5,0.714
+Cypriot Arabic,SMALL,sˤɣr,zɛʕiːr,5,1.0
+Cypriot Arabic,WHITE,apkyaðbydˤ,apkjað,5,0.5
+Cypriot Arabic,WOMAN,maramrʔ,mɑrɑ,5,0.714
+Cypriot Arabic,BITE,ʕaððʕdˤdˤ,ʕɑðð,6,0.667
+Cypriot Arabic,SWIM,ɣsl,tʌʕassɛl,6,1.5
+Cypriot Arabic,TAIL,ðnb,tumpjɛ,6,1.5
+Cypriot Arabic,BREAST,pzaz9pl)bzz,pizz,8,0.727
+Cypriot Arabic,DRY,neʃefʤfy,jɛpɛs,8,1.0
+Sanaani Arabic,BELLY,batˤn,bɑtˤn,1,0.2
+Sanaani Arabic,BIG,kabiir,kabiːr,1,0.167
+Sanaani Arabic,BREAST,sˤadr,sˤɑdr,1,0.167
+Sanaani Arabic,COLD,baarid,baːrid,1,0.167
+Sanaani Arabic,DRY,jaabis,jaːbis,1,0.167
+Sanaani Arabic,EAR,ʔiðn,ʔɛðn,1,0.25
+Sanaani Arabic,EGG,bajðˤah,bajðˤɑh,1,0.143
+Sanaani Arabic,FEATHER,riːʃeh,riːʃah,1,0.143
+Sanaani Arabic,FIRE,naar,naːr,1,0.25
+Sanaani Arabic,GIVE,ʔadda,ʔidda,1,0.2
+Sanaani Arabic,HAIR,ʃaʕra,ʃaʕr,1,0.2
+Sanaani Arabic,HAND,yad,jad,1,0.25
+Sanaani Arabic,HEAD,raʔs,rɑʔs,1,0.25
+Sanaani Arabic,HEART,ɡalb,ɢalb,1,0.2
+Sanaani Arabic,I,ʔana,ʔanɛ,1,0.25
+Sanaani Arabic,KILL,ɡatal,ɢatal,1,0.2
+Sanaani Arabic,LEAF,waraɡih,waraɢih,1,0.143
+Sanaani Arabic,LONG,tˤawiːl,tˤɑwiːl,1,0.143
+Sanaani Arabic,NOT,maː,maːʃ,1,0.333
+Sanaani Arabic,RED,ʔaħmar,ʔaħmɑr,1,0.167
+Sanaani Arabic,SAY,ɡaːl,ɢaːl,1,0.25
+Sanaani Arabic,SLEEP,raɡad,raɢad,1,0.2
+Sanaani Arabic,THOU,ʔant,ant,1,0.25
+Sanaani Arabic,TONGUE,lisaan,lisaːn,1,0.167
+Sanaani Arabic,WHITE,ʔabjaðˤ,ʔabjɑðˤ,1,0.143
+Sanaani Arabic,YELLOW,ʔasˤfar,ʔasˤfɑr,1,0.143
+Sanaani Arabic,DIE,maat,mɑːt,2,0.5
+Sanaani Arabic,EAT,ʔakal,kal,2,0.4
+Sanaani Arabic,FOOT,riʤl,riɡʲl,2,0.5
+Sanaani Arabic,GREEN,ʔaxðˤar,ʔaχðˤɑr,2,0.286
+Sanaani Arabic,LIVER,kabdih,kabid,2,0.333
+Sanaani Arabic,MOON,ɡamar,ɢamɑr,2,0.4
+Sanaani Arabic,MOUNTAIN,ʤabal,ɡʲabal,2,0.25
+Sanaani Arabic,NECK,ruɡbeh,ruɢbih,2,0.333
+Sanaani Arabic,NEW,ʤadiːd,ɡʲadiːd,2,0.333
+Sanaani Arabic,NIGHT,lajl,lajlih,2,0.4
+Sanaani Arabic,NOSE,nuxreh,nuχrih,2,0.333
+Sanaani Arabic,ROUND,mudawwar,mdawwɑr,2,0.25
+Sanaani Arabic,SEED,habbeh,ħabbih,2,0.333
+Sanaani Arabic,SIT,ʤalas,ɡʲalas,2,0.4
+Sanaani Arabic,STAR,naʤm,naɡʲm,2,0.5
+Sanaani Arabic,THAT,ðajjik,ðˤɑjjik,2,0.333
+Sanaani Arabic,TWO,θintajn,θnajn,2,0.286
+Sanaani Arabic,WALK,xutˤi,χɛtˤi,2,0.4
+Sanaani Arabic,WATER,maaʔ,mɛːʔ,2,0.4
+Sanaani Arabic,WE,ħna,əħnə,2,0.667
+Sanaani Arabic,WOMAN,mareh,mɑrih,2,0.4
+Sanaani Arabic,BARK,ɡiʃr,ɢiʃrih,3,0.75
+Sanaani Arabic,BIRD,tˤajr,tˤɑːjir,3,0.6
+Sanaani Arabic,BITE,luɡusˤ,lɑɢɑsˤ,3,0.5
+Sanaani Arabic,BONE,ʕaðˤma,ʕuðˤmih,3,0.5
+Sanaani Arabic,FISH,ħuut,ħuːtih,3,0.75
+Sanaani Arabic,SEE,ibsˤar,ʔibsɑr,3,0.5
+Sanaani Arabic,SMALL,sˤaɣiːr,zɑɣiːr,3,0.429
+Sanaani Arabic,TOOTH,sinn,sɛnnih,3,0.6
+Sanaani Arabic,WHAT,maːʔajʃ,ʔajʃ,3,0.429
+Sanaani Arabic,COME,ʤaaʔ,ɡʲɛːʔ,4,1.0
+Sanaani Arabic,MAN,raʤʤaːl,raɡʲɡʲaːl,4,0.571
+Sanaani Arabic,ROOT,ʕirɡin,ʕuːdih,4,0.667
+Sanaani Arabic,STONE,ħaʤar,sˤɑχr,4,0.8
+Sanaani Arabic,TAIL,ðeelin,ðajl,4,0.667
+Sanaani Arabic,THIS,ðajjih,ðˤɑjjɑːh,4,0.667
+Sanaani Arabic,TREE,ʃiʤareh,ʃɛɡʲarih,4,0.571
+Sanaani Arabic,LOUSE,ɡamleh,ɢummalih,5,0.833
+Sanaani Arabic,ROAD,tˤariːɡ,darb,5,0.714
+Sanaani Arabic,MANY,kaθiːr,χɑjrɑːt,6,1.0
+Sanaani Arabic,PERSON,ʃaybeh?,ʔaːdami,6,0.857
