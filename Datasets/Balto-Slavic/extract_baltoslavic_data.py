@@ -22,16 +22,16 @@ NEL_langs = set(bs_NEL_data[i]['Language_ID'] for i in bs_NEL_data)
 GLD_langs = set(bs_GLD_data[i]['Language_ID'] for i in bs_GLD_data)
 
 
-#Lithuanian and Latvian are the only languages which overlap; take them from NEL
+#Lithuanian and Latvian are the only languages which overlap; take them from GLD
 combined_BaltoSlav_data = {}
 index = 0
 for i in bs_NEL_data:
-    index += 1
-    combined_BaltoSlav_data[index] = bs_NEL_data[i]
-for i in bs_GLD_data:
-    if bs_GLD_data[i]['Language_ID'] not in ['Latvian', 'Lithuanian']:
+    if bs_NEL_data[i]['Language_ID'] not in ['Latvian', 'Lithuanian']:
         index += 1
-        combined_BaltoSlav_data[index] = bs_GLD_data[i]
+        combined_BaltoSlav_data[index] = bs_NEL_data[i]
+for i in bs_GLD_data:
+    index += 1
+    combined_BaltoSlav_data[index] = bs_GLD_data[i]
         
 #Get list of languages in resulting combined dictionary
 combined_langs = set(combined_BaltoSlav_data[i]['Language_ID'] for i in combined_BaltoSlav_data)
