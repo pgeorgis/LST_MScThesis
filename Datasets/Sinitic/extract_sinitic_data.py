@@ -67,7 +67,7 @@ def fix_tr(tr):
               'ʅ':'ɻ̩', #Sinological phonetic character, convert to standard IPA equivalent
               'ɿ':'ɹ̩', #Sinological phonetic character, convert to standard IPA equivalent
               'ʯ':'ɻ̩ʷ',#Sinological phonetic character, convert to standard IPA equivalent
-              'ȵ':'n̠ʲ',#Sinological phonetic character, convert to standard IPA equivalent
+              'ȵ':'ɲ',#Sinological phonetic character, convert to standard IPA equivalent; technically [n̠ʲ], but [ɲ] is close enough 
               'ᴀ':'ä', #Sinological character for open central unrounded vowel /ä/
               'ᴇ':'ɛ', #mapped to /ɛ/ in raw/prepare.py
               

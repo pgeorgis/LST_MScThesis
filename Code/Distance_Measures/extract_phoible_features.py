@@ -24,18 +24,45 @@ phoible_segments = {list(phoible_data.segment)[i]:{feature:list(phoible_data[fea
                     for i in range(len(phoible_data))}
 
 tonemes = ['˥','˦','˧','˨','˩','↓']
+segment_equivalents = {#Affricates
+                       'ʦ':'ts', 
+                       'ʣ':'dz',
+                       'ʧ':'tʃ',
+                       'ʤ':'dʒ',
+                       'ʨ':'tɕ',
+                       'ʥ':'dʑ',
+                       
+                       #Clicks
+                       'ǀ':'kǀ',
+                       'ǁ':'kǁ',
+                       'ǂ':'kǂ',
+                       'ǃ':'kǃ',
+                       'ʘ':'kʘ',
+                       
+                       #Other
+                       'ç':'ç', #apparently not the same character
+                       'ɚ':'ə˞' #schwa with rhotacized diacritic
+                       #'ɝ':'ɜ˞' #not in phoible segments
+                       
+                       }
+
 base_segments = set(segment for segment in phoible_segments 
                     if len(segment) == 1
-                    if segment not in tonemes)
+                    if segment not in tonemes+['ç'])
 other_ch = set(ch for segment in phoible_segments.keys() for ch in segment 
                if ch not in base_segments)
-with open('Phones/base_segments.csv', 'w') as f:
+
+
+with open('Phones/segments.csv', 'w') as f:
     f.write(','.join(['segment']+list(phoible_features)))
     f.write('\n')
     for segment in base_segments:
         f.write(','.join([segment]+[phoible_segments[segment][feature] for feature in phoible_features]))
         f.write('\n')
-
+    for segment in segment_equivalents:
+        equivalent = segment_equivalents[segment]
+        f.write(','.join([segment]+[phoible_segments[equivalent][feature] for feature in phoible_features]))
+        f.write('\n')
 
 #%%
 #COMPARE WITH MY FEATURES
@@ -141,7 +168,7 @@ for dia in segs_w_diacritics:
 
 #%%   
 def write_diacritic_features():        
-    with open('Phones/diacritics_features.csv', 'w') as f:
+    with open('Phones/diacritics.csv', 'w') as f:
         f.write(','.join(['Diacritic', 'Feature', 'Value']))
         f.write('\n')
         for diacritic in diacritic_features:
@@ -151,6 +178,13 @@ def write_diacritic_features():
                 f.write(','.join([diacritic, feature, value]))
                 f.write('\n')
  
-
+#%%
+def create_phone(features='''tone	stress	syllabic	short	long	consonantal	sonorant	continuant	delayedRelease	approximant	tap	trill	nasal	lateral	labial	round	labiodental	coronal	anterior	distributed	strident	dorsal	high	low	front	back	tense	retractedTongueRoot	advancedTongueRoot	periodicGlottalSource	epilaryngealSource	spreadGlottis	constrictedGlottis	fortis	raisedLarynxEjective	loweredLarynxImplosive	click'''.split('\t'),
+                 sep='\t'):
+    values = []
+    for feature in features:
+        v = input(f'{feature}:\t')
+        values.append(v)
+    return sep.join(values)
     
     
