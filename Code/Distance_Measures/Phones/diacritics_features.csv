@@ -1,0 +1,71 @@
+Diacritic	Description	Feature	Value	Position
+ ͡	ligature tie			inter
+ ͜	ligature tie			inter
+﻿ʰ	aspirated	spreadGlottis	+	post
+ʱ	aspirated	spreadGlottis	+	post
+̈	centralized	front	-	post
+̈	centralized	high	-	post
+̈	centralized	tense	-	post
+̈	centralized	back	-	post
+̈	centralized	low	-	post
+̰	creaky voiced	constrictedGlottis	+	post
+̰	creaky voiced	spreadGlottis	-	post
+̪	dental	distributed	+	post
+̪	dental	anterior	+	post
+ʼ	ejective	constrictedGlottis	+	post
+ʼ	ejective	raisedLarynxEjective	+	post
+ʼ	ejective	spreadGlottis	-	post
+ ̂	falling tone			post
+͈	fortis	fortis	+	post
+ˀ	glottalized			post
+ˑ	half-long	short	+	post
+ˑ	half-long	long	+	post
+ ́	high tone			post
+ʷ	labialized	round	+	post
+ʷ	labialized	labial	+	post
+ᶣ	labio-palatalized	back	+	post
+ᶣ	labio-palatalized	front	+	post
+ᶣ	labio-palatalized	round	+	post
+ᶣ	labio-palatalized	labial	+	post
+ᶣ	labio-palatalized	low	-	post
+ᶣ	labio-palatalized	high	+	post
+ᶣ	labio-palatalized	dorsal	+	post
+ː	long	long	+	post
+ː	long	short	-	post
+ ̀	low tone			post
+ ̞	lowered			post
+̤	murmured 	spreadGlottis	+	post
+ⁿ	nasal release	nasal	"""-,+"""	post
+̃	nasalized	nasal	+	post
+̯	non-syllabic	syllabic	-	post
+ʲ	palatalized	front	+	post
+ʲ	palatalized	low	-	post
+ʲ	palatalized	high	+	post
+ʲ	palatalized	dorsal	+	post
+ˤ	pharyngealized	retractedTongueRoot	+	post
+ˤ	pharyngealized	advancedTongueRoot	-	post
+ˈ	primary stress			post
+ ̝	raised			post
+̠	retracted	distributed	+	post
+˞	rhotacized	strident	+	post
+˞	rhotacized	coronal	+	post
+˞	rhotacized	distributed	+	post
+˞	rhotacized	anterior	+	post
+ ̌	rising tone			post
+ˌ	secondary stress			post
+̆	short	short	+	post
+̩	syllabic	syllabic	+	post
+ ̚	unreleased			post
+ˠ	velarized	back	+	post
+ˠ	velarized	low	-	post
+ˠ	velarized	front	-	post
+ˠ	velarized	high	+	post
+ˠ	velarized	dorsal	+	post
+ ̬	voiced	periodicGlottalSource	+	post
+̥	voiceless	spreadGlottis	+	post
+̥	voiceless	periodicGlottalSource	-	post
+ ̊	voiceless	periodicGlottalSource	-	post
+ᵐ	prenasalized	nasal	+	pre
+ᶬ	prenasalized	nasal	+	pre
+ⁿ	prenasalized	nasal	+	pre
+ᵑ	prenasalized	nasal	+	pre
