@@ -302,7 +302,7 @@ for family in ['Arabic', 'Balto-Slavic', 'Dravidian',
     families[family].write_vocab_index()
     globals().update(families[family].languages)
 globals().update(families)
-
+os.chdir(local_dir)
 
 #Get lists and counts of languages/families
 all_languages = [families[family].languages[lang] for family in families 
@@ -310,8 +310,3 @@ all_languages = [families[family].languages[lang] for family in families
 all_families = [families[family] for family in families]
 total_languages = len(all_languages)
 total_families = len(all_families)
-
-
-
-
-
