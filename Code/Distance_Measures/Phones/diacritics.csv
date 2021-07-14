@@ -1,7 +1,7 @@
 Diacritic	Description	Feature	Value	Position
  ͡	ligature tie			inter
  ͜	ligature tie			inter
-﻿ʰ	aspirated	spreadGlottis	+	post
+ʰ	aspirated	spreadGlottis	+	post
 ʱ	aspirated	spreadGlottis	+	post
 ̈	centralized	front	-	post
 ̈	centralized	high	-	post
