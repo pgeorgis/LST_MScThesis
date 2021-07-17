@@ -1,5 +1,6 @@
 from collections import defaultdict
 import pandas as pd
+import math
 
 def strip_ch(string, to_remove):
     """Removes a set of characters from strings"""
@@ -44,9 +45,6 @@ def xlsx_to_csv(excel_path, csv_path=None, sheet=None,
     excel_file.to_csv(csv_path, index=index, header=header, sep=sep)
     print(f'Wrote file to {csv_path}.')
     
-    
-    
-
 
 def normalize_dict(dict_, default=False, lmbda=None, return_=True):
     """Normalizes the values of a dictionary"""
@@ -64,3 +62,21 @@ def normalize_dict(dict_, default=False, lmbda=None, return_=True):
             dict_[key] = dict_[key] / total
     if return_ == True:
         return normalized
+    
+#INFORMATION CONTENT
+def surprisal(p):
+    try:   
+        return -math.log(p, 2)
+    except ValueError:
+        print(f'Math Domain Error: cannot take the log of {p}')
+        raise ValueError
+
+def entropy(X):
+    """X should be a dictionary with absolute counts"""
+    total = sum(X.values())
+    E = 0
+    for i in X:
+        p = X[i]/total
+        if p > 0:
+            E += p * surprisal(p)
+    return E
