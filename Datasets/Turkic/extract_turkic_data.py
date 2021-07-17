@@ -102,7 +102,7 @@ conversion_dict = {#Consonants
                    ('s', 'Turkmen'):'θ', #must be mistake, <s> in Turkmen in /θ/
                    ('z', 'Turkmen'):'ð', #must be mistake, <z> in Turkmen is /ð/
                    ('q', 'Turkish'):'k', #mistake, no /q/ in standard Turkish
-                   ('ɣ', 'Turkish'):'ɰ', #represents <ğ>, a debatable phoneme /ɰ/ in Turkish; certainly more accurate to transcribe as /ɰ/ than /ɣ/
+                   ('ɣ', 'Turkish'):'ː', #represents <ğ>, a debatable phoneme in Turkish; realized as lengthening of previous vowel
                    ('ḳ', 'Shor'):'q', #mistake
                    
                    
