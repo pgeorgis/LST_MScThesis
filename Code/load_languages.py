@@ -1,7 +1,8 @@
 import os, re, itertools
 from statistics import mean
 from collections import defaultdict
-from auxiliary_functions import csv_to_dict, strip_ch
+from auxiliary_functions import csv_to_dict, strip_ch, normalize_dict, entropy
+from phonetic_distance import *
 from pathlib import Path
 local_dir = Path(str(os.getcwd()))
 parent_dir = local_dir.parent
@@ -206,6 +207,11 @@ class Language(Dataset):
         
         
         self.phonemes = defaultdict(lambda:0)
+        self.vowels = defaultdict(lambda:0)
+        self.consonants = defaultdict(lambda:0)
+        self.tonemes = defaultdict(lambda:0)
+        
+        
         self.vocabulary = defaultdict(lambda:[])
         self.loanwords = defaultdict(lambda:[])
         
@@ -214,14 +220,16 @@ class Language(Dataset):
         self.create_vocabulary()
         self.check_affricates()
         
+        self.phoneme_entropy = entropy(self.phonemes)
+        
     def create_phoneme_inventory(self):
         for i in self.data:
             entry = self.data[i]
             segments = entry[self.segments_c].split()
             
-            #Remove stress and syllabic diacritics
-            diacritics_to_remove = ['ˈ', 'ˌ', '̩'] #there should be another syllabic diacritic, for above
-            segments = [strip_ch(seg, diacritics_to_remove) for seg in segments]
+            #Remove stress and syllabic diacritics, and spaces
+            diacritics_to_remove = ['ˈ', 'ˌ', '̩', ' '] #there should be another syllabic diacritic, for above
+            segments = [strip_ch(seg, diacritics_to_remove) for seg in segments if len(seg) > 0]
             for segment in segments:
                 self.phonemes[segment] += 1
         
@@ -229,8 +237,19 @@ class Language(Dataset):
         total_tokens = sum(self.phonemes.values())
         for phoneme in self.phonemes:
             self.phonemes[phoneme] = self.phonemes[phoneme] / total_tokens
-            
         
+        #Get dictionaries of vowels and consonants
+        self.vowels = normalize_dict({v:self.phonemes[v] 
+                                      for v in self.phonemes 
+                                      if len(strip_diacritics(v)) > 0 #remove this line once segment word function is updated to include all current diacritics
+                                      if strip_diacritics(v)[0] in vowels}, 
+                                     default=True, lmbda=0)
+        
+        self.consonants = normalize_dict({c:self.phonemes[c] 
+                                         for c in self.phonemes 
+                                         if len(strip_diacritics(c)) > 0 #remove this line once segment word function is updated to include all current diacritics
+                                         if strip_diacritics(c)[0] in consonants}, 
+                                         default=True, lmbda=0)
             
     def create_vocabulary(self):
         for i in self.data:
