@@ -353,28 +353,39 @@ def remove_stress(word):
 
 #%%
 def common_features(segment_list, 
-                    start_features=features,
-                    segment_index=phone_features):
+                    start_features=features):
     """Returns the features/values shared by all segments in the list"""
     features = list(start_features)[:]
     feature_values = defaultdict(lambda:[])
     for seg in segment_list:
         for feature in features:
-            value = segment_index[seg][feature]
+            value = phone_id(seg)[feature]
             if value not in feature_values[feature]:
                 feature_values[feature].append(value)
     common = [(feature, feature_values[feature][0]) for feature in feature_values if len(feature_values[feature]) == 1]
     return common
 
-def different_features(seg1, seg2, 
-                       segment_index=phone_features):
+def different_features(seg1, seg2):
     diffs = []
-    seg1_id = segment_index[seg1]
-    seg2_id = segment_index[seg2]
+    seg1_id = phone_id(seg1)
+    seg2_id = phone_id(seg2)
     for feature in seg1_id:
         if seg2_id[feature] != seg1_id[feature]:
             diffs.append(feature)
     return diffs
+
+def lookup_segments(features, values, 
+                    segment_list=all_sounds):
+    """Returns a list of segments whose feature values match the search criteria"""
+    matches = []
+    for segment in segment_list:
+        match_tallies = 0
+        for feature, value in zip(features, values):
+            if phone_id(segment)[feature] == value:
+                match_tallies += 1
+        if match_tallies == len(features):
+            matches.append(segment)
+    return set(matches)
 
 #%%
 

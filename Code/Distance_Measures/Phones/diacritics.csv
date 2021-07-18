@@ -1,71 +1,73 @@
-Diacritic	Description	Feature	Value	Position
- ͡	ligature tie			inter
- ͜	ligature tie			inter
-ʰ	aspirated	spreadGlottis	+	post
-ʱ	aspirated	spreadGlottis	+	post
-̈	centralized	front	-	post
-̈	centralized	high	-	post
-̈	centralized	tense	-	post
-̈	centralized	back	-	post
-̈	centralized	low	-	post
-̰	creaky voiced	constrictedGlottis	+	post
-̰	creaky voiced	spreadGlottis	-	post
-̪	dental	distributed	+	post
-̪	dental	anterior	+	post
-ʼ	ejective	constrictedGlottis	+	post
-ʼ	ejective	raisedLarynxEjective	+	post
-ʼ	ejective	spreadGlottis	-	post
- ̂	falling tone			post
-͈	fortis	fortis	+	post
-ˀ	glottalized			post
-ˑ	half-long	short	+	post
-ˑ	half-long	long	+	post
- ́	high tone			post
-ʷ	labialized	round	+	post
-ʷ	labialized	labial	+	post
-ᶣ	labio-palatalized	back	+	post
-ᶣ	labio-palatalized	front	+	post
-ᶣ	labio-palatalized	round	+	post
-ᶣ	labio-palatalized	labial	+	post
-ᶣ	labio-palatalized	low	-	post
-ᶣ	labio-palatalized	high	+	post
-ᶣ	labio-palatalized	dorsal	+	post
-ː	long	long	+	post
-ː	long	short	-	post
- ̀	low tone			post
- ̞	lowered			post
-̤	murmured 	spreadGlottis	+	post
-ⁿ	nasal release	nasal	"""-,+"""	post
-̃	nasalized	nasal	+	post
-̯	non-syllabic	syllabic	-	post
-ʲ	palatalized	front	+	post
-ʲ	palatalized	low	-	post
-ʲ	palatalized	high	+	post
-ʲ	palatalized	dorsal	+	post
-ˤ	pharyngealized	retractedTongueRoot	+	post
-ˤ	pharyngealized	advancedTongueRoot	-	post
-ˈ	primary stress			post
- ̝	raised			post
-̠	retracted	distributed	+	post
-˞	rhotacized	strident	+	post
-˞	rhotacized	coronal	+	post
-˞	rhotacized	distributed	+	post
-˞	rhotacized	anterior	+	post
- ̌	rising tone			post
-ˌ	secondary stress			post
-̆	short	short	+	post
-̩	syllabic	syllabic	+	post
- ̚	unreleased			post
-ˠ	velarized	back	+	post
-ˠ	velarized	low	-	post
-ˠ	velarized	front	-	post
-ˠ	velarized	high	+	post
-ˠ	velarized	dorsal	+	post
- ̬	voiced	periodicGlottalSource	+	post
-̥	voiceless	spreadGlottis	+	post
-̥	voiceless	periodicGlottalSource	-	post
- ̊	voiceless	periodicGlottalSource	-	post
-ᵐ	prenasalized	nasal	+	pre
-ᶬ	prenasalized	nasal	+	pre
-ⁿ	prenasalized	nasal	+	pre
-ᵑ	prenasalized	nasal	+	pre
+Diacritic	Description	Type	Feature	Value	Position
+ ͡	ligature tie	connection			inter
+ ͜	ligature tie	connection			inter
+ʼ	ejective	airstream mechanism	constrictedGlottis	+	post
+ʼ	ejective	airstream mechanism	raisedLarynxEjective	+	post
+ʼ	ejective	airstream mechanism	spreadGlottis	-	post
+ ̟	advanced	backness modification			post
+̈	centralized	backness modification			post
+̠	retracted	backness modification			post
+̪	dental	coronal modifications	distributed	+	post
+̪	dental	coronal modifications	anterior	+	post
+ ̞	lowered	height modifications			post
+ ̝	raised	height modifications			post
+ʰ	aspirated	laryngeal	spreadGlottis	+	post
+ʱ	aspirated	laryngeal	spreadGlottis	+	post
+ ̬	voiced	laryngeal	periodicGlottalSource	+	post
+̊	voiceless	laryngeal	periodicGlottalSource	-	post
+ ̊	voiceless	laryngeal	periodicGlottalSource	-	post
+̃	nasalized	nasality	nasal	+	post
+ˡ	lateral release	release	lateral	+	post
+ˡ	lateral release	release	delayedRelease	+	post
+ ̚	unreleased	release			post
+˞	rhotacized	rhoticity	coronal	+	post
+˞	rhotacized	rhoticity	distributed	+	post
+˞	rhotacized	rhoticity	anterior	-	post
+ʷ	labialized	secondary articulation	round	+	post
+ʷ	labialized	secondary articulation	back	+	post
+ʷ	labialized	secondary articulation	high	+	post
+ᶣ	labio-palatalized	secondary articulation	high	+	post
+ᶣ	labio-palatalized	secondary articulation	back	-	post
+ᶣ	labio-palatalized	secondary articulation	round	+	post
+ ̼	linguolabial	secondary articulation	labial	+	post
+ʲ	palatalized	secondary articulation	high	+	post
+ʲ	palatalized	secondary articulation	back	-	post
+ˤ	pharyngealized	secondary articulation	low	+	post
+ˤ	pharyngealized	secondary articulation	back	+	post
+ˠ	velarized	secondary articulation	back	+	post
+ˠ	velarized	secondary articulation	high	+	post
+ˑ	half-long	suprasegmental	short	+	post
+ˑ	half-long	suprasegmental	long	+	post
+ː	long	suprasegmental	long	+	post
+ː	long	suprasegmental	short	-	post
+̆	short	suprasegmental	short	+	post
+̯	non-syllabic	syllabicity	syllabic	-	post
+̩	syllabic	syllabicity	syllabic	+	post
+͈	fortis	tenseness	fortis	+	post
+˥	tone: extra high	tone			post
+˩	tone: extra low	tone			post
+ ̂	tone: falling	tone			post
+ ́	tone: high	tone			post
+˦	tone: high	tone			post
+¹	tone: level 1	tone			post
+²	tone: level 2	tone			post
+³	tone: level 3	tone			post
+⁴	tone: level 4	tone			post
+⁵	tone: level 5	tone			post
+ ̀	tone: low	tone			post
+˨	tone: low 	tone			post
+˧	tone: mid	tone			post
+⁰	tone: neutral	tone			post
+ ̌	tone: rising	tone			post
+ ̘	advanced tongue root	tongue root state	﻿advancedTongueRoot	+	post
+ ̙	retracted tongue root	tongue root state	﻿advancedTongueRoot	-	post
+ ̤	breathy voiced	voice quality	spreadGlottis	+	post
+̰	creaky voiced	voice quality	constrictedGlottis	+	post
+̰	creaky voiced	voice quality	spreadGlottis	-	post
+ˀ	glottalized	voice quality	constrictedGlottis	+	post
+ᵐ	prenasalized	nasality	nasal	+	pre
+ᶬ	prenasalized	nasality	nasal	+	pre
+ⁿ	prenasalized	nasality	nasal	+	pre
+ᵑ	prenasalized	nasality	nasal	+	pre
+ˈ	stress: primary	suprasegmental	stress	+	pre
+ˌ	stress: secondary	suprasegmental	stress	+	pre
