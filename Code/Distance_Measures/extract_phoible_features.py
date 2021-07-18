@@ -46,9 +46,9 @@ segment_equivalents = {#Affricates
                        
                        }
 
-base_segments = set(segment for segment in phoible_segments 
+base_segments = list(set(segment for segment in phoible_segments 
                     if len(segment) == 1
-                    if segment not in tonemes+['ç'])
+                    if segment not in tonemes+['ç']))
 other_ch = set(ch for segment in phoible_segments.keys() for ch in segment 
                if ch not in base_segments)
 
@@ -60,7 +60,9 @@ with open('Phones/segments.csv', 'w') as f:
         f.write(','.join([segment]+[phoible_segments[segment][feature] for feature in phoible_features]))
         f.write('\n')
     for segment in segment_equivalents:
+        base_segments.append(segment)
         equivalent = segment_equivalents[segment]
+        phoible_segments[segment] = phoible_segments[equivalent]
         f.write(','.join([segment]+[phoible_segments[equivalent][feature] for feature in phoible_features]))
         f.write('\n')
 
@@ -115,8 +117,8 @@ def common_features(segment_list,
     common = [(feature, feature_values[feature][0]) for feature in feature_values if len(feature_values[feature]) == 1]
     return common
 
-def different_features(seg1, seg2,
-                  segment_index=phoible_segments):
+def different_features(seg1, seg2, 
+                       segment_index=phoible_segments):
     diffs = []
     seg1_id = segment_index[seg1]
     seg2_id = segment_index[seg2]
@@ -124,6 +126,25 @@ def different_features(seg1, seg2,
         if seg2_id[feature] != seg1_id[feature]:
             diffs.append(feature)
     return diffs
+
+def minimal_pairs(feature, 
+                  segment_list=base_segments, 
+                  segment_index=phoible_segments):
+    """Finds minimal pairs of base segments which are distinguished by a single feature"""
+    pairs = []
+    checked = []
+    for seg1 in segment_list:
+        for seg2 in segment_list:
+            if seg1 != seg2:
+                if (seg2, seg1) not in checked:
+                    if different_features(seg1, seg2, segment_index) == [feature]:
+                        pairs.append((seg1, seg2))
+                        #print(seg1, seg2)
+                    checked.append((seg1, seg2))
+    return pairs
+    
+    
+    
 
 #%%
 #IDENTIFYING FEATURES ASSOCIATED WITH DIACRITICS
