@@ -7,8 +7,9 @@ grandparent_dir = parent_dir.parent
 
 #Load phonetic distance data and auxiliary functions
 os.chdir(str(grandparent_dir) + '/Code')
+from auxiliary_functions import csv_to_dict, strip_ch
+os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
 from phonetic_distance import *
-from auxiliary_functions import csv_to_dict
 os.chdir(local_dir)
 
 #%%

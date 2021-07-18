@@ -46,19 +46,19 @@ Diacritic	Description	Type	Feature	Value	Position
 ͈	fortis	tenseness	fortis	+	post
 ˥	tone: extra high	tone			post
 ˩	tone: extra low	tone			post
- ̂	tone: falling	tone			post
- ́	tone: high	tone			post
+̂	tone: falling	tone			post
+́	tone: high	tone			post
 ˦	tone: high	tone			post
 ¹	tone: level 1	tone			post
 ²	tone: level 2	tone			post
 ³	tone: level 3	tone			post
 ⁴	tone: level 4	tone			post
 ⁵	tone: level 5	tone			post
- ̀	tone: low	tone			post
+̀	tone: low	tone			post
 ˨	tone: low 	tone			post
 ˧	tone: mid	tone			post
 ⁰	tone: neutral	tone			post
- ̌	tone: rising	tone			post
+̌	tone: rising	tone			post
  ̘	advanced tongue root	tongue root state	﻿advancedTongueRoot	+	post
  ̙	retracted tongue root	tongue root state	﻿advancedTongueRoot	-	post
  ̤	breathy voiced	voice quality	spreadGlottis	+	post

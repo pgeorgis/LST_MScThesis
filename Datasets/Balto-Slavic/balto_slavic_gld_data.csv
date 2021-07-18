@@ -1,234 +1,234 @@
 ID	Language_ID	Glottocode	ISO 639-3	Parameter_ID	Value	Form	Segments	Source_Form	Cognate_ID	Loan	Comment	Source
 StandardLithuanian_ALL_1	Lithuanian	lith1251	lit	ALL	vìsas	vʲˈɪsɐs	vʲ ˈɪ s ɐ s	vʸˈɪs-ɐs	ALL_1	FALSE		Baronas I: 91
-StandardLithuanian_ASH_1	Lithuanian	lith1251	lit	ASH	pelenaĩ	pʲɛlʲɛnɐ̌j	pʲ ɛ lʲ ɛ n ɐ ̌ j	pʸɛlʸ-ɛn-ɐ̌y	ASH_1	FALSE	Plurale tantum.	Baronas I: 324; II: 114
-StandardLithuanian_BARK_1	Lithuanian	lith1251	lit	BARK	žievė	ʒʲjɛvʲěː	ʒʲ j ɛ vʲ e ̌ː	žʸyɛvʸ-ěː	BARK_1	FALSE	Baronas also provides the term ɫwb-ɐs {lúobas}, but LKŽ explains it as 'stora medžio žievė, karna', i.e. 'thick bark of the tree, bast' [LKŽ 2017].	Baronas I: 401
-StandardLithuanian_BELLY_1	Lithuanian	lith1251	lit	BELLY	pilvas	pʲǐɫvɐs	pʲ i ̌ ɫ v ɐ s	pʸǐɫv-ɐs	BELLY_1	FALSE		Baronas I: 248
+StandardLithuanian_ASH_1	Lithuanian	lith1251	lit	ASH	pelenaĩ	pʲɛlʲɛnɐ̌j	pʲ ɛ lʲ ɛ n ɐ̌ j	pʸɛlʸ-ɛn-ɐ̌y	ASH_1	FALSE	Plurale tantum.	Baronas I: 324; II: 114
+StandardLithuanian_BARK_1	Lithuanian	lith1251	lit	BARK	žievė	ʒʲjɛvʲěː	ʒʲ j ɛ vʲ ěː	žʸyɛvʸ-ěː	BARK_1	FALSE	Baronas also provides the term ɫwb-ɐs {lúobas}, but LKŽ explains it as 'stora medžio žievė, karna', i.e. 'thick bark of the tree, bast' [LKŽ 2017].	Baronas I: 401
+StandardLithuanian_BELLY_1	Lithuanian	lith1251	lit	BELLY	pilvas	pʲǐɫvɐs	pʲ ǐ ɫ v ɐ s	pʸǐɫv-ɐs	BELLY_1	FALSE		Baronas I: 248
 StandardLithuanian_BIG_1	Lithuanian	lith1251	lit	BIG	dìdelis	dʲˈɪdʲɛlʲɪs	dʲ ˈɪ dʲ ɛ lʲ ɪ s	dʸˈɪdʸ-ɛlʸ-ɪs	BIG_1	FALSE		Baronas I: 63
-StandardLithuanian_BIRD_1	Lithuanian	lith1251	lit	BIRD	paũkštis	pɐ̌wkʃʲtʲɪs	p ɐ ̌ w k ʃʲ tʲ ɪ s	pɐ̌wkšʸtʸ-ɪs	BIRD_1	FALSE		Baronas II: 321-322
-StandardLithuanian_BITE_1	Lithuanian	lith1251	lit	BITE	ką́sti	kɑ̂ːsʲtʲɪ	k ɑ ̂ː sʲ tʲ ɪ	kɑ̂ːsʸ-tʸɪ	BITE_1	FALSE		Baronas I: 427
-StandardLithuanian_BLACK_1	Lithuanian	lith1251	lit	BLACK	júodas	juə̂dɐs	j u ə ̂ d ɐ s	ywd-ɐs	BLACK_1	FALSE		Baronas II: 579
-StandardLithuanian_BLOOD_1	Lithuanian	lith1251	lit	BLOOD	kraũjas	krɐ̌wjɐs	k r ɐ ̌ w j ɐ s	krɐ̌wy-ɐs	BLOOD_1	FALSE		Baronas I: 417
-StandardLithuanian_BONE_1	Lithuanian	lith1251	lit	BONE	káulas	kɐ̂wɫɐs	k ɐ ̂ w ɫ ɐ s	kɐ̂wɫ-ɐs	BONE_1	FALSE		Baronas I: 408
+StandardLithuanian_BIRD_1	Lithuanian	lith1251	lit	BIRD	paũkštis	pɐ̌wkʃʲtʲɪs	p ɐ̌ w k ʃʲ tʲ ɪ s	pɐ̌wkšʸtʸ-ɪs	BIRD_1	FALSE		Baronas II: 321-322
+StandardLithuanian_BITE_1	Lithuanian	lith1251	lit	BITE	ką́sti	kɑ̂ːsʲtʲɪ	k ɑ̂ː sʲ tʲ ɪ	kɑ̂ːsʸ-tʸɪ	BITE_1	FALSE		Baronas I: 427
+StandardLithuanian_BLACK_1	Lithuanian	lith1251	lit	BLACK	júodas	juə̂dɐs	j u ə̂ d ɐ s	ywd-ɐs	BLACK_1	FALSE		Baronas II: 579
+StandardLithuanian_BLOOD_1	Lithuanian	lith1251	lit	BLOOD	kraũjas	krɐ̌wjɐs	k r ɐ̌ w j ɐ s	krɐ̌wy-ɐs	BLOOD_1	FALSE		Baronas I: 417
+StandardLithuanian_BONE_1	Lithuanian	lith1251	lit	BONE	káulas	kɐ̂wɫɐs	k ɐ̂ w ɫ ɐ s	kɐ̂wɫ-ɐs	BONE_1	FALSE		Baronas I: 408
 StandardLithuanian_BREAST_1	Lithuanian	lith1251	lit	BREAST	krūtìnė	kruːtʲˈɪnʲeː	k r uː tʲ ˈɪ nʲ eː	kruːtʸ-ˈɪnʸ-eː	BREAST_1	FALSE	Distinct from kruːtʸ-ˈɪs {krūtis} 'female breast' [Baronas I: 191], although {krūtìnė} can be used in this meaning as well [LKŽ 2017]. Distinct from pʸˈɪršʸ-iːs {piršys} 'horse breast'.	Baronas I: 191
-StandardLithuanian_BURN_1	Lithuanian	lith1251	lit	BURN	dẽginti	dʲæ̌ɡʲɪntʲɪ	dʲ æ ̌ ɡʲ ɪ n tʲ ɪ	dʸä̌gʸ-ɪn-tʸɪ	BURN_1	FALSE	Distinct from dʸˈɛk-tʸɪ {degti} 'to burn (intransitive)' [Baronas I: 184].	Baronas I: 247
-StandardLithuanian_FINGERNAIL_1	Lithuanian	lith1251	lit	FINGERNAIL	nãgas	nɐ̌ɡɐs	n ɐ ̌ ɡ ɐ s	nɐ̌g-ɐs	FINGERNAIL_1	FALSE		Baronas I: 565
+StandardLithuanian_BURN_1	Lithuanian	lith1251	lit	BURN	dẽginti	dʲæ̌ɡʲɪntʲɪ	dʲ æ̌ ɡʲ ɪ n tʲ ɪ	dʸä̌gʸ-ɪn-tʸɪ	BURN_1	FALSE	Distinct from dʸˈɛk-tʸɪ {degti} 'to burn (intransitive)' [Baronas I: 184].	Baronas I: 247
+StandardLithuanian_FINGERNAIL_1	Lithuanian	lith1251	lit	FINGERNAIL	nãgas	nɐ̌ɡɐs	n ɐ̌ ɡ ɐ s	nɐ̌g-ɐs	FINGERNAIL_1	FALSE		Baronas I: 565
 StandardLithuanian_CLOUD_1	Lithuanian	lith1251	lit	CLOUD	debesìs	dʲɛbʲɛsʲˈɪs	dʲ ɛ bʲ ɛ sʲ ˈɪ s	dʸɛbʸ-ɛsʸ-ˈɪs	CLOUD_1	FALSE	Distinct from rǔːk-ɐs {rūkas} 'fog' [Baronas II: 514].	Baronas II: 12
-StandardLithuanian_COLD_1	Lithuanian	lith1251	lit	COLD	šáltas	ʃɐ̂ɫtɐs	ʃ ɐ ̂ ɫ t ɐ s	šɐ̂ɫt-ɐs	COLD_1	FALSE		Baronas II: 567
-StandardLithuanian_COME_1	Lithuanian	lith1251	lit	COME	ateĩti	ɐtʲêjtʲɪ	ɐ tʲ e ̂ j tʲ ɪ	ɐtʸ=y-tʸɪ	COME_1	FALSE		Baronas II: 262-263
-StandardLithuanian_DIE_1	Lithuanian	lith1251	lit	DIE	mir̃ti	mʲǐrʲtʲɪ	mʲ i ̌ rʲ tʲ ɪ	mʸǐrʸ-tʸɪ	DIE_1	FALSE	Baronas also cites the term pɐ=sʸɪ=mʸǐrʸ-tʸɪ {pasimir̃ti}, but it probably means 'to pass away' [Lyberis 2001: 536].	Baronas II: 533
-StandardLithuanian_DIE_1	Lithuanian	lith1251	lit	DIE	numir̃ti	nʊmʲǐrʲtʲɪ	n ʊ mʲ i ̌ rʲ tʲ ɪ	nʊ=mʸǐrʸ-tʸɪ	DIE_1	FALSE	Baronas also cites the term pɐ=sʸɪ=mʸǐrʸ-tʸɪ {pasimir̃ti}, but it probably means 'to pass away' [Lyberis 2001: 536].	Baronas II: 533
-StandardLithuanian_DOG_1	Lithuanian	lith1251	lit	DOG	šuõ	ʃuə̌	ʃ u ə ̌	šw	DOG_1	FALSE		Baronas II: 443
-StandardLithuanian_DRINK_1	Lithuanian	lith1251	lit	DRINK	gérti	ɡʲæ̂rʲtʲɪ	ɡʲ æ ̂ rʲ tʲ ɪ	gʸä̂rʸ-tʸɪ	DRINK_1	FALSE		Baronas II: 152-153
-StandardLithuanian_DRY_1	Lithuanian	lith1251	lit	DRY	saũsas	sɐ̌wsɐs	s ɐ ̌ w s ɐ s	sɐ̌ws-ɐs	DRY_1	FALSE		Baronas II: 488
+StandardLithuanian_COLD_1	Lithuanian	lith1251	lit	COLD	šáltas	ʃɐ̂ɫtɐs	ʃ ɐ̂ ɫ t ɐ s	šɐ̂ɫt-ɐs	COLD_1	FALSE		Baronas II: 567
+StandardLithuanian_COME_1	Lithuanian	lith1251	lit	COME	ateĩti	ɐtʲêjtʲɪ	ɐ tʲ ê j tʲ ɪ	ɐtʸ=y-tʸɪ	COME_1	FALSE		Baronas II: 262-263
+StandardLithuanian_DIE_1	Lithuanian	lith1251	lit	DIE	mir̃ti	mʲǐrʲtʲɪ	mʲ ǐ rʲ tʲ ɪ	mʸǐrʸ-tʸɪ	DIE_1	FALSE	Baronas also cites the term pɐ=sʸɪ=mʸǐrʸ-tʸɪ {pasimir̃ti}, but it probably means 'to pass away' [Lyberis 2001: 536].	Baronas II: 533
+StandardLithuanian_DIE_1	Lithuanian	lith1251	lit	DIE	numir̃ti	nʊmʲǐrʲtʲɪ	n ʊ mʲ ǐ rʲ tʲ ɪ	nʊ=mʸǐrʸ-tʸɪ	DIE_1	FALSE	Baronas also cites the term pɐ=sʸɪ=mʸǐrʸ-tʸɪ {pasimir̃ti}, but it probably means 'to pass away' [Lyberis 2001: 536].	Baronas II: 533
+StandardLithuanian_DOG_1	Lithuanian	lith1251	lit	DOG	šuõ	ʃuə̌	ʃ u ə̌	šw	DOG_1	FALSE		Baronas II: 443
+StandardLithuanian_DRINK_1	Lithuanian	lith1251	lit	DRINK	gérti	ɡʲæ̂rʲtʲɪ	ɡʲ æ̂ rʲ tʲ ɪ	gʸä̂rʸ-tʸɪ	DRINK_1	FALSE		Baronas II: 152-153
+StandardLithuanian_DRY_1	Lithuanian	lith1251	lit	DRY	saũsas	sɐ̌wsɐs	s ɐ̌ w s ɐ s	sɐ̌ws-ɐs	DRY_1	FALSE		Baronas II: 488
 StandardLithuanian_EAR_1	Lithuanian	lith1251	lit	EAR	ausìs	ɐwsʲˈɪs	ɐ w sʲ ˈɪ s	ɐwsʸ-ˈɪs	EAR_1	FALSE		Baronas II: 549
-StandardLithuanian_EARTH_1	Lithuanian	lith1251	lit	EARTH	žẽmė	ʒʲæ̌mʲeː	ʒʲ æ ̌ mʲ eː	žʸä̌mʸ-eː	EARTH_1	FALSE		Baronas I: 318
-StandardLithuanian_EAT_1	Lithuanian	lith1251	lit	EAT	válgyti	vɐ̂ɫɡʲiːtʲɪ	v ɐ ̂ ɫ ɡʲ iː tʲ ɪ	vɐ̂ɫgʸ-iː-tʸɪ	EAT_1	FALSE	Distinct from êːsʸ-tʸɪ {ė́sti} 'to eat (about animals)' [Baronas I: 241].	Baronas I: 241
+StandardLithuanian_EARTH_1	Lithuanian	lith1251	lit	EARTH	žẽmė	ʒʲæ̌mʲeː	ʒʲ æ̌ mʲ eː	žʸä̌mʸ-eː	EARTH_1	FALSE		Baronas I: 318
+StandardLithuanian_EAT_1	Lithuanian	lith1251	lit	EAT	válgyti	vɐ̂ɫɡʲiːtʲɪ	v ɐ̂ ɫ ɡʲ iː tʲ ɪ	vɐ̂ɫgʸ-iː-tʸɪ	EAT_1	FALSE	Distinct from êːsʸ-tʸɪ {ė́sti} 'to eat (about animals)' [Baronas I: 241].	Baronas I: 241
 StandardLithuanian_EGG_1	Lithuanian	lith1251	lit	EGG	kiaušìnis	kʲɛwʃʲˈɪnʲɪs	kʲ ɛ w ʃʲ ˈɪ nʲ ɪ s	kʸɛwšʸ-ˈɪnʸ-ɪs	EGG_1	FALSE		Baronas II: 609
 StandardLithuanian_EYE_1	Lithuanian	lith1251	lit	EYE	akìs	ɐkʲˈɪs	ɐ kʲ ˈɪ s	ɐkʸ-ˈɪs	EYE_1	FALSE		Baronas I: 175
-StandardLithuanian_FAT_1	Lithuanian	lith1251	lit	FAT	riebalaĩ	rʲjɛbaɫɐ̌j	rʲ j ɛ b a ɫ ɐ ̌ j	rʸyɛbaɫ-ɐ̌y	FAT_1	FALSE	Plurale tantum.	Baronas I: 250
-StandardLithuanian_FEATHER_1	Lithuanian	lith1251	lit	FEATHER	plùnksna	pɫûŋksnɐ	p ɫ u ̂ ŋ k s n ɐ	pɫûŋksn-ɐ	FEATHER_1	FALSE	Distinct from puːk-ɐ̌y {pūkaĩ} (plural form) 'down' [Baronas II: 326].	Baronas II: 147
+StandardLithuanian_FAT_1	Lithuanian	lith1251	lit	FAT	riebalaĩ	rʲjɛbaɫɐ̌j	rʲ j ɛ b a ɫ ɐ̌ j	rʸyɛbaɫ-ɐ̌y	FAT_1	FALSE	Plurale tantum.	Baronas I: 250
+StandardLithuanian_FEATHER_1	Lithuanian	lith1251	lit	FEATHER	plùnksna	pɫûŋksnɐ	p ɫ û ŋ k s n ɐ	pɫûŋksn-ɐ	FEATHER_1	FALSE	Distinct from puːk-ɐ̌y {pūkaĩ} (plural form) 'down' [Baronas II: 326].	Baronas II: 147
 StandardLithuanian_FIRE_1	Lithuanian	lith1251	lit	FIRE	ugnìs	ʊɡnʲˈɪs	ʊ ɡ nʲ ˈɪ s	ʊgnʸ-ˈɪs	FIRE_1	FALSE		Baronas II: 37
 StandardLithuanian_FISH_1	Lithuanian	lith1251	lit	FISH	žuvìs	ʒʊvʲˈɪs	ʒ ʊ vʲ ˈɪ s	žʊvʸ-ˈɪs	FISH_1	FALSE		Baronas II: 387
 StandardLithuanian_FLY_1	Lithuanian	lith1251	lit	FLY	skrìsti	sʲkrʲˈɪsʲtʲɪ	sʲ k rʲ ˈɪ sʲ tʲ ɪ	sʸkrʸˈɪsʸ-tʸɪ	FLY_1	FALSE	The meaning 'to fly' is indicated in [LKŽ 2017] without any further semantic specification, so we include both equivalents into the list.	There are two terms for 'to fly': sʸkrʸˈɪsʸ-tʸɪ {skrìsti} and lʸěːk-tʸɪ {lkti} 'to fly / to rush' [Baronas I: 436]
-StandardLithuanian_FLY_2	Lithuanian	lith1251	lit	FLY	lėkti	lʲěːktʲɪ	lʲ e ̌ː k tʲ ɪ	lʸěːk-tʸɪ	FLY_2	FALSE		Baronas I: 436
-StandardLithuanian_FOOT_1	Lithuanian	lith1251	lit	FOOT	kója	kôːjɛ	k o ̂ː j ɛ	kôːy-ɛ	FOOT_1	FALSE		Baronas I: 565
-StandardLithuanian_FULL_1	Lithuanian	lith1251	lit	FULL	pìlnas	pîɫnɐs	p i ̂ ɫ n ɐ s	pîɫn-ɐs	FULL_1	FALSE		Baronas II: 207
-StandardLithuanian_GIVE_1	Lithuanian	lith1251	lit	GIVE	dúoti	duə̂tʲɪ	d u ə ̂ tʲ ɪ	dw-tʸɪ	GIVE_1	FALSE		Baronas I: 198
-StandardLithuanian_GOOD_1	Lithuanian	lith1251	lit	GOOD	gẽras	ɡʲæ̌rɐs	ɡʲ æ ̌ r ɐ s	gʸä̌r-ɐs	GOOD_1	FALSE		Baronas II: 568
-StandardLithuanian_GREEN_1	Lithuanian	lith1251	lit	GREEN	žãlias	ʒɐ̌lʲɛs	ʒ ɐ ̌ lʲ ɛ s	žɐ̌lʸ-ɛs	GREEN_1	FALSE		Baronas I: 318
-StandardLithuanian_HAIR_1	Lithuanian	lith1251	lit	HAIR	pláukas	pɫɐ̂wkɐs	p ɫ ɐ ̂ w k ɐ s	pɫɐ̂wk-ɐs	HAIR_1	FALSE		Baronas I: 116
+StandardLithuanian_FLY_2	Lithuanian	lith1251	lit	FLY	lėkti	lʲěːktʲɪ	lʲ ěː k tʲ ɪ	lʸěːk-tʸɪ	FLY_2	FALSE		Baronas I: 436
+StandardLithuanian_FOOT_1	Lithuanian	lith1251	lit	FOOT	kója	kôːjɛ	k ôː j ɛ	kôːy-ɛ	FOOT_1	FALSE		Baronas I: 565
+StandardLithuanian_FULL_1	Lithuanian	lith1251	lit	FULL	pìlnas	pîɫnɐs	p î ɫ n ɐ s	pîɫn-ɐs	FULL_1	FALSE		Baronas II: 207
+StandardLithuanian_GIVE_1	Lithuanian	lith1251	lit	GIVE	dúoti	duə̂tʲɪ	d u ə̂ tʲ ɪ	dw-tʸɪ	GIVE_1	FALSE		Baronas I: 198
+StandardLithuanian_GOOD_1	Lithuanian	lith1251	lit	GOOD	gẽras	ɡʲæ̌rɐs	ɡʲ æ̌ r ɐ s	gʸä̌r-ɐs	GOOD_1	FALSE		Baronas II: 568
+StandardLithuanian_GREEN_1	Lithuanian	lith1251	lit	GREEN	žãlias	ʒɐ̌lʲɛs	ʒ ɐ̌ lʲ ɛ s	žɐ̌lʸ-ɛs	GREEN_1	FALSE		Baronas I: 318
+StandardLithuanian_HAIR_1	Lithuanian	lith1251	lit	HAIR	pláukas	pɫɐ̂wkɐs	p ɫ ɐ̂ w k ɐ s	pɫɐ̂wk-ɐs	HAIR_1	FALSE		Baronas I: 116
 StandardLithuanian_HAND_1	Lithuanian	lith1251	lit	HAND	rankà	rɐŋkˈɐ	r ɐ ŋ k ˈɐ	rɐŋk-ˈɐ	HAND_1	FALSE	Polysemy: 'hand / arm' [LKŽ 2017].	Baronas II: 385-386
 StandardLithuanian_HEAD_1	Lithuanian	lith1251	lit	HEAD	galvà	ɡɐɫvˈɐ	ɡ ɐ ɫ v ˈɐ	gɐɫv-ˈɐ	HEAD_1	FALSE		Baronas I: 180
-StandardLithuanian_HEAR_1	Lithuanian	lith1251	lit	HEAR	girdė́ti	ɡʲɪrʲdʲêːtʲɪ	ɡʲ ɪ rʲ dʲ e ̂ː tʲ ɪ	gʸɪrʸdʸ-êː-tʸɪ	HEAR_1	FALSE	Distinct from kɫawsʸ-îː-tʸɪ {klausýti} 'to listen' [Baronas II: 434].	Baronas II: 434-435
+StandardLithuanian_HEAR_1	Lithuanian	lith1251	lit	HEAR	girdė́ti	ɡʲɪrʲdʲêːtʲɪ	ɡʲ ɪ rʲ dʲ êː tʲ ɪ	gʸɪrʸdʸ-êː-tʸɪ	HEAR_1	FALSE	Distinct from kɫawsʸ-îː-tʸɪ {klausýti} 'to listen' [Baronas II: 434].	Baronas II: 434-435
 StandardLithuanian_HEART_1	Lithuanian	lith1251	lit	HEART	širdìs	ʃʲɪrʲdʲˈɪs	ʃʲ ɪ rʲ dʲ ˈɪ s	šʸɪrʸdʸ-ˈɪs	HEART_1	FALSE		Baronas II: 414
-StandardLithuanian_HORN_1	Lithuanian	lith1251	lit	HORN	rãgas	rɐ̌ɡɐs	r ɐ ̌ ɡ ɐ s	rɐ̌g-ɐs	HORN_1	FALSE		Baronas II: 381
+StandardLithuanian_HORN_1	Lithuanian	lith1251	lit	HORN	rãgas	rɐ̌ɡɐs	r ɐ̌ ɡ ɐ s	rɐ̌g-ɐs	HORN_1	FALSE		Baronas II: 381
 StandardLithuanian_I_1	Lithuanian	lith1251	lit	I	àš	ɐʃ	ɐ ʃ	ɐš	I_1	FALSE	1997: 207. Paradigm: ɐš {àš} [nom.] / mɐn-ä̌ːs {manę̃s} ~ mɐ̂n-oː {mаno} [gen.] / mɐ̂n {mán} [dat.] / mɐnʸ-ɛ {manè} [acc.] / mɐnʸ-ɪmʸˈɪ {manimì} [ins.] / mɐnʸ-iːyˈɛ {manyjè} [loc.].	Baronas II: 607; Ambrazas et al
 StandardLithuanian_I_2	Lithuanian	lith1251	lit	I	manè	mɐnʲɛ	m ɐ nʲ ɛ	mɐnʸ-ɛ	I_2	FALSE		Accusative stem
-StandardLithuanian_KILL_1	Lithuanian	lith1251	lit	KILL	nužudýti	nʊʒʊdʲîːtʲɪ	n ʊ ʒ ʊ dʲ i ̂ː tʲ ɪ	nʊ=žʊdʸ-îː-tʸɪ	KILL_1	FALSE	We can reject nʊ=dôːpʸ-tʸɪ {nudóbti} as a colloquial term [Lyberis 2001: 452], as well as nʊ=gɐɫ-ɐ̌bʸ-iː-tʸɪ {nugalãbyti} 'to kill, to slay' and nʊ=gɐɫ-w-tʸɪ {nugalúoti} 'to torture' [Lyberis 2001: 453]. The term ʊž=mˈʊšʸ-tʸɪ {užmùšti} usually means 'to kill with a hit' [DLKŽ 1972: 895; LKŽ 2017].   The dictionaries do not show the difference between nʊ=žʊdʸ-îː-tʸɪ {nužudýti} and nʊ=kɐ̂w-tʸɪ {nukáuti}, but according to the corpus, the first one is much more frequent [DLKT 2017].	Baronas provides a number of forms: {užmùšti}, {nukáuti}, {nužudýti}, {nudóbti}, {nugalãbyti} and {nugalúoti} [Baronas II: 518-519]
-StandardLithuanian_KNEE_1	Lithuanian	lith1251	lit	KNEE	kẽlis	kʲæ̌lʲɪs	kʲ æ ̌ lʲ ɪ s	kʸä̌lʸ-ɪs	KNEE_1	FALSE		Baronas I: 388
-StandardLithuanian_KNOW_1	Lithuanian	lith1251	lit	KNOW	žinóti	ʒʲɪnôːtʲɪ	ʒʲ ɪ n o ̂ː tʲ ɪ	žʸɪn-ôː-tʸɪ	KNOW_1	FALSE		Baronas I: 323
-StandardLithuanian_LEAF_1	Lithuanian	lith1251	lit	LEAF	lãpas	ɫɐ̌pɐs	ɫ ɐ ̌ p ɐ s	ɫɐ̌p-ɐs	LEAF_1	FALSE		Baronas I: 440
-StandardLithuanian_LIE_1	Lithuanian	lith1251	lit	LIE	gulė́ti	ɡʊlʲêːtʲɪ	ɡ ʊ lʲ e ̂ː tʲ ɪ	gʊlʸ-êː-tʸɪ	LIE_1	FALSE	Distinct from gǔlʸ-tʸɪ {gulti} ~ ɐtʸ=sʸɪ=gǔlʸ-tʸɪ {atsigulti} 'to lie down' [Baronas I: 437].	Baronas I: 433
-StandardLithuanian_LIVER_1	Lithuanian	lith1251	lit	LIVER	kẽpenys	kʲæ̌pʲɛnʲiːs	kʲ æ ̌ pʲ ɛ nʲ iː s	kʸä̌pʸ-ɛnʸ-iːs	LIVER_1	FALSE	Plurale tantum.	Baronas II: 149
-StandardLithuanian_LONG_1	Lithuanian	lith1251	lit	LONG	ìlgas	îɫɡɐs	i ̂ ɫ ɡ ɐ s	îɫg-ɐs	LONG_1	FALSE		Baronas I: 212
-StandardLithuanian_LOUSE_1	Lithuanian	lith1251	lit	LOUSE	utėlė	ʊtʲeːlʲěː	ʊ tʲ eː lʲ e ̌ː	ʊtʸ-eːlʸ-ěː	LOUSE_1	FALSE		Baronas I: 124
-StandardLithuanian_MAN_1	Lithuanian	lith1251	lit	MAN	výras	vʲîːrɐs	vʲ i ̂ː r ɐ s	vʸîːr-ɐs	MAN_1	FALSE	Polysemy: 'man / husband' [Baronas I: 484-485].	Baronas I: 485
-StandardLithuanian_MANY_1	Lithuanian	lith1251	lit	MANY	daũg	dɐ̌wk	d ɐ ̌ w k	dɐ̌wk	MANY_1	FALSE		Baronas I: 474
+StandardLithuanian_KILL_1	Lithuanian	lith1251	lit	KILL	nužudýti	nʊʒʊdʲîːtʲɪ	n ʊ ʒ ʊ dʲ îː tʲ ɪ	nʊ=žʊdʸ-îː-tʸɪ	KILL_1	FALSE	We can reject nʊ=dôːpʸ-tʸɪ {nudóbti} as a colloquial term [Lyberis 2001: 452], as well as nʊ=gɐɫ-ɐ̌bʸ-iː-tʸɪ {nugalãbyti} 'to kill, to slay' and nʊ=gɐɫ-w-tʸɪ {nugalúoti} 'to torture' [Lyberis 2001: 453]. The term ʊž=mˈʊšʸ-tʸɪ {užmùšti} usually means 'to kill with a hit' [DLKŽ 1972: 895; LKŽ 2017].   The dictionaries do not show the difference between nʊ=žʊdʸ-îː-tʸɪ {nužudýti} and nʊ=kɐ̂w-tʸɪ {nukáuti}, but according to the corpus, the first one is much more frequent [DLKT 2017].	Baronas provides a number of forms: {užmùšti}, {nukáuti}, {nužudýti}, {nudóbti}, {nugalãbyti} and {nugalúoti} [Baronas II: 518-519]
+StandardLithuanian_KNEE_1	Lithuanian	lith1251	lit	KNEE	kẽlis	kʲæ̌lʲɪs	kʲ æ̌ lʲ ɪ s	kʸä̌lʸ-ɪs	KNEE_1	FALSE		Baronas I: 388
+StandardLithuanian_KNOW_1	Lithuanian	lith1251	lit	KNOW	žinóti	ʒʲɪnôːtʲɪ	ʒʲ ɪ n ôː tʲ ɪ	žʸɪn-ôː-tʸɪ	KNOW_1	FALSE		Baronas I: 323
+StandardLithuanian_LEAF_1	Lithuanian	lith1251	lit	LEAF	lãpas	ɫɐ̌pɐs	ɫ ɐ̌ p ɐ s	ɫɐ̌p-ɐs	LEAF_1	FALSE		Baronas I: 440
+StandardLithuanian_LIE_1	Lithuanian	lith1251	lit	LIE	gulė́ti	ɡʊlʲêːtʲɪ	ɡ ʊ lʲ êː tʲ ɪ	gʊlʸ-êː-tʸɪ	LIE_1	FALSE	Distinct from gǔlʸ-tʸɪ {gulti} ~ ɐtʸ=sʸɪ=gǔlʸ-tʸɪ {atsigulti} 'to lie down' [Baronas I: 437].	Baronas I: 433
+StandardLithuanian_LIVER_1	Lithuanian	lith1251	lit	LIVER	kẽpenys	kʲæ̌pʲɛnʲiːs	kʲ æ̌ pʲ ɛ nʲ iː s	kʸä̌pʸ-ɛnʸ-iːs	LIVER_1	FALSE	Plurale tantum.	Baronas II: 149
+StandardLithuanian_LONG_1	Lithuanian	lith1251	lit	LONG	ìlgas	îɫɡɐs	î ɫ ɡ ɐ s	îɫg-ɐs	LONG_1	FALSE		Baronas I: 212
+StandardLithuanian_LOUSE_1	Lithuanian	lith1251	lit	LOUSE	utėlė	ʊtʲeːlʲěː	ʊ tʲ eː lʲ ěː	ʊtʸ-eːlʸ-ěː	LOUSE_1	FALSE		Baronas I: 124
+StandardLithuanian_MAN_1	Lithuanian	lith1251	lit	MAN	výras	vʲîːrɐs	vʲ îː r ɐ s	vʸîːr-ɐs	MAN_1	FALSE	Polysemy: 'man / husband' [Baronas I: 484-485].	Baronas I: 485
+StandardLithuanian_MANY_1	Lithuanian	lith1251	lit	MANY	daũg	dɐ̌wk	d ɐ̌ w k	dɐ̌wk	MANY_1	FALSE		Baronas I: 474
 StandardLithuanian_MEAT_-1	Lithuanian	lith1251	lit	MEAT	mėsà	mʲeːsˈɐ	mʲ eː s ˈɐ	mʸeːs-ˈɐ	MEAT_-1	TRUE	Most probably of Slavic origin [Fraenkel I: 442; Smoczyński 2007: 390-391]. However, R. Derksen tried to prove the indigenous character of this word [Derksen 1998; Derksen 2015: 312-313].	Baronas I: 488
 StandardLithuanian_MOON_1	Lithuanian	lith1251	lit	MOON	mėnùlis	mʲeːnˈʊlʲɪs	mʲ eː n ˈʊ lʲ ɪ s	mʸeːn-ˈʊlʸ-ɪs	MOON_1	FALSE	Distinct from mʸêːnwɔ {mė́nuo} 'month' [Baronas I: 467].	Baronas I: 447
-StandardLithuanian_MOUNTAIN_1	Lithuanian	lith1251	lit	MOUNTAIN	kálnas	kɐ̂ɫnɐs	k ɐ ̂ ɫ n ɐ s	kɐ̂ɫn-ɐs	MOUNTAIN_1	FALSE		Baronas I: 183
+StandardLithuanian_MOUNTAIN_1	Lithuanian	lith1251	lit	MOUNTAIN	kálnas	kɐ̂ɫnɐs	k ɐ̂ ɫ n ɐ s	kɐ̂ɫn-ɐs	MOUNTAIN_1	FALSE		Baronas I: 183
 StandardLithuanian_MOUTH_1	Lithuanian	lith1251	lit	MOUTH	burnà	bʊrnˈɐ	b ʊ r n ˈɐ	bʊrn-ˈɐ	MOUTH_1	FALSE		Baronas II: 384
-StandardLithuanian_NAME_1	Lithuanian	lith1251	lit	NAME	var̃das	vɐ̌rdɐs	v ɐ ̌ r d ɐ s	vɐ̌rd-ɐs	NAME_1	FALSE		Baronas I: 346
-StandardLithuanian_NECK_1	Lithuanian	lith1251	lit	NECK	kãklas	kɐ̌kɫɐs	k ɐ ̌ k ɫ ɐ s	kɐ̌kɫ-ɐs	NECK_1	FALSE		Baronas II: 591
-StandardLithuanian_NEW_1	Lithuanian	lith1251	lit	NEW	naũjas	nɐ̌wjɛs	n ɐ ̌ w j ɛ s	nɐ̌wy-ɛs	NEW_1	FALSE		Baronas I: 565
+StandardLithuanian_NAME_1	Lithuanian	lith1251	lit	NAME	var̃das	vɐ̌rdɐs	v ɐ̌ r d ɐ s	vɐ̌rd-ɐs	NAME_1	FALSE		Baronas I: 346
+StandardLithuanian_NECK_1	Lithuanian	lith1251	lit	NECK	kãklas	kɐ̌kɫɐs	k ɐ̌ k ɫ ɐ s	kɐ̌kɫ-ɐs	NECK_1	FALSE		Baronas II: 591
+StandardLithuanian_NEW_1	Lithuanian	lith1251	lit	NEW	naũjas	nɐ̌wjɛs	n ɐ̌ w j ɛ s	nɐ̌wy-ɛs	NEW_1	FALSE		Baronas I: 565
 StandardLithuanian_NIGHT_1	Lithuanian	lith1251	lit	NIGHT	naktìs	nɐktʲˈɪs	n ɐ k tʲ ˈɪ s	nɐktʸ-ˈɪs	NIGHT_1	FALSE		Baronas I: 567
-StandardLithuanian_NOSE_1	Lithuanian	lith1251	lit	NOSE	nósis	nôːsʲɪs	n o ̂ː sʲ ɪ s	nôːsʸ-ɪs	NOSE_1	FALSE		Baronas I: 566
+StandardLithuanian_NOSE_1	Lithuanian	lith1251	lit	NOSE	nósis	nôːsʲɪs	n ôː sʲ ɪ s	nôːsʸ-ɪs	NOSE_1	FALSE		Baronas I: 566
 StandardLithuanian_NOT_1	Lithuanian	lith1251	lit	NOT	nè	nʲɛ	nʲ ɛ	nʸɛ	NOT_1	FALSE		Baronas I: 538
-StandardLithuanian_ONE_1	Lithuanian	lith1251	lit	ONE	víenas	vʲjênɐs	vʲ j e ̂ n ɐ s	vʸyn-ɐs	ONE_1	FALSE		Baronas II: 39
+StandardLithuanian_ONE_1	Lithuanian	lith1251	lit	ONE	víenas	vʲjênɐs	vʲ j ê n ɐ s	vʸyn-ɐs	ONE_1	FALSE		Baronas II: 39
 StandardLithuanian_PERSON_1	Lithuanian	lith1251	lit	PERSON	žmogùs	ʒmoːɡˈʊs	ʒ m oː ɡ ˈʊ s	žmoːg-ˈʊs	PERSON_1	FALSE		Baronas II: 577
 StandardLithuanian_RAIN_1	Lithuanian	lith1251	lit	RAIN	lietùs	lʲjɛtˈʊs	lʲ j ɛ t ˈʊ s	lʸyɛt-ˈʊs	RAIN_1	FALSE		Baronas I: 217
-StandardLithuanian_RED_1	Lithuanian	lith1251	lit	RED	raudónas	rɐwdôːnɐs	r ɐ w d o ̂ː n ɐ s	rɐwd-ôːn-ɐs	RED_1	FALSE		Baronas I: 412
-StandardLithuanian_PATH OR ROAD_1	Lithuanian	lith1251	lit	PATH OR ROAD	kẽlias	kʲæ̌lʲɛs	kʲ æ ̌ lʲ ɛ s	kʸä̌lʸ-ɛs	PATH OR ROAD_1	FALSE		Baronas I: 225
+StandardLithuanian_RED_1	Lithuanian	lith1251	lit	RED	raudónas	rɐwdôːnɐs	r ɐ w d ôː n ɐ s	rɐwd-ôːn-ɐs	RED_1	FALSE		Baronas I: 412
+StandardLithuanian_PATH OR ROAD_1	Lithuanian	lith1251	lit	PATH OR ROAD	kẽlias	kʲæ̌lʲɛs	kʲ æ̌ lʲ ɛ s	kʸä̌lʸ-ɛs	PATH OR ROAD_1	FALSE		Baronas I: 225
 StandardLithuanian_ROOT_1	Lithuanian	lith1251	lit	ROOT	šaknìs	ʃɐknʲˈɪs	ʃ ɐ k nʲ ˈɪ s	šɐknʸ-ˈɪs	ROOT_1	FALSE		Baronas I: 401
-StandardLithuanian_ROUND_1	Lithuanian	lith1251	lit	ROUND	ãpskritas	ɐ̌pʲsʲkrʲɪtɐs	ɐ ̌ pʲ sʲ k rʲ ɪ t ɐ s	ɐ̌pʸ=sʸkrʸɪt-ɐs	ROUND_1	FALSE		Baronas I: 419
-StandardLithuanian_SAND_1	Lithuanian	lith1251	lit	SAND	smėlis	sʲmʲěːlʲɪs	sʲ mʲ e ̌ː lʲ ɪ s	sʸmʸěːlʸ-ɪs	SAND_1	FALSE		Baronas II: 148
-StandardLithuanian_SAY_1	Lithuanian	lith1251	lit	SAY	sakýti	sɐkʲîːtʲɪ	s ɐ kʲ i ̂ː tʲ ɪ	sɐkʸ-îː-tʸɪ	SAY_1	FALSE		Baronas II: 419
-StandardLithuanian_SEE_1	Lithuanian	lith1251	lit	SEE	matýti	mɐtʲîːtʲɪ	m ɐ tʲ i ̂ː tʲ ɪ	mɐtʸ-îː-tʸɪ	SEE_1	FALSE	Distinct from žʸuːrʸ-êː-tʸɪ {žiūrė́ti} 'to look' [Baronas II: 439].	Baronas I: 98
-StandardLithuanian_SEED_1	Lithuanian	lith1251	lit	SEED	sė́kla	sʲêːkɫɐ	sʲ e ̂ː k ɫ ɐ	sʸêː-kɫ-ɐ	SEED_1	FALSE		Baronas II: 413
-StandardLithuanian_SIT_1	Lithuanian	lith1251	lit	SIT	sėdė́ti	sʲeːdʲêːtʲɪ	sʲ eː dʲ e ̂ː tʲ ɪ	sʸeːdʸ-êː-tʸɪ	SIT_1	FALSE	Distinct from sʸêːsʸ-tʸɪ {sė́sti} ~ sʸêːs-tʸɪ-s {sė́stis} 'to sit down' [Baronas II: 415].	Baronas II: 417
-StandardLithuanian_SKIN_1	Lithuanian	lith1251	lit	SKIN	óda	ôːdɐ	o ̂ː d ɐ	ôːd-ɐ	SKIN_1	FALSE		Baronas I: 386
-StandardLithuanian_SLEEP_1	Lithuanian	lith1251	lit	SLEEP	miegóti	mʲjɛɡôːtʲɪ	mʲ j ɛ ɡ o ̂ː tʲ ɪ	mʸyɛg-ôː-tʸɪ	SLEEP_1	FALSE		Baronas II: 460
-StandardLithuanian_SMALL_1	Lithuanian	lith1251	lit	SMALL	mãžas	mɐ̌ʒɐs	m ɐ ̌ ʒ ɐ s	mɐ̌ž-ɐs	SMALL_1	FALSE		Baronas I: 453
-StandardLithuanian_SMOKE_1	Lithuanian	lith1251	lit	SMOKE	dū́mai	dûːmɐj	d u ̂ː m ɐ j	dûːm-ɐy	SMOKE_1	FALSE		Baronas I: 237
-StandardLithuanian_STAND_1	Lithuanian	lith1251	lit	STAND	stovė́ti	stoːvʲêːtʲɪ	s t oː vʲ e ̂ː tʲ ɪ	stoːvʸ-êː-tʸɪ	STAND_1	FALSE	Distinct from ɐtʸ=sʸɪ=stôː-tʸɪ {atsistóti} 'to stand up' [Baronas I: 133].	Baronas II: 479
-StandardLithuanian_STAR_1	Lithuanian	lith1251	lit	STAR	žvaigždė	ʒvɐjɡʒʲdʲěː	ʒ v ɐ j ɡ ʒʲ dʲ e ̌ː	žvɐygžʸdʸ-ěː	STAR_1	FALSE		Baronas I: 315
-StandardLithuanian_STONE_1	Lithuanian	lith1251	lit	STONE	akmuõ	ɐkmuə̌	ɐ k m u ə ̌	ɐkmw	STONE_1	FALSE		Baronas I: 367
-StandardLithuanian_SUN_1	Lithuanian	lith1251	lit	SUN	sáulė	sɐ̂wlʲeː	s ɐ ̂ w lʲ eː	sɐ̂wlʸ-eː	SUN_1	FALSE		Baronas II: 452
-StandardLithuanian_SWIM_1	Lithuanian	lith1251	lit	SWIM	plaũkti	pɫɐ̌wktʲɪ	p ɫ ɐ ̌ w k tʲ ɪ	pɫɐ̌wk-tʸɪ	SWIM_1	FALSE	Iterative form is pɫɐ̂wkʸ-oː-tʸɪ {pláukioti}. Distinct from pɫɐwkʸ-îː-tʸɪ {plaukýti} 'to swim (iterative) / to float' and pɫǔːdʊrʸ-wɔ-tʸɪ {plūduriuoti} 'to float' [Arkadiev 2007].	Baronas I: 159
+StandardLithuanian_ROUND_1	Lithuanian	lith1251	lit	ROUND	ãpskritas	ɐ̌pʲsʲkrʲɪtɐs	ɐ̌ pʲ sʲ k rʲ ɪ t ɐ s	ɐ̌pʸ=sʸkrʸɪt-ɐs	ROUND_1	FALSE		Baronas I: 419
+StandardLithuanian_SAND_1	Lithuanian	lith1251	lit	SAND	smėlis	sʲmʲěːlʲɪs	sʲ mʲ ěː lʲ ɪ s	sʸmʸěːlʸ-ɪs	SAND_1	FALSE		Baronas II: 148
+StandardLithuanian_SAY_1	Lithuanian	lith1251	lit	SAY	sakýti	sɐkʲîːtʲɪ	s ɐ kʲ îː tʲ ɪ	sɐkʸ-îː-tʸɪ	SAY_1	FALSE		Baronas II: 419
+StandardLithuanian_SEE_1	Lithuanian	lith1251	lit	SEE	matýti	mɐtʲîːtʲɪ	m ɐ tʲ îː tʲ ɪ	mɐtʸ-îː-tʸɪ	SEE_1	FALSE	Distinct from žʸuːrʸ-êː-tʸɪ {žiūrė́ti} 'to look' [Baronas II: 439].	Baronas I: 98
+StandardLithuanian_SEED_1	Lithuanian	lith1251	lit	SEED	sė́kla	sʲêːkɫɐ	sʲ êː k ɫ ɐ	sʸêː-kɫ-ɐ	SEED_1	FALSE		Baronas II: 413
+StandardLithuanian_SIT_1	Lithuanian	lith1251	lit	SIT	sėdė́ti	sʲeːdʲêːtʲɪ	sʲ eː dʲ êː tʲ ɪ	sʸeːdʸ-êː-tʸɪ	SIT_1	FALSE	Distinct from sʸêːsʸ-tʸɪ {sė́sti} ~ sʸêːs-tʸɪ-s {sė́stis} 'to sit down' [Baronas II: 415].	Baronas II: 417
+StandardLithuanian_SKIN_1	Lithuanian	lith1251	lit	SKIN	óda	ôːdɐ	ôː d ɐ	ôːd-ɐ	SKIN_1	FALSE		Baronas I: 386
+StandardLithuanian_SLEEP_1	Lithuanian	lith1251	lit	SLEEP	miegóti	mʲjɛɡôːtʲɪ	mʲ j ɛ ɡ ôː tʲ ɪ	mʸyɛg-ôː-tʸɪ	SLEEP_1	FALSE		Baronas II: 460
+StandardLithuanian_SMALL_1	Lithuanian	lith1251	lit	SMALL	mãžas	mɐ̌ʒɐs	m ɐ̌ ʒ ɐ s	mɐ̌ž-ɐs	SMALL_1	FALSE		Baronas I: 453
+StandardLithuanian_SMOKE_1	Lithuanian	lith1251	lit	SMOKE	dū́mai	dûːmɐj	d ûː m ɐ j	dûːm-ɐy	SMOKE_1	FALSE		Baronas I: 237
+StandardLithuanian_STAND_1	Lithuanian	lith1251	lit	STAND	stovė́ti	stoːvʲêːtʲɪ	s t oː vʲ êː tʲ ɪ	stoːvʸ-êː-tʸɪ	STAND_1	FALSE	Distinct from ɐtʸ=sʸɪ=stôː-tʸɪ {atsistóti} 'to stand up' [Baronas I: 133].	Baronas II: 479
+StandardLithuanian_STAR_1	Lithuanian	lith1251	lit	STAR	žvaigždė	ʒvɐjɡʒʲdʲěː	ʒ v ɐ j ɡ ʒʲ dʲ ěː	žvɐygžʸdʸ-ěː	STAR_1	FALSE		Baronas I: 315
+StandardLithuanian_STONE_1	Lithuanian	lith1251	lit	STONE	akmuõ	ɐkmuə̌	ɐ k m u ə̌	ɐkmw	STONE_1	FALSE		Baronas I: 367
+StandardLithuanian_SUN_1	Lithuanian	lith1251	lit	SUN	sáulė	sɐ̂wlʲeː	s ɐ̂ w lʲ eː	sɐ̂wlʸ-eː	SUN_1	FALSE		Baronas II: 452
+StandardLithuanian_SWIM_1	Lithuanian	lith1251	lit	SWIM	plaũkti	pɫɐ̌wktʲɪ	p ɫ ɐ̌ w k tʲ ɪ	pɫɐ̌wk-tʸɪ	SWIM_1	FALSE	Iterative form is pɫɐ̂wkʸ-oː-tʸɪ {pláukioti}. Distinct from pɫɐwkʸ-îː-tʸɪ {plaukýti} 'to swim (iterative) / to float' and pɫǔːdʊrʸ-wɔ-tʸɪ {plūduriuoti} 'to float' [Arkadiev 2007].	Baronas I: 159
 StandardLithuanian_TAIL_1	Lithuanian	lith1251	lit	TAIL	uodegà	uədʲɛɡˈɐ	u ə dʲ ɛ ɡ ˈɐ	wɔdʸɛg-ˈɐ	TAIL_1	FALSE		Baronas II: 561-562
 StandardLithuanian_THAT_1	Lithuanian	lith1251	lit	THAT	anàs	ɐnˈɐs	ɐ n ˈɐ s	ɐn-ˈɐs	THAT_1	FALSE	The pronoun t-ˈɐs {tàs} is anaphoric [Baronas II: 507; Bulygina & Sinyova 2006: 121-122].	Baronas II: 507; Bulygina & Sinyova 2006: 121-122
 StandardLithuanian_THIS_1	Lithuanian	lith1251	lit	THIS	šìs	ʃʲɪs	ʃʲ ɪ s	šʸ-ɪs	THIS_1	FALSE		Baronas II: 606; Bulygina & Sinyova 2006: 121-122
 StandardLithuanian_THOU_1	Lithuanian	lith1251	lit	THOU	tù	tʊ	t ʊ	tʊ	THOU_1	FALSE	1997: 207. Paradigm: tʊ {tù} [nom.] / tɐv-ä̌ːs {tavę̃s} ~ tˈɐv-oː {tаvo} [gen.] / tɐ̂w {táu} [dat.] / tɐvʸ-ɛ {tavè} [acc.] / tɐvʸ-ɪmʸˈɪ {tavimì} [ins.] / tɐvʸ-iːyˈɛ {tavyjè} [loc.].	Baronas II: 515; Ambrazas et al
 StandardLithuanian_TONGUE_1	Lithuanian	lith1251	lit	TONGUE	liežùvis	lʲjɛʒˈʊvʲɪs	lʲ j ɛ ʒ ˈʊ vʲ ɪ s	lʸyɛžˈʊvʸ-ɪs	TONGUE_1	FALSE	Distinct from kɐɫb-ˈɐ {kalbà} 'language' [Baronas II: 608].	Baronas II: 608
 StandardLithuanian_TOOTH_1	Lithuanian	lith1251	lit	TOOTH	dantìs	danʲtʲˈɪs	d a nʲ tʲ ˈɪ s	danʸtʸ-ˈɪs	TOOTH_1	FALSE		Baronas I: 326
-StandardLithuanian_TREE_1	Lithuanian	lith1251	lit	TREE	mẽdis	mʲæ̌dʲɪs	mʲ æ ̌ dʲ ɪ s	mʸä̌dʸ-ɪs	TREE_1	FALSE	Polysemy: 'tree / wood'.	Baronas I: 206
+StandardLithuanian_TREE_1	Lithuanian	lith1251	lit	TREE	mẽdis	mʲæ̌dʲɪs	mʲ æ̌ dʲ ɪ s	mʸä̌dʸ-ɪs	TREE_1	FALSE	Polysemy: 'tree / wood'.	Baronas I: 206
 StandardLithuanian_TWO_1	Lithuanian	lith1251	lit	TWO	dù	dʊ	d ʊ	dʊ	TWO_1	FALSE		Baronas I: 198
-StandardLithuanian_WALK_1	Lithuanian	lith1251	lit	WALK	eĩti	êjtʲɪ	e ̂ j tʲ ɪ	y-tʸɪ	WALK_1	FALSE		Baronas I: 329-330
-StandardLithuanian_WARM_1	Lithuanian	lith1251	lit	WARM	šiltas	ʃʲǐɫtɐs	ʃʲ i ̌ ɫ t ɐ s	šʸǐɫt-ɐs	WARM_1	FALSE		Baronas II: 499
-StandardLithuanian_WATER_1	Lithuanian	lith1251	lit	WATER	vanduõ	vɐnduə̌	v ɐ n d u ə ̌	vɐndw	WATER_1	FALSE		Baronas I: 108
-StandardLithuanian_WE_1	Lithuanian	lith1251	lit	WE	mẽs	mʲæ̌s	mʲ æ ̌ s	mʸä̌s	WE_1	FALSE	1997: 207. Paradigm: mʸä̌s {mẽs} [nom.] / mûː-suː {mū́sų} [gen.] / mʊ-ms {mùms} [dat.] / mʊ-s {mùs} [acc.] / mʊ-mʸɪs {mumìs} [ins.] / mʊ-mʸiːsʸˈɛ {mumysè} [loc.].	Baronas I: 487; Ambrazas et al
+StandardLithuanian_WALK_1	Lithuanian	lith1251	lit	WALK	eĩti	êjtʲɪ	ê j tʲ ɪ	y-tʸɪ	WALK_1	FALSE		Baronas I: 329-330
+StandardLithuanian_WARM_1	Lithuanian	lith1251	lit	WARM	šiltas	ʃʲǐɫtɐs	ʃʲ ǐ ɫ t ɐ s	šʸǐɫt-ɐs	WARM_1	FALSE		Baronas II: 499
+StandardLithuanian_WATER_1	Lithuanian	lith1251	lit	WATER	vanduõ	vɐnduə̌	v ɐ n d u ə̌	vɐndw	WATER_1	FALSE		Baronas I: 108
+StandardLithuanian_WE_1	Lithuanian	lith1251	lit	WE	mẽs	mʲæ̌s	mʲ æ̌ s	mʸä̌s	WE_1	FALSE	1997: 207. Paradigm: mʸä̌s {mẽs} [nom.] / mûː-suː {mū́sų} [gen.] / mʊ-ms {mùms} [dat.] / mʊ-s {mùs} [acc.] / mʊ-mʸɪs {mumìs} [ins.] / mʊ-mʸiːsʸˈɛ {mumysè} [loc.].	Baronas I: 487; Ambrazas et al
 StandardLithuanian_WHAT_1	Lithuanian	lith1251	lit	WHAT	kàs	kɐs	k ɐ s	k-ɐs	WHAT_1	FALSE		Baronas II: 584
-StandardLithuanian_WHITE_1	Lithuanian	lith1251	lit	WHITE	báltas	bɐ̂ɫtɐs	b ɐ ̂ ɫ t ɐ s	bɐ̂ɫt-ɐs	WHITE_1	FALSE		Baronas I: 44
+StandardLithuanian_WHITE_1	Lithuanian	lith1251	lit	WHITE	báltas	bɐ̂ɫtɐs	b ɐ̂ ɫ t ɐ s	bɐ̂ɫt-ɐs	WHITE_1	FALSE		Baronas I: 44
 StandardLithuanian_WHO_1	Lithuanian	lith1251	lit	WHO	kàs	kɐs	k ɐ s	k-ɐs	WHO_1	FALSE		Baronas I: 422
-StandardLithuanian_WOMAN_1	Lithuanian	lith1251	lit	WOMAN	móteris	môːtʲɛrʲɪs	m o ̂ː tʲ ɛ rʲ ɪ s	môːtʸɛrʸ-ɪs	WOMAN_1	FALSE	Distinct from žmoːn-ˈɐ {žmonà} 'wife' [Baronas I: 246].	Baronas I: 246
-StandardLithuanian_YELLOW_1	Lithuanian	lith1251	lit	YELLOW	geltónas	ɡʲɛɫtôːnɐs	ɡʲ ɛ ɫ t o ̂ː n ɐ s	gʸɛɫt-ôːn-ɐs	YELLOW_1	FALSE		Baronas I: 245
+StandardLithuanian_WOMAN_1	Lithuanian	lith1251	lit	WOMAN	móteris	môːtʲɛrʲɪs	m ôː tʲ ɛ rʲ ɪ s	môːtʸɛrʸ-ɪs	WOMAN_1	FALSE	Distinct from žmoːn-ˈɐ {žmonà} 'wife' [Baronas I: 246].	Baronas I: 246
+StandardLithuanian_YELLOW_1	Lithuanian	lith1251	lit	YELLOW	geltónas	ɡʲɛɫtôːnɐs	ɡʲ ɛ ɫ t ôː n ɐ s	gʸɛɫt-ôːn-ɐs	YELLOW_1	FALSE		Baronas I: 245
 StandardLithuanian_FAR_1	Lithuanian	lith1251	lit	FAR	tolì	toːlʲɪ	t oː lʲ ɪ	toːlʸ-ɪ	FAR_1	FALSE		Baronas I: 196
 StandardLithuanian_HEAVY_1	Lithuanian	lith1251	lit	HEAVY	sunkùs	sʊŋkˈʊs	s ʊ ŋ k ˈʊ s	sʊŋk-ˈʊs	HEAVY_1	FALSE	Cf. also [LKA I: 192, map 114].	Baronas II: 517
 StandardLithuanian_NEAR_1	Lithuanian	lith1251	lit	NEAR	artì	ɐrʲtʲˈɪ	ɐ rʲ tʲ ˈɪ	ɐrʸtʸ-ˈɪ	NEAR_1	FALSE		Baronas I: 58
 StandardLithuanian_SALT_1	Lithuanian	lith1251	lit	SALT	druskà	drʊskˈɐ	d r ʊ s k ˈɐ	drʊsk-ˈɐ	SALT_1	FALSE		Baronas II: 452
-StandardLithuanian_SHORT_1	Lithuanian	lith1251	lit	SHORT	trum̃pas	trʊ̌mpɐs	t r ʊ ̌ m p ɐ s	trʊ̌mp-ɐs	SHORT_1	FALSE		Baronas I: 403-404
-StandardLithuanian_SNAKE_1	Lithuanian	lith1251	lit	SNAKE	gyvãtė	ɡʲiːvɐ̌tʲeː	ɡʲ iː v ɐ ̌ tʲ eː	gʸiːv-ɐ̌tʸ-eː	SNAKE_1	FALSE	Cf. also [LKA I: 152, map 80].	Baronas I: 322
-StandardLithuanian_THIN_1	Lithuanian	lith1251	lit	THIN	plónas	pɫôːnɐs	p ɫ o ̂ː n ɐ s	pɫôːn-ɐs	THIN_1	FALSE	We can probably discard tʸä̂v-ɐs {tvas} which means 'thin', but is dialectal [Lyberis 2001: 852]. The term lʸɐ̌wn-ɐs {liaũnas} means 'lithe / slender' [Lyberis 2001: 389], while lʸykn-ɐs {liẽknas} is 'slender' [Lyberis 2001: 390]. The word ɫɐ̂yb-ɐs {láibas} is applied only to round things [DLKŽ 1972: 352]. The word lʸyn-ɐs {leĩnas} is glossed as 'laibas, plonas' [DLKŽ 1972: 362], but in the corpus the form 'leinas' occurs only 10 times, while 'plonas' is attested 496 times [DLKT 2017], so we exclude it because of its low frequency.	Baronas provides a lot of different forms in the corresponding entry of the dictionary: {láibas}, {leĩnas}, {plónas}, {liaũnas}, {liẽknas}, {tvas} [Baronas II: 505]
-StandardLithuanian_WIND_1	Lithuanian	lith1251	lit	WIND	vė́jas	vʲêːjɛs	vʲ e ̂ː j ɛ s	vʸêːy-ɛs	WIND_1	FALSE		Baronas I: 91
-StandardLithuanian_WORM_1	Lithuanian	lith1251	lit	WORM	kirmėlė	kʲɪrʲmʲeːlʲěː	kʲ ɪ rʲ mʲ eː lʲ e ̌ː	kʸɪrʸmʸ-eːlʸ-ěː	WORM_1	FALSE	Distinct from sʸlʸyk-ɐs {slíekas} 'earthworm' [Baronas II: 578].	Baronas II: 578
-StandardLithuanian_YEAR_1	Lithuanian	lith1251	lit	YEAR	mẽtai	mʲæ̌tɐj	mʲ æ ̌ t ɐ j	mʸä̌t-ɐy	YEAR_1	FALSE	Plurale tantum.	Baronas I: 179
+StandardLithuanian_SHORT_1	Lithuanian	lith1251	lit	SHORT	trum̃pas	trʊ̌mpɐs	t r ʊ̌ m p ɐ s	trʊ̌mp-ɐs	SHORT_1	FALSE		Baronas I: 403-404
+StandardLithuanian_SNAKE_1	Lithuanian	lith1251	lit	SNAKE	gyvãtė	ɡʲiːvɐ̌tʲeː	ɡʲ iː v ɐ̌ tʲ eː	gʸiːv-ɐ̌tʸ-eː	SNAKE_1	FALSE	Cf. also [LKA I: 152, map 80].	Baronas I: 322
+StandardLithuanian_THIN_1	Lithuanian	lith1251	lit	THIN	plónas	pɫôːnɐs	p ɫ ôː n ɐ s	pɫôːn-ɐs	THIN_1	FALSE	We can probably discard tʸä̂v-ɐs {tvas} which means 'thin', but is dialectal [Lyberis 2001: 852]. The term lʸɐ̌wn-ɐs {liaũnas} means 'lithe / slender' [Lyberis 2001: 389], while lʸykn-ɐs {liẽknas} is 'slender' [Lyberis 2001: 390]. The word ɫɐ̂yb-ɐs {láibas} is applied only to round things [DLKŽ 1972: 352]. The word lʸyn-ɐs {leĩnas} is glossed as 'laibas, plonas' [DLKŽ 1972: 362], but in the corpus the form 'leinas' occurs only 10 times, while 'plonas' is attested 496 times [DLKT 2017], so we exclude it because of its low frequency.	Baronas provides a lot of different forms in the corresponding entry of the dictionary: {láibas}, {leĩnas}, {plónas}, {liaũnas}, {liẽknas}, {tvas} [Baronas II: 505]
+StandardLithuanian_WIND_1	Lithuanian	lith1251	lit	WIND	vė́jas	vʲêːjɛs	vʲ êː j ɛ s	vʸêːy-ɛs	WIND_1	FALSE		Baronas I: 91
+StandardLithuanian_WORM_1	Lithuanian	lith1251	lit	WORM	kirmėlė	kʲɪrʲmʲeːlʲěː	kʲ ɪ rʲ mʲ eː lʲ ěː	kʸɪrʸmʸ-eːlʸ-ěː	WORM_1	FALSE	Distinct from sʸlʸyk-ɐs {slíekas} 'earthworm' [Baronas II: 578].	Baronas II: 578
+StandardLithuanian_YEAR_1	Lithuanian	lith1251	lit	YEAR	mẽtai	mʲæ̌tɐj	mʲ æ̌ t ɐ j	mʸä̌t-ɐy	YEAR_1	FALSE	Plurale tantum.	Baronas I: 179
 StandardLatvian_ALL_1	Latvian	latv1249	lav	ALL	viss	visː	v i sː	visː	ALL_1	FALSE	Sinole dialect: visː {viss} [Putniņa & Timuška 2001: 276].	KLV 1988: 54; LVP 1995: 860
-StandardLatvian_ASH_1	Latvian	latv1249	lav	ASH	pèlni	pæ̌lni	p æ ̌ l n i	pä̌l-n-i	ASH_1	FALSE	Sinole dialect: pä̌lː-i {pę̀lli} [Putniņa & Timuška 2001: 167].	KLV 1988: 166, 337; LVP 1995: 588
+StandardLatvian_ASH_1	Latvian	latv1249	lav	ASH	pèlni	pæ̌lni	p æ̌ l n i	pä̌l-n-i	ASH_1	FALSE	Sinole dialect: pä̌lː-i {pę̀lli} [Putniņa & Timuška 2001: 167].	KLV 1988: 166, 337; LVP 1995: 588
 StandardLatvian_BARK_2	Latvian	latv1249	lav	BARK	miza	miza	m i z a	miz-a	BARK_2	FALSE	Sinole dialect: miz-a {miza} [Putniņa & Timuška 2001: 143].	KLV 1988: 203; LVP 1995: 463
-StandardLatvian_BELLY_2	Latvian	latv1249	lav	BELLY	vēdèrs	væ̂ːdæ̌rs	v æ ̂ː d æ ̌ r s	vä̂ːdä̌r-s	BELLY_2	FALSE	Sinole dialect: vä̂dä̌r-s {vę̂dę̀rs} [Putniņa & Timuška 2001: 266].	KLV 1988: 133; LVP 1995: 842
+StandardLatvian_BELLY_2	Latvian	latv1249	lav	BELLY	vēdèrs	væ̂ːdæ̌rs	v æ̂ː d æ̌ r s	vä̂ːdä̌r-s	BELLY_2	FALSE	Sinole dialect: vä̂dä̌r-s {vę̂dę̀rs} [Putniņa & Timuška 2001: 266].	KLV 1988: 133; LVP 1995: 842
 StandardLatvian_BIG_2	Latvian	latv1249	lav	BIG	liẽls	ljɛls	l j ɛ l s	lyl-s	BIG_2	FALSE	Sinole dialect: lyl-s ~ lǐl-s {lì(e)ls} [Putniņa & Timuška 2001: 121].	KLV 1988: 40; LVP 1995: 422
 StandardLatvian_BIRD_2	Latvian	latv1249	lav	BIRD	putns	putns	p u t n s	putn-s	BIRD_2	FALSE	Sinole dialect: putn-s {putns} [Putniņa & Timuška 2001: 186-187].	KLV 1988: 428; LVP 1995: 652
-StandardLatvian_BITE_1	Latvian	latv1249	lav	BITE	kôst	kuɔ̯̂st	k u ɔ̯ ̂ s t	kws-t	BITE_1	FALSE		KLV 1988: 214; LVP 1995: 387
+StandardLatvian_BITE_1	Latvian	latv1249	lav	BITE	kôst	kuɔ̯̂st	k u ɔ̯̂ s t	kws-t	BITE_1	FALSE		KLV 1988: 214; LVP 1995: 387
 StandardLatvian_BLACK_2	Latvian	latv1249	lav	BLACK	mèlns	mǣlns	m æ ̄ l n s	mǟln-s	BLACK_2	FALSE	Sinole dialect: mǟlː-s {mę̀lls} [Putniņa & Timuška 2001: 137].	KLV 1988: 564; LVP 1995: 448
-StandardLatvian_BLOOD_2	Latvian	latv1249	lav	BLOOD	asìns	asǐns	a s i ̌ n s	asǐn-s	BLOOD_2	FALSE		KLV 1988: 210; LVP 1995: 89
+StandardLatvian_BLOOD_2	Latvian	latv1249	lav	BLOOD	asìns	asǐns	a s ǐ n s	asǐn-s	BLOOD_2	FALSE		KLV 1988: 210; LVP 1995: 89
 StandardLatvian_BONE_1	Latvian	latv1249	lav	BONE	kaũls	kāwls	k a ̄ w l s	kāwl-s	BONE_1	FALSE	Sinole dialect: kǎwl-s {kàuls} [Putniņa & Timuška 2001: 86-87].	KLV 1988: 205-206; LVP 1995: 357
-StandardLatvian_BREAST_1	Latvian	latv1249	lav	BREAST	krūts	krǔːʦ	k r u ̌ː ʦ	krǔːc	BREAST_1	FALSE	Used for both male and female breast. Sinole dialect: krǔc {krùts} [Putniņa & Timuška 2001: 89].	KLV 1988: 105; LVP 1995: 396
-StandardLatvian_BREAST_1	Latvian	latv1249	lav	BREAST	krūtis	krǔːtis	k r u ̌ː t i s	krǔːt-is	BREAST_1	FALSE	Used for both male and female breast. Sinole dialect: krǔc {krùts} [Putniņa & Timuška 2001: 89].	KLV 1988: 105; LVP 1995: 396
-StandardLatvian_BURN_1	Latvian	latv1249	lav	BURN	dedzināt	dɛʣinâːt	d ɛ ʣ i n a ̂ː t	dɛʒ-in-âː-t	BURN_1	FALSE	Distinct from dɛk-t {degt} 'to burn (intransitive)' [KLV 1988: 101; LVP 1995: 167].	KLV 1988: 132; LVP 1995: 166
+StandardLatvian_BREAST_1	Latvian	latv1249	lav	BREAST	krūts	krǔːʦ	k r ǔː ʦ	krǔːc	BREAST_1	FALSE	Used for both male and female breast. Sinole dialect: krǔc {krùts} [Putniņa & Timuška 2001: 89].	KLV 1988: 105; LVP 1995: 396
+StandardLatvian_BREAST_1	Latvian	latv1249	lav	BREAST	krūtis	krǔːtis	k r ǔː t i s	krǔːt-is	BREAST_1	FALSE	Used for both male and female breast. Sinole dialect: krǔc {krùts} [Putniņa & Timuška 2001: 89].	KLV 1988: 105; LVP 1995: 396
+StandardLatvian_BURN_1	Latvian	latv1249	lav	BURN	dedzināt	dɛʣinâːt	d ɛ ʣ i n âː t	dɛʒ-in-âː-t	BURN_1	FALSE	Distinct from dɛk-t {degt} 'to burn (intransitive)' [KLV 1988: 101; LVP 1995: 167].	KLV 1988: 132; LVP 1995: 166
 StandardLatvian_FINGERNAIL_1	Latvian	latv1249	lav	FINGERNAIL	nags	naks	n a k s	nak-s	FINGERNAIL_1	FALSE	Sinole dialect: nak-s {nags} [Putniņa & Timuška 2001: 150].	KLV 1988: 280; LVP 1995: 473
-StandardLatvian_CLOUD_2	Latvian	latv1249	lav	CLOUD	mākônis	māːkuɔ̯̂nis	m a ̄ː k u ɔ̯ ̂ n i s	māːk-wn-is	CLOUD_2	FALSE	The dictionary provides two terms: {mākonis} and {padebesis} [KLV 1988: 285]. Searching the parallel corpus allows to see that {padebesis} is less frequent and usually designates a black cloud, e.g. {Melns padebesis zibsnīdams un dunēdams ātri brāzās pāri debgsīm} "A black cloud, droning and throwing lightings, was quickly covering the sky" (Zenta Ērgle. Starp mums, meitenēm, runājot). Distinct from migl-a {migla} 'fog' [KLV 1988: 528]. Sinole dialect: mǎːk-wn-is {màkùnis} [Putniņa & Timuška 2001: 133].	KLV 1988: 285; LVP 1995: 435
+StandardLatvian_CLOUD_2	Latvian	latv1249	lav	CLOUD	mākônis	māːkuɔ̯̂nis	m a ̄ː k u ɔ̯̂ n i s	māːk-wn-is	CLOUD_2	FALSE	The dictionary provides two terms: {mākonis} and {padebesis} [KLV 1988: 285]. Searching the parallel corpus allows to see that {padebesis} is less frequent and usually designates a black cloud, e.g. {Melns padebesis zibsnīdams un dunēdams ātri brāzās pāri debgsīm} "A black cloud, droning and throwing lightings, was quickly covering the sky" (Zenta Ērgle. Starp mums, meitenēm, runājot). Distinct from migl-a {migla} 'fog' [KLV 1988: 528]. Sinole dialect: mǎːk-wn-is {màkùnis} [Putniņa & Timuška 2001: 133].	KLV 1988: 285; LVP 1995: 435
 StandardLatvian_COLD_2	Latvian	latv1249	lav	COLD	aũksts	āwksʦ	a ̄ w k s ʦ	āwksc	COLD_2	FALSE	Sinole dialect: ǎwksc {àuksts} [Putniņa & Timuška 2001: 10].	KLV 1988: 558; LVP 1995: 110
 StandardLatvian_COME_2	Latvian	latv1249	lav	COME	atnākt	atnāːkt	a t n a ̄ː k t	at=nāːk-t	COME_2	FALSE		KLV 1988: 404; LVP 1995: 99
 StandardLatvian_DIE_1	Latvian	latv1249	lav	DIE	mir̃t	mīrt	m i ̄ r t	mīr-t	DIE_1	FALSE		KLV 1988: 539; LVP 1995: 462, 505
-StandardLatvian_DIE_1	Latvian	latv1249	lav	DIE	nòmir̃t	nuɔ̯̌mīrt	n u ɔ̯ ̌ m i ̄ r t	nw=mīr-t	DIE_1	FALSE		KLV 1988: 539; LVP 1995: 462, 505
-StandardLatvian_DOG_1	Latvian	latv1249	lav	DOG	sùns	sǔns	s u ̌ n s	sǔn-s	DOG_1	FALSE		_x0015_Sinole dialect: sǔn-s {sùns} [Putniņa & Timuška 2001: 226-229]
-StandardLatvian_DRINK_1	Latvian	latv1249	lav	DRINK	dzêrt	ʣêrt	ʣ e ̂ r t	ʒr-t	DRINK_1	FALSE		KLV 1988: 352; LVP 1995: 198
-StandardLatvian_DRY_1	Latvian	latv1249	lav	DRY	sàuss	sǎwsː	s a ̌ w sː	sǎwsː	DRY_1	FALSE	Sinole dialect: sǎwsː {sàuss} [Putniņa & Timuška 2001: 202].	KLV 1988: 512; LVP 1995: 712
-StandardLatvian_EAR_1	Latvian	latv1249	lav	EAR	àuss	ǎwsː	a ̌ w sː	ǎwsː	EAR_1	FALSE	Sinole dialect: ǎwsː {àuss} [Putniņa & Timuška 2001: 11-12].	KLV 1988: 548; LVP 1995: 111
+StandardLatvian_DIE_1	Latvian	latv1249	lav	DIE	nòmir̃t	nuɔ̯̌mīrt	n u ɔ̯̌ m i ̄ r t	nw=mīr-t	DIE_1	FALSE		KLV 1988: 539; LVP 1995: 462, 505
+StandardLatvian_DOG_1	Latvian	latv1249	lav	DOG	sùns	sǔns	s ǔ n s	sǔn-s	DOG_1	FALSE		_x0015_Sinole dialect: sǔn-s {sùns} [Putniņa & Timuška 2001: 226-229]
+StandardLatvian_DRINK_1	Latvian	latv1249	lav	DRINK	dzêrt	ʣêrt	ʣ ê r t	ʒr-t	DRINK_1	FALSE		KLV 1988: 352; LVP 1995: 198
+StandardLatvian_DRY_1	Latvian	latv1249	lav	DRY	sàuss	sǎwsː	s ǎ w sː	sǎwsː	DRY_1	FALSE	Sinole dialect: sǎwsː {sàuss} [Putniņa & Timuška 2001: 202].	KLV 1988: 512; LVP 1995: 712
+StandardLatvian_EAR_1	Latvian	latv1249	lav	EAR	àuss	ǎwsː	ǎ w sː	ǎwsː	EAR_1	FALSE	Sinole dialect: ǎwsː {àuss} [Putniņa & Timuška 2001: 11-12].	KLV 1988: 548; LVP 1995: 111
 StandardLatvian_EARTH_1	Latvian	latv1249	lav	EARTH	zeme	zɛmɛ	z ɛ m ɛ	zɛm-ɛ	EARTH_1	FALSE	Sinole dialect: zɛm-ɛ {zeme} [Putniņa & Timuška 2001: 280].	KLV 1988: 164; LVP 1995: 866
-StandardLatvian_EAT_2	Latvian	latv1249	lav	EAT	ēst	êːst	e ̂ː s t	ːs-t	EAT_2	FALSE	Sinole dialect: s-t {êst} [Putniņa & Timuška 2001: 54].	KLV 1988: 129-130; LVP 1995: 218
+StandardLatvian_EAT_2	Latvian	latv1249	lav	EAT	ēst	êːst	êː s t	ːs-t	EAT_2	FALSE	Sinole dialect: s-t {êst} [Putniņa & Timuška 2001: 54].	KLV 1988: 129-130; LVP 1995: 218
 StandardLatvian_EGG_2	Latvian	latv1249	lav	EGG	õla	uɔ̯la	u ɔ̯ l a	wl-a	EGG_2	FALSE	Sinole dialect: pǎwc {pàuts} 'egg / testicle' [Putniņa & Timuška 2001: 166].	KLV 1988: 579; LVP 1995: 526
 StandardLatvian_EYE_1	Latvian	latv1249	lav	EYE	acs	aʦː	a ʦː	acː	EYE_1	FALSE	Sinole dialect: acː {acs} [Putniņa & Timuška 2001: 1-2].	KLV 1988: 97; LVP 1995: 39
-StandardLatvian_FAT_2	Latvian	latv1249	lav	FAT	tàuki	tǎwki	t a ̌ w k i	tǎwk-i	FAT_2	FALSE	Plurale tantum. Sinole dialect: tǎwk-i {tàuki} [Putniņa & Timuška 2001: 243].	KLV 1988: 134; LVP 1995: 793
+StandardLatvian_FAT_2	Latvian	latv1249	lav	FAT	tàuki	tǎwki	t ǎ w k i	tǎwk-i	FAT_2	FALSE	Plurale tantum. Sinole dialect: tǎwk-i {tàuki} [Putniņa & Timuška 2001: 243].	KLV 1988: 134; LVP 1995: 793
 StandardLatvian_FEATHER_2	Latvian	latv1249	lav	FEATHER	spalva	spālva	s p a ̄ l v a	spālv-a	FEATHER_2	FALSE	Distinct from pūːk-as {pūkas} (pl.) of Slavic origin and dūːn-as {dūnas} (pl.) [KLV 1988: 430; LVP 1995: 195] of German origin, both mean 'down'. Sinole dialect: spǎlv-a {spàlva} [Putniņa & Timuška 2001: 214].	KLV 1988: 349; LVP 1995: 751
-StandardLatvian_FIRE_1	Latvian	latv1249	lav	FIRE	ugùns	uɡǔns	u ɡ u ̌ n s	ugǔn-s	FIRE_1	FALSE	Sinole dialect: gǔn-s {gùns} ~ ugǔn-s {ugùns} [Putniņa & Timuška 2001: 67; 251-252].	KLV 1988: 298-299; LVP 1995: 820
-StandardLatvian_FISH_1	Latvian	latv1249	lav	FISH	zìvs	zǐws	z i ̌ w s	zǐw-s	FISH_1	FALSE	Sinole dialect: zuw-s {zuvs} [Putniņa & Timuška 2001: 286].	KLV 1988: 463; LVP 1995: 870
-StandardLatvian_FLY_3	Latvian	latv1249	lav	FLY	lidôt	liduɔ̯̂t	l i d u ɔ̯ ̂ t	lid-w-t	FLY_3	FALSE		KLV 1988: 219; LVP 1995: 419
+StandardLatvian_FIRE_1	Latvian	latv1249	lav	FIRE	ugùns	uɡǔns	u ɡ ǔ n s	ugǔn-s	FIRE_1	FALSE	Sinole dialect: gǔn-s {gùns} ~ ugǔn-s {ugùns} [Putniņa & Timuška 2001: 67; 251-252].	KLV 1988: 298-299; LVP 1995: 820
+StandardLatvian_FISH_1	Latvian	latv1249	lav	FISH	zìvs	zǐws	z ǐ w s	zǐw-s	FISH_1	FALSE	Sinole dialect: zuw-s {zuvs} [Putniņa & Timuška 2001: 286].	KLV 1988: 463; LVP 1995: 870
+StandardLatvian_FLY_3	Latvian	latv1249	lav	FLY	lidôt	liduɔ̯̂t	l i d u ɔ̯̂ t	lid-w-t	FLY_3	FALSE		KLV 1988: 219; LVP 1995: 419
 StandardLatvian_FOOT_1	Latvian	latv1249	lav	FOOT	kāja	kāːja	k a ̄ː j a	kāːy-a	FOOT_1	FALSE	Polysemy: 'foot / leg'. Sinole dialect: kǎːy-a {kàja} [Putniņa & Timuška 2001: 78].	KLV 1988: 280; LVP 1995: 344
 StandardLatvian_FULL_1	Latvian	latv1249	lav	FULL	pilns	pīlns	p i ̄ l n s	pīln-s	FULL_1	FALSE	Sinole dialect: pǐlː-s {pìlls} [Putniņa & Timuška 2001: 172].	KLV 1988: 375; LVP 1995: 609
-StandardLatvian_GIVE_1	Latvian	latv1249	lav	GIVE	dôt	duɔ̯̂t	d u ɔ̯ ̂ t	dw-t	GIVE_1	FALSE	The prefixed variant y=dw-t {ìedôt} ~ y=dw-t {iedõt} is used as well [KLV 1988: 108; LVP 1995: 276].	KLV 1988: 108; LVP 1995: 189
+StandardLatvian_GIVE_1	Latvian	latv1249	lav	GIVE	dôt	duɔ̯̂t	d u ɔ̯̂ t	dw-t	GIVE_1	FALSE	The prefixed variant y=dw-t {ìedôt} ~ y=dw-t {iedõt} is used as well [KLV 1988: 108; LVP 1995: 276].	KLV 1988: 108; LVP 1995: 189
 StandardLatvian_GIVE_1	Latvian	latv1249	lav	GIVE	dõt	duɔ̯t	d u ɔ̯ t	dw-t	GIVE_1	FALSE	The prefixed variant y=dw-t {ìedôt} ~ y=dw-t {iedõt} is used as well [KLV 1988: 108; LVP 1995: 276].	KLV 1988: 108; LVP 1995: 189
 StandardLatvian_GOOD_2	Latvian	latv1249	lav	GOOD	labs	laps	l a p s	lap-s	GOOD_2	FALSE	Sinole dialect: lap-s {labs} [Putniņa & Timuška 2001: 110].	KLV 1988: 558; LVP 1995: 409
-StandardLatvian_GREEN_1	Latvian	latv1249	lav	GREEN	zàļš	zǎʎʃ	z a ̌ ʎ ʃ	zǎʎ-š	GREEN_1	FALSE		KLV 1988: 164; LVP 1995: 864
+StandardLatvian_GREEN_1	Latvian	latv1249	lav	GREEN	zàļš	zǎʎʃ	z ǎ ʎ ʃ	zǎʎ-š	GREEN_1	FALSE		KLV 1988: 164; LVP 1995: 864
 StandardLatvian_HAIR_2	Latvian	latv1249	lav	HAIR	mats	maʦ	m a ʦ	mac	HAIR_2	FALSE	Distinct from spālv-a {spalva} 'feather / animal hair' [KLV 1988: 69]. Sinole dialect: mac {mats} [Putniņa & Timuška 2001: 135].	KLV 1988: 69; LVP 1995: 442
-StandardLatvian_HAND_1	Latvian	latv1249	lav	HAND	ròka	ruɔ̯̌ka	r u ɔ̯ ̌ k a	rwk-a	HAND_1	FALSE	Polysemy: 'hand / arm'.	KLV 1988: 462; LVP 1995: 677
-StandardLatvian_HEAD_1	Latvian	latv1249	lav	HEAD	galva	ɡâlva	ɡ a ̂ l v a	gâlv-a	HEAD_1	FALSE	Sinole dialect: gâlv-a {galva} [Putniņa & Timuška 2001: 57-58].	KLV 1988: 100; LVP 1995: 237
-StandardLatvian_HEAR_1	Latvian	latv1249	lav	HEAR	dzìrdēt	ʣǐrdêːt	ʣ i ̌ r d e ̂ː t	ʒǐrd-ː-t	HEAR_1	FALSE	Distinct from klāws-îː-ty-s {klaũsītiês} 'to listen' [KLV 1988: 486; LVP 1995: 363].	KLV 1988: 486; LVP 1995: 200
-StandardLatvian_HEART_1	Latvian	latv1249	lav	HEART	sir̂ds	sîrʦ	s i ̂ r ʦ	sîrc	HEART_1	FALSE	Sinole dialect: sîrc {sir̂ds} [Putniņa & Timuška 2001: 205-206].	KLV 1988: 476; LVP 1995: 731
+StandardLatvian_HAND_1	Latvian	latv1249	lav	HAND	ròka	ruɔ̯̌ka	r u ɔ̯̌ k a	rwk-a	HAND_1	FALSE	Polysemy: 'hand / arm'.	KLV 1988: 462; LVP 1995: 677
+StandardLatvian_HEAD_1	Latvian	latv1249	lav	HEAD	galva	ɡâlva	ɡ â l v a	gâlv-a	HEAD_1	FALSE	Sinole dialect: gâlv-a {galva} [Putniņa & Timuška 2001: 57-58].	KLV 1988: 100; LVP 1995: 237
+StandardLatvian_HEAR_1	Latvian	latv1249	lav	HEAR	dzìrdēt	ʣǐrdêːt	ʣ ǐ r d êː t	ʒǐrd-ː-t	HEAR_1	FALSE	Distinct from klāws-îː-ty-s {klaũsītiês} 'to listen' [KLV 1988: 486; LVP 1995: 363].	KLV 1988: 486; LVP 1995: 200
+StandardLatvian_HEART_1	Latvian	latv1249	lav	HEART	sir̂ds	sîrʦ	s î r ʦ	sîrc	HEART_1	FALSE	Sinole dialect: sîrc {sir̂ds} [Putniņa & Timuška 2001: 205-206].	KLV 1988: 476; LVP 1995: 731
 StandardLatvian_HORN_1	Latvian	latv1249	lav	HORN	rags	raks	r a k s	rak-s	HORN_1	FALSE	Sinole dialect: rak-s {rags} [Putniņa & Timuška 2001: 189].	KLV 1988: 459-460; LVP 1995: 656
 StandardLatvian_I_1	Latvian	latv1249	lav	I	es	ɛs	ɛ s	ɛs	I_1	FALSE	Paradigm: ɛs {es} [nom.] / man-is {manis} [gen.] / mǎn {màn} [dat.] / man-i {mani} [acc.] / man-īː {manī} [ins.].	KLV 1988: 578; LVP 1995: 218; Staltmane 2006: 180
 StandardLatvian_I_2	Latvian	latv1249	lav	I	mani	mani	m a n i	man-i	I_2	FALSE		Accusative stem
-StandardLatvian_KILL_2	Latvian	latv1249	lav	KILL	nògalināt	nuɔ̯̌ɡalinâːt	n u ɔ̯ ̌ ɡ a l i n a ̂ː t	nw=gal-in-âː-t	KILL_2	FALSE		KLV 1988: 532; LVP 1995: 498
+StandardLatvian_KILL_2	Latvian	latv1249	lav	KILL	nògalināt	nuɔ̯̌ɡalinâːt	n u ɔ̯̌ ɡ a l i n âː t	nw=gal-in-âː-t	KILL_2	FALSE		KLV 1988: 532; LVP 1995: 498
 StandardLatvian_KNEE_1	Latvian	latv1249	lav	KNEE	celis	ʦɛlis	ʦ ɛ l i s	cɛl-is	KNEE_1	FALSE		KLV 1988: 197; LVP 1995: 146
-StandardLatvian_KNOW_1	Latvian	latv1249	lav	KNOW	zināt	zinâːt	z i n a ̂ː t	zin-âː-t	KNOW_1	FALSE		KLV 1988: 166; LVP 1995: 869
+StandardLatvian_KNOW_1	Latvian	latv1249	lav	KNOW	zināt	zinâːt	z i n âː t	zin-âː-t	KNOW_1	FALSE		KLV 1988: 166; LVP 1995: 869
 StandardLatvian_LEAF_1	Latvian	latv1249	lav	LEAF	lapa	lapːa	l a pː a	lapː-a	LEAF_1	FALSE	Sinole dialect: lapː-a {lapa} [Putniņa & Timuška 2001: 114-115].	KLV 1988: 221; LVP 1995: 412
-StandardLatvian_LIE_1	Latvian	latv1249	lav	LIE	gulēt	ɡulêːt	ɡ u l e ̂ː t	gul-ː-t	LIE_1	FALSE	Polysemy: 'to lie / to sleep'. Distinct from nw=gūl-ty-s {nògultiês} 'to lie down' [KLV 1988: 219; LVP 1995: 499].	KLV 1988: 217; LVP 1995: 255
+StandardLatvian_LIE_1	Latvian	latv1249	lav	LIE	gulēt	ɡulêːt	ɡ u l êː t	gul-ː-t	LIE_1	FALSE	Polysemy: 'to lie / to sleep'. Distinct from nw=gūl-ty-s {nògultiês} 'to lie down' [KLV 1988: 219; LVP 1995: 499].	KLV 1988: 217; LVP 1995: 255
 StandardLatvian_LIVER_2	Latvian	latv1249	lav	LIVER	aknas	aknas	a k n a s	akn-as	LIVER_2	FALSE	Plurale tantum. Sinole dialect: akn-as {aknas} [Putniņa & Timuška 2001: 5].	KLV 1988: 350; LVP 1995: 56
-StandardLatvian_LONG_2	Latvian	latv1249	lav	LONG	gàrš	ɡǎrʃ	ɡ a ̌ r ʃ	gǎrš	LONG_2	FALSE	Sinole dialect: gǎrs {gàrs} [Putniņa & Timuška 2001: 60].	KLV 1988: 116; LVP 1995: 241
+StandardLatvian_LONG_2	Latvian	latv1249	lav	LONG	gàrš	ɡǎrʃ	ɡ ǎ r ʃ	gǎrš	LONG_2	FALSE	Sinole dialect: gǎrs {gàrs} [Putniņa & Timuška 2001: 60].	KLV 1988: 116; LVP 1995: 241
 StandardLatvian_LOUSE_1	Latvian	latv1249	lav	LOUSE	uts	uʦ	u ʦ	uc	LOUSE_1	FALSE	Sinole dialect: uc {uts} ~ ut-ɛ {ute}, skut-ɛl-ɛ {skutele} [Putniņa & Timuška 2001: 255-256; 209].	KLV 1988: 72; LVP 1995: 824
 StandardLatvian_MAN_1	Latvian	latv1249	lav	MAN	vīrs	vīːrs	v i ̄ː r s	vīːr-s	MAN_1	FALSE	The term vīːr-s {vīrs} is used in the meaning 'husband' as well [KLV 1988: 243].	KLV 1988: 243; LVP 1995: 857, 858
 StandardLatvian_MAN_1	Latvian	latv1249	lav	MAN	vīriẽtis	vīːrjɛtis	v i ̄ː r j ɛ t i s	vīːr-yt-is	MAN_1	FALSE	The term vīːr-s {vīrs} is used in the meaning 'husband' as well [KLV 1988: 243].	KLV 1988: 243; LVP 1995: 857, 858
 StandardLatvian_MANY_1	Latvian	latv1249	lav	MANY	daũdz	dāwʣ	d a ̄ w ʣ	dāwʒ	MANY_1	FALSE		KLV 1988: 238; LVP 1995: 162
 StandardLatvian_MEAT_1	Latvian	latv1249	lav	MEAT	gaļa	ɡaʎa	ɡ a ʎ a	gaʎ-a	MEAT_1	FALSE	Sinole dialect: gaʎ-a {gaļa} [Putniņa & Timuška 2001: 59].	KLV 1988: 245; LVP 1995: 238
 StandardLatvian_MOON_1	Latvian	latv1249	lav	MOON	mēness	mɛːnɛsː	m ɛː n ɛ sː	mːnɛsː	MOON_1	FALSE	Distinct from mːnɛs-is {mēnesis} 'month' [KLV 1988: 234; LVP 1995: 449]. Sinole dialect: mːnɛs-is {mènesis} [Putniņa & Timuška 2001: 137].	KLV 1988: 224; LVP 1995: 449
-StandardLatvian_MOUNTAIN_1	Latvian	latv1249	lav	MOUNTAIN	kalns	kâlns	k a ̂ l n s	kâln-s	MOUNTAIN_1	FALSE	Sinole dialect: kâlː-s {kalls} [Putniņa & Timuška 2001: 81-82].	KLV 1988: 101; LVP 1995: 345
+StandardLatvian_MOUNTAIN_1	Latvian	latv1249	lav	MOUNTAIN	kalns	kâlns	k â l n s	kâln-s	MOUNTAIN_1	FALSE	Sinole dialect: kâlː-s {kalls} [Putniņa & Timuška 2001: 81-82].	KLV 1988: 101; LVP 1995: 345
 StandardLatvian_MOUTH_2	Latvian	latv1249	lav	MOUTH	mute	mutːɛ	m u tː ɛ	mutː-ɛ	MOUTH_2	FALSE	Sinole dialect: mutː-ɛ {mute} [Putniņa & Timuška 2001: 147-148].	KLV 1988: 461-462; LVP 1995: 471
-StandardLatvian_NAME_1	Latvian	latv1249	lav	NAME	vārds	vǎːrʦ	v a ̌ː r ʦ	vǎːrc	NAME_1	FALSE		KLV 1988: 176; LVP 1995: 838
+StandardLatvian_NAME_1	Latvian	latv1249	lav	NAME	vārds	vǎːrʦ	v ǎː r ʦ	vǎːrc	NAME_1	FALSE		KLV 1988: 176; LVP 1995: 838
 StandardLatvian_NECK_1	Latvian	latv1249	lav	NECK	kakls	kakls	k a k l s	kakl-s	NECK_1	FALSE	Sinole dialect: kakl-s {kakls} [Putniņa & Timuška 2001: 78].	KLV 1988: 570; LVP 1995: 344
-StandardLatvian_NEW_2	Latvian	latv1249	lav	NEW	jaûns	jâwns	j a ̂ w n s	yâwn-s	NEW_2	FALSE	Sinole dialect: yâwn-s {jaûns} [Putniņa & Timuška 2001: 75-76].	KLV 1988: 280; LVP 1995: 338
+StandardLatvian_NEW_2	Latvian	latv1249	lav	NEW	jaûns	jâwns	j â w n s	yâwn-s	NEW_2	FALSE	Sinole dialect: yâwn-s {jaûns} [Putniņa & Timuška 2001: 75-76].	KLV 1988: 280; LVP 1995: 338
 StandardLatvian_NIGHT_1	Latvian	latv1249	lav	NIGHT	nakts	nakʦ	n a k ʦ	nakc	NIGHT_1	FALSE	Sinole dialect: nakc {nakts} [Putniņa & Timuška 2001: 150].	KLV 1988: 281; LVP 1995: 474
-StandardLatvian_NOSE_2	Latvian	latv1249	lav	NOSE	degùns	dæɡǔns	d æ ɡ u ̌ n s	dägǔn-s	NOSE_2	FALSE	Sinole dialect: dägǔn-s {dęgùns} [Putniņa & Timuška 2001: 40].	KLV 1988: 280; LVP 1995: 167
+StandardLatvian_NOSE_2	Latvian	latv1249	lav	NOSE	degùns	dæɡǔns	d æ ɡ ǔ n s	dägǔn-s	NOSE_2	FALSE	Sinole dialect: dägǔn-s {dęgùns} [Putniņa & Timuška 2001: 40].	KLV 1988: 280; LVP 1995: 167
 StandardLatvian_NOT_1	Latvian	latv1249	lav	NOT	ne	nɛ	n ɛ	nɛ	NOT_1	FALSE		KLV 1988: 266; LVP 1995: 476
-StandardLatvian_ONE_1	Latvian	latv1249	lav	ONE	viêns	vjêns	v j e ̂ n s	vyn-s	ONE_1	FALSE	Sinole dialect: vyn-s {viêns} [Putniņa & Timuška 2001: 272].	KLV 1988: 300; LVP 1995: 853
-StandardLatvian_PERSON_-1	Latvian	latv1249	lav	PERSON	cìlvēks	ʦǐlvǣːks	ʦ i ̌ l v æ ̄ː k s	cǐlvǟːk-s	PERSON_-1	TRUE	Of Slavic origin. Sinole dialect: cǐlvä̌ːk-s {cìlvę̀ks} [Putniņa & Timuška 2001: 31].	KLV 1988: 563; LVP 1995: 151
-StandardLatvian_RAIN_1	Latvian	latv1249	lav	RAIN	liêtus	ljêtus	l j e ̂ t u s	lyt-us	RAIN_1	FALSE	Sinole dialect: lyt-s {liêts} [Putniņa & Timuška 2001: 122].	KLV 1988: 119; LVP 1995: 422
-StandardLatvian_RED_2	Latvian	latv1249	lav	RED	sar̂kàns	sârkǎns	s a ̂ r k a ̌ n s	sârk-ǎn-s	RED_2	FALSE	Sinole dialect: sârk-ǎn-s {sar̂kàns} [Putniņa & Timuška 2001: 200].	KLV 1988: 207; LVP 1995: 703
-StandardLatvian_PATH OR ROAD_1	Latvian	latv1249	lav	PATH OR ROAD	cèļš	ʦěʎʃ	ʦ e ̌ ʎ ʃ	cʎ-š	PATH OR ROAD_1	FALSE	Sinole dialect: cʎ-š {cèļš} [Putniņa & Timuška 2001: 29].	KLV 1988: 122; LVP 1995: 146
+StandardLatvian_ONE_1	Latvian	latv1249	lav	ONE	viêns	vjêns	v j ê n s	vyn-s	ONE_1	FALSE	Sinole dialect: vyn-s {viêns} [Putniņa & Timuška 2001: 272].	KLV 1988: 300; LVP 1995: 853
+StandardLatvian_PERSON_-1	Latvian	latv1249	lav	PERSON	cìlvēks	ʦǐlvǣːks	ʦ ǐ l v æ ̄ː k s	cǐlvǟːk-s	PERSON_-1	TRUE	Of Slavic origin. Sinole dialect: cǐlvä̌ːk-s {cìlvę̀ks} [Putniņa & Timuška 2001: 31].	KLV 1988: 563; LVP 1995: 151
+StandardLatvian_RAIN_1	Latvian	latv1249	lav	RAIN	liêtus	ljêtus	l j ê t u s	lyt-us	RAIN_1	FALSE	Sinole dialect: lyt-s {liêts} [Putniņa & Timuška 2001: 122].	KLV 1988: 119; LVP 1995: 422
+StandardLatvian_RED_2	Latvian	latv1249	lav	RED	sar̂kàns	sârkǎns	s â r k ǎ n s	sârk-ǎn-s	RED_2	FALSE	Sinole dialect: sârk-ǎn-s {sar̂kàns} [Putniņa & Timuška 2001: 200].	KLV 1988: 207; LVP 1995: 703
+StandardLatvian_PATH OR ROAD_1	Latvian	latv1249	lav	PATH OR ROAD	cèļš	ʦěʎʃ	ʦ ě ʎ ʃ	cʎ-š	PATH OR ROAD_1	FALSE	Sinole dialect: cʎ-š {cèļš} [Putniņa & Timuška 2001: 29].	KLV 1988: 122; LVP 1995: 146
 StandardLatvian_ROOT_1	Latvian	latv1249	lav	ROOT	sakne	saknɛ	s a k n ɛ	sakn-ɛ	ROOT_1	FALSE		KLV 1988: 203; LVP 1995: 692
-StandardLatvian_ROUND_2	Latvian	latv1249	lav	ROUND	apàļš	apǎʎʃ	a p a ̌ ʎ ʃ	ap=ǎʎ-š	ROUND_2	FALSE		KLV 1988: 210; LVP 1995: 68
-StandardLatvian_SAND_1	Latvian	latv1249	lav	SAND	smìltis	smǐltis	s m i ̌ l t i s	smǐlt-is	SAND_1	FALSE	Plural form. Sinole dialect: smǐlc {smìlts} [Putniņa & Timuška 2001: 213].	KLV 1988: 349; LVP 1995: 747
-StandardLatvian_SAY_1	Latvian	latv1249	lav	SAY	sacīt	saʦîːt	s a ʦ i ̂ː t	sac-îː-t	SAY_1	FALSE	There are two terms for 'to say': sac-îː-t {sacīt} and tyk-t {teikt}. Due to rather subtle semantic differences between the two, we have decided to include both into the list.	KLV 1988: 479; LVP 1995: 685
-StandardLatvian_SAY_2	Latvian	latv1249	lav	SAY	tèikt	tějkt	t e ̌ j k t	tyk-t	SAY_2	FALSE		KLV 1988: 479; LVP 1995: 794
-StandardLatvian_SEE_2	Latvian	latv1249	lav	SEE	redzēt	rɛʣêːt	r ɛ ʣ e ̂ː t	rɛʒ-ː-t	SEE_2	FALSE	Distinct from skat-îːt-y-s {skatītiês} 'to look' [KLV 1988: 488; LVP 1995: 735]. Sinole dialect: rɛʒ-ː-t {redzêt} [Putniņa & Timuška 2001: 191].	KLV 1988: 58; LVP 1995: 662
+StandardLatvian_ROUND_2	Latvian	latv1249	lav	ROUND	apàļš	apǎʎʃ	a p ǎ ʎ ʃ	ap=ǎʎ-š	ROUND_2	FALSE		KLV 1988: 210; LVP 1995: 68
+StandardLatvian_SAND_1	Latvian	latv1249	lav	SAND	smìltis	smǐltis	s m ǐ l t i s	smǐlt-is	SAND_1	FALSE	Plural form. Sinole dialect: smǐlc {smìlts} [Putniņa & Timuška 2001: 213].	KLV 1988: 349; LVP 1995: 747
+StandardLatvian_SAY_1	Latvian	latv1249	lav	SAY	sacīt	saʦîːt	s a ʦ îː t	sac-îː-t	SAY_1	FALSE	There are two terms for 'to say': sac-îː-t {sacīt} and tyk-t {teikt}. Due to rather subtle semantic differences between the two, we have decided to include both into the list.	KLV 1988: 479; LVP 1995: 685
+StandardLatvian_SAY_2	Latvian	latv1249	lav	SAY	tèikt	tějkt	t ě j k t	tyk-t	SAY_2	FALSE		KLV 1988: 479; LVP 1995: 794
+StandardLatvian_SEE_2	Latvian	latv1249	lav	SEE	redzēt	rɛʣêːt	r ɛ ʣ êː t	rɛʒ-ː-t	SEE_2	FALSE	Distinct from skat-îːt-y-s {skatītiês} 'to look' [KLV 1988: 488; LVP 1995: 735]. Sinole dialect: rɛʒ-ː-t {redzêt} [Putniņa & Timuška 2001: 191].	KLV 1988: 58; LVP 1995: 662
 StandardLatvian_SEED_1	Latvian	latv1249	lav	SEED	sēkla	sǣːkla	s æ ̄ː k l a	sǟː-kl-a	SEED_1	FALSE	Sinole dialect: sǎː-kl-ɛ {sàkle} [Putniņa & Timuška 2001: IX].	KLV 1988: 476; LVP 1995: 717
-StandardLatvian_SIT_1	Latvian	latv1249	lav	SIT	sēdēt	sêːdêːt	s e ̂ː d e ̂ː t	sːd-ː-t	SIT_1	FALSE	Distinct from ap=sːs-ty-s {apsēstiês} and nw=sːs-ty-s {nòsēstiês} 'to sit down' [KLV 1988: 477; LVP 1995: 79, 510].	KLV 1988: 478; LVP 1995: 716
-StandardLatvian_SKIN_1	Latvian	latv1249	lav	SKIN	āda	âːda	a ̂ː d a	âːd-a	SKIN_1	FALSE	Sinole dialect: âːd-a {âda} [Putniņa & Timuška 2001: 2].	KLV 1988: 196; LVP 1995: 40
-StandardLatvian_SLEEP_2	Latvian	latv1249	lav	SLEEP	gulēt	ɡulêːt	ɡ u l e ̂ː t	gul-ː-t	SLEEP_2	FALSE	Polysemy: 'to lie / to sleep'.	KLV 1988: 497-498; LVP 1995: 255
+StandardLatvian_SIT_1	Latvian	latv1249	lav	SIT	sēdēt	sêːdêːt	s êː d êː t	sːd-ː-t	SIT_1	FALSE	Distinct from ap=sːs-ty-s {apsēstiês} and nw=sːs-ty-s {nòsēstiês} 'to sit down' [KLV 1988: 477; LVP 1995: 79, 510].	KLV 1988: 478; LVP 1995: 716
+StandardLatvian_SKIN_1	Latvian	latv1249	lav	SKIN	āda	âːda	âː d a	âːd-a	SKIN_1	FALSE	Sinole dialect: âːd-a {âda} [Putniņa & Timuška 2001: 2].	KLV 1988: 196; LVP 1995: 40
+StandardLatvian_SLEEP_2	Latvian	latv1249	lav	SLEEP	gulēt	ɡulêːt	ɡ u l êː t	gul-ː-t	SLEEP_2	FALSE	Polysemy: 'to lie / to sleep'.	KLV 1988: 497-498; LVP 1995: 255
 StandardLatvian_SMALL_1	Latvian	latv1249	lav	SMALL	mazs	masː	m a sː	masː	SMALL_1	FALSE	Sinole dialect: masː {mazs} [Putniņa & Timuška 2001: 135].	KLV 1988: 227; LVP 1995: 444
 StandardLatvian_SMOKE_1	Latvian	latv1249	lav	SMOKE	dūmi	dūːmi	d u ̄ː m i	dūːm-i	SMOKE_1	FALSE	Plurale tantum. Sinole dialect: dǔːm-i {dùmi} [Putniņa & Timuška 2001: 46].	KLV 1988: 127; LVP 1995: 194
-StandardLatvian_STAND_1	Latvian	latv1249	lav	STAND	stāvēt	stāːvêːt	s t a ̄ː v e ̂ː t	stāːv-ː-t	STAND_1	FALSE	Distinct from py=cä̂l-ty-s {pìeceltiês} 'to stand up' [KLV 1988: 77; LVP 1995: 594]. Sinole dialect: stǎːv-ː-t {stàvêt} [Putniņa & Timuška 2001: 221].	KLV 1988: 507; LVP 1995: 763
-StandardLatvian_STAR_1	Latvian	latv1249	lav	STAR	zvàigzne	zvǎjɡznɛ	z v a ̌ j ɡ z n ɛ	zvǎygzn-ɛ	STAR_1	FALSE	Sinole dialect: zvǎygzn-ɛ {zvàigzne} [Putniņa & Timuška 2001: 286].	KLV 1988: 163; LVP 1995: 872
-StandardLatvian_STONE_1	Latvian	latv1249	lav	STONE	akmèns	akměns	a k m e ̌ n s	akmn-s	STONE_1	FALSE	Sinole dialect: akmn-s {akmèns} [Putniņa & Timuška 2001: 4].	KLV 1988: 187; LVP 1995: 55
+StandardLatvian_STAND_1	Latvian	latv1249	lav	STAND	stāvēt	stāːvêːt	s t a ̄ː v êː t	stāːv-ː-t	STAND_1	FALSE	Distinct from py=cä̂l-ty-s {pìeceltiês} 'to stand up' [KLV 1988: 77; LVP 1995: 594]. Sinole dialect: stǎːv-ː-t {stàvêt} [Putniņa & Timuška 2001: 221].	KLV 1988: 507; LVP 1995: 763
+StandardLatvian_STAR_1	Latvian	latv1249	lav	STAR	zvàigzne	zvǎjɡznɛ	z v ǎ j ɡ z n ɛ	zvǎygzn-ɛ	STAR_1	FALSE	Sinole dialect: zvǎygzn-ɛ {zvàigzne} [Putniņa & Timuška 2001: 286].	KLV 1988: 163; LVP 1995: 872
+StandardLatvian_STONE_1	Latvian	latv1249	lav	STONE	akmèns	akměns	a k m ě n s	akmn-s	STONE_1	FALSE	Sinole dialect: akmn-s {akmèns} [Putniņa & Timuška 2001: 4].	KLV 1988: 187; LVP 1995: 55
 StandardLatvian_SUN_1	Latvian	latv1249	lav	SUN	saũle	sāwlɛ	s a ̄ w l ɛ	sāwl-ɛ	SUN_1	FALSE	Sinole dialect: sǎwl-ɛ {sàule} [Putniņa & Timuška 2001: 202].	KLV 1988: 493; LVP 1995: 711
-StandardLatvian_SWIM_2	Latvian	latv1249	lav	SWIM	pêldēt	pêldêːt	p e ̂ l d e ̂ː t	pld-ː-t	SWIM_2	FALSE		KLV 1988: 356; LVP 1995: 587
+StandardLatvian_SWIM_2	Latvian	latv1249	lav	SWIM	pêldēt	pêldêːt	p ê l d êː t	pld-ː-t	SWIM_2	FALSE		KLV 1988: 356; LVP 1995: 587
 StandardLatvian_TAIL_2	Latvian	latv1249	lav	TAIL	aste	astɛ	a s t ɛ	ast-ɛ	TAIL_2	FALSE	Sinole dialect: ast-ɛ {aste} [Putniņa & Timuška 2001: 8-9].	KLV 1988: 555; LVP 1995: 90
 StandardLatvian_THAT_2	Latvian	latv1249	lav	THAT	tas	tas	t a s	t-as	THAT_2	FALSE		KLV 1988: 524
 StandardLatvian_THIS_1	Latvian	latv1249	lav	THIS	šis	ʃis	ʃ i s	š-is	THIS_1	FALSE		KLV 1988: 578
 StandardLatvian_THOU_1	Latvian	latv1249	lav	THOU	tu	tu	t u	tu	THOU_1	FALSE	Paradigm: tu {tu} [nom.] / tɛv-is {tevis} [gen.] / tw {tèv} [dat.] / tɛv-i {tevi} [acc.] / tɛv-īː {tevī} [ins.].	KLV 1988: 530; LVP 1995: 814; Staltmane 2006: 180
-StandardLatvian_TONGUE_2	Latvian	latv1249	lav	TONGUE	mḕle	měːlɛ	m e ̌ː l ɛ	mːl-ɛ	TONGUE_2	FALSE	Distinct from valwd-a {valôda} 'language' [KLV 1988: 579; LVP 1995: 837]. Sinole dialect: mːl-ɛ {mèle} [Putniņa & Timuška 2001: 137].	KLV 1988: 579; LVP 1995: 447
-StandardLatvian_TOOTH_2	Latvian	latv1249	lav	TOOTH	zôbs	zuɔ̯̂ps	z u ɔ̯ ̂ p s	zwp-s	TOOTH_2	FALSE		KLV 1988: 167; LVP 1995: 871
-StandardLatvian_TREE_2	Latvian	latv1249	lav	TREE	kôks	kuɔ̯̂ks	k u ɔ̯ ̂ k s	kwk-s	TREE_2	FALSE		KLV 1988: 113; LVP 1995: 371
+StandardLatvian_TONGUE_2	Latvian	latv1249	lav	TONGUE	mḕle	měːlɛ	m ěː l ɛ	mːl-ɛ	TONGUE_2	FALSE	Distinct from valwd-a {valôda} 'language' [KLV 1988: 579; LVP 1995: 837]. Sinole dialect: mːl-ɛ {mèle} [Putniņa & Timuška 2001: 137].	KLV 1988: 579; LVP 1995: 447
+StandardLatvian_TOOTH_2	Latvian	latv1249	lav	TOOTH	zôbs	zuɔ̯̂ps	z u ɔ̯̂ p s	zwp-s	TOOTH_2	FALSE		KLV 1988: 167; LVP 1995: 871
+StandardLatvian_TREE_2	Latvian	latv1249	lav	TREE	kôks	kuɔ̯̂ks	k u ɔ̯̂ k s	kwk-s	TREE_2	FALSE		KLV 1988: 113; LVP 1995: 371
 StandardLatvian_TWO_1	Latvian	latv1249	lav	TWO	divi	divi	d i v i	div-i	TWO_1	FALSE	Sinole dialect: div-i {divi} [Putniņa & Timuška 2001: 44].	KLV 1988: 108; LVP 1995: 185
-StandardLatvian_WALK_1	Latvian	latv1249	lav	WALK		jêt	j e ̂ t	y-t	WALK_1	FALSE		KLV 1988: 169; LVP 1995: 295
+StandardLatvian_WALK_1	Latvian	latv1249	lav	WALK		jêt	j ê t	y-t	WALK_1	FALSE		KLV 1988: 169; LVP 1995: 295
 StandardLatvian_WALK_1	Latvian	latv1249	lav	WALK	iêt	jɛt	j ɛ t	yɛ-t	WALK_1	FALSE		KLV 1988: 169; LVP 1995: 295
 StandardLatvian_WALK_2	Latvian	latv1249	lav	WALK	gāju	ɡāːju	ɡ a ̄ː j u	gāːy-u	WALK_2	FALSE	Past stem.	LVP 1995: 295
-StandardLatvian_WARM_1	Latvian	latv1249	lav	WARM	sìlts	sǐlʦ	s i ̌ l ʦ	sǐlc	WARM_1	FALSE	Sinole dialect: sǐlc {sìlts} [Putniņa & Timuška 2001: 205].	KLV 1988: 519; LVP 1995: 728
-StandardLatvian_WATER_1	Latvian	latv1249	lav	WATER	ūdèns	ûːděns	u ̂ː d e ̌ n s	ûːdn-s	WATER_1	FALSE	Sinole dialect: ûːdn-s {ûdèns} [Putniņa & Timuška 2001: 251].	KLV 1988: 64; LVP 1995: 818
+StandardLatvian_WARM_1	Latvian	latv1249	lav	WARM	sìlts	sǐlʦ	s ǐ l ʦ	sǐlc	WARM_1	FALSE	Sinole dialect: sǐlc {sìlts} [Putniņa & Timuška 2001: 205].	KLV 1988: 519; LVP 1995: 728
+StandardLatvian_WATER_1	Latvian	latv1249	lav	WATER	ūdèns	ûːděns	ûː d ě n s	ûːdn-s	WATER_1	FALSE	Sinole dialect: ûːdn-s {ûdèns} [Putniņa & Timuška 2001: 251].	KLV 1988: 64; LVP 1995: 818
 StandardLatvian_WE_1	Latvian	latv1249	lav	WE	mēs	mɛːs	m ɛː s	mːs	WE_1	FALSE	Paradigm: mːs {mēs} [nom.] / mūː-su {mūsu} [gen.] / mǔ-ms {mùms} [dat.] / mūː-s {mūs} [acc.] / mūː-sws {mūsôs} [ins.].	KLV 1988: 245; LVP 1995: 451; Staltmane 2006: 181
 StandardLatvian_WHAT_1	Latvian	latv1249	lav	WHAT	kas	kas	k a s	k-as	WHAT_1	FALSE	Sinole dialect: k-as {kas} [Putniņa & Timuška 2001: 85].	KLV 1988: 567; LVP 1995: 355
 StandardLatvian_WHITE_1	Latvian	latv1249	lav	WHITE	balts	bālʦ	b a ̄ l ʦ	bālc	WHITE_1	FALSE	Sinole dialect: bǎlc {bàlts} [Putniņa & Timuška 2001: 14-15].	KLV 1988: 31; LVP 1995: 119
 StandardLatvian_WHO_1	Latvian	latv1249	lav	WHO	kas	kas	k a s	k-as	WHO_1	FALSE	Sinole dialect: k-as {kas} [Putniņa & Timuška 2001: 85].	KLV 1988: 212; LVP 1995: 355
 StandardLatvian_WOMAN_2	Latvian	latv1249	lav	WOMAN	siẽviẽte	sjɛvjɛtɛ	s j ɛ v j ɛ t ɛ	syv-yt-ɛ	WOMAN_2	FALSE	Distinct from syv-a {siẽva} 'wife' [KLV 1988: 132; LVP 1995: 724].	KLV 1988: 132; LVP 1995: 724
-StandardLatvian_YELLOW_1	Latvian	latv1249	lav	YELLOW	dzeltèns	ʣæ̂ltæ̌ns	ʣ æ ̂ l t æ ̌ n s	ʒä̂lt-ä̌n-s	YELLOW_1	FALSE	Sinole dialect: ʒä̂lt-ä̌n-s {dzęltę̀ns} [Putniņa & Timuška 2001: 47].	KLV 1988: 132; LVP 1995: 197
-StandardLatvian_FAR_1	Latvian	latv1249	lav	FAR	tālu	tâːlu	t a ̂ː l u	tâːl-u	FAR_1	FALSE		KLV 1988: 107; LVP 1995: 791
+StandardLatvian_YELLOW_1	Latvian	latv1249	lav	YELLOW	dzeltèns	ʣæ̂ltæ̌ns	ʣ æ̂ l t æ̌ n s	ʒä̂lt-ä̌n-s	YELLOW_1	FALSE	Sinole dialect: ʒä̂lt-ä̌n-s {dzęltę̀ns} [Putniņa & Timuška 2001: 47].	KLV 1988: 132; LVP 1995: 197
+StandardLatvian_FAR_1	Latvian	latv1249	lav	FAR	tālu	tâːlu	t âː l u	tâːl-u	FAR_1	FALSE		KLV 1988: 107; LVP 1995: 791
 StandardLatvian_HEAVY_2	Latvian	latv1249	lav	HEAVY	smags	smaks	s m a k s	smak-s	HEAVY_2	FALSE		KLV 1988: 530; LVP 1995: 744
 StandardLatvian_NEAR_2	Latvian	latv1249	lav	NEAR	tuvu	tuvu	t u v u	tuv-u	NEAR_2	FALSE		KLV 1988: 37; LVP 1995: 817
-StandardLatvian_SALT_2	Latvian	latv1249	lav	SALT	sāls	sǎːls	s a ̌ː l s	sǎːl-s	SALT_2	FALSE	Sinole dialect: sǎːl-s {sāls} [Putniņa & Timuška 2001: 199].	KLV 1988: 493; LVP 1995: 696
-StandardLatvian_SHORT_2	Latvian	latv1249	lav	SHORT	īss	îːsː	i ̂ː sː	îːsː	SHORT_2	FALSE		KLV 1988: 204; LVP 1995: 310
+StandardLatvian_SALT_2	Latvian	latv1249	lav	SALT	sāls	sǎːls	s ǎː l s	sǎːl-s	SALT_2	FALSE	Sinole dialect: sǎːl-s {sāls} [Putniņa & Timuška 2001: 199].	KLV 1988: 493; LVP 1995: 696
+StandardLatvian_SHORT_2	Latvian	latv1249	lav	SHORT	īss	îːsː	îː sː	îːsː	SHORT_2	FALSE		KLV 1988: 204; LVP 1995: 310
 StandardLatvian_SNAKE_2	Latvian	latv1249	lav	SNAKE	čūska	ʧūːska	ʧ u ̄ː s k a	čūːsk-a	SNAKE_2	FALSE	Sinole dialect: čǔsk-a {čùska} ~ čǔšk-a {čùška} [Putniņa & Timuška 2001: 37].	KLV 1988: 165; LVP 1995: 159
-StandardLatvian_THIN_2	Latvian	latv1249	lav	THIN	tiêvs	tjêws	t j e ̂ w s	tyw-s	THIN_2	FALSE		KLV 1988: 522; LVP 1995: 800
+StandardLatvian_THIN_2	Latvian	latv1249	lav	THIN	tiêvs	tjêws	t j ê w s	tyw-s	THIN_2	FALSE		KLV 1988: 522; LVP 1995: 800
 StandardLatvian_WIND_1	Latvian	latv1249	lav	WIND	vējš	vɛːjʃ	v ɛː j ʃ	vːy-š	WIND_1	FALSE	Sinole dialect: vy-s {vèjs} [Putniņa & Timuška 2001: 267].	KLV 1988: 54; LVP 1995: 843
-StandardLatvian_WORM_2	Latvian	latv1249	lav	WORM	tārps	tǎːrps	t a ̌ː r p s	tǎːrp-s	WORM_2	FALSE	Sinole dialect: tǎːrp-s {tārps} [Putniņa & Timuška 2001: 242].	KLV 1988: 563; LVP 1995: 795
+StandardLatvian_WORM_2	Latvian	latv1249	lav	WORM	tārps	tǎːrps	t ǎː r p s	tǎːrp-s	WORM_2	FALSE	Sinole dialect: tǎːrp-s {tārps} [Putniņa & Timuška 2001: 242].	KLV 1988: 563; LVP 1995: 795
 StandardLatvian_YEAR_-1	Latvian	latv1249	lav	YEAR	gads	ɡaʦ	ɡ a ʦ	gac	YEAR_-1	TRUE	Sinole dialect: gac {gads} [Putniņa & Timuška 2001: 55].	KLV 1988: 99; LVP 1995: 234
 DihovoMacedonian_ALL_1	Macedonian	west2336	mkd	ALL	сите	sidef	s i d e f	si-def	ALL_1	FALSE	Plural form of se-def 'all'. Vevchani-Radozhda Macedonian: si-def [Hendriks 1976: 145]. Plural form of se-def 'all'. Skopje Macedonian: si-def {сите} [Evdokimova 2009; Tolovski & Illich-Svitych 1963: 461; Lunt 1952: 46]. Plural form of si-def {сиот} 'all'. Orthographic value extracted automatic from Skopje form, may differ from Dihovo form.	Groen 1977: 86
 DihovoMacedonian_ASH_1	Macedonian	west2336	mkd	ASH	пепел	pepel	p e p e l	pepel	ASH_1	FALSE	Distinct from žar 'heat, ember' [Groen 1977: 295]. Vevchani-Radozhda Macedonian: pepel [Hendriks 1976: 277]. Distinct from žar 'ashes, charcoal; heat' [Hendriks 1976: 302]. Skopje Macedonian: pepel {пепел} [Evdokimova 2009; Tolovski & Illich-Svitych 1963: 355]. Distinct from spur-a 'hot ashes' [Tolovski & Illich-Svitych 1963: 480], ultimately borrowed from Romanian. Orthographic value extracted automatic from Skopje form, may differ from Dihovo form.	Groen 1977: 272
@@ -359,155 +359,155 @@ OrbaniciChakavian_ALL_1	Čakavian (Istria)	nucl1776	ckm	ALL	sȁ	sa	s a	sa	ALL_1	
 OrbaniciChakavian_ASH_1	Čakavian (Istria)	nucl1776	ckm	ASH	pȍpel	pˈɔpɛl	p ˈɔ p ɛ l	pˈɔpɛl	ASH_1	FALSE	Distinct from z=gor-en-ǐːn-a {zgorenĩna} 'ashes, burnt things, ruins / red inflamed or burnt spot (on the skin)' [Kalsbeek 1998: 591].	Kalsbeek 1998: 524
 OrbaniciChakavian_BARK_1	Čakavian (Istria)	nucl1776	ckm	BARK	kȍra	kˈɔra	k ˈɔ r a	kˈɔr-a	BARK_1	FALSE	Polysemy: 'bark / crust / peel (of fruit)'.	Kalsbeek 1998: 469
 OrbaniciChakavian_BELLY_2	Čakavian (Istria)	nucl1776	ckm	BELLY	trbȕh	tr̩bˈux	t r̩ b ˈu x	tr̩bˈux	BELLY_2	FALSE	Distinct from c̢mǎːr {čmãr} 'stomach' [Kalsbeek 1998: 429] and štˈomix {štȍmih} 'stomach' [Kalsbeek 1998: 563]. There is also another term živˈot {živȍt}  which means 'lower part of the back / life' [Kalsbeek 1998: 597].	Kalsbeek 1998: 469: 572
-OrbaniciChakavian_BIG_2	Čakavian (Istria)	nucl1776	ckm	BIG	vȇli	vêːli	v e ̂ː l i	vːl-i	BIG_2	FALSE	Comparative form is vˈeȶ-i {vȅći}.	Kalsbeek 1998: 581
+OrbaniciChakavian_BIG_2	Čakavian (Istria)	nucl1776	ckm	BIG	vȇli	vêːli	v êː l i	vːl-i	BIG_2	FALSE	Comparative form is vˈeȶ-i {vȅći}.	Kalsbeek 1998: 581
 OrbaniciChakavian_BIRD_2	Čakavian (Istria)	nucl1776	ckm	BIRD	tȉć	tic	t i c	t-iȶ	BIRD_2	FALSE		Kalsbeek 1998: 570
 OrbaniciChakavian_BITE_2	Čakavian (Istria)	nucl1776	ckm	BITE	grȉs	ɡris	ɡ r i s	gris	BITE_2	FALSE	Distinct from u=yˈes {ujȅs} (imperfective form u=yyed-ˈa-t {ujiedȁt}) 'to bite / to sting', which is probably applied to insects [Kalsbeek 1998: 458].	Kalsbeek 1998: 450
-OrbaniciChakavian_BLACK_1	Čakavian (Istria)	nucl1776	ckm	BLACK	čȓn	ʧr̩̂n	ʧ r̩ ̂ n	čr̩̂n	BLACK_1	FALSE		Kalsbeek 1998: 430
-OrbaniciChakavian_BLOOD_1	Čakavian (Istria)	nucl1776	ckm	BLOOD	kȓf	kr̩̂f	k r̩ ̂ f	kr̩̂f	BLOOD_1	FALSE		Kalsbeek 1998: 473
-OrbaniciChakavian_BONE_1	Čakavian (Istria)	nucl1776	ckm	BONE	kuȏs	ku̯ôs	k u̯ o ̂ s	kwôs	BONE_1	FALSE		Kalsbeek 1998: 471
+OrbaniciChakavian_BLACK_1	Čakavian (Istria)	nucl1776	ckm	BLACK	čȓn	ʧr̩̂n	ʧ r̩̂ n	čr̩̂n	BLACK_1	FALSE		Kalsbeek 1998: 430
+OrbaniciChakavian_BLOOD_1	Čakavian (Istria)	nucl1776	ckm	BLOOD	kȓf	kr̩̂f	k r̩̂ f	kr̩̂f	BLOOD_1	FALSE		Kalsbeek 1998: 473
+OrbaniciChakavian_BONE_1	Čakavian (Istria)	nucl1776	ckm	BONE	kuȏs	ku̯ôs	k u̯ ô s	kwôs	BONE_1	FALSE		Kalsbeek 1998: 471
 OrbaniciChakavian_BREAST_2	Čakavian (Istria)	nucl1776	ckm	BREAST	pȑsa	pˈr̩sa	p ˈr̩ s a	pˈr̩s-a	BREAST_2	FALSE	Another possible candidate, sas-ˈac {sasȁc}, glossed as 'breast; nipple' in the dictionary [Kalsbeek 1998: 542], unfortunately does not occur in the texts, so we cannot specify its semantics more exactly and can only suppose that it probably means 'nipple' as do its cognates in other Slavic languages.	Kalsbeek 1998: 531
 OrbaniciChakavian_BURN_2	Čakavian (Istria)	nucl1776	ckm	BURN	pālȉt	paːlˈit	p aː l ˈi t	paːl-ˈi-t	BURN_2	FALSE	Glossed in the dictionary as 'light, set fire to' [Kalsbeek 1998: 513], but means 'to burn (transitive)' as well, cf.: {Da so tȍ nȅke vještice krȋve, pak so pālȉli žĩveh, ti ljȗdi} "There were some guilty witches, and they were burnt alive, by those men" [Kalsbeek 1998: 380]. Distinct from gor-ˈe-t {gorȅt} 'to burn (intransitive)' [Kalsbeek 1998: 447-448].	Kalsbeek 1998: 513
 OrbaniciChakavian_FINGERNAIL_1	Čakavian (Istria)	nucl1776	ckm	FINGERNAIL	nȍhat	nˈɔxat	n ˈɔ x a t	nˈɔx-at	FINGERNAIL_1	FALSE	Polysemy: 'fingernail / toenail'.	Kalsbeek 1998: 504
 OrbaniciChakavian_CLOUD_1	Čakavian (Istria)	nucl1776	ckm	CLOUD	ȍblak	ˈɔblak	ˈɔ b l a k	ˈɔb=lak	CLOUD_1	FALSE	Distinct from magl-ˈin-a {maglȉna} 'fog', cited in one of the contexts [Kalsbeek 1998: 581].	Kalsbeek 1998: 507
-OrbaniciChakavian_COLD_2	Čakavian (Istria)	nucl1776	ckm	COLD	hlȃdan	xlâːdan	x l a ̂ː d a n	xlâːd-a-n	COLD_2	FALSE	Distinct from lˈed-e-n {lȅden} 'frozen, icy, cold' [Kalsbeek 1998: 479] and from mˈr̩z-a-l {mȑzal} 'cool, cold, cooled off' [Kalsbeek 1998: 496].	Kalsbeek 1998: 453
-OrbaniciChakavian_COME_1	Čakavian (Istria)	nucl1776	ckm	COME	prĩt	prǐːt	p r i ̌ː t	pr-ǐː-t	COME_1	FALSE	Polysemy: 'to come, arrive / to become'.	Kalsbeek 1998: 499
-OrbaniciChakavian_DIE_1	Čakavian (Istria)	nucl1776	ckm	DIE	umriẽt	umrjěːt	u m r j e ̌ː t	u=mryěː-t	DIE_1	FALSE	Distinct from cˈr̩k-nu-t {cȑknut} 'to die (miserably)' [Kalsbeek 1998: 426] and from krep-ˈa-t {krepȁt} (imperfective form krep-yev-ˈa-t {krepievȁt}) 'to die (of animals)' of Romance origin [Kalsbeek 1998: 472].	Kalsbeek 1998: 495
+OrbaniciChakavian_COLD_2	Čakavian (Istria)	nucl1776	ckm	COLD	hlȃdan	xlâːdan	x l âː d a n	xlâːd-a-n	COLD_2	FALSE	Distinct from lˈed-e-n {lȅden} 'frozen, icy, cold' [Kalsbeek 1998: 479] and from mˈr̩z-a-l {mȑzal} 'cool, cold, cooled off' [Kalsbeek 1998: 496].	Kalsbeek 1998: 453
+OrbaniciChakavian_COME_1	Čakavian (Istria)	nucl1776	ckm	COME	prĩt	prǐːt	p r ǐː t	pr-ǐː-t	COME_1	FALSE	Polysemy: 'to come, arrive / to become'.	Kalsbeek 1998: 499
+OrbaniciChakavian_DIE_1	Čakavian (Istria)	nucl1776	ckm	DIE	umriẽt	umrjěːt	u m r j ěː t	u=mryěː-t	DIE_1	FALSE	Distinct from cˈr̩k-nu-t {cȑknut} 'to die (miserably)' [Kalsbeek 1998: 426] and from krep-ˈa-t {krepȁt} (imperfective form krep-yev-ˈa-t {krepievȁt}) 'to die (of animals)' of Romance origin [Kalsbeek 1998: 472].	Kalsbeek 1998: 495
 OrbaniciChakavian_DOG_-1	Čakavian (Istria)	nucl1776	ckm	DOG	brȅk	brɛk	b r ɛ k	brɛk	DOG_-1	TRUE	A Romance borrowing. The term {pas} is not attested.	Kalsbeek 1998: 422
 OrbaniciChakavian_DRINK_1	Čakavian (Istria)	nucl1776	ckm	DRINK	pȉt	pit	p i t	pi-t	DRINK_1	FALSE	Habitual form is piːy-ˈa-t {pījȁt} [Kalsbeek 1998: 518]. Distinct from lok-ˈa-t {lokȁt} 'to drink (of animals) [Kalsbeek 1998: 482], from bǔːmb-i-t {bũmbit} 'to drink' (pejorative) [Kalsbeek 1998: 424] and from bˈuɲ-i-t {bȕnjit} 'to drink', used in baby talk [Kalsbeek 1998: 424].	Kalsbeek 1998: 519
-OrbaniciChakavian_DRY_1	Čakavian (Istria)	nucl1776	ckm	DRY	sȗh	sûːx	s u ̂ː x	sûːx	DRY_1	FALSE		Kalsbeek 1998: 554
-OrbaniciChakavian_EAR_1	Čakavian (Istria)	nucl1776	ckm	EAR	ȗho	ûːxɔ	u ̂ː x ɔ	ûːx-ɔ	EAR_1	FALSE	Polysemy: 'ear / eye (of a needle)'.	Kalsbeek 1998: 577
+OrbaniciChakavian_DRY_1	Čakavian (Istria)	nucl1776	ckm	DRY	sȗh	sûːx	s ûː x	sûːx	DRY_1	FALSE		Kalsbeek 1998: 554
+OrbaniciChakavian_EAR_1	Čakavian (Istria)	nucl1776	ckm	EAR	ȗho	ûːxɔ	ûː x ɔ	ûːx-ɔ	EAR_1	FALSE	Polysemy: 'ear / eye (of a needle)'.	Kalsbeek 1998: 577
 OrbaniciChakavian_EARTH_1	Čakavian (Istria)	nucl1776	ckm	EARTH	zemljȁ	zɛmʎˈa	z ɛ m ʎ ˈa	zɛmʎ-ˈa	EARTH_1	FALSE	Polysemy: 'earth, soil, ground / country'.	Kalsbeek 1998: 591
 OrbaniciChakavian_EAT_1	Čakavian (Istria)	nucl1776	ckm	EAT	jȅs	jɛs	j ɛ s	yɛs	EAT_1	FALSE	Distinct from pap-ˈa-t {papȁt} 'to eat', used in baby talk [Kalsbeek 1998: 513] and from žer-ˈa-t {žerȁt} (less common is the form žryě-t {žriẽt}) 'to gulp, to bolt (food), to devour, to eat in an improper way / to eat (of animals)' [Kalsbeek 1998: 595].	Kalsbeek 1998: 458
-OrbaniciChakavian_EGG_1	Čakavian (Istria)	nucl1776	ckm	EGG	jȃje	jâːje	j a ̂ː j e	yâːy-e	EGG_1	FALSE		Kalsbeek 1998: 456
+OrbaniciChakavian_EGG_1	Čakavian (Istria)	nucl1776	ckm	EGG	jȃje	jâːje	j âː j e	yâːy-e	EGG_1	FALSE		Kalsbeek 1998: 456
 OrbaniciChakavian_EYE_1	Čakavian (Istria)	nucl1776	ckm	EYE	ȍko	ˈɔkɔ	ˈɔ k ɔ	ˈɔk-ɔ	EYE_1	FALSE		Kalsbeek 1998: 509
-OrbaniciChakavian_FAT_2	Čakavian (Istria)	nucl1776	ckm	FAT	tȗk	tûːk	t u ̂ː k	tûːk	FAT_2	FALSE	There are two possible candidates: tûːk {tȗk}, glossed as 'fat', and mâːs {mȃs} 'fat, grease' [Kalsbeek 1998: 488] with its derivate mas-n-ˈoȶ-a {masnȍća} 'fat' [Kalsbeek 1998: 488]. Since they are almost completely absent from texts, we cannot differentiate between them.  Distinct from lwôy {luȏj} 'tallow, fat' [Kalsbeek 1998: 483].	Kalsbeek 1998: 575
-OrbaniciChakavian_FAT_1	Čakavian (Istria)	nucl1776	ckm	FAT	mȃs	mâːs	m a ̂ː s	mâːs	FAT_1	FALSE		Kalsbeek 1998: 488
+OrbaniciChakavian_FAT_2	Čakavian (Istria)	nucl1776	ckm	FAT	tȗk	tûːk	t ûː k	tûːk	FAT_2	FALSE	There are two possible candidates: tûːk {tȗk}, glossed as 'fat', and mâːs {mȃs} 'fat, grease' [Kalsbeek 1998: 488] with its derivate mas-n-ˈoȶ-a {masnȍća} 'fat' [Kalsbeek 1998: 488]. Since they are almost completely absent from texts, we cannot differentiate between them.  Distinct from lwôy {luȏj} 'tallow, fat' [Kalsbeek 1998: 483].	Kalsbeek 1998: 575
+OrbaniciChakavian_FAT_1	Čakavian (Istria)	nucl1776	ckm	FAT	mȃs	mâːs	m âː s	mâːs	FAT_1	FALSE		Kalsbeek 1998: 488
 OrbaniciChakavian_FEATHER_1	Čakavian (Istria)	nucl1776	ckm	FEATHER	perȍ	pɛrˈɔ	p ɛ r ˈɔ	pɛr-ˈɔ	FEATHER_1	FALSE		Kalsbeek 1998: 516
 OrbaniciChakavian_FEATHER_1	Čakavian (Istria)	nucl1776	ckm	FEATHER	perijȍ	perijˈɔ	p e r i j ˈɔ	per-iy-ˈɔ	FEATHER_1	FALSE		Kalsbeek 1998: 516
-OrbaniciChakavian_FIRE_1	Čakavian (Istria)	nucl1776	ckm	FIRE	ugãnj	uɡǎːɲ	u ɡ a ̌ː ɲ	ugǎːɲ	FIRE_1	FALSE	The term {vatra} is absent.	Kalsbeek 1998: 576
+OrbaniciChakavian_FIRE_1	Čakavian (Istria)	nucl1776	ckm	FIRE	ugãnj	uɡǎːɲ	u ɡ ǎː ɲ	ugǎːɲ	FIRE_1	FALSE	The term {vatra} is absent.	Kalsbeek 1998: 576
 OrbaniciChakavian_FISH_1	Čakavian (Istria)	nucl1776	ckm	FISH	rȉba	rˈiba	r ˈi b a	rˈib-a	FISH_1	FALSE		Kalsbeek 1998: 538
 OrbaniciChakavian_FLY_1	Čakavian (Istria)	nucl1776	ckm	FLY	letȅt	lɛtˈɛt	l ɛ t ˈɛ t	lɛt-ˈɛ-t	FLY_1	FALSE		Kalsbeek 1998: 480
 OrbaniciChakavian_FOOT_1	Čakavian (Istria)	nucl1776	ckm	FOOT	nogȁ	nɔɡˈa	n ɔ ɡ ˈa	nɔg-ˈa	FOOT_1	FALSE	Polysemy: 'foot / leg'.	Kalsbeek 1998: 504
-OrbaniciChakavian_FULL_1	Čakavian (Istria)	nucl1776	ckm	FULL	pũn	pǔːn	p u ̌ː n	pǔːn	FULL_1	FALSE		Kalsbeek 1998: 533
+OrbaniciChakavian_FULL_1	Čakavian (Istria)	nucl1776	ckm	FULL	pũn	pǔːn	p ǔː n	pǔːn	FULL_1	FALSE		Kalsbeek 1998: 533
 OrbaniciChakavian_GIVE_1	Čakavian (Istria)	nucl1776	ckm	GIVE	dȁt	dat	d a t	da-t	GIVE_1	FALSE	Imperfective form is daː-vˈa-t {dāvȁt} [Kalsbeek 1998: 432].	Kalsbeek 1998: 432
 OrbaniciChakavian_GOOD_1	Čakavian (Istria)	nucl1776	ckm	GOOD	dȍbar	dˈɔbar	d ˈɔ b a r	dˈɔbar	GOOD_1	FALSE	Polysemy: 'good / kind / tasty'. Comparative form is bˈoʎ-i {bȍlji}.	Kalsbeek 1998: 436
 OrbaniciChakavian_GREEN_1	Čakavian (Istria)	nucl1776	ckm	GREEN	zȅlen	zˈɛlɛn	z ˈɛ l ɛ n	zˈɛl-ɛn	GREEN_1	FALSE		Kalsbeek 1998: 591
-OrbaniciChakavian_HAIR_2	Čakavian (Istria)	nucl1776	ckm	HAIR	vlȃs	vlâːs	v l a ̂ː s	vlâːs	HAIR_2	FALSE	Another term, dlˈak-a {dlȁka}, glossed as 'hair' in the dictionary, does not occur in the texts, but in a different part of the source it is translated as 'body hair' [Kalsbeek 1998: 435], which seems to be a more exact translation of dlˈak-a {dlȁka}.	Kalsbeek 1998: 584
+OrbaniciChakavian_HAIR_2	Čakavian (Istria)	nucl1776	ckm	HAIR	vlȃs	vlâːs	v l âː s	vlâːs	HAIR_2	FALSE	Another term, dlˈak-a {dlȁka}, glossed as 'hair' in the dictionary, does not occur in the texts, but in a different part of the source it is translated as 'body hair' [Kalsbeek 1998: 435], which seems to be a more exact translation of dlˈak-a {dlȁka}.	Kalsbeek 1998: 584
 OrbaniciChakavian_HAND_1	Čakavian (Istria)	nucl1776	ckm	HAND	ruokȁ	ru̯okˈa	r u̯ o k ˈa	rwok-ˈa	HAND_1	FALSE	Polysemy: 'hand / arm'. Distinct from pyês {piȇs} 'handful / hand, palm' [Kalsbeek 1998: 517].	Kalsbeek 1998: 540
 OrbaniciChakavian_HEAD_1	Čakavian (Istria)	nucl1776	ckm	HEAD	glāvȁ	ɡlaːvˈa	ɡ l aː v ˈa	glaːv-ˈa	HEAD_1	FALSE		Kalsbeek 1998: 445
 OrbaniciChakavian_HEAR_2	Čakavian (Istria)	nucl1776	ckm	HEAR	čȕt	ʧut	ʧ u t	ču-t	HEAR_2	FALSE	Polysemy: 'hear / taste / smell'. Distinct from slˈuš-a-t {slȕšat} 'to listen' [Kalsbeek 1998: 548].	Kalsbeek 1998: 430
 OrbaniciChakavian_HEART_1	Čakavian (Istria)	nucl1776	ckm	HEART	sȑce	sˈr̩ʦɛ	s ˈr̩ ʦ ɛ	sˈr̩c-ɛ	HEART_1	FALSE	Polysemy: 'heart / heartwood, inner (middle) part (of a branch)'.	Kalsbeek 1998: 550
-OrbaniciChakavian_HORN_1	Čakavian (Istria)	nucl1776	ckm	HORN	ruȏh	ru̯ôx	r u̯ o ̂ x	rwôx	HORN_1	FALSE		Kalsbeek 1998: 540
-OrbaniciChakavian_I_1	Čakavian (Istria)	nucl1776	ckm	I	jã	jǎː	j a ̌ː	yǎː	I_1	FALSE	Paradigm: yǎː {jã} ~ yǎːs {jãs} (emph.) [nom.] / man-ˈe {manȅ} ~ me {me} (encl.) [gen.] / man-ˈe {manȅ} ~ mi {mi} (encl.) [dat.] / man-ˈe {manȅ} ~ me {me} (encl.) [acc.] / mˈan-on {mȁnon} [ins.] / man-ˈe {manȅ} [loc.].	Kalsbeek 1998: 456
+OrbaniciChakavian_HORN_1	Čakavian (Istria)	nucl1776	ckm	HORN	ruȏh	ru̯ôx	r u̯ ô x	rwôx	HORN_1	FALSE		Kalsbeek 1998: 540
+OrbaniciChakavian_I_1	Čakavian (Istria)	nucl1776	ckm	I	jã	jǎː	j ǎː	yǎː	I_1	FALSE	Paradigm: yǎː {jã} ~ yǎːs {jãs} (emph.) [nom.] / man-ˈe {manȅ} ~ me {me} (encl.) [gen.] / man-ˈe {manȅ} ~ mi {mi} (encl.) [dat.] / man-ˈe {manȅ} ~ me {me} (encl.) [acc.] / mˈan-on {mȁnon} [ins.] / man-ˈe {manȅ} [loc.].	Kalsbeek 1998: 456
 OrbaniciChakavian_I_2	Čakavian (Istria)	nucl1776	ckm	I	manȅ	manˈɛ	m a n ˈɛ	man-ˈɛ	I_2	FALSE		Accusative form
 OrbaniciChakavian_KILL_1	Čakavian (Istria)	nucl1776	ckm	KILL	ubȉt	ubˈit	u b ˈi t	u=bˈi-t	KILL_1	FALSE	Imperfective form is u=biːy-ˈa-t {ubījȁt}. Another possible candidate is kla-t {klȁt}, glossed as 'kill, slaughter' in the dictionary [Kalsbeek 1998: 466]. However, kla-t {klȁt} does not occur in the texts, while u=bˈi-t {ubȉt} is very frequent.	Kalsbeek 1998: 418
 OrbaniciChakavian_KNEE_1	Čakavian (Istria)	nucl1776	ckm	KNEE	kolȅno	kɔlˈɛnɔ	k ɔ l ˈɛ n ɔ	kɔlˈɛn-ɔ	KNEE_1	FALSE		Kalsbeek 1998: 468
 OrbaniciChakavian_KNOW_1	Čakavian (Istria)	nucl1776	ckm	KNOW	znȁt	znat	z n a t	zna-t	KNOW_1	FALSE		Kalsbeek 1998: 593
-OrbaniciChakavian_LEAF_1	Čakavian (Istria)	nucl1776	ckm	LEAF	lȋs	lîːs	l i ̂ː s	lîːs	LEAF_1	FALSE		Kalsbeek 1998: 481
+OrbaniciChakavian_LEAF_1	Čakavian (Istria)	nucl1776	ckm	LEAF	lȋs	lîːs	l îː s	lîːs	LEAF_1	FALSE		Kalsbeek 1998: 481
 OrbaniciChakavian_LIE_1	Čakavian (Istria)	nucl1776	ckm	LIE	ležȁt	lɛʒˈat	l ɛ ʒ ˈa t	lɛž-ˈa-t	LIE_1	FALSE	Distinct from le-ȶ {lȅć} 'to lie down' [Kalsbeek 1998: 479].	Kalsbeek 1998: 480
-OrbaniciChakavian_LIVER_1	Čakavian (Istria)	nucl1776	ckm	LIVER	jiẽtra	jjětra	j j e ̌ t r a	yyětr-a	LIVER_1	FALSE	Plurale tantum.	Kalsbeek 1998: 458
-OrbaniciChakavian_LONG_1	Čakavian (Istria)	nucl1776	ckm	LONG	dũh	dǔːx	d u ̌ː x	dǔːx	LONG_1	FALSE	Polysemy: 'long / far'. Comparative forms are dˈaʎ-i {dȁlji} and dˈuyž-a {dȕjža}.	Kalsbeek 1998: 439
+OrbaniciChakavian_LIVER_1	Čakavian (Istria)	nucl1776	ckm	LIVER	jiẽtra	jjětra	j j ě t r a	yyětr-a	LIVER_1	FALSE	Plurale tantum.	Kalsbeek 1998: 458
+OrbaniciChakavian_LONG_1	Čakavian (Istria)	nucl1776	ckm	LONG	dũh	dǔːx	d ǔː x	dǔːx	LONG_1	FALSE	Polysemy: 'long / far'. Comparative forms are dˈaʎ-i {dȁlji} and dˈuyž-a {dȕjža}.	Kalsbeek 1998: 439
 OrbaniciChakavian_LOUSE_1	Čakavian (Istria)	nucl1776	ckm	LOUSE	šenȁc	ʃɛnˈaʦ	ʃ ɛ n ˈa ʦ	š-ɛn-ˈac	LOUSE_1	FALSE	Probably goes back to Proto-Slavic {*vьšь} with the widespread suffix -en-ac added.	Kalsbeek 1998: 558
-OrbaniciChakavian_MAN_-1	Čakavian (Istria)	nucl1776	ckm	MAN	muškȋ	muʃkîː	m u ʃ k i ̂ː	muš-k-îː	MAN_-1	TRUE	Root vocalism indicates borrowing from Standard Croatian. Distinct from mwôš {muȏš} 'husband' [Kalsbeek 1998: 495].	Kalsbeek 1998: 497
+OrbaniciChakavian_MAN_-1	Čakavian (Istria)	nucl1776	ckm	MAN	muškȋ	muʃkîː	m u ʃ k îː	muš-k-îː	MAN_-1	TRUE	Root vocalism indicates borrowing from Standard Croatian. Distinct from mwôš {muȏš} 'husband' [Kalsbeek 1998: 495].	Kalsbeek 1998: 497
 OrbaniciChakavian_MANY_2	Čakavian (Istria)	nucl1776	ckm	MANY	čȕda	ʧˈuda	ʧ ˈu d a	čˈud-a	MANY_2	FALSE	There are two possible candidates: c̢ˈud-a {čȕda} and pˈun-o {pȕno}; both are very frequent in the texts, and we did not manage to find any difference. The comparative form is veȶ {vȅć} [Kalsbeek 1998: 152; 581].  Distinct from vˈr̩lex {vȑleh} 'many, much', which is much more restricted in use [Kalsbeek 1998: 586].	Kalsbeek 1998: 430
 OrbaniciChakavian_MANY_3	Čakavian (Istria)	nucl1776	ckm	MANY	pȕno	pˈunɔ	p ˈu n ɔ	pˈun-ɔ	MANY_3	FALSE		Kalsbeek 1998: 533
-OrbaniciChakavian_MEAT_1	Čakavian (Istria)	nucl1776	ckm	MEAT	miȇso	mjêsɔ	m j e ̂ s ɔ	myês-ɔ	MEAT_1	FALSE		Kalsbeek 1998: 490
+OrbaniciChakavian_MEAT_1	Čakavian (Istria)	nucl1776	ckm	MEAT	miȇso	mjêsɔ	m j ê s ɔ	myês-ɔ	MEAT_1	FALSE		Kalsbeek 1998: 490
 OrbaniciChakavian_MOON_1	Čakavian (Istria)	nucl1776	ckm	MOON	mȅsec	mˈɛsɛʦ	m ˈɛ s ɛ ʦ	mˈɛs-ɛc	MOON_1	FALSE	Polysemy: 'moon / month'. Distinct from luːn-ˈa {lūnȁ} 'full moon' [Kalsbeek 1998: 483] and from šȶap {šćȁp} 'full moon' [Kalsbeek 1998: 557].	Kalsbeek 1998: 489
 OrbaniciChakavian_MOUNTAIN_2	Čakavian (Istria)	nucl1776	ckm	MOUNTAIN	gorȁ	ɡɔrˈa	ɡ ɔ r ˈa	gɔr-ˈa	MOUNTAIN_2	FALSE	There are two possible candidates: gor-ˈa {gorȁ} 'mountain' [Kalsbeek 1998: 447] and vr̩x {vȑh} 'top, tip, point / mountain' [Kalsbeek 1998: 586]. Since none of these terms occur in texts, we cannot differentiate between them and have to include both terms in the list.	Kalsbeek 1998: 447
 OrbaniciChakavian_MOUNTAIN_3	Čakavian (Istria)	nucl1776	ckm	MOUNTAIN	vȑh	vr̩x	v r̩ x	vr̩x	MOUNTAIN_3	FALSE	Polysemy: 'top, tip, point / mountain'.	Kalsbeek 1998: 586
-OrbaniciChakavian_MOUTH_1	Čakavian (Istria)	nucl1776	ckm	MOUTH	ũsta	ǔːsta	u ̌ː s t a	ǔːst-a	MOUTH_1	FALSE	Plurale tantum.	Kalsbeek 1998: 578
+OrbaniciChakavian_MOUTH_1	Čakavian (Istria)	nucl1776	ckm	MOUTH	ũsta	ǔːsta	ǔː s t a	ǔːst-a	MOUTH_1	FALSE	Plurale tantum.	Kalsbeek 1998: 578
 OrbaniciChakavian_NAME_1	Čakavian (Istria)	nucl1776	ckm	NAME	ȉme	ˈimɛ	ˈi m ɛ	ˈimɛ	NAME_1	FALSE		Kalsbeek 1998: 455
-OrbaniciChakavian_NECK_2	Čakavian (Istria)	nucl1776	ckm	NECK	vrȃt	vrâːt	v r a ̂ː t	vrâːt	NECK_2	FALSE		Kalsbeek 1998: 585
-OrbaniciChakavian_NEW_1	Čakavian (Istria)	nucl1776	ckm	NEW	nuõf	nu̯ǒf	n u̯ o ̌ f	nwǒf	NEW_1	FALSE		Kalsbeek 1998: 505
-OrbaniciChakavian_NIGHT_1	Čakavian (Istria)	nucl1776	ckm	NIGHT	nuȏć	nu̯ôc	n u̯ o ̂ c	nwôȶ	NIGHT_1	FALSE		Kalsbeek 1998: 505
-OrbaniciChakavian_NOSE_1	Čakavian (Istria)	nucl1776	ckm	NOSE	nuȏs	nu̯ôs	n u̯ o ̂ s	nwôs	NOSE_1	FALSE	Polysemy: 'nose / nozzle (on a jug or a pair of bellows)'.	Kalsbeek 1998: 505-506
+OrbaniciChakavian_NECK_2	Čakavian (Istria)	nucl1776	ckm	NECK	vrȃt	vrâːt	v r âː t	vrâːt	NECK_2	FALSE		Kalsbeek 1998: 585
+OrbaniciChakavian_NEW_1	Čakavian (Istria)	nucl1776	ckm	NEW	nuõf	nu̯ǒf	n u̯ ǒ f	nwǒf	NEW_1	FALSE		Kalsbeek 1998: 505
+OrbaniciChakavian_NIGHT_1	Čakavian (Istria)	nucl1776	ckm	NIGHT	nuȏć	nu̯ôc	n u̯ ô c	nwôȶ	NIGHT_1	FALSE		Kalsbeek 1998: 505
+OrbaniciChakavian_NOSE_1	Čakavian (Istria)	nucl1776	ckm	NOSE	nuȏs	nu̯ôs	n u̯ ô s	nwôs	NOSE_1	FALSE	Polysemy: 'nose / nozzle (on a jug or a pair of bellows)'.	Kalsbeek 1998: 505-506
 OrbaniciChakavian_NOT_1	Čakavian (Istria)	nucl1776	ckm	NOT	nȅ	nɛ	n ɛ	nɛ	NOT_1	FALSE	Used in the prohibitive function as well: {Ne rãbi plȁkat za nȉč} "You should not cry for no reason".	Kalsbeek 1998: 501
-OrbaniciChakavian_ONE_1	Čakavian (Istria)	nucl1776	ckm	ONE	jedãn	jɛdǎːn	j ɛ d a ̌ː n	yɛdǎːn	ONE_1	FALSE		Kalsbeek 1998: 457
+OrbaniciChakavian_ONE_1	Čakavian (Istria)	nucl1776	ckm	ONE	jedãn	jɛdǎːn	j ɛ d ǎː n	yɛdǎːn	ONE_1	FALSE		Kalsbeek 1998: 457
 OrbaniciChakavian_PERSON_1	Čakavian (Istria)	nucl1776	ckm	PERSON	čovȅk	ʧɔvˈɛk	ʧ ɔ v ˈɛ k	čɔvˈɛk	PERSON_1	FALSE	A less common form is c̢ovˈik {čovȉk}. The form šlovˈek {šlovȅk} is obsolescent [Kalsbeek 1998: 429]. The dictionary also contains the form peršwôn-i {peršuȏni} (G. sg.) 'person' of Romance origin [Kalsbeek 1998: 516], which does not occur elsewhere.   Plural form is ʎûːd-i {ljȗdi} [Kalsbeek 1998: 484].	Kalsbeek 1998: 429
-OrbaniciChakavian_RAIN_1	Čakavian (Istria)	nucl1776	ckm	RAIN	dãš	dǎːʃ	d a ̌ː ʃ	dǎːš	RAIN_1	FALSE		Kalsbeek 1998: 432
-OrbaniciChakavian_RED_2	Čakavian (Istria)	nucl1776	ckm	RED	krvãvi	kr̩vǎːvi	k r̩ v a ̌ː v i	kr̩v-ǎːv-i	RED_2	FALSE		Kalsbeek 1998: 475
+OrbaniciChakavian_RAIN_1	Čakavian (Istria)	nucl1776	ckm	RAIN	dãš	dǎːʃ	d ǎː ʃ	dǎːš	RAIN_1	FALSE		Kalsbeek 1998: 432
+OrbaniciChakavian_RED_2	Čakavian (Istria)	nucl1776	ckm	RED	krvãvi	kr̩vǎːvi	k r̩ v ǎː v i	kr̩v-ǎːv-i	RED_2	FALSE		Kalsbeek 1998: 475
 OrbaniciChakavian_PATH OR ROAD_2	Čakavian (Istria)	nucl1776	ckm	PATH OR ROAD	čȅsta	ʧˈɛsta	ʧ ˈɛ s t a	čˈɛst-a	PATH OR ROAD_2	FALSE	Distinct from pwǒt {puõt} 'road, way, path (narrower than čȅsta; lined by low walls (zidići)' [Kalsbeek 1998: 526]. Distinct from švǎːlt {švãlt} 'paved road, asphalt road' [Kalsbeek 1998: 565].	Kalsbeek 1998: 428
 OrbaniciChakavian_ROOT_1	Čakavian (Istria)	nucl1776	ckm	ROOT	kȍren	kˈɔrɛn	k ˈɔ r ɛ n	kˈɔrɛn	ROOT_1	FALSE		Kalsbeek 1998: 470
-OrbaniciChakavian_ROUND_2	Čakavian (Istria)	nucl1776	ckm	ROUND	okrũgal	ɔkrǔːɡal	ɔ k r u ̌ː ɡ a l	ɔ=krǔːg-al	ROUND_2	FALSE	There is no inherited term for 'round'. Instead, we find two borrowings: o=krǔːg-al {okrũgal} (the masculine form is not attested, but based on analogy with byêl {biȇl} 'white' we think that it ends in -l) from Standard Croatian {okrugao} and twǒnt {tuõnt}, of Romance origin. One would think that the context {"tuõndo" rečȅmo onȅmu, ča je "okruglo"} "what is round we call tuõndo" [Kalsbeek 1998: 171] should mean that twǒnt {tuõnt} is a more common term; however, in texts o=krǔːg-al {okrũgal} occurs 4 times, while twǒnt {tuõnt} occurs only 3 times. Under these circumstances we have to include both terms in the list.	Kalsbeek 1998: 509
-OrbaniciChakavian_ROUND_-1	Čakavian (Istria)	nucl1776	ckm	ROUND	tuõnt	tu̯ǒnt	t u̯ o ̌ n t	twǒnt	ROUND_-1	TRUE		Kalsbeek 1998: 572
-OrbaniciChakavian_SAND_-1	Čakavian (Istria)	nucl1776	ckm	SAND	sabluȏn	sablu̯ôn	s a b l u̯ o ̂ n	sablwôn	SAND_-1	TRUE	Borrowed from some Romance source. This term is applied to fine sand. A later borrowing from Italian, šâːbiy-a {šȃbija}, is used for the designation of sea sand [Kalsbeek 1998: 557].	Kalsbeek 1998: 541
-OrbaniciChakavian_SAND_-1	Čakavian (Istria)	nucl1776	ckm	SAND	šabluȏn	ʃablu̯ôn	ʃ a b l u̯ o ̂ n	šablwôn	SAND_-1	TRUE	Borrowed from some Romance source. This term is applied to fine sand. A later borrowing from Italian, šâːbiy-a {šȃbija}, is used for the designation of sea sand [Kalsbeek 1998: 557].	Kalsbeek 1998: 541
+OrbaniciChakavian_ROUND_2	Čakavian (Istria)	nucl1776	ckm	ROUND	okrũgal	ɔkrǔːɡal	ɔ k r ǔː ɡ a l	ɔ=krǔːg-al	ROUND_2	FALSE	There is no inherited term for 'round'. Instead, we find two borrowings: o=krǔːg-al {okrũgal} (the masculine form is not attested, but based on analogy with byêl {biȇl} 'white' we think that it ends in -l) from Standard Croatian {okrugao} and twǒnt {tuõnt}, of Romance origin. One would think that the context {"tuõndo" rečȅmo onȅmu, ča je "okruglo"} "what is round we call tuõndo" [Kalsbeek 1998: 171] should mean that twǒnt {tuõnt} is a more common term; however, in texts o=krǔːg-al {okrũgal} occurs 4 times, while twǒnt {tuõnt} occurs only 3 times. Under these circumstances we have to include both terms in the list.	Kalsbeek 1998: 509
+OrbaniciChakavian_ROUND_-1	Čakavian (Istria)	nucl1776	ckm	ROUND	tuõnt	tu̯ǒnt	t u̯ ǒ n t	twǒnt	ROUND_-1	TRUE		Kalsbeek 1998: 572
+OrbaniciChakavian_SAND_-1	Čakavian (Istria)	nucl1776	ckm	SAND	sabluȏn	sablu̯ôn	s a b l u̯ ô n	sablwôn	SAND_-1	TRUE	Borrowed from some Romance source. This term is applied to fine sand. A later borrowing from Italian, šâːbiy-a {šȃbija}, is used for the designation of sea sand [Kalsbeek 1998: 557].	Kalsbeek 1998: 541
+OrbaniciChakavian_SAND_-1	Čakavian (Istria)	nucl1776	ckm	SAND	šabluȏn	ʃablu̯ôn	ʃ a b l u̯ ô n	šablwôn	SAND_-1	TRUE	Borrowed from some Romance source. This term is applied to fine sand. A later borrowing from Italian, šâːbiy-a {šȃbija}, is used for the designation of sea sand [Kalsbeek 1998: 557].	Kalsbeek 1998: 541
 OrbaniciChakavian_SAY_2	Čakavian (Istria)	nucl1776	ckm	SAY	rȅć	rɛc	r ɛ c	rɛ-ȶ	SAY_2	FALSE	Distinct from govor-ˈi-t {govorȉt} ~ gwor-ˈi-t {guorȉt} 'to speak, to talk, to say' [Kalsbeek 1998: 448].  Distinct from the verb dyê-n {diȇn} 'I say' [Kalsbeek 1998: 434], which has only the present form and is usually used to introduce direct speech.	Kalsbeek 1998: 536-537
 OrbaniciChakavian_SEE_2	Čakavian (Istria)	nucl1776	ckm	SEE	vȉdet	vˈidɛt	v ˈi d ɛ t	vˈid-ɛ-t	SEE_2	FALSE	Distinct from glˈed-a-t {glȅdat} 'to look / to see to something' [Kalsbeek 1998: 445-446].	Kalsbeek 1998: 583
 OrbaniciChakavian_SEED_1	Čakavian (Istria)	nucl1776	ckm	SEED	sȅmen	sˈɛmɛn	s ˈɛ m ɛ n	sˈɛmɛn	SEED_1	FALSE		Kalsbeek 1998: 544
 OrbaniciChakavian_SIT_1	Čakavian (Istria)	nucl1776	ckm	SIT	sedȅt	sɛdˈɛt	s ɛ d ˈɛ t	sɛd-ˈɛ-t	SIT_1	FALSE	Distinct from ses {sȅs} (habitual form sˈed-uv-a-t {sȅduvat} ~ se=sˈed-uv-a-t {se sȅduvat}) 'to sit down' [Kalsbeek 1998: 543-544].	Kalsbeek 1998: 543
 OrbaniciChakavian_SKIN_1	Čakavian (Istria)	nucl1776	ckm	SKIN	kȍža	kˈɔʒa	k ˈɔ ʒ a	kˈɔž-a	SKIN_1	FALSE	Polysemy: 'skin / hide / leather'. Distinct from ruːn-ˈo {rūnȍ} 'skin, fleece' [Kalsbeek 1998: 541].	Kalsbeek 1998: 471
 OrbaniciChakavian_SLEEP_1	Čakavian (Istria)	nucl1776	ckm	SLEEP	spȁt	spat	s p a t	sp-a-t	SLEEP_1	FALSE	Habitual form is sp-yev-ˈa-t {spievȁt} [Kalsbeek 1998: 550].	Kalsbeek 1998: 549
-OrbaniciChakavian_SMALL_1	Čakavian (Istria)	nucl1776	ckm	SMALL	mȃli	mâːli	m a ̂ː l i	mâːl-i	SMALL_1	FALSE	Comparative form is mˈaɲ-i {mȁnji}. Distinct from mîːȶ-i {mȋći} '(very) small, tiny' [Kalsbeek 1998: 490].  There is also the term mˈiɲ-i {mȉnji} which is glossed as 'small, little' in the dictionary [Kalsbeek 1998: 491]. There are examples of such use ({ovȍ je je prĩšlo mȉnjo} "this [piece of clothing] has become too small for her" [Kalsbeek 1998: 491]), but in most cases it means 'small' while speaking of age. Typical examples are: {dȍkle je mȉnji je pȉplić, pȍkle je pulȁštar} "as long as it is small it is a chick, after that it is a pullet" [Kalsbeek 1998: 436]; {kat so bȋli dȉca mȉnji} "when they were little children" [Kalsbeek 1998: 372].	Kalsbeek 1998: 486
-OrbaniciChakavian_SMOKE_2	Čakavian (Istria)	nucl1776	ckm	SMOKE	dĩm	dǐːm	d i ̌ː m	dǐːm	SMOKE_2	FALSE		Kalsbeek 1998: 435
-OrbaniciChakavian_STAND_1	Čakavian (Istria)	nucl1776	ckm	STAND	stãt	stǎːt	s t a ̌ː t	stǎː-t	STAND_1	FALSE	Polysemy: 'to stand / to be located / to be / to live, dwell / to suit, to fit'. Distinct from se=stˈa-t {se stȁt} 'to stand up' [Kalsbeek 1998: 552].	Kalsbeek 1998: 552
+OrbaniciChakavian_SMALL_1	Čakavian (Istria)	nucl1776	ckm	SMALL	mȃli	mâːli	m âː l i	mâːl-i	SMALL_1	FALSE	Comparative form is mˈaɲ-i {mȁnji}. Distinct from mîːȶ-i {mȋći} '(very) small, tiny' [Kalsbeek 1998: 490].  There is also the term mˈiɲ-i {mȉnji} which is glossed as 'small, little' in the dictionary [Kalsbeek 1998: 491]. There are examples of such use ({ovȍ je je prĩšlo mȉnjo} "this [piece of clothing] has become too small for her" [Kalsbeek 1998: 491]), but in most cases it means 'small' while speaking of age. Typical examples are: {dȍkle je mȉnji je pȉplić, pȍkle je pulȁštar} "as long as it is small it is a chick, after that it is a pullet" [Kalsbeek 1998: 436]; {kat so bȋli dȉca mȉnji} "when they were little children" [Kalsbeek 1998: 372].	Kalsbeek 1998: 486
+OrbaniciChakavian_SMOKE_2	Čakavian (Istria)	nucl1776	ckm	SMOKE	dĩm	dǐːm	d ǐː m	dǐːm	SMOKE_2	FALSE		Kalsbeek 1998: 435
+OrbaniciChakavian_STAND_1	Čakavian (Istria)	nucl1776	ckm	STAND	stãt	stǎːt	s t ǎː t	stǎː-t	STAND_1	FALSE	Polysemy: 'to stand / to be located / to be / to live, dwell / to suit, to fit'. Distinct from se=stˈa-t {se stȁt} 'to stand up' [Kalsbeek 1998: 552].	Kalsbeek 1998: 552
 OrbaniciChakavian_STAR_1	Čakavian (Istria)	nucl1776	ckm	STAR	zviezdȁ	zvjezdˈa	z v j e z d ˈa	zvyezd-ˈa	STAR_1	FALSE		Kalsbeek 1998: 594
 OrbaniciChakavian_STONE_-1	Čakavian (Istria)	nucl1776	ckm	STONE	grȍta	ɡrˈɔta	ɡ r ˈɔ t a	grˈɔt-a	STONE_-1	TRUE	There are two terms glossed as 'stone' in the dictionary: grˈot-a {grȍta} of Romance origin and kˈam-ik {kȁmik} [Kalsbeek 1998: 461]. In the texts only the first term occurs, but we cannot be sure that it has already replaced the inherited kˈam-ik {kȁmik}, since the text corpus is too small. Thus we have to include both terms in the list.  Distinct from kˈam-en {kȁmen} 'rock' [Kalsbeek 1998: 461], krûːx {krȗh} 'big stone, rock (in a field) / circle' [Kalsbeek 1998: 474] and u=plˈas {uplȁs} 'stone, rock in a ploughing field' [Kalsbeek 1998: 578].	Kalsbeek 1998: 450-451
 OrbaniciChakavian_STONE_1	Čakavian (Istria)	nucl1776	ckm	STONE	kȁmik	kˈamik	k ˈa m i k	kˈami-k	STONE_1	FALSE		Kalsbeek 1998: 461
-OrbaniciChakavian_SUN_1	Čakavian (Istria)	nucl1776	ckm	SUN	sũnce	sǔːnʦe	s u ̌ː n ʦ e	sǔːnc-e	SUN_1	FALSE		Kalsbeek 1998: 554
+OrbaniciChakavian_SUN_1	Čakavian (Istria)	nucl1776	ckm	SUN	sũnce	sǔːnʦe	s ǔː n ʦ e	sǔːnc-e	SUN_1	FALSE		Kalsbeek 1998: 554
 OrbaniciChakavian_SWIM_2	Čakavian (Istria)	nucl1776	ckm	SWIM	plȉvat	plˈivat	p l ˈi v a t	plˈiv-a-t	SWIM_2	FALSE	Glossed only as 'to float' in the dictionary, but we suppose that it also means 'to swim', which is typical of Slavic languages.	Kalsbeek 1998: 521
-OrbaniciChakavian_TAIL_2	Čakavian (Istria)	nucl1776	ckm	TAIL	riẽp	rjěp	r j e ̌ p	ryěp	TAIL_2	FALSE	Polysemy: 'tail / handle / leaf stalk'.	Kalsbeek 1998: 538
+OrbaniciChakavian_TAIL_2	Čakavian (Istria)	nucl1776	ckm	TAIL	riẽp	rjěp	r j ě p	ryěp	TAIL_2	FALSE	Polysemy: 'tail / handle / leaf stalk'.	Kalsbeek 1998: 538
 OrbaniciChakavian_THAT_1	Čakavian (Istria)	nucl1776	ckm	THAT	onȉ	ɔnˈi	ɔ n ˈi	ɔn-ˈi	THAT_1	FALSE	Medial demonstrative.	Kalsbeek 1998: 170
 OrbaniciChakavian_THAT_2	Čakavian (Istria)	nucl1776	ckm	THAT	tȁ	ta	t a	ta	THAT_2	FALSE	Distal demonstrative.	Kalsbeek 1998: 170
-OrbaniciChakavian_THAT_2	Čakavian (Istria)	nucl1776	ckm	THAT	tȃ	tâː	t a ̂ː	tâː	THAT_2	FALSE	Distal demonstrative.	Kalsbeek 1998: 170
+OrbaniciChakavian_THAT_2	Čakavian (Istria)	nucl1776	ckm	THAT	tȃ	tâː	t âː	tâː	THAT_2	FALSE	Distal demonstrative.	Kalsbeek 1998: 170
 OrbaniciChakavian_THIS_1	Čakavian (Istria)	nucl1776	ckm	THIS	ovȉ	ɔvˈi	ɔ v ˈi	ɔv-ˈi	THIS_1	FALSE		Kalsbeek 1998: 170
-OrbaniciChakavian_THOU_1	Čakavian (Istria)	nucl1776	ckm	THOU	tȋ	tîː	t i ̂ː	tîː	THOU_1	FALSE	Paradigm: tîː {tȋ} [nom.] / teb-ˈe {tebȅ} [gen.] / teb-ˈe {tebȅ} ~ ti {ti} (encl.) [dat.] / teb-ˈe {tebȅ} ~ te {te} (encl.) [acc.] / tˈob-on {tȍbon} [ins.] / teb-ˈe {tebȅ} [loc.].	Kalsbeek 1998: 570
+OrbaniciChakavian_THOU_1	Čakavian (Istria)	nucl1776	ckm	THOU	tȋ	tîː	t îː	tîː	THOU_1	FALSE	Paradigm: tîː {tȋ} [nom.] / teb-ˈe {tebȅ} [gen.] / teb-ˈe {tebȅ} ~ ti {ti} (encl.) [dat.] / teb-ˈe {tebȅ} ~ te {te} (encl.) [acc.] / tˈob-on {tȍbon} [ins.] / teb-ˈe {tebȅ} [loc.].	Kalsbeek 1998: 570
 OrbaniciChakavian_TONGUE_1	Čakavian (Istria)	nucl1776	ckm	TONGUE	zajȉk	zajˈik	z a j ˈi k	zayˈik	TONGUE_1	FALSE	Polysemy: 'tongue / language'.	Kalsbeek 1998: 589
-OrbaniciChakavian_TOOTH_1	Čakavian (Istria)	nucl1776	ckm	TOOTH	zuȏp	zu̯ôp	z u̯ o ̂ p	zwôp	TOOTH_1	FALSE		Kalsbeek 1998: 593
-OrbaniciChakavian_TREE_2	Čakavian (Istria)	nucl1776	ckm	TREE	driȇvo	drjêvɔ	d r j e ̂ v ɔ	dryêv-ɔ	TREE_2	FALSE	Polysemy: 'wood, lumber / tree'. Other terms, glossed as 'tree' in the dictionary, seem to have a slightly different meaning: dûː {dȗ} 'tree; oak' [Kalsbeek 1998: 440], pîːn {pȋn} 'tree' [Kalsbeek 1998: 519], stabl-ˈo {stablȍ} 'tree, tree trunk' [Kalsbeek 1998: 551].	Kalsbeek 1998: 438
-OrbaniciChakavian_TWO_1	Čakavian (Istria)	nucl1776	ckm	TWO	dvȃ	dvâː	d v a ̂ː	dvâː	TWO_1	FALSE		Kalsbeek 1998: 440
-OrbaniciChakavian_WALK_1	Čakavian (Istria)	nucl1776	ckm	WALK	puõć	pu̯ǒc	p u̯ o ̌ c	pwǒ-ȶ 	WALK_1	FALSE	Suppletive verb. Paradigm: {griẽn} 'I go' / {griẽš} 'you go' / {griẽ} 'he goes' / {grȅmo} 'we go' / {grȅte} 'you go' / {grȅdo} 'they go' / {hȍj} 'go (2sg imperative) / {šã} (msg l-participle) / {šlȁ} (fsg l-participle) / {puõć} (infinitive) [Kalsbeek 1998: 251]. Infinitive and present singular forms can be used as clitics. Distinct from the habitual verb xod-ˈi-t {hodȉt} [Kalsbeek 1998: 453].	Kalsbeek 1998: 498
-OrbaniciChakavian_WALK_2	Čakavian (Istria)	nucl1776	ckm	WALK	griẽn	ɡrjěn	ɡ r j e ̌ n	gryě-n	WALK_2	FALSE		
+OrbaniciChakavian_TOOTH_1	Čakavian (Istria)	nucl1776	ckm	TOOTH	zuȏp	zu̯ôp	z u̯ ô p	zwôp	TOOTH_1	FALSE		Kalsbeek 1998: 593
+OrbaniciChakavian_TREE_2	Čakavian (Istria)	nucl1776	ckm	TREE	driȇvo	drjêvɔ	d r j ê v ɔ	dryêv-ɔ	TREE_2	FALSE	Polysemy: 'wood, lumber / tree'. Other terms, glossed as 'tree' in the dictionary, seem to have a slightly different meaning: dûː {dȗ} 'tree; oak' [Kalsbeek 1998: 440], pîːn {pȋn} 'tree' [Kalsbeek 1998: 519], stabl-ˈo {stablȍ} 'tree, tree trunk' [Kalsbeek 1998: 551].	Kalsbeek 1998: 438
+OrbaniciChakavian_TWO_1	Čakavian (Istria)	nucl1776	ckm	TWO	dvȃ	dvâː	d v âː	dvâː	TWO_1	FALSE		Kalsbeek 1998: 440
+OrbaniciChakavian_WALK_1	Čakavian (Istria)	nucl1776	ckm	WALK	puõć	pu̯ǒc	p u̯ ǒ c	pwǒ-ȶ 	WALK_1	FALSE	Suppletive verb. Paradigm: {griẽn} 'I go' / {griẽš} 'you go' / {griẽ} 'he goes' / {grȅmo} 'we go' / {grȅte} 'you go' / {grȅdo} 'they go' / {hȍj} 'go (2sg imperative) / {šã} (msg l-participle) / {šlȁ} (fsg l-participle) / {puõć} (infinitive) [Kalsbeek 1998: 251]. Infinitive and present singular forms can be used as clitics. Distinct from the habitual verb xod-ˈi-t {hodȉt} [Kalsbeek 1998: 453].	Kalsbeek 1998: 498
+OrbaniciChakavian_WALK_2	Čakavian (Istria)	nucl1776	ckm	WALK	griẽn	ɡrjěn	ɡ r j ě n	gryě-n	WALK_2	FALSE		
 OrbaniciChakavian_WARM_1	Čakavian (Istria)	nucl1776	ckm	WARM	tȅpal	tˈɛpal	t ˈɛ p a l	tˈɛpal	WARM_1	FALSE	Distinct from mʎâːc̢-an {mljȃčan} 'lukewarm' [Kalsbeek 1998: 493], vrûːȶ {vrȗć} 'hot' [Kalsbeek 1998: 586] and vryěl {vriẽl} 'very hot, boiling' [Kalsbeek 1998: 586].	Kalsbeek 1998: 568
 OrbaniciChakavian_WATER_1	Čakavian (Istria)	nucl1776	ckm	WATER	vodȁ	vɔdˈa	v ɔ d ˈa	vɔd-ˈa	WATER_1	FALSE		Kalsbeek 1998: 584
-OrbaniciChakavian_WE_2	Čakavian (Istria)	nucl1776	ckm	WE	mȋ	mîː	m i ̂ː	mîː	WE_2	FALSE	Paradigm: mîː {mȋ} [nom.] / na-s {nȁs} ~ na-s {nas} (encl.) [gen.] / nǎː-n {nãn} ~ na-n {nan} (encl.) [dat.] / na-s {nȁs} ~ na-s {nas} (encl.) [acc.] / nˈa-mi {nȁmi} [ins.].	Kalsbeek 1998: 490
+OrbaniciChakavian_WE_2	Čakavian (Istria)	nucl1776	ckm	WE	mȋ	mîː	m îː	mîː	WE_2	FALSE	Paradigm: mîː {mȋ} [nom.] / na-s {nȁs} ~ na-s {nas} (encl.) [gen.] / nǎː-n {nãn} ~ na-n {nan} (encl.) [dat.] / na-s {nȁs} ~ na-s {nas} (encl.) [acc.] / nˈa-mi {nȁmi} [ins.].	Kalsbeek 1998: 490
 OrbaniciChakavian_WE_1	Čakavian (Istria)	nucl1776	ckm	WE	nȁs	nas	n a s	na-s	WE_1	FALSE		
 OrbaniciChakavian_WHAT_1	Čakavian (Istria)	nucl1776	ckm	WHAT	čȁ	ʧa	ʧ a	ča	WHAT_1	FALSE		Kalsbeek 1998: 427
-OrbaniciChakavian_WHITE_1	Čakavian (Istria)	nucl1776	ckm	WHITE	biȇl	bjêl	b j e ̂ l	byêl	WHITE_1	FALSE		Kalsbeek 1998: 417
+OrbaniciChakavian_WHITE_1	Čakavian (Istria)	nucl1776	ckm	WHITE	biȇl	bjêl	b j ê l	byêl	WHITE_1	FALSE		Kalsbeek 1998: 417
 OrbaniciChakavian_WHO_1	Čakavian (Istria)	nucl1776	ckm	WHO	kȋ	kiː	k iː	kiː	WHO_1	FALSE		Kalsbeek 1998: 464-465
-OrbaniciChakavian_WOMAN_1	Čakavian (Istria)	nucl1776	ckm	WOMAN	žiẽnska	ʒjěnska	ʒ j e ̌ n s k a	žyěn-sk-a	WOMAN_1	FALSE	Distinct from žen-ˈa {ženȁ} 'wife' [Kalsbeek 1998: 595].	Kalsbeek 1998: 596
-OrbaniciChakavian_YELLOW_1	Čakavian (Istria)	nucl1776	ckm	YELLOW	žȗt	ʒûːt	ʒ u ̂ː t	žûːt	YELLOW_1	FALSE		Kalsbeek 1998: 598
+OrbaniciChakavian_WOMAN_1	Čakavian (Istria)	nucl1776	ckm	WOMAN	žiẽnska	ʒjěnska	ʒ j ě n s k a	žyěn-sk-a	WOMAN_1	FALSE	Distinct from žen-ˈa {ženȁ} 'wife' [Kalsbeek 1998: 595].	Kalsbeek 1998: 596
+OrbaniciChakavian_YELLOW_1	Čakavian (Istria)	nucl1776	ckm	YELLOW	žȗt	ʒûːt	ʒ ûː t	žûːt	YELLOW_1	FALSE		Kalsbeek 1998: 598
 OrbaniciChakavian_FAR_2	Čakavian (Istria)	nucl1776	ckm	FAR	dȕgo	dˈuɡɔ	d ˈu ɡ ɔ	dˈug-ɔ	FAR_2	FALSE	Polysemy: 'long / far'. Comparative form is dˈuž-e {dȕže}	Kalsbeek 1998: 439
 OrbaniciChakavian_HEAVY_1	Čakavian (Istria)	nucl1776	ckm	HEAVY	tȅžak	tˈɛʒak	t ˈɛ ʒ a k	tˈɛž-ak	HEAVY_1	FALSE	Polysemy: 'heavy / difficult / serious'.	Kalsbeek 1998: 569
-OrbaniciChakavian_NEAR_1	Čakavian (Istria)	nucl1776	ckm	NEAR	blĩzu	blǐːzu	b l i ̌ː z u	blǐːz-u	NEAR_1	FALSE		Kalsbeek 1998: 419
-OrbaniciChakavian_SALT_1	Čakavian (Istria)	nucl1776	ckm	SALT	suȏl	su̯ôl	s u̯ o ̂ l	swôl	SALT_1	FALSE		Kalsbeek 1998: 549
-OrbaniciChakavian_SHORT_2	Čakavian (Istria)	nucl1776	ckm	SHORT	krãtak	krâːtak	k r a ̂ː t a k	krâːt-ak	SHORT_2	FALSE		Kalsbeek 1998: 472
+OrbaniciChakavian_NEAR_1	Čakavian (Istria)	nucl1776	ckm	NEAR	blĩzu	blǐːzu	b l ǐː z u	blǐːz-u	NEAR_1	FALSE		Kalsbeek 1998: 419
+OrbaniciChakavian_SALT_1	Čakavian (Istria)	nucl1776	ckm	SALT	suȏl	su̯ôl	s u̯ ô l	swôl	SALT_1	FALSE		Kalsbeek 1998: 549
+OrbaniciChakavian_SHORT_2	Čakavian (Istria)	nucl1776	ckm	SHORT	krãtak	krâːtak	k r âː t a k	krâːt-ak	SHORT_2	FALSE		Kalsbeek 1998: 472
 OrbaniciChakavian_SNAKE_1	Čakavian (Istria)	nucl1776	ckm	SNAKE	zmȉja	zmˈija	z m ˈi j a	zmˈiy-a	SNAKE_1	FALSE	Distinct from gˈad-in-a {gȁdina} 'snake (pejorative) / disgusting animal' [Kalsbeek 1998: 444].	Kalsbeek 1998: 592
 OrbaniciChakavian_THIN_1	Čakavian (Istria)	nucl1776	ckm	THIN	tȁnak	tˈanak	t ˈa n a k	tˈan-ak	THIN_1	FALSE	The Romance borrowing fîːn {fȋn} is glossed as 'fine, thin / well-behaved / tasty, delicious' in the dictionary [Kalsbeek 1998: 442], but we did not find any good examples with the meaning 'thin' in the texts.  Distinct from mr̩š-af {mȑšaf}, glossed as 'thin' in the dictionary [Kalsbeek 1998: 495]; however, available examples clearly show that it means 'lean' (of both man and meat): {Pȍkle je ta vȍjska bȋla ne mȍren miȇso nikakȍvo. Ku ne sȁmo mȑšavo, ma mȁlo mȁlo i takȍ ot prāscȁ} "After the war I can't eat any meat. Only if it is not lean, but just a little and only pork" [Kalsbeek 1998: 401]; {i mršavȅji čȕda je bȋ} "and he was a lot thinner" [Kalsbeek 1998: 430]; {kat je onako mȑšaf bȋ} "when he was that thin" [Kalsbeek 1998: 51].	Kalsbeek 1998: 567
 OrbaniciChakavian_WIND_1	Čakavian (Istria)	nucl1776	ckm	WIND	vȅtar	vˈɛtar	v ˈɛ t a r	vˈɛtar	WIND_1	FALSE	Distinct from the designations of particular wind directions: bˈur-a {bȕra} 'northeast wind' [Kalsbeek 1998: 425], yˈug-o {jȕgo} 'south wind' [Kalsbeek 1998: 458], levǎːnt {levãnt} 'east wind' [Kalsbeek 1998: 480].	Kalsbeek 1998: 582
-OrbaniciChakavian_WORM_1	Čakavian (Istria)	nucl1776	ckm	WORM	čȓf	ʧr̩̂f	ʧ r̩ ̂ f	čr̩̂f	WORM_1	FALSE	There are two terms translated as 'worm' in the dictionary: c̢r̩̂f {čȓf} [Kalsbeek 1998: 429-430] and glîːs {glȋs} ~ glîːst-a {glȋsta} [Kalsbeek 1998: 446]. Unfortunately, we have not found any examples and cannot differentiate between them, so both have to be included in the list. Distinct from br̩̂š {bȓš} 'wood worm' Kalsbeek 1998: 423.	Kalsbeek 1998: 429-430
-OrbaniciChakavian_WORM_2	Čakavian (Istria)	nucl1776	ckm	WORM	glȋs	ɡlîːs	ɡ l i ̂ː s	glîːs	WORM_2	FALSE		Kalsbeek 1998: 446
-OrbaniciChakavian_WORM_2	Čakavian (Istria)	nucl1776	ckm	WORM	glȋsta	ɡlîːsta	ɡ l i ̂ː s t a	glîːst-a	WORM_2	FALSE		Kalsbeek 1998: 446
+OrbaniciChakavian_WORM_1	Čakavian (Istria)	nucl1776	ckm	WORM	čȓf	ʧr̩̂f	ʧ r̩̂ f	čr̩̂f	WORM_1	FALSE	There are two terms translated as 'worm' in the dictionary: c̢r̩̂f {čȓf} [Kalsbeek 1998: 429-430] and glîːs {glȋs} ~ glîːst-a {glȋsta} [Kalsbeek 1998: 446]. Unfortunately, we have not found any examples and cannot differentiate between them, so both have to be included in the list. Distinct from br̩̂š {bȓš} 'wood worm' Kalsbeek 1998: 423.	Kalsbeek 1998: 429-430
+OrbaniciChakavian_WORM_2	Čakavian (Istria)	nucl1776	ckm	WORM	glȋs	ɡlîːs	ɡ l îː s	glîːs	WORM_2	FALSE		Kalsbeek 1998: 446
+OrbaniciChakavian_WORM_2	Čakavian (Istria)	nucl1776	ckm	WORM	glȋsta	ɡlîːsta	ɡ l îː s t a	glîːst-a	WORM_2	FALSE		Kalsbeek 1998: 446
 OrbaniciChakavian_YEAR_2	Čakavian (Istria)	nucl1776	ckm	YEAR	lȅto	lˈɛtɔ	l ˈɛ t ɔ	lˈɛt-ɔ	YEAR_2	FALSE	Polysemy: 'summer / year'.	Kalsbeek 1998: 480
 OrlecChakavian_ALL_1	Čakavian (Cres)	nucl1776	ckm	ALL	vȅs	vɛs	v ɛ s	vɛs	ALL_1	FALSE		Houtzagers 1985: 104-105; 391
-OrlecChakavian_ASH_1	Čakavian (Cres)	nucl1776	ckm	ASH	põpel	pɔ̌ːpɛl	p ɔ ̌ː p ɛ l	pːpɛl	ASH_1	FALSE		Houtzagers 1985: 330
-OrlecChakavian_BARK_1	Čakavian (Cres)	nucl1776	ckm	BARK	kõra	kɔ̌ːra	k ɔ ̌ː r a	kːr-a	BARK_1	FALSE	Houtzagers translates it as 'peel / rind / crust', but we have no reason to doubt that it also means 'bark', as in many other Slavic languages.	Houtzagers 1985: 274
+OrlecChakavian_ASH_1	Čakavian (Cres)	nucl1776	ckm	ASH	põpel	pɔ̌ːpɛl	p ɔ̌ː p ɛ l	pːpɛl	ASH_1	FALSE		Houtzagers 1985: 330
+OrlecChakavian_BARK_1	Čakavian (Cres)	nucl1776	ckm	BARK	kõra	kɔ̌ːra	k ɔ̌ː r a	kːr-a	BARK_1	FALSE	Houtzagers translates it as 'peel / rind / crust', but we have no reason to doubt that it also means 'bark', as in many other Slavic languages.	Houtzagers 1985: 274
 OrlecChakavian_BELLY_2	Čakavian (Cres)	nucl1776	ckm	BELLY	terbȕh	tɛrbˈux	t ɛ r b ˈu x	tɛrbˈux	BELLY_2	FALSE	According to the dictionary, the term {živȍt} 'life' can be used in the meaning 'belly' as well [Houtzagers 1985: 406], but since it does not occur in the texts, we are not able to describe the relation between these words.	Houtzagers 1985: 377
-OrlecChakavian_BIG_2	Čakavian (Cres)	nucl1776	ckm	BIG	vẽli	věːli	v e ̌ː l i	vːl-i	BIG_2	FALSE	Comparative form: vˈɛȶ-i {vȅći}.	Houtzagers 1985: 389
+OrlecChakavian_BIG_2	Čakavian (Cres)	nucl1776	ckm	BIG	vẽli	věːli	v ěː l i	vːl-i	BIG_2	FALSE	Comparative form: vˈɛȶ-i {vȅći}.	Houtzagers 1985: 389
 OrlecChakavian_BIRD_2	Čakavian (Cres)	nucl1776	ckm	BIRD	ftȉca	ftˈiʦa	f t ˈi ʦ a	ft-ˈic-a	BIRD_2	FALSE		Houtzagers 1985: 241
-OrlecChakavian_BITE_2	Čakavian (Cres)	nucl1776	ckm	BITE	grĩst	ɡrǐːst	ɡ r i ̌ː s t	grǐːs-t	BITE_2	FALSE		Houtzagers 1985: 248
-OrlecChakavian_BLACK_1	Čakavian (Cres)	nucl1776	ckm	BLACK	čẽrni	ʧěːrni	ʧ e ̌ː r n i	čːrn-i	BLACK_1	FALSE		Houtzagers 1985: 223
+OrlecChakavian_BITE_2	Čakavian (Cres)	nucl1776	ckm	BITE	grĩst	ɡrǐːst	ɡ r ǐː s t	grǐːs-t	BITE_2	FALSE		Houtzagers 1985: 248
+OrlecChakavian_BLACK_1	Čakavian (Cres)	nucl1776	ckm	BLACK	čẽrni	ʧěːrni	ʧ ěː r n i	čːrn-i	BLACK_1	FALSE		Houtzagers 1985: 223
 OrlecChakavian_BLACK_1	Čakavian (Cres)	nucl1776	ckm	BLACK	čȅrni	ʧˈɛrni	ʧ ˈɛ r n i	čˈɛrn-i	BLACK_1	FALSE		Houtzagers 1985: 223
-OrlecChakavian_BLOOD_1	Čakavian (Cres)	nucl1776	ckm	BLOOD	krȋj	krîːj	k r i ̂ː j	krîːy	BLOOD_1	FALSE		Houtzagers 1985: 278
-OrlecChakavian_BONE_1	Čakavian (Cres)	nucl1776	ckm	BONE	kȏst	kôːst	k o ̂ː s t	kːst	BONE_1	FALSE	Polysemy: 'bone / stone (of fruit) / shell (of turtle)'.	Houtzagers 1985: 275
+OrlecChakavian_BLOOD_1	Čakavian (Cres)	nucl1776	ckm	BLOOD	krȋj	krîːj	k r îː j	krîːy	BLOOD_1	FALSE		Houtzagers 1985: 278
+OrlecChakavian_BONE_1	Čakavian (Cres)	nucl1776	ckm	BONE	kȏst	kôːst	k ôː s t	kːst	BONE_1	FALSE	Polysemy: 'bone / stone (of fruit) / shell (of turtle)'.	Houtzagers 1985: 275
 OrlecChakavian_BREAST_2	Čakavian (Cres)	nucl1776	ckm	BREAST	pȅrse	pˈɛrsɛ	p ˈɛ r s ɛ	pˈɛrs-ɛ	BREAST_2	FALSE	Plural form. Distinct from sˈis-a {sȉsa} 'teat, nipple / female beast' [Houtzagers 1985: 350].	Houtzagers 1985: 320
 OrlecChakavian_BURN_1	Čakavian (Cres)	nucl1776	ckm	BURN	gorȅt	ɡɔrˈɛt	ɡ ɔ r ˈɛ t	gɔr-ˈɛ-t	BURN_1	FALSE	Houtzagers glosses this verb simply as 'burn' without clarifying if it can be used as a transitive verb as well. The following context shows that {gorȅt} is used as a transitive verb: {Ma vȉte, vȍ su van te sȕknji […] a brȋžnji mȋ…a togȁ ȉmamo te rõbi, vȉte, a tȍ već e…to ćeju svȅ zgorȅt, nȉki nẽće već nosȉt} "But you see, here are these skirts […] and poor us… and we have the clothes, you see, and now… they will burn everything, no one wants to wear them anymore" [Houtzagers 1985: 191].  Distinct from žg-a-t {žgȁt} 'to brand' [Houtzagers 1985: 404] and from pal-ˈi-t {palȉt} 'to bake / to light / to pinch (steal)' [Houtzagers 1985: 315].	Houtzagers 1985: 246
-OrlecChakavian_FINGERNAIL_1	Čakavian (Cres)	nucl1776	ckm	FINGERNAIL	nõhet	nɔ̌ːxɛt	n ɔ ̌ː x ɛ t	nːx-ɛt	FINGERNAIL_1	FALSE		Houtzagers 1985: 308
-OrlecChakavian_FINGERNAIL_1	Čakavian (Cres)	nucl1776	ckm	FINGERNAIL	nõfet	nɔ̌ːfɛt	n ɔ ̌ː f ɛ t	nːf-ɛt	FINGERNAIL_1	FALSE		Houtzagers 1985: 308
-OrlecChakavian_CLOUD_1	Čakavian (Cres)	nucl1776	ckm	CLOUD	õblak	ɔ̌ːblak	ɔ ̌ː b l a k	ːb=lak	CLOUD_1	FALSE	Polysemy: 'cloud / big swarm (e. g. of bees)'. Distinct from mɛgl-ˈa {meglȁ} 'fog' [Houtzagers 1985: 292].	Houtzagers 1985: 309
-OrlecChakavian_COLD_2	Čakavian (Cres)	nucl1776	ckm	COLD	hlãdni	xlǎːdni	x l a ̌ː d n i	xlǎːd-n-i	COLD_2	FALSE		Houtzagers 1985: 252
-OrlecChakavian_COME_1	Čakavian (Cres)	nucl1776	ckm	COME	prĩt	prǐːt	p r i ̌ː t	pr-ǐː-t	COME_1	FALSE	Polysemy: 'to come / to become / to come into being / to be obtained'.	Houtzagers 1985: 303
-OrlecChakavian_DIE_1	Čakavian (Cres)	nucl1776	ckm	DIE	pomrẽt	pɔmrěːt	p ɔ m r e ̌ː t	pɔ=mrː-t	DIE_1	FALSE	Distinct from cˈɛrk-nu-t {cȅrknut} 'to die (miserably)' [Houtzagers 1985: 220] and from krɛp-ˈa-t {krepȁt} 'to die (of animals)' of Romance origin [Houtzagers 1985: 277].	Houtzagers 1985: 301
-OrlecChakavian_DIE_1	Čakavian (Cres)	nucl1776	ckm	DIE	umrẽt	umrěːt	u m r e ̌ː t	u=mrː-t	DIE_1	FALSE	Distinct from cˈɛrk-nu-t {cȅrknut} 'to die (miserably)' [Houtzagers 1985: 220] and from krɛp-ˈa-t {krepȁt} 'to die (of animals)' of Romance origin [Houtzagers 1985: 277].	Houtzagers 1985: 301
+OrlecChakavian_FINGERNAIL_1	Čakavian (Cres)	nucl1776	ckm	FINGERNAIL	nõhet	nɔ̌ːxɛt	n ɔ̌ː x ɛ t	nːx-ɛt	FINGERNAIL_1	FALSE		Houtzagers 1985: 308
+OrlecChakavian_FINGERNAIL_1	Čakavian (Cres)	nucl1776	ckm	FINGERNAIL	nõfet	nɔ̌ːfɛt	n ɔ̌ː f ɛ t	nːf-ɛt	FINGERNAIL_1	FALSE		Houtzagers 1985: 308
+OrlecChakavian_CLOUD_1	Čakavian (Cres)	nucl1776	ckm	CLOUD	õblak	ɔ̌ːblak	ɔ̌ː b l a k	ːb=lak	CLOUD_1	FALSE	Polysemy: 'cloud / big swarm (e. g. of bees)'. Distinct from mɛgl-ˈa {meglȁ} 'fog' [Houtzagers 1985: 292].	Houtzagers 1985: 309
+OrlecChakavian_COLD_2	Čakavian (Cres)	nucl1776	ckm	COLD	hlãdni	xlǎːdni	x l ǎː d n i	xlǎːd-n-i	COLD_2	FALSE		Houtzagers 1985: 252
+OrlecChakavian_COME_1	Čakavian (Cres)	nucl1776	ckm	COME	prĩt	prǐːt	p r ǐː t	pr-ǐː-t	COME_1	FALSE	Polysemy: 'to come / to become / to come into being / to be obtained'.	Houtzagers 1985: 303
+OrlecChakavian_DIE_1	Čakavian (Cres)	nucl1776	ckm	DIE	pomrẽt	pɔmrěːt	p ɔ m r ěː t	pɔ=mrː-t	DIE_1	FALSE	Distinct from cˈɛrk-nu-t {cȅrknut} 'to die (miserably)' [Houtzagers 1985: 220] and from krɛp-ˈa-t {krepȁt} 'to die (of animals)' of Romance origin [Houtzagers 1985: 277].	Houtzagers 1985: 301
+OrlecChakavian_DIE_1	Čakavian (Cres)	nucl1776	ckm	DIE	umrẽt	umrěːt	u m r ěː t	u=mrː-t	DIE_1	FALSE	Distinct from cˈɛrk-nu-t {cȅrknut} 'to die (miserably)' [Houtzagers 1985: 220] and from krɛp-ˈa-t {krepȁt} 'to die (of animals)' of Romance origin [Houtzagers 1985: 277].	Houtzagers 1985: 301
 OrlecChakavian_DOG_1	Čakavian (Cres)	nucl1776	ckm	DOG	pȅs	pɛs	p ɛ s	pɛs	DOG_1	FALSE		Houtzagers 1985: 321
 OrlecChakavian_DRINK_1	Čakavian (Cres)	nucl1776	ckm	DRINK	pȉt	pit	p i t	pi-t	DRINK_1	FALSE	Distinct from lɔk-ˈa-t {lokȁt} 'to drink (of animals) [Houtzagers 1985: 287].	Houtzagers 1985: 324
-OrlecChakavian_DRY_1	Čakavian (Cres)	nucl1776	ckm	DRY	sȗh	sûːx	s u ̂ː x	sûːx	DRY_1	FALSE	Polysemy: 'dry / thin (of people)'.	Houtzagers 1985: 360
-OrlecChakavian_EAR_1	Čakavian (Cres)	nucl1776	ckm	EAR	ȗho	ûːxɔ	u ̂ː x ɔ	ûːx-ɔ	EAR_1	FALSE	Polysemy: 'ear / eye (of a needle)'.	Houtzagers 1985: 385
+OrlecChakavian_DRY_1	Čakavian (Cres)	nucl1776	ckm	DRY	sȗh	sûːx	s ûː x	sûːx	DRY_1	FALSE	Polysemy: 'dry / thin (of people)'.	Houtzagers 1985: 360
+OrlecChakavian_EAR_1	Čakavian (Cres)	nucl1776	ckm	EAR	ȗho	ûːxɔ	ûː x ɔ	ûːx-ɔ	EAR_1	FALSE	Polysemy: 'ear / eye (of a needle)'.	Houtzagers 1985: 385
 OrlecChakavian_EARTH_1	Čakavian (Cres)	nucl1776	ckm	EARTH	zemjȁ	zɛmjˈa	z ɛ m j ˈa	zɛmy-ˈa	EARTH_1	FALSE	Polysemy: 'earth / earthenware'.	Houtzagers 1985: 400
 OrlecChakavian_EAT_1	Čakavian (Cres)	nucl1776	ckm	EAT	jȅst	jɛst	j ɛ s t	yɛs-t	EAT_1	FALSE	Distinct from xlˈap-a-t {hlȁpat} 'eat (of pigs) / eat greedily and noisily (of people) / make a flapping sound' [Houtzagers 1985: 252]; from gˈuc-a-t {gȕcat} ~ gˈus-a-t {gȕsat} 'to gobble, eat greedily / to retch (when eating too greadily)' [Houtzagers 1985: 249]; from maniž-ˈa-t {manižȁt} 'to eat (quickly)' [Houtzagers 1985: 291]; and from žrː-t {žrẽt} 'to eat (of animals and (rude) of people' [Houtzagers 1985: 406].	Houtzagers 1985: 259
-OrlecChakavian_EGG_1	Čakavian (Cres)	nucl1776	ckm	EGG	jȃje	jâːjɛ	j a ̂ː j ɛ	yâːy-ɛ	EGG_1	FALSE		Houtzagers 1985: 257
-OrlecChakavian_EYE_1	Čakavian (Cres)	nucl1776	ckm	EYE	õko	ɔ̌ːkɔ	ɔ ̌ː k ɔ	ːk-ɔ	EYE_1	FALSE	Polysemy: 'eye / pieces of fat in olita (stuffed sheep intestines)'.	Houtzagers 1985: 310
-OrlecChakavian_FAT_1	Čakavian (Cres)	nucl1776	ckm	FAT	mȃst	mâːst	m a ̂ː s t	mâːst	FAT_1	FALSE	of pigs and people' [Houtzagers 1985: 292], sǎːl-ɔ {sãlo} 'fat' [Houtzagers 1985: 347] and smːk {smȏk} 'fat' [Houtzagers 1985: 353]. Unfortunately, none of them can be found in the texts. We include only mâːst {mȃst} in the list, as a term that is widespread in the Slavic languages in the meaning 'fat'.   Distinct from lːy {lȏj} 'suet, mutton fat' [Houtzagers 1985: 287] and from tûːk {tȗk} 'sheep suet which has been melted, purified and congealed' [Houtzagers 1985: 383].	Three probable candidates occur: mâːst {mȃst} 'fat, esp
+OrlecChakavian_EGG_1	Čakavian (Cres)	nucl1776	ckm	EGG	jȃje	jâːjɛ	j âː j ɛ	yâːy-ɛ	EGG_1	FALSE		Houtzagers 1985: 257
+OrlecChakavian_EYE_1	Čakavian (Cres)	nucl1776	ckm	EYE	õko	ɔ̌ːkɔ	ɔ̌ː k ɔ	ːk-ɔ	EYE_1	FALSE	Polysemy: 'eye / pieces of fat in olita (stuffed sheep intestines)'.	Houtzagers 1985: 310
+OrlecChakavian_FAT_1	Čakavian (Cres)	nucl1776	ckm	FAT	mȃst	mâːst	m âː s t	mâːst	FAT_1	FALSE	of pigs and people' [Houtzagers 1985: 292], sǎːl-ɔ {sãlo} 'fat' [Houtzagers 1985: 347] and smːk {smȏk} 'fat' [Houtzagers 1985: 353]. Unfortunately, none of them can be found in the texts. We include only mâːst {mȃst} in the list, as a term that is widespread in the Slavic languages in the meaning 'fat'.   Distinct from lːy {lȏj} 'suet, mutton fat' [Houtzagers 1985: 287] and from tûːk {tȗk} 'sheep suet which has been melted, purified and congealed' [Houtzagers 1985: 383].	Three probable candidates occur: mâːst {mȃst} 'fat, esp
 OrlecChakavian_FEATHER_1	Čakavian (Cres)	nucl1776	ckm	FEATHER	perȍ	pɛrˈɔ	p ɛ r ˈɔ	pɛr-ˈɔ	FEATHER_1	FALSE	Polysemy: 'leaf / feather / a certain earmark'.	Houtzagers 1985: 320
 OrlecChakavian_FIRE_1	Čakavian (Cres)	nucl1776	ckm	FIRE	ogȅnj	ɔɡˈɛɲ	ɔ ɡ ˈɛ ɲ	ɔgˈɛɲ	FIRE_1	FALSE		Houtzagers 1985: 310
 OrlecChakavian_FISH_1	Čakavian (Cres)	nucl1776	ckm	FISH	rȉba	rˈiba	r ˈi b a	rˈib-a	FISH_1	FALSE		Houtzagers 1985: 342
@@ -515,223 +515,223 @@ OrlecChakavian_FLY_1	Čakavian (Cres)	nucl1776	ckm	FLY	letȅt	lɛtˈɛt	l ɛ t �
 OrlecChakavian_FOOT_1	Čakavian (Cres)	nucl1776	ckm	FOOT	nogȁ	nɔɡˈa	n ɔ ɡ ˈa	nɔg-ˈa	FOOT_1	FALSE	Distinct from stup-ǎːl-ɔ {stupãlo}, glossed as 'foot' in the dictionary [Houtzagers 1985: 359]; this is probably a specialized anatomic term, as is common in Slavic languages.	Houtzagers 1985: 307
 OrlecChakavian_FULL_1	Čakavian (Cres)	nucl1776	ckm	FULL	pȅlni	pˈɛlni	p ˈɛ l n i	pˈɛln-i	FULL_1	FALSE		Houtzagers 1985: 319
 OrlecChakavian_GIVE_1	Čakavian (Cres)	nucl1776	ckm	GIVE	dȁt	dat	d a t	da-t	GIVE_1	FALSE	Imperfective form is da-vˈa-t {davȁt} ~ dǎː-va-t {dãvat} Houtzagers 1985: 227].	Houtzagers 1985: 227
-OrlecChakavian_GOOD_1	Čakavian (Cres)	nucl1776	ckm	GOOD	dõber	dɔ̌ːbɛr	d ɔ ̌ː b ɛ r	dːbɛr	GOOD_1	FALSE		Houtzagers 1985: 233
-OrlecChakavian_GREEN_1	Čakavian (Cres)	nucl1776	ckm	GREEN	zelẽni	zɛlěːni	z ɛ l e ̌ː n i	zɛlːn-i	GREEN_1	FALSE		Houtzagers 1985: 400
-OrlecChakavian_HAIR_2	Čakavian (Cres)	nucl1776	ckm	HAIR	vlȃs	vlâːs	v l a ̂ː s	vlâːs	HAIR_2	FALSE	Distinct from dlǎːk-a {dlãka} 'body hair' [Houtzagers 1985: 232].	Houtzagers 1985: 394
+OrlecChakavian_GOOD_1	Čakavian (Cres)	nucl1776	ckm	GOOD	dõber	dɔ̌ːbɛr	d ɔ̌ː b ɛ r	dːbɛr	GOOD_1	FALSE		Houtzagers 1985: 233
+OrlecChakavian_GREEN_1	Čakavian (Cres)	nucl1776	ckm	GREEN	zelẽni	zɛlěːni	z ɛ l ěː n i	zɛlːn-i	GREEN_1	FALSE		Houtzagers 1985: 400
+OrlecChakavian_HAIR_2	Čakavian (Cres)	nucl1776	ckm	HAIR	vlȃs	vlâːs	v l âː s	vlâːs	HAIR_2	FALSE	Distinct from dlǎːk-a {dlãka} 'body hair' [Houtzagers 1985: 232].	Houtzagers 1985: 394
 OrlecChakavian_HAND_1	Čakavian (Cres)	nucl1776	ckm	HAND	rukȁ	rukˈa	r u k ˈa	ruk-ˈa	HAND_1	FALSE	Polysemy: 'hand / arm / certain measure of depth'.	Houtzagers 1985: 345
 OrlecChakavian_HEAD_1	Čakavian (Cres)	nucl1776	ckm	HEAD	glavȁ	ɡlavˈa	ɡ l a v ˈa	glav-ˈa	HEAD_1	FALSE		Houtzagers 1985: 244
 OrlecChakavian_HEAR_2	Čakavian (Cres)	nucl1776	ckm	HEAR	čȕt	ʧut	ʧ u t	ču-t	HEAR_2	FALSE	Polysemy: 'hear / taste / smell'. Distinct from xˈɛb-a-t {hȅbat} 'to listen' [Houtzagers 1985: 251].	Houtzagers 1985: 225
 OrlecChakavian_HEART_1	Čakavian (Cres)	nucl1776	ckm	HEART	sȅrce	sˈɛrʦɛ	s ˈɛ r ʦ ɛ	sˈɛrc-ɛ	HEART_1	FALSE		Houtzagers 1985: 349
-OrlecChakavian_HORN_1	Čakavian (Cres)	nucl1776	ckm	HORN	rȏh	rôːx	r o ̂ː x	rːx	HORN_1	FALSE	Polysemy: 'horn / horn (instrument) / point, tooth (of a forked object, tool)'.	Houtzagers 1985: 343-344
+OrlecChakavian_HORN_1	Čakavian (Cres)	nucl1776	ckm	HORN	rȏh	rôːx	r ôː x	rːx	HORN_1	FALSE	Polysemy: 'horn / horn (instrument) / point, tooth (of a forked object, tool)'.	Houtzagers 1985: 343-344
 OrlecChakavian_I_1	Čakavian (Cres)	nucl1776	ckm	I	jȁ	ja	j a	ya	I_1	FALSE	Paradigm: ya {jȁ} [nom.] / mɛn-ˈɛ {menȅ} [gen.] / mɛn-ˈɛ {menȅ} ~ mi {mi} (clitic) [dat.] / mɛn-ˈɛ {menȅ} ~ mɛ {me} (clitic) [acc.] / mˈɛn-u {mȅnu} [ins.]. Locative form is not attested.	Houtzagers 1985: 101, 256
 OrlecChakavian_I_2	Čakavian (Cres)	nucl1776	ckm	I	menȅ	mɛnˈɛ	m ɛ n ˈɛ	mɛn-ˈɛ	I_2	FALSE		Accusative form
 OrlecChakavian_KILL_1	Čakavian (Cres)	nucl1776	ckm	KILL	ubȉt	ubˈit	u b ˈi t	u=bˈi-t	KILL_1	FALSE		Houtzagers 1985: 211
-OrlecChakavian_KNEE_1	Čakavian (Cres)	nucl1776	ckm	KNEE	kolẽno	kɔlěːnɔ	k ɔ l e ̌ː n ɔ	kɔlːn-ɔ	KNEE_1	FALSE	Polysemy: 'knee / generation / degree (of relationship)'.	Houtzagers 1985: 272
+OrlecChakavian_KNEE_1	Čakavian (Cres)	nucl1776	ckm	KNEE	kolẽno	kɔlěːnɔ	k ɔ l ěː n ɔ	kɔlːn-ɔ	KNEE_1	FALSE	Polysemy: 'knee / generation / degree (of relationship)'.	Houtzagers 1985: 272
 OrlecChakavian_KNOW_1	Čakavian (Cres)	nucl1776	ckm	KNOW	znȁt	znat	z n a t	zna-t	KNOW_1	FALSE		Houtzagers 1985: 402
 OrlecChakavian_LEAF_2	Čakavian (Cres)	nucl1776	ckm	LEAF	perȍ	pɛrˈɔ	p ɛ r ˈɔ	pɛr-ˈɔ	LEAF_2	FALSE	Polysemy: 'leaf / feather / certain earmark'.	Houtzagers 1985: 320
 OrlecChakavian_LIE_1	Čakavian (Cres)	nucl1776	ckm	LIE	ležȁt	lɛʒˈat	l ɛ ʒ ˈa t	lɛž-ˈa-t	LIE_1	FALSE	Distinct from lː-ȶ {lẽć} 'to lie down' [Houtzagers 1985: 284].	Houtzagers 1985: 287
-OrlecChakavian_LIVER_1	Čakavian (Cres)	nucl1776	ckm	LIVER	jẽtra	jěːtra	j e ̌ː t r a	yːtr-a	LIVER_1	FALSE	Plurale tantum.	Houtzagers 1985: 259
-OrlecChakavian_LONG_1	Čakavian (Cres)	nucl1776	ckm	LONG	dẽlgi	děːlɡi	d e ̌ː l ɡ i	dːlg-i	LONG_1	FALSE	Polysemy: 'long / far'.	Houtzagers 1985: 229
+OrlecChakavian_LIVER_1	Čakavian (Cres)	nucl1776	ckm	LIVER	jẽtra	jěːtra	j ěː t r a	yːtr-a	LIVER_1	FALSE	Plurale tantum.	Houtzagers 1985: 259
+OrlecChakavian_LONG_1	Čakavian (Cres)	nucl1776	ckm	LONG	dẽlgi	děːlɡi	d ěː l ɡ i	dːlg-i	LONG_1	FALSE	Polysemy: 'long / far'.	Houtzagers 1985: 229
 OrlecChakavian_LOUSE_1	Čakavian (Cres)	nucl1776	ckm	LOUSE	svenȅc	svɛnˈɛʦ	s v ɛ n ˈɛ ʦ	sv-ɛn-ˈɛc	LOUSE_1	FALSE	Does not have a separate entry in the dictionary, but is cited elsewhere.	Houtzagers 1985: 64
-OrlecChakavian_MAN_1	Čakavian (Cres)	nucl1776	ckm	MAN	mȗš	mûːʃ	m u ̂ː ʃ	mûːš	MAN_1	FALSE	The term {mȗš} is attested with polysemy: 'husband / man'. The adjective {mũški} ~ {mȕški} 'male, men's' can be used substantively.	Houtzagers 1985: 302
-OrlecChakavian_MAN_1	Čakavian (Cres)	nucl1776	ckm	MAN	mũški	mǔːʃki	m u ̌ː ʃ k i	mǔːš-k-i	MAN_1	FALSE	The term {mȗš} is attested with polysemy: 'husband / man'. The adjective {mũški} ~ {mȕški} 'male, men's' can be used substantively.	Houtzagers 1985: 302
+OrlecChakavian_MAN_1	Čakavian (Cres)	nucl1776	ckm	MAN	mȗš	mûːʃ	m ûː ʃ	mûːš	MAN_1	FALSE	The term {mȗš} is attested with polysemy: 'husband / man'. The adjective {mũški} ~ {mȕški} 'male, men's' can be used substantively.	Houtzagers 1985: 302
+OrlecChakavian_MAN_1	Čakavian (Cres)	nucl1776	ckm	MAN	mũški	mǔːʃki	m ǔː ʃ k i	mǔːš-k-i	MAN_1	FALSE	The term {mȗš} is attested with polysemy: 'husband / man'. The adjective {mũški} ~ {mȕški} 'male, men's' can be used substantively.	Houtzagers 1985: 302
 OrlecChakavian_MAN_1	Čakavian (Cres)	nucl1776	ckm	MAN	mȕški	mˈuʃki	m ˈu ʃ k i	mˈuš-k-i	MAN_1	FALSE	The term {mȗš} is attested with polysemy: 'husband / man'. The adjective {mũški} ~ {mȕški} 'male, men's' can be used substantively.	Houtzagers 1985: 302
-OrlecChakavian_MANY_4	Čakavian (Cres)	nucl1776	ckm	MANY	blȃgo	blâːɡɔ	b l a ̂ː ɡ ɔ	blâːg-ɔ	MANY_4	FALSE	Comparative form is vˈiš-ɛ {vȉše}. The form sˈil-a {sȉla} 'many / very' is less frequent [Houtzagers 1985: 350].	Houtzagers 1985: 212
-OrlecChakavian_MEAT_1	Čakavian (Cres)	nucl1776	ckm	MEAT	mȇso	mêːsɔ	m e ̂ː s ɔ	mːs-ɔ	MEAT_1	FALSE	Polysemy: 'meat / flesh (also of a fruit)'.	Houtzagers 1985: 295
-OrlecChakavian_MOON_1	Čakavian (Cres)	nucl1776	ckm	MOON	mẽsec	měːsɛʦ	m e ̌ː s ɛ ʦ	mːsɛc	MOON_1	FALSE	Polysemy: 'moon / month'.	Houtzagers 1985: 295
+OrlecChakavian_MANY_4	Čakavian (Cres)	nucl1776	ckm	MANY	blȃgo	blâːɡɔ	b l âː ɡ ɔ	blâːg-ɔ	MANY_4	FALSE	Comparative form is vˈiš-ɛ {vȉše}. The form sˈil-a {sȉla} 'many / very' is less frequent [Houtzagers 1985: 350].	Houtzagers 1985: 212
+OrlecChakavian_MEAT_1	Čakavian (Cres)	nucl1776	ckm	MEAT	mȇso	mêːsɔ	m êː s ɔ	mːs-ɔ	MEAT_1	FALSE	Polysemy: 'meat / flesh (also of a fruit)'.	Houtzagers 1985: 295
+OrlecChakavian_MOON_1	Čakavian (Cres)	nucl1776	ckm	MOON	mẽsec	měːsɛʦ	m ěː s ɛ ʦ	mːsɛc	MOON_1	FALSE	Polysemy: 'moon / month'.	Houtzagers 1985: 295
 OrlecChakavian_MOUNTAIN_2	Čakavian (Cres)	nucl1776	ckm	MOUNTAIN	gorȁ	ɡɔrˈa	ɡ ɔ r ˈa	gɔr-ˈa	MOUNTAIN_2	FALSE		Houtzagers 1985: 246
-OrlecChakavian_MOUTH_1	Čakavian (Cres)	nucl1776	ckm	MOUTH	ũsta	ǔːsta	u ̌ː s t a	ǔːst-a	MOUTH_1	FALSE	Plurale tantum.	Houtzagers 1985: 386
+OrlecChakavian_MOUTH_1	Čakavian (Cres)	nucl1776	ckm	MOUTH	ũsta	ǔːsta	ǔː s t a	ǔːst-a	MOUTH_1	FALSE	Plurale tantum.	Houtzagers 1985: 386
 OrlecChakavian_NAME_1	Čakavian (Cres)	nucl1776	ckm	NAME	ȉme	ˈimɛ	ˈi m ɛ	ˈimɛ	NAME_1	FALSE		Houtzagers 1985: 254
 OrlecChakavian_NAME_1	Čakavian (Cres)	nucl1776	ckm	NAME	jȉme	jˈimɛ	j ˈi m ɛ	yˈimɛ	NAME_1	FALSE		Houtzagers 1985: 254
-OrlecChakavian_NECK_2	Čakavian (Cres)	nucl1776	ckm	NECK	vrȃt	vrâːt	v r a ̂ː t	vrâːt	NECK_2	FALSE		Houtzagers 1985: 396
-OrlecChakavian_NEW_1	Čakavian (Cres)	nucl1776	ckm	NEW	nõvi	nɔ̌ːvi	n ɔ ̌ː v i	nːv-i	NEW_1	FALSE		Houtzagers 1985: 308
-OrlecChakavian_NIGHT_1	Čakavian (Cres)	nucl1776	ckm	NIGHT	nȏć	nôːc	n o ̂ː c	nːȶ	NIGHT_1	FALSE		Houtzagers 1985: 307
-OrlecChakavian_NOSE_1	Čakavian (Cres)	nucl1776	ckm	NOSE	nȏs	nôːs	n o ̂ː s	nːs	NOSE_1	FALSE	Does not have a separate entry in the dictionary, but is cited elsewhere.	Houtzagers 1985: 49
+OrlecChakavian_NECK_2	Čakavian (Cres)	nucl1776	ckm	NECK	vrȃt	vrâːt	v r âː t	vrâːt	NECK_2	FALSE		Houtzagers 1985: 396
+OrlecChakavian_NEW_1	Čakavian (Cres)	nucl1776	ckm	NEW	nõvi	nɔ̌ːvi	n ɔ̌ː v i	nːv-i	NEW_1	FALSE		Houtzagers 1985: 308
+OrlecChakavian_NIGHT_1	Čakavian (Cres)	nucl1776	ckm	NIGHT	nȏć	nôːc	n ôː c	nːȶ	NIGHT_1	FALSE		Houtzagers 1985: 307
+OrlecChakavian_NOSE_1	Čakavian (Cres)	nucl1776	ckm	NOSE	nȏs	nôːs	n ôː s	nːs	NOSE_1	FALSE	Does not have a separate entry in the dictionary, but is cited elsewhere.	Houtzagers 1985: 49
 OrlecChakavian_NOT_1	Čakavian (Cres)	nucl1776	ckm	NOT	nȅ	nɛ	n ɛ	nɛ	NOT_1	FALSE		Houtzagers 1985: 305
 OrlecChakavian_ONE_1	Čakavian (Cres)	nucl1776	ckm	ONE	jedȅn	jɛdˈɛn	j ɛ d ˈɛ n	yɛdˈɛn	ONE_1	FALSE	Polysemy: 'one / certain / some'.	Houtzagers 1985: 258
 OrlecChakavian_PERSON_1	Čakavian (Cres)	nucl1776	ckm	PERSON	čovȅk	ʧɔvˈɛk	ʧ ɔ v ˈɛ k	čɔvˈɛk	PERSON_1	FALSE	Plural form is yûːd-i {jȗdi}.	Houtzagers 1985: 225
 OrlecChakavian_PERSON_1	Čakavian (Cres)	nucl1776	ckm	PERSON	šlovȅk	ʃlɔvˈɛk	ʃ l ɔ v ˈɛ k	šlɔvˈɛk	PERSON_1	FALSE	Plural form is yûːd-i {jȗdi}.	Houtzagers 1985: 225
 OrlecChakavian_RAIN_1	Čakavian (Cres)	nucl1776	ckm	RAIN	dȅš	dɛʃ	d ɛ ʃ	dɛš	RAIN_1	FALSE		Houtzagers 1985: 230
-OrlecChakavian_RED_1	Čakavian (Cres)	nucl1776	ckm	RED	čevjẽni	ʧɛvjěːni	ʧ ɛ v j e ̌ː n i	čɛvy-ːn-i	RED_1	FALSE		Houtzagers 1985: 224
+OrlecChakavian_RED_1	Čakavian (Cres)	nucl1776	ckm	RED	čevjẽni	ʧɛvjěːni	ʧ ɛ v j ěː n i	čɛvy-ːn-i	RED_1	FALSE		Houtzagers 1985: 224
 OrlecChakavian_PATH OR ROAD_2	Čakavian (Cres)	nucl1776	ckm	PATH OR ROAD	čȅsta	ʧˈɛsta	ʧ ˈɛ s t a	čˈɛst-a	PATH OR ROAD_2	FALSE		Houtzagers 1985: 223
-OrlecChakavian_ROOT_1	Čakavian (Cres)	nucl1776	ckm	ROOT	kõren	kɔ̌ːrɛn	k ɔ ̌ː r ɛ n	kːrɛn	ROOT_1	FALSE	There are also such terms as žˈic-a {žȉca} 'string, cord / root / vein, nerve' and žˈil-a {žȉla} 'root / vein' [Houtzagers 1985: 405], but since they do not occur in the texts, we cannot specify the difference between them and {kõren}.	Houtzagers 1985: 275
-OrlecChakavian_ROUND_-1	Čakavian (Cres)	nucl1776	ckm	ROUND	tõndi	tɔ̌ːndi	t ɔ ̌ː n d i	tːnd-i	ROUND_-1	TRUE	Of Romance origin.	Houtzagers 1985: 380
+OrlecChakavian_ROOT_1	Čakavian (Cres)	nucl1776	ckm	ROOT	kõren	kɔ̌ːrɛn	k ɔ̌ː r ɛ n	kːrɛn	ROOT_1	FALSE	There are also such terms as žˈic-a {žȉca} 'string, cord / root / vein, nerve' and žˈil-a {žȉla} 'root / vein' [Houtzagers 1985: 405], but since they do not occur in the texts, we cannot specify the difference between them and {kõren}.	Houtzagers 1985: 275
+OrlecChakavian_ROUND_-1	Čakavian (Cres)	nucl1776	ckm	ROUND	tõndi	tɔ̌ːndi	t ɔ̌ː n d i	tːnd-i	ROUND_-1	TRUE	Of Romance origin.	Houtzagers 1985: 380
 OrlecChakavian_SAND_1	Čakavian (Cres)	nucl1776	ckm	SAND	pesȅk	pɛsˈɛk	p ɛ s ˈɛ k	pɛsˈɛk	SAND_1	FALSE		Houtzagers 1985: 321
 OrlecChakavian_SAY_2	Čakavian (Cres)	nucl1776	ckm	SAY	rȅć	rɛc	r ɛ c	rɛ-ȶ	SAY_2	FALSE	Distinct from gɔvɔr-ˈi-t {govorȉt} 'to talk, to speak, to say' [Houtzagers 1985: 247].  Distinct from the verb dêː-n {dȇn} 'I say' [Houtzagers 1985: 229], which has only the present form and is usually used to introduce direct speech.	Houtzagers 1985: 340
-OrlecChakavian_SEE_2	Čakavian (Cres)	nucl1776	ckm	SEE	vȇć	vêːc	v e ̂ː c	vː-ȶ	SEE_2	FALSE		Houtzagers 1985: 389
-OrlecChakavian_SEE_2	Čakavian (Cres)	nucl1776	ckm	SEE	vȇt	vêːt	v e ̂ː t	vː-t	SEE_2	FALSE		Houtzagers 1985: 389
-OrlecChakavian_SEED_1	Čakavian (Cres)	nucl1776	ckm	SEED	sẽme	sěːmɛ	s e ̌ː m ɛ	sːmɛ	SEED_1	FALSE		Houtzagers 1985: 349
+OrlecChakavian_SEE_2	Čakavian (Cres)	nucl1776	ckm	SEE	vȇć	vêːc	v êː c	vː-ȶ	SEE_2	FALSE		Houtzagers 1985: 389
+OrlecChakavian_SEE_2	Čakavian (Cres)	nucl1776	ckm	SEE	vȇt	vêːt	v êː t	vː-t	SEE_2	FALSE		Houtzagers 1985: 389
+OrlecChakavian_SEED_1	Čakavian (Cres)	nucl1776	ckm	SEED	sẽme	sěːmɛ	s ěː m ɛ	sːmɛ	SEED_1	FALSE		Houtzagers 1985: 349
 OrlecChakavian_SIT_1	Čakavian (Cres)	nucl1776	ckm	SIT	sedȅt	sɛdˈɛt	s ɛ d ˈɛ t	sɛd-ˈɛ-t	SIT_1	FALSE	Distinct from sːs-t {sẽst} 'to sit down' [Houtzagers 1985: 349].	Houtzagers 1985: 348
-OrlecChakavian_SKIN_1	Čakavian (Cres)	nucl1776	ckm	SKIN	kõža	kɔ̌ːʒa	k ɔ ̌ː ʒ a	kːž-a	SKIN_1	FALSE	Polysemy: 'skin / hide / leather / rind'.	Houtzagers 1985: 276
+OrlecChakavian_SKIN_1	Čakavian (Cres)	nucl1776	ckm	SKIN	kõža	kɔ̌ːʒa	k ɔ̌ː ʒ a	kːž-a	SKIN_1	FALSE	Polysemy: 'skin / hide / leather / rind'.	Houtzagers 1985: 276
 OrlecChakavian_SLEEP_1	Čakavian (Cres)	nucl1776	ckm	SLEEP	spȁt	spat	s p a t	sp-a-t	SLEEP_1	FALSE	Polysemy: 'to sleep / to be "he" in a game hide-and-seek'.	Houtzagers 1985: 355
-OrlecChakavian_SMALL_1	Čakavian (Cres)	nucl1776	ckm	SMALL	mȃli	mâːli	m a ̂ː l i	mâːl-i	SMALL_1	FALSE		Houtzagers 1985: 291
-OrlecChakavian_SMOKE_2	Čakavian (Cres)	nucl1776	ckm	SMOKE	dĩm	dǐːm	d i ̌ː m	dǐːm	SMOKE_2	FALSE		Houtzagers 1985: 232
-OrlecChakavian_STAND_1	Čakavian (Cres)	nucl1776	ckm	STAND	stãt	stǎːt	s t a ̌ː t	stǎː-t	STAND_1	FALSE	Polysemy: 'to stand, remain standing / to stay, remain; stick (e.g. in the mud) / to stay up (at night) / to live, reside / to find oneself, be situated / to fit (into something)'. Distinct from stǎː-nu-t {stãnut} 'to stand up / to (go and) stand / to step on' [Houtzagers 1985: 356].	Houtzagers 1985: 357
+OrlecChakavian_SMALL_1	Čakavian (Cres)	nucl1776	ckm	SMALL	mȃli	mâːli	m âː l i	mâːl-i	SMALL_1	FALSE		Houtzagers 1985: 291
+OrlecChakavian_SMOKE_2	Čakavian (Cres)	nucl1776	ckm	SMOKE	dĩm	dǐːm	d ǐː m	dǐːm	SMOKE_2	FALSE		Houtzagers 1985: 232
+OrlecChakavian_STAND_1	Čakavian (Cres)	nucl1776	ckm	STAND	stãt	stǎːt	s t ǎː t	stǎː-t	STAND_1	FALSE	Polysemy: 'to stand, remain standing / to stay, remain; stick (e.g. in the mud) / to stay up (at night) / to live, reside / to find oneself, be situated / to fit (into something)'. Distinct from stǎː-nu-t {stãnut} 'to stand up / to (go and) stand / to step on' [Houtzagers 1985: 356].	Houtzagers 1985: 357
 OrlecChakavian_STAR_1	Čakavian (Cres)	nucl1776	ckm	STAR	zvezdȁ	zvɛzdˈa	z v ɛ z d ˈa	zvɛzd-ˈa	STAR_1	FALSE		Houtzagers 1985: 403
-OrlecChakavian_STONE_1	Čakavian (Cres)	nucl1776	ckm	STONE	kamẽna	kaměːna	k a m e ̌ː n a	kam-ːn-a	STONE_1	FALSE	Distinct from grːt-a {grõta} 'large stone' [Houtzagers 1985: 249].	Houtzagers 1985: 262, 263
-OrlecChakavian_STONE_1	Čakavian (Cres)	nucl1776	ckm	STONE	kãmik	kǎːmik	k a ̌ː m i k	kǎːm-ik	STONE_1	FALSE	Distinct from grːt-a {grõta} 'large stone' [Houtzagers 1985: 249].	Houtzagers 1985: 262, 263
-OrlecChakavian_SUN_1	Čakavian (Cres)	nucl1776	ckm	SUN	sẽnce	sěːnʦɛ	s e ̌ː n ʦ ɛ	sːnc-ɛ	SUN_1	FALSE		Houtzagers 1985: 349
+OrlecChakavian_STONE_1	Čakavian (Cres)	nucl1776	ckm	STONE	kamẽna	kaměːna	k a m ěː n a	kam-ːn-a	STONE_1	FALSE	Distinct from grːt-a {grõta} 'large stone' [Houtzagers 1985: 249].	Houtzagers 1985: 262, 263
+OrlecChakavian_STONE_1	Čakavian (Cres)	nucl1776	ckm	STONE	kãmik	kǎːmik	k ǎː m i k	kǎːm-ik	STONE_1	FALSE	Distinct from grːt-a {grõta} 'large stone' [Houtzagers 1985: 249].	Houtzagers 1985: 262, 263
+OrlecChakavian_SUN_1	Čakavian (Cres)	nucl1776	ckm	SUN	sẽnce	sěːnʦɛ	s ěː n ʦ ɛ	sːnc-ɛ	SUN_1	FALSE		Houtzagers 1985: 349
 OrlecChakavian_SWIM_2	Čakavian (Cres)	nucl1776	ckm	SWIM	plȁvat	plˈavat	p l ˈa v a t	plˈav-a-t	SWIM_2	FALSE		Houtzagers 1985: 325
-OrlecChakavian_TAIL_2	Čakavian (Cres)	nucl1776	ckm	TAIL	rẽp	rěːp	r e ̌ː p	rːp	TAIL_2	FALSE	Polysemy: 'tail / helve, handle'.	Houtzagers 1985: 341
-OrlecChakavian_THAT_2	Čakavian (Cres)	nucl1776	ckm	THAT	otõh	ɔtɔ̌ːx	ɔ t ɔ ̌ː x	ɔtːx	THAT_2	FALSE	Medial demonstrative.	Houtzagers 1985: 106, 313
-OrlecChakavian_THAT_2	Čakavian (Cres)	nucl1776	ckm	THAT	tõh	tɔ̌ːx	t ɔ ̌ː x	tːx	THAT_2	FALSE	Medial demonstrative.	Houtzagers 1985: 106, 313
-OrlecChakavian_THAT_1	Čakavian (Cres)	nucl1776	ckm	THAT	onõh	ɔnɔ̌ːx	ɔ n ɔ ̌ː x	ɔnːx	THAT_1	FALSE	Distal demonstrative.	Houtzagers 1985: 106, 313
-OrlecChakavian_THAT_1	Čakavian (Cres)	nucl1776	ckm	THAT	nõh	nɔ̌ːx	n ɔ ̌ː x	nːx	THAT_1	FALSE	Distal demonstrative.	Houtzagers 1985: 106, 313
-OrlecChakavian_THIS_1	Čakavian (Cres)	nucl1776	ckm	THIS	ovõh	ɔvɔ̌ːx	ɔ v ɔ ̌ː x	ɔvːx	THIS_1	FALSE		Houtzagers 1985: 106, 313
-OrlecChakavian_THIS_1	Čakavian (Cres)	nucl1776	ckm	THIS	võh	vɔ̌ːx	v ɔ ̌ː x	vːx	THIS_1	FALSE		Houtzagers 1985: 106, 313
-OrlecChakavian_THOU_1	Čakavian (Cres)	nucl1776	ckm	THOU	tȋ	tîː	t i ̂ː	tîː	THOU_1	FALSE	Paradigm: tîː {tȋ} [nom.] / tɛb-ˈɛ {tebȅ} [gen.] / tɛb-ˈɛ {tebȅ} ~ ti {ti} (clitic) [dat.] / tɛb-ˈɛ {tebȅ} ~ tɛ {te} (clitic) [acc.] / tːb-u {tõbu} [ins.]. The locative form is not attested.	Houtzagers 1985: 101, 379
+OrlecChakavian_TAIL_2	Čakavian (Cres)	nucl1776	ckm	TAIL	rẽp	rěːp	r ěː p	rːp	TAIL_2	FALSE	Polysemy: 'tail / helve, handle'.	Houtzagers 1985: 341
+OrlecChakavian_THAT_2	Čakavian (Cres)	nucl1776	ckm	THAT	otõh	ɔtɔ̌ːx	ɔ t ɔ̌ː x	ɔtːx	THAT_2	FALSE	Medial demonstrative.	Houtzagers 1985: 106, 313
+OrlecChakavian_THAT_2	Čakavian (Cres)	nucl1776	ckm	THAT	tõh	tɔ̌ːx	t ɔ̌ː x	tːx	THAT_2	FALSE	Medial demonstrative.	Houtzagers 1985: 106, 313
+OrlecChakavian_THAT_1	Čakavian (Cres)	nucl1776	ckm	THAT	onõh	ɔnɔ̌ːx	ɔ n ɔ̌ː x	ɔnːx	THAT_1	FALSE	Distal demonstrative.	Houtzagers 1985: 106, 313
+OrlecChakavian_THAT_1	Čakavian (Cres)	nucl1776	ckm	THAT	nõh	nɔ̌ːx	n ɔ̌ː x	nːx	THAT_1	FALSE	Distal demonstrative.	Houtzagers 1985: 106, 313
+OrlecChakavian_THIS_1	Čakavian (Cres)	nucl1776	ckm	THIS	ovõh	ɔvɔ̌ːx	ɔ v ɔ̌ː x	ɔvːx	THIS_1	FALSE		Houtzagers 1985: 106, 313
+OrlecChakavian_THIS_1	Čakavian (Cres)	nucl1776	ckm	THIS	võh	vɔ̌ːx	v ɔ̌ː x	vːx	THIS_1	FALSE		Houtzagers 1985: 106, 313
+OrlecChakavian_THOU_1	Čakavian (Cres)	nucl1776	ckm	THOU	tȋ	tîː	t îː	tîː	THOU_1	FALSE	Paradigm: tîː {tȋ} [nom.] / tɛb-ˈɛ {tebȅ} [gen.] / tɛb-ˈɛ {tebȅ} ~ ti {ti} (clitic) [dat.] / tɛb-ˈɛ {tebȅ} ~ tɛ {te} (clitic) [acc.] / tːb-u {tõbu} [ins.]. The locative form is not attested.	Houtzagers 1985: 101, 379
 OrlecChakavian_TONGUE_1	Čakavian (Cres)	nucl1776	ckm	TONGUE	zajȉk	zajˈik	z a j ˈi k	zayˈik	TONGUE_1	FALSE	Polysemy: 'tongue / language'.	Houtzagers 1985: 399
-OrlecChakavian_TOOTH_1	Čakavian (Cres)	nucl1776	ckm	TOOTH	zȗp	zûːp	z u ̂ː p	zûːp	TOOTH_1	FALSE		Houtzagers 1985: 402
-OrlecChakavian_TREE_2	Čakavian (Cres)	nucl1776	ckm	TREE	drȇvo	drêːvɔ	d r e ̂ː v ɔ	drːv-ɔ	TREE_2	FALSE	Polysemy: 'tree / (piece of) wood'. There are two terms for 'tree': drːv-ɔ {drȇvo} and stabl-ˈɔ {stablȍ}. Unfortunately, there is not enough information to distinguish between them, so we include both terms in the list.   There is also another term, stûːp {stȗp} 'high step (in a flight of stairs) / pole / tree' [Houtzagers 1985: 359].	Houtzagers 1985: 235
+OrlecChakavian_TOOTH_1	Čakavian (Cres)	nucl1776	ckm	TOOTH	zȗp	zûːp	z ûː p	zûːp	TOOTH_1	FALSE		Houtzagers 1985: 402
+OrlecChakavian_TREE_2	Čakavian (Cres)	nucl1776	ckm	TREE	drȇvo	drêːvɔ	d r êː v ɔ	drːv-ɔ	TREE_2	FALSE	Polysemy: 'tree / (piece of) wood'. There are two terms for 'tree': drːv-ɔ {drȇvo} and stabl-ˈɔ {stablȍ}. Unfortunately, there is not enough information to distinguish between them, so we include both terms in the list.   There is also another term, stûːp {stȗp} 'high step (in a flight of stairs) / pole / tree' [Houtzagers 1985: 359].	Houtzagers 1985: 235
 OrlecChakavian_TREE_3	Čakavian (Cres)	nucl1776	ckm	TREE	stablȍ	stablˈɔ	s t a b l ˈɔ	stabl-ˈɔ	TREE_3	FALSE		Houtzagers 1985: 356
-OrlecChakavian_TWO_1	Čakavian (Cres)	nucl1776	ckm	TWO	dvȃ	dvâː	d v a ̂ː	dv-âː	TWO_1	FALSE		Houtzagers 1985: 236
-OrlecChakavian_WALK_1	Čakavian (Cres)	nucl1776	ckm	WALK	põć	pɔ̌ːc	p ɔ ̌ː c	pːȶ	WALK_1	FALSE	Paradigm: rː-n {rẽn} ~ grː-n {grẽn} 'I go' / rː-š {rẽš} ~ grː-š {grẽš} 'you go' / rː {rẽ} ~ grː {grẽ} 'he goes' / rɛ-mˈɔ {remȍ} ~ grɛ-mˈɔ {gremȍ} 'we go' / rɛs-tˈɛ {restȅ} 'you go' / rɛd-ǔː {redũ} ~ grɛd-ǔː {gredũ} 'they go' / šɛl {šȅl} l-participle (masc.) / pɔ=yd-ˈi {pojdȉ} ~ xɔt {hȍt} ~ xɔd-ˈi {hodȉ} imperative. Durative/habitual form is xɔd-ˈi-t {hodȉt} [Houtzagers 1985: 252].	Houtzagers 1985: 303
-OrlecChakavian_WALK_2	Čakavian (Cres)	nucl1776	ckm	WALK	rẽn	rěːn	r e ̌ː n	rː-n	WALK_2	FALSE		
-OrlecChakavian_WALK_2	Čakavian (Cres)	nucl1776	ckm	WALK	grẽn	ɡrěːn	ɡ r e ̌ː n	grː-n	WALK_2	FALSE		
-OrlecChakavian_WARM_1	Čakavian (Cres)	nucl1776	ckm	WARM	tẽpel	těːpɛl	t e ̌ː p ɛ l	tːpɛl	WARM_1	FALSE	Probably, {tẽpel} denotes both 'warm' and 'hot', so we include it in the list.	No word for 'warm' in our main source, but there is a word glossed as 'hot' by Houtzagers: tːpɛl {tẽpel} [Houtzagers 1985: 377]
+OrlecChakavian_TWO_1	Čakavian (Cres)	nucl1776	ckm	TWO	dvȃ	dvâː	d v âː	dv-âː	TWO_1	FALSE		Houtzagers 1985: 236
+OrlecChakavian_WALK_1	Čakavian (Cres)	nucl1776	ckm	WALK	põć	pɔ̌ːc	p ɔ̌ː c	pːȶ	WALK_1	FALSE	Paradigm: rː-n {rẽn} ~ grː-n {grẽn} 'I go' / rː-š {rẽš} ~ grː-š {grẽš} 'you go' / rː {rẽ} ~ grː {grẽ} 'he goes' / rɛ-mˈɔ {remȍ} ~ grɛ-mˈɔ {gremȍ} 'we go' / rɛs-tˈɛ {restȅ} 'you go' / rɛd-ǔː {redũ} ~ grɛd-ǔː {gredũ} 'they go' / šɛl {šȅl} l-participle (masc.) / pɔ=yd-ˈi {pojdȉ} ~ xɔt {hȍt} ~ xɔd-ˈi {hodȉ} imperative. Durative/habitual form is xɔd-ˈi-t {hodȉt} [Houtzagers 1985: 252].	Houtzagers 1985: 303
+OrlecChakavian_WALK_2	Čakavian (Cres)	nucl1776	ckm	WALK	rẽn	rěːn	r ěː n	rː-n	WALK_2	FALSE		
+OrlecChakavian_WALK_2	Čakavian (Cres)	nucl1776	ckm	WALK	grẽn	ɡrěːn	ɡ r ěː n	grː-n	WALK_2	FALSE		
+OrlecChakavian_WARM_1	Čakavian (Cres)	nucl1776	ckm	WARM	tẽpel	těːpɛl	t ěː p ɛ l	tːpɛl	WARM_1	FALSE	Probably, {tẽpel} denotes both 'warm' and 'hot', so we include it in the list.	No word for 'warm' in our main source, but there is a word glossed as 'hot' by Houtzagers: tːpɛl {tẽpel} [Houtzagers 1985: 377]
 OrlecChakavian_WATER_1	Čakavian (Cres)	nucl1776	ckm	WATER	vodȁ	vɔdˈa	v ɔ d ˈa	vɔd-ˈa	WATER_1	FALSE		Houtzagers 1985: 395
-OrlecChakavian_WE_2	Čakavian (Cres)	nucl1776	ckm	WE	mȋ	mîː	m i ̂ː	mîː	WE_2	FALSE	Paradigm: mîː {mȋ} [nom.] / na-s {nȁs} [gen.] / nǎː-n {nãn} [dat.] / na-s {nȁs} [acc.] / nǎː-mi {nãmi} [ins.]. The locative form is not attested.	Houtzagers 1985: 101, 297
+OrlecChakavian_WE_2	Čakavian (Cres)	nucl1776	ckm	WE	mȋ	mîː	m îː	mîː	WE_2	FALSE	Paradigm: mîː {mȋ} [nom.] / na-s {nȁs} [gen.] / nǎː-n {nãn} [dat.] / na-s {nȁs} [acc.] / nǎː-mi {nãmi} [ins.]. The locative form is not attested.	Houtzagers 1985: 101, 297
 OrlecChakavian_WE_1	Čakavian (Cres)	nucl1776	ckm	WE	nȁs	nas	n a s	na-s	WE_1	FALSE		
 OrlecChakavian_WHAT_1	Čakavian (Cres)	nucl1776	ckm	WHAT	čȅ	ʧɛ	ʧ ɛ	čɛ	WHAT_1	FALSE		Houtzagers 1985: 222
-OrlecChakavian_WHITE_1	Čakavian (Cres)	nucl1776	ckm	WHITE	bȇli	bêːli	b e ̂ː l i	bːl-i	WHITE_1	FALSE		Houtzagers 1985: 209
-OrlecChakavian_WHO_1	Čakavian (Cres)	nucl1776	ckm	WHO	kȋ	kîː	k i ̂ː	kîː	WHO_1	FALSE		Houtzagers 1985: 267
+OrlecChakavian_WHITE_1	Čakavian (Cres)	nucl1776	ckm	WHITE	bȇli	bêːli	b êː l i	bːl-i	WHITE_1	FALSE		Houtzagers 1985: 209
+OrlecChakavian_WHO_1	Čakavian (Cres)	nucl1776	ckm	WHO	kȋ	kîː	k îː	kîː	WHO_1	FALSE		Houtzagers 1985: 267
 OrlecChakavian_WOMAN_1	Čakavian (Cres)	nucl1776	ckm	WOMAN	ženȁ	ʒɛnˈa	ʒ ɛ n ˈa	žɛn-ˈa	WOMAN_1	FALSE	Parallel to the case of 'man', {ženȁ} means 'woman / wife', while {žẽnska} is an adjective, which can be used substantively.	Houtzagers 1985: 404
-OrlecChakavian_WOMAN_1	Čakavian (Cres)	nucl1776	ckm	WOMAN	žẽnska	ʒěːnska	ʒ e ̌ː n s k a	žːn-sk-a	WOMAN_1	FALSE	Parallel to the case of 'man', {ženȁ} means 'woman / wife', while {žẽnska} is an adjective, which can be used substantively.	Houtzagers 1985: 404
-OrlecChakavian_YELLOW_1	Čakavian (Cres)	nucl1776	ckm	YELLOW	žȗt	ʒûːt	ʒ u ̂ː t	žûːt	YELLOW_1	FALSE		Houtzagers 1985: 407
-OrlecChakavian_FAR_2	Čakavian (Cres)	nucl1776	ckm	FAR	dẽlgo	děːlɡɔ	d e ̌ː l ɡ ɔ	dːlg-ɔ	FAR_2	FALSE		Houtzagers 1985: 229
-OrlecChakavian_FAR_-1	Čakavian (Cres)	nucl1776	ckm	FAR	lãrgo	lǎːrɡɔ	l a ̌ː r ɡ ɔ	lǎːrg-ɔ	FAR_-1	TRUE	Of Italian origin.	Houtzagers 1985: 284
-OrlecChakavian_HEAVY_1	Čakavian (Cres)	nucl1776	ckm	HEAVY	tẽški	těːʃki	t e ̌ː ʃ k i	tːš-k-i	HEAVY_1	FALSE	Polysemy: 'heavy / difficult'.	Houtzagers 1985: 378
-OrlecChakavian_NEAR_1	Čakavian (Cres)	nucl1776	ckm	NEAR	blĩzu	blǐːzu	b l i ̌ː z u	blǐːz-u	NEAR_1	FALSE	The preposition alǎːy {alãj} 'near' probably can be used as an adverb too, but Houtzagers confirms it only with one context: {je blĩzu, je alãj} 'it is very near' [Houtzagers 1985: 204].	Houtzagers 1985: 212
-OrlecChakavian_SALT_1	Čakavian (Cres)	nucl1776	ckm	SALT	sȏl	sôːl	s o ̂ː l	sːl	SALT_1	FALSE		Houtzagers 1985: 354
-OrlecChakavian_SHORT_2	Čakavian (Cres)	nucl1776	ckm	SHORT	krãtak	krǎːtak	k r a ̌ː t a k	krǎːt-ak	SHORT_2	FALSE		Houtzagers 1985: 277
+OrlecChakavian_WOMAN_1	Čakavian (Cres)	nucl1776	ckm	WOMAN	žẽnska	ʒěːnska	ʒ ěː n s k a	žːn-sk-a	WOMAN_1	FALSE	Parallel to the case of 'man', {ženȁ} means 'woman / wife', while {žẽnska} is an adjective, which can be used substantively.	Houtzagers 1985: 404
+OrlecChakavian_YELLOW_1	Čakavian (Cres)	nucl1776	ckm	YELLOW	žȗt	ʒûːt	ʒ ûː t	žûːt	YELLOW_1	FALSE		Houtzagers 1985: 407
+OrlecChakavian_FAR_2	Čakavian (Cres)	nucl1776	ckm	FAR	dẽlgo	děːlɡɔ	d ěː l ɡ ɔ	dːlg-ɔ	FAR_2	FALSE		Houtzagers 1985: 229
+OrlecChakavian_FAR_-1	Čakavian (Cres)	nucl1776	ckm	FAR	lãrgo	lǎːrɡɔ	l ǎː r ɡ ɔ	lǎːrg-ɔ	FAR_-1	TRUE	Of Italian origin.	Houtzagers 1985: 284
+OrlecChakavian_HEAVY_1	Čakavian (Cres)	nucl1776	ckm	HEAVY	tẽški	těːʃki	t ěː ʃ k i	tːš-k-i	HEAVY_1	FALSE	Polysemy: 'heavy / difficult'.	Houtzagers 1985: 378
+OrlecChakavian_NEAR_1	Čakavian (Cres)	nucl1776	ckm	NEAR	blĩzu	blǐːzu	b l ǐː z u	blǐːz-u	NEAR_1	FALSE	The preposition alǎːy {alãj} 'near' probably can be used as an adverb too, but Houtzagers confirms it only with one context: {je blĩzu, je alãj} 'it is very near' [Houtzagers 1985: 204].	Houtzagers 1985: 212
+OrlecChakavian_SALT_1	Čakavian (Cres)	nucl1776	ckm	SALT	sȏl	sôːl	s ôː l	sːl	SALT_1	FALSE		Houtzagers 1985: 354
+OrlecChakavian_SHORT_2	Čakavian (Cres)	nucl1776	ckm	SHORT	krãtak	krǎːtak	k r ǎː t a k	krǎːt-ak	SHORT_2	FALSE		Houtzagers 1985: 277
 OrlecChakavian_SNAKE_3	Čakavian (Cres)	nucl1776	ckm	SNAKE	gȁt	ɡat	ɡ a t	gat	SNAKE_3	FALSE	Since none of them occur in the texts, we have to include both words in the list.	There are two terms glossed as 'snake': gat {gȁt} [Houtzagers 1985: 243] and smrad-ˈin-a {smradȉna} [Houtzagers 1985: 353]
 OrlecChakavian_SNAKE_4	Čakavian (Cres)	nucl1776	ckm	SNAKE	smradȉna	smradˈina	s m r a d ˈi n a	smrad-ˈin-a	SNAKE_4	FALSE		Houtzagers 1985: 353
 OrlecChakavian_THIN_1	Čakavian (Cres)	nucl1776	ckm	THIN	tȅnek	tˈɛnɛk	t ˈɛ n ɛ k	tˈɛn-ɛk	THIN_1	FALSE	Distinct from mˈɛrš-af {mȅršaf} 'thin (of people)' [Houtzagers 1985: 295], from sûːx {sȗh} 'dry / thin (of people)' [Houtzagers 1985: 360] and from slap {slȁp} 'weak / thin / bad' [Houtzagers 1985: 352].	Houtzagers 1985: 376
-OrlecChakavian_WIND_1	Čakavian (Cres)	nucl1776	ckm	WIND	vẽter	věːtɛr	v e ̌ː t ɛ r	vːtɛr	WIND_1	FALSE		Houtzagers 1985: 392
-OrlecChakavian_WORM_1	Čakavian (Cres)	nucl1776	ckm	WORM	čȇrf	ʧêːrf	ʧ e ̂ː r f	čːrf	WORM_1	FALSE	Distinct from gyîːst {gjȋst} 'intestinal worm' [Houtzagers 1985: 244].	Houtzagers 1985: 223
-OrlecChakavian_YEAR_2	Čakavian (Cres)	nucl1776	ckm	YEAR	lẽto	lěːtɔ	l e ̌ː t ɔ	lːt-ɔ	YEAR_2	FALSE	Polysemy: 'year / summer'.	Houtzagers 1985: 286
+OrlecChakavian_WIND_1	Čakavian (Cres)	nucl1776	ckm	WIND	vẽter	věːtɛr	v ěː t ɛ r	vːtɛr	WIND_1	FALSE		Houtzagers 1985: 392
+OrlecChakavian_WORM_1	Čakavian (Cres)	nucl1776	ckm	WORM	čȇrf	ʧêːrf	ʧ êː r f	čːrf	WORM_1	FALSE	Distinct from gyîːst {gjȋst} 'intestinal worm' [Houtzagers 1985: 244].	Houtzagers 1985: 223
+OrlecChakavian_YEAR_2	Čakavian (Cres)	nucl1776	ckm	YEAR	lẽto	lěːtɔ	l ěː t ɔ	lːt-ɔ	YEAR_2	FALSE	Polysemy: 'year / summer'.	Houtzagers 1985: 286
 DevinskaNovaVesChakavian_ALL_1	Burgenland Čakavian	burg1244	ckm	ALL	vàs	vas	v a s	vas	ALL_1	FALSE	Feminine form: sa {sà}. Neuter form: sɛ {sè}.	Vážný 1927: 195
-DevinskaNovaVesChakavian_ASH_1	Burgenland Čakavian	burg1244	ckm	ASH	pi̯èpel	pjěpɛl	p j e ̌ p ɛ l	pypɛl	ASH_1	FALSE		Vážný 1927: 173
-DevinskaNovaVesChakavian_BARK_1	Burgenland Čakavian	burg1244	ckm	BARK	ku̯òra	ku̯ɔ̌ra	k u̯ ɔ ̌ r a	kwr-a	BARK_1	FALSE		Vážný 1927: 160
+DevinskaNovaVesChakavian_ASH_1	Burgenland Čakavian	burg1244	ckm	ASH	pi̯èpel	pjěpɛl	p j ě p ɛ l	pypɛl	ASH_1	FALSE		Vážný 1927: 173
+DevinskaNovaVesChakavian_BARK_1	Burgenland Čakavian	burg1244	ckm	BARK	ku̯òra	ku̯ɔ̌ra	k u̯ ɔ̌ r a	kwr-a	BARK_1	FALSE		Vážný 1927: 160
 DevinskaNovaVesChakavian_BELLY_2	Burgenland Čakavian	burg1244	ckm	BELLY	trbūh	tˈr̩buːɦ	t ˈr̩ b uː ɦ	tˈr̩buːɦ	BELLY_2	FALSE		Vážný 1927: 192
 DevinskaNovaVesChakavian_BIG_2	Burgenland Čakavian	burg1244	ckm	BIG	vèlīk	vˈɛliːk	v ˈɛ l iː k	vˈɛliːk	BIG_2	FALSE	Comparative form: vyȶ-i {vi̯èťi}.	Vážný 1927: 195
-DevinskaNovaVesChakavian_BIG_2	Burgenland Čakavian	burg1244	ckm	BIG	vi̯èlik	vjělik	v j e ̌ l i k	vylik	BIG_2	FALSE	Comparative form: vyȶ-i {vi̯èťi}.	Vážný 1927: 195
+DevinskaNovaVesChakavian_BIG_2	Burgenland Čakavian	burg1244	ckm	BIG	vi̯èlik	vjělik	v j ě l i k	vylik	BIG_2	FALSE	Comparative form: vyȶ-i {vi̯èťi}.	Vážný 1927: 195
 DevinskaNovaVesChakavian_BIRD_2	Burgenland Čakavian	burg1244	ckm	BIRD	ptìca	ptˈiʦa	p t ˈi ʦ a	ptˈic-a	BIRD_2	FALSE	The form {ptìca} was used in Dúbravka and Lamač, while {tìca} is the Devínská Nová Ves form.	Vážný 1927: 179, 191
 DevinskaNovaVesChakavian_BIRD_2	Burgenland Čakavian	burg1244	ckm	BIRD	tìca	tˈiʦa	t ˈi ʦ a	tˈic-a	BIRD_2	FALSE	The form {ptìca} was used in Dúbravka and Lamač, while {tìca} is the Devínská Nová Ves form.	Vážný 1927: 179, 191
-DevinskaNovaVesChakavian_BITE_2	Burgenland Čakavian	burg1244	ckm	BITE	grȋst	ɡrîːst	ɡ r i ̂ː s t	grîːs-t	BITE_2	FALSE		Vážný 1927: 148
-DevinskaNovaVesChakavian_BLACK_1	Burgenland Čakavian	burg1244	ckm	BLACK	čì̯eran	ʧjêran	ʧ j e ̂ r a n	čyran	BLACK_1	FALSE		Vážný 1927: 139
-DevinskaNovaVesChakavian_BLACK_1	Burgenland Čakavian	burg1244	ckm	BLACK	čì̯erān	ʧjêraːn	ʧ j e ̂ r aː n	čyraːn	BLACK_1	FALSE		Vážný 1927: 139
+DevinskaNovaVesChakavian_BITE_2	Burgenland Čakavian	burg1244	ckm	BITE	grȋst	ɡrîːst	ɡ r îː s t	grîːs-t	BITE_2	FALSE		Vážný 1927: 148
+DevinskaNovaVesChakavian_BLACK_1	Burgenland Čakavian	burg1244	ckm	BLACK	čì̯eran	ʧjêran	ʧ j ê r a n	čyran	BLACK_1	FALSE		Vážný 1927: 139
+DevinskaNovaVesChakavian_BLACK_1	Burgenland Čakavian	burg1244	ckm	BLACK	čì̯erān	ʧjêraːn	ʧ j ê r aː n	čyraːn	BLACK_1	FALSE		Vážný 1927: 139
 DevinskaNovaVesChakavian_BLOOD_1	Burgenland Čakavian	burg1244	ckm	BLOOD	krv	kr̩v	k r̩ v	kr̩v	BLOOD_1	FALSE		Vážný 1927: 159
-DevinskaNovaVesChakavian_BONE_1	Burgenland Čakavian	burg1244	ckm	BONE	kù̯ost	ku̯ôst	k u̯ o ̂ s t	kwst	BONE_1	FALSE		Vážný 1927: 160
+DevinskaNovaVesChakavian_BONE_1	Burgenland Čakavian	burg1244	ckm	BONE	kù̯ost	ku̯ôst	k u̯ ô s t	kwst	BONE_1	FALSE		Vážný 1927: 160
 DevinskaNovaVesChakavian_BREAST_1	Burgenland Čakavian	burg1244	ckm	BREAST	prsa	pˈr̩sa	p ˈr̩ s a	pˈr̩s-a	BREAST_1	FALSE	Plural forms. There is also another term, ɲǎːdr-a {ňádra} (plural) [Vážný 1927: 169], of Slovak origin. Vážný does not specify its meaning, but it is probably 'female breast'.	Vážný 1927: 178
 DevinskaNovaVesChakavian_BREAST_1	Burgenland Čakavian	burg1244	ckm	BREAST	prsi	pˈr̩si	p ˈr̩ s i	pˈr̩s-i	BREAST_1	FALSE	Plural forms. There is also another term, ɲǎːdr-a {ňádra} (plural) [Vážný 1927: 169], of Slovak origin. Vážný does not specify its meaning, but it is probably 'female breast'.	Vážný 1927: 178
-DevinskaNovaVesChakavian_FINGERNAIL_1	Burgenland Čakavian	burg1244	ckm	FINGERNAIL	nu̯òhat	nu̯ɔ̌ɦat	n u̯ ɔ ̌ ɦ a t	nwɦ-at	FINGERNAIL_1	FALSE		Vážný 1927: 169
-DevinskaNovaVesChakavian_CLOUD_1	Burgenland Čakavian	burg1244	ckm	CLOUD	u̯òblak	u̯ɔ̌blak	u̯ ɔ ̌ b l a k	wblak	CLOUD_1	FALSE	Distinct from mˈagl-a {màgla} 'fog' [Vážný 1927: 163].	Vážný 1927: 194
+DevinskaNovaVesChakavian_FINGERNAIL_1	Burgenland Čakavian	burg1244	ckm	FINGERNAIL	nu̯òhat	nu̯ɔ̌ɦat	n u̯ ɔ̌ ɦ a t	nwɦ-at	FINGERNAIL_1	FALSE		Vážný 1927: 169
+DevinskaNovaVesChakavian_CLOUD_1	Burgenland Čakavian	burg1244	ckm	CLOUD	u̯òblak	u̯ɔ̌blak	u̯ ɔ̌ b l a k	wblak	CLOUD_1	FALSE	Distinct from mˈagl-a {màgla} 'fog' [Vážný 1927: 163].	Vážný 1927: 194
 DevinskaNovaVesChakavian_CLOUD_1	Burgenland Čakavian	burg1244	ckm	CLOUD	òblak	ʔˈɔblak	ʔ ˈɔ b l a k	ʔˈɔblak	CLOUD_1	FALSE	Distinct from mˈagl-a {màgla} 'fog' [Vážný 1927: 163].	Vážný 1927: 194
 DevinskaNovaVesChakavian_COLD_3	Burgenland Čakavian	burg1244	ckm	COLD	mrzal	mˈr̩zal	m ˈr̩ z a l	mˈr̩zal	COLD_3	FALSE		Vážný 1927: 166
-DevinskaNovaVesChakavian_COME_1	Burgenland Čakavian	burg1244	ckm	COME	dù̯ojt	du̯ôjt	d u̯ o ̂ j t	dw=y-t	COME_1	FALSE	First person singular: dw=yd-ɛm {dù̯ojdem}.	Vážný 1927: 144
+DevinskaNovaVesChakavian_COME_1	Burgenland Čakavian	burg1244	ckm	COME	dù̯ojt	du̯ôjt	d u̯ ô j t	dw=y-t	COME_1	FALSE	First person singular: dw=yd-ɛm {dù̯ojdem}.	Vážný 1927: 144
 DevinskaNovaVesChakavian_DIE_1	Burgenland Čakavian	burg1244	ckm	DIE	ùmrīt	ˈumriːt	ˈu m r iː t	ˈu=mriː-t	DIE_1	FALSE	Perfective form. The form mrîː-t {mrȋt} 'to die (imperfective) / to torment' is also attested [Vážný 1927: 166].	Vážný 1927: 193-194
 DevinskaNovaVesChakavian_DOG_1	Burgenland Čakavian	burg1244	ckm	DOG	pàs	pas	p a s	pas	DOG_1	FALSE	The form cûːc-ak {cȗcak} was used in the Kajkavian dialect of Horvatský Grób [Vážný 1927: 172].	Vážný 1927: 172
 DevinskaNovaVesChakavian_DRINK_1	Burgenland Čakavian	burg1244	ckm	DRINK	pìt	pit	p i t	pi-t	DRINK_1	FALSE		Vážný 1927: 174
-DevinskaNovaVesChakavian_DRY_1	Burgenland Čakavian	burg1244	ckm	DRY	sȗh	sûːɦ	s u ̂ː ɦ	sûːɦ	DRY_1	FALSE		Vážný 1927: 187
-DevinskaNovaVesChakavian_EAR_1	Burgenland Čakavian	burg1244	ckm	EAR	úho	ǔːɦɔ	u ̌ː ɦ ɔ	ǔːɦ-ɔ	EAR_1	FALSE		Vážný 1927: 193
+DevinskaNovaVesChakavian_DRY_1	Burgenland Čakavian	burg1244	ckm	DRY	sȗh	sûːɦ	s ûː ɦ	sûːɦ	DRY_1	FALSE		Vážný 1927: 187
+DevinskaNovaVesChakavian_EAR_1	Burgenland Čakavian	burg1244	ckm	EAR	úho	ǔːɦɔ	ǔː ɦ ɔ	ǔːɦ-ɔ	EAR_1	FALSE		Vážný 1927: 193
 DevinskaNovaVesChakavian_EARTH_1	Burgenland Čakavian	burg1244	ckm	EARTH	zèmľa	zˈɛmʎa	z ˈɛ m ʎ a	zˈɛmʎ-a	EARTH_1	FALSE		Vážný 1927: 200
 DevinskaNovaVesChakavian_EARTH_1	Burgenland Čakavian	burg1244	ckm	EARTH	zèmja	zˈɛmja	z ˈɛ m j a	zˈɛmy-a	EARTH_1	FALSE		Vážný 1927: 200
-DevinskaNovaVesChakavian_EAT_1	Burgenland Čakavian	burg1244	ckm	EAT	jȋst	jîːst	j i ̂ː s t	yîːs-t	EAT_1	FALSE		Vážný 1927: 152
-DevinskaNovaVesChakavian_EGG_1	Burgenland Čakavian	burg1244	ckm	EGG	jȃjce	jâːjʦɛ	j a ̂ː j ʦ ɛ	yâːy-c-ɛ	EGG_1	FALSE		Vážný 1927: 152
-DevinskaNovaVesChakavian_EYE_1	Burgenland Čakavian	burg1244	ckm	EYE	u̯òko	u̯ɔ̌kɔ	u̯ ɔ ̌ k ɔ	wk-ɔ	EYE_1	FALSE		Vážný 1927: 194
+DevinskaNovaVesChakavian_EAT_1	Burgenland Čakavian	burg1244	ckm	EAT	jȋst	jîːst	j îː s t	yîːs-t	EAT_1	FALSE		Vážný 1927: 152
+DevinskaNovaVesChakavian_EGG_1	Burgenland Čakavian	burg1244	ckm	EGG	jȃjce	jâːjʦɛ	j âː j ʦ ɛ	yâːy-c-ɛ	EGG_1	FALSE		Vážný 1927: 152
+DevinskaNovaVesChakavian_EYE_1	Burgenland Čakavian	burg1244	ckm	EYE	u̯òko	u̯ɔ̌kɔ	u̯ ɔ̌ k ɔ	wk-ɔ	EYE_1	FALSE		Vážný 1927: 194
 DevinskaNovaVesChakavian_FEATHER_1	Burgenland Čakavian	burg1244	ckm	FEATHER	pèro	pˈɛrɔ	p ˈɛ r ɔ	pˈɛr-ɔ	FEATHER_1	FALSE		Vážný 1927: 173
 DevinskaNovaVesChakavian_FIRE_1	Burgenland Čakavian	burg1244	ckm	FIRE	ògāň	ʔˈɔɡaːɲ	ʔ ˈɔ ɡ aː ɲ	ʔˈɔgaːɲ	FIRE_1	FALSE		Vážný 1927: 170
 DevinskaNovaVesChakavian_FISH_1	Burgenland Čakavian	burg1244	ckm	FISH	rìba	rˈiba	r ˈi b a	rˈib-a	FISH_1	FALSE		Vážný 1927: 181
 DevinskaNovaVesChakavian_FLY_1	Burgenland Čakavian	burg1244	ckm	FLY	lètit	lˈɛtit	l ˈɛ t i t	lˈɛt-i-t	FLY_1	FALSE		Vážný 1927: 161
-DevinskaNovaVesChakavian_FOOT_1	Burgenland Čakavian	burg1244	ckm	FOOT	nu̯òga	nu̯ɔ̌ɡa	n u̯ ɔ ̌ ɡ a	nwg-a	FOOT_1	FALSE		Vážný 1927: 169
-DevinskaNovaVesChakavian_FULL_1	Burgenland Čakavian	burg1244	ckm	FULL	pȗn	pûːn	p u ̂ː n	pûːn	FULL_1	FALSE		Vážný 1927: 179
+DevinskaNovaVesChakavian_FOOT_1	Burgenland Čakavian	burg1244	ckm	FOOT	nu̯òga	nu̯ɔ̌ɡa	n u̯ ɔ̌ ɡ a	nwg-a	FOOT_1	FALSE		Vážný 1927: 169
+DevinskaNovaVesChakavian_FULL_1	Burgenland Čakavian	burg1244	ckm	FULL	pȗn	pûːn	p ûː n	pûːn	FULL_1	FALSE		Vážný 1927: 179
 DevinskaNovaVesChakavian_GIVE_1	Burgenland Čakavian	burg1244	ckm	GIVE	dàt	dat	d a t	da-t	GIVE_1	FALSE		Vážný 1927: 141
-DevinskaNovaVesChakavian_GOOD_1	Burgenland Čakavian	burg1244	ckm	GOOD	du̯òbar	du̯ɔ̌bar	d u̯ ɔ ̌ b a r	dwbar	GOOD_1	FALSE	Comparative form: bwʎ-i {bu̯òľi} ~ bwj-i {bu̯òji}.	Vážný 1927: 144
+DevinskaNovaVesChakavian_GOOD_1	Burgenland Čakavian	burg1244	ckm	GOOD	du̯òbar	du̯ɔ̌bar	d u̯ ɔ̌ b a r	dwbar	GOOD_1	FALSE	Comparative form: bwʎ-i {bu̯òľi} ~ bwj-i {bu̯òji}.	Vážný 1927: 144
 DevinskaNovaVesChakavian_GREEN_1	Burgenland Čakavian	burg1244	ckm	GREEN	zèli̯en	zˈɛljɛn	z ˈɛ l j ɛ n	zˈɛlyɛn	GREEN_1	FALSE		Does not occur in the dictionary, but is cited in the grammatical part of [Vážný 1927: 52, 62]
-DevinskaNovaVesChakavian_HAIR_2	Burgenland Čakavian	burg1244	ckm	HAIR	vlȃs	vlâːs	v l a ̂ː s	vlâːs	HAIR_2	FALSE	Distinct from kˈɔs-a {kòsa} 'woman's hair, plait' [Vážný 1927: 157].	Vážný 1927: 196
+DevinskaNovaVesChakavian_HAIR_2	Burgenland Čakavian	burg1244	ckm	HAIR	vlȃs	vlâːs	v l âː s	vlâːs	HAIR_2	FALSE	Distinct from kˈɔs-a {kòsa} 'woman's hair, plait' [Vážný 1927: 157].	Vážný 1927: 196
 DevinskaNovaVesChakavian_HAND_1	Burgenland Čakavian	burg1244	ckm	HAND	rùka	rˈuka	r ˈu k a	rˈuk-a	HAND_1	FALSE		Vážný 1927: 182
-DevinskaNovaVesChakavian_HEAD_1	Burgenland Čakavian	burg1244	ckm	HEAD	glȃva	ɡlâːva	ɡ l a ̂ː v a	glâːv-a	HEAD_1	FALSE	Polysemy: 'head / hub of the wheel'.	Vážný 1927: 147
+DevinskaNovaVesChakavian_HEAD_1	Burgenland Čakavian	burg1244	ckm	HEAD	glȃva	ɡlâːva	ɡ l âː v a	glâːv-a	HEAD_1	FALSE	Polysemy: 'head / hub of the wheel'.	Vážný 1927: 147
 DevinskaNovaVesChakavian_HEAR_2	Burgenland Čakavian	burg1244	ckm	HEAR	čùt	ʧut	ʧ u t	ču-t	HEAR_2	FALSE	Distinct from pɔ=slˈuš-a-t {poslùšat} 'to listen' [Vážný 1927: 176].	Vážný 1927: 140
 DevinskaNovaVesChakavian_HEART_1	Burgenland Čakavian	burg1244	ckm	HEART	srce	sˈr̩ʦɛ	s ˈr̩ ʦ ɛ	sˈr̩c-ɛ	HEART_1	FALSE		Vážný 1927: 185
-DevinskaNovaVesChakavian_HORN_1	Burgenland Čakavian	burg1244	ckm	HORN	rù̯og	ru̯ôɡ	r u̯ o ̂ ɡ	rwg	HORN_1	FALSE		Vážný 1927: 182
-DevinskaNovaVesChakavian_I_1	Burgenland Čakavian	burg1244	ckm	I	jȃ	jâː	j a ̂ː	yâː	I_1	FALSE	Paradigm: yâː {jȃ} ~ ya {ja} (clitic) [nom.] / myn-ɛ {mì̯ene} ~ mˈɛn-ɛ {mène} ~ mɛ {me} (clitic) [gen.] / mˈɛn-i {mèni} ~ mi {mi} (clitic) [dat.] / myn-ɛ {mì̯ene} ~ mˈɛn-ɛ {mène} ~ mɛ {me} (clitic) [acc.] / mǎːn-u {mánu} ~ mˈan-uː {mànū} ~ mn-uː {mnū} [ins.] / mˈɛn-i {mèni} [loc.].	Vážný 1927: 72
-DevinskaNovaVesChakavian_I_2	Burgenland Čakavian	burg1244	ckm	I	mì̯ene	mjênɛ	m j e ̂ n ɛ	myn-ɛ	I_2	FALSE		Accusative form
+DevinskaNovaVesChakavian_HORN_1	Burgenland Čakavian	burg1244	ckm	HORN	rù̯og	ru̯ôɡ	r u̯ ô ɡ	rwg	HORN_1	FALSE		Vážný 1927: 182
+DevinskaNovaVesChakavian_I_1	Burgenland Čakavian	burg1244	ckm	I	jȃ	jâː	j âː	yâː	I_1	FALSE	Paradigm: yâː {jȃ} ~ ya {ja} (clitic) [nom.] / myn-ɛ {mì̯ene} ~ mˈɛn-ɛ {mène} ~ mɛ {me} (clitic) [gen.] / mˈɛn-i {mèni} ~ mi {mi} (clitic) [dat.] / myn-ɛ {mì̯ene} ~ mˈɛn-ɛ {mène} ~ mɛ {me} (clitic) [acc.] / mǎːn-u {mánu} ~ mˈan-uː {mànū} ~ mn-uː {mnū} [ins.] / mˈɛn-i {mèni} [loc.].	Vážný 1927: 72
+DevinskaNovaVesChakavian_I_2	Burgenland Čakavian	burg1244	ckm	I	mì̯ene	mjênɛ	m j ê n ɛ	myn-ɛ	I_2	FALSE		Accusative form
 DevinskaNovaVesChakavian_KILL_1	Burgenland Čakavian	burg1244	ckm	KILL	ùbit	ʔˈubit	ʔ ˈu b i t	ʔˈu=bi-t	KILL_1	FALSE		Vážný 1927: 193
-DevinskaNovaVesChakavian_KNEE_1	Burgenland Čakavian	burg1244	ckm	KNEE	koli̯èno	kɔljěnɔ	k ɔ l j e ̌ n ɔ	kɔlyn-ɔ	KNEE_1	FALSE		Vážný 1927: 156
+DevinskaNovaVesChakavian_KNEE_1	Burgenland Čakavian	burg1244	ckm	KNEE	koli̯èno	kɔljěnɔ	k ɔ l j ě n ɔ	kɔlyn-ɔ	KNEE_1	FALSE		Vážný 1927: 156
 DevinskaNovaVesChakavian_KNOW_1	Burgenland Čakavian	burg1244	ckm	KNOW	znàt	znat	z n a t	zna-t	KNOW_1	FALSE		Vážný 1927: 201
-DevinskaNovaVesChakavian_LEAF_1	Burgenland Čakavian	burg1244	ckm	LEAF	lȋst	lîːst	l i ̂ː s t	lîːst	LEAF_1	FALSE		Vážný 1927: 162
+DevinskaNovaVesChakavian_LEAF_1	Burgenland Čakavian	burg1244	ckm	LEAF	lȋst	lîːst	l îː s t	lîːst	LEAF_1	FALSE		Vážný 1927: 162
 DevinskaNovaVesChakavian_LIE_1	Burgenland Čakavian	burg1244	ckm	LIE	lèžat	lˈɛʒat	l ˈɛ ʒ a t	lˈɛž-a-t	LIE_1	FALSE	Distinct from lɛȶ-si {lèť si} 'to lie down' [Vážný 1927: 161].	Not attested in the dictionary, but occurs in the text: {Pȃk vìdi, da prìnc lèži mtāv} "Then she sees that the prince is lying dead" [Vážný 1927: 105]
-DevinskaNovaVesChakavian_LIVER_1	Burgenland Čakavian	burg1244	ckm	LIVER	jȃtra	jâːtra	j a ̂ː t r a	yâːtr-a	LIVER_1	FALSE		Vážný 1927: 153
+DevinskaNovaVesChakavian_LIVER_1	Burgenland Čakavian	burg1244	ckm	LIVER	jȃtra	jâːtra	j âː t r a	yâːtr-a	LIVER_1	FALSE		Vážný 1927: 153
 DevinskaNovaVesChakavian_LONG_1	Burgenland Čakavian	burg1244	ckm	LONG	dùžičak	dˈuʒiʧak	d ˈu ʒ i ʧ a k	dˈuž-ič-ak	LONG_1	FALSE	Comparative form: dˈuž-ʎ-i {dùžľi}.	Vážný 1927: 144
-DevinskaNovaVesChakavian_LOUSE_1	Burgenland Čakavian	burg1244	ckm	LOUSE	vȗš	vûːʃ	v u ̂ː ʃ	vûːš	LOUSE_1	FALSE		Vážný 1927: 198
-DevinskaNovaVesChakavian_MAN_1	Burgenland Čakavian	burg1244	ckm	MAN	mȗž	mûːʒ	m u ̂ː ʒ	mûːž	MAN_1	FALSE	In addition to the inherited mûːž {mȗž}, the Slovakism {hlȃp} is also used. Unfortunately, available data do not allow us to find any difference between them.	Vážný 1927: 167
-DevinskaNovaVesChakavian_MAN_-1	Burgenland Čakavian	burg1244	ckm	MAN	hlȃp	ɦlâːp	ɦ l a ̂ː p	ɦlâːp	MAN_-1	TRUE		Vážný 1927: 150
+DevinskaNovaVesChakavian_LOUSE_1	Burgenland Čakavian	burg1244	ckm	LOUSE	vȗš	vûːʃ	v ûː ʃ	vûːš	LOUSE_1	FALSE		Vážný 1927: 198
+DevinskaNovaVesChakavian_MAN_1	Burgenland Čakavian	burg1244	ckm	MAN	mȗž	mûːʒ	m ûː ʒ	mûːž	MAN_1	FALSE	In addition to the inherited mûːž {mȗž}, the Slovakism {hlȃp} is also used. Unfortunately, available data do not allow us to find any difference between them.	Vážný 1927: 167
+DevinskaNovaVesChakavian_MAN_-1	Burgenland Čakavian	burg1244	ckm	MAN	hlȃp	ɦlâːp	ɦ l âː p	ɦlâːp	MAN_-1	TRUE		Vážný 1927: 150
 DevinskaNovaVesChakavian_MANY_2	Burgenland Čakavian	burg1244	ckm	MANY	čùda	ʧˈuda	ʧ ˈu d a	čˈuda	MANY_2	FALSE	Comparative form: vɛȶ {vèť}.	Vážný 1927: 140
-DevinskaNovaVesChakavian_MEAT_1	Burgenland Čakavian	burg1244	ckm	MEAT	mì̯eso	mjêsɔ	m j e ̂ s ɔ	mys-ɔ	MEAT_1	FALSE		Vážný 1927: 164
+DevinskaNovaVesChakavian_MEAT_1	Burgenland Čakavian	burg1244	ckm	MEAT	mì̯eso	mjêsɔ	m j ê s ɔ	mys-ɔ	MEAT_1	FALSE		Vážný 1927: 164
 DevinskaNovaVesChakavian_MOON_1	Burgenland Čakavian	burg1244	ckm	MOON	mìsec	misɛʦ	m i s ɛ ʦ	misɛc	MOON_1	FALSE		Vážný 1927: 165
-DevinskaNovaVesChakavian_MOUNTAIN_2	Burgenland Čakavian	burg1244	ckm	MOUNTAIN	gu̯òra	ɡu̯ɔ̌ra	ɡ u̯ ɔ ̌ r a	gwr-a	MOUNTAIN_2	FALSE	Polysemy: 'mountain / forest'.	Vážný 1927: 149
-DevinskaNovaVesChakavian_MOUTH_1	Burgenland Čakavian	burg1244	ckm	MOUTH	ȗsta	ʔûːsta	ʔ u ̂ː s t a	ʔûːst-a	MOUTH_1	FALSE	Along with this inherited term, the Slovakisms ɦˈub-a {hùba} and gǔːb-a {gúba} are also used in the meaning 'mouth'. The shift in their meaning is a result of  Slovak influence.	Vážný 1927: 195
-DevinskaNovaVesChakavian_MOUTH_-1	Burgenland Čakavian	burg1244	ckm	MOUTH	gúba	ɡǔːba	ɡ u ̌ː b a	gǔːb-a	MOUTH_-1	TRUE		Vážný 1927: 149, 151
+DevinskaNovaVesChakavian_MOUNTAIN_2	Burgenland Čakavian	burg1244	ckm	MOUNTAIN	gu̯òra	ɡu̯ɔ̌ra	ɡ u̯ ɔ̌ r a	gwr-a	MOUNTAIN_2	FALSE	Polysemy: 'mountain / forest'.	Vážný 1927: 149
+DevinskaNovaVesChakavian_MOUTH_1	Burgenland Čakavian	burg1244	ckm	MOUTH	ȗsta	ʔûːsta	ʔ ûː s t a	ʔûːst-a	MOUTH_1	FALSE	Along with this inherited term, the Slovakisms ɦˈub-a {hùba} and gǔːb-a {gúba} are also used in the meaning 'mouth'. The shift in their meaning is a result of  Slovak influence.	Vážný 1927: 195
+DevinskaNovaVesChakavian_MOUTH_-1	Burgenland Čakavian	burg1244	ckm	MOUTH	gúba	ɡǔːba	ɡ ǔː b a	gǔːb-a	MOUTH_-1	TRUE		Vážný 1927: 149, 151
 DevinskaNovaVesChakavian_MOUTH_-1	Burgenland Čakavian	burg1244	ckm	MOUTH	hùba	ɦˈuba	ɦ ˈu b a	ɦˈub-a	MOUTH_-1	TRUE		Vážný 1927: 149, 151
 DevinskaNovaVesChakavian_NAME_1	Burgenland Čakavian	burg1244	ckm	NAME	ìme	ʔimɛ	ʔ i m ɛ	ʔimɛ	NAME_1	FALSE		Vážný 1927: 152
 DevinskaNovaVesChakavian_NECK_2	Burgenland Čakavian	burg1244	ckm	NECK	vràt	vrat	v r a t	vrat	NECK_2	FALSE		Vážný 1927: 197
-DevinskaNovaVesChakavian_NEW_1	Burgenland Čakavian	burg1244	ckm	NEW	nù̯ov	nu̯ôv	n u̯ o ̂ v	nwv	NEW_1	FALSE		Vážný 1927: 169
-DevinskaNovaVesChakavian_NIGHT_1	Burgenland Čakavian	burg1244	ckm	NIGHT	nù̯oť	nu̯ôc	n u̯ o ̂ c	nwȶ	NIGHT_1	FALSE		Vážný 1927: 169
-DevinskaNovaVesChakavian_NOSE_1	Burgenland Čakavian	burg1244	ckm	NOSE	nù̯os	nu̯ôs	n u̯ o ̂ s	nws	NOSE_1	FALSE		Vážný 1927: 169
+DevinskaNovaVesChakavian_NEW_1	Burgenland Čakavian	burg1244	ckm	NEW	nù̯ov	nu̯ôv	n u̯ ô v	nwv	NEW_1	FALSE		Vážný 1927: 169
+DevinskaNovaVesChakavian_NIGHT_1	Burgenland Čakavian	burg1244	ckm	NIGHT	nù̯oť	nu̯ôc	n u̯ ô c	nwȶ	NIGHT_1	FALSE		Vážný 1927: 169
+DevinskaNovaVesChakavian_NOSE_1	Burgenland Čakavian	burg1244	ckm	NOSE	nù̯os	nu̯ôs	n u̯ ô s	nws	NOSE_1	FALSE		Vážný 1927: 169
 DevinskaNovaVesChakavian_NOT_1	Burgenland Čakavian	burg1244	ckm	NOT	ne	nɛ	n ɛ	nɛ	NOT_1	FALSE		Vážný 1927: 97
 DevinskaNovaVesChakavian_ONE_1	Burgenland Čakavian	burg1244	ckm	ONE	jèdān	jˈɛdaːn	j ˈɛ d aː n	yˈɛdaːn	ONE_1	FALSE		Vážný 1927: 153
 DevinskaNovaVesChakavian_ONE_1	Burgenland Čakavian	burg1244	ckm	ONE	jèdan	jˈɛdan	j ˈɛ d a n	yˈɛdan	ONE_1	FALSE		Vážný 1927: 153
 DevinskaNovaVesChakavian_PERSON_1	Burgenland Čakavian	burg1244	ckm	PERSON	člòvīk	ʧlˈɔviːk	ʧ l ˈɔ v iː k	člˈɔviːk	PERSON_1	FALSE	Plural form: ʎûːd-i {ľȗdi}.	Vážný 1927: 140
-DevinskaNovaVesChakavian_RAIN_2	Burgenland Čakavian	burg1244	ckm	RAIN	gu̯òdina	ɡu̯ɔ̌dina	ɡ u̯ ɔ ̌ d i n a	gwd-in-a	RAIN_2	FALSE	Described by Vážný as 'velký dešť, bouře' ('big rain, storm'). However, there is no other word for rain and the expression {vèlika gu̯òdina} is used for the designation of heavy rain, which makes us conclude that most probably {gu̯òdina} is the basic term for 'rain'.	Vážný 1927: 149
+DevinskaNovaVesChakavian_RAIN_2	Burgenland Čakavian	burg1244	ckm	RAIN	gu̯òdina	ɡu̯ɔ̌dina	ɡ u̯ ɔ̌ d i n a	gwd-in-a	RAIN_2	FALSE	Described by Vážný as 'velký dešť, bouře' ('big rain, storm'). However, there is no other word for rain and the expression {vèlika gu̯òdina} is used for the designation of heavy rain, which makes us conclude that most probably {gu̯òdina} is the basic term for 'rain'.	Vážný 1927: 149
 DevinskaNovaVesChakavian_RED_1	Burgenland Čakavian	burg1244	ckm	RED	črľien	ʧˈr̩ʎjɛn	ʧ ˈr̩ ʎ j ɛ n	čˈr̩ʎyɛn	RED_1	FALSE		Vážný 1927: 140
 DevinskaNovaVesChakavian_RED_1	Burgenland Čakavian	burg1244	ckm	RED	črľen	ʧˈr̩ʎɛn	ʧ ˈr̩ ʎ ɛ n	čˈr̩ʎɛn	RED_1	FALSE		Vážný 1927: 140
-DevinskaNovaVesChakavian_PATH OR ROAD_-1	Burgenland Čakavian	burg1244	ckm	PATH OR ROAD	ci̯èsta	ʦjěsta	ʦ j e ̌ s t a	cyst-a	PATH OR ROAD_-1	TRUE	Initial consonant indicates Slovak influence.	Vážný 1927: 138
-DevinskaNovaVesChakavian_ROOT_1	Burgenland Čakavian	burg1244	ckm	ROOT	ku̯òren	ku̯ɔ̌rɛn	k u̯ ɔ ̌ r ɛ n	kwrɛn	ROOT_1	FALSE		Vážný 1927: 160
+DevinskaNovaVesChakavian_PATH OR ROAD_-1	Burgenland Čakavian	burg1244	ckm	PATH OR ROAD	ci̯èsta	ʦjěsta	ʦ j ě s t a	cyst-a	PATH OR ROAD_-1	TRUE	Initial consonant indicates Slovak influence.	Vážný 1927: 138
+DevinskaNovaVesChakavian_ROOT_1	Burgenland Čakavian	burg1244	ckm	ROOT	ku̯òren	ku̯ɔ̌rɛn	k u̯ ɔ̌ r ɛ n	kwrɛn	ROOT_1	FALSE		Vážný 1927: 160
 DevinskaNovaVesChakavian_SAY_2	Burgenland Čakavian	burg1244	ckm	SAY	rèť	rɛc	r ɛ c	rɛȶ	SAY_2	FALSE		Vážný 1927: 181
 DevinskaNovaVesChakavian_SEE_2	Burgenland Čakavian	burg1244	ckm	SEE	vìdit	vˈidit	v ˈi d i t	vˈid-i-t	SEE_2	FALSE	Distinct from čˈud-i-t-sɛ {čùdit se} and glyd-a-t {gli̯èdat} 'to look' [Vážný 1927: 140, 147].	Vážný 1927: 196
 DevinskaNovaVesChakavian_SEED_1	Burgenland Čakavian	burg1244	ckm	SEED	sìme	sˈimɛ	s ˈi m ɛ	sˈimɛ	SEED_1	FALSE		Vážný 1927: 184
 DevinskaNovaVesChakavian_SIT_1	Burgenland Čakavian	burg1244	ckm	SIT	sìdit	sˈidit	s ˈi d i t	sˈid-i-t	SIT_1	FALSE	Distinct from sys-t-si {sì̯est si} 'to sit down' [Vážný 1927: 183].	Vážný 1927: 183
-DevinskaNovaVesChakavian_SKIN_1	Burgenland Čakavian	burg1244	ckm	SKIN	ku̯òža	ku̯ɔ̌ʒa	k u̯ ɔ ̌ ʒ a	kwž-a	SKIN_1	FALSE		Vážný 1927: 160
+DevinskaNovaVesChakavian_SKIN_1	Burgenland Čakavian	burg1244	ckm	SKIN	ku̯òža	ku̯ɔ̌ʒa	k u̯ ɔ̌ ʒ a	kwž-a	SKIN_1	FALSE		Vážný 1927: 160
 DevinskaNovaVesChakavian_SLEEP_1	Burgenland Čakavian	burg1244	ckm	SLEEP	spàt	spat	s p a t	spa-t	SLEEP_1	FALSE		Vážný 1927: 185
-DevinskaNovaVesChakavian_SMALL_1	Burgenland Čakavian	burg1244	ckm	SMALL	máľučak	mǎːʎuʧak	m a ̌ː ʎ u ʧ a k	mǎːʎ-uč-ak	SMALL_1	FALSE	Older form mâːl {mȃl} is less frequent [Vážný 1927: 163].	Vážný 1927: 163
-DevinskaNovaVesChakavian_SMALL_1	Burgenland Čakavian	burg1244	ckm	SMALL	májučak	mǎːjuʧak	m a ̌ː j u ʧ a k	mǎːy-uč-ak	SMALL_1	FALSE	Older form mâːl {mȃl} is less frequent [Vážný 1927: 163].	Vážný 1927: 163
-DevinskaNovaVesChakavian_SMOKE_2	Burgenland Čakavian	burg1244	ckm	SMOKE	dȋm	dîːm	d i ̂ː m	dîːm	SMOKE_2	FALSE		Vážný 1927: 142
-DevinskaNovaVesChakavian_STAND_1	Burgenland Čakavian	burg1244	ckm	STAND	stȃt	stâːt	s t a ̂ː t	stâː-t	STAND_1	FALSE		Vážný 1927: 186
-DevinskaNovaVesChakavian_STAR_1	Burgenland Čakavian	burg1244	ckm	STAR	zvì̯ezda	zvjêzda	z v j e ̂ z d a	zvyzd-a	STAR_1	FALSE		Vážný 1927: 202
-DevinskaNovaVesChakavian_STONE_1	Burgenland Čakavian	burg1244	ckm	STONE	kámen	kǎːmɛn	k a ̌ː m ɛ n	kǎːm-ɛn	STONE_1	FALSE		Vážný 1927: 154
-DevinskaNovaVesChakavian_SUN_1	Burgenland Čakavian	burg1244	ckm	SUN	sȗnce	sûːnʦɛ	s u ̂ː n ʦ ɛ	sûːnc-ɛ	SUN_1	FALSE		Vážný 1927: 187
+DevinskaNovaVesChakavian_SMALL_1	Burgenland Čakavian	burg1244	ckm	SMALL	máľučak	mǎːʎuʧak	m ǎː ʎ u ʧ a k	mǎːʎ-uč-ak	SMALL_1	FALSE	Older form mâːl {mȃl} is less frequent [Vážný 1927: 163].	Vážný 1927: 163
+DevinskaNovaVesChakavian_SMALL_1	Burgenland Čakavian	burg1244	ckm	SMALL	májučak	mǎːjuʧak	m ǎː j u ʧ a k	mǎːy-uč-ak	SMALL_1	FALSE	Older form mâːl {mȃl} is less frequent [Vážný 1927: 163].	Vážný 1927: 163
+DevinskaNovaVesChakavian_SMOKE_2	Burgenland Čakavian	burg1244	ckm	SMOKE	dȋm	dîːm	d îː m	dîːm	SMOKE_2	FALSE		Vážný 1927: 142
+DevinskaNovaVesChakavian_STAND_1	Burgenland Čakavian	burg1244	ckm	STAND	stȃt	stâːt	s t âː t	stâː-t	STAND_1	FALSE		Vážný 1927: 186
+DevinskaNovaVesChakavian_STAR_1	Burgenland Čakavian	burg1244	ckm	STAR	zvì̯ezda	zvjêzda	z v j ê z d a	zvyzd-a	STAR_1	FALSE		Vážný 1927: 202
+DevinskaNovaVesChakavian_STONE_1	Burgenland Čakavian	burg1244	ckm	STONE	kámen	kǎːmɛn	k ǎː m ɛ n	kǎːm-ɛn	STONE_1	FALSE		Vážný 1927: 154
+DevinskaNovaVesChakavian_SUN_1	Burgenland Čakavian	burg1244	ckm	SUN	sȗnce	sûːnʦɛ	s ûː n ʦ ɛ	sûːnc-ɛ	SUN_1	FALSE		Vážný 1927: 187
 DevinskaNovaVesChakavian_SWIM_2	Burgenland Čakavian	burg1244	ckm	SWIM	plùt	plut	p l u t	plu-t	SWIM_2	FALSE		Vážný 1927: 175
-DevinskaNovaVesChakavian_TAIL_2	Burgenland Čakavian	burg1244	ckm	TAIL	rì̯ep	rjêp	r j e ̂ p	ryp	TAIL_2	FALSE		Vážný 1927: 181
-DevinskaNovaVesChakavian_THAT_2	Burgenland Čakavian	burg1244	ckm	THAT	tȃ	tâː	t a ̂ː	tâː	THAT_2	FALSE		Vážný 1927: 74, 191
-DevinskaNovaVesChakavian_THIS_1	Burgenland Čakavian	burg1244	ckm	THIS	ù̯ov	u̯ôv	u̯ o ̂ v	wv	THIS_1	FALSE		Vážný 1927: 74, 194
-DevinskaNovaVesChakavian_THOU_1	Burgenland Čakavian	burg1244	ckm	THOU	tȋ	tîː	t i ̂ː	tîː	THOU_1	FALSE	Paradigm: tîː {tȋ} ~ ti {ti} (clitic) [nom.] / tyb-ɛ {tì̯ebe} ~ tˈɛb-ɛ {tèbe} ~ tɛ {te} (clitic) [gen.] / tˈɛb-i {tèbi} ~ ti {ti} (clitic) [dat.] / tyb-ɛ {tì̯ebe} ~ {tèbe} ~ tɛ {te} (clitic) [acc.] / twb-u {tu̯òbu} ~ tˈɔb-uː {tòbū} [ins.] / tˈɛb-i {tèbi} [loc.].	Vážný 1927: 72
+DevinskaNovaVesChakavian_TAIL_2	Burgenland Čakavian	burg1244	ckm	TAIL	rì̯ep	rjêp	r j ê p	ryp	TAIL_2	FALSE		Vážný 1927: 181
+DevinskaNovaVesChakavian_THAT_2	Burgenland Čakavian	burg1244	ckm	THAT	tȃ	tâː	t âː	tâː	THAT_2	FALSE		Vážný 1927: 74, 191
+DevinskaNovaVesChakavian_THIS_1	Burgenland Čakavian	burg1244	ckm	THIS	ù̯ov	u̯ôv	u̯ ô v	wv	THIS_1	FALSE		Vážný 1927: 74, 194
+DevinskaNovaVesChakavian_THOU_1	Burgenland Čakavian	burg1244	ckm	THOU	tȋ	tîː	t îː	tîː	THOU_1	FALSE	Paradigm: tîː {tȋ} ~ ti {ti} (clitic) [nom.] / tyb-ɛ {tì̯ebe} ~ tˈɛb-ɛ {tèbe} ~ tɛ {te} (clitic) [gen.] / tˈɛb-i {tèbi} ~ ti {ti} (clitic) [dat.] / tyb-ɛ {tì̯ebe} ~ {tèbe} ~ tɛ {te} (clitic) [acc.] / twb-u {tu̯òbu} ~ tˈɔb-uː {tòbū} [ins.] / tˈɛb-i {tèbi} [loc.].	Vážný 1927: 72
 DevinskaNovaVesChakavian_TONGUE_1	Burgenland Čakavian	burg1244	ckm	TONGUE	jèzīk	jˈɛziːk	j ˈɛ z iː k	yˈɛziːk	TONGUE_1	FALSE		Vážný 1927: 153
 DevinskaNovaVesChakavian_TOOTH_1	Burgenland Čakavian	burg1244	ckm	TOOTH	zùb	zub	z u b	zub	TOOTH_1	FALSE		Vážný 1927: 202
-DevinskaNovaVesChakavian_TREE_-1	Burgenland Čakavian	burg1244	ckm	TREE	strù̯om	stru̯ôm	s t r u̯ o ̂ m	strwm	TREE_-1	TRUE	Of Slovak origin. Distinct from drîːv-ɔ {drȋvo} 'wood' [Vážný 1927: 143] (with the meaning shift 'tree' > 'wood' under Slovak influence).	Vážný 1927: 187
-DevinskaNovaVesChakavian_TWO_1	Burgenland Čakavian	burg1244	ckm	TWO	dvá	dvǎː	d v a ̌ː	dv-ǎː	TWO_1	FALSE		Vážný 1927: 144
+DevinskaNovaVesChakavian_TREE_-1	Burgenland Čakavian	burg1244	ckm	TREE	strù̯om	stru̯ôm	s t r u̯ ô m	strwm	TREE_-1	TRUE	Of Slovak origin. Distinct from drîːv-ɔ {drȋvo} 'wood' [Vážný 1927: 143] (with the meaning shift 'tree' > 'wood' under Slovak influence).	Vážný 1927: 187
+DevinskaNovaVesChakavian_TWO_1	Burgenland Čakavian	burg1244	ckm	TWO	dvá	dvǎː	d v ǎː	dv-ǎː	TWO_1	FALSE		Vážný 1927: 144
 DevinskaNovaVesChakavian_WALK_1	Burgenland Čakavian	burg1244	ckm	WALK	ìt	ʔit	ʔ i t	ʔi-t	WALK_1	FALSE		Vážný 1927: 152, 84
-DevinskaNovaVesChakavian_WARM_1	Burgenland Čakavian	burg1244	ckm	WARM	ti̯èpal	tjěpal	t j e ̌ p a l	typal	WARM_1	FALSE		Vážný 1927: 191
-DevinskaNovaVesChakavian_WATER_1	Burgenland Čakavian	burg1244	ckm	WATER	vu̯òda	vu̯ɔ̌da	v u̯ ɔ ̌ d a	vwd-a	WATER_1	FALSE		Vážný 1927: 198
-DevinskaNovaVesChakavian_WE_2	Burgenland Čakavian	burg1244	ckm	WE	mȋ	mîː	m i ̂ː	mîː	WE_2	FALSE	Paradigm: mîː {mȋ} ~ mi {mi} (clitic) [nom.] / nâː-s {nȃs} ~ na-s {nas} (clitic) [gen.] / nâː-m {nȃm} ~ na-m {nam} (clitic) [dat.] / nâː-s {nȃs} ~ na-s {nas} (clitic) [acc.] / nǎː-mi {námi} [ins.] / nâː-s {nȃs} ~ na-s {nas} (clitic) [loc.].	Vážný 1927: 72, 164
-DevinskaNovaVesChakavian_WE_1	Burgenland Čakavian	burg1244	ckm	WE	nȃs	nâːs	n a ̂ː s	nâː-s	WE_1	FALSE		
+DevinskaNovaVesChakavian_WARM_1	Burgenland Čakavian	burg1244	ckm	WARM	ti̯èpal	tjěpal	t j ě p a l	typal	WARM_1	FALSE		Vážný 1927: 191
+DevinskaNovaVesChakavian_WATER_1	Burgenland Čakavian	burg1244	ckm	WATER	vu̯òda	vu̯ɔ̌da	v u̯ ɔ̌ d a	vwd-a	WATER_1	FALSE		Vážný 1927: 198
+DevinskaNovaVesChakavian_WE_2	Burgenland Čakavian	burg1244	ckm	WE	mȋ	mîː	m îː	mîː	WE_2	FALSE	Paradigm: mîː {mȋ} ~ mi {mi} (clitic) [nom.] / nâː-s {nȃs} ~ na-s {nas} (clitic) [gen.] / nâː-m {nȃm} ~ na-m {nam} (clitic) [dat.] / nâː-s {nȃs} ~ na-s {nas} (clitic) [acc.] / nǎː-mi {námi} [ins.] / nâː-s {nȃs} ~ na-s {nas} (clitic) [loc.].	Vážný 1927: 72, 164
+DevinskaNovaVesChakavian_WE_1	Burgenland Čakavian	burg1244	ckm	WE	nȃs	nâːs	n âː s	nâː-s	WE_1	FALSE		
 DevinskaNovaVesChakavian_WHAT_1	Burgenland Čakavian	burg1244	ckm	WHAT	čà	ʧa	ʧ a	ča	WHAT_1	FALSE		Vážný 1927: 75, 139
-DevinskaNovaVesChakavian_WHAT_1	Burgenland Čakavian	burg1244	ckm	WHAT	čȃ	ʧâː	ʧ a ̂ː	čâː	WHAT_1	FALSE		Vážný 1927: 75, 139
-DevinskaNovaVesChakavian_WHITE_1	Burgenland Čakavian	burg1244	ckm	WHITE	bì̯el	bjêl	b j e ̂ l	byl	WHITE_1	FALSE		Vážný 1927: 135
+DevinskaNovaVesChakavian_WHAT_1	Burgenland Čakavian	burg1244	ckm	WHAT	čȃ	ʧâː	ʧ âː	čâː	WHAT_1	FALSE		Vážný 1927: 75, 139
+DevinskaNovaVesChakavian_WHITE_1	Burgenland Čakavian	burg1244	ckm	WHITE	bì̯el	bjêl	b j ê l	byl	WHITE_1	FALSE		Vážný 1927: 135
 DevinskaNovaVesChakavian_WHO_2	Burgenland Čakavian	burg1244	ckm	WHO	gdò	ɡdɔ	ɡ d ɔ	gdɔ	WHO_2	FALSE		Vážný 1927: 75, 146
 DevinskaNovaVesChakavian_WHO_2	Burgenland Čakavian	burg1244	ckm	WHO	dò	dɔ	d ɔ	dɔ	WHO_2	FALSE		Vážný 1927: 75, 146
 DevinskaNovaVesChakavian_WOMAN_1	Burgenland Čakavian	burg1244	ckm	WOMAN	žèna	ʒˈɛna	ʒ ˈɛ n a	žˈɛn-a	WOMAN_1	FALSE	Polysemy: 'woman / wife'. Along with this term, the Slovak borrowing rˈɔb-a {ròba} is also used.	Vážný 1927: 202
 DevinskaNovaVesChakavian_WOMAN_-1	Burgenland Čakavian	burg1244	ckm	WOMAN	ròba	rˈɔba	r ˈɔ b a	rˈɔb-a	WOMAN_-1	TRUE		Vážný 1927: 181
-DevinskaNovaVesChakavian_YELLOW_1	Burgenland Čakavian	burg1244	ckm	YELLOW	žȗt	ʒûːt	ʒ u ̂ː t	žûːt	YELLOW_1	FALSE		Vážný 1927: 203
-DevinskaNovaVesChakavian_FAR_1	Burgenland Čakavian	burg1244	ckm	FAR	dáleko	dǎːlɛkɔ	d a ̌ː l ɛ k ɔ	dǎːl-ɛk-ɔ	FAR_1	FALSE		Vážný 1927: 141
-DevinskaNovaVesChakavian_HEAVY_1	Burgenland Čakavian	burg1244	ckm	HEAVY	tì̯ežak	tjêʒak	t j e ̂ ʒ a k	tyž-ak	HEAVY_1	FALSE		Vážný 1927: 191
-DevinskaNovaVesChakavian_SALT_1	Burgenland Čakavian	burg1244	ckm	SALT	sù̯ol	su̯ôl	s u̯ o ̂ l	swl	SALT_1	FALSE		Vážný 1927: 187
-DevinskaNovaVesChakavian_SHORT_2	Burgenland Čakavian	burg1244	ckm	SHORT	krȃtāk	krâːtaːk	k r a ̂ː t aː k	krâːtaːk	SHORT_2	FALSE		Vážný 1927: 158
+DevinskaNovaVesChakavian_YELLOW_1	Burgenland Čakavian	burg1244	ckm	YELLOW	žȗt	ʒûːt	ʒ ûː t	žûːt	YELLOW_1	FALSE		Vážný 1927: 203
+DevinskaNovaVesChakavian_FAR_1	Burgenland Čakavian	burg1244	ckm	FAR	dáleko	dǎːlɛkɔ	d ǎː l ɛ k ɔ	dǎːl-ɛk-ɔ	FAR_1	FALSE		Vážný 1927: 141
+DevinskaNovaVesChakavian_HEAVY_1	Burgenland Čakavian	burg1244	ckm	HEAVY	tì̯ežak	tjêʒak	t j ê ʒ a k	tyž-ak	HEAVY_1	FALSE		Vážný 1927: 191
+DevinskaNovaVesChakavian_SALT_1	Burgenland Čakavian	burg1244	ckm	SALT	sù̯ol	su̯ôl	s u̯ ô l	swl	SALT_1	FALSE		Vážný 1927: 187
+DevinskaNovaVesChakavian_SHORT_2	Burgenland Čakavian	burg1244	ckm	SHORT	krȃtāk	krâːtaːk	k r âː t aː k	krâːtaːk	SHORT_2	FALSE		Vážný 1927: 158
 DevinskaNovaVesChakavian_SNAKE_-1	Burgenland Čakavian	burg1244	ckm	SNAKE	hàd	ɦad	ɦ a d	ɦad	SNAKE_-1	TRUE	Of Slovak origin. The inherited term kâːč-in-a {kȃčina} means 'viper' [Vážný 1927: 153].	Vážný 1927: 149
-DevinskaNovaVesChakavian_THIN_1	Burgenland Čakavian	burg1244	ckm	THIN	tának	tǎːnak	t a ̌ː n a k	tǎːn-ak	THIN_1	FALSE		Vážný 1927: 191
-DevinskaNovaVesChakavian_WIND_1	Burgenland Čakavian	burg1244	ckm	WIND	vi̯ètar	vjětar	v j e ̌ t a r	vytar	WIND_1	FALSE		Vážný 1927: 196
-DevinskaNovaVesChakavian_WORM_1	Burgenland Čakavian	burg1244	ckm	WORM	čȓv	ʧr̩̂v	ʧ r̩ ̂ v	čr̩̂v	WORM_1	FALSE		Vážný 1927: 140
-DevinskaNovaVesChakavian_YEAR_2	Burgenland Čakavian	burg1244	ckm	YEAR	li̯èto	ljětɔ	l j e ̌ t ɔ	lyt-ɔ	YEAR_2	FALSE	Polysemy: 'summer / year'.	Vážný 1927: 162
+DevinskaNovaVesChakavian_THIN_1	Burgenland Čakavian	burg1244	ckm	THIN	tának	tǎːnak	t ǎː n a k	tǎːn-ak	THIN_1	FALSE		Vážný 1927: 191
+DevinskaNovaVesChakavian_WIND_1	Burgenland Čakavian	burg1244	ckm	WIND	vi̯ètar	vjětar	v j ě t a r	vytar	WIND_1	FALSE		Vážný 1927: 196
+DevinskaNovaVesChakavian_WORM_1	Burgenland Čakavian	burg1244	ckm	WORM	čȓv	ʧr̩̂v	ʧ r̩̂ v	čr̩̂v	WORM_1	FALSE		Vážný 1927: 140
+DevinskaNovaVesChakavian_YEAR_2	Burgenland Čakavian	burg1244	ckm	YEAR	li̯èto	ljětɔ	l j ě t ɔ	lyt-ɔ	YEAR_2	FALSE	Polysemy: 'summer / year'.	Vážný 1927: 162
 BurgenlandKajkavian_ALL_1	Kajkavian	kajk1237	kjv	ALL	vȅs	vjes	v j e s	vyes	ALL_1	FALSE		Houtzagers 1999: 331
 BurgenlandKajkavian_ASH_1	Kajkavian	kajk1237	kjv	ASH	pȩ̏pȩl	pˈæpæl	p ˈæ p æ l	pˈäpäl	ASH_1	FALSE		Houtzagers 1999: 294
 BurgenlandKajkavian_BARK_1	Kajkavian	kajk1237	kjv	BARK	kȍra	kˈu̯orɒ	k ˈu̯ o r ɒ	kˈwor-ɒ	BARK_1	FALSE		Houtzagers 1999: 265

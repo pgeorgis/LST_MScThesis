@@ -8,8 +8,9 @@ grandparent_dir = parent_dir.parent
 
 #Load phonetic distance data and auxiliary functions
 os.chdir(str(grandparent_dir) + '/Code')
-from phonetic_distance import *
 from auxiliary_functions import csv_to_dict, strip_ch
+os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
+from phonetic_distance import *
 os.chdir(local_dir)
 
 
@@ -350,7 +351,7 @@ for i in forms_data:
                     
                     
                 elif lang == 'Croatian':
-                    if orth in ['uski', 'put', 'papak', 'pseto', 'bio', 'bridak', 'guja']: 
+                    if orth in ['uski', 'put', 'pseto', 'bio', 'bridak', 'guja']: 
                         #skip "uski", because "uzak" (same lemma) is already included for "NARROW"
                         #skip "put", not a correct translation for "SKIN"
                         #skip "papak", not a correct translation for "CLAW" (means HOOF)
@@ -415,7 +416,8 @@ for i in forms_data:
                                     'drum':('put', 'pûːt'), #drum is a loanword from Greek and a very uncommon word at that; replace with "put", which is more common and matches other cognate sets
                                     'ondje':('tamo', 'tâmo'), #ondje is correct, but tamo is the more general word and matches existing cognate set in data
                                     'osjećati miris':('njušiti', 'ɲûʃiti'), #use the simpler verb
-                                    'sjemenje':('sjeme', 'sjême') #sjemenje is pluralia tantum, use singular
+                                    'sjemenje':('sjeme', 'sjême'), #sjemenje is pluralia tantum, use singular
+                                    'papak':('kandža', 'kâːnʤa') #correct translation for CLAW is kandža; papak means hoof
                                     }
                     if orth in replace_orth:
                         orth, tr = replace_orth[orth]

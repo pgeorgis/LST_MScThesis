@@ -2,10 +2,12 @@ import os, re, itertools
 from statistics import mean
 from collections import defaultdict
 from auxiliary_functions import csv_to_dict, strip_ch, normalize_dict, entropy
-from phonetic_distance import *
 from pathlib import Path
 local_dir = Path(str(os.getcwd()))
 parent_dir = local_dir.parent
+os.chdir('Distance_Measures/')
+from phonetic_distance import *
+os.chdir(local_dir)
 
 class Dataset: 
     def __init__(self, filepath, name, 
@@ -36,17 +38,20 @@ class Dataset:
         self.glottocode_c = glottocode_c
         self.iso_code_c = iso_code_c
     
-        #About the family
+        #Information about languages included
         self.name = name
         self.languages = {}
         self.lang_ids = {}
         self.glottocodes = {}
         self.iso_codes = {}
+        
+        #Concepts in dataset
         self.concepts = []
         self.cognate_sets = defaultdict(lambda:defaultdict(lambda:[]))
         self.load_data()
         self.load_cognate_sets()
         self.mutual_coverage = self.calculate_mutual_coverage()
+        
         
     def load_data(self, sep='\t'):
         #Load data file
@@ -80,6 +85,7 @@ class Dataset:
                                             loan_c=self.loan_c)
             self.concepts.extend(self.languages[lang].vocabulary.keys())
             self.concepts = list(set(self.concepts))
+        
     
     def load_cognate_sets(self):
         """Creates vocabulary index sorted by cognate sets"""
@@ -121,6 +127,7 @@ class Dataset:
                 f.write(sep.join(forms))
                 f.write('\n')
     
+    
     def calculate_mutual_coverage(self, concept_list=None):
         """Calculate the mutual coverage and average mutual coverage (AMC)
         of the dataset on a particular wordlist"""
@@ -150,6 +157,7 @@ class Dataset:
         
         return mutual_coverage, avg_mutual_coverage
                     
+    
     def prune_languages(self, min_amc=0.8, concept_list=None):
         """Prunes the language with the smallest number of transcribed words
         until the dataset's AMC score reaches the minimum value"""

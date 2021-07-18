@@ -419,6 +419,11 @@ def vector_sim(vec1, vec2):
     return similarity
 
 
+def hamming_distance(vec1, vec2):
+    return len([feature for feature in vec1 if vec1[feature] != vec2[feature]])
+
+def hamming_phone_dist(seg1, seg2):
+    return hamming_distance(phone_id(seg1), phone_id(seg2))
 
 #PHONE COMPARISON
 checked_phone_sims = {}

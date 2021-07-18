@@ -163,7 +163,7 @@ Tuvan_MOUTH_1	Tuvan	tuvi1240	tyv	MOUTH	aas	aas	a a s	aas	MOUTH_1			Savelyev & Ro
 Uyghur_MOUTH_1	Uyghur	uigh1240	uig	MOUTH	eɣiz	eɣiz	e ɣ i z	eɣiz	MOUTH_1			Savelyev & Robeets, 2020
 Uzbek_MOUTH_1	Uzbek	uzbe1247	uzb	MOUTH	ɔɣiz	ɔɣiz	ɔ ɣ i z	ɔɣiz	MOUTH_1			Savelyev & Robeets, 2020
 Dolgan_MOUTH_2	Dolgan	dolg1241	dlg	MOUTH	ańak	aɲak	a ɲ a k	ańak	MOUTH_2			Savelyev & Robeets, 2020
-Chuvash_MOUTH_3	Chuvash	chuv1255	chv	MOUTH	ɕövar	ɕɤ̆ʷvar	ɕ ɤ ̆ʷ v a r	ɕövar	MOUTH_3			Savelyev & Robeets, 2020
+Chuvash_MOUTH_3	Chuvash	chuv1255	chv	MOUTH	ɕövar	ɕɤ̆ʷvar	ɕ ɤ̆ʷ v a r	ɕövar	MOUTH_3			Savelyev & Robeets, 2020
 BarabaTatar_TONGUE_1	Baraba Tatar	bara1273	sty	TONGUE	til	til	t i l	til	TONGUE_1			Savelyev & Robeets, 2020
 Cuman_TONGUE_1	Cuman	pech1242	qwm	TONGUE	til	til	t i l	til	TONGUE_1			Savelyev & Robeets, 2020
 NorthernAltai_TONGUE_1	Northern Altai	chel1242	atv	TONGUE	til	til	t i l	til	TONGUE_1			Savelyev & Robeets, 2020
@@ -235,7 +235,7 @@ OldTurkic_BONE_1	Old Turkic	oldu1238	oui	BONE	syŋyk	syŋyk	s y ŋ y k	syŋyk	BO
 SouthernAltai_BONE_1	Southern Altai	sout2694	alt	BONE	søøk	søøk	s ø ø k	søøk	BONE_1			Savelyev & Robeets, 2020
 Azerbaijani_BONE_1	Azerbaijani	nort2697	azj	BONE	symyk	symyk	s y m y k	symyk	BONE_1			Savelyev & Robeets, 2020
 Bashkir_BONE_1	Bashkir	bash1264	bak	BONE	højɛk	højɛk	h ø j ɛ k	højɛk	BONE_1			Savelyev & Robeets, 2020
-Chuvash_BONE_1	Chuvash	chuv1255	chv	BONE	ʃömö	ʃɤ̆ʷmɤ̆ʷ	ʃ ɤ ̆ʷ m ɤ ̆ʷ	ʃömö	BONE_1			Savelyev & Robeets, 2020
+Chuvash_BONE_1	Chuvash	chuv1255	chv	BONE	ʃömö	ʃɤ̆ʷmɤ̆ʷ	ʃ ɤ̆ʷ m ɤ̆ʷ	ʃömö	BONE_1			Savelyev & Robeets, 2020
 Dolgan_BONE_1	Dolgan	dolg1241	dlg	BONE	oŋuok	oŋuok	o ŋ u o k	oŋuok	BONE_1			Savelyev & Robeets, 2020
 Kara-Kalpak_BONE_1	Kara-Kalpak	kara1467	kaa	BONE	syjek	syjek	s y j e k	syjek	BONE_1			Savelyev & Robeets, 2020
 Karachay-Balkar_BONE_1	Karachay-Balkar	kara1465	krc	BONE	syjek	syjek	s y j e k	syjek	BONE_1			Savelyev & Robeets, 2020
@@ -325,7 +325,7 @@ Turkish_ROOT_4	Turkish	nucl1301	tur	ROOT	køk	køk	k ø k	køk	ROOT_4			Savelyev
 Turkmen_ROOT_4	Turkmen	turk1304	tuk	ROOT	køk	køk	k ø k	køk	ROOT_4			Savelyev & Robeets, 2020
 Cuman_ROOT_5	Cuman	pech1242	qwm	ROOT	tub	tub	t u b	tub	ROOT_5			Savelyev & Robeets, 2020
 Salar_ROOT_6	Salar	sala1264	slr	ROOT	ozeχ	ozeχ	o z e χ	ozeχ	ROOT_6			Savelyev & Robeets, 2020
-BarabaTatar_COME_1	Baraba Tatar	bara1273	sty	COME	kĕl-	kël	k e ̈ l	kĕl-	COME_1			Savelyev & Robeets, 2020
+BarabaTatar_COME_1	Baraba Tatar	bara1273	sty	COME	kĕl-	kël	k ë l	kĕl-	COME_1			Savelyev & Robeets, 2020
 Cuman_COME_1	Cuman	pech1242	qwm	COME	kel-	kel	k e l	kel-	COME_1			Savelyev & Robeets, 2020
 NorthernAltai_COME_1	Northern Altai	chel1242	atv	COME	kel-	kel	k e l	kel-	COME_1			Savelyev & Robeets, 2020
 OldTurkic_COME_1	Old Turkic	oldu1238	oui	COME	kel	kel	k e l	kel	COME_1			Savelyev & Robeets, 2020
@@ -365,7 +365,7 @@ OldTurkic_BREAST_1	Old Turkic	oldu1238	oui	BREAST	køgyz	køɡyz	k ø ɡ y z	kø
 SouthernAltai_BREAST_1	Southern Altai	sout2694	alt	BREAST	køgys	køɡys	k ø ɡ y s	køgys	BREAST_1			Savelyev & Robeets, 2020
 Azerbaijani_BREAST_1	Azerbaijani	nort2697	azj	BREAST	køks	køks	k ø k s	køks	BREAST_1			Savelyev & Robeets, 2020
 Bashkir_BREAST_1	Bashkir	bash1264	bak	BREAST	kykrɛk	kykrɛk	k y k r ɛ k	kykrɛk	BREAST_1			Savelyev & Robeets, 2020
-Chuvash_BREAST_1	Chuvash	chuv1255	chv	BREAST	kögör	kɤ̆ʷɡɤ̆ʷr	k ɤ ̆ʷ ɡ ɤ ̆ʷ r	kögör	BREAST_1			Savelyev & Robeets, 2020
+Chuvash_BREAST_1	Chuvash	chuv1255	chv	BREAST	kögör	kɤ̆ʷɡɤ̆ʷr	k ɤ̆ʷ ɡ ɤ̆ʷ r	kögör	BREAST_1			Savelyev & Robeets, 2020
 CrimeanTatar_BREAST_1	Crimean Tatar	crim1257	crh	BREAST	kokys	kokys	k o k y s	kokys	BREAST_1			Savelyev & Robeets, 2020
 Gagauz_BREAST_1	Gagauz	gaga1249	gag	BREAST	gy:s	ɡyːs	ɡ yː s	gy:s	BREAST_1			Savelyev & Robeets, 2020
 Kara-Kalpak_BREAST_1	Kara-Kalpak	kara1467	kaa	BREAST	køkyrek	køkyrek	k ø k y r e k	køkyrek	BREAST_1			Savelyev & Robeets, 2020
@@ -425,7 +425,7 @@ SouthernAltai_RAIN (PRECIPITATION)_1	Southern Altai	sout2694	alt	RAIN (PRECIPITA
 SouthernAltai_RAIN (PRECIPITATION)_1	Southern Altai	sout2694	alt	RAIN (PRECIPITATION)	ɟaŋmɯr	ɟaŋmɯr	ɟ a ŋ m ɯ r	ɟaŋmɯr	RAIN (PRECIPITATION)_1			Savelyev & Robeets, 2020
 Azerbaijani_RAIN (PRECIPITATION)_1	Azerbaijani	nort2697	azj	RAIN (PRECIPITATION)	jaɣɯʃ	jaɣɯʃ	j a ɣ ɯ ʃ	jaɣɯʃ	RAIN (PRECIPITATION)_1			Savelyev & Robeets, 2020
 Bashkir_RAIN (PRECIPITATION)_1	Bashkir	bash1264	bak	RAIN (PRECIPITATION)	jamɣɯr	jamɣɯr	j a m ɣ ɯ r	jamɣɯr	RAIN (PRECIPITATION)_1			Savelyev & Robeets, 2020
-Chuvash_RAIN (PRECIPITATION)_1	Chuvash	chuv1255	chv	RAIN (PRECIPITATION)	ɕumə̈r	ɕumɤ̆ʷr	ɕ u m ɤ ̆ʷ r	ɕumə̈r	RAIN (PRECIPITATION)_1			Savelyev & Robeets, 2020
+Chuvash_RAIN (PRECIPITATION)_1	Chuvash	chuv1255	chv	RAIN (PRECIPITATION)	ɕumə̈r	ɕumɤ̆ʷr	ɕ u m ɤ̆ʷ r	ɕumə̈r	RAIN (PRECIPITATION)_1			Savelyev & Robeets, 2020
 CrimeanTatar_RAIN (PRECIPITATION)_1	Crimean Tatar	crim1257	crh	RAIN (PRECIPITATION)	jaɣɯʃ	jaɣɯʃ	j a ɣ ɯ ʃ	jaɣɯʃ	RAIN (PRECIPITATION)_1			Savelyev & Robeets, 2020
 Dolgan_RAIN (PRECIPITATION)_1	Dolgan	dolg1241	dlg	RAIN (PRECIPITATION)	hamɯ:r	hamɯːr	h a m ɯː r	hamɯ:r	RAIN (PRECIPITATION)_1			Savelyev & Robeets, 2020
 Gagauz_RAIN (PRECIPITATION)_1	Gagauz	gaga1249	gag	RAIN (PRECIPITATION)	ja:mur	jaːmur	j aː m u r	ja:mur	RAIN (PRECIPITATION)_1			Savelyev & Robeets, 2020
@@ -521,7 +521,7 @@ OldTurkic_LOUSE_1	Old Turkic	oldu1238	oui	LOUSE	bit	bit	b i t	bit	LOUSE_1			Save
 SouthernAltai_LOUSE_1	Southern Altai	sout2694	alt	LOUSE	bit	bit	b i t	bit	LOUSE_1			Savelyev & Robeets, 2020
 Azerbaijani_LOUSE_1	Azerbaijani	nort2697	azj	LOUSE	bit	bit	b i t	bit	LOUSE_1			Savelyev & Robeets, 2020
 Bashkir_LOUSE_1	Bashkir	bash1264	bak	LOUSE	bet	bet	b e t	bet	LOUSE_1			Savelyev & Robeets, 2020
-Chuvash_LOUSE_1	Chuvash	chuv1255	chv	LOUSE	pɯjdə̈	pɯjdɤ̆ʷ	p ɯ j d ɤ ̆ʷ	pɯjdə̈	LOUSE_1			Savelyev & Robeets, 2020
+Chuvash_LOUSE_1	Chuvash	chuv1255	chv	LOUSE	pɯjdə̈	pɯjdɤ̆ʷ	p ɯ j d ɤ̆ʷ	pɯjdə̈	LOUSE_1			Savelyev & Robeets, 2020
 CrimeanTatar_LOUSE_1	Crimean Tatar	crim1257	crh	LOUSE	bit	bit	b i t	bit	LOUSE_1			Savelyev & Robeets, 2020
 Kara-Kalpak_LOUSE_1	Kara-Kalpak	kara1467	kaa	LOUSE	bijt	bijt	b i j t	bijt	LOUSE_1			Savelyev & Robeets, 2020
 Karachay-Balkar_LOUSE_1	Karachay-Balkar	kara1465	krc	LOUSE	bit	bit	b i t	bit	LOUSE_1			Savelyev & Robeets, 2020
@@ -577,7 +577,7 @@ Turkmen_WING_1	Turkmen	turk1304	tuk	WING	ɢanat	ɢanat	ɢ a n a t	ɢanat	WING_1	
 Uyghur_WING_1	Uyghur	uigh1240	uig	WING	qanat	qanat	q a n a t	qanat	WING_1			Savelyev & Robeets, 2020
 Uzbek_WING_1	Uzbek	uzbe1247	uzb	WING	qanɔt	qanɔt	q a n ɔ t	qanɔt	WING_1			Savelyev & Robeets, 2020
 Tuvan_WING_2	Tuvan	tuvi1240	tyv	WING	ʨalɣɯn	ʨalɣɯn	ʨ a l ɣ ɯ n	ʨalɣɯn	WING_2			Savelyev & Robeets, 2020
-BarabaTatar_MEAT_1	Baraba Tatar	bara1273	sty	MEAT	ĕt	ët	e ̈ t	ĕt	MEAT_1			Savelyev & Robeets, 2020
+BarabaTatar_MEAT_1	Baraba Tatar	bara1273	sty	MEAT	ĕt	ët	ë t	ĕt	MEAT_1			Savelyev & Robeets, 2020
 Cuman_MEAT_1	Cuman	pech1242	qwm	MEAT	et	et	e t	et	MEAT_1			Savelyev & Robeets, 2020
 NorthernAltai_MEAT_1	Northern Altai	chel1242	atv	MEAT	et	et	e t	et	MEAT_1			Savelyev & Robeets, 2020
 OldTurkic_MEAT_1	Old Turkic	oldu1238	oui	MEAT	et	et	e t	et	MEAT_1			Savelyev & Robeets, 2020
@@ -637,7 +637,7 @@ Uzbek_ARM OR HAND_1	Uzbek	uzbe1247	uzb	ARM OR HAND	qol	qol	q o l	qol	ARM OR HAND
 Cuman_ARM OR HAND_2	Cuman	pech1242	qwm	ARM OR HAND	el	el	e l	el	ARM OR HAND_2			Savelyev & Robeets, 2020
 OldTurkic_ARM OR HAND_2	Old Turkic	oldu1238	oui	ARM OR HAND	elig	eliɡ	e l i ɡ	elig	ARM OR HAND_2			Savelyev & Robeets, 2020
 Azerbaijani_ARM OR HAND_2	Azerbaijani	nort2697	azj	ARM OR HAND	ɛl	ɛl	ɛ l	ɛl	ARM OR HAND_2			Savelyev & Robeets, 2020
-Chuvash_ARM OR HAND_2	Chuvash	chuv1255	chv	ARM OR HAND	alə̈	alɤ̆ʷ	a l ɤ ̆ʷ	alə̈	ARM OR HAND_2			Savelyev & Robeets, 2020
+Chuvash_ARM OR HAND_2	Chuvash	chuv1255	chv	ARM OR HAND	alə̈	alɤ̆ʷ	a l ɤ̆ʷ	alə̈	ARM OR HAND_2			Savelyev & Robeets, 2020
 CrimeanTatar_ARM OR HAND_2	Crimean Tatar	crim1257	crh	ARM OR HAND	el	el	e l	el	ARM OR HAND_2			Savelyev & Robeets, 2020
 Dolgan_ARM OR HAND_2	Dolgan	dolg1241	dlg	ARM OR HAND	ili:	iliː	i l iː	ili:	ARM OR HAND_2			Savelyev & Robeets, 2020
 Gagauz_ARM OR HAND_2	Gagauz	gaga1249	gag	ARM OR HAND	el	el	e l	el	ARM OR HAND_2			Savelyev & Robeets, 2020
@@ -670,7 +670,7 @@ Uyghur_FLY (INSECT)_1	Uyghur	uigh1240	uig	FLY (INSECT)	ʨivin	ʨivin	ʨ i v i n	
 BarabaTatar_FLY (INSECT)_2	Baraba Tatar	bara1273	sty	FLY (INSECT)	ʨergɛj	ʨerɡɛj	ʨ e r ɡ ɛ j	ʦergɛj	FLY (INSECT)_2			Savelyev & Robeets, 2020
 BarabaTatar_FLY (INSECT)_2	Baraba Tatar	bara1273	sty	FLY (INSECT)	ʦergɛj	ʦerɡɛj	ʦ e r ɡ ɛ j	ʦergɛj	FLY (INSECT)_2			Savelyev & Robeets, 2020
 Dolgan_FLY (INSECT)_2	Dolgan	dolg1241	dlg	FLY (INSECT)	haksɯrga	haksɯrɡa	h a k s ɯ r ɡ a	haksɯrga	FLY (INSECT)_2			Savelyev & Robeets, 2020
-Chuvash_FLY (INSECT)_3	Chuvash	chuv1255	chv	FLY (INSECT)	ʃə̈na	ʃɤ̆ʷna	ʃ ɤ ̆ʷ n a	ʃə̈na	FLY (INSECT)_3			Savelyev & Robeets, 2020
+Chuvash_FLY (INSECT)_3	Chuvash	chuv1255	chv	FLY (INSECT)	ʃə̈na	ʃɤ̆ʷna	ʃ ɤ̆ʷ n a	ʃə̈na	FLY (INSECT)_3			Savelyev & Robeets, 2020
 Gagauz_FLY (INSECT)_3	Gagauz	gaga1249	gag	FLY (INSECT)	sinek	sinek	s i n e k	sinek	FLY (INSECT)_3			Savelyev & Robeets, 2020
 Khakas_FLY (INSECT)_3	Khakas	khak1248	kjh	FLY (INSECT)	seek	seek	s e e k	seek	FLY (INSECT)_3			Savelyev & Robeets, 2020
 Tofa_FLY (INSECT)_3	Tofa	tofa1248	kim	FLY (INSECT)	seek	seek	s e e k	seek	FLY (INSECT)_3			Savelyev & Robeets, 2020
@@ -715,7 +715,7 @@ Turkmen_NIGHT_2	Turkmen	turk1304	tuk	NIGHT	giʥe	ɡiʥe	ɡ i ʥ e	giʥe	NIGHT_2	
 Uzbek_NIGHT_2	Uzbek	uzbe1247	uzb	NIGHT	keʨa	keʨa	k e ʨ a	keʨa	NIGHT_2			Savelyev & Robeets, 2020
 Khakas_NIGHT_3	Khakas	khak1248	kjh	NIGHT	χaraa	χaraa	χ a r a a	χaraa	NIGHT_3			Savelyev & Robeets, 2020
 Chulym_NIGHT_3	Chulym	midd1324	clw	NIGHT	qara	qara	q a r a	qara	NIGHT_3			Savelyev & Robeets, 2020
-Chuvash_NIGHT_4	Chuvash	chuv1255	chv	NIGHT	ɕø̈r	ɕɘ̆ʷr	ɕ ɘ ̆ʷ r	ɕø̈r	NIGHT_4			Savelyev & Robeets, 2020
+Chuvash_NIGHT_4	Chuvash	chuv1255	chv	NIGHT	ɕø̈r	ɕɘ̆ʷr	ɕ ɘ̆ʷ r	ɕø̈r	NIGHT_4			Savelyev & Robeets, 2020
 BarabaTatar_EAR_1	Baraba Tatar	bara1273	sty	EAR	qolaq	qolaq	q o l a q	qulaq	EAR_1			Savelyev & Robeets, 2020
 BarabaTatar_EAR_1	Baraba Tatar	bara1273	sty	EAR	qulaq	qulaq	q u l a q	qulaq	EAR_1			Savelyev & Robeets, 2020
 Cuman_EAR_1	Cuman	pech1242	qwm	EAR	chulag	chulaɡ	c h u l a ɡ	chulag	EAR_1			Savelyev & Robeets, 2020
@@ -725,7 +725,7 @@ OldTurkic_EAR_1	Old Turkic	oldu1238	oui	EAR	qulqaq	qulqaq	q u l q a q	qulqaq	EAR
 SouthernAltai_EAR_1	Southern Altai	sout2694	alt	EAR	qulaq	qulaq	q u l a q	qulaq	EAR_1			Savelyev & Robeets, 2020
 Azerbaijani_EAR_1	Azerbaijani	nort2697	azj	EAR	ɢulaɢ	ɢulaɢ	ɢ u l a ɢ	ɢulaɢ	EAR_1			Savelyev & Robeets, 2020
 Bashkir_EAR_1	Bashkir	bash1264	bak	EAR	qolaq	qolaq	q o l a q	qolaq	EAR_1			Savelyev & Robeets, 2020
-Chuvash_EAR_1	Chuvash	chuv1255	chv	EAR	χölɣa	χɤ̆ʷlɣa	χ ɤ ̆ʷ l ɣ a	χölɣa	EAR_1			Savelyev & Robeets, 2020
+Chuvash_EAR_1	Chuvash	chuv1255	chv	EAR	χölɣa	χɤ̆ʷlɣa	χ ɤ̆ʷ l ɣ a	χölɣa	EAR_1			Savelyev & Robeets, 2020
 CrimeanTatar_EAR_1	Crimean Tatar	crim1257	crh	EAR	qulaq	qulaq	q u l a q	qulaq	EAR_1			Savelyev & Robeets, 2020
 Dolgan_EAR_1	Dolgan	dolg1241	dlg	EAR	kulga:k	kulɡaːk	k u l ɡ aː k	kulga:k	EAR_1			Savelyev & Robeets, 2020
 Gagauz_EAR_1	Gagauz	gaga1249	gag	EAR	kulak	kulak	k u l a k	kulak	EAR_1			Savelyev & Robeets, 2020
@@ -760,7 +760,7 @@ OldTurkic_NECK_1	Old Turkic	oldu1238	oui	NECK	bojɯn	bojɯn	b o j ɯ n	bojɯn	NE
 SouthernAltai_NECK_1	Southern Altai	sout2694	alt	NECK	mojɯn	mojɯn	m o j ɯ n	mojɯn	NECK_1			Savelyev & Robeets, 2020
 Azerbaijani_NECK_1	Azerbaijani	nort2697	azj	NECK	bojun	bojun	b o j u n	bojun	NECK_1			Savelyev & Robeets, 2020
 Bashkir_NECK_1	Bashkir	bash1264	bak	NECK	mujɯn	mujɯn	m u j ɯ n	mujɯn	NECK_1			Savelyev & Robeets, 2020
-Chuvash_NECK_1	Chuvash	chuv1255	chv	NECK	möj	mɤ̆ʷj	m ɤ ̆ʷ j	möj	NECK_1			Savelyev & Robeets, 2020
+Chuvash_NECK_1	Chuvash	chuv1255	chv	NECK	möj	mɤ̆ʷj	m ɤ̆ʷ j	möj	NECK_1			Savelyev & Robeets, 2020
 CrimeanTatar_NECK_1	Crimean Tatar	crim1257	crh	NECK	bojun	bojun	b o j u n	bojun	NECK_1			Savelyev & Robeets, 2020
 Dolgan_NECK_1	Dolgan	dolg1241	dlg	NECK	muoj	muoj	m u o j	muoj	NECK_1			Savelyev & Robeets, 2020
 Gagauz_NECK_1	Gagauz	gaga1249	gag	NECK	bojun	bojun	b o j u n	bojun	NECK_1			Savelyev & Robeets, 2020
@@ -1010,7 +1010,7 @@ Tatar_SAY_1	Tatar	kaza1250	tat	SAY	ɛjt	ɛjt	ɛ j t	ɛjt	SAY_1			Savelyev & Robe
 Turkmen_SAY_1	Turkmen	turk1304	tuk	SAY	ajt	ajt	a j t	ajt	SAY_1			Savelyev & Robeets, 2020
 Uyghur_SAY_1	Uyghur	uigh1240	uig	SAY	ejt	ejt	e j t	ejt	SAY_1			Savelyev & Robeets, 2020
 Uzbek_SAY_1	Uzbek	uzbe1247	uzb	SAY	ajt	ajt	a j t	ajt	SAY_1			Savelyev & Robeets, 2020
-BarabaTatar_SAY_2	Baraba Tatar	bara1273	sty	SAY	tĕ-	të	t e ̈	tĕ-	SAY_2			Savelyev & Robeets, 2020
+BarabaTatar_SAY_2	Baraba Tatar	bara1273	sty	SAY	tĕ-	të	t ë	tĕ-	SAY_2			Savelyev & Robeets, 2020
 Cuman_SAY_2	Cuman	pech1242	qwm	SAY	de-	de	d e	de-	SAY_2			Savelyev & Robeets, 2020
 NorthernAltai_SAY_2	Northern Altai	chel1242	atv	SAY	de-	de	d e	de-	SAY_2			Savelyev & Robeets, 2020
 OldTurkic_SAY_2	Old Turkic	oldu1238	oui	SAY	te:	teː	t eː	te:	SAY_2			Savelyev & Robeets, 2020
@@ -1070,7 +1070,7 @@ Turkish_TOOTH_1	Turkish	nucl1301	tur	TOOTH	diʃ	diʃ	d i ʃ	diʃ	TOOTH_1			Savel
 Turkmen_TOOTH_1	Turkmen	turk1304	tuk	TOOTH	diʃ	diʃ	d i ʃ	diʃ	TOOTH_1			Savelyev & Robeets, 2020
 Uyghur_TOOTH_1	Uyghur	uigh1240	uig	TOOTH	ʨiʃ	ʨiʃ	ʨ i ʃ	ʨiʃ	TOOTH_1			Savelyev & Robeets, 2020
 Uzbek_TOOTH_1	Uzbek	uzbe1247	uzb	TOOTH	tiʃ	tiʃ	t i ʃ	tiʃ	TOOTH_1			Savelyev & Robeets, 2020
-Chuvash_TOOTH_2	Chuvash	chuv1255	chv	TOOTH	ʃə̈l	ʃɤ̆ʷl	ʃ ɤ ̆ʷ l	ʃə̈l	TOOTH_2			Savelyev & Robeets, 2020
+Chuvash_TOOTH_2	Chuvash	chuv1255	chv	TOOTH	ʃə̈l	ʃɤ̆ʷl	ʃ ɤ̆ʷ l	ʃə̈l	TOOTH_2			Savelyev & Robeets, 2020
 BarabaTatar_HAIR (HEAD)_1	Baraba Tatar	bara1273	sty	HAIR (HEAD)	ʦaʦ	ʦaʦ	ʦ a ʦ	ʦaʦ	HAIR (HEAD)_1			Savelyev & Robeets, 2020
 Cuman_HAIR (HEAD)_1	Cuman	pech1242	qwm	HAIR (HEAD)	xac	xac	x a c	xac	HAIR (HEAD)_1			Savelyev & Robeets, 2020
 NorthernAltai_HAIR (HEAD)_1	Northern Altai	chel1242	atv	HAIR (HEAD)	ʨaʨ	ʨaʨ	ʨ a ʨ	ʃaʃ	HAIR (HEAD)_1			Savelyev & Robeets, 2020
@@ -1137,7 +1137,7 @@ Khalaj_BIG_3	Khalaj	turk1303	klj	BIG	bydyk	bydyk	b y d y k	bidik	BIG_3			Savelye
 Khalaj_BIG_3	Khalaj	turk1303	klj	BIG	bidik	bidik	b i d i k	bidik	BIG_3			Savelyev & Robeets, 2020
 WestYugur_BIG_3	West Yugur	west2402	ybe	BIG	pezik	pezik	p e z i k	pezik	BIG_3			Savelyev & Robeets, 2020
 Turkish_BIG_3	Turkish	nucl1301	tur	BIG	byjyk	byjyk	b y j y k	byjyk	BIG_3			Savelyev & Robeets, 2020
-Chuvash_BIG_4	Chuvash	chuv1255	chv	BIG	pɯzə̈k	pɯzɤ̆ʷk	p ɯ z ɤ ̆ʷ k	pɯzə̈k	BIG_4			Savelyev & Robeets, 2020
+Chuvash_BIG_4	Chuvash	chuv1255	chv	BIG	pɯzə̈k	pɯzɤ̆ʷk	p ɯ z ɤ̆ʷ k	pɯzə̈k	BIG_4			Savelyev & Robeets, 2020
 BarabaTatar_ONE_1	Baraba Tatar	bara1273	sty	ONE	pir	pir	p i r	pir	ONE_1			Savelyev & Robeets, 2020
 Cuman_ONE_1	Cuman	pech1242	qwm	ONE	bir	bir	b i r	bir	ONE_1			Savelyev & Robeets, 2020
 NorthernAltai_ONE_1	Northern Altai	chel1242	atv	ONE	pir	pir	p i r	vir	ONE_1			Savelyev & Robeets, 2020
@@ -1214,7 +1214,7 @@ OldTurkic_HE OR SHE OR IT_1	Old Turkic	oldu1238	oui	HE OR SHE OR IT	ol	ol	o l	ol
 SouthernAltai_HE OR SHE OR IT_1	Southern Altai	sout2694	alt	HE OR SHE OR IT	ol	ol	o l	ol	HE OR SHE OR IT_1			Savelyev & Robeets, 2020
 Azerbaijani_HE OR SHE OR IT_1	Azerbaijani	nort2697	azj	HE OR SHE OR IT	o	o	o	o	HE OR SHE OR IT_1			Savelyev & Robeets, 2020
 Bashkir_HE OR SHE OR IT_1	Bashkir	bash1264	bak	HE OR SHE OR IT	ul	ul	u l	ul	HE OR SHE OR IT_1			Savelyev & Robeets, 2020
-Chuvash_HE OR SHE OR IT_1	Chuvash	chuv1255	chv	HE OR SHE OR IT	völ	vɤ̆ʷl	v ɤ ̆ʷ l	völ	HE OR SHE OR IT_1			Savelyev & Robeets, 2020
+Chuvash_HE OR SHE OR IT_1	Chuvash	chuv1255	chv	HE OR SHE OR IT	völ	vɤ̆ʷl	v ɤ̆ʷ l	völ	HE OR SHE OR IT_1			Savelyev & Robeets, 2020
 CrimeanTatar_HE OR SHE OR IT_1	Crimean Tatar	crim1257	crh	HE OR SHE OR IT	o	o	o	o	HE OR SHE OR IT_1			Savelyev & Robeets, 2020
 Gagauz_HE OR SHE OR IT_1	Gagauz	gaga1249	gag	HE OR SHE OR IT	o	o	o	o	HE OR SHE OR IT_1			Savelyev & Robeets, 2020
 Kara-Kalpak_HE OR SHE OR IT_1	Kara-Kalpak	kara1467	kaa	HE OR SHE OR IT	ol	ol	o l	ol	HE OR SHE OR IT_1			Savelyev & Robeets, 2020
@@ -1325,7 +1325,7 @@ OldTurkic_HORN (ANATOMY)_1	Old Turkic	oldu1238	oui	HORN (ANATOMY)	myjyz	myjyz	m 
 SouthernAltai_HORN (ANATOMY)_1	Southern Altai	sout2694	alt	HORN (ANATOMY)	myys	myys	m y y s	myys	HORN (ANATOMY)_1			Savelyev & Robeets, 2020
 Azerbaijani_HORN (ANATOMY)_1	Azerbaijani	nort2697	azj	HORN (ANATOMY)	bujnuz	bujnuz	b u j n u z	bujnuz	HORN (ANATOMY)_1			Savelyev & Robeets, 2020
 Bashkir_HORN (ANATOMY)_1	Bashkir	bash1264	bak	HORN (ANATOMY)	møgøð	møɡøð	m ø ɡ ø ð	møgøð	HORN (ANATOMY)_1			Savelyev & Robeets, 2020
-Chuvash_HORN (ANATOMY)_1	Chuvash	chuv1255	chv	HORN (ANATOMY)	möjraga	mɤ̆ʷjraɡa	m ɤ ̆ʷ j r a ɡ a	möjraga	HORN (ANATOMY)_1			Savelyev & Robeets, 2020
+Chuvash_HORN (ANATOMY)_1	Chuvash	chuv1255	chv	HORN (ANATOMY)	möjraga	mɤ̆ʷjraɡa	m ɤ̆ʷ j r a ɡ a	möjraga	HORN (ANATOMY)_1			Savelyev & Robeets, 2020
 CrimeanTatar_HORN (ANATOMY)_1	Crimean Tatar	crim1257	crh	HORN (ANATOMY)	bojnuz	bojnuz	b o j n u z	bojnuz	HORN (ANATOMY)_1			Savelyev & Robeets, 2020
 Dolgan_HORN (ANATOMY)_1	Dolgan	dolg1241	dlg	HORN (ANATOMY)	muos	muos	m u o s	muos	HORN (ANATOMY)_1			Savelyev & Robeets, 2020
 Gagauz_HORN (ANATOMY)_1	Gagauz	gaga1249	gag	HORN (ANATOMY)	bujnuz	bujnuz	b u j n u z	bujnuz	HORN (ANATOMY)_1			Savelyev & Robeets, 2020
@@ -1386,7 +1386,7 @@ OldTurkic_FISH_1	Old Turkic	oldu1238	oui	FISH	balɯq	balɯq	b a l ɯ q	balɯq	FI
 SouthernAltai_FISH_1	Southern Altai	sout2694	alt	FISH	balɯq	balɯq	b a l ɯ q	balɯq	FISH_1			Savelyev & Robeets, 2020
 Azerbaijani_FISH_1	Azerbaijani	nort2697	azj	FISH	balɯɢ	balɯɢ	b a l ɯ ɢ	balɯɢ	FISH_1			Savelyev & Robeets, 2020
 Bashkir_FISH_1	Bashkir	bash1264	bak	FISH	balɯq	balɯq	b a l ɯ q	balɯq	FISH_1			Savelyev & Robeets, 2020
-Chuvash_FISH_1	Chuvash	chuv1255	chv	FISH	pulə̈	pulɤ̆ʷ	p u l ɤ ̆ʷ	pulə̈	FISH_1			Savelyev & Robeets, 2020
+Chuvash_FISH_1	Chuvash	chuv1255	chv	FISH	pulə̈	pulɤ̆ʷ	p u l ɤ̆ʷ	pulə̈	FISH_1			Savelyev & Robeets, 2020
 CrimeanTatar_FISH_1	Crimean Tatar	crim1257	crh	FISH	balɯq	balɯq	b a l ɯ q	balɯq	FISH_1			Savelyev & Robeets, 2020
 Dolgan_FISH_1	Dolgan	dolg1241	dlg	FISH	balɯk	balɯk	b a l ɯ k	balɯk	FISH_1			Savelyev & Robeets, 2020
 Gagauz_FISH_1	Gagauz	gaga1249	gag	FISH	balɯk	balɯk	b a l ɯ k	balɯk	FISH_1			Savelyev & Robeets, 2020
@@ -1452,7 +1452,7 @@ WestYugur_YESTERDAY_4	West Yugur	west2402	ybe	YESTERDAY	tuɣɯn	tuɣɯn	t u ɣ �
 Uyghur_YESTERDAY_4	Uyghur	uigh1240	uig	YESTERDAY	tynygyn	tynyɡyn	t y n y ɡ y n	tynygyn	YESTERDAY_4			Savelyev & Robeets, 2020
 Chuvash_YESTERDAY_5	Chuvash	chuv1255	chv	YESTERDAY	ɘner	ɘner	ɘ n e r	ɘner	YESTERDAY_5			Savelyev & Robeets, 2020
 Khalaj_YESTERDAY_5	Khalaj	turk1303	klj	YESTERDAY	ɛŋgyr	ɛŋɡyr	ɛ ŋ ɡ y r	ɛŋgyr	YESTERDAY_5			Savelyev & Robeets, 2020
-BarabaTatar_DRINK_1	Baraba Tatar	bara1273	sty	DRINK	ĕʨ-	ëʨ	e ̈ ʨ	ĕʨ-	DRINK_1			Savelyev & Robeets, 2020
+BarabaTatar_DRINK_1	Baraba Tatar	bara1273	sty	DRINK	ĕʨ-	ëʨ	ë ʨ	ĕʨ-	DRINK_1			Savelyev & Robeets, 2020
 Cuman_DRINK_1	Cuman	pech1242	qwm	DRINK	yz-	yz	y z	iʨ-	DRINK_1			Savelyev & Robeets, 2020
 Cuman_DRINK_1	Cuman	pech1242	qwm	DRINK	iz-	iz	i z	iʨ-	DRINK_1			Savelyev & Robeets, 2020
 Cuman_DRINK_1	Cuman	pech1242	qwm	DRINK	yʨ-	yʨ	y ʨ	iʨ-	DRINK_1			Savelyev & Robeets, 2020
@@ -1549,7 +1549,7 @@ Tuvan_NAVEL_1	Tuvan	tuvi1240	tyv	NAVEL	χindik	χindik	χ i n d i k	χindik	NAVE
 Uyghur_NAVEL_1	Uyghur	uigh1240	uig	NAVEL	kindik	kindik	k i n d i k	kindik	NAVEL_1			Savelyev & Robeets, 2020
 Uzbek_NAVEL_1	Uzbek	uzbe1247	uzb	NAVEL	kindik	kindik	k i n d i k	kindik	NAVEL_1			Savelyev & Robeets, 2020
 Azerbaijani_NAVEL_2	Azerbaijani	nort2697	azj	NAVEL	købɛk	købɛk	k ø b ɛ k	købɛk	NAVEL_2			Savelyev & Robeets, 2020
-Chuvash_NAVEL_2	Chuvash	chuv1255	chv	NAVEL	kövaba	kɤ̆ʷvaba	k ɤ ̆ʷ v a b a	kövaba	NAVEL_2			Savelyev & Robeets, 2020
+Chuvash_NAVEL_2	Chuvash	chuv1255	chv	NAVEL	kövaba	kɤ̆ʷvaba	k ɤ̆ʷ v a b a	kövaba	NAVEL_2			Savelyev & Robeets, 2020
 CrimeanTatar_NAVEL_2	Crimean Tatar	crim1257	crh	NAVEL	kobek	kobek	k o b e k	kobek	NAVEL_2			Savelyev & Robeets, 2020
 Gagauz_NAVEL_2	Gagauz	gaga1249	gag	NAVEL	gøbek	ɡøbek	ɡ ø b e k	gøbek	NAVEL_2			Savelyev & Robeets, 2020
 Turkish_NAVEL_2	Turkish	nucl1301	tur	NAVEL	gøbek	ɡøbek	ɡ ø b e k	gøbek	NAVEL_2			Savelyev & Robeets, 2020
@@ -1562,7 +1562,7 @@ OldTurkic_STAND_1	Old Turkic	oldu1238	oui	STAND	tur	tur	t u r	tur	STAND_1			Save
 SouthernAltai_STAND_1	Southern Altai	sout2694	alt	STAND	tur	tur	t u r	tur	STAND_1			Savelyev & Robeets, 2020
 Azerbaijani_STAND_1	Azerbaijani	nort2697	azj	STAND	dur	dur	d u r	dur	STAND_1			Savelyev & Robeets, 2020
 Bashkir_STAND_1	Bashkir	bash1264	bak	STAND	tor	tor	t o r	tor	STAND_1			Savelyev & Robeets, 2020
-Chuvash_STAND_1	Chuvash	chuv1255	chv	STAND	tör	tɤ̆ʷr	t ɤ ̆ʷ r	tör	STAND_1			Savelyev & Robeets, 2020
+Chuvash_STAND_1	Chuvash	chuv1255	chv	STAND	tör	tɤ̆ʷr	t ɤ̆ʷ r	tör	STAND_1			Savelyev & Robeets, 2020
 CrimeanTatar_STAND_1	Crimean Tatar	crim1257	crh	STAND	tur	tur	t u r	tur	STAND_1			Savelyev & Robeets, 2020
 Dolgan_STAND_1	Dolgan	dolg1241	dlg	STAND	tur	tur	t u r	tur	STAND_1			Savelyev & Robeets, 2020
 Gagauz_STAND_1	Gagauz	gaga1249	gag	STAND	dur	dur	d u r	dur	STAND_1			Savelyev & Robeets, 2020
@@ -1649,7 +1649,7 @@ Uyghur_BACK_1	Uyghur	uigh1240	uig	BACK	arqa	arqa	a r q a	arqa	BACK_1			Savelyev 
 Uzbek_BACK_1	Uzbek	uzbe1247	uzb	BACK	ɔrqa	ɔrqa	ɔ r q a	ɔrqa	BACK_1			Savelyev & Robeets, 2020
 Tofa_BACK_2	Tofa	tofa1248	kim	BACK	o:rha	oːrha	oː r h a	o:rha	BACK_2			Savelyev & Robeets, 2020
 Tuvan_BACK_2	Tuvan	tuvi1240	tyv	BACK	o:rɣa	oːrɣa	oː r ɣ a	o:rɣa	BACK_2			Savelyev & Robeets, 2020
-Chuvash_BACK_3	Chuvash	chuv1255	chv	BACK	ɕurə̈m	ɕurɤ̆ʷm	ɕ u r ɤ ̆ʷ m	ɕurə̈m	BACK_3			Savelyev & Robeets, 2020
+Chuvash_BACK_3	Chuvash	chuv1255	chv	BACK	ɕurə̈m	ɕurɤ̆ʷm	ɕ u r ɤ̆ʷ m	ɕurə̈m	BACK_3			Savelyev & Robeets, 2020
 Chulym_BACK_3	Chulym	midd1324	clw	BACK	ʨa:rən	ʨaːrən	ʨ aː r ə n	ʨa:rən	BACK_3			Savelyev & Robeets, 2020
 Shor_BACK_4	Shor	shor1247	cjs	BACK	køksy	køksy	k ø k s y	køksy	BACK_4			Savelyev & Robeets, 2020
 Dolgan_BACK_5	Dolgan	dolg1241	dlg	BACK	his	his	h i s	his	BACK_5			Savelyev & Robeets, 2020
@@ -1661,7 +1661,7 @@ NorthernAltai_BACK_7	Northern Altai	chel1242	atv	BACK	sɯrt	sɯrt	s ɯ r t	sɯrt
 Karachay-Balkar_BACK_7	Karachay-Balkar	kara1465	krc	BACK	sɯrt	sɯrt	s ɯ r t	sɯrt	BACK_7			Savelyev & Robeets, 2020
 Tatar_BACK_7	Tatar	kaza1250	tat	BACK	? sɯrt	sɯrt	s ɯ r t	? sɯrt	BACK_7			Savelyev & Robeets, 2020
 Turkish_BACK_7	Turkish	nucl1301	tur	BACK	? sɯrt	sɯrt	s ɯ r t	? sɯrt	BACK_7			Savelyev & Robeets, 2020
-BarabaTatar_WIND_1	Baraba Tatar	bara1273	sty	WIND	yĕl	yël	y e ̈ l	yĕl	WIND_1			Savelyev & Robeets, 2020
+BarabaTatar_WIND_1	Baraba Tatar	bara1273	sty	WIND	yĕl	yël	y ë l	yĕl	WIND_1			Savelyev & Robeets, 2020
 Cuman_WIND_1	Cuman	pech1242	qwm	WIND	jel	jel	j e l	jel	WIND_1			Savelyev & Robeets, 2020
 OldTurkic_WIND_1	Old Turkic	oldu1238	oui	WIND	jẹl	jel	j e l	jẹl	WIND_1			Savelyev & Robeets, 2020
 Azerbaijani_WIND_1	Azerbaijani	nort2697	azj	WIND	jel	jel	j e l	jel	WIND_1			Savelyev & Robeets, 2020
@@ -1692,7 +1692,7 @@ NorthernAltai_SMOKE (EXHAUST)_1	Northern Altai	chel1242	atv	SMOKE (EXHAUST)	tyd�
 OldTurkic_SMOKE (EXHAUST)_1	Old Turkic	oldu1238	oui	SMOKE (EXHAUST)	tytyn	tytyn	t y t y n	tytyn	SMOKE (EXHAUST)_1			Savelyev & Robeets, 2020
 Azerbaijani_SMOKE (EXHAUST)_1	Azerbaijani	nort2697	azj	SMOKE (EXHAUST)	tysty	tysty	t y s t y	tysty	SMOKE (EXHAUST)_1			Savelyev & Robeets, 2020
 Bashkir_SMOKE (EXHAUST)_1	Bashkir	bash1264	bak	SMOKE (EXHAUST)	tøtøn	tøtøn	t ø t ø n	tøtøn	SMOKE (EXHAUST)_1			Savelyev & Robeets, 2020
-Chuvash_SMOKE (EXHAUST)_1	Chuvash	chuv1255	chv	SMOKE (EXHAUST)	tø̈dø̈m	tɘ̆ʷdɘ̆ʷm	t ɘ ̆ʷ d ɘ ̆ʷ m	tø̈dø̈m	SMOKE (EXHAUST)_1			Savelyev & Robeets, 2020
+Chuvash_SMOKE (EXHAUST)_1	Chuvash	chuv1255	chv	SMOKE (EXHAUST)	tø̈dø̈m	tɘ̆ʷdɘ̆ʷm	t ɘ̆ʷ d ɘ̆ʷ m	tø̈dø̈m	SMOKE (EXHAUST)_1			Savelyev & Robeets, 2020
 CrimeanTatar_SMOKE (EXHAUST)_1	Crimean Tatar	crim1257	crh	SMOKE (EXHAUST)	tytyn	tytyn	t y t y n	tytyn	SMOKE (EXHAUST)_1			Savelyev & Robeets, 2020
 Gagauz_SMOKE (EXHAUST)_1	Gagauz	gaga1249	gag	SMOKE (EXHAUST)	tytyn	tytyn	t y t y n	tytyn	SMOKE (EXHAUST)_1			Savelyev & Robeets, 2020
 Kara-Kalpak_SMOKE (EXHAUST)_1	Kara-Kalpak	kara1467	kaa	SMOKE (EXHAUST)	tytin	tytin	t y t i n	tytin	SMOKE (EXHAUST)_1			Savelyev & Robeets, 2020
@@ -1799,7 +1799,7 @@ OldTurkic_EGG_1	Old Turkic	oldu1238	oui	EGG	jumurɣa	jumurɣa	j u m u r ɣ a	jum
 SouthernAltai_EGG_1	Southern Altai	sout2694	alt	EGG	ɟɯmɯrtχa	ɟɯmɯrtχa	ɟ ɯ m ɯ r t χ a	ɟɯmɯrtχa	EGG_1			Savelyev & Robeets, 2020
 Azerbaijani_EGG_1	Azerbaijani	nort2697	azj	EGG	jumurta	jumurta	j u m u r t a	jumurta	EGG_1			Savelyev & Robeets, 2020
 Bashkir_EGG_1	Bashkir	bash1264	bak	EGG	jomortqa	jomortqa	j o m o r t q a	jomortqa	EGG_1			Savelyev & Robeets, 2020
-Chuvash_EGG_1	Chuvash	chuv1255	chv	EGG	ɕömarda	ɕɤ̆ʷmarda	ɕ ɤ ̆ʷ m a r d a	ɕömarda	EGG_1			Savelyev & Robeets, 2020
+Chuvash_EGG_1	Chuvash	chuv1255	chv	EGG	ɕömarda	ɕɤ̆ʷmarda	ɕ ɤ̆ʷ m a r d a	ɕömarda	EGG_1			Savelyev & Robeets, 2020
 CrimeanTatar_EGG_1	Crimean Tatar	crim1257	crh	EGG	jɯmɯrta	jɯmɯrta	j ɯ m ɯ r t a	jɯmɯrta	EGG_1			Savelyev & Robeets, 2020
 Dolgan_EGG_1	Dolgan	dolg1241	dlg	EGG	hɯmɯ:t	hɯmɯːt	h ɯ m ɯː t	hɯmɯ:t	EGG_1			Savelyev & Robeets, 2020
 Gagauz_EGG_1	Gagauz	gaga1249	gag	EGG	jɯmɯrta	jɯmɯrta	j ɯ m ɯ r t a	jɯmɯrta	EGG_1			Savelyev & Robeets, 2020
@@ -2108,7 +2108,7 @@ Tofa_SAND_1	Tofa	tofa1248	kim	SAND	hum	hum	h u m	hum	SAND_1			Savelyev & Robeets
 Turkish_SAND_1	Turkish	nucl1301	tur	SAND	kum	kum	k u m	kum	SAND_1			Savelyev & Robeets, 2020
 Uyghur_SAND_1	Uyghur	uigh1240	uig	SAND	qum	qum	q u m	qum	SAND_1			Savelyev & Robeets, 2020
 Uzbek_SAND_1	Uzbek	uzbe1247	uzb	SAND	qum	qum	q u m	qum	SAND_1			Savelyev & Robeets, 2020
-Chuvash_SAND_2	Chuvash	chuv1255	chv	SAND	χə̈jə̈r	χɤ̆ʷjɤ̆ʷr	χ ɤ ̆ʷ j ɤ ̆ʷ r	χə̈jə̈r	SAND_2			Savelyev & Robeets, 2020
+Chuvash_SAND_2	Chuvash	chuv1255	chv	SAND	χə̈jə̈r	χɤ̆ʷjɤ̆ʷr	χ ɤ̆ʷ j ɤ̆ʷ r	χə̈jə̈r	SAND_2			Savelyev & Robeets, 2020
 Kumyk_SAND_2	Kumyk	kumy1244	kum	SAND	qajɯr	qajɯr	q a j ɯ r	qajɯr	SAND_2			Savelyev & Robeets, 2020
 Nogai_SAND_2	Nogai	noga1249	nog	SAND	qajɯr	qajɯr	q a j ɯ r	qajɯr	SAND_2			Savelyev & Robeets, 2020
 Turkmen_SAND_3	Turkmen	turk1304	tuk	SAND	ʨɛge	ʨɛɡe	ʨ ɛ ɡ e	ʨɛge	SAND_3			Savelyev & Robeets, 2020
@@ -2221,7 +2221,7 @@ OldTurkic_EARTH (SOIL)_2	Old Turkic	oldu1238	oui	EARTH (SOIL)	topraq	topraq	t o 
 SouthernAltai_EARTH (SOIL)_2	Southern Altai	sout2694	alt	EARTH (SOIL)	? tobraq	tobraq	t o b r a q	? tobraq	EARTH (SOIL)_2			Savelyev & Robeets, 2020
 Azerbaijani_EARTH (SOIL)_2	Azerbaijani	nort2697	azj	EARTH (SOIL)	torpaɢ	torpaɢ	t o r p a ɢ	torpaɢ	EARTH (SOIL)_2			Savelyev & Robeets, 2020
 Bashkir_EARTH (SOIL)_2	Bashkir	bash1264	bak	EARTH (SOIL)	tupraq	tupraq	t u p r a q	tupraq	EARTH (SOIL)_2			Savelyev & Robeets, 2020
-Chuvash_EARTH (SOIL)_2	Chuvash	chuv1255	chv	EARTH (SOIL)	töpra	tɤ̆ʷpra	t ɤ ̆ʷ p r a	töpra	EARTH (SOIL)_2			Savelyev & Robeets, 2020
+Chuvash_EARTH (SOIL)_2	Chuvash	chuv1255	chv	EARTH (SOIL)	töpra	tɤ̆ʷpra	t ɤ̆ʷ p r a	töpra	EARTH (SOIL)_2			Savelyev & Robeets, 2020
 CrimeanTatar_EARTH (SOIL)_2	Crimean Tatar	crim1257	crh	EARTH (SOIL)	topraq	topraq	t o p r a q	topraq	EARTH (SOIL)_2			Savelyev & Robeets, 2020
 Gagauz_EARTH (SOIL)_2	Gagauz	gaga1249	gag	EARTH (SOIL)	toprak	toprak	t o p r a k	toprak	EARTH (SOIL)_2			Savelyev & Robeets, 2020
 Kara-Kalpak_EARTH (SOIL)_2	Kara-Kalpak	kara1467	kaa	EARTH (SOIL)	topɯraq	topɯraq	t o p ɯ r a q	topɯraq	EARTH (SOIL)_2			Savelyev & Robeets, 2020
@@ -2273,7 +2273,7 @@ Chulym_LEAF_2	Chulym	midd1324	clw	LEAF	pyyr	pyyr	p y y r	pyyr	LEAF_2			Savelyev 
 Shor_LEAF_2	Shor	shor1247	cjs	LEAF	pyr	pyr	p y r	pyr	LEAF_2			Savelyev & Robeets, 2020
 Tofa_LEAF_2	Tofa	tofa1248	kim	LEAF	byr	byr	b y r	byr	LEAF_2			Savelyev & Robeets, 2020
 Tuvan_LEAF_2	Tuvan	tuvi1240	tyv	LEAF	byry	byry	b y r y	byry	LEAF_2			Savelyev & Robeets, 2020
-Chuvash_LEAF_3	Chuvash	chuv1255	chv	LEAF	ɕulʑə̈	ɕulʑɤ̆ʷ	ɕ u l ʑ ɤ ̆ʷ	ɕulʑə̈	LEAF_3			Savelyev & Robeets, 2020
+Chuvash_LEAF_3	Chuvash	chuv1255	chv	LEAF	ɕulʑə̈	ɕulʑɤ̆ʷ	ɕ u l ʑ ɤ̆ʷ	ɕulʑə̈	LEAF_3			Savelyev & Robeets, 2020
 BarabaTatar_LEAF_4	Baraba Tatar	bara1273	sty	LEAF	qavaq	qavaq	q a v a q	qavaq	LEAF_4			Savelyev & Robeets, 2020
 NorthernAltai_LEAF_4	Northern Altai	chel1242	atv	LEAF	qavaq	qavaq	q a v a q	qavaq	LEAF_4			Savelyev & Robeets, 2020
 BarabaTatar_RED_1	Baraba Tatar	bara1273	sty	RED	qɯzɯl	qɯzɯl	q ɯ z ɯ l	qɯzɯl	RED_1			Savelyev & Robeets, 2020
@@ -2315,7 +2315,7 @@ OldTurkic_LIVER_1	Old Turkic	oldu1238	oui	LIVER	baɣɯr	baɣɯr	b a ɣ ɯ r	baɣ
 SouthernAltai_LIVER_1	Southern Altai	sout2694	alt	LIVER	buur	buur	b u u r	buur	LIVER_1			Savelyev & Robeets, 2020
 Azerbaijani_LIVER_1	Azerbaijani	nort2697	azj	LIVER	? baɣɯr	baɣɯr	b a ɣ ɯ r	? baɣɯr	LIVER_1			Savelyev & Robeets, 2020
 Bashkir_LIVER_1	Bashkir	bash1264	bak	LIVER	bawɯr	bawɯr	b a w ɯ r	bawɯr	LIVER_1			Savelyev & Robeets, 2020
-Chuvash_LIVER_1	Chuvash	chuv1255	chv	LIVER	pø̈vø̈r	pɘ̆ʷvɘ̆ʷr	p ɘ ̆ʷ v ɘ ̆ʷ r	pø̈vø̈r	LIVER_1			Savelyev & Robeets, 2020
+Chuvash_LIVER_1	Chuvash	chuv1255	chv	LIVER	pø̈vø̈r	pɘ̆ʷvɘ̆ʷr	p ɘ̆ʷ v ɘ̆ʷ r	pø̈vø̈r	LIVER_1			Savelyev & Robeets, 2020
 Dolgan_LIVER_1	Dolgan	dolg1241	dlg	LIVER	bɯar	bɯar	b ɯ a r	bɯar	LIVER_1			Savelyev & Robeets, 2020
 Kara-Kalpak_LIVER_1	Kara-Kalpak	kara1467	kaa	LIVER	bawɯr	bawɯr	b a w ɯ r	bawɯr	LIVER_1			Savelyev & Robeets, 2020
 Karachay-Balkar_LIVER_1	Karachay-Balkar	kara1465	krc	LIVER	bawur	bawur	b a w u r	bawur	LIVER_1			Savelyev & Robeets, 2020
@@ -2427,7 +2427,7 @@ NorthernAltai_SUCK_2	Northern Altai	chel1242	atv	SUCK	ep-	ep	e p	ep-	SUCK_2			Sa
 SouthernAltai_SUCK_2	Southern Altai	sout2694	alt	SUCK	em	em	e m	em	SUCK_2			Savelyev & Robeets, 2020
 Azerbaijani_SUCK_2	Azerbaijani	nort2697	azj	SUCK	ɛm	ɛm	ɛ m	ɛm	SUCK_2			Savelyev & Robeets, 2020
 Bashkir_SUCK_2	Bashkir	bash1264	bak	SUCK	im	im	i m	im	SUCK_2			Savelyev & Robeets, 2020
-Chuvash_SUCK_2	Chuvash	chuv1255	chv	SUCK	ø̈m	ɘ̆ʷm	ɘ ̆ʷ m	ø̈m	SUCK_2			Savelyev & Robeets, 2020
+Chuvash_SUCK_2	Chuvash	chuv1255	chv	SUCK	ø̈m	ɘ̆ʷm	ɘ̆ʷ m	ø̈m	SUCK_2			Savelyev & Robeets, 2020
 CrimeanTatar_SUCK_2	Crimean Tatar	crim1257	crh	SUCK	em	em	e m	em	SUCK_2			Savelyev & Robeets, 2020
 Dolgan_SUCK_2	Dolgan	dolg1241	dlg	SUCK	em	em	e m	em	SUCK_2			Savelyev & Robeets, 2020
 Gagauz_SUCK_2	Gagauz	gaga1249	gag	SUCK	em	em	e m	em	SUCK_2			Savelyev & Robeets, 2020
@@ -2510,7 +2510,7 @@ WestYugur_CARRY_6	West Yugur	west2402	ybe	CARRY	køtyr	køtyr	k ø t y r	kytyr	C
 WestYugur_CARRY_6	West Yugur	west2402	ybe	CARRY	kytyr	kytyr	k y t y r	kytyr	CARRY_6			Savelyev & Robeets, 2020
 Tatar_CARRY_6	Tatar	kaza1250	tat	CARRY	kytɛrep + motion verb	kytɛrep	k y t ɛ r e p	kytɛrep + motion verb	CARRY_6			Savelyev & Robeets, 2020
 Turkmen_CARRY_6	Turkmen	turk1304	tuk	CARRY	gøter	ɡøter	ɡ ø t e r	gøter	CARRY_6			Savelyev & Robeets, 2020
-Chuvash_CARRY_7	Chuvash	chuv1255	chv	CARRY	jə̈t	jɤ̆ʷt	j ɤ ̆ʷ t	jə̈t	CARRY_7			Savelyev & Robeets, 2020
+Chuvash_CARRY_7	Chuvash	chuv1255	chv	CARRY	jə̈t	jɤ̆ʷt	j ɤ̆ʷ t	jə̈t	CARRY_7			Savelyev & Robeets, 2020
 Tatar_CARRY_7	Tatar	kaza1250	tat	CARRY	? jørt	jørt	j ø r t	? jørt	CARRY_7			Savelyev & Robeets, 2020
 Tofa_CARRY_7	Tofa	tofa1248	kim	CARRY	? it	it	i t	? it	CARRY_7			Savelyev & Robeets, 2020
 OldTurkic_ANT_1	Old Turkic	oldu1238	oui	ANT	? qumursɣa	qumursɣa	q u m u r s ɣ a	? qumursɣa	ANT_1			Savelyev & Robeets, 2020
@@ -2548,7 +2548,7 @@ OldTurkic_HEAVY_1	Old Turkic	oldu1238	oui	HEAVY	aɣɯr	aɣɯr	a ɣ ɯ r	aɣɯr	H
 SouthernAltai_HEAVY_1	Southern Altai	sout2694	alt	HEAVY	uur	uur	u u r	uur	HEAVY_1			Savelyev & Robeets, 2020
 Azerbaijani_HEAVY_1	Azerbaijani	nort2697	azj	HEAVY	aɣɯr	aɣɯr	a ɣ ɯ r	aɣɯr	HEAVY_1			Savelyev & Robeets, 2020
 Bashkir_HEAVY_1	Bashkir	bash1264	bak	HEAVY	awɯr	awɯr	a w ɯ r	awɯr	HEAVY_1			Savelyev & Robeets, 2020
-Chuvash_HEAVY_1	Chuvash	chuv1255	chv	HEAVY	jɯvə̈r	jɯvɤ̆ʷr	j ɯ v ɤ ̆ʷ r	jɯvə̈r	HEAVY_1			Savelyev & Robeets, 2020
+Chuvash_HEAVY_1	Chuvash	chuv1255	chv	HEAVY	jɯvə̈r	jɯvɤ̆ʷr	j ɯ v ɤ̆ʷ r	jɯvə̈r	HEAVY_1			Savelyev & Robeets, 2020
 CrimeanTatar_HEAVY_1	Crimean Tatar	crim1257	crh	HEAVY	aɣɯr	aɣɯr	a ɣ ɯ r	aɣɯr	HEAVY_1			Savelyev & Robeets, 2020
 Dolgan_HEAVY_1	Dolgan	dolg1241	dlg	HEAVY	ɯar	ɯar	ɯ a r	ɯar	HEAVY_1			Savelyev & Robeets, 2020
 Gagauz_HEAVY_1	Gagauz	gaga1249	gag	HEAVY	aar	aar	a a r	aar	HEAVY_1			Savelyev & Robeets, 2020
@@ -2603,7 +2603,7 @@ Tuvan_TAKE_1	Tuvan	tuvi1240	tyv	TAKE	al	al	a l	al	TAKE_1			Savelyev & Robeets, 2
 Uyghur_TAKE_1	Uyghur	uigh1240	uig	TAKE	al	al	a l	al	TAKE_1			Savelyev & Robeets, 2020
 Uzbek_TAKE_1	Uzbek	uzbe1247	uzb	TAKE	ɔl	ɔl	ɔ l	ɔl	TAKE_1			Savelyev & Robeets, 2020
 Azerbaijani_TAKE_2	Azerbaijani	nort2697	azj	TAKE	gøtyr	ɡøtyr	ɡ ø t y r	gøtyr	TAKE_2			Savelyev & Robeets, 2020
-BarabaTatar_OLD (USED)_1	Baraba Tatar	bara1273	sty	OLD (USED)	ĕski	ëski	e ̈ s k i	ĕski	OLD (USED)_1			Savelyev & Robeets, 2020
+BarabaTatar_OLD (USED)_1	Baraba Tatar	bara1273	sty	OLD (USED)	ĕski	ëski	ë s k i	ĕski	OLD (USED)_1			Savelyev & Robeets, 2020
 Cuman_OLD (USED)_1	Cuman	pech1242	qwm	OLD (USED)	eschi	eschi	e s c h i	eschi	OLD (USED)_1			Savelyev & Robeets, 2020
 NorthernAltai_OLD (USED)_1	Northern Altai	chel1242	atv	OLD (USED)	eski	eski	e s k i	eski	OLD (USED)_1			Savelyev & Robeets, 2020
 OldTurkic_OLD (USED)_1	Old Turkic	oldu1238	oui	OLD (USED)	eski	eski	e s k i	eski	OLD (USED)_1			Savelyev & Robeets, 2020
@@ -2644,7 +2644,7 @@ Karaim_EAT_1	Karaim	kara1464	kdr	EAT	aʃa	aʃa	a ʃ a	aʃa	EAT_1			Savelyev & Ro
 Kumyk_EAT_1	Kumyk	kumy1244	kum	EAT	aʃa	aʃa	a ʃ a	aʃa	EAT_1			Savelyev & Robeets, 2020
 Nogai_EAT_1	Nogai	noga1249	nog	EAT	aʃa	aʃa	a ʃ a	aʃa	EAT_1			Savelyev & Robeets, 2020
 Tatar_EAT_1	Tatar	kaza1250	tat	EAT	aʃa	aʃa	a ʃ a	aʃa	EAT_1			Savelyev & Robeets, 2020
-BarabaTatar_EAT_2	Baraba Tatar	bara1273	sty	EAT	jĕ-	jë	j e ̈	jĕ-	EAT_2			Savelyev & Robeets, 2020
+BarabaTatar_EAT_2	Baraba Tatar	bara1273	sty	EAT	jĕ-	jë	j ë	jĕ-	EAT_2			Savelyev & Robeets, 2020
 NorthernAltai_EAT_2	Northern Altai	chel1242	atv	EAT	t́i-	ci	c i	t́i-	EAT_2			Savelyev & Robeets, 2020
 OldTurkic_EAT_2	Old Turkic	oldu1238	oui	EAT	je	je	j e	je	EAT_2			Savelyev & Robeets, 2020
 SouthernAltai_EAT_2	Southern Altai	sout2694	alt	EAT	ɟi	ɟi	ɟ i	ɟi	EAT_2			Savelyev & Robeets, 2020
@@ -2716,7 +2716,7 @@ OldTurkic_THICK_2	Old Turkic	oldu1238	oui	THICK	qalɯn	qalɯn	q a l ɯ n	qalɯn	
 SouthernAltai_THICK_2	Southern Altai	sout2694	alt	THICK	qalɯn	qalɯn	q a l ɯ n	qalɯn	THICK_2			Savelyev & Robeets, 2020
 Azerbaijani_THICK_2	Azerbaijani	nort2697	azj	THICK	ɢalɯn	ɢalɯn	ɢ a l ɯ n	ɢalɯn	THICK_2			Savelyev & Robeets, 2020
 Bashkir_THICK_2	Bashkir	bash1264	bak	THICK	qalɯn	qalɯn	q a l ɯ n	qalɯn	THICK_2			Savelyev & Robeets, 2020
-Chuvash_THICK_2	Chuvash	chuv1255	chv	THICK	χulə̈n	χulɤ̆ʷn	χ u l ɤ ̆ʷ n	χulə̈n	THICK_2			Savelyev & Robeets, 2020
+Chuvash_THICK_2	Chuvash	chuv1255	chv	THICK	χulə̈n	χulɤ̆ʷn	χ u l ɤ̆ʷ n	χulə̈n	THICK_2			Savelyev & Robeets, 2020
 CrimeanTatar_THICK_2	Crimean Tatar	crim1257	crh	THICK	qalɯn	qalɯn	q a l ɯ n	qalɯn	THICK_2			Savelyev & Robeets, 2020
 Gagauz_THICK_2	Gagauz	gaga1249	gag	THICK	kalɯn	kalɯn	k a l ɯ n	kalɯn	THICK_2			Savelyev & Robeets, 2020
 Kara-Kalpak_THICK_2	Kara-Kalpak	kara1467	kaa	THICK	qalɯn	qalɯn	q a l ɯ n	qalɯn	THICK_2			Savelyev & Robeets, 2020
@@ -2761,7 +2761,7 @@ OldTurkic_LONG_1	Old Turkic	oldu1238	oui	LONG	uzun	uzun	u z u n	uzun	LONG_1			Sa
 SouthernAltai_LONG_1	Southern Altai	sout2694	alt	LONG	uzun	uzun	u z u n	uzun	LONG_1			Savelyev & Robeets, 2020
 Azerbaijani_LONG_1	Azerbaijani	nort2697	azj	LONG	uzun	uzun	u z u n	uzun	LONG_1			Savelyev & Robeets, 2020
 Bashkir_LONG_1	Bashkir	bash1264	bak	LONG	oðon	oðon	o ð o n	oðon	LONG_1			Savelyev & Robeets, 2020
-Chuvash_LONG_1	Chuvash	chuv1255	chv	LONG	vöröm	vɤ̆ʷrɤ̆ʷm	v ɤ ̆ʷ r ɤ ̆ʷ m	vöröm	LONG_1			Savelyev & Robeets, 2020
+Chuvash_LONG_1	Chuvash	chuv1255	chv	LONG	vöröm	vɤ̆ʷrɤ̆ʷm	v ɤ̆ʷ r ɤ̆ʷ m	vöröm	LONG_1			Savelyev & Robeets, 2020
 CrimeanTatar_LONG_1	Crimean Tatar	crim1257	crh	LONG	uzun	uzun	u z u n	uzun	LONG_1			Savelyev & Robeets, 2020
 Dolgan_LONG_1	Dolgan	dolg1241	dlg	LONG	uhun	uhun	u h u n	uhun	LONG_1			Savelyev & Robeets, 2020
 Gagauz_LONG_1	Gagauz	gaga1249	gag	LONG	uzun	uzun	u z u n	uzun	LONG_1			Savelyev & Robeets, 2020
@@ -2787,7 +2787,7 @@ Turkmen_LONG_1	Turkmen	turk1304	tuk	LONG	uzɯn	uðɯn	u ð ɯ n	uzɯn	LONG_1			S
 Tuvan_LONG_1	Tuvan	tuvi1240	tyv	LONG	uzun	uzun	u z u n	uzun	LONG_1			Savelyev & Robeets, 2020
 Uyghur_LONG_1	Uyghur	uigh1240	uig	LONG	uzun	uzun	u z u n	uzun	LONG_1			Savelyev & Robeets, 2020
 Uzbek_LONG_1	Uzbek	uzbe1247	uzb	LONG	uzun	uzun	u z u n	uzun	LONG_1			Savelyev & Robeets, 2020
-BarabaTatar_BLOW (OF WIND)_1	Baraba Tatar	bara1273	sty	BLOW (OF WIND)	ĕs-	ës	e ̈ s	ĕs-	BLOW (OF WIND)_1			Savelyev & Robeets, 2020
+BarabaTatar_BLOW (OF WIND)_1	Baraba Tatar	bara1273	sty	BLOW (OF WIND)	ĕs-	ës	ë s	ĕs-	BLOW (OF WIND)_1			Savelyev & Robeets, 2020
 Azerbaijani_BLOW (OF WIND)_1	Azerbaijani	nort2697	azj	BLOW (OF WIND)	ɛs	ɛs	ɛ s	ɛs	BLOW (OF WIND)_1			Savelyev & Robeets, 2020
 Bashkir_BLOW (OF WIND)_1	Bashkir	bash1264	bak	BLOW (OF WIND)	iθ	iθ	i θ	iθ	BLOW (OF WIND)_1			Savelyev & Robeets, 2020
 CrimeanTatar_BLOW (OF WIND)_1	Crimean Tatar	crim1257	crh	BLOW (OF WIND)	es	es	e s	es	BLOW (OF WIND)_1			Savelyev & Robeets, 2020
@@ -2805,7 +2805,7 @@ Uzbek_BLOW (OF WIND)_1	Uzbek	uzbe1247	uzb	BLOW (OF WIND)	es	es	e s	es	BLOW (OF W
 OldTurkic_BLOW (OF WIND)_2	Old Turkic	oldu1238	oui	BLOW (OF WIND)	yr	yr	y r	yr	BLOW (OF WIND)_2			Savelyev & Robeets, 2020
 SouthernAltai_BLOW (OF WIND)_2	Southern Altai	sout2694	alt	BLOW (OF WIND)	yr	yr	y r	yr	BLOW (OF WIND)_2			Savelyev & Robeets, 2020
 Bashkir_BLOW (OF WIND)_2	Bashkir	bash1264	bak	BLOW (OF WIND)	ør	ør	ø r	ør	BLOW (OF WIND)_2			Savelyev & Robeets, 2020
-Chuvash_BLOW (OF WIND)_2	Chuvash	chuv1255	chv	BLOW (OF WIND)	vø̈r	vɘ̆ʷr	v ɘ ̆ʷ r	vø̈r	BLOW (OF WIND)_2			Savelyev & Robeets, 2020
+Chuvash_BLOW (OF WIND)_2	Chuvash	chuv1255	chv	BLOW (OF WIND)	vø̈r	vɘ̆ʷr	v ɘ̆ʷ r	vø̈r	BLOW (OF WIND)_2			Savelyev & Robeets, 2020
 Dolgan_BLOW (OF WIND)_2	Dolgan	dolg1241	dlg	BLOW (OF WIND)	yr	yr	y r	yr	BLOW (OF WIND)_2			Savelyev & Robeets, 2020
 Kara-Kalpak_BLOW (OF WIND)_2	Kara-Kalpak	kara1467	kaa	BLOW (OF WIND)	yrle	yrle	y r l e	yrle	BLOW (OF WIND)_2			Savelyev & Robeets, 2020
 Karachay-Balkar_BLOW (OF WIND)_2	Karachay-Balkar	kara1465	krc	BLOW (OF WIND)	yr	yr	y r	yr	BLOW (OF WIND)_2			Savelyev & Robeets, 2020
@@ -2842,8 +2842,8 @@ Uyghur_BLOW (OF WIND)_8	Uyghur	uigh1240	uig	BLOW (OF WIND)	pydɛ	pydɛ	p y d ɛ	
 Uyghur_BLOW (OF WIND)_8	Uyghur	uigh1240	uig	BLOW (OF WIND)	pylɛ	pylɛ	p y l ɛ	pylɛ	BLOW (OF WIND)_8			Savelyev & Robeets, 2020
 Tuvan_BLOW (OF WIND)_9	Tuvan	tuvi1240	tyv	BLOW (OF WIND)	χadɯ	χadɯ	χ a d ɯ	χadɯ	BLOW (OF WIND)_9			Savelyev & Robeets, 2020
 NorthernAltai_BLOW (OF WIND)_10	Northern Altai	chel1242	atv	BLOW (OF WIND)	kir-	kir	k i r	kir-	BLOW (OF WIND)_10			Savelyev & Robeets, 2020
-BarabaTatar_BLOW (OF WIND)_11	Baraba Tatar	bara1273	sty	BLOW (OF WIND)	jĕlbɛn-	jëlbɛn	j e ̈ l b ɛ n	jĕlbĕ-	BLOW (OF WIND)_11			Savelyev & Robeets, 2020
-BarabaTatar_BLOW (OF WIND)_11	Baraba Tatar	bara1273	sty	BLOW (OF WIND)	jĕlbĕ-	jëlbë	j e ̈ l b e ̈	jĕlbĕ-	BLOW (OF WIND)_11			Savelyev & Robeets, 2020
+BarabaTatar_BLOW (OF WIND)_11	Baraba Tatar	bara1273	sty	BLOW (OF WIND)	jĕlbɛn-	jëlbɛn	j ë l b ɛ n	jĕlbĕ-	BLOW (OF WIND)_11			Savelyev & Robeets, 2020
+BarabaTatar_BLOW (OF WIND)_11	Baraba Tatar	bara1273	sty	BLOW (OF WIND)	jĕlbĕ-	jëlbë	j ë l b ë	jĕlbĕ-	BLOW (OF WIND)_11			Savelyev & Robeets, 2020
 OldTurkic_BLOW (OF WIND)_11	Old Turkic	oldu1238	oui	BLOW (OF WIND)	jeltir	jeltir	j e l t i r	jeltir	BLOW (OF WIND)_11			Savelyev & Robeets, 2020
 BarabaTatar_WOOD_1	Baraba Tatar	bara1273	sty	WOOD	aɣaʨ	aɣaʨ	a ɣ a ʨ	aɣaʨ	WOOD_1			Savelyev & Robeets, 2020
 Cuman_WOOD_1	Cuman	pech1242	qwm	WOOD	agaʨ	aɡaʨ	a ɡ a ʨ	agaʨ	WOOD_1			Savelyev & Robeets, 2020
@@ -2852,7 +2852,7 @@ OldTurkic_WOOD_1	Old Turkic	oldu1238	oui	WOOD	ɯɣaʨ	ɯɣaʨ	ɯ ɣ a ʨ	ɯɣaʨ
 SouthernAltai_WOOD_1	Southern Altai	sout2694	alt	WOOD	aɣaʃ	aɣaʃ	a ɣ a ʃ	aɣaʃ	WOOD_1			Savelyev & Robeets, 2020
 Azerbaijani_WOOD_1	Azerbaijani	nort2697	azj	WOOD	aɣaʨ	aɣaʨ	a ɣ a ʨ	aɣaʨ	WOOD_1			Savelyev & Robeets, 2020
 Bashkir_WOOD_1	Bashkir	bash1264	bak	WOOD	aɣas	aɣas	a ɣ a s	aɣas	WOOD_1			Savelyev & Robeets, 2020
-Chuvash_WOOD_1	Chuvash	chuv1255	chv	WOOD	jɯvə̈ɕ	jɯvɤ̆ʷɕ	j ɯ v ɤ ̆ʷ ɕ	jɯvə̈ɕ	WOOD_1			Savelyev & Robeets, 2020
+Chuvash_WOOD_1	Chuvash	chuv1255	chv	WOOD	jɯvə̈ɕ	jɯvɤ̆ʷɕ	j ɯ v ɤ̆ʷ ɕ	jɯvə̈ɕ	WOOD_1			Savelyev & Robeets, 2020
 CrimeanTatar_WOOD_1	Crimean Tatar	crim1257	crh	WOOD	aɣaʨ	aɣaʨ	a ɣ a ʨ	aɣaʨ	WOOD_1			Savelyev & Robeets, 2020
 Dolgan_WOOD_1	Dolgan	dolg1241	dlg	WOOD	mas	mas	m a s	mas	WOOD_1			Savelyev & Robeets, 2020
 Gagauz_WOOD_1	Gagauz	gaga1249	gag	WOOD	aaʨ	aaʨ	a a ʨ	aaʨ	WOOD_1			Savelyev & Robeets, 2020
@@ -2994,7 +2994,7 @@ OldTurkic_ASH_1	Old Turkic	oldu1238	oui	ASH	kyl	kyl	k y l	kyl	ASH_1			Savelyev &
 SouthernAltai_ASH_1	Southern Altai	sout2694	alt	ASH	kyl	kyl	k y l	kyl	ASH_1			Savelyev & Robeets, 2020
 Azerbaijani_ASH_1	Azerbaijani	nort2697	azj	ASH	kyl	kyl	k y l	kyl	ASH_1			Savelyev & Robeets, 2020
 Bashkir_ASH_1	Bashkir	bash1264	bak	ASH	køl	køl	k ø l	køl	ASH_1			Savelyev & Robeets, 2020
-Chuvash_ASH_1	Chuvash	chuv1255	chv	ASH	kø̈l	kɘ̆ʷl	k ɘ ̆ʷ l	kø̈l	ASH_1			Savelyev & Robeets, 2020
+Chuvash_ASH_1	Chuvash	chuv1255	chv	ASH	kø̈l	kɘ̆ʷl	k ɘ̆ʷ l	kø̈l	ASH_1			Savelyev & Robeets, 2020
 CrimeanTatar_ASH_1	Crimean Tatar	crim1257	crh	ASH	kyl	kyl	k y l	kyl	ASH_1			Savelyev & Robeets, 2020
 Dolgan_ASH_1	Dolgan	dolg1241	dlg	ASH	kyl	kyl	k y l	kyl	ASH_1			Savelyev & Robeets, 2020
 Gagauz_ASH_1	Gagauz	gaga1249	gag	ASH	kyl	kyl	k y l	kyl	ASH_1			Savelyev & Robeets, 2020
@@ -3059,7 +3059,7 @@ OldTurkic_DOG_1	Old Turkic	oldu1238	oui	DOG	ɯt	ɯt	ɯ t	ɯt	DOG_1			Savelyev & 
 SouthernAltai_DOG_1	Southern Altai	sout2694	alt	DOG	it	it	i t	it	DOG_1			Savelyev & Robeets, 2020
 Azerbaijani_DOG_1	Azerbaijani	nort2697	azj	DOG	it	it	i t	it	DOG_1			Savelyev & Robeets, 2020
 Bashkir_DOG_1	Bashkir	bash1264	bak	DOG	et	et	e t	et	DOG_1			Savelyev & Robeets, 2020
-Chuvash_DOG_1	Chuvash	chuv1255	chv	DOG	jɯdə̈	jɯdɤ̆ʷ	j ɯ d ɤ ̆ʷ	jɯdə̈	DOG_1			Savelyev & Robeets, 2020
+Chuvash_DOG_1	Chuvash	chuv1255	chv	DOG	jɯdə̈	jɯdɤ̆ʷ	j ɯ d ɤ̆ʷ	jɯdə̈	DOG_1			Savelyev & Robeets, 2020
 Dolgan_DOG_1	Dolgan	dolg1241	dlg	DOG	ɯt	ɯt	ɯ t	ɯt	DOG_1			Savelyev & Robeets, 2020
 Kara-Kalpak_DOG_1	Kara-Kalpak	kara1467	kaa	DOG	ijt	ijt	i j t	ijt	DOG_1			Savelyev & Robeets, 2020
 Karachay-Balkar_DOG_1	Karachay-Balkar	kara1465	krc	DOG	it	it	i t	it	DOG_1			Savelyev & Robeets, 2020
@@ -3119,7 +3119,7 @@ CrimeanTatar_CRY_3	Crimean Tatar	crim1257	crh	CRY	aɣla	aɣla	a ɣ l a	aɣla	CRY
 Gagauz_CRY_3	Gagauz	gaga1249	gag	CRY	a:la	aːla	aː l a	a:la	CRY_3			Savelyev & Robeets, 2020
 Turkish_CRY_3	Turkish	nucl1301	tur	CRY	aɣla	aːla	aː l a	aɣla	CRY_3			Savelyev & Robeets, 2020
 Turkmen_CRY_3	Turkmen	turk1304	tuk	CRY	aɣla	aɣla	a ɣ l a	aɣla	CRY_3			Savelyev & Robeets, 2020
-Chuvash_CRY_4	Chuvash	chuv1255	chv	CRY	magə̈r	maɡɤ̆ʷr	m a ɡ ɤ ̆ʷ r	magə̈r	CRY_4			Savelyev & Robeets, 2020
+Chuvash_CRY_4	Chuvash	chuv1255	chv	CRY	magə̈r	maɡɤ̆ʷr	m a ɡ ɤ̆ʷ r	magə̈r	CRY_4			Savelyev & Robeets, 2020
 BarabaTatar_TIE_1	Baraba Tatar	bara1273	sty	TIE	pawla-	pawla	p a w l a	pawla-	TIE_1			Savelyev & Robeets, 2020
 NorthernAltai_TIE_1	Northern Altai	chel1242	atv	TIE	poɣ-	poɣ	p o ɣ	paɣla-	TIE_1			Savelyev & Robeets, 2020
 NorthernAltai_TIE_1	Northern Altai	chel1242	atv	TIE	paɣla-	paɣla	p a ɣ l a	paɣla-	TIE_1			Savelyev & Robeets, 2020
@@ -3218,7 +3218,7 @@ Turkmen_SWEET_4	Turkmen	turk1304	tuk	SWEET	? syjʥi	θyjʥi	θ y j ʥ i	? syjʥi
 NorthernAltai_ROPE_1	Northern Altai	chel1242	atv	ROPE	paɣ	paɣ	p a ɣ	paɣ	ROPE_1			Savelyev & Robeets, 2020
 SouthernAltai_ROPE_1	Southern Altai	sout2694	alt	ROPE	bu:	buː	b uː	bu:	ROPE_1			Savelyev & Robeets, 2020
 Bashkir_ROPE_1	Bashkir	bash1264	bak	ROPE	baw	baw	b a w	baw	ROPE_1			Savelyev & Robeets, 2020
-Chuvash_ROPE_1	Chuvash	chuv1255	chv	ROPE	pə̈jav	pɤ̆ʷjav	p ɤ ̆ʷ j a v	pə̈jav	ROPE_1			Savelyev & Robeets, 2020
+Chuvash_ROPE_1	Chuvash	chuv1255	chv	ROPE	pə̈jav	pɤ̆ʷjav	p ɤ̆ʷ j a v	pə̈jav	ROPE_1			Savelyev & Robeets, 2020
 Dolgan_ROPE_1	Dolgan	dolg1241	dlg	ROPE	bɯa	bɯa	b ɯ a	bɯa	ROPE_1			Savelyev & Robeets, 2020
 Kara-Kalpak_ROPE_1	Kara-Kalpak	kara1467	kaa	ROPE	baw	baw	b a w	baw	ROPE_1			Savelyev & Robeets, 2020
 Kazakh_ROPE_1	Kazakh	kaza1248	kaz	ROPE	baw	baw	b a w	baw	ROPE_1			Savelyev & Robeets, 2020
@@ -3257,7 +3257,7 @@ Turkish_ROPE_5	Turkish	nucl1301	tur	ROPE	urgan	urɡan	u r ɡ a n	urgan	ROPE_5			
 Kyrgyz_ROPE_6	Kyrgyz	kirg1245	kir	ROPE	køtørmø	køtørmø	k ø t ø r m ø	køtørmø	ROPE_6			Savelyev & Robeets, 2020
 Gagauz_ROPE_7	Gagauz	gaga1249	gag	ROPE	ʨatɯ	ʨatɯ	ʨ a t ɯ	ʨatɯ	ROPE_7			Savelyev & Robeets, 2020
 Cuman_ROPE_8	Cuman	pech1242	qwm	ROPE	ørken	ørken	ø r k e n	ørken	ROPE_8			Savelyev & Robeets, 2020
-Chuvash_ROPE_8	Chuvash	chuv1255	chv	ROPE	vø̈ren	vɘ̆ʷren	v ɘ ̆ʷ r e n	vø̈ren	ROPE_8			Savelyev & Robeets, 2020
+Chuvash_ROPE_8	Chuvash	chuv1255	chv	ROPE	vø̈ren	vɘ̆ʷren	v ɘ̆ʷ r e n	vø̈ren	ROPE_8			Savelyev & Robeets, 2020
 Karaim_ROPE_8	Karaim	kara1464	kdr	ROPE	ørken	ørken	ø r k e n	erken	ROPE_8			Savelyev & Robeets, 2020
 Karaim_ROPE_8	Karaim	kara1464	kdr	ROPE	erken	erken	e r k e n	erken	ROPE_8			Savelyev & Robeets, 2020
 Cuman_SHADE_1	Cuman	pech1242	qwm	SHADE	colɛge	colɛɡe	c o l ɛ ɡ e	colɛge	SHADE_1			Savelyev & Robeets, 2020
@@ -3322,14 +3322,14 @@ Uzbek_BIRD_1	Uzbek	uzbe1247	uzb	BIRD	quʃ	quʃ	q u ʃ	quʃ	BIRD_1			Savelyev & R
 Dolgan_BIRD_2	Dolgan	dolg1241	dlg	BIRD	køtør	køtør	k ø t ø r	køtør	BIRD_2			Savelyev & Robeets, 2020
 Karachay-Balkar_BIRD_3	Karachay-Balkar	kara1465	krc	BIRD	qanatlɯ	qanatlɯ	q a n a t l ɯ	qanatlɯ	BIRD_3			Savelyev & Robeets, 2020
 Kyrgyz_BIRD_3	Kyrgyz	kirg1245	kir	BIRD	qanattu:	qanattuː	q a n a t t uː	qanattu:	BIRD_3			Savelyev & Robeets, 2020
-Chuvash_BIRD_4	Chuvash	chuv1255	chv	BIRD	kajə̈k	kajɤ̆ʷk	k a j ɤ ̆ʷ k	kajə̈k	BIRD_4			Savelyev & Robeets, 2020
+Chuvash_BIRD_4	Chuvash	chuv1255	chv	BIRD	kajə̈k	kajɤ̆ʷk	k a j ɤ̆ʷ k	kajə̈k	BIRD_4			Savelyev & Robeets, 2020
 Cuman_SALT_1	Cuman	pech1242	qwm	SALT	tus	tus	t u s	tus	SALT_1			Savelyev & Robeets, 2020
 NorthernAltai_SALT_1	Northern Altai	chel1242	atv	SALT	tus	tus	t u s	tus	SALT_1			Savelyev & Robeets, 2020
 OldTurkic_SALT_1	Old Turkic	oldu1238	oui	SALT	tuz	tuz	t u z	tuz	SALT_1			Savelyev & Robeets, 2020
 SouthernAltai_SALT_1	Southern Altai	sout2694	alt	SALT	tus	tus	t u s	tus	SALT_1			Savelyev & Robeets, 2020
 Azerbaijani_SALT_1	Azerbaijani	nort2697	azj	SALT	duz	duz	d u z	duz	SALT_1			Savelyev & Robeets, 2020
 Bashkir_SALT_1	Bashkir	bash1264	bak	SALT	toð	toð	t o ð	toð	SALT_1			Savelyev & Robeets, 2020
-Chuvash_SALT_1	Chuvash	chuv1255	chv	SALT	tövar	tɤ̆ʷvar	t ɤ ̆ʷ v a r	tövar	SALT_1			Savelyev & Robeets, 2020
+Chuvash_SALT_1	Chuvash	chuv1255	chv	SALT	tövar	tɤ̆ʷvar	t ɤ̆ʷ v a r	tövar	SALT_1			Savelyev & Robeets, 2020
 CrimeanTatar_SALT_1	Crimean Tatar	crim1257	crh	SALT	tuz	tuz	t u z	tuz	SALT_1			Savelyev & Robeets, 2020
 Dolgan_SALT_1	Dolgan	dolg1241	dlg	SALT	ty:s	tyːs	t yː s	ty:s	SALT_1			Savelyev & Robeets, 2020
 Gagauz_SALT_1	Gagauz	gaga1249	gag	SALT	tuz	tuz	t u z	tuz	SALT_1			Savelyev & Robeets, 2020
@@ -3431,7 +3431,7 @@ OldTurkic_STAR_1	Old Turkic	oldu1238	oui	STAR	jultuz	jultuz	j u l t u z	jultuz	S
 SouthernAltai_STAR_1	Southern Altai	sout2694	alt	STAR	ɟɯldɯs	ɟɯldɯs	ɟ ɯ l d ɯ s	ɟɯldɯs	STAR_1			Savelyev & Robeets, 2020
 Azerbaijani_STAR_1	Azerbaijani	nort2697	azj	STAR	ulduz	ulduz	u l d u z	ulduz	STAR_1			Savelyev & Robeets, 2020
 Bashkir_STAR_1	Bashkir	bash1264	bak	STAR	jondoð	jondoð	j o n d o ð	jondoð	STAR_1			Savelyev & Robeets, 2020
-Chuvash_STAR_1	Chuvash	chuv1255	chv	STAR	ɕöldör	ɕɤ̆ʷldɤ̆ʷr	ɕ ɤ ̆ʷ l d ɤ ̆ʷ r	ɕöldör	STAR_1			Savelyev & Robeets, 2020
+Chuvash_STAR_1	Chuvash	chuv1255	chv	STAR	ɕöldör	ɕɤ̆ʷldɤ̆ʷr	ɕ ɤ̆ʷ l d ɤ̆ʷ r	ɕöldör	STAR_1			Savelyev & Robeets, 2020
 CrimeanTatar_STAR_1	Crimean Tatar	crim1257	crh	STAR	jɯldɯz	jɯldɯz	j ɯ l d ɯ z	jɯldɯz	STAR_1			Savelyev & Robeets, 2020
 Dolgan_STAR_1	Dolgan	dolg1241	dlg	STAR	hulus	hulus	h u l u s	hulus	STAR_1			Savelyev & Robeets, 2020
 Gagauz_STAR_1	Gagauz	gaga1249	gag	STAR	jɯldɯz	jɯldɯz	j ɯ l d ɯ z	jɯldɯz	STAR_1			Savelyev & Robeets, 2020
@@ -3469,7 +3469,7 @@ SouthernAltai_IN_1	Southern Altai	sout2694	alt	IN	iʨinde	iʨinde	i ʨ i n d e	i
 Azerbaijani_IN_1	Azerbaijani	nort2697	azj	IN	iʨɛridɛ	iʨɛridɛ	i ʨ ɛ r i d ɛ	iʨindɛ	IN_1			Savelyev & Robeets, 2020
 Azerbaijani_IN_1	Azerbaijani	nort2697	azj	IN	iʨindɛ	iʨindɛ	i ʨ i n d ɛ	iʨindɛ	IN_1			Savelyev & Robeets, 2020
 Bashkir_IN_1	Bashkir	bash1264	bak	IN	esendɛ	esendɛ	e s e n d ɛ	esendɛ	IN_1			Savelyev & Robeets, 2020
-Chuvash_IN_1	Chuvash	chuv1255	chv	IN	ə̈ʒɘnʥe	ɤ̆ʷʒɘnʥe	ɤ ̆ʷ ʒ ɘ n ʥ e	ə̈ʒɘnʥe	IN_1			Savelyev & Robeets, 2020
+Chuvash_IN_1	Chuvash	chuv1255	chv	IN	ə̈ʒɘnʥe	ɤ̆ʷʒɘnʥe	ɤ̆ʷ ʒ ɘ n ʥ e	ə̈ʒɘnʥe	IN_1			Savelyev & Robeets, 2020
 CrimeanTatar_IN_1	Crimean Tatar	crim1257	crh	IN	iʨinde	iʨinde	i ʨ i n d e	iʨinde	IN_1			Savelyev & Robeets, 2020
 Dolgan_IN_1	Dolgan	dolg1241	dlg	IN	iske	iske	i s k e	ihiger	IN_1			Savelyev & Robeets, 2020
 Dolgan_IN_1	Dolgan	dolg1241	dlg	IN	ihiger	ihiɡer	i h i ɡ e r	ihiger	IN_1			Savelyev & Robeets, 2020
@@ -3502,7 +3502,7 @@ NorthernAltai_HARD_1	Northern Altai	chel1242	atv	HARD	qadɯɣ	qadɯɣ	q a d ɯ �
 OldTurkic_HARD_1	Old Turkic	oldu1238	oui	HARD	qatɯɣ	qatɯɣ	q a t ɯ ɣ	qatɯɣ	HARD_1			Savelyev & Robeets, 2020
 SouthernAltai_HARD_1	Southern Altai	sout2694	alt	HARD	qatu	qatu	q a t u	qatu	HARD_1			Savelyev & Robeets, 2020
 Bashkir_HARD_1	Bashkir	bash1264	bak	HARD	qatɯ	qatɯ	q a t ɯ	qatɯ	HARD_1			Savelyev & Robeets, 2020
-Chuvash_HARD_1	Chuvash	chuv1255	chv	HARD	χɯdə̈	χɯdɤ̆ʷ	χ ɯ d ɤ ̆ʷ	χɯdə̈	HARD_1			Savelyev & Robeets, 2020
+Chuvash_HARD_1	Chuvash	chuv1255	chv	HARD	χɯdə̈	χɯdɤ̆ʷ	χ ɯ d ɤ̆ʷ	χɯdə̈	HARD_1			Savelyev & Robeets, 2020
 CrimeanTatar_HARD_1	Crimean Tatar	crim1257	crh	HARD	qattɯ	qattɯ	q a t t ɯ	qattɯ	HARD_1			Savelyev & Robeets, 2020
 Dolgan_HARD_1	Dolgan	dolg1241	dlg	HARD	kɯta:nak	kɯtaːnak	k ɯ t aː n a k	kɯta:nak	HARD_1			Savelyev & Robeets, 2020
 Kara-Kalpak_HARD_1	Kara-Kalpak	kara1467	kaa	HARD	qattɯ	qattɯ	q a t t ɯ	qattɯ	HARD_1			Savelyev & Robeets, 2020
@@ -3550,7 +3550,7 @@ Tofa_GRIND_3	Tofa	tofa1248	kim	GRIND	teermele	teermele	t e e r m e l e	teermele	
 Tuvan_GRIND_3	Tuvan	tuvi1240	tyv	GRIND	deerbele	deerbele	d e e r b e l e	deerbele	GRIND_3			Savelyev & Robeets, 2020
 WestYugur_GRIND_4	West Yugur	west2402	ybe	GRIND	uɣ	uɣ	u ɣ	uɣ	GRIND_4			Savelyev & Robeets, 2020
 Dolgan_GRIND_5	Dolgan	dolg1241	dlg	GRIND	ilbirit	ilbirit	i l b i r i t	ilbirit	GRIND_5			Savelyev & Robeets, 2020
-Chuvash_GRIND_6	Chuvash	chuv1255	chv	GRIND	avə̈r	avɤ̆ʷr	a v ɤ ̆ʷ r	avə̈r	GRIND_6			Savelyev & Robeets, 2020
+Chuvash_GRIND_6	Chuvash	chuv1255	chv	GRIND	avə̈r	avɤ̆ʷr	a v ɤ̆ʷ r	avə̈r	GRIND_6			Savelyev & Robeets, 2020
 CrimeanTatar_GRIND_7	Crimean Tatar	crim1257	crh	GRIND	ʨek	ʨek	ʨ e k	ʨek	GRIND_7			Savelyev & Robeets, 2020
 OldTurkic_GRIND_8	Old Turkic	oldu1238	oui	GRIND	? janʨ	janʨ	j a n ʨ	? janʨ	GRIND_8			Savelyev & Robeets, 2020
 Uzbek_GRIND_8	Uzbek	uzbe1247	uzb	GRIND	? janʨ	janʨ	j a n ʨ	? janʨ	GRIND_8			Savelyev & Robeets, 2020
@@ -3671,7 +3671,7 @@ Turkmen_THROW_2	Turkmen	turk1304	tuk	THROW	taʃla	taʃla	t a ʃ l a	taʃla	THROW
 Tuvan_THROW_2	Tuvan	tuvi1240	tyv	THROW	daʒa	daʒa	d a ʒ a	daʒa	THROW_2			Savelyev & Robeets, 2020
 Uyghur_THROW_2	Uyghur	uigh1240	uig	THROW	taʃla	taʃla	t a ʃ l a	taʃla	THROW_2			Savelyev & Robeets, 2020
 Uzbek_THROW_2	Uzbek	uzbe1247	uzb	THROW	? taʃla	taʃla	t a ʃ l a	? taʃla	THROW_2			Savelyev & Robeets, 2020
-Chuvash_THROW_3	Chuvash	chuv1255	chv	THROW	pə̈raχ	pɤ̆ʷraχ	p ɤ ̆ʷ r a χ	pə̈raχ	THROW_3			Savelyev & Robeets, 2020
+Chuvash_THROW_3	Chuvash	chuv1255	chv	THROW	pə̈raχ	pɤ̆ʷraχ	p ɤ̆ʷ r a χ	pə̈raχ	THROW_3			Savelyev & Robeets, 2020
 Dolgan_THROW_3	Dolgan	dolg1241	dlg	THROW	bɯrak	bɯrak	b ɯ r a k	bɯrak	THROW_3			Savelyev & Robeets, 2020
 NorthernAltai_THROW_4	Northern Altai	chel1242	atv	THROW	ʨel-	ʨel	ʨ e l	ʨel-	THROW_4			Savelyev & Robeets, 2020
 OldTurkic_THROW_5	Old Turkic	oldu1238	oui	THROW	kemiʃ	kemiʃ	k e m i ʃ	kemiʃ	THROW_5			Savelyev & Robeets, 2020
@@ -3679,7 +3679,7 @@ Dolgan_THROW_5	Dolgan	dolg1241	dlg	THROW	ke:s	keːs	k eː s	ke:s	THROW_5			Savel
 BarabaTatar_THROW_6	Baraba Tatar	bara1273	sty	THROW	at-	at	a t	at-	THROW_6			Savelyev & Robeets, 2020
 OldTurkic_THROW_6	Old Turkic	oldu1238	oui	THROW	at	at	a t	at	THROW_6			Savelyev & Robeets, 2020
 Azerbaijani_THROW_6	Azerbaijani	nort2697	azj	THROW	at	at	a t	at	THROW_6			Savelyev & Robeets, 2020
-Chuvash_THROW_6	Chuvash	chuv1255	chv	THROW	ɯvə̈t	ɯvɤ̆ʷt	ɯ v ɤ ̆ʷ t	ɯvə̈t	THROW_6			Savelyev & Robeets, 2020
+Chuvash_THROW_6	Chuvash	chuv1255	chv	THROW	ɯvə̈t	ɯvɤ̆ʷt	ɯ v ɤ̆ʷ t	ɯvə̈t	THROW_6			Savelyev & Robeets, 2020
 CrimeanTatar_THROW_6	Crimean Tatar	crim1257	crh	THROW	at	at	a t	at	THROW_6			Savelyev & Robeets, 2020
 Gagauz_THROW_6	Gagauz	gaga1249	gag	THROW	at	at	a t	at	THROW_6			Savelyev & Robeets, 2020
 Kara-Kalpak_THROW_6	Kara-Kalpak	kara1467	kaa	THROW	at	at	a t	at	THROW_6			Savelyev & Robeets, 2020
@@ -3762,7 +3762,7 @@ Tuvan_RIGHT_1	Tuvan	tuvi1240	tyv	RIGHT	oŋ	oŋ	o ŋ	oŋ	RIGHT_1			Savelyev & Rob
 Uyghur_RIGHT_1	Uyghur	uigh1240	uig	RIGHT	oŋ	oŋ	o ŋ	oŋ	RIGHT_1			Savelyev & Robeets, 2020
 Uzbek_RIGHT_1	Uzbek	uzbe1247	uzb	RIGHT	oŋ	oŋ	o ŋ	oŋ	RIGHT_1			Savelyev & Robeets, 2020
 Azerbaijani_RIGHT_2	Azerbaijani	nort2697	azj	RIGHT	saɣ	saɣ	s a ɣ	saɣ	RIGHT_2			Savelyev & Robeets, 2020
-Chuvash_RIGHT_2	Chuvash	chuv1255	chv	RIGHT	sɯldə̈m	sɯldɤ̆ʷm	s ɯ l d ɤ ̆ʷ m	sɯldə̈m	RIGHT_2			Savelyev & Robeets, 2020
+Chuvash_RIGHT_2	Chuvash	chuv1255	chv	RIGHT	sɯldə̈m	sɯldɤ̆ʷm	s ɯ l d ɤ̆ʷ m	sɯldə̈m	RIGHT_2			Savelyev & Robeets, 2020
 Gagauz_RIGHT_2	Gagauz	gaga1249	gag	RIGHT	saa taraf	saa taraf	s a a   t a r a f	saa taraf	RIGHT_2			Savelyev & Robeets, 2020
 Salar_RIGHT_2	Salar	sala1264	slr	RIGHT	sɯχ	sɯχ	s ɯ χ		RIGHT_2			Savelyev & Robeets, 2020
 Turkish_RIGHT_2	Turkish	nucl1301	tur	RIGHT	saɣ	saː	s aː	saɣ	RIGHT_2			Savelyev & Robeets, 2020
@@ -3993,7 +3993,7 @@ Gagauz_TOMORROW_3	Gagauz	gaga1249	gag	TOMORROW	jarɯn	jarɯn	j a r ɯ n	jarɯn	T
 Turkish_TOMORROW_3	Turkish	nucl1301	tur	TOMORROW	jarɯn	jarɯn	j a r ɯ n	jarɯn	TOMORROW_3			Savelyev & Robeets, 2020
 Tofa_TOMORROW_4	Tofa	tofa1248	kim	TOMORROW	turaj	turaj	t u r a j	turaj	TOMORROW_4			Savelyev & Robeets, 2020
 WestYugur_TOMORROW_5	West Yugur	west2402	ybe	TOMORROW	taɣɯn	taɣɯn	t a ɣ ɯ n	taɣɯn	TOMORROW_5			Savelyev & Robeets, 2020
-BarabaTatar_TWO_1	Baraba Tatar	bara1273	sty	TWO	ĕki	ëki	e ̈ k i	eki	TWO_1			Savelyev & Robeets, 2020
+BarabaTatar_TWO_1	Baraba Tatar	bara1273	sty	TWO	ĕki	ëki	ë k i	eki	TWO_1			Savelyev & Robeets, 2020
 BarabaTatar_TWO_1	Baraba Tatar	bara1273	sty	TWO	eki	eki	e k i	eki	TWO_1			Savelyev & Robeets, 2020
 Cuman_TWO_1	Cuman	pech1242	qwm	TWO	eki	eki	e k i	eki	TWO_1			Savelyev & Robeets, 2020
 NorthernAltai_TWO_1	Northern Altai	chel1242	atv	TWO	eki	eki	e k i	ekki	TWO_1			Savelyev & Robeets, 2020
@@ -4036,7 +4036,7 @@ NorthernAltai_BOTTOM_1	Northern Altai	chel1242	atv	BOTTOM	typ	typ	t y p	typ	BOTT
 SouthernAltai_BOTTOM_1	Southern Altai	sout2694	alt	BOTTOM	typ	typ	t y p	typ	BOTTOM_1			Savelyev & Robeets, 2020
 Azerbaijani_BOTTOM_1	Azerbaijani	nort2697	azj	BOTTOM	dib	dib	d i b	dib	BOTTOM_1			Savelyev & Robeets, 2020
 Bashkir_BOTTOM_1	Bashkir	bash1264	bak	BOTTOM	tøp	tøp	t ø p	tøp	BOTTOM_1			Savelyev & Robeets, 2020
-Chuvash_BOTTOM_1	Chuvash	chuv1255	chv	BOTTOM	tø̈p	tɘ̆ʷp	t ɘ ̆ʷ p	tø̈p	BOTTOM_1			Savelyev & Robeets, 2020
+Chuvash_BOTTOM_1	Chuvash	chuv1255	chv	BOTTOM	tø̈p	tɘ̆ʷp	t ɘ̆ʷ p	tø̈p	BOTTOM_1			Savelyev & Robeets, 2020
 CrimeanTatar_BOTTOM_1	Crimean Tatar	crim1257	crh	BOTTOM	typ	typ	t y p	typ	BOTTOM_1			Savelyev & Robeets, 2020
 Dolgan_BOTTOM_1	Dolgan	dolg1241	dlg	BOTTOM	tygek	tyɡek	t y ɡ e k	tygek	BOTTOM_1			Savelyev & Robeets, 2020
 Gagauz_BOTTOM_1	Gagauz	gaga1249	gag	BOTTOM	dip	dip	d i p	dip	BOTTOM_1			Savelyev & Robeets, 2020
@@ -4137,7 +4137,7 @@ OldTurkic_CLOUD_1	Old Turkic	oldu1238	oui	CLOUD	bulɯt	bulɯt	b u l ɯ t	bulɯt	
 SouthernAltai_CLOUD_1	Southern Altai	sout2694	alt	CLOUD	bulut	bulut	b u l u t	bulut	CLOUD_1			Savelyev & Robeets, 2020
 Azerbaijani_CLOUD_1	Azerbaijani	nort2697	azj	CLOUD	bulut	bulut	b u l u t	bulut	CLOUD_1			Savelyev & Robeets, 2020
 Bashkir_CLOUD_1	Bashkir	bash1264	bak	CLOUD	bolot	bolot	b o l o t	bolot	CLOUD_1			Savelyev & Robeets, 2020
-Chuvash_CLOUD_1	Chuvash	chuv1255	chv	CLOUD	pø̈lø̈t	pɘ̆ʷlɘ̆ʷt	p ɘ ̆ʷ l ɘ ̆ʷ t	pø̈lø̈t	CLOUD_1			Savelyev & Robeets, 2020
+Chuvash_CLOUD_1	Chuvash	chuv1255	chv	CLOUD	pø̈lø̈t	pɘ̆ʷlɘ̆ʷt	p ɘ̆ʷ l ɘ̆ʷ t	pø̈lø̈t	CLOUD_1			Savelyev & Robeets, 2020
 CrimeanTatar_CLOUD_1	Crimean Tatar	crim1257	crh	CLOUD	bulut	bulut	b u l u t	bulut	CLOUD_1			Savelyev & Robeets, 2020
 Dolgan_CLOUD_1	Dolgan	dolg1241	dlg	CLOUD	bɯlɯt	bɯlɯt	b ɯ l ɯ t	bɯlɯt	CLOUD_1			Savelyev & Robeets, 2020
 Gagauz_CLOUD_1	Gagauz	gaga1249	gag	CLOUD	bulut	bulut	b u l u t	bulut	CLOUD_1			Savelyev & Robeets, 2020
@@ -4342,7 +4342,7 @@ Uyghur_AT_1	Uyghur	uigh1240	uig	AT	tA	ta	t a	tA	AT_1			Savelyev & Robeets, 2020
 Dolgan_AT_3	Dolgan	dolg1241	dlg	AT	ihiger	ihiɡer	i h i ɡ e r	ihiger	AT_3			Savelyev & Robeets, 2020
 Khalaj_AT_4	Khalaj	turk1303	klj	AT	ʨa	ʨa	ʨ a	ʨa	AT_4			Savelyev & Robeets, 2020
 BarabaTatar_EDGE_1	Baraba Tatar	bara1273	sty	EDGE	ʦit	ʦit	ʦ i t	ʨĕt	EDGE_1			Savelyev & Robeets, 2020
-BarabaTatar_EDGE_1	Baraba Tatar	bara1273	sty	EDGE	ʨĕt	ʨët	ʨ e ̈ t	ʨĕt	EDGE_1			Savelyev & Robeets, 2020
+BarabaTatar_EDGE_1	Baraba Tatar	bara1273	sty	EDGE	ʨĕt	ʨët	ʨ ë t	ʨĕt	EDGE_1			Savelyev & Robeets, 2020
 Cuman_EDGE_1	Cuman	pech1242	qwm	EDGE	sete	sete	s e t e	sete	EDGE_1			Savelyev & Robeets, 2020
 Bashkir_EDGE_1	Bashkir	bash1264	bak	EDGE	sit	sit	s i t	sit	EDGE_1			Savelyev & Robeets, 2020
 CrimeanTatar_EDGE_1	Crimean Tatar	crim1257	crh	EDGE	ʨet	ʨet	ʨ e t	ʨet	EDGE_1			Savelyev & Robeets, 2020
@@ -4471,7 +4471,7 @@ BarabaTatar_CHEEK_2	Baraba Tatar	bara1273	sty	CHEEK	pit	pit	p i t	pit	CHEEK_2			
 Kazakh_CHEEK_2	Kazakh	kaza1248	kaz	CHEEK	bet	bet	b e t	bet	CHEEK_2			Savelyev & Robeets, 2020
 Kyrgyz_CHEEK_2	Kyrgyz	kirg1245	kir	CHEEK	bet	bet	b e t	bet	CHEEK_2			Savelyev & Robeets, 2020
 Nogai_CHEEK_2	Nogai	noga1249	nog	CHEEK	bet	bet	b e t	bet	CHEEK_2			Savelyev & Robeets, 2020
-Chuvash_CHEEK_3	Chuvash	chuv1255	chv	CHEEK	ɕömardi	ɕɤ̆ʷmardi	ɕ ɤ ̆ʷ m a r d i	ɕömardi	CHEEK_3			Savelyev & Robeets, 2020
+Chuvash_CHEEK_3	Chuvash	chuv1255	chv	CHEEK	ɕömardi	ɕɤ̆ʷmardi	ɕ ɤ̆ʷ m a r d i	ɕömardi	CHEEK_3			Savelyev & Robeets, 2020
 Uyghur_CHEEK_5	Uyghur	uigh1240	uig	CHEEK	mɛŋza	mɛŋza	m ɛ ŋ z a	mɛŋza	CHEEK_5			Savelyev & Robeets, 2020
 Uzbek_CHEEK_6	Uzbek	uzbe1247	uzb	CHEEK	juz	juz	j u z	juz	CHEEK_6			Savelyev & Robeets, 2020
 BarabaTatar_PUS_1	Baraba Tatar	bara1273	sty	PUS	ɛrɛŋ	ɛrɛŋ	ɛ r ɛ ŋ	ɛrɛŋ	PUS_1			Savelyev & Robeets, 2020
@@ -4508,7 +4508,7 @@ OldTurkic_FLY (MOVE THROUGH AIR)_1	Old Turkic	oldu1238	oui	FLY (MOVE THROUGH AIR
 SouthernAltai_FLY (MOVE THROUGH AIR)_1	Southern Altai	sout2694	alt	FLY (MOVE THROUGH AIR)	uʨ	uʨ	u ʨ	uʨ	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
 Azerbaijani_FLY (MOVE THROUGH AIR)_1	Azerbaijani	nort2697	azj	FLY (MOVE THROUGH AIR)	uʨ	uʨ	u ʨ	uʨ	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
 Bashkir_FLY (MOVE THROUGH AIR)_1	Bashkir	bash1264	bak	FLY (MOVE THROUGH AIR)	os	os	o s	os	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
-Chuvash_FLY (MOVE THROUGH AIR)_1	Chuvash	chuv1255	chv	FLY (MOVE THROUGH AIR)	vø̈ɕ	vɘ̆ʷɕ	v ɘ ̆ʷ ɕ	vø̈ɕ	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
+Chuvash_FLY (MOVE THROUGH AIR)_1	Chuvash	chuv1255	chv	FLY (MOVE THROUGH AIR)	vø̈ɕ	vɘ̆ʷɕ	v ɘ̆ʷ ɕ	vø̈ɕ	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
 CrimeanTatar_FLY (MOVE THROUGH AIR)_1	Crimean Tatar	crim1257	crh	FLY (MOVE THROUGH AIR)	uʨ	uʨ	u ʨ	uʨ	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
 Gagauz_FLY (MOVE THROUGH AIR)_1	Gagauz	gaga1249	gag	FLY (MOVE THROUGH AIR)	uʨ	uʨ	u ʨ	uʨ	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
 Kara-Kalpak_FLY (MOVE THROUGH AIR)_1	Kara-Kalpak	kara1467	kaa	FLY (MOVE THROUGH AIR)	uʃ	uʃ	u ʃ	uʃ	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
@@ -4537,7 +4537,7 @@ Tuvan_FLY (MOVE THROUGH AIR)_1	Tuvan	tuvi1240	tyv	FLY (MOVE THROUGH AIR)	uʃ	uʃ
 Uyghur_FLY (MOVE THROUGH AIR)_1	Uyghur	uigh1240	uig	FLY (MOVE THROUGH AIR)	uʨ	uʨ	u ʨ	uʨ	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
 Uzbek_FLY (MOVE THROUGH AIR)_1	Uzbek	uzbe1247	uzb	FLY (MOVE THROUGH AIR)	uʨ	uʨ	u ʨ	uʨ	FLY (MOVE THROUGH AIR)_1			Savelyev & Robeets, 2020
 Dolgan_FLY (MOVE THROUGH AIR)_2	Dolgan	dolg1241	dlg	FLY (MOVE THROUGH AIR)	køt	køt	k ø t	køt	FLY (MOVE THROUGH AIR)_2			Savelyev & Robeets, 2020
-BarabaTatar_HOLE_1	Baraba Tatar	bara1273	sty	HOLE	tĕʃik	tëʃik	t e ̈ ʃ i k	tĕʃik	HOLE_1			Savelyev & Robeets, 2020
+BarabaTatar_HOLE_1	Baraba Tatar	bara1273	sty	HOLE	tĕʃik	tëʃik	t ë ʃ i k	tĕʃik	HOLE_1			Savelyev & Robeets, 2020
 NorthernAltai_HOLE_1	Northern Altai	chel1242	atv	HOLE	teʒik	teʒik	t e ʒ i k	teʒik	HOLE_1			Savelyev & Robeets, 2020
 Azerbaijani_HOLE_1	Azerbaijani	nort2697	azj	HOLE	deʃik	deʃik	d e ʃ i k		HOLE_1			Savelyev & Robeets, 2020
 Bashkir_HOLE_1	Bashkir	bash1264	bak	HOLE	tiʃek	tiʃek	t i ʃ e k	tiʃek	HOLE_1			Savelyev & Robeets, 2020
@@ -4570,7 +4570,7 @@ Chulym_HOLE_3	Chulym	midd1324	clw	HOLE	ydyk	ydyk	y d y k	ydyk	HOLE_3			Savelyev 
 Shor_HOLE_3	Shor	shor1247	cjs	HOLE	yt	yt	y t	yt	HOLE_3			Savelyev & Robeets, 2020
 Tofa_HOLE_3	Tofa	tofa1248	kim	HOLE	yt	yt	y t	yt	HOLE_3			Savelyev & Robeets, 2020
 Tuvan_HOLE_3	Tuvan	tuvi1240	tyv	HOLE	? yt	yt	y t	? yt	HOLE_3			Savelyev & Robeets, 2020
-Chuvash_HOLE_5	Chuvash	chuv1255	chv	HOLE	ʃə̈də̈k	ʃɤ̆ʷdɤ̆ʷk	ʃ ɤ ̆ʷ d ɤ ̆ʷ k	ʃə̈də̈k	HOLE_5			Savelyev & Robeets, 2020
+Chuvash_HOLE_5	Chuvash	chuv1255	chv	HOLE	ʃə̈də̈k	ʃɤ̆ʷdɤ̆ʷk	ʃ ɤ̆ʷ d ɤ̆ʷ k	ʃə̈də̈k	HOLE_5			Savelyev & Robeets, 2020
 Khalaj_HOLE_6	Khalaj	turk1303	klj	HOLE	teplyk	teplyk	t e p l y k	teplyk	HOLE_6			Savelyev & Robeets, 2020
 Chulym_HOLE_6	Chulym	midd1324	clw	HOLE	toptuq	toptuq	t o p t u q	toptuq	HOLE_6			Savelyev & Robeets, 2020
 BarabaTatar_GROW_1	Baraba Tatar	bara1273	sty	GROW	øs-	øs	ø s	øs-	GROW_1			Savelyev & Robeets, 2020
@@ -4643,7 +4643,7 @@ Turkish_HEAD_1	Turkish	nucl1301	tur	HEAD	baʃ	baʃ	b a ʃ	baʃ	HEAD_1			Savelyev
 Tuvan_HEAD_1	Tuvan	tuvi1240	tyv	HEAD	baʃ	baʃ	b a ʃ	baʃ	HEAD_1			Savelyev & Robeets, 2020
 Uyghur_HEAD_1	Uyghur	uigh1240	uig	HEAD	baʃ	baʃ	b a ʃ	baʃ	HEAD_1			Savelyev & Robeets, 2020
 Uzbek_HEAD_1	Uzbek	uzbe1247	uzb	HEAD	bɔʃ	bɔʃ	b ɔ ʃ	bɔʃ	HEAD_1			Savelyev & Robeets, 2020
-BarabaTatar_BELLY_1	Baraba Tatar	bara1273	sty	BELLY	ĕʨ	ëʨ	e ̈ ʨ	ĕʨ	BELLY_1			Savelyev & Robeets, 2020
+BarabaTatar_BELLY_1	Baraba Tatar	bara1273	sty	BELLY	ĕʨ	ëʨ	ë ʨ	ĕʨ	BELLY_1			Savelyev & Robeets, 2020
 NorthernAltai_BELLY_1	Northern Altai	chel1242	atv	BELLY	iʨ	iʨ	i ʨ	iʃ	BELLY_1			Savelyev & Robeets, 2020
 NorthernAltai_BELLY_1	Northern Altai	chel1242	atv	BELLY	iʃ	iʃ	i ʃ	iʃ	BELLY_1			Savelyev & Robeets, 2020
 SouthernAltai_BELLY_1	Southern Altai	sout2694	alt	BELLY	iʨ	iʨ	i ʨ	iʨ	BELLY_1			Savelyev & Robeets, 2020
@@ -4678,7 +4678,7 @@ Cuman_BELLY_3	Cuman	pech1242	qwm	BELLY	karin	karin	k a r i n	karin	BELLY_3			Sav
 NorthernAltai_BELLY_3	Northern Altai	chel1242	atv	BELLY	qarɯn	qarɯn	q a r ɯ n	qarɯn	BELLY_3			Savelyev & Robeets, 2020
 OldTurkic_BELLY_3	Old Turkic	oldu1238	oui	BELLY	qarɯn	qarɯn	q a r ɯ n	qarɯn	BELLY_3			Savelyev & Robeets, 2020
 Azerbaijani_BELLY_3	Azerbaijani	nort2697	azj	BELLY	ɢarɯn	ɢarɯn	ɢ a r ɯ n	ɢarɯn	BELLY_3			Savelyev & Robeets, 2020
-Chuvash_BELLY_3	Chuvash	chuv1255	chv	BELLY	χɯrə̈m	χɯrɤ̆ʷm	χ ɯ r ɤ ̆ʷ m	χɯrə̈m	BELLY_3			Savelyev & Robeets, 2020
+Chuvash_BELLY_3	Chuvash	chuv1255	chv	BELLY	χɯrə̈m	χɯrɤ̆ʷm	χ ɯ r ɤ̆ʷ m	χɯrə̈m	BELLY_3			Savelyev & Robeets, 2020
 CrimeanTatar_BELLY_3	Crimean Tatar	crim1257	crh	BELLY	qarɯn	qarɯn	q a r ɯ n	qarɯn	BELLY_3			Savelyev & Robeets, 2020
 Gagauz_BELLY_3	Gagauz	gaga1249	gag	BELLY	karnɯ	karnɯ	k a r n ɯ	karnɯ	BELLY_3			Savelyev & Robeets, 2020
 Kara-Kalpak_BELLY_3	Kara-Kalpak	kara1467	kaa	BELLY	? qarɯn	qarɯn	q a r ɯ n	? qarɯn	BELLY_3			Savelyev & Robeets, 2020
@@ -4773,7 +4773,7 @@ OldTurkic_WHICH_1	Old Turkic	oldu1238	oui	WHICH	? qań	qaɲ	q a ɲ	? qań	WHIC
 SouthernAltai_WHICH_1	Southern Altai	sout2694	alt	WHICH	kaʒɯ	kaʒɯ	k a ʒ ɯ	kaʒɯ	WHICH_1			Savelyev & Robeets, 2020
 Azerbaijani_WHICH_1	Azerbaijani	nort2697	azj	WHICH	hansɯ	hansɯ	h a n s ɯ	hansɯ	WHICH_1			Savelyev & Robeets, 2020
 Bashkir_WHICH_1	Bashkir	bash1264	bak	WHICH	qajhɯ	qajhɯ	q a j h ɯ	qajhɯ	WHICH_1			Savelyev & Robeets, 2020
-Chuvash_WHICH_1	Chuvash	chuv1255	chv	WHICH	χə̈ʒɘ	χɤ̆ʷʒɘ	χ ɤ ̆ʷ ʒ ɘ	χə̈ʒɘ	WHICH_1			Savelyev & Robeets, 2020
+Chuvash_WHICH_1	Chuvash	chuv1255	chv	WHICH	χə̈ʒɘ	χɤ̆ʷʒɘ	χ ɤ̆ʷ ʒ ɘ	χə̈ʒɘ	WHICH_1			Savelyev & Robeets, 2020
 CrimeanTatar_WHICH_1	Crimean Tatar	crim1257	crh	WHICH	qajsɯ	qajsɯ	q a j s ɯ	qajsɯ	WHICH_1			Savelyev & Robeets, 2020
 Dolgan_WHICH_1	Dolgan	dolg1241	dlg	WHICH	kahɯs	kahɯs	k a h ɯ s	kahɯs	WHICH_1			Savelyev & Robeets, 2020
 Kara-Kalpak_WHICH_1	Kara-Kalpak	kara1467	kaa	WHICH	qajsɯsɯ	qajsɯsɯ	q a j s ɯ s ɯ	qajsɯsɯ	WHICH_1			Savelyev & Robeets, 2020
@@ -4900,7 +4900,7 @@ OldTurkic_FIREWOOD_1	Old Turkic	oldu1238	oui	FIREWOOD	otuŋ	otuŋ	o t u ŋ	otuŋ
 SouthernAltai_FIREWOOD_1	Southern Altai	sout2694	alt	FIREWOOD	odɯn	odɯn	o d ɯ n	odɯn	FIREWOOD_1			Savelyev & Robeets, 2020
 Azerbaijani_FIREWOOD_1	Azerbaijani	nort2697	azj	FIREWOOD	odun	odun	o d u n	odun	FIREWOOD_1			Savelyev & Robeets, 2020
 Bashkir_FIREWOOD_1	Bashkir	bash1264	bak	FIREWOOD	utɯn	utɯn	u t ɯ n	utɯn	FIREWOOD_1			Savelyev & Robeets, 2020
-Chuvash_FIREWOOD_1	Chuvash	chuv1255	chv	FIREWOOD	vudə̈	vudɤ̆ʷ	v u d ɤ ̆ʷ	vudə̈	FIREWOOD_1			Savelyev & Robeets, 2020
+Chuvash_FIREWOOD_1	Chuvash	chuv1255	chv	FIREWOOD	vudə̈	vudɤ̆ʷ	v u d ɤ̆ʷ	vudə̈	FIREWOOD_1			Savelyev & Robeets, 2020
 CrimeanTatar_FIREWOOD_1	Crimean Tatar	crim1257	crh	FIREWOOD	odun	odun	o d u n	odun	FIREWOOD_1			Savelyev & Robeets, 2020
 Gagauz_FIREWOOD_1	Gagauz	gaga1249	gag	FIREWOOD	odun	odun	o d u n	odun	FIREWOOD_1			Savelyev & Robeets, 2020
 Kara-Kalpak_FIREWOOD_1	Kara-Kalpak	kara1467	kaa	FIREWOOD	otɯn	otɯn	o t ɯ n	otɯn	FIREWOOD_1			Savelyev & Robeets, 2020
@@ -4996,7 +4996,7 @@ Khalaj_COLD_4	Khalaj	turk1303	klj	COLD	bu:z	buːz	b uː z	bu:z	COLD_4			Savelyev
 NorthernAltai_FEATHER_1	Northern Altai	chel1242	atv	FEATHER	tyk	tyk	t y k	tyk	FEATHER_1			Savelyev & Robeets, 2020
 OldTurkic_FEATHER_1	Old Turkic	oldu1238	oui	FEATHER	tysi 3SG	tysi	t y s i	tysi 3SG	FEATHER_1			Savelyev & Robeets, 2020
 Azerbaijani_FEATHER_1	Azerbaijani	nort2697	azj	FEATHER	tyk	tyk	t y k	tyk	FEATHER_1			Savelyev & Robeets, 2020
-Chuvash_FEATHER_1	Chuvash	chuv1255	chv	FEATHER	tø̈k	tɘ̆ʷk	t ɘ ̆ʷ k	tø̈k	FEATHER_1			Savelyev & Robeets, 2020
+Chuvash_FEATHER_1	Chuvash	chuv1255	chv	FEATHER	tø̈k	tɘ̆ʷk	t ɘ̆ʷ k	tø̈k	FEATHER_1			Savelyev & Robeets, 2020
 Dolgan_FEATHER_1	Dolgan	dolg1241	dlg	FEATHER	ty:	tyː	t yː	ty:	FEATHER_1			Savelyev & Robeets, 2020
 Gagauz_FEATHER_1	Gagauz	gaga1249	gag	FEATHER	tyj	tyj	t y j	tyj	FEATHER_1			Savelyev & Robeets, 2020
 Karachay-Balkar_FEATHER_1	Karachay-Balkar	kara1465	krc	FEATHER	qanatlɯ tyk	qanatlɯ tyk	q a n a t l ɯ   t y k	qanatlɯ tyk	FEATHER_1			Savelyev & Robeets, 2020
@@ -5121,7 +5121,7 @@ Turkmen_GRASS_3	Turkmen	turk1304	tuk	GRASS	ot	ot	o t	ot	GRASS_3			Savelyev & Rob
 Tuvan_GRASS_3	Tuvan	tuvi1240	tyv	GRASS	? oˁt	oˤt	oˤ t	? oˁt	GRASS_3			Savelyev & Robeets, 2020
 Uyghur_GRASS_3	Uyghur	uigh1240	uig	GRASS	ot	ot	o t	ot	GRASS_3			Savelyev & Robeets, 2020
 Uzbek_GRASS_3	Uzbek	uzbe1247	uzb	GRASS	ot	ot	o t	ot	GRASS_3			Savelyev & Robeets, 2020
-Chuvash_GRASS_4	Chuvash	chuv1255	chv	GRASS	kurə̈k	kurɤ̆ʷk	k u r ɤ ̆ʷ k	kurə̈k	GRASS_4			Savelyev & Robeets, 2020
+Chuvash_GRASS_4	Chuvash	chuv1255	chv	GRASS	kurə̈k	kurɤ̆ʷk	k u r ɤ̆ʷ k	kurə̈k	GRASS_4			Savelyev & Robeets, 2020
 Kara-Kalpak_GRASS_5	Kara-Kalpak	kara1467	kaa	GRASS	ʃøp	ʃøp	ʃ ø p	ʃøp	GRASS_5			Savelyev & Robeets, 2020
 Kazakh_GRASS_5	Kazakh	kaza1248	kaz	GRASS	ʃøp	ʃøp	ʃ ø p	ʃøp	GRASS_5			Savelyev & Robeets, 2020
 Kyrgyz_GRASS_5	Kyrgyz	kirg1245	kir	GRASS	ʨøp	ʨøp	ʨ ø p	ʨøp	GRASS_5			Savelyev & Robeets, 2020
@@ -5134,7 +5134,7 @@ NorthernAltai_FOAM_1	Northern Altai	chel1242	atv	FOAM	købyk	købyk	k ø b y k	k
 SouthernAltai_FOAM_1	Southern Altai	sout2694	alt	FOAM	købyk	købyk	k ø b y k	købyk	FOAM_1			Savelyev & Robeets, 2020
 Azerbaijani_FOAM_1	Azerbaijani	nort2697	azj	FOAM	køpyk	køpyk	k ø p y k	køpyk	FOAM_1			Savelyev & Robeets, 2020
 Bashkir_FOAM_1	Bashkir	bash1264	bak	FOAM	kybek	kybek	k y b e k	kybek	FOAM_1			Savelyev & Robeets, 2020
-Chuvash_FOAM_1	Chuvash	chuv1255	chv	FOAM	köbök	kɤ̆ʷbɤ̆ʷk	k ɤ ̆ʷ b ɤ ̆ʷ k	köbök	FOAM_1			Savelyev & Robeets, 2020
+Chuvash_FOAM_1	Chuvash	chuv1255	chv	FOAM	köbök	kɤ̆ʷbɤ̆ʷk	k ɤ̆ʷ b ɤ̆ʷ k	köbök	FOAM_1			Savelyev & Robeets, 2020
 CrimeanTatar_FOAM_1	Crimean Tatar	crim1257	crh	FOAM	køpyk	køpyk	k ø p y k	køpyk	FOAM_1			Savelyev & Robeets, 2020
 Gagauz_FOAM_1	Gagauz	gaga1249	gag	FOAM	køpyk	køpyk	k ø p y k	køpyk	FOAM_1			Savelyev & Robeets, 2020
 Kara-Kalpak_FOAM_1	Kara-Kalpak	kara1467	kaa	FOAM	købik	købik	k ø b i k	købik	FOAM_1			Savelyev & Robeets, 2020
@@ -5283,7 +5283,7 @@ Uzbek_SLEEP_2	Uzbek	uzbe1247	uzb	SLEEP	uχla	uχla	u χ l a	uχla	SLEEP_2			Save
 Azerbaijani_SLEEP_3	Azerbaijani	nort2697	azj	SLEEP	jat	jat	j a t	jat	SLEEP_3			Savelyev & Robeets, 2020
 Khalaj_SLEEP_3	Khalaj	turk1303	klj	SLEEP	jat	jat	j a t	jat	SLEEP_3			Savelyev & Robeets, 2020
 Turkmen_SLEEP_3	Turkmen	turk1304	tuk	SLEEP	jat	jat	j a t	jat	SLEEP_3			Savelyev & Robeets, 2020
-Chuvash_SLEEP_4	Chuvash	chuv1255	chv	SLEEP	ɕɯvə̈r	ɕɯvɤ̆ʷr	ɕ ɯ v ɤ ̆ʷ r	ɕɯvə̈r	SLEEP_4			Savelyev & Robeets, 2020
+Chuvash_SLEEP_4	Chuvash	chuv1255	chv	SLEEP	ɕɯvə̈r	ɕɯvɤ̆ʷr	ɕ ɯ v ɤ̆ʷ r	ɕɯvə̈r	SLEEP_4			Savelyev & Robeets, 2020
 BarabaTatar_MONTH_1	Baraba Tatar	bara1273	sty	MONTH	ay	ay	a y	ay	MONTH_1			Savelyev & Robeets, 2020
 Cuman_MONTH_1	Cuman	pech1242	qwm	MONTH	aj	aj	a j	aj	MONTH_1			Savelyev & Robeets, 2020
 NorthernAltai_MONTH_1	Northern Altai	chel1242	atv	MONTH	aj	aj	a j	aj	MONTH_1			Savelyev & Robeets, 2020
@@ -5291,7 +5291,7 @@ OldTurkic_MONTH_1	Old Turkic	oldu1238	oui	MONTH	aj	aj	a j	aj	MONTH_1			Savelyev 
 SouthernAltai_MONTH_1	Southern Altai	sout2694	alt	MONTH	aj	aj	a j	aj	MONTH_1			Savelyev & Robeets, 2020
 Azerbaijani_MONTH_1	Azerbaijani	nort2697	azj	MONTH	aj	aj	a j	aj	MONTH_1			Savelyev & Robeets, 2020
 Bashkir_MONTH_1	Bashkir	bash1264	bak	MONTH	aj	aj	a j	aj	MONTH_1			Savelyev & Robeets, 2020
-Chuvash_MONTH_1	Chuvash	chuv1255	chv	MONTH	ujə̈χ	ujɤ̆ʷχ	u j ɤ ̆ʷ χ	ujə̈χ	MONTH_1			Savelyev & Robeets, 2020
+Chuvash_MONTH_1	Chuvash	chuv1255	chv	MONTH	ujə̈χ	ujɤ̆ʷχ	u j ɤ̆ʷ χ	ujə̈χ	MONTH_1			Savelyev & Robeets, 2020
 CrimeanTatar_MONTH_1	Crimean Tatar	crim1257	crh	MONTH	aj	aj	a j	aj	MONTH_1			Savelyev & Robeets, 2020
 Dolgan_MONTH_1	Dolgan	dolg1241	dlg	MONTH	ɯj	ɯj	ɯ j	ɯj	MONTH_1			Savelyev & Robeets, 2020
 Gagauz_MONTH_1	Gagauz	gaga1249	gag	MONTH	aj	aj	a j	aj	MONTH_1			Savelyev & Robeets, 2020
@@ -5343,7 +5343,7 @@ Uyghur_WHITE_1	Uyghur	uigh1240	uig	WHITE	aq	aq	a q	aq	WHITE_1			Savelyev & Robee
 Uzbek_WHITE_1	Uzbek	uzbe1247	uzb	WHITE	ɔq	ɔq	ɔ q	ɔq	WHITE_1			Savelyev & Robeets, 2020
 OldTurkic_WHITE_2	Old Turkic	oldu1238	oui	WHITE	yryŋ	yryŋ	y r y ŋ	yryŋ	WHITE_2			Savelyev & Robeets, 2020
 Khalaj_WHITE_2	Khalaj	turk1303	klj	WHITE	hyryn	hyryn	h y r y n	hyryn	WHITE_2			Savelyev & Robeets, 2020
-Chuvash_WHITE_3	Chuvash	chuv1255	chv	WHITE	ʃurə̈	ʃurɤ̆ʷ	ʃ u r ɤ ̆ʷ	ʃurə̈	WHITE_3			Savelyev & Robeets, 2020
+Chuvash_WHITE_3	Chuvash	chuv1255	chv	WHITE	ʃurə̈	ʃurɤ̆ʷ	ʃ u r ɤ̆ʷ	ʃurə̈	WHITE_3			Savelyev & Robeets, 2020
 BarabaTatar_SEW_1	Baraba Tatar	bara1273	sty	SEW	tik-	tik	t i k	tik-	SEW_1			Savelyev & Robeets, 2020
 Cuman_SEW_1	Cuman	pech1242	qwm	SEW	tich-	tich	t i c h	tich-	SEW_1			Savelyev & Robeets, 2020
 NorthernAltai_SEW_1	Northern Altai	chel1242	atv	SEW	tik-	tik	t i k	tik-	SEW_1			Savelyev & Robeets, 2020
@@ -5373,7 +5373,7 @@ Uyghur_SEW_1	Uyghur	uigh1240	uig	SEW	tik	tik	t i k	tik	SEW_1			Savelyev & Robeet
 Uzbek_SEW_1	Uzbek	uzbe1247	uzb	SEW	tik	tik	t i k	tik	SEW_1			Savelyev & Robeets, 2020
 NorthernAltai_SEW_2	Northern Altai	chel1242	atv	SEW	køktø-	køktø	k ø k t ø	køktø-	SEW_2			Savelyev & Robeets, 2020
 SouthernAltai_SEW_2	Southern Altai	sout2694	alt	SEW	køktø	køktø	k ø k t ø	køktø	SEW_2			Savelyev & Robeets, 2020
-Chuvash_SEW_3	Chuvash	chuv1255	chv	SEW	ɕø̈le	ɕɘ̆ʷle	ɕ ɘ ̆ʷ l e	ɕø̈le	SEW_3			Savelyev & Robeets, 2020
+Chuvash_SEW_3	Chuvash	chuv1255	chv	SEW	ɕø̈le	ɕɘ̆ʷle	ɕ ɘ̆ʷ l e	ɕø̈le	SEW_3			Savelyev & Robeets, 2020
 Tofa_SEW_4	Tofa	tofa1248	kim	SEW	daara	daara	d a a r a	daara	SEW_4			Savelyev & Robeets, 2020
 Tuvan_SEW_4	Tuvan	tuvi1240	tyv	SEW	da:ra	daːra	d aː r a	da:ra	SEW_4			Savelyev & Robeets, 2020
 BarabaTatar_KILL_1	Baraba Tatar	bara1273	sty	KILL	øjtir-	øjtir	ø j t i r	øjtir-	KILL_1			Savelyev & Robeets, 2020
@@ -5383,7 +5383,7 @@ OldTurkic_KILL_1	Old Turkic	oldu1238	oui	KILL	ølyr	ølyr	ø l y r	ølyr	KILL_1	
 SouthernAltai_KILL_1	Southern Altai	sout2694	alt	KILL	øltyr	øltyr	ø l t y r	øltyr	KILL_1			Savelyev & Robeets, 2020
 Azerbaijani_KILL_1	Azerbaijani	nort2697	azj	KILL	øldyr	øldyr	ø l d y r	øldyr	KILL_1			Savelyev & Robeets, 2020
 Bashkir_KILL_1	Bashkir	bash1264	bak	KILL	ylter	ylter	y l t e r	ylter	KILL_1			Savelyev & Robeets, 2020
-Chuvash_KILL_1	Chuvash	chuv1255	chv	KILL	vø̈ler	vɘ̆ʷler	v ɘ ̆ʷ l e r	vø̈ler	KILL_1			Savelyev & Robeets, 2020
+Chuvash_KILL_1	Chuvash	chuv1255	chv	KILL	vø̈ler	vɘ̆ʷler	v ɘ̆ʷ l e r	vø̈ler	KILL_1			Savelyev & Robeets, 2020
 CrimeanTatar_KILL_1	Crimean Tatar	crim1257	crh	KILL	øldyr	øldyr	ø l d y r	øldyr	KILL_1			Savelyev & Robeets, 2020
 Dolgan_KILL_1	Dolgan	dolg1241	dlg	KILL	ølør	ølør	ø l ø r	ølør	KILL_1			Savelyev & Robeets, 2020
 Gagauz_KILL_1	Gagauz	gaga1249	gag	KILL	øldyr	øldyr	ø l d y r	øldyr	KILL_1			Savelyev & Robeets, 2020
@@ -5492,7 +5492,7 @@ BarabaTatar_FOREST_1	Baraba Tatar	bara1273	sty	FOREST	orman	orman	o r m a n	Orma
 BarabaTatar_FOREST_1	Baraba Tatar	bara1273	sty	FOREST	Orman	orman	o r m a n	Orman	FOREST_1			Savelyev & Robeets, 2020
 Cuman_FOREST_1	Cuman	pech1242	qwm	FOREST	orman	orman	o r m a n	orman	FOREST_1			Savelyev & Robeets, 2020
 Bashkir_FOREST_1	Bashkir	bash1264	bak	FOREST	urman	urman	u r m a n	urman	FOREST_1			Savelyev & Robeets, 2020
-Chuvash_FOREST_1	Chuvash	chuv1255	chv	FOREST	vörman	vɤ̆ʷrman	v ɤ ̆ʷ r m a n	vörman	FOREST_1			Savelyev & Robeets, 2020
+Chuvash_FOREST_1	Chuvash	chuv1255	chv	FOREST	vörman	vɤ̆ʷrman	v ɤ̆ʷ r m a n	vörman	FOREST_1			Savelyev & Robeets, 2020
 CrimeanTatar_FOREST_1	Crimean Tatar	crim1257	crh	FOREST	orman	orman	o r m a n	orman	FOREST_1			Savelyev & Robeets, 2020
 Karaim_FOREST_1	Karaim	kara1464	kdr	FOREST	orman	orman	o r m a n	orman	FOREST_1			Savelyev & Robeets, 2020
 Kazakh_FOREST_1	Kazakh	kaza1248	kaz	FOREST	orman	orman	o r m a n	orman	FOREST_1			Savelyev & Robeets, 2020
@@ -5678,14 +5678,14 @@ Uyghur_CHEW_1	Uyghur	uigh1240	uig	CHEW	ʨajna	ʨajna	ʨ a j n a	ʨajna	CHEW_1			
 Uzbek_CHEW_1	Uzbek	uzbe1247	uzb	CHEW	ʨajna	ʨajna	ʨ a j n a	ʨajna	CHEW_1			Savelyev & Robeets, 2020
 Dolgan_CHEW_2	Dolgan	dolg1241	dlg	CHEW	ɯʃta:	ɯʃtaː	ɯ ʃ t aː	ɯʃta:	CHEW_2			Savelyev & Robeets, 2020
 Cuman_CHEW_3	Cuman	pech1242	qwm	CHEW	cung-	cunɡ	c u n ɡ	cung-	CHEW_3			Savelyev & Robeets, 2020
-Chuvash_CHEW_3	Chuvash	chuv1255	chv	CHEW	ʨömla	ʨɤ̆ʷmla	ʨ ɤ ̆ʷ m l a	ʨömla	CHEW_3			Savelyev & Robeets, 2020
+Chuvash_CHEW_3	Chuvash	chuv1255	chv	CHEW	ʨömla	ʨɤ̆ʷmla	ʨ ɤ̆ʷ m l a	ʨömla	CHEW_3			Savelyev & Robeets, 2020
 BarabaTatar_SWALLOW_1	Baraba Tatar	bara1273	sty	SWALLOW	jut-	jut	j u t	jyt-	SWALLOW_1			Savelyev & Robeets, 2020
 BarabaTatar_SWALLOW_1	Baraba Tatar	bara1273	sty	SWALLOW	jyt-	jyt	j y t	jyt-	SWALLOW_1			Savelyev & Robeets, 2020
 NorthernAltai_SWALLOW_1	Northern Altai	chel1242	atv	SWALLOW	jyt-	jyt	j y t	jyt-	SWALLOW_1			Savelyev & Robeets, 2020
 SouthernAltai_SWALLOW_1	Southern Altai	sout2694	alt	SWALLOW	ɟut	ɟut	ɟ u t	ɟut	SWALLOW_1			Savelyev & Robeets, 2020
 Azerbaijani_SWALLOW_1	Azerbaijani	nort2697	azj	SWALLOW	ud	ud	u d	ud	SWALLOW_1			Savelyev & Robeets, 2020
 Bashkir_SWALLOW_1	Bashkir	bash1264	bak	SWALLOW	jot	jot	j o t	jot	SWALLOW_1			Savelyev & Robeets, 2020
-Chuvash_SWALLOW_1	Chuvash	chuv1255	chv	SWALLOW	ɕöt	ɕɤ̆ʷt	ɕ ɤ ̆ʷ t	ɕöt	SWALLOW_1			Savelyev & Robeets, 2020
+Chuvash_SWALLOW_1	Chuvash	chuv1255	chv	SWALLOW	ɕöt	ɕɤ̆ʷt	ɕ ɤ̆ʷ t	ɕöt	SWALLOW_1			Savelyev & Robeets, 2020
 CrimeanTatar_SWALLOW_1	Crimean Tatar	crim1257	crh	SWALLOW	jut	jut	j u t	jut	SWALLOW_1			Savelyev & Robeets, 2020
 Gagauz_SWALLOW_1	Gagauz	gaga1249	gag	SWALLOW	jut	jut	j u t	jut	SWALLOW_1			Savelyev & Robeets, 2020
 Kara-Kalpak_SWALLOW_1	Kara-Kalpak	kara1467	kaa	SWALLOW	ʒut	ʒut	ʒ u t	ʒut	SWALLOW_1			Savelyev & Robeets, 2020
@@ -5754,9 +5754,9 @@ OldTurkic_FOUR_1	Old Turkic	oldu1238	oui	FOUR	tørt	tørt	t ø r t	tørt	FOUR_1	
 SouthernAltai_FOUR_1	Southern Altai	sout2694	alt	FOUR	tørt	tørt	t ø r t	tørt	FOUR_1			Savelyev & Robeets, 2020
 Azerbaijani_FOUR_1	Azerbaijani	nort2697	azj	FOUR	dørd	dørd	d ø r d	dørd	FOUR_1			Savelyev & Robeets, 2020
 Bashkir_FOUR_1	Bashkir	bash1264	bak	FOUR	dyrt	dyrt	d y r t	dyrt	FOUR_1			Savelyev & Robeets, 2020
-Chuvash_FOUR_1	Chuvash	chuv1255	chv	FOUR	tövattə̈	tɤ̆ʷvattɤ̆ʷ	t ɤ ̆ʷ v a t t ɤ ̆ʷ	tövat	FOUR_1			Savelyev & Robeets, 2020
-Chuvash_FOUR_1	Chuvash	chuv1255	chv	FOUR	tövadə̈	tɤ̆ʷvadɤ̆ʷ	t ɤ ̆ʷ v a d ɤ ̆ʷ	tövat	FOUR_1			Savelyev & Robeets, 2020
-Chuvash_FOUR_1	Chuvash	chuv1255	chv	FOUR	tövat	tɤ̆ʷvat	t ɤ ̆ʷ v a t	tövat	FOUR_1			Savelyev & Robeets, 2020
+Chuvash_FOUR_1	Chuvash	chuv1255	chv	FOUR	tövattə̈	tɤ̆ʷvattɤ̆ʷ	t ɤ̆ʷ v a t t ɤ̆ʷ	tövat	FOUR_1			Savelyev & Robeets, 2020
+Chuvash_FOUR_1	Chuvash	chuv1255	chv	FOUR	tövadə̈	tɤ̆ʷvadɤ̆ʷ	t ɤ̆ʷ v a d ɤ̆ʷ	tövat	FOUR_1			Savelyev & Robeets, 2020
+Chuvash_FOUR_1	Chuvash	chuv1255	chv	FOUR	tövat	tɤ̆ʷvat	t ɤ̆ʷ v a t	tövat	FOUR_1			Savelyev & Robeets, 2020
 CrimeanTatar_FOUR_1	Crimean Tatar	crim1257	crh	FOUR	dørt	dørt	d ø r t	dørt	FOUR_1			Savelyev & Robeets, 2020
 Dolgan_FOUR_1	Dolgan	dolg1241	dlg	FOUR	tyørt	tyørt	t y ø r t	tyørt	FOUR_1			Savelyev & Robeets, 2020
 Gagauz_FOUR_1	Gagauz	gaga1249	gag	FOUR	dørt	dørt	d ø r t	dørt	FOUR_1			Savelyev & Robeets, 2020
@@ -5836,7 +5836,7 @@ Tuvan_LOOK_2	Tuvan	tuvi1240	tyv	LOOK	kør	kør	k ø r	kør	LOOK_2			Savelyev & R
 Cuman_LOOK_3	Cuman	pech1242	qwm	LOOK	bag-	baɡ	b a ɡ	bag-	LOOK_3			Savelyev & Robeets, 2020
 NorthernAltai_LOOK_3	Northern Altai	chel1242	atv	LOOK	baq-	baq	b a q	baq-	LOOK_3			Savelyev & Robeets, 2020
 Azerbaijani_LOOK_3	Azerbaijani	nort2697	azj	LOOK	baχ	baχ	b a χ	baχ	LOOK_3			Savelyev & Robeets, 2020
-Chuvash_LOOK_3	Chuvash	chuv1255	chv	LOOK	pə̈χ	pɤ̆ʷχ	p ɤ ̆ʷ χ	pə̈χ	LOOK_3			Savelyev & Robeets, 2020
+Chuvash_LOOK_3	Chuvash	chuv1255	chv	LOOK	pə̈χ	pɤ̆ʷχ	p ɤ̆ʷ χ	pə̈χ	LOOK_3			Savelyev & Robeets, 2020
 CrimeanTatar_LOOK_3	Crimean Tatar	crim1257	crh	LOOK	baq	baq	b a q	baq	LOOK_3			Savelyev & Robeets, 2020
 Gagauz_LOOK_3	Gagauz	gaga1249	gag	LOOK	bak	bak	b a k	bak	LOOK_3			Savelyev & Robeets, 2020
 Karaim_LOOK_3	Karaim	kara1464	kdr	LOOK	bak	bak	b a k	bak	LOOK_3			Savelyev & Robeets, 2020
@@ -5908,7 +5908,7 @@ Chulym_THAT_2	Chulym	midd1324	clw	THAT	tɛɣ	tɛɣ	t ɛ ɣ	tɛɣ	THAT_2			Savely
 Tatar_THAT_2	Tatar	kaza1250	tat	THAT	tege	teɡe	t e ɡ e	tege	THAT_2			Savelyev & Robeets, 2020
 Tuvan_THAT_2	Tuvan	tuvi1240	tyv	THAT	? døø	døø	d ø ø	? døø	THAT_2			Savelyev & Robeets, 2020
 Kazakh_THAT_3	Kazakh	kaza1248	kaz	THAT	ana	ana	a n a	ana	THAT_3			Savelyev & Robeets, 2020
-BarabaTatar_CUT_1	Baraba Tatar	bara1273	sty	CUT	kĕs-	kës	k e ̈ s	kĕs-	CUT_1			Savelyev & Robeets, 2020
+BarabaTatar_CUT_1	Baraba Tatar	bara1273	sty	CUT	kĕs-	kës	k ë s	kĕs-	CUT_1			Savelyev & Robeets, 2020
 Cuman_CUT_1	Cuman	pech1242	qwm	CUT	kes-	kes	k e s	kes-	CUT_1			Savelyev & Robeets, 2020
 NorthernAltai_CUT_1	Northern Altai	chel1242	atv	CUT	kes-	kes	k e s	kes-	CUT_1			Savelyev & Robeets, 2020
 OldTurkic_CUT_1	Old Turkic	oldu1238	oui	CUT	kes	kes	k e s	kes	CUT_1			Savelyev & Robeets, 2020
@@ -5940,7 +5940,7 @@ Uyghur_CUT_1	Uyghur	uigh1240	uig	CUT	kɛs	kɛs	k ɛ s	kɛs	CUT_1			Savelyev & Ro
 Uzbek_CUT_1	Uzbek	uzbe1247	uzb	CUT	kes	kes	k e s	kes	CUT_1			Savelyev & Robeets, 2020
 OldTurkic_CUT_2	Old Turkic	oldu1238	oui	CUT	biʨ	biʨ	b i ʨ	biʨ	CUT_2			Savelyev & Robeets, 2020
 Dolgan_CUT_2	Dolgan	dolg1241	dlg	CUT	bɯs	bɯs	b ɯ s	bɯs	CUT_2			Savelyev & Robeets, 2020
-BarabaTatar_MOTHER_1	Baraba Tatar	bara1273	sty	MOTHER	ĕnɛ	ënɛ	e ̈ n ɛ	inɛ	MOTHER_1			Savelyev & Robeets, 2020
+BarabaTatar_MOTHER_1	Baraba Tatar	bara1273	sty	MOTHER	ĕnɛ	ënɛ	ë n ɛ	inɛ	MOTHER_1			Savelyev & Robeets, 2020
 BarabaTatar_MOTHER_1	Baraba Tatar	bara1273	sty	MOTHER	inɛ	inɛ	i n ɛ	inɛ	MOTHER_1			Savelyev & Robeets, 2020
 Cuman_MOTHER_1	Cuman	pech1242	qwm	MOTHER	anna	anna	a n n a	anna	MOTHER_1			Savelyev & Robeets, 2020
 NorthernAltai_MOTHER_1	Northern Altai	chel1242	atv	MOTHER	ene	ene	e n e	ane	MOTHER_1			Savelyev & Robeets, 2020
@@ -6036,7 +6036,7 @@ BarabaTatar_SUN_3	Baraba Tatar	bara1273	sty	SUN	qojaʃ	qojaʃ	q o j a ʃ	qojaʃ	
 Azerbaijani_SUN_3	Azerbaijani	nort2697	azj	SUN	gjynɛʃ	ɡjynɛʃ	ɡ j y n ɛ ʃ	gjyn	SUN_3			Savelyev & Robeets, 2020
 Azerbaijani_SUN_3	Azerbaijani	nort2697	azj	SUN	gjyn	ɡjyn	ɡ j y n	gjyn	SUN_3			Savelyev & Robeets, 2020
 Bashkir_SUN_3	Bashkir	bash1264	bak	SUN	qojaʃ	qojaʃ	q o j a ʃ	qojaʃ	SUN_3			Savelyev & Robeets, 2020
-Chuvash_SUN_3	Chuvash	chuv1255	chv	SUN	χø̈vel	χɘ̆ʷvel	χ ɘ ̆ʷ v e l	χø̈vel	SUN_3			Savelyev & Robeets, 2020
+Chuvash_SUN_3	Chuvash	chuv1255	chv	SUN	χø̈vel	χɘ̆ʷvel	χ ɘ̆ʷ v e l	χø̈vel	SUN_3			Savelyev & Robeets, 2020
 CrimeanTatar_SUN_3	Crimean Tatar	crim1257	crh	SUN	kyneʃ	kyneʃ	k y n e ʃ	kyneʃ	SUN_3			Savelyev & Robeets, 2020
 Gagauz_SUN_3	Gagauz	gaga1249	gag	SUN	gyneʃ	ɡyneʃ	ɡ y n e ʃ	gyneʃ	SUN_3			Savelyev & Robeets, 2020
 Karaim_SUN_3	Karaim	kara1464	kdr	SUN	kujaʃ	kujaʃ	k u j a ʃ	kujaʃ	SUN_3			Savelyev & Robeets, 2020
@@ -6136,7 +6136,7 @@ Uyghur_WARM_1	Uyghur	uigh1240	uig	WARM	illiq	illiq	i l l i q	dial.	WARM_1			Save
 Uyghur_WARM_1	Uyghur	uigh1240	uig	WARM	dial.			dial.	WARM_1			Savelyev & Robeets, 2020
 Uzbek_WARM_1	Uzbek	uzbe1247	uzb	WARM	? iliq	iliq	i l i q	? iliq	WARM_1			Savelyev & Robeets, 2020
 Cuman_WARM_2	Cuman	pech1242	qwm	WARM	issi-	issi	i s s i	issi-	WARM_2			Savelyev & Robeets, 2020
-Chuvash_WARM_2	Chuvash	chuv1255	chv	WARM	ə̈ʒə̈	ɤ̆ʷʒɤ̆ʷ	ɤ ̆ʷ ʒ ɤ ̆ʷ	ə̈ʒə̈	WARM_2			Savelyev & Robeets, 2020
+Chuvash_WARM_2	Chuvash	chuv1255	chv	WARM	ə̈ʒə̈	ɤ̆ʷʒɤ̆ʷ	ɤ̆ʷ ʒ ɤ̆ʷ	ə̈ʒə̈	WARM_2			Savelyev & Robeets, 2020
 CrimeanTatar_WARM_2	Crimean Tatar	crim1257	crh	WARM	sɯʥaq	sɯʥaq	s ɯ ʥ a q	sɯʥaq	WARM_2			Savelyev & Robeets, 2020
 Dolgan_WARM_2	Dolgan	dolg1241	dlg	WARM	iti:	itiː	i t iː	iciges	WARM_2			Savelyev & Robeets, 2020
 Dolgan_WARM_2	Dolgan	dolg1241	dlg	WARM	iciges	iciɡes	i c i ɡ e s	iciges	WARM_2			Savelyev & Robeets, 2020
@@ -6182,7 +6182,7 @@ Salar_COVER_3	Salar	sala1264	slr	COVER	øt	øt	ø t	øt	COVER_3			Savelyev & Rob
 Turkish_COVER_3	Turkish	nucl1301	tur	COVER	ørt	ørt	ø r t	ørt	COVER_3			Savelyev & Robeets, 2020
 Turkmen_COVER_3	Turkmen	turk1304	tuk	COVER	ørt	ørt	ø r t	ørt	COVER_3			Savelyev & Robeets, 2020
 WestYugur_COVER_4	West Yugur	west2402	ybe	COVER	kemir	kemir	k e m i r	kemir	COVER_4			Savelyev & Robeets, 2020
-Chuvash_WOMAN_1	Chuvash	chuv1255	chv	WOMAN	χɘrarə̈m	χɘrarɤ̆ʷm	χ ɘ r a r ɤ ̆ʷ m	χɘrarə̈m	WOMAN_1			Savelyev & Robeets, 2020
+Chuvash_WOMAN_1	Chuvash	chuv1255	chv	WOMAN	χɘrarə̈m	χɘrarɤ̆ʷm	χ ɘ r a r ɤ̆ʷ m	χɘrarə̈m	WOMAN_1			Savelyev & Robeets, 2020
 Nogai_WOMAN_1	Nogai	noga1249	nog	WOMAN	χatɯnqïz	χatɯnqɯz	χ a t ɯ n q ɯ z	χatɯnqïz	WOMAN_1			Savelyev & Robeets, 2020
 Tatar_WOMAN_1	Tatar	kaza1250	tat	WOMAN	χatɯnqɯz	χatɯnqɯz	χ a t ɯ n q ɯ z	χatɯnqɯz	WOMAN_1			Savelyev & Robeets, 2020
 BarabaTatar_WOMAN_2	Baraba Tatar	bara1273	sty	WOMAN	qatɯn	qatɯn	q a t ɯ n	qatɯn	WOMAN_2			Savelyev & Robeets, 2020
@@ -6211,7 +6211,7 @@ Shor_WOMAN_4	Shor	shor1247	cjs	WOMAN	tiʒi kiʒi	tiʒi kiʒi	t i ʒ i   k i ʒ i
 NorthernAltai_WOMAN_5	Northern Altai	chel1242	atv	WOMAN	epʨi	epʨi	e p ʨ i	epʨi	WOMAN_5			Savelyev & Robeets, 2020
 OldTurkic_WOMAN_5	Old Turkic	oldu1238	oui	WOMAN	evʨi	evʨi	e v ʨ i	evʨi	WOMAN_5			Savelyev & Robeets, 2020
 SouthernAltai_WOMAN_5	Southern Altai	sout2694	alt	WOMAN	yjkiʒi	yjkiʒi	y j k i ʒ i	yjkiʒi	WOMAN_5			Savelyev & Robeets, 2020
-Chuvash_WOMAN_5	Chuvash	chuv1255	chv	WOMAN	χɘrarə̈m	χɘrarɤ̆ʷm	χ ɘ r a r ɤ ̆ʷ m	χɘrarə̈m	WOMAN_5			Savelyev & Robeets, 2020
+Chuvash_WOMAN_5	Chuvash	chuv1255	chv	WOMAN	χɘrarə̈m	χɘrarɤ̆ʷm	χ ɘ r a r ɤ̆ʷ m	χɘrarə̈m	WOMAN_5			Savelyev & Robeets, 2020
 Khakas_WOMAN_5	Khakas	khak1248	kjh	WOMAN	ipʨɘ kɘzɘ	ipʨɘ kɘzɘ	i p ʨ ɘ   k ɘ z ɘ	ipʨɘ kɘzɘ	WOMAN_5			Savelyev & Robeets, 2020
 Shor_WOMAN_5	Shor	shor1247	cjs	WOMAN	? eptɕi	epʨi	e p ʨ i	? eptɕi	WOMAN_5			Savelyev & Robeets, 2020
 NorthernAltai_WOMAN_6	Northern Altai	chel1242	atv	WOMAN	tiʒi kiʒi	tiʒi kiʒi	t i ʒ i   k i ʒ i	tiʒi kiʒi	WOMAN_6			Savelyev & Robeets, 2020
@@ -6235,7 +6235,7 @@ OldTurkic_DEEP_1	Old Turkic	oldu1238	oui	DEEP	teriŋ	teriŋ	t e r i ŋ	teriŋ	DE
 SouthernAltai_DEEP_1	Southern Altai	sout2694	alt	DEEP	tereŋ	tereŋ	t e r e ŋ	tereŋ	DEEP_1			Savelyev & Robeets, 2020
 Azerbaijani_DEEP_1	Azerbaijani	nort2697	azj	DEEP	dɛrin	dɛrin	d ɛ r i n	dɛrin	DEEP_1			Savelyev & Robeets, 2020
 Bashkir_DEEP_1	Bashkir	bash1264	bak	DEEP	tɛrɛn	tɛrɛn	t ɛ r ɛ n	tɛrɛn	DEEP_1			Savelyev & Robeets, 2020
-Chuvash_DEEP_1	Chuvash	chuv1255	chv	DEEP	tarə̈n	tarɤ̆ʷn	t a r ɤ ̆ʷ n	tarə̈n	DEEP_1			Savelyev & Robeets, 2020
+Chuvash_DEEP_1	Chuvash	chuv1255	chv	DEEP	tarə̈n	tarɤ̆ʷn	t a r ɤ̆ʷ n	tarə̈n	DEEP_1			Savelyev & Robeets, 2020
 CrimeanTatar_DEEP_1	Crimean Tatar	crim1257	crh	DEEP	teren	teren	t e r e n	teren	DEEP_1			Savelyev & Robeets, 2020
 Dolgan_DEEP_1	Dolgan	dolg1241	dlg	DEEP	diriŋ	diriŋ	d i r i ŋ	diriŋ	DEEP_1			Savelyev & Robeets, 2020
 Gagauz_DEEP_1	Gagauz	gaga1249	gag	DEEP	derin	derin	d e r i n	derin	DEEP_1			Savelyev & Robeets, 2020
@@ -6366,7 +6366,7 @@ Turkmen_PUT ON_1	Turkmen	turk1304	tuk	PUT ON	gej	ɡej	ɡ e j	gej	PUT ON_1			Save
 Tuvan_PUT ON_1	Tuvan	tuvi1240	tyv	PUT ON	ket	ket	k e t	ket	PUT ON_1			Savelyev & Robeets, 2020
 Uyghur_PUT ON_1	Uyghur	uigh1240	uig	PUT ON	kij	kij	k i j	kij	PUT ON_1			Savelyev & Robeets, 2020
 Uzbek_PUT ON_1	Uzbek	uzbe1247	uzb	PUT ON	kij	kij	k i j	kij	PUT ON_1			Savelyev & Robeets, 2020
-Chuvash_PUT ON_2	Chuvash	chuv1255	chv	PUT ON	tə̈ɣə̈n	tɤ̆ʷɣɤ̆ʷn	t ɤ ̆ʷ ɣ ɤ ̆ʷ n	tə̈ɣə̈n	PUT ON_2			Savelyev & Robeets, 2020
+Chuvash_PUT ON_2	Chuvash	chuv1255	chv	PUT ON	tə̈ɣə̈n	tɤ̆ʷɣɤ̆ʷn	t ɤ̆ʷ ɣ ɤ̆ʷ n	tə̈ɣə̈n	PUT ON_2			Savelyev & Robeets, 2020
 BarabaTatar_OTHER_1	Baraba Tatar	bara1273	sty	OTHER	paʃqa	paʃqa	p a ʃ q a	paʃqa	OTHER_1			Savelyev & Robeets, 2020
 Azerbaijani_OTHER_1	Azerbaijani	nort2697	azj	OTHER	baʃɢa	baʃɢa	b a ʃ ɢ a	baʃɢa	OTHER_1			Savelyev & Robeets, 2020
 Bashkir_OTHER_1	Bashkir	bash1264	bak	OTHER	baʃqa	baʃqa	b a ʃ q a	baʃqa	OTHER_1			Savelyev & Robeets, 2020
@@ -6401,7 +6401,7 @@ Khalaj_OTHER_4	Khalaj	turk1303	klj	OTHER	i:ezɛ	iːezɛ	iː e z ɛ	i:ezɛ	OTHER_
 Kumyk_OTHER_4	Kumyk	kumy1244	kum	OTHER	øzge	øzɡe	ø z ɡ e	øzge	OTHER_4			Savelyev & Robeets, 2020
 Tofa_OTHER_4	Tofa	tofa1248	kim	OTHER	øˁske	øˤske	øˤ s k e	øˁske	OTHER_4			Savelyev & Robeets, 2020
 Tuvan_OTHER_4	Tuvan	tuvi1240	tyv	OTHER	øske	øske	ø s k e	øske	OTHER_4			Savelyev & Robeets, 2020
-Chuvash_OTHER_5	Chuvash	chuv1255	chv	OTHER	urə̈χ	urɤ̆ʷχ	u r ɤ ̆ʷ χ	urə̈χ	OTHER_5			Savelyev & Robeets, 2020
+Chuvash_OTHER_5	Chuvash	chuv1255	chv	OTHER	urə̈χ	urɤ̆ʷχ	u r ɤ̆ʷ χ	urə̈χ	OTHER_5			Savelyev & Robeets, 2020
 NorthernAltai_FOREHEAD_1	Northern Altai	chel1242	atv	FOREHEAD	qabaq	qabaq	q a b a q	qaqpaɣa	FOREHEAD_1			Savelyev & Robeets, 2020
 NorthernAltai_FOREHEAD_1	Northern Altai	chel1242	atv	FOREHEAD	qaqpaɣa	qaqpaɣa	q a q p a ɣ a	qaqpaɣa	FOREHEAD_1			Savelyev & Robeets, 2020
 Khakas_FOREHEAD_1	Khakas	khak1248	kjh	FOREHEAD	χamaχ	χamaχ	χ a m a χ	χamaχ	FOREHEAD_1			Savelyev & Robeets, 2020
@@ -6479,7 +6479,7 @@ Khakas_RISE (MOVE UPWARDS)_5	Khakas	khak1248	kjh	RISE (MOVE UPWARDS)	sɯχ	sɯχ
 Turkish_RISE (MOVE UPWARDS)_5	Turkish	nucl1301	tur	RISE (MOVE UPWARDS)	ʨɯk	ʨɯk	ʨ ɯ k	ʨɯk	RISE (MOVE UPWARDS)_5			Savelyev & Robeets, 2020
 Turkmen_RISE (MOVE UPWARDS)_5	Turkmen	turk1304	tuk	RISE (MOVE UPWARDS)	ʨɯq	ʨɯq	ʨ ɯ q	ʨɯq	RISE (MOVE UPWARDS)_5			Savelyev & Robeets, 2020
 Uzbek_RISE (MOVE UPWARDS)_5	Uzbek	uzbe1247	uzb	RISE (MOVE UPWARDS)	ʨiq	ʨiq	ʨ i q	ʨiq	RISE (MOVE UPWARDS)_5			Savelyev & Robeets, 2020
-Chuvash_RISE (MOVE UPWARDS)_6	Chuvash	chuv1255	chv	RISE (MOVE UPWARDS)	χöbar	χɤ̆ʷbar	χ ɤ ̆ʷ b a r	χöbar	RISE (MOVE UPWARDS)_6			Savelyev & Robeets, 2020
+Chuvash_RISE (MOVE UPWARDS)_6	Chuvash	chuv1255	chv	RISE (MOVE UPWARDS)	χöbar	χɤ̆ʷbar	χ ɤ̆ʷ b a r	χöbar	RISE (MOVE UPWARDS)_6			Savelyev & Robeets, 2020
 Salar_RISE (MOVE UPWARDS)_6	Salar	sala1264	slr	RISE (MOVE UPWARDS)	χup	χup	χ u p	χup	RISE (MOVE UPWARDS)_6			Savelyev & Robeets, 2020
 OldTurkic_RISE (MOVE UPWARDS)_7	Old Turkic	oldu1238	oui	RISE (MOVE UPWARDS)	yn	yn	y n	yn	RISE (MOVE UPWARDS)_7			Savelyev & Robeets, 2020
 Khalaj_RISE (MOVE UPWARDS)_7	Khalaj	turk1303	klj	RISE (MOVE UPWARDS)	? hin	hin	h i n	? hin	RISE (MOVE UPWARDS)_7			Savelyev & Robeets, 2020
@@ -6591,7 +6591,7 @@ Uzbek_BREAK (CLEAVE)_1	Uzbek	uzbe1247	uzb	BREAK (CLEAVE)	sindir	sindir	s i n d i
 Azerbaijani_BREAK (CLEAVE)_2	Azerbaijani	nort2697	azj	BREAK (CLEAVE)	ɢɯr	ɢɯr	ɢ ɯ r	ɢɯr	BREAK (CLEAVE)_2			Savelyev & Robeets, 2020
 Gagauz_BREAK (CLEAVE)_2	Gagauz	gaga1249	gag	BREAK (CLEAVE)	kɯr	kɯr	k ɯ r	kɯr	BREAK (CLEAVE)_2			Savelyev & Robeets, 2020
 Turkish_BREAK (CLEAVE)_2	Turkish	nucl1301	tur	BREAK (CLEAVE)	kɯr	kɯr	k ɯ r	kɯr	BREAK (CLEAVE)_2			Savelyev & Robeets, 2020
-Chuvash_BREAK (CLEAVE)_4	Chuvash	chuv1255	chv	BREAK (CLEAVE)	ɕø̈mø̈r	ɕɘ̆ʷmɘ̆ʷr	ɕ ɘ ̆ʷ m ɘ ̆ʷ r	ɕø̈mø̈r	BREAK (CLEAVE)_4			Savelyev & Robeets, 2020
+Chuvash_BREAK (CLEAVE)_4	Chuvash	chuv1255	chv	BREAK (CLEAVE)	ɕø̈mø̈r	ɕɘ̆ʷmɘ̆ʷr	ɕ ɘ̆ʷ m ɘ̆ʷ r	ɕø̈mø̈r	BREAK (CLEAVE)_4			Savelyev & Robeets, 2020
 Uyghur_BREAK (CLEAVE)_4	Uyghur	uigh1240	uig	BREAK (CLEAVE)	? jemir	jemir	j e m i r	? jemir	BREAK (CLEAVE)_4			Savelyev & Robeets, 2020
 Cuman_BREAK (CLEAVE)_5	Cuman	pech1242	qwm	BREAK (CLEAVE)	uv-	uv	u v	uv-	BREAK (CLEAVE)_5			Savelyev & Robeets, 2020
 Bashkir_BREAK (CLEAVE)_5	Bashkir	bash1264	bak	BREAK (CLEAVE)	? vat	vat	v a t	? vat	BREAK (CLEAVE)_5			Savelyev & Robeets, 2020
@@ -6608,7 +6608,7 @@ OldTurkic_WHERE_1	Old Turkic	oldu1238	oui	WHERE	qajuda	qajuda	q a j u d a	qanda	
 OldTurkic_WHERE_1	Old Turkic	oldu1238	oui	WHERE	qanda	qanda	q a n d a	qanda	WHERE_1			Savelyev & Robeets, 2020
 SouthernAltai_WHERE_1	Southern Altai	sout2694	alt	WHERE	qajda	qajda	q a j d a	qajda	WHERE_1			Savelyev & Robeets, 2020
 Bashkir_WHERE_1	Bashkir	bash1264	bak	WHERE	qajða	qajða	q a j ð a	qajða	WHERE_1			Savelyev & Robeets, 2020
-Chuvash_WHERE_1	Chuvash	chuv1255	chv	WHERE	ə̈ɕta	ɤ̆ʷɕta	ɤ ̆ʷ ɕ t a	ə̈ɕta	WHERE_1			Savelyev & Robeets, 2020
+Chuvash_WHERE_1	Chuvash	chuv1255	chv	WHERE	ə̈ɕta	ɤ̆ʷɕta	ɤ̆ʷ ɕ t a	ə̈ɕta	WHERE_1			Savelyev & Robeets, 2020
 CrimeanTatar_WHERE_1	Crimean Tatar	crim1257	crh	WHERE	qajda	qajda	q a j d a	qajda	WHERE_1			Savelyev & Robeets, 2020
 Dolgan_WHERE_1	Dolgan	dolg1241	dlg	WHERE	kanna	kanna	k a n n a	kanna	WHERE_1			Savelyev & Robeets, 2020
 Kara-Kalpak_WHERE_1	Kara-Kalpak	kara1467	kaa	WHERE	? qajda	qajda	q a j d a	? qajda	WHERE_1			Savelyev & Robeets, 2020
@@ -6651,7 +6651,7 @@ NorthernAltai_SPIN_1	Northern Altai	chel1242	atv	SPIN	ijir-	ijir	i j i r	ijir-	S
 SouthernAltai_SPIN_1	Southern Altai	sout2694	alt	SPIN	iir	iir	i i r	iir	SPIN_1			Savelyev & Robeets, 2020
 Azerbaijani_SPIN_1	Azerbaijani	nort2697	azj	SPIN	ɛjir	ɛjir	ɛ j i r	ɛjir	SPIN_1			Savelyev & Robeets, 2020
 Chuvash_SPIN_1	Chuvash	chuv1255	chv	SPIN	arla	arla	a r l a	avə̈rla	SPIN_1			Savelyev & Robeets, 2020
-Chuvash_SPIN_1	Chuvash	chuv1255	chv	SPIN	avə̈rla	avɤ̆ʷrla	a v ɤ ̆ʷ r l a	avə̈rla	SPIN_1			Savelyev & Robeets, 2020
+Chuvash_SPIN_1	Chuvash	chuv1255	chv	SPIN	avə̈rla	avɤ̆ʷrla	a v ɤ̆ʷ r l a	avə̈rla	SPIN_1			Savelyev & Robeets, 2020
 Kara-Kalpak_SPIN_1	Kara-Kalpak	kara1467	kaa	SPIN	ijir	ijir	i j i r	ijir	SPIN_1			Savelyev & Robeets, 2020
 Karachay-Balkar_SPIN_1	Karachay-Balkar	kara1465	krc	SPIN	ijir	ijir	i j i r	ijir	SPIN_1			Savelyev & Robeets, 2020
 Karaim_SPIN_1	Karaim	kara1464	kdr	SPIN	iir	iir	i i r	iir	SPIN_1			Savelyev & Robeets, 2020
@@ -6829,7 +6829,7 @@ Cuman_BARK_1	Cuman	pech1242	qwm	BARK	cabuc	cabuc	c a b u c	cabuc	BARK_1			Savely
 NorthernAltai_BARK_1	Northern Altai	chel1242	atv	BARK	qaɣaʃ	qaɣaʃ	q a ɣ a ʃ	qaɣaʃ	BARK_1			Savelyev & Robeets, 2020
 Azerbaijani_BARK_1	Azerbaijani	nort2697	azj	BARK	ɢabɯɢ	ɢabɯɢ	ɢ a b ɯ ɢ	ɢabɯɢ	BARK_1			Savelyev & Robeets, 2020
 Bashkir_BARK_1	Bashkir	bash1264	bak	BARK	qabɯq	qabɯq	q a b ɯ q	qabɯq	BARK_1			Savelyev & Robeets, 2020
-Chuvash_BARK_1	Chuvash	chuv1255	chv	BARK	χubə̈	χubɤ̆ʷ	χ u b ɤ ̆ʷ	χubə̈	BARK_1			Savelyev & Robeets, 2020
+Chuvash_BARK_1	Chuvash	chuv1255	chv	BARK	χubə̈	χubɤ̆ʷ	χ u b ɤ̆ʷ	χubə̈	BARK_1			Savelyev & Robeets, 2020
 CrimeanTatar_BARK_1	Crimean Tatar	crim1257	crh	BARK	qabuq	qabuq	q a b u q	qabuq	BARK_1			Savelyev & Robeets, 2020
 Gagauz_BARK_1	Gagauz	gaga1249	gag	BARK	kabuk	kabuk	k a b u k	kabuk	BARK_1			Savelyev & Robeets, 2020
 Kara-Kalpak_BARK_1	Kara-Kalpak	kara1467	kaa	BARK	qabɯq	qabɯq	q a b ɯ q	qabɯq	BARK_1			Savelyev & Robeets, 2020
@@ -7092,7 +7092,7 @@ OldTurkic_FEAR (BE AFRAID)_1	Old Turkic	oldu1238	oui	FEAR (BE AFRAID)	qorq	qorq	
 SouthernAltai_FEAR (BE AFRAID)_1	Southern Altai	sout2694	alt	FEAR (BE AFRAID)	qorχɯ	qorχɯ	q o r χ ɯ	qorχɯ	FEAR (BE AFRAID)_1			Savelyev & Robeets, 2020
 Azerbaijani_FEAR (BE AFRAID)_1	Azerbaijani	nort2697	azj	FEAR (BE AFRAID)	ɢorχ	ɢorχ	ɢ o r χ	ɢorχ	FEAR (BE AFRAID)_1			Savelyev & Robeets, 2020
 Bashkir_FEAR (BE AFRAID)_1	Bashkir	bash1264	bak	FEAR (BE AFRAID)	qurq	qurq	q u r q	qurq	FEAR (BE AFRAID)_1			Savelyev & Robeets, 2020
-Chuvash_FEAR (BE AFRAID)_1	Chuvash	chuv1255	chv	FEAR (BE AFRAID)	χöra ?	χɤ̆ʷra	χ ɤ ̆ʷ r a	χöra ?	FEAR (BE AFRAID)_1			Savelyev & Robeets, 2020
+Chuvash_FEAR (BE AFRAID)_1	Chuvash	chuv1255	chv	FEAR (BE AFRAID)	χöra ?	χɤ̆ʷra	χ ɤ̆ʷ r a	χöra ?	FEAR (BE AFRAID)_1			Savelyev & Robeets, 2020
 CrimeanTatar_FEAR (BE AFRAID)_1	Crimean Tatar	crim1257	crh	FEAR (BE AFRAID)	qorq	qorq	q o r q	qorq	FEAR (BE AFRAID)_1			Savelyev & Robeets, 2020
 Kara-Kalpak_FEAR (BE AFRAID)_1	Kara-Kalpak	kara1467	kaa	FEAR (BE AFRAID)	qorq	qorq	q o r q	qorq	FEAR (BE AFRAID)_1			Savelyev & Robeets, 2020
 Karachay-Balkar_FEAR (BE AFRAID)_1	Karachay-Balkar	kara1465	krc	FEAR (BE AFRAID)	qorq	qorq	q o r q	qorq	FEAR (BE AFRAID)_1			Savelyev & Robeets, 2020
@@ -7144,7 +7144,7 @@ Turkmen_FIGHT_3	Turkmen	turk1304	tuk	FIGHT	uruʃ	uruʃ	u r u ʃ	uruʃ	FIGHT_3			
 Uyghur_FIGHT_3	Uyghur	uigh1240	uig	FIGHT	uruʃ	uruʃ	u r u ʃ	uruʃ	FIGHT_3			Savelyev & Robeets, 2020
 Uzbek_FIGHT_3	Uzbek	uzbe1247	uzb	FIGHT	uriʃ	uriʃ	u r i ʃ	uriʃ	FIGHT_3			Savelyev & Robeets, 2020
 Dolgan_FIGHT_5	Dolgan	dolg1241	dlg	FIGHT	ølørys	ølørys	ø l ø r y s	ølørys	FIGHT_5			Savelyev & Robeets, 2020
-Chuvash_FIGHT_6	Chuvash	chuv1255	chv	FIGHT	ɕabə̈ɕ	ɕabɤ̆ʷɕ	ɕ a b ɤ ̆ʷ ɕ	ɕabə̈ɕ	FIGHT_6			Savelyev & Robeets, 2020
+Chuvash_FIGHT_6	Chuvash	chuv1255	chv	FIGHT	ɕabə̈ɕ	ɕabɤ̆ʷɕ	ɕ a b ɤ̆ʷ ɕ	ɕabə̈ɕ	FIGHT_6			Savelyev & Robeets, 2020
 Karachay-Balkar_FIGHT_7	Karachay-Balkar	kara1465	krc	FIGHT	ʥaɣalaʃ	ʥaɣalaʃ	ʥ a ɣ a l a ʃ	ʥaɣalaʃ	FIGHT_7			Savelyev & Robeets, 2020
 Tatar_FIGHT_7	Tatar	kaza1250	tat	FIGHT	? jaqalaʃ	jaqalaʃ	j a q a l a ʃ	? jaqalaʃ	FIGHT_7			Savelyev & Robeets, 2020
 Uyghur_FIGHT_7	Uyghur	uigh1240	uig	FIGHT	jaqilaʃ	jaqilaʃ	j a q i l a ʃ	jaqilaʃ	FIGHT_7			Savelyev & Robeets, 2020
@@ -7157,7 +7157,7 @@ Karaim_FIGHT_11	Karaim	kara1464	kdr	FIGHT	tutuʃ	tutuʃ	t u t u ʃ	tutuʃ	FIGHT_
 Khakas_FIGHT_11	Khakas	khak1248	kjh	FIGHT	? tudɯs	tudɯs	t u d ɯ s	? tudɯs	FIGHT_11			Savelyev & Robeets, 2020
 Tuvan_FIGHT_12	Tuvan	tuvi1240	tyv	FIGHT	soda:laʃ	sodaːlaʃ	s o d aː l a ʃ	soda:laʃ	FIGHT_12			Savelyev & Robeets, 2020
 OldTurkic_FIGHT_13	Old Turkic	oldu1238	oui	FIGHT	syŋyʃ	syŋyʃ	s y ŋ y ʃ	syŋyʃ	FIGHT_13			Savelyev & Robeets, 2020
-BarabaTatar_FIVE_1	Baraba Tatar	bara1273	sty	FIVE	pĕʃ-	pëʃ	p e ̈ ʃ	pĕʃ-	FIVE_1			Savelyev & Robeets, 2020
+BarabaTatar_FIVE_1	Baraba Tatar	bara1273	sty	FIVE	pĕʃ-	pëʃ	p ë ʃ	pĕʃ-	FIVE_1			Savelyev & Robeets, 2020
 Cuman_FIVE_1	Cuman	pech1242	qwm	FIVE	bes	bes	b e s	bes	FIVE_1			Savelyev & Robeets, 2020
 NorthernAltai_FIVE_1	Northern Altai	chel1242	atv	FIVE	peʃ	peʃ	p e ʃ	peʃ	FIVE_1			Savelyev & Robeets, 2020
 OldTurkic_FIVE_1	Old Turkic	oldu1238	oui	FIVE	beʃ	beʃ	b e ʃ	beʃ	FIVE_1			Savelyev & Robeets, 2020
@@ -7272,8 +7272,8 @@ Turkish_FREEZE_2	Turkish	nucl1301	tur	FREEZE	don	don	d o n	don	FREEZE_2			Savely
 Turkmen_FREEZE_2	Turkmen	turk1304	tuk	FREEZE	doŋ	doŋ	d o ŋ	doŋ	FREEZE_2			Savelyev & Robeets, 2020
 Tuvan_FREEZE_2	Tuvan	tuvi1240	tyv	FREEZE	doŋ	doŋ	d o ŋ	doŋ	FREEZE_2			Savelyev & Robeets, 2020
 Uyghur_FREEZE_2	Uyghur	uigh1240	uig	FREEZE	toŋ	toŋ	t o ŋ	toŋ	FREEZE_2			Savelyev & Robeets, 2020
-Chuvash_FREEZE_3	Chuvash	chuv1255	chv	FREEZE	ʃə̈n	ʃɤ̆ʷn	ʃ ɤ ̆ʷ n	ʃə̈n	FREEZE_3			Savelyev & Robeets, 2020
-BarabaTatar_FRUIT_1	Baraba Tatar	bara1273	sty	FRUIT	jĕmiʃ	jëmiʃ	j e ̈ m i ʃ	jĕmiʃ	FRUIT_1			Savelyev & Robeets, 2020
+Chuvash_FREEZE_3	Chuvash	chuv1255	chv	FREEZE	ʃə̈n	ʃɤ̆ʷn	ʃ ɤ̆ʷ n	ʃə̈n	FREEZE_3			Savelyev & Robeets, 2020
+BarabaTatar_FRUIT_1	Baraba Tatar	bara1273	sty	FRUIT	jĕmiʃ	jëmiʃ	j ë m i ʃ	jĕmiʃ	FRUIT_1			Savelyev & Robeets, 2020
 Cuman_FRUIT_1	Cuman	pech1242	qwm	FRUIT	jemis	jemis	j e m i s	jemis	FRUIT_1			Savelyev & Robeets, 2020
 OldTurkic_FRUIT_1	Old Turkic	oldu1238	oui	FRUIT	jemiʃ	jemiʃ	j e m i ʃ	jemiʃ	FRUIT_1			Savelyev & Robeets, 2020
 Bashkir_FRUIT_1	Bashkir	bash1264	bak	FRUIT	jemeʃ	jemeʃ	j e m e ʃ	jemeʃ	FRUIT_1			Savelyev & Robeets, 2020
@@ -7350,7 +7350,7 @@ Uyghur_GUTS_1	Uyghur	uigh1240	uig	GUTS	yʨɛj	yʨɛj	y ʨ ɛ j	yʨɛj	GUTS_1			S
 Uzbek_GUTS_1	Uzbek	uzbe1247	uzb	GUTS	iʨak	iʨak	i ʨ a k	iʨak	GUTS_1			Savelyev & Robeets, 2020
 Cuman_GUTS_2	Cuman	pech1242	qwm	GUTS	suzug	suzuɡ	s u z u ɡ	suzug	GUTS_2			Savelyev & Robeets, 2020
 Azerbaijani_GUTS_3	Azerbaijani	nort2697	azj	GUTS	baɣɯrsaɢ	baɣɯrsaɢ	b a ɣ ɯ r s a ɢ	baɣɯrsaɢ	GUTS_3			Savelyev & Robeets, 2020
-Chuvash_GUTS_3	Chuvash	chuv1255	chv	GUTS	pɯrʒə̈	pɯrʒɤ̆ʷ	p ɯ r ʒ ɤ ̆ʷ	pɯrʒə̈	GUTS_3			Savelyev & Robeets, 2020
+Chuvash_GUTS_3	Chuvash	chuv1255	chv	GUTS	pɯrʒə̈	pɯrʒɤ̆ʷ	p ɯ r ʒ ɤ̆ʷ	pɯrʒə̈	GUTS_3			Savelyev & Robeets, 2020
 Salar_GUTS_3	Salar	sala1264	slr	GUTS	paɣsuχ	paɣsuχ	p a ɣ s u χ	paɣsuχ	GUTS_3			Savelyev & Robeets, 2020
 Tofa_GUTS_3	Tofa	tofa1248	kim	GUTS	ba:rsɯq	baːrsɯq	b aː r s ɯ q	ba:rsɯq	GUTS_3			Savelyev & Robeets, 2020
 Turkish_GUTS_3	Turkish	nucl1301	tur	GUTS	baɣɯrsak	baːɯrsak	b aː ɯ r s a k	baɣɯrsak	GUTS_3			Savelyev & Robeets, 2020
@@ -7461,7 +7461,7 @@ NorthernAltai_ICE_1	Northern Altai	chel1242	atv	ICE	bus	bus	b u s	pus	ICE_1			Sa
 NorthernAltai_ICE_1	Northern Altai	chel1242	atv	ICE	pus	pus	p u s	pus	ICE_1			Savelyev & Robeets, 2020
 Azerbaijani_ICE_1	Azerbaijani	nort2697	azj	ICE	buz	buz	b u z	buz	ICE_1			Savelyev & Robeets, 2020
 Bashkir_ICE_1	Bashkir	bash1264	bak	ICE	boð	boð	b o ð	boð	ICE_1			Savelyev & Robeets, 2020
-Chuvash_ICE_1	Chuvash	chuv1255	chv	ICE	pör	pɤ̆ʷr	p ɤ ̆ʷ r	pör	ICE_1			Savelyev & Robeets, 2020
+Chuvash_ICE_1	Chuvash	chuv1255	chv	ICE	pör	pɤ̆ʷr	p ɤ̆ʷ r	pör	ICE_1			Savelyev & Robeets, 2020
 CrimeanTatar_ICE_1	Crimean Tatar	crim1257	crh	ICE	buz	buz	b u z	buz	ICE_1			Savelyev & Robeets, 2020
 Dolgan_ICE_1	Dolgan	dolg1241	dlg	ICE	bu:s	buːs	b uː s	bu:s	ICE_1			Savelyev & Robeets, 2020
 Gagauz_ICE_1	Gagauz	gaga1249	gag	ICE	buz	buz	b u z	buz	ICE_1			Savelyev & Robeets, 2020
@@ -7541,7 +7541,7 @@ Khakas_BE ALIVE_3	Khakas	khak1248	kjh	BE ALIVE	ʨurta	ʨurta	ʨ u r t a	ʨurta	B
 Chulym_BE ALIVE_3	Chulym	midd1324	clw	BE ALIVE	ʨurta	ʨurta	ʨ u r t a	ʨurta	BE ALIVE_3			Savelyev & Robeets, 2020
 Tuvan_BE ALIVE_3	Tuvan	tuvi1240	tyv	BE ALIVE	ʨurtta	ʨurtta	ʨ u r t t a	ʨurtta	BE ALIVE_3			Savelyev & Robeets, 2020
 Dolgan_BE ALIVE_4	Dolgan	dolg1241	dlg	BE ALIVE	olor	olor	o l o r	olor	BE ALIVE_4			Savelyev & Robeets, 2020
-Chuvash_BE ALIVE_5	Chuvash	chuv1255	chv	BE ALIVE	purə̈n	purɤ̆ʷn	p u r ɤ ̆ʷ n	purə̈n	BE ALIVE_5			Savelyev & Robeets, 2020
+Chuvash_BE ALIVE_5	Chuvash	chuv1255	chv	BE ALIVE	purə̈n	purɤ̆ʷn	p u r ɤ̆ʷ n	purə̈n	BE ALIVE_5			Savelyev & Robeets, 2020
 Cuman_BE ALIVE_6	Cuman	pech1242	qwm	BE ALIVE	tiril-	tiril	t i r i l	tiril-	BE ALIVE_6			Savelyev & Robeets, 2020
 Karaim_BE ALIVE_6	Karaim	kara1464	kdr	BE ALIVE	tiril	tiril	t i r i l	tiril	BE ALIVE_6			Savelyev & Robeets, 2020
 Tofa_BE ALIVE_7	Tofa	tofa1248	kim	BE ALIVE	ʨerlɛ	ʨerlɛ	ʨ e r l ɛ	ʨerlɛ	BE ALIVE_7			Savelyev & Robeets, 2020
@@ -7552,7 +7552,7 @@ OldTurkic_MOON_1	Old Turkic	oldu1238	oui	MOON	aj	aj	a j	aj	MOON_1			Savelyev & R
 SouthernAltai_MOON_1	Southern Altai	sout2694	alt	MOON	aj	aj	a j	aj	MOON_1			Savelyev & Robeets, 2020
 Azerbaijani_MOON_1	Azerbaijani	nort2697	azj	MOON	aj	aj	a j	aj	MOON_1			Savelyev & Robeets, 2020
 Bashkir_MOON_1	Bashkir	bash1264	bak	MOON	aj	aj	a j	aj	MOON_1			Savelyev & Robeets, 2020
-Chuvash_MOON_1	Chuvash	chuv1255	chv	MOON	ujə̈χ	ujɤ̆ʷχ	u j ɤ ̆ʷ χ	ujə̈χ	MOON_1			Savelyev & Robeets, 2020
+Chuvash_MOON_1	Chuvash	chuv1255	chv	MOON	ujə̈χ	ujɤ̆ʷχ	u j ɤ̆ʷ χ	ujə̈χ	MOON_1			Savelyev & Robeets, 2020
 CrimeanTatar_MOON_1	Crimean Tatar	crim1257	crh	MOON	aj	aj	a j	aj	MOON_1			Savelyev & Robeets, 2020
 Dolgan_MOON_1	Dolgan	dolg1241	dlg	MOON	ɯj	ɯj	ɯ j	ɯj	MOON_1			Savelyev & Robeets, 2020
 Gagauz_MOON_1	Gagauz	gaga1249	gag	MOON	aj	aj	a j	aj	MOON_1			Savelyev & Robeets, 2020
@@ -7601,7 +7601,7 @@ Tuvan_NARROW_1	Tuvan	tuvi1240	tyv	NARROW	tar	tar	t a r	tar	NARROW_1			Savelyev &
 Uyghur_NARROW_1	Uyghur	uigh1240	uig	NARROW	tar	tar	t a r	tar	NARROW_1			Savelyev & Robeets, 2020
 Uzbek_NARROW_1	Uzbek	uzbe1247	uzb	NARROW	tɔr	tɔr	t ɔ r	tɔr	NARROW_1			Savelyev & Robeets, 2020
 Azerbaijani_NARROW_2	Azerbaijani	nort2697	azj	NARROW	ensiz	ensiz	e n s i z	ensiz	NARROW_2			Savelyev & Robeets, 2020
-Chuvash_NARROW_2	Chuvash	chuv1255	chv	NARROW	anzə̈r	anzɤ̆ʷr	a n z ɤ ̆ʷ r	anzə̈r	NARROW_2			Savelyev & Robeets, 2020
+Chuvash_NARROW_2	Chuvash	chuv1255	chv	NARROW	anzə̈r	anzɤ̆ʷr	a n z ɤ̆ʷ r	anzə̈r	NARROW_2			Savelyev & Robeets, 2020
 Dolgan_NARROW_3	Dolgan	dolg1241	dlg	NARROW	kɯaragas	kɯaraɡas	k ɯ a r a ɡ a s	kɯaragas	NARROW_3			Savelyev & Robeets, 2020
 Cuman_NARROW_4	Cuman	pech1242	qwm	NARROW	incha	incha	i n c h a	enge	NARROW_4			Savelyev & Robeets, 2020
 Cuman_NARROW_4	Cuman	pech1242	qwm	NARROW	enge	enɡe	e n ɡ e	enge	NARROW_4			Savelyev & Robeets, 2020
@@ -7613,7 +7613,7 @@ OldTurkic_NEAR_1	Old Turkic	oldu1238	oui	NEAR	jaɣuq	jaɣuq	j a ɣ u q	jaɣuru	N
 OldTurkic_NEAR_1	Old Turkic	oldu1238	oui	NEAR	jaɣuru	jaɣuru	j a ɣ u r u	jaɣuru	NEAR_1			Savelyev & Robeets, 2020
 SouthernAltai_NEAR_1	Southern Altai	sout2694	alt	NEAR	juq	juq	j u q	juχ	NEAR_1			Savelyev & Robeets, 2020
 SouthernAltai_NEAR_1	Southern Altai	sout2694	alt	NEAR	juχ	juχ	j u χ	juχ	NEAR_1			Savelyev & Robeets, 2020
-Chuvash_NEAR_1	Chuvash	chuv1255	chv	NEAR	ɕɯvə̈χ	ɕɯvɤ̆ʷχ	ɕ ɯ v ɤ ̆ʷ χ	ɕɯvə̈χ	NEAR_1			Savelyev & Robeets, 2020
+Chuvash_NEAR_1	Chuvash	chuv1255	chv	NEAR	ɕɯvə̈χ	ɕɯvɤ̆ʷχ	ɕ ɯ v ɤ̆ʷ χ	ɕɯvə̈χ	NEAR_1			Savelyev & Robeets, 2020
 Dolgan_NEAR_1	Dolgan	dolg1241	dlg	NEAR	čugas	ʧuɡas	ʧ u ɡ a s	hugas	NEAR_1			Savelyev & Robeets, 2020
 Dolgan_NEAR_1	Dolgan	dolg1241	dlg	NEAR	hugas	huɡas	h u ɡ a s	hugas	NEAR_1			Savelyev & Robeets, 2020
 Karachay-Balkar_NEAR_1	Karachay-Balkar	kara1465	krc	NEAR	ʥuwuq	ʥuwuq	ʥ u w u q	ʥuwuq	NEAR_1			Savelyev & Robeets, 2020
@@ -7826,7 +7826,7 @@ Cuman_SEED_1	Cuman	pech1242	qwm	SEED	uru	uru	u r u	ourluc etc.	SEED_1			Savelyev
 Cuman_SEED_1	Cuman	pech1242	qwm	SEED	ourluc etc.	ourluc	o u r l u c	ourluc etc.	SEED_1			Savelyev & Robeets, 2020
 OldTurkic_SEED_1	Old Turkic	oldu1238	oui	SEED	uruɣ	uruɣ	u r u ɣ	uruɣ	SEED_1			Savelyev & Robeets, 2020
 Bashkir_SEED_1	Bashkir	bash1264	bak	SEED	orloq	orloq	o r l o q	orloq	SEED_1			Savelyev & Robeets, 2020
-Chuvash_SEED_1	Chuvash	chuv1255	chv	SEED	vörö	vɤ̆ʷrɤ̆ʷ	v ɤ ̆ʷ r ɤ ̆ʷ	vörö	SEED_1			Savelyev & Robeets, 2020
+Chuvash_SEED_1	Chuvash	chuv1255	chv	SEED	vörö	vɤ̆ʷrɤ̆ʷ	v ɤ̆ʷ r ɤ̆ʷ	vörö	SEED_1			Savelyev & Robeets, 2020
 CrimeanTatar_SEED_1	Crimean Tatar	crim1257	crh	SEED	urluq	urluq	u r l u q	urluq	SEED_1			Savelyev & Robeets, 2020
 Karachay-Balkar_SEED_1	Karachay-Balkar	kara1465	krc	SEED	urluq	urluq	u r l u q	urluq	SEED_1			Savelyev & Robeets, 2020
 Karaim_SEED_1	Karaim	kara1464	kdr	SEED	urluk	urluk	u r l u k	urluk	SEED_1			Savelyev & Robeets, 2020
@@ -8231,7 +8231,7 @@ OldTurkic_THEY_1	Old Turkic	oldu1238	oui	THEY	olar	olar	o l a r	olar	THEY_1			Sa
 SouthernAltai_THEY_1	Southern Altai	sout2694	alt	THEY	olor	olor	o l o r	olor	THEY_1			Savelyev & Robeets, 2020
 Azerbaijani_THEY_1	Azerbaijani	nort2697	azj	THEY	onlar	onlar	o n l a r	onlar	THEY_1			Savelyev & Robeets, 2020
 Bashkir_THEY_1	Bashkir	bash1264	bak	THEY	ular	ular	u l a r	ular	THEY_1			Savelyev & Robeets, 2020
-Chuvash_THEY_1	Chuvash	chuv1255	chv	THEY	vø̈zem	vɘ̆ʷzem	v ɘ ̆ʷ z e m	vø̈zem	THEY_1			Savelyev & Robeets, 2020
+Chuvash_THEY_1	Chuvash	chuv1255	chv	THEY	vø̈zem	vɘ̆ʷzem	v ɘ̆ʷ z e m	vø̈zem	THEY_1			Savelyev & Robeets, 2020
 CrimeanTatar_THEY_1	Crimean Tatar	crim1257	crh	THEY	olar	olar	o l a r	olar	THEY_1			Savelyev & Robeets, 2020
 Gagauz_THEY_1	Gagauz	gaga1249	gag	THEY	onnar	onnar	o n n a r	onnar	THEY_1			Savelyev & Robeets, 2020
 Kara-Kalpak_THEY_1	Kara-Kalpak	kara1467	kaa	THEY	olar	olar	o l a r	olar	THEY_1			Savelyev & Robeets, 2020
@@ -8280,7 +8280,7 @@ Turkish_THINK_4	Turkish	nucl1301	tur	THINK	dyʃyn	dyʃyn	d y ʃ y n	dyʃyn	THINK
 Cuman_THINK_5	Cuman	pech1242	qwm	THINK	sagin-	saɡin	s a ɡ i n	sagin-	THINK_5			Savelyev & Robeets, 2020
 NorthernAltai_THINK_5	Northern Altai	chel1242	atv	THINK	saɣɯn-	saɣɯn	s a ɣ ɯ n	saɣɯn-	THINK_5			Savelyev & Robeets, 2020
 OldTurkic_THINK_5	Old Turkic	oldu1238	oui	THINK	saqɯn	saqɯn	s a q ɯ n	saqɯn	THINK_5			Savelyev & Robeets, 2020
-Chuvash_THINK_5	Chuvash	chuv1255	chv	THINK	ʃuɣə̈ʃla	ʃuɣɤ̆ʷʃla	ʃ u ɣ ɤ ̆ʷ ʃ l a	ʃuɣə̈ʃla	THINK_5			Savelyev & Robeets, 2020
+Chuvash_THINK_5	Chuvash	chuv1255	chv	THINK	ʃuɣə̈ʃla	ʃuɣɤ̆ʷʃla	ʃ u ɣ ɤ̆ʷ ʃ l a	ʃuɣə̈ʃla	THINK_5			Savelyev & Robeets, 2020
 Karaim_THINK_5	Karaim	kara1464	kdr	THINK	saɣɯn	saɣɯn	s a ɣ ɯ n	saɣɯn	THINK_5			Savelyev & Robeets, 2020
 Khakas_THINK_5	Khakas	khak1248	kjh	THINK	saɣɯn	saɣɯn	s a ɣ ɯ n	saɣɯn	THINK_5			Savelyev & Robeets, 2020
 Chulym_THINK_5	Chulym	midd1324	clw	THINK	sa:ɣən	saːɣən	s aː ɣ ə n	sa:ɣən	THINK_5			Savelyev & Robeets, 2020
@@ -8300,7 +8300,7 @@ OldTurkic_TREE_2	Old Turkic	oldu1238	oui	TREE	? ɯɣaʨ	ɯɣaʨ	ɯ ɣ a ʨ	? ɯ�
 SouthernAltai_TREE_2	Southern Altai	sout2694	alt	TREE	aγaʃ	aɣaʃ	a ɣ a ʃ	aγaʃ	TREE_2			Savelyev & Robeets, 2020
 Azerbaijani_TREE_2	Azerbaijani	nort2697	azj	TREE	aɣaǰ	aɣaʤ	a ɣ a ʤ	aɣaǰ	TREE_2			Savelyev & Robeets, 2020
 Bashkir_TREE_2	Bashkir	bash1264	bak	TREE	aɣas	aɣas	a ɣ a s	aɣas	TREE_2			Savelyev & Robeets, 2020
-Chuvash_TREE_2	Chuvash	chuv1255	chv	TREE	jɯvə̈ɕ	jɯvɤ̆ʷɕ	j ɯ v ɤ ̆ʷ ɕ	jɯvə̈ɕ	TREE_2			Savelyev & Robeets, 2020
+Chuvash_TREE_2	Chuvash	chuv1255	chv	TREE	jɯvə̈ɕ	jɯvɤ̆ʷɕ	j ɯ v ɤ̆ʷ ɕ	jɯvə̈ɕ	TREE_2			Savelyev & Robeets, 2020
 Dolgan_TREE_2	Dolgan	dolg1241	dlg	TREE	mas	mas	m a s	mas	TREE_2			Savelyev & Robeets, 2020
 Gagauz_TREE_2	Gagauz	gaga1249	gag	TREE	a:ʨ	aːʨ	aː ʨ	a:ʨ	TREE_2			Savelyev & Robeets, 2020
 Kara-Kalpak_TREE_2	Kara-Kalpak	kara1467	kaa	TREE	aɣaʃ	aɣaʃ	a ɣ a ʃ	aɣaʃ	TREE_2			Savelyev & Robeets, 2020
@@ -8323,7 +8323,7 @@ Cuman_TRUE_1	Cuman	pech1242	qwm	TRUE	ʨin	ʨin	ʨ i n	ʨin	TRUE_1			Savelyev & R
 NorthernAltai_TRUE_1	Northern Altai	chel1242	atv	TRUE	ʨɯn	ʨɯn	ʨ ɯ n	ʨɯn	TRUE_1			Savelyev & Robeets, 2020
 OldTurkic_TRUE_1	Old Turkic	oldu1238	oui	TRUE	ʨɯn	ʨɯn	ʨ ɯ n	ʨɯn	TRUE_1			Savelyev & Robeets, 2020
 SouthernAltai_TRUE_1	Southern Altai	sout2694	alt	TRUE	ʨɯn	ʨɯn	ʨ ɯ n	ʨɯn	TRUE_1			Savelyev & Robeets, 2020
-Chuvash_TRUE_1	Chuvash	chuv1255	chv	TRUE	ʨə̈n	ʨɤ̆ʷn	ʨ ɤ ̆ʷ n	ʨə̈n	TRUE_1			Savelyev & Robeets, 2020
+Chuvash_TRUE_1	Chuvash	chuv1255	chv	TRUE	ʨə̈n	ʨɤ̆ʷn	ʨ ɤ̆ʷ n	ʨə̈n	TRUE_1			Savelyev & Robeets, 2020
 Kara-Kalpak_TRUE_1	Kara-Kalpak	kara1467	kaa	TRUE	? ʃɯn	ʃɯn	ʃ ɯ n	? ʃɯn	TRUE_1			Savelyev & Robeets, 2020
 Kazakh_TRUE_1	Kazakh	kaza1248	kaz	TRUE	ʃɯn	ʃɯn	ʃ ɯ n	ʃɯn	TRUE_1			Savelyev & Robeets, 2020
 Khakas_TRUE_1	Khakas	khak1248	kjh	TRUE	sɯn	sɯn	s ɯ n	sɯn	TRUE_1			Savelyev & Robeets, 2020
@@ -8353,7 +8353,7 @@ Khalaj_TRUE_3	Khalaj	turk1303	klj	TRUE	toɣrɯ	toɣrɯ	t o ɣ r ɯ	toɣrɯ	TRUE_
 Turkmen_TRUE_3	Turkmen	turk1304	tuk	TRUE	doɣrɯ	doɣrɯ	d o ɣ r ɯ	doɣrɯ	TRUE_3			Savelyev & Robeets, 2020
 SouthernAltai_TURN (SOMETHING)_1	Southern Altai	sout2694	alt	TURN (SOMETHING)	? buru	buru	b u r u	? buru	TURN (SOMETHING)_1			Savelyev & Robeets, 2020
 Bashkir_TURN (SOMETHING)_1	Bashkir	bash1264	bak	TURN (SOMETHING)	bor	bor	b o r	bor	TURN (SOMETHING)_1			Savelyev & Robeets, 2020
-Chuvash_TURN (SOMETHING)_1	Chuvash	chuv1255	chv	TURN (SOMETHING)	pör	pɤ̆ʷr	p ɤ ̆ʷ r	pör	TURN (SOMETHING)_1			Savelyev & Robeets, 2020
+Chuvash_TURN (SOMETHING)_1	Chuvash	chuv1255	chv	TURN (SOMETHING)	pör	pɤ̆ʷr	p ɤ̆ʷ r	pör	TURN (SOMETHING)_1			Savelyev & Robeets, 2020
 Kara-Kalpak_TURN (SOMETHING)_1	Kara-Kalpak	kara1467	kaa	TURN (SOMETHING)	bur	bur	b u r	bur	TURN (SOMETHING)_1			Savelyev & Robeets, 2020
 Karachay-Balkar_TURN (SOMETHING)_1	Karachay-Balkar	kara1465	krc	TURN (SOMETHING)	bur	bur	b u r	bur	TURN (SOMETHING)_1			Savelyev & Robeets, 2020
 Kazakh_TURN (SOMETHING)_1	Kazakh	kaza1248	kaz	TURN (SOMETHING)	bŭr	bʊr	b ʊ r	bŭr	TURN (SOMETHING)_1			Savelyev & Robeets, 2020
@@ -8383,7 +8383,7 @@ OldTurkic_VOMIT_1	Old Turkic	oldu1238	oui	VOMIT	qus	qus	q u s	qus	VOMIT_1			Save
 SouthernAltai_VOMIT_1	Southern Altai	sout2694	alt	VOMIT	qus	qus	q u s	qus	VOMIT_1			Savelyev & Robeets, 2020
 Azerbaijani_VOMIT_1	Azerbaijani	nort2697	azj	VOMIT	ɢus	ɢus	ɢ u s	ɢus	VOMIT_1			Savelyev & Robeets, 2020
 Bashkir_VOMIT_1	Bashkir	bash1264	bak	VOMIT	qoθ	qoθ	q o θ	qoθ	VOMIT_1			Savelyev & Robeets, 2020
-Chuvash_VOMIT_1	Chuvash	chuv1255	chv	VOMIT	χös	χɤ̆ʷs	χ ɤ ̆ʷ s	χös	VOMIT_1			Savelyev & Robeets, 2020
+Chuvash_VOMIT_1	Chuvash	chuv1255	chv	VOMIT	χös	χɤ̆ʷs	χ ɤ̆ʷ s	χös	VOMIT_1			Savelyev & Robeets, 2020
 CrimeanTatar_VOMIT_1	Crimean Tatar	crim1257	crh	VOMIT	qus	qus	q u s	qus	VOMIT_1			Savelyev & Robeets, 2020
 Gagauz_VOMIT_1	Gagauz	gaga1249	gag	VOMIT	kus	kus	k u s	kus	VOMIT_1			Savelyev & Robeets, 2020
 Kara-Kalpak_VOMIT_1	Kara-Kalpak	kara1467	kaa	VOMIT	qus	qus	q u s	qus	VOMIT_1			Savelyev & Robeets, 2020
@@ -8481,7 +8481,7 @@ OldTurkic_WHEN_1	Old Turkic	oldu1238	oui	WHEN	qaʨan	qaʨan	q a ʨ a n	qaʨan	WH
 SouthernAltai_WHEN_1	Southern Altai	sout2694	alt	WHEN	qaʨan	qaʨan	q a ʨ a n	qaʨan	WHEN_1			Savelyev & Robeets, 2020
 Azerbaijani_WHEN_1	Azerbaijani	nort2697	azj	WHEN	haʨan	haʨan	h a ʨ a n	haʨan	WHEN_1			Savelyev & Robeets, 2020
 Bashkir_WHEN_1	Bashkir	bash1264	bak	WHEN	qasan	qasan	q a s a n	qasan	WHEN_1			Savelyev & Robeets, 2020
-Chuvash_WHEN_1	Chuvash	chuv1255	chv	WHEN	χöʑan	χɤ̆ʷʑan	χ ɤ ̆ʷ ʑ a n	χöʑan	WHEN_1			Savelyev & Robeets, 2020
+Chuvash_WHEN_1	Chuvash	chuv1255	chv	WHEN	χöʑan	χɤ̆ʷʑan	χ ɤ̆ʷ ʑ a n	χöʑan	WHEN_1			Savelyev & Robeets, 2020
 Dolgan_WHEN_1	Dolgan	dolg1241	dlg	WHEN	kahan	kahan	k a h a n	kahan	WHEN_1			Savelyev & Robeets, 2020
 Gagauz_WHEN_1	Gagauz	gaga1249	gag	WHEN	aʨan	aʨan	a ʨ a n	aʨan	WHEN_1			Savelyev & Robeets, 2020
 Kara-Kalpak_WHEN_1	Kara-Kalpak	kara1467	kaa	WHEN	qaʃan	qaʃan	q a ʃ a n	qaʃan	WHEN_1			Savelyev & Robeets, 2020
@@ -8610,7 +8610,7 @@ Tofa_WORM_2	Tofa	tofa1248	kim	WORM	ʃojlaʃqan	ʃojlaʃqan	ʃ o j l a ʃ q a n	�
 Turkish_WORM_2	Turkish	nucl1301	tur	WORM	soluʥan	soluʥan	s o l u ʥ a n	soluʥan	WORM_2			Savelyev & Robeets, 2020
 Uyghur_WORM_2	Uyghur	uigh1240	uig	WORM	ʨuvalʨaŋ	ʨuvalʨaŋ	ʨ u v a l ʨ a ŋ	ʨuvalʨaŋ	WORM_2			Savelyev & Robeets, 2020
 Uzbek_WORM_2	Uzbek	uzbe1247	uzb	WORM	ʨuvalʨaŋ	ʨuvalʨaŋ	ʨ u v a l ʨ a ŋ	ʨuvalʨaŋ	WORM_2			Savelyev & Robeets, 2020
-Chuvash_WORM_3	Chuvash	chuv1255	chv	WORM	öman	ɤ̆ʷman	ɤ ̆ʷ m a n	öman	WORM_3			Savelyev & Robeets, 2020
+Chuvash_WORM_3	Chuvash	chuv1255	chv	WORM	öman	ɤ̆ʷman	ɤ̆ʷ m a n	öman	WORM_3			Savelyev & Robeets, 2020
 BarabaTatar_YELLOW_1	Baraba Tatar	bara1273	sty	YELLOW	sarɯ	sarɯ	s a r ɯ	sarɯ	YELLOW_1			Savelyev & Robeets, 2020
 Cuman_YELLOW_1	Cuman	pech1242	qwm	YELLOW	sari	sari	s a r i	sari	YELLOW_1			Savelyev & Robeets, 2020
 NorthernAltai_YELLOW_1	Northern Altai	chel1242	atv	YELLOW	sarɯ	sarɯ	s a r ɯ	sarɯ	YELLOW_1			Savelyev & Robeets, 2020

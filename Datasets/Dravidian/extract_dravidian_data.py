@@ -8,8 +8,9 @@ source_data_dir = 'Source/DravLex/'
 
 #Load phonetic distance data and auxiliary functions
 os.chdir(str(grandparent_dir) + '/Code')
-from phonetic_distance import *
 from auxiliary_functions import csv_to_dict
+os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
+from phonetic_distance import *
 os.chdir(local_dir)
 
 #%%
