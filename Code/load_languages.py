@@ -2,7 +2,7 @@ import os, re, itertools
 from statistics import mean
 from collections import defaultdict
 import math
-from auxiliary_functions import csv_to_dict, strip_ch, normalize_dict, entropy
+from auxiliary_functions import *
 from pathlib import Path
 local_dir = Path(str(os.getcwd()))
 parent_dir = local_dir.parent
@@ -189,10 +189,33 @@ class Dataset:
             print(f'\tAMC increased from {round(original_amc, 2)} to {round(self.mutual_coverage[1], 2)}.')
         
             
-            
-
+    def cognate_set_dendrogram(self, cognate_id, dist_func, sim=True, method='average',
+                               title=None, save_directory=None):
+        words = [strip_ch(item[i], ['(', ')']) 
+                 for item in self.cognate_sets[cognate_id].values()
+                 for i in range(len(item))]
+        lang_labels = [key for key in self.cognate_sets[cognate_id].keys()
+                       for i in range(len(self.cognate_sets[cognate_id][key]))]
+        labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
+        
+        if title == None:
+            title = f'{self.name} "{cognate_id}"'
+        
+        if save_directory == None:
+            save_directory = self.directory
+        
+        draw_dendrogram(group=words,
+                        dist_func=dist_func,
+                        sim=sim,
+                        labels=labels,
+                        method=method,
+                        title=title,
+                        save_directory=save_directory
+                        )
         
 
+        
+#%%
 class Language(Dataset):
     def __init__(self, name, lang_id, data, glottocode, iso_code,
                  segments_c='Segments', ipa_c='Form', 
@@ -241,8 +264,8 @@ class Language(Dataset):
             entry = self.data[i]
             segments = entry[self.segments_c].split()
             
-            #Remove stress and syllabic diacritics, and spaces
-            diacritics_to_remove = ['ˈ', 'ˌ', '̩', ' '] #there should be another syllabic diacritic, for above
+            #Remove stress and tone diacritics; syllabic diacritics (above and below); spaces
+            diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' '] 
             segments = [strip_ch(seg, diacritics_to_remove) for seg in segments if len(seg) > 0]
             for segment in segments:
                 self.phonemes[segment] += 1
@@ -375,7 +398,9 @@ for family in ['Arabic', 'Balto-Slavic', 'Dravidian',
     families[family] = Dataset(filepath, family)
     #families[family].prune_languages(min_amc=0.75)
     families[family].write_vocab_index()
-    globals().update(families[family].languages)
+    language_variables = {format_as_variable(lang):families[family].languages[lang] 
+                          for lang in families[family].languages}
+    globals().update(language_variables)
 globals().update(families)
 os.chdir(local_dir)
 
@@ -385,3 +410,7 @@ all_languages = [families[family].languages[lang] for family in families
 all_families = [families[family] for family in families]
 total_languages = len(all_languages)
 total_families = len(all_families)
+all_sounds = set(sound for lang in all_languages for sound in lang.phonemes if len(strip_diacritics(sound)) > 0)
+#%%
+def lookup_segment(seg):
+    return [lang.name for lang in all_languages if seg in lang.phonemes]

@@ -8,6 +8,7 @@ import pandas as pd
 from collections import defaultdict
 from nwunsch_alignment import best_alignment 
 from nltk import edit_distance
+from sklearn.metrics import jaccard_score
 
 
 #IMPORT SOUND DATA
@@ -67,6 +68,11 @@ for i in range(len(diacritics_data)):
         #Add to dictionary, with diacritic as key
         diacritics_effects[diacritics_data['Diacritic'][i]].append(effect)
 
+#Isolate suprasegmental diacritics
+suprasegmental_diacritics = set(diacritics_data.Diacritic[i] 
+                                for i in range(len(diacritics_data)) 
+                                if diacritics_data.Type[i] == 'suprasegmental')
+suprasegmental_diacritics.remove('ː') #don't include length as a suprasegmental
 
 
 #Diacritics by position with respect to base segments
@@ -248,7 +254,9 @@ def get_sonority(sound):
             sonority = 14
 
     #Consonants
-    elif strip_sound in consonants:
+    elif strip_sound[0] in consonants: 
+        #index 0, for affricates or complex plosives, such as /p͡f/ and /k͡p/, written with >1 character
+        
         #Glides
         if strip_sound in glides:
             sonority = 11
@@ -425,6 +433,19 @@ def hamming_distance(vec1, vec2):
 def hamming_phone_dist(seg1, seg2):
     return hamming_distance(phone_id(seg1), phone_id(seg2))
 
+def jaccard_phone_sim(seg1, seg2):
+    seg1_id = phone_id(seg1)
+    seg2_id = phone_id(seg2)
+    features = sorted(list(seg1_id.keys()))
+    seg1_values = [seg1_id[feature] for feature in features]
+    seg2_values = [seg2_id[feature] for feature in features]
+    return jaccard_score(seg1_values, seg2_values)
+
+def dice_phone_sim(seg1, seg2):
+    jaccard = jaccard_phone_sim(seg1, seg2)
+    return (2*jaccard) / (1+jaccard)
+    
+
 #PHONE COMPARISON
 checked_phone_sims = {}
 def phone_sim(phone1, phone2, compare_stress=True):
@@ -469,8 +490,13 @@ def phone_align(word1, word2, gop=-0.7, segmented=False):
     for i in range(len(segments1)):
         for j in range(len(segments2)):
             #Cost of aligning segments1[i] with segments2[j] is log of their
-            #phone similarity, plus the log of their sonority similarity            
-            phon_sim = math.log(phone_sim(segments1[i], segments2[j]))
+            #phone similarity, plus the log of their sonority similarity
+            try:
+                phon_sim = math.log(phone_sim(segments1[i], segments2[j]))
+            
+            #If phone similarity = 0, we can't take the log. Instead set to negative infinity
+            except ValueError:
+                phon_sim = -math.inf
             
             #Sonority difference is number of levels of difference in sonority
             son_diff = abs(get_sonority(segments1[i]) - get_sonority(segments2[j]))
