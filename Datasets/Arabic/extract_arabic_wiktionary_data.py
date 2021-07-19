@@ -128,6 +128,7 @@ conversion_dict = {#Vowels
                    'ẓ':'zˤ',
                    'ˁ':'ʕ',
                    '̣':'ˤ',
+                   'ˀ':'ʔ',
                    
                    #Language-Specific Conversions
                    ('g', 'Sudanese (Khartoum)'):'ɢ',
@@ -136,7 +137,7 @@ conversion_dict = {#Vowels
                    ('ħ', 'Iraqi (Southern Iraq/Baghdad)'):'ʜ',
                    ('ḥ', 'Iraqi (Southern Iraq/Baghdad)'):'ʜ',
                    ('í', 'Cypriot (Kormakitis)'):'i',
-                   ('θ', 'Hassaniya (Mauritanian)'):'θ̬',
+                   #('θ', 'Hassaniya (Mauritanian)'):'θ̬', #already marked as such in source
                    ('x', 'Sudanese (Khartoum)'):'χ',
                    ('x', "Sanaani (Sana'a)"):'χ',
                    ('ʕ', 'Egyptian (Lower Egyptian)'):'ʕ̞',
@@ -191,6 +192,7 @@ def transcribe_maltese(word, gloss):
             tr = re.sub('d͡*ʒ', 'ʤ', tr)
             tr = re.sub('t͡s', 'ʦ', tr)
             tr = re.sub('d͡z', 'ʣ', tr)
+            tr = re.sub('tʦ', 'ʦʦ', tr)
             
             print(f'<{word}> /{tr}/ "{gloss}"')
             return original_tr, tr
@@ -217,6 +219,7 @@ def fix_tr(word, lang, gloss):
         #Fix words using regular expressions (multiple characters)
         word = re.sub('t͡s', 'ʦ', word)
         word = re.sub('d͡*ʒ', 'ʤ', word)
+        word = re.sub('d͡z', 'ʣ', word)
         word = re.sub('ɑ̄', 'ɑː', word)
         word = re.sub('[ìí][eɛ]', 'ɪe̯', word)
         

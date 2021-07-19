@@ -87,6 +87,10 @@ def fix_tr(tr):
     for aff in affricate_conversion:
         tr = re.sub(aff, affricate_conversion[aff], tr)
     
+    #mark as affricates by including ligature tie
+    tr = re.sub('ʈʂ', 'ʈ͡ʂ', tr)
+    tr = re.sub('pf', 'p͡f', tr) #Xi'an
+    
     #not really sure what '⁻' indicates within tones, perhaps alternative realizations?
     #segmented IPA version seems to only include the tone symbols up until this character
     #so also that here
@@ -124,7 +128,7 @@ for i in forms_data:
     segments = ' '.join([fix_tr(seg) for seg in entry['Segments'].split()])
     tr = ''.join(segments.split())
     new_entry['Form'] = tr
-    new_entry['Segments'] = segments
+    new_entry['Segments'] = ' '.join(segment_word(tr))
     new_entry['Source_Form'] = entry['Form']
     new_entry['Cognate_ID'] = cognate_id
     new_entry['Loan'] = entry['Loan']

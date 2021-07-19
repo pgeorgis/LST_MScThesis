@@ -91,9 +91,11 @@ conversion_dict = {#Consonants
                    'č':'ʧ', #Erzya, Meadow Mari, Udmurt, Votic, Nganasan, Selkup, Khanty; see raw transcription file
                    'ć':'ʨ', #Selkup, Komi-Permyak; according to raw transcription file
                    'ᴅ':'d̥', #Ingrian; according to raw transcription file
+                   'δ':'ð', #not an IPA character, NorthEuraLex has <ð> for Nganasan and Mari; raw data file also shows <ð>
                    'g':'ɡ', #not the IPA /ɡ/
                    'ɢ':'ɡ̊', #Ingrian; according to raw transcription file, but using correct /ɡ/ character
-                   'δ':'ð', #not an IPA character, NorthEuraLex has <ð> for Nganasan and Mari; raw data file also shows <ð>
+                   'ʝʲ':'ʝ', #Kildin Saami; no sense in palatalizing an already palatal consonant
+                   'j̊ʲ':'j̊', #Kildin Saami; no sense in palatalizing an already palatal consonant
                    'ń':'ɲ', #Erzya, Nganasan, Selkup, Mansi, Khanty; according to their respective Wikipedia phonology descriptions
                    'ŕ':'rʲ', #Erzya, according to raw transcription file
                    'š':'ʃ', #Erzya, Meadow Mari, Udmurt
@@ -493,7 +495,8 @@ for uralex_lang in uralex_NEL_mapping:
                         'tʧ':'ʧː',
                         'dʤ':'ʤː',
                         'cc͡ç':'c͡çː',
-                        'ɟɟ͡ʝ':'ɟ͡ʝː'}
+                        'ɟɟ͡ʝ':'ɟ͡ʝː',
+                        'd͡s':'ʣ'}
                 for to_fix in NEL_fix_dict:
                     NEL_form = re.sub(to_fix, NEL_fix_dict[to_fix], NEL_form)
                 #and two more fixes which MUST follow 

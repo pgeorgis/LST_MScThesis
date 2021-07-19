@@ -4,18 +4,18 @@ Diacritic	Description	Type	Feature	Value	Position
 ʼ	ejective	airstream mechanism	constrictedGlottis	+	post
 ʼ	ejective	airstream mechanism	raisedLarynxEjective	+	post
 ʼ	ejective	airstream mechanism	spreadGlottis	-	post
- ̟	advanced	backness modification			post
+̟	advanced	backness modification			post
 ̈	centralized	backness modification			post
 ̠	retracted	backness modification			post
 ̪	dental	coronal modifications	distributed	+	post
 ̪	dental	coronal modifications	anterior	+	post
- ̞	lowered	height modifications			post
- ̝	raised	height modifications			post
+̞	lowered	height modifications			post
+̝	raised	height modifications			post
 ʰ	aspirated	laryngeal	spreadGlottis	+	post
 ʱ	aspirated	laryngeal	spreadGlottis	+	post
- ̬	voiced	laryngeal	periodicGlottalSource	+	post
+̬	voiced	laryngeal	periodicGlottalSource	+	post
+̥	voiceless	laryngeal	periodicGlottalSource	-	post
 ̊	voiceless	laryngeal	periodicGlottalSource	-	post
- ̊	voiceless	laryngeal	periodicGlottalSource	-	post
 ̃	nasalized	nasality	nasal	+	post
 ˡ	lateral release	release	lateral	+	post
 ˡ	lateral release	release	delayedRelease	+	post
@@ -29,7 +29,7 @@ Diacritic	Description	Type	Feature	Value	Position
 ᶣ	labio-palatalized	secondary articulation	high	+	post
 ᶣ	labio-palatalized	secondary articulation	back	-	post
 ᶣ	labio-palatalized	secondary articulation	round	+	post
- ̼	linguolabial	secondary articulation	labial	+	post
+̼	linguolabial	secondary articulation	labial	+	post
 ʲ	palatalized	secondary articulation	high	+	post
 ʲ	palatalized	secondary articulation	back	-	post
 ˤ	pharyngealized	secondary articulation	low	+	post
@@ -41,27 +41,29 @@ Diacritic	Description	Type	Feature	Value	Position
 ː	long	suprasegmental	long	+	post
 ː	long	suprasegmental	short	-	post
 ̆	short	suprasegmental	short	+	post
+˥	tone: extra high	suprasegmental			post
+˩	tone: extra low	suprasegmental			post
+̂	tone: falling	suprasegmental			post
+́	tone: high	suprasegmental			post
+˦	tone: high	suprasegmental			post
+¹	tone: level 1	suprasegmental			post
+²	tone: level 2	suprasegmental			post
+³	tone: level 3	suprasegmental			post
+⁴	tone: level 4	suprasegmental			post
+⁵	tone: level 5	suprasegmental			post
+̀	tone: low	suprasegmental			post
+˨	tone: low 	suprasegmental			post
+̄	tone: mid	suprasegmental			post
+˧	tone: mid	suprasegmental			post
+⁰	tone: neutral	suprasegmental			post
+̌	tone: rising	suprasegmental			post
 ̯	non-syllabic	syllabicity	syllabic	-	post
 ̩	syllabic	syllabicity	syllabic	+	post
+̍	syllabic	syllabicity	syllabic	+	post
 ͈	fortis	tenseness	fortis	+	post
-˥	tone: extra high	tone			post
-˩	tone: extra low	tone			post
-̂	tone: falling	tone			post
-́	tone: high	tone			post
-˦	tone: high	tone			post
-¹	tone: level 1	tone			post
-²	tone: level 2	tone			post
-³	tone: level 3	tone			post
-⁴	tone: level 4	tone			post
-⁵	tone: level 5	tone			post
-̀	tone: low	tone			post
-˨	tone: low 	tone			post
-˧	tone: mid	tone			post
-⁰	tone: neutral	tone			post
-̌	tone: rising	tone			post
- ̘	advanced tongue root	tongue root state	﻿advancedTongueRoot	+	post
- ̙	retracted tongue root	tongue root state	﻿advancedTongueRoot	-	post
- ̤	breathy voiced	voice quality	spreadGlottis	+	post
+̘	advanced tongue root	tongue root state	﻿advancedTongueRoot	+	post
+̙	retracted tongue root	tongue root state	﻿advancedTongueRoot	-	post
+̤	breathy voiced	voice quality	spreadGlottis	+	post
 ̰	creaky voiced	voice quality	constrictedGlottis	+	post
 ̰	creaky voiced	voice quality	spreadGlottis	-	post
 ˀ	glottalized	voice quality	constrictedGlottis	+	post

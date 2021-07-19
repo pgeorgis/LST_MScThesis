@@ -184,7 +184,7 @@ for i in polynesian_data:
         new_entry['Parameter_ID'] = gloss
         new_entry['Value'] = entry['VALUE']
         new_entry['Form'] = fix_tr(entry['IPA'], lang, conversion_dict)
-        new_entry['Segments'] = fix_tr(entry['SEGMENTS'], lang, conversion_dict)
+        new_entry['Segments'] = ' '.join(segment_word(new_entry['Form']))
         new_entry['Source_Form'] = entry['IPA']
         new_entry['Cognate_ID'] = cognate_id
         new_entry['Loan'] = entry['LOAN'].upper()

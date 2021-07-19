@@ -435,7 +435,7 @@ EgyptianArabic_FEW	Egyptian Arabic	egyp1253	arz	FEW	ʔolayyel	ʔɔlajjɛl	ʔ ɔ 
 SudaneseArabic_FEW	Sudanese Arabic	suda1236	apd	FEW	galīl	ɢaliːl	ɢ a l iː l	galīl	FEW			Wiktionary
 SudaneseArabic_FEW	Sudanese Arabic	suda1236	apd	FEW	šwiyya	ʃwijja	ʃ w i j j a	šwiyya	FEW			Wiktionary
 ChadianArabic_FEW	Chadian Arabic	chad1249	shu	FEW	šiyya	ʃijja	ʃ i j j a	šiyya	FEW			Wiktionary
-ChadianArabic_FEW	Chadian Arabic	chad1249	shu	FEW	baˀed	baˀɛd	b aˀ ɛ d	baˀed	FEW			Wiktionary
+ChadianArabic_FEW	Chadian Arabic	chad1249	shu	FEW	baˀed	baʔɛd	b a ʔ ɛ d	baˀed	FEW			Wiktionary
 TunisianArabic_FEW	Tunisian Arabic	tuni1259	aeb	FEW	šwayya	ʃwajja	ʃ w a j j a	šwayya	FEW			Wiktionary
 MoroccanArabic_FEW	Moroccan Arabic	moro1292	ary	FEW	qlil	qlil	q l i l	qlil	FEW			Wiktionary
 MoroccanArabic_FEW	Moroccan Arabic	moro1292	ary	FEW	ši	ʃi	ʃ i	ši	FEW			Wiktionary
@@ -499,7 +499,7 @@ TunisianArabic_TWO	Tunisian Arabic	tuni1259	aeb	TWO	zūz	zuːz	z uː z	zūz	TWO	
 TunisianArabic_TWO	Tunisian Arabic	tuni1259	aeb	TWO	θnīn	θniːn	θ n iː n	θnīn	TWO			Wiktionary
 MoroccanArabic_TWO	Moroccan Arabic	moro1292	ary	TWO	žuž	ʒuʒ	ʒ u ʒ	žuž	TWO			Wiktionary
 MoroccanArabic_TWO	Moroccan Arabic	moro1292	ary	TWO	tnin	tnin	t n i n	tnin	TWO			Wiktionary
-HassaniyaArabic_TWO	Hassaniya Arabic	hass1238	mey	TWO	iθ̬nayn	iθ̬̬najn	i θ ̬ ̬ n a j n	iθ̬nayn	TWO			Wiktionary
+HassaniyaArabic_TWO	Hassaniya Arabic	hass1238	mey	TWO	iθ̬nayn	iθ̬najn	i θ̬ n a j n	iθ̬nayn	TWO			Wiktionary
 Maltese_TWO	Maltese	malt1254	mlt	TWO	tnejn	tnɛjn	t n ɛ j n	tnɛjn	TWO			Wiktionary
 Maltese_TWO	Maltese	malt1254	mlt	TWO	żewġ	zɛwʧ	z ɛ w ʧ	zɛwt͡ʃ	TWO			Wiktionary
 ModernStandardArabic_THREE	Modern Standard Arabic	stan1318	arb	THREE	θalāθa	θalaːθa	θ a l aː θ a	θalāθa	THREE			Wiktionary
@@ -519,7 +519,7 @@ SudaneseArabic_THREE	Sudanese Arabic	suda1236	apd	THREE	talɑ̄tɑ	talɑːtɑ	t 
 ChadianArabic_THREE	Chadian Arabic	chad1249	shu	THREE	talāta	talaːta	t a l aː t a	talāta	THREE			Wiktionary
 TunisianArabic_THREE	Tunisian Arabic	tuni1259	aeb	THREE	θlāθa	θlaːθa	θ l aː θ a	θlāθa	THREE			Wiktionary
 MoroccanArabic_THREE	Moroccan Arabic	moro1292	ary	THREE	tlatɑ	tlatɑ	t l a t ɑ	tlatɑ	THREE			Wiktionary
-HassaniyaArabic_THREE	Hassaniya Arabic	hass1238	mey	THREE	θ̬lāθ̬a	θ̬̬laːθ̬̬a	θ ̬ ̬ l aː θ ̬ ̬ a	θ̬lāθ̬a	THREE			Wiktionary
+HassaniyaArabic_THREE	Hassaniya Arabic	hass1238	mey	THREE	θ̬lāθ̬a	θ̬laːθ̬a	θ̬ l aː θ̬ a	θ̬lāθ̬a	THREE			Wiktionary
 Maltese_THREE	Maltese	malt1254	mlt	THREE	tlieta	tlɪːtɐ	t l ɪː t ɐ	ˈtlɪː.ta	THREE			Wiktionary
 ModernStandardArabic_FOUR	Modern Standard Arabic	stan1318	arb	FOUR	ʔarbaʕa	ʔarbaʕa	ʔ a r b a ʕ a	ʔarbaʕa	FOUR			Wiktionary
 NajdiArabic_FOUR	Najdi Arabic	najd1235	ars	FOUR	ʔarbaʕ	ʔarbaʕ	ʔ a r b a ʕ	ʔarbaʕ	FOUR			Wiktionary
@@ -530,7 +530,7 @@ NorthMesopotamianArabic_FOUR	North Mesopotamian Arabic	mosu1235	ayp	FOUR	ūbaʕ	
 SanaaniArabic_FOUR	Sanaani Arabic	sana1295	ayn	FOUR	ʔɑrbɑʕɑh	ʔɑrbɑʕɑh	ʔ ɑ r b ɑ ʕ ɑ h	ʔɑrbɑʕɑh	FOUR			Wiktionary
 DhofariArabic_FOUR	Dhofari Arabic	dhof1235	adf	FOUR	arbaʕa	arbaʕa	a r b a ʕ a	arbaʕa	FOUR			Wiktionary
 CypriotArabic_FOUR	Cypriot Arabic	cypr1248	acy	FOUR	árpăʕa	arpʌʕa	a r p ʌ ʕ a	árpăʕa	FOUR			Wiktionary
-EgyptianArabic_FOUR	Egyptian Arabic	egyp1253	arz	FOUR	ɑrbɑʕɑ	ɑrbɑʕ̞ɑ	ɑ r b ɑ ʕ ̞ ɑ	ɑrbɑʕɑ	FOUR			Wiktionary
+EgyptianArabic_FOUR	Egyptian Arabic	egyp1253	arz	FOUR	ɑrbɑʕɑ	ɑrbɑʕ̞ɑ	ɑ r b ɑ ʕ̞ ɑ	ɑrbɑʕɑ	FOUR			Wiktionary
 SudaneseArabic_FOUR	Sudanese Arabic	suda1236	apd	FOUR	ɑrbɑʕɑ	ɑrbɑʕɑ	ɑ r b ɑ ʕ ɑ	ɑrbɑʕɑ	FOUR			Wiktionary
 ChadianArabic_FOUR	Chadian Arabic	chad1249	shu	FOUR	arba	arba	a r b a	arba	FOUR			Wiktionary
 TunisianArabic_FOUR	Tunisian Arabic	tuni1259	aeb	FOUR	rbʕā	rbʕaː	r b ʕ aː	rbʕā	FOUR			Wiktionary
@@ -606,7 +606,7 @@ SanaaniArabic_WIDE	Sanaani Arabic	sana1295	ayn	WIDE	wāsiʕ	waːsiʕ	w aː s i �
 DhofariArabic_WIDE	Dhofari Arabic	dhof1235	adf	WIDE	wāseʕ	waːsɛʕ	w aː s ɛ ʕ	wāseʕ	WIDE			Wiktionary
 DhofariArabic_WIDE	Dhofari Arabic	dhof1235	adf	WIDE	ʕɑrīð	ʕɑriːð	ʕ ɑ r iː ð	ʕɑrīð	WIDE			Wiktionary
 CypriotArabic_WIDE	Cypriot Arabic	cypr1248	acy	WIDE	fsīʕi	fsiːʕi	f s iː ʕ i	fsīʕi	WIDE			Wiktionary
-EgyptianArabic_WIDE	Egyptian Arabic	egyp1253	arz	WIDE	wāseʕ	waːsɛʕ̞	w aː s ɛ ʕ ̞	wāseʕ	WIDE			Wiktionary
+EgyptianArabic_WIDE	Egyptian Arabic	egyp1253	arz	WIDE	wāseʕ	waːsɛʕ̞	w aː s ɛ ʕ̞	wāseʕ	WIDE			Wiktionary
 SudaneseArabic_WIDE	Sudanese Arabic	suda1236	apd	WIDE	wɑ̄sɑʕ	wɑːsɑʕ	w ɑː s ɑ ʕ	wɑ̄sɑʕ	WIDE			Wiktionary
 ChadianArabic_WIDE	Chadian Arabic	chad1249	shu	WIDE	wasī	wasiː	w a s iː	wasī	WIDE			Wiktionary
 TunisianArabic_WIDE	Tunisian Arabic	tuni1259	aeb	WIDE	wāseʕ	waːsɛʕ	w aː s ɛ ʕ	wāseʕ	WIDE			Wiktionary
@@ -654,7 +654,7 @@ SudaneseArabic_HEAVY	Sudanese Arabic	suda1236	apd	HEAVY	tɑgīl	tɑɢiːl	t ɑ �
 ChadianArabic_HEAVY	Chadian Arabic	chad1249	shu	HEAVY	tɑgīl	tɑɡiːl	t ɑ ɡ iː l	tɑgīl	HEAVY			Wiktionary
 TunisianArabic_HEAVY	Tunisian Arabic	tuni1259	aeb	HEAVY	θqīl	θqiːl	θ q iː l	θqīl	HEAVY			Wiktionary
 MoroccanArabic_HEAVY	Moroccan Arabic	moro1292	ary	HEAVY	tqil	tqil	t q i l	tqil	HEAVY			Wiktionary
-HassaniyaArabic_HEAVY	Hassaniya Arabic	hass1238	mey	HEAVY	əθ̬gīl	əθ̬̬ɡiːl	ə θ ̬ ̬ ɡ iː l	əθ̬gīl	HEAVY			Wiktionary
+HassaniyaArabic_HEAVY	Hassaniya Arabic	hass1238	mey	HEAVY	əθ̬gīl	əθ̬ɡiːl	ə θ̬ ɡ iː l	əθ̬gīl	HEAVY			Wiktionary
 Maltese_HEAVY	Maltese	malt1254	mlt	HEAVY	tqil	tʔiːl	t ʔ iː l	tʔiːl	HEAVY			Wiktionary
 ModernStandardArabic_SMALL	Modern Standard Arabic	stan1318	arb	SMALL	ṣɑġīr	sˤɑɣiːr	sˤ ɑ ɣ iː r	ṣɑġīr	SMALL			Wiktionary
 NajdiArabic_SMALL	Najdi Arabic	najd1235	ars	SMALL	ṣuġēr	sˤuɣɛːr	sˤ u ɣ ɛː r	ṣuġēr	SMALL			Wiktionary
@@ -701,7 +701,7 @@ MoroccanArabic_SHORT	Moroccan Arabic	moro1292	ary	SHORT	qṣiṛ	qsˤirˤ	q sˤ 
 HassaniyaArabic_SHORT	Hassaniya Arabic	hass1238	mey	SHORT	gṣayyǝr	ɡsˤajjər	ɡ sˤ a j j ə r	gṣayyǝr	SHORT			Wiktionary
 Maltese_SHORT	Maltese	malt1254	mlt	SHORT	qasir	ʔɐsiːr	ʔ ɐ s iː r	ʔaˈsiːr	SHORT			Wiktionary
 ModernStandardArabic_NARROW	Modern Standard Arabic	stan1318	arb	NARROW	ḍɑyyiq	dˤɑjjiq	dˤ ɑ j j i q	ḍɑyyiq	NARROW			Wiktionary
-NajdiArabic_NARROW	Najdi Arabic	najd1235	ars	NARROW	ð̣əyyid͡z	ðˤəjjid͡z	ðˤ ə j j i d͡z	ð̣əyyid͡z	NARROW			Wiktionary
+NajdiArabic_NARROW	Najdi Arabic	najd1235	ars	NARROW	ð̣əyyid͡z	ðˤəjjiʣ	ðˤ ə j j i ʣ	ð̣əyyid͡z	NARROW			Wiktionary
 NajdiArabic_NARROW	Najdi Arabic	najd1235	ars	NARROW	ð̣əyyig	ðˤəjjiɡ	ðˤ ə j j i ɡ	ð̣əyyig	NARROW			Wiktionary
 NajdiArabic_NARROW	Najdi Arabic	najd1235	ars	NARROW	ṣəxīf	sˤəxiːf	sˤ ə x iː f	ṣəxīf	NARROW			Wiktionary
 GulfArabic_NARROW	Gulf Arabic	gulf1241	afb	NARROW	ṣexīf	sˤɛxiːf	sˤ ɛ x iː f	ṣexīf	NARROW			Wiktionary
@@ -740,7 +740,7 @@ DhofariArabic_THIN	Dhofari Arabic	dhof1235	adf	THIN	ħaṭīṭ	ħatˤiːtˤ	ħ 
 DhofariArabic_THIN	Dhofari Arabic	dhof1235	adf	THIN	gašūf	ɡaʃuːf	ɡ a ʃ uː f	gašūf	THIN			Wiktionary
 CypriotArabic_THIN	Cypriot Arabic	cypr1248	acy	THIN	mǎʕaer	mʌʕaɛr	m ʌ ʕ a ɛ r	mǎʕaer	THIN			Wiktionary
 CypriotArabic_THIN	Cypriot Arabic	cypr1248	acy	THIN	θkīk	θkiːk	θ k iː k	θkīk	THIN			Wiktionary
-EgyptianArabic_THIN	Egyptian Arabic	egyp1253	arz	THIN	rofɑyyɑʕ	rɔfɑjjɑʕ̞	r ɔ f ɑ j j ɑ ʕ ̞	rofɑyyɑʕ	THIN			Wiktionary
+EgyptianArabic_THIN	Egyptian Arabic	egyp1253	arz	THIN	rofɑyyɑʕ	rɔfɑjjɑʕ̞	r ɔ f ɑ j j ɑ ʕ̞	rofɑyyɑʕ	THIN			Wiktionary
 EgyptianArabic_THIN	Egyptian Arabic	egyp1253	arz	THIN	neħīf	nɛħiːf	n ɛ ħ iː f	neħīf	THIN			Wiktionary
 SudaneseArabic_THIN	Sudanese Arabic	suda1236	apd	THIN	rigeyyig	riɢɛjjiɢ	r i ɢ ɛ j j i ɢ	rigeyyig	THIN			Wiktionary
 SudaneseArabic_THIN	Sudanese Arabic	suda1236	apd	THIN	naħīf	naħiːf	n a ħ iː f	naħīf	THIN			Wiktionary
@@ -864,7 +864,7 @@ SanaaniArabic_CHILD (YOUNG HUMAN)	Sanaani Arabic	sana1295	ayn	CHILD (YOUNG HUMAN
 DhofariArabic_CHILD (YOUNG HUMAN)	Dhofari Arabic	dhof1235	adf	CHILD (YOUNG HUMAN)	gāhal	ɡaːhal	ɡ aː h a l	gāhal	CHILD (YOUNG HUMAN)			Wiktionary
 CypriotArabic_CHILD (YOUNG HUMAN)	Cypriot Arabic	cypr1248	acy	CHILD (YOUNG HUMAN)	morós	mɔros	m ɔ r o s	morós	CHILD (YOUNG HUMAN)			Wiktionary
 CypriotArabic_CHILD (YOUNG HUMAN)	Cypriot Arabic	cypr1248	acy	CHILD (YOUNG HUMAN)	vilt	vilt	v i l t	vilt	CHILD (YOUNG HUMAN)			Wiktionary
-EgyptianArabic_CHILD (YOUNG HUMAN)	Egyptian Arabic	egyp1253	arz	CHILD (YOUNG HUMAN)	ʕayyel	ʕ̞ajjɛl	ʕ ̞ a j j ɛ l	ʕayyel	CHILD (YOUNG HUMAN)			Wiktionary
+EgyptianArabic_CHILD (YOUNG HUMAN)	Egyptian Arabic	egyp1253	arz	CHILD (YOUNG HUMAN)	ʕayyel	ʕ̞ajjɛl	ʕ̞ a j j ɛ l	ʕayyel	CHILD (YOUNG HUMAN)			Wiktionary
 EgyptianArabic_CHILD (YOUNG HUMAN)	Egyptian Arabic	egyp1253	arz	CHILD (YOUNG HUMAN)	ṭefl	tˤɛfl	tˤ ɛ f l	ṭefl	CHILD (YOUNG HUMAN)			Wiktionary
 SudaneseArabic_CHILD (YOUNG HUMAN)	Sudanese Arabic	suda1236	apd	CHILD (YOUNG HUMAN)	šāfiʕ	ʃaːfiʕ	ʃ aː f i ʕ	šāfiʕ	CHILD (YOUNG HUMAN)			Wiktionary
 SudaneseArabic_CHILD (YOUNG HUMAN)	Sudanese Arabic	suda1236	apd	CHILD (YOUNG HUMAN)	ğanna	ɡʲanna	ɡʲ a n n a	ğanna	CHILD (YOUNG HUMAN)			Wiktionary
@@ -968,7 +968,7 @@ LevantineArabic_FATHER	Levantine Arabic	nort3139	apc	FATHER	bey-	bɛj	b ɛ j	bey
 IraqiArabic_FATHER	Iraqi Arabic	meso1252	acm	FATHER	abū-	abuː	a b uː	abū-	FATHER			Wiktionary
 IraqiArabic_FATHER	Iraqi Arabic	meso1252	acm	FATHER	abb	abb	a b b	abb	FATHER			Wiktionary
 NorthMesopotamianArabic_FATHER	North Mesopotamian Arabic	mosu1235	ayp	FATHER	ăbō-	ʌbɔː	ʌ b ɔː	ăbō-	FATHER			Wiktionary
-NorthMesopotamianArabic_FATHER	North Mesopotamian Arabic	mosu1235	ayp	FATHER	ˀabb	ˀabb	ˀ a b b	ˀabb	FATHER			Wiktionary
+NorthMesopotamianArabic_FATHER	North Mesopotamian Arabic	mosu1235	ayp	FATHER	ˀabb	ʔabb	ʔ a b b	ˀabb	FATHER			Wiktionary
 SanaaniArabic_FATHER	Sanaani Arabic	sana1295	ayn	FATHER	ʔabb	ʔabb	ʔ a b b	ʔabb	FATHER			Wiktionary
 SanaaniArabic_FATHER	Sanaani Arabic	sana1295	ayn	FATHER	ʔabū-	ʔabuː	ʔ a b uː	ʔabū-	FATHER			Wiktionary
 DhofariArabic_FATHER	Dhofari Arabic	dhof1235	adf	FATHER	ōb	ɔːb	ɔː b	ōb	FATHER			Wiktionary
@@ -1044,7 +1044,7 @@ IraqiArabic_BIRD	Iraqi Arabic	meso1252	acm	BIRD	ʕaṣfūr	ʢasˤfuːr	ʢ a sˤ 
 NorthMesopotamianArabic_BIRD	North Mesopotamian Arabic	mosu1235	ayp	BIRD	ṭɑyġ	tˤɑjɣ	tˤ ɑ j ɣ	ṭɑyġ	BIRD			Wiktionary
 SanaaniArabic_BIRD	Sanaani Arabic	sana1295	ayn	BIRD	ṭɑ̄yir	tˤɑːjir	tˤ ɑː j i r	ṭɑ̄yir	BIRD			Wiktionary
 DhofariArabic_BIRD	Dhofari Arabic	dhof1235	adf	BIRD	ðʕār	ðʕaːr	ð ʕ aː r	ðʕār	BIRD			Wiktionary
-EgyptianArabic_BIRD	Egyptian Arabic	egyp1253	arz	BIRD	ʕɑsfūrɑ	ʕ̞ɑsfuːrɑ	ʕ ̞ ɑ s f uː r ɑ	ʕɑsfūrɑ	BIRD			Wiktionary
+EgyptianArabic_BIRD	Egyptian Arabic	egyp1253	arz	BIRD	ʕɑsfūrɑ	ʕ̞ɑsfuːrɑ	ʕ̞ ɑ s f uː r ɑ	ʕɑsfūrɑ	BIRD			Wiktionary
 EgyptianArabic_BIRD	Egyptian Arabic	egyp1253	arz	BIRD	ṭēr	tˤɛːr	tˤ ɛː r	ṭēr	BIRD			Wiktionary
 SudaneseArabic_BIRD	Sudanese Arabic	suda1236	apd	BIRD	ṭēr	tˤɛːr	tˤ ɛː r	ṭēr	BIRD			Wiktionary
 SudaneseArabic_BIRD	Sudanese Arabic	suda1236	apd	BIRD	ʕasfūr	ʕasfuːr	ʕ a s f uː r	ʕasfūr	BIRD			Wiktionary
@@ -1110,7 +1110,7 @@ SanaaniArabic_SNAKE	Sanaani Arabic	sana1295	ayn	SNAKE	ħanaš	ħanaʃ	ħ a n a �
 DhofariArabic_SNAKE	Dhofari Arabic	dhof1235	adf	SNAKE	ħanīš	ħaniːʃ	ħ a n iː ʃ	ħanīš	SNAKE			Wiktionary
 DhofariArabic_SNAKE	Dhofari Arabic	dhof1235	adf	SNAKE	ṣell	sˤɛll	sˤ ɛ l l	ṣell	SNAKE			Wiktionary
 CypriotArabic_SNAKE	Cypriot Arabic	cypr1248	acy	SNAKE	ʕɑfɑ	ʕɑfɑ	ʕ ɑ f ɑ	ʕɑfɑ	SNAKE			Wiktionary
-EgyptianArabic_SNAKE	Egyptian Arabic	egyp1253	arz	SNAKE	teʕbān	tɛʕ̞baːn	t ɛ ʕ ̞ b aː n	teʕbān	SNAKE			Wiktionary
+EgyptianArabic_SNAKE	Egyptian Arabic	egyp1253	arz	SNAKE	teʕbān	tɛʕ̞baːn	t ɛ ʕ̞ b aː n	teʕbān	SNAKE			Wiktionary
 SudaneseArabic_SNAKE	Sudanese Arabic	suda1236	apd	SNAKE	θuʕbɑ̄n	θuʕbɑːn	θ u ʕ b ɑː n	θuʕbɑ̄n	SNAKE			Wiktionary
 SudaneseArabic_SNAKE	Sudanese Arabic	suda1236	apd	SNAKE	dɑbīb	dɑbiːb	d ɑ b iː b	dɑbīb	SNAKE			Wiktionary
 ChadianArabic_SNAKE	Chadian Arabic	chad1249	shu	SNAKE	dābi	daːbi	d aː b i	dābi	SNAKE			Wiktionary
@@ -1184,7 +1184,7 @@ ModernStandardArabic_STICK	Modern Standard Arabic	stan1318	arb	STICK	ʕaṣɑ̄	
 ModernStandardArabic_STICK	Modern Standard Arabic	stan1318	arb	STICK	ʕūd	ʕuːd	ʕ uː d	ʕūd	STICK			Wiktionary
 ModernStandardArabic_STICK	Modern Standard Arabic	stan1318	arb	STICK	ħaṭɑb	ħatˤɑb	ħ a tˤ ɑ b	ħaṭɑb	STICK			Wiktionary
 NajdiArabic_STICK	Najdi Arabic	najd1235	ars	STICK	ʕɑṣɑ	ʕɑsˤɑ	ʕ ɑ sˤ ɑ	ʕɑṣɑ	STICK			Wiktionary
-NajdiArabic_STICK	Najdi Arabic	najd1235	ars	STICK	məd͡zlāb	məd͡zlaːb	m ə d͡z l aː b	məd͡zlāb	STICK			Wiktionary
+NajdiArabic_STICK	Najdi Arabic	najd1235	ars	STICK	məd͡zlāb	məʣlaːb	m ə ʣ l aː b	məd͡zlāb	STICK			Wiktionary
 NajdiArabic_STICK	Najdi Arabic	najd1235	ars	STICK	mɘglāb	məɡlaːb	m ə ɡ l aː b	mɘglāb	STICK			Wiktionary
 GulfArabic_STICK	Gulf Arabic	gulf1241	afb	STICK	ʕūd	ʕuːd	ʕ uː d	ʕūd	STICK			Wiktionary
 GulfArabic_STICK	Gulf Arabic	gulf1241	afb	STICK	ʕačwɑ	ʕaʧwɑ	ʕ a ʧ w ɑ	ʕačwɑ	STICK			Wiktionary
@@ -1201,7 +1201,7 @@ DhofariArabic_STICK	Dhofari Arabic	dhof1235	adf	STICK	qubb	qubb	q u b b	qubb	STI
 DhofariArabic_STICK	Dhofari Arabic	dhof1235	adf	STICK	marqūṣ	marquːsˤ	m a r q uː sˤ	marqūṣ	STICK			Wiktionary
 DhofariArabic_STICK	Dhofari Arabic	dhof1235	adf	STICK	bākūra	baːkuːra	b aː k uː r a	bākūra	STICK			Wiktionary
 CypriotArabic_STICK	Cypriot Arabic	cypr1248	acy	STICK	ʕɑssɑ	ʕɑssɑ	ʕ ɑ s s ɑ	ʕɑssɑ	STICK			Wiktionary
-EgyptianArabic_STICK	Egyptian Arabic	egyp1253	arz	STICK	ʕɑṣɑ̄yɑ	ʕ̞ɑsˤɑːjɑ	ʕ ̞ ɑ sˤ ɑː j ɑ	ʕɑṣɑ̄yɑ	STICK			Wiktionary
+EgyptianArabic_STICK	Egyptian Arabic	egyp1253	arz	STICK	ʕɑṣɑ̄yɑ	ʕ̞ɑsˤɑːjɑ	ʕ̞ ɑ sˤ ɑː j ɑ	ʕɑṣɑ̄yɑ	STICK			Wiktionary
 SudaneseArabic_STICK	Sudanese Arabic	suda1236	apd	STICK	ʕɑṣɑ	ʕɑsˤɑ	ʕ ɑ sˤ ɑ	ʕɑṣɑ	STICK			Wiktionary
 ChadianArabic_STICK	Chadian Arabic	chad1249	shu	STICK	hatab	hatab	h a t a b	hatab	STICK			Wiktionary
 ChadianArabic_STICK	Chadian Arabic	chad1249	shu	STICK	ʔasāya	ʔasaːja	ʔ a s aː j a	ʔasāya	STICK			Wiktionary
@@ -1236,7 +1236,7 @@ MoroccanArabic_FRUIT	Moroccan Arabic	moro1292	ary	FRUIT	dessiġ	dɛssiɣ	d ɛ s 
 MoroccanArabic_FRUIT	Moroccan Arabic	moro1292	ary	FRUIT	ġəllɑ	ɣəllɑ	ɣ ə l l ɑ	ġəllɑ	FRUIT			Wiktionary
 MoroccanArabic_FRUIT	Moroccan Arabic	moro1292	ary	FRUIT	fakyɑ	fakjɑ	f a k j ɑ	fakyɑ	FRUIT			Wiktionary
 HassaniyaArabic_FRUIT	Hassaniya Arabic	hass1238	mey	FRUIT	ləħdaž	ləħdaʒ	l ə ħ d a ʒ	ləħdaž	FRUIT			Wiktionary
-HassaniyaArabic_FRUIT	Hassaniya Arabic	hass1238	mey	FRUIT	θ̬ămra	θ̬̬ʌmra	θ ̬ ̬ ʌ m r a	θ̬ămra	FRUIT			Wiktionary
+HassaniyaArabic_FRUIT	Hassaniya Arabic	hass1238	mey	FRUIT	θ̬ămra	θ̬ʌmra	θ̬ ʌ m r a	θ̬ămra	FRUIT			Wiktionary
 Maltese_FRUIT	Maltese	malt1254	mlt	FRUIT	frott	frɔt	f r ɔ t	frɔt	FRUIT			Wiktionary
 ModernStandardArabic_SEED	Modern Standard Arabic	stan1318	arb	SEED	zarʕ	zarʕ	z a r ʕ	zarʕ	SEED			Wiktionary
 ModernStandardArabic_SEED	Modern Standard Arabic	stan1318	arb	SEED	ħabba	ħabba	ħ a b b a	ħabba	SEED			Wiktionary
@@ -1319,7 +1319,7 @@ IraqiArabic_BARK	Iraqi Arabic	meso1252	acm	BARK	gešer	ɡɛʃɛr	ɡ ɛ ʃ ɛ r	g
 NorthMesopotamianArabic_BARK	North Mesopotamian Arabic	mosu1235	ayp	BARK	qišiġ	qiʃiɣ	q i ʃ i ɣ	qišiġ	BARK			Wiktionary
 SanaaniArabic_BARK	Sanaani Arabic	sana1295	ayn	BARK	gišrih	ɢiʃrih	ɢ i ʃ r i h	gišrih	BARK			Wiktionary
 DhofariArabic_BARK	Dhofari Arabic	dhof1235	adf	BARK	qišara	qiʃara	q i ʃ a r a	qišara	BARK			Wiktionary
-EgyptianArabic_BARK	Egyptian Arabic	egyp1253	arz	BARK	gedʕ	ɡɛdʕ̞	ɡ ɛ d ʕ ̞	gedʕ	BARK			Wiktionary
+EgyptianArabic_BARK	Egyptian Arabic	egyp1253	arz	BARK	gedʕ	ɡɛdʕ̞	ɡ ɛ d ʕ̞	gedʕ	BARK			Wiktionary
 SudaneseArabic_BARK	Sudanese Arabic	suda1236	apd	BARK	gišrɑ	ɢiʃrɑ	ɢ i ʃ r ɑ	gišrɑ	BARK			Wiktionary
 SudaneseArabic_BARK	Sudanese Arabic	suda1236	apd	BARK	girf	ɢirf	ɢ i r f	girf	BARK			Wiktionary
 ChadianArabic_BARK	Chadian Arabic	chad1249	shu	BARK	girf	ɡirf	ɡ i r f	girf	BARK			Wiktionary
@@ -1459,7 +1459,7 @@ IraqiArabic_BONE	Iraqi Arabic	meso1252	acm	BONE	čaʕab	ʧaʢab	ʧ a ʢ a b	ča�
 NorthMesopotamianArabic_BONE	North Mesopotamian Arabic	mosu1235	ayp	BONE	ʕăð̣im	ʕʌðˤim	ʕ ʌ ðˤ i m	ʕăð̣im	BONE			Wiktionary
 SanaaniArabic_BONE	Sanaani Arabic	sana1295	ayn	BONE	ʕuð̣mih	ʕuðˤmih	ʕ u ðˤ m i h	ʕuð̣mih	BONE			Wiktionary
 DhofariArabic_BONE	Dhofari Arabic	dhof1235	adf	BONE	ʕɑð̣im	ʕɑðˤim	ʕ ɑ ðˤ i m	ʕɑð̣im	BONE			Wiktionary
-EgyptianArabic_BONE	Egyptian Arabic	egyp1253	arz	BONE	ʕɑḍm	ʕ̞ɑdˤm	ʕ ̞ ɑ dˤ m	ʕɑḍm	BONE			Wiktionary
+EgyptianArabic_BONE	Egyptian Arabic	egyp1253	arz	BONE	ʕɑḍm	ʕ̞ɑdˤm	ʕ̞ ɑ dˤ m	ʕɑḍm	BONE			Wiktionary
 SudaneseArabic_BONE	Sudanese Arabic	suda1236	apd	BONE	ʕɑḍm	ʕɑdˤm	ʕ ɑ dˤ m	ʕɑḍm	BONE			Wiktionary
 ChadianArabic_BONE	Chadian Arabic	chad1249	shu	BONE	ʔadem	ʔadɛm	ʔ a d ɛ m	ʔadem	BONE			Wiktionary
 TunisianArabic_BONE	Tunisian Arabic	tuni1259	aeb	BONE	ʕð̣am	ʕðˤam	ʕ ðˤ a m	ʕð̣am	BONE			Wiktionary
@@ -1513,7 +1513,7 @@ HassaniyaArabic_EGG	Hassaniya Arabic	hass1238	mey	EGG	bayð̣ɑ	bajðˤɑ	b a j 
 Maltese_EGG	Maltese	malt1254	mlt	EGG	bajda	bɐjdɐ	b ɐ j d ɐ	ˈbaj.da	EGG			Wiktionary
 ModernStandardArabic_HORN (ANATOMY)	Modern Standard Arabic	stan1318	arb	HORN (ANATOMY)	qɑrn	qɑrn	q ɑ r n	qɑrn	HORN (ANATOMY)			Wiktionary
 NajdiArabic_HORN (ANATOMY)	Najdi Arabic	najd1235	ars	HORN (ANATOMY)	garn	ɡarn	ɡ a r n	garn	HORN (ANATOMY)			Wiktionary
-NajdiArabic_HORN (ANATOMY)	Najdi Arabic	najd1235	ars	HORN (ANATOMY)	d͡zarn	d͡zarn	d͡z a r n	d͡zarn	HORN (ANATOMY)			Wiktionary
+NajdiArabic_HORN (ANATOMY)	Najdi Arabic	najd1235	ars	HORN (ANATOMY)	d͡zarn	ʣarn	ʣ a r n	d͡zarn	HORN (ANATOMY)			Wiktionary
 GulfArabic_HORN (ANATOMY)	Gulf Arabic	gulf1241	afb	HORN (ANATOMY)	gɑrn	ɡɑrn	ɡ ɑ r n	gɑrn	HORN (ANATOMY)			Wiktionary
 LevantineArabic_HORN (ANATOMY)	Levantine Arabic	nort3139	apc	HORN (ANATOMY)	ʔɑrn	ʔɑrn	ʔ ɑ r n	ʔɑrn	HORN (ANATOMY)			Wiktionary
 IraqiArabic_HORN (ANATOMY)	Iraqi Arabic	meso1252	acm	HORN (ANATOMY)	geren	ɡɛrɛn	ɡ ɛ r ɛ n	geren	HORN (ANATOMY)			Wiktionary
@@ -1575,7 +1575,7 @@ SanaaniArabic_HAIR	Sanaani Arabic	sana1295	ayn	HAIR	šaʕr	ʃaʕr	ʃ a ʕ r	ša�
 DhofariArabic_HAIR	Dhofari Arabic	dhof1235	adf	HAIR	šaʕar	ʃaʕar	ʃ a ʕ a r	šaʕar	HAIR			Wiktionary
 CypriotArabic_HAIR	Cypriot Arabic	cypr1248	acy	HAIR	šaxvé	ʃaxve	ʃ a x v e	šaxvé	HAIR			Wiktionary
 CypriotArabic_HAIR	Cypriot Arabic	cypr1248	acy	HAIR	šaʕar	ʃaʕar	ʃ a ʕ a r	šaʕar	HAIR			Wiktionary
-EgyptianArabic_HAIR	Egyptian Arabic	egyp1253	arz	HAIR	šɑʕr	ʃɑʕ̞r	ʃ ɑ ʕ ̞ r	šɑʕr	HAIR			Wiktionary
+EgyptianArabic_HAIR	Egyptian Arabic	egyp1253	arz	HAIR	šɑʕr	ʃɑʕ̞r	ʃ ɑ ʕ̞ r	šɑʕr	HAIR			Wiktionary
 SudaneseArabic_HAIR	Sudanese Arabic	suda1236	apd	HAIR	šɑʕr	ʃɑʕr	ʃ ɑ ʕ r	šɑʕr	HAIR			Wiktionary
 ChadianArabic_HAIR	Chadian Arabic	chad1249	shu	HAIR	šaʔur	ʃaʔur	ʃ a ʔ u r	šaʔur	HAIR			Wiktionary
 TunisianArabic_HAIR	Tunisian Arabic	tuni1259	aeb	HAIR	šʕɑr	ʃʕɑr	ʃ ʕ ɑ r	šʕɑr	HAIR			Wiktionary
@@ -1633,7 +1633,7 @@ NorthMesopotamianArabic_EYE	North Mesopotamian Arabic	mosu1235	ayp	EYE	ʕĭen	ʕ
 SanaaniArabic_EYE	Sanaani Arabic	sana1295	ayn	EYE	ʕayn	ʕajn	ʕ a j n	ʕayn	EYE			Wiktionary
 DhofariArabic_EYE	Dhofari Arabic	dhof1235	adf	EYE	ʕēn	ʕɛːn	ʕ ɛː n	ʕēn	EYE			Wiktionary
 CypriotArabic_EYE	Cypriot Arabic	cypr1248	acy	EYE	ʕɑyn	ʕɑjn	ʕ ɑ j n	ʕɑyn	EYE			Wiktionary
-EgyptianArabic_EYE	Egyptian Arabic	egyp1253	arz	EYE	ʕēn	ʕ̞ɛːn	ʕ ̞ ɛː n	ʕēn	EYE			Wiktionary
+EgyptianArabic_EYE	Egyptian Arabic	egyp1253	arz	EYE	ʕēn	ʕ̞ɛːn	ʕ̞ ɛː n	ʕēn	EYE			Wiktionary
 SudaneseArabic_EYE	Sudanese Arabic	suda1236	apd	EYE	ʕayn	ʕajn	ʕ a j n	ʕayn	EYE			Wiktionary
 ChadianArabic_EYE	Chadian Arabic	chad1249	shu	EYE	ʔēn	ʔɛːn	ʔ ɛː n	ʔēn	EYE			Wiktionary
 TunisianArabic_EYE	Tunisian Arabic	tuni1259	aeb	EYE	ʕīn	ʕiːn	ʕ iː n	ʕīn	EYE			Wiktionary
@@ -1857,7 +1857,7 @@ DhofariArabic_BELLY	Dhofari Arabic	dhof1235	adf	BELLY	bɑṭɑn	bɑtˤɑn	b ɑ t
 DhofariArabic_BELLY	Dhofari Arabic	dhof1235	adf	BELLY	qɑrš	qɑrʃ	q ɑ r ʃ	qɑrš	BELLY			Wiktionary
 CypriotArabic_BELLY	Cypriot Arabic	cypr1248	acy	BELLY	pɑtn	pɑtn	p ɑ t n	pɑtn	BELLY			Wiktionary
 EgyptianArabic_BELLY	Egyptian Arabic	egyp1253	arz	BELLY	bɑṭn	bɑtˤn	b ɑ tˤ n	bɑṭn	BELLY			Wiktionary
-EgyptianArabic_BELLY	Egyptian Arabic	egyp1253	arz	BELLY	meʕda	mɛʕ̞da	m ɛ ʕ ̞ d a	meʕda	BELLY			Wiktionary
+EgyptianArabic_BELLY	Egyptian Arabic	egyp1253	arz	BELLY	meʕda	mɛʕ̞da	m ɛ ʕ̞ d a	meʕda	BELLY			Wiktionary
 SudaneseArabic_BELLY	Sudanese Arabic	suda1236	apd	BELLY	bɑṭn	bɑtˤn	b ɑ tˤ n	bɑṭn	BELLY			Wiktionary
 SudaneseArabic_BELLY	Sudanese Arabic	suda1236	apd	BELLY	karš	karʃ	k a r ʃ	karš	BELLY			Wiktionary
 ChadianArabic_BELLY	Chadian Arabic	chad1249	shu	BELLY	beten	bɛtɛn	b ɛ t ɛ n	beten	BELLY			Wiktionary
@@ -2052,8 +2052,8 @@ SanaaniArabic_BITE	Sanaani Arabic	sana1295	ayn	BITE	gaħaṣ	ɢaħasˤ	ɢ a ħ a
 SanaaniArabic_BITE	Sanaani Arabic	sana1295	ayn	BITE	lɑgɑṣ	lɑɢɑsˤ	l ɑ ɢ ɑ sˤ	lɑgɑṣ	BITE			Wiktionary
 DhofariArabic_BITE	Dhofari Arabic	dhof1235	adf	BITE	ʕɑð̣ð̣	ʕɑðˤðˤ	ʕ ɑ ðˤ ðˤ	ʕɑð̣ð̣	BITE			Wiktionary
 CypriotArabic_BITE	Cypriot Arabic	cypr1248	acy	BITE	ʕɑðð	ʕɑðð	ʕ ɑ ð ð	ʕɑðð	BITE			Wiktionary
-EgyptianArabic_BITE	Egyptian Arabic	egyp1253	arz	BITE	ʕɑdd	ʕ̞ɑdd	ʕ ̞ ɑ d d	ʕɑdd	BITE			Wiktionary
-EgyptianArabic_BITE	Egyptian Arabic	egyp1253	arz	BITE	ˀɑtɑm	ˀɑtɑm	ˀ ɑ t ɑ m	ˀɑtɑm	BITE			Wiktionary
+EgyptianArabic_BITE	Egyptian Arabic	egyp1253	arz	BITE	ʕɑdd	ʕ̞ɑdd	ʕ̞ ɑ d d	ʕɑdd	BITE			Wiktionary
+EgyptianArabic_BITE	Egyptian Arabic	egyp1253	arz	BITE	ˀɑtɑm	ʔɑtɑm	ʔ ɑ t ɑ m	ˀɑtɑm	BITE			Wiktionary
 SudaneseArabic_BITE	Sudanese Arabic	suda1236	apd	BITE	ʕɑḍḍ	ʕɑdˤdˤ	ʕ ɑ dˤ dˤ	ʕɑḍḍ	BITE			Wiktionary
 SudaneseArabic_BITE	Sudanese Arabic	suda1236	apd	BITE	lɑgɑm	lɑɢɑm	l ɑ ɢ ɑ m	lɑgɑm	BITE			Wiktionary
 ChadianArabic_BITE	Chadian Arabic	chad1249	shu	BITE	ʔadd	ʔadd	ʔ a d d	ʔadd	BITE			Wiktionary
@@ -2113,7 +2113,7 @@ LevantineArabic_VOMIT	Levantine Arabic	nort3139	apc	VOMIT	nɑṭɑʔ	nɑtˤɑʔ	
 LevantineArabic_VOMIT	Levantine Arabic	nort3139	apc	VOMIT	ražʕɑ	raʒʕɑ	r a ʒ ʕ ɑ	ražʕɑ	VOMIT			Wiktionary
 IraqiArabic_VOMIT	Iraqi Arabic	meso1252	acm	VOMIT	zɑwwɑʕ	zɑwwɑʢ	z ɑ w w ɑ ʢ	zɑwwɑʕ	VOMIT			Wiktionary
 IraqiArabic_VOMIT	Iraqi Arabic	meso1252	acm	VOMIT	tqɑyyɑ	tqɑjjɑ	t q ɑ j j ɑ	tqɑyyɑ	VOMIT			Wiktionary
-NorthMesopotamianArabic_VOMIT	North Mesopotamian Arabic	mosu1235	ayp	VOMIT	ˀəstənfăʕ	ˀəstənfʌʕ	ˀ ə s t ə n f ʌ ʕ	ˀəstənfăʕ	VOMIT			Wiktionary
+NorthMesopotamianArabic_VOMIT	North Mesopotamian Arabic	mosu1235	ayp	VOMIT	ˀəstənfăʕ	ʔəstənfʌʕ	ʔ ə s t ə n f ʌ ʕ	ˀəstənfăʕ	VOMIT			Wiktionary
 NorthMesopotamianArabic_VOMIT	North Mesopotamian Arabic	mosu1235	ayp	VOMIT	zɑwwɑʕ	zɑwwɑʕ	z ɑ w w ɑ ʕ	zɑwwɑʕ	VOMIT			Wiktionary
 NorthMesopotamianArabic_VOMIT	North Mesopotamian Arabic	mosu1235	ayp	VOMIT	tqɑyyɑ	tqɑjjɑ	t q ɑ j j ɑ	tqɑyyɑ	VOMIT			Wiktionary
 SanaaniArabic_VOMIT	Sanaani Arabic	sana1295	ayn	VOMIT	ṭɑrɑš	tˤɑrɑʃ	tˤ ɑ r ɑ ʃ	ṭɑrɑš	VOMIT			Wiktionary
@@ -2122,7 +2122,7 @@ DhofariArabic_VOMIT	Dhofari Arabic	dhof1235	adf	VOMIT	radd	radd	r a d d	radd	VOM
 DhofariArabic_VOMIT	Dhofari Arabic	dhof1235	adf	VOMIT	zɑʕ	zɑʕ	z ɑ ʕ	zɑʕ	VOMIT			Wiktionary
 CypriotArabic_VOMIT	Cypriot Arabic	cypr1248	acy	VOMIT	ražžʕé	raʒʒʕe	r a ʒ ʒ ʕ e	ražžʕé	VOMIT			Wiktionary
 CypriotArabic_VOMIT	Cypriot Arabic	cypr1248	acy	VOMIT	staffʕé	staffʕe	s t a f f ʕ e	staffʕé	VOMIT			Wiktionary
-EgyptianArabic_VOMIT	Egyptian Arabic	egyp1253	arz	VOMIT	raggaʕ	raɡɡaʕ̞	r a ɡ ɡ a ʕ ̞	raggaʕ	VOMIT			Wiktionary
+EgyptianArabic_VOMIT	Egyptian Arabic	egyp1253	arz	VOMIT	raggaʕ	raɡɡaʕ̞	r a ɡ ɡ a ʕ̞	raggaʕ	VOMIT			Wiktionary
 EgyptianArabic_VOMIT	Egyptian Arabic	egyp1253	arz	VOMIT	ṭɑrreš	tˤɑrrɛʃ	tˤ ɑ r r ɛ ʃ	ṭɑrreš	VOMIT			Wiktionary
 SudaneseArabic_VOMIT	Sudanese Arabic	suda1236	apd	VOMIT	gidif	ɢidif	ɢ i d i f	gidif	VOMIT			Wiktionary
 SudaneseArabic_VOMIT	Sudanese Arabic	suda1236	apd	VOMIT	istɑfrɑġ	istɑfrɑɣ	i s t ɑ f r ɑ ɣ	istɑfrɑġ	VOMIT			Wiktionary
@@ -2191,7 +2191,7 @@ DhofariArabic_LAUGH	Dhofari Arabic	dhof1235	adf	LAUGH	ð̣ħāk	ðˤħaːk	ðˤ 
 DhofariArabic_LAUGH	Dhofari Arabic	dhof1235	adf	LAUGH	kɑrkɑr	kɑrkɑr	k ɑ r k ɑ r	kɑrkɑr	LAUGH			Wiktionary
 CypriotArabic_LAUGH	Cypriot Arabic	cypr1248	acy	LAUGH	taxak	taxak	t a x a k	taxak	LAUGH			Wiktionary
 EgyptianArabic_LAUGH	Egyptian Arabic	egyp1253	arz	LAUGH	daħak	daħak	d a ħ a k	daħak	LAUGH			Wiktionary
-EgyptianArabic_LAUGH	Egyptian Arabic	egyp1253	arz	LAUGH	karkaʕ	karkaʕ̞	k a r k a ʕ ̞	karkaʕ	LAUGH			Wiktionary
+EgyptianArabic_LAUGH	Egyptian Arabic	egyp1253	arz	LAUGH	karkaʕ	karkaʕ̞	k a r k a ʕ̞	karkaʕ	LAUGH			Wiktionary
 SudaneseArabic_LAUGH	Sudanese Arabic	suda1236	apd	LAUGH	daħik	daħik	d a ħ i k	daħik	LAUGH			Wiktionary
 ChadianArabic_LAUGH	Chadian Arabic	chad1249	shu	LAUGH	dehek	dɛhɛk	d ɛ h ɛ k	dehek	LAUGH			Wiktionary
 TunisianArabic_LAUGH	Tunisian Arabic	tuni1259	aeb	LAUGH	ð̣ħak	ðˤħak	ðˤ ħ a k	ð̣ħak	LAUGH			Wiktionary
@@ -2230,7 +2230,7 @@ NorthMesopotamianArabic_HEAR	North Mesopotamian Arabic	mosu1235	ayp	HEAR	simiʕ	
 SanaaniArabic_HEAR	Sanaani Arabic	sana1295	ayn	HEAR	simiʕ	simiʕ	s i m i ʕ	simiʕ	HEAR			Wiktionary
 DhofariArabic_HEAR	Dhofari Arabic	dhof1235	adf	HEAR	smāʕ	smaːʕ	s m aː ʕ	smāʕ	HEAR			Wiktionary
 CypriotArabic_HEAR	Cypriot Arabic	cypr1248	acy	HEAR	simʕé	simʕe	s i m ʕ e	simʕé	HEAR			Wiktionary
-EgyptianArabic_HEAR	Egyptian Arabic	egyp1253	arz	HEAR	semeʕ	sɛmɛʕ̞	s ɛ m ɛ ʕ ̞	semeʕ	HEAR			Wiktionary
+EgyptianArabic_HEAR	Egyptian Arabic	egyp1253	arz	HEAR	semeʕ	sɛmɛʕ̞	s ɛ m ɛ ʕ̞	semeʕ	HEAR			Wiktionary
 SudaneseArabic_HEAR	Sudanese Arabic	suda1236	apd	HEAR	semeʕ	sɛmɛʕ	s ɛ m ɛ ʕ	semeʕ	HEAR			Wiktionary
 ChadianArabic_HEAR	Chadian Arabic	chad1249	shu	HEAR	semī	sɛmiː	s ɛ m iː	semī	HEAR			Wiktionary
 TunisianArabic_HEAR	Tunisian Arabic	tuni1259	aeb	HEAR	smaʕ	smaʕ	s m a ʕ	smaʕ	HEAR			Wiktionary
@@ -2259,7 +2259,7 @@ SanaaniArabic_KNOW (SOMETHING)	Sanaani Arabic	sana1295	ayn	KNOW (SOMETHING)	ʕil
 DhofariArabic_KNOW (SOMETHING)	Dhofari Arabic	dhof1235	adf	KNOW (SOMETHING)	dirā	diraː	d i r aː	dirā	KNOW (SOMETHING)			Wiktionary
 DhofariArabic_KNOW (SOMETHING)	Dhofari Arabic	dhof1235	adf	KNOW (SOMETHING)	ʕrɑ̄f	ʕrɑːf	ʕ r ɑː f	ʕrɑ̄f	KNOW (SOMETHING)			Wiktionary
 CypriotArabic_KNOW (SOMETHING)	Cypriot Arabic	cypr1248	acy	KNOW (SOMETHING)	ʕiref	ʕirɛf	ʕ i r ɛ f	ʕiref	KNOW (SOMETHING)			Wiktionary
-EgyptianArabic_KNOW (SOMETHING)	Egyptian Arabic	egyp1253	arz	KNOW (SOMETHING)	ʕeref	ʕ̞ɛrɛf	ʕ ̞ ɛ r ɛ f	ʕeref	KNOW (SOMETHING)			Wiktionary
+EgyptianArabic_KNOW (SOMETHING)	Egyptian Arabic	egyp1253	arz	KNOW (SOMETHING)	ʕeref	ʕ̞ɛrɛf	ʕ̞ ɛ r ɛ f	ʕeref	KNOW (SOMETHING)			Wiktionary
 SudaneseArabic_KNOW (SOMETHING)	Sudanese Arabic	suda1236	apd	KNOW (SOMETHING)	xeber	χɛbɛr	χ ɛ b ɛ r	xeber	KNOW (SOMETHING)			Wiktionary
 SudaneseArabic_KNOW (SOMETHING)	Sudanese Arabic	suda1236	apd	KNOW (SOMETHING)	ʕirif	ʕirif	ʕ i r i f	ʕirif	KNOW (SOMETHING)			Wiktionary
 ChadianArabic_KNOW (SOMETHING)	Chadian Arabic	chad1249	shu	KNOW (SOMETHING)	ʔaref	ʔarɛf	ʔ a r ɛ f	ʔaref	KNOW (SOMETHING)			Wiktionary
@@ -2376,7 +2376,7 @@ SanaaniArabic_BE ALIVE	Sanaani Arabic	sana1295	ayn	BE ALIVE	sakan	sakan	s a k a 
 DhofariArabic_BE ALIVE	Dhofari Arabic	dhof1235	adf	BE ALIVE	ʕāš	ʕaːʃ	ʕ aː ʃ	ʕāš	BE ALIVE			Wiktionary
 DhofariArabic_BE ALIVE	Dhofari Arabic	dhof1235	adf	BE ALIVE	bāt	baːt	b aː t	bāt	BE ALIVE			Wiktionary
 CypriotArabic_BE ALIVE	Cypriot Arabic	cypr1248	acy	BE ALIVE	ʕaš	ʕaʃ	ʕ a ʃ	ʕaš	BE ALIVE			Wiktionary
-EgyptianArabic_BE ALIVE	Egyptian Arabic	egyp1253	arz	BE ALIVE	ʕāš	ʕ̞aːʃ	ʕ ̞ aː ʃ	ʕāš	BE ALIVE			Wiktionary
+EgyptianArabic_BE ALIVE	Egyptian Arabic	egyp1253	arz	BE ALIVE	ʕāš	ʕ̞aːʃ	ʕ̞ aː ʃ	ʕāš	BE ALIVE			Wiktionary
 SudaneseArabic_BE ALIVE	Sudanese Arabic	suda1236	apd	BE ALIVE	ʕɑ̄š	ʕɑːʃ	ʕ ɑː ʃ	ʕɑ̄š	BE ALIVE			Wiktionary
 ChadianArabic_BE ALIVE	Chadian Arabic	chad1249	shu	BE ALIVE	ʔāš	ʔaːʃ	ʔ aː ʃ	ʔāš	BE ALIVE			Wiktionary
 TunisianArabic_BE ALIVE	Tunisian Arabic	tuni1259	aeb	BE ALIVE	ʕāš	ʕaːʃ	ʕ aː ʃ	ʕāš	BE ALIVE			Wiktionary
@@ -2443,8 +2443,8 @@ DhofariArabic_FIGHT	Dhofari Arabic	dhof1235	adf	FIGHT	qɑ̄ṭaʕ	qɑːtˤaʕ	q 
 DhofariArabic_FIGHT	Dhofari Arabic	dhof1235	adf	FIGHT	tqɑ̄tel	tqɑːtɛl	t q ɑː t ɛ l	tqɑ̄tel	FIGHT			Wiktionary
 CypriotArabic_FIGHT	Cypriot Arabic	cypr1248	acy	FIGHT	starrˁé	starrʕe	s t a r r ʕ e	starrˁé	FIGHT			Wiktionary
 CypriotArabic_FIGHT	Cypriot Arabic	cypr1248	acy	FIGHT	ðarep	ðarɛp	ð a r ɛ p	ðarep	FIGHT			Wiktionary
-EgyptianArabic_FIGHT	Egyptian Arabic	egyp1253	arz	FIGHT	etʕārek	ɛtʕ̞aːrɛk	ɛ t ʕ ̞ aː r ɛ k	etʕārek	FIGHT			Wiktionary
-EgyptianArabic_FIGHT	Egyptian Arabic	egyp1253	arz	FIGHT	etxāneˀ	ɛtxaːnɛˀ	ɛ t x aː n ɛˀ	etxāneˀ	FIGHT			Wiktionary
+EgyptianArabic_FIGHT	Egyptian Arabic	egyp1253	arz	FIGHT	etʕārek	ɛtʕ̞aːrɛk	ɛ t ʕ̞ aː r ɛ k	etʕārek	FIGHT			Wiktionary
+EgyptianArabic_FIGHT	Egyptian Arabic	egyp1253	arz	FIGHT	etxāneˀ	ɛtxaːnɛʔ	ɛ t x aː n ɛ ʔ	etxāneˀ	FIGHT			Wiktionary
 SudaneseArabic_FIGHT	Sudanese Arabic	suda1236	apd	FIGHT	ħārab	ħaːrab	ħ aː r a b	ħārab	FIGHT			Wiktionary
 SudaneseArabic_FIGHT	Sudanese Arabic	suda1236	apd	FIGHT	xānag	χaːnaɢ	χ aː n a ɢ	xānag	FIGHT			Wiktionary
 ChadianArabic_FIGHT	Chadian Arabic	chad1249	shu	FIGHT	dāwas	daːwas	d aː w a s	dāwas	FIGHT			Wiktionary
@@ -2510,7 +2510,7 @@ SanaaniArabic_CUT	Sanaani Arabic	sana1295	ayn	CUT	falag	falaɢ	f a l a ɢ	falag	
 DhofariArabic_CUT	Dhofari Arabic	dhof1235	adf	CUT	qɑṣṣ	qɑsˤsˤ	q ɑ sˤ sˤ	qɑṣṣ	CUT			Wiktionary
 DhofariArabic_CUT	Dhofari Arabic	dhof1235	adf	CUT	šxāṭ	ʃxaːtˤ	ʃ x aː tˤ	šxāṭ	CUT			Wiktionary
 CypriotArabic_CUT	Cypriot Arabic	cypr1248	acy	CUT	katʕā	katʕaː	k a t ʕ aː	katʕā	CUT			Wiktionary
-EgyptianArabic_CUT	Egyptian Arabic	egyp1253	arz	CUT	ʔɑtɑʕ	ʔɑtɑʕ̞	ʔ ɑ t ɑ ʕ ̞	ʔɑtɑʕ	CUT			Wiktionary
+EgyptianArabic_CUT	Egyptian Arabic	egyp1253	arz	CUT	ʔɑtɑʕ	ʔɑtɑʕ̞	ʔ ɑ t ɑ ʕ̞	ʔɑtɑʕ	CUT			Wiktionary
 SudaneseArabic_CUT	Sudanese Arabic	suda1236	apd	CUT	gɑṭɑʕ	ɢɑtˤɑʕ	ɢ ɑ tˤ ɑ ʕ	gɑṭɑʕ	CUT			Wiktionary
 ChadianArabic_CUT	Chadian Arabic	chad1249	shu	CUT	gatā	ɡataː	ɡ a t aː	gatā	CUT			Wiktionary
 TunisianArabic_CUT	Tunisian Arabic	tuni1259	aeb	CUT	qaṣ	qasˤ	q a sˤ	qaṣ	CUT			Wiktionary
@@ -2551,7 +2551,7 @@ LevantineArabic_STAB	Levantine Arabic	nort3139	apc	STAB	ṭɑʕɑn	tˤɑʕɑn	t�
 IraqiArabic_STAB	Iraqi Arabic	meso1252	acm	STAB	ṭeʕan	tˤɛʢan	tˤ ɛ ʢ a n	ṭeʕan	STAB			Wiktionary
 NorthMesopotamianArabic_STAB	North Mesopotamian Arabic	mosu1235	ayp	STAB	ṭɑʕan	tˤɑʕan	tˤ ɑ ʕ a n	ṭɑʕan	STAB			Wiktionary
 SanaaniArabic_STAB	Sanaani Arabic	sana1295	ayn	STAB	ṭɑʕɑn	tˤɑʕɑn	tˤ ɑ ʕ ɑ n	ṭɑʕɑn	STAB			Wiktionary
-EgyptianArabic_STAB	Egyptian Arabic	egyp1253	arz	STAB	ṭɑʕɑn	tˤɑʕ̞ɑn	tˤ ɑ ʕ ̞ ɑ n	ṭɑʕɑn	STAB			Wiktionary
+EgyptianArabic_STAB	Egyptian Arabic	egyp1253	arz	STAB	ṭɑʕɑn	tˤɑʕ̞ɑn	tˤ ɑ ʕ̞ ɑ n	ṭɑʕɑn	STAB			Wiktionary
 SudaneseArabic_STAB	Sudanese Arabic	suda1236	apd	STAB	ṭɑʕɑn	tˤɑʕɑn	tˤ ɑ ʕ ɑ n	ṭɑʕɑn	STAB			Wiktionary
 ChadianArabic_STAB	Chadian Arabic	chad1249	shu	STAB	taʔan	taʔan	t a ʔ a n	taʔan	STAB			Wiktionary
 TunisianArabic_STAB	Tunisian Arabic	tuni1259	aeb	STAB	dġar	dɣar	d ɣ a r	dġar	STAB			Wiktionary
@@ -2614,7 +2614,7 @@ DhofariArabic_SWIM	Dhofari Arabic	dhof1235	adf	SWIM	sbāħ	sbaːħ	s b aː ħ	sb
 DhofariArabic_SWIM	Dhofari Arabic	dhof1235	adf	SWIM	ʕām	ʕaːm	ʕ aː m	ʕām	SWIM			Wiktionary
 CypriotArabic_SWIM	Cypriot Arabic	cypr1248	acy	SWIM	tăʕássel	tʌʕassɛl	t ʌ ʕ a s s ɛ l	tăʕássel	SWIM			Wiktionary
 CypriotArabic_SWIM	Cypriot Arabic	cypr1248	acy	SWIM	kalimpa	kalimpa	k a l i m p a	kalimpa	SWIM			Wiktionary
-EgyptianArabic_SWIM	Egyptian Arabic	egyp1253	arz	SWIM	ʕām	ʕ̞aːm	ʕ ̞ aː m	ʕām	SWIM			Wiktionary
+EgyptianArabic_SWIM	Egyptian Arabic	egyp1253	arz	SWIM	ʕām	ʕ̞aːm	ʕ̞ aː m	ʕām	SWIM			Wiktionary
 SudaneseArabic_SWIM	Sudanese Arabic	suda1236	apd	SWIM	ʕām	ʕaːm	ʕ aː m	ʕām	SWIM			Wiktionary
 ChadianArabic_SWIM	Chadian Arabic	chad1249	shu	SWIM	ʔarrad fi l-alme	ʔarrad fi lalmɛ	ʔ a r r a d   f i   l a l m ɛ	ʔarrad fi l-alme	SWIM			Wiktionary
 TunisianArabic_SWIM	Tunisian Arabic	tuni1259	aeb	SWIM	ʕām	ʕaːm	ʕ aː m	ʕām	SWIM			Wiktionary
@@ -2719,7 +2719,7 @@ SanaaniArabic_SIT	Sanaani Arabic	sana1295	ayn	SIT	ğalas	ɡʲalas	ɡʲ a l a s	�
 DhofariArabic_SIT	Dhofari Arabic	dhof1235	adf	SIT	glās	ɡlaːs	ɡ l aː s	glās	SIT			Wiktionary
 DhofariArabic_SIT	Dhofari Arabic	dhof1235	adf	SIT	stawqaʕ	stawqaʕ	s t a w q a ʕ	stawqaʕ	SIT			Wiktionary
 CypriotArabic_SIT	Cypriot Arabic	cypr1248	acy	SIT	kaʕa	kaʕa	k a ʕ a	kaʕa	SIT			Wiktionary
-EgyptianArabic_SIT	Egyptian Arabic	egyp1253	arz	SIT	aʕad	aʕ̞ad	a ʕ ̞ a d	aʕad	SIT			Wiktionary
+EgyptianArabic_SIT	Egyptian Arabic	egyp1253	arz	SIT	aʕad	aʕ̞ad	a ʕ̞ a d	aʕad	SIT			Wiktionary
 SudaneseArabic_SIT	Sudanese Arabic	suda1236	apd	SIT	gaʕad	ɢaʕad	ɢ a ʕ a d	gaʕad	SIT			Wiktionary
 SudaneseArabic_SIT	Sudanese Arabic	suda1236	apd	SIT	kannab	kannab	k a n n a b	kannab	SIT			Wiktionary
 ChadianArabic_SIT	Chadian Arabic	chad1249	shu	SIT	gaʔad	ɡaʔad	ɡ a ʔ a d	gaʔad	SIT			Wiktionary
@@ -2785,7 +2785,7 @@ SanaaniArabic_FALL	Sanaani Arabic	sana1295	ayn	FALL	ṭɑ̄ħ	tˤɑːħ	tˤ ɑː
 DhofariArabic_FALL	Dhofari Arabic	dhof1235	adf	FALL	ṭɑ̄ħ	tˤɑːħ	tˤ ɑː ħ	ṭɑ̄ħ	FALL			Wiktionary
 DhofariArabic_FALL	Dhofari Arabic	dhof1235	adf	FALL	sqɑ̄ṭ	sqɑːtˤ	s q ɑː tˤ	sqɑ̄ṭ	FALL			Wiktionary
 CypriotArabic_FALL	Cypriot Arabic	cypr1248	acy	FALL	vɑkʕɑ	vɑkʕɑ	v ɑ k ʕ ɑ	vɑkʕɑ	FALL			Wiktionary
-EgyptianArabic_FALL	Egyptian Arabic	egyp1253	arz	FALL	weʔeʕ	wɛʔɛʕ̞	w ɛ ʔ ɛ ʕ ̞	weʔeʕ	FALL			Wiktionary
+EgyptianArabic_FALL	Egyptian Arabic	egyp1253	arz	FALL	weʔeʕ	wɛʔɛʕ̞	w ɛ ʔ ɛ ʕ̞	weʔeʕ	FALL			Wiktionary
 SudaneseArabic_FALL	Sudanese Arabic	suda1236	apd	FALL	wagaʕ	waɢaʕ	w a ɢ a ʕ	wagaʕ	FALL			Wiktionary
 ChadianArabic_FALL	Chadian Arabic	chad1249	shu	FALL	wagā	waɡaː	w a ɡ aː	wagā	FALL			Wiktionary
 ChadianArabic_FALL	Chadian Arabic	chad1249	shu	FALL	daffag	daffaɡ	d a f f a ɡ	daffag	FALL			Wiktionary
@@ -2845,7 +2845,7 @@ SanaaniArabic_SQUEEZE	Sanaani Arabic	sana1295	ayn	SQUEEZE	falħaṣ	falħasˤ	f 
 SanaaniArabic_SQUEEZE	Sanaani Arabic	sana1295	ayn	SQUEEZE	ð̣ɑġɑṭ	ðˤɑɣɑtˤ	ðˤ ɑ ɣ ɑ tˤ	ð̣ɑġɑṭ	SQUEEZE			Wiktionary
 CypriotArabic_SQUEEZE	Cypriot Arabic	cypr1248	acy	SQUEEZE	palas	palas	p a l a s	palas	SQUEEZE			Wiktionary
 CypriotArabic_SQUEEZE	Cypriot Arabic	cypr1248	acy	SQUEEZE	ˁiser	ʕisɛr	ʕ i s ɛ r	ˁiser	SQUEEZE			Wiktionary
-EgyptianArabic_SQUEEZE	Egyptian Arabic	egyp1253	arz	SQUEEZE	ʕɑṣɑr	ʕ̞ɑsˤɑr	ʕ ̞ ɑ sˤ ɑ r	ʕɑṣɑr	SQUEEZE			Wiktionary
+EgyptianArabic_SQUEEZE	Egyptian Arabic	egyp1253	arz	SQUEEZE	ʕɑṣɑr	ʕ̞ɑsˤɑr	ʕ̞ ɑ sˤ ɑ r	ʕɑṣɑr	SQUEEZE			Wiktionary
 SudaneseArabic_SQUEEZE	Sudanese Arabic	suda1236	apd	SQUEEZE	ʕɑṣɑr	ʕɑsˤɑr	ʕ ɑ sˤ ɑ r	ʕɑṣɑr	SQUEEZE			Wiktionary
 ChadianArabic_SQUEEZE	Chadian Arabic	chad1249	shu	SQUEEZE	hakk	hakk	h a k k	hakk	SQUEEZE			Wiktionary
 TunisianArabic_SQUEEZE	Tunisian Arabic	tuni1259	aeb	SQUEEZE	ʕṣar	ʕsˤar	ʕ sˤ a r	ʕṣar	SQUEEZE			Wiktionary
@@ -2871,7 +2871,7 @@ DhofariArabic_RUB	Dhofari Arabic	dhof1235	adf	RUB	ʕrāk	ʕraːk	ʕ r aː k	ʕr�
 DhofariArabic_RUB	Dhofari Arabic	dhof1235	adf	RUB	dukk	dukk	d u k k	dukk	RUB			Wiktionary
 CypriotArabic_RUB	Cypriot Arabic	cypr1248	acy	RUB	xaff	xaff	x a f f	xaff	RUB			Wiktionary
 CypriotArabic_RUB	Cypriot Arabic	cypr1248	acy	RUB	maˁak	maʕak	m a ʕ a k	maˁak	RUB			Wiktionary
-EgyptianArabic_RUB	Egyptian Arabic	egyp1253	arz	RUB	daʕak	daʕ̞ak	d a ʕ ̞ a k	daʕak	RUB			Wiktionary
+EgyptianArabic_RUB	Egyptian Arabic	egyp1253	arz	RUB	daʕak	daʕ̞ak	d a ʕ̞ a k	daʕak	RUB			Wiktionary
 EgyptianArabic_RUB	Egyptian Arabic	egyp1253	arz	RUB	farak	farak	f a r a k	farak	RUB			Wiktionary
 SudaneseArabic_RUB	Sudanese Arabic	suda1236	apd	RUB	ʕɑṣṣɑr	ʕɑsˤsˤɑr	ʕ ɑ sˤ sˤ ɑ r	ʕɑṣṣɑr	RUB			Wiktionary
 ChadianArabic_RUB	Chadian Arabic	chad1249	shu	RUB	farak	farak	f a r a k	farak	RUB			Wiktionary
@@ -3059,7 +3059,7 @@ SanaaniArabic_COUNT	Sanaani Arabic	sana1295	ayn	COUNT	ʕadd	ʕadd	ʕ a d d	ʕadd
 SanaaniArabic_COUNT	Sanaani Arabic	sana1295	ayn	COUNT	ħasab	ħasab	ħ a s a b	ħasab	COUNT			Wiktionary
 DhofariArabic_COUNT	Dhofari Arabic	dhof1235	adf	COUNT	ħsāb	ħsaːb	ħ s aː b	ħsāb	COUNT			Wiktionary
 CypriotArabic_COUNT	Cypriot Arabic	cypr1248	acy	COUNT	ʕadd	ʕadd	ʕ a d d	ʕadd	COUNT			Wiktionary
-EgyptianArabic_COUNT	Egyptian Arabic	egyp1253	arz	COUNT	ʕadd	ʕ̞add	ʕ ̞ a d d	ʕadd	COUNT			Wiktionary
+EgyptianArabic_COUNT	Egyptian Arabic	egyp1253	arz	COUNT	ʕadd	ʕ̞add	ʕ̞ a d d	ʕadd	COUNT			Wiktionary
 SudaneseArabic_COUNT	Sudanese Arabic	suda1236	apd	COUNT	ʕadd	ʕadd	ʕ a d d	ʕadd	COUNT			Wiktionary
 SudaneseArabic_COUNT	Sudanese Arabic	suda1236	apd	COUNT	ħasab	ħasab	ħ a s a b	ħasab	COUNT			Wiktionary
 ChadianArabic_COUNT	Chadian Arabic	chad1249	shu	COUNT	hasab	hasab	h a s a b	hasab	COUNT			Wiktionary
@@ -3117,7 +3117,7 @@ SanaaniArabic_PLAY	Sanaani Arabic	sana1295	ayn	PLAY	liʕib	liʕib	l i ʕ i b	li�
 DhofariArabic_PLAY	Dhofari Arabic	dhof1235	adf	PLAY	lʕāb	lʕaːb	l ʕ aː b	lʕāb	PLAY			Wiktionary
 DhofariArabic_PLAY	Dhofari Arabic	dhof1235	adf	PLAY	zarr	zarr	z a r r	zarr	PLAY			Wiktionary
 CypriotArabic_PLAY	Cypriot Arabic	cypr1248	acy	PLAY	leʕep	lɛʕɛp	l ɛ ʕ ɛ p	leʕep	PLAY			Wiktionary
-EgyptianArabic_PLAY	Egyptian Arabic	egyp1253	arz	PLAY	leʕeb	lɛʕ̞ɛb	l ɛ ʕ ̞ ɛ b	leʕeb	PLAY			Wiktionary
+EgyptianArabic_PLAY	Egyptian Arabic	egyp1253	arz	PLAY	leʕeb	lɛʕ̞ɛb	l ɛ ʕ̞ ɛ b	leʕeb	PLAY			Wiktionary
 SudaneseArabic_PLAY	Sudanese Arabic	suda1236	apd	PLAY	laʕab	laʕab	l a ʕ a b	laʕab	PLAY			Wiktionary
 ChadianArabic_PLAY	Chadian Arabic	chad1249	shu	PLAY	leʔeb	lɛʔɛb	l ɛ ʔ ɛ b	leʔeb	PLAY			Wiktionary
 TunisianArabic_PLAY	Tunisian Arabic	tuni1259	aeb	PLAY	lʕab	lʕab	l ʕ a b	lʕab	PLAY			Wiktionary
@@ -3135,7 +3135,7 @@ IraqiArabic_FLOAT	Iraqi Arabic	meso1252	acm	FLOAT	sɑyyɑs	sɑjjɑs	s ɑ j j ɑ 
 NorthMesopotamianArabic_FLOAT	North Mesopotamian Arabic	mosu1235	ayp	FLOAT	ṭăfā	tˤʌfaː	tˤ ʌ f aː	ṭăfā	FLOAT			Wiktionary
 SanaaniArabic_FLOAT	Sanaani Arabic	sana1295	ayn	FLOAT	ʕām	ʕaːm	ʕ aː m	ʕām	FLOAT			Wiktionary
 DhofariArabic_FLOAT	Dhofari Arabic	dhof1235	adf	FLOAT	ʕām	ʕaːm	ʕ aː m	ʕām	FLOAT			Wiktionary
-EgyptianArabic_FLOAT	Egyptian Arabic	egyp1253	arz	FLOAT	ʕām	ʕ̞aːm	ʕ ̞ aː m	ʕām	FLOAT			Wiktionary
+EgyptianArabic_FLOAT	Egyptian Arabic	egyp1253	arz	FLOAT	ʕām	ʕ̞aːm	ʕ̞ aː m	ʕām	FLOAT			Wiktionary
 SudaneseArabic_FLOAT	Sudanese Arabic	suda1236	apd	FLOAT	ʕām	ʕaːm	ʕ aː m	ʕām	FLOAT			Wiktionary
 ChadianArabic_FLOAT	Chadian Arabic	chad1249	shu	FLOAT	ʔām	ʔaːm	ʔ aː m	ʔām	FLOAT			Wiktionary
 ChadianArabic_FLOAT	Chadian Arabic	chad1249	shu	FLOAT	ʔarrad fi rās l-alme	ʔarrad fi raːs lalmɛ	ʔ a r r a d   f i   r aː s   l a l m ɛ	ʔarrad fi rās l-alme	FLOAT			Wiktionary
@@ -3189,7 +3189,7 @@ MoroccanArabic_FREEZE	Moroccan Arabic	moro1292	ary	FREEZE	ttəlləž	ttəlləʒ	
 HassaniyaArabic_FREEZE	Hassaniya Arabic	hass1238	mey	FREEZE	glaṣ	ɡlasˤ	ɡ l a sˤ	glaṣ	FREEZE			Wiktionary
 HassaniyaArabic_FREEZE	Hassaniya Arabic	hass1238	mey	FREEZE	žmăd	ʒmʌd	ʒ m ʌ d	žmăd	FREEZE			Wiktionary
 Maltese_FREEZE	Maltese	malt1254	mlt	FREEZE	għaqad	ɐːʔɐt	ɐː ʔ ɐ t	ˈaː.ʔat	FREEZE			Wiktionary
-Maltese_FREEZE	Maltese	malt1254	mlt	FREEZE	inġazza	ɪnʤɐtʦɐ	ɪ n ʤ ɐ t ʦ ɐ	ɪnˈd͡ʒat.t͡sa	FREEZE			Wiktionary
+Maltese_FREEZE	Maltese	malt1254	mlt	FREEZE	inġazza	ɪnʤɐʦʦɐ	ɪ n ʤ ɐ ʦ ʦ ɐ	ɪnˈd͡ʒat.t͡sa	FREEZE			Wiktionary
 ModernStandardArabic_SWELL	Modern Standard Arabic	stan1318	arb	SWELL	intafaxa	intafaxa	i n t a f a x a	intafaxa	SWELL			Wiktionary
 ModernStandardArabic_SWELL	Modern Standard Arabic	stan1318	arb	SWELL	warima	warima	w a r i m a	warima	SWELL			Wiktionary
 GulfArabic_SWELL	Gulf Arabic	gulf1241	afb	SWELL	ntefax	ntɛfax	n t ɛ f a x	ntefax	SWELL			Wiktionary
@@ -3451,7 +3451,7 @@ SanaaniArabic_DUST	Sanaani Arabic	sana1295	ayn	DUST	ġbɑ̄r	ɣbɑːr	ɣ b ɑː 
 DhofariArabic_DUST	Dhofari Arabic	dhof1235	adf	DUST	ġubār	ɣubaːr	ɣ u b aː r	ġubār	DUST			Wiktionary
 DhofariArabic_DUST	Dhofari Arabic	dhof1235	adf	DUST	ṣqārīt	sˤqaːriːt	sˤ q aː r iː t	ṣqārīt	DUST			Wiktionary
 CypriotArabic_DUST	Cypriot Arabic	cypr1248	acy	DUST	trap	trap	t r a p	trap	DUST			Wiktionary
-EgyptianArabic_DUST	Egyptian Arabic	egyp1253	arz	DUST	ʕofɑ̄rɑ	ʕ̞ɔfɑːrɑ	ʕ ̞ ɔ f ɑː r ɑ	ʕofɑ̄rɑ	DUST			Wiktionary
+EgyptianArabic_DUST	Egyptian Arabic	egyp1253	arz	DUST	ʕofɑ̄rɑ	ʕ̞ɔfɑːrɑ	ʕ̞ ɔ f ɑː r ɑ	ʕofɑ̄rɑ	DUST			Wiktionary
 EgyptianArabic_DUST	Egyptian Arabic	egyp1253	arz	DUST	torɑ̄b	tɔrɑːb	t ɔ r ɑː b	torɑ̄b	DUST			Wiktionary
 SudaneseArabic_DUST	Sudanese Arabic	suda1236	apd	DUST	ʕağāğ	ʕaɡʲaːɡʲ	ʕ a ɡʲ aː ɡʲ	ʕağāğ	DUST			Wiktionary
 SudaneseArabic_DUST	Sudanese Arabic	suda1236	apd	DUST	turɑ̄b	turɑːb	t u r ɑː b	turɑ̄b	DUST			Wiktionary
@@ -3940,7 +3940,7 @@ SanaaniArabic_COLD	Sanaani Arabic	sana1295	ayn	COLD	bārid	baːrid	b aː r i d	b
 DhofariArabic_COLD	Dhofari Arabic	dhof1235	adf	COLD	bārid	baːrid	b aː r i d	bārid	COLD			Wiktionary
 DhofariArabic_COLD	Dhofari Arabic	dhof1235	adf	COLD	karaʕ	karaʕ	k a r a ʕ	karaʕ	COLD			Wiktionary
 CypriotArabic_COLD	Cypriot Arabic	cypr1248	acy	COLD	peret	pɛrɛt	p ɛ r ɛ t	peret	COLD			Wiktionary
-EgyptianArabic_COLD	Egyptian Arabic	egyp1253	arz	COLD	sāʔeʕ	saːʔɛʕ̞	s aː ʔ ɛ ʕ ̞	sāʔeʕ	COLD			Wiktionary
+EgyptianArabic_COLD	Egyptian Arabic	egyp1253	arz	COLD	sāʔeʕ	saːʔɛʕ̞	s aː ʔ ɛ ʕ̞	sāʔeʕ	COLD			Wiktionary
 SudaneseArabic_COLD	Sudanese Arabic	suda1236	apd	COLD	bārid	baːrid	b aː r i d	bārid	COLD			Wiktionary
 ChadianArabic_COLD	Chadian Arabic	chad1249	shu	COLD	bārid	baːrid	b aː r i d	bārid	COLD			Wiktionary
 TunisianArabic_COLD	Tunisian Arabic	tuni1259	aeb	COLD	bārid	baːrid	b aː r i d	bārid	COLD			Wiktionary
@@ -4017,7 +4017,7 @@ DhofariArabic_OLD	Dhofari Arabic	dhof1235	adf	OLD	šēb	ʃɛːb	ʃ ɛː b	šēb	
 DhofariArabic_OLD	Dhofari Arabic	dhof1235	adf	OLD	dāθir	daːθir	d aː θ i r	dāθir	OLD			Wiktionary
 CypriotArabic_OLD	Cypriot Arabic	cypr1248	acy	OLD	ʕɑtīk	ʕɑtiːk	ʕ ɑ t iː k	ʕɑtīk	OLD			Wiktionary
 EgyptianArabic_OLD	Egyptian Arabic	egyp1253	arz	OLD	ʔadīm	ʔadiːm	ʔ a d iː m	ʔadīm	OLD			Wiktionary
-EgyptianArabic_OLD	Egyptian Arabic	egyp1253	arz	OLD	ʕagūz	ʕ̞aɡuːz	ʕ ̞ a ɡ uː z	ʕagūz	OLD			Wiktionary
+EgyptianArabic_OLD	Egyptian Arabic	egyp1253	arz	OLD	ʕagūz	ʕ̞aɡuːz	ʕ̞ a ɡ uː z	ʕagūz	OLD			Wiktionary
 SudaneseArabic_OLD	Sudanese Arabic	suda1236	apd	OLD	gadīm	ɢadiːm	ɢ a d iː m	gadīm	OLD			Wiktionary
 SudaneseArabic_OLD	Sudanese Arabic	suda1236	apd	OLD	ʕaṭīg	ʕatˤiːɢ	ʕ a tˤ iː ɢ	ʕaṭīg	OLD			Wiktionary
 SudaneseArabic_OLD	Sudanese Arabic	suda1236	apd	OLD	ʕağūz	ʕaɡʲuːz	ʕ a ɡʲ uː z	ʕağūz	OLD			Wiktionary
@@ -4111,7 +4111,7 @@ SanaaniArabic_ROTTEN	Sanaani Arabic	sana1295	ayn	ROTTEN	sawwas	sawwas	s a w w a 
 DhofariArabic_ROTTEN	Dhofari Arabic	dhof1235	adf	ROTTEN	dhent	dhɛnt	d h ɛ n t	dhent	ROTTEN			Wiktionary
 DhofariArabic_ROTTEN	Dhofari Arabic	dhof1235	adf	ROTTEN	zaham	zaham	z a h a m	zaham	ROTTEN			Wiktionary
 CypriotArabic_ROTTEN	Cypriot Arabic	cypr1248	acy	ROTTEN	ʕefen	ʕɛfɛn	ʕ ɛ f ɛ n	ʕefen	ROTTEN			Wiktionary
-EgyptianArabic_ROTTEN	Egyptian Arabic	egyp1253	arz	ROTTEN	meʕaffen	mɛʕ̞affɛn	m ɛ ʕ ̞ a f f ɛ n	meʕaffen	ROTTEN			Wiktionary
+EgyptianArabic_ROTTEN	Egyptian Arabic	egyp1253	arz	ROTTEN	meʕaffen	mɛʕ̞affɛn	m ɛ ʕ̞ a f f ɛ n	meʕaffen	ROTTEN			Wiktionary
 SudaneseArabic_ROTTEN	Sudanese Arabic	suda1236	apd	ROTTEN	maxawrɑn	maχawrɑn	m a χ a w r ɑ n	maxawrɑn	ROTTEN			Wiktionary
 SudaneseArabic_ROTTEN	Sudanese Arabic	suda1236	apd	ROTTEN	ʕafen	ʕafɛn	ʕ a f ɛ n	ʕafen	ROTTEN			Wiktionary
 ChadianArabic_ROTTEN	Chadian Arabic	chad1249	shu	ROTTEN	ʕafin	ʕafin	ʕ a f i n	ʕafin	ROTTEN			Wiktionary
@@ -4155,8 +4155,8 @@ SanaaniArabic_STRAIGHT	Sanaani Arabic	sana1295	ayn	STRAIGHT	sāni	saːni	s aː n
 DhofariArabic_STRAIGHT	Dhofari Arabic	dhof1235	adf	STRAIGHT	sīdɑ	siːdɑ	s iː d ɑ	sīdɑ	STRAIGHT			Wiktionary
 DhofariArabic_STRAIGHT	Dhofari Arabic	dhof1235	adf	STRAIGHT	ṭūl	tˤuːl	tˤ uː l	ṭūl	STRAIGHT			Wiktionary
 CypriotArabic_STRAIGHT	Cypriot Arabic	cypr1248	acy	STRAIGHT	iša	iʃa	i ʃ a	iša	STRAIGHT			Wiktionary
-EgyptianArabic_STRAIGHT	Egyptian Arabic	egyp1253	arz	STRAIGHT	ʕedel	ʕ̞ɛdɛl	ʕ ̞ ɛ d ɛ l	ʕedel	STRAIGHT			Wiktionary
-EgyptianArabic_STRAIGHT	Egyptian Arabic	egyp1253	arz	STRAIGHT	ʕɑlɑṭūl	ʕ̞ɑlɑtˤuːl	ʕ ̞ ɑ l ɑ tˤ uː l	ʕɑlɑṭūl	STRAIGHT			Wiktionary
+EgyptianArabic_STRAIGHT	Egyptian Arabic	egyp1253	arz	STRAIGHT	ʕedel	ʕ̞ɛdɛl	ʕ̞ ɛ d ɛ l	ʕedel	STRAIGHT			Wiktionary
+EgyptianArabic_STRAIGHT	Egyptian Arabic	egyp1253	arz	STRAIGHT	ʕɑlɑṭūl	ʕ̞ɑlɑtˤuːl	ʕ̞ ɑ l ɑ tˤ uː l	ʕɑlɑṭūl	STRAIGHT			Wiktionary
 SudaneseArabic_STRAIGHT	Sudanese Arabic	suda1236	apd	STRAIGHT	ʕadīl	ʕadiːl	ʕ a d iː l	ʕadīl	STRAIGHT			Wiktionary
 SudaneseArabic_STRAIGHT	Sudanese Arabic	suda1236	apd	STRAIGHT	ṭɑwwɑ̄lī	tˤɑwwɑːliː	tˤ ɑ w w ɑː l iː	ṭɑwwɑ̄lī	STRAIGHT			Wiktionary
 ChadianArabic_STRAIGHT	Chadian Arabic	chad1249	shu	STRAIGHT	ʔadīl	ʔadiːl	ʔ a d iː l	ʔadīl	STRAIGHT			Wiktionary
@@ -4229,7 +4229,7 @@ NorthMesopotamianArabic_SMOOTH	North Mesopotamian Arabic	mosu1235	ayp	SMOOTH	nī
 SanaaniArabic_SMOOTH	Sanaani Arabic	sana1295	ayn	SMOOTH	tāsi	taːsi	t aː s i	tāsi	SMOOTH			Wiktionary
 SanaaniArabic_SMOOTH	Sanaani Arabic	sana1295	ayn	SMOOTH	rāxī	raːχiː	r aː χ iː	rāxī	SMOOTH			Wiktionary
 DhofariArabic_SMOOTH	Dhofari Arabic	dhof1235	adf	SMOOTH	sabṭ	sabtˤ	s a b tˤ	sabṭ	SMOOTH			Wiktionary
-EgyptianArabic_SMOOTH	Egyptian Arabic	egyp1253	arz	SMOOTH	nāʕem	naːʕ̞ɛm	n aː ʕ ̞ ɛ m	nāʕem	SMOOTH			Wiktionary
+EgyptianArabic_SMOOTH	Egyptian Arabic	egyp1253	arz	SMOOTH	nāʕem	naːʕ̞ɛm	n aː ʕ̞ ɛ m	nāʕem	SMOOTH			Wiktionary
 SudaneseArabic_SMOOTH	Sudanese Arabic	suda1236	apd	SMOOTH	amlas	amlas	a m l a s	amlas	SMOOTH			Wiktionary
 SudaneseArabic_SMOOTH	Sudanese Arabic	suda1236	apd	SMOOTH	mārin	maːrin	m aː r i n	mārin	SMOOTH			Wiktionary
 ChadianArabic_SMOOTH	Chadian Arabic	chad1249	shu	SMOOTH	mārin	maːrin	m aː r i n	mārin	SMOOTH			Wiktionary
@@ -4287,7 +4287,7 @@ Maltese_DRY	Maltese	malt1254	mlt	DRY	niexef	nɪːʃɛf	n ɪː ʃ ɛ f	ˈnɪːʃ�
 Maltese_DRY	Maltese	malt1254	mlt	DRY	xott	ʃɔt	ʃ ɔ t	ʃɔt	DRY			Wiktionary
 ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	ṣɑħīħ	sˤɑħiːħ	sˤ ɑ ħ iː ħ	ṣɑħīħ	CORRECT (RIGHT)			Wiktionary
 ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	tamāma	tamaːma	t a m aː m a	tamāma	CORRECT (RIGHT)			Wiktionary
-ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	ṣɑ̄ˀib	sˤɑːˀib	sˤ ɑːˀ i b	ṣɑ̄ˀib	CORRECT (RIGHT)			Wiktionary
+ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	ṣɑ̄ˀib	sˤɑːʔib	sˤ ɑː ʔ i b	ṣɑ̄ˀib	CORRECT (RIGHT)			Wiktionary
 ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	mɑḍbūṭ	mɑdˤbuːtˤ	m ɑ dˤ b uː tˤ	mɑḍbūṭ	CORRECT (RIGHT)			Wiktionary
 ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	ħaqqɑ	ħaqqɑ	ħ a q q ɑ	ħaqqɑ	CORRECT (RIGHT)			Wiktionary
 ModernStandardArabic_CORRECT (RIGHT)	Modern Standard Arabic	stan1318	arb	CORRECT (RIGHT)	ʕādil	ʕaːdil	ʕ aː d i l	ʕādil	CORRECT (RIGHT)			Wiktionary
@@ -4320,7 +4320,7 @@ Maltese_CORRECT (RIGHT)	Maltese	malt1254	mlt	CORRECT (RIGHT)	sewwa	sɛwwɐ	s ɛ 
 ModernStandardArabic_NEAR	Modern Standard Arabic	stan1318	arb	NEAR	qɑrīb	qɑriːb	q ɑ r iː b	qɑrīb	NEAR			Wiktionary
 ModernStandardArabic_NEAR	Modern Standard Arabic	stan1318	arb	NEAR	bi-qurb	biqurb	b i q u r b	bi-qurb	NEAR			Wiktionary
 ModernStandardArabic_NEAR	Modern Standard Arabic	stan1318	arb	NEAR	bi-jānib	biʤaːnib	b i ʤ aː n i b	bi-jānib	NEAR			Wiktionary
-NajdiArabic_NEAR	Najdi Arabic	najd1235	ars	NEAR	d͡zərīb	d͡zəriːb	d͡z ə r iː b	d͡zərīb	NEAR			Wiktionary
+NajdiArabic_NEAR	Najdi Arabic	najd1235	ars	NEAR	d͡zərīb	ʣəriːb	ʣ ə r iː b	d͡zərīb	NEAR			Wiktionary
 NajdiArabic_NEAR	Najdi Arabic	najd1235	ars	NEAR	wzān	wzaːn	w z aː n	wzān	NEAR			Wiktionary
 NajdiArabic_NEAR	Najdi Arabic	najd1235	ars	NEAR	ʕənd	ʕənd	ʕ ə n d	ʕənd	NEAR			Wiktionary
 GulfArabic_NEAR	Gulf Arabic	gulf1241	afb	NEAR	gaṛīb	ɡarˤiːb	ɡ a rˤ iː b	gaṛīb	NEAR			Wiktionary
@@ -4359,7 +4359,7 @@ SanaaniArabic_FAR	Sanaani Arabic	sana1295	ayn	FAR	biʕīd	biʕiːd	b i ʕ iː d	
 DhofariArabic_FAR	Dhofari Arabic	dhof1235	adf	FAR	baʕūd	baʕuːd	b a ʕ uː d	baʕūd	FAR			Wiktionary
 DhofariArabic_FAR	Dhofari Arabic	dhof1235	adf	FAR	natara	natara	n a t a r a	natara	FAR			Wiktionary
 CypriotArabic_FAR	Cypriot Arabic	cypr1248	acy	FAR	pĕʕīt	pɛʕiːt	p ɛ ʕ iː t	pĕʕīt	FAR			Wiktionary
-EgyptianArabic_FAR	Egyptian Arabic	egyp1253	arz	FAR	beʕīd	bɛʕ̞iːd	b ɛ ʕ ̞ iː d	beʕīd	FAR			Wiktionary
+EgyptianArabic_FAR	Egyptian Arabic	egyp1253	arz	FAR	beʕīd	bɛʕ̞iːd	b ɛ ʕ̞ iː d	beʕīd	FAR			Wiktionary
 SudaneseArabic_FAR	Sudanese Arabic	suda1236	apd	FAR	baʕīd	baʕiːd	b a ʕ iː d	baʕīd	FAR			Wiktionary
 SudaneseArabic_FAR	Sudanese Arabic	suda1236	apd	FAR	ġɑ̄di	ɣɑːdi	ɣ ɑː d i	ġɑ̄di	FAR			Wiktionary
 ChadianArabic_FAR	Chadian Arabic	chad1249	shu	FAR	beʔīd	bɛʔiːd	b ɛ ʔ iː d	beʔīd	FAR			Wiktionary
@@ -4417,7 +4417,7 @@ SanaaniArabic_AT	Sanaani Arabic	sana1295	ayn	AT	ʕind	ʕind	ʕ i n d	ʕind	AT			
 SanaaniArabic_AT	Sanaani Arabic	sana1295	ayn	AT	fī	fiː	f iː	fī	AT			Wiktionary
 DhofariArabic_AT	Dhofari Arabic	dhof1235	adf	AT	ʕind	ʕind	ʕ i n d	ʕind	AT			Wiktionary
 CypriotArabic_AT	Cypriot Arabic	cypr1248	acy	AT	ʕint	ʕint	ʕ i n t	ʕint	AT			Wiktionary
-EgyptianArabic_AT	Egyptian Arabic	egyp1253	arz	AT	ʕand	ʕ̞and	ʕ ̞ a n d	ʕand	AT			Wiktionary
+EgyptianArabic_AT	Egyptian Arabic	egyp1253	arz	AT	ʕand	ʕ̞and	ʕ̞ a n d	ʕand	AT			Wiktionary
 SudaneseArabic_AT	Sudanese Arabic	suda1236	apd	AT	ʕind	ʕind	ʕ i n d	ʕind	AT			Wiktionary
 ChadianArabic_AT	Chadian Arabic	chad1249	shu	AT	fī	fiː	f iː	fī	AT			Wiktionary
 ChadianArabic_AT	Chadian Arabic	chad1249	shu	AT	fōg	fɔːɡ	f ɔː ɡ	fōg	AT			Wiktionary
@@ -4463,7 +4463,7 @@ SanaaniArabic_WITH	Sanaani Arabic	sana1295	ayn	WITH	miʕ	miʕ	m i ʕ	miʕ	WITH		
 DhofariArabic_WITH	Dhofari Arabic	dhof1235	adf	WITH	maʕ	maʕ	m a ʕ	maʕ	WITH			Wiktionary
 DhofariArabic_WITH	Dhofari Arabic	dhof1235	adf	WITH	bi	bi	b i	bi	WITH			Wiktionary
 CypriotArabic_WITH	Cypriot Arabic	cypr1248	acy	WITH	maʕ-	maʕ	m a ʕ	maʕ-	WITH			Wiktionary
-EgyptianArabic_WITH	Egyptian Arabic	egyp1253	arz	WITH	maʕa	maʕ̞a	m a ʕ ̞ a	maʕa	WITH			Wiktionary
+EgyptianArabic_WITH	Egyptian Arabic	egyp1253	arz	WITH	maʕa	maʕ̞a	m a ʕ̞ a	maʕa	WITH			Wiktionary
 EgyptianArabic_WITH	Egyptian Arabic	egyp1253	arz	WITH	be	bɛ	b ɛ	be	WITH			Wiktionary
 EgyptianArabic_WITH	Egyptian Arabic	egyp1253	arz	WITH	wayya	wajja	w a j j a	wayya	WITH			Wiktionary
 SudaneseArabic_WITH	Sudanese Arabic	suda1236	apd	WITH	maʕa	maʕa	m a ʕ a	maʕa	WITH			Wiktionary
@@ -4554,7 +4554,7 @@ SanaaniArabic_BECAUSE	Sanaani Arabic	sana1295	ayn	BECAUSE	min mayd	min majd	m i 
 DhofariArabic_BECAUSE	Dhofari Arabic	dhof1235	adf	BECAUSE	ʕašān	ʕaʃaːn	ʕ a ʃ aː n	ʕašān	BECAUSE			Wiktionary
 CypriotArabic_BECAUSE	Cypriot Arabic	cypr1248	acy	BECAUSE	ta	ta	t a	ta	BECAUSE			Wiktionary
 CypriotArabic_BECAUSE	Cypriot Arabic	cypr1248	acy	BECAUSE	ðyotī	ðjɔtiː	ð j ɔ t iː	ðyotī	BECAUSE			Wiktionary
-EgyptianArabic_BECAUSE	Egyptian Arabic	egyp1253	arz	BECAUSE	ʕašān	ʕ̞aʃaːn	ʕ ̞ a ʃ aː n	ʕašān	BECAUSE			Wiktionary
+EgyptianArabic_BECAUSE	Egyptian Arabic	egyp1253	arz	BECAUSE	ʕašān	ʕ̞aʃaːn	ʕ̞ a ʃ aː n	ʕašān	BECAUSE			Wiktionary
 SudaneseArabic_BECAUSE	Sudanese Arabic	suda1236	apd	BECAUSE	ʔaʕšɑ̄n	ʔaʕʃɑːn	ʔ a ʕ ʃ ɑː n	ʔaʕšɑ̄n	BECAUSE			Wiktionary
 ChadianArabic_BECAUSE	Chadian Arabic	chad1249	shu	BECAUSE	fīšān	fiːʃaːn	f iː ʃ aː n	fīšān	BECAUSE			Wiktionary
 TunisianArabic_BECAUSE	Tunisian Arabic	tuni1259	aeb	BECAUSE	ʕlā xāṭer	ʕlaː xaːtˤɛr	ʕ l aː   x aː tˤ ɛ r	ʕlā xāṭer	BECAUSE			Wiktionary

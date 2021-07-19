@@ -119,18 +119,18 @@ StandardLatvian_BELLY_2	Latvian	latv1249	lav	BELLY	vēdèrs	væ̂ːdæ̌rs	v æ�
 StandardLatvian_BIG_2	Latvian	latv1249	lav	BIG	liẽls	ljɛls	l j ɛ l s	lyl-s	BIG_2	FALSE	Sinole dialect: lyl-s ~ lǐl-s {lì(e)ls} [Putniņa & Timuška 2001: 121].	KLV 1988: 40; LVP 1995: 422
 StandardLatvian_BIRD_2	Latvian	latv1249	lav	BIRD	putns	putns	p u t n s	putn-s	BIRD_2	FALSE	Sinole dialect: putn-s {putns} [Putniņa & Timuška 2001: 186-187].	KLV 1988: 428; LVP 1995: 652
 StandardLatvian_BITE_1	Latvian	latv1249	lav	BITE	kôst	kuɔ̯̂st	k u ɔ̯̂ s t	kws-t	BITE_1	FALSE		KLV 1988: 214; LVP 1995: 387
-StandardLatvian_BLACK_2	Latvian	latv1249	lav	BLACK	mèlns	mǣlns	m æ ̄ l n s	mǟln-s	BLACK_2	FALSE	Sinole dialect: mǟlː-s {mę̀lls} [Putniņa & Timuška 2001: 137].	KLV 1988: 564; LVP 1995: 448
+StandardLatvian_BLACK_2	Latvian	latv1249	lav	BLACK	mèlns	mǣlns	m ǣ l n s	mǟln-s	BLACK_2	FALSE	Sinole dialect: mǟlː-s {mę̀lls} [Putniņa & Timuška 2001: 137].	KLV 1988: 564; LVP 1995: 448
 StandardLatvian_BLOOD_2	Latvian	latv1249	lav	BLOOD	asìns	asǐns	a s ǐ n s	asǐn-s	BLOOD_2	FALSE		KLV 1988: 210; LVP 1995: 89
-StandardLatvian_BONE_1	Latvian	latv1249	lav	BONE	kaũls	kāwls	k a ̄ w l s	kāwl-s	BONE_1	FALSE	Sinole dialect: kǎwl-s {kàuls} [Putniņa & Timuška 2001: 86-87].	KLV 1988: 205-206; LVP 1995: 357
+StandardLatvian_BONE_1	Latvian	latv1249	lav	BONE	kaũls	kāwls	k ā w l s	kāwl-s	BONE_1	FALSE	Sinole dialect: kǎwl-s {kàuls} [Putniņa & Timuška 2001: 86-87].	KLV 1988: 205-206; LVP 1995: 357
 StandardLatvian_BREAST_1	Latvian	latv1249	lav	BREAST	krūts	krǔːʦ	k r ǔː ʦ	krǔːc	BREAST_1	FALSE	Used for both male and female breast. Sinole dialect: krǔc {krùts} [Putniņa & Timuška 2001: 89].	KLV 1988: 105; LVP 1995: 396
 StandardLatvian_BREAST_1	Latvian	latv1249	lav	BREAST	krūtis	krǔːtis	k r ǔː t i s	krǔːt-is	BREAST_1	FALSE	Used for both male and female breast. Sinole dialect: krǔc {krùts} [Putniņa & Timuška 2001: 89].	KLV 1988: 105; LVP 1995: 396
 StandardLatvian_BURN_1	Latvian	latv1249	lav	BURN	dedzināt	dɛʣinâːt	d ɛ ʣ i n âː t	dɛʒ-in-âː-t	BURN_1	FALSE	Distinct from dɛk-t {degt} 'to burn (intransitive)' [KLV 1988: 101; LVP 1995: 167].	KLV 1988: 132; LVP 1995: 166
 StandardLatvian_FINGERNAIL_1	Latvian	latv1249	lav	FINGERNAIL	nags	naks	n a k s	nak-s	FINGERNAIL_1	FALSE	Sinole dialect: nak-s {nags} [Putniņa & Timuška 2001: 150].	KLV 1988: 280; LVP 1995: 473
-StandardLatvian_CLOUD_2	Latvian	latv1249	lav	CLOUD	mākônis	māːkuɔ̯̂nis	m a ̄ː k u ɔ̯̂ n i s	māːk-wn-is	CLOUD_2	FALSE	The dictionary provides two terms: {mākonis} and {padebesis} [KLV 1988: 285]. Searching the parallel corpus allows to see that {padebesis} is less frequent and usually designates a black cloud, e.g. {Melns padebesis zibsnīdams un dunēdams ātri brāzās pāri debgsīm} "A black cloud, droning and throwing lightings, was quickly covering the sky" (Zenta Ērgle. Starp mums, meitenēm, runājot). Distinct from migl-a {migla} 'fog' [KLV 1988: 528]. Sinole dialect: mǎːk-wn-is {màkùnis} [Putniņa & Timuška 2001: 133].	KLV 1988: 285; LVP 1995: 435
-StandardLatvian_COLD_2	Latvian	latv1249	lav	COLD	aũksts	āwksʦ	a ̄ w k s ʦ	āwksc	COLD_2	FALSE	Sinole dialect: ǎwksc {àuksts} [Putniņa & Timuška 2001: 10].	KLV 1988: 558; LVP 1995: 110
-StandardLatvian_COME_2	Latvian	latv1249	lav	COME	atnākt	atnāːkt	a t n a ̄ː k t	at=nāːk-t	COME_2	FALSE		KLV 1988: 404; LVP 1995: 99
-StandardLatvian_DIE_1	Latvian	latv1249	lav	DIE	mir̃t	mīrt	m i ̄ r t	mīr-t	DIE_1	FALSE		KLV 1988: 539; LVP 1995: 462, 505
-StandardLatvian_DIE_1	Latvian	latv1249	lav	DIE	nòmir̃t	nuɔ̯̌mīrt	n u ɔ̯̌ m i ̄ r t	nw=mīr-t	DIE_1	FALSE		KLV 1988: 539; LVP 1995: 462, 505
+StandardLatvian_CLOUD_2	Latvian	latv1249	lav	CLOUD	mākônis	māːkuɔ̯̂nis	m āː k u ɔ̯̂ n i s	māːk-wn-is	CLOUD_2	FALSE	The dictionary provides two terms: {mākonis} and {padebesis} [KLV 1988: 285]. Searching the parallel corpus allows to see that {padebesis} is less frequent and usually designates a black cloud, e.g. {Melns padebesis zibsnīdams un dunēdams ātri brāzās pāri debgsīm} "A black cloud, droning and throwing lightings, was quickly covering the sky" (Zenta Ērgle. Starp mums, meitenēm, runājot). Distinct from migl-a {migla} 'fog' [KLV 1988: 528]. Sinole dialect: mǎːk-wn-is {màkùnis} [Putniņa & Timuška 2001: 133].	KLV 1988: 285; LVP 1995: 435
+StandardLatvian_COLD_2	Latvian	latv1249	lav	COLD	aũksts	āwksʦ	ā w k s ʦ	āwksc	COLD_2	FALSE	Sinole dialect: ǎwksc {àuksts} [Putniņa & Timuška 2001: 10].	KLV 1988: 558; LVP 1995: 110
+StandardLatvian_COME_2	Latvian	latv1249	lav	COME	atnākt	atnāːkt	a t n āː k t	at=nāːk-t	COME_2	FALSE		KLV 1988: 404; LVP 1995: 99
+StandardLatvian_DIE_1	Latvian	latv1249	lav	DIE	mir̃t	mīrt	m ī r t	mīr-t	DIE_1	FALSE		KLV 1988: 539; LVP 1995: 462, 505
+StandardLatvian_DIE_1	Latvian	latv1249	lav	DIE	nòmir̃t	nuɔ̯̌mīrt	n u ɔ̯̌ m ī r t	nw=mīr-t	DIE_1	FALSE		KLV 1988: 539; LVP 1995: 462, 505
 StandardLatvian_DOG_1	Latvian	latv1249	lav	DOG	sùns	sǔns	s ǔ n s	sǔn-s	DOG_1	FALSE		_x0015_Sinole dialect: sǔn-s {sùns} [Putniņa & Timuška 2001: 226-229]
 StandardLatvian_DRINK_1	Latvian	latv1249	lav	DRINK	dzêrt	ʣêrt	ʣ ê r t	ʒr-t	DRINK_1	FALSE		KLV 1988: 352; LVP 1995: 198
 StandardLatvian_DRY_1	Latvian	latv1249	lav	DRY	sàuss	sǎwsː	s ǎ w sː	sǎwsː	DRY_1	FALSE	Sinole dialect: sǎwsː {sàuss} [Putniņa & Timuška 2001: 202].	KLV 1988: 512; LVP 1995: 712
@@ -140,12 +140,12 @@ StandardLatvian_EAT_2	Latvian	latv1249	lav	EAT	ēst	êːst	êː s t	ːs-t	E
 StandardLatvian_EGG_2	Latvian	latv1249	lav	EGG	õla	uɔ̯la	u ɔ̯ l a	wl-a	EGG_2	FALSE	Sinole dialect: pǎwc {pàuts} 'egg / testicle' [Putniņa & Timuška 2001: 166].	KLV 1988: 579; LVP 1995: 526
 StandardLatvian_EYE_1	Latvian	latv1249	lav	EYE	acs	aʦː	a ʦː	acː	EYE_1	FALSE	Sinole dialect: acː {acs} [Putniņa & Timuška 2001: 1-2].	KLV 1988: 97; LVP 1995: 39
 StandardLatvian_FAT_2	Latvian	latv1249	lav	FAT	tàuki	tǎwki	t ǎ w k i	tǎwk-i	FAT_2	FALSE	Plurale tantum. Sinole dialect: tǎwk-i {tàuki} [Putniņa & Timuška 2001: 243].	KLV 1988: 134; LVP 1995: 793
-StandardLatvian_FEATHER_2	Latvian	latv1249	lav	FEATHER	spalva	spālva	s p a ̄ l v a	spālv-a	FEATHER_2	FALSE	Distinct from pūːk-as {pūkas} (pl.) of Slavic origin and dūːn-as {dūnas} (pl.) [KLV 1988: 430; LVP 1995: 195] of German origin, both mean 'down'. Sinole dialect: spǎlv-a {spàlva} [Putniņa & Timuška 2001: 214].	KLV 1988: 349; LVP 1995: 751
+StandardLatvian_FEATHER_2	Latvian	latv1249	lav	FEATHER	spalva	spālva	s p ā l v a	spālv-a	FEATHER_2	FALSE	Distinct from pūːk-as {pūkas} (pl.) of Slavic origin and dūːn-as {dūnas} (pl.) [KLV 1988: 430; LVP 1995: 195] of German origin, both mean 'down'. Sinole dialect: spǎlv-a {spàlva} [Putniņa & Timuška 2001: 214].	KLV 1988: 349; LVP 1995: 751
 StandardLatvian_FIRE_1	Latvian	latv1249	lav	FIRE	ugùns	uɡǔns	u ɡ ǔ n s	ugǔn-s	FIRE_1	FALSE	Sinole dialect: gǔn-s {gùns} ~ ugǔn-s {ugùns} [Putniņa & Timuška 2001: 67; 251-252].	KLV 1988: 298-299; LVP 1995: 820
 StandardLatvian_FISH_1	Latvian	latv1249	lav	FISH	zìvs	zǐws	z ǐ w s	zǐw-s	FISH_1	FALSE	Sinole dialect: zuw-s {zuvs} [Putniņa & Timuška 2001: 286].	KLV 1988: 463; LVP 1995: 870
 StandardLatvian_FLY_3	Latvian	latv1249	lav	FLY	lidôt	liduɔ̯̂t	l i d u ɔ̯̂ t	lid-w-t	FLY_3	FALSE		KLV 1988: 219; LVP 1995: 419
-StandardLatvian_FOOT_1	Latvian	latv1249	lav	FOOT	kāja	kāːja	k a ̄ː j a	kāːy-a	FOOT_1	FALSE	Polysemy: 'foot / leg'. Sinole dialect: kǎːy-a {kàja} [Putniņa & Timuška 2001: 78].	KLV 1988: 280; LVP 1995: 344
-StandardLatvian_FULL_1	Latvian	latv1249	lav	FULL	pilns	pīlns	p i ̄ l n s	pīln-s	FULL_1	FALSE	Sinole dialect: pǐlː-s {pìlls} [Putniņa & Timuška 2001: 172].	KLV 1988: 375; LVP 1995: 609
+StandardLatvian_FOOT_1	Latvian	latv1249	lav	FOOT	kāja	kāːja	k āː j a	kāːy-a	FOOT_1	FALSE	Polysemy: 'foot / leg'. Sinole dialect: kǎːy-a {kàja} [Putniņa & Timuška 2001: 78].	KLV 1988: 280; LVP 1995: 344
+StandardLatvian_FULL_1	Latvian	latv1249	lav	FULL	pilns	pīlns	p ī l n s	pīln-s	FULL_1	FALSE	Sinole dialect: pǐlː-s {pìlls} [Putniņa & Timuška 2001: 172].	KLV 1988: 375; LVP 1995: 609
 StandardLatvian_GIVE_1	Latvian	latv1249	lav	GIVE	dôt	duɔ̯̂t	d u ɔ̯̂ t	dw-t	GIVE_1	FALSE	The prefixed variant y=dw-t {ìedôt} ~ y=dw-t {iedõt} is used as well [KLV 1988: 108; LVP 1995: 276].	KLV 1988: 108; LVP 1995: 189
 StandardLatvian_GIVE_1	Latvian	latv1249	lav	GIVE	dõt	duɔ̯t	d u ɔ̯ t	dw-t	GIVE_1	FALSE	The prefixed variant y=dw-t {ìedôt} ~ y=dw-t {iedõt} is used as well [KLV 1988: 108; LVP 1995: 276].	KLV 1988: 108; LVP 1995: 189
 StandardLatvian_GOOD_2	Latvian	latv1249	lav	GOOD	labs	laps	l a p s	lap-s	GOOD_2	FALSE	Sinole dialect: lap-s {labs} [Putniņa & Timuška 2001: 110].	KLV 1988: 558; LVP 1995: 409
@@ -166,9 +166,9 @@ StandardLatvian_LIE_1	Latvian	latv1249	lav	LIE	gulēt	ɡulêːt	ɡ u l êː t	
 StandardLatvian_LIVER_2	Latvian	latv1249	lav	LIVER	aknas	aknas	a k n a s	akn-as	LIVER_2	FALSE	Plurale tantum. Sinole dialect: akn-as {aknas} [Putniņa & Timuška 2001: 5].	KLV 1988: 350; LVP 1995: 56
 StandardLatvian_LONG_2	Latvian	latv1249	lav	LONG	gàrš	ɡǎrʃ	ɡ ǎ r ʃ	gǎrš	LONG_2	FALSE	Sinole dialect: gǎrs {gàrs} [Putniņa & Timuška 2001: 60].	KLV 1988: 116; LVP 1995: 241
 StandardLatvian_LOUSE_1	Latvian	latv1249	lav	LOUSE	uts	uʦ	u ʦ	uc	LOUSE_1	FALSE	Sinole dialect: uc {uts} ~ ut-ɛ {ute}, skut-ɛl-ɛ {skutele} [Putniņa & Timuška 2001: 255-256; 209].	KLV 1988: 72; LVP 1995: 824
-StandardLatvian_MAN_1	Latvian	latv1249	lav	MAN	vīrs	vīːrs	v i ̄ː r s	vīːr-s	MAN_1	FALSE	The term vīːr-s {vīrs} is used in the meaning 'husband' as well [KLV 1988: 243].	KLV 1988: 243; LVP 1995: 857, 858
-StandardLatvian_MAN_1	Latvian	latv1249	lav	MAN	vīriẽtis	vīːrjɛtis	v i ̄ː r j ɛ t i s	vīːr-yt-is	MAN_1	FALSE	The term vīːr-s {vīrs} is used in the meaning 'husband' as well [KLV 1988: 243].	KLV 1988: 243; LVP 1995: 857, 858
-StandardLatvian_MANY_1	Latvian	latv1249	lav	MANY	daũdz	dāwʣ	d a ̄ w ʣ	dāwʒ	MANY_1	FALSE		KLV 1988: 238; LVP 1995: 162
+StandardLatvian_MAN_1	Latvian	latv1249	lav	MAN	vīrs	vīːrs	v īː r s	vīːr-s	MAN_1	FALSE	The term vīːr-s {vīrs} is used in the meaning 'husband' as well [KLV 1988: 243].	KLV 1988: 243; LVP 1995: 857, 858
+StandardLatvian_MAN_1	Latvian	latv1249	lav	MAN	vīriẽtis	vīːrjɛtis	v īː r j ɛ t i s	vīːr-yt-is	MAN_1	FALSE	The term vīːr-s {vīrs} is used in the meaning 'husband' as well [KLV 1988: 243].	KLV 1988: 243; LVP 1995: 857, 858
+StandardLatvian_MANY_1	Latvian	latv1249	lav	MANY	daũdz	dāwʣ	d ā w ʣ	dāwʒ	MANY_1	FALSE		KLV 1988: 238; LVP 1995: 162
 StandardLatvian_MEAT_1	Latvian	latv1249	lav	MEAT	gaļa	ɡaʎa	ɡ a ʎ a	gaʎ-a	MEAT_1	FALSE	Sinole dialect: gaʎ-a {gaļa} [Putniņa & Timuška 2001: 59].	KLV 1988: 245; LVP 1995: 238
 StandardLatvian_MOON_1	Latvian	latv1249	lav	MOON	mēness	mɛːnɛsː	m ɛː n ɛ sː	mːnɛsː	MOON_1	FALSE	Distinct from mːnɛs-is {mēnesis} 'month' [KLV 1988: 234; LVP 1995: 449]. Sinole dialect: mːnɛs-is {mènesis} [Putniņa & Timuška 2001: 137].	KLV 1988: 224; LVP 1995: 449
 StandardLatvian_MOUNTAIN_1	Latvian	latv1249	lav	MOUNTAIN	kalns	kâlns	k â l n s	kâln-s	MOUNTAIN_1	FALSE	Sinole dialect: kâlː-s {kalls} [Putniņa & Timuška 2001: 81-82].	KLV 1988: 101; LVP 1995: 345
@@ -180,7 +180,7 @@ StandardLatvian_NIGHT_1	Latvian	latv1249	lav	NIGHT	nakts	nakʦ	n a k ʦ	nakc	NIG
 StandardLatvian_NOSE_2	Latvian	latv1249	lav	NOSE	degùns	dæɡǔns	d æ ɡ ǔ n s	dägǔn-s	NOSE_2	FALSE	Sinole dialect: dägǔn-s {dęgùns} [Putniņa & Timuška 2001: 40].	KLV 1988: 280; LVP 1995: 167
 StandardLatvian_NOT_1	Latvian	latv1249	lav	NOT	ne	nɛ	n ɛ	nɛ	NOT_1	FALSE		KLV 1988: 266; LVP 1995: 476
 StandardLatvian_ONE_1	Latvian	latv1249	lav	ONE	viêns	vjêns	v j ê n s	vyn-s	ONE_1	FALSE	Sinole dialect: vyn-s {viêns} [Putniņa & Timuška 2001: 272].	KLV 1988: 300; LVP 1995: 853
-StandardLatvian_PERSON_-1	Latvian	latv1249	lav	PERSON	cìlvēks	ʦǐlvǣːks	ʦ ǐ l v æ ̄ː k s	cǐlvǟːk-s	PERSON_-1	TRUE	Of Slavic origin. Sinole dialect: cǐlvä̌ːk-s {cìlvę̀ks} [Putniņa & Timuška 2001: 31].	KLV 1988: 563; LVP 1995: 151
+StandardLatvian_PERSON_-1	Latvian	latv1249	lav	PERSON	cìlvēks	ʦǐlvǣːks	ʦ ǐ l v ǣː k s	cǐlvǟːk-s	PERSON_-1	TRUE	Of Slavic origin. Sinole dialect: cǐlvä̌ːk-s {cìlvę̀ks} [Putniņa & Timuška 2001: 31].	KLV 1988: 563; LVP 1995: 151
 StandardLatvian_RAIN_1	Latvian	latv1249	lav	RAIN	liêtus	ljêtus	l j ê t u s	lyt-us	RAIN_1	FALSE	Sinole dialect: lyt-s {liêts} [Putniņa & Timuška 2001: 122].	KLV 1988: 119; LVP 1995: 422
 StandardLatvian_RED_2	Latvian	latv1249	lav	RED	sar̂kàns	sârkǎns	s â r k ǎ n s	sârk-ǎn-s	RED_2	FALSE	Sinole dialect: sârk-ǎn-s {sar̂kàns} [Putniņa & Timuška 2001: 200].	KLV 1988: 207; LVP 1995: 703
 StandardLatvian_PATH OR ROAD_1	Latvian	latv1249	lav	PATH OR ROAD	cèļš	ʦěʎʃ	ʦ ě ʎ ʃ	cʎ-š	PATH OR ROAD_1	FALSE	Sinole dialect: cʎ-š {cèļš} [Putniņa & Timuška 2001: 29].	KLV 1988: 122; LVP 1995: 146
@@ -190,16 +190,16 @@ StandardLatvian_SAND_1	Latvian	latv1249	lav	SAND	smìltis	smǐltis	s m ǐ l t 
 StandardLatvian_SAY_1	Latvian	latv1249	lav	SAY	sacīt	saʦîːt	s a ʦ îː t	sac-îː-t	SAY_1	FALSE	There are two terms for 'to say': sac-îː-t {sacīt} and tyk-t {teikt}. Due to rather subtle semantic differences between the two, we have decided to include both into the list.	KLV 1988: 479; LVP 1995: 685
 StandardLatvian_SAY_2	Latvian	latv1249	lav	SAY	tèikt	tějkt	t ě j k t	tyk-t	SAY_2	FALSE		KLV 1988: 479; LVP 1995: 794
 StandardLatvian_SEE_2	Latvian	latv1249	lav	SEE	redzēt	rɛʣêːt	r ɛ ʣ êː t	rɛʒ-ː-t	SEE_2	FALSE	Distinct from skat-îːt-y-s {skatītiês} 'to look' [KLV 1988: 488; LVP 1995: 735]. Sinole dialect: rɛʒ-ː-t {redzêt} [Putniņa & Timuška 2001: 191].	KLV 1988: 58; LVP 1995: 662
-StandardLatvian_SEED_1	Latvian	latv1249	lav	SEED	sēkla	sǣːkla	s æ ̄ː k l a	sǟː-kl-a	SEED_1	FALSE	Sinole dialect: sǎː-kl-ɛ {sàkle} [Putniņa & Timuška 2001: IX].	KLV 1988: 476; LVP 1995: 717
+StandardLatvian_SEED_1	Latvian	latv1249	lav	SEED	sēkla	sǣːkla	s ǣː k l a	sǟː-kl-a	SEED_1	FALSE	Sinole dialect: sǎː-kl-ɛ {sàkle} [Putniņa & Timuška 2001: IX].	KLV 1988: 476; LVP 1995: 717
 StandardLatvian_SIT_1	Latvian	latv1249	lav	SIT	sēdēt	sêːdêːt	s êː d êː t	sːd-ː-t	SIT_1	FALSE	Distinct from ap=sːs-ty-s {apsēstiês} and nw=sːs-ty-s {nòsēstiês} 'to sit down' [KLV 1988: 477; LVP 1995: 79, 510].	KLV 1988: 478; LVP 1995: 716
 StandardLatvian_SKIN_1	Latvian	latv1249	lav	SKIN	āda	âːda	âː d a	âːd-a	SKIN_1	FALSE	Sinole dialect: âːd-a {âda} [Putniņa & Timuška 2001: 2].	KLV 1988: 196; LVP 1995: 40
 StandardLatvian_SLEEP_2	Latvian	latv1249	lav	SLEEP	gulēt	ɡulêːt	ɡ u l êː t	gul-ː-t	SLEEP_2	FALSE	Polysemy: 'to lie / to sleep'.	KLV 1988: 497-498; LVP 1995: 255
 StandardLatvian_SMALL_1	Latvian	latv1249	lav	SMALL	mazs	masː	m a sː	masː	SMALL_1	FALSE	Sinole dialect: masː {mazs} [Putniņa & Timuška 2001: 135].	KLV 1988: 227; LVP 1995: 444
-StandardLatvian_SMOKE_1	Latvian	latv1249	lav	SMOKE	dūmi	dūːmi	d u ̄ː m i	dūːm-i	SMOKE_1	FALSE	Plurale tantum. Sinole dialect: dǔːm-i {dùmi} [Putniņa & Timuška 2001: 46].	KLV 1988: 127; LVP 1995: 194
-StandardLatvian_STAND_1	Latvian	latv1249	lav	STAND	stāvēt	stāːvêːt	s t a ̄ː v êː t	stāːv-ː-t	STAND_1	FALSE	Distinct from py=cä̂l-ty-s {pìeceltiês} 'to stand up' [KLV 1988: 77; LVP 1995: 594]. Sinole dialect: stǎːv-ː-t {stàvêt} [Putniņa & Timuška 2001: 221].	KLV 1988: 507; LVP 1995: 763
+StandardLatvian_SMOKE_1	Latvian	latv1249	lav	SMOKE	dūmi	dūːmi	d ūː m i	dūːm-i	SMOKE_1	FALSE	Plurale tantum. Sinole dialect: dǔːm-i {dùmi} [Putniņa & Timuška 2001: 46].	KLV 1988: 127; LVP 1995: 194
+StandardLatvian_STAND_1	Latvian	latv1249	lav	STAND	stāvēt	stāːvêːt	s t āː v êː t	stāːv-ː-t	STAND_1	FALSE	Distinct from py=cä̂l-ty-s {pìeceltiês} 'to stand up' [KLV 1988: 77; LVP 1995: 594]. Sinole dialect: stǎːv-ː-t {stàvêt} [Putniņa & Timuška 2001: 221].	KLV 1988: 507; LVP 1995: 763
 StandardLatvian_STAR_1	Latvian	latv1249	lav	STAR	zvàigzne	zvǎjɡznɛ	z v ǎ j ɡ z n ɛ	zvǎygzn-ɛ	STAR_1	FALSE	Sinole dialect: zvǎygzn-ɛ {zvàigzne} [Putniņa & Timuška 2001: 286].	KLV 1988: 163; LVP 1995: 872
 StandardLatvian_STONE_1	Latvian	latv1249	lav	STONE	akmèns	akměns	a k m ě n s	akmn-s	STONE_1	FALSE	Sinole dialect: akmn-s {akmèns} [Putniņa & Timuška 2001: 4].	KLV 1988: 187; LVP 1995: 55
-StandardLatvian_SUN_1	Latvian	latv1249	lav	SUN	saũle	sāwlɛ	s a ̄ w l ɛ	sāwl-ɛ	SUN_1	FALSE	Sinole dialect: sǎwl-ɛ {sàule} [Putniņa & Timuška 2001: 202].	KLV 1988: 493; LVP 1995: 711
+StandardLatvian_SUN_1	Latvian	latv1249	lav	SUN	saũle	sāwlɛ	s ā w l ɛ	sāwl-ɛ	SUN_1	FALSE	Sinole dialect: sǎwl-ɛ {sàule} [Putniņa & Timuška 2001: 202].	KLV 1988: 493; LVP 1995: 711
 StandardLatvian_SWIM_2	Latvian	latv1249	lav	SWIM	pêldēt	pêldêːt	p ê l d êː t	pld-ː-t	SWIM_2	FALSE		KLV 1988: 356; LVP 1995: 587
 StandardLatvian_TAIL_2	Latvian	latv1249	lav	TAIL	aste	astɛ	a s t ɛ	ast-ɛ	TAIL_2	FALSE	Sinole dialect: ast-ɛ {aste} [Putniņa & Timuška 2001: 8-9].	KLV 1988: 555; LVP 1995: 90
 StandardLatvian_THAT_2	Latvian	latv1249	lav	THAT	tas	tas	t a s	t-as	THAT_2	FALSE		KLV 1988: 524
@@ -211,12 +211,12 @@ StandardLatvian_TREE_2	Latvian	latv1249	lav	TREE	kôks	kuɔ̯̂ks	k u ɔ̯̂ k s
 StandardLatvian_TWO_1	Latvian	latv1249	lav	TWO	divi	divi	d i v i	div-i	TWO_1	FALSE	Sinole dialect: div-i {divi} [Putniņa & Timuška 2001: 44].	KLV 1988: 108; LVP 1995: 185
 StandardLatvian_WALK_1	Latvian	latv1249	lav	WALK		jêt	j ê t	y-t	WALK_1	FALSE		KLV 1988: 169; LVP 1995: 295
 StandardLatvian_WALK_1	Latvian	latv1249	lav	WALK	iêt	jɛt	j ɛ t	yɛ-t	WALK_1	FALSE		KLV 1988: 169; LVP 1995: 295
-StandardLatvian_WALK_2	Latvian	latv1249	lav	WALK	gāju	ɡāːju	ɡ a ̄ː j u	gāːy-u	WALK_2	FALSE	Past stem.	LVP 1995: 295
+StandardLatvian_WALK_2	Latvian	latv1249	lav	WALK	gāju	ɡāːju	ɡ āː j u	gāːy-u	WALK_2	FALSE	Past stem.	LVP 1995: 295
 StandardLatvian_WARM_1	Latvian	latv1249	lav	WARM	sìlts	sǐlʦ	s ǐ l ʦ	sǐlc	WARM_1	FALSE	Sinole dialect: sǐlc {sìlts} [Putniņa & Timuška 2001: 205].	KLV 1988: 519; LVP 1995: 728
 StandardLatvian_WATER_1	Latvian	latv1249	lav	WATER	ūdèns	ûːděns	ûː d ě n s	ûːdn-s	WATER_1	FALSE	Sinole dialect: ûːdn-s {ûdèns} [Putniņa & Timuška 2001: 251].	KLV 1988: 64; LVP 1995: 818
 StandardLatvian_WE_1	Latvian	latv1249	lav	WE	mēs	mɛːs	m ɛː s	mːs	WE_1	FALSE	Paradigm: mːs {mēs} [nom.] / mūː-su {mūsu} [gen.] / mǔ-ms {mùms} [dat.] / mūː-s {mūs} [acc.] / mūː-sws {mūsôs} [ins.].	KLV 1988: 245; LVP 1995: 451; Staltmane 2006: 181
 StandardLatvian_WHAT_1	Latvian	latv1249	lav	WHAT	kas	kas	k a s	k-as	WHAT_1	FALSE	Sinole dialect: k-as {kas} [Putniņa & Timuška 2001: 85].	KLV 1988: 567; LVP 1995: 355
-StandardLatvian_WHITE_1	Latvian	latv1249	lav	WHITE	balts	bālʦ	b a ̄ l ʦ	bālc	WHITE_1	FALSE	Sinole dialect: bǎlc {bàlts} [Putniņa & Timuška 2001: 14-15].	KLV 1988: 31; LVP 1995: 119
+StandardLatvian_WHITE_1	Latvian	latv1249	lav	WHITE	balts	bālʦ	b ā l ʦ	bālc	WHITE_1	FALSE	Sinole dialect: bǎlc {bàlts} [Putniņa & Timuška 2001: 14-15].	KLV 1988: 31; LVP 1995: 119
 StandardLatvian_WHO_1	Latvian	latv1249	lav	WHO	kas	kas	k a s	k-as	WHO_1	FALSE	Sinole dialect: k-as {kas} [Putniņa & Timuška 2001: 85].	KLV 1988: 212; LVP 1995: 355
 StandardLatvian_WOMAN_2	Latvian	latv1249	lav	WOMAN	siẽviẽte	sjɛvjɛtɛ	s j ɛ v j ɛ t ɛ	syv-yt-ɛ	WOMAN_2	FALSE	Distinct from syv-a {siẽva} 'wife' [KLV 1988: 132; LVP 1995: 724].	KLV 1988: 132; LVP 1995: 724
 StandardLatvian_YELLOW_1	Latvian	latv1249	lav	YELLOW	dzeltèns	ʣæ̂ltæ̌ns	ʣ æ̂ l t æ̌ n s	ʒä̂lt-ä̌n-s	YELLOW_1	FALSE	Sinole dialect: ʒä̂lt-ä̌n-s {dzęltę̀ns} [Putniņa & Timuška 2001: 47].	KLV 1988: 132; LVP 1995: 197
@@ -225,7 +225,7 @@ StandardLatvian_HEAVY_2	Latvian	latv1249	lav	HEAVY	smags	smaks	s m a k s	smak-s	
 StandardLatvian_NEAR_2	Latvian	latv1249	lav	NEAR	tuvu	tuvu	t u v u	tuv-u	NEAR_2	FALSE		KLV 1988: 37; LVP 1995: 817
 StandardLatvian_SALT_2	Latvian	latv1249	lav	SALT	sāls	sǎːls	s ǎː l s	sǎːl-s	SALT_2	FALSE	Sinole dialect: sǎːl-s {sāls} [Putniņa & Timuška 2001: 199].	KLV 1988: 493; LVP 1995: 696
 StandardLatvian_SHORT_2	Latvian	latv1249	lav	SHORT	īss	îːsː	îː sː	îːsː	SHORT_2	FALSE		KLV 1988: 204; LVP 1995: 310
-StandardLatvian_SNAKE_2	Latvian	latv1249	lav	SNAKE	čūska	ʧūːska	ʧ u ̄ː s k a	čūːsk-a	SNAKE_2	FALSE	Sinole dialect: čǔsk-a {čùska} ~ čǔšk-a {čùška} [Putniņa & Timuška 2001: 37].	KLV 1988: 165; LVP 1995: 159
+StandardLatvian_SNAKE_2	Latvian	latv1249	lav	SNAKE	čūska	ʧūːska	ʧ ūː s k a	čūːsk-a	SNAKE_2	FALSE	Sinole dialect: čǔsk-a {čùska} ~ čǔšk-a {čùška} [Putniņa & Timuška 2001: 37].	KLV 1988: 165; LVP 1995: 159
 StandardLatvian_THIN_2	Latvian	latv1249	lav	THIN	tiêvs	tjêws	t j ê w s	tyw-s	THIN_2	FALSE		KLV 1988: 522; LVP 1995: 800
 StandardLatvian_WIND_1	Latvian	latv1249	lav	WIND	vējš	vɛːjʃ	v ɛː j ʃ	vːy-š	WIND_1	FALSE	Sinole dialect: vy-s {vèjs} [Putniņa & Timuška 2001: 267].	KLV 1988: 54; LVP 1995: 843
 StandardLatvian_WORM_2	Latvian	latv1249	lav	WORM	tārps	tǎːrps	t ǎː r p s	tǎːrp-s	WORM_2	FALSE	Sinole dialect: tǎːrp-s {tārps} [Putniņa & Timuška 2001: 242].	KLV 1988: 563; LVP 1995: 795
