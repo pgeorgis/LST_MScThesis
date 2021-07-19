@@ -1,6 +1,7 @@
 import os, re, itertools
 from statistics import mean
 from collections import defaultdict
+import math
 from auxiliary_functions import csv_to_dict, strip_ch, normalize_dict, entropy
 from pathlib import Path
 local_dir = Path(str(os.getcwd()))
@@ -213,13 +214,18 @@ class Language(Dataset):
         self.iso_code = iso_code
         self.data = data
         
-        
+        #Phonemic inventory
         self.phonemes = defaultdict(lambda:0)
         self.vowels = defaultdict(lambda:0)
         self.consonants = defaultdict(lambda:0)
         self.tonemes = defaultdict(lambda:0)
         
+        #Phonological contexts
+        self.trigrams = defaultdict(lambda:0)
+        self.gappy_trigrams = defaultdict(lambda:0)
+        self.info_contents = {}
         
+        #Lexical inventory
         self.vocabulary = defaultdict(lambda:[])
         self.loanwords = defaultdict(lambda:[])
         
@@ -240,6 +246,15 @@ class Language(Dataset):
             segments = [strip_ch(seg, diacritics_to_remove) for seg in segments if len(seg) > 0]
             for segment in segments:
                 self.phonemes[segment] += 1
+            
+            #Count trigrams and gappy trigrams
+            padded_segments = ['#', '#'] + segments + ['#', '#']
+            for j in range(1, len(padded_segments)-1):
+                trigram = (padded_segments[j-1], padded_segments[j], padded_segments[j+1])
+                self.trigrams[trigram] += 1
+                self.gappy_trigrams[('X', padded_segments[j], padded_segments[j+1])] += 1
+                self.gappy_trigrams[(padded_segments[j-1], 'X', padded_segments[j+1])] += 1
+                self.gappy_trigrams[(padded_segments[j-1], padded_segments[j], 'X')] += 1
         
         #Normalize counts
         total_tokens = sum(self.phonemes.values())
@@ -310,6 +325,39 @@ class Language(Dataset):
             if lig in self.phonemes:
                 if double in self.phonemes:
                     print(f'Warning! Both /{lig}/ and /{double}/ are in {self.name} transcriptions!')
+    
+    
+    def calculate_infocontent(self, word, segmented=False):
+        #Return the pre-calculated information content of the word, if possible
+        if segmented == True:
+            joined = ''.join([ch for ch in word])
+            if joined in self.info_contents:
+                return self.info_contents[joined]
+        else:
+            if word in self.info_contents:
+                return self.info_contents[word]
+        
+        #Otherwise calculate it from scratch
+        #First segment the word if necessary
+        #Then pad the segmented word
+        if segmented == False:
+            segments = segment_word(word)
+            padded = ['#', '#'] + segments + ['#', '#']
+        else:
+            padded = ['#', '#'] + word + ['#', '#']
+        info_content = {}
+        for i in range(2, len(padded)-2):
+            trigram_counts = 0
+            trigram_counts += self.trigrams[(padded[i-2], padded[i-1], padded[i])]
+            trigram_counts += self.trigrams[(padded[i-1], padded[i], padded[i+1])]
+            trigram_counts += self.trigrams[(padded[i], padded[i+1], padded[i+2])]
+            gappy_counts = 0
+            gappy_counts += self.gappy_trigrams[(padded[i-2], padded[i-1], 'X')]
+            gappy_counts += self.gappy_trigrams[(padded[i-1], 'X', padded[i+1])]
+            gappy_counts += self.gappy_trigrams[('X', padded[i+1], padded[i+2])]
+            info_content[i-2] = (padded[i], -math.log(trigram_counts/gappy_counts))
+        self.info_contents[''.join(padded[2:-2])] = info_content
+        return info_content
     
 
 #%%
