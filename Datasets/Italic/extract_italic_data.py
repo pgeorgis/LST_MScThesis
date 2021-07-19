@@ -122,6 +122,9 @@ conversion_dict = {#Nasal segments
                    #Corresponds to orthographic <ę>
                    ('ä', 'Istro Romanian'):'æ',
                    
+                   #e.g. <yo> in Spanish, /ʝ/ is the typical transcription
+                   ('ʑ', 'Castilian Spanish'):'ʝ', 
+                   
                    
                    #GENERAL REPLACEMENTS
                    'c':'ʦ',

@@ -1355,7 +1355,7 @@ Ukrainian_ANIMAL	Ukrainian	ukra1253	ukr	ANIMAL	тварина	tʋɐrˈɪnɐ	t ʋ
 Ukrainian_DOG	Ukrainian	ukra1253	ukr	DOG	собака	sɔbˈɑkɐ	s ɔ b ˈɑ k ɐ	sɔbɑkɑ	DOG			Dellert et al., 2019
 Ukrainian_BIRD	Ukrainian	ukra1253	ukr	BIRD	птах	ptɑx	p t ɑ x	ptɑx	BIRD			Dellert et al., 2019
 Ukrainian_FISH	Ukrainian	ukra1253	ukr	FISH	риба	rˈɪbɐ	r ˈɪ b ɐ	rɪbɑ	FISH			Dellert et al., 2019
-Ukrainian_SNAKE	Ukrainian	ukra1253	ukr	SNAKE	змія	zmʲiʲˈɑ	z mʲ iʲ ˈɑ	zmijɑ	SNAKE			Dellert et al., 2019
+Ukrainian_SNAKE	Ukrainian	ukra1253	ukr	SNAKE	змія	zmʲijˈɑ	z mʲ i j ˈɑ	zmijɑ	SNAKE			Dellert et al., 2019
 Ukrainian_WORM	Ukrainian	ukra1253	ukr	WORM	черв'як	ʧɛrʋjˈɑk	ʧ ɛ r ʋ j ˈɑ k	черв’як / ʈ͡ʂɛrwjɑk	WORM			Dellert et al., 2019
 Ukrainian_LOUSE	Ukrainian	ukra1253	ukr	LOUSE	воша	wˈɔʃɐ	w ˈɔ ʃ ɐ	wɔʂɑ	LOUSE			Dellert et al., 2019
 Ukrainian_BERRY	Ukrainian	ukra1253	ukr	BERRY	ягода	jˈɑɦɔdɐ	j ˈɑ ɦ ɔ d ɐ	jɑɦɔdɑ	BERRY			Dellert et al., 2019
@@ -1450,7 +1450,7 @@ Ukrainian_TEN	Ukrainian	ukra1253	ukr	TEN	десять	dˈɛsʲɐtʲ	d ˈɛ sʲ �
 Ukrainian_TWENTY	Ukrainian	ukra1253	ukr	TWENTY	двадцять	dʋˈɑdʦʲɐtʲ	d ʋ ˈɑ d ʦʲ ɐ tʲ	dwɑdt͡sʲɑtʲ	TWENTY			Dellert et al., 2019
 Ukrainian_HUNDRED	Ukrainian	ukra1253	ukr	HUNDRED	сто	stɔ	s t ɔ	stɔ	HUNDRED			Dellert et al., 2019
 Ukrainian_AND	Ukrainian	ukra1253	ukr	AND	і	i	i	ji	AND			Dellert et al., 2019
-Ukrainian_STAND	Ukrainian	ukra1253	ukr	STAND	стояти	stɔʲˈɑtɪ	s t ɔʲ ˈɑ t ɪ	stɔjɑtɪ	STAND			Dellert et al., 2019
+Ukrainian_STAND	Ukrainian	ukra1253	ukr	STAND	стояти	stɔjˈɑtɪ	s t ɔ j ˈɑ t ɪ	stɔjɑtɪ	STAND			Dellert et al., 2019
 Ukrainian_SIT	Ukrainian	ukra1253	ukr	SIT	сидіти	sɪdʲˈitɪ	s ɪ dʲ ˈi t ɪ	sɪdʲitɪ	SIT			Dellert et al., 2019
 Ukrainian_LIE	Ukrainian	ukra1253	ukr	LIE	лежати	ɫɛʒˈɑtɪ	ɫ ɛ ʒ ˈɑ t ɪ	lɛʐɑtɪ	LIE			Dellert et al., 2019
 Ukrainian_BLOW_(OF_WIND)	Ukrainian	ukra1253	ukr	BLOW (OF WIND)	віяти	ʋʲˈijɐtɪ	ʋʲ ˈi j ɐ t ɪ	vijɑtɪ	BLOW_(OF_WIND)			Dellert et al., 2019
@@ -1468,7 +1468,7 @@ Ukrainian_SWIM	Ukrainian	ukra1253	ukr	SWIM	пливти	pɫɪʋtˈɪ	p ɫ ɪ ʋ 
 Ukrainian_SWIM	Ukrainian	ukra1253	ukr	SWIM	плавати	pɫˈɑʋɐtɪ	p ɫ ˈɑ ʋ ɐ t ɪ	plɑwɑtɪ	SWIM			Dellert et al., 2019
 Ukrainian_FLY	Ukrainian	ukra1253	ukr	FLY	літати	lʲitˈɑtɪ	lʲ i t ˈɑ t ɪ	lʲitɑtɪ	FLY			Dellert et al., 2019
 Ukrainian_COME	Ukrainian	ukra1253	ukr	COME	прийти	prɪjtˈɪ	p r ɪ j t ˈɪ	prɪjtɪ	COME			Dellert et al., 2019
-Ukrainian_LAUGH	Ukrainian	ukra1253	ukr	LAUGH	сміятися	smʲiʲˈɑtɪsʲɐ	s mʲ iʲ ˈɑ t ɪ sʲ ɐ	smijɑtɪsʲɑ	LAUGH			Dellert et al., 2019
+Ukrainian_LAUGH	Ukrainian	ukra1253	ukr	LAUGH	сміятися	smʲijˈɑtɪsʲɐ	s mʲ i j ˈɑ t ɪ sʲ ɐ	smijɑtɪsʲɑ	LAUGH			Dellert et al., 2019
 Ukrainian_CRY	Ukrainian	ukra1253	ukr	CRY	плакати	pɫˈɑkɐtɪ	p ɫ ˈɑ k ɐ t ɪ	plɑkɑtɪ	CRY			Dellert et al., 2019
 Ukrainian_SEE	Ukrainian	ukra1253	ukr	SEE	бачити	bˈɑʧɪtɪ	b ˈɑ ʧ ɪ t ɪ	bɑʈ͡ʂɪtɪ	SEE			Dellert et al., 2019
 Ukrainian_HEAR	Ukrainian	ukra1253	ukr	HEAR	чути	ʧˈutɪ	ʧ ˈu t ɪ	ʈ͡ʂutɪ	HEAR			Dellert et al., 2019
