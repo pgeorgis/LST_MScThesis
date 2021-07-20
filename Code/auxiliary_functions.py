@@ -10,6 +10,14 @@ from sklearn import manifold
 import seaborn as sns
 import networkx as nx
 
+def dict_tuplelist(dic, sort=True, reverse=True):
+    """Returns a list of (key, value) tuples from the dictionary
+    if sort == True, sorts the list by the value, by default in decending order"""
+    d = [(key, dic[key]) for key in dic]
+    if sort == True:
+        d.sort(key=operator.itemgetter(1), reverse=reverse)
+    return d
+
 #%%
 #STRING MANIPULATION
 def strip_ch(string, to_remove):

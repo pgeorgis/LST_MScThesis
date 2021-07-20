@@ -376,7 +376,7 @@ def lookup_segments(features, values,
 
 #%%
 
-#VECTOR/COSINE SIMILARITY
+#SIMILARITY / DISTANCE MEASURES
 def dot_product(vec1, vec2):
     """Returns the dot product of two vectors"""
     products = []
@@ -406,56 +406,74 @@ def vector_sim(vec1, vec2):
     return similarity
 
 
-def hamming_distance(vec1, vec2):
-    return len([feature for feature in vec1 if vec1[feature] != vec2[feature]])
+def hamming_distance(vec1, vec2, normalize=True):
+    differences = len([feature for feature in vec1 if vec1[feature] != vec2[feature]])
+    if normalize == True:
+        return differences / len(vec1)
+    else: 
+        return differences
 
-def hamming_phone_dist(seg1, seg2):
-    return hamming_distance(phone_id(seg1), phone_id(seg2))
+def jaccard_sim(vec1, vec2):
+    features = sorted(list(vec1.keys()))
+    vec1_values = [vec1[feature] for feature in features]
+    vec2_values = [vec2[feature] for feature in features]
+    return jaccard_score(vec1_values, vec2_values)
 
-def jaccard_phone_sim(seg1, seg2):
-    seg1_id = phone_id(seg1)
-    seg2_id = phone_id(seg2)
-    features = sorted(list(seg1_id.keys()))
-    seg1_values = [seg1_id[feature] for feature in features]
-    seg2_values = [seg2_id[feature] for feature in features]
-    return jaccard_score(seg1_values, seg2_values)
-
-def dice_phone_sim(seg1, seg2):
-    jaccard = jaccard_phone_sim(seg1, seg2)
+def dice_sim(vec1, vec2):
+    jaccard = jaccard_sim(vec1, vec2)
     return (2*jaccard) / (1+jaccard)
-    
 
 #PHONE COMPARISON
 checked_phone_sims = {}
-def phone_sim(phone1, phone2, compare_stress=True):
-    """Returns the cosine/vector similarity of the features of the two phones;
-    Stress is not considered unless compare_stress == True"""
+def phone_sim(phone1, phone2, method='dice', exclude_features=[]):
+    """Returns the similarity of the features of the two phones according to
+    the specified distance/similarity function;
+    Features not to be included in the comparison should be passed as a list to
+    the exclude_features parameter (by default no features excluded)"""
     
     #If the phone similarity has already been calculated for this pair, retrieve it
-    if (phone1, phone2, compare_stress) in checked_phone_sims:
-        return checked_phone_sims[(phone1, phone2, compare_stress)]
+    reference = (phone1, phone2, method, tuple(exclude_features))
+    if reference in checked_phone_sims:
+        return checked_phone_sims[reference]
     
     #Get feature dictionaries for each phone
     phone_id1, phone_id2 = phone_id(phone1), phone_id(phone2)
     
-    #Remove stress as a feature if it is not being compared
-    if compare_stress == False:
+    #Remove any specified features
+    for feature in exclude_features:
         for phoneid in [phone_id1, phone_id2]:
-            if 'stress' in phoneid:
-                del phoneid['stress']
+            try:
+                del phoneid[feature]
+            except KeyError:
+                pass
+
+    #Calculate similarity of phone features according to specified measure
+    measures = {'cosine':vector_sim,
+                'dice':dice_sim,
+                'hamming':hamming_distance,
+                'jaccard':jaccard_sim}
+    dist_func = measures[method]
     
-    #Calculate vector similarity of phone features
-    score = vector_sim(phone_id1, phone_id2)
+    score = dist_func(phone_id1, phone_id2)
+    
+    #If method is Hamming, convert distance to similarity
+    if method == 'hamming':
+        score = 1 - score
         
     #Save the phonetic similarity score to dictionary, return score
-    checked_phone_sims[(phone1, phone2, compare_stress)] = score
-    checked_phone_sims[(phone2, phone1, compare_stress)] = score
+    checked_phone_sims[reference] = score
+    checked_phone_sims[reference] = score
     return score
 
+def compare_measures(seg1, seg2):
+    measures = {}
+    for method in ['cosine', 'dice', 'hamming', 'jaccard']:
+        measures[method] = phone_sim(seg1, seg2, method)
+    return measures
 
 
 #WORD-LEVEL PHONETIC COMPARISON AND ALIGNMENT
-def align_costs(seq1, seq2, dist_func, sim=False):
+def align_costs(seq1, seq2, dist_func, sim=False): #*kwargs?
     alignment_costs = {}
     for i in range(len(seq1)):
         for j in range(len(seq2)):
@@ -466,9 +484,9 @@ def align_costs(seq1, seq2, dist_func, sim=False):
             alignment_costs[(i, j)] = cost
     return alignment_costs
 
-def log_phone_sim_sonority(seg1, seg2):
+def log_phone_sim_sonority(seg1, seg2, method='dice'):
     try:
-        phon_sim = math.log(phone_sim(seg1, seg2))
+        phon_sim = math.log(phone_sim(seg1, seg2, method))
     
     #If phone similarity = 0, we can't take the log. Instead set to negative infinity
     except ValueError:
