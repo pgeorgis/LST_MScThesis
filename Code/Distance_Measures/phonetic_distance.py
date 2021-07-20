@@ -9,7 +9,7 @@ from collections import defaultdict
 from nwunsch_alignment import best_alignment 
 from nltk import edit_distance
 from sklearn.metrics import jaccard_score
-
+from statistics import mean
 
 #IMPORT SOUND DATA
 phone_data = pd.read_csv('Phones/segments.csv', sep=',')
@@ -24,7 +24,10 @@ def binary_feature(feature):
 #Dictionary of basic phones with their phonetic features
 phone_features = {phone_data['segment'][i]:{feature:binary_feature(phone_data[feature][i])
                                           for feature in phone_data.columns
-                                          if feature not in ['segment', 'sonority']
+                                          if feature not in ['segment',
+                                                             #'stress',
+                                                             #'tone',
+                                                             'sonority']
                                           if pd.isnull(phone_data[feature][i]) == False}
                   for i in range(len(phone_data))}
 
@@ -36,6 +39,7 @@ phone_sonority = {phone_data['segment'][i]:int(phone_data['sonority'][i])
                   for i in range(len(phone_data))}
 
 max_sonority = max(phone_sonority.values())
+
 #%%
 #Load basic groupings of phones; e.g. plosive, fricative, velar, palatal
 phone_groups = pd.read_csv('Phones/phone_classes.csv')
@@ -129,53 +133,17 @@ def phone_id(segment):
     return seg_dict 
 
 
-def diphthong_dict(diphthong, syllabic_weight=math.sqrt(0.5)):
-    """Returns dictionary of features for diphthongal segment;
-    Syllabic weight controls the proportion of features from the syllabic
-    portion of the diphthong, with respect to the non-syllabic portion."""
-    #Base of the segment is the non-diacritic portion
-    base = strip_diacritics(diphthong)
+def diphthong_dict(diphthong):
+    """Returns dictionary of features for diphthongal segment"""
+    components = segment_word(diphthong)
     
-    #One of the component vowels should be non-syllabic; split by this diacritic 
-    diphthong = diphthong.split('̯')
-    
-    #If the second split string is empty, the diphthong is not yet split
-    #into component vowels; needs to be done differently in this case
-    if len(diphthong[1]) == 0:
-        vowelstring = diphthong[0]
-        split_vowels = defaultdict(lambda:[])
-        i = 0
-        for j in range(len(vowelstring)):
-            ch = vowelstring[j]
-            if ch in pre_diacritics:
-                i += 1
-            elif len(split_vowels[i]) > 0:
-                if split_vowels[i][-1] in post_diacritics:
-                    if ch not in diacritics:
-                        i += 1
-                elif split_vowels[i][-1] not in diacritics:
-                    if ch not in diacritics:
-                        i += 1
-            split_vowels[i].append(ch)
-        
-        #The first split vowel is the syllabic component; second is non-syllabic
-        syll = phone_id(''.join(split_vowels[0]))
-        non_syll = phone_id(''.join(split_vowels[1]))
-    
-    #If the second split string is not empty, the second vowel is the syllabic
-    #component and the first vowel is the syllabic component (already split)
-    else:
-        non_syll = phone_id(diphthong[0])
-        syll = phone_id(diphthong[1])
-    
-    #Default: 0.75 for syllabic segment weight, 0.25 for non-syllabic segment weight
-    non_syllabic_weight = 1 - syllabic_weight
-    
-    #Create combined dictionary using weighted features of component segments
+    #Create combined dictionary using features of component segments
+    weight = 1 / len(components)
     diphth_dict = defaultdict(lambda:0)
-    for feature in non_syll:
-        diphth_dict[feature] = syllabic_weight * syll[feature]
-        diphth_dict[feature] += non_syllabic_weight * non_syll[feature]
+    for segment in components:
+        feature_id = phone_id(segment)
+        for feature in feature_id:
+            diphth_dict[feature] += (weight * feature_id[feature])
     
     #Length feature should be either 0 or 1
     if diphth_dict['long'] > 0:
@@ -296,6 +264,9 @@ def get_sonority(sound):
             else:
                 sonority = 3
         
+        elif strip_sound in tonemes:
+            sonority = 0
+        
         #Affricates, plosives, implosives, clicks
         else:
         
@@ -309,8 +280,16 @@ def get_sonority(sound):
             
     #Other sounds: raise error message
     else:
-        print(f'Error: the sonority of this phone ({sound}) cannot be determined!')
-        raise ValueError
+        #Diphthong: calculate sonority as maximum sonority of component parts
+        if strip_sound[0] in vowels:
+            diphthong_components = segment_word(sound)
+            sonorities = [get_sonority(v) for v in diphthong_components]
+            sonority = max(sonorities)
+            
+        
+        else:
+            print(f'Error: the sonority of this phone ({sound}) cannot be determined!')
+            raise ValueError
    
     #Save sonority level of this sound in sonority dictionary, return sonority level
     phone_sonority[sound] = sonority
@@ -476,6 +455,34 @@ def phone_sim(phone1, phone2, compare_stress=True):
 
 
 #WORD-LEVEL PHONETIC COMPARISON AND ALIGNMENT
+def align_costs(seq1, seq2, dist_func, sim=False):
+    alignment_costs = {}
+    for i in range(len(seq1)):
+        for j in range(len(seq2)):
+            seq1_i, seq2_j = seq1[i], seq2[j]
+            cost = dist_func(seq1_i, seq2_j)
+            if sim == True:
+                cost = 1 - cost
+            alignment_costs[(i, j)] = cost
+    return alignment_costs
+
+def log_phone_sim_sonority(seg1, seg2):
+    try:
+        phon_sim = math.log(phone_sim(seg1, seg2))
+    
+    #If phone similarity = 0, we can't take the log. Instead set to negative infinity
+    except ValueError:
+        phon_sim = -math.inf
+    
+    #Sonority difference is number of levels of difference in sonority
+    son_diff = abs(get_sonority(seg1) - get_sonority(seg2))
+    
+    #Sonority similarity is 1 - normalized sonority difference
+    son_sim = math.log(1 - ((son_diff+1) / (max_sonority+1)))
+    
+    return phon_sim + son_sim
+
+
 def phone_align(word1, word2, gop=-0.7, segmented=False):
     """Align segments of word1 with segments of word2 according to Needleman-
     Wunsch algorithm, with costs determined by phonetic and sonority similarity;
