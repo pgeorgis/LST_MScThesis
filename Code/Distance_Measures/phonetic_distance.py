@@ -51,8 +51,9 @@ globals().update(phone_groups)
 
 #Set basic consonants and vowels using syllabic feature
 consonants = [phone for phone in phone_features
-              if phone_features[phone]['syllabic'] == 0]
-vowels = [phone for phone in phone_features if phone not in consonants]
+              if phone_features[phone]['syllabic'] == 0
+              if phone not in tonemes]
+vowels = [phone for phone in phone_features if phone not in consonants+tonemes]
 
 #List of all basic sounds
 all_sounds = list(set(vowels + consonants))
@@ -159,12 +160,16 @@ def compact_diacritics(segment):
     #Base of the segment is the non-diacritic portion
     base = strip_diacritics(segment)
     
-    #If the length of the base > 1, the segment is a diphthong
-    if len(base) > 1:
+    #If the length of the base > 1, the segment is a diphthong or complex toneme
+    #Filter out tonemes
+    if ((len(base) > 1) and (base[0] not in tonemes)):
         return diphthong_dict(segment)
     
     else:
         #Retrieve basic dictionary of phone features for the base segment
+        #If the segment is a toneme, use the first component as its base
+        if base[0] in tonemes:
+            base = base[0]
         seg_id = phone_features[base]
         
         #Modifiers are whichever diacritics may have been in the segment string
@@ -266,9 +271,6 @@ def get_sonority(sound):
             else:
                 sonority = 3
         
-        elif strip_sound in tonemes:
-            sonority = 0
-        
         #Affricates, plosives, implosives, clicks
         else:
         
@@ -279,7 +281,11 @@ def get_sonority(sound):
             #Voiceless 
             else:
                 sonority = 1
-            
+    
+    #Tonemes
+    elif strip_sound[0] in tonemes:
+        sonority = 0
+    
     #Other sounds: raise error message
     else:
         #Diphthong: calculate sonority as maximum sonority of component parts
@@ -447,6 +453,14 @@ def jaccard_sim(vec1, vec2):
     features = sorted(list(vec1.keys()))
     vec1_values = [vec1[feature] for feature in features]
     vec2_values = [vec2[feature] for feature in features]
+    
+    #Jaccard index does not allow continuous features
+    #Ensure that they are all binarily encoded (any continuous value >0 --> 1)
+    for vec in [vec1_values, vec2_values]:
+        for i in range(len(vec)):
+            if vec[i] > 0:
+                vec[i] = 1
+                
     return jaccard_score(vec1_values, vec2_values)
 
 def dice_sim(vec1, vec2):
@@ -526,7 +540,11 @@ def log_phone_sim_sonority(seg1, seg2, method='dice', max_penalty=-7):
     son_diff = abs(get_sonority(seg1) - get_sonority(seg2))
     
     #Sonority similarity is 1 - normalized sonority difference
-    son_sim = math.log(1 - ((son_diff+1) / (max_sonority+1)))
+    try:
+        son_sim = math.log(1 - ((son_diff+1) / (max_sonority+1)))
+    
+    except ValueError:
+        son_sim = max_penalty
     
     return phon_sim + son_sim
 
