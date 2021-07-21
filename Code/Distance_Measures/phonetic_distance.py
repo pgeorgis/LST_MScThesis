@@ -344,7 +344,7 @@ def segment_word(word):
             #if the base of the previous sound was not a toneme
             #(in order to group sequences of tonemes and associated diacritics as a single segment)
             elif ch in tonemes:
-                if prev_base not in tonemes:
+                if prev_base[0] not in tonemes:
                     i += 1
             
             #If the character is a diacritic which could be either a pre- or post-diacritic
