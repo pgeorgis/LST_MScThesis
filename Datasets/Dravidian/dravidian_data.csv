@@ -49,7 +49,7 @@ Badga_ASH_2	Badga	bada1257	bfq	ASH	kolabu:di	kolabuːdi	k o l a b uː d i	kolabu
 Betta_Kurumba_ASH_2	Betta Kurumba	bett1235	xub	ASH	pi:di	piːdi	p iː d i	pi:di	ASH_2	FALSE	Kolipakam fieldwork	
 Kannada_ASH_2	Kannada	nucl1305	kan	ASH	bu:di	buːdi	b uː d i	bu:di	ASH_2	FALSE	Kolipakam fieldwork	
 Kodava_ASH_2	Kodava	koda1255	kfa	ASH	bu:di	buːdi	b uː d i	bu:di	ASH_2	FALSE	Kolipakam fieldwork	
-Kota_ASH_2	Kota	kota1263	kfe	ASH	po:du atukə	poːdu atukə	p oː d u   a t u k ə	po:du atukə	ASH_2	FALSE	Kolipakam (fieldwork)	
+Kota_ASH_2	Kota	kota1263	kfe	ASH	po:du atukə	poːdu atukə	p oː d u  a t u k ə	po:du atukə	ASH_2	FALSE	Kolipakam (fieldwork)	
 Koya_ASH_2	Koya	koya1251	kff	ASH	bu:ɖida	buːɖida	b uː ɖ i d a	bu:ɖida	ASH_2	FALSE	Kolipakam fieldwork	
 Telugu_ASH_2	Telugu	telu1262	tel	ASH	bu:ɖida	buːɖida	b uː ɖ i d a	bu:ɖida	ASH_2	FALSE	Kolipakam fieldwork	
 Toda_ASH_2	Toda	toda1252	tcx	ASH	pu:di	puːdi	p uː d i	pu:di	ASH_2	FALSE	Kolipakam fieldwork	
@@ -81,7 +81,7 @@ Yeruva_BARK_10	Yeruva	ravu1237	yea	BARK	to:lu	toːlu	t oː l u	to:lu	BARK_10	FAL
 Betta_Kurumba_BARK_11	Betta Kurumba	bett1235	xub	BARK	meɾto:lə	meɾtoːlə	m e ɾ t oː l ə	meɾto:lə	BARK_11	FALSE	Kolipakam fieldwork	
 Malayalam_BARK_11	Malayalam	mala1464	mal	BARK	maɾattoli	maɾattoli	m a ɾ a t t o l i	maɾattoli	BARK_11	FALSE	Kolipakam fieldwork	
 Brahui_BARK_12	Brahui	brah1256	brh	BARK	bund	bund	b u n d	bund	BARK_12	FALSE	Kolipakam (fieldwork)	
-Kolami_BARK_13	Kolami	nort2699	kfb	BARK	ɖanɖi maɖɖa	ɖanɖi maɖɖa	ɖ a n ɖ i   m a ɖ ɖ a	ɖanɖi maɖɖa	BARK_13	FALSE	Kolipakam (fieldwork)	
+Kolami_BARK_13	Kolami	nort2699	kfb	BARK	ɖanɖi maɖɖa	ɖanɖi maɖɖa	ɖ a n ɖ i  m a ɖ ɖ a	ɖanɖi maɖɖa	BARK_13	FALSE	Kolipakam (fieldwork)	
 Kota_BARK_14	Kota	kota1263	kfe	BARK	kollutʃo	kolluʧo	k o l l u ʧ o	kollutʃo	BARK_14	FALSE	Kolipakam (fieldwork)	
 Malayalam_BELLY_1	Malayalam	mala1464	mal	BELLY	ʋajaɾə	ʋajaɾə	ʋ a j a ɾ ə	ʋajaɾə	BELLY_1	FALSE	Kolipakam fieldwork	
 Tamil_BELLY_1	Tamil	tami1289	tam	BELLY	vayiṟu	vayiru	v a y i r u	vayiṟu	BELLY_1	FALSE		Andronov1964
@@ -151,7 +151,7 @@ Kurukh_BIRD_8	Kurukh	kuru1302	kru	BIRD	oɖa	oɖa	o ɖ a	oɖa	BIRD_8	FALSE	Kolipa
 Ollari_Gadba_BIRD_9	Ollari Gadba	pott1240	gdb	BIRD	titə	titə	t i t ə	titə	BIRD_9	FALSE	Kolipakam (fieldwork)	
 Betta_Kurumba_BITE_1	Betta Kurumba	bett1235	xub	BITE	kaɖi	kaɖi	k a ɖ i	kaɖi ~ kajɾi	BITE_1	FALSE	Kolipakam fieldwork	
 Betta_Kurumba_BITE_1	Betta Kurumba	bett1235	xub	BITE	kajɾi	kajɾi	k a j ɾ i	kaɖi ~ kajɾi	BITE_1	FALSE	Kolipakam fieldwork	
-Brahui_BITE_1	Brahui	brah1256	brh	BITE	kaat kanning	kaat kanninɡ	k a a t   k a n n i n ɡ	kaat kanning	BITE_1	FALSE	Kolipakam (fieldwork)	
+Brahui_BITE_1	Brahui	brah1256	brh	BITE	kaat kanning	kaat kanninɡ	k a a t  k a n n i n ɡ	kaat kanning	BITE_1	FALSE	Kolipakam (fieldwork)	
 Kannada_BITE_1	Kannada	nucl1305	kan	BITE	kaḍi-	kaɖi	k a ɖ i	kaḍi-	BITE_1	FALSE		Andronov1964
 Kodava_BITE_1	Kodava	koda1255	kfa	BITE	kaɖi	kaɖi	k a ɖ i	kaɖi	BITE_1	FALSE	Kolipakam fieldwork	
 Kota_BITE_1	Kota	kota1263	kfe	BITE	kaɖə	kaɖə	k a ɖ ə	kaɖə	BITE_1	FALSE	Kolipakam (fieldwork)	
@@ -172,7 +172,7 @@ Kuwi_BITE_5	Kuwi	kuvi1243	kxv	BITE	katʃine	kaʧine	k a ʧ i n e	katʃine	BITE_5
 Tulu_BITE_6	Tulu	tulu1258	tcy	BITE	tina:ɾa	tinaːɾa	t i n aː ɾ a	tina:ɾa	BITE_6	FALSE	Kolipakam fieldwork	
 Malto_BITE_7	Malto	saur1249	mjt	BITE	ko:hi	koːhi	k oː h i	ko:hi	BITE_7	FALSE	Kolipakam (fieldwork)	
 Badga_BLACK_1	Badga	bada1257	bfq	BLACK	kappə	kappə	k a p p ə	kappə	BLACK_1	FALSE	Kolipakam fieldwork	
-Betta_Kurumba_BLACK_1	Betta Kurumba	bett1235	xub	BLACK	kaɾtənu ipədə	kaɾtənu ipədə	k a ɾ t ə n u   i p ə d ə	kaɾtənu ipədə	BLACK_1	FALSE	Kolipakam fieldwork	
+Betta_Kurumba_BLACK_1	Betta Kurumba	bett1235	xub	BLACK	kaɾtənu ipədə	kaɾtənu ipədə	k a ɾ t ə n u  i p ə d ə	kaɾtənu ipədə	BLACK_1	FALSE	Kolipakam fieldwork	
 Gondi_BLACK_1	Gondi	nort2702	gno	BLACK	kaɾə	kaɾə	k a ɾ ə	kaɾə	BLACK_1	FALSE	Kolipakam (fieldwork)	
 Kannada_BLACK_1	Kannada	nucl1305	kan	BLACK	kappu	kappu	k a p p u	kappu	BLACK_1	FALSE	Kolipakam fieldwork	
 Kodava_BLACK_1	Kodava	koda1255	kfa	BLACK	kaɾtadə	kaɾtadə	k a ɾ t a d ə	kaɾtadə	BLACK_1	FALSE	Kolipakam fieldwork	
@@ -274,11 +274,11 @@ Betta_Kurumba_BURN_5	Betta Kurumba	bett1235	xub	BURN	kattu	kattu	k a t t u	kattu
 Betta_Kurumba_BURN_5	Betta Kurumba	bett1235	xub	BURN	kettu	kettu	k e t t u	kattu ~ kettu	BURN_5	FALSE	Kolipakam fieldwork	
 Kota_BURN_5	Kota	kota1263	kfe	BURN	ka:to	kaːto	k aː t o	ka:to	BURN_5	FALSE	Kolipakam (fieldwork)	
 Malayalam_BURN_5	Malayalam	mala1464	mal	BURN	katikkuga	katikkuɡa	k a t i k k u ɡ a	katikkuga	BURN_5	FALSE	Kolipakam fieldwork	
-Toda_BURN_5	Toda	toda1252	tcx	BURN	ti:kku ka:ttiti	tiːkku kaːttiti	t iː k k u   k aː t t i t i	ti:kku ka:ttiti	BURN_5	FALSE	Kolipakam fieldwork	
+Toda_BURN_5	Toda	toda1252	tcx	BURN	ti:kku ka:ttiti	tiːkku kaːttiti	t iː k k u  k aː t t i t i	ti:kku ka:ttiti	BURN_5	FALSE	Kolipakam fieldwork	
 Koya_BURN_6	Koya	koya1251	kff	BURN	maɳɖu	maɳɖu	m a ɳ ɖ u	maɳɖu	BURN_6	FALSE	Kolipakam fieldwork	
 Telugu_BURN_6	Telugu	telu1262	tel	BURN	maɳɖu	maɳɖu	m a ɳ ɖ u	maɳɖu	BURN_6	FALSE	Kolipakam fieldwork	
 Tulu_BURN_7	Tulu	tulu1258	tcy	BURN	pottaʋaɾa	pottaʋaɾa	p o t t a ʋ a ɾ a	pottaʋaɾa	BURN_7	FALSE	Kolipakam fieldwork	
-Brahui_BURN_8	Brahui	brah1256	brh	BURN	xa:xaɾ tinning	xaːxaɾ tinninɡ	x aː x a ɾ   t i n n i n ɡ	xa:xaɾ tinning	BURN_8	FALSE	Kolipakam (fieldwork)	
+Brahui_BURN_8	Brahui	brah1256	brh	BURN	xa:xaɾ tinning	xaːxaɾ tinninɡ	x aː x a ɾ  t i n n i n ɡ	xa:xaɾ tinning	BURN_8	FALSE	Kolipakam (fieldwork)	
 Gondi_BURN_9	Gondi	nort2702	gno	BURN	niɾus	niɾus	n i ɾ u s	niɾus	BURN_9	FALSE	Kolipakam (fieldwork)	
 Malto_BURN_10	Malto	saur1249	mjt	BURN	me:da	meːda	m eː d a	me:da	BURN_10	FALSE	Kolipakam (fieldwork)	
 Kurukh_BURN_11	Kurukh	kuru1302	kru	BURN	olna	olna	o l n a	olna	BURN_11	FALSE	Kolipakam (fieldwork)	
@@ -286,7 +286,7 @@ Kolami_BURN_12	Kolami	nort2699	kfb	BURN	gonɖka	ɡonɖka	ɡ o n ɖ k a	gonɖka	B
 Malayalam_CLAW_1	Malayalam	mala1464	mal	CLAW	nakʰam	nakʰam	n a kʰ a m	nakʰam	CLAW_1	TRUE	Kolipakam fieldwork	
 Tamil_CLAW_1	Tamil	tami1289	tam	CLAW	nagam	naɡam	n a ɡ a m	nagam	CLAW_1	TRUE	Kolipakam fieldwork	Andronov1964
 Badga_CLAW_2	Badga	bada1257	bfq	CLAW	ugilə	uɡilə	u ɡ i l ə	ugilə	CLAW_2	FALSE	Kolipakam fieldwork	
-Brahui_CLAW_2	Brahui	brah1256	brh	CLAW	hoɾ ad	hoɾ ad	h o ɾ   a d	hoɾ ad	CLAW_2	FALSE	Kolipakam (fieldwork)	
+Brahui_CLAW_2	Brahui	brah1256	brh	CLAW	hoɾ ad	hoɾ ad	h o ɾ  a d	hoɾ ad	CLAW_2	FALSE	Kolipakam (fieldwork)	
 Gondi_CLAW_2	Gondi	nort2702	gno	CLAW	goɾk	ɡoɾk	ɡ o ɾ k	goɾk	CLAW_2	FALSE	Kolipakam (fieldwork)	
 Kannada_CLAW_2	Kannada	nucl1305	kan	CLAW	ugaɾu	uɡaɾu	u ɡ a ɾ u	ugaɾu	CLAW_2	FALSE	Kolipakam fieldwork	
 Kodava_CLAW_2	Kodava	koda1255	kfa	CLAW	ʋoji	ʋoji	ʋ o j i	ʋoji	CLAW_2	FALSE	Kolipakam fieldwork	
@@ -380,7 +380,7 @@ Kurukh_DIE_1	Kurukh	kuru1302	kru	DIE	kʰena	kʰena	kʰ e n a	kʰena	DIE_1	FALSE	
 Malto_DIE_1	Malto	saur1249	mjt	DIE	keəa:na:keəida:h	keəaːnaːkeəidaːh	k e ə aː n aː k e ə i d aː h	keəa:na:keəida:h	DIE_1	FALSE	Kolipakam (fieldwork)	
 Parji_DIE_1	Parji	duru1236	pci	DIE	cay-	cay	c a y	cay-	DIE_1	FALSE		Andronov1964
 Tamil_DIE_1	Tamil	tami1289	tam	DIE	tʃa:	ʧaː	ʧ aː	tʃa:	DIE_1	FALSE	Kolipakam fieldwork	Andronov1964
-Tamil_DIE_1	Tamil	tami1289	tam	DIE	sattə po	sattə po	s a t t ə   p o	sattə po	DIE_1	FALSE	Kolipakam fieldwork	
+Tamil_DIE_1	Tamil	tami1289	tam	DIE	sattə po	sattə po	s a t t ə  p o	sattə po	DIE_1	FALSE	Kolipakam fieldwork	
 Telugu_DIE_1	Telugu	telu1262	tel	DIE	tʃatʃtʃipo:ʋu	ʧaʧʧipoːʋu	ʧ a ʧ ʧ i p oː ʋ u	tʃatʃtʃipo:ʋu	DIE_1	FALSE	Kolipakam fieldwork	
 Tulu_DIE_1	Tulu	tulu1258	tcy	DIE	sajjaɾa	sajjaɾa	s a j j a ɾ a	sajjaɾa	DIE_1	FALSE	Kolipakam fieldwork	
 Yeruva_DIE_1	Yeruva	ravu1237	yea	DIE	tʃa:ɭa	ʧaːɭa	ʧ aː ɭ a	tʃa:ɭa	DIE_1	FALSE	Kolipakam fieldwork	
@@ -453,7 +453,7 @@ Toda_DRY_6	Toda	toda1252	tcx	DRY	oɳikisi	oɳikisi	o ɳ i k i s i	oɳikisi	DRY_6
 Tulu_DRY_6	Tulu	tulu1258	tcy	DRY	nunguduna	nunɡuduna	n u n ɡ u d u n a	nunguduna	DRY_6	FALSE	Kolipakam fieldwork	
 Koya_DRY_7	Koya	koya1251	kff	DRY	poɖi	poɖi	p o ɖ i	poɖi	DRY_7	FALSE	Kolipakam fieldwork	
 Telugu_DRY_7	Telugu	telu1262	tel	DRY	poɖi	poɖi	p o ɖ i	poɖi	DRY_7	FALSE	Kolipakam fieldwork	
-Betta_Kurumba_DRY_8	Betta Kurumba	bett1235	xub	DRY	ajngənu ipədə	ajnɡənu ipədə	a j n ɡ ə n u   i p ə d ə	ajngənu ipədə	DRY_8	FALSE	Kolipakam fieldwork	
+Betta_Kurumba_DRY_8	Betta Kurumba	bett1235	xub	DRY	ajngənu ipədə	ajnɡənu ipədə	a j n ɡ ə n u  i p ə d ə	ajngənu ipədə	DRY_8	FALSE	Kolipakam fieldwork	
 Kolami_DRY_9	Kolami	nort2699	kfb	DRY	a:tiɾ	aːtiɾ	aː t i ɾ	a:tiɾ	DRY_9	FALSE	Kolipakam (fieldwork)	
 Badga_EAR_1	Badga	bada1257	bfq	EAR	kiʋi	kiʋi	k i ʋ i	kiʋi	EAR_1	FALSE	Kolipakam fieldwork	
 Betta_Kurumba_EAR_1	Betta Kurumba	bett1235	xub	EAR	kiʋija	kiʋija	k i ʋ i j a	kiʋija	EAR_1	FALSE	Kolipakam fieldwork	
@@ -501,7 +501,7 @@ Badga_EAT_1	Badga	bada1257	bfq	EAT	timbə	timbə	t i m b ə	timbə	EAT_1	FALSE	K
 Betta_Kurumba_EAT_1	Betta Kurumba	bett1235	xub	EAT	tinn	tinn	t i n n	tinn	EAT_1	FALSE	Kolipakam fieldwork	
 Kannada_EAT_1	Kannada	nucl1305	kan	EAT	tinnu	tinnu	t i n n u	tinnu	EAT_1	FALSE	Kolipakam fieldwork	Andronov1964
 Kodava_EAT_1	Kodava	koda1255	kfa	EAT	tinə	tinə	t i n ə	tinə	EAT_1	FALSE	Kolipakam fieldwork	
-Kota_EAT_1	Kota	kota1263	kfe	EAT	tin atej	tin atej	t i n   a t e j	tin atej	EAT_1	FALSE	Kolipakam (fieldwork)	
+Kota_EAT_1	Kota	kota1263	kfe	EAT	tin atej	tin atej	t i n  a t e j	tin atej	EAT_1	FALSE	Kolipakam (fieldwork)	
 Koya_EAT_1	Koya	koya1251	kff	EAT	tinnu	tinnu	t i n n u	tinnu	EAT_1	FALSE	Kolipakam fieldwork	
 Kuwi_EAT_1	Kuwi	kuvi1243	kxv	EAT	tinu	tinu	t i n u	tinu	EAT_1	FALSE	Kolipakam (fieldwork)	
 Malayalam_EAT_1	Malayalam	mala1464	mal	EAT	tinnuga	tinnuɡa	t i n n u ɡ a	tinnuga	EAT_1	FALSE	Kolipakam fieldwork	
@@ -568,7 +568,7 @@ Koya_FAT (FROM ANIMALS)_1	Koya	koya1251	kff	FAT (FROM ANIMALS)	kodoʋo:s	kodoʋo
 Malayalam_FAT (FROM ANIMALS)_1	Malayalam	mala1464	mal	FAT (FROM ANIMALS)	koɻuppə	koɻuppə	k o ɻ u p p ə	koɻuppə	FAT (FROM ANIMALS)_1	FALSE	Kolipakam fieldwork	
 Parji_FAT (FROM ANIMALS)_1	Parji	duru1236	pci	FAT (FROM ANIMALS)	koṛukuḍ	koɽukuɖ	k o ɽ u k u ɖ	koṛukuḍ	FAT (FROM ANIMALS)_1	FALSE		Andronov1964
 Tamil_FAT (FROM ANIMALS)_1	Tamil	tami1289	tam	FAT (FROM ANIMALS)	koɻuppə	koɻuppə	k o ɻ u p p ə	koɻuppə	FAT (FROM ANIMALS)_1	FALSE	Kolipakam fieldwork	Andronov1964
-Telugu_FAT (FROM ANIMALS)_1	Telugu	telu1262	tel	FAT (FROM ANIMALS)	koʋʋu (noun)	koʋʋu 	k o ʋ ʋ u  	koʋʋu (noun)	FAT (FROM ANIMALS)_1	FALSE	Kolipakam fieldwork	
+Telugu_FAT (FROM ANIMALS)_1	Telugu	telu1262	tel	FAT (FROM ANIMALS)	koʋʋu (noun)	koʋʋu 	k o ʋ ʋ u 	koʋʋu (noun)	FAT (FROM ANIMALS)_1	FALSE	Kolipakam fieldwork	
 Toda_FAT (FROM ANIMALS)_1	Toda	toda1252	tcx	FAT (FROM ANIMALS)	koɻəppə	koɻəppə	k o ɻ ə p p ə	koɻəppə	FAT (FROM ANIMALS)_1	FALSE	Kolipakam fieldwork	
 Koya_FAT (FROM ANIMALS)_2	Koya	koya1251	kff	FAT (FROM ANIMALS)	la:ʋ	laːʋ	l aː ʋ	la:ʋ	FAT (FROM ANIMALS)_2	FALSE	Kolipakam fieldwork	
 Telugu_FAT (FROM ANIMALS)_2	Telugu	telu1262	tel	FAT (FROM ANIMALS)	la:ʋu(adjective)	laːʋu	l aː ʋ u	la:ʋu(adjective)	FAT (FROM ANIMALS)_2	FALSE	Kolipakam fieldwork	
@@ -662,7 +662,7 @@ Yeruva_FLY (MOVE THROUGH AIR)_4	Yeruva	ravu1237	yea	FLY (MOVE THROUGH AIR)	mann�
 Kurukh_FLY (MOVE THROUGH AIR)_5	Kurukh	kuru1302	kru	FLY (MOVE THROUGH AIR)	uɖijaɾna	uɖijaɾna	u ɖ i j a ɾ n a	uɖijaɾna	FLY (MOVE THROUGH AIR)_5	FALSE	Kolipakam (fieldwork)	
 Malto_FLY (MOVE THROUGH AIR)_5	Malto	saur1249	mjt	FLY (MOVE THROUGH AIR)	uɖa:ɾi	uɖaːɾi	u ɖ aː ɾ i	uɖa:ɾi	FLY (MOVE THROUGH AIR)_5	FALSE	Kolipakam (fieldwork)	
 Kolami_FLY (MOVE THROUGH AIR)_6	Kolami	nort2699	kfb	FLY (MOVE THROUGH AIR)	tulsa:d	tulsaːd	t u l s aː d	tulsa:d	FLY (MOVE THROUGH AIR)_6	FALSE	Kolipakam (fieldwork)	
-Brahui_FLY (MOVE THROUGH AIR)_7	Brahui	brah1256	brh	FLY (MOVE THROUGH AIR)	ba:l kanning	baːl kanninɡ	b aː l   k a n n i n ɡ	ba:l kanning	FLY (MOVE THROUGH AIR)_7	FALSE	Kolipakam (fieldwork)	
+Brahui_FLY (MOVE THROUGH AIR)_7	Brahui	brah1256	brh	FLY (MOVE THROUGH AIR)	ba:l kanning	baːl kanninɡ	b aː l  k a n n i n ɡ	ba:l kanning	FLY (MOVE THROUGH AIR)_7	FALSE	Kolipakam (fieldwork)	
 Kannada_FOOT_1	Kannada	nucl1305	kan	FOOT	aḍi	aɖi	a ɖ i	aḍi	FOOT_1	FALSE		Andronov1964
 Koya_FOOT_1	Koya	koya1251	kff	FOOT	aɖugu	aɖuɡu	a ɖ u ɡ u	aɖugu	FOOT_1	FALSE	Kolipakam fieldwork	
 Malayalam_FOOT_1	Malayalam	mala1464	mal	FOOT	aṭi	aʈi	a ʈ i	aṭi	FOOT_1	FALSE		Andronov1964
@@ -779,7 +779,7 @@ Tulu_HAIR (HEAD)_2	Tulu	tulu1258	tcy	HAIR (HEAD)	ku:dʒal	kuːʤal	k uː ʤ a l	
 Telugu_HAIR (HEAD)_3	Telugu	telu1262	tel	HAIR (HEAD)	veɳʈɾukalu	veɳʈɾukalu	v e ɳ ʈ ɾ u k a l u	veɳʈɾukalu	HAIR (HEAD)_3	FALSE	Kolipakam fieldwork	
 Badga_HAIR (HEAD)_4	Badga	bada1257	bfq	HAIR (HEAD)	oɾame	oɾame	o ɾ a m e	oɾame	HAIR (HEAD)_4	TRUE	Kolipakam fieldwork	
 Malayalam_HAIR (HEAD)_4	Malayalam	mala1464	mal	HAIR (HEAD)	rōmam	ɾõmam	ɾ õ m a m	rōmam	HAIR (HEAD)_4	TRUE		Andronov1964
-Kota_HAIR (HEAD)_5	Kota	kota1263	kfe	HAIR (HEAD)	manɖə mi:ɾə	manɖə miːɾə	m a n ɖ ə   m iː ɾ ə	manɖə mi:ɾə	HAIR (HEAD)_5	FALSE	Kolipakam (fieldwork)	
+Kota_HAIR (HEAD)_5	Kota	kota1263	kfe	HAIR (HEAD)	manɖə mi:ɾə	manɖə miːɾə	m a n ɖ ə  m iː ɾ ə	manɖə mi:ɾə	HAIR (HEAD)_5	FALSE	Kolipakam (fieldwork)	
 Tamil_HAIR (HEAD)_5	Tamil	tami1289	tam	HAIR (HEAD)	maiɾə	maiɾə	m a i ɾ ə	maiɾə	HAIR (HEAD)_5	FALSE	Kolipakam fieldwork	
 Toda_HAIR (HEAD)_5	Toda	toda1252	tcx	HAIR (HEAD)	mi:ɾs	miːɾs	m iː ɾ s	mi:ɾs	HAIR (HEAD)_5	FALSE	Kolipakam fieldwork	
 Kodava_HAIR (HEAD)_6	Kodava	koda1255	kfa	HAIR (HEAD)	telami	telami	t e l a m i	telami	HAIR (HEAD)_6	FALSE	Kolipakam fieldwork	
@@ -892,7 +892,7 @@ Kurukh_HORN (ANATOMY)_3	Kurukh	kuru1302	kru	HORN (ANATOMY)	maɾag	maɾaɡ	m a ɾ
 Malto_HORN (ANATOMY)_3	Malto	saur1249	mjt	HORN (ANATOMY)	maɾgadu	maɾɡadu	m a ɾ ɡ a d u	maɾgadu	HORN (ANATOMY)_3	FALSE	Kolipakam (fieldwork)	
 Koya_HORN (ANATOMY)_4	Koya	koya1251	kff	HORN (ANATOMY)	ko:kku	koːkku	k oː k k u	ko:kku	HORN (ANATOMY)_4	FALSE	Kolipakam fieldwork	
 Gondi_HORN (ANATOMY)_5	Gondi	nort2702	gno	HORN (ANATOMY)	koɾ	koɾ	k o ɾ	koɾ	HORN (ANATOMY)_5	FALSE	Kolipakam (fieldwork)	
-Ollari_Gadba_HORN (ANATOMY)_5	Ollari Gadba	pott1240	gdb	HORN (ANATOMY)	kaɾ gutʃul	kaɾ ɡuʧul	k a ɾ   ɡ u ʧ u l	kaɾ gutʃul	HORN (ANATOMY)_5	FALSE	Kolipakam (fieldwork)	
+Ollari_Gadba_HORN (ANATOMY)_5	Ollari Gadba	pott1240	gdb	HORN (ANATOMY)	kaɾ gutʃul	kaɾ ɡuʧul	k a ɾ  ɡ u ʧ u l	kaɾ gutʃul	HORN (ANATOMY)_5	FALSE	Kolipakam (fieldwork)	
 Kannada_KILL_1	Kannada	nucl1305	kan	KILL	kollu	kollu	k o l l u	kollu	KILL_1	FALSE	Kolipakam fieldwork	Andronov1964
 Kodava_KILL_1	Kodava	koda1255	kfa	KILL	kollə	kollə	k o l l ə	kollə	KILL_1	FALSE	Kolipakam fieldwork	
 Malayalam_KILL_1	Malayalam	mala1464	mal	KILL	kolluga	kolluɡa	k o l l u ɡ a	kolluga	KILL_1	FALSE	Kolipakam fieldwork	Andronov1964
@@ -954,7 +954,7 @@ Brahui_KNOW_5	Brahui	brah1256	brh	KNOW	tʃa:ing	ʧaːinɡ	ʧ aː i n ɡ	tʃa:ing
 Tamil_KNOW_5	Tamil	tami1289	tam	KNOW	teɾijum	teɾijum	t e ɾ i j u m	teɾijum	KNOW_5	FALSE	Kolipakam fieldwork	
 Tamil_KNOW_5	Tamil	tami1289	tam	KNOW	terindʒuko	teɾinʤuko	t e ɾ i n ʤ u k o	terindʒuko	KNOW_5	FALSE	Kolipakam fieldwork	
 Tulu_KNOW_5	Tulu	tulu1258	tcy	KNOW	teɾijaɾa	teɾijaɾa	t e ɾ i j a ɾ a	teɾijaɾa	KNOW_5	FALSE	Kolipakam fieldwork	
-Betta_Kurumba_KNOW_6	Betta Kurumba	bett1235	xub	KNOW	gott(ə) uɳɖi	ɡott uɳɖi	ɡ o t t   u ɳ ɖ i	gott(ə) uɳɖi	KNOW_6	FALSE	Kolipakam fieldwork	
+Betta_Kurumba_KNOW_6	Betta Kurumba	bett1235	xub	KNOW	gott(ə) uɳɖi	ɡott uɳɖi	ɡ o t t  u ɳ ɖ i	gott(ə) uɳɖi	KNOW_6	FALSE	Kolipakam fieldwork	
 Betta_Kurumba_KNOW_6	Betta Kurumba	bett1235	xub	KNOW	gotta:g	ɡottaːɡ	ɡ o t t aː ɡ	gotta:g	KNOW_6	FALSE	Kolipakam fieldwork	
 Kota_KNOW_7	Kota	kota1263	kfe	KNOW	asu:bej	asuːbej	a s uː b e j	asu:bej	KNOW_7	FALSE	Kolipakam (fieldwork)	
 Malto_KNOW_8	Malto	saur1249	mjt	KNOW	baɖeminpo	baɖeminpo	b a ɖ e m i n p o	baɖeminpo	KNOW_8	FALSE	Kolipakam (fieldwork)	
@@ -987,7 +987,7 @@ Malto_LIE (REST)_1	Malto	saur1249	mjt	LIE (REST)	ko:ɖpo	koːɖpo	k oː ɖ p o	k
 Tamil_LIE (REST)_1	Tamil	tami1289	tam	LIE (REST)	keɖə	keɖə	k e ɖ ə	keɖə	LIE (REST)_1	FALSE	Kolipakam fieldwork	Andronov1964
 Kannada_LIE (REST)_2	Kannada	nucl1305	kan	LIE (REST)	malagu	malaɡu	m a l a ɡ u	malagu	LIE (REST)_2	FALSE	Kolipakam fieldwork	Andronov1964
 Gondi_LIE (REST)_3	Gondi	nort2702	gno	LIE (REST)	miɳɖsi	miɳɖsi	m i ɳ ɖ s i	miɳɖsi	LIE (REST)_3	FALSE	Kolipakam (fieldwork)	
-Kolami_LIE (REST)_3	Kolami	nort2699	kfb	LIE (REST)	laba:ɖ muɖsati	labaːɖ muɖsati	l a b aː ɖ   m u ɖ s a t i	laba:ɖ muɖsati	LIE (REST)_3	FALSE	Kolipakam (fieldwork)	
+Kolami_LIE (REST)_3	Kolami	nort2699	kfb	LIE (REST)	laba:ɖ muɖsati	labaːɖ muɖsati	l a b aː ɖ  m u ɖ s a t i	laba:ɖ muɖsati	LIE (REST)_3	FALSE	Kolipakam (fieldwork)	
 Parji_LIE (REST)_3	Parji	duru1236	pci	LIE (REST)	maḍ-	maɖ	m a ɖ	maḍ-	LIE (REST)_3	FALSE		Andronov1964
 Koya_LIE (REST)_4	Koya	koya1251	kff	LIE (REST)	undʒa	unʤa	u n ʤ a	undʒa	LIE (REST)_4	FALSE	Kolipakam fieldwork	
 Badga_LIE (REST)_5	Badga	bada1257	bfq	LIE (REST)	haɖaʋə	haɖaʋə	h a ɖ a ʋ ə	haɖaʋə	LIE (REST)_5	FALSE	Kolipakam fieldwork	
@@ -995,12 +995,12 @@ Toda_LIE (REST)_6	Toda	toda1252	tcx	LIE (REST)	poaʈtʃi:	poaʈʧiː	p o a ʈ ʧ
 Telugu_LIE (REST)_7	Telugu	telu1262	tel	LIE (REST)	paɖukonu	paɖukonu	p a ɖ u k o n u	paɖukonu	LIE (REST)_7	FALSE	Kolipakam fieldwork	
 Toda_LIE (REST)_8	Toda	toda1252	tcx	LIE (REST)	pokkum	pokkum	p o k k u m	pokkum	LIE (REST)_8	FALSE	Kolipakam fieldwork	
 Betta_Kurumba_LIE (REST)_9	Betta Kurumba	bett1235	xub	LIE (REST)	ba:ɖ	baːɖ	b aː ɖ	ba:ɖ	LIE (REST)_9	FALSE	Kolipakam fieldwork	
-Betta_Kurumba_LIE (REST)_9	Betta Kurumba	bett1235	xub	LIE (REST)	ba:ʈɳu i:ɾ	baːʈɳu iːɾ	b aː ʈ ɳ u   iː ɾ	ba:ʈɳu i:ɾ	LIE (REST)_9	FALSE	Kolipakam fieldwork	
+Betta_Kurumba_LIE (REST)_9	Betta Kurumba	bett1235	xub	LIE (REST)	ba:ʈɳu i:ɾ	baːʈɳu iːɾ	b aː ʈ ɳ u  iː ɾ	ba:ʈɳu i:ɾ	LIE (REST)_9	FALSE	Kolipakam fieldwork	
 Kodava_LIE (REST)_9	Kodava	koda1255	kfa	LIE (REST)	budda	budda	b u d d a	budda	LIE (REST)_9	FALSE	Kolipakam fieldwork	
 Tamil_LIE (REST)_9	Tamil	tami1289	tam	LIE (REST)	paɖə	paɖə	p a ɖ ə	paɖə	LIE (REST)_9	FALSE	Kolipakam fieldwork	
 Tulu_LIE (REST)_9	Tulu	tulu1258	tcy	LIE (REST)	buɾo:naɾa	buɾoːnaɾa	b u ɾ oː n a ɾ a	buɾo:naɾa	LIE (REST)_9	FALSE	Kolipakam fieldwork	
 Yeruva_LIE (REST)_9	Yeruva	ravu1237	yea	LIE (REST)	bi:ndo	biːndo	b iː n d o	bi:ndo	LIE (REST)_9	FALSE	Kolipakam fieldwork	
-Brahui_LIE (REST)_10	Brahui	brah1256	brh	LIE (REST)	dɾogʰ taɖing	dɾoɡʰ taɖinɡ	d ɾ o ɡʰ   t a ɖ i n ɡ	dɾogʰ taɖing	LIE (REST)_10	FALSE	Kolipakam (fieldwork)	
+Brahui_LIE (REST)_10	Brahui	brah1256	brh	LIE (REST)	dɾogʰ taɖing	dɾoɡʰ taɖinɡ	d ɾ o ɡʰ  t a ɖ i n ɡ	dɾogʰ taɖing	LIE (REST)_10	FALSE	Kolipakam (fieldwork)	
 Kurukh_LIE (REST)_11	Kurukh	kuru1302	kru	LIE (REST)	paiha	paiha	p a i h a	paiha	LIE (REST)_11	FALSE	Kolipakam (fieldwork)	
 Kurukh_LIE (REST)_12	Kurukh	kuru1302	kru	LIE (REST)	fasija:r	fasijaːɾ	f a s i j aː ɾ	fasija:r	LIE (REST)_12	FALSE	Kolipakam (fieldwork)	
 Gondi_LIE (REST)_13	Gondi	nort2702	gno	LIE (REST)	dolsi	dolsi	d o l s i	dolsi	LIE (REST)_13	FALSE	Kolipakam (fieldwork)	
@@ -1172,7 +1172,7 @@ Malayalam_MOUNTAIN_6	Malayalam	mala1464	mal	MOUNTAIN	paɾʋatam	paɾʋatam	p a �
 Telugu_MOUNTAIN_6	Telugu	telu1262	tel	MOUNTAIN	paɾʋatamu	paɾʋatamu	p a ɾ ʋ a t a m u	paɾʋatamu	MOUNTAIN_6	TRUE	Kolipakam fieldwork	
 Toda_MOUNTAIN_7	Toda	toda1252	tcx	MOUNTAIN	tiʈʈə	tiʈʈə	t i ʈ ʈ ə	tiʈʈə	MOUNTAIN_7	FALSE	Kolipakam fieldwork	
 Tulu_MOUNTAIN_8	Tulu	tulu1258	tcy	MOUNTAIN	da:ɾi	daːɾi	d aː ɾ i	da:ɾi	MOUNTAIN_8	FALSE	Kolipakam fieldwork	
-Malto_MOUNTAIN_9	Malto	saur1249	mjt	MOUNTAIN	be:ɖo paha:ɖi	beːɖo pahaːɖi	b eː ɖ o   p a h aː ɖ i	be:ɖo paha:ɖi	MOUNTAIN_9	FALSE	Kolipakam (fieldwork)	
+Malto_MOUNTAIN_9	Malto	saur1249	mjt	MOUNTAIN	be:ɖo paha:ɖi	beːɖo pahaːɖi	b eː ɖ o  p a h aː ɖ i	be:ɖo paha:ɖi	MOUNTAIN_9	FALSE	Kolipakam (fieldwork)	
 Kurukh_MOUNTAIN_10	Kurukh	kuru1302	kru	MOUNTAIN	paɾta	paɾta	p a ɾ t a	paɾta	MOUNTAIN_10	FALSE	Kolipakam (fieldwork)	
 Kolami_MOUNTAIN_11	Kolami	nort2699	kfb	MOUNTAIN	danɖime:ʈ	danɖimeːʈ	d a n ɖ i m eː ʈ	danɖime:ʈ	MOUNTAIN_11	FALSE	Kolipakam (fieldwork)	
 Kota_MOUNTAIN_12	Kota	kota1263	kfe	MOUNTAIN	ʋe:ʈume	ʋeːʈume	ʋ eː ʈ u m e	ʋe:ʈume	MOUNTAIN_12	FALSE	Kolipakam (fieldwork)	
@@ -1461,7 +1461,7 @@ Toda_ROUND_4	Toda	toda1252	tcx	ROUND	uʈʈi	uʈʈi	u ʈ ʈ i	uʈʈi	ROUND_4	FALS
 Tulu_ROUND_4	Tulu	tulu1258	tcy	ROUND	uɾuʈə	uɾuʈə	u ɾ u ʈ ə	uɾuʈə	ROUND_4	FALSE	Kolipakam fieldwork	
 Yeruva_ROUND_4	Yeruva	ravu1237	yea	ROUND	uɾuʈu	uɾuʈu	u ɾ u ʈ u	uɾuʈu	ROUND_4	FALSE	Kolipakam fieldwork	
 Betta_Kurumba_ROUND_5	Betta Kurumba	bett1235	xub	ROUND	bəjnsakɾangu:də	bəjnsakɾanɡuːdə	b ə j n s a k ɾ a n ɡ uː d ə	bəjnsakɾangu:də	ROUND_5	FALSE	Kolipakam fieldwork	
-Brahui_ROUND_6	Brahui	brah1256	brh	ROUND	go:l peɾi	ɡoːl peɾi	ɡ oː l   p e ɾ i	go:l peɾi	ROUND_6	TRUE	Kolipakam (fieldwork)	
+Brahui_ROUND_6	Brahui	brah1256	brh	ROUND	go:l peɾi	ɡoːl peɾi	ɡ oː l  p e ɾ i	go:l peɾi	ROUND_6	TRUE	Kolipakam (fieldwork)	
 Kolami_ROUND_7	Kolami	nort2699	kfb	ROUND	bubbaɾi	bubbaɾi	b u b b a ɾ i	bubbaɾi	ROUND_7	FALSE	Kolipakam (fieldwork)	
 Betta_Kurumba_SAND_1	Betta Kurumba	bett1235	xub	SAND	maɳalə	maɳalə	m a ɳ a l ə	maɳalə	SAND_1	FALSE	Kolipakam fieldwork	
 Kannada_SAND_1	Kannada	nucl1305	kan	SAND	maraɭu	maɾaɭu	m a ɾ a ɭ u	maraɭu	SAND_1	FALSE	Kolipakam fieldwork	
@@ -1556,7 +1556,7 @@ Betta_Kurumba_SIT_4	Betta Kurumba	bett1235	xub	SIT	ku:ɾsu	kuːɾsu	k uː ɾ s u
 Telugu_SIT_4	Telugu	telu1262	tel	SIT	ku:ɾtʃo	kuːɾʧo	k uː ɾ ʧ o	ku:ɾtʃo	SIT_4	FALSE	Kolipakam fieldwork	
 Kurukh_SIT_5	Kurukh	kuru1302	kru	SIT	okʰna	okʰna	o kʰ n a	okʰna	SIT_5	FALSE	Kolipakam (fieldwork)	
 Malto_SIT_5	Malto	saur1249	mjt	SIT	hokpo	hokpo	h o k p o	hokpo	SIT_5	FALSE	Kolipakam (fieldwork)	
-Betta_Kurumba_SIT_6	Betta Kurumba	bett1235	xub	SIT	ku:tnu i:ɾ	kuːtnu iːɾ	k uː t n u   iː ɾ	ku:tnu i:ɾ	SIT_6	FALSE	Kolipakam fieldwork	
+Betta_Kurumba_SIT_6	Betta Kurumba	bett1235	xub	SIT	ku:tnu i:ɾ	kuːtnu iːɾ	k uː t n u  iː ɾ	ku:tnu i:ɾ	SIT_6	FALSE	Kolipakam fieldwork	
 Kannada_SIT_6	Kannada	nucl1305	kan	SIT	ku:tuko	kuːtuko	k uː t u k o	ku:tuko	SIT_6	FALSE	Kolipakam fieldwork	
 Koya_SIT_6	Koya	koya1251	kff	SIT	kudda:	kuddaː	k u d d aː	kudda:	SIT_6	FALSE	Kolipakam fieldwork	
 Kodava_SIT_7	Kodava	koda1255	kfa	SIT	aɭe	aɭe	a ɭ e	aɭe	SIT_7	FALSE	Kolipakam fieldwork	
@@ -1602,7 +1602,7 @@ Telugu_SLEEP_3	Telugu	telu1262	tel	SLEEP	nidɾapoʋu	nidɾapoʋu	n i d ɾ a p o 
 Gondi_SLEEP_4	Gondi	nort2702	gno	SLEEP	mi:ɳɖa	miːɳɖa	m iː ɳ ɖ a	mi:ɳɖa	SLEEP_4	FALSE	Kolipakam (fieldwork)	
 Parji_SLEEP_4	Parji	duru1236	pci	SLEEP	maḍ-	maɖ	m a ɖ	maḍ-	SLEEP_4	FALSE		Andronov1964
 Kurukh_SLEEP_5	Kurukh	kuru1302	kru	SLEEP	khandaɾna	khandaɾna	k h a n d a ɾ n a	khandaɾna	SLEEP_5	FALSE	Kolipakam (fieldwork)	
-Malto_SLEEP_5	Malto	saur1249	mjt	SLEEP	andaɾpo ko:ɖa	andaɾpo koːɖa	a n d a ɾ p o   k oː ɖ a	andaɾpo ko:ɖa	SLEEP_5	FALSE	Kolipakam (fieldwork)	
+Malto_SLEEP_5	Malto	saur1249	mjt	SLEEP	andaɾpo ko:ɖa	andaɾpo koːɖa	a n d a ɾ p o  k oː ɖ a	andaɾpo ko:ɖa	SLEEP_5	FALSE	Kolipakam (fieldwork)	
 Tamil_SLEEP_6	Tamil	tami1289	tam	SLEEP	tu:ngə	tuːnɡə	t uː n ɡ ə	tu:ngə	SLEEP_6	FALSE	Kolipakam fieldwork	
 Koya_SLEEP_7	Koya	koya1251	kff	SLEEP	undʒaʈam	unʤaʈam	u n ʤ a ʈ a m	undʒaʈam	SLEEP_7	FALSE	Kolipakam fieldwork	
 Tulu_SLEEP_8	Tulu	tulu1258	tcy	SLEEP	dʒippaɾa	ʤippaɾa	ʤ i p p a ɾ a	dʒippaɾa	SLEEP_8	FALSE	Kolipakam fieldwork	
@@ -1667,11 +1667,11 @@ Telugu_STAND_1	Telugu	telu1262	tel	STAND	niltʃonu	nilʧonu	n i l ʧ o n u	nilt�
 Telugu_STAND_1	Telugu	telu1262	tel	STAND	nilabaɖu	nilabaɖu	n i l a b a ɖ u	nilabaɖu	STAND_1	FALSE	Kolipakam fieldwork	
 Yeruva_STAND_1	Yeruva	ravu1237	yea	STAND	nindʒo	ninʤo	n i n ʤ o	nindʒo	STAND_1	FALSE	Kolipakam fieldwork	
 Betta_Kurumba_STAND_2	Betta Kurumba	bett1235	xub	STAND	ə:ɭ	əːɭ	əː ɭ	ə:ɭ	STAND_2	FALSE	Kolipakam fieldwork	
-Betta_Kurumba_STAND_3	Betta Kurumba	bett1235	xub	STAND	əddənu i:ɾ	əddənu iːɾ	ə d d ə n u   iː ɾ	əddənu i:ɾ	STAND_3	FALSE	Kolipakam fieldwork	
+Betta_Kurumba_STAND_3	Betta Kurumba	bett1235	xub	STAND	əddənu i:ɾ	əddənu iːɾ	ə d d ə n u  iː ɾ	əddənu i:ɾ	STAND_3	FALSE	Kolipakam fieldwork	
 Toda_STAND_4	Toda	toda1252	tcx	STAND	mukkaɖuɾil	mukkaɖuɾil	m u k k a ɖ u ɾ i l	mukkaɖuɾil	STAND_4	FALSE	Kolipakam fieldwork	
 Tulu_STAND_5	Tulu	tulu1258	tcy	STAND	untaɾa	untaɾa	u n t a ɾ a	untaɾa	STAND_5	FALSE	Kolipakam fieldwork	
 Brahui_STAND_6	Brahui	brah1256	brh	STAND	saling	salinɡ	s a l i n ɡ	saling	STAND_6	FALSE	Kolipakam (fieldwork)	
-Brahui_STAND_6	Brahui	brah1256	brh	STAND	dʒe:k saling	ʤeːk salinɡ	ʤ eː k   s a l i n ɡ	dʒe:k saling	STAND_6	FALSE	Kolipakam (fieldwork)	
+Brahui_STAND_6	Brahui	brah1256	brh	STAND	dʒe:k saling	ʤeːk salinɡ	ʤ eː k  s a l i n ɡ	dʒe:k saling	STAND_6	FALSE	Kolipakam (fieldwork)	
 Betta_Kurumba_STAR_1	Betta Kurumba	bett1235	xub	STAR	mi:nu	miːnu	m iː n u	mi:nu	STAR_1	FALSE	Kolipakam fieldwork	
 Kurukh_STAR_1	Kurukh	kuru1302	kru	STAR	bi:nko	biːnko	b iː n k o	bi:nko	STAR_1	FALSE	Kolipakam (fieldwork)	
 Malto_STAR_1	Malto	saur1249	mjt	STAR	bi:nka	biːnka	b iː n k a	bi:nka	STAR_1	FALSE	Kolipakam (fieldwork)	
@@ -2105,7 +2105,7 @@ Kolami_WOMAN_14	Kolami	nort2699	kfb	WOMAN	ba:ji	baːji	b aː j i	ba:ji	WOMAN_14	
 Gondi_WOMAN_15	Gondi	nort2702	gno	WOMAN	muɾtad	muɾtad	m u ɾ t a d	muɾtad	WOMAN_15	FALSE	Kolipakam (fieldwork)	
 Kuwi_WOMAN_16	Kuwi	kuvi1243	kxv	WOMAN	ɖoli	ɖoli	ɖ o l i	ɖoli	WOMAN_16	FALSE	Kolipakam (fieldwork)	
 Kuwi_WOMAN_17	Kuwi	kuvi1243	kxv	WOMAN	a:nʋanli	aːnʋanli	aː n ʋ a n l i	a:nʋanli	WOMAN_17	FALSE	Kolipakam (fieldwork)	
-Kuwi_WOMAN_18	Kuwi	kuvi1243	kxv	WOMAN	kodogi pada	kodoɡi pada	k o d o ɡ i   p a d a	kodogi pada	WOMAN_18	FALSE	Kolipakam (fieldwork)	
+Kuwi_WOMAN_18	Kuwi	kuvi1243	kxv	WOMAN	kodogi pada	kodoɡi pada	k o d o ɡ i  p a d a	kodogi pada	WOMAN_18	FALSE	Kolipakam (fieldwork)	
 Badga_YELLOW_1	Badga	bada1257	bfq	YELLOW	mandʒe	manʤe	m a n ʤ e	mandʒe	YELLOW_1	FALSE	Kolipakam fieldwork	
 Betta_Kurumba_YELLOW_1	Betta Kurumba	bett1235	xub	YELLOW	mandʒəla:ngi	manʤəlaːnɡi	m a n ʤ ə l aː n ɡ i	mandʒəla:ngi	YELLOW_1	FALSE	Kolipakam fieldwork	
 Kodava_YELLOW_1	Kodava	koda1255	kfa	YELLOW	mandʒa	manʤa	m a n ʤ a	mandʒa	YELLOW_1	FALSE	Kolipakam fieldwork	
@@ -2123,6 +2123,6 @@ Malto_YELLOW_5	Malto	saur1249	mjt	YELLOW	balke	balke	b a l k e	balke	YELLOW_5	FA
 Kuwi_YELLOW_6	Kuwi	kuvi1243	kxv	YELLOW	hingeɾi	hinɡeɾi	h i n ɡ e ɾ i	hingeɾi	YELLOW_6	FALSE	Kolipakam (fieldwork)	
 Brahui_YELLOW_7	Brahui	brah1256	brh	YELLOW	pu:ʃkun	puːʃkun	p uː ʃ k u n	pu:ʃkun	YELLOW_7	FALSE	Kolipakam (fieldwork)	
 Kuwi_YELLOW_8	Kuwi	kuvi1243	kxv	YELLOW	togoɾi	toɡoɾi	t o ɡ o ɾ i	togoɾi	YELLOW_8	FALSE	Kolipakam (fieldwork)	
-Gondi_YELLOW_9	Gondi	nort2702	gno	YELLOW	piva:ʰd	pivaːʰd	p i v aːʰ d	piva:ʰd	YELLOW_9	FALSE	Kolipakam (fieldwork)	
+Gondi_YELLOW_9	Gondi	nort2702	gno	YELLOW	piva:ʰd	pivaːʰd	p i v aː ʰd	piva:ʰd	YELLOW_9	FALSE	Kolipakam (fieldwork)	
 Gondi_YELLOW_10	Gondi	nort2702	gno	YELLOW	kampal	kampal	k a m p a l	kampal	YELLOW_10	FALSE	Kolipakam (fieldwork)	
 Kolami_YELLOW_11	Kolami	nort2699	kfb	YELLOW	pijuda	pijuda	p i j u d a	pijuda	YELLOW_11	FALSE	Kolipakam (fieldwork)	

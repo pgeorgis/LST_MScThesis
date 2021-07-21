@@ -80,13 +80,15 @@ suprasegmental_diacritics.remove('ː') #don't include length as a suprasegmental
 
 
 #Diacritics by position with respect to base segments
+inter_diacritics = ['͡', '͜']
 pre_diacritics = set([diacritics_data['Diacritic'][i] 
                       for i in range(len(diacritics_data))
                       if diacritics_data['Position'][i] == 'pre'])
 post_diacritics = set([diacritics_data['Diacritic'][i]
                        for i in range(len(diacritics_data))
                        if diacritics_data['Position'][i] == 'post'])
-inter_diacritics = ['͡', '͜']
+prepost_diacritics = {'ʰ', 'ʱ', 'ⁿ'} #diacritics which can appear before or after
+
 
 #List of all diacritic characters
 diacritics = list(pre_diacritics) + list(post_diacritics) + inter_diacritics
@@ -314,14 +316,42 @@ def segment_word(word):
         #Or, if there was a previous sound at the current index
         elif i in phone_list:
             
-            #Last character of this previous sound
-            last = phone_list[i][-1]
+            #Previous segment
+            prev = phone_list[i]
             
-            #Increment index by 1 if the current character is NOT a diacritic
+            #Last character of this previous segment
+            last = prev[-1]
+            
+            #Base of this previous segment
+            prev_base = strip_diacritics(prev)
+            
+            #Increment index by 1 if the current character is a consonant or vowel
             #AND if the last character of the previous sound was either
             #a post-diacritic or not a diacritic at all:
-            if ch not in diacritics:
-                if ((last in post_diacritics) or (last not in diacritics)):
+            if ch in consonants+vowels:
+                if last in post_diacritics:
+                    
+                    #Don't increment the index unless the previous segment
+                    #consists of more than just a diacritic,
+                    #which would be the case for pre-aspiration/pre-nasalization
+                    if len(prev_base) > 0:
+                        i += 1
+                    
+                elif last not in diacritics:
+                    i += 1
+            
+            #If the current character is a toneme, increment the index only
+            #if the base of the previous sound was not a toneme
+            #(in order to group sequences of tonemes and associated diacritics as a single segment)
+            elif ch in tonemes:
+                if prev_base not in tonemes:
+                    i += 1
+            
+            #If the character is a diacritic which could be either a pre- or post-diacritic
+            #Increment the index by 1 if the base of the previous sound is a vowel
+            #In order to prevent pre-aspiration/nasalization to be added to a previous vowel
+            elif ch in prepost_diacritics:
+                if prev_base in vowels:
                     i += 1
         
         #Add the character to the yielded index
@@ -484,13 +514,13 @@ def align_costs(seq1, seq2, dist_func, sim=False): #*kwargs?
             alignment_costs[(i, j)] = cost
     return alignment_costs
 
-def log_phone_sim_sonority(seg1, seg2, method='dice'):
+def log_phone_sim_sonority(seg1, seg2, method='dice', max_penalty=-7):
     try:
         phon_sim = math.log(phone_sim(seg1, seg2, method))
     
-    #If phone similarity = 0, we can't take the log. Instead set to negative infinity
+    #If phone similarity = 0, we can't take the log. Instead set to maximum penalty
     except ValueError:
-        phon_sim = -math.inf
+        phon_sim = max_penalty
     
     #Sonority difference is number of levels of difference in sonority
     son_diff = abs(get_sonority(seg1) - get_sonority(seg2))

@@ -462,7 +462,7 @@ AustralA_ABOVE_1	Austral (Ra'ivavae)	raiv1237	aut	ABOVE	Guʔa	ɢuʔa	ɢ u ʔ a	�
 Tuamotuan_ABOVE_1	Tuamotuan	tuam1242	pmt	ABOVE	ruŋa	ruŋa	r u ŋ a	ruŋa	ABOVE_1	FALSE	Above	POLLEX
 Niuean_ABOVE_1	Niuean	niue1239	niu	ABOVE	lunga	luŋa	l u ŋ a	luŋa	ABOVE_1	FALSE	Above	POLLEX
 AustralB_ABOVE_1	Austral (Rurutuan)	ruru1237	aut	ABOVE	nuʔa	nuʔa	n u ʔ a	nuʔa	ABOVE_1	FALSE		Meyer-128-2005
-FutunaAniwa_ABOVE_1	Futuna-Aniwa	futu1245	fut	ABOVE	weihlunga	weiʰluŋa	w e iʰ l u ŋ a	wei+ʰluŋa	ABOVE_1	FALSE		POLLEX
+FutunaAniwa_ABOVE_1	Futuna-Aniwa	futu1245	fut	ABOVE	weihlunga	weiʰluŋa	w e i ʰl u ŋ a	wei+ʰluŋa	ABOVE_1	FALSE		POLLEX
 Hawaiian_ABOVE_1	Hawaiian	hawa1245	haw	ABOVE	i luna	iluna	i l u n a	i_luna	ABOVE_1	FALSE		71458
 Rarotongan_ABOVE_1	Rarotongan	raro1241	rar	ABOVE	runga	ruŋa	r u ŋ a	ruŋa	ABOVE_1	FALSE	Above	POLLEX
 Penrhyn_ABOVE_1	Penrhyn	penr1237	pnh	ABOVE	runga	ruŋa	r u ŋ a	ruŋa	ABOVE_1	FALSE	Top	POLLEX
@@ -576,7 +576,7 @@ Tuamotuan_ASH_4	Tuamotuan	tuam1242	pmt	ASH	rehu	rehu	r e h u	rehu	ASH_4	FALSE	As
 Niuean_ASH_4	Niuean	niue1239	niu	ASH	efu/efu	efu	e f u	efu	ASH_4	FALSE	Ashes (I)	POLLEX
 AustralB_ASH_4	Austral (Rurutuan)	ruru1237	aut	ASH	reʔu	reʔu	r e ʔ u	reʔu	ASH_4	FALSE		Meyer-128-2005
 FutunaAniwa_ASH_4	Futuna-Aniwa	futu1245	fut	ASH	magarafu	maɡarafu	m a ɡ a r a f u	ma_ga+rafu	ASH_4	FALSE		POLLEX
-FutunaAniwa_ASH_3	Futuna-Aniwa	futu1245	fut	ASH	namuhlanga	namuʰlaŋa	n a m uʰ l a ŋ a	namu_ʰlaŋa	ASH_3	FALSE		POLLEX
+FutunaAniwa_ASH_3	Futuna-Aniwa	futu1245	fut	ASH	namuhlanga	namuʰlaŋa	n a m u ʰl a ŋ a	namu_ʰlaŋa	ASH_3	FALSE		POLLEX
 Hawaiian_ASH_4	Hawaiian	hawa1245	haw	ASH	lehu	lehu	l e h u	lehu	ASH_4	FALSE		71458
 Rarotongan_ASH_4	Rarotongan	raro1241	rar	ASH	rèu	reʔu	r e ʔ u	reʔu	ASH_4	FALSE	Ashes	POLLEX
 Penrhyn_ASH_4	Penrhyn	penr1237	pnh	ASH	rehu	rehu	r e h u	rehu	ASH_4	FALSE	Pollex 06: Rehu. :Ash (Sta).	POLLEX
@@ -1933,7 +1933,7 @@ Tuamotuan_GREEN_1	Tuamotuan	tuam1242	pmt	GREEN	matie	matie	m a t i e	matie	GREEN
 Niuean_GREEN_4	Niuean	niue1239	niu	GREEN	lanu laukou	lanulaukou	l a n u l a u k o u	lanu_laukou	GREEN_4	FALSE		POLLEX
 AustralB_GREEN_1	Austral (Rurutuan)	ruru1237	aut	GREEN	matie	matie	m a t i e	matie	GREEN_1	FALSE		Meyer-128-2005
 FutunaAniwa_GREEN_2	Futuna-Aniwa	futu1245	fut	GREEN	moto	moto	m o t o	moto	GREEN_2	FALSE	Green,  bitter,  unripe (Dty)	POLLEX
-FutunaAniwa_GREEN_1	Futuna-Aniwa	futu1245	fut	GREEN	raunea mahmata	rauneamaʰmata	r a u n e a m aʰ m a t a	raunea_maʰmata	GREEN_1	FALSE		POLLEX
+FutunaAniwa_GREEN_1	Futuna-Aniwa	futu1245	fut	GREEN	raunea mahmata	rauneamaʰmata	r a u n e a m a ʰm a t a	raunea_maʰmata	GREEN_1	FALSE		POLLEX
 Hawaiian_GREEN_9	Hawaiian	hawa1245	haw	GREEN	ma'oma'o	maʔomaʔo	m a ʔ o m a ʔ o	maʔo+maʔo	GREEN_9	FALSE		71458
 Rarotongan_GREEN_1	Rarotongan	raro1241	rar	GREEN	tāmatie	taamatie	t a a m a t i e	taː+matie	GREEN_1	FALSE		POLLEX
 Rarotongan_GREEN_1	Rarotongan	raro1241	rar	GREEN	'akamatie	ʔakamatie	ʔ a k a m a t i e	ʔaka+matie	GREEN_1	FALSE		POLLEX
@@ -3207,7 +3207,7 @@ Tuamotuan_PAINFUL OR SICK_2	Tuamotuan	tuam1242	pmt	PAINFUL OR SICK	mamae	mamae	m
 Niuean_PAINFUL OR SICK_1	Niuean	niue1239	niu	PAINFUL OR SICK	maki	maki	m a k i	maki	PAINFUL OR SICK_1	FALSE	Pollex 06: Maki. :Sickness, illness, sore.	POLLEX
 AustralB_PAINFUL OR SICK_1	Austral (Rurutuan)	ruru1237	aut	PAINFUL OR SICK	maʔi	maʔi	m a ʔ i	maʔi	PAINFUL OR SICK_1	FALSE	sick	Meyer-128-2005
 AustralB_PAINFUL OR SICK_7	Austral (Rurutuan)	ruru1237	aut	PAINFUL OR SICK	paʔo	paʔo	p a ʔ o	paʔo	PAINFUL OR SICK_7	FALSE	/paÊ”o/ (painful)	Meyer-128-2005
-FutunaAniwa_PAINFUL OR SICK_2	Futuna-Aniwa	futu1245	fut	PAINFUL OR SICK	hmae	ʰmae	ʰ m a e	ʰmae	PAINFUL OR SICK_2	FALSE	Pain (Dty)	POLLEX
+FutunaAniwa_PAINFUL OR SICK_2	Futuna-Aniwa	futu1245	fut	PAINFUL OR SICK	hmae	ʰmae	ʰm a e	ʰmae	PAINFUL OR SICK_2	FALSE	Pain (Dty)	POLLEX
 FutunaAniwa_PAINFUL OR SICK_1	Futuna-Aniwa	futu1245	fut	PAINFUL OR SICK	maki	maki	m a k i	maki	PAINFUL OR SICK_1	FALSE		POLLEX
 Hawaiian_PAINFUL OR SICK_1	Hawaiian	hawa1245	haw	PAINFUL OR SICK	ma'i	maʔi	m a ʔ i	maʔi	PAINFUL OR SICK_1	FALSE		71458
 Rarotongan_PAINFUL OR SICK_1	Rarotongan	raro1241	rar	PAINFUL OR SICK	maauiui	maauiui	m a a u i u i	maː+ui+ui	PAINFUL OR SICK_1	FALSE	Tired, weary, fatigued	POLLEX
@@ -3791,7 +3791,7 @@ Pukapuka_SHY OR ASHAMED_1	Pukapuka	puka1242	pkp	SHY OR ASHAMED	akamā	akamaa	a k
 AustralA_SHY OR ASHAMED_1	Austral (Ra'ivavae)	raiv1237	aut	SHY OR ASHAMED	māmahu	maamahu	m a a m a h u	maː+mahu	SHY OR ASHAMED_1	FALSE		Tamaititahio-1213-2015
 Niuean_SHY OR ASHAMED_1	Niuean	niue1239	niu	SHY OR ASHAMED	maa	maa	m a a	maː	SHY OR ASHAMED_1	FALSE	Ashamed	POLLEX
 AustralB_SHY OR ASHAMED_1	Austral (Rurutuan)	ruru1237	aut	SHY OR ASHAMED	ʔaʔamaa	ʔaʔamaa	ʔ a ʔ a m a a	ʔaʔa+maː	SHY OR ASHAMED_1	FALSE	(ashamed)	Meyer-128-2005
-FutunaAniwa_SHY OR ASHAMED_1	Futuna-Aniwa	futu1245	fut	SHY OR ASHAMED	hma	ʰma	ʰ m a	ʰma	SHY OR ASHAMED_1	FALSE	Be ashamed,  embarassed (Dty)	POLLEX
+FutunaAniwa_SHY OR ASHAMED_1	Futuna-Aniwa	futu1245	fut	SHY OR ASHAMED	hma	ʰma	ʰm a	ʰma	SHY OR ASHAMED_1	FALSE	Be ashamed,  embarassed (Dty)	POLLEX
 Hawaiian_SHY OR ASHAMED_4	Hawaiian	hawa1245	haw	SHY OR ASHAMED	hilahila	hilahila	h i l a h i l a	hila+hila	SHY OR ASHAMED_4	FALSE		71458
 Rarotongan_SHY OR ASHAMED_1	Rarotongan	raro1241	rar	SHY OR ASHAMED	tā'akamā	taaʔakamaaːʔakama	t a a ʔ a k a m a aː ʔ a k a m a	taː+ʔaka+maː	SHY OR ASHAMED_1	FALSE	ashamed	POLLEX
 Penrhyn_SHY OR ASHAMED_1	Penrhyn	penr1237	pnh	SHY OR ASHAMED	maa	maa	m a a	maː	SHY OR ASHAMED_1	FALSE	Ashamed, shy	POLLEX
@@ -4494,7 +4494,7 @@ Niuean_BLOW (OF WIND)_4	Niuean	niue1239	niu	BLOW (OF WIND)	ifi	ifi	i f i	ifi	BLO
 AustralB_BLOW (OF WIND)_6	Austral (Rurutuan)	ruru1237	aut	BLOW (OF WIND)	puʔi	puʔi	p u ʔ i	puʔi	BLOW (OF WIND)_6	FALSE	(to blow - with the mouth)	Meyer-128-2005
 AustralB_BLOW (OF WIND)_10	Austral (Rurutuan)	ruru1237	aut	BLOW (OF WIND)	farara	farara	f a r a r a	fara+ra	BLOW (OF WIND)_10	TRUE	to blow - of the wind (likely a recent Tahitian loanword as /f/ -> /Ê”/ has not occurred)	Meyer-128-2005
 FutunaAniwa_BLOW (OF WIND)_4	Futuna-Aniwa	futu1245	fut	BLOW (OF WIND)	ifia	ifia	i f i a	i+fia	BLOW (OF WIND)_4	FALSE		POLLEX
-FutunaAniwa_BLOW (OF WIND)_3	Futuna-Aniwa	futu1245	fut	BLOW (OF WIND)	hsau [sʰau]	ʰsau	ʰ s a u	ʰsau	BLOW (OF WIND)_3	FALSE		POLLEX
+FutunaAniwa_BLOW (OF WIND)_3	Futuna-Aniwa	futu1245	fut	BLOW (OF WIND)	hsau [sʰau]	ʰsau	ʰs a u	ʰsau	BLOW (OF WIND)_3	FALSE		POLLEX
 Hawaiian_BLOW (OF WIND)_8	Hawaiian	hawa1245	haw	BLOW (OF WIND)	pā	paa	p a a	paː	BLOW (OF WIND)_8	FALSE		71458
 Hawaiian_BLOW (OF WIND)_6	Hawaiian	hawa1245	haw	BLOW (OF WIND)	puhi	puhi	p u h i	puhi	BLOW (OF WIND)_6	FALSE		71458
 Rarotongan_BLOW (OF WIND)_6	Rarotongan	raro1241	rar	BLOW (OF WIND)	puì	puʔi	p u ʔ i	puʔi	BLOW (OF WIND)_6	FALSE	Blow	POLLEX
@@ -4755,7 +4755,7 @@ Tuamotuan_COME_1	Tuamotuan	tuam1242	pmt	COME	(haere) mai	mai	m a i	mai	COME_1	FA
 Niuean_COME_5	Niuean	niue1239	niu	COME	aua/a	aua	a u a	aua	COME_5	FALSE	Arrive opportunely, to happen upon (McE)	POLLEX
 AustralB_COME_1	Austral (Rurutuan)	ruru1237	aut	COME	ʔaere mai	ʔaeremai	ʔ a e r e m a i	ʔaere_mai	COME_1	TRUE	/Ê”aere/ is likely a Tahitian loanword	Meyer-128-2005
 AustralB_COME_1	Austral (Rurutuan)	ruru1237	aut	COME	ʔano mai	ʔanomai	ʔ a n o m a i	ʔano_mai	COME_1	FALSE		Meyer-128-2005
-FutunaAniwa_COME_1	Futuna-Aniwa	futu1245	fut	COME	hmai [ṃai]	ʰmai	ʰ m a i	ʰmai	COME_1	FALSE		POLLEX
+FutunaAniwa_COME_1	Futuna-Aniwa	futu1245	fut	COME	hmai [ṃai]	ʰmai	ʰm a i	ʰmai	COME_1	FALSE		POLLEX
 Hawaiian_COME_1	Hawaiian	hawa1245	haw	COME	[hele] mai	mai	m a i	mai	COME_1	FALSE		71458
 Rarotongan_COME_6	Rarotongan	raro1241	rar	COME	tātā'i	taataaːtaʔi	t a a t a aː t a ʔ i	taː+taːʔi	COME_6	FALSE		POLLEX
 Nukuria_COME_1	Nukuria	nuku1259	nur	COME	oo-mai (pl.)	oomai	o o m a i	oː+mai	COME_1	FALSE	(pl.) suppletive	Davletshin-1212-2015
@@ -5357,7 +5357,7 @@ Pukapuka_HIDE_3	Pukapuka	puka1242	pkp	HIDE	nanā	nanaa	n a n a a	nanaː	HIDE_3	F
 AustralA_HIDE_1	Austral (Ra'ivavae)	raiv1237	aut	HIDE	tāponiponi	taaponiponi	t a a p o n i p o n i	taː+poni+poni	HIDE_1	FALSE		Tamaititahio-1213-2015
 Tuamotuan_HIDE_1	Tuamotuan	tuam1242	pmt	HIDE	taahuna	taahuna	t a a h u n a	taː+huna	HIDE_1	FALSE	Pollex 06: Taahuna. :To hide, conceal.	POLLEX
 AustralB_HIDE_1	Austral (Rurutuan)	ruru1237	aut	HIDE	ʔuna	ʔuna	ʔ u n a	ʔuna	HIDE_1	FALSE		Meyer-128-2005
-FutunaAniwa_HIDE_1	Futuna-Aniwa	futu1245	fut	HIDE	hmuni [ṃuni]	ʰmuni	ʰ m u n i	ʰmuni	HIDE_1	FALSE		POLLEX
+FutunaAniwa_HIDE_1	Futuna-Aniwa	futu1245	fut	HIDE	hmuni [ṃuni]	ʰmuni	ʰm u n i	ʰmuni	HIDE_1	FALSE		POLLEX
 Hawaiian_HIDE_1	Hawaiian	hawa1245	haw	HIDE	hūnā	huunauːna	h u u n a uː n a	huːnaː	HIDE_1	FALSE		71458
 Rarotongan_HIDE_1	Rarotongan	raro1241	rar	HIDE	pi(i)pini	pipini	p i p i n i	pi+pini	HIDE_1	FALSE	Hide (obs.) (Bse)  Hide (Bse)	POLLEX
 Penrhyn_HIDE_6	Penrhyn	penr1237	pnh	HIDE	koopiri	koopiri	k o o p i r i	koːpiri	HIDE_6	FALSE	Pollex 06: <Koopiri. :To hide (Sta)>.	POLLEX
@@ -5509,7 +5509,7 @@ MeleFila_HUNT_12	Mele-Fila	mele1250	mxe	HUNT	palako	palako	p a l a k o	palako	HU
 AustralA_HUNT_19	Austral (Ra'ivavae)	raiv1237	aut	HUNT	aʔuaʔu	aʔuaʔu	a ʔ u a ʔ u	aʔu+aʔu	HUNT_19	FALSE		Tamaititahio-1213-2015
 Tuamotuan_HUNT_19	Tuamotuan	tuam1242	pmt	HUNT	akuaku	akuaku	a k u a k u	aku+aku	HUNT_19	FALSE		POLLEX
 AustralB_HUNT_19	Austral (Rurutuan)	ruru1237	aut	HUNT	aʔuaʔu	aʔuaʔu	a ʔ u a ʔ u	aʔu+aʔu	HUNT_19	FALSE		Meyer-128-2005
-FutunaAniwa_HUNT_14	Futuna-Aniwa	futu1245	fut	HUNT	hmoshi [mcʃi]	ʰmoʃi	ʰ m o ʃ i	ʰmoʃi	HUNT_14	FALSE		POLLEX
+FutunaAniwa_HUNT_14	Futuna-Aniwa	futu1245	fut	HUNT	hmoshi [mcʃi]	ʰmoʃi	ʰm o ʃ i	ʰmoʃi	HUNT_14	FALSE		POLLEX
 Hawaiian_HUNT_15	Hawaiian	hawa1245	haw	HUNT	hahai	hahai	h a h a i	ha+hai	HUNT_15	FALSE		71458
 Rarotongan_HUNT_21	Rarotongan	raro1241	rar	HUNT	apuapu	apuapu	a p u a p u	apu+apu	HUNT_21	FALSE	hunt down	POLLEX
 Rarotongan_HUNT_16	Rarotongan	raro1241	rar	HUNT	kimi	kimi	k i m i	kimi	HUNT_16	FALSE	hunt	POLLEX
@@ -6976,7 +6976,7 @@ Tuamotuan_WET_12	Tuamotuan	tuam1242	pmt	WET	rari	rari	r a r i	rari	WET_12	FALSE	
 AustralB_WET_1	Austral (Rurutuan)	ruru1237	aut	WET	maʔu	maʔu	m a ʔ u	maʔu	WET_1	FALSE		Meyer-128-2005
 AustralB_WET_12	Austral (Rurutuan)	ruru1237	aut	WET	rari	rari	r a r i	rari	WET_12	FALSE		Meyer-128-2005
 FutunaAniwa_WET_2	Futuna-Aniwa	futu1245	fut	WET	su	su	s u	su	WET_2	FALSE	Wet (Dty)	POLLEX
-FutunaAniwa_WET_10	Futuna-Aniwa	futu1245	fut	WET	hnupu [n̥upu]	ʰnupu	ʰ n u p u	ʰnupu	WET_10	FALSE		POLLEX
+FutunaAniwa_WET_10	Futuna-Aniwa	futu1245	fut	WET	hnupu [n̥upu]	ʰnupu	ʰn u p u	ʰnupu	WET_10	FALSE		POLLEX
 Hawaiian_WET_7	Hawaiian	hawa1245	haw	WET	pulu	pulu	p u l u	pulu	WET_7	FALSE		71458
 Rarotongan_WET_12	Rarotongan	raro1241	rar	WET	tārari	taarari	t a a r a r i	taː+rari	WET_12	FALSE		POLLEX
 Rarotongan_WET_1	Rarotongan	raro1241	rar	WET	mā'ū'ū	maaʔuaːʔuʔuaːʔuːʔu	m a a ʔ u aː ʔ u ʔ u aː ʔ uː ʔ u	maː+ʔuːʔuː	WET_1	FALSE		POLLEX
@@ -7172,7 +7172,7 @@ AustralA_WIDE_5	Austral (Ra'ivavae)	raiv1237	aut	WIDE	GaGahi	ɢaɢahi	ɢ a ɢ a 
 Tuamotuan_WIDE_6	Tuamotuan	tuam1242	pmt	WIDE	raha(raha)	raha	r a h a	raha	WIDE_6	FALSE	Wide, extended	POLLEX
 Niuean_WIDE_12	Niuean	niue1239	niu	WIDE	laulahi	laulahi	l a u l a h i	lau+lahi	WIDE_12	FALSE	Wide, broad	POLLEX
 AustralB_WIDE_9	Austral (Rurutuan)	ruru1237	aut	WIDE	ʔaʔano	ʔaʔano	ʔ a ʔ a n o	ʔa+ʔano	WIDE_9	FALSE		Meyer-128-2005
-FutunaAniwa_WIDE_6	Futuna-Aniwa	futu1245	fut	WIDE	xlafa	ʰlafa	ʰ l a f a	ʰlafa	WIDE_6	FALSE	Broad,  wide	POLLEX
+FutunaAniwa_WIDE_6	Futuna-Aniwa	futu1245	fut	WIDE	xlafa	ʰlafa	ʰl a f a	ʰlafa	WIDE_6	FALSE	Broad,  wide	POLLEX
 Hawaiian_WIDE_3	Hawaiian	hawa1245	haw	WIDE	ākea	aakea	a a k e a	aːkea	WIDE_3	FALSE		71458
 Rarotongan_WIDE_3	Rarotongan	raro1241	rar	WIDE	ātea	aatea	a a t e a	aːtea	WIDE_3	FALSE		POLLEX
 Rarotongan_WIDE_9	Rarotongan	raro1241	rar	WIDE	'a'ano	ʔaʔano	ʔ a ʔ a n o	ʔa+ʔano	WIDE_9	FALSE		POLLEX
@@ -7352,7 +7352,7 @@ Tuamotuan_FOREST_3	Tuamotuan	tuam1242	pmt	FOREST	ŋahere	ŋahere	ŋ a h e r e	ŋ
 Niuean_FOREST_1	Niuean	niue1239	niu	FOREST	vao	vao	v a o	vao	FOREST_1	FALSE	Forest	POLLEX
 Niuean_FOREST_2	Niuean	niue1239	niu	FOREST	ulu	ulu	u l u	ulu	FOREST_2	FALSE	Grove, clump (i), plantation, group (Mce)	POLLEX
 AustralB_FOREST_2	Austral (Rurutuan)	ruru1237	aut	FOREST	ururaaʔau	ururaaʔau	u r u r a a ʔ a u	uru+raːʔau	FOREST_2	FALSE		Meyer-128-2005
-FutunaAniwa_FOREST_5	Futuna-Aniwa	futu1245	fut	FOREST	ngamotu hmara [ṃara]	ŋamotuʰmara	ŋ a m o t uʰ m a r a	ŋamotu_ʰmara	FOREST_5	FALSE		POLLEX
+FutunaAniwa_FOREST_5	Futuna-Aniwa	futu1245	fut	FOREST	ngamotu hmara [ṃara]	ŋamotuʰmara	ŋ a m o t u ʰm a r a	ŋamotu_ʰmara	FOREST_5	FALSE		POLLEX
 Hawaiian_FOREST_2	Hawaiian	hawa1245	haw	FOREST	ulu lā'au	ululaaʔau	u l u l a a ʔ a u	ulu+laːʔau	FOREST_2	FALSE		71458
 Rarotongan_FOREST_1	Rarotongan	raro1241	rar	FOREST	vao	vao	v a o	vao	FOREST_1	FALSE	Forest	POLLEX
 Penrhyn_FOREST_1	Penrhyn	penr1237	pnh	FOREST	voo	voo	v o o	voː	FOREST_1	FALSE	Pollex 06: Voo. :Bush, forest (Sta).	POLLEX
@@ -7451,7 +7451,7 @@ Tuamotuan_YELLOW_1	Tuamotuan	tuam1242	pmt	YELLOW	reŋareŋa	reŋareŋa	r e ŋ a 
 Niuean_YELLOW_14	Niuean	niue1239	niu	YELLOW	ago	aɡo	a ɡ o	ago	YELLOW_14	FALSE		POLLEX
 AustralB_YELLOW_1	Austral (Rurutuan)	ruru1237	aut	YELLOW	reʔareʔa	reʔareʔa	r e ʔ a r e ʔ a	reʔa+reʔa	YELLOW_1	FALSE		Meyer-128-2005
 FutunaAniwa_YELLOW_4	Futuna-Aniwa	futu1245	fut	YELLOW	fero	fero	f e r o	fero	YELLOW_4	FALSE	Yellow (Dty)	POLLEX
-FutunaAniwa_YELLOW_11	Futuna-Aniwa	futu1245	fut	YELLOW	raunea hleu [ḷeu]	rauneaʰleu	r a u n e aʰ l e u	rau+nea_ʰleu	YELLOW_11	FALSE		POLLEX
+FutunaAniwa_YELLOW_11	Futuna-Aniwa	futu1245	fut	YELLOW	raunea hleu [ḷeu]	rauneaʰleu	r a u n e a ʰl e u	rau+nea_ʰleu	YELLOW_11	FALSE		POLLEX
 Hawaiian_YELLOW_1	Hawaiian	hawa1245	haw	YELLOW	lena	lena	l e n a	lena	YELLOW_1	FALSE		71458
 Rarotongan_YELLOW_1	Rarotongan	raro1241	rar	YELLOW	rengarenga	reŋareŋa	r e ŋ a r e ŋ a	reŋa+reŋa	YELLOW_1	TRUE	Yellow	POLLEX
 Penrhyn_YELLOW_1	Penrhyn	penr1237	pnh	YELLOW	rengarenga	reŋareŋa	r e ŋ a r e ŋ a	reŋa+reŋa	YELLOW_1	FALSE	Yellow	POLLEX

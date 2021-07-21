@@ -242,6 +242,7 @@ class Language(Dataset):
         self.vowels = defaultdict(lambda:0)
         self.consonants = defaultdict(lambda:0)
         self.tonemes = defaultdict(lambda:0)
+        self.tonal = False
         
         #Phonological contexts
         self.trigrams = defaultdict(lambda:0)
@@ -296,6 +297,15 @@ class Language(Dataset):
                                          if len(strip_diacritics(c)) > 0 #remove this line once segment word function is updated to include all current diacritics
                                          if strip_diacritics(c)[0] in consonants}, 
                                          default=True, lmbda=0)
+        
+        self.tonemes = normalize_dict({t:self.phonemes[t] 
+                                       for t in self.phonemes 
+                                       if len(strip_diacritics(t)) > 0 #remove this line once segment word function is updated to include all current diacritics
+                                       if strip_diacritics(t)[0] in tonemes}, 
+                                      default=True, lmbda=0)
+        #Designate language as tonal if it has tonemes
+        if len(self.tonemes) > 0:
+            self.tonal = True
             
     def create_vocabulary(self):
         for i in self.data:
