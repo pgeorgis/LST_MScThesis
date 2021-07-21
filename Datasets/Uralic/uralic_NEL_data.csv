@@ -3656,24 +3656,24 @@ Estonian_TOOTH	Estonian	esto1258	ekk	TOOTH	hammas	hɑmːɑs	h ɑ mː ɑ s	hɑmː
 Estonian_TONGUE	Estonian	esto1258	ekk	TONGUE	keel	keːl	k eː l	keːl	TONGUE			Dellert et al., 2019
 Estonian_LIP	Estonian	esto1258	ekk	LIP	huul	huːl	h uː l	huːl	LIP			Dellert et al., 2019
 Estonian_CHEEK	Estonian	esto1258	ekk	CHEEK	põsk	pɤsk	p ɤ s k	pɤsk	CHEEK			Dellert et al., 2019
-Estonian_FACE	Estonian	esto1258	ekk	FACE	nägu	næɡ̥u	n æ ɡ ̥ u	næɡ̥u	FACE			Dellert et al., 2019
+Estonian_FACE	Estonian	esto1258	ekk	FACE	nägu	næɡ̥u	n æ ɡ̥ u	næɡ̥u	FACE			Dellert et al., 2019
 Estonian_FOREHEAD	Estonian	esto1258	ekk	FOREHEAD	otsmik	otsmik	o t s m i k	otsmik	FOREHEAD			Dellert et al., 2019
 Estonian_HAIR	Estonian	esto1258	ekk	HAIR	juus	juːs	j uː s	juːs	HAIR			Dellert et al., 2019
-Estonian_MOUSTACHE	Estonian	esto1258	ekk	MOUSTACHE	vurrud	vurːud̥	v u rː u d ̥	vurːud̥	MOUSTACHE			Dellert et al., 2019
-Estonian_MOUSTACHE	Estonian	esto1258	ekk	MOUSTACHE	vuntsid	vuntsʲid̥	v u n t sʲ i d ̥	vuntsʲid̥	MOUSTACHE			Dellert et al., 2019
-Estonian_BEARD	Estonian	esto1258	ekk	BEARD	habe	hɑb̥e	h ɑ b ̥ e	hɑb̥e	BEARD			Dellert et al., 2019
-Estonian_CHIN	Estonian	esto1258	ekk	CHIN	lõug	lɤuɡ̥	l ɤ u ɡ ̥	lɤuɡ̥	CHIN			Dellert et al., 2019
+Estonian_MOUSTACHE	Estonian	esto1258	ekk	MOUSTACHE	vurrud	vurːud̥	v u rː u d̥	vurːud̥	MOUSTACHE			Dellert et al., 2019
+Estonian_MOUSTACHE	Estonian	esto1258	ekk	MOUSTACHE	vuntsid	vuntsʲid̥	v u n t sʲ i d̥	vuntsʲid̥	MOUSTACHE			Dellert et al., 2019
+Estonian_BEARD	Estonian	esto1258	ekk	BEARD	habe	hɑb̥e	h ɑ b̥ e	hɑb̥e	BEARD			Dellert et al., 2019
+Estonian_CHIN	Estonian	esto1258	ekk	CHIN	lõug	lɤuɡ̥	l ɤ u ɡ̥	lɤuɡ̥	CHIN			Dellert et al., 2019
 Estonian_JAW	Estonian	esto1258	ekk	JAW	lõualuu	lɤuɑluː	l ɤ u ɑ l uː	lɤuɑluː	JAW			Dellert et al., 2019
 Estonian_THROAT	Estonian	esto1258	ekk	THROAT	kõri	kɤri	k ɤ r i	kɤri	THROAT			Dellert et al., 2019
 Estonian_NECK	Estonian	esto1258	ekk	NECK	kael	kɑel	k ɑ e l	kɑel	NECK			Dellert et al., 2019
 Estonian_NAPE_(OF_NECK)	Estonian	esto1258	ekk	NAPE (OF NECK)	kukal	kukɑl	k u k ɑ l	kukɑl	NAPE_(OF_NECK)			Dellert et al., 2019
 Estonian_HEAD	Estonian	esto1258	ekk	HEAD	pea	peɑ	p e ɑ	peɑ	HEAD			Dellert et al., 2019
-Estonian_BACK	Estonian	esto1258	ekk	BACK	selg	sʲelɡ̥	sʲ e l ɡ ̥	sʲelɡ̥	BACK			Dellert et al., 2019
+Estonian_BACK	Estonian	esto1258	ekk	BACK	selg	sʲelɡ̥	sʲ e l ɡ̥	sʲelɡ̥	BACK			Dellert et al., 2019
 Estonian_BELLY	Estonian	esto1258	ekk	BELLY	kõht	kɤxt	k ɤ x t	kɤxt	BELLY			Dellert et al., 2019
-Estonian_NAVEL	Estonian	esto1258	ekk	NAVEL	naba	nɑb̥ɑ	n ɑ b ̥ ɑ	nɑb̥ɑ	NAVEL			Dellert et al., 2019
-Estonian_BREAST	Estonian	esto1258	ekk	BREAST	rind	rind̥	r i n d ̥	rind̥	BREAST			Dellert et al., 2019
-Estonian_CHEST	Estonian	esto1258	ekk	CHEST	rind	rind̥	r i n d ̥	rind̥	CHEST			Dellert et al., 2019
-Estonian_SHOULDER	Estonian	esto1258	ekk	SHOULDER	õlg	ɤlɡ̥	ɤ l ɡ ̥	ɤlɡ̥	SHOULDER			Dellert et al., 2019
+Estonian_NAVEL	Estonian	esto1258	ekk	NAVEL	naba	nɑb̥ɑ	n ɑ b̥ ɑ	nɑb̥ɑ	NAVEL			Dellert et al., 2019
+Estonian_BREAST	Estonian	esto1258	ekk	BREAST	rind	rind̥	r i n d̥	rind̥	BREAST			Dellert et al., 2019
+Estonian_CHEST	Estonian	esto1258	ekk	CHEST	rind	rind̥	r i n d̥	rind̥	CHEST			Dellert et al., 2019
+Estonian_SHOULDER	Estonian	esto1258	ekk	SHOULDER	õlg	ɤlɡ̥	ɤ l ɡ̥	ɤlɡ̥	SHOULDER			Dellert et al., 2019
 Estonian_ARM	Estonian	esto1258	ekk	ARM	käsivars	kæsʲivɑrs	k æ sʲ i v ɑ r s	kæsʲivɑrs	ARM			Dellert et al., 2019
 Estonian_ELBOW	Estonian	esto1258	ekk	ELBOW	küünarnukk	kyːnɑrnukː	k yː n ɑ r n u kː	kyːnɑrnukː	ELBOW			Dellert et al., 2019
 Estonian_HAND	Estonian	esto1258	ekk	HAND	käsi	kæsʲi	k æ sʲ i	kæsʲi	HAND			Dellert et al., 2019
@@ -3682,11 +3682,11 @@ Estonian_FINGER	Estonian	esto1258	ekk	FINGER	sõrm	sɤrm	s ɤ r m	sɤrm	FINGER		
 Estonian_FINGERNAIL	Estonian	esto1258	ekk	FINGERNAIL	küüs	kyːs	k yː s	kyːs	FINGERNAIL			Dellert et al., 2019
 Estonian_FINGERNAIL_OR_TOENAIL	Estonian	esto1258	ekk	FINGERNAIL OR TOENAIL	küüs	kyːs	k yː s	kyːs	FINGERNAIL_OR_TOENAIL			Dellert et al., 2019
 Estonian_TOE	Estonian	esto1258	ekk	TOE	varvas	vɑrvɑs	v ɑ r v ɑ s	vɑrvɑs	TOE			Dellert et al., 2019
-Estonian_FOOT	Estonian	esto1258	ekk	FOOT	jalg	jɑlɡ̥	j ɑ l ɡ ̥	jɑlɡ̥	FOOT			Dellert et al., 2019
-Estonian_HEEL	Estonian	esto1258	ekk	HEEL	kand	kɑnd̥	k ɑ n d ̥	kɑnd̥	HEEL			Dellert et al., 2019
+Estonian_FOOT	Estonian	esto1258	ekk	FOOT	jalg	jɑlɡ̥	j ɑ l ɡ̥	jɑlɡ̥	FOOT			Dellert et al., 2019
+Estonian_HEEL	Estonian	esto1258	ekk	HEEL	kand	kɑnd̥	k ɑ n d̥	kɑnd̥	HEEL			Dellert et al., 2019
 Estonian_KNEE	Estonian	esto1258	ekk	KNEE	põlv	pɤlv	p ɤ l v	pɤlv	KNEE			Dellert et al., 2019
 Estonian_THIGH	Estonian	esto1258	ekk	THIGH	reis	reis	r e i s	reis	THIGH			Dellert et al., 2019
-Estonian_LEG	Estonian	esto1258	ekk	LEG	jalg	jɑlɡ̥	j ɑ l ɡ ̥	jɑlɡ̥	LEG			Dellert et al., 2019
+Estonian_LEG	Estonian	esto1258	ekk	LEG	jalg	jɑlɡ̥	j ɑ l ɡ̥	jɑlɡ̥	LEG			Dellert et al., 2019
 Estonian_BODY	Estonian	esto1258	ekk	BODY	ihu	ihu	i h u	ihu	BODY			Dellert et al., 2019
 Estonian_BODY	Estonian	esto1258	ekk	BODY	keha	kehɑ	k e h ɑ	kehɑ	BODY			Dellert et al., 2019
 Estonian_SKIN	Estonian	esto1258	ekk	SKIN	nahk	nɑxk	n ɑ x k	nɑxk	SKIN			Dellert et al., 2019
@@ -3695,15 +3695,15 @@ Estonian_VEIN	Estonian	esto1258	ekk	VEIN	veen	veːn	v eː n	veːn	VEIN			Dellert
 Estonian_TENDON	Estonian	esto1258	ekk	TENDON	kõõlus	kɤːlus	k ɤː l u s	kɤːlus	TENDON			Dellert et al., 2019
 Estonian_BONE	Estonian	esto1258	ekk	BONE	luu	luː	l uː	luː	BONE			Dellert et al., 2019
 Estonian_BRAIN	Estonian	esto1258	ekk	BRAIN	aju	ɑju	ɑ j u	ɑju	BRAIN			Dellert et al., 2019
-Estonian_HEART	Estonian	esto1258	ekk	HEART	süda	syd̥ɑ	s y d ̥ ɑ	syd̥ɑ	HEART			Dellert et al., 2019
-Estonian_STOMACH	Estonian	esto1258	ekk	STOMACH	magu	mɑɡ̥u	m ɑ ɡ ̥ u	mɑɡ̥u	STOMACH			Dellert et al., 2019
+Estonian_HEART	Estonian	esto1258	ekk	HEART	süda	syd̥ɑ	s y d̥ ɑ	syd̥ɑ	HEART			Dellert et al., 2019
+Estonian_STOMACH	Estonian	esto1258	ekk	STOMACH	magu	mɑɡ̥u	m ɑ ɡ̥ u	mɑɡ̥u	STOMACH			Dellert et al., 2019
 Estonian_LIVER	Estonian	esto1258	ekk	LIVER	maks	mɑks	m ɑ k s	mɑks	LIVER			Dellert et al., 2019
-Estonian_BREATH	Estonian	esto1258	ekk	BREATH	hingeõhk	hiŋk̥eɤxk	h i ŋ k ̥ e ɤ x k	hiŋk̥eɤxk	BREATH			Dellert et al., 2019
-Estonian_BREATH	Estonian	esto1258	ekk	BREATH	hingamine	hiŋk̥ɑminʲe	h i ŋ k ̥ ɑ m i nʲ e	hiŋk̥ɑminʲe	BREATH			Dellert et al., 2019
-Estonian_HUNGER	Estonian	esto1258	ekk	HUNGER	nälg	nælɡ̥	n æ l ɡ ̥	nælɡ̥	HUNGER			Dellert et al., 2019
+Estonian_BREATH	Estonian	esto1258	ekk	BREATH	hingeõhk	hiŋk̥eɤxk	h i ŋ k̥ e ɤ x k	hiŋk̥eɤxk	BREATH			Dellert et al., 2019
+Estonian_BREATH	Estonian	esto1258	ekk	BREATH	hingamine	hiŋk̥ɑminʲe	h i ŋ k̥ ɑ m i nʲ e	hiŋk̥ɑminʲe	BREATH			Dellert et al., 2019
+Estonian_HUNGER	Estonian	esto1258	ekk	HUNGER	nälg	nælɡ̥	n æ l ɡ̥	nælɡ̥	HUNGER			Dellert et al., 2019
 Estonian_TEAR_(OF_EYE)	Estonian	esto1258	ekk	TEAR (OF EYE)	pisar	pisɑr	p i s ɑ r	pisɑr	TEAR_(OF_EYE)			Dellert et al., 2019
 Estonian_TASTE	Estonian	esto1258	ekk	TASTE	maitse	mɑitsʲe	m ɑ i t sʲ e	mɑitsʲe	TASTE			Dellert et al., 2019
-Estonian_DREAM	Estonian	esto1258	ekk	DREAM	unenägu	unʲenæɡ̥u	u nʲ e n æ ɡ ̥ u	unʲenæɡ̥u	DREAM			Dellert et al., 2019
+Estonian_DREAM	Estonian	esto1258	ekk	DREAM	unenägu	unʲenæɡ̥u	u nʲ e n æ ɡ̥ u	unʲenæɡ̥u	DREAM			Dellert et al., 2019
 Estonian_SKY	Estonian	esto1258	ekk	SKY	taevas	tɑevɑs	t ɑ e v ɑ s	tɑevɑs	SKY			Dellert et al., 2019
 Estonian_SUN	Estonian	esto1258	ekk	SUN	päike	pæike	p æ i k e	pæike	SUN			Dellert et al., 2019
 Estonian_MOON	Estonian	esto1258	ekk	MOON	kuu	kuː	k uː	kuː	MOON			Dellert et al., 2019
@@ -3718,14 +3718,14 @@ Estonian_GROUND	Estonian	esto1258	ekk	GROUND	pinnas	pinːɑs	p i nː ɑ s	pinː�
 Estonian_EARTH_(SOIL)	Estonian	esto1258	ekk	EARTH (SOIL)	maa	mɑː	m ɑː	mɑː	EARTH_(SOIL)			Dellert et al., 2019
 Estonian_DUST	Estonian	esto1258	ekk	DUST	põrm	pɤrm	p ɤ r m	pɤrm	DUST			Dellert et al., 2019
 Estonian_SMOKE_(EXHAUST)	Estonian	esto1258	ekk	SMOKE (EXHAUST)	suits	suits	s u i t s	suits	SMOKE_(EXHAUST)			Dellert et al., 2019
-Estonian_SPARK	Estonian	esto1258	ekk	SPARK	säde	sæd̥e	s æ d ̥ e	sæd̥e	SPARK			Dellert et al., 2019
+Estonian_SPARK	Estonian	esto1258	ekk	SPARK	säde	sæd̥e	s æ d̥ e	sæd̥e	SPARK			Dellert et al., 2019
 Estonian_FIRE	Estonian	esto1258	ekk	FIRE	tuli	tulʲi	t u lʲ i	tulʲi	FIRE			Dellert et al., 2019
-Estonian_LIGHT_(RADIATION)	Estonian	esto1258	ekk	LIGHT (RADIATION)	valgus	vɑlɡ̥us	v ɑ l ɡ ̥ u s	vɑlɡ̥us	LIGHT_(RADIATION)			Dellert et al., 2019
+Estonian_LIGHT_(RADIATION)	Estonian	esto1258	ekk	LIGHT (RADIATION)	valgus	vɑlɡ̥us	v ɑ l ɡ̥ u s	vɑlɡ̥us	LIGHT_(RADIATION)			Dellert et al., 2019
 Estonian_SHADE	Estonian	esto1258	ekk	SHADE	vari	vɑri	v ɑ r i	vɑri	SHADE			Dellert et al., 2019
 Estonian_WEATHER	Estonian	esto1258	ekk	WEATHER	ilm	ilm	i l m	ilm	WEATHER			Dellert et al., 2019
-Estonian_FOG	Estonian	esto1258	ekk	FOG	udu	ud̥u	u d ̥ u	ud̥u	FOG			Dellert et al., 2019
+Estonian_FOG	Estonian	esto1258	ekk	FOG	udu	ud̥u	u d̥ u	ud̥u	FOG			Dellert et al., 2019
 Estonian_CLOUD	Estonian	esto1258	ekk	CLOUD	pilv	pilv	p i l v	pilv	CLOUD			Dellert et al., 2019
-Estonian_RAIN_(PRECIPITATION)	Estonian	esto1258	ekk	RAIN (PRECIPITATION)	sadu	sɑd̥u	s ɑ d ̥ u	sɑd̥u	RAIN_(PRECIPITATION)			Dellert et al., 2019
+Estonian_RAIN_(PRECIPITATION)	Estonian	esto1258	ekk	RAIN (PRECIPITATION)	sadu	sɑd̥u	s ɑ d̥ u	sɑd̥u	RAIN_(PRECIPITATION)			Dellert et al., 2019
 Estonian_SNOW	Estonian	esto1258	ekk	SNOW	lumi	lumi	l u m i	lumi	SNOW			Dellert et al., 2019
 Estonian_ICE	Estonian	esto1258	ekk	ICE	jää	jæː	j æː	jæː	ICE			Dellert et al., 2019
 Estonian_FROST	Estonian	esto1258	ekk	FROST	pakane	pɑkɑnʲe	p ɑ k ɑ nʲ e	pɑkɑnʲe	FROST			Dellert et al., 2019
@@ -3740,16 +3740,16 @@ Estonian_DIRT	Estonian	esto1258	ekk	DIRT	mustus	mustus	m u s t u s	mustus	DIRT		
 Estonian_LAKE	Estonian	esto1258	ekk	LAKE	järv	jærv	j æ r v	jærv	LAKE			Dellert et al., 2019
 Estonian_SWAMP	Estonian	esto1258	ekk	SWAMP	soo	soː	s oː	soː	SWAMP			Dellert et al., 2019
 Estonian_FOREST	Estonian	esto1258	ekk	FOREST	mets	mets	m e t s	mets	FOREST			Dellert et al., 2019
-Estonian_HILL	Estonian	esto1258	ekk	HILL	küngas	kyŋk̥ɑs	k y ŋ k ̥ ɑ s	kyŋk̥ɑs	HILL			Dellert et al., 2019
-Estonian_MOUNTAIN	Estonian	esto1258	ekk	MOUNTAIN	mägi	mæɡ̥i	m æ ɡ ̥ i	mæɡ̥i	MOUNTAIN			Dellert et al., 2019
+Estonian_HILL	Estonian	esto1258	ekk	HILL	küngas	kyŋk̥ɑs	k y ŋ k̥ ɑ s	kyŋk̥ɑs	HILL			Dellert et al., 2019
+Estonian_MOUNTAIN	Estonian	esto1258	ekk	MOUNTAIN	mägi	mæɡ̥i	m æ ɡ̥ i	mæɡ̥i	MOUNTAIN			Dellert et al., 2019
 Estonian_SUMMIT	Estonian	esto1258	ekk	SUMMIT	mäetipp	mæetʲipː	m æ e tʲ i pː	mæetʲipː	SUMMIT			Dellert et al., 2019
-Estonian_CAVE	Estonian	esto1258	ekk	CAVE	koobas	koːb̥ɑs	k oː b ̥ ɑ s	koːb̥ɑs	CAVE			Dellert et al., 2019
+Estonian_CAVE	Estonian	esto1258	ekk	CAVE	koobas	koːb̥ɑs	k oː b̥ ɑ s	koːb̥ɑs	CAVE			Dellert et al., 2019
 Estonian_PRECIPICE	Estonian	esto1258	ekk	PRECIPICE	nõlvak	nɤlvɑk	n ɤ l v ɑ k	nɤlvɑk	PRECIPICE			Dellert et al., 2019
 Estonian_SPRING_(OF_WATER)	Estonian	esto1258	ekk	SPRING (OF WATER)	allikas	ɑlʲːikɑs	ɑ lʲː i k ɑ s	ɑlʲːikɑs	SPRING_(OF_WATER)			Dellert et al., 2019
-Estonian_RIVER	Estonian	esto1258	ekk	RIVER	jõgi	jɤɡ̥i	j ɤ ɡ ̥ i	jɤɡ̥i	RIVER			Dellert et al., 2019
+Estonian_RIVER	Estonian	esto1258	ekk	RIVER	jõgi	jɤɡ̥i	j ɤ ɡ̥ i	jɤɡ̥i	RIVER			Dellert et al., 2019
 Estonian_SHORE	Estonian	esto1258	ekk	SHORE	kallas	kɑlːɑs	k ɑ lː ɑ s	kɑlːɑs	SHORE			Dellert et al., 2019
 Estonian_COAST	Estonian	esto1258	ekk	COAST	rannik	rɑnʲːik	r ɑ nʲː i k	rɑnʲːik	COAST			Dellert et al., 2019
-Estonian_MAINLAND	Estonian	esto1258	ekk	MAINLAND	mander	mɑnd̥er	m ɑ n d ̥ e r	mɑnd̥er	MAINLAND			Dellert et al., 2019
+Estonian_MAINLAND	Estonian	esto1258	ekk	MAINLAND	mander	mɑnd̥er	m ɑ n d̥ e r	mɑnd̥er	MAINLAND			Dellert et al., 2019
 Estonian_MAINLAND	Estonian	esto1258	ekk	MAINLAND	maismaa	mɑismɑː	m ɑ i s m ɑː	mɑismɑː	MAINLAND			Dellert et al., 2019
 Estonian_SEA	Estonian	esto1258	ekk	SEA	meri	meri	m e r i	meri	SEA			Dellert et al., 2019
 Estonian_BAY	Estonian	esto1258	ekk	BAY	laht	lɑxt	l ɑ x t	lɑxt	BAY			Dellert et al., 2019
@@ -3763,35 +3763,35 @@ Estonian_BARK	Estonian	esto1258	ekk	BARK	koor	koːr	k oː r	koːr	BARK			Dellert
 Estonian_BRANCH	Estonian	esto1258	ekk	BRANCH	oks	oks	o k s	oks	BRANCH			Dellert et al., 2019
 Estonian_LEAF	Estonian	esto1258	ekk	LEAF	leht	lʲext	lʲ e x t	lʲext	LEAF			Dellert et al., 2019
 Estonian_BIRCH	Estonian	esto1258	ekk	BIRCH	kask	kɑsk	k ɑ s k	kɑsk	BIRCH			Dellert et al., 2019
-Estonian_PINE	Estonian	esto1258	ekk	PINE	mänd	mænd̥	m æ n d ̥	mænd̥	PINE			Dellert et al., 2019
+Estonian_PINE	Estonian	esto1258	ekk	PINE	mänd	mænd̥	m æ n d̥	mænd̥	PINE			Dellert et al., 2019
 Estonian_WILLOW	Estonian	esto1258	ekk	WILLOW	paju	pɑju	p ɑ j u	pɑju	WILLOW			Dellert et al., 2019
-Estonian_FIR	Estonian	esto1258	ekk	FIR	nulg	nulɡ̥	n u l ɡ ̥	nulɡ̥	FIR			Dellert et al., 2019
+Estonian_FIR	Estonian	esto1258	ekk	FIR	nulg	nulɡ̥	n u l ɡ̥	nulɡ̥	FIR			Dellert et al., 2019
 Estonian_HORN_(ANATOMY)	Estonian	esto1258	ekk	HORN (ANATOMY)	sarv	sɑrv	s ɑ r v	sɑrv	HORN_(ANATOMY)			Dellert et al., 2019
-Estonian_FEATHER	Estonian	esto1258	ekk	FEATHER	sulg	sulɡ̥	s u l ɡ ̥	sulɡ̥	FEATHER			Dellert et al., 2019
+Estonian_FEATHER	Estonian	esto1258	ekk	FEATHER	sulg	sulɡ̥	s u l ɡ̥	sulɡ̥	FEATHER			Dellert et al., 2019
 Estonian_FUR	Estonian	esto1258	ekk	FUR	karvkate	kɑrvkɑtʲe	k ɑ r v k ɑ tʲ e	kɑrvkɑtʲe	FUR			Dellert et al., 2019
 Estonian_FUR	Estonian	esto1258	ekk	FUR	karusnahk	kɑrusnɑxk	k ɑ r u s n ɑ x k	kɑrusnɑxk	FUR			Dellert et al., 2019
-Estonian_WING	Estonian	esto1258	ekk	WING	tiib	tʲiːb̥	tʲ iː b ̥	tʲiːb̥	WING			Dellert et al., 2019
+Estonian_WING	Estonian	esto1258	ekk	WING	tiib	tʲiːb̥	tʲ iː b̥	tʲiːb̥	WING			Dellert et al., 2019
 Estonian_WING	Estonian	esto1258	ekk	WING	tiivik	tʲiːvik	tʲ iː v i k	tʲiːvik	WING			Dellert et al., 2019
 Estonian_CLAW	Estonian	esto1258	ekk	CLAW	küüs	kyːs	k yː s	kyːs	CLAW			Dellert et al., 2019
-Estonian_TAIL	Estonian	esto1258	ekk	TAIL	saba	sɑb̥ɑ	s ɑ b ̥ ɑ	sɑb̥ɑ	TAIL			Dellert et al., 2019
+Estonian_TAIL	Estonian	esto1258	ekk	TAIL	saba	sɑb̥ɑ	s ɑ b̥ ɑ	sɑb̥ɑ	TAIL			Dellert et al., 2019
 Estonian_EGG	Estonian	esto1258	ekk	EGG	muna	munɑ	m u n ɑ	munɑ	EGG			Dellert et al., 2019
 Estonian_NEST	Estonian	esto1258	ekk	NEST	pesa	pesɑ	p e s ɑ	pesɑ	NEST			Dellert et al., 2019
 Estonian_ANIMAL	Estonian	esto1258	ekk	ANIMAL	loom	loːm	l oː m	loːm	ANIMAL			Dellert et al., 2019
 Estonian_COW	Estonian	esto1258	ekk	COW	lehm	lʲexm	lʲ e x m	lʲexm	COW			Dellert et al., 2019
 Estonian_BULL	Estonian	esto1258	ekk	BULL	pull	pulː	p u lː	pulː	BULL			Dellert et al., 2019
-Estonian_HORSE	Estonian	esto1258	ekk	HORSE	hobune	hob̥unʲe	h o b ̥ u nʲ e	hob̥unʲe	HORSE			Dellert et al., 2019
+Estonian_HORSE	Estonian	esto1258	ekk	HORSE	hobune	hob̥unʲe	h o b̥ u nʲ e	hob̥unʲe	HORSE			Dellert et al., 2019
 Estonian_SHEEP	Estonian	esto1258	ekk	SHEEP	lammas	lɑmːɑs	l ɑ mː ɑ s	lɑmːɑs	SHEEP			Dellert et al., 2019
-Estonian_PIG	Estonian	esto1258	ekk	PIG	siga	sʲiɡ̥ɑ	sʲ i ɡ ̥ ɑ	sʲiɡ̥ɑ	PIG			Dellert et al., 2019
+Estonian_PIG	Estonian	esto1258	ekk	PIG	siga	sʲiɡ̥ɑ	sʲ i ɡ̥ ɑ	sʲiɡ̥ɑ	PIG			Dellert et al., 2019
 Estonian_DOG	Estonian	esto1258	ekk	DOG	koer	koer	k o e r	koer	DOG			Dellert et al., 2019
 Estonian_CAT	Estonian	esto1258	ekk	CAT	kass	kɑsː	k ɑ sː	kɑsː	CAT			Dellert et al., 2019
 Estonian_BEAR	Estonian	esto1258	ekk	BEAR	karu	kɑru	k ɑ r u	kɑru	BEAR			Dellert et al., 2019
 Estonian_SQUIRREL	Estonian	esto1258	ekk	SQUIRREL	orav	orɑv	o r ɑ v	orɑv	SQUIRREL			Dellert et al., 2019
-Estonian_ELK	Estonian	esto1258	ekk	ELK	põder	pɤd̥er	p ɤ d ̥ e r	pɤd̥er	ELK			Dellert et al., 2019
-Estonian_FOX	Estonian	esto1258	ekk	FOX	rebane	reb̥ɑnʲe	r e b ̥ ɑ nʲ e	reb̥ɑnʲe	FOX			Dellert et al., 2019
+Estonian_ELK	Estonian	esto1258	ekk	ELK	põder	pɤd̥er	p ɤ d̥ e r	pɤd̥er	ELK			Dellert et al., 2019
+Estonian_FOX	Estonian	esto1258	ekk	FOX	rebane	reb̥ɑnʲe	r e b̥ ɑ nʲ e	reb̥ɑnʲe	FOX			Dellert et al., 2019
 Estonian_HARE	Estonian	esto1258	ekk	HARE	jänes	jænʲes	j æ nʲ e s	jænʲes	HARE			Dellert et al., 2019
 Estonian_MOUSE	Estonian	esto1258	ekk	MOUSE	hiir	hiːr	h iː r	hiːr	MOUSE			Dellert et al., 2019
 Estonian_WOLF	Estonian	esto1258	ekk	WOLF	hunt	hunt	h u n t	hunt	WOLF			Dellert et al., 2019
-Estonian_BIRD	Estonian	esto1258	ekk	BIRD	lind	lʲind̥	lʲ i n d ̥	lʲind̥	BIRD			Dellert et al., 2019
+Estonian_BIRD	Estonian	esto1258	ekk	BIRD	lind	lʲind̥	lʲ i n d̥	lʲind̥	BIRD			Dellert et al., 2019
 Estonian_CHICKEN	Estonian	esto1258	ekk	CHICKEN	kana	kɑnɑ	k ɑ n ɑ	kɑnɑ	CHICKEN			Dellert et al., 2019
 Estonian_ROOSTER	Estonian	esto1258	ekk	ROOSTER	kukk	kukː	k u kː	kukː	ROOSTER			Dellert et al., 2019
 Estonian_GOOSE	Estonian	esto1258	ekk	GOOSE	hani	hɑnʲi	h ɑ nʲ i	hɑnʲi	GOOSE			Dellert et al., 2019
@@ -3799,33 +3799,33 @@ Estonian_EAGLE	Estonian	esto1258	ekk	EAGLE	kotkas	kotkɑs	k o t k ɑ s	kotkɑs	E
 Estonian_DUCK	Estonian	esto1258	ekk	DUCK	part	pɑrt	p ɑ r t	pɑrt	DUCK			Dellert et al., 2019
 Estonian_OWL	Estonian	esto1258	ekk	OWL	kakk	kɑkː	k ɑ kː	kɑkː	OWL			Dellert et al., 2019
 Estonian_OWL	Estonian	esto1258	ekk	OWL	öökull	œːkulː	œː k u lː	œːkulː	OWL			Dellert et al., 2019
-Estonian_CRANE	Estonian	esto1258	ekk	CRANE	kurg	kurɡ̥	k u r ɡ ̥	kurɡ̥	CRANE			Dellert et al., 2019
+Estonian_CRANE	Estonian	esto1258	ekk	CRANE	kurg	kurɡ̥	k u r ɡ̥	kurɡ̥	CRANE			Dellert et al., 2019
 Estonian_CROW	Estonian	esto1258	ekk	CROW	vares	vɑres	v ɑ r e s	vɑres	CROW			Dellert et al., 2019
 Estonian_FISH	Estonian	esto1258	ekk	FISH	kala	kɑlɑ	k ɑ l ɑ	kɑlɑ	FISH			Dellert et al., 2019
 Estonian_SNAKE	Estonian	esto1258	ekk	SNAKE	uss	usː	u sː	usː	SNAKE			Dellert et al., 2019
 Estonian_WORM	Estonian	esto1258	ekk	WORM	uss	usː	u sː	usː	WORM			Dellert et al., 2019
-Estonian_WORM	Estonian	esto1258	ekk	WORM	vagel	vɑɡ̥el	v ɑ ɡ ̥ e l	vɑɡ̥el	WORM			Dellert et al., 2019
-Estonian_SPIDER	Estonian	esto1258	ekk	SPIDER	ämblik	æmb̥lʲik	æ m b ̥ lʲ i k	æmb̥lʲik	SPIDER			Dellert et al., 2019
-Estonian_ANT	Estonian	esto1258	ekk	ANT	sipelgas	sʲipelɡ̥ɑs	sʲ i p e l ɡ ̥ ɑ s	sʲipelɡ̥ɑs	ANT			Dellert et al., 2019
+Estonian_WORM	Estonian	esto1258	ekk	WORM	vagel	vɑɡ̥el	v ɑ ɡ̥ e l	vɑɡ̥el	WORM			Dellert et al., 2019
+Estonian_SPIDER	Estonian	esto1258	ekk	SPIDER	ämblik	æmb̥lʲik	æ m b̥ lʲ i k	æmb̥lʲik	SPIDER			Dellert et al., 2019
+Estonian_ANT	Estonian	esto1258	ekk	ANT	sipelgas	sʲipelɡ̥ɑs	sʲ i p e l ɡ̥ ɑ s	sʲipelɡ̥ɑs	ANT			Dellert et al., 2019
 Estonian_LOUSE	Estonian	esto1258	ekk	LOUSE	täi	tæi	t æ i	tæi	LOUSE			Dellert et al., 2019
 Estonian_MOSQUITO	Estonian	esto1258	ekk	MOSQUITO	sääsk	sæːsk	s æː s k	sæːsk	MOSQUITO			Dellert et al., 2019
-Estonian_FLY_(INSECT)	Estonian	esto1258	ekk	FLY (INSECT)	kärbes	kærb̥es	k æ r b ̥ e s	kærb̥es	FLY_(INSECT)			Dellert et al., 2019
-Estonian_BUTTERFLY	Estonian	esto1258	ekk	BUTTERFLY	liblikas	lʲib̥lʲikɑs	lʲ i b ̥ lʲ i k ɑ s	lʲib̥lʲikɑs	BUTTERFLY			Dellert et al., 2019
+Estonian_FLY_(INSECT)	Estonian	esto1258	ekk	FLY (INSECT)	kärbes	kærb̥es	k æ r b̥ e s	kærb̥es	FLY_(INSECT)			Dellert et al., 2019
+Estonian_BUTTERFLY	Estonian	esto1258	ekk	BUTTERFLY	liblikas	lʲib̥lʲikɑs	lʲ i b̥ lʲ i k ɑ s	lʲib̥lʲikɑs	BUTTERFLY			Dellert et al., 2019
 Estonian_BERRY	Estonian	esto1258	ekk	BERRY	mari	mɑri	m ɑ r i	mɑri	BERRY			Dellert et al., 2019
 Estonian_APPLE	Estonian	esto1258	ekk	APPLE	õun	ɤun	ɤ u n	ɤun	APPLE			Dellert et al., 2019
 Estonian_MUSHROOM	Estonian	esto1258	ekk	MUSHROOM	seen	sʲeːn	sʲ eː n	sʲeːn	MUSHROOM			Dellert et al., 2019
-Estonian_ONION	Estonian	esto1258	ekk	ONION	sibul	sʲib̥ul	sʲ i b ̥ u l	sʲib̥ul	ONION			Dellert et al., 2019
+Estonian_ONION	Estonian	esto1258	ekk	ONION	sibul	sʲib̥ul	sʲ i b̥ u l	sʲib̥ul	ONION			Dellert et al., 2019
 Estonian_SEED	Estonian	esto1258	ekk	SEED	seeme	sʲeːme	sʲ eː m e	sʲeːme	SEED			Dellert et al., 2019
 Estonian_HAY	Estonian	esto1258	ekk	HAY	hein	hein	h e i n	hein	HAY			Dellert et al., 2019
 Estonian_SKIN_(OF_FRUIT)	Estonian	esto1258	ekk	SKIN (OF FRUIT)	koor	koːr	k oː r	koːr	SKIN_(OF_FRUIT)			Dellert et al., 2019
-Estonian_PIT_(POTHOLE)	Estonian	esto1258	ekk	PIT (POTHOLE)	kaevand	kɑevɑnd̥	k ɑ e v ɑ n d ̥	kɑevɑnd̥	PIT_(POTHOLE)			Dellert et al., 2019
+Estonian_PIT_(POTHOLE)	Estonian	esto1258	ekk	PIT (POTHOLE)	kaevand	kɑevɑnd̥	k ɑ e v ɑ n d̥	kɑevɑnd̥	PIT_(POTHOLE)			Dellert et al., 2019
 Estonian_TRAP_(PITFALL)	Estonian	esto1258	ekk	TRAP (PITFALL)	lõks	lɤks	l ɤ k s	lɤks	TRAP_(PITFALL)			Dellert et al., 2019
 Estonian_TRAP_(PITFALL)	Estonian	esto1258	ekk	TRAP (PITFALL)	püünis	pyːnʲis	p yː nʲ i s	pyːnʲis	TRAP_(PITFALL)			Dellert et al., 2019
 Estonian_NOOSE	Estonian	esto1258	ekk	NOOSE	aas	ɑːs	ɑː s	ɑːs	NOOSE			Dellert et al., 2019
 Estonian_ASH	Estonian	esto1258	ekk	ASH	tuhk	tuxk	t u x k	tuxk	ASH			Dellert et al., 2019
-Estonian_IRON	Estonian	esto1258	ekk	IRON	raud	rɑud̥	r ɑ u d ̥	rɑud̥	IRON			Dellert et al., 2019
-Estonian_GOLD	Estonian	esto1258	ekk	GOLD	kuld	kuld̥	k u l d ̥	kuld̥	GOLD			Dellert et al., 2019
-Estonian_SILVER	Estonian	esto1258	ekk	SILVER	hõbe	hɤb̥e	h ɤ b ̥ e	hɤb̥e	SILVER			Dellert et al., 2019
+Estonian_IRON	Estonian	esto1258	ekk	IRON	raud	rɑud̥	r ɑ u d̥	rɑud̥	IRON			Dellert et al., 2019
+Estonian_GOLD	Estonian	esto1258	ekk	GOLD	kuld	kuld̥	k u l d̥	kuld̥	GOLD			Dellert et al., 2019
+Estonian_SILVER	Estonian	esto1258	ekk	SILVER	hõbe	hɤb̥e	h ɤ b̥ e	hɤb̥e	SILVER			Dellert et al., 2019
 Estonian_CHARCOAL	Estonian	esto1258	ekk	CHARCOAL	süsi	sysʲi	s y sʲ i	sysʲi	CHARCOAL			Dellert et al., 2019
 Estonian_GLASS	Estonian	esto1258	ekk	GLASS	klaas	klɑːs	k l ɑː s	klɑːs	GLASS			Dellert et al., 2019
 Estonian_CLAY	Estonian	esto1258	ekk	CLAY	savi	sɑvi	s ɑ v i	sɑvi	CLAY			Dellert et al., 2019
@@ -3835,32 +3835,32 @@ Estonian_MAN	Estonian	esto1258	ekk	MAN	mees	meːs	m eː s	meːs	MAN			Dellert et
 Estonian_WOMAN	Estonian	esto1258	ekk	WOMAN	naine	nɑinʲe	n ɑ i nʲ e	nɑinʲe	WOMAN			Dellert et al., 2019
 Estonian_CHILD_(YOUNG_HUMAN)	Estonian	esto1258	ekk	CHILD (YOUNG HUMAN)	laps	lɑps	l ɑ p s	lɑps	CHILD_(YOUNG_HUMAN)			Dellert et al., 2019
 Estonian_BOY	Estonian	esto1258	ekk	BOY	poiss	poisː	p o i sː	poisː	BOY			Dellert et al., 2019
-Estonian_GIRL	Estonian	esto1258	ekk	GIRL	tüdruk	tyd̥ruk	t y d ̥ r u k	tyd̥ruk	GIRL			Dellert et al., 2019
-Estonian_FAMILY	Estonian	esto1258	ekk	FAMILY	perekond	perekond̥	p e r e k o n d ̥	perekond̥	FAMILY			Dellert et al., 2019
+Estonian_GIRL	Estonian	esto1258	ekk	GIRL	tüdruk	tyd̥ruk	t y d̥ r u k	tyd̥ruk	GIRL			Dellert et al., 2019
+Estonian_FAMILY	Estonian	esto1258	ekk	FAMILY	perekond	perekond̥	p e r e k o n d̥	perekond̥	FAMILY			Dellert et al., 2019
 Estonian_GRANDFATHER	Estonian	esto1258	ekk	GRANDFATHER	vanaisa	vɑnɑisɑ	v ɑ n ɑ i s ɑ	vɑnɑisɑ	GRANDFATHER			Dellert et al., 2019
 Estonian_GRANDMOTHER	Estonian	esto1258	ekk	GRANDMOTHER	vanaema	vɑnɑemɑ	v ɑ n ɑ e m ɑ	vɑnɑemɑ	GRANDMOTHER			Dellert et al., 2019
-Estonian_PARENTS	Estonian	esto1258	ekk	PARENTS	vanemad	vɑnʲemɑd̥	v ɑ nʲ e m ɑ d ̥	vɑnʲemɑd̥	PARENTS			Dellert et al., 2019
+Estonian_PARENTS	Estonian	esto1258	ekk	PARENTS	vanemad	vɑnʲemɑd̥	v ɑ nʲ e m ɑ d̥	vɑnʲemɑd̥	PARENTS			Dellert et al., 2019
 Estonian_FATHER	Estonian	esto1258	ekk	FATHER	isa	isɑ	i s ɑ	isɑ	FATHER			Dellert et al., 2019
 Estonian_MOTHER	Estonian	esto1258	ekk	MOTHER	ema	emɑ	e m ɑ	emɑ	MOTHER			Dellert et al., 2019
-Estonian_SON	Estonian	esto1258	ekk	SON	poeg	poeɡ̥	p o e ɡ ̥	poeɡ̥	SON			Dellert et al., 2019
+Estonian_SON	Estonian	esto1258	ekk	SON	poeg	poeɡ̥	p o e ɡ̥	poeɡ̥	SON			Dellert et al., 2019
 Estonian_DAUGHTER	Estonian	esto1258	ekk	DAUGHTER	tütar	tytɑr	t y t ɑ r	tytɑr	DAUGHTER			Dellert et al., 2019
-Estonian_BROTHER	Estonian	esto1258	ekk	BROTHER	vend	vend̥	v e n d ̥	vend̥	BROTHER			Dellert et al., 2019
-Estonian_SISTER	Estonian	esto1258	ekk	SISTER	õde	ɤd̥e	ɤ d ̥ e	ɤd̥e	SISTER			Dellert et al., 2019
+Estonian_BROTHER	Estonian	esto1258	ekk	BROTHER	vend	vend̥	v e n d̥	vend̥	BROTHER			Dellert et al., 2019
+Estonian_SISTER	Estonian	esto1258	ekk	SISTER	õde	ɤd̥e	ɤ d̥ e	ɤd̥e	SISTER			Dellert et al., 2019
 Estonian_UNCLE	Estonian	esto1258	ekk	UNCLE	onu	onu	o n u	onu	UNCLE			Dellert et al., 2019
-Estonian_AUNT	Estonian	esto1258	ekk	AUNT	tädi	tæd̥i	t æ d ̥ i	tæd̥i	AUNT			Dellert et al., 2019
+Estonian_AUNT	Estonian	esto1258	ekk	AUNT	tädi	tæd̥i	t æ d̥ i	tæd̥i	AUNT			Dellert et al., 2019
 Estonian_HUSBAND	Estonian	esto1258	ekk	HUSBAND	mees	meːs	m eː s	meːs	HUSBAND			Dellert et al., 2019
-Estonian_HUSBAND	Estonian	esto1258	ekk	HUSBAND	abikaasa	ɑb̥ikɑːsɑ	ɑ b ̥ i k ɑː s ɑ	ɑb̥ikɑːsɑ	HUSBAND			Dellert et al., 2019
+Estonian_HUSBAND	Estonian	esto1258	ekk	HUSBAND	abikaasa	ɑb̥ikɑːsɑ	ɑ b̥ i k ɑː s ɑ	ɑb̥ikɑːsɑ	HUSBAND			Dellert et al., 2019
 Estonian_WIFE	Estonian	esto1258	ekk	WIFE	naine	nɑinʲe	n ɑ i nʲ e	nɑinʲe	WIFE			Dellert et al., 2019
-Estonian_WIFE	Estonian	esto1258	ekk	WIFE	abikaasa	ɑb̥ikɑːsɑ	ɑ b ̥ i k ɑː s ɑ	ɑb̥ikɑːsɑ	WIFE			Dellert et al., 2019
+Estonian_WIFE	Estonian	esto1258	ekk	WIFE	abikaasa	ɑb̥ikɑːsɑ	ɑ b̥ i k ɑː s ɑ	ɑb̥ikɑːsɑ	WIFE			Dellert et al., 2019
 Estonian_JOY	Estonian	esto1258	ekk	JOY	rõõm	rɤːm	r ɤː m	rɤːm	JOY			Dellert et al., 2019
 Estonian_GRIEF	Estonian	esto1258	ekk	GRIEF	mure	mure	m u r e	mure	GRIEF			Dellert et al., 2019
-Estonian_GRIEF	Estonian	esto1258	ekk	GRIEF	kurbus	kurb̥us	k u r b ̥ u s	kurb̥us	GRIEF			Dellert et al., 2019
+Estonian_GRIEF	Estonian	esto1258	ekk	GRIEF	kurbus	kurb̥us	k u r b̥ u s	kurb̥us	GRIEF			Dellert et al., 2019
 Estonian_DESIRE	Estonian	esto1258	ekk	DESIRE	himu	himu	h i m u	himu	DESIRE			Dellert et al., 2019
 Estonian_SPIRIT	Estonian	esto1258	ekk	SPIRIT	vaim	vɑim	v ɑ i m	vɑim	SPIRIT			Dellert et al., 2019
 Estonian_MEMORY	Estonian	esto1258	ekk	MEMORY	mälu	mælu	m æ l u	mælu	MEMORY			Dellert et al., 2019
 Estonian_MIND	Estonian	esto1258	ekk	MIND	aru	ɑru	ɑ r u	ɑru	MIND			Dellert et al., 2019
 Estonian_MIND	Estonian	esto1258	ekk	MIND	mõistus	mɤistus	m ɤ i s t u s	mɤistus	MIND			Dellert et al., 2019
-Estonian_TRUTH	Estonian	esto1258	ekk	TRUTH	tõde	tɤd̥e	t ɤ d ̥ e	tɤd̥e	TRUTH			Dellert et al., 2019
+Estonian_TRUTH	Estonian	esto1258	ekk	TRUTH	tõde	tɤd̥e	t ɤ d̥ e	tɤd̥e	TRUTH			Dellert et al., 2019
 Estonian_STORY	Estonian	esto1258	ekk	STORY	jutustus	jutustus	j u t u s t u s	jutustus	STORY			Dellert et al., 2019
 Estonian_NAME	Estonian	esto1258	ekk	NAME	nimi	nʲimi	nʲ i m i	nʲimi	NAME			Dellert et al., 2019
 Estonian_SPEECH	Estonian	esto1258	ekk	SPEECH	kõne	kɤnʲe	k ɤ nʲ e	kɤnʲe	SPEECH			Dellert et al., 2019
@@ -3875,14 +3875,14 @@ Estonian_QUIET	Estonian	esto1258	ekk	QUIET	vaikus	vɑikus	v ɑ i k u s	vɑikus	Q
 Estonian_PEOPLE	Estonian	esto1258	ekk	PEOPLE	rahvas	rɑxvɑs	r ɑ x v ɑ s	rɑxvɑs	PEOPLE			Dellert et al., 2019
 Estonian_WORK_(LABOUR)	Estonian	esto1258	ekk	WORK (LABOUR)	töö	tœː	t œː	tœː	WORK_(LABOUR)			Dellert et al., 2019
 Estonian_GUEST	Estonian	esto1258	ekk	GUEST	külaline	kylɑlʲinʲe	k y l ɑ lʲ i nʲ e	kylɑlʲinʲe	GUEST			Dellert et al., 2019
-Estonian_GAME	Estonian	esto1258	ekk	GAME	mäng	mæŋk̥	m æ ŋ k ̥	mæŋk̥	GAME			Dellert et al., 2019
-Estonian_HELP	Estonian	esto1258	ekk	HELP	abi	ɑb̥i	ɑ b ̥ i	ɑb̥i	HELP			Dellert et al., 2019
-Estonian_FRIEND	Estonian	esto1258	ekk	FRIEND	sõber	sɤb̥er	s ɤ b ̥ e r	sɤb̥er	FRIEND			Dellert et al., 2019
+Estonian_GAME	Estonian	esto1258	ekk	GAME	mäng	mæŋk̥	m æ ŋ k̥	mæŋk̥	GAME			Dellert et al., 2019
+Estonian_HELP	Estonian	esto1258	ekk	HELP	abi	ɑb̥i	ɑ b̥ i	ɑb̥i	HELP			Dellert et al., 2019
+Estonian_FRIEND	Estonian	esto1258	ekk	FRIEND	sõber	sɤb̥er	s ɤ b̥ e r	sɤb̥er	FRIEND			Dellert et al., 2019
 Estonian_KIND_(THING)	Estonian	esto1258	ekk	KIND (THING)	liik	lʲiːk	lʲ iː k	lʲiːk	KIND_(THING)			Dellert et al., 2019
 Estonian_PIECE	Estonian	esto1258	ekk	PIECE	tükk	tykː	t y kː	tykː	PIECE			Dellert et al., 2019
 Estonian_PART	Estonian	esto1258	ekk	PART	osa	osɑ	o s ɑ	osɑ	PART			Dellert et al., 2019
 Estonian_HALF	Estonian	esto1258	ekk	HALF	pool	poːl	p oː l	poːl	HALF			Dellert et al., 2019
-Estonian_CIRCLE	Estonian	esto1258	ekk	CIRCLE	ring	riŋk̥	r i ŋ k ̥	riŋk̥	CIRCLE			Dellert et al., 2019
+Estonian_CIRCLE	Estonian	esto1258	ekk	CIRCLE	ring	riŋk̥	r i ŋ k̥	riŋk̥	CIRCLE			Dellert et al., 2019
 Estonian_CROSS	Estonian	esto1258	ekk	CROSS	rist	rist	r i s t	rist	CROSS			Dellert et al., 2019
 Estonian_LINE	Estonian	esto1258	ekk	LINE	joon	joːn	j oː n	joːn	LINE			Dellert et al., 2019
 Estonian_PLACE_(POSITION)	Estonian	esto1258	ekk	PLACE (POSITION)	paik	pɑik	p ɑ i k	pɑik	PLACE_(POSITION)			Dellert et al., 2019
@@ -3903,54 +3903,54 @@ Estonian_LOAD	Estonian	esto1258	ekk	LOAD	koorem	koːrem	k oː r e m	koːrem	LOAD
 Estonian_NORTH	Estonian	esto1258	ekk	NORTH	põhi	pɤhi	p ɤ h i	pɤhi	NORTH			Dellert et al., 2019
 Estonian_SOUTH	Estonian	esto1258	ekk	SOUTH	lõuna	lɤunɑ	l ɤ u n ɑ	lɤunɑ	SOUTH			Dellert et al., 2019
 Estonian_WEST	Estonian	esto1258	ekk	WEST	lääs	læːs	l æː s	læːs	WEST			Dellert et al., 2019
-Estonian_EAST	Estonian	esto1258	ekk	EAST	ida	id̥ɑ	i d ̥ ɑ	id̥ɑ	EAST			Dellert et al., 2019
+Estonian_EAST	Estonian	esto1258	ekk	EAST	ida	id̥ɑ	i d̥ ɑ	id̥ɑ	EAST			Dellert et al., 2019
 Estonian_WOOD	Estonian	esto1258	ekk	WOOD	puu	puː	p uː	puː	WOOD			Dellert et al., 2019
-Estonian_BOARD	Estonian	esto1258	ekk	BOARD	saelaud	sɑelɑud̥	s ɑ e l ɑ u d ̥	sɑelɑud̥	BOARD			Dellert et al., 2019
+Estonian_BOARD	Estonian	esto1258	ekk	BOARD	saelaud	sɑelɑud̥	s ɑ e l ɑ u d̥	sɑelɑud̥	BOARD			Dellert et al., 2019
 Estonian_STICK	Estonian	esto1258	ekk	STICK	kepp	kepː	k e pː	kepː	STICK			Dellert et al., 2019
 Estonian_HOUSE	Estonian	esto1258	ekk	HOUSE	maja	mɑjɑ	m ɑ j ɑ	mɑjɑ	HOUSE			Dellert et al., 2019
-Estonian_HOME	Estonian	esto1258	ekk	HOME	kodu	kod̥u	k o d ̥ u	kod̥u	HOME			Dellert et al., 2019
+Estonian_HOME	Estonian	esto1258	ekk	HOME	kodu	kod̥u	k o d̥ u	kod̥u	HOME			Dellert et al., 2019
 Estonian_STOVE	Estonian	esto1258	ekk	STOVE	ahi	ɑhi	ɑ h i	ɑhi	STOVE			Dellert et al., 2019
-Estonian_FLOOR	Estonian	esto1258	ekk	FLOOR	põrand	pɤrɑnd̥	p ɤ r ɑ n d ̥	pɤrɑnd̥	FLOOR			Dellert et al., 2019
-Estonian_TABLE	Estonian	esto1258	ekk	TABLE	laud	lɑud̥	l ɑ u d ̥	lɑud̥	TABLE			Dellert et al., 2019
+Estonian_FLOOR	Estonian	esto1258	ekk	FLOOR	põrand	pɤrɑnd̥	p ɤ r ɑ n d̥	pɤrɑnd̥	FLOOR			Dellert et al., 2019
+Estonian_TABLE	Estonian	esto1258	ekk	TABLE	laud	lɑud̥	l ɑ u d̥	lɑud̥	TABLE			Dellert et al., 2019
 Estonian_CHAIR	Estonian	esto1258	ekk	CHAIR	tool	toːl	t oː l	toːl	CHAIR			Dellert et al., 2019
-Estonian_BED	Estonian	esto1258	ekk	BED	voodi	voːd̥i	v oː d ̥ i	voːd̥i	BED			Dellert et al., 2019
+Estonian_BED	Estonian	esto1258	ekk	BED	voodi	voːd̥i	v oː d̥ i	voːd̥i	BED			Dellert et al., 2019
 Estonian_SHELF	Estonian	esto1258	ekk	SHELF	riiul	riːul	r iː u l	riːul	SHELF			Dellert et al., 2019
 Estonian_BOX	Estonian	esto1258	ekk	BOX	kast	kɑst	k ɑ s t	kɑst	BOX			Dellert et al., 2019
 Estonian_WINDOW	Estonian	esto1258	ekk	WINDOW	aken	ɑken	ɑ k e n	ɑken	WINDOW			Dellert et al., 2019
 Estonian_DOOR	Estonian	esto1258	ekk	DOOR	uks	uks	u k s	uks	DOOR			Dellert et al., 2019
-Estonian_FENCE	Estonian	esto1258	ekk	FENCE	aed	ɑed̥	ɑ e d ̥	ɑed̥	FENCE			Dellert et al., 2019
+Estonian_FENCE	Estonian	esto1258	ekk	FENCE	aed	ɑed̥	ɑ e d̥	ɑed̥	FENCE			Dellert et al., 2019
 Estonian_FENCE	Estonian	esto1258	ekk	FENCE	tara	tɑrɑ	t ɑ r ɑ	tɑrɑ	FENCE			Dellert et al., 2019
 Estonian_ROOF	Estonian	esto1258	ekk	ROOF	katus	kɑtus	k ɑ t u s	kɑtus	ROOF			Dellert et al., 2019
-Estonian_LADDER	Estonian	esto1258	ekk	LADDER	redel	red̥el	r e d ̥ e l	red̥el	LADDER			Dellert et al., 2019
-Estonian_BROOM	Estonian	esto1258	ekk	BROOM	luud	luːd̥	l uː d ̥	luːd̥	BROOM			Dellert et al., 2019
-Estonian_SPADE	Estonian	esto1258	ekk	SPADE	labidas	lɑb̥id̥ɑs	l ɑ b ̥ i d ̥ ɑ s	lɑb̥id̥ɑs	SPADE			Dellert et al., 2019
+Estonian_LADDER	Estonian	esto1258	ekk	LADDER	redel	red̥el	r e d̥ e l	red̥el	LADDER			Dellert et al., 2019
+Estonian_BROOM	Estonian	esto1258	ekk	BROOM	luud	luːd̥	l uː d̥	luːd̥	BROOM			Dellert et al., 2019
+Estonian_SPADE	Estonian	esto1258	ekk	SPADE	labidas	lɑb̥id̥ɑs	l ɑ b̥ i d̥ ɑ s	lɑb̥id̥ɑs	SPADE			Dellert et al., 2019
 Estonian_SHOVEL	Estonian	esto1258	ekk	SHOVEL	kühvel	kyxvel	k y x v e l	kyxvel	SHOVEL			Dellert et al., 2019
 Estonian_FORK	Estonian	esto1258	ekk	FORK	kahvel	kɑxvel	k ɑ x v e l	kɑxvel	FORK			Dellert et al., 2019
 Estonian_SPOON	Estonian	esto1258	ekk	SPOON	lusikas	lusʲikɑs	l u sʲ i k ɑ s	lusʲikɑs	SPOON			Dellert et al., 2019
-Estonian_KNIFE	Estonian	esto1258	ekk	KNIFE	nuga	nuɡ̥ɑ	n u ɡ ̥ ɑ	nuɡ̥ɑ	KNIFE			Dellert et al., 2019
+Estonian_KNIFE	Estonian	esto1258	ekk	KNIFE	nuga	nuɡ̥ɑ	n u ɡ̥ ɑ	nuɡ̥ɑ	KNIFE			Dellert et al., 2019
 Estonian_NAIL_(TOOL)	Estonian	esto1258	ekk	NAIL (TOOL)	nael	nɑel	n ɑ e l	nɑel	NAIL_(TOOL)			Dellert et al., 2019
 Estonian_HOOK	Estonian	esto1258	ekk	HOOK	haak	hɑːk	h ɑː k	hɑːk	HOOK			Dellert et al., 2019
 Estonian_HOOK	Estonian	esto1258	ekk	HOOK	konks	koŋks	k o ŋ k s	koŋks	HOOK			Dellert et al., 2019
-Estonian_HANDLE	Estonian	esto1258	ekk	HANDLE	sang	sɑŋk̥	s ɑ ŋ k ̥	sɑŋk̥	HANDLE			Dellert et al., 2019
-Estonian_HANDLE	Estonian	esto1258	ekk	HANDLE	käepide	kæepid̥e	k æ e p i d ̥ e	kæepid̥e	HANDLE			Dellert et al., 2019
+Estonian_HANDLE	Estonian	esto1258	ekk	HANDLE	sang	sɑŋk̥	s ɑ ŋ k̥	sɑŋk̥	HANDLE			Dellert et al., 2019
+Estonian_HANDLE	Estonian	esto1258	ekk	HANDLE	käepide	kæepid̥e	k æ e p i d̥ e	kæepid̥e	HANDLE			Dellert et al., 2019
 Estonian_LOCK	Estonian	esto1258	ekk	LOCK	lukk	lukː	l u kː	lukː	LOCK			Dellert et al., 2019
 Estonian_PICTURE	Estonian	esto1258	ekk	PICTURE	pilt	pilt	p i l t	pilt	PICTURE			Dellert et al., 2019
 Estonian_IDOL	Estonian	esto1258	ekk	IDOL	kuju	kuju	k u j u	kuju	IDOL			Dellert et al., 2019
-Estonian_IDOL	Estonian	esto1258	ekk	IDOL	kujund	kujund̥	k u j u n d ̥	kujund̥	IDOL			Dellert et al., 2019
+Estonian_IDOL	Estonian	esto1258	ekk	IDOL	kujund	kujund̥	k u j u n d̥	kujund̥	IDOL			Dellert et al., 2019
 Estonian_DOLL	Estonian	esto1258	ekk	DOLL	nukk	nukː	n u kː	nukː	DOLL			Dellert et al., 2019
 Estonian_BAG	Estonian	esto1258	ekk	BAG	kott	kotː	k o tː	kotː	BAG			Dellert et al., 2019
-Estonian_BUCKET	Estonian	esto1258	ekk	BUCKET	pang	pɑŋk̥	p ɑ ŋ k ̥	pɑŋk̥	BUCKET			Dellert et al., 2019
-Estonian_BUCKET	Estonian	esto1258	ekk	BUCKET	ämber	æmb̥er	æ m b ̥ e r	æmb̥er	BUCKET			Dellert et al., 2019
+Estonian_BUCKET	Estonian	esto1258	ekk	BUCKET	pang	pɑŋk̥	p ɑ ŋ k̥	pɑŋk̥	BUCKET			Dellert et al., 2019
+Estonian_BUCKET	Estonian	esto1258	ekk	BUCKET	ämber	æmb̥er	æ m b̥ e r	æmb̥er	BUCKET			Dellert et al., 2019
 Estonian_LID_(COVER,_CAP)	Estonian	esto1258	ekk	LID (COVER, CAP)	kaas	kɑːs	k ɑː s	kɑːs	LID_(COVER,_CAP)			Dellert et al., 2019
 Estonian_CUP	Estonian	esto1258	ekk	CUP	tass	tɑsː	t ɑ sː	tɑsː	CUP			Dellert et al., 2019
-Estonian_POT	Estonian	esto1258	ekk	POT	pada	pɑd̥ɑ	p ɑ d ̥ ɑ	pɑd̥ɑ	POT			Dellert et al., 2019
-Estonian_KETTLE	Estonian	esto1258	ekk	KETTLE	pada	pɑd̥ɑ	p ɑ d ̥ ɑ	pɑd̥ɑ	KETTLE			Dellert et al., 2019
+Estonian_POT	Estonian	esto1258	ekk	POT	pada	pɑd̥ɑ	p ɑ d̥ ɑ	pɑd̥ɑ	POT			Dellert et al., 2019
+Estonian_KETTLE	Estonian	esto1258	ekk	KETTLE	pada	pɑd̥ɑ	p ɑ d̥ ɑ	pɑd̥ɑ	KETTLE			Dellert et al., 2019
 Estonian_MEAL	Estonian	esto1258	ekk	MEAL	söök	sœːk	s œː k	sœːk	MEAL			Dellert et al., 2019
 Estonian_FOOD	Estonian	esto1258	ekk	FOOD	toit	toit	t o i t	toit	FOOD			Dellert et al., 2019
 Estonian_MEAT	Estonian	esto1258	ekk	MEAT	liha	lʲihɑ	lʲ i h ɑ	lʲihɑ	MEAT			Dellert et al., 2019
 Estonian_GRAIN	Estonian	esto1258	ekk	GRAIN	teravili	tʲerɑvilʲi	tʲ e r ɑ v i lʲ i	tʲerɑvilʲi	GRAIN			Dellert et al., 2019
 Estonian_BREAD	Estonian	esto1258	ekk	BREAD	sai	sɑi	s ɑ i	sɑi	BREAD			Dellert et al., 2019
-Estonian_BREAD	Estonian	esto1258	ekk	BREAD	leib	lʲeib̥	lʲ e i b ̥	lʲeib̥	BREAD			Dellert et al., 2019
+Estonian_BREAD	Estonian	esto1258	ekk	BREAD	leib	lʲeib̥	lʲ e i b̥	lʲeib̥	BREAD			Dellert et al., 2019
 Estonian_FAT_(ORGANIC_SUBSTANCE)	Estonian	esto1258	ekk	FAT (ORGANIC SUBSTANCE)	rasv	rɑsv	r ɑ s v	rɑsv	FAT_(ORGANIC_SUBSTANCE)			Dellert et al., 2019
 Estonian_BUTTER	Estonian	esto1258	ekk	BUTTER	või	vɤi	v ɤ i	vɤi	BUTTER			Dellert et al., 2019
 Estonian_OIL_(ORGANIC_SUBSTANCE)	Estonian	esto1258	ekk	OIL (ORGANIC SUBSTANCE)	õli	ɤlʲi	ɤ lʲ i	ɤlʲi	OIL_(ORGANIC_SUBSTANCE)			Dellert et al., 2019
@@ -3961,39 +3961,39 @@ Estonian_MILK	Estonian	esto1258	ekk	MILK	piim	piːm	p iː m	piːm	MILK			Dellert
 Estonian_TEA	Estonian	esto1258	ekk	TEA	tee	tʲeː	tʲ eː	tʲeː	TEA			Dellert et al., 2019
 Estonian_LEATHER	Estonian	esto1258	ekk	LEATHER	nahk	nɑxk	n ɑ x k	nɑxk	LEATHER			Dellert et al., 2019
 Estonian_WOOL	Estonian	esto1258	ekk	WOOL	vill	vilː	v i lː	vilː	WOOL			Dellert et al., 2019
-Estonian_CLOTH	Estonian	esto1258	ekk	CLOTH	kangas	kɑŋk̥ɑs	k ɑ ŋ k ̥ ɑ s	kɑŋk̥ɑs	CLOTH			Dellert et al., 2019
+Estonian_CLOTH	Estonian	esto1258	ekk	CLOTH	kangas	kɑŋk̥ɑs	k ɑ ŋ k̥ ɑ s	kɑŋk̥ɑs	CLOTH			Dellert et al., 2019
 Estonian_NEEDLE_(FOR_SEWING)	Estonian	esto1258	ekk	NEEDLE (FOR SEWING)	nõel	nɤel	n ɤ e l	nɤel	NEEDLE_(FOR_SEWING)			Dellert et al., 2019
 Estonian_THREAD	Estonian	esto1258	ekk	THREAD	niit	nʲiːt	nʲ iː t	nʲiːt	THREAD			Dellert et al., 2019
 Estonian_BUTTON	Estonian	esto1258	ekk	BUTTON	nööp	nœːp	n œː p	nœːp	BUTTON			Dellert et al., 2019
 Estonian_KNOT	Estonian	esto1258	ekk	KNOT	sõlm	sɤlm	s ɤ l m	sɤlm	KNOT			Dellert et al., 2019
 Estonian_PAINT_(PIGMENTS)	Estonian	esto1258	ekk	PAINT (PIGMENTS)	värv	værv	v æ r v	værv	PAINT_(PIGMENTS)			Dellert et al., 2019
-Estonian_CLOTHES	Estonian	esto1258	ekk	CLOTHES	riided	riːd̥ed̥	r iː d ̥ e d ̥	riːd̥ed̥	CLOTHES			Dellert et al., 2019
+Estonian_CLOTHES	Estonian	esto1258	ekk	CLOTHES	riided	riːd̥ed̥	r iː d̥ e d̥	riːd̥ed̥	CLOTHES			Dellert et al., 2019
 Estonian_CLOTHES	Estonian	esto1258	ekk	CLOTHES	riietus	riːetus	r iː e t u s	riːetus	CLOTHES			Dellert et al., 2019
 Estonian_SHIRT	Estonian	esto1258	ekk	SHIRT	särk	særk	s æ r k	særk	SHIRT			Dellert et al., 2019
 Estonian_COLLAR	Estonian	esto1258	ekk	COLLAR	krae	krɑe	k r ɑ e	krɑe	COLLAR			Dellert et al., 2019
-Estonian_TROUSERS	Estonian	esto1258	ekk	TROUSERS	püksid	pyksʲid̥	p y k sʲ i d ̥	pyksʲid̥	TROUSERS			Dellert et al., 2019
+Estonian_TROUSERS	Estonian	esto1258	ekk	TROUSERS	püksid	pyksʲid̥	p y k sʲ i d̥	pyksʲid̥	TROUSERS			Dellert et al., 2019
 Estonian_BELT	Estonian	esto1258	ekk	BELT	vöö	vœː	v œː	vœː	BELT			Dellert et al., 2019
 Estonian_CAP	Estonian	esto1258	ekk	CAP	müts	myts	m y t s	myts	CAP			Dellert et al., 2019
-Estonian_SHOE	Estonian	esto1258	ekk	SHOE	king	kiŋk̥	k i ŋ k ̥	kiŋk̥	SHOE			Dellert et al., 2019
-Estonian_BOOT	Estonian	esto1258	ekk	BOOT	saabas	sɑːb̥ɑs	s ɑː b ̥ ɑ s	sɑːb̥ɑs	BOOT			Dellert et al., 2019
+Estonian_SHOE	Estonian	esto1258	ekk	SHOE	king	kiŋk̥	k i ŋ k̥	kiŋk̥	SHOE			Dellert et al., 2019
+Estonian_BOOT	Estonian	esto1258	ekk	BOOT	saabas	sɑːb̥ɑs	s ɑː b̥ ɑ s	sɑːb̥ɑs	BOOT			Dellert et al., 2019
 Estonian_RING	Estonian	esto1258	ekk	RING	sõrmus	sɤrmus	s ɤ r m u s	sɤrmus	RING			Dellert et al., 2019
 Estonian_COMB	Estonian	esto1258	ekk	COMB	kamm	kɑmː	k ɑ mː	kɑmː	COMB			Dellert et al., 2019
-Estonian_MIRROR	Estonian	esto1258	ekk	MIRROR	peegel	peːɡ̥el	p eː ɡ ̥ e l	peːɡ̥el	MIRROR			Dellert et al., 2019
+Estonian_MIRROR	Estonian	esto1258	ekk	MIRROR	peegel	peːɡ̥el	p eː ɡ̥ e l	peːɡ̥el	MIRROR			Dellert et al., 2019
 Estonian_STRING	Estonian	esto1258	ekk	STRING	nöör	nœːr	n œː r	nœːr	STRING			Dellert et al., 2019
 Estonian_BLANKET	Estonian	esto1258	ekk	BLANKET	tekk	tʲekː	tʲ e kː	tʲekː	BLANKET			Dellert et al., 2019
-Estonian_PILLOW	Estonian	esto1258	ekk	PILLOW	padi	pɑd̥i	p ɑ d ̥ i	pɑd̥i	PILLOW			Dellert et al., 2019
+Estonian_PILLOW	Estonian	esto1258	ekk	PILLOW	padi	pɑd̥i	p ɑ d̥ i	pɑd̥i	PILLOW			Dellert et al., 2019
 Estonian_TOWEL	Estonian	esto1258	ekk	TOWEL	käterätik	kætʲerætʲik	k æ tʲ e r æ tʲ i k	kætʲerætʲik	TOWEL			Dellert et al., 2019
-Estonian_STRENGTH	Estonian	esto1258	ekk	STRENGTH	tugevus	tuɡ̥evus	t u ɡ ̥ e v u s	tuɡ̥evus	STRENGTH			Dellert et al., 2019
+Estonian_STRENGTH	Estonian	esto1258	ekk	STRENGTH	tugevus	tuɡ̥evus	t u ɡ̥ e v u s	tuɡ̥evus	STRENGTH			Dellert et al., 2019
 Estonian_HEALTHY	Estonian	esto1258	ekk	HEALTHY	tervis	tʲervis	tʲ e r v i s	tʲervis	HEALTHY			Dellert et al., 2019
-Estonian_DISEASE	Estonian	esto1258	ekk	DISEASE	haigus	hɑiɡ̥us	h ɑ i ɡ ̥ u s	hɑiɡ̥us	DISEASE			Dellert et al., 2019
+Estonian_DISEASE	Estonian	esto1258	ekk	DISEASE	haigus	hɑiɡ̥us	h ɑ i ɡ̥ u s	hɑiɡ̥us	DISEASE			Dellert et al., 2019
 Estonian_PAIN	Estonian	esto1258	ekk	PAIN	valu	vɑlu	v ɑ l u	vɑlu	PAIN			Dellert et al., 2019
 Estonian_WOUND	Estonian	esto1258	ekk	WOUND	haav	hɑːv	h ɑː v	hɑːv	WOUND			Dellert et al., 2019
 Estonian_FEVER	Estonian	esto1258	ekk	FEVER	palavik	pɑlɑvik	p ɑ l ɑ v i k	pɑlɑvik	FEVER			Dellert et al., 2019
 Estonian_MEDICINE	Estonian	esto1258	ekk	MEDICINE	ravim	rɑvim	r ɑ v i m	rɑvim	MEDICINE			Dellert et al., 2019
-Estonian_BRIDGE	Estonian	esto1258	ekk	BRIDGE	sild	sʲild̥	sʲ i l d ̥	sʲild̥	BRIDGE			Dellert et al., 2019
+Estonian_BRIDGE	Estonian	esto1258	ekk	BRIDGE	sild	sʲild̥	sʲ i l d̥	sʲild̥	BRIDGE			Dellert et al., 2019
 Estonian_WELL	Estonian	esto1258	ekk	WELL	kaev	kɑev	k ɑ e v	kɑev	WELL			Dellert et al., 2019
 Estonian_PASTURE	Estonian	esto1258	ekk	PASTURE	karjamaa	kɑrjɑmɑː	k ɑ r j ɑ m ɑː	kɑrjɑmɑː	PASTURE			Dellert et al., 2019
-Estonian_PATH	Estonian	esto1258	ekk	PATH	rada	rɑd̥ɑ	r ɑ d ̥ ɑ	rɑd̥ɑ	PATH			Dellert et al., 2019
+Estonian_PATH	Estonian	esto1258	ekk	PATH	rada	rɑd̥ɑ	r ɑ d̥ ɑ	rɑd̥ɑ	PATH			Dellert et al., 2019
 Estonian_ROAD	Estonian	esto1258	ekk	ROAD	tee	tʲeː	tʲ eː	tʲeː	ROAD			Dellert et al., 2019
 Estonian_VILLAGE	Estonian	esto1258	ekk	VILLAGE	küla	kylɑ	k y l ɑ	kylɑ	VILLAGE			Dellert et al., 2019
 Estonian_TOWN	Estonian	esto1258	ekk	TOWN	linn	lʲinː	lʲ i nː	lʲinː	TOWN			Dellert et al., 2019
@@ -4003,54 +4003,54 @@ Estonian_CHARACTER	Estonian	esto1258	ekk	CHARACTER	täht	tæxt	t æ x t	tæxt	CH
 Estonian_NEWSPAPER	Estonian	esto1258	ekk	NEWSPAPER	ajaleht	ɑjɑlʲext	ɑ j ɑ lʲ e x t	ɑjɑlʲext	NEWSPAPER			Dellert et al., 2019
 Estonian_LIFE	Estonian	esto1258	ekk	LIFE	elu	elu	e l u	elu	LIFE			Dellert et al., 2019
 Estonian_DEATH	Estonian	esto1258	ekk	DEATH	surm	surm	s u r m	surm	DEATH			Dellert et al., 2019
-Estonian_GRAVE	Estonian	esto1258	ekk	GRAVE	haud	hɑud̥	h ɑ u d ̥	hɑud̥	GRAVE			Dellert et al., 2019
+Estonian_GRAVE	Estonian	esto1258	ekk	GRAVE	haud	hɑud̥	h ɑ u d̥	hɑud̥	GRAVE			Dellert et al., 2019
 Estonian_CHURCH	Estonian	esto1258	ekk	CHURCH	kirik	kirik	k i r i k	kirik	CHURCH			Dellert et al., 2019
 Estonian_GOD	Estonian	esto1258	ekk	GOD	jumal	jumɑl	j u m ɑ l	jumɑl	GOD			Dellert et al., 2019
 Estonian_PHYSICIAN	Estonian	esto1258	ekk	PHYSICIAN	arst	ɑrst	ɑ r s t	ɑrst	PHYSICIAN			Dellert et al., 2019
 Estonian_TEACHER	Estonian	esto1258	ekk	TEACHER	õpetaja	ɤpetɑjɑ	ɤ p e t ɑ j ɑ	ɤpetɑjɑ	TEACHER			Dellert et al., 2019
 Estonian_MONEY	Estonian	esto1258	ekk	MONEY	raha	rɑhɑ	r ɑ h ɑ	rɑhɑ	MONEY			Dellert et al., 2019
-Estonian_SHOP	Estonian	esto1258	ekk	SHOP	pood	poːd̥	p oː d ̥	poːd̥	SHOP			Dellert et al., 2019
+Estonian_SHOP	Estonian	esto1258	ekk	SHOP	pood	poːd̥	p oː d̥	poːd̥	SHOP			Dellert et al., 2019
 Estonian_SHOP	Estonian	esto1258	ekk	SHOP	kauplus	kɑuplus	k ɑ u p l u s	kɑuplus	SHOP			Dellert et al., 2019
-Estonian_PRICE	Estonian	esto1258	ekk	PRICE	hind	hind̥	h i n d ̥	hind̥	PRICE			Dellert et al., 2019
+Estonian_PRICE	Estonian	esto1258	ekk	PRICE	hind	hind̥	h i n d̥	hind̥	PRICE			Dellert et al., 2019
 Estonian_WORLD	Estonian	esto1258	ekk	WORLD	maailm	mɑːilm	m ɑː i l m	mɑːilm	WORLD			Dellert et al., 2019
 Estonian_COUNTRY	Estonian	esto1258	ekk	COUNTRY	maa	mɑː	m ɑː	mɑː	COUNTRY			Dellert et al., 2019
-Estonian_KING	Estonian	esto1258	ekk	KING	kuningas	kunʲiŋk̥ɑs	k u nʲ i ŋ k ̥ ɑ s	kunʲiŋk̥ɑs	KING			Dellert et al., 2019
+Estonian_KING	Estonian	esto1258	ekk	KING	kuningas	kunʲiŋk̥ɑs	k u nʲ i ŋ k̥ ɑ s	kunʲiŋk̥ɑs	KING			Dellert et al., 2019
 Estonian_POWER	Estonian	esto1258	ekk	POWER	võim	vɤim	v ɤ i m	vɤim	POWER			Dellert et al., 2019
 Estonian_BORDER	Estonian	esto1258	ekk	BORDER	piir	piːr	p iː r	piːr	BORDER			Dellert et al., 2019
-Estonian_WAR	Estonian	esto1258	ekk	WAR	sõda	sɤd̥ɑ	s ɤ d ̥ ɑ	sɤd̥ɑ	WAR			Dellert et al., 2019
+Estonian_WAR	Estonian	esto1258	ekk	WAR	sõda	sɤd̥ɑ	s ɤ d̥ ɑ	sɤd̥ɑ	WAR			Dellert et al., 2019
 Estonian_ENEMY	Estonian	esto1258	ekk	ENEMY	vaenlane	vɑenlɑnʲe	v ɑ e n l ɑ nʲ e	vɑenlɑnʲe	ENEMY			Dellert et al., 2019
 Estonian_FIGHT	Estonian	esto1258	ekk	FIGHT	võitlus	vɤitlus	v ɤ i t l u s	vɤitlus	FIGHT			Dellert et al., 2019
-Estonian_BOW	Estonian	esto1258	ekk	BOW	vibu	vib̥u	v i b ̥ u	vib̥u	BOW			Dellert et al., 2019
+Estonian_BOW	Estonian	esto1258	ekk	BOW	vibu	vib̥u	v i b̥ u	vib̥u	BOW			Dellert et al., 2019
 Estonian_ARROW	Estonian	esto1258	ekk	ARROW	nool	noːl	n oː l	noːl	ARROW			Dellert et al., 2019
 Estonian_GUN	Estonian	esto1258	ekk	GUN	püss	pysː	p y sː	pysː	GUN			Dellert et al., 2019
-Estonian_MISTAKE	Estonian	esto1258	ekk	MISTAKE	viga	viɡ̥ɑ	v i ɡ ̥ ɑ	viɡ̥ɑ	MISTAKE			Dellert et al., 2019
+Estonian_MISTAKE	Estonian	esto1258	ekk	MISTAKE	viga	viɡ̥ɑ	v i ɡ̥ ɑ	viɡ̥ɑ	MISTAKE			Dellert et al., 2019
 Estonian_UNTRUTH	Estonian	esto1258	ekk	UNTRUTH	vale	vɑlʲe	v ɑ lʲ e	vɑlʲe	UNTRUTH			Dellert et al., 2019
-Estonian_BAD_LUCK	Estonian	esto1258	ekk	BAD LUCK	häda	hæd̥ɑ	h æ d ̥ ɑ	hæd̥ɑ	BAD_LUCK			Dellert et al., 2019
+Estonian_BAD_LUCK	Estonian	esto1258	ekk	BAD LUCK	häda	hæd̥ɑ	h æ d̥ ɑ	hæd̥ɑ	BAD_LUCK			Dellert et al., 2019
 Estonian_BAD_LUCK	Estonian	esto1258	ekk	BAD LUCK	õnnetus	ɤnʲːetus	ɤ nʲː e t u s	ɤnʲːetus	BAD_LUCK			Dellert et al., 2019
 Estonian_FAULT	Estonian	esto1258	ekk	FAULT	süü	syː	s yː	syː	FAULT			Dellert et al., 2019
-Estonian_AGE	Estonian	esto1258	ekk	AGE	iga	iɡ̥ɑ	i ɡ ̥ ɑ	iɡ̥ɑ	AGE			Dellert et al., 2019
+Estonian_AGE	Estonian	esto1258	ekk	AGE	iga	iɡ̥ɑ	i ɡ̥ ɑ	iɡ̥ɑ	AGE			Dellert et al., 2019
 Estonian_END_(OF_TIME)	Estonian	esto1258	ekk	END (OF TIME)	lõpp	lɤpː	l ɤ pː	lɤpː	END_(OF_TIME)			Dellert et al., 2019
-Estonian_TIME	Estonian	esto1258	ekk	TIME	aeg	ɑeɡ̥	ɑ e ɡ ̥	ɑeɡ̥	TIME			Dellert et al., 2019
+Estonian_TIME	Estonian	esto1258	ekk	TIME	aeg	ɑeɡ̥	ɑ e ɡ̥	ɑeɡ̥	TIME			Dellert et al., 2019
 Estonian_DAY_(NOT_NIGHT)	Estonian	esto1258	ekk	DAY (NOT NIGHT)	päev	pæev	p æ e v	pæev	DAY_(NOT_NIGHT)			Dellert et al., 2019
 Estonian_MORNING	Estonian	esto1258	ekk	MORNING	hommik	homːik	h o mː i k	homːik	MORNING			Dellert et al., 2019
 Estonian_MIDDAY	Estonian	esto1258	ekk	MIDDAY	lõuna	lɤunɑ	l ɤ u n ɑ	lɤunɑ	MIDDAY			Dellert et al., 2019
 Estonian_MIDDAY	Estonian	esto1258	ekk	MIDDAY	keskpäev	keskpæev	k e s k p æ e v	keskpæev	MIDDAY			Dellert et al., 2019
 Estonian_EVENING	Estonian	esto1258	ekk	EVENING	õhtu	ɤxtu	ɤ x t u	ɤxtu	EVENING			Dellert et al., 2019
 Estonian_NIGHT	Estonian	esto1258	ekk	NIGHT	öö	œː	œː	œː	NIGHT			Dellert et al., 2019
-Estonian_WEEK	Estonian	esto1258	ekk	WEEK	nädal	næd̥ɑl	n æ d ̥ ɑ l	næd̥ɑl	WEEK			Dellert et al., 2019
+Estonian_WEEK	Estonian	esto1258	ekk	WEEK	nädal	næd̥ɑl	n æ d̥ ɑ l	næd̥ɑl	WEEK			Dellert et al., 2019
 Estonian_MONTH	Estonian	esto1258	ekk	MONTH	kuu	kuː	k uː	kuː	MONTH			Dellert et al., 2019
 Estonian_YEAR	Estonian	esto1258	ekk	YEAR	aasta	ɑːstɑ	ɑː s t ɑ	ɑːstɑ	YEAR			Dellert et al., 2019
-Estonian_SPRINGTIME	Estonian	esto1258	ekk	SPRINGTIME	kevad	kevɑd̥	k e v ɑ d ̥	kevɑd̥	SPRINGTIME			Dellert et al., 2019
+Estonian_SPRINGTIME	Estonian	esto1258	ekk	SPRINGTIME	kevad	kevɑd̥	k e v ɑ d̥	kevɑd̥	SPRINGTIME			Dellert et al., 2019
 Estonian_SUMMER	Estonian	esto1258	ekk	SUMMER	suvi	suvi	s u v i	suvi	SUMMER			Dellert et al., 2019
-Estonian_AUTUMN	Estonian	esto1258	ekk	AUTUMN	sügis	syɡ̥is	s y ɡ ̥ i s	syɡ̥is	AUTUMN			Dellert et al., 2019
+Estonian_AUTUMN	Estonian	esto1258	ekk	AUTUMN	sügis	syɡ̥is	s y ɡ̥ i s	syɡ̥is	AUTUMN			Dellert et al., 2019
 Estonian_WINTER	Estonian	esto1258	ekk	WINTER	talv	tɑlv	t ɑ l v	tɑlv	WINTER			Dellert et al., 2019
 Estonian_JANUARY	Estonian	esto1258	ekk	JANUARY	jaanuar	jɑːnuɑr	j ɑː n u ɑ r	jɑːnuɑr	JANUARY			Dellert et al., 2019
-Estonian_FEBRUARY	Estonian	esto1258	ekk	FEBRUARY	veebruar	veːb̥ruɑr	v eː b ̥ r u ɑ r	veːb̥ruɑr	FEBRUARY			Dellert et al., 2019
+Estonian_FEBRUARY	Estonian	esto1258	ekk	FEBRUARY	veebruar	veːb̥ruɑr	v eː b̥ r u ɑ r	veːb̥ruɑr	FEBRUARY			Dellert et al., 2019
 Estonian_MONDAY	Estonian	esto1258	ekk	MONDAY	esmaspäev	esmɑspæev	e s m ɑ s p æ e v	esmɑspæev	MONDAY			Dellert et al., 2019
 Estonian_TUESDAY	Estonian	esto1258	ekk	TUESDAY	teisipäev	tʲeisʲipæev	tʲ e i sʲ i p æ e v	tʲeisʲipæev	TUESDAY			Dellert et al., 2019
-Estonian_WEDNESDAY	Estonian	esto1258	ekk	WEDNESDAY	kesknädal	kesknæd̥ɑl	k e s k n æ d ̥ ɑ l	kesknæd̥ɑl	WEDNESDAY			Dellert et al., 2019
+Estonian_WEDNESDAY	Estonian	esto1258	ekk	WEDNESDAY	kesknädal	kesknæd̥ɑl	k e s k n æ d̥ ɑ l	kesknæd̥ɑl	WEDNESDAY			Dellert et al., 2019
 Estonian_THURSDAY	Estonian	esto1258	ekk	THURSDAY	neljapäev	nʲeljɑpæev	nʲ e l j ɑ p æ e v	nʲeljɑpæev	THURSDAY			Dellert et al., 2019
-Estonian_FRIDAY	Estonian	esto1258	ekk	FRIDAY	reede	reːd̥e	r eː d ̥ e	reːd̥e	FRIDAY			Dellert et al., 2019
+Estonian_FRIDAY	Estonian	esto1258	ekk	FRIDAY	reede	reːd̥e	r eː d̥ e	reːd̥e	FRIDAY			Dellert et al., 2019
 Estonian_SATURDAY	Estonian	esto1258	ekk	SATURDAY	laupäev	lɑupæev	l ɑ u p æ e v	lɑupæev	SATURDAY			Dellert et al., 2019
 Estonian_SUNDAY	Estonian	esto1258	ekk	SUNDAY	pühapäev	pyhɑpæev	p y h ɑ p æ e v	pyhɑpæev	SUNDAY			Dellert et al., 2019
 Estonian_BIG	Estonian	esto1258	ekk	BIG	suur	suːr	s uː r	suːr	BIG			Dellert et al., 2019
@@ -4081,41 +4081,41 @@ Estonian_HOT	Estonian	esto1258	ekk	HOT	palav	pɑlɑv	p ɑ l ɑ v	pɑlɑv	HOT			D
 Estonian_WARM	Estonian	esto1258	ekk	WARM	soe	soe	s o e	soe	WARM			Dellert et al., 2019
 Estonian_COLD	Estonian	esto1258	ekk	COLD	külm	kylm	k y l m	kylm	COLD			Dellert et al., 2019
 Estonian_FRESH	Estonian	esto1258	ekk	FRESH	värske	værske	v æ r s k e	værske	FRESH			Dellert et al., 2019
-Estonian_WET	Estonian	esto1258	ekk	WET	märg	mærɡ̥	m æ r ɡ ̥	mærɡ̥	WET			Dellert et al., 2019
+Estonian_WET	Estonian	esto1258	ekk	WET	märg	mærɡ̥	m æ r ɡ̥	mærɡ̥	WET			Dellert et al., 2019
 Estonian_DRY	Estonian	esto1258	ekk	DRY	kuiv	kuiv	k u i v	kuiv	DRY			Dellert et al., 2019
 Estonian_FULL	Estonian	esto1258	ekk	FULL	täis	tæis	t æ i s	tæis	FULL			Dellert et al., 2019
 Estonian_EMPTY	Estonian	esto1258	ekk	EMPTY	tühi	tyhi	t y h i	tyhi	EMPTY			Dellert et al., 2019
-Estonian_CLOSED	Estonian	esto1258	ekk	CLOSED	suletud	sulʲetud̥	s u lʲ e t u d ̥	sulʲetud̥	CLOSED			Dellert et al., 2019
+Estonian_CLOSED	Estonian	esto1258	ekk	CLOSED	suletud	sulʲetud̥	s u lʲ e t u d̥	sulʲetud̥	CLOSED			Dellert et al., 2019
 Estonian_CLEAN	Estonian	esto1258	ekk	CLEAN	puhas	puhɑs	p u h ɑ s	puhɑs	CLEAN			Dellert et al., 2019
 Estonian_DIRTY	Estonian	esto1258	ekk	DIRTY	räpane	ræpɑnʲe	r æ p ɑ nʲ e	ræpɑnʲe	DIRTY			Dellert et al., 2019
-Estonian_DIRTY	Estonian	esto1258	ekk	DIRTY	määrdunud	mæːrd̥unud̥	m æː r d ̥ u n u d ̥	mæːrd̥unud̥	DIRTY			Dellert et al., 2019
+Estonian_DIRTY	Estonian	esto1258	ekk	DIRTY	määrdunud	mæːrd̥unud̥	m æː r d̥ u n u d̥	mæːrd̥unud̥	DIRTY			Dellert et al., 2019
 Estonian_RAW	Estonian	esto1258	ekk	RAW	toores	toːres	t oː r e s	toːres	RAW			Dellert et al., 2019
 Estonian_RIPE	Estonian	esto1258	ekk	RIPE	küps	kyps	k y p s	kyps	RIPE			Dellert et al., 2019
 Estonian_TASTY	Estonian	esto1258	ekk	TASTY	hõrk	hɤrk	h ɤ r k	hɤrk	TASTY			Dellert et al., 2019
 Estonian_TASTY	Estonian	esto1258	ekk	TASTY	maitsev	mɑitsʲev	m ɑ i t sʲ e v	mɑitsʲev	TASTY			Dellert et al., 2019
-Estonian_SWEET	Estonian	esto1258	ekk	SWEET	magus	mɑɡ̥us	m ɑ ɡ ̥ u s	mɑɡ̥us	SWEET			Dellert et al., 2019
+Estonian_SWEET	Estonian	esto1258	ekk	SWEET	magus	mɑɡ̥us	m ɑ ɡ̥ u s	mɑɡ̥us	SWEET			Dellert et al., 2019
 Estonian_BITTER	Estonian	esto1258	ekk	BITTER	mõru	mɤru	m ɤ r u	mɤru	BITTER			Dellert et al., 2019
 Estonian_SOUR	Estonian	esto1258	ekk	SOUR	hapu	hɑpu	h ɑ p u	hɑpu	SOUR			Dellert et al., 2019
 Estonian_BRIGHT	Estonian	esto1258	ekk	BRIGHT	hele	helʲe	h e lʲ e	helʲe	BRIGHT			Dellert et al., 2019
 Estonian_DARK	Estonian	esto1258	ekk	DARK	pime	pime	p i m e	pime	DARK			Dellert et al., 2019
 Estonian_BLACK	Estonian	esto1258	ekk	BLACK	must	must	m u s t	must	BLACK			Dellert et al., 2019
-Estonian_WHITE	Estonian	esto1258	ekk	WHITE	valge	vɑlɡ̥e	v ɑ l ɡ ̥ e	vɑlɡ̥e	WHITE			Dellert et al., 2019
+Estonian_WHITE	Estonian	esto1258	ekk	WHITE	valge	vɑlɡ̥e	v ɑ l ɡ̥ e	vɑlɡ̥e	WHITE			Dellert et al., 2019
 Estonian_RED	Estonian	esto1258	ekk	RED	punane	punɑnʲe	p u n ɑ nʲ e	punɑnʲe	RED			Dellert et al., 2019
 Estonian_YELLOW	Estonian	esto1258	ekk	YELLOW	kollane	kolːɑnʲe	k o lː ɑ nʲ e	kolːɑnʲe	YELLOW			Dellert et al., 2019
 Estonian_BLUE	Estonian	esto1258	ekk	BLUE	sinine	sʲinʲinʲe	sʲ i nʲ i nʲ e	sʲinʲinʲe	BLUE			Dellert et al., 2019
 Estonian_GREEN	Estonian	esto1258	ekk	GREEN	roheline	rohelʲinʲe	r o h e lʲ i nʲ e	rohelʲinʲe	GREEN			Dellert et al., 2019
 Estonian_GREY	Estonian	esto1258	ekk	GREY	hall	hɑlː	h ɑ lː	hɑlː	GREY			Dellert et al., 2019
-Estonian_CHEAP	Estonian	esto1258	ekk	CHEAP	odav	od̥ɑv	o d ̥ ɑ v	od̥ɑv	CHEAP			Dellert et al., 2019
+Estonian_CHEAP	Estonian	esto1258	ekk	CHEAP	odav	od̥ɑv	o d̥ ɑ v	od̥ɑv	CHEAP			Dellert et al., 2019
 Estonian_EXPENSIVE	Estonian	esto1258	ekk	EXPENSIVE	kallis	kɑlʲːis	k ɑ lʲː i s	kɑlʲːis	EXPENSIVE			Dellert et al., 2019
 Estonian_BLIND	Estonian	esto1258	ekk	BLIND	pime	pime	p i m e	pime	BLIND			Dellert et al., 2019
 Estonian_DEAF	Estonian	esto1258	ekk	DEAF	kurt	kurt	k u r t	kurt	DEAF			Dellert et al., 2019
-Estonian_STRONG	Estonian	esto1258	ekk	STRONG	tugev	tuɡ̥ev	t u ɡ ̥ e v	tuɡ̥ev	STRONG			Dellert et al., 2019
+Estonian_STRONG	Estonian	esto1258	ekk	STRONG	tugev	tuɡ̥ev	t u ɡ̥ e v	tuɡ̥ev	STRONG			Dellert et al., 2019
 Estonian_WEAK	Estonian	esto1258	ekk	WEAK	nõrk	nɤrk	n ɤ r k	nɤrk	WEAK			Dellert et al., 2019
 Estonian_WEAK	Estonian	esto1258	ekk	WEAK	jõuetu	jɤuetu	j ɤ u e t u	jɤuetu	WEAK			Dellert et al., 2019
 Estonian_FAT_(OBESE)	Estonian	esto1258	ekk	FAT (OBESE)	rasvane	rɑsvɑnʲe	r ɑ s v ɑ nʲ e	rɑsvɑnʲe	FAT_(OBESE)			Dellert et al., 2019
 Estonian_THIN_(SLIM)	Estonian	esto1258	ekk	THIN (SLIM)	sale	sɑlʲe	s ɑ lʲ e	sɑlʲe	THIN_(SLIM)			Dellert et al., 2019
 Estonian_GOOD-LOOKING	Estonian	esto1258	ekk	GOOD-LOOKING	kena	kenɑ	k e n ɑ	kenɑ	GOOD-LOOKING			Dellert et al., 2019
-Estonian_EVIL	Estonian	esto1258	ekk	EVIL	tige	tʲiɡ̥e	tʲ i ɡ ̥ e	tʲiɡ̥e	EVIL			Dellert et al., 2019
+Estonian_EVIL	Estonian	esto1258	ekk	EVIL	tige	tʲiɡ̥e	tʲ i ɡ̥ e	tʲiɡ̥e	EVIL			Dellert et al., 2019
 Estonian_STUPID	Estonian	esto1258	ekk	STUPID	juhm	juxm	j u x m	juxm	STUPID			Dellert et al., 2019
 Estonian_STUPID	Estonian	esto1258	ekk	STUPID	rumal	rumɑl	r u m ɑ l	rumɑl	STUPID			Dellert et al., 2019
 Estonian_LAZY	Estonian	esto1258	ekk	LAZY	laisk	lɑisk	l ɑ i s k	lɑisk	LAZY			Dellert et al., 2019
@@ -4127,15 +4127,15 @@ Estonian_CLEVER	Estonian	esto1258	ekk	CLEVER	arukas	ɑrukɑs	ɑ r u k ɑ s	ɑruk
 Estonian_CLEVER	Estonian	esto1258	ekk	CLEVER	mõistlik	mɤistlʲik	m ɤ i s t lʲ i k	mɤistlʲik	CLEVER			Dellert et al., 2019
 Estonian_DEXTEROUS	Estonian	esto1258	ekk	DEXTEROUS	osav	osɑv	o s ɑ v	osɑv	DEXTEROUS			Dellert et al., 2019
 Estonian_DEAR	Estonian	esto1258	ekk	DEAR	armas	ɑrmɑs	ɑ r m ɑ s	ɑrmɑs	DEAR			Dellert et al., 2019
-Estonian_MERRY	Estonian	esto1258	ekk	MERRY	lõbus	lɤb̥us	l ɤ b ̥ u s	lɤb̥us	MERRY			Dellert et al., 2019
+Estonian_MERRY	Estonian	esto1258	ekk	MERRY	lõbus	lɤb̥us	l ɤ b̥ u s	lɤb̥us	MERRY			Dellert et al., 2019
 Estonian_GENTLE	Estonian	esto1258	ekk	GENTLE	õrn	ɤrn	ɤ r n	ɤrn	GENTLE			Dellert et al., 2019
 Estonian_BE_HUNGRY	Estonian	esto1258	ekk	BE HUNGRY	näljane	næljɑnʲe	n æ l j ɑ nʲ e	næljɑnʲe	BE_HUNGRY			Dellert et al., 2019
-Estonian_SICK	Estonian	esto1258	ekk	SICK	haige	hɑiɡ̥e	h ɑ i ɡ ̥ e	hɑiɡ̥e	SICK			Dellert et al., 2019
+Estonian_SICK	Estonian	esto1258	ekk	SICK	haige	hɑiɡ̥e	h ɑ i ɡ̥ e	hɑiɡ̥e	SICK			Dellert et al., 2019
 Estonian_NAKED	Estonian	esto1258	ekk	NAKED	alasti	ɑlɑstʲi	ɑ l ɑ s tʲ i	ɑlɑstʲi	NAKED			Dellert et al., 2019
-Estonian_SAD	Estonian	esto1258	ekk	SAD	kurb	kurb̥	k u r b ̥	kurb̥	SAD			Dellert et al., 2019
+Estonian_SAD	Estonian	esto1258	ekk	SAD	kurb	kurb̥	k u r b̥	kurb̥	SAD			Dellert et al., 2019
 Estonian_GOOD	Estonian	esto1258	ekk	GOOD	hea	heɑ	h e ɑ	heɑ	GOOD			Dellert et al., 2019
-Estonian_BAD	Estonian	esto1258	ekk	BAD	halb	hɑlb̥	h ɑ l b ̥	hɑlb̥	BAD			Dellert et al., 2019
-Estonian_CORRECT_(RIGHT)	Estonian	esto1258	ekk	CORRECT (RIGHT)	õige	ɤiɡ̥e	ɤ i ɡ ̥ e	ɤiɡ̥e	CORRECT_(RIGHT)			Dellert et al., 2019
+Estonian_BAD	Estonian	esto1258	ekk	BAD	halb	hɑlb̥	h ɑ l b̥	hɑlb̥	BAD			Dellert et al., 2019
+Estonian_CORRECT_(RIGHT)	Estonian	esto1258	ekk	CORRECT (RIGHT)	õige	ɤiɡ̥e	ɤ i ɡ̥ e	ɤiɡ̥e	CORRECT_(RIGHT)			Dellert et al., 2019
 Estonian_SEVERE	Estonian	esto1258	ekk	SEVERE	paha	pɑhɑ	p ɑ h ɑ	pɑhɑ	SEVERE			Dellert et al., 2019
 Estonian_TRUE	Estonian	esto1258	ekk	TRUE	tõene	tɤenʲe	t ɤ e nʲ e	tɤenʲe	TRUE			Dellert et al., 2019
 Estonian_OLD_(USED)	Estonian	esto1258	ekk	OLD (USED)	vana	vɑnɑ	v ɑ n ɑ	vɑnɑ	OLD_(USED)			Dellert et al., 2019
@@ -4144,11 +4144,11 @@ Estonian_OLD_(AGED)	Estonian	esto1258	ekk	OLD (AGED)	vana	vɑnɑ	v ɑ n ɑ	vɑn�
 Estonian_YOUNG	Estonian	esto1258	ekk	YOUNG	noor	noːr	n oː r	noːr	YOUNG			Dellert et al., 2019
 Estonian_POOR	Estonian	esto1258	ekk	POOR	vaene	vɑenʲe	v ɑ e nʲ e	vɑenʲe	POOR			Dellert et al., 2019
 Estonian_RICH	Estonian	esto1258	ekk	RICH	rikas	rikɑs	r i k ɑ s	rikɑs	RICH			Dellert et al., 2019
-Estonian_FAME	Estonian	esto1258	ekk	FAME	tuntud	tuntud̥	t u n t u d ̥	tuntud̥	FAME			Dellert et al., 2019
+Estonian_FAME	Estonian	esto1258	ekk	FAME	tuntud	tuntud̥	t u n t u d̥	tuntud̥	FAME			Dellert et al., 2019
 Estonian_FOREIGN	Estonian	esto1258	ekk	FOREIGN	võõras	vɤːrɑs	v ɤː r ɑ s	vɤːrɑs	FOREIGN			Dellert et al., 2019
 Estonian_DIFFERENT	Estonian	esto1258	ekk	DIFFERENT	erinev	erinʲev	e r i nʲ e v	erinʲev	DIFFERENT			Dellert et al., 2019
-Estonian_NEAR	Estonian	esto1258	ekk	NEAR	lähedane	læhed̥ɑnʲe	l æ h e d ̥ ɑ nʲ e	læhed̥ɑnʲe	NEAR			Dellert et al., 2019
-Estonian_FAR	Estonian	esto1258	ekk	FAR	kauge	kɑuɡ̥e	k ɑ u ɡ ̥ e	kɑuɡ̥e	FAR			Dellert et al., 2019
+Estonian_NEAR	Estonian	esto1258	ekk	NEAR	lähedane	læhed̥ɑnʲe	l æ h e d̥ ɑ nʲ e	læhed̥ɑnʲe	NEAR			Dellert et al., 2019
+Estonian_FAR	Estonian	esto1258	ekk	FAR	kauge	kɑuɡ̥e	k ɑ u ɡ̥ e	kɑuɡ̥e	FAR			Dellert et al., 2019
 Estonian_LEFT	Estonian	esto1258	ekk	LEFT	vasak	vɑsɑk	v ɑ s ɑ k	vɑsɑk	LEFT			Dellert et al., 2019
 Estonian_RIGHT	Estonian	esto1258	ekk	RIGHT	parem	pɑrem	p ɑ r e m	pɑrem	RIGHT			Dellert et al., 2019
 Estonian_OTHER	Estonian	esto1258	ekk	OTHER	muu	muː	m uː	muː	OTHER			Dellert et al., 2019
@@ -4161,7 +4161,7 @@ Estonian_ALONE	Estonian	esto1258	ekk	ALONE	üksi	yksʲi	y k sʲ i	yksʲi	ALONE		
 Estonian_TOGETHER	Estonian	esto1258	ekk	TOGETHER	koos	koːs	k oː s	koːs	TOGETHER			Dellert et al., 2019
 Estonian_TOGETHER	Estonian	esto1258	ekk	TOGETHER	üheskoos	yheskoːs	y h e s k oː s	yheskoːs	TOGETHER			Dellert et al., 2019
 Estonian_FOR_A_LONG_TIME	Estonian	esto1258	ekk	FOR A LONG TIME	kaua	kɑuɑ	k ɑ u ɑ	kɑuɑ	FOR_A_LONG_TIME			Dellert et al., 2019
-Estonian_NOW	Estonian	esto1258	ekk	NOW	nüüd	nyːd̥	n yː d ̥	nyːd̥	NOW			Dellert et al., 2019
+Estonian_NOW	Estonian	esto1258	ekk	NOW	nüüd	nyːd̥	n yː d̥	nyːd̥	NOW			Dellert et al., 2019
 Estonian_TODAY	Estonian	esto1258	ekk	TODAY	täna	tænɑ	t æ n ɑ	tænɑ	TODAY			Dellert et al., 2019
 Estonian_TOMORROW	Estonian	esto1258	ekk	TOMORROW	homme	homːe	h o mː e	homːe	TOMORROW			Dellert et al., 2019
 Estonian_SOON	Estonian	esto1258	ekk	SOON	pea	peɑ	p e ɑ	peɑ	SOON			Dellert et al., 2019
@@ -4169,14 +4169,14 @@ Estonian_SOON	Estonian	esto1258	ekk	SOON	varsti	vɑrstʲi	v ɑ r s tʲ i	vɑrst�
 Estonian_YESTERDAY	Estonian	esto1258	ekk	YESTERDAY	eile	eilʲe	e i lʲ e	eilʲe	YESTERDAY			Dellert et al., 2019
 Estonian_AFTERWARDS	Estonian	esto1258	ekk	AFTERWARDS	seejärel	sʲeːjærel	sʲ eː j æ r e l	sʲeːjærel	AFTERWARDS			Dellert et al., 2019
 Estonian_BEFORE	Estonian	esto1258	ekk	BEFORE	enne	enʲːe	e nʲː e	enʲːe	BEFORE			Dellert et al., 2019
-Estonian_ONE_TIME	Estonian	esto1258	ekk	ONE TIME	kord	kord̥	k o r d ̥	kord̥	ONE_TIME			Dellert et al., 2019
-Estonian_ONE_TIME	Estonian	esto1258	ekk	ONE TIME	üks kord	ykskord̥	y k s k o r d ̥	yks kord̥	ONE_TIME			Dellert et al., 2019
-Estonian_SOMETIMES	Estonian	esto1258	ekk	SOMETIMES	mõnikord	mɤnʲikord̥	m ɤ nʲ i k o r d ̥	mɤnʲikord̥	SOMETIMES			Dellert et al., 2019
+Estonian_ONE_TIME	Estonian	esto1258	ekk	ONE TIME	kord	kord̥	k o r d̥	kord̥	ONE_TIME			Dellert et al., 2019
+Estonian_ONE_TIME	Estonian	esto1258	ekk	ONE TIME	üks kord	ykskord̥	y k s k o r d̥	yks kord̥	ONE_TIME			Dellert et al., 2019
+Estonian_SOMETIMES	Estonian	esto1258	ekk	SOMETIMES	mõnikord	mɤnʲikord̥	m ɤ nʲ i k o r d̥	mɤnʲikord̥	SOMETIMES			Dellert et al., 2019
 Estonian_OFTEN	Estonian	esto1258	ekk	OFTEN	tihti	tʲixtʲi	tʲ i x tʲ i	tʲixtʲi	OFTEN			Dellert et al., 2019
-Estonian_OFTEN	Estonian	esto1258	ekk	OFTEN	sageli	sɑɡ̥elʲi	s ɑ ɡ ̥ e lʲ i	sɑɡ̥elʲi	OFTEN			Dellert et al., 2019
+Estonian_OFTEN	Estonian	esto1258	ekk	OFTEN	sageli	sɑɡ̥elʲi	s ɑ ɡ̥ e lʲ i	sɑɡ̥elʲi	OFTEN			Dellert et al., 2019
 Estonian_ALWAYS	Estonian	esto1258	ekk	ALWAYS	ikka	ikːɑ	i kː ɑ	ikːɑ	ALWAYS			Dellert et al., 2019
 Estonian_ALWAYS	Estonian	esto1258	ekk	ALWAYS	alati	ɑlɑtʲi	ɑ l ɑ tʲ i	ɑlɑtʲi	ALWAYS			Dellert et al., 2019
-Estonian_NEVER	Estonian	esto1258	ekk	NEVER	mitte kunagi	mitʲːekunɑɡ̥i	m i tʲː e k u n ɑ ɡ ̥ i	mitʲːe kunɑɡ̥i	NEVER			Dellert et al., 2019
+Estonian_NEVER	Estonian	esto1258	ekk	NEVER	mitte kunagi	mitʲːekunɑɡ̥i	m i tʲː e k u n ɑ ɡ̥ i	mitʲːe kunɑɡ̥i	NEVER			Dellert et al., 2019
 Estonian_HERE	Estonian	esto1258	ekk	HERE	siin	sʲiːn	sʲ iː n	sʲiːn	HERE			Dellert et al., 2019
 Estonian_THERE	Estonian	esto1258	ekk	THERE	seal	sʲeɑl	sʲ e ɑ l	sʲeɑl	THERE			Dellert et al., 2019
 Estonian_DOWN_OR_BELOW	Estonian	esto1258	ekk	DOWN OR BELOW	all	ɑlː	ɑ lː	ɑlː	DOWN_OR_BELOW			Dellert et al., 2019
@@ -4186,16 +4186,16 @@ Estonian_ABOVE	Estonian	esto1258	ekk	ABOVE	ülal	ylɑl	y l ɑ l	ylɑl	ABOVE			De
 Estonian_UP	Estonian	esto1258	ekk	UP	üles	ylʲes	y lʲ e s	ylʲes	UP			Dellert et al., 2019
 Estonian_NOT	Estonian	esto1258	ekk	NOT	ei	ei	e i	ei	NOT			Dellert et al., 2019
 Estonian_NOT	Estonian	esto1258	ekk	NOT	mitte	mitʲːe	m i tʲː e	mitʲːe	NOT			Dellert et al., 2019
-Estonian_VERY	Estonian	esto1258	ekk	VERY	väga	væɡ̥ɑ	v æ ɡ ̥ ɑ	væɡ̥ɑ	VERY			Dellert et al., 2019
+Estonian_VERY	Estonian	esto1258	ekk	VERY	väga	væɡ̥ɑ	v æ ɡ̥ ɑ	væɡ̥ɑ	VERY			Dellert et al., 2019
 Estonian_ONLY	Estonian	esto1258	ekk	ONLY	ainult	ɑinult	ɑ i n u l t	ɑinult	ONLY			Dellert et al., 2019
-Estonian_ALREADY	Estonian	esto1258	ekk	ALREADY	juba	jub̥ɑ	j u b ̥ ɑ	jub̥ɑ	ALREADY			Dellert et al., 2019
+Estonian_ALREADY	Estonian	esto1258	ekk	ALREADY	juba	jub̥ɑ	j u b̥ ɑ	jub̥ɑ	ALREADY			Dellert et al., 2019
 Estonian_AGAIN	Estonian	esto1258	ekk	AGAIN	jälle	jælʲːe	j æ lʲː e	jælʲːe	AGAIN			Dellert et al., 2019
 Estonian_IN_VAIN	Estonian	esto1258	ekk	IN VAIN	asjata	ɑsjɑtɑ	ɑ s j ɑ t ɑ	ɑsjɑtɑ	IN_VAIN			Dellert et al., 2019
 Estonian_IN_FRONT_OF	Estonian	esto1258	ekk	IN FRONT OF	ees	eːs	eː s	eːs	IN_FRONT_OF			Dellert et al., 2019
 Estonian_BEHIND	Estonian	esto1258	ekk	BEHIND	taha	tɑhɑ	t ɑ h ɑ	tɑhɑ	BEHIND			Dellert et al., 2019
 Estonian_BELOW_OR_UNDER	Estonian	esto1258	ekk	BELOW OR UNDER	all	ɑlː	ɑ lː	ɑlː	BELOW_OR_UNDER			Dellert et al., 2019
-Estonian_THROUGH	Estonian	esto1258	ekk	THROUGH	läbi	læb̥i	l æ b ̥ i	læb̥i	THROUGH			Dellert et al., 2019
-Estonian_THROUGH	Estonian	esto1258	ekk	THROUGH	kaudu	kɑud̥u	k ɑ u d ̥ u	kɑud̥u	THROUGH			Dellert et al., 2019
+Estonian_THROUGH	Estonian	esto1258	ekk	THROUGH	läbi	læb̥i	l æ b̥ i	læb̥i	THROUGH			Dellert et al., 2019
+Estonian_THROUGH	Estonian	esto1258	ekk	THROUGH	kaudu	kɑud̥u	k ɑ u d̥ u	kɑud̥u	THROUGH			Dellert et al., 2019
 Estonian_BETWEEN	Estonian	esto1258	ekk	BETWEEN	vahel	vɑhel	v ɑ h e l	vɑhel	BETWEEN			Dellert et al., 2019
 Estonian_THIS	Estonian	esto1258	ekk	THIS	see	sʲeː	sʲ eː	sʲeː	THIS			Dellert et al., 2019
 Estonian_THAT	Estonian	esto1258	ekk	THAT	see	sʲeː	sʲ eː	sʲeː	THAT			Dellert et al., 2019
@@ -4205,11 +4205,11 @@ Estonian_THOU	Estonian	esto1258	ekk	THOU	sina	sʲinɑ	sʲ i n ɑ	sʲinɑ	THOU			
 Estonian_HE_OR_SHE_OR_IT	Estonian	esto1258	ekk	HE OR SHE OR IT	tema	tʲemɑ	tʲ e m ɑ	tʲemɑ	HE_OR_SHE_OR_IT			Dellert et al., 2019
 Estonian_WE	Estonian	esto1258	ekk	WE	me	me	m e	me	WE			Dellert et al., 2019
 Estonian_YOU	Estonian	esto1258	ekk	YOU	te	tʲe	tʲ e	tʲe	YOU			Dellert et al., 2019
-Estonian_THEY	Estonian	esto1258	ekk	THEY	nad	nɑd̥	n ɑ d ̥	nɑd̥	THEY			Dellert et al., 2019
+Estonian_THEY	Estonian	esto1258	ekk	THEY	nad	nɑd̥	n ɑ d̥	nɑd̥	THEY			Dellert et al., 2019
 Estonian_WHAT	Estonian	esto1258	ekk	WHAT	mis	mis	m i s	mis	WHAT			Dellert et al., 2019
 Estonian_WHO	Estonian	esto1258	ekk	WHO	kes	kes	k e s	kes	WHO			Dellert et al., 2019
 Estonian_WHERE	Estonian	esto1258	ekk	WHERE	kus	kus	k u s	kus	WHERE			Dellert et al., 2019
-Estonian_HOW	Estonian	esto1258	ekk	HOW	kuidas	kuid̥ɑs	k u i d ̥ ɑ s	kuid̥ɑs	HOW			Dellert et al., 2019
+Estonian_HOW	Estonian	esto1258	ekk	HOW	kuidas	kuid̥ɑs	k u i d̥ ɑ s	kuid̥ɑs	HOW			Dellert et al., 2019
 Estonian_WHY	Estonian	esto1258	ekk	WHY	miks	miks	m i k s	miks	WHY			Dellert et al., 2019
 Estonian_HOW_MUCH	Estonian	esto1258	ekk	HOW MUCH	mitu	mitu	m i t u	mitu	HOW_MUCH			Dellert et al., 2019
 Estonian_HOW_MUCH	Estonian	esto1258	ekk	HOW MUCH	kui palju	kuipɑlju	k u i p ɑ l j u	kui pɑlju	HOW_MUCH			Dellert et al., 2019
@@ -4225,15 +4225,15 @@ Estonian_NINE	Estonian	esto1258	ekk	NINE	üheksa	yheksɑ	y h e k s ɑ	yheksɑ	NI
 Estonian_TEN	Estonian	esto1258	ekk	TEN	kümme	kymːe	k y mː e	kymːe	TEN			Dellert et al., 2019
 Estonian_ELEVEN	Estonian	esto1258	ekk	ELEVEN	üksteist	ykstʲeist	y k s tʲ e i s t	ykstʲeist	ELEVEN			Dellert et al., 2019
 Estonian_TWELVE	Estonian	esto1258	ekk	TWELVE	kaksteist	kɑkstʲeist	k ɑ k s tʲ e i s t	kɑkstʲeist	TWELVE			Dellert et al., 2019
-Estonian_TWENTY	Estonian	esto1258	ekk	TWENTY	kakskümmend	kɑkskymːend̥	k ɑ k s k y mː e n d ̥	kɑkskymːend̥	TWENTY			Dellert et al., 2019
-Estonian_THIRTY	Estonian	esto1258	ekk	THIRTY	kolmkümmend	kolmkymːend̥	k o l m k y mː e n d ̥	kolmkymːend̥	THIRTY			Dellert et al., 2019
-Estonian_FORTY	Estonian	esto1258	ekk	FORTY	nelikümmend	nʲelʲikymːend̥	nʲ e lʲ i k y mː e n d ̥	nʲelʲikymːend̥	FORTY			Dellert et al., 2019
-Estonian_FIFTY	Estonian	esto1258	ekk	FIFTY	viiskümmend	viːskymːend̥	v iː s k y mː e n d ̥	viːskymːend̥	FIFTY			Dellert et al., 2019
-Estonian_SIXTY	Estonian	esto1258	ekk	SIXTY	kuuskümmend	kuːskymːend̥	k uː s k y mː e n d ̥	kuːskymːend̥	SIXTY			Dellert et al., 2019
-Estonian_SEVENTY	Estonian	esto1258	ekk	SEVENTY	seitsekümmend	sʲeitsʲekymːend̥	sʲ e i t sʲ e k y mː e n d ̥	sʲeitsʲekymːend̥	SEVENTY			Dellert et al., 2019
-Estonian_EIGHTY	Estonian	esto1258	ekk	EIGHTY	kaheksakümmend	kɑheksɑkymːend̥	k ɑ h e k s ɑ k y mː e n d ̥	kɑheksɑkymːend̥	EIGHTY			Dellert et al., 2019
-Estonian_NINETY	Estonian	esto1258	ekk	NINETY	üheksakümmend	yheksɑkymːend̥	y h e k s ɑ k y mː e n d ̥	yheksɑkymːend̥	NINETY			Dellert et al., 2019
-Estonian_HUNDRED	Estonian	esto1258	ekk	HUNDRED	sada	sɑd̥ɑ	s ɑ d ̥ ɑ	sɑd̥ɑ	HUNDRED			Dellert et al., 2019
+Estonian_TWENTY	Estonian	esto1258	ekk	TWENTY	kakskümmend	kɑkskymːend̥	k ɑ k s k y mː e n d̥	kɑkskymːend̥	TWENTY			Dellert et al., 2019
+Estonian_THIRTY	Estonian	esto1258	ekk	THIRTY	kolmkümmend	kolmkymːend̥	k o l m k y mː e n d̥	kolmkymːend̥	THIRTY			Dellert et al., 2019
+Estonian_FORTY	Estonian	esto1258	ekk	FORTY	nelikümmend	nʲelʲikymːend̥	nʲ e lʲ i k y mː e n d̥	nʲelʲikymːend̥	FORTY			Dellert et al., 2019
+Estonian_FIFTY	Estonian	esto1258	ekk	FIFTY	viiskümmend	viːskymːend̥	v iː s k y mː e n d̥	viːskymːend̥	FIFTY			Dellert et al., 2019
+Estonian_SIXTY	Estonian	esto1258	ekk	SIXTY	kuuskümmend	kuːskymːend̥	k uː s k y mː e n d̥	kuːskymːend̥	SIXTY			Dellert et al., 2019
+Estonian_SEVENTY	Estonian	esto1258	ekk	SEVENTY	seitsekümmend	sʲeitsʲekymːend̥	sʲ e i t sʲ e k y mː e n d̥	sʲeitsʲekymːend̥	SEVENTY			Dellert et al., 2019
+Estonian_EIGHTY	Estonian	esto1258	ekk	EIGHTY	kaheksakümmend	kɑheksɑkymːend̥	k ɑ h e k s ɑ k y mː e n d̥	kɑheksɑkymːend̥	EIGHTY			Dellert et al., 2019
+Estonian_NINETY	Estonian	esto1258	ekk	NINETY	üheksakümmend	yheksɑkymːend̥	y h e k s ɑ k y mː e n d̥	yheksɑkymːend̥	NINETY			Dellert et al., 2019
+Estonian_HUNDRED	Estonian	esto1258	ekk	HUNDRED	sada	sɑd̥ɑ	s ɑ d̥ ɑ	sɑd̥ɑ	HUNDRED			Dellert et al., 2019
 Estonian_THOUSAND	Estonian	esto1258	ekk	THOUSAND	tuhat	tuhɑt	t u h ɑ t	tuhɑt	THOUSAND			Dellert et al., 2019
 Estonian_AND	Estonian	esto1258	ekk	AND	ja	jɑ	j ɑ	jɑ	AND			Dellert et al., 2019
 Estonian_OR	Estonian	esto1258	ekk	OR	või	vɤi	v ɤ i	vɤi	OR			Dellert et al., 2019
@@ -4251,16 +4251,16 @@ Estonian_THUNDER_(VERB)	Estonian	esto1258	ekk	THUNDER (VERB)	kõmisema	kɤmisʲe
 Estonian_BLOW_(OF_WIND)	Estonian	esto1258	ekk	BLOW (OF WIND)	puhuma	puhumɑ	p u h u m ɑ	puhumɑ	BLOW_(OF_WIND)			Dellert et al., 2019
 Estonian_FLOW	Estonian	esto1258	ekk	FLOW	voolama	voːlɑmɑ	v oː l ɑ m ɑ	voːlɑmɑ	FLOW			Dellert et al., 2019
 Estonian_SWAY	Estonian	esto1258	ekk	SWAY	kõikuma	kɤikumɑ	k ɤ i k u m ɑ	kɤikumɑ	SWAY			Dellert et al., 2019
-Estonian_FALL	Estonian	esto1258	ekk	FALL	langema	lɑŋk̥emɑ	l ɑ ŋ k ̥ e m ɑ	lɑŋk̥emɑ	FALL			Dellert et al., 2019
+Estonian_FALL	Estonian	esto1258	ekk	FALL	langema	lɑŋk̥emɑ	l ɑ ŋ k̥ e m ɑ	lɑŋk̥emɑ	FALL			Dellert et al., 2019
 Estonian_BURNING	Estonian	esto1258	ekk	BURNING	põlema	pɤlʲemɑ	p ɤ lʲ e m ɑ	pɤlʲemɑ	BURNING			Dellert et al., 2019
-Estonian_RAIN_(RAINING)	Estonian	esto1258	ekk	RAIN (RAINING)	sadama	sɑd̥ɑmɑ	s ɑ d ̥ ɑ m ɑ	sɑd̥ɑmɑ	RAIN_(RAINING)			Dellert et al., 2019
+Estonian_RAIN_(RAINING)	Estonian	esto1258	ekk	RAIN (RAINING)	sadama	sɑd̥ɑmɑ	s ɑ d̥ ɑ m ɑ	sɑd̥ɑmɑ	RAIN_(RAINING)			Dellert et al., 2019
 Estonian_FREEZE	Estonian	esto1258	ekk	FREEZE	kinni külmuma	kinʲːikylmumɑ	k i nʲː i k y l m u m ɑ	kinʲːi kylmumɑ	FREEZE			Dellert et al., 2019
 Estonian_MELT	Estonian	esto1258	ekk	MELT	sulama	sulɑmɑ	s u l ɑ m ɑ	sulɑmɑ	MELT			Dellert et al., 2019
 Estonian_DRY_UP	Estonian	esto1258	ekk	DRY UP	kuivama	kuivɑmɑ	k u i v ɑ m ɑ	kuivɑmɑ	DRY_UP			Dellert et al., 2019
 Estonian_BOIL_(OF_LIQUID)	Estonian	esto1258	ekk	BOIL (OF LIQUID)	keema	keːmɑ	k eː m ɑ	keːmɑ	BOIL_(OF_LIQUID)			Dellert et al., 2019
-Estonian_SPOIL_(BECOME_SPOILED)	Estonian	esto1258	ekk	SPOIL (BECOME SPOILED)	mädanema	mæd̥ɑnʲemɑ	m æ d ̥ ɑ nʲ e m ɑ	mæd̥ɑnʲemɑ	SPOIL_(BECOME_SPOILED)			Dellert et al., 2019
-Estonian_PASS	Estonian	esto1258	ekk	PASS	mööduma	mœːd̥umɑ	m œː d ̥ u m ɑ	mœːd̥umɑ	PASS			Dellert et al., 2019
-Estonian_DISAPPEAR	Estonian	esto1258	ekk	DISAPPEAR	kaduma	kɑd̥umɑ	k ɑ d ̥ u m ɑ	kɑd̥umɑ	DISAPPEAR			Dellert et al., 2019
+Estonian_SPOIL_(BECOME_SPOILED)	Estonian	esto1258	ekk	SPOIL (BECOME SPOILED)	mädanema	mæd̥ɑnʲemɑ	m æ d̥ ɑ nʲ e m ɑ	mæd̥ɑnʲemɑ	SPOIL_(BECOME_SPOILED)			Dellert et al., 2019
+Estonian_PASS	Estonian	esto1258	ekk	PASS	mööduma	mœːd̥umɑ	m œː d̥ u m ɑ	mœːd̥umɑ	PASS			Dellert et al., 2019
+Estonian_DISAPPEAR	Estonian	esto1258	ekk	DISAPPEAR	kaduma	kɑd̥umɑ	k ɑ d̥ u m ɑ	kɑd̥umɑ	DISAPPEAR			Dellert et al., 2019
 Estonian_INCREASE	Estonian	esto1258	ekk	INCREASE	kasvama	kɑsvɑmɑ	k ɑ s v ɑ m ɑ	kɑsvɑmɑ	INCREASE			Dellert et al., 2019
 Estonian_GROW	Estonian	esto1258	ekk	GROW	kasvama	kɑsvɑmɑ	k ɑ s v ɑ m ɑ	kɑsvɑmɑ	GROW			Dellert et al., 2019
 Estonian_BARKING	Estonian	esto1258	ekk	BARKING	haukuma	hɑukumɑ	h ɑ u k u m ɑ	hɑukumɑ	BARKING			Dellert et al., 2019
@@ -4268,28 +4268,28 @@ Estonian_HOWL	Estonian	esto1258	ekk	HOWL	uluma	ulumɑ	u l u m ɑ	ulumɑ	HOWL			D
 Estonian_BLOW_(WITH_MOUTH)	Estonian	esto1258	ekk	BLOW (WITH MOUTH)	puhuma	puhumɑ	p u h u m ɑ	puhumɑ	BLOW_(WITH_MOUTH)			Dellert et al., 2019
 Estonian_WHISTLE	Estonian	esto1258	ekk	WHISTLE	vilistama	vilʲistɑmɑ	v i lʲ i s t ɑ m ɑ	vilʲistɑmɑ	WHISTLE			Dellert et al., 2019
 Estonian_SHOUT	Estonian	esto1258	ekk	SHOUT	karjuma	kɑrjumɑ	k ɑ r j u m ɑ	kɑrjumɑ	SHOUT			Dellert et al., 2019
-Estonian_GROAN	Estonian	esto1258	ekk	GROAN	oigama	oiɡ̥ɑmɑ	o i ɡ ̥ ɑ m ɑ	oiɡ̥ɑmɑ	GROAN			Dellert et al., 2019
+Estonian_GROAN	Estonian	esto1258	ekk	GROAN	oigama	oiɡ̥ɑmɑ	o i ɡ̥ ɑ m ɑ	oiɡ̥ɑmɑ	GROAN			Dellert et al., 2019
 Estonian_BE_ALIVE	Estonian	esto1258	ekk	BE ALIVE	elama	elɑmɑ	e l ɑ m ɑ	elɑmɑ	BE_ALIVE			Dellert et al., 2019
 Estonian_BE_ALIVE	Estonian	esto1258	ekk	BE ALIVE	elus olema	elusolʲemɑ	e l u s o lʲ e m ɑ	elus olʲemɑ	BE_ALIVE			Dellert et al., 2019
-Estonian_BE_BORN	Estonian	esto1258	ekk	BE BORN	sündima	synd̥imɑ	s y n d ̥ i m ɑ	synd̥imɑ	BE_BORN			Dellert et al., 2019
-Estonian_BREATHE	Estonian	esto1258	ekk	BREATHE	hingama	hiŋk̥ɑmɑ	h i ŋ k ̥ ɑ m ɑ	hiŋk̥ɑmɑ	BREATHE			Dellert et al., 2019
+Estonian_BE_BORN	Estonian	esto1258	ekk	BE BORN	sündima	synd̥imɑ	s y n d̥ i m ɑ	synd̥imɑ	BE_BORN			Dellert et al., 2019
+Estonian_BREATHE	Estonian	esto1258	ekk	BREATHE	hingama	hiŋk̥ɑmɑ	h i ŋ k̥ ɑ m ɑ	hiŋk̥ɑmɑ	BREATHE			Dellert et al., 2019
 Estonian_DRINK	Estonian	esto1258	ekk	DRINK	jooma	joːmɑ	j oː m ɑ	joːmɑ	DRINK			Dellert et al., 2019
 Estonian_EAT	Estonian	esto1258	ekk	EAT	sööma	sœːmɑ	s œː m ɑ	sœːmɑ	EAT			Dellert et al., 2019
 Estonian_SWALLOW	Estonian	esto1258	ekk	SWALLOW	neelama	nʲeːlɑmɑ	nʲ eː l ɑ m ɑ	nʲeːlɑmɑ	SWALLOW			Dellert et al., 2019
 Estonian_GET_TIRED	Estonian	esto1258	ekk	GET TIRED	väsima	væsʲimɑ	v æ sʲ i m ɑ	væsʲimɑ	GET_TIRED			Dellert et al., 2019
 Estonian_FALL_ASLEEP	Estonian	esto1258	ekk	FALL ASLEEP	uinuma	uinumɑ	u i n u m ɑ	uinumɑ	FALL_ASLEEP			Dellert et al., 2019
-Estonian_SLEEP	Estonian	esto1258	ekk	SLEEP	magama	mɑɡ̥ɑmɑ	m ɑ ɡ ̥ ɑ m ɑ	mɑɡ̥ɑmɑ	SLEEP			Dellert et al., 2019
+Estonian_SLEEP	Estonian	esto1258	ekk	SLEEP	magama	mɑɡ̥ɑmɑ	m ɑ ɡ̥ ɑ m ɑ	mɑɡ̥ɑmɑ	SLEEP			Dellert et al., 2019
 Estonian_WAKE_UP	Estonian	esto1258	ekk	WAKE UP	ärkama	ærkɑmɑ	æ r k ɑ m ɑ	ærkɑmɑ	WAKE_UP			Dellert et al., 2019
 Estonian_REST	Estonian	esto1258	ekk	REST	puhkama	puxkɑmɑ	p u x k ɑ m ɑ	puxkɑmɑ	REST			Dellert et al., 2019
-Estonian_BECOME_SICK	Estonian	esto1258	ekk	BECOME SICK	haigestuma	hɑiɡ̥estumɑ	h ɑ i ɡ ̥ e s t u m ɑ	hɑiɡ̥estumɑ	BECOME_SICK			Dellert et al., 2019
-Estonian_BECOME_SICK	Estonian	esto1258	ekk	BECOME SICK	haigeks jääma	hɑiɡ̥eksjæːmɑ	h ɑ i ɡ ̥ e k s j æː m ɑ	hɑiɡ̥eks jæːmɑ	BECOME_SICK			Dellert et al., 2019
+Estonian_BECOME_SICK	Estonian	esto1258	ekk	BECOME SICK	haigestuma	hɑiɡ̥estumɑ	h ɑ i ɡ̥ e s t u m ɑ	hɑiɡ̥estumɑ	BECOME_SICK			Dellert et al., 2019
+Estonian_BECOME_SICK	Estonian	esto1258	ekk	BECOME SICK	haigeks jääma	hɑiɡ̥eksjæːmɑ	h ɑ i ɡ̥ e k s j æː m ɑ	hɑiɡ̥eks jæːmɑ	BECOME_SICK			Dellert et al., 2019
 Estonian_ACHE	Estonian	esto1258	ekk	ACHE	valutama	vɑlutɑmɑ	v ɑ l u t ɑ m ɑ	vɑlutɑmɑ	ACHE			Dellert et al., 2019
 Estonian_COUGH	Estonian	esto1258	ekk	COUGH	köhima	kœhimɑ	k œ h i m ɑ	kœhimɑ	COUGH			Dellert et al., 2019
-Estonian_RECOVER	Estonian	esto1258	ekk	RECOVER	toibuma	toib̥umɑ	t o i b ̥ u m ɑ	toib̥umɑ	RECOVER			Dellert et al., 2019
+Estonian_RECOVER	Estonian	esto1258	ekk	RECOVER	toibuma	toib̥umɑ	t o i b̥ u m ɑ	toib̥umɑ	RECOVER			Dellert et al., 2019
 Estonian_DIE	Estonian	esto1258	ekk	DIE	surema	suremɑ	s u r e m ɑ	suremɑ	DIE			Dellert et al., 2019
 Estonian_STAND_UP	Estonian	esto1258	ekk	STAND UP	kerkima	kerkimɑ	k e r k i m ɑ	kerkimɑ	STAND_UP			Dellert et al., 2019
 Estonian_SIT_DOWN	Estonian	esto1258	ekk	SIT DOWN	istet võtma	istʲetvɤtmɑ	i s tʲ e t v ɤ t m ɑ	istʲet vɤtmɑ	SIT_DOWN			Dellert et al., 2019
-Estonian_WALK	Estonian	esto1258	ekk	WALK	kõndima	kɤnd̥imɑ	k ɤ n d ̥ i m ɑ	kɤnd̥imɑ	WALK			Dellert et al., 2019
+Estonian_WALK	Estonian	esto1258	ekk	WALK	kõndima	kɤnd̥imɑ	k ɤ n d̥ i m ɑ	kɤnd̥imɑ	WALK			Dellert et al., 2019
 Estonian_STEP_(VERB)	Estonian	esto1258	ekk	STEP (VERB)	astuma	ɑstumɑ	ɑ s t u m ɑ	ɑstumɑ	STEP_(VERB)			Dellert et al., 2019
 Estonian_RUN	Estonian	esto1258	ekk	RUN	jooksma	joːksmɑ	j oː k s m ɑ	joːksmɑ	RUN			Dellert et al., 2019
 Estonian_RUN	Estonian	esto1258	ekk	RUN	kihutama	kihutɑmɑ	k i h u t ɑ m ɑ	kihutɑmɑ	RUN			Dellert et al., 2019
@@ -4297,10 +4297,10 @@ Estonian_JUMP	Estonian	esto1258	ekk	JUMP	hüppama	hypːɑmɑ	h y pː ɑ m ɑ	hyp
 Estonian_CLIMB	Estonian	esto1258	ekk	CLIMB	ronima	ronʲimɑ	r o nʲ i m ɑ	ronʲimɑ	CLIMB			Dellert et al., 2019
 Estonian_CRAWL	Estonian	esto1258	ekk	CRAWL	roomama	roːmɑmɑ	r oː m ɑ m ɑ	roːmɑmɑ	CRAWL			Dellert et al., 2019
 Estonian_SWIM	Estonian	esto1258	ekk	SWIM	ujuma	ujumɑ	u j u m ɑ	ujumɑ	SWIM			Dellert et al., 2019
-Estonian_DIVE	Estonian	esto1258	ekk	DIVE	sukelduma	sukeld̥umɑ	s u k e l d ̥ u m ɑ	sukeld̥umɑ	DIVE			Dellert et al., 2019
-Estonian_ROW	Estonian	esto1258	ekk	ROW	sõudma	sɤud̥mɑ	s ɤ u d ̥ m ɑ	sɤud̥mɑ	ROW			Dellert et al., 2019
+Estonian_DIVE	Estonian	esto1258	ekk	DIVE	sukelduma	sukeld̥umɑ	s u k e l d̥ u m ɑ	sukeld̥umɑ	DIVE			Dellert et al., 2019
+Estonian_ROW	Estonian	esto1258	ekk	ROW	sõudma	sɤud̥mɑ	s ɤ u d̥ m ɑ	sɤud̥mɑ	ROW			Dellert et al., 2019
 Estonian_DRIVE	Estonian	esto1258	ekk	DRIVE	sõitma	sɤitmɑ	s ɤ i t m ɑ	sɤitmɑ	DRIVE			Dellert et al., 2019
-Estonian_FLY_(MOVE_THROUGH_AIR)	Estonian	esto1258	ekk	FLY (MOVE THROUGH AIR)	lendama	lʲend̥ɑmɑ	lʲ e n d ̥ ɑ m ɑ	lʲend̥ɑmɑ	FLY_(MOVE_THROUGH_AIR)			Dellert et al., 2019
+Estonian_FLY_(MOVE_THROUGH_AIR)	Estonian	esto1258	ekk	FLY (MOVE THROUGH AIR)	lendama	lʲend̥ɑmɑ	lʲ e n d̥ ɑ m ɑ	lʲend̥ɑmɑ	FLY_(MOVE_THROUGH_AIR)			Dellert et al., 2019
 Estonian_GO	Estonian	esto1258	ekk	GO	käima	kæimɑ	k æ i m ɑ	kæimɑ	GO			Dellert et al., 2019
 Estonian_GO	Estonian	esto1258	ekk	GO	minema	minʲemɑ	m i nʲ e m ɑ	minʲemɑ	GO			Dellert et al., 2019
 Estonian_LEAVE	Estonian	esto1258	ekk	LEAVE	ära minema	ærɑminʲemɑ	æ r ɑ m i nʲ e m ɑ	ærɑ minʲemɑ	LEAVE			Dellert et al., 2019
@@ -4308,36 +4308,36 @@ Estonian_LEAVE	Estonian	esto1258	ekk	LEAVE	välja minema	væljɑminʲemɑ	v æ l
 Estonian_ENTER	Estonian	esto1258	ekk	ENTER	sisenema	sʲisʲenʲemɑ	sʲ i sʲ e nʲ e m ɑ	sʲisʲenʲemɑ	ENTER			Dellert et al., 2019
 Estonian_ENTER	Estonian	esto1258	ekk	ENTER	sisse astuma	sʲisʲːeɑstumɑ	sʲ i sʲː e ɑ s t u m ɑ	sʲisʲːe ɑstumɑ	ENTER			Dellert et al., 2019
 Estonian_COME	Estonian	esto1258	ekk	COME	tulema	tulʲemɑ	t u lʲ e m ɑ	tulʲemɑ	COME			Dellert et al., 2019
-Estonian_ARRIVE	Estonian	esto1258	ekk	ARRIVE	saabuma	sɑːb̥umɑ	s ɑː b ̥ u m ɑ	sɑːb̥umɑ	ARRIVE			Dellert et al., 2019
-Estonian_COME_BACK	Estonian	esto1258	ekk	COME BACK	tagasi tulema	tɑɡ̥ɑsʲitulʲemɑ	t ɑ ɡ ̥ ɑ sʲ i t u lʲ e m ɑ	tɑɡ̥ɑsʲi tulʲemɑ	COME_BACK			Dellert et al., 2019
+Estonian_ARRIVE	Estonian	esto1258	ekk	ARRIVE	saabuma	sɑːb̥umɑ	s ɑː b̥ u m ɑ	sɑːb̥umɑ	ARRIVE			Dellert et al., 2019
+Estonian_COME_BACK	Estonian	esto1258	ekk	COME BACK	tagasi tulema	tɑɡ̥ɑsʲitulʲemɑ	t ɑ ɡ̥ ɑ sʲ i t u lʲ e m ɑ	tɑɡ̥ɑsʲi tulʲemɑ	COME_BACK			Dellert et al., 2019
 Estonian_REMAIN	Estonian	esto1258	ekk	REMAIN	jääma	jæːmɑ	j æː m ɑ	jæːmɑ	REMAIN			Dellert et al., 2019
 Estonian_WAIT_(FOR)	Estonian	esto1258	ekk	WAIT (FOR)	ootama	oːtɑmɑ	oː t ɑ m ɑ	oːtɑmɑ	WAIT_(FOR)			Dellert et al., 2019
 Estonian_LOOK_FOR	Estonian	esto1258	ekk	LOOK FOR	otsima	otsʲimɑ	o t sʲ i m ɑ	otsʲimɑ	LOOK_FOR			Dellert et al., 2019
-Estonian_FIND	Estonian	esto1258	ekk	FIND	leidma	lʲeid̥mɑ	lʲ e i d ̥ m ɑ	lʲeid̥mɑ	FIND			Dellert et al., 2019
-Estonian_TRY	Estonian	esto1258	ekk	TRY	püüdma	pyːd̥mɑ	p yː d ̥ m ɑ	pyːd̥mɑ	TRY			Dellert et al., 2019
+Estonian_FIND	Estonian	esto1258	ekk	FIND	leidma	lʲeid̥mɑ	lʲ e i d̥ m ɑ	lʲeid̥mɑ	FIND			Dellert et al., 2019
+Estonian_TRY	Estonian	esto1258	ekk	TRY	püüdma	pyːd̥mɑ	p yː d̥ m ɑ	pyːd̥mɑ	TRY			Dellert et al., 2019
 Estonian_TRY	Estonian	esto1258	ekk	TRY	üritama	yritɑmɑ	y r i t ɑ m ɑ	yritɑmɑ	TRY			Dellert et al., 2019
 Estonian_TRY	Estonian	esto1258	ekk	TRY	katsetama	kɑtsʲetɑmɑ	k ɑ t sʲ e t ɑ m ɑ	kɑtsʲetɑmɑ	TRY			Dellert et al., 2019
 Estonian_LOVE	Estonian	esto1258	ekk	LOVE	armastama	ɑrmɑstɑmɑ	ɑ r m ɑ s t ɑ m ɑ	ɑrmɑstɑmɑ	LOVE			Dellert et al., 2019
 Estonian_LIKE	Estonian	esto1258	ekk	LIKE	sallima	sɑlʲːimɑ	s ɑ lʲː i m ɑ	sɑlʲːimɑ	LIKE			Dellert et al., 2019
-Estonian_LIKE	Estonian	esto1258	ekk	LIKE	meeldima	meːld̥imɑ	m eː l d ̥ i m ɑ	meːld̥imɑ	LIKE			Dellert et al., 2019
+Estonian_LIKE	Estonian	esto1258	ekk	LIKE	meeldima	meːld̥imɑ	m eː l d̥ i m ɑ	meːld̥imɑ	LIKE			Dellert et al., 2019
 Estonian_LAUGH	Estonian	esto1258	ekk	LAUGH	naerma	nɑermɑ	n ɑ e r m ɑ	nɑermɑ	LAUGH			Dellert et al., 2019
 Estonian_CRY	Estonian	esto1258	ekk	CRY	nutma	nutmɑ	n u t m ɑ	nutmɑ	CRY			Dellert et al., 2019
 Estonian_FEAR_(BE_AFRAID)	Estonian	esto1258	ekk	FEAR (BE AFRAID)	kartma	kɑrtmɑ	k ɑ r t m ɑ	kɑrtmɑ	FEAR_(BE_AFRAID)			Dellert et al., 2019
-Estonian_FLEE	Estonian	esto1258	ekk	FLEE	põgenema	pɤɡ̥enʲemɑ	p ɤ ɡ ̥ e nʲ e m ɑ	pɤɡ̥enʲemɑ	FLEE			Dellert et al., 2019
-Estonian_ESCAPE	Estonian	esto1258	ekk	ESCAPE	põgenema	pɤɡ̥enʲemɑ	p ɤ ɡ ̥ e nʲ e m ɑ	pɤɡ̥enʲemɑ	ESCAPE			Dellert et al., 2019
-Estonian_SEE	Estonian	esto1258	ekk	SEE	nägema	næɡ̥emɑ	n æ ɡ ̥ e m ɑ	næɡ̥emɑ	SEE			Dellert et al., 2019
+Estonian_FLEE	Estonian	esto1258	ekk	FLEE	põgenema	pɤɡ̥enʲemɑ	p ɤ ɡ̥ e nʲ e m ɑ	pɤɡ̥enʲemɑ	FLEE			Dellert et al., 2019
+Estonian_ESCAPE	Estonian	esto1258	ekk	ESCAPE	põgenema	pɤɡ̥enʲemɑ	p ɤ ɡ̥ e nʲ e m ɑ	pɤɡ̥enʲemɑ	ESCAPE			Dellert et al., 2019
+Estonian_SEE	Estonian	esto1258	ekk	SEE	nägema	næɡ̥emɑ	n æ ɡ̥ e m ɑ	næɡ̥emɑ	SEE			Dellert et al., 2019
 Estonian_LOOK	Estonian	esto1258	ekk	LOOK	vaatama	vɑːtɑmɑ	v ɑː t ɑ m ɑ	vɑːtɑmɑ	LOOK			Dellert et al., 2019
 Estonian_WATCH	Estonian	esto1258	ekk	WATCH	vaatama	vɑːtɑmɑ	v ɑː t ɑ m ɑ	vɑːtɑmɑ	WATCH			Dellert et al., 2019
 Estonian_HEAR	Estonian	esto1258	ekk	HEAR	kuulma	kuːlmɑ	k uː l m ɑ	kuːlmɑ	HEAR			Dellert et al., 2019
 Estonian_LISTEN	Estonian	esto1258	ekk	LISTEN	kuulama	kuːlɑmɑ	k uː l ɑ m ɑ	kuːlɑmɑ	LISTEN			Dellert et al., 2019
 Estonian_TASTE_(SOMETHING)	Estonian	esto1258	ekk	TASTE (SOMETHING)	proovima	proːvimɑ	p r oː v i m ɑ	proːvimɑ	TASTE_(SOMETHING)			Dellert et al., 2019
 Estonian_SMELL_(PERCEIVE)	Estonian	esto1258	ekk	SMELL (PERCEIVE)	nuusutama	nuːsutɑmɑ	n uː s u t ɑ m ɑ	nuːsutɑmɑ	SMELL_(PERCEIVE)			Dellert et al., 2019
-Estonian_FEEL_(TACTUALLY)	Estonian	esto1258	ekk	FEEL (TACTUALLY)	tundma	tund̥mɑ	t u n d ̥ m ɑ	tund̥mɑ	FEEL_(TACTUALLY)			Dellert et al., 2019
-Estonian_SEEM	Estonian	esto1258	ekk	SEEM	näida	næid̥ɑ	n æ i d ̥ ɑ	næid̥ɑ	SEEM			Dellert et al., 2019
-Estonian_SEEM	Estonian	esto1258	ekk	SEEM	ilmuda	ilmud̥ɑ	i l m u d ̥ ɑ	ilmud̥ɑ	SEEM			Dellert et al., 2019
+Estonian_FEEL_(TACTUALLY)	Estonian	esto1258	ekk	FEEL (TACTUALLY)	tundma	tund̥mɑ	t u n d̥ m ɑ	tund̥mɑ	FEEL_(TACTUALLY)			Dellert et al., 2019
+Estonian_SEEM	Estonian	esto1258	ekk	SEEM	näida	næid̥ɑ	n æ i d̥ ɑ	næid̥ɑ	SEEM			Dellert et al., 2019
+Estonian_SEEM	Estonian	esto1258	ekk	SEEM	ilmuda	ilmud̥ɑ	i l m u d̥ ɑ	ilmud̥ɑ	SEEM			Dellert et al., 2019
 Estonian_VISIBLE	Estonian	esto1258	ekk	VISIBLE	ilmuma	ilmumɑ	i l m u m ɑ	ilmumɑ	VISIBLE			Dellert et al., 2019
-Estonian_SHIVER	Estonian	esto1258	ekk	SHIVER	külmetada	kylmetɑd̥ɑ	k y l m e t ɑ d ̥ ɑ	kylmetɑd̥ɑ	SHIVER			Dellert et al., 2019
-Estonian_DO	Estonian	esto1258	ekk	DO	tegema	tʲeɡ̥emɑ	tʲ e ɡ ̥ e m ɑ	tʲeɡ̥emɑ	DO			Dellert et al., 2019
+Estonian_SHIVER	Estonian	esto1258	ekk	SHIVER	külmetada	kylmetɑd̥ɑ	k y l m e t ɑ d̥ ɑ	kylmetɑd̥ɑ	SHIVER			Dellert et al., 2019
+Estonian_DO	Estonian	esto1258	ekk	DO	tegema	tʲeɡ̥emɑ	tʲ e ɡ̥ e m ɑ	tʲeɡ̥emɑ	DO			Dellert et al., 2019
 Estonian_BE_ABLE	Estonian	esto1258	ekk	BE ABLE	võima	vɤimɑ	v ɤ i m ɑ	vɤimɑ	BE_ABLE			Dellert et al., 2019
 Estonian_BE_ABLE	Estonian	esto1258	ekk	BE ABLE	oskama	oskɑmɑ	o s k ɑ m ɑ	oskɑmɑ	BE_ABLE			Dellert et al., 2019
 Estonian_WANT	Estonian	esto1258	ekk	WANT	tahtma	tɑxtmɑ	t ɑ x t m ɑ	tɑxtmɑ	WANT			Dellert et al., 2019
@@ -4345,43 +4345,43 @@ Estonian_BEGIN	Estonian	esto1258	ekk	BEGIN	hakkama	hɑkːɑmɑ	h ɑ kː ɑ m ɑ	
 Estonian_BEGIN	Estonian	esto1258	ekk	BEGIN	alustama	ɑlustɑmɑ	ɑ l u s t ɑ m ɑ	ɑlustɑmɑ	BEGIN			Dellert et al., 2019
 Estonian_FINISH	Estonian	esto1258	ekk	FINISH	lõpetama	lɤpetɑmɑ	l ɤ p e t ɑ m ɑ	lɤpetɑmɑ	FINISH			Dellert et al., 2019
 Estonian_SUCCEED	Estonian	esto1258	ekk	SUCCEED	õnnestuma	ɤnʲːestumɑ	ɤ nʲː e s t u m ɑ	ɤnʲːestumɑ	SUCCEED			Dellert et al., 2019
-Estonian_RESULT_IN	Estonian	esto1258	ekk	RESULT IN	jõudma	jɤud̥mɑ	j ɤ u d ̥ m ɑ	jɤud̥mɑ	RESULT_IN			Dellert et al., 2019
+Estonian_RESULT_IN	Estonian	esto1258	ekk	RESULT IN	jõudma	jɤud̥mɑ	j ɤ u d̥ m ɑ	jɤud̥mɑ	RESULT_IN			Dellert et al., 2019
 Estonian_OPEN	Estonian	esto1258	ekk	OPEN	avama	ɑvɑmɑ	ɑ v ɑ m ɑ	ɑvɑmɑ	OPEN			Dellert et al., 2019
-Estonian_SHUT	Estonian	esto1258	ekk	SHUT	sulgema	sulɡ̥emɑ	s u l ɡ ̥ e m ɑ	sulɡ̥emɑ	SHUT			Dellert et al., 2019
+Estonian_SHUT	Estonian	esto1258	ekk	SHUT	sulgema	sulɡ̥emɑ	s u l ɡ̥ e m ɑ	sulɡ̥emɑ	SHUT			Dellert et al., 2019
 Estonian_PUT	Estonian	esto1258	ekk	PUT	panema	pɑnʲemɑ	p ɑ nʲ e m ɑ	pɑnʲemɑ	PUT			Dellert et al., 2019
 Estonian_PUT	Estonian	esto1258	ekk	PUT	asetama	ɑsʲetɑmɑ	ɑ sʲ e t ɑ m ɑ	ɑsʲetɑmɑ	PUT			Dellert et al., 2019
 Estonian_LAY_(VERB)	Estonian	esto1258	ekk	LAY (VERB)	panema	pɑnʲemɑ	p ɑ nʲ e m ɑ	pɑnʲemɑ	LAY_(VERB)			Dellert et al., 2019
 Estonian_LAY_(VERB)	Estonian	esto1258	ekk	LAY (VERB)	asetama	ɑsʲetɑmɑ	ɑ sʲ e t ɑ m ɑ	ɑsʲetɑmɑ	LAY_(VERB)			Dellert et al., 2019
 Estonian_TOUCH	Estonian	esto1258	ekk	TOUCH	riivama	riːvɑmɑ	r iː v ɑ m ɑ	riːvɑmɑ	TOUCH			Dellert et al., 2019
-Estonian_TOUCH	Estonian	esto1258	ekk	TOUCH	puudutama	puːd̥utɑmɑ	p uː d ̥ u t ɑ m ɑ	puːd̥utɑmɑ	TOUCH			Dellert et al., 2019
+Estonian_TOUCH	Estonian	esto1258	ekk	TOUCH	puudutama	puːd̥utɑmɑ	p uː d̥ u t ɑ m ɑ	puːd̥utɑmɑ	TOUCH			Dellert et al., 2019
 Estonian_COVER	Estonian	esto1258	ekk	COVER	katma	kɑtmɑ	k ɑ t m ɑ	kɑtmɑ	COVER			Dellert et al., 2019
 Estonian_HANG_UP	Estonian	esto1258	ekk	HANG UP	riputama	riputɑmɑ	r i p u t ɑ m ɑ	riputɑmɑ	HANG_UP			Dellert et al., 2019
 Estonian_LIGHT_(IGNITE)	Estonian	esto1258	ekk	LIGHT (IGNITE)	süütama	syːtɑmɑ	s yː t ɑ m ɑ	syːtɑmɑ	LIGHT_(IGNITE)			Dellert et al., 2019
 Estonian_PICK_UP	Estonian	esto1258	ekk	PICK UP	üles tõstma	ylʲestɤstmɑ	y lʲ e s t ɤ s t m ɑ	ylʲes tɤstmɑ	PICK_UP			Dellert et al., 2019
-Estonian_MAKE	Estonian	esto1258	ekk	MAKE	tegema	tʲeɡ̥emɑ	tʲ e ɡ ̥ e m ɑ	tʲeɡ̥emɑ	MAKE			Dellert et al., 2019
+Estonian_MAKE	Estonian	esto1258	ekk	MAKE	tegema	tʲeɡ̥emɑ	tʲ e ɡ̥ e m ɑ	tʲeɡ̥emɑ	MAKE			Dellert et al., 2019
 Estonian_BUILD	Estonian	esto1258	ekk	BUILD	ehitama	ehitɑmɑ	e h i t ɑ m ɑ	ehitɑmɑ	BUILD			Dellert et al., 2019
-Estonian_REPAIR	Estonian	esto1258	ekk	REPAIR	parandama	pɑrɑnd̥ɑmɑ	p ɑ r ɑ n d ̥ ɑ m ɑ	pɑrɑnd̥ɑmɑ	REPAIR			Dellert et al., 2019
+Estonian_REPAIR	Estonian	esto1258	ekk	REPAIR	parandama	pɑrɑnd̥ɑmɑ	p ɑ r ɑ n d̥ ɑ m ɑ	pɑrɑnd̥ɑmɑ	REPAIR			Dellert et al., 2019
 Estonian_CHANGE	Estonian	esto1258	ekk	CHANGE	muutma	muːtmɑ	m uː t m ɑ	muːtmɑ	CHANGE			Dellert et al., 2019
-Estonian_CHANGE	Estonian	esto1258	ekk	CHANGE	ümber tegema	ymb̥ertʲeɡ̥emɑ	y m b ̥ e r tʲ e ɡ ̥ e m ɑ	ymb̥er tʲeɡ̥emɑ	CHANGE			Dellert et al., 2019
+Estonian_CHANGE	Estonian	esto1258	ekk	CHANGE	ümber tegema	ymb̥ertʲeɡ̥emɑ	y m b̥ e r tʲ e ɡ̥ e m ɑ	ymb̥er tʲeɡ̥emɑ	CHANGE			Dellert et al., 2019
 Estonian_DIG	Estonian	esto1258	ekk	DIG	kaevama	kɑevɑmɑ	k ɑ e v ɑ m ɑ	kɑevɑmɑ	DIG			Dellert et al., 2019
 Estonian_BEND	Estonian	esto1258	ekk	BEND	painutama	pɑinutɑmɑ	p ɑ i n u t ɑ m ɑ	pɑinutɑmɑ	BEND			Dellert et al., 2019
 Estonian_BEND_(SOMETHING)	Estonian	esto1258	ekk	BEND (SOMETHING)	painutama	pɑinutɑmɑ	p ɑ i n u t ɑ m ɑ	pɑinutɑmɑ	BEND_(SOMETHING)			Dellert et al., 2019
 Estonian_TURN_(SOMETHING)	Estonian	esto1258	ekk	TURN (SOMETHING)	keerama	keːrɑmɑ	k eː r ɑ m ɑ	keːrɑmɑ	TURN_(SOMETHING)			Dellert et al., 2019
 Estonian_RAISE	Estonian	esto1258	ekk	RAISE	tõstma	tɤstmɑ	t ɤ s t m ɑ	tɤstmɑ	RAISE			Dellert et al., 2019
 Estonian_LIFT	Estonian	esto1258	ekk	LIFT	üles tõstma	ylʲestɤstmɑ	y lʲ e s t ɤ s t m ɑ	ylʲes tɤstmɑ	LIFT			Dellert et al., 2019
-Estonian_LIFT	Estonian	esto1258	ekk	LIFT	kõrgele tõstma	kɤrɡ̥elʲetɤstmɑ	k ɤ r ɡ ̥ e lʲ e t ɤ s t m ɑ	kɤrɡ̥elʲe tɤstmɑ	LIFT			Dellert et al., 2019
+Estonian_LIFT	Estonian	esto1258	ekk	LIFT	kõrgele tõstma	kɤrɡ̥elʲetɤstmɑ	k ɤ r ɡ̥ e lʲ e t ɤ s t m ɑ	kɤrɡ̥elʲe tɤstmɑ	LIFT			Dellert et al., 2019
 Estonian_GRASP	Estonian	esto1258	ekk	GRASP	haarama	hɑːrɑmɑ	h ɑː r ɑ m ɑ	hɑːrɑmɑ	GRASP			Dellert et al., 2019
-Estonian_HOLD	Estonian	esto1258	ekk	HOLD	hoidma	hoid̥mɑ	h o i d ̥ m ɑ	hoid̥mɑ	HOLD			Dellert et al., 2019
-Estonian_PRESS	Estonian	esto1258	ekk	PRESS	pigistama	piɡ̥istɑmɑ	p i ɡ ̥ i s t ɑ m ɑ	piɡ̥istɑmɑ	PRESS			Dellert et al., 2019
+Estonian_HOLD	Estonian	esto1258	ekk	HOLD	hoidma	hoid̥mɑ	h o i d̥ m ɑ	hoid̥mɑ	HOLD			Dellert et al., 2019
+Estonian_PRESS	Estonian	esto1258	ekk	PRESS	pigistama	piɡ̥istɑmɑ	p i ɡ̥ i s t ɑ m ɑ	piɡ̥istɑmɑ	PRESS			Dellert et al., 2019
 Estonian_PUSH	Estonian	esto1258	ekk	PUSH	lükkama	lykːɑmɑ	l y kː ɑ m ɑ	lykːɑmɑ	PUSH			Dellert et al., 2019
 Estonian_SCRAPE	Estonian	esto1258	ekk	SCRAPE	kraapima	krɑːpimɑ	k r ɑː p i m ɑ	krɑːpimɑ	SCRAPE			Dellert et al., 2019
 Estonian_LICK	Estonian	esto1258	ekk	LICK	lakkuma	lɑkːumɑ	l ɑ kː u m ɑ	lɑkːumɑ	LICK			Dellert et al., 2019
 Estonian_BITE	Estonian	esto1258	ekk	BITE	purema	puremɑ	p u r e m ɑ	puremɑ	BITE			Dellert et al., 2019
 Estonian_BITE	Estonian	esto1258	ekk	BITE	hammustama	hɑmːustɑmɑ	h ɑ mː u s t ɑ m ɑ	hɑmːustɑmɑ	BITE			Dellert et al., 2019
-Estonian_TEAR_(SHRED)	Estonian	esto1258	ekk	TEAR (SHRED)	rebima	reb̥imɑ	r e b ̥ i m ɑ	reb̥imɑ	TEAR_(SHRED)			Dellert et al., 2019
-Estonian_TEAR_(SHRED)	Estonian	esto1258	ekk	TEAR (SHRED)	ära rebima	ærɑreb̥imɑ	æ r ɑ r e b ̥ i m ɑ	ærɑ reb̥imɑ	TEAR_(SHRED)			Dellert et al., 2019
-Estonian_TIE	Estonian	esto1258	ekk	TIE	siduma	sʲid̥umɑ	sʲ i d ̥ u m ɑ	sʲid̥umɑ	TIE			Dellert et al., 2019
-Estonian_BREAK_(DESTROY_OR_GET_DESTROYED)	Estonian	esto1258	ekk	BREAK (DESTROY OR GET DESTROYED)	murdma	murd̥mɑ	m u r d ̥ m ɑ	murd̥mɑ	BREAK_(DESTROY_OR_GET_DESTROYED)			Dellert et al., 2019
+Estonian_TEAR_(SHRED)	Estonian	esto1258	ekk	TEAR (SHRED)	rebima	reb̥imɑ	r e b̥ i m ɑ	reb̥imɑ	TEAR_(SHRED)			Dellert et al., 2019
+Estonian_TEAR_(SHRED)	Estonian	esto1258	ekk	TEAR (SHRED)	ära rebima	ærɑreb̥imɑ	æ r ɑ r e b̥ i m ɑ	ærɑ reb̥imɑ	TEAR_(SHRED)			Dellert et al., 2019
+Estonian_TIE	Estonian	esto1258	ekk	TIE	siduma	sʲid̥umɑ	sʲ i d̥ u m ɑ	sʲid̥umɑ	TIE			Dellert et al., 2019
+Estonian_BREAK_(DESTROY_OR_GET_DESTROYED)	Estonian	esto1258	ekk	BREAK (DESTROY OR GET DESTROYED)	murdma	murd̥mɑ	m u r d̥ m ɑ	murd̥mɑ	BREAK_(DESTROY_OR_GET_DESTROYED)			Dellert et al., 2019
 Estonian_KNOCK	Estonian	esto1258	ekk	KNOCK	koputama	koputɑmɑ	k o p u t ɑ m ɑ	koputɑmɑ	KNOCK			Dellert et al., 2019
 Estonian_HIT	Estonian	esto1258	ekk	HIT	lööma	lœːmɑ	l œː m ɑ	lœːmɑ	HIT			Dellert et al., 2019
 Estonian_RUB	Estonian	esto1258	ekk	RUB	hõõruma	hɤːrumɑ	h ɤː r u m ɑ	hɤːrumɑ	RUB			Dellert et al., 2019
@@ -4393,45 +4393,45 @@ Estonian_SHAKE	Estonian	esto1258	ekk	SHAKE	loksutama	loksutɑmɑ	l o k s u t ɑ 
 Estonian_POUR	Estonian	esto1258	ekk	POUR	kallama	kɑlːɑmɑ	k ɑ lː ɑ m ɑ	kɑlːɑmɑ	POUR			Dellert et al., 2019
 Estonian_FILL	Estonian	esto1258	ekk	FILL	täitma	tæitmɑ	t æ i t m ɑ	tæitmɑ	FILL			Dellert et al., 2019
 Estonian_WRAP	Estonian	esto1258	ekk	WRAP	sisse mähkima	sʲisʲːemæxkimɑ	sʲ i sʲː e m æ x k i m ɑ	sʲisʲːe mæxkimɑ	WRAP			Dellert et al., 2019
-Estonian_CARRY	Estonian	esto1258	ekk	CARRY	kandma	kɑnd̥mɑ	k ɑ n d ̥ m ɑ	kɑnd̥mɑ	CARRY			Dellert et al., 2019
+Estonian_CARRY	Estonian	esto1258	ekk	CARRY	kandma	kɑnd̥mɑ	k ɑ n d̥ m ɑ	kɑnd̥mɑ	CARRY			Dellert et al., 2019
 Estonian_DRAG	Estonian	esto1258	ekk	DRAG	tassima	tɑsʲːimɑ	t ɑ sʲː i m ɑ	tɑsʲːimɑ	DRAG			Dellert et al., 2019
 Estonian_DRAG	Estonian	esto1258	ekk	DRAG	lohistama	lohistɑmɑ	l o h i s t ɑ m ɑ	lohistɑmɑ	DRAG			Dellert et al., 2019
-Estonian_PULL	Estonian	esto1258	ekk	PULL	vedama	ved̥ɑmɑ	v e d ̥ ɑ m ɑ	ved̥ɑmɑ	PULL			Dellert et al., 2019
-Estonian_PULL	Estonian	esto1258	ekk	PULL	tõmbama	tɤmb̥ɑmɑ	t ɤ m b ̥ ɑ m ɑ	tɤmb̥ɑmɑ	PULL			Dellert et al., 2019
+Estonian_PULL	Estonian	esto1258	ekk	PULL	vedama	ved̥ɑmɑ	v e d̥ ɑ m ɑ	ved̥ɑmɑ	PULL			Dellert et al., 2019
+Estonian_PULL	Estonian	esto1258	ekk	PULL	tõmbama	tɤmb̥ɑmɑ	t ɤ m b̥ ɑ m ɑ	tɤmb̥ɑmɑ	PULL			Dellert et al., 2019
 Estonian_KEEP	Estonian	esto1258	ekk	KEEP	säilitama	sæilʲitɑmɑ	s æ i lʲ i t ɑ m ɑ	sæilʲitɑmɑ	KEEP			Dellert et al., 2019
-Estonian_KEEP	Estonian	esto1258	ekk	KEEP	alal hoidma	ɑlɑlhoid̥mɑ	ɑ l ɑ l h o i d ̥ m ɑ	ɑlɑl hoid̥mɑ	KEEP			Dellert et al., 2019
+Estonian_KEEP	Estonian	esto1258	ekk	KEEP	alal hoidma	ɑlɑlhoid̥mɑ	ɑ l ɑ l h o i d̥ m ɑ	ɑlɑl hoid̥mɑ	KEEP			Dellert et al., 2019
 Estonian_THROW	Estonian	esto1258	ekk	THROW	viskama	viskɑmɑ	v i s k ɑ m ɑ	viskɑmɑ	THROW			Dellert et al., 2019
-Estonian_CATCH	Estonian	esto1258	ekk	CATCH	püüdma	pyːd̥mɑ	p yː d ̥ m ɑ	pyːd̥mɑ	CATCH			Dellert et al., 2019
+Estonian_CATCH	Estonian	esto1258	ekk	CATCH	püüdma	pyːd̥mɑ	p yː d̥ m ɑ	pyːd̥mɑ	CATCH			Dellert et al., 2019
 Estonian_HIDE_(CONCEAL)	Estonian	esto1258	ekk	HIDE (CONCEAL)	peitma	peitmɑ	p e i t m ɑ	peitmɑ	HIDE_(CONCEAL)			Dellert et al., 2019
-Estonian_DIVIDE	Estonian	esto1258	ekk	DIVIDE	jagama	jɑɡ̥ɑmɑ	j ɑ ɡ ̥ ɑ m ɑ	jɑɡ̥ɑmɑ	DIVIDE			Dellert et al., 2019
+Estonian_DIVIDE	Estonian	esto1258	ekk	DIVIDE	jagama	jɑɡ̥ɑmɑ	j ɑ ɡ̥ ɑ m ɑ	jɑɡ̥ɑmɑ	DIVIDE			Dellert et al., 2019
 Estonian_DIVIDE	Estonian	esto1258	ekk	DIVIDE	jaotama	jɑotɑmɑ	j ɑ o t ɑ m ɑ	jɑotɑmɑ	DIVIDE			Dellert et al., 2019
 Estonian_SEND	Estonian	esto1258	ekk	SEND	saatma	sɑːtmɑ	s ɑː t m ɑ	sɑːtmɑ	SEND			Dellert et al., 2019
 Estonian_BRING	Estonian	esto1258	ekk	BRING	viima	viːmɑ	v iː m ɑ	viːmɑ	BRING			Dellert et al., 2019
 Estonian_GET	Estonian	esto1258	ekk	GET	saama	sɑːmɑ	s ɑː m ɑ	sɑːmɑ	GET			Dellert et al., 2019
 Estonian_TAKE	Estonian	esto1258	ekk	TAKE	võtma	vɤtmɑ	v ɤ t m ɑ	vɤtmɑ	TAKE			Dellert et al., 2019
 Estonian_CHOOSE	Estonian	esto1258	ekk	CHOOSE	valima	vɑlʲimɑ	v ɑ lʲ i m ɑ	vɑlʲimɑ	CHOOSE			Dellert et al., 2019
-Estonian_PRESERVE	Estonian	esto1258	ekk	PRESERVE	hoidma	hoid̥mɑ	h o i d ̥ m ɑ	hoid̥mɑ	PRESERVE			Dellert et al., 2019
+Estonian_PRESERVE	Estonian	esto1258	ekk	PRESERVE	hoidma	hoid̥mɑ	h o i d̥ m ɑ	hoid̥mɑ	PRESERVE			Dellert et al., 2019
 Estonian_HINDER	Estonian	esto1258	ekk	HINDER	takistama	tɑkistɑmɑ	t ɑ k i s t ɑ m ɑ	tɑkistɑmɑ	HINDER			Dellert et al., 2019
 Estonian_SPOIL_(SOMEBODY_OR_SOMETHING)	Estonian	esto1258	ekk	SPOIL (SOMEBODY OR SOMETHING)	rikkuma	rikːumɑ	r i kː u m ɑ	rikːumɑ	SPOIL_(SOMEBODY_OR_SOMETHING)			Dellert et al., 2019
 Estonian_DAMAGE	Estonian	esto1258	ekk	DAMAGE	rikkuma	rikːumɑ	r i kː u m ɑ	rikːumɑ	DAMAGE			Dellert et al., 2019
-Estonian_BREAK_(CLEAVE)	Estonian	esto1258	ekk	BREAK (CLEAVE)	katki tegema	kɑtkitʲeɡ̥emɑ	k ɑ t k i tʲ e ɡ ̥ e m ɑ	kɑtki tʲeɡ̥emɑ	BREAK_(CLEAVE)			Dellert et al., 2019
+Estonian_BREAK_(CLEAVE)	Estonian	esto1258	ekk	BREAK (CLEAVE)	katki tegema	kɑtkitʲeɡ̥emɑ	k ɑ t k i tʲ e ɡ̥ e m ɑ	kɑtki tʲeɡ̥emɑ	BREAK_(CLEAVE)			Dellert et al., 2019
 Estonian_DESTROY	Estonian	esto1258	ekk	DESTROY	purustama	purustɑmɑ	p u r u s t ɑ m ɑ	purustɑmɑ	DESTROY			Dellert et al., 2019
 Estonian_BURN_(SOMETHING)	Estonian	esto1258	ekk	BURN (SOMETHING)	põletama	pɤlʲetɑmɑ	p ɤ lʲ e t ɑ m ɑ	pɤlʲetɑmɑ	BURN_(SOMETHING)			Dellert et al., 2019
-Estonian_GIVE	Estonian	esto1258	ekk	GIVE	andma	ɑnd̥mɑ	ɑ n d ̥ m ɑ	ɑnd̥mɑ	GIVE			Dellert et al., 2019
+Estonian_GIVE	Estonian	esto1258	ekk	GIVE	andma	ɑnd̥mɑ	ɑ n d̥ m ɑ	ɑnd̥mɑ	GIVE			Dellert et al., 2019
 Estonian_DONATE	Estonian	esto1258	ekk	DONATE	kinkima	kiŋkimɑ	k i ŋ k i m ɑ	kiŋkimɑ	DONATE			Dellert et al., 2019
-Estonian_PROMISE	Estonian	esto1258	ekk	PROMISE	lubama	lub̥ɑmɑ	l u b ̥ ɑ m ɑ	lub̥ɑmɑ	PROMISE			Dellert et al., 2019
+Estonian_PROMISE	Estonian	esto1258	ekk	PROMISE	lubama	lub̥ɑmɑ	l u b̥ ɑ m ɑ	lub̥ɑmɑ	PROMISE			Dellert et al., 2019
 Estonian_PROMISE	Estonian	esto1258	ekk	PROMISE	tõotama	tɤotɑmɑ	t ɤ o t ɑ m ɑ	tɤotɑmɑ	PROMISE			Dellert et al., 2019
 Estonian_PRAISE	Estonian	esto1258	ekk	PRAISE	kiitma	kiːtmɑ	k iː t m ɑ	kiːtmɑ	PRAISE			Dellert et al., 2019
-Estonian_KISS	Estonian	esto1258	ekk	KISS	suudlema	suːd̥lʲemɑ	s uː d ̥ lʲ e m ɑ	suːd̥lʲemɑ	KISS			Dellert et al., 2019
+Estonian_KISS	Estonian	esto1258	ekk	KISS	suudlema	suːd̥lʲemɑ	s uː d̥ lʲ e m ɑ	suːd̥lʲemɑ	KISS			Dellert et al., 2019
 Estonian_SHOW	Estonian	esto1258	ekk	SHOW	näitama	næitɑmɑ	n æ i t ɑ m ɑ	næitɑmɑ	SHOW			Dellert et al., 2019
 Estonian_TEACH	Estonian	esto1258	ekk	TEACH	õpetama	ɤpetɑmɑ	ɤ p e t ɑ m ɑ	ɤpetɑmɑ	TEACH			Dellert et al., 2019
 Estonian_RAISE_(A_CHILD)	Estonian	esto1258	ekk	RAISE (A CHILD)	üles kasvatama	ylʲeskɑsvɑtɑmɑ	y lʲ e s k ɑ s v ɑ t ɑ m ɑ	ylʲes kɑsvɑtɑmɑ	RAISE_(A_CHILD)			Dellert et al., 2019
 Estonian_LEAD_(GUIDE)	Estonian	esto1258	ekk	LEAD (GUIDE)	juhtima	juxtʲimɑ	j u x tʲ i m ɑ	juxtʲimɑ	LEAD_(GUIDE)			Dellert et al., 2019
 Estonian_INVITE	Estonian	esto1258	ekk	INVITE	kutsuma	kutsumɑ	k u t s u m ɑ	kutsumɑ	INVITE			Dellert et al., 2019
-Estonian_JOIN	Estonian	esto1258	ekk	JOIN	ühendama	yhend̥ɑmɑ	y h e n d ̥ ɑ m ɑ	yhend̥ɑmɑ	JOIN			Dellert et al., 2019
+Estonian_JOIN	Estonian	esto1258	ekk	JOIN	ühendama	yhend̥ɑmɑ	y h e n d̥ ɑ m ɑ	yhend̥ɑmɑ	JOIN			Dellert et al., 2019
 Estonian_VISIT	Estonian	esto1258	ekk	VISIT	külastama	kylɑstɑmɑ	k y l ɑ s t ɑ m ɑ	kylɑstɑmɑ	VISIT			Dellert et al., 2019
-Estonian_MEET	Estonian	esto1258	ekk	MEET	kogunema	koɡ̥unʲemɑ	k o ɡ ̥ u nʲ e m ɑ	koɡ̥unʲemɑ	MEET			Dellert et al., 2019
-Estonian_PLAY	Estonian	esto1258	ekk	PLAY	mängima	mæŋk̥imɑ	m æ ŋ k ̥ i m ɑ	mæŋk̥imɑ	PLAY			Dellert et al., 2019
+Estonian_MEET	Estonian	esto1258	ekk	MEET	kogunema	koɡ̥unʲemɑ	k o ɡ̥ u nʲ e m ɑ	koɡ̥unʲemɑ	MEET			Dellert et al., 2019
+Estonian_PLAY	Estonian	esto1258	ekk	PLAY	mängima	mæŋk̥imɑ	m æ ŋ k̥ i m ɑ	mæŋk̥imɑ	PLAY			Dellert et al., 2019
 Estonian_SING	Estonian	esto1258	ekk	SING	laulma	lɑulmɑ	l ɑ u l m ɑ	lɑulmɑ	SING			Dellert et al., 2019
 Estonian_DANCE	Estonian	esto1258	ekk	DANCE	tantsima	tɑntsʲimɑ	t ɑ n t sʲ i m ɑ	tɑntsʲimɑ	DANCE			Dellert et al., 2019
 Estonian_RESCUE	Estonian	esto1258	ekk	RESCUE	päästma	pæːstmɑ	p æː s t m ɑ	pæːstmɑ	RESCUE			Dellert et al., 2019
@@ -4445,12 +4445,12 @@ Estonian_STING	Estonian	esto1258	ekk	STING	torkama	torkɑmɑ	t o r k ɑ m ɑ	tor
 Estonian_STEAL	Estonian	esto1258	ekk	STEAL	varastama	vɑrɑstɑmɑ	v ɑ r ɑ s t ɑ m ɑ	vɑrɑstɑmɑ	STEAL			Dellert et al., 2019
 Estonian_BETRAY	Estonian	esto1258	ekk	BETRAY	petma	petmɑ	p e t m ɑ	petmɑ	BETRAY			Dellert et al., 2019
 Estonian_BETRAY	Estonian	esto1258	ekk	BETRAY	tüssama	tysːɑmɑ	t y sː ɑ m ɑ	tysːɑmɑ	BETRAY			Dellert et al., 2019
-Estonian_BETRAY	Estonian	esto1258	ekk	BETRAY	truudust murtma	truːd̥ustmurtmɑ	t r uː d ̥ u s t m u r t m ɑ	truːd̥ust murtmɑ	BETRAY			Dellert et al., 2019
+Estonian_BETRAY	Estonian	esto1258	ekk	BETRAY	truudust murtma	truːd̥ustmurtmɑ	t r uː d̥ u s t m u r t m ɑ	truːd̥ust murtmɑ	BETRAY			Dellert et al., 2019
 Estonian_KILL	Estonian	esto1258	ekk	KILL	tapma	tɑpmɑ	t ɑ p m ɑ	tɑpmɑ	KILL			Dellert et al., 2019
 Estonian_KILL	Estonian	esto1258	ekk	KILL	surmama	surmɑmɑ	s u r m ɑ m ɑ	surmɑmɑ	KILL			Dellert et al., 2019
 Estonian_DWELL_(LIVE,_RESIDE)	Estonian	esto1258	ekk	DWELL (LIVE, RESIDE)	elama	elɑmɑ	e l ɑ m ɑ	elɑmɑ	DWELL_(LIVE,_RESIDE)			Dellert et al., 2019
 Estonian_WORK_(ACTIVITY)	Estonian	esto1258	ekk	WORK (ACTIVITY)	töötama	tœːtɑmɑ	t œː t ɑ m ɑ	tœːtɑmɑ	WORK_(ACTIVITY)			Dellert et al., 2019
-Estonian_GATHER	Estonian	esto1258	ekk	GATHER	koguma	koɡ̥umɑ	k o ɡ ̥ u m ɑ	koɡ̥umɑ	GATHER			Dellert et al., 2019
+Estonian_GATHER	Estonian	esto1258	ekk	GATHER	koguma	koɡ̥umɑ	k o ɡ̥ u m ɑ	koɡ̥umɑ	GATHER			Dellert et al., 2019
 Estonian_GATHER	Estonian	esto1258	ekk	GATHER	korjama	korjɑmɑ	k o r j ɑ m ɑ	korjɑmɑ	GATHER			Dellert et al., 2019
 Estonian_PICK	Estonian	esto1258	ekk	PICK	noppima	nopːimɑ	n o pː i m ɑ	nopːimɑ	PICK			Dellert et al., 2019
 Estonian_HUNT	Estonian	esto1258	ekk	HUNT	jahtima	jɑxtʲimɑ	j ɑ x tʲ i m ɑ	jɑxtʲimɑ	HUNT			Dellert et al., 2019
@@ -4462,16 +4462,16 @@ Estonian_RIPEN	Estonian	esto1258	ekk	RIPEN	valmima	vɑlmimɑ	v ɑ l m i m ɑ	vɑ
 Estonian_COOK_(SOMETHING)	Estonian	esto1258	ekk	COOK (SOMETHING)	valmistama	vɑlmistɑmɑ	v ɑ l m i s t ɑ m ɑ	vɑlmistɑmɑ	COOK_(SOMETHING)			Dellert et al., 2019
 Estonian_BOIL_(SOMETHING)	Estonian	esto1258	ekk	BOIL (SOMETHING)	keetma	keːtmɑ	k eː t m ɑ	keːtmɑ	BOIL_(SOMETHING)			Dellert et al., 2019
 Estonian_BAKE	Estonian	esto1258	ekk	BAKE	küpsetama	kypsʲetɑmɑ	k y p sʲ e t ɑ m ɑ	kypsʲetɑmɑ	BAKE			Dellert et al., 2019
-Estonian_FRY	Estonian	esto1258	ekk	FRY	praadima	prɑːd̥imɑ	p r ɑː d ̥ i m ɑ	prɑːd̥imɑ	FRY			Dellert et al., 2019
-Estonian_SEW	Estonian	esto1258	ekk	SEW	õmblema	ɤmb̥lʲemɑ	ɤ m b ̥ lʲ e m ɑ	ɤmb̥lʲemɑ	SEW			Dellert et al., 2019
+Estonian_FRY	Estonian	esto1258	ekk	FRY	praadima	prɑːd̥imɑ	p r ɑː d̥ i m ɑ	prɑːd̥imɑ	FRY			Dellert et al., 2019
+Estonian_SEW	Estonian	esto1258	ekk	SEW	õmblema	ɤmb̥lʲemɑ	ɤ m b̥ lʲ e m ɑ	ɤmb̥lʲemɑ	SEW			Dellert et al., 2019
 Estonian_DYE	Estonian	esto1258	ekk	DYE	värvima	værvimɑ	v æ r v i m ɑ	værvimɑ	DYE			Dellert et al., 2019
 Estonian_CLEAN_(SOMETHING)	Estonian	esto1258	ekk	CLEAN (SOMETHING)	puhastama	puhɑstɑmɑ	p u h ɑ s t ɑ m ɑ	puhɑstɑmɑ	CLEAN_(SOMETHING)			Dellert et al., 2019
 Estonian_WASH	Estonian	esto1258	ekk	WASH	pesema	pesʲemɑ	p e sʲ e m ɑ	pesʲemɑ	WASH			Dellert et al., 2019
 Estonian_WIPE	Estonian	esto1258	ekk	WIPE	puhtaks pühkima	puxtɑkspyxkimɑ	p u x t ɑ k s p y x k i m ɑ	puxtɑks pyxkimɑ	WIPE			Dellert et al., 2019
 Estonian_SWEEP	Estonian	esto1258	ekk	SWEEP	pühkima	pyxkimɑ	p y x k i m ɑ	pyxkimɑ	SWEEP			Dellert et al., 2019
 Estonian_BATHE	Estonian	esto1258	ekk	BATHE	suplema	suplʲemɑ	s u p lʲ e m ɑ	suplʲemɑ	BATHE			Dellert et al., 2019
-Estonian_BATHE	Estonian	esto1258	ekk	BATHE	kümblema	kymb̥lʲemɑ	k y m b ̥ lʲ e m ɑ	kymb̥lʲemɑ	BATHE			Dellert et al., 2019
-Estonian_PUT_ON	Estonian	esto1258	ekk	PUT ON	jalga panema	jɑlɡ̥ɑpɑnʲemɑ	j ɑ l ɡ ̥ ɑ p ɑ nʲ e m ɑ	jɑlɡ̥ɑ pɑnʲemɑ	PUT_ON			Dellert et al., 2019
+Estonian_BATHE	Estonian	esto1258	ekk	BATHE	kümblema	kymb̥lʲemɑ	k y m b̥ lʲ e m ɑ	kymb̥lʲemɑ	BATHE			Dellert et al., 2019
+Estonian_PUT_ON	Estonian	esto1258	ekk	PUT ON	jalga panema	jɑlɡ̥ɑpɑnʲemɑ	j ɑ l ɡ̥ ɑ p ɑ nʲ e m ɑ	jɑlɡ̥ɑ pɑnʲemɑ	PUT_ON			Dellert et al., 2019
 Estonian_DRESS_UP	Estonian	esto1258	ekk	DRESS UP	riietuma	riːetumɑ	r iː e t u m ɑ	riːetumɑ	DRESS_UP			Dellert et al., 2019
 Estonian_COMB_(VERB)	Estonian	esto1258	ekk	COMB (VERB)	kammima	kɑmːimɑ	k ɑ mː i m ɑ	kɑmːimɑ	COMB_(VERB)			Dellert et al., 2019
 Estonian_DECORATE	Estonian	esto1258	ekk	DECORATE	kaunistama	kɑunʲistɑmɑ	k ɑ u nʲ i s t ɑ m ɑ	kɑunʲistɑmɑ	DECORATE			Dellert et al., 2019
@@ -4488,12 +4488,12 @@ Estonian_THINK_(REFLECT)	Estonian	esto1258	ekk	THINK (REFLECT)	mõtlema	mɤtlʲe
 Estonian_BELIEVE	Estonian	esto1258	ekk	BELIEVE	uskuma	uskumɑ	u s k u m ɑ	uskumɑ	BELIEVE			Dellert et al., 2019
 Estonian_UNDERSTAND	Estonian	esto1258	ekk	UNDERSTAND	aru saama	ɑrusɑːmɑ	ɑ r u s ɑː m ɑ	ɑru sɑːmɑ	UNDERSTAND			Dellert et al., 2019
 Estonian_LEARN	Estonian	esto1258	ekk	LEARN	õppima	ɤpːimɑ	ɤ pː i m ɑ	ɤpːimɑ	LEARN			Dellert et al., 2019
-Estonian_KNOW_(SOMETHING)	Estonian	esto1258	ekk	KNOW (SOMETHING)	teadma	tʲeɑd̥mɑ	tʲ e ɑ d ̥ m ɑ	tʲeɑd̥mɑ	KNOW_(SOMETHING)			Dellert et al., 2019
+Estonian_KNOW_(SOMETHING)	Estonian	esto1258	ekk	KNOW (SOMETHING)	teadma	tʲeɑd̥mɑ	tʲ e ɑ d̥ m ɑ	tʲeɑd̥mɑ	KNOW_(SOMETHING)			Dellert et al., 2019
 Estonian_REMEMBER	Estonian	esto1258	ekk	REMEMBER	mäletama	mælʲetɑmɑ	m æ lʲ e t ɑ m ɑ	mælʲetɑmɑ	REMEMBER			Dellert et al., 2019
 Estonian_FORGET	Estonian	esto1258	ekk	FORGET	unustama	unustɑmɑ	u n u s t ɑ m ɑ	unustɑmɑ	FORGET			Dellert et al., 2019
 Estonian_MEASURE	Estonian	esto1258	ekk	MEASURE	mõõtma	mɤːtmɑ	m ɤː t m ɑ	mɤːtmɑ	MEASURE			Dellert et al., 2019
-Estonian_COUNT	Estonian	esto1258	ekk	COUNT	loendama	loend̥ɑmɑ	l o e n d ̥ ɑ m ɑ	loend̥ɑmɑ	COUNT			Dellert et al., 2019
-Estonian_READ	Estonian	esto1258	ekk	READ	lugema	luɡ̥emɑ	l u ɡ ̥ e m ɑ	luɡ̥emɑ	READ			Dellert et al., 2019
+Estonian_COUNT	Estonian	esto1258	ekk	COUNT	loendama	loend̥ɑmɑ	l o e n d̥ ɑ m ɑ	loend̥ɑmɑ	COUNT			Dellert et al., 2019
+Estonian_READ	Estonian	esto1258	ekk	READ	lugema	luɡ̥emɑ	l u ɡ̥ e m ɑ	luɡ̥emɑ	READ			Dellert et al., 2019
 Estonian_PAINTING	Estonian	esto1258	ekk	PAINTING	maalima	mɑːlʲimɑ	m ɑː lʲ i m ɑ	mɑːlʲimɑ	PAINTING			Dellert et al., 2019
 Estonian_WRITE	Estonian	esto1258	ekk	WRITE	kirjutama	kirjutɑmɑ	k i r j u t ɑ m ɑ	kirjutɑmɑ	WRITE			Dellert et al., 2019
 Estonian_OWN	Estonian	esto1258	ekk	OWN	omama	omɑmɑ	o m ɑ m ɑ	omɑmɑ	OWN			Dellert et al., 2019
@@ -7943,7 +7943,7 @@ NorthernSami_CRY	Northern Sami	nort2671	sme	CRY	čierrut	ʧiɛrːʊh	ʧ i ɛ rː
 NorthernSami_FEAR_(BE_AFRAID)	Northern Sami	nort2671	sme	FEAR (BE AFRAID)	ballat	pɑlːɑh	p ɑ lː ɑ h	pɑlːɑh	FEAR_(BE_AFRAID)			Dellert et al., 2019
 NorthernSami_FLEE	Northern Sami	nort2671	sme	FLEE	báhtarit	paːhtɑrih	p aː h t ɑ r i h	paːhtɑrih	FLEE			Dellert et al., 2019
 NorthernSami_ESCAPE	Northern Sami	nort2671	sme	ESCAPE	gárgidit	kaːrɛkidih	k aː r ɛ k i d i h	kaːrɛkidih	ESCAPE			Dellert et al., 2019
-NorthernSami_SEE	Northern Sami	nort2671	sme	SEE	oaidnít	ɔ̯ɑidníh	ɔ̯ ɑ i d n í h	ɔ̯ɑidníh	SEE			Dellert et al., 2019
+NorthernSami_SEE	Northern Sami	nort2671	sme	SEE	oaidnít	ɔ̯ɑidníh	ɔ̯ ɑ i d ní h	ɔ̯ɑidníh	SEE			Dellert et al., 2019
 NorthernSami_LOOK	Northern Sami	nort2671	sme	LOOK	geahččat	ke̯æhʧːɑh	k e̯ æ h ʧː ɑ h	ke̯æht͡ʃːɑh	LOOK			Dellert et al., 2019
 NorthernSami_WATCH	Northern Sami	nort2671	sme	WATCH	geahččat	ke̯æhʧːɑh	k e̯ æ h ʧː ɑ h	ke̯æht͡ʃːɑh	WATCH			Dellert et al., 2019
 NorthernSami_HEAR	Northern Sami	nort2671	sme	HEAR	gullat	kʊlːɑh	k ʊ lː ɑ h	kʊlːɑh	HEAR			Dellert et al., 2019
@@ -9908,7 +9908,7 @@ KildinSami_BEARD	Kildin Sami	kild1236	sjd	BEARD	ся̄м	ɕaːm	ɕ aː m	ɕaːm	
 KildinSami_CHIN	Kildin Sami	kild1236	sjd	CHIN	ка̄ййп	kaːjːp	k aː jː p	kaːjːp	CHIN			Dellert et al., 2019
 KildinSami_JAW	Kildin Sami	kild1236	sjd	JAW	вуаллнешш	vualːɲeʃː	v u a lː ɲ e ʃː	vualːɲeʃː	JAW			Dellert et al., 2019
 KildinSami_THROAT	Kildin Sami	kild1236	sjd	THROAT	чонт	ʧont	ʧ o n t	t͡ʃont	THROAT			Dellert et al., 2019
-KildinSami_THROAT	Kildin Sami	kild1236	sjd	THROAT	кэ̄ҏс	keːr̥s	k eː r ̥ s	keːr̥s	THROAT			Dellert et al., 2019
+KildinSami_THROAT	Kildin Sami	kild1236	sjd	THROAT	кэ̄ҏс	keːr̥s	k eː r̥ s	keːr̥s	THROAT			Dellert et al., 2019
 KildinSami_NECK	Kildin Sami	kild1236	sjd	NECK	ча̄пэх	ʧaːpex	ʧ aː p e x	t͡ʃaːpex	NECK			Dellert et al., 2019
 KildinSami_NAPE_(OF_NECK)	Kildin Sami	kild1236	sjd	NAPE (OF NECK)	нышшькмоант	nɨɕːkmoant	n ɨ ɕː k m o a n t	nɨɕːkmoant	NAPE_(OF_NECK)			Dellert et al., 2019
 KildinSami_HEAD	Kildin Sami	kild1236	sjd	HEAD	вуэййв	vuejːv	v u e jː v	vuejːv	HEAD			Dellert et al., 2019
@@ -9926,7 +9926,7 @@ KildinSami_PALM_OF_HAND	Kildin Sami	kild1236	sjd	PALM OF HAND	кӣдткоал
 KildinSami_FINGER	Kildin Sami	kild1236	sjd	FINGER	це̄ххп	ʨeːxːp	ʨ eː xː p	t͡ɕeːxːp	FINGER			Dellert et al., 2019
 KildinSami_FINGERNAIL	Kildin Sami	kild1236	sjd	FINGERNAIL	кэ̄ннц	keːnːʦ	k eː nː ʦ	keːnːt͡s	FINGERNAIL			Dellert et al., 2019
 KildinSami_FINGERNAIL_OR_TOENAIL	Kildin Sami	kild1236	sjd	FINGERNAIL OR TOENAIL	кэ̄ннц	keːnːʦ	k eː nː ʦ	keːnːt͡s	FINGERNAIL_OR_TOENAIL			Dellert et al., 2019
-KildinSami_TOE	Kildin Sami	kild1236	sjd	TOE	ю̄лльк-це̄һп	juːʎːkʨeːʰp	j uː ʎː k ʨ eːʰ p	juːʎːk-t͡ɕeːʰp	TOE			Dellert et al., 2019
+KildinSami_TOE	Kildin Sami	kild1236	sjd	TOE	ю̄лльк-це̄һп	juːʎːkʨeːʰp	j uː ʎː k ʨ eː ʰp	juːʎːk-t͡ɕeːʰp	TOE			Dellert et al., 2019
 KildinSami_FOOT	Kildin Sami	kild1236	sjd	FOOT	ла̄бпь	laːbp	l aː b p	laːbp	FOOT			Dellert et al., 2019
 KildinSami_HEEL	Kildin Sami	kild1236	sjd	HEEL	ка̄ннт	kaːnːt	k aː nː t	kaːnːt	HEEL			Dellert et al., 2019
 KildinSami_KNEE	Kildin Sami	kild1236	sjd	KNEE	пуллв	pulːv	p u lː v	pulːv	KNEE			Dellert et al., 2019
@@ -10008,7 +10008,7 @@ KildinSami_TREE	Kildin Sami	kild1236	sjd	TREE	мӯрр	muːrː	m uː rː	muːr
 KildinSami_TREE_TRUNK	Kildin Sami	kild1236	sjd	TREE TRUNK	мӯрр	muːrː	m uː rː	muːrː	TREE_TRUNK			Dellert et al., 2019
 KildinSami_TREE_TRUNK	Kildin Sami	kild1236	sjd	TREE TRUNK	кэ̄ллт	keːlːt	k eː lː t	keːlːt	TREE_TRUNK			Dellert et al., 2019
 KildinSami_BARK	Kildin Sami	kild1236	sjd	BARK	кэ̄рр	keːrː	k eː rː	keːrː	BARK			Dellert et al., 2019
-KildinSami_BARK	Kildin Sami	kild1236	sjd	BARK	па̄ҏҏк	paːr̥ːk	p aː r ̥ː k	paːr̥ːk	BARK			Dellert et al., 2019
+KildinSami_BARK	Kildin Sami	kild1236	sjd	BARK	па̄ҏҏк	paːr̥ːk	p aː r̥ː k	paːr̥ːk	BARK			Dellert et al., 2019
 KildinSami_BRANCH	Kildin Sami	kild1236	sjd	BRANCH	вуэккьс	vuekːs	v u e kː s	vuekːs	BRANCH			Dellert et al., 2019
 KildinSami_LEAF	Kildin Sami	kild1236	sjd	LEAF	лэ̄сст	leːsːt	l eː sː t	leːsːt	LEAF			Dellert et al., 2019
 KildinSami_BIRCH	Kildin Sami	kild1236	sjd	BIRCH	пе̄ссьмӯрр	peːɕːmuːrː	p eː ɕː m uː rː	peːɕːmuːrː	BIRCH			Dellert et al., 2019
@@ -10048,7 +10048,7 @@ KildinSami_GOOSE	Kildin Sami	kild1236	sjd	GOOSE	чуэнь	ʧueɲ	ʧ u e ɲ	t͡�
 KildinSami_EAGLE	Kildin Sami	kild1236	sjd	EAGLE	куэцькем	kueʨkem	k u e ʨ k e m	kuet͡ɕkem	EAGLE			Dellert et al., 2019
 KildinSami_DUCK	Kildin Sami	kild1236	sjd	DUCK	ча̄дзьлоаннҍт	ʧaːʣloaɲːt	ʧ aː ʣ l o a ɲː t	t͡ʃaːd͡zloaɲːt	DUCK			Dellert et al., 2019
 KildinSami_OWL	Kildin Sami	kild1236	sjd	OWL	кунньлоаннҍт	kuɲːloaɲːt	k u ɲː l o a ɲː t	kuɲːloaɲːt	OWL			Dellert et al., 2019
-KildinSami_OWL	Kildin Sami	kild1236	sjd	OWL	чӯзэм вуэһпэй	ʧuːzem̬ueʰpej	ʧ uː z e m ̬ u eʰ p e j	t͡ʃuːzem̬ueʰpej	OWL			Dellert et al., 2019
+KildinSami_OWL	Kildin Sami	kild1236	sjd	OWL	чӯзэм вуэһпэй	ʧuːzem̬ueʰpej	ʧ uː z e m̬ u e ʰp e j	t͡ʃuːzem̬ueʰpej	OWL			Dellert et al., 2019
 KildinSami_CRANE	Kildin Sami	kild1236	sjd	CRANE	кӯррк	kuːrːk	k uː rː k	kuːrːk	CRANE			Dellert et al., 2019
 KildinSami_CROW	Kildin Sami	kild1236	sjd	CROW	вӯрэч	vuːreʧ	v uː r e ʧ	vuːret͡ʃ	CROW			Dellert et al., 2019
 KildinSami_FISH	Kildin Sami	kild1236	sjd	FISH	кӯлль	kuːʎː	k uː ʎː	kuːʎː	FISH			Dellert et al., 2019
@@ -10056,7 +10056,7 @@ KildinSami_SNAKE	Kildin Sami	kild1236	sjd	SNAKE	кӯввьт	kuːvːt	k uː v�
 KildinSami_WORM	Kildin Sami	kild1236	sjd	WORM	ма̄дт	maːdt	m aː d t	maːdt	WORM			Dellert et al., 2019
 KildinSami_SPIDER	Kildin Sami	kild1236	sjd	SPIDER	о̄а̄з	oːaːz	oː aː z	oːaːz	SPIDER			Dellert et al., 2019
 KildinSami_ANT	Kildin Sami	kild1236	sjd	ANT	ко̄ттк	koːtːk	k oː tː k	koːtːk	ANT			Dellert et al., 2019
-KildinSami_LOUSE	Kildin Sami	kild1236	sjd	LOUSE	тыһкь	tɨʰk	t ɨʰ k	tɨʰk	LOUSE			Dellert et al., 2019
+KildinSami_LOUSE	Kildin Sami	kild1236	sjd	LOUSE	тыһкь	tɨʰk	t ɨ ʰk	tɨʰk	LOUSE			Dellert et al., 2019
 KildinSami_MOSQUITO	Kildin Sami	kild1236	sjd	MOSQUITO	чӯшшк	ʧuːʃːk	ʧ uː ʃː k	t͡ʃuːʃːk	MOSQUITO			Dellert et al., 2019
 KildinSami_FLY_(INSECT)	Kildin Sami	kild1236	sjd	FLY (INSECT)	чуэраш	ʧueraʃ	ʧ u e r a ʃ	t͡ʃueraʃ	FLY_(INSECT)			Dellert et al., 2019
 KildinSami_BUTTERFLY	Kildin Sami	kild1236	sjd	BUTTERFLY	а̄лльп	aːʎːp	aː ʎː p	aːʎːp	BUTTERFLY			Dellert et al., 2019
@@ -10109,11 +10109,11 @@ KildinSami_GRIEF	Kildin Sami	kild1236	sjd	GRIEF	пэ̄джь	peːʤ	p eː ʤ	pe�
 KildinSami_GRIEF	Kildin Sami	kild1236	sjd	GRIEF	пя̄ццель	paːʨːeʎ	p aː ʨː e ʎ	paːt͡ɕːeʎ	GRIEF			Dellert et al., 2019
 KildinSami_DESIRE	Kildin Sami	kild1236	sjd	DESIRE	туввмушш	tuvːmuʃː	t u vː m u ʃː	tuvːmuʃː	DESIRE			Dellert et al., 2019
 KildinSami_SPIRIT	Kildin Sami	kild1236	sjd	SPIRIT	мӣлл	mʲiːlː	mʲ iː lː	mʲiːlː	SPIRIT			Dellert et al., 2019
-KildinSami_SPIRIT	Kildin Sami	kild1236	sjd	SPIRIT	то̄ӆӆк	toːl̥ːk	t oː l ̥ː k	toːl̥ːk	SPIRIT			Dellert et al., 2019
+KildinSami_SPIRIT	Kildin Sami	kild1236	sjd	SPIRIT	то̄ӆӆк	toːl̥ːk	t oː l̥ː k	toːl̥ːk	SPIRIT			Dellert et al., 2019
 KildinSami_MEMORY	Kildin Sami	kild1236	sjd	MEMORY	мушт	muʃt	m u ʃ t	muʃt	MEMORY			Dellert et al., 2019
 KildinSami_MEMORY	Kildin Sami	kild1236	sjd	MEMORY	мӣлл	mʲiːlː	mʲ iː lː	mʲiːlː	MEMORY			Dellert et al., 2019
 KildinSami_MIND	Kildin Sami	kild1236	sjd	MIND	мӣлл	mʲiːlː	mʲ iː lː	mʲiːlː	MIND			Dellert et al., 2019
-KildinSami_MIND	Kildin Sami	kild1236	sjd	MIND	то̄ӆӆк	toːl̥ːk	t oː l ̥ː k	toːl̥ːk	MIND			Dellert et al., 2019
+KildinSami_MIND	Kildin Sami	kild1236	sjd	MIND	то̄ӆӆк	toːl̥ːk	t oː l̥ː k	toːl̥ːk	MIND			Dellert et al., 2019
 KildinSami_TRUTH	Kildin Sami	kild1236	sjd	TRUTH	зо̄абэль	zoːabeʎ	z oː a b e ʎ	zoːabeʎ	TRUTH			Dellert et al., 2019
 KildinSami_STORY	Kildin Sami	kild1236	sjd	STORY	мо̄а̄йнас	moːaːjnas	m oː aː j n a s	moːaːjnas	STORY			Dellert et al., 2019
 KildinSami_NAME	Kildin Sami	kild1236	sjd	NAME	нэ̄мм	neːmː	n eː mː	neːmː	NAME			Dellert et al., 2019
@@ -10121,7 +10121,7 @@ KildinSami_SPEECH	Kildin Sami	kild1236	sjd	SPEECH	са̄ррнмушш	saːrːnm
 KildinSami_LANGUAGE	Kildin Sami	kild1236	sjd	LANGUAGE	кӣлл	kiːlː	k iː lː	kiːlː	LANGUAGE			Dellert et al., 2019
 KildinSami_VOICE	Kildin Sami	kild1236	sjd	VOICE	ӣнн	jiːnː	j iː nː	jiːnː	VOICE			Dellert et al., 2019
 KildinSami_WORD	Kildin Sami	kild1236	sjd	WORD	са̄ннҍ	saːɲː	s aː ɲː	saːɲː	WORD			Dellert et al., 2019
-KildinSami_NOISE	Kildin Sami	kild1236	sjd	NOISE	шэҏҏ	ʃer̥ː	ʃ e r ̥ː	ʃer̥ː	NOISE			Dellert et al., 2019
+KildinSami_NOISE	Kildin Sami	kild1236	sjd	NOISE	шэҏҏ	ʃer̥ː	ʃ e r̥ː	ʃer̥ː	NOISE			Dellert et al., 2019
 KildinSami_NOISE	Kildin Sami	kild1236	sjd	NOISE	ё̄афф	joːafː	j oː a fː	joːafː	NOISE			Dellert et al., 2019
 KildinSami_SOUND_OR_NOISE	Kildin Sami	kild1236	sjd	SOUND OR NOISE	ӣнн	jiːnː	j iː nː	jiːnː	SOUND_OR_NOISE			Dellert et al., 2019
 KildinSami_SONG	Kildin Sami	kild1236	sjd	SONG	ла̄ввл	laːvːl	l aː vː l	laːvːl	SONG			Dellert et al., 2019
@@ -10159,12 +10159,12 @@ KildinSami_LOAD	Kildin Sami	kild1236	sjd	LOAD	нуэдът	nuedjt	n u e d j t	nu
 KildinSami_NORTH	Kildin Sami	kild1236	sjd	NORTH	таввял	tavːal	t a vː a l	tavːal	NORTH			Dellert et al., 2019
 KildinSami_SOUTH	Kildin Sami	kild1236	sjd	SOUTH	со̄а̄ййв	soːaːjːv	s oː aː jː v	soːaːjːv	SOUTH			Dellert et al., 2019
 KildinSami_WEST	Kildin Sami	kild1236	sjd	WEST	вуэрьял	vuerʲal	v u e rʲ a l	vuerʲal	WEST			Dellert et al., 2019
-KildinSami_EAST	Kildin Sami	kild1236	sjd	EAST	нуҏҏьт	nur̥ʲːt	n u r ̥ʲː t	nur̥ʲːt	EAST			Dellert et al., 2019
+KildinSami_EAST	Kildin Sami	kild1236	sjd	EAST	нуҏҏьт	nur̥ʲːt	n u r̥ʲː t	nur̥ʲːt	EAST			Dellert et al., 2019
 KildinSami_WOOD	Kildin Sami	kild1236	sjd	WOOD	мӯрр	muːrː	m uː rː	muːrː	WOOD			Dellert et al., 2019
 KildinSami_BOARD	Kildin Sami	kild1236	sjd	BOARD	лаййт	lajːt	l a jː t	lajːt	BOARD			Dellert et al., 2019
 KildinSami_STICK	Kildin Sami	kild1236	sjd	STICK	суэммьп	suemʲːp	s u e mʲː p	suemʲːp	STICK			Dellert et al., 2019
-KildinSami_HOUSE	Kildin Sami	kild1236	sjd	HOUSE	пэ̄ҏҏт	peːr̥ːt	p eː r ̥ː t	peːr̥ːt	HOUSE			Dellert et al., 2019
-KildinSami_HOME	Kildin Sami	kild1236	sjd	HOME	пэ̄ҏҏт	peːr̥ːt	p eː r ̥ː t	peːr̥ːt	HOME			Dellert et al., 2019
+KildinSami_HOUSE	Kildin Sami	kild1236	sjd	HOUSE	пэ̄ҏҏт	peːr̥ːt	p eː r̥ː t	peːr̥ːt	HOUSE			Dellert et al., 2019
+KildinSami_HOME	Kildin Sami	kild1236	sjd	HOME	пэ̄ҏҏт	peːr̥ːt	p eː r̥ː t	peːr̥ːt	HOME			Dellert et al., 2019
 KildinSami_STOVE	Kildin Sami	kild1236	sjd	STOVE	пе̄ххц	peːxːʦ	p eː xː ʦ	peːxːt͡s	STOVE			Dellert et al., 2019
 KildinSami_STOVE	Kildin Sami	kild1236	sjd	STOVE	кыввкан	kɨvːkan	k ɨ vː k a n	kɨvːkan	STOVE			Dellert et al., 2019
 KildinSami_FLOOR	Kildin Sami	kild1236	sjd	FLOOR	шалльт	ʃaʎːt	ʃ a ʎː t	ʃaʎːt	FLOOR			Dellert et al., 2019
@@ -10176,7 +10176,7 @@ KildinSami_BOX	Kildin Sami	kild1236	sjd	BOX	чуххьк	ʧuçːk	ʧ u çː k	t�
 KildinSami_WINDOW	Kildin Sami	kild1236	sjd	WINDOW	эххкан	exːkan	e xː k a n	exːkan	WINDOW			Dellert et al., 2019
 KildinSami_DOOR	Kildin Sami	kild1236	sjd	DOOR	уккс	ukːs	u kː s	ukːs	DOOR			Dellert et al., 2019
 KildinSami_FENCE	Kildin Sami	kild1236	sjd	FENCE	а̄ййт	aːjːt	aː jː t	aːjːt	FENCE			Dellert et al., 2019
-KildinSami_ROOF	Kildin Sami	kild1236	sjd	ROOF	пэ̄ҏҏтэ̄ля	peːr̥ːteːʎa	p eː r ̥ː t eː ʎ a	peːr̥ːteːʎa	ROOF			Dellert et al., 2019
+KildinSami_ROOF	Kildin Sami	kild1236	sjd	ROOF	пэ̄ҏҏтэ̄ля	peːr̥ːteːʎa	p eː r̥ː t eː ʎ a	peːr̥ːteːʎa	ROOF			Dellert et al., 2019
 KildinSami_ROOF	Kildin Sami	kild1236	sjd	ROOF	кры̄ша	krɨːʃa	k r ɨː ʃ a	krɨːʃa	ROOF			Dellert et al., 2019
 KildinSami_LADDER	Kildin Sami	kild1236	sjd	LADDER	лествец	ʎestveʦ	ʎ e s t v e ʦ	ʎestvet͡s	LADDER			Dellert et al., 2019
 KildinSami_BROOM	Kildin Sami	kild1236	sjd	BROOM	ва̄сст	vaːsːt	v aː sː t	vaːsːt	BROOM			Dellert et al., 2019
@@ -10192,7 +10192,7 @@ KildinSami_HANDLE	Kildin Sami	kild1236	sjd	HANDLE	нэ̄дт	neːdt	n eː d t	ne
 KildinSami_LOCK	Kildin Sami	kild1236	sjd	LOCK	ло̄ххк	loːxːk	l oː xː k	loːxːk	LOCK			Dellert et al., 2019
 KildinSami_PICTURE	Kildin Sami	kild1236	sjd	PICTURE	картина	kartʲina	k a r tʲ i n a	kartʲina	PICTURE			Dellert et al., 2019
 KildinSami_DOLL	Kildin Sami	kild1236	sjd	DOLL	кукла	kukla	k u k l a	kukla	DOLL			Dellert et al., 2019
-KildinSami_BAG	Kildin Sami	kild1236	sjd	BAG	суӎӎьк	sum̥ʲːk	s u m ̥ʲː k	sum̥ʲːk	BAG			Dellert et al., 2019
+KildinSami_BAG	Kildin Sami	kild1236	sjd	BAG	суӎӎьк	sum̥ʲːk	s u m̥ʲː k	sum̥ʲːk	BAG			Dellert et al., 2019
 KildinSami_BAG	Kildin Sami	kild1236	sjd	BAG	ло̄а̄ффк	loːaːfːk	l oː aː fː k	loːaːfːk	BAG			Dellert et al., 2019
 KildinSami_BUCKET	Kildin Sami	kild1236	sjd	BUCKET	е̄мьперь	jeːmʲper	j eː mʲ p e r	jeːmʲper	BUCKET			Dellert et al., 2019
 KildinSami_LID_(COVER,_CAP)	Kildin Sami	kild1236	sjd	LID (COVER, CAP)	ко̄а̄ххтнэсс	koːaːxːtnesː	k oː aː xː t n e sː	koːaːxːtnesː	LID_(COVER,_CAP)			Dellert et al., 2019
@@ -10242,7 +10242,7 @@ KildinSami_STRENGTH	Kildin Sami	kild1236	sjd	STRENGTH	вӣгк	viːɡk	v iː �
 KildinSami_HEALTHY	Kildin Sami	kild1236	sjd	HEALTHY	тӣрвасвӯдт	tʲiːrvasvuːdt	tʲ iː r v a s v uː d t	tʲiːrvasvuːdt	HEALTHY			Dellert et al., 2019
 KildinSami_DISEASE	Kildin Sami	kild1236	sjd	DISEASE	кэ̄бп	keːbp	k eː b p	keːbp	DISEASE			Dellert et al., 2019
 KildinSami_PAIN	Kildin Sami	kild1236	sjd	PAIN	кэ̄бп	keːbp	k eː b p	keːbp	PAIN			Dellert et al., 2019
-KildinSami_WOUND	Kildin Sami	kild1236	sjd	WOUND	ра̄ӊӊҍ	raːɲ̥ː	r aː ɲ ̥ː	raːɲ̥ː	WOUND			Dellert et al., 2019
+KildinSami_WOUND	Kildin Sami	kild1236	sjd	WOUND	ра̄ӊӊҍ	raːɲ̥ː	r aː ɲ̥ː	raːɲ̥ː	WOUND			Dellert et al., 2019
 KildinSami_FEVER	Kildin Sami	kild1236	sjd	FEVER	жоарр	ʒoarː	ʒ o a rː	ʒoarː	FEVER			Dellert et al., 2019
 KildinSami_MEDICINE	Kildin Sami	kild1236	sjd	MEDICINE	лоаддв	loadːv	l o a dː v	loadːv	MEDICINE			Dellert et al., 2019
 KildinSami_BRIDGE	Kildin Sami	kild1236	sjd	BRIDGE	мо̄сст	moːsːt	m oː sː t	moːsːt	BRIDGE			Dellert et al., 2019
@@ -10382,11 +10382,11 @@ KildinSami_GOOD-LOOKING	Kildin Sami	kild1236	sjd	GOOD-LOOKING	мо̄джесь	m
 KildinSami_EVIL	Kildin Sami	kild1236	sjd	EVIL	поасс	poasː	p o a sː	poasː	EVIL			Dellert et al., 2019
 KildinSami_EVIL	Kildin Sami	kild1236	sjd	EVIL	кэ̄рряй	keːrːaj	k eː rː a j	keːrːaj	EVIL			Dellert et al., 2019
 KildinSami_STUPID	Kildin Sami	kild1236	sjd	STUPID	о̄менэш	oːmʲeneʃ	oː mʲ e n e ʃ	oːmʲeneʃ	STUPID			Dellert et al., 2019
-KildinSami_STUPID	Kildin Sami	kild1236	sjd	STUPID	то̄ӆӆкхем	toːl̥ːkçem	t oː l ̥ː k ç e m	toːl̥ːkçem	STUPID			Dellert et al., 2019
+KildinSami_STUPID	Kildin Sami	kild1236	sjd	STUPID	то̄ӆӆкхем	toːl̥ːkçem	t oː l̥ː k ç e m	toːl̥ːkçem	STUPID			Dellert et al., 2019
 KildinSami_LAZY	Kildin Sami	kild1236	sjd	LAZY	ла̄шькесь	laːɕkeɕ	l aː ɕ k e ɕ	laːɕkeɕ	LAZY			Dellert et al., 2019
 KildinSami_STINGY	Kildin Sami	kild1236	sjd	STINGY	сыннҍ	sɨɲː	s ɨ ɲː	sɨɲː	STINGY			Dellert et al., 2019
 KildinSami_STINGY	Kildin Sami	kild1236	sjd	STINGY	скухьпесь	skuçpeɕ	s k u ç p e ɕ	skuçpeɕ	STINGY			Dellert et al., 2019
-KildinSami_CLEVER	Kildin Sami	kild1236	sjd	CLEVER	то̄ӆӆкэш	toːl̥ːkeʃ	t oː l ̥ː k e ʃ	toːl̥ːkeʃ	CLEVER			Dellert et al., 2019
+KildinSami_CLEVER	Kildin Sami	kild1236	sjd	CLEVER	то̄ӆӆкэш	toːl̥ːkeʃ	t oː l̥ː k e ʃ	toːl̥ːkeʃ	CLEVER			Dellert et al., 2019
 KildinSami_CLEVER	Kildin Sami	kild1236	sjd	CLEVER	вӣллвэсь	viːlːveɕ	v iː lː v e ɕ	viːlːveɕ	CLEVER			Dellert et al., 2019
 KildinSami_DEXTEROUS	Kildin Sami	kild1236	sjd	DEXTEROUS	чепесь	ʨepeɕ	ʨ e p e ɕ	t͡ɕepeɕ	DEXTEROUS			Dellert et al., 2019
 KildinSami_DEAR	Kildin Sami	kild1236	sjd	DEAR	мӣлса	mʲiːlsa	mʲ iː l s a	mʲiːlsa	DEAR			Dellert et al., 2019
@@ -10437,8 +10437,8 @@ KildinSami_SOON	Kildin Sami	kild1236	sjd	SOON	вэхтэнне	vexteɲːe	v e x 
 KildinSami_YESTERDAY	Kildin Sami	kild1236	sjd	YESTERDAY	яххта	jaxːta	j a xː t a	jaxːta	YESTERDAY			Dellert et al., 2019
 KildinSami_AFTERWARDS	Kildin Sami	kild1236	sjd	AFTERWARDS	маӈӈа	maŋːa	m a ŋː a	maŋːa	AFTERWARDS			Dellert et al., 2019
 KildinSami_BEFORE	Kildin Sami	kild1236	sjd	BEFORE	а̄йка	aːjka	aː j k a	aːjka	BEFORE			Dellert et al., 2019
-KildinSami_ONE_TIME	Kildin Sami	kild1236	sjd	ONE TIME	э̄фт вэ̄рр	eːft̬eːrː	eː f t ̬ eː rː	eːft̬eːrː	ONE_TIME			Dellert et al., 2019
-KildinSami_SOMETIMES	Kildin Sami	kild1236	sjd	SOMETIMES	мудта вэ̄р	mudta̬eːr	m u d t a ̬ eː r	mudta̬eːr	SOMETIMES			Dellert et al., 2019
+KildinSami_ONE_TIME	Kildin Sami	kild1236	sjd	ONE TIME	э̄фт вэ̄рр	eːft̬eːrː	eː f t̬ eː rː	eːft̬eːrː	ONE_TIME			Dellert et al., 2019
+KildinSami_SOMETIMES	Kildin Sami	kild1236	sjd	SOMETIMES	мудта вэ̄р	mudta̬eːr	m u d t a̬ eː r	mudta̬eːr	SOMETIMES			Dellert et al., 2019
 KildinSami_OFTEN	Kildin Sami	kild1236	sjd	OFTEN	то̄а̄ййв	toːaːjːv	t oː aː jː v	toːaːjːv	OFTEN			Dellert et al., 2019
 KildinSami_ALWAYS	Kildin Sami	kild1236	sjd	ALWAYS	пай	paj	p a j	paj	ALWAYS			Dellert et al., 2019
 KildinSami_NEVER	Kildin Sami	kild1236	sjd	NEVER	эйй никуэссь	ejːɲikueɕː	e jː ɲ i k u e ɕː	ejː ɲikueɕː	NEVER			Dellert et al., 2019
@@ -10656,7 +10656,7 @@ KildinSami_BEND	Kildin Sami	kild1236	sjd	BEND	сойхьтэ	sojçte	s o j ç t 
 KildinSami_BEND	Kildin Sami	kild1236	sjd	BEND	то̄а̄ххкэ	toːaːxːke	t oː aː xː k e	toːaːxːke	BEND			Dellert et al., 2019
 KildinSami_BEND	Kildin Sami	kild1236	sjd	BEND	нигклаххьтэ	ɲiɡklaçːte	ɲ i ɡ k l a çː t e	ɲiɡklaçːte	BEND			Dellert et al., 2019
 KildinSami_BEND_(SOMETHING)	Kildin Sami	kild1236	sjd	BEND (SOMETHING)	сойхьтэ	sojçte	s o j ç t e	sojçte	BEND_(SOMETHING)			Dellert et al., 2019
-KildinSami_TURN_(SOMETHING)	Kildin Sami	kild1236	sjd	TURN (SOMETHING)	чоӊӊтэ	ʧon̥ːte	ʧ o n ̥ː t e	t͡ʃon̥ːte	TURN_(SOMETHING)			Dellert et al., 2019
+KildinSami_TURN_(SOMETHING)	Kildin Sami	kild1236	sjd	TURN (SOMETHING)	чоӊӊтэ	ʧon̥ːte	ʧ o n̥ː t e	t͡ʃon̥ːte	TURN_(SOMETHING)			Dellert et al., 2019
 KildinSami_RAISE	Kildin Sami	kild1236	sjd	RAISE	пайнэ	pajne	p a j n e	pajne	RAISE			Dellert et al., 2019
 KildinSami_RAISE	Kildin Sami	kild1236	sjd	RAISE	пайнэллэ	pajnelːe	p a j n e lː e	pajnelːe	RAISE			Dellert et al., 2019
 KildinSami_LIFT	Kildin Sami	kild1236	sjd	LIFT	пайнэ	pajne	p a j n e	pajne	LIFT			Dellert et al., 2019
@@ -10711,7 +10711,7 @@ KildinSami_SPOIL_(SOMEBODY_OR_SOMETHING)	Kildin Sami	kild1236	sjd	SPOIL (SOMEBOD
 KildinSami_SPOIL_(SOMEBODY_OR_SOMETHING)	Kildin Sami	kild1236	sjd	SPOIL (SOMEBODY OR SOMETHING)	ма̄ййкэ	maːjːke	m aː jː k e	maːjːke	SPOIL_(SOMEBODY_OR_SOMETHING)			Dellert et al., 2019
 KildinSami_DAMAGE	Kildin Sami	kild1236	sjd	DAMAGE	муррьтэ	murːte	m u rː t e	murːte	DAMAGE			Dellert et al., 2019
 KildinSami_BREAK_(CLEAVE)	Kildin Sami	kild1236	sjd	BREAK (CLEAVE)	муррьтэ	murːte	m u rː t e	murːte	BREAK_(CLEAVE)			Dellert et al., 2019
-KildinSami_DESTROY	Kildin Sami	kild1236	sjd	DESTROY	ёҏтэ	jor̥te	j o r ̥ t e	jor̥te	DESTROY			Dellert et al., 2019
+KildinSami_DESTROY	Kildin Sami	kild1236	sjd	DESTROY	ёҏтэ	jor̥te	j o r̥ t e	jor̥te	DESTROY			Dellert et al., 2019
 KildinSami_BURN_(SOMETHING)	Kildin Sami	kild1236	sjd	BURN (SOMETHING)	пуэлльтэ	pueʎːte	p u e ʎː t e	pueʎːte	BURN_(SOMETHING)			Dellert et al., 2019
 KildinSami_GIVE	Kildin Sami	kild1236	sjd	GIVE	аннҍтэ	aɲːte	a ɲː t e	aɲːte	GIVE			Dellert et al., 2019
 KildinSami_DONATE	Kildin Sami	kild1236	sjd	DONATE	ла̄ххе	laːçːe	l aː çː e	laːçːe	DONATE			Dellert et al., 2019
@@ -10734,7 +10734,7 @@ KildinSami_SING	Kildin Sami	kild1236	sjd	SING	ла̄ввлэ	laːvːle	l aː vː
 KildinSami_DANCE	Kildin Sami	kild1236	sjd	DANCE	нюччке	ɲuʧːke	ɲ u ʧː k e	ɲut͡ʃːke	DANCE			Dellert et al., 2019
 KildinSami_DANCE	Kildin Sami	kild1236	sjd	DANCE	пляссъе	pʎasːje	p ʎ a sː j e	pʎasːje	DANCE			Dellert et al., 2019
 KildinSami_RESCUE	Kildin Sami	kild1236	sjd	RESCUE	вуаннче	vuanːʨe	v u a nː ʨ e	vuanːt͡ɕe	RESCUE			Dellert et al., 2019
-KildinSami_DEFEND	Kildin Sami	kild1236	sjd	DEFEND	пэ̄лль мэ̄ннэ	peːʎː̻eːnːe	p eː ʎː ̻ eː nː e	peːʎː̻eːnːe	DEFEND			Dellert et al., 2019
+KildinSami_DEFEND	Kildin Sami	kild1236	sjd	DEFEND	пэ̄лль мэ̄ннэ	peːʎː̻eːnːe	p eː ʎː̻ eː nː e	peːʎː̻eːnːe	DEFEND			Dellert et al., 2019
 KildinSami_SHOOT	Kildin Sami	kild1236	sjd	SHOOT	ря̄хшкхэ	raːxʃkxe	r aː x ʃ k x e	raːxʃkxe	SHOOT			Dellert et al., 2019
 KildinSami_WIN	Kildin Sami	kild1236	sjd	WIN	вуэйхьтэ	vuejçte	v u e j ç t e	vuejçte	WIN			Dellert et al., 2019
 KildinSami_BEAT	Kildin Sami	kild1236	sjd	BEAT	та̄гкэ	taːɡke	t aː ɡ k e	taːɡke	BEAT			Dellert et al., 2019
@@ -10752,7 +10752,7 @@ KildinSami_WORK_(ACTIVITY)	Kildin Sami	kild1236	sjd	WORK (ACTIVITY)	ро̄бху
 KildinSami_GATHER	Kildin Sami	kild1236	sjd	GATHER	нёавсэ	ɲoavse	ɲ o a v s e	ɲoavse	GATHER			Dellert et al., 2019
 KildinSami_PICK	Kildin Sami	kild1236	sjd	PICK	кышшкэ	kɨʃːke	k ɨ ʃː k e	kɨʃːke	PICK			Dellert et al., 2019
 KildinSami_HUNT	Kildin Sami	kild1236	sjd	HUNT	ме̄ххьцтэ	mʲeːçːʦte	mʲ eː çː ʦ t e	mʲeːçːt͡ste	HUNT			Dellert et al., 2019
-KildinSami_FEED	Kildin Sami	kild1236	sjd	FEED	поҏтэ	por̥te	p o r ̥ t e	por̥te	FEED			Dellert et al., 2019
+KildinSami_FEED	Kildin Sami	kild1236	sjd	FEED	поҏтэ	por̥te	p o r̥ t e	por̥te	FEED			Dellert et al., 2019
 KildinSami_DRAW_MILK	Kildin Sami	kild1236	sjd	DRAW MILK	лаппьсе	lapːɕe	l a pː ɕ e	lapːɕe	DRAW_MILK			Dellert et al., 2019
 KildinSami_CHOP	Kildin Sami	kild1236	sjd	CHOP	ця̄ххкэ	ʨaːxːke	ʨ aː xː k e	t͡ɕaːxːke	CHOP			Dellert et al., 2019
 KildinSami_RIPEN	Kildin Sami	kild1236	sjd	RIPEN	ӣллкнэ	jiːlːkne	j iː lː k n e	jiːlːkne	RIPEN			Dellert et al., 2019
@@ -10775,19 +10775,19 @@ KildinSami_DRESS_UP	Kildin Sami	kild1236	sjd	DRESS UP	туввнэдтэ	tuvːne
 KildinSami_COMB_(VERB)	Kildin Sami	kild1236	sjd	COMB (VERB)	чоагкэ	ʧoaɡke	ʧ o a ɡ k e	t͡ʃoaɡke	COMB_(VERB)			Dellert et al., 2019
 KildinSami_DECORATE	Kildin Sami	kild1236	sjd	DECORATE	ре̄ввклаххьтэ	reːvːklaçːte	r eː vː k l a çː t e	reːvːklaçːte	DECORATE			Dellert et al., 2019
 KildinSami_SAY	Kildin Sami	kild1236	sjd	SAY	е̄ввэ	jeːvːe	j eː vː e	jeːvːe	SAY			Dellert et al., 2019
-KildinSami_SAY	Kildin Sami	kild1236	sjd	SAY	це̄ӆӆьке	ʨeːʎ̥ːke	ʨ eː ʎ ̥ː k e	t͡ɕeːʎ̥ːke	SAY			Dellert et al., 2019
+KildinSami_SAY	Kildin Sami	kild1236	sjd	SAY	це̄ӆӆьке	ʨeːʎ̥ːke	ʨ eː ʎ̥ː k e	t͡ɕeːʎ̥ːke	SAY			Dellert et al., 2019
 KildinSami_SPEAK	Kildin Sami	kild1236	sjd	SPEAK	са̄ррнэ	saːrːne	s aː rː n e	saːrːne	SPEAK			Dellert et al., 2019
 KildinSami_ASK_(INQUIRE)	Kildin Sami	kild1236	sjd	ASK (INQUIRE)	кэ̄дже	keːʤe	k eː ʤ e	keːd͡ʒe	ASK_(INQUIRE)			Dellert et al., 2019
 KildinSami_ASK_(REQUEST)	Kildin Sami	kild1236	sjd	ASK (REQUEST)	а̄нкэ	aːnke	aː n k e	aːnke	ASK_(REQUEST)			Dellert et al., 2019
 KildinSami_ASK_(REQUEST)	Kildin Sami	kild1236	sjd	ASK (REQUEST)	кэ̄дже	keːʤe	k eː ʤ e	keːd͡ʒe	ASK_(REQUEST)			Dellert et al., 2019
 KildinSami_TELL	Kildin Sami	kild1236	sjd	TELL	мо̄а̄йнсе	moːaːjnɕe	m oː aː j n ɕ e	moːaːjnɕe	TELL			Dellert et al., 2019
 KildinSami_CALL_BY_NAME	Kildin Sami	kild1236	sjd	CALL BY NAME	нэ̄ммдэ	neːmːde	n eː mː d e	neːmːde	CALL_BY_NAME			Dellert et al., 2019
-KildinSami_CALL_BY_NAME	Kildin Sami	kild1236	sjd	CALL BY NAME	це̄ӆӆьке	ʨeːʎ̥ːke	ʨ eː ʎ ̥ː k e	t͡ɕeːʎ̥ːke	CALL_BY_NAME			Dellert et al., 2019
+KildinSami_CALL_BY_NAME	Kildin Sami	kild1236	sjd	CALL BY NAME	це̄ӆӆьке	ʨeːʎ̥ːke	ʨ eː ʎ̥ː k e	t͡ɕeːʎ̥ːke	CALL_BY_NAME			Dellert et al., 2019
 KildinSami_CALL	Kildin Sami	kild1236	sjd	CALL	коаххче	koaxːʨe	k o a xː ʨ e	koaxːt͡ɕe	CALL			Dellert et al., 2019
 KildinSami_BOAST	Kildin Sami	kild1236	sjd	BOAST	куарктэ	kuarkte	k u a r k t e	kuarkte	BOAST			Dellert et al., 2019
 KildinSami_THINK_(REFLECT)	Kildin Sami	kild1236	sjd	THINK (REFLECT)	юррьтэ	jurːte	j u rː t e	jurːte	THINK_(REFLECT)			Dellert et al., 2019
 KildinSami_BELIEVE	Kildin Sami	kild1236	sjd	BELIEVE	оасскэ	oasːke	o a sː k e	oasːke	BELIEVE			Dellert et al., 2019
-KildinSami_UNDERSTAND	Kildin Sami	kild1236	sjd	UNDERSTAND	то̄ӆӆькье	toːʎ̥ːkʲe	t oː ʎ ̥ː kʲ e	toːʎ̥ːkʲe	UNDERSTAND			Dellert et al., 2019
+KildinSami_UNDERSTAND	Kildin Sami	kild1236	sjd	UNDERSTAND	то̄ӆӆькье	toːʎ̥ːkʲe	t oː ʎ̥ː kʲ e	toːʎ̥ːkʲe	UNDERSTAND			Dellert et al., 2019
 KildinSami_LEARN	Kildin Sami	kild1236	sjd	LEARN	уххцтэдтэ	uxːʦtedte	u xː ʦ t e d t e	uxːt͡stedte	LEARN			Dellert et al., 2019
 KildinSami_KNOW_(SOMETHING)	Kildin Sami	kild1236	sjd	KNOW (SOMETHING)	тӣдтӭ	tʲiːdtʲe	tʲ iː d tʲ e	tʲiːdtʲe	KNOW_(SOMETHING)			Dellert et al., 2019
 KildinSami_REMEMBER	Kildin Sami	kild1236	sjd	REMEMBER	мушштсэллэ	muʃːtselːe	m u ʃː t s e lː e	muʃːtselːe	REMEMBER			Dellert et al., 2019
@@ -20276,7 +20276,7 @@ TundraNenets_SQUIRREL	Tundra Nenets	nene1249	yrk	SQUIRREL	тӑряв	tərʲɑw	t
 TundraNenets_ELK	Tundra Nenets	nene1249	yrk	ELK	хӑбарта	xəbɑrtɑ	x ə b ɑ r t ɑ	xəbɑrtɑ	ELK			Dellert et al., 2019
 TundraNenets_FOX	Tundra Nenets	nene1249	yrk	FOX	тёня	tʲoːɲɑ	tʲ oː ɲ ɑ	tʲoːɲɑ	FOX			Dellert et al., 2019
 TundraNenets_HARE	Tundra Nenets	nene1249	yrk	HARE	нява	ɲɑwɑ	ɲ ɑ w ɑ	ɲɑwɑ	HARE			Dellert et al., 2019
-TundraNenets_MOUSE	Tundra Nenets	nene1249	yrk	MOUSE	пӣся	pʲīsʲɑ	pʲ i ̄ sʲ ɑ	pʲīsʲɑ	MOUSE			Dellert et al., 2019
+TundraNenets_MOUSE	Tundra Nenets	nene1249	yrk	MOUSE	пӣся	pʲīsʲɑ	pʲ ī sʲ ɑ	pʲīsʲɑ	MOUSE			Dellert et al., 2019
 TundraNenets_WOLF	Tundra Nenets	nene1249	yrk	WOLF	сармик	sɑrmʲik	s ɑ r mʲ i k	sɑrmʲik	WOLF			Dellert et al., 2019
 TundraNenets_BIRD	Tundra Nenets	nene1249	yrk	BIRD	тиртя сармик	tʲirtʲɑsɑrmʲik	tʲ i r tʲ ɑ s ɑ r mʲ i k	tʲirtʲɑ sɑrmʲik	BIRD			Dellert et al., 2019
 TundraNenets_CHICKEN	Tundra Nenets	nene1249	yrk	CHICKEN	хураця	xurɑʦʲɑ	x u r ɑ ʦʲ ɑ	xurɑt͡sʲɑ	CHICKEN			Dellert et al., 2019
@@ -20448,7 +20448,7 @@ TundraNenets_TEA	Tundra Nenets	nene1249	yrk	TEA	сяй	sʲɑj	sʲ ɑ j	sʲɑj	TE
 TundraNenets_LEATHER	Tundra Nenets	nene1249	yrk	LEATHER	тобъёва	toːbjoːwɑ	t oː b j oː w ɑ	toːbjoːwɑ	LEATHER			Dellert et al., 2019
 TundraNenets_WOOL	Tundra Nenets	nene1249	yrk	WOOL	тӑрˮ	tərʔ	t ə r ʔ	tərʔ	WOOL			Dellert et al., 2019
 TundraNenets_CLOTH	Tundra Nenets	nene1249	yrk	CLOTH	тохоˮ(с)	toːxoːʔ	t oː x oː ʔ	toːxoːʔ	CLOTH			Dellert et al., 2019
-TundraNenets_NEEDLE_(FOR_SEWING)	Tundra Nenets	nene1249	yrk	NEEDLE (FOR SEWING)	нӣбя	ɲībʲɑ	ɲ i ̄ bʲ ɑ	ɲībʲɑ	NEEDLE_(FOR_SEWING)			Dellert et al., 2019
+TundraNenets_NEEDLE_(FOR_SEWING)	Tundra Nenets	nene1249	yrk	NEEDLE (FOR SEWING)	нӣбя	ɲībʲɑ	ɲ ī bʲ ɑ	ɲībʲɑ	NEEDLE_(FOR_SEWING)			Dellert et al., 2019
 TundraNenets_THREAD	Tundra Nenets	nene1249	yrk	THREAD	тэ̇мбой	teːmboːj	t eː m b oː j	teːmboːj	THREAD			Dellert et al., 2019
 TundraNenets_BUTTON	Tundra Nenets	nene1249	yrk	BUTTON	сисьʼ(н)	sʲisʲʔ	sʲ i sʲ ʔ	sʲisʲʔ	BUTTON			Dellert et al., 2019
 TundraNenets_KNOT	Tundra Nenets	nene1249	yrk	KNOT	ю	ju	j u	ju	KNOT			Dellert et al., 2019
@@ -20702,7 +20702,7 @@ TundraNenets_ONLY	Tundra Nenets	nene1249	yrk	ONLY	валакӑда	wɑlɑkədɑ	
 TundraNenets_ALREADY	Tundra Nenets	nene1249	yrk	ALREADY	мӑле	məʎeː	m ə ʎ eː	məʎeː	ALREADY			Dellert et al., 2019
 TundraNenets_AGAIN	Tundra Nenets	nene1249	yrk	AGAIN	ӈаниʼ	ŋɑɲiʔ	ŋ ɑ ɲ i ʔ	ŋɑɲiʔ	AGAIN			Dellert et al., 2019
 TundraNenets_IN_VAIN	Tundra Nenets	nene1249	yrk	IN VAIN	хумбанзиˮ	xumbɑnzʲiʔ	x u m b ɑ n zʲ i ʔ	xumbɑnzʲiʔ	IN_VAIN			Dellert et al., 2019
-TundraNenets_IN_FRONT_OF	Tundra Nenets	nene1249	yrk	IN FRONT OF	не̄рня	ɲeː̄rɲɑ	ɲ eː ̄ r ɲ ɑ	ɲeː̄rɲɑ	IN_FRONT_OF			Dellert et al., 2019
+TundraNenets_IN_FRONT_OF	Tundra Nenets	nene1249	yrk	IN FRONT OF	не̄рня	ɲeː̄rɲɑ	ɲ eː̄ r ɲ ɑ	ɲeː̄rɲɑ	IN_FRONT_OF			Dellert et al., 2019
 TundraNenets_BEHIND	Tundra Nenets	nene1249	yrk	BEHIND	тяхӑна	tʲɑxənɑ	tʲ ɑ x ə n ɑ	tʲɑxənɑ	BEHIND			Dellert et al., 2019
 TundraNenets_BELOW_OR_UNDER	Tundra Nenets	nene1249	yrk	BELOW OR UNDER	ӈылна	ŋɨlnɑ	ŋ ɨ l n ɑ	ŋɨlnɑ	BELOW_OR_UNDER			Dellert et al., 2019
 TundraNenets_BELOW_OR_UNDER	Tundra Nenets	nene1249	yrk	BELOW OR UNDER	ӈылняна	ŋɨlɲɑnɑ	ŋ ɨ l ɲ ɑ n ɑ	ŋɨlɲɑnɑ	BELOW_OR_UNDER			Dellert et al., 2019
@@ -20836,7 +20836,7 @@ TundraNenets_LOVE	Tundra Nenets	nene1249	yrk	LOVE	мэ̇не(сь)	meːɲeːsʲ	
 TundraNenets_LIKE	Tundra Nenets	nene1249	yrk	LIKE	хамзӑ(сь)	xɑmzəsʲ	x ɑ m z ə sʲ	xɑmzəsʲ	LIKE			Dellert et al., 2019
 TundraNenets_LAUGH	Tundra Nenets	nene1249	yrk	LAUGH	пися̆нзь	pʲisʲənzʲ	pʲ i sʲ ə n zʲ	pʲisʲənzʲ	LAUGH			Dellert et al., 2019
 TundraNenets_CRY	Tundra Nenets	nene1249	yrk	CRY	ярць	jɑrʦʲ	j ɑ r ʦʲ	jɑrt͡sʲ	CRY			Dellert et al., 2019
-TundraNenets_FEAR_(BE_AFRAID)	Tundra Nenets	nene1249	yrk	FEAR (BE AFRAID)	пӣлюць	pʲīʎuʦʲ	pʲ i ̄ ʎ u ʦʲ	pʲīʎut͡sʲ	FEAR_(BE_AFRAID)			Dellert et al., 2019
+TundraNenets_FEAR_(BE_AFRAID)	Tundra Nenets	nene1249	yrk	FEAR (BE AFRAID)	пӣлюць	pʲīʎuʦʲ	pʲ ī ʎ u ʦʲ	pʲīʎut͡sʲ	FEAR_(BE_AFRAID)			Dellert et al., 2019
 TundraNenets_FLEE	Tundra Nenets	nene1249	yrk	FLEE	хунӑ(сь)	xunəsʲ	x u n ə sʲ	xunəsʲ	FLEE			Dellert et al., 2019
 TundraNenets_ESCAPE	Tundra Nenets	nene1249	yrk	ESCAPE	сюрмбӑ(сь)	sʲurmbəsʲ	sʲ u r m b ə sʲ	sʲurmbəsʲ	ESCAPE			Dellert et al., 2019
 TundraNenets_ESCAPE	Tundra Nenets	nene1249	yrk	ESCAPE	нявотӑ(сь)	ɲɑwoːtəsʲ	ɲ ɑ w oː t ə sʲ	ɲɑwoːtəsʲ	ESCAPE			Dellert et al., 2019

@@ -25,7 +25,7 @@ Bulgarian_SKIN	Bulgarian	bulg1262	bul	SKIN	кожа	kˈɔʒɐ	k ˈɔ ʒ ɐ	kɔʒ
 Bulgarian_BLOOD	Bulgarian	bulg1262	bul	BLOOD	кръв	krɤf	k r ɤ f	krɤf	BLOOD			Dellert et al., 2019
 Bulgarian_BONE	Bulgarian	bulg1262	bul	BONE	кост	kɔst	k ɔ s t	kɔst	BONE			Dellert et al., 2019
 Bulgarian_HEART	Bulgarian	bulg1262	bul	HEART	сърце	sɐrʦˈɛ	s ɐ r ʦ ˈɛ	sɤrt͡sɛ	HEART			Dellert et al., 2019
-Bulgarian_LIVER	Bulgarian	bulg1262	bul	LIVER	черен дроб	ʧˈɛrɛn drɔp	ʧ ˈɛ r ɛ n   d r ɔ p	t͡ʃɛrɛn drɔp	LIVER			Dellert et al., 2019
+Bulgarian_LIVER	Bulgarian	bulg1262	bul	LIVER	черен дроб	ʧˈɛrɛn drɔp	ʧ ˈɛ r ɛ n  d r ɔ p	t͡ʃɛrɛn drɔp	LIVER			Dellert et al., 2019
 Bulgarian_SKY	Bulgarian	bulg1262	bul	SKY	небе	nɛbˈɛ	n ɛ b ˈɛ	nɛbɛ	SKY			Dellert et al., 2019
 Bulgarian_SUN	Bulgarian	bulg1262	bul	SUN	слънце	sɫˈɤnʦɛ	s ɫ ˈɤ n ʦ ɛ	sɫɤnt͡sɛ	SUN			Dellert et al., 2019
 Bulgarian_MOON	Bulgarian	bulg1262	bul	MOON	луна	ɫunˈa	ɫ u n ˈa	ɫuna	MOON			Dellert et al., 2019
@@ -184,7 +184,7 @@ Bulgarian_FLY	Bulgarian	bulg1262	bul	FLY	летя	lɛtʲˈɤ	l ɛ tʲ ˈɤ	lɛt�
 Bulgarian_FLY	Bulgarian	bulg1262	bul	FLY	хвърча	xvˈɤrʧɐ	x v ˈɤ r ʧ ɐ	xvɤrt͡ʃa	FLY			Dellert et al., 2019
 Bulgarian_COME	Bulgarian	bulg1262	bul	COME	ида	ˈidɐ	ˈi d ɐ	ida	COME			Dellert et al., 2019
 Bulgarian_COME	Bulgarian	bulg1262	bul	COME	дойда	dˈɔjdɐ	d ˈɔ j d ɐ	dɔjda	COME			Dellert et al., 2019
-Bulgarian_LAUGH	Bulgarian	bulg1262	bul	LAUGH	смея се	smˈɛjɐ sɛ	s m ˈɛ j ɐ   s ɛ	smɛja sɛ	LAUGH			Dellert et al., 2019
+Bulgarian_LAUGH	Bulgarian	bulg1262	bul	LAUGH	смея се	smˈɛjɐ sɛ	s m ˈɛ j ɐ  s ɛ	smɛja sɛ	LAUGH			Dellert et al., 2019
 Bulgarian_CRY	Bulgarian	bulg1262	bul	CRY	плача	pɫˈaʧɐ	p ɫ ˈa ʧ ɐ	pɫat͡ʃa	CRY			Dellert et al., 2019
 Bulgarian_SEE	Bulgarian	bulg1262	bul	SEE	видя	vˈidʲɐ	v ˈi dʲ ɐ	vidʲa	SEE			Dellert et al., 2019
 Bulgarian_HEAR	Bulgarian	bulg1262	bul	HEAR	чувам	ʧˈuvɐm	ʧ ˈu v ɐ m	t͡ʃuvam	HEAR			Dellert et al., 2019
@@ -884,8 +884,8 @@ Czech_NECK	Czech	czec1258	ces	NECK	krk	kˈr̩k	k ˈr̩ k	krk	NECK			Dellert et a
 Czech_NECK	Czech	czec1258	ces	NECK	týl	tˈiːl	t ˈiː l	tiːl	NECK			Dellert et al., 2019
 Czech_HEAD	Czech	czec1258	ces	HEAD	hlava	ɦlˈava	ɦ l ˈa v a	ɦlava	HEAD			Dellert et al., 2019
 Czech_BACK	Czech	czec1258	ces	BACK	záda	zˈaːda	z ˈaː d a	zaːda	BACK			Dellert et al., 2019
-Czech_BACK	Czech	czec1258	ces	BACK	hřbet	ɦr̝bˈɛt	ɦ r ̝ b ˈɛ t	ɦr̝bɛt	BACK			Dellert et al., 2019
-Czech_BELLY	Czech	czec1258	ces	BELLY	břicho	br̝ˈɪxo	b r ̝ ˈɪ x o	br̝ɪxo	BELLY			Dellert et al., 2019
+Czech_BACK	Czech	czec1258	ces	BACK	hřbet	ɦr̝bˈɛt	ɦ r̝ b ˈɛ t	ɦr̝bɛt	BACK			Dellert et al., 2019
+Czech_BELLY	Czech	czec1258	ces	BELLY	břicho	br̝ˈɪxo	b r̝ ˈɪ x o	br̝ɪxo	BELLY			Dellert et al., 2019
 Czech_BREAST	Czech	czec1258	ces	BREAST	ňadra	ɲˈadra	ɲ ˈa d r a	ɲadra	BREAST			Dellert et al., 2019
 Czech_HAND	Czech	czec1258	ces	HAND	ruka	rˈuka	r ˈu k a	ruka	HAND			Dellert et al., 2019
 Czech_FINGERNAIL	Czech	czec1258	ces	FINGERNAIL	nehet	nˈɛɦɛt	n ˈɛ ɦ ɛ t	nɛɦɛt	FINGERNAIL			Dellert et al., 2019
@@ -908,7 +908,7 @@ Czech_STONE	Czech	czec1258	ces	STONE	kámen	kˈaːmɛn	k ˈaː m ɛ n	kaːmɛn	S
 Czech_EARTH	Czech	czec1258	ces	EARTH	země	zˈɛmɲɛ	z ˈɛ m ɲ ɛ	zɛmɲɛ	EARTH			Dellert et al., 2019
 Czech_DUST	Czech	czec1258	ces	DUST	prach	prˈax	p r ˈa x	prax	DUST			Dellert et al., 2019
 Czech_SMOKE	Czech	czec1258	ces	SMOKE	dým	dˈiːm	d ˈiː m	diːm	SMOKE			Dellert et al., 2019
-Czech_SMOKE	Czech	czec1258	ces	SMOKE	kouř	kˈou̯r̝̊	k ˈo u̯ r ̝̊	koʊ̯r̝̥	SMOKE			Dellert et al., 2019
+Czech_SMOKE	Czech	czec1258	ces	SMOKE	kouř	kˈou̯r̝̊	k ˈo u̯ r̝̊	koʊ̯r̝̥	SMOKE			Dellert et al., 2019
 Czech_FIRE	Czech	czec1258	ces	FIRE	oheň	ˈoɦɛɲ	ˈo ɦ ɛ ɲ	oɦɛɲ	FIRE			Dellert et al., 2019
 Czech_FOG	Czech	czec1258	ces	FOG	mlha	mˈl̩ɦa	m ˈl̩ ɦ a	mlɦa	FOG			Dellert et al., 2019
 Czech_CLOUD	Czech	czec1258	ces	CLOUD	mrak	mrˈak	m r ˈa k	mrak	CLOUD			Dellert et al., 2019
@@ -919,22 +919,22 @@ Czech_ICE	Czech	czec1258	ces	ICE	led	lˈɛt	l ˈɛ t	lɛt	ICE			Dellert et al., 
 Czech_LAKE	Czech	czec1258	ces	LAKE	jezero	jˈɛzɛro	j ˈɛ z ɛ r o	jɛzɛro	LAKE			Dellert et al., 2019
 Czech_FOREST	Czech	czec1258	ces	FOREST	les	lˈɛs	l ˈɛ s	lɛs	FOREST			Dellert et al., 2019
 Czech_MOUNTAIN	Czech	czec1258	ces	MOUNTAIN	hora	ɦˈora	ɦ ˈo r a	ɦora	MOUNTAIN			Dellert et al., 2019
-Czech_RIVER	Czech	czec1258	ces	RIVER	řeka	r̝ˈɛka	r ̝ ˈɛ k a	r̝ɛka	RIVER			Dellert et al., 2019
-Czech_SEA	Czech	czec1258	ces	SEA	moře	mˈor̝ɛ	m ˈo r ̝ ɛ	mor̝ɛ	SEA			Dellert et al., 2019
+Czech_RIVER	Czech	czec1258	ces	RIVER	řeka	r̝ˈɛka	r̝ ˈɛ k a	r̝ɛka	RIVER			Dellert et al., 2019
+Czech_SEA	Czech	czec1258	ces	SEA	moře	mˈor̝ɛ	m ˈo r̝ ɛ	mor̝ɛ	SEA			Dellert et al., 2019
 Czech_FLOWER	Czech	czec1258	ces	FLOWER	květina	kvjˈɛcɪna	k v j ˈɛ c ɪ n a	ɡvjɛcɪna	FLOWER			Dellert et al., 2019
 Czech_GRASS	Czech	czec1258	ces	GRASS	tráva	trˈaːva	t r ˈaː v a	traːva	GRASS			Dellert et al., 2019
-Czech_ROOT	Czech	czec1258	ces	ROOT	kořen	kˈor̝ɛn	k ˈo r ̝ ɛ n	kor̝ɛn	ROOT			Dellert et al., 2019
+Czech_ROOT	Czech	czec1258	ces	ROOT	kořen	kˈor̝ɛn	k ˈo r̝ ɛ n	kor̝ɛn	ROOT			Dellert et al., 2019
 Czech_TREE	Czech	czec1258	ces	TREE	strom	strˈom	s t r ˈo m	strom	TREE			Dellert et al., 2019
 Czech_BARK	Czech	czec1258	ces	BARK	kůra	kˈuːra	k ˈuː r a	kuːra	BARK			Dellert et al., 2019
 Czech_LEAF	Czech	czec1258	ces	LEAF	lupen	lˈupɛn	l ˈu p ɛ n	lupɛn	LEAF			Dellert et al., 2019
 Czech_HORN	Czech	czec1258	ces	HORN	roh	rˈox	r ˈo x	rox	HORN			Dellert et al., 2019
 Czech_FEATHER	Czech	czec1258	ces	FEATHER	pero	pˈɛro	p ˈɛ r o	pɛro	FEATHER			Dellert et al., 2019
-Czech_WING	Czech	czec1258	ces	WING	křídlo	kr̝̊ˈiːdlo	k r ̝̊ ˈiː d l o	ɡr̝iːdlo	WING			Dellert et al., 2019
+Czech_WING	Czech	czec1258	ces	WING	křídlo	kr̝̊ˈiːdlo	k r̝̊ ˈiː d l o	ɡr̝iːdlo	WING			Dellert et al., 2019
 Czech_FINGERNAIL	Czech	czec1258	ces	FINGERNAIL	dráp	drˈaːp	d r ˈaː p	draːp	FINGERNAIL			Dellert et al., 2019
 Czech_FINGERNAIL	Czech	czec1258	ces	FINGERNAIL	pazneht	pˈaznɛxt	p ˈa z n ɛ x t	paznɛxt	FINGERNAIL			Dellert et al., 2019
 Czech_TAIL	Czech	czec1258	ces	TAIL	ocas	ˈoʦas	ˈo ʦ a s	ot͡sas	TAIL			Dellert et al., 2019
 Czech_EGG	Czech	czec1258	ces	EGG	vejce	vˈɛjʦɛ	v ˈɛ j ʦ ɛ	vɛjt͡sɛ	EGG			Dellert et al., 2019
-Czech_ANIMAL	Czech	czec1258	ces	ANIMAL	zvíře	zvˈiːr̝ɛ	z v ˈiː r ̝ ɛ	zviːr̝ɛ	ANIMAL			Dellert et al., 2019
+Czech_ANIMAL	Czech	czec1258	ces	ANIMAL	zvíře	zvˈiːr̝ɛ	z v ˈiː r̝ ɛ	zviːr̝ɛ	ANIMAL			Dellert et al., 2019
 Czech_DOG	Czech	czec1258	ces	DOG	pes	pˈɛs	p ˈɛ s	pɛs	DOG			Dellert et al., 2019
 Czech_BIRD	Czech	czec1258	ces	BIRD	pták	ptˈaːk	p t ˈaː k	ptaːk	BIRD			Dellert et al., 2019
 Czech_FISH	Czech	czec1258	ces	FISH	ryba	rˈɪba	r ˈɪ b a	rɪba	FISH			Dellert et al., 2019
@@ -1021,8 +1021,8 @@ Czech_WHERE	Czech	czec1258	ces	WHERE	kde	ɡdˈɛ	ɡ d ˈɛ	ɡdɛ	WHERE			Dellert
 Czech_HOW	Czech	czec1258	ces	HOW	jak	jˈak	j ˈa k	jak	HOW			Dellert et al., 2019
 Czech_ONE	Czech	czec1258	ces	ONE	jeden	jˈɛdɛn	j ˈɛ d ɛ n	jɛdɛn	ONE			Dellert et al., 2019
 Czech_TWO	Czech	czec1258	ces	TWO	dva	dvˈa	d v ˈa	dva	TWO			Dellert et al., 2019
-Czech_THREE	Czech	czec1258	ces	THREE	tři	tr̝̊ˈɪ	t r ̝̊ ˈɪ	dr̝ɪ	THREE			Dellert et al., 2019
-Czech_FOUR	Czech	czec1258	ces	FOUR	čtyři	ʧtˈɪr̝ɪ	ʧ t ˈɪ r ̝ ɪ	t͡ʃtɪr̝ɪ	FOUR			Dellert et al., 2019
+Czech_THREE	Czech	czec1258	ces	THREE	tři	tr̝̊ˈɪ	t r̝̊ ˈɪ	dr̝ɪ	THREE			Dellert et al., 2019
+Czech_FOUR	Czech	czec1258	ces	FOUR	čtyři	ʧtˈɪr̝ɪ	ʧ t ˈɪ r̝ ɪ	t͡ʃtɪr̝ɪ	FOUR			Dellert et al., 2019
 Czech_FIVE	Czech	czec1258	ces	FIVE	pět	pjˈɛt	p j ˈɛ t	pjɛt	FIVE			Dellert et al., 2019
 Czech_SIX	Czech	czec1258	ces	SIX	šest	ʃˈɛst	ʃ ˈɛ s t	ʃɛst	SIX			Dellert et al., 2019
 Czech_SEVEN	Czech	czec1258	ces	SEVEN	sedm	sˈɛdm̩	s ˈɛ d m̩	sɛdm	SEVEN			Dellert et al., 2019
@@ -1039,18 +1039,18 @@ Czech_BLOW_(OF_WIND)	Czech	czec1258	ces	BLOW (OF WIND)	vát	vˈaːt	v ˈaː t	va
 Czech_BLOW_(OF_WIND)	Czech	czec1258	ces	BLOW (OF WIND)	vanout	vˈanou̯t	v ˈa n o u̯ t	vanoʊ̯t	BLOW_(OF_WIND)			Dellert et al., 2019
 Czech_FLOW	Czech	czec1258	ces	FLOW	téct	tˈɛːʦt	t ˈɛː ʦ t	tɛːt͡st	FLOW			Dellert et al., 2019
 Czech_FALL	Czech	czec1258	ces	FALL	padat	pˈadat	p ˈa d a t	padat	FALL			Dellert et al., 2019
-Czech_BURN	Czech	czec1258	ces	BURN	hořet	ɦˈor̝ɛt	ɦ ˈo r ̝ ɛ t	ɦor̝ɛt	BURN			Dellert et al., 2019
+Czech_BURN	Czech	czec1258	ces	BURN	hořet	ɦˈor̝ɛt	ɦ ˈo r̝ ɛ t	ɦor̝ɛt	BURN			Dellert et al., 2019
 Czech_FREEZE	Czech	czec1258	ces	FREEZE	zamrznout	zˈamr̩znou̯t	z ˈa m r̩ z n o u̯ t	zamrznoʊ̯t	FREEZE			Dellert et al., 2019
 Czech_BREATHE	Czech	czec1258	ces	BREATHE	dýchat	dˈiːxat	d ˈiː x a t	diːxat	BREATHE			Dellert et al., 2019
 Czech_DRINK	Czech	czec1258	ces	DRINK	pít	pˈiːt	p ˈiː t	piːt	DRINK			Dellert et al., 2019
 Czech_EAT	Czech	czec1258	ces	EAT	jíst	jˈiːst	j ˈiː s t	jiːst	EAT			Dellert et al., 2019
 Czech_SLEEP	Czech	czec1258	ces	SLEEP	spát	spˈaːt	s p ˈaː t	spaːt	SLEEP			Dellert et al., 2019
-Czech_DIE	Czech	czec1258	ces	DIE	umřít	ˈumr̝iːt	ˈu m r ̝ iː t	umr̝iːt	DIE			Dellert et al., 2019
+Czech_DIE	Czech	czec1258	ces	DIE	umřít	ˈumr̝iːt	ˈu m r̝ iː t	umr̝iːt	DIE			Dellert et al., 2019
 Czech_WALK	Czech	czec1258	ces	WALK	běžet	bjˈɛʒɛt	b j ˈɛ ʒ ɛ t	bjɛʒɛt	WALK			Dellert et al., 2019
 Czech_SWIM	Czech	czec1258	ces	SWIM	plavat	plˈavat	p l ˈa v a t	plavat	SWIM			Dellert et al., 2019
 Czech_FLY	Czech	czec1258	ces	FLY	létat	lˈɛːtat	l ˈɛː t a t	lɛːtat	FLY			Dellert et al., 2019
-Czech_COME	Czech	czec1258	ces	COME	přijít	pr̝̊ˈɪjiːt	p r ̝̊ ˈɪ j iː t	br̝ɪjiːt	COME			Dellert et al., 2019
-Czech_LAUGH	Czech	czec1258	ces	LAUGH	smát se	smˈaːt sˈɛ	s m ˈaː t   s ˈɛ	smaːt sɛ	LAUGH			Dellert et al., 2019
+Czech_COME	Czech	czec1258	ces	COME	přijít	pr̝̊ˈɪjiːt	p r̝̊ ˈɪ j iː t	br̝ɪjiːt	COME			Dellert et al., 2019
+Czech_LAUGH	Czech	czec1258	ces	LAUGH	smát se	smˈaːt sˈɛ	s m ˈaː t  s ˈɛ	smaːt sɛ	LAUGH			Dellert et al., 2019
 Czech_CRY	Czech	czec1258	ces	CRY	plakat	plˈakat	p l ˈa k a t	plakat	CRY			Dellert et al., 2019
 Czech_SEE	Czech	czec1258	ces	SEE	vidět	vˈɪɟɛt	v ˈɪ ɟ ɛ t	vɪɟɛt	SEE			Dellert et al., 2019
 Czech_HEAR	Czech	czec1258	ces	HEAR	slyšet	slˈɪʃɛt	s l ˈɪ ʃ ɛ t	slɪʃɛt	HEAR			Dellert et al., 2019
@@ -1060,10 +1060,10 @@ Czech_DIG	Czech	czec1258	ces	DIG	kopat	kˈopat	k ˈo p a t	kopat	DIG			Dellert e
 Czech_HOLD	Czech	czec1258	ces	HOLD	držet	dˈr̩ʒɛt	d ˈr̩ ʒ ɛ t	drʒɛt	HOLD			Dellert et al., 2019
 Czech_PUSH	Czech	czec1258	ces	PUSH	posouvat	pˈosou̯vat	p ˈo s o u̯ v a t	posoʊ̯vat	PUSH			Dellert et al., 2019
 Czech_BITE	Czech	czec1258	ces	BITE	kousat	kˈou̯sat	k ˈo u̯ s a t	koʊ̯sat	BITE			Dellert et al., 2019
-Czech_TIE	Czech	czec1258	ces	TIE	přivázat	pr̝̊ˈɪvaːzat	p r ̝̊ ˈɪ v aː z a t	br̝ɪvaːzat	TIE			Dellert et al., 2019
-Czech_RUB	Czech	czec1258	ces	RUB	třít	tr̝̊ˈiːt	t r ̝̊ ˈiː t	dr̝iːt	RUB			Dellert et al., 2019
-Czech_CUT	Czech	czec1258	ces	CUT	řezat	r̝ˈɛzat	r ̝ ˈɛ z a t	r̝ɛzat	CUT			Dellert et al., 2019
-Czech_CUT	Czech	czec1258	ces	CUT	střihat	str̝̊ˈɪɦat	s t r ̝̊ ˈɪ ɦ a t	zdr̝ɪɦat	CUT			Dellert et al., 2019
+Czech_TIE	Czech	czec1258	ces	TIE	přivázat	pr̝̊ˈɪvaːzat	p r̝̊ ˈɪ v aː z a t	br̝ɪvaːzat	TIE			Dellert et al., 2019
+Czech_RUB	Czech	czec1258	ces	RUB	třít	tr̝̊ˈiːt	t r̝̊ ˈiː t	dr̝iːt	RUB			Dellert et al., 2019
+Czech_CUT	Czech	czec1258	ces	CUT	řezat	r̝ˈɛzat	r̝ ˈɛ z a t	r̝ɛzat	CUT			Dellert et al., 2019
+Czech_CUT	Czech	czec1258	ces	CUT	střihat	str̝̊ˈɪɦat	s t r̝̊ ˈɪ ɦ a t	zdr̝ɪɦat	CUT			Dellert et al., 2019
 Czech_PULL	Czech	czec1258	ces	PULL	tahat	tˈaɦat	t ˈa ɦ a t	taɦat	PULL			Dellert et al., 2019
 Czech_PULL	Czech	czec1258	ces	PULL	táhnout	tˈaːɦnou̯t	t ˈaː ɦ n o u̯ t	taːɦnoʊ̯t	PULL			Dellert et al., 2019
 Czech_THROW	Czech	czec1258	ces	THROW	házet	ɦˈaːzɛt	ɦ ˈaː z ɛ t	ɦaːzɛt	THROW			Dellert et al., 2019
@@ -1072,13 +1072,13 @@ Czech_GIVE	Czech	czec1258	ces	GIVE	dát	dˈaːt	d ˈaː t	daːt	GIVE			Dellert e
 Czech_PLAY	Czech	czec1258	ces	PLAY	hrát	ɦrˈaːt	ɦ r ˈaː t	ɦraːt	PLAY			Dellert et al., 2019
 Czech_SING	Czech	czec1258	ces	SING	zpívat	spˈiːvat	s p ˈiː v a t	spiːvat	SING			Dellert et al., 2019
 Czech_DANCE	Czech	czec1258	ces	DANCE	tančit	tˈanʧɪt	t ˈa n ʧ ɪ t	tant͡ʃɪt	DANCE			Dellert et al., 2019
-Czech_SHOOT	Czech	czec1258	ces	SHOOT	střílet	str̝̊ˈiːlɛt	s t r ̝̊ ˈiː l ɛ t	zdr̝iːlɛt	SHOOT			Dellert et al., 2019
+Czech_SHOOT	Czech	czec1258	ces	SHOOT	střílet	str̝̊ˈiːlɛt	s t r̝̊ ˈiː l ɛ t	zdr̝iːlɛt	SHOOT			Dellert et al., 2019
 Czech_KILL	Czech	czec1258	ces	KILL	zabít	zˈabiːt	z ˈa b iː t	zabiːt	KILL			Dellert et al., 2019
 Czech_HUNT	Czech	czec1258	ces	HUNT	uhonit	ˈuɦoɲɪt	ˈu ɦ o ɲ ɪ t	uɦoɲɪt	HUNT			Dellert et al., 2019
 Czech_SEW	Czech	czec1258	ces	SEW	šít	ʃˈiːt	ʃ ˈiː t	ʃiːt	SEW			Dellert et al., 2019
 Czech_WASH	Czech	czec1258	ces	WASH	mýt	mˈiːt	m ˈiː t	miːt	WASH			Dellert et al., 2019
-Czech_WIPE	Czech	czec1258	ces	WIPE	utřít	ˈutr̝̊iːt	ˈu t r ̝̊ iː t	udr̝iːt	WIPE			Dellert et al., 2019
-Czech_SAY	Czech	czec1258	ces	SAY	říct	r̝ˈiːʦt	r ̝ ˈiː ʦ t	r̝iːt͡st	SAY			Dellert et al., 2019
+Czech_WIPE	Czech	czec1258	ces	WIPE	utřít	ˈutr̝̊iːt	ˈu t r̝̊ iː t	udr̝iːt	WIPE			Dellert et al., 2019
+Czech_SAY	Czech	czec1258	ces	SAY	říct	r̝ˈiːʦt	r̝ ˈiː ʦ t	r̝iːt͡st	SAY			Dellert et al., 2019
 Czech_SPEAK	Czech	czec1258	ces	SPEAK	mluvit	mlˈuvɪt	m l ˈu v ɪ t	mluvɪt	SPEAK			Dellert et al., 2019
 Czech_THINK	Czech	czec1258	ces	THINK	myslit	mˈɪslɪt	m ˈɪ s l ɪ t	mɪslɪt	THINK			Dellert et al., 2019
 Czech_KNOW	Czech	czec1258	ces	KNOW	vědět	vjˈɛɟɛt	v j ˈɛ ɟ ɛ t	vjɛɟɛt	KNOW			Dellert et al., 2019
@@ -1247,7 +1247,7 @@ Polish_BLOW_(OF_WIND)	Polish	poli1260	pol	BLOW (OF WIND)	wiać	vʲjaʨ	vʲ j a �
 Polish_FLOW	Polish	poli1260	pol	FLOW	ciec	ʨɛʦ	ʨ ɛ ʦ	t͡ɕɛt͡s	FLOW			Dellert et al., 2019
 Polish_FLOW	Polish	poli1260	pol	FLOW	płynąć	pwˈɨnɔɲʨ	p w ˈɨ n ɔ ɲ ʨ	pwɨnɔnt͡ɕ	FLOW			Dellert et al., 2019
 Polish_FALL	Polish	poli1260	pol	FALL	padać	pˈadaʨ	p ˈa d a ʨ	padat͡ɕ	FALL			Dellert et al., 2019
-Polish_BURN	Polish	poli1260	pol	BURN	palić się	pˈalʲiʨ ɕɛ	p ˈa lʲ i ʨ   ɕ ɛ	palit͡ɕ ɕɛ̃	BURN			Dellert et al., 2019
+Polish_BURN	Polish	poli1260	pol	BURN	palić się	pˈalʲiʨ ɕɛ	p ˈa lʲ i ʨ  ɕ ɛ	palit͡ɕ ɕɛ̃	BURN			Dellert et al., 2019
 Polish_FREEZE	Polish	poli1260	pol	FREEZE	zamarznąć	zamˈaʐnɔɲʨ	z a m ˈa ʐ n ɔ ɲ ʨ	zamaʐnɔnt͡ɕ	FREEZE			Dellert et al., 2019
 Polish_BREATHE	Polish	poli1260	pol	BREATHE	oddychać	ɔddˈɨxaʨ	ɔ d d ˈɨ x a ʨ	ɔdːɨxat͡ɕ	BREATHE			Dellert et al., 2019
 Polish_DRINK	Polish	poli1260	pol	DRINK	pić	pʲiʨ	pʲ i ʨ	pit͡ɕ	DRINK			Dellert et al., 2019
@@ -1259,7 +1259,7 @@ Polish_SWIM	Polish	poli1260	pol	SWIM	pływać	pwˈɨvaʨ	p w ˈɨ v a ʨ	pwɨvat
 Polish_FLY	Polish	poli1260	pol	FLY	latać	lˈataʨ	l ˈa t a ʨ	latat͡ɕ	FLY			Dellert et al., 2019
 Polish_FLY	Polish	poli1260	pol	FLY	lecieć	lˈɛʨɛʨ	l ˈɛ ʨ ɛ ʨ	lɛt͡ɕɛt͡ɕ	FLY			Dellert et al., 2019
 Polish_COME	Polish	poli1260	pol	COME	przyjść	pʂɨjɕʨ	p ʂ ɨ j ɕ ʨ	pʂɨjɕt͡ɕ	COME			Dellert et al., 2019
-Polish_LAUGH	Polish	poli1260	pol	LAUGH	śmiać się	ɕmʲjaʨ ɕɛ	ɕ mʲ j a ʨ   ɕ ɛ	ɕmiat͡ɕ ɕɛ̃	LAUGH			Dellert et al., 2019
+Polish_LAUGH	Polish	poli1260	pol	LAUGH	śmiać się	ɕmʲjaʨ ɕɛ	ɕ mʲ j a ʨ  ɕ ɛ	ɕmiat͡ɕ ɕɛ̃	LAUGH			Dellert et al., 2019
 Polish_CRY	Polish	poli1260	pol	CRY	płakać	pwˈakaʨ	p w ˈa k a ʨ	pwakat͡ɕ	CRY			Dellert et al., 2019
 Polish_SEE	Polish	poli1260	pol	SEE	widzieć	vʲˈiʥɛʨ	vʲ ˈi ʥ ɛ ʨ	vid͡ʑɛt͡ɕ	SEE			Dellert et al., 2019
 Polish_SEE	Polish	poli1260	pol	SEE	zobaczyć	zɔbˈat͡ʂɨʨ	z ɔ b ˈa t͡ʂ ɨ ʨ	zɔbaʈ͡ʂɨt͡ɕ	SEE			Dellert et al., 2019
@@ -1279,7 +1279,7 @@ Polish_THROW	Polish	poli1260	pol	THROW	rzucać	ʐˈuʦaʨ	ʐ ˈu ʦ a ʨ	ʐut͡s
 Polish_BURN	Polish	poli1260	pol	BURN	spalić	spˈalʲiʨ	s p ˈa lʲ i ʨ	spalit͡ɕ	BURN			Dellert et al., 2019
 Polish_GIVE	Polish	poli1260	pol	GIVE	dać	daʨ	d a ʨ	dat͡ɕ	GIVE			Dellert et al., 2019
 Polish_PLAY	Polish	poli1260	pol	PLAY	grać	ɡɾaʨ	ɡ ɾ a ʨ	ɡɾat͡ɕ	PLAY			Dellert et al., 2019
-Polish_PLAY	Polish	poli1260	pol	PLAY	bawić się	bˈavʲiʨ ɕɛ	b ˈa vʲ i ʨ   ɕ ɛ	bavit͡ɕ ɕɛ̃	PLAY			Dellert et al., 2019
+Polish_PLAY	Polish	poli1260	pol	PLAY	bawić się	bˈavʲiʨ ɕɛ	b ˈa vʲ i ʨ  ɕ ɛ	bavit͡ɕ ɕɛ̃	PLAY			Dellert et al., 2019
 Polish_SING	Polish	poli1260	pol	SING	śpiewać	ɕpʲjˈɛvaʨ	ɕ pʲ j ˈɛ v a ʨ	ɕpiɛvat͡ɕ	SING			Dellert et al., 2019
 Polish_DANCE	Polish	poli1260	pol	DANCE	pląsać	plˈɔw̃saʨ	p l ˈɔ w̃ s a ʨ	plɔ̃sat͡ɕ	DANCE			Dellert et al., 2019
 Polish_DANCE	Polish	poli1260	pol	DANCE	tańczyć	tˈaɲt͡ʂɨʨ	t ˈa ɲ t͡ʂ ɨ ʨ	taɲʈ͡ʂɨt͡ɕ	DANCE			Dellert et al., 2019
@@ -1539,7 +1539,7 @@ Belarusian_FIRE	Belarusian	bela1254	bel	FIRE	агонь	aʁˈonʲ	a ʁ ˈo nʲ	a
 Belarusian_FOG	Belarusian	bela1254	bel	FOG	туман	tumˈan	t u m ˈa n	tuman	FOG			Dellert et al., 2019
 Belarusian_CLOUD	Belarusian	bela1254	bel	CLOUD	воблака	vˈoblaka	v ˈo b l a k a	vɔblaka	CLOUD			Dellert et al., 2019
 Belarusian_RAIN	Belarusian	bela1254	bel	RAIN	дождж	doʂʧ	d o ʂ ʧ	dɔʐdʐ	RAIN			Dellert et al., 2019
-Belarusian_SNOW	Belarusian	bela1254	bel	SNOW	снег	snʲeʁ̥	s nʲ e ʁ ̥	snʲɛɣ	SNOW			Dellert et al., 2019
+Belarusian_SNOW	Belarusian	bela1254	bel	SNOW	снег	snʲeʁ̥	s nʲ e ʁ̥	snʲɛɣ	SNOW			Dellert et al., 2019
 Belarusian_ICE	Belarusian	bela1254	bel	ICE	лёд	lʲˈɵt	lʲ ˈɵ t	lʲɔd	ICE			Dellert et al., 2019
 Belarusian_LAKE	Belarusian	bela1254	bel	LAKE	возера	vˈozʲera	v ˈo zʲ e r a	vɔzʲɛra	LAKE			Dellert et al., 2019
 Belarusian_FOREST	Belarusian	bela1254	bel	FOREST	лес	lʲes	lʲ e s	lʲɛs	FOREST			Dellert et al., 2019
@@ -1552,7 +1552,7 @@ Belarusian_ROOT	Belarusian	bela1254	bel	ROOT	корань	kˈoranʲ	k ˈo r a n�
 Belarusian_TREE	Belarusian	bela1254	bel	TREE	дрэва	drˈɛva	d r ˈɛ v a	drɛva	TREE			Dellert et al., 2019
 Belarusian_BARK	Belarusian	bela1254	bel	BARK	кара	karˈa	k a r ˈa	kara	BARK			Dellert et al., 2019
 Belarusian_LEAF	Belarusian	bela1254	bel	LEAF	ліст	lʲist	lʲ i s t	list	LEAF			Dellert et al., 2019
-Belarusian_HORN	Belarusian	bela1254	bel	HORN	рог	roʁ̥	r o ʁ ̥	rɔɣ	HORN			Dellert et al., 2019
+Belarusian_HORN	Belarusian	bela1254	bel	HORN	рог	roʁ̥	r o ʁ̥	rɔɣ	HORN			Dellert et al., 2019
 Belarusian_FEATHER	Belarusian	bela1254	bel	FEATHER	пяро	pʲærˈo	pʲ æ r ˈo	pʲarɔ	FEATHER			Dellert et al., 2019
 Belarusian_WING	Belarusian	bela1254	bel	WING	крыло	krɨlˈo	k r ɨ l ˈo	krɨlɔ	WING			Dellert et al., 2019
 Belarusian_FINGERNAIL	Belarusian	bela1254	bel	FINGERNAIL	кіпцюр	kʲipʲʦʲˈʉr	kʲ i pʲ ʦʲ ˈʉ r	kipt͡sʲur	FINGERNAIL			Dellert et al., 2019

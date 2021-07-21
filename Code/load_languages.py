@@ -288,21 +288,19 @@ class Language(Dataset):
         #Get dictionaries of vowels and consonants
         self.vowels = normalize_dict({v:self.phonemes[v] 
                                       for v in self.phonemes 
-                                      if len(strip_diacritics(v)) > 0 #remove this line once segment word function is updated to include all current diacritics
                                       if strip_diacritics(v)[0] in vowels}, 
                                      default=True, lmbda=0)
         
         self.consonants = normalize_dict({c:self.phonemes[c] 
                                          for c in self.phonemes 
-                                         if len(strip_diacritics(c)) > 0 #remove this line once segment word function is updated to include all current diacritics
                                          if strip_diacritics(c)[0] in consonants}, 
                                          default=True, lmbda=0)
         
         self.tonemes = normalize_dict({t:self.phonemes[t] 
                                        for t in self.phonemes 
-                                       if len(strip_diacritics(t)) > 0 #remove this line once segment word function is updated to include all current diacritics
                                        if strip_diacritics(t)[0] in tonemes}, 
                                       default=True, lmbda=0)
+        
         #Designate language as tonal if it has tonemes
         if len(self.tonemes) > 0:
             self.tonal = True
