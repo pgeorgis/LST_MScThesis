@@ -170,7 +170,9 @@ def compact_diacritics(segment):
         #If the segment is a toneme, use the first component as its base
         if base[0] in tonemes:
             base = base[0]
-        seg_id = phone_features[base]
+        
+        #Create copy of original feature dictionary, or else it modifies the source
+        seg_id = {feature:phone_features[base][feature] for feature in phone_features[base]}
         
         #Modifiers are whichever diacritics may have been in the segment string
         modifiers = [ch for ch in segment if ch not in base]
@@ -180,6 +182,24 @@ def compact_diacritics(segment):
             for effect in diacritics_effects[modifier]:
                 feature, value = effect[0], effect[1] 
                 seg_id[feature] = value
+                
+            if modifier == '̞': #lowered diacritic, for turning fricatives into approximants
+                if base[0] in fricative:
+                    seg_id['approximant'] = 1
+                    seg_id['consonantal'] = 0
+                    seg_id['delayedRelease'] = 0
+                    seg_id['sonorant'] = 1
+            
+            elif modifier == '̝': #raised diacritic
+                #for turning approximants/trills into fricativized approximants
+                if base[0] in approximants+trills:
+                    seg_id['delayedRelease'] = 1
+                    
+                #for turning fricatives into plosives
+                elif base[0] in fricative:
+                    seg_id['continuant'] = 0
+                    seg_id['delayedRelease'] = 0
+        
         return seg_id
 
 #%%
@@ -388,14 +408,20 @@ def common_features(segment_list,
     common = [(feature, feature_values[feature][0]) for feature in feature_values if len(feature_values[feature]) == 1]
     return common
 
-def different_features(seg1, seg2):
+def different_features(seg1, seg2, return_list=False):
     diffs = []
     seg1_id = phone_id(seg1)
     seg2_id = phone_id(seg2)
     for feature in seg1_id:
         if seg2_id[feature] != seg1_id[feature]:
             diffs.append(feature)
-    return diffs
+    if return_list == True:
+        return diffs
+    else:
+        if len(diffs) > 0:
+            print(f'\t\t\t{seg1}\t\t{seg2}')
+            for feature in diffs:
+                print(f'{feature}\t\t{seg1_id[feature]}\t\t{seg2_id[feature]}')
 
 def lookup_segments(features, values, 
                     segment_list=all_sounds):
