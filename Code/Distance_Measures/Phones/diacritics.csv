@@ -4,7 +4,7 @@ Diacritic	Description	Type	Feature	Value	Position
 ʼ	ejective	airstream mechanism	constrictedGlottis	+	post
 ʼ	ejective	airstream mechanism	raisedLarynxEjective	+	post
 ʼ	ejective	airstream mechanism	spreadGlottis	-	post
-ʼ	ejective	airstream mechanism	﻿loweredLarynxImplosive	-	post
+ʼ	ejective	airstream mechanism	loweredLarynxImplosive	-	post
 ͈	fortis	articulation strength	fortis	+	post
 ͉	lenis	articulation strength	fortis	-	post
 ̟	advanced	backness modification			post
@@ -18,7 +18,7 @@ Diacritic	Description	Type	Feature	Value	Position
 ̻	laminal	coronal modifications	coronal	+	post
 ̻	laminal	coronal modifications	distributed	+	post
 ͇	non-sibilant	coronal modifications	strident	-	post
-ᴱ	epilaryngeal source	epilaryngeal phonation	﻿epilaryngealSource	+	post
+ᴱ	epilaryngeal source	epilaryngeal phonation	epilaryngealSource	+	post
 ̞	lowered	height modifications			post
 ̝	raised	height modifications			post
 ʰ	aspirated	laryngeal	spreadGlottis	+	post
@@ -34,8 +34,8 @@ Diacritic	Description	Type	Feature	Value	Position
 ̃	nasalized	nasality	nasal	+	post
 ͊ 	non-nasal	nasality	nasal	-	post
 ˡ	lateral release	release	lateral	+	post
-ˡ	lateral release	release	﻿delayedRelease	+	post
-̚	unreleased	release	﻿delayedRelease	-	post
+ˡ	lateral release	release	delayedRelease	+	post
+̚	unreleased	release	delayedRelease	-	post
 ˞	rhotacized	rhoticity	coronal	+	post
 ˞	rhotacized	rhoticity	distributed	+	post
 ˞	rhotacized	rhoticity	anterior	-	post
@@ -56,8 +56,8 @@ Diacritic	Description	Type	Feature	Value	Position
 ʲ	palatalized	secondary articulation	low	-	post
 ˤ	pharyngealized	secondary articulation	low	+	post
 ˤ	pharyngealized	secondary articulation	back	+	post
-ˤ	pharyngealized	secondary articulation	﻿retractedTongueRoot	+	post
-ˤ	pharyngealized	secondary articulation	﻿advancedTongueRoot	-	post
+ˤ	pharyngealized	secondary articulation	retractedTongueRoot	+	post
+ˤ	pharyngealized	secondary articulation	advancedTongueRoot	-	post
 ˠ	velarized	secondary articulation	back	+	post
 ˠ	velarized	secondary articulation	high	+	post
 ˠ	velarized	secondary articulation	low	-	post
@@ -75,10 +75,10 @@ Diacritic	Description	Type	Feature	Value	Position
 ̯	non-syllabic	syllabicity	syllabic	-	post
 ̩	syllabic	syllabicity	syllabic	+	post
 ̍	syllabic	syllabicity	syllabic	+	post
-̘	advanced tongue root	tongue root state	﻿advancedTongueRoot	+	post
-̘	advanced tongue root	tongue root state	﻿retractedTongueRoot	-	post
-̙	retracted tongue root	tongue root state	﻿retractedTongueRoot	+	post
-̙	retracted tongue root	tongue root state	﻿advancedTongueRoot	-	post
+̘	advanced tongue root	tongue root state	advancedTongueRoot	+	post
+̘	advanced tongue root	tongue root state	retractedTongueRoot	-	post
+̙	retracted tongue root	tongue root state	retractedTongueRoot	+	post
+̙	retracted tongue root	tongue root state	advancedTongueRoot	-	post
 ̤	breathy voiced	voice quality	spreadGlottis	+	post
 ̤	breathy voiced	voice quality	constrictedGlottis	-	post
 ̤	breathy voiced	voice quality	periodicGlottalSource	+	post

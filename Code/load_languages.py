@@ -390,6 +390,16 @@ class Language(Dataset):
         self.info_contents[''.join(padded[2:-2])] = info_content
         return info_content
     
+    def phone_dendrogram(self, dist_func, sim, method='complete', title=None):
+        if title == None:
+            title = f'{self.name} Phonemes'
+        draw_dendrogram(group=sorted(list(self.phonemes.keys())), 
+                        labels=sorted(list(self.phonemes.keys())),
+                        dist_func=dist_func, 
+                        sim=sim,
+                        method=method,
+                        title=title)
+    
 
 #%%
 #LOAD FAMILIES AND WRITE VOCABULARY INDEX FILES

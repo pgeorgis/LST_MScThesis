@@ -493,6 +493,41 @@ def dice_sim(vec1, vec2):
     jaccard = jaccard_sim(vec1, vec2)
     return (2*jaccard) / (1+jaccard)
 
+
+#Weights
+feature_weight_data = pd.read_csv('Phones/distinctive_features.csv')
+
+feature_weights = {feature_weight_data.Feature.to_list()[i]:feature_weight_data['Normalized Weight'].to_list()[i]
+                   for i in range(len(feature_weight_data))}
+
+def weighted_hamming(seg1, seg2):
+    diffs = 0
+    seg1_id, seg2_id = phone_id(seg1), phone_id(seg2)
+    for feature in seg1_id:
+        if seg1_id[feature] != seg2_id[feature]:
+            diffs += feature_weights[feature]
+    return diffs/len(seg1_id)
+
+
+def weighted_jaccard(seg1, seg2):
+    union, intersection = 0, 0
+    seg1_id, seg2_id = phone_id(seg1), phone_id(seg2)
+    for feature in seg1_id:
+        if ((seg1_id[feature] == 1) and (seg2_id[feature] == 1)):
+            intersection += feature_weights[feature]
+        if ((seg1_id[feature] == 1) or (seg2_id[feature] == 1)):
+            union += feature_weights[feature]
+    return intersection/union
+            
+
+def weighted_dice(seg1, seg2):
+    w_jaccard = weighted_jaccard(seg1, seg2)
+    return (2*w_jaccard) / (1+w_jaccard)
+
+
+
+
+
 #PHONE COMPARISON
 checked_phone_sims = {}
 def phone_sim(phone1, phone2, method='dice', exclude_features=[]):
