@@ -500,28 +500,26 @@ feature_weight_data = pd.read_csv('Phones/distinctive_features.csv')
 feature_weights = {feature_weight_data.Feature.to_list()[i]:feature_weight_data['Normalized Weight'].to_list()[i]
                    for i in range(len(feature_weight_data))}
 
-def weighted_hamming(seg1, seg2):
+def weighted_hamming(vec1, vec2, weights=feature_weights):
     diffs = 0
-    seg1_id, seg2_id = phone_id(seg1), phone_id(seg2)
-    for feature in seg1_id:
-        if seg1_id[feature] != seg2_id[feature]:
-            diffs += feature_weights[feature]
-    return diffs/len(seg1_id)
+    for feature in vec1:
+        if vec1[feature] != vec2[feature]:
+            diffs += weights[feature]
+    return diffs/len(vec1)
 
 
-def weighted_jaccard(seg1, seg2):
+def weighted_jaccard(vec1, vec2, weights=feature_weights):
     union, intersection = 0, 0
-    seg1_id, seg2_id = phone_id(seg1), phone_id(seg2)
-    for feature in seg1_id:
-        if ((seg1_id[feature] == 1) and (seg2_id[feature] == 1)):
-            intersection += feature_weights[feature]
-        if ((seg1_id[feature] == 1) or (seg2_id[feature] == 1)):
-            union += feature_weights[feature]
+    for feature in vec1:
+        if ((vec1[feature] == 1) and (vec2[feature] == 1)):
+            intersection += weights[feature]
+        if ((vec1[feature] == 1) or (vec2[feature] == 1)):
+            union += weights[feature]
     return intersection/union
             
 
-def weighted_dice(seg1, seg2):
-    w_jaccard = weighted_jaccard(seg1, seg2)
+def weighted_dice(vec1, vec2, weights=feature_weights):
+    w_jaccard = weighted_jaccard(vec1, vec2, weights)
     return (2*w_jaccard) / (1+w_jaccard)
 
 
@@ -530,14 +528,14 @@ def weighted_dice(seg1, seg2):
 
 #PHONE COMPARISON
 checked_phone_sims = {}
-def phone_sim(phone1, phone2, method='dice', exclude_features=[]):
+def phone_sim(phone1, phone2, distance='dice', exclude_features=[]):
     """Returns the similarity of the features of the two phones according to
     the specified distance/similarity function;
     Features not to be included in the comparison should be passed as a list to
     the exclude_features parameter (by default no features excluded)"""
     
     #If the phone similarity has already been calculated for this pair, retrieve it
-    reference = (phone1, phone2, method, tuple(exclude_features))
+    reference = (phone1, phone2, distance, tuple(exclude_features))
     if reference in checked_phone_sims:
         return checked_phone_sims[reference]
     
@@ -556,13 +554,16 @@ def phone_sim(phone1, phone2, method='dice', exclude_features=[]):
     measures = {'cosine':vector_sim,
                 'dice':dice_sim,
                 'hamming':hamming_distance,
-                'jaccard':jaccard_sim}
-    dist_func = measures[method]
+                'jaccard':jaccard_sim,
+                'weighted_hamming':weighted_hamming,
+                'weighted_jaccard':weighted_jaccard,
+                'weighted_dice':weighted_dice}
+    dist_func = measures[distance]
     
     score = dist_func(phone_id1, phone_id2)
     
     #If method is Hamming, convert distance to similarity
-    if method == 'hamming':
+    if distance in ['hamming', 'weighted_hamming']:
         score = 1 - score
         
     #Save the phonetic similarity score to dictionary, return score
@@ -572,8 +573,9 @@ def phone_sim(phone1, phone2, method='dice', exclude_features=[]):
 
 def compare_measures(seg1, seg2):
     measures = {}
-    for method in ['cosine', 'dice', 'hamming', 'jaccard']:
-        measures[method] = phone_sim(seg1, seg2, method)
+    for dist_func in ['cosine', 'dice', 'hamming', 'jaccard',
+                   'weighted_hamming', 'weighted_dice', 'weighted_jaccard']:
+        measures[dist_func] = phone_sim(seg1, seg2, method)
     return measures
 
 
@@ -598,7 +600,7 @@ def log_phone_sim_sonority(seg1, seg2, method='dice', max_penalty=-7):
         phon_sim = max_penalty
     
     #Sonority difference is number of levels of difference in sonority
-    son_diff = abs(get_sonority(seg1) - get_sonority(seg2))
+    son_diff = abs(get_sonlookupority(seg1) - get_sonority(seg2))
     
     #Sonority similarity is 1 - normalized sonority difference
     try:

@@ -153,7 +153,7 @@ def list_mostsimilar(item1, comp_group, dist_func, n=5, sim=True, return_=False)
         for item in sim_list[:n]:
             print(f'{item[0].name}: {round(item[1], 2)}')
 
-def distance_matrix(group, dist_func, sim=False):
+def distance_matrix(group, dist_func, sim=False, **kwargs):
     mat = []
     already_checked = []
     group_sims = {}
@@ -165,7 +165,7 @@ def distance_matrix(group, dist_func, sim=False):
                 item2 = group[j]
                 distance_score = 0
                 if i != j:
-                    dist = dist_func(item1, item2)
+                    dist = dist_func(item1, item2, **kwargs)
                     if sim == True:
                         dist = 1 - min(1, dist)
                     distance_score += dist
@@ -179,10 +179,12 @@ def distance_matrix(group, dist_func, sim=False):
         mat.append(vec)
     return mat
 
-def linkage_matrix(group, dist_func, sim=False, method = 'average', metric="euclidean"):
+def linkage_matrix(group, dist_func, sim=False, 
+                   method = 'average', metric="euclidean",
+                   **kwargs):
     """Methods: average, centroid, median, single, complete, ward, weighted
         See: https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.linkage.html"""
-    mat = distance_matrix(group, dist_func, sim)
+    mat = distance_matrix(group, dist_func, sim, **kwargs)
     mat = np.array(mat)
     dists = squareform(mat)
     linkage_matrix = linkage(dists, method, metric)
@@ -191,7 +193,8 @@ def linkage_matrix(group, dist_func, sim=False, method = 'average', metric="eucl
 def draw_dendrogram(group, dist_func, title=None, sim=False, labels=None, 
                     p=30, method='average', metric='euclidean',
                     orientation='left', 
-                    save_directory=''):
+                    save_directory='',
+                    **kwargs):
     sns.set(font_scale=1.0)
     if len(group) >= 100:
         plt.figure(figsize=(20,20))
@@ -199,7 +202,7 @@ def draw_dendrogram(group, dist_func, title=None, sim=False, labels=None,
         plt.figure(figsize=(10,10))
     else:
         plt.figure(figsize=(10,8))
-    lm = linkage_matrix(group, dist_func, sim, method, metric)
+    lm = linkage_matrix(group, dist_func, sim, method, metric, **kwargs)
     dendrogram(lm, p=p, orientation=orientation, labels=labels)
     if title != None:
         plt.title(title, fontsize=30)
@@ -208,8 +211,9 @@ def draw_dendrogram(group, dist_func, title=None, sim=False, labels=None,
 
 def plot_distances(group, dist_func=None, sim=False, dimensions=2, labels=None, 
                    title=None, plotsize=None, invert_yaxis=False, invert_xaxis=False,
-                   directory=''):   
-    dm = distance_matrix(group, dist_func, sim)
+                   directory='',
+                   **kwargs):   
+    dm = distance_matrix(group, dist_func, sim, **kwargs)
     adist = np.array(dm)
     amax = np.amax(adist)
     adist /= amax

@@ -390,15 +390,44 @@ class Language(Dataset):
         self.info_contents[''.join(padded[2:-2])] = info_content
         return info_content
     
-    def phone_dendrogram(self, dist_func, sim, method='complete', title=None):
+    def phone_dendrogram(self, 
+                         distance='weighted_dice', 
+                         method='complete', exclude_length=True,
+                         title=None):
         if title == None:
             title = f'{self.name} Phonemes'
-        draw_dendrogram(group=sorted(list(self.phonemes.keys())), 
-                        labels=sorted(list(self.phonemes.keys())),
-                        dist_func=dist_func, 
-                        sim=sim,
+            
+        phonemes = list(self.phonemes.keys())
+        
+        if exclude_length == True:
+            phonemes = list(set(strip_ch(p, ['ː']) for p in phonemes))
+        
+        draw_dendrogram(group=phonemes, 
+                        labels=phonemes,
+                        dist_func=phone_sim,
+                        sim=True,
+                        distance=distance,
                         method=method,
                         title=title)
+        
+    def phone_plot(self, 
+                   distance="weighted_dice",
+                   exclude_length=True, 
+                   title=None):
+        if title == None:
+            title = f'{self.name} Phonemes'
+            
+        phonemes = list(self.phonemes.keys())
+        
+        if exclude_length == True:
+            phonemes = list(set(strip_ch(p, ['ː']) for p in phonemes))
+        
+        plot_distances(group=phonemes, 
+                       labels=phonemes,
+                       dist_func=phone_sim, 
+                       distance=distance,
+                       title=title)
+    
     
 
 #%%
