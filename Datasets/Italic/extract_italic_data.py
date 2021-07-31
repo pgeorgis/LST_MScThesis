@@ -123,7 +123,10 @@ conversion_dict = {#Nasal segments
                    ('ä', 'Istro Romanian'):'æ',
                    
                    #e.g. <yo> in Spanish, /ʝ/ is the typical transcription
-                   ('ʑ', 'Castilian Spanish'):'ʝ', 
+                   ('ʑ', 'Castilian Spanish'):'ʝ',
+                   
+                   #Spanish has no vowel /ɑ/, likely a typo
+                   ('ɑ', 'Castilian Spanish'):'a', 
                    
                    
                    #GENERAL REPLACEMENTS

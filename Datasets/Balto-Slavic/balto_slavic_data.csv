@@ -1124,7 +1124,7 @@ Polish_FIRE	Polish	poli1260	pol	FIRE	ogień	ˈɔɡʲjɛɲ	ˈɔ ɡʲ j ɛ ɲ	ɔɡ
 Polish_FOG	Polish	poli1260	pol	FOG	mgła	mɡwa	m ɡ w a	mɡwa	FOG			Dellert et al., 2019
 Polish_CLOUD	Polish	poli1260	pol	CLOUD	obłok	ˈɔbwɔk	ˈɔ b w ɔ k	ɔbwɔk	CLOUD			Dellert et al., 2019
 Polish_CLOUD	Polish	poli1260	pol	CLOUD	chmura	xmˈuɾa	x m ˈu ɾ a	xmuɾa	CLOUD			Dellert et al., 2019
-Polish_RAIN	Polish	poli1260	pol	RAIN	deszcz	dɛʂt͡ʂ	d ɛ ʂ t͡ʂ	dɛʂʈ͡ʂ	RAIN			Dellert et al., 2019
+Polish_RAIN	Polish	poli1260	pol	RAIN	deszcz	dɛʂʈ͡ʂ	d ɛ ʂ ʈ͡ʂ	dɛʂʈ͡ʂ	RAIN			Dellert et al., 2019
 Polish_SNOW	Polish	poli1260	pol	SNOW	śnieg	ɕɲɛk	ɕ ɲ ɛ k	ɕniɛk	SNOW			Dellert et al., 2019
 Polish_ICE	Polish	poli1260	pol	ICE	lód	lut	l u t	lut	ICE			Dellert et al., 2019
 Polish_LAKE	Polish	poli1260	pol	LAKE	jezioro	jɛʑˈɔɾɔ	j ɛ ʑ ˈɔ ɾ ɔ	jɛʑɔɾɔ	LAKE			Dellert et al., 2019
@@ -1156,8 +1156,8 @@ Polish_BERRY	Polish	poli1260	pol	BERRY	jagoda	jaɡˈɔda	j a ɡ ˈɔ d a	jaɡɔd
 Polish_SEED	Polish	poli1260	pol	SEED	nasiono	naɕˈɔnɔ	n a ɕ ˈɔ n ɔ	siew / ɕɛv	SEED			Dellert et al., 2019
 Polish_ASH	Polish	poli1260	pol	ASH	popiół	pˈɔpʲjuw	p ˈɔ pʲ j u w	pɔpiuw	ASH			Dellert et al., 2019
 Polish_SAND	Polish	poli1260	pol	SAND	piasek	pʲjˈasɛk	pʲ j ˈa s ɛ k	piasɛk	SAND			Dellert et al., 2019
-Polish_PERSON	Polish	poli1260	pol	PERSON	człowiek	t͡ʂwˈɔvʲjɛk	t͡ʂ w ˈɔ vʲ j ɛ k	ʈ͡ʂwɔviɛk	PERSON			Dellert et al., 2019
-Polish_MAN	Polish	poli1260	pol	MAN	mężczyzna	mɛw̃ʂt͡ʂˈɨzna	m ɛ w̃ ʂ t͡ʂ ˈɨ z n a	mɛ̃ʂʈ͡ʂɨzna	MAN			Dellert et al., 2019
+Polish_PERSON	Polish	poli1260	pol	PERSON	człowiek	ʈ͡ʂwˈɔvʲjɛk	ʈ͡ʂ w ˈɔ vʲ j ɛ k	ʈ͡ʂwɔviɛk	PERSON			Dellert et al., 2019
+Polish_MAN	Polish	poli1260	pol	MAN	mężczyzna	mɛw̃ʐʈ͡ʂˈɨzna	m ɛ w̃ ʐ ʈ͡ʂ ˈɨ z n a	mɛ̃ʂʈ͡ʂɨzna	MAN			Dellert et al., 2019
 Polish_WOMAN	Polish	poli1260	pol	WOMAN	kobieta	kɔbʲjˈɛta	k ɔ bʲ j ˈɛ t a	kɔbiɛta	WOMAN			Dellert et al., 2019
 Polish_FATHER	Polish	poli1260	pol	FATHER	ojciec	ˈɔjʨɛʦ	ˈɔ j ʨ ɛ ʦ	ɔjt͡ɕɛt͡s	FATHER			Dellert et al., 2019
 Polish_MOTHER	Polish	poli1260	pol	MOTHER	matka	mˈatka	m ˈa t k a	matka	MOTHER			Dellert et al., 2019
@@ -1167,7 +1167,7 @@ Polish_NAME	Polish	poli1260	pol	NAME	imię	ˈimʲjɛ	ˈi mʲ j ɛ	imiɛ̃	NAME		
 Polish_STICK	Polish	poli1260	pol	STICK	kij	kʲij	kʲ i j	kij	STICK			Dellert et al., 2019
 Polish_STICK	Polish	poli1260	pol	STICK	laska	lˈaska	l ˈa s k a	laska	STICK			Dellert et al., 2019
 Polish_MEAT	Polish	poli1260	pol	MEAT	mięso	mʲjˈɛw̃sɔ	mʲ j ˈɛ w̃ s ɔ	miɛ̃sɔ	MEAT			Dellert et al., 2019
-Polish_FAT	Polish	poli1260	pol	FAT	tłuszcz	twuʂt͡ʂ	t w u ʂ t͡ʂ	twuʂʈ͡ʂ	FAT			Dellert et al., 2019
+Polish_FAT	Polish	poli1260	pol	FAT	tłuszcz	twuʂʈ͡ʂ	t w u ʂ ʈ͡ʂ	twuʂʈ͡ʂ	FAT			Dellert et al., 2019
 Polish_SALT	Polish	poli1260	pol	SALT	sól	sul	s u l	sul	SALT			Dellert et al., 2019
 Polish_CLOTHES	Polish	poli1260	pol	CLOTHES	odzież	ˈɔʥɛʂ	ˈɔ ʥ ɛ ʂ	ɔd͡ʑɛʂ	CLOTHES			Dellert et al., 2019
 Polish_PATH_OR_ROAD	Polish	poli1260	pol	PATH OR ROAD	ścieżka	ɕʨˈɛʂka	ɕ ʨ ˈɛ ʂ k a	ɕt͡ɕɛʂka	PATH_OR_ROAD			Dellert et al., 2019
@@ -1197,9 +1197,9 @@ Polish_WET	Polish	poli1260	pol	WET	mokry	mˈɔkɾɨ	m ˈɔ k ɾ ɨ	mɔkɾɨ	WET	
 Polish_DRY	Polish	poli1260	pol	DRY	suchy	sˈuxɨ	s ˈu x ɨ	suxɨ	DRY			Dellert et al., 2019
 Polish_FULL	Polish	poli1260	pol	FULL	pełny	pˈɛwnɨ	p ˈɛ w n ɨ	pɛwnɨ	FULL			Dellert et al., 2019
 Polish_DIRTY	Polish	poli1260	pol	DIRTY	brudny	bɾˈudnɨ	b ɾ ˈu d n ɨ	bɾudnɨ	DIRTY			Dellert et al., 2019
-Polish_BLACK	Polish	poli1260	pol	BLACK	czarny	t͡ʂˈaɾnɨ	t͡ʂ ˈa ɾ n ɨ	ʈ͡ʂaɾnɨ	BLACK			Dellert et al., 2019
+Polish_BLACK	Polish	poli1260	pol	BLACK	czarny	ʈ͡ʂˈaɾnɨ	ʈ͡ʂ ˈa ɾ n ɨ	ʈ͡ʂaɾnɨ	BLACK			Dellert et al., 2019
 Polish_WHITE	Polish	poli1260	pol	WHITE	biały	bʲjˈawɨ	bʲ j ˈa w ɨ	biawɨ	WHITE			Dellert et al., 2019
-Polish_RED	Polish	poli1260	pol	RED	czerwony	t͡ʂɛɾvˈɔnɨ	t͡ʂ ɛ ɾ v ˈɔ n ɨ	ʈ͡ʂɛɾvɔnɨ	RED			Dellert et al., 2019
+Polish_RED	Polish	poli1260	pol	RED	czerwony	ʈ͡ʂɛɾvˈɔnɨ	ʈ͡ʂ ɛ ɾ v ˈɔ n ɨ	ʈ͡ʂɛɾvɔnɨ	RED			Dellert et al., 2019
 Polish_YELLOW	Polish	poli1260	pol	YELLOW	żółty	ʐˈuwtɨ	ʐ ˈu w t ɨ	ʐuwtɨ	YELLOW			Dellert et al., 2019
 Polish_GREEN	Polish	poli1260	pol	GREEN	zielony	ʑɛlˈɔnɨ	ʑ ɛ l ˈɔ n ɨ	ʑɛlɔnɨ	GREEN			Dellert et al., 2019
 Polish_STUPID	Polish	poli1260	pol	STUPID	głupi	ɡwˈupʲi	ɡ w ˈu pʲ i	ɡwupi	STUPID			Dellert et al., 2019
@@ -1230,7 +1230,7 @@ Polish_HOW	Polish	poli1260	pol	HOW	jak	jak	j a k	jak	HOW			Dellert et al., 2019
 Polish_ONE	Polish	poli1260	pol	ONE	jeden	jˈɛdɛn	j ˈɛ d ɛ n	jɛdɛn	ONE			Dellert et al., 2019
 Polish_TWO	Polish	poli1260	pol	TWO	dwa	dva	d v a	dva	TWO			Dellert et al., 2019
 Polish_THREE	Polish	poli1260	pol	THREE	trzy	tʂɨ	t ʂ ɨ	tʂɨ	THREE			Dellert et al., 2019
-Polish_FOUR	Polish	poli1260	pol	FOUR	cztery	t͡ʂtˈɛɾɨ	t͡ʂ t ˈɛ ɾ ɨ	ʈ͡ʂtɛɾɨ	FOUR			Dellert et al., 2019
+Polish_FOUR	Polish	poli1260	pol	FOUR	cztery	ʈ͡ʂtˈɛɾɨ	ʈ͡ʂ t ˈɛ ɾ ɨ	ʈ͡ʂtɛɾɨ	FOUR			Dellert et al., 2019
 Polish_FIVE	Polish	poli1260	pol	FIVE	pięć	pʲjɛɲʨ	pʲ j ɛ ɲ ʨ	piɛnt͡ɕ	FIVE			Dellert et al., 2019
 Polish_SIX	Polish	poli1260	pol	SIX	sześć	ʂɛɕʨ	ʂ ɛ ɕ ʨ	ʂɛɕt͡ɕ	SIX			Dellert et al., 2019
 Polish_SEVEN	Polish	poli1260	pol	SEVEN	siedem	ɕˈɛdɛm	ɕ ˈɛ d ɛ m	ɕɛdɛm	SEVEN			Dellert et al., 2019
@@ -1262,7 +1262,7 @@ Polish_COME	Polish	poli1260	pol	COME	przyjść	pʂɨjɕʨ	p ʂ ɨ j ɕ ʨ	pʂɨj
 Polish_LAUGH	Polish	poli1260	pol	LAUGH	śmiać się	ɕmʲjaʨ ɕɛ	ɕ mʲ j a ʨ  ɕ ɛ	ɕmiat͡ɕ ɕɛ̃	LAUGH			Dellert et al., 2019
 Polish_CRY	Polish	poli1260	pol	CRY	płakać	pwˈakaʨ	p w ˈa k a ʨ	pwakat͡ɕ	CRY			Dellert et al., 2019
 Polish_SEE	Polish	poli1260	pol	SEE	widzieć	vʲˈiʥɛʨ	vʲ ˈi ʥ ɛ ʨ	vid͡ʑɛt͡ɕ	SEE			Dellert et al., 2019
-Polish_SEE	Polish	poli1260	pol	SEE	zobaczyć	zɔbˈat͡ʂɨʨ	z ɔ b ˈa t͡ʂ ɨ ʨ	zɔbaʈ͡ʂɨt͡ɕ	SEE			Dellert et al., 2019
+Polish_SEE	Polish	poli1260	pol	SEE	zobaczyć	zɔbˈaʈ͡ʂɨʨ	z ɔ b ˈa ʈ͡ʂ ɨ ʨ	zɔbaʈ͡ʂɨt͡ɕ	SEE			Dellert et al., 2019
 Polish_HEAR	Polish	poli1260	pol	HEAR	słyszeć	swˈɨʂɛʨ	s w ˈɨ ʂ ɛ ʨ	swɨʂɛt͡ɕ	HEAR			Dellert et al., 2019
 Polish_SMELL	Polish	poli1260	pol	SMELL	wąchać	vˈɔw̃xaʨ	v ˈɔ w̃ x a ʨ	vɔ̃xat͡ɕ	SMELL			Dellert et al., 2019
 Polish_DIG	Polish	poli1260	pol	DIG	kopać	kˈɔpaʨ	k ˈɔ p a ʨ	kɔpat͡ɕ	DIG			Dellert et al., 2019
@@ -1282,7 +1282,7 @@ Polish_PLAY	Polish	poli1260	pol	PLAY	grać	ɡɾaʨ	ɡ ɾ a ʨ	ɡɾat͡ɕ	PLAY			
 Polish_PLAY	Polish	poli1260	pol	PLAY	bawić się	bˈavʲiʨ ɕɛ	b ˈa vʲ i ʨ  ɕ ɛ	bavit͡ɕ ɕɛ̃	PLAY			Dellert et al., 2019
 Polish_SING	Polish	poli1260	pol	SING	śpiewać	ɕpʲjˈɛvaʨ	ɕ pʲ j ˈɛ v a ʨ	ɕpiɛvat͡ɕ	SING			Dellert et al., 2019
 Polish_DANCE	Polish	poli1260	pol	DANCE	pląsać	plˈɔw̃saʨ	p l ˈɔ w̃ s a ʨ	plɔ̃sat͡ɕ	DANCE			Dellert et al., 2019
-Polish_DANCE	Polish	poli1260	pol	DANCE	tańczyć	tˈaɲt͡ʂɨʨ	t ˈa ɲ t͡ʂ ɨ ʨ	taɲʈ͡ʂɨt͡ɕ	DANCE			Dellert et al., 2019
+Polish_DANCE	Polish	poli1260	pol	DANCE	tańczyć	tˈaɲʈ͡ʂɨʨ	t ˈa ɲ ʈ͡ʂ ɨ ʨ	taɲʈ͡ʂɨt͡ɕ	DANCE			Dellert et al., 2019
 Polish_SHOOT	Polish	poli1260	pol	SHOOT	strzelać	stʂˈɛlaʨ	s t ʂ ˈɛ l a ʨ	stʂɛlat͡ɕ	SHOOT			Dellert et al., 2019
 Polish_KILL	Polish	poli1260	pol	KILL	zabić	zˈabʲiʨ	z ˈa bʲ i ʨ	zabit͡ɕ	KILL			Dellert et al., 2019
 Polish_HUNT	Polish	poli1260	pol	HUNT	polować	pɔlˈɔvaʨ	p ɔ l ˈɔ v a ʨ	pɔlɔvat͡ɕ	HUNT			Dellert et al., 2019
@@ -1293,7 +1293,7 @@ Polish_SAY	Polish	poli1260	pol	SAY	powiedzieć	pɔvʲjˈɛʥɛʨ	p ɔ vʲ j ˈɛ
 Polish_SPEAK	Polish	poli1260	pol	SPEAK	mówić	mˈuvʲiʨ	m ˈu vʲ i ʨ	muvit͡ɕ	SPEAK			Dellert et al., 2019
 Polish_THINK	Polish	poli1260	pol	THINK	myśleć	mˈɨɕlɛʨ	m ˈɨ ɕ l ɛ ʨ	mɨɕlɛt͡ɕ	THINK			Dellert et al., 2019
 Polish_KNOW	Polish	poli1260	pol	KNOW	wiedzieć	vʲjˈɛʥɛʨ	vʲ j ˈɛ ʥ ɛ ʨ	viɛd͡ʑɛt͡ɕ	KNOW			Dellert et al., 2019
-Polish_COUNT	Polish	poli1260	pol	COUNT	liczyć	lʲˈit͡ʂɨʨ	lʲ ˈi t͡ʂ ɨ ʨ	liʈ͡ʂɨt͡ɕ	COUNT			Dellert et al., 2019
+Polish_COUNT	Polish	poli1260	pol	COUNT	liczyć	lʲˈiʈ͡ʂɨʨ	lʲ ˈi ʈ͡ʂ ɨ ʨ	liʈ͡ʂɨt͡ɕ	COUNT			Dellert et al., 2019
 Ukrainian_EYE	Ukrainian	ukra1253	ukr	EYE	око	ˈɔkɔ	ˈɔ k ɔ	ɔkɔ	EYE			Dellert et al., 2019
 Ukrainian_EAR	Ukrainian	ukra1253	ukr	EAR	вухо	wˈuxɔ	w ˈu x ɔ	wuxɔ	EAR			Dellert et al., 2019
 Ukrainian_NOSE	Ukrainian	ukra1253	ukr	NOSE	ніс	nʲis	nʲ i s	nʲis	NOSE			Dellert et al., 2019
