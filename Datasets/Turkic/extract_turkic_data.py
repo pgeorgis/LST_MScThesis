@@ -52,13 +52,16 @@ concepticon_conversion = {concepticon_turkic['Name'][i].split(' [')[0]:conceptic
 #TRANSCRIPTION PRE-PROCESSING
 
 conversion_dict = {#Consonants
-                   'č':'ʧ', #Short and Dolgan, represents affricate /ʧ/
+                   'č':'ʧ', #Shor and Dolgan, represents affricate /ʧ/
                    'g':'ɡ',
                    'γ':'ɣ',
                    'ǰ':'ʤ',
+                   'ʥ':'ʤ',
+                   'ʨ':'ʧ', #re-transcribe as post-alveolar to match <ǰ>, <š>, etc.
                    'š':'ʃ',
                    
                    #Vowels
+                   'a':'ɑ', #back vowel
                    'ä':'ɛ', #seems to be the common Turkic orthographic form for /ɛ/
                    'ẹ':'e', #unknown, but 'ẹ' seems to correspond with /e/ between Proto-Turkic and Old Turkic
                    'ï':'ɯ', #mistakenly left in common Turkic orthographic form
@@ -66,8 +69,8 @@ conversion_dict = {#Consonants
                    'Ɯ':'ɯ',
 
                    #Vowel/consonant harmony
-                   'V':'a', #vowel harmony with no set features; however, other languages have <A> here, so convert to /a/ to parallel them
-                   'A':'a', #back vowel harmony, convert to /a/
+                   'V':'ɑ', #vowel harmony with no set features; however, other languages have <A> here, so convert to /ɑ/ to parallel them
+                   'A':'ɑ', #back vowel harmony, convert to /ɑ/
                    'E':'e', #front vowel harmony, convert to /e/
                    'O':'o', #Baraba Tatar, unknown but seems to be vowel harmony, convert to /o/
                    'U':'u', #same as above
@@ -82,6 +85,8 @@ conversion_dict = {#Consonants
 
                    #Language specific corrections
                    ('ḳ', 'Azeri'):'ɡ', #mistake, <q> in Azerbaijani is /ɡ/
+                   ('ɢ', 'Azeri'):'ɡ', #change /ɢ/ to /ɡ/
+                   ('ɛ', 'Azeri'):'æ', #better transcription in accordance with Illustrations of the IPA
                    ('ĕ', 'BarabaTatar'):'ë', #presumably 
                    ('ŭ', 'BarabaTatar'):'ö', #presumably 
                    ("'", 'CrimeanTatar'):'', #not included in transcriptions at http://turkic.elegantlexicon.com/lxforms.php?lx=ctt; palatalized /l/ doesn't appear in Crimean Tatar's phonological inventory
@@ -162,6 +167,9 @@ def fix_tr(word, lang):
         #similar use in Dolgan
         word = re.sub('d́', 'ɟ', word)
         word = re.sub('t́', 'c', word)
+        word = re.sub('gj', 'gʲ', word) #Azerbaijani
+        word = re.sub('gʲ', 'ɟ', word) #Azerbaijani
+        
         if lang == 'Gagauz':
             word = re.sub("s'", 'z', word)
             #see http://turkic.elegantlexicon.com/lxforms.php?lx=gag
@@ -169,8 +177,27 @@ def fix_tr(word, lang):
         elif lang == 'Tofa':
             word = re.sub("n'", 'ɲ', word) 
             #see http://turkic.elegantlexicon.com/lxforms.php?lx=tof
-        elif lang == 'Turkish':
-            word = re.sub('yʃtynde', 'ystynde', word) #mistranscribed word
+        elif lang in ['Turkish', 'Azeri']:
+            word = re.sub('yʃtynde', 'ystynde', word) #mistranscribed word in Turkish
+            
+            front_vowels = ['e', 'i', 'ø', 'y', 'æ', 'ɛ']
+            back_vowels = ['a', 'ɯ', 'o', 'u'] #/a/ not changed to /ɑ/ until conversion dict
+            velar_palatalization = {'k':'c', 'g':'ɟ'} #not changed to /ɡ/ until conversion dict
+            
+            #Palatalization of velars adjacent to front vowels
+            for velar_stop in velar_palatalization: 
+                palatalized = velar_palatalization[velar_stop]
+                for front_vowel in front_vowels:
+                    word = re.sub(f'{velar_stop}{front_vowel}', f'{palatalized}{front_vowel}', word)
+                    word = re.sub(f'{front_vowel}{velar_stop}', f'{front_vowel}{palatalized}', word)
+            
+            if lang == 'Turkish':
+                #/ɫ/ adjacent to back vowels, /lʲ/ adjacent to front vowels
+                for back_vowel in back_vowels:
+                    word = re.sub(f'l{back_vowel}', f'ɫ{back_vowel}', word)
+                    word = re.sub(f'{back_vowel}l', f'{back_vowel}ɫ', word)
+                word = re.sub('l', 'lʲ', word)
+            
         
         #Chuvash notes:
         #orthography     NorthEuraLex  	TurkicDataset		Narrow IPA	Example
