@@ -1506,11 +1506,11 @@ Belarusian_NOSE	Belarusian	bela1254	bel	NOSE	нос	nos	n o s	nɔs	NOSE			Deller
 Belarusian_MOUTH	Belarusian	bela1254	bel	MOUTH	рот	rot	r o t	rɔt	MOUTH			Dellert et al., 2019
 Belarusian_TOOTH	Belarusian	bela1254	bel	TOOTH	зуб	zup	z u p	zub	TOOTH			Dellert et al., 2019
 Belarusian_TONGUE	Belarusian	bela1254	bel	TONGUE	язык	jæzˈɨk	j æ z ˈɨ k	jazɨk	TONGUE			Dellert et al., 2019
-Belarusian_HAIR	Belarusian	bela1254	bel	HAIR	волас	vˈolas	v ˈo l a s	vɔlas	HAIR			Dellert et al., 2019
-Belarusian_HAIR	Belarusian	bela1254	bel	HAIR	валасы	vʌlasˈɨ	v ʌ l a s ˈɨ	valasɨ	HAIR			Dellert et al., 2019
+Belarusian_HAIR	Belarusian	bela1254	bel	HAIR	волас	vˈoɫas	v ˈo ɫ a s	vɔlas	HAIR			Dellert et al., 2019
+Belarusian_HAIR	Belarusian	bela1254	bel	HAIR	валасы	vʌɫasˈɨ	v ʌ ɫ a s ˈɨ	valasɨ	HAIR			Dellert et al., 2019
 Belarusian_NECK	Belarusian	bela1254	bel	NECK	шыя	ʂˈɨjæ	ʂ ˈɨ j æ	ʂɨja	NECK			Dellert et al., 2019
 Belarusian_NECK	Belarusian	bela1254	bel	NECK	патыліца	patˈɨlʲiʦa	p a t ˈɨ lʲ i ʦ a	patɨlit͡sa	NECK			Dellert et al., 2019
-Belarusian_HEAD	Belarusian	bela1254	bel	HEAD	галава	ʁʌlavˈa	ʁ ʌ l a v ˈa	ɣalava	HEAD			Dellert et al., 2019
+Belarusian_HEAD	Belarusian	bela1254	bel	HEAD	галава	ʁʌɫavˈa	ʁ ʌ ɫ a v ˈa	ɣalava	HEAD			Dellert et al., 2019
 Belarusian_BACK	Belarusian	bela1254	bel	BACK	спіна	sʲpʲˈina	sʲ pʲ ˈi n a	spina	BACK			Dellert et al., 2019
 Belarusian_BELLY	Belarusian	bela1254	bel	BELLY	жывот	ʐɨvˈot	ʐ ɨ v ˈo t	ʐɨvɔt	BELLY			Dellert et al., 2019
 Belarusian_BREAST	Belarusian	bela1254	bel	BREAST	грудзі	ʁrˈuʣʲi	ʁ r ˈu ʣʲ i	ɣrudzi	BREAST			Dellert et al., 2019
@@ -1533,11 +1533,11 @@ Belarusian_WIND	Belarusian	bela1254	bel	WIND	вецер	vʲˈeʦʲer	vʲ ˈe ʦ�
 Belarusian_WATER	Belarusian	bela1254	bel	WATER	вада	vadˈa	v a d ˈa	vada	WATER			Dellert et al., 2019
 Belarusian_STONE	Belarusian	bela1254	bel	STONE	камень	kˈamʲenʲ	k ˈa mʲ e nʲ	kamʲɛnʲ	STONE			Dellert et al., 2019
 Belarusian_EARTH	Belarusian	bela1254	bel	EARTH	зямля	zʲæmlʲˈæ	zʲ æ m lʲ ˈæ	zʲamlʲa	EARTH			Dellert et al., 2019
-Belarusian_DUST	Belarusian	bela1254	bel	DUST	пыл	pɨl	p ɨ l	pɨl	DUST			Dellert et al., 2019
+Belarusian_DUST	Belarusian	bela1254	bel	DUST	пыл	pɨɫ	p ɨ ɫ	pɨl	DUST			Dellert et al., 2019
 Belarusian_SMOKE	Belarusian	bela1254	bel	SMOKE	дым	dɨm	d ɨ m	dɨm	SMOKE			Dellert et al., 2019
 Belarusian_FIRE	Belarusian	bela1254	bel	FIRE	агонь	aʁˈonʲ	a ʁ ˈo nʲ	aɣɔnʲ	FIRE			Dellert et al., 2019
 Belarusian_FOG	Belarusian	bela1254	bel	FOG	туман	tumˈan	t u m ˈa n	tuman	FOG			Dellert et al., 2019
-Belarusian_CLOUD	Belarusian	bela1254	bel	CLOUD	воблака	vˈoblaka	v ˈo b l a k a	vɔblaka	CLOUD			Dellert et al., 2019
+Belarusian_CLOUD	Belarusian	bela1254	bel	CLOUD	воблака	vˈobɫaka	v ˈo b ɫ a k a	vɔblaka	CLOUD			Dellert et al., 2019
 Belarusian_RAIN	Belarusian	bela1254	bel	RAIN	дождж	doʂʧ	d o ʂ ʧ	dɔʐdʐ	RAIN			Dellert et al., 2019
 Belarusian_SNOW	Belarusian	bela1254	bel	SNOW	снег	snʲeʁ̥	s nʲ e ʁ̥	snʲɛɣ	SNOW			Dellert et al., 2019
 Belarusian_ICE	Belarusian	bela1254	bel	ICE	лёд	lʲˈɵt	lʲ ˈɵ t	lʲɔd	ICE			Dellert et al., 2019
@@ -1554,11 +1554,11 @@ Belarusian_BARK	Belarusian	bela1254	bel	BARK	кара	karˈa	k a r ˈa	kara	BARK
 Belarusian_LEAF	Belarusian	bela1254	bel	LEAF	ліст	lʲist	lʲ i s t	list	LEAF			Dellert et al., 2019
 Belarusian_HORN	Belarusian	bela1254	bel	HORN	рог	roʁ̥	r o ʁ̥	rɔɣ	HORN			Dellert et al., 2019
 Belarusian_FEATHER	Belarusian	bela1254	bel	FEATHER	пяро	pʲærˈo	pʲ æ r ˈo	pʲarɔ	FEATHER			Dellert et al., 2019
-Belarusian_WING	Belarusian	bela1254	bel	WING	крыло	krɨlˈo	k r ɨ l ˈo	krɨlɔ	WING			Dellert et al., 2019
+Belarusian_WING	Belarusian	bela1254	bel	WING	крыло	krɨɫˈo	k r ɨ ɫ ˈo	krɨlɔ	WING			Dellert et al., 2019
 Belarusian_FINGERNAIL	Belarusian	bela1254	bel	FINGERNAIL	кіпцюр	kʲipʲʦʲˈʉr	kʲ i pʲ ʦʲ ˈʉ r	kipt͡sʲur	FINGERNAIL			Dellert et al., 2019
 Belarusian_TAIL	Belarusian	bela1254	bel	TAIL	хвост	xvost	x v o s t	xvɔst	TAIL			Dellert et al., 2019
 Belarusian_EGG	Belarusian	bela1254	bel	EGG	яйка	jˈæjka	j ˈæ j k a	jajka	EGG			Dellert et al., 2019
-Belarusian_ANIMAL	Belarusian	bela1254	bel	ANIMAL	жывёла	ʐɨvʲˈɵla	ʐ ɨ vʲ ˈɵ l a	ʐɨvʲɔla	ANIMAL			Dellert et al., 2019
+Belarusian_ANIMAL	Belarusian	bela1254	bel	ANIMAL	жывёла	ʐɨvʲˈɵɫa	ʐ ɨ vʲ ˈɵ ɫ a	ʐɨvʲɔla	ANIMAL			Dellert et al., 2019
 Belarusian_DOG	Belarusian	bela1254	bel	DOG	сабака	sabˈaka	s a b ˈa k a	sabaka	DOG			Dellert et al., 2019
 Belarusian_BIRD	Belarusian	bela1254	bel	BIRD	птах	ptax	p t a x	ptax	BIRD			Dellert et al., 2019
 Belarusian_BIRD	Belarusian	bela1254	bel	BIRD	птушка	ptˈuʂka	p t ˈu ʂ k a	ptuʂka	BIRD			Dellert et al., 2019
@@ -1568,19 +1568,19 @@ Belarusian_WORM	Belarusian	bela1254	bel	WORM	чарвяк	ʧarvʲˈæk	ʧ a r v�
 Belarusian_LOUSE	Belarusian	bela1254	bel	LOUSE	вош	voʂ	v o ʂ	vɔʂ	LOUSE			Dellert et al., 2019
 Belarusian_BERRY	Belarusian	bela1254	bel	BERRY	ягада	jˈæʁada	j ˈæ ʁ a d a	jaɣada	BERRY			Dellert et al., 2019
 Belarusian_SEED	Belarusian	bela1254	bel	SEED	семя	sʲˈemʲæ	sʲ ˈe mʲ æ	sʲɛmʲa	SEED			Dellert et al., 2019
-Belarusian_ASH	Belarusian	bela1254	bel	ASH	попел	pˈopʲel	p ˈo pʲ e l	pɔpʲɛl	ASH			Dellert et al., 2019
+Belarusian_ASH	Belarusian	bela1254	bel	ASH	попел	pˈopʲeɫ	p ˈo pʲ e ɫ	pɔpʲɛl	ASH			Dellert et al., 2019
 Belarusian_SAND	Belarusian	bela1254	bel	SAND	пясок	pʲæsˈok	pʲ æ s ˈo k	pʲasɔk	SAND			Dellert et al., 2019
-Belarusian_PERSON	Belarusian	bela1254	bel	PERSON	чалавек	ʧʌlavʲˈek	ʧ ʌ l a vʲ ˈe k	ʈ͡ʂalavʲɛk	PERSON			Dellert et al., 2019
+Belarusian_PERSON	Belarusian	bela1254	bel	PERSON	чалавек	ʧʌɫavʲˈek	ʧ ʌ ɫ a vʲ ˈe k	ʈ͡ʂalavʲɛk	PERSON			Dellert et al., 2019
 Belarusian_MAN	Belarusian	bela1254	bel	MAN	мужчына	muʂʧˈɨna	m u ʂ ʧ ˈɨ n a	muʐʈ͡ʂɨna	MAN			Dellert et al., 2019
 Belarusian_WOMAN	Belarusian	bela1254	bel	WOMAN	жанчына	ʐanʧˈɨna	ʐ a n ʧ ˈɨ n a	ʐanʈ͡ʂɨna	WOMAN			Dellert et al., 2019
 Belarusian_FATHER	Belarusian	bela1254	bel	FATHER	бацька	bˈaʦʲka	b ˈa ʦʲ k a	bat͡sʲka	FATHER			Dellert et al., 2019
 Belarusian_MOTHER	Belarusian	bela1254	bel	MOTHER	маці	mˈaʦʲi	m ˈa ʦʲ i	mat͡si	MOTHER			Dellert et al., 2019
 Belarusian_HUSBAND	Belarusian	bela1254	bel	HUSBAND	муж	muʂ	m u ʂ	muʐ	HUSBAND			Dellert et al., 2019
 Belarusian_WIFE	Belarusian	bela1254	bel	WIFE	жонка	ʐˈonka	ʐ ˈo n k a	ʐɔnka	WIFE			Dellert et al., 2019
-Belarusian_NAME	Belarusian	bela1254	bel	NAME	імя	jimʲˈæ	j i mʲ ˈæ	imʲa	NAME			Dellert et al., 2019
-Belarusian_STICK	Belarusian	bela1254	bel	STICK	палка	pˈalka	p ˈa l k a	palka	STICK			Dellert et al., 2019
+Belarusian_NAME	Belarusian	bela1254	bel	NAME	імя	imʲˈæ	i mʲ ˈæ	imʲa	NAME			Dellert et al., 2019
+Belarusian_STICK	Belarusian	bela1254	bel	STICK	палка	pˈaɫka	p ˈa ɫ k a	palka	STICK			Dellert et al., 2019
 Belarusian_MEAT	Belarusian	bela1254	bel	MEAT	мяса	mʲˈæsa	mʲ ˈæ s a	mʲasa	MEAT			Dellert et al., 2019
-Belarusian_FAT	Belarusian	bela1254	bel	FAT	тлушч	tluʂʧ	t l u ʂ ʧ	tluʂʈ͡ʂ	FAT			Dellert et al., 2019
+Belarusian_FAT	Belarusian	bela1254	bel	FAT	тлушч	tɫuʂʧ	t ɫ u ʂ ʧ	tluʂʈ͡ʂ	FAT			Dellert et al., 2019
 Belarusian_SALT	Belarusian	bela1254	bel	SALT	соль	solʲ	s o lʲ	sɔlʲ	SALT			Dellert et al., 2019
 Belarusian_CLOTHES	Belarusian	bela1254	bel	CLOTHES	адзенне	aʣʲˈenʲnʲe	a ʣʲ ˈe nʲ nʲ e	adzʲɛnʲːɛ	CLOTHES			Dellert et al., 2019
 Belarusian_PATH_OR_ROAD	Belarusian	bela1254	bel	PATH OR ROAD	сцежка	sʲʦʲˈeʂka	sʲ ʦʲ ˈe ʂ k a	st͡sʲɛʐka	PATH_OR_ROAD			Dellert et al., 2019
@@ -1597,19 +1597,19 @@ Belarusian_NARROW	Belarusian	bela1254	bel	NARROW	вузкі	vˈusʲkʲi	v ˈu s�
 Belarusian_THICK	Belarusian	bela1254	bel	THICK	тоўсты	tˈowstɨ	t ˈo w s t ɨ	tɔwstɨ	THICK			Dellert et al., 2019
 Belarusian_THIN	Belarusian	bela1254	bel	THIN	тонкі	tˈonkʲi	t ˈo n kʲ i	tɔnki	THIN			Dellert et al., 2019
 Belarusian_THIN	Belarusian	bela1254	bel	THIN	тонкі	tˈonkʲi	t ˈo n kʲ i	tɔnki	THIN			Dellert et al., 2019
-Belarusian_SMOOTH	Belarusian	bela1254	bel	SMOOTH	гладкі	ʁlˈatʲkʲi	ʁ l ˈa tʲ kʲ i	ɣladki	SMOOTH			Dellert et al., 2019
-Belarusian_ROUND	Belarusian	bela1254	bel	ROUND	круглы	krˈuʁlɨ	k r ˈu ʁ l ɨ	kruɣlɨ	ROUND			Dellert et al., 2019
+Belarusian_SMOOTH	Belarusian	bela1254	bel	SMOOTH	гладкі	ʁɫˈatʲkʲi	ʁ ɫ ˈa tʲ kʲ i	ɣladki	SMOOTH			Dellert et al., 2019
+Belarusian_ROUND	Belarusian	bela1254	bel	ROUND	круглы	krˈuʁɫɨ	k r ˈu ʁ ɫ ɨ	kruɣlɨ	ROUND			Dellert et al., 2019
 Belarusian_SHARP	Belarusian	bela1254	bel	SHARP	востры	vˈostrɨ	v ˈo s t r ɨ	vɔstrɨ	SHARP			Dellert et al., 2019
 Belarusian_HEAVY	Belarusian	bela1254	bel	HEAVY	цяжкі	ʦʲˈæʂkʲi	ʦʲ ˈæ ʂ kʲ i	t͡sʲaʐki	HEAVY			Dellert et al., 2019
 Belarusian_WARM	Belarusian	bela1254	bel	WARM	гарачы	ʁarˈaʧɨ	ʁ a r ˈa ʧ ɨ	ɣaraʈ͡ʂɨ	WARM			Dellert et al., 2019
-Belarusian_WARM	Belarusian	bela1254	bel	WARM	цёплы	ʦʲˈɵplɨ	ʦʲ ˈɵ p l ɨ	t͡sʲɔplɨ	WARM			Dellert et al., 2019
-Belarusian_COLD	Belarusian	bela1254	bel	COLD	халодны	xalˈodnɨ	x a l ˈo d n ɨ	холадны / xɔladnɨ	COLD			Dellert et al., 2019
+Belarusian_WARM	Belarusian	bela1254	bel	WARM	цёплы	ʦʲˈɵpɫɨ	ʦʲ ˈɵ p ɫ ɨ	t͡sʲɔplɨ	WARM			Dellert et al., 2019
+Belarusian_COLD	Belarusian	bela1254	bel	COLD	халодны	xaɫˈodnɨ	x a ɫ ˈo d n ɨ	холадны / xɔladnɨ	COLD			Dellert et al., 2019
 Belarusian_WET	Belarusian	bela1254	bel	WET	мокры	mˈokrɨ	m ˈo k r ɨ	mɔkrɨ	WET			Dellert et al., 2019
 Belarusian_DRY	Belarusian	bela1254	bel	DRY	сухі	suxʲˈi	s u xʲ ˈi	suxi	DRY			Dellert et al., 2019
 Belarusian_FULL	Belarusian	bela1254	bel	FULL	поўны	pˈownɨ	p ˈo w n ɨ	pɔwnɨ	FULL			Dellert et al., 2019
 Belarusian_DIRTY	Belarusian	bela1254	bel	DIRTY	брудны	brˈudnɨ	b r ˈu d n ɨ	brudnɨ	DIRTY			Dellert et al., 2019
 Belarusian_BLACK	Belarusian	bela1254	bel	BLACK	чорны	ʧˈornɨ	ʧ ˈo r n ɨ	ʈ͡ʂɔrnɨ	BLACK			Dellert et al., 2019
-Belarusian_WHITE	Belarusian	bela1254	bel	WHITE	белы	bʲˈelɨ	bʲ ˈe l ɨ	bʲɛlɨ	WHITE			Dellert et al., 2019
+Belarusian_WHITE	Belarusian	bela1254	bel	WHITE	белы	bʲˈeɫɨ	bʲ ˈe ɫ ɨ	bʲɛlɨ	WHITE			Dellert et al., 2019
 Belarusian_RED	Belarusian	bela1254	bel	RED	чырвоны	ʧɨrvˈonɨ	ʧ ɨ r v ˈo n ɨ	ʈ͡ʂɨrvɔnɨ	RED			Dellert et al., 2019
 Belarusian_YELLOW	Belarusian	bela1254	bel	YELLOW	жоўты	ʐˈowtɨ	ʐ ˈo w t ɨ	ʐɔwtɨ	YELLOW			Dellert et al., 2019
 Belarusian_GREEN	Belarusian	bela1254	bel	GREEN	зялёны	zʲælʲˈɵnɨ	zʲ æ lʲ ˈɵ n ɨ	zʲalʲɔnɨ	GREEN			Dellert et al., 2019
@@ -1621,7 +1621,7 @@ Belarusian_NEW	Belarusian	bela1254	bel	NEW	новы	nˈovɨ	n ˈo v ɨ	nɔvɨ	NE
 Belarusian_OLD	Belarusian	bela1254	bel	OLD	стары	starˈɨ	s t a r ˈɨ	starɨ	OLD			Dellert et al., 2019
 Belarusian_NEAR	Belarusian	bela1254	bel	NEAR	блізкі	blʲˈisʲkʲi	b lʲ ˈi sʲ kʲ i	blizki	NEAR			Dellert et al., 2019
 Belarusian_FAR	Belarusian	bela1254	bel	FAR	далёкі	dalʲˈɵkʲi	d a lʲ ˈɵ kʲ i	dalʲɔki	FAR			Dellert et al., 2019
-Belarusian_OTHER	Belarusian	bela1254	bel	OTHER	іншы	jˈinʂɨ	j ˈi n ʂ ɨ	inʂɨ	OTHER			Dellert et al., 2019
+Belarusian_OTHER	Belarusian	bela1254	bel	OTHER	іншы	ˈinʂɨ	ˈi n ʂ ɨ	inʂɨ	OTHER			Dellert et al., 2019
 Belarusian_OTHER	Belarusian	bela1254	bel	OTHER	другі	druɣʲˈi	d r u ɣʲ ˈi	druɣi	OTHER			Dellert et al., 2019
 Belarusian_HERE	Belarusian	bela1254	bel	HERE	тут	tut	t u t	tut	HERE			Dellert et al., 2019
 Belarusian_THERE	Belarusian	bela1254	bel	THERE	там	tam	t a m	tam	THERE			Dellert et al., 2019
@@ -1650,7 +1650,7 @@ Belarusian_NINE	Belarusian	bela1254	bel	NINE	дзевяць	ʣʲˈevʲæʦʲ	ʣ�
 Belarusian_TEN	Belarusian	bela1254	bel	TEN	дзесяць	ʣʲˈesʲæʦʲ	ʣʲ ˈe sʲ æ ʦʲ	dzʲɛsʲat͡sʲ	TEN			Dellert et al., 2019
 Belarusian_TWENTY	Belarusian	bela1254	bel	TWENTY	дваццаць	dvˈaʦʦaʦʲ	d v ˈa ʦ ʦ a ʦʲ	dvatt͡sat͡sʲ	TWENTY			Dellert et al., 2019
 Belarusian_HUNDRED	Belarusian	bela1254	bel	HUNDRED	сто	sto	s t o	stɔ	HUNDRED			Dellert et al., 2019
-Belarusian_AND	Belarusian	bela1254	bel	AND	і	ji	j i	i	AND			Dellert et al., 2019
+Belarusian_AND	Belarusian	bela1254	bel	AND	і	i	i	i	AND			Dellert et al., 2019
 Belarusian_AND	Belarusian	bela1254	bel	AND	ды	dɨ	d ɨ	dɨ	AND			Dellert et al., 2019
 Belarusian_STAND	Belarusian	bela1254	bel	STAND	стаяць	stajˈæʦʲ	s t a j ˈæ ʦʲ	stajat͡sʲ	STAND			Dellert et al., 2019
 Belarusian_SIT	Belarusian	bela1254	bel	SIT	сядзець	sʲæʣʲˈeʦʲ	sʲ æ ʣʲ ˈe ʦʲ	sʲadzʲɛt͡sʲ	SIT			Dellert et al., 2019
@@ -1666,11 +1666,11 @@ Belarusian_EAT	Belarusian	bela1254	bel	EAT	есці	jˈesʲʦʲi	j ˈe sʲ ʦʲ 
 Belarusian_SLEEP	Belarusian	bela1254	bel	SLEEP	спаць	spaʦʲ	s p a ʦʲ	spat͡sʲ	SLEEP			Dellert et al., 2019
 Belarusian_DIE	Belarusian	bela1254	bel	DIE	памерці	pamʲˈerʦʲi	p a mʲ ˈe r ʦʲ i	pamʲɛrt͡si	DIE			Dellert et al., 2019
 Belarusian_WALK	Belarusian	bela1254	bel	WALK	хадзіць	xaʣʲˈiʦʲ	x a ʣʲ ˈi ʦʲ	xadzit͡sʲ	WALK			Dellert et al., 2019
-Belarusian_SWIM	Belarusian	bela1254	bel	SWIM	плаваць	plˈavaʦʲ	p l ˈa v a ʦʲ	plavat͡sʲ	SWIM			Dellert et al., 2019
+Belarusian_SWIM	Belarusian	bela1254	bel	SWIM	плаваць	pɫˈavaʦʲ	p ɫ ˈa v a ʦʲ	plavat͡sʲ	SWIM			Dellert et al., 2019
 Belarusian_FLY	Belarusian	bela1254	bel	FLY	лятаць	lʲætˈaʦʲ	lʲ æ t ˈa ʦʲ	lʲatat͡sʲ	FLY			Dellert et al., 2019
 Belarusian_COME	Belarusian	bela1254	bel	COME	прыйсці	prɨjsʲʦʲˈi	p r ɨ j sʲ ʦʲ ˈi	prɨjst͡si	COME			Dellert et al., 2019
 Belarusian_LAUGH	Belarusian	bela1254	bel	LAUGH	смяяцца	smʲæjˈæʦʦa	s mʲ æ j ˈæ ʦ ʦ a	smʲajatt͡sa	LAUGH			Dellert et al., 2019
-Belarusian_CRY	Belarusian	bela1254	bel	CRY	плакаць	plˈakaʦʲ	p l ˈa k a ʦʲ	plakat͡sʲ	CRY			Dellert et al., 2019
+Belarusian_CRY	Belarusian	bela1254	bel	CRY	плакаць	pɫˈakaʦʲ	p ɫ ˈa k a ʦʲ	plakat͡sʲ	CRY			Dellert et al., 2019
 Belarusian_SEE	Belarusian	bela1254	bel	SEE	бачыць	bˈaʧɨʦʲ	b ˈa ʧ ɨ ʦʲ	baʈ͡ʂɨt͡sʲ	SEE			Dellert et al., 2019
 Belarusian_HEAR	Belarusian	bela1254	bel	HEAR	чуць	ʧuʦʲ	ʧ u ʦʲ	ʈ͡ʂut͡sʲ	HEAR			Dellert et al., 2019
 Belarusian_SMELL	Belarusian	bela1254	bel	SMELL	нюхаць	nʲˈʉxaʦʲ	nʲ ˈʉ x a ʦʲ	nʲuxat͡sʲ	SMELL			Dellert et al., 2019
@@ -1686,7 +1686,7 @@ Belarusian_PULL	Belarusian	bela1254	bel	PULL	цягнуць	ʦʲæʁnˈuʦʲ	ʦ�
 Belarusian_THROW	Belarusian	bela1254	bel	THROW	кідаць	kʲˈidaʦʲ	kʲ ˈi d a ʦʲ	kidat͡sʲ	THROW			Dellert et al., 2019
 Belarusian_BURN	Belarusian	bela1254	bel	BURN	спаліць	spalʲˈiʦʲ	s p a lʲ ˈi ʦʲ	spalit͡sʲ	BURN			Dellert et al., 2019
 Belarusian_GIVE	Belarusian	bela1254	bel	GIVE	даць	daʦʲ	d a ʦʲ	dat͡sʲ	GIVE			Dellert et al., 2019
-Belarusian_PLAY	Belarusian	bela1254	bel	PLAY	іграць	jiʁrˈaʦʲ	j i ʁ r ˈa ʦʲ	гуляць / ɣulʲat͡sʲ	PLAY			Dellert et al., 2019
+Belarusian_PLAY	Belarusian	bela1254	bel	PLAY	іграць	iʁrˈaʦʲ	i ʁ r ˈa ʦʲ	гуляць / ɣulʲat͡sʲ	PLAY			Dellert et al., 2019
 Belarusian_SING	Belarusian	bela1254	bel	SING	пець	pʲeʦʲ	pʲ e ʦʲ	pʲɛt͡sʲ	SING			Dellert et al., 2019
 Belarusian_SING	Belarusian	bela1254	bel	SING	спяваць	sʲpʲævˈaʦʲ	sʲ pʲ æ v ˈa ʦʲ	spʲavat͡sʲ	SING			Dellert et al., 2019
 Belarusian_DANCE	Belarusian	bela1254	bel	DANCE	танцаваць	tʌnʦavˈaʦʲ	t ʌ n ʦ a v ˈa ʦʲ	tant͡savat͡sʲ	DANCE			Dellert et al., 2019

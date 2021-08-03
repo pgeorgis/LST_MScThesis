@@ -177,9 +177,8 @@ def fix_tr(word, lang):
         elif lang == 'Tofa':
             word = re.sub("n'", 'ɲ', word) 
             #see http://turkic.elegantlexicon.com/lxforms.php?lx=tof
+        
         elif lang in ['Turkish', 'Azeri']:
-            word = re.sub('yʃtynde', 'ystynde', word) #mistranscribed word in Turkish
-            
             front_vowels = ['e', 'i', 'ø', 'y', 'æ', 'ɛ']
             back_vowels = ['a', 'ɯ', 'o', 'u'] #/a/ not changed to /ɑ/ until conversion dict
             velar_palatalization = {'k':'c', 'g':'ɟ'} #not changed to /ɡ/ until conversion dict
@@ -197,6 +196,12 @@ def fix_tr(word, lang):
                     word = re.sub(f'l{back_vowel}', f'ɫ{back_vowel}', word)
                     word = re.sub(f'{back_vowel}l', f'{back_vowel}ɫ', word)
                 word = re.sub('l', 'lʲ', word)
+                
+                word = re.sub('yʃtynde', 'ystynde', word) #mistranscribed word in Turkish
+            
+            elif lang == 'Azeri':
+                word = re.sub('bɛrk', 'bɛrc', word) #palatalized velar which would not be captured by above rules
+                
             
         
         #Chuvash notes:

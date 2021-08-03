@@ -700,7 +700,7 @@ Tatar_NIGHT_1	Tatar	kaza1250	tat	NIGHT	tøn	tøn	t ø n	tøn	NIGHT_1			Savelyev 
 Tofa_NIGHT_1	Tofa	tofa1248	kim	NIGHT	dynne	dynne	d y n n e	dynne	NIGHT_1			Savelyev & Robeets, 2020
 Tuvan_NIGHT_1	Tuvan	tuvi1240	tyv	NIGHT	dyn	dyn	d y n	dyn	NIGHT_1			Savelyev & Robeets, 2020
 Uyghur_NIGHT_1	Uyghur	uigh1240	uig	NIGHT	tyn	tyn	t y n	tyn	NIGHT_1			Savelyev & Robeets, 2020
-Azerbaijani_NIGHT_2	Azerbaijani	nort2697	azj	NIGHT	keǰɛ	ceʤæ	c e ʤ æ	keǰɛ	NIGHT_2			Savelyev & Robeets, 2020
+Azerbaijani_NIGHT_2	Azerbaijani	nort2697	azj	NIGHT	geǰɛ	ɟeʤæ	ɟ e ʤ æ	geǰɛ	NIGHT_2			Savelyev & Robeets, 2020
 CrimeanTatar_NIGHT_2	Crimean Tatar	crim1257	crh	NIGHT	geʥe	ɡeʤe	ɡ e ʤ e	geʥe	NIGHT_2			Savelyev & Robeets, 2020
 Gagauz_NIGHT_2	Gagauz	gaga1249	gag	NIGHT	geʥɛ	ɡeʤɛ	ɡ e ʤ ɛ	geʥɛ	NIGHT_2			Savelyev & Robeets, 2020
 Karachay-Balkar_NIGHT_2	Karachay-Balkar	kara1465	krc	NIGHT	keʨe	keʧe	k e ʧ e	keʨe	NIGHT_2			Savelyev & Robeets, 2020
@@ -3525,7 +3525,7 @@ Turkmen_HARD_1	Turkmen	turk1304	tuk	HARD	ɢatɯ	ɢɑtɯ	ɢ ɑ t ɯ	ɢatɯ	HARD_1
 Tuvan_HARD_1	Tuvan	tuvi1240	tyv	HARD	qadɯɣ	qɑdɯɣ	q ɑ d ɯ ɣ	qadɯɣ	HARD_1			Savelyev & Robeets, 2020
 Uyghur_HARD_1	Uyghur	uigh1240	uig	HARD	qattiq	qɑttiq	q ɑ t t i q	qattiq	HARD_1			Savelyev & Robeets, 2020
 Uzbek_HARD_1	Uzbek	uzbe1247	uzb	HARD	qattiq	qɑttiq	q ɑ t t i q	qattiq	HARD_1			Savelyev & Robeets, 2020
-Azerbaijani_HARD_2	Azerbaijani	nort2697	azj	HARD	bɛrk	bærk	b æ r k	bɛrk	HARD_2			Savelyev & Robeets, 2020
+Azerbaijani_HARD_2	Azerbaijani	nort2697	azj	HARD	bɛrk	bærc	b æ r c	bɛrk	HARD_2			Savelyev & Robeets, 2020
 Gagauz_HARD_3	Gagauz	gaga1249	gag	HARD	ʨetin	ʧetin	ʧ e t i n	ʨetin	HARD_3			Savelyev & Robeets, 2020
 BarabaTatar_GRIND_1	Baraba Tatar	bara1273	sty	GRIND	tart	tɑrt	t ɑ r t	tart	GRIND_1			Savelyev & Robeets, 2020
 Bashkir_GRIND_1	Bashkir	bash1264	bak	GRIND	tart	tɑrt	t ɑ r t	tart	GRIND_1			Savelyev & Robeets, 2020
