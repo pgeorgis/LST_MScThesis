@@ -107,6 +107,7 @@ conversion_dict = {#Consonants
                    ("'", 'SarygYugur'):'', #palatalized /l/ doesn't appear in phoneme inventory, not listed at http://turkic.elegantlexicon.com/lxforms.php?lx=yug or at wikipedia page for West Yugur phonology
                    ('s', 'Turkmen'):'θ', #must be mistake, <s> in Turkmen in /θ/
                    ('z', 'Turkmen'):'ð', #must be mistake, <z> in Turkmen is /ð/
+                   ('ɢ', 'Turkmen'):'ɡ', #<g> in Turkmen is velar /ɡ/, not uvular /ɢ/
                    ('q', 'Turkish'):'k', #mistake, no /q/ in standard Turkish
                    ('ɣ', 'Turkish'):'ː', #represents <ğ>, a debatable phoneme in Turkish; realized as lengthening of previous vowel
                    ('ḳ', 'Shor'):'q', #mistake
