@@ -326,8 +326,12 @@ def get_sonority(sound):
 
 
 #WORD SEGMENTATION
-def segment_word(word):
+def segment_word(word, remove_ch=[]):
     """Returns a list of segmented phones from the word"""
+    
+    #Remove spaces and other specified characters/diacritics (e.g. stress)
+    word = ''.join([ch for ch in word if ch not in remove_ch+[' ']])
+    
     phone_list = defaultdict(lambda:[])
     
     #Iterate through all characters of the word
@@ -528,7 +532,7 @@ def weighted_dice(vec1, vec2, weights=feature_weights):
 
 #PHONE COMPARISON
 checked_phone_sims = {}
-def phone_sim(phone1, phone2, distance='dice', exclude_features=[]):
+def phone_sim(phone1, phone2, distance='weighted_dice', exclude_features=[]):
     """Returns the similarity of the features of the two phones according to
     the specified distance/similarity function;
     Features not to be included in the comparison should be passed as a list to
@@ -575,32 +579,40 @@ def compare_measures(seg1, seg2):
     measures = {}
     for dist_func in ['cosine', 'dice', 'hamming', 'jaccard',
                    'weighted_hamming', 'weighted_dice', 'weighted_jaccard']:
-        measures[dist_func] = phone_sim(seg1, seg2, method)
+        measures[dist_func] = phone_sim(seg1, seg2, dist_func)
     return measures
 
 
 #WORD-LEVEL PHONETIC COMPARISON AND ALIGNMENT
-def align_costs(seq1, seq2, dist_func, sim=False): #*kwargs?
+def align_costs(seq1, seq2, 
+                dist_func, sim=False, 
+                **kwargs):
     alignment_costs = {}
     for i in range(len(seq1)):
         for j in range(len(seq2)):
             seq1_i, seq2_j = seq1[i], seq2[j]
-            cost = dist_func(seq1_i, seq2_j)
+            cost = dist_func(seq1_i, seq2_j, **kwargs)
+            
+            #Ensure that costs are negative
             if sim == True:
-                cost = 1 - cost
+                cost = (1 - cost) * -1
+            else:
+                if cost > 0:
+                    cost *= -1
+                
             alignment_costs[(i, j)] = cost
     return alignment_costs
 
-def log_phone_sim_sonority(seg1, seg2, method='dice', max_penalty=-7):
+def log_phone_sim_sonority(seg1, seg2, distance='weighted_dice', max_penalty=-7):
     try:
-        phon_sim = math.log(phone_sim(seg1, seg2, method))
+        phon_sim = math.log(phone_sim(seg1, seg2, distance))
     
     #If phone similarity = 0, we can't take the log. Instead set to maximum penalty
     except ValueError:
         phon_sim = max_penalty
     
     #Sonority difference is number of levels of difference in sonority
-    son_diff = abs(get_sonlookupority(seg1) - get_sonority(seg2))
+    son_diff = abs(get_sonority(seg1) - get_sonority(seg2))
     
     #Sonority similarity is 1 - normalized sonority difference
     try:
@@ -612,35 +624,24 @@ def log_phone_sim_sonority(seg1, seg2, method='dice', max_penalty=-7):
     return phon_sim + son_sim
 
 
-def phone_align(word1, word2, gop=-0.7, segmented=False):
+def phone_align(word1, word2, 
+                dist_func=phone_sim, sim=True,
+                gop=-0.5, 
+                segmented=False,
+                **kwargs):
     """Align segments of word1 with segments of word2 according to Needleman-
     Wunsch algorithm, with costs determined by phonetic and sonority similarity;
-    If segmented == False, the words are first segmented before being aligned."""
-    if segmented == False:
+    If segmented == False, the words are first segmented before being aligned.
+    GOP = -0.5 by default, determined by cross-validation on gold alignments."""
+    if segmented == False:        
         segments1, segments2 = segment_word(word1), segment_word(word2)
     else:
         segments1, segments2 = word1, word2  
     
     #Calculate costs of aligning each pair of segments
-    alignment_costs = {}
-    for i in range(len(segments1)):
-        for j in range(len(segments2)):
-            #Cost of aligning segments1[i] with segments2[j] is log of their
-            #phone similarity, plus the log of their sonority similarity
-            try:
-                phon_sim = math.log(phone_sim(segments1[i], segments2[j]))
-            
-            #If phone similarity = 0, we can't take the log. Instead set to negative infinity
-            except ValueError:
-                phon_sim = -math.inf
-            
-            #Sonority difference is number of levels of difference in sonority
-            son_diff = abs(get_sonority(segments1[i]) - get_sonority(segments2[j]))
-            
-            #Sonority similarity is 1 - normalized sonority difference
-            son_sim = math.log(1 - ((son_diff+1) / (max_sonority+1)))
-            
-            alignment_costs[(i, j)] = phon_sim + son_sim
+    alignment_costs = align_costs(segments1, segments2, 
+                                  dist_func=phone_sim, sim=sim, 
+                                  **kwargs)
     
     #Calculate best alignment using Needleman-Wunsch algorithm
     best = best_alignment(SEQUENCE_1=segments1, SEQUENCE_2=segments2,
@@ -683,7 +684,25 @@ def reverse_alignment(alignment):
     return reverse
 
 
-def word_sim(alignment, c_weight=0.5, v_weight=0.3, syl_weight=0.2):
+def word_sim(word_pair, dist_func=phone_sim, aligned=False, **kwargs):
+    """Calculates phonetic similarity of an alignment without weighting by 
+    segment type, position, etc.
+    word_pair : list containing either two words or a single alignment of two words
+    aligned :   set to True if word_pair argument contains an alignment"""
+    if aligned == False:
+        word1, word2 = word_pair
+        alignment = phone_align(word1, word2, **kwargs)
+    else:
+        alignment = word_pair[0]
+    
+    phone_sims = [phone_sim(pair[0], pair[1], **kwargs) 
+                  if '-' not in pair else 0 
+                  for pair in alignment]
+    
+    return mean(phone_sims)
+    
+
+def segmental_word_sim(alignment, c_weight=0.5, v_weight=0.3, syl_weight=0.2):
     """Calculates the phonetic similarity of an aligned word pair according to
     weighted sum of similarity of consonantal segments, vocalic segments, and 
     syllable structure"""

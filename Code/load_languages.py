@@ -82,6 +82,7 @@ class Dataset:
                                             concept_c = self.concept_c,
                                             glottocode=self.glottocodes[lang],
                                             iso_code=self.iso_codes[lang],
+                                            family=self,
                                             lang_id=self.lang_ids[lang],
                                             loan_c=self.loan_c)
             self.concepts.extend(self.languages[lang].vocabulary.keys())
@@ -189,12 +190,23 @@ class Dataset:
             print(f'\tAMC increased from {round(original_amc, 2)} to {round(self.mutual_coverage[1], 2)}.')
         
             
-    def cognate_set_dendrogram(self, cognate_id, dist_func, sim=True, method='average',
+    def cognate_set_dendrogram(self, cognate_id, 
+                               dist_func, sim=True, 
+                               combine_cognate_sets=False,
+                               method='average',
                                title=None, save_directory=None):
-        words = [strip_ch(item[i], ['(', ')']) 
+        if combine_cognate_sets == True:
+            cognate_ids = [c for c in self.cognate_sets if cognate_id in c]
+        else:
+            cognate_ids = [cognate_id]
+            
+        words = [strip_ch(item[i], ['(', ')'])
+                 for cognate_id in cognate_ids
                  for item in self.cognate_sets[cognate_id].values()
                  for i in range(len(item))]
-        lang_labels = [key for key in self.cognate_sets[cognate_id].keys()
+        
+        lang_labels = [key for cognate_id in cognate_ids
+                       for key in self.cognate_sets[cognate_id].keys()
                        for i in range(len(self.cognate_sets[cognate_id][key]))]
         labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
         
@@ -205,19 +217,17 @@ class Dataset:
             save_directory = self.directory
         
         draw_dendrogram(group=words,
+                        labels=labels,
                         dist_func=dist_func,
                         sim=sim,
-                        labels=labels,
                         method=method,
                         title=title,
                         save_directory=save_directory
                         )
         
-
-        
 #%%
 class Language(Dataset):
-    def __init__(self, name, lang_id, data, glottocode, iso_code,
+    def __init__(self, name, lang_id, data, glottocode, iso_code, family,
                  segments_c='Segments', ipa_c='Form', 
                  orthography_c='Value', concept_c='Parameter_ID',
                  loan_c='Loan', id_c='ID'):
@@ -235,6 +245,7 @@ class Language(Dataset):
         self.lang_id = lang_id
         self.glottocode = glottocode
         self.iso_code = iso_code
+        self.family = family
         self.data = data
         
         #Phonemic inventory
@@ -259,6 +270,12 @@ class Language(Dataset):
         self.check_affricates()
         
         self.phoneme_entropy = entropy(self.phonemes)
+        
+        #Comparison with other languages
+        self.phoneme_correspondences = defaultdict(lambda:defaultdict(lambda:0))
+        self.phoneme_pmi = defaultdict(lambda:defaultdict(lambda:0))
+        self.detected_cognates = defaultdict(lambda:[])
+        self.detected_noncognates = defaultdict(lambda:[])
         
     def create_phoneme_inventory(self):
         for i in self.data:
@@ -306,17 +323,19 @@ class Language(Dataset):
             self.tonal = True
             
     def create_vocabulary(self):
+        diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ']
         for i in self.data:
             entry = self.data[i]
             concept = entry[self.concept_c]
             orthography = entry[self.orthography_c]
             ipa = entry[self.ipa_c]
-            self.vocabulary[concept].append([orthography, ipa])
+            segments = segment_word(ipa, remove_ch=diacritics_to_remove)
+            self.vocabulary[concept].append([orthography, ipa, segments])
             loan = entry[self.loan_c]
             
             #Mark known loanwords
             if loan == 'TRUE':
-                self.loanwords[concept].append([orthography, ipa])
+                self.loanwords[concept].append([orthography, ipa, segments])
     
     def lookup(self, segment, 
                field='transcription',
@@ -393,9 +412,12 @@ class Language(Dataset):
     def phone_dendrogram(self, 
                          distance='weighted_dice', 
                          method='complete', exclude_length=True,
-                         title=None):
+                         title=None, save_directory=None):
         if title == None:
             title = f'{self.name} Phonemes'
+        
+        if save_directory == None:
+            save_directory = self.family.directory
             
         phonemes = list(self.phonemes.keys())
         
@@ -408,7 +430,8 @@ class Language(Dataset):
                         sim=True,
                         distance=distance,
                         method=method,
-                        title=title)
+                        title=title,
+                        save_directory=save_directory)
         
     def phone_plot(self, 
                    distance="weighted_dice",
