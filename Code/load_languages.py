@@ -7,7 +7,7 @@ from pathlib import Path
 local_dir = Path(str(os.getcwd()))
 parent_dir = local_dir.parent
 from phonetic_distance import *
-from phoneme_correspondences import PhonemeCorrFinder
+from phoneme_correspondences import PhonemeCorrDetector
 
 class Dataset: 
     def __init__(self, filepath, name, 

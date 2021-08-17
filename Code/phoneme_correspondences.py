@@ -3,7 +3,7 @@ from auxiliary_functions import normalize_dict
 from phonetic_distance import *
 
 
-class PhonemeCorrFinder:
+class PhonemeCorrDetector:
     def __init__(self, lang1, lang2, wordlist=None):
         self.lang1 = lang1
         self.lang2 = lang2
@@ -112,12 +112,52 @@ class PhonemeCorrFinder:
                          for seg2 in corr_dict[seg1]])
             
         #Calculate PMI for all phoneme pairs
+        pmi_dict = defaultdict(lambda:defaultdict(lambda:0))
         for segment_pair in segment_pairs:
             seg1, seg2 = segment_pair
             p_ind = self.lang1.phonemes[seg1] * self.lang2.phonemes[seg2]
             cognate_prob = cognate_probs[seg1].get(seg2, p_ind)
             noncognate_prob = noncognate_probs[seg1].get(seg2, p_ind)
-            self.lang1.phoneme_pmi[self.lang2][seg1][seg2] = math.log(cognate_prob/noncognate_prob)
+            #self.lang1.phoneme_pmi[self.lang2][seg1][seg2] = math.log(cognate_prob/noncognate_prob)
+            pmi_dict[seg1][seg2] = math.log(cognate_prob/noncognate_prob)
+        return pmi_dict
 
-    
+
+    def calc_phoneme_pmi(self, max_iterations=3, seed=1):
+        random.seed(seed)
+        
+        #First pass: check whether phonemes co-occur at all anywhere in the word
+        synonyms_anywhere = defaultdict(lambda:defaultdict(lambda:0))
+        non_synonyms_anywhere = defaultdict(lambda:defaultdict(lambda:0))
+        for wordlist, corr_dict in zip([self.same_meaning, self.diff_meaning], 
+                                       [synonyms_anywhere, non_synonyms_anywhere]):
+            for item in wordlist:
+                segs1, segs2 = item[0][3], item[1][3]
+                for seg1 in segs1:
+                    for seg2 in segs2:
+                        corr_dict[seg1][seg2] += 1
+            for seg1 in corr_dict:
+                corr_dict[seg1] = normalize_dict(corr_dict[seg1])
+        pmi_step1 = self.phoneme_pmi(cognate_probs=synonyms_anywhere,
+                                     noncognate_probs=non_synonyms_anywhere)
+        
+        #Take a sample of different-meaning words, as large as the same-meaning set
+        sample_size = len(self.same_meaning)
+        diff_sample = random.sample(self.diff_meaning, min(sample_size, len(self.diff_meaning)))
+        
+        #At each following iteration, re-align using the pmi_stepN as an additional
+        #penalty, and then recalculate PMI
+        PMI_iterations = {0:pmi_step1}
+        iteration = 1
+        while iteration < max_iterations:
+            cognate_probs = self.correspondence_probs(self.align_wordlist(self.same_meaning, 
+                                                                          added_penalty_dict=PMI_iterations[iteration-1]))
+            noncognate_probs = self.correspondence_probs(self.align_wordlist(diff_sample,
+                                                                             added_penalty_dict=PMI_iterations[iteration-1]))
+            PMI_iterations[iteration] = self.phoneme_pmi(cognate_probs, noncognate_probs)
+            iteration += 1
+        
+        return PMI_iterations[max(PMI_iterations.keys())]
+        
+        
     
