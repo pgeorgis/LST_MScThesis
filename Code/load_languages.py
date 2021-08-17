@@ -6,9 +6,8 @@ from auxiliary_functions import *
 from pathlib import Path
 local_dir = Path(str(os.getcwd()))
 parent_dir = local_dir.parent
-os.chdir('Distance_Measures/')
 from phonetic_distance import *
-os.chdir(local_dir)
+from phoneme_correspondences import PhonemeCorrFinder
 
 class Dataset: 
     def __init__(self, filepath, name, 
@@ -47,7 +46,7 @@ class Dataset:
         self.iso_codes = {}
         
         #Concepts in dataset
-        self.concepts = []
+        self.concepts = defaultdict(lambda:defaultdict(lambda:[]))
         self.cognate_sets = defaultdict(lambda:defaultdict(lambda:[]))
         self.load_data()
         self.load_cognate_sets()
@@ -85,8 +84,10 @@ class Dataset:
                                             family=self,
                                             lang_id=self.lang_ids[lang],
                                             loan_c=self.loan_c)
-            self.concepts.extend(self.languages[lang].vocabulary.keys())
-            self.concepts = list(set(self.concepts))
+            for concept in self.languages[lang].vocabulary:
+                self.concepts[concept][lang].extend(self.languages[lang].vocabulary[concept])    
+            #self.concepts.extend(self.languages[lang].vocabulary.keys())
+            #self.concepts = list(set(self.concepts))
         
     
     def load_cognate_sets(self):
@@ -194,7 +195,8 @@ class Dataset:
                                dist_func, sim=True, 
                                combine_cognate_sets=False,
                                method='average',
-                               title=None, save_directory=None):
+                               title=None, save_directory=None,
+                               **kwargs):
         if combine_cognate_sets == True:
             cognate_ids = [c for c in self.cognate_sets if cognate_id in c]
         else:
@@ -210,6 +212,11 @@ class Dataset:
                        for i in range(len(self.cognate_sets[cognate_id][key]))]
         labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
         
+        if dist_func == word_dist:
+            #For this function, it requires tuple input of (word, lang)
+            langs = [self.languages[lang] for lang in lang_labels]
+            words = list(zip(words, langs))
+        
         if title == None:
             title = f'{self.name} "{cognate_id}"'
         
@@ -222,7 +229,8 @@ class Dataset:
                         sim=sim,
                         method=method,
                         title=title,
-                        save_directory=save_directory
+                        save_directory=save_directory,
+                        **kwargs
                         )
         
 #%%
@@ -273,7 +281,7 @@ class Language(Dataset):
         
         #Comparison with other languages
         self.phoneme_correspondences = defaultdict(lambda:defaultdict(lambda:0))
-        self.phoneme_pmi = defaultdict(lambda:defaultdict(lambda:0))
+        self.phoneme_pmi = defaultdict(lambda:defaultdict(lambda:defaultdict(lambda:0)))
         self.detected_cognates = defaultdict(lambda:[])
         self.detected_noncognates = defaultdict(lambda:[])
         
@@ -330,8 +338,9 @@ class Language(Dataset):
             orthography = entry[self.orthography_c]
             ipa = entry[self.ipa_c]
             segments = segment_word(ipa, remove_ch=diacritics_to_remove)
-            self.vocabulary[concept].append([orthography, ipa, segments])
-            loan = entry[self.loan_c]
+            if len(segments) > 0:
+                self.vocabulary[concept].append([orthography, ipa, segments])
+                loan = entry[self.loan_c]
             
             #Mark known loanwords
             if loan == 'TRUE':
@@ -353,7 +362,7 @@ class Language(Dataset):
         matches = []
         for concept in self.vocabulary:
             for entry in self.vocabulary[concept]:
-                orthography, transcription = entry
+                orthography, transcription, segments = entry
                 if segment in entry[field_index]:
                     matches.append((concept, orthography, transcription))
         
@@ -452,6 +461,8 @@ class Language(Dataset):
                        title=title)
     
     
+    
+    
 
 #%%
 #LOAD FAMILIES AND WRITE VOCABULARY INDEX FILES
@@ -480,7 +491,3 @@ all_languages = [families[family].languages[lang] for family in families
 all_families = [families[family] for family in families]
 total_languages = len(all_languages)
 total_families = len(all_families)
-all_sounds = set(sound for lang in all_languages for sound in lang.phonemes if len(strip_diacritics(sound)) > 0)
-#%%
-def lookup_segment(seg):
-    return [lang.name for lang in all_languages if seg in lang.phonemes]
