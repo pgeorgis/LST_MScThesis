@@ -3,8 +3,8 @@ from collections import defaultdict
 import os, glob
 import pandas as pd
 from pathlib import Path
-local_dir = Path(str(os.getcwd()))
-parent_dir = local_dir.parent
+current_dir = Path(str(os.getcwd()))
+parent_dir = current_dir.parent
 grandparent_dir = parent_dir.parent
 
 #Load phonetic distance data and auxiliary functions
@@ -12,7 +12,7 @@ os.chdir(str(grandparent_dir) + '/Code')
 from auxiliary_functions import csv_to_dict, strip_ch
 os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
 from phonetic_distance import *
-os.chdir(local_dir)
+os.chdir(current_dir)
 
 #%%
 #LOAD LANGUAGE CSV
@@ -239,11 +239,22 @@ for dataset in datasets:
                         
                     else:
                         problems.append((lang, c, r, variant, cell_value, variant.count('{'), 'too many { brackets in variant'))
-
                     
-                    #orth = tr[:]
-                    #original_tr = tr[:]
-                    #tr = ''.join([conversion_dict.get(ch, ch) for ch in tr])
+                    #Latvian-specific: change final /ʦ/ in IPA to /ts/, where orthography has <ts> or <ds>, not <c>
+                    if new_name == 'Latvian':
+                        if tr[-1] == 'ʦ':
+                            if orth[-2:] in ['ts', 'ds']:
+                                tr = tr[:-1]
+                                tr += 'ts'
+                        elif tr[-2:] == 'ʦː': #same here, <cs> should be /ʦs/
+                            if orth[-2:] == 'cs':
+                                tr = tr[:-1]
+                                tr += 's'
+                        elif tr[-2:] == 'sː': #same here, <ss>, <zs> should be /ss/
+                            if orth[-2:] in ['ss', 'zs']:
+                                tr = tr[:-1]
+                                tr += 's'
+                    
                     cognate_index = sh[f'{cognate_c}{r}'].value
                     cognate_id = '_'.join([concepticon_gloss, str(cognate_index)])
                     
@@ -353,5 +364,5 @@ def write_data(data_dict, output_file, sep='\t'):
             values = sep.join([str(data_dict[i][feature]) for feature in features])
             f.write(f'{values}\n')
 
-os.chdir(local_dir)
+os.chdir(current_dir)
 write_data(combined_baltoslav_data, 'balto_slavic_gld_data.csv')    
