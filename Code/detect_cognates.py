@@ -104,10 +104,6 @@ class CognateDetector:
               max_iterations=5,
               seed=1, sample_size=None, p_threshold=0.05):
         #the evaluation functions should all be either similarity or distances
-        methods = {#'PMI':score_pmi,
-                   'surprisal':word_adaptation_surprisal}
-        evaluation_func = methods[method]
-        
         
         #Set random seed
         random.seed(seed)
@@ -148,7 +144,7 @@ class CognateDetector:
                     pass
                 
                 elif method == 'phonetic':
-                    pass
+                    diff_scores = [1-word_sim(alignment) for alignment in diff_alignments]
                 
                 #Determine cognacy among same-meaning pairs
                 for words, alignment in zip(self.same_meaning, same_alignments):
@@ -157,6 +153,8 @@ class CognateDetector:
                     if method == 'surprisal':
                         score = word_adaptation_surprisal(alignment, same_corrs, d=len(self.lang2.phonemes))
                     
+                    elif method == 'phonetic':
+                        score = 1-word_sim(alignment)
                     
                     p_value = len([diff_score for diff_score in diff_scores if diff_score <= score]) / diff_len
                     if (p_value <= p_threshold):
@@ -178,18 +176,111 @@ class CognateDetector:
         pass
     
         
-def detect_cognates(lang1, lang2, p_threshold=0.01):
+def detect_cognates(lang1, lang2, p_threshold=0.01, method='surprisal'):
     CD = CognateDetector(lang1, lang2)
-    return CD.train('surprisal', p_threshold=p_threshold)
+    return CD.train(method=method, p_threshold=p_threshold)
 
-def binary_cognate_sim(lang1, lang2):
-    cognates, noncognates = detect_cognates(lang1, lang2)
+def binary_cognate_sim(lang1, lang2, **kwargs):
+    cognates, noncognates = detect_cognates(lang1, lang2, **kwargs)
     cognate_concepts = set(cognates[i][0][0] for i in range(len(cognates)))
     noncognate_concepts = set(noncognates[i][0][0] for i in range(len(noncognates)))
     noncognate_concepts = set(concept for concept in noncognate_concepts 
                               if concept not in cognate_concepts)
     
     return len(cognate_concepts) / (len(cognate_concepts) + len(noncognate_concepts))
+
+def phonetic_cognate_sim(lang1, lang2, **kwargs):
+    cognates, noncognates = detect_cognates(lang1, lang2, **kwargs)
+    cognate_concepts = set(cognates[i][0][0] for i in range(len(cognates)))
+    noncognate_concepts = set(noncognates[i][0][0] for i in range(len(noncognates)))
+    noncognate_concepts = set(concept for concept in noncognate_concepts 
+                              if concept not in cognate_concepts)
+    
+    concept_scores = {}
+    for concept in noncognate_concepts:
+        concept_scores[concept] = 0
+    for concept in cognate_concepts:
+        entries = [entry for entry in cognates if entry[0][0] == concept]
+        entry_scores = {}
+        for i in range(len(entries)):
+            entry = entries[i]
+            segs1, segs2 = entry[0][-1], entry[1][-1]
+            alignment = phone_align(segs1, segs2, segmented=True)
+            phone_score = word_sim(alignment)
+            entry_scores[i] = phone_score
+        concept_scores[concept] = max(entry_scores.values())
+    return mean(concept_scores.values())
+    
+surprisal_cognate_dists = {}
+def surprisal_cognate_dist(lang1, lang2, p_threshold=0.01, method='surprisal'):
+    if (lang1, lang2) in surprisal_cognate_dists:
+        return surprisal_cognate_dists[(lang1, lang2)]
+    
+    CD = CognateDetector(lang1, lang2)
+    cognates, noncognates = CD.train(method=method, p_threshold=p_threshold)
+    cognate_corrs = CD.correspondence_probs(CD.align_wordlist(cognates), counts=True, exclude_null=False)
+    
+    cognate_concepts = set(cognates[i][0][0] for i in range(len(cognates)))
+    noncognate_concepts = set(noncognates[i][0][0] for i in range(len(noncognates)))
+    noncognate_concepts = set(concept for concept in noncognate_concepts 
+                              if concept not in cognate_concepts)
+    
+    concept_scores = {}
+    for concept in noncognate_concepts:
+        concept_scores[concept] = lang2.phoneme_entropy #correct?
+    for concept in cognate_concepts:
+        entries = [entry for entry in cognates if entry[0][0] == concept]
+        entry_scores = {}
+        for i in range(len(entries)):
+            entry = entries[i]
+            segs1, segs2 = entry[0][-1], entry[1][-1]
+            alignment = phone_align(segs1, segs2, segmented=True)
+            WAS_score = word_adaptation_surprisal(alignment, cognate_corrs, d=len(lang2.phonemes))
+            entry_scores[i] = WAS_score
+        concept_scores[concept] = min(entry_scores.values())
+    
+    
+    surprisal_cognate_dist_score = mean(concept_scores.values())
+    surprisal_cognate_dists[(lang1, lang2)] = surprisal_cognate_dist_score
+    #surprisal_cognate_dists[(lang2, lang1)] = surprisal_cognate_dist_score
+    
+    return surprisal_cognate_dist_score
+
+def surprisal_cognate_dist_mut(lang1, lang2):
+    return mean([surprisal_cognate_dist(lang1, lang2), surprisal_cognate_dist(lang2, lang1)])
+    
+
+
+lexiphon_sims = {}
+def lexiphon_sim(lang1, lang2, cutoff=0): #word_sim
+    
+    if (lang1, lang2) in lexiphon_sims:
+        return lexiphon_sims[(lang1, lang2)]
+    
+    sims = {}
+    for concept in lang1.vocabulary:
+        if concept in lang2.vocabulary:
+            scores = {}
+            for entry1 in lang1.vocabulary[concept]:
+                tr1 = entry1[1]
+                for entry2 in lang2.vocabulary[concept]:
+                    tr2 = entry2[1]
+                    word_score = word_sim([tr1, tr2])
+                    scores[(tr1, tr2)] = word_score
+            max_score = max(scores.values())
+            if max_score >= cutoff:
+                sims[concept] = max_score
+            else:
+                sims[concept] = 0
+    
+    try:
+        lexiphon_score = mean(sims.values())
+        lexiphon_sims[(lang1, lang2)] = lexiphon_score
+        lexiphon_sims[(lang2, lang1)] = lexiphon_score
+        return lexiphon_score
+    except StatisticsError:
+        print(f'Error: {lang1.name}, {lang2.name}')    
+    
 
 def draw(group, sim_func, sim, method='average', **kwargs):
     draw_dendrogram(group=list(group.languages.values()),
