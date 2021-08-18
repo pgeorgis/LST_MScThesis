@@ -118,32 +118,75 @@ class PhonemeCorrDetector:
             p_ind = self.lang1.phonemes[seg1] * self.lang2.phonemes[seg2]
             cognate_prob = cognate_probs[seg1].get(seg2, p_ind)
             noncognate_prob = noncognate_probs[seg1].get(seg2, p_ind)
-            #self.lang1.phoneme_pmi[self.lang2][seg1][seg2] = math.log(cognate_prob/noncognate_prob)
             pmi_dict[seg1][seg2] = math.log(cognate_prob/noncognate_prob)
         return pmi_dict
 
 
-    def calc_phoneme_pmi(self, max_iterations=3, seed=1):
+    def calc_phoneme_pmi(self, radius=2, max_iterations=3, seed=1):
         random.seed(seed)
-        
-        #First pass: check whether phonemes co-occur at all anywhere in the word
-        synonyms_anywhere = defaultdict(lambda:defaultdict(lambda:0))
-        non_synonyms_anywhere = defaultdict(lambda:defaultdict(lambda:0))
-        for wordlist, corr_dict in zip([self.same_meaning, self.diff_meaning], 
-                                       [synonyms_anywhere, non_synonyms_anywhere]):
-            for item in wordlist:
-                segs1, segs2 = item[0][3], item[1][3]
-                for seg1 in segs1:
-                    for seg2 in segs2:
-                        corr_dict[seg1][seg2] += 1
-            for seg1 in corr_dict:
-                corr_dict[seg1] = normalize_dict(corr_dict[seg1])
-        pmi_step1 = self.phoneme_pmi(cognate_probs=synonyms_anywhere,
-                                     noncognate_probs=non_synonyms_anywhere)
-        
         #Take a sample of different-meaning words, as large as the same-meaning set
         sample_size = len(self.same_meaning)
         diff_sample = random.sample(self.diff_meaning, min(sample_size, len(self.diff_meaning)))
+
+        
+        def compatible_segments(seg1, seg2):
+            """Returns True if the two segments are either:
+                two consonants
+                two vowels
+                a vowel and a sonorant consonant (nasals, liquids, glides)
+                two tonemes
+            Else returns False"""
+            strip_seg1, strip_seg2 = map(strip_diacritics, [seg1, seg2])
+            if strip_seg1[0] in consonants:
+                if strip_seg2[0] in consonants:
+                    return True
+                elif strip_seg2[0] in vowels:
+                    if phone_id(seg1)['sonorant'] == 1:
+                        return True
+                    else:
+                        return False
+                else:
+                    return False
+            elif strip_seg1[0] in vowels:
+                if strip_seg2[0] in vowels:
+                    return True
+                elif strip_seg2[0] in consonants:
+                    if phone_id(seg2)['sonorant'] == 1:
+                        return True
+                    else:
+                        return False
+                else:
+                    return False
+            #Tonemes
+            else: 
+                if strip_seg2[0] in tonemes:
+                    return True
+                else:
+                    return False
+
+        
+        #First step: check whether phonemes co-occur within a set radius of 
+        #positions within respective words
+        synonyms_radius = defaultdict(lambda:defaultdict(lambda:0))
+        non_synonyms_radius = defaultdict(lambda:defaultdict(lambda:0))
+        for wordlist, corr_dict in zip([self.same_meaning, diff_sample], 
+                                       [synonyms_radius, non_synonyms_radius]):
+            for item in wordlist:
+                segs1, segs2 = item[0][3], item[1][3]
+                for i in range(len(segs1)):
+                    seg1 = segs1[i]
+                    for j in range(max(0, i-radius), min(i+radius+1, len(segs2))):
+                        seg2 = segs2[j]
+                        
+                        #Only count sounds which are compatible as corresponding
+                        if compatible_segments(seg1, seg2) == True:
+                            corr_dict[seg1][seg2] += 1
+                            
+            for seg1 in corr_dict:
+                corr_dict[seg1] = normalize_dict(corr_dict[seg1])
+        pmi_step1 = self.phoneme_pmi(cognate_probs=synonyms_radius,
+                                     noncognate_probs=non_synonyms_radius)
+    
         
         #At each following iteration, re-align using the pmi_stepN as an additional
         #penalty, and then recalculate PMI
@@ -157,6 +200,7 @@ class PhonemeCorrDetector:
             PMI_iterations[iteration] = self.phoneme_pmi(cognate_probs, noncognate_probs)
             iteration += 1
         
+        #Return the final iteration's PMI results
         return PMI_iterations[max(PMI_iterations.keys())]
         
         
