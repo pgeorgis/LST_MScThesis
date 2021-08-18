@@ -4,7 +4,7 @@ import math, unidecode, re, operator
 import numpy as np
 from statistics import mean, stdev
 from matplotlib import pyplot as plt
-from scipy.cluster.hierarchy import dendrogram, linkage
+from scipy.cluster.hierarchy import dendrogram, linkage, fcluster
 from scipy.spatial.distance import squareform
 from sklearn import manifold
 import seaborn as sns
@@ -189,6 +189,22 @@ def linkage_matrix(group, dist_func, sim=False,
     dists = squareform(mat)
     linkage_matrix = linkage(dists, method, metric)
     return linkage_matrix
+
+def cluster_items(group, labels,
+                  dist_func, sim, cutoff,
+                  method = 'average', metric='euclidean',
+                  **kwargs):
+    lm = linkage_matrix(group, dist_func, sim, method, metric, **kwargs)
+    cluster_labels = fcluster(lm, cutoff, 'distance')
+    clusters = defaultdict(lambda:[])
+    for item, cluster in sorted(zip(labels, cluster_labels), key=lambda x: x[1]):
+        #sorting just makes it so that the cluster dictionary will be returned
+        #with the clusters in numerical order
+        clusters[cluster].append(item)
+    
+    return clusters
+        
+    
 
 def draw_dendrogram(group, dist_func, title=None, sim=False, labels=None, 
                     p=30, method='average', metric='euclidean',

@@ -232,6 +232,33 @@ class Dataset:
                         save_directory=save_directory,
                         **kwargs
                         )
+    
+    def cluster_cognates(self, concept,
+                         dist_func, sim,
+                         cutoff,
+                         method='average',
+                         **kwargs):
+        words = [entry[1] for lang in self.concepts[concept] 
+                 for entry in self.concepts[concept][lang]]
+        lang_labels = [lang for lang in self.concepts[concept] 
+                       for entry in self.concepts[concept][lang]]
+        labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
+        
+        if dist_func == word_dist:
+            #For this function, it requires tuple input of (word, lang)
+            langs = [self.languages[lang] for lang in lang_labels]
+            words = list(zip(words, langs))
+        
+        clusters = cluster_items(group=words,
+                                 labels=labels,
+                                 dist_func=dist_func,
+                                 sim=sim,
+                                 cutoff=cutoff,
+                                 **kwargs)
+        
+        return clusters
+        
+            
         
 #%%
 class Language(Dataset):
@@ -273,8 +300,8 @@ class Language(Dataset):
         self.loanwords = defaultdict(lambda:[])
         
         
-        self.create_phoneme_inventory()
         self.create_vocabulary()
+        self.create_phoneme_inventory()
         self.check_affricates()
         
         self.phoneme_entropy = entropy(self.phonemes)
@@ -285,25 +312,43 @@ class Language(Dataset):
         self.detected_cognates = defaultdict(lambda:[])
         self.detected_noncognates = defaultdict(lambda:[])
         
-    def create_phoneme_inventory(self):
+    def create_vocabulary(self):
+        #Remove stress and tone diacritics from segmented words; syllabic diacritics (above and below); spaces
+        diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ']
+        
         for i in self.data:
             entry = self.data[i]
-            segments = entry[self.segments_c].split()
+            concept = entry[self.concept_c]
+            orthography = entry[self.orthography_c]
+            ipa = entry[self.ipa_c]
+            segments = segment_word(ipa, remove_ch=diacritics_to_remove)
+            if len(segments) > 0:
+                if [orthography, ipa, segments] not in self.vocabulary[concept]:
+                    self.vocabulary[concept].append([orthography, ipa, segments])
+                loan = entry[self.loan_c]
             
-            #Remove stress and tone diacritics; syllabic diacritics (above and below); spaces
-            diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' '] 
-            segments = [strip_ch(seg, diacritics_to_remove) for seg in segments if len(seg) > 0]
-            for segment in segments:
-                self.phonemes[segment] += 1
+                #Mark known loanwords
+                if loan == 'TRUE':
+                    self.loanwords[concept].append([orthography, ipa, segments])
+                    
+                    
+    def create_phoneme_inventory(self):
+        for concept in self.vocabulary:
+            for entry in self.vocabulary[concept]:
+                orthography, ipa, segments = entry
+                
+                #Count phones
+                for segment in segments:
+                    self.phonemes[segment] += 1
             
-            #Count trigrams and gappy trigrams
-            padded_segments = ['#', '#'] + segments + ['#', '#']
-            for j in range(1, len(padded_segments)-1):
-                trigram = (padded_segments[j-1], padded_segments[j], padded_segments[j+1])
-                self.trigrams[trigram] += 1
-                self.gappy_trigrams[('X', padded_segments[j], padded_segments[j+1])] += 1
-                self.gappy_trigrams[(padded_segments[j-1], 'X', padded_segments[j+1])] += 1
-                self.gappy_trigrams[(padded_segments[j-1], padded_segments[j], 'X')] += 1
+                #Count trigrams and gappy trigrams
+                padded_segments = ['#', '#'] + segments + ['#', '#']
+                for j in range(1, len(padded_segments)-1):
+                    trigram = (padded_segments[j-1], padded_segments[j], padded_segments[j+1])
+                    self.trigrams[trigram] += 1
+                    self.gappy_trigrams[('X', padded_segments[j], padded_segments[j+1])] += 1
+                    self.gappy_trigrams[(padded_segments[j-1], 'X', padded_segments[j+1])] += 1
+                    self.gappy_trigrams[(padded_segments[j-1], padded_segments[j], 'X')] += 1
         
         #Normalize counts
         total_tokens = sum(self.phonemes.values())
@@ -330,21 +375,6 @@ class Language(Dataset):
         if len(self.tonemes) > 0:
             self.tonal = True
             
-    def create_vocabulary(self):
-        diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ']
-        for i in self.data:
-            entry = self.data[i]
-            concept = entry[self.concept_c]
-            orthography = entry[self.orthography_c]
-            ipa = entry[self.ipa_c]
-            segments = segment_word(ipa, remove_ch=diacritics_to_remove)
-            if len(segments) > 0:
-                self.vocabulary[concept].append([orthography, ipa, segments])
-                loan = entry[self.loan_c]
-            
-            #Mark known loanwords
-            if loan == 'TRUE':
-                self.loanwords[concept].append([orthography, ipa, segments])
     
     def lookup(self, segment, 
                field='transcription',
@@ -483,6 +513,7 @@ for family in ['Arabic', 'Balto-Slavic', 'Dravidian',
                           for lang in families[family].languages}
     globals().update(language_variables)
 globals().update(families)
+BaltoSlavic = families['Balto-Slavic']
 os.chdir(local_dir)
 
 #Get lists and counts of languages/families
