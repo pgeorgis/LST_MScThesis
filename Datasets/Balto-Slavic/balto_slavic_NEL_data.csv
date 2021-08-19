@@ -25,7 +25,7 @@ Bulgarian_SKIN	Bulgarian	bulg1262	bul	SKIN	кожа	kˈɔʒɐ	k ˈɔ ʒ ɐ	kɔʒ
 Bulgarian_BLOOD	Bulgarian	bulg1262	bul	BLOOD	кръв	krɤf	k r ɤ f	krɤf	BLOOD			Dellert et al., 2019
 Bulgarian_BONE	Bulgarian	bulg1262	bul	BONE	кост	kɔst	k ɔ s t	kɔst	BONE			Dellert et al., 2019
 Bulgarian_HEART	Bulgarian	bulg1262	bul	HEART	сърце	sɐrʦˈɛ	s ɐ r ʦ ˈɛ	sɤrt͡sɛ	HEART			Dellert et al., 2019
-Bulgarian_LIVER	Bulgarian	bulg1262	bul	LIVER	черен дроб	ʧˈɛrɛn drɔp	ʧ ˈɛ r ɛ n  d r ɔ p	t͡ʃɛrɛn drɔp	LIVER			Dellert et al., 2019
+Bulgarian_LIVER	Bulgarian	bulg1262	bul	LIVER	черен дроб	ʧˈɛrɛn drɔp	ʧ ˈɛ r ɛ n d r ɔ p	t͡ʃɛrɛn drɔp	LIVER			Dellert et al., 2019
 Bulgarian_SKY	Bulgarian	bulg1262	bul	SKY	небе	nɛbˈɛ	n ɛ b ˈɛ	nɛbɛ	SKY			Dellert et al., 2019
 Bulgarian_SUN	Bulgarian	bulg1262	bul	SUN	слънце	sɫˈɤnʦɛ	s ɫ ˈɤ n ʦ ɛ	sɫɤnt͡sɛ	SUN			Dellert et al., 2019
 Bulgarian_MOON	Bulgarian	bulg1262	bul	MOON	луна	ɫunˈa	ɫ u n ˈa	ɫuna	MOON			Dellert et al., 2019
@@ -35,7 +35,6 @@ Bulgarian_WIND	Bulgarian	bulg1262	bul	WIND	вятър	vʲˈatɐr	vʲ ˈa t ɐ r	
 Bulgarian_WATER	Bulgarian	bulg1262	bul	WATER	вода	vodˈa	v o d ˈa	vɔda	WATER			Dellert et al., 2019
 Bulgarian_STONE	Bulgarian	bulg1262	bul	STONE	камък	kˈamɐk	k ˈa m ɐ k	kamɤk	STONE			Dellert et al., 2019
 Bulgarian_EARTH	Bulgarian	bulg1262	bul	EARTH	земя	zɛmʲˈa	z ɛ mʲ ˈa	zɛmʲa	EARTH			Dellert et al., 2019
-Bulgarian_EARTH	Bulgarian	bulg1262	bul	EARTH	почва	pˈɔʧvɐ	p ˈɔ ʧ v ɐ	pɔt͡ʃva	EARTH			Dellert et al., 2019
 Bulgarian_DUST	Bulgarian	bulg1262	bul	DUST	прах	prax	p r a x	prax	DUST			Dellert et al., 2019
 Bulgarian_SMOKE	Bulgarian	bulg1262	bul	SMOKE	дим	dim	d i m	dim	SMOKE			Dellert et al., 2019
 Bulgarian_SMOKE	Bulgarian	bulg1262	bul	SMOKE	пушек	pˈuʃɛk	p ˈu ʃ ɛ k	puʃɛk	SMOKE			Dellert et al., 2019
@@ -184,7 +183,7 @@ Bulgarian_FLY	Bulgarian	bulg1262	bul	FLY	летя	lɛtʲˈɤ	l ɛ tʲ ˈɤ	lɛt�
 Bulgarian_FLY	Bulgarian	bulg1262	bul	FLY	хвърча	xvˈɤrʧɐ	x v ˈɤ r ʧ ɐ	xvɤrt͡ʃa	FLY			Dellert et al., 2019
 Bulgarian_COME	Bulgarian	bulg1262	bul	COME	ида	ˈidɐ	ˈi d ɐ	ida	COME			Dellert et al., 2019
 Bulgarian_COME	Bulgarian	bulg1262	bul	COME	дойда	dˈɔjdɐ	d ˈɔ j d ɐ	dɔjda	COME			Dellert et al., 2019
-Bulgarian_LAUGH	Bulgarian	bulg1262	bul	LAUGH	смея се	smˈɛjɐ sɛ	s m ˈɛ j ɐ  s ɛ	smɛja sɛ	LAUGH			Dellert et al., 2019
+Bulgarian_LAUGH	Bulgarian	bulg1262	bul	LAUGH	смея се	smˈɛjɐ sɛ	s m ˈɛ j ɐ s ɛ	smɛja sɛ	LAUGH			Dellert et al., 2019
 Bulgarian_CRY	Bulgarian	bulg1262	bul	CRY	плача	pɫˈaʧɐ	p ɫ ˈa ʧ ɐ	pɫat͡ʃa	CRY			Dellert et al., 2019
 Bulgarian_SEE	Bulgarian	bulg1262	bul	SEE	видя	vˈidʲɐ	v ˈi dʲ ɐ	vidʲa	SEE			Dellert et al., 2019
 Bulgarian_HEAR	Bulgarian	bulg1262	bul	HEAR	чувам	ʧˈuvɐm	ʧ ˈu v ɐ m	t͡ʃuvam	HEAR			Dellert et al., 2019
@@ -201,7 +200,6 @@ Bulgarian_CUT	Bulgarian	bulg1262	bul	CUT	режа	rˈɛʒɐ	r ˈɛ ʒ ɐ	rɛʒa	
 Bulgarian_PULL	Bulgarian	bulg1262	bul	PULL	тегля	tˈɛɡlʲɐ	t ˈɛ ɡ lʲ ɐ	tɛɡʎa	PULL			Dellert et al., 2019
 Bulgarian_PULL	Bulgarian	bulg1262	bul	PULL	дръпна	drˈɤpnɐ	d r ˈɤ p n ɐ	drɤpna	PULL			Dellert et al., 2019
 Bulgarian_THROW	Bulgarian	bulg1262	bul	THROW	хвърля	xvˈɤrlʲɐ	x v ˈɤ r lʲ ɐ	xvɤrʎa	THROW			Dellert et al., 2019
-Bulgarian_BURN	Bulgarian	bulg1262	bul	BURN	изгоря	izɡorʲˈɤ	i z ɡ o rʲ ˈɤ	izɡɔrʲa	BURN			Dellert et al., 2019
 Bulgarian_GIVE	Bulgarian	bulg1262	bul	GIVE	дам	dam	d a m	dam	GIVE			Dellert et al., 2019
 Bulgarian_PLAY	Bulgarian	bulg1262	bul	PLAY	играя	iɡrˈajɐ	i ɡ r ˈa j ɐ	iɡraja	PLAY			Dellert et al., 2019
 Bulgarian_SING	Bulgarian	bulg1262	bul	SING	пея	pˈɛjɐ	p ˈɛ j ɐ	pɛja	SING			Dellert et al., 2019
@@ -278,7 +276,6 @@ Bulgarian_COUNT	Bulgarian	bulg1262	bul	COUNT	броя	brˈɔjɐ	b r ˈɔ j ɐ	br
 Štokavian_HORN	Štokavian	croa1245	hrv	HORN	rog	rôːɡ	r ôː ɡ	rɔ̂ːɡ	HORN			Dellert et al., 2019
 Štokavian_FEATHER	Štokavian	croa1245	hrv	FEATHER	pero	pěro	p ě r o	pɛ̌rɔ	FEATHER			Dellert et al., 2019
 Štokavian_WING	Štokavian	croa1245	hrv	WING	krilo	krǐːlo	k r ǐː l o	krǐːlɔ	WING			Dellert et al., 2019
-Štokavian_FINGERNAIL	Štokavian	croa1245	hrv	FINGERNAIL	kandža	kâːnʤa	k âː n ʤ a	papak / pǎːpak	FINGERNAIL			Dellert et al., 2019
 Štokavian_TAIL	Štokavian	croa1245	hrv	TAIL	rep	rêːp	r êː p	rɛ̂ːp	TAIL			Dellert et al., 2019
 Štokavian_EGG	Štokavian	croa1245	hrv	EGG	jaje	jǎːje	j ǎː j e	jǎːjɛ	EGG			Dellert et al., 2019
 Štokavian_ANIMAL	Štokavian	croa1245	hrv	ANIMAL	životinja	ʒiʋǒtiɲa	ʒ i ʋ ǒ t i ɲ a	ʒiʋɔ̌tiɲa	ANIMAL			Dellert et al., 2019
@@ -423,8 +420,6 @@ Bulgarian_COUNT	Bulgarian	bulg1262	bul	COUNT	броя	brˈɔjɐ	b r ˈɔ j ɐ	br
 Štokavian_CUT	Štokavian	croa1245	hrv	CUT	rezati	rêzati	r ê z a t i	rɛ̂zati	CUT			Dellert et al., 2019
 Štokavian_PULL	Štokavian	croa1245	hrv	PULL	vući	ʋǔːʨi	ʋ ǔː ʨ i	ʋǔːt͡ɕi	PULL			Dellert et al., 2019
 Štokavian_THROW	Štokavian	croa1245	hrv	THROW	bacati	bǎʦati	b ǎ ʦ a t i	bǎt͡sati	THROW			Dellert et al., 2019
-Štokavian_BURN	Štokavian	croa1245	hrv	BURN	spaliti	spǎːliti	s p ǎː l i t i	spǎːliti	BURN			Dellert et al., 2019
-Štokavian_BURN	Štokavian	croa1245	hrv	BURN	sagorjeti	saɡǒrjeti	s a ɡ ǒ r j e t i	saɡɔ̌rjɛti	BURN			Dellert et al., 2019
 Štokavian_GIVE	Štokavian	croa1245	hrv	GIVE	dati	dâti	d â t i	dâti	GIVE			Dellert et al., 2019
 Štokavian_PLAY	Štokavian	croa1245	hrv	PLAY	igrati se	ǐɡratise	ǐ ɡ r a t i s e	ǐɡrati sɛ	PLAY			Dellert et al., 2019
 Štokavian_SING	Štokavian	croa1245	hrv	SING	pjevati	pjêʋati	p j ê ʋ a t i	pjɛ̂ʋati	SING			Dellert et al., 2019
@@ -446,17 +441,16 @@ Slovenian_EYE	Slovenian	slov1268	slv	EYE	okó	ɔkɔ̀ː	ɔ k ɔ̀ː	ɔkɔ˨ː	EY
 Slovenian_EAR	Slovenian	slov1268	slv	EAR	uhó	uxɔ̀ː	u x ɔ̀ː	uxɔ˨ː	EAR			Dellert et al., 2019
 Slovenian_NOSE	Slovenian	slov1268	slv	NOSE	nós	nɔ̀ːs	n ɔ̀ː s	nɔ˨ːs	NOSE			Dellert et al., 2019
 Slovenian_MOUTH	Slovenian	slov1268	slv	MOUTH	ústa	ùːsta	ùː s t a	u˨ːsta	MOUTH			Dellert et al., 2019
-Slovenian_TOOTH	Slovenian	slov1268	slv	TOOTH	zób	zɔ̀ːb	z ɔ̀ː b	zɔ˨ːb	TOOTH			Dellert et al., 2019
+Slovenian_TOOTH	Slovenian	slov1268	slv	TOOTH	zób	zɔ̀ːp	z ɔ̀ː p	zɔ˨ːb	TOOTH			Dellert et al., 2019
 Slovenian_TONGUE	Slovenian	slov1268	slv	TONGUE	jêzik	jéːzik	j éː z i k	je˦ːzik	TONGUE			Dellert et al., 2019
 Slovenian_HAIR	Slovenian	slov1268	slv	HAIR	lás	làːs	l àː s	la˨ːs	HAIR			Dellert et al., 2019
-Slovenian_NECK	Slovenian	slov1268	slv	NECK	vrát	ʋràːt	ʋ r àː t	ʋra˨ːt	NECK			Dellert et al., 2019
-Slovenian_NECK	Slovenian	slov1268	slv	NECK	zatílnik	zatìːlnik	z a t ìː l n i k	zati˨ːlnik	NECK			Dellert et al., 2019
+Slovenian_NECK	Slovenian	slov1268	slv	NECK	vrát	u̯ràːt	u̯ r àː t	ʋra˨ːt	NECK			Dellert et al., 2019
+Slovenian_NECK	Slovenian	slov1268	slv	NECK	zatílnik	zatìːu̯nik	z a t ìː u̯ n i k	zati˨ːlnik	NECK			Dellert et al., 2019
 Slovenian_HEAD	Slovenian	slov1268	slv	HEAD	gláva	ɡlàːʋa	ɡ l àː ʋ a	ɡla˨ːʋa	HEAD			Dellert et al., 2019
 Slovenian_BACK	Slovenian	slov1268	slv	BACK	hrbèt	xrbɛ́t	x r b ɛ́ t	xrbɛ˦t	BACK			Dellert et al., 2019
 Slovenian_BELLY	Slovenian	slov1268	slv	BELLY	trébuh	trɛ̀ːbux	t r ɛ̀ː b u x	trɛ˨ːbux	BELLY			Dellert et al., 2019
-Slovenian_BREAST	Slovenian	slov1268	slv	BREAST	nédrja	nɛ̀ːdra	n ɛ̀ː d r a	nɛ˨ːdra	BREAST			Dellert et al., 2019
+Slovenian_BREAST	Slovenian	slov1268	slv	BREAST	pŕsi	pə́rsi	p ə́ r s i	nédrja / nɛ˨ːdra	BREAST			Dellert et al., 2019
 Slovenian_HAND	Slovenian	slov1268	slv	HAND	rôka	róːka	r óː k a	ro˦ːka	HAND			Dellert et al., 2019
-Slovenian_FINGERNAIL	Slovenian	slov1268	slv	FINGERNAIL	nóht na rôki	nɔ̀ːxtnaróːki	n ɔ̀ː x t n a r óː k i	nɔ˨ːxt na ro˦ːki	FINGERNAIL			Dellert et al., 2019
 Slovenian_FINGERNAIL	Slovenian	slov1268	slv	FINGERNAIL	nóht	nɔ̀ːxt	n ɔ̀ː x t	nɔ˨ːxt	FINGERNAIL			Dellert et al., 2019
 Slovenian_FOOT	Slovenian	slov1268	slv	FOOT	nôga	nóːɡa	n óː ɡ a	no˦ːɡa	FOOT			Dellert et al., 2019
 Slovenian_KNEE	Slovenian	slov1268	slv	KNEE	koléno	kɔlɛ̀ːnɔ	k ɔ l ɛ̀ː n ɔ	kɔlɛ˨ːnɔ	KNEE			Dellert et al., 2019
@@ -474,19 +468,18 @@ Slovenian_STAR	Slovenian	slov1268	slv	STAR	zvézda	zʋɛ̀ːzda	z ʋ ɛ̀ː z d 
 Slovenian_WIND	Slovenian	slov1268	slv	WIND	véter	ʋɛ̀ːtɛr	ʋ ɛ̀ː t ɛ r	ʋɛ˨ːtɛr	WIND			Dellert et al., 2019
 Slovenian_WATER	Slovenian	slov1268	slv	WATER	vôda	ʋóːda	ʋ óː d a	ʋo˦ːda	WATER			Dellert et al., 2019
 Slovenian_STONE	Slovenian	slov1268	slv	STONE	kámen	kàːmɛn	k àː m ɛ n	ka˨ːmɛn	STONE			Dellert et al., 2019
-Slovenian_EARTH	Slovenian	slov1268	slv	EARTH	pŕst	pə̀rst	p ə̀ r s t	pə˨rst	EARTH			Dellert et al., 2019
 Slovenian_EARTH	Slovenian	slov1268	slv	EARTH	zêmlja	zéːmla	z éː m l a	ze˦ːmla	EARTH			Dellert et al., 2019
 Slovenian_DUST	Slovenian	slov1268	slv	DUST	práh	pràːx	p r àː x	pra˨ːx	DUST			Dellert et al., 2019
 Slovenian_SMOKE	Slovenian	slov1268	slv	SMOKE	dìm	dím	d í m	di˦m	SMOKE			Dellert et al., 2019
 Slovenian_FIRE	Slovenian	slov1268	slv	FIRE	ôgenj	óːɡɛn	óː ɡ ɛ n	o˦ːɡɛn	FIRE			Dellert et al., 2019
 Slovenian_FOG	Slovenian	slov1268	slv	FOG	meglà	mɛɡlá	m ɛ ɡ l á	mɛɡla˦	FOG			Dellert et al., 2019
 Slovenian_CLOUD	Slovenian	slov1268	slv	CLOUD	oblák	ɔblàːk	ɔ b l àː k	ɔbla˨ːk	CLOUD			Dellert et al., 2019
-Slovenian_RAIN	Slovenian	slov1268	slv	RAIN	dèž	dɛ́ʒ	d ɛ́ ʒ	dɛ˦ʒ	RAIN			Dellert et al., 2019
-Slovenian_SNOW	Slovenian	slov1268	slv	SNOW	snég	snɛ̀ːɡ	s n ɛ̀ː ɡ	snɛ˨ːɡ	SNOW			Dellert et al., 2019
-Slovenian_ICE	Slovenian	slov1268	slv	ICE	léd	lɛ̀ːd	l ɛ̀ː d	lɛ˨ːd	ICE			Dellert et al., 2019
+Slovenian_RAIN	Slovenian	slov1268	slv	RAIN	dèž	dɛ́ʃ	d ɛ́ ʃ	dɛ˦ʒ	RAIN			Dellert et al., 2019
+Slovenian_SNOW	Slovenian	slov1268	slv	SNOW	snég	snɛ̀ːk	s n ɛ̀ː k	snɛ˨ːɡ	SNOW			Dellert et al., 2019
+Slovenian_ICE	Slovenian	slov1268	slv	ICE	léd	lɛ̀ːt	l ɛ̀ː t	lɛ˨ːd	ICE			Dellert et al., 2019
 Slovenian_LAKE	Slovenian	slov1268	slv	LAKE	jézero	jɛ̀ːzɛrɔ	j ɛ̀ː z ɛ r ɔ	jɛ˨ːzɛrɔ	LAKE			Dellert et al., 2019
 Slovenian_FOREST	Slovenian	slov1268	slv	FOREST	lés	lɛ̀ːs	l ɛ̀ː s	lɛ˨ːs	FOREST			Dellert et al., 2019
-Slovenian_FOREST	Slovenian	slov1268	slv	FOREST	gòzd	ɡɔ́zd	ɡ ɔ́ z d	ɡɔ˦zd	FOREST			Dellert et al., 2019
+Slovenian_FOREST	Slovenian	slov1268	slv	FOREST	gòzd	ɡɔ́st	ɡ ɔ́ s t	ɡɔ˦zd	FOREST			Dellert et al., 2019
 Slovenian_MOUNTAIN	Slovenian	slov1268	slv	MOUNTAIN	gôra	ɡóːra	ɡ óː r a	ɡo˦ːra	MOUNTAIN			Dellert et al., 2019
 Slovenian_MOUNTAIN	Slovenian	slov1268	slv	MOUNTAIN	planína	planìːna	p l a n ìː n a	plani˨ːna	MOUNTAIN			Dellert et al., 2019
 Slovenian_RIVER	Slovenian	slov1268	slv	RIVER	réka	rɛ̀ːka	r ɛ̀ː k a	rɛ˨ːka	RIVER			Dellert et al., 2019
@@ -498,34 +491,33 @@ Slovenian_TREE	Slovenian	slov1268	slv	TREE	drevó	drɛʋɔ̀ː	d r ɛ ʋ ɔ̀ː	
 Slovenian_BARK	Slovenian	slov1268	slv	BARK	lúbje	lùːbjɛ	l ùː b j ɛ	lu˨ːbjɛ	BARK			Dellert et al., 2019
 Slovenian_BARK	Slovenian	slov1268	slv	BARK	skórja	skɔ̀ːra	s k ɔ̀ː r a	skɔ˨ːra	BARK			Dellert et al., 2019
 Slovenian_LEAF	Slovenian	slov1268	slv	LEAF	líst	lìːst	l ìː s t	li˨ːst	LEAF			Dellert et al., 2019
-Slovenian_HORN	Slovenian	slov1268	slv	HORN	róg	rɔ̀ːɡ	r ɔ̀ː ɡ	rɔ˨ːɡ	HORN			Dellert et al., 2019
+Slovenian_HORN	Slovenian	slov1268	slv	HORN	róg	rɔ̀ːk	r ɔ̀ː k	rɔ˨ːɡ	HORN			Dellert et al., 2019
 Slovenian_FEATHER	Slovenian	slov1268	slv	FEATHER	peró	pɛrɔ̀ː	p ɛ r ɔ̀ː	pɛrɔ˨ː	FEATHER			Dellert et al., 2019
 Slovenian_WING	Slovenian	slov1268	slv	WING	krílo	krìːlɔ	k r ìː l ɔ	kri˨ːlɔ	WING			Dellert et al., 2019
-Slovenian_FINGERNAIL	Slovenian	slov1268	slv	FINGERNAIL	párkelj	pàːrkɛl	p àː r k ɛ l	pa˨ːrkɛl	FINGERNAIL			Dellert et al., 2019
 Slovenian_TAIL	Slovenian	slov1268	slv	TAIL	rèp	rɛ́p	r ɛ́ p	rɛ˦p	TAIL			Dellert et al., 2019
 Slovenian_EGG	Slovenian	slov1268	slv	EGG	jájce	jàːjʦɛ	j àː j ʦ ɛ	ja˨ːjt͡sɛ	EGG			Dellert et al., 2019
-Slovenian_ANIMAL	Slovenian	slov1268	slv	ANIMAL	živál	ʒiʋàːl	ʒ i ʋ àː l	ʒiʋa˨ːl	ANIMAL			Dellert et al., 2019
+Slovenian_ANIMAL	Slovenian	slov1268	slv	ANIMAL	živál	ʒiʋàːu̯	ʒ i ʋ àː u̯	ʒiʋa˨ːl	ANIMAL			Dellert et al., 2019
 Slovenian_DOG	Slovenian	slov1268	slv	DOG	pès	pɛ́s	p ɛ́ s	pɛ˦s	DOG			Dellert et al., 2019
 Slovenian_BIRD	Slovenian	slov1268	slv	BIRD	ptìč	ptíʧ	p t í ʧ	pti˦t͡ʃ	BIRD			Dellert et al., 2019
 Slovenian_BIRD	Slovenian	slov1268	slv	BIRD	ptíca	ptìːʦa	p t ìː ʦ a	pti˨ːt͡sa	BIRD			Dellert et al., 2019
 Slovenian_FISH	Slovenian	slov1268	slv	FISH	ríba	rìːba	r ìː b a	ri˨ːba	FISH			Dellert et al., 2019
 Slovenian_SNAKE	Slovenian	slov1268	slv	SNAKE	káča	kàːʧa	k àː ʧ a	ka˨ːt͡ʃa	SNAKE			Dellert et al., 2019
-Slovenian_WORM	Slovenian	slov1268	slv	WORM	čr̀v	ʧə́rʋ	ʧ ə́ r ʋ	t͡ʃə˦rʋ	WORM			Dellert et al., 2019
+Slovenian_WORM	Slovenian	slov1268	slv	WORM	čr̀v	ʧə́ru̯	ʧ ə́ r u̯	t͡ʃə˦rʋ	WORM			Dellert et al., 2019
 Slovenian_WORM	Slovenian	slov1268	slv	WORM	glísta	ɡlìːsta	ɡ l ìː s t a	ɡli˨ːsta	WORM			Dellert et al., 2019
 Slovenian_LOUSE	Slovenian	slov1268	slv	LOUSE	úš	ùːʃ	ùː ʃ	u˨ːʃ	LOUSE			Dellert et al., 2019
 Slovenian_BERRY	Slovenian	slov1268	slv	BERRY	jágoda	jàːɡɔda	j àː ɡ ɔ d a	ja˨ːɡɔda	BERRY			Dellert et al., 2019
 Slovenian_SEED	Slovenian	slov1268	slv	SEED	séme	sɛ̀ːmɛ	s ɛ̀ː m ɛ	sɛ˨ːmɛ	SEED			Dellert et al., 2019
-Slovenian_ASH	Slovenian	slov1268	slv	ASH	pepél	pɛpɛ̀ːl	p ɛ p ɛ̀ː l	pɛpɛ˨ːl	ASH			Dellert et al., 2019
+Slovenian_ASH	Slovenian	slov1268	slv	ASH	pepél	pɛpɛ̀ːu̯	p ɛ p ɛ̀ː u̯	pɛpɛ˨ːl	ASH			Dellert et al., 2019
 Slovenian_SAND	Slovenian	slov1268	slv	SAND	pések	pɛ̀ːsɛk	p ɛ̀ː s ɛ k	pɛ˨ːsɛk	SAND			Dellert et al., 2019
 Slovenian_PERSON	Slovenian	slov1268	slv	PERSON	člôvek	ʧlóːʋɛk	ʧ l óː ʋ ɛ k	t͡ʃlo˦ːʋɛk	PERSON			Dellert et al., 2019
-Slovenian_MAN	Slovenian	slov1268	slv	MAN	móž	mɔ̀ːʒ	m ɔ̀ː ʒ	mɔ˨ːʒ	MAN			Dellert et al., 2019
+Slovenian_MAN	Slovenian	slov1268	slv	MAN	móž	mɔ̀ːʃ	m ɔ̀ː ʃ	mɔ˨ːʒ	MAN			Dellert et al., 2019
 Slovenian_MAN	Slovenian	slov1268	slv	MAN	môški	móːʃki	m óː ʃ k i	mo˦ːʃki	MAN			Dellert et al., 2019
 Slovenian_WOMAN	Slovenian	slov1268	slv	WOMAN	gospá	ɡɔspàː	ɡ ɔ s p àː	ɡɔspa˨ː	WOMAN			Dellert et al., 2019
 Slovenian_WOMAN	Slovenian	slov1268	slv	WOMAN	žénska	ʒɛ̀ːnska	ʒ ɛ̀ː n s k a	ʒɛ˨ːnska	WOMAN			Dellert et al., 2019
 Slovenian_FATHER	Slovenian	slov1268	slv	FATHER	ôče	óːʧɛ	óː ʧ ɛ	o˦ːt͡ʃɛ	FATHER			Dellert et al., 2019
 Slovenian_MOTHER	Slovenian	slov1268	slv	MOTHER	máma	màːma	m àː m a	ma˨ːma	MOTHER			Dellert et al., 2019
-Slovenian_HUSBAND	Slovenian	slov1268	slv	HUSBAND	móž	mɔ̀ːʒ	m ɔ̀ː ʒ	mɔ˨ːʒ	HUSBAND			Dellert et al., 2019
-Slovenian_HUSBAND	Slovenian	slov1268	slv	HUSBAND	sopróg	sɔprɔ̀ːɡ	s ɔ p r ɔ̀ː ɡ	sɔprɔ˨ːɡ	HUSBAND			Dellert et al., 2019
+Slovenian_HUSBAND	Slovenian	slov1268	slv	HUSBAND	móž	mɔ̀ːʃ	m ɔ̀ː ʃ	mɔ˨ːʒ	HUSBAND			Dellert et al., 2019
+Slovenian_HUSBAND	Slovenian	slov1268	slv	HUSBAND	sopróg	sɔprɔ̀ːk	s ɔ p r ɔ̀ː k	sɔprɔ˨ːɡ	HUSBAND			Dellert et al., 2019
 Slovenian_WIFE	Slovenian	slov1268	slv	WIFE	žêna	ʒéːna	ʒ éː n a	ʒe˦ːna	WIFE			Dellert et al., 2019
 Slovenian_WIFE	Slovenian	slov1268	slv	WIFE	sopróga	sɔprɔ̀ːɡa	s ɔ p r ɔ̀ː ɡ a	sɔprɔ˨ːɡa	WIFE			Dellert et al., 2019
 Slovenian_NAME	Slovenian	slov1268	slv	NAME	imé	imɛ̀ː	i m ɛ̀ː	imɛ˨ː	NAME			Dellert et al., 2019
@@ -533,7 +525,7 @@ Slovenian_STICK	Slovenian	slov1268	slv	STICK	pálica	pàːliʦa	p àː l i ʦ 
 Slovenian_MEAT	Slovenian	slov1268	slv	MEAT	mesó	mɛsɔ̀ː	m ɛ s ɔ̀ː	mɛsɔ˨ː	MEAT			Dellert et al., 2019
 Slovenian_FAT	Slovenian	slov1268	slv	FAT	mást	màːst	m àː s t	ma˨ːst	FAT			Dellert et al., 2019
 Slovenian_FAT	Slovenian	slov1268	slv	FAT	maščôba	maʃʧóːba	m a ʃ ʧ óː b a	maʃt͡ʃo˦ːba	FAT			Dellert et al., 2019
-Slovenian_SALT	Slovenian	slov1268	slv	SALT	sól	sɔ̀ːl	s ɔ̀ː l	sɔ˨ːl	SALT			Dellert et al., 2019
+Slovenian_SALT	Slovenian	slov1268	slv	SALT	sól	sɔ̀ːu̯	s ɔ̀ː u̯	sɔ˨ːl	SALT			Dellert et al., 2019
 Slovenian_CLOTHES	Slovenian	slov1268	slv	CLOTHES	obléka	ɔblɛ̀ːka	ɔ b l ɛ̀ː k a	ɔblɛ˨ːka	CLOTHES			Dellert et al., 2019
 Slovenian_PATH_OR_ROAD	Slovenian	slov1268	slv	PATH OR ROAD	stezà	stɛzá	s t ɛ z á	stɛza˦	PATH_OR_ROAD			Dellert et al., 2019
 Slovenian_PATH_OR_ROAD	Slovenian	slov1268	slv	PATH OR ROAD	césta	ʦɛ̀ːsta	ʦ ɛ̀ː s t a	t͡sɛ˨ːsta	PATH_OR_ROAD			Dellert et al., 2019
@@ -543,29 +535,29 @@ Slovenian_NIGHT	Slovenian	slov1268	slv	NIGHT	nóč	nɔ̀ːʧ	n ɔ̀ː ʧ	nɔ˨ː
 Slovenian_YEAR	Slovenian	slov1268	slv	YEAR	léto	lɛ̀ːtɔ	l ɛ̀ː t ɔ	lɛ˨ːtɔ	YEAR			Dellert et al., 2019
 Slovenian_BIG	Slovenian	slov1268	slv	BIG	vêlik	ʋéːlik	ʋ éː l i k	ʋe˦ːlik	BIG			Dellert et al., 2019
 Slovenian_SMALL	Slovenian	slov1268	slv	SMALL	májhen	màːjxɛn	m àː j x ɛ n	ma˨ːjxɛn	SMALL			Dellert et al., 2019
-Slovenian_LONG	Slovenian	slov1268	slv	LONG	dólg	dɔ̀ːlɡ	d ɔ̀ː l ɡ	dɔ˨ːlɡ	LONG			Dellert et al., 2019
+Slovenian_LONG	Slovenian	slov1268	slv	LONG	dólg	dɔ̀ːu̯k	d ɔ̀ː u̯ k	dɔ˨ːlɡ	LONG			Dellert et al., 2019
 Slovenian_SHORT	Slovenian	slov1268	slv	SHORT	krátek	kràːtɛk	k r àː t ɛ k	kra˨ːtɛk	SHORT			Dellert et al., 2019
 Slovenian_WIDE	Slovenian	slov1268	slv	WIDE	širòk	ʃirɔ́k	ʃ i r ɔ́ k	ʃirɔ˦k	WIDE			Dellert et al., 2019
 Slovenian_NARROW	Slovenian	slov1268	slv	NARROW	ózek	ɔ̀ːzɛk	ɔ̀ː z ɛ k	ɔ˨ːzɛk	NARROW			Dellert et al., 2019
-Slovenian_THICK	Slovenian	slov1268	slv	THICK	dêbel	déːbɛl	d éː b ɛ l	de˦ːbɛl	THICK			Dellert et al., 2019
+Slovenian_THICK	Slovenian	slov1268	slv	THICK	dêbel	déːbɛu̯	d éː b ɛ u̯	de˦ːbɛl	THICK			Dellert et al., 2019
 Slovenian_THIN	Slovenian	slov1268	slv	THIN	tánek	tàːnɛk	t àː n ɛ k	ta˨ːnɛk	THIN			Dellert et al., 2019
 Slovenian_THIN	Slovenian	slov1268	slv	THIN	drôben	dróːbɛn	d r óː b ɛ n	dro˦ːbɛn	THIN			Dellert et al., 2019
 Slovenian_SMOOTH	Slovenian	slov1268	slv	SMOOTH	gládek	ɡlàːdɛk	ɡ l àː d ɛ k	ɡla˨ːdɛk	SMOOTH			Dellert et al., 2019
-Slovenian_ROUND	Slovenian	slov1268	slv	ROUND	okrógel	ɔkrɔ̀ːɡɛl	ɔ k r ɔ̀ː ɡ ɛ l	ɔkrɔ˨ːɡɛl	ROUND			Dellert et al., 2019
+Slovenian_ROUND	Slovenian	slov1268	slv	ROUND	okrógel	ɔkrɔ̀ːɡɛu̯	ɔ k r ɔ̀ː ɡ ɛ u̯	ɔkrɔ˨ːɡɛl	ROUND			Dellert et al., 2019
 Slovenian_SHARP	Slovenian	slov1268	slv	SHARP	óster	ɔ̀ːstɛr	ɔ̀ː s t ɛ r	ɔ˨ːstɛr	SHARP			Dellert et al., 2019
 Slovenian_HEAVY	Slovenian	slov1268	slv	HEAVY	têžek	téːʒɛk	t éː ʒ ɛ k	te˦ːʒɛk	HEAVY			Dellert et al., 2019
-Slovenian_WARM	Slovenian	slov1268	slv	WARM	vròč	ʋrɔ́ʧ	ʋ r ɔ́ ʧ	ʋrɔ˦t͡ʃ	WARM			Dellert et al., 2019
-Slovenian_WARM	Slovenian	slov1268	slv	WARM	tôpel	tóːpɛl	t óː p ɛ l	to˦ːpɛl	WARM			Dellert et al., 2019
-Slovenian_COLD	Slovenian	slov1268	slv	COLD	mŕzel	mə̀rzɛl	m ə̀ r z ɛ l	mə˨rzɛl	COLD			Dellert et al., 2019
+Slovenian_WARM	Slovenian	slov1268	slv	WARM	vròč	u̯rɔ́ʧ	u̯ r ɔ́ ʧ	ʋrɔ˦t͡ʃ	WARM			Dellert et al., 2019
+Slovenian_WARM	Slovenian	slov1268	slv	WARM	tôpel	tóːpɛu̯	t óː p ɛ u̯	to˦ːpɛl	WARM			Dellert et al., 2019
+Slovenian_COLD	Slovenian	slov1268	slv	COLD	mŕzel	mə̀rzɛu̯	m ə̀ r z ɛ u̯	mə˨rzɛl	COLD			Dellert et al., 2019
 Slovenian_COLD	Slovenian	slov1268	slv	COLD	hláden	xlàːdɛn	x l àː d ɛ n	xla˨ːdɛn	COLD			Dellert et al., 2019
 Slovenian_WET	Slovenian	slov1268	slv	WET	móker	mɔ̀ːkɛr	m ɔ̀ː k ɛ r	mɔ˨ːkɛr	WET			Dellert et al., 2019
 Slovenian_DRY	Slovenian	slov1268	slv	DRY	súh	sùːx	s ùː x	su˨ːx	DRY			Dellert et al., 2019
-Slovenian_FULL	Slovenian	slov1268	slv	FULL	póln	pɔ̀ːln	p ɔ̀ː l n	pɔ˨ːln	FULL			Dellert et al., 2019
+Slovenian_FULL	Slovenian	slov1268	slv	FULL	póln	pɔ̀ːu̯n	p ɔ̀ː u̯ n	pɔ˨ːln	FULL			Dellert et al., 2019
 Slovenian_DIRTY	Slovenian	slov1268	slv	DIRTY	umázan	umàːzan	u m àː z a n	uma˨ːzan	DIRTY			Dellert et al., 2019
 Slovenian_BLACK	Slovenian	slov1268	slv	BLACK	čŕn	ʧə̀rn	ʧ ə̀ r n	t͡ʃə˨rn	BLACK			Dellert et al., 2019
-Slovenian_WHITE	Slovenian	slov1268	slv	WHITE	bél	bɛ̀ːl	b ɛ̀ː l	bɛ˨ːl	WHITE			Dellert et al., 2019
+Slovenian_WHITE	Slovenian	slov1268	slv	WHITE	bél	bɛ̀ːu̯	b ɛ̀ː u̯	bɛ˨ːl	WHITE			Dellert et al., 2019
 Slovenian_RED	Slovenian	slov1268	slv	RED	rdèč	rdɛ́ʧ	r d ɛ́ ʧ	rdɛ˦t͡ʃ	RED			Dellert et al., 2019
-Slovenian_YELLOW	Slovenian	slov1268	slv	YELLOW	žólt	ʒɔ̀ːlt	ʒ ɔ̀ː l t	ʒɔ˨ːlt	YELLOW			Dellert et al., 2019
+Slovenian_YELLOW	Slovenian	slov1268	slv	YELLOW	žólt	ʒɔ̀ːu̯t	ʒ ɔ̀ː u̯ t	ʒɔ˨ːlt	YELLOW			Dellert et al., 2019
 Slovenian_YELLOW	Slovenian	slov1268	slv	YELLOW	rumèn	rumɛ́n	r u m ɛ́ n	rumɛ˦n	YELLOW			Dellert et al., 2019
 Slovenian_GREEN	Slovenian	slov1268	slv	GREEN	zelèn	zɛlɛ́n	z ɛ l ɛ́ n	zɛlɛ˦n	GREEN			Dellert et al., 2019
 Slovenian_STUPID	Slovenian	slov1268	slv	STUPID	glúp	ɡlùːp	ɡ l ùː p	ɡlu˨ːp	STUPID			Dellert et al., 2019
@@ -573,7 +565,7 @@ Slovenian_STUPID	Slovenian	slov1268	slv	STUPID	bédast	bɛ̀ːdast	b ɛ̀ː d a 
 Slovenian_GOOD	Slovenian	slov1268	slv	GOOD	dóber	dɔ̀ːbɛr	d ɔ̀ː b ɛ r	dɔ˨ːbɛr	GOOD			Dellert et al., 2019
 Slovenian_BAD	Slovenian	slov1268	slv	BAD	malopríden	malɔprìːdɛn	m a l ɔ p r ìː d ɛ n	malɔpri˨ːdɛn	BAD			Dellert et al., 2019
 Slovenian_OLD	Slovenian	slov1268	slv	OLD	stàr	stár	s t á r	sta˦r	OLD			Dellert et al., 2019
-Slovenian_NEW	Slovenian	slov1268	slv	NEW	nòv	nɔ́ʋ	n ɔ́ ʋ	nɔ˦ʋ	NEW			Dellert et al., 2019
+Slovenian_NEW	Slovenian	slov1268	slv	NEW	nòv	nɔ́u̯	n ɔ́ u̯	nɔ˦ʋ	NEW			Dellert et al., 2019
 Slovenian_OLD	Slovenian	slov1268	slv	OLD	stàr	stár	s t á r	sta˦r	OLD			Dellert et al., 2019
 Slovenian_NEAR	Slovenian	slov1268	slv	NEAR	blížnji	blìːʒni	b l ìː ʒ n i	bli˨ːʒni	NEAR			Dellert et al., 2019
 Slovenian_FAR	Slovenian	slov1268	slv	FAR	dáleč	dàːlɛʧ	d àː l ɛ ʧ	da˨ːlɛt͡ʃ	FAR			Dellert et al., 2019
@@ -584,8 +576,8 @@ Slovenian_THERE	Slovenian	slov1268	slv	THERE	tàm	tám	t á m	ta˦m	THERE			De
 Slovenian_NOT	Slovenian	slov1268	slv	NOT	ne	nɛ	n ɛ	nɛ	NOT			Dellert et al., 2019
 Slovenian_THIS	Slovenian	slov1268	slv	THIS	tó	tɔ̀ː	t ɔ̀ː	tɔ˨ː	THIS			Dellert et al., 2019
 Slovenian_THAT	Slovenian	slov1268	slv	THAT	tó	tɔ̀ː	t ɔ̀ː	tɔ˨ː	THAT			Dellert et al., 2019
-Slovenian_ALL	Slovenian	slov1268	slv	ALL	vsè	ʋsɛ́	ʋ s ɛ́	ʋsɛ˦	ALL			Dellert et al., 2019
-Slovenian_I	Slovenian	slov1268	slv	I	jàz	jáz	j á z	ja˦z	I			Dellert et al., 2019
+Slovenian_ALL	Slovenian	slov1268	slv	ALL	vsè	u̯sɛ́	u̯ s ɛ́	ʋsɛ˦	ALL			Dellert et al., 2019
+Slovenian_I	Slovenian	slov1268	slv	I	jàz	jás	j á s	ja˦z	I			Dellert et al., 2019
 Slovenian_THOU	Slovenian	slov1268	slv	THOU	tí	tìː	t ìː	ti˨ː	THOU			Dellert et al., 2019
 Slovenian_WE	Slovenian	slov1268	slv	WE	mí	mìː	m ìː	mi˨ː	WE			Dellert et al., 2019
 Slovenian_YOU	Slovenian	slov1268	slv	YOU	ví	ʋìː	ʋ ìː	ʋi˨ː	YOU			Dellert et al., 2019
@@ -631,7 +623,7 @@ Slovenian_SEE	Slovenian	slov1268	slv	SEE	vídeti	ʋìːdɛti	ʋ ìː d ɛ t i	
 Slovenian_HEAR	Slovenian	slov1268	slv	HEAR	slíšati	slìːʃati	s l ìː ʃ a t i	sli˨ːʃati	HEAR			Dellert et al., 2019
 Slovenian_SMELL	Slovenian	slov1268	slv	SMELL	vọ̑hati	ʋóːxati	ʋ óː x a t i	dúhati / du˨ːxati	SMELL			Dellert et al., 2019
 Slovenian_DIG	Slovenian	slov1268	slv	DIG	kopáti	kɔpàːti	k ɔ p àː t i	kɔpa˨ːti	DIG			Dellert et al., 2019
-Slovenian_DIG	Slovenian	slov1268	slv	DIG	grêbsti	ɡréːbsti	ɡ r éː b s t i	ɡre˦ːbsti	DIG			Dellert et al., 2019
+Slovenian_DIG	Slovenian	slov1268	slv	DIG	grêbsti	ɡréːpsti	ɡ r éː p s t i	ɡre˦ːbsti	DIG			Dellert et al., 2019
 Slovenian_HOLD	Slovenian	slov1268	slv	HOLD	držáti	drʒàːti	d r ʒ àː t i	drʒa˨ːti	HOLD			Dellert et al., 2019
 Slovenian_PUSH	Slovenian	slov1268	slv	PUSH	ríniti	rìːniti	r ìː n i t i	ri˨ːniti	PUSH			Dellert et al., 2019
 Slovenian_BITE	Slovenian	slov1268	slv	BITE	grísti	ɡrìːsti	ɡ r ìː s t i	ɡri˨ːsti	BITE			Dellert et al., 2019
@@ -639,7 +631,7 @@ Slovenian_TIE	Slovenian	slov1268	slv	TIE	vézati	ʋɛ̀ːzati	ʋ ɛ̀ː z a t i	
 Slovenian_RUB	Slovenian	slov1268	slv	RUB	tréti	trɛ̀ːti	t r ɛ̀ː t i	trɛ˨ːti	RUB			Dellert et al., 2019
 Slovenian_RUB	Slovenian	slov1268	slv	RUB	dŕgniti	də̀rɡniti	d ə̀ r ɡ n i t i	də˨rɡniti	RUB			Dellert et al., 2019
 Slovenian_CUT	Slovenian	slov1268	slv	CUT	rézati	rɛ̀ːzati	r ɛ̀ː z a t i	rɛ˨ːzati	CUT			Dellert et al., 2019
-Slovenian_PULL	Slovenian	slov1268	slv	PULL	vléči	ʋlɛ̀ːʧi	ʋ l ɛ̀ː ʧ i	ʋlɛ˨ːt͡ʃi	PULL			Dellert et al., 2019
+Slovenian_PULL	Slovenian	slov1268	slv	PULL	vléči	u̯lɛ̀ːʧi	u̯ l ɛ̀ː ʧ i	ʋlɛ˨ːt͡ʃi	PULL			Dellert et al., 2019
 Slovenian_THROW	Slovenian	slov1268	slv	THROW	lúčati	lùːʧati	l ùː ʧ a t i	lu˨ːt͡ʃati	THROW			Dellert et al., 2019
 Slovenian_BURN	Slovenian	slov1268	slv	BURN	sežgáti	sɛʒɡàːti	s ɛ ʒ ɡ àː t i	sɛʒɡa˨ːti	BURN			Dellert et al., 2019
 Slovenian_GIVE	Slovenian	slov1268	slv	GIVE	dáti	dàːti	d àː t i	da˨ːti	GIVE			Dellert et al., 2019
@@ -854,7 +846,6 @@ Slovak_CUT	Slovak	slov1269	slk	CUT	strihať	strˈiɦac	s t r ˈi ɦ a c	striɦac
 Slovak_PULL	Slovak	slov1269	slk	PULL	ťahať	cˈaɦac	c ˈa ɦ a c	caɦac	PULL			Dellert et al., 2019
 Slovak_THROW	Slovak	slov1269	slk	THROW	hodiť	ɦˈɔɟic	ɦ ˈɔ ɟ i c	ɦɔdic	THROW			Dellert et al., 2019
 Slovak_THROW	Slovak	slov1269	slk	THROW	vrhnúť	ʋˈr̩ɦnuːc	ʋ ˈr̩ ɦ n uː c	vr̩ɦnuːc	THROW			Dellert et al., 2019
-Slovak_BURN	Slovak	slov1269	slk	BURN	spáliť	spˈaːɫic	s p ˈaː ɫ i c	spaːɫic	BURN			Dellert et al., 2019
 Slovak_GIVE	Slovak	slov1269	slk	GIVE	dať	dac	d a c	dac	GIVE			Dellert et al., 2019
 Slovak_PLAY	Slovak	slov1269	slk	PLAY	hrať	ɦrac	ɦ r a c	ɦrac	PLAY			Dellert et al., 2019
 Slovak_SING	Slovak	slov1269	slk	SING	spievať	spˈɪ̯ɛʋac	s p ˈɪ̯ ɛ ʋ a c	spi̯evac	SING			Dellert et al., 2019
@@ -886,7 +877,7 @@ Czech_HEAD	Czech	czec1258	ces	HEAD	hlava	ɦlˈava	ɦ l ˈa v a	ɦlava	HEAD			Del
 Czech_BACK	Czech	czec1258	ces	BACK	záda	zˈaːda	z ˈaː d a	zaːda	BACK			Dellert et al., 2019
 Czech_BACK	Czech	czec1258	ces	BACK	hřbet	ɦr̝bˈɛt	ɦ r̝ b ˈɛ t	ɦr̝bɛt	BACK			Dellert et al., 2019
 Czech_BELLY	Czech	czec1258	ces	BELLY	břicho	br̝ˈɪxo	b r̝ ˈɪ x o	br̝ɪxo	BELLY			Dellert et al., 2019
-Czech_BREAST	Czech	czec1258	ces	BREAST	ňadra	ɲˈadra	ɲ ˈa d r a	ɲadra	BREAST			Dellert et al., 2019
+Czech_BREAST	Czech	czec1258	ces	BREAST	hruď	ɦrˈuc	ɦ r ˈu c	ňadra / ɲadra	BREAST			Dellert et al., 2019
 Czech_HAND	Czech	czec1258	ces	HAND	ruka	rˈuka	r ˈu k a	ruka	HAND			Dellert et al., 2019
 Czech_FINGERNAIL	Czech	czec1258	ces	FINGERNAIL	nehet	nˈɛɦɛt	n ˈɛ ɦ ɛ t	nɛɦɛt	FINGERNAIL			Dellert et al., 2019
 Czech_FINGERNAIL	Czech	czec1258	ces	FINGERNAIL	nehet	nˈɛɦɛt	n ˈɛ ɦ ɛ t	nɛɦɛt	FINGERNAIL			Dellert et al., 2019
@@ -1050,7 +1041,7 @@ Czech_WALK	Czech	czec1258	ces	WALK	běžet	bjˈɛʒɛt	b j ˈɛ ʒ ɛ t	bjɛʒɛ
 Czech_SWIM	Czech	czec1258	ces	SWIM	plavat	plˈavat	p l ˈa v a t	plavat	SWIM			Dellert et al., 2019
 Czech_FLY	Czech	czec1258	ces	FLY	létat	lˈɛːtat	l ˈɛː t a t	lɛːtat	FLY			Dellert et al., 2019
 Czech_COME	Czech	czec1258	ces	COME	přijít	pr̝̊ˈɪjiːt	p r̝̊ ˈɪ j iː t	br̝ɪjiːt	COME			Dellert et al., 2019
-Czech_LAUGH	Czech	czec1258	ces	LAUGH	smát se	smˈaːt sˈɛ	s m ˈaː t  s ˈɛ	smaːt sɛ	LAUGH			Dellert et al., 2019
+Czech_LAUGH	Czech	czec1258	ces	LAUGH	smát se	smˈaːt sˈɛ	s m ˈaː t s ˈɛ	smaːt sɛ	LAUGH			Dellert et al., 2019
 Czech_CRY	Czech	czec1258	ces	CRY	plakat	plˈakat	p l ˈa k a t	plakat	CRY			Dellert et al., 2019
 Czech_SEE	Czech	czec1258	ces	SEE	vidět	vˈɪɟɛt	v ˈɪ ɟ ɛ t	vɪɟɛt	SEE			Dellert et al., 2019
 Czech_HEAR	Czech	czec1258	ces	HEAR	slyšet	slˈɪʃɛt	s l ˈɪ ʃ ɛ t	slɪʃɛt	HEAR			Dellert et al., 2019
@@ -1067,7 +1058,7 @@ Czech_CUT	Czech	czec1258	ces	CUT	střihat	str̝̊ˈɪɦat	s t r̝̊ ˈɪ ɦ a t	
 Czech_PULL	Czech	czec1258	ces	PULL	tahat	tˈaɦat	t ˈa ɦ a t	taɦat	PULL			Dellert et al., 2019
 Czech_PULL	Czech	czec1258	ces	PULL	táhnout	tˈaːɦnou̯t	t ˈaː ɦ n o u̯ t	taːɦnoʊ̯t	PULL			Dellert et al., 2019
 Czech_THROW	Czech	czec1258	ces	THROW	házet	ɦˈaːzɛt	ɦ ˈaː z ɛ t	ɦaːzɛt	THROW			Dellert et al., 2019
-Czech_BURN	Czech	czec1258	ces	BURN	spálit	spˈaːlɪt	s p ˈaː l ɪ t	spaːlɪt	BURN			Dellert et al., 2019
+Czech_BURN	Czech	czec1258	ces	BURN	pálit	pˈaːlɪt	p ˈaː l ɪ t	spálit / spaːlɪt	BURN			Dellert et al., 2019
 Czech_GIVE	Czech	czec1258	ces	GIVE	dát	dˈaːt	d ˈaː t	daːt	GIVE			Dellert et al., 2019
 Czech_PLAY	Czech	czec1258	ces	PLAY	hrát	ɦrˈaːt	ɦ r ˈaː t	ɦraːt	PLAY			Dellert et al., 2019
 Czech_SING	Czech	czec1258	ces	SING	zpívat	spˈiːvat	s p ˈiː v a t	spiːvat	SING			Dellert et al., 2019
@@ -1097,7 +1088,7 @@ Polish_HEAD	Polish	poli1260	pol	HEAD	głowa	ɡwˈɔva	ɡ w ˈɔ v a	ɡwɔva	HEAD
 Polish_BACK	Polish	poli1260	pol	BACK	plecy	plˈɛʦɨ	p l ˈɛ ʦ ɨ	plɛt͡sɨ	BACK			Dellert et al., 2019
 Polish_BACK	Polish	poli1260	pol	BACK	grzbiet	ɡʐbʲjɛt	ɡ ʐ bʲ j ɛ t	ɡʐbiɛt	BACK			Dellert et al., 2019
 Polish_BELLY	Polish	poli1260	pol	BELLY	brzuch	bʐux	b ʐ u x	bʐux	BELLY			Dellert et al., 2019
-Polish_BREAST	Polish	poli1260	pol	BREAST	biust	bʲjust	bʲ j u s t	biust	BREAST			Dellert et al., 2019
+Polish_BREAST	Polish	poli1260	pol	BREAST	pierś	pʲjɛɾɕ	pʲ j ɛ ɾ ɕ	biust / biust	BREAST			Dellert et al., 2019
 Polish_HAND	Polish	poli1260	pol	HAND	ręka	ɾˈɛŋka	ɾ ˈɛ ŋ k a	dłoń / dwɔɲ	HAND			Dellert et al., 2019
 Polish_FINGERNAIL	Polish	poli1260	pol	FINGERNAIL	paznokieć	paznˈɔkʲjɛʨ	p a z n ˈɔ kʲ j ɛ ʨ	paznɔkiɛt͡ɕ	FINGERNAIL			Dellert et al., 2019
 Polish_FINGERNAIL	Polish	poli1260	pol	FINGERNAIL	paznokieć	paznˈɔkʲjɛʨ	p a z n ˈɔ kʲ j ɛ ʨ	paznɔkiɛt͡ɕ	FINGERNAIL			Dellert et al., 2019
@@ -1247,7 +1238,7 @@ Polish_BLOW_(OF_WIND)	Polish	poli1260	pol	BLOW (OF WIND)	wiać	vʲjaʨ	vʲ j a �
 Polish_FLOW	Polish	poli1260	pol	FLOW	ciec	ʨɛʦ	ʨ ɛ ʦ	t͡ɕɛt͡s	FLOW			Dellert et al., 2019
 Polish_FLOW	Polish	poli1260	pol	FLOW	płynąć	pwˈɨnɔɲʨ	p w ˈɨ n ɔ ɲ ʨ	pwɨnɔnt͡ɕ	FLOW			Dellert et al., 2019
 Polish_FALL	Polish	poli1260	pol	FALL	padać	pˈadaʨ	p ˈa d a ʨ	padat͡ɕ	FALL			Dellert et al., 2019
-Polish_BURN	Polish	poli1260	pol	BURN	palić się	pˈalʲiʨ ɕɛ	p ˈa lʲ i ʨ  ɕ ɛ	palit͡ɕ ɕɛ̃	BURN			Dellert et al., 2019
+Polish_BURN	Polish	poli1260	pol	BURN	palić się	pˈalʲiʨ ɕɛ	p ˈa lʲ i ʨ ɕ ɛ	palit͡ɕ ɕɛ̃	BURN			Dellert et al., 2019
 Polish_FREEZE	Polish	poli1260	pol	FREEZE	zamarznąć	zamˈaʐnɔɲʨ	z a m ˈa ʐ n ɔ ɲ ʨ	zamaʐnɔnt͡ɕ	FREEZE			Dellert et al., 2019
 Polish_BREATHE	Polish	poli1260	pol	BREATHE	oddychać	ɔddˈɨxaʨ	ɔ d d ˈɨ x a ʨ	ɔdːɨxat͡ɕ	BREATHE			Dellert et al., 2019
 Polish_DRINK	Polish	poli1260	pol	DRINK	pić	pʲiʨ	pʲ i ʨ	pit͡ɕ	DRINK			Dellert et al., 2019
@@ -1259,7 +1250,7 @@ Polish_SWIM	Polish	poli1260	pol	SWIM	pływać	pwˈɨvaʨ	p w ˈɨ v a ʨ	pwɨvat
 Polish_FLY	Polish	poli1260	pol	FLY	latać	lˈataʨ	l ˈa t a ʨ	latat͡ɕ	FLY			Dellert et al., 2019
 Polish_FLY	Polish	poli1260	pol	FLY	lecieć	lˈɛʨɛʨ	l ˈɛ ʨ ɛ ʨ	lɛt͡ɕɛt͡ɕ	FLY			Dellert et al., 2019
 Polish_COME	Polish	poli1260	pol	COME	przyjść	pʂɨjɕʨ	p ʂ ɨ j ɕ ʨ	pʂɨjɕt͡ɕ	COME			Dellert et al., 2019
-Polish_LAUGH	Polish	poli1260	pol	LAUGH	śmiać się	ɕmʲjaʨ ɕɛ	ɕ mʲ j a ʨ  ɕ ɛ	ɕmiat͡ɕ ɕɛ̃	LAUGH			Dellert et al., 2019
+Polish_LAUGH	Polish	poli1260	pol	LAUGH	śmiać się	ɕmʲjaʨ ɕɛ	ɕ mʲ j a ʨ ɕ ɛ	ɕmiat͡ɕ ɕɛ̃	LAUGH			Dellert et al., 2019
 Polish_CRY	Polish	poli1260	pol	CRY	płakać	pwˈakaʨ	p w ˈa k a ʨ	pwakat͡ɕ	CRY			Dellert et al., 2019
 Polish_SEE	Polish	poli1260	pol	SEE	widzieć	vʲˈiʥɛʨ	vʲ ˈi ʥ ɛ ʨ	vid͡ʑɛt͡ɕ	SEE			Dellert et al., 2019
 Polish_SEE	Polish	poli1260	pol	SEE	zobaczyć	zɔbˈaʈ͡ʂɨʨ	z ɔ b ˈa ʈ͡ʂ ɨ ʨ	zɔbaʈ͡ʂɨt͡ɕ	SEE			Dellert et al., 2019
@@ -1276,10 +1267,9 @@ Polish_CUT	Polish	poli1260	pol	CUT	ciąć	ʨɔɲʨ	ʨ ɔ ɲ ʨ	t͡ɕɔnt͡ɕ	CUT
 Polish_CUT	Polish	poli1260	pol	CUT	krajać	kɾˈajaʨ	k ɾ ˈa j a ʨ	kɾajat͡ɕ	CUT			Dellert et al., 2019
 Polish_PULL	Polish	poli1260	pol	PULL	ciągnąć	ʨˈɔŋɡnɔɲʨ	ʨ ˈɔ ŋ ɡ n ɔ ɲ ʨ	t͡ɕɔŋɡnɔnt͡ɕ	PULL			Dellert et al., 2019
 Polish_THROW	Polish	poli1260	pol	THROW	rzucać	ʐˈuʦaʨ	ʐ ˈu ʦ a ʨ	ʐut͡sat͡ɕ	THROW			Dellert et al., 2019
-Polish_BURN	Polish	poli1260	pol	BURN	spalić	spˈalʲiʨ	s p ˈa lʲ i ʨ	spalit͡ɕ	BURN			Dellert et al., 2019
 Polish_GIVE	Polish	poli1260	pol	GIVE	dać	daʨ	d a ʨ	dat͡ɕ	GIVE			Dellert et al., 2019
 Polish_PLAY	Polish	poli1260	pol	PLAY	grać	ɡɾaʨ	ɡ ɾ a ʨ	ɡɾat͡ɕ	PLAY			Dellert et al., 2019
-Polish_PLAY	Polish	poli1260	pol	PLAY	bawić się	bˈavʲiʨ ɕɛ	b ˈa vʲ i ʨ  ɕ ɛ	bavit͡ɕ ɕɛ̃	PLAY			Dellert et al., 2019
+Polish_PLAY	Polish	poli1260	pol	PLAY	bawić się	bˈavʲiʨ ɕɛ	b ˈa vʲ i ʨ ɕ ɛ	bavit͡ɕ ɕɛ̃	PLAY			Dellert et al., 2019
 Polish_SING	Polish	poli1260	pol	SING	śpiewać	ɕpʲjˈɛvaʨ	ɕ pʲ j ˈɛ v a ʨ	ɕpiɛvat͡ɕ	SING			Dellert et al., 2019
 Polish_DANCE	Polish	poli1260	pol	DANCE	pląsać	plˈɔw̃saʨ	p l ˈɔ w̃ s a ʨ	plɔ̃sat͡ɕ	DANCE			Dellert et al., 2019
 Polish_DANCE	Polish	poli1260	pol	DANCE	tańczyć	tˈaɲʈ͡ʂɨʨ	t ˈa ɲ ʈ͡ʂ ɨ ʨ	taɲʈ͡ʂɨt͡ɕ	DANCE			Dellert et al., 2019
@@ -1483,7 +1473,7 @@ Ukrainian_RUB	Ukrainian	ukra1253	ukr	RUB	терти	tˈɛrtɪ	t ˈɛ r t ɪ	tɛr
 Ukrainian_CUT	Ukrainian	ukra1253	ukr	CUT	різати	ɾʲˈizɐtɪ	ɾʲ ˈi z ɐ t ɪ	rʲizɑtɪ	CUT			Dellert et al., 2019
 Ukrainian_PULL	Ukrainian	ukra1253	ukr	PULL	тягнути	tʲɐɦnˈutɪ	tʲ ɐ ɦ n ˈu t ɪ	tʲɑɦnutɪ	PULL			Dellert et al., 2019
 Ukrainian_THROW	Ukrainian	ukra1253	ukr	THROW	кидати	kˈɪdɐtɪ	k ˈɪ d ɐ t ɪ	kɪdɑtɪ	THROW			Dellert et al., 2019
-Ukrainian_BURN	Ukrainian	ukra1253	ukr	BURN	спалити	spɐɫˈɪtɪ	s p ɐ ɫ ˈɪ t ɪ	spɑlɪtɪ	BURN			Dellert et al., 2019
+Ukrainian_BURN	Ukrainian	ukra1253	ukr	BURN	палити	pɐɫˈɪtɪ	p ɐ ɫ ˈɪ t ɪ	спалити / spɑlɪtɪ	BURN			Dellert et al., 2019
 Ukrainian_GIVE	Ukrainian	ukra1253	ukr	GIVE	дати	dˈɑtɪ	d ˈɑ t ɪ	dɑtɪ	GIVE			Dellert et al., 2019
 Ukrainian_PLAY	Ukrainian	ukra1253	ukr	PLAY	грати	ɦrˈɑtɪ	ɦ r ˈɑ t ɪ	ɦrɑtɪ	PLAY			Dellert et al., 2019
 Ukrainian_SING	Ukrainian	ukra1253	ukr	SING	співати	spʲiʋˈɑtɪ	s pʲ i ʋ ˈɑ t ɪ	spʲiwɑtɪ	SING			Dellert et al., 2019
@@ -1684,7 +1674,7 @@ Belarusian_RUB	Belarusian	bela1254	bel	RUB	церці	ʦʲˈerʦʲi	ʦʲ ˈe r �
 Belarusian_CUT	Belarusian	bela1254	bel	CUT	рэзаць	rˈɛzaʦʲ	r ˈɛ z a ʦʲ	rɛzat͡sʲ	CUT			Dellert et al., 2019
 Belarusian_PULL	Belarusian	bela1254	bel	PULL	цягнуць	ʦʲæʁnˈuʦʲ	ʦʲ æ ʁ n ˈu ʦʲ	t͡sʲaɣnut͡sʲ	PULL			Dellert et al., 2019
 Belarusian_THROW	Belarusian	bela1254	bel	THROW	кідаць	kʲˈidaʦʲ	kʲ ˈi d a ʦʲ	kidat͡sʲ	THROW			Dellert et al., 2019
-Belarusian_BURN	Belarusian	bela1254	bel	BURN	спаліць	spalʲˈiʦʲ	s p a lʲ ˈi ʦʲ	spalit͡sʲ	BURN			Dellert et al., 2019
+Belarusian_BURN	Belarusian	bela1254	bel	BURN	паліць	palʲˈiʦʲ	p a lʲ ˈi ʦʲ	спаліць / spalit͡sʲ	BURN			Dellert et al., 2019
 Belarusian_GIVE	Belarusian	bela1254	bel	GIVE	даць	daʦʲ	d a ʦʲ	dat͡sʲ	GIVE			Dellert et al., 2019
 Belarusian_PLAY	Belarusian	bela1254	bel	PLAY	іграць	iʁrˈaʦʲ	i ʁ r ˈa ʦʲ	гуляць / ɣulʲat͡sʲ	PLAY			Dellert et al., 2019
 Belarusian_SING	Belarusian	bela1254	bel	SING	пець	pʲeʦʲ	pʲ e ʦʲ	pʲɛt͡sʲ	SING			Dellert et al., 2019

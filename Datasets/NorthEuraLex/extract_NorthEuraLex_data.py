@@ -9,7 +9,6 @@ grandparent_dir = parent_dir.parent
 #Load phonetic distance data and auxiliary functions
 os.chdir(str(grandparent_dir) + '/Code')
 from auxiliary_functions import csv_to_dict, strip_ch
-os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
 from phonetic_distance import *
 os.chdir(local_dir)
 
@@ -317,9 +316,11 @@ for i in forms_data:
                     
                     
                 elif lang == 'Bulgarian':
-                    if orth in ['китка', 'тояга']: #skip these incorrect translations
+                    if orth in ['китка', 'тояга', 'изгоря', 'почва']: #skip these translations
                     #skip "китка", not correct translation for HAND; use already present "ръка" instead
                     #skip "тояга", although valid translation, it is a Turkic loanword and a better translation "прът" is already listed
+                    #skip "изгоря", because "горя" is already included
+                    #skip "почва", because "земя" is already included
                         continue
                     
                     #Check whether the word is a verb
@@ -351,7 +352,8 @@ for i in forms_data:
                     
                     
                 elif lang == 'Croatian':
-                    if orth in ['uski', 'put', 'pseto', 'bio', 'bridak', 'guja']: 
+                    if orth in ['uski', 'put', 'pseto', 'bio', 'bridak', 'guja', 
+                                'sagorjeti', 'spaliti', 'papak']: 
                         #skip "uski", because "uzak" (same lemma) is already included for "NARROW"
                         #skip "put", not a correct translation for "SKIN"
                         #skip "papak", not a correct translation for "CLAW" (means HOOF)
@@ -359,6 +361,8 @@ for i in forms_data:
                         #skip "bio", this is not the standard Ijekavian form for WHITE ("bijel" is correct)
                         #skip "bridak", more general translation for SHARP oštar is already in list and bridak doesn't have any cognate equivalents in other languages
                         #skip "guja", more general translation for SNAKE is zmija, which is already in list (guja is literary)
+                        #skip "sagorjeti" and "spaliti", because "gorjeti" is already included
+                        #skip "papak", intended to be "kandža" for CLAW but confused somehow with FINGERNAIL in glossing...just skip
                         continue
                     
                     #Standard (Serbo-)Croatian has /e, o/, not /ɛ, ɔ/
@@ -416,8 +420,8 @@ for i in forms_data:
                                     'drum':('put', 'pûːt'), #drum is a loanword from Greek and a very uncommon word at that; replace with "put", which is more common and matches other cognate sets
                                     'ondje':('tamo', 'tâmo'), #ondje is correct, but tamo is the more general word and matches existing cognate set in data
                                     'osjećati miris':('njušiti', 'ɲûʃiti'), #use the simpler verb
-                                    'sjemenje':('sjeme', 'sjême'), #sjemenje is pluralia tantum, use singular
-                                    'papak':('kandža', 'kâːnʤa') #correct translation for CLAW is kandža; papak means hoof
+                                    'sjemenje':('sjeme', 'sjême') #sjemenje is pluralia tantum, use singular
+                                    #'papak':('kandža', 'kâːnʤa') #correct translation for CLAW is kandža; papak means hoof
                                     }
                     if orth in replace_orth:
                         orth, tr = replace_orth[orth]
@@ -426,6 +430,14 @@ for i in forms_data:
                     if orth == 'dúhati': #correct this one word and supply transcription directly; cognate to Polish word
                         orth = 'vọ̑hati'
                         tr = 'ʋóːxati'
+                    elif orth == 'nédrja':
+                        orth = 'pŕsi'
+                        tr = 'pə́rsi' #reference: IE-CoR
+                    elif orth in ['pŕst', 'párkelj', 'nóht na rôki']:
+                        continue 
+                        #skip this pŕst, because "zêmlja" is already included
+                        #skip 'párkelj', wrong translation and better translation "nóht" is already included
+                        #skip 'nóht na rôki', 'nóht' is already included
                     
                     #Switch ordering of length and tone markings in order for the length
                     #to be counted as part of the phoneme
@@ -435,6 +447,32 @@ for i in forms_data:
                     #Then change the tone markings to use same system as BCS/Lithuanian
                     tr = re.sub('˦', '́', tr) #high tone
                     tr = re.sub('˨', '̀', tr) #low tone
+
+                    #Perform final obstruent devoicing
+                    sl_devoicing = {'b':'p', 'd':'t', 'ɡ':'k', 'z':'s', 'ʒ':'ʃ'}
+                    k = -1
+                    while (abs(k) < len(tr)) and (tr[k] in sl_devoicing):
+                        tr = list(tr)
+                        tr[k] = sl_devoicing[tr[k]]
+                        tr = ''.join(tr)
+                        k -= 1
+                    
+                    #Only one instance of voicing assimilation needing to be fixed
+                    #<grêbsti> /ɡréːbsti/ --> /ɡréːpsti/
+                    tr = re.sub('bst', 'pst', tr)
+
+                    #Allophony of <v> and <l>
+                    #<v, l> word-finally and preceding consonants are [u]~[u̯]~[w]
+                    tr = list(tr)
+                    v_indices = [i for i in range(len(tr)) if tr[i] in ['ʋ', 'l']]
+                    for v_index in v_indices:
+                        if v_index == len(tr)-1: #if word-final
+                            tr[v_index] = 'u̯'
+                        else:
+                            nxt = tr[v_index+1]
+                            if nxt in consonants:
+                                tr[v_index] = 'u̯'
+                    tr = ''.join(tr)
                     
                 
                 elif lang == 'Czech':
@@ -444,7 +482,9 @@ for i in forms_data:
                     
                     replace_orth = {'pěšina':'stezka', #pěšina is not wrong, but stezka matches a cognate set used in other languages
                                     'silnice':'cesta', #cesta is a better/more general word for ROAD, matches cognate set in other languages
-                                    'osivo':'semeno' #semeno is better translation for SEED, matches other cognate sets
+                                    'osivo':'semeno', #semeno is better translation for SEED, matches other cognate sets
+                                    'ňadra':'hruď', #match cognate set in other languages (reference: IE-CoR)
+                                    'spálit':'pálit' #use imperfective to match other languages
                                     }
                     if orth in replace_orth:
                         orth = replace_orth[orth]
@@ -465,9 +505,10 @@ for i in forms_data:
                 elif lang == 'Slovak':
                     
                     #skip mistaken translations which aren't to be replaced
-                    if orth in ['vajíčko', 'šatstvo']:
+                    if orth in ['vajíčko', 'šatstvo', 'spáliť']:
                         #skip 'vajíčko', it is simply the diminutive of 'vajce', which is already in wordlist
                         #skip 'šatstvo', more appropriate translation for CLOTHES 'šaty' is already in wordlist
+                        #skip 'spáliť', because 'páliť' already included
                         continue
                     
                     #Correct some translations
@@ -486,6 +527,10 @@ for i in forms_data:
                     #NEL Polish transcriptions had many errors, use my Czech G2P tool 
                     #instead on orthographic form
                     
+                    if orth in ['spalić']: #skip these words
+                        #skip "spalić", "palić się" is already included (standard form according to IE-CoR)
+                        continue
+                    
                     #Correct some translations
                     replace_orth = {'łabędż':'łabędź', #misspelling
                                     'niedźwiedż':'niedźwiedź', #misspelling
@@ -493,7 +538,8 @@ for i in forms_data:
                                     'właściwy':'prawidłowy', #better translation, fits with cognate set in other languages
                                     'dłoń':'ręka', #dłoń is PALM OF THE HAND, not HAND; ręka is HAND
                                     'ulica':'droga', #ulica is STREET, droga is ROAD (and matches existing cognate sets)
-                                    'siew':'nasiono' #siew meangs "SOWING"; SEED is nasiono or nasienie
+                                    'siew':'nasiono', #siew meangs "SOWING"; SEED is nasiono or nasienie
+                                    'biust':'pierś' #biust is a loanword, "pierś" matches cognate classes in other languages (reference IE-CoR)
                                     }
                     if orth in replace_orth:
                         orth = replace_orth[orth]
