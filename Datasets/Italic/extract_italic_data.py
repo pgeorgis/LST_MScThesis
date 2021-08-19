@@ -9,7 +9,6 @@ grandparent_dir = parent_dir.parent
 #Load phonetic distance data and auxiliary functions
 os.chdir(str(grandparent_dir) + '/Code')
 from auxiliary_functions import csv_to_dict, strip_ch
-os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
 from phonetic_distance import *
 os.chdir(local_dir)
 
@@ -127,6 +126,12 @@ conversion_dict = {#Nasal segments
                    
                    #Spanish has no vowel /ɑ/, likely a typo
                    ('ɑ', 'Castilian Spanish'):'a', 
+                   
+                   #Portuguese /ə/ --> /ɨ/ (more typical and phonetically accurate transcription)
+                   ('ə', 'Standard Portuguese'):'ɨ',
+                   
+                   #Typo: no trill /r/ in Portuguese (likely typo as it appears only once)
+                   ('r', 'Standard Portuguese'):'ɾ',
                    
                    
                    #GENERAL REPLACEMENTS
