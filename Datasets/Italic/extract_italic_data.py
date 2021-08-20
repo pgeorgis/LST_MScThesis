@@ -144,6 +144,12 @@ conversion_dict = {#Nasal segments
                    ('ʁ', 'Provençal Occitan'):'ʀ',
                    ('r', 'Provençal Occitan'):'ɾ',
                    
+                   #SICILIAN (PALERMITAN & SOUTHEASTERN)
+                   #Palermitan: seems to be a typo as trill /r/ only appears in <abbruciari> /abːruʧˈaɾi/ 'BURN (SOMETHING)'
+                   #Southeastern: similar; appears in <abbrusciari>, <stinnirisi>, <brancu>, but we would expect taps in all these positions
+                   #otherwise Palermitan/Southeastern Sicilian has tap /ɾ/ everywhere
+                   ('r', 'Palermitan Sicilian'):'ɾ',
+                   ('r', 'South-Eastern Sicilian'):'ɾ',
                    
                    
                    #GENERAL REPLACEMENTS
@@ -180,7 +186,25 @@ def fix_tr(tr, lang):
     if lang == 'Provençal Occitan':
         #see Occitan section in conversion dict for explanation
         tr = re.sub('ɾˈy', 'ʀˈy', tr)
+    
+    elif lang in ['Central Catalan', 'North-Western Catalan']:
+        #<rel> /ɾeɫ/ 'ROOT' --> /reɫ/ (should be trill /r/ as it is word-initial, cf. also <arrel> with same meaning)
+        tr = re.sub('ɾeɫ', 'reɫ', tr)
         
+    elif lang == 'Castelló de la Plana Catalan':
+        #targeting <crosta> /krˈɔsta/ 'BARK', which should have tap /ɾ/ in this position
+        tr = re.sub('kr', 'kɾ', tr)
+    
+    elif lang == 'Catanian Sicilian':
+        #targeting <bruciari> /bruʧˈaɾi/ 'BURN (SOMETHING)', which should have tap /ɾ/ in this position
+        tr = re.sub('br', 'bɾ', tr)
+    
+    elif lang == 'Neapolitan':
+        #<r> between vowels in Neapolitan is a tap, not a trill (trilled word-initially and when preceded or followed by a consonant)
+        for vowel1 in ['u', 'ə', 'ɛ', 'e', 'ɔ', 'a', 'o', 'i', 'ˈ']: #Neapolitan vowels plus stress marker
+            for vowel2 in ['u', 'ə', 'ɛ', 'e', 'ɔ', 'a', 'o', 'i', 'ˈ']:
+                tr = re.sub(f'{vowel1}r{vowel2}', f'{vowel1}ɾ{vowel2}', tr)
+            
     
     #fix position of primary stress annotation (make it immediately precede the stress-bearing segment)
     stress_marked = 'ˈ' in tr
