@@ -121,17 +121,29 @@ conversion_dict = {#Nasal segments
                    #Corresponds to orthographic <ę>
                    ('ä', 'Istro Romanian'):'æ',
                    
-                   #e.g. <yo> in Spanish, /ʝ/ is the typical transcription
-                   ('ʑ', 'Castilian Spanish'):'ʝ',
+                   #SPANISH
+                   #e.g. <y> in Spanish, /ɟ͡ʝ/~/ʝ/ is the typical transcription
+                   #Here it only appears in <yo>, so we assign the relevant allophone /ɟ͡ʝ/
+                   ('ʑ', 'Castilian Spanish'):'ɟ͡ʝ',
                    
                    #Spanish has no vowel /ɑ/, likely a typo
                    ('ɑ', 'Castilian Spanish'):'a', 
                    
+                   #PORTUGUESE
                    #Portuguese /ə/ --> /ɨ/ (more typical and phonetically accurate transcription)
                    ('ə', 'Standard Portuguese'):'ɨ',
                    
                    #Typo: no trill /r/ in Portuguese (likely typo as it appears only once)
                    ('r', 'Standard Portuguese'):'ɾ',
+                   
+                   #OCCITAN
+                   #Occitan has 1-2 rhotic sounds, either all tap /ɾ/ or /ɾ/ and /r/~/ʀ/ (but not all 3)
+                   #Here: convert /ʁ/ to /ʀ/; 
+                   #All instances of /r/ in transcription should actually be /ɾ/
+                   #Except for in the word <rusco> /rˈysko/ 'BARK' --> /ʀˈysko/, so target it individually in fix_tr function below using regexp
+                   ('ʁ', 'Provençal Occitan'):'ʀ',
+                   ('r', 'Provençal Occitan'):'ɾ',
+                   
                    
                    
                    #GENERAL REPLACEMENTS
@@ -164,6 +176,12 @@ def fix_tr(tr, lang):
     tr = re.sub('ːː', 'ː', tr)
     tr = re.sub('̯̯', '̯', tr)
     
+    #Other reg exp modifications
+    if lang == 'Provençal Occitan':
+        #see Occitan section in conversion dict for explanation
+        tr = re.sub('ɾˈy', 'ʀˈy', tr)
+        
+    
     #fix position of primary stress annotation (make it immediately precede the stress-bearing segment)
     stress_marked = 'ˈ' in tr
     if stress_marked == True:
@@ -188,6 +206,8 @@ def fix_tr(tr, lang):
                 segments[i] = ''.join([ch for ch in segments[i] if ch != stress_mark])
                 segments[new_i] = stress_mark + segments[new_i]
         tr = ''.join(segments)
+    
+    
     
     return tr
 

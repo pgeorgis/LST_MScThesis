@@ -5701,7 +5701,7 @@ CastilianSpanish_HEAD_1	Spanish	cast1244	spa	HEAD	cabeza	kaβˈeθa	k a β ˈe �
 CastilianSpanish_HEAR_1	Spanish	cast1244	spa	HEAR	oír	oˈiɾ	o ˈi ɾ	oˈi-ɾ	HEAR_1	FALSE	Distinct from eskuč-ˈa-ɾ {escuchar} 'to listen' [Valén 2015].	Valén 2015
 CastilianSpanish_HEART_1	Spanish	cast1244	spa	HEART	corazón	koɾaθˈon	k o ɾ a θ ˈo n	koɾ-aθ-ˈon	HEART_1	FALSE		Valén 2015
 CastilianSpanish_HORN (ANATOMY)_1	Spanish	cast1244	spa	HORN (ANATOMY)	cuerno	kwˈerno	k w ˈe r n o	kˈwern-o	HORN (ANATOMY)_1	FALSE		Valén 2015
-CastilianSpanish_I_1	Spanish	cast1244	spa	I	yo	ʝo	ʝ o	ʑo	I_1	FALSE	Paradigm: ʑo {yo} [nom.] / mi {mí} ~ me {me} (clitic) [obl.].	Valén 2015
+CastilianSpanish_I_1	Spanish	cast1244	spa	I	yo	ɟ͡ʝo	ɟ͡ʝ o	ʑo	I_1	FALSE	Paradigm: ʑo {yo} [nom.] / mi {mí} ~ me {me} (clitic) [obl.].	Valén 2015
 CastilianSpanish_I_2	Spanish	cast1244	spa	I	mí	mi	m i	mi	I_2	FALSE	Oblique form.	Valén 2015
 CastilianSpanish_KILL_8	Spanish	cast1244	spa	KILL	matar	matˈaɾ	m a t ˈa ɾ	mat-ˈa-ɾ	KILL_8	FALSE		Valén 2015
 CastilianSpanish_KNEE_2	Spanish	cast1244	spa	KNEE	rodilla	roðˈiʎa	r o ð ˈi ʎ a	roðˈiʎ-a	KNEE_2	FALSE		Valén 2015
@@ -6128,7 +6128,7 @@ Galician_WORM_1	Galician	gali1258	glg	WORM	verme	bˈɛɾme	b ˈɛ ɾ m e	bˈɛɾ
 Galician_YEAR_1	Galician	gali1258	glg	YEAR	ano	ˈano	ˈa n o	ˈan-o	YEAR_1	FALSE		Montoya Bolaños 2015; Franco Grande 1968: 764, 86; Fernández Armesto 1981: 73; Carré Alvarellos 1972: 922, 78
 ProvençalOccitan_ALL_2	Occitan	prov1235	oci	ALL	tout	tut	t u t	tut	ALL_2	FALSE	Polysemy: ˈall (omnis) / all (totus)ˈ, cf. {tóut ils ome} "all the men" [Coupier 1995: 1414-1415] and {touto la niue} "all the night" [Coupier 1995: 1414].	Coupier 1995: 1414-1415
 ProvençalOccitan_ASH_1	Occitan	prov1235	oci	ASH	cèndre	sˈɛndɾe	s ˈɛ n d ɾ e	sˈɛndɾ-e	ASH_1	FALSE		Coupier 1995: 213
-ProvençalOccitan_BARK_5	Occitan	prov1235	oci	BARK	rusco	rˈysko	r ˈy s k o	rˈüsk-o	BARK_5	FALSE	The form eskˈɔrs-o {escorço} 'bark' is less frequent [Coupier 1995: 456].	Coupier 1995: 456
+ProvençalOccitan_BARK_5	Occitan	prov1235	oci	BARK	rusco	ʀˈysko	ʀ ˈy s k o	rˈüsk-o	BARK_5	FALSE	The form eskˈɔrs-o {escorço} 'bark' is less frequent [Coupier 1995: 456].	Coupier 1995: 456
 ProvençalOccitan_BELLY_1	Occitan	prov1235	oci	BELLY	vèntre	vˈɛntɾe	v ˈɛ n t ɾ e	vˈɛntɾ-e	BELLY_1	FALSE		Coupier 1995: 1469
 ProvençalOccitan_BIG_2	Occitan	prov1235	oci	BIG	grand	ɡɾant	ɡ ɾ a n t	gɾant	BIG_2	FALSE	Distinct from gɾɔs {gros}, which is more restricted to the designation of thickness, big volume [Coupier 1995: 673-674].	Coupier 1995: 664
 ProvençalOccitan_BIRD_1	Occitan	prov1235	oci	BIRD	aucèu	awsˈɛw	a w s ˈɛ w	awsˈεw	BIRD_1	FALSE		Coupier 1995: 961
@@ -6140,7 +6140,7 @@ ProvençalOccitan_BREAST_1	Occitan	prov1235	oci	BREAST	peitrino	pejtɾˈino	p e 
 ProvençalOccitan_BREAST_1	Occitan	prov1235	oci	BREAST	pitre	pˈitɾe	p ˈi t ɾ e	pˈitɾ-e	BREAST_1	FALSE	Distinct from sen {sen} 'female breast'. Distinct from tetˈe {teté} 'female breast', used in familiar speech or in baby talk [Coupier 1995: 1283].	Coupier 1995: 1075
 ProvençalOccitan_BREAST_1	Occitan	prov1235	oci	BREAST	pies	pjɛs	p j ɛ s	pyεs	BREAST_1	FALSE	Distinct from sen {sen} 'female breast'. Distinct from tetˈe {teté} 'female breast', used in familiar speech or in baby talk [Coupier 1995: 1283].	Coupier 1995: 1075
 ProvençalOccitan_BREAST_1	Occitan	prov1235	oci	BREAST	piés	pjes	p j e s	pyes	BREAST_1	FALSE	Distinct from sen {sen} 'female breast'. Distinct from tetˈe {teté} 'female breast', used in familiar speech or in baby talk [Coupier 1995: 1283].	Coupier 1995: 1075
-ProvençalOccitan_BURN (SOMETHING)_-1	Occitan	prov1235	oci	BURN (SOMETHING)	brula	brylˈa	b r y l ˈa	brül-ˈa	BURN (SOMETHING)_1	TRUE	There are two expressions for 'to burn': brül-ˈa {brula} and kɾem-ˈa {crema}. Coupier mentions them as synonyms.	Coupier 1995: 181
+ProvençalOccitan_BURN (SOMETHING)_-1	Occitan	prov1235	oci	BURN (SOMETHING)	brula	bɾylˈa	b ɾ y l ˈa	brül-ˈa	BURN (SOMETHING)_1	TRUE	There are two expressions for 'to burn': brül-ˈa {brula} and kɾem-ˈa {crema}. Coupier mentions them as synonyms.	Coupier 1995: 181
 ProvençalOccitan_BURN (SOMETHING)_4	Occitan	prov1235	oci	BURN (SOMETHING)	crema	kɾemˈa	k ɾ e m ˈa	kɾem-ˈa	BURN (SOMETHING)_4	FALSE		Coupier 1995: 181
 ProvençalOccitan_FINGERNAIL_1	Occitan	prov1235	oci	FINGERNAIL	ounglo	ˈuŋɡlo	ˈu ŋ ɡ l o	ˈuŋgl-o	FINGERNAIL_1	FALSE		Coupier 1995: 965
 ProvençalOccitan_CLOUD_1	Occitan	prov1235	oci	CLOUD	nive	nˈive	n ˈi v e	nˈiv-e	CLOUD_1	FALSE	Distinct from nˈεbl-o {nèblo} 'fog' [Coupier 1995: 179].	Coupier 1995: 947-948
@@ -6152,8 +6152,8 @@ ProvençalOccitan_DIE_1	Occitan	prov1235	oci	DIE	mouri	muɾˈi	m u ɾ ˈi	muɾ-�
 ProvençalOccitan_DOG_-1	Occitan	prov1235	oci	DOG	chin	ʧiŋ	ʧ i ŋ	čiŋ	DOG_1	TRUE	Borrowed from French {chien} 'dog'.	Coupier 1995: 237-238
 ProvençalOccitan_DRINK_1	Occitan	prov1235	oci	DRINK	béure	bˈewɾe	b ˈe w ɾ e	bˈew-ɾe	DRINK_1	FALSE		Coupier 1995: 156-157
 ProvençalOccitan_DRY_1	Occitan	prov1235	oci	DRY	se	se	s e	se	DRY_1	FALSE		Coupier 1995: 1278-1279
-ProvençalOccitan_EAR_1	Occitan	prov1235	oci	EAR	auriho	awrˈio	a w r ˈi o	awrˈi-o	EAR_1	FALSE		Coupier 1995: 972
-ProvençalOccitan_EARTH (SOIL)_1	Occitan	prov1235	oci	EARTH (SOIL)	terro	tˈɛʁo	t ˈɛ ʁ o	tˈɛʁ-o	EARTH (SOIL)_1	FALSE	Earth as soil. Distinct from sɔw {sòu} 'earth as surface' [Coupier 1995: 1386].	Coupier 1995: 1386
+ProvençalOccitan_EAR_1	Occitan	prov1235	oci	EAR	auriho	awɾˈio	a w ɾ ˈi o	awrˈi-o	EAR_1	FALSE		Coupier 1995: 972
+ProvençalOccitan_EARTH (SOIL)_1	Occitan	prov1235	oci	EARTH (SOIL)	terro	tˈɛʀo	t ˈɛ ʀ o	tˈɛʁ-o	EARTH (SOIL)_1	FALSE	Earth as soil. Distinct from sɔw {sòu} 'earth as surface' [Coupier 1995: 1386].	Coupier 1995: 1386
 ProvençalOccitan_EAT_-1	Occitan	prov1235	oci	EAT	manja	manʤˈa	m a n ʤ ˈa	manǯ-ˈa	EAT_2	TRUE	Borrowed from Old French {mangier} 'to eat'.	Coupier 1995: 851
 ProvençalOccitan_EGG_1	Occitan	prov1235	oci	EGG	iòu	jɔw	j ɔ w	yɔw	EGG_1	FALSE		Coupier 1995: 959
 ProvençalOccitan_EYE_1	Occitan	prov1235	oci	EYE	uei	ɥɛj	ɥ ɛ j	ɥɛy	EYE_1	FALSE		Coupier 1995: 957-958
@@ -6168,7 +6168,7 @@ ProvençalOccitan_FOOT_1	Occitan	prov1235	oci	FOOT	pèd	pɛt	p ɛ t	pɛt	FOOT_1	
 ProvençalOccitan_FULL_1	Occitan	prov1235	oci	FULL	plen	pleŋ	p l e ŋ	pleŋ	FULL_1	FALSE		Coupier 1995: 1063
 ProvençalOccitan_GIVE_2	Occitan	prov1235	oci	GIVE	douna	dunˈa	d u n ˈa	dun-ˈa	GIVE_2	FALSE	Coupier mentions the term bay-ˈa {baia} as a synonym, but dun-ˈa {douna} prevails in the examples that are provided in the dictionary.	Coupier 1995: 433-434
 ProvençalOccitan_GOOD_1	Occitan	prov1235	oci	GOOD	bon	boŋ	b o ŋ	boŋ	GOOD_1	FALSE		Coupier 1995: 158-159
-ProvençalOccitan_GREEN_1	Occitan	prov1235	oci	GREEN	verd	vert	v e r t	vert	GREEN_1	FALSE		Coupier 1995: 1474
+ProvençalOccitan_GREEN_1	Occitan	prov1235	oci	GREEN	verd	veɾt	v e ɾ t	vert	GREEN_1	FALSE		Coupier 1995: 1474
 ProvençalOccitan_HAIR_2	Occitan	prov1235	oci	HAIR	péu	pɛw	p ɛ w	pɛw	HAIR_2	FALSE	Generic term for both head and body hair. Distinct from the obsolete term kabˈɛw {cabèu} 'hair' and from the Gallicism čev-ˈü {chevu} ~ čiv-ˈü {chivu}, used in colloquial speech [Coupier 1995: 236].	Coupier 1995: 236, 1071
 ProvençalOccitan_HAND_1	Occitan	prov1235	oci	HAND	man	maŋ	m a ŋ	maŋ	HAND_1	FALSE	Distinct from bɾas {bras} 'arm' [Coupier 1995: 173-174].	Coupier 1995: 840-841
 ProvençalOccitan_HEAD_2	Occitan	prov1235	oci	HEAD	tèsto	tˈɛsto	t ˈɛ s t o	tˈɛst-o	HEAD_2	FALSE		Coupier 1995: 1389-1390
@@ -6208,11 +6208,11 @@ ProvençalOccitan_NOT_1	Occitan	prov1235	oci	NOT	nàni	nani	n a n i	nani	NOT_1	F
 ProvençalOccitan_ONE_1	Occitan	prov1235	oci	ONE	un	yŋ	y ŋ	üŋ	ONE_1	FALSE		Coupier 1995: 1451
 ProvençalOccitan_PERSON_1	Occitan	prov1235	oci	PERSON	ome	ˈɔme	ˈɔ m e	ˈɔme	PERSON_1	FALSE		Coupier 1995: 699
 ProvençalOccitan_RAIN (PRECIPITATION)_1	Occitan	prov1235	oci	RAIN (PRECIPITATION)	plueio	plɥˈɛjo	p l ɥ ˈɛ j o	plˈɥɛy-o	RAIN (PRECIPITATION)_1	FALSE		Coupier 1995: 1067
-ProvençalOccitan_RED_1	Occitan	prov1235	oci	RED	rouge	ʁˈuʤe	ʁ ˈu ʤ e	ʁˈuǯ-e	RED_1	FALSE		Coupier 1995: 1248-1249
+ProvençalOccitan_RED_1	Occitan	prov1235	oci	RED	rouge	ʀˈuʤe	ʀ ˈu ʤ e	ʁˈuǯ-e	RED_1	FALSE		Coupier 1995: 1248-1249
 ProvençalOccitan_ROAD_-1	Occitan	prov1235	oci	ROAD	camin	kamˈiŋ	k a m ˈi ŋ	kamˈiŋ	ROAD_6	TRUE	Of Gaulish origin. Distinct from ʁˈut-o {routo} 'highway, asphalt road' [Coupier 1995: 1251-1252].	Coupier 1995: 232-233
-ProvençalOccitan_ROOT_1	Occitan	prov1235	oci	ROOT	racino	ʁasˈino	ʁ a s ˈi n o	ʁasˈin-o	ROOT_1	FALSE		Coupier 1995: 1148
-ProvençalOccitan_ROUND_1	Occitan	prov1235	oci	ROUND	redoun	ʁedˈuŋ	ʁ e d ˈu ŋ	ʁedˈuŋ	ROUND_1	FALSE		Coupier 1995: 1245
-ProvençalOccitan_ROUND_1	Occitan	prov1235	oci	ROUND	round	ʁund	ʁ u n d	ʁund	ROUND_1	FALSE		Coupier 1995: 1245
+ProvençalOccitan_ROOT_1	Occitan	prov1235	oci	ROOT	racino	ʀasˈino	ʀ a s ˈi n o	ʁasˈin-o	ROOT_1	FALSE		Coupier 1995: 1148
+ProvençalOccitan_ROUND_1	Occitan	prov1235	oci	ROUND	redoun	ʀedˈuŋ	ʀ e d ˈu ŋ	ʁedˈuŋ	ROUND_1	FALSE		Coupier 1995: 1245
+ProvençalOccitan_ROUND_1	Occitan	prov1235	oci	ROUND	round	ʀund	ʀ u n d	ʁund	ROUND_1	FALSE		Coupier 1995: 1245
 ProvençalOccitan_SAND_2	Occitan	prov1235	oci	SAND	sablo	sˈablo	s ˈa b l o	sˈabl-o	SAND_2	FALSE		Coupier 1995: 1256
 ProvençalOccitan_SAY_1	Occitan	prov1235	oci	SAY	dire	dˈiɾe	d ˈi ɾ e	dˈi-ɾe	SAY_1	FALSE		Coupier 1995: 416-417
 ProvençalOccitan_SEE_1	Occitan	prov1235	oci	SEE	vèire	vˈɛjɾe	v ˈɛ j ɾ e	vˈɛy-ɾe	SEE_1	FALSE		Coupier 1995: 1492-1493
@@ -6261,7 +6261,7 @@ ProvençalOccitan_NEAR_1	Occitan	prov1235	oci	NEAR	proche	pɾˈɔʧe	p ɾ ˈɔ �
 ProvençalOccitan_SALT_1	Occitan	prov1235	oci	SALT	sau	saw	s a w	saw	SALT_1	FALSE		Coupier 1995: 1284
 ProvençalOccitan_SHORT_2	Occitan	prov1235	oci	SHORT	court	kuɾt	k u ɾ t	kuɾt	SHORT_2	FALSE		Coupier 1995: 319-320
 ProvençalOccitan_SNAKE_2	Occitan	prov1235	oci	SNAKE	serp	sɛɾp	s ɛ ɾ p	sɛɾp	SNAKE_2	FALSE		Coupier 1995: 1292
-ProvençalOccitan_SNAKE_2	Occitan	prov1235	oci	SNAKE	serpènt	serpˈɛnt	s e r p ˈɛ n t	serp-ˈɛnt	SNAKE_2	FALSE		Coupier 1995: 1292
+ProvençalOccitan_SNAKE_2	Occitan	prov1235	oci	SNAKE	serpènt	seɾpˈɛnt	s e ɾ p ˈɛ n t	serp-ˈɛnt	SNAKE_2	FALSE		Coupier 1995: 1292
 ProvençalOccitan_THIN_4	Occitan	prov1235	oci	THIN	fin	fiŋ	f i ŋ	fiŋ	THIN_4	FALSE		Coupier 1995: 595
 ProvençalOccitan_WIND_1	Occitan	prov1235	oci	WIND	vènt	vɛnt	v ɛ n t	vɛnt	WIND_1	FALSE	There are two expressions for 'wind': vɛnt {vènt} and ˈawɾ-o {auro}. Coupier mentions them as synonyms.	Coupier 1995: 1468-1469
 ProvençalOccitan_WIND_3	Occitan	prov1235	oci	WIND	auro	ˈawɾo	ˈa w ɾ o	ˈawɾ-o	WIND_3	FALSE		Coupier 1995: 1468-1469
