@@ -231,6 +231,13 @@ def fix_tr(tr, lang):
                 segments[new_i] = stress_mark + segments[new_i]
         tr = ''.join(segments)
     
+    #Change geminate consonants into sequences of identical consonants
+    tr = list(tr)
+    for i in range(len(tr)):
+        if tr[i] == 'ː':
+            if tr[i-1] in consonants:
+                tr[i] = tr[i-1]
+    tr = ''.join(tr)
     
     
     return tr
