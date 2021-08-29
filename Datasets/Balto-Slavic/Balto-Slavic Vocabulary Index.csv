@@ -1,386 +1,491 @@
 Gloss	Belarusian	Bulgarian	Burgenland Čakavian	Czech	Kajkavian	Latvian	Lithuanian	Macedonian	Polish	Russian	Slovak	Slovenian	Ukrainian	Čakavian (Cres)	Čakavian (Istria)	Štokavian
-ALL	usʲˈɵ	fsˈiʧko		fʃˈɛxno					fʂˈɨstkɔ	fsʲe	fʃˈɛtkɔ	u̯sɛ́	ʍsɛ			sʋê
-ALL_1			vas		vjes	viss	vʲˈɪsɐs	sidef						vɛs	sva~sa	
-AND	i~dɨ	a~ta		ˈa					i	i	i	in	i			i~tê
-ANIMAL	ʐɨvʲˈɵɫa	ʒivˈɔtno		zvˈiːr̝ɛ					zvʲjˈɛʐɛ	ʐɨvˈotnəjə	zʋˈɪ̯ɛra	ʒiʋàːu̯	tʋɐrˈɪnɐ			ʒiʋǒtiɲa
-ASH	pˈopʲeɫ	pˈɛpɛɫ		pˈopɛl					pˈɔpʲjuw	zɐɫˈa~pʲˈepʲɪɫ	pˈɔpɔɫ	pɛpɛ̀ːu̯	zɔɫˈɑ~pˈɔpʲiɫ			pêpeo
-ASH_1			pjěpɛl		pˈæpæl	pæ̌lni	pʲɛlʲɛnɐ̌j	pepel						pɔ̌ːpɛl	pˈɔpɛl	
-BACK	sʲpʲˈina	ɡrɤp		zˈaːda~ɦr̝bˈɛt					plˈɛʦɨ~ɡʐbʲjɛt	spʲɪnˈa	xˈr̩baːt	xrbɛ́t	spˈɪnɐ			lěːʥa~xř̩bat
-BAD	kʲˈepʲsʲkʲi	ɫɔʃ		ʃpˈatniː					zwɨ	pɫɐxˈoɪ̯	zɫiː	malɔprìːdɛn	pɔɦˈɑnɪi̯~kˈɛpsʲkɪi̯			lôʃ~ř̩ʥaʋ
-BARK	karˈa	korˈa		kˈuːra					kˈɔɾa	kɐrˈa	kˈʊ̯ɔra	lùːbjɛ~skɔ̀ːra	kɔrˈɑ			kôra
-BARK_1			ku̯ɔ̌ra		kˈu̯orɒ		ʒʲjɛvʲěː	kora						kɔ̌ːra	kˈɔra	
-BARK_2						miza										
-BELLY	ʐɨvˈot	tɐrbˈux		br̝ˈɪxo					bʐux	ʐɨvˈot	brˈuxɔ	trɛ̀ːbux	ʒɪʋʲˈit			tř̩bux
-BELLY_1							pʲǐɫvɐs	mef								
-BELLY_2			tˈr̩buːɦ		tˈɛrbuh	væ̂ːdæ̌rs								tɛrbˈux	tr̩bˈux	
-BELLY_3					drowb											
-BERRY	jˈæʁada	pɫɔt		bˈobulɛ					jaɡˈɔda	jˈaɡədə	bˈɔbuʎa	jàːɡɔda	jˈɑɦɔdɐ			bǒːba~bǒbiʦa
-BIG	vʲælʲˈikʲi	ˈɛdɐr~ɡolʲˈam		vˈɛlkiː					dˈuʐɨ~vʲjˈɛlkʲi	bɐlʲʂˈoɪ̯	ʋˈɛʎkiː	ʋéːlik	ʋɛɫˈɪkɪi̯			ʋêlik
-BIG_1							dʲˈɪdʲɛlʲɪs	ɡoʎem								
-BIG_2			vˈɛliːk~vjělik		vˈæli~vˈælːi~vˈælik	ljɛls								věːli	vêːli	
-BIRD	ptax~ptˈuʂka	ptˈiʦɐ		ptˈaːk					ptak	ptʲˈiʦə	ftaːk	ptíʧ~ptìːʦa	ptɑx			ptîʦa
-BIRD_1							pɐ̌wkʃʲtʲɪs	piʎe								
-BIRD_2			ptˈiʦa~tˈiʦa		tˈiʦːa	putns								ftˈiʦa	tic	
-BITE	kusˈaʦʲ	xˈapʲɐ~uxˈapʲɐ		kˈou̯sat					kˈɔw̃saʨ	kʊsˈatʲ	kˈuːsac	ɡrìːsti	kʊsˈɑtɪ			ǔjesti~ɡrîsti
-BITE_1						kuɔ̯̂st	kɑ̂ːsʲtʲɪ	kəsa								
-BITE_2			ɡrîːst		ɡris									ɡrǐːst	ɡris	
-BLACK	ʧˈornɨ	ʧˈɛrɛn		ʧˈɛrniː					ʈ͡ʂˈaɾnɨ	ʨˈɵrnɨɪ̯	ʧˈɪ̯ɛrni	ʧə̀rn	ʧˈɔrnɪi̯			ʦr̩̂ːn
-BLACK_1			ʧjêran~ʧjêraːn		ʧɛrn		juə̂dɐs	ʦr̩n						ʧěːrni~ʧˈɛrni	ʧr̩̂n	
-BLACK_2						mǣlns										
-BLOOD	krow	krɤf		krˈɛf					kɾɛf	krofʲ	kr̩ʋ	krìː	krɔu̯			kr̩̂ːʋ
-BLOOD_1			kr̩v		kɛrv		krɐ̌wjɐs	kr̩f						krîːj	kr̩̂f	
+ALL_1	uvʲˈesʲ	fsˈiʧkʲi	vas	fʃˈɛxɛn	vjes	viss	vʲˈɪsɐs	sidef	fʂˈɨstɛk	vʲesʲ	fʃˈɛtɔk	ʋə́s	ʋɛsʲ	vɛs	sva~sa	sâʋ
+AND_1				a												
+AND_2	i	i							i	i	i	in	i			i
+ANIMAL_1	ʐɨvʲˈɵɫa	ʒivˈɔtno								ʐɨvˈotnəjə		ʒiʋàːu̯				ʒiʋǒtiɲa
+ANIMAL_2				zvˈiːr̝ɛ					zvʲjˈɛʐɛ		zʋˈɪ̯ɛra					
+ANIMAL_3													tʋɐrˈɪnɐ			
+ASH_1	pˈopʲeɫ	pˈɛpɛɫ	pjěpɛl	pˈopɛl	pˈæpæl	pæ̌lni	pʲɛlʲɛnɐ̌j	pepel	pˈɔpʲjuw	pʲˈepʲɪɫ	pˈɔpɔɫ	pɛpɛ̀ːu̯	pˈɔpʲiɫ	pɔ̌ːpɛl	pˈɔpɛl	pêpeo
+ASH_2										zɐɫˈa			zɔɫˈɑ			
+BACK_1		ɡrɤp														
+BACK_2									plˈɛʦɨ							
+BACK_3				ɦr̝bɛt					ɡʐbʲjɛt		xˈr̩baːt	xrbɛ́t				xř̩bat
+BACK_4				zˈaːda												
+BACK_5	sʲpʲˈina									spʲɪnˈa			spˈɪnɐ			
+BACK_6																lěːʥa
+BAD_1		ɫɔʃ														lôʃ
+BAD_2																ř̩ʥaʋ
+BAD_3												malɔprìːdɛn				
+BAD_4									zwɨ		zɫiː					
+BAD_5				ʃpˈatniː												
+BAD_6													pɔɦˈɑnɪi̯			
+BAD_7	kʲˈepʲsʲkʲi												kˈɛpsʲkɪi̯			
+BAD_8										pɫɐxˈoɪ̯						
+BARK_1	karˈa	korˈa	ku̯ɔ̌ra	kˈuːra	kˈu̯orɒ			kora	kˈɔɾa	kɐrˈa	kˈʊ̯ɔra	skɔ̀ːra	kɔrˈɑ	kɔ̌ːra	kˈɔra	kôra
+BARK_2												lùːbjɛ				
+BARK_3							ʒʲjɛvʲěː									
+BARK_4						miza										
+BELLY_1		tɐrbˈux	tˈr̩buːɦ		tˈɛrbuh							trɛ̀ːbux		tɛrbˈux	tr̩bˈux	tř̩bux
+BELLY_2				br̝ˈɪxo					bʐux		brˈuxɔ					
+BELLY_3	ʐɨvˈot									ʐɨvˈot			ʒɪʋʲˈit			
+BELLY_4							pʲǐɫvɐs									
+BELLY_5						væ̂ːdæ̌rs										
+BELLY_6								mef								
+BELLY_7					drowb											
+BERRY_1		zrˈɤnʦɛ														
+BERRY_2				bˈobulɛ							bˈɔbuʎa					bǒːba~bǒbiʦa
+BERRY_3	jˈæʁada								jaɡˈɔda	jˈaɡədə		jàːɡɔda	jˈɑɦɔdɐ			
+BIG_1		ˈɛdɐr														
+BIG_2		ɡolʲˈam						ɡoʎem								
+BIG_3	vʲælʲˈikʲi		vˈɛliːk~vjělik	vˈɛlkiː	vˈæli~vˈælːi~vˈælik				vʲjˈɛlkʲi		ʋˈɛʎkiː	ʋéːlik	ʋɛɫˈɪkɪi̯	věːli	vêːli	ʋêlik
+BIG_4									dˈuʐɨ							
+BIG_5										bɐlʲʂˈoɪ̯						
+BIG_6							dʲˈɪdʲɛlʲɪs									
+BIG_7						ljɛls										
+BIRD_1	ptax~ptˈuʂka	ptˈiʦɐ	ptˈiʦa~tˈiʦa	ptaːk	tˈiʦːa	putns			ptak	ptʲˈiʦə	ftaːk	ptíʧ~ptìːʦa	ptɑx	ftˈiʦa	tic	ptîʦa
+BIRD_2							pɐ̌wkʃʲtʲɪs									
+BIRD_3								piʎe								
+BITE_1		xˈapʲɐ~uxˈapʲɐ														
+BITE_2	kusˈaʦʲ			kˈou̯sat		kuɔ̯̂st	kɑ̂ːsʲtʲɪ	kəsa	kˈɔw̃saʨ	kʊsˈatʲ	kˈuːsac		kʊsˈɑtɪ			
+BITE_3			ɡrîːst		ɡris							ɡrìːsti		ɡrǐːst	ɡris	ɡrîsti
+BLACK_1	ʧˈornɨ	ʧˈɛrɛn	ʧjêran~ʧjêraːn	ʧˈɛrniː	ʧɛrn			ʦr̩n	ʈ͡ʂˈaɾnɨ	ʨˈɵrnɨɪ̯	ʧˈɪ̯ɛrni	ʧə̀rn	ʧˈɔrnɪi̯	ʧěːrni~ʧˈɛrni	ʧr̩̂n	ʦr̩̂ːn
+BLACK_2							juə̂dɐs									
+BLACK_3						mǣlns										
+BLOOD_1	krow	krɤf	kr̩v	krɛf	kɛrv		krɐ̌wjɐs	kr̩f	kɾɛf	krofʲ	kr̩ʋ	krìː	krɔu̯	krîːj	kr̩̂f	kr̩̂ːʋ
 BLOOD_2						asǐns										
-BLOW_(OF_WIND)	ʣʲmuʦʲ	vˈɛjɐ~dˈuxɐm		vˈaːt~vˈanou̯t					vʲjaʨ	dutʲ	ʋɪ̯ac	pìːxati	ʋʲˈijɐtɪ			dǔːxati
-BONE	kosʲʦʲ	kɔst		kˈost					kɔɕʨ	kosʲtʲ	kɔsc	kɔ̀ːst	kʲˈistkɐ			kôːst
-BONE_1			ku̯ôst		kows	kāwls	kɐ̂wɫɐs	koska						kôːst	ku̯ôs	
-BREAST	ʁrˈuʣʲi	ɡrɤt		ɦrˈuc					pʲjɛɾɕ	ɡrutʲ	pˈr̩sɪ̯a	pə́rsi	ɦrˈudɪ			ɡrûːdi~pr̩̂sa
-BREAST_1			pˈr̩sa~pˈr̩si			krǔːts~krǔːtis	kruːtʲˈɪnʲeː	ɡrada								
-BREAST_2					pˈɛrsi									pˈɛrsɛ	pˈr̩sa	
-BREATHE	dˈɨxaʦʲ	dˈiʃɐm		dˈiːxat					ɔddˈɨxaʨ	dɨʂˈatʲ	dˈiːxac	dìːxati	dˈɪxɐtɪ			dǐːsati
-BURN	ʁarˈɛʦʲ~palʲˈiʦʲ	ɡorʲˈɤ		ɦˈor̝ɛt~pˈaːlɪt					pˈalʲiʨ ɕɛ	ɡɐrʲˈetʲ~zʐɛʨ	pˈaːɫic~ɦˈɔrɪ̯ɛc	ɡɔrɛ̀ːti~sɛʒɡàːti	ɦɔɾʲˈitɪ~pɐɫˈɪtɪ			ɡǒrjeti
-BURN_1						dɛʣinâːt	dʲæ̌ɡʲɪntʲɪ	ɡori						ɡɔrˈɛt		
-BURN_2															paːlˈit	
-BURN_3					ʒɡɒt											
-CLOTHES	aʣʲˈenʲnʲe	drˈɛxi~oblɛkɫˈɔ		ʃˈatɪ					ˈɔʥɛʂ	ɐdʲˈeʐdə	ʃˈati	ɔblɛ̀ːka	ˈɔdʲɐɦ~ʊbrˈɑnʲnʲɐ			ǒdjeʨa
-CLOUD	vˈobɫaka	ˈɔbɫɐk		mrˈak~ˈoblak					ˈɔbwɔk~xmˈuɾa	ˈobɫəkə	ˈɔbɫak~mrak	ɔblàːk	xmˈɑrɐ			ôblaːk
-CLOUD_1			u̯ɔ̌blak~ʔˈɔblak		ˈu̯oblɒk		dʲɛbʲɛsʲˈɪs	oblak						ɔ̌ːblak	ˈɔblak	
-CLOUD_2						māːkuɔ̯̂nis										
-COLD	xaɫˈodnɨ	studˈɛn		stˈudɛniː					xwˈɔdnɨ	xɐɫˈodnɨɪ̯	stˈuɟɛniː	mə̀rzɛu̯~xlàːdɛn	xɔɫˈɔdnɪi̯			xlǎːdan
-COLD_1					zdæn		ʃɐ̂ɫtɐs	studen								
-COLD_2						āwksts								xlǎːdni	xlâːdan	
-COLD_3			mˈr̩zal													
-COME	prɨjsʲʦʲˈi	ˈidɐ~dˈɔjdɐ		pr̝̊ˈɪjiːt					pʂɨjɕʨ	prʲɪjtʲˈi	priːsc	prìːti	prɪjtˈɪ			dǒːʨi
-COME_1			du̯ôjt		dowt~du̯ojt~dˈowti		ɐtʲêjtʲɪ	idi~doj						prǐːt	prǐːt	
+BONE_1	kosʲʦʲ	kɔst	ku̯ôst	kost	kows			koska	kɔɕʨ	kosʲtʲ	kɔsc	kɔ̀ːst	kʲˈistkɐ	kôːst	ku̯ôs	kôːst
+BONE_2						kāwls	kɐ̂wɫɐs									
+BREAST_1	ʁrˈuʣʲi	ɡrɤt		ɦruc				ɡrada		ɡrutʲ			ɦrˈudɪ			ɡrûːdi
+BREAST_2			pˈr̩sa~pˈr̩si		pˈɛrsi				pʲjɛɾɕ		pˈr̩sɪ̯a	pə́rsi		pˈɛrsɛ	pˈr̩sa	pr̩̂sa
+BREAST_3						krǔːts~krǔːtis	kruːtʲˈɪnʲeː									
+BREATHE_1	dˈɨxaʦʲ	dˈiʃɐm		dˈiːxat					ɔddˈɨxaʨ	dɨʂˈatʲ	dˈiːxac	dìːxati	dˈɪxɐtɪ			dǐːsati
+BURN_1	ʁarˈɛʦʲ	ɡorʲˈɤ		ɦˈor̝ɛt				ɡori		ɡɐrʲˈetʲ	ɦˈɔrɪ̯ɛc	ɡɔrɛ̀ːti	ɦɔɾʲˈitɪ	ɡɔrˈɛt		ɡǒrjeti
+BURN_2	palʲˈiʦʲ			pˈaːlɪt					pˈalʲiʨ ɕɛ		pˈaːɫic		pɐɫˈɪtɪ		paːlˈit	
+BURN_3					ʒɡɒt					zʐɛʨ		sɛʒɡàːti				
+BURN_4						dɛʣinâːt	dʲæ̌ɡʲɪntʲɪ									
+CLOTHES_1		drˈɛxi														
+CLOTHES_2		oblɛkɫˈɔ										ɔblɛ̀ːka				
+CLOTHES_3	aʣʲˈeʐa									ɐdʲˈeʐdə						ǒdjeʨa
+CLOTHES_4				ʃˈatɪ							ʃˈati					
+CLOTHES_5									ˈɔʥɛʂ				ˈɔdʲɐɦ			
+CLOUD_1	vˈobɫaka	ˈɔbɫɐk	u̯ɔ̌blak~ʔˈɔblak	ˈoblak	ˈu̯oblɒk			oblak	ˈɔbwɔk	ˈobɫəkə	ˈɔbɫak	ɔblàːk		ɔ̌ːblak	ˈɔblak	ôblaːk
+CLOUD_2									xmˈuɾa				xmˈɑrɐ			
+CLOUD_3				mrak							mrak					
+CLOUD_4							dʲɛbʲɛsʲˈɪs									
+CLOUD_5						māːkuɔ̯̂nis										
+COLD_1		studˈɛn		stˈudɛniː	zdæn			studen			stˈuɟɛniː					
+COLD_2	xaɫˈodnɨ								xwˈɔdnɨ	xɐɫˈodnɨɪ̯		xlàːdɛn	xɔɫˈɔdnɪi̯	xlǎːdni	xlâːdan	xlǎːdan
+COLD_3			mˈr̩zal									mə̀rzɛu̯				
+COLD_4						āwksts										
+COLD_5							ʃɐ̂ɫtɐs									
+COME_1	prɨjsʲʦʲˈi	ˈidɐ~dˈɔjdɐ	du̯ôjt	pr̝̊ˈɪjiːt	dowt~du̯ojt~dˈowti		ɐtʲêjtʲɪ	idi~doj	pʂɨjɕʨ	prʲɪjtʲˈi	priːsc	prìːti	prɪjtˈɪ	prǐːt	prǐːt	dǒːʨi
 COME_2						atnāːkt										
-COUNT	lʲiʧˈɨʦʲ	brˈɔjɐ		pˈoʧiːtat					lʲˈiʈ͡ʂɨʨ	ɕːɪtˈatʲ	pˈɔʧiːtac	ʃtɛ̀ːti	lʲiʧˈɪtɪ			brǒjiti
-CRY	pɫˈakaʦʲ	pɫˈaʧɐ		plˈakat					pwˈakaʨ	pɫˈakətʲ	pɫˈakac	jɔ̀ːkati	pɫˈɑkɐtɪ			plâkati
-CUT	rˈɛzaʦʲ	rˈɛʒɐ		r̝ˈɛzat					ʨɔɲʨ	rʲˈezətʲ	rˈɛzac	rɛ̀ːzati	ɾʲˈizɐtɪ			rêzati
-DANCE	tʌnʦavˈaʦʲ	tɐnʦˈuvɐm		tˈanʧɪt					plˈɔw̃saʨ~tˈaɲʈ͡ʂɨʨ	plʲɪsˈatʲ~tənʦɨvˈatʲ	tˈanʦɔʋac	plɛ̀ːsati	tɐnʦʲʊʋˈɑtɪ			plěsati
-DIE	pamʲˈerʦʲi	umrˈɤ		ˈumr̝iːt					ˈumʐɛʨ	ʊmʲɪrʲˈetʲ	ˈumrɪ̯ɛc~zˈɔmrɪ̯ɛc	umrɛ̀ːti	pɔmˈɛrtɪ			ǔmrjeːti
-DIE_1			ˈumriːt		mrejt	mīrt~nuɔ̯̌mīrt	mʲǐrʲtʲɪ~nʊmʲǐrʲtʲɪ	umri						pɔmrěːt~umrěːt	umrjěːt	
-DIG	kapˈaʦʲ	kopˈajɐ		kˈopat					kˈɔpaʨ	kɐpˈatʲ	kˈɔpac	kɔpàːti	kɔpˈɑtɪ			kǒpati
-DIRTY	brˈudnɨ	mrˈɤsɛn		ʃpˈɪnaviː					bɾˈudnɨ	ɡrʲˈaznɨɪ̯	ʃpˈinaʋiː	umàːzan	brʊdnˈɪi̯			pr̩̂ʎaʋ
-DOG	sabˈaka	kˈuʧɛ		pˈɛs					pʲjɛs	sɐbˈakə	pɛs	pɛ́s	sɔbˈɑkɐ			pâs
-DOG_-1								(kuʧe)							(brɛk)	
-DOG_1			pas			sǔns	ʃuə̌							pɛs		
-DOG_2					ʦˈuʦːæk~ʦˈuːʦæk											
-DRINK	pʲiʦʲ	pˈijɐ		pˈiːt					pʲiʨ	pʲitʲ	pic	pìːti	pˈɪtɪ			pîti
-DRINK_1			pit		pit~piːt	ʣêrt	ɡʲæ̂rʲtʲɪ	pije						pit	pit	
-DRY	suxʲˈi	sux		sˈuxiː					sˈuxɨ	sʊxˈoɪ̯	sˈuxiː	sùːx	sʊxˈɪi̯			sûːx
-DRY_1			sûːɦ		suːh	sǎwss	sɐ̌wsɐs	suf						sûːx	sûːx	
-DUST	pɨɫ	prax		prˈax					pɨw~kuʂ	pɨlʲ	prax	pràːx	pɪɫ			prâːx~prǎʃina
-EAR	vˈuxa	uxˈɔ		ˈuxo					ˈuxɔ	ˈuxə	ˈuxɔ	uxɔ̀ː	wˈuxɔ			ûxo
-EARTH	zʲæmlʲˈæ	zɛmʲˈa		zˈɛmɲɛ					ʑˈɛmʲja	zʲɪmlʲˈa	zɛm	zéːmla	zɛmlʲˈɑ			zěmʎa
-EARTH_1			zˈɛmʎa~zˈɛmja		zˈæmʎɒ~zˈæmjɒ	zɛmɛ	ʒʲæ̌mʲeː	zemʲa						zɛmjˈa	zɛmʎˈa	
-EAR_1			ǔːɦɔ		vuʃˈejso	ǎwss	ɐwsʲˈɪs	uvo						ûːxɔ	ûːxɔ	
-EAT	jˈesʲʦʲi	jam		jˈiːst					jɛɕʨ	jesʲtʲ	jɛsc	jɛ̀ːsti	jˈistɪ			jêsti
-EAT_1			jîːst		jejs		vɐ̂ɫɡʲiːtʲɪ	jaj						jɛst	jɛs	
-EAT_2						êːst										
-EGG	jˈæjka	jɐjʦˈɛ		vˈɛjʦɛ					jˈajkɔ	jɪjʦˈo	ʋˈajʦɛ	jàːjʦɛ	jɐjʦˈɛ			jǎːje
-EGG_1			jâːjʦɛ		jˈɒjʦæ		kʲɛwʃʲˈɪnʲɪs	jajʦe						jâːjɛ	jâːje	
-EGG_2						uɔ̯la										
-EIGHT	vˈosʲem	ˈɔsɛm		ˈosm̩					ˈɔɕɛm	vˈosʲɪmʲ	ˈɔsɛm	ɔ̀ːsɛm	ʋʲˈisʲim			ôsam
-EYE	vˈoka	okˈɔ		ˈoko					ˈɔkɔ	ɡɫas	ˈɔkɔ	ɔkɔ̀ː	ˈɔkɔ			ôko
-EYE_1			u̯ɔ̌kɔ		ˈu̯okːɔ	aʦs	ɐkʲˈɪs	oko						ɔ̌ːkɔ	ˈɔkɔ	
-FALL	pˈadaʦʲ	pˈadɐm		pˈadat					pˈadaʨ	pˈadətʲ	pˈadac	pàːdati	pˈɑdɐtɪ			pâdati
-FAR	dalʲˈɵka	dɐlˈɛʧɛ		dˈalɛko					dalˈɛkɔ	dəlʲɪkˈo	ɟˈaɫɛkɔ	dàːlɛʧ	dɐɫˈɛkɔ			dalěko
-FAR_-1														(lǎːrɡɔ)		
-FAR_1			dǎːlɛkɔ		dˈaːlkɔ	tâːlu	toːlʲɪ	daʎeko								
-FAR_2														děːlɡɔ	dˈuɡɔ	
-FAT	tɫuʂʧ	mɐzninˈa		tˈuk					twuʂʈ͡ʂ	ʐɨr	tuk	màːst	ʒɪr			mâːst~sâlo
-FATHER	bˈaʦʲka	bɐʃtˈa		ˈotɛʦ					ˈɔjʨɛʦ	ɐtʲˈeʦ	ˈɔcɛʦ	óːʧɛ	bˈɑtʲkɔ			ǒtaʦ
-FAT_1					maːs		rʲjɛbaɫɐ̌j	mas						mâːst	mâːs	
-FAT_2						tǎwki									tûːk	
-FEATHER	pʲærˈo	pɛrˈɔ		pˈɛro					pʲjˈuɾɔ	pʲɪrˈo	pˈɛrɔ	pɛrɔ̀ː	pɛrˈɔ			pěro
-FEATHER_1			pˈɛrɔ		pˈærɔ		pɫûŋksnɐ	perduf						pɛrˈɔ	pɛrˈɔ~perijˈɔ	
-FEATHER_2						spālva										
-FIGHT	bʲˈiʦʦa	bˈɔrʲɐ sɛ		bˈiːt sˈɛ					bʲiʨ ɕɛ~vˈalka	bɐrˈotʦə	bicsa	bɔrˈiːtisɛ~bɔ̀ːrba	bɔrˈɔtɪsʲɐ			bǒritise~bǒrba
-FINGERNAIL	nˈoʁaʦʲ	nˈɔkɐt		nˈɛɦɛt					paznˈɔkʲjɛʨ	nˈoɡətʲ	ɲɛxt	nɔ̀ːxt	nʲˈiɦɔtʲ			nôkat
-FINGERNAIL_1			nu̯ɔ̌ɦat		nˈu̯ovæt	naks	nɐ̌ɡɐs	nokt						nɔ̌ːxɛt~nɔ̌ːfɛt	nˈɔxat	
-FIRE	aʁˈonʲ	ˈɔɡɐn		ˈoɦɛɲ					ˈɔɡʲjɛɲ	ɐɡˈonʲ	ˈɔɦɛɲ	óːɡɛn	wɔɦˈɔnʲ			ʋâtra
-FIRE_1			ʔˈɔɡaːɲ		ˈu̯oɡæɲ	uɡǔns	ʊɡnʲˈɪs	oɡan						ɔɡˈɛɲ	uɡǎːɲ	
-FISH	rˈɨba	rˈibɐ		rˈɪba					ɾˈɨba	rˈɨbə	rˈiba	rìːba	rˈɪbɐ			rîba
-FISH_1			rˈiba		rˈibɒ	zǐws	ʒʊvʲˈɪs	riba						rˈiba	rˈiba	
-FIVE	pʲæʦʲ	pɛt		pjˈɛt					pʲjɛɲʨ	pʲætʲ	pæc	pɛ̀ːt	pjɑtʲ			pêːt
-FLOW	ʦʲæʧˈɨ	tɛkˈɤ		tˈɛːʦt					ʨɛʦ	tʲeʨ	cɪ̯ɛʦc	téːʧi	tɛktˈɪ			těʨi
-FLOWER	kʲvʲˈetka	ʦvˈɛtɛ		kvjˈɛt					kfʲjat	ʦvʲɪtˈok	kʋɛt	ʦʋéːt	kʋʲˈitkɐ			ʦʋjeː̂t
-FLY	lʲætˈaʦʲ	lɛtʲˈɤ		lˈɛːtat					lˈataʨ~lˈɛʨɛʨ	lʲɪtˈatʲ	ɫˈɛcɪ̯ɛc	lɛ̀ːtati	lʲitˈɑtɪ			lětjeti~ljeː̌tati
-FLY_1			lˈɛtit		lˈætit		sʲkrʲˈɪsʲtʲɪ	ʎeta~ʎetnuva						lɛtˈɛt	lɛtˈɛt	
-FLY_2							lʲěːktʲɪ									
-FLY_3						liduɔ̯̂t										
-FOG	tumˈan	mɐɡɫˈa		mˈl̩ɦa					mɡwa	tʊmˈan	ɦmɫa	mɛɡlá	tʊmˈɑn			mǎɡla
-FOOT	naʁˈa	krak		nˈoɦa					stˈɔpa	stʊpnʲˈa	nˈɔɦa	nóːɡa	nɔɦˈɑ			nǒɡa~stǒpalo
-FOOT_1			nu̯ɔ̌ɡa		nˈu̯oɡɒ	kāːja	kôːjɛ	noɡa						nɔɡˈa	nɔɡˈa	
-FOREST	lʲes	ɡorˈa		lˈɛs					las	lʲes	ɫɛs	lɛ̀ːs~ɡɔ́st	lʲis			ʃûma
-FOUR	ʧatˈɨrɨ	ʧˈɛtiri		ʧtˈɪr̝ɪ					ʈ͡ʂtˈɛɾɨ	ʨɪtˈɨrʲe	ʃtˈiri	ʃtìːri	ʧɔtˈɪrɪ			ʧětiri
-FREEZE	zamʲˈerznuʦʲ	zɐmrˈɤznɐ		zˈamr̩znou̯t					zamˈaʐnɔɲʨ	zɐmʲˈɵrznʊtʲ	zˈamr̩znuːt	zmə̀rzniti	zmˈɛrznʊtɪ			smr̩̂znutise
-FULL	pˈownɨ	pˈɤlɛn		pˈl̩niː					pˈɛwnɨ	pˈoɫnɨɪ̯	pˈɫ̩niː	pɔ̀ːu̯n	pˈɔʋnɪi̯			pûn
-FULL_1			pûːn		pun	pīlns	pîɫnɐs	poln						pˈɛlni	pǔːn	
-GIVE	daʦʲ	dam		dˈaːt					daʨ	datʲ	dac	dàːti	dˈɑtɪ			dâti
-GIVE_1			dat		dɒt~daːt	duɔ̯̂t~duɔ̯t	duə̂tʲɪ	daj						dat	dat	
-GOOD	dˈobrɨ	dobˈɤr		dˈobriː					dˈɔbɾɨ	xɐrˈoʂɨɪ̯	dˈɔbriː	dɔ̀ːbɛr	dˈɔbrɪi̯			dôbar
-GOOD_1			du̯ɔ̌bar		dˈu̯obær		ɡʲæ̌rɐs	dober						dɔ̌ːbɛr	dˈɔbar	
-GOOD_2						laps										
-GRASS	travˈa	trɛvˈa		trˈaːva					tɾˈava	trɐvˈa	trˈaːʋa	tràːʋa	trɐʋˈɑ			trǎːʋa
-GREEN	zʲælʲˈɵnɨ	zɛlˈɛn		zˈɛlɛniː					ʑɛlˈɔnɨ	zʲɪlʲˈɵnɨɪ̯	zˈɛɫɛniː	zɛlɛ́n	zɛɫˈɛnɪi̯			zělen
-GREEN_1			zˈɛljɛn		zˈælæn	zǎʎʃ	ʒɐ̌lʲɛs	zeʎen						zɛlěːni	zˈɛlɛn	
-HAIR	vʌɫasˈɨ	kosˈa		vlˈasɪ					vwˈɔsɨ	vˈoɫəsɨ	ʋɫas	làːs	wɔɫˈɔsʲsʲɐ			kǒsa
-HAIR_1							pɫɐ̂wkɐs	kosa								
-HAIR_2			vlâːs		lˈaːsi	mats								vlâːs	vlâːs	
-HAND	rukˈa	rɐkˈa		rˈuka					ɾˈɛŋka	rʊkˈa	rˈuka	róːka	rʊkˈɑ			rǔːka
-HAND_1			rˈuka		rˈowka	ruɔ̯̌ka	rɐŋkˈɐ	raka						rukˈa	ru̯okˈa	
-HEAD	ʁʌɫavˈa	ɡɫɐvˈa		ɦlˈava					ɡwˈɔva	ɡəɫɐvˈa	ɦɫˈaʋa	ɡlàːʋa	ɦɔɫɔʋˈɑ			ɡlǎːʋa
-HEAD_1			ɡlâːva		ɡlˈaːvɒ~ɡlˈɒvɒ	ɡâlva	ɡɐɫvˈɐ	ɡlava						ɡlavˈa	ɡlaːvˈa	
-HEAR	ʧuʦʲ	ʧˈuvɐm		slˈɪʃɛt					swˈɨʂɛʨ	sɫˈɨʂətʲ	pˈɔʧuc	slìːʃati	ʧˈutɪ			ʧûti
-HEART	sˈɛrʦa	sɐrʦˈɛ		sˈr̩ʦɛ					sˈɛɾʦɛ	sʲˈerʦə	sˈr̩ʦɛ	srʦɛ̀ː	sˈɛrʦɛ			sr̩̂ʦe
-HEART_1			sˈr̩ʦɛ		sˈɛrʦæ	sîrts	ʃʲɪrʲdʲˈɪs	sr̩ʦe						sˈɛrʦɛ	sˈr̩ʦɛ	
-HEAR_1						ʣǐrdêːt	ɡʲɪrʲdʲêːtʲɪ	sluʃa								
-HEAR_2			ʧut		ʧut~ʧˈutːi			ʧuje						ʧut	ʧut	
-HEAVY	ʦʲˈæʂkʲi	tˈɛʒɐk		cˈɛʃkiː					ʨˈɛw̃ʂkʲi	tʲɪʐˈoɫɨɪ̯	cˈaʃkiː	téːʒɛk	ʋɐʒkˈɪi̯			těːʒak
-HEAVY_1			tjêʒak		tˈæʒæk		sʊŋkˈʊs	teʒok						těːʃki	tˈɛʒak	
-HEAVY_2						smaks										
-HERE	tut	tuk~tˈukɐ		zdˈɛ~tˈadɪ					tu~tˈutaj	zʲdʲesʲ	tu	tú~tùːkaj	tut			tûː~ǒːʋdje
-HOLD	trɨmˈaʦʲ	dɐrʒˈɤ		dˈr̩ʒɛt					tʂˈɨmaʨ	dʲɪrʐˈatʲ	dˈr̩ʒac	drʒàːti	trɪmˈɑtɪ			dř̩ʒati
-HORN	roʁ̥	rɔk		rˈox					ɾuk	rok	rɔx	rɔ̀ːk	ɾʲiɦ			rôːɡ
-HORN_1			ru̯ôɡ		ru̯oɡ	raks	rɐ̌ɡɐs	rok						rôːx	ru̯ôx	
-HOW	jæk	kak		jˈak					jak	kak	ˈakɔ	kakɔ̀ː	jɑk			kâko
-HUNDRED	sto	stɔ		stˈo					stɔ	sto	stɔ	stɔ̀ː	stɔ			stôː
-HUNT	pʌlʲævˈaʦʲ	ɫovˈuvɐm		lˈovɪt					pɔlˈɔvaʨ	ɐxˈotʲɪtʦə	pˈɔʎɔʋac	lɔʋìːti	pɔlʲʊʋˈɑtɪ			lǒʋiti
-HUSBAND	muʂ	sɐprˈuk		xˈoc~mˈanʒɛl					mɔw̃ʂ	muʂ	muʃ~mˈanʒɛɫ	mɔ̀ːʃ~sɔprɔ̀ːk	ʧɔɫɔʋʲˈik			mûːʒ~sǔpruɡ
-I	jæ	as		jˈaː					ja	ja	ja	jás	jɑ			jâː
-ICE	lʲˈɵt	lɛt		lˈɛt					lut	lʲɵt	ʎat	lɛ̀ːt	lʲid			lêːd
-I_1			jâː		jaː	ɛs	ɐʃ	jas						ja	jǎː	
+COUNT_1		brˈɔjɐ														brǒjiti
+COUNT_2												ʃtɛ̀ːti				
+COUNT_3				pˈoʧiːtat						ɕːɪtˈatʲ	pˈɔʧiːtac					
+COUNT_4	lʲiʧˈɨʦʲ								lʲˈiʈ͡ʂɨʨ				lʲiʧˈɪtɪ			
+CRY_1	pɫˈakaʦʲ	pɫˈaʧɐ		plˈakat					pwˈakaʨ	pɫˈakətʲ	pɫˈakac		pɫˈɑkɐtɪ			plâkati
+CRY_2												jɔ̀ːkati				
+CUT_1	rˈɛzaʦʲ	rˈɛʒɐ		r̝ˈɛzat						rʲˈezətʲ	rˈɛzac	rɛ̀ːzati	ɾʲˈizɐtɪ			rêzati
+CUT_2									ʨɔɲʨ							
+DANCE_1	tʌnʦavˈaʦʲ	tɐnʦˈuvɐm		tˈanʧɪt					tˈaɲʈ͡ʂɨʨ	tənʦɨvˈatʲ	tˈanʦɔʋac		tɐnʦʲʊʋˈɑtɪ			
+DANCE_2									plˈɔw̃saʨ	plʲɪsˈatʲ		plɛ̀ːsati				plěsati
+DIE_1	pamʲˈerʦʲi	umrˈɤ	ˈumriːt	ˈumr̝iːt	mrejt	mīrt~nuɔ̯̌mīrt	mʲǐrʲtʲɪ~nʊmʲǐrʲtʲɪ	umri	ˈumʐɛʨ	ʊmʲɪrʲˈetʲ	ˈumrɪ̯ɛc~zˈɔmrɪ̯ɛc	umrɛ̀ːti	pɔmˈɛrtɪ	pɔmrěːt~umrěːt	umrjěːt	ǔmrjeːti
+DIG_1	kapˈaʦʲ	kopˈajɐ		kˈopat					kˈɔpaʨ	kɐpˈatʲ	kˈɔpac	kɔpàːti	kɔpˈɑtɪ			kǒpati
+DIRTY_1		mrˈɤsɛn														
+DIRTY_2												umàːzan				
+DIRTY_3																pr̩̂ʎaʋ
+DIRTY_4				ʃpˈɪnaviː							ʃpˈinaʋiː					
+DIRTY_5	brˈudnɨ								bɾˈudnɨ				brʊdnˈɪi̯			
+DIRTY_6										ɡrʲˈaznɨɪ̯						
+DOG_1		kˈuʧɛ			ʦˈuʦːæk~ʦˈuːʦæk			(kuʧe)								
+DOG_2			pas	pɛs					pʲjɛs		pɛs	pɛ́s		pɛs		pâs
+DOG_3	sabˈaka									sɐbˈakə			sɔbˈɑkɐ			
+DOG_4						sǔns	ʃuə̌									
+DOG_5															(brɛk)	
+DRINK_1	pʲiʦʲ	pˈijɐ	pit	piːt	pit~piːt			pije	pʲiʨ	pʲitʲ	pic	pìːti	pˈɪtɪ	pit	pit	pîti
+DRINK_2						ʣêrt	ɡʲæ̂rʲtʲɪ									
+DRY_1	suxʲˈi	sux	sûːɦ	sˈuxiː	suːh	sǎwss	sɐ̌wsɐs	suf	sˈuxɨ	sʊxˈoɪ̯	sˈuxiː	sùːx	sʊxˈɪi̯	sûːx	sûːx	sûːx
+DUST_1		prax		prax							prax	pràːx				prâːx~prǎʃina
+DUST_2	pɨɫ								pɨw	pɨlʲ			pɪɫ			
+DUST_3									kuʂ							
+EARTH_1	zʲæmlʲˈæ	zɛmʲˈa	zˈɛmʎa~zˈɛmja	zˈɛmɲɛ	zˈæmʎɒ~zˈæmjɒ	zɛmɛ	ʒʲæ̌mʲeː	zemʲa	ʑˈɛmʲja	zʲɪmlʲˈa	zɛm	zéːmla	zɛmlʲˈɑ	zɛmjˈa	zɛmʎˈa	zěmʎa
+EAR_1	vˈuxa	uxˈɔ	ǔːɦɔ	ˈuxo	vuʃˈejso	ǎwss	ɐwsʲˈɪs	uvo	ˈuxɔ	ˈuxə	ˈuxɔ	uxɔ̀ː	wˈuxɔ	ûːxɔ	ûːxɔ	ûxo
+EAT_1	jˈesʲʦʲi	jam	jîːst	jiːst	jejs	êːst		jaj	jɛɕʨ	jesʲtʲ	jɛsc	jɛ̀ːsti	jˈistɪ	jɛst	jɛs	jêsti
+EAT_2							vɐ̂ɫɡʲiːtʲɪ									
+EGG_1	jˈæjka	jɐjʦˈɛ	jâːjʦɛ	vˈɛjʦɛ	jˈɒjʦæ			jajʦe	jˈajkɔ	jɪjʦˈo	ʋˈajʦɛ	jàːjʦɛ	jɐjʦˈɛ	jâːjɛ	jâːje	jǎːje
+EGG_2							kʲɛwʃʲˈɪnʲɪs									
+EGG_3						uɔ̯la										
+EIGHT_1	vˈosʲem	ˈɔsɛm		ˈosm̩					ˈɔɕɛm	vˈosʲɪmʲ	ˈɔsɛm	ɔ̀ːsɛm	ʋʲˈisʲim			ôsam
+EYE_1	vˈoka	okˈɔ	u̯ɔ̌kɔ	ˈoko	ˈu̯okːɔ	aʦs	ɐkʲˈɪs	oko	ˈɔkɔ		ˈɔkɔ	ɔkɔ̀ː	ˈɔkɔ	ɔ̌ːkɔ	ˈɔkɔ	ôko
+EYE_2										ɡɫas						
+FALL_1	pˈadaʦʲ	pˈadɐm		pˈadat					pˈadaʨ	pˈadətʲ	pˈadac	pàːdati	pˈɑdɐtɪ			pâdati
+FAR_1	dalʲˈɵka	dɐlˈɛʧɛ	dǎːlɛkɔ	dˈalɛko	dˈaːlkɔ			daʎeko	dalˈɛkɔ	dəlʲɪkˈo	ɟˈaɫɛkɔ	dàːlɛʧ	dɐɫˈɛkɔ	děːlɡɔ		dalěko
+FAR_2						tâːlu	toːlʲɪ									
+FAR_3														(lǎːrɡɔ)		
+FAR_4															dˈuɡɔ	
+FATHER_1	bˈaʦʲka	bɐʃtˈa											bˈɑtʲkɔ			
+FATHER_2				ˈotɛʦ					ˈɔjʨɛʦ	ɐtʲˈeʦ	ˈɔcɛʦ	óːʧɛ				ǒtaʦ
+FAT_1		mɐzninˈa			maːs			mas				màːst		mâːst	mâːs	mâːst
+FAT_2																sâlo
+FAT_3	tɫuʂʧ			tuk		tǎwki			twuʂʈ͡ʂ		tuk				tûːk	
+FAT_4										ʐɨr			ʒɪr			
+FAT_5							rʲjɛbaɫɐ̌j									
+FEATHER_1	pʲærˈo	pɛrˈɔ	pˈɛrɔ	pˈɛro	pˈærɔ			perduf	pʲjˈuɾɔ	pʲɪrˈo	pˈɛrɔ	pɛrɔ̀ː	pɛrˈɔ	pɛrˈɔ	pɛrˈɔ~perijˈɔ	pěro
+FEATHER_2							pɫûŋksnɐ									
+FEATHER_3						spālva										
+FIGHT_1	bʲˈiʦʦa			biːt sɛ					bʲiʨ ɕɛ		bicsa					
+FIGHT_2		bˈɔrʲɐ sɛ								bɐrˈotʦə		bɔrˈiːtisɛ	bɔrˈɔtɪsʲɐ			bǒritise
+FINGERNAIL_1	nˈoʁaʦʲ	nˈɔkɐt	nu̯ɔ̌ɦat	nˈɛɦɛt	nˈu̯ovæt	naks	nɐ̌ɡɐs	nokt	paznˈɔkʲjɛʨ	nˈoɡətʲ	ɲɛxt	nɔ̀ːxt	nʲˈiɦɔtʲ	nɔ̌ːxɛt~nɔ̌ːfɛt	nˈɔxat	nôkat
+FIRE_1	aʁˈonʲ	ˈɔɡɐn	ʔˈɔɡaːɲ	ˈoɦɛɲ	ˈu̯oɡæɲ	uɡǔns	ʊɡnʲˈɪs	oɡan	ˈɔɡʲjɛɲ	ɐɡˈonʲ	ˈɔɦɛɲ	óːɡɛn	wɔɦˈɔnʲ	ɔɡˈɛɲ	uɡǎːɲ	
+FIRE_2																ʋâtra
+FISH_1	rˈɨba	rˈibɐ	rˈiba	rˈɪba	rˈibɒ			riba	ɾˈɨba	rˈɨbə	rˈiba	rìːba	rˈɪbɐ	rˈiba	rˈiba	rîba
+FISH_2						zǐws	ʒʊvʲˈɪs									
+FIVE_1	pʲæʦʲ	pɛt		pjɛt					pʲjɛɲʨ	pʲætʲ	pæc	pɛ̀ːt	pjɑtʲ			pêːt
+FLOWER_1	kʲvʲˈetka	ʦvˈɛtɛ		kvjɛt					kfʲjat	ʦvʲɪtˈok	kʋɛt	ʦʋéːt	kʋʲˈitkɐ			ʦʋjeː̂t
+FLOW_1	ʦʲæʧˈɨ	tɛkˈɤ		tɛːʦt					ʨɛʦ	tʲeʨ	cɪ̯ɛʦc	téːʧi	tɛktˈɪ			těʨi
+FLY_1	lʲætˈaʦʲ	lɛtʲˈɤ	lˈɛtit	lˈɛːtat	lˈætit	liduɔ̯̂t	lʲěːktʲɪ	ʎeta~ʎetnuva	lˈataʨ~lˈɛʨɛʨ	lʲɪtˈatʲ	ɫˈɛcɪ̯ɛc	lɛ̀ːtati	lʲitˈɑtɪ	lɛtˈɛt	lɛtˈɛt	lětjeti~ljeː̌tati
+FLY_2							sʲkrʲˈɪsʲtʲɪ									
+FOG_1		mɐɡɫˈa		mˈl̩ɦa					mɡwa		ɦmɫa	mɛɡlá				mǎɡla
+FOG_2	tumˈan									tʊmˈan			tʊmˈɑn			
+FOOT_1		krak														
+FOOT_2	naʁˈa		nu̯ɔ̌ɡa	nˈoɦa	nˈu̯oɡɒ			noɡa			nˈɔɦa	nóːɡa	nɔɦˈɑ	nɔɡˈa	nɔɡˈa	nǒɡa
+FOOT_3									stˈɔpa	stʊpnʲˈa						stǒpalo
+FOOT_4						kāːja	kôːjɛ									
+FOREST_1		ɡorˈa														
+FOREST_2																ʃûma
+FOREST_3	lʲes			lɛs					las	lʲes	ɫɛs	lɛ̀ːs	lʲis			
+FOREST_4												ɡɔ́st				
+FOUR_1	ʧatˈɨrɨ	ʧˈɛtiri		ʧtˈɪr̝ɪ					ʈ͡ʂtˈɛɾɨ	ʨɪtˈɨrʲe	ʃtˈiri	ʃtìːri	ʧɔtˈɪrɪ			ʧětiri
+FREEZE_1	zamʲˈerznuʦʲ	zɐmrˈɤznɐ		zˈamr̩znou̯t					zamˈaʐnɔɲʨ	zɐmʲˈɵrznʊtʲ	zˈamr̩znuːt	zmə̀rzniti	zmˈɛrznʊtɪ			smr̩̂znutise
+FULL_1	pˈownɨ	pˈɤlɛn	pûːn	pˈl̩niː	pun	pīlns	pîɫnɐs	poln	pˈɛwnɨ	pˈoɫnɨɪ̯	pˈɫ̩niː	pɔ̀ːu̯n	pˈɔʋnɪi̯	pˈɛlni	pǔːn	pûn
+GIVE_1	daʦʲ	dam	dat	daːt	dɒt~daːt	duɔ̯̂t~duɔ̯t	duə̂tʲɪ	daj	daʨ	datʲ	dac	dàːti	dˈɑtɪ	dat	dat	dâti
+GOOD_1	dˈobrɨ	dobˈɤr	du̯ɔ̌bar	dˈobriː	dˈu̯obær			dober	dˈɔbɾɨ		dˈɔbriː	dɔ̀ːbɛr	dˈɔbrɪi̯	dɔ̌ːbɛr	dˈɔbar	dôbar
+GOOD_2										xɐrˈoʂɨɪ̯						
+GOOD_3							ɡʲæ̌rɐs									
+GOOD_4						laps										
+GRASS_1	travˈa	trɛvˈa		trˈaːva					tɾˈava	trɐvˈa	trˈaːʋa	tràːʋa	trɐʋˈɑ			trǎːʋa
+GREEN_1	zʲælʲˈɵnɨ	zɛlˈɛn	zˈɛljɛn	zˈɛlɛniː	zˈælæn	zǎʎʃ	ʒɐ̌lʲɛs	zeʎen	ʑɛlˈɔnɨ	zʲɪlʲˈɵnɨɪ̯	zˈɛɫɛniː	zɛlɛ́n	zɛɫˈɛnɪi̯	zɛlěːni	zˈɛlɛn	zělen
+HAIR_1		kosˈa						kosa								kǒsa
+HAIR_2	vʌɫasˈɨ		vlâːs	vlˈasɪ	lˈaːsi				vwˈɔsɨ	vˈoɫəsɨ	ʋɫas	làːs	wɔɫˈɔsʲsʲɐ	vlâːs	vlâːs	
+HAIR_3							pɫɐ̂wkɐs									
+HAIR_4						mats										
+HAND_1	rukˈa	rɐkˈa	rˈuka	rˈuka	rˈowka	ruɔ̯̌ka	rɐŋkˈɐ	raka	ɾˈɛŋka	rʊkˈa	rˈuka	róːka	rʊkˈɑ	rukˈa	ru̯okˈa	rǔːka
+HEAD_1	ʁʌɫavˈa	ɡɫɐvˈa	ɡlâːva	ɦlˈava	ɡlˈaːvɒ~ɡlˈɒvɒ	ɡâlva	ɡɐɫvˈɐ	ɡlava	ɡwˈɔva	ɡəɫɐvˈa	ɦɫˈaʋa	ɡlàːʋa	ɦɔɫɔʋˈɑ	ɡlavˈa	ɡlaːvˈa	ɡlǎːʋa
+HEART_1	sˈɛrʦa	sɐrʦˈɛ	sˈr̩ʦɛ	sˈr̩ʦɛ	sˈɛrʦæ	sîrts	ʃʲɪrʲdʲˈɪs	sr̩ʦe	sˈɛɾʦɛ	sʲˈerʦə	sˈr̩ʦɛ	srʦɛ̀ː	sˈɛrʦɛ	sˈɛrʦɛ	sˈr̩ʦɛ	sr̩̂ʦe
+HEAR_1	ʧuʦʲ	ʧˈuvɐm	ʧut		ʧut~ʧˈutːi			ʧuje			pˈɔʧuc		ʧˈutɪ	ʧut	ʧut	ʧûti
+HEAR_2				slˈɪʃɛt				sluʃa	swˈɨʂɛʨ	sɫˈɨʂətʲ		slìːʃati				
+HEAR_3						ʣǐrdêːt	ɡʲɪrʲdʲêːtʲɪ									
+HEAVY_1	ʦʲˈæʂkʲi	tˈɛʒɐk	tjêʒak	cˈɛʃkiː	tˈæʒæk			teʒok	ʨˈɛw̃ʂkʲi	tʲɪʐˈoɫɨɪ̯	cˈaʃkiː	téːʒɛk		těːʃki	tˈɛʒak	těːʒak
+HEAVY_2													ʋɐʒkˈɪi̯			
+HEAVY_3							sʊŋkˈʊs									
+HEAVY_4						smaks										
+HERE_1	tut	tuk~tˈukɐ							tu~tˈutaj		tu	tùːkaj	tut			tûː
+HERE_2																ǒːʋdje
+HERE_3				zdɛ						zʲdʲesʲ		zdɛ́				
+HERE_4				tˈadɪ												
+HOLD_1		dɐrʒˈɤ		dˈr̩ʒɛt						dʲɪrʐˈatʲ	dˈr̩ʒac	drʒàːti				dř̩ʒati
+HOLD_2	trɨmˈaʦʲ								tʂˈɨmaʨ				trɪmˈɑtɪ			
+HORN_1	roʁ̥	rɔk	ru̯ôɡ	rox	ru̯oɡ	raks	rɐ̌ɡɐs	rok	ɾuk	rok	rɔx	rɔ̀ːk	ɾʲiɦ	rôːx	ru̯ôx	rôːɡ
+HOW_1	jæk			jak					jak		ˈakɔ		jɑk			
+HOW_2		kak								kak		kakɔ̀ː				kâko
+HUNDRED_1	sto	stɔ		sto					stɔ	sto	stɔ	stɔ̀ː	stɔ			stôː
+HUNT_1	pʌlʲævˈaʦʲ	ɫovˈuvɐm		lˈovɪt					pɔlˈɔvaʨ		pˈɔʎɔʋac	lɔʋìːti	pɔlʲʊʋˈɑtɪ			lǒʋiti
+HUNT_2										ɐxˈotʲɪtʦə						
+HUSBAND_1		sɐprˈuk										sɔprɔ̀ːk				sǔpruɡ
+HUSBAND_2	muʂ								mɔw̃ʂ	muʂ	muʃ	mɔ̀ːʃ				mûːʒ
+HUSBAND_3				mˈanʒɛl							mˈanʒɛɫ					
+HUSBAND_4				xoc												
+HUSBAND_5													ʧɔɫɔʋʲˈik			
+ICE_1	lʲˈɵt	lɛt		lɛt					lut	lʲɵt	ʎat	lɛ̀ːt	lʲid			lêːd
+I_1	jæ	as	jâː	jaː	jaː	ɛs	ɐʃ	jas	ja	ja	ja	jás	jɑ	ja	jǎː	jâː
 I_2			mjênɛ		mˈænæ	mani	mɐnʲɛ	mene						mɛnˈɛ	manˈɛ	
-KILL	zabʲˈiʦʲ	ubˈijɐ		zˈabiːt					zˈabʲiʨ	ʊbʲˈitʲ	zˈabic	ubìːti	ʊbˈɪtɪ			ǔbiti
-KILL_1			ʔˈubit		ˈubit		nʊʒʊdʲîːtʲɪ	ubije						ubˈit	ubˈit	
-KILL_2						nuɔ̯̌ɡalinâːt										
-KNEE	kalʲˈena	kolʲˈano		kˈolɛno					kɔlˈanɔ	kɐlʲˈenə	kˈɔɫɛnɔ	kɔlɛ̀ːnɔ	kɔlʲˈinɔ			kǒʎeno
-KNEE_1			kɔljěnɔ		kɔlˈænɔ	ʦɛlis	kʲæ̌lʲɪs	koʎeno						kɔlěːnɔ	kɔlˈɛnɔ	
-KNOW	znaʦʲ	znˈajɐ		vjˈɛɟɛt					vʲjˈɛʥɛʨ	znatʲ	ʋˈɛɟɪ̯ɛc	znàːti~ʋɛ̀ːdɛti	znˈɑtɪ			znâti
-KNOW_1			znat		znɒt	zinâːt	ʒʲɪnôːtʲɪ	znaj						znat	znat	
-LAKE	vˈozʲera	ˈɛzɛro		jˈɛzɛro					jɛʑˈɔɾɔ	ˈozʲɪrə	jˈazɛrɔ	jɛ̀ːzɛrɔ	ˈɔzɛrɔ			jêzero
-LAUGH	smʲæjˈæʦʦa	smˈɛjɐ sɛ		smˈaːt sˈɛ					ɕmʲjaʨ ɕɛ	smʲɪjˈatʦə	smɪ̯acsa	smɛjàːtisɛ	smʲijˈɑtɪsʲɐ			smǐjatise
-LEAF	lʲist	list		lˈɪst					lʲiɕʨ	lʲist	ɫist	lìːst	ɫɪst			lîːst
-LEAF_1			lîːst		lˈiːʃʧæ	lapːa	ɫɐ̌pɐs	ʎis							lîːs	
-LEAF_2														pɛrˈɔ		
-LEG	naʁˈa	krak		nˈoɦa					nˈɔɡa	nɐɡˈa	nˈɔɦa	nóːɡa	nɔɦˈɑ			nǒɡa
-LIE	lʲæʐˈaʦʲ	lɛʒˈɤ		lˈɛʒɛt					lˈɛʐɛʨ	lʲɪʐˈatʲ	ɫˈɛʒac	lɛʒàːti	ɫɛʒˈɑtɪ			lěʒati
-LIE_1			lˈɛʒat		lˈæʒɒt	ɡulêːt	ɡʊlʲêːtʲɪ	ʎeʒi						lɛʒˈat	lɛʒˈat	
-LIVER	pʲˈeʧanʲ	ʧˈɛrɛn drɔp		jˈaːtra					vɔntɾˈɔba	pʲˈeʨɪnʲ	pˈɛʧɛɲ	jɛ̀ːtra	peʧʲˈinkɐ			jêtra
-LIVER_-1								(ʦr̩n ʤiɡer)								
-LIVER_1			jâːtra		jejtra		kʲæ̌pʲɛnʲiːs							jěːtra	jjětra	
-LIVER_2						aknas										
-LONG	dˈowɣʲi	dˈɤɫɐk		dlˈou̯ɦiː					dwˈuɡʲi	dˈoɫɡʲɪɪ̯	dˈɫ̩ɦiː	dɔ̀ːu̯k	dˈɔʋɦɪi̯			dûɡ~dûɡaʧak
-LONG_1			dˈuʒiʧak		dˈowɡi		îɫɡɐs	dolk~dok						děːlɡi	dǔːx	
+KILL_1	zabʲˈiʦʲ	ubˈijɐ	ʔˈubit	zˈabiːt	ˈubit			ubije	zˈabʲiʨ	ʊbʲˈitʲ	zˈabic	ubìːti	ʊbˈɪtɪ	ubˈit	ubˈit	ǔbiti
+KILL_2							nʊʒʊdʲîːtʲɪ									
+KILL_3						nuɔ̯̌ɡalinâːt										
+KNEE_1	kalʲˈena	kolʲˈano	kɔljěnɔ	kˈolɛno	kɔlˈænɔ	ʦɛlis	kʲæ̌lʲɪs	koʎeno	kɔlˈanɔ	kɐlʲˈenə	kˈɔɫɛnɔ	kɔlɛ̀ːnɔ	kɔlʲˈinɔ	kɔlěːnɔ	kɔlˈɛnɔ	kǒʎeno
+KNOW_1	znaʦʲ	znˈajɐ	znat		znɒt	zinâːt	ʒʲɪnôːtʲɪ	znaj		znatʲ		znàːti	znˈɑtɪ	znat	znat	znâti
+KNOW_2				vjˈɛɟɛt					vʲjˈɛʥɛʨ		ʋˈɛɟɪ̯ɛc	ʋɛ̀ːdɛti				
+LAKE_1	vˈozʲera	ˈɛzɛro		jˈɛzɛro					jɛʑˈɔɾɔ	ˈozʲɪrə	jˈazɛrɔ	jɛ̀ːzɛrɔ	ˈɔzɛrɔ			jêzero
+LAUGH_1	smʲæjˈæʦʦa	smˈɛjɐ sɛ		smaːt sɛ					ɕmʲjaʨ ɕɛ	smʲɪjˈatʦə	smɪ̯acsa	smɛjàːtisɛ	smʲijˈɑtɪsʲɐ			smǐjatise
+LEAF_1	lʲist	list	lîːst	lɪst	lˈiːʃʧæ			ʎis	lʲiɕʨ	lʲist	ɫist	lìːst	ɫɪst		lîːs	lîːst
+LEAF_2						lapːa	ɫɐ̌pɐs									
+LEAF_3														pɛrˈɔ		
+LEG_1	naʁˈa			nˈoɦa					nˈɔɡa	nɐɡˈa	nˈɔɦa	nóːɡa	nɔɦˈɑ			nǒɡa
+LEG_2		krak														
+LIE_1	lʲæʐˈaʦʲ	lɛʒˈɤ	lˈɛʒat	lˈɛʒɛt	lˈæʒɒt			ʎeʒi	lˈɛʐɛʨ	lʲɪʐˈatʲ	ɫˈɛʒac	lɛʒàːti	ɫɛʒˈɑtɪ	lɛʒˈat	lɛʒˈat	lěʒati
+LIE_2						ɡulêːt	ɡʊlʲêːtʲɪ									
+LIVER_1		ʧˈɛrɛn drɔp														
+LIVER_2			jâːtra	jˈaːtra	jejtra				vɔntɾˈɔba			jɛ̀ːtra		jěːtra	jjětra	jêtra
+LIVER_3	pʲˈeʧanʲ									pʲˈeʨɪnʲ	pˈɛʧɛɲ		peʧʲˈinkɐ			
+LIVER_4							kʲæ̌pʲɛnʲiːs									
+LIVER_5						aknas										
+LIVER_6								(ʦr̩n ʤiɡer)								
+LONG_1	dˈowɣʲi	dˈɤɫɐk	dˈuʒiʧak	dlˈou̯ɦiː	dˈowɡi		îɫɡɐs	dolk~dok	dwˈuɡʲi	dˈoɫɡʲɪɪ̯	dˈɫ̩ɦiː	dɔ̀ːu̯k	dˈɔʋɦɪi̯	děːlɡi	dǔːx	dûɡ~dûɡaʧak
 LONG_2						ɡǎrʃ										
-LOUSE	voʂ	vˈɤʃkɐ		vˈɛʃ					vɛʂ	voʂ	ʋɔʃ	ùːʃ	wˈɔʃɐ			ûːʃ
-LOUSE_1			vûːʃ		vuːʃ	uts	ʊtʲeːlʲěː	voʃka						svɛnˈɛʦ	ʃɛnˈaʦ	
-MAN	muʂʧˈɨna	mɤʃ		mˈuʃ					mɛw̃ʐʈ͡ʂˈɨzna	mʊɕːˈinə	muʃ~xɫap	mɔ̀ːʃ~móːʃki	ʧɔɫɔʋʲˈik			muʃkǎːraʦ
-MANY_1						dāwʣ	dɐ̌wk	mnoɡu~noɡu								
-MANY_2			ʧˈuda		ʧˈudɒ										ʧˈuda	
-MANY_3															pˈunɔ	
-MANY_4														blâːɡɔ		
-MAN_-1			(ɦlâːp)												(muʃkîː)	
-MAN_1			mûːʒ		mowʃ~mɔʃkiː	vīːrs~vīːrjɛtis	vʲîːrɐs	maʃ						mûːʃ~mǔːʃki~mˈuʃki		
-MEAT	mʲˈæsa	mɛsˈɔ		mˈaso					mʲjˈɛw̃sɔ	mʲˈasə	mˈæsɔ	mɛsɔ̀ː	mjˈɑsɔ			mêːso
-MEAT_-1							(mʲeːsˈɐ)									
-MEAT_1			mjêsɔ		mˈejsɔ	ɡaʎa		meso						mêːsɔ	mjêsɔ	
-MOON	mʲˈesʲæʦ	ɫunˈa~mˈɛsɛʦ		mɲˈɛsiːʦ					kɕˈɛw̃ʐɨʦ	ɫʊnˈa	mˈɛsɪ̯aʦ	lùːna~mɛ̀ːsɛʦ	mʲˈisʲɐʦʲ			mjêseːʦ
-MOON_1			misɛʦ			mɛːnɛss	mʲeːnˈʊlʲɪs	meseʧina						měːsɛʦ	mˈɛsɛʦ	
-MOTHER	mˈaʦʲi	mˈajkɐ		mˈatka					mˈatka	matʲ	mac~mˈatka	màːti	mˈɑtɪ			mâːjka
-MOUNTAIN	ʁarˈa	pɫɐninˈa		ɦˈora					ɡˈuɾa	ɡɐrˈa		ɡóːra~planìːna	ɦɔrˈɑ			planǐna
-MOUNTAIN_1						kâlns	kɐ̂ɫnɐs	planina								
-MOUNTAIN_2			ɡu̯ɔ̌ra											ɡɔrˈa	ɡɔrˈa	
-MOUNTAIN_3															vr̩x	
-MOUNTAIN_4					brejɡ											
-MOUTH	rot	ustˈa		ˈuːsta					ˈusta	rot	ˈuːsta	ùːsta	rɔt			ǔːsta
-MOUTH_-1			(ɡǔːba)~(ɦˈuba)													
-MOUTH_1			ʔûːsta				bʊrnˈɐ	usta						ǔːsta	ǔːsta	
-MOUTH_2					zˈowbi	mutːɛ										
-NAME	imʲˈæ	ˈimɛ		jmˈɛːno					ˈimʲjɛ	ˈimʲə	mˈɛnɔ	imɛ̀ː	imjˈɑ			îme
-NAME_1			ʔimɛ		ˈimæ	vǎːrts	vɐ̌rdɐs	ime						ˈimɛ~jˈimɛ	ˈimɛ	
-NARROW	vˈusʲkʲi	tˈɛsɛn		ˈuːskiː					vˈɔw̃skʲi	ˈuskʲɪɪ̯	ˈuːski	ɔ̀ːzɛk	wʊzʲkˈɪi̯			ûzak
-NEAR	blʲˈisʲkʲi	blˈizɐk		blˈiːskiː					blʲˈiskʲi	blʲˈiskʲɪɪ̯	bɫˈiːski	blìːʒni	bɫɪzʲkˈɪi̯			blîzak
-NEAR_1					blˈizu~blˈiːzu		ɐrʲtʲˈɪ	bʎizu						blǐːzu	blǐːzu	
-NEAR_2						tuvu										
-NECK	ʂˈɨjæ	vrat		kˈr̩k					ʂˈɨja~kaɾk	ʂˈɛjə	kr̩k	u̯ràːt	ʃˈɪjɐ			ʋrâːt
-NECK_1						kakls	kɐ̌kɫɐs	ʃija								
-NECK_2			vrat											vrâːt	vrâːt	
-NECK_3					ɡowt											
-NEW	nˈovɨ	nɔf		nˈoviː					nˈɔvɨ	nˈovɨɪ̯	nˈɔʋiː	nɔ́u̯	nɔʋˈɪi̯			nôʋ
-NEW_1			nu̯ôv		nowv		nɐ̌wjɛs	nof						nɔ̌ːvi	nu̯ǒf	
+LOUSE_1	voʂ	vˈɤʃkɐ	vûːʃ	vɛʃ	vuːʃ			voʃka	vɛʂ	voʂ	ʋɔʃ	ùːʃ	wˈɔʃɐ	svɛnˈɛʦ	ʃɛnˈaʦ	ûːʃ
+LOUSE_2						uts	ʊtʲeːlʲěː									
+MANY_1						dāwʣ	dɐ̌wk									
+MANY_2								mnoɡu~noɡu								
+MANY_3			ʧˈuda		ʧˈudɒ										ʧˈuda	
+MANY_4															pˈunɔ	
+MANY_5														blâːɡɔ		
+MAN_1	muʂʧˈɨna	mɤʃ	mûːʒ	muʃ	mowʃ~mɔʃkiː			maʃ	mɛw̃ʐʈ͡ʂˈɨzna	mʊɕːˈinə	muʃ	mɔ̀ːʃ~móːʃki		mûːʃ~mǔːʃki~mˈuʃki	(muʃkîː)	muʃkǎːraʦ
+MAN_2			(ɦlâːp)								xɫap					
+MAN_3													ʧɔɫɔʋʲˈik			
+MAN_4						vīːrs~vīːrjɛtis	vʲîːrɐs									
+MEAT_1	mʲˈæsa	mɛsˈɔ	mjêsɔ	mˈaso	mˈejsɔ		(mʲeːsˈɐ)	meso	mʲjˈɛw̃sɔ	mʲˈasə	mˈæsɔ	mɛsɔ̀ː	mjˈɑsɔ	mêːsɔ	mjêsɔ	mêːso
+MEAT_2						ɡaʎa										
+MOON_1		ɫunˈa								ɫʊnˈa		lùːna				
+MOON_2	mʲˈesʲæʦ		misɛʦ	mɲˈɛsiːʦ		mɛːnɛss	mʲeːnˈʊlʲɪs	meseʧina			mˈɛsɪ̯aʦ	mɛ̀ːsɛʦ	mʲˈisʲɐʦʲ	měːsɛʦ	mˈɛsɛʦ	mjêseːʦ
+MOON_3									kɕˈɛw̃ʐɨʦ							
+MOTHER_1	mˈaʦʲi	mˈajkɐ		mˈatka					mˈatka	matʲ	mac~mˈatka	màːti	mˈɑtɪ			mâːjka
+MOUNTAIN_1		pɫɐninˈa						planina				planìːna				planǐna
+MOUNTAIN_2	ʁarˈa		ɡu̯ɔ̌ra	ɦˈora					ɡˈuɾa	ɡɐrˈa		ɡóːra	ɦɔrˈɑ	ɡɔrˈa	ɡɔrˈa	
+MOUNTAIN_3						kâlns	kɐ̂ɫnɐs									
+MOUNTAIN_4															vr̩x	
+MOUNTAIN_5					brejɡ											
+MOUTH_1		ustˈa	ʔûːsta	ˈuːsta				usta	ˈusta		ˈuːsta	ùːsta		ǔːsta	ǔːsta	ǔːsta
+MOUTH_2	rot									rot			rɔt			
+MOUTH_3							bʊrnˈɐ									
+MOUTH_4						mutːɛ										
+MOUTH_5			(ɡǔːba)~(ɦˈuba)													
+MOUTH_6					zˈowbi											
+NAME_1	imʲˈæ	ˈimɛ	ʔimɛ	jmˈɛːno	ˈimæ			ime	ˈimʲjɛ	ˈimʲə	mˈɛnɔ	imɛ̀ː	imjˈɑ	ˈimɛ~jˈimɛ	ˈimɛ	îme
+NAME_2						vǎːrts	vɐ̌rdɐs									
+NARROW_1		tˈɛsɛn														
+NARROW_2	vˈusʲkʲi			ˈuːskiː					vˈɔw̃skʲi	ˈuskʲɪɪ̯	ˈuːski	ɔ̀ːzɛk	wʊzʲkˈɪi̯			ûzak
+NEAR_1	blʲˈisʲkʲi	blˈizɐk		blˈiːskiː	blˈizu~blˈiːzu			bʎizu	blʲˈiskʲi	blʲˈiskʲɪɪ̯	bɫˈiːski	blìːʒni	bɫɪzʲkˈɪi̯	blǐːzu	blǐːzu	blîzak
+NEAR_2							ɐrʲtʲˈɪ									
+NEAR_3						tuvu										
+NECK_1		vrat	vrat									u̯ràːt		vrâːt	vrâːt	ʋrâːt
+NECK_2				kr̩k					kaɾk		kr̩k					
+NECK_3	ʂˈɨjæ							ʃija	ʂˈɨja	ʂˈɛjə			ʃˈɪjɐ			
+NECK_4						kakls	kɐ̌kɫɐs									
+NECK_5					ɡowt											
+NEW_1	nˈovɨ	nɔf	nu̯ôv	nˈoviː	nowv		nɐ̌wjɛs	nof	nˈɔvɨ	nˈovɨɪ̯	nˈɔʋiː	nɔ́u̯	nɔʋˈɪi̯	nɔ̌ːvi	nu̯ǒf	nôʋ
 NEW_2						jâwns										
-NIGHT	noʧ	nɔʃt		nˈoʦ					nɔʦ	noʨ	nɔʦ	nɔ̀ːʧ	nʲiʧ			nôːʨ
-NIGHT_1			nu̯ôc		nowʧ	nakts	nɐktʲˈɪs	noc						nôːc	nu̯ôc	
-NINE	ʣʲˈevʲæʦʲ	dˈɛvɛt		dˈɛvjɛt					ʥˈɛvʲjɛɲʨ	dʲˈevʲɪtʲ	ɟˈɛʋæc	dɛʋɛ̀ːt	dˈɛʋjɐtʲ			dêʋeːt
-NOSE	nos	nɔs		nˈos					nɔs	nos	nɔs	nɔ̀ːs	nʲis			nôːs
-NOSE_1			nu̯ôs		nu̯os~nows		nôːsʲɪs	nos						nôːs	nu̯ôs	
+NIGHT_1	noʧ	nɔʃt	nu̯ôc	noʦ	nowʧ	nakts	nɐktʲˈɪs	noc	nɔʦ	noʨ	nɔʦ	nɔ̀ːʧ	nʲiʧ	nôːc	nu̯ôc	nôːʨ
+NINE_1	ʣʲˈevʲæʦʲ	dˈɛvɛt		dˈɛvjɛt					ʥˈɛvʲjɛɲʨ	dʲˈevʲɪtʲ	ɟˈɛʋæc	dɛʋɛ̀ːt	dˈɛʋjɐtʲ			dêʋeːt
+NOSE_1	nos	nɔs	nu̯ôs	nos	nu̯os~nows		nôːsʲɪs	nos	nɔs	nos	nɔs	nɔ̀ːs	nʲis	nôːs	nu̯ôs	nôːs
 NOSE_2						dæɡǔns										
-NOT	nʲe	nɛ		nˈɛ					ɲɛ	nʲɪ	ɲɪ̯ɛ	nɛ	nɛ			nê
-NOT_1			nɛ		næ	nɛ	nʲɛ	ne						nɛ	nɛ	
-OLD	starˈɨ	star		stˈariː					stˈaɾɨ	stˈarɨɪ̯	stˈariː	stár	stɐrˈɪi̯			stâr
-ONE	aʣʲˈin	ɛdˈin		jˈɛdɛn					jˈɛdɛn	ɐdʲˈin	jˈɛdɛn	éːdɛn	ɔdˈɪn			jědan
-ONE_1			jˈɛdaːn~jˈɛdan		jˈædæn	vjêns	vʲjênɐs	eden						jɛdˈɛn	jɛdǎːn	
-OTHER	ˈinʂɨ~druɣʲˈi	druk		jˈɪniː					ˈinnɨ	drʊɡˈoɪ̯	ˈiniː~drˈuɦiː	drùːɡi	inˈɑkʃɪi̯			drûɡiː~druɡǎʧijiː
-PATH OR ROAD_-1			(ʦjěsta)													
-PATH OR ROAD_1						ʦěʎʃ	kʲæ̌lʲɛs	pat								
-PATH OR ROAD_2														ʧˈɛsta	ʧˈɛsta	
-PATH OR ROAD_3					stjˈezɒ											
-PATH_OR_ROAD	sʲʦʲˈeʂka~darˈoʁa	pɤt		stˈɛska~ʦˈɛsta					ɕʨˈɛʂka~dɾˈɔɡa	trɐpˈa~putʲ~dɐrˈoɡə	xˈɔdɲiːk~ʦˈɛsta	stɛzá~ʦɛ̀ːsta	stˈɛʒkɐ~dɔrˈɔɦɐ			stǎza~pûːt~ʦêsta
-PERSON	ʧʌɫavʲˈek	ʧovˈɛk		ʧlˈovjɛk					ʈ͡ʂwˈɔvʲjɛk	ʨɪɫɐvʲˈek	ʧɫˈɔʋɛk	ʧlóːʋɛk	lʲʊdˈɪnɐ			ʧǒʋjek
-PERSON_-1						(ʦǐlvǣːks)										
-PERSON_1			ʧlˈɔviːk		ʧlˈu̯ovæk		ʒmoːɡˈʊs	ʧojek						ʧɔvˈɛk~ʃlɔvˈɛk	ʧɔvˈɛk	
-PLAY	iʁrˈaʦʲ	iɡrˈajɐ		ɦrˈaːt					ɡɾaʨ~bˈavʲiʨ ɕɛ	ɪɡrˈatʲ	ɦrac	iɡràːtisɛ	ɦrˈɑtɪ			ǐɡratise
-PULL	ʦʲæʁnˈuʦʲ	tˈɛɡlʲɐ~drˈɤpnɐ		tˈaɦat~tˈaːɦnou̯t					ʨˈɔŋɡnɔɲʨ	tʲɪnˈutʲ	cˈaɦac	u̯lɛ̀ːʧi	tʲɐɦnˈutɪ			ʋǔːʨi
-PUSH	pxaʦʲ~ʂtˈurxaʦʲ	tˈikɐm		pˈosou̯vat					pxaʨ~pɔsˈuvaʨ	tɐɫkˈatʲ	pˈɔsunɔʋac	rìːniti	pxˈɑtɪ~ʃtɔʋxˈɑtɪ			ɡǔːrati
-RAIN	doʂʧ	dɤʃt		dˈɛːʃc					dɛʂʈ͡ʂ	doʂtʲ	daːʃc	dɛ́ʃ	dɔʃʧ			kîʃa
-RAIN_1						ljêtus	lʲjɛtˈʊs	doʃ						dɛʃ	dǎːʃ	
-RAIN_2			ɡu̯ɔ̌dina		ɡˈu̯odinɒ											
-RED	ʧɨrvˈonɨ	ʧɛrvˈɛn		ʧˈɛrvɛniː					ʈ͡ʂɛɾvˈɔnɨ	krˈasnɨɪ̯	ʧˈɛrʋɛniː	rdɛ́ʧ	ʧɛrwˈɔnɪi̯			ʦř̩ʋen
-RED_1			ʧˈr̩ʎjɛn~ʧˈr̩ʎɛn		ʧˈɛrjæn		rɐwdôːnɐs	ʦr̩ven						ʧɛvjěːni		
-RED_2						sârkǎns									kr̩vǎːvi	
-RIVER	rakˈa	rɛkˈa		r̝ˈɛka					ʐˈɛka	rʲɪkˈa	rˈɪ̯ɛka	rɛ̀ːka	ɾʲikˈɑ			rjeː̌ka
-ROOT	kˈoranʲ	kˈɔrɛn		kˈor̝ɛn					kˈɔʐɛɲ	kˈorʲɪnʲ	kˈɔrɛɲ	kɔrɛnìːna	kˈɔɾʲinʲ			kôrjeːn
-ROOT_1			ku̯ɔ̌rɛn		kˈu̯orænɒ	saknɛ	ʃɐknʲˈɪs	koren						kɔ̌ːrɛn	kˈɔrɛn	
-ROUND	krˈuʁɫɨ	krˈɤɡɐɫ		kˈulatiː~ˈokrou̯ɦliː					ɔkɾˈɔŋɡwɨ	krˈuɡɫɨɪ̯	ɡˈuʎatiː~ˈɔkruːɦɫi	ɔkrɔ̀ːɡɛu̯	krˈuɦɫɪi̯			ǒkruːɡao
-ROUND_-1														(tɔ̌ːndi)	(tu̯ǒnt)	
-ROUND_1							ɐ̌pʲsʲkrʲɪtɐs	tɛrkalest								
-ROUND_2					krˈowpi	apǎʎʃ									ɔkrǔːɡal	
-RUB	ʦʲˈerʦʲi	trˈijɐ~tˈɤrkɐm		tr̝̊ˈiːt					tʂɛʨ	tʲɪrʲˈetʲ	trɪ̯ɛc	trɛ̀ːti~də̀rɡniti	tˈɛrtɪ			tr̩̂ti
-SALT	solʲ	sɔɫ		sˈuːl					sul	solʲ	sɔʎ	sɔ̀ːu̯	sʲilʲ			sôːl
-SALT_1			su̯ôl		sowj		drʊskˈɐ	soʎ						sôːl	su̯ôl	
-SALT_2						sǎːls										
-SAND	pʲæsˈok	pʲˈasɐk		pˈiːsɛk					pʲjˈasɛk	pʲɪsˈok	pˈɪ̯ɛsɔk	pɛ̀ːsɛk	pʲisˈɔk			pjeːsak
-SAND_-1															(sablu̯ôn)~(ʃablu̯ôn)	
-SAND_1					pˈejsæk	smǐltis	sʲmʲěːlʲɪs	pesok						pɛsˈɛk		
-SAY	skazˈaʦʲ	kˈaʒɐ		r̝ˈiːʦt					pɔvʲjˈɛʥɛʨ	skɐzˈatʲ	pˈɔʋɛdac	rɛ̀ːʧi	skɐzˈɑtɪ			rěʨi~kǎːzati
-SAY_1					væjˈiːm	saʦîːt	sɐkʲîːtʲɪ	veʎi								
-SAY_2			rɛc		ræʧ~ræʧt~rˈæʧti	tějkt		reʧi						rɛc	rɛc	
-SEA	mˈora	morˈɛ		mˈor̝ɛ					mˈɔʐɛ	mˈorʲe	mˈɔrɛ	mɔ̀ːrɛ	mˈɔrɛ			môːre
-SEE	bˈaʧɨʦʲ	vˈidʲɐ		vˈɪɟɛt					vʲˈiʥɛʨ~zɔbˈaʈ͡ʂɨʨ	vʲˈidʲɪtʲ	ʋˈiɟɪ̯ɛc	ʋìːdɛti	bˈɑʧɪtɪ			ʋîdjeti
-SEED	sʲˈemʲæ	sˈɛmɛ		sˈɛmɛno					naɕˈɔnɔ	sʲˈemʲə	sˈɛmɛnɔ	sɛ̀ːmɛ	sʲˈimjɐ			sjême
-SEED_1			sˈimɛ		sjˈemæ	sǣːkla	sʲêːkɫɐ	seme						sěːmɛ	sˈɛmɛn	
-SEE_1							mɐtʲîːtʲɪ	puʎi								
-SEE_2			vˈidit		vˈidæt~vˈidæti~vˈidit	rɛʣêːt		vidi						vêːc~vêːt	vˈidɛt	
-SEVEN	sʲem	sˈɛdɛm		sˈɛdm̩					ɕˈɛdɛm	sʲemʲ	sˈɛɟɛm	sɛ̀ːdɛm	sʲim			sêdam
-SEW	ʂɨʦʲ	ʃˈijɐ		ʃˈiːt					ʂɨʨ	ʂɨtʲ	ʃic	ʃìːʋati	ʃˈɪtɪ			ʃîti
-SHARP	vˈostrɨ	ˈɔstɐr		ˈostriː					ˈɔstɾɨ	ˈostrɨɪ̯	ˈɔstriː	ɔ̀ːstɛr	ɦˈɔstrɪi̯			ôʃtar
-SHOOT	stralʲˈæʦʲ	strˈɛlʲɐm		str̝̊ˈiːlɛt					stʂˈɛlaʨ	strʲɪlʲˈætʲ	strˈɛɫic~strˈɪ̯ɛʎac	strɛ̀ːlati	stɾʲilʲˈɑtɪ			pûʦati~strjeː̌ʎati
-SHORT	karˈotʲkʲi	kɤs		krˈaːtkiː					kɾˈutkʲi	kɐrˈotkʲɪɪ̯	krˈaːtki	kràːtɛk	kɔrˈɔtkɪi̯			krǎːtak
-SHORT_1							trʊ̌mpɐs	kus								
-SHORT_2			krâːtaːk		krˈaːtki	îːss								krǎːtak	krâːtak	
-SING	pʲeʦʲ~sʲpʲævˈaʦʲ	pˈɛjɐ		spˈiːvat					ɕpʲjˈɛvaʨ	pʲetʲ	spˈɪ̯ɛʋac	pɛ̀ːti	spʲiʋˈɑtɪ			pjêʋati
-SIT	sʲæʣʲˈeʦʲ	sɛdʲˈɤ		sˈɛɟɛt					ɕˈɛʥɛʨ	sʲɪdʲˈetʲ	sˈɛɟɪ̯ɛc	sɛdɛ̀ːti	sɪdʲˈitɪ			sjěditi
-SIT_1			sˈidit		sjˈedit	sêːdêːt	sʲeːdʲêːtʲɪ	sedi						sɛdˈɛt	sɛdˈɛt	
-SIX	ʂʲesʲʦʲ	ʃɛst		ʃˈɛst					ʂɛɕʨ	ʂɛsʲtʲ	ʃɛsc	ʃɛ̀ːst	ʃʲistʲ			ʃêːst
-SKIN	skˈura	kˈɔʒɐ		kˈuːʒɛ					skˈuɾa	kˈoʐə	kˈɔʒa	kɔ̀ːʒa	ʃkʲˈirɐ			kôʒa
-SKIN_1			ku̯ɔ̌ʒa		kˈu̯oʒɒ	âːda	ôːdɐ	koʒa						kɔ̌ːʒa	kˈɔʒa	
-SKY	nʲˈeba	nɛbˈɛ		nˈɛbɛ					ɲˈɛbɔ	nʲˈebə	ɲˈɛbɔ	nɛbɔ̀ː	nˈɛbɔ			nêbo
-SLEEP	spaʦʲ	spʲɤ		spˈaːt					spaʨ	spatʲ	spac	spàːti	spˈɑtɪ			spâti
-SLEEP_1			spat		spaːt		mʲjɛɡôːtʲɪ	spije						spat	spat	
-SLEEP_2						ɡulêːt										
-SMALL	malʲˈenʲkʲi	mˈaɫɐk~drˈɛbɛn		mˈaliː					mˈawɨ	mˈalʲɪnʲkʲɪɪ̯	mˈaɫiː	màːjxɛn	mɐɫˈɪi̯~mɐɫˈɛnʲkɪi̯			mâːliː~mǎlen
-SMALL_1			mǎːʎuʧak~mǎːjuʧak		mɒl	mass	mɐ̌ʒɐs	mal						mâːli	mâːli	
-SMELL	nʲˈʉxaʦʲ	dˈuʃɐ		ʦˈiːcɪt					vˈɔw̃xaʨ	nʲˈuxətʲ	ɲˈuxac	ʋóːxati	nʲˈuxɐtɪ			ɲûʃiti
-SMOKE	dɨm	dim~pˈuʃɛk		dˈiːm~kˈou̯r̝̊					dɨm	dɨm	dim	dím	dɪm			dîm
-SMOKE_1						dūːmi	dûːmɐj	ʧat								
-SMOKE_2			dîːm		diːm~dim									dǐːm	dǐːm	
-SMOOTH	ʁɫˈatʲkʲi	ɡɫˈadɐk		ɦlˈatkiː					ɡwˈatkʲi	ɡɫˈatkʲɪɪ̯	ɦɫˈatkiː	ɡlàːdɛk	ɦɫɐdkˈɪi̯			ɡlâdak
-SNAKE	zmʲæjˈæ	zmijˈa		ɦˈat					vɔw̃ʂ~ʐmʲˈija	zmʲɪjˈa	ɦat	kàːʧa	zmʲijˈɑ			zmǐja
-SNAKE_-1			(ɦad)													
-SNAKE_1							ɡʲiːvɐ̌tʲeː	zmija							zmˈija	
-SNAKE_2						ʧūːska		smok								
-SNAKE_3														ɡat		
-SNAKE_4														smradˈina		
-SNOW	snʲeʁ̥	snʲak		sɲˈiːx					ɕɲɛk	sʲnʲek	sɲɛx	snɛ̀ːk	snʲiɦ			snjeː̂ɡ
-SPEAK	ʁʌvarˈɨʦʲ	ɡovˈɔrʲɐ		mlˈuvɪt					mˈuvʲiʨ	ɡəvɐrʲˈitʲ	ɦˈɔʋɔric	ɡɔʋɔrìːti	ɦɔwɔrˈɪtɪ			ɡoʋǒriti
-STAND	stajˈæʦʲ	stojˈɤ		stˈaːt					staʨ	stɐjˈætʲ	staːc	stàːti	stɔjˈɑtɪ			stâjati
-STAND_1			stâːt		staːt	stāːvêːt	stoːvʲêːtʲɪ	stoj						stǎːt	stǎːt	
-STAR	zˈorka	zvɛzdˈa		ɦvjˈɛzda					ɡvʲjˈazda	zvʲɪzdˈa	ɦʋˈɪ̯ɛzda	zʋɛ̀ːzda	zʲˈirkɐ			zʋjeː̌zda
-STAR_1			zvjêzda		zvˈejzdɒ	zvǎjɡznɛ	ʒvɐjɡʒʲdʲěː	ʣvezda						zvɛzdˈa	zvjezdˈa	
-STICK	pˈaɫka	prɤt		ɦˈuːl					kʲij~lˈaska	pˈaɫkə	pˈaɫiʦa	pàːliʦa	pˈɑɫɪʦʲɐ			ʃtâːp~pâliʦa
-STONE	kˈamʲenʲ	kˈamɐk		kˈaːmɛn					kˈamʲjɛɲ	kˈamʲɪnʲ	kˈamɛɲ	kàːmɛn	kˈɑmʲinʲ			kâmeːn
-STONE_-1															(ɡrˈɔta)	
-STONE_1			kǎːmɛn		kˈowmæn	akměns	ɐkmuə̌	kamen						kaměːna~kǎːmik	kˈamik	
-STUPID	durnˈɨ	ɡɫˈupɐf		ɦlˈou̯piː					ɡwˈupʲi	ɡɫˈupɨɪ̯	ɦɫˈuːpi	ɡlùːp~bɛ̀ːdast	dʊrnˈɪi̯			ɡlûːp
-SUN	sˈonʦa	sɫˈɤnʦɛ		slˈunʦɛ					swˈɔɲʦɛ	sˈonʦə	sˈɫ̩ŋkɔ	sɔ̀ːnʦɛ	sˈɔnʦɛ			sûːnʦe
-SUN_1			sûːnʦɛ		sˈownʦæ~sˈu̯onʦæ	sāwlɛ	sɐ̂wlʲeː	sonʦe						sěːnʦɛ	sǔːnʦe	
-SWIM	pɫˈavaʦʲ	pɫˈuvɐm		plˈavat					pwˈɨvaʨ	pɫˈavətʲ	pɫˈaːʋac	plàːʋati	pɫɪʋtˈɪ~pɫˈɑʋɐtɪ			plîʋati
-SWIM_1							pɫɐ̌wktʲɪ	kapi								
-SWIM_2			plut		pʎuːt~pjuːt	pêldêːt								plˈavat	plˈivat	
-TAIL	xvost	opˈaʃkɐ		ˈoʦas					ˈɔɡɔn	xvost	xʋɔst	rɛ́p	xʋʲist			rêːp
-TAIL_1							uədʲɛɡˈɐ	opaʃka								
-TAIL_2			rjêp		rejp	astɛ								rěːp	rjěp	
-TEN	ʣʲˈesʲæʦʲ	dˈɛsɛt		dˈɛsɛt					ʥˈɛɕɛɲʨ	dʲˈesʲɪtʲ	ɟˈɛsac	dɛsɛ̀ːt	dˈɛsʲɐtʲ			dêseːt
-THAT	tˈoje	tuj~tovˈa		tˈo					tɔ	to	tɔ	tɔ̀ː	tɔ			tôː~ǒnoː
-THAT_1					own		ɐnˈɐs	on						ɔnɔ̌ːx~nɔ̌ːx	ɔnˈi	
-THAT_2			tâː		tej~taː	tas		t						ɔtɔ̌ːx~tɔ̌ːx	ta~tâː	
-THERE	tam	tam		tˈam					tam	tam	tam	tám	tɑm			tâmo
-THEY	jænˈɨ	tɛ		ˈoɲɪ					ˈɔɲi	ɐnʲˈi	ˈɔɲi	óːni	wɔnˈɪ			ǒni
-THICK	tˈowstɨ	dɛbˈɛɫ		tlˈustiː					ɡɾˈubɨ	tˈoɫstɨɪ̯	tˈɫ̩stiː	déːbɛu̯	tɔʋstˈɪi̯			děbeo
-THIN	tˈonkʲi	tˈɤnɐk		tˈɛŋkiː					ʨˈɛŋkʲi	tˈonkʲɪɪ̯	cˈɛŋkiː	tàːnɛk	tɔnkˈɪi̯			tânak
-THINK	dˈumaʦʲ	mˈislʲɐ		mˈɪslɪt					mˈɨɕlɛʨ	dˈumətʲ	mˈisɫɪ̯ɛc	mìːsliti	dˈumɐtɪ~mˈɪsɫɪtɪ			mîsliti
-THIN_1			tǎːnak		tˈejnæk		pɫôːnɐs	tanok						tˈɛnɛk	tˈanak	
-THIN_2						tjêws										
-THIS	ʁˈɛta	tˈɔzi		tˈoto~tˈoɦlɛ					tɔ	ˈɛtə	tɔ~tˈaːtɔ	tɔ̀ː	ʦɛ			ǒʋoː
-THIS_1			u̯ôv		owv	ʃis	ʃʲɪs	ov						ɔvɔ̌ːx~vɔ̌ːx	ɔvˈi	
-THIS_2								t								
-THOU	tɨ	ti		tˈɪ					tɨ	tɨ	ti	tìː	tɪ			tîː
-THOU_1			tîː		tiː	tu	tʊ	ti~tebe						tîː	tîː	
-THREE	trɨ	tri		tr̝̊ˈɪ					tʂɨ	trʲi	tri	trìː	trɪ			trîː
-THROW	kʲˈidaʦʲ	xvˈɤrlʲɐ		ɦˈoɟɪt					ʐˈuʦaʨ	brɐsˈatʲ	ɦˈɔɟic~ʋˈr̩ɦnuːc	u̯rèːʧi	kˈɪdɐtɪ			bǎʦati
-TIE	vʲæzˈaʦʲ	vˈɤrʒɐ		vˈaːzat					vʲjˈɔw̃zaʨ	vʲɪzˈatʲ	ʋˈɪ̯azac	ʋɛ̀ːzati	ʋjɐzˈɑtɪ			ʋěːzati
-TONGUE	jæzˈɨk	ɛzˈik		jˈazɪk					jˈɛw̃zɨk	jɪzˈɨk	jˈazik	jéːzik	jɐzˈɪk			jězik
-TONGUE_1			jˈɛziːk		jˈæzik		lʲjɛʒˈʊvʲɪs	jazik						zajˈik	zajˈik	
+NOT_1	nʲe	nɛ	nɛ	nɛ	næ	nɛ	nʲɛ	ne	ɲɛ	nʲɪ	ɲɪ̯ɛ	nɛ	nɛ	nɛ	nɛ	nê
+OLD_1	starˈɨ	star		stˈariː					stˈaɾɨ	stˈarɨɪ̯	stˈariː	stár	stɐrˈɪi̯			stâr
+ONE_1	aʣʲˈin	ɛdˈin	jˈɛdaːn~jˈɛdan	jˈɛdɛn	jˈædæn	vjêns	vʲjênɐs	eden	jˈɛdɛn	ɐdʲˈin	jˈɛdɛn	éːdɛn	ɔdˈɪn	jɛdˈɛn	jɛdǎːn	jědan
+OTHER_1	druɣʲˈi	druk								drʊɡˈoɪ̯	drˈuɦiː	drùːɡi				drûɡiː~druɡǎʧijiː
+OTHER_2	ˈinʂɨ			jˈɪniː					ˈinnɨ		ˈiniː		inˈɑkʃɪi̯			
+PATH OR ROAD_1		pɤt						pat		putʲ						pûːt
+PATH OR ROAD_2	sʲʦʲˈeʂka			stˈɛska	stjˈezɒ				ɕʨˈɛʂka			stɛzá	stˈɛʒkɐ			stǎza
+PATH OR ROAD_3			(ʦjěsta)	ʦˈɛsta							ʦˈɛsta	ʦɛ̀ːsta		ʧˈɛsta	ʧˈɛsta	ʦêsta
+PATH OR ROAD_4											xˈɔdɲiːk					
+PATH OR ROAD_5	darˈoʁa								dɾˈɔɡa	dɐrˈoɡə			dɔrˈɔɦɐ			
+PATH OR ROAD_6										trɐpˈa						
+PATH OR ROAD_7						ʦěʎʃ	kʲæ̌lʲɛs									
+PERSON_1	ʧʌɫavʲˈek	ʧovˈɛk	ʧlˈɔviːk	ʧlˈovjɛk	ʧlˈu̯ovæk			ʧojek	ʈ͡ʂwˈɔvʲjɛk	ʨɪɫɐvʲˈek	ʧɫˈɔʋɛk	ʧlóːʋɛk		ʧɔvˈɛk~ʃlɔvˈɛk	ʧɔvˈɛk	ʧǒʋjek
+PERSON_2													lʲʊdˈɪnɐ			
+PERSON_3							ʒmoːɡˈʊs									
+PERSON_4						(ʦǐlvǣːks)										
+PLAY_1	iʁrˈaʦʲ	iɡrˈajɐ		ɦraːt					ɡɾaʨ	ɪɡrˈatʲ	ɦrac	iɡràːtisɛ	ɦrˈɑtɪ			ǐɡratise
+PLAY_2									bˈavʲiʨ ɕɛ							
+PULL_1	ʦʲæʁnˈuʦʲ			tˈaːɦnou̯t					ʨˈɔŋɡnɔɲʨ	tʲɪnˈutʲ	cˈɪ̯aɦnuc		tʲɐɦnˈutɪ			
+PULL_2												u̯lɛ̀ːʧi				ʋǔːʨi
+PULL_3		dˈɤrpɐm														
+PUSH_1		bˈutɐm														
+PUSH_2																ɡǔːrati
+PUSH_3				tlˈaʧɪt						tɐɫkˈatʲ	tɫˈaʧic		ʃtɔʋxˈɑtɪ			
+PUSH_4	pxaʦʲ								pxaʨ			pəxàːti	pxˈɑtɪ			
+RAIN_1	doʂʧ	dɤʃt		dɛːʃc				doʃ	dɛʂʈ͡ʂ	doʂtʲ	daːʃc	dɛ́ʃ	dɔʃʧ	dɛʃ	dǎːʃ	
+RAIN_2																kîʃa
+RAIN_3						ljêtus	lʲjɛtˈʊs									
+RAIN_4			ɡu̯ɔ̌dina		ɡˈu̯odinɒ											
+RED_1	ʧɨrvˈonɨ	ʧɛrvˈɛn	ʧˈr̩ʎjɛn~ʧˈr̩ʎɛn	ʧˈɛrvɛniː	ʧˈɛrjæn			ʦr̩ven	ʈ͡ʂɛɾvˈɔnɨ		ʧˈɛrʋɛniː		ʧɛrwˈɔnɪi̯	ʧɛvjěːni		ʦř̩ʋen
+RED_2												rdɛ́ʧ				
+RED_3										krˈasnɨɪ̯						
+RED_4							rɐwdôːnɐs									
+RED_5						sârkǎns										
+RED_6															kr̩vǎːvi	
+RIVER_1	rakˈa	rɛkˈa		r̝ˈɛka					ʐˈɛka	rʲɪkˈa	rˈɪ̯ɛka	rɛ̀ːka	ɾʲikˈɑ			rjeː̌ka
+ROOT_1	kˈoranʲ	kˈɔrɛn	ku̯ɔ̌rɛn	kˈor̝ɛn	kˈu̯orænɒ			koren	kˈɔʐɛɲ	kˈorʲɪnʲ	kˈɔrɛɲ	kɔrɛnìːna	kˈɔɾʲinʲ	kɔ̌ːrɛn	kˈɔrɛn	kôrjeːn
+ROOT_2						saknɛ	ʃɐknʲˈɪs									
+ROUND_1	krˈuʁɫɨ	krˈɤɡɐɫ		ˈokrou̯ɦliː					ɔkɾˈɔŋɡwɨ	krˈuɡɫɨɪ̯	ˈɔkruːɦɫi	ɔkrɔ̀ːɡɛu̯	krˈuɦɫɪi̯		ɔkrǔːɡal	ǒkruːɡao
+ROUND_2				kˈulatiː							ɡˈuʎatiː					
+ROUND_3							ɐ̌pʲsʲkrʲɪtɐs									
+ROUND_4						apǎʎʃ										
+ROUND_5								tɛrkalest								
+ROUND_6														(tɔ̌ːndi)	(tu̯ǒnt)	
+ROUND_7					krˈowpi											
+RUB_1	ʦʲˈerʦʲi	trˈijɐ		tr̝̊iːt					tʂɛʨ	tʲɪrʲˈetʲ	trɪ̯ɛc	trɛ̀ːti	tˈɛrtɪ			tr̩̂ti
+SALT_1	solʲ	sɔɫ	su̯ôl	suːl	sowj	sǎːls		soʎ	sul	solʲ	sɔʎ	sɔ̀ːu̯	sʲilʲ	sôːl	su̯ôl	sôːl
+SALT_2							drʊskˈɐ									
+SAND_1	pʲæsˈok	pʲˈasɐk		pˈiːsɛk	pˈejsæk			pesok	pʲjˈasɛk	pʲɪsˈok	pˈɪ̯ɛsɔk	pɛ̀ːsɛk	pʲisˈɔk	pɛsˈɛk		pjeːsak
+SAND_2						smǐltis	sʲmʲěːlʲɪs									
+SAND_3															(sablu̯ôn)~(ʃablu̯ôn)	
+SAY_1	skazˈaʦʲ	kˈaʒɐ								skɐzˈatʲ			skɐzˈɑtɪ			kǎːzati
+SAY_2			rɛc	r̝iːʦt	ræʧ~ræʧt~rˈæʧti			reʧi				rɛ̀ːʧi		rɛc	rɛc	rěʨi
+SAY_3									pɔvʲjˈɛʥɛʨ		pˈɔʋɛdac					
+SAY_4						saʦîːt	sɐkʲîːtʲɪ									
+SAY_5						tějkt										
+SAY_6					væjˈiːm			veʎi								
+SEA_1	mˈora	morˈɛ		mˈor̝ɛ					mˈɔʐɛ	mˈorʲe	mˈɔrɛ	mɔ̀ːrɛ	mˈɔrɛ			môːre
+SEED_1	sʲˈemʲæ	sˈɛmɛ	sˈimɛ	sˈɛmɛno	sjˈemæ	sǣːkla	sʲêːkɫɐ	seme	naɕˈɔnɔ	sʲˈemʲə	sˈɛmɛnɔ	sɛ̀ːmɛ	sʲˈimjɐ	sěːmɛ	sˈɛmɛn	sjême
+SEE_1		vˈidʲɐ	vˈidit	vˈɪɟɛt	vˈidæt~vˈidæti~vˈidit			vidi	vʲˈiʥɛʨ	vʲˈidʲɪtʲ	ʋˈiɟɪ̯ɛc	ʋìːdɛti		vêːc~vêːt	vˈidɛt	ʋîdjeti
+SEE_2	bˈaʧɨʦʲ								zɔbˈaʈ͡ʂɨʨ				bˈɑʧɪtɪ			
+SEE_3							mɐtʲîːtʲɪ									
+SEE_4						rɛʣêːt										
+SEE_5								puʎi								
+SEVEN_1	sʲem	sˈɛdɛm		sˈɛdm̩					ɕˈɛdɛm	sʲemʲ	sˈɛɟɛm	sɛ̀ːdɛm	sʲim			sêdam
+SEW_1	ʂɨʦʲ	ʃˈijɐ		ʃiːt					ʂɨʨ	ʂɨtʲ	ʃic	ʃìːʋati	ʃˈɪtɪ			ʃîti
+SHARP_1	vˈostrɨ	ˈɔstɐr		ˈostriː					ˈɔstɾɨ	ˈostrɨɪ̯	ˈɔstriː	ɔ̀ːstɛr	ɦˈɔstrɪi̯			ôʃtar
+SHOOT_1	stralʲˈæʦʲ	strˈɛlʲɐm		str̝̊ˈiːlɛt					stʂˈɛlaʨ	strʲɪlʲˈætʲ	strˈɛɫic~strˈɪ̯ɛʎac	strɛ̀ːlati	stɾʲilʲˈɑtɪ			strjeː̌ʎati
+SHOOT_2																pûʦati
+SHORT_1	karˈotʲkʲi		krâːtaːk	krˈaːtkiː	krˈaːtki				kɾˈutkʲi	kɐrˈotkʲɪɪ̯	krˈaːtki	kràːtɛk	kɔrˈɔtkɪi̯	krǎːtak	krâːtak	krǎːtak
+SHORT_2							trʊ̌mpɐs									
+SHORT_3						îːss										
+SHORT_4		kɤs						kus								
+SING_1	pʲeʦʲ~sʲpʲævˈaʦʲ	pˈɛjɐ		spˈiːvat					ɕpʲjˈɛvaʨ	pʲetʲ	spˈɪ̯ɛʋac	pɛ̀ːti	spʲiʋˈɑtɪ			pjêʋati
+SIT_1	sʲæʣʲˈeʦʲ	sɛdʲˈɤ	sˈidit	sˈɛɟɛt	sjˈedit	sêːdêːt	sʲeːdʲêːtʲɪ	sedi	ɕˈɛʥɛʨ	sʲɪdʲˈetʲ	sˈɛɟɪ̯ɛc	sɛdɛ̀ːti	sɪdʲˈitɪ	sɛdˈɛt	sɛdˈɛt	sjěditi
+SIX_1	ʂʲesʲʦʲ	ʃɛst		ʃɛst					ʂɛɕʨ	ʂɛsʲtʲ	ʃɛsc	ʃɛ̀ːst	ʃʲistʲ			ʃêːst
+SKIN_1		kˈɔʒɐ	ku̯ɔ̌ʒa	kˈuːʒɛ	kˈu̯oʒɒ			koʒa		kˈoʐə	kˈɔʒa	kɔ̀ːʒa		kɔ̌ːʒa	kˈɔʒa	kôʒa
+SKIN_2	skˈura								skˈuɾa				ʃkʲˈirɐ			
+SKIN_3						âːda	ôːdɐ									
+SKY_1	nʲˈeba	nɛbˈɛ		nˈɛbɛ					ɲˈɛbɔ	nʲˈebə	ɲˈɛbɔ	nɛbɔ̀ː	nˈɛbɔ			nêbo
+SLEEP_1	spaʦʲ	spʲɤ	spat	spaːt	spaːt			spije	spaʨ	spatʲ	spac	spàːti	spˈɑtɪ	spat	spat	spâti
+SLEEP_2							mʲjɛɡôːtʲɪ									
+SLEEP_3						ɡulêːt										
+SMALL_1	malʲˈenʲkʲi	mˈaɫɐk	mǎːʎuʧak~mǎːjuʧak	mˈaliː	mɒl			mal	mˈawɨ	mˈalʲɪnʲkʲɪɪ̯	mˈaɫiː	màːjxɛn	mɐɫˈɪi̯~mɐɫˈɛnʲkɪi̯	mâːli	mâːli	mâːliː~mǎlen
+SMALL_2		drˈɛbɛn														
+SMALL_3						mass	mɐ̌ʒɐs									
+SMELL_1		dˈuʃɐ														
+SMELL_2	nʲˈʉxaʦʲ									nʲˈuxətʲ	ɲˈuxac		nʲˈuxɐtɪ			ɲûʃiti
+SMELL_3				ʦˈiːcɪt												
+SMELL_4									vˈɔw̃xaʨ			ʋóːxati				
+SMOKE_1	dɨm	dim	dîːm	diːm	diːm~dim	dūːmi	dûːmɐj		dɨm	dɨm	dim	dím	dɪm	dǐːm	dǐːm	dîm
+SMOKE_2		pˈuʃɛk														
+SMOKE_3				kˈou̯r̝̊												
+SMOKE_4								ʧat								
+SMOOTH_1	ʁɫˈatʲkʲi	ɡɫˈadɐk		ɦlˈatkiː					ɡwˈatkʲi	ɡɫˈatkʲɪɪ̯	ɦɫˈatkiː	ɡlàːdɛk	ɦɫɐdkˈɪi̯			ɡlâdak
+SNAKE_1	zmʲæjˈæ	zmijˈa						zmija	ʐmʲˈija	zmʲɪjˈa			zmʲijˈɑ		zmˈija	zmǐja
+SNAKE_2												kàːʧa				
+SNAKE_3			(ɦad)	ɦat							ɦat			ɡat		
+SNAKE_4									vɔw̃ʂ							
+SNAKE_5							ɡʲiːvɐ̌tʲeː									
+SNAKE_6						ʧūːska										
+SNAKE_7														smradˈina		
+SNAKE_8								smok								
+SNOW_1	snʲeʁ̥	snʲak		sɲiːx					ɕɲɛk	sʲnʲek	sɲɛx	snɛ̀ːk	snʲiɦ			snjeː̂ɡ
+SPEAK_1	ʁʌvarˈɨʦʲ	ɡovˈɔrʲɐ								ɡəvɐrʲˈitʲ	ɦˈɔʋɔric	ɡɔʋɔrìːti	ɦɔwɔrˈɪtɪ			ɡoʋǒriti
+SPEAK_2				mlˈuvɪt					mˈuvʲiʨ							
+STAND_1	stajˈæʦʲ	stojˈɤ	stâːt	staːt	staːt	stāːvêːt	stoːvʲêːtʲɪ	stoj	staʨ	stɐjˈætʲ	staːc	stàːti	stɔjˈɑtɪ	stǎːt	stǎːt	stâjati
+STAR_1		zvɛzdˈa	zvjêzda	ɦvjˈɛzda	zvˈejzdɒ	zvǎjɡznɛ	ʒvɐjɡʒʲdʲěː	ʣvezda	ɡvʲjˈazda	zvʲɪzdˈa	ɦʋˈɪ̯ɛzda	zʋɛ̀ːzda		zvɛzdˈa	zvjezdˈa	zʋjeː̌zda
+STAR_2	zˈorka												zʲˈirkɐ			
+STICK_1		prɤt														
+STICK_2																ʃtâːp
+STICK_3	pˈaɫka									pˈaɫkə	pˈaɫiʦa	pàːliʦa	pˈɑɫɪʦʲɐ			pâliʦa
+STICK_4									kʲij							
+STICK_5									lˈaska							
+STICK_6				ɦuːl												
+STONE_1	kˈamʲenʲ	kˈamɐk	kǎːmɛn	kˈaːmɛn	kˈowmæn	akměns	ɐkmuə̌	kamen	kˈamʲjɛɲ	kˈamʲɪnʲ	kˈamɛɲ	kàːmɛn	kˈɑmʲinʲ	kaměːna~kǎːmik	kˈamik	kâmeːn
+STONE_2															(ɡrˈɔta)	
+STUPID_1		ɡɫˈupɐf		ɦlˈou̯piː					ɡwˈupʲi	ɡɫˈupɨɪ̯	ɦɫˈuːpi	ɡlùːp				ɡlûːp
+STUPID_2	durnˈɨ												dʊrnˈɪi̯			
+SUN_1	sˈonʦa	sɫˈɤnʦɛ	sûːnʦɛ	slˈunʦɛ	sˈownʦæ~sˈu̯onʦæ	sāwlɛ	sɐ̂wlʲeː	sonʦe	swˈɔɲʦɛ	sˈonʦə	sˈɫ̩ŋkɔ	sɔ̀ːnʦɛ	sˈɔnʦɛ	sěːnʦɛ	sǔːnʦe	sûːnʦe
+SWIM_1	pɫˈavaʦʲ	pɫˈuvɐm	plut	plˈavat	pʎuːt~pjuːt				pwˈɨvaʨ	pɫˈavətʲ	pɫˈaːʋac	plàːʋati	pɫɪʋtˈɪ~pɫˈɑʋɐtɪ	plˈavat	plˈivat	plîʋati
+SWIM_2								kapi								
+SWIM_3						pêldêːt										
+SWIM_4							pɫɐ̌wktʲɪ									
+TAIL_1		opˈaʃkɐ						opaʃka								
+TAIL_2			rjêp		rejp							rɛ́p		rěːp	rjěp	rêːp
+TAIL_3	xvost									xvost	xʋɔst		xʋʲist			
+TAIL_4									ˈɔɡɔn							
+TAIL_5							uədʲɛɡˈɐ									
+TAIL_6						astɛ										
+TAIL_7				ˈoʦas												
+TEN_1	ʣʲˈesʲæʦʲ	dˈɛsɛt		dˈɛsɛt					ʥˈɛɕɛɲʨ	dʲˈesʲɪtʲ	ɟˈɛsac	dɛsɛ̀ːt	dˈɛsʲɐtʲ			dêseːt
+THAT_1	tˈoje	tovˈa	tâː	to	tej~taː	tas		t	tɔ	to	tɔ	tɔ̀ː	tɔ	ɔtɔ̌ːx~tɔ̌ːx	ta~tâː	tôː
+THAT_2					own		ɐnˈɐs	on						ɔnɔ̌ːx~nɔ̌ːx	ɔnˈi	ǒnoː
+THERE_1	tam	tam		tam					tam	tam	tam	tám	tɑm			tâmo
+THEY_1		tɛ														
+THEY_2	jænˈɨ			ˈoɲɪ					ˈɔɲi	ɐnʲˈi	ˈɔɲi	óːni	wɔnˈɪ			ǒni
+THICK_1		dɛbˈɛɫ										déːbɛu̯				děbeo
+THICK_2	tˈowstɨ			tlˈustiː						tˈoɫstɨɪ̯	tˈɫ̩stiː		tɔʋstˈɪi̯			
+THICK_3									ɡɾˈubɨ							
+THINK_1		mˈislʲɐ		mˈɪslɪt					mˈɨɕlɛʨ		mˈisɫɪ̯ɛc	mìːsliti	mˈɪsɫɪtɪ			mîsliti
+THINK_2	dˈumaʦʲ									dˈumətʲ			dˈumɐtɪ			
+THIN_1	tˈonkʲi	tˈɤnɐk	tǎːnak	tˈɛŋkiː	tˈejnæk	tjêws		tanok	ʨˈɛŋkʲi	tˈonkʲɪɪ̯	cˈɛŋkiː	tàːnɛk	tɔnkˈɪi̯	tˈɛnɛk	tˈanak	tânak
+THIN_2							pɫôːnɐs									
+THIS_1	ʁˈɛta	tˈɔzi		tˈoto				t	tɔ	ˈɛtə	tɔ~tˈaːtɔ	tɔ̀ː				
+THIS_2			u̯ôv		owv			ov						ɔvɔ̌ːx~vɔ̌ːx	ɔvˈi	ǒʋoː
+THIS_3						ʃis	ʃʲɪs						ʦɛ			
+THOU_1	tɨ	ti	tîː	tɪ	tiː	tu	tʊ	ti	tɨ	tɨ	ti	tìː	tɪ	tîː	tîː	tîː
+THOU_2								tebe								
+THREE_1	trɨ	tri		tr̝̊ɪ					tʂɨ	trʲi	tri	trìː	trɪ			trîː
+THROW_1		xvˈɤrlʲɐ														
+THROW_2																bǎʦati
+THROW_3									ʐˈuʦaʨ							
+THROW_4				ɦˈoɟɪt							ɦˈɔɟic					
+THROW_5											ʋˈr̩ɦnuːc					
+THROW_6												u̯rèːʧi				
+THROW_7	kʲˈidaʦʲ												kˈɪdɐtɪ			
+THROW_8										brɐsˈatʲ						
+TIE_1	vʲæzˈaʦʲ			vˈaːzat					vʲjˈɔw̃zaʨ	vʲɪzˈatʲ	ʋˈɪ̯azac	ʋɛ̀ːzati	ʋjɐzˈɑtɪ			ʋěːzati
+TIE_2		vˈɤrʒɐ														
+TONGUE_1	jæzˈɨk	ɛzˈik	jˈɛziːk	jˈazɪk	jˈæzik		lʲjɛʒˈʊvʲɪs	jazik	jˈɛw̃zɨk	jɪzˈɨk	jˈazik	jéːzik	jɐzˈɪk	zajˈik	zajˈik	jězik
 TONGUE_2						měːlɛ										
-TOOTH	zup	zɤp		zˈup					zɔmp	zup	zup	zɔ̀ːp	zub			zûːb
-TOOTH_1			zub		zowb		danʲtʲˈɪs	zap						zûːp	zu̯ôp	
-TOOTH_2						zuɔ̯̂ps										
-TREE	drˈɛva	dɐrvˈɔ		strˈom					dʐˈɛvɔ	dʲˈerʲɪvə	strɔm	drɛʋɔ̀ː	dˈɛrɛwɔ			dr̩̂ʋo~stǎːblo
-TREE_-1			(stru̯ôm)													
-TREE_1							mʲæ̌dʲɪs	dr̩vo								
-TREE_2					drˈejvɔ	kuɔ̯̂ks								drêːvɔ	drjêvɔ	
-TREE_3														stablˈɔ		
-TWENTY	dvˈaʦʦaʦʲ	dvˈajsɛt~dvˈadɛsɛt		dvˈaʦɛt					dvaʥˈɛɕʨa	dvˈatʦɨtʲ	dʋˈatsac	dʋàːjsɛt	dʋˈɑdʦʲɐtʲ			dʋǎːdeseːt
-TWO	dva	dva		dvˈa					dva	dva	dʋa	dʋàː	dʋɑ			dʋâː
-TWO_1			dvǎː		dvaː	divi	dʊ	dva						dvâː	dvâː	
-WALK	xaʣʲˈiʦʲ	xˈɔdʲɐ							xˈɔʥiʨ	xɐdʲˈitʲ		xɔdìːti	xɔdˈɪtɪ			xǒːdati
-WALK_1			ʔit		powt~pˈowti	jêt~jɛt	êjtʲɪ	oj						pɔ̌ːc	pu̯ǒc	
-WALK_2						ɡāːju								rěːn~ɡrěːn	ɡrjěn	
-WARM	ʁarˈaʧɨ~ʦʲˈɵpɫɨ	ʒˈarɐk~tˈɔpɐɫ		ɦˈorkiː~tˈɛpliː					ɡɔɾˈɔnʦɨ~ʨˈɛpwɨ	ʐˈarkʲɪɪ̯~tʲˈɵpɫɨɪ̯	ɦˈɔruːʦi~cˈɛpɫiː	u̯rɔ́ʧ~tóːpɛu̯	ʒɐrkˈɪi̯~ɦɐɾʲˈɑʧɪi̯~tˈɛpɫɪi̯			ʋrûːʨ~tôpao
-WARM_1			tjěpal		tˈu̯opɛl	sǐlts	ʃʲǐɫtɐs	topol						těːpɛl	tˈɛpal	
-WASH	mɨʦʲ	mˈijɐ~pɛrˈɤ		mˈiːt					pɾaʨ	mɨtʲ	mic	ɔpràːti	mˈɪtɪ			prâti
-WATER	vadˈa	vodˈa		vˈoda					vˈɔda	vɐdˈa	ʋˈɔda	ʋóːda	wɔdˈɑ			ʋǒda
-WATER_1			vu̯ɔ̌da		vˈu̯odɒ	ûːděns	vɐnduə̌	voda						vɔdˈa	vɔdˈa	
-WE	mɨ	nˈiɛ		mˈɪ					mɨ	mɨ	mi	mìː	mɪ			mîː
-WET	mˈokrɨ	mˈɔkɐr		mˈokriː					mˈɔkɾɨ	mˈokrɨɪ̯	mˈɔkriː	mɔ̀ːkɛr	mˈɔkrɪi̯			môkar
-WE_1			nâːs		naːs	mɛːs	mʲæ̌s	nije~nas						nas	nas	
-WE_2			mîː		miː									mîː	mîː	
-WHAT	ʂto	ʃtɔ~kɐkvˈɔ		ʦˈo					ʦɔ	ʂto	ʧɔ	kàːj	ʃʧɔ			ʃtô
-WHAT_1			ʧa~ʧâː		kɒj~kæj	kas	kɐs	ʃo~ʃco						ʧɛ	ʧa	
-WHERE	ʣʲe	kɐdˈɛ		ɡdˈɛ					ɡʥɛ	ɡdʲe	ɡɟɛ	kjɛ̀ː	dɛ			ɡdjê
-WHITE	bʲˈeɫɨ	bʲaɫ		bˈiːliː					bʲjˈawɨ	bʲˈeɫɨɪ̯	bˈɪ̯ɛɫi	bɛ̀ːu̯	bʲˈiɫɪi̯			bjeː̂l
-WHITE_1			bjêl		bejl	bālts	bɐ̂ɫtɐs	bel						bêːli	bjêl	
-WHO	xto	kɔj		ɡdˈo					ktɔ	kto	ktɔ	kdɔ̀ː	xtɔ			tkô
-WHO_1					kow	kas	kɐs	koj						kîː	kiː	
-WHO_2			ɡdɔ~dɔ													
-WIDE	ʂɨrˈokʲi	ʃirˈɔk		ʃˈɪrokiː					ʂɛɾˈɔkʲi	ʂɨrˈokʲɪɪ̯	ʃˈirɔkiː	ʃirɔ́k	ʃɪrˈɔkɪi̯			ʃǐrok
-WIFE	ʐˈonka	sɐprˈuɡɐ		xˈoc~mˈanʒɛlka					ʐˈɔna	ʐɨnˈa	ʒˈɛna~mˈanʒɛɫka	ʒéːna~sɔprɔ̀ːɡa	ʒʲˈinkɐ~drʊʒˈɪnɐ			ʒěna~sǔpruɡa
-WIND	vʲˈeʦʲer	vʲˈatɐr		vˈiːtr̩					vʲjatɾ	vʲˈetʲɪr	ʋˈɪ̯ɛtɔr	ʋɛ̀ːtɛr	ʋʲˈitɛr			ʋjêtar
-WIND_1			vjětar		vjˈetær	vɛːjʃ	vʲêːjɛs	veter						věːtɛr	vˈɛtar	
-WING	krɨɫˈo	kriɫˈɔ		kr̝̊ˈiːdlo					skʂˈɨdwɔ	krɨɫˈo	krˈiːdɫɔ	krìːlɔ	krɪɫˈɔ			krǐːlo
-WIPE	zʁʌtavˈaʦʲ	izbˈɤrʃɐ		ˈutr̝̊iːt					ɔbˈɛtʂɛʨ	vˈɨtʲɪrʲɪtʲ	ˈutrɪ̯ɛc	ɔbrìːsati	ʋˈɪtɛrtɪ			ǒtr̩ti
-WOMAN	ʐanʧˈɨna	ʒɛnˈa		ʒˈɛna					kɔbʲjˈɛta	ʐˈɛnʲɕːɪnə	ʒˈɛna	ɡɔspàː~ʒɛ̀ːnska	ʒʲˈinkɐ			ʒěna
-WOMAN_-1			(rˈɔba)													
-WOMAN_1			ʒˈɛna		ʒjˈenɒ~ʒjˈenskɒ		môːtʲɛrʲɪs	ʒena						ʒɛnˈa~ʒěːnska	ʒjěnska	
-WOMAN_2						sjɛvjɛtɛ										
-WORM	ʧarvʲˈæk	ʧˈɛrvɛj		ʧˈɛrf					ɾˈɔbak	ʨɪrvʲˈak	ʧɛrʋ	ʧə́ru̯~ɡlìːsta	ʧɛrʋjˈɑk			ʦr̩̂ːʋ
-WORM_1			ʧr̩̂v		ʧɛrv		kʲɪrʲmʲeːlʲěː	ʦr̩veʦ						ʧêːrf	ʧr̩̂f	
-WORM_2						tǎːrps									ɡlîːs~ɡlîːsta	
-YEAR	ʁot	ɡodˈinɐ		rˈok					ɾɔk	ɡot	rɔk	lɛ̀ːtɔ	ɾʲik			ɡôdina
-YEAR_-1						(ɡats)										
-YEAR_1							mʲæ̌tɐj	ɡodina								
-YEAR_2			ljětɔ		ljˈetɔ									lěːtɔ	lˈɛtɔ	
-YELLOW	ʐˈowtɨ	ʒɤɫt		ʒlˈutiː					ʐˈuwtɨ	ʐˈoɫtɨɪ̯	ʒˈɫ̩tiː	ʒɔ̀ːu̯t~rumɛ́n	ʒˈɔʍtɪi̯			ʒûːt
-YELLOW_1			ʒûːt		ʒowt	ʣæ̂ltæ̌ns	ɡʲɛɫtôːnɐs	ʒolt						ʒûːt	ʒûːt	
-YOU	vɨ	vˈiɛ		vˈɪ					vɨ	vɨ	ʋi	ʋìː	ʋɪ			ʋîː
+TOOTH_1	zup	zɤp	zub	zup	zowb	zuɔ̯̂ps		zap	zɔmp	zup	zup	zɔ̀ːp	zub	zûːp	zu̯ôp	zûːb
+TOOTH_2							danʲtʲˈɪs									
+TREE_1	drˈɛva	dɐrvˈɔ			drˈejvɔ			dr̩vo	dʐˈɛvɔ	dʲˈerʲɪvə		drɛʋɔ̀ː	dˈɛrɛwɔ	drêːvɔ	drjêvɔ	dr̩̂ʋo
+TREE_2														stablˈɔ		stǎːblo
+TREE_3			(stru̯ôm)	strom							strɔm					
+TREE_4							mʲæ̌dʲɪs									
+TREE_5						kuɔ̯̂ks										
+TWENTY_1	dvˈaʦʦaʦʲ	dvˈajsɛt~dvˈadɛsɛt		dvˈaʦɛt					dvaʥˈɛɕʨa	dvˈatʦɨtʲ	dʋˈatsac	dʋàːjsɛt	dʋˈɑdʦʲɐtʲ			dʋǎːdeseːt
+TWO_1	dva	dva	dvǎː	dva	dvaː	divi	dʊ	dva	dva	dva	dʋa	dʋàː	dʋɑ	dvâː	dvâː	dʋâː
+WALK_1	xaʣʲˈiʦʲ	xˈɔdʲɐ						oj	xˈɔʥiʨ	xɐdʲˈitʲ		xɔdìːti	xɔdˈɪtɪ			xǒːdati
+WALK_2					powt~pˈowti									pɔ̌ːc	pu̯ǒc	
+WALK_3			ʔit			jêt~jɛt	êjtʲɪ									
+WALK_4						ɡāːju								rěːn~ɡrěːn	ɡrjěn	
+WARM_1		ʒˈarɐk								ʐˈarkʲɪɪ̯			ʒɐrkˈɪi̯			
+WARM_2	ʦʲˈɵpɫɨ	tˈɔpɐɫ	tjěpal	tˈɛpliː	tˈu̯opɛl			topol	ʨˈɛpwɨ	tʲˈɵpɫɨɪ̯	cˈɛpɫiː	tóːpɛu̯	tˈɛpɫɪi̯	těːpɛl	tˈɛpal	tôpao
+WARM_3												u̯rɔ́ʧ				ʋrûːʨ
+WARM_4	ʁarˈaʧɨ								ɡɔɾˈɔnʦɨ		ɦˈɔruːʦi		ɦɐɾʲˈɑʧɪi̯			
+WARM_5						sǐlts	ʃʲǐɫtɐs									
+WARM_6				ɦˈorkiː												
+WASH_1	mɨʦʲ	mˈijɐ		miːt						mɨtʲ	mic		mˈɪtɪ			
+WASH_2		pɛrˈɤ							pɾaʨ			ɔpràːti				prâti
+WATER_1	vadˈa	vodˈa	vu̯ɔ̌da	vˈoda	vˈu̯odɒ	ûːděns	vɐnduə̌	voda	vˈɔda	vɐdˈa	ʋˈɔda	ʋóːda	wɔdˈɑ	vɔdˈa	vɔdˈa	ʋǒda
+WET_1	mˈokrɨ	mˈɔkɐr		mˈokriː					mˈɔkɾɨ	mˈokrɨɪ̯	mˈɔkriː	mɔ̀ːkɛr	mˈɔkrɪi̯			môkar
+WE_1	mɨ	nˈiɛ	mîː	mɪ	miː	mɛːs	mʲæ̌s	nije	mɨ	mɨ	mi	mìː	mɪ	mîː	mîː	mîː
+WE_2			nâːs		naːs			nas						nas	nas	
+WHAT_1	ʂto	ʃtɔ		ʦo				ʃo~ʃco	ʦɔ	ʂto	ʧɔ		ʃʧɔ			ʃtô
+WHAT_2		kɐkvˈɔ														
+WHAT_3					kɒj~kæj	kas	kɐs					kàːj				
+WHAT_4			ʧa~ʧâː											ʧɛ	ʧa	
+WHERE_1	ʣʲe	kɐdˈɛ		ɡdɛ					ɡʥɛ	ɡdʲe	ɡɟɛ	kjɛ̀ː	dɛ			ɡdjê
+WHITE_1	bʲˈeɫɨ	bʲaɫ	bjêl	bˈiːliː	bejl	bālts	bɐ̂ɫtɐs	bel	bʲjˈawɨ	bʲˈeɫɨɪ̯	bˈɪ̯ɛɫi	bɛ̀ːu̯	bʲˈiɫɪi̯	bêːli	bjêl	bjeː̂l
+WHO_1	xto	kɔj	ɡdɔ~dɔ	ɡdo	kow	kas	kɐs	koj	ktɔ	kto	ktɔ	kdɔ̀ː	xtɔ	kîː	kiː	tkô
+WIDE_1	ʂɨrˈokʲi	ʃirˈɔk		ʃˈɪrokiː					ʂɛɾˈɔkʲi	ʂɨrˈokʲɪɪ̯	ʃˈirɔkiː	ʃirɔ́k	ʃɪrˈɔkɪi̯			ʃǐrok
+WIFE_1		sɐprˈuɡɐ										sɔprɔ̀ːɡa				sǔpruɡa
+WIFE_2	ʐˈonka								ʐˈɔna	ʐɨnˈa	ʒˈɛna	ʒéːna	ʒʲˈinkɐ			ʒěna
+WIFE_3				mˈanʒɛlka							mˈanʒɛɫka					
+WIFE_4				xoc												
+WIFE_5													drʊʒˈɪnɐ			
+WIND_1	vʲˈeʦʲer	vʲˈatɐr	vjětar	vˈiːtr̩	vjˈetær	vɛːjʃ	vʲêːjɛs	veter	vʲjatɾ	vʲˈetʲɪr	ʋˈɪ̯ɛtɔr	ʋɛ̀ːtɛr	ʋʲˈitɛr	věːtɛr	vˈɛtar	ʋjêtar
+WING_1	krɨɫˈo	kriɫˈɔ		kr̝̊ˈiːdlo					skʂˈɨdwɔ	krɨɫˈo	krˈiːdɫɔ	krìːlɔ	krɪɫˈɔ			krǐːlo
+WOMAN_1	ʐanʧˈɨna	ʒɛnˈa	ʒˈɛna	ʒˈɛna	ʒjˈenɒ~ʒjˈenskɒ			ʒena		ʐˈɛnʲɕːɪnə	ʒˈɛna	ʒɛ̀ːnska	ʒʲˈinkɐ	ʒɛnˈa~ʒěːnska	ʒjěnska	ʒěna
+WOMAN_2									kɔbʲjˈɛta							
+WOMAN_3							môːtʲɛrʲɪs									
+WOMAN_4						sjɛvjɛtɛ										
+WOMAN_5			(rˈɔba)													
+WORM_1	ʧarvʲˈæk	ʧˈɛrvɛj	ʧr̩̂v	ʧɛrf	ʧɛrv			ʦr̩veʦ		ʨɪrvʲˈak	ʧɛrʋ	ʧə́ru̯	ʧɛrʋjˈɑk	ʧêːrf	ʧr̩̂f	ʦr̩̂ːʋ
+WORM_2												ɡlìːsta			ɡlîːs~ɡlîːsta	
+WORM_3									ɾˈɔbak							
+WORM_4							kʲɪrʲmʲeːlʲěː									
+WORM_5						tǎːrps										
+YEAR_1	ʁot	ɡodˈinɐ						ɡodina		ɡot						ɡôdina
+YEAR_2			ljětɔ		ljˈetɔ							lɛ̀ːtɔ		lěːtɔ	lˈɛtɔ	
+YEAR_3				rok					ɾɔk		rɔk		ɾʲik			
+YEAR_4						(ɡats)										
+YEAR_5							mʲæ̌tɐj									
+YELLOW_1	ʐˈowtɨ	ʒɤɫt	ʒûːt	ʒlˈutiː	ʒowt	ʣæ̂ltæ̌ns	ɡʲɛɫtôːnɐs	ʒolt	ʐˈuwtɨ	ʐˈoɫtɨɪ̯	ʒˈɫ̩tiː	ʒɔ̀ːu̯t	ʒˈɔʍtɪi̯	ʒûːt	ʒûːt	ʒûːt
+YELLOW_2												rumɛ́n				
+YOU_1	vɨ	vˈiɛ		vɪ					vɨ	vɨ	ʋi	ʋìː	ʋɪ			ʋîː

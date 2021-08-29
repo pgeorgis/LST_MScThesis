@@ -6,17 +6,17 @@ from pathlib import Path
 current_dir = Path(str(os.getcwd()))
 parent_dir = current_dir.parent
 grandparent_dir = parent_dir.parent
+greatgrandparent_dir = grandparent_dir.parent
 
 #Load phonetic distance data and auxiliary functions
-os.chdir(str(grandparent_dir) + '/Code')
+os.chdir(str(greatgrandparent_dir) + '/Code')
 from auxiliary_functions import csv_to_dict, strip_ch
-os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
 from phonetic_distance import *
 os.chdir(current_dir)
 
 #%%
 #LOAD LANGUAGE CSV
-lang_data = pd.read_csv(str(parent_dir) + '/Languages.csv', sep='\t')
+lang_data = pd.read_csv(str(grandparent_dir) + '/Languages.csv', sep='\t')
 lang_data = {lang_data['Source Name'][i]:(lang_data['Name'][i], 
                                           lang_data['Glottocode'][i], 
                                           lang_data['ISO 639-3'][i])
@@ -25,7 +25,7 @@ lang_data = {lang_data['Source Name'][i]:(lang_data['Name'][i],
 
 #%%
 #LOAD CONCEPTICON MAPPING
-concepticon_swadesh = csv_to_dict('Source/Concepticon/Concept_list_Starostin_1991_110.csv', sep='\t')
+concepticon_swadesh = csv_to_dict('Concepticon/Concept_list_Starostin_1991_110.csv', sep='\t')
 concepticon_swadesh = {concepticon_swadesh[i]['Name'].split(' [')[0]:concepticon_swadesh[i]['Parameter']
                        for i in concepticon_swadesh}
 for key, value in [('claw(nail)', 'CLAW OR NAIL'),
@@ -36,7 +36,7 @@ for key, value in [('claw(nail)', 'CLAW OR NAIL'),
     concepticon_swadesh[key] = value
 
 #Load mappings of differing labels for the same concept group
-all_concepts = pd.read_csv(str(parent_dir) + '/Concepts/concepts.csv', sep='\t')
+all_concepts = pd.read_csv(str(grandparent_dir) + '/Concepts/concepts.csv', sep='\t')
 base_concepts = {list(all_concepts.Concept)[i]:list(all_concepts.BaseConcept)[i] 
                  for i in range(len(all_concepts))}
 
@@ -46,7 +46,7 @@ for concept in concepticon_swadesh:
 #%%
 #LOAD BALTO-SLAVIC DATASETS BY SUBGROUP
 
-datasets = ['Source/Baltic.xlsx', 'Source/Slavic.xlsx'] #glob.glob('Source/*.xlsx')
+datasets = ['Baltic.xlsx', 'Slavic.xlsx']
 
 new_baltoslav_ch = defaultdict(lambda:[])
 
@@ -55,7 +55,7 @@ baltoslav_subfamilies = {}
 
 for dataset in datasets:
     sh = load_workbook(dataset)['Sheet1']
-    subfamily = dataset.split('.')[0].split('/')[1]
+    subfamily = dataset.split('.')[0]
     
     columns = [i[0].column_letter for i in list(sh.columns)]
     rows = list(range(1,len(list(sh.rows))+1))

@@ -324,7 +324,8 @@ for i in forms_data:
                 elif lang == 'Bulgarian':
                     if orth in ['китка', 'тояга', 'изгоря', 'почва', 'фин',
                                 'пътека', 'древен', 'тил', 'умъртвя', 'косъм',
-                                'нога', 'хвърча', 'сражение']: #skip these translations
+                                'нога', 'хвърча', 'сражение', 'та', 'тегля', 
+                                'търкам', 'туй', 'месец']: #skip these translations
                     #skip "китка", not correct translation for HAND; use already present "ръка" instead
                     #skip "тояга", although valid translation, it is a Turkic loanword and a better translation "прът" is already listed
                     #skip "изгоря", because "горя" is already included
@@ -338,6 +339,11 @@ for i in forms_data:
                     #skip 'нога' -- outdated/dialectal, and 'крак' is included already
                     #skip "хвърча", because "летя" is already included
                     #skip "сражение", FIGHT as noun rather than verb; verb already included (via correction)
+                    #skip "та", because it is not the right meaning of "AND", and "и" is already present (after correction)
+                    #skip "тегля", because "дърпам" is already included (reference: IE-CoR)
+                    #skip "търкам", because "трия" is already included
+                    #skip "туй", because it is dialectal and standard "това" is already included
+                    #skip "месец", means MONTH rather than MOON; "луна" is already included
                         continue
                     
                     #Check whether the word is a verb
@@ -371,7 +377,8 @@ for i in forms_data:
                 elif lang == 'Croatian':
                     if orth in ['uski', 'put', 'pseto', 'bio', 'bridak', 'guja', 
                                 'sagorjeti', 'spaliti', 'papak', 'fin',
-                                'zatiljak', 'daljnji', 'nečist', 'kopkati']: 
+                                'zatiljak', 'daljnji', 'nečist', 'kopkati', 
+                                'te', 'ujesti', 'borba']: 
                         #skip "uski", because "uzak" (same lemma) is already included for "NARROW"
                         #skip "put", not a correct translation for "SKIN"
                         #skip "papak", not a correct translation for "CLAW" (means HOOF)
@@ -386,6 +393,9 @@ for i in forms_data:
                         #skip "daljnji", not quite right meaning of FAR; "dalek(o)" is already included
                         #skip "nečist", because it really means IMPURE and also "prljav" is already included (after replacement)
                         #skip "kopkati", because "kopati" is already present
+                        #skip "te", not the right "AND" meaning; "i" already included
+                        #skip "ujesti", because "gristi" is already included
+                        #skip "borba", because "boriti se" is already included (after replacing noun with verb)
                         continue
                     
                     #Standard (Serbo-)Croatian has /e, o/, not /ɛ, ɔ/
@@ -446,35 +456,31 @@ for i in forms_data:
                                     'sjemenje':('sjeme', 'sjême'), #sjemenje is pluralia tantum, use singular
                                     #'papak':('kandža', 'kâːnʤa') #correct translation for CLAW is kandža; papak means hoof
                                     'dalek':('daleko', 'dalěko'), #FAR as adverb, source: IE-CoR
-                                    'boj':('boriti se', 'bǒriti se') #FIGHT as verb; source: IE-CoR
+                                    'boj':('boriti se', 'bǒriti se'), #FIGHT as verb; source: IE-CoR
+                                    'sve':('sav', 'sâʋ') #change to masculine singular form of adjective
                                     }
                     if orth in replace_orth:
                         orth, tr = replace_orth[orth]
                 
                 elif lang == 'Slovene':
-                    if orth == 'dúhati': #correct this one word and supply transcription directly; cognate to Polish word
-                        orth = 'vọ̑hati'
-                        tr = 'ʋóːxati'
-                    elif orth == 'nédrja':
-                        orth = 'pŕsi'
-                        tr = 'pə́rsi' #reference: IE-CoR
-                    elif orth == 'lúčati':  #reference: IE-CoR
-                        orth = 'vréči'
-                        tr = 'u̯rèːʧi'
-                    elif orth == 'dejáti': #reference: IE-CoR
-                        orth = 'réči'
-                        tr = 'rɛ̀ːʧi'
-                    elif orth == 'máma': #reference: IE-CoR
-                        orth = 'máti'
-                        tr = 'màːti'
-                    elif orth == 'cvetlíca': #reference: IE-CoR
-                        orth = 'cvȇt'
-                        tr = 'ʦʋéːt'
-                    elif orth == 'bòj': #FIGHT as verb, source: IE-CoR
-                        orth = 'borīti se'
-                        tr = 'bɔrˈiːti sɛ'
+                    replace_orth = {
+                        'dúhati':('vọ̑hati', 'ʋóːxati'), #cognate to Polish word
+                        'nédrja':('pŕsi', 'pə́rsi'), #reference: IE-CoR
+                        'lúčati':('vréči', 'u̯rèːʧi'), #reference: IE-CoR
+                        'dejáti':('réči', 'rɛ̀ːʧi'), #reference: IE-CoR
+                        'máma':('máti', 'màːti'), #reference: IE-CoR
+                        'cvetlíca':('cvȇt', 'ʦʋéːt'), #reference: IE-CoR
+                        'bòj':('borīti se', 'bɔrˈiːti sɛ'), #FIGHT as verb, source: IE-CoR
+                        'vsè':('və̏s', 'ʋə́s'), #change to masculine singular form of adjective
+                        'ríniti':('peháti', 'pəxàːti'), #reference: IE-CoR
+                        'tù':('zdè', 'zdɛ́') #cognate with Russian and Czech; doublet 'túkaj' already included
+                        }
+                    
+                    if orth in replace_orth:
+                        orth, tr = replace_orth[orth]
                     elif orth in ['pŕst', 'párkelj', 'nóht na rôki', 'drôben', 
-                                  'zatílnik', 'maščôba', 'grêbsti', 'plákati']:
+                                  'zatílnik', 'maščôba', 'grêbsti', 'plákati', 
+                                  'bédast', 'dŕgniti', 'gospá', 'bórba']:
                         #skip this pŕst, because "zêmlja" is already included
                         #skip 'párkelj', wrong translation and better translation "nóht" is already included
                         #skip 'nóht na rôki', 'nóht' is already included
@@ -483,6 +489,10 @@ for i in forms_data:
                         #skip "maščôba", because "mást" is already included
                         #skip "grêbsti", means SCRATCH rather than DIG, and 'kopáti' is already included
                         #skip "plákati", more common "jókati" is already included (source: IE-CoR)
+                        #skip "bédast", because "glúp" is already included
+                        #skip "dŕgniti", because "tréti" is already included
+                        #skip "gospá", means MRS/LADY rather than WOMAN and "žénska" is already included
+                        #skip "bórba", because "borīti se" is already included (after replacing noun with verb)
                         continue 
                     
                     #Switch ordering of length and tone markings in order for the length
@@ -524,7 +534,7 @@ for i in forms_data:
                 elif lang == 'Czech':
                     if orth in ['šatstvo', 'běžet', 'jemný', 'rudý', 'týl', 
                                 'vlas', 'dráp', 'pazneht', 'omastek',
-                                'střihat', 'rýt']:
+                                'střihat', 'rýt', 'tahat', 'tohle']:
                         #skip 'šatstvo', more appropriate translation for CLOTHES 'šaty' is already in wordlist
                         #skip 'běžet', means RUN rather than WALK
                         #skip 'jemný', not quite the right translation and tenký is already included
@@ -535,6 +545,8 @@ for i in forms_data:
                         #skip 'omastek', because 'tuk' is already included
                         #skip 'střihat', because 'řezat' is already included
                         #skip 'rýt', because 'kopat' is already included
+                        #skip 'tahat', because 'táhnout' is already included
+                        #skip 'tohle', because 'toto' is already included
                         continue
                     
                     replace_orth = {'pěšina':'stezka', #pěšina is not wrong, but stezka matches a cognate set used in other languages
@@ -551,7 +563,9 @@ for i in forms_data:
                                     'květina':'květ', #reference: IE-CoR
                                     'daleký':'daleko', #FAR as adverb, source IE-CoR
                                     'spočítat':'počítat', #reference: IE-CoR
-                                    'boj':'bít se' #FIGHT as verb, reference: IE-CoR
+                                    'boj':'bít se', #FIGHT as verb, reference: IE-CoR
+                                    'všechno':'všechen', #change to masculine singular form of adjective
+                                    'posouvat':'tlačit' #reference: IE-CoR
                                     }
                     if orth in replace_orth:
                         orth = replace_orth[orth]
@@ -599,7 +613,10 @@ for i in forms_data:
                                     'zaviazať':'viazať', #more general verb, reference: IE-CoR (and remove extra listing 'priviazať')
                                     'počúvať':'počuť', #reference: IE-CoR
                                     'ďaleký':'ďaleko', #FAR as adverb, source IE-CoR
-                                    'boj':'biť sa' #FIGHT as verb; source IE-CoR
+                                    'boj':'biť sa', #FIGHT as verb; source IE-CoR
+                                    'všetko':'všetok', #change to masculine singular form of adjective
+                                    'ťahať':'tiahnuť', #change to perfective verb to match  other languages' forms
+                                    'posunovať':'tlačiť' #refernce: IE-CoR
                                     }
                     if orth in replace_orth:
                         orth = replace_orth[orth]
@@ -613,13 +630,15 @@ for i in forms_data:
                     #instead on orthographic form
                     
                     if orth in ['spalić', 'drobny', 'włos', 'płynąć',
-                                'szpon', 'krajać']: #skip these words
+                                'szpon', 'krajać', 'posuwać', 'walka']: #skip these words
                         #skip "spalić", "palić się" is already included (standard form according to IE-CoR)
                         #skip "drobny", better translation "cienki" is already included
                         #skip "włos", because more usual plural form "włosy" is already included
                         #skip "płynąć", because "ciec" is already included
                         #skip 'szpon', because 'paznokieć' is already included
                         #skip 'krajać', because 'ciąć' is already included
+                        #skip 'posuwać', wrong meaning and 'pchać' is already included
+                        #skip 'walka', because 'bić się' is already included (after replacing noun with verb)
                         continue
                     
                     #Correct some translations
@@ -632,7 +651,8 @@ for i in forms_data:
                                     'siew':'nasiono', #siew meangs "SOWING"; SEED is nasiono or nasienie
                                     'biust':'pierś', #biust is a loanword, "pierś" matches cognate classes in other languages (reference IE-CoR)
                                     'daleki':'daleko', #FAR as adverb, source IE-CoR
-                                    'bój':'bić się' #FIGHT as verb; souce IE-CoR
+                                    'bój':'bić się', #FIGHT as verb; souce IE-CoR
+                                    'wszystko':'wszystek' #change to masculine singular form of adjective
                                     }
                     if orth in replace_orth:
                         orth = replace_orth[orth]
@@ -652,14 +672,17 @@ for i in forms_data:
                 elif lang in ['Belarusian', 'Ukrainian']:
                     orth = re.sub("’", "'", orth)
                     
-                    if orth in ['дрібний', 'рівний', 'потилиця', 'кіготь', 'бій', #UK
-                                'патыліца', 'волас', 'кіпцюр']: #BE
+                    if orth in ['дрібний', 'рівний', 'потилиця', 'кіготь', 'бій', 'убрання', #UK
+                                'патыліца', 'волас', 'кіпцюр', 'ды', 'штурхаць']: #BE
                         #skip UK 'дрібний', better translation 'тонкий' is already included
                         #skip UK 'рівний', better translation 'гладкий' is already included
                         #skip UK 'потилиця' / BE 'патыліца', because UK 'шия' and BE 'шыя' are already included
                         #skip BE 'волас' because the more usual plural form 'валасы' is already included
                         #skip BE 'кіпцюр' and UK 'кіготь' because BE 'ногаць' and UK 'ніготь' are already included
                         #skip UK 'бій'; it is FIGHT as a noun rather than a verb; verb is already present (via correction)
+                        #skip BE 'ды', because it may not be the correct translation and 'i' is already present
+                        #skip UK 'убрання', because 'одяг' is already included
+                        #skip BE 'штурхаць', because 'пхаць' is already included
                         continue
                     
                     #Fetch the stress-annotated orthography
@@ -760,7 +783,7 @@ uralic_NEL_data = {i:NEL_data[i] for i in NEL_data
 
 if len(problems) == 0:
     write_data(NEL_data, 'northeuralex_data.csv')
-    write_data(balto_slavic_NEL_data, str(parent_dir) + '/Balto-Slavic/balto_slavic_NEL_data.csv')
+    write_data(balto_slavic_NEL_data, str(parent_dir) + '/Balto-Slavic/Source/balto_slavic_NEL_data.csv')
     write_data(uralic_NEL_data, str(parent_dir) + '/Uralic/uralic_NEL_data.csv')
         
         

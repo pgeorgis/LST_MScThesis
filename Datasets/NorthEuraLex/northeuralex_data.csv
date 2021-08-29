@@ -22715,7 +22715,6 @@ Bulgarian_LIVER	Bulgarian	bulg1262	bul	LIVER	черен дроб	ʧˈɛrɛn drɔ
 Bulgarian_SKY	Bulgarian	bulg1262	bul	SKY	небе	nɛbˈɛ	n ɛ b ˈɛ	nɛbɛ	SKY			Dellert et al., 2019
 Bulgarian_SUN	Bulgarian	bulg1262	bul	SUN	слънце	sɫˈɤnʦɛ	s ɫ ˈɤ n ʦ ɛ	sɫɤnt͡sɛ	SUN			Dellert et al., 2019
 Bulgarian_MOON	Bulgarian	bulg1262	bul	MOON	луна	ɫunˈa	ɫ u n ˈa	ɫuna	MOON			Dellert et al., 2019
-Bulgarian_MOON	Bulgarian	bulg1262	bul	MOON	месец	mˈɛsɛʦ	m ˈɛ s ɛ ʦ	mɛsɛt͡s	MOON			Dellert et al., 2019
 Bulgarian_STAR	Bulgarian	bulg1262	bul	STAR	звезда	zvɛzdˈa	z v ɛ z d ˈa	zvɛzda	STAR			Dellert et al., 2019
 Bulgarian_WIND	Bulgarian	bulg1262	bul	WIND	вятър	vʲˈatɐr	vʲ ˈa t ɐ r	vʲatɤr	WIND			Dellert et al., 2019
 Bulgarian_WATER	Bulgarian	bulg1262	bul	WATER	вода	vodˈa	v o d ˈa	vɔda	WATER			Dellert et al., 2019
@@ -22754,7 +22753,7 @@ Bulgarian_FISH	Bulgarian	bulg1262	bul	FISH	риба	rˈibɐ	r ˈi b ɐ	riba	FISH
 Bulgarian_SNAKE	Bulgarian	bulg1262	bul	SNAKE	змия	zmijˈa	z m i j ˈa	zmija	SNAKE			Dellert et al., 2019
 Bulgarian_WORM	Bulgarian	bulg1262	bul	WORM	червей	ʧˈɛrvɛj	ʧ ˈɛ r v ɛ j	t͡ʃɛrvɛj	WORM			Dellert et al., 2019
 Bulgarian_LOUSE	Bulgarian	bulg1262	bul	LOUSE	въшка	vˈɤʃkɐ	v ˈɤ ʃ k ɐ	vɤʃka	LOUSE			Dellert et al., 2019
-Bulgarian_BERRY	Bulgarian	bulg1262	bul	BERRY	плод	pɫɔt	p ɫ ɔ t	pɫɔt	BERRY			Dellert et al., 2019
+Bulgarian_BERRY	Bulgarian	bulg1262	bul	BERRY	зрънце	zrˈɤnʦɛ	z r ˈɤ n ʦ ɛ	плод / pɫɔt	BERRY			Dellert et al., 2019
 Bulgarian_SEED	Bulgarian	bulg1262	bul	SEED	семе	sˈɛmɛ	s ˈɛ m ɛ	sɛmɛ	SEED			Dellert et al., 2019
 Bulgarian_ASH	Bulgarian	bulg1262	bul	ASH	пепел	pˈɛpɛɫ	p ˈɛ p ɛ ɫ	pɛpɛɫ	ASH			Dellert et al., 2019
 Bulgarian_SAND	Bulgarian	bulg1262	bul	SAND	пясък	pʲˈasɐk	pʲ ˈa s ɐ k	pʲasɤk	SAND			Dellert et al., 2019
@@ -22817,9 +22816,8 @@ Bulgarian_HERE	Bulgarian	bulg1262	bul	HERE	тука	tˈukɐ	t ˈu k ɐ	tuka	HERE
 Bulgarian_THERE	Bulgarian	bulg1262	bul	THERE	там	tam	t a m	tam	THERE			Dellert et al., 2019
 Bulgarian_NOT	Bulgarian	bulg1262	bul	NOT	не	nɛ	n ɛ	nɛ	NOT			Dellert et al., 2019
 Bulgarian_THIS	Bulgarian	bulg1262	bul	THIS	този	tˈɔzi	t ˈɔ z i	tɔzi	THIS			Dellert et al., 2019
-Bulgarian_THAT	Bulgarian	bulg1262	bul	THAT	туй	tuj	t u j	tuj	THAT			Dellert et al., 2019
 Bulgarian_THAT	Bulgarian	bulg1262	bul	THAT	това	tovˈa	t o v ˈa	tɔva	THAT			Dellert et al., 2019
-Bulgarian_ALL	Bulgarian	bulg1262	bul	ALL	всичко	fsˈiʧko	f s ˈi ʧ k o	vsit͡ʃkɔ	ALL			Dellert et al., 2019
+Bulgarian_ALL	Bulgarian	bulg1262	bul	ALL	всички	fsˈiʧkʲi	f s ˈi ʧ kʲ i	всичко / vsit͡ʃkɔ	ALL			Dellert et al., 2019
 Bulgarian_I	Bulgarian	bulg1262	bul	I	аз	as	a s	as	I			Dellert et al., 2019
 Bulgarian_THOU	Bulgarian	bulg1262	bul	THOU	ти	ti	t i	ti	THOU			Dellert et al., 2019
 Bulgarian_WE	Bulgarian	bulg1262	bul	WE	ние	nˈiɛ	n ˈi ɛ	niɛ	WE			Dellert et al., 2019
@@ -22843,8 +22841,7 @@ Bulgarian_TEN	Bulgarian	bulg1262	bul	TEN	десет	dˈɛsɛt	d ˈɛ s ɛ t	dɛs
 Bulgarian_TWENTY	Bulgarian	bulg1262	bul	TWENTY	двайсет	dvˈajsɛt	d v ˈa j s ɛ t	dvajsɛt	TWENTY			Dellert et al., 2019
 Bulgarian_TWENTY	Bulgarian	bulg1262	bul	TWENTY	двадесет	dvˈadɛsɛt	d v ˈa d ɛ s ɛ t	dvadɛsɛt	TWENTY			Dellert et al., 2019
 Bulgarian_HUNDRED	Bulgarian	bulg1262	bul	HUNDRED	сто	stɔ	s t ɔ	stɔ	HUNDRED			Dellert et al., 2019
-Bulgarian_AND	Bulgarian	bulg1262	bul	AND	а	a	a	a	AND			Dellert et al., 2019
-Bulgarian_AND	Bulgarian	bulg1262	bul	AND	та	ta	t a	ta	AND			Dellert et al., 2019
+Bulgarian_AND	Bulgarian	bulg1262	bul	AND	и	i	i	а / a	AND			Dellert et al., 2019
 Bulgarian_STAND	Bulgarian	bulg1262	bul	STAND	стоя	stojˈɤ	s t o j ˈɤ	stɔja	STAND			Dellert et al., 2019
 Bulgarian_SIT	Bulgarian	bulg1262	bul	SIT	седя	sɛdʲˈɤ	s ɛ dʲ ˈɤ	sɛdʲa	SIT			Dellert et al., 2019
 Bulgarian_LIE	Bulgarian	bulg1262	bul	LIE	лежа	lɛʒˈɤ	l ɛ ʒ ˈɤ	lɛʒa	LIE			Dellert et al., 2019
@@ -22871,15 +22868,13 @@ Bulgarian_HEAR	Bulgarian	bulg1262	bul	HEAR	чувам	ʧˈuvɐm	ʧ ˈu v ɐ m	t�
 Bulgarian_SMELL	Bulgarian	bulg1262	bul	SMELL	душа	dˈuʃɐ	d ˈu ʃ ɐ	подуша / pɔduʃa	SMELL			Dellert et al., 2019
 Bulgarian_DIG	Bulgarian	bulg1262	bul	DIG	копая	kopˈajɐ	k o p ˈa j ɐ	kɔpaja	DIG			Dellert et al., 2019
 Bulgarian_HOLD	Bulgarian	bulg1262	bul	HOLD	държа	dɐrʒˈɤ	d ɐ r ʒ ˈɤ	dɤrʒa	HOLD			Dellert et al., 2019
-Bulgarian_PUSH	Bulgarian	bulg1262	bul	PUSH	тикам	tˈikɐm	t ˈi k ɐ m	tikam	PUSH			Dellert et al., 2019
+Bulgarian_PUSH	Bulgarian	bulg1262	bul	PUSH	бутам	bˈutɐm	b ˈu t ɐ m	тикам / tikam	PUSH			Dellert et al., 2019
 Bulgarian_BITE	Bulgarian	bulg1262	bul	BITE	хапя	xˈapʲɐ	x ˈa pʲ ɐ	xapʲa	BITE			Dellert et al., 2019
 Bulgarian_BITE	Bulgarian	bulg1262	bul	BITE	ухапя	uxˈapʲɐ	u x ˈa pʲ ɐ	uxapʲa	BITE			Dellert et al., 2019
 Bulgarian_TIE	Bulgarian	bulg1262	bul	TIE	вържа	vˈɤrʒɐ	v ˈɤ r ʒ ɐ	vɤrʒa	TIE			Dellert et al., 2019
 Bulgarian_RUB	Bulgarian	bulg1262	bul	RUB	трия	trˈijɐ	t r ˈi j ɐ	trija	RUB			Dellert et al., 2019
-Bulgarian_RUB	Bulgarian	bulg1262	bul	RUB	търкам	tˈɤrkɐm	t ˈɤ r k ɐ m	tɤrkam	RUB			Dellert et al., 2019
 Bulgarian_CUT	Bulgarian	bulg1262	bul	CUT	режа	rˈɛʒɐ	r ˈɛ ʒ ɐ	rɛʒa	CUT			Dellert et al., 2019
-Bulgarian_PULL	Bulgarian	bulg1262	bul	PULL	тегля	tˈɛɡlʲɐ	t ˈɛ ɡ lʲ ɐ	tɛɡʎa	PULL			Dellert et al., 2019
-Bulgarian_PULL	Bulgarian	bulg1262	bul	PULL	дръпна	drˈɤpnɐ	d r ˈɤ p n ɐ	drɤpna	PULL			Dellert et al., 2019
+Bulgarian_PULL	Bulgarian	bulg1262	bul	PULL	дърпам	dˈɤrpɐm	d ˈɤ r p ɐ m	дръпна / drɤpna	PULL			Dellert et al., 2019
 Bulgarian_THROW	Bulgarian	bulg1262	bul	THROW	хвърля	xvˈɤrlʲɐ	x v ˈɤ r lʲ ɐ	xvɤrʎa	THROW			Dellert et al., 2019
 Bulgarian_GIVE	Bulgarian	bulg1262	bul	GIVE	дам	dam	d a m	dam	GIVE			Dellert et al., 2019
 Bulgarian_PLAY	Bulgarian	bulg1262	bul	PLAY	играя	iɡrˈajɐ	i ɡ r ˈa j ɐ	iɡraja	PLAY			Dellert et al., 2019
@@ -22990,7 +22985,6 @@ Bulgarian_COUNT	Bulgarian	bulg1262	bul	COUNT	броя	brˈɔjɐ	b r ˈɔ j ɐ	br
 Štokavian_PATH_OR_ROAD	Štokavian	croa1245	hrv	PATH OR ROAD	put	pûːt	p ûː t	drum / drûm	PATH_OR_ROAD			Dellert et al., 2019
 Štokavian_PATH_OR_ROAD	Štokavian	croa1245	hrv	PATH OR ROAD	cesta	ʦêsta	ʦ ê s t a	t͡sɛ̂sta	PATH_OR_ROAD			Dellert et al., 2019
 Štokavian_FIGHT	Štokavian	croa1245	hrv	FIGHT	boriti se	bǒritise	b ǒ r i t i s e	boj / bɔ̂ːj	FIGHT			Dellert et al., 2019
-Štokavian_FIGHT	Štokavian	croa1245	hrv	FIGHT	borba	bǒrba	b ǒ r b a	bɔ̌rba	FIGHT			Dellert et al., 2019
 Štokavian_NIGHT	Štokavian	croa1245	hrv	NIGHT	noć	nôːʨ	n ôː ʨ	nɔ̂ːt͡ɕ	NIGHT			Dellert et al., 2019
 Štokavian_YEAR	Štokavian	croa1245	hrv	YEAR	godina	ɡôdina	ɡ ô d i n a	ɡɔ̂dina	YEAR			Dellert et al., 2019
 Štokavian_BIG	Štokavian	croa1245	hrv	BIG	velik	ʋêlik	ʋ ê l i k	ʋɛ̂lik	BIG			Dellert et al., 2019
@@ -23038,7 +23032,7 @@ Bulgarian_COUNT	Bulgarian	bulg1262	bul	COUNT	броя	brˈɔjɐ	b r ˈɔ j ɐ	br
 Štokavian_THIS	Štokavian	croa1245	hrv	THIS	ovo	ǒʋoː	ǒ ʋ oː	ɔ̌ʋɔː	THIS			Dellert et al., 2019
 Štokavian_THAT	Štokavian	croa1245	hrv	THAT	to	tôː	t ôː	tɔ̂ː	THAT			Dellert et al., 2019
 Štokavian_THAT	Štokavian	croa1245	hrv	THAT	ono	ǒnoː	ǒ n oː	ɔ̌nɔː	THAT			Dellert et al., 2019
-Štokavian_ALL	Štokavian	croa1245	hrv	ALL	sve	sʋê	s ʋ ê	sʋɛ̂	ALL			Dellert et al., 2019
+Štokavian_ALL	Štokavian	croa1245	hrv	ALL	sav	sâʋ	s â ʋ	sve / sʋɛ̂	ALL			Dellert et al., 2019
 Štokavian_I	Štokavian	croa1245	hrv	I	ja	jâː	j âː	jâː	I			Dellert et al., 2019
 Štokavian_THOU	Štokavian	croa1245	hrv	THOU	ti	tîː	t îː	tîː	THOU			Dellert et al., 2019
 Štokavian_WE	Štokavian	croa1245	hrv	WE	mi	mîː	m îː	mîː	WE			Dellert et al., 2019
@@ -23061,7 +23055,6 @@ Bulgarian_COUNT	Bulgarian	bulg1262	bul	COUNT	броя	brˈɔjɐ	b r ˈɔ j ɐ	br
 Štokavian_TWENTY	Štokavian	croa1245	hrv	TWENTY	dvadeset	dʋǎːdeseːt	d ʋ ǎː d e s eː t	dʋǎːdɛsɛːt	TWENTY			Dellert et al., 2019
 Štokavian_HUNDRED	Štokavian	croa1245	hrv	HUNDRED	sto	stôː	s t ôː	stɔ̂ː	HUNDRED			Dellert et al., 2019
 Štokavian_AND	Štokavian	croa1245	hrv	AND	i	i	i	i	AND			Dellert et al., 2019
-Štokavian_AND	Štokavian	croa1245	hrv	AND	te	tê	t ê	tɛ̂	AND			Dellert et al., 2019
 Štokavian_STAND	Štokavian	croa1245	hrv	STAND	stajati	stâjati	s t â j a t i	stâjati	STAND			Dellert et al., 2019
 Štokavian_SIT	Štokavian	croa1245	hrv	SIT	sjediti	sjěditi	s j ě d i t i	sjɛ̌diti	SIT			Dellert et al., 2019
 Štokavian_LIE	Štokavian	croa1245	hrv	LIE	ležati	lěʒati	l ě ʒ a t i	lɛ̌ʒati	LIE			Dellert et al., 2019
@@ -23088,7 +23081,6 @@ Bulgarian_COUNT	Bulgarian	bulg1262	bul	COUNT	броя	brˈɔjɐ	b r ˈɔ j ɐ	br
 Štokavian_DIG	Štokavian	croa1245	hrv	DIG	kopati	kǒpati	k ǒ p a t i	kɔ̌pati	DIG			Dellert et al., 2019
 Štokavian_HOLD	Štokavian	croa1245	hrv	HOLD	držati	dř̩ʒati	d ř̩ ʒ a t i	dř̩ʒati	HOLD			Dellert et al., 2019
 Štokavian_PUSH	Štokavian	croa1245	hrv	PUSH	gurati	ɡǔːrati	ɡ ǔː r a t i	ɡǔːrati	PUSH			Dellert et al., 2019
-Štokavian_BITE	Štokavian	croa1245	hrv	BITE	ujesti	ǔjesti	ǔ j e s t i	ǔjɛsti	BITE			Dellert et al., 2019
 Štokavian_BITE	Štokavian	croa1245	hrv	BITE	gristi	ɡrîsti	ɡ r î s t i	ɡrîsti	BITE			Dellert et al., 2019
 Štokavian_TIE	Štokavian	croa1245	hrv	TIE	vezati	ʋěːzati	ʋ ěː z a t i	ʋɛ̌ːzati	TIE			Dellert et al., 2019
 Štokavian_RUB	Štokavian	croa1245	hrv	RUB	trti	tr̩̂ti	t r̩̂ t i	tr̩̂ti	RUB			Dellert et al., 2019
@@ -23186,7 +23178,6 @@ Slovenian_SAND	Slovenian	slov1268	slv	SAND	pések	pɛ̀ːsɛk	p ɛ̀ː s ɛ k	p�
 Slovenian_PERSON	Slovenian	slov1268	slv	PERSON	člôvek	ʧlóːʋɛk	ʧ l óː ʋ ɛ k	t͡ʃlo˦ːʋɛk	PERSON			Dellert et al., 2019
 Slovenian_MAN	Slovenian	slov1268	slv	MAN	móž	mɔ̀ːʃ	m ɔ̀ː ʃ	mɔ˨ːʒ	MAN			Dellert et al., 2019
 Slovenian_MAN	Slovenian	slov1268	slv	MAN	môški	móːʃki	m óː ʃ k i	mo˦ːʃki	MAN			Dellert et al., 2019
-Slovenian_WOMAN	Slovenian	slov1268	slv	WOMAN	gospá	ɡɔspàː	ɡ ɔ s p àː	ɡɔspa˨ː	WOMAN			Dellert et al., 2019
 Slovenian_WOMAN	Slovenian	slov1268	slv	WOMAN	žénska	ʒɛ̀ːnska	ʒ ɛ̀ː n s k a	ʒɛ˨ːnska	WOMAN			Dellert et al., 2019
 Slovenian_FATHER	Slovenian	slov1268	slv	FATHER	ôče	óːʧɛ	óː ʧ ɛ	o˦ːt͡ʃɛ	FATHER			Dellert et al., 2019
 Slovenian_MOTHER	Slovenian	slov1268	slv	MOTHER	máti	màːti	m àː t i	máma / ma˨ːma	MOTHER			Dellert et al., 2019
@@ -23203,7 +23194,6 @@ Slovenian_CLOTHES	Slovenian	slov1268	slv	CLOTHES	obléka	ɔblɛ̀ːka	ɔ b l ɛ�
 Slovenian_PATH_OR_ROAD	Slovenian	slov1268	slv	PATH OR ROAD	stezà	stɛzá	s t ɛ z á	stɛza˦	PATH_OR_ROAD			Dellert et al., 2019
 Slovenian_PATH_OR_ROAD	Slovenian	slov1268	slv	PATH OR ROAD	césta	ʦɛ̀ːsta	ʦ ɛ̀ː s t a	t͡sɛ˨ːsta	PATH_OR_ROAD			Dellert et al., 2019
 Slovenian_FIGHT	Slovenian	slov1268	slv	FIGHT	borīti se	bɔrˈiːtisɛ	b ɔ r ˈiː t i s ɛ	bòj / bɔ˦j	FIGHT			Dellert et al., 2019
-Slovenian_FIGHT	Slovenian	slov1268	slv	FIGHT	bórba	bɔ̀ːrba	b ɔ̀ː r b a	bɔ˨ːrba	FIGHT			Dellert et al., 2019
 Slovenian_NIGHT	Slovenian	slov1268	slv	NIGHT	nóč	nɔ̀ːʧ	n ɔ̀ː ʧ	nɔ˨ːt͡ʃ	NIGHT			Dellert et al., 2019
 Slovenian_YEAR	Slovenian	slov1268	slv	YEAR	léto	lɛ̀ːtɔ	l ɛ̀ː t ɔ	lɛ˨ːtɔ	YEAR			Dellert et al., 2019
 Slovenian_BIG	Slovenian	slov1268	slv	BIG	vêlik	ʋéːlik	ʋ éː l i k	ʋe˦ːlik	BIG			Dellert et al., 2019
@@ -23233,7 +23223,6 @@ Slovenian_YELLOW	Slovenian	slov1268	slv	YELLOW	žólt	ʒɔ̀ːu̯t	ʒ ɔ̀ː u̯
 Slovenian_YELLOW	Slovenian	slov1268	slv	YELLOW	rumèn	rumɛ́n	r u m ɛ́ n	rumɛ˦n	YELLOW			Dellert et al., 2019
 Slovenian_GREEN	Slovenian	slov1268	slv	GREEN	zelèn	zɛlɛ́n	z ɛ l ɛ́ n	zɛlɛ˦n	GREEN			Dellert et al., 2019
 Slovenian_STUPID	Slovenian	slov1268	slv	STUPID	glúp	ɡlùːp	ɡ l ùː p	ɡlu˨ːp	STUPID			Dellert et al., 2019
-Slovenian_STUPID	Slovenian	slov1268	slv	STUPID	bédast	bɛ̀ːdast	b ɛ̀ː d a s t	bɛ˨ːdast	STUPID			Dellert et al., 2019
 Slovenian_GOOD	Slovenian	slov1268	slv	GOOD	dóber	dɔ̀ːbɛr	d ɔ̀ː b ɛ r	dɔ˨ːbɛr	GOOD			Dellert et al., 2019
 Slovenian_BAD	Slovenian	slov1268	slv	BAD	malopríden	malɔprìːdɛn	m a l ɔ p r ìː d ɛ n	malɔpri˨ːdɛn	BAD			Dellert et al., 2019
 Slovenian_OLD	Slovenian	slov1268	slv	OLD	stàr	stár	s t á r	sta˦r	OLD			Dellert et al., 2019
@@ -23242,13 +23231,13 @@ Slovenian_OLD	Slovenian	slov1268	slv	OLD	stàr	stár	s t á r	sta˦r	OLD			Del
 Slovenian_NEAR	Slovenian	slov1268	slv	NEAR	blížnji	blìːʒni	b l ìː ʒ n i	bli˨ːʒni	NEAR			Dellert et al., 2019
 Slovenian_FAR	Slovenian	slov1268	slv	FAR	dáleč	dàːlɛʧ	d àː l ɛ ʧ	da˨ːlɛt͡ʃ	FAR			Dellert et al., 2019
 Slovenian_OTHER	Slovenian	slov1268	slv	OTHER	drúgi	drùːɡi	d r ùː ɡ i	dru˨ːɡi	OTHER			Dellert et al., 2019
-Slovenian_HERE	Slovenian	slov1268	slv	HERE	tù	tú	t ú	tu˦	HERE			Dellert et al., 2019
+Slovenian_HERE	Slovenian	slov1268	slv	HERE	zdè	zdɛ́	z d ɛ́	tù / tu˦	HERE			Dellert et al., 2019
 Slovenian_HERE	Slovenian	slov1268	slv	HERE	túkaj	tùːkaj	t ùː k a j	tu˨ːkaj	HERE			Dellert et al., 2019
 Slovenian_THERE	Slovenian	slov1268	slv	THERE	tàm	tám	t á m	ta˦m	THERE			Dellert et al., 2019
 Slovenian_NOT	Slovenian	slov1268	slv	NOT	ne	nɛ	n ɛ	nɛ	NOT			Dellert et al., 2019
 Slovenian_THIS	Slovenian	slov1268	slv	THIS	tó	tɔ̀ː	t ɔ̀ː	tɔ˨ː	THIS			Dellert et al., 2019
 Slovenian_THAT	Slovenian	slov1268	slv	THAT	tó	tɔ̀ː	t ɔ̀ː	tɔ˨ː	THAT			Dellert et al., 2019
-Slovenian_ALL	Slovenian	slov1268	slv	ALL	vsè	u̯sɛ́	u̯ s ɛ́	ʋsɛ˦	ALL			Dellert et al., 2019
+Slovenian_ALL	Slovenian	slov1268	slv	ALL	və̏s	ʋə́s	ʋ ə́ s	vsè / ʋsɛ˦	ALL			Dellert et al., 2019
 Slovenian_I	Slovenian	slov1268	slv	I	jàz	jás	j á s	ja˦z	I			Dellert et al., 2019
 Slovenian_THOU	Slovenian	slov1268	slv	THOU	tí	tìː	t ìː	ti˨ː	THOU			Dellert et al., 2019
 Slovenian_WE	Slovenian	slov1268	slv	WE	mí	mìː	m ìː	mi˨ː	WE			Dellert et al., 2019
@@ -23295,11 +23284,10 @@ Slovenian_HEAR	Slovenian	slov1268	slv	HEAR	slíšati	slìːʃati	s l ìː ʃ a
 Slovenian_SMELL	Slovenian	slov1268	slv	SMELL	vọ̑hati	ʋóːxati	ʋ óː x a t i	dúhati / du˨ːxati	SMELL			Dellert et al., 2019
 Slovenian_DIG	Slovenian	slov1268	slv	DIG	kopáti	kɔpàːti	k ɔ p àː t i	kɔpa˨ːti	DIG			Dellert et al., 2019
 Slovenian_HOLD	Slovenian	slov1268	slv	HOLD	držáti	drʒàːti	d r ʒ àː t i	drʒa˨ːti	HOLD			Dellert et al., 2019
-Slovenian_PUSH	Slovenian	slov1268	slv	PUSH	ríniti	rìːniti	r ìː n i t i	ri˨ːniti	PUSH			Dellert et al., 2019
+Slovenian_PUSH	Slovenian	slov1268	slv	PUSH	peháti	pəxàːti	p ə x àː t i	ríniti / ri˨ːniti	PUSH			Dellert et al., 2019
 Slovenian_BITE	Slovenian	slov1268	slv	BITE	grísti	ɡrìːsti	ɡ r ìː s t i	ɡri˨ːsti	BITE			Dellert et al., 2019
 Slovenian_TIE	Slovenian	slov1268	slv	TIE	vézati	ʋɛ̀ːzati	ʋ ɛ̀ː z a t i	ʋɛ˨ːzati	TIE			Dellert et al., 2019
 Slovenian_RUB	Slovenian	slov1268	slv	RUB	tréti	trɛ̀ːti	t r ɛ̀ː t i	trɛ˨ːti	RUB			Dellert et al., 2019
-Slovenian_RUB	Slovenian	slov1268	slv	RUB	dŕgniti	də̀rɡniti	d ə̀ r ɡ n i t i	də˨rɡniti	RUB			Dellert et al., 2019
 Slovenian_CUT	Slovenian	slov1268	slv	CUT	rézati	rɛ̀ːzati	r ɛ̀ː z a t i	rɛ˨ːzati	CUT			Dellert et al., 2019
 Slovenian_PULL	Slovenian	slov1268	slv	PULL	vléči	u̯lɛ̀ːʧi	u̯ l ɛ̀ː ʧ i	ʋlɛ˨ːt͡ʃi	PULL			Dellert et al., 2019
 Slovenian_THROW	Slovenian	slov1268	slv	THROW	vréči	u̯rèːʧi	u̯ r èː ʧ i	lúčati / lu˨ːt͡ʃati	THROW			Dellert et al., 2019
@@ -23449,7 +23437,7 @@ Slovak_NOT	Slovak	slov1269	slk	NOT	nie	ɲɪ̯ɛ	ɲ ɪ̯ ɛ	ni̯e	NOT			Dellert e
 Slovak_THIS	Slovak	slov1269	slk	THIS	to	tɔ	t ɔ	tɔ	THIS			Dellert et al., 2019
 Slovak_THIS	Slovak	slov1269	slk	THIS	táto	tˈaːtɔ	t ˈaː t ɔ	taːtɔ	THIS			Dellert et al., 2019
 Slovak_THAT	Slovak	slov1269	slk	THAT	to	tɔ	t ɔ	tɔ	THAT			Dellert et al., 2019
-Slovak_ALL	Slovak	slov1269	slk	ALL	všetko	fʃˈɛtkɔ	f ʃ ˈɛ t k ɔ	fʃɛtkɔ	ALL			Dellert et al., 2019
+Slovak_ALL	Slovak	slov1269	slk	ALL	všetok	fʃˈɛtɔk	f ʃ ˈɛ t ɔ k	všetko / fʃɛtkɔ	ALL			Dellert et al., 2019
 Slovak_I	Slovak	slov1269	slk	I	ja	ja	j a	ja	I			Dellert et al., 2019
 Slovak_THOU	Slovak	slov1269	slk	THOU	ty	ti	t i	ti	THOU			Dellert et al., 2019
 Slovak_WE	Slovak	slov1269	slk	WE	my	mi	m i	mi	WE			Dellert et al., 2019
@@ -23497,12 +23485,12 @@ Slovak_HEAR	Slovak	slov1269	slk	HEAR	počuť	pˈɔʧuc	p ˈɔ ʧ u c	počúvať 
 Slovak_SMELL	Slovak	slov1269	slk	SMELL	ňuchať	ɲˈuxac	ɲ ˈu x a c	ɲuxac	SMELL			Dellert et al., 2019
 Slovak_DIG	Slovak	slov1269	slk	DIG	kopať	kˈɔpac	k ˈɔ p a c	kɔpac	DIG			Dellert et al., 2019
 Slovak_HOLD	Slovak	slov1269	slk	HOLD	držať	dˈr̩ʒac	d ˈr̩ ʒ a c	dr̩ʒac	HOLD			Dellert et al., 2019
-Slovak_PUSH	Slovak	slov1269	slk	PUSH	posunovať	pˈɔsunɔʋac	p ˈɔ s u n ɔ ʋ a c	pɔsunɔvac	PUSH			Dellert et al., 2019
+Slovak_PUSH	Slovak	slov1269	slk	PUSH	tlačiť	tɫˈaʧic	t ɫ ˈa ʧ i c	posunovať / pɔsunɔvac	PUSH			Dellert et al., 2019
 Slovak_BITE	Slovak	slov1269	slk	BITE	kúsať	kˈuːsac	k ˈuː s a c	kuːsac	BITE			Dellert et al., 2019
 Slovak_TIE	Slovak	slov1269	slk	TIE	viazať	ʋˈɪ̯azac	ʋ ˈɪ̯ a z a c	zaviazať / zavi̯azac	TIE			Dellert et al., 2019
 Slovak_RUB	Slovak	slov1269	slk	RUB	trieť	trɪ̯ɛc	t r ɪ̯ ɛ c	tri̯ec	RUB			Dellert et al., 2019
 Slovak_CUT	Slovak	slov1269	slk	CUT	rezať	rˈɛzac	r ˈɛ z a c	rɛzac	CUT			Dellert et al., 2019
-Slovak_PULL	Slovak	slov1269	slk	PULL	ťahať	cˈaɦac	c ˈa ɦ a c	caɦac	PULL			Dellert et al., 2019
+Slovak_PULL	Slovak	slov1269	slk	PULL	tiahnuť	cˈɪ̯aɦnuc	c ˈɪ̯ a ɦ n u c	ťahať / caɦac	PULL			Dellert et al., 2019
 Slovak_THROW	Slovak	slov1269	slk	THROW	hodiť	ɦˈɔɟic	ɦ ˈɔ ɟ i c	ɦɔdic	THROW			Dellert et al., 2019
 Slovak_THROW	Slovak	slov1269	slk	THROW	vrhnúť	ʋˈr̩ɦnuːc	ʋ ˈr̩ ɦ n uː c	vr̩ɦnuːc	THROW			Dellert et al., 2019
 Slovak_GIVE	Slovak	slov1269	slk	GIVE	dať	dac	d a c	dac	GIVE			Dellert et al., 2019
@@ -23523,17 +23511,17 @@ Slovak_KNOW	Slovak	slov1269	slk	KNOW	vedieť	ʋˈɛɟɪ̯ɛc	ʋ ˈɛ ɟ ɪ̯ ɛ 
 Slovak_COUNT	Slovak	slov1269	slk	COUNT	počítať	pˈɔʧiːtac	p ˈɔ ʧ iː t a c	pɔt͡ʃiːtac	COUNT			Dellert et al., 2019
 Czech_EYE	Czech	czec1258	ces	EYE	oko	ˈoko	ˈo k o	oko	EYE			Dellert et al., 2019
 Czech_EAR	Czech	czec1258	ces	EAR	ucho	ˈuxo	ˈu x o	uxo	EAR			Dellert et al., 2019
-Czech_NOSE	Czech	czec1258	ces	NOSE	nos	nˈos	n ˈo s	nos	NOSE			Dellert et al., 2019
+Czech_NOSE	Czech	czec1258	ces	NOSE	nos	nos	n o s	nos	NOSE			Dellert et al., 2019
 Czech_MOUTH	Czech	czec1258	ces	MOUTH	ústa	ˈuːsta	ˈuː s t a	pusa / pusa	MOUTH			Dellert et al., 2019
-Czech_TOOTH	Czech	czec1258	ces	TOOTH	zub	zˈup	z ˈu p	zup	TOOTH			Dellert et al., 2019
+Czech_TOOTH	Czech	czec1258	ces	TOOTH	zub	zup	z u p	zup	TOOTH			Dellert et al., 2019
 Czech_TONGUE	Czech	czec1258	ces	TONGUE	jazyk	jˈazɪk	j ˈa z ɪ k	jazɪk	TONGUE			Dellert et al., 2019
 Czech_HAIR	Czech	czec1258	ces	HAIR	vlasy	vlˈasɪ	v l ˈa s ɪ	vlasɪ	HAIR			Dellert et al., 2019
-Czech_NECK	Czech	czec1258	ces	NECK	krk	kˈr̩k	k ˈr̩ k	krk	NECK			Dellert et al., 2019
+Czech_NECK	Czech	czec1258	ces	NECK	krk	kr̩k	k r̩ k	krk	NECK			Dellert et al., 2019
 Czech_HEAD	Czech	czec1258	ces	HEAD	hlava	ɦlˈava	ɦ l ˈa v a	ɦlava	HEAD			Dellert et al., 2019
 Czech_BACK	Czech	czec1258	ces	BACK	záda	zˈaːda	z ˈaː d a	zaːda	BACK			Dellert et al., 2019
-Czech_BACK	Czech	czec1258	ces	BACK	hřbet	ɦr̝bˈɛt	ɦ r̝ b ˈɛ t	ɦr̝bɛt	BACK			Dellert et al., 2019
+Czech_BACK	Czech	czec1258	ces	BACK	hřbet	ɦr̝bɛt	ɦ r̝ b ɛ t	ɦr̝bɛt	BACK			Dellert et al., 2019
 Czech_BELLY	Czech	czec1258	ces	BELLY	břicho	br̝ˈɪxo	b r̝ ˈɪ x o	br̝ɪxo	BELLY			Dellert et al., 2019
-Czech_BREAST	Czech	czec1258	ces	BREAST	hruď	ɦrˈuc	ɦ r ˈu c	ňadra / ɲadra	BREAST			Dellert et al., 2019
+Czech_BREAST	Czech	czec1258	ces	BREAST	hruď	ɦruc	ɦ r u c	ňadra / ɲadra	BREAST			Dellert et al., 2019
 Czech_HAND	Czech	czec1258	ces	HAND	ruka	rˈuka	r ˈu k a	ruka	HAND			Dellert et al., 2019
 Czech_FINGERNAIL	Czech	czec1258	ces	FINGERNAIL	nehet	nˈɛɦɛt	n ˈɛ ɦ ɛ t	nɛɦɛt	FINGERNAIL			Dellert et al., 2019
 Czech_FINGERNAIL	Czech	czec1258	ces	FINGERNAIL	nehet	nˈɛɦɛt	n ˈɛ ɦ ɛ t	nɛɦɛt	FINGERNAIL			Dellert et al., 2019
@@ -23541,8 +23529,8 @@ Czech_FOOT	Czech	czec1258	ces	FOOT	noha	nˈoɦa	n ˈo ɦ a	noɦa	FOOT			Dellert 
 Czech_KNEE	Czech	czec1258	ces	KNEE	koleno	kˈolɛno	k ˈo l ɛ n o	kolɛno	KNEE			Dellert et al., 2019
 Czech_LEG	Czech	czec1258	ces	LEG	noha	nˈoɦa	n ˈo ɦ a	noɦa	LEG			Dellert et al., 2019
 Czech_SKIN	Czech	czec1258	ces	SKIN	kůže	kˈuːʒɛ	k ˈuː ʒ ɛ	kuːʒɛ	SKIN			Dellert et al., 2019
-Czech_BLOOD	Czech	czec1258	ces	BLOOD	krev	krˈɛf	k r ˈɛ f	krɛf	BLOOD			Dellert et al., 2019
-Czech_BONE	Czech	czec1258	ces	BONE	kost	kˈost	k ˈo s t	kost	BONE			Dellert et al., 2019
+Czech_BLOOD	Czech	czec1258	ces	BLOOD	krev	krɛf	k r ɛ f	krɛf	BLOOD			Dellert et al., 2019
+Czech_BONE	Czech	czec1258	ces	BONE	kost	kost	k o s t	kost	BONE			Dellert et al., 2019
 Czech_HEART	Czech	czec1258	ces	HEART	srdce	sˈr̩ʦɛ	s ˈr̩ ʦ ɛ	srtː͡sɛ	HEART			Dellert et al., 2019
 Czech_LIVER	Czech	czec1258	ces	LIVER	játra	jˈaːtra	j ˈaː t r a	jaːtra	LIVER			Dellert et al., 2019
 Czech_SKY	Czech	czec1258	ces	SKY	nebe	nˈɛbɛ	n ˈɛ b ɛ	nɛbɛ	SKY			Dellert et al., 2019
@@ -23553,63 +23541,63 @@ Czech_WIND	Czech	czec1258	ces	WIND	vítr	vˈiːtr̩	v ˈiː t r̩	viːtr	WIND			
 Czech_WATER	Czech	czec1258	ces	WATER	voda	vˈoda	v ˈo d a	voda	WATER			Dellert et al., 2019
 Czech_STONE	Czech	czec1258	ces	STONE	kámen	kˈaːmɛn	k ˈaː m ɛ n	kaːmɛn	STONE			Dellert et al., 2019
 Czech_EARTH	Czech	czec1258	ces	EARTH	země	zˈɛmɲɛ	z ˈɛ m ɲ ɛ	zɛmɲɛ	EARTH			Dellert et al., 2019
-Czech_DUST	Czech	czec1258	ces	DUST	prach	prˈax	p r ˈa x	prax	DUST			Dellert et al., 2019
-Czech_SMOKE	Czech	czec1258	ces	SMOKE	dým	dˈiːm	d ˈiː m	diːm	SMOKE			Dellert et al., 2019
+Czech_DUST	Czech	czec1258	ces	DUST	prach	prax	p r a x	prax	DUST			Dellert et al., 2019
+Czech_SMOKE	Czech	czec1258	ces	SMOKE	dým	diːm	d iː m	diːm	SMOKE			Dellert et al., 2019
 Czech_SMOKE	Czech	czec1258	ces	SMOKE	kouř	kˈou̯r̝̊	k ˈo u̯ r̝̊	koʊ̯r̝̥	SMOKE			Dellert et al., 2019
 Czech_FIRE	Czech	czec1258	ces	FIRE	oheň	ˈoɦɛɲ	ˈo ɦ ɛ ɲ	oɦɛɲ	FIRE			Dellert et al., 2019
 Czech_FOG	Czech	czec1258	ces	FOG	mlha	mˈl̩ɦa	m ˈl̩ ɦ a	mlɦa	FOG			Dellert et al., 2019
-Czech_CLOUD	Czech	czec1258	ces	CLOUD	mrak	mrˈak	m r ˈa k	mrak	CLOUD			Dellert et al., 2019
+Czech_CLOUD	Czech	czec1258	ces	CLOUD	mrak	mrak	m r a k	mrak	CLOUD			Dellert et al., 2019
 Czech_CLOUD	Czech	czec1258	ces	CLOUD	oblak	ˈoblak	ˈo b l a k	oblak	CLOUD			Dellert et al., 2019
-Czech_RAIN	Czech	czec1258	ces	RAIN	déšť	dˈɛːʃc	d ˈɛː ʃ c	dɛːʃc	RAIN			Dellert et al., 2019
-Czech_SNOW	Czech	czec1258	ces	SNOW	sníh	sɲˈiːx	s ɲ ˈiː x	sɲiːx	SNOW			Dellert et al., 2019
-Czech_ICE	Czech	czec1258	ces	ICE	led	lˈɛt	l ˈɛ t	lɛt	ICE			Dellert et al., 2019
+Czech_RAIN	Czech	czec1258	ces	RAIN	déšť	dɛːʃc	d ɛː ʃ c	dɛːʃc	RAIN			Dellert et al., 2019
+Czech_SNOW	Czech	czec1258	ces	SNOW	sníh	sɲiːx	s ɲ iː x	sɲiːx	SNOW			Dellert et al., 2019
+Czech_ICE	Czech	czec1258	ces	ICE	led	lɛt	l ɛ t	lɛt	ICE			Dellert et al., 2019
 Czech_LAKE	Czech	czec1258	ces	LAKE	jezero	jˈɛzɛro	j ˈɛ z ɛ r o	jɛzɛro	LAKE			Dellert et al., 2019
-Czech_FOREST	Czech	czec1258	ces	FOREST	les	lˈɛs	l ˈɛ s	lɛs	FOREST			Dellert et al., 2019
+Czech_FOREST	Czech	czec1258	ces	FOREST	les	lɛs	l ɛ s	lɛs	FOREST			Dellert et al., 2019
 Czech_MOUNTAIN	Czech	czec1258	ces	MOUNTAIN	hora	ɦˈora	ɦ ˈo r a	ɦora	MOUNTAIN			Dellert et al., 2019
 Czech_RIVER	Czech	czec1258	ces	RIVER	řeka	r̝ˈɛka	r̝ ˈɛ k a	r̝ɛka	RIVER			Dellert et al., 2019
 Czech_SEA	Czech	czec1258	ces	SEA	moře	mˈor̝ɛ	m ˈo r̝ ɛ	mor̝ɛ	SEA			Dellert et al., 2019
-Czech_FLOWER	Czech	czec1258	ces	FLOWER	květ	kvjˈɛt	k v j ˈɛ t	květina / ɡvjɛcɪna	FLOWER			Dellert et al., 2019
+Czech_FLOWER	Czech	czec1258	ces	FLOWER	květ	kvjɛt	k v j ɛ t	květina / ɡvjɛcɪna	FLOWER			Dellert et al., 2019
 Czech_GRASS	Czech	czec1258	ces	GRASS	tráva	trˈaːva	t r ˈaː v a	traːva	GRASS			Dellert et al., 2019
 Czech_ROOT	Czech	czec1258	ces	ROOT	kořen	kˈor̝ɛn	k ˈo r̝ ɛ n	kor̝ɛn	ROOT			Dellert et al., 2019
-Czech_TREE	Czech	czec1258	ces	TREE	strom	strˈom	s t r ˈo m	strom	TREE			Dellert et al., 2019
+Czech_TREE	Czech	czec1258	ces	TREE	strom	strom	s t r o m	strom	TREE			Dellert et al., 2019
 Czech_BARK	Czech	czec1258	ces	BARK	kůra	kˈuːra	k ˈuː r a	kuːra	BARK			Dellert et al., 2019
-Czech_LEAF	Czech	czec1258	ces	LEAF	list	lˈɪst	l ˈɪ s t	lupen / lupɛn	LEAF			Dellert et al., 2019
-Czech_HORN	Czech	czec1258	ces	HORN	roh	rˈox	r ˈo x	rox	HORN			Dellert et al., 2019
+Czech_LEAF	Czech	czec1258	ces	LEAF	list	lɪst	l ɪ s t	lupen / lupɛn	LEAF			Dellert et al., 2019
+Czech_HORN	Czech	czec1258	ces	HORN	roh	rox	r o x	rox	HORN			Dellert et al., 2019
 Czech_FEATHER	Czech	czec1258	ces	FEATHER	pero	pˈɛro	p ˈɛ r o	pɛro	FEATHER			Dellert et al., 2019
 Czech_WING	Czech	czec1258	ces	WING	křídlo	kr̝̊ˈiːdlo	k r̝̊ ˈiː d l o	ɡr̝iːdlo	WING			Dellert et al., 2019
 Czech_TAIL	Czech	czec1258	ces	TAIL	ocas	ˈoʦas	ˈo ʦ a s	ot͡sas	TAIL			Dellert et al., 2019
 Czech_EGG	Czech	czec1258	ces	EGG	vejce	vˈɛjʦɛ	v ˈɛ j ʦ ɛ	vɛjt͡sɛ	EGG			Dellert et al., 2019
 Czech_ANIMAL	Czech	czec1258	ces	ANIMAL	zvíře	zvˈiːr̝ɛ	z v ˈiː r̝ ɛ	zviːr̝ɛ	ANIMAL			Dellert et al., 2019
-Czech_DOG	Czech	czec1258	ces	DOG	pes	pˈɛs	p ˈɛ s	pɛs	DOG			Dellert et al., 2019
-Czech_BIRD	Czech	czec1258	ces	BIRD	pták	ptˈaːk	p t ˈaː k	ptaːk	BIRD			Dellert et al., 2019
+Czech_DOG	Czech	czec1258	ces	DOG	pes	pɛs	p ɛ s	pɛs	DOG			Dellert et al., 2019
+Czech_BIRD	Czech	czec1258	ces	BIRD	pták	ptaːk	p t aː k	ptaːk	BIRD			Dellert et al., 2019
 Czech_FISH	Czech	czec1258	ces	FISH	ryba	rˈɪba	r ˈɪ b a	rɪba	FISH			Dellert et al., 2019
-Czech_SNAKE	Czech	czec1258	ces	SNAKE	had	ɦˈat	ɦ ˈa t	ɦat	SNAKE			Dellert et al., 2019
-Czech_WORM	Czech	czec1258	ces	WORM	červ	ʧˈɛrf	ʧ ˈɛ r f	t͡ʃɛrf	WORM			Dellert et al., 2019
-Czech_LOUSE	Czech	czec1258	ces	LOUSE	veš	vˈɛʃ	v ˈɛ ʃ	vɛʃ	LOUSE			Dellert et al., 2019
+Czech_SNAKE	Czech	czec1258	ces	SNAKE	had	ɦat	ɦ a t	ɦat	SNAKE			Dellert et al., 2019
+Czech_WORM	Czech	czec1258	ces	WORM	červ	ʧɛrf	ʧ ɛ r f	t͡ʃɛrf	WORM			Dellert et al., 2019
+Czech_LOUSE	Czech	czec1258	ces	LOUSE	veš	vɛʃ	v ɛ ʃ	vɛʃ	LOUSE			Dellert et al., 2019
 Czech_BERRY	Czech	czec1258	ces	BERRY	bobule	bˈobulɛ	b ˈo b u l ɛ	bobulɛ	BERRY			Dellert et al., 2019
 Czech_SEED	Czech	czec1258	ces	SEED	semeno	sˈɛmɛno	s ˈɛ m ɛ n o	osivo / osɪvo	SEED			Dellert et al., 2019
 Czech_ASH	Czech	czec1258	ces	ASH	popel	pˈopɛl	p ˈo p ɛ l	popɛl	ASH			Dellert et al., 2019
 Czech_SAND	Czech	czec1258	ces	SAND	písek	pˈiːsɛk	p ˈiː s ɛ k	piːsɛk	SAND			Dellert et al., 2019
 Czech_PERSON	Czech	czec1258	ces	PERSON	člověk	ʧlˈovjɛk	ʧ l ˈo v j ɛ k	t͡ʃlovjɛk	PERSON			Dellert et al., 2019
-Czech_MAN	Czech	czec1258	ces	MAN	muž	mˈuʃ	m ˈu ʃ	muʃ	MAN			Dellert et al., 2019
+Czech_MAN	Czech	czec1258	ces	MAN	muž	muʃ	m u ʃ	muʃ	MAN			Dellert et al., 2019
 Czech_WOMAN	Czech	czec1258	ces	WOMAN	žena	ʒˈɛna	ʒ ˈɛ n a	ʒɛna	WOMAN			Dellert et al., 2019
 Czech_FATHER	Czech	czec1258	ces	FATHER	otec	ˈotɛʦ	ˈo t ɛ ʦ	otɛt͡s	FATHER			Dellert et al., 2019
 Czech_MOTHER	Czech	czec1258	ces	MOTHER	matka	mˈatka	m ˈa t k a	matka	MOTHER			Dellert et al., 2019
-Czech_HUSBAND	Czech	czec1258	ces	HUSBAND	choť	xˈoc	x ˈo c	xoc	HUSBAND			Dellert et al., 2019
+Czech_HUSBAND	Czech	czec1258	ces	HUSBAND	choť	xoc	x o c	xoc	HUSBAND			Dellert et al., 2019
 Czech_HUSBAND	Czech	czec1258	ces	HUSBAND	manžel	mˈanʒɛl	m ˈa n ʒ ɛ l	manʒɛl	HUSBAND			Dellert et al., 2019
-Czech_WIFE	Czech	czec1258	ces	WIFE	choť	xˈoc	x ˈo c	xoc	WIFE			Dellert et al., 2019
+Czech_WIFE	Czech	czec1258	ces	WIFE	choť	xoc	x o c	xoc	WIFE			Dellert et al., 2019
 Czech_WIFE	Czech	czec1258	ces	WIFE	manželka	mˈanʒɛlka	m ˈa n ʒ ɛ l k a	manʒɛlka	WIFE			Dellert et al., 2019
 Czech_NAME	Czech	czec1258	ces	NAME	jméno	jmˈɛːno	j m ˈɛː n o	jmɛːno	NAME			Dellert et al., 2019
-Czech_STICK	Czech	czec1258	ces	STICK	hůl	ɦˈuːl	ɦ ˈuː l	hůlka / ɦuːlka	STICK			Dellert et al., 2019
+Czech_STICK	Czech	czec1258	ces	STICK	hůl	ɦuːl	ɦ uː l	hůlka / ɦuːlka	STICK			Dellert et al., 2019
 Czech_MEAT	Czech	czec1258	ces	MEAT	maso	mˈaso	m ˈa s o	maso	MEAT			Dellert et al., 2019
-Czech_FAT	Czech	czec1258	ces	FAT	tuk	tˈuk	t ˈu k	tuk	FAT			Dellert et al., 2019
-Czech_SALT	Czech	czec1258	ces	SALT	sůl	sˈuːl	s ˈuː l	suːl	SALT			Dellert et al., 2019
+Czech_FAT	Czech	czec1258	ces	FAT	tuk	tuk	t u k	tuk	FAT			Dellert et al., 2019
+Czech_SALT	Czech	czec1258	ces	SALT	sůl	suːl	s uː l	suːl	SALT			Dellert et al., 2019
 Czech_CLOTHES	Czech	czec1258	ces	CLOTHES	šaty	ʃˈatɪ	ʃ ˈa t ɪ	ʃatɪ	CLOTHES			Dellert et al., 2019
 Czech_PATH_OR_ROAD	Czech	czec1258	ces	PATH OR ROAD	stezka	stˈɛska	s t ˈɛ s k a	pěšina / pjɛʃɪna	PATH_OR_ROAD			Dellert et al., 2019
 Czech_PATH_OR_ROAD	Czech	czec1258	ces	PATH OR ROAD	cesta	ʦˈɛsta	ʦ ˈɛ s t a	silnice / sɪlɲɪt͡sɛ	PATH_OR_ROAD			Dellert et al., 2019
-Czech_FIGHT	Czech	czec1258	ces	FIGHT	bít se	bˈiːt sˈɛ	b ˈiː t s ˈɛ	boj / boj	FIGHT			Dellert et al., 2019
-Czech_NIGHT	Czech	czec1258	ces	NIGHT	noc	nˈoʦ	n ˈo ʦ	not͡s	NIGHT			Dellert et al., 2019
-Czech_YEAR	Czech	czec1258	ces	YEAR	rok	rˈok	r ˈo k	rok	YEAR			Dellert et al., 2019
+Czech_FIGHT	Czech	czec1258	ces	FIGHT	bít se	biːt sɛ	b iː t s ɛ	boj / boj	FIGHT			Dellert et al., 2019
+Czech_NIGHT	Czech	czec1258	ces	NIGHT	noc	noʦ	n o ʦ	not͡s	NIGHT			Dellert et al., 2019
+Czech_YEAR	Czech	czec1258	ces	YEAR	rok	rok	r o k	rok	YEAR			Dellert et al., 2019
 Czech_BIG	Czech	czec1258	ces	BIG	velký	vˈɛlkiː	v ˈɛ l k iː	vɛlkiː	BIG			Dellert et al., 2019
 Czech_SMALL	Czech	czec1258	ces	SMALL	malý	mˈaliː	m ˈa l iː	maliː	SMALL			Dellert et al., 2019
 Czech_LONG	Czech	czec1258	ces	LONG	dlouhý	dlˈou̯ɦiː	d l ˈo u̯ ɦ iː	dloʊ̯ɦiː	LONG			Dellert et al., 2019
@@ -23644,80 +23632,78 @@ Czech_OLD	Czech	czec1258	ces	OLD	starý	stˈariː	s t ˈa r iː	stariː	OLD			De
 Czech_NEAR	Czech	czec1258	ces	NEAR	blízký	blˈiːskiː	b l ˈiː s k iː	bliːskiː	NEAR			Dellert et al., 2019
 Czech_FAR	Czech	czec1258	ces	FAR	daleko	dˈalɛko	d ˈa l ɛ k o	daleký / dalɛkiː	FAR			Dellert et al., 2019
 Czech_OTHER	Czech	czec1258	ces	OTHER	jiný	jˈɪniː	j ˈɪ n iː	jɪniː	OTHER			Dellert et al., 2019
-Czech_HERE	Czech	czec1258	ces	HERE	zde	zdˈɛ	z d ˈɛ	zdɛ	HERE			Dellert et al., 2019
+Czech_HERE	Czech	czec1258	ces	HERE	zde	zdɛ	z d ɛ	zdɛ	HERE			Dellert et al., 2019
 Czech_HERE	Czech	czec1258	ces	HERE	tady	tˈadɪ	t ˈa d ɪ	tadɪ	HERE			Dellert et al., 2019
-Czech_THERE	Czech	czec1258	ces	THERE	tam	tˈam	t ˈa m	tam	THERE			Dellert et al., 2019
-Czech_NOT	Czech	czec1258	ces	NOT	ne	nˈɛ	n ˈɛ	nɛ	NOT			Dellert et al., 2019
+Czech_THERE	Czech	czec1258	ces	THERE	tam	tam	t a m	tam	THERE			Dellert et al., 2019
+Czech_NOT	Czech	czec1258	ces	NOT	ne	nɛ	n ɛ	nɛ	NOT			Dellert et al., 2019
 Czech_THIS	Czech	czec1258	ces	THIS	toto	tˈoto	t ˈo t o	toto	THIS			Dellert et al., 2019
-Czech_THIS	Czech	czec1258	ces	THIS	tohle	tˈoɦlɛ	t ˈo ɦ l ɛ	toɦlɛ	THIS			Dellert et al., 2019
-Czech_THAT	Czech	czec1258	ces	THAT	to	tˈo	t ˈo	to	THAT			Dellert et al., 2019
-Czech_ALL	Czech	czec1258	ces	ALL	všechno	fʃˈɛxno	f ʃ ˈɛ x n o	fʃɛxno	ALL			Dellert et al., 2019
-Czech_I	Czech	czec1258	ces	I	já	jˈaː	j ˈaː	jaː	I			Dellert et al., 2019
-Czech_THOU	Czech	czec1258	ces	THOU	ty	tˈɪ	t ˈɪ	tɪ	THOU			Dellert et al., 2019
-Czech_WE	Czech	czec1258	ces	WE	my	mˈɪ	m ˈɪ	mɪ	WE			Dellert et al., 2019
-Czech_YOU	Czech	czec1258	ces	YOU	vy	vˈɪ	v ˈɪ	vɪ	YOU			Dellert et al., 2019
+Czech_THAT	Czech	czec1258	ces	THAT	to	to	t o	to	THAT			Dellert et al., 2019
+Czech_ALL	Czech	czec1258	ces	ALL	všechen	fʃˈɛxɛn	f ʃ ˈɛ x ɛ n	všechno / fʃɛxno	ALL			Dellert et al., 2019
+Czech_I	Czech	czec1258	ces	I	já	jaː	j aː	jaː	I			Dellert et al., 2019
+Czech_THOU	Czech	czec1258	ces	THOU	ty	tɪ	t ɪ	tɪ	THOU			Dellert et al., 2019
+Czech_WE	Czech	czec1258	ces	WE	my	mɪ	m ɪ	mɪ	WE			Dellert et al., 2019
+Czech_YOU	Czech	czec1258	ces	YOU	vy	vɪ	v ɪ	vɪ	YOU			Dellert et al., 2019
 Czech_THEY	Czech	czec1258	ces	THEY	oni	ˈoɲɪ	ˈo ɲ ɪ	oɲɪ	THEY			Dellert et al., 2019
-Czech_WHAT	Czech	czec1258	ces	WHAT	co	ʦˈo	ʦ ˈo	t͡so	WHAT			Dellert et al., 2019
-Czech_WHO	Czech	czec1258	ces	WHO	kdo	ɡdˈo	ɡ d ˈo	ɡdo	WHO			Dellert et al., 2019
-Czech_WHERE	Czech	czec1258	ces	WHERE	kde	ɡdˈɛ	ɡ d ˈɛ	ɡdɛ	WHERE			Dellert et al., 2019
-Czech_HOW	Czech	czec1258	ces	HOW	jak	jˈak	j ˈa k	jak	HOW			Dellert et al., 2019
+Czech_WHAT	Czech	czec1258	ces	WHAT	co	ʦo	ʦ o	t͡so	WHAT			Dellert et al., 2019
+Czech_WHO	Czech	czec1258	ces	WHO	kdo	ɡdo	ɡ d o	ɡdo	WHO			Dellert et al., 2019
+Czech_WHERE	Czech	czec1258	ces	WHERE	kde	ɡdɛ	ɡ d ɛ	ɡdɛ	WHERE			Dellert et al., 2019
+Czech_HOW	Czech	czec1258	ces	HOW	jak	jak	j a k	jak	HOW			Dellert et al., 2019
 Czech_ONE	Czech	czec1258	ces	ONE	jeden	jˈɛdɛn	j ˈɛ d ɛ n	jɛdɛn	ONE			Dellert et al., 2019
-Czech_TWO	Czech	czec1258	ces	TWO	dva	dvˈa	d v ˈa	dva	TWO			Dellert et al., 2019
-Czech_THREE	Czech	czec1258	ces	THREE	tři	tr̝̊ˈɪ	t r̝̊ ˈɪ	dr̝ɪ	THREE			Dellert et al., 2019
+Czech_TWO	Czech	czec1258	ces	TWO	dva	dva	d v a	dva	TWO			Dellert et al., 2019
+Czech_THREE	Czech	czec1258	ces	THREE	tři	tr̝̊ɪ	t r̝̊ ɪ	dr̝ɪ	THREE			Dellert et al., 2019
 Czech_FOUR	Czech	czec1258	ces	FOUR	čtyři	ʧtˈɪr̝ɪ	ʧ t ˈɪ r̝ ɪ	t͡ʃtɪr̝ɪ	FOUR			Dellert et al., 2019
-Czech_FIVE	Czech	czec1258	ces	FIVE	pět	pjˈɛt	p j ˈɛ t	pjɛt	FIVE			Dellert et al., 2019
-Czech_SIX	Czech	czec1258	ces	SIX	šest	ʃˈɛst	ʃ ˈɛ s t	ʃɛst	SIX			Dellert et al., 2019
+Czech_FIVE	Czech	czec1258	ces	FIVE	pět	pjɛt	p j ɛ t	pjɛt	FIVE			Dellert et al., 2019
+Czech_SIX	Czech	czec1258	ces	SIX	šest	ʃɛst	ʃ ɛ s t	ʃɛst	SIX			Dellert et al., 2019
 Czech_SEVEN	Czech	czec1258	ces	SEVEN	sedm	sˈɛdm̩	s ˈɛ d m̩	sɛdm	SEVEN			Dellert et al., 2019
 Czech_EIGHT	Czech	czec1258	ces	EIGHT	osm	ˈosm̩	ˈo s m̩	osm	EIGHT			Dellert et al., 2019
 Czech_NINE	Czech	czec1258	ces	NINE	devět	dˈɛvjɛt	d ˈɛ v j ɛ t	dɛvjɛt	NINE			Dellert et al., 2019
 Czech_TEN	Czech	czec1258	ces	TEN	deset	dˈɛsɛt	d ˈɛ s ɛ t	dɛsɛt	TEN			Dellert et al., 2019
 Czech_TWENTY	Czech	czec1258	ces	TWENTY	dvacet	dvˈaʦɛt	d v ˈa ʦ ɛ t	dvat͡sɛt	TWENTY			Dellert et al., 2019
-Czech_HUNDRED	Czech	czec1258	ces	HUNDRED	sto	stˈo	s t ˈo	sto	HUNDRED			Dellert et al., 2019
-Czech_AND	Czech	czec1258	ces	AND	a	ˈa	ˈa	a	AND			Dellert et al., 2019
-Czech_STAND	Czech	czec1258	ces	STAND	stát	stˈaːt	s t ˈaː t	staːt	STAND			Dellert et al., 2019
+Czech_HUNDRED	Czech	czec1258	ces	HUNDRED	sto	sto	s t o	sto	HUNDRED			Dellert et al., 2019
+Czech_AND	Czech	czec1258	ces	AND	a	a	a	a	AND			Dellert et al., 2019
+Czech_STAND	Czech	czec1258	ces	STAND	stát	staːt	s t aː t	staːt	STAND			Dellert et al., 2019
 Czech_SIT	Czech	czec1258	ces	SIT	sedět	sˈɛɟɛt	s ˈɛ ɟ ɛ t	sɛɟɛt	SIT			Dellert et al., 2019
 Czech_LIE	Czech	czec1258	ces	LIE	ležet	lˈɛʒɛt	l ˈɛ ʒ ɛ t	lɛʒɛt	LIE			Dellert et al., 2019
-Czech_BLOW_(OF_WIND)	Czech	czec1258	ces	BLOW (OF WIND)	vát	vˈaːt	v ˈaː t	vaːt	BLOW_(OF_WIND)			Dellert et al., 2019
+Czech_BLOW_(OF_WIND)	Czech	czec1258	ces	BLOW (OF WIND)	vát	vaːt	v aː t	vaːt	BLOW_(OF_WIND)			Dellert et al., 2019
 Czech_BLOW_(OF_WIND)	Czech	czec1258	ces	BLOW (OF WIND)	vanout	vˈanou̯t	v ˈa n o u̯ t	vanoʊ̯t	BLOW_(OF_WIND)			Dellert et al., 2019
-Czech_FLOW	Czech	czec1258	ces	FLOW	téct	tˈɛːʦt	t ˈɛː ʦ t	tɛːt͡st	FLOW			Dellert et al., 2019
+Czech_FLOW	Czech	czec1258	ces	FLOW	téct	tɛːʦt	t ɛː ʦ t	tɛːt͡st	FLOW			Dellert et al., 2019
 Czech_FALL	Czech	czec1258	ces	FALL	padat	pˈadat	p ˈa d a t	padat	FALL			Dellert et al., 2019
 Czech_BURN	Czech	czec1258	ces	BURN	hořet	ɦˈor̝ɛt	ɦ ˈo r̝ ɛ t	ɦor̝ɛt	BURN			Dellert et al., 2019
 Czech_FREEZE	Czech	czec1258	ces	FREEZE	zamrznout	zˈamr̩znou̯t	z ˈa m r̩ z n o u̯ t	zamrznoʊ̯t	FREEZE			Dellert et al., 2019
 Czech_BREATHE	Czech	czec1258	ces	BREATHE	dýchat	dˈiːxat	d ˈiː x a t	diːxat	BREATHE			Dellert et al., 2019
-Czech_DRINK	Czech	czec1258	ces	DRINK	pít	pˈiːt	p ˈiː t	piːt	DRINK			Dellert et al., 2019
-Czech_EAT	Czech	czec1258	ces	EAT	jíst	jˈiːst	j ˈiː s t	jiːst	EAT			Dellert et al., 2019
-Czech_SLEEP	Czech	czec1258	ces	SLEEP	spát	spˈaːt	s p ˈaː t	spaːt	SLEEP			Dellert et al., 2019
+Czech_DRINK	Czech	czec1258	ces	DRINK	pít	piːt	p iː t	piːt	DRINK			Dellert et al., 2019
+Czech_EAT	Czech	czec1258	ces	EAT	jíst	jiːst	j iː s t	jiːst	EAT			Dellert et al., 2019
+Czech_SLEEP	Czech	czec1258	ces	SLEEP	spát	spaːt	s p aː t	spaːt	SLEEP			Dellert et al., 2019
 Czech_DIE	Czech	czec1258	ces	DIE	umřít	ˈumr̝iːt	ˈu m r̝ iː t	umr̝iːt	DIE			Dellert et al., 2019
 Czech_SWIM	Czech	czec1258	ces	SWIM	plavat	plˈavat	p l ˈa v a t	plavat	SWIM			Dellert et al., 2019
 Czech_FLY	Czech	czec1258	ces	FLY	létat	lˈɛːtat	l ˈɛː t a t	lɛːtat	FLY			Dellert et al., 2019
 Czech_COME	Czech	czec1258	ces	COME	přijít	pr̝̊ˈɪjiːt	p r̝̊ ˈɪ j iː t	br̝ɪjiːt	COME			Dellert et al., 2019
-Czech_LAUGH	Czech	czec1258	ces	LAUGH	smát se	smˈaːt sˈɛ	s m ˈaː t s ˈɛ	smaːt sɛ	LAUGH			Dellert et al., 2019
+Czech_LAUGH	Czech	czec1258	ces	LAUGH	smát se	smaːt sɛ	s m aː t s ɛ	smaːt sɛ	LAUGH			Dellert et al., 2019
 Czech_CRY	Czech	czec1258	ces	CRY	plakat	plˈakat	p l ˈa k a t	plakat	CRY			Dellert et al., 2019
 Czech_SEE	Czech	czec1258	ces	SEE	vidět	vˈɪɟɛt	v ˈɪ ɟ ɛ t	vɪɟɛt	SEE			Dellert et al., 2019
 Czech_HEAR	Czech	czec1258	ces	HEAR	slyšet	slˈɪʃɛt	s l ˈɪ ʃ ɛ t	slɪʃɛt	HEAR			Dellert et al., 2019
 Czech_SMELL	Czech	czec1258	ces	SMELL	cítit	ʦˈiːcɪt	ʦ ˈiː c ɪ t	t͡siːcɪt	SMELL			Dellert et al., 2019
 Czech_DIG	Czech	czec1258	ces	DIG	kopat	kˈopat	k ˈo p a t	kopat	DIG			Dellert et al., 2019
 Czech_HOLD	Czech	czec1258	ces	HOLD	držet	dˈr̩ʒɛt	d ˈr̩ ʒ ɛ t	drʒɛt	HOLD			Dellert et al., 2019
-Czech_PUSH	Czech	czec1258	ces	PUSH	posouvat	pˈosou̯vat	p ˈo s o u̯ v a t	posoʊ̯vat	PUSH			Dellert et al., 2019
+Czech_PUSH	Czech	czec1258	ces	PUSH	tlačit	tlˈaʧɪt	t l ˈa ʧ ɪ t	posouvat / posoʊ̯vat	PUSH			Dellert et al., 2019
 Czech_BITE	Czech	czec1258	ces	BITE	kousat	kˈou̯sat	k ˈo u̯ s a t	koʊ̯sat	BITE			Dellert et al., 2019
 Czech_TIE	Czech	czec1258	ces	TIE	vázat	vˈaːzat	v ˈaː z a t	přivázat / br̝ɪvaːzat	TIE			Dellert et al., 2019
-Czech_RUB	Czech	czec1258	ces	RUB	třít	tr̝̊ˈiːt	t r̝̊ ˈiː t	dr̝iːt	RUB			Dellert et al., 2019
+Czech_RUB	Czech	czec1258	ces	RUB	třít	tr̝̊iːt	t r̝̊ iː t	dr̝iːt	RUB			Dellert et al., 2019
 Czech_CUT	Czech	czec1258	ces	CUT	řezat	r̝ˈɛzat	r̝ ˈɛ z a t	r̝ɛzat	CUT			Dellert et al., 2019
-Czech_PULL	Czech	czec1258	ces	PULL	tahat	tˈaɦat	t ˈa ɦ a t	taɦat	PULL			Dellert et al., 2019
 Czech_PULL	Czech	czec1258	ces	PULL	táhnout	tˈaːɦnou̯t	t ˈaː ɦ n o u̯ t	taːɦnoʊ̯t	PULL			Dellert et al., 2019
 Czech_THROW	Czech	czec1258	ces	THROW	hodit	ɦˈoɟɪt	ɦ ˈo ɟ ɪ t	házet / ɦaːzɛt	THROW			Dellert et al., 2019
 Czech_BURN	Czech	czec1258	ces	BURN	pálit	pˈaːlɪt	p ˈaː l ɪ t	spálit / spaːlɪt	BURN			Dellert et al., 2019
-Czech_GIVE	Czech	czec1258	ces	GIVE	dát	dˈaːt	d ˈaː t	daːt	GIVE			Dellert et al., 2019
-Czech_PLAY	Czech	czec1258	ces	PLAY	hrát	ɦrˈaːt	ɦ r ˈaː t	ɦraːt	PLAY			Dellert et al., 2019
+Czech_GIVE	Czech	czec1258	ces	GIVE	dát	daːt	d aː t	daːt	GIVE			Dellert et al., 2019
+Czech_PLAY	Czech	czec1258	ces	PLAY	hrát	ɦraːt	ɦ r aː t	ɦraːt	PLAY			Dellert et al., 2019
 Czech_SING	Czech	czec1258	ces	SING	zpívat	spˈiːvat	s p ˈiː v a t	spiːvat	SING			Dellert et al., 2019
 Czech_DANCE	Czech	czec1258	ces	DANCE	tančit	tˈanʧɪt	t ˈa n ʧ ɪ t	tant͡ʃɪt	DANCE			Dellert et al., 2019
 Czech_SHOOT	Czech	czec1258	ces	SHOOT	střílet	str̝̊ˈiːlɛt	s t r̝̊ ˈiː l ɛ t	zdr̝iːlɛt	SHOOT			Dellert et al., 2019
 Czech_KILL	Czech	czec1258	ces	KILL	zabít	zˈabiːt	z ˈa b iː t	zabiːt	KILL			Dellert et al., 2019
 Czech_HUNT	Czech	czec1258	ces	HUNT	lovit	lˈovɪt	l ˈo v ɪ t	uhonit / uɦoɲɪt	HUNT			Dellert et al., 2019
-Czech_SEW	Czech	czec1258	ces	SEW	šít	ʃˈiːt	ʃ ˈiː t	ʃiːt	SEW			Dellert et al., 2019
-Czech_WASH	Czech	czec1258	ces	WASH	mýt	mˈiːt	m ˈiː t	miːt	WASH			Dellert et al., 2019
+Czech_SEW	Czech	czec1258	ces	SEW	šít	ʃiːt	ʃ iː t	ʃiːt	SEW			Dellert et al., 2019
+Czech_WASH	Czech	czec1258	ces	WASH	mýt	miːt	m iː t	miːt	WASH			Dellert et al., 2019
 Czech_WIPE	Czech	czec1258	ces	WIPE	utřít	ˈutr̝̊iːt	ˈu t r̝̊ iː t	udr̝iːt	WIPE			Dellert et al., 2019
-Czech_SAY	Czech	czec1258	ces	SAY	říct	r̝ˈiːʦt	r̝ ˈiː ʦ t	r̝iːt͡st	SAY			Dellert et al., 2019
+Czech_SAY	Czech	czec1258	ces	SAY	říct	r̝iːʦt	r̝ iː ʦ t	r̝iːt͡st	SAY			Dellert et al., 2019
 Czech_SPEAK	Czech	czec1258	ces	SPEAK	mluvit	mlˈuvɪt	m l ˈu v ɪ t	mluvɪt	SPEAK			Dellert et al., 2019
 Czech_THINK	Czech	czec1258	ces	THINK	myslit	mˈɪslɪt	m ˈɪ s l ɪ t	mɪslɪt	THINK			Dellert et al., 2019
 Czech_KNOW	Czech	czec1258	ces	KNOW	vědět	vjˈɛɟɛt	v j ˈɛ ɟ ɛ t	vjɛɟɛt	KNOW			Dellert et al., 2019
@@ -23810,7 +23796,6 @@ Polish_CLOTHES	Polish	poli1260	pol	CLOTHES	odzież	ˈɔʥɛʂ	ˈɔ ʥ ɛ ʂ	ɔd�
 Polish_PATH_OR_ROAD	Polish	poli1260	pol	PATH OR ROAD	ścieżka	ɕʨˈɛʂka	ɕ ʨ ˈɛ ʂ k a	ɕt͡ɕɛʂka	PATH_OR_ROAD			Dellert et al., 2019
 Polish_PATH_OR_ROAD	Polish	poli1260	pol	PATH OR ROAD	droga	dɾˈɔɡa	d ɾ ˈɔ ɡ a	ulica / ulit͡sa	PATH_OR_ROAD			Dellert et al., 2019
 Polish_FIGHT	Polish	poli1260	pol	FIGHT	bić się	bʲiʨ ɕɛ	bʲ i ʨ ɕ ɛ	bój / buj	FIGHT			Dellert et al., 2019
-Polish_FIGHT	Polish	poli1260	pol	FIGHT	walka	vˈalka	v ˈa l k a	valka	FIGHT			Dellert et al., 2019
 Polish_NIGHT	Polish	poli1260	pol	NIGHT	noc	nɔʦ	n ɔ ʦ	nɔt͡s	NIGHT			Dellert et al., 2019
 Polish_YEAR	Polish	poli1260	pol	YEAR	rok	ɾɔk	ɾ ɔ k	ɾɔk	YEAR			Dellert et al., 2019
 Polish_BIG	Polish	poli1260	pol	BIG	duży	dˈuʐɨ	d ˈu ʐ ɨ	duʐɨ	BIG			Dellert et al., 2019
@@ -23853,7 +23838,7 @@ Polish_THERE	Polish	poli1260	pol	THERE	tam	tam	t a m	tam	THERE			Dellert et al.,
 Polish_NOT	Polish	poli1260	pol	NOT	nie	ɲɛ	ɲ ɛ	niɛ	NOT			Dellert et al., 2019
 Polish_THIS	Polish	poli1260	pol	THIS	to	tɔ	t ɔ	tɔ	THIS			Dellert et al., 2019
 Polish_THAT	Polish	poli1260	pol	THAT	to	tɔ	t ɔ	tɔ	THAT			Dellert et al., 2019
-Polish_ALL	Polish	poli1260	pol	ALL	wszystko	fʂˈɨstkɔ	f ʂ ˈɨ s t k ɔ	fʂɨstkɔ	ALL			Dellert et al., 2019
+Polish_ALL	Polish	poli1260	pol	ALL	wszystek	fʂˈɨstɛk	f ʂ ˈɨ s t ɛ k	wszystko / fʂɨstkɔ	ALL			Dellert et al., 2019
 Polish_I	Polish	poli1260	pol	I	ja	ja	j a	ja	I			Dellert et al., 2019
 Polish_THOU	Polish	poli1260	pol	THOU	ty	tɨ	t ɨ	tɨ	THOU			Dellert et al., 2019
 Polish_WE	Polish	poli1260	pol	WE	my	mɨ	m ɨ	mɨ	WE			Dellert et al., 2019
@@ -23903,7 +23888,6 @@ Polish_SMELL	Polish	poli1260	pol	SMELL	wąchać	vˈɔw̃xaʨ	v ˈɔ w̃ x a ʨ	v
 Polish_DIG	Polish	poli1260	pol	DIG	kopać	kˈɔpaʨ	k ˈɔ p a ʨ	kɔpat͡ɕ	DIG			Dellert et al., 2019
 Polish_HOLD	Polish	poli1260	pol	HOLD	trzymać	tʂˈɨmaʨ	t ʂ ˈɨ m a ʨ	tʂɨmat͡ɕ	HOLD			Dellert et al., 2019
 Polish_PUSH	Polish	poli1260	pol	PUSH	pchać	pxaʨ	p x a ʨ	pxat͡ɕ	PUSH			Dellert et al., 2019
-Polish_PUSH	Polish	poli1260	pol	PUSH	posuwać	pɔsˈuvaʨ	p ɔ s ˈu v a ʨ	pɔsuvat͡ɕ	PUSH			Dellert et al., 2019
 Polish_BITE	Polish	poli1260	pol	BITE	kąsać	kˈɔw̃saʨ	k ˈɔ w̃ s a ʨ	kɔ̃sat͡ɕ	BITE			Dellert et al., 2019
 Polish_TIE	Polish	poli1260	pol	TIE	wiązać	vʲjˈɔw̃zaʨ	vʲ j ˈɔ w̃ z a ʨ	viɔ̃zat͡ɕ	TIE			Dellert et al., 2019
 Polish_RUB	Polish	poli1260	pol	RUB	trzeć	tʂɛʨ	t ʂ ɛ ʨ	tʂɛt͡ɕ	RUB			Dellert et al., 2019
@@ -24008,7 +23992,6 @@ Ukrainian_MEAT	Ukrainian	ukra1253	ukr	MEAT	м'ясо	mjˈɑsɔ	m j ˈɑ s ɔ	м�
 Ukrainian_FAT	Ukrainian	ukra1253	ukr	FAT	жир	ʒɪr	ʒ ɪ r	ʐɪr	FAT			Dellert et al., 2019
 Ukrainian_SALT	Ukrainian	ukra1253	ukr	SALT	сіль	sʲilʲ	sʲ i lʲ	sʲilʲ	SALT			Dellert et al., 2019
 Ukrainian_CLOTHES	Ukrainian	ukra1253	ukr	CLOTHES	одяг	ˈɔdʲɐɦ	ˈɔ dʲ ɐ ɦ	ɔdʲɑɦ	CLOTHES			Dellert et al., 2019
-Ukrainian_CLOTHES	Ukrainian	ukra1253	ukr	CLOTHES	убрання	ʊbrˈɑnʲnʲɐ	ʊ b r ˈɑ nʲ nʲ ɐ	ubrɑnʲːɑ	CLOTHES			Dellert et al., 2019
 Ukrainian_PATH_OR_ROAD	Ukrainian	ukra1253	ukr	PATH OR ROAD	стежка	stˈɛʒkɐ	s t ˈɛ ʒ k ɐ	stɛʐkɑ	PATH_OR_ROAD			Dellert et al., 2019
 Ukrainian_PATH_OR_ROAD	Ukrainian	ukra1253	ukr	PATH OR ROAD	дорога	dɔrˈɔɦɐ	d ɔ r ˈɔ ɦ ɐ	вулиця / wulɪt͡sʲɑ	PATH_OR_ROAD			Dellert et al., 2019
 Ukrainian_FIGHT	Ukrainian	ukra1253	ukr	FIGHT	боротися	bɔrˈɔtɪsʲɐ	b ɔ r ˈɔ t ɪ sʲ ɐ	боротьба / bɔrɔdʲbɑ	FIGHT			Dellert et al., 2019
@@ -24055,7 +24038,7 @@ Ukrainian_THERE	Ukrainian	ukra1253	ukr	THERE	там	tɑm	t ɑ m	tɑm	THERE			Del
 Ukrainian_NOT	Ukrainian	ukra1253	ukr	NOT	не	nɛ	n ɛ	nɛ	NOT			Dellert et al., 2019
 Ukrainian_THIS	Ukrainian	ukra1253	ukr	THIS	це	ʦɛ	ʦ ɛ	t͡sɛ	THIS			Dellert et al., 2019
 Ukrainian_THAT	Ukrainian	ukra1253	ukr	THAT	то	tɔ	t ɔ	tɔ	THAT			Dellert et al., 2019
-Ukrainian_ALL	Ukrainian	ukra1253	ukr	ALL	все	ʍsɛ	ʍ s ɛ	wsɛ	ALL			Dellert et al., 2019
+Ukrainian_ALL	Ukrainian	ukra1253	ukr	ALL	весь	ʋɛsʲ	ʋ ɛ sʲ	все / wsɛ	ALL			Dellert et al., 2019
 Ukrainian_I	Ukrainian	ukra1253	ukr	I	я	jɑ	j ɑ	jɑ	I			Dellert et al., 2019
 Ukrainian_THOU	Ukrainian	ukra1253	ukr	THOU	ти	tɪ	t ɪ	tɪ	THOU			Dellert et al., 2019
 Ukrainian_WE	Ukrainian	ukra1253	ukr	WE	ми	mɪ	m ɪ	mɪ	WE			Dellert et al., 2019
@@ -24207,7 +24190,7 @@ Belarusian_STICK	Belarusian	bela1254	bel	STICK	палка	pˈaɫka	p ˈa ɫ k a	
 Belarusian_MEAT	Belarusian	bela1254	bel	MEAT	мяса	mʲˈæsa	mʲ ˈæ s a	mʲasa	MEAT			Dellert et al., 2019
 Belarusian_FAT	Belarusian	bela1254	bel	FAT	тлушч	tɫuʂʧ	t ɫ u ʂ ʧ	tluʂʈ͡ʂ	FAT			Dellert et al., 2019
 Belarusian_SALT	Belarusian	bela1254	bel	SALT	соль	solʲ	s o lʲ	sɔlʲ	SALT			Dellert et al., 2019
-Belarusian_CLOTHES	Belarusian	bela1254	bel	CLOTHES	адзенне	aʣʲˈenʲnʲe	a ʣʲ ˈe nʲ nʲ e	adzʲɛnʲːɛ	CLOTHES			Dellert et al., 2019
+Belarusian_CLOTHES	Belarusian	bela1254	bel	CLOTHES	адзежа	aʣʲˈeʐa	a ʣʲ ˈe ʐ a	адзенне / adzʲɛnʲːɛ	CLOTHES			Dellert et al., 2019
 Belarusian_PATH_OR_ROAD	Belarusian	bela1254	bel	PATH OR ROAD	сцежка	sʲʦʲˈeʂka	sʲ ʦʲ ˈe ʂ k a	st͡sʲɛʐka	PATH_OR_ROAD			Dellert et al., 2019
 Belarusian_PATH_OR_ROAD	Belarusian	bela1254	bel	PATH OR ROAD	дарога	darˈoʁa	d a r ˈo ʁ a	вуліца / vulit͡sa	PATH_OR_ROAD			Dellert et al., 2019
 Belarusian_FIGHT	Belarusian	bela1254	bel	FIGHT	біцца	bʲˈiʦʦa	bʲ ˈi ʦ ʦ a	барацьба / barat͡sʲba	FIGHT			Dellert et al., 2019
@@ -24253,7 +24236,7 @@ Belarusian_THERE	Belarusian	bela1254	bel	THERE	там	tam	t a m	tam	THERE			Dell
 Belarusian_NOT	Belarusian	bela1254	bel	NOT	не	nʲe	nʲ e	nʲɛ	NOT			Dellert et al., 2019
 Belarusian_THIS	Belarusian	bela1254	bel	THIS	гэта	ʁˈɛta	ʁ ˈɛ t a	ɣɛta	THIS			Dellert et al., 2019
 Belarusian_THAT	Belarusian	bela1254	bel	THAT	тое	tˈoje	t ˈo j e	tɔjɛ	THAT			Dellert et al., 2019
-Belarusian_ALL	Belarusian	bela1254	bel	ALL	усё	usʲˈɵ	u sʲ ˈɵ	usʲɔ	ALL			Dellert et al., 2019
+Belarusian_ALL	Belarusian	bela1254	bel	ALL	увесь	uvʲˈesʲ	u vʲ ˈe sʲ	усё / usʲɔ	ALL			Dellert et al., 2019
 Belarusian_I	Belarusian	bela1254	bel	I	я	jæ	j æ	ja	I			Dellert et al., 2019
 Belarusian_THOU	Belarusian	bela1254	bel	THOU	ты	tɨ	t ɨ	tɨ	THOU			Dellert et al., 2019
 Belarusian_WE	Belarusian	bela1254	bel	WE	мы	mɨ	m ɨ	mɨ	WE			Dellert et al., 2019
@@ -24276,7 +24259,6 @@ Belarusian_TEN	Belarusian	bela1254	bel	TEN	дзесяць	ʣʲˈesʲæʦʲ	ʣʲ 
 Belarusian_TWENTY	Belarusian	bela1254	bel	TWENTY	дваццаць	dvˈaʦʦaʦʲ	d v ˈa ʦ ʦ a ʦʲ	dvatt͡sat͡sʲ	TWENTY			Dellert et al., 2019
 Belarusian_HUNDRED	Belarusian	bela1254	bel	HUNDRED	сто	sto	s t o	stɔ	HUNDRED			Dellert et al., 2019
 Belarusian_AND	Belarusian	bela1254	bel	AND	і	i	i	i	AND			Dellert et al., 2019
-Belarusian_AND	Belarusian	bela1254	bel	AND	ды	dɨ	d ɨ	dɨ	AND			Dellert et al., 2019
 Belarusian_STAND	Belarusian	bela1254	bel	STAND	стаяць	stajˈæʦʲ	s t a j ˈæ ʦʲ	stajat͡sʲ	STAND			Dellert et al., 2019
 Belarusian_SIT	Belarusian	bela1254	bel	SIT	сядзець	sʲæʣʲˈeʦʲ	sʲ æ ʣʲ ˈe ʦʲ	sʲadzʲɛt͡sʲ	SIT			Dellert et al., 2019
 Belarusian_LIE	Belarusian	bela1254	bel	LIE	ляжаць	lʲæʐˈaʦʲ	lʲ æ ʐ ˈa ʦʲ	lʲaʐat͡sʲ	LIE			Dellert et al., 2019
@@ -24302,7 +24284,6 @@ Belarusian_SMELL	Belarusian	bela1254	bel	SMELL	нюхаць	nʲˈʉxaʦʲ	nʲ ˈ
 Belarusian_DIG	Belarusian	bela1254	bel	DIG	капаць	kapˈaʦʲ	k a p ˈa ʦʲ	kapat͡sʲ	DIG			Dellert et al., 2019
 Belarusian_HOLD	Belarusian	bela1254	bel	HOLD	трымаць	trɨmˈaʦʲ	t r ɨ m ˈa ʦʲ	trɨmat͡sʲ	HOLD			Dellert et al., 2019
 Belarusian_PUSH	Belarusian	bela1254	bel	PUSH	пхаць	pxaʦʲ	p x a ʦʲ	pxat͡sʲ	PUSH			Dellert et al., 2019
-Belarusian_PUSH	Belarusian	bela1254	bel	PUSH	штурхаць	ʂtˈurxaʦʲ	ʂ t ˈu r x a ʦʲ	ʂturxat͡sʲ	PUSH			Dellert et al., 2019
 Belarusian_BITE	Belarusian	bela1254	bel	BITE	кусаць	kusˈaʦʲ	k u s ˈa ʦʲ	kusat͡sʲ	BITE			Dellert et al., 2019
 Belarusian_TIE	Belarusian	bela1254	bel	TIE	вязаць	vʲæzˈaʦʲ	vʲ æ z ˈa ʦʲ	vʲazat͡sʲ	TIE			Dellert et al., 2019
 Belarusian_RUB	Belarusian	bela1254	bel	RUB	церці	ʦʲˈerʦʲi	ʦʲ ˈe r ʦʲ i	t͡sʲɛrt͡si	RUB			Dellert et al., 2019
@@ -24320,7 +24301,7 @@ Belarusian_KILL	Belarusian	bela1254	bel	KILL	забіць	zabʲˈiʦʲ	z a bʲ �
 Belarusian_HUNT	Belarusian	bela1254	bel	HUNT	паляваць	pʌlʲævˈaʦʲ	p ʌ lʲ æ v ˈa ʦʲ	palʲavat͡sʲ	HUNT			Dellert et al., 2019
 Belarusian_SEW	Belarusian	bela1254	bel	SEW	шыць	ʂɨʦʲ	ʂ ɨ ʦʲ	ʂɨt͡sʲ	SEW			Dellert et al., 2019
 Belarusian_WASH	Belarusian	bela1254	bel	WASH	мыць	mɨʦʲ	m ɨ ʦʲ	mɨt͡sʲ	WASH			Dellert et al., 2019
-Belarusian_WIPE	Belarusian	bela1254	bel	WIPE	выцерці	zʁʌtavˈaʦʲ	z ʁ ʌ t a v ˈa ʦʲ	vɨt͡sʲɛrt͡si	WIPE			Dellert et al., 2019
+Belarusian_WIPE	Belarusian	bela1254	bel	WIPE	выцерці	vˈɨʦʲerʦʲi	v ˈɨ ʦʲ e r ʦʲ i	vɨt͡sʲɛrt͡si	WIPE			Dellert et al., 2019
 Belarusian_SAY	Belarusian	bela1254	bel	SAY	сказаць	skazˈaʦʲ	s k a z ˈa ʦʲ	skazat͡sʲ	SAY			Dellert et al., 2019
 Belarusian_SPEAK	Belarusian	bela1254	bel	SPEAK	гаварыць	ʁʌvarˈɨʦʲ	ʁ ʌ v a r ˈɨ ʦʲ	ɣavarɨt͡sʲ	SPEAK			Dellert et al., 2019
 Belarusian_THINK	Belarusian	bela1254	bel	THINK	думаць	dˈumaʦʲ	d ˈu m a ʦʲ	dumat͡sʲ	THINK			Dellert et al., 2019
@@ -24450,7 +24431,7 @@ Russian_THERE	Russian	russ1263	rus	THERE	там	tam	t a m	taˑm	THERE			Dellert 
 Russian_NOT	Russian	russ1263	rus	NOT	не	nʲɪ	nʲ ɪ	nʲeˑ	NOT			Dellert et al., 2019
 Russian_THIS	Russian	russ1263	rus	THIS	это	ˈɛtə	ˈɛ t ə	ɛˑtə	THIS			Dellert et al., 2019
 Russian_THAT	Russian	russ1263	rus	THAT	то	to	t o	tɔˑ	THAT			Dellert et al., 2019
-Russian_ALL	Russian	russ1263	rus	ALL	все	fsʲe	f sʲ e	vsʲo	ALL			Dellert et al., 2019
+Russian_ALL	Russian	russ1263	rus	ALL	весь	vʲesʲ	vʲ e sʲ	все / vsʲo	ALL			Dellert et al., 2019
 Russian_I	Russian	russ1263	rus	I	я	ja	j a	jaˑ	I			Dellert et al., 2019
 Russian_THOU	Russian	russ1263	rus	THOU	ты	tɨ	t ɨ	tɨˑ	THOU			Dellert et al., 2019
 Russian_WE	Russian	russ1263	rus	WE	мы	mɨ	m ɨ	mɨˑ	WE			Dellert et al., 2019
