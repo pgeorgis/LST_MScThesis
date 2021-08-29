@@ -1,5 +1,5 @@
 import os, itertools, random
-from auxiliary_functions import normalize_dict
+from auxiliary_functions import *
 from phonetic_distance import *
 
 
@@ -76,28 +76,49 @@ class PhonemeCorrDetector:
                 corr_counts[seg1] = normalize_dict(corr_counts[seg1])
         return corr_counts
     
+    
+    def radial_counts(self, wordlist, radius=2, normalize=True):
+        """Checks the number of times that phones occur within a specified 
+        radius of positions in their respective words from one another"""
+        corr_dict = defaultdict(lambda:defaultdict(lambda:0))
+        
+        for item in wordlist:
+            segs1, segs2 = item[0][3], item[1][3]
+            for i in range(len(segs1)):
+                seg1 = segs1[i]
+                for j in range(max(0, i-radius), min(i+radius+1, len(segs2))):
+                    seg2 = segs2[j]
+                    
+                    #Only count sounds which are compatible as corresponding
+                    try:
+                        if compatible_segments(seg1, seg2) == True:
+                            corr_dict[seg1][seg2] += 1
+                    except RecursionError:
+                        print(seg1, seg2, item)
+                        
+        if normalize == True:
+            for seg1 in corr_dict:
+                corr_dict[seg1] = normalize_dict(corr_dict[seg1])
+        
+        return corr_dict
+    
 
-    def phoneme_pmi(self, cognate_probs=None, noncognate_probs=None, seed=1):
-        """cognate_probs and non_cognate probs should be dictionaries of
-        conditional correspondence probabilities in potential cognates and noncognates"""
-        #Reset phoneme PMI dictionary
-        try:
-            del self.lang1.phoneme_pmi[self.lang2]
-        except KeyError:
-            pass
-        
-        #Provide default correspondences if none are specified
-        if cognate_probs == None:
-            cognate_probs = self.correspondence_probs(self.align_wordlist(self.same_meaning))
-        if noncognate_probs == None:
-            random.seed(seed)
-            sample_size = len(self.same_meaning)
-            diff_sample = random.sample(self.diff_meaning, min(sample_size, len(self.diff_meaning)))
-            noncognate_probs = self.correspondence_probs(self.align_wordlist(diff_sample))
-        
+    def phoneme_pmi(self, dependent_probs, independent_probs=None):
+        """
+        dependent_probs : nested dictionary of conditional correspondence probabilities in potential cognates
+        independent_probs : None, or nested dictionary of conditional correspondence probabilities in non-cognates
+        """
+
+        #If no independent probabilities are specified, 
+        #use product of phoneme probabilities by default
+        if independent_probs == None:
+            independent_probs = defaultdict(lambda:defaultdict(lambda:0))
+            for phoneme1 in self.lang1.phonemes:
+                for phoneme2 in self.lang2.phonemes:
+                    independent_probs[phoneme1][phoneme2] = self.lang1.phonemes[phoneme1] * self.lang2.phonemes[phoneme2]
+
         #Calculate joint probabilities from conditional probabilities
-        l1_phonemes = list(self.lang1.phonemes.keys())
-        for corr_dict in [cognate_probs, noncognate_probs]:
+        for corr_dict in [dependent_probs, independent_probs]:
             for seg1 in corr_dict:
                 seg1_totals = sum(corr_dict[seg1].values())
                 for seg2 in corr_dict[seg1]:
@@ -105,9 +126,9 @@ class PhonemeCorrDetector:
                     joint_prob = cond_prob * self.lang1.phonemes[seg1]
                     corr_dict[seg1][seg2] = joint_prob
                     
-        #Get set of all phoneme correspondences in cognates and non-cognates
+        #Get set of all possible phoneme correspondences
         segment_pairs = set([(seg1, seg2)
-                         for corr_dict in [cognate_probs, noncognate_probs]
+                         for corr_dict in [dependent_probs, independent_probs]
                          for seg1 in corr_dict 
                          for seg2 in corr_dict[seg1]])
             
@@ -116,92 +137,243 @@ class PhonemeCorrDetector:
         for segment_pair in segment_pairs:
             seg1, seg2 = segment_pair
             p_ind = self.lang1.phonemes[seg1] * self.lang2.phonemes[seg2]
-            cognate_prob = cognate_probs[seg1].get(seg2, p_ind)
-            noncognate_prob = noncognate_probs[seg1].get(seg2, p_ind)
+            cognate_prob = dependent_probs[seg1].get(seg2, p_ind)
+            noncognate_prob = independent_probs[seg1].get(seg2, p_ind)
             pmi_dict[seg1][seg2] = math.log(cognate_prob/noncognate_prob)
+        
         return pmi_dict
 
 
-    def calc_phoneme_pmi(self, radius=2, max_iterations=3, seed=1):
+    def calc_phoneme_pmi(self, radius=2, max_iterations=10,
+                          p_threshold=0.1,
+                          seed=1, 
+                          print_iterations=False, save=True):
+        """
+        Parameters
+        ----------
+        radius : int, optional
+            Number of word positions forward and backward to check for initial correspondences. The default is 2.
+        max_iterations : int, optional
+            Maximum number of iterations. The default is 3.
+        p_threshold : float, optional
+            p-value threshold for words to qualify for PMI calculation in the next iteration. The default is 0.05.
+        seed : int, optional
+            Random seed for drawing a sample of different meaning word pairs. The default is 1.
+        print_iterations : bool, optional
+            Whether to print the results of each iteration. The default is False.
+        save : bool, optional
+            Whether to save the results to the Language class object's phoneme_pmi attribute. The default is True.
+
+        Returns
+        -------
+        results : collections.defaultdict
+            Nested dictionary of phoneme PMI values.
+
+        """
+        
         random.seed(seed)
         #Take a sample of different-meaning words, as large as the same-meaning set
         sample_size = len(self.same_meaning)
         diff_sample = random.sample(self.diff_meaning, min(sample_size, len(self.diff_meaning)))
 
-        
-        def compatible_segments(seg1, seg2):
-            """Returns True if the two segments are either:
-                two consonants
-                two vowels
-                a vowel and a sonorant consonant (nasals, liquids, glides)
-                two tonemes
-            Else returns False"""
-            strip_seg1, strip_seg2 = map(strip_diacritics, [seg1, seg2])
-            if strip_seg1[0] in consonants:
-                if strip_seg2[0] in consonants:
-                    return True
-                elif strip_seg2[0] in vowels:
-                    if phone_id(seg1)['sonorant'] == 1:
-                        return True
-                    else:
-                        return False
-                else:
-                    return False
-            elif strip_seg1[0] in vowels:
-                if strip_seg2[0] in vowels:
-                    return True
-                elif strip_seg2[0] in consonants:
-                    if phone_id(seg2)['sonorant'] == 1:
-                        return True
-                    else:
-                        return False
-                else:
-                    return False
-            #Tonemes
-            else: 
-                if strip_seg2[0] in tonemes:
-                    return True
-                else:
-                    return False
-
-        
-        #First step: check whether phonemes co-occur within a set radius of 
-        #positions within respective words
-        synonyms_radius = defaultdict(lambda:defaultdict(lambda:0))
-        non_synonyms_radius = defaultdict(lambda:defaultdict(lambda:0))
-        for wordlist, corr_dict in zip([self.same_meaning, diff_sample], 
-                                       [synonyms_radius, non_synonyms_radius]):
-            for item in wordlist:
-                segs1, segs2 = item[0][3], item[1][3]
-                for i in range(len(segs1)):
-                    seg1 = segs1[i]
-                    for j in range(max(0, i-radius), min(i+radius+1, len(segs2))):
-                        seg2 = segs2[j]
-                        
-                        #Only count sounds which are compatible as corresponding
-                        if compatible_segments(seg1, seg2) == True:
-                            corr_dict[seg1][seg2] += 1
-                            
-            for seg1 in corr_dict:
-                corr_dict[seg1] = normalize_dict(corr_dict[seg1])
-        pmi_step1 = self.phoneme_pmi(cognate_probs=synonyms_radius,
-                                     noncognate_probs=non_synonyms_radius)
+        #First step: calculate probability of phones co-occuring within within 
+        #a set radius of positions within their respective words
+        synonyms_radius = self.radial_counts(self.same_meaning, radius)
+        #non_synonyms_radius = self.radial_counts(diff_sample, radius)
+        pmi_step1 = self.phoneme_pmi(dependent_probs=synonyms_radius) #,
+                                     #independent_probs=non_synonyms_radius)
     
-        
         #At each following iteration, re-align using the pmi_stepN as an additional
         #penalty, and then recalculate PMI
-        PMI_iterations = {0:pmi_step1}
-        iteration = 1
-        while iteration < max_iterations:
-            cognate_probs = self.correspondence_probs(self.align_wordlist(self.same_meaning, 
-                                                                          added_penalty_dict=PMI_iterations[iteration-1]))
-            noncognate_probs = self.correspondence_probs(self.align_wordlist(diff_sample,
-                                                                             added_penalty_dict=PMI_iterations[iteration-1]))
-            PMI_iterations[iteration] = self.phoneme_pmi(cognate_probs, noncognate_probs)
+        iteration = 0
+        PMI_iterations = {iteration:pmi_step1}
+        qualifying_words = default_dict({iteration:sorted(self.same_meaning)}, l=[])
+        disqualified_words = default_dict({iteration:sorted(diff_sample)}, l=[])
+        while (iteration < max_iterations) and (qualifying_words[iteration] != qualifying_words[iteration-1]):
             iteration += 1
+            
+            #Align the qualifying and words of the previous step using previous step's PMI
+            cognate_alignments = self.align_wordlist(qualifying_words[iteration-1], 
+                                                     added_penalty_dict=PMI_iterations[iteration-1])
+            
+            #Align the sample of different meaning and non-qualifying words again using previous step's PMI
+            noncognate_alignments = self.align_wordlist(disqualified_words[iteration-1],
+                                                        added_penalty_dict=PMI_iterations[iteration-1])
+            
+            #Calculate correspondence probabilities and PMI values from these alignments
+            cognate_probs = self.correspondence_probs(cognate_alignments)
+            #noncognate_probs = self.correspondence_probs(noncognate_alignments)
+            PMI_iterations[iteration] = self.phoneme_pmi(cognate_probs)#, noncognate_probs)
+            
+            #Align all same-meaning word pairs
+            all_alignments = self.align_wordlist(self.same_meaning, 
+                                                 added_penalty_dict=PMI_iterations[iteration-1])
+
+            #Score PMI for different meaning words and words disqualified in previous iteration
+            noncognate_PMI = []
+            for alignment in noncognate_alignments:
+                noncognate_PMI.append(mean([PMI_iterations[iteration][pair[0]][pair[1]] 
+                                            for pair in alignment]))
+
+            #Score same-meaning alignments for overall PMI and calculate p-value
+            #against different-meaning alignments
+            qualifying, disqualified = [], []
+            for i in range(len(self.same_meaning)):
+                alignment = all_alignments[i]
+                item = self.same_meaning[i]
+                PMI_score = mean([PMI_iterations[iteration][pair[0]][pair[1]] 
+                                for pair in alignment])
+                p_value = (len([score for score in noncognate_PMI if score >= PMI_score])+1) / (len(noncognate_PMI)+1)
+                if p_value < p_threshold:
+                    qualifying.append(item)
+                else:
+                    disqualified.append(item)
+            qualifying_words[iteration] = sorted(qualifying)
+            disqualified_words[iteration] = sorted(disqualified)
+            
+            #Print results of this iteration
+            if print_iterations == True:
+                print(f'Iteration {iteration}')
+                print(f'\tQualified: {len(qualifying)}')
+                added = [item for item in qualifying_words[iteration]
+                         if item not in qualifying_words[iteration-1]]
+                for item in added:
+                    word1, word2 = item[0][1], item[1][1]
+                    ipa1, ipa2 = item[0][2], item[1][2]
+                    print(f'\t\t{word1} /{ipa1}/ - {word2} /{ipa2}/')
+                
+                print(f'\tDisqualified: {len(disqualified)}')
+                removed = [item for item in qualifying_words[iteration-1]
+                         if item not in qualifying_words[iteration]]
+                for item in removed:
+                    word1, word2 = item[0][1], item[1][1]
+                    ipa1, ipa2 = item[0][2], item[1][2]
+                    print(f'\t\t{word1} /{ipa1}/ - {word2} /{ipa2}/')
+                    
+        #Return and save the final iteration's PMI results
+        results = PMI_iterations[max(PMI_iterations.keys())]
+        if save == True:
+            self.lang1.phoneme_pmi[self.lang2] = results
+            #self.lang1.phoneme_pmi[self.lang2]['thresholds'] = noncognate_PMI
         
-        #Return the final iteration's PMI results
-        return PMI_iterations[max(PMI_iterations.keys())]
+        return results
+    
+
+    def phoneme_surprisal(self, correspondence_counts, negative=False):
+        """Calculates phoneme surprisal with Lidstone smoothing given a dictionary
+        of raw phoneme correspondence counts
+        negative : Bool; if True, returns surprisal values as negatives for use as penalties"""
+        
+        #Dictionary of total occurrence of lang1 segments in alignments
+        totals = {seg1:sum(correspondence_counts[seg1].values()) 
+                  for seg1 in correspondence_counts}
+        
+        #Calculate d parameter for Lidstone smoothing as the number of 
+        #phonemes in lang2, plus 1 for the gap character
+        d = len(self.lang2.phonemes) + 1
+        
+        #Calculate surprisal with Lidstone smoothing
+        surprisal_values = {seg1:{seg2:surprisal(lidstone_smoothing(x=correspondence_counts[seg1].get(seg2, 0), 
+                                                                    N=totals[seg1], 
+                                                                    d=d), negative=negative) 
+                                                 for seg2 in correspondence_counts[seg1]} 
+                                                 for seg1 in correspondence_counts}
+        
+        #Set the default value of each nested dictionary as the Lidstone smoothed
+        #surprisal value for 0 occurrences
+        for seg1 in surprisal_values:
+            surprisal_values[seg1] = default_dict(surprisal_values[seg1],
+                                                  l=surprisal(lidstone_smoothing(x=0, 
+                                                                                 N=totals[seg1], 
+                                                                                 d=d), negative=negative))
+        surprisal_values = default_dict(surprisal_values, l=defaultdict(lambda:-self.lang2.phoneme_entropy))
+        return surprisal_values
+
+    
+    def calc_phoneme_surprisal(self, radius=2, ngram_size=1, max_iterations=3, save=True):
+        #First get counts of how many times phonemes co-occur within a set radius 
+        synonyms_radius = self.radial_counts(self.same_meaning, radius, normalize=False)
+        
+        #Calculate surprisal values from these counts
+        surprisal_values = self.phoneme_surprisal(synonyms_radius, negative=True)
+        
+        #At each following iteration, re-align using the previous iteration's
+        #negative surprisal values as additional penalties, and then recalculate surprisal
+        iteration = 0
+        surprisal_iterations = {iteration:surprisal_values}
+        qualifying_words = default_dict({iteration:sorted(self.same_meaning)}, l=[])
+        disqualified_words = defaultdict(lambda:[])
+        while (iteration < max_iterations) and (qualifying_words[iteration] != qualifying_words[iteration-1]):
+            iteration += 1
+            #Align the qualifying words of the previous step
+            #Note: GOP needs to be adjusted when adding surprisal penalties 
+            #because otherwise the best alignments will always be all gaps
+            cognate_alignments = self.align_wordlist(qualifying_words[iteration-1], 
+                                                     added_penalty_dict=surprisal_iterations[iteration-1],
+                                                     gop=-self.lang2.phoneme_entropy)
+            
+            #Calculate surprisal values from these alignments
+            surprisal_iterations[iteration] = self.phoneme_surprisal(self.correspondence_probs(cognate_alignments,
+                                                                                               counts=True,
+                                                                                               exclude_null=False), 
+                                                                     negative=True)
+            
+            #Filter out alignments whose overall surprisal score is greater than
+            #the phoneme entropy of lang2
+            all_alignments = self.align_wordlist(self.same_meaning, 
+                                                 added_penalty_dict=surprisal_iterations[iteration-1], 
+                                                 gop=-self.lang2.phoneme_entropy)
+            qualifying, disqualified = [], []
+            for i in range(len(self.same_meaning)):
+                alignment = all_alignments[i]
+                item = self.same_meaning[i]
+                try:
+                    surprisal_score = adaptation_surprisal(alignment, surprisal_dict=surprisal_iterations[iteration],
+                                                           normalize=True)
+                except KeyError:
+                    print(item, alignment, type(surprisal_iterations[iteration]))
+                    continue
+                segs2 = [pair[1] for pair in alignment if pair[1] != '-']
+                self_surprisal = self.lang2.calculate_infocontent(segs2, segmented=True)
+                self_surprisal = mean([self_surprisal[i][1] for i in self_surprisal])
+                if -surprisal_score < self_surprisal:
+                    qualifying.append(item)
+                else:
+                    disqualified.append(item)
+            qualifying_words[iteration] = sorted(qualifying)
+            disqualified_words[iteration] = sorted(disqualified)
+        
+        #Return and save the final iteration's surprisal results
+        results = surprisal_iterations[iteration]
+        if save == True:
+            self.lang1.phoneme_surprisal[self.lang2] = results
+        
+        return results
+            
+        
+            
+            
+            
+                                                                                               
         
         
+        
+        
+ #%%      
+def word_adaptation_surprisal(alignment, corr_counts, d,
+                              alpha=0.03, normalize=True):
+    """Calculates the WAS of a word pair alignment.
+    corr_counts : nested dictionary of phoneme correspondence raw counts
+    d : integer length of L2 alphabet (number of L2 phones)
+    alpha : Lidstone smoothing parameter
+    normalize : if True, normalizes the WAS by the length of the alignment"""
+    surprisal_score = 0
+    for pair in alignment:
+        seg1, seg2 = pair[0], pair[1]
+        joint_count = corr_counts[seg1].get(seg2, 0)
+        lidstone_cond_p = (joint_count + alpha) / (sum(corr_counts[seg1].values()) + (alpha * d))
+        surprisal_score += surprisal(lidstone_cond_p)
+    if normalize == True:
+        surprisal_score /= len(alignment)
+    return surprisal_score
     

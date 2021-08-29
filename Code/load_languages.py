@@ -7,6 +7,7 @@ from pathlib import Path
 local_dir = Path(str(os.getcwd()))
 parent_dir = local_dir.parent
 from phonetic_distance import *
+from word_evaluation import *
 from phoneme_correspondences import PhonemeCorrDetector
 
 class Dataset: 
@@ -85,9 +86,7 @@ class Dataset:
                                             lang_id=self.lang_ids[lang],
                                             loan_c=self.loan_c)
             for concept in self.languages[lang].vocabulary:
-                self.concepts[concept][lang].extend(self.languages[lang].vocabulary[concept])    
-            #self.concepts.extend(self.languages[lang].vocabulary.keys())
-            #self.concepts = list(set(self.concepts))
+                self.concepts[concept][lang].extend(self.languages[lang].vocabulary[concept])
         
     
     def load_cognate_sets(self):
@@ -190,7 +189,66 @@ class Dataset:
                     print(f'\t\t{lang} ({vocab_size} concepts)')
             print(f'\tAMC increased from {round(original_amc, 2)} to {round(self.mutual_coverage[1], 2)}.')
         
+    
+    def calculate_phoneme_pmi(self, output_file=None, **kwargs):
+        """Calculates phoneme PMI for all language pairs in the dataset and saves
+        the results to file"""
+        
+        #Specify output file name if none is specified
+        if output_file == None:
+            output_file = f'{self.directory}{self.name} Phoneme PMI.csv'
+        
+        #Calculate or retrieve PMI values and save them to the specified output file
+        with open(output_file, 'w') as f:
+            f.write('Language1,Phone1,Language2,Phone2,PMI\n')
+            for lang1 in self.languages.values():
+                for lang2 in self.languages.values():
+                    if lang1 != lang2:
+                        
+                        #Check whether phoneme PMI has been calculated already for this pair
+                        #If not, calculate it now
+                        if lang2 not in lang1.phoneme_pmi:
+                            print(f'Calculating phoneme PMI for {lang1.name} and {lang2.name}...')
+                            pmi = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi(**kwargs)
+                        
+                        #Else retrieve the precalculated values
+                        else:
+                            pmi = lang1.phoneme_pmi[lang2]
+                            
+                        #Save all segment pairs with non-zero PMI values to file
+                        for seg1 in pmi:
+                            for seg2 in pmi[seg1]:
+                                if pmi[seg1][seg2] != 0:
+                                    f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{pmi[seg1][seg2]}\n')
+    
+    
+    def load_phoneme_pmi(self, pmi_file=None):
+        """Loads pre-calculated phoneme PMI values from file"""
+        
+        #Designate the default file name to search for if no alternative is provided
+        if pmi_file == None:
+            pmi_file = f'{self.directory}{self.name} Phoneme PMI.csv'
+        
+        #Try to load the file of saved PMI values
+        try:
+            pmi_data = pd.read_csv(pmi_file)
             
+        #If the file is not found, recalculate the PMI values and save to 
+        #a file with the specified name
+        except FileNotFoundError:
+            self.calculate_phoneme_pmi(output_file=pmi_file)
+            pmi_data = pd.read_csv(pmi_file)
+        
+        #Iterate through the dataframe and save the PMI values to the Language
+        #class objects' phoneme_pmi attribute
+        for index, row in pmi_data.iterrows():
+            lang1 = self.languages[row['Language1']]
+            lang2 = self.languages[row['Language2']]
+            phone1, phone2 = row['Phone1'], row['Phone2']
+            pmi_value = row['PMI']
+            lang1.phoneme_pmi[lang2][phone1][phone2] = pmi_value
+            
+    
     def cognate_set_dendrogram(self, cognate_id, 
                                dist_func, sim=True, 
                                combine_cognate_sets=False,
@@ -212,7 +270,7 @@ class Dataset:
                        for i in range(len(self.cognate_sets[cognate_id][key]))]
         labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
         
-        if dist_func == word_dist:
+        if dist_func in [word_dist, word_adaptation_surprisal, score_pmi]:
             #For this function, it requires tuple input of (word, lang)
             langs = [self.languages[lang] for lang in lang_labels]
             words = list(zip(words, langs))
@@ -244,10 +302,11 @@ class Dataset:
                        for entry in self.concepts[concept][lang]]
         labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
         
-        if dist_func == word_dist:
+        if dist_func in [word_dist, word_adaptation_surprisal, score_pmi]:
             #For this function, it requires tuple input of (word, lang)
             langs = [self.languages[lang] for lang in lang_labels]
             words = list(zip(words, langs))
+
         
         clusters = cluster_items(group=words,
                                  labels=labels,
@@ -257,9 +316,87 @@ class Dataset:
                                  **kwargs)
         
         return clusters
-        
+    
+    
+    def draw_tree(self, 
+                  dist_func, sim,
+                  cognates='auto', cutoff=None,
+                  method='average', title=None, save_directory=None):
+        clustered_concepts = defaultdict(lambda:defaultdict(lambda:[]))
+        if cognates == 'auto':
+            assert cutoff != None
+            for concept in sorted(list(self.concepts.keys())):
+                print(f'Clustering words for "{concept}"...')
+                clustered_concepts[concept] = self.cluster_cognates(concept, 
+                                                                    dist_func=dist_func,
+                                                                    sim=sim, 
+                                                                    cutoff=cutoff)
+        else:
+            for concept_id in self.cognate_sets:
+                if len(concept_id.split('_')) > 1:
+                    concept, cognate_id = concept_id.split('_')
+                else:
+                    concept, cognate_id = concept_id, 1
+                for lang in self.cognate_sets[concept_id]:
+                    for form in self.cognate_sets[concept_id][lang]:
+                        form = strip_ch(form, ['(', ')'])
+                        clustered_concepts[concept][cognate_id].append(f'{lang} /{form}/')
+                    
+        def cognate_dist(lang1, lang2, clustered_cognates=clustered_concepts):
+            dists = {}
+            for concept in clustered_cognates:
+                concept_dists = {}
+                l1_wordcount, l2_wordcount = 0, 0
+                for cognate_id in clustered_cognates[concept]:
+                    items = [entry.split('/') for entry in clustered_cognates[concept][cognate_id]]
+                    items = [(self.languages[item[0].strip()], item[1])
+                             for item in items]
+                    l1_words = [item[1] for item in items if item[0] == lang1]
+                    l2_words = [item[1] for item in items if item[0] == lang2]
+                    l1_wordcount += len(l1_words)
+                    l2_wordcount += len(l2_words)
+                    for l1_word in l1_words:
+                        for l2_word in l2_words:
+                            concept_dists[(l1_word, l2_word)] = word_dist((l1_word, lang1), (l2_word, lang2))
+                
+                if len(concept_dists) > 0:
+                    #dists[concept] = min(concept_dists.values())
+                    dists[concept] = mean(concept_dists.values())
+                else:
+                    if (l1_wordcount > 0) and (l2_wordcount > 0):
+                        dists[concept] = 5
+            
+            return mean(dists.values())
             
         
+        languages = [self.languages[lang] for lang in self.languages]
+        names = [lang.name for lang in languages]
+        if title == None:
+            title = f'{self.name}'
+        if save_directory == None:
+            save_directory = self.directory
+        draw_dendrogram(group=languages, 
+                        labels=names, 
+                        dist_func=cognate_dist, 
+                        sim=False, 
+                        method=method, 
+                        title=title, 
+                        save_directory=save_directory, 
+                        #clustered_cognates = clustered_concepts
+                        )
+    
+    def examine_cognates(self, language_list, concepts=None):
+        if concepts == None:
+            concepts = sorted(list(self.cognate_sets.keys()))
+        
+        for cognate_set in concepts:
+            lang_count = len([lang for lang in language_list if lang.name in self.cognate_sets[cognate_set]])
+            if lang_count > 1:
+                print(cognate_set)
+                for lang in language_list:
+                    print(f'{lang.name}: {" ~ ".join(self.cognate_sets[cognate_set][lang.name])}')
+                print('\n')
+
 #%%
 class Language(Dataset):
     def __init__(self, name, lang_id, data, glottocode, iso_code, family,
@@ -291,6 +428,7 @@ class Language(Dataset):
         self.tonal = False
         
         #Phonological contexts
+        self.bigrams = defaultdict(lambda:defaultdict(lambda:0))
         self.trigrams = defaultdict(lambda:0)
         self.gappy_trigrams = defaultdict(lambda:0)
         self.info_contents = {}
@@ -309,6 +447,7 @@ class Language(Dataset):
         #Comparison with other languages
         self.phoneme_correspondences = defaultdict(lambda:defaultdict(lambda:0))
         self.phoneme_pmi = defaultdict(lambda:defaultdict(lambda:defaultdict(lambda:0)))
+        self.phoneme_surprisal = defaultdict(lambda:defaultdict(lambda:defaultdict(lambda:-self.phoneme_entropy)))
         self.detected_cognates = defaultdict(lambda:[])
         self.detected_noncognates = defaultdict(lambda:[])
         
@@ -380,7 +519,7 @@ class Language(Dataset):
                field='transcription',
                return_list=False):
         """Prints or returns a list of all word entries containing a given 
-        segment/character or sequence or segments/characters"""
+        segment/character or regular expression"""
         if field == 'transcription':
             field_index = 1
         elif field == 'orthography':
@@ -393,7 +532,7 @@ class Language(Dataset):
         for concept in self.vocabulary:
             for entry in self.vocabulary[concept]:
                 orthography, transcription, segments = entry
-                if segment in entry[field_index]:
+                if re.search(segment, entry[field_index]) != None:
                     matches.append((concept, orthography, transcription))
         
         if return_list == True:
@@ -444,13 +583,14 @@ class Language(Dataset):
             gappy_counts += self.gappy_trigrams[(padded[i-2], padded[i-1], 'X')]
             gappy_counts += self.gappy_trigrams[(padded[i-1], 'X', padded[i+1])]
             gappy_counts += self.gappy_trigrams[('X', padded[i+1], padded[i+2])]
-            info_content[i-2] = (padded[i], -math.log(trigram_counts/gappy_counts))
+            info_content[i-2] = (padded[i], -math.log(trigram_counts/gappy_counts, 2))
         self.info_contents[''.join(padded[2:-2])] = info_content
         return info_content
     
     def phone_dendrogram(self, 
                          distance='weighted_dice', 
-                         method='complete', exclude_length=True,
+                         method='complete', 
+                         exclude_length=True, exclude_tones=True,
                          title=None, save_directory=None):
         if title == None:
             title = f'{self.name} Phonemes'
@@ -463,6 +603,9 @@ class Language(Dataset):
         if exclude_length == True:
             phonemes = list(set(strip_ch(p, ['ː']) for p in phonemes))
         
+        if exclude_tones == True:
+            phonemes = [p for p in phonemes if p not in self.tonemes]
+        
         draw_dendrogram(group=phonemes, 
                         labels=phonemes,
                         dist_func=phone_sim,
@@ -471,27 +614,6 @@ class Language(Dataset):
                         method=method,
                         title=title,
                         save_directory=save_directory)
-        
-    def phone_plot(self, 
-                   distance="weighted_dice",
-                   exclude_length=True, 
-                   title=None):
-        if title == None:
-            title = f'{self.name} Phonemes'
-            
-        phonemes = list(self.phonemes.keys())
-        
-        if exclude_length == True:
-            phonemes = list(set(strip_ch(p, ['ː']) for p in phonemes))
-        
-        plot_distances(group=phonemes, 
-                       labels=phonemes,
-                       dist_func=phone_sim, 
-                       distance=distance,
-                       title=title)
-    
-    
-    
     
 
 #%%

@@ -4,12 +4,13 @@ import math, unidecode, re, operator
 import numpy as np
 from statistics import mean, stdev
 from matplotlib import pyplot as plt
-from scipy.cluster.hierarchy import dendrogram, linkage, fcluster
+from scipy.cluster.hierarchy import dendrogram, linkage, fcluster, to_tree
 from scipy.spatial.distance import squareform
 from sklearn import manifold
 import seaborn as sns
 import networkx as nx
 
+#GENERAL AUXILIARY FUNCTIONS
 def dict_tuplelist(dic, sort=True, reverse=True):
     """Returns a list of (key, value) tuples from the dictionary
     if sort == True, sorts the list by the value, by default in decending order"""
@@ -17,6 +18,25 @@ def dict_tuplelist(dic, sort=True, reverse=True):
     if sort == True:
         d.sort(key=operator.itemgetter(1), reverse=reverse)
     return d
+
+def default_dict(dic, l):
+    """Turns an existing dictionary into a default dictionary with default value l"""
+    dd = defaultdict(lambda:l)
+    for key in dic:
+        dd[key] = dic[key]
+    return dd
+
+def keywithmaxval(d):
+    """Returns the dictionary key with the highest value"""
+    v = list(d.values())
+    k = list(d.keys())
+    return k[v.index(max(v))]
+
+def keywithminval(d):
+    """Returns the dictionary key with the lowest value"""
+    v = list(d.values())
+    k = list(d.keys())
+    return k[v.index(min(v))]
 
 #%%
 #STRING MANIPULATION
@@ -96,12 +116,27 @@ def normalize_dict(dict_, default=False, lmbda=None, return_=True):
     
 #%%
 #INFORMATION CONTENT
-def surprisal(p):
-    try:   
-        return -math.log(p, 2)
+def surprisal(p, negative=False):
+    """negative : Bool; if True, returns surprisal values as negatives for use as penalties"""
+    try:
+        if negative == True:
+            return math.log(p, 2)
+        else:
+            return -math.log(p, 2)
     except ValueError:
         print(f'Math Domain Error: cannot take the log of {p}')
         raise ValueError
+        
+def adaptation_surprisal(alignment, surprisal_dict, normalize=True):
+    """Calculates the surprisal of an aligned sequence, given a dictionary of 
+    surprisal values for the sequence corresponcences"""
+    values = [surprisal_dict[pair[0]][pair[1]] for pair in alignment]
+    if normalize == True:
+        return mean(values)
+    else:
+        return sum(values)
+    
+    
 
 def entropy(X):
     """X should be a dictionary with absolute counts"""
@@ -112,6 +147,13 @@ def entropy(X):
         if p > 0:
             E += p * surprisal(p)
     return E
+
+#%%
+#SMOOTHING
+def lidstone_smoothing(x, N, d, alpha=0.3):
+    """Given x (unsmoothed counts), N (total observations), 
+    and d (number of possible outcomes), returns smoothed Lidstone probability"""
+    return (x + alpha) / (N + (alpha*d))
 
 #%%
 #PLOTTING PAIRWISE SIMILARITY / DISTANCE
@@ -146,7 +188,7 @@ def dist_dict(group, dist_func=None, sim=False, max_dist=None):
 def list_mostsimilar(item1, comp_group, dist_func, n=5, sim=True, return_=False):
     n = min(len(comp_group), n)
     sim_list = [(item2, dist_func(item1, item2)) for item2 in comp_group if item1 != item2]
-    sim_list.sort(key=operator.itemgetter(1), reverse=True)
+    sim_list.sort(key=operator.itemgetter(1), reverse=sim)
     if return_ == True:
         return sim_list[:n]
     else:
@@ -204,8 +246,6 @@ def cluster_items(group, labels,
     
     return clusters
         
-    
-
 def draw_dendrogram(group, dist_func, title=None, sim=False, labels=None, 
                     p=30, method='average', metric='euclidean',
                     orientation='left', 
@@ -224,6 +264,25 @@ def draw_dendrogram(group, dist_func, title=None, sim=False, labels=None,
         plt.title(title, fontsize=30)
     plt.savefig(f'{save_directory}{title}.png', bbox_inches='tight', dpi=300)
     plt.show()
+
+def getNewick(node, newick, parentdist, leaf_names):
+    #source: https://stackoverflow.com/questions/28222179/save-dendrogram-to-newick-format
+    if node.is_leaf():
+        return "%s:%.2f%s" % (leaf_names[node.id], parentdist - node.dist, newick)
+    else:
+        if len(newick) > 0:
+            newick = "):%.2f%s" % (parentdist - node.dist, newick)
+        else:
+            newick = ");"
+        newick = getNewick(node.get_left(), newick, node.dist, leaf_names)
+        newick = getNewick(node.get_right(), ",%s" % (newick), node.dist, leaf_names)
+        newick = "(%s" % (newick)
+        return newick
+
+def linkage2newick(linkage_matrix, leaf_labels):
+    tree = to_tree(linkage_matrix, False)
+    return getNewick(tree, "", tree.dist, leaf_labels)
+
 
 def plot_distances(group, dist_func=None, sim=False, dimensions=2, labels=None, 
                    title=None, plotsize=None, invert_yaxis=False, invert_xaxis=False,
