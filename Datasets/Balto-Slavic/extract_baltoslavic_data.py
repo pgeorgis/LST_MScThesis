@@ -91,7 +91,7 @@ def get_color(sheet, cell):
     return str(sheet[cell].fill.start_color.index) #hexadecimal
 
 
-#Create a dictionary with 
+#Create a dictionary with word forms and their cognate classes
 cognate_IDs = {}
 for language in language_columns:
     c = language_columns[language]
@@ -102,8 +102,6 @@ for language in language_columns:
         for r in gold_rows[1:]
         if gold_cognates[f'{c}{r}'].value != None
         if get_color(gold_cognates, f'A{r}') != 'FFFF0000'}
-    
-    #Still need to filter out red-colored glosses!
     
     #Add to cognate_IDs dict such that keys are (language, IPA, concept) and the values are the cognate ID
     for cognate_ID in forms_ID:
