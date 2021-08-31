@@ -1,17 +1,17 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Concept_Count,Word_Count
-ChadianArabic,Chadian Arabic,chad1249,Chadian Arabic,shu,Africa,14.67,13.5,Afro-Asiatic,207,259
-CypriotArabic,Cypriot Arabic,cypr1248,Cypriot Arabic,acy,Eurasia,35.1674,33.0943,Afro-Asiatic,179,210
-DhofariArabic,Dhofari Arabic,dhof1235,Dhofari Arabic,adf,Eurasia,17.0796,54.4894,Afro-Asiatic,197,299
-EgyptianArabic,Egyptian Arabic,egyp1253,Egyptian Arabic,arz,Africa,31.0,31.0,Afro-Asiatic,207,279
-GulfArabic,Gulf Arabic,gulf1241,Gulf Arabic,afb,Eurasia,30.17,47.5,Afro-Asiatic,207,306
-HassaniyaArabic,Hassaniya Arabic,hass1238,Hassaniyya,mey,Africa,18.29,-14.11,Afro-Asiatic,207,309
-IraqiArabic,Iraqi Arabic,meso1252,Gilit Mesopotamian Arabic,acm,Eurasia,33.8178,43.1095,Afro-Asiatic,207,328
-LevantineArabic,Levantine Arabic,nort3139,North Levantine Arabic,apc,Eurasia,34.1709,36.0468,Afro-Asiatic,207,300
-Maltese,Maltese,malt1254,Maltese,mlt,Eurasia,35.8884,14.4508,Afro-Asiatic,190,229
-ModernStandardArabic,Modern Standard Arabic,stan1318,Standard Arabic,arb,Eurasia,27.9625,43.8525,Afro-Asiatic,207,375
-MoroccanArabic,Moroccan Arabic,moro1292,Moroccan Arabic,ary,Africa,32.5,-7.5,Afro-Asiatic,207,275
-NajdiArabic,Najdi Arabic,najd1235,Najdi Arabic,ars,Eurasia,30.3371,42.1773,Afro-Asiatic,195,287
-NorthMesopotamianArabic,North Mesopotamian Arabic,mosu1235,Mosul Arabic,ayp,Eurasia,36.566667,43.216667,Afro-Asiatic,206,256
-SanaaniArabic,Sanaani Arabic,sana1295,Sanaani Arabic,ayn,Eurasia,15.6552,44.8412,Afro-Asiatic,206,335
-SudaneseArabic,Sudanese Arabic,suda1236,Sudanese Arabic,apd,Africa,17.8021,33.3179,Afro-Asiatic,207,298
-TunisianArabic,Tunisian Arabic,tuni1259,Tunisian Arabic,aeb,Africa,33.7966,9.56156,Afro-Asiatic,207,237
+ChadianArabic,Chadian Arabic,chad1249,Chadian Arabic,shu,Africa,14.67,13.5,Afro-Asiatic,207,247
+CypriotArabic,Cypriot Arabic,cypr1248,Cypriot Arabic,acy,Eurasia,35.1674,33.0943,Afro-Asiatic,179,194
+DhofariArabic,Dhofari Arabic,dhof1235,Dhofari Arabic,adf,Eurasia,17.0796,54.4894,Afro-Asiatic,197,249
+EgyptianArabic,Egyptian Arabic,egyp1253,Egyptian Arabic,arz,Africa,31.0,31.0,Afro-Asiatic,207,272
+GulfArabic,Gulf Arabic,gulf1241,Gulf Arabic,afb,Eurasia,30.17,47.5,Afro-Asiatic,207,294
+HassaniyaArabic,Hassaniya Arabic,hass1238,Hassaniyya,mey,Africa,18.29,-14.11,Afro-Asiatic,207,277
+IraqiArabic,Iraqi Arabic,meso1252,Gilit Mesopotamian Arabic,acm,Eurasia,33.8178,43.1095,Afro-Asiatic,207,295
+LevantineArabic,Levantine Arabic,nort3139,North Levantine Arabic,apc,Eurasia,34.1709,36.0468,Afro-Asiatic,207,281
+Maltese,Maltese,malt1254,Maltese,mlt,Eurasia,35.8884,14.4508,Afro-Asiatic,190,211
+ModernStandardArabic,Modern Standard Arabic,stan1318,Standard Arabic,arb,Eurasia,27.9625,43.8525,Afro-Asiatic,207,361
+MoroccanArabic,Moroccan Arabic,moro1292,Moroccan Arabic,ary,Africa,32.5,-7.5,Afro-Asiatic,207,257
+NajdiArabic,Najdi Arabic,najd1235,Najdi Arabic,ars,Eurasia,30.3371,42.1773,Afro-Asiatic,195,276
+NorthMesopotamianArabic,North Mesopotamian Arabic,mosu1235,Mosul Arabic,ayp,Eurasia,36.566667,43.216667,Afro-Asiatic,206,250
+SanaaniArabic,Sanaani Arabic,sana1295,Sanaani Arabic,ayn,Eurasia,15.6552,44.8412,Afro-Asiatic,206,288
+SudaneseArabic,Sudanese Arabic,suda1236,Sudanese Arabic,apd,Africa,17.8021,33.3179,Afro-Asiatic,207,275
+TunisianArabic,Tunisian Arabic,tuni1259,Tunisian Arabic,aeb,Africa,33.7966,9.56156,Afro-Asiatic,207,233
