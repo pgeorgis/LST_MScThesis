@@ -1,7 +1,7 @@
 import os, re, itertools
 from statistics import mean
 from collections import defaultdict
-import math
+import math, bcubed
 from auxiliary_functions import *
 from pathlib import Path
 local_dir = Path(str(os.getcwd()))
@@ -219,7 +219,8 @@ class Dataset:
                         for seg1 in pmi:
                             for seg2 in pmi[seg1]:
                                 if pmi[seg1][seg2] != 0:
-                                    f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{pmi[seg1][seg2]}\n')
+                                    if abs(pmi[seg1][seg2]) > lang1.phonemes[seg1] * lang2.phonemes[seg2]: #skip extremely small decimals
+                                        f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{pmi[seg1][seg2]}\n')
     
     
     def load_phoneme_pmi(self, pmi_file=None):
@@ -270,7 +271,7 @@ class Dataset:
                        for i in range(len(self.cognate_sets[cognate_id][key]))]
         labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
         
-        if dist_func in [word_dist, word_adaptation_surprisal, score_pmi]:
+        if dist_func in [word_sim, word_adaptation_surprisal, score_pmi]:
             #For this function, it requires tuple input of (word, lang)
             langs = [self.languages[lang] for lang in lang_labels]
             words = list(zip(words, langs))
@@ -302,7 +303,7 @@ class Dataset:
                        for entry in self.concepts[concept][lang]]
         labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
         
-        if dist_func in [word_dist, word_adaptation_surprisal, score_pmi]:
+        if dist_func in [word_sim, word_adaptation_surprisal, score_pmi]:
             #For this function, it requires tuple input of (word, lang)
             langs = [self.languages[lang] for lang in lang_labels]
             words = list(zip(words, langs))
@@ -318,30 +319,55 @@ class Dataset:
         return clusters
     
     
+    def evaluate_clusters(self, concept, 
+                          dist_func, sim, cutoff, 
+                          method='average', **kwargs):
+        auto_clusters = self.cluster_cognates(concept=concept, 
+                                              dist_func=dist_func, sim=sim, 
+                                              cutoff=cutoff, method=method,
+                                              **kwargs)
+        auto_clusters = {item:set([i]) for i in auto_clusters 
+                         for item in auto_clusters[i]}
+        gold_clusters = {f'{lang} /{strip_ch(tr, ["(", ")"])}/':set([c]) 
+                        for c in self.cognate_sets 
+                        if c.split('_')[0] == concept
+                        for lang in self.cognate_sets[c] 
+                        for tr in self.cognate_sets[c][lang]}
+        precision = bcubed.precision(auto_clusters, gold_clusters)
+        recall = bcubed.recall(auto_clusters, gold_clusters)
+        fscore = bcubed.fscore(precision, recall)
+        return precision, recall, fscore
+    
+    
     def draw_tree(self, 
-                  dist_func, sim,
-                  cognates='auto', cutoff=None,
+                  dist_func, sim, concept_list=None,
+                  cognates='auto', cutoff=None, noncognate_value=5,
                   method='average', title=None, save_directory=None):
+        if concept_list == None:
+            concept_list = sorted(list(self.concepts.keys()))
+        else:
+            concept_list = sorted([concept for concept in concept_list 
+                                   if concept in self.concepts])
+        
         clustered_concepts = defaultdict(lambda:defaultdict(lambda:[]))
         if cognates == 'auto':
             assert cutoff != None
-            for concept in sorted(list(self.concepts.keys())):
+            for concept in concept_list:
                 print(f'Clustering words for "{concept}"...')
                 clustered_concepts[concept] = self.cluster_cognates(concept, 
                                                                     dist_func=dist_func,
                                                                     sim=sim, 
                                                                     cutoff=cutoff)
         else:
-            for concept_id in self.cognate_sets:
-                if len(concept_id.split('_')) > 1:
-                    concept, cognate_id = concept_id.split('_')
-                else:
-                    concept, cognate_id = concept_id, 1
-                for lang in self.cognate_sets[concept_id]:
-                    for form in self.cognate_sets[concept_id][lang]:
-                        form = strip_ch(form, ['(', ')'])
-                        clustered_concepts[concept][cognate_id].append(f'{lang} /{form}/')
-                    
+            for concept in concept_list:
+                cognate_ids = [cognate_id for cognate_id in self.cognate_sets 
+                               if cognate_id.split('_')[0] == concept]
+                for cognate_id in cognate_ids:
+                    for lang in self.cognate_sets[cognate_id]:
+                        for form in self.cognate_sets[cognate_id][lang]:
+                            form = strip_ch(form, ['(', ')'])
+                            clustered_concepts[concept][cognate_id].append(f'{lang} /{form}/')
+                        
         def cognate_dist(lang1, lang2, clustered_cognates=clustered_concepts):
             dists = {}
             for concept in clustered_cognates:
@@ -357,14 +383,17 @@ class Dataset:
                     l2_wordcount += len(l2_words)
                     for l1_word in l1_words:
                         for l2_word in l2_words:
-                            concept_dists[(l1_word, l2_word)] = word_dist((l1_word, lang1), (l2_word, lang2))
+                            concept_dists[(l1_word, l2_word)] = dist_func((l1_word, lang1), (l2_word, lang2))
                 
                 if len(concept_dists) > 0:
-                    #dists[concept] = min(concept_dists.values())
-                    dists[concept] = mean(concept_dists.values())
+                    if sim == False:
+                        dists[concept] = min(concept_dists.values())
+                    else:
+                        dists[concept] = max(concept_dists.values())
+                    #dists[concept] = mean(concept_dists.values())
                 else:
                     if (l1_wordcount > 0) and (l2_wordcount > 0):
-                        dists[concept] = 5
+                        dists[concept] = noncognate_value
             
             return mean(dists.values())
             
@@ -378,7 +407,7 @@ class Dataset:
         draw_dendrogram(group=languages, 
                         labels=names, 
                         dist_func=cognate_dist, 
-                        sim=False, 
+                        sim=sim, 
                         method=method, 
                         title=title, 
                         save_directory=save_directory, 
@@ -428,7 +457,8 @@ class Language(Dataset):
         self.tonal = False
         
         #Phonological contexts
-        self.bigrams = defaultdict(lambda:defaultdict(lambda:0))
+        self.unigrams = defaultdict(lambda:0)
+        self.bigrams = defaultdict(lambda:0)
         self.trigrams = defaultdict(lambda:0)
         self.gappy_trigrams = defaultdict(lambda:0)
         self.info_contents = {}
@@ -479,6 +509,7 @@ class Language(Dataset):
                 #Count phones
                 for segment in segments:
                     self.phonemes[segment] += 1
+                    self.unigrams[segment] += 1
             
                 #Count trigrams and gappy trigrams
                 padded_segments = ['#', '#'] + segments + ['#', '#']
@@ -488,6 +519,14 @@ class Language(Dataset):
                     self.gappy_trigrams[('X', padded_segments[j], padded_segments[j+1])] += 1
                     self.gappy_trigrams[(padded_segments[j-1], 'X', padded_segments[j+1])] += 1
                     self.gappy_trigrams[(padded_segments[j-1], padded_segments[j], 'X')] += 1
+                
+                #Count bigrams
+                padded_segments = padded_segments[1:-1]
+                for j in range(1, len(padded_segments)):
+                    bigram = (padded_segments[j-1], padded_segments[j])
+                    self.bigrams[bigram] += 1
+                    
+        
         
         #Normalize counts
         total_tokens = sum(self.phonemes.values())
@@ -587,6 +626,38 @@ class Language(Dataset):
         self.info_contents[''.join(padded[2:-2])] = info_content
         return info_content
     
+    
+    def bigram_probability(self, bigram, delta=0.7):
+        """Returns Kneser-Ney smoothed conditional probability P(p2|p1)"""
+        
+        p1, p2 = bigram
+        
+        #Total number of distinct bigrams
+        n_bigrams = len(self.bigrams)
+        
+        #List of bigrams starting with p1
+        start_p1 = [b for b in self.bigrams if b[0] == p1]
+        
+        #Number of bigrams starting with p1
+        n_start_p1 = len(start_p1)
+        
+        #Number of bigrams ending in p2
+        n_end_p2 = len([b for b in self.bigrams if b[1] == p2])
+        
+        #Unigram probability estimation
+        pKN_p1 = n_end_p2 / n_bigrams
+        
+        #Normalizing constant lambda
+        total_start_p1_counts = sum([self.bigrams[b] for b in start_p1])
+        l_KN = (delta / total_start_p1_counts) * n_start_p1
+        
+        #Bigram probability estimation
+        numerator = max((self.bigrams.get(bigram, 0)-delta), 0)
+        
+        return (numerator/total_start_p1_counts) + (l_KN*pKN_p1)
+        
+        
+    
     def phone_dendrogram(self, 
                          distance='weighted_dice', 
                          method='complete', 
@@ -644,3 +715,9 @@ all_languages = [families[family].languages[lang] for family in families
 all_families = [families[family] for family in families]
 total_languages = len(all_languages)
 total_families = len(all_families)
+
+#Load common concepts
+common_concepts = pd.read_csv(str(parent_dir) + '/Datasets/Concepts/common_concepts.csv', sep='\t')
+common_concepts = set(concept 
+                      for i, row in common_concepts.iterrows() 
+                      for concept in row['Alternate_Labels'].split('; '))
