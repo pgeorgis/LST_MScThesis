@@ -145,7 +145,7 @@ class PhonemeCorrDetector:
 
 
     def calc_phoneme_pmi(self, radius=2, max_iterations=10,
-                          p_threshold=0.1,
+                          p_threshold=0.05,
                           seed=1, 
                           print_iterations=False, save=True):
         """
@@ -179,16 +179,14 @@ class PhonemeCorrDetector:
         #First step: calculate probability of phones co-occuring within within 
         #a set radius of positions within their respective words
         synonyms_radius = self.radial_counts(self.same_meaning, radius)
-        #non_synonyms_radius = self.radial_counts(diff_sample, radius)
-        pmi_step1 = self.phoneme_pmi(dependent_probs=synonyms_radius) #,
-                                     #independent_probs=non_synonyms_radius)
+        pmi_step1 = self.phoneme_pmi(dependent_probs=synonyms_radius)
     
-        #At each following iteration, re-align using the pmi_stepN as an additional
-        #penalty, and then recalculate PMI
+        #At each following iteration N, re-align using the pmi_stepN as an 
+        #additional penalty, and then recalculate PMI
         iteration = 0
         PMI_iterations = {iteration:pmi_step1}
         qualifying_words = default_dict({iteration:sorted(self.same_meaning)}, l=[])
-        disqualified_words = default_dict({iteration:sorted(diff_sample)}, l=[])
+        disqualified_words = default_dict({iteration:diff_sample}, l=[])
         while (iteration < max_iterations) and (qualifying_words[iteration] != qualifying_words[iteration-1]):
             iteration += 1
             
@@ -229,7 +227,7 @@ class PhonemeCorrDetector:
                 else:
                     disqualified.append(item)
             qualifying_words[iteration] = sorted(qualifying)
-            disqualified_words[iteration] = sorted(disqualified)
+            disqualified_words[iteration] = disqualified + diff_sample
             
             #Print results of this iteration
             if print_iterations == True:
@@ -288,9 +286,20 @@ class PhonemeCorrDetector:
                                                                                  d=d), negative=negative))
         surprisal_values = default_dict(surprisal_values, l=defaultdict(lambda:-self.lang2.phoneme_entropy))
         return surprisal_values
-
     
-    def calc_phoneme_surprisal(self, radius=2, ngram_size=1, max_iterations=3, save=True):
+    
+    def calc_phoneme_surprisal(self, radius=2, 
+                               max_iterations=10, 
+                               p_threshold=0.05,
+                               ngram_size=2,
+                               print_iterations=False,
+                               seed=1,
+                               save=True):
+        random.seed(seed)
+        #Take a sample of different-meaning words, as large as the same-meaning set
+        sample_size = len(self.same_meaning)
+        diff_sample = random.sample(self.diff_meaning, min(sample_size, len(self.diff_meaning)))
+
         #First get counts of how many times phonemes co-occur within a set radius 
         synonyms_radius = self.radial_counts(self.same_meaning, radius, normalize=False)
         
@@ -302,7 +311,7 @@ class PhonemeCorrDetector:
         iteration = 0
         surprisal_iterations = {iteration:surprisal_values}
         qualifying_words = default_dict({iteration:sorted(self.same_meaning)}, l=[])
-        disqualified_words = defaultdict(lambda:[])
+        disqualified_words = default_dict({iteration:diff_sample}, l=[])
         while (iteration < max_iterations) and (qualifying_words[iteration] != qualifying_words[iteration-1]):
             iteration += 1
             #Align the qualifying words of the previous step
@@ -318,30 +327,56 @@ class PhonemeCorrDetector:
                                                                                                exclude_null=False), 
                                                                      negative=True)
             
-            #Filter out alignments whose overall surprisal score is greater than
-            #the phoneme entropy of lang2
+            #Align all same-meaning word pairs
             all_alignments = self.align_wordlist(self.same_meaning, 
                                                  added_penalty_dict=surprisal_iterations[iteration-1], 
                                                  gop=-self.lang2.phoneme_entropy)
+
+            #Align the sample of different meaning and non-qualifying words 
+            #again using previous step's surprisal
+            noncognate_alignments = self.align_wordlist(disqualified_words[iteration-1],
+                                                        added_penalty_dict=surprisal_iterations[iteration-1],
+                                                        gop=-self.lang2.phoneme_entropy)
+            
+            #Score surprisal for different meaning words and words disqualified in previous iteration
+            noncognate_surprisal = [adaptation_surprisal(alignment, 
+                                                         surprisal_dict=surprisal_iterations[iteration], normalize=True) 
+                                    for alignment in noncognate_alignments]
+
+            #Score same-meaning alignments for surprisal and calculate p-value
+            #against different-meaning alignments
             qualifying, disqualified = [], []
             for i in range(len(self.same_meaning)):
                 alignment = all_alignments[i]
                 item = self.same_meaning[i]
-                try:
-                    surprisal_score = adaptation_surprisal(alignment, surprisal_dict=surprisal_iterations[iteration],
+                surprisal_score = adaptation_surprisal(alignment, surprisal_dict=surprisal_iterations[iteration],
                                                            normalize=True)
-                except KeyError:
-                    print(item, alignment, type(surprisal_iterations[iteration]))
-                    continue
-                segs2 = [pair[1] for pair in alignment if pair[1] != '-']
-                self_surprisal = self.lang2.calculate_infocontent(segs2, segmented=True)
-                self_surprisal = mean([self_surprisal[i][1] for i in self_surprisal])
-                if -surprisal_score < self_surprisal:
+                p_value = (len([score for score in noncognate_surprisal if score >= surprisal_score])+1) / (len(noncognate_surprisal)+1)
+                if p_value < p_threshold:
                     qualifying.append(item)
                 else:
                     disqualified.append(item)
             qualifying_words[iteration] = sorted(qualifying)
-            disqualified_words[iteration] = sorted(disqualified)
+            disqualified_words[iteration] = disqualified + diff_sample
+            
+            #Print results of this iteration
+            if print_iterations == True:
+                print(f'Iteration {iteration}')
+                print(f'\tQualified: {len(qualifying)}')
+                added = [item for item in qualifying_words[iteration]
+                         if item not in qualifying_words[iteration-1]]
+                for item in added:
+                    word1, word2 = item[0][1], item[1][1]
+                    ipa1, ipa2 = item[0][2], item[1][2]
+                    print(f'\t\t{word1} /{ipa1}/ - {word2} /{ipa2}/')
+                
+                print(f'\tDisqualified: {len(disqualified)}')
+                removed = [item for item in qualifying_words[iteration-1]
+                         if item not in qualifying_words[iteration]]
+                for item in removed:
+                    word1, word2 = item[0][1], item[1][1]
+                    ipa1, ipa2 = item[0][2], item[1][2]
+                    print(f'\t\t{word1} /{ipa1}/ - {word2} /{ipa2}/')
         
         #Return and save the final iteration's surprisal results
         results = surprisal_iterations[iteration]
@@ -350,7 +385,9 @@ class PhonemeCorrDetector:
         
         return results
             
-        
+    
+
+
             
             
             

@@ -325,6 +325,55 @@ def get_sonority(sound):
     return sonority
 
 
+def prosodic_environment_weight(segments, i):
+    """Returns the relative prosodic environment weight of a segment within
+    a word, based on List (2012)"""
+    
+    #Word-initial segments
+    if i == 0:
+        #Word-initial consonants: weight 7
+        if strip_diacritics(segments[i])[0] in consonants:
+            return 7
+        
+        #Word-initial vowels: weight 6
+        else:
+            return 6
+    
+    #Word-final segments
+    elif i == len(segments)-1:
+        stripped_segment = strip_diacritics(segments[i])[0]
+        
+        #Word-final consonants: weight 2
+        if stripped_segment in consonants:
+            return 2
+        
+        #Word-final vowels: weight 1
+        elif stripped_segment in vowels:
+            return 1
+        
+        #Word-final tonemes: weight 0
+        else:
+            return 0
+    
+    #Word-medial segments
+    else:
+        prev_segment, segment_i, next_segment = segments[i-1], segments[i], segments[i+1]
+        prev_sonority, sonority_i, next_sonority = map(get_sonority, [prev_segment, 
+                                                                      segment_i, 
+                                                                      next_segment])
+        
+        #Sonority peak: weight 3
+        if prev_sonority <= sonority_i >= next_sonority:
+            return 3
+        
+        #Descending sonority: weight 4
+        elif prev_sonority >= sonority_i >= next_sonority:
+            return 4
+        
+        #Ascending sonority: weight 5
+        else:
+            return 5
+
 
 #WORD SEGMENTATION
 def segment_word(word, remove_ch=[]):
@@ -584,7 +633,42 @@ def compare_measures(seg1, seg2):
     return measures
 
 
-#WORD-LEVEL PHONETIC COMPARISON AND ALIGNMENT
+#WORD-LEVEL PHONETIC COMPARISON AND ALIGNMENT'
+def compatible_segments(seg1, seg2):
+    """Returns True if the two segments are either:
+        two consonants
+        two vowels
+        a vowel and a sonorant consonant (nasals, liquids, glides)
+        two tonemes
+    Else returns False"""
+    strip_seg1, strip_seg2 = map(strip_diacritics, [seg1, seg2])
+    if strip_seg1[0] in consonants:
+        if strip_seg2[0] in consonants:
+            return True
+        elif strip_seg2[0] in vowels:
+            if phone_id(seg1)['sonorant'] == 1:
+                return True
+            else:
+                return False
+        else:
+            return False
+    elif strip_seg1[0] in vowels:
+        if strip_seg2[0] in vowels:
+            return True
+        elif strip_seg2[0] in consonants:
+            if phone_id(seg2)['sonorant'] == 1:
+                return True
+            else:
+                return False
+        else:
+            return False
+    #Tonemes
+    else: 
+        if strip_seg2[0] in tonemes:
+            return True
+        else:
+            return False
+
 def align_costs(seq1, seq2, 
                 dist_func, sim=False, 
                 **kwargs):
@@ -628,7 +712,7 @@ def log_phone_sim_sonority(seg1, seg2, distance='weighted_dice', max_penalty=-7)
 
 def phone_align(word1, word2, 
                 dist_func=phone_sim, sim=True,
-                gop=-1.22,
+                gop=-0.7,
                 added_penalty_dict=None,
                 segmented=False,
                 **kwargs):
@@ -702,149 +786,3 @@ def reverse_alignment(alignment):
     return reverse
 
 
-def word_sim(word1, word2=None, sim_func=phone_sim, **kwargs):
-    """Calculates phonetic similarity of an alignment without weighting by 
-    segment type, position, etc.
-    word1 : string (first word, unaligned) or list (alignment of two words)
-    word2 : string (second word, unaligned)"""
-    if word2 != None:
-        alignment = phone_align(word1, word2, **kwargs)
-    else:
-        alignment = word1
-    
-    phone_sims = [sim_func(pair[0], pair[1], **kwargs) 
-                  if '-' not in pair else 0 
-                  for pair in alignment]
-    
-    return mean(phone_sims)
-
-
-def word_dist(word1, word2=None, 
-              sim_func=phone_sim, **kwargs):
-    """Calculates phonetic similarity of an alignment without weighting by 
-    segment type, position, etc.
-    
-    word1 : string (first word), list (alignment of two words), 
-            or tuple (first word, second language)
-    word2 : string (second word) or tuple (second word, second language)"""
-    
-    #If the languages are specified, calculate the informativity of each segment
-    if (type(word1) == tuple and type(word2) == tuple):
-        word1, lang1 = word1
-        word2, lang2 = word2
-        #Remove stress and tone diacritics; syllabic diacritics (above and below); spaces
-        diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ']
-        word_info1 = lang1.calculate_infocontent(strip_ch(word1, diacritics_to_remove))
-        word_info2 = lang2.calculate_infocontent(strip_ch(word2, diacritics_to_remove))
-    else:
-        lang1, lang2 = None, None
-    
-    #If word2 == None, we assume word1 argument is actually an aligned word pair
-    #Otherwise, align the two words
-    if word2 != None:
-        
-        #If lang1 and lang2 are provided, supply their phoneme PMI as additional penalties for alignment
-        if (lang1, lang2) != (None, None):
-            
-            
-            alignment = phone_align(word1, word2, **kwargs)
-        else:
-            alignment = phone_align(word1, word2, **kwargs)
-    else:
-        alignment = word1
-    
-    #Get list of penalties
-    penalties = []
-    for i in range(len(alignment)):
-        pair = alignment[i]
-        seg1, seg2 = pair
-        
-        #If the pair is a gap-aligned segment, assign the penalty 
-        #based on the sonority and information content (if available) of the deleted segment
-        if '-' in pair:
-            penalty = 1
-            if seg1 == '-':
-                deleted_segment = seg2
-                
-                #Check whether information content was calculated
-                #If so, retrieve information content of deleted segment
-                if (lang1, lang2) != (None, None): 
-                    index = len([alignment[j][1] for j in range(i) if alignment[j][1] != '-'])
-                    seg_info = word_info2[index][1]
-                    penalty *= seg_info
-                
-            else:
-                deleted_segment = seg1
-                #Check whether information content was calculated
-                #If so, retrieve information content of deleted segment
-                if (lang1, lang2) != (None, None): 
-                    index = len([alignment[j][0] for j in range(i) if alignment[j][0] != '-'])
-                    seg_info = word_info1[index][1]
-                    penalty *= seg_info
-            
-            sonority = get_sonority(deleted_segment)
-            sonority_penalty = 1-(sonority/(max_sonority+1))
-            penalty *= sonority_penalty
-            penalties.append(penalty)
-        
-        #Otherwise take the penalty as the phonetic distance between the aligned segments
-        else:
-            distance = 1 - sim_func(seg1, seg2)#, **kwargs)
-            penalties.append(distance)
-    
-    return mean(penalties)
-    
-
-def segmental_word_sim(alignment, c_weight=0.5, v_weight=0.3, syl_weight=0.2):
-    """Calculates the phonetic similarity of an aligned word pair according to
-    weighted sum of similarity of consonantal segments, vocalic segments, and 
-    syllable structure"""
-    
-    #Iterate through pairs of alignment:
-    #Add fully consonant pairs to c_list, fully vowel/glide pairs to v_list
-    #(ignore pairs of matched non-glide consonants with vowels)
-    #and create syllable structure string for each word
-    c_pairs, v_pairs = [], []
-    syl_structure1, syl_structure2 = [], []
-    for pair in alignment:
-        strip_pair = (strip_diacritics(pair[0])[-1], strip_diacritics(pair[1])[-1])
-        if (strip_pair[0] in consonants) and (strip_pair[1] in consonants):
-            c_pairs.append(pair)
-            syl_structure1.append('C')
-            syl_structure2.append('C')
-        elif (strip_pair[0] in vowels+glides) and (strip_pair[1] in vowels+glides):
-            v_pairs.append(pair)
-            syl_structure1.append('V')
-            syl_structure2.append('V')
-        else:
-            if strip_pair[0] in consonants:
-                syl_structure1.append('C')
-            elif strip_pair[0] in vowels:
-                syl_structure1.append('V')
-            if strip_pair[1] in consonants:
-                syl_structure2.append('C')
-            elif strip_pair[1] in vowels:
-                syl_structure2.append('V')
-    
-    #Count numbers of consonants and vowels
-    N_c = max(syl_structure1.count('C'), syl_structure2.count('C'))
-    N_v = max(syl_structure1.count('V'), syl_structure2.count('V'))
-    
-    #Consonant score: mean phonetic similarity of all matched consonantal pairs, divided by number of consonant segments
-    try:
-        c_score = sum([phone_sim(pair[0], pair[1]) for pair in c_pairs]) / N_c
-    except ZeroDivisionError:
-        c_score = 1
-    
-    #Vowel score: sum of phonetic similarity of all matched vowel pairs, divided by number of vowel segments
-    try:
-        v_score = sum([phone_sim(pair[0], pair[1]) for pair in v_pairs]) / N_v
-    except ZeroDivisionError:
-        v_score = 1
-    
-    #Syllable score: length-normalized Levenshtein distance of syllable structure strings
-    syl_structure1, syl_structure2 = ''.join(syl_structure1), ''.join(syl_structure2)
-    syl_score = 1 - (edit_distance(syl_structure1, syl_structure2) / len(alignment))
-    
-    #Final score: weighted sum of each component score
-    return (c_weight * c_score) + (v_weight * v_score) + (syl_weight * syl_score)

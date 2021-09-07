@@ -9,6 +9,7 @@ parent_dir = local_dir.parent
 from phonetic_distance import *
 from word_evaluation import *
 from phoneme_correspondences import PhonemeCorrDetector
+from linguistic_distance import *
 
 class Dataset: 
     def __init__(self, filepath, name, 
@@ -271,10 +272,10 @@ class Dataset:
                        for i in range(len(self.cognate_sets[cognate_id][key]))]
         labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
         
-        if dist_func in [word_sim, word_adaptation_surprisal, score_pmi]:
-            #For this function, it requires tuple input of (word, lang)
-            langs = [self.languages[lang] for lang in lang_labels]
-            words = list(zip(words, langs))
+        #if dist_func in [word_sim, word_adaptation_surprisal, score_pmi]:
+        #For this function, it requires tuple input of (word, lang)
+        langs = [self.languages[lang] for lang in lang_labels]
+        words = list(zip(words, langs))
         
         if title == None:
             title = f'{self.name} "{cognate_id}"'
@@ -292,40 +293,45 @@ class Dataset:
                         **kwargs
                         )
     
-    def cluster_cognates(self, concept,
+    def cluster_cognates(self, concept_list,
                          dist_func, sim,
                          cutoff,
                          method='average',
                          **kwargs):
-        words = [entry[1] for lang in self.concepts[concept] 
-                 for entry in self.concepts[concept][lang]]
-        lang_labels = [lang for lang in self.concepts[concept] 
-                       for entry in self.concepts[concept][lang]]
-        labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
-        
-        if dist_func in [word_sim, word_adaptation_surprisal, score_pmi]:
+        clustered_cognates = {}
+        for concept in sorted(concept_list):
+            #print(f'Clustering words for "{concept}"...')
+            words = [entry[1] for lang in self.concepts[concept] 
+                     for entry in self.concepts[concept][lang]]
+            lang_labels = [lang for lang in self.concepts[concept] 
+                           for entry in self.concepts[concept][lang]]
+            labels = [f'{lang_labels[i]} /{words[i]}/' for i in range(len(words))]
+            
+            #if dist_func in [word_sim, word_adaptation_surprisal, score_pmi]:
             #For this function, it requires tuple input of (word, lang)
             langs = [self.languages[lang] for lang in lang_labels]
             words = list(zip(words, langs))
-
+    
+            
+            clusters = cluster_items(group=words,
+                                     labels=labels,
+                                     dist_func=dist_func,
+                                     sim=sim,
+                                     cutoff=cutoff,
+                                     **kwargs)
+            
+            clustered_cognates[concept] = clusters
         
-        clusters = cluster_items(group=words,
-                                 labels=labels,
-                                 dist_func=dist_func,
-                                 sim=sim,
-                                 cutoff=cutoff,
-                                 **kwargs)
-        
-        return clusters
+        return clustered_cognates
     
     
     def evaluate_clusters(self, concept, 
                           dist_func, sim, cutoff, 
                           method='average', **kwargs):
-        auto_clusters = self.cluster_cognates(concept=concept, 
+        auto_clusters = self.cluster_cognates(concept_list=[concept], 
                                               dist_func=dist_func, sim=sim, 
                                               cutoff=cutoff, method=method,
-                                              **kwargs)
+                                              **kwargs)[concept]
         auto_clusters = {item:set([i]) for i in auto_clusters 
                          for item in auto_clusters[i]}
         gold_clusters = {f'{lang} /{strip_ch(tr, ["(", ")"])}/':set([c]) 
@@ -340,25 +346,33 @@ class Dataset:
     
     
     def draw_tree(self, 
-                  dist_func, sim, concept_list=None,
-                  cognates='auto', cutoff=None, noncognate_value=5,
-                  method='average', title=None, save_directory=None):
+                  dist_func, sim, concept_list=None,                  
+                  cluster_func=None, cluster_sim=None, cutoff=None,
+                  cognates='auto', 
+                  method='average', title=None, save_directory=None,
+                  return_newick=False,
+                  **kwargs):
+        
+        #Use all available concepts by default
         if concept_list == None:
             concept_list = sorted(list(self.concepts.keys()))
         else:
             concept_list = sorted([concept for concept in concept_list 
                                    if concept in self.concepts])
         
-        clustered_concepts = defaultdict(lambda:defaultdict(lambda:[]))
+        #Automatic cognate clustering        
         if cognates == 'auto':
+            assert cluster_func != None
+            assert cluster_sim != None
             assert cutoff != None
-            for concept in concept_list:
-                print(f'Clustering words for "{concept}"...')
-                clustered_concepts[concept] = self.cluster_cognates(concept, 
-                                                                    dist_func=dist_func,
-                                                                    sim=sim, 
-                                                                    cutoff=cutoff)
-        else:
+            clustered_concepts = self.cluster_cognates(concept_list,
+                                                       dist_func=cluster_func, 
+                                                       sim=cluster_sim, 
+                                                       cutoff=cutoff)
+
+        #Use gold cognate classes
+        elif cognates == 'gold':
+            clustered_concepts = defaultdict(lambda:defaultdict(lambda:[]))
             for concept in concept_list:
                 cognate_ids = [cognate_id for cognate_id in self.cognate_sets 
                                if cognate_id.split('_')[0] == concept]
@@ -367,52 +381,32 @@ class Dataset:
                         for form in self.cognate_sets[cognate_id][lang]:
                             form = strip_ch(form, ['(', ')'])
                             clustered_concepts[concept][cognate_id].append(f'{lang} /{form}/')
-                        
-        def cognate_dist(lang1, lang2, clustered_cognates=clustered_concepts):
-            dists = {}
-            for concept in clustered_cognates:
-                concept_dists = {}
-                l1_wordcount, l2_wordcount = 0, 0
-                for cognate_id in clustered_cognates[concept]:
-                    items = [entry.split('/') for entry in clustered_cognates[concept][cognate_id]]
-                    items = [(self.languages[item[0].strip()], item[1])
-                             for item in items]
-                    l1_words = [item[1] for item in items if item[0] == lang1]
-                    l2_words = [item[1] for item in items if item[0] == lang2]
-                    l1_wordcount += len(l1_words)
-                    l2_wordcount += len(l2_words)
-                    for l1_word in l1_words:
-                        for l2_word in l2_words:
-                            concept_dists[(l1_word, l2_word)] = dist_func((l1_word, lang1), (l2_word, lang2))
-                
-                if len(concept_dists) > 0:
-                    if sim == False:
-                        dists[concept] = min(concept_dists.values())
-                    else:
-                        dists[concept] = max(concept_dists.values())
-                    #dists[concept] = mean(concept_dists.values())
-                else:
-                    if (l1_wordcount > 0) and (l2_wordcount > 0):
-                        dists[concept] = noncognate_value
-            
-            return mean(dists.values())
-            
         
+        #Raise error for unrecognized cognate clustering methods
+        else:
+            print(f'Error: cognate clustering method "{cognates}" not recognized!')
+            raise ValueError
+        
+        #Dendrogram characteristics
         languages = [self.languages[lang] for lang in self.languages]
         names = [lang.name for lang in languages]
         if title == None:
             title = f'{self.name}'
         if save_directory == None:
             save_directory = self.directory
-        draw_dendrogram(group=languages, 
-                        labels=names, 
-                        dist_func=cognate_dist, 
-                        sim=sim, 
-                        method=method, 
-                        title=title, 
-                        save_directory=save_directory, 
-                        #clustered_cognates = clustered_concepts
-                        )
+        
+        return draw_dendrogram(group=languages, 
+                               labels=names, 
+                               dist_func=dist_func, 
+                               sim=sim, 
+                               method=method, 
+                               title=title, 
+                               save_directory=save_directory, 
+                               return_newick=return_newick,
+                               clustered_cognates=clustered_concepts, #better way?
+                               **kwargs
+                               )
+    
     
     def examine_cognates(self, language_list, concepts=None):
         if concepts == None:

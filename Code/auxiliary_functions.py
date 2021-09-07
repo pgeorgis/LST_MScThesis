@@ -250,6 +250,7 @@ def draw_dendrogram(group, dist_func, title=None, sim=False, labels=None,
                     p=30, method='average', metric='euclidean',
                     orientation='left', 
                     save_directory='',
+                    return_newick=False,
                     **kwargs):
     sns.set(font_scale=1.0)
     if len(group) >= 100:
@@ -264,6 +265,8 @@ def draw_dendrogram(group, dist_func, title=None, sim=False, labels=None,
         plt.title(title, fontsize=30)
     plt.savefig(f'{save_directory}{title}.png', bbox_inches='tight', dpi=300)
     plt.show()
+    if return_newick == True:
+        return linkage2newick(lm, labels)
 
 def getNewick(node, newick, parentdist, leaf_names):
     #source: https://stackoverflow.com/questions/28222179/save-dendrogram-to-newick-format
@@ -280,6 +283,11 @@ def getNewick(node, newick, parentdist, leaf_names):
         return newick
 
 def linkage2newick(linkage_matrix, leaf_labels):
+    #Convert parentheses in labels to brackets, as parentheses are part of Newick format
+    for i in range(len(leaf_labels)):
+        leaf_labels[i] = re.sub("\(", "{", leaf_labels[i])
+        leaf_labels[i] = re.sub("\)", "}", leaf_labels[i])
+    
     tree = to_tree(linkage_matrix, False)
     return getNewick(tree, "", tree.dist, leaf_labels)
 
