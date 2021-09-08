@@ -28,6 +28,9 @@ class Dataset:
         self.filepath = filepath
         self.directory = self.filepath.rsplit('/', maxsplit=1)[0] + '/'
         
+        #Create a folder for plots within the dataset's directory
+        create_folder('Plots', self.directory)
+        
         #Columns of dataset
         self.id_c = id_c
         self.language_name_c = language_name_c
@@ -281,7 +284,7 @@ class Dataset:
             title = f'{self.name} "{cognate_id}"'
         
         if save_directory == None:
-            save_directory = self.directory
+            save_directory = self.directory + '/Plots'
         
         draw_dendrogram(group=words,
                         labels=labels,
@@ -393,7 +396,7 @@ class Dataset:
         if title == None:
             title = f'{self.name}'
         if save_directory == None:
-            save_directory = self.directory
+            save_directory = self.directory + '/Plots'
         
         return draw_dendrogram(group=languages, 
                                labels=names, 
@@ -661,7 +664,7 @@ class Language(Dataset):
             title = f'{self.name} Phonemes'
         
         if save_directory == None:
-            save_directory = self.family.directory
+            save_directory = self.family.directory + '/Plots'
             
         phonemes = list(self.phonemes.keys())
         

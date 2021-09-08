@@ -1,6 +1,6 @@
 from collections import defaultdict
 import pandas as pd
-import math, unidecode, re, operator
+import math, unidecode, re, operator, os
 import numpy as np
 from statistics import mean, stdev
 from matplotlib import pyplot as plt
@@ -37,6 +37,16 @@ def keywithminval(d):
     v = list(d.values())
     k = list(d.keys())
     return k[v.index(min(v))]
+
+def create_folder(folder_name, directory=None):
+    """Creates a folder with the specified name, by default in the current
+    working directory (or else in a specified directory)"""
+    cwd = os.getcwd()
+    if directory != None:
+        os.chdir(directory)
+    if not os.path.exists(folder_name):
+        os.makedirs(folder_name)
+    os.chdir(cwd)
 
 #%%
 #STRING MANIPULATION
