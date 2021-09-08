@@ -10,7 +10,6 @@ grandparent_dir = parent_dir.parent
 #Load phonetic distance data and auxiliary functions
 os.chdir(str(grandparent_dir) + '/Code')
 from auxiliary_functions import strip_ch
-os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
 from phonetic_distance import *
 os.chdir(local_dir)
 
@@ -33,7 +32,7 @@ sh = turkic_vocab['Sheet1']
 columns = [i[0].column_letter for i in list(sh.columns)]
 rows = list(range(1,len(list(sh.rows))+1))
 
-data_columns = columns[2:columns.index('BM')]
+data_columns = columns[2:columns.index('BO')]
 
 #Extract language labels 
 lang_labels = [(sh[f'{c}1'].value, c) for c in data_columns if data_columns.index(c) % 2 == 0]
@@ -65,7 +64,9 @@ conversion_dict = {#Consonants
                    'ä':'ɛ', #seems to be the common Turkic orthographic form for /ɛ/
                    'ẹ':'e', #unknown, but 'ẹ' seems to correspond with /e/ between Proto-Turkic and Old Turkic
                    'ï':'ɯ', #mistakenly left in common Turkic orthographic form
+                   'ö':'ø',
                    'ụ':'u', #meant to be /u/ according to same word entry in NorthEuraLex for Chuvash (mountain, /tu/)
+                   'ü':'y',
                    'Ɯ':'ɯ',
 
                    #Vowel/consonant harmony

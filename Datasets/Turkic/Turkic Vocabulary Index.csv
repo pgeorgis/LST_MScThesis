@@ -1,896 +1,909 @@
-Gloss	Azerbaijani	Baraba Tatar	Bashkir	Chulym	Chuvash	Crimean Tatar	Cuman	Dolgan	Gagauz	Kara-Kalpak	Karachay-Balkar	Karaim	Kazakh	Khakas	Khalaj	Kumyk	Kyrgyz	Nogai	Northern Altai	Old Turkic	Salar	Shor	Southern Altai	Tatar	Tofa	Turkish	Turkmen	Tuvan	Uyghur	Uzbek	West Yugur
-ABOVE_1	ystyndæ~yzærindæ	yst	østønɛn			yst~yzer	øzɛ~ustun		ystyndɛ~yzerindɛ	ystinde		yst	ystɘnen~ɘnde	ystynʤe~ynde		ystynde	ystyndø	ystinde	yst	yz~yst	iʃt	ystynde	ystyle~ystynde	østennɛn	yˤstynde	yzerinde~ystynde	yʃtynde	yʃt	ystidɛ~yzrɛ	ustidɑ	jyze
-ABOVE_2								yrdynen																							
-ABOVE_3					ɕijɘn																										
-ABOVE_4											bɑʃɯndɑ										bɑʃ						bɑʃɯndɑ				
-ABOVE_5												ɑʃɯrɑ													ɑʤɯrɯ						
-ABOVE_6																												qɯrɯ			
-ANT_1			qɯrmɯθqɑ	qumursqɑ		qɯmɯrsqɑ				qumɯrsqɑ	qumursχɑ	kumurskɑ	qʊmɯrsqɑ	χɯmɯsχɑ	ɡumurɣɑːʧ	χomursɣɑ	qumursqɑ	qumɯrsqɑ		qumursɣɑ	qumusqɑ	qɯmɯsqɑʃ		qɯrmɯsqɑ	hɯmɯsqɑ			qɯmɯsqɑjɑq			
-ANT_2	ɡɑrɯʃɡɑ					qɑrɯnʤɑ			kɑrɯmʤɑ																	kɑrɯnʤɑ	ɡɑrɯnʤɑ				
-ANT_3																			ʧubɑlɑ	ʧymeli			ʧɯmɑlɯ						ʧømyli	ʧumɔli	
-ARM OR HAND_1	ɡol	qol	qul	qol	χul	qol			kol	qol	qol	kol	qol	χol	qol	qol	qol	qol	qol	qol	qol	qol	qol	qul	qol	koɫ	ɡol	χol	qol	qol	qol
-ARM OR HAND_2	æl				ɑlɤ̆ʷ	el	el	iliː	el						ɛl					eliɡ	el~il					elʲ	el				elɯɣ~eliɡ
-ARM OR HAND_3											bilek	bilek~bilɛk																			
-ASH_1	cyl		køl	kulʲ	kɘ̆ʷl	kyl		kyl	kyl	kyl	kyl	kyl	kyl	kyl	kil	kyl	kyl	kyl	kyl	kyl	kul~kyl	kyl	kyl	køl	hyl	cylʲ	kyl	χyl	kyl	kul	kul
-ASK (REQUEST)_1		sorɑ	horɑ	sur		sorɑ				sorɑ			sʊrɑ	sur			surɑ	sorɑ	surɑ			surɑ	surɑ	sorɑ		sor	θorɑ		sorɑ	sorɑ	
-ASK (REQUEST)_2	dilæ										tile					tile		tile		tile					tɘle			dile			tele
-ASK (REQUEST)_3								kørdøː																							
-ASK (REQUEST)_4	istæ					iste			iste																						
-ASK (REQUEST)_5					ɯjt																										
-ASK (REQUEST)_6																			øtør												
-ASK (REQUEST)_7																			øtør												
-ASK (REQUEST)_9							col					kol								kol											qol~qul
-AT_1	dɑ	tɑ	dɑ~tɑ~ðɑ~lɑ	tɑ~dɑ	rɑ~dɑ~tɑ		dɑ		dɑ~tɑ		dɑ	dɑ~tɑ				dɑ	dɑ~tɑ	dɑ~tɑ	tɑ~dɑ	tɑ	tɑ~dɑ	tɑ~dɑ	dɑ~tɑ		dɑ~tɑ	tɑ~dɑ	dɑ	dɑ~tɑ	dɑ~tɑ		tɑ~dɑ
-AT_3								ihiɡer																							
-AT_4															ʧɑ																
-BACK_1	ɑrχɑ	ɑrɣɑ	ɑrqɑ			ɑrqɑ	ɑrchɑ		ɑrkɑ	ɑrqɑ		ɑrkɑ~ɑrqɑ	ɑrqɑ	ɑrɣɑ	ɑrqɑ	ɑrqɑ	ɑrqɑ	ɑrqɑ	ɑrqɑ~ɑrɣɑ	ɑrqɑ	ɑrɣɑ~ɑrχɑ			ɑrqɑ		ɑrkɑ	ɑrqɑ		ɑrqɑ	ɔrqɑ	ɑrqɑ
-BACK_2																									oːrhɑ			oːrɣɑ			
-BACK_3				ʧɑːrən	ɕurɤ̆ʷm																										
-BACK_4																						køksy									
-BACK_5								his																							
-BACK_6				pɛl									bel						bel				bel								
-BACK_7											sɯrt								sɯrt					sɯrt		sɯrt					
-BAD_1	jɑmɑn	jɑmɑn					iɑmɑn			ʒɑmɑn	ɑmɑn	jɑmɑn	ʒɑmɑn			jɑmɑn	ʤɑmɑn	jɑmɑn	ɟɑmɑn	jɑmɑn	jɑmɑn		ɟɑmɑn	jɑmɑn			jɑmɑn		jɑmɑn	jɔmɔn	
-BAD_2																				jɑvlɑq		ʧɑbɑl									jus
-BAD_3								kuhɑɡɑn																							
-BAD_4				ʧyβyr																											
-BAD_5						jɑrɑmɑj																			ʧorɑːndɑ		jɑrɑmɑð				
-BAD_6																										cøty					
-BAD_7			ɑlɑmɑ																												
-BAD_8																									bɑˤq			bɑɣɑj			
-BARK_1	ɡɑbɯɡ	qɑbɯq	qɑbɯq		χubɤ̆ʷ	qɑbuq	cɑbuc		kɑbuk	qɑbɯq	qɑbuq	kɑbuk	qɑbɯq			qɑbuq	qɑbɯq	qɑbɯq	qɑɣɑʃ		koχ			qɑbɯq		kɑbuk~kɑbuːu	ɡɑbɯq		qovzɑq		
-BARK_2				qɑqβɑʧ										χɑχpɑs								qɑqpɑʃ									
-BARK_3								kɑtɯrɯk							qɑːɑs					qɑdɯz											qɑzdɯq
-BARK_4																									ʧøˤprɛː			ʧøvyreː			
-BE ALIVE_1	jɑʃɑ	yeʃɛ	jɛʃɛ			jɑʃɑ			jɑʃɑ	ʒɑsɑ	ʤɑʃɑ					jɑʃɑ	ʤɑʃɑ	jɑʃɑ		jɑʃɑ	jɑʃɑ			jɛʃɛ		jɑʃɑ	jɑʃɑ		jɑʃɑ	jɑʃɑ	jɑsɑ
-BE ALIVE_2																			cɑt			ʧɑt	ɟɑt								
-BE ALIVE_3				ʧurtɑ										ʧurtɑ					curtɑ									ʧurttɑ			
-BE ALIVE_4								olor																							
-BE ALIVE_5					purɤ̆ʷn																										
-BE ALIVE_6							tiril					tiril																			
-BE ALIVE_7																									ʧerlɛ						
-BEAT_1		soq	huɣ	soq				oɡus					soq				soq	soq	soq				soq	suq				soq			
-BEAT_2								hɯs				jɑnʧ																			
-BEAT_3								kɯrbɑː																							
-BEAT_4				sɑp	ɕɑp							ʧɑp		sɑp							ʧɑp	ʃɑp									
-BEAT_5			tuqmɑ																	toqɯ											
-BEAT_6									dyː												tøj										
-BEAT_7	vur					ur	ur			ur	ur	ur	ʊr		vur	ur	ur				vur					vur	ur		ur	ur	
-BEAT_8																									qɑˤq			qɑq			
-BEAT_9																								bɛr							per
-BELLY_1		ëʧ	es					is		iʃ			ɘs	ɘstɘ			iʧ	iʃ	iʧ~iʃ				iʧ		iˤʃtɘ		iʧ	iʒin	iʧ		iʧiɡe~iʧike~iʧiki~iʧikɯ
-BELLY_2			qorhɑq			qursɑq				qursɑq		kursɑχ				qursɑq	qursɑq	qursɑq			χusɑχ	qursɑq		qorsɑq					qosɑq		
-BELLY_3	ɡɑrɯn			qɑːrən	χɯrɤ̆ʷm	qɑrɯn	cɑren~kɑrin		kɑrnɯ	qɑrɯn	qɑrɯn	kɑrɯn	qɑrɯn	χɑrɯn	qɑrɯn				qɑrɯn	qɑrɯn		qɑrnɯ		qɑrɯn		kɑrɯn	ɡɑrɯn	χɯrɯn	qerin	qɔrin	qɑrɯn
-BIG_1										ylken			ylken					yjken													
-BIG_2		ulɯ~olu		uluɣ			ulu	ulɑkɑn			ullu	ullu		uluɣ		ullu				uluɣ	ullɯ	uluɣ			uluɣ		ulɯ	uluɣ			
-BIG_3	bøjyc					byjyk			byyk			bijik~byjyk			bydyk~bidik					bedyk						byjyc					pezik
-BIG_4					pɯzɤ̆ʷk																										
-BIRD_1	ɡuʃ	quʃ	qoʃ	qus~quʧɑq		quʃ	kus		kuʃ	qus		kuʃ~kus	qʊs	χus		quʃ	quʃ	qus	quʃ	quʃ	quʃ	quʃ	quʃ	qoʃ	quˤʃqɑʃ	kuʃ	ɡuʃ	quʃ	quʃ	quʃ	qus~qos
-BIRD_2								køtør																							
-BIRD_3											qɑnɑtlɯ						qɑnɑttuː														
-BIRD_4					kɑjɤ̆ʷk																										
-BITE_1	diʃlæ		teʃlɛ			tiʃle	tislɑ			tisle		tiʃle~ʧiʃle	tɘste				tiʃtø	tisle	tiʃte	tiʃle	ʧɯːʃle		tiʃte	teʃlɛ			diʃle		ʧiʃlɛ	tiʃlɑ	teste~tiste~tɯste
-BITE_2	ɡɑp			qɑp							qɑp		qɑp			χɑp		qɑp													
-BITE_3								ɯtɯr						ɯzɯr								ɯzɯr			ɯˤsɯr	ɯsɯr		ɯzɯr			
-BITE_4									dɑlɑ																						
-BITE_5					ɕɯrt																										
-BITTER_1	ɑʧɯ		ɛse~ɑsɯ	ɑʧəɣ	jyʑɘ	ɑʤʤɯ	ɑʧi	ɑhɯː	ɑʤɯ	ɑʃʃɯ	ɑʧɯ	ɑʧʧɯ~ɑʦɯ~ɑʤɯ	ɑʃʃɯ	ɑʧɯɣ	hɑːɑʧuɣ	ɑʧʧɯ	ɑʧuu	ɑʃʃɯ	ɑʤɯɣ	ɑʧɯɣ	ɑːʤɯ	ɑʧɯɣ	ɑʧu	ɑʧɯ	ɑʤɯɣ	ɑʤɯ	ɑʤɯ	ɑʒɯɣ	ɑʧʧiq	ɑʧʧiq	ɑʧɯɣ~ɑʧiɡ
-BLACK_1	ɡɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	χurɑ	qɑrɑ	kɑrɑ	kɑrɑ	kɑrɑ	qɑrɑ	qɑrɑ	kɑrɑ~qɑrɑ	qɑrɑ	χɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	kɑrɑ	ɡɑrɑ	qɑrɑ	qɑrɑ	qɔrɑ	qɑrɑ
-BLOOD_1	ɡɑn	qɑn	qɑn	qɑn	jun	qɑn	kɑn	kɑɑn	kɑn	qɑn	qɑn	kɑn~qɑn	qɑn	χɑn	qɑːn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	kɑn	ɡɑːn	χɑn	qɑn	qɔn	qɑn
-BLOW (OF WIND)_1	æs	ës	iθ			es			es	es					hɛs	eʃ		es						is		es	øθ~øwyθ		ɛs	es	
-BLOW (OF WIND)_10																			kir												
-BLOW (OF WIND)_11		jëlbɛn~jëlbë																		jeltir											
-BLOW (OF WIND)_2			ør	yr	vɘ̆ʷr			yr		yrle	yr	ir~yr	yrle	yr				yr		yr			yr	ør	yr			yr			
-BLOW (OF WIND)_3	yfyr					yfyr			yfle	yple				ybyr		yfyr					fur~fyr	ybyr				yflʲe	yfle				
-BLOW (OF WIND)_4							soq						soq				soq						soq								
-BLOW (OF WIND)_5															puflɑ															puflɑ	
-BLOW (OF WIND)_6																	yjlø														
-BLOW (OF WIND)_7																															enet
-BLOW (OF WIND)_8																													pydɛ~pylɛ		pute
-BLOW (OF WIND)_9																												χɑdɯ			
-BONE_1	symyc	syøk	højɛk	søøk	ʃɤ̆ʷmɤ̆ʷ		souɑt	oŋuok		syjek	syjek	sivek~syjek	syjek	søøk		syjek	søøk	syjek	søøk~søk	syŋyk	seniχ	søːk	søøk	søjɛk	søøk		θyŋk	søøk	søŋɛk~syŋɛk~syjɛk	sujɑk	sɯmɯq
-BONE_2						kemik			kemik																	cemic					
-BOTTOM_1	dib	typ	tøp	typ	tɘ̆ʷp	typ	tub	tyɡek	dip	typ	tyb	typ~kip	typ	typ		typ	typ	typ	typ			tybyn	typ	tøp	dyp	dip	dyjp	dyp	typ		tɯp~top~typ
-BOTTOM_2															tɛː														tɛɡ	tɑɡ	
-BOTTOM_3																					ɑʃɑːɣɯ										
-BRAIN_1	bejin	mijɛ	meje	miis	mime	mij	meŋ		bejin	mij	mɯjɯ	mij	mɯj	mii	mein	mij	mee	mɯj	mees~nee	meji	meŋes	miːs	mee	mi	meː	bejin	bejni	mee	mejɛ~miŋɛ	mijɑ	
-BRANCH_1	budɑɡ	botɑq~potɑq	botɑq			pɯtɑq	butɑc		budɑk	putɑq	butɑq	butɑk	bʊtɑq			butɑq	butɑq	butɑq	pudɑq	butɯq	putɑχ		budɑq	botɑq	buˤtuq	budɑk		buduq	putɑq		
-BRANCH_2																															ʧuqqo
-BRANCH_3					turɑt																										
-BRANCH_4								tɑlɑk	dɑl																	dɑɫ					
-BREAK (CLEAVE)_1	sɯndɯr	sɯndɯr	hɯndɯr	səndər		sɯndɯr	sindur			sɯndɯr	sɯndɯr	sɯndɯr	sɯndɯr	sɯndɯr	siː	sɯndɯr	sɯndɯr	sɯndɯr	sɯndɯr	sɯ	sundur	sɯndɯr	sɯndɯr	sɯndɯr	sɯˤq			sɯq~sɯj	sundur	sindir	sɯ
-BREAK (CLEAVE)_2	ɡɯr								kɯr																	kɯr					
-BREAK (CLEAVE)_4					ɕɘ̆ʷmɘ̆ʷr																								jemir		
-BREAK (CLEAVE)_5			vɑt				uv				uwɑt			oot										vɑt							
-BREAK (CLEAVE)_6																											døw				
-BREAST_1	cøcs	køkrɛk~kykrɛk	kykrɛk		kɤ̆ʷɡɤ̆ʷr	kokys	køksuɡ~køɡis		ɡyːs	køkyrek	køkyrek	køkrɛk~kekrek~køkrek~køkis~køχis	køkrek	køɡɘs~køksɘ	kiːes~køjs	køkyrek	køkyrøk	køkirek	køɡys	køɡyz	kyprɛχ		køɡys	kykrɛk		ɟøːys	kykrek		køkrɛk~køksɛ	kokrɑk	ɡøs
-BREAST_2	døʃ	tyʃ	tyʃ	tøs			tos	tyøs		tøs	tøʃ	tøʃ~tes	tøs			tøʃ			tøʃ	tøʃ		tøʃ	tøʃ	tyʃ	tøʃ		døʃ				tos~tus~tys
-BREAST_3										ɡewde			kewde																		
-BREATHE_1		tɯn	tɯn ɑl	tənŋɑ			tin	tɯːn				tɯn		tɯn		tɯnɯs ɑl		tɯnɯs ɑl		tɯn ɑl		tɯn	tɯn	tɯn ɑl	tɯn			tɯn	tin~tin tɑrt		
-BREATHE_2		sulɑ	hulɑ		sɯvlɑ				solu		solu													sulɯʃ ɑl		soɫuk ɑɫ~soɫun					
-BREATHE_3	næfæs ɑl	ɑl	tɯn ɑl			nefes ɑl				dem ɑl		nefes ɑl	dem ɑl			tɯnɯs ɑl	dem ɑl	tɯnɯs ɑl		tɯn ɑl				tɯn ɑl		nefes ɑɫ	dem ɑl			nɑfɑs ɔl	
-BURN_1	jɑn	jɑn	jɑn		ɕun	jɑn			jɑn	ʒɑn		jɑn	ʒɑn			jɑn	ʤɑn	jɑn	kyj					jɑn		jɑn	jɑn		jɑn	jɔn	
-BURN_2				koj			cyj				kyj	kyv~kiv~tiv		køj	kien		kyj			kyn~kyj	køj	køj	kyj						køj		kyj
-BURN_4								ɡydeːrij																							
-BURN_5																									qɯˤp			qɯp			
-CARRY_1	ɑpɑr	ɑlɯp pɑr	ɑlɯp	ɑ	ilze	ɑlɯp				ɑlɯp bɑr	ɑlɯp	ɑlɯp	ɑlɯp ʒyr	ɑ		ɑlɯp bɑr	ɑlɯp	ɑlɯp bɑr	ɑpɑr			ɑpɑr	ɑpɑr					ɑp ʧoru	elip	ɔlib	ɑl
-CARRY_2	ɑpɑr	ɑlɯp pɑr	ɑlɯp	ɑ	ilze	ɑlɯp				ɑlɯp bɑr	ɑlɯp	ɑlɯp		ɑ		ɑlɯp bɑr		ɑlɯp bɑr	ɑpɑr			ɑpɑr	ɑpɑr						elip	ɔlib	ɑl
-CARRY_3													ɑlɯp ʒyr				ɑlɯp											ɑp ʧoru			
-CARRY_4									tɑʃɯ												tɑːʃɯ					tɑʃɯ				tɑʃi	
-CARRY_5								ilt			elt	elt								elt											
-CARRY_6			ɑlɯp							ɑlɯp bɑr							køtøryp			køtyr	kot			kytɛrep			ɡøter				køtyr~kytyr
-CARRY_7					jɤ̆ʷt																			jørt	it						
-CHEEK_1	jɑnɑɡ	jɑŋɑq	jɑŋɑq	ʧɑːɣəm		jɑnɑq		hɯŋɑːk	jɑnɑk		ʤɑjɑq	jɑjɑk~jɑnɑχ		nɑɑχ		jɑjɑq			jɑːq~cɑɑq		jɑnɑχ	nɑːq	ɟɑq~χ	jɑnɑq		jɑnɑk	jɑnɑq	ʧɑɑq			jɑŋɑq~jɯŋɑq
-CHEEK_2		bit~pit											bet				bet	bet													
-CHEEK_3					ɕɤ̆ʷmɑrdi																										
-CHEEK_5																													mɛŋzɑ		
-CHEEK_6																														juz	
-CHEW_1	ʧejnæ		sɛjnɛ	tɑjnɑ		ʧɑjnɑ			ʧijne	ʃɑjnɑ	ʧɑjnɑ	ʧɑjnɑ	ʃɑjnɑ	tɑjnɑ	ʧɛjnɛ~ʧɛjlɛ	ʧɑjnɑ	ʧɑjnɑ	ʃɑjnɑ	ʃɑjnɑ		ʧɛjnɛ	tɑjnɑ	ʧɑjnɑ	ʧɛjnɛ	tɑjnɑ	ʧiːne	ʧejne	dɑjnɑ	ʧɑjnɑ	ʧɑjnɑ	
-CHEW_2								ɯʃtɑː																							
-CHEW_3					ʧɤ̆ʷmlɑ		cunɡ																								
-CHILD (DESCENDANT)_1		pɑlɑ	bɑlɑ			bɑlɑ				bɑlɑ	bɑlɑ	bɑlɑ	bɑlɑ	pɑlɑ	bɑlɑ	bɑlɑ	bɑlɑ	bɑlɑ	bɑlɑ~pɑlɑ		pɑlɑ~bɑlɑ	pɑlɑ	bɑlɑ	bɑlɑ					bɑlɑ	bɔlɑ	mlɑ
-CHILD (DESCENDANT)_2																jɑʃ												ʧɑʃ uruɣ			
-CHILD (DESCENDANT)_3	uʃɑɡ								uʃɑk																						
-CHILD (DESCENDANT)_4				kæʧ																											
-CHILD (DESCENDANT)_5					ɑʧɑ																										
-CHILD (DESCENDANT)_6																									uruɣ			ʧɑʃ uruɣ			
-CHILD (DESCENDANT)_7																											ʧɑɣɑ				
-CHILD (DESCENDANT)_8																										ʧoʤuk					
-CHILD (DESCENDANT)_9							oɡul					ulɑn								oɡlɑn											
-CHIN_1		inɛk	ejɛk	eːɡɘ			inɡɑc			ijek			ɘjek	eek			eek	ijek	eek	eŋek	eniχ	eːk	eek	ijɛk			eŋek		eŋɛk~iŋɛk	ijɑk	
-CHIN_2	ʧænæ							hɛŋijɛ	ʧenɛ																	ʧene					
-CHIN_3																									erin						
-CHIN_4																												seɡel			
-CLAW_1			tɯrnɑq	tərɣɑq	ʧɘrne	tɯrnɑq			tɯrnɑk	tɯrnɑq	tɯrnɑq	tɯrnɑχ	tɯrnɑq			tɯrnɑq		tɯrnɑq				tɯrɣɑq		tɯrnɑq		tɯrnɑk	dɯrnɑq			tirnɔq	
-CLAW_2	ʤɑjnɑɡ																														
-CLAW_3							termɑc	tɑrbɑk						tɯrɣɑχ			tɯrmɑq		tɯrvɑq~tɯrbɑq				tɯrmɑχ		dɯrbɑq			dɯrbɑq	tirmɑq		
-CLOUD_1	bulut	polot~pulut	bolot	pulut	pɘ̆ʷlɘ̆ʷt	bulut	bulut	bɯlɯt	bulut	bult	bulut	bulut	bʊlt	pulut	bulɯt	bulut	bulut	bulɯt	pulut	bulɯt	pulut~polut	pulut	bulut	bolɯt	bulut	buɫut	bulut	bulut	bulut	bulut	pulut~pɯlɯt
-COLD_1	sojuɡ		hɯwɯq	sooq	sivɘ	suvuq	sɑoɡh		suːk	suwɯq	suwuq	suvuk~suvuχ	suɯq	sooχ	sovuq	suwuq	suuq	suwɯq	sooq	soɣɯq	soχ	soːq	sooq	suɯq	sooq	soːuk	θowuq	sooq	soɣuq	sɔvuq	
-COLD_2								tɯmnɯː																							
-COLD_3																															tot
-COLD_4															buːz																
-COME_1	ɟæl	kël	kil	kæl	kil	kel	kel	kel	ɡel	kel	kel	kel	kel	kil	kɛl	ɡel	kel	kel	kel	kel	ɡel	kel	kel	kil	kel	ɟelʲ	ɡel	kel	kɛl	kel	kel
-COUGH_1			jytɛl~jytker					høtøløː		ʒøtel~ʒøtkir	ʤøtɡyr	øtkyr~etkir	ʒøtel	ʧidɘl		jøtkyr	ʤøtøl	jøtkir				ʧedir	jødylde	jøtker~jytɛl	ʧødyr			ʧødyr	jøtɛl	jotɑl	jyter
-COUGH_2	øscyr				yzɘr	øksyr	oscur		yːsyr						iesyr											øcsyr	yθɡyr				
-COUNT_1	sɑj		hɑnɑ	sɑnɑ		sɑj		ɑk	sɑj	sɑnɑ	sɑnɑ	sɑj~sɑn	sɑnɑ	sɑnɑ	sɑːɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ	sɑnɑʲ			sɑnɑ	sɑnɑ	sɑj	θɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ
-COVER_1		jɑp	jɑp	ʧɑp			jɑp	hɑp		ʒɑp	ʤɑb	jɑp	ʒɑp	ʧɑp		jɑp	ʤɑp	jɑp	jɑp~ɟɑp	jɑp		ʧɑp	ɟɑp	jɑp	ʧɯˤp		jɑp	ʃɯp		jɔp	
-COVER_2						qɑpɑt												qɑplɑ								kɑpɫɑ			qɑplɑ	qɔplɑ	
-COVER_3	ørt				vit	ørt			ørt												øt					ørt	ørt				
-COVER_4																															kemir
-CRY_1			ilɑ							ʒɯlɑ	ʤɯlɑ	jɯlɑ~ilɑ	ʒɯlɑ	ɯlɣɑ	hɯɣlɑ	jɯlɑ	ɯjlɑ	jɯlɑ	ɯːlɑ~uɣlɑ	ɯɣlɑ	jɯɣlɑ	ɯlɣɑ	ɯjlɑ	jɯlɑ	ɯɣlɑ			ɯɣlɑ	ʒiɣlɛ	jiɣlɑ	jɯɣlɑ~jiɣlɑ~jilɣɑ
-CRY_2		sɯqtɑ		səqtɑ				ɯtɑː											sɯqtɑ			sɯqtɑ									
-CRY_3	ɑɣlɑ					ɑɣlɑ			ɑːlɑ																	ɑːɫɑ	ɑɣlɑ				
-CRY_4					mɑɡɤ̆ʷr																										
-CUT_1	cæs	kës	kiθ	kæs	kɑs	kes	kes		kes	kes	kes	kes	kes	kis	kɛs	ɡes	kes	kes	kes	kes	kes	kes	kes	kis	keˤs	ces	keθ	kes	kɛs	kes	kes
-CUT_2								bɯs												biʧ											
-DAY (NOT NIGHT)_1	cyndyz~cyn	kon~kyn	køn	kunʲ	kun	kyn	kun	kyn	ɡyn	kyn	kyn	kyn~kin	kyn	kyn	kyn	ɡyn	kyn	kyn	kyn	kyn	kun~ɡun	kyn	kyn	køn	hyn	ɟyn	ɡyn	χyn	kyn	kun	køn~kyn
-DEEP_1	dærin	tɛrɛŋ~tirɛŋ	tɛrɛn	tɛrɛŋ	tɑrɤ̆ʷn	teren	tereŋ	diriŋ	derin	tereŋ	teren	teren	tereŋ	tireŋ		teren	tereŋ	teren	tereŋ	teriŋ	tiroŋ	tereŋ	tereŋ	tirɛn	dereŋ	derin		tereŋ			
-DEEP_2																											ʧuŋ				
-DEEP_3																													ʧoŋqur	ʧuqur	
-DIE_1	øl	øl	yl	øl	vil	øl	ol	øl	øl	øl	øl	øl	øl	øl		øl	øl	øl	øl	øl	ul	øl	øl	yl	øl	ølʲ	øl	øl	øl	ol	jul
-DIG_1	ɡɑzɯ	qɑs	qɑð	qɑs		qɑz	cɑs	kɑs	kɑz	qɑz	qɑz	kɑz	qɑz	χɑs	qɑz	qɑz	qɑz	qɑzɯ	qɑs	qɑz	qɑzɯ	qɑs	qɑs	qɑz	qɑz	kɑz	ɡɑð	qɑz	qɑz	qɑzi	qɑz
-DIG_2					ʧɑv																										
-DIRTY_1				kɘrlɘɣ		kirli		kirdeːk		kirli	kir			kɘrlɘɡ			kir	kirli	kir~kirliɡ	kirliɡ		kirliɡ	kirly~kyrly		hɘrlɘɣ	cirlʲi	kirli	χirliɡ	kir	kir	ker~kerlʲe
-DIRTY_2			bɯsrɑq																					pɯʧrɑq							
-DIRTY_3	bulɑʃɯɡ					bulɑʃɯq			bulɑʃɯk			bɯlɑʃɯq																			
-DIRTY_4							sɑsi																								
-DO OR MAKE_1										ʒɑsɑ		jɑsɑ	ʒɑsɑ				ʤɑsɑ	jɑsɑ	ɟɑzɑ		jɑsɑ			jɑsɑ	ʧɑˤsɑ		jɑθɑ				
-DO OR MAKE_2	et	et~ɛt		ɛt			et		et	et	et~	et		it		et		et	et		iʦ~eʦ	et	et			et	et		ɛt		et~it
-DO OR MAKE_3								oŋor																							
-DO OR MAKE_4		qɯl						ɡɯn				qɯl					qɯl		qɯl	kɯl					qɯl			qɯl	qil	qil	qɯl
-DO OR MAKE_5			eʃlɛ							isle	iʃle	isle~iʃle	ɘste		ʃɑ		iʃtø~					iʃte		eʃlɛ							
-DO OR MAKE_6						jɑp			jɑp			jɑp														jɑp					
-DO OR MAKE_7					tu																										
-DOG_1	it	it	et		jɯdɤ̆ʷ		it	ɯt		ijt	it	it	it		it	it	it	ijt	ijt~it	ɯt	iʃt		it	et			it	ɯt	iʃt	it	ɯʃt~eʃt
-DOG_2				ɑdɑj										ɑdɑj								ɑdɑj									
-DOG_3						køpek			køpek																	cøpec					
-DOG_4																									ʧɯdɯɣ						
-DRINK_1	iʧ	ëʧ	es	iʧ	ɘɕ	iʧ	yz~iz~yʧ~iʧ	is	iʧ	iʃ	iʧ	iʧ~iʦ	ɘʃ	ɘs	iʧ	iʧ	iʧ	iʃ	iʧ	iʧ	iʧ	iʃ	iʧ	eʧ	iʃ	iʧmec	iʧ	iʃ	iʧ	iʧ	iʧ~iʃ~eʧ
-DRY_1	ɡuru		qoro			quru	churu	kurɑːnɑk	kuru~kurɑk	qurɣɑq	qurɣɑq~quru	kurɣɑk	qʊrɣɑq	χuruɣ	qurruɣ	quru	qurɣɑq	qurɯ	kuru	quruɣ	kuru	quruɣ	qurɣɑχ	qorɯ	qurɣɑɣ	kuru	ɡurɯ	qurɣɑɣ	quruq	quruq	qurlyɣ
-DRY_2					tibɘ																										
-DRY_3				keːbɘɣ																											
-DRY_4		qɑq					kɑk																								
-DUST_1										ʃɑŋ			ʃɑŋ			ʧɑŋ	ʧɑŋ	ʃɑŋ											ʧɑŋ	ʧɑŋ	ʧɑm~ʧɑn
-DUST_2	toz	tos~tosɑn	tuðɑn	tozɑn	tuzɑn	toz	tos		toːz			toz	tozɑŋ	tozɯn					tozun~tozɯn	toz		tozun		tuzɑn		toz	toðɑn	doːzun	tozɑŋ~toz		tos
-DUST_4															turpɑːq						tɑːrɯχ		tobrɑχ		toˤprɑq						torvɑq~tɯrvɑq
-DUST_5											buqu																				
-EARTH (SOIL)_1	jer	jer	jer	ʧɛr	ɕɘr	jer	ier~jer	hir	jer	ʒer	ʤer	jer	ʒer	ʧir	jer	jer	ʤer	jer	cer~ɟer~jer	jer		ʧer	ɟer	ʤir	ʧer	jer	jer		jɛr	jer	jer
-EARTH (SOIL)_2	torpɑɡ		tuprɑq	toβrɑq	tɤ̆ʷprɑ	toprɑq			toprɑk	topɯrɑq	toprɑq	toprɑq	topɯrɑq	tobɯrɑχ	turpɑq	topurɑq	topurɑq	topɯrɑq	toprɑq	toprɑq		tobrɑq	tobrɑq	tufrɑq	toˤprɑq	toprɑk	toprɑq	dovurɑq	toprɑq	tuprɔq	torvɑq~tɯrvɑq
-EARTH (SOIL)_3								buor																							
-EAR_1	ɡulɑɡ	qolɑq~qulɑq	qolɑq	qulɑq	χɤ̆ʷlɣɑ	qulɑq	chulɑɡ	kulɡɑːk	kulɑk	qulɑq	qulɑq	kulɑk~kulɑχ~qulɑq	qulɑq	χulɑχ	qulɑːq	qulɑq	qulɑq	qulɑq	qɯlɑq~qulɑq	qulqɑq	qulɑχ	qulɑq	qulɑq	qolɑq	qulɑq	kuɫɑk	ɡulɑq	qulɑq	qulɑq	qulɔq	qulɑq
-EAT_1		ɑʃɑ	ɑʃɑ			ɑʃɑ	ɑʃɑ	ɑhɑː			ɑʃɑ	ɑsɑ~ɑʃɑ				ɑʃɑ		ɑʃɑ		ɑʃɑ			ɑʒɑn	ɑʃɑ							
-EAT_2	je	jë		ʧi	ɕi			hie	i	ʒe			ʒe	ʧɘ	jeːe		ʤe	je	ci	je	je~ji	ʧiː	ɟi		ʧi~nemne	je	ij	ʧemne~ʧi	ji	je	je~ji~ʤi
-EDGE_1		ʦit~ʧët	sit			ʧet	sete			ʃet			ʃet				ʧet	ʃet						ʧit			ʧet		ʧɛt	ʧet	
-EDGE_2	ɡɯrɑɡ							kɯrɯː				kɯrɯj		χɯri~χɯrɯɣ		qɯrɯj					qɯrɣɯ	qɯrɯj	qɯrɯ	qɯrɯj					qirɣɑk	qirɣɔq	
-EDGE_3			qɯr	qɯr	χɘrɘ																	qɯr							qir		
-EDGE_4											qɯjɯr								qɯj~quj	qɯdɯɣ					qɯdɯɣ			qɯdɯɣ			qɯzɯɣ
-EDGE_5																					qɑʃ	qɑʃ							qɑʃjɑr		
-EDGE_6		jɑɣɑ										jɑɣɑ				jɑɣɑ													jɑqɑ		
-EGG_1	jumurtɑ	jomɯrtqɑ	jomortqɑ	ʧumurtqɑ	ɕɤ̆ʷmɑrdɑ	jɯmɯrtɑ	jumurtkɑ	hɯmɯːt	jɯmɯrtɑ			jumurtχɑ	ʒʊmɯrtqɑ	nɯmɯrχɑ	jumurqɑ	jɯmɯrtqɑ	ʤumurtqɑ	jumɯrtqɑ	ɲurtqɑ~ɲɯmɯrtqɑ	jumurɣɑ	jomurtɑ~jumotor	nɯbɯrtqɑ	ɟɯmɯrtχɑ	jomɯrqɑ	ɲumurhɑ	jumurtɑ	jumurtɡɑ	ʧuurɣɑ			
-EGG_2																															ojɑ~ujɑ
-EYE_1	cøz	køz	kyð		kuɕ	køz	køz		ɡøz	køz	køz	køz~kez	køz		køz	ɡøz	køz	køz	køs	køz	koz		køs	kyz		ɟøz	ɡøð		køz	koz	kyz~køz
-EYE_2				qɑrɑq				kɑrɑk						χɑrɑχ								qɑrɑq			qɑrɑq			qɑrɑq			
-FALL_1		jɯɣɑl	jɯɣɯl			jɯqɯl				ʒɯɣɯl	ʤɯɣɯl	jɯɣɯl	ʒɯɣɯl			jɯɣɯl	ʤɯɣɯl	jɯɣɯl			jɯχɯl	ʧɯɣɯl		jɯɣɯl			jɯqɯl		ʒiqil	jiqil	
-FALL_2	dyʃ	tyʃ					tuz	tys	dyʃ		tyʃ	ʧyʃ~kis tyʃ	tys	tys	tiʃ		tyʃ		tyʃ	tyʃ	ʤyʤ		tyʃ		tyˤʃ	dyʃ		dyʃ	ʧyʃ		
-FALL_3					yk																										
-FALL_4				ɑŋnɑl										ɑŋdɑrɯl																	
-FALL_5																														tokil	toqrɑ
-FALL_6													qulɑ								ʃɑŋkulɑ~ʃøŋ kol										
-FAR_1	uzɑɡ					uzɑq			uzɑk	uzɑq	uzɑq							uzɑq	uzɑq				uzɑq			uzɑk	uðɑq		uzɑq	uzoq	uzɑq
-FAR_2		jɯrɑq	jɯrɑq	ərɑq			yrɑc~yrɑh	ɯrɑːk	jɯrɑk			irɑχ~jɯrɑq		ɯrɑχ	hɯrɑɑq	jɯrɑq	ɯrɑɑq		rɑq~ɯrɑɑq	jɯrɑq	jɯrɑχɑr	ɯrɑq	ɯrɑɑq	jɯrɑq	ɯrɑq			ɯrɑq	ʒirɑq		
-FAR_3					inʑe																										
-FAR_4										qɑʃɯq			qɑʃɯq																		
-FAT (ORGANIC SUBSTANCE)_1		mɑj	mɑj							mɑj			mɑj			mɑj	mɑj	mɑj						mɑj					mɑj		
-FAT (ORGANIC SUBSTANCE)_2	jɑɣ			ʧɑɣ	ɕu	jɑɣ	jɑv	hɯɑ	jɑː		ʤɑw	jɑv		ʧɑɣ	jɑːɑɣ				jɯɣ	jɑɣ	jɑɣ	ʧɑɣ	ɟu		ʧɑɣ	jɑː	jɑɣ		jɑɣ	jɔɣ	
-FAT (ORGANIC SUBSTANCE)_3														ys														ys			
-FAT (ORGANIC SUBSTANCE)_4																															tønɑχ
-FATHER_1	ɑtɑ	ɑtɑ	ɑtɑ	ɑdɑ	ɑtte		ɑtɑ			ɑtɑ	ɑtɑ	ɑtɑ				ɑtɑ	ɑtɑ	ɑtɑ	ɑdɑ			ɑdɑ	ɑdɑ	ɑtɑ	ɑtɑ		ɑtɑ	ɑdɑ	ɑtɑ	ɔtɑ	
-FATHER_2																					ɑpɑ	ɑbɑ									
-FATHER_3								ɑɡɑ					ɛke																		
-FATHER_4																															ɑʧɑ
-FATHER_5						bɑbɑ			bobɑ					pɑbɑ	bɔːbɑ											bɑbɑ					
-FATHER_6																				qɑŋ											
-FEAR (BE AFRAID)_1	ɡorχ	qorq	qurq	qoːruq	χɤ̆ʷrɑ	qorq	chorch			qorq	qorq	qorq	qorq	χorɯχ	qorq	qorq	qorq	qorq	qoruq~qorɯq	qorq	χorɣɑ	qoruq	qorχɯ	qurqu	qoˤrt	kork	ɡorq	qort	qorq	qorq	qorq
-FEAR (BE AFRAID)_2								kuttɑn																							
-FEATHER_1	tyc			tyk	tɘ̆ʷk			tyː	tyj		qɑnɑtlɯ tyk	tik				tyk			tyk	tysi					tyk	tyj					
-FEATHER_2														ʧyɡ								ʧyɡ						ʧyɡ			
-FEATHER_3						qɑnɑt					qɑnɑtlɯ tyk												qɑnɑt								
-FEATHER_4	lælæc																				mimiluχ						jelek				
-FEATHER_5							junɡ																								
-FEMALE (OF AN ANIMAL) (N.)_1						ɯrɣɑʧɯ				urɣɑʃɯ		ɯrɣɑʧɯ	ʊrɣɑʃɯ				urɣɑɑʧɯ	urɣɑʃɯ									urqɑʧɯ			urɣɔʧi	
-FEMALE (OF AN ANIMAL) (N.)_2	diʃi			tɘzɘ		diʃi	tusi	tɯhɯ	diʃi		tiʃi	tiʃi		tɘzɘ	tiʃi	tiʃi			tiʒi	tiʃi	tiʧi	tiʒi	tɯʃɯ	teʃe		diʃi		diʒi	ʧiʃi		tise
-FEMALE (OF AN ANIMAL) (N.)_3					ɑmɑ																										
-FEMALE (OF AN ANIMAL) (N.)_4			inɛ											ine							ɑːneʃ			ɑnɑ							
-FEMALE (OF AN ANIMAL) (N.)_5																									eˤpʃɘ						
-FIGHT_1		soɣɯʃ	huɣɯʃ	soːɣus														soɣɯs	soɣɯʃ				soɣuʃ	suɣɯʃ	soˤqʃɯr~soˤqɯʃ				soquʃ		
-FIGHT_10						køtekleʃ																									
-FIGHT_11												tutuʃ		tudɯs																	
-FIGHT_12																												sodɑːlɑʃ			
-FIGHT_13																				syŋyʃ											
-FIGHT_2										tøbeles			tøbeles			tøbeleʃ	tøbøløʃ	tøbeles								døvyʃ					
-FIGHT_3	vuruʃ									urɯs				urus	vuruʃ		uruʃ		uruʃ		vuruʃ	uruʃ				vuruʃ	uruʃ		uruʃ	uriʃ	
-FIGHT_5								ølørys																							
-FIGHT_6					ɕɑbɤ̆ʷɕ																										
-FIGHT_7											ʤɑɣɑlɑʃ													jɑqɑlɑʃ					jɑqilɑʃ	jɔqɑlɑʃ	
-FIGHT_8																															perɯs
-FIGHT_9									dokuʃ							toqɑlɑʃ															
-FIND_1	tɑp	tɑp	tɑp	tɑp	tup	tɑp	tɑp			tɑp	tɑb	tɑp	tɑp	tɑp		tɑp	tɑp	tɑp	tɑp	tɑp	tɑpf	tɑp	tɑp	tɑp	tɯˤp		tɑp	tɯp	tɑp	tɔp	tɑp
-FIND_2						bul		bul	bul						bul					bul						buɫ					
-FINGERNAIL_1	dɯrnɑɡ		tɯrnɑq	tərɣɑq	ʧɘrne	tɯrnɑq		tɯŋɯrɑk	tɯrnɑk	tɯrnɑq	tɯrnɑq	tɯrnɑk	tɯrnɑq	tɯrɣɑχ	tɯrnɑq	tɯrnɑq		tɯrnɑq	tɯrɣɑq	tɯrŋɑq~tɯŋrɑq	tɯrnɑχ			tɯrnɑq		tɯrnɑk	dɯrnɑq	dɯrɣɑq		tirnɔq	
-FINGERNAIL_2							termɑc										tɯrmɑq		tɯrbɑq			tɯrbɑq	tɯrmɑχ		dɯrbɑq				tirmɑq		tɑrmɑq~tɯrmɑq~tɯrvɑq
-FIREWOOD_1	odun	otɯn	utɯn	oːduŋ	vudɤ̆ʷ	odun	odim		odun	otɯn	otun	otun	otɯn	odɯŋ	huːotun		otun	otɯn		otuŋ	otɯn~oʦɯn~uʦɯn	oduŋ	odɯn	utɯn		odun	odun		otun	otin	otun~otɯn
-FIREWOOD_2							ɑɡɑʧ	mɑstɑr								ɑɣɑʧ		ɑɣɑʃ							neʃ			ɯjɑʃ			
-FIRE_1	od	ot	ut	ot	vut		ot	uot		ot	ot	ot	ot	ot	huːot	ot	ot	ot	ot	ot	ot	ot	ot	ut	ot		oːt	ot	ot		ot
-FISH_1	bɑlɯɡ	bɑlɯq	bɑlɯq	pɑːləq	pulɤ̆ʷ	bɑlɯq	bɑlik~bɑluc	bɑlɯk	bɑlɯk	bɑlɯq		bɑlɯk~bɑlɯq	bɑlɯq	pɑlɯχ		bɑlɯq	bɑlɯq	bɑlɯq	bɑlɯq	bɑlɯq	bɑluχ	pɑlɯq	bɑlɯq	bɑlɯq	bɑlɯq	bɑɫɯk	bɑlɯq	bɑlɯq	beliq	bɑliq	
-FISH_2											ʧɑbɑq																				
-FIVE_1	beʃ	pëʃ	beʃ	pɛs	pilɘk	beʃ	bes	bies	bulɑʃɯq	bes	beʃ	beʃ	bes	pis	biːeʃ~beːeʃ	beʃ	beʃ	bes	peʃ	beʃ	peʃ	peʃ	beʃ	biʃ	beʃ	beʃ	bɛʃ	beʃ	bɛʃ	beʃ	pis~pes
-FLOWER_1	ʧiʧæc	ʧiʧɛk	sɛskɛ			ʧiʧek	ʧiʧek		ʧiʧek			ʧeʧɛɡi				ʧeʧek		ʃeʃekej	ʧeʤek	ʧeʧek	ʧiʧeχ		ʧeʧek	ʧɛʧɛk~ʧɛʧkɛ		ʧiʧec		ʧeʧek	ʧeʧɛk		ʧyʧyɡ
-FLOWER_2														ʧɑχɑjɑχ								ʧɑqkijek									
-FLOWER_3								ot																							
-FLOWER_4																									ɑqɑʃ						
-FLOW_1	ɑχ	ɑq	ɑq	ɑq	juχ	ɑq	ɑɡ		ɑk	ɑq	ɑq	ɑk	ɑq	ɑq		ɑq	ɑq	ɑk	ɑq	ɑq		ɑq	ɑq	ɑq	ɑˤq	ɑk	ɑq	ɑq	ɑq	ɔq	ɑq
-FLOW_3								tehin~testiː																							
-FLOW_4															vɑr																
-FLOW_5																					fyr										
-FLY (INSECT)_1			seben			ʧibin	ʧibin			ʃɯbɯn	ʧibin	ʦibin~ʧibin	ʃɯbɯn			ʤibin	ʧɯmɯn	ʃɯbɯn			pohʧyin		ʧɯmɯn	ʧeben					ʧivin		ʧivin
-FLY (INSECT)_2		ʧerɡɛj~ʦerɡɛj						hɑksɯrɡɑ																							
-FLY (INSECT)_3					ʃɤ̆ʷnɑ				sinek					seek											seek	sinec	θiŋek	seek			
-FLY (INSECT)_4																			køɡen												
-FLY (INSECT)_5															ɡudɣu					kodɣu											
-FLY (MOVE THROUGH AIR)_1	uʧ	oʧ~uʦ	os	uʧ	vɘ̆ʷɕ	uʧ	uʧ		uʧ	uʃ	uʧ	uʧ~uʦ	ʊʃ	uʧuχ	uʧ	uʧ	uʧ	uʃ	uʧ~uʃ	uʧ	uʧ~uʃ~yʧ	uʧuq	uʧ	oʧ	uˤʃ	uʧ	uʧ	uʃ	uʧ	uʧ	uʃ~uʧ~yʧ
-FLY (MOVE THROUGH AIR)_2								køt																							
-FOAM_1	cøpyc		kybek	koːβʲyk	kɤ̆ʷbɤ̆ʷk	køpyk	kobelek		køpyk	købik	kømyk	købyk	købɘk	købɘk		ɡøbyk	købyk	købik	købyk			købyk	købyk	kybek	køˤpyk	cøpyc	køpyr		køpyk~køvyk	kopik	kivek
-FOG_1	dumɑn	tomɑn	tomɑn			tumɑn	toumɑn	tumɑn	dumɑn	dumɑn	tubɑn	tumɑn	tʊmɑn	tubɑn		tumɑn	tumɑn	tumɑn	tubɑn	tumɑn	tumɑn	tubɑn	tumɑn	tomɑn	tumɑn		dumɑn	tumɑn	tumɑn	tumɑn	
-FOG_2					tɘtre																										
-FOG_3																															mɑnɑn
-FOG_4																										sis					
-FOOT OR LEG_1	ɑjɑɡ	ɑjɑq	ɑjɑq	ɑzɑq	orɑ	ɑjɑq	ɑjɑc~ɑjɑch~ɑjɑk	ɑtɑk	ɑjɑk	ɑjɑq	ɑjɑq	ɑjɑk	ɑjɑq	ɑzɑχ	hɑdɑq	ɑjɑq	ɑjɑq	ɑjɑq		ɑdɑq	ɑjɑχ	ɑzɑq		ɑjɑq		ɑjɑk	ɑjɑq		ɑjɑq	ɔjɔq	ɑzɑq
-FOOT OR LEG_2											but					but	but		but	but			but		but			but			
-FOREHEAD_1				qɑmɑq										χɑmɑχ					qɑbɑq~qɑqpɑɣɑ			qɑbɑq						χɑvɑq			
-FOREHEAD_2	ɑlɯn						ɑlni		ɑnnɯ						hɑːɑnl~hɑːll					ɑlɯn						ɑɫɯn	ɑlɯn				ɑl
-FOREHEAD_3								hyːs																							
-FOREHEAD_4					ɕɑmɡɑ																										
-FOREHEAD_5																	ʧeke														
-FOREHEAD_6																									dostɑq						
-FOREHEAD_7																					menzi										
-FOREST_1		ormɑn	urmɑn		vɤ̆ʷrmɑn	ormɑn	ormɑn					ormɑn	ormɑn			ormɑn		ormɑn						urmɑn		ormɑn			ormɑn	ormɔn	
-FOREST_2	ɑɣɑʧ			ɑɑʧ				mɑs			ɑɣɑʧ			ɑɣɑs		ɑɣɑʧlɯq		ɑɣɑʃlɯq	ɑɣɑʃ ɑrɑzɯ			ɑɣɑʃ	ɑɣɑʃ		neʃ qɑˤtɯndɑ			ɯjɑʃ			
-FOREST_3						dɑɣ			dɑɑ																						
-FOREST_4				ɑɑʧ															ɑɣɑʃ ɑrɑzɯ												
-FOREST_5																				ɑrɯɣ	ɑrɯɣ				ɑrɯɣ			ɑrɯɣ			
-FOUR_1	dørd	tørt	dyrt	tørt	tɤ̆ʷvɑttɤ̆ʷ~tɤ̆ʷvɑdɤ̆ʷ~tɤ̆ʷvɑt	dørt	tort	tyørt	dørt	tørt	tørt	dørt	tørt	tørt	tøːørt~tyːørt	dørt	tørt	dørt	tørt	tørt		tørt	tørt	dyrt	dørt	dørt	dørt	dørt	tørt	tort	dyrt~tyrt~tørt
-FREEZE_1		pustɑn				buzlɑ		buːhur		muzlɑ	buzlɑ	buzlɑ	qɑt		buːzɑːq vɑːɑ	buzlɑ		buzlɑ												muzlɑ	
-FREEZE_2	don		tuŋ	toŋ					don	toŋ				toŋ			toŋ		toŋdɯr	toŋ	toŋ	toŋ	toŋ	tuŋ	doŋ	don	doŋ	doŋ	toŋ		toŋ
-FREEZE_3					ʃɤ̆ʷn																										
-FRUIT_1		jëmiʃ	jemeʃ		ɕimɘɕ		jemis		jemiʃ	ʒemis		jemis	ʒemɘs			jemiʃ	ʤemiʃ	jemis		jemiʃ				ʤimeʃ			ijmiʃ	ʧimis	jimiʃ		ʤimis
-FRUIT_2											køɡet																				
-FULL_1	dolu	tol	tulɯ	toldərɑ	tulli	tolu	tolu	toloru	dolu	tolɣɑn~tolɯq	tolu	tolu	tolɯ	toldɯrɑ	tuolɑ	tolu	tolturɑ	tolɯ	toltɯrɑ	tolu	tolu	toldurɑ	tolo	tulɯ	dolu	doɫu	dolɯ	dolu	toluq~tolɑ	tolɑ	tolo~tolu
-GIVE_1	ver	ber~bɛr	bir	pɛr	pɑr	ber	ber	bier	ver	ber	ber	ber~ver	ber	pir	vier	ber	ber	ber	per~ber	ber	per~ver~ber	per	ber	bir	ber	ver	ber	ber	bɛr	ber	per
-GOOD_1	jɑχʃɯ	jɑqʃɯ	jɑqʃɯ	ʧɑqsə		jɑχʃɯ	jɑcsi			ʒɑqsɯ	ɑʃχɯ	jɑχʃɯ~jɑχsɯ	ʒɑqsɯ	ʧɑχsɯ		jɑχʃɯ	ʤɑqʃɯ	jɑχʃɯ	cɑqʃɯ~ɟɑqʃɯ		jɑχʃi~jɑχʃɑrɑ	ʧɑqʃɯ	ɟɑχʃɯ	jɑχʃɯ			jɑɡʃɯ		jɑχʃɯ	jɑχʃi	jɑχʃɯ
-GOOD_2						eji	ejɡi		iji		iɡi							ijɡi		edɡy					eˤkkɘ	iji		eki			
-GOOD_3								yʧyɡej																							
-GO_1		bɑr	bɑr	pɑr	pɯr	bɑr	bɑr	bɑr		bɑr	bɑr	bɑr	bɑr	pɑr	vɑr	bɑr	bɑr	bɑr	pɑr~bɑr	bɑr	bɑr	pɑr	bɑr	bɑr	bɑr		bɑr	bɑr	bɑr	bɔr	pɑr
-GO_2		jør															ʤyr											ʧoru		jur	
-GO_3	ɟet		kit			ket			ɡit	ket		ket	ket													ɟit	ɡit				
-GRASP_1	tut	tot	tot	tut	tɯt	tut	tut	tut	tut	tut	sermeb tut	tut		tut	tut	tut	tut	tut	tut	tut	tut~tuʦ	tut	tut	tot	tuˤt	tut	tut	tut	tut	tut	tut
-GRASP_2									kɑp			kɑp		χɑp								qɑp				kɑp					
-GRASP_3																	qɑrmɑ												qɑrmɑ		
-GRASP_4													ʊstɑ																		
-GRASS_1		ylɛŋ	ylɛn			ølen												ølen	øløŋ			øleŋ	øløŋ	ylɛn							
-GRASS_2							kukel																		køk						
-GRASS_3	ot			ot		ot		ot	ot			ot~jɑʃot		ot	oot	ot						ot				ot	ot	oˤt	ot	ot	oht
-GRASS_4					kurɤ̆ʷk																										
-GRASS_5										ʃøp			ʃøp				ʧøp				ʧøp~ʧyp								ʧøp		
-GRASS_6																												siɡen			
-GREEN_1	jɑʃɯl	jiʃil	jɛʃel			jeʃil	jɑs		jeʃil		ʤɑʃɯl	jesil	ʒɑsɯl			jɑʃɯl	ʤɑʃɯl	jɑsɯl	cɑʒɯl	jɑʃɯl	jɑːʃɯl	ʧɑʒɯl	ɟɑʒɯl	jɛʃel		jeʃilʲ	jɑʃɯl		jeʃil	jɑʃil	jɑsɯl
-GREEN_2				kok				kyøk		køk				køk	kyøk~kiek										køk				køk		
-GREEN_3					simɘs																										
-GRIND_1		tɑrt	tɑrt							tɑrt	tɑrt	tɑrt	tɑrt	tɑrt		tɑrt	tɑrt	tɑrt				tɑrt		tɑrt					tɑrt	tɔrt	
-GRIND_2	yjyt																									øvyt	ywe				
-GRIND_3																			teerbenne				teermende		teermele			deerbele			
-GRIND_4																															uɣ
-GRIND_5								ilbirit																							
-GRIND_6					ɑvɤ̆ʷr																										
-GRIND_7						ʧek																									
-GRIND_8																				jɑnʧ										jɑnʧ	
-GROW_1		øs	yθ	øs	ys	øs	os			øs	øs	øs~es	øs	øs		øs	øs	øs	øs			øs	øs	ys	øˤs		øθ	øs	øs	os	
-GROW_2								yːn																	yn				yn		yn
-GROW_3							ulɡɑj	ulɑːt																							
-GROW_4	bøjy								byː						bidi											byjy					
-GROW_5															kiːekɛr																
-GROW_6																					ʧɑŋnɑ~ʧɯŋnɑ										
-GUTS_1		ɛʧɛw	esɛk	iʤiː		iʧek	iʧɑɡ		iʧ	iʃek	ʧeɡi	iʦiɡi	ɘʃek	ɘʧeɡe		iʧek	iʧeɡi	iʃek	iʤeɡe~iʒe			iʃte	iʧeɡe	eʧɛk			iʧeɡe	iʒin	yʧɛj	iʧɑk	eʧikɯ~iʧeki
-GUTS_2							suzuɡ																								
-GUTS_3	bɑɣɯrsɑɡ				pɯrʒɤ̆ʷ																pɑɣsuχ				bɑːrsɯq	bɑːɯrsɑk					
-HAIR (HEAD)_1	sɑʧ	ʦɑʦ	sɛs	ʧɑʧ	ɕyɕ	sɑʧ	xɑc	ɑs	sɑʧ	ʃɑʃ	ʧɑʧ	sɑʧ~seʧ~ʦɑʦ~ʧɑʧ	ʃɑʃ	sɑs	sɑʧ	ʧɑʧ	ʧɑʧ	ʃɑʃ	ʧɑʧ~ʃɑʃ	sɑʧ	sɑʧ	ʃɑʃ	ʧɑʧ	ʧɛʧ	ʧeˤʃ	sɑʧ	θɑʧ		ʧɑʧ	sɔʧ	sɛʤ~ʃɑʤ~sɑʧ
-HAIR (HEAD)_2																tyk												dyk			
-HARD_1		qɑttɯ	qɑtɯ	qɑːdəɣ	χɯdɤ̆ʷ	qɑttɯ	chɑti	kɯtɑːnɑk		qɑttɯ	qɑtɯ	qɑtɯ	qɑttɯ	χɑtɯɣ		qɑttɯ	qɑtuː	qɑtɯ	qɑdu~qɑdɯɣ	qɑtɯɣ	χɯti~χɯʤi	qɑdɯɣ	qɑtu	qɑtɯ	qɑˤtɯɣ	kɑtɯ	ɡɑtɯ	qɑdɯɣ	qɑttiq	qɑttiq	qɑtɯɣ
-HARD_2	bærc																														
-HARD_3									ʧetin																						
-HE OR SHE OR IT_1	o	ol	ul	ol	vɤ̆ʷl	o	ol		o	ol	ol	ol	ol	ol	oː	o	ɑl	ol	ol	ol	vu	ol	ol	ul	ol~oŋ	o	ol	ol	u	u	qol
-HE OR SHE OR IT_2								ɡini																							
-HEAD_1	bɑʃ	pɑʃ~bɑʃ	bɑʃ	pɑs	puɕ	bɑʃ	bɑs	bɑs	bɑʃ		bɑʃ	bɑʃ~bɑs	bɑs	pɑs	bɑːʃ	bɑʃ	bɑʃ	bɑs	bɑʃ~pɑʃ	bɑʃ	pɑʃ~bɑʃ	pɑʃ	bɑʃ	bɑʃ	bɑˤʃ	bɑʃ		bɑʃ	bɑʃ	bɔʃ	pɑʃ
-HEART_1	yræc	jorɛk	jørɛk	ʧyrek	ʧɘre	jyrek		hyrek	yrek	ʒyrek	ʤyrek	jirek	ʒyrek	ʧyrek	jirɛk	jyrek	ʤyrek	jyrek	dyrek	jyrek	jiriɡ	ʧyrek	ɟyrek	jørɛk	ʧyrek		jyrek	ʧyrek	ʒyrɛk~jyrɛk	jurɑk	jyrek~jørek
-HEAR_1	eʃit	iʃit~eʃit	iʃet	ɛs	ilt	eʃit	esit~ezit	ihit	iʃit	esit	eʃit	esit~eʃit	esɘt	is	iʃyt	eʃit		esit		eʃit	iʃti			iʃet		iʃit	eʃit		iʃit	eʃit	
-HEAR_2		uq~oq															uq		uq			uq	uq								
-HEAR_3																									dɯŋnɑ			dɯŋnɑ			tinnɑ
-HEAVY_1	ɑɣɯr	ɑwɯr	ɑwɯr	ɑɑr	jɯvɤ̆ʷr	ɑɣɯr	ɑɡer	ɯɑr	ɑɑr	ɑwɯr	ɑwur	ɑvur	ɑwɯr	ɑɑr	ɑɣir	ɑwur	oor	ɑwɯr	ɑɑr	ɑɣɯr	ɑɣɯr	ɑːr	uur	ɑwɯr	ɑɑr	ɑːɯr	ɑɣɯr	ɑɑr	eɣir	ɔɣir	ɑɣɯr
-HERE_1	burɑdɑ	mɯndɑ	bɯndɑ	məndɑ		mɯndɑ	mondɑ	mɑnnɑ	bɯrdɑ	bundɑ	bɯlɑjdɑ~mɯndɑ	munɑ	mʊndɑ	mɯndɑ	buoːrɑ	mundɑ	mɯndɑ	mundɑ	mɯndɑ	buntɑ	mɯntɑ	mɯndɑ	mɯndɑ	mondɑ	mɯndɑ	burɑdɑ~burɑsɯ	bu jerde	mɯndɑ	bu jɛrdɛ~bu jɑqtɑ	bu jerdɑ	mɯndɑ
-HERE_2					kundɑ																										
-HIDE (CONCEAL)_1		jɛʃɛr	jɛʃer	ʧɑːzər			jɑxirj~iɑsir			ʒɑsɯr	ʤɑʃɯr	jɑʃɯr		ʧɑzɯr		jɑʃɯr	ʤɑʃɯr	jɑsɯr		jɑʃur	jɑʃir	ʧɑʒɯr	ɟɑʒɯr	jɑʃɯr	ʧɑˤhir		jɯɣʃɯr	ʧɑʒɯr	joʃur	jɑʃir	jɑʃɯr
-HIDE (CONCEAL)_2						sɑqlɑ			sɑklɑ																	sɑkɫɑ					
-HIDE (CONCEAL)_3	ɟizlæn							kisteː												kizle							ɡiðle				
-HIDE (CONCEAL)_4																			suq				suq								
-HIDE (CONCEAL)_5					pɯdɑr																										
-HIDE (CONCEAL)_6															kyːøʃy																
-HIDE (CONCEAL)_7													tɯq																		
-HOLE_1	deʃic	tëʃik	tiʃek			teʃik				tesik	teʃik	teʃik	tesɘk	tizɘk		teʃik	teʃik	tesik	teʒik			teʒik		tiʃek			deʃik	deʒik	tøʃyk	teʃik	
-HOLE_2	dælic								delik																delɘk	delʲic					telɯq~telʲɯq
-HOLE_3				ydyk				yːt						yt						yt		yt	yjt		yt			yt			
-HOLE_5					ʃɤ̆ʷdɤ̆ʷk																										
-HOLE_6				toptuq											teplyk																
-HORN (ANATOMY)_1	bujnuz		møɡøð	myys	mɤ̆ʷjrɑɡɑ	bojnuz	munɡus	muos	bujnuz	myjiz	myjyz	myŋyz~miviz	myjɘz	myys		myjyz	myjyz	myjiz	myys	myjyz	moŋus	myːs	myys	møɡez	miis	bojnuz		mɯjɯs	myŋɡyz		moŋus
-HOT_1	isti	isy	eθe	izɘɣ		sɯʤɑq	issi	itiː	sɯʤɑk	ɯssɯ	issi	issi	ɯstɯq	ɘzɘɡ		issi	ɯsɯq	issi	iziɡ~yzyɡ	isiɡ	ɯssɯ	iziɡ	izy	esse	iˤsɘɣ	sɯʤɑk		iziɡ	issiq	issiq	issɯɡ
-HOT_2					vɘri																										
-HOT_3																					qɯzɯɡu						ɡɯðɡɯn		qiziq		
-HOUSE_1	ev	y	oj	ɛp		ev	øw~eu		ev	yj	yj	yv~yj	yj		hɛv	yj	yj	yj	em~uɣ~yj	ev	øj	em		øj	øɣ	ev			øj	uj	y~yj
-HOUSE_2			jort		ɕurt																			jort							
-HOUSE_3														turɑ					turɑ				turɑ								
-HOW_1			qɑlɑj	qɑjnɑr				kɑjtɑk		qɑlɑj	qɑlɑj		qɑlɑj	χɑjdi			qɑndɑj	qɑlɑj	qɑnɑjɯp~qɑjɯp	qɑltɯ		qɑjde	qɑndɯj~qɑnɑjdɑ~qɑnɑjɯp		qɑɲʧɑ			qɑnʧɑp~ɑɑr	qɑndɑq	qɑndɑj~qɑlɑj	
-HOW_2	neʧæ	nɛʦik	nisek		mɘnle	nɑsɯl	neʧic		ne~nɑsɯl			neʧik			nɛtɛjdɛ	neʧik					neʧuχ			niʧek		nɑsɯɫ	nɛhili		neʧuq		nɑɣu~nɑɣɯp
-HUNT_1														ɑŋnɑ			ɑŋʧɯlɯq qɯl	ɑŋʃɯlɑ	ɑŋnɑ			ɑŋnɑ	ɑŋdɑ		ɑŋnɑ			ɑŋnɑ			
-HUNT_10		ɑtɯʃ																													
-HUNT_3								bultɑː																							
-HUNT_4	ovɑ ʧɯχ~ovʧuluɡ et~ovlɑ		ɑwlɑ			ɑvlɑ	uulɑ~huɑlɑ		ɑwlɑ	ɑwlɑ	uwuɣɑ	ɑvlɑ	ɑwlɑ			ɑw et	uulɑ			ɑvlɑ				ɑwlɑ		ɑvɫɑ	ɑwlɑ		olɑ	ɔvlɑ	
-HUNT_5					tɯt																										
-HUNT_6				tɑjɣɑlɑ																											
-HUNT_7																															ti
-HUNT_8															tɛzyr																
-HUNT_9																					ertɑχ et										
-ICE_1	buz	mos	boð	pus	pɤ̆ʷr	buz	bus~bujz	buːs	buz	muz	buz	buz	mʊz	pus	buːzɑːq	buz	muz	buz	bus~pus			mus		boz		buz	buð		muz	muz	pɯz
-ICE_2																							toʃ		toˤʃ			doʃ			
-ICE_3																					toŋsɯ										
-IN_1	iʧæridæ~iʧindæ	iʦindɛ	esendɛ		ɤ̆ʷʒɘnʤe	iʧinde	izchɑri~jzindɑ	iske~ihiɡer	iʧjɑnɯndɑ~iʧinde	iʃinde	iʧinde	iʧke	ɘʃɘnde	ɘstɘnde	iʧ	iʧde	iʧinde	iʃinde	iʒinde	iʧinte	iʧi	iʃtinde	iʧinde	eʧtɛ	iˤʃtɘnde	iʧinde	iʧindɛ	iʃtinde	iʧidɛ	iʧidɑ	iʧinte~iʃte
-I_1	mæn	min	min	mɛn		men	men	min	bɛn	men	men	men	men	min	mɛn	men	men	men	men	ben	men	men	men	min	men	ben	men	men	mɛn	men	men
-I_2					ebɘ																										
-JUMP_1																		qɑrɣɯ													
-JUMP_10	sɯʧrɑ					sɯʧrɑ																									
-JUMP_2	ɑtɯl~ɑtlɑn					ɑtlɑ			ɑtlɑ							ɑtɯl						ɑttɯ				ɑtɫɑ					
-JUMP_3								oj																							
-JUMP_4								ɯstɑn																							
-JUMP_5		sɛɡir~sɛkir	hiker		sik	sekir	sechir			sekir	sekir	sekir	sekɘr	seɡɘr			sekir		sekir	sekri	seker		sekir	siker					sɛkrɛ	sɑkrɑ	
-JUMP_6																			qɑlɯ				qɑlɯ					χɑlɯ			
-JUMP_7																											bøk				poqɯr
-JUMP_8				idɘn																											
-JUMP_9																									ʃurɑ			ʃurɑ			
-KILL_1	øldyr	øjtir	ylter	øːlyr	vɘ̆ʷler	øldyr		ølør	øldyr	øltir	øltyr	øldir	øltɘr	ødɘr	hilɛːr	øltyr	øltyr	øltir	øltør~øltyr	ølyr	ølter	ødyr	øltyr	yter	ølyr	ølʲdyr	øldyr	ølyr	øltyr	oldir	julur
-KILL_2							jɑrɑ et																								
-KNEE_1	diz	tizi~tiz		təsβɑːzə	ʧɘrɡuɕɕi	tiz	tixɡi~chesi		diz	dize		tyz~tiz~kiz	tɘze	tɘzek	tiːiz		tize	tiz	tize	tiz	tizeχ	tize	tize	tez	tɘskek	diz	dɯð	dis	tiz	tiz	tez~tiz
-KNEE_2				təsβɑːzə																											
-KNEE_3					ʧɘrɡuɕɕi																										
-KNEE_4			tubɯq					tobuk			tobuq					tobuq															
-KNOW (SOMETHING)_1	bil	pil	bel	pɘl	pɘl	bil	bil	bil	bil	bil	bil	bil	bɘl	pɘl	bil	bil	bil	bil		bil	bel	pil	bil	bel	bil	bilʲ	bil	bil	bil	bil	pel~pɯl~bel
-KNOW (SOMETHING)_2																			oŋnɑ												
-LAKE_1	ɟøl	køl	kyl	kolʲ	kylɘ	ɡøl		kyøl	ɡøl	køl	køl	ɡel	køl	køl		køl	køl	køl	køl	køl		køl	køl	kyl	høl	ɟølʲ	køl	χøl	køl	kol	køl~kyl
-LAUGH_1	ɟyl	køl	køl	kulʲ	kul	kulʲ	chul	kyl	ɡyl	kyl	kyl	kyl~kul~kil	kyl	kyl	kil	kyle	kyl	kyl	kyl		kulli			køl		ɟylʲ	ɡyl		kyl	kul	kyl~kul~kulʲ
-LAUGH_2														χɑtχɯr								qɑtqɯr	qɑtχɯr		qɑˤqqɯr			qɑttɯr			
-LEAF_1	jɑrpɑɡ	jɑprɑq	jɑprɑq			jɑprɑq	jɑprɑc~jɑbuldrɑc	hebirdek	jɑprɑk	ʒɑpɯrɑq	ʧɑprɑq	jɑprɑq	ʒɑpɯrɑq			jɑpɯrɑq	ʤɑlbɯrɑq	jɑpɯrɑq	cɑlbɯrɑq	jɑpɯrɣɑq	jɑrfɑq		ɟɑlbrɑχ	jɑfrɑq		jɑprɑk	jɑprɑq		jopurmɑq		
-LEAF_2				pyyr										pyr								pyr			byr			byry			
-LEAF_3					ɕulʑɤ̆ʷ																										
-LEAF_4		qɑvɑq																	qɑvɑq												
-LEFT_1	sol	sol	hul	sol		sol	sol		sol tɑrɑf		sol		sol	sol		sol	sol	sol	sol	sol		sol	sol	sul		soɫ			sol		sol
-LEFT_2								kɑŋɑs																							
-LEFT_3												son																			
-LICK_1	jɑlɑ		jɑlɑ	ʧɑlɣɑ	ɕullɑ	jɑlɑ	jɑlɑ	hɑlɑː	jɑlɑ	ʒɑlɑ	ʤɑlɑ	jɑlɑ	ʒɑlɑ	ʧɑlɣɑ	jɑlɣɑ	jɑlɑ	ʤɑlɑ	jɑlɑ	ɟɑlɑ	jɑlɣɑ	jɑlɑ	ʧɑlɣɑ	ɟɑlɑ	jɑlɑ	ʧɯlɣɑ	jɑɫɑ	jɑlɑ	ʧɯlɣɑ	jɑlɑ	jɑlɑ	jɑɣlɑ
-LIE DOWN_1		jɑt	jɑt	ʧɑt		jɑt	jɑt	hɯt	jɑt	ʒɑt	ʤɑt	jɑt	ʒɑt	ʧɑt	jɑːt	jɑt	ʤɑt	jɑt	cɑt	jɑt	jɑt	ʧɑt	ɟɑt	jɑt	ʧɯˤtɑr	jɑt	jɑt	ʧɯt	jɑt	jɔt	jɑt
-LIE DOWN_2	uzɑn																														
-LIE DOWN_3					vɯrt																										
-LIVER_1	bɑɣɯr	bɑwɯr~pɑwɯr~pɑɣɯr	bɑwɯr	pɑɑr	pɘ̆ʷvɘ̆ʷr			bɯɑr		bɑwɯr	bɑwur	bɑvur~bɑwɯr~bɑɣɯr	bɑwɯr	pɑɑr		bɑwur	boor	bɑwɯr	bɑɣɯr~pɑɑr	bɑɣɯr	pɑɣɯr	pɑːr	buur	bɑwɯr	bɑɑr		bɑɣɯr	bɑɑr	beɣir		pɑɣɯr
-LONG_1	uzun	uzɯn~ozɯn	oðon	uzun	vɤ̆ʷrɤ̆ʷm	uzun	uxun	uhun	uzun	uzɯn	uzun	uzun	ʊzɯn	uzun	uzuːn	uzun	uzun	uzɯn	uzun	uzun	uzun	uzun	uzun	ozɯn	uzun	uzun	uðɯn	uzun	uzun	uzun	uzun~uzin~uzen
-LOOK FOR_1		istɛ	eðlɛ							izle	izle	izde~izle	ɘzde			izle	izde	izle	iste	iste	iʃtɛ			ezlɛ					izdɛ	izlɑ	
-LOOK FOR_2				tɘle										tɘle~kɘle						tile		tile			tɘle			dile			tele
-LOOK FOR_3								kørdø																			ɡøðle				
-LOOK FOR_4									ɑːrɑ																	ɑrɑ					
-LOOK FOR_5	ɑχtɑr						ixdɑr					ɑχtɑr																			
-LOOK FOR_6																			pedre				bedre								
-LOOK FOR_7					ʃɯrɑ																										
-LOOK FOR_8						qɯdɯr																								qidir	
-LOOK_1		qɑrɑ	qɑrɑ							qɑrɑ	qɑrɑ		qɑrɑ			qɑrɑ	qɑrɑ	qɑrɑ						qɑrɑ					qɑrɑ	qɑrɑ	qɑrɑ
-LOOK_2				korʲ				kør						kør					kør	kør		kør	kør		kør			kør			
-LOOK_3	bɑχ				pɤ̆ʷχ	bɑq	bɑɡ		bɑk			bɑk			vɑq				bɑq		pɑχ~vɑχ					bɑk	bɑq				
-LOUSE_1	bit		bet	pɘt~pit	pɯjdɤ̆ʷ	bit	bit			bijt	bit	bit	bit	pɘt	bit	bit	bit	bijt	pijt~pit	bit	piʧt	pit	bit	bet	bɯˤt	bit	bit	bɯt	pit	bit	pɯʃt~pɯʃ~pɯt
-MANY_1		køp	kyp	kopʲ			cøp			køp	køb	køp	køp	køp		køp	køp	køp	køp		kop	køp	køp	kyp	køˤp~køˤf		køp	χøj	køp	kop	kep
-MANY_2	ʧoχ					ʧoq			ʧok																	ʧok					
-MANY_3								yɡys												ykyʃ											
-MAN_1						erkek				erkek		erkek	erkek			erkek	erkek	erkek								ercec	erkek		ɛrkɛk	erkɑk	erkek kise
-MAN_2		er~ɛr	ir	ɛr	ɑrʑɯn		er	er kihi		er	erkiʃi	eren~er	er	ir kɘzɘ	hɛr	er~eren		er	er	er	ɛr kiʃi	er kiʒi	erkiʒi	ir	er~			er kiʒi	ɛr		eren~er
-MAN_3	ciʃi		ir					er kihi			erkiʃi	kiʃi~kisi~er		ir kɘzɘ		eren	kiʃi			kiʃi	ɛr kiʃi	er kiʒi	erkiʒi	ir				er kiʒi	ɛr		eren~erkek kise
-MAN_4					ɑrʑɯn															jɑlŋuq											
-MEAT_1	æt	ët	it	ɛt		et	et	et		et	et	et	et	it	ɛt	et	et	et	et	et	et	et	et	it	eˤt	et	et	eˤt			et~jit
-MONTH_1	ɑj	ɑy	ɑj	ɑj	ujɤ̆ʷχ	ɑj	ɑj	ɯj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	hɑːɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɔj	ɑj
-MOON_1	ɑj	ɑjɑq	ɑj	ɑjɣɑrɑːɣə	ujɤ̆ʷχ	ɑj	ɑj	ɯj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	hɑːɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɔj	ɑj
-MOTHER_1	ɑnɑ	ënɛ~inɛ	inɛ		ɑnne	ɑnɑ	ɑnnɑ	inʲe	ɑnɑ	ɑnɑ~	ɑnɑ	ɑnɑ	ɑnɑ			ɑnɑ	ene	ɑnɑ	ene~ɑnɑ~ɑne			ene	ene	ɑnɑ		ɑnne~ɑnɑ	ene		ɑnɑ	ɔnɑ	ɑnɑ
-MOTHER_2			ɛcɛ	iʤɛm										ɘʤe					iʧe		iʤɛ	iʧe			iˤhe			ije			
-MOTHER_3																				øɡ											
-MOUNTAIN OR HILL_1	dɑɣ	tɑw	tɑw	tɑɣ	tu	dɑɣ	tɑɡ~tɑv			tɑw	tɑw	tɑv	tɑw	tɑɣ	tɑːɑɣ	tɑw	too	tɑw	tɑɣ	tɑɣ	tɑɣ	tɑɣ		tɑw	dɑɣ	dɑː	dɑɣ	dɑɣ	tɑɣ	tɔɣ	tɑɣ
-MOUNTAIN OR HILL_2								kɑjɑ																							
-MOUNTAIN OR HILL_3																							qɯr								
-MOUNTAIN OR HILL_4									bɑjɯr																						
-MOUTH_1	ɑɣɯz	ɑwɯs	ɑwɯð	ɑːɣəs		ɑɣɯz	ɑɡis		ɑːz	ɑwɯz	ɑwuz	ɑvuz	ɑwɯz	ɑɑs	ɑːɣɯz	ɑwuz	ooz	ɑwɯz	ɑɣɯs	ɑɣɯz	ɑɣɯz	ɑqsɯ	oos	ɑwɯz	ɑɑs	ɑːɯz	ɑɣɯð	ɑɑs	eɣiz	ɔɣiz	ɑɣɯs~ɑχs
-MOUTH_2								ɑɲɑk																							
-MOUTH_3					ɕɤ̆ʷvɑr																										
-NAME_1	ɑd	ɑt		ɑt	jɑt	ɑd	ɑt	ɑːt	ɑd	ɑt	ɑt	ɑd~ɑt	ɑt	ɑt	ɑːt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑd	ɑt	ɑt	ɑt	ɔt	ɑt
-NARROW_1	dɑr		tɑr			tɑr			dɑr	tɑr	tɑr	tɑr	tɑr	tɑr	tɑːɑr	tɑr	tɑr	tɑr		tɑr		tɑr	tɑr	tɑr	tɑr	dɑr	dɑr	tɑr	tɑr	tɔr	tɑr
-NARROW_2	ensiz				ɑnzɤ̆ʷr																										
-NARROW_3								kɯɑrɑɡɑs																							
-NARROW_4							inchɑ~enɡe																ʧiʧke								
-NARROW_5																			ɯqʧɑm												
-NASAL MUCUS (SNOT)_1											burun boq	burun jivisi			burɯn suvɯ	burunpoq		burɯnboq													
-NASAL MUCUS (SNOT)_10																												dumɑː			
-NASAL MUCUS (SNOT)_11																				jiŋ											
-NASAL MUCUS (SNOT)_2											burun boq					burunpoq		burɯnboq													
-NASAL MUCUS (SNOT)_3												burun jivisi																			
-NASAL MUCUS (SNOT)_4															burɯn suvɯ																
-NASAL MUCUS (SNOT)_5									symyk	simɡirik			sɘŋbɘrɘk				ʧimkirik	simirik	ʧimirik				ʧimirik			symyc	θymyk				
-NASAL MUCUS (SNOT)_6			mɑŋqɑ																					mɑŋqɑ			mɑŋqɑ		mɑŋqɑ		
-NASAL MUCUS (SNOT)_7	fɯrtdɯɡ																														
-NASAL MUCUS (SNOT)_8				irɘŋ								jeriŋ		ɘrɘŋ																	jerin
-NASAL MUCUS (SNOT)_9																													miʃik	miʃiq	
-NAVEL_1		kɛndik~kɛntik	kendek	kəndɘk						kindik	kindik	kindik	kɘndɘk	kɘn~kɘndɘk	kyndik	ɡinnik~ɡindik	kindik	kindik	kindiɡ	kindik	kintiχ	kindik	qɯn	kendek	hin			χin~χindik	kindik	kindik	qɯndɯq
-NAVEL_2	cøbæc				kɤ̆ʷvɑbɑ	kobek			ɡøbek																	ɟøbec	ɡøbek				
-NEAR_1		yɑvɯq			ɕɯvɤ̆ʷχ		jɑoh	ʧuɡɑs~huɡɑs			ʤuwuq					juwuq		juwɯq		jɑɣuq~jɑɣuru			juq~juχ		ʧoːɣɑʃ			ʧooq			
-NEAR_2	jɑχɯn	yɑqɯn	jɑqɯn	ʧɑːɣən		jɑqun			jɑqɯn	ʒɑqɯn		jɑqɯn	ʒɑqɯn	ʧɑɣɯn			ʤɑqɯn		cɑɣɯn		jɑχɯn	ʧɑɣɯn		jɑqɯn		jɑkɯn	jɑqɯn		jeqin	jɑqin	jɑqɯn~juqun
-NECK_1	bojun	mojun~mojɯn~mujɯn	mujɯn	poːjun	mɤ̆ʷj	bojun	bojn	muoj	bojun	mojɯn	bojun	bojun	mojɯn	mojɯn	buun	bojun	mojun	mojɯn	mojɯn	bojɯn	poinɯ	mojun	mojɯn	mujɯn	møen	bojun	bojun	mojun	bojun	bojɯn	moin
-NEW_1	jeni	jɑŋɑ	jɑŋɯ	nʲɑɑ	ɕɘnɘ	jɑŋɯ	iɑnɡi~jɑnɡi	hɑŋɑ	jeni	ʒɑŋɑ	ʤɑŋɯ	jɑnɣɯ	ʒɑŋɑ	nɑɑ	jɛŋɡi	jɑŋɯ	ʤɑŋɯ	jɑŋɯ	ɲɑŋɯ~jɑː	jɑŋɯ	jɑŋɯ	nɑː	ɟɑŋɯ	jɑŋɑ	ɲɑɑ	jeni			jeŋi		jɑŋɯ~jɑŋɑ
-NIGHT_1		tøn~tyn	tøn	tyn			tun	tyːn		tyn			tyn	tyn			tyn	tyn	tyn	tyn		tyn	tyn	tøn	dynne			dyn	tyn		tyn
-NIGHT_2	ɟeʤæ					ɡeʤe			ɡeʤɛ		keʧe	keʧɛ~keʦe			kiːeʧɛ	ɡeʧe		keʃe			ɡeʤe					ɟeʤe	ɡiʤe			keʧɑ	
-NIGHT_3				qɑrɑ										χɑrɑɑ																	
-NIGHT_4					ɕɘ̆ʷr																										
-NOSE_1																									hɑɑj			χɑɑj			qɑŋrɯq
-NOSE_2	burun	morɯn~murɯn		purun		burun	burun~buen~bin	munnu	burnu	murɯn	burun	burun	murɯn	purun	burɯn	burun	murun	burɯn	burun	burun	purnɯ	purnu		borɯn		burun	burun		burun	burun	
-NOSE_3																							tumʧuq					dumʧuq			
-NOT_1	mɑ	mɑ	mɑ	bɑ	mɑ	mɑ	mɑ	bɑ	mɑ	mɑ~bɑ~pɑ	mɑ	mɑ	mɑ	bɑ~pɑ~mɑ	mɑ	mɑ	bɑ	mɑ~bɑ~pɑ	bɑ	mɑ	mɑ	pɑ~bɑ~mɑ	mɑ~bɑ	mɑ	bɑ~vɑ~pɑ	mɑ	mɑ	mɑ~eves	mɑ	mɑ	emes~emestro~emeser~mɑ~pɑ
-OLD (USED)_1		ëski	iθke			eski	eschi		eski	eski	eski	eski	eskɘ			esɡi	eski	eski	eski	eski	eski	eski	eski	iske		esci			ɛski	eski	
-OLD (USED)_2				ɛrɡe				erɡe						irɡɘ											eˤrhi			erɡi			erke
-OLD (USED)_3					kivɘ																										
-ONE_1	bir	pir	ber	pɘr	pɘrre~pɘr	bir	bir	biːr	bir	bir	bir	bir	bɘr	pɘr	biː	bir	bir	bir	pir~bir~mir~vir	bir	bir	pir	bir	ber	bɘr~bɘrɛɛ	bir	bir	bir	bir	bir	per~pɯr
-OPEN_1	ɑʧ	ɑʦ	ɑs	ɑʧ	uɕ	ɑʧ	ɑʧ		ɑʧ	ɑʃ	ɑʧ	ɑʧ	ɑʃ	ɑs	hɑʧ	ɑʧ	ɑʧ	ɑʃ	ɑʧ~ɑʃ	ɑʧ	ɑʧ	ɑʃ		ɑʧ	ɑˤʃ	ɑʧ	ɑʧ	ɑʒɯt	ɑʧ	ɔʧ	ɑʃ
-OPEN_2								ɑrɯj																							
-OTHER_1	bɑʃɡɑ	pɑʃqɑ	bɑʃqɑ	pɑsqə		bɑʃqɑ			bɑʃkɑ	bɑsqɑ	bɑʃχɑ	bɑskɑ	bɑsqɑ	pɑsχɑ		bɑʃɣɑ	bɑʃqɑ	bɑsqɑ				pɑʃqɑ		bɑʃqɑ	bɑˤʃqɑ	bɑʃkɑ	bɑʃɡɑ		bɑʃqɑ	bɔʃqɑ	
-OTHER_2																			ɑrtɑn		ɑtɯ										
-OTHER_3								ɑtɯn												ɑdɯn											
-OTHER_4							oxɡɑ~osɡe								iːezɛ	øzɡe			øskø	øzɡe			øskø		øˤske			øske			
-OTHER_5					urɤ̆ʷχ																										
-PERSON_1		kiʃi	keʃe	kɘzɘ			kisi	kihi				kiʃi	kɘsɘ	kɘzɘ		ɡiʃi	kiʃi	kisi	kiʒi~kiʤi	kiʃi	kiʃ	kiʒi	kiʒi	keʃe	kiʃi	ciʃi		kiʒi	kiʃi	kiʃi	kise
-PERSON_2					ɕɯn															jɑlŋuq											
-PLAY_1	ojnɑ	ojnɑ	ujnɑ	ojnɑ	vɯlʲɑ	ojnɑ	ojnɑ	oːjnoː	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	oːnɑ~uːnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojno	ujnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ɔjnɑ	ojnɑ
-PULL_1		tɑrt	tɑrt	tɑrt	turt	tɑrt	tɑrt	tɑrt		tɑrt	tɑrt	tɑrt	tɑrt	tɑrt		tɑrt	tɑrt	tɑrt	tɑrt	tɑrt	tɑː	tɑrt	tɑrt	tɑrt	tɯˤrt		dɑrt	tɯrt	tɑrt	tɔrt	tɑrt
-PULL_2	ʧæc					ʧek			ʧek						ʧɛk											ʧec	ʧek				
-PUSH_1	itælæ		et	itle		ite		yt	itir	ijter		ijt	iter	ɘt			iter	ijte	it		iʃt	it	ijt	et	iˤt	it	it	it	iʃtɛr~iʃtir	itɑr	iʃit
-PUSH_2														sɑs																	
-PUSH_3					tɘk																										
-PUSH_4											teber					teber															
-PUS_1	irin	ɛrɛŋ	eren			irin			ijrin	iriŋ	irin	irin	ɘrɘŋ	ɘrɘŋ		irin	iriŋ	irin		jiriŋ	jireŋ	iriŋ	iriŋ	eren	iriŋ	irin	iriŋ	iriŋ	ʒiriŋ	jiriŋ	
-PUS_2					pyr																										
-PUT ON_1	cej	kɛj	kej	kæsʲ		kij	kej	ket	ɡij	kij	kij	kij	kij	kis	kɛd	ɡij	kij	kij	kij	ked	kij	kes	kij	kij	ket	ɟij	ɡej	ket	kij	kij	kez
-PUT ON_2					tɤ̆ʷɣɤ̆ʷn																										
-RAIN (PRECIPITATION)_1	jɑɣɯʃ	jɑnɣɯr	jɑmɣɯr		ɕumɤ̆ʷr	jɑɣɯʃ	jɑmɡur	hɑmɯːr	jɑːmur	ʒɑwɯn	ʤɑŋur~ʤɑwun	jɑmɣur	ʒɑŋbɯr~ʒɑwɯn	nɑŋmɯr	jɑɣɯʃ	jɑŋur~jɑwun	ʤɑmɣɯr	jɑmɣɯr	ɲɑŋmɯr~ɲɑnmɯr~nɯŋmɯr	jɑɣmur	jɑɣmur	nɑɣbur	ɟɑɑʃ~ɟɑŋmɯr	jɑnɡɯr		jɑːmur	jɑɣɯʃ~jɑɣmɯr		jɑmɣur	jɔmɣir	jɑɣmɯr
-RAIN (PRECIPITATION)_2				suɣ																											
-RAIN (PRECIPITATION)_3																									øˤsken						
-RAW_1	ʧij~ɑlɑʧij		sej			ʧij	ʧijɡ	hiːkej	ʧiː	ʃijki	ʧij	ʧɯj~ʧij~ʦɯj	ʃikɘ	ʧɘɡ		ʧij	ʧijki	ʃij	ʧiɡ~ʧɯɣ~ʧiŋ			ʧɯɣ	ʧij	ʧi	ʧiɣ	ʧɯː	ʧɯɣ	ʧiɡ			
-RAW_2																				jiɡ											
-RAW_3					ʧɘrɘ																										
-RAW_4		jɛʃ																													
-RED_1		qɯzɯl	qɯðɯl	qəzəl	χɘrlɘ	kɯzil	chexel	kɯhɯl		qɯzɯl	qɯzɯl	kɯzɯl~kizɯl	qɯzɯl	χɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯsɯl~qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl		ɡɯðɯl	qɯzɯl	qizil	qizil	qɯzɯl
-REMAIN_1	ɡɑl	qɑl	qɑl	qɑl	jul	qɑl		kɑːl	kɑl	qɑl	qɑl	kɑl	qɑl	χɑl	qɑːl	qɑl	qɑl	qɑl	qɑl	qɑl	qɑl	qɑl		qɑl	qɑl	kɑɫ	ɡɑl	ɑrtɯp qɑl	qɑl	qɔl	qɑl
-REMAIN_2							ɑrt																ɑrt					ɑrtɯp qɑl			
-RIGHT_1		oŋ	uŋ	oŋ		oŋ	oŋ	uŋɑ		oŋ	oŋ	on	oŋ	oŋ		oŋ	oŋ	oŋ	oŋ~on~uŋ	oŋ		oŋ	oŋ	uŋ	oŋ			oŋ	oŋ	oŋ	oŋ~uŋ
-RIGHT_2	sɑɣ				sɯldɤ̆ʷm				sɑɑ tɑrɑf												sɯχ					sɑː	θɑɣ				
-RIGHT_3															bod																
-RIPE_1		piʃ	beʃ	pɘs	pɘɕ	piʃ	bis	bus		pis	biʃ		pɘs	pɯs		biʃ	bɯʃ	pis	pɯʃ	bɯʃ	piʃ	pɯʃ	bɯʃ	peʃ	bɯˤʃ		biʃ	bɯʃ	piʃ	piʃ	
-RIPE_2	jetiʃ											jetil																			
-RIPE_3									olɣunlɑʃ																	oɫɡunɫɑʃ					
-RISE (MOVE UPWARDS)_1		kytiril	kytɛrel			køteril				køteril		ketiril	køter			ɡøter	køtøryl	køteril	kødyryl					kytɛrel				kødyryl	køtyryl	qotɑril	
-RISE (MOVE UPWARDS)_2														ørle						ør		ørle							ørlɛ		ørle
-RISE (MOVE UPWARDS)_3																			tɑnzɑ												
-RISE (MOVE UPWARDS)_4									pin										myn					men							
-RISE (MOVE UPWARDS)_5	ʧɯχ	ʦɯq				ʧɯq					ʧɯq			sɯχ					ʃɯq~ʧɯq				ʧɯq			ʧɯk	ʧɯq			ʧiq	
-RISE (MOVE UPWARDS)_6					χɤ̆ʷbɑr																χup										
-RISE (MOVE UPWARDS)_7															hin					yn					yn			yn			yn
-RISE (MOVE UPWARDS)_8								ɯtɯn																							
-RIVER_1		su			ʃɯv						suw			suɣ			suu	suv	suɣ			suɣ	suu						su		su
-RIVER_10															ʧɔːbɔːn																
-RIVER_2		yɯlɣɑ	jɯlɣɑ																					jɯlɣɑ							
-RIVER_3				ʧul																		ʧulɑt									
-RIVER_4						øzen				øzek		øzɛn	øzen			øzen	øzøn				uzen										
-RIVER_5	ʧɑj																														
-RIVER_6				yːs			ochus													øɡyz											yɡys
-RIVER_7								ebe																							
-RIVER_8																										ɯrmɑk					
-RIVER_9																									hem			χem			
-ROOT_1		tɑmɯr	tɑmɯr		tɯmɑr	tɑmɯr				tɑmɯr	tɑmɯr	tɑmur	tɑmɯr			tɑmur	tɑmɯr	tɑmɯr						tɑmɯr					tomur		
-ROOT_2				ʧəltəs				hilis												jɯltɯz		ʧɯltɯs			sɯldɯs				jiltiz~ʒiltiz	ildiz	jɯltɯs
-ROOT_3		tɑzɯl																	tɑzɯl			tɑzɯl	tɑzɯl					dɑzɯl			
-ROOT_4	cøc								køk																	cøc	køk				
-ROOT_5							tub																								
-ROOT_6																					ozeχ										
-ROPE_1			bɑw	pɑɣ	pɤ̆ʷjɑv			bɯɑ		bɑw			bɑw	pɑɣ				bɑw	pɑɣ			pɑɣ	buː	bɑw	bɑɣ						pɑɣ
-ROPE_2			ɑrqɑn			ɑrqɑn				ɑrqɑn			ɑrqɑn			ɑrqɑn		ɑrqɑn												ɑrqɔn	
-ROPE_3	ip	jip				jip				ʒip		jip	ʒɘp				ʤip									ip	jyp				jep~jip
-ROPE_4	cændir				kɑndrɑ																							χendir			
-ROPE_5																				uruq	urχɑn					urɡɑn					uruq
-ROPE_6																	køtørmø														
-ROPE_7									ʧɑtɯ																						
-ROPE_8					vɘ̆ʷren		ørken					ørken~erken																			
-ROTTEN_1	ʧyry		ser		ɕɘr	ʧyry			ʧyry	ʃir	ʧir	ʦiri	ʃɘr		ʧirry	ʧiri	ʧir	ʃiri			ʧyr		ʧiri	ʧer		ʧyry	ʧyjre		ʧiri		
-ROTTEN_2														ɘr					iri~irikte	jiry		irikte						iri			
-ROTTEN_3								hɯtɯj						ʧɯzɯ	jɯd køtyr										ʧɯdɯ			ʧɯdɯ			jiz
-ROTTEN_4															jɯd køtyr																
-ROTTEN_5				sɑs																									sesɛ	sɑs	
-ROUND_1							teɡirmɑ	tøɡyryk									teɡerek~toɣoloq			teɣirmi			teɣerik								
-ROUND_2	døvreli																								tøørej						
-ROUND_3			tumɑlɑq			tomɑlɑq				domɑlɑq~dumɑlɑq			domɑlɑq					tɯmɑlɑq											domulɑq	dumɑlɔq	
-ROUND_4					ɕɑvrɑɡɑ		ʧourɑ																								
-ROUND_5	jumru		jomoro	ʧumɑq			juɡɑlɑk		juvɑrlɑk	ʒumɑlɑq~ʒumɯrɯ		jumɑlɑk	ʒʊmɯr	nɯmɑlɑχ			ʤumuru							jomrɯ		juvɑrɫɑk			jumulɑq~ʒumulɑq	jumɑlɔq	
-ROUND_6														terpek												deːirmi					
-ROUND_7															ɡildir																
-RUN_1					ʧup	ʧɑp					ʧɑp	ʧɑp				ʧɑp		ʃɑp											ʧɑp	ʧɔp	
-RUN_2		jøɡir	jyɡer	ʧyɡyr			juɡur	hyyr		ʒuwɯr		juvur	ʒyɡɘr	ʧyɡyr	jiːir		ʤyɡyr	juwɯr	cyɡyr	jyɡyr	ʒykyr~jykyr	ʧyɡyr	ɟyɡyr	jøɡer					ʒyɡrɛ		
-RUN_3	ɡɑʧ								kɑʧ																						
-RUN_4																															qɑjlɑ
-RUN_5																									sun						
-RUN_6																											ɯlɣɑ				
-RUN_7																										koʃ					
-RUN_8																												mɑŋnɑ			
-SALT_1	duz		toð	tus	tɤ̆ʷvɑr	tuz	tus	tyːs	tuz	duz	tuz	tuz	tʊz	tus	tuz	tuz	tuz	tuz	tus	tuz	duz~dyz~tyz	tus	tus	toz	tus	tuz	duð	dus	tuz	tuz	tuz
-SAND_1	ɡum	qum	qom	qum		qum	kum~cun	kumɑk	kum	qum	qum	kum	qʊm	χum		χum	qum	qum	quvɑq~qum	qum	kum	qumɑq		qom	hum	kum			qum	qum	qum~qom
-SAND_2					χɤ̆ʷjɤ̆ʷr											qɑjɯr		qɑjɯr													
-SAND_3																											ʧɛɡe				
-SAY_1		ɛjt	ɛjt	ɑjt		ɑjt	ɑjt			ɑjt	ɑjt	ɑjt	ɑjt		hɑːj		ɑjt	ɑjt	ɑjt		ejʃɑ	ɑjt	ɑjt	ɛjt			ɑjt		ejt	ɑjt	ɑj
-SAY_2	de	të	ti		te		de	die	de	de	de					de	de	de	de	teː	tɛ~ti		de	di	de	de	dij		dɛ	de	ti
-SAY_3	søjlæ								søle																	søjlʲe					
-SAY_4														ʧooχtɑ														ʧuɣɑːlɑ			
-SCRATCH_1	ɡɑʃɯ				χɯɕ	qɑʃɯ			kɑʃɯ	qɑsɯ	qɑʃɯ	kɑʃɯ~kɑsɯ	qɑsu		qɑʃu	χɑʃɯ	qɑʃɯ	qɑsɯ						qɑʃu		kɑʃɯ	ɡɑʃɑ		qɑʃlɑ	qɑʃi~qɑʃlɑ	
-SCRATCH_2				tərβəqtɑ										tɯrbɑ					tɯrbɑ~tɯrbɑqtɑ			tɯrbɑqtɑ	tɯrmɑ						tirmɑqlɑ		
-SCRATCH_3																			qɯʤɯ												
-SCRATCH_4			tɯrnɑ																												tɯrnɑ
-SEA_1	dæniz	tɛŋɡis	diŋɡeð			deŋiz	tenɡis		deniz	teŋiz	teŋiz	tenɡiz	teŋɘz			deŋiz	deŋiz	teŋiz	teŋis				teŋis	diŋɡez		deniz	deŋið		deŋiz	deŋiz	
-SEED_1			orloq		vɤ̆ʷrɤ̆ʷ	urluq	uru~ourluc				urluq	urluk	ʊrɯq			urluq	uruq	urlɯq		uruɣ	urluχ			orlɯq					uruq	uruɣ	
-SEE_1	ɟør	kør	kyr	korʲ	kur	kør	chor	kør	ɡør	kør	kør	kør~ker	kør	kør	ker	ɡør	kør	kør	kør	kør	kør	kør	kør	kyr	kør	ɟør	ɡør	kør	kør	kor	kør~kyr
-SEW_1	tic	tik	tek	tɘk		tik	tich	tik	dik	tik	tik	tik	tɘk	tɘk	tik	tik	tik	tik	tik		tiχ	tik		tek		dic	tik		tik	tik	tek~tɯq
-SEW_2																			køktø				køktø								
-SEW_3					ɕɘ̆ʷle																										
-SEW_4																									dɑɑrɑ			dɑːrɑ			
-SHADE_1	cølcæ		kylɛɡɛ	keːlɘɡ		kolʲɡe	colɛɡe	kylyk	ɡølɡɛ	køleŋke	kølekke	køleɡe	køleŋke	kølek~køletkɘ		ɡølentɡi	køløkø	køletki	køløtkø	køliɡe		kølek	køløtki	kylɛɡɛ	høleɡe	ɟølʲɟe	køleɡe	χøleɡe	kølɛŋkɛ		kylehke~kelehki
-SHADE_2					ɘmɘlɡe																										
-SHARP_1			ytker							øtkir			øtkɘr				øtkyr	øtkir	øtkyr				øtkyr~ødyr	ytken					øtkyr	otkir	
-SHARP_2	iti			ʧɘdɘɣ	ɕivɘʧ		iti	hɯtɯː			ʤiti	iti		ʧɘtɘɡ	jitdi~jittiː	itti				jiti~jitti		ʧidiɡ			ʧiˤtɘ		jiti	ʧidiɡ			ɯʃtɯɣ
-SHARP_3																	qurʧ						qurʧ								
-SHARP_4						keskin			keskin						kɛsɡili											cescin					
-SHORT_1	ɡɯsɑ		qɯsqɑ	qəsqɑ	kɘske	qɯsqɑ	kizchɑ		kɯsɑ	qɯsqɑ	qɯsχɑ	kɯskɑ	qɯʃqɑ	χɯsχɑ		qɯsɣɑ	qɯsqɑ	qɯsqɑ	qɯsqɑ	qɯsɡɑ	χɯsχɑ	qɯsqɑ	qɯsχɑ	qɯsqɑ	qɯˤsqɑ	kɯsɑ	ɡɯθɡɑ	qɯsqɑ	qisqɑ		qɯsqɑ
-SHORT_2								kɯlɡɑs																							
-SHORT_3		qɑrsɑq																													
-SHOULDER_1			iŋbɑʃ	ɛŋnɘ						ijin	imbɑʃ	iin	ijɘn	iŋnɘ		inbɑʃ	ijin	ijin		eɡin			ijin	iŋbɑʃ			eɡin	eɡin			iɡen
-SHOULDER_2																						øʃty			øˤhyn				høʃnɛ		
-SHOULDER_3						omuz			omuz																	omuz			omuz		
-SHOULDER_4		jɑwrɯn	jɑwrɯn					hɑnnɯ											ɟɑrɯn~jɑrɯn		jɑɣrɯ~jɑrɡɯ										
-SHOULDER_5	ʧijin																														ʤiɡin
-SHOULDER_6			qulbɑʃ		χulbuɕɕi																			qulbɑʃ							
-SHOULDER_7			qulbɑʃ		χulbuɕɕi						imbɑʃ					inbɑʃ								qulbɑʃ							
-SHOULDER_8																													jɛlkɛ	jelkɑ	
-SING_1		jɯrlɑ	jɯrlɑ			jɯrlɑ					ʤɯrlɑ					jɯrlɑ		jɯrlɑ		jɯrlɑ				ʤɯrlɑ							jɯrlɑ
-SING_10									ʧɑl																						
-SING_2												sɑrnɑ		sɑrnɑ					sɑrɯnɑ			sɑrnɑ									
-SING_3				ərlɑ			yrlɑ	ɯllɑː						ɯrlɑ			ɯrdɑ								ɯrlɑ			ɯrlɑ			
-SING_4	oχu											ʃɯrɑ oχu			hoqu~hoqo																
-SING_5												ʃɯrɑ oχu																			
-SING_6																							qoʒondo								
-SING_7										ɑjt			ɑjt														ɑjt		nɑχʃɑ ejt	ɑʃulɑ ɑjt	
-SING_8																										ʃɑrkɯ søjlʲe					
-SING_9					jurlɑ																										
-SIT_1	otur	otɯr	ultɯr	oːlur	lɑr	otur	oltur	olor	otur	otɯr	oltur	oltur	otɯr	odɯr		oltur	otur	oltɯr	otur	olur	otɯr	odur	otɯr	utɯr	olur~olɯr	otur	otur	olur	oltur	otir	oltur
-SIT_2															juor																
-SKIN_1	dæri	tɛri	tire		tirɘ	teri		tiriː	deri	teri	teri	teri	terɘ	teːr	tɛri	teri	teri	teri	tere	teri	tir	tere	tere	tire		deri	deri		terɛ	teri	ter~tere
-SKIN_2				ʧɑmɑɣ																											
-SKIN_3																									keˤʃ			keʃ			
-SKIN_4							bilɑu																								
-SKY_1	ɟøj	køk	kyk			kok	kok		ɡøk		køk	køk				køk	køk	køk	køk	køk				kyk		ɟøc					
-SKY_2														tiɡɘr					teɡri	teŋri		teɡri	teŋeri		deːre			deer			teŋir
-SKY_3								kɑllɑːn												qɑlɯq											
-SKY_4					tybe																										
-SKY_5				kunʲ																											
-SLEEP_1				uzu			uju	utuj	uju					uzu						udɯ		uzu			udu	uju		udu			uzu
-SLEEP_2		joqlɑ~juqlɑ	joqlɑ			juqlɑ				ujqɯlɑ	ʤuqlɑ	juklɑ	ʊjɯqtɑ			juχlɑ	uqtɑ	ujqlɑ	ujqtɑ~ujttɑ		uχlɑ		uχtɑ	joqlɑ			uqlɑ		uχlɑ	uχlɑ	
-SLEEP_3	jɑt														jɑt												jɑt				
-SLEEP_4					ɕɯvɤ̆ʷr																										
-SMALL_1	ciʧic	kiʧy		kɘʧeeʧ			kyʧe~chiʧi	kyʧʧyɡyj	kyʧyʤyk	kiʃkene~kiʃkentɑj	ɡitʧe	kiʧi~kiʦi	kɘʃkene~kɘʃkentɑj	kɘʧiʤek		ɡiʧʧi	kiʧine	kiʃkej	kiʤiɡ~kiʧi~kiʧinek~kiʧeʧ~kiʧy	kiʧiɡ	kiʧi~kiʤi	kiʧiɡ	kiʧi	keʧkenɛ		cyʧyc	kiʧi		kiʧik	kiʧkinɑ	kiʧiɡ
-SMALL_2			bɛlɛkɛj~bɛlɛkɛs																												
-SMALL_3						ufɑʧɯq																				ufɑk					
-SMELL_1			hið		sis	sez				sez	sez	ses	sez	sizɘn		sez	sez	sez	ses			ses	sez	siz			θɯð		sɛz	sez	
-SMELL_2	duj		toj		tuj	duj			duj									tuj						toj		duj	duj				tuj
-SMELL_3								bil		bil	bil		bɘl	pɘl		bil	bil									bilʲ				bil	
-SMELL_4																												ʧɯdɯːrɣɑ~ʧɯt qɑq			
-SMOKE (EXHAUST)_1	tysty	totin	tøtøn	tydyn	tɘ̆ʷdɘ̆ʷm	tytyn	tutum~tutun		tytyn	tytin	tytyn	tytyn~tytsy	tytɘn	tydyn	tityn	tytyn	tytyn	tytin	tydøk	tytyn	ʦyʦyn~ʤyʤyn	tydyn		tøten			tyθθe			tutun	
-SMOKE (EXHAUST)_2								buruo																							
-SMOKE (EXHAUST)_3														ɯs									ɯʃ		ɯʃ			ɯʃ	is~ɛs		ɯs
-SMOKE (EXHAUST)_4																										dumɑn					
-SMOOTH_1			tiɡeð			teɡiz				teɡis			teɡɘs			teɡiʃ	teɡiz	teɡis									tekið		teqis~teqir~tɑqir	tekis	
-SMOOTH_2									dyz			tyz		tys					tys		tiz		tys			dyz			tyz		tys
-SMOOTH_3					jɑɡɑ																										
-SMOOTH_4											sɯjdɑm																				
-SMOOTH_5								teniɡir																							
-SMOOTH_6																						sɯlɑɣɑj							siliq	silliq	
-SMOOTH_7																									kileɡer			qɯlɑŋ			
-SMOOTH_8		tɑqɯr																													
-SNAKE_1	ilɑn	jɯlɑn	jɯlɑn		ɕɘlen	jɯlɑn	ilɑn~ɡillɑn~jlɑɡɑn		jɯlɑn	ʒɯlɑn	ʤɯlɑn	jɯlɑn~ilɑn	ʒɯlɑn	ʧɯlɑn	jilɑːn	jɯlɑn	ʤɯlɑn	jɯlɑn	cɯlɑn	jɯlɑn	jilɑn	ʧɯlɑn	ɟɯlɑn	jɯlɑn		jɯɫɑn	jɯlɑn	ʧɯlɑn	ilɑn~ʒilɑn	ilɔn	jɯlɑn
-SNAKE_3																									ʧer bɑlɯː						
-SNAKE_4				uzunɣurt																											
-SNOW_1	ɡɑr	qɑr	qɑr	qɑr	jur	qɑr	chɑr~kɑr	kɑːr	kɑːr	qɑr	qɑr	kɑr	qɑr	χɑr	qɑːr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	kɑr	ɡɑr	χɑr	qɑr	qɔr	qɑr
-SOFT_1	jumʃɑɡ		jomʃɑq	ʧəmʧɑq	ɕemʑe	jɯmʃɑq	jumsɑk		jɯmɯʃɑk	ʒumsɑq	ʤumuʃɑq	imʃɑχ	ʒʊmsɑq	nɯmzɑχ		jɯmɯʃɑq	ʤumʃɑq	jumsɑq		jumʃɑq	miʧeχ~miʃɯχ	ʧɯmʧɑq	ɟɯmʃɑχ	jomʃɑq	ʧɯmʤɑq	jumuʃɑk	jumʃɑq	ʧɯmʧɑq	jumʃɑq~ʒumʃɑq	jumʃɔq	jumsɑq
-SOFT_2								imiɡes																							
-SOUR_1			ɛse	ɑʧəɣ	jyʑɘ			ɑhɯː						ɑʧɑɑn		ɑʧʧɯ		ɑʃʃɯ	ɑʤɯɣ~ɑʧqɯm			ɑʧɯɣ	ɑʧu	ɛʧe	ɑʤɯɣ			ɑʒɯɣ	ɑʧʧiq		ɑʧɯɣ
-SOUR_2											mɯstɯ																				
-SOUR_3						ekʃi			iːʃi~ijʃi																	ecʃi					
-SOUR_4													qɯʃqɯl				qɯʧqɯl		qɯʧqɯlɑq												
-SOUR_5												kuʤur																			
-SPIN_1	æjir			ir	ɑrlɑ~ɑvɤ̆ʷrlɑ					ijir	ijir	iir	ijɘr	iir	hɛjir	ijir	ijr	ijir	ijir			iːr	iir	erlɛ	eːr	ejir	eɡir		eɡɛr~iɡɛr	ijɡir	
-SPIN_3			ilɛ						iplik iʃle									ijir													
-SPIN_5			ilɛ						iplik iʃle																						
-SPIN_6						ʧijrɑt																									
-SPIT_1	typyr	tøkur	tøkør	tykurʲ		tykyr			tykyr	tykir	tykyr	tikir	tykɘr	tykyr		tykyr	tykyr	tykir	tykyr		tyχor	tykkyr	tykyr	tøker	tykkyr	tycyr	tyjkyr		tykyr	tupur~tuplɑ	
-SPIT_3					sur															sod											
-SPIT_4																															tydeste
-STAND_1	dur	tor~tur	tor	tur	tɤ̆ʷr	tur	tur	tur	dur	tur	tur	tur	tur	tur	tur	tur	tur	tur	tur	tur	dɯr	tur	tur	tor	tur	dur	dur	tur	tur	tur	tur
-STAR_1	ulduz		jondoð	ʧəltəs	ɕɤ̆ʷldɤ̆ʷr	jɯldɯz	juldus	hulus	jɯldɯz	ʒuldɯz	ʤulduz	julduz~jolduz~jɯldɯz	ʒʊldɯz	ʧɯltɯs	julduz	julduz	ʤɯldɯz	juldɯz	jɯldɯs	jultuz	jultus~jiltis	ʧɯltɯs	ɟɯldɯs	joldɯz	sɯltɯs	jɯɫdɯz	jɯldɯð	sɯldɯs	jultuz~ʒultuz	julduz	jultɯs~jɯltɯs
-STICK_1		tɑyɑq	tɑjɑq			tɑjɑq				tɑjɑq	tɑjɑq	tɑjɑk	tɑjɑq	tɑjɑχ		tɑjɑq	tɑjɑq	tɑjɑq	tɑjɑq			tɑjɑq	tɑjɑq	tɑjɑq	tɑjɑq		tɑjɑq	dɑjɑŋɣɯːʃ	tɑjɑq	tɑjɔq	
-STICK_2	ɑɣɑʤ	ɑɣɑʦ		ɑɑʧ				mɑs						ɑɣɑs	hɑɣɑʧ					ɯɣɑʧ			ɑɣɑʃ					ɯjɑʃ			
-STICK_3	ʧubuɡ						ʧibuch																								ʤomɑq
-STICK_4					pɑdɑk																										
-STICK_5									sopɑ																	sopɑ					
-STICK_6																									merhe			merɡe			
-STICK_7																					peŋɡɑr										
-STONE_1	dɑʃ	tɑʃ	tɑʃ	tɑs~sɑjdɑːzə	ʧul	tɑʃ	tɑs~tɑz	tɑːs	tɑʃ	tɑs	tɑʃ	tɑʃ	tɑs	tɑs	tɑːɑʃ	tɑʃ	tɑʃ	tɑs	tɑʃ~tɑs	tɑʃ	tɑʃ	tɑʃ	tɑʃ	tɑʃ	dɑʃ	tɑʃ	dɑʃ	dɑʃ	tɑʃ	tɔʃ	tɑs
-STRAIGHT_1		turɯ~torɯ	turɑ			doɣru			doːru	tuwrɯ		doɣru						tuwrɑ						turɯ					toɣri	toɣri	
-STRAIGHT_2	dyz		tøð		tyrɘ		tuz				tyz		tyzu			tyz	tyz		tys		tizer	tys	tys			dyz					toz~tys~tøz
-STRAIGHT_3				qɑβɑrtɑ																											
-STRAIGHT_4							conu~choiuj	kønø						kønɘ											høny		ɡøni				
-STRAIGHT_5																												dort			
-SUCK_1	sor		hur	sor						sor			sor	sor	suor	sor	sor	sor	sor	sor		sor	soor	suɯr	sor		θor	sor	ʃorɑ	sor	
-SUCK_2	æm		im	ɛm	ɘ̆ʷm	em		em	em	em	em	em	em	em	ɛm	em	em	em	ep			em	em	im	em	em	em	em	ɛm	em	em
-SUCK_3								obor																							
-SUN_1	ɟynæʃ~ɟyn			kunʲɣɑrɑːɣə			kun	kyn	ɡyn	kyn	kyn		kyn	kyn	kyn~kin	ɡyn	kyn	kyn	kyn	kyn	kun	kyn	kyn		hyn		ɡyn	χyn	kyn		kyn
-SUN_3	ɟynæʃ~ɟyn	qojɑʃ	qojɑʃ		χɘ̆ʷvel	kyneʃ			ɡyneʃ			kujɑʃ				ɡyn								qojɑʃ		ɟyneʃ				qujɔʃ	
-SUN_4				kunʲɣɑrɑːɣə																											
-SWALLOW_1	ud	jut~jyt	jot		ɕɤ̆ʷt	jut			jut	ʒut	ʤut	jut	ʒʊt		juːut	jut	ʤut	jut	jyt				ɟut	jot		jut	juwut		ʒut	jut	
-SWALLOW_2																						oːrtɑ									
-SWALLOW_3								ɯɲɯr												siŋir											
-SWALLOW_4				ɑzɯr										ɑzɯr														ɑʒɯr			
-SWALLOW_5																									bɑˤtɯr						
-SWALLOW_6																					uχ										
-SWEET_1		tɑtlɯ	tɑtlɯ	tɑːdləɣ		tɑtlɯ	tɑtli		tɑtlɯ		tɑtlɯ	tɑtlɯ	tɛttɘ	tɑdɯlɯɣ		tɑtli	tɑttuu	tɛtli	tɑɑttu	tɑtɯɣlɯɣ	tɛlli		tɑtu	tɑtlɯ	tɑdɯɣlɯɣ	tɑtɫɯ					tɑtɯɣ
-SWEET_2								miɲɲiɡes																							
-SWEET_3					pɯlɑk																										
-SWEET_4																											θyjʤi				
-SWELL_1	ʃiʃ		ʃeʃ		ʃɯɕ	ʃiʃ			ʃiʃ	is		sis	ɘs	sɘs	ʃɯʃ	ʃiʃ	ʃiʃ	sis		sɯʃ		ʃiʃ		ʃeʃ	ɯʃ	ʃiʃ	ʧiʃ	ɯʃ	iʃʃɛ	ʃiʃ	sɯz
-SWELL_2																			tiʒi												
-SWELL_3				kopʲ			kob				køb								køp												
-SWIM_1						jɑldɑ												jɑldɑ													
-SWIM_2	yz	jys	jøð	ʧys			jux		yz	ʒyz	ʤyz	jyz	ʒyz	ʧys		jyz	syz	jyz	jys	jyz		ʧys	ɟys	jøz		jyz	jyð		yz		
-SWIM_3																									eˤhin			eʃt			
-SWIM_4																															qɑj
-SWIM_5								køp																							
-SWIM_6																														suz	
-SWIM_7															kirun																
-SWIM_8																					ʧum										
-TAIL_1	ɡujruɡ	qujrɯq	qojroq	quzuruq	χyre	qujruq	cujruɡ	kuturuk	kujruk	qujrɯq	qujruq	kujruk	qʊjrɯq	χuzuruχ	qurduq	qujruq	qujruq	qujrɯq	qujruq~qujrɯq	qudruq	quruχ~kuruχ	quzuruq	qujruq	qojrɯq	quduruq	kujruk	ɡujruq	quduruq	qujruq		quzruq
-TAKE_1		ɑl	ɑl	ɑl	il	ɑl	ɑl	ɯl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑɫ	ɑl	ɑl	ɑl	ɔl	ɑl
-TAKE_2	ɟøtyr																														
-TALL_1		bøjek	bejek	pøːzyk						bijik	mijik	bijik	bijɘk	pøzɘk		bijik	bijik	bijik		bedyk	piːχi	møzyk	bijik	bijek	bedɘk		bejik	bedik			
-TALL_2								yrdyk	yysek																						ɯrliɣ
-TALL_3	jycsæc				ɕylɘ	jyksek																				jycsec					
-TALL_4																			eːs										eɡiz		
-TEAR (SHRED)_1	jɯrt	jɯrt	jɯrt			jɯrt			jɯrt	ʒɯrt	ʤɯrt	jɯrt~irt	ʒɯrt	ʧɯrt		jɯrt	ʤɯrt	jɯrt	ɟɯrt~cɯrt~jɯrt				ɟɯrt	jɯrt		jɯrt	jɯrt		ʒit	jirt	
-TEAR (SHRED)_2				ys											hiz			yz		yz		ys									yz
-TEAR (SHRED)_3														tɑlɑ								tɑlɑ									
-TEAR (SHRED)_4								kɑjɯt																							
-TEAR (SHRED)_5					ɕur																										
-TEAR (SHRED)_6																									ɯr						
-TEAR (SHRED)_7																												or			
-TEAR (SHRED)_8															hur																
-THAT_1	o	ul			leʃ	o	os ol	ol	o	ol	o	ol		ol	o	o		ol	ol	ol	u	ol	ol		ol	o	ol		u	o	ol
-THAT_2			teɡe	tɛɣ													tiɡi							teɡe				døø			
-THAT_3													ɑnɑ																		
-THERE_1		ɑndɑ	undɑ	ɑndɑ	undɑ	ɑndɑ		onno		ɑnɑ kɛrɑdɑ~	ɑndɑ	ɑndɑ	ondɑ	ɑndɑ		ondɑ	ɑndɑ	ondɑ	ɑndɑ	ɑntɑ	ɑntɑ	ɑndɑ	ɑndɑ	ɑndɑ	ɯndɑ			ɯndɑ	u jɛrdɛ		ɑndɑ
-THERE_2	orɑdɑ								orɑdɑ~orɑsɯ						uoːrɑ											orɑdɑ					
-THERE_3																											ol jerde~o tɑjdɑ			o jerdɑ	
-THEY_1	onlɑr		ulɑr	olɑr	vɘ̆ʷzem	olɑr	ɑlɑr		onnɑr	olɑr	ɑlɑ	ɑlɑr	olɑr	olɑr	ollɑr	olɑr	ɑlɑr	olɑr	ɯlɑr~lɑr	olɑr	vulɑr	ɯlɑr	olor	ɑlɑr	olɑrɯŋ	onɫɑr	olɑr	olɑr	ulɑr	ulɑr	
-THEY_2								ɡiniler																							
-THEY_3																															qolɑr
-THICK_1																		dombɑj													
-THICK_2	ɡɑlɯn		qɑlɯn	qɑːləŋ	χulɤ̆ʷn	qɑlɯn			kɑlɯn	qɑlɯn	qɑlɯn	kɑlɯn	qɑlɯŋ	χɑlɯn		qɑlɯn	qɑlɯn	qɑlɯn		qɑlɯn		qɑlɯn	qɑlɯn	qɑlɯn	hɯlɯn	kɑɫɯn	ɡɑlɯŋ	qɯlɯn	qelin	qɑlin	qɑlɯn
-THICK_3	joɣun	juwɑn	jɯwɑn							ʒuwɑn					joɣun					joɣun	joɣɑn		ɟoon	juwɑn	nøon		joɣɯn	ʧoon		joɣɔn	joɣɯn
-THICK_4											bɑzɯq	bɑzɯq																			
-THINK_1		ojlɑ	ujlɑ			ojlɑ				ojlɑ	ojlɑ		ojlɑ			ojlɑʃ	ojlɑ	ojlɑ						ujlɑ					ojlɑ	ojlɑ	
-THINK_2				pøːɡun																		pøɡyn									
-THINK_3															sɑn				sɑnɑ			sɑnɑn	sɑnɑ								
-THINK_4	dyʃyn					tysyn			dyʃyn																	dyʃyn					
-THINK_5				sɑːɣən	ʃuɣɤ̆ʷʃlɑ		sɑɡin					sɑɣɯn		sɑɣɯn					sɑɣɯn	sɑqɯn					sɑɣɯn						sɑqɯn
-THINK_6																												bodɑ			
-THIN_1			joqɑ	ʧuɣɑʤɑːq	ɕuɣɑ	jufqɑ				ʒuqɑ	ʤuqɑ		ʒʊqɑ	ʧuɣɑ			ʤuqɑ	juqɑ		juqɑ	joχpɑ	ʧuɣɑ	ɟuqɑ	juqɑ	ʧuɣɑ		juqɑ	ʧuɣɑ	jupqɑ~juqqɑ~ʒupqɑ	jupqɑ	juqɑ
-THIN_2	inʤæ			ʧɘʧkæʤeːk	ɕinʑe	inʤe		hinnʲiɡes	inʤɛ	ʒiŋiʃke	iŋiʧke	inʧke	ʒɘŋɘʃke	nɘske			iʧke	jiŋiʃke	ʧiʧke	jinʧɡe	lɛʃki~neʃke			neʧkɛ	niŋɡe	inʤe	inʧe	ʧiŋɡe	inʧike~iŋiʧke	iŋiʧkɑ	ʃike
-THIS_1	bu	bu	bɯl	pu		bu	bu	bu	bu	bul	bu	bu	bʊl	pu	bo	bu	bu	bu	po	bu	bu	po	pu	bu	bo	bu	bu	bo	bu	bu	pu
-THIS_2					ku																										
-THOU_1					ezɘ													siz												siz	
-THOU_2	sæn	sin	hin	sɛn		sen	sen	en	sɛn	sen	sen	sen	sen	sin	sɛn	sen	sen		sen	sen	sen	sen	sen	sin	sen	sen	θen	sen	sɛn		sen
-THREE_1	yʧ	øʧ	øs	yʧ	viɕɕɘ~viʑɘ~viɕ	yʧ	uʧ	ys	yʧ	yʃ	yʧ	yʧ	yʃ	ys	yːʧ	yʧ	yʧ	yʃ	yʧ~yʃ	yʧ	uʃ	yʃ	yʧ	øʧ	yʃ	yʧ	yʧ	yʃ	yʧ	uʧ	yʃ~uʃ
-THROAT_1			tɑmɑq	tɑmɑq			tɑmɑc			tɑmɑq	tɑmɑq	tɑmɑq	tɑmɑq	tɑmɑχ		tɑmɑq	tɑmɑq	tɑmɑq		tɑmɣɑq		tɑbɑq	tɑmɑq	tɑmɑq					tɑmɑq	tɔmɔq	
-THROAT_2	boɣɑz		boɣɑð		pɯr	boɣɑz			buɑz						boɣɯz~boɣɑz					boɣɑz~boɣuz				buɣɑz	boos	boːɑz	boɣɑð	boostɑɑ	boɣɑz~boɣuz		poɣɯs
-THROAT_3																		boɣɯrdɑq	pɑkuːr		poɣtɑχ										
-THROAT_4																			tɯn												
-THROAT_5								kɑbɯrɡɑ																							
-THROAT_6										ɑlqɯm																			ɑlqin		
-THROW_1										ɯlɑqtɯr			lɑqtɯr					bɯlɑqtɯr													
-THROW_10			bɛr		per																										
-THROW_11																									qɑɣ						
-THROW_12																												oqtɑ			
-THROW_2		tɑʃlɑ	tɑʃlɑ	tɑstɑ						tɑslɑ			tɑstɑ	tɑstɑ		tɑʃlɑ	tɑʃtɑ	tɑslɑ				tɑʃtɑ	tɑʃtɑ	tɑʃlɑ			tɑʃlɑ	dɑʒɑ	tɑʃlɑ	tɑʃlɑ	
-THROW_3					pɤ̆ʷrɑχ			bɯrɑk																							
-THROW_4																			ʧel												
-THROW_5								keːs												kemiʃ											
-THROW_6	ɑt	ɑt			ɯvɤ̆ʷt	ɑt			ɑt	ɑt	ɑt	ɑt			hɑt					ɑt				ɑt		ɑt			ɑt	ɔt	
-THROW_7																															tɑrdɑ
-THROW_8											silde			sil																	
-THROW_9			ɯrɣɯt														ɯrɡɯt														
-TIE_1	bɑɣlɑ	pɑwlɑ	bɛjlɛ	pɑɣlɑ		bɑɣlɑ		bɑːj	bɑːlɑ	bɑjlɑ	bɑjlɑ	bɑvlɑ~bɑjlɑ	bɑjlɑ~bu	pɑlɣɑ	vɑːɑ	bɑjlɑ	bɑjlɑ	bɑjlɑ	poɣ~pɑɣlɑ	bɑ	pɑɣlɑ	pɑɣlɑ	bulɑ	bɛjlɛ	bɑɣlɑ	bɑːɫɑ	bɑɣlɑ	bɑɣlɑ	bɑɣlɑ	bɔɣlɑ	poɣ~poq~pɑɣlɑ~pɑlɣɑ
-TIE_2					ɕɯχ																										
-TIE_3																	tɑŋ										dɑŋ				
-TOMORROW_1		ɛrtɛn	irtɛɡɛ							erteŋ			erteŋ				erteŋ	erten			eːtɛ		erten	irtɛɡɛ			ertir	dɑɑrtɑ~	ɛtɛ~ɛtiɡɛ~ɛrtɛ	ertɑ	
-TOMORROW_2				tɑŋnɑ~tɑmnə			tɑndɑ				tɑmblɑ	tɑndɑ		tɑŋdɑ		tɑŋɑlɑ			tɑŋdɑ			tɑŋdɑ							tɑŋlɑ		
-TOMORROW_3					ɯrɑn	jɑrɯn		hɑrsɯn	jɑrɯn											jɑrɯn						jɑrɯn					
-TOMORROW_4																									turɑj						
-TOMORROW_5																															tɑɣɯn
-TONGUE_1	dil	til	tel	tɘl	ʧɘlɣe	til	til	tɯl	dil	til	til	til	tɘl	tɘl	til	til	til	til	til	tɯl	ʦil	til	til	tel	dɯl	dilʲ	dil	dɯl	til	til	tel
-TOOTH_1	diʃ		teʃ	tɘs		tiʃ	tis	tiːs	diʃ	tis	tiʃ	tis~tiʃ~diʃ	tɘs	tɘs	tiːiʃ	tiʃ	tiʃ	tis	tiʃ	tiʃ	tiʧ	tiʃ	tiʃ	teʃ	dɘʃ	diʃ	diʃ		ʧiʃ	tiʃ	tɯs~tes
-TOOTH_2					ʃɤ̆ʷl																										
-TREE_1						terek	terɑc				terek	tørɛk				terek		terek													terek
-TREE_2	ɑɣɑʤ	ɑɣɑʦ	ɑɣɑs	ɑɑʧ	jɯvɤ̆ʷɕ			mɑs	ɑːʧ	ɑɣɑʃ			ɑɣɑʃ	ɑɣɑs	hɑɣɑʧ		ʤɯɣɑʧ		ɑɣɑʃ	ɯɣɑʧ	ɑɣɑʧ	ɑɣɑʃ	ɑɣɑʃ	ɑɣɑʧ	neʃ	ɑːɑʧ	ɑɣɑʧ	ɯjɑʃ	jɑɣɑʧ		
-TREE_3																				søɡyt											
-TRUE_1		ʧɯn		sən	ʧɤ̆ʷn		ʧin			ʃɯn			ʃɯn	sɯn			ʧɯn	uʃɯn	ʧɯn	ʧɯn	ʧeŋ	ʃɯn	ʧɯn	ʧɯn	ʃɯn		ʧɯn	ʃɯn	ʧin		ʧɯn
-TRUE_2							kerti	kirdik			kerti					ɡerti				kertø						ɟerʧec					
-TRUE_3	doɣru	turɯ				doɣru			doːru			doɣru			toɣrɯ												doɣrɯ				
-TURN (SOMETHING)_1			bor		pɤ̆ʷr					bur	bur		bʊr			bur	bur	bur				pur	buru	bor					bur	burɑ	
-TURN (SOMETHING)_2	døndær								døndyr																	døndyr					
-TURN (SOMETHING)_3	ʧevir											ʦivir			ʧɛvir																
-TURN (SOMETHING)_4								tuorɑ																							
-TURN (SOMETHING)_5																				evir							øwyr				
-TURN (SOMETHING)_6														ɑjlɑndɯr					ɑjlɑndɯr										ɑjlɑndur		
-TURN (SOMETHING)_7																												erɡildir			
-TWO_1	ici	ëki~eki	ike	iɡɘ	ikkɘ~iɡɘ~ik	eki	eki	ikki	iki	eki	eki	eki	ekɘ	ɘkɘ	ɛkki	eki	eki	eki	eki~ekki	eki~iki	iʃki~iʧki	ijɡi	eki	ike	iˤhi	ici	iki	iji	ikki	ikki	iʃke
-UPPER LEG (THIGH)_1		jɑnbɑʃ																jɑnbɑs	ɲɑn				ɟɑlmɑʃ								
-UPPER LEG (THIGH)_2		jɑnbɑʃ																jɑnbɑs					ɟɑlmɑʃ								
-UPPER LEG (THIGH)_3				ʧɑn		sɑn				sɑn			sɑn				sɑn	sɑn											sɑn	sɔn	
-UPPER LEG (THIGH)_4	bud		bot	put		but	buth	buːt	but		bɑzɯq but	but		put	buːut	bɑzɯq but		but	but					bot	but		but				put
-UPPER LEG (THIGH)_5																				udluq		ustuq				ujɫuk					
-UPPER LEG (THIGH)_6												tijme																døŋmek			
-VOMIT_1	ɡus		qoθ	qus	χɤ̆ʷs	qus	cus		kus	qus	qus	kus	qʊs	χus	qus	qus	qus	qus	qus	qus			qus	qos	quˤs	kus	ɡuθ	qus	qus	qus	qus
-WALK_1	jeri	jør	jør	ʧør	ɕyre	jyr	jur			ʒyr	ʤyry	jyry	ʒyr	ʧør	jorɯ	jyry	ʤyr	jyr	cor	jorɯ	jyr~jer	ʧør		jør	ʧoru	jyry	jøre	ʧoru	ʒyr	jur	
-WALK_3	ɟæz								ɡez																						
-WALK_4																			pɑs~bɑs				bɑs								
-WALK_5								bɑr																							pɑr~vɑr
-WALK_6								hɯrɯt																							
-WARM_1			jɯlɯ	ʧələɣ						ʒɯllɯ	ʤɯlɯ	jɯlɯ	ʒɯlɯ	ʧɯlɯɣ		jɯlɯ	ʤɯluu	jɯlɯ	jɯlɯɣ	jɯlɯɣ		ʧɯlɯɣ	ɟɯlu	ʤɯlɯ	ʧɯlɯɣ	ɯɫɯk	jɯlɯ	ʧɯlɯɣ	illiq~	iliq	jilɯɣ
-WARM_2					ɤ̆ʷʒɤ̆ʷ	sɯʤɑq	issi	itiː~iciɡes	sɯʤɑk			issi			hissiː	issi					ɯssɯ									issiq	
-WASH_1	ju	ju	jɯw	ʧun	ɕu	juv	juu	huːj		ʒuw	ʤuw	juv	ʒu	ʧuɣ	juːu	ʤuw	ʤuu	juw		ju	ju~jy	ʧun	ɟun	juw	ʧu		juw	ʧuɣ	ʒuj	juv	ju
-WASH_2									jɯkɑ										jɑjqɑ							jɯkɑ					
-WATER_1	su	su	hɯw	suɣ	ʃɯv	suw	su	uu	su	suw	suw	suv	su	suɣ	suw	suw	suu	suw	suɣ	suv	su	suɣ	suː	su	suɣ	su	θuw	suɣ	su	suv	su
-WEAVE_1		soq	huq								soq	soχ		soq		soq	soq	soq					soq	suq							soq
-WEAVE_2	toχu		tuqɯ			toqu			doku	toqɯ		tuχu~toχu	toqu		toqu		toqu	toqɯ		toqɯ				tuqu		doku	doqɑ		toqu	toqi	
-WEAVE_4					tɘrt																										
-WEAVE_5																												ɑrɣɯ			
-WET_1				suɣluɣ		sɯlɑq					suu		su			suw	suu	suw	suɣ				suulu	sulɯ		ɯsɫɑk				suv	
-WET_2										høl				øl	heːl~hiːel							øl			øl		øl	øl	høl	hol	
-WET_3	jɑʃ								jɑʃ			jɑʃ																			
-WET_4								nʲɯlʧɑɡɑj																							
-WET_5											ʤibiɡen								jibiɡ												
-WET_6																															ʃɯdɯq~ʃidɯk~ʃɯtɯq
-WET_7			eweʃ									jivis~jyvyʃ									ojʃi~uːse~uːʃ			jyjeʃ							
-WE_1	biz	biz	beð	pɘs	ebir	biz	bix	bihiɡi	biz	biz	biz	biz	bɘz	pɘs	biz	biz	biz	biz	pis	biz	piser	pis	bis	bez	bister	biz	bið	bis	biz	biz	mɯs~mɯster
-WHAT_1	næ	nemɛ	ni~nimɛ	nøme	mɘn	ne	ne		ne~nɑʃej	ne	ne	ne	ne	nime	nɛːsɛ	ne	emne	ne	ne~ɲime~nime	ne	nɛ	noː	neme	ni	ʧy	ne	nɛme	ʧy	nimɛ	nimɑ	ni~ne
-WHEN_1	hɑʧɑn	qɑʧɑn	qɑsɑn	qɑʤɑn	χɤ̆ʷʑɑn		chɑzɑn	kɑhɑn	ɑʧɑn	qɑʃɑn	qɑʧɑn	kɑʦɑn	qɑʃɑn	χɑʤɑn	qɑʲʧɑːn	qɑʧɑn	qɑʧɑn	qɑʃɑn	qɑʤɑn~qɑʒɑn	qɑʧɑn	qɑʤɑn	qɑʧɑn	qɑʧɑn	qɑjʧɑn	qɑˤhin		hɑʧɑn	qɑʒɑn	qɑʧɑn	qɑʧɔn	qɑʧɑn
-WHEN_2						ne vɑqɯt			nezɑmɑn																	ne zɑmɑn					
-WHERE_1		qɑjdɑ	qɑjðɑ	qɑjdɑ	ɤ̆ʷɕtɑ	qɑjdɑ	chɑjdɑ~kɑni	kɑnnɑ		qɑjdɑ	qɑjdɑ~qɑlɑjdɑ	kɑjdɑ	qɑjdɑ	χɑjdɑ	qɑː	qɑjdɑ	qɑjdɑ	qɑjdɑ	qɑjt~qɑjdɑ	qɑjudɑ~qɑndɑ	qɑjdɑ~qɑjtɑ	qɑjdɑ	qɑjdɑ	qɑjdɑ	qɑjdɑ			qɑjdɑ~qɑjɑː	qeni	qɑjerdɑ	qɑjtɑ~qɑn
-WHERE_2						ne jerde				qɑj ʒerde						ne jerde		qɑjerde											qɑjsi jerde~qɛjɛrdɛ	qɑjerdɑ	
-WHERE_3	hɑrɑdɑ																														
-WHERE_4						ne jerde			neredi						nieːdɛ	ne jerde										nerede	nirede				
-WHICH_1	hɑnsɯ	qɑjsɯ	qɑjhɯ		χɤ̆ʷʒɘ	qɑjsɯ	chɑjm	kɑhɯs		qɑjsɯsɯ	qɑjsɯ	qɑjsɯ	qɑj	χɑjzɯ		qɑjsɯ	qɑjsɯ	qɑysɯ	qɑjɑzɯ~qɑjɯ	qɑɲ	qɑjsɯ~qɑjsɑre	qɑjzɯ	kɑʒɯ	qɑjsɯ	qɑjsɯ	hɑnɟi	hɑjθɯ	qɑjɯ	qɑjsi	qɑj	qɑjsɯ
-WHICH_2						ɑnɡi			ɑnɡɯsɯ																						
-WHITE_1	ɑɣ	ɑq	ɑq	ɑqβus		ɑq	ɑc		ɑk	ɑq	ɑq	ɑk	ɑq	ɑχ		ɑq	ɑq	ɑq	ɑq		ɑχ	ɑq	ɑq	ɑq	ɑq		ɑq	ɑq	ɑq	ɔq	ɑq
-WHITE_2															hyryn					yryŋ											
-WHITE_3					ʃurɤ̆ʷ																										
-WHO_1	cim	kim	kem	kɘm	kɑm	kim	kym~kim	kim	kim	kim	kim	kim	kɘm	kem	kim	kim	kim	kim	kem	kem	kem	kem	kem	kem	qum	cim	kim	qɯm	kim	kim	kim
-WIDE_1	ɟeniʃ	kɛŋ	kiŋ			keŋ~keniʃ			ɡeniʃ	keŋ	keŋ	ken	keŋ		kiːeŋ	ɡeŋ	keŋ	keŋ	keŋ	keŋ			keŋ	kiŋ		ɟeniʃ	ɡiŋ		kɛŋ	keŋ	keŋ
-WIDE_2		jɑlbɯrsɑq		ʧɑlβɑq										ʧɑlbɑχ								ʧɑlbɑq	ɟɑlbɑχ								
-WIDE_3								ketit																							
-WIDE_4					sɑrlɑɡɑ																										
-WIDE_5														ɑllɯɣ											ɑˤlhɯɣ						
-WIND_1	jel	yël	jel	ʧɛl	ɕil	jel	jel			ʒel	ʤel	jel	ʒel	ʧil	jel	jel		jel		jel	jel			ʤil			jel				jil~jɯl
-WIND_2								tɯɑl																							
-WIND_3																									qɑt			χɑt			
-WING_1	ɡɑnɑd	qɑnɑt	qɑnɑt	qɑnɑt	ɕunɑt	qɑnɑt	hɑnɑt	kɯnɑt	kɑnɑt	qɑnɑt	qɑnɑt	kɑnɑt	qɑnɑt	χɑnɑt		qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	hɑnɑt	kɑnɑt	ɡɑnɑt		qɑnɑt	qɑnɔt	qɑnɑt~qɯjnɑt
-WING_2																												ʧɑlɣɯn			
-WITH_1											blɑ	bɯlɑ				bulɑn			vlɑ			pɯlɑ~bɯlɑ~mɯlɑ									
-WITH_10		pilen																						belɛn	ble		bilen	bile	bilɛn	bilɑn	pilin
-WITH_11		mɯnɑ~minɛ																													
-WITH_2													men																		
-WITH_3							birlɑ													birle											
-WITH_4			menɛn							menen~benen~penen							menen														
-WITH_5					bɑ~bɑlɑ													mɑn~pɑn				pɑ~bɑ~mɑ									
-WITH_6	ilæ~lɑ~læ				bɑ~bɑlɑ	ile~lɑ									lɑ						lɑ		lɑ								
-WITH_7	ilæ~lɑ~læ					ile~lɑ																				ilʲe					
-WITH_8				nɑŋ		nen		nɑn	nɑn					dɑŋ~tɑŋ~nɑŋ																	
-WITH_9		pilen														bulɑn		mɑn~pɑn						belɛn			bilen		bilɛn	bilɑn	pilin
-WOMAN_1					χɘrɑrɤ̆ʷm													χɑtɯnqɯz						χɑtɯnqɯz							
-WOMAN_2	ɡɑdɯn	qɑtɯn	qɑtɯn	qɑtkɘzɘ		qɑdɯn	kɑtu~kɑtun			qɑtɯn		qɑtɯn				qɑtɯn ɡiʃi		χɑtɯn	qɑt		qɑːtɯn keːʃ			χɑtɯn		kɑdɯn				χɔtin	
-WOMAN_3						qɯsqɑjɑqlɯ												qɯsqɑjɑqlɯ													
-WOMAN_4							tusi				tiʃirɯw								tiʒi kiʒi	tiʃi		tiʒi kiʒi									
-WOMAN_5					χɘrɑrɤ̆ʷm									ipʧɘ kɘzɘ					epʧi	evʧi		epʧi	yjkiʒi								
-WOMAN_6				qɑtkɘzɘ										ipʧɘ kɘzɘ	kiʃi	qɑtɯn ɡiʃi			tiʒi kiʒi		qɑːtɯn keːʃ	tiʒi kiʒi	yjkiʒi					χereeʒen		χɔtin	
-WOMAN_7																															sɛʤdɯɣ
-WOMAN_8									kɑrɯ																qoˤrhɯɲɑq						
-WOOD_1	ɑɣɑʧ	ɑɣɑʧ	ɑɣɑs	ɑɑʧ	jɯvɤ̆ʷɕ	ɑɣɑʧ	ɑɡɑʧ	mɑs	ɑɑʧ	ɑɣɑʃ	ɑɣɑʧ	ɑɣɑʦ~ɑɣɑʧ	ɑɣɑʃ	ɑɣɑs	hɑɣɑʧ	ɑɣɑʧ	ʤɯɣɑʧ	ɑɣɑʃ	ɑɣɑʃ	ɯɣɑʧ	ɑɣɑʧ	ɑɣɑʃ	ɑɣɑʃ	ɑɣɑʧ	neʃ		ɑɣɑʧ	ɯjɑʃ	jɑɣɑʧ	jɔɣɔʧ	jɯɣɑʃ
-WOOD_2																										odun					
-WORM_1	ɡurd	qort		qurt	χurt	qurt	kurt		kurt	qurt	qurt	kurt	qʊrt	χurt	quːrt		qurt	qurt	qurt	qurt		qurt	qurt	qort	quˤrt	kurt	ɡurʧuq	qurt	qurut		
-WORM_2	soχulʧɑn		selɛwsen	søøskæj		sɯvɑlʧɑn										χurt	søølʤɑn	ʃɯlɑwʃɑn			suɡulʤɯŋ	ʃoːʃqɑn	ʧojloʃqon	suɑlʧɑn	ʃojlɑʃqɑn	soɫuʤɑn			ʧuvɑlʧɑŋ	ʧuvɑlʧɑŋ	
-WORM_3					ɤ̆ʷmɑn																										
-YEAR_1	il	jɯl	jɯl	ʧɯl		jɯl	ɡil~jil		jɯl	ʒɯl	ʤɯl	jɯl~il			jil	jɯl	ʤɯl	jɯl	cɯl	jɯl	jel~jɯl~jil	ʧɯl	ɟɯl		ʧɯl	jɯɫ	jɯl	ʧɯl	ʒil	jil	jɯl
-YEAR_2					ɕul																										
-YELLOW_1	sɑrɯ	sɑrɯ	hɑrɯ	sɑːrəɣ		sɑrɯ	sɑri		sɑrɯ	sɑrɯ	sɑrɯ	sɑrɯ	sɑrɯ	sɑrɯɣ			sɑrɯ	sɑrɯ	sɑrɯ	sɑrɯɣ	sɑrɯ	sɑrɯɣ	sɑrɯ	sɑrɯ	sɑrɯɣ	sɑrɯ	θɑrɯ	sɑrɯɣ	seriq	sɑriq	sɑrɯɣ
-YELLOW_2								hɑhɑrkɑj~hɑhɯl																							
-YELLOW_3															ʧɑqɯr																
-YESTERDAY_1			kisɛ	kæʤeː				beɡeheː		keʃe			keʃe	kiʤee			keʧee		keʤe~keʒen		keːʤe	keʧe	keʧe	kiʧɛ						keʧɑ	
-YESTERDAY_2								beɡeheː																							
-YESTERDAY_3	dynæn					tynevin	tunɑcun~tunɑchun~tunekun		dyn		tynene	tyneɡyn~kineɡin				tyneɡyn		tyneɡyn							dyyn	dyn	dyjn	dyːn	tynyɡyn		
-YESTERDAY_4						tynevin	tunɑcun~tunɑchun~tunekun					tyneɡyn~kineɡin				tyneɡyn		tyneɡyn											tynyɡyn		tuɣɯn
-YESTERDAY_5					ɘner										ɛŋɡyr																
-YOU_1	siz	silɛr~sis	heð	slɛr	ezir	siz	six		siz	siz	siz	siz	sɘzder	sɘrer	siz	siz	siler	siz	sler	siz	seler	siler	sler	sez	sler	siz	θið	siler	siz	sizlɑr	siler
-YOU_2								en																							
+Gloss	Azerbaijani	Bashkir	Chulym	Chuvash	Crimean Tatar	Cuman	Dolgan	Gagauz	Kara-Kalpak	Karachay-Balkar	Karaim	Kazakh	Khakas	Khalaj	Kumyk	Kyrgyz	Nogai	Northern Altai	Old Turkic	Salar	Shor	Siberian Tatar	Southern Altai	Tatar	Tofa	Turkish	Turkmen	Tuvan	Uyghur	Uzbek	West Yugur	Yakut
+ABOVE_1	ystyndæ~yzærindæ	østønɛn			yst~yzer	øzɛ~ustun		ystyndɛ~yzerindɛ	ystinde		yst	ystɘnen~ɘnde	ystynʤe~ynde		ystynde	ystyndø	ystinde	yst	yz~yst	iʃt	ystynde	yst	ystyle~ystynde	østennɛn	yˤstynde	yzerinde~ystynde	yʃtynde	yʃt	ystidɛ~yzrɛ	ustidɑ	jyze	
+ABOVE_2							yrdynen																									yrdynen
+ABOVE_3				ɕijɘn																												
+ABOVE_4										bɑʃɯndɑ										bɑʃ							bɑʃɯndɑ					
+ABOVE_5											ɑʃɯrɑ														ɑʤɯrɯ							
+ABOVE_6																												qɯrɯ				
+ANT_1		qɯrmɯθqɑ	qumursqɑ		qɯmɯrsqɑ				qumɯrsqɑ	qumursχɑ	kumurskɑ	qʊmɯrsqɑ	χɯmɯsχɑ	ɡumurɣɑːʧ	χomursɣɑ	qumursqɑ	qumɯrsqɑ		qumursɣɑ	qumusqɑ	qɯmɯsqɑʃ			qɯrmɯsqɑ	hɯmɯsqɑ			qɯmɯsqɑjɑq				kɯmɯrdɑɣɑs
+ANT_2	ɡɑrɯʃɡɑ				qɑrɯnʤɑ			kɑrɯmʤɑ																		kɑrɯnʤɑ	ɡɑrɯnʤɑ					
+ANT_3																		ʧubɑlɑ	ʧymeli				ʧɯmɑlɯ						ʧømyli	ʧumɔli		
+ARM OR HAND_1	ɡol	qul	qol	χul	qol			kol	qol	qol	kol	qol	χol	qol	qol	qol	qol	qol	qol	qol	qol	qol	qol	qul	qol	koɫ	ɡol	χol	qol	qol	qol	
+ARM OR HAND_2	æl			ɑlɤ̆ʷ	el	el	iliː	el						ɛl					eliɡ	el~il						elʲ	el				elɯɣ~eliɡ	iliː
+ARM OR HAND_3										bilek	bilek~bilɛk																					
+ASH_1	cyl	køl	kulʲ	kɘ̆ʷl	kyl		kyl	kyl	kyl	kyl	kyl	kyl	kyl	kil	kyl	kyl	kyl	kyl	kyl	kul~kyl	kyl		kyl	køl	hyl	cylʲ	kyl	χyl	kyl	kul	kul	kyl
+ASK (REQUEST)_1		horɑ	sur		sorɑ				sorɑ			sʊrɑ	sur			surɑ	sorɑ	surɑ			surɑ	sorɑ	surɑ	sorɑ		sor	θorɑ		sorɑ	sorɑ		
+ASK (REQUEST)_2	dilæ									tile					tile		tile		tile						tɘle			dile			tele	
+ASK (REQUEST)_3							kørdøː																									kørdøs
+ASK (REQUEST)_4	istæ				iste			iste																								
+ASK (REQUEST)_5				ɯjt																												
+ASK (REQUEST)_6																		øtør														
+ASK (REQUEST)_7																		øtør														
+ASK (REQUEST)_9						col					kol								kol												qol~qul	
+AT_1	dɑ	dɑ~tɑ~ðɑ~lɑ	tɑ~dɑ	rɑ~dɑ~tɑ		dɑ		dɑ~tɑ		dɑ	dɑ~tɑ				dɑ	dɑ~tɑ	dɑ~tɑ	tɑ~dɑ	tɑ	tɑ~dɑ	tɑ~dɑ	tɑ	dɑ~tɑ		dɑ~tɑ	tɑ~dɑ	dɑ	dɑ~tɑ	dɑ~tɑ		tɑ~dɑ	
+AT_2																																ɣɑ
+AT_3							ihiɡer																									
+AT_4														ʧɑ																		
+BACK_1	ɑrχɑ	ɑrqɑ			ɑrqɑ	ɑrchɑ		ɑrkɑ	ɑrqɑ		ɑrkɑ~ɑrqɑ	ɑrqɑ	ɑrɣɑ	ɑrqɑ	ɑrqɑ	ɑrqɑ	ɑrqɑ	ɑrqɑ~ɑrɣɑ	ɑrqɑ	ɑrɣɑ~ɑrχɑ		ɑrɣɑ		ɑrqɑ		ɑrkɑ	ɑrqɑ		ɑrqɑ	ɔrqɑ	ɑrqɑ	
+BACK_2																									oːrhɑ			oːrɣɑ				
+BACK_3			ʧɑːrən	ɕurɤ̆ʷm																												
+BACK_4																					køksy											køɣys
+BACK_5							his																									
+BACK_6			pɛl									bel						bel					bel									
+BACK_7										sɯrt								sɯrt						sɯrt		sɯrt						
+BAD_1	jɑmɑn					iɑmɑn			ʒɑmɑn	ɑmɑn	jɑmɑn	ʒɑmɑn			jɑmɑn	ʤɑmɑn	jɑmɑn	ɟɑmɑn	jɑmɑn	jɑmɑn		jɑmɑn	ɟɑmɑn	jɑmɑn			jɑmɑn		jɑmɑn	jɔmɔn		
+BAD_2																			jɑvlɑq		ʧɑbɑl										jus	
+BAD_3							kuhɑɡɑn																									kuhɑɣɑn
+BAD_4			ʧyβyr																													
+BAD_5					jɑrɑmɑj																				ʧorɑːndɑ		jɑrɑmɑð					
+BAD_6																										cøty						
+BAD_7		ɑlɑmɑ																														
+BAD_8																									bɑˤq			bɑɣɑj				
+BARK_1	ɡɑbɯɡ	qɑbɯq		χubɤ̆ʷ	qɑbuq	cɑbuc		kɑbuk	qɑbɯq	qɑbuq	kɑbuk	qɑbɯq			qɑbuq	qɑbɯq	qɑbɯq	qɑɣɑʃ		koχ		qɑbɯq		qɑbɯq		kɑbuk~kɑbuːu	ɡɑbɯq		qovzɑq			
+BARK_2			qɑqβɑʧ										χɑχpɑs								qɑqpɑʃ											
+BARK_3							kɑtɯrɯk							qɑːɑs					qɑdɯz												qɑzdɯq	χɑtɯrɯk
+BARK_4																									ʧøˤprɛː			ʧøvyreː				
+BE ALIVE_1	jɑʃɑ	jɛʃɛ			jɑʃɑ			jɑʃɑ	ʒɑsɑ	ʤɑʃɑ					jɑʃɑ	ʤɑʃɑ	jɑʃɑ		jɑʃɑ	jɑʃɑ		yeʃɛ		jɛʃɛ		jɑʃɑ	jɑʃɑ		jɑʃɑ	jɑʃɑ	jɑsɑ	
+BE ALIVE_2																		cɑt			ʧɑt		ɟɑt									
+BE ALIVE_3			ʧurtɑ										ʧurtɑ					curtɑ										ʧurttɑ				
+BE ALIVE_4							olor																									olor
+BE ALIVE_5				purɤ̆ʷn																												
+BE ALIVE_6						tiril					tiril																					
+BE ALIVE_7																									ʧerlɛ							
+BEAT_1		huɣ	soq				oɡus					soq				soq	soq	soq				soq	soq	suq				soq				oɣus
+BEAT_2							hɯs				jɑnʧ																					
+BEAT_3							kɯrbɑː																									kɯrbɑː
+BEAT_4			sɑp	ɕɑp							ʧɑp		sɑp							ʧɑp	ʃɑp											
+BEAT_5		tuqmɑ																	toqɯ													
+BEAT_6								dyː												tøj												
+BEAT_7	vur				ur	ur			ur	ur	ur	ʊr		vur	ur	ur				vur						vur	ur		ur	ur		
+BEAT_8																									qɑˤq			qɑq				
+BEAT_9																								bɛr							per	
+BELLY_1		es					is		iʃ			ɘs	ɘstɘ			iʧ	iʃ	iʧ~iʃ				ëʧ	iʧ		iˤʃtɘ		iʧ	iʒin	iʧ		iʧiɡe~iʧike~iʧiki~iʧikɯ	is
+BELLY_2		qorhɑq			qursɑq				qursɑq		kursɑχ				qursɑq	qursɑq	qursɑq			χusɑχ	qursɑq			qorsɑq					qosɑq			
+BELLY_3	ɡɑrɯn		qɑːrən	χɯrɤ̆ʷm	qɑrɯn	cɑren~kɑrin		kɑrnɯ	qɑrɯn	qɑrɯn	kɑrɯn	qɑrɯn	χɑrɯn	qɑrɯn				qɑrɯn	qɑrɯn		qɑrnɯ			qɑrɯn		kɑrɯn	ɡɑrɯn	χɯrɯn	qerin	qɔrin	qɑrɯn	
+BIG_1									ylken			ylken					yjken															
+BIG_2			uluɣ			ulu	ulɑkɑn			ullu	ullu		uluɣ		ullu				uluɣ	ullɯ	uluɣ	ulɯ~olu			uluɣ		ulɯ	uluɣ				ulɑχɑn
+BIG_3	bøjyc				byjyk			byyk			bijik~byjyk			bydyk~bidik					bedyk							byjyc					pezik	
+BIG_4				pɯzɤ̆ʷk																												
+BIRD_1	ɡuʃ	qoʃ	qus~quʧɑq		quʃ	kus		kuʃ	qus		kuʃ~kus	qʊs	χus		quʃ	quʃ	qus	quʃ	quʃ	quʃ	quʃ	quʃ	quʃ	qoʃ	quˤʃqɑʃ	kuʃ	ɡuʃ	quʃ	quʃ	quʃ	qus~qos	
+BIRD_2							køtør																									køtør
+BIRD_3										qɑnɑtlɯ						qɑnɑttuː																
+BIRD_4				kɑjɤ̆ʷk																												
+BITE_1	diʃlæ	teʃlɛ			tiʃle	tislɑ			tisle		tiʃle~ʧiʃle	tɘste				tiʃtø	tisle	tiʃte	tiʃle	ʧɯːʃle			tiʃte	teʃlɛ			diʃle		ʧiʃlɛ	tiʃlɑ	teste~tiste~tɯste	
+BITE_2	ɡɑp		qɑp							qɑp		qɑp			χɑp		qɑp															
+BITE_3							ɯtɯr						ɯzɯr								ɯzɯr				ɯˤsɯr	ɯsɯr		ɯzɯr				ɯtɯr
+BITE_4								dɑlɑ																								
+BITE_5				ɕɯrt																												
+BITTER_1	ɑʧɯ	ɛse~ɑsɯ	ɑʧəɣ	jyʑɘ	ɑʤʤɯ	ɑʧi	ɑhɯː	ɑʤɯ	ɑʃʃɯ	ɑʧɯ	ɑʧʧɯ~ɑʦɯ~ɑʤɯ	ɑʃʃɯ	ɑʧɯɣ	hɑːɑʧuɣ	ɑʧʧɯ	ɑʧuu	ɑʃʃɯ	ɑʤɯɣ	ɑʧɯɣ	ɑːʤɯ	ɑʧɯɣ		ɑʧu	ɑʧɯ	ɑʤɯɣ	ɑʤɯ	ɑʤɯ	ɑʒɯɣ	ɑʧʧiq	ɑʧʧiq	ɑʧɯɣ~ɑʧiɡ	ɑhɯː
+BLACK_1	ɡɑrɑ	qɑrɑ	qɑrɑ	χurɑ	qɑrɑ	kɑrɑ	kɑrɑ	kɑrɑ	qɑrɑ	qɑrɑ	kɑrɑ~qɑrɑ	qɑrɑ	χɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	qɑrɑ	kɑrɑ	ɡɑrɑ	qɑrɑ	qɑrɑ	qɔrɑ	qɑrɑ	χɑrɑ
+BLOOD_1	ɡɑn	qɑn	qɑn	jun	qɑn	kɑn	kɑɑn	kɑn	qɑn	qɑn	kɑn~qɑn	qɑn	χɑn	qɑːn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	qɑn	kɑn	ɡɑːn	χɑn	qɑn	qɔn	qɑn	χɑːn
+BLOW (OF WIND)_1	æs	iθ			es			es	es					hɛs	eʃ		es					ës		is		es	øθ~øwyθ		ɛs	es		
+BLOW (OF WIND)_10																		kir														
+BLOW (OF WIND)_11																			jeltir			jëlbɛn~jëlbë										
+BLOW (OF WIND)_2		ør	yr	vɘ̆ʷr			yr		yrle	yr	ir~yr	yrle	yr				yr		yr				yr	ør	yr			yr				yr
+BLOW (OF WIND)_3	yfyr				yfyr			yfle	yple				ybyr		yfyr					fur~fyr	ybyr					yflʲe	yfle					
+BLOW (OF WIND)_4						soq						soq				soq							soq									
+BLOW (OF WIND)_5														puflɑ																puflɑ		
+BLOW (OF WIND)_6																yjlø																
+BLOW (OF WIND)_7																															enet	
+BLOW (OF WIND)_8																													pydɛ~pylɛ		pute	
+BLOW (OF WIND)_9																												χɑdɯ				
+BONE_1	symyc	højɛk	søøk	ʃømø		souɑt	oŋuok		syjek	syjek	sivek~syjek	syjek	søøk		syjek	søøk	syjek	søøk~søk	syŋyk	seniχ	søːk	syøk	søøk	søjɛk	søøk		θyŋk	søøk	søŋɛk~syŋɛk~syjɛk	sujɑk	sɯmɯq	uŋuoχ
+BONE_2					kemik			kemik																		cemic						
+BOTTOM_1	dib	tøp	typ	tɘ̆ʷp	typ	tub	tyɡek	dip	typ	tyb	typ~kip	typ	typ		typ	typ	typ	typ			tybyn	typ	typ	tøp	dyp	dip	dyjp	dyp	typ		tɯp~top~typ	tyɡeχ
+BOTTOM_2														tɛː															tɛɡ	tɑɡ		
+BOTTOM_3																				ɑʃɑːɣɯ												
+BRAIN_1	bejin	meje	miis	mime	mij	meŋ		bejin	mij	mɯjɯ	mij	mɯj	mii	mein	mij	mee	mɯj	mees~nee	meji	meŋes	miːs	mijɛ	mee	mi	meː	bejin	bejni	mee	mejɛ~miŋɛ	mijɑ		mejiː
+BRANCH_1	budɑɡ	botɑq			pɯtɑq	butɑc		budɑk	putɑq	butɑq	butɑk	bʊtɑq			butɑq	butɑq	butɑq	pudɑq	butɯq	putɑχ		botɑq~potɑq	budɑq	botɑq	buˤtuq	budɑk		buduq	putɑq			
+BRANCH_2																															ʧuqqo	
+BRANCH_3				turɑt																												
+BRANCH_4							tɑlɑk	dɑl																		dɑɫ						
+BREAK (CLEAVE)_1	sɯndɯr	hɯndɯr	səndər		sɯndɯr	sindur			sɯndɯr	sɯndɯr	sɯndɯr	sɯndɯr	sɯndɯr	siː	sɯndɯr	sɯndɯr	sɯndɯr	sɯndɯr	sɯ	sundur	sɯndɯr	sɯndɯr	sɯndɯr	sɯndɯr	sɯˤq			sɯq~sɯj	sundur	sindir	sɯ	
+BREAK (CLEAVE)_2	ɡɯr							kɯr																		kɯr						
+BREAK (CLEAVE)_3																																tohut
+BREAK (CLEAVE)_4				ɕɘ̆ʷmɘ̆ʷr																									jemir			
+BREAK (CLEAVE)_5		vɑt				uv				uwɑt			oot											vɑt								
+BREAK (CLEAVE)_6																											døw					
+BREAST_1	cøcs	kykrɛk		køɡør	kokys	køksuɡ~køɡis		ɡyːs	køkyrek	køkyrek	køkrɛk~kekrek~køkrek~køkis~køχis	køkrek	køɡɘs~køksɘ	kiːes~køjs	køkyrek	køkyrøk	køkirek	køɡys	køɡyz	kyprɛχ		køkrɛk~kykrɛk	køɡys	kykrɛk		ɟøːys	kykrek		køkrɛk~køksɛ	kokrɑk	ɡøs	
+BREAST_2	døʃ	tyʃ	tøs			tos	tyøs		tøs	tøʃ	tøʃ~tes	tøs			tøʃ			tøʃ	tøʃ		tøʃ	tyʃ	tøʃ	tyʃ	tøʃ		døʃ				tos~tus~tys	tyøs
+BREAST_3									ɡewde			kewde																				
+BREATHE_1		tɯn ɑl	tənŋɑ			tin	tɯːn				tɯn		tɯn		tɯnɯs ɑl		tɯnɯs ɑl		tɯn ɑl		tɯn	tɯn	tɯn	tɯn ɑl	tɯn			tɯn	tin~tin tɑrt			tɯːn
+BREATHE_2		hulɑ		sɯvlɑ				solu		solu												sulɑ		sulɯʃ ɑl		soɫuk ɑɫ~soɫun						
+BREATHE_3	næfæs ɑl	tɯn ɑl			nefes ɑl				dem ɑl		nefes ɑl	dem ɑl			tɯnɯs ɑl	dem ɑl	tɯnɯs ɑl		tɯn ɑl			ɑl		tɯn ɑl		nefes ɑɫ	dem ɑl			nɑfɑs ɔl		
+BURN_1	jɑn	jɑn		ɕun	jɑn			jɑn	ʒɑn		jɑn	ʒɑn			jɑn	ʤɑn	jɑn	kyj				jɑn		jɑn		jɑn	jɑn		jɑn	jɔn		
+BURN_2			koj			cyj				kyj	kyv~kiv~tiv		køj	kien		kyj			kyn~kyj	køj	køj		kyj						køj		kyj	
+BURN_3																																umɑj
+BURN_4							ɡydeːrij																									
+BURN_5																									qɯˤp			qɯp				
+CARRY_1	ɑpɑr	ɑlɯp	ɑ	ilze	ɑlɯp				ɑlɯp bɑr	ɑlɯp	ɑlɯp	ɑlɯp ʒyr	ɑ		ɑlɯp bɑr	ɑlɯp	ɑlɯp bɑr	ɑpɑr			ɑpɑr	ɑlɯp pɑr	ɑpɑr					ɑp ʧoru	elip	ɔlib	ɑl	
+CARRY_2	ɑpɑr	ɑlɯp	ɑ	ilze	ɑlɯp				ɑlɯp bɑr	ɑlɯp	ɑlɯp		ɑ		ɑlɯp bɑr		ɑlɯp bɑr	ɑpɑr			ɑpɑr	ɑlɯp pɑr	ɑpɑr						elip	ɔlib	ɑl	
+CARRY_3												ɑlɯp ʒyr				ɑlɯp												ɑp ʧoru				
+CARRY_4								tɑʃɯ												tɑːʃɯ						tɑʃɯ				tɑʃi		
+CARRY_5							ilt			elt	elt								elt													ilt
+CARRY_6		ɑlɯp							ɑlɯp bɑr							køtøryp			køtyr	kot				kytɛrep			ɡøter				køtyr~kytyr	
+CARRY_7				jɤ̆ʷt																				jørt	it							
+CHEEK_1	jɑnɑɡ	jɑŋɑq	ʧɑːɣəm		jɑnɑq		hɯŋɑːk	jɑnɑk		ʤɑjɑq	jɑjɑk~jɑnɑχ		nɑɑχ		jɑjɑq			jɑːq~cɑɑq		jɑnɑχ	nɑːq	jɑŋɑq	ɟɑq~χ	jɑnɑq		jɑnɑk	jɑnɑq	ʧɑɑq			jɑŋɑq~jɯŋɑq	
+CHEEK_2												bet				bet	bet					bit~pit										
+CHEEK_3				ɕømɑrdi																												
+CHEEK_4																																iedes
+CHEEK_5																													mɛŋzɑ			
+CHEEK_6																														juz		
+CHEW_1	ʧejnæ	sɛjnɛ	tɑjnɑ		ʧɑjnɑ			ʧijne	ʃɑjnɑ	ʧɑjnɑ	ʧɑjnɑ	ʃɑjnɑ	tɑjnɑ	ʧɛjnɛ~ʧɛjlɛ	ʧɑjnɑ	ʧɑjnɑ	ʃɑjnɑ	ʃɑjnɑ		ʧɛjnɛ	tɑjnɑ		ʧɑjnɑ	ʧɛjnɛ	tɑjnɑ	ʧiːne	ʧejne	dɑjnɑ	ʧɑjnɑ	ʧɑjnɑ		
+CHEW_2							ɯʃtɑː																									ɯstɑː
+CHEW_3				ʧømlɑ		cunɡ																										
+CHILD (DESCENDANT)_1		bɑlɑ			bɑlɑ				bɑlɑ	bɑlɑ	bɑlɑ	bɑlɑ	pɑlɑ	bɑlɑ	bɑlɑ	bɑlɑ	bɑlɑ	bɑlɑ~pɑlɑ		pɑlɑ~bɑlɑ	pɑlɑ	pɑlɑ	bɑlɑ	bɑlɑ					bɑlɑ	bɔlɑ	mlɑ	
+CHILD (DESCENDANT)_2															jɑʃ													ʧɑʃ uruɣ				
+CHILD (DESCENDANT)_3	uʃɑɡ							uʃɑk																								
+CHILD (DESCENDANT)_4			kæʧ																													
+CHILD (DESCENDANT)_5				ɑʧɑ																												
+CHILD (DESCENDANT)_6																									uruɣ			ʧɑʃ uruɣ				
+CHILD (DESCENDANT)_7																											ʧɑɣɑ					
+CHILD (DESCENDANT)_8																										ʧoʤuk						
+CHILD (DESCENDANT)_9						oɡul					ulɑn								oɡlɑn													
+CHIN_1		ejɛk	eːɡɘ			inɡɑc			ijek			ɘjek	eek			eek	ijek	eek	eŋek	eniχ	eːk	inɛk	eek	ijɛk			eŋek		eŋɛk~iŋɛk	ijɑk		
+CHIN_2	ʧænæ						hɛŋijɛ	ʧenɛ																		ʧene						seŋije
+CHIN_3																									erin							
+CHIN_4																												seɡel				
+CLAW_1		tɯrnɑq	tərɣɑq	ʧɘrne	tɯrnɑq			tɯrnɑk	tɯrnɑq	tɯrnɑq	tɯrnɑχ	tɯrnɑq			tɯrnɑq		tɯrnɑq				tɯrɣɑq			tɯrnɑq		tɯrnɑk	dɯrnɑq			tirnɔq		tɯŋɯrɑχ
+CLAW_2	ʤɑjnɑɡ																															
+CLAW_3						termɑc	tɑrbɑk						tɯrɣɑχ			tɯrmɑq		tɯrvɑq~tɯrbɑq					tɯrmɑχ		dɯrbɑq			dɯrbɑq	tirmɑq			
+CLOUD_1	bulut	bolot	pulut	pɘ̆ʷlɘ̆ʷt	bulut	bulut	bɯlɯt	bulut	bult	bulut	bulut	bʊlt	pulut	bulɯt	bulut	bulut	bulɯt	pulut	bulɯt	pulut~polut	pulut	polot~pulut	bulut	bolɯt	bulut	buɫut	bulut	bulut	bulut	bulut	pulut~pɯlɯt	bɯlɯt
+COLD_1	sojuɡ	hɯwɯq	sooq	sivɘ	suvuq	sɑoɡh		suːk	suwɯq	suwuq	suvuk~suvuχ	suɯq	sooχ	sovuq	suwuq	suuq	suwɯq	sooq	soɣɯq	soχ	soːq		sooq	suɯq	sooq	soːuk	θowuq	sooq	soɣuq	sɔvuq		
+COLD_2							tɯmnɯː																									tɯmnɯː
+COLD_3																															tot	
+COLD_4														buːz																		
+COME_1	ɟæl	kil	kæl	kil	kel	kel	kel	ɡel	kel	kel	kel	kel	kil	kɛl	ɡel	kel	kel	kel	kel	ɡel	kel	kël	kel	kil	kel	ɟelʲ	ɡel	kel	kɛl	kel	kel	kel
+COUGH_1		jytɛl~jytker					høtøløː		ʒøtel~ʒøtkir	ʤøtɡyr	øtkyr~etkir	ʒøtel	ʧidɘl		jøtkyr	ʤøtøl	jøtkir				ʧedir		jødylde	jøtker~jytɛl	ʧødyr			ʧødyr	jøtɛl	jotɑl	jyter	søtølyn
+COUGH_2	øscyr			yzɘr	øksyr	oscur		yːsyr						iesyr												øcsyr	yθɡyr					
+COUNT_1	sɑj	hɑnɑ	sɑnɑ		sɑj		ɑk	sɑj	sɑnɑ	sɑnɑ	sɑj~sɑn	sɑnɑ	sɑnɑ	sɑːɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ	sɑnɑʲ				sɑnɑ	sɑnɑ	sɑj	θɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ	sɑnɑ	ɑːχ
+COVER_1		jɑp	ʧɑp			jɑp	hɑp		ʒɑp	ʤɑb	jɑp	ʒɑp	ʧɑp		jɑp	ʤɑp	jɑp	jɑp~ɟɑp	jɑp		ʧɑp	jɑp	ɟɑp	jɑp	ʧɯˤp		jɑp	ʃɯp		jɔp		sɑp
+COVER_2					qɑpɑt												qɑplɑ									kɑpɫɑ			qɑplɑ	qɔplɑ		
+COVER_3	ørt			vit	ørt			ørt												øt						ørt	ørt					
+COVER_4																															kemir	
+CRY_1		ilɑ							ʒɯlɑ	ʤɯlɑ	jɯlɑ~ilɑ	ʒɯlɑ	ɯlɣɑ	hɯɣlɑ	jɯlɑ	ɯjlɑ	jɯlɑ	ɯːlɑ~uɣlɑ	ɯɣlɑ	jɯɣlɑ	ɯlɣɑ		ɯjlɑ	jɯlɑ	ɯɣlɑ			ɯɣlɑ	ʒiɣlɛ	jiɣlɑ	jɯɣlɑ~jiɣlɑ~jilɣɑ	
+CRY_2			səqtɑ				ɯtɑː											sɯqtɑ			sɯqtɑ	sɯqtɑ										ɯtɑː
+CRY_3	ɑɣlɑ				ɑɣlɑ			ɑːlɑ																		ɑːɫɑ	ɑɣlɑ					
+CRY_4				mɑɡɤ̆ʷr																												
+CUT_1	cæs	kiθ	kæs	kɑs	kes	kes		kes	kes	kes	kes	kes	kis	kɛs	ɡes	kes	kes	kes	kes	kes	kes	kës	kes	kis	keˤs	ces	keθ	kes	kɛs	kes	kes	
+CUT_2							bɯs												biʧ													bɯs
+DAY (NOT NIGHT)_1	cyndyz~cyn	køn	kunʲ	kun	kyn	kun	kyn	ɡyn	kyn	kyn	kyn~kin	kyn	kyn	kyn	ɡyn	kyn	kyn	kyn	kyn	kun~ɡun	kyn	kon~kyn	kyn	køn	hyn	ɟyn	ɡyn	χyn	kyn	kun	køn~kyn	kyn
+DEEP_1	dærin	tɛrɛn	tɛrɛŋ	tɑrɤ̆ʷn	teren	tereŋ	diriŋ	derin	tereŋ	teren	teren	tereŋ	tireŋ		teren	tereŋ	teren	tereŋ	teriŋ	tiroŋ	tereŋ	tɛrɛŋ~tirɛŋ	tereŋ	tirɛn	dereŋ	derin		tereŋ				diriŋ
+DEEP_2																											ʧuŋ					
+DEEP_3																													ʧoŋqur	ʧuqur		
+DIE_1	øl	yl	øl	vil	øl	ol	øl	øl	øl	øl	øl	øl	øl		øl	øl	øl	øl	øl	ul	øl	øl	øl	yl	øl	ølʲ	øl	øl	øl	ol	jul	øl
+DIG_1	ɡɑzɯ	qɑð	qɑs		qɑz	cɑs	kɑs	kɑz	qɑz	qɑz	kɑz	qɑz	χɑs	qɑz	qɑz	qɑz	qɑzɯ	qɑs	qɑz	qɑzɯ	qɑs	qɑs	qɑs	qɑz	qɑz	kɑz	ɡɑð	qɑz	qɑz	qɑzi	qɑz	χɑs
+DIG_2				ʧɑv																												
+DIRTY_1			kɘrlɘɣ		kirli		kirdeːk		kirli	kir			kɘrlɘɡ			kir	kirli	kir~kirliɡ	kirliɡ		kirliɡ		kirly~kyrly		hɘrlɘɣ	cirlʲi	kirli	χirliɡ	kir	kir	ker~kerlʲe	kirdeːχ
+DIRTY_2		bɯsrɑq																						pɯʧrɑq								
+DIRTY_3	bulɑʃɯɡ				bulɑʃɯq			bulɑʃɯk			bɯlɑʃɯq																					
+DIRTY_4						sɑsi																										
+DO OR MAKE_1									ʒɑsɑ		jɑsɑ	ʒɑsɑ				ʤɑsɑ	jɑsɑ	ɟɑzɑ		jɑsɑ				jɑsɑ	ʧɑˤsɑ		jɑθɑ					
+DO OR MAKE_2	et		ɛt			et		et	et	et~	et		it		et		et	et		iʦ~eʦ	et	et~ɛt	et			et	et		ɛt		et~it	
+DO OR MAKE_3							oŋor																									oŋor
+DO OR MAKE_4							ɡɯn				qɯl					qɯl		qɯl	kɯl			qɯl			qɯl			qɯl	qil	qil	qɯl	ɡɯn~kɯn
+DO OR MAKE_5		eʃlɛ							isle	iʃle	isle~iʃle	ɘste		ʃɑ		iʃtø~					iʃte			eʃlɛ								
+DO OR MAKE_6					jɑp			jɑp			jɑp															jɑp						
+DO OR MAKE_7				tu																												
+DOG_1	it	et		jɯdɤ̆ʷ		it	ɯt		ijt	it	it	it		it	it	it	ijt	ijt~it	ɯt	iʃt		it	it	et			it	ɯt	iʃt	it	ɯʃt~eʃt	ɯt
+DOG_2			ɑdɑj										ɑdɑj								ɑdɑj											
+DOG_3					køpek			køpek																		cøpec						
+DOG_4																									ʧɯdɯɣ							
+DRINK_1	iʧ	es	iʧ	ɘɕ	iʧ	yz~iz~yʧ~iʧ	is	iʧ	iʃ	iʧ	iʧ~iʦ	ɘʃ	ɘs	iʧ	iʧ	iʧ	iʃ	iʧ	iʧ	iʧ	iʃ	ëʧ	iʧ	eʧ	iʃ	iʧmec	iʧ	iʃ	iʧ	iʧ	iʧ~iʃ~eʧ	is
+DRY_1	ɡuru	qoro			quru	churu	kurɑːnɑk	kuru~kurɑk	qurɣɑq	qurɣɑq~quru	kurɣɑk	qʊrɣɑq	χuruɣ	qurruɣ	quru	qurɣɑq	qurɯ	kuru	quruɣ	kuru	quruɣ		qurɣɑχ	qorɯ	qurɣɑɣ	kuru	ɡurɯ	qurɣɑɣ	quruq	quruq	qurlyɣ	kurɑːn
+DRY_2				tibɘ																												
+DRY_3			keːbɘɣ																													
+DRY_4						kɑk																qɑq										
+DUST_1									ʃɑŋ			ʃɑŋ			ʧɑŋ	ʧɑŋ	ʃɑŋ												ʧɑŋ	ʧɑŋ	ʧɑm~ʧɑn	
+DUST_2	toz	tuðɑn	tozɑn	tuzɑn	toz	tos		toːz			toz	tozɑŋ	tozɯn					tozun~tozɯn	toz		tozun	tos~tosɑn		tuzɑn		toz	toðɑn	doːzun	tozɑŋ~toz		tos	
+DUST_3																																buor
+DUST_4														turpɑːq						tɑːrɯχ			tobrɑχ		toˤprɑq						torvɑq~tɯrvɑq	
+DUST_5										buqu																						
+EARTH (SOIL)_1	jer	jer	ʧɛr	ɕɘr	jer	ier~jer	hir	jer	ʒer	ʤer	jer	ʒer	ʧir	jer	jer	ʤer	jer	cer~ɟer~jer	jer		ʧer	jer	ɟer	ʤir	ʧer	jer	jer		jɛr	jer	jer	sir
+EARTH (SOIL)_2	torpɑɡ	tuprɑq	toβrɑq	tøprɑ	toprɑq			toprɑk	topɯrɑq	toprɑq	toprɑq	topɯrɑq	tobɯrɑχ	turpɑq	topurɑq	topurɑq	topɯrɑq	toprɑq	toprɑq		tobrɑq		tobrɑq	tufrɑq	toˤprɑq	toprɑk	toprɑq	dovurɑq	toprɑq	tuprɔq	torvɑq~tɯrvɑq	
+EARTH (SOIL)_3							buor																									buor
+EAR_1	ɡulɑɡ	qolɑq	qulɑq	χølɣɑ	qulɑq	chulɑɡ	kulɡɑːk	kulɑk	qulɑq	qulɑq	kulɑk~kulɑχ~qulɑq	qulɑq	χulɑχ	qulɑːq	qulɑq	qulɑq	qulɑq	qɯlɑq~qulɑq	qulqɑq	qulɑχ	qulɑq	qolɑq~qulɑq	qulɑq	qolɑq	qulɑq	kuɫɑk	ɡulɑq	qulɑq	qulɑq	qulɔq	qulɑq	kulɡɑːχ
+EAT_1		ɑʃɑ			ɑʃɑ	ɑʃɑ	ɑhɑː			ɑʃɑ	ɑsɑ~ɑʃɑ				ɑʃɑ		ɑʃɑ		ɑʃɑ			ɑʃɑ	ɑʒɑn	ɑʃɑ								ɑhɑː
+EAT_2	je		ʧi	ɕi			hie	i	ʒe			ʒe	ʧɘ	jeːe		ʤe	je	ci	je	je~ji	ʧiː	jë	ɟi		ʧi~nemne	je	ij	ʧemne~ʧi	ji	je	je~ji~ʤi	sie
+EDGE_1		sit			ʧet	sete			ʃet			ʃet				ʧet	ʃet					ʦit~ʧët		ʧit			ʧet		ʧɛt	ʧet		
+EDGE_2	ɡɯrɑɡ						kɯrɯː				kɯrɯj		χɯri~χɯrɯɣ		qɯrɯj					qɯrɣɯ	qɯrɯj		qɯrɯ	qɯrɯj					qirɣɑk	qirɣɔq		
+EDGE_3		qɯr	qɯr	χɘrɘ																	qɯr								qir			
+EDGE_4										qɯjɯr								qɯj~quj	qɯdɯɣ						qɯdɯɣ			qɯdɯɣ			qɯzɯɣ	kɯtɯː
+EDGE_5																				qɑʃ	qɑʃ								qɑʃjɑr			
+EDGE_6											jɑɣɑ				jɑɣɑ							jɑɣɑ							jɑqɑ			
+EGG_1	jumurtɑ	jomortqɑ	ʧumurtqɑ	ɕømɑrdɑ	jɯmɯrtɑ	jumurtkɑ	hɯmɯːt	jɯmɯrtɑ			jumurtχɑ	ʒʊmɯrtqɑ	nɯmɯrχɑ	jumurqɑ	jɯmɯrtqɑ	ʤumurtqɑ	jumɯrtqɑ	ɲurtqɑ~ɲɯmɯrtqɑ	jumurɣɑ	jomurtɑ~jumotor	nɯbɯrtqɑ	jomɯrtqɑ	ɟɯmɯrtχɑ	jomɯrqɑ	ɲumurhɑ	jumurtɑ	jumurtɡɑ	ʧuurɣɑ				sɯmɯːt
+EGG_2																															ojɑ~ujɑ	
+EYE_1	cøz	kyð		kuɕ	køz	køz		ɡøz	køz	køz	køz~kez	køz		køz	ɡøz	køz	køz	køs	køz	koz		køz	køs	kyz		ɟøz	ɡøð		køz	koz	kyz~køz	
+EYE_2			qɑrɑq				kɑrɑk						χɑrɑχ								qɑrɑq				qɑrɑq			qɑrɑq				χɑrɑχ
+FALL_1		jɯɣɯl			jɯqɯl				ʒɯɣɯl	ʤɯɣɯl	jɯɣɯl	ʒɯɣɯl			jɯɣɯl	ʤɯɣɯl	jɯɣɯl			jɯχɯl	ʧɯɣɯl	jɯɣɑl		jɯɣɯl			jɯqɯl		ʒiqil	jiqil		
+FALL_2	dyʃ					tuz	tys	dyʃ		tyʃ	ʧyʃ~kis tyʃ	tys	tys	tiʃ		tyʃ		tyʃ	tyʃ	ʤyʤ		tyʃ	tyʃ		tyˤʃ	dyʃ		dyʃ	ʧyʃ			tys
+FALL_3				yk																												
+FALL_4			ɑŋnɑl										ɑŋdɑrɯl																			
+FALL_5																														tokil	toqrɑ	
+FALL_6												qulɑ								ʃɑŋkulɑ~ʃøŋ kol												
+FAR_1	uzɑɡ				uzɑq			uzɑk	uzɑq	uzɑq							uzɑq	uzɑq					uzɑq			uzɑk	uðɑq		uzɑq	uzoq	uzɑq	
+FAR_2		jɯrɑq	ərɑq			yrɑc~yrɑh	ɯrɑːk	jɯrɑk			irɑχ~jɯrɑq		ɯrɑχ	hɯrɑɑq	jɯrɑq	ɯrɑɑq		rɑq~ɯrɑɑq	jɯrɑq	jɯrɑχɑr	ɯrɑq	jɯrɑq	ɯrɑɑq	jɯrɑq	ɯrɑq			ɯrɑq	ʒirɑq			ɯrɑːχ
+FAR_3				inʑe																												
+FAR_4									qɑʃɯq			qɑʃɯq																				
+FAT (ORGANIC SUBSTANCE)_1		mɑj							mɑj			mɑj			mɑj	mɑj	mɑj					mɑj		mɑj					mɑj			
+FAT (ORGANIC SUBSTANCE)_2	jɑɣ		ʧɑɣ	ɕu	jɑɣ	jɑv	hɯɑ	jɑː		ʤɑw	jɑv		ʧɑɣ	jɑːɑɣ				jɯɣ	jɑɣ	jɑɣ	ʧɑɣ		ɟu		ʧɑɣ	jɑː	jɑɣ		jɑɣ	jɔɣ		sɯɑ
+FAT (ORGANIC SUBSTANCE)_3													ys															ys				
+FAT (ORGANIC SUBSTANCE)_4																															tønɑχ	
+FATHER_1	ɑtɑ	ɑtɑ	ɑdɑ	ɑtte		ɑtɑ			ɑtɑ	ɑtɑ	ɑtɑ				ɑtɑ	ɑtɑ	ɑtɑ	ɑdɑ			ɑdɑ	ɑtɑ	ɑdɑ	ɑtɑ	ɑtɑ		ɑtɑ	ɑdɑ	ɑtɑ	ɔtɑ		
+FATHER_2																				ɑpɑ	ɑbɑ											
+FATHER_3							ɑɡɑ					ɛke																				ɑɣɑ
+FATHER_4																															ɑʧɑ	
+FATHER_5					bɑbɑ			bobɑ					pɑbɑ	bɔːbɑ												bɑbɑ						
+FATHER_6																			qɑŋ													
+FEAR (BE AFRAID)_1	ɡorχ	qurq	qoːruq	χørɑ	qorq	chorch			qorq	qorq	qorq	qorq	χorɯχ	qorq	qorq	qorq	qorq	qoruq~qorɯq	qorq	χorɣɑ	qoruq	qorq	qorχɯ	qurqu	qoˤrt	kork	ɡorq	qort	qorq	qorq	qorq	
+FEAR (BE AFRAID)_2							kuttɑn																									kuttɑn
+FEATHER_1	tyc		tyk	tɘ̆ʷk			tyː	tyj		qɑnɑtlɯ tyk	tik				tyk			tyk	tysi						tyk	tyj						tyː
+FEATHER_2													ʧyɡ								ʧyɡ							ʧyɡ				
+FEATHER_3					qɑnɑt					qɑnɑtlɯ tyk													qɑnɑt									
+FEATHER_4	lælæc																			mimiluχ							jelek					
+FEATHER_5						junɡ																										
+FEMALE (OF AN ANIMAL) (N.)_1					ɯrɣɑʧɯ				urɣɑʃɯ		ɯrɣɑʧɯ	ʊrɣɑʃɯ				urɣɑɑʧɯ	urɣɑʃɯ										urqɑʧɯ			urɣɔʧi		
+FEMALE (OF AN ANIMAL) (N.)_2	diʃi		tɘzɘ		diʃi	tusi	tɯhɯ	diʃi		tiʃi	tiʃi		tɘzɘ	tiʃi	tiʃi			tiʒi	tiʃi	tiʧi	tiʒi		tɯʃɯ	teʃe		diʃi		diʒi	ʧiʃi		tise	tɯhɯ
+FEMALE (OF AN ANIMAL) (N.)_3				ɑmɑ																												
+FEMALE (OF AN ANIMAL) (N.)_4		inɛ											ine							ɑːneʃ				ɑnɑ								
+FEMALE (OF AN ANIMAL) (N.)_5																									eˤpʃɘ							
+FIGHT_1		huɣɯʃ	soːɣus														soɣɯs	soɣɯʃ				soɣɯʃ	soɣuʃ	suɣɯʃ	soˤqʃɯr~soˤqɯʃ				soquʃ			
+FIGHT_10					køtekleʃ																											
+FIGHT_11											tutuʃ		tudɯs																			
+FIGHT_12																												sodɑːlɑʃ				
+FIGHT_13																			syŋyʃ													
+FIGHT_2									tøbeles			tøbeles			tøbeleʃ	tøbøløʃ	tøbeles									døvyʃ						
+FIGHT_3	vuruʃ								urɯs				urus	vuruʃ		uruʃ		uruʃ		vuruʃ	uruʃ					vuruʃ	uruʃ		uruʃ	uriʃ		
+FIGHT_4																																oχsus
+FIGHT_5							ølørys																									
+FIGHT_6				ɕɑbɤ̆ʷɕ																												
+FIGHT_7										ʤɑɣɑlɑʃ														jɑqɑlɑʃ					jɑqilɑʃ	jɔqɑlɑʃ		
+FIGHT_8																															perɯs	
+FIGHT_9								dokuʃ							toqɑlɑʃ																	
+FIND_1	tɑp	tɑp	tɑp	tup	tɑp	tɑp			tɑp	tɑb	tɑp	tɑp	tɑp		tɑp	tɑp	tɑp	tɑp	tɑp	tɑpf	tɑp	tɑp	tɑp	tɑp	tɯˤp		tɑp	tɯp	tɑp	tɔp	tɑp	
+FIND_2					bul		bul	bul						bul					bul							buɫ						bul
+FINGERNAIL_1	dɯrnɑɡ	tɯrnɑq	tərɣɑq	ʧɘrne	tɯrnɑq		tɯŋɯrɑk	tɯrnɑk	tɯrnɑq	tɯrnɑq	tɯrnɑk	tɯrnɑq	tɯrɣɑχ	tɯrnɑq	tɯrnɑq		tɯrnɑq	tɯrɣɑq	tɯrŋɑq~tɯŋrɑq	tɯrnɑχ				tɯrnɑq		tɯrnɑk	dɯrnɑq	dɯrɣɑq		tirnɔq		tɯŋɯrɑχ
+FINGERNAIL_2						termɑc										tɯrmɑq		tɯrbɑq			tɯrbɑq		tɯrmɑχ		dɯrbɑq				tirmɑq		tɑrmɑq~tɯrmɑq~tɯrvɑq	
+FIREWOOD_1	odun	utɯn	oːduŋ	vudɤ̆ʷ	odun	odim		odun	otɯn	otun	otun	otɯn	odɯŋ	huːotun		otun	otɯn		otuŋ	otɯn~oʦɯn~uʦɯn	oduŋ	otɯn	odɯn	utɯn		odun	odun		otun	otin	otun~otɯn	
+FIREWOOD_2						ɑɡɑʧ	mɑstɑr								ɑɣɑʧ		ɑɣɑʃ								neʃ			ɯjɑʃ				mɑs
+FIRE_1	od	ut	ot	vut		ot	uot		ot	ot	ot	ot	ot	huːot	ot	ot	ot	ot	ot	ot	ot	ot	ot	ut	ot		oːt	ot	ot		ot	uot
+FISH_1	bɑlɯɡ	bɑlɯq	pɑːləq	pulɤ̆ʷ	bɑlɯq	bɑlik~bɑluc	bɑlɯk	bɑlɯk	bɑlɯq		bɑlɯk~bɑlɯq	bɑlɯq	pɑlɯχ		bɑlɯq	bɑlɯq	bɑlɯq	bɑlɯq	bɑlɯq	bɑluχ	pɑlɯq	bɑlɯq	bɑlɯq	bɑlɯq	bɑlɯq	bɑɫɯk	bɑlɯq	bɑlɯq	beliq	bɑliq		bɑlɯk
+FISH_2										ʧɑbɑq																						
+FIVE_1	beʃ	beʃ	pɛs	pilɘk	beʃ	bes	bies	bulɑʃɯq	bes	beʃ	beʃ	bes	pis	biːeʃ~beːeʃ	beʃ	beʃ	bes	peʃ	beʃ	peʃ	peʃ	pëʃ	beʃ	biʃ	beʃ	beʃ	bɛʃ	beʃ	bɛʃ	beʃ	pis~pes	bies
+FLOWER_1	ʧiʧæc	sɛskɛ			ʧiʧek	ʧiʧek		ʧiʧek			ʧeʧɛɡi				ʧeʧek		ʃeʃekej	ʧeʤek	ʧeʧek	ʧiʧeχ		ʧiʧɛk	ʧeʧek	ʧɛʧɛk~ʧɛʧkɛ		ʧiʧec		ʧeʧek	ʧeʧɛk		ʧyʧyɡ	
+FLOWER_2													ʧɑχɑjɑχ								ʧɑqkijek											
+FLOWER_3							ot																									
+FLOWER_4																									ɑqɑʃ							
+FLOW_1	ɑχ	ɑq	ɑq	juχ	ɑq	ɑɡ		ɑk	ɑq	ɑq	ɑk	ɑq	ɑq		ɑq	ɑq	ɑk	ɑq	ɑq		ɑq	ɑq	ɑq	ɑq	ɑˤq	ɑk	ɑq	ɑq	ɑq	ɔq	ɑq	
+FLOW_2																																syːr
+FLOW_3							tehin~testiː																									
+FLOW_4														vɑr																		
+FLOW_5																				fyr												
+FLY (INSECT)_1		seben			ʧibin	ʧibin			ʃɯbɯn	ʧibin	ʦibin~ʧibin	ʃɯbɯn			ʤibin	ʧɯmɯn	ʃɯbɯn			pohʧyin			ʧɯmɯn	ʧeben					ʧivin		ʧivin	
+FLY (INSECT)_2							hɑksɯrɡɑ															ʧerɡɛj~ʦerɡɛj										sɑχsɯrɣɑ
+FLY (INSECT)_3				ʃɤ̆ʷnɑ				sinek					seek												seek	sinec	θiŋek	seek				
+FLY (INSECT)_4																		køɡen														
+FLY (INSECT)_5														ɡudɣu					kodɣu													
+FLY (MOVE THROUGH AIR)_1	uʧ	os	uʧ	vɘ̆ʷɕ	uʧ	uʧ		uʧ	uʃ	uʧ	uʧ~uʦ	ʊʃ	uʧuχ	uʧ	uʧ	uʧ	uʃ	uʧ~uʃ	uʧ	uʧ~uʃ~yʧ	uʧuq	oʧ~uʦ	uʧ	oʧ	uˤʃ	uʧ	uʧ	uʃ	uʧ	uʧ	uʃ~uʧ~yʧ	
+FLY (MOVE THROUGH AIR)_2							køt																									køt
+FOAM_1	cøpyc	kybek	koːβʲyk	købøk	køpyk	kobelek		køpyk	købik	kømyk	købyk	købɘk	købɘk		ɡøbyk	købyk	købik	købyk			købyk		købyk	kybek	køˤpyk	cøpyc	køpyr		køpyk~køvyk	kopik	kivek	
+FOG_1	dumɑn	tomɑn			tumɑn	toumɑn	tumɑn	dumɑn	dumɑn	tubɑn	tumɑn	tʊmɑn	tubɑn		tumɑn	tumɑn	tumɑn	tubɑn	tumɑn	tumɑn	tubɑn	tomɑn	tumɑn	tomɑn	tumɑn		dumɑn	tumɑn	tumɑn	tumɑn		tumɑn
+FOG_2				tɘtre																												
+FOG_3																															mɑnɑn	
+FOG_4																										sis						
+FOOT OR LEG_1	ɑjɑɡ	ɑjɑq	ɑzɑq	orɑ	ɑjɑq	ɑjɑc~ɑjɑch~ɑjɑk	ɑtɑk	ɑjɑk	ɑjɑq	ɑjɑq	ɑjɑk	ɑjɑq	ɑzɑχ	hɑdɑq	ɑjɑq	ɑjɑq	ɑjɑq		ɑdɑq	ɑjɑχ	ɑzɑq	ɑjɑq		ɑjɑq		ɑjɑk	ɑjɑq		ɑjɑq	ɔjɔq	ɑzɑq	ɑtɑχ
+FOOT OR LEG_2										but					but	but		but	but				but		but			but				
+FOREHEAD_1			qɑmɑq										χɑmɑχ					qɑbɑq~qɑqpɑɣɑ			qɑbɑq							χɑvɑq				
+FOREHEAD_2	ɑlɯn					ɑlni		ɑnnɯ						hɑːɑnl~hɑːll					ɑlɯn							ɑɫɯn	ɑlɯn				ɑl	
+FOREHEAD_3							hyːs																									syːs
+FOREHEAD_4				ɕɑmɡɑ																												
+FOREHEAD_5																ʧeke																
+FOREHEAD_6																									dostɑq							
+FOREHEAD_7																				menzi												
+FOREST_1		urmɑn		vørmɑn	ormɑn	ormɑn					ormɑn	ormɑn			ormɑn		ormɑn					ormɑn		urmɑn		ormɑn			ormɑn	ormɔn		
+FOREST_2	ɑɣɑʧ		ɑɑʧ				mɑs			ɑɣɑʧ			ɑɣɑs		ɑɣɑʧlɯq		ɑɣɑʃlɯq	ɑɣɑʃ ɑrɑzɯ			ɑɣɑʃ		ɑɣɑʃ		neʃ qɑˤtɯndɑ			ɯjɑʃ				
+FOREST_3					dɑɣ			dɑɑ																								tɯɑ
+FOREST_4			ɑɑʧ															ɑɣɑʃ ɑrɑzɯ														
+FOREST_5																			ɑrɯɣ	ɑrɯɣ					ɑrɯɣ			ɑrɯɣ				
+FOUR_1	dørd	dyrt	tørt	tøvɑttɤ̆ʷ~tøvɑdɤ̆ʷ~tøvɑt	dørt	tort	tyørt	dørt	tørt	tørt	dørt	tørt	tørt	tøːørt~tyːørt	dørt	tørt	dørt	tørt	tørt		tørt	tørt	tørt	dyrt	dørt	dørt	dørt	dørt	tørt	tort	dyrt~tyrt~tørt	tyørt
+FREEZE_1					buzlɑ		buːhur		muzlɑ	buzlɑ	buzlɑ	qɑt		buːzɑːq vɑːɑ	buzlɑ		buzlɑ					pustɑn								muzlɑ		
+FREEZE_2	don	tuŋ	toŋ					don	toŋ				toŋ			toŋ		toŋdɯr	toŋ	toŋ	toŋ		toŋ	tuŋ	doŋ	don	doŋ	doŋ	toŋ		toŋ	toŋ
+FREEZE_3				ʃɤ̆ʷn																												
+FRUIT_1		jemeʃ		ɕimɘɕ		jemis		jemiʃ	ʒemis		jemis	ʒemɘs			jemiʃ	ʤemiʃ	jemis		jemiʃ			jëmiʃ		ʤimeʃ			ijmiʃ	ʧimis	jimiʃ		ʤimis	
+FRUIT_2										køɡet																						
+FULL_1	dolu	tulɯ	toldərɑ	tulli	tolu	tolu	toloru	dolu	tolɣɑn~tolɯq	tolu	tolu	tolɯ	toldɯrɑ	tuolɑ	tolu	tolturɑ	tolɯ	toltɯrɑ	tolu	tolu	toldurɑ	tol	tolo	tulɯ	dolu	doɫu	dolɯ	dolu	toluq~tolɑ	tolɑ	tolo~tolu	toloru
+GIVE_1	ver	bir	pɛr	pɑr	ber	ber	bier	ver	ber	ber	ber~ver	ber	pir	vier	ber	ber	ber	per~ber	ber	per~ver~ber	per	ber~bɛr	ber	bir	ber	ver	ber	ber	bɛr	ber	per	bier
+GOOD_1	jɑχʃɯ	jɑqʃɯ	ʧɑqsə		jɑχʃɯ	jɑcsi			ʒɑqsɯ	ɑʃχɯ	jɑχʃɯ~jɑχsɯ	ʒɑqsɯ	ʧɑχsɯ		jɑχʃɯ	ʤɑqʃɯ	jɑχʃɯ	cɑqʃɯ~ɟɑqʃɯ		jɑχʃi~jɑχʃɑrɑ	ʧɑqʃɯ	jɑqʃɯ	ɟɑχʃɯ	jɑχʃɯ			jɑɡʃɯ		jɑχʃɯ	jɑχʃi	jɑχʃɯ	
+GOOD_2					eji	ejɡi		iji		iɡi							ijɡi		edɡy						eˤkkɘ	iji		eki				
+GOOD_3							yʧyɡej																									yʧyɡej
+GO_1		bɑr	pɑr	pɯr	bɑr	bɑr	bɑr		bɑr	bɑr	bɑr	bɑr	pɑr	vɑr	bɑr	bɑr	bɑr	pɑr~bɑr	bɑr	bɑr	pɑr	bɑr	bɑr	bɑr	bɑr		bɑr	bɑr	bɑr	bɔr	pɑr	bɑr
+GO_2																ʤyr						jør						ʧoru		jur		
+GO_3	ɟet	kit			ket			ɡit	ket		ket	ket														ɟit	ɡit					
+GRASP_1	tut	tot	tut	tɯt	tut	tut	tut	tut	tut	sermeb tut	tut		tut	tut	tut	tut	tut	tut	tut	tut~tuʦ	tut	tot	tut	tot	tuˤt	tut	tut	tut	tut	tut	tut	tut
+GRASP_2								kɑp			kɑp		χɑp								qɑp					kɑp						kɑp
+GRASP_3																qɑrmɑ													qɑrmɑ			
+GRASP_4												ʊstɑ																				
+GRASS_1		ylɛn			ølen												ølen	øløŋ			øleŋ	ylɛŋ	øløŋ	ylɛn								
+GRASS_2						kukel																			køk							
+GRASS_3	ot		ot		ot		ot	ot			ot~jɑʃot		ot	oot	ot						ot					ot	ot	oˤt	ot	ot	oht	ot
+GRASS_4				kurɤ̆ʷk																												
+GRASS_5									ʃøp			ʃøp				ʧøp				ʧøp~ʧyp									ʧøp			
+GRASS_6																												siɡen				
+GREEN_1	jɑʃɯl	jɛʃel			jeʃil	jɑs		jeʃil		ʤɑʃɯl	jesil	ʒɑsɯl			jɑʃɯl	ʤɑʃɯl	jɑsɯl	cɑʒɯl	jɑʃɯl	jɑːʃɯl	ʧɑʒɯl	jiʃil	ɟɑʒɯl	jɛʃel		jeʃilʲ	jɑʃɯl		jeʃil	jɑʃil	jɑsɯl	
+GREEN_2			kok				kyøk		køk				køk	kyøk~kiek											køk				køk			kyøχ
+GREEN_3				simɘs																												
+GRIND_1		tɑrt							tɑrt	tɑrt	tɑrt	tɑrt	tɑrt		tɑrt	tɑrt	tɑrt				tɑrt	tɑrt		tɑrt					tɑrt	tɔrt		tɑrt
+GRIND_2	yjyt																									øvyt	ywe					
+GRIND_3																		teerbenne					teermende		teermele			deerbele				
+GRIND_4																															uɣ	
+GRIND_5							ilbirit																									
+GRIND_6				ɑvɤ̆ʷr																												
+GRIND_7					ʧek																											
+GRIND_8																			jɑnʧ											jɑnʧ		
+GROW_1		yθ	øs	ys	øs	os			øs	øs	øs~es	øs	øs		øs	øs	øs	øs			øs	øs	øs	ys	øˤs		øθ	øs	øs	os		
+GROW_2							yːn																		yn				yn		yn	yːn
+GROW_3						ulɡɑj	ulɑːt																									ulɑːt
+GROW_4	bøjy							byː						bidi												byjy						
+GROW_5														kiːekɛr																		
+GROW_6																				ʧɑŋnɑ~ʧɯŋnɑ												
+GUTS_1		esɛk	iʤiː		iʧek	iʧɑɡ		iʧ	iʃek	ʧeɡi	iʦiɡi	ɘʃek	ɘʧeɡe		iʧek	iʧeɡi	iʃek	iʤeɡe~iʒe			iʃte	ɛʧɛw	iʧeɡe	eʧɛk			iʧeɡe	iʒin	yʧɛj	iʧɑk	eʧikɯ~iʧeki	
+GUTS_2						suzuɡ																										ohoɣos
+GUTS_3	bɑɣɯrsɑɡ			pɯrʒɤ̆ʷ																pɑɣsuχ					bɑːrsɯq	bɑːɯrsɑk						
+HAIR (HEAD)_1	sɑʧ	sɛs	ʧɑʧ	ɕyɕ	sɑʧ	xɑc	ɑs	sɑʧ	ʃɑʃ	ʧɑʧ	sɑʧ~seʧ~ʦɑʦ~ʧɑʧ	ʃɑʃ	sɑs	sɑʧ	ʧɑʧ	ʧɑʧ	ʃɑʃ	ʧɑʧ~ʃɑʃ	sɑʧ	sɑʧ	ʃɑʃ	ʦɑʦ	ʧɑʧ	ʧɛʧ	ʧeˤʃ	sɑʧ	θɑʧ		ʧɑʧ	sɔʧ	sɛʤ~ʃɑʤ~sɑʧ	ɑs
+HAIR (HEAD)_2															tyk													dyk				
+HARD_1		qɑtɯ	qɑːdəɣ	χɯdɤ̆ʷ	qɑttɯ	chɑti	kɯtɑːnɑk		qɑttɯ	qɑtɯ	qɑtɯ	qɑttɯ	χɑtɯɣ		qɑttɯ	qɑtuː	qɑtɯ	qɑdu~qɑdɯɣ	qɑtɯɣ	χɯti~χɯʤi	qɑdɯɣ	qɑttɯ	qɑtu	qɑtɯ	qɑˤtɯɣ	kɑtɯ	ɡɑtɯ	qɑdɯɣ	qɑttiq	qɑttiq	qɑtɯɣ	kɯtɑːnɑχ
+HARD_2	bærc																															
+HARD_3								ʧetin																								
+HE OR SHE OR IT_1	o	ul	ol	vøl	o	ol		o	ol	ol	ol	ol	ol	oː	o	ɑl	ol	ol	ol	vu	ol	ol	ol	ul	ol~oŋ	o	ol	ol	u	u	qol	
+HE OR SHE OR IT_2							ɡini																									kini
+HEAD_1	bɑʃ	bɑʃ	pɑs	puɕ	bɑʃ	bɑs	bɑs	bɑʃ		bɑʃ	bɑʃ~bɑs	bɑs	pɑs	bɑːʃ	bɑʃ	bɑʃ	bɑs	bɑʃ~pɑʃ	bɑʃ	pɑʃ~bɑʃ	pɑʃ	pɑʃ~bɑʃ	bɑʃ	bɑʃ	bɑˤʃ	bɑʃ		bɑʃ	bɑʃ	bɔʃ	pɑʃ	bɑs
+HEART_1	yræc	jørɛk	ʧyrek	ʧɘre	jyrek		hyrek	yrek	ʒyrek	ʤyrek	jirek	ʒyrek	ʧyrek	jirɛk	jyrek	ʤyrek	jyrek	dyrek	jyrek	jiriɡ	ʧyrek	jorɛk	ɟyrek	jørɛk	ʧyrek		jyrek	ʧyrek	ʒyrɛk~jyrɛk	jurɑk	jyrek~jørek	syreχ
+HEAR_1	eʃit	iʃet	ɛs	ilt	eʃit	esit~ezit	ihit	iʃit	esit	eʃit	esit~eʃit	esɘt	is	iʃyt	eʃit		esit		eʃit	iʃti		iʃit~eʃit		iʃet		iʃit	eʃit		iʃit	eʃit		ihit
+HEAR_2																uq		uq			uq	uq~oq	uq									
+HEAR_3																									dɯŋnɑ			dɯŋnɑ			tinnɑ	
+HEAVY_1	ɑɣɯr	ɑwɯr	ɑɑr	jɯvɤ̆ʷr	ɑɣɯr	ɑɡer	ɯɑr	ɑɑr	ɑwɯr	ɑwur	ɑvur	ɑwɯr	ɑɑr	ɑɣir	ɑwur	oor	ɑwɯr	ɑɑr	ɑɣɯr	ɑɣɯr	ɑːr	ɑwɯr	uur	ɑwɯr	ɑɑr	ɑːɯr	ɑɣɯr	ɑɑr	eɣir	ɔɣir	ɑɣɯr	ɯɑrɑχɑn
+HERE_1	burɑdɑ	bɯndɑ	məndɑ		mɯndɑ	mondɑ	mɑnnɑ	bɯrdɑ	bundɑ	bɯlɑjdɑ~mɯndɑ	munɑ	mʊndɑ	mɯndɑ	buoːrɑ	mundɑ	mɯndɑ	mundɑ	mɯndɑ	buntɑ	mɯntɑ	mɯndɑ	mɯndɑ	mɯndɑ	mondɑ	mɯndɑ	burɑdɑ~burɑsɯ	bu jerde	mɯndɑ	bu jɛrdɛ~bu jɑqtɑ	bu jerdɑ	mɯndɑ	mɑnnɑ
+HERE_2				kundɑ																												
+HIDE (CONCEAL)_1		jɛʃer	ʧɑːzər			jɑxirj~iɑsir			ʒɑsɯr	ʤɑʃɯr	jɑʃɯr		ʧɑzɯr		jɑʃɯr	ʤɑʃɯr	jɑsɯr		jɑʃur	jɑʃir	ʧɑʒɯr	jɛʃɛr	ɟɑʒɯr	jɑʃɯr	ʧɑˤhir		jɯɣʃɯr	ʧɑʒɯr	joʃur	jɑʃir	jɑʃɯr	sɑhɯɑr
+HIDE (CONCEAL)_2					sɑqlɑ			sɑklɑ																		sɑkɫɑ						
+HIDE (CONCEAL)_3	ɟizlæn						kisteː												kizle								ɡiðle					kisteː
+HIDE (CONCEAL)_4																		suq					suq									
+HIDE (CONCEAL)_5				pɯdɑr																												
+HIDE (CONCEAL)_6														kyːøʃy																		
+HIDE (CONCEAL)_7												tɯq																				
+HOLE_1	deʃic	tiʃek			teʃik				tesik	teʃik	teʃik	tesɘk	tizɘk		teʃik	teʃik	tesik	teʒik			teʒik	tëʃik		tiʃek			deʃik	deʒik	tøʃyk	teʃik		
+HOLE_2	dælic							delik																	delɘk	delʲic					telɯq~telʲɯq	
+HOLE_3			ydyk				yːt						yt						yt		yt		yjt		yt			yt				
+HOLE_4																																χɑjɑɣɑs
+HOLE_5				ʃɤ̆ʷdɤ̆ʷk																												
+HOLE_6			toptuq											teplyk																		
+HORN (ANATOMY)_1	bujnuz	møɡøð	myys	møjrɑɡɑ	bojnuz	munɡus	muos	bujnuz	myjiz	myjyz	myŋyz~miviz	myjɘz	myys		myjyz	myjyz	myjiz	myys	myjyz	moŋus	myːs		myys	møɡez	miis	bojnuz		mɯjɯs	myŋɡyz		moŋus	muos
+HOT_1	isti	eθe	izɘɣ		sɯʤɑq	issi	itiː	sɯʤɑk	ɯssɯ	issi	issi	ɯstɯq	ɘzɘɡ		issi	ɯsɯq	issi	iziɡ~yzyɡ	isiɡ	ɯssɯ	iziɡ	isy	izy	esse	iˤsɘɣ	sɯʤɑk		iziɡ	issiq	issiq	issɯɡ	itiː
+HOT_2				vɘri																												
+HOT_3																				qɯzɯɡu							ɡɯðɡɯn		qiziq			
+HOUSE_1	ev	oj	ɛp		ev	øw~eu		ev	yj	yj	yv~yj	yj		hɛv	yj	yj	yj	em~uɣ~yj	ev	øj	em	y		øj	øɣ	ev			øj	uj	y~yj	
+HOUSE_2		jort		ɕurt																				jort								
+HOUSE_3													turɑ					turɑ					turɑ									
+HOW_1		qɑlɑj	qɑjnɑr				kɑjtɑk		qɑlɑj	qɑlɑj		qɑlɑj	χɑjdi			qɑndɑj	qɑlɑj	qɑnɑjɯp~qɑjɯp	qɑltɯ		qɑjde		qɑndɯj~qɑnɑjdɑ~qɑnɑjɯp		qɑɲʧɑ			qɑnʧɑp~ɑɑr	qɑndɑq	qɑndɑj~qɑlɑj		χɑjdɑχ
+HOW_2	neʧæ	nisek		mɘnle	nɑsɯl	neʧic		ne~nɑsɯl			neʧik			nɛtɛjdɛ	neʧik					neʧuχ		nɛʦik		niʧek		nɑsɯɫ	nɛhili		neʧuq		nɑɣu~nɑɣɯp	
+HUNT_1													ɑŋnɑ			ɑŋʧɯlɯq qɯl	ɑŋʃɯlɑ	ɑŋnɑ			ɑŋnɑ		ɑŋdɑ		ɑŋnɑ			ɑŋnɑ				
+HUNT_10																						ɑtɯʃ										
+HUNT_3							bultɑː																									bultɑː
+HUNT_4	ovɑ ʧɯχ~ovʧuluɡ et~ovlɑ	ɑwlɑ			ɑvlɑ	uulɑ~huɑlɑ		ɑwlɑ	ɑwlɑ	uwuɣɑ	ɑvlɑ	ɑwlɑ			ɑw et	uulɑ			ɑvlɑ					ɑwlɑ		ɑvɫɑ	ɑwlɑ		olɑ	ɔvlɑ		
+HUNT_5				tɯt																												
+HUNT_6			tɑjɣɑlɑ																													
+HUNT_7																															ti	
+HUNT_8														tɛzyr																		
+HUNT_9																				ertɑχ et												
+ICE_1	buz	boð	pus	pør	buz	bus~bujz	buːs	buz	muz	buz	buz	mʊz	pus	buːzɑːq	buz	muz	buz	bus~pus			mus	mos		boz		buz	buð		muz	muz	pɯz	muːs
+ICE_2																							toʃ		toˤʃ			doʃ				
+ICE_3																				toŋsɯ												
+IN_1	iʧæridæ~iʧindæ	esendɛ		ɤ̆ʷʒɘnʤe	iʧinde	izchɑri~jzindɑ	iske~ihiɡer	iʧjɑnɯndɑ~iʧinde	iʃinde	iʧinde	iʧke	ɘʃɘnde	ɘstɘnde	iʧ	iʧde	iʧinde	iʃinde	iʒinde	iʧinte	iʧi	iʃtinde	iʦindɛ	iʧinde	eʧtɛ	iˤʃtɘnde	iʧinde	iʧindɛ	iʃtinde	iʧidɛ	iʧidɑ	iʧinte~iʃte	ihiɡer
+I_1	mæn	min	mɛn		men	men	min	bɛn	men	men	men	men	min	mɛn	men	men	men	men	ben	men	men	min	men	min	men	ben	men	men	mɛn	men	men	min
+I_2				ebɘ																												
+JUMP_1																	qɑrɣɯ															
+JUMP_10	sɯʧrɑ				sɯʧrɑ																											
+JUMP_2	ɑtɯl~ɑtlɑn				ɑtlɑ			ɑtlɑ							ɑtɯl						ɑttɯ					ɑtɫɑ						
+JUMP_3							oj																									oj
+JUMP_4							ɯstɑn																									ɯstɑn
+JUMP_5		hiker		sik	sekir	sechir			sekir	sekir	sekir	sekɘr	seɡɘr			sekir		sekir	sekri	seker		sɛɡir~sɛkir	sekir	siker					sɛkrɛ	sɑkrɑ		
+JUMP_6																		qɑlɯ					qɑlɯ					χɑlɯ				
+JUMP_7																											bøk				poqɯr	
+JUMP_8			idɘn																													
+JUMP_9																									ʃurɑ			ʃurɑ				
+KILL_1	øldyr	ylter	øːlyr	vɘ̆ʷler	øldyr		ølør	øldyr	øltir	øltyr	øldir	øltɘr	ødɘr	hilɛːr	øltyr	øltyr	øltir	øltør~øltyr	ølyr	ølter	ødyr	øjtir	øltyr	yter	ølyr	ølʲdyr	øldyr	ølyr	øltyr	oldir	julur	ølør
+KILL_2						jɑrɑ et																										
+KNEE_1	diz		təsβɑːzə	ʧɘrɡuɕɕi	tiz	tixɡi~chesi		diz	dize		tyz~tiz~kiz	tɘze	tɘzek	tiːiz		tize	tiz	tize	tiz	tizeχ	tize	tizi~tiz	tize	tez	tɘskek	diz	dɯð	dis	tiz	tiz	tez~tiz	
+KNEE_2			təsβɑːzə																													
+KNEE_3				ʧɘrɡuɕɕi																												
+KNEE_4		tubɯq					tobuk			tobuq					tobuq																	tobuk
+KNOW (SOMETHING)_1	bil	bel	pɘl	pɘl	bil	bil	bil	bil	bil	bil	bil	bɘl	pɘl	bil	bil	bil	bil		bil	bel	pil	pil	bil	bel	bil	bilʲ	bil	bil	bil	bil	pel~pɯl~bel	bil
+KNOW (SOMETHING)_2																		oŋnɑ														
+LAKE_1	ɟøl	kyl	kolʲ	kylɘ	ɡøl		kyøl	ɡøl	køl	køl	ɡel	køl	køl		køl	køl	køl	køl	køl		køl	køl	køl	kyl	høl	ɟølʲ	køl	χøl	køl	kol	køl~kyl	kyøl
+LAUGH_1	ɟyl	køl	kulʲ	kul	kulʲ	chul	kyl	ɡyl	kyl	kyl	kyl~kul~kil	kyl	kyl	kil	kyle	kyl	kyl	kyl		kulli		køl		køl		ɟylʲ	ɡyl		kyl	kul	kyl~kul~kulʲ	kyl
+LAUGH_2													χɑtχɯr								qɑtqɯr		qɑtχɯr		qɑˤqqɯr			qɑttɯr				
+LEAF_1	jɑrpɑɡ	jɑprɑq			jɑprɑq	jɑprɑc~jɑbuldrɑc	hebirdek	jɑprɑk	ʒɑpɯrɑq	ʧɑprɑq	jɑprɑq	ʒɑpɯrɑq			jɑpɯrɑq	ʤɑlbɯrɑq	jɑpɯrɑq	cɑlbɯrɑq	jɑpɯrɣɑq	jɑrfɑq		jɑprɑq	ɟɑlbrɑχ	jɑfrɑq		jɑprɑk	jɑprɑq		jopurmɑq			sebirdeχ
+LEAF_2			pyyr										pyr								pyr				byr			byry				
+LEAF_3				ɕulʑɤ̆ʷ																												
+LEAF_4																		qɑvɑq				qɑvɑq										
+LEFT_1	sol	hul	sol		sol	sol		sol tɑrɑf		sol		sol	sol		sol	sol	sol	sol	sol		sol	sol	sol	sul		soɫ			sol		sol	
+LEFT_2							kɑŋɑs																									χɑŋɑs
+LEFT_3											son																					
+LICK_1	jɑlɑ	jɑlɑ	ʧɑlɣɑ	ɕullɑ	jɑlɑ	jɑlɑ	hɑlɑː	jɑlɑ	ʒɑlɑ	ʤɑlɑ	jɑlɑ	ʒɑlɑ	ʧɑlɣɑ	jɑlɣɑ	jɑlɑ	ʤɑlɑ	jɑlɑ	ɟɑlɑ	jɑlɣɑ	jɑlɑ	ʧɑlɣɑ		ɟɑlɑ	jɑlɑ	ʧɯlɣɑ	jɑɫɑ	jɑlɑ	ʧɯlɣɑ	jɑlɑ	jɑlɑ	jɑɣlɑ	sɑlɑː
+LIE DOWN_1		jɑt	ʧɑt		jɑt	jɑt	hɯt	jɑt	ʒɑt	ʤɑt	jɑt	ʒɑt	ʧɑt	jɑːt	jɑt	ʤɑt	jɑt	cɑt	jɑt	jɑt	ʧɑt	jɑt	ɟɑt	jɑt	ʧɯˤtɑr	jɑt	jɑt	ʧɯt	jɑt	jɔt	jɑt	sɯt
+LIE DOWN_2	uzɑn																															
+LIE DOWN_3				vɯrt																												
+LIVER_1	bɑɣɯr	bɑwɯr	pɑɑr	pɘ̆ʷvɘ̆ʷr			bɯɑr		bɑwɯr	bɑwur	bɑvur~bɑwɯr~bɑɣɯr	bɑwɯr	pɑɑr		bɑwur	boor	bɑwɯr	bɑɣɯr~pɑɑr	bɑɣɯr	pɑɣɯr	pɑːr	bɑwɯr~pɑwɯr~pɑɣɯr	buur	bɑwɯr	bɑɑr		bɑɣɯr	bɑɑr	beɣir		pɑɣɯr	bɯɑr
+LONG_1	uzun	oðon	uzun	vørøm	uzun	uxun	uhun	uzun	uzɯn	uzun	uzun	ʊzɯn	uzun	uzuːn	uzun	uzun	uzɯn	uzun	uzun	uzun	uzun	uzɯn~ozɯn	uzun	ozɯn	uzun	uzun	uðɯn	uzun	uzun	uzun	uzun~uzin~uzen	uhun
+LOOK FOR_1		eðlɛ							izle	izle	izde~izle	ɘzde			izle	izde	izle	iste	iste	iʃtɛ		istɛ		ezlɛ					izdɛ	izlɑ		
+LOOK FOR_2			tɘle										tɘle~kɘle						tile		tile				tɘle			dile			tele	
+LOOK FOR_3							kørdø																				ɡøðle					kørdøː
+LOOK FOR_4								ɑːrɑ																		ɑrɑ						
+LOOK FOR_5	ɑχtɑr					ixdɑr					ɑχtɑr																					
+LOOK FOR_6																		pedre					bedre									
+LOOK FOR_7				ʃɯrɑ																												
+LOOK FOR_8					qɯdɯr																									qidir		
+LOOK_1		qɑrɑ							qɑrɑ	qɑrɑ		qɑrɑ			qɑrɑ	qɑrɑ	qɑrɑ					qɑrɑ		qɑrɑ					qɑrɑ	qɑrɑ	qɑrɑ	
+LOOK_2			korʲ				kør						kør					kør	kør		kør		kør		kør			kør				kør
+LOOK_3	bɑχ			pɤ̆ʷχ	bɑq	bɑɡ		bɑk			bɑk			vɑq				bɑq		pɑχ~vɑχ						bɑk	bɑq					
+LOUSE_1	bit	bet	pɘt~pit	pɯjdɤ̆ʷ	bit	bit			bijt	bit	bit	bit	pɘt	bit	bit	bit	bijt	pijt~pit	bit	piʧt	pit		bit	bet	bɯˤt	bit	bit	bɯt	pit	bit	pɯʃt~pɯʃ~pɯt	bɯt
+MANY_1		kyp	kopʲ			cøp			køp	køb	køp	køp	køp		køp	køp	køp	køp		kop	køp	køp	køp	kyp	køˤp~køˤf		køp	χøj	køp	kop	kep	
+MANY_2	ʧoχ				ʧoq			ʧok																		ʧok						
+MANY_3							yɡys												ykyʃ													
+MAN_1					erkek				erkek		erkek	erkek			erkek	erkek	erkek									ercec	erkek		ɛrkɛk	erkɑk	erkek kise	
+MAN_2		ir	ɛr	ɑrʑɯn		er	er kihi		er	erkiʃi	eren~er	er	ir kɘzɘ	hɛr	er~eren		er	er	er	ɛr kiʃi	er kiʒi	er~ɛr	erkiʒi	ir	er~			er kiʒi	ɛr		eren~er	er kihi
+MAN_3	ciʃi	ir					er kihi			erkiʃi	kiʃi~kisi~er		ir kɘzɘ		eren	kiʃi			kiʃi	ɛr kiʃi	er kiʒi		erkiʒi	ir				er kiʒi	ɛr		eren~erkek kise	er kihi
+MAN_4				ɑrʑɯn															jɑlŋuq													
+MEAT_1	æt	it	ɛt		et	et	et		et	et	et	et	it	ɛt	et	et	et	et	et	et	et	ët	et	it	eˤt	et	et	eˤt			et~jit	et
+MONTH_1	ɑj	ɑj	ɑj	ujɤ̆ʷχ	ɑj	ɑj	ɯj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	hɑːɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑy	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɔj	ɑj	ɯj
+MOON_1	ɑj	ɑj	ɑjɣɑrɑːɣə	ujɤ̆ʷχ	ɑj	ɑj	ɯj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	hɑːɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑjɑq	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɑj	ɔj	ɑj	ɯj
+MOTHER_1	ɑnɑ	inɛ		ɑnne	ɑnɑ	ɑnnɑ	inʲe	ɑnɑ	ɑnɑ~	ɑnɑ	ɑnɑ	ɑnɑ			ɑnɑ	ene	ɑnɑ	ene~ɑnɑ~ɑne			ene	ënɛ~inɛ	ene	ɑnɑ		ɑnne~ɑnɑ	ene		ɑnɑ	ɔnɑ	ɑnɑ	
+MOTHER_2		ɛcɛ	iʤɛm										ɘʤe					iʧe		iʤɛ	iʧe				iˤhe			ije				ije
+MOTHER_3																			øɡ													
+MOUNTAIN OR HILL_1	dɑɣ	tɑw	tɑɣ	tu	dɑɣ	tɑɡ~tɑv			tɑw	tɑw	tɑv	tɑw	tɑɣ	tɑːɑɣ	tɑw	too	tɑw	tɑɣ	tɑɣ	tɑɣ	tɑɣ	tɑw		tɑw	dɑɣ	dɑː	dɑɣ	dɑɣ	tɑɣ	tɔɣ	tɑɣ	
+MOUNTAIN OR HILL_2							kɑjɑ																									χɑjɑ
+MOUNTAIN OR HILL_3																							qɯr									
+MOUNTAIN OR HILL_4								bɑjɯr																								
+MOUTH_1	ɑɣɯz	ɑwɯð	ɑːɣəs		ɑɣɯz	ɑɡis		ɑːz	ɑwɯz	ɑwuz	ɑvuz	ɑwɯz	ɑɑs	ɑːɣɯz	ɑwuz	ooz	ɑwɯz	ɑɣɯs	ɑɣɯz	ɑɣɯz	ɑqsɯ	ɑwɯs	oos	ɑwɯz	ɑɑs	ɑːɯz	ɑɣɯð	ɑɑs	eɣiz	ɔɣiz	ɑɣɯs~ɑχs	
+MOUTH_2							ɑɲɑk																									ɑj̃ɑχ
+MOUTH_3				ɕøvɑr																												
+NAME_1	ɑd		ɑt	jɑt	ɑd	ɑt	ɑːt	ɑd	ɑt	ɑt	ɑd~ɑt	ɑt	ɑt	ɑːt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑt	ɑd	ɑt	ɑt	ɑt	ɔt	ɑt	ɑːt
+NARROW_1	dɑr	tɑr			tɑr			dɑr	tɑr	tɑr	tɑr	tɑr	tɑr	tɑːɑr	tɑr	tɑr	tɑr		tɑr		tɑr		tɑr	tɑr	tɑr	dɑr	dɑr	tɑr	tɑr	tɔr	tɑr	
+NARROW_2	ensiz			ɑnzɤ̆ʷr																												
+NARROW_3							kɯɑrɑɡɑs																									kɯɑrɑɣɑs
+NARROW_4						inchɑ~enɡe																	ʧiʧke									sinɲiɡes
+NARROW_5																		ɯqʧɑm														
+NASAL MUCUS (SNOT)_1										burun boq	burun jivisi			burɯn suvɯ	burunpoq		burɯnboq															
+NASAL MUCUS (SNOT)_10																												dumɑː				
+NASAL MUCUS (SNOT)_11																			jiŋ													
+NASAL MUCUS (SNOT)_2										burun boq					burunpoq		burɯnboq															
+NASAL MUCUS (SNOT)_3											burun jivisi																					
+NASAL MUCUS (SNOT)_4														burɯn suvɯ																		
+NASAL MUCUS (SNOT)_5								symyk	simɡirik			sɘŋbɘrɘk				ʧimkirik	simirik	ʧimirik					ʧimirik			symyc	θymyk					sɯːŋk
+NASAL MUCUS (SNOT)_6		mɑŋqɑ																						mɑŋqɑ			mɑŋqɑ		mɑŋqɑ			
+NASAL MUCUS (SNOT)_7	fɯrtdɯɡ																															
+NASAL MUCUS (SNOT)_8			irɘŋ								jeriŋ		ɘrɘŋ																		jerin	
+NASAL MUCUS (SNOT)_9																													miʃik	miʃiq		
+NAVEL_1		kendek	kəndɘk						kindik	kindik	kindik	kɘndɘk	kɘn~kɘndɘk	kyndik	ɡinnik~ɡindik	kindik	kindik	kindiɡ	kindik	kintiχ	kindik	kɛndik~kɛntik	qɯn	kendek	hin			χin~χindik	kindik	kindik	qɯndɯq	kiːn
+NAVEL_2	cøbæc			køvɑbɑ	kobek			ɡøbek																		ɟøbec	ɡøbek					
+NEAR_1				ɕɯvɤ̆ʷχ		jɑoh	ʧuɡɑs~huɡɑs			ʤuwuq					juwuq		juwɯq		jɑɣuq~jɑɣuru			yɑvɯq	juq~juχ		ʧoːɣɑʃ			ʧooq				ʧuɡɑs
+NEAR_2	jɑχɯn	jɑqɯn	ʧɑːɣən		jɑqun			jɑqɯn	ʒɑqɯn		jɑqɯn	ʒɑqɯn	ʧɑɣɯn			ʤɑqɯn		cɑɣɯn		jɑχɯn	ʧɑɣɯn	yɑqɯn		jɑqɯn		jɑkɯn	jɑqɯn		jeqin	jɑqin	jɑqɯn~juqun	
+NECK_1	bojun	mujɯn	poːjun	møj	bojun	bojn	muoj	bojun	mojɯn	bojun	bojun	mojɯn	mojɯn	buun	bojun	mojun	mojɯn	mojɯn	bojɯn	poinɯ	mojun	mojun~mojɯn~mujɯn	mojɯn	mujɯn	møen	bojun	bojun	mojun	bojun	bojɯn	moin	moːy
+NEW_1	jeni	jɑŋɯ	nʲɑɑ	ɕɘnɘ	jɑŋɯ	iɑnɡi~jɑnɡi	hɑŋɑ	jeni	ʒɑŋɑ	ʤɑŋɯ	jɑnɣɯ	ʒɑŋɑ	nɑɑ	jɛŋɡi	jɑŋɯ	ʤɑŋɯ	jɑŋɯ	ɲɑŋɯ~jɑː	jɑŋɯ	jɑŋɯ	nɑː	jɑŋɑ	ɟɑŋɯ	jɑŋɑ	ɲɑɑ	jeni			jeŋi		jɑŋɯ~jɑŋɑ	sɑŋɑ
+NIGHT_1		tøn	tyn			tun	tyːn		tyn			tyn	tyn			tyn	tyn	tyn	tyn		tyn	tøn~tyn	tyn	tøn	dynne			dyn	tyn		tyn	tyːn
+NIGHT_2	ɟeʤæ				ɡeʤe			ɡeʤɛ		keʧe	keʧɛ~keʦe			kiːeʧɛ	ɡeʧe		keʃe			ɡeʤe						ɟeʤe	ɡiʤe			keʧɑ		
+NIGHT_3			qɑrɑ										χɑrɑɑ																			
+NIGHT_4				ɕɘ̆ʷr																												
+NOSE_1																									hɑɑj			χɑɑj			qɑŋrɯq	
+NOSE_2	burun		purun		burun	burun~buen~bin	munnu	burnu	murɯn	burun	burun	murɯn	purun	burɯn	burun	murun	burɯn	burun	burun	purnɯ	purnu	morɯn~murɯn		borɯn		burun	burun		burun	burun		murun
+NOSE_3																							tumʧuq					dumʧuq				
+NOT_1	mɑ	mɑ	bɑ	mɑ	mɑ	mɑ	bɑ	mɑ	mɑ~bɑ~pɑ	mɑ	mɑ	mɑ	bɑ~pɑ~mɑ	mɑ	mɑ	bɑ	mɑ~bɑ~pɑ	bɑ	mɑ	mɑ	pɑ~bɑ~mɑ	mɑ	mɑ~bɑ	mɑ	bɑ~vɑ~pɑ	mɑ	mɑ	mɑ~eves	mɑ	mɑ	emes~emestro~emeser~mɑ~pɑ	mɑ~bɑ
+OLD (USED)_1		iθke			eski	eschi		eski	eski	eski	eski	eskɘ			esɡi	eski	eski	eski	eski	eski	eski	ëski	eski	iske		esci			ɛski	eski		
+OLD (USED)_2			ɛrɡe				erɡe						irɡɘ												eˤrhi			erɡi			erke	erɡe
+OLD (USED)_3				kivɘ																												
+ONE_1	bir	ber	pɘr	pɘrre~pɘr	bir	bir	biːr	bir	bir	bir	bir	bɘr	pɘr	biː	bir	bir	bir	pir~bir~mir~vir	bir	bir	pir	pir	bir	ber	bɘr~bɘrɛɛ	bir	bir	bir	bir	bir	per~pɯr	biːr
+OPEN_1	ɑʧ	ɑs	ɑʧ	uɕ	ɑʧ	ɑʧ		ɑʧ	ɑʃ	ɑʧ	ɑʧ	ɑʃ	ɑs	hɑʧ	ɑʧ	ɑʧ	ɑʃ	ɑʧ~ɑʃ	ɑʧ	ɑʧ	ɑʃ	ɑʦ		ɑʧ	ɑˤʃ	ɑʧ	ɑʧ	ɑʒɯt	ɑʧ	ɔʧ	ɑʃ	ɑs
+OPEN_2							ɑrɯj																									
+OTHER_1	bɑʃɡɑ	bɑʃqɑ	pɑsqə		bɑʃqɑ			bɑʃkɑ	bɑsqɑ	bɑʃχɑ	bɑskɑ	bɑsqɑ	pɑsχɑ		bɑʃɣɑ	bɑʃqɑ	bɑsqɑ				pɑʃqɑ	pɑʃqɑ		bɑʃqɑ	bɑˤʃqɑ	bɑʃkɑ	bɑʃɡɑ		bɑʃqɑ	bɔʃqɑ		
+OTHER_2																		ɑrtɑn		ɑtɯ												
+OTHER_3							ɑtɯn												ɑdɯn													ɑtɯn
+OTHER_4						oxɡɑ~osɡe								iːezɛ	øzɡe			øskø	øzɡe				øskø		øˤske			øske				
+OTHER_5				urɤ̆ʷχ																												
+PERSON_1		keʃe	kɘzɘ			kisi	kihi				kiʃi	kɘsɘ	kɘzɘ		ɡiʃi	kiʃi	kisi	kiʒi~kiʤi	kiʃi	kiʃ	kiʒi	kiʃi	kiʒi	keʃe	kiʃi	ciʃi		kiʒi	kiʃi	kiʃi	kise	kihi
+PERSON_2				ɕɯn															jɑlŋuq													
+PLAY_1	ojnɑ	ujnɑ	ojnɑ	vɯlʲɑ	ojnɑ	ojnɑ	oːjnoː	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	oːnɑ~uːnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojno	ujnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ojnɑ	ɔjnɑ	ojnɑ	oːnɲoː
+PULL_1		tɑrt	tɑrt	turt	tɑrt	tɑrt	tɑrt		tɑrt	tɑrt	tɑrt	tɑrt	tɑrt		tɑrt	tɑrt	tɑrt	tɑrt	tɑrt	tɑː	tɑrt	tɑrt	tɑrt	tɑrt	tɯˤrt		dɑrt	tɯrt	tɑrt	tɔrt	tɑrt	tɑrt
+PULL_2	ʧæc				ʧek			ʧek						ʧɛk												ʧec	ʧek					
+PUSH_1	itælæ	et	itle		ite		yt	itir	ijter		ijt	iter	ɘt			iter	ijte	it		iʃt	it		ijt	et	iˤt	it	it	it	iʃtɛr~iʃtir	itɑr	iʃit	
+PUSH_2													sɑs																			ɑs
+PUSH_3				tɘk																												
+PUSH_4										teber					teber																	
+PUS_1	irin	eren			irin			ijrin	iriŋ	irin	irin	ɘrɘŋ	ɘrɘŋ		irin	iriŋ	irin		jiriŋ	jireŋ	iriŋ	ɛrɛŋ	iriŋ	eren	iriŋ	irin	iriŋ	iriŋ	ʒiriŋ	jiriŋ		iriŋe
+PUS_2				pyr																												
+PUT ON_1	cej	kej	kæsʲ		kij	kej	ket	ɡij	kij	kij	kij	kij	kis	kɛd	ɡij	kij	kij	kij	ked	kij	kes	kɛj	kij	kij	ket	ɟij	ɡej	ket	kij	kij	kez	ket
+PUT ON_2				tɤ̆ʷɣɤ̆ʷn																												
+RAIN (PRECIPITATION)_1	jɑɣɯʃ	jɑmɣɯr		ɕumɤ̆ʷr	jɑɣɯʃ	jɑmɡur	hɑmɯːr	jɑːmur	ʒɑwɯn	ʤɑŋur~ʤɑwun	jɑmɣur	ʒɑŋbɯr~ʒɑwɯn	nɑŋmɯr	jɑɣɯʃ	jɑŋur~jɑwun	ʤɑmɣɯr	jɑmɣɯr	ɲɑŋmɯr~ɲɑnmɯr~nɯŋmɯr	jɑɣmur	jɑɣmur	nɑɣbur	jɑnɣɯr	ɟɑɑʃ~ɟɑŋmɯr	jɑnɡɯr		jɑːmur	jɑɣɯʃ~jɑɣmɯr		jɑmɣur	jɔmɣir	jɑɣmɯr	sɑmɯːr
+RAIN (PRECIPITATION)_2			suɣ																													
+RAIN (PRECIPITATION)_3																									øˤsken							
+RAW_1	ʧij~ɑlɑʧij	sej			ʧij	ʧijɡ	hiːkej	ʧiː	ʃijki	ʧij	ʧɯj~ʧij~ʦɯj	ʃikɘ	ʧɘɡ		ʧij	ʧijki	ʃij	ʧiɡ~ʧɯɣ~ʧiŋ			ʧɯɣ		ʧij	ʧi	ʧiɣ	ʧɯː	ʧɯɣ	ʧiɡ				siːkej
+RAW_2																			jiɡ													
+RAW_3				ʧɘrɘ																												
+RAW_4																						jɛʃ										
+RED_1		qɯðɯl	qəzəl	χɘrlɘ	kɯzil	chexel	kɯhɯl		qɯzɯl	qɯzɯl	kɯzɯl~kizɯl	qɯzɯl	χɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯsɯl~qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl	qɯzɯl		ɡɯðɯl	qɯzɯl	qizil	qizil	qɯzɯl	kɯhɯl
+REMAIN_1	ɡɑl	qɑl	qɑl	jul	qɑl		kɑːl	kɑl	qɑl	qɑl	kɑl	qɑl	χɑl	qɑːl	qɑl	qɑl	qɑl	qɑl	qɑl	qɑl	qɑl	qɑl		qɑl	qɑl	kɑɫ	ɡɑl	ɑrtɯp qɑl	qɑl	qɔl	qɑl	χɑːl
+REMAIN_2						ɑrt																	ɑrt					ɑrtɯp qɑl				
+RIGHT_1		uŋ	oŋ		oŋ	oŋ	uŋɑ		oŋ	oŋ	on	oŋ	oŋ		oŋ	oŋ	oŋ	oŋ~on~uŋ	oŋ		oŋ	oŋ	oŋ	uŋ	oŋ			oŋ	oŋ	oŋ	oŋ~uŋ	uŋɑ
+RIGHT_2	sɑɣ			sɯldɤ̆ʷm				sɑɑ tɑrɑf												sɯχ						sɑː	θɑɣ					
+RIGHT_3														bod																		
+RIPE_1		beʃ	pɘs	pɘɕ	piʃ	bis	bus		pis	biʃ		pɘs	pɯs		biʃ	bɯʃ	pis	pɯʃ	bɯʃ	piʃ	pɯʃ	piʃ	bɯʃ	peʃ	bɯˤʃ		biʃ	bɯʃ	piʃ	piʃ		bus
+RIPE_2	jetiʃ										jetil																					sit
+RIPE_3								olɣunlɑʃ																		oɫɡunɫɑʃ						
+RISE (MOVE UPWARDS)_1		kytɛrel			køteril				køteril		ketiril	køter			ɡøter	køtøryl	køteril	kødyryl				kytiril		kytɛrel				kødyryl	køtyryl	qotɑril		
+RISE (MOVE UPWARDS)_2													ørle						ør		ørle								ørlɛ		ørle	ørø tɑɣɯs
+RISE (MOVE UPWARDS)_3																		tɑnzɑ														ørø tɑɣɯs
+RISE (MOVE UPWARDS)_4								pin										myn						men								
+RISE (MOVE UPWARDS)_5	ʧɯχ				ʧɯq					ʧɯq			sɯχ					ʃɯq~ʧɯq				ʦɯq	ʧɯq			ʧɯk	ʧɯq			ʧiq		
+RISE (MOVE UPWARDS)_6				χøbɑr																χup												
+RISE (MOVE UPWARDS)_7														hin					yn						yn			yn			yn	
+RISE (MOVE UPWARDS)_8							ɯtɯn																									
+RIVER_1				ʃɯv						suw			suɣ			suu	suv	suɣ			suɣ	su	suu						su		su	
+RIVER_10														ʧɔːbɔːn																		
+RIVER_2		jɯlɣɑ																				yɯlɣɑ		jɯlɣɑ								
+RIVER_3			ʧul																		ʧulɑt											
+RIVER_4					øzen				øzek		øzɛn	øzen			øzen	øzøn				uzen												ørys
+RIVER_5	ʧɑj																															
+RIVER_6			yːs			ochus													øɡyz												yɡys	
+RIVER_7							ebe																									
+RIVER_8																										ɯrmɑk						
+RIVER_9																									hem			χem				
+ROOT_1		tɑmɯr		tɯmɑr	tɑmɯr				tɑmɯr	tɑmɯr	tɑmur	tɑmɯr			tɑmur	tɑmɯr	tɑmɯr					tɑmɯr		tɑmɯr					tomur			
+ROOT_2			ʧəltəs				hilis												jɯltɯz		ʧɯltɯs				sɯldɯs				jiltiz~ʒiltiz	ildiz	jɯltɯs	silis
+ROOT_3																		tɑzɯl			tɑzɯl	tɑzɯl	tɑzɯl					dɑzɯl				
+ROOT_4	cøc							køk																		cøc	køk					
+ROOT_5						tub																										
+ROOT_6																				ozeχ												
+ROPE_1		bɑw	pɑɣ	pɤ̆ʷjɑv			bɯɑ		bɑw			bɑw	pɑɣ				bɑw	pɑɣ			pɑɣ		buː	bɑw	bɑɣ						pɑɣ	bɯɑ
+ROPE_2		ɑrqɑn			ɑrqɑn				ɑrqɑn			ɑrqɑn			ɑrqɑn		ɑrqɑn													ɑrqɔn		
+ROPE_3	ip				jip				ʒip		jip	ʒɘp				ʤip						jip				ip	jyp				jep~jip	
+ROPE_4	cændir			kɑndrɑ																								χendir				
+ROPE_5																			uruq	urχɑn						urɡɑn					uruq	
+ROPE_6																køtørmø																
+ROPE_7								ʧɑtɯ																								
+ROPE_8				vɘ̆ʷren		ørken					ørken~erken																					
+ROTTEN_1	ʧyry	ser		ɕɘr	ʧyry			ʧyry	ʃir	ʧir	ʦiri	ʃɘr		ʧirry	ʧiri	ʧir	ʃiri			ʧyr			ʧiri	ʧer		ʧyry	ʧyjre		ʧiri			
+ROTTEN_2													ɘr					iri~irikte	jiry		irikte							iri				
+ROTTEN_3							hɯtɯj						ʧɯzɯ	jɯd køtyr											ʧɯdɯ			ʧɯdɯ			jiz	sɯtɯj
+ROTTEN_4														jɯd køtyr																		
+ROTTEN_5			sɑs																										sesɛ	sɑs		
+ROUND_1						teɡirmɑ	tøɡyryk									teɡerek~toɣoloq			teɣirmi				teɣerik									tøɡyryk
+ROUND_2	døvreli																								tøørej							
+ROUND_3		tumɑlɑq			tomɑlɑq				domɑlɑq~dumɑlɑq			domɑlɑq					tɯmɑlɑq												domulɑq	dumɑlɔq		
+ROUND_4				ɕɑvrɑɡɑ		ʧourɑ																										
+ROUND_5	jumru	jomoro	ʧumɑq			juɡɑlɑk		juvɑrlɑk	ʒumɑlɑq~ʒumɯrɯ		jumɑlɑk	ʒʊmɯr	nɯmɑlɑχ			ʤumuru								jomrɯ		juvɑrɫɑk			jumulɑq~ʒumulɑq	jumɑlɔq		
+ROUND_6													terpek													deːirmi						
+ROUND_7														ɡildir																		
+RUN_1				ʧup	ʧɑp					ʧɑp	ʧɑp				ʧɑp		ʃɑp												ʧɑp	ʧɔp		
+RUN_2		jyɡer	ʧyɡyr			juɡur	hyyr		ʒuwɯr		juvur	ʒyɡɘr	ʧyɡyr	jiːir		ʤyɡyr	juwɯr	cyɡyr	jyɡyr	ʒykyr~jykyr	ʧyɡyr	jøɡir	ɟyɡyr	jøɡer					ʒyɡrɛ			syːr
+RUN_3	ɡɑʧ							kɑʧ																								
+RUN_4																															qɑjlɑ	
+RUN_5																									sun							
+RUN_6																											ɯlɣɑ					
+RUN_7																										koʃ						
+RUN_8																												mɑŋnɑ				
+SALT_1	duz	toð	tus	tøvɑr	tuz	tus	tyːs	tuz	duz	tuz	tuz	tʊz	tus	tuz	tuz	tuz	tuz	tus	tuz	duz~dyz~tyz	tus		tus	toz	tus	tuz	duð	dus	tuz	tuz	tuz	tuːs
+SAND_1	ɡum	qom	qum		qum	kum~cun	kumɑk	kum	qum	qum	kum	qʊm	χum		χum	qum	qum	quvɑq~qum	qum	kum	qumɑq	qum		qom	hum	kum			qum	qum	qum~qom	kumɑχ
+SAND_2				χɤ̆ʷjɤ̆ʷr											qɑjɯr		qɑjɯr															
+SAND_3																											ʧɛɡe					
+SAY_1		ɛjt	ɑjt		ɑjt	ɑjt			ɑjt	ɑjt	ɑjt	ɑjt		hɑːj		ɑjt	ɑjt	ɑjt		ejʃɑ	ɑjt	ɛjt	ɑjt	ɛjt			ɑjt		ejt	ɑjt	ɑj	
+SAY_2	de	ti		te		de	die	de	de	de					de	de	de	de	teː	tɛ~ti		të	de	di	de	de	dij		dɛ	de	ti	die
+SAY_3	søjlæ							søle																		søjlʲe						
+SAY_4													ʧooχtɑ															ʧuɣɑːlɑ				
+SCRATCH_1	ɡɑʃɯ			χɯɕ	qɑʃɯ			kɑʃɯ	qɑsɯ	qɑʃɯ	kɑʃɯ~kɑsɯ	qɑsu		qɑʃu	χɑʃɯ	qɑʃɯ	qɑsɯ							qɑʃu		kɑʃɯ	ɡɑʃɑ		qɑʃlɑ	qɑʃi~qɑʃlɑ		
+SCRATCH_2			tərβəqtɑ										tɯrbɑ					tɯrbɑ~tɯrbɑqtɑ			tɯrbɑqtɑ		tɯrmɑ						tirmɑqlɑ			tɑrbɑː~tɑrbɑn
+SCRATCH_3																		qɯʤɯ														
+SCRATCH_4		tɯrnɑ																													tɯrnɑ	
+SEA_1	dæniz	diŋɡeð			deŋiz	tenɡis		deniz	teŋiz	teŋiz	tenɡiz	teŋɘz			deŋiz	deŋiz	teŋiz	teŋis				tɛŋɡis	teŋis	diŋɡez		deniz	deŋið		deŋiz	deŋiz		
+SEED_1		orloq		vørø	urluq	uru~ourluc				urluq	urluk	ʊrɯq			urluq	uruq	urlɯq		uruɣ	urluχ				orlɯq					uruq	uruɣ		
+SEE_1	ɟør	kyr	korʲ	kur	kør	chor	kør	ɡør	kør	kør	kør~ker	kør	kør	ker	ɡør	kør	kør	kør	kør	kør	kør	kør	kør	kyr	kør	ɟør	ɡør	kør	kør	kor	kør~kyr	kør
+SEW_1	tic	tek	tɘk		tik	tich	tik	dik	tik	tik	tik	tɘk	tɘk	tik	tik	tik	tik	tik		tiχ	tik	tik		tek		dic	tik		tik	tik	tek~tɯq	tik
+SEW_2																		køktø					køktø									
+SEW_3				ɕɘ̆ʷle																												
+SEW_4																									dɑɑrɑ			dɑːrɑ				
+SHADE_1	cølcæ	kylɛɡɛ	keːlɘɡ		kolʲɡe	colɛɡe	kylyk	ɡølɡɛ	køleŋke	kølekke	køleɡe	køleŋke	kølek~køletkɘ		ɡølentɡi	køløkø	køletki	køløtkø	køliɡe		kølek		køløtki	kylɛɡɛ	høleɡe	ɟølʲɟe	køleɡe	χøleɡe	kølɛŋkɛ		kylehke~kelehki	kylyk
+SHADE_2				ɘmɘlɡe																												
+SHARP_1		ytker							øtkir			øtkɘr				øtkyr	øtkir	øtkyr					øtkyr~ødyr	ytken					øtkyr	otkir		
+SHARP_2	iti		ʧɘdɘɣ	ɕivɘʧ		iti	hɯtɯː			ʤiti	iti		ʧɘtɘɡ	jitdi~jittiː	itti				jiti~jitti		ʧidiɡ				ʧiˤtɘ		jiti	ʧidiɡ			ɯʃtɯɣ	sɯtɯː
+SHARP_3																qurʧ							qurʧ									
+SHARP_4					keskin			keskin						kɛsɡili												cescin						
+SHORT_1	ɡɯsɑ	qɯsqɑ	qəsqɑ	kɘske	qɯsqɑ	kizchɑ		kɯsɑ	qɯsqɑ	qɯsχɑ	kɯskɑ	qɯʃqɑ	χɯsχɑ		qɯsɣɑ	qɯsqɑ	qɯsqɑ	qɯsqɑ	qɯsɡɑ	χɯsχɑ	qɯsqɑ		qɯsχɑ	qɯsqɑ	qɯˤsqɑ	kɯsɑ	ɡɯθɡɑ	qɯsqɑ	qisqɑ		qɯsqɑ	
+SHORT_2							kɯlɡɑs																									kɯlɡɑs
+SHORT_3																						qɑrsɑq										
+SHOULDER_1		iŋbɑʃ	ɛŋnɘ						ijin	imbɑʃ	iin	ijɘn	iŋnɘ		inbɑʃ	ijin	ijin		eɡin				ijin	iŋbɑʃ			eɡin	eɡin			iɡen	
+SHOULDER_2																					øʃty				øˤhyn				høʃnɛ			
+SHOULDER_3					omuz			omuz																		omuz			omuz			
+SHOULDER_4		jɑwrɯn					hɑnnɯ											ɟɑrɯn~jɑrɯn		jɑɣrɯ~jɑrɡɯ		jɑwrɯn										sɑrɯn
+SHOULDER_5	ʧijin																														ʤiɡin	
+SHOULDER_6		qulbɑʃ		χulbuɕɕi																				qulbɑʃ								
+SHOULDER_7		qulbɑʃ		χulbuɕɕi						imbɑʃ					inbɑʃ									qulbɑʃ								
+SHOULDER_8																													jɛlkɛ	jelkɑ		
+SING_1		jɯrlɑ			jɯrlɑ					ʤɯrlɑ					jɯrlɑ		jɯrlɑ		jɯrlɑ			jɯrlɑ		ʤɯrlɑ							jɯrlɑ	
+SING_10								ʧɑl																								
+SING_2											sɑrnɑ		sɑrnɑ					sɑrɯnɑ			sɑrnɑ											
+SING_3			ərlɑ			yrlɑ	ɯllɑː						ɯrlɑ			ɯrdɑ									ɯrlɑ			ɯrlɑ				ɯllɑː
+SING_4	oχu										ʃɯrɑ oχu			hoqu~hoqo																		
+SING_5											ʃɯrɑ oχu																					
+SING_6																							qoʒondo									
+SING_7									ɑjt			ɑjt															ɑjt		nɑχʃɑ ejt	ɑʃulɑ ɑjt		
+SING_8																										ʃɑrkɯ søjlʲe						
+SING_9				jurlɑ																												
+SIT_1	otur	ultɯr	oːlur	lɑr	otur	oltur	olor	otur	otɯr	oltur	oltur	otɯr	odɯr		oltur	otur	oltɯr	otur	olur	otɯr	odur	otɯr	otɯr	utɯr	olur~olɯr	otur	otur	olur	oltur	otir	oltur	olor
+SIT_2														juor																		
+SKIN_1	dæri	tire		tirɘ	teri		tiriː	deri	teri	teri	teri	terɘ	teːr	tɛri	teri	teri	teri	tere	teri	tir	tere	tɛri	tere	tire		deri	deri		terɛ	teri	ter~tere	tiriː
+SKIN_2			ʧɑmɑɣ																													
+SKIN_3																									keˤʃ			keʃ				
+SKIN_4						bilɑu																										
+SKY_1	ɟøj	kyk			kok	kok		ɡøk		køk	køk				køk	køk	køk	køk	køk			køk		kyk		ɟøc						
+SKY_2													tiɡɘr					teɡri	teŋri		teɡri		teŋeri		deːre			deer			teŋir	
+SKY_3							kɑllɑːn												qɑlɯq													χɑllɑːn
+SKY_4				tybe																												
+SKY_5			kunʲ																													
+SLEEP_1			uzu			uju	utuj	uju					uzu						udɯ		uzu				udu	uju		udu			uzu	utuj
+SLEEP_2		joqlɑ			juqlɑ				ujqɯlɑ	ʤuqlɑ	juklɑ	ʊjɯqtɑ			juχlɑ	uqtɑ	ujqlɑ	ujqtɑ~ujttɑ		uχlɑ		joqlɑ~juqlɑ	uχtɑ	joqlɑ			uqlɑ		uχlɑ	uχlɑ		
+SLEEP_3	jɑt													jɑt													jɑt					
+SLEEP_4				ɕɯvɤ̆ʷr																												
+SMALL_1	ciʧic		kɘʧeeʧ			kyʧe~chiʧi	kyʧʧyɡyj	kyʧyʤyk	kiʃkene~kiʃkentɑj	ɡitʧe	kiʧi~kiʦi	kɘʃkene~kɘʃkentɑj	kɘʧiʤek		ɡiʧʧi	kiʧine	kiʃkej	kiʤiɡ~kiʧi~kiʧinek~kiʧeʧ~kiʧy	kiʧiɡ	kiʧi~kiʤi	kiʧiɡ	kiʧy	kiʧi	keʧkenɛ		cyʧyc	kiʧi		kiʧik	kiʧkinɑ	kiʧiɡ	kuʧːuɡuj
+SMALL_2		bɛlɛkɛj~bɛlɛkɛs																														
+SMALL_3					ufɑʧɯq																					ufɑk						
+SMELL_1		hið		sis	sez				sez	sez	ses	sez	sizɘn		sez	sez	sez	ses			ses		sez	siz			θɯð		sɛz	sez		
+SMELL_2	duj	toj		tuj	duj			duj									tuj							toj		duj	duj				tuj	
+SMELL_3							bil		bil	bil		bɘl	pɘl		bil	bil										bilʲ				bil		bil
+SMELL_4																												ʧɯdɯːrɣɑ~ʧɯt qɑq				
+SMOKE (EXHAUST)_1	tysty	tøtøn	tydyn	tɘ̆ʷdɘ̆ʷm	tytyn	tutum~tutun		tytyn	tytin	tytyn	tytyn~tytsy	tytɘn	tydyn	tityn	tytyn	tytyn	tytin	tydøk	tytyn	ʦyʦyn~ʤyʤyn	tydyn	totin		tøten			tyθθe			tutun		
+SMOKE (EXHAUST)_2							buruo																									buruo
+SMOKE (EXHAUST)_3													ɯs										ɯʃ		ɯʃ			ɯʃ	is~ɛs		ɯs	
+SMOKE (EXHAUST)_4																										dumɑn						
+SMOOTH_1		tiɡeð			teɡiz				teɡis			teɡɘs			teɡiʃ	teɡiz	teɡis										tekið		teqis~teqir~tɑqir	tekis		
+SMOOTH_2								dyz			tyz		tys					tys		tiz			tys			dyz			tyz		tys	
+SMOOTH_3				jɑɡɑ																												
+SMOOTH_4										sɯjdɑm																						
+SMOOTH_5							teniɡir																									
+SMOOTH_6																					sɯlɑɣɑj								siliq	silliq		
+SMOOTH_7																									kileɡer			qɯlɑŋ				kɯlɑːkkɑj
+SMOOTH_8																						tɑqɯr										
+SNAKE_1	ilɑn	jɯlɑn		ɕɘlen	jɯlɑn	ilɑn~ɡillɑn~jlɑɡɑn		jɯlɑn	ʒɯlɑn	ʤɯlɑn	jɯlɑn~ilɑn	ʒɯlɑn	ʧɯlɑn	jilɑːn	jɯlɑn	ʤɯlɑn	jɯlɑn	cɯlɑn	jɯlɑn	jilɑn	ʧɯlɑn	jɯlɑn	ɟɯlɑn	jɯlɑn		jɯɫɑn	jɯlɑn	ʧɯlɑn	ilɑn~ʒilɑn	ilɔn	jɯlɑn	
+SNAKE_2																																erien yøn
+SNAKE_3																									ʧer bɑlɯː							
+SNAKE_4			uzunɣurt																													
+SNOW_1	ɡɑr	qɑr	qɑr	jur	qɑr	chɑr~kɑr	kɑːr	kɑːr	qɑr	qɑr	kɑr	qɑr	χɑr	qɑːr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	qɑr	kɑr	ɡɑr	χɑr	qɑr	qɔr	qɑr	χɑːr
+SOFT_1	jumʃɑɡ	jomʃɑq	ʧəmʧɑq	ɕemʑe	jɯmʃɑq	jumsɑk		jɯmɯʃɑk	ʒumsɑq	ʤumuʃɑq	imʃɑχ	ʒʊmsɑq	nɯmzɑχ		jɯmɯʃɑq	ʤumʃɑq	jumsɑq		jumʃɑq	miʧeχ~miʃɯχ	ʧɯmʧɑq		ɟɯmʃɑχ	jomʃɑq	ʧɯmʤɑq	jumuʃɑk	jumʃɑq	ʧɯmʧɑq	jumʃɑq~ʒumʃɑq	jumʃɔq	jumsɑq	sɯmnɑɣɑs
+SOFT_2							imiɡes																									
+SOUR_1		ɛse	ɑʧəɣ	jyʑɘ			ɑhɯː						ɑʧɑɑn		ɑʧʧɯ		ɑʃʃɯ	ɑʤɯɣ~ɑʧqɯm			ɑʧɯɣ		ɑʧu	ɛʧe	ɑʤɯɣ			ɑʒɯɣ	ɑʧʧiq		ɑʧɯɣ	ɑhɯː
+SOUR_2										mɯstɯ																						
+SOUR_3					ekʃi			iːʃi~ijʃi																		ecʃi						
+SOUR_4												qɯʃqɯl				qɯʧqɯl		qɯʧqɯlɑq														
+SOUR_5											kuʤur																					
+SPIN_1	æjir		ir	ɑrlɑ~ɑvɤ̆ʷrlɑ					ijir	ijir	iir	ijɘr	iir	hɛjir	ijir	ijr	ijir	ijir			iːr		iir	erlɛ	eːr	ejir	eɡir		eɡɛr~iɡɛr	ijɡir		
+SPIN_2																																ør
+SPIN_3		ilɛ						iplik iʃle									ijir															
+SPIN_5		ilɛ						iplik iʃle																								
+SPIN_6					ʧijrɑt																											
+SPIT_1	typyr	tøkør	tykurʲ		tykyr			tykyr	tykir	tykyr	tikir	tykɘr	tykyr		tykyr	tykyr	tykir	tykyr		tyχor	tykkyr	tøkur	tykyr	tøker	tykkyr	tycyr	tyjkyr		tykyr	tupur~tuplɑ		
+SPIT_2																																silleː
+SPIT_3				sur															sod													
+SPIT_4																															tydeste	
+STAND_1	dur	tor	tur	tør	tur	tur	tur	dur	tur	tur	tur	tur	tur	tur	tur	tur	tur	tur	tur	dɯr	tur	tor~tur	tur	tor	tur	dur	dur	tur	tur	tur	tur	tur
+STAR_1	ulduz	jondoð	ʧəltəs	ɕøldør	jɯldɯz	juldus	hulus	jɯldɯz	ʒuldɯz	ʤulduz	julduz~jolduz~jɯldɯz	ʒʊldɯz	ʧɯltɯs	julduz	julduz	ʤɯldɯz	juldɯz	jɯldɯs	jultuz	jultus~jiltis	ʧɯltɯs		ɟɯldɯs	joldɯz	sɯltɯs	jɯɫdɯz	jɯldɯð	sɯldɯs	jultuz~ʒultuz	julduz	jultɯs~jɯltɯs	sulus
+STICK_1		tɑjɑq			tɑjɑq				tɑjɑq	tɑjɑq	tɑjɑk	tɑjɑq	tɑjɑχ		tɑjɑq	tɑjɑq	tɑjɑq	tɑjɑq			tɑjɑq	tɑyɑq	tɑjɑq	tɑjɑq	tɑjɑq		tɑjɑq	dɑjɑŋɣɯːʃ	tɑjɑq	tɑjɔq		
+STICK_2	ɑɣɑʤ		ɑɑʧ				mɑs						ɑɣɑs	hɑɣɑʧ					ɯɣɑʧ			ɑɣɑʦ	ɑɣɑʃ					ɯjɑʃ				
+STICK_3	ʧubuɡ					ʧibuch																									ʤomɑq	
+STICK_4				pɑdɑk																												
+STICK_5								sopɑ																		sopɑ						
+STICK_6																									merhe			merɡe				
+STICK_7																				peŋɡɑr												
+STONE_1	dɑʃ	tɑʃ	tɑs~sɑjdɑːzə	ʧul	tɑʃ	tɑs~tɑz	tɑːs	tɑʃ	tɑs	tɑʃ	tɑʃ	tɑs	tɑs	tɑːɑʃ	tɑʃ	tɑʃ	tɑs	tɑʃ~tɑs	tɑʃ	tɑʃ	tɑʃ	tɑʃ	tɑʃ	tɑʃ	dɑʃ	tɑʃ	dɑʃ	dɑʃ	tɑʃ	tɔʃ	tɑs	tɑːs
+STRAIGHT_1		turɑ			doɣru			doːru	tuwrɯ		doɣru						tuwrɑ					turɯ~torɯ		turɯ					toɣri	toɣri		
+STRAIGHT_2	dyz	tøð		tyrɘ		tuz				tyz		tyzu			tyz	tyz		tys		tizer	tys		tys			dyz					toz~tys~tøz	
+STRAIGHT_3			qɑβɑrtɑ																													
+STRAIGHT_4						conu~choiuj	kønø						kønɘ												høny		ɡøni					kønø
+STRAIGHT_5																												dort				
+SUCK_1	sor	hur	sor						sor			sor	sor	suor	sor	sor	sor	sor	sor		sor		soor	suɯr	sor		θor	sor	ʃorɑ	sor		
+SUCK_2	æm	im	ɛm	ɘ̆ʷm	em		em	em	em	em	em	em	em	ɛm	em	em	em	ep			em		em	im	em	em	em	em	ɛm	em	em	em
+SUCK_3							obor																									obor
+SUN_1	ɟynæʃ~ɟyn		kunʲɣɑrɑːɣə			kun	kyn	ɡyn	kyn	kyn		kyn	kyn	kyn~kin	ɡyn	kyn	kyn	kyn	kyn	kun	kyn		kyn		hyn		ɡyn	χyn	kyn		kyn	kyn
+SUN_3	ɟynæʃ~ɟyn	qojɑʃ		χɘ̆ʷvel	kyneʃ			ɡyneʃ			kujɑʃ				ɡyn							qojɑʃ		qojɑʃ		ɟyneʃ				qujɔʃ		
+SUN_4			kunʲɣɑrɑːɣə																													
+SWALLOW_1	ud	jot		ɕøt	jut			jut	ʒut	ʤut	jut	ʒʊt		juːut	jut	ʤut	jut	jyt				jut~jyt	ɟut	jot		jut	juwut		ʒut	jut		
+SWALLOW_2																					oːrtɑ											
+SWALLOW_3							ɯɲɯr												siŋir													ɯj̃ɯhɯn
+SWALLOW_4			ɑzɯr										ɑzɯr															ɑʒɯr				
+SWALLOW_5																									bɑˤtɯr							
+SWALLOW_6																				uχ												
+SWEET_1		tɑtlɯ	tɑːdləɣ		tɑtlɯ	tɑtli		tɑtlɯ		tɑtlɯ	tɑtlɯ	tɛttɘ	tɑdɯlɯɣ		tɑtli	tɑttuu	tɛtli	tɑɑttu	tɑtɯɣlɯɣ	tɛlli		tɑtlɯ	tɑtu	tɑtlɯ	tɑdɯɣlɯɣ	tɑtɫɯ					tɑtɯɣ	
+SWEET_2							miɲɲiɡes																									minɲiɡes
+SWEET_3				pɯlɑk																												
+SWEET_4																											θyjʤi					
+SWELL_1	ʃiʃ	ʃeʃ		ʃɯɕ	ʃiʃ			ʃiʃ	is		sis	ɘs	sɘs	ʃɯʃ	ʃiʃ	ʃiʃ	sis		sɯʃ		ʃiʃ			ʃeʃ	ɯʃ	ʃiʃ	ʧiʃ	ɯʃ	iʃʃɛ	ʃiʃ	sɯz	is
+SWELL_2																		tiʒi														
+SWELL_3			kopʲ			kob				køb								køp														
+SWIM_1					jɑldɑ												jɑldɑ															
+SWIM_2	yz	jøð	ʧys			jux		yz	ʒyz	ʤyz	jyz	ʒyz	ʧys		jyz	syz	jyz	jys	jyz		ʧys	jys	ɟys	jøz		jyz	jyð		yz			
+SWIM_3																									eˤhin			eʃt				
+SWIM_4																															qɑj	
+SWIM_5							køp																									
+SWIM_6																														suz		
+SWIM_7														kirun																		
+SWIM_8																				ʧum												
+TAIL_1	ɡujruɡ	qojroq	quzuruq	χyre	qujruq	cujruɡ	kuturuk	kujruk	qujrɯq	qujruq	kujruk	qʊjrɯq	χuzuruχ	qurduq	qujruq	qujruq	qujrɯq	qujruq~qujrɯq	qudruq	quruχ~kuruχ	quzuruq	qujrɯq	qujruq	qojrɯq	quduruq	kujruk	ɡujruq	quduruq	qujruq		quzruq	kuturuk
+TAKE_1		ɑl	ɑl	il	ɑl	ɑl	ɯl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑl	ɑɫ	ɑl	ɑl	ɑl	ɔl	ɑl	ɯl
+TAKE_2	ɟøtyr																															
+TALL_1		bejek	pøːzyk						bijik	mijik	bijik	bijɘk	pøzɘk		bijik	bijik	bijik		bedyk	piːχi	møzyk	bøjek	bijik	bijek	bedɘk		bejik	bedik				
+TALL_2							yrdyk	yysek																							ɯrliɣ	yrdyk
+TALL_3	jycsæc			ɕylɘ	jyksek																					jycsec						
+TALL_4																		eːs											eɡiz			
+TEAR (SHRED)_1	jɯrt	jɯrt			jɯrt			jɯrt	ʒɯrt	ʤɯrt	jɯrt~irt	ʒɯrt	ʧɯrt		jɯrt	ʤɯrt	jɯrt	ɟɯrt~cɯrt~jɯrt				jɯrt	ɟɯrt	jɯrt		jɯrt	jɯrt		ʒit	jirt		
+TEAR (SHRED)_2			ys											hiz			yz		yz		ys										yz	
+TEAR (SHRED)_3													tɑlɑ								tɑlɑ											
+TEAR (SHRED)_4							kɑjɯt																									χɑjɯt
+TEAR (SHRED)_5				ɕur																												
+TEAR (SHRED)_6																									ɯr							
+TEAR (SHRED)_7																												or				
+TEAR (SHRED)_8														hur																		
+THAT_1	o			leʃ	o	os ol	ol	o	ol	o	ol		ol	o	o		ol	ol	ol	u	ol	ul	ol		ol	o	ol		u	o	ol	ol
+THAT_2		teɡe	tɛɣ													tiɡi								teɡe				døø				
+THAT_3												ɑnɑ																				
+THERE_1		undɑ	ɑndɑ	undɑ	ɑndɑ		onno		ɑnɑ kɛrɑdɑ~	ɑndɑ	ɑndɑ	ondɑ	ɑndɑ		ondɑ	ɑndɑ	ondɑ	ɑndɑ	ɑntɑ	ɑntɑ	ɑndɑ	ɑndɑ	ɑndɑ	ɑndɑ	ɯndɑ			ɯndɑ	u jɛrdɛ		ɑndɑ	onno
+THERE_2	orɑdɑ							orɑdɑ~orɑsɯ						uoːrɑ												orɑdɑ						
+THERE_3																											ol jerde~o tɑjdɑ			o jerdɑ		
+THEY_1	onlɑr	ulɑr	olɑr	vɘ̆ʷzem	olɑr	ɑlɑr		onnɑr	olɑr	ɑlɑ	ɑlɑr	olɑr	olɑr	ollɑr	olɑr	ɑlɑr	olɑr	ɯlɑr~lɑr	olɑr	vulɑr	ɯlɑr		olor	ɑlɑr	olɑrɯŋ	onɫɑr	olɑr	olɑr	ulɑr	ulɑr		
+THEY_2							ɡiniler																									kiniler
+THEY_3																															qolɑr	
+THICK_1																	dombɑj															
+THICK_2	ɡɑlɯn	qɑlɯn	qɑːləŋ	χulɤ̆ʷn	qɑlɯn			kɑlɯn	qɑlɯn	qɑlɯn	kɑlɯn	qɑlɯŋ	χɑlɯn		qɑlɯn	qɑlɯn	qɑlɯn		qɑlɯn		qɑlɯn		qɑlɯn	qɑlɯn	hɯlɯn	kɑɫɯn	ɡɑlɯŋ	qɯlɯn	qelin	qɑlin	qɑlɯn	χɑlɯŋ
+THICK_3	joɣun	jɯwɑn							ʒuwɑn					joɣun					joɣun	joɣɑn		juwɑn	ɟoon	juwɑn	nøon		joɣɯn	ʧoon		joɣɔn	joɣɯn	suon
+THICK_4										bɑzɯq	bɑzɯq																					
+THINK_1		ujlɑ			ojlɑ				ojlɑ	ojlɑ		ojlɑ			ojlɑʃ	ojlɑ	ojlɑ					ojlɑ		ujlɑ					ojlɑ	ojlɑ		
+THINK_2			pøːɡun																		pøɡyn											
+THINK_3														sɑn				sɑnɑ			sɑnɑn		sɑnɑ									sɑnɑ
+THINK_4	dyʃyn				tysyn			dyʃyn																		dyʃyn						
+THINK_5			sɑːɣən	ʃuɣɤ̆ʷʃlɑ		sɑɡin					sɑɣɯn		sɑɣɯn					sɑɣɯn	sɑqɯn						sɑɣɯn						sɑqɯn	
+THINK_6																												bodɑ				
+THIN_1		joqɑ	ʧuɣɑʤɑːq	ɕuɣɑ	jufqɑ				ʒuqɑ	ʤuqɑ		ʒʊqɑ	ʧuɣɑ			ʤuqɑ	juqɑ		juqɑ	joχpɑ	ʧuɣɑ		ɟuqɑ	juqɑ	ʧuɣɑ		juqɑ	ʧuɣɑ	jupqɑ~juqqɑ~ʒupqɑ	jupqɑ	juqɑ	
+THIN_2	inʤæ		ʧɘʧkæʤeːk	ɕinʑe	inʤe		hinnʲiɡes	inʤɛ	ʒiŋiʃke	iŋiʧke	inʧke	ʒɘŋɘʃke	nɘske			iʧke	jiŋiʃke	ʧiʧke	jinʧɡe	lɛʃki~neʃke				neʧkɛ	niŋɡe	inʤe	inʧe	ʧiŋɡe	inʧike~iŋiʧke	iŋiʧkɑ	ʃike	sinɲiɡes
+THIS_1	bu	bɯl	pu		bu	bu	bu	bu	bul	bu	bu	bʊl	pu	bo	bu	bu	bu	po	bu	bu	po	bu	pu	bu	bo	bu	bu	bo	bu	bu	pu	bu
+THIS_2				ku																												
+THOU_1				ezɘ													siz													siz		
+THOU_2	sæn	hin	sɛn		sen	sen	en	sɛn	sen	sen	sen	sen	sin	sɛn	sen	sen		sen	sen	sen	sen	sin	sen	sin	sen	sen	θen	sen	sɛn		sen	en
+THREE_1	yʧ	øs	yʧ	viɕɕɘ~viʑɘ~viɕ	yʧ	uʧ	ys	yʧ	yʃ	yʧ	yʧ	yʃ	ys	yːʧ	yʧ	yʧ	yʃ	yʧ~yʃ	yʧ	uʃ	yʃ	øʧ	yʧ	øʧ	yʃ	yʧ	yʧ	yʃ	yʧ	uʧ	yʃ~uʃ	ys
+THROAT_1		tɑmɑq	tɑmɑq			tɑmɑc			tɑmɑq	tɑmɑq	tɑmɑq	tɑmɑq	tɑmɑχ		tɑmɑq	tɑmɑq	tɑmɑq		tɑmɣɑq		tɑbɑq		tɑmɑq	tɑmɑq					tɑmɑq	tɔmɔq		tɑmɑχ
+THROAT_2	boɣɑz	boɣɑð		pɯr	boɣɑz			buɑz						boɣɯz~boɣɑz					boɣɑz~boɣuz					buɣɑz	boos	boːɑz	boɣɑð	boostɑɑ	boɣɑz~boɣuz		poɣɯs	
+THROAT_3																	boɣɯrdɑq	pɑkuːr		poɣtɑχ												
+THROAT_4																		tɯn														
+THROAT_5							kɑbɯrɡɑ																									χɑbɑrɣɑ
+THROAT_6									ɑlqɯm																				ɑlqin			
+THROW_1									ɯlɑqtɯr			lɑqtɯr					bɯlɑqtɯr															
+THROW_10		bɛr		per																												
+THROW_11																									qɑɣ							
+THROW_12																												oqtɑ				
+THROW_2		tɑʃlɑ	tɑstɑ						tɑslɑ			tɑstɑ	tɑstɑ		tɑʃlɑ	tɑʃtɑ	tɑslɑ				tɑʃtɑ	tɑʃlɑ	tɑʃtɑ	tɑʃlɑ			tɑʃlɑ	dɑʒɑ	tɑʃlɑ	tɑʃlɑ		
+THROW_3				pɤ̆ʷrɑχ			bɯrɑk																									bɯrɑχ
+THROW_4																		ʧel														
+THROW_5							keːs												kemiʃ													kebis~keːs
+THROW_6	ɑt			ɯvɤ̆ʷt	ɑt			ɑt	ɑt	ɑt	ɑt			hɑt					ɑt			ɑt		ɑt		ɑt			ɑt	ɔt		
+THROW_7																															tɑrdɑ	
+THROW_8										silde			sil																			
+THROW_9		ɯrɣɯt														ɯrɡɯt																
+TIE_1	bɑɣlɑ	bɛjlɛ	pɑɣlɑ		bɑɣlɑ		bɑːj	bɑːlɑ	bɑjlɑ	bɑjlɑ	bɑvlɑ~bɑjlɑ	bɑjlɑ~bu	pɑlɣɑ	vɑːɑ	bɑjlɑ	bɑjlɑ	bɑjlɑ	poɣ~pɑɣlɑ	bɑ	pɑɣlɑ	pɑɣlɑ	pɑwlɑ	bulɑ	bɛjlɛ	bɑɣlɑ	bɑːɫɑ	bɑɣlɑ	bɑɣlɑ	bɑɣlɑ	bɔɣlɑ	poɣ~poq~pɑɣlɑ~pɑlɣɑ	bɑːj
+TIE_2				ɕɯχ																												
+TIE_3																tɑŋ											dɑŋ					
+TOMORROW_1		irtɛɡɛ							erteŋ			erteŋ				erteŋ	erten			eːtɛ		ɛrtɛn	erten	irtɛɡɛ			ertir	dɑɑrtɑ~	ɛtɛ~ɛtiɡɛ~ɛrtɛ	ertɑ		
+TOMORROW_2			tɑŋnɑ~tɑmnə			tɑndɑ				tɑmblɑ	tɑndɑ		tɑŋdɑ		tɑŋɑlɑ			tɑŋdɑ			tɑŋdɑ								tɑŋlɑ			
+TOMORROW_3				ɯrɑn	jɑrɯn		hɑrsɯn	jɑrɯn											jɑrɯn							jɑrɯn						sɑrsɯn
+TOMORROW_4																									turɑj							
+TOMORROW_5																															tɑɣɯn	
+TONGUE_1	dil	tel	tɘl	ʧɘlɣe	til	til	tɯl	dil	til	til	til	tɘl	tɘl	til	til	til	til	til	tɯl	ʦil	til	til	til	tel	dɯl	dilʲ	dil	dɯl	til	til	tel	tɯl
+TOOTH_1	diʃ	teʃ	tɘs		tiʃ	tis	tiːs	diʃ	tis	tiʃ	tis~tiʃ~diʃ	tɘs	tɘs	tiːiʃ	tiʃ	tiʃ	tis	tiʃ	tiʃ	tiʧ	tiʃ		tiʃ	teʃ	dɘʃ	diʃ	diʃ		ʧiʃ	tiʃ	tɯs~tes	tiːs
+TOOTH_2				ʃɤ̆ʷl																												
+TREE_1					terek	terɑc				terek	tørɛk				terek		terek														terek	
+TREE_2	ɑɣɑʤ	ɑɣɑs	ɑɑʧ	jɯvɤ̆ʷɕ			mɑs	ɑːʧ	ɑɣɑʃ			ɑɣɑʃ	ɑɣɑs	hɑɣɑʧ		ʤɯɣɑʧ		ɑɣɑʃ	ɯɣɑʧ	ɑɣɑʧ	ɑɣɑʃ	ɑɣɑʦ	ɑɣɑʃ	ɑɣɑʧ	neʃ	ɑːɑʧ	ɑɣɑʧ	ɯjɑʃ	jɑɣɑʧ			mɑs
+TREE_3																			søɡyt													
+TRUE_1			sən	ʧɤ̆ʷn		ʧin			ʃɯn			ʃɯn	sɯn			ʧɯn	uʃɯn	ʧɯn	ʧɯn	ʧeŋ	ʃɯn	ʧɯn	ʧɯn	ʧɯn	ʃɯn		ʧɯn	ʃɯn	ʧin		ʧɯn	
+TRUE_2						kerti	kirdik			kerti					ɡerti				kertø							ɟerʧec						kɯrʤɯk
+TRUE_3	doɣru				doɣru			doːru			doɣru			toɣrɯ								turɯ					doɣrɯ					
+TURN (SOMETHING)_1		bor		pør					bur	bur		bʊr			bur	bur	bur				pur		buru	bor					bur	burɑ		
+TURN (SOMETHING)_2	døndær							døndyr																		døndyr						
+TURN (SOMETHING)_3	ʧevir										ʦivir			ʧɛvir																		
+TURN (SOMETHING)_4							tuorɑ																									
+TURN (SOMETHING)_5																			evir								øwyr					
+TURN (SOMETHING)_6													ɑjlɑndɯr					ɑjlɑndɯr											ɑjlɑndur			
+TURN (SOMETHING)_7																												erɡildir				erɡit
+TWO_1	ici	ike	iɡɘ	ikkɘ~iɡɘ~ik	eki	eki	ikki	iki	eki	eki	eki	ekɘ	ɘkɘ	ɛkki	eki	eki	eki	eki~ekki	eki~iki	iʃki~iʧki	ijɡi	ëki~eki	eki	ike	iˤhi	ici	iki	iji	ikki	ikki	iʃke	ikki
+UPPER LEG (THIGH)_1																	jɑnbɑs	ɲɑn				jɑnbɑʃ	ɟɑlmɑʃ									
+UPPER LEG (THIGH)_2																	jɑnbɑs					jɑnbɑʃ	ɟɑlmɑʃ									
+UPPER LEG (THIGH)_3			ʧɑn		sɑn				sɑn			sɑn				sɑn	sɑn												sɑn	sɔn		
+UPPER LEG (THIGH)_4	bud	bot	put		but	buth	buːt	but		bɑzɯq but	but		put	buːut	bɑzɯq but		but	but						bot	but		but				put	buːt
+UPPER LEG (THIGH)_5																			udluq		ustuq					ujɫuk						ulluk
+UPPER LEG (THIGH)_6											tijme																	døŋmek				
+VOMIT_1	ɡus	qoθ	qus	χøs	qus	cus		kus	qus	qus	kus	qʊs	χus	qus	qus	qus	qus	qus	qus				qus	qos	quˤs	kus	ɡuθ	qus	qus	qus	qus	χotuolɑː
+WALK_1	jeri	jør	ʧør	ɕyre	jyr	jur			ʒyr	ʤyry	jyry	ʒyr	ʧør	jorɯ	jyry	ʤyr	jyr	cor	jorɯ	jyr~jer	ʧør	jør		jør	ʧoru	jyry	jøre	ʧoru	ʒyr	jur		
+WALK_2																																χɑːmp
+WALK_3	ɟæz							ɡez																								
+WALK_4																		pɑs~bɑs					bɑs									
+WALK_5							bɑr																								pɑr~vɑr	
+WALK_6							hɯrɯt																									
+WARM_1		jɯlɯ	ʧələɣ						ʒɯllɯ	ʤɯlɯ	jɯlɯ	ʒɯlɯ	ʧɯlɯɣ		jɯlɯ	ʤɯluu	jɯlɯ	jɯlɯɣ	jɯlɯɣ		ʧɯlɯɣ		ɟɯlu	ʤɯlɯ	ʧɯlɯɣ	ɯɫɯk	jɯlɯ	ʧɯlɯɣ	illiq~	iliq	jilɯɣ	sɯlɑːs
+WARM_2				ɤ̆ʷʒɤ̆ʷ	sɯʤɑq	issi	itiː~iciɡes	sɯʤɑk			issi			hissiː	issi					ɯssɯ										issiq		
+WASH_1	ju	jɯw	ʧun	ɕu	juv	juu	huːj		ʒuw	ʤuw	juv	ʒu	ʧuɣ	juːu	ʤuw	ʤuu	juw		ju	ju~jy	ʧun	ju	ɟun	juw	ʧu		juw	ʧuɣ	ʒuj	juv	ju	suːj
+WASH_2								jɯkɑ										jɑjqɑ								jɯkɑ						
+WATER_1	su	hɯw	suɣ	ʃɯv	suw	su	uu	su	suw	suw	suv	su	suɣ	suw	suw	suu	suw	suɣ	suv	su	suɣ	su	suː	su	suɣ	su	θuw	suɣ	su	suv	su	uu
+WEAVE_1		huq								soq	soχ		soq		soq	soq	soq					soq	soq	suq							soq	
+WEAVE_2	toχu	tuqɯ			toqu			doku	toqɯ		tuχu~toχu	toqu		toqu		toqu	toqɯ		toqɯ					tuqu		doku	doqɑ		toqu	toqi		
+WEAVE_3																																ør
+WEAVE_4				tɘrt																												
+WEAVE_5																												ɑrɣɯ				
+WET_1			suɣluɣ		sɯlɑq					suu		su			suw	suu	suw	suɣ					suulu	sulɯ		ɯsɫɑk				suv		
+WET_2									høl				øl	heːl~hiːel							øl				øl		øl	øl	høl	hol		
+WET_3	jɑʃ							jɑʃ			jɑʃ																					
+WET_4							nʲɯlʧɑɡɑj																									inʧeɣej
+WET_5										ʤibiɡen								jibiɡ														
+WET_6																															ʃɯdɯq~ʃidɯk~ʃɯtɯq	
+WET_7		eweʃ									jivis~jyvyʃ									ojʃi~uːse~uːʃ				jyjeʃ								
+WE_1	biz	beð	pɘs	ebir	biz	bix	bihiɡi	biz	biz	biz	biz	bɘz	pɘs	biz	biz	biz	biz	pis	biz	piser	pis	biz	bis	bez	bister	biz	bið	bis	biz	biz	mɯs~mɯster	bihiɡi
+WHAT_1	næ	ni~nimɛ	nøme	mɘn	ne	ne		ne~nɑʃej	ne	ne	ne	ne	nime	nɛːsɛ	ne	emne	ne	ne~ɲime~nime	ne	nɛ	noː	nemɛ	neme	ni	ʧy	ne	nɛme	ʧy	nimɛ	nimɑ	ni~ne	tuoχ
+WHEN_1	hɑʧɑn	qɑsɑn	qɑʤɑn	χøʑɑn		chɑzɑn	kɑhɑn	ɑʧɑn	qɑʃɑn	qɑʧɑn	kɑʦɑn	qɑʃɑn	χɑʤɑn	qɑʲʧɑːn	qɑʧɑn	qɑʧɑn	qɑʃɑn	qɑʤɑn~qɑʒɑn	qɑʧɑn	qɑʤɑn	qɑʧɑn	qɑʧɑn	qɑʧɑn	qɑjʧɑn	qɑˤhin		hɑʧɑn	qɑʒɑn	qɑʧɑn	qɑʧɔn	qɑʧɑn	χɑhɑn
+WHEN_2					ne vɑqɯt			nezɑmɑn																		ne zɑmɑn						
+WHERE_1		qɑjðɑ	qɑjdɑ	ɤ̆ʷɕtɑ	qɑjdɑ	chɑjdɑ~kɑni	kɑnnɑ		qɑjdɑ	qɑjdɑ~qɑlɑjdɑ	kɑjdɑ	qɑjdɑ	χɑjdɑ	qɑː	qɑjdɑ	qɑjdɑ	qɑjdɑ	qɑjt~qɑjdɑ	qɑjudɑ~qɑndɑ	qɑjdɑ~qɑjtɑ	qɑjdɑ	qɑjdɑ	qɑjdɑ	qɑjdɑ	qɑjdɑ			qɑjdɑ~qɑjɑː	qeni	qɑjerdɑ	qɑjtɑ~qɑn	χɑnnɑ
+WHERE_2					ne jerde				qɑj ʒerde						ne jerde		qɑjerde												qɑjsi jerde~qɛjɛrdɛ	qɑjerdɑ		
+WHERE_3	hɑrɑdɑ																															
+WHERE_4					ne jerde			neredi						nieːdɛ	ne jerde											nerede	nirede					
+WHICH_1	hɑnsɯ	qɑjhɯ		χɤ̆ʷʒɘ	qɑjsɯ	chɑjm	kɑhɯs		qɑjsɯsɯ	qɑjsɯ	qɑjsɯ	qɑj	χɑjzɯ		qɑjsɯ	qɑjsɯ	qɑysɯ	qɑjɑzɯ~qɑjɯ	qɑɲ	qɑjsɯ~qɑjsɑre	qɑjzɯ	qɑjsɯ	kɑʒɯ	qɑjsɯ	qɑjsɯ	hɑnɟi	hɑjθɯ	qɑjɯ	qɑjsi	qɑj	qɑjsɯ	χɑyɑ~χɑnnɯk~χɑhɯs
+WHICH_2					ɑnɡi			ɑnɡɯsɯ																								
+WHITE_1	ɑɣ	ɑq	ɑqβus		ɑq	ɑc		ɑk	ɑq	ɑq	ɑk	ɑq	ɑχ		ɑq	ɑq	ɑq	ɑq		ɑχ	ɑq	ɑq	ɑq	ɑq	ɑq		ɑq	ɑq	ɑq	ɔq	ɑq	
+WHITE_2														hyryn					yryŋ													yryŋ
+WHITE_3				ʃurɤ̆ʷ																												
+WHO_1	cim	kem	kɘm	kɑm	kim	kym~kim	kim	kim	kim	kim	kim	kɘm	kem	kim	kim	kim	kim	kem	kem	kem	kem	kim	kem	kem	qum	cim	kim	qɯm	kim	kim	kim	kim
+WIDE_1	ɟeniʃ	kiŋ			keŋ~keniʃ			ɡeniʃ	keŋ	keŋ	ken	keŋ		kiːeŋ	ɡeŋ	keŋ	keŋ	keŋ	keŋ			kɛŋ	keŋ	kiŋ		ɟeniʃ	ɡiŋ		kɛŋ	keŋ	keŋ	kieŋ
+WIDE_2			ʧɑlβɑq										ʧɑlbɑχ								ʧɑlbɑq	jɑlbɯrsɑq	ɟɑlbɑχ									
+WIDE_3							ketit																									
+WIDE_4				sɑrlɑɡɑ																												
+WIDE_5													ɑllɯɣ												ɑˤlhɯɣ							
+WIND_1	jel	jel	ʧɛl	ɕil	jel	jel			ʒel	ʤel	jel	ʒel	ʧil	jel	jel		jel		jel	jel		yël		ʤil			jel				jil~jɯl	
+WIND_2							tɯɑl																									tɯɑl
+WIND_3																									qɑt			χɑt				
+WING_1	ɡɑnɑd	qɑnɑt	qɑnɑt	ɕunɑt	qɑnɑt	hɑnɑt	kɯnɑt	kɑnɑt	qɑnɑt	qɑnɑt	kɑnɑt	qɑnɑt	χɑnɑt		qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	qɑnɑt	hɑnɑt	kɑnɑt	ɡɑnɑt		qɑnɑt	qɑnɔt	qɑnɑt~qɯjnɑt	kɯnɑt
+WING_2																												ʧɑlɣɯn				
+WITH_1										blɑ	bɯlɑ				bulɑn			vlɑ			pɯlɑ~bɯlɑ~mɯlɑ											
+WITH_10																						pilen		belɛn	ble		bilen	bile	bilɛn	bilɑn	pilin	
+WITH_11																						mɯnɑ~minɛ										
+WITH_2												men																				
+WITH_3						birlɑ													birle													
+WITH_4		menɛn							menen~benen~penen							menen																
+WITH_5				bɑ~bɑlɑ													mɑn~pɑn				pɑ~bɑ~mɑ											
+WITH_6	ilæ~lɑ~læ			bɑ~bɑlɑ	ile~lɑ									lɑ						lɑ			lɑ									
+WITH_7	ilæ~lɑ~læ				ile~lɑ																					ilʲe						
+WITH_8			nɑŋ		nen		nɑn	nɑn					dɑŋ~tɑŋ~nɑŋ																			nɑn~nen
+WITH_9															bulɑn		mɑn~pɑn					pilen		belɛn			bilen		bilɛn	bilɑn	pilin	
+WOMAN_1				χɘrɑrɤ̆ʷm													χɑtɯnqɯz							χɑtɯnqɯz								
+WOMAN_2	ɡɑdɯn	qɑtɯn	qɑtkɘzɘ		qɑdɯn	kɑtu~kɑtun			qɑtɯn		qɑtɯn				qɑtɯn ɡiʃi		χɑtɯn	qɑt		qɑːtɯn keːʃ		qɑtɯn		χɑtɯn		kɑdɯn				χɔtin		
+WOMAN_3					qɯsqɑjɑqlɯ												qɯsqɑjɑqlɯ															
+WOMAN_4						tusi				tiʃirɯw								tiʒi kiʒi	tiʃi		tiʒi kiʒi											
+WOMAN_5				χɘrɑrɤ̆ʷm									ipʧɘ kɘzɘ					epʧi	evʧi		epʧi		yjkiʒi									
+WOMAN_6			qɑtkɘzɘ										ipʧɘ kɘzɘ	kiʃi	qɑtɯn ɡiʃi			tiʒi kiʒi		qɑːtɯn keːʃ	tiʒi kiʒi		yjkiʒi					χereeʒen		χɔtin		
+WOMAN_7																															sɛʤdɯɣ	
+WOMAN_8								kɑrɯ																	qoˤrhɯɲɑq							
+WOOD_1	ɑɣɑʧ	ɑɣɑs	ɑɑʧ	jɯvɤ̆ʷɕ	ɑɣɑʧ	ɑɡɑʧ	mɑs	ɑɑʧ	ɑɣɑʃ	ɑɣɑʧ	ɑɣɑʦ~ɑɣɑʧ	ɑɣɑʃ	ɑɣɑs	hɑɣɑʧ	ɑɣɑʧ	ʤɯɣɑʧ	ɑɣɑʃ	ɑɣɑʃ	ɯɣɑʧ	ɑɣɑʧ	ɑɣɑʃ	ɑɣɑʧ	ɑɣɑʃ	ɑɣɑʧ	neʃ		ɑɣɑʧ	ɯjɑʃ	jɑɣɑʧ	jɔɣɔʧ	jɯɣɑʃ	mɑs
+WOOD_2																										odun						
+WORM_1	ɡurd		qurt	χurt	qurt	kurt		kurt	qurt	qurt	kurt	qʊrt	χurt	quːrt		qurt	qurt	qurt	qurt		qurt	qort	qurt	qort	quˤrt	kurt	ɡurʧuq	qurt	qurut			
+WORM_2	soχulʧɑn	selɛwsen	søøskæj		sɯvɑlʧɑn										χurt	søølʤɑn	ʃɯlɑwʃɑn			suɡulʤɯŋ	ʃoːʃqɑn		ʧojloʃqon	suɑlʧɑn	ʃojlɑʃqɑn	soɫuʤɑn			ʧuvɑlʧɑŋ	ʧuvɑlʧɑŋ		
+WORM_3				ømɑn																												
+YEAR_1	il	jɯl	ʧɯl		jɯl	ɡil~jil		jɯl	ʒɯl	ʤɯl	jɯl~il			jil	jɯl	ʤɯl	jɯl	cɯl	jɯl	jel~jɯl~jil	ʧɯl	jɯl	ɟɯl		ʧɯl	jɯɫ	jɯl	ʧɯl	ʒil	jil	jɯl	sɯl
+YEAR_2				ɕul																												
+YELLOW_1	sɑrɯ	hɑrɯ	sɑːrəɣ		sɑrɯ	sɑri		sɑrɯ	sɑrɯ	sɑrɯ	sɑrɯ	sɑrɯ	sɑrɯɣ			sɑrɯ	sɑrɯ	sɑrɯ	sɑrɯɣ	sɑrɯ	sɑrɯɣ	sɑrɯ	sɑrɯ	sɑrɯ	sɑrɯɣ	sɑrɯ	θɑrɯ	sɑrɯɣ	seriq	sɑriq	sɑrɯɣ	ɑrɑɣɑs
+YELLOW_2							hɑhɑrkɑj~hɑhɯl																									sɑhɑrχɑj
+YELLOW_3														ʧɑqɯr																		
+YESTERDAY_1		kisɛ	kæʤeː				beɡeheː		keʃe			keʃe	kiʤee			keʧee		keʤe~keʒen		keːʤe	keʧe		keʧe	kiʧɛ						keʧɑ		beɣeheː
+YESTERDAY_2							beɡeheː																									beɣeheː
+YESTERDAY_3	dynæn				tynevin	tunɑcun~tunɑchun~tunekun		dyn		tynene	tyneɡyn~kineɡin				tyneɡyn		tyneɡyn								dyyn	dyn	dyjn	dyːn	tynyɡyn			
+YESTERDAY_4					tynevin	tunɑcun~tunɑchun~tunekun					tyneɡyn~kineɡin				tyneɡyn		tyneɡyn												tynyɡyn		tuɣɯn	
+YESTERDAY_5				ɘner										ɛŋɡyr																		
+YOU_1	siz	heð	slɛr	ezir	siz	six		siz	siz	siz	siz	sɘzder	sɘrer	siz	siz	siler	siz	sler	siz	seler	siler	silɛr~sis	sler	sez	sler	siz	θið	siler	siz	sizlɑr	siler	ehiɡi
+YOU_2							en																									
