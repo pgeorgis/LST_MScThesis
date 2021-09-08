@@ -145,7 +145,7 @@ class PhonemeCorrDetector:
 
 
     def calc_phoneme_pmi(self, radius=2, max_iterations=10,
-                          p_threshold=0.05,
+                          p_threshold=0.1,
                           seed=1, 
                           print_iterations=False, save=True):
         """
@@ -290,7 +290,7 @@ class PhonemeCorrDetector:
     
     def calc_phoneme_surprisal(self, radius=2, 
                                max_iterations=10, 
-                               p_threshold=0.05,
+                               p_threshold=0.1,
                                ngram_size=2,
                                print_iterations=False,
                                seed=1,
