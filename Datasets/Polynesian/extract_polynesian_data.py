@@ -8,7 +8,6 @@ grandparent_dir = parent_dir.parent
 #Load phonetic distance data and auxiliary functions
 os.chdir(str(grandparent_dir) + '/Code')
 from auxiliary_functions import csv_to_dict, strip_ch
-os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
 from phonetic_distance import *
 os.chdir(local_dir)
 
@@ -166,30 +165,31 @@ for i in polynesian_data:
     entry = polynesian_data[i]
     lang_id = entry['DOCULECT']
     if lang_id != '':
-        new_entry = poly_data[i]
         lang = poly_lang_dict[lang_id]
         new_name, glottocode, iso_code = lang_data[lang]
-        concepticon_id = entry['CONCEPTICON_ID']
-        concept = entry['CONCEPT']
-        try:
-            gloss = concept_dict[concepticon_id]
-        except KeyError:
-            missing_glosses.append((concepticon_id, concept))
-            gloss = concept 
-        cognate_id = '_'.join([gloss, str(cognate_id_lookup[i])])
-        new_entry['ID'] = '_'.join([lang, str(cognate_id)])
-        new_entry['Language_ID'] = new_name
-        new_entry['Glottocode'] = glottocode
-        new_entry['ISO 639-3'] = iso_code
-        new_entry['Parameter_ID'] = gloss
-        new_entry['Value'] = entry['VALUE']
-        new_entry['Form'] = fix_tr(entry['IPA'], lang, conversion_dict)
-        new_entry['Segments'] = ' '.join(segment_word(new_entry['Form']))
-        new_entry['Source_Form'] = entry['IPA']
-        new_entry['Cognate_ID'] = cognate_id
-        new_entry['Loan'] = entry['LOAN'].upper()
-        new_entry['Comment'] = entry['COMMENT']
-        new_entry['Source'] = entry['SOURCE']
+        if new_name != 'Proto-Polynesian': #skip Proto-Polynesian, keep only modern languages
+            concepticon_id = entry['CONCEPTICON_ID']
+            concept = entry['CONCEPT']
+            try:
+                gloss = concept_dict[concepticon_id]
+            except KeyError:
+                missing_glosses.append((concepticon_id, concept))
+                gloss = concept 
+            cognate_id = '_'.join([gloss, str(cognate_id_lookup[i])])
+            new_entry = poly_data[i]
+            new_entry['ID'] = '_'.join([lang, str(cognate_id)])
+            new_entry['Language_ID'] = new_name
+            new_entry['Glottocode'] = glottocode
+            new_entry['ISO 639-3'] = iso_code
+            new_entry['Parameter_ID'] = gloss
+            new_entry['Value'] = entry['VALUE']
+            new_entry['Form'] = fix_tr(entry['IPA'], lang, conversion_dict)
+            new_entry['Segments'] = ' '.join(segment_word(new_entry['Form']))
+            new_entry['Source_Form'] = entry['IPA']
+            new_entry['Cognate_ID'] = cognate_id
+            new_entry['Loan'] = entry['LOAN'].upper()
+            new_entry['Comment'] = entry['COMMENT']
+            new_entry['Source'] = entry['SOURCE']
 
 if len(missing_glosses) > 0:
     print(f'Number of missing glosses: {len(set(missing_glosses))}')

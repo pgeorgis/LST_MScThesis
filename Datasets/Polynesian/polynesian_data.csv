@@ -46,7 +46,6 @@ Samoan_FIFTY_1	Samoan	samo1305	smo	FIFTY	limagafulu	limaɡafulu	l i m a ɡ a f u
 Samoan_FIFTY_1	Samoan	samo1305	smo	FIFTY	limasefulu	limasefulu	l i m a s e f u l u	lima_se+fulu	FIFTY_1	FALSE		Blust-118-2005
 VaeakauTaumako_FIVE_1	Vaeakau-Taumako	pile1238	piv	FIVE	lima	lima	l i m a	lima	FIVE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FIVE_1	Wallisian	wall1257	wls	FIVE	nima	nima	n i m a	nima	FIVE_1	TRUE	Main, bras, cinq (Rch)[>].(Source: Pollex), Loan (Pawley 2010)	POLLEX
-Polynesian_FIVE_1	Proto-Polynesian	poly1242	nan	FIVE	*lima	lima	l i m a	lima	FIVE_1	FALSE		PawleyOC
 Maori_FIVE_1	Maori	maor1246	mri	FIVE	rima	rima	r i m a	rima	FIVE_1	FALSE	Five.(Source: Pollex)	Biggs-85-2005
 Kapingamarangi_FIVE_1	Kapingamarangi	kapi1249	kpg	FIVE	lima	lima	l i m a	lima	FIVE_1	FALSE	Five, hand n (Ebt).(Source: Pollex 2006)	POLLEX
 Tahitian_FIVE_2	Tahitian	tahi1242	tah	FIVE	pae	pae	p a e	pae	FIVE_2	FALSE	Tahitian Innovation	Clark-173-2005
@@ -79,7 +78,6 @@ Tuvalu_FIVE_1	Tuvalu	tuva1244	tvl	FIVE	lima	lima	l i m a	lima	FIVE_1	FALSE		2990
 Anuta_FIVE_1	Anuta	anut1237	aud	FIVE	nima	nima	n i m a	nima	FIVE_1	TRUE	Five, hand-arm (Fbg) B.[>].(Source: Pollex)	POLLEX
 VaeakauTaumako_FOUR_1	Vaeakau-Taumako	pile1238	piv	FOUR	haa	haa	h a a	haː	FOUR_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FOUR_1	Wallisian	wall1257	wls	FOUR	faa	faa	f a a	faː	FOUR_1	FALSE	Four	POLLEX
-Polynesian_FOUR_1	Proto-Polynesian	poly1242	nan	FOUR	*faa	faa	f a a	faː	FOUR_1	FALSE		PawleyOC
 Maori_FOUR_1	Maori	maor1246	mri	FOUR	whaa	faa	f a a	faː	FOUR_1	FALSE		Biggs-85-2005
 Kapingamarangi_FOUR_1	Kapingamarangi	kapi1249	kpg	FOUR	haa	haa	h a a	haː	FOUR_1	FALSE	Four (Lbr)	POLLEX
 Tahitian_FOUR_1	Tahitian	tahi1242	tah	FOUR	maha	maha	m a h a	ma+ha	FOUR_1	FALSE		Clark-173-2005
@@ -110,7 +108,6 @@ Tuvalu_FOUR_1	Tuvalu	tuva1244	tvl	FOUR	faa	faa	f a a	faː	FOUR_1	FALSE		29903
 Anuta_FOUR_1	Anuta	anut1237	aud	FOUR	paa	paa	p a a	paː	FOUR_1	FALSE	Four (Cpl)	POLLEX
 VaeakauTaumako_I_1	Vaeakau-Taumako	pile1238	piv	I	au	au	a u	au	I_1	FALSE		Hovdhaugen-375-2009
 Wallisian_I_1	Wallisian	wall1257	wls	I	koau	koau	k o a u	ko+au	I_1	FALSE		POLLEX
-Polynesian_I_1	Proto-Polynesian	poly1242	nan	I	*au	au	a u	au	I_1	FALSE	(indep.)	PawleyOC
 Maori_I_1	Maori	maor1246	mri	I	au	au	a u	au	I_1	FALSE		Biggs-85-2005
 Kapingamarangi_I_1	Kapingamarangi	kapi1249	kpg	I	au	au	a u	au	I_1	FALSE	I, me (Lbr)	POLLEX
 Tahitian_I_1	Tahitian	tahi1242	tah	I	vau	vau	v a u	vau	I_1	FALSE		Clark-173-2005
@@ -181,7 +178,6 @@ Tuvalu_NINE_1	Tuvalu	tuva1244	tvl	NINE	iva	iva	i v a	iva	NINE_1	FALSE		29903
 Anuta_NINE_1	Anuta	anut1237	aud	NINE	iva	iva	i v a	iva	NINE_1	TRUE	Nine (Yen).(Source: Pollex). Green 71 notes this is a loan from Tikopia	POLLEX
 VaeakauTaumako_ONE_1	Vaeakau-Taumako	pile1238	piv	ONE	kotahi	kotahi	k o t a h i	ko+tahi	ONE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_ONE_1	Wallisian	wall1257	wls	ONE	tahi	tahi	t a h i	tahi	ONE_1	FALSE	One	POLLEX
-Polynesian_ONE_3	Proto-Polynesian	poly1242	nan	ONE	*taha	taha	t a h a	taha	ONE_3	FALSE		PawleyOC
 Maori_ONE_1	Maori	maor1246	mri	ONE	tahi	tahi	t a h i	tahi	ONE_1	FALSE		Biggs-85-2005
 Kapingamarangi_ONE_1	Kapingamarangi	kapi1249	kpg	ONE	dahi	dahi	d a h i	dahi	ONE_1	FALSE	One (Lbr)	POLLEX
 Tahitian_ONE_2	Tahitian	tahi1242	tah	ONE	ho'e	hoʔe	h o ʔ e	hoʔe	ONE_2	FALSE	Tahitian innovation	Clark-173-2005
@@ -363,7 +359,6 @@ Tuvalu_TEN_4	Tuvalu	tuva1244	tvl	TEN	gafulu	ɡafulu	ɡ a f u l u	ga+fulu	TEN_4	F
 Anuta_TEN_4	Anuta	anut1237	aud	TEN	pu/angapuru/	aŋapuru	a ŋ a p u r u	aŋa+puru	TEN_4	FALSE	Ten (Fbg).(Source: Pollex)	POLLEX
 VaeakauTaumako_THREE_1	Vaeakau-Taumako	pile1238	piv	THREE	tolu	tolu	t o l u	tolu	THREE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_THREE_1	Wallisian	wall1257	wls	THREE	tolu	tolu	t o l u	tolu	THREE_1	FALSE	Three	POLLEX
-Polynesian_THREE_1	Proto-Polynesian	poly1242	nan	THREE	*tolu	tolu	t o l u	tolu	THREE_1	FALSE		PawleyOC
 Maori_THREE_1	Maori	maor1246	mri	THREE	toru	toru	t o r u	toru	THREE_1	FALSE		Biggs-85-2005
 Kapingamarangi_THREE_1	Kapingamarangi	kapi1249	kpg	THREE	dolu	dolu	d o l u	dolu	THREE_1	FALSE	Three (Lbr)	POLLEX
 Tahitian_THREE_1	Tahitian	tahi1242	tah	THREE	toru	toru	t o r u	toru	THREE_1	FALSE		Clark-173-2005
@@ -413,7 +408,6 @@ Samoan_TWENTY_2	Samoan	samo1305	smo	TWENTY	lua sefulu	luasefulu	l u a s e f u l 
 Tuvalu_TWENTY_3	Tuvalu	tuva1244	tvl	TWENTY	tekau	tekau	t e k a u	tekau	TWENTY_3	FALSE		29903
 VaeakauTaumako_TWO_1	Vaeakau-Taumako	pile1238	piv	TWO	lua	lua	l u a	lua	TWO_1	FALSE		Hovdhaugen-375-2009
 Wallisian_TWO_1	Wallisian	wall1257	wls	TWO	lua	lua	l u a	lua	TWO_1	FALSE	Two	POLLEX
-Polynesian_TWO_1	Proto-Polynesian	poly1242	nan	TWO	*rua	rua	r u a	rua	TWO_1	FALSE		PawleyOC
 Maori_TWO_1	Maori	maor1246	mri	TWO	rua	rua	r u a	rua	TWO_1	FALSE		Biggs-85-2005
 Kapingamarangi_TWO_1	Kapingamarangi	kapi1249	kpg	TWO	lua	lua	l u a	lua	TWO_1	FALSE	Two (Lbr)	POLLEX
 Tahitian_TWO_2	Tahitian	tahi1242	tah	TWO	piti	piti	p i t i	piti	TWO_2	FALSE	Tahitian innovation	Clark-173-2005
@@ -445,7 +439,6 @@ Tuvalu_TWO_1	Tuvalu	tuva1244	tvl	TWO	aoa	aoa	a o a	aoa	TWO_1	FALSE		29903
 Anuta_TWO_1	Anuta	anut1237	aud	TWO	rua	rua	r u a	rua	TWO_1	FALSE	Two (Yen)	POLLEX
 VaeakauTaumako_ABOVE_1	Vaeakau-Taumako	pile1238	piv	ABOVE	lunga	luŋa	l u ŋ a	luŋa	ABOVE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_ABOVE_1	Wallisian	wall1257	wls	ABOVE	'o/luga/	luɡa	l u ɡ a	luga	ABOVE_1	TRUE	Above (Rch) B. [<]	POLLEX
-Polynesian_ABOVE_1	Proto-Polynesian	poly1242	nan	ABOVE	*i luŋa	iluŋa	i l u ŋ a	i_luŋa	ABOVE_1	FALSE	PPn shows lexical replacement.	PawleyOC
 Maori_ABOVE_1	Maori	maor1246	mri	ABOVE	i runga	iruŋa	i r u ŋ a	i_ruŋa	ABOVE_1	FALSE		Biggs-85-2005
 Kapingamarangi_ABOVE_2	Kapingamarangi	kapi1249	kpg	ABOVE	nua	nua	n u a	nua	ABOVE_2	FALSE		POLLEX
 Tahitian_ABOVE_1	Tahitian	tahi1242	tah	ABOVE	ni'a	niʔa	n i ʔ a	niʔa	ABOVE_1	FALSE		Clark-173-2005
@@ -474,7 +467,6 @@ Anuta_ABOVE_1	Anuta	anut1237	aud	ABOVE	ruŋa	ruŋa	r u ŋ a	ruŋa	ABOVE_1	FALSE	
 VaeakauTaumako_ALL_1	Vaeakau-Taumako	pile1238	piv	ALL	katoa	katoa	k a t o a	ka+toa	ALL_1	FALSE		Hovdhaugen-375-2009
 Wallisian_ALL_1	Wallisian	wall1257	wls	ALL	katoa	katoa	k a t o a	ka+toa	ALL_1	FALSE	Tout, universel, complet	POLLEX
 Wallisian_ALL_2	Wallisian	wall1257	wls	ALL	fulifuli	fulifuli	f u l i f u l i	fuli+fuli	ALL_2	FALSE	All	POLLEX
-Polynesian_ALL_1	Proto-Polynesian	poly1242	nan	ALL	*katoa	katoa	k a t o a	ka+toa	ALL_1	FALSE	PPn shows a lexical replacement	PawleyOC
 Maori_ALL_1	Maori	maor1246	mri	ALL	katoa	katoa	k a t o a	ka+toa	ALL_1	FALSE		Biggs-85-2005
 Kapingamarangi_ALL_1	Kapingamarangi	kapi1249	kpg	ALL	huo/godoo/	ɡodoo	ɡ o d o o	godoː	ALL_1	FALSE	All (Lbr)	POLLEX
 Tahitian_ALL_1	Tahitian	tahi1242	tah	ALL	ato'a	atoʔa	a t o ʔ a	a+toʔa	ALL_1	FALSE		Clark-173-2005
@@ -552,7 +544,6 @@ Anuta_AND_7	Anuta	anut1237	aud	AND	mo	mo	m o	mo	AND_7	FALSE	With	POLLEX
 Anuta_AND_2	Anuta	anut1237	aud	AND	maa	maa	m a a	maː	AND_2	FALSE	And (used with numerals) (Fbg)	POLLEX
 VaeakauTaumako_ASH_4	Vaeakau-Taumako	pile1238	piv	ASH	lehu	lehu	l e h u	lehu	ASH_4	FALSE		Hovdhaugen-375-2009
 Wallisian_ASH_4	Wallisian	wall1257	wls	ASH	lefu/lefu	lefu	l e f u	lefu	ASH_4	FALSE	Cendre (Rch)	POLLEX
-Polynesian_ASH_4	Proto-Polynesian	poly1242	nan	ASH	*refu	refu	r e f u	refu	ASH_4	FALSE	(-refu) (ashes)	PawleyOC
 Maori_ASH_4	Maori	maor1246	mri	ASH	pungarehu	puŋarehu	p u ŋ a r e h u	pu+ŋa+rehu	ASH_4	FALSE		Biggs-85-2005
 Kapingamarangi_ASH_4	Kapingamarangi	kapi1249	kpg	ASH	lehu	lehu	l e h u	lehu	ASH_4	FALSE	Ashes (Lbr)	POLLEX
 Tahitian_ASH_4	Tahitian	tahi1242	tah	ASH	rehu	rehu	r e h u	rehu	ASH_4	FALSE		Clark-173-2005
@@ -622,7 +613,6 @@ Tuvalu_AT_1	Tuvalu	tuva1244	tvl	AT	i	i	i	i	AT_1	FALSE		29903
 Anuta_AT_1	Anuta	anut1237	aud	AT	i	i	i	i	AT_1	FALSE	at	POLLEX
 VaeakauTaumako_BACK_2	Vaeakau-Taumako	pile1238	piv	BACK	tua	tua	t u a	tua	BACK_2	FALSE		Hovdhaugen-375-2009
 Wallisian_BACK_2	Wallisian	wall1257	wls	BACK	tu'a	tuʔa	t u ʔ a	tuʔa	BACK_2	FALSE	Pollex 06: Tu`a. :Back.	POLLEX
-Polynesian_BACK_2	Proto-Polynesian	poly1242	nan	BACK	*tuqa	tuʔa	t u ʔ a	tuʔa	BACK_2	FALSE	Replaces	PawleyOC
 Maori_BACK_2	Maori	maor1246	mri	BACK	tuaraa	tuaraa	t u a r a a	tua+raː	BACK_2	FALSE		Biggs-85-2005
 Kapingamarangi_BACK_2	Kapingamarangi	kapi1249	kpg	BACK	dua	dua	d u a	dua	BACK_2	FALSE	Back (of a person) (Lbr)	POLLEX
 Tahitian_BACK_2	Tahitian	tahi1242	tah	BACK	tua	tua	t u a	tua	BACK_2	FALSE		Clark-173-2005
@@ -655,7 +645,6 @@ Tuvalu_BACK_2	Tuvalu	tuva1244	tvl	BACK	tua	tua	t u a	tua	BACK_2	FALSE		29903
 Anuta_BACK_3	Anuta	anut1237	aud	BACK	m-uri	muri	m u r i	muri	BACK_3	FALSE	back, the rear portion of something, behind	POLLEX
 VaeakauTaumako_BAD OR EVIL_7	Vaeakau-Taumako	pile1238	piv	BAD OR EVIL	thapeo	tʰapeo	tʰ a p e o	tʰapeo	BAD OR EVIL_7	FALSE		Hovdhaugen-375-2009
 Wallisian_BAD OR EVIL_2	Wallisian	wall1257	wls	BAD OR EVIL	kovi	kovi	k o v i	kovi	BAD OR EVIL_2	TRUE	Bad B. [<]	POLLEX
-Polynesian_BAD OR EVIL_1	Proto-Polynesian	poly1242	nan	BAD OR EVIL	*saqa	saʔa	s a ʔ a	saʔa	BAD OR EVIL_1	FALSE	?'bad, of improper conduct, unseemly, forbidden'	PawleyOC
 Maori_BAD OR EVIL_12	Maori	maor1246	mri	BAD OR EVIL	kino	kino	k i n o	kino	BAD OR EVIL_12	FALSE		Biggs-85-2005
 Kapingamarangi_BAD OR EVIL_13	Kapingamarangi	kapi1249	kpg	BAD OR EVIL	huaaitu	huaaitu	h u a a i t u	huaː+itu	BAD OR EVIL_13	FALSE		POLLEX
 Tahitian_BAD OR EVIL_12	Tahitian	tahi1242	tah	BAD OR EVIL	'ino	ʔino	ʔ i n o	ʔino	BAD OR EVIL_12	FALSE		Clark-173-2005
@@ -692,7 +681,6 @@ VaeakauTaumako_BELLY_9	Vaeakau-Taumako	pile1238	piv	BELLY	manava	manava	m a n a 
 Wallisian_BELLY_2	Wallisian	wall1257	wls	BELLY	àlo	ʔalo	ʔ a l o	ʔalo	BELLY_2	FALSE	Stomach (of chief)	POLLEX
 Wallisian_BELLY_9	Wallisian	wall1257	wls	BELLY	manava	manava	m a n a v a	manava	BELLY_9	FALSE	Belly, stomach	POLLEX
 Wallisian_BELLY_8	Wallisian	wall1257	wls	BELLY	kona	kona	k o n a	kona	BELLY_8	FALSE	Lower abdomen (Btn)	POLLEX
-Polynesian_BELLY_9	Proto-Polynesian	poly1242	nan	BELLY	*manawa	manawa	m a n a w a	manawa	BELLY_9	FALSE	'belly, stomach', check Geraghty 1984, who posits PCP *manawa	PawleyOC
 Maori_BELLY_10	Maori	maor1246	mri	BELLY	puku	puku	p u k u	puku	BELLY_10	FALSE		Biggs-85-2005
 Kapingamarangi_BELLY_8	Kapingamarangi	kapi1249	kpg	BELLY	kona	kona	k o n a	kona	BELLY_8	FALSE	Navel	POLLEX
 Tahitian_BELLY_5	Tahitian	tahi1242	tah	BELLY	'oopuu	ʔoopuoːpu	ʔ o o p u oː p u	ʔoːpuː	BELLY_5	FALSE		Clark-173-2005
@@ -739,7 +727,6 @@ Tuvalu_BELLY_4	Tuvalu	tuva1244	tvl	BELLY	tinae	tinae	t i n a e	tinae	BELLY_4	FAL
 Anuta_BELLY_9	Anuta	anut1237	aud	BELLY	ma(a)nava	manava	m a n a v a	manava	BELLY_9	FALSE	Belly, stomach (Fbg)	POLLEX
 VaeakauTaumako_BELOW OR UNDER_1	Vaeakau-Taumako	pile1238	piv	BELOW OR UNDER	lalo	lalo	l a l o	lalo	BELOW OR UNDER_1	FALSE		Hovdhaugen-375-2009
 Wallisian_BELOW OR UNDER_1	Wallisian	wall1257	wls	BELOW OR UNDER	lalo	lalo	l a l o	lalo	BELOW OR UNDER_1	FALSE	Under, below	POLLEX
-Polynesian_BELOW OR UNDER_1	Proto-Polynesian	poly1242	nan	BELOW OR UNDER	*lalo	lalo	l a l o	lalo	BELOW OR UNDER_1	FALSE	PPn shows a replacement innovation. Probably a semantic shift, as suggested by PMic *lalo 'deep'	PawleyOC
 Maori_BELOW OR UNDER_1	Maori	maor1246	mri	BELOW OR UNDER	i raro	iraro	i r a r o	i_raro	BELOW OR UNDER_1	FALSE		Biggs-85-2005
 Kapingamarangi_BELOW OR UNDER_1	Kapingamarangi	kapi1249	kpg	BELOW OR UNDER	rara	rara	r a r a	rara	BELOW OR UNDER_1	FALSE		POLLEX
 Tahitian_BELOW OR UNDER_1	Tahitian	tahi1242	tah	BELOW OR UNDER	raro	raro	r a r o	raro	BELOW OR UNDER_1	FALSE		Clark-173-2005
@@ -767,7 +754,6 @@ Tuvalu_BELOW OR UNDER_1	Tuvalu	tuva1244	tvl	BELOW OR UNDER	lalo	lalo	l a l o	lal
 Anuta_BELOW OR UNDER_1	Anuta	anut1237	aud	BELOW OR UNDER	raro	raro	r a r o	raro	BELOW OR UNDER_1	FALSE	Below (Yen)	POLLEX
 VaeakauTaumako_BIG_12	Vaeakau-Taumako	pile1238	piv	BIG	thuabe	tʰuabe	tʰ u a b e	tʰuabe	BIG_12	FALSE		Hovdhaugen-375-2009
 Wallisian_BIG_3	Wallisian	wall1257	wls	BIG	lahi	lahi	l a h i	lahi	BIG_3	FALSE	Large	POLLEX
-Polynesian_BIG_3	Proto-Polynesian	poly1242	nan	BIG	*lasi	lasi	l a s i	lasi	BIG_3	FALSE	PPn show a replacement innovation.	PawleyOC
 Maori_BIG_2	Maori	maor1246	mri	BIG	nui	nui	n u i	nui	BIG_2	FALSE		Biggs-85-2005
 Kapingamarangi_BIG_1	Kapingamarangi	kapi1249	kpg	BIG	tamana	tamana	t a m a n a	tamana	BIG_1	FALSE		POLLEX
 Tahitian_BIG_3	Tahitian	tahi1242	tah	BIG	rahi	rahi	r a h i	rahi	BIG_3	FALSE		Clark-173-2005
@@ -811,7 +797,6 @@ Tuvalu_BIG_3	Tuvalu	tuva1244	tvl	BIG	lahi	lahi	l a h i	lahi	BIG_3	FALSE		29903
 Anuta_BIG_3	Anuta	anut1237	aud	BIG	rai	rai	r a i	rai	BIG_3	FALSE	Big (Yen)	POLLEX
 VaeakauTaumako_BIRD_1	Vaeakau-Taumako	pile1238	piv	BIRD	manumanu	manumanu	m a n u m a n u	manu+manu	BIRD_1	FALSE		Hovdhaugen-375-2009
 Wallisian_BIRD_1	Wallisian	wall1257	wls	BIRD	manu lele	manulele	m a n u l e l e	manu_lele	BIRD_1	FALSE	Bird	POLLEX
-Polynesian_BIRD_1	Proto-Polynesian	poly1242	nan	BIRD	*manu	manu	m a n u	manu	BIRD_1	FALSE	(+ *lele 'to fly')	PawleyOC
 Maori_BIRD_1	Maori	maor1246	mri	BIRD	manu	manu	m a n u	manu	BIRD_1	FALSE		Biggs-85-2005
 Kapingamarangi_BIRD_1	Kapingamarangi	kapi1249	kpg	BIRD	manu	manu	m a n u	manu	BIRD_1	FALSE	Bird	POLLEX
 Tahitian_BIRD_1	Tahitian	tahi1242	tah	BIRD	manu	manu	m a n u	manu	BIRD_1	FALSE		Clark-173-2005
@@ -843,7 +828,6 @@ Tuvalu_BIRD_1	Tuvalu	tuva1244	tvl	BIRD	manulele	manulele	m a n u l e l e	manu_le
 Anuta_BIRD_1	Anuta	anut1237	aud	BIRD	manu(manu)	manu	m a n u	manu	BIRD_1	FALSE	Animal (Fbg)	POLLEX
 VaeakauTaumako_BLACK_5	Vaeakau-Taumako	pile1238	piv	BLACK	uli	uli	u l i	uli	BLACK_5	FALSE		Hovdhaugen-375-2009
 Wallisian_BLACK_5	Wallisian	wall1257	wls	BLACK	'uli	ʔuli	ʔ u l i	ʔuli	BLACK_5	FALSE	Black, dark	POLLEX
-Polynesian_BLACK_5	Proto-Polynesian	poly1242	nan	BLACK	*quli(-quli)	ʔuli	ʔ u l i	ʔuli	BLACK_5	FALSE	PPn shows a replacement innovation.	PawleyOC
 Maori_BLACK_6	Maori	maor1246	mri	BLACK	mangu	maŋu	m a ŋ u	maŋu	BLACK_6	FALSE		Biggs-85-2005
 Kapingamarangi_BLACK_5	Kapingamarangi	kapi1249	kpg	BLACK	uli	uli	u l i	uli	BLACK_5	FALSE	Used in compounds and idioms (Lbr)	POLLEX
 Tahitian_BLACK_1	Tahitian	tahi1242	tah	BLACK	'ere'ere	ʔereʔere	ʔ e r e ʔ e r e	ʔereʔere	BLACK_1	FALSE		Clark-173-2005
@@ -880,7 +864,6 @@ Tuvalu_BLACK_5	Tuvalu	tuva1244	tvl	BLACK	uli	uli	u l i	uli	BLACK_5	FALSE		29903
 Anuta_BLACK_5	Anuta	anut1237	aud	BLACK	uri	uri	u r i	uri	BLACK_5	FALSE	Black (Yen)	POLLEX
 VaeakauTaumako_BLOOD_1	Vaeakau-Taumako	pile1238	piv	BLOOD	toto	toto	t o t o	toto	BLOOD_1	FALSE		Hovdhaugen-375-2009
 Wallisian_BLOOD_1	Wallisian	wall1257	wls	BLOOD	toto	toto	t o t o	toto	BLOOD_1	FALSE	Blood	POLLEX
-Polynesian_BLOOD_1	Proto-Polynesian	poly1242	nan	BLOOD	*toto	toto	t o t o	toto	BLOOD_1	FALSE	PPn shows lexical replacement. POc *toto 'sap of plants' is reconstructable	PawleyOC
 Maori_BLOOD_1	Maori	maor1246	mri	BLOOD	toto	toto	t o t o	toto	BLOOD_1	FALSE		Biggs-85-2005
 Kapingamarangi_BLOOD_1	Kapingamarangi	kapi1249	kpg	BLOOD	dodo	dodo	d o d o	dodo	BLOOD_1	FALSE	Blood (Lbr)	POLLEX
 Tahitian_BLOOD_1	Tahitian	tahi1242	tah	BLOOD	toto	toto	t o t o	toto	BLOOD_1	FALSE		Clark-173-2005
@@ -912,7 +895,6 @@ Tuvalu_BLOOD_1	Tuvalu	tuva1244	tvl	BLOOD	toto	toto	t o t o	toto	BLOOD_1	FALSE		2
 Anuta_BLOOD_1	Anuta	anut1237	aud	BLOOD	toto	toto	t o t o	toto	BLOOD_1	FALSE	Blood (Yen)	POLLEX
 VaeakauTaumako_BONE_1	Vaeakau-Taumako	pile1238	piv	BONE	ivi	ivi	i v i	ivi	BONE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_BONE_1	Wallisian	wall1257	wls	BONE	hui	hui	h u i	hui	BONE_1	FALSE	<Hui. :Os (Btn) B.>.	POLLEX
-Polynesian_BONE_1	Proto-Polynesian	poly1242	nan	BONE	*hui	hui	h u i	hui	BONE_1	FALSE		PawleyOC
 Maori_BONE_1	Maori	maor1246	mri	BONE	iwi	iwi	i w i	iwi	BONE_1	FALSE		Biggs-85-2005
 Kapingamarangi_BONE_1	Kapingamarangi	kapi1249	kpg	BONE	iwi	iwi	i w i	iwi	BONE_1	FALSE	Bone	POLLEX
 Tahitian_BONE_1	Tahitian	tahi1242	tah	BONE	ivi	ivi	i v i	ivi	BONE_1	FALSE		Clark-173-2005
@@ -947,7 +929,6 @@ VaeakauTaumako_BRANCH_1	Vaeakau-Taumako	pile1238	piv	BRANCH	laalakau	laalakau	l 
 VaeakauTaumako_BRANCH_1	Vaeakau-Taumako	pile1238	piv	BRANCH	laa	laa	l a a	laː	BRANCH_1	FALSE		Hovdhaugen-375-2009
 Wallisian_BRANCH_1	Wallisian	wall1257	wls	BRANCH	àkau	ʔakau	ʔ a k a u	ʔa+kau	BRANCH_1	TRUE	Tree, plant, wood (Btn) B. [<]	POLLEX
 Wallisian_BRANCH_1	Wallisian	wall1257	wls	BRANCH	vaà	vaʔa	v a ʔ a	vaʔa	BRANCH_1	TRUE	Branch (Rch) B. [<]	POLLEX
-Polynesian_BRANCH_1	Proto-Polynesian	poly1242	nan	BRANCH	*laqa(-laqa)	laʔa	l a ʔ a	laʔa	BRANCH_1	FALSE	'small branch(es)'	PawleyOC
 Maori_BRANCH_2	Maori	maor1246	mri	BRANCH	manga	maŋa	m a ŋ a	maŋa	BRANCH_2	FALSE		Biggs-85-2005
 Kapingamarangi_BRANCH_1	Kapingamarangi	kapi1249	kpg	BRANCH	rakau	rakau	r a k a u	ra+kau	BRANCH_1	FALSE	Tree, stick, cross, (Plumeria rubra) (Ebt)	POLLEX
 Tahitian_BRANCH_2	Tahitian	tahi1242	tah	BRANCH	'aama'a	ʔaamaʔa	ʔ a a m a ʔ a	ʔaːmaʔa	BRANCH_2	FALSE		Clark-173-2005
@@ -983,7 +964,6 @@ Anuta_BRANCH_1	Anuta	anut1237	aud	BRANCH	raakau	raakau	r a a k a u	raː+kau	BRAN
 Anuta_BRANCH_1	Anuta	anut1237	aud	BRANCH	rara	rara	r a r a	ra+ra	BRANCH_1	FALSE	Small branch (Fbg)	POLLEX
 VaeakauTaumako_BREAST_5	Vaeakau-Taumako	pile1238	piv	BREAST	hatahata	hatahata	h a t a h a t a	hata+hata	BREAST_5	FALSE		Hovdhaugen-375-2009
 Wallisian_BREAST_1	Wallisian	wall1257	wls	BREAST	huhu	huhu	h u h u	hu+hu	BREAST_1	TRUE	Breast [<]	POLLEX
-Polynesian_BREAST_1	Proto-Polynesian	poly1242	nan	BREAST	*susu or *huhu	susu	s u s u	su+su	BREAST_1	FALSE	also milk	PawleyOC
 Maori_BREAST_1	Maori	maor1246	mri	BREAST	uu	uu	u u	uː	BREAST_1	FALSE		Biggs-85-2005
 Kapingamarangi_BREAST_1	Kapingamarangi	kapi1249	kpg	BREAST	uu	uu	u u	uː	BREAST_1	FALSE	Breast (Lbr)	POLLEX
 Tahitian_BREAST_7	Tahitian	tahi1242	tah	BREAST	tiitii	tiitiiːti	t i i t i iː t i	tiːtiː	BREAST_7	FALSE		Clark-173-2005
@@ -1022,7 +1002,6 @@ Anuta_BREAST_1	Anuta	anut1237	aud	BREAST	uu	uu	u u	uː	BREAST_1	FALSE	Breast (Fb
 VaeakauTaumako_CHILD_2	Vaeakau-Taumako	pile1238	piv	CHILD	memea	memea	m e m e a	memea	CHILD_2	FALSE		Hovdhaugen-375-2009
 Wallisian_CHILD_6	Wallisian	wall1257	wls	CHILD	tamasiì	tamasiʔi	t a m a s i ʔ i	tama+siʔi	CHILD_6	TRUE	Child (Btn) [<]	POLLEX
 Wallisian_CHILD_6	Wallisian	wall1257	wls	CHILD	tamaliki	tamaliki	t a m a l i k i	tama+liki	CHILD_6	FALSE	Children (Rch)	POLLEX
-Polynesian_CHILD_6	Proto-Polynesian	poly1242	nan	CHILD	*tama	tama	t a m a	tama	CHILD_6	FALSE	'child, son' PPn *tamaqiti, poss. singular,	PawleyOC
 Maori_CHILD_6	Maori	maor1246	mri	CHILD	tamaiti	tamaiti	t a m a i t i	tama+iti	CHILD_6	FALSE		Biggs-85-2005
 Kapingamarangi_CHILD_6	Kapingamarangi	kapi1249	kpg	CHILD	dama lligi	damalliɡi	d a m a l l i ɡ i	dama_lligi	CHILD_6	FALSE	Young children (Lbr)	POLLEX
 Kapingamarangi_CHILD_6	Kapingamarangi	kapi1249	kpg	CHILD	tama	tama	t a m a	tama	CHILD_6	FALSE	Child	POLLEX
@@ -1063,7 +1042,6 @@ Tuvalu_CHILD_6	Tuvalu	tuva1244	tvl	CHILD	tama	tama	t a m a	tama	CHILD_6	FALSE		2
 Anuta_CHILD_6	Anuta	anut1237	aud	CHILD	tamati	tamati	t a m a t i	tama+ti	CHILD_6	TRUE	Child (Fbg) B. [<]	POLLEX
 VaeakauTaumako_CLOUD_1	Vaeakau-Taumako	pile1238	piv	CLOUD	meluao	meluao	m e l u a o	melu+ao	CLOUD_1	FALSE		Hovdhaugen-375-2009
 Wallisian_CLOUD_1	Wallisian	wall1257	wls	CLOUD	ào	ʔao	ʔ a o	ʔao	CLOUD_1	FALSE	Cloud	POLLEX
-Polynesian_CLOUD_1	Proto-Polynesian	poly1242	nan	CLOUD	*qao	ʔao	ʔ a o	ʔao	CLOUD_1	FALSE	Probable lexical replacement in PCP/PPn.	PawleyOC
 Maori_CLOUD_1	Maori	maor1246	mri	CLOUD	kapua	kapua	k a p u a	kapua	CLOUD_1	FALSE		Biggs-85-2005
 Kapingamarangi_CLOUD_8	Kapingamarangi	kapi1249	kpg	CLOUD	kororangi	kororaŋi	k o r o r a ŋ i	koro+raŋi	CLOUD_8	FALSE		POLLEX
 Tahitian_CLOUD_2	Tahitian	tahi1242	tah	CLOUD	ata	ata	a t a	ata	CLOUD_2	FALSE		Clark-173-2005
@@ -1099,7 +1077,6 @@ Tuvalu_CLOUD_13	Tuvalu	tuva1244	tvl	CLOUD	kaumana	kaumana	k a u m a n a	kau+mana
 Anuta_CLOUD_1	Anuta	anut1237	aud	CLOUD	ao	ao	a o	ao	CLOUD_1	FALSE	Cloud (Fbg)	POLLEX
 VaeakauTaumako_COLD_1	Vaeakau-Taumako	pile1238	piv	COLD	maliki	maliki	m a l i k i	ma+liki	COLD_1	FALSE		Hovdhaugen-375-2009
 Wallisian_COLD_1	Wallisian	wall1257	wls	COLD	makalili	makalili	m a k a l i l i	maka+lili	COLD_1	FALSE	Chilly	POLLEX
-Polynesian_COLD_1	Proto-Polynesian	poly1242	nan	COLD	*makalili	makalili	m a k a l i l i	maka+lili	COLD_1	FALSE		PawleyOC
 Maori_COLD_1	Maori	maor1246	mri	COLD	makariri	makariri	m a k a r i r i	maka+riri	COLD_1	FALSE		Biggs-85-2005
 Kapingamarangi_COLD_1	Kapingamarangi	kapi1249	kpg	COLD	makariri	makariri	m a k a r i r i	maka+riri	COLD_1	FALSE	Cold	POLLEX
 Tahitian_COLD_5	Tahitian	tahi1242	tah	COLD	to'eto'e	toʔetoʔe	t o ʔ e t o ʔ e	toʔe+toʔe	COLD_5	FALSE		Clark-173-2005
@@ -1185,7 +1162,6 @@ Anuta_CORRECT (RIGHT)_13	Anuta	anut1237	aud	CORRECT (RIGHT)	tonu	tonu	t o n u	to
 VaeakauTaumako_DAY (NOT NIGHT)_4	Vaeakau-Taumako	pile1238	piv	DAY (NOT NIGHT)	langi	laŋi	l a ŋ i	laŋi	DAY (NOT NIGHT)_4	FALSE		Hovdhaugen-375-2009
 Wallisian_DAY (NOT NIGHT)_1	Wallisian	wall1257	wls	DAY (NOT NIGHT)	àho	ʔaho	ʔ a h o	ʔaho	DAY (NOT NIGHT)_1	FALSE	Day	POLLEX
 Wallisian_DAY (NOT NIGHT)_3	Wallisian	wall1257	wls	DAY (NOT NIGHT)	àho	ʔaho	ʔ a h o	ʔaho	DAY (NOT NIGHT)_3	TRUE	Day, not night B. [<]	POLLEX
-Polynesian_DAY (NOT NIGHT)_4	Proto-Polynesian	poly1242	nan	DAY (NOT NIGHT)	*raqani	raʔani	r a ʔ a n i	raʔani	DAY (NOT NIGHT)_4	FALSE		PawleyOC
 Maori_DAY (NOT NIGHT)_6	Maori	maor1246	mri	DAY (NOT NIGHT)	raa	raa	r a a	raː	DAY (NOT NIGHT)_6	FALSE	(period)	Biggs-85-2005
 Maori_DAY (NOT NIGHT)_1	Maori	maor1246	mri	DAY (NOT NIGHT)	ao	ao	a o	ao	DAY (NOT NIGHT)_1	FALSE	(not night)	Biggs-85-2005
 Kapingamarangi_DAY (NOT NIGHT)_4	Kapingamarangi	kapi1249	kpg	DAY (NOT NIGHT)	raani	raani	r a a n i	raːni	DAY (NOT NIGHT)_4	FALSE		POLLEX
@@ -1228,7 +1204,6 @@ VaeakauTaumako_DIRTY_10	Vaeakau-Taumako	pile1238	piv	DIRTY	pelapela	pelapela	p e
 VaeakauTaumako_DIRTY_6	Vaeakau-Taumako	pile1238	piv	DIRTY	paku	paku	p a k u	paku	DIRTY_6	FALSE		Hovdhaugen-375-2009
 Wallisian_DIRTY_10	Wallisian	wall1257	wls	DIRTY	palapala	palapala	p a l a p a l a	pala+pala	DIRTY_10	FALSE	Wet (as soiled clothing)	POLLEX
 Wallisian_DIRTY_7	Wallisian	wall1257	wls	DIRTY	liko	liko	l i k o	liko	DIRTY_7	FALSE	Dirty (Btn); This is actually a very relevant  item that has cognates in other PN languages that just are not represented in this list. - MW	POLLEX
-Polynesian_DIRTY_1	Proto-Polynesian	poly1242	nan	DIRTY	*kelekele	kelekele	k e l e k e l e	kele+kele	DIRTY_1	FALSE	This is reconstructed for 'black' or 'dark', not for 'dirty' -MW	PawleyOC
 Maori_DIRTY_10	Maori	maor1246	mri	DIRTY	paru	paru	p a r u	paru	DIRTY_10	FALSE		Biggs-85-2005
 Kapingamarangi_DIRTY_2	Kapingamarangi	kapi1249	kpg	DIRTY	tokoria	tokoria	t o k o r i a	toko+ria	DIRTY_2	FALSE		POLLEX
 Tahitian_DIRTY_12	Tahitian	tahi1242	tah	DIRTY	repo	repo	r e p o	repo	DIRTY_12	FALSE		Clark-173-2005
@@ -1305,7 +1280,6 @@ VaeakauTaumako_DRY_6	Vaeakau-Taumako	pile1238	piv	DRY	mathuu	matʰuː	m a tʰ u�
 VaeakauTaumako_DRY_1	Vaeakau-Taumako	pile1238	piv	DRY	mangoa	maŋoa	m a ŋ o a	maŋoa	DRY_1	FALSE		Hovdhaugen-375-2009
 Wallisian_DRY_4	Wallisian	wall1257	wls	DRY	malo	malo	m a l o	malo	DRY_4	FALSE	Seche (Btn)	POLLEX
 Wallisian_DRY_2	Wallisian	wall1257	wls	DRY	maha	maha	m a h a	maha	DRY_2	FALSE	Empty, dry	POLLEX
-Polynesian_DRY_6	Proto-Polynesian	poly1242	nan	DRY	*matuqu	matuʔu	m a t u ʔ u	matuʔu	DRY_6	FALSE		PawleyOC
 Maori_DRY_4	Maori	maor1246	mri	DRY	maroke	maroke	m a r o k e	maro+ke	DRY_4	FALSE		Biggs-85-2005
 Kapingamarangi_DRY_1	Kapingamarangi	kapi1249	kpg	DRY	mango	maŋo	m a ŋ o	maŋo	DRY_1	FALSE		POLLEX
 Tahitian_DRY_4	Tahitian	tahi1242	tah	DRY	maroo	maroo	m a r o o	maroː	DRY_4	FALSE		Clark-173-2005
@@ -1344,9 +1318,6 @@ RennellBellona_DRY_1	RennellBellona	renn1242	mnv	DRY	maamala	maamala	m a a m a l
 Tuvalu_DRY_7	Tuvalu	tuva1244	tvl	DRY	tauaki	tauaki	t a u a k i	tauaki	DRY_7	FALSE	to dry in the sun	29903
 Anuta_DRY_5	Anuta	anut1237	aud	DRY	pakupaku	pakupaku	p a k u p a k u	paku+paku	DRY_5	FALSE	dry	POLLEX
 VaeakauTaumako_BLUNT_7	Vaeakau-Taumako	pile1238	piv	BLUNT	fuŋu	fuŋu	f u ŋ u	fuŋu	BLUNT_7	FALSE	blunt	Hovdhaugen-375-2009
-Polynesian_BLUNT_1	Proto-Polynesian	poly1242	nan	BLUNT	?*putu	putu	p u t u	putu	BLUNT_1	FALSE	For PMP Blust (1993) gives both *dumpul and *pudul.  From the latter he derives POc *(b,p)urul.  From the former one would expect POc *ru(b,p)ul. There is no standout candidate for PPn or PCP. Geraghty 1983 proposes PEOc *pusuki.	PawleyOC
-Polynesian_BLUNT_5	Proto-Polynesian	poly1242	nan	BLUNT	*penu	penu	p e n u	penu	BLUNT_5	FALSE		PawleyOC
-Polynesian_BLUNT_14	Proto-Polynesian	poly1242	nan	BLUNT	*paku	paku	p a k u	paku	BLUNT_14	FALSE		PawleyOC
 Maori_BLUNT_8	Maori	maor1246	mri	BLUNT	puuhuki	puuhuki	p u u h u k i	puː+huki	BLUNT_8	FALSE		Biggs-85-2005
 Kapingamarangi_BLUNT_3	Kapingamarangi	kapi1249	kpg	BLUNT	mariri	mariri	m a r i r i	mariri	BLUNT_3	FALSE		POLLEX
 Tahitian_BLUNT_4	Tahitian	tahi1242	tah	BLUNT	mania	mania	m a n i a	mania	BLUNT_4	FALSE		Clark-173-2005
@@ -1375,7 +1346,6 @@ RennellBellona_BLUNT_13	RennellBellona	renn1242	mnv	BLUNT	paluɣa	paluɣa	p a l 
 Anuta_BLUNT_5	Anuta	anut1237	aud	BLUNT	pengu	peŋu	p e ŋ u	peŋu	BLUNT_5	FALSE	Dull, not sharp (e.g. of a knife) (Fbg)	POLLEX
 VaeakauTaumako_DUST_1	Vaeakau-Taumako	pile1238	piv	DUST	ehu	ehu	e h u	ehu	DUST_1	FALSE		Hovdhaugen-375-2009
 Wallisian_DUST_1	Wallisian	wall1257	wls	DUST	efu	efu	e f u	efu	DUST_1	FALSE	Poussier, boue seche	POLLEX
-Polynesian_DUST_1	Proto-Polynesian	poly1242	nan	DUST	*efu	efu	e f u	efu	DUST_1	FALSE		PawleyOC
 Maori_DUST_1	Maori	maor1246	mri	DUST	puehu	puehu	p u e h u	pu+ehu	DUST_1	FALSE		Biggs-85-2005
 Kapingamarangi_DUST_2	Kapingamarangi	kapi1249	kpg	DUST	bopobo	bopobo	b o p o b o	bopobo	DUST_2	FALSE		POLLEX
 Tahitian_DUST_1	Tahitian	tahi1242	tah	DUST	repo puehu	repopuehu	r e p o p u e h u	repo_pu+ehu	DUST_1	FALSE	repo puehu (scattered dirt)	Clark-173-2005
@@ -1411,7 +1381,6 @@ Tuvalu_DUST_1	Tuvalu	tuva1244	tvl	DUST	paefu	paefu	p a e f u	pa+efu	DUST_1	FALSE
 Anuta_DUST_6	Anuta	anut1237	aud	DUST	kokopu	kokopu	k o k o p u	ko+kopu	DUST_6	FALSE	dust	POLLEX
 VaeakauTaumako_EAR_1	Vaeakau-Taumako	pile1238	piv	EAR	talinga	taliŋa	t a l i ŋ a	taliŋa	EAR_1	FALSE		Hovdhaugen-375-2009
 Wallisian_EAR_1	Wallisian	wall1257	wls	EAR	taliga	taliɡa	t a l i ɡ a	taliga	EAR_1	FALSE	Ear (Bgs)	POLLEX
-Polynesian_EAR_1	Proto-Polynesian	poly1242	nan	EAR	*taliŋa	taliŋa	t a l i ŋ a	taliŋa	EAR_1	FALSE		PawleyOC
 Maori_EAR_1	Maori	maor1246	mri	EAR	taringa	tariŋa	t a r i ŋ a	tariŋa	EAR_1	FALSE		Biggs-85-2005
 Kapingamarangi_EAR_1	Kapingamarangi	kapi1249	kpg	EAR	dalinga	daliŋa	d a l i ŋ a	daliŋa	EAR_1	FALSE	Ear (Lbr)	POLLEX
 Tahitian_EAR_1	Tahitian	tahi1242	tah	EAR	tari'a	tariʔa	t a r i ʔ a	tariʔa	EAR_1	FALSE		Clark-173-2005
@@ -1443,7 +1412,6 @@ Anuta_EAR_1	Anuta	anut1237	aud	EAR	tariŋa	tariŋa	t a r i ŋ a	tariŋa	EAR_1	FA
 VaeakauTaumako_EARTH (SOIL)_3	Vaeakau-Taumako	pile1238	piv	EARTH (SOIL)	pela	pela	p e l a	pela	EARTH (SOIL)_3	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_EARTH (SOIL)_4	Vaeakau-Taumako	pile1238	piv	EARTH (SOIL)	tuaone	tuaone	t u a o n e	tua+one	EARTH (SOIL)_4	FALSE	Sand? (POc *qone)	Hovdhaugen-375-2009
 Wallisian_EARTH (SOIL)_1	Wallisian	wall1257	wls	EARTH (SOIL)	kele/kele	kele	k e l e	kele	EARTH (SOIL)_1	FALSE	Dirty	POLLEX
-Polynesian_EARTH (SOIL)_1	Proto-Polynesian	poly1242	nan	EARTH (SOIL)	*kele	kele	k e l e	kele	EARTH (SOIL)_1	FALSE		PawleyOC
 Maori_EARTH (SOIL)_1	Maori	maor1246	mri	EARTH (SOIL)	kere-	kere	k e r e	kere	EARTH (SOIL)_1	FALSE	Earth (in compounds only).	Biggs-85-2005
 Maori_EARTH (SOIL)_2	Maori	maor1246	mri	EARTH (SOIL)	repo	repo	r e p o	repo	EARTH (SOIL)_2	FALSE	Dirt	Biggs-85-2005
 Maori_EARTH (SOIL)_4	Maori	maor1246	mri	EARTH (SOIL)	oneone	oneone	o n e o n e	one+one	EARTH (SOIL)_4	FALSE	Sand? (POc *qone)	Biggs-85-2005
@@ -1508,7 +1476,6 @@ Tuvalu_EGG_6	Tuvalu	tuva1244	tvl	EGG	fua	fua	f u a	fua	EGG_6	FALSE		29903
 Anuta_EGG_6	Anuta	anut1237	aud	EGG	puai	puai	p u a i	puai	EGG_6	FALSE	egg	POLLEX
 VaeakauTaumako_EYE_1	Vaeakau-Taumako	pile1238	piv	EYE	mata	mata	m a t a	mata	EYE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_EYE_1	Wallisian	wall1257	wls	EYE	mata	mata	m a t a	mata	EYE_1	FALSE		POLLEX
-Polynesian_EYE_1	Proto-Polynesian	poly1242	nan	EYE	*mata	mata	m a t a	mata	EYE_1	FALSE		PawleyOC
 Maori_EYE_1	Maori	maor1246	mri	EYE	mata	mata	m a t a	mata	EYE_1	FALSE		Biggs-85-2005
 Kapingamarangi_EYE_1	Kapingamarangi	kapi1249	kpg	EYE	mata	mata	m a t a	mata	EYE_1	FALSE	Face, eye (Ebt)	POLLEX
 Tahitian_EYE_1	Tahitian	tahi1242	tah	EYE	mata	mata	m a t a	mata	EYE_1	FALSE		Clark-173-2005
@@ -1543,7 +1510,6 @@ Anuta_EYE_1	Anuta	anut1237	aud	EYE	mata	mata	m a t a	mata	EYE_1	FALSE	Eye	POLLEX
 VaeakauTaumako_FAR_2	Vaeakau-Taumako	pile1238	piv	FAR	mao	mao	m a o	mao	FAR_2	FALSE		Hovdhaugen-375-2009
 Wallisian_FAR_1	Wallisian	wall1257	wls	FAR	tau mama'o	taumamaʔo	t a u m a m a ʔ o	tau_mamaʔo	FAR_1	FALSE	Profond, eloigne, distant (Btn)	POLLEX
 Wallisian_FAR_2	Wallisian	wall1257	wls	FAR	mama'o	mamaʔo	m a m a ʔ o	ma+maʔo	FAR_2	FALSE	Distant, far off	POLLEX
-Polynesian_FAR_2	Proto-Polynesian	poly1242	nan	FAR	*mamaqo	mamaʔo	m a m a ʔ o	ma+maʔo	FAR_2	FALSE	PPn shows lexical replacement.	PawleyOC
 Maori_FAR_9	Maori	maor1246	mri	FAR	tawhiti	tafiti	t a f i t i	ta+fiti	FAR_9	FALSE		Biggs-85-2005
 Kapingamarangi_FAR_3	Kapingamarangi	kapi1249	kpg	FAR	mokoa	mokoa	m o k o a	mokoa	FAR_3	FALSE		POLLEX
 Tahitian_FAR_4	Tahitian	tahi1242	tah	FAR	aatea	aatea	a a t e a	aːtea	FAR_4	FALSE		Clark-173-2005
@@ -1575,7 +1541,6 @@ Tuvalu_FAR_2	Tuvalu	tuva1244	tvl	FAR	mamao	mamao	m a m a o	ma+mao	FAR_2	FALSE		2
 Anuta_FAR_2	Anuta	anut1237	aud	FAR	mamao	mamao	m a m a o	ma+mao	FAR_2	FALSE	far	POLLEX
 VaeakauTaumako_FAT (ORGANIC SUBSTANCE)_10	Vaeakau-Taumako	pile1238	piv	FAT (ORGANIC SUBSTANCE)	utouto	utouto	u t o u t o	uto+uto	FAT (ORGANIC SUBSTANCE)_10	FALSE		Hovdhaugen-375-2009
 Wallisian_FAT (ORGANIC SUBSTANCE)_3	Wallisian	wall1257	wls	FAT (ORGANIC SUBSTANCE)	huni	huni	h u n i	huni	FAT (ORGANIC SUBSTANCE)_3	TRUE	Huile cuite avec des pierres rougies au feu (Btn) B. [<]	POLLEX
-Polynesian_FAT (ORGANIC SUBSTANCE)_1	Proto-Polynesian	poly1242	nan	FAT (ORGANIC SUBSTANCE)	*momona	momona	m o m o n a	mo+mona	FAT (ORGANIC SUBSTANCE)_1	FALSE	'rich fatty flesh,	PawleyOC
 Maori_FAT (ORGANIC SUBSTANCE)_5	Maori	maor1246	mri	FAT (ORGANIC SUBSTANCE)	ngako	ŋako	ŋ a k o	ŋako	FAT (ORGANIC SUBSTANCE)_5	FALSE		Biggs-85-2005
 Kapingamarangi_FAT (ORGANIC SUBSTANCE)_2	Kapingamarangi	kapi1249	kpg	FAT (ORGANIC SUBSTANCE)	kiris	kiris	k i r i s	kiris	FAT (ORGANIC SUBSTANCE)_2	TRUE	Loan - English 'Grease'	POLLEX
 Tahitian_FAT (ORGANIC SUBSTANCE)_4	Tahitian	tahi1242	tah	FAT (ORGANIC SUBSTANCE)	mi'i	miʔi	m i ʔ i	miʔi	FAT (ORGANIC SUBSTANCE)_4	FALSE		Clark-173-2005
@@ -1613,7 +1578,6 @@ Tuvalu_FAT (ORGANIC SUBSTANCE)_5	Tuvalu	tuva1244	tvl	FAT (ORGANIC SUBSTANCE)	gak
 Anuta_FAT (ORGANIC SUBSTANCE)_1	Anuta	anut1237	aud	FAT (ORGANIC SUBSTANCE)	momona	momona	m o m o n a	mo+mona	FAT (ORGANIC SUBSTANCE)_1	FALSE	fat/grease	POLLEX
 VaeakauTaumako_FATHER_1	Vaeakau-Taumako	pile1238	piv	FATHER	mha-	mha	m h a	mha	FATHER_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FATHER_1	Wallisian	wall1257	wls	FATHER	tamai	tamai	t a m a i	tama+i	FATHER_1	TRUE	Father B. [<]	POLLEX
-Polynesian_FATHER_1	Proto-Polynesian	poly1242	nan	FATHER	*tamana	tamana	t a m a n a	tama+na	FATHER_1	FALSE		PawleyOC
 Maori_FATHER_1	Maori	maor1246	mri	FATHER	matua	matua	m a t u a	matua	FATHER_1	FALSE		Biggs-85-2005
 Kapingamarangi_FATHER_1	Kapingamarangi	kapi1249	kpg	FATHER	dama/na	dama	d a m a	dama	FATHER_1	FALSE	Father, uncle (Lbr)	POLLEX
 Tahitian_FATHER_1	Tahitian	tahi1242	tah	FATHER	metua taane	metuataane	m e t u a t a a n e	metua_taːne	FATHER_1	FALSE		Clark-173-2005
@@ -1648,7 +1612,6 @@ RennellBellona_FATHER_1	RennellBellona	renn1242	mnv	FATHER	tama/u	tama	t a m a	t
 Anuta_FATHER_1	Anuta	anut1237	aud	FATHER	tama/na	tama	t a m a	tama	FATHER_1	FALSE	Father (Fbg)	POLLEX
 VaeakauTaumako_FEATHER_1	Vaeakau-Taumako	pile1238	piv	FEATHER	hulu	hulu	h u l u	hulu	FEATHER_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FEATHER_3	Wallisian	wall1257	wls	FEATHER	palaa	palaa	p a l a a	palaː	FEATHER_3	FALSE	Grande plume de paille en queue ou de coq (Btn)	POLLEX
-Polynesian_FEATHER_1	Proto-Polynesian	poly1242	nan	FEATHER	*fulu-fulu	fulufulu	f u l u f u l u	fulu+fulu	FEATHER_1	FALSE		PawleyOC
 Maori_FEATHER_1	Maori	maor1246	mri	FEATHER	huru-manu	hurumanu	h u r u m a n u	huru+manu	FEATHER_1	FALSE		Biggs-85-2005
 Kapingamarangi_FEATHER_1	Kapingamarangi	kapi1249	kpg	FEATHER	ngahuru	ŋahuru	ŋ a h u r u	ŋa+huru	FEATHER_1	FALSE		POLLEX
 Tahitian_FEATHER_1	Tahitian	tahi1242	tah	FEATHER	huruhuru	huruhuru	h u r u h u r u	huru+huru	FEATHER_1	FALSE		Clark-173-2005
@@ -1680,7 +1643,6 @@ Tuvalu_FEATHER_1	Tuvalu	tuva1244	tvl	FEATHER	fulu	fulu	f u l u	fulu	FEATHER_1	FA
 Anuta_FEATHER_1	Anuta	anut1237	aud	FEATHER	puru	puru	p u r u	puru	FEATHER_1	FALSE	feather	POLLEX
 VaeakauTaumako_FIRE_3	Vaeakau-Taumako	pile1238	piv	FIRE	keu	keu	k e u	keu	FIRE_3	FALSE		Hovdhaugen-375-2009
 Wallisian_FIRE_1	Wallisian	wall1257	wls	FIRE	afi	afi	a f i	afi	FIRE_1	FALSE	Feu (Rch)	POLLEX
-Polynesian_FIRE_1	Proto-Polynesian	poly1242	nan	FIRE	*afi	afi	a f i	afi	FIRE_1	FALSE		PawleyOC
 Maori_FIRE_1	Maori	maor1246	mri	FIRE	ahi	ahi	a h i	ahi	FIRE_1	FALSE		Biggs-85-2005
 Kapingamarangi_FIRE_1	Kapingamarangi	kapi1249	kpg	FIRE	ahi	ahi	a h i	ahi	FIRE_1	FALSE	Fire (Lbr)	POLLEX
 Tahitian_FIRE_1	Tahitian	tahi1242	tah	FIRE	auahi	auahi	a u a h i	au+ahi	FIRE_1	FALSE		Clark-173-2005
@@ -1712,7 +1674,6 @@ Tuvalu_FIRE_1	Tuvalu	tuva1244	tvl	FIRE	afi	afi	a f i	afi	FIRE_1	FALSE		29903
 Anuta_FIRE_1	Anuta	anut1237	aud	FIRE	api	api	a p i	api	FIRE_1	FALSE	Fire (Yen)	POLLEX
 VaeakauTaumako_FISH_1	Vaeakau-Taumako	pile1238	piv	FISH	ika	ika	i k a	ika	FISH_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FISH_1	Wallisian	wall1257	wls	FISH	ika	ika	i k a	ika	FISH_1	FALSE	Fish n	POLLEX
-Polynesian_FISH_1	Proto-Polynesian	poly1242	nan	FISH	*ika	ika	i k a	ika	FISH_1	FALSE		PawleyOC
 Maori_FISH_1	Maori	maor1246	mri	FISH	ika	ika	i k a	ika	FISH_1	FALSE		Biggs-85-2005
 Kapingamarangi_FISH_1	Kapingamarangi	kapi1249	kpg	FISH	iga	iɡa	i ɡ a	iga	FISH_1	FALSE	Fish (Lbr)	POLLEX
 Tahitian_FISH_1	Tahitian	tahi1242	tah	FISH	i'a	iʔa	i ʔ a	iʔa	FISH_1	FALSE		Clark-173-2005
@@ -1743,7 +1704,6 @@ Tuvalu_FISH_1	Tuvalu	tuva1244	tvl	FISH	ika	ika	i k a	ika	FISH_1	FALSE		29903
 Anuta_FISH_1	Anuta	anut1237	aud	FISH	ika	ika	i k a	ika	FISH_1	FALSE	Fish n	POLLEX
 VaeakauTaumako_FLOWER_2	Vaeakau-Taumako	pile1238	piv	FLOWER	imea	imea	i m e a	imea	FLOWER_2	FALSE		Hovdhaugen-375-2009
 Wallisian_FLOWER_8	Wallisian	wall1257	wls	FLOWER	fisi	fisi	f i s i	fisi	FLOWER_8	FALSE	Fleur	POLLEX
-Polynesian_FLOWER_1	Proto-Polynesian	poly1242	nan	FLOWER	*fuŋa	fuŋa	f u ŋ a	fuŋa	FLOWER_1	FALSE		PawleyOC
 Maori_FLOWER_1	Maori	maor1246	mri	FLOWER	puaawai	puaawai	p u a a w a i	puaː+wai	FLOWER_1	FALSE		Biggs-85-2005
 Kapingamarangi_FLOWER_4	Kapingamarangi	kapi1249	kpg	FLOWER	akai	akai	a k a i	akai	FLOWER_4	FALSE		POLLEX
 Tahitian_FLOWER_7	Tahitian	tahi1242	tah	FLOWER	taire	tiare	t i a r e	tiare	FLOWER_7	FALSE	tiare	Clark-173-2005
@@ -1777,7 +1737,6 @@ Tuvalu_FLOWER_3	Tuvalu	tuva1244	tvl	FLOWER	pula	pula	p u l a	pula	FLOWER_3	FALSE
 Anuta_FLOWER_1	Anuta	anut1237	aud	FLOWER	pua	pua	p u a	pua	FLOWER_1	FALSE	Pollex 06: Pua. :Flower (Yen).	POLLEX
 VaeakauTaumako_FOG_5	Vaeakau-Taumako	pile1238	piv	FOG	nehu	nehu	n e h u	nehu	FOG_5	FALSE		Hovdhaugen-375-2009
 Wallisian_FOG_1	Wallisian	wall1257	wls	FOG	kokofu	kokofu	k o k o f u	ko+kofu	FOG_1	FALSE		POLLEX
-Polynesian_FOG_1	Proto-Polynesian	poly1242	nan	FOG	*kofu	kofu	k o f u	kofu	FOG_1	FALSE		PawleyOC
 Maori_FOG_1	Maori	maor1246	mri	FOG	kohu	kohu	k o h u	kohu	FOG_1	FALSE		Biggs-85-2005
 Tahitian_FOG_3	Tahitian	tahi1242	tah	FOG	ruupehu	ruupehu	r u u p e h u	ruːpehu	FOG_3	FALSE		Clark-173-2005
 Emae_FOG_5	Emae	emae1237	mmw	FOG	ne-funefu	nefunefu	n e f u n e f u	nefu+nefu	FOG_5	FALSE		52375
@@ -1809,7 +1768,6 @@ Tuvalu_FOG_4	Tuvalu	tuva1244	tvl	FOG	fofu	fofu	f o f u	fofu	FOG_4	FALSE		29903
 Anuta_FOG_5	Anuta	anut1237	aud	FOG	nepu	nepu	n e p u	nepu	FOG_5	FALSE	fog	POLLEX
 VaeakauTaumako_FRUIT_1	Vaeakau-Taumako	pile1238	piv	FRUIT	hua	hua	h u a	hua	FRUIT_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FRUIT_1	Wallisian	wall1257	wls	FRUIT	fua	fua	f u a	fua	FRUIT_1	FALSE	Fruit	POLLEX
-Polynesian_FRUIT_1	Proto-Polynesian	poly1242	nan	FRUIT	*fua	fua	f u a	fua	FRUIT_1	FALSE	(qi ra?akau)	PawleyOC
 Maori_FRUIT_1	Maori	maor1246	mri	FRUIT	hua	hua	h u a	hua	FRUIT_1	FALSE		Biggs-85-2005
 Kapingamarangi_FRUIT_1	Kapingamarangi	kapi1249	kpg	FRUIT	hua	hua	h u a	hua	FRUIT_1	FALSE	Fruit of; intestine of tridacna	POLLEX
 Tahitian_FRUIT_2	Tahitian	tahi1242	tah	FRUIT	maa'a	maaʔa	m a a ʔ a	maːʔa	FRUIT_2	FALSE		Clark-173-2005
@@ -1840,7 +1798,6 @@ Anuta_FRUIT_1	Anuta	anut1237	aud	FRUIT	pua	pua	p u a	pua	FRUIT_1	FALSE	Fruit (Ye
 VaeakauTaumako_GOOD_10	Vaeakau-Taumako	pile1238	piv	GOOD	lavoi	lavoi	l a v o i	lavoi	GOOD_10	FALSE		Hovdhaugen-375-2009
 Wallisian_GOOD_4	Wallisian	wall1257	wls	GOOD	maalie	maalie	m a a l i e	maːlie	GOOD_4	FALSE	etre bien	POLLEX
 Wallisian_GOOD_7	Wallisian	wall1257	wls	GOOD	lelei	lelei	l e l e i	le+lei	GOOD_7	FALSE	Bien	POLLEX
-Polynesian_GOOD_4	Proto-Polynesian	poly1242	nan	GOOD	*malie	malie	m a l i e	malie	GOOD_4	FALSE	'nice, pleasant'Outlier isogloss: *laoi 'good'	PawleyOC
 Maori_GOOD_12	Maori	maor1246	mri	GOOD	pai	pai	p a i	pai	GOOD_12	FALSE		Biggs-85-2005
 Kapingamarangi_GOOD_4	Kapingamarangi	kapi1249	kpg	GOOD	humalia	humalia	h u m a l i a	hu+malia	GOOD_4	FALSE	Good, goodness (Lbr)	POLLEX
 Tahitian_GOOD_3	Tahitian	tahi1242	tah	GOOD	maita'i	maitaʔi	m a i t a ʔ i	maitaʔi	GOOD_3	FALSE		Clark-173-2005
@@ -1883,8 +1840,6 @@ Anuta_GOOD_7	Anuta	anut1237	aud	GOOD	rerei	rerei	r e r e i	re+rei	GOOD_7	FALSE	G
 VaeakauTaumako_GRASS_2	Vaeakau-Taumako	pile1238	piv	GRASS	kaoa	kaoa	k a o a	kaoa	GRASS_2	FALSE		Hovdhaugen-375-2009
 Wallisian_GRASS_3	Wallisian	wall1257	wls	GRASS	musie	musie	m u s i e	musie	GRASS_3	FALSE	Pelouse, gazon, herbe trainante (Btn)	POLLEX
 Wallisian_GRASS_7	Wallisian	wall1257	wls	GRASS	mohuku	mohuku	m o h u k u	mohuku	GRASS_7	TRUE	Herbe (Btn) B. [<]	POLLEX
-Polynesian_GRASS_3	Proto-Polynesian	poly1242	nan	GRASS	*mutie	mutie	m u t i e	mutie	GRASS_3	FALSE	grass (generic)	PawleyOC
-Polynesian_GRASS_7	Proto-Polynesian	poly1242	nan	GRASS	*mouku	mouku	m o u k u	mouku	GRASS_7	FALSE		PawleyOC
 Maori_GRASS_6	Maori	maor1246	mri	GRASS	karaaihe	karaaihe	k a r a a i h e	karaːihe	GRASS_6	TRUE	Eng.	Biggs-85-2005
 Tahitian_GRASS_3	Tahitian	tahi1242	tah	GRASS	matie	matie	m a t i e	matie	GRASS_3	FALSE		Clark-173-2005
 Emae_GRASS_7	Emae	emae1237	mmw	GRASS	mauku	mauku	m a u k u	mauku	GRASS_7	FALSE		52375
@@ -1912,7 +1867,6 @@ Tuvalu_GRASS_7	Tuvalu	tuva1244	tvl	GRASS	mouku	mouku	m o u k u	mouku	GRASS_7	FAL
 Anuta_GRASS_9	Anuta	anut1237	aud	GRASS	vao	vao	v a o	vao	GRASS_9	FALSE		POLLEX
 VaeakauTaumako_GREEN_10	Vaeakau-Taumako	pile1238	piv	GREEN	uiui	uiui	u i u i	ui+ui	GREEN_10	FALSE	green	Hovdhaugen-375-2009
 Wallisian_GREEN_2	Wallisian	wall1257	wls	GREEN	moto	moto	m o t o	moto	GREEN_2	FALSE	Green, unripe	POLLEX
-Polynesian_GREEN_1	Proto-Polynesian	poly1242	nan	GREEN	? * mata	mata	m a t a	mata	GREEN_1	FALSE	Possibly no primary colour term 'green' in POc.	PawleyOC
 Maori_GREEN_11	Maori	maor1246	mri	GREEN	kaakaariki	kaakaaːkariki	k a a k a aː k a r i k i	kaːkaː+riki	GREEN_11	FALSE		Biggs-85-2005
 Tahitian_GREEN_5	Tahitian	tahi1242	tah	GREEN	niinamu	niinamu	n i i n a m u	niːnamu	GREEN_5	FALSE	(blue-green)	Clark-173-2005
 Tahitian_GREEN_1	Tahitian	tahi1242	tah	GREEN	matie	matie	m a t i e	matie	GREEN_1	FALSE	(grass)	Clark-173-2005
@@ -1948,7 +1902,6 @@ Anuta_GREEN_3	Anuta	anut1237	aud	GREEN	mata	mata	m a t a	mata	GREEN_3	FALSE	gree
 VaeakauTaumako_HAIR_4	Vaeakau-Taumako	pile1238	piv	HAIR	laulu	laulu	l a u l u	laulu	HAIR_4	FALSE		Hovdhaugen-375-2009
 Wallisian_HAIR_4	Wallisian	wall1257	wls	HAIR	lau ulu	lauulu	l a u u l u	lau_ulu	HAIR_4	FALSE	Longs cheveux (Btn)	POLLEX
 Wallisian_HAIR_3	Wallisian	wall1257	wls	HAIR	fulu	fulu	f u l u	fulu	HAIR_3	FALSE	Longs cheveux (Btn)	POLLEX
-Polynesian_HAIR_4	Proto-Polynesian	poly1242	nan	HAIR	*lau-qulu <	lauʔulu	l a u ʔ u l u	lau+ʔulu	HAIR_4	FALSE		PawleyOC
 Maori_HAIR_5	Maori	maor1246	mri	HAIR	makawe	makawe	m a k a w e	makawe	HAIR_5	FALSE		Biggs-85-2005
 Kapingamarangi_HAIR_2	Kapingamarangi	kapi1249	kpg	HAIR	ŋahuru	ŋahuru	ŋ a h u r u	ŋa+huru	HAIR_2	FALSE		POLLEX
 Kapingamarangi_HAIR_3	Kapingamarangi	kapi1249	kpg	HAIR	hulu	hulu	h u l u	hulu	HAIR_3	FALSE	Hair (Lbr)	POLLEX
@@ -1989,7 +1942,6 @@ Tuvalu_HAIR_3	Tuvalu	tuva1244	tvl	HAIR	fulufulu	fulufulu	f u l u f u l u	fulu+fu
 Anuta_HAIR_3	Anuta	anut1237	aud	HAIR	puru	puru	p u r u	puru	HAIR_3	FALSE	Body-hair, feathers (Yen)	POLLEX
 VaeakauTaumako_HAND_1	Vaeakau-Taumako	pile1238	piv	HAND	lima	lima	l i m a	lima	HAND_1	FALSE		Hovdhaugen-375-2009
 Wallisian_HAND_2	Wallisian	wall1257	wls	HAND	nima	nima	n i m a	nima	HAND_2	TRUE	Loan (Pawley 2010) [<]	POLLEX
-Polynesian_HAND_1	Proto-Polynesian	poly1242	nan	HAND	*lima	lima	l i m a	lima	HAND_1	FALSE		PawleyOC
 Maori_HAND_1	Maori	maor1246	mri	HAND	ringa(ringa)	riŋa	r i ŋ a	riŋa	HAND_1	FALSE	irregular medial C (see Pollex)	Biggs-85-2005
 Kapingamarangi_HAND_1	Kapingamarangi	kapi1249	kpg	HAND	lima	lima	l i m a	lima	HAND_1	FALSE	64Pollex 06: Lima. :Hand, arm, five (Lbr).	POLLEX
 Tahitian_HAND_1	Tahitian	tahi1242	tah	HAND	rima	rima	r i m a	rima	HAND_1	FALSE		Clark-173-2005
@@ -2024,7 +1976,6 @@ Anuta_HAND_1	Anuta	anut1237	aud	HAND	rima	rima	r i m a	rima	HAND_1	FALSE	Hand-ar
 VaeakauTaumako_HE OR SHE_2	Vaeakau-Taumako	pile1238	piv	HE OR SHE	na	na	n a	na	HE OR SHE_2	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_HE OR SHE_1	Vaeakau-Taumako	pile1238	piv	HE OR SHE	ia	ia	i a	ia	HE OR SHE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_HE OR SHE_1	Wallisian	wall1257	wls	HE OR SHE	ia	ia	i a	ia	HE OR SHE_1	FALSE	Third person singular personal pronoun	POLLEX
-Polynesian_HE OR SHE_1	Proto-Polynesian	poly1242	nan	HE OR SHE	*ia	ia	i a	ia	HE OR SHE_1	FALSE	he (indep.)	PawleyOC
 Maori_HE OR SHE_1	Maori	maor1246	mri	HE OR SHE	ia	ia	i a	ia	HE OR SHE_1	FALSE		Biggs-85-2005
 Kapingamarangi_HE OR SHE_1	Kapingamarangi	kapi1249	kpg	HE OR SHE	ia	ia	i a	ia	HE OR SHE_1	FALSE	He, she (Lbr)	POLLEX
 Tahitian_HE OR SHE_2	Tahitian	tahi1242	tah	HE OR SHE	'oona	ʔoona	ʔ o o n a	ʔoː+na	HE OR SHE_2	FALSE		Clark-173-2005
@@ -2058,7 +2009,6 @@ Tuvalu_HE OR SHE_1	Tuvalu	tuva1244	tvl	HE OR SHE	ia	ia	i a	ia	HE OR SHE_1	FALSE	
 Anuta_HE OR SHE_1	Anuta	anut1237	aud	HE OR SHE	ia	ia	i a	ia	HE OR SHE_1	FALSE	Third person singular personal pronoun	POLLEX
 VaeakauTaumako_HEAD_2	Vaeakau-Taumako	pile1238	piv	HEAD	pihoulu	pihoulu	p i h o u l u	piho+ulu	HEAD_2	FALSE		Hovdhaugen-375-2009
 Wallisian_HEAD_1	Wallisian	wall1257	wls	HEAD	'ulu	ʔulu	ʔ u l u	ʔulu	HEAD_1	FALSE	Head	POLLEX
-Polynesian_HEAD_1	Proto-Polynesian	poly1242	nan	HEAD	*qulu	ʔulu	ʔ u l u	ʔulu	HEAD_1	FALSE		PawleyOC
 Maori_HEAD_2	Maori	maor1246	mri	HEAD	upoko	upoko	u p o k o	u+poko	HEAD_2	FALSE		Biggs-85-2005
 Kapingamarangi_HEAD_2	Kapingamarangi	kapi1249	kpg	HEAD	libogo	liboɡo	l i b o ɡ o	li+bogo	HEAD_2	FALSE	Pollex 06: Libogo. :Head.	POLLEX
 Tahitian_HEAD_2	Tahitian	tahi1242	tah	HEAD	upo'o	upoʔo	u p o ʔ o	u+poʔo	HEAD_2	FALSE		Clark-173-2005
@@ -2095,7 +2045,6 @@ Tuvalu_HEAD_1	Tuvalu	tuva1244	tvl	HEAD	ulu	ulu	u l u	ulu	HEAD_1	FALSE		29903
 Anuta_HEAD_1	Anuta	anut1237	aud	HEAD	uru	uru	u r u	uru	HEAD_1	FALSE	Head (Yen)	POLLEX
 VaeakauTaumako_HEAVY_4	Vaeakau-Taumako	pile1238	piv	HEAVY	maha	maha	m a h a	maha	HEAVY_4	FALSE		Hovdhaugen-375-2009
 Wallisian_HEAVY_4	Wallisian	wall1257	wls	HEAVY	mamafa	mamafa	m a m a f a	ma+mafa	HEAVY_4	FALSE	Heavy	POLLEX
-Polynesian_HEAVY_4	Proto-Polynesian	poly1242	nan	HEAVY	*ma-mafa	mamafa	m a m a f a	ma+mafa	HEAVY_4	FALSE	(b)PEPn *taumafa, *taimafa	PawleyOC
 Maori_HEAVY_4	Maori	maor1246	mri	HEAVY	taimaha	taimaha	t a i m a h a	tai+maha	HEAVY_4	FALSE		Biggs-85-2005
 Kapingamarangi_HEAVY_4	Kapingamarangi	kapi1249	kpg	HEAVY	daa/maha/	maha	m a h a	maha	HEAVY_4	FALSE	Heavy (Lbr)	POLLEX
 Tahitian_HEAVY_4	Tahitian	tahi1242	tah	HEAVY	toiaha	toiaha	t o i a h a	toi+aha	HEAVY_4	FALSE		Clark-173-2005
@@ -2128,7 +2077,6 @@ Tuvalu_HEAVY_4	Tuvalu	tuva1244	tvl	HEAVY	mamafa	mamafa	m a m a f a	ma+mafa	HEAVY
 Anuta_HEAVY_4	Anuta	anut1237	aud	HEAVY	mamafa	mamafa	m a m a f a	ma+mafa	HEAVY_4	FALSE	Heavy (Yen)	POLLEX
 VaeakauTaumako_HOUSE_1	Vaeakau-Taumako	pile1238	piv	HOUSE	hale	hale	h a l e	hale	HOUSE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_HOUSE_1	Wallisian	wall1257	wls	HOUSE	fale	fale	f a l e	fale	HOUSE_1	FALSE	House	POLLEX
-Polynesian_HOUSE_1	Proto-Polynesian	poly1242	nan	HOUSE	*fale	fale	f a l e	fale	HOUSE_1	FALSE	PPn shows lexical replacement	PawleyOC
 Maori_HOUSE_1	Maori	maor1246	mri	HOUSE	whare	fare	f a r e	fare	HOUSE_1	FALSE		Biggs-85-2005
 Kapingamarangi_HOUSE_1	Kapingamarangi	kapi1249	kpg	HOUSE	hale	hale	h a l e	hale	HOUSE_1	FALSE	House (Lbr)	POLLEX
 Tahitian_HOUSE_1	Tahitian	tahi1242	tah	HOUSE	fare	fare	f a r e	fare	HOUSE_1	FALSE		Clark-173-2005
@@ -2164,7 +2112,6 @@ Tuvalu_HOUSE_1	Tuvalu	tuva1244	tvl	HOUSE	fale	fale	f a l e	fale	HOUSE_1	FALSE		2
 Anuta_HOUSE_1	Anuta	anut1237	aud	HOUSE	pare	pare	p a r e	pare	HOUSE_1	FALSE	House (Yen)	POLLEX
 VaeakauTaumako_HOW_1	Vaeakau-Taumako	pile1238	piv	HOW	huahea	huahea	h u a h e a	hua+hea	HOW_1	FALSE		Hovdhaugen-375-2009
 Wallisian_HOW_1	Wallisian	wall1257	wls	HOW	feafeaì	feafeaʔi	f e a f e a ʔ i	fea+fea+ʔi	HOW_1	TRUE	How? [<]	POLLEX
-Polynesian_HOW_1	Proto-Polynesian	poly1242	nan	HOW	*pe(he)fea	pefea	p e f e a	pe+fea	HOW_1	FALSE	PPn shows lexical replacement.	PawleyOC
 Maori_HOW_1	Maori	maor1246	mri	HOW	peehea	peehea	p e e h e a	peː+hea	HOW_1	FALSE		Biggs-85-2005
 Kapingamarangi_HOW_1	Kapingamarangi	kapi1249	kpg	HOW	pehee	pehee	p e h e e	pe+heː	HOW_1	TRUE	How [<]	POLLEX
 Tahitian_HOW_1	Tahitian	tahi1242	tah	HOW	naafea	naafea	n a a f e a	naː+fea	HOW_1	FALSE		Clark-173-2005
@@ -2219,7 +2166,6 @@ Samoan_HUSBAND_3	Samoan	samo1305	smo	HUSBAND	tāne	taane	t a a n e	taːne	HUSBAN
 RennellBellona_HUSBAND_8	RennellBellona	renn1242	mnv	HUSBAND	matuà	matuʔa	m a t u ʔ a	matuʔa	HUSBAND_8	FALSE	Husband, family head; become old, mature (Ebt)	POLLEX
 Anuta_HUSBAND_8	Anuta	anut1237	aud	HUSBAND	matua	matua	m a t u a	matua	HUSBAND_8	FALSE		POLLEX
 VaeakauTaumako_IF_4	Vaeakau-Taumako	pile1238	piv	IF	plā	plaa	p l a a	plaː	IF_4	FALSE	if	Hovdhaugen-375-2009
-Polynesian_IF_10	Proto-Polynesian	poly1242	nan	IF	*rano	rano	r a n o	rano	IF_10	FALSE		PawleyOC
 Maori_IF_8	Maori	maor1246	mri	IF	me (hemea)	me	m e	me	IF_8	FALSE		Biggs-85-2005
 Tahitian_IF_2	Tahitian	tahi1242	tah	IF	'ia	ʔia	ʔ i a	ʔia	IF_2	FALSE		Clark-173-2005
 Emae_IF_1	Emae	emae1237	mmw	IF	ka	ka	k a	ka	IF_1	FALSE		52375
@@ -2250,7 +2196,6 @@ Tuvalu_IF_13	Tuvalu	tuva1244	tvl	IF	mana	mana	m a n a	mana	IF_13	FALSE		29903
 Tuvalu_IF_1	Tuvalu	tuva1244	tvl	IF	kaafai	kaafai	k a a f a i	kaː+fai	IF_1	FALSE		29903
 Tuvalu_IF_1	Tuvalu	tuva1244	tvl	IF	kaa	kaa	k a a	kaː	IF_1	FALSE		29903
 Anuta_IF_6	Anuta	anut1237	aud	IF	pe	pe	p e	pe	IF_6	FALSE	if	POLLEX
-Polynesian_IN_1	Proto-Polynesian	poly1242	nan	IN	*(i) loto	loto	l o t o	loto	IN_1	FALSE	PPn shows replacement.  PPn has *lalo 'under, below' with semantic shift.(hand)	PawleyOC
 Maori_IN_1	Maori	maor1246	mri	IN	i roto	iroto	i r o t o	i_roto	IN_1	FALSE		Biggs-85-2005
 Kapingamarangi_IN_1	Kapingamarangi	kapi1249	kpg	IN	lodo	lodo	l o d o	lodo	IN_1	FALSE	Inside, within (Lbr)	POLLEX
 Tahitian_IN_1	Tahitian	tahi1242	tah	IN	i roto	iroto	i r o t o	i_roto	IN_1	FALSE		Clark-173-2005
@@ -2314,7 +2259,6 @@ Tuvalu_INTESTINES_3	Tuvalu	tuva1244	tvl	INTESTINES	gaakau	ɡaakau	ɡ a a k a u	g
 Anuta_INTESTINES_9	Anuta	anut1237	aud	INTESTINES	taepikopiko	taepikopiko	t a e p i k o p i k o	tae+piko+piko	INTESTINES_9	FALSE	guts	POLLEX
 Wallisian_LAKE_4	Wallisian	wall1257	wls	LAKE	namo	namo	n a m o	namo	LAKE_4	FALSE	Lagoon; shallow area of the sea	POLLEX
 Wallisian_LAKE_1	Wallisian	wall1257	wls	LAKE	ano	ano	a n o	ano	LAKE_1	TRUE	Lake B. [<]	POLLEX
-Polynesian_LAKE_3	Proto-Polynesian	poly1242	nan	LAKE	*loto	loto	l o t o	loto	LAKE_3	FALSE		PawleyOC
 Maori_LAKE_3	Maori	maor1246	mri	LAKE	roto	roto	r o t o	roto	LAKE_3	FALSE		Biggs-85-2005
 Kapingamarangi_LAKE_3	Kapingamarangi	kapi1249	kpg	LAKE	roto	roto	r o t o	roto	LAKE_3	FALSE	Lagoon (Lbr)	POLLEX
 Tahitian_LAKE_3	Tahitian	tahi1242	tah	LAKE	roto	roto	r o t o	roto	LAKE_3	FALSE		Clark-173-2005
@@ -2342,7 +2286,6 @@ RennellBellona_LAKE_1	RennellBellona	renn1242	mnv	LAKE	gano	ɡano	ɡ a n o	gano	
 Tuvalu_LAKE_5	Tuvalu	tuva1244	tvl	LAKE	tai hala	taihala	t a i h a l a	tai_hala	LAKE_5	FALSE		29903
 VaeakauTaumako_LEAF_1	Vaeakau-Taumako	pile1238	piv	LEAF	lau	lau	l a u	lau	LEAF_1	FALSE		Hovdhaugen-375-2009
 Wallisian_LEAF_1	Wallisian	wall1257	wls	LEAF	lau	lau	l a u	lau	LEAF_1	FALSE	Leaf	POLLEX
-Polynesian_LEAF_1	Proto-Polynesian	poly1242	nan	LEAF	*lau (qi raqakau)	lau	l a u	lau	LEAF_1	FALSE		PawleyOC
 Maori_LEAF_1	Maori	maor1246	mri	LEAF	rau	rau	r a u	rau	LEAF_1	FALSE		Biggs-85-2005
 Kapingamarangi_LEAF_1	Kapingamarangi	kapi1249	kpg	LEAF	rou	rou	r o u	rou	LEAF_1	FALSE	Leaf (Ebt)	POLLEX
 Tahitian_LEAF_1	Tahitian	tahi1242	tah	LEAF	rau'ere	rauʔere	r a u ʔ e r e	rau+ʔere	LEAF_1	FALSE		Clark-173-2005
@@ -2373,8 +2316,6 @@ Tuvalu_LEAF_1	Tuvalu	tuva1244	tvl	LEAF	lau	lau	l a u	lau	LEAF_1	FALSE		29903
 Anuta_LEAF_1	Anuta	anut1237	aud	LEAF	rau	rau	r a u	rau	LEAF_1	FALSE	leaf	POLLEX
 VaeakauTaumako_LEFT_5	Vaeakau-Taumako	pile1238	piv	LEFT	tovale	tovale	t o v a l e	to+vale	LEFT_5	FALSE		Hovdhaugen-375-2009
 Wallisian_LEFT_2	Wallisian	wall1257	wls	LEFT	hema	hema	h e m a	hema	LEFT_2	FALSE	Left (Btn)	POLLEX
-Polynesian_LEFT_1	Proto-Polynesian	poly1242	nan	LEFT	*maui	maui	m a u i	maui	LEFT_1	FALSE	*maui  Outlier isogloss	PawleyOC
-Polynesian_LEFT_2	Proto-Polynesian	poly1242	nan	LEFT	*sema	sema	s e m a	sema	LEFT_2	FALSE	*sema has reflexes in EPn as well as Tongic and NPn.	PawleyOC
 Maori_LEFT_1	Maori	maor1246	mri	LEFT	mauii	mauii	m a u i i	mauiː	LEFT_1	FALSE		Biggs-85-2005
 Kapingamarangi_LEFT_1	Kapingamarangi	kapi1249	kpg	LEFT	tauihara	tauihara	t a u i h a r a	taui+hara	LEFT_1	FALSE		POLLEX
 Tahitian_LEFT_1	Tahitian	tahi1242	tah	LEFT	'aui	ʔaui	ʔ a u i	ʔaui	LEFT_1	FALSE		Clark-173-2005
@@ -2410,7 +2351,6 @@ Tuvalu_LEFT_5	Tuvalu	tuva1244	tvl	LEFT	valea	valea	v a l e a	valea	LEFT_5	FALSE	
 Anuta_LEFT_2	Anuta	anut1237	aud	LEFT	tema	tema	t e m a	tema	LEFT_2	FALSE	Left (Fbg)	POLLEX
 VaeakauTaumako_FOOT OR LEG_1	Vaeakau-Taumako	pile1238	piv	FOOT OR LEG	vae	vae	v a e	vae	FOOT OR LEG_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FOOT OR LEG_1	Wallisian	wall1257	wls	FOOT OR LEG	va'e	vaʔe	v a ʔ e	vaʔe	FOOT OR LEG_1	FALSE	Leg	POLLEX
-Polynesian_FOOT OR LEG_1	Proto-Polynesian	poly1242	nan	FOOT OR LEG	*waqe	waʔe	w a ʔ e	waʔe	FOOT OR LEG_1	FALSE		PawleyOC
 Maori_FOOT OR LEG_1	Maori	maor1246	mri	FOOT OR LEG	waewae	waewae	w a e w a e	wae+wae	FOOT OR LEG_1	FALSE	Correction via Peter Keegan	Biggs-85-2005
 Kapingamarangi_FOOT OR LEG_1	Kapingamarangi	kapi1249	kpg	FOOT OR LEG	wae	wae	w a e	wae	FOOT OR LEG_1	FALSE	FOOT (Lbr)	POLLEX
 Tahitian_FOOT OR LEG_1	Tahitian	tahi1242	tah	FOOT OR LEG	'aavae	ʔaavae	ʔ a a v a e	ʔaː+vae	FOOT OR LEG_1	FALSE		Clark-173-2005
@@ -2444,7 +2384,6 @@ Tuvalu_FOOT OR LEG_1	Tuvalu	tuva1244	tvl	FOOT OR LEG	vae	vae	v a e	vae	FOOT OR L
 Anuta_FOOT OR LEG_1	Anuta	anut1237	aud	FOOT OR LEG	vae	vae	v a e	vae	FOOT OR LEG_1	FALSE	Leg (Yen)	POLLEX
 VaeakauTaumako_LIGHTNING_3	Vaeakau-Taumako	pile1238	piv	LIGHTNING	khemo	khemo	k h e m o	khemo	LIGHTNING_3	FALSE	lightning	Hovdhaugen-375-2009
 Wallisian_LIGHTNING_2	Wallisian	wall1257	wls	LIGHTNING	'uhila	ʔuhila	ʔ u h i l a	ʔuhila	LIGHTNING_2	TRUE	Eclaire (Rch), Loan (Pawley 2010)	POLLEX
-Polynesian_LIGHTNING_2	Proto-Polynesian	poly1242	nan	LIGHTNING	*quhila	ʔuhila	ʔ u h i l a	ʔuhila	LIGHTNING_2	FALSE		PawleyOC
 Maori_LIGHTNING_2	Maori	maor1246	mri	LIGHTNING	uira	uira	u i r a	uira	LIGHTNING_2	FALSE		Biggs-85-2005
 Kapingamarangi_LIGHTNING_2	Kapingamarangi	kapi1249	kpg	LIGHTNING	ila	ila	i l a	ila	LIGHTNING_2	FALSE	Lightning (Lbr)	POLLEX
 Tahitian_LIGHTNING_2	Tahitian	tahi1242	tah	LIGHTNING	uira	uira	u i r a	uira	LIGHTNING_2	FALSE		Clark-173-2005
@@ -2478,7 +2417,6 @@ Tuvalu_LIGHTNING_2	Tuvalu	tuva1244	tvl	LIGHTNING	uila	uila	u i l a	uila	LIGHTNIN
 Anuta_LIGHTNING_3	Anuta	anut1237	aud	LIGHTNING	kakamo	kakamo	k a k a m o	ka+kamo	LIGHTNING_3	FALSE	lightning	POLLEX
 VaeakauTaumako_LIVER_1	Vaeakau-Taumako	pile1238	piv	LIVER	ate	ate	a t e	ate	LIVER_1	FALSE		Hovdhaugen-375-2009
 Wallisian_LIVER_1	Wallisian	wall1257	wls	LIVER	àte	ʔate	ʔ a t e	ʔate	LIVER_1	FALSE	Foie (Rch)	POLLEX
-Polynesian_LIVER_1	Proto-Polynesian	poly1242	nan	LIVER	*qate	ʔate	ʔ a t e	ʔate	LIVER_1	FALSE		PawleyOC
 Maori_LIVER_1	Maori	maor1246	mri	LIVER	ate	ate	a t e	ate	LIVER_1	FALSE		Biggs-85-2005
 Kapingamarangi_LIVER_1	Kapingamarangi	kapi1249	kpg	LIVER	ade	ade	a d e	ade	LIVER_1	FALSE	Liver (Lbr)	POLLEX
 Tahitian_LIVER_3	Tahitian	tahi1242	tah	LIVER	'upa'a	ʔupaʔa	ʔ u p a ʔ a	ʔupaʔa	LIVER_3	FALSE		Clark-173-2005
@@ -2511,7 +2449,6 @@ Tuvalu_LIVER_1	Tuvalu	tuva1244	tvl	LIVER	ate	ate	a t e	ate	LIVER_1	FALSE		29903
 Anuta_LIVER_1	Anuta	anut1237	aud	LIVER	ate	ate	a t e	ate	LIVER_1	FALSE	Liver (Yen)	POLLEX
 VaeakauTaumako_LONG_1	Vaeakau-Taumako	pile1238	piv	LONG	loa	loa	l o a	loa	LONG_1	FALSE		Hovdhaugen-375-2009
 Wallisian_LONG_1	Wallisian	wall1257	wls	LONG	loa	loa	l o a	loa	LONG_1	FALSE	Long	POLLEX
-Polynesian_LONG_1	Proto-Polynesian	poly1242	nan	LONG	*loa	loa	l o a	loa	LONG_1	FALSE	PPn shows lexical replacement.	PawleyOC
 Maori_LONG_1	Maori	maor1246	mri	LONG	roa	roa	r o a	roa	LONG_1	FALSE		Biggs-85-2005
 Kapingamarangi_LONG_1	Kapingamarangi	kapi1249	kpg	LONG	l/loo/	loo	l o o	loː	LONG_1	FALSE	Long (Plural) (used only in compounds) (Lbr)	POLLEX
 Tahitian_LONG_1	Tahitian	tahi1242	tah	LONG	roa	roa	r o a	roa	LONG_1	FALSE		Clark-173-2005
@@ -2544,7 +2481,6 @@ Anuta_LONG_1	Anuta	anut1237	aud	LONG	ro(ro)a	roa	r o a	roa	LONG_1	FALSE	Long (Ye
 VaeakauTaumako_LOUSE_1	Vaeakau-Taumako	pile1238	piv	LOUSE	kutu	kutu	k u t u	kutu	LOUSE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_LOUSE_2	Wallisian	wall1257	wls	LOUSE	tuma	tuma	t u m a	tuma	LOUSE_2	FALSE	Bodylouse	POLLEX
 Wallisian_LOUSE_1	Wallisian	wall1257	wls	LOUSE	kutu	kutu	k u t u	kutu	LOUSE_1	FALSE	Louse	POLLEX
-Polynesian_LOUSE_1	Proto-Polynesian	poly1242	nan	LOUSE	*kutu	kutu	k u t u	kutu	LOUSE_1	FALSE		PawleyOC
 Maori_LOUSE_1	Maori	maor1246	mri	LOUSE	kutu	kutu	k u t u	kutu	LOUSE_1	FALSE		Biggs-85-2005
 Kapingamarangi_LOUSE_1	Kapingamarangi	kapi1249	kpg	LOUSE	gudu	ɡudu	ɡ u d u	gudu	LOUSE_1	FALSE	Head louse (Lbr)	POLLEX
 Tahitian_LOUSE_1	Tahitian	tahi1242	tah	LOUSE	'utu	ʔutu	ʔ u t u	ʔutu	LOUSE_1	FALSE		Clark-173-2005
@@ -2580,7 +2516,6 @@ Anuta_LOUSE_1	Anuta	anut1237	aud	LOUSE	kutu	kutu	k u t u	kutu	LOUSE_1	FALSE	Lous
 VaeakauTaumako_MALE PERSON_5	Vaeakau-Taumako	pile1238	piv	MALE PERSON	mhe	mhe	m h e	mhe	MALE PERSON_5	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_MALE PERSON_3	Vaeakau-Taumako	pile1238	piv	MALE PERSON	tangata	taŋata	t a ŋ a t a	taŋata	MALE PERSON_3	FALSE		Hovdhaugen-375-2009
 Wallisian_MALE PERSON_1	Wallisian	wall1257	wls	MALE PERSON	taàne	taʔane	t a ʔ a n e	taʔane	MALE PERSON_1	FALSE	Male	POLLEX
-Polynesian_MALE PERSON_1	Proto-Polynesian	poly1242	nan	MALE PERSON	*taqane	taʔane	t a ʔ a n e	taʔane	MALE PERSON_1	FALSE	PPn shows irregular loss of PCP Å‹w.	PawleyOC
 Maori_MALE PERSON_1	Maori	maor1246	mri	MALE PERSON	taane	taane	t a a n e	taːne	MALE PERSON_1	FALSE		Biggs-85-2005
 Kapingamarangi_MALE PERSON_1	Kapingamarangi	kapi1249	kpg	MALE PERSON	daane	daane	d a a n e	daːne	MALE PERSON_1	FALSE	Male (Lbr)	POLLEX
 Tahitian_MALE PERSON_1	Tahitian	tahi1242	tah	MALE PERSON	taane	taane	t a a n e	taːne	MALE PERSON_1	FALSE		Clark-173-2005
@@ -2620,7 +2555,6 @@ Anuta_MALE PERSON_8	Anuta	anut1237	aud	MALE PERSON	tamaaroa	tamaaroa	t a m a a r
 Anuta_MALE PERSON_3	Anuta	anut1237	aud	MALE PERSON	tangata	taŋata	t a ŋ a t a	taŋata	MALE PERSON_3	FALSE	Man, Person, Bachelor (Fbg)	POLLEX
 VaeakauTaumako_FLESH OR MEAT_1	Vaeakau-Taumako	pile1238	piv	FLESH OR MEAT	io	io	i o	io	FLESH OR MEAT_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FLESH OR MEAT_5	Wallisian	wall1257	wls	FLESH OR MEAT	me'a kai	meʔakai	m e ʔ a k a i	meʔa_kai	FLESH OR MEAT_5	FALSE		POLLEX
-Polynesian_FLESH OR MEAT_2	Proto-Polynesian	poly1242	nan	FLESH OR MEAT	*kanofi	kanofi	k a n o f i	kano+fi	FLESH OR MEAT_2	FALSE	'flesh of animal or coconut, kernel or hard core'	PawleyOC
 Maori_FLESH OR MEAT_1	Maori	maor1246	mri	FLESH OR MEAT	kiko	kiko	k i k o	kiko	FLESH OR MEAT_1	FALSE		Biggs-85-2005
 Kapingamarangi_FLESH OR MEAT_2	Kapingamarangi	kapi1249	kpg	FLESH OR MEAT	kano	kano	k a n o	kano	FLESH OR MEAT_2	FALSE	Meat, penis (Ebt)	POLLEX
 Tahitian_FLESH OR MEAT_1	Tahitian	tahi1242	tah	FLESH OR MEAT	'i'o	ʔiʔo	ʔ i ʔ o	ʔiʔo	FLESH OR MEAT_1	FALSE	flesh of man or animal	Clark-173-2005
@@ -2654,7 +2588,6 @@ Tuvalu_FLESH OR MEAT_2	Tuvalu	tuva1244	tvl	FLESH OR MEAT	kanofi	kanofi	k a n o f
 Anuta_FLESH OR MEAT_2	Anuta	anut1237	aud	FLESH OR MEAT	kanofi	kanofi	k a n o f i	kano+fi	FLESH OR MEAT_2	FALSE		POLLEX
 VaeakauTaumako_MOON_1	Vaeakau-Taumako	pile1238	piv	MOON	akahu	akahu	a k a h u	akahu	MOON_1	FALSE		Hovdhaugen-375-2009
 Wallisian_MOON_2	Wallisian	wall1257	wls	MOON	maahina	maahina	m a a h i n a	maː+hina	MOON_2	FALSE	Moon	POLLEX
-Polynesian_MOON_5	Proto-Polynesian	poly1242	nan	MOON	*marama	marama	m a r a m a	marama	MOON_5	FALSE	'moon, moonlight'	PawleyOC
 Maori_MOON_5	Maori	maor1246	mri	MOON	marama	marama	m a r a m a	marama	MOON_5	FALSE		Biggs-85-2005
 Kapingamarangi_MOON_2	Kapingamarangi	kapi1249	kpg	MOON	maahina	maahina	m a a h i n a	maː+hina	MOON_2	FALSE	Bright, light of the moon (Lbr)	POLLEX
 Tahitian_MOON_4	Tahitian	tahi1242	tah	MOON	'aava'e	ʔaavaʔe	ʔ a a v a ʔ e	ʔaːvaʔe	MOON_4	FALSE		Clark-173-2005
@@ -2687,7 +2620,6 @@ Tuvalu_MOON_2	Tuvalu	tuva1244	tvl	MOON	maalama	maalama	m a a l a m a	maːlama	MO
 Anuta_MOON_2	Anuta	anut1237	aud	MOON	maaina	maaina	m a a i n a	maː+ina	MOON_2	TRUE	Moon, month (Yen) B. [<]	POLLEX
 VaeakauTaumako_MOSQUITO_1	Vaeakau-Taumako	pile1238	piv	MOSQUITO	namu	namu	n a m u	namu	MOSQUITO_1	FALSE		Hovdhaugen-375-2009
 Wallisian_MOSQUITO_1	Wallisian	wall1257	wls	MOSQUITO	namu	namu	n a m u	namu	MOSQUITO_1	FALSE	Mosquito	POLLEX
-Polynesian_MOSQUITO_1	Proto-Polynesian	poly1242	nan	MOSQUITO	*namu	namu	n a m u	namu	MOSQUITO_1	FALSE		PawleyOC
 Maori_MOSQUITO_3	Maori	maor1246	mri	MOSQUITO	waeroa	waeroa	w a e r o a	waeroa	MOSQUITO_3	FALSE		Biggs-85-2005
 Kapingamarangi_MOSQUITO_1	Kapingamarangi	kapi1249	kpg	MOSQUITO	lamu	lamu	l a m u	lamu	MOSQUITO_1	FALSE	Flies, mosquitoes (Lbr)	POLLEX
 Tahitian_MOSQUITO_1	Tahitian	tahi1242	tah	MOSQUITO	naonao	naonao	n a o n a o	nao+nao	MOSQUITO_1	FALSE		Clark-173-2005
@@ -2717,7 +2649,6 @@ RennellBellona_MOSQUITO_1	RennellBellona	renn1242	mnv	MOSQUITO	namu	namu	n a m u
 Anuta_MOSQUITO_1	Anuta	anut1237	aud	MOSQUITO	namu	namu	n a m u	namu	MOSQUITO_1	FALSE	Mosquito	POLLEX
 VaeakauTaumako_MOTHER_5	Vaeakau-Taumako	pile1238	piv	MOTHER	hina-	hina	h i n a	hina	MOTHER_5	FALSE		Hovdhaugen-375-2009
 Wallisian_MOTHER_7	Wallisian	wall1257	wls	MOTHER	fa'e	faʔe	f a ʔ e	faʔe	MOTHER_7	FALSE	Mere, tante (Btn)	POLLEX
-Polynesian_MOTHER_1	Proto-Polynesian	poly1242	nan	MOTHER	*tinana	tinana	t i n a n a	tinana	MOTHER_1	FALSE		PawleyOC
 Maori_MOTHER_7	Maori	maor1246	mri	MOTHER	whaea	faea	f a e a	faea	MOTHER_7	FALSE		Biggs-85-2005
 Kapingamarangi_MOTHER_1	Kapingamarangi	kapi1249	kpg	MOTHER	dinana	dinana	d i n a n a	dinana	MOTHER_1	FALSE	Mother, dam (Lbr)	POLLEX
 Tahitian_MOTHER_3	Tahitian	tahi1242	tah	MOTHER	metua vahine	metuavahine	m e t u a v a h i n e	metua_vahine	MOTHER_3	FALSE		Clark-173-2005
@@ -2755,7 +2686,6 @@ Anuta_MOTHER_1	Anuta	anut1237	aud	MOTHER	tinana	tinana	t i n a n a	tinana	MOTHER
 Anuta_MOTHER_8	Anuta	anut1237	aud	MOTHER	nau	nau	n a u	nau	MOTHER_8	FALSE	Mother (term of address) (Fbg)	POLLEX
 VaeakauTaumako_MOUTH_2	Vaeakau-Taumako	pile1238	piv	MOUTH	ngutu	ŋutu	ŋ u t u	ŋutu	MOUTH_2	FALSE		Hovdhaugen-375-2009
 Wallisian_MOUTH_2	Wallisian	wall1257	wls	MOUTH	mutu (?)	mutu	m u t u	mutu	MOUTH_2	FALSE		POLLEX
-Polynesian_MOUTH_2	Proto-Polynesian	poly1242	nan	MOUTH	*ŋutu	ŋutu	ŋ u t u	ŋutu	MOUTH_2	FALSE	'mouth, beak'	PawleyOC
 Maori_MOUTH_1	Maori	maor1246	mri	MOUTH	waha	waha	w a h a	waha	MOUTH_1	FALSE		Biggs-85-2005
 Kapingamarangi_MOUTH_2	Kapingamarangi	kapi1249	kpg	MOUTH	ngudu	ŋudu	ŋ u d u	ŋudu	MOUTH_2	FALSE	Mouth, beak (Lbr)	POLLEX
 Kapingamarangi_MOUTH_1	Kapingamarangi	kapi1249	kpg	MOUTH	haha	haha	h a h a	haha	MOUTH_1	FALSE	Mouth	POLLEX
@@ -2791,7 +2721,6 @@ Tuvalu_MOUTH_2	Tuvalu	tuva1244	tvl	MOUTH	gutu	ɡutu	ɡ u t u	gutu	MOUTH_2	FALSE	
 Anuta_MOUTH_2	Anuta	anut1237	aud	MOUTH	ngutu	ŋutu	ŋ u t u	ŋutu	MOUTH_2	FALSE	Mouth, cutting edge of a blade or weapon (Fbg)	POLLEX
 VaeakauTaumako_NAME_2	Vaeakau-Taumako	pile1238	piv	NAME	ingoa	iŋoa	i ŋ o a	iŋoa	NAME_2	FALSE		Hovdhaugen-375-2009
 Wallisian_NAME_2	Wallisian	wall1257	wls	NAME	higoa	hiɡoa	h i ɡ o a	higoa	NAME_2	TRUE	Name [<]	POLLEX
-Polynesian_NAME_2	Proto-Polynesian	poly1242	nan	NAME	*hiŋoa	hiŋoa	h i ŋ o a	hiŋoa	NAME_2	FALSE	PPn shows lexical replacement	PawleyOC
 Maori_NAME_2	Maori	maor1246	mri	NAME	ingoa	iŋoa	i ŋ o a	iŋoa	NAME_2	FALSE		Biggs-85-2005
 Kapingamarangi_NAME_2	Kapingamarangi	kapi1249	kpg	NAME	ingoo	iŋoo	i ŋ o o	iŋoː	NAME_2	FALSE	Name (Lbr)	POLLEX
 Tahitian_NAME_2	Tahitian	tahi1242	tah	NAME	i'oa	iʔoa	i ʔ o a	iʔoa	NAME_2	FALSE		Clark-173-2005
@@ -2823,7 +2752,6 @@ Anuta_NAME_2	Anuta	anut1237	aud	NAME	ingoa	iŋoa	i ŋ o a	iŋoa	NAME_2	FALSE	Nam
 VaeakauTaumako_NARROW_19	Vaeakau-Taumako	pile1238	piv	NARROW	mdakiko	mdakiko	m d a k i k o	mda+kiko	NARROW_19	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_NARROW_22	Vaeakau-Taumako	pile1238	piv	NARROW	mdaliki	mdaliki	m d a l i k i	mda+liki	NARROW_22	FALSE		Hovdhaugen-375-2009
 Wallisian_NARROW_11	Wallisian	wall1257	wls	NARROW	veliveli	veliveli	v e l i v e l i	veli+veli	NARROW_11	FALSE		POLLEX
-Polynesian_NARROW_22	Proto-Polynesian	poly1242	nan	NARROW	*faa-riki	faariki	f a a r i k i	faː+riki	NARROW_22	FALSE	'narrow'	PawleyOC
 Maori_NARROW_22	Maori	maor1246	mri	NARROW	whaaiti	faaiti	f a a i t i	faː+iti	NARROW_22	FALSE		Biggs-85-2005
 Kapingamarangi_NARROW_24	Kapingamarangi	kapi1249	kpg	NARROW	huka	huka	h u k a	huka	NARROW_24	FALSE		POLLEX
 Tahitian_NARROW_4	Tahitian	tahi1242	tah	NARROW	['aa]oaoa	oaoa	o a o a	oa+oa	NARROW_4	FALSE		Clark-173-2005
@@ -2862,7 +2790,6 @@ Tuvalu_NARROW_23	Tuvalu	tuva1244	tvl	NARROW	puumataniki	puumataniki	p u u m a t 
 Tuvalu_NARROW_22	Tuvalu	tuva1244	tvl	NARROW	puufoliki	puufoliki	p u u f o l i k i	puː+fo+liki	NARROW_22	FALSE		29903
 VaeakauTaumako_NEAR_5	Vaeakau-Taumako	pile1238	piv	NEAR	leuethaki	leuetʰaki	l e u e tʰ a k i	leue+tʰaki	NEAR_5	FALSE		Hovdhaugen-375-2009
 Wallisian_NEAR_9	Wallisian	wall1257	wls	NEAR	tata	tata	t a t a	ta+ta	NEAR_9	FALSE	Near	POLLEX
-Polynesian_NEAR_9	Proto-Polynesian	poly1242	nan	NEAR	*tata	tata	t a t a	ta+ta	NEAR_9	FALSE		PawleyOC
 Maori_NEAR_9	Maori	maor1246	mri	NEAR	tata	tata	t a t a	ta+ta	NEAR_9	FALSE		Biggs-85-2005
 Kapingamarangi_NEAR_10	Kapingamarangi	kapi1249	kpg	NEAR	hoho	hoho	h o h o	ho+ho	NEAR_10	FALSE		POLLEX
 Tahitian_NEAR_9	Tahitian	tahi1242	tah	NEAR	faatata	faatata	f a a t a t a	faː+ta+ta	NEAR_9	FALSE		Clark-173-2005
@@ -2898,7 +2825,6 @@ Anuta_NEAR_3	Anuta	anut1237	aud	NEAR	nei	nei	n e i	nei	NEAR_3	FALSE	Pollex 06: N
 VaeakauTaumako_NECK_1	Vaeakau-Taumako	pile1238	piv	NECK	ua	ua	u a	ua	NECK_1	FALSE		Hovdhaugen-375-2009
 Wallisian_NECK_3	Wallisian	wall1257	wls	NECK	kia	kia	k i a	kia	NECK_3	TRUE	Gorge, gosier, cou (Btn) [<]	POLLEX
 Wallisian_NECK_1	Wallisian	wall1257	wls	NECK	uà	uʔa	u ʔ a	uʔa	NECK_1	FALSE	Neck, throat	POLLEX
-Polynesian_NECK_1	Proto-Polynesian	poly1242	nan	NECK	*ua	ua	u a	ua	NECK_1	FALSE		PawleyOC
 Maori_NECK_1	Maori	maor1246	mri	NECK	ua	ua	u a	ua	NECK_1	FALSE		Biggs-85-2005
 Kapingamarangi_NECK_1	Kapingamarangi	kapi1249	kpg	NECK	ua	ua	u a	ua	NECK_1	FALSE	Neck	POLLEX
 Tahitian_NECK_3	Tahitian	tahi1242	tah	NECK	'a'ii	ʔaʔii	ʔ a ʔ i i	ʔaʔiː	NECK_3	FALSE		Clark-173-2005
@@ -2932,7 +2858,6 @@ Anuta_NECK_1	Anuta	anut1237	aud	NECK	ua	ua	u a	ua	NECK_1	FALSE	Neck (Yen)	POLLEX
 VaeakauTaumako_NEEDLE (FOR SEWING)_2	Vaeakau-Taumako	pile1238	piv	NEEDLE (FOR SEWING)	nila	nila	n i l a	nila	NEEDLE (FOR SEWING)_2	TRUE	Loan?	Hovdhaugen-375-2009
 Wallisian_NEEDLE (FOR SEWING)_7	Wallisian	wall1257	wls	NEEDLE (FOR SEWING)	hika	hika	h i k a	hika	NEEDLE (FOR SEWING)_7	FALSE	Net-needle	POLLEX
 Wallisian_NEEDLE (FOR SEWING)_1	Wallisian	wall1257	wls	NEEDLE (FOR SEWING)	hau	hau	h a u	hau	NEEDLE (FOR SEWING)_1	FALSE	Tattooing needle (Btn)	POLLEX
-Polynesian_NEEDLE (FOR SEWING)_7	Proto-Polynesian	poly1242	nan	NEEDLE (FOR SEWING)	*sika	sika	s i k a	sika	NEEDLE (FOR SEWING)_7	FALSE	'net needle'	PawleyOC
 Maori_NEEDLE (FOR SEWING)_2	Maori	maor1246	mri	NEEDLE (FOR SEWING)	ngira	ŋira	ŋ i r a	ŋira	NEEDLE (FOR SEWING)_2	TRUE	(Eng.)	Biggs-85-2005
 Kapingamarangi_NEEDLE (FOR SEWING)_7	Kapingamarangi	kapi1249	kpg	NEEDLE (FOR SEWING)	higa	hiɡa	h i ɡ a	higa	NEEDLE (FOR SEWING)_7	FALSE	Net needle (Lbr)	POLLEX
 Tahitian_NEEDLE (FOR SEWING)_2	Tahitian	tahi1242	tah	NEEDLE (FOR SEWING)	nira	nira	n i r a	nira	NEEDLE (FOR SEWING)_2	TRUE	Loan?	Clark-173-2005
@@ -2966,7 +2891,6 @@ RennellBellona_NEEDLE (FOR SEWING)_1	RennellBellona	renn1242	mnv	NEEDLE (FOR SEW
 Tuvalu_NEEDLE (FOR SEWING)_2	Tuvalu	tuva1244	tvl	NEEDLE (FOR SEWING)	nila	nila	n i l a	nila	NEEDLE (FOR SEWING)_2	TRUE		29903
 VaeakauTaumako_NEW_1	Vaeakau-Taumako	pile1238	piv	NEW	hou	hou	h o u	hou	NEW_1	FALSE		Hovdhaugen-375-2009
 Wallisian_NEW_1	Wallisian	wall1257	wls	NEW	fo'ou	foʔou	f o ʔ o u	foʔou	NEW_1	FALSE	New	POLLEX
-Polynesian_NEW_1	Proto-Polynesian	poly1242	nan	NEW	*foqou	foʔou	f o ʔ o u	foʔou	NEW_1	FALSE		PawleyOC
 Maori_NEW_1	Maori	maor1246	mri	NEW	hoou	hoou	h o o u	hoːu	NEW_1	FALSE		Biggs-85-2005
 Kapingamarangi_NEW_1	Kapingamarangi	kapi1249	kpg	NEW	hoou	hoou	h o o u	hoːu	NEW_1	FALSE	New (Lbr)	POLLEX
 Tahitian_NEW_2	Tahitian	tahi1242	tah	NEW	'aapii	ʔaapiaːpi	ʔ a a p i aː p i	ʔaːpiː	NEW_2	FALSE		Clark-173-2005
@@ -2998,7 +2922,6 @@ Anuta_NEW_1	Anuta	anut1237	aud	NEW	pou	pou	p o u	pou	NEW_1	FALSE	New (Yen)	POLLE
 VaeakauTaumako_NIGHT_1	Vaeakau-Taumako	pile1238	piv	NIGHT	poo	poo	p o o	poː	NIGHT_1	FALSE		Hovdhaugen-375-2009
 Wallisian_NIGHT_1	Wallisian	wall1257	wls	NIGHT	poo'uli	pooʔuli	p o o ʔ u l i	poː+ʔuli	NIGHT_1	TRUE	Nuit, tenebres, obscurite (Rch) B. [<]	POLLEX
 Wallisian_NIGHT_1	Wallisian	wall1257	wls	NIGHT	poo	poo	p o o	poː	NIGHT_1	FALSE	Night (Btn)	POLLEX
-Polynesian_NIGHT_1	Proto-Polynesian	poly1242	nan	NIGHT	*poo	poo	p o o	poː	NIGHT_1	FALSE		PawleyOC
 Maori_NIGHT_1	Maori	maor1246	mri	NIGHT	poo	poo	p o o	poː	NIGHT_1	FALSE		Biggs-85-2005
 Kapingamarangi_NIGHT_1	Kapingamarangi	kapi1249	kpg	NIGHT	boo	boo	b o o	boː	NIGHT_1	FALSE	Night (Lbr)	POLLEX
 Tahitian_NIGHT_1	Tahitian	tahi1242	tah	NIGHT	poo	poo	p o o	poː	NIGHT_1	FALSE		Clark-173-2005
@@ -3035,7 +2958,6 @@ Anuta_NIGHT_2	Anuta	anut1237	aud	NIGHT	pouri	pouri	p o u r i	po+uri	NIGHT_2	TRUE
 Anuta_NIGHT_1	Anuta	anut1237	aud	NIGHT	poo	poo	p o o	poː	NIGHT_1	FALSE	Night (Yen)	POLLEX
 VaeakauTaumako_NO OR NOT_1	Vaeakau-Taumako	pile1238	piv	NO OR NOT	siai	siai	s i a i	si+ai	NO OR NOT_1	FALSE		Hovdhaugen-375-2009
 Wallisian_NO OR NOT_5	Wallisian	wall1257	wls	NO OR NOT	hèe	heʔe	h e ʔ e	heʔe	NO OR NOT_5	FALSE	Sans (Rch)	POLLEX
-Polynesian_NO OR NOT_1	Proto-Polynesian	poly1242	nan	NO OR NOT	*qikai	ʔikai	ʔ i k a i	ʔi+kai	NO OR NOT_1	FALSE		PawleyOC
 Maori_NO OR NOT_2	Maori	maor1246	mri	NO OR NOT	kaahore	kaahore	k a a h o r e	kaː+hore	NO OR NOT_2	FALSE		Biggs-85-2005
 Kapingamarangi_NO OR NOT_5	Kapingamarangi	kapi1249	kpg	NO OR NOT	tee	tee	t e e	teː	NO OR NOT_5	FALSE	(Clk)	POLLEX
 Tahitian_NO OR NOT_3	Tahitian	tahi1242	tah	NO OR NOT	'aita	ʔaita	ʔ a i t a	ʔai+ta	NO OR NOT_3	FALSE	Tahitian innovation	Clark-173-2005
@@ -3077,7 +2999,6 @@ Anuta_NO OR NOT_11	Anuta	anut1237	aud	NO OR NOT	kairo	kairo	k a i r o	kai+ro	NO 
 VaeakauTaumako_NOSE_2	Vaeakau-Taumako	pile1238	piv	NOSE	pongaiu	poŋaiu	p o ŋ a i u	poŋa_iu	NOSE_2	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_NOSE_1	Vaeakau-Taumako	pile1238	piv	NOSE	iu	iu	i u	iu	NOSE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_NOSE_1	Wallisian	wall1257	wls	NOSE	ihu	ihu	i h u	ihu	NOSE_1	FALSE	Nose	POLLEX
-Polynesian_NOSE_1	Proto-Polynesian	poly1242	nan	NOSE	*isu	isu	i s u	isu	NOSE_1	FALSE		PawleyOC
 Maori_NOSE_1	Maori	maor1246	mri	NOSE	ihu	ihu	i h u	ihu	NOSE_1	FALSE		Biggs-85-2005
 Kapingamarangi_NOSE_1	Kapingamarangi	kapi1249	kpg	NOSE	uuhiu	uuhiu	u u h i u	uːhiu	NOSE_1	FALSE	Nose (Ebt)	POLLEX
 Tahitian_NOSE_1	Tahitian	tahi1242	tah	NOSE	ihu	ihu	i h u	ihu	NOSE_1	FALSE		Clark-173-2005
@@ -3109,7 +3030,6 @@ Tuvalu_NOSE_1	Tuvalu	tuva1244	tvl	NOSE	ihu	ihu	i h u	ihu	NOSE_1	FALSE		29903
 Anuta_NOSE_1	Anuta	anut1237	aud	NOSE	iu	iu	i u	iu	NOSE_1	FALSE	Nose (Fbg)	POLLEX
 VaeakauTaumako_OLD_1	Vaeakau-Taumako	pile1238	piv	OLD	mathua	matʰua	m a tʰ u a	matʰua	OLD_1	FALSE		Hovdhaugen-375-2009
 Wallisian_OLD_1	Wallisian	wall1257	wls	OLD	matua	matua	m a t u a	matua	OLD_1	FALSE		POLLEX
-Polynesian_OLD_8	Proto-Polynesian	poly1242	nan	OLD	tuai	tuai	t u a i	tuai	OLD_8	FALSE	(1)  'old, of times, (2) late	PawleyOC
 Maori_OLD_12	Maori	maor1246	mri	OLD	pakeke	pakeke	p a k e k e	pake+ke	OLD_12	FALSE		Biggs-85-2005
 Kapingamarangi_OLD_8	Kapingamarangi	kapi1249	kpg	OLD	tuai	tuai	t u a i	tuai	OLD_8	FALSE	Old, slow, late (Ebt)	POLLEX
 Tahitian_OLD_4	Tahitian	tahi1242	tah	OLD	ruu'au	ruuʔau	r u u ʔ a u	ruːʔau	OLD_4	FALSE		Clark-173-2005
@@ -3152,7 +3072,6 @@ Tuvalu_OLD_1	Tuvalu	tuva1244	tvl	OLD	matua	matua	m a t u a	matua	OLD_1	FALSE	old
 Anuta_OLD_1	Anuta	anut1237	aud	OLD	mātua	maatua	m a a t u a	maːtua	OLD_1	FALSE	old (thing)	POLLEX
 VaeakauTaumako_OTHER_3	Vaeakau-Taumako	pile1238	piv	OTHER	haila	haila	h a i l a	haila	OTHER_3	FALSE		Hovdhaugen-375-2009
 Wallisian_OTHER_8	Wallisian	wall1257	wls	OTHER	tahi	tahi	t a h i	tahi	OTHER_8	FALSE		POLLEX
-Polynesian_OTHER_7	Proto-Polynesian	poly1242	nan	OTHER	*taha	taha	t a h a	taha	OTHER_7	FALSE		PawleyOC
 Maori_OTHER_1	Maori	maor1246	mri	OTHER	atu	atu	a t u	atu	OTHER_1	FALSE	atu (Particle)	Biggs-85-2005
 Kapingamarangi_OTHER_12	Kapingamarangi	kapi1249	kpg	OTHER	huai	huai	h u a i	huai	OTHER_12	FALSE		POLLEX
 Kapingamarangi_OTHER_9	Kapingamarangi	kapi1249	kpg	OTHER	tei	tei	t e i	tei	OTHER_9	FALSE		POLLEX
@@ -3179,8 +3098,6 @@ RennellBellona_OTHER_2	RennellBellona	renn1242	mnv	OTHER	gaa	ɡaa	ɡ a a	gaː	OT
 Tuvalu_OTHER_8	Tuvalu	tuva1244	tvl	OTHER	etahi	etahi	e t a h i	e+tahi	OTHER_8	FALSE		29903
 VaeakauTaumako_PAINFUL OR SICK_1	Vaeakau-Taumako	pile1238	piv	PAINFUL OR SICK	maki	maki	m a k i	maki	PAINFUL OR SICK_1	FALSE		Hovdhaugen-375-2009
 Wallisian_PAINFUL OR SICK_1	Wallisian	wall1257	wls	PAINFUL OR SICK	mahaki	mahaki	m a h a k i	mahaki	PAINFUL OR SICK_1	FALSE	Sickness	POLLEX
-Polynesian_PAINFUL OR SICK_1	Proto-Polynesian	poly1242	nan	PAINFUL OR SICK	*masaki	masaki	m a s a k i	masaki	PAINFUL OR SICK_1	FALSE	(b) sick	PawleyOC
-Polynesian_PAINFUL OR SICK_3	Proto-Polynesian	poly1242	nan	PAINFUL OR SICK	*mamahi	mamahi	m a m a h i	mamahi	PAINFUL OR SICK_3	FALSE	(a) painful	PawleyOC
 Maori_PAINFUL OR SICK_1	Maori	maor1246	mri	PAINFUL OR SICK	maauiui	maauiui	m a a u i u i	maː+ui+ui	PAINFUL OR SICK_1	FALSE		Biggs-85-2005
 Kapingamarangi_PAINFUL OR SICK_2	Kapingamarangi	kapi1249	kpg	PAINFUL OR SICK	mhae	mhae	m h a e	mhae	PAINFUL OR SICK_2	FALSE	Hurt, sore	POLLEX
 Tahitian_PAINFUL OR SICK_1	Tahitian	tahi1242	tah	PAINFUL OR SICK	ma'i	maʔi	m a ʔ i	maʔi	PAINFUL OR SICK_1	FALSE	sick	Clark-173-2005
@@ -3222,7 +3139,6 @@ Tuvalu_PAINFUL OR SICK_8	Tuvalu	tuva1244	tvl	PAINFUL OR SICK	malaga	malaɡa	m a 
 Anuta_PAINFUL OR SICK_2	Anuta	anut1237	aud	PAINFUL OR SICK	ngaengae	ŋaeŋae	ŋ a e ŋ a e	ŋae+ŋae	PAINFUL OR SICK_2	FALSE	Pollex 06: Ngaengae. :Sick, ill (Fbg).	POLLEX
 VaeakauTaumako_PERSON_1	Vaeakau-Taumako	pile1238	piv	PERSON	tai	tai	t a i	tai	PERSON_1	FALSE		Hovdhaugen-375-2009
 Wallisian_PERSON_1	Wallisian	wall1257	wls	PERSON	tagata	taɡata	t a ɡ a t a	tagata	PERSON_1	FALSE	Man	POLLEX
-Polynesian_PERSON_1	Proto-Polynesian	poly1242	nan	PERSON	*taŋata	taŋata	t a ŋ a t a	taŋata	PERSON_1	FALSE		PawleyOC
 Maori_PERSON_1	Maori	maor1246	mri	PERSON	tangata	taŋata	t a ŋ a t a	taŋata	PERSON_1	FALSE		Biggs-85-2005
 Kapingamarangi_PERSON_1	Kapingamarangi	kapi1249	kpg	PERSON	dangada	daŋada	d a ŋ a d a	daŋada	PERSON_1	FALSE	Person (Lbr)	POLLEX
 Tahitian_PERSON_1	Tahitian	tahi1242	tah	PERSON	ta'ata	taʔata	t a ʔ a t a	taʔata	PERSON_1	FALSE		Clark-173-2005
@@ -3257,7 +3173,6 @@ Tuvalu_PERSON_1	Tuvalu	tuva1244	tvl	PERSON	tagata	taɡata	t a ɡ a t a	tagata	PE
 Anuta_PERSON_1	Anuta	anut1237	aud	PERSON	tangata	taŋata	t a ŋ a t a	taŋata	PERSON_1	FALSE	Man, person	POLLEX
 VaeakauTaumako_RAIN (PRECIPITATION)_1	Vaeakau-Taumako	pile1238	piv	RAIN (PRECIPITATION)	ua	ua	u a	ua	RAIN (PRECIPITATION)_1	FALSE		Hovdhaugen-375-2009
 Wallisian_RAIN (PRECIPITATION)_1	Wallisian	wall1257	wls	RAIN (PRECIPITATION)	'ua	ʔua	ʔ u a	ʔua	RAIN (PRECIPITATION)_1	FALSE	Rain	POLLEX
-Polynesian_RAIN (PRECIPITATION)_1	Proto-Polynesian	poly1242	nan	RAIN (PRECIPITATION)	*quha	ʔuha	ʔ u h a	ʔuha	RAIN (PRECIPITATION)_1	FALSE	(noun)	PawleyOC
 Maori_RAIN (PRECIPITATION)_1	Maori	maor1246	mri	RAIN (PRECIPITATION)	ua	ua	u a	ua	RAIN (PRECIPITATION)_1	FALSE		Biggs-85-2005
 Kapingamarangi_RAIN (PRECIPITATION)_1	Kapingamarangi	kapi1249	kpg	RAIN (PRECIPITATION)	ua	ua	u a	ua	RAIN (PRECIPITATION)_1	FALSE	Rain	POLLEX
 Tahitian_RAIN (PRECIPITATION)_1	Tahitian	tahi1242	tah	RAIN (PRECIPITATION)	ua	ua	u a	ua	RAIN (PRECIPITATION)_1	FALSE		Clark-173-2005
@@ -3290,7 +3205,6 @@ Tuvalu_RAIN (PRECIPITATION)_1	Tuvalu	tuva1244	tvl	RAIN (PRECIPITATION)	ua	ua	u a
 Anuta_RAIN (PRECIPITATION)_1	Anuta	anut1237	aud	RAIN (PRECIPITATION)	ua	ua	u a	ua	RAIN (PRECIPITATION)_1	FALSE	Rain	POLLEX
 VaeakauTaumako_RAT_2	Vaeakau-Taumako	pile1238	piv	RAT	lepuu	lepuu	l e p u u	lepuː	RAT_2	FALSE		Hovdhaugen-375-2009
 Wallisian_RAT_3	Wallisian	wall1257	wls	RAT	kuma	kuma	k u m a	kuma	RAT_3	FALSE	Rat	POLLEX
-Polynesian_RAT_3	Proto-Polynesian	poly1242	nan	RAT	*kumaa	kumaa	k u m a a	kumaː	RAT_3	FALSE		PawleyOC
 Maori_RAT_1	Maori	maor1246	mri	RAT	kiore	kiore	k i o r e	kiore	RAT_1	FALSE		Biggs-85-2005
 Tahitian_RAT_1	Tahitian	tahi1242	tah	RAT	'iore	ʔiore	ʔ i o r e	ʔiore	RAT_1	FALSE		Clark-173-2005
 Emae_RAT_4	Emae	emae1237	mmw	RAT	kimoa	kimoa	k i m o a	kimoa	RAT_4	FALSE		52375
@@ -3325,7 +3239,6 @@ Anuta_RAT_1	Anuta	anut1237	aud	RAT	kiore	kiore	k i o r e	kiore	RAT_1	FALSE		POLL
 Anuta_RAT_3	Anuta	anut1237	aud	RAT	kumaa	kumaa	k u m a a	kumaː	RAT_3	FALSE	Rat (Fbg)	POLLEX
 VaeakauTaumako_RED_1	Vaeakau-Taumako	pile1238	piv	RED	mea	mea	m e a	mea	RED_1	FALSE		Hovdhaugen-375-2009
 Wallisian_RED_2	Wallisian	wall1257	wls	RED	kula	kula	k u l a	kula	RED_2	FALSE	Pollex 06: Kula. Red.	POLLEX
-Polynesian_RED_2	Proto-Polynesian	poly1242	nan	RED	*kula	kula	k u l a	kula	RED_2	FALSE		PawleyOC
 Maori_RED_7	Maori	maor1246	mri	RED	whero	fero	f e r o	fero	RED_7	FALSE		Biggs-85-2005
 Kapingamarangi_RED_1	Kapingamarangi	kapi1249	kpg	RED	mmee	mmee	m m e e	mmeː	RED_1	FALSE	Reddish (Lbr)	POLLEX
 Tahitian_RED_4	Tahitian	tahi1242	tah	RED	'ute'ute	ʔuteʔute	ʔ u t e ʔ u t e	ʔute+ʔute	RED_4	FALSE		Clark-173-2005
@@ -3369,7 +3282,6 @@ Anuta_RED_1	Anuta	anut1237	aud	RED	mero	mero	m e r o	mero	RED_1	FALSE	Red (Fbg)	
 Anuta_RED_6	Anuta	anut1237	aud	RED	oata	oata	o a t a	oata	RED_6	TRUE	Red or reddish-brown (Fbg) b. [<]	POLLEX
 VaeakauTaumako_RIGHT_3	Vaeakau-Taumako	pile1238	piv	RIGHT	toilo	toilo	t o i l o	toilo	RIGHT_3	FALSE		Hovdhaugen-375-2009
 Wallisian_RIGHT_6	Wallisian	wall1257	wls	RIGHT	mata'u	mataʔu	m a t a ʔ u	ma+taʔu	RIGHT_6	FALSE	Right (not left)	POLLEX
-Polynesian_RIGHT_9	Proto-Polynesian	poly1242	nan	RIGHT	*sako	sako	s a k o	sako	RIGHT_9	FALSE	'straight, erect'	PawleyOC
 Maori_RIGHT_6	Maori	maor1246	mri	RIGHT	matau	matau	m a t a u	ma+tau	RIGHT_6	FALSE		Biggs-85-2005
 Maori_RIGHT_6	Maori	maor1246	mri	RIGHT	katau	katau	k a t a u	ka+tau	RIGHT_6	FALSE		Biggs-85-2005
 Kapingamarangi_RIGHT_1	Kapingamarangi	kapi1249	kpg	RIGHT	tonu	tonu	t o n u	tonu	RIGHT_1	TRUE	Right (not left) [<]	POLLEX
@@ -3404,7 +3316,6 @@ Tuvalu_RIGHT_7	Tuvalu	tuva1244	tvl	RIGHT	atamai	atamai	a t a m a i	ata+mai	RIGHT
 Anuta_RIGHT_6	Anuta	anut1237	aud	RIGHT	matau	matau	m a t a u	matau	RIGHT_6	FALSE		POLLEX
 VaeakauTaumako_PATH OR ROAD_1	Vaeakau-Taumako	pile1238	piv	PATH OR ROAD	ala	ala	a l a	ala	PATH OR ROAD_1	FALSE		Hovdhaugen-375-2009
 Wallisian_PATH OR ROAD_1	Wallisian	wall1257	wls	PATH OR ROAD	ala	ala	a l a	ala	PATH OR ROAD_1	FALSE	Road, path	POLLEX
-Polynesian_PATH OR ROAD_1	Proto-Polynesian	poly1242	nan	PATH OR ROAD	*hala	hala	h a l a	hala	PATH OR ROAD_1	FALSE		PawleyOC
 Maori_PATH OR ROAD_1	Maori	maor1246	mri	PATH OR ROAD	ara	ara	a r a	ara	PATH OR ROAD_1	FALSE		Biggs-85-2005
 Kapingamarangi_PATH OR ROAD_1	Kapingamarangi	kapi1249	kpg	PATH OR ROAD	ala	ala	a l a	ala	PATH OR ROAD_1	FALSE	Road, path (Lbr)	POLLEX
 Tahitian_PATH OR ROAD_1	Tahitian	tahi1242	tah	PATH OR ROAD	ara	ara	a r a	ara	PATH OR ROAD_1	FALSE		Clark-173-2005
@@ -3439,7 +3350,6 @@ Tuvalu_PATH OR ROAD_1	Tuvalu	tuva1244	tvl	PATH OR ROAD	auala	auala	a u a l a	au+
 Anuta_PATH OR ROAD_1	Anuta	anut1237	aud	PATH OR ROAD	ara	ara	a r a	ara	PATH OR ROAD_1	FALSE	Road (Yen)	POLLEX
 VaeakauTaumako_ROOT_1	Vaeakau-Taumako	pile1238	piv	ROOT	aka	aka	a k a	aka	ROOT_1	FALSE		Hovdhaugen-375-2009
 Wallisian_ROOT_1	Wallisian	wall1257	wls	ROOT	aka	aka	a k a	aka	ROOT_1	FALSE	Root	POLLEX
-Polynesian_ROOT_1	Proto-Polynesian	poly1242	nan	ROOT	*aka	aka	a k a	aka	ROOT_1	FALSE		PawleyOC
 Maori_ROOT_1	Maori	maor1246	mri	ROOT	paki|aka	pakiaka	p a k i a k a	paki+aka	ROOT_1	FALSE		Biggs-85-2005
 Kapingamarangi_ROOT_1	Kapingamarangi	kapi1249	kpg	ROOT	aga	aɡa	a ɡ a	aga	ROOT_1	FALSE	Root of tree or plant (Lbr)	POLLEX
 Tahitian_ROOT_1	Tahitian	tahi1242	tah	ROOT	a'a	aʔa	a ʔ a	aʔa	ROOT_1	FALSE		Clark-173-2005
@@ -3471,7 +3381,6 @@ Anuta_ROOT_2	Anuta	anut1237	aud	ROOT	tapito	tapito	t a p i t o	tapito	ROOT_2	FAL
 VaeakauTaumako_ROPE_2	Vaeakau-Taumako	pile1238	piv	ROPE	hau	hau	h a u	hau	ROPE_2	FALSE		Hovdhaugen-375-2009
 Wallisian_ROPE_11	Wallisian	wall1257	wls	ROPE	taula	taula	t a u l a	taula	ROPE_11	FALSE	Ancre, cable (Btn)	POLLEX
 Wallisian_ROPE_1	Wallisian	wall1257	wls	ROPE	maea	maea	m a e a	maea	ROPE_1	FALSE	Corde, cable Btn)	POLLEX
-Polynesian_ROPE_11	Proto-Polynesian	poly1242	nan	ROPE	*taula	taula	t a u l a	taula	ROPE_11	FALSE	PMic *tali 'rope',Pn: Niu toua 'rope', EFu, Nuk taula, Ren tauga, PCEPn *taura 'rope', (b)	PawleyOC
 Maori_ROPE_11	Maori	maor1246	mri	ROPE	taura	taura	t a u r a	taura	ROPE_11	FALSE		Biggs-85-2005
 Kapingamarangi_ROPE_11	Kapingamarangi	kapi1249	kpg	ROPE	taura	taura	t a u r a	taura	ROPE_11	FALSE	Anchor, rope (Ebt)	POLLEX
 Kapingamarangi_ROPE_1	Kapingamarangi	kapi1249	kpg	ROPE	moea	moea	m o e a	moea	ROPE_1	FALSE	Very thick rope, especially as used for hauling whales (Obs)	POLLEX
@@ -3515,7 +3424,6 @@ Anuta_ROPE_1	Anuta	anut1237	aud	ROPE	maea	maea	m a e a	maea	ROPE_1	FALSE	Heavy r
 VaeakauTaumako_ROTTEN_1	Vaeakau-Taumako	pile1238	piv	ROTTEN	pala	pala	p a l a	pala	ROTTEN_1	FALSE		Hovdhaugen-375-2009
 Wallisian_ROTTEN_2	Wallisian	wall1257	wls	ROTTEN	popo	popo	p o p o	po+po	ROTTEN_2	FALSE	Gate, deteriore, pourri (Rch)	POLLEX
 Wallisian_ROTTEN_1	Wallisian	wall1257	wls	ROTTEN	pala	pala	p a l a	pala	ROTTEN_1	FALSE	Rotten, wet	POLLEX
-Polynesian_ROTTEN_1	Proto-Polynesian	poly1242	nan	ROTTEN	*pala	pala	p a l a	pala	ROTTEN_1	FALSE	'rotten, as overripe fruit or tubers'	PawleyOC
 Maori_ROTTEN_3	Maori	maor1246	mri	ROTTEN	pirau	pirau	p i r a u	pirau	ROTTEN_3	FALSE		Biggs-85-2005
 Kapingamarangi_ROTTEN_2	Kapingamarangi	kapi1249	kpg	ROTTEN	bobo	bobo	b o b o	bo+bo	ROTTEN_2	FALSE	Rotten, decayed, old (Lbr)	POLLEX
 Tahitian_ROTTEN_4	Tahitian	tahi1242	tah	ROTTEN	'oopee	ʔoopeoːpe	ʔ o o p e oː p e	ʔoːpeː	ROTTEN_4	FALSE		Clark-173-2005
@@ -3565,7 +3473,6 @@ Tuvalu_ROTTEN_1	Tuvalu	tuva1244	tvl	ROTTEN	pupu	pupu	p u p u	pu+pu	ROTTEN_1	FALS
 Anuta_ROTTEN_2	Anuta	anut1237	aud	ROTTEN	popo	popo	p o p o	po+po	ROTTEN_2	FALSE	Decayed (Yen)	POLLEX
 Anuta_ROTTEN_1	Anuta	anut1237	aud	ROTTEN	para	para	p a r a	para	ROTTEN_1	FALSE	Rotten (Yen)	POLLEX
 Wallisian_SALT_1	Wallisian	wall1257	wls	SALT	tai	tai	t a i	tai	SALT_1	FALSE	(salt water)	POLLEX
-Polynesian_SALT_3	Proto-Polynesian	poly1242	nan	SALT	*masima	masima	m a s i m a	masima	SALT_3	FALSE		PawleyOC
 Maori_SALT_2	Maori	maor1246	mri	SALT	tote	tote	t o t e	tote	SALT_2	TRUE	Eng.	Biggs-85-2005
 Tahitian_SALT_9	Tahitian	tahi1242	tah	SALT	miti	miti	m i t i	miti	SALT_9	FALSE		Clark-173-2005
 Emae_SALT_1	Emae	emae1237	mmw	SALT	tai	tai	t a i	tai	SALT_1	FALSE		52375
@@ -3592,7 +3499,6 @@ RennellBellona_SALT_1	RennellBellona	renn1242	mnv	SALT	tai	tai	t a i	tai	SALT_1	
 Tuvalu_SALT_3	Tuvalu	tuva1244	tvl	SALT	maasima	maasima	m a a s i m a	maːsima	SALT_3	FALSE		29903
 VaeakauTaumako_SAND_1	Vaeakau-Taumako	pile1238	piv	SAND	one	one	o n e	one	SAND_1	FALSE		Hovdhaugen-375-2009
 Wallisian_SAND_1	Wallisian	wall1257	wls	SAND	one	one	o n e	one	SAND_1	FALSE	Sand	POLLEX
-Polynesian_SAND_1	Proto-Polynesian	poly1242	nan	SAND	*qone	ʔone	ʔ o n e	ʔone	SAND_1	FALSE		PawleyOC
 Maori_SAND_1	Maori	maor1246	mri	SAND	one	one	o n e	one	SAND_1	FALSE		Biggs-85-2005
 Kapingamarangi_SAND_1	Kapingamarangi	kapi1249	kpg	SAND	one/one	one	o n e	one	SAND_1	FALSE	Sand	POLLEX
 Tahitian_SAND_1	Tahitian	tahi1242	tah	SAND	one	one	o n e	one	SAND_1	FALSE		Clark-173-2005
@@ -3677,7 +3583,6 @@ Anuta_SEA_2	Anuta	anut1237	aud	SEA	moana	moana	m o a n a	moana	SEA_2	FALSE	Ocean
 VaeakauTaumako_SHARP_1	Vaeakau-Taumako	pile1238	piv	SHARP	mdakhaa	mdakhaa	m d a k h a a	mda+khaː	SHARP_1	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_SHARP_2	Vaeakau-Taumako	pile1238	piv	SHARP	mfasele	mfasele	m f a s e l e	mfa+sele	SHARP_2	FALSE		Hovdhaugen-375-2009
 Wallisian_SHARP_2	Wallisian	wall1257	wls	SHARP	maasila	maasila	m a a s i l a	maː+sila	SHARP_2	FALSE		POLLEX
-Polynesian_SHARP_3	Proto-Polynesian	poly1242	nan	SHARP	*ŋata	ŋata	ŋ a t a	ŋata	SHARP_3	FALSE	'sharp'(as knife)	PawleyOC
 Maori_SHARP_1	Maori	maor1246	mri	SHARP	koi(koi)	koi	k o i	koi	SHARP_1	FALSE		Biggs-85-2005
 Kapingamarangi_SHARP_1	Kapingamarangi	kapi1249	kpg	SHARP	gaa	ɡaa	ɡ a a	gaː	SHARP_1	FALSE	Sharp (Knife)	POLLEX
 Tahitian_SHARP_1	Tahitian	tahi1242	tah	SHARP	'oi	ʔoi	ʔ o i	ʔoi	SHARP_1	FALSE		Clark-173-2005
@@ -3713,7 +3618,6 @@ Tuvalu_SHARP_1	Tuvalu	tuva1244	tvl	SHARP	matakai	matakai	m a t a k a i	mata+kai	
 Anuta_SHARP_1	Anuta	anut1237	aud	SHARP	kakai	kakai	k a k a i	ka+kai	SHARP_1	FALSE	Sharp (as a knife) (Fbg)	POLLEX
 VaeakauTaumako_SHORT_8	Vaeakau-Taumako	pile1238	piv	SHORT	popoto	popoto	p o p o t o	po+poto	SHORT_8	FALSE		Hovdhaugen-375-2009
 Wallisian_SHORT_2	Wallisian	wall1257	wls	SHORT	pukupuku	pukupuku	p u k u p u k u	puku+puku	SHORT_2	FALSE	Short, small	POLLEX
-Polynesian_SHORT_2	Proto-Polynesian	poly1242	nan	SHORT	*pukupuku	pukupuku	p u k u p u k u	puku+puku	SHORT_2	FALSE		PawleyOC
 Maori_SHORT_8	Maori	maor1246	mri	SHORT	poto	poto	p o t o	poto	SHORT_8	FALSE	poto (length)	Biggs-85-2005
 Maori_SHORT_1	Maori	maor1246	mri	SHORT	hakahaka	hakahaka	h a k a h a k a	haka+haka	SHORT_1	FALSE	hakahaka (height)	Biggs-85-2005
 Kapingamarangi_SHORT_8	Kapingamarangi	kapi1249	kpg	SHORT	bodo	bodo	b o d o	bodo	SHORT_8	FALSE	Small, diminutive (Lbr)	POLLEX
@@ -3749,7 +3653,6 @@ Tuvalu_SHORT_5	Tuvalu	tuva1244	tvl	SHORT	toetoe	toetoe	t o e t o e	toe+toe	SHORT
 Anuta_SHORT_4	Anuta	anut1237	aud	SHORT	nounou	nounou	n o u n o u	nou+nou	SHORT_4	FALSE	short	POLLEX
 VaeakauTaumako_SHOULDER_3	Vaeakau-Taumako	pile1238	piv	SHOULDER	papakau	papakau	p a p a k a u	papa+kau	SHOULDER_3	FALSE		Hovdhaugen-375-2009
 Wallisian_SHOULDER_1	Wallisian	wall1257	wls	SHOULDER	'uma	ʔuma	ʔ u m a	ʔuma	SHOULDER_1	FALSE	Epaule (Rch)	POLLEX
-Polynesian_SHOULDER_1	Proto-Polynesian	poly1242	nan	SHOULDER	*uma	uma	u m a	uma	SHOULDER_1	FALSE	PPn shows lexical replacement	PawleyOC
 Maori_SHOULDER_7	Maori	maor1246	mri	SHOULDER	pakihiwi	pakihiwi	p a k i h i w i	paki+hiwi	SHOULDER_7	FALSE		Biggs-85-2005
 Tahitian_SHOULDER_8	Tahitian	tahi1242	tah	SHOULDER	tapono	tapono	t a p o n o	tapono	SHOULDER_8	FALSE		Clark-173-2005
 Emae_SHOULDER_6	Emae	emae1237	mmw	SHOULDER	pamu	pamu	p a m u	pamu	SHOULDER_6	FALSE		52375
@@ -3776,7 +3679,6 @@ Tuvalu_SHOULDER_1	Tuvalu	tuva1244	tvl	SHOULDER	tuauma	tuauma	t u a u m a	tua+uma
 VaeakauTaumako_SHY OR ASHAMED_1	Vaeakau-Taumako	pile1238	piv	SHY OR ASHAMED	maa	maa	m a a	maː	SHY OR ASHAMED_1	FALSE		Hovdhaugen-375-2009
 Wallisian_SHY OR ASHAMED_1	Wallisian	wall1257	wls	SHY OR ASHAMED	maa	maa	m a a	maː	SHY OR ASHAMED_1	FALSE	Feel ashamed (Btn)	POLLEX
 Wallisian_SHY OR ASHAMED_6	Wallisian	wall1257	wls	SHY OR ASHAMED	luma	luma	l u m a	lu+ma	SHY OR ASHAMED_6	FALSE	Be ashamed	POLLEX
-Polynesian_SHY OR ASHAMED_1	Proto-Polynesian	poly1242	nan	SHY OR ASHAMED	*maa	maa	m a a	maː	SHY OR ASHAMED_1	FALSE	ashamed	PawleyOC
 Maori_SHY OR ASHAMED_1	Maori	maor1246	mri	SHY OR ASHAMED	whaka|maa	fakamaa	f a k a m a a	faka+maː	SHY OR ASHAMED_1	FALSE		Biggs-85-2005
 Kapingamarangi_SHY OR ASHAMED_4	Kapingamarangi	kapi1249	kpg	SHY OR ASHAMED	hila/hila	hila	h i l a	hila	SHY OR ASHAMED_4	FALSE	Bashful, shy, ashamed (Lbr)	POLLEX
 Tahitian_SHY OR ASHAMED_1	Tahitian	tahi1242	tah	SHY OR ASHAMED	maamahu	maamahu	m a a m a h u	maː+mahu	SHY OR ASHAMED_1	FALSE	maamahu (timide, doux, gentil)	Clark-173-2005
@@ -3805,7 +3707,6 @@ Anuta_SHY OR ASHAMED_1	Anuta	anut1237	aud	SHY OR ASHAMED	paka/maa	paka	p a k a	p
 VaeakauTaumako_SKIN_1	Vaeakau-Taumako	pile1238	piv	SKIN	kilihino	kilihino	k i l i h i n o	kili+hino	SKIN_1	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_SKIN_2	Vaeakau-Taumako	pile1238	piv	SKIN	paku	paku	p a k u	paku	SKIN_2	FALSE		Hovdhaugen-375-2009
 Wallisian_SKIN_1	Wallisian	wall1257	wls	SKIN	kili	kili	k i l i	kili	SKIN_1	FALSE		POLLEX
-Polynesian_SKIN_1	Proto-Polynesian	poly1242	nan	SKIN	*kili	kili	k i l i	kili	SKIN_1	FALSE		PawleyOC
 Maori_SKIN_1	Maori	maor1246	mri	SKIN	kiri	kiri	k i r i	kiri	SKIN_1	FALSE		Biggs-85-2005
 Kapingamarangi_SKIN_1	Kapingamarangi	kapi1249	kpg	SKIN	gili	ɡili	ɡ i l i	gili	SKIN_1	FALSE	Skin (Lbr)	POLLEX
 Tahitian_SKIN_1	Tahitian	tahi1242	tah	SKIN	'iri	ʔiri	ʔ i r i	ʔiri	SKIN_1	FALSE		Clark-173-2005
@@ -3838,7 +3739,6 @@ Tuvalu_SKIN_1	Tuvalu	tuva1244	tvl	SKIN	kili	kili	k i l i	kili	SKIN_1	FALSE		2990
 Anuta_SKIN_1	Anuta	anut1237	aud	SKIN	kiri	kiri	k i r i	kiri	SKIN_1	FALSE	skin	POLLEX
 VaeakauTaumako_SKY_1	Vaeakau-Taumako	pile1238	piv	SKY	velangi	velaŋi	v e l a ŋ i	ve+laŋi	SKY_1	FALSE		Hovdhaugen-375-2009
 Wallisian_SKY_1	Wallisian	wall1257	wls	SKY	lagi	laɡi	l a ɡ i	lagi	SKY_1	FALSE	Sky	POLLEX
-Polynesian_SKY_1	Proto-Polynesian	poly1242	nan	SKY	*laŋi	laŋi	l a ŋ i	laŋi	SKY_1	FALSE		PawleyOC
 Maori_SKY_1	Maori	maor1246	mri	SKY	rangi	raŋi	r a ŋ i	raŋi	SKY_1	FALSE		Biggs-85-2005
 Kapingamarangi_SKY_1	Kapingamarangi	kapi1249	kpg	SKY	langi	laŋi	l a ŋ i	laŋi	SKY_1	FALSE	Sky (Lbr)	POLLEX
 Tahitian_SKY_1	Tahitian	tahi1242	tah	SKY	ra'i	raʔi	r a ʔ i	raʔi	SKY_1	FALSE		Clark-173-2005
@@ -3871,7 +3771,6 @@ VaeakauTaumako_SMALL_10	Vaeakau-Taumako	pile1238	piv	SMALL	kiko	kiko	k i k o	kik
 VaeakauTaumako_SMALL_9	Vaeakau-Taumako	pile1238	piv	SMALL	likiliki	likiliki	l i k i l i k i	liki+liki	SMALL_9	FALSE		Hovdhaugen-375-2009
 Wallisian_SMALL_2	Wallisian	wall1257	wls	SMALL	pukupuku	pukupuku	p u k u p u k u	puku+puku	SMALL_2	FALSE	Short, small	POLLEX
 Wallisian_SMALL_12	Wallisian	wall1257	wls	SMALL	siì	siʔi	s i ʔ i	siʔi	SMALL_12	TRUE	Petit, un peu (Rch) B. [<]	POLLEX
-Polynesian_SMALL_3	Proto-Polynesian	poly1242	nan	SMALL	*qiti	ʔiti	ʔ i t i	ʔiti	SMALL_3	FALSE		PawleyOC
 Maori_SMALL_3	Maori	maor1246	mri	SMALL	iti	iti	i t i	iti	SMALL_3	FALSE		Biggs-85-2005
 Kapingamarangi_SMALL_1	Kapingamarangi	kapi1249	kpg	SMALL	bodo	bodo	b o d o	bodo	SMALL_1	FALSE	Small, diminutive (Lbr)	POLLEX
 Tahitian_SMALL_4	Tahitian	tahi1242	tah	SMALL	na'ina'i	naʔinaʔi	n a ʔ i n a ʔ i	naʔi+naʔi	SMALL_4	FALSE		Clark-173-2005
@@ -3912,7 +3811,6 @@ Tuvalu_SMALL_9	Tuvalu	tuva1244	tvl	SMALL	foliki	foliki	f o l i k i	fo+liki	SMALL
 Anuta_SMALL_9	Anuta	anut1237	aud	SMALL	riki	riki	r i k i	riki	SMALL_9	FALSE	small	POLLEX
 VaeakauTaumako_SMOKE (EXHAUST)_1	Vaeakau-Taumako	pile1238	piv	SMOKE (EXHAUST)	kohu	kohu	k o h u	kohu	SMOKE (EXHAUST)_1	FALSE		Hovdhaugen-375-2009
 Wallisian_SMOKE (EXHAUST)_2	Wallisian	wall1257	wls	SMOKE (EXHAUST)	àhu	ʔahu	ʔ a h u	ʔahu	SMOKE (EXHAUST)_2	TRUE	Smoke B. [<]	POLLEX
-Polynesian_SMOKE (EXHAUST)_2	Proto-Polynesian	poly1242	nan	SMOKE (EXHAUST)	*qahu-afi	ʔahuafi	ʔ a h u a f i	ʔahu+afi	SMOKE (EXHAUST)_2	FALSE		PawleyOC
 Maori_SMOKE (EXHAUST)_2	Maori	maor1246	mri	SMOKE (EXHAUST)	au|ahi	auahi	a u a h i	au+ahi	SMOKE (EXHAUST)_2	FALSE		Biggs-85-2005
 Kapingamarangi_SMOKE (EXHAUST)_2	Kapingamarangi	kapi1249	kpg	SMOKE (EXHAUST)	au/seahi	seahi	s e a h i	se+ahi	SMOKE (EXHAUST)_2	FALSE	Smoke	POLLEX
 Tahitian_SMOKE (EXHAUST)_2	Tahitian	tahi1242	tah	SMOKE (EXHAUST)	auauahi	auauahi	a u a u a h i	au+au+ahi	SMOKE (EXHAUST)_2	FALSE		Clark-173-2005
@@ -3944,7 +3842,6 @@ RennellBellona_SMOKE (EXHAUST)_2	RennellBellona	renn1242	mnv	SMOKE (EXHAUST)	àu
 Tuvalu_SMOKE (EXHAUST)_2	Tuvalu	tuva1244	tvl	SMOKE (EXHAUST)	au	au	a u	au	SMOKE (EXHAUST)_2	FALSE		29903
 Anuta_SMOKE (EXHAUST)_2	Anuta	anut1237	aud	SMOKE (EXHAUST)	autiapi	autiapi	a u t i a p i	au+ti+api	SMOKE (EXHAUST)_2	FALSE	Smoke (Fbg)	POLLEX
 VaeakauTaumako_SNAKE_1	Vaeakau-Taumako	pile1238	piv	SNAKE	ngata	ŋata	ŋ a t a	ŋata	SNAKE_1	FALSE		Hovdhaugen-375-2009
-Polynesian_SNAKE_1	Proto-Polynesian	poly1242	nan	SNAKE	*ŋata	ŋata	ŋ a t a	ŋata	SNAKE_1	FALSE		PawleyOC
 Maori_SNAKE_8	Maori	maor1246	mri	SNAKE	naakahi	naakahi	n a a k a h i	naːkahi	SNAKE_8	TRUE	Hebrew borrowing	Biggs-85-2005
 Tahitian_SNAKE_3	Tahitian	tahi1242	tah	SNAKE	'oofii	ʔoofioːfi	ʔ o o f i oː f i	ʔoːfiː	SNAKE_3	TRUE		Clark-173-2005
 Emae_SNAKE_1	Emae	emae1237	mmw	SNAKE	ŋata	ŋata	ŋ a t a	ŋata	SNAKE_1	FALSE		52375
@@ -3966,7 +3863,6 @@ Samoan_SNAKE_1	Samoan	samo1305	smo	SNAKE	ŋata	ŋata	ŋ a t a	ŋata	SNAKE_1	FALS
 RennellBellona_SNAKE_1	RennellBellona	renn1242	mnv	SNAKE	ngata	ŋata	ŋ a t a	ŋata	SNAKE_1	FALSE	Pacific Boa	POLLEX
 VaeakauTaumako_SPIDER_4	Vaeakau-Taumako	pile1238	piv	SPIDER	tukutuku	tukutuku	t u k u t u k u	tuku+tuku	SPIDER_4	FALSE		Hovdhaugen-375-2009
 Wallisian_SPIDER_1	Wallisian	wall1257	wls	SPIDER	kavelevele	kavelevele	k a v e l e v e l e	ka+vele+vele	SPIDER_1	FALSE	Araignee (Btn)	POLLEX
-Polynesian_SPIDER_1	Proto-Polynesian	poly1242	nan	SPIDER	*puŋa-lewelewe	puŋalewelewe	p u ŋ a l e w e l e w e	puŋa+lewe+lewe	SPIDER_1	FALSE		PawleyOC
 Maori_SPIDER_1	Maori	maor1246	mri	SPIDER	pungaawerewere	puŋaawerewere	p u ŋ a a w e r e w e r e	puŋaː+were+were	SPIDER_1	FALSE		Biggs-85-2005
 Kapingamarangi_SPIDER_1	Kapingamarangi	kapi1249	kpg	SPIDER	lewelewe/ina	lewelewe	l e w e l e w e	lewe+lewe	SPIDER_1	FALSE	Cobweb, spider (Lbr)	POLLEX
 Tahitian_SPIDER_4	Tahitian	tahi1242	tah	SPIDER	tuutuurahonui	tuutuuːturahonui	t u u t u uː t u r a h o n u i	tuː+tuːra+honui	SPIDER_4	FALSE		Clark-173-2005
@@ -3993,7 +3889,6 @@ Tuvalu_SPIDER_7	Tuvalu	tuva1244	tvl	SPIDER	makamaka	makamaka	m a k a m a k a	mak
 Anuta_SPIDER_1	Anuta	anut1237	aud	SPIDER	karevereve	karevereve	k a r e v e r e v e	ka+reve+reve	SPIDER_1	FALSE	spider	POLLEX
 VaeakauTaumako_STAR_1	Vaeakau-Taumako	pile1238	piv	STAR	hetuu	hetuu	h e t u u	hetuː	STAR_1	FALSE		Hovdhaugen-375-2009
 Wallisian_STAR_1	Wallisian	wall1257	wls	STAR	fetu'u	fetuʔu	f e t u ʔ u	fetuʔu	STAR_1	FALSE	Etoile (Rch)	POLLEX
-Polynesian_STAR_1	Proto-Polynesian	poly1242	nan	STAR	*fetuqu	fetuʔu	f e t u ʔ u	fetuʔu	STAR_1	FALSE		PawleyOC
 Maori_STAR_1	Maori	maor1246	mri	STAR	whetuu	fetuu	f e t u u	fetuː	STAR_1	FALSE		Biggs-85-2005
 Kapingamarangi_STAR_1	Kapingamarangi	kapi1249	kpg	STAR	heduu	heduu	h e d u u	heduː	STAR_1	FALSE	Star (Lbr)	POLLEX
 Tahitian_STAR_1	Tahitian	tahi1242	tah	STAR	feti'a	fetiʔa	f e t i ʔ a	fetiʔa	STAR_1	FALSE		Clark-173-2005
@@ -4026,7 +3921,6 @@ Tuvalu_STAR_1	Tuvalu	tuva1244	tvl	STAR	fetuu	fetuu	f e t u u	fetuː	STAR_1	FALSE
 Anuta_STAR_1	Anuta	anut1237	aud	STAR	petū	petuu	p e t u u	petuː	STAR_1	FALSE	star	POLLEX
 VaeakauTaumako_STICK_1	Vaeakau-Taumako	pile1238	piv	STICK	lakau	lakau	l a k a u	la+kau	STICK_1	FALSE		Hovdhaugen-375-2009
 Wallisian_STICK_1	Wallisian	wall1257	wls	STICK	àkau	ʔakau	ʔ a k a u	ʔa+kau	STICK_1	TRUE	Tree, plant, wood (Btn) B. [<]	POLLEX
-Polynesian_STICK_5	Proto-Polynesian	poly1242	nan	STICK	*suki	suki	s u k i	suki	STICK_5	FALSE	'pierce'to stab (or stick, no one to one match)	PawleyOC
 Maori_STICK_1	Maori	maor1246	mri	STICK	raa|kau	raakau	r a a k a u	raː+kau	STICK_1	FALSE		Biggs-85-2005
 Kapingamarangi_STICK_1	Kapingamarangi	kapi1249	kpg	STICK	laagau	laaɡau	l a a ɡ a u	laː+gau	STICK_1	FALSE	Wood, tree (Lbr)	POLLEX
 Tahitian_STICK_1	Tahitian	tahi1242	tah	STICK	raa'au	raaʔau	r a a ʔ a u	raː+ʔau	STICK_1	FALSE		Clark-173-2005
@@ -4056,7 +3950,6 @@ Tuvalu_STICK_1	Tuvalu	tuva1244	tvl	STICK	laakau	laakau	l a a k a u	laː+kau	STIC
 Anuta_STICK_1	Anuta	anut1237	aud	STICK	raakau	raakau	r a a k a u	raː+kau	STICK_1	FALSE	Tree, plant, wood, stick (Fbg)	POLLEX
 VaeakauTaumako_STONE_1	Vaeakau-Taumako	pile1238	piv	STONE	hatu	hatu	h a t u	hatu	STONE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_STONE_5	Wallisian	wall1257	wls	STONE	maka	maka	m a k a	maka	STONE_5	FALSE	Pierre, rocher	POLLEX
-Polynesian_STONE_5	Proto-Polynesian	poly1242	nan	STONE	*maka	maka	m a k a	maka	STONE_5	FALSE		PawleyOC
 Maori_STONE_1	Maori	maor1246	mri	STONE	koowhatu	koofatu	k o o f a t u	koː+fatu	STONE_1	FALSE		Biggs-85-2005
 Kapingamarangi_STONE_1	Kapingamarangi	kapi1249	kpg	STONE	hadu	hadu	h a d u	hadu	STONE_1	FALSE	Stone, rock (Lbr)	POLLEX
 Tahitian_STONE_3	Tahitian	tahi1242	tah	STONE	'oofa'i	ʔoofaʔi	ʔ o o f a ʔ i	ʔoːfaʔi	STONE_3	FALSE		Clark-173-2005
@@ -4095,7 +3988,6 @@ Tuvalu_STONE_1	Tuvalu	tuva1244	tvl	STONE	fatu	fatu	f a t u	fatu	STONE_1	FALSE		2
 Anuta_STONE_1	Anuta	anut1237	aud	STONE	patu	patu	p a t u	patu	STONE_1	FALSE	Rock, stone (Fbg)	POLLEX
 VaeakauTaumako_TAIL_4	Vaeakau-Taumako	pile1238	piv	TAIL	pole	pole	p o l e	pole	TAIL_4	FALSE		Hovdhaugen-375-2009
 Wallisian_TAIL_6	Wallisian	wall1257	wls	TAIL	hiku	hiku	h i k u	hiku	TAIL_6	FALSE	(of fish)	POLLEX
-Polynesian_TAIL_6	Proto-Polynesian	poly1242	nan	TAIL	*hiku	hiku	h i k u	hiku	TAIL_6	FALSE	(of fish)	PawleyOC
 Maori_TAIL_2	Maori	maor1246	mri	TAIL	whiore	fiore	f i o r e	fiore	TAIL_2	FALSE		Biggs-85-2005
 Kapingamarangi_TAIL_7	Kapingamarangi	kapi1249	kpg	TAIL	huku	huku	h u k u	huku	TAIL_7	FALSE		POLLEX
 Tahitian_TAIL_5	Tahitian	tahi1242	tah	TAIL	'itere	ʔitere	ʔ i t e r e	ʔitere	TAIL_5	FALSE	(fish)	Clark-173-2005
@@ -4132,7 +4024,6 @@ Tuvalu_TAIL_6	Tuvalu	tuva1244	tvl	TAIL	hiku	hiku	h i k u	hiku	TAIL_6	FALSE		2990
 Anuta_TAIL_6	Anuta	anut1237	aud	TAIL	t/iku/tiku	tiku	t i k u	tiku	TAIL_6	FALSE	End, tail of fish or animal (Fbg)	POLLEX
 VaeakauTaumako_THAT_1	Vaeakau-Taumako	pile1238	piv	THAT	tena	tena	t e n a	te+na	THAT_1	FALSE		Hovdhaugen-375-2009
 Wallisian_THAT_5	Wallisian	wall1257	wls	THAT	kohee	kohee	k o h e e	ko_heː	THAT_5	FALSE		POLLEX
-Polynesian_THAT_8	Proto-Polynesian	poly1242	nan	THAT	*era	era	e r a	e+ra	THAT_8	FALSE	(distant)	PawleyOC
 Maori_THAT_13	Maori	maor1246	mri	THAT	teeraa	teeraeːra	t e e r a eː r a	teː+raː	THAT_13	FALSE		Biggs-85-2005
 Maori_THAT_1	Maori	maor1246	mri	THAT	teenaa	teenaeːna	t e e n a eː n a	teː+naː	THAT_1	FALSE		Biggs-85-2005
 Kapingamarangi_THAT_14	Kapingamarangi	kapi1249	kpg	THAT	tera	tera	t e r a	te+ra	THAT_14	FALSE		POLLEX
@@ -4198,8 +4089,6 @@ Anuta_THATCH OR ROOF_5	Anuta	anut1237	aud	THATCH OR ROOF	taotao	taotao	t a o t a
 VaeakauTaumako_THEY_1	Vaeakau-Taumako	pile1238	piv	THEY	lhatou	lʰatou	lʰ a t o u	lʰa+tou	THEY_1	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_THEY_4	Vaeakau-Taumako	pile1238	piv	THEY	lhaua	lʰaua	lʰ a u a	lʰa+ua	THEY_4	FALSE		Hovdhaugen-375-2009
 Wallisian_THEY_4	Wallisian	wall1257	wls	THEY	naaua	naaua	n a a u a	naː+ua	THEY_4	TRUE	Pron. pers. tonique. Ils, elles, eux. (3-ieme pers. du duel) (Rch [<]	POLLEX
-Polynesian_THEY_1	Proto-Polynesian	poly1242	nan	THEY	*la-tou	latou	l a t o u	la+tou	THEY_1	FALSE	(where â€“tou is from *-tolu 'paucal')	PawleyOC
-Polynesian_THEY_1	Proto-Polynesian	poly1242	nan	THEY	*kila-tou	kilatou	k i l a t o u	ki+la+tou	THEY_1	FALSE	(where â€“tou is from *-tolu 'paucal')	PawleyOC
 Maori_THEY_1	Maori	maor1246	mri	THEY	raatou	raatou	r a a t o u	raː+tou	THEY_1	FALSE		Biggs-85-2005
 Maori_THEY_4	Maori	maor1246	mri	THEY	raaua	raaua	r a a u a	raː+ua	THEY_4	FALSE	dual	Biggs-85-2005
 Kapingamarangi_THEY_3	Kapingamarangi	kapi1249	kpg	THEY	tikaula	tikaula	t i k a u l a	tikau+la	THEY_3	FALSE		POLLEX
@@ -4246,7 +4135,6 @@ Tuvalu_THEY_4	Tuvalu	tuva1244	tvl	THEY	laatou	laatou	l a a t o u	laː+tou	THEY_4
 Anuta_THEY_4	Anuta	anut1237	aud	THEY	naaua	naaua	n a a u a	naː+ua	THEY_4	FALSE	Third person dual pronoun (Fbg) [&<]	POLLEX
 VaeakauTaumako_THICK_6	Vaeakau-Taumako	pile1238	piv	THICK	eha	eha	e h a	eha	THICK_6	FALSE		Hovdhaugen-375-2009
 Wallisian_THICK_2	Wallisian	wall1257	wls	THICK	maatolu	maatolu	m a a t o l u	maː+tolu	THICK_2	FALSE	Epais (Rch)	POLLEX
-Polynesian_THICK_2	Proto-Polynesian	poly1242	nan	THICK	*matolutolu	matolutolu	m a t o l u t o l u	ma+tolu+tolu	THICK_2	FALSE		PawleyOC
 Maori_THICK_2	Maori	maor1246	mri	THICK	matotoru	matotoru	m a t o t o r u	ma+to+toru	THICK_2	FALSE		Biggs-85-2005
 Kapingamarangi_THICK_2	Kapingamarangi	kapi1249	kpg	THICK	maadolu	maadolu	m a a d o l u	maː+dolu	THICK_2	FALSE	Thick (object) (Lbr)	POLLEX
 Tahitian_THICK_3	Tahitian	tahi1242	tah	THICK	me'ume'u	meʔumeʔu	m e ʔ u m e ʔ u	meʔu+meʔu	THICK_3	FALSE		Clark-173-2005
@@ -4281,7 +4169,6 @@ Tuvalu_THICK_2	Tuvalu	tuva1244	tvl	THICK	maatolu	maatolu	m a a t o l u	maː+tolu
 Anuta_THICK_2	Anuta	anut1237	aud	THICK	maatoru	maatoru	m a a t o r u	maː+toru	THICK_2	FALSE	Thick (Yen)	POLLEX
 VaeakauTaumako_THIN_1	Vaeakau-Taumako	pile1238	piv	THIN	manihi	manihi	m a n i h i	ma+nihi	THIN_1	FALSE		Hovdhaugen-375-2009
 Wallisian_THIN_1	Wallisian	wall1257	wls	THIN	manifi	manifi	m a n i f i	ma+nifi	THIN_1	FALSE	Thin	POLLEX
-Polynesian_THIN_1	Proto-Polynesian	poly1242	nan	THIN	*manifinifi	manifinifi	m a n i f i n i f i	ma+nifi+nifi	THIN_1	FALSE	(as cloth)	PawleyOC
 Maori_THIN_7	Maori	maor1246	mri	THIN	rahirahi	rahirahi	r a h i r a h i	rahi+rahi	THIN_7	FALSE		Biggs-85-2005
 Kapingamarangi_THIN_7	Kapingamarangi	kapi1249	kpg	THIN	rahirahi	rahirahi	r a h i r a h i	rahi+rahi	THIN_7	FALSE		POLLEX
 Tahitian_THIN_7	Tahitian	tahi1242	tah	THIN	rairai	rairai	r a i r a i	rai+rai	THIN_7	FALSE		Clark-173-2005
@@ -4318,7 +4205,6 @@ Anuta_THIN_1	Anuta	anut1237	aud	THIN	manipi/nipi	manipi	m a n i p i	ma+nipi	THIN
 VaeakauTaumako_THIS_9	Vaeakau-Taumako	pile1238	piv	THIS	tene	tene	t e n e	te+ne	THIS_9	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_THIS_1	Vaeakau-Taumako	pile1238	piv	THIS	ne	ne	n e	ne	THIS_1	FALSE		Hovdhaugen-375-2009
 Wallisian_THIS_1	Wallisian	wall1257	wls	THIS	eni	eni	e n i	e+ni	THIS_1	FALSE	Pollex 06: <Eni. This (Ply) B.>.	POLLEX
-Polynesian_THIS_1	Proto-Polynesian	poly1242	nan	THIS	*eni	eni	e n i	e+ni	THIS_1	FALSE		PawleyOC
 Maori_THIS_9	Maori	maor1246	mri	THIS	teenei	teenei	t e e n e i	teː+nei	THIS_9	FALSE		Biggs-85-2005
 Kapingamarangi_THIS_9	Kapingamarangi	kapi1249	kpg	THIS	tenei	tenei	t e n e i	te+nei	THIS_9	FALSE		POLLEX
 Tahitian_THIS_2	Tahitian	tahi1242	tah	THIS	teie	teie	t e i e	te+ie	THIS_2	FALSE		Clark-173-2005
@@ -4352,7 +4238,6 @@ Anuta_THIS_1	Anuta	anut1237	aud	THIS	ieni	ieni	i e n i	ie+ni	THIS_1	FALSE	this	P
 VaeakauTaumako_THOU_1	Vaeakau-Taumako	pile1238	piv	THOU	koe	koe	k o e	koe	THOU_1	FALSE		Hovdhaugen-375-2009
 Wallisian_THOU_1	Wallisian	wall1257	wls	THOU	koe	koe	k o e	koe	THOU_1	FALSE	You (Sing.)	POLLEX
 Wallisian_THOU_3	Wallisian	wall1257	wls	THOU	kee	kee	k e e	keː	THOU_3	FALSE	Second person singular preposed subject pronoun (Bgs)	POLLEX
-Polynesian_THOU_1	Proto-Polynesian	poly1242	nan	THOU	*koe	koe	k o e	koe	THOU_1	FALSE		PawleyOC
 Maori_THOU_1	Maori	maor1246	mri	THOU	koe	koe	k o e	koe	THOU_1	FALSE		Biggs-85-2005
 Kapingamarangi_THOU_1	Kapingamarangi	kapi1249	kpg	THOU	goe	ɡoe	ɡ o e	goe	THOU_1	FALSE	Second person singular, thou (Lbr)	POLLEX
 Tahitian_THOU_1	Tahitian	tahi1242	tah	THOU	'oe	ʔoe	ʔ o e	ʔoe	THOU_1	FALSE		Clark-173-2005
@@ -4388,7 +4273,6 @@ Anuta_THOU_3	Anuta	anut1237	aud	THOU	ke	ke	k e	ke	THOU_3	FALSE	You singular, use
 VaeakauTaumako_THUNDER_1	Vaeakau-Taumako	pile1238	piv	THUNDER	pasili	pasili	p a s i l i	pa+sili	THUNDER_1	FALSE		Hovdhaugen-375-2009
 Wallisian_THUNDER_3	Wallisian	wall1257	wls	THUNDER	mana	mana	m a n a	mana	THUNDER_3	FALSE		POLLEX
 Wallisian_THUNDER_1	Wallisian	wall1257	wls	THUNDER	faisisili	faisisili	f a i s i s i l i	faisi+sili	THUNDER_1	FALSE	Thunder (Btn)	POLLEX
-Polynesian_THUNDER_3	Proto-Polynesian	poly1242	nan	THUNDER	*mana	mana	m a n a	mana	THUNDER_3	FALSE	'thunder, supernatural force'	PawleyOC
 Maori_THUNDER_1	Maori	maor1246	mri	THUNDER	whatitiri	fatitiri	f a t i t i r i	fati+tiri	THUNDER_1	FALSE		Biggs-85-2005
 Kapingamarangi_THUNDER_1	Kapingamarangi	kapi1249	kpg	THUNDER	atili	atili	a t i l i	a+tili	THUNDER_1	FALSE	Thunder (Lbr)	POLLEX
 Tahitian_THUNDER_1	Tahitian	tahi1242	tah	THUNDER	paatiri	paatiri	p a a t i r i	paː+tiri	THUNDER_1	FALSE		Clark-173-2005
@@ -4424,7 +4308,6 @@ VaeakauTaumako_BITE_3	Vaeakau-Taumako	pile1238	piv	BITE	ngalia	ŋalia	ŋ a l i a
 VaeakauTaumako_BITE_7	Vaeakau-Taumako	pile1238	piv	BITE	usia	usia	u s i a	usia	BITE_7	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_BITE_8	Vaeakau-Taumako	pile1238	piv	BITE	esia	esia	e s i a	esia	BITE_8	FALSE		Hovdhaugen-375-2009
 Wallisian_BITE_6	Wallisian	wall1257	wls	BITE	u'u	uʔu	u ʔ u	uʔu	BITE_6	FALSE	Mordre (Btn)	POLLEX
-Polynesian_BITE_4	Proto-Polynesian	poly1242	nan	BITE	*uqu-ti	uʔuti	u ʔ u t i	uʔuti	BITE_4	FALSE	Pn: Ton, Niu, Sam, EFu, EUv, Tik, Pil, Ren	PawleyOC
 Maori_BITE_5	Maori	maor1246	mri	BITE	ngau	ŋau	ŋ a u	ŋau	BITE_5	FALSE		Biggs-85-2005
 Kapingamarangi_BITE_1	Kapingamarangi	kapi1249	kpg	BITE	kati	kati	k a t i	kati	BITE_1	FALSE		POLLEX
 Tahitian_BITE_2	Tahitian	tahi1242	tah	BITE	hohoni	hohoni	h o h o n i	ho+honi	BITE_2	FALSE		Clark-173-2005
@@ -4461,7 +4344,6 @@ VaeakauTaumako_BLOW (OF WIND)_9	Vaeakau-Taumako	pile1238	piv	BLOW (OF WIND)	veng
 Wallisian_BLOW (OF WIND)_1	Wallisian	wall1257	wls	BLOW (OF WIND)	havili	havili	h a v i l i	ha+vili	BLOW (OF WIND)_1	FALSE	Brise, vent leger; venter, souffler (Rch)	POLLEX
 Wallisian_BLOW (OF WIND)_4	Wallisian	wall1257	wls	BLOW (OF WIND)	ifi	ifi	i f i	ifi	BLOW (OF WIND)_4	FALSE	Blow with mouth (Btn)	POLLEX
 Wallisian_BLOW (OF WIND)_9	Wallisian	wall1257	wls	BLOW (OF WIND)	agi(agi)	aɡi	a ɡ i	agi	BLOW (OF WIND)_9	FALSE	Blow continuously	POLLEX
-Polynesian_BLOW (OF WIND)_6	Proto-Polynesian	poly1242	nan	BLOW (OF WIND)	*pupusi	pupusi	p u p u s i	pu+pusi	BLOW (OF WIND)_6	FALSE	(with the breath) (no to)	PawleyOC
 Maori_BLOW (OF WIND)_6	Maori	maor1246	mri	BLOW (OF WIND)	pupuhi	pupuhi	p u p u h i	pu+puhi	BLOW (OF WIND)_6	FALSE		Biggs-85-2005
 Maori_BLOW (OF WIND)_5	Maori	maor1246	mri	BLOW (OF WIND)	hua	hua	h u a	hua	BLOW (OF WIND)_5	FALSE		Biggs-85-2005
 Kapingamarangi_BLOW (OF WIND)_9	Kapingamarangi	kapi1249	kpg	BLOW (OF WIND)	angi/angi	aŋi	a ŋ i	aŋi	BLOW (OF WIND)_9	FALSE	Windy (Lbr)	POLLEX
@@ -4514,7 +4396,6 @@ Anuta_BLOW (OF WIND)_6	Anuta	anut1237	aud	BLOW (OF WIND)	pu/pui/	pui	p u i	pui	B
 VaeakauTaumako_BREATHE_1	Vaeakau-Taumako	pile1238	piv	BREATHE	manava	manava	m a n a v a	manava	BREATHE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_BREATHE_1	Wallisian	wall1257	wls	BREATHE	maanava	maanava	m a a n a v a	maːnava	BREATHE_1	FALSE	Breath, breathe	POLLEX
 Wallisian_BREATHE_2	Wallisian	wall1257	wls	BREATHE	gaàgaà	ɡaʔaɡaʔa	ɡ a ʔ a ɡ a ʔ a	gaʔa+gaʔa	BREATHE_2	FALSE	Oppresse, ensouffle, hors de haleine (Rch)	POLLEX
-Polynesian_BREATHE_1	Proto-Polynesian	poly1242	nan	BREATHE	*maanawa	maanawa	m a a n a w a	maːnawa	BREATHE_1	FALSE		PawleyOC
 Maori_BREATHE_3	Maori	maor1246	mri	BREATHE	whakataa	fakahaa	f a k a h a a	faka+haː	BREATHE_3	FALSE		Biggs-85-2005
 Kapingamarangi_BREATHE_4	Kapingamarangi	kapi1249	kpg	BREATHE	toki	toki	t o k i	toki	BREATHE_4	FALSE		POLLEX
 Kapingamarangi_BREATHE_1	Kapingamarangi	kapi1249	kpg	BREATHE	manawa	manawa	m a n a w a	manawa	BREATHE_1	FALSE		POLLEX
@@ -4552,7 +4433,6 @@ Anuta_BREATHE_1	Anuta	anut1237	aud	BREATHE	maanava	maanava	m a a n a v a	maːnav
 VaeakauTaumako_BURN_6	Vaeakau-Taumako	pile1238	piv	BURN	ula	ula	u l a	ula	BURN_6	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_BURN_4	Vaeakau-Taumako	pile1238	piv	BURN	khaa	khaa	k h a a	khaː	BURN_4	FALSE		Hovdhaugen-375-2009
 Wallisian_BURN_3	Wallisian	wall1257	wls	BURN	tutu	tutu	t u t u	tu+tu	BURN_3	FALSE	Mettre le feu a (Rch)	POLLEX
-Polynesian_BURN_5	Proto-Polynesian	poly1242	nan	BURN	*wela-tia ‘burnt’	welatia	w e l a t i a	wela+tia	BURN_5	FALSE	be alight	PawleyOC
 Maori_BURN_9	Maori	maor1246	mri	BURN	tahu	tahu	t a h u	tahu	BURN_9	FALSE		Biggs-85-2005
 Kapingamarangi_BURN_3	Kapingamarangi	kapi1249	kpg	BURN	dudu	dudu	d u d u	du+du	BURN_3	FALSE	Kindle fire or lantern (Lbr)	POLLEX
 Kapingamarangi_BURN_8	Kapingamarangi	kapi1249	kpg	BURN	tungi	tuŋi	t u ŋ i	tuŋi	BURN_8	FALSE	Set light to (Ebt)	POLLEX
@@ -4599,7 +4479,6 @@ Anuta_BURN_3	Anuta	anut1237	aud	BURN	tutu	tutu	t u t u	tutu	BURN_3	FALSE	Kindle,
 Anuta_BURN_8	Anuta	anut1237	aud	BURN	tungia	tuŋia	t u ŋ i a	tuŋia	BURN_8	FALSE	Put fire to something, throw something in fire	POLLEX
 Anuta_BURN_9	Anuta	anut1237	aud	BURN	tapu	tapu	t a p u	tapu	BURN_9	FALSE	Make a fire	POLLEX
 VaeakauTaumako_BUY_7	Vaeakau-Taumako	pile1238	piv	BUY	tauia	tauia	t a u i a	taui+a	BUY_7	FALSE		Hovdhaugen-375-2009
-Polynesian_BUY_7	Proto-Polynesian	poly1242	nan	BUY	*fakatau mai	fakataumai	f a k a t a u m a i	faka+tau_mai	BUY_7	FALSE	PPn shows lexical replacement	PawleyOC
 Maori_BUY_5	Maori	maor1246	mri	BUY	hoko	hoko	h o k o	hoko	BUY_5	FALSE		Biggs-85-2005
 Kapingamarangi_BUY_6	Kapingamarangi	kapi1249	kpg	BUY	hui	hui	h u i	hui	BUY_6	FALSE	Buy, sell, pay	POLLEX
 Tahitian_BUY_5	Tahitian	tahi1242	tah	BUY	ho'o mai	hoʔomai	h o ʔ o m a i	hoʔo_mai	BUY_5	FALSE		Clark-173-2005
@@ -4631,7 +4510,6 @@ VaeakauTaumako_CHEW_4	Vaeakau-Taumako	pile1238	piv	CHEW	kamu	kamu	k a m u	kamu	C
 VaeakauTaumako_CHEW_1	Vaeakau-Taumako	pile1238	piv	CHEW	maia	maia	m a i a	maia	CHEW_1	FALSE	general term	Hovdhaugen-375-2009
 Wallisian_CHEW_1	Wallisian	wall1257	wls	CHEW	mama	mama	m a m a	ma+ma	CHEW_1	FALSE	Pollex 06: Mama. :Chew.	POLLEX
 Wallisian_CHEW_3	Wallisian	wall1257	wls	CHEW	lamu	lamu	l a m u	lamu	CHEW_3	FALSE	Pollex 06: Lamu. :Chew.	POLLEX
-Polynesian_CHEW_1	Proto-Polynesian	poly1242	nan	CHEW	*mama	mama	m a m a	ma+ma	CHEW_1	FALSE		PawleyOC
 Maori_CHEW_7	Maori	maor1246	mri	CHEW	katikati	katikati	k a t i k a t i	kati+kati	CHEW_7	FALSE		Biggs-85-2005
 Kapingamarangi_CHEW_6	Kapingamarangi	kapi1249	kpg	CHEW	ngungu	ŋuŋu	ŋ u ŋ u	ŋu+ŋu	CHEW_6	FALSE	Chew, masticate solids which make noise (Lbr)	POLLEX
 Kapingamarangi_CHEW_5	Kapingamarangi	kapi1249	kpg	CHEW	ngau	ŋau	ŋ a u	ŋau	CHEW_5	FALSE	Chew (Ebt),(Lbr)	POLLEX
@@ -4667,7 +4545,6 @@ Tuvalu_CHEW_3	Tuvalu	tuva1244	tvl	CHEW	lamu	lamu	l a m u	lamu	CHEW_3	FALSE		2990
 Anuta_CHEW_4	Anuta	anut1237	aud	CHEW	kamu	kamu	k a m u	kamu	CHEW_4	FALSE	Pollex 06 Kamu. :Chew (Fbg).	POLLEX
 VaeakauTaumako_CHOOSE_1	Vaeakau-Taumako	pile1238	piv	CHOOSE	hilihilia	hilihilia	h i l i h i l i a	hili+hili+a	CHOOSE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_CHOOSE_1	Wallisian	wall1257	wls	CHOOSE	fili	fili	f i l i	fili	CHOOSE_1	FALSE	Select, choose	POLLEX
-Polynesian_CHOOSE_1	Proto-Polynesian	poly1242	nan	CHOOSE	*fili	fili	f i l i	fili	CHOOSE_1	FALSE		PawleyOC
 Maori_CHOOSE_1	Maori	maor1246	mri	CHOOSE	whiri	firi	f i r i	firi	CHOOSE_1	FALSE		Biggs-85-2005
 Kapingamarangi_CHOOSE_1	Kapingamarangi	kapi1249	kpg	CHOOSE	hili	hili	h i l i	hili	CHOOSE_1	FALSE	Choose, select (Lbr)	POLLEX
 Tahitian_CHOOSE_8	Tahitian	tahi1242	tah	CHOOSE	ma'iti	maʔiti	m a ʔ i t i	maʔiti	CHOOSE_8	FALSE		Clark-173-2005
@@ -4695,7 +4572,6 @@ RennellBellona_CHOOSE_1	RennellBellona	renn1242	mnv	CHOOSE	higi	hiɡi	h i ɡ i	h
 Tuvalu_CHOOSE_1	Tuvalu	tuva1244	tvl	CHOOSE	fili	fili	f i l i	fili	CHOOSE_1	FALSE		29903
 VaeakauTaumako_CLIMB_2	Vaeakau-Taumako	pile1238	piv	CLIMB	kake	kake	k a k e	kake	CLIMB_2	FALSE		Hovdhaugen-375-2009
 Wallisian_CLIMB_2	Wallisian	wall1257	wls	CLIMB	kake	kake	k a k e	kake	CLIMB_2	FALSE	Climb	POLLEX
-Polynesian_CLIMB_2	Proto-Polynesian	poly1242	nan	CLIMB	*kake	kake	k a k e	kake	CLIMB_2	FALSE	PPn shows lexical replacement	PawleyOC
 Maori_CLIMB_5	Maori	maor1246	mri	CLIMB	piki	piki	p i k i	piki	CLIMB_5	FALSE		Biggs-85-2005
 Kapingamarangi_CLIMB_5	Kapingamarangi	kapi1249	kpg	CLIMB	hiti	hiti	h i t i	hiti	CLIMB_5	FALSE	Climb from one height to another, as from tree to tree (Ebt)	POLLEX
 Tahitian_CLIMB_3	Tahitian	tahi1242	tah	CLIMB	ta'uma	taʔuma	t a ʔ u m a	taʔuma	CLIMB_3	FALSE		Clark-173-2005
@@ -4726,7 +4602,6 @@ Tuvalu_CLIMB_2	Tuvalu	tuva1244	tvl	CLIMB	kake	kake	k a k e	kake	CLIMB_2	FALSE		2
 Anuta_CLIMB_2	Anuta	anut1237	aud	CLIMB	kake	kake	k a k e	kake	CLIMB_2	FALSE	Climb (Yen)	POLLEX
 VaeakauTaumako_COME_5	Vaeakau-Taumako	pile1238	piv	COME	au	au	a u	au	COME_5	FALSE		Hovdhaugen-375-2009
 Wallisian_COME_1	Wallisian	wall1257	wls	COME	a'u	aʔu	a ʔ u	aʔu	COME_1	FALSE	Parvenir ..., arriver	POLLEX
-Polynesian_COME_1	Proto-Polynesian	poly1242	nan	COME	? fano mai	fanomai	f a n o m a i	fano_mai	COME_1	FALSE	PPn shows a possible replacement innovation.	PawleyOC
 Maori_COME_1	Maori	maor1246	mri	COME	haere mai	haeremai	h a e r e m a i	haere_mai	COME_1	FALSE		Biggs-85-2005
 Kapingamarangi_COME_4	Kapingamarangi	kapi1249	kpg	COME	hani	hani	h a n i	hani	COME_4	FALSE	Come (Singular)	POLLEX
 Tahitian_COME_1	Tahitian	tahi1242	tah	COME	haere mai	haeremai	h a e r e m a i	haere_mai	COME_1	FALSE		Clark-173-2005
@@ -4768,7 +4643,6 @@ Anuta_COME_5	Anuta	anut1237	aud	COME	au	au	a u	au	COME_5	FALSE	come	POLLEX
 VaeakauTaumako_COOK (SOMETHING)_8	Vaeakau-Taumako	pile1238	piv	COOK (SOMETHING)	tunaa	tunaa	t u n a a	tunaː	COOK (SOMETHING)_8	FALSE		Hovdhaugen-375-2009
 Wallisian_COOK (SOMETHING)_1	Wallisian	wall1257	wls	COOK (SOMETHING)	ta'o	taʔo	t a ʔ o	taʔo	COOK (SOMETHING)_1	FALSE	Mettre au four indigine ('umu), cuire, faire cuire	POLLEX
 Wallisian_COOK (SOMETHING)_3	Wallisian	wall1257	wls	COOK (SOMETHING)	haka	haka	h a k a	haka	COOK (SOMETHING)_3	FALSE	Faire bouillir dans un vase, faire fondre (Btn)	POLLEX
-Polynesian_COOK (SOMETHING)_3	Proto-Polynesian	poly1242	nan	COOK (SOMETHING)	*saka	saka	s a k a	saka	COOK (SOMETHING)_3	FALSE		PawleyOC
 Maori_COOK (SOMETHING)_1	Maori	maor1246	mri	COOK (SOMETHING)	tao	tao	t a o	tao	COOK (SOMETHING)_1	FALSE		Biggs-85-2005
 Kapingamarangi_COOK (SOMETHING)_1	Kapingamarangi	kapi1249	kpg	COOK (SOMETHING)	daa	daa	d a a	daː	COOK (SOMETHING)_1	FALSE	Cook in earth oven (Lbr)	POLLEX
 Tahitian_COOK (SOMETHING)_1	Tahitian	tahi1242	tah	COOK (SOMETHING)	'eu	ʔeu	ʔ e u	ʔeu	COOK (SOMETHING)_1	FALSE	(specifically in oven)	Clark-173-2005
@@ -4810,7 +4684,6 @@ Tuvalu_COOK (SOMETHING)_8	Tuvalu	tuva1244	tvl	COOK (SOMETHING)	tunu	tunu	t u n u
 Anuta_COOK (SOMETHING)_1	Anuta	anut1237	aud	COOK (SOMETHING)	tao	tao	t a o	tao	COOK (SOMETHING)_1	FALSE	Bake in earth oven (Fbg)	POLLEX
 VaeakauTaumako_COUNT_3	Vaeakau-Taumako	pile1238	piv	COUNT	phaua	phaua	p h a u a	phaua	COUNT_3	FALSE		Hovdhaugen-375-2009
 Wallisian_COUNT_3	Wallisian	wall1257	wls	COUNT	lau	lau	l a u	lau	COUNT_3	FALSE	Compter	POLLEX
-Polynesian_COUNT_3	Proto-Polynesian	poly1242	nan	COUNT	*tau	tau	t a u	tau	COUNT_3	FALSE		PawleyOC
 Maori_COUNT_3	Maori	maor1246	mri	COUNT	tatau	tatau	t a t a u	ta+tau	COUNT_3	FALSE		Biggs-85-2005
 Kapingamarangi_COUNT_3	Kapingamarangi	kapi1249	kpg	COUNT	dau	dau	d a u	dau	COUNT_3	FALSE	Count (Lbr)	POLLEX
 Tahitian_COUNT_4	Tahitian	tahi1242	tah	COUNT	tai'o	taiʔo	t a i ʔ o	taiʔo	COUNT_4	FALSE		Clark-173-2005
@@ -4882,7 +4755,6 @@ Wallisian_CUT OR HACK_8	Wallisian	wall1257	wls	CUT OR HACK	hele	hele	h e l e	hel
 Wallisian_CUT OR HACK_6	Wallisian	wall1257	wls	CUT OR HACK	kamu	kamu	k a m u	kamu	CUT OR HACK_6	FALSE	Couper, rogner, raccourcir.(Rch)	POLLEX
 Wallisian_CUT OR HACK_2	Wallisian	wall1257	wls	CUT OR HACK	ihi	ihi	i h i	ihi	CUT OR HACK_2	FALSE	Fendre, couper (Btn)	POLLEX
 Wallisian_CUT OR HACK_5	Wallisian	wall1257	wls	CUT OR HACK	fahi	fahi	f a h i	fahi	CUT OR HACK_5	FALSE	Fendre	POLLEX
-Polynesian_CUT OR HACK_16	Proto-Polynesian	poly1242	nan	CUT OR HACK	*kai(h,s)aqa	kaiaʔa	k a i a ʔ a	kaiaʔa	CUT OR HACK_16	FALSE		PawleyOC
 Maori_CUT OR HACK_1	Maori	maor1246	mri	CUT OR HACK	taa	taa	t a a	taː	CUT OR HACK_1	FALSE		Biggs-85-2005
 Kapingamarangi_CUT OR HACK_9	Kapingamarangi	kapi1249	kpg	CUT OR HACK	tuu	tuu	t u u	tuː	CUT OR HACK_9	FALSE	To cut (Lbr)	POLLEX
 Kapingamarangi_CUT OR HACK_11	Kapingamarangi	kapi1249	kpg	CUT OR HACK	dalai	dalai	d a l a i	dalai	CUT OR HACK_11	FALSE	Hew, carve (Lbr)	POLLEX
@@ -4943,7 +4815,6 @@ Tuvalu_CUT OR HACK_17	Tuvalu	tuva1244	tvl	CUT OR HACK	kati	kati	k a t i	kati	CUT
 Anuta_CUT OR HACK_14	Anuta	anut1237	aud	CUT OR HACK	motu	motu	m o t u	motu	CUT OR HACK_14	FALSE	Cut, break (Yen)	POLLEX
 VaeakauTaumako_BE DEAD OR DIE_1	Vaeakau-Taumako	pile1238	piv	BE DEAD OR DIE	mate	mate	m a t e	mate	BE DEAD OR DIE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_BE DEAD OR DIE_1	Wallisian	wall1257	wls	BE DEAD OR DIE	mate	mate	m a t e	mate	BE DEAD OR DIE_1	FALSE	Die, dead	POLLEX
-Polynesian_BE DEAD OR DIE_1	Proto-Polynesian	poly1242	nan	BE DEAD OR DIE	*mate	mate	m a t e	mate	BE DEAD OR DIE_1	FALSE		PawleyOC
 Maori_BE DEAD OR DIE_1	Maori	maor1246	mri	BE DEAD OR DIE	mate	mate	m a t e	mate	BE DEAD OR DIE_1	FALSE		Biggs-85-2005
 Kapingamarangi_BE DEAD OR DIE_1	Kapingamarangi	kapi1249	kpg	BE DEAD OR DIE	made	made	m a d e	made	BE DEAD OR DIE_1	FALSE	Die (Lbr)	POLLEX
 Tahitian_BE DEAD OR DIE_3	Tahitian	tahi1242	tah	BE DEAD OR DIE	pohe	pohe	p o h e	pohe	BE DEAD OR DIE_3	FALSE		Clark-173-2005
@@ -4979,7 +4850,6 @@ Anuta_BE DEAD OR DIE_1	Anuta	anut1237	aud	BE DEAD OR DIE	mate	mate	m a t e	mate	
 VaeakauTaumako_DIG_1	Vaeakau-Taumako	pile1238	piv	DIG	kelia	kelia	k e l i a	keli+a	DIG_1	FALSE		Hovdhaugen-375-2009
 Wallisian_DIG_5	Wallisian	wall1257	wls	DIG	hue	hue	h u e	hue	DIG_5	FALSE	dig.(Rch)	POLLEX
 Wallisian_DIG_1	Wallisian	wall1257	wls	DIG	keli	keli	k e l i	keli	DIG_1	FALSE	Dig (Btn)	POLLEX
-Polynesian_DIG_1	Proto-Polynesian	poly1242	nan	DIG	*keli	keli	k e l i	keli	DIG_1	FALSE		PawleyOC
 Maori_DIG_1	Maori	maor1246	mri	DIG	keri	keri	k e r i	keri	DIG_1	FALSE		Biggs-85-2005
 Kapingamarangi_DIG_1	Kapingamarangi	kapi1249	kpg	DIG	geli	ɡeli	ɡ e l i	geli	DIG_1	FALSE	Dig v (Lbr)	POLLEX
 Tahitian_DIG_1	Tahitian	tahi1242	tah	DIG	'eru	ʔeru	ʔ e r u	ʔeru	DIG_1	FALSE		Clark-173-2005
@@ -5016,8 +4886,6 @@ Anuta_DIG_7	Anuta	anut1237	aud	DIG	kenu	kenu	k e n u	kenu	DIG_7	FALSE	Disturb ea
 Anuta_DIG_1	Anuta	anut1237	aud	DIG	keri	keri	k e r i	keri	DIG_1	FALSE	Dig	POLLEX
 VaeakauTaumako_DREAM (SOMETHING)_2	Vaeakau-Taumako	pile1238	piv	DREAM (SOMETHING)	mihi	mihi	m i h i	mihi	DREAM (SOMETHING)_2	FALSE		Hovdhaugen-375-2009
 Wallisian_DREAM (SOMETHING)_2	Wallisian	wall1257	wls	DREAM (SOMETHING)	misi	misi	m i s i	misi	DREAM (SOMETHING)_2	FALSE	Dream	POLLEX
-Polynesian_DREAM (SOMETHING)_3	Proto-Polynesian	poly1242	nan	DREAM (SOMETHING)	*mohe-miti	mohemiti	m o h e m i t i	mohe+miti	DREAM (SOMETHING)_3	FALSE		PawleyOC
-Polynesian_DREAM (SOMETHING)_2	Proto-Polynesian	poly1242	nan	DREAM (SOMETHING)	*miti	miti	m i t i	miti	DREAM (SOMETHING)_2	FALSE		PawleyOC
 Maori_DREAM (SOMETHING)_3	Maori	maor1246	mri	DREAM (SOMETHING)	moemoeaa	moemoeaa	m o e m o e a a	moe+moe+aː	DREAM (SOMETHING)_3	FALSE		Biggs-85-2005
 Kapingamarangi_DREAM (SOMETHING)_2	Kapingamarangi	kapi1249	kpg	DREAM (SOMETHING)	midi	midi	m i d i	midi	DREAM (SOMETHING)_2	FALSE	Dream (Lbr)	POLLEX
 Tahitian_DREAM (SOMETHING)_1	Tahitian	tahi1242	tah	DREAM (SOMETHING)	ta'oto'otoaa	taʔotoʔotoaa	t a ʔ o t o ʔ o t o a a	ta+ʔoto+ʔoto+aː	DREAM (SOMETHING)_1	FALSE		Clark-173-2005
@@ -5050,7 +4918,6 @@ Tuvalu_DREAM (SOMETHING)_3	Tuvalu	tuva1244	tvl	DREAM (SOMETHING)	moemiti	moemiti
 Anuta_DREAM (SOMETHING)_2	Anuta	anut1237	aud	DREAM (SOMETHING)	miti	miti	m i t i	miti	DREAM (SOMETHING)_2	FALSE	Dream	POLLEX
 VaeakauTaumako_DRINK_1	Vaeakau-Taumako	pile1238	piv	DRINK	inumia	inumia	i n u m i a	inu+mia	DRINK_1	FALSE		Hovdhaugen-375-2009
 Wallisian_DRINK_1	Wallisian	wall1257	wls	DRINK	inu	inu	i n u	inu	DRINK_1	FALSE		POLLEX
-Polynesian_DRINK_1	Proto-Polynesian	poly1242	nan	DRINK	*inu	inu	i n u	inu	DRINK_1	FALSE		PawleyOC
 Maori_DRINK_1	Maori	maor1246	mri	DRINK	inu	inu	i n u	inu	DRINK_1	FALSE		Biggs-85-2005
 Kapingamarangi_DRINK_1	Kapingamarangi	kapi1249	kpg	DRINK	inu	inu	i n u	inu	DRINK_1	FALSE	Drink	POLLEX
 Tahitian_DRINK_1	Tahitian	tahi1242	tah	DRINK	inu	inu	i n u	inu	DRINK_1	FALSE		Clark-173-2005
@@ -5082,7 +4949,6 @@ Anuta_DRINK_1	Anuta	anut1237	aud	DRINK	inu	inu	i n u	inu	DRINK_1	FALSE	Drink (Ye
 VaeakauTaumako_EAT_1	Vaeakau-Taumako	pile1238	piv	EAT	kai	kai	k a i	kai	EAT_1	FALSE		Hovdhaugen-375-2009
 Wallisian_EAT_4	Wallisian	wall1257	wls	EAT	'omaki	ʔomaki	ʔ o m a k i	ʔomaki	EAT_4	FALSE	Boire en mangeant (Rch)	POLLEX
 Wallisian_EAT_1	Wallisian	wall1257	wls	EAT	kai	kai	k a i	kai	EAT_1	FALSE	Food, eat	POLLEX
-Polynesian_EAT_1	Proto-Polynesian	poly1242	nan	EAT	*kai	kai	k a i	kai	EAT_1	FALSE		PawleyOC
 Maori_EAT_1	Maori	maor1246	mri	EAT	kai	kai	k a i	kai	EAT_1	FALSE		Biggs-85-2005
 Kapingamarangi_EAT_1	Kapingamarangi	kapi1249	kpg	EAT	gai	ɡai	ɡ a i	gai	EAT_1	FALSE	Eat (Lbr)	POLLEX
 Tahitian_EAT_1	Tahitian	tahi1242	tah	EAT	'amu	ʔamu	ʔ a m u	ʔamu	EAT_1	TRUE	Tahitian borrowing during pi'i - perhaps borrowed-MW	Clark-173-2005
@@ -5119,7 +4985,6 @@ VaeakauTaumako_FALL_14	Vaeakau-Taumako	pile1238	piv	FALL	emo	emo	e m o	emo	FALL_
 Wallisian_FALL_8	Wallisian	wall1257	wls	FALL	higa	hiɡa	h i ɡ a	higa	FALL_8	FALSE	To fall	POLLEX
 Wallisian_FALL_3	Wallisian	wall1257	wls	FALL	malele	malele	m a l e l e	ma+le+le	FALL_3	FALSE	Accourir, se precipiter (Btn)	POLLEX
 Wallisian_FALL_2	Wallisian	wall1257	wls	FALL	mokulu	mokulu	m o k u l u	mokulu	FALL_2	TRUE	Tomber (Btn) B. [<]	POLLEX
-Polynesian_FALL_6	Proto-Polynesian	poly1242	nan	FALL	*too	too	t o o	toː	FALL_6	FALSE	'to fall, drop'	PawleyOC
 Maori_FALL_1	Maori	maor1246	mri	FALL	makere	makere	m a k e r e	makere	FALL_1	FALSE		Biggs-85-2005
 Kapingamarangi_FALL_8	Kapingamarangi	kapi1249	kpg	FALL	hinga	hiŋa	h i ŋ a	hiŋa	FALL_8	FALSE	Fall aside, collapse (Lbr)	POLLEX
 Tahitian_FALL_5	Tahitian	tahi1242	tah	FALL	topa	topa	t o p a	topa	FALL_5	FALSE		Clark-173-2005
@@ -5170,7 +5035,6 @@ Tuvalu_FALL_6	Tuvalu	tuva1244	tvl	FALL	too	too	t o o	toː	FALL_6	FALSE		29903
 Anuta_FALL_14	Anuta	anut1237	aud	FALL	remo	remo	r e m o	remo	FALL_14	FALSE	Pollex 06: Remo. :To drop an object; for an object to fall (Fbg).	POLLEX
 VaeakauTaumako_FEAR (BE AFRAID)_1	Vaeakau-Taumako	pile1238	piv	FEAR (BE AFRAID)	mathaku	matʰaku	m a tʰ a k u	matʰaku	FEAR (BE AFRAID)_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FEAR (BE AFRAID)_1	Wallisian	wall1257	wls	FEAR (BE AFRAID)	mataku	mataku	m a t a k u	mataku	FEAR (BE AFRAID)_1	FALSE	Afraid, fear	POLLEX
-Polynesian_FEAR (BE AFRAID)_1	Proto-Polynesian	poly1242	nan	FEAR (BE AFRAID)	*mataku	mataku	m a t a k u	mataku	FEAR (BE AFRAID)_1	FALSE		PawleyOC
 Maori_FEAR (BE AFRAID)_1	Maori	maor1246	mri	FEAR (BE AFRAID)	mataku	mataku	m a t a k u	mataku	FEAR (BE AFRAID)_1	FALSE		Biggs-85-2005
 Kapingamarangi_FEAR (BE AFRAID)_1	Kapingamarangi	kapi1249	kpg	FEAR (BE AFRAID)	madagu	madaɡu	m a d a ɡ u	madagu	FEAR (BE AFRAID)_1	FALSE	Fear, be afraid (Lbr)	POLLEX
 Tahitian_FEAR (BE AFRAID)_4	Tahitian	tahi1242	tah	FEAR (BE AFRAID)	ri'ari'a	riʔariʔa	r i ʔ a r i ʔ a	riʔa+riʔa	FEAR (BE AFRAID)_4	FALSE		Clark-173-2005
@@ -5208,7 +5072,6 @@ Anuta_FEAR (BE AFRAID)_1	Anuta	anut1237	aud	FEAR (BE AFRAID)	mataku	mataku	m a t
 VaeakauTaumako_FLOW_1	Vaeakau-Taumako	pile1238	piv	FLOW	thahe	tʰahe	tʰ a h e	tʰahe	FLOW_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FLOW_1	Wallisian	wall1257	wls	FLOW	tafe	tafe	t a f e	tafe	FLOW_1	FALSE	Couler, s'ecouler; torrent (Btn)	POLLEX
 Wallisian_FLOW_3	Wallisian	wall1257	wls	FLOW	hali	hali	h a l i	hali	FLOW_3	FALSE	Flow, fall (of water)	POLLEX
-Polynesian_FLOW_3	Proto-Polynesian	poly1242	nan	FLOW	*sali	sali	s a l i	sali	FLOW_3	FALSE	as a stream'flow (?in a small stream), trickle'	PawleyOC
 Maori_FLOW_1	Maori	maor1246	mri	FLOW	tere	tere	t e r e	tere	FLOW_1	FALSE		Biggs-85-2005
 Kapingamarangi_FLOW_3	Kapingamarangi	kapi1249	kpg	FLOW	hari	hari	h a r i	hari	FLOW_3	FALSE	Leak, trickle, shed, flow	POLLEX
 Tahitian_FLOW_1	Tahitian	tahi1242	tah	FLOW	tahe	tahe	t a h e	tahe	FLOW_1	FALSE		Clark-173-2005
@@ -5241,7 +5104,6 @@ Tuvalu_FLOW_7	Tuvalu	tuva1244	tvl	FLOW	hua	hua	h u a	hua	FLOW_7	FALSE		29903
 Anuta_FLOW_1	Anuta	anut1237	aud	FLOW	tatape	tatape	t a t a p e	ta+tape	FLOW_1	FALSE	flow	POLLEX
 VaeakauTaumako_FLY (MOVE THROUGH AIR)_1	Vaeakau-Taumako	pile1238	piv	FLY (MOVE THROUGH AIR)	lele	lele	l e l e	lele	FLY (MOVE THROUGH AIR)_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FLY (MOVE THROUGH AIR)_1	Wallisian	wall1257	wls	FLY (MOVE THROUGH AIR)	lele	lele	l e l e	lele	FLY (MOVE THROUGH AIR)_1	FALSE	Fly, run	POLLEX
-Polynesian_FLY (MOVE THROUGH AIR)_1	Proto-Polynesian	poly1242	nan	FLY (MOVE THROUGH AIR)	*lele	lele	l e l e	lele	FLY (MOVE THROUGH AIR)_1	FALSE	PPn loses POc form.	PawleyOC
 Maori_FLY (MOVE THROUGH AIR)_1	Maori	maor1246	mri	FLY (MOVE THROUGH AIR)	rere	rere	r e r e	rere	FLY (MOVE THROUGH AIR)_1	FALSE		Biggs-85-2005
 Kapingamarangi_FLY (MOVE THROUGH AIR)_8	Kapingamarangi	kapi1249	kpg	FLY (MOVE THROUGH AIR)	maangi	maaŋi	m a a ŋ i	maːŋi	FLY (MOVE THROUGH AIR)_8	FALSE	Pollex 06: Maangi. :Fly, flap, as wings.	POLLEX
 Tahitian_FLY (MOVE THROUGH AIR)_1	Tahitian	tahi1242	tah	FLY (MOVE THROUGH AIR)	rere	rere	r e r e	rere	FLY (MOVE THROUGH AIR)_1	FALSE		Clark-173-2005
@@ -5277,7 +5139,6 @@ Anuta_FLY (MOVE THROUGH AIR)_1	Anuta	anut1237	aud	FLY (MOVE THROUGH AIR)	rere	re
 VaeakauTaumako_GROW_1	Vaeakau-Taumako	pile1238	piv	GROW	thupu	tʰupu	tʰ u p u	tʰupu	GROW_1	FALSE		Hovdhaugen-375-2009
 Wallisian_GROW_1	Wallisian	wall1257	wls	GROW	tupu	tupu	t u p u	tupu	GROW_1	FALSE	Naissance, croissance; naitre, croitre, germer (Rch)	POLLEX
 Wallisian_GROW_4	Wallisian	wall1257	wls	GROW	homo	homo	h o m o	homo	GROW_4	FALSE	Sortir de terre (Btn)	POLLEX
-Polynesian_GROW_1	Proto-Polynesian	poly1242	nan	GROW	*tupu	tupu	t u p u	tupu	GROW_1	FALSE		PawleyOC
 Maori_GROW_1	Maori	maor1246	mri	GROW	tupu	tupu	t u p u	tupu	GROW_1	FALSE		Biggs-85-2005
 Tahitian_GROW_1	Tahitian	tahi1242	tah	GROW	tupu	tupu	t u p u	tupu	GROW_1	FALSE		Clark-173-2005
 Rapanui_GROW_2	Rapanui	rapa1244	rap	GROW	riku	riku	r i k u	riku	GROW_2	FALSE		POLLEX
@@ -5311,7 +5172,6 @@ Tuvalu_GROW_1	Tuvalu	tuva1244	tvl	GROW	tupu	tupu	t u p u	tupu	GROW_1	FALSE		2990
 Anuta_GROW_1	Anuta	anut1237	aud	GROW	tupu	tupu	t u p u	tupu	GROW_1	FALSE	Grow (Yen)	POLLEX
 VaeakauTaumako_HEAR_1	Vaeakau-Taumako	pile1238	piv	HEAR	longo	loŋo	l o ŋ o	loŋo	HEAR_1	FALSE		Hovdhaugen-375-2009
 Wallisian_HEAR_1	Wallisian	wall1257	wls	HEAR	logo	loɡo	l o ɡ o	logo	HEAR_1	FALSE	To hear, news	POLLEX
-Polynesian_HEAR_1	Proto-Polynesian	poly1242	nan	HEAR	*roŋo	roŋo	r o ŋ o	roŋo	HEAR_1	FALSE		PawleyOC
 Maori_HEAR_1	Maori	maor1246	mri	HEAR	rongo	roŋo	r o ŋ o	roŋo	HEAR_1	FALSE		Biggs-85-2005
 Kapingamarangi_HEAR_1	Kapingamarangi	kapi1249	kpg	HEAR	longo	loŋo	l o ŋ o	loŋo	HEAR_1	FALSE	Hear (Lbr)	POLLEX
 Tahitian_HEAR_1	Tahitian	tahi1242	tah	HEAR	fa'aro'o	faʔaroʔo	f a ʔ a r o ʔ o	faʔa+roʔo	HEAR_1	FALSE		Clark-173-2005
@@ -5342,7 +5202,6 @@ Tuvalu_HEAR_1	Tuvalu	tuva1244	tvl	HEAR	logo	loɡo	l o ɡ o	logo	HEAR_1	FALSE		29
 Anuta_HEAR_1	Anuta	anut1237	aud	HEAR	roŋo	roŋo	r o ŋ o	roŋo	HEAR_1	FALSE	hear	POLLEX
 VaeakauTaumako_HIDE_1	Vaeakau-Taumako	pile1238	piv	HIDE	muni	muni	m u n i	muni	HIDE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_HIDE_1	Wallisian	wall1257	wls	HIDE	mu(mu)ni	muni	m u n i	muni	HIDE_1	FALSE	Hide an object	POLLEX
-Polynesian_HIDE_1	Proto-Polynesian	poly1242	nan	HIDE	*funi	funi	f u n i	funi	HIDE_1	FALSE	PT: Motu huni-a 'to hide'	PawleyOC
 Maori_HIDE_1	Maori	maor1246	mri	HIDE	huna	huna	h u n a	huna	HIDE_1	FALSE		Biggs-85-2005
 Tahitian_HIDE_1	Tahitian	tahi1242	tah	HIDE	taapuni	taapuni	t a a p u n i	taː+puni	HIDE_1	FALSE		Clark-173-2005
 Rapanui_HIDE_2	Rapanui	rapa1244	rap	HIDE	romi	romi	r o m i	romi	HIDE_2	FALSE		POLLEX
@@ -5375,8 +5234,6 @@ Wallisian_HIT_1	Wallisian	wall1257	wls	HIT	taa	taa	t a a	taː	HIT_1	FALSE	Battre
 Wallisian_HIT_4	Wallisian	wall1257	wls	HIT	haha	haha	h a h a	ha+ha	HIT_4	FALSE	Battre, flageller (Btn)	POLLEX
 Wallisian_HIT_10	Wallisian	wall1257	wls	HIT	paki	paki	p a k i	paki	HIT_10	FALSE	Paaki-a	POLLEX
 Wallisian_HIT_7	Wallisian	wall1257	wls	HIT	paa	paa	p a a	paː	HIT_7	FALSE	Touch, strike	POLLEX
-Polynesian_HIT_10	Proto-Polynesian	poly1242	nan	HIT	*paki	paki	p a k i	paki	HIT_10	FALSE	(b) to slap	PawleyOC
-Polynesian_HIT_13	Proto-Polynesian	poly1242	nan	HIT	*tuki	tuki	t u k i	tuki	HIT_13	FALSE	(a) to pound	PawleyOC
 Maori_HIT_12	Maori	maor1246	mri	HIT	patu	patu	p a t u	patu	HIT_12	FALSE		Biggs-85-2005
 Kapingamarangi_HIT_13	Kapingamarangi	kapi1249	kpg	HIT	tugi	tuɡi	t u ɡ i	tugi	HIT_13	FALSE	Pound, hit accidentally (Lbr)	POLLEX
 Kapingamarangi_HIT_1	Kapingamarangi	kapi1249	kpg	HIT	ta	ta	t a	ta	HIT_1	FALSE	Strike (Ebt)	POLLEX
@@ -5489,7 +5346,6 @@ RennellBellona_HOLD_13	RennellBellona	renn1242	mnv	HOLD	pipiki	pipiki	p i p i k 
 Tuvalu_HOLD_4	Tuvalu	tuva1244	tvl	HOLD	tago	taɡo	t a ɡ o	tago	HOLD_4	FALSE		29903
 Tuvalu_HOLD_3	Tuvalu	tuva1244	tvl	HOLD	puke	puke	p u k e	puke	HOLD_3	FALSE		29903
 Anuta_HOLD_2	Anuta	anut1237	aud	HOLD	kuku	kuku	k u k u	ku+ku	HOLD_2	FALSE	Grasp a small object which may be completely held in the hand (Fbg)	POLLEX
-Polynesian_HUNT_22	Proto-Polynesian	poly1242	nan	HUNT	*tuli-manu	tulimanu	t u l i m a n u	tuli+manu	HUNT_22	FALSE		PawleyOC
 Maori_HUNT_15	Maori	maor1246	mri	HUNT	whaiwhai	faifai	f a i f a i	fai+fai	HUNT_15	FALSE		Biggs-85-2005
 Tahitian_HUNT_19	Tahitian	tahi1242	tah	HUNT	a'ua'u	aʔuaʔu	a ʔ u a ʔ u	aʔuaʔu	HUNT_19	FALSE		Clark-173-2005
 Emae_HUNT_2	Emae	emae1237	mmw	HUNT	kolikoli	kolikoli	k o l i k o l i	koli+koli	HUNT_2	FALSE		52375
@@ -5524,7 +5380,6 @@ Anuta_HUNT_7	Anuta	anut1237	aud	HUNT	turi	turi	t u r i	turi	HUNT_7	FALSE	hunt	PO
 VaeakauTaumako_KILL_3	Vaeakau-Taumako	pile1238	piv	KILL	tamatea	tamatea	t a m a t e a	ta+mate+a	KILL_3	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_KILL_6	Vaeakau-Taumako	pile1238	piv	KILL	taia	taia	t a i a	ta+ia	KILL_6	FALSE		Hovdhaugen-375-2009
 Wallisian_KILL_3	Wallisian	wall1257	wls	KILL	tamatei	tamatei	t a m a t e i	ta+mate+i	KILL_3	FALSE		POLLEX
-Polynesian_KILL_3	Proto-Polynesian	poly1242	nan	KILL	*ta-mate-	tamate	t a m a t e	ta+mate	KILL_3	FALSE		PawleyOC
 Maori_KILL_10	Maori	maor1246	mri	KILL	patu	patu	p a t u	patu	KILL_10	FALSE		Biggs-85-2005
 Kapingamarangi_KILL_2	Kapingamarangi	kapi1249	kpg	KILL	taliki	taliki	t a l i k i	ta+liki	KILL_2	FALSE		POLLEX
 Tahitian_KILL_1	Tahitian	tahi1242	tah	KILL	taparahi	taparahi	t a p a r a h i	ta+parahi	KILL_1	FALSE		Clark-173-2005
@@ -5564,7 +5419,6 @@ Tuvalu_KILL_3	Tuvalu	tuva1244	tvl	KILL	taa mate	taamate	t a a m a t e	taː_mate	
 Anuta_KILL_3	Anuta	anut1237	aud	KILL	ta mate	tamate	t a m a t e	ta_mate	KILL_3	FALSE	kill	POLLEX
 VaeakauTaumako_KNOW (SOMETHING)_4	Vaeakau-Taumako	pile1238	piv	KNOW (SOMETHING)	iloa	iloa	i l o a	iloa	KNOW (SOMETHING)_4	FALSE		Hovdhaugen-375-2009
 Wallisian_KNOW (SOMETHING)_5	Wallisian	wall1257	wls	KNOW (SOMETHING)	mahani	ʔiloʔi	ʔ i l o ʔ i	ʔiloʔi	KNOW (SOMETHING)_5	FALSE	Habituee, accoutume (Btn)	POLLEX
-Polynesian_KNOW (SOMETHING)_4	Proto-Polynesian	poly1242	nan	KNOW (SOMETHING)	*qiloa	ʔiloa	ʔ i l o a	ʔiloa	KNOW (SOMETHING)_4	FALSE		PawleyOC
 Maori_KNOW (SOMETHING)_13	Maori	maor1246	mri	KNOW (SOMETHING)	moohio	moohio	m o o h i o	moːhio	KNOW (SOMETHING)_13	FALSE		Biggs-85-2005
 Kapingamarangi_KNOW (SOMETHING)_4	Kapingamarangi	kapi1249	kpg	KNOW (SOMETHING)	iloo	iloo	i l o o	iloː	KNOW (SOMETHING)_4	FALSE	Know, knowledge (Lbr)	POLLEX
 Tahitian_KNOW (SOMETHING)_2	Tahitian	tahi1242	tah	KNOW (SOMETHING)	'ite	ʔite	ʔ i t e	ʔite	KNOW (SOMETHING)_2	FALSE		Clark-173-2005
@@ -5605,7 +5459,6 @@ Anuta_KNOW (SOMETHING)_6	Anuta	anut1237	aud	KNOW (SOMETHING)	poto	poto	p o t o	p
 Anuta_KNOW (SOMETHING)_4	Anuta	anut1237	aud	KNOW (SOMETHING)	iroa	iroa	i r o a	iroa	KNOW (SOMETHING)_4	FALSE	Know, understand (Fbg)	POLLEX
 VaeakauTaumako_LAUGH_2	Vaeakau-Taumako	pile1238	piv	LAUGH	kata	kata	k a t a	kata	LAUGH_2	FALSE		Hovdhaugen-375-2009
 Wallisian_LAUGH_2	Wallisian	wall1257	wls	LAUGH	kata	kata	k a t a	kata	LAUGH_2	FALSE	Laugh	POLLEX
-Polynesian_LAUGH_2	Proto-Polynesian	poly1242	nan	LAUGH	*kata	kata	k a t a	kata	LAUGH_2	FALSE	PPn shows a replacement innovation.	PawleyOC
 Maori_LAUGH_2	Maori	maor1246	mri	LAUGH	kata	kata	k a t a	kata	LAUGH_2	FALSE		Biggs-85-2005
 Kapingamarangi_LAUGH_2	Kapingamarangi	kapi1249	kpg	LAUGH	katakata	katakata	k a t a k a t a	kata+kata	LAUGH_2	FALSE		POLLEX
 Tahitian_LAUGH_2	Tahitian	tahi1242	tah	LAUGH	'ata	ʔata	ʔ a t a	ʔata	LAUGH_2	FALSE		Clark-173-2005
@@ -5636,7 +5489,6 @@ Tuvalu_LAUGH_2	Tuvalu	tuva1244	tvl	LAUGH	kata	kata	k a t a	kata	LAUGH_2	FALSE		2
 Anuta_LAUGH_2	Anuta	anut1237	aud	LAUGH	kata	kata	k a t a	kata	LAUGH_2	FALSE	Laugh	POLLEX
 VaeakauTaumako_LIE DOWN_5	Vaeakau-Taumako	pile1238	piv	LIE DOWN	takoto	takoto	t a k o t o	ta+koto	LIE DOWN_5	FALSE		Hovdhaugen-375-2009
 Wallisian_LIE DOWN_5	Wallisian	wall1257	wls	LIE DOWN	takoto	takoto	t a k o t o	ta+koto	LIE DOWN_5	FALSE	(on side)	POLLEX
-Polynesian_LIE DOWN_5	Proto-Polynesian	poly1242	nan	LIE DOWN	*takoto	takoto	t a k o t o	ta+koto	LIE DOWN_5	FALSE		PawleyOC
 Maori_LIE DOWN_5	Maori	maor1246	mri	LIE DOWN	takoto	takoto	t a k o t o	ta+koto	LIE DOWN_5	FALSE		Biggs-85-2005
 Kapingamarangi_LIE DOWN_4	Kapingamarangi	kapi1249	kpg	LIE DOWN	moe	moe	m o e	moe	LIE DOWN_4	FALSE	Lie down	POLLEX
 Tahitian_LIE DOWN_5	Tahitian	tahi1242	tah	LIE DOWN	ta'oto	taʔoto	t a ʔ o t o	ta+ʔoto	LIE DOWN_5	FALSE		Clark-173-2005
@@ -5709,7 +5561,6 @@ Anuta_BE ALIVE_4	Anuta	anut1237	aud	BE ALIVE	ora	ora	o r a	ora	BE ALIVE_4	FALSE	
 VaeakauTaumako_OPEN_1	Vaeakau-Taumako	pile1238	piv	OPEN	hukea	hukea	h u k e a	hukea	OPEN_1	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_OPEN_13	Vaeakau-Taumako	pile1238	piv	OPEN	ahangia	ahaŋia	a h a ŋ i a	ahaŋia	OPEN_13	FALSE		Hovdhaugen-375-2009
 Wallisian_OPEN_13	Wallisian	wall1257	wls	OPEN	faài	faʔai	f a ʔ a i	faʔai	OPEN_13	FALSE	Fendre, ouvrir, separer (Btn)	POLLEX
-Polynesian_OPEN_2	Proto-Polynesian	poly1242	nan	OPEN	*tatala	tatala	t a t a l a	ta+tala	OPEN_2	FALSE	(a door, container)	PawleyOC
 Maori_OPEN_12	Maori	maor1246	mri	OPEN	huaki	huaki	h u a k i	huaki	OPEN_12	FALSE	(<M)	Biggs-85-2005
 Tahitian_OPEN_12	Tahitian	tahi1242	tah	OPEN	hua'i	huaʔi	h u a ʔ i	huaʔi	OPEN_12	FALSE	oven	Clark-173-2005
 Rapanui_OPEN_13	Rapanui	rapa1244	rap	OPEN	hahata	hahata	h a h a t a	ha+hata	OPEN_13	FALSE		POLLEX
@@ -5743,7 +5594,6 @@ Anuta_OPEN_2	Anuta	anut1237	aud	OPEN	ta/tara	tara	t a r a	tara	OPEN_2	FALSE	Poll
 VaeakauTaumako_PLANT (SOMETHING)_3	Vaeakau-Taumako	pile1238	piv	PLANT (SOMETHING)	tokia	tokia	t o k i a	toki+a	PLANT (SOMETHING)_3	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_PLANT (SOMETHING)_3	Vaeakau-Taumako	pile1238	piv	PLANT (SOMETHING)	thoo	tʰoː	tʰ oː	tʰoː	PLANT (SOMETHING)_3	FALSE		Hovdhaugen-375-2009
 Wallisian_PLANT (SOMETHING)_3	Wallisian	wall1257	wls	PLANT (SOMETHING)	too	too	t o o	toː	PLANT (SOMETHING)_3	FALSE	Planter (Rch)	POLLEX
-Polynesian_PLANT (SOMETHING)_3	Proto-Polynesian	poly1242	nan	PLANT (SOMETHING)	*too	too	t o o	toː	PLANT (SOMETHING)_3	FALSE	PPn shows lexical replacement.	PawleyOC
 Maori_PLANT (SOMETHING)_3	Maori	maor1246	mri	PLANT (SOMETHING)	too	too	t o o	toː	PLANT (SOMETHING)_3	FALSE		Biggs-85-2005
 Kapingamarangi_PLANT (SOMETHING)_2	Kapingamarangi	kapi1249	kpg	PLANT (SOMETHING)	tanu	tanu	t a n u	tanu	PLANT (SOMETHING)_2	FALSE	Pollex 06: Tanu. :Bury, plant (Ebt).	POLLEX
 Tahitian_PLANT (SOMETHING)_2	Tahitian	tahi1242	tah	PLANT (SOMETHING)	tanu	tanu	t a n u	tanu	PLANT (SOMETHING)_2	FALSE		Clark-173-2005
@@ -5769,7 +5619,6 @@ Nukuria_PLANT (SOMETHING)_3	Nukuria	nuku1259	nur	PLANT (SOMETHING)	toki	toki	t o
 Samoan_PLANT (SOMETHING)_3	Samoan	samo1305	smo	PLANT (SOMETHING)	tō	too	t o o	toː	PLANT (SOMETHING)_3	FALSE		Blust-118-2005
 Anuta_PLANT (SOMETHING)_3	Anuta	anut1237	aud	PLANT (SOMETHING)	too	too	t o o	toː	PLANT (SOMETHING)_3	FALSE	To plant (Yen)	POLLEX
 Wallisian_POUND_2	Wallisian	wall1257	wls	POUND	tuki	tuki	t u k i	tuki	POUND_2	FALSE	Strike, beat	POLLEX
-Polynesian_POUND_2	Proto-Polynesian	poly1242	nan	POUND	*tuki	tuki	t u k i	tuki	POUND_2	FALSE		PawleyOC
 Maori_POUND_2	Maori	maor1246	mri	POUND	tuki	tuki	t u k i	tuki	POUND_2	FALSE		Biggs-85-2005
 Kapingamarangi_POUND_2	Kapingamarangi	kapi1249	kpg	POUND	tugi	tuɡi	t u ɡ i	tugi	POUND_2	FALSE	Pound, hit accidentally (Lbr)	POLLEX
 Tahitian_POUND_1	Tahitian	tahi1242	tah	POUND	paapaahia	paapaaːpahia	p a a p a aː p a h i a	paː+paːhia	POUND_1	FALSE		Clark-173-2005
@@ -5798,7 +5647,6 @@ RennellBellona_POUND_2	RennellBellona	renn1242	mnv	POUND	tuki	tuki	t u k i	tuki	
 Tuvalu_POUND_2	Tuvalu	tuva1244	tvl	POUND	tukituki	tukituki	t u k i t u k i	tuki+tuki	POUND_2	FALSE		29903
 Anuta_POUND_2	Anuta	anut1237	aud	POUND	tuki	tuki	t u k i	tuki	POUND_2	FALSE	Hit, strike (Yen)	POLLEX
 VaeakauTaumako_SAY_8	Vaeakau-Taumako	pile1238	piv	SAY	tukua	tukua	t u k u a	tukua	SAY_8	FALSE		Hovdhaugen-375-2009
-Polynesian_SAY_15	Proto-Polynesian	poly1242	nan	SAY	*tala	tala	t a l a	tala	SAY_15	FALSE	(to speak) tell, relate, (n.) talk, message'	PawleyOC
 Maori_SAY_2	Maori	maor1246	mri	SAY	koorero	koorero	k o o r e r o	koːrero	SAY_2	FALSE		Biggs-85-2005
 Kapingamarangi_SAY_1	Kapingamarangi	kapi1249	kpg	SAY	tapa	tapa	t a p a	tapa	SAY_1	FALSE	Pollex 06: Tapa. :Say (Ebt).	POLLEX
 Tahitian_SAY_3	Tahitian	tahi1242	tah	SAY	parau	parau	p a r a u	parau	SAY_3	FALSE		Clark-173-2005
@@ -5834,7 +5682,6 @@ Tuvalu_SAY_4	Tuvalu	tuva1244	tvl	SAY	faipati	faipati	f a i p a t i	fai+pati	SAY_
 Anuta_SAY_5	Anuta	anut1237	aud	SAY	karaŋa	karaŋa	k a r a ŋ a	karaŋa	SAY_5	FALSE	say	POLLEX
 VaeakauTaumako_SCRATCH_9	Vaeakau-Taumako	pile1238	piv	SCRATCH	maŋeo	maŋeo	m a ŋ e o	maŋeo	SCRATCH_9	FALSE	scratch	Hovdhaugen-375-2009
 Wallisian_SCRATCH_1	Wallisian	wall1257	wls	SCRATCH	alasi	alasi	a l a s i	ala+si	SCRATCH_1	TRUE	To scratch B. [<]	POLLEX
-Polynesian_SCRATCH_11	Proto-Polynesian	poly1242	nan	SCRATCH	*waku	waku	w a k u	waku	SCRATCH_11	FALSE	sure? not *laku?-MW	PawleyOC
 Maori_SCRATCH_10	Maori	maor1246	mri	SCRATCH	rakuraku	rakuraku	r a k u r a k u	raku+raku	SCRATCH_10	FALSE	(<M)	Biggs-85-2005
 Kapingamarangi_SCRATCH_10	Kapingamarangi	kapi1249	kpg	SCRATCH	llagu	llaɡu	l l a ɡ u	llagu	SCRATCH_10	FALSE	Grab, claw v (Lbr)	POLLEX
 Kapingamarangi_SCRATCH_1	Kapingamarangi	kapi1249	kpg	SCRATCH	lodi	lodi	l o d i	lodi	SCRATCH_1	FALSE	Scratch, rasp (Lbr)	POLLEX
@@ -5869,7 +5716,6 @@ Tuvalu_SCRATCH_1	Tuvalu	tuva1244	tvl	SCRATCH	alati	alati	a l a t i	ala+ti	SCRATC
 Anuta_SCRATCH_2	Anuta	anut1237	aud	SCRATCH	koii	koii	k o i i	koiː	SCRATCH_2	FALSE	Polex 06: Koii. :To scratch with one`s fingernail (Fbg).	POLLEX
 VaeakauTaumako_SEE_1	Vaeakau-Taumako	pile1238	piv	SEE	kutea	kutea	k u t e a	kute+a	SEE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_SEE_5	Wallisian	wall1257	wls	SEE	sio	sio	s i o	sio	SEE_5	FALSE		POLLEX
-Polynesian_SEE_1	Proto-Polynesian	poly1242	nan	SEE	*kite	kite	k i t e	kite	SEE_1	FALSE		PawleyOC
 Maori_SEE_1	Maori	maor1246	mri	SEE	kite	kite	k i t e	kite	SEE_1	FALSE		Biggs-85-2005
 Kapingamarangi_SEE_9	Kapingamarangi	kapi1249	kpg	SEE	mada	mada	m a d a	mada	SEE_9	FALSE	See, look (used only in compounds) (Lbr)	POLLEX
 Tahitian_SEE_1	Tahitian	tahi1242	tah	SEE	'ite	ʔite	ʔ i t e	ʔite	SEE_1	FALSE		Clark-173-2005
@@ -5905,8 +5751,6 @@ Tuvalu_SEE_4	Tuvalu	tuva1244	tvl	SEE	kilo	kilo	k i l o	kilo	SEE_4	FALSE		29903
 Anuta_SEE_9	Anuta	anut1237	aud	SEE	mamata	mamata	m a m a t a	ma+mata	SEE_9	FALSE	Pollex 06: Mamata. :To see (Fbg).	POLLEX
 VaeakauTaumako_SEW_5	Vaeakau-Taumako	pile1238	piv	SEW	tohia	tohia	t o h i a	to+hia	SEW_5	FALSE		Hovdhaugen-375-2009
 Wallisian_SEW_1	Wallisian	wall1257	wls	SEW	tui	tui	t u i	tui	SEW_1	FALSE	Sew	POLLEX
-Polynesian_SEW_1	Proto-Polynesian	poly1242	nan	SEW	*tui	tui	t u i	tui	SEW_1	FALSE		PawleyOC
-Polynesian_SEW_6	Proto-Polynesian	poly1242	nan	SEW	*suki	suki	s u k i	suki	SEW_6	FALSE	PPn continues POC *tuRi as *tui in the sense of thread string through fish or other objects but also has a reduplicated form *tuitui meaning 'to sew'	PawleyOC
 Maori_SEW_1	Maori	maor1246	mri	SEW	tui	tui	t u i	tui	SEW_1	FALSE		Biggs-85-2005
 Kapingamarangi_SEW_1	Kapingamarangi	kapi1249	kpg	SEW	dui	dui	d u i	dui	SEW_1	FALSE	Sew, pierce (Lbr)	POLLEX
 Tahitian_SEW_4	Tahitian	tahi1242	tah	SEW	nira	nira	n i r a	nira	SEW_4	TRUE		Clark-173-2005
@@ -5966,7 +5810,6 @@ RennellBellona_SHOOT_1	RennellBellona	renn1242	mnv	SHOOT	hana	hana	h a n a	hana	
 Tuvalu_SHOOT_1	Tuvalu	tuva1244	tvl	SHOOT	fana	fana	f a n a	fana	SHOOT_1	FALSE		29903
 VaeakauTaumako_SIT_2	Vaeakau-Taumako	pile1238	piv	SIT	noho	noho	n o h o	noho	SIT_2	FALSE		Hovdhaugen-375-2009
 Wallisian_SIT_2	Wallisian	wall1257	wls	SIT	nofo	nofo	n o f o	nofo	SIT_2	FALSE	Sit	POLLEX
-Polynesian_SIT_2	Proto-Polynesian	poly1242	nan	SIT	*nofo	nofo	n o f o	nofo	SIT_2	FALSE		PawleyOC
 Maori_SIT_2	Maori	maor1246	mri	SIT	noho	noho	n o h o	noho	SIT_2	FALSE		Biggs-85-2005
 Kapingamarangi_SIT_2	Kapingamarangi	kapi1249	kpg	SIT	noho	noho	n o h o	noho	SIT_2	FALSE	Sit, dwell	POLLEX
 Tahitian_SIT_3	Tahitian	tahi1242	tah	SIT	paarahi	paarahi	p a a r a h i	paːrahi	SIT_3	FALSE		Clark-173-2005
@@ -6000,7 +5843,6 @@ Tuvalu_SIT_2	Tuvalu	tuva1244	tvl	SIT	noho	noho	n o h o	noho	SIT_2	FALSE		29903
 Anuta_SIT_2	Anuta	anut1237	aud	SIT	nopo	nopo	n o p o	nopo	SIT_2	FALSE	Sit	POLLEX
 VaeakauTaumako_SLEEP_1	Vaeakau-Taumako	pile1238	piv	SLEEP	moe	moe	m o e	moe	SLEEP_1	FALSE		Hovdhaugen-375-2009
 Wallisian_SLEEP_1	Wallisian	wall1257	wls	SLEEP	moe	moe	m o e	moe	SLEEP_1	FALSE	Sleep	POLLEX
-Polynesian_SLEEP_1	Proto-Polynesian	poly1242	nan	SLEEP	*mohe	mohe	m o h e	mohe	SLEEP_1	FALSE	PCP shows a replacement innovation, reflected by Fijian moce, mose, Rotuman mose, PPn *mohe.  PCP *mo(c,s)e has probable antecedents in POc but shows semantic shift.	PawleyOC
 Maori_SLEEP_1	Maori	maor1246	mri	SLEEP	moe	moe	m o e	moe	SLEEP_1	FALSE		Biggs-85-2005
 Kapingamarangi_SLEEP_2	Kapingamarangi	kapi1249	kpg	SLEEP	khi	khi	k h i	khi	SLEEP_2	FALSE		POLLEX
 Tahitian_SLEEP_3	Tahitian	tahi1242	tah	SLEEP	ta'oto	taʔoto	t a ʔ o t o	taʔoto	SLEEP_3	FALSE		Clark-173-2005
@@ -6070,7 +5912,6 @@ VaeakauTaumako_SPIT_6	Vaeakau-Taumako	pile1238	piv	SPIT	ivalea	ivalea	i v a l e 
 Wallisian_SPIT_1	Wallisian	wall1257	wls	SPIT	anu	anu	a n u	anu	SPIT_1	FALSE		POLLEX
 Wallisian_SPIT_3	Wallisian	wall1257	wls	SPIT	puàki	puʔaki	p u ʔ a k i	puʔaki	SPIT_3	FALSE	Spit out	POLLEX
 Wallisian_SPIT_1	Wallisian	wall1257	wls	SPIT	kisu	kisu	k i s u	kisu	SPIT_1	TRUE	Rejeter de la bouche en soufflant; cracher (Btn)	POLLEX
-Polynesian_SPIT_1	Proto-Polynesian	poly1242	nan	SPIT	*qanu-si	ʔanusi	ʔ a n u s i	ʔanu+si	SPIT_1	FALSE		PawleyOC
 Maori_SPIT_7	Maori	maor1246	mri	SPIT	tuha	tuha	t u h a	tuha	SPIT_7	FALSE		Biggs-85-2005
 Kapingamarangi_SPIT_2	Kapingamarangi	kapi1249	kpg	SPIT	pui	pui	p u i	pui	SPIT_2	FALSE		POLLEX
 Tahitian_SPIT_7	Tahitian	tahi1242	tah	SPIT	tutuha	tutuha	t u t u h a	tutuha	SPIT_7	FALSE		Clark-173-2005
@@ -6108,11 +5949,6 @@ Tuvalu_SPIT_1	Tuvalu	tuva1244	tvl	SPIT	anu	anu	a n u	anu	SPIT_1	FALSE		29903
 Anuta_SPIT_1	Anuta	anut1237	aud	SPIT	anu	anu	a n u	anu	SPIT_1	FALSE	Spit (Fbg)	POLLEX
 VaeakauTaumako_SPLIT_8	Vaeakau-Taumako	pile1238	piv	SPLIT	mahaa	mahaa	m a h a a	mahaː	SPLIT_8	FALSE		Hovdhaugen-375-2009
 Wallisian_SPLIT_12	Wallisian	wall1257	wls	SPLIT	ta'aga	taʔaɡa	t a ʔ a ɡ a	taʔaga	SPLIT_12	FALSE		POLLEX
-Polynesian_SPLIT_1	Proto-Polynesian	poly1242	nan	SPLIT	*fola	fola	f o l a	fola	SPLIT_1	FALSE	(e) be split open	PawleyOC
-Polynesian_SPLIT_8	Proto-Polynesian	poly1242	nan	SPLIT	*ma-faa	mafaa	m a f a a	mafaː	SPLIT_8	FALSE	(d) burst, split open	PawleyOC
-Polynesian_SPLIT_8	Proto-Polynesian	poly1242	nan	SPLIT	*faa	faa	f a a	faː	SPLIT_8	FALSE	(c) burst, split open	PawleyOC
-Polynesian_SPLIT_11	Proto-Polynesian	poly1242	nan	SPLIT	*isi	isi	i s i	isi	SPLIT_11	FALSE	(b) split, cut lengthwise, tear off in long strips	PawleyOC
-Polynesian_SPLIT_5	Proto-Polynesian	poly1242	nan	SPLIT	*fasi	fasi	f a s i	fasi	SPLIT_5	FALSE	(a) split s.t., cleave s.t.	PawleyOC
 Maori_SPLIT_5	Maori	maor1246	mri	SPLIT	waawaahi	waawaaːwahi	w a a w a aː w a h i	waː+waːhi	SPLIT_5	FALSE		Biggs-85-2005
 Kapingamarangi_SPLIT_8	Kapingamarangi	kapi1249	kpg	SPLIT	mahaa	mahaa	m a h a a	mahaː	SPLIT_8	FALSE	Pollex 06: Mahaa. :Split (Lbr).	POLLEX
 Tahitian_SPLIT_5	Tahitian	tahi1242	tah	SPLIT	vaahi	vaahi	v a a h i	vaːhi	SPLIT_5	FALSE		Clark-173-2005
@@ -6153,8 +5989,6 @@ Anuta_SPLIT_5	Anuta	anut1237	aud	SPLIT	pai	pai	p a i	pai	SPLIT_5	FALSE	split	POL
 VaeakauTaumako_SQUEEZE_6	Vaeakau-Taumako	pile1238	piv	SQUEEZE	vakaia	vakaia	v a k a i a	vakaia	SQUEEZE_6	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_SQUEEZE_4	Vaeakau-Taumako	pile1238	piv	SQUEEZE	tauia	tauia	t a u i a	tauia	SQUEEZE_4	FALSE		Hovdhaugen-375-2009
 Wallisian_SQUEEZE_12	Wallisian	wall1257	wls	SQUEEZE	fota	fota	f o t a	fota	SQUEEZE_12	FALSE	Palper, frotter avec les mains	POLLEX
-Polynesian_SQUEEZE_14	Proto-Polynesian	poly1242	nan	SQUEEZE	*fofoo	fofoo	f o f o o	fofoː	SQUEEZE_14	FALSE	(b) 'squeeze flesh or clothes, as in washing'	PawleyOC
-Polynesian_SQUEEZE_5	Proto-Polynesian	poly1242	nan	SQUEEZE	*kumi	kumi	k u m i	kumi	SQUEEZE_5	FALSE	(a)'massage'	PawleyOC
 Maori_SQUEEZE_13	Maori	maor1246	mri	SQUEEZE	kotee	kotee	k o t e e	koteː	SQUEEZE_13	FALSE		Biggs-85-2005
 Kapingamarangi_SQUEEZE_14	Kapingamarangi	kapi1249	kpg	SQUEEZE	hakapui	hakapui	h a k a p u i	haka+pui	SQUEEZE_14	FALSE		POLLEX
 Tahitian_SQUEEZE_10	Tahitian	tahi1242	tah	SQUEEZE	'u'umu	ʔuʔumu	ʔ u ʔ u m u	ʔu+ʔumu	SQUEEZE_10	FALSE		Clark-173-2005
@@ -6197,7 +6031,6 @@ Anuta_SQUEEZE_4	Anuta	anut1237	aud	SQUEEZE	tatau	tatau	t a t a u	ta+tau	SQUEEZE_
 VaeakauTaumako_STAB_1	Vaeakau-Taumako	pile1238	piv	STAB	ukia	ukia	u k i a	ukia	STAB_1	FALSE		Hovdhaugen-375-2009
 Wallisian_STAB_1	Wallisian	wall1257	wls	STAB	huki	huki	h u k i	huki	STAB_1	FALSE	Pierce, spit	POLLEX
 Wallisian_STAB_13	Wallisian	wall1257	wls	STAB	hoka	hoka	h o k a	hoka	STAB_13	FALSE	Stab, pierce	POLLEX
-Polynesian_STAB_1	Proto-Polynesian	poly1242	nan	STAB	*suki	suki	s u k i	suki	STAB_1	FALSE	(or stick)  'pierce'	PawleyOC
 Maori_STAB_13	Maori	maor1246	mri	STAB	oka	oka	o k a	oka	STAB_13	FALSE		Biggs-85-2005
 Kapingamarangi_STAB_2	Kapingamarangi	kapi1249	kpg	STAB	daalo	daalo	d a a l o	daːlo	STAB_2	FALSE	Stab, spear, inject, puncture (Lbr)	POLLEX
 Kapingamarangi_STAB_1	Kapingamarangi	kapi1249	kpg	STAB	hugi	huɡi	h u ɡ i	hugi	STAB_1	FALSE	Make a small hole in something (Lbr)	POLLEX
@@ -6245,7 +6078,6 @@ Tuvalu_STAB_4	Tuvalu	tuva1244	tvl	STAB	velo	velo	v e l o	velo	STAB_4	FALSE		2990
 Anuta_STAB_14	Anuta	anut1237	aud	STAB	tokai	tokai	t o k a i	tokai	STAB_14	FALSE	Stab (Yen)	POLLEX
 VaeakauTaumako_STAND_2	Vaeakau-Taumako	pile1238	piv	STAND	thuu	tʰuː	tʰ uː	tʰuː	STAND_2	FALSE		Hovdhaugen-375-2009
 Wallisian_STAND_2	Wallisian	wall1257	wls	STAND	tu'u	tuʔu	t u ʔ u	tuʔu	STAND_2	FALSE		POLLEX
-Polynesian_STAND_2	Proto-Polynesian	poly1242	nan	STAND	*tuqu	tuʔu	t u ʔ u	tuʔu	STAND_2	FALSE		PawleyOC
 Maori_STAND_2	Maori	maor1246	mri	STAND	tuu	tuu	t u u	tuː	STAND_2	FALSE		Biggs-85-2005
 Kapingamarangi_STAND_2	Kapingamarangi	kapi1249	kpg	STAND	duu	duu	d u u	duː	STAND_2	FALSE	Stand, be upright (Lbr)	POLLEX
 Tahitian_STAND_1	Tahitian	tahi1242	tah	STAND	ti'a	tiʔa	t i ʔ a	tiʔa	STAND_1	FALSE		Clark-173-2005
@@ -6276,7 +6108,6 @@ RennellBellona_STAND_2	RennellBellona	renn1242	mnv	STAND	tu'u	tuʔu	t u ʔ u	tu�
 Tuvalu_STAND_2	Tuvalu	tuva1244	tvl	STAND	tuu	tuu	t u u	tuː	STAND_2	FALSE		29903
 Anuta_STAND_2	Anuta	anut1237	aud	STAND	tuu	tuu	t u u	tuː	STAND_2	FALSE	Stand (Yen)	POLLEX
 VaeakauTaumako_STEAL_8	Vaeakau-Taumako	pile1238	piv	STEAL	kaia	kaia	k a i a	kaia	STEAL_8	FALSE		Hovdhaugen-375-2009
-Polynesian_STEAL_9	Proto-Polynesian	poly1242	nan	STEAL	*kai(h,s)aqa	kaiaʔa	k a i a ʔ a	kaiaʔa	STEAL_9	FALSE		PawleyOC
 Maori_STEAL_6	Maori	maor1246	mri	STEAL	taahae	taahae	t a a h a e	taː+hae	STEAL_6	FALSE		Biggs-85-2005
 Kapingamarangi_STEAL_8	Kapingamarangi	kapi1249	kpg	STEAL	gaihaa	ɡaihaa	ɡ a i h a a	gaihaː	STEAL_8	FALSE	Steal, theft (Lbr)	POLLEX
 Tahitian_STEAL_8	Tahitian	tahi1242	tah	STEAL	'eiaa	ʔeiaa	ʔ e i a a	ʔeiaː	STEAL_8	FALSE		Clark-173-2005
@@ -6308,8 +6139,6 @@ Anuta_STEAL_8	Anuta	anut1237	aud	STEAL	kaia	kaia	k a i a	kaia	STEAL_8	FALSE	To s
 VaeakauTaumako_SUCK_8	Vaeakau-Taumako	pile1238	piv	SUCK	mihikia	mihikia	m i h i k i a	mihi+kia	SUCK_8	FALSE	suck	Hovdhaugen-375-2009
 Wallisian_SUCK_3	Wallisian	wall1257	wls	SUCK	momi	momi	m o m i	momi	SUCK_3	FALSE	Manger sans dents, sucer	POLLEX
 Wallisian_SUCK_8	Wallisian	wall1257	wls	SUCK	mihi	mihi	m i h i	mihi	SUCK_8	TRUE	Sucer (Ren) [<]	POLLEX
-Polynesian_SUCK_5	Proto-Polynesian	poly1242	nan	SUCK	*susu	susu	s u s u	su+su	SUCK_5	FALSE	(b)  'suck the breast'	PawleyOC
-Polynesian_SUCK_8	Proto-Polynesian	poly1242	nan	SUCK	*miti	miti	m i t i	miti	SUCK_8	FALSE		PawleyOC
 Maori_SUCK_9	Maori	maor1246	mri	SUCK	ngote	ŋote	ŋ o t e	ŋote	SUCK_9	FALSE		Biggs-85-2005
 Kapingamarangi_SUCK_5	Kapingamarangi	kapi1249	kpg	SUCK	u	u	u	u	SUCK_5	FALSE		POLLEX
 Tahitian_SUCK_9	Tahitian	tahi1242	tah	SUCK	'ote	ʔote	ʔ o t e	ʔote	SUCK_9	FALSE		Clark-173-2005
@@ -6354,7 +6183,6 @@ Tuvalu_SUCK_8	Tuvalu	tuva1244	tvl	SUCK	mimiti	mimiti	m i m i t i	mi+miti	SUCK_8	
 Anuta_SUCK_8	Anuta	anut1237	aud	SUCK	miti	miti	m i t i	miti	SUCK_8	FALSE	Suck (Yen)	POLLEX
 VaeakauTaumako_SWELL_4	Vaeakau-Taumako	pile1238	piv	SWELL	puku	puku	p u k u	puku	SWELL_4	FALSE	swell	Hovdhaugen-375-2009
 Wallisian_SWELL_11	Wallisian	wall1257	wls	SWELL	fu/fula	fula	f u l a	fula	SWELL_11	FALSE	Enfle	POLLEX
-Polynesian_SWELL_11	Proto-Polynesian	poly1242	nan	SWELL	*fufula	fufula	f u f u l a	fu+fula	SWELL_11	FALSE		PawleyOC
 Maori_SWELL_4	Maori	maor1246	mri	SWELL	puku	puku	p u k u	puku	SWELL_4	FALSE		Biggs-85-2005
 Kapingamarangi_SWELL_2	Kapingamarangi	kapi1249	kpg	SWELL	haka/hura/ ki taha	ki	k i	ki	SWELL_2	FALSE	Swell up	POLLEX
 Tahitian_SWELL_9	Tahitian	tahi1242	tah	SWELL	'oru	ʔoru	ʔ o r u	ʔoru	SWELL_9	FALSE		Clark-173-2005
@@ -6390,7 +6218,6 @@ Tuvalu_SWELL_7	Tuvalu	tuva1244	tvl	SWELL	fefete	fefete	f e f e t e	fe+fete	SWELL
 Anuta_SWELL_11	Anuta	anut1237	aud	SWELL	ūra	uura	u u r a	uːra	SWELL_11	FALSE	swell	POLLEX
 VaeakauTaumako_SWIM_1	Vaeakau-Taumako	pile1238	piv	SWIM	kau	kau	k a u	kau	SWIM_1	FALSE		Hovdhaugen-375-2009
 Wallisian_SWIM_1	Wallisian	wall1257	wls	SWIM	kau	kau	k a u	kau	SWIM_1	FALSE	Swim (Btn)	POLLEX
-Polynesian_SWIM_1	Proto-Polynesian	poly1242	nan	SWIM	*kaukau	kaukau	k a u k a u	kau+kau	SWIM_1	FALSE	is this really reduplicated? not *kau	PawleyOC
 Maori_SWIM_1	Maori	maor1246	mri	SWIM	kauhoe	kauhoe	k a u h o e	kau+hoe	SWIM_1	FALSE		Biggs-85-2005
 Kapingamarangi_SWIM_1	Kapingamarangi	kapi1249	kpg	SWIM	kau	kau	k a u	kau	SWIM_1	FALSE	Swim	POLLEX
 Tahitian_SWIM_1	Tahitian	tahi1242	tah	SWIM	'au	ʔau	ʔ a u	ʔau	SWIM_1	FALSE		Clark-173-2005
@@ -6424,7 +6251,6 @@ VaeakauTaumako_THINK_3	Vaeakau-Taumako	pile1238	piv	THINK	hinga	hiŋa	h i ŋ a	h
 VaeakauTaumako_THINK_12	Vaeakau-Taumako	pile1238	piv	THINK	mnatua	mnatua	m n a t u a	mnatua	THINK_12	FALSE		Hovdhaugen-375-2009
 Wallisian_THINK_12	Wallisian	wall1257	wls	THINK	manatu	manatu	m a n a t u	manatu	THINK_12	FALSE	Souvenir, pensee, memoire (Rch)	POLLEX
 Wallisian_THINK_10	Wallisian	wall1257	wls	THINK	mahalo	mahalo	m a h a l o	mahalo	THINK_10	FALSE	To think	POLLEX
-Polynesian_THINK_8	Proto-Polynesian	poly1242	nan	THINK	*manatu	manatu	m a n a t u	manatu	THINK_8	FALSE	PPn shows lexical replacement	PawleyOC
 Maori_THINK_13	Maori	maor1246	mri	THINK	whakaaro	fakaaro	f a k a a r o	faka+aro	THINK_13	FALSE		Biggs-85-2005
 Kapingamarangi_THINK_1	Kapingamarangi	kapi1249	kpg	THINK	hakapau	hakapau	h a k a p a u	haka+pau	THINK_1	FALSE		POLLEX
 Tahitian_THINK_8	Tahitian	tahi1242	tah	THINK	mana'o	manaʔo	m a n a ʔ o	manaʔo	THINK_8	FALSE		Clark-173-2005
@@ -6464,7 +6290,6 @@ Anuta_THINK_12	Anuta	anut1237	aud	THINK	maanatu	maanatu	m a a n a t u	maːnatu	T
 VaeakauTaumako_THROW_20	Vaeakau-Taumako	pile1238	piv	THROW	sili	sili	s i l i	sili	THROW_20	FALSE		Hovdhaugen-375-2009
 Wallisian_THROW_7	Wallisian	wall1257	wls	THROW	àtu	ʔatu	ʔ a t u	ʔatu	THROW_7	FALSE	Lancer, jeter (Rch)	POLLEX
 Wallisian_THROW_5	Wallisian	wall1257	wls	THROW	pèehi	peʔehi	p e ʔ e h i	peʔehi	THROW_5	FALSE	Jeter a terre avec force B. (Btn)	POLLEX
-Polynesian_THROW_18	Proto-Polynesian	poly1242	nan	THROW	*liaki	liaki	l i a k i	liaki	THROW_18	FALSE	'cast (as line, swing and throw, toss)'	PawleyOC
 Maori_THROW_19	Maori	maor1246	mri	THROW	panga	paŋa	p a ŋ a	paŋa	THROW_19	FALSE		Biggs-85-2005
 Kapingamarangi_THROW_20	Kapingamarangi	kapi1249	kpg	THROW	dili	dili	d i l i	dili	THROW_20	FALSE	Cast, throw, fish with casting net (Lbr)	POLLEX
 Kapingamarangi_THROW_3	Kapingamarangi	kapi1249	kpg	THROW	maka	maka	m a k a	maka	THROW_3	FALSE	Throw	POLLEX
@@ -6509,7 +6334,6 @@ Tuvalu_THROW_14	Tuvalu	tuva1244	tvl	THROW	tupe	tupe	t u p e	tupe	THROW_14	FALSE	
 Anuta_THROW_5	Anuta	anut1237	aud	THROW	peiia	peiia	p e i i a	peiːa	THROW_5	FALSE	To throw, carried away by wind or tide (Fbg)	POLLEX
 VaeakauTaumako_FASTEN_7	Vaeakau-Taumako	pile1238	piv	FASTEN	hihia.	hihia	h i h i a	hi+hia	FASTEN_7	FALSE		Hovdhaugen-375-2009
 Wallisian_FASTEN_6	Wallisian	wall1257	wls	FASTEN	lii	lii	l i i	liː	FASTEN_6	FALSE	Bind, tie, coil, wrap around	POLLEX
-Polynesian_FASTEN_1	Proto-Polynesian	poly1242	nan	FASTEN	*faqu-si	faʔusi	f a ʔ u s i	faʔu+si	FASTEN_1	FALSE		PawleyOC
 Maori_FASTEN_14	Maori	maor1246	mri	FASTEN	herehere	herehere	h e r e h e r e	here+here	FASTEN_14	FALSE		Biggs-85-2005
 Kapingamarangi_FASTEN_1	Kapingamarangi	kapi1249	kpg	FASTEN	hau	hau	h a u	hau	FASTEN_1	FALSE	Lash, tie (Lbr)	POLLEX
 Tahitian_FASTEN_16	Tahitian	tahi1242	tah	FASTEN	ta'amu	taʔamu	t a ʔ a m u	ta+ʔamu	FASTEN_16	FALSE		Clark-173-2005
@@ -6565,7 +6389,6 @@ Anuta_FASTEN_8	Anuta	anut1237	aud	FASTEN	nonoo	nonoo	n o n o o	nonoː	FASTEN_8	F
 Anuta_FASTEN_1	Anuta	anut1237	aud	FASTEN	pau	pau	p a u	pau	FASTEN_1	FALSE	Tie (Yen)	POLLEX
 VaeakauTaumako_TURN_5	Vaeakau-Taumako	pile1238	piv	TURN	tahuli	tahuli	t a h u l i	ta+huli	TURN_5	FALSE		Hovdhaugen-375-2009
 Wallisian_TURN_5	Wallisian	wall1257	wls	TURN	fulihi	fulihi	f u l i h i	fuli+hi	TURN_5	FALSE	turn aside	POLLEX
-Polynesian_TURN_5	Proto-Polynesian	poly1242	nan	TURN	*fuli	fuli	f u l i	fuli	TURN_5	FALSE	Possible replacement in PPn	PawleyOC
 Maori_TURN_5	Maori	maor1246	mri	TURN	huri	huri	h u r i	huri	TURN_5	FALSE		Biggs-85-2005
 Kapingamarangi_TURN_3	Kapingamarangi	kapi1249	kpg	TURN	magau	maɡau	m a ɡ a u	magau	TURN_3	FALSE	Pollex 06: Magau. :To turn in one direction, to make a curve to one direction.	POLLEX
 Tahitian_TURN_1	Tahitian	tahi1242	tah	TURN	tiipu'u	tiipuʔu	t i i p u ʔ u	tiː+puʔu	TURN_1	FALSE		Clark-173-2005
@@ -6609,8 +6432,6 @@ Anuta_TURN_5	Anuta	anut1237	aud	TURN	puri	puri	p u r i	puri	TURN_5	FALSE	turn	PO
 VaeakauTaumako_VOMIT_3	Vaeakau-Taumako	pile1238	piv	VOMIT	lua	lua	l u a	lua	VOMIT_3	FALSE		Hovdhaugen-375-2009
 Wallisian_VOMIT_1	Wallisian	wall1257	wls	VOMIT	puàki	puʔaki	p u ʔ a k i	puʔa+ki	VOMIT_1	FALSE	Spit out	POLLEX
 Wallisian_VOMIT_3	Wallisian	wall1257	wls	VOMIT	lu(lu)a	lua	l u a	lua	VOMIT_3	FALSE	Vomit	POLLEX
-Polynesian_VOMIT_3	Proto-Polynesian	poly1242	nan	VOMIT	*lua-qi	luaʔi	l u a ʔ i	lua+ʔi	VOMIT_3	FALSE		PawleyOC
-Polynesian_VOMIT_3	Proto-Polynesian	poly1242	nan	VOMIT	*lua	lua	l u a	lua	VOMIT_3	FALSE		PawleyOC
 Maori_VOMIT_3	Maori	maor1246	mri	VOMIT	ruaki	ruaki	r u a k i	rua+ki	VOMIT_3	FALSE		Biggs-85-2005
 Kapingamarangi_VOMIT_3	Kapingamarangi	kapi1249	kpg	VOMIT	lua/luai	luai	l u a i	lua+i	VOMIT_3	FALSE	Vomit (Lbr)	POLLEX
 Kapingamarangi_VOMIT_3	Kapingamarangi	kapi1249	kpg	VOMIT	rua/rua	rua	r u a	rua	VOMIT_3	FALSE	Vomit (Ebt)	POLLEX
@@ -6646,10 +6467,6 @@ Tuvalu_VOMIT_3	Tuvalu	tuva1244	tvl	VOMIT	lua	lua	l u a	lua	VOMIT_3	FALSE		29903
 Anuta_VOMIT_3	Anuta	anut1237	aud	VOMIT	rua	rua	r u a	rua	VOMIT_3	FALSE	Vomit	POLLEX
 VaeakauTaumako_WALK_3	Vaeakau-Taumako	pile1238	piv	WALK	kau	kau	k a u	kau	WALK_3	FALSE		Hovdhaugen-375-2009
 Wallisian_WALK_7	Wallisian	wall1257	wls	WALK	haaere	haaere	h a a e r e	haːere	WALK_7	FALSE	Go on foot (pl.) (Rch)	POLLEX
-Polynesian_WALK_10	Proto-Polynesian	poly1242	nan	WALK	*roo	roo	r o o	roː	WALK_10	FALSE	(d) 'go (pl. subject)' (suppletive plural of fano 'go, sing. sub.)	PawleyOC
-Polynesian_WALK_4	Proto-Polynesian	poly1242	nan	WALK	*qalu	ʔalu	ʔ a l u	ʔalu	WALK_4	FALSE	(c) 1. 'go' 2. 'follow'	PawleyOC
-Polynesian_WALK_7	Proto-Polynesian	poly1242	nan	WALK	*saqele	saʔele	s a ʔ e l e	saʔele	WALK_7	FALSE	(b) 'walk, go'	PawleyOC
-Polynesian_WALK_2	Proto-Polynesian	poly1242	nan	WALK	*fano	fano	f a n o	fano	WALK_2	FALSE	(a) 'go, move'	PawleyOC
 Maori_WALK_7	Maori	maor1246	mri	WALK	haere-a-waewae	haereawaewae	h a e r e a w a e w a e	haere_a_waewae	WALK_7	FALSE		Biggs-85-2005
 Kapingamarangi_WALK_5	Kapingamarangi	kapi1249	kpg	WALK	heehee	heeheeːhe	h e e h e eː h e	heː+heː	WALK_5	FALSE		POLLEX
 Kapingamarangi_WALK_9	Kapingamarangi	kapi1249	kpg	WALK	taahao	taahao	t a a h a o	taː+hao	WALK_9	FALSE	Go for a walk, stroll (Ebt)	POLLEX
@@ -6686,7 +6503,6 @@ Tuvalu_WALK_7	Tuvalu	tuva1244	tvl	WALK	haele	haele	h a e l e	haele	WALK_7	FALSE	
 Anuta_WALK_7	Anuta	anut1237	aud	WALK	aere	aere	a e r e	aere	WALK_7	FALSE	Walk, walk about (Fbg)	POLLEX
 VaeakauTaumako_WORK (ACTIVITY)_2	Vaeakau-Taumako	pile1238	piv	WORK (ACTIVITY)	anga	aŋa	a ŋ a	aŋa	WORK (ACTIVITY)_2	FALSE		Hovdhaugen-375-2009
 Wallisian_WORK (ACTIVITY)_3	Wallisian	wall1257	wls	WORK (ACTIVITY)	gaaue	ɡaaue	ɡ a a u e	gaːue	WORK (ACTIVITY)_3	TRUE	Travail (Rch) B. [<]	POLLEX
-Polynesian_WORK (ACTIVITY)_1	Proto-Polynesian	poly1242	nan	WORK (ACTIVITY)	*quma	ʔuma	ʔ u m a	ʔuma	WORK (ACTIVITY)_1	FALSE		PawleyOC
 Maori_WORK (ACTIVITY)_8	Maori	maor1246	mri	WORK (ACTIVITY)	mahi	mahi	m a h i	mahi	WORK (ACTIVITY)_8	FALSE		Biggs-85-2005
 Tahitian_WORK (ACTIVITY)_4	Tahitian	tahi1242	tah	WORK (ACTIVITY)	'ohipa	ʔohipa	ʔ o h i p a	ʔohipa	WORK (ACTIVITY)_4	FALSE	tahitian innovation	Clark-173-2005
 Emae_WORK (ACTIVITY)_2	Emae	emae1237	mmw	WORK (ACTIVITY)	feisaŋa	feisaŋa	f e i s a ŋ a	fei+saŋa	WORK (ACTIVITY)_2	FALSE		52375
@@ -6716,7 +6532,6 @@ RennellBellona_WORK (ACTIVITY)_5	RennellBellona	renn1242	mnv	WORK (ACTIVITY)	hai
 Tuvalu_WORK (ACTIVITY)_2	Tuvalu	tuva1244	tvl	WORK (ACTIVITY)	haga	haɡa	h a ɡ a	haga	WORK (ACTIVITY)_2	FALSE		29903
 Anuta_WORK (ACTIVITY)_3	Anuta	anut1237	aud	WORK (ACTIVITY)	ngarue	ŋarue	ŋ a r u e	ŋarue	WORK (ACTIVITY)_3	FALSE	To work, to move (Fbg)	POLLEX
 Wallisian_YAWN_1	Wallisian	wall1257	wls	YAWN	mamaao	mamaao	m a m a a o	ma+maːo	YAWN_1	TRUE	BÃ­iller, fumer; s'evaporer (Btn) [<]	POLLEX
-Polynesian_YAWN_1	Proto-Polynesian	poly1242	nan	YAWN	*mawawa	mawawa	m a w a w a	mawa+wa	YAWN_1	FALSE		PawleyOC
 Maori_YAWN_1	Maori	maor1246	mri	YAWN	haamama(mama)	haamama	h a a m a m a	haː+ma+ma	YAWN_1	FALSE		Biggs-85-2005
 Tahitian_YAWN_1	Tahitian	tahi1242	tah	YAWN	haamama	haamama	h a a m a m a	haː+ma+ma	YAWN_1	FALSE		Clark-173-2005
 Rapanui_YAWN_1	Rapanui	rapa1244	rap	YAWN	haka/mama	haka	h a k a	haka	YAWN_1	FALSE	Yawn (Fts)	POLLEX
@@ -6741,7 +6556,6 @@ Samoan_YAWN_1	Samoan	samo1305	smo	YAWN	māvava	maavava	m a a v a v a	maːva+va	Y
 RennellBellona_YAWN_1	RennellBellona	renn1242	mnv	YAWN	mababa	mababa	m a b a b a	maba+ba	YAWN_1	FALSE	Yawn	POLLEX
 VaeakauTaumako_TONGUE_1	Vaeakau-Taumako	pile1238	piv	TONGUE	alelo	alelo	a l e l o	alelo	TONGUE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_TONGUE_1	Wallisian	wall1257	wls	TONGUE	àlelo	ʔalelo	ʔ a l e l o	ʔalelo	TONGUE_1	FALSE	Tongue	POLLEX
-Polynesian_TONGUE_1	Proto-Polynesian	poly1242	nan	TONGUE	*qalelo	ʔalelo	ʔ a l e l o	ʔalelo	TONGUE_1	FALSE	Lexical replacement in PPn	PawleyOC
 Maori_TONGUE_1	Maori	maor1246	mri	TONGUE	arero	arero	a r e r o	arero	TONGUE_1	FALSE		Biggs-85-2005
 Kapingamarangi_TONGUE_1	Kapingamarangi	kapi1249	kpg	TONGUE	horore	horore	h o r o r e	horore	TONGUE_1	TRUE	Tongue [<]	POLLEX
 Tahitian_TONGUE_1	Tahitian	tahi1242	tah	TONGUE	arero	arero	a r e r o	arero	TONGUE_1	FALSE		Clark-173-2005
@@ -6772,7 +6586,6 @@ Tuvalu_TONGUE_1	Tuvalu	tuva1244	tvl	TONGUE	alelo	alelo	a l e l o	alelo	TONGUE_1	
 Anuta_TONGUE_1	Anuta	anut1237	aud	TONGUE	arero	arero	a r e r o	arero	TONGUE_1	FALSE	tongue	POLLEX
 VaeakauTaumako_TOOTH_1	Vaeakau-Taumako	pile1238	piv	TOOTH	niho	niho	n i h o	niho	TOOTH_1	FALSE		Hovdhaugen-375-2009
 Wallisian_TOOTH_1	Wallisian	wall1257	wls	TOOTH	nifo	nifo	n i f o	nifo	TOOTH_1	FALSE	Tooth	POLLEX
-Polynesian_TOOTH_1	Proto-Polynesian	poly1242	nan	TOOTH	*nifo	nifo	n i f o	nifo	TOOTH_1	FALSE		PawleyOC
 Maori_TOOTH_1	Maori	maor1246	mri	TOOTH	niho	niho	n i h o	niho	TOOTH_1	FALSE		Biggs-85-2005
 Kapingamarangi_TOOTH_1	Kapingamarangi	kapi1249	kpg	TOOTH	niha	niha	n i h a	niha	TOOTH_1	FALSE	Tooth	POLLEX
 Tahitian_TOOTH_1	Tahitian	tahi1242	tah	TOOTH	niho	niho	n i h o	niho	TOOTH_1	FALSE		Clark-173-2005
@@ -6803,7 +6616,6 @@ Tuvalu_TOOTH_1	Tuvalu	tuva1244	tvl	TOOTH	nifo	nifo	n i f o	nifo	TOOTH_1	FALSE		2
 Anuta_TOOTH_1	Anuta	anut1237	aud	TOOTH	nipo	nipo	n i p o	nipo	TOOTH_1	FALSE	Tooth	POLLEX
 VaeakauTaumako_WARM_1	Vaeakau-Taumako	pile1238	piv	WARM	mahana	mahana	m a h a n a	ma+hana	WARM_1	FALSE		Hovdhaugen-375-2009
 Wallisian_WARM_1	Wallisian	wall1257	wls	WARM	mafana	mafana	m a f a n a	ma+fana	WARM_1	FALSE	Warm	POLLEX
-Polynesian_WARM_1	Proto-Polynesian	poly1242	nan	WARM	*mafana-fana	mafanafana	m a f a n a f a n a	ma+fana+fana	WARM_1	FALSE		PawleyOC
 Maori_WARM_1	Maori	maor1246	mri	WARM	mahana	mahana	m a h a n a	ma+hana	WARM_1	FALSE		Biggs-85-2005
 Kapingamarangi_WARM_1	Kapingamarangi	kapi1249	kpg	WARM	mahana	mahana	m a h a n a	ma+hana	WARM_1	FALSE	Warm, hot (Lbr)	POLLEX
 Tahitian_WARM_1	Tahitian	tahi1242	tah	WARM	maahanahana	maahanahana	m a a h a n a h a n a	maː+hana+hana	WARM_1	FALSE		Clark-173-2005
@@ -6839,7 +6651,6 @@ Tuvalu_WARM_1	Tuvalu	tuva1244	tvl	WARM	mafana	mafana	m a f a n a	ma+fana	WARM_1	
 Anuta_WARM_1	Anuta	anut1237	aud	WARM	mapanapana	mapanapana	m a p a n a p a n a	ma+pana+pana	WARM_1	FALSE	warm	POLLEX
 VaeakauTaumako_WATER_1	Vaeakau-Taumako	pile1238	piv	WATER	vai	vai	v a i	vai	WATER_1	FALSE		Hovdhaugen-375-2009
 Wallisian_WATER_1	Wallisian	wall1257	wls	WATER	vai	vai	v a i	vai	WATER_1	FALSE	Water	POLLEX
-Polynesian_WATER_3	Proto-Polynesian	poly1242	nan	WATER	*faka-ranu	fakaranu	f a k a r a n u	faka+ranu	WATER_3	FALSE	*(v.) 'to wash s.t. in fresh water'	PawleyOC
 Maori_WATER_1	Maori	maor1246	mri	WATER	wai	wai	w a i	wai	WATER_1	FALSE		Biggs-85-2005
 Kapingamarangi_WATER_1	Kapingamarangi	kapi1249	kpg	WATER	wai	wai	w a i	wai	WATER_1	FALSE	Water (Ebt),(Lbr)	POLLEX
 Tahitian_WATER_2	Tahitian	tahi1242	tah	WATER	pape	pape	p a p e	pape	WATER_2	FALSE		Clark-173-2005
@@ -6874,7 +6685,6 @@ VaeakauTaumako_WE_2	Vaeakau-Taumako	pile1238	piv	WE	mhatou	mhatou	m h a t o u	mh
 VaeakauTaumako_WE_2	Vaeakau-Taumako	pile1238	piv	WE	mhaua	mhaua	m h a u a	mha+ua	WE_2	FALSE		Hovdhaugen-375-2009
 Wallisian_WE_3	Wallisian	wall1257	wls	WE	tou	tou	t o u	tou	WE_3	FALSE	First person incl. plural incorporated pronoun (Btn)	POLLEX
 Wallisian_WE_2	Wallisian	wall1257	wls	WE	maa	maa	m a a	maː	WE_2	FALSE	First person dual exclusive preposed pronoun	POLLEX
-Polynesian_WE_2	Proto-Polynesian	poly1242	nan	WE	*kima-tou	kimatou	k i m a t o u	ki+ma+tou	WE_2	FALSE	(excl pl)	PawleyOC
 Maori_WE_2	Maori	maor1246	mri	WE	maatou	maatou	m a a t o u	maː+tou	WE_2	FALSE		Biggs-85-2005
 Maori_WE_2	Maori	maor1246	mri	WE	maaua	maaua	m a a u a	maː+ua	WE_2	FALSE		Biggs-85-2005
 Maori_WE_1	Maori	maor1246	mri	WE	taatou	taatou	t a a t o u	taː+tou	WE_1	FALSE	1 pl. incl.	Biggs-85-2005
@@ -6948,7 +6758,6 @@ RennellBellona_WE_1	RennellBellona	renn1242	mnv	WE	kita(a)-	kita	k i t a	ki+ta	W
 Anuta_WE_3	Anuta	anut1237	aud	WE	tou	tou	t o u	tou	WE_3	FALSE	First person incl. plural incorporated pronoun (Fbg)	POLLEX
 VaeakauTaumako_WET_2	Vaeakau-Taumako	pile1238	piv	WET	siu	siu	s i u	siu	WET_2	FALSE		Hovdhaugen-375-2009
 Wallisian_WET_8	Wallisian	wall1257	wls	WET	palapala	palapala	p a l a p a l a	pala+pala	WET_8	FALSE	Pollex 06: Palapala. :Wet.	POLLEX
-Polynesian_WET_2	Proto-Polynesian	poly1242	nan	WET	*suu	suu	s u u	suː	WET_2	FALSE	(Vst) 'watery, wet'	PawleyOC
 Maori_WET_1	Maori	maor1246	mri	WET	maakuu	maakuaːku	m a a k u aː k u	maːkuː	WET_1	FALSE		Biggs-85-2005
 Kapingamarangi_WET_2	Kapingamarangi	kapi1249	kpg	WET	thiu	tʰiu	tʰ i u	tʰiu	WET_2	FALSE	(Ebt). (t < *s frequent)	POLLEX
 Tahitian_WET_12	Tahitian	tahi1242	tah	WET	rari	rari	r a r i	rari	WET_12	FALSE		Clark-173-2005
@@ -6990,7 +6799,6 @@ Tuvalu_WET_2	Tuvalu	tuva1244	tvl	WET	hihiu	hihiu	h i h i u	hi+hiu	WET_2	FALSE		2
 Anuta_WET_8	Anuta	anut1237	aud	WET	parapara	parapara	p a r a p a r a	para+para	WET_8	FALSE	wet	POLLEX
 VaeakauTaumako_WHAT_1	Vaeakau-Taumako	pile1238	piv	WHAT	aa	aa	a a	aː	WHAT_1	FALSE		Hovdhaugen-375-2009
 Wallisian_WHAT_1	Wallisian	wall1257	wls	WHAT	aa	aa	a a	aː	WHAT_1	FALSE	What?, why?	POLLEX
-Polynesian_WHAT_1	Proto-Polynesian	poly1242	nan	WHAT	*haa	haa	h a a	haː	WHAT_1	FALSE		PawleyOC
 Maori_WHAT_1	Maori	maor1246	mri	WHAT	aha	aha	a h a	aha	WHAT_1	FALSE		Biggs-85-2005
 Kapingamarangi_WHAT_1	Kapingamarangi	kapi1249	kpg	WHAT	aha	aha	a h a	aha	WHAT_1	FALSE	What? (Lbr)	POLLEX
 Tahitian_WHAT_1	Tahitian	tahi1242	tah	WHAT	e aha	eaha	e a h a	e_aha	WHAT_1	FALSE		Clark-173-2005
@@ -7021,7 +6829,6 @@ Tuvalu_WHAT_1	Tuvalu	tuva1244	tvl	WHAT	aa	aa	a a	aː	WHAT_1	FALSE		29903
 Anuta_WHAT_1	Anuta	anut1237	aud	WHAT	aa	aa	a a	aː	WHAT_1	FALSE	What? (Grn)	POLLEX
 VaeakauTaumako_WHEN_6	Vaeakau-Taumako	pile1238	piv	WHEN	anahea	anahea	a n a h e a	ana_hea	WHEN_6	FALSE	past	Hovdhaugen-375-2009
 Wallisian_WHEN_6	Wallisian	wall1257	wls	WHEN	afea	afea	a f e a	a_fea	WHEN_6	FALSE	When? (future) (Btn)	POLLEX
-Polynesian_WHEN_1	Proto-Polynesian	poly1242	nan	WHEN	*ŋaiSa	ŋaisa	ŋ a i s a	ŋaisa	WHEN_1	FALSE		PawleyOC
 Maori_WHEN_6	Maori	maor1246	mri	WHEN	aahea	aahea	a a h e a	aː_hea	WHEN_6	FALSE	aahea (future)	Biggs-85-2005
 Tahitian_WHEN_6	Tahitian	tahi1242	tah	WHEN	inaafea	inaafea	i n a a f e a	inaː_fea	WHEN_6	FALSE	(past)	Clark-173-2005
 Emae_WHEN_2	Emae	emae1237	mmw	WHEN	afe	afe	a f e	afe	WHEN_2	FALSE		52375
@@ -7050,7 +6857,6 @@ Tuvalu_WHEN_6	Tuvalu	tuva1244	tvl	WHEN	aafea	aafea	a a f e a	aː_fea	WHEN_6	FALS
 Anuta_WHEN_8	Anuta	anut1237	aud	WHEN	fukalu	fukalu	f u k a l u	fukalu	WHEN_8	FALSE		POLLEX
 VaeakauTaumako_WHERE_1	Vaeakau-Taumako	pile1238	piv	WHERE	i hea	ihea	i h e a	i_hea	WHERE_1	FALSE		Hovdhaugen-375-2009
 Wallisian_WHERE_1	Wallisian	wall1257	wls	WHERE	fea	fea	f e a	fea	WHERE_1	FALSE	Where?	POLLEX
-Polynesian_WHERE_1	Proto-Polynesian	poly1242	nan	WHERE	*fea	fea	f e a	fea	WHERE_1	FALSE		PawleyOC
 Maori_WHERE_1	Maori	maor1246	mri	WHERE	whea	fea	f e a	fea	WHERE_1	FALSE		Biggs-85-2005
 Kapingamarangi_WHERE_1	Kapingamarangi	kapi1249	kpg	WHERE	hee	hee	h e e	heː	WHERE_1	FALSE	Where	POLLEX
 Tahitian_WHERE_1	Tahitian	tahi1242	tah	WHERE	hea	hea	h e a	hea	WHERE_1	FALSE		Clark-173-2005
@@ -7081,7 +6887,6 @@ Tuvalu_WHERE_1	Tuvalu	tuva1244	tvl	WHERE	teehea	teehea	t e e h e a	teː_hea	WHER
 Anuta_WHERE_1	Anuta	anut1237	aud	WHERE	pea	pea	p e a	pea	WHERE_1	FALSE	Where?	POLLEX
 VaeakauTaumako_WHITE_14	Vaeakau-Taumako	pile1238	piv	WHITE	thea	tʰea	tʰ e a	tʰea	WHITE_14	FALSE		Hovdhaugen-375-2009
 Wallisian_WHITE_14	Wallisian	wall1257	wls	WHITE	tea	tea	t e a	tea	WHITE_14	FALSE	White	POLLEX
-Polynesian_WHITE_14	Proto-Polynesian	poly1242	nan	WHITE	*tea	tea	t e a	tea	WHITE_14	FALSE		PawleyOC
 Maori_WHITE_13	Maori	maor1246	mri	WHITE	maa	maa	m a a	maː	WHITE_13	FALSE		Biggs-85-2005
 Kapingamarangi_WHITE_1	Kapingamarangi	kapi1249	kpg	WHITE	kene	kene	k e n e	kene	WHITE_1	FALSE	White	POLLEX
 Tahitian_WHITE_2	Tahitian	tahi1242	tah	WHITE	'uo'uo	ʔuoʔuo	ʔ u o ʔ u o	ʔuo+ʔuo	WHITE_2	FALSE		Clark-173-2005
@@ -7122,7 +6927,6 @@ Anuta_WHITE_14	Anuta	anut1237	aud	WHITE	tea	tea	t e a	tea	WHITE_14	FALSE	White (
 Anuta_WHITE_1	Anuta	anut1237	aud	WHITE	kena	kena	k e n a	kena	WHITE_1	FALSE	White (Fbg)	POLLEX
 VaeakauTaumako_WHO_1	Vaeakau-Taumako	pile1238	piv	WHO	ai	ai	a i	ai	WHO_1	FALSE		Hovdhaugen-375-2009
 Wallisian_WHO_1	Wallisian	wall1257	wls	WHO	ai	ai	a i	ai	WHO_1	FALSE	Who?	POLLEX
-Polynesian_WHO_1	Proto-Polynesian	poly1242	nan	WHO	*hai	hai	h a i	hai	WHO_1	FALSE		PawleyOC
 Maori_WHO_1	Maori	maor1246	mri	WHO	wai	wai	w a i	wai	WHO_1	FALSE	cf M-F	Biggs-85-2005
 Kapingamarangi_WHO_1	Kapingamarangi	kapi1249	kpg	WHO	ai	ai	a i	ai	WHO_1	FALSE	Who? (Lbr)	POLLEX
 Tahitian_WHO_1	Tahitian	tahi1242	tah	WHO	'o v|ai	ʔovai	ʔ o v a i	ʔo+vai	WHO_1	FALSE		Clark-173-2005
@@ -7153,7 +6957,6 @@ Tuvalu_WHO_1	Tuvalu	tuva1244	tvl	WHO	ai	ai	a i	ai	WHO_1	FALSE		29903
 Anuta_WHO_1	Anuta	anut1237	aud	WHO	ai	ai	a i	ai	WHO_1	FALSE	Who?, whom? (Fbg)	POLLEX
 VaeakauTaumako_WIDE_12	Vaeakau-Taumako	pile1238	piv	WIDE	laueha	laueha	l a u e h a	lau+eha	WIDE_12	FALSE		Hovdhaugen-375-2009
 Wallisian_WIDE_12	Wallisian	wall1257	wls	WIDE	laulahi	laulahi	l a u l a h i	lau+lahi	WIDE_12	FALSE	Largeur	POLLEX
-Polynesian_WIDE_7	Proto-Polynesian	poly1242	nan	WIDE	*lau-efa	lauefa	l a u e f a	lau+efa	WIDE_7	FALSE	wide	PawleyOC
 Maori_WIDE_11	Maori	maor1246	mri	WIDE	whaanui	faanui	f a a n u i	faːnui	WIDE_11	FALSE		Biggs-85-2005
 Kapingamarangi_WIDE_6	Kapingamarangi	kapi1249	kpg	WIDE	balaha	balaha	b a l a h a	balaha	WIDE_6	FALSE	Width (Lbr)	POLLEX
 Tahitian_WIDE_9	Tahitian	tahi1242	tah	WIDE	'a'ano	ʔaʔano	ʔ a ʔ a n o	ʔa+ʔano	WIDE_9	FALSE		Clark-173-2005
@@ -7183,7 +6986,6 @@ Samoan_WIDE_12	Samoan	samo1305	smo	WIDE	lautele	lautele	l a u t e l e	lau+tele	W
 Tuvalu_WIDE_10	Tuvalu	tuva1244	tvl	WIDE	lauefa	lauefa	l a u e f a	lau+efa	WIDE_10	FALSE		29903
 VaeakauTaumako_WIFE_4	Vaeakau-Taumako	pile1238	piv	WIFE	nohine	nohine	n o h i n e	no+hine	WIFE_4	FALSE		Hovdhaugen-375-2009
 Wallisian_WIFE_4	Wallisian	wall1257	wls	WIFE	fine matuà	finematuʔa	f i n e m a t u ʔ a	fine_matuʔa	WIFE_4	FALSE	Old woman	POLLEX
-Polynesian_WIFE_1	Proto-Polynesian	poly1242	nan	WIFE	*qasawana	ʔasawana	ʔ a s a w a n a	ʔasawana	WIFE_1	FALSE	'wife'	PawleyOC
 Maori_WIFE_4	Maori	maor1246	mri	WIFE	wahine	wahine	w a h i n e	wa+hine	WIFE_4	FALSE		Biggs-85-2005
 Kapingamarangi_WIFE_6	Kapingamarangi	kapi1249	kpg	WIFE	awanga	awaŋa	a w a ŋ a	awaŋa	WIFE_6	FALSE	Pollex 06: Awanga. :Wife.	POLLEX
 Tahitian_WIFE_4	Tahitian	tahi1242	tah	WIFE	vahine	vahine	v a h i n e	va+hine	WIFE_4	FALSE		Clark-173-2005
@@ -7214,7 +7016,6 @@ Anuta_WIFE_4	Anuta	anut1237	aud	WIFE	nopine	nopine	n o p i n e	no+pine	WIFE_4	FA
 VaeakauTaumako_WIND_1	Vaeakau-Taumako	pile1238	piv	WIND	matangi	mataŋi	m a t a ŋ i	mataŋi	WIND_1	FALSE		Hovdhaugen-375-2009
 Wallisian_WIND_3	Wallisian	wall1257	wls	WIND	havili	havili	h a v i l i	havili	WIND_3	FALSE	Brise, vent leger; venter, souffler (Rch)	POLLEX
 Wallisian_WIND_1	Wallisian	wall1257	wls	WIND	matagi	mataɡi	m a t a ɡ i	matagi	WIND_1	FALSE	Vent, brise (Ren)	POLLEX
-Polynesian_WIND_1	Proto-Polynesian	poly1242	nan	WIND	*mataŋi	mataŋi	m a t a ŋ i	mataŋi	WIND_1	FALSE		PawleyOC
 Maori_WIND_2	Maori	maor1246	mri	WIND	hau	hau	h a u	hau	WIND_2	FALSE		Biggs-85-2005
 Kapingamarangi_WIND_1	Kapingamarangi	kapi1249	kpg	WIND	madangi	madaŋi	m a d a ŋ i	madaŋi	WIND_1	FALSE	Wind (Lbr)	POLLEX
 Tahitian_WIND_1	Tahitian	tahi1242	tah	WIND	mata'i	mataʔi	m a t a ʔ i	mataʔi	WIND_1	FALSE		Clark-173-2005
@@ -7252,7 +7053,6 @@ RennellBellona_WIND_1	RennellBellona	renn1242	mnv	WIND	matangi	mataŋi	m a t a �
 Anuta_WIND_1	Anuta	anut1237	aud	WIND	matangi	mataŋi	m a t a ŋ i	mataŋi	WIND_1	FALSE	Wind	POLLEX
 VaeakauTaumako_WING_1	Vaeakau-Taumako	pile1238	piv	WING	kapakau	kapakau	k a p a k a u	kapa+kau	WING_1	FALSE		Hovdhaugen-375-2009
 Wallisian_WING_1	Wallisian	wall1257	wls	WING	kapakau	kapakau	k a p a k a u	kapa+kau	WING_1	FALSE	Wing	POLLEX
-Polynesian_WING_1	Proto-Polynesian	poly1242	nan	WING	*kapakau	kapakau	k a p a k a u	kapa+kau	WING_1	FALSE		PawleyOC
 Maori_WING_4	Maori	maor1246	mri	WING	parirau	parirau	p a r i r a u	parirau	WING_4	FALSE		Biggs-85-2005
 Kapingamarangi_WING_1	Kapingamarangi	kapi1249	kpg	WING	bakau manu	bakaumanu	b a k a u m a n u	ba+kau_manu	WING_1	FALSE	Wing of a bird; shoulder	POLLEX
 Tahitian_WING_4	Tahitian	tahi1242	tah	WING	pererau	pererau	p e r e r a u	pererau	WING_4	FALSE		Clark-173-2005
@@ -7287,7 +7087,6 @@ Anuta_WING_1	Anuta	anut1237	aud	WING	kapakau	kapakau	k a p a k a u	kapa+kau	WING
 VaeakauTaumako_FEMALE PERSON_1	Vaeakau-Taumako	pile1238	piv	FEMALE PERSON	hana	hana	h a n a	hana	FEMALE PERSON_1	FALSE		Hovdhaugen-375-2009
 VaeakauTaumako_FEMALE PERSON_1	Vaeakau-Taumako	pile1238	piv	FEMALE PERSON	hahine	hahine	h a h i n e	ha+hine	FEMALE PERSON_1	FALSE		Hovdhaugen-375-2009
 Wallisian_FEMALE PERSON_1	Wallisian	wall1257	wls	FEMALE PERSON	fa/fine/	fine	f i n e	fine	FEMALE PERSON_1	FALSE	Woman	POLLEX
-Polynesian_FEMALE PERSON_1	Proto-Polynesian	poly1242	nan	FEMALE PERSON	*fafine	fafine	f a f i n e	fa+fine	FEMALE PERSON_1	FALSE		PawleyOC
 Maori_FEMALE PERSON_1	Maori	maor1246	mri	FEMALE PERSON	wahine	wahine	w a h i n e	wa+hine	FEMALE PERSON_1	FALSE		Biggs-85-2005
 Kapingamarangi_FEMALE PERSON_1	Kapingamarangi	kapi1249	kpg	FEMALE PERSON	ahina	ahina	a h i n a	a+hina	FEMALE PERSON_1	FALSE	Woman (Lbr)	POLLEX
 Tahitian_FEMALE PERSON_1	Tahitian	tahi1242	tah	FEMALE PERSON	vahine	vahine	v a h i n e	va+hine	FEMALE PERSON_1	FALSE		Clark-173-2005
@@ -7330,7 +7129,6 @@ VaeakauTaumako_FOREST_1	Vaeakau-Taumako	pile1238	piv	FOREST	vao	vao	v a o	vao	FO
 VaeakauTaumako_FOREST_5	Vaeakau-Taumako	pile1238	piv	FOREST	mouku	mouku	m o u k u	mouku	FOREST_5	FALSE		Hovdhaugen-375-2009
 Wallisian_FOREST_1	Wallisian	wall1257	wls	FOREST	vao	vao	v a o	vao	FOREST_1	FALSE		POLLEX
 Wallisian_FOREST_2	Wallisian	wall1257	wls	FOREST	ulu	ulu	u l u	ulu	FOREST_2	FALSE		POLLEX
-Polynesian_FOREST_1	Proto-Polynesian	poly1242	nan	FOREST	*wao	wao	w a o	wao	FOREST_1	FALSE	'bush, forest, land that is uncultivated and uninhabited'	PawleyOC
 Maori_FOREST_3	Maori	maor1246	mri	FOREST	ngahere	ŋahere	ŋ a h e r e	ŋahere	FOREST_3	FALSE		Biggs-85-2005
 Kapingamarangi_FOREST_1	Kapingamarangi	kapi1249	kpg	FOREST	wao	wao	w a o	wao	FOREST_1	FALSE	WOODS (Ebt)	POLLEX
 Tahitian_FOREST_2	Tahitian	tahi1242	tah	FOREST	ururaa'au	ururaaʔau	u r u r a a ʔ a u	uru+raːʔau	FOREST_2	FALSE		Clark-173-2005
@@ -7365,7 +7163,6 @@ Tuvalu_FOREST_1	Tuvalu	tuva1244	tvl	FOREST	vao	vao	v a o	vao	FOREST_1	FALSE		299
 Anuta_FOREST_1	Anuta	anut1237	aud	FOREST	vao	vao	v a o	vao	FOREST_1	FALSE	Grassy tract (Yen)	POLLEX
 VaeakauTaumako_WORM_3	Vaeakau-Taumako	pile1238	piv	WORM	peipe	peipe	p e i p e	peipe	WORM_3	FALSE		Hovdhaugen-375-2009
 Wallisian_WORM_8	Wallisian	wall1257	wls	WORM	'ulukele	ʔulukele	ʔ u l u k e l e	ʔulu+kele	WORM_8	FALSE		POLLEX
-Polynesian_WORM_8	Proto-Polynesian	poly1242	nan	WORM	*kelemutu	kelemutu	k e l e m u t u	kele+mutu	WORM_8	FALSE		PawleyOC
 Maori_WORM_7	Maori	maor1246	mri	WORM	noke	noke	n o k e	noke	WORM_7	FALSE		Biggs-85-2005
 Kapingamarangi_WORM_2	Kapingamarangi	kapi1249	kpg	WORM	patupatu	patupatu	p a t u p a t u	patu+patu	WORM_2	FALSE		POLLEX
 Tahitian_WORM_7	Tahitian	tahi1242	tah	WORM	to'e	toʔe	t o ʔ e	toʔe	WORM_7	FALSE		Clark-173-2005
@@ -7392,7 +7189,6 @@ RennellBellona_WORM_1	RennellBellona	renn1242	mnv	WORM	sugati	suɡati	s u ɡ a t
 Tuvalu_WORM_8	Tuvalu	tuva1244	tvl	WORM	kalemuta	kalemuta	k a l e m u t a	kale+muta	WORM_8	FALSE		29903
 VaeakauTaumako_YEAR_6	Vaeakau-Taumako	pile1238	piv	YEAR	ngatae	ŋatae	ŋ a t a e	ŋatae	YEAR_6	FALSE		Hovdhaugen-375-2009
 Wallisian_YEAR_1	Wallisian	wall1257	wls	YEAR	ta'u	taʔu	t a ʔ u	taʔu	YEAR_1	FALSE	Year	POLLEX
-Polynesian_YEAR_1	Proto-Polynesian	poly1242	nan	YEAR	*taqu	taʔu	t a ʔ u	taʔu	YEAR_1	FALSE		PawleyOC
 Maori_YEAR_1	Maori	maor1246	mri	YEAR	tau	tau	t a u	tau	YEAR_1	FALSE		Biggs-85-2005
 Kapingamarangi_YEAR_1	Kapingamarangi	kapi1249	kpg	YEAR	tau	tau	t a u	tau	YEAR_1	FALSE	Season (Ebt),(Lbr)	POLLEX
 Tahitian_YEAR_8	Tahitian	tahi1242	tah	YEAR	matahiti	matahiti	m a t a h i t i	matahiti	YEAR_8	FALSE		Clark-173-2005
@@ -7428,8 +7224,6 @@ Tuvalu_YEAR_1	Tuvalu	tuva1244	tvl	YEAR	tauhanga	tauhaŋa	t a u h a ŋ a	tau+haŋ
 Anuta_YEAR_1	Anuta	anut1237	aud	YEAR	tau	tau	t a u	tau	YEAR_1	FALSE	Year (Fbg)	POLLEX
 VaeakauTaumako_YELLOW_4	Vaeakau-Taumako	pile1238	piv	YELLOW	helo	helo	h e l o	helo	YELLOW_4	FALSE		Hovdhaugen-375-2009
 Wallisian_YELLOW_1	Wallisian	wall1257	wls	YELLOW	legalega	leɡaleɡa	l e ɡ a l e ɡ a	lega+lega	YELLOW_1	FALSE		POLLEX
-Polynesian_YELLOW_1	Proto-Polynesian	poly1242	nan	YELLOW	*reŋareŋa,*felo(-felo)	reŋareŋa	r e ŋ a r e ŋ a	reŋa+reŋa	YELLOW_1	FALSE	'yellow' (also 'turmeric'),'yellowish, reddish yellow'	PawleyOC
-Polynesian_YELLOW_1	Proto-Polynesian	poly1242	nan	YELLOW	*reŋareŋa,*felo(-felo)	felo	f e l o	felo	YELLOW_1	FALSE	'yellow' (also 'turmeric'),'yellowish, reddish yellow'	PawleyOC
 Maori_YELLOW_13	Maori	maor1246	mri	YELLOW	koowhai	koofai	k o o f a i	koːfai	YELLOW_13	FALSE		Biggs-85-2005
 Kapingamarangi_YELLOW_2	Kapingamarangi	kapi1249	kpg	YELLOW	lau puke	laupuke	l a u p u k e	lau_puke	YELLOW_2	FALSE		POLLEX
 Tahitian_YELLOW_1	Tahitian	tahi1242	tah	YELLOW	re'are'a	reʔareʔa	r e ʔ a r e ʔ a	reʔa+reʔa	YELLOW_1	FALSE		Clark-173-2005
