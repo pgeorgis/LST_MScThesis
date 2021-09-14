@@ -9,7 +9,6 @@ grandparent_dir = parent_dir.parent
 #Load phonetic distance data and auxiliary functions
 os.chdir(str(grandparent_dir) + '/Code')
 from auxiliary_functions import csv_to_dict, strip_ch
-os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
 from phonetic_distance import *
 os.chdir(local_dir)
 
@@ -171,7 +170,13 @@ def fix_tr(word, lang):
         
         #One word, 'fiúunoka', /fiʲuːunokɒ/ uses segment /iʲ/ -- change to /ij/
         word = re.sub('iʲ', 'ij', word)
-
+        
+    #Finnish: combine /o̞/~/o/, /e̞/~/e/, /ø̞/~/ø̞/ (no phonemic difference and not consistently transcribed)
+    if lang == 'Finnish':
+        word = re.sub('o̞', 'o', word)
+        word = re.sub('e̞', 'e', word)
+        word = re.sub('ø̞', 'ø', word)
+        
     #reg exp conversions
     word = re.sub('dʹ', 'dʲ', word) #Nganasan, Erzya; according to their raw file transcriptions
     word = re.sub('tʹ', 'tʲ', word) #Erzya, Khanty, Komi-Zyrian; according to their raw file transcriptions
@@ -499,9 +504,12 @@ for uralex_lang in uralex_NEL_mapping:
                         'd͡s':'ʣ'}
                 for to_fix in NEL_fix_dict:
                     NEL_form = re.sub(to_fix, NEL_fix_dict[to_fix], NEL_form)
-                #and two more fixes which MUST follow 
+                #and more fixes which MUST follow 
                 NEL_form = re.sub('ːʲ', 'ʲː', NEL_form)
                 NEL_form = standardize_geminates(NEL_form)
+                additional_fixes = {'ʎʲ':'ʎ', 'ʝʲ':'ʝ', 'çʲ':'ç'}
+                for to_fix in additional_fixes:
+                    NEL_form = re.sub(to_fix, additional_fixes[to_fix], NEL_form)
                 
                 new_entry = uralic_data[i]
                 new_entry['ID'] = '_'.join([strip_ch(lang_name, [' ']), cognacy_ID])
@@ -586,9 +594,12 @@ for i in NEL_equivalents:
                         'ɟɟ͡ʝ':'ɟ͡ʝː'}
         for to_fix in NEL_fix_dict:
             NEL_form = re.sub(to_fix, NEL_fix_dict[to_fix], NEL_form)
-        #and two more fixes which MUST follow
+        #and more fixes which MUST follow
         NEL_form = re.sub('ːʲ', 'ʲː', NEL_form)
         NEL_form = standardize_geminates(NEL_form)
+        additional_fixes = {'ʎʲ':'ʎ', 'ʝʲ':'ʝ', 'çʲ':'ç'}
+        for to_fix in additional_fixes:
+            NEL_form = re.sub(to_fix, additional_fixes[to_fix], NEL_form)
         
         NEL_equivalents[i]['NEL_Form'] = NEL_form
         
