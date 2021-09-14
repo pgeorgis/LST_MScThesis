@@ -77,7 +77,7 @@ for key, value in [('all', 'ALL'),
                    ('skin', 'SKIN (HUMAN)'),
                    ('smoke', 'SMOKE (EXHAUST)'),
                    ('tooth', 'TOOTH'),
-                   ('walk (go)', 'WALK'),
+                   ('walk (go)', 'WALK'), #this concept will be removed, see note below
                    ('warm (hot)', 'WARM (OF WEATHER)'),
                    ('what', 'WHAT'),
                    ('who', 'WHO')]:
@@ -317,9 +317,7 @@ i = 0
 for lang in family_langs:
     for gloss in family_vocab[lang]:
         for item in family_vocab[lang][gloss]:
-            i += 1
             orth, tr, original_tr, cognate_id, sources, notes = item
-            entry = family_data[i]
             new_name, glottocode, iso_code = lang_data[lang]
             try: 
                 concepticon_gloss = concepticon_swadesh[gloss]
@@ -327,29 +325,33 @@ for lang in family_langs:
                 if gloss not in missing_glosses:
                     missing_glosses.append(gloss)
                 concepticon_gloss = gloss
-            entry['ID'] = '_'.join([strip_ch(lang, ' '), concepticon_gloss, str(cognate_id)])
-            entry['Language_ID'] = new_name
-            entry['Glottocode'] = glottocode
-            entry['ISO 639-3'] = iso_code
-            entry['Parameter_ID'] = concepticon_gloss
-            entry['Value'] = orth
-            entry['Form'] = tr
-            entry['Segments'] = ' '.join(segment_word(tr))
-            entry['Source_Form'] = original_tr
-            if entry['ID'] in loanword_dict:
-                entry['Cognate_ID'] = '_'.join([concepticon_gloss, str(abs(loanword_dict[entry['ID']]))])
-            else:
-                entry['Cognate_ID'] = '_'.join([concepticon_gloss, str(cognate_id)])
-            if int(cognate_id) < 1:
-                entry['Loan'] = 'TRUE'
-                loanwords[entry['Cognate_ID']].append((new_name, entry['ID'], entry['Form'], notes))
-            elif entry['Cognate_ID'] == 'SMALL_2': #words belonging to this class are borrowings from Greek <μικρός>, the same class as some others marked as loans. these were mistakenly not marked as loans
-                entry['Loan'] = 'TRUE'
-                loanwords[entry['Cognate_ID']].append((new_name, entry['ID'], entry['Form'], notes))
-            else:
-                entry['Loan'] = 'FALSE'
-            entry['Comment'] = notes
-            entry['Source'] = sources
+            
+            if concepticon_gloss != 'WALK': #excluded due to forms given in different tenses (e.g. some in imperfect, some in future, etc.)
+                i += 1
+                entry = family_data[i]
+                entry['ID'] = '_'.join([strip_ch(lang, ' '), concepticon_gloss, str(cognate_id)])
+                entry['Language_ID'] = new_name
+                entry['Glottocode'] = glottocode
+                entry['ISO 639-3'] = iso_code
+                entry['Parameter_ID'] = concepticon_gloss
+                entry['Value'] = orth
+                entry['Form'] = tr
+                entry['Segments'] = ' '.join(segment_word(tr))
+                entry['Source_Form'] = original_tr
+                if entry['ID'] in loanword_dict:
+                    entry['Cognate_ID'] = '_'.join([concepticon_gloss, str(abs(loanword_dict[entry['ID']]))])
+                else:
+                    entry['Cognate_ID'] = '_'.join([concepticon_gloss, str(cognate_id)])
+                if int(cognate_id) < 1:
+                    entry['Loan'] = 'TRUE'
+                    loanwords[entry['Cognate_ID']].append((new_name, entry['ID'], entry['Form'], notes))
+                elif entry['Cognate_ID'] == 'SMALL_2': #words belonging to this class are borrowings from Greek <μικρός>, the same class as some others marked as loans. these were mistakenly not marked as loans
+                    entry['Loan'] = 'TRUE'
+                    loanwords[entry['Cognate_ID']].append((new_name, entry['ID'], entry['Form'], notes))
+                else:
+                    entry['Loan'] = 'FALSE'
+                entry['Comment'] = notes
+                entry['Source'] = sources
 
 #CREATE PROCESSED DATA FILE
 def write_data(data_dict, output_file, sep='\t'):
