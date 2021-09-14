@@ -23,7 +23,7 @@ Guilin_VOMIT_1	Guilin	guil1241	cnp	VOMIT	吐	tʰu²⁵	tʰ u ²⁵	tʰu²⁵	VOM
 Guangzhou_VOMIT_1	Guangzhou	guan1279	yue	VOMIT	嘔吐	ŋɐu³⁵tʰou³³	ŋ ɐ u ³⁵ tʰ o u ³³	ŋɐu³⁵ tʰou³³	VOMIT_1			Liu2007
 Fuzhou_VOMIT_1	Fuzhou	fuzh1239	cdo	VOMIT	吐	tʰou²¹²	tʰ o u ²¹²	tʰou²¹²	VOMIT_1			Liu2007
 Xiamen_VOMIT_1	Xiamen	xiam1236	cdo	VOMIT	吐	tʰo²¹	tʰ o ²¹	tʰo²¹	VOMIT_1			Liu2007
-Beijing_FEAR (BE AFRAID)_1	Beijing	beij1234	cmn	FEAR (BE AFRAID)	怕	pʰa̠⁵¹	pʰ a̠ ⁵¹	pʰᴀ⁵¹	FEAR (BE AFRAID)_1			Liu2007
+Beijing_FEAR (BE AFRAID)_1	Beijing	beij1234	cmn	FEAR (BE AFRAID)	怕	pʰa⁵¹	pʰ a ⁵¹	pʰᴀ⁵¹	FEAR (BE AFRAID)_1			Liu2007
 Haerbin_FEAR (BE AFRAID)_1	Ha'erbin	haer1234	cmn	FEAR (BE AFRAID)	怕	pʰa⁵³	pʰ a ⁵³	pʰa⁵³	FEAR (BE AFRAID)_1			Liu2007
 Jinan_FEAR (BE AFRAID)_1	Jinan	jina1245	cmn	FEAR (BE AFRAID)	怕	pʰa³¹	pʰ a ³¹	pʰa³¹	FEAR (BE AFRAID)_1			Liu2007
 Rongcheng_FEAR (BE AFRAID)_1	Rongcheng	rong1271	cmn	FEAR (BE AFRAID)	怕	pʰa³³⁴	pʰ a ³³⁴	pʰa³³⁴	FEAR (BE AFRAID)_1			Liu2007
@@ -41,7 +41,7 @@ Nanchang_FEAR (BE AFRAID)_1	Nanchang	nanc1254	gan	FEAR (BE AFRAID)	怕	pʰa²¹�
 Meixian_FEAR (BE AFRAID)_1	Meixian	yuet1238	hak	FEAR (BE AFRAID)	怕	pʰa⁵³	pʰ a ⁵³	pʰa⁵³	FEAR (BE AFRAID)_1			Liu2007
 Meixian_FEAR (BE AFRAID)_4	Meixian	yuet1238	hak	FEAR (BE AFRAID)	畏	vi⁵³	v i ⁵³	vi⁵³	FEAR (BE AFRAID)_4			Liu2007
 Meixian_FEAR (BE AFRAID)_5	Meixian	yuet1238	hak	FEAR (BE AFRAID)	驚	kjaŋ⁴⁴	k j a ŋ ⁴⁴	kiaŋ⁴⁴	FEAR (BE AFRAID)_5			Liu2007
-Guilin_FEAR (BE AFRAID)_1	Guilin	guil1241	cnp	FEAR (BE AFRAID)	怕	pʰa̠²⁵	pʰ a̠ ²⁵	pʰᴀ²⁵	FEAR (BE AFRAID)_1			Liu2007
+Guilin_FEAR (BE AFRAID)_1	Guilin	guil1241	cnp	FEAR (BE AFRAID)	怕	pʰa²⁵	pʰ a ²⁵	pʰᴀ²⁵	FEAR (BE AFRAID)_1			Liu2007
 Guangzhou_FEAR (BE AFRAID)_1	Guangzhou	guan1279	yue	FEAR (BE AFRAID)	怕	pʰa³³	pʰ a ³³	pʰa³³	FEAR (BE AFRAID)_1			Liu2007
 Fuzhou_FEAR (BE AFRAID)_5	Fuzhou	fuzh1239	cdo	FEAR (BE AFRAID)	驚	kjaŋ⁵⁵	k j a ŋ ⁵⁵	kiaŋ⁵⁵	FEAR (BE AFRAID)_5			Liu2007
 Xiamen_FEAR (BE AFRAID)_5	Xiamen	xiam1236	cdo	FEAR (BE AFRAID)	驚	kjã⁵⁵	k j ã ⁵⁵	kiã⁵⁵	FEAR (BE AFRAID)_5			Liu2007
@@ -244,7 +244,7 @@ Changsha_WHITE_1	Changsha	chan1326	hsn	WHITE	白	pə²⁴	p ə ²⁴	pə²⁴	WH
 Loudi_WHITE_1	Loudi	loud1234	hsn	WHITE	白	pʰɔ³⁵	pʰ ɔ ³⁵	pʰɔ³⁵	WHITE_1			Liu2007
 Nanchang_WHITE_1	Nanchang	nanc1254	gan	WHITE	白	pʰaʔ⁵	pʰ a ʔ ⁵	pʰaʔ⁵	WHITE_1			Liu2007
 Meixian_WHITE_1	Meixian	yuet1238	hak	WHITE	白	pʰak⁵	pʰ a k ⁵	pʰak⁵	WHITE_1			Liu2007
-Guilin_WHITE_1	Guilin	guil1241	cnp	WHITE	白	pja̠²²	p j a̠ ²²	piᴀ²²	WHITE_1			Liu2007
+Guilin_WHITE_1	Guilin	guil1241	cnp	WHITE	白	pja²²	p j a ²²	piᴀ²²	WHITE_1			Liu2007
 Guangzhou_WHITE_1	Guangzhou	guan1279	yue	WHITE	白	pak²	p a k ²	pak²	WHITE_1			Liu2007
 Fuzhou_WHITE_1	Fuzhou	fuzh1239	cdo	WHITE	白	paʔ⁵	p a ʔ ⁵	paʔ⁵	WHITE_1			Liu2007
 Xiamen_WHITE_1	Xiamen	xiam1236	cdo	WHITE	白	peʔ⁵	p e ʔ ⁵	peʔ⁵	WHITE_1			Liu2007
@@ -542,7 +542,7 @@ Guilin_FOREST_1	Guilin	guil1241	cnp	FOREST	树林	ɕy²¹liŋ²²	ɕ y ²¹ l i 
 Guangzhou_FOREST_1	Guangzhou	guan1279	yue	FOREST	森林	sɐm⁵³lɐm²¹	s ɐ m ⁵³ l ɐ m ²¹	sɐm⁵³ lɐm²¹	FOREST_1			Liu2007
 Fuzhou_FOREST_1	Fuzhou	fuzh1239	cdo	FOREST	树林	ʦʰjeu²¹²liŋ⁵³	ʦʰ j e u ²¹² l i ŋ ⁵³	tsʰieu²¹²⁻⁵⁵ liŋ⁵³	FOREST_1			Liu2007
 Xiamen_FOREST_1	Xiamen	xiam1236	cdo	FOREST	树林	ʦʰju²²lim²⁴	ʦʰ j u ²² l i m ²⁴	tsʰiu²²⁻²¹ lim²⁴	FOREST_1			Liu2007
-Beijing_KILL_1	Beijing	beij1234	cmn	KILL	杀	ʂa̠⁵⁵	ʂ a̠ ⁵⁵	ʂᴀ⁵⁵	KILL_1			Liu2007
+Beijing_KILL_1	Beijing	beij1234	cmn	KILL	杀	ʂa⁵⁵	ʂ a ⁵⁵	ʂᴀ⁵⁵	KILL_1			Liu2007
 Haerbin_KILL_1	Ha'erbin	haer1234	cmn	KILL	杀	ʂa⁴⁴	ʂ a ⁴⁴	ʂa⁴⁴	KILL_1			Liu2007
 Jinan_KILL_1	Jinan	jina1245	cmn	KILL	杀	ʂa²¹⁴	ʂ a ²¹⁴	ʂa²¹⁴	KILL_1			Liu2007
 Rongcheng_KILL_1	Rongcheng	rong1271	cmn	KILL	杀	ʂa²¹⁴	ʂ a ²¹⁴	ʂa²¹⁴	KILL_1			Liu2007
@@ -558,11 +558,11 @@ Changsha_KILL_1	Changsha	chan1326	hsn	KILL	杀	sa²⁴	s a ²⁴	sa²⁴	KILL_1	
 Loudi_KILL_1	Loudi	loud1234	hsn	KILL	杀	sa¹³	s a ¹³	sa¹³	KILL_1			Liu2007
 Nanchang_KILL_1	Nanchang	nanc1254	gan	KILL	杀	sat⁵	s a t ⁵	sat⁵	KILL_1			Liu2007
 Meixian_KILL_1	Meixian	yuet1238	hak	KILL	杀	sat¹	s a t ¹	sat¹	KILL_1			Liu2007
-Guilin_KILL_1	Guilin	guil1241	cnp	KILL	杀	sa̠⁵⁵	s a̠ ⁵⁵	sᴀ⁵⁵	KILL_1			Liu2007
+Guilin_KILL_1	Guilin	guil1241	cnp	KILL	杀	sa⁵⁵	s a ⁵⁵	sᴀ⁵⁵	KILL_1			Liu2007
 Guangzhou_KILL_1	Guangzhou	guan1279	yue	KILL	杀	sat³	s a t ³	sat³	KILL_1			Liu2007
 Fuzhou_KILL_3	Fuzhou	fuzh1239	cdo	KILL	刣	tʰai⁵³	tʰ a i ⁵³	tʰai⁵³	KILL_3			Liu2007
 Xiamen_KILL_3	Xiamen	xiam1236	cdo	KILL	刣	tʰai²⁴	tʰ a i ²⁴	tʰai²⁴	KILL_3			Liu2007
-Beijing_SAND_1	Beijing	beij1234	cmn	SAND	沙	ʂa̠⁵⁵	ʂ a̠ ⁵⁵	ʂᴀ⁵⁵	SAND_1			Liu2007
+Beijing_SAND_1	Beijing	beij1234	cmn	SAND	沙	ʂa⁵⁵	ʂ a ⁵⁵	ʂᴀ⁵⁵	SAND_1			Liu2007
 Haerbin_SAND_2	Ha'erbin	haer1234	cmn	SAND	沙子	ʂa⁴⁴ʦɹ̩⁰	ʂ a ⁴⁴ ʦ ɹ̩ ⁰	ʂa⁴⁴ tsɿ⁰	SAND_2			Liu2007
 Jinan_SAND_2	Jinan	jina1245	cmn	SAND	沙子	ʂa²¹⁴ʦɹ̩⁰	ʂ a ²¹⁴ ʦ ɹ̩ ⁰	ʂa²¹⁴⁻²¹ tsɿ⁰	SAND_2			Liu2007
 Rongcheng_SAND_1	Rongcheng	rong1271	cmn	SAND	沙	ʂa⁵²	ʂ a ⁵²	ʂa⁵²	SAND_1			Liu2007
@@ -680,7 +680,7 @@ Changsha_SNAKE_1	Changsha	chan1326	hsn	SNAKE	蛇	sə¹³	s ə ¹³	sə¹³	SNAKE
 Loudi_SNAKE_1	Loudi	loud1234	hsn	SNAKE	蛇	ʨʰjɔ¹³	ʨʰ j ɔ ¹³	tɕʰiɔ¹³	SNAKE_1			Liu2007
 Nanchang_SNAKE_1	Nanchang	nanc1254	gan	SNAKE	蛇	sa⁴⁵	s a ⁴⁵	sa⁴⁵	SNAKE_1			Liu2007
 Meixian_SNAKE_3	Meixian	yuet1238	hak	SNAKE	蛇哥	sa¹¹ko³³	s a ¹¹ k o ³³	sa¹¹ ko³³	SNAKE_3			Liu2007
-Guilin_SNAKE_1	Guilin	guil1241	cnp	SNAKE	蛇	sa̠²²	s a̠ ²²	sᴀ²²	SNAKE_1			Liu2007
+Guilin_SNAKE_1	Guilin	guil1241	cnp	SNAKE	蛇	sa²²	s a ²²	sᴀ²²	SNAKE_1			Liu2007
 Guangzhou_SNAKE_1	Guangzhou	guan1279	yue	SNAKE	蛇	sɛ²¹	s ɛ ²¹	sɛ²¹	SNAKE_1			Liu2007
 Fuzhou_SNAKE_1	Fuzhou	fuzh1239	cdo	SNAKE	老蛇	lau³²lje⁵³	l a u ³² l j e ⁵³	lau³²⁻²¹ lie⁵³	SNAKE_1			Liu2007
 Xiamen_SNAKE_1	Xiamen	xiam1236	cdo	SNAKE	蛇	ʦwa²⁴	ʦ w a ²⁴	tsua²⁴	SNAKE_1			Liu2007
@@ -765,7 +765,7 @@ Changsha_WHAT_9	Changsha	chan1326	hsn	WHAT	麼子	mo²⁴ʦɹ̩⁰	m o ²⁴ ʦ 
 Loudi_WHAT_9	Loudi	loud1234	hsn	WHAT	麽子	mɤ⁴²ʦɹ̩⁰	m ɤ ⁴² ʦ ɹ̩ ⁰	mɤ⁴² tsɿ⁰	WHAT_9			Liu2007
 Nanchang_WHAT_5	Nanchang	nanc1254	gan	WHAT	什哩	ɕit⁵li²¹	ɕ i t ⁵ l i ²¹	ɕit⁵ li²¹	WHAT_5			Liu2007
 Meixian_WHAT_10	Meixian	yuet1238	hak	WHAT	脉個	mak¹ke⁵³	m a k ¹ k e ⁵³	mak¹ ke⁵³	WHAT_10			Liu2007
-Guilin_WHAT_1	Guilin	guil1241	cnp	WHAT	什麼	sɤn²²ma̠²²	s ɤ n ²² m a̠ ²²	sɤn²² mᴀ²²	WHAT_1			Liu2007
+Guilin_WHAT_1	Guilin	guil1241	cnp	WHAT	什麼	sɤn²²ma²²	s ɤ n ²² m a ²²	sɤn²² mᴀ²²	WHAT_1			Liu2007
 Guangzhou_WHAT_6	Guangzhou	guan1279	yue	WHAT	乜嘢	mɐt⁵jɛ²³	m ɐ t ⁵ j ɛ ²³	mɐt⁵ iɛ²³	WHAT_6			Liu2007
 Fuzhou_WHAT_7	Fuzhou	fuzh1239	cdo	WHAT	什乇	sjeʔ²⁴noʔ²⁴	s j e ʔ ²⁴ n o ʔ ²⁴	sieʔ²⁴*⁻⁵³* noʔ²⁴*	WHAT_7			Liu2007
 Xiamen_WHAT_8	Xiamen	xiam1236	cdo	WHAT	什物	sim⁵³mjæʔ⁵	s i m ⁵³ m j æ ʔ ⁵	sim⁵³⁻⁵⁵ miæʔ⁵	WHAT_8			Liu2007
@@ -900,7 +900,7 @@ Changsha_WHO_5	Changsha	chan1326	hsn	WHO	何至個	o¹³ʦɹ̩⁵⁵ko⁵⁵	o �
 Loudi_WHO_1	Loudi	loud1234	hsn	WHO	誰	swi¹³	s w i ¹³	sui¹³	WHO_1			Liu2007
 Nanchang_WHO_5	Nanchang	nanc1254	gan	WHO	哪個	lai²¹³ko²¹	l a i ²¹³ k o ²¹	lai²¹³⁻²⁴ ko²¹	WHO_5			Liu2007
 Meixian_WHO_4	Meixian	yuet1238	hak	WHO	瞞人	man³¹ŋin¹¹	m a n ³¹ ŋ i n ¹¹	man³¹ ŋin¹¹	WHO_4			Liu2007
-Guilin_WHO_5	Guilin	guil1241	cnp	WHO	哪個	la̠²³kwo³³	l a̠ ²³ k w o ³³	lᴀ²³ kuo³³	WHO_5			Liu2007
+Guilin_WHO_5	Guilin	guil1241	cnp	WHO	哪個	la²³kwo³³	l a ²³ k w o ³³	lᴀ²³ kuo³³	WHO_5			Liu2007
 Guangzhou_WHO_1	Guangzhou	guan1279	yue	WHO	誰	søy²¹	s ø y ²¹	søy²¹	WHO_1			Liu2007
 Fuzhou_WHO_2	Fuzhou	fuzh1239	cdo	WHO	底隹又	tje³²ʒjeʔ²⁴	t j e ³² ʒ j e ʔ ²⁴	tie³²⁻⁵³ ʒieʔ²⁴*	WHO_2			Liu2007
 Fuzhou_WHO_3	Fuzhou	fuzh1239	cdo	WHO	底儂	tje³²nøyŋ⁵³	t j e ³² n ø y ŋ ⁵³	tie³² nøyŋ⁵³	WHO_3			Liu2007
@@ -1032,7 +1032,7 @@ Nanchang_SPLIT_2	Nanchang	nanc1254	gan	SPLIT	撕裂	si⁴²ljɛt⁵	s i ⁴² l 
 Nanchang_SPLIT_1	Nanchang	nanc1254	gan	SPLIT	撕	sɹ̩⁴²	s ɹ̩ ⁴²	sɿ⁴²	SPLIT_1			Liu2007
 Nanchang_SPLIT_10	Nanchang	nanc1254	gan	SPLIT	囗	ʦei⁴²	ʦ e i ⁴²	tsei⁴²	SPLIT_10			Liu2007
 Meixian_SPLIT_4	Meixian	yuet1238	hak	SPLIT	扯開	ʦʰa³¹kʰoi³³	ʦʰ a ³¹ kʰ o i ³³	tsʰa³¹ kʰoi³³	SPLIT_4			Liu2007
-Guilin_SPLIT_8	Guilin	guil1241	cnp	SPLIT	扯破	ʦʰa̠²³pʰwo²⁵	ʦʰ a̠ ²³ pʰ w o ²⁵	tsʰᴀ²³⁻²² pʰuo²⁵	SPLIT_8			Liu2007
+Guilin_SPLIT_8	Guilin	guil1241	cnp	SPLIT	扯破	ʦʰa²³pʰwo²⁵	ʦʰ a ²³ pʰ w o ²⁵	tsʰᴀ²³⁻²² pʰuo²⁵	SPLIT_8			Liu2007
 Guangzhou_SPLIT_2	Guangzhou	guan1279	yue	SPLIT	撕裂	si⁵³lit²	s i ⁵³ l i t ²	si⁵³ lit²	SPLIT_2			Liu2007
 Fuzhou_SPLIT_2	Fuzhou	fuzh1239	cdo	SPLIT	扯裂	tʰje³²ljeʔ⁵	tʰ j e ³² l j e ʔ ⁵	tʰie³² lieʔ⁵	SPLIT_2			Liu2007
 Xiamen_SPLIT_9	Xiamen	xiam1236	cdo	SPLIT	拆扌麗	tʰjaʔ⁵³li²²	tʰ j a ʔ ⁵³ l i ²²	tʰiaʔ⁵³* li²²	SPLIT_9			Liu2007
@@ -1076,7 +1076,7 @@ Guilin_FOUR_1	Guilin	guil1241	cnp	FOUR	四	sɹ̩²⁵	s ɹ̩ ²⁵	sɿ²⁵	FOUR
 Guangzhou_FOUR_1	Guangzhou	guan1279	yue	FOUR	四	sei³³	s e i ³³	sei³³	FOUR_1			Liu2007
 Fuzhou_FOUR_1	Fuzhou	fuzh1239	cdo	FOUR	四	sɛi²¹²	s ɛ i ²¹²	sɛi²¹²	FOUR_1			Liu2007
 Xiamen_FOUR_1	Xiamen	xiam1236	cdo	FOUR	四	si²¹	s i ²¹	si²¹	FOUR_1			Liu2007
-Beijing_HE_2	Beijing	beij1234	cmn	HE	他	tʰa̠⁵⁵	tʰ a̠ ⁵⁵	tʰᴀ⁵⁵	HE_2			Liu2007
+Beijing_HE_2	Beijing	beij1234	cmn	HE	他	tʰa⁵⁵	tʰ a ⁵⁵	tʰᴀ⁵⁵	HE_2			Liu2007
 Haerbin_HE_2	Ha'erbin	haer1234	cmn	HE	他	tʰa⁴⁴	tʰ a ⁴⁴	tʰa⁴⁴	HE_2			Liu2007
 Jinan_HE_2	Jinan	jina1245	cmn	HE	他	tʰa⁴⁵	tʰ a ⁴⁵	tʰa⁴⁵	HE_2			Liu2007
 Rongcheng_HE_2	Rongcheng	rong1271	cmn	HE	他	tʰa⁵²	tʰ a ⁵²	tʰa⁵²	HE_2			Liu2007
@@ -1091,12 +1091,12 @@ Changsha_HE_2	Changsha	chan1326	hsn	HE	他	tʰa³³	tʰ a ³³	tʰa³³	HE_2			L
 Loudi_HE_2	Loudi	loud1234	hsn	HE	他	tʰɔ⁴⁴	tʰ ɔ ⁴⁴	tʰɔ⁴⁴	HE_2			Liu2007
 Nanchang_HE_3	Nanchang	nanc1254	gan	HE	渠	ʨje²⁴	ʨ j e ²⁴	tɕie²⁴	HE_3			Liu2007
 Meixian_HE_5	Meixian	yuet1238	hak	HE	佢	ki¹¹	k i ¹¹	ki¹¹	HE_5			Liu2007
-Guilin_HE_2	Guilin	guil1241	cnp	HE	他	tʰa̠⁴²	tʰ a̠ ⁴²	tʰᴀ⁴²	HE_2			Liu2007
+Guilin_HE_2	Guilin	guil1241	cnp	HE	他	tʰa⁴²	tʰ a ⁴²	tʰᴀ⁴²	HE_2			Liu2007
 Guangzhou_HE_5	Guangzhou	guan1279	yue	HE	佢	kʰøy²³	kʰ ø y ²³	kʰøy²³	HE_5			Liu2007
 Fuzhou_HE_6	Fuzhou	fuzh1239	cdo	HE	伊	i⁵⁵	i ⁵⁵	i⁵⁵	HE_6			Liu2007
 Fuzhou_HE_1	Fuzhou	fuzh1239	cdo	HE	伊儂	i⁵⁵nøyŋ⁵³	i ⁵⁵ n ø y ŋ ⁵³	i⁵⁵ nøyŋ⁵³	HE_1			Liu2007
 Xiamen_HE_6	Xiamen	xiam1236	cdo	HE	伊	i⁵⁵	i ⁵⁵	i⁵⁵	HE_6			Liu2007
-Beijing_THEY_2	Beijing	beij1234	cmn	THEY	他們	tʰa̠⁵⁵mən³⁵	tʰ a̠ ⁵⁵ m ə n ³⁵	tʰᴀ⁵⁵ mən³⁵	THEY_2			Liu2007
+Beijing_THEY_2	Beijing	beij1234	cmn	THEY	他們	tʰa⁵⁵mən³⁵	tʰ a ⁵⁵ m ə n ³⁵	tʰᴀ⁵⁵ mən³⁵	THEY_2			Liu2007
 Haerbin_THEY_2	Ha'erbin	haer1234	cmn	THEY	他們	tʰa⁴⁴mən⁰	tʰ a ⁴⁴ m ə n ⁰	tʰa⁴⁴ mən⁰	THEY_2			Liu2007
 Jinan_THEY_2	Jinan	jina1245	cmn	THEY	他們	tʰa⁴⁵mẽ⁰	tʰ a ⁴⁵ m ẽ ⁰	tʰa⁴⁵⁻²¹⁴ mẽ⁰	THEY_2			Liu2007
 Rongcheng_THEY_2	Rongcheng	rong1271	cmn	THEY	他們	tʰa⁵²mən³³⁴	tʰ a ⁵² m ə n ³³⁴	tʰa⁵² mən³³⁴	THEY_2			Liu2007
@@ -1111,7 +1111,7 @@ Changsha_THEY_2	Changsha	chan1326	hsn	THEY	他們	tʰa³³mən	tʰ a ³³ m ə n
 Loudi_THEY_4	Loudi	loud1234	hsn	THEY	他㑲	tʰɔ⁴⁴nã¹³	tʰ ɔ ⁴⁴ n ã ¹³	tʰɔ⁴⁴ nã¹³⁻³³	THEY_4			Liu2007
 Nanchang_THEY_2	Nanchang	nanc1254	gan	THEY	渠們	ʨje²⁴mɨn⁰	ʨ j e ²⁴ m ɨ n ⁰	tɕie²⁴ mɨn⁰	THEY_2			Liu2007
 Meixian_THEY_7	Meixian	yuet1238	hak	THEY	佢丁人	ki¹¹ten³³ŋin¹¹	k i ¹¹ t e n ³³ ŋ i n ¹¹	ki¹¹ ten³³⁻³⁵ ŋin¹¹	THEY_7			Liu2007
-Guilin_THEY_10	Guilin	guil1241	cnp	THEY	他的個	tʰa̠⁴²ti⁰kɤ²¹	tʰ a̠ ⁴² t i ⁰ k ɤ ²¹	tʰᴀ⁴² ti⁰ kɤ²¹	THEY_10			Liu2007
+Guilin_THEY_10	Guilin	guil1241	cnp	THEY	他的個	tʰa⁴²ti⁰kɤ²¹	tʰ a ⁴² t i ⁰ k ɤ ²¹	tʰᴀ⁴² ti⁰ kɤ²¹	THEY_10			Liu2007
 Guangzhou_THEY_5	Guangzhou	guan1279	yue	THEY	佢哋	kʰøy²³tei²²	kʰ ø y ²³ t e i ²²	kʰøy²³ tei²²	THEY_5			Liu2007
 Fuzhou_THEY_1	Fuzhou	fuzh1239	cdo	THEY	伊儂	i⁵⁵nøyŋ⁵³	i ⁵⁵ n ø y ŋ ⁵³	i⁵⁵ nøyŋ⁵³	THEY_1			Liu2007
 Fuzhou_THEY_1	Fuzhou	fuzh1239	cdo	THEY	伊各儂	i⁵⁵koʔ²⁴nøyŋ⁵³	i ⁵⁵ k o ʔ ²⁴ n ø y ŋ ⁵³	i⁵⁵ koʔ²⁴*⁻²¹* nøyŋ⁵³	THEY_1			Liu2007
@@ -1245,7 +1245,7 @@ Guilin_HEAD_5	Guilin	guil1241	cnp	HEAD	頭	tai²²	t a i ²²	tai²²	HEAD_5			L
 Guangzhou_HEAD_5	Guangzhou	guan1279	yue	HEAD	頭	tʰɐu²¹	tʰ ɐ u ²¹	tʰɐu²¹	HEAD_5			Liu2007
 Fuzhou_HEAD_5	Fuzhou	fuzh1239	cdo	HEAD	頭	tʰau⁵³	tʰ a u ⁵³	tʰau⁵³	HEAD_5			Liu2007
 Xiamen_HEAD_2	Xiamen	xiam1236	cdo	HEAD	頭壳	tʰau²⁴kʰak³²	tʰ a u ²⁴ kʰ a k ³²	tʰau²⁴⁻²² kʰak³²*	HEAD_2			Liu2007
-Beijing_HAIR (HEAD)_1	Beijing	beij1234	cmn	HAIR (HEAD)	頭髮	tʰou³⁵fa̠⁵¹	tʰ o u ³⁵ f a̠ ⁵¹	tʰou³⁵ fᴀ⁵¹	HAIR (HEAD)_1			Liu2007
+Beijing_HAIR (HEAD)_1	Beijing	beij1234	cmn	HAIR (HEAD)	頭髮	tʰou³⁵fa⁵¹	tʰ o u ³⁵ f a ⁵¹	tʰou³⁵ fᴀ⁵¹	HAIR (HEAD)_1			Liu2007
 Haerbin_HAIR (HEAD)_1	Ha'erbin	haer1234	cmn	HAIR (HEAD)	頭髮	tʰou²⁴fa⁰	tʰ o u ²⁴ f a ⁰	tʰour²⁴ fa⁰	HAIR (HEAD)_1			Liu2007
 Jinan_HAIR (HEAD)_1	Jinan	jina1245	cmn	HAIR (HEAD)	頭髮	tʰou⁵³fa⁰	tʰ o u ⁵³ f a ⁰	tʰou⁵³⁻⁴⁵ fa⁰	HAIR (HEAD)_1			Liu2007
 Rongcheng_HAIR (HEAD)_1	Rongcheng	rong1271	cmn	HAIR (HEAD)	頭髮	tou³⁵fa⁰	t o u ³⁵ f a ⁰	tou³⁵ fa⁰	HAIR (HEAD)_1			Liu2007
@@ -1353,7 +1353,7 @@ Guilin_LEG_1	Guilin	guil1241	cnp	LEG	腿肚子	ʨjɑu⁵⁵tu²¹ʦe²³	ʨ j ɑ
 Guangzhou_LEG_2	Guangzhou	guan1279	yue	LEG	腿	tʰøy³⁵	tʰ ø y ³⁵	tʰøy³⁵	LEG_2			Liu2007
 Fuzhou_LEG_2	Fuzhou	fuzh1239	cdo	LEG	骹腿	kʰa⁵⁵løy³²	kʰ a ⁵⁵ l ø y ³²	kʰa⁵⁵⁻⁵³ løy³²	LEG_2			Liu2007
 Xiamen_LEG_5	Xiamen	xiam1236	cdo	LEG	骹骨	kʰa⁵⁵kut³²	kʰ a ⁵⁵ k u t ³²	kʰa⁵⁵⁻²² kut³²*	LEG_5			Liu2007
-Beijing_DIG_1	Beijing	beij1234	cmn	DIG	挖	wa̠⁵⁵	w a̠ ⁵⁵	uᴀ⁵⁵	DIG_1			Liu2007
+Beijing_DIG_1	Beijing	beij1234	cmn	DIG	挖	wa⁵⁵	w a ⁵⁵	uᴀ⁵⁵	DIG_1			Liu2007
 Haerbin_DIG_1	Ha'erbin	haer1234	cmn	DIG	挖	wa⁴⁴	w a ⁴⁴	ua⁴⁴	DIG_1			Liu2007
 Jinan_DIG_1	Jinan	jina1245	cmn	DIG	挖	va²¹⁴	v a ²¹⁴	va²¹⁴	DIG_1			Liu2007
 Rongcheng_DIG_1	Rongcheng	rong1271	cmn	DIG	挖	wa²¹³	w a ²¹³	ua²¹³	DIG_1			Liu2007
@@ -1370,7 +1370,7 @@ Changsha_DIG_1	Changsha	chan1326	hsn	DIG	挖	wa²⁴	w a ²⁴	ua²⁴	DIG_1			L
 Loudi_DIG_1	Loudi	loud1234	hsn	DIG	挖	wa¹³	w a ¹³	ua¹³	DIG_1			Liu2007
 Nanchang_DIG_1	Nanchang	nanc1254	gan	DIG	挖	wa⁴²	w a ⁴²	ua⁴²	DIG_1			Liu2007
 Meixian_DIG_1	Meixian	yuet1238	hak	DIG	挖	vat¹	v a t ¹	vat¹	DIG_1			Liu2007
-Guilin_DIG_1	Guilin	guil1241	cnp	DIG	挖	wa̠⁵⁵	w a̠ ⁵⁵	uᴀ⁵⁵	DIG_1			Liu2007
+Guilin_DIG_1	Guilin	guil1241	cnp	DIG	挖	wa⁵⁵	w a ⁵⁵	uᴀ⁵⁵	DIG_1			Liu2007
 Guangzhou_DIG_1	Guangzhou	guan1279	yue	DIG	挖	wat³	w a t ³	uat³	DIG_1			Liu2007
 Fuzhou_DIG_1	Fuzhou	fuzh1239	cdo	DIG	挖	waʔ²⁴	w a ʔ ²⁴	uaʔ²⁴*	DIG_1			Liu2007
 Xiamen_DIG_5	Xiamen	xiam1236	cdo	DIG	摀	ɔ⁵³	ɔ ⁵³	ɔ⁵³	DIG_5			Liu2007
@@ -1390,7 +1390,7 @@ Loudi_PLAY_2	Loudi	loud1234	hsn	PLAY	耍	sɔ⁴²	s ɔ ⁴²	sɔ⁴²	PLAY_2			L
 Nanchang_PLAY_1	Nanchang	nanc1254	gan	PLAY	玩	wan⁴⁵	w a n ⁴⁵	uan⁴⁵	PLAY_1			Liu2007
 Meixian_PLAY_5	Meixian	yuet1238	hak	PLAY	攪	kau³¹	k a u ³¹	kau³¹	PLAY_5			Liu2007
 Meixian_PLAY_6	Meixian	yuet1238	hak	PLAY	嫽	ljau⁵³	l j a u ⁵³	liau⁵³	PLAY_6			Liu2007
-Guilin_PLAY_2	Guilin	guil1241	cnp	PLAY	耍	swa̠²³	s w a̠ ²³	suᴀ²³	PLAY_2			Liu2007
+Guilin_PLAY_2	Guilin	guil1241	cnp	PLAY	耍	swa²³	s w a ²³	suᴀ²³	PLAY_2			Liu2007
 Guangzhou_PLAY_1	Guangzhou	guan1279	yue	PLAY	玩	wan²¹	w a n ²¹	uan²¹	PLAY_1			Liu2007
 Fuzhou_PLAY_7	Fuzhou	fuzh1239	cdo	PLAY	嬉戏	hi⁵⁵hje²¹²	h i ⁵⁵ h j e ²¹²	hi⁵⁵⁻⁵³ hie²¹²	PLAY_7			Liu2007
 Fuzhou_PLAY_8	Fuzhou	fuzh1239	cdo	PLAY	骹遛	kʰa⁵⁵ljeu⁵³	kʰ a ⁵⁵ l j e u ⁵³	kʰa⁵⁵ lieu⁵³	PLAY_8			Liu2007
@@ -1414,7 +1414,7 @@ Changsha_NIGHT_1	Changsha	chan1326	hsn	NIGHT	夜間子	ja¹¹ka⁰ʦɹ̩⁰	j a 
 Loudi_NIGHT_11	Loudi	loud1234	hsn	NIGHT	夜裡	jɔ¹¹li⁰	j ɔ ¹¹ l i ⁰	iɔ¹¹ li⁰	NIGHT_11			Liu2007
 Nanchang_NIGHT_3	Nanchang	nanc1254	gan	NIGHT	夜晚	ja²¹wan²¹³	j a ²¹ w a n ²¹³	ia²¹ uan²¹³	NIGHT_3			Liu2007
 Meixian_NIGHT_9	Meixian	yuet1238	hak	NIGHT	暗晡	am⁵³pu³³	a m ⁵³ p u ³³	am⁵³ pu³³	NIGHT_9			Liu2007
-Guilin_NIGHT_12	Guilin	guil1241	cnp	NIGHT	夜下	ja̠²¹xa̠²²	j a̠ ²¹ x a̠ ²²	iᴀ²¹ xᴀ²²	NIGHT_12			Liu2007
+Guilin_NIGHT_12	Guilin	guil1241	cnp	NIGHT	夜下	ja²¹xa²²	j a ²¹ x a ²²	iᴀ²¹ xᴀ²²	NIGHT_12			Liu2007
 Guangzhou_NIGHT_2	Guangzhou	guan1279	yue	NIGHT	晚上	man²³sœŋ²²	m a n ²³ s œ ŋ ²²	man²³ sœŋ²²	NIGHT_2			Liu2007
 Fuzhou_NIGHT_9	Fuzhou	fuzh1239	cdo	NIGHT	暝晡	maŋ⁵³mwo⁵⁵	m a ŋ ⁵³ m w o ⁵⁵	maŋ⁵³⁻⁵⁵ muo⁵⁵	NIGHT_9			Liu2007
 Xiamen_NIGHT_8	Xiamen	xiam1236	cdo	NIGHT	下昏	e²²hŋ̍⁵⁵	e ²² h ŋ̍ ⁵⁵	e²²⁻²¹ hŋ̍⁵⁵	NIGHT_8			Liu2007
@@ -1434,7 +1434,7 @@ Changsha_TAIL_3	Changsha	chan1326	hsn	TAIL	尾巴	wei⁴¹pa⁰	w e i ⁴¹ p a 
 Loudi_TAIL_3	Loudi	loud1234	hsn	TAIL	尾巴	wi⁴²pa⁰	w i ⁴² p a ⁰	ui⁴² pa⁰	TAIL_3			Liu2007
 Nanchang_TAIL_3	Nanchang	nanc1254	gan	TAIL	尾巴	wi²¹³pa⁰	w i ²¹³ p a ⁰	ui²¹³ pa⁰	TAIL_3			Liu2007
 Meixian_TAIL_3	Meixian	yuet1238	hak	TAIL	尾巴	mi³³pa³³	m i ³³ p a ³³	mi³³ pa³³	TAIL_3			Liu2007
-Guilin_TAIL_3	Guilin	guil1241	cnp	TAIL	尾巴	wei²³pa̠⁴²	w e i ²³ p a̠ ⁴²	uei²³ pᴀ⁴²⁻²²	TAIL_3			Liu2007
+Guilin_TAIL_3	Guilin	guil1241	cnp	TAIL	尾巴	wei²³pa⁴²	w e i ²³ p a ⁴²	uei²³ pᴀ⁴²⁻²²	TAIL_3			Liu2007
 Guangzhou_TAIL_2	Guangzhou	guan1279	yue	TAIL	尾	mei²³	m e i ²³	mei²³	TAIL_2			Liu2007
 Fuzhou_TAIL_2	Fuzhou	fuzh1239	cdo	TAIL	尾尾	mwoi³²mwoi³²	m w o i ³² m w o i ³²	muoi³² muoi³²	TAIL_2			Liu2007
 Xiamen_TAIL_3	Xiamen	xiam1236	cdo	TAIL	尾巴	me⁵³pa⁵⁵	m e ⁵³ p a ⁵⁵	me⁵³⁻⁵⁵ pa⁵⁵	TAIL_3			Liu2007
@@ -1759,7 +1759,7 @@ Guilin_BLOOD_1	Guilin	guil1241	cnp	BLOOD	血	ɕɥe⁵⁵	ɕ ɥ e ⁵⁵	ɕye⁵�
 Guangzhou_BLOOD_1	Guangzhou	guan1279	yue	BLOOD	血	hyt³	h y t ³	hyt³	BLOOD_1			Liu2007
 Fuzhou_BLOOD_1	Fuzhou	fuzh1239	cdo	BLOOD	血	haiʔ²⁴	h a i ʔ ²⁴	haiʔ²⁴*	BLOOD_1			Liu2007
 Xiamen_BLOOD_1	Xiamen	xiam1236	cdo	BLOOD	血	hwiʔ³²	h w i ʔ ³²	huiʔ³²*	BLOOD_1			Liu2007
-Beijing_SQUEEZE_2	Beijing	beij1234	cmn	SQUEEZE	壓	ja̠⁵⁵	j a̠ ⁵⁵	iᴀ⁵⁵	SQUEEZE_2			Liu2007
+Beijing_SQUEEZE_2	Beijing	beij1234	cmn	SQUEEZE	壓	ja⁵⁵	j a ⁵⁵	iᴀ⁵⁵	SQUEEZE_2			Liu2007
 Haerbin_SQUEEZE_2	Ha'erbin	haer1234	cmn	SQUEEZE	壓	ja⁴⁴	j a ⁴⁴	ia⁴⁴	SQUEEZE_2			Liu2007
 Jinan_SQUEEZE_2	Jinan	jina1245	cmn	SQUEEZE	壓	ja²¹⁴	j a ²¹⁴	ia²¹⁴	SQUEEZE_2			Liu2007
 Rongcheng_SQUEEZE_2	Rongcheng	rong1271	cmn	SQUEEZE	壓	ja²¹⁴	j a ²¹⁴	ia²¹⁴	SQUEEZE_2			Liu2007
@@ -1784,7 +1784,7 @@ Guilin_SQUEEZE_2	Guilin	guil1241	cnp	SQUEEZE	壓	ŋa⁵⁵	ŋ a ⁵⁵	ŋa⁵⁵
 Guangzhou_SQUEEZE_2	Guangzhou	guan1279	yue	SQUEEZE	壓	ŋat³	ŋ a t ³	ŋat³	SQUEEZE_2			Liu2007
 Fuzhou_SQUEEZE_2	Fuzhou	fuzh1239	cdo	SQUEEZE	壓	taʔ²⁴	t a ʔ ²⁴	taʔ²⁴*	SQUEEZE_2			Liu2007
 Xiamen_SQUEEZE_2	Xiamen	xiam1236	cdo	SQUEEZE	壓	teʔ³²	t e ʔ ³²	teʔ³²*	SQUEEZE_2			Liu2007
-Beijing_TOOTH_3	Beijing	beij1234	cmn	TOOTH	牙齒	ja̠³⁵ʈ͡ʂʰɻ̩²¹³	j a̠ ³⁵ ʈ͡ʂʰ ɻ̩ ²¹³	iᴀ³⁵ tʂʰʅ²¹³	TOOTH_3			Liu2007
+Beijing_TOOTH_3	Beijing	beij1234	cmn	TOOTH	牙齒	ja³⁵ʈ͡ʂʰɻ̩²¹³	j a ³⁵ ʈ͡ʂʰ ɻ̩ ²¹³	iᴀ³⁵ tʂʰʅ²¹³	TOOTH_3			Liu2007
 Haerbin_TOOTH_2	Ha'erbin	haer1234	cmn	TOOTH	牙	ja²⁴	j a ²⁴	ia²⁴	TOOTH_2			Liu2007
 Jinan_TOOTH_3	Jinan	jina1245	cmn	TOOTH	牙齒	ja⁵³ʈ͡ʂʰɻ̩⁴⁵	j a ⁵³ ʈ͡ʂʰ ɻ̩ ⁴⁵	ia⁵³ tʂʰʅ⁴⁵	TOOTH_3			Liu2007
 Rongcheng_TOOTH_3	Rongcheng	rong1271	cmn	TOOTH	牙齒	ja⁵²ʈ͡ʂʰɻ̩²¹⁴	j a ⁵² ʈ͡ʂʰ ɻ̩ ²¹⁴	ia⁵² tʂʰʅ²¹⁴	TOOTH_3			Liu2007
@@ -1799,7 +1799,7 @@ Changsha_TOOTH_3	Changsha	chan1326	hsn	TOOTH	牙齒	ŋa¹³ʦʰɹ̩⁴¹	ŋ a ¹
 Loudi_TOOTH_3	Loudi	loud1234	hsn	TOOTH	牙齒	ŋɔ¹³ʣɹ̩⁴²	ŋ ɔ ¹³ ʣ ɹ̩ ⁴²	ŋɔ¹³ dzɿ⁴²	TOOTH_3			Liu2007
 Nanchang_TOOTH_3	Nanchang	nanc1254	gan	TOOTH	牙齒	ŋo⁴⁵ʦɹ̩⁰	ŋ o ⁴⁵ ʦ ɹ̩ ⁰	ŋo⁴⁵ tsɿ⁰	TOOTH_3			Liu2007
 Meixian_TOOTH_3	Meixian	yuet1238	hak	TOOTH	牙齒	ŋa¹¹ʦʰɹ̩³¹	ŋ a ¹¹ ʦʰ ɹ̩ ³¹	ŋa¹¹ tsʰɿ³¹	TOOTH_3			Liu2007
-Guilin_TOOTH_3	Guilin	guil1241	cnp	TOOTH	牙齒	ŋa̠²²ʨʰi²³	ŋ a̠ ²² ʨʰ i ²³	ŋᴀ²² tɕʰi²³⁻³³	TOOTH_3			Liu2007
+Guilin_TOOTH_3	Guilin	guil1241	cnp	TOOTH	牙齒	ŋa²²ʨʰi²³	ŋ a ²² ʨʰ i ²³	ŋᴀ²² tɕʰi²³⁻³³	TOOTH_3			Liu2007
 Guangzhou_TOOTH_3	Guangzhou	guan1279	yue	TOOTH	牙齒	ŋa²¹ʦʰi³⁵	ŋ a ²¹ ʦʰ i ³⁵	ŋa²¹ tsʰi³⁵	TOOTH_3			Liu2007
 Fuzhou_TOOTH_3	Fuzhou	fuzh1239	cdo	TOOTH	齒	kʰi³²	kʰ i ³²	kʰi³²	TOOTH_3			Liu2007
 Xiamen_TOOTH_3	Xiamen	xiam1236	cdo	TOOTH	喙齒	ʦʰwi²²kʰi⁵³	ʦʰ w i ²² kʰ i ⁵³	tsʰui²²⁻²¹ kʰi⁵³	TOOTH_3			Liu2007
@@ -2170,7 +2170,7 @@ Loudi_DIRTY_7	Loudi	loud1234	hsn	DIRTY	囗赖	pʰa³⁵la¹¹	pʰ a ³⁵ l a ¹
 Nanchang_DIRTY_1	Nanchang	nanc1254	gan	DIRTY	脏	ʦɔŋ⁴²	ʦ ɔ ŋ ⁴²	tsɔŋ⁴²	DIRTY_1			Liu2007
 Nanchang_DIRTY_8	Nanchang	nanc1254	gan	DIRTY	腌臢	ŋa⁴²ʦa⁰	ŋ a ⁴² ʦ a ⁰	ŋa⁴² tsa⁰	DIRTY_8			Liu2007
 Meixian_DIRTY_12	Meixian	yuet1238	hak	DIRTY	囗	me⁵³	m e ⁵³	me⁵³	DIRTY_12			Liu2007
-Guilin_DIRTY_3	Guilin	guil1241	cnp	DIRTY	邋遢	la̠⁵⁵tʰa̠²¹	l a̠ ⁵⁵ tʰ a̠ ²¹	lᴀ⁵⁵ tʰᴀ²¹	DIRTY_3			Liu2007
+Guilin_DIRTY_3	Guilin	guil1241	cnp	DIRTY	邋遢	la⁵⁵tʰa²¹	l a ⁵⁵ tʰ a ²¹	lᴀ⁵⁵ tʰᴀ²¹	DIRTY_3			Liu2007
 Guangzhou_DIRTY_6	Guangzhou	guan1279	yue	DIRTY	汚糟	u⁵⁵ʦou⁵³	u ⁵⁵ ʦ o u ⁵³	u⁵⁵ tsou⁵³	DIRTY_6			Liu2007
 Fuzhou_DIRTY_9	Fuzhou	fuzh1239	cdo	DIRTY	拉渣	la⁵⁵ʦʰa⁵⁵	l a ⁵⁵ ʦʰ a ⁵⁵	la⁵⁵ tsʰa⁵⁵	DIRTY_9			Liu2007
 Fuzhou_DIRTY_10	Fuzhou	fuzh1239	cdo	DIRTY	歯屋歯足	ouʔ⁵ʦʰwoʔ²⁴	o u ʔ ⁵ ʦʰ w o ʔ ²⁴	ouʔ⁵ tsʰuoʔ²⁴*	DIRTY_10			Liu2007
@@ -2214,7 +2214,7 @@ Changsha_NARROW_1	Changsha	chan1326	hsn	NARROW	窄	ʦə²⁴	ʦ ə ²⁴	tsə²�
 Loudi_NARROW_2	Loudi	loud1234	hsn	NARROW	狭	xa³⁵	x a ³⁵	xa³⁵	NARROW_2			Liu2007
 Nanchang_NARROW_2	Nanchang	nanc1254	gan	NARROW	狭	ha⁴²	h a ⁴²	ha⁴²	NARROW_2			Liu2007
 Meixian_NARROW_2	Meixian	yuet1238	hak	NARROW	狭	hap⁵	h a p ⁵	hap⁵	NARROW_2			Liu2007
-Guilin_NARROW_1	Guilin	guil1241	cnp	NARROW	窄	ʦa̠⁵⁵	ʦ a̠ ⁵⁵	tsᴀ⁵⁵	NARROW_1			Liu2007
+Guilin_NARROW_1	Guilin	guil1241	cnp	NARROW	窄	ʦa⁵⁵	ʦ a ⁵⁵	tsᴀ⁵⁵	NARROW_1			Liu2007
 Guangzhou_NARROW_1	Guangzhou	guan1279	yue	NARROW	窄	ʦak³	ʦ a k ³	tsak³	NARROW_1			Liu2007
 Fuzhou_NARROW_1	Fuzhou	fuzh1239	cdo	NARROW	窄	ʦaʔ²⁴	ʦ a ʔ ²⁴	tsaʔ²⁴*	NARROW_1			Liu2007
 Xiamen_NARROW_2	Xiamen	xiam1236	cdo	NARROW	狭	weʔ⁵	w e ʔ ⁵	ueʔ⁵	NARROW_2			Liu2007
@@ -2329,7 +2329,7 @@ Changsha_KNOW (SOMETHING)_1	Changsha	chan1326	hsn	KNOW (SOMETHING)	晓得	ɕjau�
 Loudi_KNOW (SOMETHING)_1	Loudi	loud1234	hsn	KNOW (SOMETHING)	晓得	ɕjɤ²¹te¹³	ɕ j ɤ ²¹ t e ¹³	ɕiɤ²¹ te¹³⁻³³	KNOW (SOMETHING)_1			Liu2007
 Nanchang_KNOW (SOMETHING)_1	Nanchang	nanc1254	gan	KNOW (SOMETHING)	晓得	ɕjɛu²¹³tɛt⁰	ɕ j ɛ u ²¹³ t ɛ t ⁰	ɕiɛu²¹³ tɛt⁰	KNOW (SOMETHING)_1			Liu2007
 Meixian_KNOW (SOMETHING)_1	Meixian	yuet1238	hak	KNOW (SOMETHING)	知得	ti³³tet¹	t i ³³ t e t ¹	ti³³⁻³⁵ tet¹	KNOW (SOMETHING)_1			Liu2007
-Guilin_KNOW (SOMETHING)_1	Guilin	guil1241	cnp	KNOW (SOMETHING)	晓得	ɕjɑu²³tja̠⁵⁵	ɕ j ɑ u ²³ t j a̠ ⁵⁵	ɕiɑu²³ tiᴀ⁵⁵	KNOW (SOMETHING)_1			Liu2007
+Guilin_KNOW (SOMETHING)_1	Guilin	guil1241	cnp	KNOW (SOMETHING)	晓得	ɕjɑu²³tja⁵⁵	ɕ j ɑ u ²³ t j a ⁵⁵	ɕiɑu²³ tiᴀ⁵⁵	KNOW (SOMETHING)_1			Liu2007
 Guangzhou_KNOW (SOMETHING)_2	Guangzhou	guan1279	yue	KNOW (SOMETHING)	知道	ʦi³³tou²²	ʦ i ³³ t o u ²²	tsi³³ tou²²	KNOW (SOMETHING)_2			Liu2007
 Fuzhou_KNOW (SOMETHING)_6	Fuzhou	fuzh1239	cdo	KNOW (SOMETHING)	仈傳	pɛiʔ²⁴twoŋ⁵³	p ɛ i ʔ ²⁴ t w o ŋ ⁵³	pɛiʔ²⁴*⁻²¹* tuoŋ⁵³	KNOW (SOMETHING)_6			Liu2007
 Fuzhou_KNOW (SOMETHING)_3	Fuzhou	fuzh1239	cdo	KNOW (SOMETHING)	会晓	ɛ²⁴²hjeu³²	ɛ ²⁴² h j e u ³²	ɛ²⁴²⁻⁵³ hieu³²	KNOW (SOMETHING)_3			Liu2007
@@ -2435,7 +2435,7 @@ Guilin_HEAVY_1	Guilin	guil1241	cnp	HEAVY	重	ʦwɤŋ²³	ʦ w ɤ ŋ ²³	tsuɤŋ
 Guangzhou_HEAVY_1	Guangzhou	guan1279	yue	HEAVY	重	ʦoŋ²²	ʦ o ŋ ²²	tsoŋ²²	HEAVY_1			Liu2007
 Fuzhou_HEAVY_1	Fuzhou	fuzh1239	cdo	HEAVY	重	tɔyŋ²⁴²	t ɔ y ŋ ²⁴²	tɔyŋ²⁴²	HEAVY_1			Liu2007
 Xiamen_HEAVY_1	Xiamen	xiam1236	cdo	HEAVY	重	taŋ²²	t a ŋ ²²	taŋ²²	HEAVY_1			Liu2007
-Beijing_SCRATCH_1	Beijing	beij1234	cmn	SCRATCH	抓	ʈ͡ʂwa̠⁵⁵	ʈ͡ʂ w a̠ ⁵⁵	tʂuᴀ⁵⁵	SCRATCH_1			Liu2007
+Beijing_SCRATCH_1	Beijing	beij1234	cmn	SCRATCH	抓	ʈ͡ʂwa⁵⁵	ʈ͡ʂ w a ⁵⁵	tʂuᴀ⁵⁵	SCRATCH_1			Liu2007
 Haerbin_SCRATCH_1	Ha'erbin	haer1234	cmn	SCRATCH	抓	ʈ͡ʂwa⁴⁴	ʈ͡ʂ w a ⁴⁴	tʂua⁴⁴	SCRATCH_1			Liu2007
 Haerbin_SCRATCH_2	Ha'erbin	haer1234	cmn	SCRATCH	叨	tau⁴⁴	t a u ⁴⁴	tau⁴⁴	SCRATCH_2			Liu2007
 Jinan_SCRATCH_1	Jinan	jina1245	cmn	SCRATCH	抓	ʈ͡ʂwa²¹⁴	ʈ͡ʂ w a ²¹⁴	tʂua²¹⁴	SCRATCH_1			Liu2007
@@ -2461,7 +2461,7 @@ Guangzhou_SCRATCH_1	Guangzhou	guan1279	yue	SCRATCH	抓	ʦa⁵³	ʦ a ⁵³	tsa�
 Fuzhou_SCRATCH_7	Fuzhou	fuzh1239	cdo	SCRATCH	摣	ma⁵⁵	m a ⁵⁵	ma⁵⁵	SCRATCH_7			Liu2007
 Fuzhou_SCRATCH_1	Fuzhou	fuzh1239	cdo	SCRATCH	抓	ʦwa⁵⁵	ʦ w a ⁵⁵	tsua⁵⁵	SCRATCH_1			Liu2007
 Xiamen_SCRATCH_8	Xiamen	xiam1236	cdo	SCRATCH	掠	ljaʔ⁵	l j a ʔ ⁵	liaʔ⁵	SCRATCH_8			Liu2007
-Beijing_CLAW_2	Beijing	beij1234	cmn	CLAW	爪	ʈ͡ʂwa̠²¹³	ʈ͡ʂ w a̠ ²¹³	tʂuᴀ²¹³	CLAW_2			Liu2007
+Beijing_CLAW_2	Beijing	beij1234	cmn	CLAW	爪	ʈ͡ʂwa²¹³	ʈ͡ʂ w a ²¹³	tʂuᴀ²¹³	CLAW_2			Liu2007
 Haerbin_CLAW_1	Ha'erbin	haer1234	cmn	CLAW	爪子	ʈ͡ʂwa²¹³ʦɹ̩⁰	ʈ͡ʂ w a ²¹³ ʦ ɹ̩ ⁰	tʂua²¹³⁻²¹ tsɿ⁰	CLAW_1			Liu2007
 Jinan_CLAW_1	Jinan	jina1245	cmn	CLAW	爪子	ʈ͡ʂwa⁴⁵ʦɹ̩⁰	ʈ͡ʂ w a ⁴⁵ ʦ ɹ̩ ⁰	tʂua⁴⁵⁻²¹⁴ tsɿ⁰	CLAW_1			Liu2007
 Rongcheng_CLAW_1	Rongcheng	rong1271	cmn	CLAW	爪子	ʈ͡ʂwa²¹⁴ʦɹ̩⁰	ʈ͡ʂ w a ²¹⁴ ʦ ɹ̩ ⁰	tʂua²¹⁴ tsɿ⁰	CLAW_1			Liu2007
@@ -2759,7 +2759,7 @@ Guilin_STAB_1	Guilin	guil1241	cnp	STAB	刺	ʦʰɹ̩²⁵	ʦʰ ɹ̩ ²⁵	tsʰɿ�
 Guangzhou_STAB_1	Guangzhou	guan1279	yue	STAB	刺	ʦʰi³³	ʦʰ i ³³	tsʰi³³	STAB_1			Liu2007
 Fuzhou_STAB_1	Fuzhou	fuzh1239	cdo	STAB	刺	ʦʰje²¹²	ʦʰ j e ²¹²	tsʰie²¹²	STAB_1			Liu2007
 Xiamen_STAB_1	Xiamen	xiam1236	cdo	STAB	刺	ʦʰi²¹	ʦʰ i ²¹	tsʰi²¹	STAB_1			Liu2007
-Beijing_STRIKE_1	Beijing	beij1234	cmn	STRIKE	打	ta̠²¹⁴	t a̠ ²¹⁴	tᴀ²¹⁴	STRIKE_1			Liu2007
+Beijing_STRIKE_1	Beijing	beij1234	cmn	STRIKE	打	ta²¹⁴	t a ²¹⁴	tᴀ²¹⁴	STRIKE_1			Liu2007
 Haerbin_STRIKE_1	Ha'erbin	haer1234	cmn	STRIKE	打	ta²¹³	t a ²¹³	ta²¹³	STRIKE_1			Liu2007
 Jinan_STRIKE_1	Jinan	jina1245	cmn	STRIKE	打	ta⁴⁵	t a ⁴⁵	ta⁴⁵	STRIKE_1			Liu2007
 Rongcheng_STRIKE_1	Rongcheng	rong1271	cmn	STRIKE	打	ta²¹⁴	t a ²¹⁴	ta²¹⁴	STRIKE_1			Liu2007
@@ -2774,7 +2774,7 @@ Changsha_STRIKE_1	Changsha	chan1326	hsn	STRIKE	打	ta⁴¹	t a ⁴¹	ta⁴¹	STR
 Loudi_STRIKE_1	Loudi	loud1234	hsn	STRIKE	打	ta⁴²	t a ⁴²	ta⁴²	STRIKE_1			Liu2007
 Nanchang_STRIKE_1	Nanchang	nanc1254	gan	STRIKE	打	ta²¹³	t a ²¹³	ta²¹³	STRIKE_1			Liu2007
 Meixian_STRIKE_1	Meixian	yuet1238	hak	STRIKE	打	ta³¹	t a ³¹	ta³¹	STRIKE_1			Liu2007
-Guilin_STRIKE_1	Guilin	guil1241	cnp	STRIKE	打	ta̠²³	t a̠ ²³	tᴀ²³	STRIKE_1			Liu2007
+Guilin_STRIKE_1	Guilin	guil1241	cnp	STRIKE	打	ta²³	t a ²³	tᴀ²³	STRIKE_1			Liu2007
 Guangzhou_STRIKE_1	Guangzhou	guan1279	yue	STRIKE	打	ta³⁵	t a ³⁵	ta³⁵	STRIKE_1			Liu2007
 Fuzhou_STRIKE_2	Fuzhou	fuzh1239	cdo	STRIKE	拍	pʰaʔ²⁴	pʰ a ʔ ²⁴	pʰaʔ²⁴*	STRIKE_2			Liu2007
 Xiamen_STRIKE_2	Xiamen	xiam1236	cdo	STRIKE	拍	pʰaʔ³²	pʰ a ʔ ³²	pʰaʔ³²*	STRIKE_2			Liu2007
@@ -2802,7 +2802,7 @@ Guilin_FIGHT_4	Guilin	guil1241	cnp	FIGHT	打架	tɑ²³kɑ²⁵	t ɑ ²³ k ɑ �
 Guangzhou_FIGHT_4	Guangzhou	guan1279	yue	FIGHT	打架	ta³⁵kau⁵⁵	t a ³⁵ k a u ⁵⁵	ta³⁵ kau⁵⁵	FIGHT_4			Liu2007
 Fuzhou_FIGHT_3	Fuzhou	fuzh1239	cdo	FIGHT	相拍	souŋ⁵⁵pʰaʔ²¹	s o u ŋ ⁵⁵ pʰ a ʔ ²¹	souŋ⁵⁵⁻⁵³ pʰaʔ²¹*	FIGHT_3			Liu2007
 Xiamen_FIGHT_3	Xiamen	xiam1236	cdo	FIGHT	相拍	sio⁵⁵pʰaʔ³²	s i o ⁵⁵ pʰ a ʔ ³²	sio⁵⁵⁻²² pʰaʔ³²*	FIGHT_3			Liu2007
-Beijing_HUNT_2	Beijing	beij1234	cmn	HUNT	打獵	ta̠²¹³ljɛ⁵¹	t a̠ ²¹³ l j ɛ ⁵¹	tᴀ²¹³⁻²¹ liɛ⁵¹	HUNT_2			Liu2007
+Beijing_HUNT_2	Beijing	beij1234	cmn	HUNT	打獵	ta²¹³ljɛ⁵¹	t a ²¹³ l j ɛ ⁵¹	tᴀ²¹³⁻²¹ liɛ⁵¹	HUNT_2			Liu2007
 Haerbin_HUNT_2	Ha'erbin	haer1234	cmn	HUNT	打獵	ta²¹³ljɛ⁵³	t a ²¹³ l j ɛ ⁵³	ta²¹³⁻²¹ liɛ⁵³	HUNT_2			Liu2007
 Jinan_HUNT_2	Jinan	jina1245	cmn	HUNT	打獵	ta⁴⁵ljə²¹	t a ⁴⁵ l j ə ²¹	ta⁴⁵ liə²¹	HUNT_2			Liu2007
 Rongcheng_HUNT_2	Rongcheng	rong1271	cmn	HUNT	打獵	ta²¹⁴ljɛ³³⁴	t a ²¹⁴ l j ɛ ³³⁴	ta²¹⁴⁻² liɛ³³⁴	HUNT_2			Liu2007
@@ -3128,7 +3128,7 @@ Fuzhou_ROTTEN_3	Fuzhou	fuzh1239	cdo	ROTTEN	腐	pou²⁴²	p o u ²⁴²	pou²⁴
 Fuzhou_ROTTEN_3	Fuzhou	fuzh1239	cdo	ROTTEN	飲腐	aŋ³²pou²⁴²	a ŋ ³² p o u ²⁴²	aŋ³²⁻⁵⁵ pou²⁴²	ROTTEN_3			Liu2007
 Fuzhou_ROTTEN_5	Fuzhou	fuzh1239	cdo	ROTTEN	飲	aŋ³²	a ŋ ³²	aŋ³²	ROTTEN_5			Liu2007
 Xiamen_ROTTEN_4	Xiamen	xiam1236	cdo	ROTTEN	爛	nwã²²	n w ã ²²	nuã²²	ROTTEN_4			Liu2007
-Beijing_FATHER_13	Beijing	beij1234	cmn	FATHER	爸爸	pa̠⁵¹pa̠⁰	p a̠ ⁵¹ p a̠ ⁰	pᴀ⁵¹⁻⁵³ pᴀ⁰	FATHER_13			Liu2007
+Beijing_FATHER_13	Beijing	beij1234	cmn	FATHER	爸爸	pa⁵¹pa⁰	p a ⁵¹ p a ⁰	pᴀ⁵¹⁻⁵³ pᴀ⁰	FATHER_13			Liu2007
 Beijing_FATHER_5	Beijing	beij1234	cmn	FATHER	父	fu⁵¹	f u ⁵¹	fu⁵¹	FATHER_5			Liu2007
 Haerbin_FATHER_3	Ha'erbin	haer1234	cmn	FATHER	爸	pa⁵³	p a ⁵³	pa⁵³	FATHER_3			Liu2007
 Haerbin_FATHER_6	Ha'erbin	haer1234	cmn	FATHER	爹	tjɛ⁴⁴	t j ɛ ⁴⁴	tiɛ⁴⁴	FATHER_6			Liu2007
@@ -3222,7 +3222,7 @@ Loudi_GIVE_5	Loudi	loud1234	hsn	GIVE	拿賜	nɔ⁴⁴sɹ̩³⁵	n ɔ ⁴⁴ s ɹ
 Nanchang_GIVE_1	Nanchang	nanc1254	gan	GIVE	把	pa²¹³	p a ²¹³	pa²¹³	GIVE_1			Liu2007
 Nanchang_GIVE_2	Nanchang	nanc1254	gan	GIVE	給	kei²¹³	k e i ²¹³	kei²¹³	GIVE_2			Liu2007
 Meixian_GIVE_2	Meixian	yuet1238	hak	GIVE	給	kip¹	k i p ¹	kip¹	GIVE_2			Liu2007
-Guilin_GIVE_9	Guilin	guil1241	cnp	GIVE	囗	tja̠⁵⁵	t j a̠ ⁵⁵	tiᴀ⁵⁵	GIVE_9			Liu2007
+Guilin_GIVE_9	Guilin	guil1241	cnp	GIVE	囗	tja⁵⁵	t j a ⁵⁵	tiᴀ⁵⁵	GIVE_9			Liu2007
 Guangzhou_GIVE_2	Guangzhou	guan1279	yue	GIVE	給	kʰɐp⁵	kʰ ɐ p ⁵	kʰɐp⁵	GIVE_2			Liu2007
 Fuzhou_GIVE_6	Fuzhou	fuzh1239	cdo	GIVE	乞	kʰøyʔ²⁴	kʰ ø y ʔ ²⁴	kʰøyʔ²⁴*	GIVE_6			Liu2007
 Fuzhou_GIVE_7	Fuzhou	fuzh1239	cdo	GIVE	共	kɔyŋ⁵⁵	k ɔ y ŋ ⁵⁵	kɔyŋ⁵⁵	GIVE_7			Liu2007
@@ -3575,7 +3575,7 @@ Changsha_FLOWER_1	Changsha	chan1326	hsn	FLOWER	花	fa³³	f a ³³	fa³³	FLOWER
 Loudi_FLOWER_1	Loudi	loud1234	hsn	FLOWER	花	xɔ⁴⁴	x ɔ ⁴⁴	xɔ⁴⁴	FLOWER_1			Liu2007
 Nanchang_FLOWER_1	Nanchang	nanc1254	gan	FLOWER	花	fa⁴⁵	f a ⁴⁵	fa⁴⁵	FLOWER_1			Liu2007
 Meixian_FLOWER_4	Meixian	yuet1238	hak	FLOWER	花?	fa³³ve⁰	f a ³³ v e ⁰	fa³³⁻³⁵ ve⁰	FLOWER_4			Liu2007
-Guilin_FLOWER_1	Guilin	guil1241	cnp	FLOWER	花	fa̠⁴²	f a̠ ⁴²	fᴀ⁴²	FLOWER_1			Liu2007
+Guilin_FLOWER_1	Guilin	guil1241	cnp	FLOWER	花	fa⁴²	f a ⁴²	fᴀ⁴²	FLOWER_1			Liu2007
 Guangzhou_FLOWER_1	Guangzhou	guan1279	yue	FLOWER	花	fa⁵⁵	f a ⁵⁵	fa⁵⁵	FLOWER_1			Liu2007
 Fuzhou_FLOWER_1	Fuzhou	fuzh1239	cdo	FLOWER	花	hwa⁵⁵	h w a ⁵⁵	hua⁵⁵	FLOWER_1			Liu2007
 Xiamen_FLOWER_2	Xiamen	xiam1236	cdo	FLOWER	花仔	hwe⁵⁵ja⁵³	h w e ⁵⁵ j a ⁵³	hue⁵⁵⁻²² ia⁵³	FLOWER_2			Liu2007
@@ -3891,7 +3891,7 @@ Fuzhou_TIE_2	Fuzhou	fuzh1239	cdo	TIE	捆	kʰuŋ³²	kʰ u ŋ ³²	kʰuŋ³²	TIE
 Fuzhou_TIE_4	Fuzhou	fuzh1239	cdo	TIE	扎	ʦaʔ²⁴	ʦ a ʔ ²⁴	tsaʔ²⁴*	TIE_4			Liu2007
 Xiamen_TIE_2	Xiamen	xiam1236	cdo	TIE	捆	kʰun⁵³	kʰ u n ⁵³	kʰun⁵³	TIE_2			Liu2007
 Xiamen_TIE_5	Xiamen	xiam1236	cdo	TIE	縛	pak⁵	p a k ⁵	pak⁵	TIE_5			Liu2007
-Beijing_PULL_2	Beijing	beij1234	cmn	PULL	拉	la̠⁵⁵	l a̠ ⁵⁵	lᴀ⁵⁵	PULL_2			Liu2007
+Beijing_PULL_2	Beijing	beij1234	cmn	PULL	拉	la⁵⁵	l a ⁵⁵	lᴀ⁵⁵	PULL_2			Liu2007
 Haerbin_PULL_2	Ha'erbin	haer1234	cmn	PULL	拉	la⁴⁴	l a ⁴⁴	la⁴⁴	PULL_2			Liu2007
 Jinan_PULL_2	Jinan	jina1245	cmn	PULL	拉	la²¹⁴	l a ²¹⁴	la²¹⁴	PULL_2			Liu2007
 Rongcheng_PULL_2	Rongcheng	rong1271	cmn	PULL	拉	la²¹⁴	l a ²¹⁴	la²¹⁴	PULL_2			Liu2007
@@ -4098,14 +4098,14 @@ Nanchang_MOTHER_5	Nanchang	nanc1254	gan	MOTHER	母親	mu²¹³ʨʰin⁴²	m u ²
 Nanchang_MOTHER_3	Nanchang	nanc1254	gan	MOTHER	娘	ɲjɔŋ⁴⁵	ɲ j ɔ ŋ ⁴⁵	ȵiɔŋ⁴⁵	MOTHER_3			Liu2007
 Meixian_MOTHER_6	Meixian	yuet1238	hak	MOTHER	娭	oi³³je⁰	o i ³³ j e ⁰	oi³³⁻³⁵ ie⁰	MOTHER_6			Liu2007
 Meixian_MOTHER_7	Meixian	yuet1238	hak	MOTHER	阿姆	a³³me³³	a ³³ m e ³³	a³³ me³³	MOTHER_7			Liu2007
-Guilin_MOTHER_8	Guilin	guil1241	cnp	MOTHER	姐	ʨja̠²³	ʨ j a̠ ²³	tɕiᴀ²³	MOTHER_8			Liu2007
+Guilin_MOTHER_8	Guilin	guil1241	cnp	MOTHER	姐	ʨja²³	ʨ j a ²³	tɕiᴀ²³	MOTHER_8			Liu2007
 Guangzhou_MOTHER_5	Guangzhou	guan1279	yue	MOTHER	母親	mou³⁵ʦʰɐn⁵³	m o u ³⁵ ʦʰ ɐ n ⁵³	mou³⁵ tsʰɐn⁵³	MOTHER_5			Liu2007
 Fuzhou_MOTHER_4	Fuzhou	fuzh1239	cdo	MOTHER	依媽	i⁴⁴ma⁴⁴	i ⁴⁴ m a ⁴⁴	i⁴⁴ ma⁴⁴	MOTHER_4			Liu2007
 Fuzhou_MOTHER_1	Fuzhou	fuzh1239	cdo	MOTHER	依奶	i⁵⁵nɛ³²	i ⁵⁵ n ɛ ³²	i⁵⁵⁻⁵³ nɛ³²	MOTHER_1			Liu2007
 Fuzhou_MOTHER_9	Fuzhou	fuzh1239	cdo	MOTHER	娘妳	louŋ⁵³nɛ³²	l o u ŋ ⁵³ n ɛ ³²	louŋ⁵³⁻³³ nɛ³²	MOTHER_9			Liu2007
 Xiamen_MOTHER_7	Xiamen	xiam1236	cdo	MOTHER	阿姆	a⁵⁵bu⁵³	a ⁵⁵ b u ⁵³	a⁵⁵⁻¹¹ bu⁵³	MOTHER_7			Liu2007
 Xiamen_MOTHER_7	Xiamen	xiam1236	cdo	MOTHER	老姆	lau²⁴bu⁵³	l a u ²⁴ b u ⁵³	lau²⁴⁻²² bu⁵³	MOTHER_7			Liu2007
-Beijing_HOLD OR TAKE_2	Beijing	beij1234	cmn	HOLD OR TAKE	拿	na̠³⁵	n a̠ ³⁵	nᴀ³⁵	HOLD OR TAKE_2			Liu2007
+Beijing_HOLD OR TAKE_2	Beijing	beij1234	cmn	HOLD OR TAKE	拿	na³⁵	n a ³⁵	nᴀ³⁵	HOLD OR TAKE_2			Liu2007
 Haerbin_HOLD OR TAKE_2	Ha'erbin	haer1234	cmn	HOLD OR TAKE	拿	na²⁴	n a ²⁴	na²⁴	HOLD OR TAKE_2			Liu2007
 Jinan_HOLD OR TAKE_2	Jinan	jina1245	cmn	HOLD OR TAKE	拿	na⁵³	n a ⁵³	na⁵³	HOLD OR TAKE_2			Liu2007
 Rongcheng_HOLD OR TAKE_2	Rongcheng	rong1271	cmn	HOLD OR TAKE	拿	na⁵²	n a ⁵²	na⁵²	HOLD OR TAKE_2			Liu2007
@@ -4126,7 +4126,7 @@ Guangzhou_HOLD OR TAKE_6	Guangzhou	guan1279	yue	HOLD OR TAKE	攞	lɔ³⁵	l ɔ �
 Fuzhou_HOLD OR TAKE_7	Fuzhou	fuzh1239	cdo	HOLD OR TAKE	拈	njeŋ⁵⁵	n j e ŋ ⁵⁵	nieŋ⁵⁵	HOLD OR TAKE_7			Liu2007
 Fuzhou_HOLD OR TAKE_8	Fuzhou	fuzh1239	cdo	HOLD OR TAKE	掏	to⁵³	t o ⁵³	to⁵³	HOLD OR TAKE_8			Liu2007
 Xiamen_HOLD OR TAKE_9	Xiamen	xiam1236	cdo	HOLD OR TAKE	摕	tʰeʔ⁵	tʰ e ʔ ⁵	tʰeʔ⁵	HOLD OR TAKE_9			Liu2007
-Beijing_WHERE_7	Beijing	beij1234	cmn	WHERE	哪里	na̠²¹⁴li²¹⁴	n a̠ ²¹⁴ l i ²¹⁴	nᴀ²¹⁴⁻³⁵ li²¹⁴	WHERE_7			Liu2007
+Beijing_WHERE_7	Beijing	beij1234	cmn	WHERE	哪里	na²¹⁴li²¹⁴	n a ²¹⁴ l i ²¹⁴	nᴀ²¹⁴⁻³⁵ li²¹⁴	WHERE_7			Liu2007
 Haerbin_WHERE_7	Ha'erbin	haer1234	cmn	WHERE	哪里	na²⁴li²¹³	n a ²⁴ l i ²¹³	na²⁴ li²¹³	WHERE_7			Liu2007
 Haerbin_WHERE_2	Ha'erbin	haer1234	cmn	WHERE	哪	na²¹³	n a ²¹³	nar²¹³	WHERE_2			Liu2007
 Haerbin_WHERE_5	Ha'erbin	haer1234	cmn	WHERE	哪疙	na²¹³ka⁴⁴	n a ²¹³ k a ⁴⁴	na²¹³⁻²¹ kar⁴⁴	WHERE_5			Liu2007
@@ -4145,7 +4145,7 @@ Changsha_WHERE_3	Changsha	chan1326	hsn	WHERE	何至	o¹³ʦɹ̩⁰	o ¹³ ʦ ɹ�
 Loudi_WHERE_7	Loudi	loud1234	hsn	WHERE	哪里	la⁴²li⁰	l a ⁴² l i ⁰	la⁴² li⁰	WHERE_7			Liu2007
 Nanchang_WHERE_7	Nanchang	nanc1254	gan	WHERE	哪里	la²¹³li⁰	l a ²¹³ l i ⁰	la²¹³ li⁰	WHERE_7			Liu2007
 Meixian_WHERE_13	Meixian	yuet1238	hak	WHERE	哪?	ŋai⁵³je⁰	ŋ a i ⁵³ j e ⁰	ŋai⁵³⁻⁵⁵ ie⁰	WHERE_13			Liu2007
-Guilin_WHERE_12	Guilin	guil1241	cnp	WHERE	里囗	la̠²³xɑŋ³³	l a̠ ²³ x ɑ ŋ ³³	lᴀ²³ xɑŋ³³	WHERE_12			Liu2007
+Guilin_WHERE_12	Guilin	guil1241	cnp	WHERE	里囗	la²³xɑŋ³³	l a ²³ x ɑ ŋ ³³	lᴀ²³ xɑŋ³³	WHERE_12			Liu2007
 Guangzhou_WHERE_10	Guangzhou	guan1279	yue	WHERE	邊度	pin⁵⁵tou²²	p i n ⁵⁵ t o u ²²	pin⁵⁵ tou²²	WHERE_10			Liu2007
 Fuzhou_WHERE_11	Fuzhou	fuzh1239	cdo	WHERE	底所	tje³²nœ³²	t j e ³² n œ ³²	tie³²⁻³⁵ nœ³²	WHERE_11			Liu2007
 Xiamen_WHERE_14	Xiamen	xiam1236	cdo	WHERE	倒落	to⁵⁵loʔ⁵	t o ⁵⁵ l o ʔ ⁵	to⁵⁵ loʔ⁵	WHERE_14			Liu2007
@@ -4165,7 +4165,7 @@ Loudi_THAT_2	Loudi	loud1234	hsn	THAT	那	lo¹¹	l o ¹¹	lo¹¹	THAT_2			Liu2007
 Nanchang_THAT_5	Nanchang	nanc1254	gan	THAT	許	he²¹³	h e ²¹³	he²¹³	THAT_5			Liu2007
 Nanchang_THAT_2	Nanchang	nanc1254	gan	THAT	那	la²¹³	l a ²¹³	la²¹³	THAT_2			Liu2007
 Meixian_THAT_8	Meixian	yuet1238	hak	THAT	囗	ke⁵³	k e ⁵³	ke⁵³	THAT_8			Liu2007
-Guilin_THAT_2	Guilin	guil1241	cnp	THAT	那	la̠²³	l a̠ ²³	lᴀ²³	THAT_2			Liu2007
+Guilin_THAT_2	Guilin	guil1241	cnp	THAT	那	la²³	l a ²³	lᴀ²³	THAT_2			Liu2007
 Guangzhou_THAT_2	Guangzhou	guan1279	yue	THAT	那	na³³	n a ³³	na³³	THAT_2			Liu2007
 Fuzhou_THAT_5	Fuzhou	fuzh1239	cdo	THAT	許	hy³²	h y ³²	hy³²	THAT_5			Liu2007
 Fuzhou_THAT_6	Fuzhou	fuzh1239	cdo	THAT	回	hwoi⁵³	h w o i ⁵³	huoi⁵³	THAT_6			Liu2007
@@ -4186,7 +4186,7 @@ Changsha_THERE_7	Changsha	chan1326	hsn	THERE	那里	la⁵⁵li⁴¹	l a ⁵⁵ l
 Loudi_THERE_7	Loudi	loud1234	hsn	THERE	那里	lo¹¹li⁰	l o ¹¹ l i ⁰	lo¹¹ li⁰	THERE_7			Liu2007
 Nanchang_THERE_7	Nanchang	nanc1254	gan	THERE	那里	la²¹³li⁰	l a ²¹³ l i ⁰	la²¹³ li⁰	THERE_7			Liu2007
 Meixian_THERE_11	Meixian	yuet1238	hak	THERE	那	e⁵³je⁰	e ⁵³ j e ⁰	e⁵³⁻⁵⁵ ie⁰	THERE_11			Liu2007
-Guilin_THERE_6	Guilin	guil1241	cnp	THERE	那個地方	la̠²³kwo⁰ti²⁴fɑŋ⁴²	l a̠ ²³ k w o ⁰ t i ²⁴ f ɑ ŋ ⁴²	lᴀ²³ kuo⁰ ti²⁴⁻²¹ fɑŋ⁴²⁻²²	THERE_6			Liu2007
+Guilin_THERE_6	Guilin	guil1241	cnp	THERE	那個地方	la²³kwo⁰ti²⁴fɑŋ⁴²	l a ²³ k w o ⁰ t i ²⁴ f ɑ ŋ ⁴²	lᴀ²³ kuo⁰ ti²⁴⁻²¹ fɑŋ⁴²⁻²²	THERE_6			Liu2007
 Guangzhou_THERE_3	Guangzhou	guan1279	yue	THERE	個到	kɔ³³tou³³	k ɔ ³³ t o u ³³	kɔ³³ tou³³	THERE_3			Liu2007
 Fuzhou_THERE_2	Fuzhou	fuzh1239	cdo	THERE	夫塊	hu⁵⁵woi²¹²	h u ⁵⁵ w o i ²¹²	hu⁵⁵⁻⁵³ uoi²¹²	THERE_2			Liu2007
 Xiamen_THERE_9	Xiamen	xiam1236	cdo	THERE	迄帶	hit³²te²¹	h i t ³² t e ²¹	hit³²*⁻⁵ te²¹	THERE_9			Liu2007

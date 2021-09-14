@@ -8,7 +8,6 @@ grandparent_dir = parent_dir.parent
 #Load phonetic distance data and auxiliary functions
 os.chdir(str(grandparent_dir) + '/Code')
 from auxiliary_functions import csv_to_dict, strip_ch
-os.chdir(str(grandparent_dir) + '/Code/Distance_Measures/')
 from phonetic_distance import *
 os.chdir(local_dir)
 
@@ -90,6 +89,7 @@ def fix_tr(tr):
     #mark as affricates by including ligature tie
     tr = re.sub('ʈʂ', 'ʈ͡ʂ', tr)
     tr = re.sub('pf', 'p͡f', tr) #Xi'an
+    tr = re.sub('a̠', 'a', tr) #Guilin and Beijing
     
     #not really sure what '⁻' indicates within tones, perhaps alternative realizations?
     #segmented IPA version seems to only include the tone symbols up until this character
