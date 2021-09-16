@@ -170,11 +170,12 @@ def compact_diacritics(segment):
         #Retrieve basic dictionary of phone features for the base segment
         #If the segment is a toneme, use the first component as its base
         if base[0] in tonemes:
-            base = base[0]
+            seg_id = tonal_features(segment)
         
-        #Create copy of original feature dictionary, or else it modifies the source
-        seg_id = {feature:phone_features[base][feature] for feature in phone_features[base]}
-        
+        else:
+            #Create copy of original feature dictionary, or else it modifies the source
+            seg_id = {feature:phone_features[base][feature] for feature in phone_features[base]}
+            
         #Modifiers are whichever diacritics may have been in the segment string
         modifiers = [ch for ch in segment if ch not in base]
         
@@ -202,6 +203,68 @@ def compact_diacritics(segment):
                     seg_id['delayedRelease'] = 0
         
         return seg_id
+
+
+tone_levels = {'˩':1, '¹':1, 
+               '˨':2, '²':2,
+               '˧':3, '³':3,
+               '˦':4, '⁴':4, 
+               '˥':5, '⁵':5,
+               '↓':0, '⁰':0}
+
+def tonal_features(toneme):
+    """Computes complex tonal features"""
+    
+    #Set the base as the first component of the toneme
+    base = toneme[0]
+    
+    #Create copy of original feature dictionary, or else it modifies the source
+    toneme_id = {feature:phone_features[base][feature] for feature in phone_features[base]}
+    
+    #Get the tone level of each tonal component of the toneme
+    toneme_levels = [tone_levels[t] for t in toneme if t in tonemes]
+    
+    #Compute the complex tone features if not just a level tone
+    if len(set(toneme_levels)) > 1:
+        
+        #Add feature tone_contour to all non-level tones
+        toneme_id['tone_contour'] = 1
+        
+        #Ensure that contour tones do not have features tone_mid and tone_central
+        #(which are unique to level tones)
+        toneme_id['tone_central'] = 0
+        toneme_id['tone_mid'] = 0
+    
+        #Get the maximum tonal level
+        max_level = max(toneme_levels)
+        
+        #Add feature tone_high if the maximum tone level is at least 4
+        if max_level >= 4:
+            toneme_id['tone_high'] = 1
+        
+        #Check whether any subsequence of the tonal components is rising or falling
+        contours = {}
+        for t in range(len(toneme_levels)-1):
+            t_seq = toneme_levels[t:t+2]
+            
+            #Check for a tonal rise
+            if t_seq[0] < t_seq[1]:
+                toneme_id['tone_rising'] = 1
+                contours[t] = 'rise'
+            
+            #Check for a tonal fall
+            elif t_seq[0] > t_seq[1]:
+                toneme_id['tone_falling'] = 1
+                contours[t] = 'fall'
+                
+                #If a subsequence is falling, check whether the previous subsequence was rising
+                #in order to determine whether the tone is convex (rising-falling)
+                if t > 0:
+                    if contours[t-1] == 'rise':
+                        toneme_id['tone_convex'] = 1
+    
+    return toneme_id
+    
 
 #%%
 def get_sonority(sound):
@@ -688,26 +751,6 @@ def align_costs(seq1, seq2,
                 
             alignment_costs[(i, j)] = cost
     return alignment_costs
-
-def log_phone_sim_sonority(seg1, seg2, distance='weighted_dice', max_penalty=-7):
-    try:
-        phon_sim = math.log(phone_sim(seg1, seg2, distance))
-    
-    #If phone similarity = 0, we can't take the log. Instead set to maximum penalty
-    except ValueError:
-        phon_sim = max_penalty
-    
-    #Sonority difference is number of levels of difference in sonority
-    son_diff = abs(get_sonority(seg1) - get_sonority(seg2))
-    
-    #Sonority similarity is 1 - normalized sonority difference
-    try:
-        son_sim = math.log(1 - ((son_diff+1) / (max_sonority+1)))
-    
-    except ValueError:
-        son_sim = max_penalty
-    
-    return phon_sim + son_sim
 
 
 def phone_align(word1, word2, 
