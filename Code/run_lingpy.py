@@ -1,17 +1,16 @@
-#RUN LINGPY ON ARABIC AND BALTO-SLAVIC DATA TO GET PRELIMINARY COGNATE SETS
-#CAN THEN MANUALLY CORRECT THE OUTPUT IN ORDER TO GET GOLD COGNATE SET
 from lingpy import *
 from load_languages import *
-from auxiliary_functions import csv_to_dict
+from auxiliary_functions import csv_to_dict, create_folder
 import re
 
-def prepare_lingpy_input(lang_group, 
+def prepare_lexstat_input(lang_group, 
                        output_file=None,
                        DOCULECT='Language_ID',
                        CONCEPT='Parameter_ID',
                        TOKENS='Segments'):
     if output_file == None:
-        output_file = f'{lang_group.directory}LingPy_input_{lang_group.name}.tsv'
+        create_folder('LexStat', lang_group.directory)
+        output_file = f'{lang_group.directory}/LexStat/LexStat_input_{lang_group.name}.tsv'
     
     with open(output_file, 'w') as f:
         f.write('DOCULECT\tCONCEPT\tTOKENS\n')
@@ -22,50 +21,81 @@ def prepare_lingpy_input(lang_group,
     print(f'Wrote data to {output_file}.')
         
     
-def run_lingpy(lang_group, 
+def run_lexstat(lang_group, 
                output_file=None, 
                DOCULECT='Language_ID', 
                CONCEPT='Parameter_ID', 
                TOKENS='Segments'):
     if output_file == None:
-        output_file = f'{lang_group.directory}LingPy_input_{lang_group.name}.tsv'
-    prepare_lingpy_input(lang_group, output_file, DOCULECT, CONCEPT, TOKENS)
+        create_folder('LexStat', lang_group.directory)
+        output_file = f'{lang_group.directory}/LexStat/LexStat_input_{lang_group.name}.tsv'
+    prepare_lexstat_input(lang_group, output_file, DOCULECT, CONCEPT, TOKENS)
     wl = Wordlist(output_file)
-    lex = LexStat(output_file, segments='tokens', check=False) #previously False 
-    lex.cluster(method="sca", threshold=0.45, ref='scaid')
-    lex.get_scorer(runs=10000)
-    lex.output('tsv', filename=f'{lang_group.directory}LingPy_output_{lang_group.name}.bin', ignore=[])
+    lex = LexStat(output_file , segments='tokens', check=False) #previously False 
+    lex.get_scorer()
+    #lex.output('tsv', filename=f'{lang_group.directory}/LexStat/LexStat_output_{lang_group.name}.bin', ignore=[])
     lex.cluster(method='lexstat', threshold=0.60, ref='lexstatid')
-    lex.output('tsv', filename=f'{lang_group.directory}Lingpy_{lang_group.name}-lexstat')
-    lex = LexStat(f'{lang_group.directory}Lingpy_output_{lang_group.name}.bin.tsv')
+    lex.output('tsv', filename=f'{lang_group.directory}/LexStat/LexStat_{lang_group.name}-lexstat')
+    #lex = LexStat(f'{lang_group.directory}/LexStat/LexStat_output_{lang_group.name}.bin.tsv')
     
     
-def process_lingpy_data(lang_group, filepath=None):
+def process_lexstat_data(lang_group, filepath=None):
     if filepath == None:
-        filepath = f'{lang_group.directory}LingPy_{lang_group.name}-lexstat.tsv'
+        create_folder('LexStat', lang_group.directory)
+        filepath = f'{lang_group.directory}/LexStat/LexStat_{lang_group.name}-lexstat.tsv'
 
     try:
         lexstat_data = csv_to_dict(filepath, sep='\t', start=3)
     except FileNotFoundError:
-        run_lingpy(lang_group, output_file=filepath)
+        run_lexstat(lang_group, output_file=filepath)
         lexstat_data = csv_to_dict(filepath, sep='\t', start=3)
     
     cognates = defaultdict(lambda:defaultdict(lambda:[]))
-    fix_dia_dict = {'ã':'ã', 'ẽ':'ẽ', 'ĩ':'ĩ', 'õ':'õ', 'ũ':'ũ', 'ṳ':'ṳ'}
+    #Convert characters back to IPA, which were distorted when running LexStat
+    tr_fixes = {'à':'à',
+                'á':'á',
+                'â':'â',
+                'ǎ':'ǎ',
+                'ã':'ã',
+                'é':'é',
+                'ê':'ê',
+                'ẽ':'ẽ',
+                'ě':'ě',
+                'ì':'ì',
+                'í':'í',
+                'î':'î',
+                'ĩ':'ĩ',
+                'ǐ':'ǐ',
+                'ó':'ó',
+                'ô':'ô',
+                'ǒ':'ǒ',
+                'õ':'õ',
+                'ù':'ù',
+                'ú':'ú',
+                'û':'û',
+                'ǔ':'ǔ',
+                'ũ':'ũ',
+                'ṳ':'ṳ',
+                'ř':'ř',
+                '̩̂':'̩̂'
+                }
     for i in lexstat_data:
         entry = lexstat_data[i]
         if entry['LEXSTATID'] != '':
-            cognates[entry['CONCEPT']][entry['LEXSTATID']].append((entry['DOCULECT'], entry['IPA']))
+            ipa = entry['IPA']
+            for ch in tr_fixes:
+                ipa = re.sub(ch, tr_fixes[ch], ipa)
+            cognates[entry['CONCEPT']][entry['LEXSTATID']].append((entry['DOCULECT'], ipa))
     return cognates
 
-def create_LingPy_cognate_index(lang_group, output_file=None,
+def create_LexStat_cognate_index(lang_group, output_file=None,
                                 sep='\t', variants_sep='~'):
     assert sep != variants_sep
     if output_file == None:
-        output_file = f'{lang_group.directory}{lang_group.name} LingPy Vocabulary Index.csv'
+        output_file = f'{lang_group.directory}/LexStat/{lang_group.name} LexStat Vocabulary Index.csv'
     
     #Create cognate set index
-    cognate_sets = process_lingpy_data(lang_group)
+    cognate_sets = process_lexstat_data(lang_group)
     
     #Write cognate set index to .csv file
     with open(output_file, 'w') as f:
@@ -94,9 +124,9 @@ def create_LingPy_cognate_index(lang_group, output_file=None,
 missing_segs = []
 def create_orthographic_cognate_index(lang_group, output_file=None, sep='\t'):
     if output_file == None:
-        output_file = f'{lang_group.directory}{lang_group.name}_lexstat_cognate_assignments.csv'
+        output_file = f'{lang_group.directory}/LexStat/{lang_group.name}_lexstat_cognate_assignments.csv'
     
-    cognate_sets = process_lingpy_data(lang_group)
+    cognate_sets = process_lexstat_data(lang_group)
     
     with open(output_file, 'w') as f:
         f.write(sep.join(['CONCEPT', 'LANGUAGE', 'ORTHOGRAPHY', 'IPA', 'COGNACY']))
@@ -107,7 +137,7 @@ def create_orthographic_cognate_index(lang_group, output_file=None, sep='\t'):
                 for item in cognate_sets[concept][cognate_class]:
                     lang, tr = item
                     
-                    #Convert characters back to IPA, which were distorted when running LingPy/LexStat
+                    #Convert characters back to IPA, which were distorted when running LexStat
                     tr_fixes = {'à':'à',
                                 'á':'á',
                                 'â':'â',

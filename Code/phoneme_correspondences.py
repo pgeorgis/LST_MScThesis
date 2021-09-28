@@ -256,6 +256,33 @@ class PhonemeCorrDetector:
         
         return results
     
+    #REMOVE:
+    def phoneme_pmi_thresholds(self, seed=1, **kwargs):
+        """Returns a list of PMI scores for non-cognate words for use in 
+        calculation of p-values"""
+        
+        #Retrieve or calculate phoneme PMI dictionary
+        if self.lang2 not in self.lang1.phoneme_pmi:
+            pmi_dict = self.calc_phoneme_pmi(**kwargs)
+        
+        else:
+            pmi_dict = self.lang1.phoneme_pmi[self.lang2]
+        
+        random.seed(seed)
+        #Take a sample of different-meaning words, as large as the same-meaning set
+        sample_size = len(self.same_meaning)
+        diff_sample = random.sample(self.diff_meaning, min(sample_size, len(self.diff_meaning)))
+        
+        #Align non-cognate (non-synonymous) words
+        noncognate_alignments = self.align_wordlist(diff_sample, added_penalty_dict=pmi_dict)
+        
+        #Get PMI scores of alignments
+        PMI_scores = [mean([pmi_dict[pair[0]][pair[1]] for pair in alignment]) 
+                      for alignment in noncognate_alignments]
+        
+        return PMI_scores
+        
+
 
     def phoneme_surprisal(self, correspondence_counts, negative=False):
         """Calculates phoneme surprisal with Lidstone smoothing given a dictionary
@@ -385,32 +412,3 @@ class PhonemeCorrDetector:
         
         return results
             
-    
-
-
-            
-            
-            
-                                                                                               
-        
-        
-        
-        
- #%%      
-def word_adaptation_surprisal(alignment, corr_counts, d,
-                              alpha=0.03, normalize=True):
-    """Calculates the WAS of a word pair alignment.
-    corr_counts : nested dictionary of phoneme correspondence raw counts
-    d : integer length of L2 alphabet (number of L2 phones)
-    alpha : Lidstone smoothing parameter
-    normalize : if True, normalizes the WAS by the length of the alignment"""
-    surprisal_score = 0
-    for pair in alignment:
-        seg1, seg2 = pair[0], pair[1]
-        joint_count = corr_counts[seg1].get(seg2, 0)
-        lidstone_cond_p = (joint_count + alpha) / (sum(corr_counts[seg1].values()) + (alpha * d))
-        surprisal_score += surprisal(lidstone_cond_p)
-    if normalize == True:
-        surprisal_score /= len(alignment)
-    return surprisal_score
-    

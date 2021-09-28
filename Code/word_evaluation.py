@@ -276,28 +276,9 @@ def segmental_word_sim(alignment, c_weight=0.5, v_weight=0.3, syl_weight=0.2):
     return (c_weight * c_score) + (v_weight * v_score) + (syl_weight * syl_score)
 
 
-def word_pmi(pair1, pair2, **kwargs):
-    word1, lang1 = pair1
-    word2, lang2 = pair2
-    
-    #Calculate phoneme PMI if not already done, otherwise retrieve the dictionary
-    if lang2 in lang1.phoneme_pmi:
-        pmi_dict = lang1.phoneme_pmi[lang2]
-    else:
-        pmi_dict = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi()
-    
-    #Align the words
-    alignment = phone_align(word1, word2, added_penalty_dict=pmi_dict, **kwargs)
-    
-    #Get a list of the PMI scores for each aligned pair
-    pmi_scores = [pmi_dict[pair[0]][pair[1]] for pair in alignment
-                  if '-' not in pair]
-    
-    return mean(pmi_scores)
 
-#remaining problem: PMI values might differ in each direction, L1-->L2 vs. L2-->L1
-#and how to handle gap segments?
 
+#%%
 def word_adaptation_surprisal(pair1, pair2, **kwargs):
     word1, lang1 = pair1
     word2, lang2 = pair2
@@ -367,6 +348,8 @@ def score_pmi(pair1, pair2, sim2dist=True, **kwargs):
             scored_word_pmi[(pair1, pair2, sim2dist)] = PMI_score
             return PMI_score
     
+def hybrid():
+    pass
     
 def Z_score(p_values):
     neg_log_p = [-math.log(p) for p in p_values]

@@ -1,4 +1,4 @@
-import os, re, itertools
+import os, re, itertools, copy
 from statistics import mean
 from collections import defaultdict
 import math, bcubed
@@ -179,7 +179,7 @@ class Dataset:
             smallest_lang = min(self.languages.keys(), 
                                 key=lambda x: len(self.languages[x].vocabulary))
             pruned.append((smallest_lang, len(self.languages[smallest_lang].vocabulary)))
-            del self.languages[smallest_lang]
+            self.remove_languages([smallest_lang])
         
         self.mutual_coverage = self.calculate_mutual_coverage(concept_list)
         
@@ -227,7 +227,7 @@ class Dataset:
                                         f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{pmi[seg1][seg2]}\n')
     
     
-    def load_phoneme_pmi(self, pmi_file=None):
+    def load_phoneme_pmi(self, pmi_file=None, excepted=[]):
         """Loads pre-calculated phoneme PMI values from file"""
         
         #Designate the default file name to search for if no alternative is provided
@@ -249,9 +249,10 @@ class Dataset:
         for index, row in pmi_data.iterrows():
             lang1 = self.languages[row['Language1']]
             lang2 = self.languages[row['Language2']]
-            phone1, phone2 = row['Phone1'], row['Phone2']
-            pmi_value = row['PMI']
-            lang1.phoneme_pmi[lang2][phone1][phone2] = pmi_value
+            if (lang1 not in excepted) and (lang2 not in excepted):
+                phone1, phone2 = row['Phone1'], row['Phone2']
+                pmi_value = row['PMI']
+                lang1.phoneme_pmi[lang2][phone1][phone2] = pmi_value
             
     
     def cognate_set_dendrogram(self, cognate_id, 
@@ -284,7 +285,7 @@ class Dataset:
             title = f'{self.name} "{cognate_id}"'
         
         if save_directory == None:
-            save_directory = self.directory + '/Plots'
+            save_directory = self.directory + '/Plots/'
         
         draw_dendrogram(group=words,
                         labels=labels,
@@ -328,24 +329,33 @@ class Dataset:
         return clustered_cognates
     
     
-    def evaluate_clusters(self, concept, 
-                          dist_func, sim, cutoff, 
-                          method='average', **kwargs):
-        auto_clusters = self.cluster_cognates(concept_list=[concept], 
-                                              dist_func=dist_func, sim=sim, 
-                                              cutoff=cutoff, method=method,
-                                              **kwargs)[concept]
-        auto_clusters = {item:set([i]) for i in auto_clusters 
-                         for item in auto_clusters[i]}
-        gold_clusters = {f'{lang} /{strip_ch(tr, ["(", ")"])}/':set([c]) 
-                        for c in self.cognate_sets 
-                        if c.split('_')[0] == concept
-                        for lang in self.cognate_sets[c] 
-                        for tr in self.cognate_sets[c][lang]}
-        precision = bcubed.precision(auto_clusters, gold_clusters)
-        recall = bcubed.recall(auto_clusters, gold_clusters)
-        fscore = bcubed.fscore(precision, recall)
-        return precision, recall, fscore
+    def evaluate_clusters(self, clustered_cognates):
+        """Evaluates B-cubed precision, recall, and F1 of results of automatic  
+        cognate clustering against dataset's gold cognate classes"""
+        
+        precision_scores, recall_scores, f1_scores = {}, {}, {}
+        for concept in clustered_cognates:
+            clusters = {item:set([i]) for i in clustered_cognates[concept] 
+                        for item in clustered_cognates[concept][i]}
+            gold_clusters = {f'{lang} /{strip_ch(tr, ["(", ")"])}/':set([c]) 
+                             for c in self.cognate_sets 
+                             if c.split('_')[0] == concept 
+                             for lang in self.cognate_sets[c] 
+                             for tr in self.cognate_sets[c][lang]}
+            precision = bcubed.precision(clusters, gold_clusters)
+            recall = bcubed.recall(clusters, gold_clusters)
+            fscore = bcubed.fscore(precision, recall)
+            precision_scores[concept] = precision
+            recall_scores[concept] = recall
+            f1_scores[concept] = fscore
+        return mean(precision_scores.values()), mean(recall_scores.values()), mean(f1_scores.values())
+        
+# baltoslavic_lexstat = {concept:{cognate_set:{f'{item[0]} /{item[1]}/' 
+#                                               for item in baltoslavic_lexstat[concept][cognate_set]} 
+#                                 for cognate_set in baltoslavic_lexstat[concept]} 
+#                         for concept in baltoslavic_lexstat}
+                      
+            
     
     
     def draw_tree(self, 
@@ -358,11 +368,14 @@ class Dataset:
         
         #Use all available concepts by default
         if concept_list == None:
-            concept_list = sorted(list(self.concepts.keys()))
+            concept_list = sorted([c for c in self.concepts.keys() 
+                                   if len(self.concepts[c]) > 1])
         else:
             concept_list = sorted([concept for concept in concept_list 
                                    if concept in self.concepts])
         
+        if dist_func == Z_score_dist:
+            cognates = 'none'
         #Automatic cognate clustering        
         if cognates == 'auto':
             assert cluster_func != None
@@ -385,6 +398,14 @@ class Dataset:
                             form = strip_ch(form, ['(', ')'])
                             clustered_concepts[concept][cognate_id].append(f'{lang} /{form}/')
         
+        #No separation of cognates/non-cognates: 
+        #all synonymous words are evaluated irrespective of cognacy
+        elif cognates == 'none':
+            clustered_concepts = {concept:{concept:[f'{lang} /{self.concepts[concept][lang][i][1]}/'
+                                  for lang in self.concepts[concept] 
+                                  for i in range(len(self.concepts[concept][lang]))]}
+                                  for concept in concept_list}            
+        
         #Raise error for unrecognized cognate clustering methods
         else:
             print(f'Error: cognate clustering method "{cognates}" not recognized!')
@@ -396,7 +417,7 @@ class Dataset:
         if title == None:
             title = f'{self.name}'
         if save_directory == None:
-            save_directory = self.directory + '/Plots'
+            save_directory = self.directory + 'Plots/'
         
         return draw_dendrogram(group=languages, 
                                labels=names, 
@@ -422,6 +443,65 @@ class Dataset:
                 for lang in language_list:
                     print(f'{lang.name}: {" ~ ".join(self.cognate_sets[cognate_set][lang.name])}')
                 print('\n')
+                
+                
+    def remove_languages(self, langs_to_delete):
+        """Removes a list of languages from a dataset"""
+        
+        for lang in langs_to_delete:
+            del self.languages[lang]
+            del self.lang_ids[lang]
+            del self.glottocodes[lang]
+            del self.iso_codes[lang]
+        
+            for concept in self.concepts:
+                try:
+                    del self.concepts[concept][lang]
+                except KeyError:
+                    pass
+            
+            for cognate_set in self.cognate_sets:
+                try:
+                    del self.cognate_sets[cognate_set][lang]
+                except KeyError:
+                    pass
+        
+        #Remove empty concepts and cognate sets
+        self.concepts = default_dict({concept:self.concepts[concept] 
+                         for concept in self.concepts 
+                         if len(self.concepts[concept]) > 0}, 
+                                     l=defaultdict(lambda:[]))
+        
+        self.cognate_sets = default_dict({cognate_set:self.cognate_sets[cognate_set] 
+                                          for cognate_set in self.cognate_sets 
+                                          if len(self.cognate_sets[cognate_set]) > 0}, 
+                                         l=defaultdict(lambda:[]))
+
+    
+    def subset(self, new_name, include=None, exclude=None, **kwargs):
+        """Creates a subset of the existing dataset, including only select languages"""
+        
+        new_dataset = copy.deepcopy(self)
+        
+        #Remove languages not part of new subset
+        if include != None:
+            to_delete = [lang for lang in self.languages if lang not in include]
+        else:
+            assert exclude != None
+            to_delete = exclude
+        new_dataset.remove_languages(to_delete)
+        
+        #Assign the new name and any other specified attributes
+        new_dataset.name = new_name
+        for key, value in kwargs.items():
+            setattr(new_dataset,key,value)
+        
+        #Recalculate mutual coverage among remaining langauges
+        new_dataset.mutual_coverage = new_dataset.calculate_mutual_coverage()
+        
+        return new_dataset
+        
+                
 
 #%%
 class Language(Dataset):
@@ -664,7 +744,7 @@ class Language(Dataset):
             title = f'{self.name} Phonemes'
         
         if save_directory == None:
-            save_directory = self.family.directory + '/Plots'
+            save_directory = self.family.directory + '/Plots/'
             
         phonemes = list(self.phonemes.keys())
         
@@ -683,6 +763,13 @@ class Language(Dataset):
                         title=title,
                         save_directory=save_directory)
     
+#%%
+#COMBINING DATASETS
+
+def combine_datasets(dataset_list):
+    pass
+
+    
 
 #%%
 #LOAD FAMILIES AND WRITE VOCABULARY INDEX FILES
@@ -692,7 +779,8 @@ families = {}
 for family in ['Arabic', 'Balto-Slavic', 'Dravidian',
                'Hokan','Italic', 
                'Polynesian', 'Sinitic', 
-               'Turkic', 'Uralic']:
+               'Turkic', 'Uralic', #'Germanic'
+               ]:
     family_path = re.sub('-', '_', family).lower()
     filepath = datasets_path + family + f'/{family_path}_data.csv'
     print(f'Loading {family}...')

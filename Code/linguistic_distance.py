@@ -1,7 +1,7 @@
 #from load_languages import *
 from word_evaluation import *
 from statistics import mean
-import math
+import math, random
 
 
 def binary_cognate_sim(lang1, lang2, clustered_cognates,
@@ -47,6 +47,7 @@ def binary_cognate_sim(lang1, lang2, clustered_cognates,
 
 def cognate_sim(lang1, lang2, clustered_cognates,
                 eval_func, eval_sim, exclude_synonyms=True,
+                return_score_dict=False,
                 **kwargs):
     sims = {}
     for concept in clustered_cognates:
@@ -61,7 +62,7 @@ def cognate_sim(lang1, lang2, clustered_cognates,
             l2_wordcount += len(l2_words)
             for l1_word in l1_words:
                 for l2_word in l2_words:
-                    score = eval_func((l1_word, lang1), (l2_word, lang2))#, *kwargs)
+                    score = eval_func((l1_word, lang1), (l2_word, lang2), **kwargs)
                     if eval_sim == False:
                         score = math.e**-score
                     concept_sims[(l1_word, l2_word)] = score
@@ -76,16 +77,73 @@ def cognate_sim(lang1, lang2, clustered_cognates,
             if (l1_wordcount > 0) and (l2_wordcount > 0):
                 sims[concept] = 0
     
-    return mean(sims.values())
+    if return_score_dict == True:
+        return sims 
+    
+    else:
+        return mean(sims.values())
+
+
+def Z_score_dist(lang1, lang2, eval_func, 
+                 concept_list=None, exclude_synonyms=True,
+                 seed=1,
+                 **kwargs):
+    if concept_list == None:
+        concept_list = [concept for concept in lang1.vocabulary 
+                        if concept in lang2.vocabulary]
+    else:
+        concept_list = [concept for concept in concept_list 
+                        if concept in lang1.vocabulary 
+                        if concept in lang2.vocabulary]
+    
+    #Generate a dictionary of word form pairs
+    word_forms = {concept:[((entry1[1], lang1), (entry2[1], lang2)) 
+                           for entry1 in lang1.vocabulary[concept] 
+                           for entry2 in lang2.vocabulary[concept]] 
+                  for concept in concept_list}
+    
+    #Score the word form pairs according to the specified function
+    scores = {concept:[eval_func(pair[0], pair[1], **kwargs) for pair in word_forms[concept]] 
+              for concept in word_forms}
+    
+    #Get the non-synonymous word pair scores against which to calibrate the synonymous word scores
+    PCD = PhonemeCorrDetector(lang1, lang2)
+    random.seed(seed)
+    #Take a sample of different-meaning words, as large as the same-meaning set
+    sample_size = len(PCD.same_meaning)
+    diff_sample = random.sample(PCD.diff_meaning, min(sample_size, len(PCD.diff_meaning)))
+    noncognate_word_forms = [((item[0][2], lang1), (item[1][2], lang2)) for item in diff_sample]
+    noncognate_scores = [eval_func(pair[0], pair[1], **kwargs) for pair in noncognate_word_forms]
+    nc_len = len(noncognate_scores)
+    
+    #Calculate the p-values for the synonymous word pairs against non-synonymous word pairs
+    p_values = {concept:[(len([nc_score for nc_score in noncognate_scores if nc_score >= score])+1) / (nc_len+1) 
+                         for score in scores[concept]] 
+                for concept in scores}
+   
+    #Exclude synonyms if specified
+    if exclude_synonyms == True:
+        p_values = [min(p_values[concept]) for concept in p_values]
+    else:
+        p_values = [p for concept in p_values for p in p_values[concept]]
+    
+    
+    return Z_dist(p_values)    
+    
+    
+    
+    
     
 
 #TO ADD:
-#2) Phonetic word similarity (basic/advanced, with and without feature weighting)
-#3) PMI similarity/distance
 #4) Surprisal distance
+#5) Hybrid distance
+#6) Z-score distance
 
 #DONE:
 #1) Binary cognate similarity (with/without synonyms)
+#2) Phonetic word similarity (basic/advanced, with and without feature weighting)
+#3) PMI similarity/distance
     
     
     
