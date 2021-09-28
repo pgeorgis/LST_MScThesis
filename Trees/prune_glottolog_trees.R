@@ -76,20 +76,35 @@ reformat_tree <- function(tree, languages) {
     
     #Languoids whose node index could not be found (node_index = NA) are typically dialects 
     #which were not listed in the original Glottolog tree
-    #e.g. Ligurian {Rapallo}, Italian {Grosseto}, Piemontese {Barbania}
+    #e.g. Ligurian {Rapallo}, Piedmontese {Barbania}
     #Note that they all include curly brackets in their names
     #Check whether there are any such languoids by checking for NA indices
     NA_langs <- which(is.na(node_indices))
     if (length(NA_langs)>0) {
       #Get the node index of the dialects' parent language by splitting by the " {"
       #and finding a match with the first part
-      #e.g. "Piemontese {Barbania}" --> "Piemontese"
+      #e.g. "Piedmontese {Barbania}" --> "Piedmontese"
       NA_names <- names(NA_langs)
       split_names <- strsplit(NA_names, " \\{")
       parents <- sapply(split_names, "[", 1)
       parent_node_indices <- sapply(parents, grep, tree$node.label) 
       parent_node_indices <- sapply(parent_node_indices, "[", 1)
       parent_node_indices <- parent_node_indices + Ntip(tree)
+      
+      #Address languages which still have not been matched, e.g. "Piedmontese"
+      #In this case the parent is a tip of the tree rather than a node, so we find this instead
+      still_NA_langs <- which(is.na(parent_node_indices))
+      if (length(still_NA_langs)>0) {
+        still_NA_names <- names(still_NA_langs)
+        
+        #Arbitrarily choose the last match -- this yields the correct match/position in the tree
+        #for the Turinese Piedmontese dialects, but may not always work (unclear how to resolve definitively)
+        parent_tip_indices <- sapply(still_NA_names, grep, tree$tip.label)
+        parent_tip_indices <- parent_tip_indices[length(parent_tip_indices)]
+        parent_tip_indices <- sapply(parent_tip_indices, "[", 1)
+        parent_node_indices[still_NA_langs] <- parent_tip_indices
+      }
+      
       for (i in seq(length(NA_langs))) {
         node_indices[[NA_langs[[i]]]] <- parent_node_indices[[i]]
       }
@@ -109,9 +124,6 @@ reformat_tree <- function(tree, languages) {
   tree <- drop.tip(tree, setdiff(tree$tip.label,languages))
   return(tree)
 }
-
-#Get list of files in Gold tree directory
-#files <- list.files(paste(local_dir, "/Gold", sep=""))
 
 #Get list of families
 families <- c('Arabic', 
