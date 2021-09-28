@@ -89,19 +89,19 @@ Italic	Indo-European, Italic, Western Romance	Friulian	Friulian	Friulian	friu124
 Italic	Indo-European, Italic, Western Romance	Galician	Galician	Galician	gali1258	glg	Galician	Indo-European	Eurasia	42.2446	-7.5343	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Ladin (Fassano)	Fassano Ladin	Fassano	fass1244	lld	Ladin	Indo-European	Eurasia	46.4333	11.7	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Ladin (Gardenese)	Gardenese Ladin	Gardenese	gard1241	lld	Ladin	Indo-European	Eurasia	46.5559	11.7028	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ligurian (Genoese)	Genoese Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.4056	8.9463	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ligurian (Rapallo)	Rapallo Ligurian	Ligurian	ligu1248	lij	Ligurian	Indo-European	Eurasia	44.3498	9.2339	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ligurian (Stella)	Stella Ligurian	Ligurian	ligu1248	lij	Ligurian	Indo-European	Eurasia	44.394	8.4952	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Ligurian (Genoa)	Genoese Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.4056	8.9463	Saenko (2015)	Dialect of Genoa
+Italic	Indo-European, Italic, Western Romance	Ligurian (Rapallo)	Rapallo Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.3498	9.2339	Saenko (2015)	Close subdialect of Genoese
+Italic	Indo-European, Italic, Western Romance	Ligurian (Stella)	Stella Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.394	8.4952	Saenko (2015)	Central Ligurian (ligure centrale/centro-occidentale) dialect of Province of Savona
 Italic	Indo-European, Italic, Western Romance	Lombard (Bergamo)	Bergamo Lombard	Bergamasco	berg1241	lmo	Lombard	Indo-European	Eurasia	45.6983	9.6773	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Lombard (Plesio)	Plesio Lombard	Western Lombard	west2343	lmo	Lombard	Indo-European	Eurasia	46.0633	9.2074	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Indo-European	Eurasia	44.0	6.0	Saenko (2015)	Named Occitan rather than Provençal in order to avoid confusion with Franco-Provençal
 Italic	Indo-European, Italic, Western Romance	Old French	Old French	Old French (842-ca. 1400)	oldf1239	fro	Old French (842-ca. 1400)	Indo-European	Eurasia	48.8	1.11	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Picard	Picard	Picard	pica1241	pcd	Picard	Indo-European	Eurasia	50.2831	3.25085	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Barbania)	Barbania Piemontese	Piemontese	piem1238	pms	Piemontese	Indo-European	Eurasia	45.2913	7.6312	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Carmagnola)	Carmagnola Piemontese	Piemontese	piem1238	pms	Piemontese	Indo-European	Eurasia	44.8459	7.7174	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Lanzo Torinese)	Lanzo Torinese Piemontese	Piemontese	piem1238	pms	Piemontese	Indo-European	Eurasia	45.2701	7.4775	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Turinese)	Turinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.0703	7.6869	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piemontese (Vercellese)	Vercellese Piemontese	Piemontese	piem1238	pms	Piemontese	Indo-European	Eurasia	45.3202	8.4186	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance	Piedmontese (Barbania)	Barbania Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.2913	7.6312	Saenko (2015)	Close subdialect of the Turinese dialect
+Italic	Indo-European, Italic, Western Romance	Piedmontese (Carmagnola)	Carmagnola Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	44.8459	7.7174	Saenko (2015)	Close subdialect of the Turinese dialect
+Italic	Indo-European, Italic, Western Romance	Piedmontese (Lanzo Torinese)	Lanzo Torinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.2701	7.4775	Saenko (2015)	Close subdialect of the Turinese dialect
+Italic	Indo-European, Italic, Western Romance	Piedmontese (Turinese)	Turinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.0703	7.6869	Saenko (2015)	Close subdialect of the Turinese dialect
+Italic	Indo-European, Italic, Western Romance	Piedmontese (Vercellese)	Vercellese Piemontese	Low Piemontese	lowp1238	pms	Piemontese	Indo-European	Eurasia	45.3202	8.4186	Saenko (2015)	Eastern/Low Piemontese, transitional to Lombard
 Italic	Indo-European, Italic, Western Romance	Portuguese	Standard Portuguese	Portuguese	port1283	por	Portuguese	Indo-European	Eurasia	39.91	-8.1	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Romagnol	Ravennate Romagnol	Romagnol	roma1328	rgn	Romagnol	Indo-European	Eurasia	44.2349	11.7189	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Romansh (Grischun)	Rumantsch Grischun	Rumantsch Grischun	ruma1247	roh	Romansh	Indo-European	Eurasia	46.5538	9.92812	Saenko (2015)	

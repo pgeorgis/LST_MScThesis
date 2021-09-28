@@ -21,9 +21,9 @@ FassanoLadin,Ladin (Fassano),fass1244,Fassano,lld,Eurasia,46.4333,11.7,Indo-Euro
 GardeneseLadin,Ladin (Gardenese),gard1241,Gardenese,lld,Eurasia,46.5559,11.7028,Indo-European,109,116
 ArchaicLatin,Latin (Archaic),oldl1238,Old Latin,qbb,Eurasia,41.901111,12.488333,Indo-European,108,113
 LateClassicalLatin,Latin (Late Classical),late1252,Late Latin,lat,Eurasia,41.901111,12.488333,Indo-European,106,112
-GenoeseLigurian,Ligurian (Genoese),geno1240,Genoese,lij,Eurasia,44.4056,8.9463,Indo-European,109,109
-RapalloLigurian,Ligurian (Rapallo),ligu1248,Ligurian,lij,Eurasia,44.3498,9.2339,Indo-European,109,109
-StellaLigurian,Ligurian (Stella),ligu1248,Ligurian,lij,Eurasia,44.394,8.4952,Indo-European,109,114
+GenoeseLigurian,Ligurian (Genoa),geno1240,Genoese,lij,Eurasia,44.4056,8.9463,Indo-European,109,109
+RapalloLigurian,Ligurian (Rapallo),geno1240,Genoese,lij,Eurasia,44.3498,9.2339,Indo-European,109,109
+StellaLigurian,Ligurian (Stella),geno1240,Genoese,lij,Eurasia,44.394,8.4952,Indo-European,109,114
 BergamoLombard,Lombard (Bergamo),berg1241,Bergamasco,lmo,Eurasia,45.6983,9.6773,Indo-European,109,114
 PlesioLombard,Lombard (Plesio),west2343,Western Lombard,lmo,Eurasia,46.0633,9.2074,Indo-European,109,110
 MeglenoRomanian,Megleno-Romanian,megl1237,Megleno Romanian,ruq,Eurasia,41.1174,22.3782,Indo-European,108,114
@@ -32,11 +32,11 @@ ProvençalOccitan,Occitan,prov1235,Provençal,oci,Eurasia,44.0,6.0,Indo-European
 OldFrench,Old French,oldf1239,Old French (842-ca. 1400),fro,Eurasia,48.8,1.11,Indo-European,109,113
 OldItalian,Old Italian,fior1236,Old Italian,ita,Eurasia,43.0464,12.6489,Indo-European,109,124
 Picard,Picard,pica1241,Picard,pcd,Eurasia,50.2831,3.25085,Indo-European,109,110
-BarbaniaPiemontese,Piemontese (Barbania),piem1238,Piemontese,pms,Eurasia,45.2913,7.6312,Indo-European,109,113
-CarmagnolaPiemontese,Piemontese (Carmagnola),piem1238,Piemontese,pms,Eurasia,44.8459,7.7174,Indo-European,109,112
-LanzoTorinesePiemontese,Piemontese (Lanzo Torinese),piem1238,Piemontese,pms,Eurasia,45.2701,7.4775,Indo-European,109,111
-TurinesePiemontese,Piemontese (Turinese),turi1245,Turinese,pms,Eurasia,45.0703,7.6869,Indo-European,109,119
-VercellesePiemontese,Piemontese (Vercellese),piem1238,Piemontese,pms,Eurasia,45.3202,8.4186,Indo-European,109,114
+BarbaniaPiemontese,Piedmontese (Barbania),turi1245,Turinese,pms,Eurasia,45.2913,7.6312,Indo-European,109,113
+CarmagnolaPiemontese,Piedmontese (Carmagnola),turi1245,Turinese,pms,Eurasia,44.8459,7.7174,Indo-European,109,112
+LanzoTorinesePiemontese,Piedmontese (Lanzo Torinese),turi1245,Turinese,pms,Eurasia,45.2701,7.4775,Indo-European,109,111
+TurinesePiemontese,Piedmontese (Turinese),turi1245,Turinese,pms,Eurasia,45.0703,7.6869,Indo-European,109,119
+VercellesePiemontese,Piedmontese (Vercellese),lowp1238,Low Piemontese,pms,Eurasia,45.3202,8.4186,Indo-European,109,114
 StandardPortuguese,Portuguese,port1283,Portuguese,por,Eurasia,39.91,-8.1,Indo-European,109,115
 RavennateRomagnol,Romagnol,roma1328,Romagnol,rgn,Eurasia,44.2349,11.7189,Indo-European,107,112
 Romanian,Romanian,roma1327,Romanian,ron,Eurasia,46.3913,24.2256,Indo-European,109,114
