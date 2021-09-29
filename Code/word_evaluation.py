@@ -2,6 +2,8 @@ from phonetic_distance import *
 from phoneme_correspondences import PhonemeCorrDetector
 from auxiliary_functions import adaptation_surprisal
 import itertools
+from asjp import ipa2asjp
+from nltk import edit_distance
 
 
 def basic_word_sim(word1, word2=None, sim_func=phone_sim, **kwargs):
@@ -279,23 +281,84 @@ def segmental_word_sim(alignment, c_weight=0.5, v_weight=0.3, syl_weight=0.2):
 
 
 #%%
-def word_adaptation_surprisal(pair1, pair2, **kwargs):
-    word1, lang1 = pair1
-    word2, lang2 = pair2
+combined_surprisal_dicts = {}
+scored_WAS = {}
+def mutual_surprisal(pair1, pair2, **kwargs):
+    if (pair1, pair2) in scored_WAS:
+        return scored_WAS[(pair1, pair2)]
     
-    #Problem: calculates surprisal in only one direction currently
-    #Calculate phoneme surprisal if not already done, otherwise retrieve the dictionary
-    if lang2 in lang1.phoneme_surprisal:
-        surprisal_dict = lang1.phoneme_surprisal[lang2]
     else:
-        surprisal_dict = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal()
-    
-    #Align the words
-    alignment = phone_align(word1, word2, added_penalty_dict=surprisal_dict, **kwargs)
-
-    return -adaptation_surprisal(alignment, surprisal_dict)
+        word1, lang1 = pair1
+        word2, lang2 = pair2
+        
+        #Remove suprasegmental diacritics
+        diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ']
+        word1 = strip_ch(word1, diacritics_to_remove)
+        word2 = strip_ch(word2, diacritics_to_remove)
+ 
+        #Method: 
+        # 1) align words using bidirectional PMI (surprisal alignment just doesn't seem to work)
+        # 2) calculate surprisal in each direction separately
+        # 3) divide each surprisal value by the self-surprisal
+        # 4) average together the two 
+        
+        #Calculate combined phoneme PMI if not already done
+        pmi_dict = combine_PMI(lang1, lang2, **kwargs)
+        
+        #Generate alignments in each direction: alignments need to come from PMI
+        alignment = phone_align(word1, word2, added_penalty_dict=pmi_dict)
+        
+        #Calculate phoneme surprisal if not already done
+        if lang2 not in lang1.phoneme_surprisal:
+            surprisal_dict_l1l2 = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(**kwargs)
+        if lang1 not in lang2.phoneme_surprisal:
+            surprisal_dict_l2l1 = surprisal_dict_l2l1 = PhonemeCorrDetector(lang2, lang1).calc_phoneme_surprisal(**kwargs)
+            
+        #Calculate the word-adaptation surprisal in each direction
+        #(note: alignment needs to be reversed to run in second direction)
+        WAS_l1l2 = -adaptation_surprisal(alignment, lang1.phoneme_surprisal[lang2], normalize=False)
+        WAS_l2l1 = -adaptation_surprisal(reverse_alignment(alignment), lang2.phoneme_surprisal[lang1], normalize=False)
+        
+        #Calculate self-surprisal values in each direction
+        self_surprisal1 = lang1.calculate_infocontent(word1)
+        self_surprisal1 = sum([item[1] for item in self_surprisal1.values()])
+        self_surprisal2 = lang2.calculate_infocontent(word2)
+        self_surprisal2 = sum([item[1] for item in self_surprisal2.values()])
+        
+        #Divide WAS by self-surprisal
+        WAS_l1l2 /= self_surprisal2
+        WAS_l2l1 /= self_surprisal1
+        
+        #Return the average of these two values
+        return mean([WAS_l1l2, WAS_l2l1])
 
 combined_PMI_dicts = {}
+def combine_PMI(lang1, lang2, **kwargs):
+    #Return already calculated dictionary if possible
+    if (lang1, lang2) in combined_PMI_dicts:
+        return combined_PMI_dicts[(lang1, lang2)]
+
+    #Otherwise calculate from scratch
+    if lang2 in lang1.phoneme_pmi:
+        pmi_dict_l1l2 = lang1.phoneme_pmi[lang2]
+    else:
+        pmi_dict_l1l2 = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi(**kwargs)
+    if lang1 in lang2.phoneme_pmi:
+        pmi_dict_l2l1 = lang2.phoneme_pmi[lang1]
+    else:
+        pmi_dict_l2l1 = PhonemeCorrDetector(lang2, lang1).calc_phoneme_pmi(**kwargs)
+        
+    #Average together the PMI values from each direction
+    pmi_dict = defaultdict(lambda:defaultdict(lambda:0))
+    for seg1 in pmi_dict_l1l2:
+        for seg2 in pmi_dict_l1l2[seg1]:
+            pmi_dict[seg1][seg2] = mean([pmi_dict_l1l2[seg1][seg2], pmi_dict_l2l1[seg2][seg1]])
+    combined_PMI_dicts[(lang1, lang2)] = pmi_dict
+    combined_PMI_dicts[(lang2, lang1)] = pmi_dict
+    return pmi_dict
+
+
+
 scored_word_pmi = {}
 def score_pmi(pair1, pair2, sim2dist=True, **kwargs):
     if (pair1, pair2, sim2dist) in scored_word_pmi:
@@ -311,25 +374,7 @@ def score_pmi(pair1, pair2, sim2dist=True, **kwargs):
         word2 = strip_ch(word2, diacritics_to_remove)
         
         #Calculate PMI in both directions if not already done, otherwise retrieve the dictionaries
-        if (lang1, lang2) in combined_PMI_dicts:
-            pmi_dict = combined_PMI_dicts[(lang1, lang2)]
-        else:
-            if lang2 in lang1.phoneme_pmi:
-                pmi_dict_l1l2 = lang1.phoneme_pmi[lang2]
-            else:
-                pmi_dict_l1l2 = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi(**kwargs)
-            if lang1 in lang2.phoneme_pmi:
-                pmi_dict_l2l1 = lang2.phoneme_pmi[lang1]
-            else:
-                pmi_dict_l2l1 = PhonemeCorrDetector(lang2, lang1).calc_phoneme_pmi(**kwargs)
-                
-            #Average together the PMI values from each direction
-            pmi_dict = defaultdict(lambda:defaultdict(lambda:0))
-            for seg1 in pmi_dict_l1l2:
-                for seg2 in pmi_dict_l1l2[seg1]:
-                    pmi_dict[seg1][seg2] = mean([pmi_dict_l1l2[seg1][seg2], pmi_dict_l2l1[seg2][seg1]])
-            combined_PMI_dicts[(lang1, lang2)] = pmi_dict
-            combined_PMI_dicts[(lang2, lang1)] = pmi_dict
+        pmi_dict = combine_PMI(lang1, lang2, **kwargs)
             
         #Align the words with PMI
         alignment = phone_align(word1, word2, added_penalty_dict=pmi_dict)
@@ -347,7 +392,19 @@ def score_pmi(pair1, pair2, sim2dist=True, **kwargs):
         else:
             scored_word_pmi[(pair1, pair2, sim2dist)] = PMI_score
             return PMI_score
+
+#%%
+def LevenshteinDist(word1, word2, normalize=True, asjp=True):
+    if asjp == True:
+        word1, word2 = map(ipa2asjp, [word1, word2])
+    LevDist = edit_distance(word1, word2)
+    if normalize == True:
+        LevDist /= max(len(word1), len(word2))
+    return LevDist
+        
     
+
+#%%
 def hybrid():
     pass
     
