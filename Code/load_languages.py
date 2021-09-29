@@ -777,8 +777,10 @@ datasets_path = str(parent_dir) + '/Datasets/'
 os.chdir(datasets_path)
 families = {}
 for family in ['Arabic', 'Balto-Slavic', 'Dravidian',
-               'Hokan','Italic', 
-               'Polynesian', 'Sinitic', 
+               'Hokan','Italic',
+               'Polynesian',
+               'Quechuan',
+               'Sinitic', 
                'Turkic', 'Uralic', #'Germanic'
                ]:
     family_path = re.sub('-', '_', family).lower()

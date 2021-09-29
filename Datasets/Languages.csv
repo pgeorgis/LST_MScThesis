@@ -15,6 +15,8 @@ Arabic	Afro-Asiatic, Semitic, Arabic, North African Arabic	Hassaniya Arabic	Hass
 Arabic	Afro-Asiatic, Semitic, Arabic, North African Arabic	Maltese	Maltese	Maltese	malt1254	mlt	Maltese	Afro-Asiatic	Eurasia	35.8884	14.4508	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
 Arabic	Afro-Asiatic, Semitic, Arabic, North African Arabic	Moroccan Arabic	Moroccan (Casablanca)	Moroccan Arabic	moro1292	ary	Moroccan Arabic	Afro-Asiatic	Africa	32.5	-7.5	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
 Arabic	Afro-Asiatic, Semitic, Arabic, North African Arabic	Tunisian Arabic	Tunisian (Tunis)	Tunisian Arabic	tuni1259	aeb	Tunisian Arabic	Afro-Asiatic	Africa	33.7966	9.56156	https://en.wiktionary.org/w/index.php?title=Appendix:Varieties_of_Arabic_Swadesh_lists&oldid=62250595	
+Baltic	Indo-European, Balto-Slavic, Baltic	Latvian	Standard Latvian	Latvian	latv1249	lav	Latvian	Indo-European	Eurasia	56.8261	24.309118	Saenko, 2017	
+Baltic	Indo-European, Balto-Slavic, Baltic	Lithuanian	Standard Lithuanian	Lithuanian	lith1251	lit	Lithuanian	Indo-European	Eurasia	55.1429	23.9601	Saenko, 2017	
 Dravidian	Dravidian, Central Dravidian	Kolami	Kolami	Northwestern Kolami	nort2699	kfb	Northwestern Kolami	Dravidian	Eurasia	20.1022	78.4934	Kolipakam et al., (2018)	
 Dravidian	Dravidian, Central Dravidian	Ollari Gadba	Ollari_Gadba	Pottangi Ollar Gadaba	pott1240	gdb	Pottangi Ollar Gadaba	Dravidian	Eurasia	18.5968	82.7586	Kolipakam et al., (2018)	
 Dravidian	Dravidian, Central Dravidian	Parji	Parji	Duruwa	duru1236	pci	Duruwa	Dravidian	Eurasia	19.0534	82.4881	Kolipakam et al., (2018)	
@@ -55,15 +57,11 @@ Hokan	Tequistlatecan	Highland Chontal	Highland Chontal	Highland Oaxaca Chontal	h
 Hokan	Yana	Central Yana	Central Yana	Central Yana	cent2137	ynn	Yana	Yana	North America	39.2769	-121.608	Zhivlov (2013)	
 Hokan	Yana	Northern Yana	Northern Yana	Northern Yana	nort2963	ynn	Yana	Yana	North America	39.2769	-121.608	Zhivlov (2013)	
 Hokan	Yana	Yahi	Yahi	Yahi	yahi1243	ynn	Yana	Yana	North America	39.2769	-121.608	Zhivlov (2013)	
-Italic	Indo-European, Italic, Latin	Latin (Archaic)	Archaic Latin	Old Latin	oldl1238	qbb		Indo-European	Eurasia	41.901111	12.488333	Saenko (2015)	
-Italic	Indo-European, Italic, Latin	Latin (Late Classical)	Late Classical Latin	Late Latin	late1252	lat	Latin	Indo-European	Eurasia	41.901111	12.488333	Saenko (2015)	
 Italic	Indo-European, Italic, Eastern Romance	Aromanian	Aromanian	Aromanian	arom1237	rup	Aromanian	Indo-European	Eurasia	40.616	21.2	Saenko (2015)	
 Italic	Indo-European, Italic, Eastern Romance	Istro-Romanian	Istro Romanian	Istro Romanian	istr1245	ruo	Istro Romanian	Indo-European	Eurasia	45.433	14.2	Saenko (2015)	
 Italic	Indo-European, Italic, Eastern Romance	Megleno-Romanian	Megleno Romanian	Megleno Romanian	megl1237	ruq	Megleno Romanian	Indo-European	Eurasia	41.1174	22.3782	Saenko (2015)	
 Italic	Indo-European, Italic, Eastern Romance	Romanian	Romanian	Romanian	roma1327	ron	Romanian	Indo-European	Eurasia	46.3913	24.2256	Saenko (2015)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Dalmatian	Dalmatian	Dalmatian	dalm1243	dlm	Dalmatian	Indo-European	Eurasia	42.7095	18.0238	Saenko (2015)	
-Italic	Indo-European, Italic, Italo-Dalmatian	Umbrian	Foligno Italian	Laziale	lazi1238	ita	Italian	Indo-European	Eurasia	42.9509	12.7015	Saenko (2015)	Umbrian dialect of Foligno, belonging to the Central Italian dialect group -- not the ancient Umbrian language; Laziale (another Central Italian dialect) is the closest Glottolog equivalent
-Italic	Indo-European, Italic, Italo-Dalmatian	Tuscan	Grosseto Italian	Fiorentino	fior1235	ita	Italian	Indo-European	Eurasia	42.7635	11.1124	Saenko (2015)	Southern Tuscan dialect of Grosseto; Fiorentino (another Tuscan dialect) is the closest Glottolog equivalent
 Italic	Indo-European, Italic, Italo-Dalmatian	Italian	Standard Italian	Italian	ital1282	ita	Italian	Indo-European	Eurasia	43.0464	12.6489	Saenko (2015)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Neapolitan	Neapolitan	Napoletano	napo1241	nap	Neapolitan	Indo-European	Eurasia	40.8518	14.2681	Saenko (2015)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Old Italian	Old Italian	Old Italian	fior1236	ita	Italian	Indo-European	Eurasia	43.0464	12.6489	Saenko (2015)	
@@ -71,6 +69,10 @@ Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Catanian)	Catanian Sicil
 Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Messinese)	Messinese Sicilian	Messinese	mess1247	scn	Sicilian	Indo-European	Eurasia	38.1937	15.5542	Saenko (2015)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Palermitan)	Palermitan Sicilian	Western Sicilian	west2346	scn	Sicilian	Indo-European	Eurasia	38.1157	13.3615	Saenko (2015)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Southeastern)	South-Eastern Sicilian	Southeast Metafonetica	sout2617	scn	Sicilian	Indo-European	Eurasia	37.3089	13.5858	Saenko (2015)	
+Italic	Indo-European, Italic, Italo-Dalmatian	Tuscan	Grosseto Italian	Fiorentino	fior1235	ita	Italian	Indo-European	Eurasia	42.7635	11.1124	Saenko (2015)	Southern Tuscan dialect of Grosseto; Fiorentino (another Tuscan dialect) is the closest Glottolog equivalent
+Italic	Indo-European, Italic, Italo-Dalmatian	Umbrian	Foligno Italian	Laziale	lazi1238	ita	Italian	Indo-European	Eurasia	42.9509	12.7015	Saenko (2015)	Umbrian dialect of Foligno, belonging to the Central Italian dialect group -- not the ancient Umbrian language; Laziale (another Central Italian dialect) is the closest Glottolog equivalent
+Italic	Indo-European, Italic, Latin	Latin (Archaic)	Archaic Latin	Old Latin	oldl1238	qbb		Indo-European	Eurasia	41.901111	12.488333	Saenko (2015)	
+Italic	Indo-European, Italic, Latin	Latin (Late Classical)	Late Classical Latin	Late Latin	late1252	lat	Latin	Indo-European	Eurasia	41.901111	12.488333	Saenko (2015)	
 Italic	Indo-European, Italic, Southern Romance	Sardinian (Campidanese)	Campidanese	Campidanese Sardinian	camp1261	sro	Campidanese Sardinian	Indo-European	Eurasia	39.0566	9.03935	Saenko (2015)	
 Italic	Indo-European, Italic, Southern Romance	Sardinian (Logudorese)	Logudorese	Logudorese Sardinian	logu1236	src	Logudorese Sardinian	Indo-European	Eurasia	40.49	9.09957	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Asturian	Asturian	Asturian	astu1246	ast	Asturian; Leonese	Indo-European	Eurasia	42.4181	-6.02227	Saenko (2015)	
@@ -114,14 +116,14 @@ Italic	Indo-European, Italic, Western Romance	Venetian (Primiero)	Primiero Venet
 Italic	Indo-European, Italic, Western Romance	Venetian (Venice)	Venice Venetian	Venetian Proper	vene1259	vec	Venetian	Indo-European	Eurasia	45.4408	12.3155	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance	Walloon	Walloon	Walloon	wall1255	wln	Walloon	Indo-European	Eurasia	50.2235	5.14509	Saenko (2015)	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic, East Slavic	Belarusian	Belarusian	Belarusian	bela1254	bel	Belarusian	Indo-European	Eurasia	53.2307	25.6038	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic, East Slavic	Russian	Russian	Russian	russ1263	rus	Russian	Indo-European	Eurasia	59.0	50.0	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic, East Slavic	Ukrainian	Ukrainian	Ukrainian	ukra1253	ukr	Ukrainian	Indo-European	Eurasia	49.796	29.945	Dellert et al., 2019	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic, South Slavic	Bulgarian	Bulgarian	Bulgarian	bulg1262	bul	Bulgarian	Indo-European	Eurasia	43.3646	25.047	Dellert et al., 2019	
+NorthEuraLex	Indo-European, Balto-Slavic, Slavic, South Slavic	Slovenian	Slovene	Slovenian	slov1268	slv	Slovenian	Indo-European	Eurasia	46.2543	14.7766	Dellert et al., 2019	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic, South Slavic	Štokavian	Croatian	Croatian Standard	croa1245	hrv	Croatian	Indo-European	Eurasia	45.555	15.982	Dellert et al., 2019	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic, West Slavic	Czech	Czech	Czech	czec1258	ces	Czech	Indo-European	Eurasia	49.8734	15.10437	Dellert et al., 2019	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic, West Slavic	Polish	Polish	Polish	poli1260	pol	Polish	Indo-European	Eurasia	51.8439	18.6255	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic, East Slavic	Russian	Russian	Russian	russ1263	rus	Russian	Indo-European	Eurasia	59.0	50.0	Dellert et al., 2019	
 NorthEuraLex	Indo-European, Balto-Slavic, Slavic, West Slavic	Slovak	Slovak	Slovak	slov1269	slk	Slovak	Indo-European	Eurasia	48.5457	18.78479	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic, South Slavic	Slovenian	Slovene	Slovenian	slov1268	slv	Slovenian	Indo-European	Eurasia	46.2543	14.7766	Dellert et al., 2019	
-NorthEuraLex	Indo-European, Balto-Slavic, Slavic, East Slavic	Ukrainian	Ukrainian	Ukrainian	ukra1253	ukr	Ukrainian	Indo-European	Eurasia	49.796	29.945	Dellert et al., 2019	
 Polynesian	Austronesian, Polynesian, Anuta	Anuta	Anuta	Anuta	anut1237	aud	Anuta	Austronesian	Papunesia	-11.61	169.85	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, Carolinean Outlier Polynesian	Kapingamarangi	Kapingamarangi	Kapingamarangi	kapi1249	kpg	Kapingamarangi	Austronesian	Papunesia	1.039166	154.797223	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, East Futuna	East Futuna	EastFutuna	East Futuna	east2447	fud	East Futuna	Austronesian	Papunesia	-14.278717	-178.137222	Walworth, 2018	
@@ -152,6 +154,39 @@ Polynesian	Austronesian, Polynesian, Vaeakau-Taumako	Vaeakau-Taumako	VaeakauTaum
 Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Emae	Emae	Emae	emae1237	mmw	Emae	Austronesian	Papunesia	-17.052	168.399	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Futuna-Aniwa	FutunaAniwa	Futuna-Aniwa	futu1245	fut	Futuna-Aniwa	Austronesian	Papunesia	-19.5303	170.215	Walworth, 2018	
 Polynesian	Austronesian, Polynesian, Vanuatu-Loyalty Outliers	Mele-Fila	MeleFila	Mele-Fila	mele1250	mxe	Mele-Fila	Austronesian	Papunesia	-17.6841	168.275	Walworth, 2018	
+Quechuan	Quechuan, Quechua I, Central Quechua, AP-AM-AH	Huallaga-Huánuco	Huallaga	Huallaga Huánuco Quechua	hual1241	qub	﻿Huallaga Huánuco Quechua	Quechuan	South America	-9.57	-75.59	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Huangascar-Topara	Apurí-Madean-Viñac	Apuri	Apurí	apur1253			Quechuan	South America	-12.89	-75.81	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Huangascar-Topara	Cacra-Hongos	Cacra-Hongos	Cacra-Hongos	cacr1238			Quechuan	South America	-12.81	-75.78	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Huangascar-Topara	Chocos-Huangáscar	Huangascar	Azángaro-Huangáscar-Chocos	azan1238			Quechuan	South America	-12.9	-75.83	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Huangascar-Topara	Laraos	Laraos	Huangascar-Topara-Yauyos Quechua	yauy1235	qux	Yauyos Quechua	Quechuan	South America	-13.11	-75.77	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Huangascar-Topara	Lincha-Tana	Lincha-Tana	Tana-Lincha	tana1291			Quechuan	South America	-12.8	-75.66	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Huangascar-Topara	Liscay-San Pedro	SanPedro	San Pedro de Huacarpana	sanp1258			Quechuan	South America	-13.09	-75.74	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Huaylay	Corongo	Yanac	Corongo Ancash Quechua	coro1247	qwa	Corongo Ancash Quechua	Quechuan	South America	-8.58	-77.99	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Huaylay	Huaraz-Huailas	HuarazHuailas	Huailas	huai1241			Quechuan	South America	-9.52	-77.52	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Jauja-Huanca	Huaylla-Huanca	Huanca	Huaylla Wanca Quechua	huay1241	qvw	Huaylla Wanca Quechua	Quechuan	South America	-11.77	-75.49	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Jauja-Huanca	Jauja-Huanca	Jauja	Jauja Wanca Quechua	jauj1238	qxw	Jauja Wanca Quechua	Quechuan	South America	-11.67	-75.28	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Central Quechua, Yaru Quechua	Yaru	Tarma	Yaru Quechua	yaru1256			Quechuan	South America	-11.42	-75.68	Blum et al., 2021	
+Quechuan	Quechuan, Quechua I, Pacaraos	Pacaraos	Pacaraos	Pacaraos Quechua	paca1245	qvp	Pacaraos Quechua	Quechuan	South America	-11.14	-76.73	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Cajamarca-Lambayeque	Cajamarca	Chetilla	Cajamarca Quechua	caja1238	qvc	Cajamarca Quechua	Quechuan	South America	-7.09	-78.32	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Cajamarca-Lambayeque	Lambayeque	Inkawasi	Lambayeque Quechua	lamb1276	quf	Lambayeque Quechua	Quechuan	South America	-6.17	-79.47	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIB, San Martin-Amazonas	Chachapoyas	Chachapoyas	Chachapoyas Quechua	chac1250	quk	Chachapoyas Quechua	Quechuan	South America	-6.27	-77.66	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIB, San Martin-Amazonas	San Martín	Lamas	San Martín Quechua	sanm1289	qvs	San Martín Quechua	Quechuan	South America	-6.42	-76.52	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Ayacuchan	Ayacucho	Ayacucho	Ayacucho Quechua	ayac1239	quy	Ayacucho Quechua	Quechuan	South America	-13.85	-74.32	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Ayacuchan	Huancavelica	Atalla	Huancavelica	huan1249			Quechuan	South America	-12.76	-74.87	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Bolivian-Argentinian Quechua	Apolobamba	Curva	Apolo	apol1241			Quechuan	South America	-14.4	-68.79	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Bolivian-Argentinian Quechua	Chuquisaca	Maragua	South Bolivian Quechua	sout2991	quh	South Bolivian Quechua	Quechuan	South America	-18.96	-65.78	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Bolivian-Argentinian Quechua	Cochabamba	Pocona	Cochabamba	coch1274			Quechuan	South America	-17.67	-65.42	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Bolivian-Argentinian Quechua	Santiago del Estero	Santiagueno	Santiago del Estero Quichua	sant1432	qus	Santiago del Estero Quichua	Quechuan	South America	-27.79	-64.25	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian A	Chimborazo	Troje	North Chimborazo Highland Quichua	nort3351			Quechuan	South America	-1.37	-78.85	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Azuay	Azuay	Azuay Highland Quichua	azua1234			Quechuan	South America	-2.48	-78.97	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Colombian Inga	Putumayo	Colombian Inga	inga1252	inb	Inga	Quechuan	South America	1.17	-76.96	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Imbabura	Imbabura	Imbabura Highland Quichua	imba1240	qvi	Imbabura Highland Quichua	Quechuan	South America	-0.23	-78.26	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Napo 	Napo	Napo Lowland Quechua	napo1242	qvo	Napo Lowland Quechua	Quechuan	South America	-0.04	-76.23	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Pastaza	Pastaza	Southern Pastaza Quechua	sout2990	qup	Southern Pastaza Quechua	Quechuan	South America	-4.79	-76.53	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Tena	Serena	Tena Lowland Quichua	tena1240	quw	Tena Lowland Quichua	Quechuan	South America	-0.76	-77.54	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Cuscan Quechua	Cuzco	Cuzco	Cusco Quechua	cusc1236	quz	Cusco Quechua	Quechuan	South America	-14.09	-71.77	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Cuscan Quechua	Eastern-Apurímac	Apurimac	Eastern Apurímac Quechua	east2551	qve	Eastern Apurí­mac Quechua	Quechuan	South America	-13.89	-73.14	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Cuscan Quechua	Puno	Puno	Puno Quechua	puno1238	qxp	Puno Quechua	Quechuan	South America	-14.61	-70.21	Blum et al., 2021	
 Sinitic	Sino-Tibetan, Sinitic, Gan	Nanchang	Nanchang	Nanchang	nanc1254	gan	Gan Chinese	Sino-Tibetan	Eurasia	28.706609	115.857468	Líu et al., 2007	
 Sinitic	Sino-Tibetan, Sinitic, Hakka	Meixian	Meixian	Meixian	yuet1238	hak	Hakka Chinese	Sino-Tibetan	Eurasia	24.3522958	115.8903375	Líu et al., 2007	
 Sinitic	Sino-Tibetan, Sinitic, Hui	Jixi	Jixi	Jixi	jixi1238	czh	Huizhou Chinese	Sino-Tibetan	Eurasia	30.071111	118.592222	Líu et al., 2007	
@@ -171,6 +206,11 @@ Sinitic	Sino-Tibetan, Sinitic, Wu	Wenzhou	Wenzhou	Wenzhou	ouji1238	wuu	Wu Chines
 Sinitic	Sino-Tibetan, Sinitic, Xiang	Changsha	Changsha	Changsha	chan1326	hsn	Xiang Chinese	Sino-Tibetan	Eurasia	28.85032	112.943344	Líu et al., 2007	
 Sinitic	Sino-Tibetan, Sinitic, Xiang	Loudi	Loudi	Loudi	loud1234	hsn	Xiang Chinese	Sino-Tibetan	Eurasia	27.733333	111.9281883	Líu et al., 2007	
 Sinitic	Sino-Tibetan, Sinitic, Yue	Guangzhou	Guangzhou	Guangzhou	guan1279	yue	Yue Chinese	Sino-Tibetan	Eurasia	23.1253503	112.9476548	Líu et al., 2007	
+Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Burgenland Čakavian	Devinska Nova Ves Chakavian	Burgenland Croatian	burg1244	ckm	Chakavian	Indo-European	Eurasia	48.2094	16.9728	Saenko, 2017	Burgenland Chakavian dialect spoken in Devínska Nová Ves, Slovakia
+Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Čakavian (Cres)	Orlec Chakavian	Nuclear Chakavian	nucl1776	ckm	Chakavian	Indo-European	Eurasia	44.8829	14.4243	Saenko, 2017	Northern Chakavian (sjevernočakavski / ekavskočakavski) dialect of Orlec, Cres Island, Croatia
+Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Čakavian (Istria)	Orbanici Chakavian	Nuclear Chakavian	nucl1776	ckm	Chakavian	Indo-European	Eurasia	45.005	13.9164	Saenko, 2016	Southern Istrian Chakavian (jugozapadni istarski / štakavsko-čakavski) dialect spoken in Orbanići, Istarska Županija, Croatia
+Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Kajkavian	Burgenland Kajkavian	Kajkavian	kajk1237	kjv	Kaikavian Literary Language	Indo-European	Eurasia	47.6254	16.7409	Saenko, 2017	Burgenland Kajkavian dialect spoken in Hidegség and Fertőhomok, Hungary
+Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Macedonian	Dihovo Macedonian	Western Macedonian	west2336	mkd	Macedonian	Indo-European	Eurasia	41.5957	21.7932	Kassian, 2014	Dialect of Dihovo, North Macedonia
 Turkic	Turkic, Bolgar	Chuvash	Chuvash	Chuvash	chuv1255	chv	Chuvash	Turkic	Eurasia	55.487	47.163	Savelyev & Robbeets (2020)	Viryal dialect
 Turkic	Turkic, Central Siberian Turkic	Siberian Tatar	BarabaTatar	Baraba	bara1273	sty	Siberian Tatar	Turkic	Eurasia	57.4921	72.5642	Savelyev & Robbeets (2020)	Baraba variety of Siberian Tatar
 Turkic	Turkic, Khalaj	Khalaj	Khalaj	Turkic Khalaj	turk1303	klj	Khalaj	Turkic	Eurasia	34.4224	50.3222	Savelyev & Robbeets (2020)	
@@ -226,10 +266,3 @@ Uralic	Uralic, Samoyedic	Tundra Nenets	Tundra Nenets	Tundra Nenets	nene1249	yrk	
 Uralic	Uralic, Ugric, Hungarian	Hungarian	Hungarian	Hungarian	hung1274	hun	Hungarian	Uralic	Eurasia	46.9068585714	19.6555271429	De Heer et al.; Syrjänen	
 Uralic	Uralic, Ugric, Khantyic	Khanty	Vakh-Vasyugan Khanty	Vach-Vasjugan	fare1244			Uralic	Eurasia	60.10378	79.873651	De Heer et al.; Syrjänen	
 Uralic	Uralic, Ugric, Mansic	Mansi	Sosva Mansi	Sosva Mansi	nort2677	mns	Mansi	Uralic	Eurasia	64.4118	61.344	De Heer et al.; Syrjänen	
-Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Macedonian	Dihovo Macedonian	Western Macedonian	west2336	mkd	Macedonian	Indo-European	Eurasia	41.5957	21.7932	Kassian, 2014	Dialect of Dihovo, North Macedonia
-Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Kajkavian	Burgenland Kajkavian	Kajkavian	kajk1237	kjv	Kaikavian Literary Language	Indo-European	Eurasia	47.6254	16.7409	Saenko, 2017	Burgenland Kajkavian dialect spoken in Hidegség and Fertőhomok, Hungary
-Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Čakavian (Istria)	Orbanici Chakavian	Nuclear Chakavian	nucl1776	ckm	Chakavian	Indo-European	Eurasia	45.005	13.9164	Saenko, 2016	Southern Istrian Chakavian (jugozapadni istarski / štakavsko-čakavski) dialect spoken in Orbanići, Istarska Županija, Croatia
-Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Čakavian (Cres)	Orlec Chakavian	Nuclear Chakavian	nucl1776	ckm	Chakavian	Indo-European	Eurasia	44.8829	14.4243	Saenko, 2017	Northern Chakavian (sjevernočakavski / ekavskočakavski) dialect of Orlec, Cres Island, Croatia
-Slavic	Indo-European, Balto-Slavic, Slavic, South Slavic	Burgenland Čakavian	Devinska Nova Ves Chakavian	Burgenland Croatian	burg1244	ckm	Chakavian	Indo-European	Eurasia	48.2094	16.9728	Saenko, 2017	Burgenland Chakavian dialect spoken in Devínska Nová Ves, Slovakia
-Baltic	Indo-European, Balto-Slavic, Baltic	Latvian	Standard Latvian	Latvian	latv1249	lav	Latvian	Indo-European	Eurasia	56.8261	24.309118	Saenko, 2017	
-Baltic	Indo-European, Balto-Slavic, Baltic	Lithuanian	Standard Lithuanian	Lithuanian	lith1251	lit	Lithuanian	Indo-European	Eurasia	55.1429	23.9601	Saenko, 2017	

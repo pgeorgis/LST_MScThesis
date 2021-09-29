@@ -67,7 +67,11 @@ for dataset in ['Arabic',
                 'Polynesian',
                 'Sinitic',
                 'Turkic',
-                'Uralic']:
+                'Uralic',
+                
+                #Validation datasets
+                'Quechuan'
+                ]:
     directory = str(parent_dir) + f'/Datasets/{dataset}'
     os.chdir(directory)
     dataset = re.sub('-', '_', dataset.lower())

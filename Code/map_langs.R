@@ -71,4 +71,10 @@ dravidian_subfamilies = strsplit(dravidian_subfamilies, ",")
 dravidian_subfamilies = sapply(dravidian_subfamilies, tail, n=1)
 map.feature(languages=dravidian$Name, features=dravidian_subfamilies, latitude=dravidian$Latitude, longitude=dravidian$Longitude)
 
+#Map Quechuan
+quechuan <- lang_data[lang_data$Dataset=='Quechuan',]
+quechuan_subfamilies = quechuan$Classification
+quechuan_subfamilies = strsplit(quechuan_subfamilies, ",")
+quechuan_subfamilies = sapply(quechuan_subfamilies, "[", 2)
+map.feature(languages=quechuan$Name, features=quechuan_subfamilies, latitude=quechuan$Latitude, longitude=quechuan$Longitude)
 

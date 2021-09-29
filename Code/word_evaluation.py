@@ -332,6 +332,7 @@ def mutual_surprisal(pair1, pair2, **kwargs):
         #Return the average of these two values
         return mean([WAS_l1l2, WAS_l2l1])
 
+
 combined_PMI_dicts = {}
 def combine_PMI(lang1, lang2, **kwargs):
     #Return already calculated dictionary if possible

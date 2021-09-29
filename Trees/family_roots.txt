@@ -7,6 +7,7 @@ Italic:lati1263
 Karuk:karo1304
 Polynesian:poly1242
 Pomoan:pomo1273
+Quechuan:quec1387
 Seri:seri1257
 Shastan:shas1239
 Sinitic:sini1245
