@@ -126,13 +126,9 @@ def normalize_dict(dict_, default=False, lmbda=None, return_=True):
     
 #%%
 #INFORMATION CONTENT
-def surprisal(p, negative=False):
-    """negative : Bool; if True, returns surprisal values as negatives for use as penalties"""
+def surprisal(p):
     try:
-        if negative == True:
-            return math.log(p, 2)
-        else:
-            return -math.log(p, 2)
+        return -math.log(p, 2)
     except ValueError:
         print(f'Math Domain Error: cannot take the log of {p}')
         raise ValueError
@@ -349,8 +345,7 @@ def network_plot(group, labels,
     #Calculate the threshold for plotting edges: the mean distance among items in the network
     if threshold == None:
         dists = [dm[i][j] for i in range(len(dm)) for j in range(len(dm[i])) if i != j]
-        #threshold = mean(dists)
-        threshold = median(dists)
+        threshold = mean(dists) + stdev(dists)
     
     #Create a figure for the network; larger plot if >30 nodes
     if len(group) >= 30:
@@ -370,7 +365,7 @@ def network_plot(group, labels,
     edges = {}
     
     def add_edge(node_i, node_j, dist):
-        gr.add_edge(node_i, node_j, distance=dist)
+        gr.add_edge(node_i, node_j, distance=dist, weight=(1-dist)**2)
         
         #Label edges with distances; scale and round according to parameter specifications
         if edge_label_dist == True:

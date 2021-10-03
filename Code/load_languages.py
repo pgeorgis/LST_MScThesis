@@ -77,7 +77,8 @@ class Dataset:
             self.iso_codes[lang] = data[i][self.iso_code_c]
             self.lang_ids[lang] = data[i][self.id_c].split('_')[0]
         
-        for lang in language_vocab_data:
+        language_list = sorted(list(language_vocab_data.keys()))
+        for lang in language_list:
             self.languages[lang] = Language(name=lang, data=language_vocab_data[lang],
                                             id_c = self.id_c,
                                             segments_c = self.segments_c,
@@ -192,7 +193,7 @@ class Dataset:
                 else:
                     print(f'\t\t{lang} ({vocab_size} concepts)')
             print(f'\tAMC increased from {round(original_amc, 2)} to {round(self.mutual_coverage[1], 2)}.')
-        
+    
     
     def calculate_phoneme_pmi(self, output_file=None, **kwargs):
         """Calculates phoneme PMI for all language pairs in the dataset and saves
@@ -211,7 +212,7 @@ class Dataset:
                         
                         #Check whether phoneme PMI has been calculated already for this pair
                         #If not, calculate it now
-                        if lang2 not in lang1.phoneme_pmi:
+                        if len(lang1.phoneme_surprisal[lang2]) == 0:
                             print(f'Calculating phoneme PMI for {lang1.name} and {lang2.name}...')
                             pmi = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi(**kwargs)
                         
@@ -253,7 +254,83 @@ class Dataset:
                 phone1, phone2 = row['Phone1'], row['Phone2']
                 pmi_value = row['PMI']
                 lang1.phoneme_pmi[lang2][phone1][phone2] = pmi_value
+    
+    
+    def calculate_phoneme_surprisal(self, output_file=None, **kwargs):
+        """Calculates phoneme surprisal for all language pairs in the dataset and saves
+        the results to file"""
+        
+        #First ensure that phoneme PMI has been calculated and loaded
+        self.load_phoneme_pmi()
+        
+        #Specify output file name if none is specified
+        if output_file == None:
+            output_file = f'{self.directory}{self.name} Phoneme Surprisal.csv'
+        
+        #Calculate or retrieve surprisal values and save them to the specified output file
+        with open(output_file, 'w') as f:
+            f.write('Language1,Phone1,Language2,Phone2,Surprisal,OOV_Smoothed\n')
+            for lang1 in self.languages.values():
+                for lang2 in self.languages.values():
+                    if lang1 != lang2:
+                        
+                        #Check whether phoneme surprisal has been calculated already for this pair
+                        #If not, calculate it now
+                        if len(lang1.phoneme_surprisal[lang2]) == 0:
+                            print(f'Calculating phoneme surprisal for {lang1.name} and {lang2.name}...')
+                            phoneme_surprisal = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(**kwargs)
+                        
+                        #Else retrieve the precalculated values
+                        else:
+                            phoneme_surprisal = lang1.phoneme_surprisal[lang2]
+                            
+                        #Save values
+                        for seg1 in phoneme_surprisal:
+                            
+                            #Determine the smoothed value for unseen ("out of vocabulary") correspondences
+                            #Check using a non-IPA character
+                            non_IPA = '?'
+                            oov_smoothed = phoneme_surprisal[seg1][non_IPA]
+                            
+                            #Then remove this character from the surprisal dictionary
+                            del phoneme_surprisal[seg1][non_IPA]
+                            
+                            #Save values which are not equal to the OOV smoothed value
+                            for seg2 in phoneme_surprisal[seg1]:
+                                if phoneme_surprisal[seg1][seg2] != oov_smoothed:
+                                    f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{phoneme_surprisal[seg1][seg2]},{oov_smoothed}\n')
+    
+    
+    def load_phoneme_surprisal(self, surprisal_file=None, excepted=[]):
+        """Loads pre-calculated phoneme surprisal values from file"""
+        
+        #Designate the default file name to search for if no alternative is provided
+        if surprisal_file == None:
+            surprisal_file = f'{self.directory}{self.name} Phoneme Surprisal.csv'
+        
+        #Try to load the file of saved PMI values
+        try:
+            surprisal_data = pd.read_csv(surprisal_file)
             
+        #If the file is not found, recalculate the surprisal values and save to 
+        #a file with the specified name
+        except FileNotFoundError:
+            self.calculate_phoneme_surprisal(output_file=surprisal_file)
+            surprisal_data = pd.read_csv(surprisal_file)
+        
+        #Iterate through the dataframe and save the surprisal values to the Language
+        #class objects' phoneme_surprisal attribute
+        for index, row in surprisal_data.iterrows():
+            lang1 = self.languages[row['Language1']]
+            lang2 = self.languages[row['Language2']]
+            if (lang1 not in excepted) and (lang2 not in excepted):
+                phone1, phone2 = row['Phone1'], row['Phone2']
+                surprisal_value = row['Surprisal']
+                if phone1 not in lang1.phoneme_surprisal[lang2]:
+                    oov_smoothed = row['OOV_Smoothed']
+                    lang1.phoneme_surprisal[lang2][phone1] = defaultdict(lambda:oov_smoothed)
+                lang1.phoneme_surprisal[lang2][phone1][phone2] = surprisal_value
+    
     
     def cognate_set_dendrogram(self, cognate_id, 
                                dist_func, sim=True, 
@@ -368,11 +445,11 @@ class Dataset:
         
         #Use all available concepts by default
         if concept_list == None:
-            concept_list = sorted([c for c in self.concepts.keys() 
-                                   if len(self.concepts[c]) > 1])
+            concept_list = sorted([concept for concept in self.concepts.keys() 
+                                   if len(self.concepts[concept]) > 1])
         else:
             concept_list = sorted([concept for concept in concept_list 
-                                   if concept in self.concepts])
+                                   if len(self.concepts[concept]) > 1])
         
         if dist_func == Z_score_dist:
             cognates = 'none'
@@ -776,12 +853,17 @@ def combine_datasets(dataset_list):
 datasets_path = str(parent_dir) + '/Datasets/'
 os.chdir(datasets_path)
 families = {}
-for family in ['Arabic', 'Balto-Slavic', 'Dravidian',
-               'Hokan','Italic',
+for family in ['Arabic', 
+               'Balto-Slavic', 
+               'Dravidian',
+               'Hokan',
+               'Italic',
+               'Japonic',
                'Polynesian',
                'Quechuan',
                'Sinitic', 
-               'Turkic', 'Uralic', #'Germanic'
+               'Turkic', 
+               'Uralic',
                ]:
     family_path = re.sub('-', '_', family).lower()
     filepath = datasets_path + family + f'/{family_path}_data.csv'

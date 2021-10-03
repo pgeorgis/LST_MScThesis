@@ -57,7 +57,7 @@ def word_sim(word1, word2=None,
             if (lang1, lang2) != (None, None):
                 #Check whether phoneme PMI has been calculated for this language pair
                 #If not, then calculate it; if so, then retrieve it
-                if lang2 in lang1.phoneme_pmi:
+                if len(lang1.phoneme_pmi[lang2]) > 0:
                     pmi_dict = lang1.phoneme_pmi[lang2]
                 else:
                     pmi_dict = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi()
@@ -295,12 +295,6 @@ def mutual_surprisal(pair1, pair2, **kwargs):
         diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ']
         word1 = strip_ch(word1, diacritics_to_remove)
         word2 = strip_ch(word2, diacritics_to_remove)
- 
-        #Method: 
-        # 1) align words using bidirectional PMI (surprisal alignment just doesn't seem to work)
-        # 2) calculate surprisal in each direction separately
-        # 3) divide each surprisal value by the self-surprisal
-        # 4) average together the two 
         
         #Calculate combined phoneme PMI if not already done
         pmi_dict = combine_PMI(lang1, lang2, **kwargs)
@@ -309,15 +303,15 @@ def mutual_surprisal(pair1, pair2, **kwargs):
         alignment = phone_align(word1, word2, added_penalty_dict=pmi_dict)
         
         #Calculate phoneme surprisal if not already done
-        if lang2 not in lang1.phoneme_surprisal:
+        if len(lang1.phoneme_surprisal[lang2]) == 0:
             surprisal_dict_l1l2 = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(**kwargs)
-        if lang1 not in lang2.phoneme_surprisal:
+        if len(lang2.phoneme_surprisal[lang1]) == 0:
             surprisal_dict_l2l1 = surprisal_dict_l2l1 = PhonemeCorrDetector(lang2, lang1).calc_phoneme_surprisal(**kwargs)
             
         #Calculate the word-adaptation surprisal in each direction
         #(note: alignment needs to be reversed to run in second direction)
-        WAS_l1l2 = -adaptation_surprisal(alignment, lang1.phoneme_surprisal[lang2], normalize=False)
-        WAS_l2l1 = -adaptation_surprisal(reverse_alignment(alignment), lang2.phoneme_surprisal[lang1], normalize=False)
+        WAS_l1l2 = adaptation_surprisal(alignment, lang1.phoneme_surprisal[lang2], normalize=False)
+        WAS_l2l1 = adaptation_surprisal(reverse_alignment(alignment), lang2.phoneme_surprisal[lang1], normalize=False)
         
         #Calculate self-surprisal values in each direction
         self_surprisal1 = lang1.calculate_infocontent(word1)
@@ -332,6 +326,10 @@ def mutual_surprisal(pair1, pair2, **kwargs):
         #Return the average of these two values
         return mean([WAS_l1l2, WAS_l2l1])
 
+def surprisal_sim(pair1, pair2, **kwargs):
+    #Return mutual surprisal distance as similarity: math.e**-distance = 1/(math.e**distance)
+    return math.e**-(mutual_surprisal(pair1, pair2, **kwargs))
+    #another possibility: mutual surprisal in relation to phoneme entropy; if it exceeds the phoneme entropy then similarity is 0
 
 combined_PMI_dicts = {}
 def combine_PMI(lang1, lang2, **kwargs):
@@ -340,11 +338,11 @@ def combine_PMI(lang1, lang2, **kwargs):
         return combined_PMI_dicts[(lang1, lang2)]
 
     #Otherwise calculate from scratch
-    if lang2 in lang1.phoneme_pmi:
+    if len(lang1.phoneme_pmi[lang2]) > 0:
         pmi_dict_l1l2 = lang1.phoneme_pmi[lang2]
     else:
         pmi_dict_l1l2 = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi(**kwargs)
-    if lang1 in lang2.phoneme_pmi:
+    if len(lang2.phoneme_pmi[lang1]) > 0:
         pmi_dict_l2l1 = lang2.phoneme_pmi[lang1]
     else:
         pmi_dict_l2l1 = PhonemeCorrDetector(lang2, lang1).calc_phoneme_pmi(**kwargs)
