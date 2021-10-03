@@ -85,13 +85,10 @@ def fix_tr(tr):
         
         fixed.append(seg)
     
-    tr = ''.join([conversion_dict.get(ch, ch) for ch in tr])
-    
     return ''.join(fixed)
 
 quechuan_data = defaultdict(lambda:{})
 index = 0
-#for i in forms_data:
 for index, entry in forms_data.iterrows():
     word_id = entry['ID']
     lang_id = entry['Language_ID']
