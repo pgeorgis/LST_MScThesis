@@ -78,3 +78,11 @@ quechuan_subfamilies = strsplit(quechuan_subfamilies, ",")
 quechuan_subfamilies = sapply(quechuan_subfamilies, "[", 2)
 map.feature(languages=quechuan$Name, features=quechuan_subfamilies, latitude=quechuan$Latitude, longitude=quechuan$Longitude)
 
+#Map Japonic
+japonic <- lang_data[lang_data$Dataset=='Japonic',]
+japonic <- japonic[japonic$Name != 'Old Japanese',] #don't map Old Japanese
+japonic_subfamilies = japonic$Classification
+japonic_subfamilies = strsplit(japonic_subfamilies, ",")
+japonic_subfamilies = sapply(japonic_subfamilies, tail, n=1)
+map.feature(languages=japonic$Name, features=japonic_subfamilies, latitude=japonic$Latitude, longitude=japonic$Longitude)
+

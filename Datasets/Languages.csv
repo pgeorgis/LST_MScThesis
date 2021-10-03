@@ -266,3 +266,61 @@ Uralic	Uralic, Samoyedic	Tundra Nenets	Tundra Nenets	Tundra Nenets	nene1249	yrk	
 Uralic	Uralic, Ugric, Hungarian	Hungarian	Hungarian	Hungarian	hung1274	hun	Hungarian	Uralic	Eurasia	46.9068585714	19.6555271429	De Heer et al.; Syrjänen	
 Uralic	Uralic, Ugric, Khantyic	Khanty	Vakh-Vasyugan Khanty	Vach-Vasjugan	fare1244			Uralic	Eurasia	60.10378	79.873651	De Heer et al.; Syrjänen	
 Uralic	Uralic, Ugric, Mansic	Mansi	Sosva Mansi	Sosva Mansi	nort2677	mns	Mansi	Uralic	Eurasia	64.4118	61.344	De Heer et al.; Syrjänen	
+Japonic	Japonic, Japanesic	Old Japanese	OldJapanese	Old Japanese	oldj1239	ojp		Japonic	Eurasia	34.683333	135.8	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Aichi	Aichi	Nagoya	nago1242			Japonic	Eurasia	35.1219442	137.081740723195	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Akita	Akita	Akita	akit1240			Japonic	Eurasia	39.6898802	140.342608	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Aomori	Aomori	Tsugaru	tsug1237			Japonic	Eurasia	40.886943	140.590121	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Chiba	Chiba	Chiba	chib1248			Japonic	Eurasia	35.609985	140.118126	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Fukushima	Fukushima	Fukushima	fuku1243			Japonic	Eurasia	37.75454	140.4592144	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Gifu	Gifu	Hida	hida1245			Japonic	Eurasia	35.7867449	137.0460777	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Gunma	Gunma	Gunma	gunm1237			Japonic	Eurasia	36.52198	139.033483	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Hokkaidō	Hokkaido	Hokkaido	hokk1243			Japonic	Eurasia	43.4519831	142.8197834	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Ibaraki	Ibaraki	Ibaraki	ibar1242			Japonic	Eurasia	36.2869536	140.4703384	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Iwate	Iwate	Kesen	kese1237			Japonic	Eurasia	39.9724169	141.2124422	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Kanagawa	Kanagawa	Kanagawa	kana1290			Japonic	Eurasia	35.4715259	139.6275201	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Miyagi	Miyagi	Sendai	send1240			Japonic	Eurasia	38.2677554	140.8691498	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Nagano	Nagano	Nagano	naga1408			Japonic	Eurasia	36.1143945	138.0319015	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Niigata	Niigata	Niigata	niig1237			Japonic	Eurasia	37.6452283	138.7669125	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Saitama	Saitama	Chichibu	chic1269			Japonic	Eurasia	35.9754168	139.4160114	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Shizuoka	Shizuoka	Shizuoka	shiz1237			Japonic	Eurasia	34.979149	138.38299	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Tochigi	Tochigi	Tochigi	toch1258			Japonic	Eurasia	36.3818177	139.733591	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Tōkyō	Tokyo	Tōkyō	toky1238			Japonic	Eurasia	35.6828387	139.7594549	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Yamagata	Yamagata	Yamagata	yama1262			Japonic	Eurasia	38.2553393	140.3400205	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Yamanashi	Yamanashi	Yamanashi	yama1263			Japonic	Eurasia	35.6928452	138.6871263	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Hachijō	Hachijō	Hachijyo	Hachijō	hach1238			Japonic	Eurasia	33.1069602	139.767310718251	Lee & Hasegawa, 2011	Appears twice in Glottolog tree, once as a top-level division sister to Japanesic and Ryukyuan, and once as division within Japanese; Wikipedia describes it a descendant of (Eastern) Old Japanese, hence the latter Glottolog classification is assumed here
+Japonic	Japonic, Japanesic, Kyūshū	Fukuoka	Fukuoka	Chikuho-ben	chik1251			Japonic	Eurasia	33.6251241	130.6180016	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Kagoshima	Kagoshima	Satsugū	sats1241			Japonic	Eurasia	31.521587	130.5474077	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Kumamoto	Kumamoto	Kumamoto-ben	kuma1281			Japonic	Eurasia	32.6450475	130.6341345	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Miyazaki	Miyazaki	Miyazaki-ben	miya1258			Japonic	Eurasia	31.9076334	131.4204022	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Nagasaki	Nagasaki	Nagasaki-ben	naga1405			Japonic	Eurasia	33.1154683	129.7874339	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Ōita	Oita	Ōita-ben	oita1237			Japonic	Eurasia	33.1819875	131.4270217	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Saga	Saga	Saga-ben	saga1265			Japonic	Eurasia	33.2185408	130.1296585	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Northern Ryukyuan	Naze	Naze	Naze	naze1238			Japonic	Eurasia	28.3740442	129.5064497	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Northern Ryukyuan	Okinawa	Okinawa	Okinawa	okin1244			Japonic	Eurasia	26.4748948	127.911468664084	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Southern Ryukyuan	Hateruma	Hateruma	Hateruma	hate1238			Japonic	Eurasia	24.0587455	123.782155373325	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Southern Ryukyuan	Hirara	Hirara	Miyako-Jima	miya1260			Japonic	Eurasia	24.926431	125.2411151	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Southern Ryukyuan	Ikema	Ikema	Ikema-Jima	ikem1235			Japonic	Eurasia	24.9252099	125.2448702	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Southern Ryukyuan	Irafu	Irafu	Irabu-Jima	irab1238			Japonic	Eurasia	24.829624	125.1918053	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Southern Ryukyuan	Ishigaki	Ishigaki	Ishigaki	ishi1240			Japonic	Eurasia	24.3457111	124.1575482	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Southern Ryukyuan	Taketomi	Taketomi	Taketomi	take1256			Japonic	Eurasia	24.322143	123.826987	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Southern Ryukyuan	Tarama	Tarama	Tarama-Minna	tara1319			Japonic	Eurasia	24.661495	124.6979386	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryukyuan, Southern Ryukyuan	Yonaguni	Yonaguni	Yonaguni	yona1241	yoi		Japonic	Eurasia	24.45566	122.992602	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Ehime	Ehime	Iyo-ben	iyob1237			Japonic	Eurasia	33.6013646	132.8185275	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Fukui	Fukui	Fukui	fuku1241			Japonic	Eurasia	35.9263502	136.6068127	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Hiroshima	Hiroshima	Hiroshima	hiro1237			Japonic	Eurasia	34.3916058	132.4518156	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Hyōgo	Hyogo	Kobe (Japonic)	kobe1244			Japonic	Eurasia	34.6677915	135.1641816	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Ishikawa	Ishikawa	Kanazawa	kana1289			Japonic	Eurasia	36.5780499	136.6480247	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Kagawa	Kagawa	Kagawa-ben	kaga1258			Japonic	Eurasia	34.3454438499999	134.109814153127	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Kōchi	Kochi	Hata-ben	hata1244			Japonic	Eurasia	33.5680384	133.5394221	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Kyōtō	Kyoto	Kyoto	kyot1238			Japonic	Eurasia	35.021041	135.7556075	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Mie	Mie	Mie	miee1237			Japonic	Eurasia	34.7339685	136.5154489	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Nara	Nara	Oku-yoshino	okuy1237			Japonic	Eurasia	34.2963089	135.8816819	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Okayama	Okayama	Okayama	okay1237			Japonic	Eurasia	34.6553944	133.9194595	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Ōsaka	Osaka	Ōsaka	osak1237			Japonic	Eurasia	34.6198813	135.490357	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Shiga	Shiga	Shiga	shig1237			Japonic	Eurasia	35.2018175	135.9245546	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Shimane	Shimane	Izumo-ben	izum1237			Japonic	Eurasia	35.3668891	132.7548827	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Tokushima	Tokushima	Tokushima-ben	toku1245			Japonic	Eurasia	34.0698307	134.5550353	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Tottori	Tottori	Tottori	tott1237			Japonic	Eurasia	35.3555075	133.8678525	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Toyama	Toyama	Toyama	toya1237			Japonic	Eurasia	36.6957569	137.2136215	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Wakayama	Wakayama	Wakayama	waka1279			Japonic	Eurasia	34.234617	135.1782181	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Yamaguchi	Yamaguchi	Yamaguchi	yama1261			Japonic	Eurasia	34.1781317	131.4737077	Lee & Hasegawa, 2011	

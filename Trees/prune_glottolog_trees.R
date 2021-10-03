@@ -146,6 +146,7 @@ families <- c('Arabic',
               'Yana',
               
               #Validation datasets
+              'Japonic',
               'Quechuan'
               )
 

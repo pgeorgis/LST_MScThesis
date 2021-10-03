@@ -62,7 +62,11 @@ families <- c('Arabic',
               'Polynesian', 
               'Sinitic',
               'Turkic', 
-              'Uralic')
+              'Uralic',
+              
+              #Validation datasets
+              'Quechuan'
+              )
 
 #Iterate through families, identify the best tree
 for (family in families) {
