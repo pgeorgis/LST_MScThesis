@@ -133,7 +133,7 @@ def load_parameter_file(parameter_file):
 
 #%%
 #Designate validation datasets
-validation_datasets = [Japonic, Quechuan, UtoAztecan]
+validation_datasets = [Hellenic, Japonic, Quechuan, UtoAztecan]
 
 #Load phoneme PMI and surprisal for validation datasets
 for vd in validation_datasets:

@@ -1,0 +1,7 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Concept_Count,Word_Count
+AncientAtticGreek(Plato),Ancient Attic Greek,atti1240,Attic,grc,Eurasia,37.9839412,23.7283052,Indo-European,110,119
+AncientIonicGreek(Herodotus),Ancient Ionic Greek,ioni1244,Ionic,grc,Eurasia,37.03788265,27.4241455276707,Indo-European,107,113
+ModernDemoticGreek,Modern Demotic Greek,dimo1238,Dimotiki,ell,Eurasia,38.9954,21.9877132,Indo-European,110,119
+PharasaGreek,Pharasa Greek,phar1238,Pharasa,cpg,Eurasia,37.915047,35.485424,Indo-European,99,112
+SouthernTsakonian,Southern Tsakonian,sout2607,Southern Tsakonian,tsd,Eurasia,37.1671554,22.8608871,Indo-European,109,131
+CappadocianGreek(Aravan),Western Cappadocian Greek,west2337,Western Cappadocian,cpg,Eurasia,38.5476601,34.8696135,Indo-European,107,120

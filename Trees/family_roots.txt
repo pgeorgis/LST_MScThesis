@@ -3,6 +3,7 @@ Balto-Slavic:balt1263
 Chimariko:chim1301
 Cochimi-Yuman:coch1271
 Dravidian:drav1251
+Hellenic:gree1276
 Italic:lati1263
 Japonic:japo1237
 Karuk:karo1304
