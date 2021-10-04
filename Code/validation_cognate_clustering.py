@@ -1,4 +1,5 @@
 #COGNATE CLUSTERING PARAMETER TUNING
+import pandas as pd
 from load_languages import *
 
 def evaluate_parameters(family, parameters, dist_func, func_sim):
@@ -58,7 +59,7 @@ def plot_performance(family_bcubed, func_label,
                      legend_pos=(0.4,0.4), save_directory=None):
     
     #Draw plots of performance per dataset
-    for family in family_bcubed:
+    for family in sorted(list(family_bcubed.keys())):
         x_values = sorted(list(family_bcubed[family].keys()))
         plt.plot(x_values, [family_bcubed[family][val][2] for val in x_values], label=family)
     plt.xlabel(f'{func_label} Clustering Threshold')
@@ -93,6 +94,20 @@ def plot_performance(family_bcubed, func_label,
         plt.savefig(f'{save_directory}Average {func_label}  Cognate Clustering Performance', dpi=300)
     plt.show()
     plt.close()
+    
+def optimal_parameter(family_bcubed):
+    precision, recall, f1 = defaultdict(lambda:[]), defaultdict(lambda:[]), defaultdict(lambda:[])
+    for family in family_bcubed:
+        for x_value in family_bcubed[family]:
+            p, r, f = family_bcubed[family][x_value]
+            precision[x_value].append(p)
+            recall[x_value].append(r)
+            f1[x_value].append(f)
+    for d, l in zip([precision, recall, f1], ['Precision', 'Recall', 'F1']):
+        for val in d:
+            d[val] = mean(d[val])
+    return keywithmaxval(f1)
+    
 
 def write_parameters(parameter_dict, outputfile, sep=','):
     with open(outputfile, 'w') as f:
@@ -103,10 +118,22 @@ def write_parameters(parameter_dict, outputfile, sep=','):
                 precision, recall, fscore = parameter_dict[dataset][parameter_value]
                 f.write(sep.join([dataset, str(parameter_value), str(precision), str(recall), str(fscore)]))
                 f.write('\n')
+                
+def load_parameter_file(parameter_file):
+    parameter_file = pd.read_csv(parameter_file)
+    family_bcubed = family_bcubed = defaultdict(lambda:{})
+    for index, row in parameter_file.iterrows():
+        dataset = row['Dataset']
+        value = row['Parameter_Value']
+        precision = row['Precision']
+        recall = row['Recall']
+        f1 = row['F1']
+        family_bcubed[dataset][value] = precision, recall, f1
+    return family_bcubed
 
 #%%
 #Designate validation datasets
-validation_datasets = [Quechuan, Japonic]
+validation_datasets = [Japonic, Quechuan, UtoAztecan]
 
 #Load phoneme PMI and surprisal for validation datasets
 for vd in validation_datasets:
@@ -140,4 +167,3 @@ for func_label in functions:
 #Plot all performances
 for func_label in evaluation: 
     plot_performance(evaluation[func_label], func_label, save_directory=destination)
-    

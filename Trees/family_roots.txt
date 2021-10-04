@@ -15,4 +15,5 @@ Sinitic:sini1245
 Tequistlatecan:tequ1244
 Turkic:turk1311
 Uralic:ural1272
+Uto-Aztecan:utoa1244
 Yana:yana1271

@@ -864,6 +864,7 @@ for family in ['Arabic',
                'Sinitic', 
                'Turkic', 
                'Uralic',
+               'Uto-Aztecan'
                ]:
     family_path = re.sub('-', '_', family).lower()
     filepath = datasets_path + family + f'/{family_path}_data.csv'
@@ -876,6 +877,7 @@ for family in ['Arabic',
     globals().update(language_variables)
 globals().update(families)
 BaltoSlavic = families['Balto-Slavic']
+UtoAztecan = families['Uto-Aztecan']
 os.chdir(local_dir)
 
 #Get lists and counts of languages/families

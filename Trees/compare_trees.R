@@ -65,7 +65,9 @@ families <- c('Arabic',
               'Uralic',
               
               #Validation datasets
-              'Quechuan'
+              'Quechuan',
+              'Japonic',
+              'Uto-Aztecan'
               )
 
 #Iterate through families, identify the best tree
