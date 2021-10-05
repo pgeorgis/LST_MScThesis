@@ -871,7 +871,8 @@ for family in ['Arabic',
                'Sinitic', 
                'Turkic', 
                'Uralic',
-               'Uto-Aztecan'
+               'Uto-Aztecan',
+               'Vietic'
                ]:
     family_path = re.sub('-', '_', family).lower()
     filepath = datasets_path + family + f'/{family_path}_data.csv'

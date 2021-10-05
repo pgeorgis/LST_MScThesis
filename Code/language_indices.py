@@ -74,7 +74,8 @@ for dataset in ['Arabic',
                 'Hellenic',
                 'Quechuan',
                 'Japonic',
-                'Uto-Aztecan'
+                'Uto-Aztecan',
+                'Vietic'
                 ]:
     directory = str(parent_dir) + f'/Datasets/{dataset}'
     os.chdir(directory)

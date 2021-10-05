@@ -18,4 +18,5 @@ Tequistlatecan:tequ1244
 Turkic:turk1311
 Uralic:ural1272
 Uto-Aztecan:utoa1244
+Vietic:viet1250
 Yana:yana1271
