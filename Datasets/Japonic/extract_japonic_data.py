@@ -167,7 +167,7 @@ def lookup_segment(segment, data=japonic_data, langs=None):
             
 #%%
 output_file = 'japonic_data.csv'
-print(f'Writing preprocessed Quechuan data to "{output_file}"...')
+print(f'Writing preprocessed Japonic data to "{output_file}"...')
 
 def write_data(data_dict, output_file, sep='\t'):
     features = list(data_dict[list(data_dict.keys())[0]].keys())
