@@ -86,3 +86,24 @@ japonic_subfamilies = strsplit(japonic_subfamilies, ",")
 japonic_subfamilies = sapply(japonic_subfamilies, tail, n=1)
 map.feature(languages=japonic$Name, features=japonic_subfamilies, latitude=japonic$Latitude, longitude=japonic$Longitude)
 
+#Map Uto-Aztecan
+utoaztecan <- lang_data[lang_data$Dataset=='Uto-Aztecan',]
+utoaztecan_subfamilies = utoaztecan$Classification
+utoaztecan_subfamilies = strsplit(utoaztecan_subfamilies, ",")
+utoaztecan_subfamilies = sapply(utoaztecan_subfamilies, tail, n=1)
+map.feature(languages=utoaztecan$Name, features=utoaztecan_subfamilies, latitude=utoaztecan$Latitude, longitude=utoaztecan$Longitude)
+
+#Map Hellenic
+hellenic <- lang_data[lang_data$Dataset=='Hellenic',]
+hellenic_subfamilies = hellenic$Classification
+hellenic_subfamilies = strsplit(hellenic_subfamilies, ",")
+hellenic_subfamilies = sapply(hellenic_subfamilies, tail, n=1)
+map.feature(languages=hellenic$Name, features=hellenic_subfamilies, latitude=hellenic$Latitude, longitude=hellenic$Longitude)
+
+#Map Bantu
+bantu <- lang_data[lang_data$Dataset=='Bantu',]
+bantu_subfamilies = bantu$Classification
+bantu_subfamilies = strsplit(bantu_subfamilies, ",")
+bantu_subfamilies = sapply(bantu_subfamilies, "[", 4)
+map.feature(languages=bantu$Name, features=bantu_subfamilies, latitude=bantu$Latitude, longitude=bantu$Longitude)
+

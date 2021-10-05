@@ -65,6 +65,8 @@ families <- c('Arabic',
               'Uralic',
               
               #Validation datasets
+              'Bantu',
+              'Hellenic',
               'Quechuan',
               'Japonic',
               'Uto-Aztecan'

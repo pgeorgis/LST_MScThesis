@@ -1,0 +1,38 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Concept_Count,Word_Count
+Bemba,Bemba,bemb1257,Bemba (Zambia),bem,Africa,-10.6122,29.2993,Niger-Congo,96,96
+Bulu,Bulu,bulu1251,Bulu (Cameroon),bum,Africa,3.16141,11.6365,Niger-Congo,95,95
+Fang,Fang,fang1246,Fang (Equatorial Guinea),fan,Africa,1.72397,11.61454,Niger-Congo,100,100
+Ganda,Ganda,gand1255,Ganda,lug,Africa,0.66884,32.15153,Niger-Congo,94,94
+Gogo,Gogo,gogo1263,Gogo,gog,Africa,-6.35951,35.4807,Niger-Congo,99,99
+Haya,Haya,haya1250,Haya,hay,Africa,-1.70878,31.4846,Niger-Congo,100,100
+Kalanga,Kalanga,kala1384,Kalanga,kck,Africa,-21.2887,27.401,Niger-Congo,86,86
+Kamba,Kamba,kamb1297,Kamba (Kenya),kam,Africa,-1.60827,37.9532,Niger-Congo,100,101
+Kikuyu,Kikuyu,kiku1240,Kikuyu,kik,Africa,-0.29005,36.719,Niger-Congo,100,100
+Kimbundu,Kimbundu,kimb1241,Kimbundu,kmb,Africa,-8.97835,14.8893,Niger-Congo,68,68
+Koongo,Koongo,koon1244,Koongo,kng,Africa,-5.57722,14.4771,Niger-Congo,99,99
+Lingala,Lingala,ling1263,Lingala,lin,Africa,-4.40917,15.28532,Niger-Congo,96,96
+Lozi,Lozi,lozi1239,Lozi,loz,Africa,-17.7052,24.7398,Niger-Congo,85,85
+Luba,Luba-Katanga,luba1250,Luba-Katanga,lub,Africa,-8.2816,25.8918,Niger-Congo,63,64
+Luba,Luba-Lulua,luba1249,Luba-Lulua,lua,Africa,-5.72717,22.4422,Niger-Congo,98,98
+Makhuwa,Makhuwa,makh1264,Makhuwa,vmw,Africa,-14.8509,38.8052,Niger-Congo,99,99
+Meru,Meru,meru1245,Meru,mer,Africa,0.26484,37.7396,Niger-Congo,99,99
+Ndonga,Ndonga,ndon1254,Ndonga,ndo,Africa,-17.22,17.35,Niger-Congo,68,68
+Ndzwani Comorian,Ndzwani Comorian,ndzw1235,Ndzwani Comorian,wni,Africa,-12.2123,44.3709,Niger-Congo,98,98
+Ngazidja Comorian,Ngazidja Comorian,ngaz1238,Ngazidja Comorian,zdj,Africa,-11.6129,43.36,Niger-Congo,100,100
+North Ndebele,North Ndebele,nort2795,Zimbabwean Ndebele,nde,Africa,-20.2513,27.4096,Niger-Congo,100,100
+Nyanja,Nyanja,nyan1308,Nyanja,nya,Africa,-14.8047,32.8108,Niger-Congo,100,101
+Nyankole,Nyankole,nyan1307,Nyankole,nyn,Africa,-0.46364,30.548,Niger-Congo,100,100
+Rundi,Rundi,rund1242,Rundi,run,Africa,-2.94,29.97,Niger-Congo,100,100
+Shona,Shona,shon1251,Shona,sna,Africa,-17.2085,29.75725,Niger-Congo,100,100
+Songe,Songe,song1303,Songe,sop,Africa,-5.71993,25.2765,Niger-Congo,96,96
+Sukuma,Sukuma,suku1261,Sukuma,suk,Africa,-3.16082,32.8765,Niger-Congo,97,97
+Swahili,Swahili,swah1253,Swahili,swh,Africa,-8.25605,37.624,Niger-Congo,98,98
+Tonga,Tonga,tong1318,Tonga,toi,Africa,-17.4223,27.103495,Niger-Congo,67,67
+Tsonga,Tsonga,tson1249,Tsonga,tso,Africa,-23.5754,31.8105,Niger-Congo,99,99
+Tswa,Tswa,tswa1255,Tswa,tsc,Africa,-22.9891,32.4287,Niger-Congo,73,73
+Tswana,Tswana,tswa1253,Tswana,tsn,Africa,-24.368,24.7587,Niger-Congo,94,94
+Umbundu,Umbundu,umbu1257,Umbundu,umb,Africa,-12.4763,14.4148,Niger-Congo,94,94
+Venda,Venda,vend1245,Venda,ven,Africa,-22.188,29.9523,Niger-Congo,98,98
+Xhosa,Xhosa,xhos1239,Xhosa,xho,Africa,-31.0389,28.0769,Niger-Congo,100,100
+Yaka,Yaka,yaka1272,Yaka (Central African Republic),axk,Africa,3.6515,17.2713,Niger-Congo,100,100
+Zulu,Zulu,zulu1248,Zulu,zul,Africa,-28.9,30.2,Niger-Congo,100,100

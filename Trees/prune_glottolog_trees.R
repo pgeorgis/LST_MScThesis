@@ -146,8 +146,11 @@ families <- c('Arabic',
               'Yana',
               
               #Validation datasets
+              'Bantu',
+              'Hellenic',
               'Japonic',
-              'Quechuan'
+              'Quechuan',
+              'Uto-Aztecan'
               )
 
 for (family in families) {

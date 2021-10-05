@@ -416,9 +416,14 @@ class Dataset:
                         for item in clustered_cognates[concept][i]}
             gold_clusters = {f'{lang} /{strip_ch(tr, ["(", ")"])}/':set([c]) 
                              for c in self.cognate_sets 
-                             if c.split('_')[0] == concept 
+                             if re.split('[-|_]', c)[0] == concept 
                              for lang in self.cognate_sets[c] 
                              for tr in self.cognate_sets[c][lang]}
+            
+            #Skip concepts without any gold cognate class information
+            if len(gold_clusters) == 0:
+                continue
+            
             precision = bcubed.precision(clusters, gold_clusters)
             recall = bcubed.recall(clusters, gold_clusters)
             fscore = bcubed.fscore(precision, recall)
@@ -855,6 +860,7 @@ os.chdir(datasets_path)
 families = {}
 for family in ['Arabic', 
                'Balto-Slavic', 
+               'Bantu',
                'Dravidian',
                'Hellenic',
                'Hokan',

@@ -1,5 +1,6 @@
 Arabic:arab1395
 Balto-Slavic:balt1263
+Bantu:narr1281
 Chimariko:chim1301
 Cochimi-Yuman:coch1271
 Dravidian:drav1251

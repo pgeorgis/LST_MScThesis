@@ -2,6 +2,7 @@
 import pandas as pd
 from load_languages import *
 
+#%%
 def evaluate_parameters(family, parameters, dist_func, func_sim):
     #Designate the concept list as all available concepts with >1 entries
     concept_list = [concept for concept in family.concepts.keys() 
@@ -133,7 +134,7 @@ def load_parameter_file(parameter_file):
 
 #%%
 #Designate validation datasets
-validation_datasets = [Hellenic, Japonic, Quechuan, UtoAztecan]
+validation_datasets = [Bantu, Hellenic, Japonic, Quechuan, UtoAztecan]
 
 #Load phoneme PMI and surprisal for validation datasets
 for vd in validation_datasets:

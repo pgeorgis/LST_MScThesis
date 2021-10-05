@@ -70,6 +70,7 @@ for dataset in ['Arabic',
                 'Uralic',
                 
                 #Validation datasets
+                'Bantu',
                 'Hellenic',
                 'Quechuan',
                 'Japonic',
