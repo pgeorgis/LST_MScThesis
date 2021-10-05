@@ -68,10 +68,22 @@ Diacritic	Description	Type	Feature	Value	Position
 ː	long	suprasegmental	short	-	post
 ̆	short	suprasegmental	short	+	post
 ̂	tone: falling	suprasegmental	tone	+	post
+̂	tone: falling	suprasegmental	tone_contour	+	post
+̂	tone: falling	suprasegmental	tone_falling	+	post
 ́	tone: high	suprasegmental	tone	+	post
+́	tone: high	suprasegmental	tone_high	+	post
+́	tone: high	suprasegmental	tone_central	+	post
 ̀	tone: low	suprasegmental	tone	+	post
+̀	tone: low	suprasegmental	tone_central	+	post
 ̄	tone: mid	suprasegmental	tone	+	post
+̄	tone: mid	suprasegmental	tone_mid	+	post
+̄	tone: mid	suprasegmental	tone_central	+	post
 ̌	tone: rising	suprasegmental	tone	+	post
+̌	tone: rising	suprasegmental	tone_contour	+	post
+̌	tone: rising	suprasegmental	tone_rising	+	post
+̏	tone: extra low	suprasegmental	tone	+	post
+̋	tone: extra high	suprasegmental	tone	+	post
+̋	tone: extra high	suprasegmental	tone_high	+	post
 ̯	non-syllabic	syllabicity	syllabic	-	post
 ̩	syllabic	syllabicity	syllabic	+	post
 ̍	syllabic	syllabicity	syllabic	+	post
