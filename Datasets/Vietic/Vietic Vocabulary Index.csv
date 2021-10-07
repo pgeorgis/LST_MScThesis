@@ -26,7 +26,7 @@ BIG_60														ʔih
 BIG_61								kḛ³⁴³									
 BIRD_64	iʨiːm	ʔacim¹	ĭcim	ciːm¹	ciːm	ciːm	ciːm		ciːm¹	ciːm¹	ciːm¹	sɨm¹	cɨm¹	ciːm¹	ciːm¹	ciːm¹	cim³³
 BIRD_66								ʔɔ̰³⁴³									
-BITE_69								kĭɳ³⁴³	kaɲ³	kaɲ³		kăn³	kăɲ³				can
+BITE_69								kĭɳ³⁴³	kaɲ³	kaɲ³		kăn³	kăɲ³				kăŋ⁴⁵
 BITE_70	kămˀ	kɤ̤̆m⁴	kəʌm	kɐm⁴											kam⁴	kam⁴	
 BITE_71					kaːt	kaːt	kaːt										
 BITE_72														tuh³			
@@ -42,7 +42,7 @@ BLOW (WITH MOUTH)_91		tʰul¹	tʰuːl	tʰuːlʰ¹	tuːc	tuːt	tuːc		tʰoːj⁵	
 BLOW (WITH MOUTH)_92	tʰlʊmˀ																
 BLUE OR GREEN_254	ɕɛi̯ɲ	ɕeŋ¹	sĭŋ	seŋ								sɛɲ¹	sɛɲ¹				san³³
 BLUE OR GREEN_255								salɛːw³²⁴						salɛːw¹			
-BODY LOUSE_345	n̩rei̯ɲˀ	ɓlĭŋ³	briɲ	briɲ³	pʰlʌɲ	pʰliŋ	pʰlɛɲ	ma³hriɳ³⁴³	kʰiɲ³	fəɲ⁴⁵		reɲ⁴		hahiŋ³	pʰriɲ³	siɲ³	rəŋ²¹²
+BODY LOUSE_345	n̩rei̯ɲˀ	ɓlĭŋ³	briɲ	briɲ³	pʰlʌɲ	pʰliŋ	pʰlɛɲ	ma³hriɳ³⁴³	kʰiɲ³	fəɲ⁴⁵		reɲ⁴		hahiŋ³	pʰriɲ³	siɲ³	ɹəŋ²¹²
 BONE_96	ɕie̯ŋ	ɕaŋ²	saŋ	saːŋ²				sɤŋ³	sɨaŋ¹	sɨaŋ¹	sɨaŋ¹	sɨəŋ¹	sɨəŋ¹		sɨəŋ¹	sɨaŋ¹	sɨːŋ³³
 BONE_97														tkoːk²			
 BREAST_100												ʔu³			ʔuː³	ʔuː³	
@@ -83,12 +83,12 @@ EARTH (SOIL)_164					tɔt	tit	tʌt		tʌt⁵²	tʌt⁵²	dʌt⁵²	tə̆t⁵²	ʔ
 EARTH (SOIL)_165		ɓɤn³	bən	bɤnʔ													
 EARTH (SOIL)_166	atăk							atăk⁴						ʔataːk³			
 EAR_160	tʰaːi̯	ɕai̯¹	saj	saːj¹	saːj	patsaːj	batsaːj	saj³	tʰaːj¹	saːj¹	saːj¹	taj¹	taj¹	saːj¹	saːj¹	saːj¹	taːi̯³³
-EAT_169	ʔăn	ʔăn¹	ʔăn	ʔan	ʔan	ʔan	ʔan	ʔan³				ăn¹	ăn¹	ʔan¹			an
+EAT_169	ʔăn	ʔăn¹	ʔăn	ʔan	ʔan	ʔan	ʔan	ʔan³				ăn¹	ăn¹	ʔan¹			ʔăŋ³³
 EGG_173					klaəŋ	kləːŋ	klaəŋ		kləŋ³	kləŋ³	kləŋ³	ʈəŋ³	ʔləŋ³				ʈɨŋ⁴⁵
 EGG_174															lɨən¹	lɨən¹	
 EGG_175	uluːlˀ	talul³	təlul	tuluːl³				talṵl³⁴³						tulun³			
-EYE_179	mʌat	mat⁴	mə̯ʌt	mə̆at⁵³	mat	mat	mat	măt³⁴	mat²	mat²	mat²	măt⁵²	măt⁵²	mat¹	mat⁵³	mat⁵³	mat
-FALL_180																	rəːi̯³³
+EYE_179	mʌat	mat⁴	mə̯ʌt	mə̆at⁵³	mat	mat	mat	măt³⁴	mat²	mat²	mat²	măt⁵²	măt⁵²	mat¹	mat⁵³	mat⁵³	măk⁴⁵
+FALL_180																	ɹəːi̯³³
 FALL_181												po⁵	bo⁵				
 FALL_183	ru	ɽa̤h²		ruh²	ɣaəc		ʰlaəc	ɬuj³⁴³									
 FALL_184			tlɔ														
@@ -162,7 +162,7 @@ KNOW (SOMETHING)_316																	ɓiːk⁴⁵
 KNOW (SOMETHING)_317	hiː	hi¹	hi	hi													
 KNOW (SOMETHING)_318								ɬo³⁴³						huʔ			
 LEAF_322	ulɛa̯ʔ	ʔula³	ŭla	laː³	laː	laː	laː	salwa̰³⁴³	laː³	laː³	laː³	la³	la³	slaː⁴	laː³	laː³	laː⁴⁵
-LIE (REST)_324							lam	năm³²⁴				năm²		nam¹			nam
+LIE (REST)_324							lam	năm³²⁴				năm²		nam¹			năm²¹
 LIE (REST)_325				təŋah¹													
 LIE (REST)_326		ɲap⁴	nʌp														
 LIE (REST)_327	pi																
@@ -172,7 +172,7 @@ LIVER_333																ɣaːn¹
 LONG_336		ʑa̤l²	ʔjal	ʤal					zaːj²	zaːj²	zaːj²	jaj²	zaj²				jaːi̯²¹
 LONG_337					jaon	joːn	jɔːn	zon³						joːn	jɔːn¹	jwan¹	
 LONG_338	lɤːŋ																
-MOON_356					plɔːŋ	plɔːŋ	plɔoŋ		klaŋ¹	plaŋ¹	ʈaŋ¹	măt⁵³ʈăŋ¹	măt⁵³lăŋ¹	paloːŋ¹	plɔŋ²		tranɡ
+MOON_356					plɔːŋ	plɔːŋ	plɔoŋ		klaŋ¹	plaŋ¹	ʈaŋ¹	măt⁵³ʈăŋ¹	măt⁵³lăŋ¹	paloːŋ¹	plɔŋ²		ʈăŋ³³
 MOON_357				matʈaŋ													
 MOON_358		pala̤n²	pŭləan														
 MOON_359	n̩ra																
@@ -190,7 +190,7 @@ MOUTH_379								mɜ̆ɳ³⁴									miːŋ²¹²
 MOUTH_380									moːm²	moːm²	moːm²	mom²			mɔːm¹		
 MOUTH_382	kɛa̯ŋˀ	kaŋ³	kaŋ	kaːŋ³													
 MOUTH_383														snuːj⁴			
-NAVEL_387					suːɲ	suːn		masuɳ⁴	tʰuːɲ³	suːɲ³	suːɲ³		ɲə⁴lo⁵¹tun³	pʰaɲuːɲ³			roŋ⁴⁵
+NAVEL_387					suːɲ	suːn		masuɳ⁴	tʰuːɲ³	suːɲ³	suːɲ³		ɲə⁴lo⁵¹tun³	pʰaɲuːɲ³			ɹoŋ⁴⁵
 NAVEL_388	uɗuh	ɕiɗul³	dŭduəh	duduːl³													
 NECK_393					kaw	koː	kaw					ko⁵					koː²¹⁴
 NECK_394									kɛːə¹	kɛːl¹	kɛːn¹						
@@ -209,7 +209,7 @@ OLD (USED)_416		kɯɽa¹						tʰala³²⁴
 OLD (USED)_417	ulɔː																
 OLD (USED)_418														tʰaw¹			
 ONE_423	mui̯c	muc⁴	moi̯c	mʊːc⁵³	moːc	moːt	muːc	moc³⁴	moːt⁵³	moːc⁵³	moːt⁵³	mot⁵³	mot⁵³	muːt¹	moːt⁵³	moːt⁵³	mok²¹²
-PATH OR ROAD_426		ta̤ŋ²	tɨaŋ	tɯa̤ŋ								taŋ²ti¹ʔ	ʔaŋ²di¹				duonɡ
+PATH OR ROAD_426		ta̤ŋ²	tɨaŋ	tɯa̤ŋ								taŋ²ti¹ʔ	ʔaŋ²di¹				jɨə̯ŋ²¹
 PATH OR ROAD_427	urɛa̯ʔ				kʰlaː	klaː	kʰlaː		tʰaː³	kʰaː³	kʰaː³			kʰalaː²			
 PERSON_432		ŋai̯²	ŋaj									ŋaj²	ŋaj²				ŋɨːi̯²¹
 PERSON_434				kɔːn¹	kun	kun	kɔn							kon			
@@ -219,7 +219,7 @@ RAIN (PRECIPITATION)_442														maloːj²
 RAIN (PRECIPITATION)_443								sɯŋ⁴									
 RED_446	ikaːlˀ	tɔ⁴	tɔ	tɔː⁵¹				tɔh³	tɔː⁵	tɔː⁵	dɔː⁵	tɔ⁵	ʔɔ⁵	tɔh¹		dɔː⁵⁵	ɗɔː²¹⁴
 RED_447					kaon		kɔːl										
-ROOT_451	ri	lɛl̥³	ljɛ	ljɛlʰ¹				lɛl³⁴	rac²	tʰac²	aɛc²	rɛt⁵³		hɛh	lɛːl⁵¹		reː²¹⁴
+ROOT_451	ri	lɛl̥³	ljɛ	ljɛlʰ¹				lɛl³⁴	rac²	tʰac²	aɛc²	rɛt⁵³		hɛh	lɛːl⁵¹		ɹeː²¹⁴
 ROOT_452																ʐeː²	
 ROPE_453		ca̤k⁴	cak	cəak⁵³					caːk⁵³	caːk⁵³		cak⁵³	tak⁵³mun⁵		cɐːk⁵³	caːk⁵³	caːk²¹²
 ROPE_454	ariɲ																
@@ -299,14 +299,14 @@ THOU_12	mɯi̯	ʔami¹	mi	mi	məi	miː	mei								miː²	məj²	mai̯²¹
 THOU_14												jə̆w¹	zaw¹				
 THOU_15														tʰəw¹			
 THOU_16								căk									
-TIE_598									klɔːj³	klɔːj³		ʈɔj³	ʔlɔj³				troi
+TIE_598									klɔːj³	klɔːj³		ʈɔj³	ʔlɔj³				ʈɔːi̯⁴⁵
 TIE_599	n̩ʥʌ̆t																
 TIE_600					pɨak	pjak	pjak							poːk¹			
 TIE_601		ʄăk³	ʔjăk														
 TIE_603								mat³⁴									
 TONGUE_608	lieh	la̤ɽ⁴	ləarl	ləalʰ²	laːc	laːt	laːc	lal³	laːj⁵¹	laːj⁴⁵	laːj⁴⁵			laʤʰ¹	lɐːl⁵¹	laːn⁵⁵	lɨːi̯²¹⁴
-TOOTH_611	atʰăŋ	kaɕăŋ¹	kasăŋ	kəsaŋ¹				kasăŋ³		saŋ¹	saŋ¹	tăŋ¹		ksaŋ¹			ranɡ
-TREE_615		kɤ̤i̯²	kəʌj	kəj¹	kɔn	kaw	kʌl	kil³	kaə¹	kəl¹	kən¹	kən¹			kʌl²		cay
+TOOTH_611	atʰăŋ	kaɕăŋ¹	kasăŋ	kəsaŋ¹				kasăŋ³		saŋ¹	saŋ¹	tăŋ¹		ksaŋ¹			ɹăŋ³³
+TREE_615		kɤ̤i̯²	kəʌj	kəj¹	kɔn	kaw	kʌl	kil³	kaə¹	kəl¹	kən¹	kən¹			kʌl²		kəi̯³³
 TREE_616	ʨirʌŋ																
 TREE_617														tʰaŋ²			
 TWO_621	hɛa̯l	hal¹	hal	haːl¹	haːn	haːl	haːl	hal³⁴	haːə¹	haːl¹	haːn¹	han¹	han¹	haːl¹	haːl¹	haːn¹	haːi̯³³
@@ -325,7 +325,7 @@ WHAT_643				kɛ													ji²¹
 WHAT_644					ciː		ciː					si¹	ci¹				
 WHAT_646	amɯ̆h	camɤ³	cămə					mʌ									
 WHAT_647														ʔahəː³			
-WHITE_649												ʈăŋ³	lăŋ³				tranɡ
+WHITE_649												ʈăŋ³	lăŋ³				ʈăŋ⁴⁵
 WHITE_650					plɔːk	plɔːk	plɔk		lɔːk⁵³	lɔːk⁵³				lɔːk³			
 WHITE_651															pɐːk⁵³		
 WHITE_652		takal¹	tə̆kal	cakal				lɒk³⁴									
@@ -334,5 +334,5 @@ WHO_656		ʔaʔai̯¹	ʔaj	ʔaj	ʔaɛ	ʔeː	ʔae		ʔaːj¹	ʔaːj¹		aj¹	aj¹		�
 WHO_657	iɗɯm																
 WHO_658														noː¹			
 WHO_659								ʔavɛ³									
-WIDE_662	roŋˀ		ʒuoŋ		ɣoːŋ		ʰloːŋ		ʐoːŋ⁴	tʰoːŋ⁴⁵					roːŋ⁴	ʐɔːŋ¹	rɔŋ͡m²¹²
+WIDE_662	roŋˀ		ʒuoŋ		ɣoːŋ		ʰloːŋ		ʐoːŋ⁴	tʰoːŋ⁴⁵					roːŋ⁴	ʐɔːŋ¹	ɹɔŋ͡m²¹²
 WIND_666	kaʑɒʔ	kuʑɔ³	kăjɔ	kəjɔː³	jɔː	kăjɔː	jɔː	ka³zɔ³⁴³	sɔː³	sɔː³	sɔː³	sɔ³		kjuː¹	sɒː³	jwa³	jɔː⁴⁵

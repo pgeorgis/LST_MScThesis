@@ -1,6 +1,6 @@
 from phonetic_distance import *
 from phoneme_correspondences import PhonemeCorrDetector
-from auxiliary_functions import adaptation_surprisal
+from auxiliary_functions import surprisal, adaptation_surprisal
 import itertools
 from asjp import ipa2asjp
 from nltk import edit_distance
@@ -281,9 +281,11 @@ def segmental_word_sim(alignment, c_weight=0.5, v_weight=0.3, syl_weight=0.2):
 
 
 #%%
+
+
 combined_surprisal_dicts = {}
 scored_WAS = {}
-def mutual_surprisal(pair1, pair2, **kwargs):
+def mutual_surprisal(pair1, pair2, ngram_size=1, **kwargs):
     if (pair1, pair2) in scored_WAS:
         return scored_WAS[(pair1, pair2)]
     
@@ -304,14 +306,14 @@ def mutual_surprisal(pair1, pair2, **kwargs):
         
         #Calculate phoneme surprisal if not already done
         if len(lang1.phoneme_surprisal[lang2]) == 0:
-            surprisal_dict_l1l2 = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(**kwargs)
+            surprisal_dict_l1l2 = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(ngram_size=ngram_size, **kwargs)
         if len(lang2.phoneme_surprisal[lang1]) == 0:
-            surprisal_dict_l2l1 = surprisal_dict_l2l1 = PhonemeCorrDetector(lang2, lang1).calc_phoneme_surprisal(**kwargs)
+            surprisal_dict_l2l1 = PhonemeCorrDetector(lang2, lang1).calc_phoneme_surprisal(ngram_size=ngram_size, **kwargs)
             
         #Calculate the word-adaptation surprisal in each direction
         #(note: alignment needs to be reversed to run in second direction)
-        WAS_l1l2 = adaptation_surprisal(alignment, lang1.phoneme_surprisal[lang2], normalize=False)
-        WAS_l2l1 = adaptation_surprisal(reverse_alignment(alignment), lang2.phoneme_surprisal[lang1], normalize=False)
+        WAS_l1l2 = adaptation_surprisal(alignment, lang1.phoneme_surprisal[lang2], normalize=False, ngram_size=ngram_size)
+        WAS_l2l1 = adaptation_surprisal(reverse_alignment(alignment), lang2.phoneme_surprisal[lang1], normalize=False, ngram_size=ngram_size)
         
         #Calculate self-surprisal values in each direction
         self_surprisal1 = lang1.calculate_infocontent(word1)
@@ -326,9 +328,9 @@ def mutual_surprisal(pair1, pair2, **kwargs):
         #Return the average of these two values
         return mean([WAS_l1l2, WAS_l2l1])
 
-def surprisal_sim(pair1, pair2, **kwargs):
+def surprisal_sim(pair1, pair2, ngram_size=1, **kwargs):
     #Return mutual surprisal distance as similarity: math.e**-distance = 1/(math.e**distance)
-    return math.e**-(mutual_surprisal(pair1, pair2, **kwargs))
+    return math.e**-(mutual_surprisal(pair1, pair2, ngram_size=ngram_size, **kwargs))
     #another possibility: mutual surprisal in relation to phoneme entropy; if it exceeds the phoneme entropy then similarity is 0
 
 combined_PMI_dicts = {}
@@ -404,8 +406,33 @@ def LevenshteinDist(word1, word2, normalize=True, asjp=True):
     
 
 #%%
-def hybrid():
-    pass
+hybrid_scores = {}
+def hybrid_distance(pair1, pair2, funcs, func_sims, weights=None, **kwargs):
+    if weights == None:
+        weights = [1/len(funcs) for i in range(len(funcs))]
+    if (pair1, pair2, tuple(functions), tuple(weights)) in scored_word_pmi:
+        return hybrid_scores[(pair1, pair2, functions, weights)]
+    
+    else:
+        word1, lang1 = pair1
+        word2, lang2 = pair2
+        
+        scores = {}
+        for func, func_sim, weight in zip(funcs, func_sims, weights):
+            if weight > 0:
+                score = func(pair1, pair2, **kwargs)
+                if func_sim == True:
+                    score = 1 - score
+                scores[func] = score * weight
+            else:
+                scores[func] = 0
+        
+        hybrid_score = sum(scores.values())
+        hybrid_scores[(pair1, pair2, tuple(functions), tuple(weights))] = hybrid_score
+        return hybrid_score, scores#, hybrid_score
+        
+    
+#%%
     
 def Z_score(p_values):
     neg_log_p = [-math.log(p) for p in p_values]

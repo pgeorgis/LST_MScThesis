@@ -6,7 +6,7 @@ lang_data <- read.csv("Languages.csv", sep="\t")
 lang_data[lang_data$Dataset=='Hokan',"Family"] = 'Hokan'
 
 #Map all languages
-map.feature(languages=lang_data$Name, features=lang_data$Family, latitude=lang_data$Latitude, longitude=lang_data$Longitude)
+map.feature(languages=lang_data$Name, features=lang_data$Family, latitude=lang_data$Latitude, longitude=lang_data$Longitude, color='Paired', zoom.control = TRUE)
 
 #Map Hokan
 hokan = lang_data[lang_data$Dataset=='Hokan',]
@@ -106,4 +106,11 @@ bantu_subfamilies = bantu$Classification
 bantu_subfamilies = strsplit(bantu_subfamilies, ",")
 bantu_subfamilies = sapply(bantu_subfamilies, "[", 4)
 map.feature(languages=bantu$Name, features=bantu_subfamilies, latitude=bantu$Latitude, longitude=bantu$Longitude)
+
+#Map Vietic
+vietic <- lang_data[lang_data$Dataset=='Vietic',]
+vietic_subfamilies = vietic$Classification
+vietic_subfamilies = strsplit(vietic_subfamilies, ",")
+vietic_subfamilies = sapply(vietic_subfamilies, "[", 3)
+map.feature(languages=vietic$Name, features=vietic_subfamilies, latitude=vietic$Latitude, longitude=vietic$Longitude, zoom.control = TRUE)
 

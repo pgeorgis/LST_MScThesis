@@ -83,7 +83,7 @@ conversion_dict = {#Consonants
 
 digraphs = []
 slashes = []
-def fix_tr(tr, lang):
+def fix_tr(tr, lang, orth):
     segments = tr.split()
     fixed = []
     for seg in segments:
@@ -103,11 +103,22 @@ def fix_tr(tr, lang):
     
     if lang == 'Vietnamese':
         fixed = re.sub('ð', 'ɗ', fixed) #typo mistake in source
+        fixed = re.sub('r', 'ɹ', fixed) #Hồ Chí Minh City dialect
         
-        if fixed == 'ɗuoi': #this word was not properly transcribed into IPA in source
-            fixed = 'ɗuəi̯'
-            fixed += '³³' #tone mising in this word
-        
+        #These words were not properly transcribed into IPA, or are missing tones
+        fix_dict = {'đuôi':'ɗuəi̯³³', #tail
+                    'trǎng':'ʈăŋ³³', #moon
+                    'trǎ́ng':'ʈăŋ⁴⁵', #white
+                    'cǎ́n':'kăŋ⁴⁵', #bite
+                    'ǎn':'ʔăŋ³³', #eat
+                    'mạ̌t':'măk⁴⁵', #eye
+                    'nǎ̀m':'năm²¹', #lie (rest)
+                    'dường':'jɨə̯ŋ²¹', #path or road
+                    'trói, thắt / buộc':'ʈɔːi̯⁴⁵', #tie
+                    'rǎng / nanh "canine tooth"':'ɹăŋ³³', #tooth
+                    'сây':'kəi̯³³', #tree
+                    }
+        fixed = fix_dict.get(orth, fixed)
     
     return fixed
 
@@ -149,7 +160,7 @@ for index, entry in forms_data.iterrows():
     new_entry['ISO 639-3'] = iso_code if type(iso_code) != float else ''
     new_entry['Parameter_ID'] = concepticon_gloss
     new_entry['Value'] = entry['Value']
-    new_entry['Form'] = fix_tr(tr, new_name)
+    new_entry['Form'] = fix_tr(tr, new_name, new_entry['Value'])
     new_entry['Segments'] = ' '.join(segment_word(new_entry['Form']))
     new_entry['Source_Form'] = tr
     new_entry['Cognate_ID'] = cognate_id

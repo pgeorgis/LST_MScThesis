@@ -2,7 +2,7 @@ from lingpy import *
 from load_languages import *
 from auxiliary_functions import csv_to_dict, create_folder
 import re
-
+#%%
 def prepare_lexstat_input(lang_group, 
                        output_file=None,
                        DOCULECT='Language_ID',
@@ -53,31 +53,53 @@ def process_lexstat_data(lang_group, filepath=None):
     cognates = defaultdict(lambda:defaultdict(lambda:[]))
     #Convert characters back to IPA, which were distorted when running LexStat
     tr_fixes = {'à':'à',
+                'ȁ':'ȁ',
                 'á':'á',
                 'â':'â',
                 'ǎ':'ǎ',
                 'ã':'ã',
+                'ḁ':'ḁ',
+                'ă':'ă',
                 'é':'é',
+                'è':'è',
                 'ê':'ê',
                 'ẽ':'ẽ',
                 'ě':'ě',
+                'ĕ':'ĕ',
+                'ḛ':'ḛ',
                 'ì':'ì',
+                'ȉ':'ȉ',
                 'í':'í',
                 'î':'î',
                 'ĩ':'ĩ',
                 'ǐ':'ǐ',
+                'ĭ':'ĭ',
+                'ḭ':'ḭ',
+                'ḿ':'ḿ',
+                'ń':'ń',
+                'ǹ':'ǹ',
+                'ō':'ō',
                 'ó':'ó',
+                'ò':'ò',
+                'ȍ':'ȍ',
                 'ô':'ô',
                 'ǒ':'ǒ',
                 'õ':'õ',
+                'ŏ':'ŏ',
+                'ř':'ř',
                 'ù':'ù',
+                'ȕ':'ȕ',
                 'ú':'ú',
                 'û':'û',
                 'ǔ':'ǔ',
                 'ũ':'ũ',
                 'ṳ':'ṳ',
-                'ř':'ř',
-                '̩̂':'̩̂'
+                'ṵ':'ṵ',
+                'ŭ':'ŭ',
+                'ẅ':'ẅ',
+                'ý':'ý',
+                'ŷ':'ŷ',
+                '̩̂':'̩̂',
                 }
     for i in lexstat_data:
         entry = lexstat_data[i]
@@ -183,7 +205,13 @@ def create_orthographic_cognate_index(lang_group, output_file=None, sep='\t'):
                     f.write('\n')
     
 
-    
+def load_lexstat_clusters(dataset):
+    lexstat_data = process_lexstat_data(dataset)
+    lexstat_data = {concept:{cognate_set:{f'{item[0]} /{item[1]}/' 
+                                          for item in lexstat_data[concept][cognate_set]} 
+                             for cognate_set in lexstat_data[concept]} 
+                    for concept in lexstat_data}
+    return lexstat_data 
     
     
     

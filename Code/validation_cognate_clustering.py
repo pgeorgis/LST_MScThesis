@@ -1,9 +1,11 @@
 #COGNATE CLUSTERING PARAMETER TUNING
 import pandas as pd
 from load_languages import *
+import seaborn as sns
+sns.set(font_scale=1.0)
 
 #%%
-def evaluate_parameters(family, parameters, dist_func, func_sim):
+def evaluate_parameters(family, parameters, dist_func, func_sim, **kwargs):
     #Designate the concept list as all available concepts with >1 entries
     concept_list = [concept for concept in family.concepts.keys() 
                     if len(family.concepts[concept]) > 1]
@@ -26,7 +28,7 @@ def evaluate_parameters(family, parameters, dist_func, func_sim):
         words = list(zip(words, langs))
         
         #Calculate distance matrix only once
-        lm = linkage_matrix(group=words, dist_func=dist_func, sim=func_sim)
+        lm = linkage_matrix(group=words, dist_func=dist_func, sim=func_sim, **kwargs)
         
         #Iterate through clustering thresholds and generate clusters        
         for value in parameters:
@@ -47,11 +49,11 @@ def evaluate_parameters(family, parameters, dist_func, func_sim):
     return bcubed_values
 
 
-def evaluate_family_parameters(families, parameters, dist_func, func_sim):
+def evaluate_family_parameters(families, parameters, dist_func, func_sim, **kwargs):
     #Evaluate parameters
     family_bcubed = defaultdict(lambda:{})
     for family in families:
-        family_bcubed[family.name] = evaluate_parameters(family, parameters, dist_func, func_sim)
+        family_bcubed[family.name] = evaluate_parameters(family, parameters, dist_func, func_sim, **kwargs)
         print('\n')
     return family_bcubed
 
@@ -134,7 +136,7 @@ def load_parameter_file(parameter_file):
 
 #%%
 #Designate validation datasets
-validation_datasets = [Bantu, Hellenic, Japonic, Quechuan, UtoAztecan]
+validation_datasets = [Bantu, Hellenic, Japonic, Quechuan, Uto_Aztecan, Vietic]
 
 #Load phoneme PMI and surprisal for validation datasets
 for vd in validation_datasets:
@@ -144,25 +146,58 @@ for vd in validation_datasets:
     vd.load_phoneme_surprisal()
 
 #Distance/similarity functions
-functions = {'PMI':(score_pmi, False),
+functions = {'Phonetic':(word_sim, True),
              'Surprisal':(surprisal_sim, True),
-             'Phonetic':(word_sim, True)
+             'PMI':(score_pmi, False),
              }
+
+# #Define hybrid functions
+# hybrid_functions = {}
+# function_labels = list(functions.keys())
+# for i in range(len(function_labels)):
+#     for j in range(i+1, len(function_labels)):
+#         label1, label2 = function_labels[i], function_labels[j]
+#         def hybrid_distance(pair1, pair2, functions, func_sims, **kwargs):   
+#         hybrid_functions[f'{label1}-{label2}']
 
 #%%
 #Evaluate validation datasets for all functions with parameters = [0.0, ..., 1.0]
 evaluation = {}
-destination = '../Results/Cognate Clustering/Validation/'
-for func_label in functions:
-    print(f'Evaluating {func_label} parameters...')
-    dist_func, func_sim = functions[func_label]
+destination = '../Results/Cognate Clustering/'
+function_labels = list(functions.keys())
+
+for i in range(len(functions)):
+    func_label1 = function_labels[i]
+    print(f'Evaluating {func_label1} parameters...')
+    dist_func1, func_sim1 = functions[func_label1]
     family_bcubed =  evaluate_family_parameters(validation_datasets,
                                                 parameters=[i/100 for i in range(0,101)],
-                                                dist_func=dist_func, func_sim=func_sim)
+                                                dist_func=dist_func1, func_sim=func_sim1,
+                                                ngram_size=1)
     
     #Save evaluation 
-    evaluation[func_label] = family_bcubed
-    write_parameters(family_bcubed, outputfile=f'{destination}{func_label} Cognate Clustering Performance.csv')
+    evaluation[func_label1] = family_bcubed
+    write_parameters(family_bcubed, outputfile=f'{destination}{func_label1} Cognate Clustering Performance.csv')
+    
+    #Test hybrid distances
+    # for j in range(i+1, len(functions)):
+    #     func_label2 = function_labels[j]
+    #     print(f'Evaluating hybrid {func_label1}-{func_label2} parameters...')
+    #     dist_func2, func_sim2 = functions[func_label2]
+            
+    #     def hyb_dist(pair1, pair2):
+    #         return hybrid_distance(pair1, pair2, funcs=[dist_func, dist_func2], 
+    #                         func_sims=[func_sim, func_sim2])
+        
+    #     hybrid_family_bcubed =  evaluate_family_parameters(validation_datasets,
+    #                                             parameters=[i/100 for i in range(0,101)],
+    #                                             dist_func=hyb_dist, func_sim=False)
+        
+    #     #Save evaluation 
+    #     evaluation[f'{func_label}-{func_label2}'] = hybrid_family_bcubed
+    #     write_parameters(family_bcubed, outputfile=f'{destination}{func_label}-{func_label2} Cognate Clustering Performance.csv')
+    
+    
     
 #%% 
 #Plot all performances
