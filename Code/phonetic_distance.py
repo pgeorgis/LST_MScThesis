@@ -120,10 +120,11 @@ def phone_id(segment):
     
     #Generate feature dictionary for each part and add to main feature dict
     for part in parts:
-        part_id = compact_diacritics(part)
-        for feature in part_id:
-            #Value = 1 (+) overrides value = 0 (-,0)
-            seg_dict[feature] = max(seg_dict[feature], part_id[feature])
+        if len(part.strip()) > 0:
+            part_id = compact_diacritics(part)
+            for feature in part_id:
+                #Value = 1 (+) overrides value = 0 (-,0)
+                seg_dict[feature] = max(seg_dict[feature], part_id[feature])
     
     #Ensure that affricates are +DELAYED RELEASE and -CONTINUANT
     if len(parts) > 1:
@@ -262,6 +263,10 @@ def tonal_features(toneme):
                 if t > 0:
                     if contours[t-1] == 'rise':
                         toneme_id['tone_convex'] = 1
+                                            
+            #Otherwise two equal tone levels in a row, e.g. '⁴⁴²'
+            else:
+                contours[t] = 'level'
     
     return toneme_id
     
@@ -611,11 +616,23 @@ def dice_sim(vec1, vec2):
     return (2*jaccard) / (1+jaccard)
 
 
-#Weights
-feature_weight_data = pd.read_csv('Phones/distinctive_features.csv')
+#Feature Geometry Weights
+#Feature weight calculated as ln(n_distinctions) / (tier**2)
+#where n_distinctions = (n_sisters+1) + (n_descendants)
+feature_geometry = pd.read_csv('Phones/feature_geometry.csv', sep='\t')
+feature_geometry['Tier'] = feature_geometry['Path'].apply(lambda x: len(x.split(' | ')))
+feature_geometry['Parent'] = feature_geometry['Path'].apply(lambda x: x.split(' | ')[-1])
+feature_geometry['N_Sisters'] = feature_geometry['Parent'].apply(lambda x: feature_geometry['Parent'].to_list().count(x))
+feature_geometry['N_Descendants'] = feature_geometry['Feature'].apply(lambda x: len([i for i in range(len(feature_geometry)) 
+                                                                                     if x in feature_geometry['Path'].to_list()[i].split(' | ')]))
+feature_geometry['N_Distinctions'] = (feature_geometry['N_Sisters'] + 1) + (feature_geometry['N_Descendants'])
+weights = [math.log(row['N_Distinctions']) / (row['Tier']**2) for index, row in feature_geometry.iterrows()]
+total_weights = sum(weights)
+normalized_weights = [w/total_weights for w in weights]
+feature_geometry['Weight'] = normalized_weights
+feature_weights = {feature_geometry.Feature.to_list()[i]:feature_geometry.Weight.to_list()[i]
+                   for i in range(len(feature_geometry))}
 
-feature_weights = {feature_weight_data.Feature.to_list()[i]:feature_weight_data['Normalized Weight'].to_list()[i]
-                   for i in range(len(feature_weight_data))}
 
 def weighted_hamming(vec1, vec2, weights=feature_weights):
     diffs = 0
@@ -743,7 +760,6 @@ def align_costs(seq1, seq2,
             
             #If similarity function, turn into distance and ensure it is negative
             if sim == True:
-                #cost = -(1 - cost)
                 if cost > 0:
                     cost = math.log(cost)
                 else:
