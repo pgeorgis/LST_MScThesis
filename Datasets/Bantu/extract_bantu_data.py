@@ -42,6 +42,10 @@ concepticon_dict = {concept_data['ID'][i]:concept_data['Concepticon_Gloss'][i]
 conversion_dict = {#Consonants
                    'g':'ɡ', #replace with proper IPA character
                    
+                   #Implosives: transcribed inconsistently, so turn all implosives into egressive stops
+                   'ɓ':'b',
+                   'ɗ':'d',
+                   
                    #Vowels: tones and nasalized vowels
                    'à':'à', 
                    'á':'á',
@@ -91,7 +95,7 @@ conversion_dict = {#Consonants
 
 digraphs = []
 slashes = []
-def fix_tr(tr):
+def fix_tr(tr, lang, orth, gloss):
     segments = tr.split()
     fixed = []
     for seg in segments:
@@ -108,7 +112,62 @@ def fix_tr(tr):
     
     fixed = ''.join(fixed)
     
-    return fixed
+    if lang == 'Swahili':
+        #Swahili <j> mistranscribed as /j/ --> /ʄ/
+        if 'j' in orth:
+            fixed = re.sub('j', 'ʄ', fixed)
+        
+        #Certain Swahili words transcribed wrong (e.g. without prefix although it is transcribed in other Bantu languages)
+        tr_fixed = {'yumba':('ɲumba', 'nyumba'),  #<nyumba> 'HOUSE' 
+                    'ywele':('ɲwele', 'nywele'), #<nywele> 'HAIR' 
+                    'yoka':('ɲoka', 'nyoka'), #<nyoka> 'SNAKE'
+                    'kono':('mkono', 'mkono'), #<mkono> 'ARM'
+                    'dege':('ndeɡe', 'ndege'), #<ndege> 'BIRD'
+                    'fupa':('mfupa', 'mfupa'), #<mfupa> 'BONE'
+                    'mande':('umande', 'umande'), #<umande> 'DEW'
+                    'bwa':('mbwa', 'mbwa'), #<mbwa> 'DOG'
+                    'dovu':('ndovu', 'ndovu'), #<ndovu> 'ELEPHANT'
+                    'so':('uso', 'uso'), #<uso> 'FACE',
+                    'futa':('mafuta', 'mafuta'), #<mafuta> 'ORGANIC FAT OR OIL'
+                    'ɲoya':('uɲoja', 'unyoya'), #<unyoya> 'FEATHER'
+                    'kucha':('ukuʧa', 'ukucha'), #<ukucha> 'FINGERNAIL'
+                    'oto':('moto', 'moto'), #<moto> 'FIRE'
+                    'buzi':('mbuzi', 'mbuzi'), #<mbuzi> 'GOAT'
+                    'dongo':('udonɡo', 'udongo'), #<udongo> 'EARTH (SOIL)'
+                    'chwa':('kiʧwa', 'kichwa'), #<kichwa> 'HEAD'
+                    'oyo':('mojo', 'moyo'), #<moyo> 'HEART'
+                    'su':('kisu', 'kisu'), #<kisu> 'KNIFE'
+                    'guu':('mɡuu', 'mguu'), #<mguu> 'LEG'
+                    'wanamume':('mwanamume', 'mwanamume'), #<mwanamume> 'MAN'
+                    'wezi':('mwezi', 'mwezi'), #<mwezi> 'MOON'
+                    'tovu':('kitovu', 'kitovu'), #<kitovu> 'NAVEL'
+                    'siku':('usiku', 'usiku'), #<usiku> 'NIGHT'
+                    'tu':('mtu', 'mtu'), #<mtu> 'PERSON'
+                    'vua':('mvua', 'mvua'), #<mvua> 'RAIN (PRECIPITATION)'
+                    'jia':('nʄia', 'njia'), #<njia> 'ROAD'
+                    'zizi':('mzizi', 'mzizi'), #<mzizi> 'ROOT'
+                    'changa':('mʧanɡa', 'mchanga'), #<mchanga> 'SAND'
+                    'gozi':('nɡozi', 'ngozi'), #<ngozi> 'SKIN'
+                    'bingu':('uwinɡu', 'uwingu'), #<uwingu> 'SKY' (<mbingu> is plural)
+                    'oʃi':('moʃi', 'moshi'), #<moshi> 'SMOKE'
+                    'kuki':('mkuki', 'mkuki'), #<mkuki> 'SPEAR'
+                    'kia':('mkia', 'mkia'), #<mkia> 'TAIL'
+                    'limi':('ulimi', 'ulimi'), #<ulimi> 'TONGUE'
+                    'ti':('mti', 'mti'), #<mti> 'TREE'
+                    'bili':('wili', '-wili'), #<-wili> 'TWO' (<mbili> is form in N-class)
+                    'jiji':('kiʄiʄi', 'kijiji'), #<kijiji> 'VILLAGE'
+                    'ta':('kita', 'kita'), #<kita> 'WAR'
+                    'ji':('maʄi', 'maji'), #<maji> 'WATER'
+                    'pepo':('upepo', 'upepo'), #<upepo> 'WIND'
+                    'wanamke':('mwanamke', 'mwanamke'), #<mwanamke> 'WOMAN'
+                    }
+        
+        fixed, orth = tr_fixed.get(orth, (fixed, orth))
+        if gloss == 'MOUTH':
+            fixed, orth = 'kiɲwa', 'kinywa'
+    
+    
+    return fixed, orth
 
 skipped = []
 skipped_cognates = []
@@ -146,8 +205,9 @@ for index, entry in forms_data.iterrows():
     new_entry['Glottocode'] = glottocode
     new_entry['ISO 639-3'] = iso_code if type(iso_code) != float else ''
     new_entry['Parameter_ID'] = concepticon_gloss
-    new_entry['Value'] = entry['Value']
-    new_entry['Form'] = fix_tr(tr)
+    tr, orth = fix_tr(tr, new_name, entry['Value'], concepticon_gloss)
+    new_entry['Value'] = orth
+    new_entry['Form'] = tr
     new_entry['Segments'] = ' '.join(segment_word(new_entry['Form']))
     new_entry['Source_Form'] = tr
     new_entry['Cognate_ID'] = cognate_id

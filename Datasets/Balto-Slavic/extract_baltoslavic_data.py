@@ -78,6 +78,7 @@ def fix_tr(tr):
                 'ū':'ū',
                 'ǔ':'ǔ',
                 '̩̂':'̩̂',
+                '̩̂':'̩̂',
                 }
     
     for non_ipa_ch in tr_fixes:
