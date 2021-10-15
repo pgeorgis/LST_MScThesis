@@ -150,7 +150,8 @@ families <- c('Arabic',
               'Hellenic',
               'Japonic',
               'Quechuan',
-              'Uto-Aztecan'
+              'Uto-Aztecan',
+              'Vietic'
               )
 
 for (family in families) {
