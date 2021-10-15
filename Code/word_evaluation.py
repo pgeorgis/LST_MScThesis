@@ -285,7 +285,7 @@ def segmental_word_sim(alignment, c_weight=0.5, v_weight=0.3, syl_weight=0.2):
 
 combined_surprisal_dicts = {}
 scored_WAS = {}
-def mutual_surprisal(pair1, pair2, ngram_size=1, **kwargs):
+def mutual_surprisal(pair1, pair2, **kwargs):
     if (pair1, pair2) in scored_WAS:
         return scored_WAS[(pair1, pair2)]
     
@@ -306,14 +306,14 @@ def mutual_surprisal(pair1, pair2, ngram_size=1, **kwargs):
         
         #Calculate phoneme surprisal if not already done
         if len(lang1.phoneme_surprisal[lang2]) == 0:
-            surprisal_dict_l1l2 = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(ngram_size=ngram_size, **kwargs)
+            surprisal_dict_l1l2 = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(**kwargs)
         if len(lang2.phoneme_surprisal[lang1]) == 0:
-            surprisal_dict_l2l1 = PhonemeCorrDetector(lang2, lang1).calc_phoneme_surprisal(ngram_size=ngram_size, **kwargs)
+            surprisal_dict_l2l1 = PhonemeCorrDetector(lang2, lang1).calc_phoneme_surprisal(**kwargs)
             
         #Calculate the word-adaptation surprisal in each direction
         #(note: alignment needs to be reversed to run in second direction)
-        WAS_l1l2 = adaptation_surprisal(alignment, lang1.phoneme_surprisal[lang2], normalize=False, ngram_size=ngram_size)
-        WAS_l2l1 = adaptation_surprisal(reverse_alignment(alignment), lang2.phoneme_surprisal[lang1], normalize=False, ngram_size=ngram_size)
+        WAS_l1l2 = adaptation_surprisal(alignment, lang1.phoneme_surprisal[lang2], normalize=False)
+        WAS_l2l1 = adaptation_surprisal(reverse_alignment(alignment), lang2.phoneme_surprisal[lang1], normalize=False)
         
         #Calculate self-surprisal values in each direction
         self_surprisal1 = lang1.calculate_infocontent(word1)
@@ -328,11 +328,32 @@ def mutual_surprisal(pair1, pair2, ngram_size=1, **kwargs):
         #Return the average of these two values
         return mean([WAS_l1l2, WAS_l2l1])
 
-def surprisal_sim(pair1, pair2, ngram_size=1, **kwargs):
-    #Return mutual surprisal distance as similarity: math.e**-distance = 1/(math.e**distance)
-    return math.e**-(mutual_surprisal(pair1, pair2, ngram_size=ngram_size, **kwargs))
-    #another possibility: mutual surprisal in relation to phoneme entropy; if it exceeds the phoneme entropy then similarity is 0
+surprisal_sims = {}
+def surprisal_sim(pair1, pair2, **kwargs):
+    try:
+        return surprisal_sims[(pair1, pair2)] 
+    except KeyError:
+        score = math.e**-(mutual_surprisal(pair1, pair2, **kwargs))
+        surprisal_sims[(pair1, pair2)] = score
+        return score
 
+#%%
+def phonetic_surprisal(alignment, surprisal_dict, normalize=True):
+    values = [surprisal_dict[pair[0]][pair[1]] for pair in alignment]
+    for i in range(len(alignment)):
+        pair = alignment[i]
+        if '-' not in pair:
+            phone_dist = 1 - phone_sim(pair[0], pair[1])
+        else:
+            phone_dist = 1
+        values[i] *= phone_dist
+    if normalize == True:
+        return mean(values)
+    else:
+        return sum(values)
+
+
+#%%
 combined_PMI_dicts = {}
 def combine_PMI(lang1, lang2, **kwargs):
     #Return already calculated dictionary if possible
@@ -407,11 +428,11 @@ def LevenshteinDist(word1, word2, normalize=True, asjp=True):
 
 #%%
 hybrid_scores = {}
-def hybrid_distance(pair1, pair2, funcs, func_sims, weights=None, **kwargs):
+def old_hybrid_distance(pair1, pair2, funcs, func_sims, weights=None, **kwargs):
     if weights == None:
         weights = [1/len(funcs) for i in range(len(funcs))]
-    if (pair1, pair2, tuple(functions), tuple(weights)) in scored_word_pmi:
-        return hybrid_scores[(pair1, pair2, functions, weights)]
+    if (pair1, pair2, tuple(funcs), tuple(weights)) in scored_word_pmi:
+        return hybrid_scores[(pair1, pair2, tuple(funcs), tuple(weights))]
     
     else:
         word1, lang1 = pair1
@@ -428,10 +449,53 @@ def hybrid_distance(pair1, pair2, funcs, func_sims, weights=None, **kwargs):
                 scores[func] = 0
         
         hybrid_score = sum(scores.values())
-        hybrid_scores[(pair1, pair2, tuple(functions), tuple(weights))] = hybrid_score
+        hybrid_scores[(pair1, pair2, tuple(funcs), tuple(weights))] = hybrid_score
         return hybrid_score, scores#, hybrid_score
-        
+
+
+def new_hybrid_distance(pair1, pair2, funcs, func_sims, weights=None, **kwargs):
+    if weights == None:
+        weights = [1/len(funcs) for i in range(len(funcs))]
+    assert sum(weights) == 1
     
+    if (pair1, pair2, tuple(funcs), tuple(weights)) in scored_word_pmi:
+        return hybrid_scores[(pair1, pair2, tuple(funcs), tuple(weights))]
+    
+    else:
+        word1, lang1 = pair1
+        word2, lang2 = pair2
+        
+        scores = {}
+        for func, func_sim, weight in zip(funcs, func_sims, weights):
+            if weight > 0:
+                if len(lang1.noncognate_thresholds[(lang2, func)]) > 0:
+                    noncognate_scores = lang1.noncognate_thresholds[(lang2, func)]
+                else:
+                    noncognate_scores = PhonemeCorrDetector(lang1, lang2).noncognate_thresholds(func, **kwargs) 
+                nc_len = len(noncognate_scores)
+                
+                score = func(pair1, pair2, **kwargs)
+                
+                #Turn each score into a p-value compared to the non-synonymous words evaluated with the same method
+                if func_sim == True:
+                    p_value = (len([s for s in noncognate_scores if s >= score])+1) / (nc_len+1)
+                else:
+                    p_value = (len([s for s in noncognate_scores if s <= score])+1) / (nc_len+1)
+                
+                #Then use each p-value as a normalized distance, then weighted
+                scores[func] = p_value * weight
+                
+            else:
+                scores[func] = 0
+        
+        hybrid_score = sum(scores.values())
+        hybrid_scores[(pair1, pair2, tuple(funcs), tuple(weights))] = hybrid_score
+        return hybrid_score
+
+def hybrid_distance(pair1, pair2, funcs, func_sims, **kwargs):
+    pass
+
+
 #%%
     
 def Z_score(p_values):

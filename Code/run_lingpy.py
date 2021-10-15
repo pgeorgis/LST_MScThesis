@@ -16,8 +16,10 @@ def prepare_lexstat_input(lang_group,
         f.write('DOCULECT\tCONCEPT\tTOKENS\n')
         for i in lang_group.data:
             entry = lang_group.data[i]
-            line = '\t'.join([entry[DOCULECT], entry[CONCEPT], entry[TOKENS]])
-            f.write(f'{line}\n')
+            doculect, concept, tokens = entry[DOCULECT], entry[CONCEPT], entry[TOKENS]
+            if tokens.strip() != '':
+                line = '\t'.join([doculect, concept, tokens])
+                f.write(f'{line}\n')
     print(f'Wrote data to {output_file}.')
         
     
@@ -31,35 +33,23 @@ def run_lexstat(lang_group,
         output_file = f'{lang_group.directory}/LexStat/LexStat_input_{lang_group.name}.tsv'
     prepare_lexstat_input(lang_group, output_file, DOCULECT, CONCEPT, TOKENS)
     wl = Wordlist(output_file)
-    lex = LexStat(output_file , segments='tokens', check=False) #previously False 
+    lex = LexStat(output_file , segments='tokens', check=True) #previously False 
     lex.get_scorer()
     #lex.output('tsv', filename=f'{lang_group.directory}/LexStat/LexStat_output_{lang_group.name}.bin', ignore=[])
     lex.cluster(method='lexstat', threshold=0.60, ref='lexstatid')
     lex.output('tsv', filename=f'{lang_group.directory}/LexStat/LexStat_{lang_group.name}-lexstat')
     #lex = LexStat(f'{lang_group.directory}/LexStat/LexStat_output_{lang_group.name}.bin.tsv')
     
-    
-def process_lexstat_data(lang_group, filepath=None):
-    if filepath == None:
-        create_folder('LexStat', lang_group.directory)
-        filepath = f'{lang_group.directory}/LexStat/LexStat_{lang_group.name}-lexstat.tsv'
-
-    try:
-        lexstat_data = csv_to_dict(filepath, sep='\t', start=3)
-    except FileNotFoundError:
-        run_lexstat(lang_group, output_file=filepath)
-        lexstat_data = csv_to_dict(filepath, sep='\t', start=3)
-    
-    cognates = defaultdict(lambda:defaultdict(lambda:[]))
-    #Convert characters back to IPA, which were distorted when running LexStat
-    tr_fixes = {'à':'à',
+tr_fixes = {'à':'à',
                 'ȁ':'ȁ',
                 'á':'á',
+                'ā':'ā',
                 'â':'â',
                 'ǎ':'ǎ',
                 'ã':'ã',
                 'ḁ':'ḁ',
                 'ă':'ă',
+                'ǣ':'ǣ',
                 'é':'é',
                 'è':'è',
                 'ê':'ê',
@@ -67,6 +57,7 @@ def process_lexstat_data(lang_group, filepath=None):
                 'ě':'ě',
                 'ĕ':'ĕ',
                 'ḛ':'ḛ',
+                'ë':'ë',
                 'ì':'ì',
                 'ȉ':'ȉ',
                 'í':'í',
@@ -75,6 +66,7 @@ def process_lexstat_data(lang_group, filepath=None):
                 'ǐ':'ǐ',
                 'ĭ':'ĭ',
                 'ḭ':'ḭ',
+                'ī':'ī',
                 'ḿ':'ḿ',
                 'ń':'ń',
                 'ǹ':'ǹ',
@@ -96,11 +88,29 @@ def process_lexstat_data(lang_group, filepath=None):
                 'ṳ':'ṳ',
                 'ṵ':'ṵ',
                 'ŭ':'ŭ',
+                'ū':'ū',
                 'ẅ':'ẅ',
                 'ý':'ý',
                 'ŷ':'ŷ',
+                'ỹ':'ỹ',
                 '̩̂':'̩̂',
-                }
+                '̩̂':'̩̂',
+                }    
+    
+def process_lexstat_data(lang_group, tr_fixes=tr_fixes, filepath=None):
+    if filepath == None:
+        create_folder('LexStat', lang_group.directory)
+        filepath = f'{lang_group.directory}/LexStat/LexStat_{lang_group.name}-lexstat.tsv'
+
+    try:
+        lexstat_data = csv_to_dict(filepath, sep='\t', start=3)
+    except FileNotFoundError:
+        run_lexstat(lang_group, output_file=filepath)
+        lexstat_data = csv_to_dict(filepath, sep='\t', start=3)
+    
+    cognates = defaultdict(lambda:defaultdict(lambda:[]))
+    #Convert characters back to IPA, which were distorted when running LexStat
+    
     for i in lexstat_data:
         entry = lexstat_data[i]
         if entry['LEXSTATID'] != '':
@@ -205,12 +215,25 @@ def create_orthographic_cognate_index(lang_group, output_file=None, sep='\t'):
                     f.write('\n')
     
 
-def load_lexstat_clusters(dataset):
+def adjust_characters(lexstat_ch):
+    for ch in tr_fixes:
+        lexstat_ch = re.sub(ch, tr_fixes[ch], lexstat_ch)
+    return lexstat_ch
+    
+
+def load_lexstat_clusters(dataset, concept_set=None):
     lexstat_data = process_lexstat_data(dataset)
-    lexstat_data = {concept:{cognate_set:{f'{item[0]} /{item[1]}/' 
+    
+    if concept_set == None:
+        concept_set = list(lexstat_data.keys())
+    else:
+        concept_set = [concept for concept in lexstat_data if concept in concept_set]
+    
+    
+    lexstat_data = {concept:{cognate_set:{f'{adjust_characters(item[0])} /{item[1]}/' 
                                           for item in lexstat_data[concept][cognate_set]} 
                              for cognate_set in lexstat_data[concept]} 
-                    for concept in lexstat_data}
+                    for concept in concept_set}
     return lexstat_data 
     
     

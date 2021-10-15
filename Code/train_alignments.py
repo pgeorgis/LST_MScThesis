@@ -1,11 +1,12 @@
 import os, glob, re, itertools
 from collections import defaultdict
 from matplotlib import pyplot as plt
+import seaborn as sns
+sns.set(font_scale=1.0)
 from auxiliary_functions import *
 from pathlib import Path
 local_dir = Path(str(os.getcwd()))
 parent_dir = local_dir.parent
-os.chdir('Distance_Measures/')
 from phonetic_distance import *
 os.chdir(local_dir)
 
@@ -99,14 +100,15 @@ for alignment in multiple_alignments:
     alignment_datasets[format_as_variable(alignment.group)].append(alignment)
 globals().update(alignment_datasets)
 
-test_datasets = [Andean, Bai, Germanic, Japanese, Ob_Ugrian, Romance, Sinitic, Slavic]
-#not including: French (recursion error, what is the source of this?), Bulgarian/Norwegian/Dutch (too big)
+test_datasets = [Andean, Bai, French, Germanic, Japanese, Ob_Ugrian, Romance, Sinitic, Slavic]
+#not including: Bulgarian/Norwegian/Dutch (too big)
 
 #%%
 def test_alignments(dataset, 
                     align_func=phone_align,
                     gap_ch='-',
-                    **kwargs): #E.G. segmented=True, sim=True
+                    print_progress=True,
+                    **kwargs):
     correct = defaultdict(lambda:[])
     incorrect = defaultdict(lambda:[])
     for align_set in dataset:
@@ -116,13 +118,10 @@ def test_alignments(dataset,
             gold_alignment = align_set.pairwise[variety_pair]
             segs1 = [pair[0] for pair in gold_alignment if pair[0] != gap_ch]
             segs2 = [pair[1] for pair in gold_alignment if pair[1] != gap_ch]
-            #alignment_costs = align_costs(segs1, segs2, dist_func, sim)
-            #auto_alignment = best_alignment(SEQUENCE_1=segs1, SEQUENCE_2=segs2, 
-            #                                SCORES_DICT=alignment_costs, GAP_SCORE=gop)
             try:
                 auto_alignment = align_func(segs1, segs2, **kwargs)
-            except KeyError:
-                print(gold_alignment)
+            except IndexError:
+                print(variety_pair, gold_alignment)
                 raise KeyError
                 
             #need to standardize order because they might yield same alignment but
@@ -134,7 +133,8 @@ def test_alignments(dataset,
             else:
                 incorrect[variety_pair].append((''.join(segs1), ''.join(segs2), gold_alignment, auto_alignment))
                 n_incorrect += 1
-        print(f'{align_set.gloss}\n\tAccuracy: {round(n_correct/(n_correct+n_incorrect), 2)}')
+        if print_progress == True:
+            print(f'{align_set.gloss}\n\tAccuracy: {round(n_correct/(n_correct+n_incorrect), 2)}')
     
     total_correct = sum(len(correct[pair]) for pair in correct)
     total_incorrect = sum(len(incorrect[pair]) for pair in incorrect)
@@ -154,9 +154,14 @@ def test_parameters(datasets=test_datasets,
         group = dataset[0].group
         print(f'TESTING DATASET: {group.upper()}')
         for align_func, gop in parameter_combinations:
-            accuracy, correct, incorrect = test_alignments(dataset=dataset, align_func=align_func, gop=gop, **kwargs)
-            #results[group].append(accuracy)
+            accuracy, correct, incorrect = test_alignments(dataset=dataset, 
+                                                           align_func=align_func, 
+                                                           gop=gop, 
+                                                           segmented=True,
+                                                           print_progress=False,
+                                                           **kwargs)
             results[(align_func, gop)][group] = (accuracy, correct, incorrect)
+            print(f'{gop}: {round(accuracy, 2)}')
         print('\n')
     
     #Get total accuracy if there is more than one dataset
@@ -191,12 +196,12 @@ def plot_results(results, parameter_index, plt_title=None):
     for dataset in datasets:
         values = [results[p][dataset][0] for p in results]
         plt.plot(parameters, values, label=dataset)
-    plt.legend(loc='best')
+    plt.legend(loc='best', prop={'size': 6})
     plt.ylabel('Accuracy')
     plt.xlabel('Parameter Value')
     if plt_title != None:
         plt.title(plt_title)
-        plt.savefig(f'{alignment_dir}/{plt_title}.png', dpi=150)
+        plt.savefig(f'{alignment_dir}/{plt_title}.png', dpi=200)
     plt.show()
     plt.close()
 

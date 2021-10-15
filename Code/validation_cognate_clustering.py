@@ -5,10 +5,16 @@ import seaborn as sns
 sns.set(font_scale=1.0)
 
 #%%
-def evaluate_parameters(family, parameters, dist_func, func_sim, **kwargs):
+def evaluate_parameters(family, parameters, 
+                        dist_func, func_sim, 
+                        concept_list=None, **kwargs):
     #Designate the concept list as all available concepts with >1 entries
-    concept_list = [concept for concept in family.concepts.keys() 
-                    if len(family.concepts[concept]) > 1]
+    if concept_list == None:
+        concept_list = [concept for concept in family.concepts.keys() 
+                        if len(family.concepts[concept]) > 1]
+    else:
+        concept_list = [concept for concept in concept_list 
+                        if len(family.concepts[concept]) > 1]
     
     #Following section accomplishes same as family.cluster_cognates function,
     #but in a more efficient way that doesn't require the linkage matrix to be
@@ -137,7 +143,9 @@ def load_parameter_file(parameter_file):
 #%%
 #Designate validation datasets
 validation_datasets = [Bantu, Hellenic, Japonic, Quechuan, Uto_Aztecan, Vietic]
+test_datasets = [family for family in families.values() if family not in validation_datasets]
 
+#%%
 #Load phoneme PMI and surprisal for validation datasets
 for vd in validation_datasets:
     print(f'Loading {vd.name} phoneme PMI...')
@@ -145,10 +153,13 @@ for vd in validation_datasets:
     print(f'Loading {vd.name} phoneme surprisal...')
     vd.load_phoneme_surprisal()
 
+#%%
 #Distance/similarity functions
-functions = {'Phonetic':(word_sim, True),
-             'Surprisal':(surprisal_sim, True),
+functions = {'Surprisal':(surprisal_sim, True),
              'PMI':(score_pmi, False),
+             'Phonetic':(word_sim, True),
+             #'Combined':(nhd, False),
+             #'Z-Surprisal':(z_score_surprisal, False)
              }
 
 # #Define hybrid functions
@@ -163,43 +174,55 @@ functions = {'Phonetic':(word_sim, True),
 #%%
 #Evaluate validation datasets for all functions with parameters = [0.0, ..., 1.0]
 evaluation = {}
-destination = '../Results/Cognate Clustering/'
+destination = '../Results/Cognate Clustering/Test/Common Concepts/'
+
+#%%
 function_labels = list(functions.keys())
+
 
 for i in range(len(functions)):
     func_label1 = function_labels[i]
-    print(f'Evaluating {func_label1} parameters...')
-    dist_func1, func_sim1 = functions[func_label1]
-    family_bcubed =  evaluate_family_parameters(validation_datasets,
-                                                parameters=[i/100 for i in range(0,101)],
-                                                dist_func=dist_func1, func_sim=func_sim1,
-                                                ngram_size=1)
-    
-    #Save evaluation 
-    evaluation[func_label1] = family_bcubed
-    write_parameters(family_bcubed, outputfile=f'{destination}{func_label1} Cognate Clustering Performance.csv')
-    
-    #Test hybrid distances
-    # for j in range(i+1, len(functions)):
-    #     func_label2 = function_labels[j]
-    #     print(f'Evaluating hybrid {func_label1}-{func_label2} parameters...')
-    #     dist_func2, func_sim2 = functions[func_label2]
+    if func_label1 not in evaluation:
+        print(f'Evaluating {func_label1} parameters...')
+        dist_func1, func_sim1 = functions[func_label1]
+        family_bcubed =  evaluate_family_parameters(test_datasets,
+                                                    parameters=[i/100 for i in range(0,101)],
+                                                    dist_func=dist_func1, func_sim=func_sim1,
+                                                    concept_list=common_concepts)
+        
+        #Save evaluation 
+        evaluation[func_label1] = family_bcubed
+        write_parameters(family_bcubed, outputfile=f'{destination}{func_label1} Cognate Clustering Performance.csv')
+        print(f'Best parameter value for {func_label1}: {optimal_parameter(family_bcubed)}')
+        
+        #Test hybrid distances
+        # for j in range(i+1, len(functions)):
+        #     func_label2 = function_labels[j]
+        #     print(f'Evaluating hybrid {func_label1}-{func_label2} parameters...')
+        #     dist_func2, func_sim2 = functions[func_label2]
+                
+        #     def hyb_dist(pair1, pair2):
+        #         return hybrid_distance(pair1, pair2, funcs=[dist_func, dist_func2], 
+        #                         func_sims=[func_sim, func_sim2])
             
-    #     def hyb_dist(pair1, pair2):
-    #         return hybrid_distance(pair1, pair2, funcs=[dist_func, dist_func2], 
-    #                         func_sims=[func_sim, func_sim2])
+        #     hybrid_family_bcubed =  evaluate_family_parameters(validation_datasets,
+        #                                             parameters=[i/100 for i in range(0,101)],
+        #                                             dist_func=hyb_dist, func_sim=False)
+            
+        #     #Save evaluation 
+        #     evaluation[f'{func_label}-{func_label2}'] = hybrid_family_bcubed
+        #     write_parameters(family_bcubed, outputfile=f'{destination}{func_label}-{func_label2} Cognate Clustering Performance.csv')
         
-    #     hybrid_family_bcubed =  evaluate_family_parameters(validation_datasets,
-    #                                             parameters=[i/100 for i in range(0,101)],
-    #                                             dist_func=hyb_dist, func_sim=False)
-        
-    #     #Save evaluation 
-    #     evaluation[f'{func_label}-{func_label2}'] = hybrid_family_bcubed
-    #     write_parameters(family_bcubed, outputfile=f'{destination}{func_label}-{func_label2} Cognate Clustering Performance.csv')
+
     
-    
-    
-#%% 
+\
+    #%% 
 #Plot all performances
 for func_label in evaluation: 
-    plot_performance(evaluation[func_label], func_label, save_directory=destination)
+    plot_performance(evaluation[func_label], func_label, save_directory=destination,
+                     legend_pos=(0.8, 0.4))
+    optimum = optimal_parameter(evaluation[func_label])
+    print(f'Best parameter value for {func_label}: {optimum}')
+    for family in evaluation[func_label]:
+        print(family, round(evaluation[func_label][family][optimum][2], 3))
+    print('\n')

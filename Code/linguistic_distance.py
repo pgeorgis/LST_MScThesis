@@ -1,4 +1,5 @@
 #from load_languages import *
+from auxiliary_functions import euclidean_dist
 from word_evaluation import *
 from statistics import mean
 import math, random
@@ -45,46 +46,89 @@ def binary_cognate_sim(lang1, lang2, clustered_cognates,
     return sum(sims.values()) / total_cognate_ids
 
 
+cognate_sims = {}
 def cognate_sim(lang1, lang2, clustered_cognates,
                 eval_func, eval_sim, exclude_synonyms=True,
+                clustered_id=None,
                 return_score_dict=False,
                 **kwargs):
-    sims = {}
-    for concept in clustered_cognates:
-        concept_sims = {}
-        l1_wordcount, l2_wordcount = 0, 0
-        for cognate_id in clustered_cognates[concept]:
-            items = [entry.split('/') for entry in clustered_cognates[concept][cognate_id]]
-            items = [(item[0].strip(), item[1]) for item in items]
-            l1_words = [item[1] for item in items if item[0] == lang1.name]
-            l2_words = [item[1] for item in items if item[0] == lang2.name]
-            l1_wordcount += len(l1_words)
-            l2_wordcount += len(l2_words)
-            for l1_word in l1_words:
-                for l2_word in l2_words:
-                    score = eval_func((l1_word, lang1), (l2_word, lang2), **kwargs)
-                    if eval_sim == False:
-                        score = math.e**-score
-                    concept_sims[(l1_word, l2_word)] = score
-                    
-        if len(concept_sims) > 0:
-            if exclude_synonyms == True:
-                sims[concept] = max(concept_sims.values())
-            else:
-                sims[concept] = mean(concept_sims.values())
+    try:
+        return cognate_sims[(lang1, lang2, clustered_id, 
+                             eval_func, eval_sim, exclude_synonyms)]
+    except KeyError:
             
+        
+        sims = {}
+        for concept in clustered_cognates:
+            concept_sims = {}
+            l1_wordcount, l2_wordcount = 0, 0
+            for cognate_id in clustered_cognates[concept]:
+                items = [entry.split('/') for entry in clustered_cognates[concept][cognate_id]]
+                items = [(item[0].strip(), item[1]) for item in items]
+                l1_words = [item[1] for item in items if item[0] == lang1.name]
+                l2_words = [item[1] for item in items if item[0] == lang2.name]
+                l1_wordcount += len(l1_words)
+                l2_wordcount += len(l2_words)
+                for l1_word in l1_words:
+                    for l2_word in l2_words:
+                        score = eval_func((l1_word, lang1), (l2_word, lang2), **kwargs)
+                        if eval_sim == False:
+                            score = math.e**-score
+                        concept_sims[(l1_word, l2_word)] = score
+                        
+                if len(concept_sims) > 0:
+                    if exclude_synonyms == True:
+                        sims[concept] = max(concept_sims.values())
+                    else:
+                        sims[concept] = mean(concept_sims.values())
+                    
+                else:
+                    if (l1_wordcount > 0) and (l2_wordcount > 0):
+                        sims[concept] = 0
+        
+        if return_score_dict == True:
+            return sims 
+        
         else:
-            if (l1_wordcount > 0) and (l2_wordcount > 0):
-                sims[concept] = 0
-    
-    if return_score_dict == True:
-        return sims 
-    
-    else:
-        return mean(sims.values())
+            mean_sim = mean(sims.values())
+            cognate_sims[(lang1, lang2, clustered_id, 
+                          eval_func, eval_sim, exclude_synonyms)] = mean_sim
+            return mean_sim
 
 
-def Z_score_dist(lang1, lang2, eval_func, 
+
+def combined_cognate_sim(lang1, lang2, 
+                         clustered_cognates, 
+                         eval_funcs, eval_sims, weights=None,
+                         exclude_synonyms=True, 
+                         return_score_dict=False,
+                         **kwargs):
+    if weights == None:
+        weights = [1/len(eval_funcs) for i in range(len(eval_funcs))]
+    sim_score = 0
+    for eval_func, eval_sim, weight in zip(eval_funcs, eval_sims, weights):
+        sim_score += (cognate_sim(lang1, lang2, clustered_cognates=clustered_cognates, 
+                                  eval_func=eval_func, eval_sim=eval_sim, **kwargs) * weight)
+    return sim_score
+            
+    
+def hybrid_cognate_dist(lang1, lang2,
+                       clustered_cognates,
+                       eval_funcs, eval_sims,
+                       exclude_synonyms=True,
+                       **kwargs):
+    scores = []
+    for eval_func, eval_sim in zip(eval_funcs, eval_sims):
+        measure = cognate_sim(lang1, lang2, clustered_cognates, 
+                              eval_func=eval_func, eval_sim=eval_sim,
+                              exclude_synonyms=exclude_synonyms)
+        scores.append(1-measure)
+    return euclidean_dist(scores)
+
+
+#%%
+
+def Z_score_dist(lang1, lang2, eval_func, eval_sim,
                  concept_list=None, exclude_synonyms=True,
                  seed=1,
                  **kwargs):
@@ -107,19 +151,24 @@ def Z_score_dist(lang1, lang2, eval_func,
               for concept in word_forms}
     
     #Get the non-synonymous word pair scores against which to calibrate the synonymous word scores
-    PCD = PhonemeCorrDetector(lang1, lang2)
-    random.seed(seed)
-    #Take a sample of different-meaning words, as large as the same-meaning set
-    sample_size = len(PCD.same_meaning)
-    diff_sample = random.sample(PCD.diff_meaning, min(sample_size, len(PCD.diff_meaning)))
-    noncognate_word_forms = [((item[0][2], lang1), (item[1][2], lang2)) for item in diff_sample]
-    noncognate_scores = [eval_func(pair[0], pair[1], **kwargs) for pair in noncognate_word_forms]
+    if len(lang1.noncognate_thresholds[(lang2, eval_func)]) > 0:
+        noncognate_scores = lang1.noncognate_thresholds[(lang2, eval_func)]
+    else:
+        noncognate_scores = PhonemeCorrDetector(lang1, lang2).noncognate_thresholds(eval_func, **kwargs)
     nc_len = len(noncognate_scores)
+        
     
     #Calculate the p-values for the synonymous word pairs against non-synonymous word pairs
-    p_values = {concept:[(len([nc_score for nc_score in noncognate_scores if nc_score >= score])+1) / (nc_len+1) 
-                         for score in scores[concept]] 
-                for concept in scores}
+    if eval_sim == True:
+        p_values = {concept:[(len([nc_score for nc_score in noncognate_scores if nc_score >= score])+1) / (nc_len+1) 
+                             for score in scores[concept]] 
+                    for concept in scores}
+        
+        
+    else:
+        p_values = {concept:[(len([nc_score for nc_score in noncognate_scores if nc_score <= score])+1) / (nc_len+1) 
+                             for score in scores[concept]] 
+                    for concept in scores}
    
     #Exclude synonyms if specified
     if exclude_synonyms == True:

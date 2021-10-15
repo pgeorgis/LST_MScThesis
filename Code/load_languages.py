@@ -108,9 +108,10 @@ class Dataset:
                 if loan == 'TRUE':
                     transcription = f'({transcription})'
                 
-                #Don't add duplicate entries
-                if transcription not in self.cognate_sets[cognate_id][lang.name]:
-                    self.cognate_sets[cognate_id][lang.name].append(transcription)
+                #Don't add duplicate or empty entries
+                if transcription.strip() != '':
+                    if transcription not in self.cognate_sets[cognate_id][lang.name]:
+                        self.cognate_sets[cognate_id][lang.name].append(transcription)
 
     
     def write_vocab_index(self, output_file=None, 
@@ -153,10 +154,9 @@ class Dataset:
         
         #Calculate average mutual coverage
         mutual_coverages = {}
-        for lang_pair in itertools.product(self.languages.keys(), self.languages.keys()):
+        for lang_pair in itertools.product(self.languages.values(), self.languages.values()):
             lang1, lang2 = lang_pair
             if lang1 != lang2:
-                lang1, lang2 = self.languages[lang1], self.languages[lang2]
                 pair_mutual_coverage = len([concept for concept in lang1.vocabulary 
                                             if concept in lang2.vocabulary])
                 mutual_coverages[lang_pair] = pair_mutual_coverage
@@ -206,9 +206,12 @@ class Dataset:
         #Calculate or retrieve PMI values and save them to the specified output file
         with open(output_file, 'w') as f:
             f.write('Language1,Phone1,Language2,Phone2,PMI\n')
-            for lang1 in self.languages.values():
-                for lang2 in self.languages.values():
-                        
+            l = list(self.languages.values())
+            checked = []
+            for pair in itertools.product(l, l):
+                lang1, lang2 = pair
+                if (lang2, lang1) not in checked:
+                    
                     #Check whether phoneme PMI has been calculated already for this pair
                     #If not, calculate it now
                     if len(lang1.phoneme_pmi[lang2]) == 0:
@@ -225,7 +228,8 @@ class Dataset:
                             if pmi[seg1][seg2] != 0:
                                 if abs(pmi[seg1][seg2]) > lang1.phonemes[seg1] * lang2.phonemes[seg2]: #skip extremely small decimals
                                     f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{pmi[seg1][seg2]}\n')
-
+                    
+                    checked.append((lang1, lang2))
     
     def load_phoneme_pmi(self, pmi_file=None, excepted=[]):
         """Loads pre-calculated phoneme PMI values from file"""
@@ -253,9 +257,10 @@ class Dataset:
                 phone1, phone2 = row['Phone1'], row['Phone2']
                 pmi_value = row['PMI']
                 lang1.phoneme_pmi[lang2][phone1][phone2] = pmi_value
+                lang2.phoneme_pmi[lang1][phone2][phone1] = pmi_value
     
     
-    def calculate_phoneme_surprisal(self, output_file=None, ngram_size=1, **kwargs):
+    def calculate_phoneme_surprisal(self, output_file=None, **kwargs):
         """Calculates phoneme surprisal for all language pairs in the dataset and saves
         the results to file"""
         
@@ -264,7 +269,7 @@ class Dataset:
         
         #Specify output file name if none is specified
         if output_file == None:
-            output_file = f'{self.directory}{self.name}_phoneme_surprisal_{ngram_size}gram.csv'
+            output_file = f'{self.directory}{self.name}_phoneme_surprisal.csv'
         
         #Calculate or retrieve surprisal values and save them to the specified output file
         with open(output_file, 'w') as f:
@@ -276,7 +281,7 @@ class Dataset:
                     #If not, calculate it now
                     if len(lang1.phoneme_surprisal[lang2]) == 0:
                         print(f'Calculating phoneme surprisal for {lang1.name} and {lang2.name}...')
-                        phoneme_surprisal = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(ngram_size=ngram_size, **kwargs)
+                        phoneme_surprisal = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(**kwargs)
                     
                     #Else retrieve the precalculated values
                     else:
@@ -296,15 +301,15 @@ class Dataset:
                         #Save values which are not equal to the OOV smoothed value
                         for seg2 in phoneme_surprisal[seg1]:
                             if phoneme_surprisal[seg1][seg2] != oov_smoothed:
-                                f.write(f'{lang1.name},{" ".join(seg1)},{lang2.name},{seg2},{phoneme_surprisal[seg1][seg2]},{oov_smoothed}\n')
+                                f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{phoneme_surprisal[seg1][seg2]},{oov_smoothed}\n')
 
     
-    def load_phoneme_surprisal(self, surprisal_file=None, ngram_size=1, excepted=[]):
+    def load_phoneme_surprisal(self, surprisal_file=None, excepted=[]):
         """Loads pre-calculated phoneme surprisal values from file"""
         
         #Designate the default file name to search for if no alternative is provided
         if surprisal_file == None:
-            surprisal_file = f'{self.directory}{self.name}_phoneme_surprisal_{ngram_size}gram.csv'
+            surprisal_file = f'{self.directory}{self.name}_phoneme_surprisal.csv'
         
         #Try to load the file of saved PMI values
         try:
@@ -313,7 +318,7 @@ class Dataset:
         #If the file is not found, recalculate the surprisal values and save to 
         #a file with the specified name
         except FileNotFoundError:
-            self.calculate_phoneme_surprisal(ngram_size=ngram_size, output_file=surprisal_file)
+            self.calculate_phoneme_surprisal(output_file=surprisal_file)
             surprisal_data = pd.read_csv(surprisal_file)
         
         #Iterate through the dataframe and save the surprisal values to the Language
@@ -323,7 +328,6 @@ class Dataset:
             lang2 = self.languages[row['Language2']]
             if (lang1 not in excepted) and (lang2 not in excepted):
                 phone1, phone2 = row['Phone1'], row['Phone2']
-                phone1 = tuple(phone1.split())
                 surprisal_value = row['Surprisal']
                 if phone1 not in lang1.phoneme_surprisal[lang2]:
                     oov_smoothed = row['OOV_Smoothed']
@@ -378,6 +382,8 @@ class Dataset:
                          cutoff,
                          method='average',
                          **kwargs):
+        concept_list = [concept for concept in concept_list 
+                        if len(self.concepts[concept]) > 1]
         clustered_cognates = {}
         for concept in sorted(concept_list):
             #print(f'Clustering words for "{concept}"...')
@@ -410,11 +416,12 @@ class Dataset:
         cognate clustering against dataset's gold cognate classes"""
         
         precision_scores, recall_scores, f1_scores = {}, {}, {}
+        ch_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ', '(', ')']
         for concept in clustered_cognates:
-            clusters = {'/'.join([item.split('/')[0], strip_ch(item.split('/')[1], [" "])])+'/':set([i]) for i in clustered_cognates[concept] 
+            clusters = {'/'.join([item.split('/')[0], strip_ch(item.split('/')[1], ch_to_remove)])+'/':set([i]) for i in clustered_cognates[concept] 
                         for item in clustered_cognates[concept][i]}
             
-            gold_clusters = {f'{lang} /{strip_ch(tr, ["(", ")", " "])}/':set([c]) 
+            gold_clusters = {f'{lang} /{strip_ch(tr, ch_to_remove)}/':set([c]) 
                              for c in self.cognate_sets 
                              if re.split('[-|_]', c)[0] == concept 
                              for lang in self.cognate_sets[c] 
@@ -632,6 +639,7 @@ class Language(Dataset):
         self.phoneme_surprisal = defaultdict(lambda:defaultdict(lambda:defaultdict(lambda:-self.phoneme_entropy)))
         self.detected_cognates = defaultdict(lambda:[])
         self.detected_noncognates = defaultdict(lambda:[])
+        self.noncognate_thresholds = defaultdict(lambda:[])
         
     def create_vocabulary(self):
         #Remove stress and tone diacritics from segmented words; syllabic diacritics (above and below); spaces
@@ -816,7 +824,7 @@ class Language(Dataset):
                          exclude_length=True, exclude_tones=True,
                          title=None, save_directory=None):
         if title == None:
-            title = f'{self.name} Phonemes'
+            title = f'Phonetic Inventory of {self.name}'
         
         if save_directory == None:
             save_directory = self.family.directory + '/Plots/'
