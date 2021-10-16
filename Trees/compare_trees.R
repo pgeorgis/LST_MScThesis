@@ -113,10 +113,12 @@ for (family in families) {
   family_trees <- list.files(path=paste('Results/', family, sep=''))
   family_trees <- family_trees[grep('.tre', family_trees)]
   gold_trees <- family_trees[grep('gold', family_trees)]
+  gold_trees <- gold_trees[-grep('binary', gold_trees)]
   gold_trees <- paste(local_dir, '/Results/', family, '/', gold_trees, sep='')
   gold_forest <- load_forest(gold_trees)
   
   family_trees <- family_trees[-grep('gold', family_trees)]
+  family_trees <- family_trees[-grep('binary', family_trees)]
   family_trees <- paste(local_dir, '/Results/', family, '/', family_trees, sep='')
   family_forest <- load_forest(family_trees)
   

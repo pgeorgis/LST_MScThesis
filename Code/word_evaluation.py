@@ -1,6 +1,6 @@
 from phonetic_distance import *
 from phoneme_correspondences import PhonemeCorrDetector
-from auxiliary_functions import surprisal, adaptation_surprisal
+from auxiliary_functions import strip_ch, euclidean_dist, surprisal, adaptation_surprisal
 import itertools
 from asjp import ipa2asjp
 from nltk import edit_distance
@@ -25,7 +25,9 @@ def basic_word_sim(word1, word2=None, sim_func=phone_sim, **kwargs):
 
 calculated_word_sims = {}
 def word_sim(word1, word2=None, 
-              sim_func=phone_sim, **kwargs):
+              sim_func=phone_sim, 
+              penalize_infocontent=False,
+              **kwargs):
     """Calculates phonetic similarity of an alignment without weighting by 
     segment type, position, etc.
     
@@ -33,8 +35,8 @@ def word_sim(word1, word2=None,
             or tuple (first word, second language)
     word2 : string (second word) or tuple (second word, second language)"""
     
-    if (word1, word2, sim_func) in calculated_word_sims:
-        return calculated_word_sims[(word1, word2, sim_func)]
+    if (word1, word2, sim_func, penalize_infocontent) in calculated_word_sims:
+        return calculated_word_sims[(word1, word2, sim_func, penalize_infocontent)]
     
     else:
         #If the languages are specified, calculate the informativity of each segment
@@ -84,8 +86,9 @@ def word_sim(word1, word2=None,
                     
                     #Check whether information content was calculated
                     #If so, retrieve information content of deleted segment
-                    if (lang1, lang2) != (None, None): 
-                        index = len([alignment[j][1] for j in range(i) if alignment[j][1] != '-'])
+                    index = len([alignment[j][1] for j in range(i) if alignment[j][1] != '-'])
+                    if penalize_infocontent == True:
+                        assert (lang1, lang2) != (None, None)
                         seg_info = word_info2[index][1]
                         penalty *= seg_info
                     
@@ -93,8 +96,9 @@ def word_sim(word1, word2=None,
                     deleted_segment = seg1
                     #Check whether information content was calculated
                     #If so, retrieve information content of deleted segment
-                    if (lang1, lang2) != (None, None): 
-                        index = len([alignment[j][0] for j in range(i) if alignment[j][0] != '-'])
+                    index = len([alignment[j][0] for j in range(i) if alignment[j][0] != '-'])
+                    if penalize_infocontent == True:
+                        assert (lang1, lang2) != (None, None)
                         seg_info = word_info1[index][1]
                         penalty *= seg_info
                 
@@ -216,9 +220,9 @@ def word_sim(word1, word2=None,
         
         #Save the calculated score
         if (lang1, lang2) != (None, None):
-            calculated_word_sims[((word1, lang1), (word2, lang2), sim_func)] = word_sim
+            calculated_word_sims[((word1, lang1), (word2, lang2), sim_func, penalize_infocontent)] = word_sim
         else:
-            calculated_word_sims[(word1, word2, sim_func)] = word_sim
+            calculated_word_sims[(word1, word2, sim_func), penalize_infocontent] = word_sim
         
         return word_sim
 
@@ -299,7 +303,14 @@ def mutual_surprisal(pair1, pair2, **kwargs):
         word2 = strip_ch(word2, diacritics_to_remove)
         
         #Calculate combined phoneme PMI if not already done
-        pmi_dict = combine_PMI(lang1, lang2, **kwargs)
+        #pmi_dict = combine_PMI(lang1, lang2, **kwargs)
+        
+        #Check whether phoneme PMI has been calculated for this language pair
+        #Otherwise calculate from scratch
+        if len(lang1.phoneme_pmi[lang2]) > 0:
+            pmi_dict = lang1.phoneme_pmi[lang2]
+        else:
+            pmi_dict = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi(**kwargs)
         
         #Generate alignments in each direction: alignments need to come from PMI
         alignment = phone_align(word1, word2, added_penalty_dict=pmi_dict)
@@ -396,7 +407,14 @@ def score_pmi(pair1, pair2, sim2dist=True, **kwargs):
         word2 = strip_ch(word2, diacritics_to_remove)
         
         #Calculate PMI in both directions if not already done, otherwise retrieve the dictionaries
-        pmi_dict = combine_PMI(lang1, lang2, **kwargs)
+        #pmi_dict = combine_PMI(lang1, lang2, **kwargs)
+        
+        #Check whether phoneme PMI has been calculated for this language pair
+        #Otherwise calculate from scratch
+        if len(lang1.phoneme_pmi[lang2]) > 0:
+            pmi_dict = lang1.phoneme_pmi[lang2]
+        else:
+            pmi_dict = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi(**kwargs)
             
         #Align the words with PMI
         alignment = phone_align(word1, word2, added_penalty_dict=pmi_dict)
@@ -417,84 +435,50 @@ def score_pmi(pair1, pair2, sim2dist=True, **kwargs):
 
 #%%
 def LevenshteinDist(word1, word2, normalize=True, asjp=True):
+    if type(word1) == tuple:
+        word1 = word1[0]
+    if type(word2) == tuple:
+        word2 = word2[0]
+    fixes = {'ᵐ':'m'}
+    for f in fixes:
+        word1 = re.sub(f, fixes[f], word1)
+        word2 = re.sub(f, fixes[f], word2)
     if asjp == True:
-        word1, word2 = map(ipa2asjp, [word1, word2])
+        #word1, word2 = map(ipa2asjp, [word1, word2])
+        word1 = strip_ch(ipa2asjp(word1), ["~"])
+        word2 = strip_ch(ipa2asjp(word2), ["~"])
     LevDist = edit_distance(word1, word2)
     if normalize == True:
         LevDist /= max(len(word1), len(word2))
     return LevDist
         
-    
+
 
 #%%
 hybrid_scores = {}
-def old_hybrid_distance(pair1, pair2, funcs, func_sims, weights=None, **kwargs):
-    if weights == None:
-        weights = [1/len(funcs) for i in range(len(funcs))]
-    if (pair1, pair2, tuple(funcs), tuple(weights)) in scored_word_pmi:
-        return hybrid_scores[(pair1, pair2, tuple(funcs), tuple(weights))]
-    
-    else:
-        word1, lang1 = pair1
-        word2, lang2 = pair2
-        
-        scores = {}
-        for func, func_sim, weight in zip(funcs, func_sims, weights):
-            if weight > 0:
-                score = func(pair1, pair2, **kwargs)
-                if func_sim == True:
-                    score = 1 - score
-                scores[func] = score * weight
-            else:
-                scores[func] = 0
-        
-        hybrid_score = sum(scores.values())
-        hybrid_scores[(pair1, pair2, tuple(funcs), tuple(weights))] = hybrid_score
-        return hybrid_score, scores#, hybrid_score
-
-
-def new_hybrid_distance(pair1, pair2, funcs, func_sims, weights=None, **kwargs):
-    if weights == None:
-        weights = [1/len(funcs) for i in range(len(funcs))]
-    assert sum(weights) == 1
-    
-    if (pair1, pair2, tuple(funcs), tuple(weights)) in scored_word_pmi:
-        return hybrid_scores[(pair1, pair2, tuple(funcs), tuple(weights))]
-    
-    else:
-        word1, lang1 = pair1
-        word2, lang2 = pair2
-        
-        scores = {}
-        for func, func_sim, weight in zip(funcs, func_sims, weights):
-            if weight > 0:
-                if len(lang1.noncognate_thresholds[(lang2, func)]) > 0:
-                    noncognate_scores = lang1.noncognate_thresholds[(lang2, func)]
-                else:
-                    noncognate_scores = PhonemeCorrDetector(lang1, lang2).noncognate_thresholds(func, **kwargs) 
-                nc_len = len(noncognate_scores)
-                
-                score = func(pair1, pair2, **kwargs)
-                
-                #Turn each score into a p-value compared to the non-synonymous words evaluated with the same method
-                if func_sim == True:
-                    p_value = (len([s for s in noncognate_scores if s >= score])+1) / (nc_len+1)
-                else:
-                    p_value = (len([s for s in noncognate_scores if s <= score])+1) / (nc_len+1)
-                
-                #Then use each p-value as a normalized distance, then weighted
-                scores[func] = p_value * weight
-                
-            else:
-                scores[func] = 0
-        
-        hybrid_score = sum(scores.values())
-        hybrid_scores[(pair1, pair2, tuple(funcs), tuple(weights))] = hybrid_score
-        return hybrid_score
-
 def hybrid_distance(pair1, pair2, funcs, func_sims, **kwargs):
-    pass
+    #Try to retrieve previously calculated value if possible
+    if (pair1, pair2, tuple(funcs), tuple(weights)) in hybrid_scores:
+        return hybrid_scores[(pair1, pair2, tuple(funcs), tuple(weights))]
+    
+    scores = []
+    for func, func_sim in zip(funcs, func_sims):
+        score = func(pair1, pair2, **kwargs)
+        if func_sim == True:
+            score = 1 - score
+        scores.append(score)
+    
+    return euclidean_dist(scores)
+        
+def combo_sim(pair1, pair2, **kwargs):
+    hybrid_d = hybrid_distance(pair1, pair2, funcs=[word_sim, score_pmi, surprisal_sim], func_sims=[True, False, True])
+    hybrid_sim = math.e**-(hybrid_d)
+    return hybrid_sim
 
+def phonetic_surprisal_sim(pair1, pair2, **kwargs):
+    hybrid_d = hybrid_distance(pair1, pair2, funcs=[word_sim, surprisal_sim], func_sims=[True, True])
+    hybrid_sim = math.e**-(hybrid_d)
+    return hybrid_sim
 
 #%%
     

@@ -202,8 +202,8 @@ def linkage_matrix(group, dist_func, sim=False,
         See: https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.linkage.html"""
     mat = distance_matrix(group, dist_func, sim, **kwargs)
     dists = squareform(mat)
-    linkage_matrix = linkage(dists, method, metric)
-    return linkage_matrix
+    lm = linkage(dists, method, metric)
+    return lm
 
 
 def cluster_items(group, labels,

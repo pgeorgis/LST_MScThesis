@@ -155,9 +155,13 @@ for vd in validation_datasets:
 
 #%%
 #Distance/similarity functions
-functions = {'Surprisal':(surprisal_sim, True),
-             'PMI':(score_pmi, False),
-             'Phonetic':(word_sim, True),
+functions = {#'Surprisal':(surprisal_sim, True),
+             #'PMI':(score_pmi, False),
+             #'Phonetic':(word_sim, True),
+             #'Levenshtein':(LevenshteinDist, False)
+             #'Hybrid':(combo_sim, True),
+             'PhoneticSurprisal':(phonetic_surprisal_sim, True),
+             
              #'Combined':(nhd, False),
              #'Z-Surprisal':(z_score_surprisal, False)
              }
@@ -174,7 +178,7 @@ functions = {'Surprisal':(surprisal_sim, True),
 #%%
 #Evaluate validation datasets for all functions with parameters = [0.0, ..., 1.0]
 evaluation = {}
-destination = '../Results/Cognate Clustering/Test/Common Concepts/'
+destination = '../Results/Cognate Clustering/Validation/Common Concepts/'
 
 #%%
 function_labels = list(functions.keys())
@@ -185,7 +189,7 @@ for i in range(len(functions)):
     if func_label1 not in evaluation:
         print(f'Evaluating {func_label1} parameters...')
         dist_func1, func_sim1 = functions[func_label1]
-        family_bcubed =  evaluate_family_parameters(test_datasets,
+        family_bcubed =  evaluate_family_parameters(validation_datasets,
                                                     parameters=[i/100 for i in range(0,101)],
                                                     dist_func=dist_func1, func_sim=func_sim1,
                                                     concept_list=common_concepts)
@@ -215,9 +219,10 @@ for i in range(len(functions)):
         
 
     
-\
-    #%% 
+
+#%%
 #Plot all performances
+loaded = False
 for func_label in evaluation: 
     plot_performance(evaluation[func_label], func_label, save_directory=destination,
                      legend_pos=(0.8, 0.4))
@@ -225,4 +230,17 @@ for func_label in evaluation:
     print(f'Best parameter value for {func_label}: {optimum}')
     for family in evaluation[func_label]:
         print(family, round(evaluation[func_label][family][optimum][2], 3))
-    print('\n')
+     dist_func, func_sim = functions[func_label]
+    # for family in test_datasets:
+    #     if loaded == False:
+    #         print(f'Loading {family.name} phoneme PMI and surprisal...')
+            family.load_phoneme_pmi()
+            family.load_phoneme_surprisal()
+        family_clusters = family.cluster_cognates(concept_list=common_concepts,
+                                                dist_func=dist_func, sim=func_sim,
+                                                cutoff=optimum)
+        family_bcubed = family.evaluate_clusters(family_clusters)
+        print(family.name, round(family_bcubed[2], 3))
+        
+    # print('\n')
+    # loaded = True
