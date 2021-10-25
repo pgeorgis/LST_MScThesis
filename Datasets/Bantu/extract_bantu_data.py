@@ -39,14 +39,32 @@ concepticon_dict = {concept_data['ID'][i]:concept_data['Concepticon_Gloss'][i]
                     for i in range(len(concept_data))}
 
 #%%
-conversion_dict = {#Consonants
+conversion_dict = {#CONSONANTS
+                   'dl':'ɮ', #North Ndebele, Tsonga, Tswana, Xhosa, Zulu (language-specific fixes in function)
+                   'fh':'ɸ', #Venda <fh>
                    'g':'ɡ', #replace with proper IPA character
+                   'hl':'ɬ', #North Ndebele, Tsonga, Tswa, Xhosa, Zulu
+                   'tsh':'ʦʰ', #Kalanga, must precede <sh>
+                   'dzh':'ʣʱ', #must precede  <zh>
+                   'sh':'ʃ', #Bemba, Kalanga, Lozi, Meru, Ndonga, Songe
+                   'vh':'β', #Venda, Shona [fixed in function]
+                   'zh':'ʒ', #Kalanga, Shona, Venda
                    
                    #Implosives: transcribed inconsistently, so turn all implosives into egressive stops
                    'ɓ':'b',
                    'ɗ':'d',
                    
-                   #Vowels: tones and nasalized vowels
+                   #Aspirated/breathy consonants:
+                   'bh':'bʱ', #Kalanga, Shona, Xhosa, Zulu; but not North Ndebele (just /b/, fixed in function)
+                   'kh':'kʰ', #Kalanga, Makhuwa, North Ndebele, Nyanja, Tsonga, Tswa, Venda, Xhosa, Zulu
+                   'ph':'pʰ', #Kalanga, Makhuwa, North Ndebele, Nyanja, Venda, Xhosa, Zulu
+                   'th':'tʰ', #Kalanga, Makhuwa, North Ndebele, Nyanja, Venda, Xhosa, Zulu
+                   
+                   #Clicks:
+                   'q':'ǃ', #palatal/post-alveolar click (Xhosa, Zulu, North Ndebele, Tswana) 
+                   'ɡǃ':'ǃ̬ʱ', #voiced aspirated post-alveolar click (Xhosa, North Ndebele)
+                   
+                   #VOWELS: tones and nasalized vowels
                    'à':'à', 
                    'á':'á',
                      'â':'â',
@@ -80,6 +98,7 @@ conversion_dict = {#Consonants
                      'ɩ':'ɪ', #uncertain
                    
                    #Affricates
+                   'pf':'p͡f', #Nyanja, Rundi, Shona, Tsonga, Venda
                    'ts':'ʦ',
                    'dz':'ʣ',
                    'tʃ':'ʧ',
@@ -93,6 +112,7 @@ conversion_dict = {#Consonants
                    
                    }
 
+
 digraphs = []
 slashes = []
 def fix_tr(tr, lang, orth, gloss):
@@ -103,16 +123,43 @@ def fix_tr(tr, lang, orth, gloss):
             slashes.append(seg)
             seg = seg.split('/')[0] #some segments transcribed as, e.g. <ú/u> to denote tone --> simply take the first part
         
-        for seq in conversion_dict:
-            seg = re.sub(seq, conversion_dict[seq], seg)
-        if len(seg) > 1: 
-            digraphs.append(seg)
-        
         fixed.append(seg)
     
     fixed = ''.join(fixed)
+    for seq in conversion_dict:
+        fixed = re.sub(seq, conversion_dict[seq], fixed)
     
-    if lang == 'Swahili':
+    if lang in ['Bemba', 'Lozi', 'Luba-Lulua', 'Makhuwa', 'Nyankole', 'Umbundu']:
+        fixed = re.sub('c', 'ʧ', fixed)
+        fixed = re.sub('x', 'ʃ', fixed) #primarily/only Makhuwa
+        
+    elif lang == 'Kikuyu':
+        fixed = re.sub('c', 'ʃ', fixed)
+    
+    elif lang == 'Kimbundu':
+        fixed = re.sub('x', 'ʃ', fixed)
+        fixed = re.sub('nh', 'ɲ', fixed) #best guess given that it appears in word for 'ANIMAL' (/ɲama/ in most other languages) and Kimbundu is spoken in Angola, so may have had Portuguese influence on the orthography (hence <nh> = /ɲ/)
+        
+    elif lang == 'Ndonga':
+        fixed = re.sub('tʰ', 'θ', fixed) #change <th> --> /tʰ/ --> /θ/
+    
+    elif lang == 'North Ndebele':
+        fixed = re.sub('bʱ', 'b', fixed) #change <bh> --> /bʱ/ --> /b/
+    
+    elif lang == 'Shona':
+        #<vh> = /v̤/, /v/ = /ʋ/
+        fixed = re.sub('v', 'ʋ', fixed)
+        fixed = re.sub('β', 'v̤', fixed)
+        fixed = re.sub('ʒ', 'ʒ̤', fixed) #add breathy diacritic
+        fixed = re.sub('mh', 'm̤', fixed)
+        fixed = re.sub('nh', 'n̤', fixed)
+    
+    elif lang == 'Sukuma':
+        fixed = re.sub('mh', 'm̤', fixed)
+        fixed = re.sub('nh', 'n̤', fixed)
+        fixed = re.sub('ŋh', 'ŋ̤', fixed) #add breathy diacritic
+        
+    elif lang == 'Swahili':
         #Swahili <j> mistranscribed as /j/ --> /ʄ/
         if 'j' in orth:
             fixed = re.sub('j', 'ʄ', fixed)
@@ -166,9 +213,126 @@ def fix_tr(tr, lang, orth, gloss):
         if gloss == 'MOUTH':
             fixed, orth = 'kiɲwa', 'kinywa'
     
+    elif lang == 'Tonga':
+        fixed = re.sub('sj', 'sʲ', fixed)
+        fixed = re.sub('zj', 'zʲ', fixed)
+            
+    elif lang in ['Tsonga', 'Tswa']:
+        fixed = re.sub('ɮ', 'd͡l', fixed) #change <dl> --> /ɮ/ --> /d͡l/
+        fixed = re.sub('ndd͡l', 'nd͡l', fixed)
+        fixed = re.sub('mh', 'm̤', fixed)
+        fixed = re.sub('nh', 'n̤', fixed)
+        fixed = re.sub('c', 'ʧ', fixed)
+        fixed = re.sub('x', 'ʃ', fixed)
+        fixed = re.sub('rh', 'rʱ', fixed)
+    
+    elif lang == 'Venda':
+        fixed = re.sub('sw', 'ʂ', fixed)
+        fixed = re.sub('ʣʱ', 'ʤ', fixed) #change <dzh> --> /ʣʱ/ --> /ʤ/
+    
+    elif lang in ['Zulu', 'Xhosa']:
+        fixed = re.sub('ɮ', 'ɮʱ', fixed)
+        fixed = re.sub('c', 'ǀ', fixed) #dental click
+        fixed = re.sub('x', 'ǁ', fixed) #lateral click
+        
+        if lang == "Zulu":
+            fixed = re.sub('nɮ', 'nd͡ɮ', fixed)
+            
+        else: #Xhosa
+            fixed = re.sub('nɮʱ', 'nd͡ɮ', fixed) #no aspiration in Xhosa when prenasalized
+            fixed = re.sub('ɡǀʼ', 'ǀ̬ʱ', fixed) #voiced aspirated dental click
+            fixed = re.sub('rh', 'x', fixed)
+            
+    
+        
     
     return fixed, orth
 
+#%%
+#Remove infinitive prefixes from verb transcriptions
+Bantu_verbs = ['BITE', 'BURN (SOMETHING)', 'COME', 'COUNT', 'DIE', 'DRINK', 
+               'EAT', 'FALL', 'FLY (MOVE THROUGH AIR)', 'GIVE', 'HEAR', 'KILL', 
+               'KNOW (SOMETHING)', 'SEE', 'SEND', 'STEAL', 'VOMIT', 'WALK']
+accents = '|'.join(suprasegmental_diacritics)  
+uku_ = f"^u[{accents}]*ku[{accents}]*"
+ukw_ = f"^u[{accents}]*kw[{accents}]*"
+oku_ = f"^o[{accents}]*ku[{accents}]*"
+okw_ = f"^o[{accents}]*kw[{accents}]*"
+iku_ = f"^i[{accents}]*ku[{accents}]*"
+ku_ = f"^ku[{accents}]*"
+kw_ = f"^kw[{accents}]*"
+ko_ = f"^ko[{accents}]*"
+gu_ = f"^ɡ[u|ʊ][{accents}]*"
+u_ = f"^u[{accents}]*"
+w_ = f"^w[{accents}]*"
+i_ = f"^i[{accents}]*"
+a_ = f"^a[{accents}]*"
+
+#Inifitive prefixes attested in dataset for each language
+infinitive_prefixes = {'Bemba':[uku_, ukw_],
+                       'Bulu':[],
+                       'Fang':[a_],
+                       'Ganda':[ku_],
+                       'Gogo':[ku_, gu_],
+                       'Haya':[ku_, kw_, oku_],
+                       'Kalanga':[kw_],
+                       'Kamba':[kw_, ko_],
+                       'Kikuyu':[ku_],
+                       'Kimbundu':[ku_],
+                       'Koongo':[kw_],
+                       'Lingala':[ku_, kw_],
+                       'Lozi':[ku_],
+                       'Luba-Katanga':[ku_, kw_],
+                       'Luba-Lulua':[ku_],
+                       'Makhuwa':[u_, w_],
+                       'Meru':[i_],
+                       'Ndonga':[oku_, okw_],
+                       'Ndzwani Comorian':[],
+                       'Ngazidja Comorian':[],
+                       'North Ndebele':[uku_],
+                       'Nyanja':[],
+                       'Nyankole':[ku_, kw_],
+                       'Rundi':[ku_, kw_, gu_],
+                       'Shona':[],
+                       'Songe':[ku_],
+                       'Sukuma':[ku_, kw_, gu_],
+                       'Swahili':[],
+                       'Tonga':[ku_, kw_],
+                       'Tsonga':[],
+                       'Tswa':[],
+                       'Tswana':[],
+                       'Umbundu':[oku_, okw_],
+                       'Venda':[],
+                       'Xhosa':[uku_, ukw_],
+                       'Yaka':[],
+                       'Zulu':[uku_, ukw_]}
+
+def remove_inf_prefix(tr, lang):
+    inf_prefixes = infinitive_prefixes[lang]
+    if len(inf_prefixes) > 0:
+        for form in inf_prefixes:
+            if re.match(form, tr) != None:
+                root = re.split(form, tr, maxsplit=1)[-1]
+                
+                #Correct situation in Kamba language where prefix /ko-/ merges
+                #with initial /o/ in root, yielding /koː-/
+                #Simply change the initial length marker into /o/
+                if lang == 'Kamba':
+                    if root[0] == 'ː':
+                        root = list(root)
+                        root[0] = 'o'
+                        root = ''.join(root)
+                
+                return root
+            
+        #If no prefix was found, simply return the original transcription
+        return tr
+    else:
+        return tr
+    
+
+
+#%%
 skipped = []
 skipped_cognates = []
 bantu_data = defaultdict(lambda:{})
@@ -207,6 +371,18 @@ for index, entry in forms_data.iterrows():
     new_entry['Parameter_ID'] = concepticon_gloss
     tr, orth = fix_tr(tr, new_name, entry['Value'], concepticon_gloss)
     new_entry['Value'] = orth
+    
+    #Remove infinitive prefixes
+    if concepticon_gloss in Bantu_verbs:
+        prefix_tr = tr[:]
+        tr = remove_inf_prefix(tr, new_name)
+        if len(tr.strip()) == 0:
+            del bantu_data[index]
+            index -= 1
+            continue
+        if tr != prefix_tr:
+            print(f'{new_name.upper()}: /{prefix_tr}/ --> /{tr}/')
+        
     new_entry['Form'] = tr
     new_entry['Segments'] = ' '.join(segment_word(new_entry['Form']))
     new_entry['Source_Form'] = tr

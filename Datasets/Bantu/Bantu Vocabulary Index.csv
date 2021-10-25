@@ -1,5 +1,5 @@
 Gloss	Bemba	Bulu	Fang	Ganda	Gogo	Haya	Kalanga	Kamba	Kikuyu	Kimbundu	Koongo	Lingala	Lozi	Luba-Katanga	Luba-Lulua	Makhuwa	Meru	Ndonga	Ndzwani Comorian	Ngazidja Comorian	North Ndebele	Nyanja	Nyankole	Rundi	Shona	Songe	Sukuma	Swahili	Tonga	Tsonga	Tswa	Tswana	Umbundu	Venda	Xhosa	Yaka	Zulu
-ANIMAL_1	ìnama			enɲama		eɲamaiʃwa	ɲama	ɲama	ɲàmà	nhama		njama	nama			ináma	ɲama	onjama	ʃiɲáma	iɲama	injama	ɲàmà	eɲama	iɲama	ɲama		ɲama	ɲama	ɲama	ɲama	ɲama	nàmà		ɲama	iɲama	ɲàmà	iɲama
+ANIMAL_1	ìnama			enɲama		eɲamaiʃwa	ɲama	ɲama	ɲàmà	ɲama		njama	nama			ináma	ɲama	onjama	ʃiɲáma	iɲama	injama	ɲàmà	eɲama	iɲama	ɲama		ɲama	ɲama	ɲama	ɲama	ɲama	nàmà		ɲama	iɲama	ɲàmà	iɲama
 ANIMAL_17											mbisi																										
 ANIMAL_2		tit	ʦit																														ósi̍tú				
 ANIMAL_22														mwita												mwîtà											
@@ -8,38 +8,38 @@ ANIMAL_30					nîmu
 ARM_1	ukùboko	wo			múwoko		boko	kẅɔ́kɔ̏	ɣuɔkɔ	lukuaku	koko	lobɔ́kɔ			kuboko		uko	okwako						ukuboko	ruoko	mbòko			kuboko	vókó	wókó	bɔ́χɔ́	ókwo̍kwó			bɔ́	
 ARM_13														diːkàsa																							
 ARM_20													lizoho																								
-ARM_21				mukono		mkono										mɔ̌nɔ			mhóno	mhóno		kóno	omukono				nkono	mkono							umkhono		
+ARM_21				mukono		mkono										mɔ̌nɔ			mhóno	mhóno		kóno	omukono				nkono	mkono							umkʰono		
 ARM_26																																		ʧanda			
 ARM_27																					inɡalo																ínɡàló
 ARM_4			enam																																		
-ASH_1				vvu	máfu	eijwi		mou	mohû								ifu		vú	vú		phulusa	eiju				ibu										
+ASH_1				vvu	máfu	eijwi		mou	mohû								ifu		vú	vú		pʰulusa	eiju				ibu										
 ASH_10		asup	asup																																	sùvé	
 ASH_11	imìto													butò	bútu											butǒ			itwe								
 ASH_25												mputulú																									
 ASH_29																		omutoko															éti̍kó				
 ASH_36										ditókua	bombi																										
 ASH_40													mulola																								
-ASH_41							lota									ittuúra					lotha			umuɲota	dòtà							mõlõrã		mulora	umlotha		umlota
+ASH_41							lota									ittuúra					lotʰa			umuɲota	dòtà							mõlõrã		mulora	umlotʰa		umlota
 ASH_56																												sizi									
-ASH_61																														nkuma	khuma						
+ASH_61																														nkuma	kʰuma						
 BARK_2									ikɔni																kòkó											kókó	
 BARK_22											kibula																										
 BARK_23	bós											póso														kifùsù											
 BARK_24					ibada									kibàle																							
 BARK_38																	ikanda																				
 BARK_40																		ejula									iɡula										
-BARK_41										kixixi																											
-BARK_42															cízúbú																						
+BARK_41										kiʃiʃi																											
+BARK_42															ʧízúbú																						
 BARK_44													likwati																cikwa	rihantí	hatí	kwàtí		ɡwatí			
-BARK_45																																	ócípétà				
+BARK_45																																	óʧípétà				
 BARK_48						ekiʃuʃu																	ekiʃuʃu	iɡiʃiʃwa													
 BARK_56								ekɔndɛ																													
 BARK_63																			ɡózi	ɡozi																	
-BARK_69																						khunɡwa															
+BARK_69																						kʰunɡwa															
 BARK_7		ebapele	ebap																																		
 BARK_70																nikúla																					
-BARK_71																																			ixolo		ílixôlo
-BARK_72																					khonkotha																
+BARK_71																																			iǁolo		íliǁôlo
+BARK_72																					kʰonkotʰa																
 BED_15																																				tànɡé	
 BED_21													mumbeta																								
 BED_28				kitanda		eʧitanda		ketanda	òrèrè										ʃiʈánɖa	iʈánda			ekitanda				jitanda										
@@ -47,7 +47,7 @@ BED_34											mfulu
 BED_36					úlili												ulili							uburiri		kididi											
 BED_37															bulààlu																		ula				
 BED_46	lunɡa																																				
-BED_47																					umbheda	bedula			mubheʤa					mubédo					ibhedi		umbhede
+BED_47																					umbeda	bedula			mubʱeʤa					mubédo					ibʱedi		umbʱede
 BED_48																nkórimi																					
 BED_49							lawo																									láɔ́		malalo			
 BED_5		énon̂	enɔŋ																																		
@@ -57,13 +57,13 @@ BELLY_23					nda	eibundaenda			nda								ndeu						enda	inda					ida
 BELLY_26								eβu						fu	dífu											efù											
 BELLY_35													mba						mímba	mmba		mímba										ḿpá					
 BELLY_38																		epunda																			
-BELLY_45							tumbu																		dùmbù		ŋhumbi	tumbo			rúmbú			thumbu			
-BELLY_51																nthúkwa																					
+BELLY_45							tumbu																		dùmbù		ŋ̤umbi	tumbo			rúmbú			tʰumbu			
+BELLY_51																ntʰúkwa																					
 BELLY_52																					isisu														isisu		ìsísù
-BELLY_53																														khwírí							
+BELLY_53																														kʰwírí							
 BIG_22																																				làí	
 BIG_28														kàtà												mukàtà											
-BIG_30							kulukulu													kúu	khulu	kulu			ɡuru					kúlú		ɡóló		hulwane	khulu		khúlù
+BIG_30							kulukulu													kúu	kʰulu	kulu			ɡuru					kúlú		ɡóló		hulwane	kʰulu		kʰúlù
 BIG_31						hanɡo																	hanɡo														
 BIG_49	kalàmbà																																				
 BIG_50					βaha														libwávu									kubwa									
@@ -73,24 +73,24 @@ BIG_69																wunnuwela
 BIG_7		anen	nən	nene				nɛ́nɛ̏	nɛ́nɛ	nene	nene	monene			nené		nini	omunene						nini					pati				ne̍nè				
 BIG_70																															hombé						
 BIRD_14										njila								okaʤila															ónji̍lá				
-BIRD_2	ìcoːni	ônon	onwan	enɲoɲi		ekiɲoɲi	ɲuni	esone	ɲɔni		nuni		ɲuɲuni	koni	ɲúúɲí	mwaánùni			ɲúɲi	nùni	injoni		eɲoɲi	iɲoni		kôni	noni		imujuni	ɲaɲana	ciɲaɲani	nɔ̀ɲánɪ́		ʧinoni		ɲɔ̀dí	íɲònì
+BIRD_2	ìʧoːni	ônon	onwan	enɲoɲi		ekiɲoɲi	ɲuni	esone	ɲɔni		nuni		ɲuɲuni	koni	ɲúúɲí	mwaánùni			ɲúɲi	nùni	injoni		eɲoɲi	iɲoni		kôni	noni		imujuni	ɲaɲana	ʧiɲaɲani	nɔ̀ɲánɪ́		ʧinoni		ɲɔ̀dí	íɲònì
 BIRD_23																						mbálame															
 BIRD_24																									ʃìrì												
 BIRD_25																																			intaka		
 BIRD_5					ndêje							ndeke					ndeje											ndeɡe									
-BITE_1		lóp	alop	kuluma	luma	kuruma	luma	ómȁ~óma	róma	lumata			kuluma			ulúma	iimara	okulumata			luma	womola	kuruma	kuruma	rúma		kuluma	uma	kuluma	lúma	luma	lʊ́má	ókúlu̍mánà	luma	luma		lúmà
+BITE_1		lóp	lop	luma	luma	ruma	luma	ómȁ~óma	róma	lumata			luma			lúma	imara	lumata			luma	womola	ruma	ruma	rúma		luma	uma	luma	lúma	luma	lʊ́má	lu̍mánà	luma	luma		lúmà
 BITE_13																																				bònz	
 BITE_14												swá																									
 BITE_15											ta																										
-BITE_19	ukùsuma													kusùma	kúsumá											kusùma											
+BITE_19	suma													sùma	sumá											sùma											
 BITE_43																			remamáɲo	kazamáɲo																	
 BLOOD_1		metʧi	məki									makilá																									
 BLOOD_16																																				àndá	
 BLOOD_21														ʃi	máʃí											masè											
-BLOOD_23					sakámi			nðakamɛ	θàkàmɛ̀							nikhami							eʃaɡama														
+BLOOD_23					sakámi			nðakamɛ	θàkàmɛ̀							nikʰami							eʃaɡama														
 BLOOD_24											menɡa																										
-BLOOD_26										manhinɡa																	mininɡa										
-BLOOD_27	ùmulopa						lopa																						bulowa					malofha			
+BLOOD_26										maɲinɡa																	mininɡa										
+BLOOD_27	ùmulopa						lopa																						bulowa					maloɸa			
 BLOOD_28													mali																								
 BLOOD_29																																	ósóndè				
 BLOOD_30																		ombinzi																			
@@ -99,34 +99,34 @@ BLOOD_34																								amaraso
 BLOOD_35				musaaji																																	
 BLOOD_39																	usao																				
 BLOOD_40																			dámu	damu								damu									
-BLOOD_42																					iɡazi	ɡazi								nɡátí	khata				iɡazi		íɡàzí
+BLOOD_42																					iɡazi	ɡazi								nɡátí	kʰata				iɡazi		íɡàzí
 BLOOD_47																									ròmbè												
 BLOOD_48																																dí					
 BONE_12				ɡɡumba																																	
-BONE_2	ifùpa				ífupa	eiɡufa	fupa			fuba		mokua		mukùpa	múfubá	nikhúva	ifuwa	esipa	múbwa	ʃíba		pfúpa	eiɡufa	iɡufa	fúfá	mufùfwa	iɡuha	mfupa	ícífuwa				éke̍pá			kúà	
+BONE_2	ifùpa				ífupa	eiɡufa	fupa			fuba		mokua		mukùpa	múfubá	nikʰúva	ifuwa	esipa	múbwa	ʃíba		p͡fúpa	eiɡufa	iɡufa	fúfá	mufùfwa	iɡuha	mfupa	ícífuwa				éke̍pá			kúà	
 BONE_23													lisapo																								
 BONE_24								eβende	ihéndé																												
 BONE_3		eves	eves								visi																										
-BONE_31																																rápɔ́		lirapho			
-BONE_32																					ithambo									rhámbó	rámbú				ithambo		îthâmbò
+BONE_31																																rápɔ́		lirapʰo			
+BONE_32																					itʰambo									rʱámbó	rámbú				itʰambo		îtʰâmbò
 BREAST_1	ibe̍ːlè	abé	abɛɲ	bbeele		omabele				diele	beno	libéle	lizwele	bele	díbeelé	ipéle	mawele		béle	béle	ibele	jére	eibeere	ibere		ebèːle	mbele	ziwa		vélé	vélé	bɛ́lɛ́	éve̍lé		ibele	bɛlɛ́	ibele
 BREAST_14																		eɡundji																			
 BREAST_16					itóombo																																
 BREAST_2								nɔndɔ	ɲɔ̀ndɔ̀																												
 BREAST_22																													nkolo								
-BREAST_23							zhamu																		zámú									d̪ámú			
-BURN (SOMETHING)_10		dik	aʣiʔi																																		
+BREAST_23							ʒamu																		zámú									d̪ámú			
+BURN (SOMETHING)_10		dik	ʣiʔi																																		
 BURN (SOMETHING)_11												etumba	tumbuka																							sél	
-BURN (SOMETHING)_14	ukùpja									uika						úvja		okupja		βa				ɡuhiʃa		kufjà			kupja								
-BURN (SOMETHING)_23														kuteːma																			támà				
+BURN (SOMETHING)_14	pja									uika						vja		pja		βa				hiʃa		fjà			pja								
+BURN (SOMETHING)_23														teːma																			támà				
 BURN (SOMETHING)_28											joka																										
 BURN (SOMETHING)_34															kóóʃákúóʃá																						
-BURN (SOMETHING)_39					aka	kwaka											aka						kwaka				kubaka	waka									
-BURN (SOMETHING)_40				kuɡɡja																																	
-BURN (SOMETHING)_41							ʦhwa														ʧa	psa			ʦvá							ʂwã		huswa	ukuʧa		ʃa
+BURN (SOMETHING)_39					aka	aka											aka						aka				baka	waka									
+BURN (SOMETHING)_40				ɡɡja																																	
+BURN (SOMETHING)_41							ʦʰwa														ʧa	psa			ʦʋá							ʂwã		huʂa	ʧa		ʃa
 BURN (SOMETHING)_43								βeːβja	heːhia																												
 BURN (SOMETHING)_50																			vùʣa																		
-BURN (SOMETHING)_55																														pfurha							
+BURN (SOMETHING)_55																														p͡furʱa							
 CHILD_1	mwano	mon	mwan	mwana	mwáana	omwana	ana	kaana	mwana		mwana	mwána	mwana		mwenamunda	mwaána	mwana		mwanaḿʦa	mwána	umntwana	aná	omuto	umwana	mwana	muana	ŋwana	mwana		ŋwáná	ŋwanana	àná	omona	mwana	umntwana	ánà	umntwana
 CLOUD_22												lipáta																									
 CLOUD_27	ìkumbi													diːkumbi			irumbe									elevu			ikkumbi								
@@ -136,31 +136,31 @@ CLOUD_47															dívúbá
 CLOUD_49													lilu																								
 CLOUD_5		nkut	ŋ̍kut																																	kùtú	
 CLOUD_51																																	éléndè				
-CLOUD_52																		oshikoɡo																			
-CLOUD_55						ekiʧwi		eðwɛɔ	ìtù														ekicu	iɡicu													
+CLOUD_52																		oʃikoɡo																			
+CLOUD_55						ekiʧwi		eðwɛɔ	ìtù														ekiʧu	iɡicu													
 CLOUD_61																			vìŋɡu	biŋɡu								winɡu									
 CLOUD_67					mavunde											nihútte											ilunde										
 CLOUD_73																						tambo															
 CLOUD_74							ɡole																		ɡòré									ɡole			
 CLOUD_75																																rù					
 CLOUD_76																					ilifu									papa	refu				ifu		ífù
-COME_21		zu	azu																																		
-COME_37															kúvwá																						
-COME_44	ùkwisa				kuúza					kuiza	kwuisa						orisho										kwiza										
-COME_45																										kufìkà											
-COME_46													kutaha																								
-COME_50								koːka	óka																												
-COME_53																									buda				kuboola								
+COME_21		zu	zu																																		
+COME_37															vwá																						
+COME_44	isa				úza					iza	uisa						oriʃo										iza										
+COME_45																										fìkà											
+COME_46													taha																								
+COME_50								oka	óka																												
+COME_53																									buda				boola								
 COME_55																														ta	ta	t͡ɬà		da			
-COME_8				kujja		kuija	zha					jà		kwija		úwa		okuja	ʒá	ʤa	za	ʣa	kwija	kuza				ʄa					ókwíjà		ukuza	jè	úkúzà
-COUNT_11								tala	tára								itanla																				
-COUNT_13				kubala	vala	ku	bala								badika					waza	bala		kubara			kubadika	kubala							vhala	ukubala		bala
-COUNT_2		lan̂	alaŋ								tanɡa	tánɡa																								tánɡ	
+COME_8				jja		ija	ʒa					jà		ija		wa		ja	ʒá	ʤa	za	ʣa	ija	za				ʄa					íjà		za	jè	zà
+COUNT_11								tala	tára								tanla																				
+COUNT_13				bala	vala		bala								badika					waza	bala		bara			badika	bala							βala	bala		bala
+COUNT_2		lan̂	laŋ								tanɡa	tánɡa																								tánɡ	
 COUNT_20																																	tenda				
-COUNT_21																								ɡuharura													
+COUNT_21																								harura													
 COUNT_23																			hasibu									hesabu									
 COUNT_25	pend																																				
-COUNT_27																						welenɡa			verenɡa												
+COUNT_27																						welenɡa			ʋerenɡa												
 COUNT_30																alakela																					
 COUNT_31																																dúédísà					
 COUNT_32																														ɬàja							
@@ -172,14 +172,14 @@ DEW_41				musulo
 DEW_44																	laa																				
 DEW_45																												umande									
 DEW_51																ukáme																					
-DEW_58																									dova												
-DEW_59							khawa																														
+DEW_58																									doʋa												
+DEW_59							kʰawa																														
 DEW_60																																		museto			
 DEW_62																					amazolo														amazolo		amazolo
 DEW_63																														mbér̥á							
-DIE_1	ukùfwa	wu	awu	kufwa	fwa	okufa	fa	kẅa	kuâ	fa	fwa	kúfa		kufwà	kúfwa	úkhwa	fwa		fa	fa	fa	fa	kufa	ɡupfa	fá	kufwǎ	kuʧa	fa	kufwa	fá	fá	swá	ókúfà	fa	fa	wá	fá
-DIE_11													kushwa																								
-DIE_13																		okusa																			
+DIE_1	fwa	wu	wu	fwa	fwa	fa	fa	̈a	â	fa	fwa	fa		fwà	fwa	kʰwa	fwa		fa	fa	fa	fa	fa	p͡fa	fá	fwǎ	ʧa	fa	fwa	fá	fá	swá	fà	fa	fa	wá	fá
+DIE_11													ʃwa																								
+DIE_13																		sa																			
 DOG_1	imbwà	mvu	mvu	embwa	ḿbwa	embwa				mbua	mbwa	mbwá		mbwà	mbwá			ombwa	mbwá	mbwá			embwa	imbwa	imbwá	ḿbwà	mva	mbwa	mubwa				ómbwà	mmbwa			
 DOG_16							bɡa						nja								inja											ɲ̀ʧá			inja		ínjà
 DOG_19									kuro																												
@@ -188,44 +188,44 @@ DOG_26																						ɡaru
 DOG_28																mwalápwa																					
 DOG_29																														mbjáná	mbzáná						
 DOG_9																																				mbóándé	
-DRINK_1	ukùnwa	nju	aɲu	kuɲra	ŋwa	kuɲwa		ɲẅa	ɲuâ	nua	nwa		kunwa		kúnwa		nwa	okunwa	nwa	nwa			kuɲwa	kuɲwa	mwá		kuŋwa	ɲwa	kuɲwa	nwá	nwá	nwá	ókúnjwà	nwa		nú	
+DRINK_1	nwa	nju	ɲu	ɲra	ŋwa	ɲwa		ɲẅa	ɲuâ	nua	nwa		nwa		nwa		nwa	nwa	nwa	nwa			ɲwa	ɲwa	mwá		ŋwa	ɲwa	ɲwa	nwá	nwá	nwá	njwà	nwa		nú	
 DRINK_10												mela																									
-DRINK_15														kutòma												kutòma											
+DRINK_15														tòma												tòma											
 DRINK_2																						mwa															
-DRINK_20																																					phuza
-DRINK_22																uwúrja																					
-DRINK_23																																			ukusela		
-DRINK_24																					natha																
+DRINK_20																																					pʰuza
+DRINK_22																wúrja																					
+DRINK_23																																			sela		
+DRINK_24																					natʰa																
 EARTH (SOIL)_13											ntoto																										
-EARTH (SOIL)_2		si	si						téːri	ixi		nansé	fafasi											isi		paʃi							pósì			vàsé	
-EARTH (SOIL)_23							vu											pevi							ivhu									mavu			
+EARTH (SOIL)_2		si	si						téːri	iʃi		nansé	fafasi											isi		paʃi							pósì			vàsé	
+EARTH (SOIL)_23							vu											pevi							iv̤u									mavu			
 EARTH (SOIL)_35														lobà	búlóbá																						
 EARTH (SOIL)_37	ùmusilì																																				
-EARTH (SOIL)_38				ttaka		eitaka										itthája						dothe	eitaka														
+EARTH (SOIL)_38				ttaka		eitaka										ittʰája						dotʰe	eitaka														
 EARTH (SOIL)_40																	uteri																				
 EARTH (SOIL)_41								moðaŋɡa																													
 EARTH (SOIL)_43					iloóŋɡo														doŋɡó	doŋɡó							bulonɡo	udonɡo									
-EARTH (SOIL)_48																					umhlabathi														umhlaba		úḿhlâbà
+EARTH (SOIL)_48																					umɬabatʰi														umɬaba		úḿɬâbà
 EARTH (SOIL)_49																														misává	misává						
 EAR_13										kiiadi																											
 EAR_14													zebe																								
 EAR_15																			kío									sikio									
-EAR_16	ukùtwi				íkutu																	khutu															
+EAR_16	ukùtwi				íkutu																	kʰutu															
 EAR_20																niɲáru																					
-EAR_21																					indlebe									ndlevé	ndlevé	ʦɛ̀bɛ́		ndevhe	indlebe		índlèbé
+EAR_21																					inɮebe									nd͡levé	nd͡levé	ʦɛ̀bɛ́		ndeβe	ind͡ɮebe		índ͡ɮʱèbé
 EAR_3		alo	alɔ	kutu				koto	ɣoto		kutu						kuri			ʃiʃíjo			okutu			etwì	ɡutu										
 EAR_4						okutwi						litoi		kutwì				okuʦi						uɡutwi	itwí				kutwi				étwɪ			lóè	
-EAR_9															dící																						
-EAT_1	ukùlja	di	aʣi		lja	kulʲa	ja	ja̋	reâ		dia	lía	kuca	kudjà	kúdja	úlja	ila	okulja	la	la	ukudla	dia	kurʲa	kurʲa	djá	kudjǎ		la	kulja	djá	ɡá	ʤá	ókúljà	la	ukutja	dì	dlá
+EAR_9															díʧí																						
+EAT_1	lja	di	ʣi		lja	lʲa	ja	ja̋	reâ		dia	lía	ʧa	djà	dja	lja	la	lja	la	la	ɮa	dia	rʲa	rʲa	djá	djǎ		la	lja	djá	ɡá	ʤá	ljà	la	tja	dì	ɮʱá
 EAT_7										zuela																											
 EGG_10												likɛi						eji																		kɛ́í	
 EGG_11										ba																											
-EGG_13																nijóce																					
+EGG_13																nijóʧe																					
 EGG_19						eihuli																	eihuri														
 EGG_25																																	ésa̍là				
 EGG_27								etumbe	itúmbé																												
 EGG_3		atji	aki	ɡɡi			ɡai						lii	dì	díjí		ijai							iɡi	zàí	ejì	iɡi	jai	iji			ɪ́					
-EGG_31					iɡáaŋka																iqanda														iqanda		íqàndá
+EGG_31					iɡáaŋka																iǃanda														iǃanda		íǃàndá
 EGG_33																			ʒwaí	ʤwaí																	
 EGG_37	ilìni																																				
 EGG_39																						ʣira															
@@ -233,22 +233,22 @@ EGG_40																																		ɡumba
 EGG_41																														tanʣá	tanʣá						
 EGG_9											diakì																										
 ELEPHANT_10						enjoju																	enjojo														
-ELEPHANT_11					ntéembo											itthépo																					
-ELEPHANT_12																											mhuli										
-ELEPHANT_4	insofu	zok	zɔʔ	enjovu			zhou	nzɔȕ̏	ɲjɔ̀ɣù		nzau	nzoku	tou		nzevu		shofu		ndóvu	nd̪òvu	indlovu	jovu		inzovu	nzou	nɡefu		ndovu		ndɮòpfù		t͡ɬòù		ndou	indlovu		indlovu
+ELEPHANT_11					ntéembo											ittʰépo																					
+ELEPHANT_12																											m̤uli										
+ELEPHANT_4	insofu	zok	zɔʔ	enjovu			ʒou	nzɔȕ̏	ɲjɔ̀ɣù		nzau	nzoku	tou		nzevu		ʃofu		ndóvu	nd̪òvu	inɮovu	jovu		inzovu	nzou	nɡefu		ndovu		nd͡lòp͡fù		t͡ɬòù		ndou	ind͡ɮovu		ind͡ɮʱovu
 ELEPHANT_5																																	onjamba				
 ELEPHANT_6																																				ɔ́bɔ́	
-EYE_2	ilìnso	dis	ʣis	luso	líiso	eliiʃo	esho	iːðɔ	ríːθɔ		disu	líso	liito	dîːso	dîsú	usu	iriso	eho	ʣíʦo	ʣíʦo	ilihlo	díso	eriiʃo	ijiʃo	zísó	eìso	liso	ʄiʧo	lisi	tíhló	tíhló	ít͡ɬʰɔ́	ísò	lito	ilihloamehlo	ísɔ̀	îsó
-EYE_9										menha																											
+EYE_2	ilìnso	dis	ʣis	luso	líiso	eliiʃo	eʃo	iːðɔ	ríːθɔ		disu	líso	liito	dîːso	dîsú	usu	iriso	eho	ʣíʦo	ʣíʦo	iliɬo	díso	eriiʃo	ijiʃo	zísó	eìso	liso	ʄiʧo	lisi	tíɬó	tíɬó	ít͡ɬʰɔ́	ísò	lito	iliɬoameɬo	ísɔ̀	îsó
+EYE_9										meɲa																											
 FACE_22				bweɲi																																	
 FACE_24																	kisanɡu																				
-FACE_32																ikhove						khópe								ŋɡʱóɦé				khofheni			
+FACE_32																ikʰove						kʰópe								ŋɡʱóɦé				kʰoɸeni			
 FACE_33																																fàt͡ɬʰɛ̀χɔ̀					
 FACE_4	ìnsó	asu	asu		wúsu	obuso	so	oðjo	oθiô				sifateho						surwá	usó	ubuso		ahamaiʃo	amaso	uso		buʃu	uso							ubuso	bòsò	ubuso
 FACE_7															mpàla											mpala											
-FALL_1	wu	ku	aku	kuɡwa	ɡwa	kuɡwa	wa		ɣua			kwéja				uwúlùwa	iwa		dúmba	wa	wa	ɡwa	kuɡwa	kuɡwa	ɡwa		ɡuɡwa			wà		wà		fhufhurea	wà	kú	ukuwa
+FALL_1	wu	ku	ku	ɡwa	ɡwa	ɡwa	wa		ɣua			éja				wúlùwa	wa		dúmba	wa	wa	ɡwa	ɡwa	ɡwa	ɡwa		ɡwa			wà		wà		ɸuɸurea	wà	kú	wa
 FALL_17											bwa																										
-FALL_25															pòna											kufona											
+FALL_25															pòna											fona											
 FALL_26								βaloka					lauka																				loka				
 FALL_30																												anɡuka									
 FEATHER_13			endəŋ																																		
@@ -261,24 +261,24 @@ FEATHER_40																	mafuli
 FEATHER_45					maweha			eβwea																													
 FEATHER_51																			púzi	uβuzi																	
 FEATHER_59	ìlisako																																				
-FEATHER_60																					uphaphe								ipepe		limbáví	fàfá			uphaphe		upape
-FEATHER_63																ǹtɛ́nka						nthenɡa			munhènɡá									muthenɡa			
+FEATHER_60																					upʰapʰe								ipepe		limbáví	fàfá			upʰapʰe		upape
+FEATHER_63																ǹtɛ́nka						ntʰenɡa			mun̤ènɡá									mutʰenɡa			
 FEATHER_69							siba																							risívá							
 FINGERNAIL_19																																				tùkù	
 FINGERNAIL_23												linzaka																									
 FINGERNAIL_39									roára																												
 FINGERNAIL_40						mpambo																															
-FINGERNAIL_47																	ushaa											ukuʧa									
+FINGERNAIL_47																	uʃaa											ukuʧa									
 FINGERNAIL_48					ŋkombazala																																
 FINGERNAIL_54																			kófu	fuu																	
-FINGERNAIL_62																						khádabo															
-FINGERNAIL_65																ɛkátha																					
-FINGERNAIL_66																					uzipho														uzipho		uzipo
+FINGERNAIL_62																						kʰádabo															
+FINGERNAIL_65																ɛkátʰa																					
+FINGERNAIL_66																					uzipʰo														uzipʰo		uzipo
 FINGERNAIL_7	iljàla	jaé	ʣɛɲ	lwala			ɲala	waa		kiala	luzala		linala	djàːlà	lúzadí			olunjala					ekjara	urwara	nzara	lwâla	njala		lwala	ŋwálá		nálá	ólúudjálà	lwala			
-FIREWOOD_1							huni				nkuni	kóni				ikʰúni			ŋkúni	uhúni	inkuni	khúni			huni			kuni		tʼiɦúɲí		χʊ́ŋ́		khuni	iiŋkʼuni		iziŋkʼúni
+FIREWOOD_1							huni				nkuni	kóni				ikʰúni			ŋkúni	uhúni	inkuni	kʰúni			huni			kuni		tʼiɦúɲí		χʊ́ŋ́		kʰuni	iiŋkʼuni		iziŋkʼúni
 FIREWOOD_12		njaʔa	nʣaʔa																																		
 FIREWOOD_26																										ntete											
-FIREWOOD_28				luku		enkwi		oko	rokô								nɡwi						enku	inkwi			ŋhwi										
+FIREWOOD_28				luku		enkwi		oko	rokô								nɡwi						enku	inkwi			ŋ̤wi										
 FIREWOOD_30					ŋɡwaáɡu																																
 FIREWOOD_35	mukoso																																				
 FIREWOOD_8																																				múíá	
@@ -294,41 +294,41 @@ FISH_1																		ohi					inswi				ʃi		nswi							súè
 FISH_11																			fí	nfí				ifi													
 FISH_17										mbiji	mbisi	mbísi																					ómbi̍sí				
 FISH_22														ʃipa	múʃípá											muʃìpà											
-FISH_25	isabì												tapi																	nhlampfi	hlavhi	t͡ɬʰàpì					
+FISH_25	isabì												tapi																	nɬamp͡fi	ɬaβi	t͡ɬʰàpì					
 FISH_26				ekjeɲanja																																	
 FISH_28						emfuru																															
 FISH_31																	ikunɡa																				
 FISH_32								ekojo	tɛ́ɣa																												
 FISH_34																												samaki									
 FISH_36					sóomba																	sómba															
-FISH_40							hobe									ihópa									hóvé									khovhe			
-FISH_41																					inhlanzi														intlanzi		ínhlànzì
+FISH_40							hobe									ihópa									hóʋé									kʰoβe			
+FISH_41																					inɬanzi														intlanzi		ínɬànzì
 FISH_9		kos	kwas																																		
-FIVE_1		tan	tan	taano	hano	itanu	shanu	itaanɔ	iθanɔ		tanu	mítáno			taanunombrecardinal	thanu	firaanu		ʦánu	ʦánu	hlanu	isanu	taano	tanu	ʃanu	tanu	itano	tano		ǹt͡ɬʰánu		t͡ɬʰánʊ́	tanu	tʰanu	hlanu	tánò	hlanu
+FIVE_1		tan	tan	taano	hano	itanu	ʃanu	itaanɔ	iθanɔ		tanu	mítáno			taanunombreʧardinal	tʰanu	firaanu		ʦánu	ʦánu	ɬanu	isanu	taano	tanu	ʃanu	tanu	itano	tano		ǹt͡ɬʰánu		t͡ɬʰánʊ́	tanu	tʰanu	ɬanu	tánò	ɬanu
 FIVE_8													ketalizoho																								
-FLY (MOVE THROUGH AIR)_13		jele	ajele																																		
+FLY (MOVE THROUGH AIR)_13		jele	jele																																		
 FLY (MOVE THROUGH AIR)_35											tilumuka																										
-FLY (MOVE THROUGH AIR)_39	ukùpupuka			kubuuka			phururuka			vumuka					bùùka										bhururuka												
-FLY (MOVE THROUGH AIR)_40																		okutuka										ruka									
-FLY (MOVE THROUGH AIR)_45																										kupàlàlà							ókúpãlãlã				
-FLY (MOVE THROUGH AIR)_46													kufufa			uváva														haha	haha	fʊ̀fà		fhufha	ukubhabha		
-FLY (MOVE THROUGH AIR)_49					ɡuluka			kooloka	ómboka													uluká	kuɡuruka	kuɡuruka					kuuluka								
-FLY (MOVE THROUGH AIR)_50						kuhalala																															
-FLY (MOVE THROUGH AIR)_51																	irumbuka																				
-FLY (MOVE THROUGH AIR)_53																											ɡulala										
+FLY (MOVE THROUGH AIR)_39	pupuka			buuka			pʰururuka			vumuka					bùùka										bʱururuka												
+FLY (MOVE THROUGH AIR)_40																		tuka										ruka									
+FLY (MOVE THROUGH AIR)_45																										pàlàlà							pãlãlã				
+FLY (MOVE THROUGH AIR)_46													fufa			váva														haha	haha	fʊ̀fà		ɸuɸa	bʱabʱa		
+FLY (MOVE THROUGH AIR)_49					luka			oloka	ómboka													uluká	ɡuruka	ɡuruka					uluka								
+FLY (MOVE THROUGH AIR)_50						halala																															
+FLY (MOVE THROUGH AIR)_51																	rumbuka																				
+FLY (MOVE THROUGH AIR)_53																											lala										
 FLY (MOVE THROUGH AIR)_59																			nʣí	nʣì																	
 FLY (MOVE THROUGH AIR)_6												pumbwa																								pùmb	
-FLY (MOVE THROUGH AIR)_62																					ndiza																ukundiza
+FLY (MOVE THROUGH AIR)_62																					ndiza																ndiza
 FOUR_3		njin	ɲiiɲ																																		
-FOUR_4				na	ne	inai	nna	iɲa	iɲa		ja	mínei	ne		naajinombrecardinal		fiini		nné	né	ne	nái	na	ne	na	nanka	ine	ne		mùnè		nɛ̀	kwana	na	ne	áná	kane
-FOUR_8																ceʃe																					
-GIVE_1		ve	avə	kuwa		kuha	pa		hâ			pesa	kufa	kupà	kúpa	uváha		okupa	va	níka	pha		kuha	ɡuha	pá	kufà	kwinha	pa	íkúpa	há		fá		fha	ukupha		ukuphá
+FOUR_4				na	ne	inai	nna	iɲa	iɲa		ja	mínei	ne		naajinombreʧardinal		fiini		nné	né	ne	nái	na	ne	na	nanka	ine	ne		mùnè		nɛ̀	kwana	na	ne	áná	kane
+FOUR_8																ʧeʃe																					
+GIVE_1		ve	və	wa		ha	pa		hâ			pesa	fa	pà	pa	váha		pa	va	níka	pʰa		ha	ha	pá	fà	in̤a	pa	íkúpa	há		fá		ɸa	pʰa		pʰá
 GIVE_18																																				kì	
 GIVE_27								nɛŋɡanɛ									niinjia														ɲíká						
 GIVE_30										bana	ɡana																										
-GIVE_32																																	ókuɪhà				
-GIVE_38	ukùpeːla				peela																	paʦa~peleka															
-GOAT_1	búshí			embuzi		embuzi	mbuʣi	mboi	mbóri				puli		mbùji	imbúuzi			mbúzi	mbúzi	imbuzi	búzi	mbuzi		mbuʣi	mbuji	mbuli	mbuzi		mbútʼi	mbuti	pʊ́dí		mbuʣi	imbuzi	bɛ́lɛ́	imbuzi
+GIVE_32																																	ɪhà				
+GIVE_38	peːla				peela																	paʦa~peleka															
+GOAT_1	búʃí			embuzi		embuzi	mbuʣi	mboi	mbóri				puli		mbùji	imbúuzi			mbúzi	mbúzi	imbuzi	búzi	mbuzi		mbuʣi	mbuji	mbuli	mbuzi		mbútʼi	mbuti	pʊ́dí		mbuʣi	imbuzi	bɛ́lɛ́	imbuzi
 GOAT_15					mpene																			impere													
 GOAT_19											nkombo																						ohombo				
 GOAT_21																	savana																				
@@ -343,33 +343,33 @@ HAIR (HEAD)_39																		efufu
 HAIR (HEAD)_4		ésil	esii																																		
 HAIR (HEAD)_41																								umuʃaʦi													
 HAIR (HEAD)_51	ùmusisi																					síʦi							isusu	nsísí	sísí	rírí					
-HAIR (HEAD)_54																ikharári																					
-HAIR (HEAD)_55																									vhuʣi									vhuliʣhi			
+HAIR (HEAD)_54																ikʰarári																					
+HAIR (HEAD)_55																									v̤uʣi									βuliʤi			
 HAIR (HEAD)_6						eiʃoke					lusuki	nswéi			lúsúki								eiʃokje													sùèí	
 HEAD_1		nlô	n̩lo							mutue	ntu	motú	toho			múru		omuʦe				tú															
 HEAD_11																			ʃiʦwá	hiʦwá								kiʧwa									
 HEAD_17									keɔŋɡɔ́																												
-HEAD_18							sholo														inhloko				musóró					nhlókó	hlókó	t͡ɬʰɔ́χɔ́		tʰhoho	intloko		ínhlókò
+HEAD_18							ʃolo														inɬoko				musóró					nɬókó	ɬókó	t͡ɬʰɔ́χɔ́		tʰhoho	intloko		ínɬókò
 HEAD_3	umùtwe			mutwe	itwe	omutwe		motwɛ̋							mútwe		nrwe						omutwe	umutwe		mutwě	ntwe		mutwe				útwe̍				
 HEAD_8																																				sókò	
-HEART_1	umùtima	nlem	n̩nəm	mutima						muxima		motéma				nrìma		omutima				tíma	omutima	umuʃaha		eʃìmbà							útímá			lémà	
+HEART_1	umùtima	nlem	n̩nəm	mutima						muʃima		motéma				nrìma		omutima				tíma	omutima	umuʃaha		eʃìmbà							útímá			lémà	
 HEART_18											mbundu																										
 HEART_19						omwojo	mojo								móójó				mó						mwojo			mojo	mojo					mwojo			
 HEART_23													pilu																								
 HEART_24														mukuːnka~mi																							
-HEART_25								ŋɡɔɔ	ŋɡɔ́rɔ								nɡoo										ŋholo										
+HEART_25								ŋɡɔɔ	ŋɡɔ́rɔ								nɡoo										ŋ̤olo										
 HEART_28					ntumbúla															mbumbu																	
 HEART_32																														mbilú	mbilú	pɪ̀lʊ́					
-HEART_33																					inhlizijo														inhizijo		ínhlìzíjò
-HEAR_1		wôk	awoʔ									jóka																									
-HEAR_19					hulika	kuhulila																	kuhurira														
+HEART_33																					inɬizijo														inhizijo		ínɬìzíjò
+HEAR_1		wôk	woʔ									jóka																									
+HEAR_19					hulika	hulila																	hurira														
 HEAR_22											wa																										
 HEAR_23																					zwa									twá	zwá						izwa
-HEAR_25	ukùmfwa						hwa			ivua				ùmvwa	kúmvwá	wiíwa		okuuva						kwumva	hwá				kumvwa			út͡ɬwá	ókújévá	pfa	ukuva		
-HEAR_26																										kupùʃa											
-HEAR_29													kutwa																								
-HEAR_32								kweɣwa	íɣwa																		kwiɡwa										
-HEAR_33																	iita																				
+HEAR_25	mfwa						hwa			ivua				ùmvwa	mvwá	iíwa		uva						umva	hwá				mvwa			út͡ɬwá	jévá	p͡fa	va		
+HEAR_26																										pùʃa											
+HEAR_29													twa																								
+HEAR_32								eɣwa	íɣwa																		iɡwa										
+HEAR_33																	ita																				
 HEAR_37																			kía	iʃia								sikia									
 HEAR_41																						mvera															
 HEAR_8																																				ká	
@@ -385,18 +385,18 @@ HORN (ANATOMY)_3																																				sébá
 HORN (ANATOMY)_33								oβja	roheá																												
 HORN (ANATOMY)_35																			ɲoŋɡá	ɲoŋɡa																	
 HORN (ANATOMY)_39																													luja								
-HORN (ANATOMY)_41																					uphondo									rìmhònʣò	limhonʣo				iphondo		úphòndò
+HORN (ANATOMY)_41																					upʰondo									rìm̤ònʣò	lim̤onʣo				ipʰondo		úpʰòndò
 HORN (ANATOMY)_42							ɲanɡa									ɲɲáka						ɲaŋɡá			ɲanɡa							nàká		lunʰanɡa			
 HORN (ANATOMY)_7		nlak	n̩laʔ																																		
 HOUSE_1		nda	nda																																		
 HOUSE_12												ndáko							dáɡo																		
-HOUSE_14															nzùbu											nshibu											
+HOUSE_14															nzùbu											nʃibu											
 HOUSE_16																																				bɔ́kɔ̀	
 HOUSE_17				nju		enju					nzo												enju	inzu									onjo				
 HOUSE_23					ɲuúmba		ŋumba	ɲomba	ɲombá							inúpa	numba			ɲumbá		umba			imba		numba	ɲumba									
 HOUSE_30	àndá																																				
-HOUSE_31																					indlu									jìndɮù	jindɮu	ǹt͡ɬʊ̀		ǹn̪d̪ù	índɮu		índɮu
-HUNGER_1	insalaã	zaé	zɛɲ	njala	nzala	enjala	zhala	joa			nzala	nzala	tala		nzala	itála			nʣája	nʣàa		jala	enjara	inzara	nzara	nzala	nzala	ʄaa		ndɮàlà	ndɮala	t͡ɬàlà	onjala	ndʰala	índɮala	nz̀a	índɮala
+HOUSE_31																					inɮu									jìnd͡lù	jind͡lu	ǹt͡ɬʊ̀		ǹn̪d̪ù	índɮʱu		índɮʱu
+HUNGER_1	insalaã	zaé	zɛɲ	njala	nzala	enjala	ʒala	joa			nzala	nzala	tala		nzala	itála			nʣája	nʣàa		jala	enjara	inzara	nzara	nzala	nzala	ʄaa		nd͡làlà	nd͡lala	t͡ɬàlà	onjala	ndʰala	índɮʱala	nz̀a	índɮʱala
 HUNGER_11									hóːta																												
 HUNGER_12																	soto																				
 HUNGER_16																					lamba																
@@ -404,7 +404,7 @@ INTESTINES_11												mosɔpɔ́
 INTESTINES_13																																				kàtò	
 INTESTINES_18											lukutu																										
 INTESTINES_2	ubula		n̩ja	kjenda		amala	bula	jaa	màrà						dila		maala						amara	amara	ura	ela	bula					là	onɡeja	lula			
-INTESTINES_24					matuúmbu														ʈímbo	ʈumbo	ithumbu	utumbo						tumbo							amatʰumbu		amathumbu
+INTESTINES_24					matuúmbu														ʈímbo	ʈumbo	itʰumbu	utumbo						tumbo							amatʰumbu		amatʰumbu
 INTESTINES_29																nrúpo																					
 IRON_19																																	utali			tálè	
 IRON_20												ebendé																									
@@ -412,30 +412,30 @@ IRON_25															mulonda											bilonda
 IRON_36											kisenɡu																										
 IRON_39				kjuma	cúuma	ekjoma		kjoma	kèɣɛ̀rà							ijuúma			ʃúma	ʃuma			ekjoma	ikjuma				ʧuma									
 IRON_45																											jisinza										
-IRON_50	shimbi																				insimbi				simbi									ʦʼímbí	inʦimbi		insimbi
+IRON_50	ʃimbi																				insimbi				simbi									ʦʼímbí	inʦimbi		insimbi
 IRON_52																						ʦúlo															
 IRON_54																														nʱùmbù							
 IRON_8		étjé	ekjɛɲ																																		
 KILL_10												boma																									
 KILL_11																																				lá	
-KILL_17				kutta		kuita																	kwita	kwica													
-KILL_18	ùkwipaja													ipaja	kúʃípá			okuʤipaɡa								lwìfà							ókwípájà				
-KILL_24																													kujaja								
+KILL_17				tta		ita																	ita	ica													
+KILL_18	ipaja													ipaja	ʃípá			ʤipaɡa								lwìfà							ípájà				
+KILL_24																													jaja								
 KILL_25										bonda	ɡonda																										
-KILL_27													kubalaja																								
-KILL_29					wulaɡa		zwibulaja	koːaa	óraɣa												bulala				úrájá		kubulaɡa					bʊ́lájá		vhulaja	ukubulala		bùlálà
-KILL_3		wôé	awiɲ																																		
+KILL_27													balaja																								
+KILL_29					wulaɡa		zwibulaja	oaa	óraɣa												bulala				úrájá		bulaɡa					bʊ́lájá		βulaja	bulala		bùlálà
+KILL_3		wôé	wiɲ																																		
 KILL_30																	nutuja																				
 KILL_35																			ua									ua									
 KILL_36																				sòŋɡa																	
-KILL_40																						pha															
-KILL_42																wiíva																					
-KILL_43																														dlájá	dájá						
+KILL_40																						pʰa															
+KILL_42																iíva																					
+KILL_43																														d͡lájá	dájá						
 KNEE_11						okujwi	dwi							kunwi													izwi										
 KNEE_22																										ekùnunɡù											
 KNEE_23											kikulu								ɡuŋɡúni	ɡuŋɡúno																	
 KNEE_27										pumuna																											
-KNEE_28															cínú																						
+KNEE_28															ʧínú																						
 KNEE_3		abon̂	abɔŋ									libɔ́lɔ́nɡɔ́																								bɔ́nɡɔ́	
 KNEE_30	ikùfi																																				
 KNEE_33													liŋwele																								
@@ -446,8 +446,8 @@ KNEE_44																												ɡoti
 KNEE_48					ifuɡámilo																																
 KNEE_56																													íɡondo								
 KNEE_58																						bóndo															
-KNEE_60																nikútha																					
-KNEE_61																									bvi												
+KNEE_60																nikútʰa																					
+KNEE_61																									bʋi												
 KNEE_62																																ŋɔ́lɛ́					
 KNEE_63																					idolo									ʦolo	ʣolo				idolo		ídolo
 KNEE_8																		onɡolo															ònɡòlò				
@@ -467,35 +467,35 @@ KNIFE_55																			sembeá	ʃoònonde
 KNIFE_56	pèní																																				
 KNIFE_59																																		ɡona			
 KNIFE_60																																tʰìpá					
-KNIFE_61																					inɡqamu																
+KNIFE_61																					inǃ̬ʱamu																
 KNIFE_62																														mukʼwáná	mukwana						
-KNOW (SOMETHING)_11		jem	ajəm																																		
-KNOW (SOMETHING)_27	ukwìsiba						ziba			ijia		jéba	kuziba			ucúwèla			ʒua	ʤua		ʣiwa			zívá			ʄua	kuzjiba	tívá	tívá		ókúkúlíhà	dʰivha		pí	
+KNOW (SOMETHING)_11		jem	jəm																																		
+KNOW (SOMETHING)_27	ìsiba						ziba			ijia		jéba	ziba			ʧúwèla			ʒua	ʤua		ʣiwa			zíʋá			ʄua	zʲiba	tívá	tívá		kúlíhà	dʰiβa		pí	
 KNOW (SOMETHING)_34											zaba																										
-KNOW (SOMETHING)_36														juka												kuǔka											
-KNOW (SOMETHING)_39																		okuʦeja																			
-KNOW (SOMETHING)_45																					azi											íʦɪ́			ukwazi		úkwâzì
-KNOW (SOMETHING)_8				kumaɲa	maɲa	kumaɲa		maɲȁ	mɛ̀ɲa						kúmáɲá		imaɲa						kumaɲa	kumeɲa			kumana										
+KNOW (SOMETHING)_36														juka												ǔka											
+KNOW (SOMETHING)_39																		ʦeja																			
+KNOW (SOMETHING)_45																					azi											íʦɪ́			azi		âzì
+KNOW (SOMETHING)_8				maɲa	maɲa	maɲa		maɲȁ	mɛ̀ɲa						máɲá		maɲa						maɲa	meɲa			mana										
 LEAF_13									iθaŋɡo																											ánɡɔ̀	
 LEAF_23																										esàki											
-LEAF_25	ìlibuːla																								ʃizha												
+LEAF_25	ìlibuːla																								ʃiʒ̤a												
 LEAF_26																		efo																			
 LEAF_27													litali																								
-LEAF_3							zhani							mani	djâɲé				uwáni	wani								ʄani									
+LEAF_3							ʒani							mani	djâɲé				uwáni	wani								ʄani									
 LEAF_30																																	émélá				
 LEAF_33						ekibabi																	eibabi	ibabi													
 LEAF_34				kikoola																																	
 LEAF_35								eðaŋɡo									iru										idutu		itu								
 LEAF_4		kaé	okjɛɲ							difu	lukaja	lokásá																									
 LEAF_50					ihaánze											niwámba						ʦamba															
-LEAF_59																																			iɡqabi		ikhasi
+LEAF_59																																			iǃ̬ʱabi		ikʰasi
 LEAF_60																																t͡ɬʰàrɪ̀		tari			
-LEAF_61																					ihlamvu																
+LEAF_61																					iɬamvu																
 LEAF_62																														tlula	tluka						
 LEG_1	ùkuːlu			kuɡulu	ḿɡulu	okuɡulu		koo	kòɣòrò		malu	lokolo	lihutu		múkolo			okuɡulu				endo	okuɡuru	ukuɡuru		mukǒlò	ɡuɡulu	mɡuu	kuulu				ókúlú			kò	
 LEG_12										kinama																											
 LEG_14																	urende																				
-LEG_26																					umlenze													mulenzhe	umlenze		umlenze
+LEG_26																					umlenze													mulenʒe	umlenze		umlenze
 LEG_32																			munɖú	mndú																	
 LEG_36																mwétto																					
 LEG_37							ɡumbo																		ɡumbo												
@@ -506,7 +506,7 @@ LIVER_1												libale																								bàè
 LIVER_22																								iɡitiɡu													
 LIVER_27									ini										ɲé	ɲe			ekine					ini	muni								
 LIVER_34											nsoko																										
-LIVER_40						omwiilima		etɛma		nzundu					múcimá		irima									eshimbadifite	itima										
+LIVER_40						omwiilima		etɛma		nzundu					múʧimá		irima									eʃimbadifite	itima										
 LIVER_49																		ehuli																			
 LIVER_5		osaɲ	esəʔ																																		
 LIVER_50													sibiti																								
@@ -514,7 +514,7 @@ LIVER_51																																	ómu̍má
 LIVER_54				kibumba																																	
 LIVER_59					ítoɡa																																
 LIVER_62	ilìbu																																				
-LIVER_65																					isibindi	windí								xivínʣí	civínʣí	bɪ́tɪ́		ʧivhindi	isibindi		isibindi
+LIVER_65																					isibindi	windí								ʃivínʣí	ʧivínʣí	bɪ́tɪ́		ʧiβindi	isibindi		isibindi
 LIVER_67							lopa																		rópá												
 LIVER_68																hápa																					
 LOUSE_19																													njina								
@@ -526,7 +526,7 @@ LOUSE_37																												ʧawa
 LOUSE_38					mpani																																
 LOUSE_44																						sabwe															
 LOUSE_47																iʈʰúpo																					
-LOUSE_49																					intwala									nhwálá	nhwálá				intwala		íntwálà
+LOUSE_49																					intwala									n̤wálá	n̤wálá				intwala		íntwálà
 LOUSE_5		njin	ɲin																																		
 MAN_13		fam	fam																																		
 MAN_2	umwàːume				múlume		lume	omɛ	ɲjámba					mwânamulùme	mulume		nndumi	omulumentu	mnʈubabá	mume					murúmé	mulùme		mwanamume	mulombwana				úlúmé				
@@ -545,7 +545,7 @@ MOON_13												sánzá
 MOON_21																																	ésájì				
 MOON_23																					injanɡa														injanɡa		íɲànɡá
 MOON_3																																				sónɡé	
-MOON_5	umwèsi			mwezi	mwéezi	omwezi	ŋweʣi	mwɛi	mwɛ́ri	mbeji			kweli	kwêzi	mwenzí	mweéri	mwiiri	omweʤi	mwézi	mwézi		ezí	okwezi	ukwezi	mwèʣí	mwêʃi	ŋweji	mwezi	mwezi	n̍hwétí	hwétí	qʰwèdí		mweʣi			
+MOON_5	umwèsi			mwezi	mwéezi	omwezi	ŋweʣi	mwɛi	mwɛ́ri	mbeji			kweli	kwêzi	mwenzí	mweéri	mwiiri	omweʤi	mwézi	mwézi		ezí	okwezi	ukwezi	mwèʣí	mwêʃi	ŋweji	mwezi	mwezi	n̍hwétí	hwétí	ǃʰwèdí		mweʣi			
 MOUTH_11																						kamwa															
 MOUTH_16										dikanu				kjàkanwa	múkáná			okana								kukànwà											
 MOUTH_18					ḿlomo		lomo						mulomo								umlomo				ròmò		nomo			nomo	nomo	lòmʊ̀		mulomo	umlomo		úmlòmò
@@ -559,7 +559,7 @@ NAME_16								esjetwa	ritwa																zítá
 NAME_17					ítaɡwa																																
 NAME_19																																			iɡama		îkâmà
 NAME_3												nkómbó																									
-NAME_4	isìːna			linɲa			zina			dijina	zina			diːzìna	dîná	ʔncína	irina	eʤina	ʣína	ʣína		ʣína	eiziina	izina		eʃìna	lina	ʄina	zina			íná		ʣina		ínà	
+NAME_4	isìːna			linɲa			zina			dijina	zina			diːzìna	dîná	ʔnʧína	irina	eʤina	ʣína	ʣína		ʣína	eiziina	izina		eʃìna	lina	ʄina	zina			íná		ʣina		ínà	
 NAME_5		jôé	ejola																																		
 NAVEL_11											nkumba																										
 NAVEL_16																										musuku											
@@ -571,20 +571,20 @@ NAVEL_27																												kitovu
 NAVEL_3	mutoto											motolú			mûfu				ʈúnʈu																		
 NAVEL_30																						ʧómbo												mukombo			
 NAVEL_33					ciduo																																
-NAVEL_40																nttékhu																					
+NAVEL_40																nttékʰu																					
 NAVEL_42																					inkaba									ŋ̀káβá					iŋkʼaba		inkaba
-NAVEL_5			dɔp										makubu							kovu					ɡuvhu							húbú					
+NAVEL_5			dɔp										makubu							kovu					ɡuv̤u							húbú					
 NAVEL_9																																				ɛ̀sɛ́	
 NECK_24													mulala																								
 NECK_25						enɡoto																	ebiʦja														
 NECK_26				bulaɡo																																	
 NECK_29																	sunɡo																				
-NECK_34							ʦhibha																		muʦìpà												
+NECK_34							ʦʰibʱa																		muʦìpà												
 NECK_35																																làlà					
-NECK_36																					intamo									nhamu	nhamu				intamo		intamu
-NECK_6	ùmukoshi																					khosi		izosi													
-NECK_7		tjin̂	kiŋ		síiŋɡo			ŋɡiŋɡɔ	ŋɡíŋɡɔ́	xinɡu	nsinɡu	nkinɡó		nshinɡo	nʃiŋu	isíko		othinɡo	nʦíŋɡo	nʦiŋɡo						nʃìnɡo	nhinɡo	ʃinɡo	nsinɡo				ósínɡó	muʦinɡa		kínɡó	
-NIGHT_1	ubùsiku						siku	otuko	otúko	usuku			busihu	bufuku	bútukú	uhíju		uusiku		masihu	ubusuku	síku			usíkú	bufùku	bujiku	usiku	busiku	vusíkú	wusíkú	síχʊ́	úte̍ké	vhusiku	ubusuku		ubusuku
+NECK_36																					intamo									n̤amu	n̤amu				intamo		intamu
+NECK_6	ùmukoʃi																					kʰosi		izosi													
+NECK_7		tjin̂	kiŋ		síiŋɡo			ŋɡiŋɡɔ	ŋɡíŋɡɔ́	ʃinɡu	nsinɡu	nkinɡó		nʃinɡo	nʃiŋu	isíko		oθinɡo	nʦíŋɡo	nʦiŋɡo						nʃìnɡo	n̤inɡo	ʃinɡo	nsinɡo				ósínɡó	muʦinɡa		kínɡó	
+NIGHT_1	ubùsiku						siku	otuko	otúko	usuku			busihu	bufuku	bútukú	uhíju		uusiku		masihu	ubusuku	síku			usíkú	bufùku	bujiku	usiku	busiku	vusíkú	wusíkú	síχʊ́	úte̍ké	βusiku	ubusuku		ubusuku
 NIGHT_27											mpimpa																										
 NIGHT_31																								ijoro													
 NIGHT_32				kiro	cílo	ekilo											jijo						ekiro														
@@ -596,14 +596,14 @@ NOSE_25													ŋɡo
 NOSE_26				nɲindo		eɲindo																	eɲindo														
 NOSE_28								eɲoo	inoro																		ljulu										
 NOSE_29					mpûla											noroo	mbua		mpúa	mbùa								pua									
-NOSE_32																						funo			mhùnò												
+NOSE_32																						funo			m̤ùnò												
 NOSE_33																					impumulo														pumlo		
 NOSE_35																													ímpemo								
 NOSE_36							milo																														
 NOSE_37																																		ninɡo			
 NOSE_38																																ŋ̀kɔ́					
-NOSE_40																																					íkhàlà
-NOSE_41																														nhómpfú	nhóvú						
+NOSE_40																																					íkʰàlà
+NOSE_41																														n̤ómp͡fú	n̤óvú						
 NOSE_5		jôé	ʤwiɲ									nzólo		muːlù	djûlúdíulú			ejulu						izuru									éɲulu			míɔ̀	
 NOSE_6																										mpèmbe											
 NOSE_7											mbombo																										
@@ -614,16 +614,16 @@ ONE_15					moŋɡa
 ONE_25													ŋwi																			ŋwɪ̀					
 ONE_30																moka			moʒá									moʄa									
 ONE_36							nʔompela																														
-ONE_37																																		thihi			
+ONE_37																																		tʰihi			
 ONE_38																					ɲe									n̍we	n̍we				ɲe		ɲe
-ONE_5										moxi	mosi									monʦi		móʣi											mósì			émɔ̀tí	
-ORGANIC FAT OR OIL_1	amàfuta			mafuta	máfuta	amajuta	futa	maútȁ	maɣúta		mafuta	mafúta	mafula		mafúta	makhúra	mafura		maʈá	mafúra	amafutha	fúta	amajuta	amavuta	mafútá		maɡuta	mafuta	máfuta	mafúrhá	mafúrá	fúrá		mapfura	amafutʰa		ámáfùthà
+ONE_5										moʃi	mosi									monʦi		móʣi											mósì			émɔ̀tí	
+ORGANIC FAT OR OIL_1	amàfuta			mafuta	máfuta	amajuta	futa	maútȁ	maɣúta		mafuta	mafúta	mafula		mafúta	makʰúra	mafura		maʈá	mafúra	amafutʰa	fúta	amajuta	amavuta	mafútá		maɡuta	mafuta	máfuta	mafúrʱá	mafúrá	fúrá		map͡fura	amafutʰa		ámáfùtʰà
 ORGANIC FAT OR OIL_10										maji				mani				omakaɡaʤi																		bòàdí	
 ORGANIC FAT OR OIL_24																										mwîmù											
 ORGANIC FAT OR OIL_26																																	úlélà				
 ORGANIC FAT OR OIL_4		avon̂	avɔŋ																																		
-PERSON_14																									munhu		munhu			munhu	munhu						
-PERSON_2	ùmuntu	môt	mbot	omuntu	muúntu	omuntu	tʰu	mōːn̏dȍ	mòndò	mutu	muntu	moto	mutu	muntu	muntu	ʔntthu	ndu	omuntu	múnʈu	m̀nɖu	umuntu	nthu	omuntu	umuntu		mûntu		mtu	muntu			tʰʊ̀	ómúnù	muthu	umntu	tò	umuntu
+PERSON_14																									mun̤u		mun̤u			mun̤u	mun̤u						
+PERSON_2	ùmuntu	môt	mbot	omuntu	muúntu	omuntu	tʰu	mōːn̏dȍ	mòndò	mutu	muntu	moto	mutu	muntu	muntu	ʔnttʰu	ndu	omuntu	múnʈu	m̀nɖu	umuntu	ntʰu	omuntu	umuntu		mûntu		mtu	muntu			tʰʊ̀	ómúnù	mutʰu	umntu	tò	umuntu
 RAIN (PRECIPITATION)_1		mven̂	mvəŋ																																		
 RAIN (PRECIPITATION)_16				nkuba																																	
 RAIN (PRECIPITATION)_17																										mpèʃi											
@@ -631,14 +631,14 @@ RAIN (PRECIPITATION)_19						enjula																	enjura
 RAIN (PRECIPITATION)_20																				ɲa																	
 RAIN (PRECIPITATION)_22																ipúla	fua																				
 RAIN (PRECIPITATION)_25							na														na																
-RAIN (PRECIPITATION)_4	ḿfùlà				mvûla			mbua	mbúra	nvula	mvula	mbúla	pula	mvula	mvulá			omvula	vúa			bvúla		imvura	mvura		mbula	mvua	mvula	mpfúlá	vúlá	púlá	ómbe̍la	mvula	imvula	mbúá	ímvûlà
-ROAD_1	ǹsila	zen	zən		nzîla		zila	nzea	ɲjerá	njila	nzila	nzelá	nzila		nzílá		shija	ondjila				jira		inzira	nzìrà		nzila	nʄia	inzila			ʦɪ̀là	óudjílà			ndíá	
+RAIN (PRECIPITATION)_4	ḿfùlà				mvûla			mbua	mbúra	nvula	mvula	mbúla	pula	mvula	mvulá			omvula	vúa			bvúla		imvura	mʋura		mbula	mvua	mvula	mp͡fúlá	vúlá	púlá	ómbe̍la	mvula	imvula	mbúá	ímvûlà
+ROAD_1	ǹsila	zen	zən		nzîla		zila	nzea	ɲjerá	njila	nzila	nzelá	nzila		nzílá		ʃija	ondjila				jira		inzira	nzìrà		nzila	nʄia	inzila			ʦɪ̀là	óudjílà			ndíá	
 ROAD_33														diːʃìndà												eʃìnda											
 ROAD_34						omuhanda																	omuhanda														
 ROAD_35				kkubo																																	
 ROAD_40																			paré	paré																	
-ROAD_42																nttála														ndlela	ndlela			ndʰila	indlela		índlèlà
-ROAD_46																					umɡwaqo																
+ROAD_42																nttála														nd͡lela	nd͡lela			ndʰila	ind͡ɮela		índ͡ɮʱèlà
+ROAD_46																					umɡwaǃo																
 ROOT_1		nkaɲ	ŋ̍kaŋ									mokánɡá																									
 ROOT_13																																				nɡìlì	
 ROOT_22						omuzi	ʣi		mòrì					ji	múzí		nrari	omuʤi	mwízi	mzi		zu	omuzi	umuzi	muʣì	muʃì	nzwi					dì		muʣi			
@@ -652,15 +652,15 @@ ROOT_47																												mzizi
 ROOT_50					ḿdela																																
 ROOT_54	ùmusila																																				
 ROOT_55																													imujanda								
-ROOT_56																nritaathi																					
-ROOT_57																																			inɡcambu		
+ROOT_56																nritaatʰi																					
+ROOT_57																																			inɡǀambu		
 ROOT_58																					impande																ímpàndè
 ROOT_59																														riminʦu	liminʦu						
-SALT_18	cele														mukèlèà							ʧére															
-SALT_24				munɲo	mwíino	mwoɲu		moɲo	moóɲo										ʃíŋɡo	mɲo			omwoɲo	umwuɲu	muɲu		munhu	muɲu		múɲú							
-SALT_26																	shimbi																				
-SALT_37																maakha																					
-SALT_38																					iʧwʔaji											ʦwáí		matavha	itjuwa		iʦwaji
+SALT_18	ʧele														mukèlèà							ʧére															
+SALT_24				munɲo	mwíino	mwoɲu		moɲo	moóɲo										ʃíŋɡo	mɲo			omwoɲo	umwuɲu	muɲu		mun̤u	muɲu		múɲú							
+SALT_26																	ʃimbi																				
+SALT_37																maakʰa																					
+SALT_38																					iʧwʔaji											ʦwáí		mataβa	itjuwa		iʦwaji
 SALT_5		nku	ŋ̍ku								munɡwa	monɡwa														munɡwa							omonɡwa			kúá	
 SAND_10		nselek	n̩sələʔ																																		
 SAND_13	ùmusènɡa				mhaáŋka			keðaŋɡaðe	moθâŋɡa	senɡe	senɡi			musenɡa	lúséŋá		nsanɡa		mʦàŋɡa	mʦaŋɡa		ʧenɡa						mʧanɡa	musenɡa								
@@ -668,21 +668,21 @@ SAND_14																																				kɛ́nzɛ́
 SAND_15												zɛlɔ																									
 SAND_23				museɲu		omuʃeɲe																	omuʃeeɲi	umuseɲi													
 SAND_29																										mafjènkjeɲì											
-SAND_30													mushabati								isihlabathi																ísíhlàbâthì
+SAND_30													muʃabati								isiɬabatʰi																ísíɬàbâtʰì
 SAND_32																		evi																			
 SAND_4																															seke		évè				
 SAND_43																ʔnhááva														sává		ʃàwà					
 SAND_44							seʧe																		jéʧà												
 SAND_45																																			isanti		
-SEE_1		jen	ajen																																		
+SEE_1		jen	jen																																		
 SEE_16																																				tá	
-SEE_18	ukùmona				wona	kubona		kwɔna	ɔ́na	mona	mona	móna	kubona	mona	kúmoná	oóna		okumona	óna	ona	bona	ona		kubona	óna	kumòna	kubona	ona	kubona	vóná	wóná	bɔ́ná	ókúmólá	vhona	ukubona		úkúbónà
+SEE_18	mona				wona	bona		ɔna	ɔ́na	mona	mona	móna	bona	mona	moná	oóna		mona	óna	ona	bona	ona		bona	óna	mòna	bona	ona	bona	vóná	wóná	bɔ́ná	mólá	βona	bona		bónà
 SEE_26																	lolija																				
-SEE_27																							kureeba														
-SEE_28				kulaba																																	
-SEND_1	tum	lôm	alom		tuma	kutuma	tuma	toma	tomá		tuma		tuma		tùma	urúma	iruma			rúma	thuma	tuma	kutuma	ɡutuma	tuma	kutuma		tuma		r̥úma		rʊ́má	tuma	ruma	ukuthuma	tím	thuma
-SEND_16				kuweeliza																																	
-SEND_19																											kutwala										
+SEE_27																							reeba														
+SEE_28				laba																																	
+SEND_1	tum	lôm	lom		tuma	tuma	tuma	toma	tomá		tuma		tuma		tùma	rúma	ruma			rúma	tʰuma	tuma	tuma	tuma	tuma	tuma		tuma		r̥úma		rʊ́má	tuma	ruma	tʰuma	tím	tʰuma
+SEND_16				weeliza																																	
+SEND_19																											twala										
 SEND_2												tínda																									
 SHAME_11															bumvu																						
 SHAME_14																	sonu																				
@@ -690,9 +690,9 @@ SHAME_16							haɲa												hája
 SHAME_19																						ɲazí			ɲaʣi												
 SHAME_21																				aibu								aibu									
 SHAME_23																																t͡ɬʰóŋ́					
-SHAME_24																																			torho		
+SHAME_24																																			toxo		
 SHAME_25																														tʼiŋɡaná							
-SHAME_5	soni		oswan	nsoɲi	soni	enʃoni		nðɔni	cɔ́nɔka		nsoni					isóni					amahloni		enʃoni	isoni			soni							vhutoni		sɔ́nì	amahloni
+SHAME_5	soni		oswan	nsoɲi	soni	enʃoni		nðɔni	ʃɔ́nɔka		nsoni					isóni					amaɬoni		enʃoni	isoni			soni							βutoni		sɔ́nì	amaɬoni
 SING_2	imbu	jia	ajiɛ	kujimba	imba		mba				jimbila	jémba			imba		iimba					imba		kuririmba	imba		kwimba	imba					imba	imba		lémb	
 SING_29													nɡuja																								
 SING_30																							kweʃonɡora														
@@ -701,12 +701,12 @@ SING_32								ina	ína
 SING_39																			héʣa	heza																	
 SING_42																wiípèsa																					
 SING_43																																ɔ́pɛ́lá					
-SING_44																																			ukucula		cula
-SING_45																					hlabelela									jímbelela							
+SING_44																																			ukuǀula		ǀula
+SING_45																					ɬabelela									jímbelela							
 SKIN_1		ékôp	ekop											lukoba	díkoba									uruhu		ekòba							éko̍vá				
 SKIN_11																																				kátá	
 SKIN_12												lopóso																									
-SKIN_32																		oshipa																			
+SKIN_32																		oʃipa																			
 SKIN_33						omubilihomme																															
 SKIN_34													litalo																								
 SKIN_37								kekɔndɛ	ɣekɔndɛ́																												
@@ -715,12 +715,12 @@ SKIN_40				nkuta																							iɡula
 SKIN_45																			ŋɡózi	ŋɡòzi								nɡozi									
 SKIN_49					ɲciíŋɡo																																
 SKIN_53																																t͡ɬàpɪ̀					
-SKIN_57																																					ísíkhùmbà
+SKIN_57																																					ísíkʰùmbà
 SKIN_58																						nɡuo															
 SKIN_59																					isiɡoɡo																
 SKIN_60																nrápála																					
 SKIN_62																																			ijwambu		
-SKIN_63																														nhlonɡé	hlónɡé						
+SKIN_63																														nɬonɡé	ɬónɡé						
 SKIN_9	nkàndà						ɡanda			kiba	nkanda						ikanda								ɡanda				ícíkanda					lukanda			
 SKY_18																																				nzàmbé	
 SKY_3				ɡɡuru		eiɡulu			ìɣòrò		zulu	likoló			djulu								eiɡuru	ijuru		eilu								lʰitʰadʰulu	izulu		izulu
@@ -728,11 +728,11 @@ SKY_33								jajaja
 SKY_34																	iruveu																				
 SKY_36																			wíŋɡu	biŋɡu								uwinɡu									
 SKY_40					ulaŋɡa																																
-SKY_48																						thambo															
+SKY_48																						tʰambo															
 SKY_49																irímu																					
 SKY_50																									denɡa												
 SKY_51																																ápí					
-SKY_52																					isibhakabhaka																
+SKY_52																					isibakabaka																
 SKY_53																														tʼìlò							
 SKY_7		jôp	ʣop																																		
 SLEEP (STATE)_1	utùlo	ôjo	ojo	otulo		otulo		tɔɔ	tɔrɔ̌	kilu	tulu				túlu							tuló				túlǒ	tulo						étúlo̍				
@@ -742,24 +742,24 @@ SLEEP (STATE)_23																								amatiro
 SLEEP (STATE)_25																							okuɡwejeɡjera														
 SLEEP (STATE)_27																	nruo																				
 SLEEP (STATE)_31																												sinɡizi									
-SLEEP (STATE)_32					ntóoŋɡo																ubuthonɡo									βur̥oŋɡó					ubútʰoŋɡo		ubútʰoŋɡo
+SLEEP (STATE)_32					ntóoŋɡo																ubutʰonɡo									βur̥oŋɡó					ubútʰoŋɡo		ubútʰoŋɡo
 SLEEP (STATE)_37																													n̍ɡonzi								
-SLEEP (STATE)_39							nkopeshulo									ikhóve									hope									khofhe			
+SLEEP (STATE)_39							nkopeʃulo									ikʰóve									hope									kʰoɸe			
 SLEEP (STATE)_41																																rɔ̀kɔ̀					
 SLEEP (STATE)_7																																				tɔ̀nɡì	
 SMOKE (EXHAUST)_17																																				múè	
 SMOKE (EXHAUST)_18												mólinɡa																									
-SMOKE (EXHAUST)_21	icùnsi				ljóosi		si	sjoki		dixi	mwisi		musi	mwîʃi	mwînʃí	mwiíxi		olwithi	mósi	ʤosi		ʦí		umwoʦi	ùʦí	mîʃi	ljoʧi	moʃi	íbúsi	músí	músí	sí	ówísí	muʦi	uḿsi		úmúsì
+SMOKE (EXHAUST)_21	iʧùnsi				ljóosi		si	sjoki		diʃi	mwisi		musi	mwîʃi	mwînʃí	mwiíʃi		olwiθi	mósi	ʤosi		ʦí		umwoʦi	ùʦí	mîʃi	ljoʧi	moʃi	íbúsi	músí	músí	sí	ówísí	muʦi	uḿsi		úmúsì
 SMOKE (EXHAUST)_33				mukka		omwiika																	omwika														
 SMOKE (EXHAUST)_37									ndɔ̀ːɣɔ̀																												
 SMOKE (EXHAUST)_38																	musu																				
-SMOKE (EXHAUST)_4																					thunqa																
+SMOKE (EXHAUST)_4																					tʰunǃa																
 SMOKE (EXHAUST)_7		ôtita	oʦira																																		
-SNAKE_1		njo	ɲo		nzôka	enjoka	ɲoka	nzoka				njóka	noha		nnjòka	inwáa	shoka		ɲóha	ɲóha	injoka		enjoka	inɡoka	ɲoka	nioka	nzoka	ɲoka		ɲókʼá	ɲoka	nɔ́χá	onjoha	nʰowa	iɲoka	nzɔ	iɲoka
+SNAKE_1		njo	ɲo		nzôka	enjoka	ɲoka	nzoka				njóka	noha		nnjòka	inwáa	ʃoka		ɲóha	ɲóha	injoka		enjoka	inɡoka	ɲoka	nioka	nzoka	ɲoka		ɲókʼá	ɲoka	nɔ́χá	onjoha	nʰowa	iɲoka	nzɔ	iɲoka
 SNAKE_18											mboma																										
 SNAKE_20				musota																																	
 SNAKE_28									ɲamojaðe																												
-SNAKE_31	icilamba																																				
+SNAKE_31	iʧilamba																																				
 SNAKE_32																						nʣiira															
 SPEAR_1		akon̂	akɔŋ								dionɡa	likɔnɡó																								kɔ̀nɡɔ́	
 SPEAR_11																										mulumbu											
@@ -769,15 +769,15 @@ SPEAR_14																								iterano
 SPEAR_15									itímo																		iʧimu										
 SPEAR_20					ḿɡoha																																
 SPEAR_21																												mkuki									
-SPEAR_24																						thúnɡo															
+SPEAR_24																						tʰúnɡo															
 SPEAR_26																níváka																					
-SPEAR_27																																			umkhonto		umkhonto
+SPEAR_27																																			umkʰonto		umkʰonto
 SPEAR_28																					ɡwaza																
-SPEAR_5	ifùmò			ffumu		eiʧumu		etúmɔ̏									ifumu		fúmo	fúmu			eicumu		pfumo					fúmó		rúmɔ́		pfumo			
+SPEAR_5	ifùmò			ffumu		eiʧumu		etúmɔ̏									ifumu		fúmo	fúmu			eiʧumu		p͡fumo					fúmó		rúmɔ́		p͡fumo			
 STEAL_27																																		ʦwa			
-STEAL_4	ibu			kubba	hiiza	kuiba	kwiba	ŋɛa	íja		jiba	jiba			iba	wiíja	iiva		híba	hiba	eba	ba	kwiba	kwiba	ba		kwiba	iba		jíβa	jiva		iva		ukweba	jíb	eba
-STEAL_5		wup	awup																																		
-STONE_12	ìlibwe				íbwe		bɡe						licwe	diːbwe	díbwé		iwe		bwé	bwè				ibuje	bwe	ebwà	iwe	ʄiwe	ibbwe	ribje			éwe̍			bùè	
+STEAL_4	ibu			bba	hiiza	iba	iba	ŋɛa	íja		jiba	jiba			iba	iíja	iva		híba	hiba	eba	ba	iba	iba	ba		iba	iba		jíβa	jiva		iva		eba	jíb	eba
+STEAL_5		wup	wup																																		
+STONE_12	ìlibwe				íbwe		bɡe						liʧwe	diːbwe	díbwé		iwe		bwé	bwè				ibuje	bwe	ebwà	iwe	ʄiwe	ibbwe	ribje			éwe̍			bùè	
 STONE_13												libánɡá																									
 STONE_2		akok	akɔʔ																																		
 STONE_3										tadi	tadi																										
@@ -787,15 +787,15 @@ STONE_32									ihíɣa
 STONE_33								eβia																													
 STONE_38																						alá															
 STONE_39																ʔnlùku																					
-STONE_40																																		muʣivho			
+STONE_40																																		muʣiβo			
 STONE_41																					iliʧʔe										ʃwa	t͡ɬàpá			ilitje		íʧè
 STONE_9																		emanja																			
 SUN_12												mói																									
 SUN_15																																				ísé	
-SUN_24										muanha																							éku̍mbí				
+SUN_24										muaɲa																							éku̍mbí				
 SUN_33											ntanɡu							etanɡo																			
 SUN_47													lizazazi																								
-SUN_5	akàsuba	jôp	n̩loʣop	njuba	ízuva	eizoba	zhuba	sjoa	rióa					djuba	dîbá	́ncúwa	saa		ʒúa	ʤua		ʣúwa	eizooba	izuba	zuva	ńɡùba		ʄua	zuba					dʰuvha			
+SUN_5	akàsuba	jôp	n̩loʣop	njuba	ízuva	eizoba	ʒuba	sjoa	rióa					djuba	dîbá	́nʧúwa	saa		ʒúa	ʤua		ʣúwa	eizooba	izuba	zuʋa	ńɡùba		ʄua	zuba					dʰuβa			
 SUN_58																											limi										
 SUN_63																																ʦàʦí					
 SUN_64																					ilanɡa														ilanɡa		ìlànɡà
@@ -807,25 +807,25 @@ TAIL_25																								umurizo
 TAIL_29								mweðɛ																													
 TAIL_41							ŋwise																														
 TAIL_42																																χàt͡ɬá					
-TAIL_6	umùkila			mukira	múcila	omukila			mutiːŋɡɔ́ɛ	mukila	nkila	mokilá		kila	múkilá	mwila	njija	omushila	mʃía	mʃía	isisila	ʧíra	omukira		muʧira	mukìla	nkila	mkia	mucila	ncílá	cílá		úkɪ̠̍l̠á̠	muʧila	umsila		umsila
-TEN_1	kumi	awôm	awom	kkumi	ikumi	ikumi	ɡumi	ekómȉ	ikumi		kumi	zómí	lishumi		diikùmi		ikumi		kúmi	kume	ʧumi	khúmi	ikumi	icumi	ɡumi	ekumi	ikumi	kumi		kʰúme		sʊ́mɛ́	ekwi	fumi	iʃumi		jiʃumi
+TAIL_6	umùkila			mukira	múcila	omukila			mutiːŋɡɔ́ɛ	mukila	nkila	mokilá		kila	múkilá	mwila	njija	omuʃila	mʃía	mʃía	isisila	ʧíra	omukira		muʧira	mukìla	nkila	mkia	mucila	nʧílá	ʧílá		úkɪ̠̍l̠á̠	muʧila	umsila		umsila
+TEN_1	kumi	awôm	awom	kkumi	ikumi	ikumi	ɡumi	ekómȉ	ikumi		kumi	zómí	liʃumi		diikùmi		ikumi		kúmi	kume	ʧumi	kʰúmi	ikumi	icumi	ɡumi	ekumi	ikumi	kumi		kʰúme		sʊ́mɛ́	ekwi	fumi	iʃumi		jiʃumi
 TEN_11																																				kámɔ́	
-THREE_1				satu	datu	iʃatu	tʰatu	itato	iθatu		tatu	mísáto	talu		sàtùpronomnuméralcardinal	raru	firaru		ráru	ráru	thathu	itátu	ʃatu	tatu	nhatu	satu	idatu	tatu		r̥ár̥u	nʱaru	rárʊ́	tatu	raru	thathu	sátò	thathu
+THREE_1				satu	datu	iʃatu	tʰatu	itato	iθatu		tatu	mísáto	talu		sàtùpronomnuméralʧardinal	raru	firaru		ráru	ráru	tʰatʰu	itátu	ʃatu	tatu	n̤atu	satu	idatu	tatu		r̥ár̥u	nʱaru	rárʊ́	tatu	raru	tʰatʰu	sátò	tʰatʰu
 THREE_2		la	laa																																		
 TONGUE_1	ulùlimi	ôjem	ojəm	lulimi	ilimi	olurimi	limi	oemɛ	roréme	dimi	ludimi	lolému	lulimi	ludìmi	lúdimí	nlumi	ulumi		ulími	ulíme	ulimi	líme	orurimi	ururimi	rìmì	edìmi	lulimi	ulimi		rirímí	lirímí	lɪ́mɪ́	élímí	lulimi	ulwimi	lémè	ulimi
 TONGUE_14																		elaka																			
 TONGUE_20																													mulaka								
 TOOTH_1		ason̂	asoŋ																																		
-TOOTH_3	ilìːno			elinɲo	líino	eliino	zhino				dinu	líno	liino	dîno	dînú	niino	mwiini		ʣíɲo	ʣíɲo	iziɲo	ʣíno	eriino	iriɲo	zínó	eìno	lino	ʄino	ílíɲo	tínó	tínó	ínɔ́		lʰinʰo	iziɲo	ínò	ízîɲò
+TOOTH_3	ilìːno			elinɲo	líino	eliino	ʒino				dinu	líno	liino	dîno	dînú	niino	mwiini		ʣíɲo	ʣíɲo	iziɲo	ʣíno	eriino	iriɲo	zínó	eìno	lino	ʄino	ílíɲo	tínó	tínó	ínɔ́		lʰinʰo	iziɲo	ínò	ízîɲò
 TOOTH_4								eɛɔ	ìɣɛ̀ɣɔ̀	diju								ejeɡo															éijò				
-TREE_1	ìcimùti	élé	ele	muti	múti	omuti	ti	mote	moté	muxi	nti	nzeté		muʧì	múci	mwíri	nri	omuti	mwirí	mdrí			omuti	iɡiti	mutí	muʦhi	linti	mti		murhe		t͡ɬʰàrɪ̀	útì	muri	umthi	lé	umuthi
+TREE_1	ìʧimùti	élé	ele	muti	múti	omuti	ti	mote	moté	muʃi	nti	nzeté		muʧì	múʧi	mwíri	nri	omuti	mwirí	mdrí			omuti	iɡiti	mutí	muʦʰi	linti	mti		murʱe		t͡ɬʰàrɪ̀	útì	muri	umtʰi	lé	umutʰi
 TREE_26													kota																								
 TREE_32																													cisamu								
 TREE_36																						nténɡo															
-TREE_40																					isihlahla																
+TREE_40																					isiɬaɬa																
 TREE_41																															siɲa						
 TWO_1		baé	bɛɲ							iadi		míbalé						jaali															váːlì			báé	
-TWO_11	bili			bili		bili		ile	iɣere				beli	bìdì	bidi	ili	fivili		ilí	ilí	bili	iwíri	biri	biri	vìrí	bàbìdì	ibili	wili	bi̋le	mbírhí	mbirí	bèdí		vhili	bini		bili
+TWO_11	bili			bili		bili		ile	iɣere				beli	bìdì	bidi	ili	fivili		ilí	ilí	bili	iwíri	biri	biri	ʋìrí	bàbìdì	ibili	wili	bi̋le	mbírʱí	mbirí	bèdí		βili	bini		bili
 TWO_18					ɲejete																																
 TWO_6											ole																										
 URINE_11															mênjiu												mine									biɲɛ̀	
@@ -843,41 +843,41 @@ URINE_29					matuúnzi
 URINE_31																					umʧamo														umʧamo		umʧamo
 URINE_9		menjôlôk	məɲɔʔɔ																																		
 VILLAGE_17		jal	ʣaa																																		
-VILLAGE_26	umushi				cijiji								munzi			ikijíiji			múʒi	m̀ʤi	umuzi	ʣi						kiʄiʄi		mutʼi		ʦɪ̀		mudʰi			umuzi
+VILLAGE_26	umuʃi				cijiji								munzi			ikijíiji			múʒi	m̀ʤi	umuzi	ʣi						kiʄiʄi		mutʼi		ʦɪ̀		mudʰi			umuzi
 VILLAGE_30											bwala																										
 VILLAGE_37																																	imbo				
 VILLAGE_38																										kikulu											
 VILLAGE_39															musòkòù																						
 VILLAGE_41																								iɡisaɡara													
 VILLAGE_42				kjalo		ekʲalo																	ekjaro				ʧalo										
-VILLAGE_49									ɡicaɡi																												
+VILLAGE_49									ɡiʃaɡi																												
 VILLAGE_51																	jinɡu																				
 VILLAGE_52								ndoá																													
-VILLAGE_66																																			idolophana		
+VILLAGE_66																																			idolopʰana		
 VILLAGE_68																									muʃa												
 VILLAGE_7																																				mbókà	
 VOMIT_14												sanza										sanza											sanja				
-VOMIT_2	luk		ajo								luka				lùka		jooka							kuruka			ɡuluka									ló	
-VOMIT_20																										kulasa											
+VOMIT_2	luk		jo								luka				lùka		jooka							ruka			luka									ló	
+VOMIT_20																										lasa											
 VOMIT_21													taza																								
-VOMIT_22																							kutanaka														
-VOMIT_23						kutabika		taβeka	táheka							uráphjàa			ravíha	raβiha								tapika									
-VOMIT_24				kusesema																																	
+VOMIT_22																							tanaka														
+VOMIT_23						tabika		taβeka	táheka							rápʰjàa			ravíha	raβiha								tapika									
+VOMIT_24				sesema																																	
 VOMIT_26					deeka																																
 VOMIT_29																									ruʦa							t͡ɬʰáʦá					
-VOMIT_30							tho																														
-VOMIT_31																					amahlanzo									ɬántʼa				matanza	ukuɡabha		bujisa
-WALK_27													kuzamaja																								
-WALK_28														kúnânɡà																							
-WALK_32									cɛ̀ːra																												
-WALK_4	ùkwenda				jeenda			tɛmbɛa		kuenda	kwenda				kúéndá		iirajaaro	okweenda		enda		jenda	kuɡjenda						kweenda				ókwéndà	enda			
-WALK_40																											ɡʊsiminza										
+VOMIT_30							tʰo																														
+VOMIT_31																					amaɬanzo									ɬántʼa				matanza	ɡabʱa		bujisa
+WALK_27													zamaja																								
+WALK_28														nânɡà																							
+WALK_32									ʃɛ̀ːra																												
+WALK_4	enda				jeenda			tɛmbɛa		enda	enda				éndá		irajaaro	eenda		enda		jenda	ɡjenda						eenda				éndà	enda			
+WALK_40																											siminza										
 WALK_42																			dàɡa																		
-WALK_46																weétta																					
-WALK_51																					hamba				fámba					fámbá	fámbá				ukuhamba		ukuhamba
+WALK_46																eétta																					
+WALK_51																					hamba				fámba					fámbá	fámbá				hamba		hamba
 WALK_52							nanɡajila																														
-WALK_6				kutambula		kutambuka						támbolá												kutambuka		kutàmbuka		tembea								támbol	
-WALK_8		wulu	awulu																																		
+WALK_6				tambula		tambuka						támbolá												tambuka		tàmbuka		tembea								támbol	
+WALK_8		wulu	wulu																																		
 WAR_13																										nɡoji											
 WAR_15												etumba																									
 WAR_2		bita			vita						vita				mvità		fira				impi							kita		ɲimpʼí			ovita			bìtá	impi
@@ -888,7 +888,7 @@ WAR_31				lutalo
 WAR_32						endaʃana																															
 WAR_37									mbáːrâ																												
 WAR_39								kao																													
-WAR_41	kóndó															ikhótto			ŋkónɖo	kódo		khóndo			hondo												
+WAR_41	kóndó															ikʰótto			ŋkónɖo	kódo		kʰóndo			hondo												
 WAR_42																											buluɡu										
 WAR_46																																ǹtwà		nndwa			
 WAR_48																																			imfazwe		
@@ -897,19 +897,19 @@ WATER_16	amènsi			mazzi		emaizi			máːe			mái				maaʃi			máʒi	máʤi	
 WATER_17											masa																										
 WATER_24															mâjímáají			omeja																			
 WATER_27														mêma												mêma							óvává				
-WATER_29										menha																											
+WATER_29										meɲa																											
 WATER_30													nezi																								
 WATER_31																	mura																				
 WATER_33								keɣwo																													
 WATER_36					maleéŋɡa																																
-WATER_38							vula																		mvura												
+WATER_38							vula																		mʋura												
 WATER_4		mendim	mənʣim																																		
 WIND_10												mopɛpɛ																									
 WIND_11		évun̂ulu	m̩fuã																																	vúnɡá	
 WIND_22						omujaɡa																	omujaɡa	umujaɡa			ɲaɡa										
 WIND_29											kitembo																										
 WIND_30																																	ofela				
-WIND_34				mpewo	mbého		pʰepo									ipʰéjo			mpévo	upépo		phépo			mhepo			upepo				pʰɪ́fɔ́					
+WIND_34				mpewo	mbého		pʰepo									ipʰéjo			mpévo	upépo		pʰépo			m̤epo			upepo				pʰɪ́fɔ́					
 WIND_37									ròhùːhɔ̀																												
 WIND_38																	mburato																				
 WIND_39								okoŋɡi																													
@@ -924,7 +924,7 @@ WOMAN_39								mondomoka	motuma								nka											mwanamke
 WOMAN_44																											nkima										
 WOMAN_45					mcéekulu																																
 WOMAN_50																			mnʈumamá	mnɖumamá																	
-WOMAN_56																nthíjàna																					
+WOMAN_56																ntʰíjàna																					
 WOMAN_57																					inina																
-WOMAN_7	umwànakashi			omukazi		omukazi	kaʣi			mukaji		mwási		mwanamukàzi	múkazi							kázi	omukazi		káʣí	mukàʃiba				wánsátí	wásátí	sádí	úkajì	musaʣi	umfazi		úḿfâzì
+WOMAN_7	umwànakaʃi			omukazi		omukazi	kaʣi			mukaji		mwási		mwanamukàzi	múkazi							kázi	omukazi		káʣí	mukàʃiba				wánsátí	wásátí	sádí	úkajì	musaʣi	umfazi		úḿfâzì
 WOMAN_9																													mukaintu								
