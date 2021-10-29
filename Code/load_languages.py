@@ -114,20 +114,27 @@ class Dataset:
                         self.cognate_sets[cognate_id][lang.name].append(transcription)
 
     
-    def write_vocab_index(self, output_file=None, 
+    def write_vocab_index(self, output_file=None,
+                          concept_list=None,
                           sep='\t', variants_sep='~'):
         """Write cognate set index to .csv file"""
         assert sep != variants_sep
         if output_file == None:
             output_file = f'{self.directory}{self.name} Vocabulary Index.csv'
         
+        if concept_list == None:
+            concept_list = sorted(list(self.cognate_sets.keys()))
+        else:
+            concept_list = sorted([c for c in concept_list if c in self.concepts])
+            concept_list = sorted([c for c in self.cognate_sets.keys() 
+                                   if c.split('_')[0] in concept_list])
         
         with open(output_file, 'w') as f:
             language_names = sorted([self.languages[lang].name for lang in self.languages])
             header = '\t'.join(['Gloss'] + language_names)
             f.write(f'{header}\n')
             
-            for cognate_set_id in sorted(list(self.cognate_sets.keys())):
+            for cognate_set_id in concept_list:
                 forms = [cognate_set_id]
                 for lang in language_names:
                     lang_forms = self.cognate_sets[cognate_set_id].get(lang, [''])
@@ -342,7 +349,7 @@ class Dataset:
                                title=None, save_directory=None,
                                **kwargs):
         if combine_cognate_sets == True:
-            cognate_ids = [c for c in self.cognate_sets if cognate_id in c]
+            cognate_ids = [c for c in self.cognate_sets if '_'.join(c.split('_')[:-1]) == cognate_id]
         else:
             cognate_ids = [cognate_id]
             
@@ -410,18 +417,46 @@ class Dataset:
         
         return clustered_cognates
     
+    def write_cognate_index(self, clustered_cognates, output_file,
+                        sep='\t', variants_sep='~'):
+        assert sep != variants_sep
+        
+        cognate_index = defaultdict(lambda:defaultdict(lambda:[]))
+        languages = []
+        for concept in clustered_cognates:
+            for i in clustered_cognates[concept]:
+                cognate_id = f'{concept}_{i}'
+                for entry in clustered_cognates[concept][i]:
+                    lang, word = entry[:-1].split(' /')
+                    cognate_index[cognate_id][lang].append(word)
+                    languages.append(lang)
+        languages = sorted(list(set(languages)))
+        
+        with open(output_file, 'w') as f:
+            header = '\t'.join(['']+languages)
+            f.write(header)
+            f.write('\n')
+            for cognate_id in cognate_index:
+                line = [cognate_id]
+                for lang in languages:
+                    entry = '~'.join(cognate_index[cognate_id][lang])
+                    line.append(entry)
+                line = sep.join(line)
+                f.write(f'{line}\n')
     
-    def evaluate_clusters(self, clustered_cognates):
+    def evaluate_clusters(self, clustered_cognates, method='bcubed'):
         """Evaluates B-cubed precision, recall, and F1 of results of automatic  
         cognate clustering against dataset's gold cognate classes"""
         
-        precision_scores, recall_scores, f1_scores = {}, {}, {}
+        precision_scores, recall_scores, f1_scores, mcc_scores = {}, {}, {}, {}
         ch_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ', '(', ')']
         for concept in clustered_cognates:
-            clusters = {'/'.join([item.split('/')[0], strip_ch(item.split('/')[1], ch_to_remove)])+'/':set([i]) for i in clustered_cognates[concept] 
+            #print(concept)
+            clusters = {'/'.join([strip_diacritics(unidecode.unidecode(item.split('/')[0])), 
+                                  strip_ch(item.split('/')[1], ch_to_remove)])+'/':set([i]) for i in clustered_cognates[concept] 
                         for item in clustered_cognates[concept][i]}
             
-            gold_clusters = {f'{lang} /{strip_ch(tr, ch_to_remove)}/':set([c]) 
+            gold_clusters = {f'{strip_diacritics(unidecode.unidecode(lang))} /{strip_ch(tr, ch_to_remove)}/':set([c]) 
                              for c in self.cognate_sets 
                              if re.split('[-|_]', c)[0] == concept 
                              for lang in self.cognate_sets[c] 
@@ -431,14 +466,43 @@ class Dataset:
             if len(gold_clusters) == 0:
                 continue
             
-            precision = bcubed.precision(clusters, gold_clusters)
-            recall = bcubed.recall(clusters, gold_clusters)
-            fscore = bcubed.fscore(precision, recall)
-            precision_scores[concept] = precision
-            recall_scores[concept] = recall
-            f1_scores[concept] = fscore
-        return mean(precision_scores.values()), mean(recall_scores.values()), mean(f1_scores.values())
-        
+            if method == 'bcubed':
+            
+                precision = bcubed.precision(clusters, gold_clusters)
+                recall = bcubed.recall(clusters, gold_clusters)
+                fscore = bcubed.fscore(precision, recall)
+                precision_scores[concept] = precision
+                recall_scores[concept] = recall
+                f1_scores[concept] = fscore
+                
+            elif method == 'mcc':                
+                pairs = [(item1, item2) for item1 in gold_clusters for item2 in gold_clusters if item1 != item2]
+                results = []
+                for pair in pairs:
+                    w1, w2 = pair
+                    gold_value = gold_clusters[w1] == gold_clusters[w2]
+                    test_value = clusters[w1] == clusters[w2]
+                    results.append((gold_value, test_value))
+                    
+                TP = results.count((True, True))
+                FP = results.count((False, True))
+                TN = results.count((False, False))
+                FN = results.count((True, False))
+                num = (TP * TN) - (FP * FN)
+                dem = math.sqrt((TP+FP)*(TP+FN)*(TN+FP)*(TN+FN))
+                try:
+                    mcc = num/dem
+                except ZeroDivisionError:
+                    mcc = 0
+                mcc_scores[concept] = mcc
+                
+            else:
+                print(f'Error: Method "{method}" not recognized for cluster evaluation!')
+                raise ValueError
+        if method == 'bcubed':
+            return mean(precision_scores.values()), mean(recall_scores.values()), mean(f1_scores.values())
+        elif method == 'mcc':
+            return mean(mcc_scores.values())
     
     def draw_tree(self, 
                   dist_func, sim, concept_list=None,                  
@@ -899,6 +963,12 @@ for family in ['Arabic',
     language_variables = {format_as_variable(lang):families[family].languages[lang] 
                           for lang in families[family].languages}
     globals().update(language_variables)
+
+#Add some commmonly used subsets
+families['Pomoan'] = families['Hokan'].subset('Pomoan', include=[lang for lang in families['Hokan'].languages if 'Pomo' in lang]+['Kashaya'])
+families['Yana'] = families['Hokan'].subset('Yana', include=['Northern Yana', 'Central Yana', 'Yahi'])
+families['Yuman'] = families['Hokan'].subset('Yuman', include=['Mohave', 'Yavapai', 'Tipai', 'Ipai', 'Cocopa'])
+
 globals().update({format_as_variable(family):families[family] for family in families})
 os.chdir(local_dir)
 

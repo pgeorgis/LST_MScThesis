@@ -123,7 +123,7 @@ def normalize_dict(dict_, default=False, lmbda=None, return_=True):
             dict_[key] = dict_[key] / total
     if return_ == True:
         return normalized
-    
+   
 #%%
 #INFORMATION CONTENT
 def surprisal(p):
@@ -462,3 +462,482 @@ def network_plot(group, labels,
     #Show the network plot and then close
     plt.show()
     plt.close()
+    
+#%%
+def new_network_plot(group, labels, 
+                 dist_func=None, sim=True,
+                 cluster_threshold=0.4, 
+                 nearest_clusters=1, nearest_items=0.4,
+                 method='spring', coordpos=True, dimensions=3, seed=1,
+                 edgelabels=False, edge_label_dist=True, 
+                 scale_dist=100, edge_decimals=1,
+                 scale_nodes=False, node_sizes=None, node_colors=None,
+                 invert_yaxis=False, invert_xaxis=False,
+                 title=None, save_directory='',
+                 **kwargs):
+
+    #warnings.filterwarnings("ignore", category=UserWarning)
+    
+    #Create dictionary of node indices and their labels
+    item_labels = {n:labels[n] for n in range(len(labels))}
+    
+    #Calculate initial coordinates for nodes from a distance matrix using MDS
+    dm = distance_matrix(group, dist_func, sim, **kwargs)
+    
+    #Distance dictionary
+    dist_dict = {}
+    for i in range(len(dm)):
+        for j in range(len(dm[i])):
+            dist_dict[(item_labels[i], item_labels[j])] = dm[i][j]
+    
+    #Get linkage matrix and hierarchical clustering of items
+    dists = squareform(dm)
+    lm = linkage(dists, method='average', metric='euclidean')
+    cluster_labels = fcluster(lm, cluster_threshold, 'distance')
+    clusters = defaultdict(lambda:[])
+    for item, cluster in sorted(zip(labels, cluster_labels), key=lambda x: x[1]):
+        #sorting just makes it so that the cluster dictionary will be returned
+        #with the clusters in numerical order
+        clusters[cluster].append(item)
+    
+    amax = np.amax(dm)
+    dm /= amax
+    mds = manifold.MDS(n_components=dimensions, dissimilarity="precomputed", random_state=42) #if an integer, random state parameter controls that multiple function calls will produce consistent mappings; popular values are 0 and 42
+    results = mds.fit(dm)
+    coords = results.embedding_
+    coordinates = {}
+    for n, x, y in zip(item_labels, coords[:, 0], coords[:, 1]):
+        coordinates[n] = (x, y)
+    
+    #Create a figure for the network; larger plot if >30 nodes
+    if len(group) >= 30:
+        plt.figure(figsize=(15,12))
+    else:
+        plt.figure(figsize=(10, 8))
+    
+    #Iterate through pairs of nodes and adding edges between them
+    #For every node, add edges connecting it to the n least distance node (min_edges)
+    #And then add more edges up until the maximum number of edges if their distance is lower than the threshold
+    #Label edges with distances/similarities
+    edge_labels = {}
+    item_edges = defaultdict(lambda:0)
+    edges = {}
+    
+    #Initialize the network graph
+    gr = nx.Graph()
+    
+    def add_edge(node_i, node_j, dist):
+        gr.add_edge(node_i, node_j, distance=dist, weight=(1-dist)**2)
+        
+        #Label edges with distances; scale and round according to parameter specifications
+        if edge_label_dist == True:
+            edge_labels[(node_i, node_j)] = str(round(dist*scale_dist, edge_decimals))
+        
+        #Label edges with similarities; scale and round according to parameter specifications
+        else: 
+            edge_labels[(node_i, node_j)] = str(round(dist*scale_dist, edge_decimals))
+    
+    edges_to_add = []
+    cluster_indices = list(clusters.keys())
+    for cluster in cluster_indices:
+        
+        #Add edges between every pair of items within each cluster
+        cluster_members = list(clusters[cluster])
+        for i in range(len(cluster_members)):
+            item_i = cluster_members[i]
+            for j in range(i+1, len(cluster_members)):
+                item_j = cluster_members[j]
+                edges_to_add.append((labels.index(item_i), labels.index(item_j), dist_dict[(item_i, item_j)]))
+    
+    cluster_iterations = defaultdict(lambda:[])
+    iteration = 0
+    cluster_iterations[iteration] = clusters
+    original_nearest_clusters = nearest_clusters
+    nearest_clusters /= 1.5
+    while len(cluster_iterations[iteration]) > 1 and (iteration < 10):
+        iteration += 1
+        #Iterate through pairs of clusters
+        cluster_indices = list(cluster_iterations[iteration-1].keys())
+        nearest_clusters = min(round(nearest_clusters*1.5), 3)
+        for cluster in cluster_indices:
+            cluster_members = list(cluster_iterations[iteration-1][cluster])
+            cluster_dists = {}
+            
+            #Measure the distance between every pair of items between the two clusters
+            for cluster2 in cluster_indices:
+                if cluster2 != cluster:
+                    cluster2_members = list(cluster_iterations[iteration-1][cluster2])
+                    cluster2dists = {}
+                    for i in range(len(cluster_members)):
+                        item_i = cluster_members[i]
+                        for j in range(len(cluster2_members)):
+                            item_j = cluster2_members[j]
+                            cluster2dists[(labels.index(item_i), labels.index(item_j))] = dist_dict[(item_i, item_j)]
+                    cluster_dists[cluster2] = mean(list(cluster2dists.values())), cluster2dists
+            
+            #Take the mean distance between all item pairs between the clusters
+            mean_cluster_dists = dict_tuplelist({cluster2:cluster_dists[cluster2][0] for cluster2 in cluster_dists})
+            
+            
+            #Find the n closest clusters
+            closest_clusters = [item[0] for item in mean_cluster_dists[-nearest_clusters:]]
+                
+            
+            #Retrieve pairwise distances between items in nearest clusters  
+            combined = cluster_members[:]
+            for cluster2 in closest_clusters:
+                distances = dict_tuplelist(cluster_dists[cluster2][1])
+                
+                #Find the n nearest individual pairs between the clusters
+                n_nearest_items = round(min(max(1, nearest_items * len(distances)), 5))
+                
+                closest_pairs = distances[-n_nearest_items:]
+                
+                for pair, dist in closest_pairs:
+                    i, j = pair
+                    edges_to_add.append((i, j, dist*math.log((iteration+1), 2)))
+            
+                #Update cluster lists
+                combined.extend(list(cluster_iterations[iteration-1][cluster2]))
+                
+            cluster_iterations[iteration].append(combined)
+    
+        cluster_iterations[iteration] = {index:items for index, items in enumerate(combine_overlapping_lists(cluster_iterations[iteration]))}
+        
+            
+    for node_i, node_j, dist in edges_to_add:
+        add_edge(node_i, node_j, dist)
+        
+    #Add any nodes which were skipped in the preceding iteration due to not 
+    #meeting the similarity threshold with any other node
+    for i in range(len(group)):
+        if i not in gr.nodes():
+            gr.add_node(i)
+
+    #Generate node positions according to method
+    #coords: use coordinate positions from MDS
+    if method == 'coords':
+        pos = coordinates
+    
+    #spring: use spring layout positions
+    elif method == 'spring':
+        
+        #Initialize either using MDS coordinates or random initialization
+        if coordpos==True:
+            pos = nx.spring_layout(gr, seed=seed, pos=coordinates)
+        else:
+            pos = nx.spring_layout(gr, seed=seed)
+    
+    #Raise error for unrecognized methods
+    else:
+        print(f'Method {method} is not recognized!')
+        raise ValueError
+        
+    #Get lists of edges and their distances for color-coding 
+    edgeList, colorsList = zip(*nx.get_edge_attributes(gr,'distance').items())
+    
+    #Scale nodes according to specified sizes, if given
+    if scale_nodes == True:
+        if node_sizes == None:
+            print('Provide a list of node sizes in order to scale nodes!')
+            raise ValueError
+        node_sizes = [node_sizes[node] for node in gr.nodes()]
+        nz_node_sizes = [rescale(i, node_sizes, 200, 2000) for i in node_sizes]
+    
+    #Otherwise plot all nodes with equal size, either specified through 
+    #node_sizes parameter or 300 by default
+    else:
+        if node_sizes == None:
+            nz_node_sizes = [300 for i in range(len(group))]
+        else:
+            nz_node_sizes = [node_sizes for i in range(len(group))]
+    
+    #Color all nodes light blue by default if no other color is specified 
+    if node_colors == None:
+        node_colors = ['#70B0F0' for i in range(len(group))]
+    
+    #Draw the network
+    nx.draw(gr, pos=pos, edgelist = edgeList, edge_color=colorsList, font_size=8, 
+            edge_cmap = plt.cm.hot, vmin = 0, vmax = 1, labels=item_labels,
+            node_color=node_colors, font_weight='bold', node_size=nz_node_sizes)
+    
+    #Add edge labels
+    if edgelabels == True:
+        nx.draw_networkx_edge_labels(gr, pos=pos, edge_labels=edge_labels, font_size=8)
+    
+    #Invert axes
+    if invert_yaxis == True:    
+        plt.gca().invert_yaxis()
+    if invert_xaxis == True:
+        plt.gca().invert_xaxis()
+    
+    #Add title to the plot and save 
+    if title != None:
+        plt.title(f'{title}: (method = {method}, {dimensions}-D, cluster_threshold={cluster_threshold}, items={nearest_items}, clusters={original_nearest_clusters}', fontsize=20)
+        plt.savefig(f'{save_directory}{title}.png', bbox_inches='tight', dpi=600)
+    
+    #Show the network plot and then close
+    plt.show()
+    plt.close()
+
+#%%
+def newer_network_plot(group, labels, 
+                 dist_func=None, sim=True,
+                 coordpos=True, dimensions=3, seed=1,
+                 step_size=0.05, connection_decay=0.5,
+                 edgelabels=False, edge_label_dist=True, 
+                 scale_dist=100, edge_decimals=1,
+                 scale_nodes=False, node_sizes=None, node_colors=None,
+                 invert_yaxis=False, invert_xaxis=False,
+                 title=None, save_directory='',
+                 **kwargs):
+
+    #warnings.filterwarnings("ignore", category=UserWarning)
+    
+    #Create dictionary of node indices and their labels
+    item_labels = {n:labels[n] for n in range(len(labels))}
+    
+    #Calculate initial coordinates for nodes from a distance matrix using MDS
+    dm = distance_matrix(group, dist_func, sim, **kwargs)
+    
+    #Distance dictionary
+    dist_dict = {}
+    for i in range(len(dm)):
+        for j in range(len(dm[i])):
+            dist_dict[(item_labels[i], item_labels[j])] = dm[i][j]
+    
+    #Get linkage matrix and hierarchical clustering of items
+    dists = squareform(dm)
+    lm = linkage(dists, method='average', metric='euclidean')
+    
+    def get_clusters(lm, cutoff):
+        cluster_labels = fcluster(lm, cutoff, 'distance')
+        clusters = defaultdict(lambda:[])
+        for item, cluster in sorted(zip(labels, cluster_labels), key=lambda x: x[1]):
+            #sorting just makes it so that the cluster dictionary will be returned
+            #with the clusters in numerical order
+            clusters[cluster].append(item)
+        return clusters
+    
+    amax = np.amax(dm)
+    dm /= amax
+    mds = manifold.MDS(n_components=dimensions, dissimilarity="precomputed", random_state=42) #if an integer, random state parameter controls that multiple function calls will produce consistent mappings; popular values are 0 and 42
+    results = mds.fit(dm)
+    coords = results.embedding_
+    coordinates = {}
+    for n, x, y in zip(item_labels, coords[:, 0], coords[:, 1]):
+        coordinates[n] = (x, y)
+    
+    #Create a figure for the network; larger plot if >30 nodes
+    if len(group) >= 30:
+        plt.figure(figsize=(15,12))
+    else:
+        plt.figure(figsize=(10, 8))
+    
+    #Iterate through pairs of nodes and adding edges between them
+    #For every node, add edges connecting it to the n least distance node (min_edges)
+    #And then add more edges up until the maximum number of edges if their distance is lower than the threshold
+    #Label edges with distances/similarities
+    edge_labels = {}
+    item_edges = defaultdict(lambda:0)
+    edges = {}
+    
+    #Initialize the network graph
+    gr = nx.Graph()
+    
+    def add_edge(node_i, node_j, dist):
+        gr.add_edge(node_i, node_j, distance=dist, weight=((math.e**-dist))**2)
+        
+        #Label edges with distances; scale and round according to parameter specifications
+        if edge_label_dist == True:
+            edge_labels[(node_i, node_j)] = str(round(dist*scale_dist, edge_decimals))
+        
+        #Label edges with similarities; scale and round according to parameter specifications
+        else: 
+            edge_labels[(node_i, node_j)] = str(round(dist*scale_dist, edge_decimals))
+    
+    edges_to_add = {}
+    already_clustered = []
+    
+    def connect_clusters(cluster_dict, connect_proportion=1, scale_distance=1):
+        
+        #Iterate through clusters in cluster dictionary
+        for cluster in cluster_dict:
+            #Get list of cluster members
+            cluster_members = list(cluster_dict[cluster])
+            
+            #Connect nodes if there are at least 2 items in the cluster
+            if len(cluster_members) > 1:
+                
+                #Get dictionary with pairwise distances between each pair of nodes within the cluster
+                cluster_dists = {(cluster_members[i], cluster_members[j]):dist_dict[(cluster_members[i], cluster_members[j])] 
+                                 for i in range(len(cluster_members)) 
+                                 for j in range(i+1, len(cluster_members))}
+                
+                #Filter out node pairs which are already connected to the cluster
+                filtered_cluster_dists = {}
+                for node_pair in cluster_dists:
+                    node_i, node_j = node_pair
+                    index_i, index_j = labels.index(node_i), labels.index(node_j)
+                    if (index_i, index_j) not in already_clustered:
+                        filtered_cluster_dists[(index_i, index_j)] = cluster_dists[node_pair]
+                
+                #Rank each new pair by distance in ascending order
+                ranked_cluster_dists = dict_tuplelist(filtered_cluster_dists, reverse=False)
+                
+                #Select only the nearest n% of nodes to connect
+                n = max(round(len(ranked_cluster_dists) * connect_proportion), 1)
+                to_connect = ranked_cluster_dists[:n]
+                
+                #Scale distances and and add edges for this selection
+                for item in to_connect:
+                    node_pair, dist = item
+                    node_i, node_j = node_pair
+                    edges_to_add[node_pair] = dist * scale_distance
+                
+                #Ensure that each member of the cluster is minimally connected 
+                #to its nearest neighbor within the cluster
+                for i in range(len(cluster_members)):
+                    member = cluster_members[i]
+                    neighbor_dists = {}
+                    for j in range(len(cluster_members)):
+                        neighbor = cluster_members[j]
+                        if member != neighbor:
+                            try:
+                                dist = cluster_dists[(member, neighbor)]
+                            except KeyError:
+                                dist = cluster_dists[(neighbor, member)]
+                            neighbor_dists[neighbor] = dist
+                    nearest_neighbor = keywithminval(neighbor_dists)
+                    node_i, node_j = labels.index(member), labels.index(nearest_neighbor)
+                    if (node_i, node_j) not in edges_to_add:
+                        if (node_j, node_i) not in edges_to_add:
+                            edges_to_add[(node_i, node_j)] = neighbor_dists[nearest_neighbor] * scale_distance
+                    
+                                
+                #Add all clustered nodes to index
+                already_clustered.extend([(labels.index(node_i), labels.index(node_j)) for node_i, node_j in cluster_dists.keys() 
+                                          if (node_i, node_j) not in already_clustered])
+        
+    #Get initial clusters
+    cluster_threshold = 0
+    while len(get_clusters(lm, cutoff=cluster_threshold)) == len(labels):
+        cluster_threshold += 0.01
+    initial_clusters = get_clusters(lm, cutoff=cluster_threshold)
+    
+    #Fully connect initial clusters without any distance scaling
+    connect_proportion = 1
+    connect_clusters(initial_clusters, 
+                     connect_proportion=connect_proportion, scale_distance=1)
+    
+    cluster_iterations = defaultdict(lambda:[])
+    iteration = 0
+    cluster_iterations[iteration] = initial_clusters
+    while len(cluster_iterations[max(cluster_iterations.keys())]) > 1:
+        iteration += 1
+        cluster_threshold += step_size
+        connect_proportion *= connection_decay
+        iteration_clusters = get_clusters(lm, cutoff=cluster_threshold)
+        if len(iteration_clusters) < len(cluster_iterations[max(cluster_iterations.keys())]):
+            #connection_proportion = 1/(iteration**2)
+            scale_distance = iteration #math.log((iteration+1), 2)
+            connect_clusters(iteration_clusters,
+                             connect_proportion=connect_proportion, 
+                             scale_distance=scale_distance)
+            cluster_iterations[iteration] = iteration_clusters
+            
+    for node_pair in edges_to_add:
+        node_i, node_j = node_pair
+        dist = edges_to_add[node_pair]
+        add_edge(node_i, node_j, dist)
+        
+    #Add any nodes which were skipped in the preceding iteration due to not 
+    #meeting the similarity threshold with any other node
+    for i in range(len(group)):
+        if i not in gr.nodes():
+            gr.add_node(i)
+
+    
+    #spring: use spring layout positions
+    #Initialize either using MDS coordinates or random initialization
+    if coordpos==True:
+        pos = nx.spring_layout(gr, seed=seed, pos=coordinates)
+    else:
+        pos = nx.spring_layout(gr, seed=seed)
+        
+    #Get lists of edges and their distances for color-coding 
+    edgeList, colorsList = zip(*nx.get_edge_attributes(gr,'distance').items())
+    
+    #Scale nodes according to specified sizes, if given
+    if scale_nodes == True:
+        if node_sizes == None:
+            print('Provide a list of node sizes in order to scale nodes!')
+            raise ValueError
+        node_sizes = [node_sizes[node] for node in gr.nodes()]
+        nz_node_sizes = [rescale(i, node_sizes, 200, 2000) for i in node_sizes]
+    
+    #Otherwise plot all nodes with equal size, either specified through 
+    #node_sizes parameter or 300 by default
+    else:
+        if node_sizes == None:
+            nz_node_sizes = [300 for i in range(len(group))]
+        else:
+            nz_node_sizes = [node_sizes for i in range(len(group))]
+    
+    #Color all nodes light blue by default if no other color is specified 
+    if node_colors == None:
+        node_colors = ['#70B0F0' for i in range(len(group))]
+    
+    #Draw the network
+    nx.draw(gr, pos=pos, edgelist = edgeList, edge_color=colorsList, font_size=8, 
+            edge_cmap = plt.cm.hot, vmin = 0, vmax = 1, labels=item_labels,
+            node_color=node_colors, font_weight='bold', node_size=nz_node_sizes)
+    
+    #Add edge labels
+    if edgelabels == True:
+        nx.draw_networkx_edge_labels(gr, pos=pos, edge_labels=edge_labels, font_size=8)
+    
+    #Invert axes
+    if invert_yaxis == True:    
+        plt.gca().invert_yaxis()
+    if invert_xaxis == True:
+        plt.gca().invert_xaxis()
+    
+    #Add title to the plot and save 
+    if title != None:
+        plt.title(f'{title}: step_size={step_size}, connection_decay={connection_decay}', fontsize=20)
+        plt.savefig(f'{save_directory}{title}.png', bbox_inches='tight', dpi=600)
+    
+    #Show the network plot and then close
+    plt.show()
+    plt.close()
+
+#%%
+def combine_overlapping_lists(list_of_lists):
+    #https://stackoverflow.com/questions/4842613/merge-lists-that-share-common-elements
+    import networkx
+    from networkx.algorithms.components.connected import connected_components
+    
+    def to_graph(l):
+        G = networkx.Graph()
+        for part in l:
+            # each sublist is a bunch of nodes
+            G.add_nodes_from(part)
+            # it also imlies a number of edges:
+            G.add_edges_from(to_edges(part))
+        return G
+
+    def to_edges(l):
+        """ 
+            treat `l` as a Graph and returns its edges 
+            to_edges(['a','b','c','d']) -> [(a,b), (b,c),(c,d)]
+        """
+        it = iter(l)
+        last = next(it)
+    
+        for current in it:
+            yield last, current
+            last = current
+    
+    G = to_graph(list_of_lists)
+    return list(connected_components(G))

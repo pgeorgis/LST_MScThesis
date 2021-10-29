@@ -45,8 +45,9 @@ def word_sim(word1, word2=None,
             word2, lang2 = word2
             #Remove stress and tone diacritics; syllabic diacritics (above and below); spaces
             diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ']
-            word_info1 = lang1.calculate_infocontent(strip_ch(word1, diacritics_to_remove))
-            word_info2 = lang2.calculate_infocontent(strip_ch(word2, diacritics_to_remove))
+            if penalize_infocontent == True:
+                word_info1 = lang1.calculate_infocontent(strip_ch(word1, diacritics_to_remove))
+                word_info2 = lang2.calculate_infocontent(strip_ch(word2, diacritics_to_remove))
             
         else:
             lang1, lang2 = None, None
@@ -470,7 +471,7 @@ def hybrid_distance(pair1, pair2, funcs, func_sims, **kwargs):
     
     return euclidean_dist(scores)
         
-def combo_sim(pair1, pair2, **kwargs):
+def hybrid_similarity(pair1, pair2, **kwargs):
     hybrid_d = hybrid_distance(pair1, pair2, funcs=[word_sim, score_pmi, surprisal_sim], func_sims=[True, False, True])
     hybrid_sim = math.e**-(hybrid_d)
     return hybrid_sim

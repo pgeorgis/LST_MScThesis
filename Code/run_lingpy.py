@@ -1,39 +1,35 @@
 from lingpy import *
 from load_languages import *
 from auxiliary_functions import csv_to_dict, create_folder
+from phonetic_distance import strip_diacritics
 import re
+
+
 #%%
-def prepare_lexstat_input(lang_group, 
-                       output_file=None,
-                       DOCULECT='Language_ID',
-                       CONCEPT='Parameter_ID',
-                       TOKENS='Segments'):
+def prepare_lexstat_input(lang_group, output_file=None):
     if output_file == None:
         create_folder('LexStat', lang_group.directory)
         output_file = f'{lang_group.directory}/LexStat/LexStat_input_{lang_group.name}.tsv'
     
     with open(output_file, 'w') as f:
         f.write('DOCULECT\tCONCEPT\tTOKENS\n')
-        for i in lang_group.data:
-            entry = lang_group.data[i]
-            doculect, concept, tokens = entry[DOCULECT], entry[CONCEPT], entry[TOKENS]
-            if tokens.strip() != '':
-                line = '\t'.join([doculect, concept, tokens])
-                f.write(f'{line}\n')
+        for doculect in lang_group.languages:
+            lang = lang_group.languages[doculect]
+            for concept in lang.vocabulary:
+                for entry in lang.vocabulary[concept]:
+                    orth, ipa, segments = entry
+                    line = '\t'.join([doculect, concept, " ".join(segments)])
+                    f.write(f'{line}\n')
     print(f'Wrote data to {output_file}.')
         
     
-def run_lexstat(lang_group, 
-               output_file=None, 
-               DOCULECT='Language_ID', 
-               CONCEPT='Parameter_ID', 
-               TOKENS='Segments'):
+def run_lexstat(lang_group, output_file=None):
     if output_file == None:
         create_folder('LexStat', lang_group.directory)
         output_file = f'{lang_group.directory}/LexStat/LexStat_input_{lang_group.name}.tsv'
-    prepare_lexstat_input(lang_group, output_file, DOCULECT, CONCEPT, TOKENS)
+    prepare_lexstat_input(lang_group, output_file)
     wl = Wordlist(output_file)
-    lex = LexStat(output_file , segments='tokens', check=True) #previously False 
+    lex = LexStat(output_file , segments='tokens', check=False) #previously False 
     lex.get_scorer()
     #lex.output('tsv', filename=f'{lang_group.directory}/LexStat/LexStat_output_{lang_group.name}.bin', ignore=[])
     lex.cluster(method='lexstat', threshold=0.60, ref='lexstatid')
@@ -153,72 +149,13 @@ def create_LexStat_cognate_index(lang_group, output_file=None,
                 f.write(sep.join(forms_list))
                 f.write('\n')
 
-missing_segs = []
-def create_orthographic_cognate_index(lang_group, output_file=None, sep='\t'):
-    if output_file == None:
-        output_file = f'{lang_group.directory}/LexStat/{lang_group.name}_lexstat_cognate_assignments.csv'
-    
-    cognate_sets = process_lexstat_data(lang_group)
-    
-    with open(output_file, 'w') as f:
-        f.write(sep.join(['CONCEPT', 'LANGUAGE', 'ORTHOGRAPHY', 'IPA', 'COGNACY']))
-        f.write('\n')
-        
-        for concept in cognate_sets:
-            for cognate_class in cognate_sets[concept]:
-                for item in cognate_sets[concept][cognate_class]:
-                    lang, tr = item
-                    
-                    #Convert characters back to IPA, which were distorted when running LexStat
-                    tr_fixes = {'à':'à',
-                                'á':'á',
-                                'â':'â',
-                                'é':'é',
-                                'ê':'ê',
-                                'ì':'ì',
-                                'í':'í',
-                                'î':'î',
-                                'ó':'ó',
-                                'ô':'ô',
-                                'ù':'ù',
-                                'ú':'ú',
-                                'û':'û',
-                                'ě':'ě',
-                                'ř':'ř',
-                                'ǎ':'ǎ',
-                                'ǐ':'ǐ',
-                                'ǒ':'ǒ',
-                                'ǔ':'ǔ',
-                                '̩̂':'̩̂'
-                                }
-                    
-                    for fix in tr_fixes:
-                        tr = re.sub(fix, tr_fixes[fix], tr)
-                    
-                    orth = None
-                    for entry in lang_group.languages[lang].vocabulary[concept]:
-                        if entry[1] == tr:
-                            orth = entry[0]
-                            break
-                        elif re.sub(' ', '', entry[1]) == tr:
-                            orth = entry[0]
-                            break
-                        elif re.sub('̩̂', '̩̂', tr) == entry[1]:
-                            orth = entry[0]
-                            break
-                    if orth == None:
-                        print(f"Error: can't find orthography for {tr} '{concept}' in {lang_group.languages[lang].name}!")
-                        segs = list(tr)
-                        missing_segs.extend(segs)
-                        orth = ''
-                    f.write(sep.join([concept, lang, orth, tr, cognate_class]))
-                    f.write('\n')
-    
 
-def adjust_characters(lexstat_ch):
-    for ch in tr_fixes:
-        lexstat_ch = re.sub(ch, tr_fixes[ch], lexstat_ch)
-    return lexstat_ch
+def adjust_characters(lexstat_ch, skip=[]):
+    # for ch in tr_fixes:
+    #     if ch not in skip:
+    #         lexstat_ch = re.sub(ch, tr_fixes[ch], lexstat_ch)
+    # return lexstat_ch
+    return strip_diacritics(unidecode.unidecode(lexstat_ch))
     
 
 def load_lexstat_clusters(dataset, concept_set=None):

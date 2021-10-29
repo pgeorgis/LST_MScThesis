@@ -297,7 +297,7 @@ class PhonemeCorrDetector:
         
         random.seed(seed)
 
-        #Take a sample of different-meaning words, as large as the same-meaning set
+        #Take a sample of different-meaning words, by default as large as the same-meaning set
         sample_size = len(self.same_meaning)
         diff_sample = random.sample(self.diff_meaning, min(sample_size, len(self.diff_meaning)))
         noncognate_word_forms = [((item[0][2], self.lang1), (item[1][2], self.lang2)) for item in diff_sample]

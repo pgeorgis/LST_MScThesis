@@ -7,7 +7,9 @@ sns.set(font_scale=1.0)
 #%%
 def evaluate_parameters(family, parameters, 
                         dist_func, func_sim, 
-                        concept_list=None, **kwargs):
+                        concept_list=None, 
+                        method='bcubed',
+                        **kwargs):
     #Designate the concept list as all available concepts with >1 entries
     if concept_list == None:
         concept_list = [concept for concept in family.concepts.keys() 
@@ -46,13 +48,27 @@ def evaluate_parameters(family, parameters,
      
     #Evaluate clustering results for each parameter value
     print('Evaluating clusters...')
-    bcubed_values = {}
-    for value in parameters:
-        precision, recall, fscore = family.evaluate_clusters(parameter_clusters[value])
-        bcubed_values[value] = precision, recall, fscore
-        print(f'\tParameter value = {value} | B-cubed F1 = {round(fscore, 2)}')
+    if method == 'bcubed':
+        bcubed_values = {}
+        for value in parameters:
+            precision, recall, fscore = family.evaluate_clusters(parameter_clusters[value], method='bcubed')
+            bcubed_values[value] = precision, recall, fscore
+            print(f'\tParameter value = {value} | B-cubed F1 = {round(fscore, 2)}')
+        
+        return bcubed_values
     
-    return bcubed_values
+    elif method == 'mcc':
+        mcc_values = {}
+        for value in parameters:
+            mcc = family.evaluate_clusters(parameter_clusters[value], method='mcc')
+            mcc_values[value] = mcc
+            print(f'\tParameter value = {value} | MCC = {round(mcc, 2)}')
+        
+        return mcc_values
+    
+    else:
+        print(f'Error: Method "{method}" not recognized for cluster evaluation!')
+        raise ValueError
 
 
 def evaluate_family_parameters(families, parameters, dist_func, func_sim, **kwargs):
@@ -64,69 +80,117 @@ def evaluate_family_parameters(families, parameters, dist_func, func_sim, **kwar
     return family_bcubed
 
 
-def plot_performance(family_bcubed, func_label, 
+def plot_performance(family_bcubed, func_label, method='bcubed',
                      legend_pos=(0.4,0.4), save_directory=None):
+    assert method in ['bcubed', 'mcc']
     
     #Draw plots of performance per dataset
     for family in sorted(list(family_bcubed.keys())):
         x_values = sorted(list(family_bcubed[family].keys()))
-        plt.plot(x_values, [family_bcubed[family][val][2] for val in x_values], label=family)
+        if method == 'bcubed':
+            plt.plot(x_values, [family_bcubed[family][val][2] for val in x_values], label=family)
+        else: #mcc
+            plt.plot(x_values, [family_bcubed[family][val] for val in x_values], label=family)
     plt.xlabel(f'{func_label} Clustering Threshold')
-    plt.ylabel('B-Cubed F1 Score')
+    
+    if method == 'bcubed':
+        plt.ylabel('B-Cubed F1 Score')
+    else: #mcc
+        plt.ylabel('MCC')
+        
     plt.xlim([0,1])
     plt.ylim([0,1])
     plt.title(f'{func_label} Cognate Clustering Performance')
     plt.legend(bbox_to_anchor=legend_pos, loc='upper right', prop={'size': 6})
     if save_directory != None:    
-        plt.savefig(f'{save_directory}{func_label} Cognate Clustering Performance', dpi=300)
+        plt.savefig(f'{save_directory}{func_label} Cognate Clustering Performance ({method})', dpi=300)
     plt.show()
     plt.close()
     
     #Draw overall average performance over all datasets according to parameters
     precision, recall, f1 = defaultdict(lambda:[]), defaultdict(lambda:[]), defaultdict(lambda:[])
+    mcc = defaultdict(lambda:[])
     for family in family_bcubed:
         for x_value in family_bcubed[family]:
-            p, r, f = family_bcubed[family][x_value]
-            precision[x_value].append(p)
-            recall[x_value].append(r)
-            f1[x_value].append(f)
-    for d, l in zip([precision, recall, f1], ['Precision', 'Recall', 'F1']):
-        for val in d:
-            d[val] = mean(d[val])
-        x_values = sorted(list(d.keys()))
-        plt.plot(x_values, [d[val] for val in x_values], label=l)
-    plt.legend(loc='best')
+            if method == 'bcubed':
+                p, r, f = family_bcubed[family][x_value]
+                precision[x_value].append(p)
+                recall[x_value].append(r)
+                f1[x_value].append(f)
+            else: #mcc
+                mcc[x_value].append(family_bcubed[family][x_value])
+    
+    if method == 'bcubed':
+        for d, l in zip([precision, recall, f1], ['Precision', 'Recall', 'F1']):
+            for val in d:
+                d[val] = mean(d[val])
+            x_values = sorted(list(d.keys()))
+            plt.plot(x_values, [d[val] for val in x_values], label=l)
+    else: #mcc
+        for val in mcc:
+            mcc[val] = mean(mcc[val])
+        x_values = sorted(list(mcc.keys()))
+        plt.plot(x_values, [mcc[val] for val in x_values])
+    
     plt.xlabel(f'{func_label} Clustering Threshold')
-    plt.ylabel('B-Cubed Score')
+    if method == 'bcubed':
+        plt.ylabel('B-Cubed F1 Score')
+        plt.legend(loc='best')
+    else: #mcc
+        plt.ylabel('MCC')
+    plt.xlim([0,1])
+    plt.ylim([0,1])
     plt.title(f'Average {func_label} Cognate Clustering Performance')
     if save_directory != None:
-        plt.savefig(f'{save_directory}Average {func_label}  Cognate Clustering Performance', dpi=300)
+        plt.savefig(f'{save_directory}Average {func_label} Cognate Clustering Performance ({method})', dpi=300)
     plt.show()
     plt.close()
     
-def optimal_parameter(family_bcubed):
+def optimal_parameter(family_bcubed, method='bcubed'):
+    assert method in ['bcubed', 'mcc']
+
     precision, recall, f1 = defaultdict(lambda:[]), defaultdict(lambda:[]), defaultdict(lambda:[])
+    mcc = defaultdict(lambda:[])
     for family in family_bcubed:
         for x_value in family_bcubed[family]:
-            p, r, f = family_bcubed[family][x_value]
-            precision[x_value].append(p)
-            recall[x_value].append(r)
-            f1[x_value].append(f)
-    for d, l in zip([precision, recall, f1], ['Precision', 'Recall', 'F1']):
-        for val in d:
-            d[val] = mean(d[val])
-    return keywithmaxval(f1)
+            if method == 'bcubed':
+                p, r, f = family_bcubed[family][x_value]
+                precision[x_value].append(p)
+                recall[x_value].append(r)
+                f1[x_value].append(f)
+            else: #mcc
+                mcc[x_value].append(family_bcubed[family][x_value])
+    
+    if method == 'bcubed':
+        for d, l in zip([precision, recall, f1], ['Precision', 'Recall', 'F1']):
+            for val in d:
+                d[val] = mean(d[val])
+        return keywithmaxval(f1)
+        
+    else:
+        for val in mcc:
+            mcc[val] = mean(mcc[val])
+        return keywithmaxval(mcc)
+    
     
 
-def write_parameters(parameter_dict, outputfile, sep=','):
+def write_parameters(parameter_dict, outputfile, sep=',', method='bcubed'):
     with open(outputfile, 'w') as f:
-        f.write(sep.join(['Dataset', 'Parameter_Value', 'Precision', 'Recall', 'F1']))
+        if method == 'bcubed':
+            f.write(sep.join(['Dataset', 'Parameter_Value', 'Precision', 'Recall', 'F1']))
+        elif method == 'mcc':
+            f.write(sep.join(['Dataset', 'Parameter_Value', 'MCC']))
         f.write('\n')
         for dataset in parameter_dict:
             for parameter_value in parameter_dict[dataset]:
-                precision, recall, fscore = parameter_dict[dataset][parameter_value]
-                f.write(sep.join([dataset, str(parameter_value), str(precision), str(recall), str(fscore)]))
+                if method == 'bcubed':
+                    precision, recall, fscore = parameter_dict[dataset][parameter_value]
+                    f.write(sep.join([dataset, str(parameter_value), str(precision), str(recall), str(fscore)]))
+                elif method == 'mcc':
+                    mcc = parameter_dict[dataset][parameter_value]
+                    f.write(sep.join([dataset, str(parameter_value), str(mcc)]))
                 f.write('\n')
+                
                 
 def load_parameter_file(parameter_file):
     parameter_file = pd.read_csv(parameter_file)
@@ -155,92 +219,68 @@ for vd in validation_datasets:
 
 #%%
 #Distance/similarity functions
-functions = {#'Surprisal':(surprisal_sim, True),
-             #'PMI':(score_pmi, False),
-             #'Phonetic':(word_sim, True),
+functions = {'Surprisal':(surprisal_sim, True),
+             'PMI':(score_pmi, False),
+             'Phonetic':(word_sim, True),
              #'Levenshtein':(LevenshteinDist, False)
-             #'Hybrid':(combo_sim, True),
-             'PhoneticSurprisal':(phonetic_surprisal_sim, True),
+             'Hybrid':(hybrid_similarity, True),
+             #'PhoneticSurprisal':(phonetic_surprisal_sim, True),
              
-             #'Combined':(nhd, False),
              #'Z-Surprisal':(z_score_surprisal, False)
              }
-
-# #Define hybrid functions
-# hybrid_functions = {}
-# function_labels = list(functions.keys())
-# for i in range(len(function_labels)):
-#     for j in range(i+1, len(function_labels)):
-#         label1, label2 = function_labels[i], function_labels[j]
-#         def hybrid_distance(pair1, pair2, functions, func_sims, **kwargs):   
-#         hybrid_functions[f'{label1}-{label2}']
 
 #%%
 #Evaluate validation datasets for all functions with parameters = [0.0, ..., 1.0]
 evaluation = {}
-destination = '../Results/Cognate Clustering/Validation/Common Concepts/'
+destination = '../Results/Cognate Clustering/Validation/Common Concepts/Bantu_'
 
 #%%
 function_labels = list(functions.keys())
-
+method = 'bcubed'
 
 for i in range(len(functions)):
-    func_label1 = function_labels[i]
-    if func_label1 not in evaluation:
-        print(f'Evaluating {func_label1} parameters...')
-        dist_func1, func_sim1 = functions[func_label1]
-        family_bcubed =  evaluate_family_parameters(validation_datasets,
+    func_label = function_labels[i]
+    if func_label not in evaluation:
+        print(f'Evaluating {func_label} parameters...')
+        dist_func, func_sim = functions[func_label]
+        family_bcubed =  evaluate_family_parameters([Bantu],
                                                     parameters=[i/100 for i in range(0,101)],
-                                                    dist_func=dist_func1, func_sim=func_sim1,
-                                                    concept_list=common_concepts)
+                                                    dist_func=dist_func, func_sim=func_sim,
+                                                    concept_list=common_concepts,
+                                                    method=method)
         
         #Save evaluation 
-        evaluation[func_label1] = family_bcubed
-        write_parameters(family_bcubed, outputfile=f'{destination}{func_label1} Cognate Clustering Performance.csv')
-        print(f'Best parameter value for {func_label1}: {optimal_parameter(family_bcubed)}')
-        
-        #Test hybrid distances
-        # for j in range(i+1, len(functions)):
-        #     func_label2 = function_labels[j]
-        #     print(f'Evaluating hybrid {func_label1}-{func_label2} parameters...')
-        #     dist_func2, func_sim2 = functions[func_label2]
-                
-        #     def hyb_dist(pair1, pair2):
-        #         return hybrid_distance(pair1, pair2, funcs=[dist_func, dist_func2], 
-        #                         func_sims=[func_sim, func_sim2])
-            
-        #     hybrid_family_bcubed =  evaluate_family_parameters(validation_datasets,
-        #                                             parameters=[i/100 for i in range(0,101)],
-        #                                             dist_func=hyb_dist, func_sim=False)
-            
-        #     #Save evaluation 
-        #     evaluation[f'{func_label}-{func_label2}'] = hybrid_family_bcubed
-        #     write_parameters(family_bcubed, outputfile=f'{destination}{func_label}-{func_label2} Cognate Clustering Performance.csv')
-        
+        evaluation[func_label] = family_bcubed
+        write_parameters(family_bcubed, outputfile=f'{destination}{func_label} Cognate Clustering Performance.csv', 
+                         method=method)
+        print(f'Best parameter value for {func_label}: {optimal_parameter(family_bcubed, method=method)}')
 
-    
 
 #%%
 #Plot all performances
-loaded = False
+loaded = defaultdict(lambda:False)
 for func_label in evaluation: 
     plot_performance(evaluation[func_label], func_label, save_directory=destination,
-                     legend_pos=(0.8, 0.4))
-    optimum = optimal_parameter(evaluation[func_label])
+                     legend_pos=(0.9, 0.9), method=method)
+    optimum = optimal_parameter(evaluation[func_label], method=method)
     print(f'Best parameter value for {func_label}: {optimum}')
     for family in evaluation[func_label]:
-        print(family, round(evaluation[func_label][family][optimum][2], 3))
-     dist_func, func_sim = functions[func_label]
-    # for family in test_datasets:
-    #     if loaded == False:
-    #         print(f'Loading {family.name} phoneme PMI and surprisal...')
-            family.load_phoneme_pmi()
+        if method == 'bcubed':
+            print(family, round(evaluation[func_label][family][optimum][2], 3))
+        else: #mcc
+            print(family, round(evaluation[func_label][family][optimum], 3))
+            
+    dist_func, func_sim = functions[func_label] 
+    for family in test_datasets: 
+        if loaded[family.name] == False: 
+            print(f'Loading {family.name} phoneme PMI and surprisal...') 
+            family.load_phoneme_pmi() 
             family.load_phoneme_surprisal()
+            loaded[family.name] = True
         family_clusters = family.cluster_cognates(concept_list=common_concepts,
-                                                dist_func=dist_func, sim=func_sim,
-                                                cutoff=optimum)
-        family_bcubed = family.evaluate_clusters(family_clusters)
-        print(family.name, round(family_bcubed[2], 3))
-        
-    # print('\n')
-    # loaded = True
+                                         dist_func=dist_func, sim=func_sim,
+                                         cutoff=optimum) 
+        family_eval = family.evaluate_clusters(family_clusters, method=method) 
+        print(family.name, round(family_eval, 3)) 
+            
+    print('\n')
