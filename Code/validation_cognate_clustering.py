@@ -210,21 +210,24 @@ validation_datasets = [Bantu, Hellenic, Japonic, Quechuan, Uto_Aztecan, Vietic]
 test_datasets = [family for family in families.values() if family not in validation_datasets]
 
 #%%
+ngram_size=1
 #Load phoneme PMI and surprisal for validation datasets
 for vd in validation_datasets:
     print(f'Loading {vd.name} phoneme PMI...')
     vd.load_phoneme_pmi()
     print(f'Loading {vd.name} phoneme surprisal...')
-    vd.load_phoneme_surprisal()
+    vd.load_phoneme_surprisal(ngram_size=ngram_size)
 
 #%%
 #Distance/similarity functions
-functions = {'Surprisal':(surprisal_sim, True),
-             'PMI':(score_pmi, False),
-             'Phonetic':(word_sim, True),
-             #'Levenshtein':(LevenshteinDist, False)
-             'Hybrid':(hybrid_similarity, True),
-             #'PhoneticSurprisal':(phonetic_surprisal_sim, True),
+functions = {#'Surprisal':(surprisal_sim, True),
+             #'PMI':(score_pmi, False),
+             #'Phonetic':(word_sim, True),
+             #'SyllStrPhonetic':(segmental_word_sim, True),
+             #'BasicPhonetic':(basic_word_sim, True),
+             'Levenshtein':(LevenshteinDist, False),
+             #'Hybrid':(hybrid_similarity, True),
+             'PhoneticSurprisal':(phonetic_surprisal, True),
              
              #'Z-Surprisal':(z_score_surprisal, False)
              }
@@ -232,7 +235,7 @@ functions = {'Surprisal':(surprisal_sim, True),
 #%%
 #Evaluate validation datasets for all functions with parameters = [0.0, ..., 1.0]
 evaluation = {}
-destination = '../Results/Cognate Clustering/Validation/Common Concepts/Bantu_'
+destination = '../Results/Cognate Clustering/Validation/Common Concepts/'
 
 #%%
 function_labels = list(functions.keys())
@@ -243,10 +246,21 @@ for i in range(len(functions)):
     if func_label not in evaluation:
         print(f'Evaluating {func_label} parameters...')
         dist_func, func_sim = functions[func_label]
-        family_bcubed =  evaluate_family_parameters([Bantu],
+        family_bcubed =  evaluate_family_parameters(validation_datasets,
                                                     parameters=[i/100 for i in range(0,101)],
                                                     dist_func=dist_func, func_sim=func_sim,
                                                     concept_list=common_concepts,
+                                                    
+                                                    #Surprisal/hybrid arguments
+                                                    #ngram_size=ngram_size,
+                                                    
+                                                    #Phonetic arguments
+                                                    #penalize_infocontent=True,
+                                                    #penalize_sonority=False,
+                                                    #context_reduction=True,
+                                                    #prosodic_env_scaling=False,
+                                                    #total_sim=True,
+                                                    
                                                     method=method)
         
         #Save evaluation 
@@ -267,20 +281,28 @@ for func_label in evaluation:
     for family in evaluation[func_label]:
         if method == 'bcubed':
             print(family, round(evaluation[func_label][family][optimum][2], 3))
-        else: #mcc
+        else: #mcc.
             print(family, round(evaluation[func_label][family][optimum], 3))
-            
+     
     dist_func, func_sim = functions[func_label] 
     for family in test_datasets: 
-        if loaded[family.name] == False: 
-            print(f'Loading {family.name} phoneme PMI and surprisal...') 
+        if loaded[family.name] == False:  
+            print(f'Loading {family.name} phoneme PMI...') 
             family.load_phoneme_pmi() 
-            family.load_phoneme_surprisal()
+            print(f'Loading {family.name} phoneme surprisal...') 
+            family.load_phoneme_surprisal(ngram_size=ngram_size)
             loaded[family.name] = True
+            print(f'Clustering {family.name} words...') 
         family_clusters = family.cluster_cognates(concept_list=common_concepts,
-                                         dist_func=dist_func, sim=func_sim,
-                                         cutoff=optimum) 
-        family_eval = family.evaluate_clusters(family_clusters, method=method) 
-        print(family.name, round(family_eval, 3)) 
+                                       dist_func=dist_func, sim=func_sim,
+                                       cutoff=optimum, 
+                                       #ngram_size=ngram_size
+                                       )
+        print(f'Evaluating {family.name} cognate clusters...') 
+        family_eval = family.evaluate_clusters(family_clusters, method=method)
+        if method == 'bcubed':
+            print(family.name, round(family_eval[2], 3))
+        else: #mcc
+            print(family.name, round(family_eval, 3)) 
             
-    print('\n')
+        print('\n')

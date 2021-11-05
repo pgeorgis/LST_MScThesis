@@ -133,10 +133,35 @@ def surprisal(p):
         print(f'Math Domain Error: cannot take the log of {p}')
         raise ValueError
         
-def adaptation_surprisal(alignment, surprisal_dict, normalize=True):
+# def adaptation_surprisal(alignment, surprisal_dict, normalize=True):
+#     """Calculates the surprisal of an aligned sequence, given a dictionary of 
+#         surprisal values for the sequence corresponcences"""
+#     values = [surprisal_dict[pair[0]][pair[1]] for pair in alignment]
+
+#     if normalize == True:
+#         return mean(values)
+#     else:
+#         return sum(values)
+
+def adaptation_surprisal(alignment, surprisal_dict, ngram_size=1, normalize=True):
     """Calculates the surprisal of an aligned sequence, given a dictionary of 
-        surprisal values for the sequence corresponcences"""
-    values = [surprisal_dict[pair[0]][pair[1]] for pair in alignment]
+    surprisal values for the sequence corresponcences"""
+    
+    pad_n = ngram_size - 1
+    if ngram_size > 1:
+        alignment = [('#', '#')]*pad_n + alignment + [('#', '#')]*pad_n
+    
+    values = []
+    for i in range(pad_n, len(alignment)-pad_n):
+        ngram = alignment[i:i+ngram_size]
+        segs = list(zip(*ngram))
+        seg1, seg2 = segs
+        #forward
+        #seg2 = seg2[-1]
+        
+        #backward
+        seg2 = seg2[0]
+        values.append(surprisal_dict[seg1][seg2])
 
     if normalize == True:
         return mean(values)

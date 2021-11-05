@@ -8,18 +8,22 @@ from scipy.cluster.hierarchy import dendrogram, linkage, fcluster, to_tree
 destination = '/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Trees/Results/'
 
 functions = {'PMI':(score_pmi, False, 0.34),
-             'Surprisal':(surprisal_sim, True, 0.77),
+             'Surprisal':(surprisal_sim, True, 0.74),
+             #'Surprisal2gram':(surprisal_sim, True, 0.69),
              'Phonetic':(word_sim, True, 0.17),
-             'Hybrid':(hybrid_similarity, True, 0.58),
+             'Hybrid':(hybrid_similarity, True, 0.56),
              }
 
 
 #OPTIMAL VALUES FROM VALIDATION DATASETS ON COMMON CONCEPT SET USING BCUBED F1
 #PMI: 0.34
-#Surprisal: 0.77
+#Surprisal: 0.74
+#Surprisal bigram: 0.69
 #Phonetic_WITHinfopenalty: 0.23 #need to rerun for this
-#Phonetic_withOUTinfopenalty: 0.17
-#Hybrid similarity: 0.58
+#Phonetic_withOUTinfopenalty (DEFAULT): 0.17 #THIS IS THE VERSION I USE FOR TREE DRAWING
+#Phonetic_withOUTinfopenalty_summed_penalties: 0.62
+#Phonetic_withinfopenalty_summed_penalties: 0.71
+#Hybrid similarity: 0.58 (old) / 0.56 (unigram, mean_sim phonetic - DEFAULT) / 0.64 (unigram, total_sim phonetic)
 
 #OPTIMAL VALUES FROM VALIDATION DATASETS ON COMMON CONCEPT SET USING MCC
 #PMI: 0.31
@@ -36,11 +40,13 @@ def draw_all_trees(family, newick_directory,
                    linkage_methods=['average', 'complete', 'single', 'ward', 'weighted'],
                    plot=False, plot_directory=None,
                    load_pmi=True,
-                   load_surprisal=True):
+                   load_surprisal=True, ngram_size=1):
     if load_pmi == True:
+        print(f'Loading {family.name} phoneme PMI...')
         family.load_phoneme_pmi()
     if load_surprisal == True:
-        family.load_phoneme_surprisal()
+        print(f'Loading {family.name} phoneme surprisal ({ngram_size}gram)...')
+        family.load_phoneme_surprisal(ngram_size)
         
     if plot == True:
         assert plot_directory != None
@@ -52,7 +58,7 @@ def draw_all_trees(family, newick_directory,
     
     gold, none = False, False
     for cog in cognate_types:
-        print(f'Generating trees based on {cog.upper()} cognate sets... ')
+        print(f'Generating {family.name} trees based on {cog.upper()} cognate sets... ')
         
         for cluster_label in cluster_functions:
             if cog == 'auto':

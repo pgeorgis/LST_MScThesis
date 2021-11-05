@@ -25,7 +25,7 @@ map.feature(languages=italic$Name, features=italic_subfamilies, latitude=italic$
 #Map Arabic
 arabic <- lang_data[lang_data$Dataset=='Arabic',]
 arabic_subfamilies = arabic$Classification
-arabic_subfamilies = strsplit(arabic_subfamilies, ",")
+arabic_subfamilies = strsplit(arabic_subfamilies, ", ")
 arabic_subfamilies = sapply(arabic_subfamilies, "[", 4)
 map.feature(languages=arabic$Name, features=arabic_subfamilies, latitude=arabic$Latitude, longitude=arabic$Longitude)
 
@@ -58,11 +58,12 @@ uralic_subfamilies = sapply(uralic_subfamilies, "[", 2)
 map.feature(languages=uralic$Name, features=uralic_subfamilies, latitude=uralic$Latitude, longitude=uralic$Longitude)
 
 #Map Balto-Slavic
-baltoslavic <- lang_data[lang_data$Dataset=='NorthEuraLex' | lang_data$Dataset=='Balto-Slavic',]
+baltoslavic <- lang_data[grep('Balto-Slavic', lang_data$Classification),]
 baltoslavic_subfamilies = baltoslavic$Classification
 baltoslavic_subfamilies = strsplit(baltoslavic_subfamilies, ",")
 baltoslavic_subfamilies = sapply(baltoslavic_subfamilies, tail, n=1)
-map.feature(languages=baltoslavic$Name, features=baltoslavic_subfamilies, latitude=baltoslavic$Latitude, longitude=baltoslavic$Longitude)
+map.feature(languages=baltoslavic$Name, features=baltoslavic_subfamilies, latitude=baltoslavic$Latitude, longitude=baltoslavic$Longitude,
+            color='magma', zoom.control = TRUE)
 
 #Map Dravidian
 dravidian <- lang_data[lang_data$Dataset=='Dravidian',]

@@ -106,9 +106,8 @@ families <- c('Arabic',
               'Uto-Aztecan',
               'Vietic',
               
-              #Additional sub-datasets
+              #Additional sub-datasets (not Yana, all non-binary branching)
               'Pomoan',
-              'Yana',
               'Yuman'
               )
 
@@ -133,7 +132,9 @@ for (family in families) {
   #Load distance-based (exclude binary) trees into a MultiPhylo forest
   family_trees <- list.files(path=paste('Results/', family, sep=''))
   family_trees <- family_trees[grep('.tre', family_trees)]
-  family_trees <- family_trees[-grep('binary', family_trees)]
+  if (length(family_trees[grep('binary', family_trees)]) > 0) {
+    family_trees <- family_trees[-grep('binary', family_trees)]
+  }
   family_trees <- paste(local_dir, '/Results/', family, '/', family_trees, sep='')
   
   #Sort trees by cognate detection and evaluation method
@@ -205,15 +206,19 @@ for (family in families) {
   cat('\n')
   
   #Plot and save the evaluation of the best tree using QuartetDivergence diagram
-  plot_path <- paste('Results/', family, '/', family, "_best_auto.png", sep='')
-  png(filename=plot_path, width=700, height=700)
+  png_plot_path <- paste('Results/', family, '/', family, "_best_auto.png", sep='')
+  tre_plot_path <- paste('Results/', family, '/', family, "_best_auto.tre", sep='')
+  png(filename=png_plot_path, width=700, height=700)
   VisualizeQuartets(ladderize(family_gold), ladderize(best_auto_tree), style='size', spectrum=rev(terrain.colors(101)))
   dev.off()
+  write.tree(best_auto_tree, file=tre_plot_path)
   
-  plot_path <- paste('Results/', family, '/', family, "_best_gold.png", sep='')
-  png(filename=plot_path, width=700, height=700)
+  png_plot_path <- paste('Results/', family, '/', family, "_best_gold.png", sep='')
+  tre_plot_path <- paste('Results/', family, '/', family, "_best_gold.tre", sep='')
+  png(filename=png_plot_path, width=700, height=700)
   VisualizeQuartets(ladderize(family_gold), ladderize(best_gold_tree), style='size', spectrum=rev(terrain.colors(101)))
   dev.off()
+  write.tree(best_gold_tree, file=tre_plot_path)
   
 }
 

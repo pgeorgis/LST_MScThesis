@@ -210,31 +210,36 @@ class Dataset:
         if output_file == None:
             output_file = f'{self.directory}{self.name}_phoneme_PMI.csv'
         
-        #Calculate or retrieve PMI values and save them to the specified output file
+        l = list(self.languages.values())
+        
+        #Check whether phoneme PMI has been calculated already for this pair
+        #If not, calculate it now
+        checked = []
+        for pair in itertools.product(l, l):
+            lang1, lang2 = pair
+            if (lang2, lang1) not in checked:
+                    
+                if len(lang1.phoneme_pmi[lang2]) == 0:
+                    print(f'Calculating phoneme PMI for {lang1.name} and {lang2.name}...')
+                    pmi = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi(**kwargs)
+                
+        #Save calculated PMI values to file
         with open(output_file, 'w') as f:
             f.write('Language1,Phone1,Language2,Phone2,PMI\n')
-            l = list(self.languages.values())
             checked = []
             for pair in itertools.product(l, l):
                 lang1, lang2 = pair
                 if (lang2, lang1) not in checked:
-                    
-                    #Check whether phoneme PMI has been calculated already for this pair
-                    #If not, calculate it now
-                    if len(lang1.phoneme_pmi[lang2]) == 0:
-                        print(f'Calculating phoneme PMI for {lang1.name} and {lang2.name}...')
-                        pmi = PhonemeCorrDetector(lang1, lang2).calc_phoneme_pmi(**kwargs)
-                    
-                    #Else retrieve the precalculated values
-                    else:
-                        pmi = lang1.phoneme_pmi[lang2]
+                
+                    #Retrieve the precalculated values
+                    pmi = lang1.phoneme_pmi[lang2]
                         
                     #Save all segment pairs with non-zero PMI values to file
+                    #Also skip extremely small decimals that are close to zero
                     for seg1 in pmi:
                         for seg2 in pmi[seg1]:
-                            if pmi[seg1][seg2] != 0:
-                                if abs(pmi[seg1][seg2]) > lang1.phonemes[seg1] * lang2.phonemes[seg2]: #skip extremely small decimals
-                                    f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{pmi[seg1][seg2]}\n')
+                            if abs(pmi[seg1][seg2]) > lang1.phonemes[seg1] * lang2.phonemes[seg2]:
+                                f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{pmi[seg1][seg2]}\n')
                     
                     checked.append((lang1, lang2))
     
@@ -267,7 +272,7 @@ class Dataset:
                 lang2.phoneme_pmi[lang1][phone2][phone1] = pmi_value
     
     
-    def calculate_phoneme_surprisal(self, output_file=None, **kwargs):
+    def calculate_phoneme_surprisal(self, ngram_size=1, output_file=None, **kwargs):
         """Calculates phoneme surprisal for all language pairs in the dataset and saves
         the results to file"""
         
@@ -276,23 +281,24 @@ class Dataset:
         
         #Specify output file name if none is specified
         if output_file == None:
-            output_file = f'{self.directory}{self.name}_phoneme_surprisal.csv'
+            output_file = f'{self.directory}{self.name}_phoneme_surprisal_{ngram_size}gram.csv'
         
-        #Calculate or retrieve surprisal values and save them to the specified output file
+        #Check whether phoneme surprisal has been calculated already for this pair
+        for lang1 in self.languages.values():
+            for lang2 in self.languages.values():
+                    
+                #If not, calculate it now
+                if len(lang1.phoneme_surprisal[(lang2, ngram_size)]) == 0:
+                    print(f'Calculating phoneme surprisal for {lang1.name} and {lang2.name}...')
+                    phoneme_surprisal = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(ngram_size=ngram_size, **kwargs)
+                
+        #Save calculated surprisal values to file
         with open(output_file, 'w') as f:
             f.write('Language1,Phone1,Language2,Phone2,Surprisal,OOV_Smoothed\n')
             for lang1 in self.languages.values():
                 for lang2 in self.languages.values():
                         
-                    #Check whether phoneme surprisal has been calculated already for this pair
-                    #If not, calculate it now
-                    if len(lang1.phoneme_surprisal[lang2]) == 0:
-                        print(f'Calculating phoneme surprisal for {lang1.name} and {lang2.name}...')
-                        phoneme_surprisal = PhonemeCorrDetector(lang1, lang2).calc_phoneme_surprisal(**kwargs)
-                    
-                    #Else retrieve the precalculated values
-                    else:
-                        phoneme_surprisal = lang1.phoneme_surprisal[lang2]
+                    phoneme_surprisal = lang1.phoneme_surprisal[(lang2, ngram_size)]
                         
                     #Save values
                     for seg1 in phoneme_surprisal:
@@ -308,15 +314,15 @@ class Dataset:
                         #Save values which are not equal to the OOV smoothed value
                         for seg2 in phoneme_surprisal[seg1]:
                             if phoneme_surprisal[seg1][seg2] != oov_smoothed:
-                                f.write(f'{lang1.name},{seg1},{lang2.name},{seg2},{phoneme_surprisal[seg1][seg2]},{oov_smoothed}\n')
+                                f.write(f'{lang1.name},{" ".join(seg1)},{lang2.name},{seg2},{phoneme_surprisal[seg1][seg2]},{oov_smoothed}\n')
 
     
-    def load_phoneme_surprisal(self, surprisal_file=None, excepted=[]):
+    def load_phoneme_surprisal(self, ngram_size=1, surprisal_file=None, excepted=[]):
         """Loads pre-calculated phoneme surprisal values from file"""
         
         #Designate the default file name to search for if no alternative is provided
         if surprisal_file == None:
-            surprisal_file = f'{self.directory}{self.name}_phoneme_surprisal.csv'
+            surprisal_file = f'{self.directory}{self.name}_phoneme_surprisal_{ngram_size}gram.csv'
         
         #Try to load the file of saved PMI values
         try:
@@ -335,11 +341,12 @@ class Dataset:
             lang2 = self.languages[row['Language2']]
             if (lang1 not in excepted) and (lang2 not in excepted):
                 phone1, phone2 = row['Phone1'], row['Phone2']
+                phone1 = tuple(phone1.split())
                 surprisal_value = row['Surprisal']
-                if phone1 not in lang1.phoneme_surprisal[lang2]:
+                if phone1 not in lang1.phoneme_surprisal[(lang2, ngram_size)]:
                     oov_smoothed = row['OOV_Smoothed']
-                    lang1.phoneme_surprisal[lang2][phone1] = defaultdict(lambda:oov_smoothed)
-                lang1.phoneme_surprisal[lang2][phone1][phone2] = surprisal_value
+                    lang1.phoneme_surprisal[(lang2, ngram_size)][phone1] = defaultdict(lambda:oov_smoothed)
+                lang1.phoneme_surprisal[(lang2, ngram_size)][phone1][phone2] = surprisal_value
     
     
     def cognate_set_dendrogram(self, cognate_id, 
@@ -683,6 +690,7 @@ class Language(Dataset):
         self.unigrams = defaultdict(lambda:0)
         self.bigrams = defaultdict(lambda:0)
         self.trigrams = defaultdict(lambda:0)
+        self.ngrams = defaultdict(lambda:defaultdict(lambda:0))
         self.gappy_trigrams = defaultdict(lambda:0)
         self.info_contents = {}
         
@@ -749,8 +757,9 @@ class Language(Dataset):
                 for j in range(1, len(padded_segments)):
                     bigram = (padded_segments[j-1], padded_segments[j])
                     self.bigrams[bigram] += 1
-                    
-        
+        self.ngrams[1] = self.unigrams
+        self.ngrams[2] = self.bigrams
+        self.ngrams[3] = self.trigrams
         
         #Normalize counts
         total_tokens = sum(self.phonemes.values())
@@ -776,7 +785,22 @@ class Language(Dataset):
         #Designate language as tonal if it has tonemes
         if len(self.tonemes) > 0:
             self.tonal = True
-            
+    
+    def list_ngrams(self, ngram_size):
+        """Returns a dictionary of ngrams of a particular size, with their counts"""
+        if len(self.ngrams[ngram_size]) > 0:
+            return self.ngrams[ngram_size]
+        
+        else:
+            segmented_words = [entry[2] for concept in self.vocabulary for entry in self.vocabulary[concept]]
+            for segs in segmented_words:
+                pad_n = ngram_size - 1
+                padded = ['#']*pad_n + segs + ['#']*pad_n
+                for i in range(len(padded)-pad_n):
+                    ngram = tuple(padded[i:i+ngram_size])
+                    self.ngrams[ngram_size][ngram] += 1
+            return self.ngrams[ngram_size]
+        
     
     def lookup(self, segment, 
                field='transcription',
@@ -850,6 +874,12 @@ class Language(Dataset):
         self.info_contents[''.join(padded[2:-2])] = info_content
         return info_content
     
+    def self_surprisal(self, word, segmented=False, normalize=False):
+        info_content = self.calculate_infocontent(word, segmented=segmented)
+        if normalize == True:
+            return mean(info_content[j][1] for j in info_content)
+        else:
+            return sum(info_content[j][1] for j in info_content)
     
     def bigram_probability(self, bigram, delta=0.7):
         """Returns Kneser-Ney smoothed conditional probability P(p2|p1)"""
