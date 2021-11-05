@@ -114,50 +114,50 @@ Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Palermitan)	Palermitan S
 Italic	Indo-European, Italic, Italo-Dalmatian	Sicilian (Southeastern)	South-Eastern Sicilian	Southeast Metafonetica	sout2617	scn	Sicilian	Indo-European	Eurasia	37.3089	13.5858	Saenko (2015)	
 Italic	Indo-European, Italic, Italo-Dalmatian	Tuscan	Grosseto Italian	Fiorentino	fior1235	ita	Italian	Indo-European	Eurasia	42.7635	11.1124	Saenko (2015)	Southern Tuscan dialect of Grosseto; Fiorentino (another Tuscan dialect) is the closest Glottolog equivalent
 Italic	Indo-European, Italic, Italo-Dalmatian	Umbrian	Foligno Italian	Laziale	lazi1238	ita	Italian	Indo-European	Eurasia	42.9509	12.7015	Saenko (2015)	Umbrian dialect of Foligno, belonging to the Central Italian dialect group -- not the ancient Umbrian language; Laziale (another Central Italian dialect) is the closest Glottolog equivalent
-Italic	Indo-European, Italic, Latin	Latin (Archaic)	Archaic Latin	Old Latin	oldl1238	qbb		Indo-European	Eurasia	41.901111	12.488333	Saenko (2015)	
-Italic	Indo-European, Italic, Latin	Latin (Late Classical)	Late Classical Latin	Late Latin	late1252	lat	Latin	Indo-European	Eurasia	41.901111	12.488333	Saenko (2015)	
-Italic	Indo-European, Italic, Southern Romance	Sardinian (Campidanese)	Campidanese	Campidanese Sardinian	camp1261	sro	Campidanese Sardinian	Indo-European	Eurasia	39.0566	9.03935	Saenko (2015)	
-Italic	Indo-European, Italic, Southern Romance	Sardinian (Logudorese)	Logudorese	Logudorese Sardinian	logu1236	src	Logudorese Sardinian	Indo-European	Eurasia	40.49	9.09957	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Asturian	Asturian	Asturian	astu1246	ast	Asturian; Leonese	Indo-European	Eurasia	42.4181	-6.02227	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Castelló de la Plana)	Castelló de la Plana Catalan	Valencià Meridional	vale1255	cat	Valencian	Indo-European	Eurasia	39.9864	-0.0513	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Central)	Central Catalan	Barceloní	nons1235	cat	Catalan	Indo-European	Eurasia	41.3851	2.1734	Saenko (2015)	Dialect of Barcelona
-Italic	Indo-European, Italic, Western Romance	Catalan (Manises)	Manises Catalan	Valencià Septentrional	vale1253	cat	Valencian	Indo-European	Eurasia	39.4938	-0.4635	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Minorcan)	Minorcan Catalan	Menorquí	meno1253	cat	Catalan	Indo-European	Eurasia	39.9496	4.1104	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Northwestern)	North-Western Catalan	Català Nord-Occidental	cata1291	cat	Catalan	Indo-European	Eurasia	41.3985	0.7913	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Catalan (Valencia)	Valencia Catalan	Valencià	vale1252	cat	Valencian	Indo-European	Eurasia	39.4699	-0.3763	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Emiliano (Carpigiano)	Carpigiano Emiliano	Emiliano	emil1241	egl	Emilian	Indo-European	Eurasia	44.7839	11.5794	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Emiliano (Ferrarese)	Ferrarese Emiliano	Eastern Emiliano	east2275	egl	Emilian	Indo-European	Eurasia	44.8381	11.6198	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Emiliano (Reggiano)	Reggiano Emiliano	Central Emiliano	cent1959	egl	Emilian	Indo-European	Eurasia	44.699	10.6297	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Franco-Provençal	Savoyard Franco-Provençal	Savoyard	savo1253	frp	Francoprovençal	Indo-European	Eurasia	45.8051	6.48152	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	French	Standard French	French	stan1290	fra	French	Indo-European	Eurasia	48.0	2.0	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Friulian	Friulian	Friulian	friu1240	fur	Friulian	Indo-European	Eurasia	46.1473	13.0493	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Galician	Galician	Galician	gali1258	glg	Galician	Indo-European	Eurasia	42.2446	-7.5343	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ladin (Fassano)	Fassano Ladin	Fassano	fass1244	lld	Ladin	Indo-European	Eurasia	46.4333	11.7	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ladin (Gardenese)	Gardenese Ladin	Gardenese	gard1241	lld	Ladin	Indo-European	Eurasia	46.5559	11.7028	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Ligurian (Genoa)	Genoese Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.4056	8.9463	Saenko (2015)	Dialect of Genoa
-Italic	Indo-European, Italic, Western Romance	Ligurian (Rapallo)	Rapallo Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.3498	9.2339	Saenko (2015)	Close subdialect of Genoese
-Italic	Indo-European, Italic, Western Romance	Ligurian (Stella)	Stella Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.394	8.4952	Saenko (2015)	Central Ligurian (ligure centrale/centro-occidentale) dialect of Province of Savona
-Italic	Indo-European, Italic, Western Romance	Lombard (Bergamo)	Bergamo Lombard	Bergamasco	berg1241	lmo	Lombard	Indo-European	Eurasia	45.6983	9.6773	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Lombard (Plesio)	Plesio Lombard	Western Lombard	west2343	lmo	Lombard	Indo-European	Eurasia	46.0633	9.2074	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Indo-European	Eurasia	44.0	6.0	Saenko (2015)	Named Occitan rather than Provençal in order to avoid confusion with Franco-Provençal
-Italic	Indo-European, Italic, Western Romance	Old French	Old French	Old French (842-ca. 1400)	oldf1239	fro	Old French (842-ca. 1400)	Indo-European	Eurasia	48.8	1.11	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Picard	Picard	Picard	pica1241	pcd	Picard	Indo-European	Eurasia	50.2831	3.25085	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Piedmontese (Barbania)	Barbania Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.2913	7.6312	Saenko (2015)	Close subdialect of the Turinese dialect
-Italic	Indo-European, Italic, Western Romance	Piedmontese (Carmagnola)	Carmagnola Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	44.8459	7.7174	Saenko (2015)	Close subdialect of the Turinese dialect
-Italic	Indo-European, Italic, Western Romance	Piedmontese (Lanzo Torinese)	Lanzo Torinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.2701	7.4775	Saenko (2015)	Close subdialect of the Turinese dialect
-Italic	Indo-European, Italic, Western Romance	Piedmontese (Turinese)	Turinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.0703	7.6869	Saenko (2015)	Close subdialect of the Turinese dialect
-Italic	Indo-European, Italic, Western Romance	Piedmontese (Vercellese)	Vercellese Piemontese	Low Piemontese	lowp1238	pms	Piemontese	Indo-European	Eurasia	45.3202	8.4186	Saenko (2015)	Eastern/Low Piemontese, transitional to Lombard
-Italic	Indo-European, Italic, Western Romance	Portuguese	Standard Portuguese	Portuguese	port1283	por	Portuguese	Indo-European	Eurasia	39.91	-8.1	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romagnol	Ravennate Romagnol	Romagnol	roma1328	rgn	Romagnol	Indo-European	Eurasia	44.2349	11.7189	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romansh (Grischun)	Rumantsch Grischun	Rumantsch Grischun	ruma1247	roh	Romansh	Indo-European	Eurasia	46.5538	9.92812	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romansh (Surmiran)	Surmiran Romansh	Surmiran-Albula	surm1243	roh	Romansh	Indo-European	Eurasia	46.7123	9.4494	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romansh (Sursilvan)	Sursilvan Romansh	Sursilvan	surs1244	roh	Romansh	Indo-European	Eurasia	46.6881	9.2007	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Romansh (Vallader)	Vallader Romansh	Lower Engadine	lowe1386	roh	Romansh	Indo-European	Eurasia	46.5497	9.8959	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Spanish	Castilian Spanish	Castilian	cast1244	spa	Spanish	Indo-European	Eurasia	41.7666	-2.479	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Venetian (Bellunese)	Bellunese Venetian	Triestine	trie1242	vec	Venetian	Indo-European	Eurasia	46.1425	12.2167	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Venetian (Primiero)	Primiero Venetian	Trentine	tret1239	vec	Venetian	Indo-European	Eurasia	46.1758	11.8284	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Venetian (Venice)	Venice Venetian	Venetian Proper	vene1259	vec	Venetian	Indo-European	Eurasia	45.4408	12.3155	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance	Walloon	Walloon	Walloon	wall1255	wln	Walloon	Indo-European	Eurasia	50.2235	5.14509	Saenko (2015)	
+Italic	Indo-European, Italic, Latin	Latin (Archaic)	Archaic Latin	Old Latin	oldl1238	qbb		Indo-European	Eurasia	41.9011	12.488333	Saenko (2015)	
+Italic	Indo-European, Italic, Latin	Latin (Late Classical)	Late Classical Latin	Late Latin	late1252	lat	Latin	Indo-European	Eurasia	41.9011	12.488333	Saenko (2015)	
+Italic	Indo-European, Italic, Southern Romance, Sardinian	Sardinian (Campidanese)	Campidanese	Campidanese Sardinian	camp1261	sro	Campidanese Sardinian	Indo-European	Eurasia	39.0566	9.03935	Saenko (2015)	
+Italic	Indo-European, Italic, Southern Romance, Sardinian	Sardinian (Logudorese)	Logudorese	Logudorese Sardinian	logu1236	src	Logudorese Sardinian	Indo-European	Eurasia	40.49	9.09957	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Castelló de la Plana)	Castelló de la Plana Catalan	Valencià Meridional	vale1255	cat	Valencian	Indo-European	Eurasia	39.9864	-0.0513	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Central)	Central Catalan	Barceloní	nons1235	cat	Catalan	Indo-European	Eurasia	41.3851	2.1734	Saenko (2015)	Dialect of Barcelona
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Manises)	Manises Catalan	Valencià Septentrional	vale1253	cat	Valencian	Indo-European	Eurasia	39.4938	-0.4635	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Minorcan)	Minorcan Catalan	Menorquí	meno1253	cat	Catalan	Indo-European	Eurasia	39.9496	4.1104	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Northwestern)	North-Western Catalan	Català Nord-Occidental	cata1291	cat	Catalan	Indo-European	Eurasia	41.3985	0.7913	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Valencia)	Valencia Catalan	Valencià	vale1252	cat	Valencian	Indo-European	Eurasia	39.4699	-0.3763	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Emiliano (Carpigiano)	Carpigiano Emiliano	Emiliano	emil1241	egl	Emilian	Indo-European	Eurasia	44.7839	11.5794	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Emiliano (Ferrarese)	Ferrarese Emiliano	Eastern Emiliano	east2275	egl	Emilian	Indo-European	Eurasia	44.8381	11.6198	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Emiliano (Reggiano)	Reggiano Emiliano	Central Emiliano	cent1959	egl	Emilian	Indo-European	Eurasia	44.699	10.6297	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Franco-Provençal	Savoyard Franco-Provençal	Savoyard	savo1253	frp	Francoprovençal	Indo-European	Eurasia	45.8051	6.48152	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	French	Standard French	French	stan1290	fra	French	Indo-European	Eurasia	48.0	2.0	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Friulian	Friulian	Friulian	friu1240	fur	Friulian	Indo-European	Eurasia	46.1473	13.0493	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Ladin (Fassano)	Fassano Ladin	Fassano	fass1244	lld	Ladin	Indo-European	Eurasia	46.4333	11.7	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Ladin (Gardenese)	Gardenese Ladin	Gardenese	gard1241	lld	Ladin	Indo-European	Eurasia	46.5559	11.7028	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Ligurian (Genoa)	Genoese Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.4056	8.9463	Saenko (2015)	Dialect of Genoa
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Ligurian (Rapallo)	Rapallo Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.3498	9.2339	Saenko (2015)	Close subdialect of Genoese
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Ligurian (Stella)	Stella Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.394	8.4952	Saenko (2015)	Central Ligurian (ligure centrale/centro-occidentale) dialect of Province of Savona
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Lombard (Bergamo)	Bergamo Lombard	Bergamasco	berg1241	lmo	Lombard	Indo-European	Eurasia	45.6983	9.6773	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Lombard (Plesio)	Plesio Lombard	Western Lombard	west2343	lmo	Lombard	Indo-European	Eurasia	46.0633	9.2074	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Indo-European	Eurasia	44.0	6.0	Saenko (2015)	Named Occitan rather than Provençal in order to avoid confusion with Franco-Provençal
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Old French	Old French	Old French (842-ca. 1400)	oldf1239	fro	Old French (842-ca. 1400)	Indo-European	Eurasia	48.8	1.11	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Picard	Picard	Picard	pica1241	pcd	Picard	Indo-European	Eurasia	50.2831	3.25085	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Barbania)	Barbania Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.2913	7.6312	Saenko (2015)	Close subdialect of the Turinese dialect
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Carmagnola)	Carmagnola Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	44.8459	7.7174	Saenko (2015)	Close subdialect of the Turinese dialect
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Lanzo Torinese)	Lanzo Torinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.2701	7.4775	Saenko (2015)	Close subdialect of the Turinese dialect
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Turinese)	Turinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.0703	7.6869	Saenko (2015)	Close subdialect of the Turinese dialect
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Vercellese)	Vercellese Piemontese	Low Piemontese	lowp1238	pms	Piemontese	Indo-European	Eurasia	45.3202	8.4186	Saenko (2015)	Eastern/Low Piemontese, transitional to Lombard
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Romagnol	Ravennate Romagnol	Romagnol	roma1328	rgn	Romagnol	Indo-European	Eurasia	44.2349	11.7189	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Grischun)	Rumantsch Grischun	Rumantsch Grischun	ruma1247	roh	Romansh	Indo-European	Eurasia	46.5538	9.92812	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Surmiran)	Surmiran Romansh	Surmiran-Albula	surm1243	roh	Romansh	Indo-European	Eurasia	46.7123	9.4494	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Sursilvan)	Sursilvan Romansh	Sursilvan	surs1244	roh	Romansh	Indo-European	Eurasia	46.6881	9.2007	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Vallader)	Vallader Romansh	Lower Engadine	lowe1386	roh	Romansh	Indo-European	Eurasia	46.5497	9.8959	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Venetian (Bellunese)	Bellunese Venetian	Triestine	trie1242	vec	Venetian	Indo-European	Eurasia	46.1425	12.2167	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Venetian (Primiero)	Primiero Venetian	Trentine	tret1239	vec	Venetian	Indo-European	Eurasia	46.1758	11.8284	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Venetian (Venice)	Venice Venetian	Venetian Proper	vene1259	vec	Venetian	Indo-European	Eurasia	45.4408	12.3155	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Walloon	Walloon	Walloon	wall1255	wln	Walloon	Indo-European	Eurasia	50.2235	5.14509	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Ibero-Romance	Asturian	Asturian	Asturian	astu1246	ast	Asturian; Leonese	Indo-European	Eurasia	42.4181	-6.02227	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Ibero-Romance	Galician	Galician	Galician	gali1258	glg	Galician	Indo-European	Eurasia	42.2446	-7.5343	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Ibero-Romance	Portuguese	Standard Portuguese	Portuguese	port1283	por	Portuguese	Indo-European	Eurasia	39.91	-8.1	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Ibero-Romance	Spanish	Castilian Spanish	Castilian	cast1244	spa	Spanish	Indo-European	Eurasia	41.7666	-2.479	Saenko (2015)	
 Japonic	Japonic, Japanesic	Old Japanese	OldJapanese	Old Japanese	oldj1239	ojp	Old Japanese	Japonic	Eurasia	34.683333	135.8	Lee & Hasegawa, 2011	
 Japonic	Japonic, Japanesic, Eastern Japanese	Aichi	Aichi	Nagoya	nago1242			Japonic	Eurasia	35.1219442	137.081740723195	Lee & Hasegawa, 2011	
 Japonic	Japonic, Japanesic, Eastern Japanese	Akita	Akita	Akita	akit1240			Japonic	Eurasia	39.6898802	140.342608	Lee & Hasegawa, 2011	
@@ -282,7 +282,7 @@ Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian
 Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Azuay	Azuay	Azuay Highland Quichua	azua1234			Quechuan	South America	-2.48	-78.97	Blum et al., 2021	
 Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Colombian Inga	Putumayo	Colombian Inga	inga1252	inb	Inga	Quechuan	South America	1.17	-76.96	Blum et al., 2021	
 Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Imbabura	Imbabura	Imbabura Highland Quichua	imba1240	qvi	Imbabura Highland Quichua	Quechuan	South America	-0.23	-78.26	Blum et al., 2021	
-Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Napo 	Napo	Napo Lowland Quechua	napo1242	qvo	Napo Lowland Quechua	Quechuan	South America	-0.04	-76.23	Blum et al., 2021	
+Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Napo	Napo	Napo Lowland Quechua	napo1242	qvo	Napo Lowland Quechua	Quechuan	South America	-0.04	-76.23	Blum et al., 2021	
 Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Pastaza	Pastaza	Southern Pastaza Quechua	sout2990	qup	Southern Pastaza Quechua	Quechuan	South America	-4.79	-76.53	Blum et al., 2021	
 Quechuan	Quechuan, Quechua II, Quechua IIC, Colombia-Ecuador Quechua, Ecuadorian B	Tena	Serena	Tena Lowland Quichua	tena1240	quw	Tena Lowland Quichua	Quechuan	South America	-0.76	-77.54	Blum et al., 2021	
 Quechuan	Quechuan, Quechua II, Quechua IIC, Cuscan Quechua	Cuzco	Cuzco	Cusco Quechua	cusc1236	quz	Cusco Quechua	Quechuan	South America	-14.09	-71.77	Blum et al., 2021	
