@@ -203,7 +203,14 @@ def fix_tr(word, lang):
             
             elif lang == 'Azeri':
                 word = re.sub('bɛrk', 'bɛrc', word) #palatalized velar which would not be captured by above rules
-                
+        
+        elif lang == 'CodexCumanicus': #Cuman, based on transcriptions at http://turkic.elegantlexicon.com/lxforms.php?lx=cmn
+            word = re.sub('c(h)*', 'k', word)
+            word = re.sub('z', 'ʃ', word)
+            word = re.sub('x', 'z', word)
+            
+            #c(h), x, z, ɡ, s, e, o 
+            
             
         
         #Chuvash notes:

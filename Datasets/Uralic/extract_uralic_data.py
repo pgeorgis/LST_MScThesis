@@ -177,6 +177,13 @@ def fix_tr(word, lang):
         word = re.sub('e̞', 'e', word)
         word = re.sub('ø̞', 'ø', word)
         
+        #Similar with /n/~/n̪/, /t/~/t̪/
+        word = re.sub('̪', '', word)
+        
+    #Estonian: wrong IPA symbol used for <õ>
+    if lang == 'Estonian':
+        word = re.sub('ɣ', 'ɤ', word) 
+        
     #reg exp conversions
     word = re.sub('dʹ', 'dʲ', word) #Nganasan, Erzya; according to their raw file transcriptions
     word = re.sub('tʹ', 'tʲ', word) #Erzya, Khanty, Komi-Zyrian; according to their raw file transcriptions
