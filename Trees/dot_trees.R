@@ -35,7 +35,7 @@ subgroups = sapply(subgroups, tail, n=1)
 dd <- data.frame(Taxa=family_data$Name, Classification=subgroups)
 ggtree(best_auto_tree) %<+% dd + 
   geom_tippoint(aes(color=Classification, x=0.84), size=5, show.legend=TRUE) + 
-  geom_tiplab(aes(color=Classification), offset=0.03, align=TRUE) + 
+  geom_tiplab(aes(color=Classification), offset=0.02, align=TRUE, show.legend=FALSE) + 
   xlim(0, 1.1)
 
 #BANTU
@@ -158,11 +158,11 @@ best_auto_tree$tip.label <- str_replace_all(best_auto_tree$tip.label, '\\{', '('
 best_auto_tree$tip.label <- str_replace_all(best_auto_tree$tip.label, '\\}', ')')
 family_data <- lang_data[lang_data$Dataset==family,]
 subgroups = strsplit(family_data$Classification, ", ")
-subgroups = sapply(subgroups, "[", 3)
+subgroups = sapply(subgroups, "[", 2)
 dd <- data.frame(Taxa=family_data$Name, Classification=subgroups)
 ggtree(best_auto_tree) %<+% dd + 
   geom_tippoint(aes(color=Classification, x=0.26), size=5, show.legend=TRUE) + 
-  geom_tiplab(aes(color=Classification), offset=0.01, align=TRUE, show.legend=FALSE) + 
+  geom_tiplab(aes(color=Classification), offset=0.005, align=TRUE, show.legend=FALSE) + 
   xlim(0, 0.4)
 
 #SINITIC
@@ -196,6 +196,15 @@ ggtree(best_auto_tree) %<+% dd +
   geom_tippoint(aes(color=Classification, x=0.43), size=5, show.legend=TRUE) + 
   geom_tiplab(aes(color=Classification), offset=0.01, align=TRUE, show.legend=FALSE) + 
   xlim(0, 0.5)
+
+alt_auto_tree <- read.tree(file=paste(local_dir, 'Results', family, paste(family, 'alt_auto.tre', sep='_'), sep='/'))
+alt_auto_tree$tip.label <- str_replace_all(alt_auto_tree$tip.label, '_', ' ')
+alt_auto_tree$tip.label <- str_replace_all(alt_auto_tree$tip.label, '\\{', '(')
+alt_auto_tree$tip.label <- str_replace_all(alt_auto_tree$tip.label, '\\}', ')')
+ggtree(alt_auto_tree) %<+% dd + 
+  geom_tippoint(aes(color=Classification, x=.75), size=5, show.legend=TRUE) + 
+  geom_tiplab(aes(color=Classification), offset=0.01, align=TRUE, show.legend=FALSE) + 
+  xlim(0, 1)
 
 #URALIC
 family <- 'Uralic'

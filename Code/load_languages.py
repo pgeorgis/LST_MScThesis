@@ -1,7 +1,7 @@
 import os, re, itertools, copy
 from statistics import mean
 from collections import defaultdict
-import math, bcubed
+import math, bcubed, random
 from auxiliary_functions import *
 from pathlib import Path
 local_dir = Path(str(os.getcwd()))
@@ -53,15 +53,15 @@ class Dataset:
         #Concepts in dataset
         self.concepts = defaultdict(lambda:defaultdict(lambda:[]))
         self.cognate_sets = defaultdict(lambda:defaultdict(lambda:[]))
-        self.load_data()
+        self.load_data(self.filepath)
         self.load_cognate_sets()
         self.mutual_coverage = self.calculate_mutual_coverage()
         
         
-    def load_data(self, sep='\t'):
+    def load_data(self, filepath, doculects=None, sep='\t'):
+        
         #Load data file
-        #data = pd.read_csv(self.filepath, sep=sep, error_bad_lines=False)
-        data = csv_to_dict(self.filepath, sep=sep)
+        data = csv_to_dict(filepath, sep=sep)
         self.data = data
         
         #Initialize languages
@@ -69,13 +69,14 @@ class Dataset:
         language_vocabulary = defaultdict(lambda:defaultdict(lambda:{}))
         for i in data:
             lang = data[i][self.language_name_c]
-            features = list(data[i].keys())
-            for feature in features:
-                value = data[i][feature]
-                language_vocab_data[lang][i][feature] = value
-            self.glottocodes[lang] = data[i][self.glottocode_c]
-            self.iso_codes[lang] = data[i][self.iso_code_c]
-            self.lang_ids[lang] = data[i][self.id_c].split('_')[0]
+            if ((doculects == None) or (lang in doculects)):
+                features = list(data[i].keys())
+                for feature in features:
+                    value = data[i][feature]
+                    language_vocab_data[lang][i][feature] = value
+                self.glottocodes[lang] = data[i][self.glottocode_c]
+                self.iso_codes[lang] = data[i][self.iso_code_c]
+                self.lang_ids[lang] = data[i][self.id_c].split('_')[0]
         
         language_list = sorted(list(language_vocab_data.keys()))
         for lang in language_list:
@@ -263,13 +264,18 @@ class Dataset:
         #Iterate through the dataframe and save the PMI values to the Language
         #class objects' phoneme_pmi attribute
         for index, row in pmi_data.iterrows():
-            lang1 = self.languages[row['Language1']]
-            lang2 = self.languages[row['Language2']]
-            if (lang1 not in excepted) and (lang2 not in excepted):
-                phone1, phone2 = row['Phone1'], row['Phone2']
-                pmi_value = row['PMI']
-                lang1.phoneme_pmi[lang2][phone1][phone2] = pmi_value
-                lang2.phoneme_pmi[lang1][phone2][phone1] = pmi_value
+            try:
+                lang1 = self.languages[row['Language1']]
+                lang2 = self.languages[row['Language2']]
+                if (lang1 not in excepted) and (lang2 not in excepted):
+                    phone1, phone2 = row['Phone1'], row['Phone2']
+                    pmi_value = row['PMI']
+                    lang1.phoneme_pmi[lang2][phone1][phone2] = pmi_value
+                    lang2.phoneme_pmi[lang1][phone2][phone1] = pmi_value
+            
+            #Skip loaded PMI values for languages which are not in dataset
+            except KeyError:
+                pass
     
     
     def calculate_phoneme_surprisal(self, ngram_size=1, output_file=None, **kwargs):
@@ -337,26 +343,30 @@ class Dataset:
         #Iterate through the dataframe and save the surprisal values to the Language
         #class objects' phoneme_surprisal attribute
         for index, row in surprisal_data.iterrows():
-            lang1 = self.languages[row['Language1']]
-            lang2 = self.languages[row['Language2']]
-            if (lang1 not in excepted) and (lang2 not in excepted):
-                phone1, phone2 = row['Phone1'], row['Phone2']
-                phone1 = tuple(phone1.split())
-                surprisal_value = row['Surprisal']
-                if phone1 not in lang1.phoneme_surprisal[(lang2, ngram_size)]:
-                    oov_smoothed = row['OOV_Smoothed']
-                    lang1.phoneme_surprisal[(lang2, ngram_size)][phone1] = defaultdict(lambda:oov_smoothed)
-                lang1.phoneme_surprisal[(lang2, ngram_size)][phone1][phone2] = surprisal_value
-    
+            try:
+                lang1 = self.languages[row['Language1']]
+                lang2 = self.languages[row['Language2']]
+                if (lang1 not in excepted) and (lang2 not in excepted):
+                    phone1, phone2 = row['Phone1'], row['Phone2']
+                    phone1 = tuple(phone1.split())
+                    surprisal_value = row['Surprisal']
+                    if phone1 not in lang1.phoneme_surprisal[(lang2, ngram_size)]:
+                        oov_smoothed = row['OOV_Smoothed']
+                        lang1.phoneme_surprisal[(lang2, ngram_size)][phone1] = defaultdict(lambda:oov_smoothed)
+                    lang1.phoneme_surprisal[(lang2, ngram_size)][phone1][phone2] = surprisal_value
+            
+            #Skip loaded surprisal values for languages which are not in dataset
+            except KeyError:
+                pass
     
     def cognate_set_dendrogram(self, cognate_id, 
                                dist_func, sim=True, 
-                               combine_cognate_sets=False,
+                               combine_cognate_sets=True,
                                method='average',
                                title=None, save_directory=None,
                                **kwargs):
         if combine_cognate_sets == True:
-            cognate_ids = [c for c in self.cognate_sets if '_'.join(c.split('_')[:-1]) == cognate_id]
+            cognate_ids = [c for c in self.cognate_sets if c.split('_')[0] == cognate_id]
         else:
             cognate_ids = [cognate_id]
             
@@ -450,6 +460,65 @@ class Dataset:
                     line.append(entry)
                 line = sep.join(line)
                 f.write(f'{line}\n')
+                
+    def write_BEASTling_input(self, clustered_cognates, 
+                              name, directory,
+                              log_params=False,
+                              chainlength=2000000,
+                              model='covarion',
+                              rate_variation=True,
+                              clock_model='relaxed',
+                              calibration=None,
+                              sep=','):
+        """Writes a CSV file suitable as input for BEASTling from a 
+        clustered cognate set using specified parameters.
+        This can then be fed into BEASTling to create an .xml file to run
+        in BEAST2 for Bayesian phylogenetic inference.
+        
+        calibration :   dictionary with comma-separated language names (strings) as keys,
+                        values as range of millennia, e.g. '1.4-1.6' for 1400-1600 years
+        """
+        
+        csv_file = directory + name + '.csv'
+        config_file = directory + name + '.conf'
+        
+        cognate_id_count = 0
+        with open(csv_file, 'w') as f:
+            header = sep.join(['Language_ID', 'Feature_ID', 'IPA', 'Value'])
+            f.write(f'{header}\n')
+            for concept in clustered_cognates:
+                cognate_ids = list(clustered_cognates[concept].keys())
+                for i in range(len(cognate_ids)):
+                    cognate_id = cognate_ids[i]
+                    for entry in clustered_cognates[concept][cognate_id]:
+                        lang, word = entry[:-1].split(' /')
+                        lang = re.sub('\s', '_', lang)
+                        line = sep.join([lang, concept, word, str(i+1+cognate_id_count)])
+                        f.write(f'{line}\n')
+                cognate_id_count += len(cognate_ids)
+        
+        with open(config_file, 'w') as f:
+            config = '\n'.join([f'[admin]',
+                                f'basename={name}',
+                                f'log_params={log_params}',
+                                f'[MCMC]',
+                                f'chainlength={chainlength}',
+                                f'[model {name}]',
+                                f'model={model}',
+                                f'data={name}.csv',
+                                f'rate_variation={rate_variation}'])
+            if clock_model != None:
+                config += f'\n[clock default]\ntype={clock_model}'
+            
+            if calibration != None:
+                config += '\n[calibration]'
+                for lang_group in calibration:
+                    config += f'\n{lang_group}={calibration[lang_group]}'
+                
+            f.write(config)
+        
+        print(f'Wrote BEASTling input to {directory}.')
+                
     
     def evaluate_clusters(self, clustered_cognates, method='bcubed'):
         """Evaluates B-cubed precision, recall, and F1 of results of automatic  
@@ -580,7 +649,7 @@ class Dataset:
                                title=title, 
                                save_directory=save_directory, 
                                return_newick=return_newick,
-                               clustered_cognates=clustered_concepts, #better way?
+                               clustered_cognates=clustered_concepts,
                                **kwargs
                                )
     
@@ -653,12 +722,22 @@ class Dataset:
         new_dataset.mutual_coverage = new_dataset.calculate_mutual_coverage()
         
         return new_dataset
+    
+    def add_language(self, name, data_path, **kwargs):
+        self.load_data(data_path, doculects=[name], **kwargs)
+
+    def __str__(self):
+        """Print a summary of the Family object"""
+        s = f'{self.name.upper()}'
+        s += f'\nLanguages: {len(self.languages)}'
+        s += f'\nConcepts: {len(self.concepts)}\nCognate Classes: {len(self.cognate_sets)}'
         
-                
+        return s
 
 #%%
 class Language(Dataset):
-    def __init__(self, name, lang_id, data, glottocode, iso_code, family,
+    def __init__(self, name, data, 
+                 lang_id=None, glottocode=None, iso_code=None, family=None,
                  segments_c='Segments', ipa_c='Form', 
                  orthography_c='Value', concept_c='Parameter_ID',
                  loan_c='Loan', id_c='ID'):
@@ -948,10 +1027,18 @@ class Language(Dataset):
         s += f'\nConsonants: {len(self.consonants)}, Vowels: {len(self.vowels)}'
         if self.tonal == True:
             s += f', Tones: {len(self.tonemes)}'
-        percent_loanwords = len([i for concept in self.loanwords for entry in self.loanwords[concept]]) / len([i for concept in self.vocabulary for entry in self.vocabulary[concept]])
+        percent_loanwords = len([1 for concept in self.loanwords for entry in self.loanwords[concept]]) / len([1 for concept in self.vocabulary for entry in self.vocabulary[concept]])
         percent_loanwords *= 100
         if percent_loanwords > 0:
             s += f'\nLoanwords: {round(percent_loanwords, 1)}%'
+            
+        s += '\nExample Words:'
+        for i in range(5):
+            concept = random.choice(list(self.vocabulary.keys()))
+            entry = random.choice(self.vocabulary[concept])
+            orth, ipa, segs = entry
+            s+= f'\n\t"{concept.upper()}": /{ipa}/'
+            
         
         return s
     

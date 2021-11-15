@@ -17,14 +17,19 @@ gen_quartet_distance <- function(non_binary_tree, binary_tree, add_root = FALSE)
   #of the top-level clade is accounted for in the GQD value
   
   if (add_root == TRUE) {
-    #Add labeled ROOT node to both trees and reroot around it
-    rooted_nonbinary <- bind.tip(non_binary_tree, 'ROOT', edge.length=1)
-    rooted_nonbinary <- reroot(rooted_nonbinary, node.number=Ntip(non_binary_tree)+1)
-    non_binary_tree <- rooted_nonbinary
     
-    rooted_binary <- bind.tip(binary_tree, 'ROOT', edge.length=1)
-    rooted_binary <- reroot(rooted_binary, node.number=Ntip(binary_tree)+1)
-    binary_tree <- rooted_binary
+    #Can't add a ROOT node to non-binary trees
+    if (is.binary(binary_tree) == TRUE) {
+      
+      #Add labeled ROOT node to both trees and reroot around it
+      rooted_nonbinary <- bind.tip(non_binary_tree, 'ROOT', edge.length=1)
+      rooted_nonbinary <- reroot(rooted_nonbinary, node.number=Ntip(non_binary_tree)+1)
+      non_binary_tree <- rooted_nonbinary
+      
+      rooted_binary <- bind.tip(binary_tree, 'ROOT', edge.length=1)
+      rooted_binary <- reroot(rooted_binary, node.number=Ntip(binary_tree)+1)
+      binary_tree <- rooted_binary
+    } 
   }
   
   #norm : number of resolved ("butterfly") quartets in reference/non-binary tree
@@ -132,6 +137,10 @@ for (family in families) {
   #Load distance-based (exclude binary) trees into a MultiPhylo forest
   family_trees <- list.files(path=paste('Results/', family, sep=''))
   family_trees <- family_trees[grep('.tre', family_trees)]
+  
+  #Remove single linkage trees
+  family_trees <- family_trees[-grep('single', family_trees)]
+  
   if (length(family_trees[grep('binary', family_trees)]) > 0) {
     family_trees <- family_trees[-grep('binary', family_trees)]
   }
@@ -199,9 +208,12 @@ for (family in families) {
   
   
   #Evaluate and determine the best trees
-  auto_trees <- all_trees[-grep('gold', names(all_trees))]
+  none_trees <- all_trees[grep('none', names(all_trees))]
   gold_trees <- all_trees[grep('gold', names(all_trees))]
+  auto_trees <- all_trees[-grep('gold', names(all_trees))]
+  auto_trees <- auto_trees[-grep('none', names(all_trees))]
   best_auto_tree <- best_matching_tree(family_gold, auto_trees, names(auto_trees), add_root=TRUE)
+  best_none_tree <- best_matching_tree(family_gold, none_trees, names(none_trees), add_root=TRUE)
   best_gold_tree <- best_matching_tree(family_gold, gold_trees, names(gold_trees), add_root=TRUE)
   cat('\n')
   
@@ -209,14 +221,14 @@ for (family in families) {
   png_plot_path <- paste('Results/', family, '/', family, "_best_auto.png", sep='')
   tre_plot_path <- paste('Results/', family, '/', family, "_best_auto.tre", sep='')
   png(filename=png_plot_path, width=700, height=700)
-  VisualizeQuartets(ladderize(family_gold), ladderize(best_auto_tree), style='size', spectrum=rev(terrain.colors(101)))
+  VisualizeQuartets(ladderize(family_gold), ladderize(best_auto_tree), style='size', spectrum=rainbow(300)[1:101])
   dev.off()
   write.tree(best_auto_tree, file=tre_plot_path)
   
   png_plot_path <- paste('Results/', family, '/', family, "_best_gold.png", sep='')
   tre_plot_path <- paste('Results/', family, '/', family, "_best_gold.tre", sep='')
   png(filename=png_plot_path, width=700, height=700)
-  VisualizeQuartets(ladderize(family_gold), ladderize(best_gold_tree), style='size', spectrum=rev(terrain.colors(101)))
+  VisualizeQuartets(ladderize(family_gold), ladderize(best_gold_tree), style='size', spectrum=rainbow(300)[1:101])
   dev.off()
   write.tree(best_gold_tree, file=tre_plot_path)
   
@@ -224,3 +236,5 @@ for (family in families) {
 
 #Write tree evaluation results to a csv file
 write.csv(tree_results, paste(local_dir, 'Results/tree_evaluation_results.csv', sep='/'), row.names = FALSE)
+
+

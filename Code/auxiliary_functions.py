@@ -491,8 +491,8 @@ def network_plot(group, labels,
 #%%
 def new_network_plot(group, labels, 
                  dist_func=None, sim=True,
-                 cluster_threshold=0.4, 
-                 nearest_clusters=1, nearest_items=0.4,
+                 cluster_threshold=0.3, 
+                 nearest_clusters=2, nearest_items=0.4,
                  method='spring', coordpos=True, dimensions=3, seed=1,
                  edgelabels=False, edge_label_dist=True, 
                  scale_dist=100, edge_decimals=1,
@@ -552,7 +552,7 @@ def new_network_plot(group, labels,
     gr = nx.Graph()
     
     def add_edge(node_i, node_j, dist):
-        gr.add_edge(node_i, node_j, distance=dist, weight=(1-dist)**2)
+        gr.add_edge(node_i, node_j, distance=dist)
         
         #Label edges with distances; scale and round according to parameter specifications
         if edge_label_dist == True:
@@ -620,7 +620,7 @@ def new_network_plot(group, labels,
                 
                 for pair, dist in closest_pairs:
                     i, j = pair
-                    edges_to_add.append((i, j, dist*math.log((iteration+1), 2)))
+                    edges_to_add.append((i, j, dist)) #math.sqrt(dist)))#*math.log((iteration+1), 2))) #math.sqrt(iteration)))#
             
                 #Update cluster lists
                 combined.extend(list(cluster_iterations[iteration-1][cluster2]))
@@ -629,9 +629,9 @@ def new_network_plot(group, labels,
     
         cluster_iterations[iteration] = {index:items for index, items in enumerate(combine_overlapping_lists(cluster_iterations[iteration]))}
         
-            
-    for node_i, node_j, dist in edges_to_add:
-        add_edge(node_i, node_j, dist)
+    gr.add_weighted_edges_from(edges_to_add, weight='distance')
+    #for node_i, node_j, dist in edges_to_add:
+    #    add_edge(node_i, node_j, dist)
         
     #Add any nodes which were skipped in the preceding iteration due to not 
     #meeting the similarity threshold with any other node
@@ -771,7 +771,7 @@ def newer_network_plot(group, labels,
     gr = nx.Graph()
     
     def add_edge(node_i, node_j, dist):
-        gr.add_edge(node_i, node_j, distance=dist, weight=((math.e**-dist))**2)
+        gr.add_edge(node_i, node_j, distance=dist, weight=(1-dist)**2)#((math.e**-dist))**2)
         
         #Label edges with distances; scale and round according to parameter specifications
         if edge_label_dist == True:
@@ -865,7 +865,7 @@ def newer_network_plot(group, labels,
         iteration_clusters = get_clusters(lm, cutoff=cluster_threshold)
         if len(iteration_clusters) < len(cluster_iterations[max(cluster_iterations.keys())]):
             #connection_proportion = 1/(iteration**2)
-            scale_distance = iteration #math.log((iteration+1), 2)
+            scale_distance = math.sqrt(iteration) #math.log((iteration+1), 2) #iteration
             connect_clusters(iteration_clusters,
                              connect_proportion=connect_proportion, 
                              scale_distance=scale_distance)

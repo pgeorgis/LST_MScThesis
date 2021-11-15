@@ -1,5 +1,5 @@
 #from load_languages import *
-from auxiliary_functions import euclidean_dist
+from auxiliary_functions import euclidean_dist, normalize_dict
 from word_evaluation import *
 from statistics import mean, stdev
 import math, random
@@ -56,7 +56,8 @@ def cognate_sim(lang1, lang2, clustered_cognates,
                 **kwargs):
     try:
         return cognate_sims[(lang1, lang2, clustered_id,
-                             eval_func, eval_sim, exclude_synonyms, calibrate)]
+                             eval_func, eval_sim, 
+                             exclude_synonyms, calibrate)]
     except KeyError:
         
         if calibrate == True:
@@ -80,6 +81,7 @@ def cognate_sim(lang1, lang2, clustered_cognates,
         for concept in clustered_cognates:
             concept_sims = {}
             l1_wordcount, l2_wordcount = 0, 0
+                
             for cognate_id in clustered_cognates[concept]:
                 items = [entry.split('/') for entry in clustered_cognates[concept][cognate_id]]
                 items = [(item[0].strip(), item[1]) for item in items]
@@ -107,7 +109,8 @@ def cognate_sim(lang1, lang2, clustered_cognates,
                         #i.e. that it is truly a cognate
                         if calibrate == True: 
                             pnorm = norm.cdf(score, loc=mean_nc_score, scale=nc_score_stdev)
-                            score *= pnorm 
+                            score *= pnorm
+                        
                         concept_sims[(l1_word, l2_word)] = score
                         
             if len(concept_sims) > 0:
@@ -125,13 +128,14 @@ def cognate_sim(lang1, lang2, clustered_cognates,
         
         else:
             mean_sim = mean(sims.values())
+            
             cognate_sims[(lang1, lang2, clustered_id, 
-                          eval_func, eval_sim, exclude_synonyms, calibrate)] = mean_sim
+                          eval_func, eval_sim, 
+                          exclude_synonyms, calibrate)] = mean_sim
             return mean_sim
+            
 
-
-
-def combined_cognate_sim(lang1, lang2, 
+def weighted_cognate_sim(lang1, lang2, 
                          clustered_cognates, 
                          eval_funcs, eval_sims, weights=None,
                          exclude_synonyms=True, 

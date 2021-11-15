@@ -81,7 +81,7 @@ def word_sim(word1, word2=None,
               sim_func=phone_sim,
               penalize_infocontent=False, 
               penalize_sonority=True,
-              context_reduction=True,
+              context_reduction=True, penalty_discount=2,
               prosodic_env_scaling=True,
               total_sim=False,
               **kwargs):
@@ -170,7 +170,7 @@ def word_sim(word1, word2=None,
                         #precending segment was nasalized
                         if stripped_deleted in nasals:
                             if '̃' in previous_seg: #check for nasalization diacritic:
-                                penalty /= 2
+                                penalty /= penalty_discount
                         
                         #2) If the deleted segment is a palatal glide (j, ɥ, i̯, ɪ̯),  
                         #and the corresponding preceding segment was palatalized
@@ -178,9 +178,9 @@ def word_sim(word1, word2=None,
                         elif strip_diacritics(deleted_segment, excepted=['̯']) in {'j', 'ɥ', 
                                                                                    'i̯', 'ɪ̯'}:
                             if strip_diacritics(previous_seg)[0] in palatal:
-                                penalty /= 2
+                                penalty /= penalty_discount
                             elif ('ʲ' in previous_seg) or ('ᶣ' in previous_seg):
-                                penalty /= 2
+                                penalty /= penalty_discount
                                 
                         #3) If the deleted segment is a high rounded/labial glide
                         #and the corresponding preceding segment was labialized
@@ -188,13 +188,13 @@ def word_sim(word1, word2=None,
                                                                                    'u', 'ʊ', 
                                                                                    'y', 'ʏ'}:
                             if ('ʷ' in previous_seg) or ('ᶣ' in previous_seg):
-                                penalty /= 2
+                                penalty /= penalty_discount
                         
                         #4) If the deleted segment is /h, ɦ/ and the corresponding 
                         #preceding segment was aspirated or breathy
                         elif stripped_deleted in {'h', 'ɦ'}:
                             if ('ʰ' in previous_seg) or ('ʱ' in previous_seg) or ('̤' in previous_seg):
-                                penalty /= 2
+                                penalty /= penalty_discount
                         
                             #Or if the following corresponding segment is breathy or
                             #pre-aspirated
@@ -202,7 +202,7 @@ def word_sim(word1, word2=None,
                                 try:
                                     next_seg = alignment[i+1][gap_index]
                                     if ('̤' in next_seg) or (next_seg[0] in {'ʰ', 'ʱ'}):
-                                        penalty /= 2
+                                        penalty /= penalty_discount
                                 except IndexError:
                                     pass
                             
@@ -210,13 +210,13 @@ def word_sim(word1, word2=None,
                         #and the corresponding preceding segment was rhoticized
                         elif stripped_deleted in {'ɹ', 'ɻ'}:
                             if (strip_diacritics(previous_seg) == 'ɚ') or ('˞' in previous_seg):
-                                penalty /= 2
+                                penalty /= penalty_discount
                         
                         #6) If the deleted segment is a glottal stop and the corresponding
                         #preceding segment was glottalized (or creaky?)
                         elif stripped_deleted == 'ʔ':
                             if 'ˀ' in previous_seg:
-                                penalty /= 2
+                                penalty /= penalty_discount
                         
                         
                     #6) if the deleted segment is part of a long/geminate segment represented as double (e.g. /tt/ rather than /tː/), 
@@ -229,6 +229,12 @@ def word_sim(word1, word2=None,
                         if '-' not in nxt_pair:
                             if nxt_pair[deleted_index] == deleted_segment:
                                 double = True
+                                
+                                #Eliminate the penalty altogether if the gemination
+                                #is simply transcribed differently (see example below)
+                                if ('ː' in nxt_pair[gap_index]) or ('ˑ' in nxt_pair[gap_index]):
+                                    penalty = 0
+                            
                     except IndexError:
                         pass
                     
@@ -238,9 +244,16 @@ def word_sim(word1, word2=None,
                         if '-' not in prev_pair:
                             if prev_pair[deleted_index] == deleted_segment:
                                 double = True
+                            
+                                #Eliminate the penalty altogether in the case of 
+                                #an alignment like: [('t', 'tː'), ('t', '-')]
+                                #where the gemination is simply transcribed differently
+                                if ('ː' in prev_pair[gap_index]) or ('ˑ' in prev_pair[gap_index]):
+                                    penalty = 0
+                                
                     
                     if double == True:
-                        penalty /= 1.5
+                        penalty /= penalty_discount
                 
                 if prosodic_env_scaling == True:
                     #Discount deletion penalty according to prosodic sonority 
