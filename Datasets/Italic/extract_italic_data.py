@@ -362,5 +362,37 @@ def write_data(data_dict, output_file, sep='\t'):
             values = sep.join([str(data_dict[i][feature]) for feature in features])
             f.write(f'{values}\n')
 
+#%%
+orth_correction = {'\ueff9':'', #unclear what character it's meant to be, only appears in Aromanian; just delete it
+                   '\uedc7':'', #unclear what character it's meant to be, only appears one entry of Dalmatian; just delete it
+                   '\uedef':'', #unclear what character it's meant to be, only appears one entry of Dalmatian; just delete it
+                   '\uee2d':'i̯', #Dalmatian, Istro-Romanian, Megleno-Romanian
+                   '\uee77':'u̯', #Dalmatian
+                   }
+
+def lookup_orth(ch):
+    ch_instances = defaultdict(lambda:[])
+    for i in family_data:
+        if ch in family_data[i]['Value']:
+            lang = family_data[i]['Language_ID']
+            gloss = family_data[i]['Parameter_ID']
+            orth = family_data[i]['Value']
+            tr = family_data[i]['Form']
+            ch_instances[lang].append(f'{gloss.upper()} <{orth}> /{tr}/')
+    
+    for lang in ch_instances:
+        print(lang.upper())
+        for entry in ch_instances[lang]:
+            print('\t', entry)
+        print('\n')
+        
+#Fix orthographic entries        
+for i in family_data:
+    for ch in orth_correction:
+        family_data[i]['Value'] = re.sub(ch, orth_correction[ch], family_data[i]['Value'])
+
+orth_ch = set(ch for i in family_data for ch in family_data[i]['Value'])
+
+#%%
 write_data(family_data, 'italic_data.csv')
 
