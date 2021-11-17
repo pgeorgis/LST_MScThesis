@@ -1,0 +1,832 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	TOKENS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	LEXSTATID
+#
+1	Central Pomo	ALL	j aː w a l	6 7 6 7 5	AXBYN	JAWAL	1	1.J.C 1.A.V 1.W.C 1.A.V 1.L.c	2.0 1.5 1.75 1.3 0.8	jaːwal	0	1
+100	Eastern Pomo	ALL	k uː m u	1 7 4 7	AXBZ	KYMY	2	2.K.C 2.Y.V 2.M.C 2.Y.V	2.0 1.5 1.75 0.8	kuːmu	0	2
+209	Kashaya	ALL	tʼ iː	1 7	AX	TI	3	3.T.C 3.I.V	2.0 1.5	tʼiː	0	3
+407	Northern Pomo	ALL	d i l e j	1 7 5 7 6	AXBYN	TILEJ	5	5.T.C 5.I.V 5.L.C 5.E.V 5.J.c	2.0 1.5 1.75 1.3 0.8	dilej	0	3
+512	Southeastern Pomo	ALL	ʔ u χ q a t̪	1 7 3 1 7 1	AXMBYN	HYGKAT	6	6.H.C 6.Y.V 6.G.c 6.K.C 6.A.V 6.T.c	2.0 1.5 1.1 1.75 1.3 0.8	ʔuχqat̪	0	5
+616	Southern Pomo	ALL	n aː p i j o	4 7 1 7 6 7	AXBYBZ	NAPIJU	7	7.N.C 7.A.V 7.P.C 7.I.V 7.J.C 7.U.V	2.0 1.5 1.75 1.3 1.75 0.8	naːpijo	0	6
+#
+2	Central Pomo	ASH	n o	4 7	AX	NU	1	1.N.C 1.U.V	2.0 1.5	no	0	7
+101	Eastern Pomo	ASH	n o	4 7	AX	NU	2	2.N.C 2.U.V	2.0 1.5	no	0	7
+210	Kashaya	ASH	ʔ i n o q o ʧ	1 7 4 7 1 7 2	AXBYBYN	HINUKUC	3	3.H.C 3.I.V 3.N.C 3.U.V 3.K.C 3.U.V 3.C.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʔinoqoʧ	0	7
+313	Northeastern Pomo	ASH	m a l a ʔ	4 7 5 7 1	AXBYN	MALAH	4	4.M.C 4.A.V 4.L.C 4.A.V 4.H.c	2.0 1.5 1.75 1.3 0.8	malaʔ	0	10
+408	Northern Pomo	ASH	n o h o	4 7 3 7	AXBZ	NUHU	5	5.N.C 5.U.V 5.H.C 5.U.V	2.0 1.5 1.75 0.8	noho	0	7
+513	Southeastern Pomo	ASH	χ o j o n o χ o	3 7 6 7 4 7 3 7	AXBYBYBZ	GUJUNUGU	6	6.G.C 6.U.V 6.J.C 6.U.V 6.N.C 6.U.V 6.G.C 6.U.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	χojonoχo	0	12
+617	Southern Pomo	ASH	h iː n o	3 7 4 7	AXBZ	HINU	7	7.H.C 7.I.V 7.N.C 7.U.V	2.0 1.5 1.75 0.8	hiːno	0	7
+#
+3	Central Pomo	BARK	kʰ w aː	1 6 7	ACX	KWA	1	1.K.C 1.W.C 1.A.V	2.0 1.5 1.5	kʰwaː	0	13
+102	Eastern Pomo	BARK	x aː w a l	3 7 6 7 5	AXBYN	GAWAL	2	2.G.C 2.A.V 2.W.C 2.A.V 2.L.c	2.0 1.5 1.75 1.3 0.8	xaːwal	0	13
+211	Kashaya	BARK	q a h w aː	1 7 3 6 7	AXBCZ	KAHWA	3	3.K.C 3.A.V 3.H.C 3.W.C 3.A.V	2.0 1.5 1.75 1.5 0.8	qahwaː	0	13
+314	Northeastern Pomo	BARK	kʰ a w aː	1 7 6 7	AXBZ	KAWA	4	4.K.C 4.A.V 4.W.C 4.A.V	2.0 1.5 1.75 0.8	kʰawaː	0	13
+409	Northern Pomo	BARK	ʃ e w a	3 7 6 7	AXBZ	SEWA	5	5.S.C 5.E.V 5.W.C 5.A.V	2.0 1.5 1.75 0.8	ʃewa	0	13
+514	Southeastern Pomo	BARK	χ w a l	3 6 7 5	ACXN	GWAL	6	6.G.C 6.W.C 6.A.V 6.L.c	2.0 1.5 1.5 0.8	χwal	0	13
+618	Southern Pomo	BARK	kʰ a wː a	1 7 6 7	AXBZ	KAWA	7	7.K.C 7.A.V 7.W.C 7.A.V	2.0 1.5 1.75 0.8	kʰawːa	0	13
+#
+4	Central Pomo	BELLY	m kʰ a	4 1 7	ACZ	MKA	1	1.M.C 1.K.C 1.A.V	2.0 1.5 0.8	mkʰa	0	14
+103	Eastern Pomo	BELLY	kʼ o	1 7	AX	KU	2	2.K.C 2.U.V	2.0 1.5	kʼo	0	15
+212	Kashaya	BELLY	ʔ u h qʰ a	1 7 3 1 7	AXMBZ	HYHKA	3	3.H.C 3.Y.V 3.H.c 3.K.C 3.A.V	2.0 1.5 1.1 1.75 0.8	ʔuhqʰa	0	16
+315	Northeastern Pomo	BELLY	k o i	1 7 7	AXZ	KUI	4	4.K.C 4.U.V 4.I.V	2.0 1.5 0.8	koi	0	15
+410	Northern Pomo	BELLY	kʰ a ʃ e ʔ	1 7 3 7 1	AXBYN	KASEH	5	5.K.C 5.A.V 5.S.C 5.E.V 5.H.c	2.0 1.5 1.75 1.3 0.8	kʰaʃeʔ	0	18
+515	Southeastern Pomo	BELLY	q o	1 7	AX	KU	6	6.K.C 6.U.V	2.0 1.5	qo	0	15
+619	Southern Pomo	BELLY	ʔ u kʰː a	1 7 1 7	AXBZ	HYKA	7	7.H.C 7.Y.V 7.K.C 7.A.V	2.0 1.5 1.75 0.8	ʔukʰːa	0	16
+#
+5	Central Pomo	BIG	b aː tʰ e	1 7 1 7	AXBZ	PATE	1	1.P.C 1.A.V 1.T.C 1.E.V	2.0 1.5 1.75 0.8	baːtʰe	0	19
+104	Eastern Pomo	BIG	b aː tʰ i n	1 7 1 7 4	AXBYN	PATIN	2	2.P.C 2.A.V 2.T.C 2.I.V 2.N.c	2.0 1.5 1.75 1.3 0.8	baːtʰin	0	19
+213	Kashaya	BIG	b a h tʰ e	1 7 3 1 7	AXMBZ	PAHTE	3	3.P.C 3.A.V 3.H.c 3.T.C 3.E.V	2.0 1.5 1.1 1.75 0.8	bahtʰe	0	19
+316	Northeastern Pomo	BIG	tʰ i j i n	1 7 6 7 4	AXBYN	TIJIN	4	4.T.C 4.I.V 4.J.C 4.I.V 4.N.c	2.0 1.5 1.75 1.3 0.8	tʰijin	0	22
+411	Northern Pomo	BIG	m a t o	4 7 1 7	AXBZ	MATU	5	5.M.C 5.A.V 5.T.C 5.U.V	2.0 1.5 1.75 0.8	mato	0	23
+516	Southeastern Pomo	BIG	b i t e n i kʼ	1 7 1 7 4 7 1	AXBYBYN	PITENIK	6	6.P.C 6.I.V 6.T.C 6.E.V 6.N.C 6.I.V 6.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	bitenikʼ	0	19
+620	Southern Pomo	BIG	b a h tʰ e	1 7 3 1 7	AXMBZ	PAHTE	7	7.P.C 7.A.V 7.H.c 7.T.C 7.E.V	2.0 1.5 1.1 1.75 0.8	bahtʰe	0	19
+#
+6	Central Pomo	BIRD	t̪ a	1 7	AX	TA	1	1.T.C 1.A.V	2.0 1.5	t̪a	0	24
+105	Eastern Pomo	BIRD	ʦʼ iː j a	2 7 6 7	AXBZ	CIJA	2	2.C.C 2.I.V 2.J.C 2.A.V	2.0 1.5 1.75 0.8	ʦʼiːja	0	25
+214	Kashaya	BIRD	ʦʼ i h t̪ a	2 7 3 1 7	AXMBZ	CIHTA	3	3.C.C 3.I.V 3.H.c 3.T.C 3.A.V	2.0 1.5 1.1 1.75 0.8	ʦʼiht̪a	0	24
+317	Northeastern Pomo	BIRD	ʧʼ i j i t̪ k aː	2 7 6 7 1 1 7	AXBYMBZ	CIJITKA	4	4.C.C 4.I.V 4.J.C 4.I.V 4.T.c 4.K.C 4.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	ʧʼijit̪kaː	0	25
+412	Northern Pomo	BIRD	ʦʼ i tʼ	2 7 1	AXN	CIT	5	5.C.C 5.I.V 5.T.c	2.0 1.5 0.8	ʦʼitʼ	0	28
+517	Southeastern Pomo	BIRD	ʦʼ i t̪ a	2 7 1 7	AXBZ	CITA	6	6.C.C 6.I.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	ʦʼit̪a	0	24
+621	Southern Pomo	BIRD	ʦʼ i h t̪ a	2 7 3 1 7	AXMBZ	CIHTA	7	7.C.C 7.I.V 7.H.c 7.T.C 7.A.V	2.0 1.5 1.1 1.75 0.8	ʦʼiht̪a	0	24
+#
+7	Central Pomo	BITE	k aː n e	1 7 4 7	AXBZ	KANE	1	1.K.C 1.A.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	kaːne	0	29
+106	Eastern Pomo	BITE	q aː n eː	1 7 4 7	AXBZ	KANE	2	2.K.C 2.A.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	qaːneː	0	29
+215	Kashaya	BITE	q a n e	1 7 4 7	AXBZ	KANE	3	3.K.C 3.A.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	qane	0	29
+413	Northern Pomo	BITE	k a n e	1 7 4 7	AXBZ	KANE	5	5.K.C 5.A.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	kane	0	29
+518	Southeastern Pomo	BITE	q n e	1 4 7	ACX	KNE	6	6.K.C 6.N.C 6.E.V	2.0 1.5 1.5	qne	0	29
+622	Southern Pomo	BITE	k aː n i	1 7 4 7	AXBZ	KANI	7	7.K.C 7.A.V 7.N.C 7.I.V	2.0 1.5 1.75 0.8	kaːni	0	29
+#
+8	Central Pomo	BLACK	kʼ l i	1 5 7	ACX	KLI	1	1.K.C 1.L.C 1.I.V	2.0 1.5 1.5	kʼli	0	30
+107	Eastern Pomo	BLACK	m uː ʃ a qʼ	4 7 3 7 1	AXBYN	MYSAK	2	2.M.C 2.Y.V 2.S.C 2.A.V 2.K.c	2.0 1.5 1.75 1.3 0.8	muːʃaqʼ	0	31
+216	Kashaya	BLACK	kʼ i l i	1 7 5 7	AXBZ	KILI	3	3.K.C 3.I.V 3.L.C 3.I.V	2.0 1.5 1.75 0.8	kʼili	0	30
+318	Northeastern Pomo	BLACK	ʧʼ i h k i l	2 7 3 1 7 5	AXMBYN	CIHKIL	4	4.C.C 4.I.V 4.H.c 4.K.C 4.I.V 4.L.c	2.0 1.5 1.1 1.75 1.3 0.8	ʧʼihkil	0	33
+414	Northern Pomo	BLACK	kʰ a ʦʼ e	1 7 2 7	AXBZ	KACE	5	5.K.C 5.A.V 5.C.C 5.E.V	2.0 1.5 1.75 0.8	kʰaʦʼe	0	34
+519	Southeastern Pomo	BLACK	l u qʼ o l qʼ o	5 7 1 7 5 1 7	AXBYMBZ	LYKULKU	6	6.L.C 6.Y.V 6.K.C 6.U.V 6.L.c 6.K.C 6.U.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	luqʼolqʼo	0	35
+623	Southern Pomo	BLACK	ʃ a kʼː a	3 7 1 7	AXBZ	SAKA	7	7.S.C 7.A.V 7.K.C 7.A.V	2.0 1.5 1.75 0.8	ʃakʼːa	0	36
+#
+9	Central Pomo	BLOOD	b aː l a j	1 7 5 7 6	AXBYN	PALAJ	1	1.P.C 1.A.V 1.L.C 1.A.V 1.J.c	2.0 1.5 1.75 1.3 0.8	baːlaj	0	37
+108	Eastern Pomo	BLOOD	b aː l a j	1 7 5 7 6	AXBYN	PALAJ	2	2.P.C 2.A.V 2.L.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 0.8	baːlaj	0	37
+217	Kashaya	BLOOD	b a l a j	1 7 5 7 6	AXBYN	PALAJ	3	3.P.C 3.A.V 3.L.C 3.A.V 3.J.c	2.0 1.5 1.75 1.3 0.8	balaj	0	37
+319	Northeastern Pomo	BLOOD	ʧ e s	2 7 3	AXN	CES	4	4.C.C 4.E.V 4.S.c	2.0 1.5 0.8	ʧes	0	40
+415	Northern Pomo	BLOOD	b a l a j	1 7 5 7 6	AXBYN	PALAJ	5	5.P.C 5.A.V 5.L.C 5.A.V 5.J.c	2.0 1.5 1.75 1.3 0.8	balaj	0	37
+520	Southeastern Pomo	BLOOD	b l a j	1 5 7 6	ACXN	PLAJ	6	6.P.C 6.L.C 6.A.V 6.J.c	2.0 1.5 1.5 0.8	blaj	0	37
+624	Southern Pomo	BLOOD	b aː l a j	1 7 5 7 6	AXBYN	PALAJ	7	7.P.C 7.A.V 7.L.C 7.A.V 7.J.c	2.0 1.5 1.75 1.3 0.8	baːlaj	0	37
+#
+10	Central Pomo	BONE	j aː	6 7	AX	JA	1	1.J.C 1.A.V	2.0 1.5	jaː	0	41
+109	Eastern Pomo	BONE	j̥ a	6 7	AX	JA	2	2.J.C 2.A.V	2.0 1.5	j̥a	0	41
+218	Kashaya	BONE	ʔ i h j aː	1 7 3 6 7	AXBCZ	HIHJA	3	3.H.C 3.I.V 3.H.C 3.J.C 3.A.V	2.0 1.5 1.75 1.5 0.8	ʔihjaː	0	43
+320	Northeastern Pomo	BONE	h i j a	3 7 6 7	AXBZ	HIJA	4	4.H.C 4.I.V 4.J.C 4.A.V	2.0 1.5 1.75 0.8	hija	0	43
+416	Northern Pomo	BONE	j aː	6 7	AX	JA	5	5.J.C 5.A.V	2.0 1.5	jaː	0	41
+521	Southeastern Pomo	BONE	j a qʼ o	6 7 1 7	AXBZ	JAKU	6	6.J.C 6.A.V 6.K.C 6.U.V	2.0 1.5 1.75 0.8	jaqʼo	0	41
+625	Southern Pomo	BONE	ʔ iː h a	1 7 3 7	AXBZ	HIHA	7	7.H.C 7.I.V 7.H.C 7.A.V	2.0 1.5 1.75 0.8	ʔiːha	0	43
+#
+110	Eastern Pomo	BREAST	j eː ʔ e l	6 7 1 7 5	AXBYN	JEHEL	2	2.J.C 2.E.V 2.H.C 2.E.V 2.L.c	2.0 1.5 1.75 1.3 0.8	jeːʔel	0	44
+321	Northeastern Pomo	BREAST	j e ʔ eː	6 7 1 7	AXBZ	JEHE	4	4.J.C 4.E.V 4.H.C 4.E.V	2.0 1.5 1.75 0.8	jeʔeː	0	44
+322	Northeastern Pomo	BREAST	t̪ʰ e ʔ eː	1 7 1 7	AXBZ	TEHE	4	4.T.C 4.E.V 4.H.C 4.E.V	2.0 1.5 1.75 0.8	t̪ʰeʔeː	0	44
+417	Northern Pomo	BREAST	j e ʔ eː	6 7 1 7	AXBZ	JEHE	5	5.J.C 5.E.V 5.H.C 5.E.V	2.0 1.5 1.75 0.8	jeʔeː	0	44
+522	Southeastern Pomo	BREAST	w ʔ e l	6 1 7 5	ACYN	WHEL	6	6.W.C 6.H.C 6.E.V 6.L.c	2.0 1.5 1.3 0.8	wʔel	0	47
+#
+111	Eastern Pomo	BURN (SOMETHING)	ʃ aː tʼ oː	3 7 1 7	AXBZ	SATU	2	2.S.C 2.A.V 2.T.C 2.U.V	2.0 1.5 1.75 0.8	ʃaːtʼoː	0	48
+219	Kashaya	BURN (SOMETHING)	m u h kʰ u j ʔ	4 7 3 1 7 6 1	AXMBYLN	MYHKYJH	3	3.M.C 3.Y.V 3.H.c 3.K.C 3.Y.V 3.J.c 3.H.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	muhkʰujʔ	0	49
+#
+11	Central Pomo	CLAW OR NAIL	ʔ eː ʧʼ	1 7 2	AXN	HEC	1	1.H.C 1.E.V 1.C.c	2.0 1.5 0.8	ʔeːʧʼ	0	50
+112	Eastern Pomo	CLAW OR NAIL	r i kʰ	5 7 1	AXN	RIK	2	2.R.C 2.I.V 2.K.c	2.0 1.5 0.8	rikʰ	0	51
+220	Kashaya	CLAW OR NAIL	h eː ʧʼ	3 7 2	AXN	HEC	3	3.H.C 3.E.V 3.C.c	2.0 1.5 0.8	heːʧʼ	0	50
+323	Northeastern Pomo	CLAW OR NAIL	h eː ʧʼ a	3 7 2 7	AXBZ	HECA	4	4.H.C 4.E.V 4.C.C 4.A.V	2.0 1.5 1.75 0.8	heːʧʼa	0	50
+418	Northern Pomo	CLAW OR NAIL	h e ʧʼ	3 7 2	AXN	HEC	5	5.H.C 5.E.V 5.C.c	2.0 1.5 0.8	heʧʼ	0	50
+523	Southeastern Pomo	CLAW OR NAIL	ʔ a ʃ a b	1 7 3 7 1	AXBYN	HASAP	6	6.H.C 6.A.V 6.S.C 6.A.V 6.P.c	2.0 1.5 1.75 1.3 0.8	ʔaʃab	0	55
+626	Southern Pomo	CLAW OR NAIL	h eː ʧʼ	3 7 2	AXN	HEC	7	7.H.C 7.E.V 7.C.c	2.0 1.5 0.8	heːʧʼ	0	56
+#
+12	Central Pomo	CLOUD	kʰ b aː	1 1 7	ACZ	KPA	1	1.K.C 1.P.C 1.A.V	2.0 1.5 0.8	kʰbaː	0	57
+113	Eastern Pomo	CLOUD	x aː b o	3 7 1 7	AXBZ	GAPU	2	2.G.C 2.A.V 2.P.C 2.U.V	2.0 1.5 1.75 0.8	xaːbo	0	57
+221	Kashaya	CLOUD	qʰ a b aː	1 7 1 7	AXBZ	KAPA	3	3.K.C 3.A.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	qʰabaː	0	57
+324	Northeastern Pomo	CLOUD	kʰ a ʔ b o t̪ o n	1 7 1 1 7 1 7 4	AXMBYBYN	KAHPUTUN	4	4.K.C 4.A.V 4.H.c 4.P.C 4.U.V 4.T.C 4.U.V 4.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	kʰaʔbot̪on	0	60
+419	Northern Pomo	CLOUD	pʰ u t̪ʼ	1 7 1	AXN	PYT	5	5.P.C 5.Y.V 5.T.c	2.0 1.5 0.8	pʰut̪ʼ	0	61
+524	Southeastern Pomo	CLOUD	x u b u	3 7 1 7	AXBZ	GYPY	6	6.G.C 6.Y.V 6.P.C 6.Y.V	2.0 1.5 1.75 0.8	xubu	0	57
+627	Southern Pomo	CLOUD	kʰ a b ʔ a	1 7 1 1 7	AXMBZ	KAPHA	7	7.K.C 7.A.V 7.P.c 7.H.C 7.A.V	2.0 1.5 1.1 1.75 0.8	kʰabʔa	0	57
+#
+13	Central Pomo	COLD	kʼ i w	1 7 6	AXN	KIW	1	1.K.C 1.I.V 1.W.c	2.0 1.5 0.8	kʼiw	0	62
+114	Eastern Pomo	COLD	q aː ʦʰ i l	1 7 2 7 5	AXBYN	KACIL	2	2.K.C 2.A.V 2.C.C 2.I.V 2.L.c	2.0 1.5 1.75 1.3 0.8	qaːʦʰil	0	63
+222	Kashaya	COLD	ʔ i h j uː m	1 7 3 6 7 4	AXBCYN	HIHJYM	3	3.H.C 3.I.V 3.H.C 3.J.C 3.Y.V 3.M.c	2.0 1.5 1.75 1.5 1.3 0.8	ʔihjuːm	0	64
+325	Northeastern Pomo	COLD	ʃ o ʔ t̪ʼ o n	3 7 1 1 7 4	AXMBYN	SUHTUN	4	4.S.C 4.U.V 4.H.c 4.T.C 4.U.V 4.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ʃoʔt̪ʼon	0	65
+420	Northern Pomo	COLD	m a d oː	4 7 1 7	AXBZ	MATU	5	5.M.C 5.A.V 5.T.C 5.U.V	2.0 1.5 1.75 0.8	madoː	0	66
+525	Southeastern Pomo	COLD	q s i l i t̪	1 3 7 5 7 1	ACXBYN	KSILIT	6	6.K.C 6.S.C 6.I.V 6.L.C 6.I.V 6.T.c	2.0 1.5 1.5 1.75 1.3 0.8	qsilit̪	0	63
+628	Southern Pomo	COLD	m o ʔ d o tʼ	4 7 1 1 7 1	AXMBYN	MUHTUT	7	7.M.C 7.U.V 7.H.c 7.T.C 7.U.V 7.T.c	2.0 1.5 1.1 1.75 1.3 0.8	moʔdotʼ	0	66
+#
+14	Central Pomo	COME	w aː d	6 7 1	AXN	WAT	1	1.W.C 1.A.V 1.T.c	2.0 1.5 0.8	waːd	0	67
+115	Eastern Pomo	COME	q oː j u h u	1 7 6 7 3 7	AXBYBZ	KUJYHY	2	2.K.C 2.U.V 2.J.C 2.Y.V 2.H.C 2.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	qoːjuhu	0	68
+223	Kashaya	COME	w aː d	6 7 1	AXN	WAT	3	3.W.C 3.A.V 3.T.c	2.0 1.5 0.8	waːd	0	67
+326	Northeastern Pomo	COME	k oː n	1 7 4	AXN	KUN	4	4.K.C 4.U.V 4.N.c	2.0 1.5 0.8	koːn	0	70
+421	Northern Pomo	COME	w aː d e	6 7 1 7	AXBZ	WATE	5	5.W.C 5.A.V 5.T.C 5.E.V	2.0 1.5 1.75 0.8	waːde	0	67
+526	Southeastern Pomo	COME	χ o l o	3 7 5 7	AXBZ	GULU	6	6.G.C 6.U.V 6.L.C 6.U.V	2.0 1.5 1.75 0.8	χolo	0	72
+629	Southern Pomo	COME	h w aː d	3 6 7 1	ACXN	HWAT	7	7.H.C 7.W.C 7.A.V 7.T.c	2.0 1.5 1.5 0.8	hwaːd	0	67
+#
+15	Central Pomo	DIE	kʼ l a	1 5 7	ACX	KLA	1	1.K.C 1.L.C 1.A.V	2.0 1.5 1.5	kʼla	0	73
+116	Eastern Pomo	DIE	m uː d a l	4 7 1 7 5	AXBYN	MYTAL	2	2.M.C 2.Y.V 2.T.C 2.A.V 2.L.c	2.0 1.5 1.75 1.3 0.8	muːdal	0	74
+224	Kashaya	DIE	h ʧʰ o j iː ʧʼ	3 2 7 6 7 2	ACYBYN	HCUJIC	3	3.H.C 3.C.C 3.U.V 3.J.C 3.I.V 3.C.c	2.0 1.5 1.3 1.75 1.3 0.8	hʧʰojiːʧʼ	0	75
+327	Northeastern Pomo	DIE	m u ʔ kʼ aː w a n	4 7 1 1 7 6 7 4	AXMBYBYN	MYHKAWAN	4	4.M.C 4.Y.V 4.H.c 4.K.C 4.A.V 4.W.C 4.A.V 4.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	muʔkʼaːwan	0	76
+422	Northern Pomo	DIE	kʼ a l aː	1 7 5 7	AXBZ	KALA	5	5.K.C 5.A.V 5.L.C 5.A.V	2.0 1.5 1.75 0.8	kʼalaː	0	73
+527	Southeastern Pomo	DIE	qʼ a l a l	1 7 5 7 5	AXBYN	KALAL	6	6.K.C 6.A.V 6.L.C 6.A.V 6.L.c	2.0 1.5 1.75 1.3 0.8	qʼalal	0	73
+630	Southern Pomo	DIE	ʔ a h ʧʰ o ʧ i	1 7 3 2 7 2 7	AXMBYBZ	HAHCUCI	7	7.H.C 7.A.V 7.H.c 7.C.C 7.U.V 7.C.C 7.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʔahʧʰoʧi	0	75
+#
+16	Central Pomo	DOG	h a j u	3 7 6 7	AXBZ	HAJY	1	1.H.C 1.A.V 1.J.C 1.Y.V	2.0 1.5 1.75 0.8	haju	0	77
+117	Eastern Pomo	DOG	h a j u	3 7 6 7	AXBZ	HAJY	2	2.H.C 2.A.V 2.J.C 2.Y.V	2.0 1.5 1.75 0.8	haju	0	77
+225	Kashaya	DOG	h a j u	3 7 6 7	AXBZ	HAJY	3	3.H.C 3.A.V 3.J.C 3.Y.V	2.0 1.5 1.75 0.8	haju	0	77
+328	Northeastern Pomo	DOG	b o ʔ l a u k aː	1 7 1 5 7 7 1 7	AXBCYYBZ	PUHLAYKA	4	4.P.C 4.U.V 4.H.C 4.L.C 4.A.V 4.Y.V 4.K.C 4.A.V	2.0 1.5 1.75 1.5 1.3 1.3 1.75 0.8	boʔlaukaː	0	80
+423	Northern Pomo	DOG	h a j u	3 7 6 7	AXBZ	HAJY	5	5.H.C 5.A.V 5.J.C 5.Y.V	2.0 1.5 1.75 0.8	haju	0	77
+528	Southeastern Pomo	DOG	h a j u	3 7 6 7	AXBZ	HAJY	6	6.H.C 6.A.V 6.J.C 6.Y.V	2.0 1.5 1.75 0.8	haju	0	77
+631	Southern Pomo	DOG	h a jː u	3 7 6 7	AXBZ	HAJY	7	7.H.C 7.A.V 7.J.C 7.Y.V	2.0 1.5 1.75 0.8	hajːu	0	77
+#
+17	Central Pomo	DRINK	kʼ o ʧ	1 7 2	AXN	KUC	1	1.K.C 1.U.V 1.C.c	2.0 1.5 0.8	kʼoʧ	0	81
+118	Eastern Pomo	DRINK	qʼ oː	1 7	AX	KU	2	2.K.C 2.U.V	2.0 1.5	qʼoː	0	81
+226	Kashaya	DRINK	ʔ qʼ o	1 1 7	ACZ	HKU	3	3.H.C 3.K.C 3.U.V	2.0 1.5 0.8	ʔqʼo	0	83
+329	Northeastern Pomo	DRINK	kʼ o t̪ o n	1 7 1 7 4	AXBYN	KUTUN	4	4.K.C 4.U.V 4.T.C 4.U.V 4.N.c	2.0 1.5 1.75 1.3 0.8	kʼot̪on	0	84
+424	Northern Pomo	DRINK	kʼ o ʧ i	1 7 2 7	AXBZ	KUCI	5	5.K.C 5.U.V 5.C.C 5.I.V	2.0 1.5 1.75 0.8	kʼoʧi	0	81
+529	Southeastern Pomo	DRINK	b i ʦʼ a k	1 7 2 7 1	AXBYN	PICAK	6	6.P.C 6.I.V 6.C.C 6.A.V 6.K.c	2.0 1.5 1.75 1.3 0.8	biʦʼak	0	86
+632	Southern Pomo	DRINK	h o ʔ kʼ o j	3 7 1 1 7 6	AXMBYN	HUHKUJ	7	7.H.C 7.U.V 7.H.c 7.K.C 7.U.V 7.J.c	2.0 1.5 1.1 1.75 1.3 0.8	hoʔkʼoj	0	83
+#
+18	Central Pomo	DRY	ʧʼ aː l o l	2 7 5 7 5	AXBYN	CALUL	1	1.C.C 1.A.V 1.L.C 1.U.V 1.L.c	2.0 1.5 1.75 1.3 0.8	ʧʼaːlol	0	87
+119	Eastern Pomo	DRY	kʼ aː l o l	1 7 5 7 5	AXBYN	KALUL	2	2.K.C 2.A.V 2.L.C 2.U.V 2.L.c	2.0 1.5 1.75 1.3 0.8	kʼaːlol	0	87
+227	Kashaya	DRY	ʦʼ u w a ʧ	2 7 6 7 2	AXBYN	CYWAC	3	3.C.C 3.Y.V 3.W.C 3.A.V 3.C.c	2.0 1.5 1.75 1.3 0.8	ʦʼuwaʧ	0	89
+330	Northeastern Pomo	DRY	m u ʔ kʼ i l i n	4 7 1 1 7 5 7 4	AXMBYBYN	MYHKILIN	4	4.M.C 4.Y.V 4.H.c 4.K.C 4.I.V 4.L.C 4.I.V 4.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	muʔkʼilin	0	90
+425	Northern Pomo	DRY	tʼ a b o ʔ	1 7 1 7 1	AXBYN	TAPUH	5	5.T.C 5.A.V 5.P.C 5.U.V 5.H.c	2.0 1.5 1.75 1.3 0.8	tʼaboʔ	0	91
+530	Southeastern Pomo	DRY	qʼ o b o	1 7 1 7	AXBZ	KUPU	6	6.K.C 6.U.V 6.P.C 6.U.V	2.0 1.5 1.75 0.8	qʼobo	0	92
+633	Southern Pomo	DRY	m u kʰː a tʼ	4 7 1 7 1	AXBYN	MYKAT	7	7.M.C 7.Y.V 7.K.C 7.A.V 7.T.c	2.0 1.5 1.75 1.3 0.8	mukʰːatʼ	0	93
+#
+19	Central Pomo	EAR	ʃ m a	3 4 7	ACX	SMA	1	1.S.C 1.M.C 1.A.V	2.0 1.5 1.5	ʃma	0	94
+120	Eastern Pomo	EAR	ʃ iː m aː	3 7 4 7	AXBZ	SIMA	2	2.S.C 2.I.V 2.M.C 2.A.V	2.0 1.5 1.75 0.8	ʃiːmaː	0	94
+228	Kashaya	EAR	ʃ i m a	3 7 4 7	AXBZ	SIMA	3	3.S.C 3.I.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	ʃima	0	94
+331	Northeastern Pomo	EAR	ʃ i m a	3 7 4 7	AXBZ	SIMA	4	4.S.C 4.I.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	ʃima	0	94
+426	Northern Pomo	EAR	ʃ i m a	3 7 4 7	AXBZ	SIMA	5	5.S.C 5.I.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	ʃima	0	94
+531	Southeastern Pomo	EAR	x m a n ʦ a	3 4 7 4 2 7	ACXMBZ	GMANCA	6	6.G.C 6.M.C 6.A.V 6.N.c 6.C.C 6.A.V	2.0 1.5 1.5 1.1 1.75 0.8	xmanʦa	0	99
+634	Southern Pomo	EAR	ʃ iː m o m o	3 7 4 7 4 7	AXBYBZ	SIMUMU	7	7.S.C 7.I.V 7.M.C 7.U.V 7.M.C 7.U.V	2.0 1.5 1.75 1.3 1.75 0.8	ʃiːmomo	0	94
+#
+20	Central Pomo	EARTH (SOIL)	m aː	4 7	AX	MA	1	1.M.C 1.A.V	2.0 1.5	maː	0	100
+121	Eastern Pomo	EARTH (SOIL)	k aː j	1 7 6	AXN	KAJ	2	2.K.C 2.A.V 2.J.c	2.0 1.5 0.8	kaːj	0	101
+229	Kashaya	EARTH (SOIL)	ʔ a m aː	1 7 4 7	AXBZ	HAMA	3	3.H.C 3.A.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	ʔamaː	0	100
+332	Northeastern Pomo	EARTH (SOIL)	a m aː	7 4 7	XBZ	AMA	4	4.A.V 4.M.C 4.A.V	1.5 1.75 0.8	amaː	0	100
+427	Northern Pomo	EARTH (SOIL)	m aː	4 7	AX	MA	5	5.M.C 5.A.V	2.0 1.5	maː	0	100
+532	Southeastern Pomo	EARTH (SOIL)	χ q o	3 1 7	ACZ	GKU	6	6.G.C 6.K.C 6.U.V	2.0 1.5 0.8	χqo	0	105
+635	Southern Pomo	EARTH (SOIL)	ʔ a mː a	1 7 4 7	AXBZ	HAMA	7	7.H.C 7.A.V 7.M.C 7.A.V	2.0 1.5 1.75 0.8	ʔamːa	0	100
+#
+21	Central Pomo	EAT	k aː w a	1 7 6 7	AXBZ	KAWA	1	1.K.C 1.A.V 1.W.C 1.A.V	2.0 1.5 1.75 0.8	kaːwa	0	106
+122	Eastern Pomo	EAT	k uː h uː	1 7 3 7	AXBZ	KYHY	2	2.K.C 2.Y.V 2.H.C 2.Y.V	2.0 1.5 1.75 0.8	kuːhuː	0	107
+230	Kashaya	EAT	m a ʔ a	4 7 1 7	AXBZ	MAHA	3	3.M.C 3.A.V 3.H.C 3.A.V	2.0 1.5 1.75 0.8	maʔa	0	108
+333	Northeastern Pomo	EAT	m a ʔ aː n	4 7 1 7 4	AXBYN	MAHAN	4	4.M.C 4.A.V 4.H.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 0.8	maʔaːn	0	108
+428	Northern Pomo	EAT	m a ʔ a	4 7 1 7	AXBZ	MAHA	5	5.M.C 5.A.V 5.H.C 5.A.V	2.0 1.5 1.75 0.8	maʔa	0	108
+533	Southeastern Pomo	EAT	q w a l	1 6 7 5	ACXN	KWAL	6	6.K.C 6.W.C 6.A.V 6.L.c	2.0 1.5 1.5 0.8	qwal	0	106
+636	Southern Pomo	EAT	ʧ u hː u	2 7 3 7	AXBZ	CYHY	7	7.C.C 7.Y.V 7.H.C 7.Y.V	2.0 1.5 1.75 0.8	ʧuhːu	0	107
+#
+22	Central Pomo	EGG	ʧʼ oː	2 7	AX	CU	1	1.C.C 1.U.V	2.0 1.5	ʧʼoː	0	109
+123	Eastern Pomo	EGG	kʼ o	1 7	AX	KU	2	2.K.C 2.U.V	2.0 1.5	kʼo	1	109
+231	Kashaya	EGG	h i ʧʼ oː	3 7 2 7	AXBZ	HICU	3	3.H.C 3.I.V 3.C.C 3.U.V	2.0 1.5 1.75 0.8	hiʧʼoː	0	109
+334	Northeastern Pomo	EGG	ʧʼ o	2 7	AX	CU	4	4.C.C 4.U.V	2.0 1.5	ʧʼo	0	109
+429	Northern Pomo	EGG	ʧʼ oː	2 7	AX	CU	5	5.C.C 5.U.V	2.0 1.5	ʧʼoː	0	109
+534	Southeastern Pomo	EGG	qʼ o	1 7	AX	KU	6	6.K.C 6.U.V	2.0 1.5	qʼo	0	109
+637	Southern Pomo	EGG	h i ʧʼː o	3 7 2 7	AXBZ	HICU	7	7.H.C 7.I.V 7.C.C 7.U.V	2.0 1.5 1.75 0.8	hiʧʼːo	0	109
+#
+23	Central Pomo	EYE	ʔ u j	1 7 6	AXN	HYJ	1	1.H.C 1.Y.V 1.J.c	2.0 1.5 0.8	ʔuj	0	110
+124	Eastern Pomo	EYE	ʔ u j	1 7 6	AXN	HYJ	2	2.H.C 2.Y.V 2.J.c	2.0 1.5 0.8	ʔuj	0	110
+232	Kashaya	EYE	h u ʔ u j	3 7 1 7 6	AXBYN	HYHYJ	3	3.H.C 3.Y.V 3.H.C 3.Y.V 3.J.c	2.0 1.5 1.75 1.3 0.8	huʔuj	0	110
+335	Northeastern Pomo	EYE	u i	7 7	XZ	YI	4	4.Y.V 4.I.V	1.5 0.8	ui	0	113
+430	Northern Pomo	EYE	ʔ u j	1 7 6	AXN	HYJ	5	5.H.C 5.Y.V 5.J.c	2.0 1.5 0.8	ʔuj	0	110
+535	Southeastern Pomo	EYE	ʔ u j	1 7 6	AXN	HYJ	6	6.H.C 6.Y.V 6.J.c	2.0 1.5 0.8	ʔuj	0	110
+638	Southern Pomo	EYE	h u ʔː u kʰ b e	3 7 1 7 1 1 7	AXBYMBZ	HYHYKPE	7	7.H.C 7.Y.V 7.H.C 7.Y.V 7.K.c 7.P.C 7.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	huʔːukʰbe	0	116
+#
+199	Eastern Pomo	FAR	l i l a	5 7 5 7	AXBZ	LILA	2	2.L.C 2.I.V 2.L.C 2.A.V	2.0 1.5 1.75 0.8	lila	0	117
+507	Northern Pomo	FAR	ʧ a d i l	2 7 1 7 5	AXBYN	CATIL	5	5.C.C 5.A.V 5.T.C 5.I.V 5.L.c	2.0 1.5 1.75 1.3 0.8	ʧadil	0	118
+#
+24	Central Pomo	FAT (FROM ANIMALS)	pʰ u j	1 7 6	AXN	PYJ	1	1.P.C 1.Y.V 1.J.c	2.0 1.5 0.8	pʰuj	0	119
+125	Eastern Pomo	FAT (FROM ANIMALS)	pʰ u j	1 7 6	AXN	PYJ	2	2.P.C 2.Y.V 2.J.c	2.0 1.5 0.8	pʰuj	0	119
+233	Kashaya	FAT (FROM ANIMALS)	ʔ i h pʰ u j	1 7 3 1 7 6	AXMBYN	HIHPYJ	3	3.H.C 3.I.V 3.H.c 3.P.C 3.Y.V 3.J.c	2.0 1.5 1.1 1.75 1.3 0.8	ʔihpʰuj	0	119
+336	Northeastern Pomo	FAT (FROM ANIMALS)	f i j i n	3 7 6 7 4	AXBYN	BIJIN	4	4.B.C 4.I.V 4.J.C 4.I.V 4.N.c	2.0 1.5 1.75 1.3 0.8	fijin	0	122
+431	Northern Pomo	FAT (FROM ANIMALS)	pʰ u j	1 7 6	AXN	PYJ	5	5.P.C 5.Y.V 5.J.c	2.0 1.5 0.8	pʰuj	0	119
+536	Southeastern Pomo	FAT (FROM ANIMALS)	f u j	3 7 6	AXN	BYJ	6	6.B.C 6.Y.V 6.J.c	2.0 1.5 0.8	fuj	0	119
+639	Southern Pomo	FAT (FROM ANIMALS)	ʔ i h pʰ u j	1 7 3 1 7 6	AXMBYN	HIHPYJ	7	7.H.C 7.I.V 7.H.c 7.P.C 7.Y.V 7.J.c	2.0 1.5 1.1 1.75 1.3 0.8	ʔihpʰuj	0	119
+#
+25	Central Pomo	FEATHER	ʔ i	1 7	AX	HI	1	1.H.C 1.I.V	2.0 1.5	ʔi	0	123
+126	Eastern Pomo	FEATHER	j iː ʔ i	6 7 1 7	AXBZ	JIHI	2	2.J.C 2.I.V 2.H.C 2.I.V	2.0 1.5 1.75 0.8	jiːʔi	0	123
+234	Kashaya	FEATHER	h i ʔ i	3 7 1 7	AXBZ	HIHI	3	3.H.C 3.I.V 3.H.C 3.I.V	2.0 1.5 1.75 0.8	hiʔi	0	123
+337	Northeastern Pomo	FEATHER	tʰ a	1 7	AX	TA	4	4.T.C 4.A.V	2.0 1.5	tʰa	0	126
+432	Northern Pomo	FEATHER	tʰ e	1 7	AX	TE	5	5.T.C 5.E.V	2.0 1.5	tʰe	0	127
+537	Southeastern Pomo	FEATHER	ʔ i	1 7	AX	HI	6	6.H.C 6.I.V	2.0 1.5	ʔi	0	123
+640	Southern Pomo	FEATHER	h i ʔː i	3 7 1 7	AXBZ	HIHI	7	7.H.C 7.I.V 7.H.C 7.I.V	2.0 1.5 1.75 0.8	hiʔːi	0	123
+#
+26	Central Pomo	FIRE	h o	3 7	AX	HU	1	1.H.C 1.U.V	2.0 1.5	ho	0	128
+127	Eastern Pomo	FIRE	x o	3 7	AX	GU	2	2.G.C 2.U.V	2.0 1.5	xo	0	129
+235	Kashaya	FIRE	ʔ o h o	1 7 3 7	AXBZ	HUHU	3	3.H.C 3.U.V 3.H.C 3.U.V	2.0 1.5 1.75 0.8	ʔoho	0	128
+338	Northeastern Pomo	FIRE	o h o	7 3 7	XBZ	UHU	4	4.U.V 4.H.C 4.U.V	1.5 1.75 0.8	oho	0	128
+433	Northern Pomo	FIRE	h o	3 7	AX	HU	5	5.H.C 5.U.V	2.0 1.5	ho	0	128
+538	Southeastern Pomo	FIRE	χ o	3 7	AX	GU	6	6.G.C 6.U.V	2.0 1.5	χo	0	129
+641	Southern Pomo	FIRE	ʔ o hː o	1 7 3 7	AXBZ	HUHU	7	7.H.C 7.U.V 7.H.C 7.U.V	2.0 1.5 1.75 0.8	ʔohːo	0	128
+#
+27	Central Pomo	FISH	ʃ a	3 7	AX	SA	1	1.S.C 1.A.V	2.0 1.5	ʃa	0	130
+128	Eastern Pomo	FISH	ʃ a	3 7	AX	SA	2	2.S.C 2.A.V	2.0 1.5	ʃa	0	130
+236	Kashaya	FISH	ʔ a h ʃ a	1 7 3 3 7	AXMBZ	HAHSA	3	3.H.C 3.A.V 3.H.c 3.S.C 3.A.V	2.0 1.5 1.1 1.75 0.8	ʔahʃa	0	130
+339	Northeastern Pomo	FISH	ʃ a k aː	3 7 1 7	AXBZ	SAKA	4	4.S.C 4.A.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	ʃakaː	0	130
+434	Northern Pomo	FISH	ʃ a	3 7	AX	SA	5	5.S.C 5.A.V	2.0 1.5	ʃa	0	130
+539	Southeastern Pomo	FISH	x a	3 7	AX	GA	6	6.G.C 6.A.V	2.0 1.5	xa	0	130
+642	Southern Pomo	FISH	ʔ a h ʃ a	1 7 3 3 7	AXMBZ	HAHSA	7	7.H.C 7.A.V 7.H.c 7.S.C 7.A.V	2.0 1.5 1.1 1.75 0.8	ʔahʃa	0	130
+#
+28	Central Pomo	FLY (MOVE THROUGH AIR)	pʰ d e	1 1 7	ACZ	PTE	1	1.P.C 1.T.C 1.E.V	2.0 1.5 0.8	pʰde	0	131
+129	Eastern Pomo	FLY (MOVE THROUGH AIR)	pʰ uː d iː l	1 7 1 7 5	AXBYN	PYTIL	2	2.P.C 2.Y.V 2.T.C 2.I.V 2.L.c	2.0 1.5 1.75 1.3 0.8	pʰuːdiːl	0	131
+237	Kashaya	FLY (MOVE THROUGH AIR)	ʧ a	2 7	AX	CA	3	3.C.C 3.A.V	2.0 1.5	ʧa	0	133
+340	Northeastern Pomo	FLY (MOVE THROUGH AIR)	h eː w i t̪ i n	3 7 6 7 1 7 4	AXBYBYN	HEWITIN	4	4.H.C 4.E.V 4.W.C 4.I.V 4.T.C 4.I.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	heːwit̪in	0	134
+435	Northern Pomo	FLY (MOVE THROUGH AIR)	pʰ i d e	1 7 1 7	AXBZ	PITE	5	5.P.C 5.I.V 5.T.C 5.E.V	2.0 1.5 1.75 0.8	pʰide	0	131
+540	Southeastern Pomo	FLY (MOVE THROUGH AIR)	ʦ a l	2 7 5	AXN	CAL	6	6.C.C 6.A.V 6.L.c	2.0 1.5 0.8	ʦal	0	133
+643	Southern Pomo	FLY (MOVE THROUGH AIR)	h a ʧː a	3 7 2 7	AXBZ	HACA	7	7.H.C 7.A.V 7.C.C 7.A.V	2.0 1.5 1.75 0.8	haʧːa	0	133
+#
+29	Central Pomo	FOOT	kʰ m a	1 4 7	ACX	KMA	1	1.K.C 1.M.C 1.A.V	2.0 1.5 1.5	kʰma	0	135
+130	Eastern Pomo	FOOT	x aː m aː	3 7 4 7	AXBZ	GAMA	2	2.G.C 2.A.V 2.M.C 2.A.V	2.0 1.5 1.75 0.8	xaːmaː	0	135
+238	Kashaya	FOOT	qʰ a m a	1 7 4 7	AXBZ	KAMA	3	3.K.C 3.A.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	qʰama	0	135
+341	Northeastern Pomo	FOOT	kʰ a m a	1 7 4 7	AXBZ	KAMA	4	4.K.C 4.A.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	kʰama	0	135
+436	Northern Pomo	FOOT	kʰ a m a	1 7 4 7	AXBZ	KAMA	5	5.K.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	kʰama	0	135
+541	Southeastern Pomo	FOOT	χ m a n	3 4 7 4	ACXN	GMAN	6	6.G.C 6.M.C 6.A.V 6.N.c	2.0 1.5 1.5 0.8	χman	0	135
+644	Southern Pomo	FOOT	kʰ aː m a	1 7 4 7	AXBZ	KAMA	7	7.K.C 7.A.V 7.M.C 7.A.V	2.0 1.5 1.75 0.8	kʰaːma	0	135
+#
+30	Central Pomo	FULL	ʃ tʼ u tʼ	3 1 7 1	ACYN	STYT	1	1.S.C 1.T.C 1.Y.V 1.T.c	2.0 1.5 1.3 0.8	ʃtʼutʼ	0	136
+131	Eastern Pomo	FULL	pʼ i t̪ʼ	1 7 1	AXN	PIT	2	2.P.C 2.I.V 2.T.c	2.0 1.5 0.8	pʼit̪ʼ	0	137
+239	Kashaya	FULL	ʧ u tʼ aː q	2 7 1 7 1	AXBYN	CYTAK	3	3.C.C 3.Y.V 3.T.C 3.A.V 3.K.c	2.0 1.5 1.75 1.3 0.8	ʧutʼaːq	0	138
+437	Northern Pomo	FULL	h a ʧʼ a	3 7 2 7	AXBZ	HACA	5	5.H.C 5.A.V 5.C.C 5.A.V	2.0 1.5 1.75 0.8	haʧʼa	0	139
+542	Southeastern Pomo	FULL	χ a t̪ e m a t̪	3 7 1 7 4 7 1	AXBYBYN	GATEMAT	6	6.G.C 6.A.V 6.T.C 6.E.V 6.M.C 6.A.V 6.T.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	χat̪emat̪	0	140
+645	Southern Pomo	FULL	ʔ a h j a kʼ	1 7 3 6 7 1	AXBCYN	HAHJAK	7	7.H.C 7.A.V 7.H.C 7.J.C 7.A.V 7.K.c	2.0 1.5 1.75 1.5 1.3 0.8	ʔahjakʼ	0	141
+#
+31	Central Pomo	GIVE	d aː k a	1 7 1 7	AXBZ	TAKA	1	1.T.C 1.A.V 1.K.C 1.A.V	2.0 1.5 1.75 0.8	daːka	0	142
+132	Eastern Pomo	GIVE	d iː q aː	1 7 1 7	AXBZ	TIKA	2	2.T.C 2.I.V 2.K.C 2.A.V	2.0 1.5 1.75 0.8	diːqaː	0	142
+240	Kashaya	GIVE	d i h q a	1 7 3 1 7	AXMBZ	TIHKA	3	3.T.C 3.I.V 3.H.c 3.K.C 3.A.V	2.0 1.5 1.1 1.75 0.8	dihqa	0	142
+342	Northeastern Pomo	GIVE	h oː n	3 7 4	AXN	HUN	4	4.H.C 4.U.V 4.N.c	2.0 1.5 0.8	hoːn	0	145
+438	Northern Pomo	GIVE	d i k a	1 7 1 7	AXBZ	TIKA	5	5.T.C 5.I.V 5.K.C 5.A.V	2.0 1.5 1.75 0.8	dika	0	142
+543	Southeastern Pomo	GIVE	ʔ a q a	1 7 1 7	AXBZ	HAKA	6	6.H.C 6.A.V 6.K.C 6.A.V	2.0 1.5 1.75 0.8	ʔaqa	0	145
+646	Southern Pomo	GIVE	d i h k a	1 7 3 1 7	AXMBZ	TIHKA	7	7.T.C 7.I.V 7.H.c 7.K.C 7.A.V	2.0 1.5 1.1 1.75 0.8	dihka	0	142
+#
+32	Central Pomo	GOOD	kʼ d i	1 1 7	ACZ	KTI	1	1.K.C 1.T.C 1.I.V	2.0 1.5 0.8	kʼdi	0	146
+133	Eastern Pomo	GOOD	qʼ oː d i j	1 7 1 7 6	AXBYN	KUTIJ	2	2.K.C 2.U.V 2.T.C 2.I.V 2.J.c	2.0 1.5 1.75 1.3 0.8	qʼoːdij	0	146
+241	Kashaya	GOOD	qʼ o ʔ d i	1 7 1 1 7	AXMBZ	KUHTI	3	3.K.C 3.U.V 3.H.c 3.T.C 3.I.V	2.0 1.5 1.1 1.75 0.8	qʼoʔdi	0	146
+343	Northeastern Pomo	GOOD	kʼ u d i	1 7 1 7	AXBZ	KYTI	4	4.K.C 4.Y.V 4.T.C 4.I.V	2.0 1.5 1.75 0.8	kʼudi	0	146
+439	Northern Pomo	GOOD	kʼ i d i	1 7 1 7	AXBZ	KITI	5	5.K.C 5.I.V 5.T.C 5.I.V	2.0 1.5 1.75 0.8	kʼidi	0	146
+544	Southeastern Pomo	GOOD	ʦʼ i m a	2 7 4 7	AXBZ	CIMA	6	6.C.C 6.I.V 6.M.C 6.A.V	2.0 1.5 1.75 0.8	ʦʼima	0	151
+647	Southern Pomo	GOOD	kʼ o ʔ d i	1 7 1 1 7	AXMBZ	KUHTI	7	7.K.C 7.U.V 7.H.c 7.T.C 7.I.V	2.0 1.5 1.1 1.75 0.8	kʼoʔdi	0	146
+#
+33	Central Pomo	GREEN	ʦʼ aː kʰ i l	2 7 1 7 5	AXBYN	CAKIL	1	1.C.C 1.A.V 1.K.C 1.I.V 1.L.c	2.0 1.5 1.75 1.3 0.8	ʦʼaːkʰil	0	152
+134	Eastern Pomo	GREEN	ʦʼ aː b a ʦʼ aː b a kʰ	2 7 1 7 2 7 1 7 1	AXBYBYBYN	CAPACAPAK	2	2.C.C 2.A.V 2.P.C 2.A.V 2.C.C 2.A.V 2.P.C 2.A.V 2.K.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	ʦʼaːbaʦʼaːbakʰ	0	153
+242	Kashaya	GREEN	ʦʼ a qʰ aː l a	2 7 1 7 5 7	AXBYBZ	CAKALA	3	3.C.C 3.A.V 3.K.C 3.A.V 3.L.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ʦʼaqʰaːla	0	152
+344	Northeastern Pomo	GREEN	ʧ a m o r o n	2 7 4 7 5 7 4	AXBYBYN	CAMURUN	4	4.C.C 4.A.V 4.M.C 4.U.V 4.R.C 4.U.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʧamoron	0	155
+440	Northern Pomo	GREEN	ʦʼ a kʰ a tʼ	2 7 1 7 1	AXBYN	CAKAT	5	5.C.C 5.A.V 5.K.C 5.A.V 5.T.c	2.0 1.5 1.75 1.3 0.8	ʦʼakʰatʼ	0	152
+545	Southeastern Pomo	GREEN	ʦʼ i j a ʦʼ i j a	2 7 6 7 2 7 6 7	AXBYBYBZ	CIJACIJA	6	6.C.C 6.I.V 6.J.C 6.A.V 6.C.C 6.I.V 6.J.C 6.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	ʦʼijaʦʼija	0	153
+648	Southern Pomo	GREEN	ʦʼ a h kʰ i l	2 7 3 1 7 5	AXMBYN	CAHKIL	7	7.C.C 7.A.V 7.H.c 7.K.C 7.I.V 7.L.c	2.0 1.5 1.1 1.75 1.3 0.8	ʦʼahkʰil	0	158
+#
+34	Central Pomo	HAIR	ʔ eː	1 7	AX	HE	1	1.H.C 1.E.V	2.0 1.5	ʔeː	0	159
+135	Eastern Pomo	HAIR	m uː s u	4 7 3 7	AXBZ	MYSY	2	2.M.C 2.Y.V 2.S.C 2.Y.V	2.0 1.5 1.75 0.8	muːsu	0	160
+243	Kashaya	HAIR	h e ʔ e	3 7 1 7	AXBZ	HEHE	3	3.H.C 3.E.V 3.H.C 3.E.V	2.0 1.5 1.75 0.8	heʔe	0	159
+345	Northeastern Pomo	HAIR	h e l e	3 7 5 7	AXBZ	HELE	4	4.H.C 4.E.V 4.L.C 4.E.V	2.0 1.5 1.75 0.8	hele	0	159
+441	Northern Pomo	HAIR	ʔ e	1 7	AX	HE	5	5.H.C 5.E.V	2.0 1.5	ʔe	0	159
+546	Southeastern Pomo	HAIR	ʔ e j	1 7 6	AXN	HEJ	6	6.H.C 6.E.V 6.J.c	2.0 1.5 0.8	ʔej	0	159
+649	Southern Pomo	HAIR	h e ʔː e	3 7 1 7	AXBZ	HEHE	7	7.H.C 7.E.V 7.H.C 7.E.V	2.0 1.5 1.75 0.8	heʔːe	0	159
+#
+35	Central Pomo	HAND	t̪ʰ n a	1 4 7	ACX	TNA	1	1.T.C 1.N.C 1.A.V	2.0 1.5 1.5	t̪ʰna	0	161
+136	Eastern Pomo	HAND	b iː j̥ a	1 7 6 7	AXBZ	PIJA	2	2.P.C 2.I.V 2.J.C 2.A.V	2.0 1.5 1.75 0.8	biːj̥a	0	162
+244	Kashaya	HAND	ʧ o h ʃ o	2 7 3 3 7	AXMBZ	CUHSU	3	3.C.C 3.U.V 3.H.c 3.S.C 3.U.V	2.0 1.5 1.1 1.75 0.8	ʧohʃo	0	163
+346	Northeastern Pomo	HAND	t̪ o h ʃ o	1 7 3 3 7	AXMBZ	TUHSU	4	4.T.C 4.U.V 4.H.c 4.S.C 4.U.V	2.0 1.5 1.1 1.75 0.8	t̪ohʃo	0	163
+442	Northern Pomo	HAND	t̪ʰ a n a	1 7 4 7	AXBZ	TANA	5	5.T.C 5.A.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	t̪ʰana	0	161
+547	Southeastern Pomo	HAND	a t̪ a n	7 1 7 4	XBYN	ATAN	6	6.A.V 6.T.C 6.A.V 6.N.c	1.5 1.75 1.3 0.8	at̪an	0	166
+650	Southern Pomo	HAND	t̪ʰ aː n a	1 7 4 7	AXBZ	TANA	7	7.T.C 7.A.V 7.N.C 7.A.V	2.0 1.5 1.75 0.8	t̪ʰaːna	0	161
+#
+36	Central Pomo	HEAD	ʃ n aː	3 4 7	ACX	SNA	1	1.S.C 1.N.C 1.A.V	2.0 1.5 1.5	ʃnaː	0	167
+137	Eastern Pomo	HEAD	kʰ aː j a	1 7 6 7	AXBZ	KAJA	2	2.K.C 2.A.V 2.J.C 2.A.V	2.0 1.5 1.75 0.8	kʰaːja	0	168
+245	Kashaya	HEAD	h o ʔ t̪ʼ o	3 7 1 1 7	AXMBZ	HUHTU	3	3.H.C 3.U.V 3.H.c 3.T.C 3.U.V	2.0 1.5 1.1 1.75 0.8	hoʔt̪ʼo	0	169
+347	Northeastern Pomo	HEAD	t̪ i n aː	1 7 4 7	AXBZ	TINA	4	4.T.C 4.I.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	t̪inaː	0	170
+443	Northern Pomo	HEAD	ʃ i n aː	3 7 4 7	AXBZ	SINA	5	5.S.C 5.I.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	ʃinaː	0	167
+548	Southeastern Pomo	HEAD	x i j a	3 7 6 7	AXBZ	GIJA	6	6.G.C 6.I.V 6.J.C 6.A.V	2.0 1.5 1.75 0.8	xija	0	168
+651	Southern Pomo	HEAD	ʃ i nː a	3 7 4 7	AXBZ	SINA	7	7.S.C 7.I.V 7.N.C 7.A.V	2.0 1.5 1.75 0.8	ʃinːa	0	167
+#
+37	Central Pomo	HEAR	ʃ oː ʧ	3 7 2	AXN	SUC	1	1.S.C 1.U.V 1.C.c	2.0 1.5 0.8	ʃoːʧ	0	171
+138	Eastern Pomo	HEAR	ʃ oː kʰ	3 7 1	AXN	SUK	2	2.S.C 2.U.V 2.K.c	2.0 1.5 0.8	ʃoːkʰ	0	171
+246	Kashaya	HEAR	ʃ oː ʧ	3 7 2	AXN	SUC	3	3.S.C 3.U.V 3.C.c	2.0 1.5 0.8	ʃoːʧ	0	171
+348	Northeastern Pomo	HEAR	ʃ i m i t̪	3 7 4 7 1	AXBYN	SIMIT	4	4.S.C 4.I.V 4.M.C 4.I.V 4.T.c	2.0 1.5 1.75 1.3 0.8	ʃimit̪	0	174
+444	Northern Pomo	HEAR	ʃ oː ʧ i	3 7 2 7	AXBZ	SUCI	5	5.S.C 5.U.V 5.C.C 5.I.V	2.0 1.5 1.75 0.8	ʃoːʧi	0	171
+549	Southeastern Pomo	HEAR	x kʼ o	3 1 7	ACZ	GKU	6	6.G.C 6.K.C 6.U.V	2.0 1.5 0.8	xkʼo	0	176
+652	Southern Pomo	HEAR	ʃ oː ʧ i	3 7 2 7	AXBZ	SUCI	7	7.S.C 7.U.V 7.C.C 7.I.V	2.0 1.5 1.75 0.8	ʃoːʧi	0	171
+#
+38	Central Pomo	HEART	kʰ a m	1 7 4	AXN	KAM	1	1.K.C 1.A.V 1.M.c	2.0 1.5 0.8	kʰam	0	177
+139	Eastern Pomo	HEART	s aː m aː j	3 7 4 7 6	AXBYN	SAMAJ	2	2.S.C 2.A.V 2.M.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 0.8	saːmaːj	0	178
+247	Kashaya	HEART	ʦʼ u h k u l	2 7 3 1 7 5	AXMBYN	CYHKYL	3	3.C.C 3.Y.V 3.H.c 3.K.C 3.Y.V 3.L.c	2.0 1.5 1.1 1.75 1.3 0.8	ʦʼuhkul	0	179
+349	Northeastern Pomo	HEART	kʰ a m ʃ e m e	1 7 4 3 7 4 7	AXMBYBZ	KAMSEME	4	4.K.C 4.A.V 4.M.c 4.S.C 4.E.V 4.M.C 4.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	kʰamʃeme	0	180
+445	Northern Pomo	HEART	kʰ a m	1 7 4	AXN	KAM	5	5.K.C 5.A.V 5.M.c	2.0 1.5 0.8	kʰam	0	181
+550	Southeastern Pomo	HEART	ʦʼ u k u t̪	2 7 1 7 1	AXBYN	CYKYT	6	6.C.C 6.Y.V 6.K.C 6.Y.V 6.T.c	2.0 1.5 1.75 1.3 0.8	ʦʼukut̪	0	179
+653	Southern Pomo	HEART	ʦʼ u h k u n	2 7 3 1 7 4	AXMBYN	CYHKYN	7	7.C.C 7.Y.V 7.H.c 7.K.C 7.Y.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ʦʼuhkun	0	179
+#
+200	Eastern Pomo	HEAVY	x aː l i kʰ	3 7 5 7 1	AXBYN	GALIK	2	2.G.C 2.A.V 2.L.C 2.I.V 2.K.c	2.0 1.5 1.75 1.3 0.8	xaːlikʰ	0	182
+613	Southeastern Pomo	HEAVY	ʔ tʼ e ʔ k i t̪	1 1 7 1 1 7 1	ACYMBYN	HTEHKIT	6	6.H.C 6.T.C 6.E.V 6.H.c 6.K.C 6.I.V 6.T.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	ʔtʼeʔkit̪	0	183
+#
+39	Central Pomo	HORN (ANATOMY)	ʔ a	1 7	AX	HA	1	1.H.C 1.A.V	2.0 1.5	ʔa	0	184
+140	Eastern Pomo	HORN (ANATOMY)	ʔ a	1 7	AX	HA	2	2.H.C 2.A.V	2.0 1.5	ʔa	0	184
+248	Kashaya	HORN (ANATOMY)	h a ʔ a	3 7 1 7	AXBZ	HAHA	3	3.H.C 3.A.V 3.H.C 3.A.V	2.0 1.5 1.75 0.8	haʔa	0	184
+350	Northeastern Pomo	HORN (ANATOMY)	ʔ a	1 7	AX	HA	4	4.H.C 4.A.V	2.0 1.5	ʔa	0	184
+446	Northern Pomo	HORN (ANATOMY)	ʔ a	1 7	AX	HA	5	5.H.C 5.A.V	2.0 1.5	ʔa	0	184
+551	Southeastern Pomo	HORN (ANATOMY)	ʔ a	1 7	AX	HA	6	6.H.C 6.A.V	2.0 1.5	ʔa	0	184
+654	Southern Pomo	HORN (ANATOMY)	h a ʔː a	3 7 1 7	AXBZ	HAHA	7	7.H.C 7.A.V 7.H.C 7.A.V	2.0 1.5 1.75 0.8	haʔːa	0	184
+#
+40	Central Pomo	I	ʔ aː	1 7	AX	HA	1	1.H.C 1.A.V	2.0 1.5	ʔaː	0	185
+41	Central Pomo	I	t̪ oː	1 7	AX	TU	1	1.T.C 1.U.V	2.0 1.5	t̪oː	0	192
+141	Eastern Pomo	I	h aː	3 7	AX	HA	2	2.H.C 2.A.V	2.0 1.5	haː	0	185
+142	Eastern Pomo	I	w i	6 7	AX	WI	2	2.W.C 2.I.V	2.0 1.5	wi	0	193
+249	Kashaya	I	ʔ a	1 7	AX	HA	3	3.H.C 3.A.V	2.0 1.5	ʔa	0	185
+250	Kashaya	I	t̪ o	1 7	AX	TU	3	3.T.C 3.U.V	2.0 1.5	t̪o	0	192
+351	Northeastern Pomo	I	ʔ aː	1 7	AX	HA	4	4.H.C 4.A.V	2.0 1.5	ʔaː	0	185
+352	Northeastern Pomo	I	ʔ a h t̪ o	1 7 3 1 7	AXMBZ	HAHTU	4	4.H.C 4.A.V 4.H.c 4.T.C 4.U.V	2.0 1.5 1.1 1.75 0.8	ʔaht̪o	0	192
+447	Northern Pomo	I	ʔ aː	1 7	AX	HA	5	5.H.C 5.A.V	2.0 1.5	ʔaː	0	185
+448	Northern Pomo	I	t̪ oː	1 7	AX	TU	5	5.T.C 5.U.V	2.0 1.5	t̪oː	0	192
+552	Southeastern Pomo	I	ʔ a	1 7	AX	HA	6	6.H.C 6.A.V	2.0 1.5	ʔa	1	185
+553	Southeastern Pomo	I	w i t̪	6 7 1	AXN	WIT	6	6.W.C 6.I.V 6.T.c	2.0 1.5 0.8	wit̪	0	193
+655	Southern Pomo	I	ʔ aː ʔ a	1 7 1 7	AXBZ	HAHA	7	7.H.C 7.A.V 7.H.C 7.A.V	2.0 1.5 1.75 0.8	ʔaːʔa	0	185
+656	Southern Pomo	I	ʔ a t̪ː o	1 7 1 7	AXBZ	HATU	7	7.H.C 7.A.V 7.T.C 7.U.V	2.0 1.5 1.75 0.8	ʔat̪ːo	0	192
+#
+42	Central Pomo	KILL	h aː kʼ uː m	3 7 1 7 4	AXBYN	HAKYM	1	1.H.C 1.A.V 1.K.C 1.Y.V 1.M.c	2.0 1.5 1.75 1.3 0.8	haːkʼuːm	0	194
+143	Eastern Pomo	KILL	ʃ aː kʼ	3 7 1	AXN	SAK	2	2.S.C 2.A.V 2.K.c	2.0 1.5 0.8	ʃaːkʼ	0	195
+251	Kashaya	KILL	pʰ a kʼ uː m	1 7 1 7 4	AXBYN	PAKYM	3	3.P.C 3.A.V 3.K.C 3.Y.V 3.M.c	2.0 1.5 1.75 1.3 0.8	pʰakʼuːm	0	196
+353	Northeastern Pomo	KILL	kʼ a m a n a n	1 7 4 7 4 7 4	AXBYBYN	KAMANAN	4	4.K.C 4.A.V 4.M.C 4.A.V 4.N.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʼamanan	0	197
+449	Northern Pomo	KILL	ʧ a b a n	2 7 1 7 4	AXBYN	CAPAN	5	5.C.C 5.A.V 5.P.C 5.A.V 5.N.c	2.0 1.5 1.75 1.3 0.8	ʧaban	0	198
+554	Southeastern Pomo	KILL	m u d o q a	4 7 1 7 1 7	AXBYBZ	MYTUKA	6	6.M.C 6.Y.V 6.T.C 6.U.V 6.K.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mudoqa	0	199
+657	Southern Pomo	KILL	m i h j a n a	4 7 3 6 7 4 7	AXBCYBZ	MIHJANA	7	7.M.C 7.I.V 7.H.C 7.J.C 7.A.V 7.N.C 7.A.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	mihjana	0	197
+#
+43	Central Pomo	KNEE	s n oː	3 4 7	ACX	SNU	1	1.S.C 1.N.C 1.U.V	2.0 1.5 1.5	snoː	0	200
+144	Eastern Pomo	KNEE	qʼ uː t̪ u l	1 7 1 7 5	AXBYN	KYTYL	2	2.K.C 2.Y.V 2.T.C 2.Y.V 2.L.c	2.0 1.5 1.75 1.3 0.8	qʼuːt̪ul	0	201
+252	Kashaya	KNEE	m o qʰ oː	4 7 1 7	AXBZ	MUKU	3	3.M.C 3.U.V 3.K.C 3.U.V	2.0 1.5 1.75 0.8	moqʰoː	0	202
+354	Northeastern Pomo	KNEE	ʃ i ʔ kʼ o n o	3 7 1 1 7 4 7	AXMBYBZ	SIHKUNU	4	4.S.C 4.I.V 4.H.c 4.K.C 4.U.V 4.N.C 4.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʃiʔkʼono	0	200
+450	Northern Pomo	KNEE	j aː s i s	6 7 3 7 3	AXBYN	JASIS	5	5.J.C 5.A.V 5.S.C 5.I.V 5.S.c	2.0 1.5 1.75 1.3 0.8	jaːsis	0	204
+555	Southeastern Pomo	KNEE	qʼ a d a	1 7 1 7	AXBZ	KATA	6	6.K.C 6.A.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	qʼada	0	201
+658	Southern Pomo	KNEE	s i nː o t̪ː a	3 7 4 7 1 7	AXBYBZ	SINUTA	7	7.S.C 7.I.V 7.N.C 7.U.V 7.T.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	sinːot̪ːa	0	200
+#
+44	Central Pomo	KNOW (SOMETHING)	j a qʼ	6 7 1	AXN	JAK	1	1.J.C 1.A.V 1.K.c	2.0 1.5 0.8	jaqʼ	0	205
+145	Eastern Pomo	KNOW (SOMETHING)	m eː ʔ e l	4 7 1 7 5	AXBYN	MEHEL	2	2.M.C 2.E.V 2.H.C 2.E.V 2.L.c	2.0 1.5 1.75 1.3 0.8	meːʔel	0	206
+253	Kashaya	KNOW (SOMETHING)	ʔ d uː ʧ i ʧʼ	1 1 7 2 7 2	ACYBYN	HTYCIC	3	3.H.C 3.T.C 3.Y.V 3.C.C 3.I.V 3.C.c	2.0 1.5 1.3 1.75 1.3 0.8	ʔduːʧiʧʼ	0	207
+451	Northern Pomo	KNOW (SOMETHING)	ʃ aː	3 7	AX	SA	5	5.S.C 5.A.V	2.0 1.5	ʃaː	0	208
+556	Southeastern Pomo	KNOW (SOMETHING)	f d i q a	3 1 7 1 7	ACYBZ	BTIKA	6	6.B.C 6.T.C 6.I.V 6.K.C 6.A.V	2.0 1.5 1.3 1.75 0.8	fdiqa	0	209
+659	Southern Pomo	KNOW (SOMETHING)	h i ʔ d u ʧː e d	3 7 1 1 7 2 7 1	AXMBYBYN	HIHTYCET	7	7.H.C 7.I.V 7.H.c 7.T.C 7.Y.V 7.C.C 7.E.V 7.T.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	hiʔduʧːed	0	207
+#
+45	Central Pomo	LEAF	s tʼ a l	3 1 7 5	ACYN	STAL	1	1.S.C 1.T.C 1.A.V 1.L.c	2.0 1.5 1.3 0.8	stʼal	0	210
+146	Eastern Pomo	LEAF	s iː tʼ a l	3 7 1 7 5	AXBYN	SITAL	2	2.S.C 2.I.V 2.T.C 2.A.V 2.L.c	2.0 1.5 1.75 1.3 0.8	siːtʼal	0	210
+254	Kashaya	LEAF	ʃ i h pʰ a	3 7 3 1 7	AXMBZ	SIHPA	3	3.S.C 3.I.V 3.H.c 3.P.C 3.A.V	2.0 1.5 1.1 1.75 0.8	ʃihpʰa	0	212
+355	Northeastern Pomo	LEAF	t̪ u ʔ t̪ʼ a	1 7 1 1 7	AXMBZ	TYHTA	4	4.T.C 4.Y.V 4.H.c 4.T.C 4.A.V	2.0 1.5 1.1 1.75 0.8	t̪uʔt̪ʼa	0	213
+452	Northern Pomo	LEAF	ʃ a pʰ a	3 7 1 7	AXBZ	SAPA	5	5.S.C 5.A.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	ʃapʰa	0	212
+557	Southeastern Pomo	LEAF	k i q t̪ a	1 7 1 1 7	AXMBZ	KIKTA	6	6.K.C 6.I.V 6.K.c 6.T.C 6.A.V	2.0 1.5 1.1 1.75 0.8	kiqt̪a	0	215
+660	Southern Pomo	LEAF	ʃ iː m a	3 7 4 7	AXBZ	SIMA	7	7.S.C 7.I.V 7.M.C 7.A.V	2.0 1.5 1.75 0.8	ʃiːma	0	216
+#
+46	Central Pomo	LIE (REST)	m t i	4 1 7	ACZ	MTI	1	1.M.C 1.T.C 1.I.V	2.0 1.5 0.8	mti	0	217
+147	Eastern Pomo	LIE (REST)	m e r	4 7 5	AXN	MER	2	2.M.C 2.E.V 2.R.c	2.0 1.5 0.8	mer	0	218
+255	Kashaya	LIE (REST)	m i t i	4 7 1 7	AXBZ	MITI	3	3.M.C 3.I.V 3.T.C 3.I.V	2.0 1.5 1.75 0.8	miti	0	217
+356	Northeastern Pomo	LIE (REST)	m eː r e	4 7 5 7	AXBZ	MERE	4	4.M.C 4.E.V 4.R.C 4.E.V	2.0 1.5 1.75 0.8	meːre	0	218
+453	Northern Pomo	LIE (REST)	m i t i	4 7 1 7	AXBZ	MITI	5	5.M.C 5.I.V 5.T.C 5.I.V	2.0 1.5 1.75 0.8	miti	0	217
+558	Southeastern Pomo	LIE (REST)	m a t	4 7 1	AXN	MAT	6	6.M.C 6.A.V 6.T.c	2.0 1.5 0.8	mat	0	217
+661	Southern Pomo	LIE (REST)	m iː t i	4 7 1 7	AXBZ	MITI	7	7.M.C 7.I.V 7.T.C 7.I.V	2.0 1.5 1.75 0.8	miːti	0	217
+#
+47	Central Pomo	LIVER	ʃ aː l aː	3 7 5 7	AXBZ	SALA	1	1.S.C 1.A.V 1.L.C 1.A.V	2.0 1.5 1.75 0.8	ʃaːlaː	0	219
+148	Eastern Pomo	LIVER	kʰ aː l̥ a l	1 7 5 7 5	AXBYN	KALAL	2	2.K.C 2.A.V 2.L.C 2.A.V 2.L.c	2.0 1.5 1.75 1.3 0.8	kʰaːl̥al	0	219
+256	Kashaya	LIVER	ʧ a h l aː	2 7 3 5 7	AXBCZ	CAHLA	3	3.C.C 3.A.V 3.H.C 3.L.C 3.A.V	2.0 1.5 1.75 1.5 0.8	ʧahlaː	0	219
+357	Northeastern Pomo	LIVER	ʧʰ a l aː	2 7 5 7	AXBZ	CALA	4	4.C.C 4.A.V 4.L.C 4.A.V	2.0 1.5 1.75 0.8	ʧʰalaː	0	219
+454	Northern Pomo	LIVER	ʃ a l aː	3 7 5 7	AXBZ	SALA	5	5.S.C 5.A.V 5.L.C 5.A.V	2.0 1.5 1.75 0.8	ʃalaː	0	219
+559	Southeastern Pomo	LIVER	ʃ l a l	3 5 7 5	ACXN	SLAL	6	6.S.C 6.L.C 6.A.V 6.L.c	2.0 1.5 1.5 0.8	ʃlal	0	219
+560	Southeastern Pomo	LIVER	ʃ l a l a	3 5 7 5 7	ACXBZ	SLALA	6	6.S.C 6.L.C 6.A.V 6.L.C 6.A.V	2.0 1.5 1.5 1.75 0.8	ʃlala	0	219
+662	Southern Pomo	LIVER	ʧ a l h a	2 7 5 3 7	AXMBZ	CALHA	7	7.C.C 7.A.V 7.L.c 7.H.C 7.A.V	2.0 1.5 1.1 1.75 0.8	ʧalha	0	225
+#
+48	Central Pomo	LONG	k o l	1 7 5	AXN	KUL	1	1.K.C 1.U.V 1.L.c	2.0 1.5 0.8	kol	0	226
+149	Eastern Pomo	LONG	b aː k i l	1 7 1 7 5	AXBYN	PAKIL	2	2.P.C 2.A.V 2.K.C 2.I.V 2.L.c	2.0 1.5 1.75 1.3 0.8	baːkil	0	227
+257	Kashaya	LONG	ʔ a h q o l	1 7 3 1 7 5	AXMBYN	HAHKUL	3	3.H.C 3.A.V 3.H.c 3.K.C 3.U.V 3.L.c	2.0 1.5 1.1 1.75 1.3 0.8	ʔahqol	0	228
+358	Northeastern Pomo	LONG	k o l o n	1 7 5 7 4	AXBYN	KULUN	4	4.K.C 4.U.V 4.L.C 4.U.V 4.N.c	2.0 1.5 1.75 1.3 0.8	kolon	0	229
+455	Northern Pomo	LONG	k o l	1 7 5	AXN	KUL	5	5.K.C 5.U.V 5.L.c	2.0 1.5 0.8	kol	0	226
+561	Southeastern Pomo	LONG	b i ʦ i l	1 7 2 7 5	AXBYN	PICIL	6	6.P.C 6.I.V 6.C.C 6.I.V 6.L.c	2.0 1.5 1.75 1.3 0.8	biʦil	0	227
+663	Southern Pomo	LONG	ʔ a h k o n	1 7 3 1 7 4	AXMBYN	HAHKUN	7	7.H.C 7.A.V 7.H.c 7.K.C 7.U.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ʔahkon	0	228
+#
+49	Central Pomo	LOUSE	ʧ i	2 7	AX	CI	1	1.C.C 1.I.V	2.0 1.5	ʧi	0	230
+150	Eastern Pomo	LOUSE	k iː	1 7	AX	KI	2	2.K.C 2.I.V	2.0 1.5	kiː	0	230
+258	Kashaya	LOUSE	ʔ a h ʧ i	1 7 3 2 7	AXMBZ	HAHCI	3	3.H.C 3.A.V 3.H.c 3.C.C 3.I.V	2.0 1.5 1.1 1.75 0.8	ʔahʧi	0	232
+359	Northeastern Pomo	LOUSE	t̪ i k aː	1 7 1 7	AXBZ	TIKA	4	4.T.C 4.I.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	t̪ikaː	0	233
+456	Northern Pomo	LOUSE	ʧ i	2 7	AX	CI	5	5.C.C 5.I.V	2.0 1.5	ʧi	0	230
+562	Southeastern Pomo	LOUSE	ʦ i n	2 7 4	AXN	CIN	6	6.C.C 6.I.V 6.N.c	2.0 1.5 0.8	ʦin	0	230
+664	Southern Pomo	LOUSE	ʔ a h ʧ i	1 7 3 2 7	AXMBZ	HAHCI	7	7.H.C 7.A.V 7.H.c 7.C.C 7.I.V	2.0 1.5 1.1 1.75 0.8	ʔahʧi	0	232
+#
+50	Central Pomo	MAN	b a j a	1 7 6 7	AXBZ	PAJA	1	1.P.C 1.A.V 1.J.C 1.A.V	2.0 1.5 1.75 0.8	baja	0	234
+151	Eastern Pomo	MAN	k aː kʰ	1 7 1	AXN	KAK	2	2.K.C 2.A.V 2.K.c	2.0 1.5 0.8	kaːkʰ	0	235
+259	Kashaya	MAN	h i ʔ b a j a	3 7 1 1 7 6 7	AXMBYBZ	HIHPAJA	3	3.H.C 3.I.V 3.H.c 3.P.C 3.A.V 3.J.C 3.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	hiʔbaja	0	234
+360	Northeastern Pomo	MAN	b i k i	1 7 1 7	AXBZ	PIKI	4	4.P.C 4.I.V 4.K.C 4.I.V	2.0 1.5 1.75 0.8	biki	0	237
+457	Northern Pomo	MAN	b aː	1 7	AX	PA	5	5.P.C 5.A.V	2.0 1.5	baː	0	234
+563	Southeastern Pomo	MAN	ʦ a w i	2 7 6 7	AXBZ	CAWI	6	6.C.C 6.A.V 6.W.C 6.I.V	2.0 1.5 1.75 0.8	ʦawi	0	239
+665	Southern Pomo	MAN	ʔ a ʧː a j	1 7 2 7 6	AXBYN	HACAJ	7	7.H.C 7.A.V 7.C.C 7.A.V 7.J.c	2.0 1.5 1.75 1.3 0.8	ʔaʧːaj	0	240
+#
+51	Central Pomo	MANY	t̪ʰ e d u	1 7 1 7	AXBZ	TETY	1	1.T.C 1.E.V 1.T.C 1.Y.V	2.0 1.5 1.75 0.8	t̪ʰedu	0	241
+260	Kashaya	MANY	b a tʰ eː	1 7 1 7	AXBZ	PATE	3	3.P.C 3.A.V 3.T.C 3.E.V	2.0 1.5 1.75 0.8	batʰeː	0	242
+361	Northeastern Pomo	MANY	b a h tʰ e	1 7 3 1 7	AXMBZ	PAHTE	4	4.P.C 4.A.V 4.H.c 4.T.C 4.E.V	2.0 1.5 1.1 1.75 0.8	bahtʰe	0	242
+458	Northern Pomo	MANY	b a tʰ e	1 7 1 7	AXBZ	PATE	5	5.P.C 5.A.V 5.T.C 5.E.V	2.0 1.5 1.75 0.8	batʰe	0	242
+564	Southeastern Pomo	MANY	b i t e q a	1 7 1 7 1 7	AXBYBZ	PITEKA	6	6.P.C 6.I.V 6.T.C 6.E.V 6.K.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	biteqa	0	242
+666	Southern Pomo	MANY	b a h tʰ e	1 7 3 1 7	AXMBZ	PAHTE	7	7.P.C 7.A.V 7.H.c 7.T.C 7.E.V	2.0 1.5 1.1 1.75 0.8	bahtʰe	1	242
+#
+52	Central Pomo	MEAT	pʼ ʃ e	1 3 7	ACX	PSE	1	1.P.C 1.S.C 1.E.V	2.0 1.5 1.5	pʼʃe	0	243
+152	Eastern Pomo	MEAT	b iː ʃ e	1 7 3 7	AXBZ	PISE	2	2.P.C 2.I.V 2.S.C 2.E.V	2.0 1.5 1.75 0.8	biːʃe	0	243
+261	Kashaya	MEAT	b i h ʃ e	1 7 3 3 7	AXMBZ	PIHSE	3	3.P.C 3.I.V 3.H.c 3.S.C 3.E.V	2.0 1.5 1.1 1.75 0.8	bihʃe	0	243
+362	Northeastern Pomo	MEAT	b e h ʃ e	1 7 3 3 7	AXMBZ	PEHSE	4	4.P.C 4.E.V 4.H.c 4.S.C 4.E.V	2.0 1.5 1.1 1.75 0.8	behʃe	0	243
+459	Northern Pomo	MEAT	b i ʃ e	1 7 3 7	AXBZ	PISE	5	5.P.C 5.I.V 5.S.C 5.E.V	2.0 1.5 1.75 0.8	biʃe	0	243
+565	Southeastern Pomo	MEAT	b x e	1 3 7	ACX	PGE	6	6.P.C 6.G.C 6.E.V	2.0 1.5 1.5	bxe	0	243
+667	Southern Pomo	MEAT	b e h ʃ e	1 7 3 3 7	AXMBZ	PEHSE	7	7.P.C 7.E.V 7.H.c 7.S.C 7.E.V	2.0 1.5 1.1 1.75 0.8	behʃe	0	243
+#
+53	Central Pomo	MOON	l aː ʃ a	5 7 3 7	AXBZ	LASA	1	1.L.C 1.A.V 1.S.C 1.A.V	2.0 1.5 1.75 0.8	laːʃa	0	244
+153	Eastern Pomo	MOON	d uː w e l aː	1 7 6 7 5 7	AXBYBZ	TYWELA	2	2.T.C 2.Y.V 2.W.C 2.E.V 2.L.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	duːwelaː	0	245
+262	Kashaya	MOON	qʼ a l aː ʃ a	1 7 5 7 3 7	AXBYBZ	KALASA	3	3.K.C 3.A.V 3.L.C 3.A.V 3.S.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	qʼalaːʃa	0	244
+363	Northeastern Pomo	MOON	d u w e d a k aː	1 7 6 7 1 7 1 7	AXBYBYBZ	TYWETAKA	4	4.T.C 4.Y.V 4.W.C 4.E.V 4.T.C 4.A.V 4.K.C 4.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	duwedakaː	0	245
+460	Northern Pomo	MOON	d a	1 7	AX	TA	5	5.T.C 5.A.V	2.0 1.5	da	0	248
+566	Southeastern Pomo	MOON	ʔ e w e d a	1 7 6 7 1 7	AXBYBZ	HEWETA	6	6.H.C 6.E.V 6.W.C 6.E.V 6.T.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ʔeweda	0	245
+668	Southern Pomo	MOON	ʔ a lː aː ʃ a	1 7 5 7 3 7	AXBYBZ	HALASA	7	7.H.C 7.A.V 7.L.C 7.A.V 7.S.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ʔalːaːʃa	0	244
+#
+54	Central Pomo	MOUNTAIN	d aː n o	1 7 4 7	AXBZ	TANU	1	1.T.C 1.A.V 1.N.C 1.U.V	2.0 1.5 1.75 0.8	daːno	0	249
+154	Eastern Pomo	MOUNTAIN	d aː n o	1 7 4 7	AXBZ	TANU	2	2.T.C 2.A.V 2.N.C 2.U.V	2.0 1.5 1.75 0.8	daːno	0	249
+263	Kashaya	MOUNTAIN	d o n o	1 7 4 7	AXBZ	TUNU	3	3.T.C 3.U.V 3.N.C 3.U.V	2.0 1.5 1.75 0.8	dono	0	249
+364	Northeastern Pomo	MOUNTAIN	w i ʃ aː	6 7 3 7	AXBZ	WISA	4	4.W.C 4.I.V 4.S.C 4.A.V	2.0 1.5 1.75 0.8	wiʃaː	0	252
+461	Northern Pomo	MOUNTAIN	d a n o	1 7 4 7	AXBZ	TANU	5	5.T.C 5.A.V 5.N.C 5.U.V	2.0 1.5 1.75 0.8	dano	0	249
+567	Southeastern Pomo	MOUNTAIN	k n o	1 4 7	ACX	KNU	6	6.K.C 6.N.C 6.U.V	2.0 1.5 1.5	kno	0	254
+669	Southern Pomo	MOUNTAIN	d oː n o	1 7 4 7	AXBZ	TUNU	7	7.T.C 7.U.V 7.N.C 7.U.V	2.0 1.5 1.75 0.8	doːno	0	249
+#
+55	Central Pomo	MOUTH	h a	3 7	AX	HA	1	1.H.C 1.A.V	2.0 1.5	ha	0	255
+155	Eastern Pomo	MOUTH	x a ʦʼ iː d a	3 7 2 7 1 7	AXBYBZ	GACITA	2	2.G.C 2.A.V 2.C.C 2.I.V 2.T.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	xaʦʼiːda	0	256
+264	Kashaya	MOUTH	ʔ a h a	1 7 3 7	AXBZ	HAHA	3	3.H.C 3.A.V 3.H.C 3.A.V	2.0 1.5 1.75 0.8	ʔaha	0	255
+365	Northeastern Pomo	MOUTH	h a m o	3 7 4 7	AXBZ	HAMU	4	4.H.C 4.A.V 4.M.C 4.U.V	2.0 1.5 1.75 0.8	hamo	0	255
+462	Northern Pomo	MOUTH	h a	3 7	AX	HA	5	5.H.C 5.A.V	2.0 1.5	ha	0	255
+568	Southeastern Pomo	MOUTH	χ a s t̪ o	3 7 3 1 7	AXMBZ	GASTU	6	6.G.C 6.A.V 6.S.c 6.T.C 6.U.V	2.0 1.5 1.1 1.75 0.8	χast̪o	0	256
+670	Southern Pomo	MOUTH	ʔ a hː a	1 7 3 7	AXBZ	HAHA	7	7.H.C 7.A.V 7.H.C 7.A.V	2.0 1.5 1.75 0.8	ʔahːa	0	255
+#
+56	Central Pomo	NAME	ʃ i	3 7	AX	SI	1	1.S.C 1.I.V	2.0 1.5	ʃi	0	257
+156	Eastern Pomo	NAME	ʃ i	3 7	AX	SI	2	2.S.C 2.I.V	2.0 1.5	ʃi	0	257
+265	Kashaya	NAME	ʃ i h ʧ i m aː ʧʼ	3 7 3 2 7 4 7 2	AXMBYBYN	SIHCIMAC	3	3.S.C 3.I.V 3.H.c 3.C.C 3.I.V 3.M.C 3.A.V 3.C.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	ʃihʧimaːʧʼ	0	259
+366	Northeastern Pomo	NAME	a h ʃ i n	7 3 3 7 4	XMBYN	AHSIN	4	4.A.V 4.H.c 4.S.C 4.I.V 4.N.c	1.5 1.1 1.75 1.3 0.8	ahʃin	0	260
+463	Northern Pomo	NAME	ʃ i	3 7	AX	SI	5	5.S.C 5.I.V	2.0 1.5	ʃi	0	257
+569	Southeastern Pomo	NAME	x i	3 7	AX	GI	6	6.G.C 6.I.V	2.0 1.5	xi	0	257
+671	Southern Pomo	NAME	ʔ a h ʃ iː j a w	1 7 3 3 7 6 7 6	AXMBYBYN	HAHSIJAW	7	7.H.C 7.A.V 7.H.c 7.S.C 7.I.V 7.J.C 7.A.V 7.W.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	ʔahʃiːjaw	0	263
+#
+201	Eastern Pomo	NEAR	t̪ʰ iː b a l	1 7 1 7 5	AXBYN	TIPAL	2	2.T.C 2.I.V 2.P.C 2.A.V 2.L.c	2.0 1.5 1.75 1.3 0.8	t̪ʰiːbal	0	264
+#
+57	Central Pomo	NECK	m j a	4 6 7	ACX	MJA	1	1.M.C 1.J.C 1.A.V	2.0 1.5 1.5	mja	0	265
+157	Eastern Pomo	NECK	qʼ o j	1 7 6	AXN	KUJ	2	2.K.C 2.U.V 2.J.c	2.0 1.5 0.8	qʼoj	0	266
+266	Kashaya	NECK	m i h j a	4 7 3 6 7	AXBCZ	MIHJA	3	3.M.C 3.I.V 3.H.C 3.J.C 3.A.V	2.0 1.5 1.75 1.5 0.8	mihja	0	265
+367	Northeastern Pomo	NECK	h u ʔ kʼ a	3 7 1 1 7	AXMBZ	HYHKA	4	4.H.C 4.Y.V 4.H.c 4.K.C 4.A.V	2.0 1.5 1.1 1.75 0.8	huʔkʼa	0	268
+464	Northern Pomo	NECK	kʰ u	1 7	AX	KY	5	5.K.C 5.Y.V	2.0 1.5	kʰu	0	269
+570	Southeastern Pomo	NECK	qʼ o j	1 7 6	AXN	KUJ	6	6.K.C 6.U.V 6.J.c	2.0 1.5 0.8	qʼoj	0	266
+672	Southern Pomo	NECK	m i h j a	4 7 3 6 7	AXBCZ	MIHJA	7	7.M.C 7.I.V 7.H.C 7.J.C 7.A.V	2.0 1.5 1.75 1.5 0.8	mihja	0	265
+#
+58	Central Pomo	NEW	ʃ w e j	3 6 7 6	ACXN	SWEJ	1	1.S.C 1.W.C 1.E.V 1.J.c	2.0 1.5 1.5 0.8	ʃwej	0	270
+158	Eastern Pomo	NEW	ʃ iː w e j	3 7 6 7 6	AXBYN	SIWEJ	2	2.S.C 2.I.V 2.W.C 2.E.V 2.J.c	2.0 1.5 1.75 1.3 0.8	ʃiːwej	0	270
+267	Kashaya	NEW	ʃ i w e j	3 7 6 7 6	AXBYN	SIWEJ	3	3.S.C 3.I.V 3.W.C 3.E.V 3.J.c	2.0 1.5 1.75 1.3 0.8	ʃiwej	0	270
+368	Northeastern Pomo	NEW	ʃ e w e j	3 7 6 7 6	AXBYN	SEWEJ	4	4.S.C 4.E.V 4.W.C 4.E.V 4.J.c	2.0 1.5 1.75 1.3 0.8	ʃewej	0	270
+465	Northern Pomo	NEW	ʃ i w e j	3 7 6 7 6	AXBYN	SIWEJ	5	5.S.C 5.I.V 5.W.C 5.E.V 5.J.c	2.0 1.5 1.75 1.3 0.8	ʃiwej	0	270
+571	Southeastern Pomo	NEW	q e	1 7	AX	KE	6	6.K.C 6.E.V	2.0 1.5	qe	0	275
+673	Southern Pomo	NEW	ʃ eː w e j	3 7 6 7 6	AXBYN	SEWEJ	7	7.S.C 7.E.V 7.W.C 7.E.V 7.J.c	2.0 1.5 1.75 1.3 0.8	ʃeːwej	0	270
+#
+59	Central Pomo	NIGHT	ʔ aː w e	1 7 6 7	AXBZ	HAWE	1	1.H.C 1.A.V 1.W.C 1.E.V	2.0 1.5 1.75 0.8	ʔaːwe	0	276
+159	Eastern Pomo	NIGHT	d uː w e	1 7 6 7	AXBZ	TYWE	2	2.T.C 2.Y.V 2.W.C 2.E.V	2.0 1.5 1.75 0.8	duːwe	0	276
+268	Kashaya	NIGHT	d u w e	1 7 6 7	AXBZ	TYWE	3	3.T.C 3.Y.V 3.W.C 3.E.V	2.0 1.5 1.75 0.8	duwe	0	276
+369	Northeastern Pomo	NIGHT	d u w e	1 7 6 7	AXBZ	TYWE	4	4.T.C 4.Y.V 4.W.C 4.E.V	2.0 1.5 1.75 0.8	duwe	0	276
+466	Northern Pomo	NIGHT	d i w e	1 7 6 7	AXBZ	TIWE	5	5.T.C 5.I.V 5.W.C 5.E.V	2.0 1.5 1.75 0.8	diwe	0	276
+572	Southeastern Pomo	NIGHT	ʔ e w e	1 7 6 7	AXBZ	HEWE	6	6.H.C 6.E.V 6.W.C 6.E.V	2.0 1.5 1.75 0.8	ʔewe	0	276
+674	Southern Pomo	NIGHT	d uː w e	1 7 6 7	AXBZ	TYWE	7	7.T.C 7.Y.V 7.W.C 7.E.V	2.0 1.5 1.75 0.8	duːwe	0	276
+#
+60	Central Pomo	NOSE	l a	5 7	AX	LA	1	1.L.C 1.A.V	2.0 1.5	la	0	277
+160	Eastern Pomo	NOSE	l a b oː b o	5 7 1 7 1 7	AXBYBZ	LAPUPU	2	2.L.C 2.A.V 2.P.C 2.U.V 2.P.C 2.U.V	2.0 1.5 1.75 1.3 1.75 0.8	laboːbo	0	277
+269	Kashaya	NOSE	ʔ i l a	1 7 5 7	AXBZ	HILA	3	3.H.C 3.I.V 3.L.C 3.A.V	2.0 1.5 1.75 0.8	ʔila	0	277
+370	Northeastern Pomo	NOSE	l i m o	5 7 4 7	AXBZ	LIMU	4	4.L.C 4.I.V 4.M.C 4.U.V	2.0 1.5 1.75 0.8	limo	0	280
+467	Northern Pomo	NOSE	l a	5 7	AX	LA	5	5.L.C 5.A.V	2.0 1.5	la	0	277
+573	Southeastern Pomo	NOSE	l a	5 7	AX	LA	6	6.L.C 6.A.V	2.0 1.5	la	0	277
+675	Southern Pomo	NOSE	h iː l a m ʔ d a	3 7 5 7 4 1 1 7	AXBYLMBZ	HILAMHTA	7	7.H.C 7.I.V 7.L.C 7.A.V 7.M.c 7.H.c 7.T.C 7.A.V	2.0 1.5 1.75 1.3 1.1 1.1 1.75 0.8	hiːlamʔda	0	283
+#
+61	Central Pomo	NOT	ʧʰ o w	2 7 6	AXN	CUW	1	1.C.C 1.U.V 1.W.c	2.0 1.5 0.8	ʧʰow	0	284
+161	Eastern Pomo	NOT	kʰ u j	1 7 6	AXN	KYJ	2	2.K.C 2.Y.V 2.J.c	2.0 1.5 0.8	kʰuj	0	285
+270	Kashaya	NOT	t̪ʰ i n	1 7 4	AXN	TIN	3	3.T.C 3.I.V 3.N.c	2.0 1.5 0.8	t̪ʰin	0	286
+371	Northeastern Pomo	NOT	ʧʰ oː t̪ o n	2 7 1 7 4	AXBYN	CUTUN	4	4.C.C 4.U.V 4.T.C 4.U.V 4.N.c	2.0 1.5 1.75 1.3 0.8	ʧʰoːt̪on	0	287
+468	Northern Pomo	NOT	kʼ o	1 7	AX	KU	5	5.K.C 5.U.V	2.0 1.5	kʼo	0	288
+574	Southeastern Pomo	NOT	d a	1 7	AX	TA	6	6.T.C 6.A.V	2.0 1.5	da	0	289
+676	Southern Pomo	NOT	t̪ʰ o t̪ʰ	1 7 1	AXN	TUT	7	7.T.C 7.U.V 7.T.c	2.0 1.5 0.8	t̪ʰot̪ʰ	0	290
+#
+62	Central Pomo	ONE	tʼ aː tʼ o	1 7 1 7	AXBZ	TATU	1	1.T.C 1.A.V 1.T.C 1.U.V	2.0 1.5 1.75 0.8	tʼaːtʼo	0	291
+162	Eastern Pomo	ONE	kʼ a l i	1 7 5 7	AXBZ	KALI	2	2.K.C 2.A.V 2.L.C 2.I.V	2.0 1.5 1.75 0.8	kʼali	0	292
+271	Kashaya	ONE	h k u	3 1 7	ACZ	HKY	3	3.H.C 3.K.C 3.Y.V	2.0 1.5 0.8	hku	0	293
+372	Northeastern Pomo	ONE	ʧʼ aː k i	2 7 1 7	AXBZ	CAKI	4	4.C.C 4.A.V 4.K.C 4.I.V	2.0 1.5 1.75 0.8	ʧʼaːki	0	294
+469	Northern Pomo	ONE	ʧʼ aː	2 7	AX	CA	5	5.C.C 5.A.V	2.0 1.5	ʧʼaː	0	294
+575	Southeastern Pomo	ONE	d a n	1 7 4	AXN	TAN	6	6.T.C 6.A.V 6.N.c	2.0 1.5 0.8	dan	0	296
+677	Southern Pomo	ONE	ʧʼ aː ʔ a	2 7 1 7	AXBZ	CAHA	7	7.C.C 7.A.V 7.H.C 7.A.V	2.0 1.5 1.75 0.8	ʧʼaːʔa	0	294
+#
+63	Central Pomo	PERSON	ʧ aː ʧʼ	2 7 2	AXN	CAC	1	1.C.C 1.A.V 1.C.c	2.0 1.5 0.8	ʧaːʧʼ	0	297
+163	Eastern Pomo	PERSON	k aː w kʰ	1 7 6 1	AXLN	KAWK	2	2.K.C 2.A.V 2.W.c 2.K.c	2.0 1.5 1.1 0.8	kaːwkʰ	0	298
+272	Kashaya	PERSON	ʔ a ʧ aː ʧ	1 7 2 7 2	AXBYN	HACAC	3	3.H.C 3.A.V 3.C.C 3.A.V 3.C.c	2.0 1.5 1.75 1.3 0.8	ʔaʧaːʧ	0	297
+373	Northeastern Pomo	PERSON	t̪ aː t̪ k aː	1 7 1 1 7	AXMBZ	TATKA	4	4.T.C 4.A.V 4.T.c 4.K.C 4.A.V	2.0 1.5 1.1 1.75 0.8	t̪aːt̪kaː	0	300
+470	Northern Pomo	PERSON	ʧ a ʔ	2 7 1	AXN	CAH	5	5.C.C 5.A.V 5.H.c	2.0 1.5 0.8	ʧaʔ	0	301
+576	Southeastern Pomo	PERSON	ʔ u m t̪ i w i	1 7 4 1 7 6 7	AXMBYBZ	HYMTIWI	6	6.H.C 6.Y.V 6.M.c 6.T.C 6.I.V 6.W.C 6.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʔumt̪iwi	0	302
+678	Southern Pomo	PERSON	ʔ a h ʧ a h ʧ e j	1 7 3 2 7 3 2 7 6	AXMBYMBYN	HAHCAHCEJ	7	7.H.C 7.A.V 7.H.c 7.C.C 7.A.V 7.H.c 7.C.C 7.E.V 7.J.c	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 0.8	ʔahʧahʧej	0	297
+#
+64	Central Pomo	RAIN (PRECIPITATION)	ʧʰ e	2 7	AX	CE	1	1.C.C 1.E.V	2.0 1.5	ʧʰe	0	303
+164	Eastern Pomo	RAIN (PRECIPITATION)	kʰ iː k eː	1 7 1 7	AXBZ	KIKE	2	2.K.C 2.I.V 2.K.C 2.E.V	2.0 1.5 1.75 0.8	kʰiːkeː	0	303
+273	Kashaya	RAIN (PRECIPITATION)	ʔ i h ʧʰ e	1 7 3 2 7	AXMBZ	HIHCE	3	3.H.C 3.I.V 3.H.c 3.C.C 3.E.V	2.0 1.5 1.1 1.75 0.8	ʔihʧʰe	0	303
+374	Northeastern Pomo	RAIN (PRECIPITATION)	ʃ i ʔ t̪ʼ oː n	3 7 1 1 7 4	AXMBYN	SIHTUN	4	4.S.C 4.I.V 4.H.c 4.T.C 4.U.V 4.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ʃiʔt̪ʼoːn	0	306
+471	Northern Pomo	RAIN (PRECIPITATION)	b i ʃ e m aː	1 7 3 7 4 7	AXBYBZ	PISEMA	5	5.P.C 5.I.V 5.S.C 5.E.V 5.M.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	biʃemaː	0	307
+577	Southeastern Pomo	RAIN (PRECIPITATION)	s ʦʼ e n	3 2 7 4	ACYN	SCEN	6	6.S.C 6.C.C 6.E.V 6.N.c	2.0 1.5 1.3 0.8	sʦʼen	0	303
+679	Southern Pomo	RAIN (PRECIPITATION)	ʧ e h ʧʰ e	2 7 3 2 7	AXMBZ	CEHCE	7	7.C.C 7.E.V 7.H.c 7.C.C 7.E.V	2.0 1.5 1.1 1.75 0.8	ʧehʧʰe	0	303
+#
+65	Central Pomo	RED	tʼ a s	1 7 3	AXN	TAS	1	1.T.C 1.A.V 1.S.c	2.0 1.5 0.8	tʼas	0	308
+165	Eastern Pomo	RED	qʼ e d a qʼ e d a kʰ	1 7 1 7 1 7 1 7 1	AXBYBYBYN	KETAKETAK	2	2.K.C 2.E.V 2.T.C 2.A.V 2.K.C 2.E.V 2.T.C 2.A.V 2.K.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	qʼedaqʼedakʰ	0	309
+274	Kashaya	RED	kʼ iː s	1 7 3	AXN	KIS	3	3.K.C 3.I.V 3.S.c	2.0 1.5 0.8	kʼiːs	0	310
+375	Northeastern Pomo	RED	ʧʼ a b a r a n	2 7 1 7 5 7 4	AXBYBYN	CAPARAN	4	4.C.C 4.A.V 4.P.C 4.A.V 4.R.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʧʼabaran	0	311
+472	Northern Pomo	RED	t̪ʼ a ʦʼ	1 7 2	AXN	TAC	5	5.T.C 5.A.V 5.C.c	2.0 1.5 0.8	t̪ʼaʦʼ	0	312
+578	Southeastern Pomo	RED	t̪ʼ a n t̪ʼ a n	1 7 4 1 7 4	AXMBYN	TANTAN	6	6.T.C 6.A.V 6.N.c 6.T.C 6.A.V 6.N.c	2.0 1.5 1.1 1.75 1.3 0.8	t̪ʼant̪ʼan	0	313
+680	Southern Pomo	RED	h a tʼː a	3 7 1 7	AXBZ	HATA	7	7.H.C 7.A.V 7.T.C 7.A.V	2.0 1.5 1.75 0.8	hatʼːa	0	314
+#
+66	Central Pomo	ROAD	d a	1 7	AX	TA	1	1.T.C 1.A.V	2.0 1.5	da	0	315
+166	Eastern Pomo	ROAD	d a d a j	1 7 1 7 6	AXBYN	TATAJ	2	2.T.C 2.A.V 2.T.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 0.8	dadaj	0	316
+275	Kashaya	ROAD	h i ʔ d a	3 7 1 1 7	AXMBZ	HIHTA	3	3.H.C 3.I.V 3.H.c 3.T.C 3.A.V	2.0 1.5 1.1 1.75 0.8	hiʔda	0	317
+376	Northeastern Pomo	ROAD	d a	1 7	AX	TA	4	4.T.C 4.A.V	2.0 1.5	da	0	315
+473	Northern Pomo	ROAD	d a	1 7	AX	TA	5	5.T.C 5.A.V	2.0 1.5	da	1	315
+579	Southeastern Pomo	ROAD	d a w a	1 7 6 7	AXBZ	TAWA	6	6.T.C 6.A.V 6.W.C 6.A.V	2.0 1.5 1.75 0.8	dawa	0	315
+681	Southern Pomo	ROAD	h i ʔ d a	3 7 1 1 7	AXMBZ	HIHTA	7	7.H.C 7.I.V 7.H.c 7.T.C 7.A.V	2.0 1.5 1.1 1.75 0.8	hiʔda	0	317
+#
+67	Central Pomo	ROOT	s aː m a	3 7 4 7	AXBZ	SAMA	1	1.S.C 1.A.V 1.M.C 1.A.V	2.0 1.5 1.75 0.8	saːma	0	318
+167	Eastern Pomo	ROOT	ʦʰ i ʦʰ	2 7 2	AXN	CIC	2	2.C.C 2.I.V 2.C.c	2.0 1.5 0.8	ʦʰiʦʰ	0	319
+276	Kashaya	ROOT	ʔ i h qʰ o t	1 7 3 1 7 1	AXMBYN	HIHKUT	3	3.H.C 3.I.V 3.H.c 3.K.C 3.U.V 3.T.c	2.0 1.5 1.1 1.75 1.3 0.8	ʔihqʰot	0	320
+474	Northern Pomo	ROOT	j e m	6 7 4	AXN	JEM	5	5.J.C 5.E.V 5.M.c	2.0 1.5 0.8	jem	0	321
+580	Southeastern Pomo	ROOT	s u m a	3 7 4 7	AXBZ	SYMA	6	6.S.C 6.Y.V 6.M.C 6.A.V	2.0 1.5 1.75 0.8	suma	0	318
+682	Southern Pomo	ROOT	s uː l e n	3 7 5 7 4	AXBYN	SYLEN	7	7.S.C 7.Y.V 7.L.C 7.E.V 7.N.c	2.0 1.5 1.75 1.3 0.8	suːlen	0	323
+#
+68	Central Pomo	ROUND	ʃ b o kʼ	3 1 7 1	ACYN	SPUK	1	1.S.C 1.P.C 1.U.V 1.K.c	2.0 1.5 1.3 0.8	ʃbokʼ	0	324
+277	Kashaya	ROUND	p o l oː l o	1 7 5 7 5 7	AXBYBZ	PULULU	3	3.P.C 3.U.V 3.L.C 3.U.V 3.L.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	poloːlo	0	325
+377	Northeastern Pomo	ROUND	m u k aː k a n	4 7 1 7 1 7 4	AXBYBYN	MYKAKAN	4	4.M.C 4.Y.V 4.K.C 4.A.V 4.K.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mukaːkan	0	326
+475	Northern Pomo	ROUND	ʧʼ a d o l	2 7 1 7 5	AXBYN	CATUL	5	5.C.C 5.A.V 5.T.C 5.U.V 5.L.c	2.0 1.5 1.75 1.3 0.8	ʧʼadol	0	327
+581	Southeastern Pomo	ROUND	b u n b u n	1 7 4 1 7 4	AXMBYN	PYNPYN	6	6.P.C 6.Y.V 6.N.c 6.P.C 6.Y.V 6.N.c	2.0 1.5 1.1 1.75 1.3 0.8	bunbun	0	328
+683	Southern Pomo	ROUND	l u pː u	5 7 1 7	AXBZ	LYPY	7	7.L.C 7.Y.V 7.P.C 7.Y.V	2.0 1.5 1.75 0.8	lupːu	0	329
+#
+202	Eastern Pomo	SALT	kʰ eː ʔ eː	1 7 1 7	AXBZ	KEHE	2	2.K.C 2.E.V 2.H.C 2.E.V	2.0 1.5 1.75 0.8	kʰeːʔeː	0	330
+309	Kashaya	SALT	t a ʔ qʼ o	1 7 1 1 7	AXMBZ	TAHKU	3	3.T.C 3.A.V 3.H.c 3.K.C 3.U.V	2.0 1.5 1.1 1.75 0.8	taʔqʼo	0	331
+405	Northeastern Pomo	SALT	ʧʰ e ʔ eː	2 7 1 7	AXBZ	CEHE	4	4.C.C 4.E.V 4.H.C 4.E.V	2.0 1.5 1.75 0.8	ʧʰeʔeː	0	330
+508	Northern Pomo	SALT	ʃ e ʔ eː	3 7 1 7	AXBZ	SEHE	5	5.S.C 5.E.V 5.H.C 5.E.V	2.0 1.5 1.75 0.8	ʃeʔeː	0	330
+714	Southern Pomo	SALT	t a ʔ kʼ o	1 7 1 1 7	AXMBZ	TAHKU	7	7.T.C 7.A.V 7.H.c 7.K.C 7.U.V	2.0 1.5 1.1 1.75 0.8	taʔkʼo	0	331
+#
+69	Central Pomo	SAND	m ʦ a tʼ	4 2 7 1	ACYN	MCAT	1	1.M.C 1.C.C 1.A.V 1.T.c	2.0 1.5 1.3 0.8	mʦatʼ	0	332
+168	Eastern Pomo	SAND	tʰ aː ʔ aː	1 7 1 7	AXBZ	TAHA	2	2.T.C 2.A.V 2.H.C 2.A.V	2.0 1.5 1.75 0.8	tʰaːʔaː	0	333
+278	Kashaya	SAND	m i t a ʧ	4 7 1 7 2	AXBYN	MITAC	3	3.M.C 3.I.V 3.T.C 3.A.V 3.C.c	2.0 1.5 1.75 1.3 0.8	mitaʧ	0	334
+378	Northeastern Pomo	SAND	h i n o	3 7 4 7	AXBZ	HINU	4	4.H.C 4.I.V 4.N.C 4.U.V	2.0 1.5 1.75 0.8	hino	0	335
+476	Northern Pomo	SAND	m i ʧ a tʼ	4 7 2 7 1	AXBYN	MICAT	5	5.M.C 5.I.V 5.C.C 5.A.V 5.T.c	2.0 1.5 1.75 1.3 0.8	miʧatʼ	0	336
+582	Southeastern Pomo	SAND	m a t̪ a k	4 7 1 7 1	AXBYN	MATAK	6	6.M.C 6.A.V 6.T.C 6.A.V 6.K.c	2.0 1.5 1.75 1.3 0.8	mat̪ak	0	334
+684	Southern Pomo	SAND	m iː t a j	4 7 1 7 6	AXBYN	MITAJ	7	7.M.C 7.I.V 7.T.C 7.A.V 7.J.c	2.0 1.5 1.75 1.3 0.8	miːtaj	0	334
+#
+70	Central Pomo	SAY	m i	4 7	AX	MI	1	1.M.C 1.I.V	2.0 1.5	mi	0	337
+169	Eastern Pomo	SAY	n̥ iː	4 7	AX	NI	2	2.N.C 2.I.V	2.0 1.5	n̥iː	0	338
+279	Kashaya	SAY	n i h ʧ e	4 7 3 2 7	AXMBZ	NIHCE	3	3.N.C 3.I.V 3.H.c 3.C.C 3.E.V	2.0 1.5 1.1 1.75 0.8	nihʧe	0	338
+379	Northeastern Pomo	SAY	w eː n	6 7 4	AXN	WEN	4	4.W.C 4.E.V 4.N.c	2.0 1.5 0.8	weːn	0	340
+477	Northern Pomo	SAY	h e ʔ	3 7 1	AXN	HEH	5	5.H.C 5.E.V 5.H.c	2.0 1.5 0.8	heʔ	0	341
+583	Southeastern Pomo	SAY	m u w a t̪ a	4 7 6 7 1 7	AXBYBZ	MYWATA	6	6.M.C 6.Y.V 6.W.C 6.A.V 6.T.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	muwat̪a	0	342
+685	Southern Pomo	SAY	ʧ a h n u	2 7 3 4 7	AXBCZ	CAHNY	7	7.C.C 7.A.V 7.H.C 7.N.C 7.Y.V	2.0 1.5 1.75 1.5 0.8	ʧahnu	0	343
+#
+71	Central Pomo	SEE	pʰ w i	1 6 7	ACX	PWI	1	1.P.C 1.W.C 1.I.V	2.0 1.5 1.5	pʰwi	0	344
+170	Eastern Pomo	SEE	k aː r	1 7 5	AXN	KAR	2	2.K.C 2.A.V 2.R.c	2.0 1.5 0.8	kaːr	0	345
+280	Kashaya	SEE	ʧ a d	2 7 1	AXN	CAT	3	3.C.C 3.A.V 3.T.c	2.0 1.5 0.8	ʧad	0	346
+380	Northeastern Pomo	SEE	t̪ aː n	1 7 4	AXN	TAN	4	4.T.C 4.A.V 4.N.c	2.0 1.5 0.8	t̪aːn	0	347
+478	Northern Pomo	SEE	ʧ a d i	2 7 1 7	AXBZ	CATI	5	5.C.C 5.A.V 5.T.C 5.I.V	2.0 1.5 1.75 0.8	ʧadi	0	346
+584	Southeastern Pomo	SEE	m q o	4 1 7	ACZ	MKU	6	6.M.C 6.K.C 6.U.V	2.0 1.5 0.8	mqo	0	349
+686	Southern Pomo	SEE	ʧ aː d	2 7 1	AXN	CAT	7	7.C.C 7.A.V 7.T.c	2.0 1.5 0.8	ʧaːd	0	346
+#
+72	Central Pomo	SEED	s e m i j a	3 7 4 7 6 7	AXBYBZ	SEMIJA	1	1.S.C 1.E.V 1.M.C 1.I.V 1.J.C 1.A.V	2.0 1.5 1.75 1.3 1.75 0.8	semija	0	350
+171	Eastern Pomo	SEED	q aː s o j	1 7 3 7 6	AXBYN	KASUJ	2	2.K.C 2.A.V 2.S.C 2.U.V 2.J.c	2.0 1.5 1.75 1.3 0.8	qaːsoj	0	351
+281	Kashaya	SEED	s e m iː j a	3 7 4 7 6 7	AXBYBZ	SEMIJA	3	3.S.C 3.E.V 3.M.C 3.I.V 3.J.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	semiːja	0	350
+479	Northern Pomo	SEED	s oː	3 7	AX	SU	5	5.S.C 5.U.V	2.0 1.5	soː	0	351
+585	Southeastern Pomo	SEED	s e m e j a	3 7 4 7 6 7	AXBYBZ	SEMEJA	6	6.S.C 6.E.V 6.M.C 6.E.V 6.J.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	semeja	0	350
+687	Southern Pomo	SEED	s i m iː j a	3 7 4 7 6 7	AXBYBZ	SIMIJA	7	7.S.C 7.I.V 7.M.C 7.I.V 7.J.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	simiːja	0	350
+#
+203	Eastern Pomo	SHORT	b u ʔ u ʧʼ	1 7 1 7 2	AXBYN	PYHYC	2	2.P.C 2.Y.V 2.H.C 2.Y.V 2.C.c	2.0 1.5 1.75 1.3 0.8	buʔuʧʼ	0	352
+#
+73	Central Pomo	SIT	ʔ aː ʧʰ a	1 7 2 7	AXBZ	HACA	1	1.H.C 1.A.V 1.C.C 1.A.V	2.0 1.5 1.75 0.8	ʔaːʧʰa	0	353
+172	Eastern Pomo	SIT	k aː	1 7	AX	KA	2	2.K.C 2.A.V	2.0 1.5	kaː	0	353
+282	Kashaya	SIT	ʧ a	2 7	AX	CA	3	3.C.C 3.A.V	2.0 1.5	ʧa	1	353
+381	Northeastern Pomo	SIT	t̪ u m a n	1 7 4 7 4	AXBYN	TYMAN	4	4.T.C 4.Y.V 4.M.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 0.8	t̪uman	0	356
+480	Northern Pomo	SIT	ʧ i m a	2 7 4 7	AXBZ	CIMA	5	5.C.C 5.I.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	ʧima	0	356
+586	Southeastern Pomo	SIT	s ʦʼ a	3 2 7	ACZ	SCA	6	6.S.C 6.C.C 6.A.V	2.0 1.5 0.8	sʦʼa	0	358
+688	Southern Pomo	SIT	ʧ iː j o	2 7 6 7	AXBZ	CIJU	7	7.C.C 7.I.V 7.J.C 7.U.V	2.0 1.5 1.75 0.8	ʧiːjo	0	359
+#
+74	Central Pomo	SKIN	ʦʼ d a	2 1 7	ACZ	CTA	1	1.C.C 1.T.C 1.A.V	2.0 1.5 0.8	ʦʼda	0	360
+173	Eastern Pomo	SKIN	ʦʼ iː d a	2 7 1 7	AXBZ	CITA	2	2.C.C 2.I.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	ʦʼiːda	0	360
+283	Kashaya	SKIN	ʦʼ i ʔ d a	2 7 1 1 7	AXMBZ	CIHTA	3	3.C.C 3.I.V 3.H.c 3.T.C 3.A.V	2.0 1.5 1.1 1.75 0.8	ʦʼiʔda	0	360
+382	Northeastern Pomo	SKIN	ʃ uː r u	3 7 5 7	AXBZ	SYRY	4	4.S.C 4.Y.V 4.R.C 4.Y.V	2.0 1.5 1.75 0.8	ʃuːru	0	363
+481	Northern Pomo	SKIN	s i j a n	3 7 6 7 4	AXBYN	SIJAN	5	5.S.C 5.I.V 5.J.C 5.A.V 5.N.c	2.0 1.5 1.75 1.3 0.8	sijan	0	364
+587	Southeastern Pomo	SKIN	qʼ o t̪ a l	1 7 1 7 5	AXBYN	KUTAL	6	6.K.C 6.U.V 6.T.C 6.A.V 6.L.c	2.0 1.5 1.75 1.3 0.8	qʼot̪al	0	365
+689	Southern Pomo	SKIN	ʦʼ i ʔ d a	2 7 1 1 7	AXMBZ	CIHTA	7	7.C.C 7.I.V 7.H.c 7.T.C 7.A.V	2.0 1.5 1.1 1.75 0.8	ʦʼiʔda	0	360
+#
+75	Central Pomo	SLEEP	s m a	3 4 7	ACX	SMA	1	1.S.C 1.M.C 1.A.V	2.0 1.5 1.5	sma	0	366
+174	Eastern Pomo	SLEEP	s iː m aː m e r	3 7 4 7 4 7 5	AXBYBYN	SIMAMER	2	2.S.C 2.I.V 2.M.C 2.A.V 2.M.C 2.E.V 2.R.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	siːmaːmer	0	366
+284	Kashaya	SLEEP	s i m aː q	3 7 4 7 1	AXBYN	SIMAK	3	3.S.C 3.I.V 3.M.C 3.A.V 3.K.c	2.0 1.5 1.75 1.3 0.8	simaːq	0	366
+383	Northeastern Pomo	SLEEP	ʃ i m aː k a n	3 7 4 7 1 7 4	AXBYBYN	SIMAKAN	4	4.S.C 4.I.V 4.M.C 4.A.V 4.K.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʃimaːkan	0	366
+482	Northern Pomo	SLEEP	s i m a	3 7 4 7	AXBZ	SIMA	5	5.S.C 5.I.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	sima	0	366
+588	Southeastern Pomo	SLEEP	q n a q	1 4 7 1	ACXN	KNAK	6	6.K.C 6.N.C 6.A.V 6.K.c	2.0 1.5 1.5 0.8	qnaq	0	371
+690	Southern Pomo	SLEEP	s iː m a	3 7 4 7	AXBZ	SIMA	7	7.S.C 7.I.V 7.M.C 7.A.V	2.0 1.5 1.75 0.8	siːma	0	366
+#
+76	Central Pomo	SMALL	k aː w i	1 7 6 7	AXBZ	KAWI	1	1.K.C 1.A.V 1.W.C 1.I.V	2.0 1.5 1.75 0.8	kaːwi	0	372
+175	Eastern Pomo	SMALL	b uː h u ʃ	1 7 3 7 3	AXBYN	PYHYS	2	2.P.C 2.Y.V 2.H.C 2.Y.V 2.S.c	2.0 1.5 1.75 1.3 0.8	buːhuʃ	0	373
+285	Kashaya	SMALL	q a w i	1 7 6 7	AXBZ	KAWI	3	3.K.C 3.A.V 3.W.C 3.I.V	2.0 1.5 1.75 0.8	qawi	0	372
+384	Northeastern Pomo	SMALL	t̪ʼ uː j a ʔ a n	1 7 6 7 1 7 4	AXBYBYN	TYJAHAN	4	4.T.C 4.Y.V 4.J.C 4.A.V 4.H.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	t̪ʼuːjaʔan	0	375
+483	Northern Pomo	SMALL	b i ʧʼ u ʔ	1 7 2 7 1	AXBYN	PICYH	5	5.P.C 5.I.V 5.C.C 5.Y.V 5.H.c	2.0 1.5 1.75 1.3 0.8	biʧʼuʔ	0	376
+589	Southeastern Pomo	SMALL	kʼ u ʧʼ i n	1 7 2 7 4	AXBYN	KYCIN	6	6.K.C 6.Y.V 6.C.C 6.I.V 6.N.c	2.0 1.5 1.75 1.3 0.8	kʼuʧʼin	0	377
+691	Southern Pomo	SMALL	k i ʦʼː i d u	1 7 2 7 1 7	AXBYBZ	KICITY	7	7.K.C 7.I.V 7.C.C 7.I.V 7.T.C 7.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kiʦʼːidu	0	378
+#
+77	Central Pomo	SMOKE (EXHAUST)	h o s a h a	3 7 3 7 3 7	AXBYBZ	HUSAHA	1	1.H.C 1.U.V 1.S.C 1.A.V 1.H.C 1.A.V	2.0 1.5 1.75 1.3 1.75 0.8	hosaha	0	379
+176	Eastern Pomo	SMOKE (EXHAUST)	s aː x a	3 7 3 7	AXBZ	SAGA	2	2.S.C 2.A.V 2.G.C 2.A.V	2.0 1.5 1.75 0.8	saːxa	0	380
+286	Kashaya	SMOKE (EXHAUST)	h o s a	3 7 3 7	AXBZ	HUSA	3	3.H.C 3.U.V 3.S.C 3.A.V	2.0 1.5 1.75 0.8	hosa	0	379
+385	Northeastern Pomo	SMOKE (EXHAUST)	ʃ a h a	3 7 3 7	AXBZ	SAHA	4	4.S.C 4.A.V 4.H.C 4.A.V	2.0 1.5 1.75 0.8	ʃaha	0	380
+484	Northern Pomo	SMOKE (EXHAUST)	s a h a	3 7 3 7	AXBZ	SAHA	5	5.S.C 5.A.V 5.H.C 5.A.V	2.0 1.5 1.75 0.8	saha	0	380
+590	Southeastern Pomo	SMOKE (EXHAUST)	ʦ χ a	2 3 7	ACX	CGA	6	6.C.C 6.G.C 6.A.V	2.0 1.5 1.5	ʦχa	0	384
+692	Southern Pomo	SMOKE (EXHAUST)	ʔ o hː o s a	1 7 3 7 3 7	AXBYBZ	HUHUSA	7	7.H.C 7.U.V 7.H.C 7.U.V 7.S.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ʔohːosa	0	379
+#
+204	Eastern Pomo	SNAKE	q aː l u tʼ uː d u kʰ	1 7 5 7 1 7 1 7 1	AXBYBYBYN	KALYTYTYK	2	2.K.C 2.A.V 2.L.C 2.Y.V 2.T.C 2.Y.V 2.T.C 2.Y.V 2.K.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	qaːlutʼuːdukʰ	0	385
+509	Northern Pomo	SNAKE	m i s a kʰ a l a	4 7 3 7 1 7 5 7	AXBYBYBZ	MISAKALA	5	5.M.C 5.I.V 5.S.C 5.A.V 5.K.C 5.A.V 5.L.C 5.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	misakʰala	0	386
+#
+78	Central Pomo	STAND	ʧ aː t o m	2 7 1 7 4	AXBYN	CATUM	1	1.C.C 1.A.V 1.T.C 1.U.V 1.M.c	2.0 1.5 1.75 1.3 0.8	ʧaːtom	0	387
+177	Eastern Pomo	STAND	k o kʰ	1 7 1	AXN	KUK	2	2.K.C 2.U.V 2.K.c	2.0 1.5 0.8	kokʰ	0	388
+287	Kashaya	STAND	t̪ʼ eː t̪	1 7 1	AXN	TET	3	3.T.C 3.E.V 3.T.c	2.0 1.5 0.8	t̪ʼeːt̪	0	389
+386	Northeastern Pomo	STAND	t̪ oː n	1 7 4	AXN	TUN	4	4.T.C 4.U.V 4.N.c	2.0 1.5 0.8	t̪oːn	0	389
+485	Northern Pomo	STAND	t̪ o m a	1 7 4 7	AXBZ	TUMA	5	5.T.C 5.U.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	t̪oma	0	391
+591	Southeastern Pomo	STAND	q t̪ o m a t̪	1 1 7 4 7 1	ACYBYN	KTUMAT	6	6.K.C 6.T.C 6.U.V 6.M.C 6.A.V 6.T.c	2.0 1.5 1.3 1.75 1.3 0.8	qt̪omat̪	0	391
+693	Southern Pomo	STAND	ʧ o h t̪ o n	2 7 3 1 7 4	AXMBYN	CUHTUN	7	7.C.C 7.U.V 7.H.c 7.T.C 7.U.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ʧoht̪on	0	387
+#
+79	Central Pomo	STAR	kʰ ʔ aː m u l	1 1 7 4 7 5	ACYBYN	KHAMYL	1	1.K.C 1.H.C 1.A.V 1.M.C 1.Y.V 1.L.c	2.0 1.5 1.3 1.75 1.3 0.8	kʰʔaːmul	0	392
+178	Eastern Pomo	STAR	ʔ u j a x o	1 7 6 7 3 7	AXBYBZ	HYJAGU	2	2.H.C 2.Y.V 2.J.C 2.A.V 2.G.C 2.U.V	2.0 1.5 1.75 1.3 1.75 0.8	ʔujaxo	0	393
+288	Kashaya	STAR	qʰ aː m o ʦʼ	1 7 4 7 2	AXBYN	KAMUC	3	3.K.C 3.A.V 3.M.C 3.U.V 3.C.c	2.0 1.5 1.75 1.3 0.8	qʰaːmoʦʼ	0	392
+387	Northeastern Pomo	STAR	k o ʔ t a i k aː	1 7 1 1 7 7 1 7	AXMBYYBZ	KUHTAIKA	4	4.K.C 4.U.V 4.H.c 4.T.C 4.A.V 4.I.V 4.K.C 4.A.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	koʔtaikaː	0	395
+486	Northern Pomo	STAR	tʰ o tʰ o l	1 7 1 7 5	AXBYN	TUTUL	5	5.T.C 5.U.V 5.T.C 5.U.V 5.L.c	2.0 1.5 1.75 1.3 0.8	tʰotʰol	0	396
+592	Southeastern Pomo	STAR	ʦʼ e χ a j qʼ u j qʼ u j	2 7 3 7 6 1 7 6 1 7 6	AXBYMBYMBYN	CEGAJKYJKYJ	6	6.C.C 6.E.V 6.G.C 6.A.V 6.J.c 6.K.C 6.Y.V 6.J.c 6.K.C 6.Y.V 6.J.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.1 1.75 1.3 0.8	ʦʼeχajqʼujqʼuj	0	397
+694	Southern Pomo	STAR	kʰ a m h u n	1 7 4 3 7 4	AXMBYN	KAMHYN	7	7.K.C 7.A.V 7.M.c 7.H.C 7.Y.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	kʰamhun	0	398
+#
+80	Central Pomo	STONE	kʰ b e	1 1 7	ACZ	KPE	1	1.K.C 1.P.C 1.E.V	2.0 1.5 0.8	kʰbe	0	399
+179	Eastern Pomo	STONE	x aː b e	3 7 1 7	AXBZ	GAPE	2	2.G.C 2.A.V 2.P.C 2.E.V	2.0 1.5 1.75 0.8	xaːbe	0	399
+289	Kashaya	STONE	qʰ a ʔ b e	1 7 1 1 7	AXMBZ	KAHPE	3	3.K.C 3.A.V 3.H.c 3.P.C 3.E.V	2.0 1.5 1.1 1.75 0.8	qʰaʔbe	0	399
+388	Northeastern Pomo	STONE	kʰ a ʔ b e	1 7 1 1 7	AXMBZ	KAHPE	4	4.K.C 4.A.V 4.H.c 4.P.C 4.E.V	2.0 1.5 1.1 1.75 0.8	kʰaʔbe	0	399
+487	Northern Pomo	STONE	kʰ a b e	1 7 1 7	AXBZ	KAPE	5	5.K.C 5.A.V 5.P.C 5.E.V	2.0 1.5 1.75 0.8	kʰabe	0	399
+593	Southeastern Pomo	STONE	χ a b e	3 7 1 7	AXBZ	GAPE	6	6.G.C 6.A.V 6.P.C 6.E.V	2.0 1.5 1.75 0.8	χabe	0	399
+695	Southern Pomo	STONE	kʰ a ʔ b e	1 7 1 1 7	AXMBZ	KAHPE	7	7.K.C 7.A.V 7.H.c 7.P.C 7.E.V	2.0 1.5 1.1 1.75 0.8	kʰaʔbe	0	399
+#
+81	Central Pomo	SUN	d a	1 7	AX	TA	1	1.T.C 1.A.V	2.0 1.5	da	1	400
+180	Eastern Pomo	SUN	l aː	5 7	AX	LA	2	2.L.C 2.A.V	2.0 1.5	laː	0	401
+290	Kashaya	SUN	h a ʔ d a	3 7 1 1 7	AXMBZ	HAHTA	3	3.H.C 3.A.V 3.H.c 3.T.C 3.A.V	2.0 1.5 1.1 1.75 0.8	haʔda	0	402
+389	Northeastern Pomo	SUN	d a k aː	1 7 1 7	AXBZ	TAKA	4	4.T.C 4.A.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	dakaː	0	400
+488	Northern Pomo	SUN	m i t̪ʼ aː	4 7 1 7	AXBZ	MITA	5	5.M.C 5.I.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	mit̪ʼaː	0	404
+594	Southeastern Pomo	SUN	m ʦ i l d a	4 2 7 5 1 7	ACYMBZ	MCILTA	6	6.M.C 6.C.C 6.I.V 6.L.c 6.T.C 6.A.V	2.0 1.5 1.3 1.1 1.75 0.8	mʦilda	0	404
+696	Southern Pomo	SUN	h a ʔ d a	3 7 1 1 7	AXMBZ	HAHTA	7	7.H.C 7.A.V 7.H.c 7.T.C 7.A.V	2.0 1.5 1.1 1.75 0.8	haʔda	0	402
+#
+82	Central Pomo	SWIM	kʰ a ʧ d e	1 7 2 1 7	AXMBZ	KACTE	1	1.K.C 1.A.V 1.C.c 1.T.C 1.E.V	2.0 1.5 1.1 1.75 0.8	kʰaʧde	0	405
+181	Eastern Pomo	SWIM	x aː q aː	3 7 1 7	AXBZ	GAKA	2	2.G.C 2.A.V 2.K.C 2.A.V	2.0 1.5 1.75 0.8	xaːqaː	0	406
+291	Kashaya	SWIM	ʧ i w	2 7 6	AXN	CIW	3	3.C.C 3.I.V 3.W.c	2.0 1.5 0.8	ʧiw	0	407
+489	Northern Pomo	SWIM	kʼ o t̪ a m a	1 7 1 7 4 7	AXBYBZ	KUTAMA	5	5.K.C 5.U.V 5.T.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kʼot̪ama	0	408
+595	Southeastern Pomo	SWIM	χ a j q a m	3 7 6 1 7 4	AXMBYN	GAJKAM	6	6.G.C 6.A.V 6.J.c 6.K.C 6.A.V 6.M.c	2.0 1.5 1.1 1.75 1.3 0.8	χajqam	0	406
+697	Southern Pomo	SWIM	ʔ o h k o m a j	1 7 3 1 7 4 7 6	AXMBYBYN	HUHKUMAJ	7	7.H.C 7.U.V 7.H.c 7.K.C 7.U.V 7.M.C 7.A.V 7.J.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	ʔohkomaj	0	410
+#
+83	Central Pomo	TAIL	b aː	1 7	AX	PA	1	1.P.C 1.A.V	2.0 1.5	baː	0	411
+182	Eastern Pomo	TAIL	j iː b aː	6 7 1 7	AXBZ	JIPA	2	2.J.C 2.I.V 2.P.C 2.A.V	2.0 1.5 1.75 0.8	jiːbaː	0	411
+292	Kashaya	TAIL	h i b aː	3 7 1 7	AXBZ	HIPA	3	3.H.C 3.I.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	hibaː	0	411
+390	Northeastern Pomo	TAIL	ʃ i ʔ b aː	3 7 1 1 7	AXMBZ	SIHPA	4	4.S.C 4.I.V 4.H.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	ʃiʔbaː	0	411
+490	Northern Pomo	TAIL	k i m aː	1 7 4 7	AXBZ	KIMA	5	5.K.C 5.I.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	kimaː	0	415
+596	Southeastern Pomo	TAIL	b a	1 7	AX	PA	6	6.P.C 6.A.V	2.0 1.5	ba	0	411
+698	Southern Pomo	TAIL	h i b ʔ a kʰ l e	3 7 1 1 7 1 5 7	AXMBYBCZ	HIPHAKLE	7	7.H.C 7.I.V 7.P.c 7.H.C 7.A.V 7.K.C 7.L.C 7.E.V	2.0 1.5 1.1 1.75 1.3 1.75 1.5 0.8	hibʔakʰle	0	417
+#
+84	Central Pomo	THAT	m u l	4 7 5	AXN	MYL	1	1.M.C 1.Y.V 1.L.c	2.0 1.5 0.8	mul	0	418
+183	Eastern Pomo	THAT	ʔ o	1 7	AX	HU	2	2.H.C 2.U.V	2.0 1.5	ʔo	0	419
+293	Kashaya	THAT	h a ʔ u	3 7 1 7	AXBZ	HAHY	3	3.H.C 3.A.V 3.H.C 3.Y.V	2.0 1.5 1.75 0.8	haʔu	0	420
+391	Northeastern Pomo	THAT	h a m uː	3 7 4 7	AXBZ	HAMY	4	4.H.C 4.A.V 4.M.C 4.Y.V	2.0 1.5 1.75 0.8	hamuː	0	420
+491	Northern Pomo	THAT	m u l	4 7 5	AXN	MYL	5	5.M.C 5.Y.V 5.L.c	2.0 1.5 0.8	mul	0	418
+597	Southeastern Pomo	THAT	ʔ i j i	1 7 6 7	AXBZ	HIJI	6	6.H.C 6.I.V 6.J.C 6.I.V	2.0 1.5 1.75 0.8	ʔiji	0	420
+699	Southern Pomo	THAT	h a mː u	3 7 4 7	AXBZ	HAMY	7	7.H.C 7.A.V 7.M.C 7.Y.V	2.0 1.5 1.75 0.8	hamːu	0	420
+#
+205	Eastern Pomo	THIN (OF SHAPE OF OBJECT)	p eː t̪ʰ	1 7 1	AXN	PET	2	2.P.C 2.E.V 2.T.c	2.0 1.5 0.8	peːt̪ʰ	0	421
+#
+85	Central Pomo	THIS	b a l	1 7 5	AXN	PAL	1	1.P.C 1.A.V 1.L.c	2.0 1.5 0.8	bal	0	422
+184	Eastern Pomo	THIS	m e	4 7	AX	ME	2	2.M.C 2.E.V	2.0 1.5	me	0	423
+294	Kashaya	THIS	m a ʔ u	4 7 1 7	AXBZ	MAHY	3	3.M.C 3.A.V 3.H.C 3.Y.V	2.0 1.5 1.75 0.8	maʔu	0	424
+492	Northern Pomo	THIS	ʔ a l	1 7 5	AXN	HAL	5	5.H.C 5.A.V 5.L.c	2.0 1.5 0.8	ʔal	0	422
+598	Southeastern Pomo	THIS	m i j i	4 7 6 7	AXBZ	MIJI	6	6.M.C 6.I.V 6.J.C 6.I.V	2.0 1.5 1.75 0.8	miji	0	424
+700	Southern Pomo	THIS	m aː m u	4 7 4 7	AXBZ	MAMY	7	7.M.C 7.A.V 7.M.C 7.Y.V	2.0 1.5 1.75 0.8	maːmu	0	424
+#
+86	Central Pomo	THOU	m a	4 7	AX	MA	1	1.M.C 1.A.V	2.0 1.5	ma	0	425
+185	Eastern Pomo	THOU	m a	4 7	AX	MA	2	2.M.C 2.A.V	2.0 1.5	ma	0	425
+295	Kashaya	THOU	m a	4 7	AX	MA	3	3.M.C 3.A.V	2.0 1.5	ma	0	425
+392	Northeastern Pomo	THOU	a m a	7 4 7	XBZ	AMA	4	4.A.V 4.M.C 4.A.V	1.5 1.75 0.8	ama	0	425
+493	Northern Pomo	THOU	m a	4 7	AX	MA	5	5.M.C 5.A.V	2.0 1.5	ma	0	425
+599	Southeastern Pomo	THOU	m a	4 7	AX	MA	6	6.M.C 6.A.V	2.0 1.5	ma	0	425
+701	Southern Pomo	THOU	ʔ aː m a	1 7 4 7	AXBZ	HAMA	7	7.H.C 7.A.V 7.M.C 7.A.V	2.0 1.5 1.75 0.8	ʔaːma	0	425
+#
+87	Central Pomo	TONGUE	h a w b a	3 7 6 1 7	AXMBZ	HAWPA	1	1.H.C 1.A.V 1.W.c 1.P.C 1.A.V	2.0 1.5 1.1 1.75 0.8	hawba	0	426
+186	Eastern Pomo	TONGUE	b a l	1 7 5	AXN	PAL	2	2.P.C 2.A.V 2.L.c	2.0 1.5 0.8	bal	0	427
+296	Kashaya	TONGUE	h aː b a	3 7 1 7	AXBZ	HAPA	3	3.H.C 3.A.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	haːba	0	426
+393	Northeastern Pomo	TONGUE	h u ʔ b aː	3 7 1 1 7	AXMBZ	HYHPA	4	4.H.C 4.Y.V 4.H.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	huʔbaː	0	426
+494	Northern Pomo	TONGUE	h a b aː	3 7 1 7	AXBZ	HAPA	5	5.H.C 5.A.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	habaː	0	426
+600	Southeastern Pomo	TONGUE	b a l	1 7 5	AXN	PAL	6	6.P.C 6.A.V 6.L.c	2.0 1.5 0.8	bal	0	427
+702	Southern Pomo	TONGUE	h i b ʔ a	3 7 1 1 7	AXMBZ	HIPHA	7	7.H.C 7.I.V 7.P.c 7.H.C 7.A.V	2.0 1.5 1.1 1.75 0.8	hibʔa	0	426
+#
+88	Central Pomo	TOOTH	ʔ o	1 7	AX	HU	1	1.H.C 1.U.V	2.0 1.5	ʔo	0	428
+187	Eastern Pomo	TOOTH	j aː ʔ o	6 7 1 7	AXBZ	JAHU	2	2.J.C 2.A.V 2.H.C 2.U.V	2.0 1.5 1.75 0.8	jaːʔo	0	428
+297	Kashaya	TOOTH	h o ʔ o	3 7 1 7	AXBZ	HUHU	3	3.H.C 3.U.V 3.H.C 3.U.V	2.0 1.5 1.75 0.8	hoʔo	0	428
+394	Northeastern Pomo	TOOTH	ʔ o	1 7	AX	HU	4	4.H.C 4.U.V	2.0 1.5	ʔo	0	428
+495	Northern Pomo	TOOTH	ʔ o	1 7	AX	HU	5	5.H.C 5.U.V	2.0 1.5	ʔo	0	428
+601	Southeastern Pomo	TOOTH	ʔ o	1 7	AX	HU	6	6.H.C 6.U.V	2.0 1.5	ʔo	0	428
+703	Southern Pomo	TOOTH	h o ʔː o	3 7 1 7	AXBZ	HUHU	7	7.H.C 7.U.V 7.H.C 7.U.V	2.0 1.5 1.75 0.8	hoʔːo	0	428
+#
+89	Central Pomo	TREE	kʰ l e	1 5 7	ACX	KLE	1	1.K.C 1.L.C 1.E.V	2.0 1.5 1.5	kʰle	0	429
+188	Eastern Pomo	TREE	x aː l eː	3 7 5 7	AXBZ	GALE	2	2.G.C 2.A.V 2.L.C 2.E.V	2.0 1.5 1.75 0.8	xaːleː	0	429
+298	Kashaya	TREE	qʰ a l e	1 7 5 7	AXBZ	KALE	3	3.K.C 3.A.V 3.L.C 3.E.V	2.0 1.5 1.75 0.8	qʰale	0	429
+395	Northeastern Pomo	TREE	kʰ a l i	1 7 5 7	AXBZ	KALI	4	4.K.C 4.A.V 4.L.C 4.I.V	2.0 1.5 1.75 0.8	kʰali	0	429
+496	Northern Pomo	TREE	kʰ a l e	1 7 5 7	AXBZ	KALE	5	5.K.C 5.A.V 5.L.C 5.E.V	2.0 1.5 1.75 0.8	kʰale	0	429
+602	Southeastern Pomo	TREE	χ a l e	3 7 5 7	AXBZ	GALE	6	6.G.C 6.A.V 6.L.C 6.E.V	2.0 1.5 1.75 0.8	χale	0	429
+704	Southern Pomo	TREE	kʰ aː l e	1 7 5 7	AXBZ	KALE	7	7.K.C 7.A.V 7.L.C 7.E.V	2.0 1.5 1.75 0.8	kʰaːle	0	429
+#
+90	Central Pomo	TWO	kʰ oː	1 7	AX	KU	1	1.K.C 1.U.V	2.0 1.5	kʰoː	0	430
+189	Eastern Pomo	TWO	x o ʧʰ	3 7 2	AXN	GUC	2	2.G.C 2.U.V 2.C.c	2.0 1.5 0.8	xoʧʰ	0	431
+299	Kashaya	TWO	qʰ oː	1 7	AX	KU	3	3.K.C 3.U.V	2.0 1.5	qʰoː	0	430
+396	Northeastern Pomo	TWO	kʰ o ʔ oː k a i	1 7 1 7 1 7 7	AXBYBYZ	KUHUKAI	4	4.K.C 4.U.V 4.H.C 4.U.V 4.K.C 4.A.V 4.I.V	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰoʔoːkai	0	433
+497	Northern Pomo	TWO	kʰ oː	1 7	AX	KU	5	5.K.C 5.U.V	2.0 1.5	kʰoː	0	430
+603	Southeastern Pomo	TWO	χ o s	3 7 3	AXN	GUS	6	6.G.C 6.U.V 6.S.c	2.0 1.5 0.8	χos	0	435
+705	Southern Pomo	TWO	ʔ a kʰː o	1 7 1 7	AXBZ	HAKU	7	7.H.C 7.A.V 7.K.C 7.U.V	2.0 1.5 1.75 0.8	ʔakʰːo	0	430
+#
+190	Eastern Pomo	WALK	w a d uː k iː	6 7 1 7 1 7	AXBYBZ	WATYKI	2	2.W.C 2.A.V 2.T.C 2.Y.V 2.K.C 2.I.V	2.0 1.5 1.75 1.3 1.75 0.8	waduːkiː	0	436
+300	Kashaya	WALK	w	6	A	W	3	3.W.C	2.0	w	0	437
+498	Northern Pomo	WALK	h u	3 7	AX	HY	5	5.H.C 5.Y.V	2.0 1.5	hu	0	438
+604	Southeastern Pomo	WALK	w a l	6 7 5	AXN	WAL	6	6.W.C 6.A.V 6.L.c	2.0 1.5 0.8	wal	0	437
+#
+91	Central Pomo	WARM	h o	3 7	AX	HU	1	1.H.C 1.U.V	2.0 1.5	ho	1	439
+191	Eastern Pomo	WARM	x o	3 7	AX	GU	2	2.G.C 2.U.V	2.0 1.5	xo	1	440
+301	Kashaya	WARM	ʔ o h o	1 7 3 7	AXBZ	HUHU	3	3.H.C 3.U.V 3.H.C 3.U.V	2.0 1.5 1.75 0.8	ʔoho	1	439
+397	Northeastern Pomo	WARM	m o ʔ ʦʼ o l o n	4 7 1 2 7 5 7 4	AXBCYBYN	MUHCULUN	4	4.M.C 4.U.V 4.H.C 4.C.C 4.U.V 4.L.C 4.U.V 4.N.c	2.0 1.5 1.75 1.5 1.3 1.75 1.3 0.8	moʔʦʼolon	0	442
+499	Northern Pomo	WARM	h o	3 7	AX	HU	5	5.H.C 5.U.V	2.0 1.5	ho	1	439
+605	Southeastern Pomo	WARM	m i t̪ʼ e	4 7 1 7	AXBZ	MITE	6	6.M.C 6.I.V 6.T.C 6.E.V	2.0 1.5 1.75 0.8	mit̪ʼe	0	444
+706	Southern Pomo	WARM	ʔ o hː o	1 7 3 7	AXBZ	HUHU	7	7.H.C 7.U.V 7.H.C 7.U.V	2.0 1.5 1.75 0.8	ʔohːo	1	439
+#
+92	Central Pomo	WATER	kʰ a	1 7	AX	KA	1	1.K.C 1.A.V	2.0 1.5	kʰa	0	445
+192	Eastern Pomo	WATER	x a	3 7	AX	GA	2	2.G.C 2.A.V	2.0 1.5	xa	0	445
+302	Kashaya	WATER	ʔ a h qʰ a	1 7 3 1 7	AXMBZ	HAHKA	3	3.H.C 3.A.V 3.H.c 3.K.C 3.A.V	2.0 1.5 1.1 1.75 0.8	ʔahqʰa	0	447
+398	Northeastern Pomo	WATER	kʰ a	1 7	AX	KA	4	4.K.C 4.A.V	2.0 1.5	kʰa	0	445
+500	Northern Pomo	WATER	kʰ a	1 7	AX	KA	5	5.K.C 5.A.V	2.0 1.5	kʰa	0	445
+606	Southeastern Pomo	WATER	χ a	3 7	AX	GA	6	6.G.C 6.A.V	2.0 1.5	χa	0	445
+707	Southern Pomo	WATER	ʔ a h kʰ a	1 7 3 1 7	AXMBZ	HAHKA	7	7.H.C 7.A.V 7.H.c 7.K.C 7.A.V	2.0 1.5 1.1 1.75 0.8	ʔahkʰa	0	447
+#
+93	Central Pomo	WE	j a	6 7	AX	JA	1	1.J.C 1.A.V	2.0 1.5	ja	0	448
+193	Eastern Pomo	WE	w aː	6 7	AX	WA	2	2.W.C 2.A.V	2.0 1.5	waː	0	449
+303	Kashaya	WE	j a	6 7	AX	JA	3	3.J.C 3.A.V	2.0 1.5	ja	0	448
+399	Northeastern Pomo	WE	a j aː	7 6 7	XBZ	AJA	4	4.A.V 4.J.C 4.A.V	1.5 1.75 0.8	ajaː	0	448
+501	Northern Pomo	WE	j a	6 7	AX	JA	5	5.J.C 5.A.V	2.0 1.5	ja	0	448
+607	Southeastern Pomo	WE	w i j	6 7 6	AXN	WIJ	6	6.W.C 6.I.V 6.J.c	2.0 1.5 0.8	wij	0	449
+708	Southern Pomo	WE	ʔ aː j a	1 7 6 7	AXBZ	HAJA	7	7.H.C 7.A.V 7.J.C 7.A.V	2.0 1.5 1.75 0.8	ʔaːja	0	448
+#
+94	Central Pomo	WHAT	kʼ o w a	1 7 6 7	AXBZ	KUWA	1	1.K.C 1.U.V 1.W.C 1.A.V	2.0 1.5 1.75 0.8	kʼowa	0	450
+194	Eastern Pomo	WHAT	ʧʰ i	2 7	AX	CI	2	2.C.C 2.I.V	2.0 1.5	ʧʰi	0	451
+304	Kashaya	WHAT	b a qʼ oː	1 7 1 7	AXBZ	PAKU	3	3.P.C 3.A.V 3.K.C 3.U.V	2.0 1.5 1.75 0.8	baqʼoː	0	452
+400	Northeastern Pomo	WHAT	pʰ aː ʃ k a	1 7 3 1 7	AXMBZ	PASKA	4	4.P.C 4.A.V 4.S.c 4.K.C 4.A.V	2.0 1.5 1.1 1.75 0.8	pʰaːʃka	0	452
+502	Northern Pomo	WHAT	kʼ o	1 7	AX	KU	5	5.K.C 5.U.V	2.0 1.5	kʼo	1	450
+608	Southeastern Pomo	WHAT	ʔ a w i	1 7 6 7	AXBZ	HAWI	6	6.H.C 6.A.V 6.W.C 6.I.V	2.0 1.5 1.75 0.8	ʔawi	0	455
+709	Southern Pomo	WHAT	b aː kʼ o	1 7 1 7	AXBZ	PAKU	7	7.P.C 7.A.V 7.K.C 7.U.V	2.0 1.5 1.75 0.8	baːkʼo	0	452
+#
+95	Central Pomo	WHITE	k aː l e	1 7 5 7	AXBZ	KALE	1	1.K.C 1.A.V 1.L.C 1.E.V	2.0 1.5 1.75 0.8	kaːle	0	456
+195	Eastern Pomo	WHITE	pʰ iː t̪ʼ a w	1 7 1 7 6	AXBYN	PITAW	2	2.P.C 2.I.V 2.T.C 2.A.V 2.W.c	2.0 1.5 1.75 1.3 0.8	pʰiːt̪ʼaw	0	457
+305	Kashaya	WHITE	q a h l e	1 7 3 5 7	AXBCZ	KAHLE	3	3.K.C 3.A.V 3.H.C 3.L.C 3.E.V	2.0 1.5 1.75 1.5 0.8	qahle	0	456
+401	Northeastern Pomo	WHITE	tʰ a j a n	1 7 6 7 4	AXBYN	TAJAN	4	4.T.C 4.A.V 4.J.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 0.8	tʰajan	0	459
+503	Northern Pomo	WHITE	k a l e	1 7 5 7	AXBZ	KALE	5	5.K.C 5.A.V 5.L.C 5.E.V	2.0 1.5 1.75 0.8	kale	0	456
+609	Southeastern Pomo	WHITE	t̪ʼ o t̪ʼ o	1 7 1 7	AXBZ	TUTU	6	6.T.C 6.U.V 6.T.C 6.U.V	2.0 1.5 1.75 0.8	t̪ʼot̪ʼo	0	461
+710	Southern Pomo	WHITE	k a h l e	1 7 3 5 7	AXBCZ	KAHLE	7	7.K.C 7.A.V 7.H.C 7.L.C 7.E.V	2.0 1.5 1.75 1.5 0.8	kahle	0	456
+#
+96	Central Pomo	WHO	b aː w a	1 7 6 7	AXBZ	PAWA	1	1.P.C 1.A.V 1.W.C 1.A.V	2.0 1.5 1.75 0.8	baːwa	0	462
+196	Eastern Pomo	WHO	k iː j aː	1 7 6 7	AXBZ	KIJA	2	2.K.C 2.I.V 2.J.C 2.A.V	2.0 1.5 1.75 0.8	kiːjaː	0	463
+306	Kashaya	WHO	ʧ i b aː	2 7 1 7	AXBZ	CIPA	3	3.C.C 3.I.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	ʧibaː	0	464
+402	Northeastern Pomo	WHO	t̪ʰ a ʔ a	1 7 1 7	AXBZ	TAHA	4	4.T.C 4.A.V 4.H.C 4.A.V	2.0 1.5 1.75 0.8	t̪ʰaʔa	0	465
+504	Northern Pomo	WHO	ʧ i b aː	2 7 1 7	AXBZ	CIPA	5	5.C.C 5.I.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	ʧibaː	0	464
+610	Southeastern Pomo	WHO	ʦ a ʔ e	2 7 1 7	AXBZ	CAHE	6	6.C.C 6.A.V 6.H.C 6.E.V	2.0 1.5 1.75 0.8	ʦaʔe	0	465
+711	Southern Pomo	WHO	ʧ a ʔː a	2 7 1 7	AXBZ	CAHA	7	7.C.C 7.A.V 7.H.C 7.A.V	2.0 1.5 1.75 0.8	ʧaʔːa	0	465
+#
+99	Central Pomo	WIND	j a	6 7	AX	JA	1	1.J.C 1.A.V	2.0 1.5	ja	1	468
+206	Eastern Pomo	WIND	j̥ a	6 7	AX	JA	2	2.J.C 2.A.V	2.0 1.5	j̥a	1	468
+310	Kashaya	WIND	ʔ i h j a	1 7 3 6 7	AXBCZ	HIHJA	3	3.H.C 3.I.V 3.H.C 3.J.C 3.A.V	2.0 1.5 1.75 1.5 0.8	ʔihja	0	468
+406	Northeastern Pomo	WIND	h i j a	3 7 6 7	AXBZ	HIJA	4	4.H.C 4.I.V 4.J.C 4.A.V	2.0 1.5 1.75 0.8	hija	1	468
+510	Northern Pomo	WIND	j a	6 7	AX	JA	5	5.J.C 5.A.V	2.0 1.5	ja	1	468
+614	Southeastern Pomo	WIND	j a	6 7	AX	JA	6	6.J.C 6.A.V	2.0 1.5	ja	0	468
+715	Southern Pomo	WIND	ʔ i h j a	1 7 3 6 7	AXBCZ	HIHJA	7	7.H.C 7.I.V 7.H.C 7.J.C 7.A.V	2.0 1.5 1.75 1.5 0.8	ʔihja	0	468
+#
+97	Central Pomo	WOMAN	m aː t̪ a	4 7 1 7	AXBZ	MATA	1	1.M.C 1.A.V 1.T.C 1.A.V	2.0 1.5 1.75 0.8	maːt̪a	0	469
+197	Eastern Pomo	WOMAN	d a	1 7	AX	TA	2	2.T.C 2.A.V	2.0 1.5	da	0	470
+307	Kashaya	WOMAN	ʔ i m aː t̪ a	1 7 4 7 1 7	AXBYBZ	HIMATA	3	3.H.C 3.I.V 3.M.C 3.A.V 3.T.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ʔimaːt̪a	0	469
+403	Northeastern Pomo	WOMAN	d a k i	1 7 1 7	AXBZ	TAKI	4	4.T.C 4.A.V 4.K.C 4.I.V	2.0 1.5 1.75 0.8	daki	0	470
+505	Northern Pomo	WOMAN	m aː t̪ a	4 7 1 7	AXBZ	MATA	5	5.M.C 5.A.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	maːt̪a	0	469
+611	Southeastern Pomo	WOMAN	b i t e d	1 7 1 7 1	AXBYN	PITET	6	6.P.C 6.I.V 6.T.C 6.E.V 6.T.c	2.0 1.5 1.75 1.3 0.8	bited	0	474
+712	Southern Pomo	WOMAN	b a ʔ a j	1 7 1 7 6	AXBYN	PAHAJ	7	7.P.C 7.A.V 7.H.C 7.A.V 7.J.c	2.0 1.5 1.75 1.3 0.8	baʔaj	0	475
+#
+207	Eastern Pomo	WORM	kʰ o l	1 7 5	AXN	KUL	2	2.K.C 2.U.V 2.L.c	2.0 1.5 0.8	kʰol	0	476
+311	Kashaya	WORM	b i l a	1 7 5 7	AXBZ	PILA	3	3.P.C 3.I.V 3.L.C 3.A.V	2.0 1.5 1.75 0.8	bila	0	477
+#
+208	Eastern Pomo	YEAR	x uː ʦʼ a j	3 7 2 7 6	AXBYN	GYCAJ	2	2.G.C 2.Y.V 2.C.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 0.8	xuːʦʼaj	0	478
+312	Kashaya	YEAR	m a l	4 7 5	AXN	MAL	3	3.M.C 3.A.V 3.L.c	2.0 1.5 0.8	mal	0	479
+511	Northern Pomo	YEAR	j e m a l	6 7 4 7 5	AXBYN	JEMAL	5	5.J.C 5.E.V 5.M.C 5.A.V 5.L.c	2.0 1.5 1.75 1.3 0.8	jemal	0	479
+615	Southeastern Pomo	YEAR	m u t i n	4 7 1 7 4	AXBYN	MYTIN	6	6.M.C 6.Y.V 6.T.C 6.I.V 6.N.c	2.0 1.5 1.75 1.3 0.8	mutin	0	481
+#
+98	Central Pomo	YELLOW	ʧ o t̪ʼ ə ʃ ə b a	2 7 1 7 3 7 1 7	AXBYBYBZ	CUTESEPA	1	1.C.C 1.U.V 1.T.C 1.E.V 1.S.C 1.E.V 1.P.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	ʧot̪ʼəʃəba	0	482
+198	Eastern Pomo	YELLOW	q uː ʃ i l i ʃ iː b a	1 7 3 7 5 7 3 7 1 7	AXBYBYBYBZ	KYSILISIPA	2	2.K.C 2.Y.V 2.S.C 2.I.V 2.L.C 2.I.V 2.S.C 2.I.V 2.P.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	quːʃiliʃiːba	0	482
+308	Kashaya	YELLOW	qʰ a l aː ʧ	1 7 5 7 2	AXBYN	KALAC	3	3.K.C 3.A.V 3.L.C 3.A.V 3.C.c	2.0 1.5 1.75 1.3 0.8	qʰalaːʧ	0	484
+404	Northeastern Pomo	YELLOW	kʰ a ʃ i ʔ b a	1 7 3 7 1 1 7	AXBYMBZ	KASIHPA	4	4.K.C 4.A.V 4.S.C 4.I.V 4.H.c 4.P.C 4.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	kʰaʃiʔba	0	485
+506	Northern Pomo	YELLOW	ʧ i ʃ i l ʃ i b a	2 7 3 7 5 3 7 1 7	AXBYMBYBZ	CISILSIPA	5	5.C.C 5.I.V 5.S.C 5.I.V 5.L.c 5.S.C 5.I.V 5.P.C 5.A.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 0.8	ʧiʃilʃiba	0	482
+612	Southeastern Pomo	YELLOW	k i ʔ i l t̪ʼ o	1 7 1 7 5 1 7	AXBYMBZ	KIHILTU	6	6.K.C 6.I.V 6.H.C 6.I.V 6.L.c 6.T.C 6.U.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	kiʔilt̪ʼo	0	487
+713	Southern Pomo	YELLOW	b i ʔ d u b o tʼ	1 7 1 1 7 1 7 1	AXMBYBYN	PIHTYPUT	7	7.P.C 7.I.V 7.H.c 7.T.C 7.Y.V 7.P.C 7.U.V 7.T.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	biʔdubotʼ	0	488
+# Created using the LexStat class of LingPy-2.6.8
+# Parameters: 2:1_1.00_1000_0.70_global-2-0.50:local-1-0.50_0.30__T_shuffle_False:upgma:-2_0.7_0.00_-5.00
+# Cluster: lexstat_upgma_0.60

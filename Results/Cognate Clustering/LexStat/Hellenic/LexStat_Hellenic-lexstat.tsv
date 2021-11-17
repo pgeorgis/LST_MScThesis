@@ -1,0 +1,832 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	TOKENS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	LEXSTATID
+#
+1	Ancient Attic Greek	ALL	p a n t	1 7 4 1	AXLN	PANT	1	1.P.C 1.A.V 1.N.c 1.T.c	2.0 1.5 1.1 0.8	pant	0	1
+120	Ancient Ionic Greek	ALL	p a n t	1 7 4 1	AXLN	PANT	2	2.P.C 2.A.V 2.N.c 2.T.c	2.0 1.5 1.1 0.8	pant	0	1
+233	Modern Demotic Greek	ALL	o l o	7 5 7	XBZ	ULU	3	3.U.V 3.L.C 3.U.V	1.5 1.75 0.8	olo	0	3
+352	Pharasa Greek	ALL	p i t u n i	1 7 1 7 4 7	AXBYBZ	PITYNI	4	4.P.C 4.I.V 4.T.C 4.Y.V 4.N.C 4.I.V	2.0 1.5 1.75 1.3 1.75 0.8	pituni	0	4
+464	Southern Tsakonian	ALL	o l e	7 5 7	XBZ	ULE	5	5.U.V 5.L.C 5.E.V	1.5 1.75 0.8	ole	0	3
+595	Western Cappadocian Greek	ALL	u l l o	7 5 5 7	XMBZ	YLLU	6	6.Y.V 6.L.c 6.L.C 6.U.V	1.5 1.1 1.75 0.8	ullo	0	3
+#
+2	Ancient Attic Greek	ASH	t e pʰ r aː	1 7 1 5 7	AXBCZ	TEPRA	1	1.T.C 1.E.V 1.P.C 1.R.C 1.A.V	2.0 1.5 1.75 1.5 0.8	tepʰraː	0	5
+121	Ancient Ionic Greek	ASH	s p o d o s	3 1 7 1 7 3	ACYBYN	SPUTUS	2	2.S.C 2.P.C 2.U.V 2.T.C 2.U.V 2.S.c	2.0 1.5 1.3 1.75 1.3 0.8	spodos	0	6
+234	Modern Demotic Greek	ASH	s t a x t i	3 1 7 3 1 7	ACYMBZ	STAGTI	3	3.S.C 3.T.C 3.A.V 3.G.c 3.T.C 3.I.V	2.0 1.5 1.3 1.1 1.75 0.8	staxti	0	7
+353	Pharasa Greek	ASH	s t a x t i	3 1 7 3 1 7	ACYMBZ	STAGTI	4	4.S.C 4.T.C 4.A.V 4.G.c 4.T.C 4.I.V	2.0 1.5 1.3 1.1 1.75 0.8	staxti	0	7
+465	Southern Tsakonian	ASH	s p o i a	3 1 7 7 7	ACYYZ	SPUIA	5	5.S.C 5.P.C 5.U.V 5.I.V 5.A.V	2.0 1.5 1.3 1.3 0.8	spoia	0	9
+596	Western Cappadocian Greek	ASH	s t a x ʧ i	3 1 7 3 2 7	ACYMBZ	STAGCI	6	6.S.C 6.T.C 6.A.V 6.G.c 6.C.C 6.I.V	2.0 1.5 1.3 1.1 1.75 0.8	staxʧi	0	7
+#
+3	Ancient Attic Greek	BARK	pʰ l o j o s	1 5 7 6 7 3	ACXBYN	PLUJUS	1	1.P.C 1.L.C 1.U.V 1.J.C 1.U.V 1.S.c	2.0 1.5 1.5 1.75 1.3 0.8	pʰlojos	0	10
+122	Ancient Ionic Greek	BARK	pʰ l o j o s	1 5 7 6 7 3	ACXBYN	PLUJUS	2	2.P.C 2.L.C 2.U.V 2.J.C 2.U.V 2.S.c	2.0 1.5 1.5 1.75 1.3 0.8	pʰlojos	0	10
+235	Modern Demotic Greek	BARK	f l i o s	3 5 7 7 3	ACXYN	BLIUS	3	3.B.C 3.L.C 3.I.V 3.U.V 3.S.c	2.0 1.5 1.5 1.3 0.8	flios	0	10
+354	Pharasa Greek	BARK	f l i ð i	3 5 7 3 7	ACXBZ	BLIDI	4	4.B.C 4.L.C 4.I.V 4.D.C 4.I.V	2.0 1.5 1.5 1.75 0.8	fliði	0	13
+466	Southern Tsakonian	BARK	f r u a	3 5 7 7	ACXZ	BRYA	5	5.B.C 5.R.C 5.Y.V 5.A.V	2.0 1.5 1.5 0.8	frua	0	14
+597	Western Cappadocian Greek	BARK	ɣ a b ɨ x	3 7 1 7 3	AXBYN	GAPIG	6	6.G.C 6.A.V 6.P.C 6.I.V 6.G.c	2.0 1.5 1.75 1.3 0.8	ɣabɨx	0	15
+#
+4	Ancient Attic Greek	BELLY	ɡ a s t eː r	1 7 3 1 7 5	AXMBYN	KASTER	1	1.K.C 1.A.V 1.S.c 1.T.C 1.E.V 1.R.c	2.0 1.5 1.1 1.75 1.3 0.8	ɡasteːr	0	16
+123	Ancient Ionic Greek	BELLY	ɡ a s t eː r	1 7 3 1 7 5	AXMBYN	KASTER	2	2.K.C 2.A.V 2.S.c 2.T.C 2.E.V 2.R.c	2.0 1.5 1.1 1.75 1.3 0.8	ɡasteːr	0	16
+236	Modern Demotic Greek	BELLY	c i ʎ a	1 7 5 7	AXBZ	CILA	3	3.C.C 3.I.V 3.L.C 3.A.V	2.0 1.5 1.75 0.8	ciʎa	0	18
+355	Pharasa Greek	BELLY	ʤ i l i a	2 7 5 7 7	AXBYZ	CILIA	4	4.C.C 4.I.V 4.L.C 4.I.V 4.A.V	2.0 1.5 1.75 1.3 0.8	ʤilia	0	18
+467	Southern Tsakonian	BELLY	f u kʰ a	3 7 1 7	AXBZ	BYKA	5	5.B.C 5.Y.V 5.K.C 5.A.V	2.0 1.5 1.75 0.8	fukʰa	0	20
+598	Western Cappadocian Greek	BELLY	k a r j a	1 7 5 6 7	AXBCZ	KARJA	6	6.K.C 6.A.V 6.R.C 6.J.C 6.A.V	2.0 1.5 1.75 1.5 0.8	karja	0	21
+#
+5	Ancient Attic Greek	BIG	m e ɡ a s	4 7 1 7 3	AXBYN	MEKAS	1	1.M.C 1.E.V 1.K.C 1.A.V 1.S.c	2.0 1.5 1.75 1.3 0.8	meɡas	0	24
+124	Ancient Ionic Greek	BIG	m e ɡ a s	4 7 1 7 3	AXBYN	MEKAS	2	2.M.C 2.E.V 2.K.C 2.A.V 2.S.c	2.0 1.5 1.75 1.3 0.8	meɡas	0	24
+237	Modern Demotic Greek	BIG	m e ɣ a l o	4 7 3 7 5 7	AXBYBZ	MEGALU	3	3.M.C 3.E.V 3.G.C 3.A.V 3.L.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	meɣalo	0	24
+356	Pharasa Greek	BIG	m e ɣ o	4 7 3 7	AXBZ	MEGU	4	4.M.C 4.E.V 4.G.C 4.U.V	2.0 1.5 1.75 0.8	meɣo	0	24
+468	Southern Tsakonian	BIG	a ʧ e	7 2 7	XBZ	ACE	5	5.A.V 5.C.C 5.E.V	1.5 1.75 0.8	aʧe	0	26
+599	Western Cappadocian Greek	BIG	m e ɣ a	4 7 3 7	AXBZ	MEGA	6	6.M.C 6.E.V 6.G.C 6.A.V	2.0 1.5 1.75 0.8	meɣa	0	24
+#
+6	Ancient Attic Greek	BIRD	o r n i s	7 5 4 7 3	XMBYN	URNIS	1	1.U.V 1.R.c 1.N.C 1.I.V 1.S.c	1.5 1.1 1.75 1.3 0.8	ornis	0	27
+125	Ancient Ionic Greek	BIRD	o r n i s	7 5 4 7 3	XMBYN	URNIS	2	2.U.V 2.R.c 2.N.C 2.I.V 2.S.c	1.5 1.1 1.75 1.3 0.8	ornis	0	27
+238	Modern Demotic Greek	BIRD	p u l i	1 7 5 7	AXBZ	PYLI	3	3.P.C 3.Y.V 3.L.C 3.I.V	2.0 1.5 1.75 0.8	puli	0	29
+357	Pharasa Greek	BIRD	p u l i	1 7 5 7	AXBZ	PYLI	4	4.P.C 4.Y.V 4.L.C 4.I.V	2.0 1.5 1.75 0.8	puli	0	29
+469	Southern Tsakonian	BIRD	p u ʎ i	1 7 5 7	AXBZ	PYLI	5	5.P.C 5.Y.V 5.L.C 5.I.V	2.0 1.5 1.75 0.8	puʎi	0	29
+600	Western Cappadocian Greek	BIRD	p u l i	1 7 5 7	AXBZ	PYLI	6	6.P.C 6.Y.V 6.L.C 6.I.V	2.0 1.5 1.75 0.8	puli	0	29
+#
+7	Ancient Attic Greek	BITE	d a k n oː	1 7 1 4 7	AXBCZ	TAKNU	1	1.T.C 1.A.V 1.K.C 1.N.C 1.U.V	2.0 1.5 1.75 1.5 0.8	daknoː	0	30
+126	Ancient Ionic Greek	BITE	d a k n oː	1 7 1 4 7	AXBCZ	TAKNU	2	2.T.C 2.A.V 2.K.C 2.N.C 2.U.V	2.0 1.5 1.75 1.5 0.8	daknoː	0	30
+239	Modern Demotic Greek	BITE	ð a ɡ o n o	3 7 1 7 4 7	AXBYBZ	DAKUNU	3	3.D.C 3.A.V 3.K.C 3.U.V 3.N.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	ðaɡono	0	30
+358	Pharasa Greek	BITE	ð a k n o	3 7 1 4 7	AXBCZ	DAKNU	4	4.D.C 4.A.V 4.K.C 4.N.C 4.U.V	2.0 1.5 1.75 1.5 0.8	ðakno	0	30
+470	Southern Tsakonian	BITE	k a ʦ i n u	1 7 2 7 4 7	AXBYBZ	KACINY	5	5.K.C 5.A.V 5.C.C 5.I.V 5.N.C 5.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kaʦinu	0	34
+601	Western Cappadocian Greek	BITE	ð a k n o	3 7 1 4 7	AXBCZ	DAKNU	6	6.D.C 6.A.V 6.K.C 6.N.C 6.U.V	2.0 1.5 1.75 1.5 0.8	ðakno	0	30
+#
+8	Ancient Attic Greek	BLACK	m e l a n	4 7 5 7 4	AXBYN	MELAN	1	1.M.C 1.E.V 1.L.C 1.A.V 1.N.c	2.0 1.5 1.75 1.3 0.8	melan	0	35
+127	Ancient Ionic Greek	BLACK	m e l a n	4 7 5 7 4	AXBYN	MELAN	2	2.M.C 2.E.V 2.L.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	melan	0	35
+240	Modern Demotic Greek	BLACK	m a v r o s	4 7 3 5 7 3	AXBCYN	MABRUS	3	3.M.C 3.A.V 3.B.C 3.R.C 3.U.V 3.S.c	2.0 1.5 1.75 1.5 1.3 0.8	mavros	0	37
+359	Pharasa Greek	BLACK	m a v r o	4 7 3 5 7	AXBCZ	MABRU	4	4.M.C 4.A.V 4.B.C 4.R.C 4.U.V	2.0 1.5 1.75 1.5 0.8	mavro	0	37
+471	Southern Tsakonian	BLACK	k u v a n e	1 7 3 7 4 7	AXBYBZ	KYBANE	5	5.K.C 5.Y.V 5.B.C 5.A.V 5.N.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kuvane	0	39
+602	Western Cappadocian Greek	BLACK	m a v r o	4 7 3 5 7	AXBCZ	MABRU	6	6.M.C 6.A.V 6.B.C 6.R.C 6.U.V	2.0 1.5 1.75 1.5 0.8	mavro	0	37
+#
+9	Ancient Attic Greek	BLOOD	h a j m a	3 7 6 4 7	AXMBZ	HAJMA	1	1.H.C 1.A.V 1.J.c 1.M.C 1.A.V	2.0 1.5 1.1 1.75 0.8	hajma	0	42
+128	Ancient Ionic Greek	BLOOD	a j m a	7 6 4 7	XMBZ	AJMA	2	2.A.V 2.J.c 2.M.C 2.A.V	1.5 1.1 1.75 0.8	ajma	0	42
+241	Modern Demotic Greek	BLOOD	e m a	7 4 7	XBZ	EMA	3	3.E.V 3.M.C 3.A.V	1.5 1.75 0.8	ema	0	42
+360	Pharasa Greek	BLOOD	a i m a	7 7 4 7	XYBZ	AIMA	4	4.A.V 4.I.V 4.M.C 4.A.V	1.5 1.3 1.75 0.8	aima	0	42
+472	Southern Tsakonian	BLOOD	e m a	7 4 7	XBZ	EMA	5	5.E.V 5.M.C 5.A.V	1.5 1.75 0.8	ema	0	42
+603	Western Cappadocian Greek	BLOOD	o i m a	7 7 4 7	XYBZ	UIMA	6	6.U.V 6.I.V 6.M.C 6.A.V	1.5 1.3 1.75 0.8	oima	0	42
+#
+10	Ancient Attic Greek	BONE	o s t e o n	7 3 1 7 7 4	XMBYYN	USTEUN	1	1.U.V 1.S.c 1.T.C 1.E.V 1.U.V 1.N.c	1.5 1.1 1.75 1.3 1.3 0.8	osteon	0	43
+129	Ancient Ionic Greek	BONE	o s t e o n	7 3 1 7 7 4	XMBYYN	USTEUN	2	2.U.V 2.S.c 2.T.C 2.E.V 2.U.V 2.N.c	1.5 1.1 1.75 1.3 1.3 0.8	osteon	0	43
+242	Modern Demotic Greek	BONE	k o k a l o	1 7 1 7 5 7	AXBYBZ	KUKALU	3	3.K.C 3.U.V 3.K.C 3.A.V 3.L.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	kokalo	0	45
+361	Pharasa Greek	BONE	s t o	3 1 7	ACZ	STU	4	4.S.C 4.T.C 4.U.V	2.0 1.5 0.8	sto	0	46
+473	Southern Tsakonian	BONE	k o k a l e	1 7 1 7 5 7	AXBYBZ	KUKALE	5	5.K.C 5.U.V 5.K.C 5.A.V 5.L.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kokale	0	45
+604	Western Cappadocian Greek	BONE	s ʧ a s	3 2 7 3	ACYN	SCAS	6	6.S.C 6.C.C 6.A.V 6.S.c	2.0 1.5 1.3 0.8	sʧas	0	46
+#
+11	Ancient Attic Greek	BREAST	s t eː tʰ o s	3 1 7 1 7 3	ACYBYN	STETUS	1	1.S.C 1.T.C 1.E.V 1.T.C 1.U.V 1.S.c	2.0 1.5 1.3 1.75 1.3 0.8	steːtʰos	0	47
+130	Ancient Ionic Greek	BREAST	s t eː tʰ e a	3 1 7 1 7 7	ACYBYZ	STETEA	2	2.S.C 2.T.C 2.E.V 2.T.C 2.E.V 2.A.V	2.0 1.5 1.3 1.75 1.3 0.8	steːtʰea	0	47
+243	Modern Demotic Greek	BREAST	s t i θ o s	3 1 7 3 7 3	ACYBYN	STIDUS	3	3.S.C 3.T.C 3.I.V 3.D.C 3.U.V 3.S.c	2.0 1.5 1.3 1.75 1.3 0.8	stiθos	0	47
+362	Pharasa Greek	BREAST	k a r d i a	1 7 5 1 7 7	AXMBYZ	KARTIA	4	4.K.C 4.A.V 4.R.c 4.T.C 4.I.V 4.A.V	2.0 1.5 1.1 1.75 1.3 0.8	kardia	0	50
+474	Southern Tsakonian	BREAST	s t i θ i	3 1 7 3 7	ACYBZ	STIDI	5	5.S.C 5.T.C 5.I.V 5.D.C 5.I.V	2.0 1.5 1.3 1.75 0.8	stiθi	0	47
+605	Western Cappadocian Greek	BREAST	k o r f o s	1 7 5 3 7 3	AXMBYN	KURBUS	6	6.K.C 6.U.V 6.R.c 6.B.C 6.U.V 6.S.c	2.0 1.5 1.1 1.75 1.3 0.8	korfos	0	52
+606	Western Cappadocian Greek	BREAST	k o l f o s	1 7 5 3 7 3	AXMBYN	KULBUS	6	6.K.C 6.U.V 6.L.c 6.B.C 6.U.V 6.S.c	2.0 1.5 1.1 1.75 1.3 0.8	kolfos	0	52
+#
+12	Ancient Attic Greek	BURN (SOMETHING)	k a oː	1 7 7	AXZ	KAU	1	1.K.C 1.A.V 1.U.V	2.0 1.5 0.8	kaoː	0	53
+131	Ancient Ionic Greek	BURN (SOMETHING)	k a j oː	1 7 6 7	AXBZ	KAJU	2	2.K.C 2.A.V 2.J.C 2.U.V	2.0 1.5 1.75 0.8	kajoː	0	53
+244	Modern Demotic Greek	BURN (SOMETHING)	c e o	1 7 7	AXZ	CEU	3	3.C.C 3.E.V 3.U.V	2.0 1.5 0.8	ceo	0	53
+363	Pharasa Greek	BURN (SOMETHING)	k a f t o	1 7 3 1 7	AXMBZ	KABTU	4	4.K.C 4.A.V 4.B.c 4.T.C 4.U.V	2.0 1.5 1.1 1.75 0.8	kafto	0	56
+475	Southern Tsakonian	BURN (SOMETHING)	ð e s u	3 7 3 7	AXBZ	DESY	5	5.D.C 5.E.V 5.S.C 5.Y.V	2.0 1.5 1.75 0.8	ðesu	0	57
+607	Western Cappadocian Greek	BURN (SOMETHING)	k a f t o	1 7 3 1 7	AXMBZ	KABTU	6	6.K.C 6.A.V 6.B.c 6.T.C 6.U.V	2.0 1.5 1.1 1.75 0.8	kafto	0	56
+#
+77	Ancient Attic Greek	CIRCULAR (ROUND IN TWO DIMENSIONS)	p e r i pʰ e r eː	1 7 5 7 1 7 5 7	AXBYBYBZ	PERIPERE	1	1.P.C 1.E.V 1.R.C 1.I.V 1.P.C 1.E.V 1.R.C 1.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	peripʰereː	0	58
+190	Ancient Ionic Greek	CIRCULAR (ROUND IN TWO DIMENSIONS)	k y k l o t e r eː	1 7 1 5 7 1 7 5 7	AXBCYBYBZ	KYKLUTERE	2	2.K.C 2.Y.V 2.K.C 2.L.C 2.U.V 2.T.C 2.E.V 2.R.C 2.E.V	2.0 1.5 1.75 1.5 1.3 1.75 1.3 1.75 0.8	kyklotereː	0	59
+#
+14	Ancient Attic Greek	CLOUD	n e pʰ o s	4 7 1 7 3	AXBYN	NEPUS	1	1.N.C 1.E.V 1.P.C 1.U.V 1.S.c	2.0 1.5 1.75 1.3 0.8	nepʰos	0	60
+133	Ancient Ionic Greek	CLOUD	n e pʰ o s	4 7 1 7 3	AXBYN	NEPUS	2	2.N.C 2.E.V 2.P.C 2.U.V 2.S.c	2.0 1.5 1.75 1.3 0.8	nepʰos	0	60
+246	Modern Demotic Greek	CLOUD	s i n e f o	3 7 4 7 3 7	AXBYBZ	SINEBU	3	3.S.C 3.I.V 3.N.C 3.E.V 3.B.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	sinefo	0	60
+365	Pharasa Greek	CLOUD	s i n e f a	3 7 4 7 3 7	AXBYBZ	SINEBA	4	4.S.C 4.I.V 4.N.C 4.E.V 4.B.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	sinefa	0	60
+477	Southern Tsakonian	CLOUD	s i ɣ n e f o	3 7 3 4 7 3 7	AXBCYBZ	SIGNEBU	5	5.S.C 5.I.V 5.G.C 5.N.C 5.E.V 5.B.C 5.U.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	siɣnefo	0	60
+478	Southern Tsakonian	CLOUD	s i n e f o	3 7 4 7 3 7	AXBYBZ	SINEBU	5	5.S.C 5.I.V 5.N.C 5.E.V 5.B.C 5.U.V	2.0 1.5 1.75 1.3 1.75 0.8	sinefo	0	60
+609	Western Cappadocian Greek	CLOUD	ʃ i n e f o	3 7 4 7 3 7	AXBYBZ	SINEBU	6	6.S.C 6.I.V 6.N.C 6.E.V 6.B.C 6.U.V	2.0 1.5 1.75 1.3 1.75 0.8	ʃinefo	0	60
+#
+15	Ancient Attic Greek	COLD (OF WEATHER)	p s yː kʰ r o s	1 3 7 1 5 7 3	ACXBCYN	PSYKRUS	1	1.P.C 1.S.C 1.Y.V 1.K.C 1.R.C 1.U.V 1.S.c	2.0 1.5 1.5 1.75 1.5 1.3 0.8	psyːkʰros	0	61
+134	Ancient Ionic Greek	COLD (OF WEATHER)	p s yː kʰ r o	1 3 7 1 5 7	ACXBCZ	PSYKRU	2	2.P.C 2.S.C 2.Y.V 2.K.C 2.R.C 2.U.V	2.0 1.5 1.5 1.75 1.5 0.8	psyːkʰro	0	61
+247	Modern Demotic Greek	COLD (OF WEATHER)	k r i o	1 5 7 7	ACXZ	KRIU	3	3.K.C 3.R.C 3.I.V 3.U.V	2.0 1.5 1.5 0.8	krio	0	63
+479	Southern Tsakonian	COLD (OF WEATHER)	p s u x r e	1 3 7 3 5 7	ACXBCZ	PSYGRE	5	5.P.C 5.S.C 5.Y.V 5.G.C 5.R.C 5.E.V	2.0 1.5 1.5 1.75 1.5 0.8	psuxre	0	61
+#
+16	Ancient Attic Greek	COME	h eː k oː	3 7 1 7	AXBZ	HEKU	1	1.H.C 1.E.V 1.K.C 1.U.V	2.0 1.5 1.75 0.8	heːkoː	0	64
+17	Ancient Attic Greek	COME	ʌ l tʰ	7 5 1	XLN	ELT	1	1.E.V 1.L.c 1.T.c	1.5 1.1 0.8	ʌltʰ	0	70
+135	Ancient Ionic Greek	COME	e r kʰ o m a j	7 5 1 7 4 7 6	XMBYBYN	ERKUMAJ	2	2.E.V 2.R.c 2.K.C 2.U.V 2.M.C 2.A.V 2.J.c	1.5 1.1 1.75 1.3 1.75 1.3 0.8	erkʰomaj	0	65
+136	Ancient Ionic Greek	COME	e l tʰ	7 5 1	XLN	ELT	2	2.E.V 2.L.c 2.T.c	1.5 1.1 0.8	eltʰ	0	70
+248	Modern Demotic Greek	COME	e r x o m e	7 5 3 7 4 7	XMBYBZ	ERGUME	3	3.E.V 3.R.c 3.G.C 3.U.V 3.M.C 3.E.V	1.5 1.1 1.75 1.3 1.75 0.8	erxome	0	65
+249	Modern Demotic Greek	COME	i r θ a	7 5 3 7	XMBZ	IRDA	3	3.I.V 3.R.c 3.D.C 3.A.V	1.5 1.1 1.75 0.8	irθa	0	72
+366	Pharasa Greek	COME	e r x u m e	7 5 3 7 4 7	XMBYBZ	ERGYME	4	4.E.V 4.R.c 4.G.C 4.Y.V 4.M.C 4.E.V	1.5 1.1 1.75 1.3 1.75 0.8	erxume	0	65
+367	Pharasa Greek	COME	i r t a	7 5 1 7	XMBZ	IRTA	4	4.I.V 4.R.c 4.T.C 4.A.V	1.5 1.1 1.75 0.8	irta	0	72
+480	Southern Tsakonian	COME	p a r̝ i u	1 7 5 7 7	AXBYZ	PARIY	5	5.P.C 5.A.V 5.R.C 5.I.V 5.Y.V	2.0 1.5 1.75 1.3 0.8	par̝iu	0	68
+481	Southern Tsakonian	COME	e k a n	7 1 7 4	XBYN	EKAN	5	5.E.V 5.K.C 5.A.V 5.N.c	1.5 1.75 1.3 0.8	ekan	0	74
+610	Western Cappadocian Greek	COME	e r x u m e	7 5 3 7 4 7	XMBYBZ	ERGYME	6	6.E.V 6.R.c 6.G.C 6.Y.V 6.M.C 6.E.V	1.5 1.1 1.75 1.3 1.75 0.8	erxume	0	65
+611	Western Cappadocian Greek	COME	i r t a	7 5 1 7	XMBZ	IRTA	6	6.I.V 6.R.c 6.T.C 6.A.V	1.5 1.1 1.75 0.8	irta	0	72
+#
+18	Ancient Attic Greek	DIE	a p o tʰ n eː j s k oː	7 1 7 1 4 7 6 3 1 7	XBYBCYLMBZ	APUTNEJSKU	1	1.A.V 1.P.C 1.U.V 1.T.C 1.N.C 1.E.V 1.J.c 1.S.c 1.K.C 1.U.V	1.5 1.75 1.3 1.75 1.5 1.3 1.1 1.1 1.75 0.8	apotʰneːjskoː	0	75
+137	Ancient Ionic Greek	DIE	a p o tʰ n eː j s k oː	7 1 7 1 4 7 6 3 1 7	XBYBCYLMBZ	APUTNEJSKU	2	2.A.V 2.P.C 2.U.V 2.T.C 2.N.C 2.E.V 2.J.c 2.S.c 2.K.C 2.U.V	1.5 1.75 1.3 1.75 1.5 1.3 1.1 1.1 1.75 0.8	apotʰneːjskoː	0	75
+250	Modern Demotic Greek	DIE	p e θ e n o	1 7 3 7 4 7	AXBYBZ	PEDENU	3	3.P.C 3.E.V 3.D.C 3.E.V 3.N.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	peθeno	0	77
+368	Pharasa Greek	DIE	x a n	3 7 4	AXN	GAN	4	4.G.C 4.A.V 4.N.c	2.0 1.5 0.8	xan	0	78
+482	Southern Tsakonian	DIE	p e n a kʰ u	1 7 4 7 1 7	AXBYBZ	PENAKY	5	5.P.C 5.E.V 5.N.C 5.A.V 5.K.C 5.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	penakʰu	0	75
+612	Western Cappadocian Greek	DIE	p e r a n i ʃ k o	1 7 5 7 4 7 3 1 7	AXBYBYMBZ	PERANISKU	6	6.P.C 6.E.V 6.R.C 6.A.V 6.N.C 6.I.V 6.S.c 6.K.C 6.U.V	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 0.8	peraniʃko	0	75
+#
+19	Ancient Attic Greek	DOG	k yː oː n	1 7 7 4	AXYN	KYUN	1	1.K.C 1.Y.V 1.U.V 1.N.c	2.0 1.5 1.3 0.8	kyːoːn	0	79
+138	Ancient Ionic Greek	DOG	k yː oː n	1 7 7 4	AXYN	KYUN	2	2.K.C 2.Y.V 2.U.V 2.N.c	2.0 1.5 1.3 0.8	kyːoːn	0	79
+251	Modern Demotic Greek	DOG	s c i l o s	3 1 7 5 7 3	ACYBYN	SCILUS	3	3.S.C 3.C.C 3.I.V 3.L.C 3.U.V 3.S.c	2.0 1.5 1.3 1.75 1.3 0.8	scilos	0	81
+369	Pharasa Greek	DOG	s ʧ i l i	3 2 7 5 7	ACYBZ	SCILI	4	4.S.C 4.C.C 4.I.V 4.L.C 4.I.V	2.0 1.5 1.3 1.75 0.8	sʧili	0	81
+483	Southern Tsakonian	DOG	k u e	1 7 7	AXZ	KYE	5	5.K.C 5.Y.V 5.E.V	2.0 1.5 0.8	kue	0	79
+613	Western Cappadocian Greek	DOG	ʃ c i l i	3 1 7 5 7	ACYBZ	SCILI	6	6.S.C 6.C.C 6.I.V 6.L.C 6.I.V	2.0 1.5 1.3 1.75 0.8	ʃcili	0	81
+#
+20	Ancient Attic Greek	DRINK	p iː n oː	1 7 4 7	AXBZ	PINU	1	1.P.C 1.I.V 1.N.C 1.U.V	2.0 1.5 1.75 0.8	piːnoː	0	82
+139	Ancient Ionic Greek	DRINK	p iː n oː	1 7 4 7	AXBZ	PINU	2	2.P.C 2.I.V 2.N.C 2.U.V	2.0 1.5 1.75 0.8	piːnoː	0	82
+252	Modern Demotic Greek	DRINK	p i n o	1 7 4 7	AXBZ	PINU	3	3.P.C 3.I.V 3.N.C 3.U.V	2.0 1.5 1.75 0.8	pino	0	82
+370	Pharasa Greek	DRINK	p i n o	1 7 4 7	AXBZ	PINU	4	4.P.C 4.I.V 4.N.C 4.U.V	2.0 1.5 1.75 0.8	pino	0	82
+484	Southern Tsakonian	DRINK	c i n u	1 7 4 7	AXBZ	CINY	5	5.C.C 5.I.V 5.N.C 5.Y.V	2.0 1.5 1.75 0.8	cinu	0	82
+614	Western Cappadocian Greek	DRINK	p j i n i ʃ k o	1 6 7 4 7 3 1 7	ACXBYMBZ	PJINISKU	6	6.P.C 6.J.C 6.I.V 6.N.C 6.I.V 6.S.c 6.K.C 6.U.V	2.0 1.5 1.5 1.75 1.3 1.1 1.75 0.8	pjiniʃko	0	87
+#
+21	Ancient Attic Greek	DRY	k s eː r o	1 3 7 5 7	ACXBZ	KSERU	1	1.K.C 1.S.C 1.E.V 1.R.C 1.U.V	2.0 1.5 1.5 1.75 0.8	kseːro	0	88
+140	Ancient Ionic Greek	DRY	a w o	7 6 7	XBZ	AWU	2	2.A.V 2.W.C 2.U.V	1.5 1.75 0.8	awo	0	89
+253	Modern Demotic Greek	DRY	s t e ɣ n o	3 1 7 3 4 7	ACYBCZ	STEGNU	3	3.S.C 3.T.C 3.E.V 3.G.C 3.N.C 3.U.V	2.0 1.5 1.3 1.75 1.5 0.8	steɣno	0	90
+371	Pharasa Greek	DRY	k s e r o	1 3 7 5 7	ACXBZ	KSERU	4	4.K.C 4.S.C 4.E.V 4.R.C 4.U.V	2.0 1.5 1.5 1.75 0.8	ksero	0	88
+485	Southern Tsakonian	DRY	ʦ e r e	2 7 5 7	AXBZ	CERE	5	5.C.C 5.E.V 5.R.C 5.E.V	2.0 1.5 1.75 0.8	ʦere	0	88
+615	Western Cappadocian Greek	DRY	k s e r o	1 3 7 5 7	ACXBZ	KSERU	6	6.K.C 6.S.C 6.E.V 6.R.C 6.U.V	2.0 1.5 1.5 1.75 0.8	ksero	0	88
+#
+22	Ancient Attic Greek	EAR	oː t	7 1	XN	UT	1	1.U.V 1.T.c	1.5 0.8	oːt	0	91
+141	Ancient Ionic Greek	EAR	oː t	7 1	XN	UT	2	2.U.V 2.T.c	1.5 0.8	oːt	0	91
+254	Modern Demotic Greek	EAR	a f t i	7 3 1 7	XMBZ	ABTI	3	3.A.V 3.B.c 3.T.C 3.I.V	1.5 1.1 1.75 0.8	afti	0	93
+372	Pharasa Greek	EAR	t i	1 7	AX	TI	4	4.T.C 4.I.V	2.0 1.5	ti	0	91
+486	Southern Tsakonian	EAR	a v o t a n a	7 3 7 1 7 4 7	XBYBYBZ	ABUTANA	5	5.A.V 5.B.C 5.U.V 5.T.C 5.A.V 5.N.C 5.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	avotana	0	95
+487	Southern Tsakonian	EAR	a v u t a n a	7 3 7 1 7 4 7	XBYBYBZ	ABYTANA	5	5.A.V 5.B.C 5.Y.V 5.T.C 5.A.V 5.N.C 5.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	avutana	0	95
+616	Western Cappadocian Greek	EAR	a f ʧ i	7 3 2 7	XMBZ	ABCI	6	6.A.V 6.B.c 6.C.C 6.I.V	1.5 1.1 1.75 0.8	afʧi	0	93
+617	Western Cappadocian Greek	EAR	f ʧ i	3 2 7	ACZ	BCI	6	6.B.C 6.C.C 6.I.V	2.0 1.5 0.8	fʧi	0	98
+#
+23	Ancient Attic Greek	EARTH (SOIL)	ɡ eː	1 7	AX	KE	1	1.K.C 1.E.V	2.0 1.5	ɡeː	0	99
+142	Ancient Ionic Greek	EARTH (SOIL)	ɡ eː	1 7	AX	KE	2	2.K.C 2.E.V	2.0 1.5	ɡeː	0	99
+255	Modern Demotic Greek	EARTH (SOIL)	x o m a	3 7 4 7	AXBZ	GUMA	3	3.G.C 3.U.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	xoma	0	101
+373	Pharasa Greek	EARTH (SOIL)	x o m a	3 7 4 7	AXBZ	GUMA	4	4.G.C 4.U.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	xoma	0	101
+488	Southern Tsakonian	EARTH (SOIL)	x o m a	3 7 4 7	AXBZ	GUMA	5	5.G.C 5.U.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	xoma	0	101
+489	Southern Tsakonian	EARTH (SOIL)	x u m a	3 7 4 7	AXBZ	GYMA	5	5.G.C 5.Y.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	xuma	0	101
+618	Western Cappadocian Greek	EARTH (SOIL)	x o m a	3 7 4 7	AXBZ	GUMA	6	6.G.C 6.U.V 6.M.C 6.A.V	2.0 1.5 1.75 0.8	xoma	0	101
+#
+24	Ancient Attic Greek	EAT	e s tʰ i oː	7 3 1 7 7	XMBYZ	ESTIU	1	1.E.V 1.S.c 1.T.C 1.I.V 1.U.V	1.5 1.1 1.75 1.3 0.8	estʰioː	0	102
+25	Ancient Attic Greek	EAT	pʰ a ɡ	1 7 1	AXN	PAK	1	1.P.C 1.A.V 1.K.c	2.0 1.5 0.8	pʰaɡ	0	108
+143	Ancient Ionic Greek	EAT	s i t e o m a j	3 7 1 7 7 4 7 6	AXBYYBYN	SITEUMAJ	2	2.S.C 2.I.V 2.T.C 2.E.V 2.U.V 2.M.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 1.3 1.75 1.3 0.8	siteomaj	0	103
+256	Modern Demotic Greek	EAT	t r o o	1 5 7 7	ACXZ	TRUU	3	3.T.C 3.R.C 3.U.V 3.U.V	2.0 1.5 1.5 0.8	troo	0	104
+257	Modern Demotic Greek	EAT	e f a ɣ a	7 3 7 3 7	XBYBZ	EBAGA	3	3.E.V 3.B.C 3.A.V 3.G.C 3.A.V	1.5 1.75 1.3 1.75 0.8	efaɣa	0	109
+374	Pharasa Greek	EAT	t r o ɣ o	1 5 7 3 7	ACXBZ	TRUGU	4	4.T.C 4.R.C 4.U.V 4.G.C 4.U.V	2.0 1.5 1.5 1.75 0.8	troɣo	0	104
+375	Pharasa Greek	EAT	e f a ɣ a	7 3 7 3 7	XBYBZ	EBAGA	4	4.E.V 4.B.C 4.A.V 4.G.C 4.A.V	1.5 1.75 1.3 1.75 0.8	efaɣa	0	109
+490	Southern Tsakonian	EAT	ʧ u	2 7	AX	CY	5	5.C.C 5.Y.V	2.0 1.5	ʧu	0	106
+491	Southern Tsakonian	EAT	e f a i k a	7 3 7 7 1 7	XBYYBZ	EBAIKA	5	5.E.V 5.B.C 5.A.V 5.I.V 5.K.C 5.A.V	1.5 1.75 1.3 1.3 1.75 0.8	efaika	0	109
+619	Western Cappadocian Greek	EAT	t r o ɣ o	1 5 7 3 7	ACXBZ	TRUGU	6	6.T.C 6.R.C 6.U.V 6.G.C 6.U.V	2.0 1.5 1.5 1.75 0.8	troɣo	0	104
+620	Western Cappadocian Greek	EAT	e f a ɣ a	7 3 7 3 7	XBYBZ	EBAGA	6	6.E.V 6.B.C 6.A.V 6.G.C 6.A.V	1.5 1.75 1.3 1.75 0.8	efaɣa	0	109
+#
+26	Ancient Attic Greek	EGG	oː j o n	7 6 7 4	XBYN	UJUN	1	1.U.V 1.J.C 1.U.V 1.N.c	1.5 1.75 1.3 0.8	oːjon	0	110
+144	Ancient Ionic Greek	EGG	oː j o n	7 6 7 4	XBYN	UJUN	2	2.U.V 2.J.C 2.U.V 2.N.c	1.5 1.75 1.3 0.8	oːjon	0	110
+258	Modern Demotic Greek	EGG	a v ɣ o	7 3 3 7	XMBZ	ABGU	3	3.A.V 3.B.c 3.G.C 3.U.V	1.5 1.1 1.75 0.8	avɣo	0	112
+376	Pharasa Greek	EGG	v o	3 7	AX	BU	4	4.B.C 4.U.V	2.0 1.5	vo	0	113
+492	Southern Tsakonian	EGG	a v u ɣ o	7 3 7 3 7	XBYBZ	ABYGU	5	5.A.V 5.B.C 5.Y.V 5.G.C 5.U.V	1.5 1.75 1.3 1.75 0.8	avuɣo	0	112
+621	Western Cappadocian Greek	EGG	o v ɣ o	7 3 3 7	XMBZ	UBGU	6	6.U.V 6.B.c 6.G.C 6.U.V	1.5 1.1 1.75 0.8	ovɣo	0	112
+#
+27	Ancient Attic Greek	EYE	o pʰ tʰ a l m o s	7 1 1 7 5 4 7 3	XMBYMBYN	UPTALMUS	1	1.U.V 1.P.c 1.T.C 1.A.V 1.L.c 1.M.C 1.U.V 1.S.c	1.5 1.1 1.75 1.3 1.1 1.75 1.3 0.8	opʰtʰalmos	0	114
+28	Ancient Attic Greek	EYE	o m m a	7 4 4 7	XMBZ	UMMA	1	1.U.V 1.M.c 1.M.C 1.A.V	1.5 1.1 1.75 0.8	omma	0	120
+145	Ancient Ionic Greek	EYE	o pʰ tʰ a l m o s	7 1 1 7 5 4 7 3	XMBYMBYN	UPTALMUS	2	2.U.V 2.P.c 2.T.C 2.A.V 2.L.c 2.M.C 2.U.V 2.S.c	1.5 1.1 1.75 1.3 1.1 1.75 1.3 0.8	opʰtʰalmos	0	114
+259	Modern Demotic Greek	EYE	m a t i	4 7 1 7	AXBZ	MATI	3	3.M.C 3.A.V 3.T.C 3.I.V	2.0 1.5 1.75 0.8	mati	0	116
+377	Pharasa Greek	EYE	f t a l m i	3 1 7 5 4 7	ACYMBZ	BTALMI	4	4.B.C 4.T.C 4.A.V 4.L.c 4.M.C 4.I.V	2.0 1.5 1.3 1.1 1.75 0.8	ftalmi	0	117
+493	Southern Tsakonian	EYE	p s i l e	1 3 7 5 7	ACXBZ	PSILE	5	5.P.C 5.S.C 5.I.V 5.L.C 5.E.V	2.0 1.5 1.5 1.75 0.8	psile	0	118
+622	Western Cappadocian Greek	EYE	m a ʃ	4 7 3	AXN	MAS	6	6.M.C 6.A.V 6.S.c	2.0 1.5 0.8	maʃ	0	116
+#
+111	Ancient Attic Greek	FAR	p o r r oː	1 7 5 5 7	AXMBZ	PURRU	1	1.P.C 1.U.V 1.R.c 1.R.C 1.U.V	2.0 1.5 1.1 1.75 0.8	porroː	0	121
+223	Ancient Ionic Greek	FAR	p r o s oː	1 5 7 3 7	ACXBZ	PRUSU	2	2.P.C 2.R.C 2.U.V 2.S.C 2.U.V	2.0 1.5 1.5 1.75 0.8	prosoː	0	122
+342	Modern Demotic Greek	FAR	m a k r i a	4 7 1 5 7 7	AXBCYZ	MAKRIA	3	3.M.C 3.A.V 3.K.C 3.R.C 3.I.V 3.A.V	2.0 1.5 1.75 1.5 1.3 0.8	makria	0	123
+458	Pharasa Greek	FAR	m a k r a	4 7 1 5 7	AXBCZ	MAKRA	4	4.M.C 4.A.V 4.K.C 4.R.C 4.A.V	2.0 1.5 1.75 1.5 0.8	makra	0	123
+583	Southern Tsakonian	FAR	a l a r ɣ a	7 5 7 5 3 7	XBYMBZ	ALARGA	5	5.A.V 5.L.C 5.A.V 5.R.c 5.G.C 5.A.V	1.5 1.75 1.3 1.1 1.75 0.8	alarɣa	0	125
+705	Western Cappadocian Greek	FAR	m a k r a	4 7 1 5 7	AXBCZ	MAKRA	6	6.M.C 6.A.V 6.K.C 6.R.C 6.A.V	2.0 1.5 1.75 1.5 0.8	makra	0	123
+#
+29	Ancient Attic Greek	FAT (ORGANIC SUBSTANCE)	p iː m e l eː	1 7 4 7 5 7	AXBYBZ	PIMELE	1	1.P.C 1.I.V 1.M.C 1.E.V 1.L.C 1.E.V	2.0 1.5 1.75 1.3 1.75 0.8	piːmeleː	0	126
+146	Ancient Ionic Greek	FAT (ORGANIC SUBSTANCE)	p iː m e l eː	1 7 4 7 5 7	AXBYBZ	PIMELE	2	2.P.C 2.I.V 2.M.C 2.E.V 2.L.C 2.E.V	2.0 1.5 1.75 1.3 1.75 0.8	piːmeleː	0	126
+260	Modern Demotic Greek	FAT (ORGANIC SUBSTANCE)	l i p o s	5 7 1 7 3	AXBYN	LIPUS	3	3.L.C 3.I.V 3.P.C 3.U.V 3.S.c	2.0 1.5 1.75 1.3 0.8	lipos	0	128
+378	Pharasa Greek	FAT (ORGANIC SUBSTANCE)	a l i m a	7 5 7 4 7	XBYBZ	ALIMA	4	4.A.V 4.L.C 4.I.V 4.M.C 4.A.V	1.5 1.75 1.3 1.75 0.8	alima	0	129
+494	Southern Tsakonian	FAT (ORGANIC SUBSTANCE)	k s i n ʒ i	1 3 7 4 3 7	ACXMBZ	KSINSI	5	5.K.C 5.S.C 5.I.V 5.N.c 5.S.C 5.I.V	2.0 1.5 1.5 1.1 1.75 0.8	ksinʒi	0	130
+623	Western Cappadocian Greek	FAT (ORGANIC SUBSTANCE)	a l i m a	7 5 7 4 7	XBYBZ	ALIMA	6	6.A.V 6.L.C 6.I.V 6.M.C 6.A.V	1.5 1.75 1.3 1.75 0.8	alima	0	129
+#
+30	Ancient Attic Greek	FEATHER	p t e r o n	1 1 7 5 7 4	ACYBYN	PTERUN	1	1.P.C 1.T.C 1.E.V 1.R.C 1.U.V 1.N.c	2.0 1.5 1.3 1.75 1.3 0.8	pteron	0	131
+147	Ancient Ionic Greek	FEATHER	p t e r o n	1 1 7 5 7 4	ACYBYN	PTERUN	2	2.P.C 2.T.C 2.E.V 2.R.C 2.U.V 2.N.c	2.0 1.5 1.3 1.75 1.3 0.8	pteron	0	131
+261	Modern Demotic Greek	FEATHER	f t e r o	3 1 7 5 7	ACYBZ	BTERU	3	3.B.C 3.T.C 3.E.V 3.R.C 3.U.V	2.0 1.5 1.3 1.75 0.8	ftero	0	131
+379	Pharasa Greek	FEATHER	f t e r u	3 1 7 5 7	ACYBZ	BTERY	4	4.B.C 4.T.C 4.E.V 4.R.C 4.Y.V	2.0 1.5 1.3 1.75 0.8	fteru	0	131
+495	Southern Tsakonian	FEATHER	f t e r e	3 1 7 5 7	ACYBZ	BTERE	5	5.B.C 5.T.C 5.E.V 5.R.C 5.E.V	2.0 1.5 1.3 1.75 0.8	ftere	0	131
+624	Western Cappadocian Greek	FEATHER	f t e r o	3 1 7 5 7	ACYBZ	BTERU	6	6.B.C 6.T.C 6.E.V 6.R.C 6.U.V	2.0 1.5 1.3 1.75 0.8	ftero	0	131
+#
+13	Ancient Attic Greek	FINGERNAIL	o n y kʰ	7 4 7 1	XBYN	UNYK	1	1.U.V 1.N.C 1.Y.V 1.K.c	1.5 1.75 1.3 0.8	onykʰ	0	132
+132	Ancient Ionic Greek	FINGERNAIL	o n y kʰ	7 4 7 1	XBYN	UNYK	2	2.U.V 2.N.C 2.Y.V 2.K.c	1.5 1.75 1.3 0.8	onykʰ	0	132
+245	Modern Demotic Greek	FINGERNAIL	n i ç i	4 7 3 7	AXBZ	NISI	3	3.N.C 3.I.V 3.S.C 3.I.V	2.0 1.5 1.75 0.8	niçi	0	134
+364	Pharasa Greek	FINGERNAIL	n i ʃ i	4 7 3 7	AXBZ	NISI	4	4.N.C 4.I.V 4.S.C 4.I.V	2.0 1.5 1.75 0.8	niʃi	0	134
+476	Southern Tsakonian	FINGERNAIL	ɲ i ç i	4 7 3 7	AXBZ	NISI	5	5.N.C 5.I.V 5.S.C 5.I.V	2.0 1.5 1.75 0.8	ɲiçi	0	134
+608	Western Cappadocian Greek	FINGERNAIL	n i ç	4 7 3	AXN	NIS	6	6.N.C 6.I.V 6.S.c	2.0 1.5 0.8	niç	0	134
+#
+31	Ancient Attic Greek	FIRE	p yː r	1 7 5	AXN	PYR	1	1.P.C 1.Y.V 1.R.c	2.0 1.5 0.8	pyːr	0	135
+148	Ancient Ionic Greek	FIRE	p yː r	1 7 5	AXN	PYR	2	2.P.C 2.Y.V 2.R.c	2.0 1.5 0.8	pyːr	0	135
+262	Modern Demotic Greek	FIRE	f o t ç a	3 7 1 3 7	AXBCZ	BUTSA	3	3.B.C 3.U.V 3.T.C 3.S.C 3.A.V	2.0 1.5 1.75 1.5 0.8	fotça	0	137
+380	Pharasa Greek	FIRE	n i s t i a	4 7 3 1 7 7	AXMBYZ	NISTIA	4	4.N.C 4.I.V 4.S.c 4.T.C 4.I.V 4.A.V	2.0 1.5 1.1 1.75 1.3 0.8	nistia	0	138
+496	Southern Tsakonian	FIRE	kʰ a r a	1 7 5 7	AXBZ	KARA	5	5.K.C 5.A.V 5.R.C 5.A.V	2.0 1.5 1.75 0.8	kʰara	0	139
+625	Western Cappadocian Greek	FIRE	n i ʃ ʧ a	4 7 3 2 7	AXMBZ	NISCA	6	6.N.C 6.I.V 6.S.c 6.C.C 6.A.V	2.0 1.5 1.1 1.75 0.8	niʃʧa	0	138
+#
+32	Ancient Attic Greek	FISH	i kʰ tʰ yː s	7 1 1 7 3	XMBYN	IKTYS	1	1.I.V 1.K.c 1.T.C 1.Y.V 1.S.c	1.5 1.1 1.75 1.3 0.8	ikʰtʰyːs	0	140
+149	Ancient Ionic Greek	FISH	i kʰ tʰ yː s	7 1 1 7 3	XMBYN	IKTYS	2	2.I.V 2.K.c 2.T.C 2.Y.V 2.S.c	1.5 1.1 1.75 1.3 0.8	ikʰtʰyːs	0	140
+263	Modern Demotic Greek	FISH	p s a r i	1 3 7 5 7	ACXBZ	PSARI	3	3.P.C 3.S.C 3.A.V 3.R.C 3.I.V	2.0 1.5 1.5 1.75 0.8	psari	0	142
+381	Pharasa Greek	FISH	p s a r i	1 3 7 5 7	ACXBZ	PSARI	4	4.P.C 4.S.C 4.A.V 4.R.C 4.I.V	2.0 1.5 1.5 1.75 0.8	psari	0	142
+497	Southern Tsakonian	FISH	p s a r̝ i	1 3 7 5 7	ACXBZ	PSARI	5	5.P.C 5.S.C 5.A.V 5.R.C 5.I.V	2.0 1.5 1.5 1.75 0.8	psar̝i	0	142
+626	Western Cappadocian Greek	FISH	p s a r	1 3 7 5	ACXN	PSAR	6	6.P.C 6.S.C 6.A.V 6.R.c	2.0 1.5 1.5 0.8	psar	0	142
+#
+58	Ancient Attic Greek	FLESH OR MEAT	k r e a s	1 5 7 7 3	ACXYN	KREAS	1	1.K.C 1.R.C 1.E.V 1.A.V 1.S.c	2.0 1.5 1.5 1.3 0.8	kreas	0	143
+173	Ancient Ionic Greek	FLESH OR MEAT	k r e a s	1 5 7 7 3	ACXYN	KREAS	2	2.K.C 2.R.C 2.E.V 2.A.V 2.S.c	2.0 1.5 1.5 1.3 0.8	kreas	0	143
+289	Modern Demotic Greek	FLESH OR MEAT	k r e a s	1 5 7 7 3	ACXYN	KREAS	3	3.K.C 3.R.C 3.E.V 3.A.V 3.S.c	2.0 1.5 1.5 1.3 0.8	kreas	0	143
+405	Pharasa Greek	FLESH OR MEAT	k r æ s	1 5 7 3	ACXN	KRES	4	4.K.C 4.R.C 4.E.V 4.S.c	2.0 1.5 1.5 0.8	kræs	0	143
+524	Southern Tsakonian	FLESH OR MEAT	k r i e	1 5 7 7	ACXZ	KRIE	5	5.K.C 5.R.C 5.I.V 5.E.V	2.0 1.5 1.5 0.8	krie	0	143
+652	Western Cappadocian Greek	FLESH OR MEAT	c i r j a s	1 7 5 6 7 3	AXBCYN	CIRJAS	6	6.C.C 6.I.V 6.R.C 6.J.C 6.A.V 6.S.c	2.0 1.5 1.75 1.5 1.3 0.8	cirjas	0	148
+#
+33	Ancient Attic Greek	FLY (MOVE THROUGH AIR)	p e t o m a j	1 7 1 7 4 7 6	AXBYBYN	PETUMAJ	1	1.P.C 1.E.V 1.T.C 1.U.V 1.M.C 1.A.V 1.J.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	petomaj	0	149
+150	Ancient Ionic Greek	FLY (MOVE THROUGH AIR)	p e t o m a j	1 7 1 7 4 7 6	AXBYBYN	PETUMAJ	2	2.P.C 2.E.V 2.T.C 2.U.V 2.M.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	petomaj	0	149
+264	Modern Demotic Greek	FLY (MOVE THROUGH AIR)	p e t o	1 7 1 7	AXBZ	PETU	3	3.P.C 3.E.V 3.T.C 3.U.V	2.0 1.5 1.75 0.8	peto	0	149
+382	Pharasa Greek	FLY (MOVE THROUGH AIR)	p e t t a o	1 7 1 1 7 7	AXMBYZ	PETTAU	4	4.P.C 4.E.V 4.T.c 4.T.C 4.A.V 4.U.V	2.0 1.5 1.1 1.75 1.3 0.8	pettao	0	152
+498	Southern Tsakonian	FLY (MOVE THROUGH AIR)	p e t u	1 7 1 7	AXBZ	PETY	5	5.P.C 5.E.V 5.T.C 5.Y.V	2.0 1.5 1.75 0.8	petu	0	149
+627	Western Cappadocian Greek	FLY (MOVE THROUGH AIR)	p e t a n o	1 7 1 7 4 7	AXBYBZ	PETANU	6	6.P.C 6.E.V 6.T.C 6.A.V 6.N.C 6.U.V	2.0 1.5 1.75 1.3 1.75 0.8	petano	0	149
+#
+34	Ancient Attic Greek	FOOT	p o d	1 7 1	AXN	PUT	1	1.P.C 1.U.V 1.T.c	2.0 1.5 0.8	pod	0	153
+151	Ancient Ionic Greek	FOOT	p o d	1 7 1	AXN	PUT	2	2.P.C 2.U.V 2.T.c	2.0 1.5 0.8	pod	0	153
+265	Modern Demotic Greek	FOOT	p o ð i	1 7 3 7	AXBZ	PUDI	3	3.P.C 3.U.V 3.D.C 3.I.V	2.0 1.5 1.75 0.8	poði	0	155
+383	Pharasa Greek	FOOT	p o r a ð i	1 7 5 7 3 7	AXBYBZ	PURADI	4	4.P.C 4.U.V 4.R.C 4.A.V 4.D.C 4.I.V	2.0 1.5 1.75 1.3 1.75 0.8	poraði	0	155
+499	Southern Tsakonian	FOOT	p u a	1 7 7	AXZ	PYA	5	5.P.C 5.Y.V 5.A.V	2.0 1.5 0.8	pua	0	157
+628	Western Cappadocian Greek	FOOT	p r e j	1 5 7 6	ACXN	PREJ	6	6.P.C 6.R.C 6.E.V 6.J.c	2.0 1.5 1.5 0.8	prej	0	158
+#
+35	Ancient Attic Greek	FULL	p l eː r eː	1 5 7 5 7	ACXBZ	PLERE	1	1.P.C 1.L.C 1.E.V 1.R.C 1.E.V	2.0 1.5 1.5 1.75 0.8	pleːreː	0	159
+36	Ancient Attic Greek	FULL	m e s t o	4 7 3 1 7	AXMBZ	MESTU	1	1.M.C 1.E.V 1.S.c 1.T.C 1.U.V	2.0 1.5 1.1 1.75 0.8	mesto	0	165
+152	Ancient Ionic Greek	FULL	p l e o	1 5 7 7	ACXZ	PLEU	2	2.P.C 2.L.C 2.E.V 2.U.V	2.0 1.5 1.5 0.8	pleo	0	159
+266	Modern Demotic Greek	FULL	ʝ e m a t o	3 7 4 7 1 7	AXBYBZ	SEMATU	3	3.S.C 3.E.V 3.M.C 3.A.V 3.T.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	ʝemato	0	161
+384	Pharasa Greek	FULL	e m o	7 4 7	XBZ	EMU	4	4.E.V 4.M.C 4.U.V	1.5 1.75 0.8	emo	0	162
+500	Southern Tsakonian	FULL	ʝ o m a t e	3 7 4 7 1 7	AXBYBZ	SUMATE	5	5.S.C 5.U.V 5.M.C 5.A.V 5.T.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	ʝomate	0	161
+629	Western Cappadocian Greek	FULL	ɣ o m o m e n o	3 7 4 7 4 7 4 7	AXBYBYBZ	GUMUMENU	6	6.G.C 6.U.V 6.M.C 6.U.V 6.M.C 6.E.V 6.N.C 6.U.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	ɣomomeno	0	164
+#
+37	Ancient Attic Greek	GIVE	d i d oː m i	1 7 1 7 4 7	AXBYBZ	TITUMI	1	1.T.C 1.I.V 1.T.C 1.U.V 1.M.C 1.I.V	2.0 1.5 1.75 1.3 1.75 0.8	didoːmi	0	166
+153	Ancient Ionic Greek	GIVE	d i d oː m i	1 7 1 7 4 7	AXBYBZ	TITUMI	2	2.T.C 2.I.V 2.T.C 2.U.V 2.M.C 2.I.V	2.0 1.5 1.75 1.3 1.75 0.8	didoːmi	0	166
+267	Modern Demotic Greek	GIVE	ð i n o	3 7 4 7	AXBZ	DINU	3	3.D.C 3.I.V 3.N.C 3.U.V	2.0 1.5 1.75 0.8	ðino	0	168
+385	Pharasa Greek	GIVE	ð i t o	3 7 1 7	AXBZ	DITU	4	4.D.C 4.I.V 4.T.C 4.U.V	2.0 1.5 1.75 0.8	ðito	0	169
+501	Southern Tsakonian	GIVE	ð i u	3 7 7	AXZ	DIY	5	5.D.C 5.I.V 5.Y.V	2.0 1.5 0.8	ðiu	0	169
+630	Western Cappadocian Greek	GIVE	d i n o	1 7 4 7	AXBZ	TINU	6	6.T.C 6.I.V 6.N.C 6.U.V	2.0 1.5 1.75 0.8	dino	0	168
+#
+38	Ancient Attic Greek	GOOD	a ɡ a tʰ o	7 1 7 1 7	XBYBZ	AKATU	1	1.A.V 1.K.C 1.A.V 1.T.C 1.U.V	1.5 1.75 1.3 1.75 0.8	aɡatʰo	0	170
+154	Ancient Ionic Greek	GOOD	kʰ r eː s t o s	1 5 7 3 1 7 3	ACXMBYN	KRESTUS	2	2.K.C 2.R.C 2.E.V 2.S.c 2.T.C 2.U.V 2.S.c	2.0 1.5 1.5 1.1 1.75 1.3 0.8	kʰreːstos	0	171
+268	Modern Demotic Greek	GOOD	k a l o	1 7 5 7	AXBZ	KALU	3	3.K.C 3.A.V 3.L.C 3.U.V	2.0 1.5 1.75 0.8	kalo	0	172
+386	Pharasa Greek	GOOD	k a o	1 7 7	AXZ	KAU	4	4.K.C 4.A.V 4.U.V	2.0 1.5 0.8	kao	0	172
+502	Southern Tsakonian	GOOD	k a l e	1 7 5 7	AXBZ	KALE	5	5.K.C 5.A.V 5.L.C 5.E.V	2.0 1.5 1.75 0.8	kale	0	172
+631	Western Cappadocian Greek	GOOD	k a l o	1 7 5 7	AXBZ	KALU	6	6.K.C 6.A.V 6.L.C 6.U.V	2.0 1.5 1.75 0.8	kalo	0	172
+#
+39	Ancient Attic Greek	GREEN	ɡ l a w k o	1 5 7 6 1 7	ACXMBZ	KLAWKU	1	1.K.C 1.L.C 1.A.V 1.W.c 1.K.C 1.U.V	2.0 1.5 1.5 1.1 1.75 0.8	ɡlawko	0	173
+269	Modern Demotic Greek	GREEN	p r a s i n o	1 5 7 3 7 4 7	ACXBYBZ	PRASINU	3	3.P.C 3.R.C 3.A.V 3.S.C 3.I.V 3.N.C 3.U.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	prasino	0	174
+503	Southern Tsakonian	GREEN	p r a s i n e	1 5 7 3 7 4 7	ACXBYBZ	PRASINE	5	5.P.C 5.R.C 5.A.V 5.S.C 5.I.V 5.N.C 5.E.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	prasine	0	174
+632	Western Cappadocian Greek	GREEN	p r a ʃ i n o	1 5 7 3 7 4 7	ACXBYBZ	PRASINU	6	6.P.C 6.R.C 6.A.V 6.S.C 6.I.V 6.N.C 6.U.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	praʃino	0	174
+#
+40	Ancient Attic Greek	HAIR	t r i kʰ e s	1 5 7 1 7 3	ACXBYN	TRIKES	1	1.T.C 1.R.C 1.I.V 1.K.C 1.E.V 1.S.c	2.0 1.5 1.5 1.75 1.3 0.8	trikʰes	0	175
+155	Ancient Ionic Greek	HAIR	t r i kʰ e s	1 5 7 1 7 3	ACXBYN	TRIKES	2	2.T.C 2.R.C 2.I.V 2.K.C 2.E.V 2.S.c	2.0 1.5 1.5 1.75 1.3 0.8	trikʰes	0	175
+270	Modern Demotic Greek	HAIR	m a ʎ a	4 7 5 7	AXBZ	MALA	3	3.M.C 3.A.V 3.L.C 3.A.V	2.0 1.5 1.75 0.8	maʎa	0	177
+387	Pharasa Greek	HAIR	m a l i a	4 7 5 7 7	AXBYZ	MALIA	4	4.M.C 4.A.V 4.L.C 4.I.V 4.A.V	2.0 1.5 1.75 1.3 0.8	malia	0	177
+504	Southern Tsakonian	HAIR	ʧ i ç e	2 7 3 7	AXBZ	CISE	5	5.C.C 5.I.V 5.S.C 5.E.V	2.0 1.5 1.75 0.8	ʧiçe	0	179
+633	Western Cappadocian Greek	HAIR	m a l j a	4 7 5 6 7	AXBCZ	MALJA	6	6.M.C 6.A.V 6.L.C 6.J.C 6.A.V	2.0 1.5 1.75 1.5 0.8	malja	0	177
+#
+41	Ancient Attic Greek	HAND	kʰ e j r	1 7 6 5	AXLN	KEJR	1	1.K.C 1.E.V 1.J.c 1.R.c	2.0 1.5 1.1 0.8	kʰejr	0	180
+156	Ancient Ionic Greek	HAND	kʰ e j r	1 7 6 5	AXLN	KEJR	2	2.K.C 2.E.V 2.J.c 2.R.c	2.0 1.5 1.1 0.8	kʰejr	0	180
+271	Modern Demotic Greek	HAND	ç e r i	3 7 5 7	AXBZ	SERI	3	3.S.C 3.E.V 3.R.C 3.I.V	2.0 1.5 1.75 0.8	çeri	0	182
+388	Pharasa Greek	HAND	ʃ e r i	3 7 5 7	AXBZ	SERI	4	4.S.C 4.E.V 4.R.C 4.I.V	2.0 1.5 1.75 0.8	ʃeri	0	182
+505	Southern Tsakonian	HAND	ç e r a	3 7 5 7	AXBZ	SERA	5	5.S.C 5.E.V 5.R.C 5.A.V	2.0 1.5 1.75 0.8	çera	0	182
+634	Western Cappadocian Greek	HAND	ç e r	3 7 5	AXN	SER	6	6.S.C 6.E.V 6.R.c	2.0 1.5 0.8	çer	0	182
+#
+42	Ancient Attic Greek	HEAD	k e pʰ a l eː	1 7 1 7 5 7	AXBYBZ	KEPALE	1	1.K.C 1.E.V 1.P.C 1.A.V 1.L.C 1.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kepʰaleː	0	183
+157	Ancient Ionic Greek	HEAD	k e pʰ a l eː	1 7 1 7 5 7	AXBYBZ	KEPALE	2	2.K.C 2.E.V 2.P.C 2.A.V 2.L.C 2.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kepʰaleː	0	183
+272	Modern Demotic Greek	HEAD	c e f a l i	1 7 3 7 5 7	AXBYBZ	CEBALI	3	3.C.C 3.E.V 3.B.C 3.A.V 3.L.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	cefali	0	183
+389	Pharasa Greek	HEAD	ʧ u f a l i	2 7 3 7 5 7	AXBYBZ	CYBALI	4	4.C.C 4.Y.V 4.B.C 4.A.V 4.L.C 4.I.V	2.0 1.5 1.75 1.3 1.75 0.8	ʧufali	0	183
+506	Southern Tsakonian	HEAD	ʨ u f a	2 7 3 7	AXBZ	CYBA	5	5.C.C 5.Y.V 5.B.C 5.A.V	2.0 1.5 1.75 0.8	ʨufa	0	183
+635	Western Cappadocian Greek	HEAD	c i f a l	1 7 3 7 5	AXBYN	CIBAL	6	6.C.C 6.I.V 6.B.C 6.A.V 6.L.c	2.0 1.5 1.75 1.3 0.8	cifal	0	183
+#
+43	Ancient Attic Greek	HEAR	a k uː oː	7 1 7 7	XBYZ	AKYU	1	1.A.V 1.K.C 1.Y.V 1.U.V	1.5 1.75 1.3 0.8	akuːoː	0	184
+158	Ancient Ionic Greek	HEAR	a k uː oː	7 1 7 7	XBYZ	AKYU	2	2.A.V 2.K.C 2.Y.V 2.U.V	1.5 1.75 1.3 0.8	akuːoː	0	184
+273	Modern Demotic Greek	HEAR	a k u o	7 1 7 7	XBYZ	AKYU	3	3.A.V 3.K.C 3.Y.V 3.U.V	1.5 1.75 1.3 0.8	akuo	0	184
+390	Pharasa Greek	HEAR	k u	1 7	AX	KY	4	4.K.C 4.Y.V	2.0 1.5	ku	0	184
+507	Southern Tsakonian	HEAR	ɲ i u	4 7 7	AXZ	NIY	5	5.N.C 5.I.V 5.Y.V	2.0 1.5 0.8	ɲiu	0	188
+636	Western Cappadocian Greek	HEAR	a k u o	7 1 7 7	XBYZ	AKYU	6	6.A.V 6.K.C 6.Y.V 6.U.V	1.5 1.75 1.3 0.8	akuo	0	184
+#
+44	Ancient Attic Greek	HEART	k a r d i aː	1 7 5 1 7 7	AXMBYZ	KARTIA	1	1.K.C 1.A.V 1.R.c 1.T.C 1.I.V 1.A.V	2.0 1.5 1.1 1.75 1.3 0.8	kardiaː	0	189
+159	Ancient Ionic Greek	HEART	k a r d i eː	1 7 5 1 7 7	AXMBYZ	KARTIE	2	2.K.C 2.A.V 2.R.c 2.T.C 2.I.V 2.E.V	2.0 1.5 1.1 1.75 1.3 0.8	kardieː	0	189
+274	Modern Demotic Greek	HEART	k a r ð ʝ a	1 7 5 3 3 7	AXLMBZ	KARDSA	3	3.K.C 3.A.V 3.R.c 3.D.c 3.S.C 3.A.V	2.0 1.5 1.1 1.1 1.75 0.8	karðʝa	0	189
+391	Pharasa Greek	HEART	k a r d i a	1 7 5 1 7 7	AXMBYZ	KARTIA	4	4.K.C 4.A.V 4.R.c 4.T.C 4.I.V 4.A.V	2.0 1.5 1.1 1.75 1.3 0.8	kardia	1	189
+508	Southern Tsakonian	HEART	k a r ð i a	1 7 5 3 7 7	AXMBYZ	KARDIA	5	5.K.C 5.A.V 5.R.c 5.D.C 5.I.V 5.A.V	2.0 1.5 1.1 1.75 1.3 0.8	karðia	0	189
+637	Western Cappadocian Greek	HEART	k a r j a	1 7 5 6 7	AXBCZ	KARJA	6	6.K.C 6.A.V 6.R.C 6.J.C 6.A.V	2.0 1.5 1.75 1.5 0.8	karja	1	194
+#
+112	Ancient Attic Greek	HEAVY	b a r y	1 7 5 7	AXBZ	PARY	1	1.P.C 1.A.V 1.R.C 1.Y.V	2.0 1.5 1.75 0.8	bary	0	195
+224	Ancient Ionic Greek	HEAVY	e m b r iː tʰ eː	7 4 1 5 7 1 7	XMBCYBZ	EMPRITE	2	2.E.V 2.M.c 2.P.C 2.R.C 2.I.V 2.T.C 2.E.V	1.5 1.1 1.75 1.5 1.3 1.75 0.8	embriːtʰeː	0	196
+343	Modern Demotic Greek	HEAVY	v a r i	3 7 5 7	AXBZ	BARI	3	3.B.C 3.A.V 3.R.C 3.I.V	2.0 1.5 1.75 0.8	vari	0	195
+584	Southern Tsakonian	HEAVY	v a r̝ u	3 7 5 7	AXBZ	BARY	5	5.B.C 5.A.V 5.R.C 5.Y.V	2.0 1.5 1.75 0.8	var̝u	0	195
+706	Western Cappadocian Greek	HEAVY	v a r i	3 7 5 7	AXBZ	BARI	6	6.B.C 6.A.V 6.R.C 6.I.V	2.0 1.5 1.75 0.8	vari	0	195
+#
+45	Ancient Attic Greek	HORN (ANATOMY)	k e r a s	1 7 5 7 3	AXBYN	KERAS	1	1.K.C 1.E.V 1.R.C 1.A.V 1.S.c	2.0 1.5 1.75 1.3 0.8	keras	0	197
+160	Ancient Ionic Greek	HORN (ANATOMY)	k e r a s	1 7 5 7 3	AXBYN	KERAS	2	2.K.C 2.E.V 2.R.C 2.A.V 2.S.c	2.0 1.5 1.75 1.3 0.8	keras	0	197
+275	Modern Demotic Greek	HORN (ANATOMY)	c e r a t o	1 7 5 7 1 7	AXBYBZ	CERATU	3	3.C.C 3.E.V 3.R.C 3.A.V 3.T.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	cerato	0	197
+392	Pharasa Greek	HORN (ANATOMY)	ʦ e r o t o	2 7 5 7 1 7	AXBYBZ	CERUTU	4	4.C.C 4.E.V 4.R.C 4.U.V 4.T.C 4.U.V	2.0 1.5 1.75 1.3 1.75 0.8	ʦeroto	0	197
+509	Southern Tsakonian	HORN (ANATOMY)	ʨ e r a t e	2 7 5 7 1 7	AXBYBZ	CERATE	5	5.C.C 5.E.V 5.R.C 5.A.V 5.T.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	ʨerate	0	197
+510	Southern Tsakonian	HORN (ANATOMY)	ʨ e r a	2 7 5 7	AXBZ	CERA	5	5.C.C 5.E.V 5.R.C 5.A.V	2.0 1.5 1.75 0.8	ʨera	0	197
+638	Western Cappadocian Greek	HORN (ANATOMY)	c e r a t o	1 7 5 7 1 7	AXBYBZ	CERATU	6	6.C.C 6.E.V 6.R.C 6.A.V 6.T.C 6.U.V	2.0 1.5 1.75 1.3 1.75 0.8	cerato	0	197
+#
+46	Ancient Attic Greek	I	e ɡ oː	7 1 7	XBZ	EKU	1	1.E.V 1.K.C 1.U.V	1.5 1.75 0.8	eɡoː	0	200
+47	Ancient Attic Greek	I	e m	7 4	XN	EM	1	1.E.V 1.M.c	1.5 0.8	em	0	204
+161	Ancient Ionic Greek	I	e ɡ oː	7 1 7	XBZ	EKU	2	2.E.V 2.K.C 2.U.V	1.5 1.75 0.8	eɡoː	0	200
+162	Ancient Ionic Greek	I	e m	7 4	XN	EM	2	2.E.V 2.M.c	1.5 0.8	em	0	204
+276	Modern Demotic Greek	I	e ɣ o	7 3 7	XBZ	EGU	3	3.E.V 3.G.C 3.U.V	1.5 1.75 0.8	eɣo	0	200
+277	Modern Demotic Greek	I	e m e n a	7 4 7 4 7	XBYBZ	EMENA	3	3.E.V 3.M.C 3.E.V 3.N.C 3.A.V	1.5 1.75 1.3 1.75 0.8	emena	0	206
+393	Pharasa Greek	I	e ɣ o	7 3 7	XBZ	EGU	4	4.E.V 4.G.C 4.U.V	1.5 1.75 0.8	eɣo	0	200
+394	Pharasa Greek	I	o	7	X	U	4	4.U.V	1.5	o	0	207
+395	Pharasa Greek	I	e m e n a	7 4 7 4 7	XBYBZ	EMENA	4	4.E.V 4.M.C 4.E.V 4.N.C 4.A.V	1.5 1.75 1.3 1.75 0.8	emena	0	206
+511	Southern Tsakonian	I	e z u	7 3 7	XBZ	ESY	5	5.E.V 5.S.C 5.Y.V	1.5 1.75 0.8	ezu	0	200
+512	Southern Tsakonian	I	e ɲ i	7 4 7	XBZ	ENI	5	5.E.V 5.N.C 5.I.V	1.5 1.75 0.8	eɲi	0	206
+639	Western Cappadocian Greek	I	e ɣ o	7 3 7	XBZ	EGU	6	6.E.V 6.G.C 6.U.V	1.5 1.75 0.8	eɣo	0	200
+640	Western Cappadocian Greek	I	e m e n a	7 4 7 4 7	XBYBZ	EMENA	6	6.E.V 6.M.C 6.E.V 6.N.C 6.A.V	1.5 1.75 1.3 1.75 0.8	emena	0	206
+#
+48	Ancient Attic Greek	KILL	a p o k t e j n oː	7 1 7 1 1 7 6 4 7	XBYMBYMBZ	APUKTEJNU	1	1.A.V 1.P.C 1.U.V 1.K.c 1.T.C 1.E.V 1.J.c 1.N.C 1.U.V	1.5 1.75 1.3 1.1 1.75 1.3 1.1 1.75 0.8	apoktejnoː	0	208
+163	Ancient Ionic Greek	KILL	k t e j n oː	1 1 7 6 4 7	ACYMBZ	KTEJNU	2	2.K.C 2.T.C 2.E.V 2.J.c 2.N.C 2.U.V	2.0 1.5 1.3 1.1 1.75 0.8	ktejnoː	0	208
+278	Modern Demotic Greek	KILL	s k o t o n o	3 1 7 1 7 4 7	ACYBYBZ	SKUTUNU	3	3.S.C 3.K.C 3.U.V 3.T.C 3.U.V 3.N.C 3.U.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	skotono	0	210
+396	Pharasa Greek	KILL	s k o t o n o	3 1 7 1 7 4 7	ACYBYBZ	SKUTUNU	4	4.S.C 4.K.C 4.U.V 4.T.C 4.U.V 4.N.C 4.U.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	skotono	0	210
+397	Pharasa Greek	KILL	f s a ɣ n o	3 3 7 3 4 7	ACYBCZ	BSAGNU	4	4.B.C 4.S.C 4.A.V 4.G.C 4.N.C 4.U.V	2.0 1.5 1.3 1.75 1.5 0.8	fsaɣno	0	214
+513	Southern Tsakonian	KILL	s k o t u n u	3 1 7 1 7 4 7	ACYBYBZ	SKUTYNY	5	5.S.C 5.K.C 5.U.V 5.T.C 5.Y.V 5.N.C 5.Y.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	skotunu	0	210
+641	Western Cappadocian Greek	KILL	s k o t o n o	3 1 7 1 7 4 7	ACYBYBZ	SKUTUNU	6	6.S.C 6.K.C 6.U.V 6.T.C 6.U.V 6.N.C 6.U.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	skotono	0	210
+642	Western Cappadocian Greek	KILL	f a x n o	3 7 3 4 7	AXBCZ	BAGNU	6	6.B.C 6.A.V 6.G.C 6.N.C 6.U.V	2.0 1.5 1.75 1.5 0.8	faxno	0	214
+#
+49	Ancient Attic Greek	KNEE	ɡ o n y	1 7 4 7	AXBZ	KUNY	1	1.K.C 1.U.V 1.N.C 1.Y.V	2.0 1.5 1.75 0.8	ɡony	0	215
+164	Ancient Ionic Greek	KNEE	ɡ o n y	1 7 4 7	AXBZ	KUNY	2	2.K.C 2.U.V 2.N.C 2.Y.V	2.0 1.5 1.75 0.8	ɡony	0	215
+279	Modern Demotic Greek	KNEE	ɣ o n a t o	3 7 4 7 1 7	AXBYBZ	GUNATU	3	3.G.C 3.U.V 3.N.C 3.A.V 3.T.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	ɣonato	0	215
+398	Pharasa Greek	KNEE	ɣ o n o t o	3 7 4 7 1 7	AXBYBZ	GUNUTU	4	4.G.C 4.U.V 4.N.C 4.U.V 4.T.C 4.U.V	2.0 1.5 1.75 1.3 1.75 0.8	ɣonoto	0	215
+514	Southern Tsakonian	KNEE	ɣ u n a	3 7 4 7	AXBZ	GYNA	5	5.G.C 5.Y.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	ɣuna	0	215
+643	Western Cappadocian Greek	KNEE	ɣ o n a t o	3 7 4 7 1 7	AXBYBZ	GUNATU	6	6.G.C 6.U.V 6.N.C 6.A.V 6.T.C 6.U.V	2.0 1.5 1.75 1.3 1.75 0.8	ɣonato	0	215
+#
+50	Ancient Attic Greek	KNOW (SOMETHING)	o j d a	7 6 1 7	XMBZ	UJTA	1	1.U.V 1.J.c 1.T.C 1.A.V	1.5 1.1 1.75 0.8	ojda	0	216
+165	Ancient Ionic Greek	KNOW (SOMETHING)	o j d a	7 6 1 7	XMBZ	UJTA	2	2.U.V 2.J.c 2.T.C 2.A.V	1.5 1.1 1.75 0.8	ojda	0	216
+166	Ancient Ionic Greek	KNOW (SOMETHING)	e p i s t a m a j	7 1 7 3 1 7 4 7 6	XBYMBYBYN	EPISTAMAJ	2	2.E.V 2.P.C 2.I.V 2.S.c 2.T.C 2.A.V 2.M.C 2.A.V 2.J.c	1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	epistamaj	0	222
+280	Modern Demotic Greek	KNOW (SOMETHING)	k s e r o	1 3 7 5 7	ACXBZ	KSERU	3	3.K.C 3.S.C 3.E.V 3.R.C 3.U.V	2.0 1.5 1.5 1.75 0.8	ksero	0	218
+399	Pharasa Greek	KNOW (SOMETHING)	k a t e x o	1 7 1 7 3 7	AXBYBZ	KATEGU	4	4.K.C 4.A.V 4.T.C 4.E.V 4.G.C 4.U.V	2.0 1.5 1.75 1.3 1.75 0.8	katexo	0	219
+515	Southern Tsakonian	KNOW (SOMETHING)	k s e r u	1 3 7 5 7	ACXBZ	KSERY	5	5.K.C 5.S.C 5.E.V 5.R.C 5.Y.V	2.0 1.5 1.5 1.75 0.8	kseru	0	218
+644	Western Cappadocian Greek	KNOW (SOMETHING)	k s e v r o	1 3 7 3 5 7	ACXBCZ	KSEBRU	6	6.K.C 6.S.C 6.E.V 6.B.C 6.R.C 6.U.V	2.0 1.5 1.5 1.75 1.5 0.8	ksevro	0	218
+#
+51	Ancient Attic Greek	LEAF	pʰ y l l o n	1 7 5 5 7 4	AXMBYN	PYLLUN	1	1.P.C 1.Y.V 1.L.c 1.L.C 1.U.V 1.N.c	2.0 1.5 1.1 1.75 1.3 0.8	pʰyllon	0	223
+167	Ancient Ionic Greek	LEAF	pʰ y l l o n	1 7 5 5 7 4	AXMBYN	PYLLUN	2	2.P.C 2.Y.V 2.L.c 2.L.C 2.U.V 2.N.c	2.0 1.5 1.1 1.75 1.3 0.8	pʰyllon	0	223
+281	Modern Demotic Greek	LEAF	f i l o	3 7 5 7	AXBZ	BILU	3	3.B.C 3.I.V 3.L.C 3.U.V	2.0 1.5 1.75 0.8	filo	0	225
+400	Pharasa Greek	LEAF	f i o	3 7 7	AXZ	BIU	4	4.B.C 4.I.V 4.U.V	2.0 1.5 0.8	fio	0	225
+516	Southern Tsakonian	LEAF	f i l i	3 7 5 7	AXBZ	BILI	5	5.B.C 5.I.V 5.L.C 5.I.V	2.0 1.5 1.75 0.8	fili	0	225
+645	Western Cappadocian Greek	LEAF	f i l o	3 7 5 7	AXBZ	BILU	6	6.B.C 6.I.V 6.L.C 6.U.V	2.0 1.5 1.75 0.8	filo	0	225
+#
+52	Ancient Attic Greek	LIE (REST)	k a t a k e j m a j	1 7 1 7 1 7 6 4 7 6	AXBYBYMBYN	KATAKEJMAJ	1	1.K.C 1.A.V 1.T.C 1.A.V 1.K.C 1.E.V 1.J.c 1.M.C 1.A.V 1.J.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 0.8	katakejmaj	0	226
+168	Ancient Ionic Greek	LIE (REST)	k e j m a j	1 7 6 4 7 6	AXMBYN	KEJMAJ	2	2.K.C 2.E.V 2.J.c 2.M.C 2.A.V 2.J.c	2.0 1.5 1.1 1.75 1.3 0.8	kejmaj	0	226
+282	Modern Demotic Greek	LIE (REST)	k s a p l o n o	1 3 7 1 5 7 4 7	ACXBCYBZ	KSAPLUNU	3	3.K.C 3.S.C 3.A.V 3.P.C 3.L.C 3.U.V 3.N.C 3.U.V	2.0 1.5 1.5 1.75 1.5 1.3 1.75 0.8	ksaplono	0	228
+517	Southern Tsakonian	LIE (REST)	ʦ a p r u kʰ u	2 7 1 5 7 1 7	AXBCYBZ	CAPRYKY	5	5.C.C 5.A.V 5.P.C 5.R.C 5.Y.V 5.K.C 5.Y.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	ʦaprukʰu	0	229
+646	Western Cappadocian Greek	LIE (REST)	x a l a n o	3 7 5 7 4 7	AXBYBZ	GALANU	6	6.G.C 6.A.V 6.L.C 6.A.V 6.N.C 6.U.V	2.0 1.5 1.75 1.3 1.75 0.8	xalano	0	228
+#
+53	Ancient Attic Greek	LIVER	h eː p a r	3 7 1 7 5	AXBYN	HEPAR	1	1.H.C 1.E.V 1.P.C 1.A.V 1.R.c	2.0 1.5 1.75 1.3 0.8	heːpar	0	230
+283	Modern Demotic Greek	LIVER	s i k o t i	3 7 1 7 1 7	AXBYBZ	SIKUTI	3	3.S.C 3.I.V 3.K.C 3.U.V 3.T.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	sikoti	0	231
+401	Pharasa Greek	LIVER	s i ɡ o t i	3 7 1 7 1 7	AXBYBZ	SIKUTI	4	4.S.C 4.I.V 4.K.C 4.U.V 4.T.C 4.I.V	2.0 1.5 1.75 1.3 1.75 0.8	siɡoti	0	231
+518	Southern Tsakonian	LIVER	ʃ k o c i	3 1 7 1 7	ACYBZ	SKUCI	5	5.S.C 5.K.C 5.U.V 5.C.C 5.I.V	2.0 1.5 1.3 1.75 0.8	ʃkoci	0	231
+647	Western Cappadocian Greek	LIVER	ʃ k o t	3 1 7 1	ACYN	SKUT	6	6.S.C 6.K.C 6.U.V 6.T.c	2.0 1.5 1.3 0.8	ʃkot	0	231
+#
+54	Ancient Attic Greek	LONG	m a k r o	4 7 1 5 7	AXBCZ	MAKRU	1	1.M.C 1.A.V 1.K.C 1.R.C 1.U.V	2.0 1.5 1.75 1.5 0.8	makro	0	232
+169	Ancient Ionic Greek	LONG	m a k r o	4 7 1 5 7	AXBCZ	MAKRU	2	2.M.C 2.A.V 2.K.C 2.R.C 2.U.V	2.0 1.5 1.75 1.5 0.8	makro	0	232
+284	Modern Demotic Greek	LONG	m a k r i	4 7 1 5 7	AXBCZ	MAKRI	3	3.M.C 3.A.V 3.K.C 3.R.C 3.I.V	2.0 1.5 1.75 1.5 0.8	makri	0	232
+519	Southern Tsakonian	LONG	m a k r̝ u	4 7 1 5 7	AXBCZ	MAKRY	5	5.M.C 5.A.V 5.K.C 5.R.C 5.Y.V	2.0 1.5 1.75 1.5 0.8	makr̝u	0	232
+648	Western Cappadocian Greek	LONG	m a k r i	4 7 1 5 7	AXBCZ	MAKRI	6	6.M.C 6.A.V 6.K.C 6.R.C 6.I.V	2.0 1.5 1.75 1.5 0.8	makri	0	232
+#
+55	Ancient Attic Greek	LOUSE	pʰ tʰ e j r	1 1 7 6 5	ACYLN	PTEJR	1	1.P.C 1.T.C 1.E.V 1.J.c 1.R.c	2.0 1.5 1.3 1.1 0.8	pʰtʰejr	0	233
+170	Ancient Ionic Greek	LOUSE	pʰ tʰ e j r	1 1 7 6 5	ACYLN	PTEJR	2	2.P.C 2.T.C 2.E.V 2.J.c 2.R.c	2.0 1.5 1.3 1.1 0.8	pʰtʰejr	0	233
+285	Modern Demotic Greek	LOUSE	p s i r a	1 3 7 5 7	ACXBZ	PSIRA	3	3.P.C 3.S.C 3.I.V 3.R.C 3.A.V	2.0 1.5 1.5 1.75 0.8	psira	0	235
+402	Pharasa Greek	LOUSE	f θ i r i	3 3 7 5 7	ACYBZ	BDIRI	4	4.B.C 4.D.C 4.I.V 4.R.C 4.I.V	2.0 1.5 1.3 1.75 0.8	fθiri	0	233
+520	Southern Tsakonian	LOUSE	p s i r a	1 3 7 5 7	ACXBZ	PSIRA	5	5.P.C 5.S.C 5.I.V 5.R.C 5.A.V	2.0 1.5 1.5 1.75 0.8	psira	0	235
+649	Western Cappadocian Greek	LOUSE	f ʧ i r	3 2 7 5	ACYN	BCIR	6	6.B.C 6.C.C 6.I.V 6.R.c	2.0 1.5 1.3 0.8	fʧir	0	233
+#
+56	Ancient Attic Greek	MALE PERSON	a n eː r	7 4 7 5	XBYN	ANER	1	1.A.V 1.N.C 1.E.V 1.R.c	1.5 1.75 1.3 0.8	aneːr	0	236
+171	Ancient Ionic Greek	MALE PERSON	a n eː r	7 4 7 5	XBYN	ANER	2	2.A.V 2.N.C 2.E.V 2.R.c	1.5 1.75 1.3 0.8	aneːr	0	236
+286	Modern Demotic Greek	MALE PERSON	a n ð r a s	7 4 3 5 7 3	XMBCYN	ANDRAS	3	3.A.V 3.N.c 3.D.C 3.R.C 3.A.V 3.S.c	1.5 1.1 1.75 1.5 1.3 0.8	anðras	0	238
+287	Modern Demotic Greek	MALE PERSON	a d r a s	7 1 5 7 3	XBCYN	ATRAS	3	3.A.V 3.T.C 3.R.C 3.A.V 3.S.c	1.5 1.75 1.5 1.3 0.8	adras	0	238
+403	Pharasa Greek	MALE PERSON	n o m a t	4 7 4 7 1	AXBYN	NUMAT	4	4.N.C 4.U.V 4.M.C 4.A.V 4.T.c	2.0 1.5 1.75 1.3 0.8	nomat	0	239
+521	Southern Tsakonian	MALE PERSON	a ʧ o p o	7 2 7 1 7	XBYBZ	ACUPU	5	5.A.V 5.C.C 5.U.V 5.P.C 5.U.V	1.5 1.75 1.3 1.75 0.8	aʧopo	0	240
+650	Western Cappadocian Greek	MALE PERSON	a r o p o s	7 5 7 1 7 3	XBYBYN	ARUPUS	6	6.A.V 6.R.C 6.U.V 6.P.C 6.U.V 6.S.c	1.5 1.75 1.3 1.75 1.3 0.8	aropos	0	240
+#
+57	Ancient Attic Greek	MANY	p o l y	1 7 5 7	AXBZ	PULY	1	1.P.C 1.U.V 1.L.C 1.Y.V	2.0 1.5 1.75 0.8	poly	0	241
+172	Ancient Ionic Greek	MANY	p o l l o	1 7 5 5 7	AXMBZ	PULLU	2	2.P.C 2.U.V 2.L.c 2.L.C 2.U.V	2.0 1.5 1.1 1.75 0.8	pollo	0	241
+288	Modern Demotic Greek	MANY	p o l i	1 7 5 7	AXBZ	PULI	3	3.P.C 3.U.V 3.L.C 3.I.V	2.0 1.5 1.75 0.8	poli	0	241
+404	Pharasa Greek	MANY	p o l i	1 7 5 7	AXBZ	PULI	4	4.P.C 4.U.V 4.L.C 4.I.V	2.0 1.5 1.75 0.8	poli	0	241
+522	Southern Tsakonian	MANY	p a s e	1 7 3 7	AXBZ	PASE	5	5.P.C 5.A.V 5.S.C 5.E.V	2.0 1.5 1.75 0.8	pase	0	245
+523	Southern Tsakonian	MANY	p e r s e	1 7 5 3 7	AXMBZ	PERSE	5	5.P.C 5.E.V 5.R.c 5.S.C 5.E.V	2.0 1.5 1.1 1.75 0.8	perse	0	245
+651	Western Cappadocian Greek	MANY	p o l i	1 7 5 7	AXBZ	PULI	6	6.P.C 6.U.V 6.L.C 6.I.V	2.0 1.5 1.75 0.8	poli	0	241
+#
+59	Ancient Attic Greek	MOON	s e l eː n eː	3 7 5 7 4 7	AXBYBZ	SELENE	1	1.S.C 1.E.V 1.L.C 1.E.V 1.N.C 1.E.V	2.0 1.5 1.75 1.3 1.75 0.8	seleːneː	0	246
+174	Ancient Ionic Greek	MOON	s e l eː n eː	3 7 5 7 4 7	AXBYBZ	SELENE	2	2.S.C 2.E.V 2.L.C 2.E.V 2.N.C 2.E.V	2.0 1.5 1.75 1.3 1.75 0.8	seleːneː	0	246
+290	Modern Demotic Greek	MOON	f e ɡ a r i	3 7 1 7 5 7	AXBYBZ	BEKARI	3	3.B.C 3.E.V 3.K.C 3.A.V 3.R.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	feɡari	0	248
+406	Pharasa Greek	MOON	f e ŋ ɡ o s	3 7 4 1 7 3	AXMBYN	BENKUS	4	4.B.C 4.E.V 4.N.c 4.K.C 4.U.V 4.S.c	2.0 1.5 1.1 1.75 1.3 0.8	feŋɡos	0	248
+525	Southern Tsakonian	MOON	f e ŋ ɡ a r̝ i	3 7 4 1 7 5 7	AXMBYBZ	BENKARI	5	5.B.C 5.E.V 5.N.c 5.K.C 5.A.V 5.R.C 5.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	feŋɡar̝i	0	248
+653	Western Cappadocian Greek	MOON	f e ŋ ɡ o s	3 7 4 1 7 3	AXMBYN	BENKUS	6	6.B.C 6.E.V 6.N.c 6.K.C 6.U.V 6.S.c	2.0 1.5 1.1 1.75 1.3 0.8	feŋɡos	0	248
+#
+60	Ancient Attic Greek	MOUNTAIN	o r o s	7 5 7 3	XBYN	URUS	1	1.U.V 1.R.C 1.U.V 1.S.c	1.5 1.75 1.3 0.8	oros	0	249
+175	Ancient Ionic Greek	MOUNTAIN	o r o s	7 5 7 3	XBYN	URUS	2	2.U.V 2.R.C 2.U.V 2.S.c	1.5 1.75 1.3 0.8	oros	0	249
+291	Modern Demotic Greek	MOUNTAIN	v u n o	3 7 4 7	AXBZ	BYNU	3	3.B.C 3.Y.V 3.N.C 3.U.V	2.0 1.5 1.75 0.8	vuno	0	251
+407	Pharasa Greek	MOUNTAIN	r u ʃ i	5 7 3 7	AXBZ	RYSI	4	4.R.C 4.Y.V 4.S.C 4.I.V	2.0 1.5 1.75 0.8	ruʃi	0	249
+526	Southern Tsakonian	MOUNTAIN	ʃ i n a	3 7 4 7	AXBZ	SINA	5	5.S.C 5.I.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	ʃina	0	253
+654	Western Cappadocian Greek	MOUNTAIN	v u n i	3 7 4 7	AXBZ	BYNI	6	6.B.C 6.Y.V 6.N.C 6.I.V	2.0 1.5 1.75 0.8	vuni	0	251
+#
+61	Ancient Attic Greek	MOUTH	s t o m a	3 1 7 4 7	ACYBZ	STUMA	1	1.S.C 1.T.C 1.U.V 1.M.C 1.A.V	2.0 1.5 1.3 1.75 0.8	stoma	0	254
+176	Ancient Ionic Greek	MOUTH	s t o m a	3 1 7 4 7	ACYBZ	STUMA	2	2.S.C 2.T.C 2.U.V 2.M.C 2.A.V	2.0 1.5 1.3 1.75 0.8	stoma	0	254
+292	Modern Demotic Greek	MOUTH	s t o m a	3 1 7 4 7	ACYBZ	STUMA	3	3.S.C 3.T.C 3.U.V 3.M.C 3.A.V	2.0 1.5 1.3 1.75 0.8	stoma	0	254
+408	Pharasa Greek	MOUTH	s t o m a	3 1 7 4 7	ACYBZ	STUMA	4	4.S.C 4.T.C 4.U.V 4.M.C 4.A.V	2.0 1.5 1.3 1.75 0.8	stoma	0	254
+527	Southern Tsakonian	MOUTH	tʰ u m a	1 7 4 7	AXBZ	TYMA	5	5.T.C 5.Y.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	tʰuma	0	254
+655	Western Cappadocian Greek	MOUTH	s t o m a	3 1 7 4 7	ACYBZ	STUMA	6	6.S.C 6.T.C 6.U.V 6.M.C 6.A.V	2.0 1.5 1.3 1.75 0.8	stoma	0	254
+#
+62	Ancient Attic Greek	NAME	o n o m a	7 4 7 4 7	XBYBZ	UNUMA	1	1.U.V 1.N.C 1.U.V 1.M.C 1.A.V	1.5 1.75 1.3 1.75 0.8	onoma	0	255
+177	Ancient Ionic Greek	NAME	uː n o m a	7 4 7 4 7	XBYBZ	YNUMA	2	2.Y.V 2.N.C 2.U.V 2.M.C 2.A.V	1.5 1.75 1.3 1.75 0.8	uːnoma	0	255
+293	Modern Demotic Greek	NAME	o n o m a	7 4 7 4 7	XBYBZ	UNUMA	3	3.U.V 3.N.C 3.U.V 3.M.C 3.A.V	1.5 1.75 1.3 1.75 0.8	onoma	0	255
+409	Pharasa Greek	NAME	o n o m a	7 4 7 4 7	XBYBZ	UNUMA	4	4.U.V 4.N.C 4.U.V 4.M.C 4.A.V	1.5 1.75 1.3 1.75 0.8	onoma	0	255
+528	Southern Tsakonian	NAME	o n u m a	7 4 7 4 7	XBYBZ	UNYMA	5	5.U.V 5.N.C 5.Y.V 5.M.C 5.A.V	1.5 1.75 1.3 1.75 0.8	onuma	0	255
+656	Western Cappadocian Greek	NAME	o n o m a	7 4 7 4 7	XBYBZ	UNUMA	6	6.U.V 6.N.C 6.U.V 6.M.C 6.A.V	1.5 1.75 1.3 1.75 0.8	onoma	0	255
+#
+113	Ancient Attic Greek	NEAR	e n ɡ y s	7 4 1 7 3	XMBYN	ENKYS	1	1.E.V 1.N.c 1.K.C 1.Y.V 1.S.c	1.5 1.1 1.75 1.3 0.8	enɡys	0	256
+225	Ancient Ionic Greek	NEAR	a n kʰ uː	7 4 1 7	XMBZ	ANKY	2	2.A.V 2.N.c 2.K.C 2.Y.V	1.5 1.1 1.75 0.8	ankʰuː	0	256
+344	Modern Demotic Greek	NEAR	k o d a	1 7 1 7	AXBZ	KUTA	3	3.K.C 3.U.V 3.T.C 3.A.V	2.0 1.5 1.75 0.8	koda	0	258
+459	Pharasa Greek	NEAR	k o n d a	1 7 4 1 7	AXMBZ	KUNTA	4	4.K.C 4.U.V 4.N.c 4.T.C 4.A.V	2.0 1.5 1.1 1.75 0.8	konda	0	258
+585	Southern Tsakonian	NEAR	k o n d a	1 7 4 1 7	AXMBZ	KUNTA	5	5.K.C 5.U.V 5.N.c 5.T.C 5.A.V	2.0 1.5 1.1 1.75 0.8	konda	0	258
+707	Western Cappadocian Greek	NEAR	k o n d a	1 7 4 1 7	AXMBZ	KUNTA	6	6.K.C 6.U.V 6.N.c 6.T.C 6.A.V	2.0 1.5 1.1 1.75 0.8	konda	0	258
+#
+63	Ancient Attic Greek	NECK	a w kʰ eː n	7 6 1 7 4	XMBYN	AWKEN	1	1.A.V 1.W.c 1.K.C 1.E.V 1.N.c	1.5 1.1 1.75 1.3 0.8	awkʰeːn	0	259
+178	Ancient Ionic Greek	NECK	a w kʰ eː n	7 6 1 7 4	XMBYN	AWKEN	2	2.A.V 2.W.c 2.K.C 2.E.V 2.N.c	1.5 1.1 1.75 1.3 0.8	awkʰeːn	0	259
+294	Modern Demotic Greek	NECK	l e m o s	5 7 4 7 3	AXBYN	LEMUS	3	3.L.C 3.E.V 3.M.C 3.U.V 3.S.c	2.0 1.5 1.75 1.3 0.8	lemos	0	261
+410	Pharasa Greek	NECK	ɣ u r ɣ u r i	3 7 5 3 7 5 7	AXMBYBZ	GYRGYRI	4	4.G.C 4.Y.V 4.R.c 4.G.C 4.Y.V 4.R.C 4.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ɣurɣuri	0	262
+529	Southern Tsakonian	NECK	l e m o	5 7 4 7	AXBZ	LEMU	5	5.L.C 5.E.V 5.M.C 5.U.V	2.0 1.5 1.75 0.8	lemo	0	261
+657	Western Cappadocian Greek	NECK	ɣ u r ɣ u r	3 7 5 3 7 5	AXMBYN	GYRGYR	6	6.G.C 6.Y.V 6.R.c 6.G.C 6.Y.V 6.R.c	2.0 1.5 1.1 1.75 1.3 0.8	ɣurɣur	0	262
+#
+64	Ancient Attic Greek	NEW	n e o	4 7 7	AXZ	NEU	1	1.N.C 1.E.V 1.U.V	2.0 1.5 0.8	neo	0	263
+295	Modern Demotic Greek	NEW	n e o	4 7 7	AXZ	NEU	3	3.N.C 3.E.V 3.U.V	2.0 1.5 0.8	neo	0	263
+296	Modern Demotic Greek	NEW	c e n u r ʝ o	1 7 4 7 5 3 7	AXBYMBZ	CENYRSU	3	3.C.C 3.E.V 3.N.C 3.Y.V 3.R.c 3.S.C 3.U.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	cenurʝo	0	266
+411	Pharasa Greek	NEW	t a z o s	1 7 3 7 3	AXBYN	TASUS	4	4.T.C 4.A.V 4.S.C 4.U.V 4.S.c	2.0 1.5 1.75 1.3 0.8	tazos	0	265
+530	Southern Tsakonian	NEW	ʨ i n u r ʨ e	2 7 4 7 5 2 7	AXBYMBZ	CINYRCE	5	5.C.C 5.I.V 5.N.C 5.Y.V 5.R.c 5.C.C 5.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	ʨinurʨe	0	266
+531	Southern Tsakonian	NEW	ʨ i r n u ʨ i	2 7 5 4 7 2 7	AXMBYBZ	CIRNYCI	5	5.C.C 5.I.V 5.R.c 5.N.C 5.Y.V 5.C.C 5.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʨirnuʨi	0	269
+658	Western Cappadocian Greek	NEW	c e n u r j o	1 7 4 7 5 6 7	AXBYBCZ	CENYRJU	6	6.C.C 6.E.V 6.N.C 6.Y.V 6.R.C 6.J.C 6.U.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	cenurjo	0	266
+#
+65	Ancient Attic Greek	NIGHT	n y k t	4 7 1 1	AXLN	NYKT	1	1.N.C 1.Y.V 1.K.c 1.T.c	2.0 1.5 1.1 0.8	nykt	0	270
+179	Ancient Ionic Greek	NIGHT	n y k t	4 7 1 1	AXLN	NYKT	2	2.N.C 2.Y.V 2.K.c 2.T.c	2.0 1.5 1.1 0.8	nykt	0	270
+297	Modern Demotic Greek	NIGHT	n i x t a	4 7 3 1 7	AXMBZ	NIGTA	3	3.N.C 3.I.V 3.G.c 3.T.C 3.A.V	2.0 1.5 1.1 1.75 0.8	nixta	0	272
+412	Pharasa Greek	NIGHT	n i e x t a	4 7 7 3 1 7	AXYMBZ	NIEGTA	4	4.N.C 4.I.V 4.E.V 4.G.c 4.T.C 4.A.V	2.0 1.5 1.3 1.1 1.75 0.8	niexta	0	272
+532	Southern Tsakonian	NIGHT	ɲ u tʰ a	4 7 1 7	AXBZ	NYTA	5	5.N.C 5.Y.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	ɲutʰa	0	272
+659	Western Cappadocian Greek	NIGHT	n i x t a	4 7 3 1 7	AXMBZ	NIGTA	6	6.N.C 6.I.V 6.G.c 6.T.C 6.A.V	2.0 1.5 1.1 1.75 0.8	nixta	0	272
+#
+66	Ancient Attic Greek	NOSE	r̥ iː n	5 7 4	AXN	RIN	1	1.R.C 1.I.V 1.N.c	2.0 1.5 0.8	r̥iːn	0	273
+180	Ancient Ionic Greek	NOSE	r̥ iː n	5 7 4	AXN	RIN	2	2.R.C 2.I.V 2.N.c	2.0 1.5 0.8	r̥iːn	0	273
+298	Modern Demotic Greek	NOSE	m i t i	4 7 1 7	AXBZ	MITI	3	3.M.C 3.I.V 3.T.C 3.I.V	2.0 1.5 1.75 0.8	miti	0	275
+413	Pharasa Greek	NOSE	m i t i	4 7 1 7	AXBZ	MITI	4	4.M.C 4.I.V 4.T.C 4.I.V	2.0 1.5 1.75 0.8	miti	0	275
+533	Southern Tsakonian	NOSE	ʃ u kʰ o	3 7 1 7	AXBZ	SYKU	5	5.S.C 5.Y.V 5.K.C 5.U.V	2.0 1.5 1.75 0.8	ʃukʰo	0	277
+660	Western Cappadocian Greek	NOSE	m i t a	4 7 1 7	AXBZ	MITA	6	6.M.C 6.I.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	mita	0	275
+#
+67	Ancient Attic Greek	NOT	uː	7	X	Y	1	1.Y.V	1.5	uː	0	278
+68	Ancient Attic Greek	NOT	uː k	7 1	XN	YK	1	1.Y.V 1.K.c	1.5 0.8	uːk	0	278
+69	Ancient Attic Greek	NOT	uː kʰ	7 1	XN	YK	1	1.Y.V 1.K.c	1.5 0.8	uːkʰ	0	278
+181	Ancient Ionic Greek	NOT	uː	7	X	Y	2	2.Y.V	1.5	uː	0	278
+182	Ancient Ionic Greek	NOT	uː k	7 1	XN	YK	2	2.Y.V 2.K.c	1.5 0.8	uːk	0	278
+299	Modern Demotic Greek	NOT	ð e n	3 7 4	AXN	DEN	3	3.D.C 3.E.V 3.N.c	2.0 1.5 0.8	ðen	0	280
+414	Pharasa Greek	NOT	ʤ o	2 7	AX	CU	4	4.C.C 4.U.V	2.0 1.5	ʤo	0	281
+534	Southern Tsakonian	NOT	o	7	X	U	5	5.U.V	1.5	o	0	282
+661	Western Cappadocian Greek	NOT	ð e n	3 7 4	AXN	DEN	6	6.D.C 6.E.V 6.N.c	2.0 1.5 0.8	ðen	0	283
+#
+70	Ancient Attic Greek	ONE	h e n	3 7 4	AXN	HEN	1	1.H.C 1.E.V 1.N.c	2.0 1.5 0.8	hen	0	284
+183	Ancient Ionic Greek	ONE	e n	7 4	XN	EN	2	2.E.V 2.N.c	1.5 0.8	en	0	284
+300	Modern Demotic Greek	ONE	e n a s	7 4 7 3	XBYN	ENAS	3	3.E.V 3.N.C 3.A.V 3.S.c	1.5 1.75 1.3 0.8	enas	0	286
+415	Pharasa Greek	ONE	e n a	7 4 7	XBZ	ENA	4	4.E.V 4.N.C 4.A.V	1.5 1.75 0.8	ena	0	286
+535	Southern Tsakonian	ONE	e n a	7 4 7	XBZ	ENA	5	5.E.V 5.N.C 5.A.V	1.5 1.75 0.8	ena	0	286
+662	Western Cappadocian Greek	ONE	e n a	7 4 7	XBZ	ENA	6	6.E.V 6.N.C 6.A.V	1.5 1.75 0.8	ena	0	286
+#
+71	Ancient Attic Greek	PERSON	a n tʰ r oː p o s	7 4 1 5 7 1 7 3	XMBCYBYN	ANTRUPUS	1	1.A.V 1.N.c 1.T.C 1.R.C 1.U.V 1.P.C 1.U.V 1.S.c	1.5 1.1 1.75 1.5 1.3 1.75 1.3 0.8	antʰroːpos	0	287
+184	Ancient Ionic Greek	PERSON	a n tʰ r oː p o s	7 4 1 5 7 1 7 3	XMBCYBYN	ANTRUPUS	2	2.A.V 2.N.c 2.T.C 2.R.C 2.U.V 2.P.C 2.U.V 2.S.c	1.5 1.1 1.75 1.5 1.3 1.75 1.3 0.8	antʰroːpos	0	287
+301	Modern Demotic Greek	PERSON	a n θ r o p o s	7 4 3 5 7 1 7 3	XMBCYBYN	ANDRUPUS	3	3.A.V 3.N.c 3.D.C 3.R.C 3.U.V 3.P.C 3.U.V 3.S.c	1.5 1.1 1.75 1.5 1.3 1.75 1.3 0.8	anθropos	0	287
+416	Pharasa Greek	PERSON	n o m a t	4 7 4 7 1	AXBYN	NUMAT	4	4.N.C 4.U.V 4.M.C 4.A.V 4.T.c	2.0 1.5 1.75 1.3 0.8	nomat	1	290
+536	Southern Tsakonian	PERSON	a ʧ o p o	7 2 7 1 7	XBYBZ	ACUPU	5	5.A.V 5.C.C 5.U.V 5.P.C 5.U.V	1.5 1.75 1.3 1.75 0.8	aʧopo	1	291
+663	Western Cappadocian Greek	PERSON	a r o p o s	7 5 7 1 7 3	XBYBYN	ARUPUS	6	6.A.V 6.R.C 6.U.V 6.P.C 6.U.V 6.S.c	1.5 1.75 1.3 1.75 1.3 0.8	aropos	1	287
+#
+72	Ancient Attic Greek	RAIN (PRECIPITATION)	o m b r o s	7 4 1 5 7 3	XMBCYN	UMPRUS	1	1.U.V 1.M.c 1.P.C 1.R.C 1.U.V 1.S.c	1.5 1.1 1.75 1.5 1.3 0.8	ombros	0	292
+185	Ancient Ionic Greek	RAIN (PRECIPITATION)	o m b r o s	7 4 1 5 7 3	XMBCYN	UMPRUS	2	2.U.V 2.M.c 2.P.C 2.R.C 2.U.V 2.S.c	1.5 1.1 1.75 1.5 1.3 0.8	ombros	0	292
+302	Modern Demotic Greek	RAIN (PRECIPITATION)	v r o ç i	3 5 7 3 7	ACXBZ	BRUSI	3	3.B.C 3.R.C 3.U.V 3.S.C 3.I.V	2.0 1.5 1.5 1.75 0.8	vroçi	0	294
+417	Pharasa Greek	RAIN (PRECIPITATION)	v r e ʃ i	3 5 7 3 7	ACXBZ	BRESI	4	4.B.C 4.R.C 4.E.V 4.S.C 4.I.V	2.0 1.5 1.5 1.75 0.8	vreʃi	0	294
+537	Southern Tsakonian	RAIN (PRECIPITATION)	v r e x o	3 5 7 3 7	ACXBZ	BREGU	5	5.B.C 5.R.C 5.E.V 5.G.C 5.U.V	2.0 1.5 1.5 1.75 0.8	vrexo	0	294
+664	Western Cappadocian Greek	RAIN (PRECIPITATION)	v r e x o s	3 5 7 3 7 3	ACXBYN	BREGUS	6	6.B.C 6.R.C 6.E.V 6.G.C 6.U.V 6.S.c	2.0 1.5 1.5 1.75 1.3 0.8	vrexos	0	294
+#
+73	Ancient Attic Greek	RED	e r y tʰ r o s	7 5 7 1 5 7 3	XBYBCYN	ERYTRUS	1	1.E.V 1.R.C 1.Y.V 1.T.C 1.R.C 1.U.V 1.S.c	1.5 1.75 1.3 1.75 1.5 1.3 0.8	erytʰros	0	295
+186	Ancient Ionic Greek	RED	e r y tʰ r o s	7 5 7 1 5 7 3	XBYBCYN	ERYTRUS	2	2.E.V 2.R.C 2.Y.V 2.T.C 2.R.C 2.U.V 2.S.c	1.5 1.75 1.3 1.75 1.5 1.3 0.8	erytʰros	0	295
+303	Modern Demotic Greek	RED	k o c i n o	1 7 1 7 4 7	AXBYBZ	KUCINU	3	3.K.C 3.U.V 3.C.C 3.I.V 3.N.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	kocino	0	297
+418	Pharasa Greek	RED	l tʰ i n o s	5 1 7 4 7 3	ACYBYN	LTINUS	4	4.L.C 4.T.C 4.I.V 4.N.C 4.U.V 4.S.c	2.0 1.5 1.3 1.75 1.3 0.8	ltʰinos	0	298
+538	Southern Tsakonian	RED	k o ʦ i n e	1 7 2 7 4 7	AXBYBZ	KUCINE	5	5.K.C 5.U.V 5.C.C 5.I.V 5.N.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	koʦine	0	297
+665	Western Cappadocian Greek	RED	a ç n o	7 3 4 7	XBCZ	ASNU	6	6.A.V 6.S.C 6.N.C 6.U.V	1.5 1.75 1.5 0.8	açno	0	300
+666	Western Cappadocian Greek	RED	a ç l o	7 3 5 7	XBCZ	ASLU	6	6.A.V 6.S.C 6.L.C 6.U.V	1.5 1.75 1.5 0.8	açlo	0	300
+667	Western Cappadocian Greek	RED	a l ç o	7 5 3 7	XMBZ	ALSU	6	6.A.V 6.L.c 6.S.C 6.U.V	1.5 1.1 1.75 0.8	alço	0	300
+#
+74	Ancient Attic Greek	ROAD	h o d o s	3 7 1 7 3	AXBYN	HUTUS	1	1.H.C 1.U.V 1.T.C 1.U.V 1.S.c	2.0 1.5 1.75 1.3 0.8	hodos	0	301
+187	Ancient Ionic Greek	ROAD	o d o s	7 1 7 3	XBYN	UTUS	2	2.U.V 2.T.C 2.U.V 2.S.c	1.5 1.75 1.3 0.8	odos	0	301
+304	Modern Demotic Greek	ROAD	ð r o m o s	3 5 7 4 7 3	ACXBYN	DRUMUS	3	3.D.C 3.R.C 3.U.V 3.M.C 3.U.V 3.S.c	2.0 1.5 1.5 1.75 1.3 0.8	ðromos	0	303
+419	Pharasa Greek	ROAD	s t r a t a	3 1 5 7 1 7	ACCYBZ	STRATA	4	4.S.C 4.T.C 4.R.C 4.A.V 4.T.C 4.A.V	2.0 1.5 1.5 1.3 1.75 0.8	strata	0	304
+539	Southern Tsakonian	ROAD	p o r i a	1 7 5 7 7	AXBYZ	PURIA	5	5.P.C 5.U.V 5.R.C 5.I.V 5.A.V	2.0 1.5 1.75 1.3 0.8	poria	0	305
+668	Western Cappadocian Greek	ROAD	s t r a t a	3 1 5 7 1 7	ACCYBZ	STRATA	6	6.S.C 6.T.C 6.R.C 6.A.V 6.T.C 6.A.V	2.0 1.5 1.5 1.3 1.75 0.8	strata	0	304
+#
+75	Ancient Attic Greek	ROOT	r̥ i z d aː	5 7 3 1 7	AXMBZ	RISTA	1	1.R.C 1.I.V 1.S.c 1.T.C 1.A.V	2.0 1.5 1.1 1.75 0.8	r̥izdaː	0	306
+188	Ancient Ionic Greek	ROOT	r̥ i z d aː	5 7 3 1 7	AXMBZ	RISTA	2	2.R.C 2.I.V 2.S.c 2.T.C 2.A.V	2.0 1.5 1.1 1.75 0.8	r̥izdaː	0	306
+305	Modern Demotic Greek	ROOT	r i z a	5 7 3 7	AXBZ	RISA	3	3.R.C 3.I.V 3.S.C 3.A.V	2.0 1.5 1.75 0.8	riza	0	306
+420	Pharasa Greek	ROOT	r i z a	5 7 3 7	AXBZ	RISA	4	4.R.C 4.I.V 4.S.C 4.A.V	2.0 1.5 1.75 0.8	riza	0	306
+540	Southern Tsakonian	ROOT	ʃ i n d a	3 7 4 1 7	AXMBZ	SINTA	5	5.S.C 5.I.V 5.N.c 5.T.C 5.A.V	2.0 1.5 1.1 1.75 0.8	ʃinda	0	310
+669	Western Cappadocian Greek	ROOT	r i z a	5 7 3 7	AXBZ	RISA	6	6.R.C 6.I.V 6.S.C 6.A.V	2.0 1.5 1.75 0.8	riza	0	306
+#
+114	Ancient Attic Greek	SALT	h a l s	3 7 5 3	AXLN	HALS	1	1.H.C 1.A.V 1.L.c 1.S.c	2.0 1.5 1.1 0.8	hals	0	311
+226	Ancient Ionic Greek	SALT	a l s	7 5 3	XLN	ALS	2	2.A.V 2.L.c 2.S.c	1.5 1.1 0.8	als	0	311
+345	Modern Demotic Greek	SALT	a l a t i	7 5 7 1 7	XBYBZ	ALATI	3	3.A.V 3.L.C 3.A.V 3.T.C 3.I.V	1.5 1.75 1.3 1.75 0.8	alati	0	313
+460	Pharasa Greek	SALT	a s	7 3	XN	AS	4	4.A.V 4.S.c	1.5 0.8	as	0	311
+586	Southern Tsakonian	SALT	a ʦ i	7 2 7	XBZ	ACI	5	5.A.V 5.C.C 5.I.V	1.5 1.75 0.8	aʦi	0	315
+708	Western Cappadocian Greek	SALT	a l a s	7 5 7 3	XBYN	ALAS	6	6.A.V 6.L.C 6.A.V 6.S.c	1.5 1.75 1.3 0.8	alas	0	313
+#
+78	Ancient Attic Greek	SAND	a m m o s	7 4 4 7 3	XMBYN	AMMUS	1	1.A.V 1.M.c 1.M.C 1.U.V 1.S.c	1.5 1.1 1.75 1.3 0.8	ammos	0	316
+191	Ancient Ionic Greek	SAND	p s a m m o s	1 3 7 4 4 7 3	ACXMBYN	PSAMMUS	2	2.P.C 2.S.C 2.A.V 2.M.c 2.M.C 2.U.V 2.S.c	2.0 1.5 1.5 1.1 1.75 1.3 0.8	psammos	0	316
+307	Modern Demotic Greek	SAND	a m o s	7 4 7 3	XBYN	AMUS	3	3.A.V 3.M.C 3.U.V 3.S.c	1.5 1.75 1.3 0.8	amos	0	316
+422	Pharasa Greek	SAND	n a m o s	4 7 4 7 3	AXBYN	NAMUS	4	4.N.C 4.A.V 4.M.C 4.U.V 4.S.c	2.0 1.5 1.75 1.3 0.8	namos	0	316
+542	Southern Tsakonian	SAND	a m o	7 4 7	XBZ	AMU	5	5.A.V 5.M.C 5.U.V	1.5 1.75 0.8	amo	0	316
+670	Western Cappadocian Greek	SAND	m i l i s	4 7 5 7 3	AXBYN	MILIS	6	6.M.C 6.I.V 6.L.C 6.I.V 6.S.c	2.0 1.5 1.75 1.3 0.8	milis	0	321
+#
+79	Ancient Attic Greek	SAY	pʰ eː m i	1 7 4 7	AXBZ	PEMI	1	1.P.C 1.E.V 1.M.C 1.I.V	2.0 1.5 1.75 0.8	pʰeːmi	0	322
+80	Ancient Attic Greek	SAY	e j p a	7 6 1 7	XMBZ	EJPA	1	1.E.V 1.J.c 1.P.C 1.A.V	1.5 1.1 1.75 0.8	ejpa	0	328
+192	Ancient Ionic Greek	SAY	pʰ eː m i	1 7 4 7	AXBZ	PEMI	2	2.P.C 2.E.V 2.M.C 2.I.V	2.0 1.5 1.75 0.8	pʰeːmi	0	322
+193	Ancient Ionic Greek	SAY	e j p a	7 6 1 7	XMBZ	EJPA	2	2.E.V 2.J.c 2.P.C 2.A.V	1.5 1.1 1.75 0.8	ejpa	0	328
+308	Modern Demotic Greek	SAY	l e o	5 7 7	AXZ	LEU	3	3.L.C 3.E.V 3.U.V	2.0 1.5 0.8	leo	0	324
+309	Modern Demotic Greek	SAY	i p a	7 1 7	XBZ	IPA	3	3.I.V 3.P.C 3.A.V	1.5 1.75 0.8	ipa	0	328
+423	Pharasa Greek	SAY	l e o	5 7 7	AXZ	LEU	4	4.L.C 4.E.V 4.U.V	2.0 1.5 0.8	leo	0	324
+424	Pharasa Greek	SAY	i p a	7 1 7	XBZ	IPA	4	4.I.V 4.P.C 4.A.V	1.5 1.75 0.8	ipa	0	328
+543	Southern Tsakonian	SAY	a u	7 7	XZ	AY	5	5.A.V 5.Y.V	1.5 0.8	au	0	326
+544	Southern Tsakonian	SAY	e p e k a	7 1 7 1 7	XBYBZ	EPEKA	5	5.E.V 5.P.C 5.E.V 5.K.C 5.A.V	1.5 1.75 1.3 1.75 0.8	epeka	0	332
+671	Western Cappadocian Greek	SAY	l e o	5 7 7	AXZ	LEU	6	6.L.C 6.E.V 6.U.V	2.0 1.5 0.8	leo	0	324
+672	Western Cappadocian Greek	SAY	i p a	7 1 7	XBZ	IPA	6	6.I.V 6.P.C 6.A.V	1.5 1.75 0.8	ipa	0	328
+#
+81	Ancient Attic Greek	SEE	h o r oː	3 7 5 7	AXBZ	HURU	1	1.H.C 1.U.V 1.R.C 1.U.V	2.0 1.5 1.75 0.8	horoː	0	333
+82	Ancient Attic Greek	SEE	e j d o n	7 6 1 7 4	XMBYN	EJTUN	1	1.E.V 1.J.c 1.T.C 1.U.V 1.N.c	1.5 1.1 1.75 1.3 0.8	ejdon	0	339
+194	Ancient Ionic Greek	SEE	o r oː	7 5 7	XBZ	URU	2	2.U.V 2.R.C 2.U.V	1.5 1.75 0.8	oroː	0	333
+195	Ancient Ionic Greek	SEE	e j d o n	7 6 1 7 4	XMBYN	EJTUN	2	2.E.V 2.J.c 2.T.C 2.U.V 2.N.c	1.5 1.1 1.75 1.3 0.8	ejdon	0	339
+310	Modern Demotic Greek	SEE	v l e p o	3 5 7 1 7	ACXBZ	BLEPU	3	3.B.C 3.L.C 3.E.V 3.P.C 3.U.V	2.0 1.5 1.5 1.75 0.8	vlepo	0	335
+311	Modern Demotic Greek	SEE	i ð a	7 3 7	XBZ	IDA	3	3.I.V 3.D.C 3.A.V	1.5 1.75 0.8	iða	0	341
+425	Pharasa Greek	SEE	θ o r o	3 7 5 7	AXBZ	DURU	4	4.D.C 4.U.V 4.R.C 4.U.V	2.0 1.5 1.75 0.8	θoro	0	333
+426	Pharasa Greek	SEE	i ð a	7 3 7	XBZ	IDA	4	4.I.V 4.D.C 4.A.V	1.5 1.75 0.8	iða	0	341
+545	Southern Tsakonian	SEE	o r u	7 5 7	XBZ	URY	5	5.U.V 5.R.C 5.Y.V	1.5 1.75 0.8	oru	0	333
+673	Western Cappadocian Greek	SEE	d r a n o	1 5 7 4 7	ACXBZ	TRANU	6	6.T.C 6.R.C 6.A.V 6.N.C 6.U.V	2.0 1.5 1.5 1.75 0.8	drano	0	338
+674	Western Cappadocian Greek	SEE	i r a	7 5 7	XBZ	IRA	6	6.I.V 6.R.C 6.A.V	1.5 1.75 0.8	ira	0	341
+#
+83	Ancient Attic Greek	SEED	s p e r m a	3 1 7 5 4 7	ACYMBZ	SPERMA	1	1.S.C 1.P.C 1.E.V 1.R.c 1.M.C 1.A.V	2.0 1.5 1.3 1.1 1.75 0.8	sperma	0	342
+196	Ancient Ionic Greek	SEED	s p e r m a	3 1 7 5 4 7	ACYMBZ	SPERMA	2	2.S.C 2.P.C 2.E.V 2.R.c 2.M.C 2.A.V	2.0 1.5 1.3 1.1 1.75 0.8	sperma	0	342
+312	Modern Demotic Greek	SEED	s p o r o s	3 1 7 5 7 3	ACYBYN	SPURUS	3	3.S.C 3.P.C 3.U.V 3.R.C 3.U.V 3.S.c	2.0 1.5 1.3 1.75 1.3 0.8	sporos	0	344
+546	Southern Tsakonian	SEED	pʰ r a m a	1 5 7 4 7	ACXBZ	PRAMA	5	5.P.C 5.R.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.5 1.75 0.8	pʰrama	0	342
+675	Western Cappadocian Greek	SEED	s p o r o s	3 1 7 5 7 3	ACYBYN	SPURUS	6	6.S.C 6.P.C 6.U.V 6.R.C 6.U.V 6.S.c	2.0 1.5 1.3 1.75 1.3 0.8	sporos	0	344
+#
+115	Ancient Attic Greek	SHORT	b r a kʰ y	1 5 7 1 7	ACXBZ	PRAKY	1	1.P.C 1.R.C 1.A.V 1.K.C 1.Y.V	2.0 1.5 1.5 1.75 0.8	brakʰy	0	345
+227	Ancient Ionic Greek	SHORT	b r a kʰ y	1 5 7 1 7	ACXBZ	PRAKY	2	2.P.C 2.R.C 2.A.V 2.K.C 2.Y.V	2.0 1.5 1.5 1.75 0.8	brakʰy	0	345
+346	Modern Demotic Greek	SHORT	k o d o	1 7 1 7	AXBZ	KUTU	3	3.K.C 3.U.V 3.T.C 3.U.V	2.0 1.5 1.75 0.8	kodo	0	347
+587	Southern Tsakonian	SHORT	k o n d e	1 7 4 1 7	AXMBZ	KUNTE	5	5.K.C 5.U.V 5.N.c 5.T.C 5.E.V	2.0 1.5 1.1 1.75 0.8	konde	0	347
+709	Western Cappadocian Greek	SHORT	k o n d o	1 7 4 1 7	AXMBZ	KUNTU	6	6.K.C 6.U.V 6.N.c 6.T.C 6.U.V	2.0 1.5 1.1 1.75 0.8	kondo	0	347
+#
+84	Ancient Attic Greek	SIT	k a tʰ eː m a j	1 7 1 7 4 7 6	AXBYBYN	KATEMAJ	1	1.K.C 1.A.V 1.T.C 1.E.V 1.M.C 1.A.V 1.J.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	katʰeːmaj	0	348
+197	Ancient Ionic Greek	SIT	k a t eː m a j	1 7 1 7 4 7 6	AXBYBYN	KATEMAJ	2	2.K.C 2.A.V 2.T.C 2.E.V 2.M.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kateːmaj	0	348
+313	Modern Demotic Greek	SIT	k a θ o m e	1 7 3 7 4 7	AXBYBZ	KADUME	3	3.K.C 3.A.V 3.D.C 3.U.V 3.M.C 3.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kaθome	0	348
+427	Pharasa Greek	SIT	k a θ o m e	1 7 3 7 4 7	AXBYBZ	KADUME	4	4.K.C 4.A.V 4.D.C 4.U.V 4.M.C 4.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kaθome	0	348
+547	Southern Tsakonian	SIT	k a s i m e n e	1 7 3 7 4 7 4 7	AXBYBYBZ	KASIMENE	5	5.K.C 5.A.V 5.S.C 5.I.V 5.M.C 5.E.V 5.N.C 5.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	kasimene	0	348
+676	Western Cappadocian Greek	SIT	k a r u m e	1 7 5 7 4 7	AXBYBZ	KARYME	6	6.K.C 6.A.V 6.R.C 6.Y.V 6.M.C 6.E.V	2.0 1.5 1.75 1.3 1.75 0.8	karume	0	348
+#
+85	Ancient Attic Greek	SKIN (HUMAN)	d e r m a	1 7 5 4 7	AXMBZ	TERMA	1	1.T.C 1.E.V 1.R.c 1.M.C 1.A.V	2.0 1.5 1.1 1.75 0.8	derma	0	349
+198	Ancient Ionic Greek	SKIN (HUMAN)	d e r m a	1 7 5 4 7	AXMBZ	TERMA	2	2.T.C 2.E.V 2.R.c 2.M.C 2.A.V	2.0 1.5 1.1 1.75 0.8	derma	0	349
+314	Modern Demotic Greek	SKIN (HUMAN)	ð e r m a	3 7 5 4 7	AXMBZ	DERMA	3	3.D.C 3.E.V 3.R.c 3.M.C 3.A.V	2.0 1.5 1.1 1.75 0.8	ðerma	0	349
+548	Southern Tsakonian	SKIN (HUMAN)	ʨ e p a	2 7 1 7	AXBZ	CEPA	5	5.C.C 5.E.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	ʨepa	0	352
+677	Western Cappadocian Greek	SKIN (HUMAN)	d e r m a	1 7 5 4 7	AXMBZ	TERMA	6	6.T.C 6.E.V 6.R.c 6.M.C 6.A.V	2.0 1.5 1.1 1.75 0.8	derma	0	349
+#
+86	Ancient Attic Greek	SLEEP	k a tʰ e w d oː	1 7 1 7 6 1 7	AXBYMBZ	KATEWTU	1	1.K.C 1.A.V 1.T.C 1.E.V 1.W.c 1.T.C 1.U.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	katʰewdoː	0	353
+199	Ancient Ionic Greek	SLEEP	e w d oː	7 6 1 7	XMBZ	EWTU	2	2.E.V 2.W.c 2.T.C 2.U.V	1.5 1.1 1.75 0.8	ewdoː	0	353
+315	Modern Demotic Greek	SLEEP	c i m a m e	1 7 4 7 4 7	AXBYBZ	CIMAME	3	3.C.C 3.I.V 3.M.C 3.A.V 3.M.C 3.E.V	2.0 1.5 1.75 1.3 1.75 0.8	cimame	0	355
+428	Pharasa Greek	SLEEP	p n o n o	1 4 7 4 7	ACXBZ	PNUNU	4	4.P.C 4.N.C 4.U.V 4.N.C 4.U.V	2.0 1.5 1.5 1.75 0.8	pnono	0	356
+549	Southern Tsakonian	SLEEP	k a s i u	1 7 3 7 7	AXBYZ	KASIY	5	5.K.C 5.A.V 5.S.C 5.I.V 5.Y.V	2.0 1.5 1.75 1.3 0.8	kasiu	0	357
+550	Southern Tsakonian	SLEEP	e c u v a	7 1 7 3 7	XBYBZ	ECYBA	5	5.E.V 5.C.C 5.Y.V 5.B.C 5.A.V	1.5 1.75 1.3 1.75 0.8	ecuva	0	359
+678	Western Cappadocian Greek	SLEEP	c i m u m e	1 7 4 7 4 7	AXBYBZ	CIMYME	6	6.C.C 6.I.V 6.M.C 6.Y.V 6.M.C 6.E.V	2.0 1.5 1.75 1.3 1.75 0.8	cimume	0	355
+#
+87	Ancient Attic Greek	SMALL	s m iː k r o s	3 4 7 1 5 7 3	ACXBCYN	SMIKRUS	1	1.S.C 1.M.C 1.I.V 1.K.C 1.R.C 1.U.V 1.S.c	2.0 1.5 1.5 1.75 1.5 1.3 0.8	smiːkros	0	360
+200	Ancient Ionic Greek	SMALL	s m iː k r o	3 4 7 1 5 7	ACXBCZ	SMIKRU	2	2.S.C 2.M.C 2.I.V 2.K.C 2.R.C 2.U.V	2.0 1.5 1.5 1.75 1.5 0.8	smiːkro	0	360
+316	Modern Demotic Greek	SMALL	m i k r o	4 7 1 5 7	AXBCZ	MIKRU	3	3.M.C 3.I.V 3.K.C 3.R.C 3.U.V	2.0 1.5 1.75 1.5 0.8	mikro	0	360
+429	Pharasa Greek	SMALL	o k k	7 1 1	XLN	UKK	4	4.U.V 4.K.c 4.K.c	1.5 1.1 0.8	okk	0	363
+551	Southern Tsakonian	SMALL	m i ʦ i	4 7 2 7	AXBZ	MICI	5	5.M.C 5.I.V 5.C.C 5.I.V	2.0 1.5 1.75 0.8	miʦi	0	360
+679	Western Cappadocian Greek	SMALL	m i k r o	4 7 1 5 7	AXBCZ	MIKRU	6	6.M.C 6.I.V 6.K.C 6.R.C 6.U.V	2.0 1.5 1.75 1.5 0.8	mikro	0	360
+#
+88	Ancient Attic Greek	SMOKE (EXHAUST)	k a p n o s	1 7 1 4 7 3	AXBCYN	KAPNUS	1	1.K.C 1.A.V 1.P.C 1.N.C 1.U.V 1.S.c	2.0 1.5 1.75 1.5 1.3 0.8	kapnos	0	364
+201	Ancient Ionic Greek	SMOKE (EXHAUST)	k a p n o s	1 7 1 4 7 3	AXBCYN	KAPNUS	2	2.K.C 2.A.V 2.P.C 2.N.C 2.U.V 2.S.c	2.0 1.5 1.75 1.5 1.3 0.8	kapnos	0	364
+317	Modern Demotic Greek	SMOKE (EXHAUST)	k a p n o s	1 7 1 4 7 3	AXBCYN	KAPNUS	3	3.K.C 3.A.V 3.P.C 3.N.C 3.U.V 3.S.c	2.0 1.5 1.75 1.5 1.3 0.8	kapnos	0	364
+430	Pharasa Greek	SMOKE (EXHAUST)	ʦ i k n a	2 7 1 4 7	AXBCZ	CIKNA	4	4.C.C 4.I.V 4.K.C 4.N.C 4.A.V	2.0 1.5 1.75 1.5 0.8	ʦikna	0	367
+552	Southern Tsakonian	SMOKE (EXHAUST)	k a p i n e	1 7 1 7 4 7	AXBYBZ	KAPINE	5	5.K.C 5.A.V 5.P.C 5.I.V 5.N.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kapine	0	364
+553	Southern Tsakonian	SMOKE (EXHAUST)	k a p n e	1 7 1 4 7	AXBCZ	KAPNE	5	5.K.C 5.A.V 5.P.C 5.N.C 5.E.V	2.0 1.5 1.75 1.5 0.8	kapne	0	364
+680	Western Cappadocian Greek	SMOKE (EXHAUST)	ʧ i k n a	2 7 1 4 7	AXBCZ	CIKNA	6	6.C.C 6.I.V 6.K.C 6.N.C 6.A.V	2.0 1.5 1.75 1.5 0.8	ʧikna	0	367
+#
+116	Ancient Attic Greek	SNAKE	o pʰ i s	7 1 7 3	XBYN	UPIS	1	1.U.V 1.P.C 1.I.V 1.S.c	1.5 1.75 1.3 0.8	opʰis	0	368
+228	Ancient Ionic Greek	SNAKE	o pʰ i s	7 1 7 3	XBYN	UPIS	2	2.U.V 2.P.C 2.I.V 2.S.c	1.5 1.75 1.3 0.8	opʰis	0	368
+347	Modern Demotic Greek	SNAKE	f i ð i	3 7 3 7	AXBZ	BIDI	3	3.B.C 3.I.V 3.D.C 3.I.V	2.0 1.5 1.75 0.8	fiði	0	370
+461	Pharasa Greek	SNAKE	f i ð i	3 7 3 7	AXBZ	BIDI	4	4.B.C 4.I.V 4.D.C 4.I.V	2.0 1.5 1.75 0.8	fiði	0	370
+588	Southern Tsakonian	SNAKE	u θ i	7 3 7	XBZ	YDI	5	5.Y.V 5.D.C 5.I.V	1.5 1.75 0.8	uθi	0	370
+589	Southern Tsakonian	SNAKE	u i θ i	7 7 3 7	XYBZ	YIDI	5	5.Y.V 5.I.V 5.D.C 5.I.V	1.5 1.3 1.75 0.8	uiθi	0	370
+710	Western Cappadocian Greek	SNAKE	o f i r	7 3 7 5	XBYN	UBIR	6	6.U.V 6.B.C 6.I.V 6.R.c	1.5 1.75 1.3 0.8	ofir	0	368
+#
+76	Ancient Attic Greek	SPHERICAL (ROUND IN THREE DIMENSIONS)	s t r o n ɡ y l o s	3 1 5 7 4 1 7 5 7 3	ACCYMBYBYN	STRUNKYLUS	1	1.S.C 1.T.C 1.R.C 1.U.V 1.N.c 1.K.C 1.Y.V 1.L.C 1.U.V 1.S.c	2.0 1.5 1.5 1.3 1.1 1.75 1.3 1.75 1.3 0.8	stronɡylos	0	371
+189	Ancient Ionic Greek	SPHERICAL (ROUND IN THREE DIMENSIONS)	s t r o n ɡ y l o	3 1 5 7 4 1 7 5 7	ACCYMBYBZ	STRUNKYLU	2	2.S.C 2.T.C 2.R.C 2.U.V 2.N.c 2.K.C 2.Y.V 2.L.C 2.U.V	2.0 1.5 1.5 1.3 1.1 1.75 1.3 1.75 0.8	stronɡylo	0	371
+306	Modern Demotic Greek	SPHERICAL (ROUND IN THREE DIMENSIONS)	s t r o ɟ i l o	3 1 5 7 1 7 5 7	ACCYBYBZ	STRUCILU	3	3.S.C 3.T.C 3.R.C 3.U.V 3.C.C 3.I.V 3.L.C 3.U.V	2.0 1.5 1.5 1.3 1.75 1.3 1.75 0.8	stroɟilo	0	371
+421	Pharasa Greek	SPHERICAL (ROUND IN THREE DIMENSIONS)	j u v a r l a x i	6 7 3 7 5 5 7 3 7	AXBYMBYBZ	JYBARLAGI	4	4.J.C 4.Y.V 4.B.C 4.A.V 4.R.c 4.L.C 4.A.V 4.G.C 4.I.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 0.8	juvarlaxi	0	374
+541	Southern Tsakonian	SPHERICAL (ROUND IN THREE DIMENSIONS)	s t r o n ʒ i l e	3 1 5 7 4 3 7 5 7	ACCYMBYBZ	STRUNSILE	5	5.S.C 5.T.C 5.R.C 5.U.V 5.N.c 5.S.C 5.I.V 5.L.C 5.E.V	2.0 1.5 1.5 1.3 1.1 1.75 1.3 1.75 0.8	stronʒile	0	371
+#
+89	Ancient Attic Greek	STAND	h i s t eː m i	3 7 3 1 7 4 7	AXMBYBZ	HISTEMI	1	1.H.C 1.I.V 1.S.c 1.T.C 1.E.V 1.M.C 1.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	histeːmi	0	375
+202	Ancient Ionic Greek	STAND	i s t eː m i	7 3 1 7 4 7	XMBYBZ	ISTEMI	2	2.I.V 2.S.c 2.T.C 2.E.V 2.M.C 2.I.V	1.5 1.1 1.75 1.3 1.75 0.8	isteːmi	0	375
+318	Modern Demotic Greek	STAND	s t e k o m e	3 1 7 1 7 4 7	ACYBYBZ	STEKUME	3	3.S.C 3.T.C 3.E.V 3.K.C 3.U.V 3.M.C 3.E.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	stekome	0	377
+431	Pharasa Greek	STAND	s t i k n o	3 1 7 1 4 7	ACYBCZ	STIKNU	4	4.S.C 4.T.C 4.I.V 4.K.C 4.N.C 4.U.V	2.0 1.5 1.3 1.75 1.5 0.8	stikno	0	377
+432	Pharasa Greek	STAND	s t e k n o	3 1 7 1 4 7	ACYBCZ	STEKNU	4	4.S.C 4.T.C 4.E.V 4.K.C 4.N.C 4.U.V	2.0 1.5 1.3 1.75 1.5 0.8	stekno	0	377
+554	Southern Tsakonian	STAND	s t e k u	3 1 7 1 7	ACYBZ	STEKY	5	5.S.C 5.T.C 5.E.V 5.K.C 5.Y.V	2.0 1.5 1.3 1.75 0.8	steku	0	377
+681	Western Cappadocian Greek	STAND	s t e k n o	3 1 7 1 4 7	ACYBCZ	STEKNU	6	6.S.C 6.T.C 6.E.V 6.K.C 6.N.C 6.U.V	2.0 1.5 1.3 1.75 1.5 0.8	stekno	0	377
+#
+90	Ancient Attic Greek	STAR	a s t eː r	7 3 1 7 5	XMBYN	ASTER	1	1.A.V 1.S.c 1.T.C 1.E.V 1.R.c	1.5 1.1 1.75 1.3 0.8	asteːr	0	378
+203	Ancient Ionic Greek	STAR	a s t eː r	7 3 1 7 5	XMBYN	ASTER	2	2.A.V 2.S.c 2.T.C 2.E.V 2.R.c	1.5 1.1 1.75 1.3 0.8	asteːr	0	378
+319	Modern Demotic Greek	STAR	a s t e r i	7 3 1 7 5 7	XMBYBZ	ASTERI	3	3.A.V 3.S.c 3.T.C 3.E.V 3.R.C 3.I.V	1.5 1.1 1.75 1.3 1.75 0.8	asteri	0	378
+433	Pharasa Greek	STAR	a s t r o	7 3 1 5 7	XMBCZ	ASTRU	4	4.A.V 4.S.c 4.T.C 4.R.C 4.U.V	1.5 1.1 1.75 1.5 0.8	astro	0	378
+555	Southern Tsakonian	STAR	a ʃ i	7 3 7	XBZ	ASI	5	5.A.V 5.S.C 5.I.V	1.5 1.75 0.8	aʃi	0	382
+682	Western Cappadocian Greek	STAR	a s t r o	7 3 1 5 7	XMBCZ	ASTRU	6	6.A.V 6.S.c 6.T.C 6.R.C 6.U.V	1.5 1.1 1.75 1.5 0.8	astro	0	378
+#
+91	Ancient Attic Greek	STONE	l i tʰ o s	5 7 1 7 3	AXBYN	LITUS	1	1.L.C 1.I.V 1.T.C 1.U.V 1.S.c	2.0 1.5 1.75 1.3 0.8	litʰos	0	383
+204	Ancient Ionic Greek	STONE	l i tʰ o s	5 7 1 7 3	AXBYN	LITUS	2	2.L.C 2.I.V 2.T.C 2.U.V 2.S.c	2.0 1.5 1.75 1.3 0.8	litʰos	0	383
+320	Modern Demotic Greek	STONE	p e t r a	1 7 1 5 7	AXBCZ	PETRA	3	3.P.C 3.E.V 3.T.C 3.R.C 3.A.V	2.0 1.5 1.75 1.5 0.8	petra	0	385
+434	Pharasa Greek	STONE	θ a l i	3 7 5 7	AXBZ	DALI	4	4.D.C 4.A.V 4.L.C 4.I.V	2.0 1.5 1.75 0.8	θali	0	386
+556	Southern Tsakonian	STONE	p e ʧ e	1 7 2 7	AXBZ	PECE	5	5.P.C 5.E.V 5.C.C 5.E.V	2.0 1.5 1.75 0.8	peʧe	0	387
+683	Western Cappadocian Greek	STONE	n i t e r	4 7 1 7 5	AXBYN	NITER	6	6.N.C 6.I.V 6.T.C 6.E.V 6.R.c	2.0 1.5 1.75 1.3 0.8	niter	0	388
+684	Western Cappadocian Greek	STONE	n i ç e r	4 7 3 7 5	AXBYN	NISER	6	6.N.C 6.I.V 6.S.C 6.E.V 6.R.c	2.0 1.5 1.75 1.3 0.8	niçer	0	388
+685	Western Cappadocian Greek	STONE	t e r	1 7 5	AXN	TER	6	6.T.C 6.E.V 6.R.c	2.0 1.5 0.8	ter	0	388
+#
+92	Ancient Attic Greek	SUN	h eː l i o s	3 7 5 7 7 3	AXBYYN	HELIUS	1	1.H.C 1.E.V 1.L.C 1.I.V 1.U.V 1.S.c	2.0 1.5 1.75 1.3 1.3 0.8	heːlios	0	389
+205	Ancient Ionic Greek	SUN	eː l i o s	7 5 7 7 3	XBYYN	ELIUS	2	2.E.V 2.L.C 2.I.V 2.U.V 2.S.c	1.5 1.75 1.3 1.3 0.8	eːlios	0	389
+321	Modern Demotic Greek	SUN	i ʎ o s	7 5 7 3	XBYN	ILUS	3	3.I.V 3.L.C 3.U.V 3.S.c	1.5 1.75 1.3 0.8	iʎos	0	389
+435	Pharasa Greek	SUN	o i l o s	7 7 5 7 3	XYBYN	UILUS	4	4.U.V 4.I.V 4.L.C 4.U.V 4.S.c	1.5 1.3 1.75 1.3 0.8	oilos	0	389
+557	Southern Tsakonian	SUN	i ʎ e	7 5 7	XBZ	ILE	5	5.I.V 5.L.C 5.E.V	1.5 1.75 0.8	iʎe	0	393
+686	Western Cappadocian Greek	SUN	o l j o s	7 5 6 7 3	XBCYN	ULJUS	6	6.U.V 6.L.C 6.J.C 6.U.V 6.S.c	1.5 1.75 1.5 1.3 0.8	oljos	0	389
+#
+93	Ancient Attic Greek	SWIM	n e oː	4 7 7	AXZ	NEU	1	1.N.C 1.E.V 1.U.V	2.0 1.5 0.8	neoː	0	394
+206	Ancient Ionic Greek	SWIM	n e oː	4 7 7	AXZ	NEU	2	2.N.C 2.E.V 2.U.V	2.0 1.5 0.8	neoː	0	394
+322	Modern Demotic Greek	SWIM	k o l i b o	1 7 5 7 1 7	AXBYBZ	KULIPU	3	3.K.C 3.U.V 3.L.C 3.I.V 3.P.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	kolibo	0	396
+436	Pharasa Greek	SWIM	p l e f o	1 5 7 3 7	ACXBZ	PLEBU	4	4.P.C 4.L.C 4.E.V 4.B.C 4.U.V	2.0 1.5 1.5 1.75 0.8	plefo	0	397
+558	Southern Tsakonian	SWIM	a p l e u	7 1 5 7 7	XBCYZ	APLEY	5	5.A.V 5.P.C 5.L.C 5.E.V 5.Y.V	1.5 1.75 1.5 1.3 0.8	apleu	0	397
+559	Southern Tsakonian	SWIM	p l e u	1 5 7 7	ACXZ	PLEY	5	5.P.C 5.L.C 5.E.V 5.Y.V	2.0 1.5 1.5 0.8	pleu	0	397
+687	Western Cappadocian Greek	SWIM	y z d	7 3 1	XLN	YST	6	6.Y.V 6.S.c 6.T.c	1.5 1.1 0.8	yzd	0	399
+#
+94	Ancient Attic Greek	TAIL	k e r k o s	1 7 5 1 7 3	AXMBYN	KERKUS	1	1.K.C 1.E.V 1.R.c 1.K.C 1.U.V 1.S.c	2.0 1.5 1.1 1.75 1.3 0.8	kerkos	0	400
+207	Ancient Ionic Greek	TAIL	uː r eː	7 5 7	XBZ	YRE	2	2.Y.V 2.R.C 2.E.V	1.5 1.75 0.8	uːreː	0	401
+323	Modern Demotic Greek	TAIL	u r a	7 5 7	XBZ	YRA	3	3.Y.V 3.R.C 3.A.V	1.5 1.75 0.8	ura	0	401
+437	Pharasa Greek	TAIL	v r a ð i	3 5 7 3 7	ACXBZ	BRADI	4	4.B.C 4.R.C 4.A.V 4.D.C 4.I.V	2.0 1.5 1.5 1.75 0.8	vraði	0	403
+560	Southern Tsakonian	TAIL	n u r a	4 7 5 7	AXBZ	NYRA	5	5.N.C 5.Y.V 5.R.C 5.A.V	2.0 1.5 1.75 0.8	nura	0	401
+561	Southern Tsakonian	TAIL	u r a	7 5 7	XBZ	YRA	5	5.Y.V 5.R.C 5.A.V	1.5 1.75 0.8	ura	0	401
+688	Western Cappadocian Greek	TAIL	t u r a ð i	1 7 5 7 3 7	AXBYBZ	TYRADI	6	6.T.C 6.Y.V 6.R.C 6.A.V 6.D.C 6.I.V	2.0 1.5 1.75 1.3 1.75 0.8	turaði	0	401
+#
+95	Ancient Attic Greek	THAT	e k e j n o	7 1 7 6 4 7	XBYMBZ	EKEJNU	1	1.E.V 1.K.C 1.E.V 1.J.c 1.N.C 1.U.V	1.5 1.75 1.3 1.1 1.75 0.8	ekejno	0	404
+208	Ancient Ionic Greek	THAT	e k e j n o	7 1 7 6 4 7	XBYMBZ	EKEJNU	2	2.E.V 2.K.C 2.E.V 2.J.c 2.N.C 2.U.V	1.5 1.75 1.3 1.1 1.75 0.8	ekejno	0	404
+324	Modern Demotic Greek	THAT	e c i n o	7 1 7 4 7	XBYBZ	ECINU	3	3.E.V 3.C.C 3.I.V 3.N.C 3.U.V	1.5 1.75 1.3 1.75 0.8	ecino	0	404
+438	Pharasa Greek	THAT	a ʤ i n o	7 2 7 4 7	XBYBZ	ACINU	4	4.A.V 4.C.C 4.I.V 4.N.C 4.U.V	1.5 1.75 1.3 1.75 0.8	aʤino	0	404
+439	Pharasa Greek	THAT	a ʧ i n o	7 2 7 4 7	XBYBZ	ACINU	4	4.A.V 4.C.C 4.I.V 4.N.C 4.U.V	1.5 1.75 1.3 1.75 0.8	aʧino	0	404
+562	Southern Tsakonian	THAT	e t i n e	7 1 7 4 7	XBYBZ	ETINE	5	5.E.V 5.T.C 5.I.V 5.N.C 5.E.V	1.5 1.75 1.3 1.75 0.8	etine	0	404
+689	Western Cappadocian Greek	THAT	e c i n o	7 1 7 4 7	XBYBZ	ECINU	6	6.E.V 6.C.C 6.I.V 6.N.C 6.U.V	1.5 1.75 1.3 1.75 0.8	ecino	0	404
+#
+117	Ancient Attic Greek	THIN	l e p t o s	5 7 1 1 7 3	AXMBYN	LEPTUS	1	1.L.C 1.E.V 1.P.c 1.T.C 1.U.V 1.S.c	2.0 1.5 1.1 1.75 1.3 0.8	leptos	0	405
+229	Ancient Ionic Greek	THIN	l e p t o	5 7 1 1 7	AXMBZ	LEPTU	2	2.L.C 2.E.V 2.P.c 2.T.C 2.U.V	2.0 1.5 1.1 1.75 0.8	lepto	0	405
+348	Modern Demotic Greek	THIN	l e p t o	5 7 1 1 7	AXMBZ	LEPTU	3	3.L.C 3.E.V 3.P.c 3.T.C 3.U.V	2.0 1.5 1.1 1.75 0.8	lepto	0	407
+590	Southern Tsakonian	THIN	f t e n e	3 1 7 4 7	ACYBZ	BTENE	5	5.B.C 5.T.C 5.E.V 5.N.C 5.E.V	2.0 1.5 1.3 1.75 0.8	ftene	0	408
+591	Southern Tsakonian	THIN	p s i l e	1 3 7 5 7	ACXBZ	PSILE	5	5.P.C 5.S.C 5.I.V 5.L.C 5.E.V	2.0 1.5 1.5 1.75 0.8	psile	1	410
+711	Western Cappadocian Greek	THIN	f t e n o	3 1 7 4 7	ACYBZ	BTENU	6	6.B.C 6.T.C 6.E.V 6.N.C 6.U.V	2.0 1.5 1.3 1.75 0.8	fteno	0	408
+#
+96	Ancient Attic Greek	THIS	h uː t o	3 7 1 7	AXBZ	HYTU	1	1.H.C 1.Y.V 1.T.C 1.U.V	2.0 1.5 1.75 0.8	huːto	0	411
+209	Ancient Ionic Greek	THIS	uː t o	7 1 7	XBZ	YTU	2	2.Y.V 2.T.C 2.U.V	1.5 1.75 0.8	uːto	0	411
+325	Modern Demotic Greek	THIS	a f t o	7 3 1 7	XMBZ	ABTU	3	3.A.V 3.B.c 3.T.C 3.U.V	1.5 1.1 1.75 0.8	afto	0	413
+440	Pharasa Greek	THIS	a t e	7 1 7	XBZ	ATE	4	4.A.V 4.T.C 4.E.V	1.5 1.75 0.8	ate	0	414
+563	Southern Tsakonian	THIS	e n d e r i	7 4 1 7 5 7	XMBYBZ	ENTERI	5	5.E.V 5.N.c 5.T.C 5.E.V 5.R.C 5.I.V	1.5 1.1 1.75 1.3 1.75 0.8	enderi	0	415
+564	Southern Tsakonian	THIS	e n d e n i	7 4 1 7 4 7	XMBYBZ	ENTENI	5	5.E.V 5.N.c 5.T.C 5.E.V 5.N.C 5.I.V	1.5 1.1 1.75 1.3 1.75 0.8	endeni	0	415
+565	Southern Tsakonian	THIS	e t e n i	7 1 7 4 7	XBYBZ	ETENI	5	5.E.V 5.T.C 5.E.V 5.N.C 5.I.V	1.5 1.75 1.3 1.75 0.8	eteni	0	415
+690	Western Cappadocian Greek	THIS	e t o	7 1 7	XBZ	ETU	6	6.E.V 6.T.C 6.U.V	1.5 1.75 0.8	eto	0	415
+#
+97	Ancient Attic Greek	THOU	s y	3 7	AX	SY	1	1.S.C 1.Y.V	2.0 1.5	sy	0	416
+210	Ancient Ionic Greek	THOU	s y	3 7	AX	SY	2	2.S.C 2.Y.V	2.0 1.5	sy	0	416
+326	Modern Demotic Greek	THOU	e s i	7 3 7	XBZ	ESI	3	3.E.V 3.S.C 3.I.V	1.5 1.75 0.8	esi	0	416
+441	Pharasa Greek	THOU	e s i	7 3 7	XBZ	ESI	4	4.E.V 4.S.C 4.I.V	1.5 1.75 0.8	esi	0	416
+566	Southern Tsakonian	THOU	e c u	7 1 7	XBZ	ECY	5	5.E.V 5.C.C 5.Y.V	1.5 1.75 0.8	ecu	0	420
+567	Southern Tsakonian	THOU	e t i	7 1 7	XBZ	ETI	5	5.E.V 5.T.C 5.I.V	1.5 1.75 0.8	eti	0	422
+691	Western Cappadocian Greek	THOU	e ʃ i	7 3 7	XBZ	ESI	6	6.E.V 6.S.C 6.I.V	1.5 1.75 0.8	eʃi	0	416
+#
+98	Ancient Attic Greek	TONGUE	ɡ l oː t t a	1 5 7 1 1 7	ACXMBZ	KLUTTA	1	1.K.C 1.L.C 1.U.V 1.T.c 1.T.C 1.A.V	2.0 1.5 1.5 1.1 1.75 0.8	ɡloːtta	0	423
+211	Ancient Ionic Greek	TONGUE	ɡ l oː s s a	1 5 7 3 3 7	ACXMBZ	KLUSSA	2	2.K.C 2.L.C 2.U.V 2.S.c 2.S.C 2.A.V	2.0 1.5 1.5 1.1 1.75 0.8	ɡloːssa	0	423
+327	Modern Demotic Greek	TONGUE	ɣ l o s a	3 5 7 3 7	ACXBZ	GLUSA	3	3.G.C 3.L.C 3.U.V 3.S.C 3.A.V	2.0 1.5 1.5 1.75 0.8	ɣlosa	0	423
+442	Pharasa Greek	TONGUE	ɣ w o s a	3 6 7 3 7	ACXBZ	GWUSA	4	4.G.C 4.W.C 4.U.V 4.S.C 4.A.V	2.0 1.5 1.5 1.75 0.8	ɣwosa	0	423
+443	Pharasa Greek	TONGUE	ɣ w a s a	3 6 7 3 7	ACXBZ	GWASA	4	4.G.C 4.W.C 4.A.V 4.S.C 4.A.V	2.0 1.5 1.5 1.75 0.8	ɣwasa	0	423
+568	Southern Tsakonian	TONGUE	ɣ r u s a	3 5 7 3 7	ACXBZ	GRYSA	5	5.G.C 5.R.C 5.Y.V 5.S.C 5.A.V	2.0 1.5 1.5 1.75 0.8	ɣrusa	0	423
+692	Western Cappadocian Greek	TONGUE	ɣ l o s a	3 5 7 3 7	ACXBZ	GLUSA	6	6.G.C 6.L.C 6.U.V 6.S.C 6.A.V	2.0 1.5 1.5 1.75 0.8	ɣlosa	0	423
+#
+99	Ancient Attic Greek	TOOTH	o d o n t	7 1 7 4 1	XBYLN	UTUNT	1	1.U.V 1.T.C 1.U.V 1.N.c 1.T.c	1.5 1.75 1.3 1.1 0.8	odont	0	424
+212	Ancient Ionic Greek	TOOTH	o d o n t	7 1 7 4 1	XBYLN	UTUNT	2	2.U.V 2.T.C 2.U.V 2.N.c 2.T.c	1.5 1.75 1.3 1.1 0.8	odont	0	424
+328	Modern Demotic Greek	TOOTH	ð o d i	3 7 1 7	AXBZ	DUTI	3	3.D.C 3.U.V 3.T.C 3.I.V	2.0 1.5 1.75 0.8	ðodi	0	424
+444	Pharasa Greek	TOOTH	ð a n d a r i	3 7 4 1 7 5 7	AXMBYBZ	DANTARI	4	4.D.C 4.A.V 4.N.c 4.T.C 4.A.V 4.R.C 4.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ðandari	0	424
+569	Southern Tsakonian	TOOTH	o n d a	7 4 1 7	XMBZ	UNTA	5	5.U.V 5.N.c 5.T.C 5.A.V	1.5 1.1 1.75 0.8	onda	0	424
+693	Western Cappadocian Greek	TOOTH	z o n ʧ i	3 7 4 2 7	AXMBZ	SUNCI	6	6.S.C 6.U.V 6.N.c 6.C.C 6.I.V	2.0 1.5 1.1 1.75 0.8	zonʧi	0	424
+#
+100	Ancient Attic Greek	TREE	d e n d r o n	1 7 4 1 5 7 4	AXMBCYN	TENTRUN	1	1.T.C 1.E.V 1.N.c 1.T.C 1.R.C 1.U.V 1.N.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	dendron	0	425
+213	Ancient Ionic Greek	TREE	d e n d r e o n	1 7 4 1 5 7 7 4	AXMBCYYN	TENTREUN	2	2.T.C 2.E.V 2.N.c 2.T.C 2.R.C 2.E.V 2.U.V 2.N.c	2.0 1.5 1.1 1.75 1.5 1.3 1.3 0.8	dendreon	0	425
+329	Modern Demotic Greek	TREE	ð e d r o	3 7 1 5 7	AXBCZ	DETRU	3	3.D.C 3.E.V 3.T.C 3.R.C 3.U.V	2.0 1.5 1.75 1.5 0.8	ðedro	0	425
+445	Pharasa Greek	TREE	k s i o	1 3 7 7	ACXZ	KSIU	4	4.K.C 4.S.C 4.I.V 4.U.V	2.0 1.5 1.5 0.8	ksio	0	428
+570	Southern Tsakonian	TREE	ð e n ʤ i k o	3 7 4 2 7 1 7	AXMBYBZ	DENCIKU	5	5.D.C 5.E.V 5.N.c 5.C.C 5.I.V 5.K.C 5.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ðenʤiko	0	429
+694	Western Cappadocian Greek	TREE	ð e n d r o	3 7 4 1 5 7	AXMBCZ	DENTRU	6	6.D.C 6.E.V 6.N.c 6.T.C 6.R.C 6.U.V	2.0 1.5 1.1 1.75 1.5 0.8	ðendro	0	425
+#
+101	Ancient Attic Greek	TWO	d y o	1 7 7	AXZ	TYU	1	1.T.C 1.Y.V 1.U.V	2.0 1.5 0.8	dyo	0	430
+214	Ancient Ionic Greek	TWO	d y o	1 7 7	AXZ	TYU	2	2.T.C 2.Y.V 2.U.V	2.0 1.5 0.8	dyo	0	430
+330	Modern Demotic Greek	TWO	ð i o	3 7 7	AXZ	DIU	3	3.D.C 3.I.V 3.U.V	2.0 1.5 0.8	ðio	0	430
+446	Pharasa Greek	TWO	ð i o	3 7 7	AXZ	DIU	4	4.D.C 4.I.V 4.U.V	2.0 1.5 0.8	ðio	0	430
+571	Southern Tsakonian	TWO	ð i	3 7	AX	DI	5	5.D.C 5.I.V	2.0 1.5	ði	0	430
+695	Western Cappadocian Greek	TWO	e r j o	7 5 6 7	XBCZ	ERJU	6	6.E.V 6.R.C 6.J.C 6.U.V	1.5 1.75 1.5 0.8	erjo	0	435
+#
+102	Ancient Attic Greek	WALK	e j m i	7 6 4 7	XMBZ	EJMI	1	1.E.V 1.J.c 1.M.C 1.I.V	1.5 1.1 1.75 0.8	ejmi	0	436
+215	Ancient Ionic Greek	WALK	e j m i	7 6 4 7	XMBZ	EJMI	2	2.E.V 2.J.c 2.M.C 2.I.V	1.5 1.1 1.75 0.8	ejmi	0	436
+331	Modern Demotic Greek	WALK	p a o	1 7 7	AXZ	PAU	3	3.P.C 3.A.V 3.U.V	2.0 1.5 0.8	pao	0	438
+332	Modern Demotic Greek	WALK	p i ʝ e n o	1 7 3 7 4 7	AXBYBZ	PISENU	3	3.P.C 3.I.V 3.S.C 3.E.V 3.N.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	piʝeno	0	439
+333	Modern Demotic Greek	WALK	p i ɣ a	1 7 3 7	AXBZ	PIGA	3	3.P.C 3.I.V 3.G.C 3.A.V	2.0 1.5 1.75 0.8	piɣa	0	445
+447	Pharasa Greek	WALK	p a j e n o	1 7 6 7 4 7	AXBYBZ	PAJENU	4	4.P.C 4.A.V 4.J.C 4.E.V 4.N.C 4.U.V	2.0 1.5 1.75 1.3 1.75 0.8	pajeno	0	439
+448	Pharasa Greek	WALK	p e n o	1 7 4 7	AXBZ	PENU	4	4.P.C 4.E.V 4.N.C 4.U.V	2.0 1.5 1.75 0.8	peno	0	439
+449	Pharasa Greek	WALK	p i a ɣ a	1 7 7 3 7	AXYBZ	PIAGA	4	4.P.C 4.I.V 4.A.V 4.G.C 4.A.V	2.0 1.5 1.3 1.75 0.8	piaɣa	0	445
+450	Pharasa Greek	WALK	p i ɣ a	1 7 3 7	AXBZ	PIGA	4	4.P.C 4.I.V 4.G.C 4.A.V	2.0 1.5 1.75 0.8	piɣa	0	445
+572	Southern Tsakonian	WALK	e ŋ ɡ u	7 4 1 7	XMBZ	ENKY	5	5.E.V 5.N.c 5.K.C 5.Y.V	1.5 1.1 1.75 0.8	eŋɡu	0	440
+573	Southern Tsakonian	WALK	e z a k	7 3 7 1	XBYN	ESAK	5	5.E.V 5.S.C 5.A.V 5.K.c	1.5 1.75 1.3 0.8	ezak	0	444
+696	Western Cappadocian Greek	WALK	p e n o	1 7 4 7	AXBZ	PENU	6	6.P.C 6.E.V 6.N.C 6.U.V	2.0 1.5 1.75 0.8	peno	0	439
+697	Western Cappadocian Greek	WALK	p i ɣ a	1 7 3 7	AXBZ	PIGA	6	6.P.C 6.I.V 6.G.C 6.A.V	2.0 1.5 1.75 0.8	piɣa	0	445
+#
+103	Ancient Attic Greek	WARM (OF WEATHER)	tʰ e r m o	1 7 5 4 7	AXMBZ	TERMU	1	1.T.C 1.E.V 1.R.c 1.M.C 1.U.V	2.0 1.5 1.1 1.75 0.8	tʰermo	0	446
+216	Ancient Ionic Greek	WARM (OF WEATHER)	tʰ e r m o	1 7 5 4 7	AXMBZ	TERMU	2	2.T.C 2.E.V 2.R.c 2.M.C 2.U.V	2.0 1.5 1.1 1.75 0.8	tʰermo	0	446
+334	Modern Demotic Greek	WARM (OF WEATHER)	z e s t o	3 7 3 1 7	AXMBZ	SESTU	3	3.S.C 3.E.V 3.S.c 3.T.C 3.U.V	2.0 1.5 1.1 1.75 0.8	zesto	0	448
+#
+104	Ancient Attic Greek	WATER	h y d oː r	3 7 1 7 5	AXBYN	HYTUR	1	1.H.C 1.Y.V 1.T.C 1.U.V 1.R.c	2.0 1.5 1.75 1.3 0.8	hydoːr	0	449
+217	Ancient Ionic Greek	WATER	y d oː r	7 1 7 5	XBYN	YTUR	2	2.Y.V 2.T.C 2.U.V 2.R.c	1.5 1.75 1.3 0.8	ydoːr	0	449
+335	Modern Demotic Greek	WATER	n e r o	4 7 5 7	AXBZ	NERU	3	3.N.C 3.E.V 3.R.C 3.U.V	2.0 1.5 1.75 0.8	nero	0	451
+451	Pharasa Greek	WATER	n e r o	4 7 5 7	AXBZ	NERU	4	4.N.C 4.E.V 4.R.C 4.U.V	2.0 1.5 1.75 0.8	nero	0	451
+574	Southern Tsakonian	WATER	i o	7 7	XZ	IU	5	5.I.V 5.U.V	1.5 0.8	io	0	453
+698	Western Cappadocian Greek	WATER	l e r o	5 7 5 7	AXBZ	LERU	6	6.L.C 6.E.V 6.R.C 6.U.V	2.0 1.5 1.75 0.8	lero	0	451
+#
+105	Ancient Attic Greek	WE	h eː m e j s	3 7 4 7 6 3	AXBYLN	HEMEJS	1	1.H.C 1.E.V 1.M.C 1.E.V 1.J.c 1.S.c	2.0 1.5 1.75 1.3 1.1 0.8	heːmejs	0	454
+218	Ancient Ionic Greek	WE	eː m e j s	7 4 7 6 3	XBYLN	EMEJS	2	2.E.V 2.M.C 2.E.V 2.J.c 2.S.c	1.5 1.75 1.3 1.1 0.8	eːmejs	0	454
+336	Modern Demotic Greek	WE	e m i s	7 4 7 3	XBYN	EMIS	3	3.E.V 3.M.C 3.I.V 3.S.c	1.5 1.75 1.3 0.8	emis	0	454
+452	Pharasa Greek	WE	e m i s	7 4 7 3	XBYN	EMIS	4	4.E.V 4.M.C 4.I.V 4.S.c	1.5 1.75 1.3 0.8	emis	0	454
+575	Southern Tsakonian	WE	e ɲ i	7 4 7	XBZ	ENI	5	5.E.V 5.N.C 5.I.V	1.5 1.75 0.8	eɲi	1	458
+576	Southern Tsakonian	WE	e m u n a n e	7 4 7 4 7 4 7	XBYBYBZ	EMYNANE	5	5.E.V 5.M.C 5.Y.V 5.N.C 5.A.V 5.N.C 5.E.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	emunane	0	460
+577	Southern Tsakonian	WE	e ɲ i n a n e	7 4 7 4 7 4 7	XBYBYBZ	ENINANE	5	5.E.V 5.N.C 5.I.V 5.N.C 5.A.V 5.N.C 5.E.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	eɲinane	0	458
+699	Western Cappadocian Greek	WE	e m i s	7 4 7 3	XBYN	EMIS	6	6.E.V 6.M.C 6.I.V 6.S.c	1.5 1.75 1.3 0.8	emis	0	454
+#
+106	Ancient Attic Greek	WHAT	t i	1 7	AX	TI	1	1.T.C 1.I.V	2.0 1.5	ti	0	461
+219	Ancient Ionic Greek	WHAT	t i	1 7	AX	TI	2	2.T.C 2.I.V	2.0 1.5	ti	0	461
+337	Modern Demotic Greek	WHAT	t i	1 7	AX	TI	3	3.T.C 3.I.V	2.0 1.5	ti	0	461
+453	Pharasa Greek	WHAT	t i p o	1 7 1 7	AXBZ	TIPU	4	4.T.C 4.I.V 4.P.C 4.U.V	2.0 1.5 1.75 0.8	tipo	0	461
+578	Southern Tsakonian	WHAT	ʦ i	2 7	AX	CI	5	5.C.C 5.I.V	2.0 1.5	ʦi	0	461
+700	Western Cappadocian Greek	WHAT	ʧ i	2 7	AX	CI	6	6.C.C 6.I.V	2.0 1.5	ʧi	0	461
+#
+107	Ancient Attic Greek	WHITE	l e w k o	5 7 6 1 7	AXMBZ	LEWKU	1	1.L.C 1.E.V 1.W.c 1.K.C 1.U.V	2.0 1.5 1.1 1.75 0.8	lewko	0	462
+220	Ancient Ionic Greek	WHITE	l e w k o	5 7 6 1 7	AXMBZ	LEWKU	2	2.L.C 2.E.V 2.W.c 2.K.C 2.U.V	2.0 1.5 1.1 1.75 0.8	lewko	0	462
+338	Modern Demotic Greek	WHITE	a s p r o	7 3 1 5 7	XMBCZ	ASPRU	3	3.A.V 3.S.c 3.P.C 3.R.C 3.U.V	1.5 1.1 1.75 1.5 0.8	aspro	0	464
+454	Pharasa Greek	WHITE	a s p r o	7 3 1 5 7	XMBCZ	ASPRU	4	4.A.V 4.S.c 4.P.C 4.R.C 4.U.V	1.5 1.1 1.75 1.5 0.8	aspro	0	464
+579	Southern Tsakonian	WHITE	l e k o	5 7 1 7	AXBZ	LEKU	5	5.L.C 5.E.V 5.K.C 5.U.V	2.0 1.5 1.75 0.8	leko	0	462
+701	Western Cappadocian Greek	WHITE	a s p r o	7 3 1 5 7	XMBCZ	ASPRU	6	6.A.V 6.S.c 6.P.C 6.R.C 6.U.V	1.5 1.1 1.75 1.5 0.8	aspro	0	464
+#
+108	Ancient Attic Greek	WHO	t i	1 7	AX	TI	1	1.T.C 1.I.V	2.0 1.5	ti	1	465
+221	Ancient Ionic Greek	WHO	t i	1 7	AX	TI	2	2.T.C 2.I.V	2.0 1.5	ti	1	465
+339	Modern Demotic Greek	WHO	p ç o	1 3 7	ACX	PSU	3	3.P.C 3.S.C 3.U.V	2.0 1.5 1.5	pço	0	467
+455	Pharasa Greek	WHO	t i s	1 7 3	AXN	TIS	4	4.T.C 4.I.V 4.S.c	2.0 1.5 0.8	tis	0	465
+580	Southern Tsakonian	WHO	p i e	1 7 7	AXZ	PIE	5	5.P.C 5.I.V 5.E.V	2.0 1.5 0.8	pie	0	469
+702	Western Cappadocian Greek	WHO	ʧ i s	2 7 3	AXN	CIS	6	6.C.C 6.I.V 6.S.c	2.0 1.5 0.8	ʧis	0	465
+#
+118	Ancient Attic Greek	WIND	a n e m o s	7 4 7 4 7 3	XBYBYN	ANEMUS	1	1.A.V 1.N.C 1.E.V 1.M.C 1.U.V 1.S.c	1.5 1.75 1.3 1.75 1.3 0.8	anemos	0	470
+230	Ancient Ionic Greek	WIND	a n e m o s	7 4 7 4 7 3	XBYBYN	ANEMUS	2	2.A.V 2.N.C 2.E.V 2.M.C 2.U.V 2.S.c	1.5 1.75 1.3 1.75 1.3 0.8	anemos	0	470
+349	Modern Demotic Greek	WIND	a e r a s	7 7 5 7 3	XYBYN	AERAS	3	3.A.V 3.E.V 3.R.C 3.A.V 3.S.c	1.5 1.3 1.75 1.3 0.8	aeras	0	472
+462	Pharasa Greek	WIND	a n e m o s	7 4 7 4 7 3	XBYBYN	ANEMUS	4	4.A.V 4.N.C 4.E.V 4.M.C 4.U.V 4.S.c	1.5 1.75 1.3 1.75 1.3 0.8	anemos	0	470
+592	Southern Tsakonian	WIND	a e r a	7 7 5 7	XYBZ	AERA	5	5.A.V 5.E.V 5.R.C 5.A.V	1.5 1.3 1.75 0.8	aera	0	472
+712	Western Cappadocian Greek	WIND	a n o m o s	7 4 7 4 7 3	XBYBYN	ANUMUS	6	6.A.V 6.N.C 6.U.V 6.M.C 6.U.V 6.S.c	1.5 1.75 1.3 1.75 1.3 0.8	anomos	0	470
+#
+109	Ancient Attic Greek	WOMAN	ɡ y n eː	1 7 4 7	AXBZ	KYNE	1	1.K.C 1.Y.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	ɡyneː	0	473
+222	Ancient Ionic Greek	WOMAN	ɡ y n eː	1 7 4 7	AXBZ	KYNE	2	2.K.C 2.Y.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	ɡyneː	0	473
+340	Modern Demotic Greek	WOMAN	ʝ i n e k a	3 7 4 7 1 7	AXBYBZ	SINEKA	3	3.S.C 3.I.V 3.N.C 3.E.V 3.K.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ʝineka	0	473
+456	Pharasa Greek	WOMAN	n e k a	4 7 1 7	AXBZ	NEKA	4	4.N.C 4.E.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	neka	0	473
+581	Southern Tsakonian	WOMAN	ɣ u n e k a	3 7 4 7 1 7	AXBYBZ	GYNEKA	5	5.G.C 5.Y.V 5.N.C 5.E.V 5.K.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ɣuneka	0	473
+703	Western Cappadocian Greek	WOMAN	n e k a	4 7 1 7	AXBZ	NEKA	6	6.N.C 6.E.V 6.K.C 6.A.V	2.0 1.5 1.75 0.8	neka	0	473
+#
+231	Ancient Ionic Greek	WORM	e w l eː	7 6 5 7	XMBZ	EWLE	2	2.E.V 2.W.c 2.L.C 2.E.V	1.5 1.1 1.75 0.8	ewleː	0	474
+350	Modern Demotic Greek	WORM	s k u l i c i	3 1 7 5 7 1 7	ACYBYBZ	SKYLICI	3	3.S.C 3.K.C 3.Y.V 3.L.C 3.I.V 3.C.C 3.I.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	skulici	0	475
+593	Southern Tsakonian	WORM	kʰ o a k a	1 7 7 1 7	AXYBZ	KUAKA	5	5.K.C 5.U.V 5.A.V 5.K.C 5.A.V	2.0 1.5 1.3 1.75 0.8	kʰoaka	0	476
+713	Western Cappadocian Greek	WORM	s k u l i k	3 1 7 5 7 1	ACYBYN	SKYLIK	6	6.S.C 6.K.C 6.Y.V 6.L.C 6.I.V 6.K.c	2.0 1.5 1.3 1.75 1.3 0.8	skulik	0	475
+#
+119	Ancient Attic Greek	YEAR	e n i a w t o s	7 4 7 7 6 1 7 3	XBYYMBYN	ENIAWTUS	1	1.E.V 1.N.C 1.I.V 1.A.V 1.W.c 1.T.C 1.U.V 1.S.c	1.5 1.75 1.3 1.3 1.1 1.75 1.3 0.8	eniawtos	0	477
+232	Ancient Ionic Greek	YEAR	e t o s	7 1 7 3	XBYN	ETUS	2	2.E.V 2.T.C 2.U.V 2.S.c	1.5 1.75 1.3 0.8	etos	0	478
+351	Modern Demotic Greek	YEAR	x r o n o s	3 5 7 4 7 3	ACXBYN	GRUNUS	3	3.G.C 3.R.C 3.U.V 3.N.C 3.U.V 3.S.c	2.0 1.5 1.5 1.75 1.3 0.8	xronos	0	479
+463	Pharasa Greek	YEAR	x r o n o s	3 5 7 4 7 3	ACXBYN	GRUNUS	4	4.G.C 4.R.C 4.U.V 4.N.C 4.U.V 4.S.c	2.0 1.5 1.5 1.75 1.3 0.8	xronos	0	479
+594	Southern Tsakonian	YEAR	x r o n e	3 5 7 4 7	ACXBZ	GRUNE	5	5.G.C 5.R.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.5 1.75 0.8	xrone	0	479
+714	Western Cappadocian Greek	YEAR	x r o n o	3 5 7 4 7	ACXBZ	GRUNU	6	6.G.C 6.R.C 6.U.V 6.N.C 6.U.V	2.0 1.5 1.5 1.75 0.8	xrono	0	479
+#
+110	Ancient Attic Greek	YELLOW	k s a n tʰ o	1 3 7 4 1 7	ACXMBZ	KSANTU	1	1.K.C 1.S.C 1.A.V 1.N.c 1.T.C 1.U.V	2.0 1.5 1.5 1.1 1.75 0.8	ksantʰo	0	480
+341	Modern Demotic Greek	YELLOW	c i t r i n o	1 7 1 5 7 4 7	AXBCYBZ	CITRINU	3	3.C.C 3.I.V 3.T.C 3.R.C 3.I.V 3.N.C 3.U.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	citrino	0	481
+457	Pharasa Greek	YELLOW	x w o r o	3 6 7 5 7	ACXBZ	GWURU	4	4.G.C 4.W.C 4.U.V 4.R.C 4.U.V	2.0 1.5 1.5 1.75 0.8	xworo	0	482
+582	Southern Tsakonian	YELLOW	ʨ i t r̝ i n e	2 7 1 5 7 4 7	AXBCYBZ	CITRINE	5	5.C.C 5.I.V 5.T.C 5.R.C 5.I.V 5.N.C 5.E.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	ʨitr̝ine	0	481
+704	Western Cappadocian Greek	YELLOW	x l o r o	3 5 7 5 7	ACXBZ	GLURU	6	6.G.C 6.L.C 6.U.V 6.R.C 6.U.V	2.0 1.5 1.5 1.75 0.8	xloro	0	482
+# Created using the LexStat class of LingPy-2.6.8
+# Parameters: 2:1_1.00_1000_0.70_global-2-0.50:local-1-0.50_0.30__T_shuffle_False:upgma:-2_0.7_0.00_-5.00
+# Cluster: lexstat_upgma_0.60

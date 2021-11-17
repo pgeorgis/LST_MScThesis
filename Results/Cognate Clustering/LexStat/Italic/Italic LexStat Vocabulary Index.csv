@@ -1,0 +1,605 @@
+Gloss	Aromanian	Asturian	Catalan (Castelló de la Plana)	Catalan (Central)	Catalan (Manises)	Catalan (Minorcan)	Catalan (Northwestern)	Catalan (Valencia)	Dalmatian	Emiliano (Carpigiano)	Emiliano (Ferrarese)	Emiliano (Reggiano)	Franco-Provençal	French	Friulian	Galician	Istro-Romanian	Italian	Ladin (Fassano)	Ladin (Gardenese)	Latin (Archaic)	Latin (Late Classical)	Ligurian (Genoa)	Ligurian (Rapallo)	Ligurian (Stella)	Lombard (Bergamo)	Lombard (Plesio)	Megleno-Romanian	Neapolitan	Occitan	Old French	Old Italian	Picard	Piedmontese (Barbania)	Piedmontese (Carmagnola)	Piedmontese (Lanzo Torinese)	Piedmontese (Turinese)	Piedmontese (Vercellese)	Portuguese	Romagnol	Romanian	Romansh (Grischun)	Romansh (Surmiran)	Romansh (Sursilvan)	Romansh (Vallader)	Sardinian (Campidanese)	Sardinian (Logudorese)	Sicilian (Catanian)	Sicilian (Messinese)	Sicilian (Palermitan)	Sicilian (Southeastern)	Spanish	Tuscan	Umbrian	Venetian (Bellunese)	Venetian (Primiero)	Venetian (Venice)	Walloon
+ALL_1	tutu	too		tot	tot	tot	tot	tot		tut	tut	tot	to	tu	dut	toðo	tot	tutto	dut	dut		toːtʊs	tyttu	tyttu	tyttu	tøt	tyʧʧ	tot	tuttə	tut	tot	tutto	tu	tyt	tyjt	tyt	tyt	tyʧ	toðu	tot	tot	tut	tot	tut	twot	tottu	tottu	tuttu	tuttu	tuttu	tuttu	toðo	tutto	tuttu	tuto	tut	tuto	tu
+ALL_2									toʧ																																																	
+ALL_3													tot																																													
+ALL_4																					ɔmnɪs	ɔmnɪs																																				
+ASH_1	ʧinuʃe								kanajsa						ʧinize		ʧeruʃe				kɪnɪs	kɪnɪs						ʧənuʃə													ʧenuʃə					ʧiniʒu												
+ASH_2	skrumu																											skrum																														
+ASH_3		θeniθa														θinθa																							sĩzɐ													θeniθa						
+ASH_4				sɛndɾə	sɛndɾa	sɛndɾə	sɛndɾɛ	sɛndɾa		sɛndra	ʦɛndar	sɛndra	fɛ̃dra~fɛdra	sɑ̃dʁ					ʧendɛr	ʧəndər						sɛnder	ʃendɛr			sɛndɾe	ʦãndrə							søŋdri		ʦɛndra		ʧɛndrə	ʧɛndrə	ʧɛndrə	ʧɛndrə										θeŋdro	θeŋdre		
+ASH_5																		ʧenere					ʧeneri	seŋje	srenne				ʃɛnnəɾə~ʃennəɾə			ʧenere	ʃɛ̃n	sənɛr	sənɛr	sənɛr	sinər											ʧinniɾi	ʧinɨɾɨ	ʧinniɾi	ʧinniɾi		ʧenere	ʧennere			sɛneri	sɛn
+ASH_6																																															kisina											
+BARK_1	ko̯aʒe																kora																																									
+BARK_2		koɾteθa		əskɔɾsə	kɔɾfa	əskɔɾsə	askɔɾsɛ	askɔɾsa		kurtɛsa	kurtɛʧa	skɔːrsa	ekøːrsa	ekɔʁs	skuse	koɾteθa		korteʧʧa	ʃkorʦa	ʃkɔrʦa			skɔrsa	skɔrsa	skɔːrsa				ʃkɔrʦə		eskɔrʦə	skɔrʦa~korteʧʧa		skɔrsa	skɔrsa		skɔrsa	skɔrsa		skɔa̯rʦa	sko̯arʦə	ʃkɔrsə	ʃkɔrsə	ʃkɔrsə	ʃkɔrʦə	skroʒu		skɔɾʧa	skɔʧʧa	ʃkwɔɾʧa	ʃkɔʧʧa	koɾteθa		korteʧʧa	skɔrθa	skɔrθa	skɔrsa	
+BARK_3																										røska				ʀysko									kaʃkɐ																			
+BARK_4																					lɪbɛr																																					
+BARK_5																											pɛll																															
+BARK_6																																	plat			pløja																						
+BARK_7																																															koθikina											
+BARK_8																																																					buʧʧa					
+BARK_9																																																										skwaːs
+BELLY_1	pɨntiku								vjantro				vɛtro	vɑ̃tʁ				vɛntre	venter	vəntər	wɛntɛr	vɛntɛr					ventru			vɛntɾe	vãntrə	vɛntre										vɛntər	vajntər	vɛntər	vajntər	brɛnti	frente											
+BELLY_2		bariɡa														bariɣa																							bɐʁiɣɐ																			
+BELLY_3				paɲʃə	paɲʧa	paɲʃə	paɲʧɛ	paɲʧa		pansa	panʦa	paːnsa			panʦe								paŋsa	paŋsa	paŋsa	pansa			panʦə				pɑ̃ʃ	paŋsa	paŋsa	paŋsa	paŋsa	paŋsa		pãnʦa								panʦa	panʦa	panʦa	panʦa		panʧa		paŋθa	paŋθa	paŋsa	
+BELLY_4																	tərbux																																									
+BELLY_5																												fo̯ali																														
+BELLY_6																																									burtə																	
+BELLY_7																																																				tɾipa		trippu				
+BELLY_8																																																										vɛ̃t
+BIG_1	mare								mawr								mɒre											mari													mare																	
+BIG_2		ɡɾande		ɡɾan	ɡɾan		ɡɾan	ɡɾan			ɡrand	ɡraːnd	ɡrã	ɡʁɑ̃	ɡrant	ɡɾande		ɡrande	ɡran	ɡrant		ɡrandɪs					ɡraːnt			ɡɾant	ɡrãnt	ɡrande	ɡʁɑ̃		ɡraŋd~ɡraŋ	ɡraŋd	ɡraŋd		ɡɾɐ̃ndɨ	ɡrãnd		ɡrɔnt	ɡrɔnt	ɡrɔnt	ɡrɔnt							ɡɾande			ɡraŋt	ɡraŋt	ɡraŋdo	ɡʀã
+BIG_3						ɡɾɔs				ɡrɔːs													ɡrøssu	ɡrɔssu	ɡrɔːssu	ɡrɔs			rwossə					ɡrɔs				ɡrɔːs											ɾɔssu				ɡrɔsso	ɡrossu				
+BIG_4																					maŋnʊs																									mannu	mannu	ɾanni		ɾanni	ɾanni							
+BIRD_1	puʎu																																																									
+BIRD_2		paʃaɾo																																							pasəre											paxaɾo						
+BIRD_3					paɾðaɫ	pəɾðaɫ		paɾðaɫ																																																		
+BIRD_4				useʎ					oʧel	uzɛːl	uzɛl	uzɛl			uʧɛl			uʧʧɛllo	uʧel	uʧel			awʒellu	ɔwʒellu		oʦɛl	ulʧɛll				ojzel	uʧʧɛllo		uzɛl	uzɛl	uzɛl	uzɛl	yzɛl		uzɛə̯l			uʧel										uʧʧɛllo	ʧellu	ozɛl	uzɛl		
+BIRD_5							miʃo																																																			
+BIRD_6									uʧul								puʎ											puʎ																														
+BIRD_7													ajʒo	wazo																																												
+BIRD_8																aβe					awɪs	avɪs																	avɨ																			
+BIRD_9																									ɔːwʒeː																																	
+BIRD_10																													awʃjellə	awsɛw																												
+BIRD_11																																	ɔzjo									uʧɛ		uʧi	uʧɛ~uʃɛ												ozɛo	ɔʒeː
+BIRD_12																																														pillɔni	puʒone											
+BIRD_13																																																aʧɛɖɖu	aʧiɖɖu	aʧjɛɖɖu	awʧjɛɖɖu							
+BITE_1	mɨʃku~muʃku																muʧkɒ											muʧku																														
+BITE_2		moɾdeɾ											møːrdre	mɔʁdʁ	mwardi	moɾðeɾ		mɔrdere	morder	mɔrdər	mɔrdeːrɛ	mɔrdeːrɛ	mɔːrde	mɔrde	mɔːrde					mɔɾdɾe	mɔrdrə	mɔrdere	mɔʁd	mɔrde	mɔrde	mɔrdi	mɔrde	mɔːrdi	muɾðeɾ			mɔrdər	mɔrdər	mɔrdər	mɔrdər							moɾðeɾ			mɔrðar	mɔrðer		
+BITE_3				musəɣa	moseɣaɾ	musəɣa	moseɣa	moseɣaɾ	morskwor	muzɡɛːr		muzɡɛːr																	muʦʦəka~murʦəka											murseə̯	amuʃka						mossiɡare	muʦʦikaɾi	muʦʦɨkaɾɨ	muʦʦikaɾi	muʦʦikaɾi		morsikare	moʧʧika			morseɡar	
+BITE_4											zɡaɲar																kaɲa																															aɲe
+BITE_5																										pia																																
+BITE_6																																														mussjaj												
+BLACK_1	laju																																																									
+BLACK_2		neɡɾo		nɛɣɾə	neɣɾe	nɛɣɾə	neɣɾe	neɣɾe	njar	neɡer	nɛɡar	niːɡer	naj	nwaʁ	neri	neɣɾo	neɡru	nero	nejɡer				neːjɡru	nejɡru	nɛːjɡru	niɡɛr	neɡru	neɡru	niɾə	neɡɾe	nojr	nero	nweʁ	nɛjr	nɛjr	nɛjr	nɛjr	neːru		niɡar	neɡru	najr	neər	ner	najr			niuɾu	niuɾu	nivuɾu	niviɾu	neɣɾo	nero	niru	nero	neɡro	nero	nwaːʀ
+BLACK_3																				foʃk																																						
+BLACK_4																					aːtɛr	aːtɛr																																				
+BLACK_5																																							pɾetu																			
+BLACK_6																																														njeddu	niɡeɖɖu~njeɖɖu											
+BLOOD_1	sɨnʒe	saŋɡɾe		saŋ	saŋk	saŋk	saŋ	saŋk	swoŋɡ	saŋɡev	saŋɡ	saːŋɡov~saːŋɡev			saŋk	saŋɡe	sənze	saŋɡwe	saŋk	saŋk	saŋɡʷiːs	saŋɡʷiːs	saŋɡwe	saŋɡwe	saːŋɡwe	saŋk	saŋk	sɔnzi	saŋɡə	saŋk	sãŋk	saŋɡwe		saŋɡ	saŋɡ	saŋɡ	saŋɡ	saŋ	sɐ̃ŋɡɨ	sãŋɡv	sɨnʤe	saŋk	saŋk	sawŋk	saŋk	saŋɡuni		saŋɡu	saŋɡu	saŋɡu	saŋku	saŋɡɾe	saŋɡwe	saŋɡwe	saŋɡwe	saŋɡwe	saŋɡwe	
+BLOOD_2													sã	sɑ̃																			sɑ̃																									sã
+BLOOD_3																																															sambene											
+BONE_1	osu			ɔs	ɔs	ɔs	ɔs	ɔs		ɔːs	ɔs	ɔːs		ɔs		ɔso	os	ɔsso	ɔs	ɔs	ɔs	ɔs	øssu	ɔssu	ossu	ɔs	ɔss	wos	wossə	ɔs	ɔs	ɔsso	ɔʃ	ɔs	ɔs	ɔs	ɔs	ɔːs	osu	ɔs	os	ɔs	ɔs		ɔs~øs	ossu	ossu	ɔssu	ɔssu	wɔssu	wɔssu		ɔsso	ossu	ɔs	ɔs	ɔso	ɔʃ~ɔʃeː
+BONE_2		ɡweso							vwas						vwɛs																													jes								weso						
+BONE_3													ɔ																																													
+BREAST_1	ceptu																kʎept											cept													pjept																	
+BREAST_2		peʧo		pit	pit	pit	pit	pit	pjat	pɛːt	pɛt				pɛt	pejto		pɛtto	pjet	pjet	pɛktʊs	pɛktʊs	pettu		pɛːtu				pjettə	pjɛs~pjes	piʦ	pɛtto		pɛt		pɛt	pɛt		pɐjtu	pɛə̯t		pɛʦ	pɛʦ	pɛʦ	pet	pittura	pettorra	pɛttu	pɛttu	pjɛttu	pjɛttu	peʧo	pɛtto	pettu	pɛt		peto~pɛto	
+BREAST_3									sjaŋ																			sin																														
+BREAST_4												stɔmeɡ	ɛstɔma													stomɛk	ʃtumɛk								stɔmi			stɔːmik																				
+BREAST_5														pwatʁin																pejtɾino~pitɾe			pwetʁɛ̃n																									pwatʀin
+BREAST_6																								kaʃetta																																		
+BREAST_7																																																								tete		
+BURN (SOMETHING)_1	ardu																											art			ardrə										aarde	ardər	ardər		ardər													
+BURN (SOMETHING)_2		kemaɾ		kɾəma	kɾemaɾ	kɾəma	kɾema	kɾemaɾ					kraːmaː			kejmaɾ														kɾema									kɐjmaɾ													kemaɾ						
+BURN (SOMETHING)_3										bruzɛːr	bruzar	bruzer	bryːlaː	bʁyle	brusaː		pali	bruʧare	bruʒɛr	bruʒɛ			bryʒaː	bryʒa	bryːʒɛː	bryʦa	bryza		abbruʃʃa	bɾyla		bruʃare~abbruʃare	bʁyle	bryze	bryze	bryze	bryze	bryzɛ		bruzeə̯						abruʒaj	brusjare	bɾuʧaɾi		abbɾuʧaɾi	abbɾuʃaɾi		bruʧare	vruʧa	bruzar	bruzar	bruzar	bʀyːle
+BURN (SOMETHING)_4																					uːrɛrɛ	uːrɛrɛ																																				
+BURN (SOMETHING)_5																																												bərʃar					bampaɾɨ									
+CLOUD_1	nioru	nube		nuβuɫ	nuβoɫ	nivuɫat	nuβoɫ	nuβoɫ	nuvol	nuvla	nuval	novla	ɲola		nuːl	nuβe		nuvola	niɡola	nibla	nuːbɪs	nuːbeːs~nuːbiːɫũ	nyvia	nyvvua		niol	niɡula	nor	nuvələ	nive~nivo	nyə	nube~nuvola		nivula	nivula	nivula	nuvula	niːwla	nuvɐ̃j̃	nuvla	nor	nivəl	nɛjvəl	nibəl	nyvlə	nuj	nue	nuvula	nuvula	nuvula	nuvula	nuβe	nuvola	nuola	nuvola	nuvola	nuvoe̯a	
+CLOUD_2														nɥaʒ											niːɡɥa					njew			nɥaʒ																									nuwaʧ
+CLOUD_3																	oblɒk																																									
+COLD (OF WEATHER)_1	araʦe																rɒʧe											raʦi													reʧe																	
+COLD (OF WEATHER)_2		fɾio		fɾɛt	fɾet	fɾɛt	fɾet	fɾet		frɛd	fred	frɛd	fraj	fʁwa	freːt	fɾio		freddo	frejt	frəjt	friːɡɪdʊs	friːɡɪdʊs	frejdu	frejdu	freʤʤu	frɛʧ~frɛt	freʧʧ		friddə	fɾe	frojt	freddo	fʁwe	frɛjd	frɛjd	frɛjd	frejd	frøʧ	fɾiu			frajt	frɛjt	frɛjt	frajt	friðu~friu	frittu	fɾiddu	fɾiddu	fɾiddu	fɾiddu	fɾio		friddu	fret	fret	fredo	fʀɛ
+COLD (OF WEATHER)_3									ɡelwat																																																	
+COLD (OF WEATHER)_4																																								ʤaʦeə̯																		
+COLD (OF WEATHER)_5																																																					djaʧʧo					
+COME_1	ʑinu																																																									
+COME_2		beniɾ		bəni		vəni			venar	ɲiːr	ɲir	ɲiːr	mɲi	vəniʁ	viɲiː	biɾ	veri	venire	veɲir	uni	wɛniːrɛ	vɛniːrɛ	veɲiː	veɲi	veːɲi		veɲi		vəni	veni	vənir	venire	vniʁ	vni	vni	vni	veŋe	ɲiː	viɾ	vni~avni	aveni	vəɲir	nɛkr	vəɲir	ɲir			vɛniɾi	vɛnɨɾɨ	vjɛniɾi	vɛniɾi	beniɾ	venire	vini	venjar	vɛɲer	venir	vyny~vny
+COME_3					bindɾe		bindɾe	bindɾe																																						bɛnni	bennere											
+COME_4																										ɛɲ		vin																														
+DIE_1	moru	moreɾ		muɾi	moɾiɾ	muɾi	moɾi	moɾiɾ	morar	muriːr	murir	muriːr	mori	muʁiʁ	muriː	moreɾ	muri	morire	morir	muri	mɔriː	mɔriː	muiː	mui	mii	mør	muri	mor	muɾi	muɾi	morir	morire	mweʁiʁ	møjre	møjre	møjre	møjre	møri	muʁeɾ	muri	amuri	murir	murɛkr	murir	murir	mɔrri	morrere	mɔɾiɾi	mɔɾɨɾɨ	mwɔɾiɾi	mɔʐi	moɾiɾ	morire	muri	morir	morir	morir	mɔʀy
+DOG_1	kɨne					ka			kwoŋ	kaŋ	kan	kaːn			caŋ	kaŋ		kane	ɕaŋ	ɕaŋ	kanɪs	kanɪs	kaŋ	kaŋ	kaŋ	ka	kaŋ		kanə	ʧiŋ	ʧjẽn	kane		kaŋ	kaŋ	kaŋ	kaŋ	kaŋ	kɐ̃w̃	kãn		ɕawn	caŋ	ɕawn	ɕan	kai	kane	kani	kanɨ	kani	kani		kane	kane	kaŋ	kaŋ	kaŋ	
+DOG_2		pero																																																		pero						
+DOG_3				ɡos	ɡos		ɡos	ɡos																				kɔjni													kɨjne																	
+DOG_4													θɛ̃	ʃjɛ̃																			kjɛ̃																									ʧɛ̃
+DOG_5																	brek																																									
+DRINK_1	be̯aw	bebeɾ		bɛwɾə	bewɾe	bɛwɾə	bewɾe	bewɾe	bar	bɛver	bɛar	bɛver	bajre	bwaʁ	bɛvi	beβeɾ	bæ	bere	bejver	bevər	bɪbɛrɛ	bɪbɛrɛ	bɛjve	beje	bɛjve	bif	beːf	be̯aw	vɛβəɾə~veβəɾə	bewɾe	bojvrə	bere	bweʁ	bɛjve	bɛjve	bɛjve	bejve	beːvi	bɨβeɾ	beː		bajvər	bevər	bɛjbər	bajvər			viviɾi~biviɾi	bivɨɾɨ	viviɾi	viviɾi~biviɾi	beβeɾ	bɛ	beː	bere	bever	bɛver~bever~bevar	bwaːʀ
+DRINK_2																																									abe̯a																	
+DRINK_3																																														buffaj												
+DRINK_4																																															buffare											
+DRY_1	uskatu																uskɒt											uskat													uskat																	
+DRY_2		seko		sɛk	sek	sɛk	sek	sek	sot	sɛk			sɛ			seko		sekko	sek	sək	sɪkkʊs	sɪkkʊs	sekku	sekku	sekku	sɛk			sikkə	se	sɛk	sekko	se	sɛk	sɛk	sɛk	sɛk	søk	seku	sɛk							sikku	sikku	sikku	sikku	sikku	seko	sekko	sikku	sek		seko	sɛʧ
+DRY_3									swat	sut	sut	sot			sut				sut	sut~sjəwt							syʧʧ									syjt						siɕ	sic	ʃeɕ	syt											sut		
+DRY_4														sɛk																																												
+DRY_5																																														sikkaw												
+EAR_1	ure̯akʎe	oɾeja		uɾɛʎə	oɾeʎa	uɾɛə	awɾeʎɛ	oɾeʎa	orakla~rakla	urɛʧa	urɛʧa	urɛʧa		ɔʁɛj	orɛle	oɾeʎa	urækʎe		ureja	urədla						orɛʤa	ureʤa	ure̯akʎə			orɛʎə		ɔʁɛl	urija	urija	urija	urija	urøʤa	oɾeʎɐ	urɛʧa	ureke	ureʎə	urejə	ureʎə	uraʎə	oriɣa						oɾexa			reʧa	reʧa	rɛʧa~reʧa	ɔʀɛj
+EAR_2													ɔrʎo																																													
+EAR_3																		orekkjo~orekkja											rekkjə			orekkja															orikkra	aɾikkju	ɾikkɨ	aɾikkju~aɾikkja	awɾiʧʧa		orekkjo	rekkja				
+EAR_4																					awrɪs	awrɪs								awɾio																												
+EAR_5																							wɛʤa	aweʤe	wɛʤʤa																																	
+EARTH (SOIL)_1	ʦarə	tjera		tɛrə	tɛra	tɛrə	tɛrɛ	tɛra	tara~tjara	tɛra	tɛra	tɛra	tɛra	tɛʁ	tjɛre~tjare	tɛra		tɛrra	tera	tjəra	tɛrra	tɛrra	tɛra	tɛːra	tɛːra	tɛra	tɛra	ʦarə	tɛrrə	tɛʀo	tɛrə	tɛrra	tjɛʁ	tɛra	tɛra	tɛra	tera	tɛra	tɛʁɐ	tɛə̯ra		tɛrə	terə	tjarə	tɛrə	tɛrra	terra	tɛrra	tɛrra	tjɛʐa	tɛʐa	tjera	tɛrra	tɛrra	tɛra	tɛra	tɛra	tɛʀ
+EARTH (SOIL)_2																	pemint																								pəmɨnt																	
+EAT_1	mɨku																			majə																																						
+EAT_2		komeɾ														komeɾ																							kumeɾ				məʎer	məʎar								komeɾ						
+EAT_3				məɲʒa	meɲʧaɾ	məɲʒa	meɲʤa	meɲʧaɾ	manajko	maɲɛːr	maɲar	maɲɛːr		mɑ̃ʒe	manɟaː		məŋkɒ	manʤare	maɲɛr				maŋʤa	maŋʤa	maŋʤɛ	maŋʤa	maŋʤa	mənank	maɲɲa	manʤa	mãnʤjer	manʤare	mɛ̃ʒe	maŋʤe	maŋʤe	maŋʤe	manʤe	maŋʤɛ		maɲeə̯	amɨŋka	mənʤar			mənʤar		mandiɡare	manʧaɾi	manʧaɾɨ	manʧaɾi	manʧaɾi		manʤare	maɲɲa	maɲar	maɲar	maɲar	muɲe
+EAT_4													bʤiː																																													
+EAT_5																					eːdɛrɛ	eːdɛrɛ																																				
+EAT_6																																														pappaj												
+EGG_1	ow			ɔw	ɔw	ɔw	ɔw	ɔw	juv	oːv	ɔv	oːv			uːf	ɔβo	ov	wɔvo	ef	wef	oːwũ	oːvũ	øvu	øvu	øːvu	of	øːf	wow	wovə			wɔvo		øv	øw	øv	øv	øf	ovu	ɔə̯v	ow	of	of	jef	øf	ow	ovu	ɔvu	ɔvu	wɔvu	wɔvu	weβo	ɔvo	ɔu	ovo	ow~ovo	vɔvo~vovo	
+EGG_2		ɡwebo																																																								
+EGG_3													wa																	jɔw																												
+EGG_4														œf																																												
+EGG_5																															wœf																											
+EGG_6																																	ɥe																									
+EGG_7																																																										yː
+EYE_1	okʎu								vaklo							ɔʎo	okʎu	ɔkkjo			ɔkʊɫʊs	ɔkʊɫʊs	øʤʤu	øʤʤu	øːʤʤu			wokʎu	wokkjə			ɔkkjo							oʎu							oɣu	okkru	ɔkkju	ɔkkju	wɔkkju	wɔʧʧu	oxo	ɔkkjo	okkju	ɔʧo	ɔʧo	ɔʧo	
+EYE_2		ɡwejo																	eje											ɥɛj																												
+EYE_3				uʎ	uʎ	uj	uʎ	uʎ						œj																			œl									eʎ	iʎ	eʎ														
+EYE_4										ɔːʧ	oʧ	ɔːʧ														øʧ	øʧʧ							øj	øj	øj	øj	øʧ		ɔʧ	okʲ				øʎ													
+EYE_5													ʒy~ʒyː																																													
+EYE_6															voːli																																											
+EYE_7																				wedl											wœʎ																											
+EYE_8																														iwe																												
+EYE_9																														iw																												
+EYE_10																																																										uːj
+FAR_1	diparte																											diparti													departe																	
+FAR_2	larɡu																lɒrɡo																														alarɡu											
+FAR_3		ʎonʃe~ʎoɲe		ʎuɲ	ʎunt		ʎuɲ	ʎunt	lontwoŋ	luntan	luntan	luntaːn			lontaŋ	lonʃe		lontano	dalonʧ	lonʧ~dalonʧ	ɫɔŋɡeː	ɫɔŋɡeː	luŋtan	luŋtan	luŋtan	lunta	luntaŋ		luntanə	ljuŋ	lojɲ	lontano		luŋtaŋ	luŋtaŋ	løɲ	luŋtaŋ	luŋtaŋ	lõʒɨ	luntãn		dəlunʃ	ʎunʃ	lunʃ	dəlœnʧ~dəlœnʃ			luntanu	luntanu	luntanu	luntanu		lontano	lontanu	loŋtaŋ	loŋtaŋ	loŋtaŋ~ɰoŋtaŋ	lɔ̃
+FAR_4						ənfɔɾə																																																				
+FAR_5													lwɛ̃~lwɛ	lwɛ̃																ljeweŋ~lɥeŋ			lwɛ̃																									
+FAR_6																									distaːŋte																														distaŋte		distaŋte	
+FAR_7																																														atezu												
+FAR_8																																																				lexos						
+FAT (ORGANIC SUBSTANCE)_1	ɡrəsime	ɡɾasa		ɡɾeʃ	ɡɾejʃ		ɡɾejʃ	ɡɾejʃ	ɡres	ɡraːs	ɡras	ɡraːs	ɡresa	ɡʁɛs	ɡras	ɡɾaʃa		ɡrasso	ɡras	ɡras			ɡrassu	ɡrassu	ɡraʃʃa~ɡrassu	ɡras	ɡrass	ɡrəsimi	ɡrassə	ɡɾas	krejsə	ɡrasso	kʁa	ɡras	ɡras	ɡras	ɡras	ɡras		ɡras	ɡrəsime	ɡras	ɡras	ɡras	ɡras	ɡrassu	rassu	ɾassu	ɾassu	ɾassu	ɾassu	ɡɾasa	ɡrasso		ɡras	ɡras	ɡraso	kʀaʃ
+FAT (ORGANIC SUBSTANCE)_2						sɛw																																																				
+FAT (ORGANIC SUBSTANCE)_3																	mɒst																																									
+FAT (ORGANIC SUBSTANCE)_4																					pɪŋɡʷɛ																																					
+FAT (ORGANIC SUBSTANCE)_5																																							ɡuɾðuɾɐ																			
+FAT (ORGANIC SUBSTANCE)_6																																																						lardu				
+FEATHER_1	pe̯anə								pajna	pɛna	pɛna						pæna	penna			pɛnna~pɪnna	pɪnna	penna	peŋŋa				pe̯anə	pennə			penna							penɐ	pɛna	panə				pɛnə	pinna		pinna	pinna	pinna			penna	penna	pena		pena	
+FEATHER_2		pluma		pɫomə	pɫoma	pɫomə	pɫomɛ	pɫoma				pjoma	pʎɔ̃ma	plym	plume	pluma			pjuma	pluma					ʧymma	pjøma	pjyma			plymo	plỹmə		plœm	pjyma	pjyma	pjyma	pjyma	pjyːma				plimə	plemə	plemə			prumma				pjuma	pluma				pjuma		plym
+FINGERNAIL_1	unɡʎe	uɲa		uŋɡɫə	uŋɡɫa	uŋɡɫə	uŋɡɫɛ	uŋɡɫa	oŋɡla	uŋʤa	ɔnʤa	onʤa	ɔ̃ɡʎa	ɔ̃ɡl	oŋɡule	unʎa	uŋɡʎe	uŋɡja		ondla	ʊŋɡʷɪs	ʊŋɡʷɪs	uŋʤa	uŋʤa	uŋʤa	onʤa	unʤa	unɡʎə	oɲɲə~ɔɲɲə	uŋɡlo	õŋɡlə	uŋɡja		uŋʤa	uŋʤa	uŋʤa	uŋʤa	oːŋʤa	uɲɐ	onʤa	uŋɡje	uŋɡlə	uŋɡlə	uŋɡlə	uŋɡlə	uŋɡa	uŋɡra	uɲɲa	uɲɲa	uɲɲa	uɲɲa	uɲa	uŋɡja	oɲɲa~runʧu	oŋʤa	oŋʤa	oŋʤa	
+FINGERNAIL_2																			ombja																																							
+FINGERNAIL_3																																	ɔ̃ɡ																									ɔ̃k
+FIRE_1	foku	fweu		fɔk	fɔk	fɔk	fɔk	fɔk	fuk	foːɡ	fɔɡ	fɔːɡ	fwa	fø	fuːk	fɔɣo	fok	fwɔko	fek	fwek			føɡu	føːɡu	fø	føk	føːk	fok	fokə~fwokə~ffwokə	fjɔ		fwɔko	fy	fø	fø	fø	fø~føɡ	føk	foɣu	fuɡ	fok		fi	fjuk	fø	foɣu	foɡu	fɔku	fɔku	fwɔku	fwɔku	fweɣo	fɔko	foku	foɡo	fok	fɔɡo~foɡo	føː
+FIRE_2																lume																																										
+FIRE_3																					ɪŋnɪs	ɪŋnɪs																																				
+FIRE_4																															few											fjew																
+FISH_1	pesku	peʃe		peʃ	pejʃ	peʃ	pejʃ	pejʃ	pjas	pɛs	pɛs	pɛs	pajsɔ̃~pɛsɔ̃	pwasɔ̃	pɛs	pejʃe		peʃʃe	peʃ	pəʃ	pɪskɪs	pɪskɪs	peʃʃu	pɛʃʃu	pɛːʃʃu	pɛs	pɛss	pe̯aʃti	peʃʃə	pɛjs	pojsõn	peʃʃe	piʃɔ̃	pəs	pɛs	pɛs	pes	pøs	pɐjʃɨ	pɛs	peʃte	peʃ	peʃ	pɛʃ	peʃ	piʃʃi	piske	piʃʃi	piʃʃi	piʃʃi	piʃʃi	peθ	peʃʃe	peʃʃe	pes	pes	pese	pɛʃɔ̃
+FISH_2																	ribæ																																									
+FLESH OR MEAT_1	karne	kaɾne		kaɾn	kaɾn	kaɾn	kaɾn	kaɾn	kworno	kɛrna	karan	kɛːrna			car	kaɾne	kɒrne	karne	ɕɛrn	ɕərn	karoː	karoː	karne	karne	kaːrne	karne	karna	karni	karnə		ʧar	karne		karn	karn	karn	karŋ	karne	kaɾnɨ	keə̯rna	karne	ɕarn	cɛrn	karn	ɕarn			kaɾni	kanni	kaɾni	kaɾni	kaɾne	karne		karne	karne	karne	ʧoːʀ
+FLESH OR MEAT_2													vjãda	vjɑ̃d																vjande			vjɑ̃n																									
+FLESH OR MEAT_3																																														pɛʦʦa	peʦʦa							ʧiʧʧa				
+FLY (MOVE THROUGH AIR)_1	asbo̯airu																																								azbura																	
+FLY (MOVE THROUGH AIR)_2		bolaɾ		buɫa	boɫaɾ	vuɫa	boɫa	boɫaɾ		vulɛːr	vular	vulɛːr	volaː	vɔle	zvolaː	boaɾ		volare	ʒɡolɛr	ʒulɛ	wɔɫaːrɛ	vɔɫaːrɛ			ʒvuɛ	ula~ɡula	ɡula		vula	vula	voleːr	volare	vɔle	vule	vule	vule	vule	vulɛ	vuaɾ	vuleə̯		ʒɡular	ʒɡular	ʒɡular	ʒvəlar	bolaj	bolare	vulaɾi~abbulaɾi	vulaɾɨ	vulaɾi	abbulaɾi	bolaɾ	volare	vola	volar	volar	volar~zvoe̯ar	vɔle
+FLY (MOVE THROUGH AIR)_3																	leti																																									
+FLY (MOVE THROUGH AIR)_4																							ʒoaː	ʒua																																		
+FLY (MOVE THROUGH AIR)_5																												pərəjes																														
+FOOT_1	ʧiʧoru																piʧor											piʧor													piʧor																	
+FOOT_2		pje		pɛw	pɛw	pɛw	pɛw	pɛw		peː	pjɛ	pɛ	piː	pje	piːt	pɛ		pjɛde	pe	pe	peːs	peːs	peː	pe	pe	pe	pɛ		pɛɾə	pɛt	pje	pjɛ~pjɛde	pje	pe	pe	pe	pe	pɛ	pɛ	pe		pe	pe	pej	pɛ~pe	pɛj	pede	pɛdi	pɛɾi~pɛdi	pjɛɾi	pɛɾi	pje	pjɛde		pie	pie~pɛ	pie	piː
+FOOT_3									pins																																																	
+FOOT_4																																																						fetta				
+FULL_1	plinu~mplinu			pɫɛ	pɫe	pɫɛ	pɫe	pɫe	plajn	piːn	pin	piːn	pʎɛː	plɛ̃	plɛŋ		pʎir	pjɛno	pjeŋ	pləŋ	pɫeːnʊs	pɫeːnʊs	piŋ	piŋ		pje	pjee	ɐmplin		pleŋ	plẽj̃n	pjɛno	plɛ̃	pjɛŋ	pjɛŋ	pjɛŋ	pjeŋ	piːŋ		pin	plin	plajn	plaɲ	plɛjn	plajn	prenu	prenu						pjɛno	pjenu~pinu	pjeŋ	pjeŋ	pjɛŋ~pjeŋ	plɛ̃
+FULL_2		enʎeno																							ʧɛːŋ				kinə																			kinu	kinu	kinu	ʧinu	ʎeno						
+FULL_3																ʧeo																							ʃɐju																			
+GIVE_1	daw	daɾ							dwor	dɛːr	dar	dɛːr			daː	daɾ	dɒ	dare	dɛr	dɛ	darɛ	darɛ	daː	da	dɛ	da	da	daw	da			dare		de	de	dɛ	dɛ	dɛ	daɾ	deə̯	ada	dar	dar	dar	dar		dare	daɾi	daɾɨ	daɾi~ɾaɾi	daɾi	daɾ	dare	da	dar	dar	dar	
+GIVE_2				duna	donaɾ	duna	dona	donaɾ						dɔne																duna	dõneːr															donaj												dyne
+GIVE_3													baʎiː																				baje																									
+GIVE_4																																																										nne
+GOOD_1	bunu	boŋ		bɔ~bɔn	bɔ~bɔn	bɔ~bɔn	bɔ~bɔn	bɔ~bɔn	buŋ	bɔwn	bon	bɔwn	bɔ̃	bɔ̃	bɔŋ	bo	bur	bwɔno	boŋ	boŋ	bɔnʊs	bɔnʊs	buŋ	buŋ	buŋ	by	buŋ	bun	bwonə~bbwonə	boŋ	bõn	bwɔno	bwɛ̃	buŋ	buŋ	buŋ	buŋ	boːŋ	bõ	bown	bun	bun	buŋ	bjen	bun	bonu	vonu	bɔnu	bɔnu	bwɔnu	bwɔnu	bweno	bɔno	bonu	boŋ	bɔŋ	boŋ	bɔ̃
+GREEN_1	ve̯arde	beɾde		bɛɾt	bɛɾt	vɛɾt	bɛɾt	bɛɾt	vjard	verd	verd	vɛjrd	vɛ	vɛʁ	vɛrt	beɾde		verde	vert	vərt	wɪrɪdɪs	vɪrɪdɪs	vɛrde	verde	vɛːrde	ert~vert	veːrt	ve̯ardi	vɛrdə~vvɛrdə	veɾt	vɛrt	verde	vɛʁ	vɛrd	vɛrd	vɛrd	vɛrd	veːrt	veɾðɨ	veːr	verde	vɛrt	vɛrt	vɛrt	vɛrt	birdi	virde	viɾdi	viddɨ	viɾdi	viɾdi	beɾðe	verde	verde	vert	vert	verde	vɛʀ
+GREEN_2																	zelen																																									
+HAIR_1	peru	pelo														pelo	per											per		pɛw		pelo									pər					piluzu	pilos					pelo						
+HAIR_2				kəβɛʎ		kəβɛj	kaβeʎ	kaβeʎ	kapej	kaviː	kavi	kaviː				kaβelo		kapello			kapɪɫɫʊs	kapɪɫɫʊs	kavelli	kavelli	kavɛːji		kavɛll		kapillə		ʧəvel	kapello	kavjo	kavɛj	kavɛj	kavɛj	kavej		kɐβelu	kavɛl		ɕəvɛls	cəvɛls	kəvɛʎs	ɕəvɛls			kapiɖɖi	kapiɖɖɨ	kapiɖɖi	kapiɖɖi		kapelli	kapillu	kavei	kavei	kavei	
+HAIR_3					moɲo																																																					
+HAIR_4													ʃevøː	ʃəvø	cavɛj				ɕavej	ɕavəj																		kavøj																				ʧyvɛ~ʧvɛ
+HAIR_5																										kjej																																
+HAND_1	mɨnə	mano		ma	ma	ma	ma	ma	mwoŋ	maŋ	man	maːn	mã	mɛ̃	maŋ	maŋ	mər	mano	maŋ	maŋ	manʊs	manʊs	maŋ	maŋ	maŋ	ma	maŋ	mɔnə	manə	maŋ	mẽj̃n	mano	mɛ̃	maŋ	maŋ	maŋ	maŋ	maŋ	mɐ̃w̃	mãn	mɨnə	mawn	maŋ	mawn	man	manu	manu	manu	manu	manu	manu	mano	mano	mano	maŋ	maŋ	maŋ	mwɛ̃
+HEAD_1	kapu			kap	kap	kap	kap	kap													kapʊt	kapʊt							kapə			kapo																										
+HEAD_2		tjesta							tjasta	tɛsta		tɛsta	teta	tɛt				tɛsta					testa	testa	tɛːsta					tɛsto		tɛsta	tjɛt	tɛsta	testa	tɛsta	testa	tɛsta		tɛə̯sta								tɛsta	tɛsta	tjɛsta	tɛsta		tɛsta		tɛsta	tɛsta	tɛsta	tjɛːs
+HEAD_3		kabeθa														kaβeθa																							kɐβesɐ													kaβeθa		kapɔʧʧa				
+HEAD_4									kup								kɒp											kap													kap																	
+HEAD_5											kɔ															ko	koo																			kɔŋka	koŋka											
+HEAD_6															caːf				ʧef												ʧjef																											
+HEAD_7																				ʧə																							ceə															
+HEAD_8																																										ɕaw		ɕaw	ɕew													
+HEAR_1	avdu																																																									
+HEAR_2		sentiɾ		sənti	sentiɾ	sənti	senti	sentiɾ	sentar	siŋtiːr	sintir	sɛjnteːr~sintɛjr			sintiː			sentire	sentir				seŋtiː	seŋti	seŋti	sinti~senti	senti		sənti					sɛŋte	sɛŋte	sɛŋte	seŋte	seːŋti		sinti			santɛkr					sɛntiɾi	sɛntɨɾɨ	sjɛntiɾi	sɛntiɾi		sentire	sinti	seŋtir	seŋtir	seŋtir	
+HEAR_3													awire																																													
+HEAR_4													ɛ̃tɛ̃dre~ɛtɛdre	ɑ̃tɑ̃dʁ																entɛndɾe			ɛ̃tɛ̃d													intɛndi	intendere											atɛ̃t
+HEAR_5																owβiɾ					awdiːrɛ	awdiːrɛ									oir	udire							owviɾ			udir		udir	dudir							oiɾ						
+HEAR_6																	avzi													awzi											aawzi																	
+HEAR_7																				awdi																																						
+HEAR_8																												ut																														
+HEART_1	inimə																jirimæ																								inimə																	
+HEART_2		koɾaθoŋ														koɾaθoŋ																							kuɾɐsɐ̃w̃													koɾaθon						
+HEART_3				kɔɾ	kɔɾ	kɔ	kɔɾ	kɔɾ	kwor	koːr	kɔr	koːr	køː	kœʁ	kuːr			kwɔre	ker	kwer	kɔr	kɔr	kø	kø	kø	kør	køːr		kɔɾə	kɔɾ	kwœr	kwɔre	ʧœʁ	kør	kør	kør	kør	kør		kɔə̯r		kor	kor	kor	kɔwr	kɔru	koro	kɔɾi	kɔɾɨ	kwɔɾi	kɔɾi		kɔre	kɔre	kɔr	kɔr	kwɔr	kœːʀ
+HEART_4																												burik																														
+HEAVY_1	ɡrew																ɡrev				ɡrawɪs	ɡravɪs				ɡref		ɡrew				ɡrave		ɡrɛv	ɡrɛv	ɡrɛv	ɡrɛv				ɡrew	ɡref	ɡref	ɡref	ɡrɛjf	ɡraj	ɡrave									ɡrew		
+HEAVY_2		pesao		pəzat~pəzan	pesat	pəzat	pezat~pezan	pezat	pezwont	peːz	pes	pɛjz	pɛzã		pezant	pesaðo		pesante	pezok	pəzɔk			pezaŋte	pezaːŋte	pezaːŋte		pezaːnt		pəsantə~pisantə	pezant	pəzãnt							pizaːŋt	pɨzaðu	pɛzãnt					pəzant			pisanti	pisantɨ	pisanti	pisanti	pesaðo	peso	pesu	pezaŋte		pezaŋte	pɛzã
+HEAVY_3														luʁ																luɾd			luʁ																									
+HEAVY_4																														pɛwʤe																												
+HORN (ANATOMY)_1	kornu	kweɾno							kwarŋ	kɔren	kɔran	kɔːren	køːrna	kɔʁn	kwaːr	kɔɾno	korn	kɔrno	kɔrn	kɔrn	kɔrnuː	kɔrnuː	kɔːrnu	kɔrnu	kɔːrnu	køren	kɔrnu	korn	kɔrnə		kɔr	kɔrno	kɔʁn	kɔrn	kɔrn	kɔrn	kɔrn	kɔːrnu	koɾnu	kɔə̯ran	korn	kɔrnə	kɔrnə	kɔrnə	kɔrnə	kɔrru	korru	kɔɾnu	kɔnnu	kwɔɾnu	kwɔɾnu	kwerno	kɔrno	kornu	kɔrno	kɔrno	kɔrno	
+HORN (ANATOMY)_2				baɲə	baɲa	baɲə	baɲɛ	baɲa																						bano																												
+HORN (ANATOMY)_3																																							ʃifɾɨ																			
+HORN (ANATOMY)_4																																												ɕjern														
+HORN (ANATOMY)_5																																																										kwãn
+I_1	jo			ʒɔ		ʒɔ											jo			je																																						
+I_2	mine	mi		mə	me	mɛ	me	me	me~mi	mɛ	mi	me	maj~mɛ	mwa	me	miŋ	mire	me	me	me	meːd	meː	mi	mi	mi	me	mi	mini	me	me	moj	me	mi	mi	mi	mi	mi	miː	mɨ	me	mine		me	mej	maj	mɛj	me	mi	mi	mi	mi	mi	me	me	mi	mi	mi	mi
+I_3		jo							ju						jo																																	ju	jɔ	jɔ~ju	ju							
+I_4					jo																							jo																														
+I_5							jɔ																																																			
+I_6								jɔ																																																		
+I_7													dɛ																																		deo											
+I_8														ʒə					ʤe												ʤə																											
+I_9																ɛw																							ew																			
+I_10																		io											ijə~i			io																					io	io				
+I_11																					ɛɡoː~ɛɡɔ	ɛɡɔ																																				
+I_12																												jew		jew											jew	jaw		jew	ɛw													
+I_13																												iwə															iə															
+I_14																																	eʒ																									
+I_15																																														dɛw												
+I_16																																																				ɟ͡ʝo						
+I_17																																																										ʤy
+KILL_1	vatəm																																																									
+KILL_2		mataɾ		məta	mataɾ	məta	mata	mataɾ		masɛːr	maʦar	masɛːr				mataɾ			maʦɛr	maʦɛ			massaː	ammassa	maʦʦɛ		maʦa							mase	mase	mase	masɛ	masɛ	mɐtaɾ			məʦar	məʦar	məʦar				ammaʦʦaɾi~mmaʦʦaɾi	ammaʦʦaɾɨ	ammaʦʦaɾi	ammaʦʦaɾi	mataɾ	ammaʦʦare	mmaʦʦa				
+KILL_3									dramwor																																																	
+KILL_4													twaː	tɥe																tya~tyja			tɥe																									tuwe
+KILL_5															kopaː											køpa														akupeə̯					kəpar										kopar	kopar	kopar	
+KILL_6																	uʧide	uʧʧidere											aʧʧiɾəɾə			anʧidere									auʧide																	
+KILL_7																					ɔkkiːdɛrɛ	ɔkkiːdɛrɛ									oʦirə															boʧʧiri	bokkire											
+KILL_8																												nek																														
+KILL_9																																									aomorɨ																	
+KNEE_1	ʒinukʎu															ʃeonʎo	ʒeruŋkʎu	ʤinɔkkjo					ʒenuʤʤu	zenuʤʤu	ʒenuʤʤu			zinukʎu	dənukkjə			ʤinɔkkjo									ʤenuŋkʲ					ʒenuɣu	benukkru	ʤinɔkkju~dinɔkkju~inɔkkju	ʤinɔkkju	ɾinwɔkkju	ɾinwɔʧʧu		ʤinɔkkjo	ʤinokkju	denɔʧo	denɔʧo	zenɔʧo	
+KNEE_2		rodjeʎa																																																		roðiʎa						
+KNEE_3				ʒənoʎ	ʧenoʎ	ʒunoj	ʒinoʎ	ʧinoʎ	ʤinwak~ʤinawk	znɔːʧ	ʒnɔʧ	ʒnɔːʧ	ðɛnœ~ðɛnɔ~ðɛnoj	ʒənu	ʤenɔli				ʒəneje	ʒənodl	ɡɛnʊ	ɡɛnʊ				zønøʧ	ʤinøʧʧ			ʤejnuj~ʤinuŋ	ʤənoʎ		eʒnu	ʤinuj	ʤinuj	ʤinuj	ʤinuj	znøʧ		ʒnɔʧ		ʒənuʎ	ʒənuʎ	ʒənuʎ	ʒnwoʎ													ʤynɔ
+KNEE_4																																							ʒuɐʎu																			
+KNEE_5																																																										ɲɲɔ
+KNOW (SOMETHING)_1	ʃtiw																ʃti											ʃtiw													aʃti																	
+KNOW (SOMETHING)_2		sabeɾ		saβɛ	saβeɾ	sɛβɾə	saβe~sapiɣe	saβeɾ	sapar	saver	saɛr	savɛjr	savaj	savwaʁ	saveː	saβeɾ		sapere	saer	savəj			saveː	savej	savɛj	sai	savɛ		sapɛ~sape	sawpɾe~saʧe	savojr	sapere	savweʁ	savɛj	savɛj	savɛj	savej	savej	sɐβeɾ	saveː		səvajr	səvɛkr	səver	səvajr			sapiɾi	sapiɾɨ	sapiɾi~sapiɾi	sapiɾi	saβeɾ	sapere	sape	saver	saer~saver	saver	sawɛ~sawɛʀ
+KNOW (SOMETHING)_3																					skiːrɛ	skiːrɛ																								ʃiri	iskire											
+LEAF_1	frɨnʒə																											frunzə													frunzə																	
+LEAF_2		fweja		fuʎə	fuʎa	fuə	fuʎɛ	fuʎa	fwaʎa~fwaʎ	foja	fɔja	fɔja	foʎe	fœj	fwee	foʎa	foʎe	fɔʎʎa	foa		fɔlɪũ	fɔljũ	føʤʤa	føʤa	føːja	fɔja	føja		fɔʎʎə	fɥɛjo	fwœʎə	fɔʎʎa	fœl	føja	føja	føja	føja	fɔːja	foʎɐ	foja		feʎ	fiʎ	feʎ	føʎə	fɔlla	foʒa						fɔʎʎa	fɔja	fɔja	fɔja	fɔja	fuj
+LEAF_3																				pleʧa																																						
+LEAF_4																																																fɔɟɟa	fɔɟɟa	fwɔɟɟa	fɔɟɟa							
+LEAF_5																																																		pampina	pammina							
+LEAF_6																																																				oxa						
+LIE (REST)_1	ʒaku																zaʧɒ											zak																														
+LIE (REST)_2		estaɾtumbao			estaɾʧitat														eserbutaʒu~ʃterbutaʒu	ʃtɛpundu~veʃtərpundu																			iʃtaɾdɐjtaðu				ʃtartarə									estaɾtumbaðo			starbutado	starbutado		
+LIE (REST)_3				əstastiɾat			astaastiɾat								jesidistiraːt			ɛsserezdrajato																																			ɛsserezdrajato				stardestira	
+LIE (REST)_4						ʒɛwɾə																																																				
+LIE (REST)_5								ʧitaɾse								dejtaɾse								sdrajaːse																																		
+LIE (REST)_6										zakɛːr		ʒakɛːr~ʒakwer								ʤəʒər	jakeːrɛ	jakeːrɛ									ʤezir	ʤaʧere										ʤəʒajr		ʒer	ʤəʒajr													
+LIE (REST)_7											kuʧars																		kukka																			kuɾkaɾisi	kukkaɾɨsɨ	kuɾkaɾisi								
+LIE (REST)_8														ɛtʁkuʃe																			ɛtkuʧe																									ɛskuːʧeː
+LIE (REST)_9																							eːseakweːɡoːw																																			
+LIE (REST)_10																									ruverseːse																																	
+LIE (REST)_11																										bøtasso	bytassʤu																															
+LIE (REST)_12																													stakukkatə					stekuʤa	stekuʤa	stekuʤa	stɛkuʤa	stɛkwataː~vesikwataː			astakulkat~afikulkat						esserekolkadu~istarekolkadu											
+LIE (REST)_13																																														abarrajkrokkaw												
+LIE (REST)_14																																																			ʃtinniɾisi			ʃtɛnnese				
+LIVER_1	ɕikatu~ixkatu	feɡado							fiɡwot		fɛɡat				fiaːt	fiɣaðo	fikɒʦ	feɡato					feɡatu	fiɡɛːtu	feɡatu				fɛɣatə~feɣatə~fekatə			feɡato							fiɣɐðu	feːɡat	fikat					fiɡaw	fikadu	fikatu	fikatu	fikatu	fikitu	iɣaðo	feɡato	fekatu~feðiɡu	feɡato	fɛɡato	fiɡa	
+LIVER_2					feʧe		feʤe	feʧe					fɛðo																	feʤe																												
+LIVER_3				feʤə										fwa																	fojə		fwɛ																									fwa
+LIVER_4						feʤə																																																				
+LIVER_5										fedeɡ		fedeɡ														fidek	fidɛk							fidik	fidik	fidik	fedik	fiːdik																				
+LIVER_6																			fjanejɡɛr																																							
+LIVER_7																				fujafoʃk																																						
+LIVER_8																					jɛkʊr	jɔkʊr																																				
+LIVER_9																												drop																														
+LIVER_10																																										ɲirom	nirom		ɲərom~ɲirom													
+LIVER_11																																										dir	dɛkr	dir														
+LONG_1	lunɡu								luŋɡ	luŋɡ	luŋɡ	lɔŋɡ	lɔ̃	lɔ̃	luŋk	loŋɡo	luŋɡ	luŋɡo	loŋk	loŋk	ɫɔŋɡʊs	ɫɔŋɡʊs	luŋɡu	luŋɡu	luŋɡu	loŋk	loŋk	lunk	lwoŋɡə	loŋk	lõŋk	luŋɡo	lɔ̃	luŋɡ	luŋɡ	luŋɡ	luŋɡ	loːŋ		loŋɡ	luŋɡ	luŋ	luŋ	ljuŋ	luŋ	loŋɡu	loŋɡu	lɔŋɡu	lɔŋɡu	lwɔŋɡu	lwɔŋku		luŋɡo	loŋɡu	lɔŋk	lɔŋk	e̯oŋɡo	lɔ̃
+LONG_2		ʎaɾɡo		ʎaɾk	ʎaɾk	ʎaɾk	ʎaɾk	ʎaɾk																																												laɾɡo						
+LONG_3																																							kõmpɾiðu																			
+LOUSE_1	pidukʎu								pedoklo						pedɔli	pioʎo	pedukʎu	pidɔkkjo					piɡøʤʤu	piɡøʤʤu				pidukʎu	pəɾukkjə		peoʎə	pidɔkkjo							pioʎu		pəduke					prioɣu	preukku	piɾɔkkju~pidɔkkju	piɾɔkkju~pidɔkkju	piɾwɔkkju	pɾuʧʧu		pidɔkkjo	piðokkju	pedɔʧo	pedɔʧo	peɔʧo~peoʧo	
+LOUSE_2		pjojo		poʎ	poʎ	poj	poʎ	poʎ		pjoːʧ	vdɔʧ	pjoːʧ	pjy~pjyː	pu					poje	podl					pjøʤʤu	pjøʧ	pjøʧʧ						pu	puj	puj	puj	puj	pjøʧ		bdɔʧ		pluʎ	pluʎ	pluʎ	plwoʎ							pjoxo						pøː
+LOUSE_3																					peːdɪs	peːdɪs								pezu																												
+MALE PERSON_1	bərbatu																											bərbat													bərbat																	
+MALE PERSON_2		ome		ɔmə	ɔme	ɔmu	ɔme	ɔme	om~jom	ɔm	ɔman	om	omo	ɔm	ɔm	ɔme		wɔmo	om			ɔmoː	ɔmmu	ɔmmu	ɔmmu	øm	omm		ɔmmə	ɔme	õmə	wɔmo	ɔ̃m	ɔm	ɔm	ɔm	ɔm	oːmaŋ	ɔmɐ̃j̃	om		um	om	um	om			ɔmu					ɔmo	ɔme		ɔm	ɔmo	ɔm
+MALE PERSON_3																	muʃki															maskjo																	maskulu	maʃkulu								
+MALE PERSON_4																				əl																																						
+MALE PERSON_5																					wɪr	vɪr																																				
+MALE PERSON_6																																														ommini	ommine				wɔmminu							
+MALE PERSON_7																																																				ombɾe						
+MALE PERSON_8																																																							ɔm			
+MANY_1	multu	munʧo		moɫ	moɫt	moɫt	moɫ	moɫt	mwalt							mojto		molto			mʊɫtʊs	mʊɫtʊs						mult			mẽj̃nt	molto							mũj̃tu		mult											muʧo						
+MANY_2										tant		taːnt			tanc			tanto								tanʧe	taːnti							taŋti	taŋti	taŋt	taŋt	taŋʧi															tanto	tantu	taŋti	taŋti	taŋti	
+MANY_3											parɛʧ																		paɾikkjə																													
+MANY_4													bjɛ																													bler	bler		bler													
+MANY_5														boku																																												
+MANY_6																	ʧuda																																									
+MANY_7																	majmunt																							unmownt																		
+MANY_8																			trop	trwep																																						
+MANY_9																			nmuje																																							
+MANY_10																							iŋmuʤʤu	muʤʤu										əŋmyʧ				aŋmyʧ																				
+MANY_11																									dibɛːli																																	
+MANY_12																													assajə																			assai	assai	assai	assai							
+MANY_13																														fɔɾso																												
+MANY_14																														bɾavameŋ			ɡʁɑ̃mɛ̃																									bʀaːmɛ̃
+MANY_15																																												bja														
+MANY_16																																														meða	medas											
+MANY_17																																														mera												
+MOON_1	lunə	ʎuna		ʎunə	ʎuna	ʎunə	ʎunɛ	ʎuna	lojna	luna	luna	luːna	lna	lyn	lune	lua	luræ	luna	luna	luna	ɫuːna	ɫuːna	lyŋŋa	lyŋŋa	lyːŋŋa	lyna	lyna	lunə	lunə	lyno	lỹnə	luna	lœn	lyŋa	lyŋa	lyŋa	lyŋa	lyŋa	luɐ	lowna	lunə	ʎinə	ʎiɲə	ʎinə	ʎynə	luna	luna	luna	luna	luna	luna	luna	luna	luna	luna	luna	luna~ɰuna	lyn
+MOUNTAIN_1	munte	montaɲa		muntaɲə	muntaɲa	muntaɲə	muntaɲɛ~montaɲɛ	muntaɲa	mwant	muntaɲa	muntaɲa	muntaːɲa	mɔ̃taɲe	mɔ̃taɲ	mɔnt	montaɲa		montaɲɲa~monte			moːns	moːns		muntaɲa		montaɲa	muntaɲa	munti	muntaɲɲə	muntaɲo	mõntẽj̃ɲə	monte~montaɲa	mɔ̃tɛ̃ɲ	muŋt~muŋtaɲa	muŋtaɲa	muŋtaɲa	muŋtaɲa	muŋtaːɲa	mõntɐɲɐ~mõntɨ	mownt~muntãɲa	munte	muntoɲə	muntoɲə		muntoɲə	mɔnti	monte	muntaɲɲa	munti~muntaɲɲa	muntaɲɲa	muntaɲɲa	montaɲa	montaɲɲa~monte	monte	moŋtaɲa	moŋtaɲa	moŋtaɲa	mɔ̃taɲ
+MOUNTAIN_2																	kodru																																									
+MOUNTAIN_3																			krepa	krəp																																						
+MOUNTAIN_4																							brikku		brikku																																	
+MOUNTAIN_5																																												kwɔlm														
+MOUTH_1	ɡurə												ɡrwɛ̃				ɡuræ																								ɡurə																	
+MOUTH_2		boka		bokə	boka	bokə	bokɛ	boka		bɔka	bɔka	bɔka			bɔce	boka		bokka	boʧa	boʧa			bukka	bukka	bukka	boka	buka		vokkə	buko	boʧə	bokka	buk	buka	buka	buka	buka	buka	bokɐ	boka		bukə	bukə	bukə	bɔkə	bukka	vukka	vukka~ukka	bukka	vukka	vukka~ukka	boka	bokka	vokka	boka	boka	boka	
+MOUTH_3									bwak																																																	
+MOUTH_4														buʃ																																												buʧ
+MOUTH_5																					oːs	oːs																																				
+MOUTH_6																												rost																														
+NAME_1	numə	nome		nɔm	nɔm	nɔm	nɔm	nɔm	nam	nɔm	nom	nɔm	nɔ̃	nɔ̃	nɔŋ	nome		nome	inom	inwem	noːmɛn	noːmɛn	numme	numme	numme	nɔm	nomm	numi	nɔmmə	num	nõm	nome	nɔ̃	nɔm	nɔm	nɔm	nɔm	nɔːm	nomɨ	nom	nume	num	nom	num	nom	nɔmini		nɔmu	numi	nwɔmu~nwɔmmu	nɔmi	nombɾe	nome	nome	nɔme	nɔme	nɔme	nɔ̃
+NAME_2									nawŋ																																																	
+NAME_3																	lume																														lummene											
+NEAR_1	apro̯ape			əpɾɔp	pɾɔp	əpɾɔp	apɾɔp	pɾɔp									prope				prɔpɛ	prɔpɛ						pro̯api													apro̯ape																	
+NEAR_2		θeɾka														θeɾka																																				θeɾka						
+NEAR_3									aliʧ																	izi																																
+NEAR_4										zvɛjn	vsin	vzejn						viʧino	daveʒiŋ	dawʒiŋ			veʒiːn	viʒin	viʒin		viziŋ		viʃinə~beʃinə					davziŋ	vziŋ	davziŋ	avziŋ	vziːŋ		bzẽn						biʒinu		viʧinu	vɨʧinu	viʧinu	viʧinu		viʧino	viʧinu	viziŋ	veziŋ	visiŋ	
+NEAR_5												arɛjnt																																														
+NEAR_6													pre	pʁɛ		pɾɛto														pɾɔʧe	prɛs	prɛsso	pʁe						pɾɔsimu																			tupʀɛ
+NEAR_7															dɔnɟe																																											
+NEAR_8																																							pɛɾtu																			
+NEAR_9																																										dəmənajvəl	mənevəl	dəmənɛjvəl														
+NEAR_10																																												dətjer														
+NEAR_11																																													dəʃtruʃ													
+NEAR_12																																															akante											
+NEAR_13																																															akkurʦʦu											
+NECK_1	ɡuʃe																											ɡuʃə																														
+NECK_2		peskweθo														peskɔθo																							pɨʃkosu																			
+NECK_3				kɔʎ	kɔʎ	kɔj	kɔʎ	kɔʎ	kwal	kɔːl	kɔl	kɔːl	ku~kuː	ku	kwɛl			kɔllo	kɔl	kɔl	kɔɫɫũ	kɔɫɫũ	køllu	kɔllu	koːllu	kɔl	kɔll		kwollə	kɔw~kuj	kol	kɔllo	kɔ	kɔl	kɔl	kɔl	kɔl	kɔl		kɔl					kuløʦ		koɖɖu	kɔɖɖu	kɔɖɖu	kwɔɖɖu	kwɔɖɖu	kweʎo	kɔllo	kollu	kɔl	kɔl	kɔe̯o	kõː
+NECK_4																	ʧerbiʧe																																									
+NECK_5																																									ɡɨt																	
+NECK_6																																										kuljeʦ	kuljeʦ	kuljeʦ														
+NECK_7																																														ʦuɣu												
+NEW_1	now	nweu		nɔw	nɔw	nɔw	nɔw	nɔw	nuf~nwaf	noːv	nov	noːv	nove	nuvo	ɲuːf	nɔβo	nov	nwɔvo	nef	nwef	nɔwʊs	nɔvʊs	nøvu	nøːvu	nøːvu	nøf	nøːf	now	nwovə	nuvɛw	novel	nwɔvo	nuvjø	nøv	nøw	nøv	nøv	nøf	novu	nɔə̯v	now	nof	nof	nɛjf	nowf	now	novu	nɔvu	nɔvu	nwɔvu	nɔvu	nweβo	nɔvo	nɔu	novo	nɔw	novo	noveː~nyː
+NIGHT_1	no̯apte	nweʧe		nit	nit	nit	nit	nit	nwat	nɔːt	nɔt	nɔːt~nɔːta			ɲɔt	nojte	nopte	nɔtte	net	nwet			nøtte	nøtte	nøʧʧe	nøʧ	nɔʧʧ	no̯apti	nɔttə		nɥit	nɔtte		nøjt	nøjt	nøjt	nøjt	nøʧ	nojtɨ	nɔta	no̯apte		noc		not	nɔtti	notte	nɔtti	nutti	nwɔtti	nɔtti	noʧe	nɔte	nɔtte	nɔt	nɔt	nɔte	
+NIGHT_2													ne	nɥi																nɥe~niwe~niw			nɥi																									nyt
+NIGHT_3																					nɔks	nɔks																				noɕ		noɕ														
+NOSE_1	nare	naɾiθ		nas	nas	nas	nas	nas	nwos	nɛːz	nas	nɛːs	naː	ne	naːs	naɾiθ	nɒs	naso	nɛs	nɛs	naːssũ	naːssʊs	nazu	nazu	naːzu	nas	nas	nas	nasə	nas	nes	naso	naz	nas	naz	nas	nas	nas	nɐɾiʃ	neə̯z	nas	nas	nas	nas	nas	nazu	nasu	nasu	naska	nasu	nasu	naɾiθ	naso	nasu	nas	nas	nazo	ne
+NOT_1	nu	noŋ		no	no	no	no	no	noŋ~no						nɔ	noŋ	nu	non	no	nenia	noːn	noːn	nu	nu	nɛ~nu			nu	nun	nuŋ~nani		non		nɛŋ	nɛŋ	nɛŋ	nɛŋ	neːŋ	nɐ̃w̃	n	nu				nu	nɔ	non	nɔ~nun	nɔ	nɔ	nun	no		non	no	no	no	nynɛ̃
+NOT_2										nɔmia		mia														mia	miɲa																															
+NOT_3											briza																																															
+NOT_4													nepaː~nepaːz	nəpa																	nəpas		npwɛ̃	pa	pa		pa					beɕ	bec															
+NOT_5																																												buk~bukə														
+NOT_6																																																					un					
+ONE_1	unu	uŋ		un	un	un	un	un		un	un	uːn~vɔn			uŋ	uŋ		uno	uŋ	uŋ	uːnʊs	uːnʊs	uŋ	yŋ	yːŋ		vyŋ	un	unə	yŋ	ỹn	uno		yŋ	yŋ	yŋ	yŋ	jyŋ		own	un	en	en	in	yn	unu	unu	unu	unu	unu	unu	un	uno	unu	uno	uŋ	uno	
+ONE_2									jojŋ																																																	
+ONE_3													jɔ̃~jɔ̃n																																													
+ONE_4														œ̃												y							œ̃						ũ																			
+ONE_5																	ur																																									
+ONE_6																																																										ɛ̃
+PERSON_1	omu	ome		ɔmə	ɔme	ɔmu	ɔme	ɔme	om~jom	ɔm		om	omo	ɔm	ɔm	ɔme	om	wɔmo	om	wɔmo	hɔmoː	ɔmoː	ɔmmu	ɔmmu		øm	omm	wom		ɔme	õmə	wɔmo	ɔ̃m	ɔm	ɔm	ɔm	ɔm	oːmaŋ	ɔmɐ̃j̃		om				uman								ɔmo	ɔmu		ɔm	ɔmo	
+PERSON_2					peɾsona																																persoŋa																					
+PERSON_3											stjan														kristjaŋ				krəstjanə																			kɾistjanu	kɾɨstjanu	kɾiʃtjanu	kɾiʃtjanu							
+PERSON_4																																								sʧãn		kərʃɕawn	kərʃcaŋ	kərʃɕawn														
+PERSON_5																																														ommini	ommine											
+PERSON_6																																																				ombɾe						
+PERSON_7																																																							ɔm			
+PERSON_8																																																										ʤɛ̃
+RAIN (PRECIPITATION)_1	plo̯aje			pɫuʒə	pɫuʧa	pɫuʒə	pɫuʒɛ	pɫuʧa	pluv				pʎoðe	plɥi	plɔje~plɔe		ploje			plweja								plo̯ajə		plɥɛjo	plɥiə		plœv								plo̯aje	pljɛvʤə	pljɛvʤə	pljɛvʤə	pløvʤə													plyːf
+RAIN (PRECIPITATION)_2		ʎubja							plovaja	pjova	pjɔva								pjevja		pɫʊwɪa	pɫʊvja		puja										pjøva	pjøva	pjøva	pjøva	pjɔva		pjuva								kjuvuta	kjuvuta			ʎuβja			pjova	pjova	pjɔva~pjova	
+RAIN (PRECIPITATION)_3												aːkva~aːkwa											ɛːɡwa		ɛːɡwa	akkwa	akkwa																							akkwa	akkwa							
+RAIN (PRECIPITATION)_4																ʧojβa																							ʃuvɐ																			
+RAIN (PRECIPITATION)_5																		pjɔʤʤa											kjɔʤʤə			pjɔʤʤa															proɡida						pjɔʤʤa	pjɔɟɟa				
+RAIN (PRECIPITATION)_6																																														abba												
+RED_1	aroʃu								raws	rɔs	ros	rɔs		ʁuʒ	rɔs		rojsu	rosso					russu	ruʒu	russu	ros	russ	roʃ	russə			rosso	ʁuʃ	rus	rus	rus	rus	rus		roz	roʃu							rrussu	rrussu	ʐussu	ʐussu	roxo	rosso	ruʃʃu	ros	ros	roso	
+RED_2		koʎoɾao																																																								
+RED_3																																																										
+RED_4				bəɾmɛʎ		vəɾmɛj										beɾmeʎo																							vɨɾmɐʎu																			
+RED_5					rɔʧ			rɔʧ	rwas				roðo																	ʀuʤe	roʤə																											ʀuʧ
+RED_6							rɔʧ																																																			
+RED_7																			keʧeŋ	kweʧuŋ																						koʧən	koʧən	ɕjeʧən	koʧən													
+RED_8																					rʊbɛr																																					
+RED_9																																														arrubju	ruvju											
+ROAD_1	kale								kal								kɒle																																									
+ROAD_2		kamiŋ		kəmi	kami	kəmi	kami	kami								kamiɲo														kamiŋ																						kamino						
+ROAD_3										strɛda	strada	strɛːda			strade			strada	ʃtrɛda	ʃtrɛda			stradda	stradda	ʃtrɔ	strada	ʃtrada		stɾatə			strada		stra	stra	stra	stra	stra	iʃtɾaðɐ	streə̯							istrada	ʂɽata	ʂɽata	ʂɽata	ʂɽata		strada	ʃtrada	straða	straða	strada	
+ROAD_4													rota	ʁut																			ʁut																									
+ROAD_5																					wɪa	vɪa									vojə											viə	vejə	viə	viə													võːj
+ROAD_6																												drum													drum																	
+ROAD_7																																														arruɣa												
+ROOT_1	arədəʦinə												rasina	ʁasin																ʀasino	raʦĩnə		ʁaʃɛn								rədəʧinə																	ʀysineːj~ʀsineːj
+ROOT_2		raiθ							radajka	raiːz	radis	jariːsa~raiːza				raiθ		radiʧe		raviza	raːdiːks	raːdiːks		radiʧi		rais	radiːs		raɾəkə~raɾikə~raɾiʃə			radiʧe					radis	radiːs	ʁɐiʃ	radiza		rəʤiʃ		rəʤiʃ	rəʤiʃ			rradika	rradika	ʐaɾika	ʐaɾika	raiθ		radika	raðiza	raðis	raiza	
+ROOT_3				əreɫ~reɫ	raiɫ	rɛɫ	areɫ~reɫ	raiɫ~araiɫ																																																		
+ROOT_4															lidriːs																															arreʒini												
+ROOT_5																	koren											korin																														
+ROOT_6																			rejʃ				rejʒa		rɛːjʒe									rɛjs	rɛjz	rɛjs	rajs						rɛjʃ															
+ROOT_7																																															rajɡina											
+ROOT_8																																																					barba					
+ROUND_1	ɡurɡuʎe̯atu																											ɡurɡuʎat																														
+ROUND_2	arukutosu																																																									
+ROUND_3		redondo								rotɔnd~tɔnd	tond	ardɔnd~rutɔnd~tɔnd			tarɔnt	reðondo	tond	rotondo~tondo	toron	turont	rʊtʊndʊs	rʊtʊndʊs	rjuŋdu	rjuŋdu	rjuŋdu	rotont	reduːnt		tunnə~rutunnə	ʀeduŋ~ʀund	reõnt	tondo		rutuŋd	rutuŋd	rutuŋd	rutuŋd~rjuŋd	rutoːŋt	ʁɨðõndu	tond	rotund	rədunt	rədɔnt	rədunt	rədwɔnt	tundu	tundu	tunnu	tunnu	tunnu	tunnu	reðonðo	tondo	tonnu	toŋdo	toŋdo	toŋdo	
+ROUND_4				ruðo	reðo	rəðo	roðo~reðo	reðo					rjɔ̃	ʁɔ̃																			ʁɔ̃																									ʀɔ̃
+SALT_1	sare	sal		saɫ	saɫ	saɫ	saɫ	saɫ	swal	sɛːl	sal	sɛːl	saː	sɛl	saːl	sal	sɒre	sale	sɛl	sɛl	saːɫ	saːɫ	saː	saː	soː	sal	saa	sari	salə	saw	seːl	sale	se	sal	sal	sal	sal	sal	saɫ	seə̯l	sare	sal	sal	sal	sal	sali	sale	sali	salɨ	sali	sali	sal	sale	sale	sal	sal	sal	se
+SAND_1	arinə	aɾena			aɾena	əɾɛnə	aɾenɛ	aɾena								aɾea					hareːna	areːna	ɛːŋŋa						rena		arẽj̃nə	rena														arɛna	rena	rrina	rrina	ʐina	ʐina	aɾena	rena					
+SAND_2		sable							salbwoŋ	sabja	saːbja	sabja	sabʎa	sɑbl	savalɔŋ		salbun	sabbja	saoloŋ	sabloŋ				sabbja	saːbbja	sabbja	sabja			sablo		sabbjone		sabja	sabja	sabja	sabja	sabja		sabjown		səblun	səvluŋ	səblun	səblun~siblun									sabbja	sabja	sabja	sabja	
+SAND_3				sorə																																																						
+SAND_4																												pisok																														
+SAND_5																																	sab																									saːp
+SAND_6																																							ɐɾɐjɐ																			
+SAND_7																																									nisip																	
+SAY_1	ʒɨku																ziʧe											zik													aziʧe																	
+SAY_2	aspunu																											spun													aspune																	
+SAY_3		diθiɾ		di	diɾ	di	di	diɾ	dekro	diːr	dir	diːr	dire	diʁ	diː	diθiɾ		dire	dir	di	de̝ːkɛrɛ	diːkɛrɛ	di	di	di	di	di		diʃəɾə	diɾe	dirə	diʧere~dire	diʁ	di	di	di	di	diː	dizeɾ	di		dir	dɛkr	dir	dir			diɾi~diʧiɾi	diɾɨ	ɾiɾi~diɾi	ɾiɾi	deθiɾ	di	di	dir	dir	dir	diːʀ
+SAY_4																																														naj	narrere~narare											
+SEE_1	vedu	beɾ		bɛwɾə	boɾe	vɛwɾə	bɛwɾe	boɾe	vedar	vɛder	vɛdar	vɛder		vwaʁ		beɾ	vedæ	vedere	veder		wɪdeːrɛ	vɪdeːrɛ	vedde	vedde			vedɛ	vet	vəɾɛ~vəɾe	vɛjɾe	veojr	vedere	viʁ	vəde	vəde	vədi	vəde		veɾ	vdeː	avede̯a	vəzajr	vɛkr	vəzer	vəʦer~vərer	biri	biere	vidiɾi	vidɨɾɨ	viɾiɾi	viʐi	beɾ	vedere	vede	veðer	veðer	vɛder~veder~veder~vedar	
+SEE_2													vi																																													
+SEE_3															vjɔdi																							vøɡi																				
+SEE_4																				udəj					vjɛj																																	vɛj
+SEE_5																										ɛt																																
+SEE_6																																					sʧarɛ																					
+SEE_7																																								avdeː																		
+SEE_8																																														biði												
+SEED_1	siminʦə	simjente							semjanʦ	semɛjnsa	smɛnt	smɛjnsa~smɛjnta			semɛnʧe	semente	seminʦæ	seme~semente	səmenʦa	sumənʦa	seːmɛn	seːmɛn	semme	semi	semɛːŋʦa	somesa	sumenʦa	siminʦə	səmmɛntə~səmmɛnʦə		sẽmãnʦə	seme~semenʦa		smɛns	smenz	smɛns	smɛns	samnɛ	sɨmẽntɨ	smẽnta	səmɨnʦə	sem	sem	sem	sem	sɛmmini	semmene	simɛnʦa	simɛnʦa	simjɛnʦa	simɛnʦa	semiʎa	seme	seme	semɛŋθa	sem	seme~sema	
+SEED_2				ʎəβo	ʎaβoɾ	ʎəvo	ʎaβo~ʎao	ʎaβoɾ																																																		
+SEED_3													ɡrãna	ɡʁɛn																ɡɾano			ɡʁɛ̃n																									ɡʀɛ̃n
+SHORT_1	skurtu	kuɾtjo~koɾto		kuɾt	kuɾt	kuɾt	kuɾt~kuɾ	kuɾt	kwart	kurt	kurt	kuːrt	ko	kuʁ	kurt	kuɾto	skurt	korto	kurt	kurt			kurtu	kyrtu	kyrtu	kørt	kyːrt		kurtə	kuɾt	kort	korto	kuʁ	kyrt	kyrt	kyrt	kyrt	kørt	kuɾtu	kurt	skurt	kurt	kurt	kwort	kwort		kurʦu	kuɾtu	kuttu	kuɾtu	kuɾtu	koɾto	korto	kurtu	kurt	kurt	kurto	kuːʀ
+SHORT_2																					brɛwɪs	brɛvɪs																																				
+SHORT_3																												kus																														
+SHORT_4																																														kruʦʦu												
+SIT_1	ʃedu			sɛwɾə		sɛwɾə	sɛwɾe			seder		seːder					ʃedæ	sedere			sɛdeːrɛ	sɛdeːrɛ			setɛ						seojr~saseojr	sedere		stesɛta	stese	ste	stɛseta	satɛsi		zdeː	aʃede̯a	sesər		sesər	sɛʦər	sɛʦʦi~siʦʦi	sedere						sjɛde	sede				
+SIT_2		sentase			estaɾasentat			sentaɾse	sedwor~sentwor		santaras				staːsentaːt	sentaɾse			esersenta~esersentaʒu	veʃtərsənta				settase		sentaso	setasʤu		staassəttatə~assətta										iʃtaɾsẽntaðu				ʧəntar					assittaɾisi~sittaɾisi	sɨttaɾɨsɨ	assittaɾisi	assittaɾisi	estaɾsentaðo			seŋtarsedo	seŋtarse	seŋtarse~starseŋta	
+SIT_3													etreaʃtaː																	ɛstɾeaseta																												
+SIT_4														ɛtʁasi																			ɛtasi																									ɛsasiː
+SIT_5																							eːsesetɔw																																			
+SIT_6																												ʃɔt																														
+SKIN (HUMAN)_1	ce̯ale																																																									
+SKIN (HUMAN)_2		pjel		peʎ	peʎ	pej	peʎ	peʎ	pjal	pɛla	pel	pɛla	pe	po	pjɛl	pɛl		pɛlle	pel	pel			pelle	pelle	pɛːlle	pɛl	pɛll		pɛllə	pɛw	pɛl	pɛlle	pjo	pɛl	pɛl	pɛl	pɛl	pɛl	pɛlɨ	pɛə̯la	pjele	pel	pel	pjal	pel	pɛddi	peɖɖe	pɛɖɖi	pɛɖɖɨ	pjɛɖɖi	pɛɖɖi	pjel	pɛlle	pɛlle	pɛl	pɛl	pɛe	peː
+SKIN (HUMAN)_3																	koze											ko̯aʒə																														
+SKIN (HUMAN)_4																					kʊtɪs	kʊtɪs																																				
+SLEEP_1	dormu	duɾmiɾ		duɾmi	doɾmiɾ	duɾmi	doɾmi	doɾmiɾ	dormar	durmiːr	durmir	durmiːr	dromi	dɔʁmiʁ	durmiː	duɾmiɾ	durmi	dormire	dormir	durmi	dɔrmiːrɛ	dɔrmiːrɛ	durmiː	durmi	durmi	dyrmi	durmi	dorm	durmi	duɾmi	dormir	dormire	dœʁmiʁ	dørme	dørme	dørme	dørme	dɔːrmi	duɾmiɾ	durmi	adormi	durmir	durmɛkr	durmir	durmir	drommiri	drommire	dɔɾmiɾi	dɔmmɨɾɨ	ɾwɔɾmiɾi	ɾɔɾmiɾi	doɾmiɾ	dormire	durmi	dormir	dromir	dormir	dwaːʀmy
+SMALL_1	ɲiku																																															niku		niku	niku							
+SMALL_2		pekeɲo														pekeno							piʧʧin	piʧin		piʧɛn~piʧini	peniŋ			piʧuŋ								piːʧniːŋ	pɨkenu			piʧən	piʧən	piɲ	piʧən							pekeɲo						
+SMALL_3																																															minuʒu											
+SMALL_4				pətit		pətit	petit							pəti																	pətit																											piti~pti
+SMALL_5					ʧikotet			ʧikotet																																																		
+SMALL_6									pelo		pikul				piʧul			pikkolo	pikol~piʧol	pitl									piʧʧiɾillə~piʧʧəɾillə~piʧʧəɾellə~pəʧʧəɾillə~piʦʦəɾillə	piʧot		piʧʧolo						piːʧu											piʧʧiɾiɖɖu				piʧʧino	pikkulu		pikol	pikoe̯o	
+SMALL_7										ʧik		ʧɛk													piʧiːtu~ʧiːtu									ʧit	ʧit	ʧit	ʧit																		ʧek			
+SMALL_8													ptju																				tjo																									
+SMALL_9																	mik											mik													mik																	
+SMALL_10																					parwʊs	parvʊs																																				
+SMALL_11																									ʧittu																					pittiku												
+SMALL_12																																								ʦnin																		
+SMOKE (EXHAUST)_1	fumu	fumo		fum	fum	fum	fum	fum		fum	fum	fom	fmiːre~fomiːre	fyme	fum	fume		fumo	fum	fum	fuːmʊs	fuːmʊs	fymmu	fymmu	fyːmme	føm	fymm	fum	fummə	fym	fỹm	fummo	fœmɛ	fym	fym	fym	fym	fym	fumu	fom	fum	fim	fem	fem	fym	fummu~fumu	fumu	fumu	fumu	fumu	fumu		fumo	fumu	fuŋ	fum	fumo	fymiːʀ
+SMOKE (EXHAUST)_2																	dim																																									
+SMOKE (EXHAUST)_3																																																				umo						
+SNAKE_1	ʃarpe			seɾp	seɾp	seɾp	seɾp	seɾp	serpjant	serpɛjnt	serpɛnt	sarpɛjnt~serpɛjnt	sarpɛ~sarpɛ̃	sɛʁpɑ̃	sarpint	sɛɾpe	ʃɒrpe	sɛrpe	serpent~serp			sɛrpeːns	serpente			serpɛnt		ʃarpi	sɛrpə~sərpentə~sərpjentə	sɛɾp~seɾpɛnt	serpãnt	sɛrpe~serpɛnte	sɛʁpɛ̃	sɛrpɛŋt	sɛrp	sɛrp	sɛrp	sarpeːŋt	sɨɾpẽntɨ	sarpẽnt~serpẽnt	ʃarpe	sɛrp	ʦɛrp	sjarp	sɛrp	sɛrpi			sɛɾpi	sjɛɾpi~siɾpjɛnti		seɾpjente	sɛrpe	sɛrpa			serpeŋte	
+SNAKE_2		kulebɾa																																													kolovriu~kolovra											
+SNAKE_3																				beka																																						
+SNAKE_4																					aŋɡʷɪs																																					
+SNAKE_5																								biʒa	biʃʃa		biza																												bisa	bisa		
+SNAKE_6																																													vɛrmə													
+SNAKE_7																																																skuɾsuni			ʃkussuni							
+SNAKE_8																																																										vipeːʀ
+STAND_1	ʃedumprostu																																																									
+STAND_2		taɾdepje						estaɾdepɛw					etredɛpiː~etredɛ̃piː	ɛtʁdəbu~sətəniʁdəbu~ʁɛstedəbu		estaɾdepɛ															esterãnpjeʦ~estersorpjeʦ		ɛtdbu						iʃtaɾɐ̃j̃pɛ													estaɾdepje						
+STAND_3				əstaðɾɛt	estaɾdɾet	əstaðɾɛt	astaðɾɛt																						staalljertə~staallertə	ɛstɾedɾe		staredritto~ɛsseredritto			stedrit	stedrit												staɾiadditta~staɾiaɖɖɽitta	staɾɨaɖɖɽitta	staɾiaɡɾitta	staɾiaditta			ʃtarrittu				
+STAND_4									stworiŋpins	stɛːrinpeː	starinpje	stɛːrinpee			staːimpins		stɒ	stareinpjɛdi	ʃtɛrenpe	ʃtɛmpe	staːrɛ	staːrɛ	staːiŋpeː	staiŋpe	ʃteimpe	stanpe	ʃtainpee	staw						steɛnpe			stɛaŋpe	stɛŋpeː~vesiŋpeː				ʃtar	ʃtar	ʃtar~ʃtarənpej~ʃtarsinpɛjs	ʃtar~ʃtarinpe								stareinpjɛdi		stariŋpie	stariŋpɛ~stariŋpjɛj~stariŋpie	stariŋpie	
+STAND_5																																									astaɨnpiʧo̯are																	
+STAND_6																																														abarrajiβej												
+STAND_7																																															istareasariʦʦa											ɛsdʀɛse
+STAR_1	ste̯ao	estɾeʎa		əstɾeʎə	estɾɛɫa	əstɾeʎə	estɾeʎɛ~stɾeʎɛ	astɾeɫa	stalla	stɛla	stɛla	strɛla	etajla		stɛle	estɾela	stæ	stella	ʃtejla	ʃtəjla	steːɫɫa	steːɫɫa	stela	stella	ʃtɛja	stɛla	ʃtɛla	stewə	stellə	estelo	estojlə	stella		stɛjla	stɛjla	stɛjla	stejla	støla	iʃtɾelɐ	stɛə̯la	ste̯a	ʃtajlə	ʃtɛjlə	ʃtɛjlə	ʃtajlə	stɛdda	isteɖɖa	stiɖɖa	stiɖɖa	ʃtiɖɖa	ʃtiɖɖa	estɾeʎa	stella	ʃtella	stela	stela	stea	
+STAR_2														etwal																			etwɛl																									stwaːj
+STONE_1	ce̯atrə																																																									
+STONE_2		pjedɾa		peðɾə	peðɾa	peðɾə	peðɾɛ	peðɾa	pitra		prɛda	preːda	pjɛro	pjɛʁ		pɛðɾa		pjɛtra					priːa	pria	prɛja	preda			prɛtə	pɛjɾo	pjerə	pjɛtra	pjɛʁ	pɛra	pera	pɛra	pɛra	prɛja	pɛðɾɐ		pjatrə					perda~pedra	perda	pɛʈɽa	pɛʈɽa	pjɛʈɽa	pɛʈɽa	pjeðɾa			pjɛra		pjɛra	piːʀ
+STONE_3				rɔk			rɔk																																																			
+STONE_4										ʤarɔwn																																																
+STONE_5															klap																																											
+STONE_6																	ərpa																																									
+STONE_7																			sas	sas							sass													sas													sasso	sassu		sas		
+STONE_8																					ɫapɪs	ɫapɪs																																				
+STONE_9																												rɔpə														krap	krap	krap	krap													
+SUN_1	so̯are	sol		sɔɫ	sɔɫ	sɔɫ	sɔɫ	sɔɫ	sawl	soːl	sol	sɔwl		sɔlɛj	sorɛli	sol	sore	sole	soreje	surədl	soːɫ	soːɫ	suː	su	su	sul	suu	so̯ari	solə	sulɛw	solɛʎ	sole	sɔle	sul	sul	sul	sul	sul	sɔɫ	sowl	so̯are	suleʎ	suʎeʎ	suleʎ	sulaj	sɔli	sole	suli	suli	suli	suli	sol	sole	sole	sol	sol	sol	sɔlɛː
+SUN_2													sɛlwa																																													
+SWIM_1	anotu	nadaɾ		nəða	naðaɾ	nəða	naða	naðaɾ	notwor	nudɛːr	nudar	nudɛːr			nadaː	naðaɾ		nwotare	nodɛr	nudɛ	naːrɛ~nataːrɛ	nataːrɛ	nøaː	ɲua	nøɛ	nyda	nuda		nata	neda	noeːr	nwotare		nue	nue	nue	nue~nuatɛ		nɐðaɾ		aɨnota	nudar	nudar	sənudar	nədar	nadaj	nadare	nataɾi	nataɾɨ	nataɾi	nataɾi	naðaɾ	notare	nota	noðar	noɡar~noðar	nuar	
+SWIM_2													naðiː	naʒe																			naʒe					navɛ		naviɡeə̯~nuviɡeə̯																		nɛʤe
+SWIM_3																	plivi											plivəjes																														
+SWIM_4																				ʒbimənɛ																																						
+TAIL_1	ko̯adə	kola		kuə	kua	koə	kuɛ	kua	kud~kwod~kwad	kɔva	kɔa	kɔva	kava	kø	kɔde	kɔla	kodæ	koda		koda	kawda	kawda	kuːa	kua	kua	kua	kua	ko̯adə	koɾə	ko~kua	koːə	koda	ʧø	kua	kua	kua	kua	kua	kawðɐ	kowda	ko̯adə	kuə	kuə	kuə	kuə	kɔa	koa	kuda	kuda	kuɾa	kuɾa	kola	koda	koa	koða	koa	koa	køː
+TAIL_2		rabo														raβo																																				raβo						
+TAIL_3																			kowda																																							
+THAT_1	aʦelu												ʃole	səla			aʧela											ʦela					ʃlo								aʧel																	syla~sytla
+THAT_2		akel		əkɛʎ	akeʎ	əkɛj	akeʎ	akeʎ	kol	kwɛːl	kwel	kɔl			kɛl	akɛl		kwello	kel	kəl			kwɛluli	kwɛllu	kwɛːllu	kɛl	kwɛllla~kwɛllli		killə	akew	ʦil	kwello		kul	kul	ʧəl	kul		ɐkelɨ	kwɛl		ʧel		ʧel	kwel	kuddu	kuɖɖu	kiɖɖu	kiɖɖu	kiɖɖu	kiɖɖu	akel	kwello	kwillu	kwel	kwel	kwɛo~kweo	
+THAT_3		esi			ejʃe			ejʃe								ese																							esɨ							kussu	kussu					ese						
+THAT_4													ʃotjɛ								ɪstɛ	ɪstɛ																																				
+THAT_5																					ɪllɛ	ɪllɛ																kulla																				
+THAT_6																														akel																												
+THAT_7																																											awtər															
+THIN_1	supʦɨre																supʦire																								subʦire																	
+THIN_2		fino		fi	fi	fi	fi	finet					fɛ̃	fɛ̃	fiŋ	fino										fi			finə	fiŋ			fɛ̃		fiŋ	fiŋ		fiːŋ	finu			fin	feɲ	fin	fin	fini		finu	finu	finu	finu	fino	fino	finu	fiŋ	fiŋ	fiŋ	
+THIN_3				pɾim	pɾim	pɾim	pɾim	pɾim					prɛ̃																																													
+THIN_4										mɛɡer	maɡar																																															
+THIN_5												sutiːl			sutiːl			sottile	sotil	sutil			sutiː	sutti	sɛːti		setii					sottile		sytil	sytil	sytil	sytil	sutiːl		stil				satel	ʃtiʎ												sotil	
+THIN_6																					tɛnʊɪs	tɛnwɪs																																				
+THIN_7																												slap																														
+THIN_8																															tɛ̃nvə																											tɛn
+THIN_9																																															lanʒu											
+THIS_1	aestu			əkɛt~əkɛst		əkɛt	aket		kost	kwɛst	kwest	kɔst			kɛst		ʧesta	kwesto	keʃt	kəʃt				kwɛstu	kwɛːstu	kɛsto	kwɛstuːki	ʦista	kistə	akest~akeste	ʦist	kwesto		kust	kust	kust	kust	kuskiː		kwest	aʧest				kwist	kustu	kustu	kistu	kistu	kistu	kistu		kwesto	tistu	kwesto		kwesto	
+THIS_2		esti			este			este								este							stuki																eʃtɨ													este				sto	sto	
+THIS_3													stitjɛ																																													
+THIS_4														səsi																			ʃʃi																									sysi~sytsi
+THIS_5																					hɪk	ɪk																																				
+THIS_6																																										kwɛl		kwel														
+THIS_7																																											ɕel															
+THOU_1	tine	tu		tu	tu	tu	tu	tu	tu~te~ti	tɛ	ti	te	tɛ	ty	tu	ti	tu	tu	tu	tu	tuː	tuː	ti	ti	ti	te	ti	tu	tu	ty	ty	tu	ty	ti	ti	ti	ti	tiː	tu	te	tu	ti	te	ti	ty	tuj	tue	tu	tu	tu	tu	tu	te	te	ti	ti	ti	ty
+TONGUE_1	limbə																limbæ											limbə													limbə					limba	limba											
+TONGUE_2		ʎiŋɡwa		ʎeŋɡwə	ʎeŋɡwa	ʎeŋɡu	ʎeŋɡwɛ	ʎeŋɡwa	laŋɡa	lɛŋɡva	lɛŋɡwa	lɛŋɡwa~lɛŋɡva	lɛɡa		lɛŋɡe	liŋɡwa		liŋɡwa	leŋɡa	ləŋɡa	lɪŋɡʷa	lɪŋɡʷa	liŋɡwa	liŋɡwa	lɛːŋɡwa	lɛŋɡwa	leːŋɡwa		leŋɡwə~leŋɡə	leŋɡo	lãŋɡə	liŋɡwa		lɛŋɡa	leŋɡa	lɛŋɡa	lɛŋɡa	leːŋɡwa	lĩŋɡwɐ	lenɡva		ljewŋɡə	ʎaŋɡə	ljewŋɡə	lewə			liŋɡwa	liŋɡwa	liŋɡwa	liŋkwa	leŋɡwa	liŋɡwa	leŋɡwa	leŋɡwa	leŋɡwa	eŋɡwa~iŋɡwa	
+TONGUE_3														lɑ̃ɡ																																												
+TONGUE_4																																	lɑ̃ɡ																									lɛ̃k
+TOOTH_1	dinte	djente		den	dent	dent	den	dent	djant	dɛjnt	dent	dɛjnt	dɛː~dɛ̃	dɑ̃	dint	dente	dinte	dɛnte	dent	dənt	deːns	deːns	dente	dɛnte	dɛːŋʧu	det	deːnʧ	dinti	dɛntə	dɛnt	dãnt	dɛnte	dɛ̃	dɛŋt	dɛŋt	dɛŋt	dɛŋt	deːŋʧ	dẽntɨ	dẽnt	dinte	dɛnt	dajnt	dɛnt	dajnt	dɛnti	dente	dɛnti~ɾɛnti	ɾɛntɨ	ɾjɛnti	ɾɛnti	djente	dɛnte	dɛnte	dɛŋt	dɛŋt~ðɛŋt	deŋte	dɛ̃
+TREE_1	arburi	aɾbol							jarbur~jarber~jarbul		arbul		aːrbro	aʁbʁ	arbul						arbɔr	arbɔr	eːrbu	ɛːrbu	ɛːrbuː			arbur	arbəɾə		arbrə			ɛrbu	ɛrbu		arbra										arvule	aɾvulu		aɾbulu		aɾβol						
+TREE_2				aβɾə	aβɾe	aβɾə	aβɾe	aβɾe								aɾβoɾe													aβəɾə										aɾvuɾɨ								arvure											
+TREE_3										elber		ɛːlber	aːbro					albero	ɛlber											awbɾe		albero								eə̯lbar															albero	alber	albero	
+TREE_4																	lemən			ləŋ																																						
+TREE_5																										pjanta	pjanta									pjaŋta		pjaŋta				plantə	plantə	plɔntə									pjanta	pjanta				
+TREE_6																																	ab																									oːp
+TREE_7																																									kopak																	
+TREE_8																																													bœʃɕ													
+TREE_9																																														matta					maʧʧa							
+TREE_10																																																	abbuɾu									
+TWO_1	doj	dos		dos	dos	dos	dos	dos	doj	duː	du	dɔw	du~duz	dø	dɔj	dows	doj	due	doj	doj	dʊɔ	dʊɔ	duiː	dui	dɥi	du	dyy	doj	dojə~dujə	dus		due	dø	duj	duj	duj	due~duj	dyj	dojʃ	do	doj	dus	dus	dus	dwos~dus	duzu	duos	dui	dui			dos	due	du	doj	doj	do	døː
+TWO_2																															dews																											
+TWO_3																																																ɾui		ɾui	ɾuɛ							
+WARM (OF WEATHER)_1	kaldu								kwolt	kaldɛjn	kald	kɛːld			calt		kɒd	kaldo						kaːdu		kølt	koːlt	kalt		kawt	ʧawt	kaldo			kawd		kawd	kawt		keə̯ld	kald			kawlt					kauddu				kaldo		kalt	kalt		
+WARM (OF WEATHER)_2		kaljente		kəɫen	kaɫent	kəɫen	kaɫen	kaɫent								kaliðo					kalɪdʊs	kalɪdʊs																	kẽntɨ							kaloru	kaʒente					kaljente		kallu				
+WARM (OF WEATHER)_3													θo	ʃo																			kø																									ʧõː
+WARM (OF WEATHER)_4																			ɕawt	ɕawt																						ɕawt	cot		ɕot													
+WARM (OF WEATHER)_5																							tjepidu											təbi		təbi												tɛpidu									tjɛpido	
+WARM (OF WEATHER)_6																									ʧeppu																																	
+WARM (OF WEATHER)_7																													kaβəɾə~kawrə																					kavuɾu	kauɾu							
+WATER_1	apə				aiwa			aiwa									ɒpæ											apu													apə																	
+WATER_2		aɡwa		ajɣwə		ajɣu	ajɣwɛ		jakwa	akwa	akwa	aːkva~aːkwa	eɡa		aɡe			akkwa	ɛɡa	ɛɡa	akʷa	akʷa	eːɡwa	ɛːɡwa	ɛːɡwa	akkwa	akkwa		akkwə	ajɡo	ejɡə	akkwa						akwa	aɣwɐ	akva								akkwa	akkwa	akkwa	akkwa	aɣwa	akkwa	akkwa	akwa	akwa	akwa	
+WATER_3														o																			jø																									
+WATER_4																awɣa																																										
+WATER_5																																		ɛva	eva	eva	eva						avə															
+WATER_6																																										awə		awə	awə													
+WATER_7																																														abba												
+WATER_8																																															abba											
+WATER_9																																																										eːw
+WE_1	noj	nos							noj				no~noz	nu	noː	nɔs	noj	noi	nos		noːs	noːs		nui			nyŋ	noj	nujə	nus	nos	noi		nuj	nuj	nuj	nuj	nyj	nɔʃ	now	noj	nus		nus	nus		nois	nui	nui				noi	noe	noj	noj		
+WE_2				nuzaɫtɾəs	mosatɾos	noɫtɾus	nozaɫtɾes~naɫtɾes~nantɾos	mosatɾos																																						nozatruzu						nosotɾos						nuzot
+WE_3									nojiltri	nuɛter		nuɛːter											nuiːatri		nɥiatri	noter								nujawtri														nuaʈɽi~niawʈɽi	nuawʈɽi	nuavuʈɽi~nuawʈɽi	niawʈɽi			nojantri			nialtri	
+WE_4										se								ʧi														ʧi																					ʧi					ʤy
+WE_5																				nəws																							nows															
+WE_6																																	o																									
+WHAT_1	ʦe	ke		kɛ	ke	kɛ	ke	ke	kos~ko				kaj	kə	ʧe	ke	ʧe	ke	kepa	ʧə								ʦe	kə	ke	kə	ke	kwe				kɔ	kwɛ	ukɨ	ke	ʧe		ce					ki	ki	ki	ki	ke	ke	ke	ke	ke		
+WHAT_2										kuza~sa	kuza~za	ksaː											kose	kosse	koːsse	kozɛ	kuza							kɔza	kɔza	kɔza	kɔza					ɕe		ɕej	ɕe												kɔsa	
+WHAT_3																					kʷɪd	kʷɪd																																				
+WHAT_4																																														itta~ita	itte											
+WHAT_5																																																										kwɛsky
+WHITE_1	albu								jwalb								ɒb				aɫbʊs	aɫbʊs						alp													alb																	
+WHITE_2		blaŋko		bɫaŋ	bɫaŋk	bɫaŋ	bɫaŋ	bɫaŋk	bjaŋk~blaŋk	bjaŋk	bjaŋk	bjaːŋk	bʎã	blɑ̃	blaŋk	bɾaŋko		bjaŋko	bjaŋk	blaŋk			ʤaŋku	ʤaːŋku	ʤaːŋku	bjaŋk	bjaːŋk		jaŋkə	blaŋk	blãŋk	bjaŋko	blɑ̃	bjaŋk	bjaŋk	bjaŋk	bjaŋk	bjaːŋk	bɾɐ̃ŋku	bjãnk						bjaŋku	bjaŋku	jaŋku	jaŋku	bjaŋku	bɾaŋku~jaŋku	blaŋko	bjaŋko	vjanku	bjaŋk	bjaŋk	bjaŋko	blã
+WHITE_3																																										alf	alf	alf	alp													
+WHO_1	kare																											kari																														
+WHO_2		kjeŋ		ki	ki	ki	ki	ki	ku	ki	ki	ki	kwi	ki	kuj	keŋ		ki	kipa	ki	kʷɪs	kʷɪs	ki	ki	ki	ki	ki		ki	ku	ki	ki	ki	ki	ki	ki	ki	ki		ki						kini	kie	kui	ku	ku	kui	kjen	ki	ki	ki	ki	ki	kiː
+WHO_3																	ʧire																								ʧine																	
+WHO_4																														kau																												
+WHO_5																																							kɐ̃j̃																			
+WHO_6																																										ɕi	ci	ɕi	ɕi													
+WIND_1	vimtu	bjento		ben	bent	vent	ben	bent	vjant	vɛjnt	vent	vɛjnt	ve~vɛː	vɑ̃		bɛnto		vɛnto	vent	vənt	wɛntʊs	vɛntʊs	veːŋtu	veŋtu	vɛːŋtu	vɛnt	veːnt	vint	vjentə	vɛnt	vãnt	vɛnto	vɛ̃	vɛŋt		vɛŋt	vɛŋt	veːŋt	vẽntu	vɛnt	vɨnt	vɛnt	vɛnt	vɛnt	vɛnt	bentu	ventu	vɛntu	vɛntu	vjɛntu	vjɛntu	bjento	vɛnto	ventu	vɛŋt	vɛŋt	veŋto	
+WIND_2															ajar																																											eːʀ
+WIND_3																	boræ																																									
+WIND_4																														awɾo					arja																							
+WOMAN_1	muʎe̯are	mujeɾ							muʎer~moʎer							muʎɛɾ					mʊlɪɛr	mʊljɛr						muʎari											muʎɛɾ													muxeɾ						
+WOMAN_2				dɔnə	dɔna	dɔnə	dɔnɛ	dɔna		dɔna	dɔna	dɔna						dɔnna					dønna	donna	doːnna		dona										dɔna	dɔːna		dona				dunə	dwɔnə								dɔnna				dona	
+WOMAN_3													fɛna	fam	fɛmine				femena			feːmɪna				fɛnne			fɛmmənə~femmənə	femo~fumo	fãmə	femmina	fœm	fumna	fumna	fumna					femeje	fɛmnə	fɛmnə	fɛmnə		fɛmmina	emmina	fimmina	fimmɨna	fimmina	fimmina			femmina	femena	femena		fam
+WOMAN_4																	ʒenskæ																																									
+WOMAN_5																				əjla																																						
+WORM_1	ʑermu								vjarm		vɛrm		ve	vɛʁ	vjɛr	bɛɾme	ɣʎermu~ʎermu	vɛrme	verm	jərm	wɛrmɪs	vɛrmɪs	vɛrme	veːrme	vɛːrmu		vermɛn	ɟarmi	vɛrmə	vɛɾme	vɛrm	vɛrmo	vɛʁ	vɛrm	vɛrm	vɛrm	vɛrm	vɛrm	vɛɾmɨ	veːrman	vjerme	vɛrm	vɛrm	vjɛrm	vɛrm		erme	vɛɾmi~vɛɾmu	vɛɾmi	vjɛɾmu~vjɛɾmi	vɛɾmi			vɛrme		vɛrmen	vɛrme	vjeːʀ
+WORM_2		meɾuko																																																								
+WORM_3				kuk	kuk	kuk	kuk	kuk		beːɡ		bɛjɡ																																									bako					
+WORM_4																										ɛrem															rɨmə																	
+WORM_5																																							miɲɔkɐ																			
+WORM_6																																														brɛmmini												
+WORM_7																																																				lombɾiθ						
+WORM_8																																																							but			
+YEAR_1	anu	aɲo		aɲ	aɲ	aɲ	aɲ	aɲ	jajŋ	an	an	aːn			an	ano	ɒn	anno	an	an	annʊs	annʊs	annu	annu	annu	an	ann	an	annə		ãn	anno		an	an	an	ani~aŋ	aŋ	ɐnu	an	an	ɔn	ɔn	ɔn	on	annu	annu	annu	annu	annu	annu	aɲo	anno	annu	an	an	ano	
+YEAR_2													ã	ɑ̃																																												ã
+YEAR_3														ane																annado	ãneːə		ɛ̃ne																									aneːj
+YELLOW_1	ɡalbinu																											ɡalbin													ɡalben																	
+YELLOW_2		amaɾiʎo														amaɾɛlo																							ɐmɐɾɛlu													amaɾiʎo						
+YELLOW_3				ɡɾɔk	ɡɾɔk	ɡɾɔk	ɡɾɔk	ɡɾɔk																																						ɡroɣu	ɡroɡu											
+YELLOW_4									ʒwolno																																																	
+YELLOW_5										zaːl	ʒal	ʒaːl			ʤaːl			ʤallo	zal					ʤallu		zalt	ʤaːlt		ʤallə~ʤʤallə			ʤallo						ʤalt		ʒal								ʤallu					ʤallo	ɟallu	ʤal	ʤal		
+YELLOW_6													ðono	ʒon																			ɡɑ̃n																									ʤoːn
+YELLOW_7																	ʒut																																									
+YELLOW_8																				ɡjəl																									ɡɛlk													
+YELLOW_9																						fʊɫvʊs																																				
+YELLOW_10																							ʤanu		ʤaːnu					ʤawne	ʤawnə			ʤawŋ	ʤawŋ		ʤawŋ																					
+YELLOW_11																																				ʤawŋ																						
+YELLOW_12																																										mɛlən	mɛlən	mɛlən														
+YELLOW_13																																																	ʤallu									
+YELLOW_14																																																		ʤaɾnu	ɟɟaɾnu							
+YELLOW_15																																																									zae̯o	

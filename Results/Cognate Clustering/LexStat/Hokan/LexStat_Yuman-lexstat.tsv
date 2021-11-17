@@ -1,0 +1,691 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	TOKENS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	LEXSTATID
+#
+1	Cocopa	ALL	s aː m	3 7 4	AXN	SAM	1	1.S.C 1.A.V 1.M.c	2.0 1.5 0.8	saːm	0	1
+116	Ipai	ALL	nʲ aː m a t̪	4 7 4 7 1	AXBYN	NAMAT	2	2.N.C 2.A.V 2.M.C 2.A.V 2.T.c	2.0 1.5 1.75 1.3 0.8	nʲaːmat̪	0	2
+229	Mohave	ALL	p a j	1 7 6	AXN	PAJ	3	3.P.C 3.A.V 3.J.c	2.0 1.5 0.8	paj	0	3
+358	Tipai	ALL	ʧ a m ʎ̥	2 7 4 5	AXBC	CAML	4	4.C.C 4.A.V 4.M.C 4.L.C	2.0 1.5 1.75 1.5	ʧamʎ̥	0	1
+359	Tipai	ALL	ɲ a ʧ a m ʎ̥	4 7 2 7 4 5	AXBYBC	NACAML	4	4.N.C 4.A.V 4.C.C 4.A.V 4.M.C 4.L.C	2.0 1.5 1.75 1.3 1.75 1.5	ɲaʧamʎ̥	0	1
+451	Yavapai	ALL	p a j a	1 7 6 7	AXBZ	PAJA	5	5.P.C 5.A.V 5.J.C 5.A.V	2.0 1.5 1.75 0.8	paja	0	3
+#
+2	Cocopa	ASH	x m ʔ u ɬ	3 4 1 7 5	AXBYN	GMHYL	1	1.G.C 1.M.V 1.H.C 1.Y.V 1.L.c	2.0 1.5 1.75 1.3 0.8	xmʔuɬ	0	4
+117	Ipai	ASH	ʔ ə m p i ɬ	1 7 4 1 7 5	AXMBYN	HEMPIL	2	2.H.C 2.E.V 2.M.c 2.P.C 2.I.V 2.L.c	2.0 1.5 1.1 1.75 1.3 0.8	ʔəmpiɬ	0	5
+230	Mohave	ASH	h a m ʔ uː ʎ	3 7 4 1 7 5	AXMBYN	HAMHYL	3	3.H.C 3.A.V 3.M.c 3.H.C 3.Y.V 3.L.c	2.0 1.5 1.1 1.75 1.3 0.8	hamʔuːʎ	0	6
+452	Yavapai	ASH	ʔ m h u l	1 4 3 7 5	AXBYN	HMHYL	5	5.H.C 5.M.V 5.H.C 5.Y.V 5.L.c	2.0 1.5 1.75 1.3 0.8	ʔmhul	0	6
+453	Yavapai	ASH	ʔ m h u l	1 4 3 7 5	AXBYN	HMHYL	5	5.H.C 5.M.V 5.H.C 5.Y.V 5.L.c	2.0 1.5 1.75 1.3 0.8	ʔmhul	1	6
+#
+3	Cocopa	BARK	ʂ x u j a l	3 3 7 6 7 5	ACYBYN	SGYJAL	1	1.S.C 1.G.C 1.Y.V 1.J.C 1.A.V 1.L.c	2.0 1.5 1.3 1.75 1.3 0.8	ʂxujal	0	7
+118	Ipai	BARK	x aː s ə j a ɬ	3 7 3 7 6 7 5	AXBYBYN	GASEJAL	2	2.G.C 2.A.V 2.S.C 2.E.V 2.J.C 2.A.V 2.L.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	xaːsəjaɬ	0	7
+231	Mohave	BARK	ʧ a θ kʷ i l	2 7 3 1 7 5	AXMBYN	CADKIL	3	3.C.C 3.A.V 3.D.c 3.K.C 3.I.V 3.L.c	2.0 1.5 1.1 1.75 1.3 0.8	ʧaθkʷil	0	9
+454	Yavapai	BARK	θ p i l a	3 1 7 5 7	ACYBZ	DPILA	5	5.D.C 5.P.C 5.I.V 5.L.C 5.A.V	2.0 1.5 1.3 1.75 0.8	θpila	0	10
+#
+4	Cocopa	BELLY	ʔ i ʧ u	1 7 2 7	AXBZ	HICY	1	1.H.C 1.I.V 1.C.C 1.Y.V	2.0 1.5 1.75 0.8	ʔiʧu	0	11
+119	Ipai	BELLY	ə t̪ uː	7 1 7	XBZ	ETY	2	2.E.V 2.T.C 2.Y.V	1.5 1.75 0.8	ət̪uː	0	11
+232	Mohave	BELLY	iː t o	7 1 7	XBZ	ITU	3	3.I.V 3.T.C 3.U.V	1.5 1.75 0.8	iːto	0	11
+360	Tipai	BELLY	t̪ u	1 7	AX	TY	4	4.T.C 4.Y.V	2.0 1.5	t̪u	0	11
+455	Yavapai	BELLY	m n u n a	4 4 7 4 7	ACYBZ	MNYNA	5	5.M.C 5.N.C 5.Y.V 5.N.C 5.A.V	2.0 1.5 1.3 1.75 0.8	mnuna	0	15
+#
+5	Cocopa	BIG	p t̪ a j	1 1 7 6	ACYN	PTAJ	1	1.P.C 1.T.C 1.A.V 1.J.c	2.0 1.5 1.3 0.8	pt̪aj	0	16
+120	Ipai	BIG	ʔ iː k uː	1 7 1 7	AXBZ	HIKY	2	2.H.C 2.I.V 2.K.C 2.Y.V	2.0 1.5 1.75 0.8	ʔiːkuː	0	17
+233	Mohave	BIG	v a ʎ t a j m	3 7 5 1 7 6 4	AXMBYLN	BALTAJM	3	3.B.C 3.A.V 3.L.c 3.T.C 3.A.V 3.J.c 3.M.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	vaʎtajm	0	16
+234	Mohave	BIG	v a t a j m	3 7 1 7 6 4	AXBYLN	BATAJM	3	3.B.C 3.A.V 3.T.C 3.A.V 3.J.c 3.M.c	2.0 1.5 1.75 1.3 1.1 0.8	vatajm	0	16
+361	Tipai	BIG	t̪ a j	1 7 6	AXN	TAJ	4	4.T.C 4.A.V 4.J.c	2.0 1.5 0.8	t̪aj	0	16
+456	Yavapai	BIG	β t e	3 1 7	ACZ	BTE	5	5.B.C 5.T.C 5.E.V	2.0 1.5 0.8	βte	0	20
+#
+6	Cocopa	BIRD	ʃ a	3 7	AX	SA	1	1.S.C 1.A.V	2.0 1.5	ʃa	0	21
+121	Ipai	BIRD	ʔ aː ʂ aː	1 7 3 7	AXBZ	HASA	2	2.H.C 2.A.V 2.S.C 2.A.V	2.0 1.5 1.75 0.8	ʔaːʂaː	0	21
+235	Mohave	BIRD	ʔ i ʧ a j e r	1 7 2 7 6 7 5	AXBYBYN	HICAJER	3	3.H.C 3.I.V 3.C.C 3.A.V 3.J.C 3.E.V 3.R.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʔiʧajer	0	23
+236	Mohave	BIRD	ʔ i ʧ i j e r	1 7 2 7 6 7 5	AXBYBYN	HICIJER	3	3.H.C 3.I.V 3.C.C 3.I.V 3.J.C 3.E.V 3.R.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʔiʧijer	0	23
+362	Tipai	BIRD	a ʔ ʃ a	7 1 3 7	XBCZ	AHSA	4	4.A.V 4.H.C 4.S.C 4.A.V	1.5 1.75 1.5 0.8	aʔʃa	0	21
+363	Tipai	BIRD	aː ʃ a	7 3 7	XBZ	ASA	4	4.A.V 4.S.C 4.A.V	1.5 1.75 0.8	aːʃa	0	21
+457	Yavapai	BIRD	ʔ ʧ s a	1 2 3 7	ACCX	HCSA	5	5.H.C 5.C.C 5.S.C 5.A.V	2.0 1.5 1.5 1.5	ʔʧsa	0	21
+#
+7	Cocopa	BITE	ʂ aː	3 7	AX	SA	1	1.S.C 1.A.V	2.0 1.5	ʂaː	0	24
+122	Ipai	BITE	ʧ uː k u w	2 7 1 7 6	AXBYN	CYKYW	2	2.C.C 2.Y.V 2.K.C 2.Y.V 2.W.c	2.0 1.5 1.75 1.3 0.8	ʧuːkuw	0	25
+237	Mohave	BITE	ʧ a kʲ oː k	2 7 1 7 1	AXBYN	CAKUK	3	3.C.C 3.A.V 3.K.C 3.U.V 3.K.c	2.0 1.5 1.75 1.3 0.8	ʧakʲoːk	0	26
+364	Tipai	BITE	ʧ uː k a w	2 7 1 7 6	AXBYN	CYKAW	4	4.C.C 4.Y.V 4.K.C 4.A.V 4.W.c	2.0 1.5 1.75 1.3 0.8	ʧuːkaw	0	25
+458	Yavapai	BITE	ʧ kʲ o	2 1 7	ACZ	CKU	5	5.C.C 5.K.C 5.U.V	2.0 1.5 0.8	ʧkʲo	0	26
+#
+8	Cocopa	BLACK	ɲ iː ʎ̥	4 7 5	AXN	NIL	1	1.N.C 1.I.V 1.L.c	2.0 1.5 0.8	ɲiːʎ̥	0	27
+123	Ipai	BLACK	nʲ i ɬʲ	4 7 5	AXN	NIL	2	2.N.C 2.I.V 2.L.c	2.0 1.5 0.8	nʲiɬʲ	0	27
+238	Mohave	BLACK	ɲ aː ʔ iː ʎ	4 7 1 7 5	AXBYN	NAHIL	3	3.N.C 3.A.V 3.H.C 3.I.V 3.L.c	2.0 1.5 1.75 1.3 0.8	ɲaːʔiːʎ	0	27
+365	Tipai	BLACK	ɲ i ʎ̥	4 7 5	AXN	NIL	4	4.N.C 4.I.V 4.L.c	2.0 1.5 0.8	ɲiʎ̥	0	27
+459	Yavapai	BLACK	ʔ ɲ aː	1 4 7	ACX	HNA	5	5.H.C 5.N.C 5.A.V	2.0 1.5 1.5	ʔɲaː	0	31
+#
+9	Cocopa	BLOOD	ɲ xʷ a t	4 3 7 1	ACYN	NGAT	1	1.N.C 1.G.C 1.A.V 1.T.c	2.0 1.5 1.3 0.8	ɲxʷat	0	32
+124	Ipai	BLOOD	ʔ ə xʷ a t	1 7 3 7 1	AXBYN	HEGAT	2	2.H.C 2.E.V 2.G.C 2.A.V 2.T.c	2.0 1.5 1.75 1.3 0.8	ʔəxʷat	0	32
+239	Mohave	BLOOD	ɲ a hʷ a t	4 7 3 7 1	AXBYN	NAHAT	3	3.N.C 3.A.V 3.H.C 3.A.V 3.T.c	2.0 1.5 1.75 1.3 0.8	ɲahʷat	0	32
+366	Tipai	BLOOD	xʷ a t	3 7 1	AXN	GAT	4	4.G.C 4.A.V 4.T.c	2.0 1.5 0.8	xʷat	0	32
+460	Yavapai	BLOOD	ʔ hʷ a t a	1 3 7 1 7	ACXBZ	HHATA	5	5.H.C 5.H.C 5.A.V 5.T.C 5.A.V	2.0 1.5 1.5 1.75 0.8	ʔhʷata	0	32
+#
+10	Cocopa	BONE	ɲ j aː k	4 6 7 1	ACXN	NJAK	1	1.N.C 1.J.C 1.A.V 1.K.c	2.0 1.5 1.5 0.8	ɲjaːk	0	33
+125	Ipai	BONE	a q	7 1	XN	AK	2	2.A.V 2.K.c	1.5 0.8	aq	0	33
+240	Mohave	BONE	ɲ a s a k	4 7 3 7 1	AXBYN	NASAK	3	3.N.C 3.A.V 3.S.C 3.A.V 3.K.c	2.0 1.5 1.75 1.3 0.8	ɲasak	0	35
+367	Tipai	BONE	a k	7 1	XN	AK	4	4.A.V 4.K.c	1.5 0.8	ak	0	33
+461	Yavapai	BONE	ʧ j a k a	2 6 7 1 7	ACXBZ	CJAKA	5	5.C.C 5.J.C 5.A.V 5.K.C 5.A.V	2.0 1.5 1.5 1.75 0.8	ʧjaka	0	37
+#
+11	Cocopa	BREAST	x ʧ k a ɾ	3 2 1 7 5	AMBYN	GCKAR	1	1.G.C 1.C.c 1.K.C 1.A.V 1.R.c	2.0 1.1 1.75 1.3 0.8	xʧkaɾ	0	38
+12	Cocopa	BREAST	ʧ x k a ɾ	2 3 1 7 5	AXBYN	CGKAR	1	1.C.C 1.G.V 1.K.C 1.A.V 1.R.c	2.0 1.5 1.75 1.3 0.8	ʧxkaɾ	0	38
+126	Ipai	BREAST	iː ʧ i x	7 2 7 3	XBYN	ICIG	2	2.I.V 2.C.C 2.I.V 2.G.c	1.5 1.75 1.3 0.8	iːʧix	0	39
+241	Mohave	BREAST	iː w a	7 6 7	XBZ	IWA	3	3.I.V 3.W.C 3.A.V	1.5 1.75 0.8	iːwa	0	40
+368	Tipai	BREAST	t̪ ə x k a r	1 7 3 1 7 5	AXMBYN	TEGKAR	4	4.T.C 4.E.V 4.G.c 4.K.C 4.A.V 4.R.c	2.0 1.5 1.1 1.75 1.3 0.8	t̪əxkar	0	38
+462	Yavapai	BREAST	ɲ m a j a	4 4 7 6 7	ACYBZ	NMAJA	5	5.N.C 5.M.C 5.A.V 5.J.C 5.A.V	2.0 1.5 1.3 1.75 0.8	ɲmaja	0	42
+#
+13	Cocopa	BURN (SOMETHING)	ʎ̥ m a ɾ	5 4 7 5	ACYN	LMAR	1	1.L.C 1.M.C 1.A.V 1.R.c	2.0 1.5 1.3 0.8	ʎ̥maɾ	0	43
+127	Ipai	BURN (SOMETHING)	aː ɹ aː w	7 5 7 6	XBYN	ARAW	2	2.A.V 2.R.C 2.A.V 2.W.c	1.5 1.75 1.3 0.8	aːɹaːw	0	44
+242	Mohave	BURN (SOMETHING)	t a p oː m m	1 7 1 7 4 4	AXBYLN	TAPUMM	3	3.T.C 3.A.V 3.P.C 3.U.V 3.M.c 3.M.c	2.0 1.5 1.75 1.3 1.1 0.8	tapoːmm	0	45
+369	Tipai	BURN (SOMETHING)	a ʎ̥ m a r	7 5 4 7 5	XMBYN	ALMAR	4	4.A.V 4.L.c 4.M.C 4.A.V 4.R.c	1.5 1.1 1.75 1.3 0.8	aʎ̥mar	0	43
+463	Yavapai	BURN (SOMETHING)	t u	1 7	AX	TY	5	5.T.C 5.Y.V	2.0 1.5	tu	0	47
+#
+72	Cocopa	CIRCULAR (ROUND IN TWO DIMENSIONS)	ɾ j a ɾ	5 6 7 5	ACXN	RJAR	1	1.R.C 1.J.C 1.A.V 1.R.c	2.0 1.5 1.5 0.8	ɾjaɾ	0	48
+186	Ipai	CIRCULAR (ROUND IN TWO DIMENSIONS)	j a ɹ ə j a ɹ	6 7 5 7 6 7 5	AXBYBYN	JAREJAR	2	2.J.C 2.A.V 2.R.C 2.E.V 2.J.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	jaɹəjaɹ	0	49
+415	Tipai	CIRCULAR (ROUND IN TWO DIMENSIONS)	j ə r j a r	6 7 5 6 7 5	AXBCYN	JERJAR	4	4.J.C 4.E.V 4.R.C 4.J.C 4.A.V 4.R.c	2.0 1.5 1.75 1.5 1.3 0.8	jərjar	0	49
+#
+14	Cocopa	CLAW OR NAIL	ɬ k a xʷ a w	5 1 7 3 7 6	ACYBYN	LKAGAW	1	1.L.C 1.K.C 1.A.V 1.G.C 1.A.V 1.W.c	2.0 1.5 1.3 1.75 1.3 0.8	ɬkaxʷaw	0	50
+15	Cocopa	CLAW OR NAIL	ʎ̥ k a xʷ a w	5 1 7 3 7 6	ACYBYN	LKAGAW	1	1.L.C 1.K.C 1.A.V 1.G.C 1.A.V 1.W.c	2.0 1.5 1.3 1.75 1.3 0.8	ʎ̥kaxʷaw	0	50
+128	Ipai	CLAW OR NAIL	s a lʲ ə xʷ uː w	3 7 5 7 3 7 6	AXBYBYN	SALEGYW	2	2.S.C 2.A.V 2.L.C 2.E.V 2.G.C 2.Y.V 2.W.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	salʲəxʷuːw	0	51
+243	Mohave	CLAW OR NAIL	iː s a ʎ k u ʎ o h o	7 3 7 5 1 7 5 7 3 7	XBYMBYBYBZ	ISALKYLUHU	3	3.I.V 3.S.C 3.A.V 3.L.c 3.K.C 3.Y.V 3.L.C 3.U.V 3.H.C 3.U.V	1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 0.8	iːsaʎkuʎoho	0	52
+370	Tipai	CLAW OR NAIL	ʃ a ʎ̥ n ə p uː l	3 7 5 4 7 1 7 5	AXMBYBYN	SALNEPYL	4	4.S.C 4.A.V 4.L.c 4.N.C 4.E.V 4.P.C 4.Y.V 4.L.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	ʃaʎ̥nəpuːl	0	53
+464	Yavapai	CLAW OR NAIL	s l h β o	3 5 3 3 7	AXMBZ	SLHBU	5	5.S.C 5.L.V 5.H.c 5.B.C 5.U.V	2.0 1.5 1.1 1.75 0.8	slhβo	0	54
+#
+16	Cocopa	CLOUD	kʷ iː	1 7	AX	KI	1	1.K.C 1.I.V	2.0 1.5	kʷiː	0	55
+129	Ipai	CLOUD	ʔ ə kʷ iː j	1 7 1 7 6	AXBYN	HEKIJ	2	2.H.C 2.E.V 2.K.C 2.I.V 2.J.c	2.0 1.5 1.75 1.3 0.8	ʔəkʷiːj	0	55
+244	Mohave	CLOUD	ʔ iː kʷ e	1 7 1 7	AXBZ	HIKE	3	3.H.C 3.I.V 3.K.C 3.E.V	2.0 1.5 1.75 0.8	ʔiːkʷe	0	55
+371	Tipai	CLOUD	kʷ iː	1 7	AX	KI	4	4.K.C 4.I.V	2.0 1.5	kʷiː	0	55
+465	Yavapai	CLOUD	ʔ kʷ i	1 1 7	ACZ	HKI	5	5.H.C 5.K.C 5.I.V	2.0 1.5 0.8	ʔkʷi	0	55
+#
+17	Cocopa	COLD	x s uː ɾ	3 3 7 5	ACYN	GSYR	1	1.G.C 1.S.C 1.Y.V 1.R.c	2.0 1.5 1.3 0.8	xsuːɾ	0	56
+130	Ipai	COLD	x ə ʧ uː ɹ	3 7 2 7 5	AXBYN	GECYR	2	2.G.C 2.E.V 2.C.C 2.Y.V 2.R.c	2.0 1.5 1.75 1.3 0.8	xəʧuːɹ	0	56
+245	Mohave	COLD	h a ʧ uː r k	3 7 2 7 5 1	AXBYLN	HACYRK	3	3.H.C 3.A.V 3.C.C 3.Y.V 3.R.c 3.K.c	2.0 1.5 1.75 1.3 1.1 0.8	haʧuːrk	0	58
+372	Tipai	COLD	ʃ uː k a t	3 7 1 7 1	AXBYN	SYKAT	4	4.S.C 4.Y.V 4.K.C 4.A.V 4.T.c	2.0 1.5 1.75 1.3 0.8	ʃuːkat	0	59
+466	Yavapai	COLD	m u n i	4 7 4 7	AXBZ	MYNI	5	5.M.C 5.Y.V 5.N.C 5.I.V	2.0 1.5 1.75 0.8	muni	0	60
+#
+18	Cocopa	COME	j iː	6 7	AX	JI	1	1.J.C 1.I.V	2.0 1.5	jiː	0	61
+131	Ipai	COME	w ə j i w	6 7 6 7 6	AXBYN	WEJIW	2	2.W.C 2.E.V 2.J.C 2.I.V 2.W.c	2.0 1.5 1.75 1.3 0.8	wəjiw	0	61
+246	Mohave	COME	i ð iː k	7 3 7 1	XBYN	IDIK	3	3.I.V 3.D.C 3.I.V 3.K.c	1.5 1.75 1.3 0.8	iðiːk	0	63
+373	Tipai	COME	j i w	6 7 6	AXN	JIW	4	4.J.C 4.I.V 4.W.c	2.0 1.5 0.8	jiw	0	61
+467	Yavapai	COME	j u w i	6 7 6 7	AXBZ	JYWI	5	5.J.C 5.Y.V 5.W.C 5.I.V	2.0 1.5 1.75 0.8	juwi	0	61
+#
+19	Cocopa	DIE	m ʂ p a	4 3 1 7	AMBZ	MSPA	1	1.M.C 1.S.c 1.P.C 1.A.V	2.0 1.1 1.75 0.8	mʂpa	0	64
+132	Ipai	DIE	m ə l a j	4 7 5 7 6	AXBYN	MELAJ	2	2.M.C 2.E.V 2.L.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 0.8	məlaj	0	65
+247	Mohave	DIE	i p u j k	7 1 7 6 1	XBYLN	IPYJK	3	3.I.V 3.P.C 3.Y.V 3.J.c 3.K.c	1.5 1.75 1.3 1.1 0.8	ipujk	0	66
+374	Tipai	DIE	m ə s p a	4 7 3 1 7	AXMBZ	MESPA	4	4.M.C 4.E.V 4.S.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	məspa	0	64
+468	Yavapai	DIE	p i	1 7	AX	PI	5	5.P.C 5.I.V	2.0 1.5	pi	0	68
+#
+20	Cocopa	DOG	x a t	3 7 1	AXN	GAT	1	1.G.C 1.A.V 1.T.c	2.0 1.5 0.8	xat	0	69
+133	Ipai	DOG	ʔ ə x a t	1 7 3 7 1	AXBYN	HEGAT	2	2.H.C 2.E.V 2.G.C 2.A.V 2.T.c	2.0 1.5 1.75 1.3 0.8	ʔəxat	0	69
+248	Mohave	DOG	h a t ʧ o q	3 7 1 2 7 1	AXBCYN	HATCUK	3	3.H.C 3.A.V 3.T.C 3.C.C 3.U.V 3.K.c	2.0 1.5 1.75 1.5 1.3 0.8	hatʧoq	0	71
+375	Tipai	DOG	x a t	3 7 1	AXN	GAT	4	4.G.C 4.A.V 4.T.c	2.0 1.5 0.8	xat	0	69
+469	Yavapai	DOG	k θ a r	1 3 7 5	ACXN	KDAR	5	5.K.C 5.D.C 5.A.V 5.R.c	2.0 1.5 1.5 0.8	kθar	0	73
+#
+21	Cocopa	DRINK	ʂ i	3 7	AX	SI	1	1.S.C 1.I.V	2.0 1.5	ʂi	0	74
+134	Ipai	DRINK	w ə s iː	6 7 3 7	AXBZ	WESI	2	2.W.C 2.E.V 2.S.C 2.I.V	2.0 1.5 1.75 0.8	wəsiː	0	74
+249	Mohave	DRINK	i θ iː m	7 3 7 4	XBYN	IDIM	3	3.I.V 3.D.C 3.I.V 3.M.c	1.5 1.75 1.3 0.8	iθiːm	0	76
+376	Tipai	DRINK	s i	3 7	AX	SI	4	4.S.C 4.I.V	2.0 1.5	si	0	74
+470	Yavapai	DRINK	θ i	3 7	AX	DI	5	5.D.C 5.I.V	2.0 1.5	θi	0	74
+#
+22	Cocopa	DRY	ʂ ʔ a ɾ	3 1 7 5	ACYN	SHAR	1	1.S.C 1.H.C 1.A.V 1.R.c	2.0 1.5 1.3 0.8	ʂʔaɾ	0	77
+135	Ipai	DRY	s aː j	3 7 6	AXN	SAJ	2	2.S.C 2.A.V 2.J.c	2.0 1.5 0.8	saːj	0	78
+250	Mohave	DRY	i r oː v k	7 5 7 3 1	XBYLN	IRUBK	3	3.I.V 3.R.C 3.U.V 3.B.c 3.K.c	1.5 1.75 1.3 1.1 0.8	iroːvk	0	79
+377	Tipai	DRY	s ʔ aː j	3 1 7 6	ACYN	SHAJ	4	4.S.C 4.H.C 4.A.V 4.J.c	2.0 1.5 1.3 0.8	sʔaːj	0	78
+471	Yavapai	DRY	r u β i	5 7 3 7	AXBZ	RYBI	5	5.R.C 5.Y.V 5.B.C 5.I.V	2.0 1.5 1.75 0.8	ruβi	0	81
+#
+23	Cocopa	EAR	ʃ m aː l	3 4 7 5	ACXN	SMAL	1	1.S.C 1.M.C 1.A.V 1.L.c	2.0 1.5 1.5 0.8	ʃmaːl	0	82
+136	Ipai	EAR	x ə m a ɬ	3 7 4 7 5	AXBYN	GEMAL	2	2.G.C 2.E.V 2.M.C 2.A.V 2.L.c	2.0 1.5 1.75 1.3 0.8	xəmaɬ	0	82
+251	Mohave	EAR	i s m a ʎ k	7 3 4 7 5 1	XBCYLN	ISMALK	3	3.I.V 3.S.C 3.M.C 3.A.V 3.L.c 3.K.c	1.5 1.75 1.5 1.3 1.1 0.8	ismaʎk	0	82
+378	Tipai	EAR	ʃ ə m a ʎ̥	3 7 4 7 5	AXBYN	SEMAL	4	4.S.C 4.E.V 4.M.C 4.A.V 4.L.c	2.0 1.5 1.75 1.3 0.8	ʃəmaʎ̥	0	82
+472	Yavapai	EAR	s m a l k a	3 4 7 5 1 7	ACXMBZ	SMALKA	5	5.S.C 5.M.C 5.A.V 5.L.c 5.K.C 5.A.V	2.0 1.5 1.5 1.1 1.75 0.8	smalka	0	82
+#
+24	Cocopa	EARTH (SOIL)	m a t	4 7 1	AXN	MAT	1	1.M.C 1.A.V 1.T.c	2.0 1.5 0.8	mat	0	83
+137	Ipai	EARTH (SOIL)	ʔ ə m a t̪	1 7 4 7 1	AXBYN	HEMAT	2	2.H.C 2.E.V 2.M.C 2.A.V 2.T.c	2.0 1.5 1.75 1.3 0.8	ʔəmat̪	0	83
+252	Mohave	EARTH (SOIL)	ʔ a m a t	1 7 4 7 1	AXBYN	HAMAT	3	3.H.C 3.A.V 3.M.C 3.A.V 3.T.c	2.0 1.5 1.75 1.3 0.8	ʔamat	0	83
+379	Tipai	EARTH (SOIL)	m a t	4 7 1	AXN	MAT	4	4.M.C 4.A.V 4.T.c	2.0 1.5 0.8	mat	0	83
+473	Yavapai	EARTH (SOIL)	m a t	4 7 1	AXN	MAT	5	5.M.C 5.A.V 5.T.c	2.0 1.5 0.8	mat	0	87
+#
+25	Cocopa	EAT	m a	4 7	AX	MA	1	1.M.C 1.A.V	2.0 1.5	ma	0	88
+138	Ipai	EAT	w ə s aː w	6 7 3 7 6	AXBYN	WESAW	2	2.W.C 2.E.V 2.S.C 2.A.V 2.W.c	2.0 1.5 1.75 1.3 0.8	wəsaːw	0	89
+253	Mohave	EAT	ʔ i ʧ a m a m	1 7 2 7 4 7 4	AXBYBYN	HICAMAM	3	3.H.C 3.I.V 3.C.C 3.A.V 3.M.C 3.A.V 3.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʔiʧamam	0	90
+254	Mohave	EAT	ʔ i ʧ a m aː m	1 7 2 7 4 7 4	AXBYBYN	HICAMAM	3	3.H.C 3.I.V 3.C.C 3.A.V 3.M.C 3.A.V 3.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʔiʧamaːm	0	90
+380	Tipai	EAT	s aː w	3 7 6	AXN	SAW	4	4.S.C 4.A.V 4.W.c	2.0 1.5 0.8	saːw	0	89
+474	Yavapai	EAT	m a	4 7	AX	MA	5	5.M.C 5.A.V	2.0 1.5	ma	0	88
+#
+26	Cocopa	EGG	x m a ʂ u ʔ a p	3 4 7 3 7 1 7 1	ACXBYBYN	GMASYHAP	1	1.G.C 1.M.C 1.A.V 1.S.C 1.Y.V 1.H.C 1.A.V 1.P.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	xmaʂuʔap	0	91
+139	Ipai	EGG	ʔ u ɹ	1 7 5	AXN	HYR	2	2.H.C 2.Y.V 2.R.c	2.0 1.5 0.8	ʔuɹ	0	92
+255	Mohave	EGG	i θ ʔ a w	7 3 1 7 6	XMBYN	IDHAW	3	3.I.V 3.D.c 3.H.C 3.A.V 3.W.c	1.5 1.1 1.75 1.3 0.8	iθʔaw	0	93
+381	Tipai	EGG	ʃ ə j a ʧ	3 7 6 7 2	AXBYN	SEJAC	4	4.S.C 4.E.V 4.J.C 4.A.V 4.C.c	2.0 1.5 1.75 1.3 0.8	ʃəjaʧ	0	94
+475	Yavapai	EGG	s q a w a	3 1 7 6 7	ACYBZ	SKAWA	5	5.S.C 5.K.C 5.A.V 5.W.C 5.A.V	2.0 1.5 1.3 1.75 0.8	sqawa	0	95
+#
+27	Cocopa	EYE	ʔ i j u	1 7 6 7	AXBZ	HIJY	1	1.H.C 1.I.V 1.J.C 1.Y.V	2.0 1.5 1.75 0.8	ʔiju	0	96
+140	Ipai	EYE	ə j iː w	7 6 7 6	XBYN	EJIW	2	2.E.V 2.J.C 2.I.V 2.W.c	1.5 1.75 1.3 0.8	əjiːw	0	96
+256	Mohave	EYE	iː ð o	7 3 7	XBZ	IDU	3	3.I.V 3.D.C 3.U.V	1.5 1.75 0.8	iːðo	0	98
+382	Tipai	EYE	j iː w	6 7 6	AXN	JIW	4	4.J.C 4.I.V 4.W.c	2.0 1.5 0.8	jiːw	0	96
+476	Yavapai	EYE	j u	6 7	AX	JY	5	5.J.C 5.Y.V	2.0 1.5	ju	0	96
+#
+106	Cocopa	FAR	k u ɾ	1 7 5	AXN	KYR	1	1.K.C 1.Y.V 1.R.c	2.0 1.5 0.8	kuɾ	0	99
+219	Ipai	FAR	ʔ ə k u ɹ	1 7 1 7 5	AXBYN	HEKYR	2	2.H.C 2.E.V 2.K.C 2.Y.V 2.R.c	2.0 1.5 1.75 1.3 0.8	ʔəkuɹ	0	99
+345	Mohave	FAR	ʔ a m iː ʧ k	1 7 4 7 2 1	AXBYLN	HAMICK	3	3.H.C 3.A.V 3.M.C 3.I.V 3.C.c 3.K.c	2.0 1.5 1.75 1.3 1.1 0.8	ʔamiːʧk	0	101
+443	Tipai	FAR	k u r	1 7 5	AXN	KYR	4	4.K.C 4.Y.V 4.R.c	2.0 1.5 0.8	kur	0	99
+560	Yavapai	FAR	t w a j i	1 6 7 6 7	ACXBZ	TWAJI	5	5.T.C 5.W.C 5.A.V 5.J.C 5.I.V	2.0 1.5 1.5 1.75 0.8	twaji	0	103
+561	Yavapai	FAR	t w a j i	1 6 7 6 7	ACXBZ	TWAJI	5	5.T.C 5.W.C 5.A.V 5.J.C 5.I.V	2.0 1.5 1.5 1.75 0.8	twaji	1	103
+#
+28	Cocopa	FAT (FROM ANIMALS)	ʃ a j	3 7 6	AXN	SAJ	1	1.S.C 1.A.V 1.J.c	2.0 1.5 0.8	ʃaj	0	104
+257	Mohave	FAT (FROM ANIMALS)	ʔ a m u s a j	1 7 4 7 3 7 6	AXBYBYN	HAMYSAJ	3	3.H.C 3.A.V 3.M.C 3.Y.V 3.S.C 3.A.V 3.J.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʔamusaj	0	104
+477	Yavapai	FAT (FROM ANIMALS)	s a j a	3 7 6 7	AXBZ	SAJA	5	5.S.C 5.A.V 5.J.C 5.A.V	2.0 1.5 1.75 0.8	saja	0	104
+#
+29	Cocopa	FEATHER	ʃ a w a l	3 7 6 7 5	AXBYN	SAWAL	1	1.S.C 1.A.V 1.W.C 1.A.V 1.L.c	2.0 1.5 1.75 1.3 0.8	ʃawal	0	105
+258	Mohave	FEATHER	s i v iː ʎ	3 7 3 7 5	AXBYN	SIBIL	3	3.S.C 3.I.V 3.B.C 3.I.V 3.L.c	2.0 1.5 1.75 1.3 0.8	siviːʎ	0	105
+478	Yavapai	FEATHER	w a l a	6 7 5 7	AXBZ	WALA	5	5.W.C 5.A.V 5.L.C 5.A.V	2.0 1.5 1.75 0.8	wala	0	107
+#
+30	Cocopa	FIRE	ʔ a ʔ aː	1 7 1 7	AXBZ	HAHA	1	1.H.C 1.A.V 1.H.C 1.A.V	2.0 1.5 1.75 0.8	ʔaʔaː	0	108
+141	Ipai	FIRE	ʔ aː w	1 7 6	AXN	HAW	2	2.H.C 2.A.V 2.W.c	2.0 1.5 0.8	ʔaːw	0	109
+259	Mohave	FIRE	ʔ a ʔ a w	1 7 1 7 6	AXBYN	HAHAW	3	3.H.C 3.A.V 3.H.C 3.A.V 3.W.c	2.0 1.5 1.75 1.3 0.8	ʔaʔaw	0	108
+479	Yavapai	FIRE	ʔ ʔ o	1 1 7	ACZ	HHU	5	5.H.C 5.H.C 5.U.V	2.0 1.5 0.8	ʔʔo	0	108
+#
+31	Cocopa	FISH	s i ʔ i ʎ̥	3 7 1 7 5	AXBYN	SIHIL	1	1.S.C 1.I.V 1.H.C 1.I.V 1.L.c	2.0 1.5 1.75 1.3 0.8	siʔiʎ̥	0	110
+260	Mohave	FISH	ʔ a ʧ iː	1 7 2 7	AXBZ	HACI	3	3.H.C 3.A.V 3.C.C 3.I.V	2.0 1.5 1.75 0.8	ʔaʧiː	0	111
+480	Yavapai	FISH	ʔ ʧ i	1 2 7	ACX	HCI	5	5.H.C 5.C.C 5.I.V	2.0 1.5 1.5	ʔʧi	0	111
+#
+32	Cocopa	FLY (MOVE THROUGH AIR)	m a n	4 7 4	AXN	MAN	1	1.M.C 1.A.V 1.N.c	2.0 1.5 0.8	man	0	112
+142	Ipai	FLY (MOVE THROUGH AIR)	w ə m a n̪	6 7 4 7 4	AXBYN	WEMAN	2	2.W.C 2.E.V 2.M.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	wəman̪	0	112
+143	Ipai	FLY (MOVE THROUGH AIR)	u m a n̪	7 4 7 4	XBYN	YMAN	2	2.Y.V 2.M.C 2.A.V 2.N.c	1.5 1.75 1.3 0.8	uman̪	0	112
+261	Mohave	FLY (MOVE THROUGH AIR)	i j e r k	7 6 7 5 1	XBYLN	IJERK	3	3.I.V 3.J.C 3.E.V 3.R.c 3.K.c	1.5 1.75 1.3 1.1 0.8	ijerk	0	114
+481	Yavapai	FLY (MOVE THROUGH AIR)	β j a r i	3 6 7 5 7	ACXBZ	BJARI	5	5.B.C 5.J.C 5.A.V 5.R.C 5.I.V	2.0 1.5 1.5 1.75 0.8	βjari	0	115
+#
+33	Cocopa	FOOT	ʔ i m iː	1 7 4 7	AXBZ	HIMI	1	1.H.C 1.I.V 1.M.C 1.I.V	2.0 1.5 1.75 0.8	ʔimiː	0	116
+144	Ipai	FOOT	ə m i lʲ	7 4 7 5	XBYN	EMIL	2	2.E.V 2.M.C 2.I.V 2.L.c	1.5 1.75 1.3 0.8	əmilʲ	0	116
+262	Mohave	FOOT	iː m e	7 4 7	XBZ	IME	3	3.I.V 3.M.C 3.E.V	1.5 1.75 0.8	iːme	0	116
+383	Tipai	FOOT	m iː	4 7	AX	MI	4	4.M.C 4.I.V	2.0 1.5	miː	0	116
+482	Yavapai	FOOT	m i	4 7	AX	MI	5	5.M.C 5.I.V	2.0 1.5	mi	0	116
+#
+34	Cocopa	FULL	ʧ p u ɾ	2 1 7 5	ACYN	CPYR	1	1.C.C 1.P.C 1.Y.V 1.R.c	2.0 1.5 1.3 0.8	ʧpuɾ	0	117
+145	Ipai	FULL	t̪ ə m u ɹ	1 7 4 7 5	AXBYN	TEMYR	2	2.T.C 2.E.V 2.M.C 2.Y.V 2.R.c	2.0 1.5 1.75 1.3 0.8	t̪əmuɹ	0	117
+263	Mohave	FULL	t a p eː s m	1 7 1 7 3 4	AXBYBC	TAPESM	3	3.T.C 3.A.V 3.P.C 3.E.V 3.S.C 3.M.C	2.0 1.5 1.75 1.3 1.75 1.5	tapeːsm	0	119
+384	Tipai	FULL	t̪ ə m ʔ u r	1 7 4 1 7 5	AXMBYN	TEMHYR	4	4.T.C 4.E.V 4.M.c 4.H.C 4.Y.V 4.R.c	2.0 1.5 1.1 1.75 1.3 0.8	t̪əmʔur	0	117
+483	Yavapai	FULL	t m p i r i	1 4 1 7 5 7	AXBYBZ	TMPIRI	5	5.T.C 5.M.V 5.P.C 5.I.V 5.R.C 5.I.V	2.0 1.5 1.75 1.3 1.75 0.8	tmpiri	0	121
+#
+35	Cocopa	GIVE	iː	7	X	I	1	1.I.V	1.5	iː	0	122
+146	Ipai	GIVE	w i nʲ	6 7 4	AXN	WIN	2	2.W.C 2.I.V 2.N.c	2.0 1.5 0.8	winʲ	0	123
+264	Mohave	GIVE	a j m	7 6 4	XLN	AJM	3	3.A.V 3.J.c 3.M.c	1.5 1.1 0.8	ajm	0	124
+265	Mohave	GIVE	a a j m	7 7 6 4	XYLN	AAJM	3	3.A.V 3.A.V 3.J.c 3.M.c	1.5 1.3 1.1 0.8	aajm	0	124
+385	Tipai	GIVE	i ɲ	7 4	XN	IN	4	4.I.V 4.N.c	1.5 0.8	iɲ	0	123
+484	Yavapai	GIVE	ʔ e	1 7	AX	HE	5	5.H.C 5.E.V	2.0 1.5	ʔe	0	126
+#
+36	Cocopa	GOOD	p xʷ a j	1 3 7 6	ACXN	PGAJ	1	1.P.C 1.G.C 1.A.V 1.J.c	2.0 1.5 1.5 0.8	pxʷaj	0	127
+147	Ipai	GOOD	ʔ ə x a n̪	1 7 3 7 4	AXBYN	HEGAN	2	2.H.C 2.E.V 2.G.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	ʔəxan̪	0	127
+266	Mohave	GOOD	ʔ a h o t k	1 7 3 7 1 1	AXBYLN	HAHUTK	3	3.H.C 3.A.V 3.H.C 3.U.V 3.T.c 3.K.c	2.0 1.5 1.75 1.3 1.1 0.8	ʔahotk	0	129
+267	Mohave	GOOD	ʔ a h oː t k	1 7 3 7 1 1	AXBYLN	HAHUTK	3	3.H.C 3.A.V 3.H.C 3.U.V 3.T.c 3.K.c	2.0 1.5 1.75 1.3 1.1 0.8	ʔahoːtk	0	129
+386	Tipai	GOOD	ʔ iː x a n	1 7 3 7 4	AXBYN	HIGAN	4	4.H.C 4.I.V 4.G.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 0.8	ʔiːxan	0	127
+387	Tipai	GOOD	x a n	3 7 4	AXN	GAN	4	4.G.C 4.A.V 4.N.c	2.0 1.5 0.8	xan	0	127
+485	Yavapai	GOOD	ʔ h a n i	1 3 7 4 7	ACXBZ	HHANI	5	5.H.C 5.H.C 5.A.V 5.N.C 5.I.V	2.0 1.5 1.5 1.75 0.8	ʔhani	0	129
+#
+37	Cocopa	GREEN	x p s i w	3 1 3 7 6	ACCYN	GPSIW	1	1.G.C 1.P.C 1.S.C 1.I.V 1.W.c	2.0 1.5 1.5 1.3 0.8	xpsiw	0	130
+148	Ipai	GREEN	x ə p ə ʂ i w	3 7 1 7 3 7 6	AXBYBYN	GEPESIW	2	2.G.C 2.E.V 2.P.C 2.E.V 2.S.C 2.I.V 2.W.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	xəpəʂiw	0	130
+268	Mohave	GREEN	h a v a s uː k	3 7 3 7 3 7 1	AXBYBYN	HABASYK	3	3.H.C 3.A.V 3.B.C 3.A.V 3.S.C 3.Y.V 3.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	havasuːk	0	132
+388	Tipai	GREEN	x ə p ʃ i w	3 7 1 3 7 6	AXBCYN	GEPSIW	4	4.G.C 4.E.V 4.P.C 4.S.C 4.I.V 4.W.c	2.0 1.5 1.75 1.5 1.3 0.8	xəpʃiw	0	130
+486	Yavapai	GREEN	h a β s u w i	3 7 3 3 7 6 7	AXMBYBZ	HABSYWI	5	5.H.C 5.A.V 5.B.c 5.S.C 5.Y.V 5.W.C 5.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	haβsuwi	0	132
+#
+38	Cocopa	HAIR	m xʷ a ɬ	4 3 7 5	ACYN	MGAL	1	1.M.C 1.G.C 1.A.V 1.L.c	2.0 1.5 1.3 0.8	mxʷaɬ	0	133
+149	Ipai	HAIR	x ə ɬʲ t̪ aː	3 7 5 1 7	AXMBZ	GELTA	2	2.G.C 2.E.V 2.L.c 2.T.C 2.A.V	2.0 1.5 1.1 1.75 0.8	xəɬʲt̪aː	0	134
+269	Mohave	HAIR	i ʔ e	7 1 7	XBZ	IHE	3	3.I.V 3.H.C 3.E.V	1.5 1.75 0.8	iʔe	0	135
+270	Mohave	HAIR	ɲ i ʔ e	4 7 1 7	AXBZ	NIHE	3	3.N.C 3.I.V 3.H.C 3.E.V	2.0 1.5 1.75 0.8	ɲiʔe	0	135
+389	Tipai	HAIR	ʎ̥ t̪ a	5 1 7	ACZ	LTA	4	4.L.C 4.T.C 4.A.V	2.0 1.5 0.8	ʎ̥t̪a	0	134
+487	Yavapai	HAIR	q w a w a	1 6 7 6 7	ACXBZ	KWAWA	5	5.K.C 5.W.C 5.A.V 5.W.C 5.A.V	2.0 1.5 1.5 1.75 0.8	qwawa	0	137
+#
+39	Cocopa	HAND	ʔ i ʃ aː ʎ̥	1 7 3 7 5	AXBYN	HISAL	1	1.H.C 1.I.V 1.S.C 1.A.V 1.L.c	2.0 1.5 1.75 1.3 0.8	ʔiʃaːʎ̥	0	138
+150	Ipai	HAND	ə s a ɬʲ	7 3 7 5	XBYN	ESAL	2	2.E.V 2.S.C 2.A.V 2.L.c	1.5 1.75 1.3 0.8	əsaɬʲ	0	138
+271	Mohave	HAND	iː s a ʎ	7 3 7 5	XBYN	ISAL	3	3.I.V 3.S.C 3.A.V 3.L.c	1.5 1.75 1.3 0.8	iːsaʎ	0	138
+390	Tipai	HAND	ʃ a ʎ̥	3 7 5	AXN	SAL	4	4.S.C 4.A.V 4.L.c	2.0 1.5 0.8	ʃaʎ̥	0	138
+488	Yavapai	HAND	s a l	3 7 5	AXN	SAL	5	5.S.C 5.A.V 5.L.c	2.0 1.5 0.8	sal	0	138
+#
+40	Cocopa	HEAD	m k u ɾ	4 1 7 5	ACYN	MKYR	1	1.M.C 1.K.C 1.Y.V 1.R.c	2.0 1.5 1.3 0.8	mkuɾ	0	139
+151	Ipai	HEAD	x ə ɬʲ t̪ aː	3 7 5 1 7	AXMBZ	GELTA	2	2.G.C 2.E.V 2.L.c 2.T.C 2.A.V	2.0 1.5 1.1 1.75 0.8	xəɬʲt̪aː	1	140
+272	Mohave	HEAD	ʧ u k s a	2 7 1 3 7	AXBCZ	CYKSA	3	3.C.C 3.Y.V 3.K.C 3.S.C 3.A.V	2.0 1.5 1.75 1.5 0.8	ʧuksa	0	141
+273	Mohave	HEAD	ʧ u s k a	2 7 3 1 7	AXMBZ	CYSKA	3	3.C.C 3.Y.V 3.S.c 3.K.C 3.A.V	2.0 1.5 1.1 1.75 0.8	ʧuska	0	141
+391	Tipai	HEAD	ʎ̥ m u	5 4 7	ACZ	LMY	4	4.L.C 4.M.C 4.Y.V	2.0 1.5 0.8	ʎ̥mu	0	142
+489	Yavapai	HEAD	h uː	3 7	AX	HY	5	5.H.C 5.Y.V	2.0 1.5	huː	0	143
+#
+41	Cocopa	HEAR	ʔ iː ʔ iː p	1 7 1 7 1	AXBYN	HIHIP	1	1.H.C 1.I.V 1.H.C 1.I.V 1.P.c	2.0 1.5 1.75 1.3 0.8	ʔiːʔiːp	0	144
+152	Ipai	HEAR	j i p	6 7 1	AXN	JIP	2	2.J.C 2.I.V 2.P.c	2.0 1.5 0.8	jip	0	144
+274	Mohave	HEAR	a ʔ a v k	7 1 7 3 1	XBYLN	AHABK	3	3.A.V 3.H.C 3.A.V 3.B.c 3.K.c	1.5 1.75 1.3 1.1 0.8	aʔavk	0	146
+392	Tipai	HEAR	ʔ i p	1 7 1	AXN	HIP	4	4.H.C 4.I.V 4.P.c	2.0 1.5 0.8	ʔip	0	144
+490	Yavapai	HEAR	ʔ e β i	1 7 3 7	AXBZ	HEBI	5	5.H.C 5.E.V 5.B.C 5.I.V	2.0 1.5 1.75 0.8	ʔeβi	0	148
+#
+42	Cocopa	HEART	ʔ i j aː j	1 7 6 7 6	AXBYN	HIJAJ	1	1.H.C 1.I.V 1.J.C 1.A.V 1.J.c	2.0 1.5 1.75 1.3 0.8	ʔijaːj	0	149
+153	Ipai	HEART	iː ʧ i x	7 2 7 3	XBYN	ICIG	2	2.I.V 2.C.C 2.I.V 2.G.c	1.5 1.75 1.3 0.8	iːʧix	1	150
+275	Mohave	HEART	iː w a	7 6 7	XBZ	IWA	3	3.I.V 3.W.C 3.A.V	1.5 1.75 0.8	iːwa	1	151
+393	Tipai	HEART	iː ʧ a ʃ	7 2 7 3	XBYN	ICAS	4	4.I.V 4.C.C 4.A.V 4.S.c	1.5 1.75 1.3 0.8	iːʧaʃ	0	152
+491	Yavapai	HEART	i w a j a	7 6 7 6 7	XBYBZ	IWAJA	5	5.I.V 5.W.C 5.A.V 5.J.C 5.A.V	1.5 1.75 1.3 1.75 0.8	iwaja	0	153
+#
+107	Cocopa	HEAVY	ɲ i x	4 7 3	AXN	NIG	1	1.N.C 1.I.V 1.G.c	2.0 1.5 0.8	ɲix	0	154
+220	Ipai	HEAVY	w ə n̪ i x	6 7 4 7 3	AXBYN	WENIG	2	2.W.C 2.E.V 2.N.C 2.I.V 2.G.c	2.0 1.5 1.75 1.3 0.8	wən̪ix	0	154
+221	Ipai	HEAVY	w ə n̪ a x	6 7 4 7 3	AXBYN	WENAG	2	2.W.C 2.E.V 2.N.C 2.A.V 2.G.c	2.0 1.5 1.75 1.3 0.8	wən̪ax	0	154
+346	Mohave	HEAVY	i n eː h	7 4 7 3	XBYN	INEH	3	3.I.V 3.N.C 3.E.V 3.H.c	1.5 1.75 1.3 0.8	ineːh	0	154
+347	Mohave	HEAVY	i n eː θ	7 4 7 3	XBYN	INED	3	3.I.V 3.N.C 3.E.V 3.D.c	1.5 1.75 1.3 0.8	ineːθ	0	154
+444	Tipai	HEAVY	n i x	4 7 3	AXN	NIG	4	4.N.C 4.I.V 4.G.c	2.0 1.5 0.8	nix	0	154
+562	Yavapai	HEAVY	n o	4 7	AX	NU	5	5.N.C 5.U.V	2.0 1.5	no	0	158
+#
+43	Cocopa	HORN (ANATOMY)	kʷ a	1 7	AX	KA	1	1.K.C 1.A.V	2.0 1.5	kʷa	0	159
+154	Ipai	HORN (ANATOMY)	ə kʷ aː	7 1 7	XBZ	EKA	2	2.E.V 2.K.C 2.A.V	1.5 1.75 0.8	əkʷaː	0	159
+276	Mohave	HORN (ANATOMY)	iː kʷ e	7 1 7	XBZ	IKE	3	3.I.V 3.K.C 3.E.V	1.5 1.75 0.8	iːkʷe	0	159
+492	Yavapai	HORN (ANATOMY)	kʷ a	1 7	AX	KA	5	5.K.C 5.A.V	2.0 1.5	kʷa	0	159
+#
+44	Cocopa	I	ɲ aː ʧ	4 7 2	AXN	NAC	1	1.N.C 1.A.V 1.C.c	2.0 1.5 0.8	ɲaːʧ	0	160
+155	Ipai	I	ʔ ə nʲ aː ʧ	1 7 4 7 2	AXBYN	HENAC	2	2.H.C 2.E.V 2.N.C 2.A.V 2.C.c	2.0 1.5 1.75 1.3 0.8	ʔənʲaːʧ	0	160
+277	Mohave	I	ʔ i ɲ e ʧ	1 7 4 7 2	AXBYN	HINEC	3	3.H.C 3.I.V 3.N.C 3.E.V 3.C.c	2.0 1.5 1.75 1.3 0.8	ʔiɲeʧ	0	160
+394	Tipai	I	ɲ aː ʧ	4 7 2	AXN	NAC	4	4.N.C 4.A.V 4.C.c	2.0 1.5 0.8	ɲaːʧ	0	160
+493	Yavapai	I	ʔ ɲ a ʧ i	1 4 7 2 7	ACXBZ	HNACI	5	5.H.C 5.N.C 5.A.V 5.C.C 5.I.V	2.0 1.5 1.5 1.75 0.8	ʔɲaʧi	0	160
+#
+45	Cocopa	KILL	n a k	4 7 1	AXN	NAK	1	1.N.C 1.A.V 1.K.c	2.0 1.5 0.8	nak	0	161
+156	Ipai	KILL	aː m uː ʧ	7 4 7 2	XBYN	AMYC	2	2.A.V 2.M.C 2.Y.V 2.C.c	1.5 1.75 1.3 0.8	aːmuːʧ	0	162
+278	Mohave	KILL	t a p u j m	1 7 1 7 6 4	AXBYLN	TAPYJM	3	3.T.C 3.A.V 3.P.C 3.Y.V 3.J.c 3.M.c	2.0 1.5 1.75 1.3 1.1 0.8	tapujm	0	163
+395	Tipai	KILL	aː m uː ʧ	7 4 7 2	XBYN	AMYC	4	4.A.V 4.M.C 4.Y.V 4.C.c	1.5 1.75 1.3 0.8	aːmuːʧ	0	162
+494	Yavapai	KILL	n e h i	4 7 3 7	AXBZ	NEHI	5	5.N.C 5.E.V 5.H.C 5.I.V	2.0 1.5 1.75 0.8	nehi	0	165
+#
+46	Cocopa	KNEE	ʔ i m iː t aː k aː ɲ	1 7 4 7 1 7 1 7 4	AXBYBYBYN	HIMITAKAN	1	1.H.C 1.I.V 1.M.C 1.I.V 1.T.C 1.A.V 1.K.C 1.A.V 1.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	ʔimiːtaːkaːɲ	0	166
+157	Ipai	KNEE	m ə x ə t̪ u n̪	4 7 3 7 1 7 4	AXBYBYN	MEGETYN	2	2.M.C 2.E.V 2.G.C 2.E.V 2.T.C 2.Y.V 2.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	məxət̪un̪	0	166
+158	Ipai	KNEE	x ə m ə t̪ u n̪	3 7 4 7 1 7 4	AXBYBYN	GEMETYN	2	2.G.C 2.E.V 2.M.C 2.E.V 2.T.C 2.Y.V 2.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	xəmət̪un̪	0	166
+279	Mohave	KNEE	iː m e m i p u k	7 4 7 4 7 1 7 1	XBYBYBYN	IMEMIPYK	3	3.I.V 3.M.C 3.E.V 3.M.C 3.I.V 3.P.C 3.Y.V 3.K.c	1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	iːmemipuk	0	168
+396	Tipai	KNEE	m iː n ə p u k	4 7 4 7 1 7 1	AXBYBYN	MINEPYK	4	4.M.C 4.I.V 4.N.C 4.E.V 4.P.C 4.Y.V 4.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	miːnəpuk	0	168
+495	Yavapai	KNEE	m i p u k	4 7 1 7 1	AXBYN	MIPYK	5	5.M.C 5.I.V 5.P.C 5.Y.V 5.K.c	2.0 1.5 1.75 1.3 0.8	mipuk	0	170
+#
+47	Cocopa	KNOW (SOMETHING)	ʔ uː j aː	1 7 6 7	AXBZ	HYJA	1	1.H.C 1.Y.V 1.J.C 1.A.V	2.0 1.5 1.75 0.8	ʔuːjaː	0	171
+159	Ipai	KNOW (SOMETHING)	n̪ u ɹ	4 7 5	AXN	NYR	2	2.N.C 2.Y.V 2.R.c	2.0 1.5 0.8	n̪uɹ	0	172
+280	Mohave	KNOW (SOMETHING)	s uː p a w m	3 7 1 7 6 4	AXBYLN	SYPAWM	3	3.S.C 3.Y.V 3.P.C 3.A.V 3.W.c 3.M.c	2.0 1.5 1.75 1.3 1.1 0.8	suːpawm	0	173
+397	Tipai	KNOW (SOMETHING)	uː j aː w	7 6 7 6	XBYN	YJAW	4	4.Y.V 4.J.C 4.A.V 4.W.c	1.5 1.75 1.3 0.8	uːjaːw	0	171
+496	Yavapai	KNOW (SOMETHING)	s p o	3 1 7	ACZ	SPU	5	5.S.C 5.P.C 5.U.V	2.0 1.5 0.8	spo	0	173
+#
+48	Cocopa	LEAF	w a l	6 7 5	AXN	WAL	1	1.W.C 1.A.V 1.L.c	2.0 1.5 0.8	wal	0	174
+160	Ipai	LEAF	ʔ ə j a ɬ	1 7 6 7 5	AXBYN	HEJAL	2	2.H.C 2.E.V 2.J.C 2.A.V 2.L.c	2.0 1.5 1.75 1.3 0.8	ʔəjaɬ	0	175
+281	Mohave	LEAF	h a m a ʎ	3 7 4 7 5	AXBYN	HAMAL	3	3.H.C 3.A.V 3.M.C 3.A.V 3.L.c	2.0 1.5 1.75 1.3 0.8	hamaʎ	0	175
+497	Yavapai	LEAF	θ e q a	3 7 1 7	AXBZ	DEKA	5	5.D.C 5.E.V 5.K.C 5.A.V	2.0 1.5 1.75 0.8	θeqa	0	177
+#
+49	Cocopa	LIE (REST)	j a k	6 7 1	AXN	JAK	1	1.J.C 1.A.V 1.K.c	2.0 1.5 0.8	jak	0	178
+161	Ipai	LIE (REST)	j a q	6 7 1	AXN	JAK	2	2.J.C 2.A.V 2.K.c	2.0 1.5 0.8	jaq	0	178
+282	Mohave	LIE (REST)	i ð i k k	7 3 7 1 1	XBYLN	IDIKK	3	3.I.V 3.D.C 3.I.V 3.K.c 3.K.c	1.5 1.75 1.3 1.1 0.8	iðikk	0	180
+398	Tipai	LIE (REST)	j a k	6 7 1	AXN	JAK	4	4.J.C 4.A.V 4.K.c	2.0 1.5 0.8	jak	0	178
+498	Yavapai	LIE (REST)	j a k i	6 7 1 7	AXBZ	JAKI	5	5.J.C 5.A.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	jaki	0	178
+#
+50	Cocopa	LIVER	ʧ p u ʂ u	2 1 7 3 7	ACYBZ	CPYSY	1	1.C.C 1.P.C 1.Y.V 1.S.C 1.Y.V	2.0 1.5 1.3 1.75 0.8	ʧpuʂu	0	181
+162	Ipai	LIVER	ʧ ə p ə s iː	2 7 1 7 3 7	AXBYBZ	CEPESI	2	2.C.C 2.E.V 2.P.C 2.E.V 2.S.C 2.I.V	2.0 1.5 1.75 1.3 1.75 0.8	ʧəpəsiː	0	181
+283	Mohave	LIVER	ʧ a v u θ iː	2 7 3 7 3 7	AXBYBZ	CABYDI	3	3.C.C 3.A.V 3.B.C 3.Y.V 3.D.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	ʧavuθiː	0	183
+399	Tipai	LIVER	t̪ ə p s i	1 7 1 3 7	AXBCZ	TEPSI	4	4.T.C 4.E.V 4.P.C 4.S.C 4.I.V	2.0 1.5 1.75 1.5 0.8	t̪əpsi	0	181
+499	Yavapai	LIVER	ʧ β θ i	2 3 3 7	ACBX	CBDI	5	5.C.C 5.B.C 5.D.C 5.I.V	2.0 1.5 1.75 1.5	ʧβθi	0	183
+#
+51	Cocopa	LONG	k u ʎ̥	1 7 5	AXN	KYL	1	1.K.C 1.Y.V 1.L.c	2.0 1.5 0.8	kuʎ̥	0	184
+163	Ipai	LONG	ʔ ə q u ɬ	1 7 1 7 5	AXBYN	HEKYL	2	2.H.C 2.E.V 2.K.C 2.Y.V 2.L.c	2.0 1.5 1.75 1.3 0.8	ʔəquɬ	0	184
+284	Mohave	LONG	ʔ a kʲ uː ʎ m	1 7 1 7 5 4	AXBYLN	HAKYLM	3	3.H.C 3.A.V 3.K.C 3.Y.V 3.L.c 3.M.c	2.0 1.5 1.75 1.3 1.1 0.8	ʔakʲuːʎm	0	184
+500	Yavapai	LONG	kʲ u l i	1 7 5 7	AXBZ	KYLI	5	5.K.C 5.Y.V 5.L.C 5.I.V	2.0 1.5 1.75 0.8	kʲuli	0	184
+#
+52	Cocopa	LOUSE	ʔ i ʔ i ʎ̥	1 7 1 7 5	AXBYN	HIHIL	1	1.H.C 1.I.V 1.H.C 1.I.V 1.L.c	2.0 1.5 1.75 1.3 0.8	ʔiʔiʎ̥	0	185
+164	Ipai	LOUSE	ə m i ɬʲ	7 4 7 5	XBYN	EMIL	2	2.E.V 2.M.C 2.I.V 2.L.c	1.5 1.75 1.3 0.8	əmiɬʲ	0	186
+285	Mohave	LOUSE	ɲ i ʔ iː ʎ	4 7 1 7 5	AXBYN	NIHIL	3	3.N.C 3.I.V 3.H.C 3.I.V 3.L.c	2.0 1.5 1.75 1.3 0.8	ɲiʔiːʎ	0	185
+501	Yavapai	LOUSE	h ʔ e l	3 1 7 5	ACYN	HHEL	5	5.H.C 5.H.C 5.E.V 5.L.c	2.0 1.5 1.3 0.8	hʔel	0	185
+#
+53	Cocopa	MAN	ʔ a p a	1 7 1 7	AXBZ	HAPA	1	1.H.C 1.A.V 1.P.C 1.A.V	2.0 1.5 1.75 0.8	ʔapa	0	187
+165	Ipai	MAN	ʔ iː kʷ i ʧ	1 7 1 7 2	AXBYN	HIKIC	2	2.H.C 2.I.V 2.K.C 2.I.V 2.C.c	2.0 1.5 1.75 1.3 0.8	ʔiːkʷiʧ	0	188
+286	Mohave	MAN	ʔ iː p a	1 7 1 7	AXBZ	HIPA	3	3.H.C 3.I.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	ʔiːpa	0	187
+400	Tipai	MAN	ʔ iː p a	1 7 1 7	AXBZ	HIPA	4	4.H.C 4.I.V 4.P.C 4.A.V	2.0 1.5 1.75 0.8	ʔiːpa	0	187
+502	Yavapai	MAN	p a h m i j a	1 7 3 4 7 6 7	AXBCYBZ	PAHMIJA	5	5.P.C 5.A.V 5.H.C 5.M.C 5.I.V 5.J.C 5.A.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	pahmija	0	191
+#
+54	Cocopa	MANY	ʎ̥ a j	5 7 6	AXN	LAJ	1	1.L.C 1.A.V 1.J.c	2.0 1.5 0.8	ʎ̥aj	0	192
+166	Ipai	MANY	x ə m iː j	3 7 4 7 6	AXBYN	GEMIJ	2	2.G.C 2.E.V 2.M.C 2.I.V 2.J.c	2.0 1.5 1.75 1.3 0.8	xəmiːj	0	193
+167	Ipai	MANY	ʔ ə x m iː j	1 7 3 4 7 6	AXBCYN	HEGMIJ	2	2.H.C 2.E.V 2.G.C 2.M.C 2.I.V 2.J.c	2.0 1.5 1.75 1.5 1.3 0.8	ʔəxmiːj	0	193
+287	Mohave	MANY	ʔ a p a ʎ m	1 7 1 7 5 4	AXBYLN	HAPALM	3	3.H.C 3.A.V 3.P.C 3.A.V 3.L.c 3.M.c	2.0 1.5 1.75 1.3 1.1 0.8	ʔapaʎm	0	194
+401	Tipai	MANY	ʎ̥ a w	5 7 6	AXN	LAW	4	4.L.C 4.A.V 4.W.c	2.0 1.5 0.8	ʎ̥aw	0	192
+503	Yavapai	MANY	ʔ t e	1 1 7	ACZ	HTE	5	5.H.C 5.T.C 5.E.V	2.0 1.5 0.8	ʔte	0	196
+#
+55	Cocopa	MEAT	ʔ i m aː ʧ	1 7 4 7 2	AXBYN	HIMAC	1	1.H.C 1.I.V 1.M.C 1.A.V 1.C.c	2.0 1.5 1.75 1.3 0.8	ʔimaːʧ	0	197
+168	Ipai	MEAT	k u kʷ aː j p	1 7 1 7 6 1	AXBYLN	KYKAJP	2	2.K.C 2.Y.V 2.K.C 2.A.V 2.J.c 2.P.c	2.0 1.5 1.75 1.3 1.1 0.8	kukʷaːjp	0	198
+288	Mohave	MEAT	kʷ iː kʷ a j	1 7 1 7 6	AXBYN	KIKAJ	3	3.K.C 3.I.V 3.K.C 3.A.V 3.J.c	2.0 1.5 1.75 1.3 0.8	kʷiːkʷaj	0	198
+289	Mohave	MEAT	k iː kʷ a j	1 7 1 7 6	AXBYN	KIKAJ	3	3.K.C 3.I.V 3.K.C 3.A.V 3.J.c	2.0 1.5 1.75 1.3 0.8	kiːkʷaj	0	198
+402	Tipai	MEAT	kʷ a k	1 7 1	AXN	KAK	4	4.K.C 4.A.V 4.K.c	2.0 1.5 0.8	kʷak	0	200
+504	Yavapai	MEAT	kʷ e θ o β a	1 7 3 7 3 7	AXBYBZ	KEDUBA	5	5.K.C 5.E.V 5.D.C 5.U.V 5.B.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kʷeθoβa	0	198
+#
+56	Cocopa	MOON	x ʎ̥ ʔ a	3 5 1 7	AXBZ	GLHA	1	1.G.C 1.L.V 1.H.C 1.A.V	2.0 1.5 1.75 0.8	xʎ̥ʔa	0	201
+169	Ipai	MOON	x ə ɬʲ aː	3 7 5 7	AXBZ	GELA	2	2.G.C 2.E.V 2.L.C 2.A.V	2.0 1.5 1.75 0.8	xəɬʲaː	0	202
+290	Mohave	MOON	h a ʎ ʔ a	3 7 5 1 7	AXMBZ	HALHA	3	3.H.C 3.A.V 3.L.c 3.H.C 3.A.V	2.0 1.5 1.1 1.75 0.8	haʎʔa	0	203
+505	Yavapai	MOON	h l a	3 5 7	ACX	HLA	5	5.H.C 5.L.C 5.A.V	2.0 1.5 1.5	hla	0	203
+#
+57	Cocopa	MOUNTAIN	w iː	6 7	AX	WI	1	1.W.C 1.I.V	2.0 1.5	wiː	0	204
+170	Ipai	MOUNTAIN	m a t̪ ə t̪ a j	4 7 1 7 1 7 6	AXBYBYN	MATETAJ	2	2.M.C 2.A.V 2.T.C 2.E.V 2.T.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mat̪ət̪aj	0	205
+291	Mohave	MOUNTAIN	ʔ a v iː	1 7 3 7	AXBZ	HABI	3	3.H.C 3.A.V 3.B.C 3.I.V	2.0 1.5 1.75 0.8	ʔaviː	0	204
+403	Tipai	MOUNTAIN	m a t kʷ a t̪ a j	4 7 1 1 7 1 7 6	AXMBYBYN	MATKATAJ	4	4.M.C 4.A.V 4.T.c 4.K.C 4.A.V 4.T.C 4.A.V 4.J.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	matkʷat̪aj	0	205
+506	Yavapai	MOUNTAIN	ʔ w i	1 6 7	ACX	HWI	5	5.H.C 5.W.C 5.I.V	2.0 1.5 1.5	ʔwi	0	204
+#
+58	Cocopa	MOUTH	ʔ i j a	1 7 6 7	AXBZ	HIJA	1	1.H.C 1.I.V 1.J.C 1.A.V	2.0 1.5 1.75 0.8	ʔija	0	206
+171	Ipai	MOUTH	aː	7	X	A	2	2.A.V	1.5	aː	0	207
+292	Mohave	MOUTH	iː j a	7 6 7	XBZ	IJA	3	3.I.V 3.J.C 3.A.V	1.5 1.75 0.8	iːja	0	208
+404	Tipai	MOUTH	aː	7	X	A	4	4.A.V	1.5	aː	0	207
+507	Yavapai	MOUTH	j a	6 7	AX	JA	5	5.J.C 5.A.V	2.0 1.5	ja	0	206
+#
+59	Cocopa	NAME	m u ʎ̥	4 7 5	AXN	MYL	1	1.M.C 1.Y.V 1.L.c	2.0 1.5 0.8	muʎ̥	0	209
+172	Ipai	NAME	ʧ ə x i ʧ	2 7 3 7 2	AXBYN	CEGIC	2	2.C.C 2.E.V 2.G.C 2.I.V 2.C.c	2.0 1.5 1.75 1.3 0.8	ʧəxiʧ	0	210
+293	Mohave	NAME	i m uː ʎ	7 4 7 5	XBYN	IMYL	3	3.I.V 3.M.C 3.Y.V 3.L.c	1.5 1.75 1.3 0.8	imuːʎ	0	209
+508	Yavapai	NAME	m u l	4 7 5	AXN	MYL	5	5.M.C 5.Y.V 5.L.c	2.0 1.5 0.8	mul	0	209
+509	Yavapai	NAME	m o l	4 7 5	AXN	MUL	5	5.M.C 5.U.V 5.L.c	2.0 1.5 0.8	mol	0	209
+#
+108	Cocopa	NEAR	x ɾ p a j	3 5 1 7 6	AXBYN	GRPAJ	1	1.G.C 1.R.V 1.P.C 1.A.V 1.J.c	2.0 1.5 1.75 1.3 0.8	xɾpaj	0	211
+222	Ipai	NEAR	x ə lʲ ə p a j	3 7 5 7 1 7 6	AXBYBYN	GELEPAJ	2	2.G.C 2.E.V 2.L.C 2.E.V 2.P.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	xəlʲəpaj	0	211
+348	Mohave	NEAR	i p a n m	7 1 7 4 4	XBYLN	IPANM	3	3.I.V 3.P.C 3.A.V 3.N.c 3.M.c	1.5 1.75 1.3 1.1 0.8	ipanm	0	213
+445	Tipai	NEAR	x ə ʎ p a j	3 7 5 1 7 6	AXMBYN	GELPAJ	4	4.G.C 4.E.V 4.L.c 4.P.C 4.A.V 4.J.c	2.0 1.5 1.1 1.75 1.3 0.8	xəʎpaj	0	211
+563	Yavapai	NEAR	i p e	7 1 7	XBZ	IPE	5	5.I.V 5.P.C 5.E.V	1.5 1.75 0.8	ipe	0	215
+#
+60	Cocopa	NECK	m p u k	4 1 7 1	ACYN	MPYK	1	1.M.C 1.P.C 1.Y.V 1.K.c	2.0 1.5 1.3 0.8	mpuk	0	216
+173	Ipai	NECK	iː p u k	7 1 7 1	XBYN	IPYK	2	2.I.V 2.P.C 2.Y.V 2.K.c	1.5 1.75 1.3 0.8	iːpuk	0	216
+174	Ipai	NECK	ə j ə p u k	7 6 7 1 7 1	XBYBYN	EJEPYK	2	2.E.V 2.J.C 2.E.V 2.P.C 2.Y.V 2.K.c	1.5 1.75 1.3 1.75 1.3 0.8	əjəpuk	0	216
+294	Mohave	NECK	m a ʎ a q e	4 7 5 7 1 7	AXBYBZ	MALAKE	3	3.M.C 3.A.V 3.L.C 3.A.V 3.K.C 3.E.V	2.0 1.5 1.75 1.3 1.75 0.8	maʎaqe	0	218
+405	Tipai	NECK	iː p u k	7 1 7 1	XBYN	IPYK	4	4.I.V 4.P.C 4.Y.V 4.K.c	1.5 1.75 1.3 0.8	iːpuk	0	216
+510	Yavapai	NECK	m l q i	4 5 1 7	AXBZ	MLKI	5	5.M.C 5.L.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	mlqi	0	218
+#
+61	Cocopa	NEW	x a ɲ	3 7 4	AXN	GAN	1	1.G.C 1.A.V 1.N.c	2.0 1.5 0.8	xaɲ	0	219
+175	Ipai	NEW	w ə x a j	6 7 3 7 6	AXBYN	WEGAJ	2	2.W.C 2.E.V 2.G.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 0.8	wəxaj	0	220
+295	Mohave	NEW	m a p iː θ	4 7 1 7 3	AXBYN	MAPID	3	3.M.C 3.A.V 3.P.C 3.I.V 3.D.c	2.0 1.5 1.75 1.3 0.8	mapiːθ	0	221
+511	Yavapai	NEW	i β m u	7 3 4 7	XBCZ	IBMY	5	5.I.V 5.B.C 5.M.C 5.Y.V	1.5 1.75 1.5 0.8	iβmu	0	222
+#
+62	Cocopa	NIGHT	ʧ ɲ a m	2 4 7 4	ACXN	CNAM	1	1.C.C 1.N.C 1.A.V 1.M.c	2.0 1.5 1.5 0.8	ʧɲam	0	223
+176	Ipai	NIGHT	k u x u n	1 7 3 7 4	AXBYN	KYGYN	2	2.K.C 2.Y.V 2.G.C 2.Y.V 2.N.c	2.0 1.5 1.75 1.3 0.8	kuxun	0	224
+296	Mohave	NIGHT	t iː ɲ a m	1 7 4 7 4	AXBYN	TINAM	3	3.T.C 3.I.V 3.N.C 3.A.V 3.M.c	2.0 1.5 1.75 1.3 0.8	tiːɲam	0	223
+406	Tipai	NIGHT	t̪ iː ɲ a m	1 7 4 7 4	AXBYN	TINAM	4	4.T.C 4.I.V 4.N.C 4.A.V 4.M.c	2.0 1.5 1.75 1.3 0.8	t̪iːɲam	0	223
+512	Yavapai	NIGHT	h i p a	3 7 1 7	AXBZ	HIPA	5	5.H.C 5.I.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	hipa	0	227
+#
+63	Cocopa	NOSE	ʔ i x u	1 7 3 7	AXBZ	HIGY	1	1.H.C 1.I.V 1.G.C 1.Y.V	2.0 1.5 1.75 0.8	ʔixu	0	228
+177	Ipai	NOSE	ə x uː	7 3 7	XBZ	EGY	2	2.E.V 2.G.C 2.Y.V	1.5 1.75 0.8	əxuː	0	228
+297	Mohave	NOSE	iː h u	7 3 7	XBZ	IHY	3	3.I.V 3.H.C 3.Y.V	1.5 1.75 0.8	iːhu	0	228
+407	Tipai	NOSE	x u	3 7	AX	GY	4	4.G.C 4.Y.V	2.0 1.5	xu	0	228
+513	Yavapai	NOSE	h uː	3 7	AX	HY	5	5.H.C 5.Y.V	2.0 1.5	huː	1	228
+#
+64	Cocopa	NOT	l u m	5 7 4	AXN	LYM	1	1.L.C 1.Y.V 1.M.c	2.0 1.5 0.8	lum	0	229
+178	Ipai	NOT	u m aː w	7 4 7 6	XBYN	YMAW	2	2.Y.V 2.M.C 2.A.V 2.W.c	1.5 1.75 1.3 0.8	umaːw	0	230
+298	Mohave	NOT	m o t	4 7 1	AXN	MUT	3	3.M.C 3.U.V 3.T.c	2.0 1.5 0.8	mot	0	231
+408	Tipai	NOT	x ə m aː w	3 7 4 7 6	AXBYN	GEMAW	4	4.G.C 4.E.V 4.M.C 4.A.V 4.W.c	2.0 1.5 1.75 1.3 0.8	xəmaːw	0	230
+514	Yavapai	NOT	ʔ u m i	1 7 4 7	AXBZ	HYMI	5	5.H.C 5.Y.V 5.M.C 5.I.V	2.0 1.5 1.75 0.8	ʔumi	0	233
+#
+65	Cocopa	ONE	ʃ i t	3 7 1	AXN	SIT	1	1.S.C 1.I.V 1.T.c	2.0 1.5 0.8	ʃit	0	236
+179	Ipai	ONE	ʔ ə x i n̪ k	1 7 3 7 4 1	AXBYLN	HEGINK	2	2.H.C 2.E.V 2.G.C 2.I.V 2.N.c 2.K.c	2.0 1.5 1.75 1.3 1.1 0.8	ʔəxin̪k	0	235
+299	Mohave	ONE	ʔ a s e n t k	1 7 3 7 4 1 1	AXBYLLN	HASENTK	3	3.H.C 3.A.V 3.S.C 3.E.V 3.N.c 3.T.c 3.K.c	2.0 1.5 1.75 1.3 1.1 1.1 0.8	ʔasentk	0	236
+409	Tipai	ONE	ʃ i n	3 7 4	AXN	SIN	4	4.S.C 4.I.V 4.N.c	2.0 1.5 0.8	ʃin	0	236
+515	Yavapai	ONE	ʔ s i t i	1 3 7 1 7	ACXBZ	HSITI	5	5.H.C 5.S.C 5.I.V 5.T.C 5.I.V	2.0 1.5 1.5 1.75 0.8	ʔsiti	0	236
+516	Yavapai	ONE	ʔ s i t i	1 3 7 1 7	ACXBZ	HSITI	5	5.H.C 5.S.C 5.I.V 5.T.C 5.I.V	2.0 1.5 1.5 1.75 0.8	ʔsiti	1	236
+#
+66	Cocopa	PERSON	ʧ a p a j	2 7 1 7 6	AXBYN	CAPAJ	1	1.C.C 1.A.V 1.P.C 1.A.V 1.J.c	2.0 1.5 1.75 1.3 0.8	ʧapaj	0	237
+180	Ipai	PERSON	ʔ iː p a j	1 7 1 7 6	AXBYN	HIPAJ	2	2.H.C 2.I.V 2.P.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 0.8	ʔiːpaj	0	237
+300	Mohave	PERSON	p i ʔ p a	1 7 1 1 7	AXMBZ	PIHPA	3	3.P.C 3.I.V 3.H.c 3.P.C 3.A.V	2.0 1.5 1.1 1.75 0.8	piʔpa	0	237
+301	Mohave	PERSON	p i ʔ i p a	1 7 1 7 1 7	AXBYBZ	PIHIPA	3	3.P.C 3.I.V 3.H.C 3.I.V 3.P.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	piʔipa	0	237
+302	Mohave	PERSON	p iː p a	1 7 1 7	AXBZ	PIPA	3	3.P.C 3.I.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	piːpa	0	237
+410	Tipai	PERSON	t̪ iː p a j	1 7 1 7 6	AXBYN	TIPAJ	4	4.T.C 4.I.V 4.P.C 4.A.V 4.J.c	2.0 1.5 1.75 1.3 0.8	t̪iːpaj	0	237
+517	Yavapai	PERSON	ʔ p a	1 1 7	ACZ	HPA	5	5.H.C 5.P.C 5.A.V	2.0 1.5 0.8	ʔpa	0	241
+518	Yavapai	PERSON	ʔ p a	1 1 7	ACZ	HPA	5	5.H.C 5.P.C 5.A.V	2.0 1.5 0.8	ʔpa	1	241
+#
+67	Cocopa	RAIN (PRECIPITATION)	p ʔ a j	1 1 7 6	ACYN	PHAJ	1	1.P.C 1.H.C 1.A.V 1.J.c	2.0 1.5 1.3 0.8	pʔaj	0	242
+181	Ipai	RAIN (PRECIPITATION)	ʔ ə kʷ i j	1 7 1 7 6	AXBYN	HEKIJ	2	2.H.C 2.E.V 2.K.C 2.I.V 2.J.c	2.0 1.5 1.75 1.3 0.8	ʔəkʷij	0	243
+303	Mohave	RAIN (PRECIPITATION)	k u v ʔ a w	1 7 3 1 7 6	AXMBYN	KYBHAW	3	3.K.C 3.Y.V 3.B.c 3.H.C 3.A.V 3.W.c	2.0 1.5 1.1 1.75 1.3 0.8	kuvʔaw	0	244
+304	Mohave	RAIN (PRECIPITATION)	k u v ʔ a w	1 7 3 1 7 6	AXMBYN	KYBHAW	3	3.K.C 3.Y.V 3.B.c 3.H.C 3.A.V 3.W.c	2.0 1.5 1.1 1.75 1.3 0.8	kuvʔaw	1	244
+411	Tipai	RAIN (PRECIPITATION)	kʷ iː	1 7	AX	KI	4	4.K.C 4.I.V	2.0 1.5	kʷiː	1	243
+519	Yavapai	RAIN (PRECIPITATION)	k i β a w a	1 7 3 7 6 7	AXBYBZ	KIBAWA	5	5.K.C 5.I.V 5.B.C 5.A.V 5.W.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kiβawa	0	244
+520	Yavapai	RAIN (PRECIPITATION)	k i β a w a	1 7 3 7 6 7	AXBYBZ	KIBAWA	5	5.K.C 5.I.V 5.B.C 5.A.V 5.W.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kiβawa	1	244
+#
+68	Cocopa	RED	xʷ a t	3 7 1	AXN	GAT	1	1.G.C 1.A.V 1.T.c	2.0 1.5 0.8	xʷat	0	245
+182	Ipai	RED	ʔ ə xʷ a t	1 7 3 7 1	AXBYN	HEGAT	2	2.H.C 2.E.V 2.G.C 2.A.V 2.T.c	2.0 1.5 1.75 1.3 0.8	ʔəxʷat	1	245
+305	Mohave	RED	ʔ a hʷ a t m	1 7 3 7 1 4	AXBYBC	HAHATM	3	3.H.C 3.A.V 3.H.C 3.A.V 3.T.C 3.M.C	2.0 1.5 1.75 1.3 1.75 1.5	ʔahʷatm	0	245
+306	Mohave	RED	ʔ a hʷ aː t m	1 7 3 7 1 4	AXBYBC	HAHATM	3	3.H.C 3.A.V 3.H.C 3.A.V 3.T.C 3.M.C	2.0 1.5 1.75 1.3 1.75 1.5	ʔahʷaːtm	0	245
+412	Tipai	RED	xʷ a t	3 7 1	AXN	GAT	4	4.G.C 4.A.V 4.T.c	2.0 1.5 0.8	xʷat	1	245
+521	Yavapai	RED	ʔ hʷ a t i	1 3 7 1 7	ACXBZ	HHATI	5	5.H.C 5.H.C 5.A.V 5.T.C 5.I.V	2.0 1.5 1.5 1.75 0.8	ʔhʷati	0	245
+#
+69	Cocopa	ROAD	w a ɲ a	6 7 4 7	AXBZ	WANA	1	1.W.C 1.A.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	waɲa	0	246
+183	Ipai	ROAD	ʔ uː nʲ aː	1 7 4 7	AXBZ	HYNA	2	2.H.C 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	ʔuːnʲaː	0	246
+307	Mohave	ROAD	ʔ a v ʔ u ɲ e	1 7 3 1 7 4 7	AXMBYBZ	HABHYNE	3	3.H.C 3.A.V 3.B.c 3.H.C 3.Y.V 3.N.C 3.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʔavʔuɲe	0	248
+413	Tipai	ROAD	w a ʔ ɲ a	6 7 1 4 7	AXBCZ	WAHNA	4	4.W.C 4.A.V 4.H.C 4.N.C 4.A.V	2.0 1.5 1.75 1.5 0.8	waʔɲa	0	246
+522	Yavapai	ROAD	ʔ ɲ a	1 4 7	ACX	HNA	5	5.H.C 5.N.C 5.A.V	2.0 1.5 1.5	ʔɲa	0	246
+#
+70	Cocopa	ROOT	ʃ m a	3 4 7	ACX	SMA	1	1.S.C 1.M.C 1.A.V	2.0 1.5 1.5	ʃma	0	249
+184	Ipai	ROOT	p ə x ə m aː	1 7 3 7 4 7	AXBYBZ	PEGEMA	2	2.P.C 2.E.V 2.G.C 2.E.V 2.M.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	pəxəmaː	0	249
+308	Mohave	ROOT	s a m a	3 7 4 7	AXBZ	SAMA	3	3.S.C 3.A.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	sama	0	249
+309	Mohave	ROOT	ʔ i ʧ s a m a	1 7 2 3 7 4 7	AXBCYBZ	HICSAMA	3	3.H.C 3.I.V 3.C.C 3.S.C 3.A.V 3.M.C 3.A.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	ʔiʧsama	0	249
+414	Tipai	ROOT	w a x ə n u	6 7 3 7 4 7	AXBYBZ	WAGENY	4	4.W.C 4.A.V 4.G.C 4.E.V 4.N.C 4.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	waxənu	0	252
+523	Yavapai	ROOT	ʔ ʔ i m s m a	1 1 7 4 3 4 7	ACYMBCZ	HHIMSMA	5	5.H.C 5.H.C 5.I.V 5.M.c 5.S.C 5.M.C 5.A.V	2.0 1.5 1.3 1.1 1.75 1.5 0.8	ʔʔimsma	0	253
+#
+109	Cocopa	SALT	ʂ ʔ i ɾ	3 1 7 5	ACYN	SHIR	1	1.S.C 1.H.C 1.I.V 1.R.c	2.0 1.5 1.3 0.8	ʂʔiɾ	0	254
+223	Ipai	SALT	ʔ ə s i lʲ	1 7 3 7 5	AXBYN	HESIL	2	2.H.C 2.E.V 2.S.C 2.I.V 2.L.c	2.0 1.5 1.75 1.3 0.8	ʔəsilʲ	0	255
+349	Mohave	SALT	ʔ a θ ʔ iː	1 7 3 1 7	AXMBZ	HADHI	3	3.H.C 3.A.V 3.D.c 3.H.C 3.I.V	2.0 1.5 1.1 1.75 0.8	ʔaθʔiː	0	254
+446	Tipai	SALT	s aː l	3 7 5	AXN	SAL	4	4.S.C 4.A.V 4.L.c	2.0 1.5 0.8	saːl	0	255
+564	Yavapai	SALT	ʔ θ i	1 3 7	ACX	HDI	5	5.H.C 5.D.C 5.I.V	2.0 1.5 1.5	ʔθi	0	255
+#
+73	Cocopa	SAND	m a t ʎ̥ ʃ ʔ aː	4 7 1 5 3 1 7	AXBYMBZ	MATLSHA	1	1.M.C 1.A.V 1.T.C 1.L.V 1.S.c 1.H.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	matʎ̥ʃʔaː	0	256
+187	Ipai	SAND	m ə s x a ɹ aː j	4 7 3 3 7 5 7 6	AXMBYBYN	MESGARAJ	2	2.M.C 2.E.V 2.S.c 2.G.C 2.A.V 2.R.C 2.A.V 2.J.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	məsxaɹaːj	0	257
+311	Mohave	SAND	ʔ a m a t s a ʎ ʔ a j	1 7 4 7 1 3 7 5 1 7 6	AXBYBCYMBYN	HAMATSALHAJ	3	3.H.C 3.A.V 3.M.C 3.A.V 3.T.C 3.S.C 3.A.V 3.L.c 3.H.C 3.A.V 3.J.c	2.0 1.5 1.75 1.3 1.75 1.5 1.3 1.1 1.75 1.3 0.8	ʔamatsaʎʔaj	0	258
+312	Mohave	SAND	s a ʎ ʔ a j	3 7 5 1 7 6	AXMBYN	SALHAJ	3	3.S.C 3.A.V 3.L.c 3.H.C 3.A.V 3.J.c	2.0 1.5 1.1 1.75 1.3 0.8	saʎʔaj	0	258
+525	Yavapai	SAND	ʔ h a ʧ w a	1 3 7 2 6 7	ACXBCZ	HHACWA	5	5.H.C 5.H.C 5.A.V 5.C.C 5.W.C 5.A.V	2.0 1.5 1.5 1.75 1.5 0.8	ʔhaʧwa	0	259
+#
+74	Cocopa	SAY	ʔ i	1 7	AX	HI	1	1.H.C 1.I.V	2.0 1.5	ʔi	0	260
+188	Ipai	SAY	w iː	6 7	AX	WI	2	2.W.C 2.I.V	2.0 1.5	wiː	0	261
+313	Mohave	SAY	i m	7 4	XN	IM	3	3.I.V 3.M.c	1.5 0.8	im	0	262
+416	Tipai	SAY	ʔ i	1 7	AX	HI	4	4.H.C 4.I.V	2.0 1.5	ʔi	0	260
+417	Tipai	SAY	i	7	X	I	4	4.I.V	1.5	i	0	260
+526	Yavapai	SAY	ʔ i	1 7	AX	HI	5	5.H.C 5.I.V	2.0 1.5	ʔi	0	260
+#
+75	Cocopa	SEE	w iː	6 7	AX	WI	1	1.W.C 1.I.V	2.0 1.5	wiː	1	263
+189	Ipai	SEE	ə w uː w	7 6 7 6	XBYN	EWYW	2	2.E.V 2.W.C 2.Y.V 2.W.c	1.5 1.75 1.3 0.8	əwuːw	0	264
+314	Mohave	SEE	i j uː k	7 6 7 1	XBYN	IJYK	3	3.I.V 3.J.C 3.Y.V 3.K.c	1.5 1.75 1.3 0.8	ijuːk	0	265
+418	Tipai	SEE	w iː w	6 7 6	AXN	WIW	4	4.W.C 4.I.V 4.W.c	2.0 1.5 0.8	wiːw	0	263
+527	Yavapai	SEE	ʔ u	1 7	AX	HY	5	5.H.C 5.Y.V	2.0 1.5	ʔu	0	267
+#
+76	Cocopa	SEED	j a s	6 7 3	AXN	JAS	1	1.J.C 1.A.V 1.S.c	2.0 1.5 0.8	jas	0	268
+190	Ipai	SEED	ə j a ʧ	7 6 7 2	XBYN	EJAC	2	2.E.V 2.J.C 2.A.V 2.C.c	1.5 1.75 1.3 0.8	əjaʧ	0	269
+315	Mohave	SEED	i ð iː ʧ	7 3 7 2	XBYN	IDIC	3	3.I.V 3.D.C 3.I.V 3.C.c	1.5 1.75 1.3 0.8	iðiːʧ	0	269
+528	Yavapai	SEED	j a ʧ	6 7 2	AXN	JAC	5	5.J.C 5.A.V 5.C.c	2.0 1.5 0.8	jaʧ	0	268
+#
+110	Cocopa	SHORT	x ʎ ʔ u t	3 5 1 7 1	AXBYN	GLHYT	1	1.G.C 1.L.V 1.H.C 1.Y.V 1.T.c	2.0 1.5 1.75 1.3 0.8	xʎʔut	0	270
+224	Ipai	SHORT	m ə p u t k	4 7 1 7 1 1	AXBYLN	MEPYTK	2	2.M.C 2.E.V 2.P.C 2.Y.V 2.T.c 2.K.c	2.0 1.5 1.75 1.3 1.1 0.8	məputk	0	271
+350	Mohave	SHORT	w e n a w e n	6 7 4 7 6 7 4	AXBYBYN	WENAWEN	3	3.W.C 3.E.V 3.N.C 3.A.V 3.W.C 3.E.V 3.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	wenawen	0	272
+447	Tipai	SHORT	l ə ʔ u ɲ	5 7 1 7 4	AXBYN	LEHYN	4	4.L.C 4.E.V 4.H.C 4.Y.V 4.N.c	2.0 1.5 1.75 1.3 0.8	ləʔuɲ	0	273
+565	Yavapai	SHORT	ʧ k r o t i	2 1 5 7 1 7	ACCYBZ	CKRUTI	5	5.C.C 5.K.C 5.R.C 5.U.V 5.T.C 5.I.V	2.0 1.5 1.5 1.3 1.75 0.8	ʧkroti	0	274
+#
+77	Cocopa	SIT	w a	6 7	AX	WA	1	1.W.C 1.A.V	2.0 1.5	wa	0	275
+191	Ipai	SIT	w ə n̪ a k	6 7 4 7 1	AXBYN	WENAK	2	2.W.C 2.E.V 2.N.C 2.A.V 2.K.c	2.0 1.5 1.75 1.3 0.8	wən̪ak	0	276
+316	Mohave	SIT	i v a k	7 3 7 1	XBYN	IBAK	3	3.I.V 3.B.C 3.A.V 3.K.c	1.5 1.75 1.3 0.8	ivak	0	277
+419	Tipai	SIT	w a	6 7	AX	WA	4	4.W.C 4.A.V	2.0 1.5	wa	0	275
+529	Yavapai	SIT	w a	6 7	AX	WA	5	5.W.C 5.A.V	2.0 1.5	wa	0	275
+#
+78	Cocopa	SKIN	ɲ kʷ ʔ a ɬ	4 1 1 7 5	AMBYN	NKHAL	1	1.N.C 1.K.c 1.H.C 1.A.V 1.L.c	2.0 1.1 1.75 1.3 0.8	ɲkʷʔaɬ	0	278
+192	Ipai	SKIN	ə kʷ a ɬʲ	7 1 7 5	XBYN	EKAL	2	2.E.V 2.K.C 2.A.V 2.L.c	1.5 1.75 1.3 0.8	əkʷaɬʲ	0	279
+317	Mohave	SKIN	ʧ a θ kʷ i l	2 7 3 1 7 5	AXMBYN	CADKIL	3	3.C.C 3.A.V 3.D.c 3.K.C 3.I.V 3.L.c	2.0 1.5 1.1 1.75 1.3 0.8	ʧaθkʷil	1	279
+530	Yavapai	SKIN	θ p i l a	3 1 7 5 7	ACYBZ	DPILA	5	5.D.C 5.P.C 5.I.V 5.L.C 5.A.V	2.0 1.5 1.3 1.75 0.8	θpila	1	281
+#
+79	Cocopa	SLEEP	ʃ m a	3 4 7	ACX	SMA	1	1.S.C 1.M.C 1.A.V	2.0 1.5 1.5	ʃma	1	282
+193	Ipai	SLEEP	x ə m aː	3 7 4 7	AXBZ	GEMA	2	2.G.C 2.E.V 2.M.C 2.A.V	2.0 1.5 1.75 0.8	xəmaː	0	282
+318	Mohave	SLEEP	i s m a m	7 3 4 7 4	XBCYN	ISMAM	3	3.I.V 3.S.C 3.M.C 3.A.V 3.M.c	1.5 1.75 1.5 1.3 0.8	ismam	0	282
+420	Tipai	SLEEP	ʃ ə m a	3 7 4 7	AXBZ	SEMA	4	4.S.C 4.E.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	ʃəma	0	282
+531	Yavapai	SLEEP	s m aː	3 4 7	ACX	SMA	5	5.S.C 5.M.C 5.A.V	2.0 1.5 1.5	smaː	0	282
+532	Yavapai	SLEEP	s m a	3 4 7	ACX	SMA	5	5.S.C 5.M.C 5.A.V	2.0 1.5 1.5	sma	0	282
+#
+80	Cocopa	SMALL	ʔ i ʎ ʧ a ʃ	1 7 5 2 7 3	AXMBYN	HILCAS	1	1.H.C 1.I.V 1.L.c 1.C.C 1.A.V 1.S.c	2.0 1.5 1.1 1.75 1.3 0.8	ʔiʎʧaʃ	0	283
+194	Ipai	SMALL	ʔ ə s t̪ i k	1 7 3 1 7 1	AXMBYN	HESTIK	2	2.H.C 2.E.V 2.S.c 2.T.C 2.I.V 2.K.c	2.0 1.5 1.1 1.75 1.3 0.8	ʔəst̪ik	0	284
+319	Mohave	SMALL	i ʧ ʔ a w k	7 2 1 7 6 1	XMBYLN	ICHAWK	3	3.I.V 3.C.c 3.H.C 3.A.V 3.W.c 3.K.c	1.5 1.1 1.75 1.3 1.1 0.8	iʧʔawk	0	285
+421	Tipai	SMALL	ʎ ə p i ʃ	5 7 1 7 3	AXBYN	LEPIS	4	4.L.C 4.E.V 4.P.C 4.I.V 4.S.c	2.0 1.5 1.75 1.3 0.8	ʎəpiʃ	0	286
+533	Yavapai	SMALL	k e ʧ	1 7 2	AXN	KEC	5	5.K.C 5.E.V 5.C.c	2.0 1.5 0.8	keʧ	0	287
+#
+81	Cocopa	SMOKE (EXHAUST)	x j a j	3 6 7 6	ACXN	GJAJ	1	1.G.C 1.J.C 1.A.V 1.J.c	2.0 1.5 1.5 0.8	xjaj	0	288
+195	Ipai	SMOKE (EXHAUST)	ʔ uː x u j	1 7 3 7 6	AXBYN	HYGYJ	2	2.H.C 2.Y.V 2.G.C 2.Y.V 2.J.c	2.0 1.5 1.75 1.3 0.8	ʔuːxuj	0	288
+320	Mohave	SMOKE (EXHAUST)	ʔ a hʷ aː	1 7 3 7	AXBZ	HAHA	3	3.H.C 3.A.V 3.H.C 3.A.V	2.0 1.5 1.75 0.8	ʔahʷaː	0	290
+534	Yavapai	SMOKE (EXHAUST)	ʔ o hʷ a j a	1 7 3 7 6 7	AXBYBZ	HUHAJA	5	5.H.C 5.U.V 5.H.C 5.A.V 5.J.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ʔohʷaja	0	290
+#
+111	Cocopa	SNAKE	ʔ a w i	1 7 6 7	AXBZ	HAWI	1	1.H.C 1.A.V 1.W.C 1.I.V	2.0 1.5 1.75 0.8	ʔawi	0	291
+351	Mohave	SNAKE	ʔ a v e	1 7 3 7	AXBZ	HABE	3	3.H.C 3.A.V 3.B.C 3.E.V	2.0 1.5 1.75 0.8	ʔave	0	291
+448	Tipai	SNAKE	a ʔ w i	7 1 6 7	XBCZ	AHWI	4	4.A.V 4.H.C 4.W.C 4.I.V	1.5 1.75 1.5 0.8	aʔwi	0	291
+566	Yavapai	SNAKE	ʔ l w i	1 5 6 7	ACCX	HLWI	5	5.H.C 5.L.C 5.W.C 5.I.V	2.0 1.5 1.5 1.5	ʔlwi	0	294
+567	Yavapai	SNAKE	ʔ l w i	1 5 6 7	ACCX	HLWI	5	5.H.C 5.L.C 5.W.C 5.I.V	2.0 1.5 1.5 1.5	ʔlwi	1	294
+#
+71	Cocopa	SPHERICAL (ROUND IN THREE DIMENSIONS)	ɾ ʔ u ɾ	5 1 7 5	ACYN	RHYR	1	1.R.C 1.H.C 1.Y.V 1.R.c	2.0 1.5 1.3 0.8	ɾʔuɾ	0	295
+185	Ipai	SPHERICAL (ROUND IN THREE DIMENSIONS)	ʔ ə l u l	1 7 5 7 5	AXBYN	HELYL	2	2.H.C 2.E.V 2.L.C 2.Y.V 2.L.c	2.0 1.5 1.75 1.3 0.8	ʔəlul	0	296
+310	Mohave	SPHERICAL (ROUND IN THREE DIMENSIONS)	j e n a j e n	6 7 4 7 6 7 4	AXBYBYN	JENAJEN	3	3.J.C 3.E.V 3.N.C 3.A.V 3.J.C 3.E.V 3.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	jenajen	0	297
+524	Yavapai	SPHERICAL (ROUND IN THREE DIMENSIONS)	k l ʔ u l k i	1 5 1 7 5 1 7	AXBYMBZ	KLHYLKI	5	5.K.C 5.L.V 5.H.C 5.Y.V 5.L.c 5.K.C 5.I.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	klʔulki	0	298
+#
+82	Cocopa	STAND	p ʔ aː	1 1 7	ACZ	PHA	1	1.P.C 1.H.C 1.A.V	2.0 1.5 0.8	pʔaː	0	299
+196	Ipai	STAND	p ə x ə kʷ iː	1 7 3 7 1 7	AXBYBZ	PEGEKI	2	2.P.C 2.E.V 2.G.C 2.E.V 2.K.C 2.I.V	2.0 1.5 1.75 1.3 1.75 0.8	pəxəkʷiː	0	300
+197	Ipai	STAND	p ə x kʷ iː	1 7 3 1 7	AXMBZ	PEGKI	2	2.P.C 2.E.V 2.G.c 2.K.C 2.I.V	2.0 1.5 1.1 1.75 0.8	pəxkʷiː	0	300
+321	Mohave	STAND	i v ʔ a w m	7 3 1 7 6 4	XMBYLN	IBHAWM	3	3.I.V 3.B.c 3.H.C 3.A.V 3.W.c 3.M.c	1.5 1.1 1.75 1.3 1.1 0.8	ivʔawm	0	301
+422	Tipai	STAND	p ʔ a w	1 1 7 6	ACYN	PHAW	4	4.P.C 4.H.C 4.A.V 4.W.c	2.0 1.5 1.3 0.8	pʔaw	0	299
+535	Yavapai	STAND	β s kʷ i	3 3 1 7	AMBZ	BSKI	5	5.B.C 5.S.c 5.K.C 5.I.V	2.0 1.1 1.75 0.8	βskʷi	0	303
+#
+83	Cocopa	STAR	kʷ ʎ̥ a p	1 5 7 1	ACXN	KLAP	1	1.K.C 1.L.C 1.A.V 1.P.c	2.0 1.5 1.5 0.8	kʷʎ̥ap	0	304
+198	Ipai	STAR	kʷ ə n̪ m ə s aː p	1 7 4 4 7 3 7 1	AXMBYBYN	KENMESAP	2	2.K.C 2.E.V 2.N.c 2.M.C 2.E.V 2.S.C 2.A.V 2.P.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	kʷən̪məsaːp	0	304
+322	Mohave	STAR	h a m u s e	3 7 4 7 3 7	AXBYBZ	HAMYSE	3	3.H.C 3.A.V 3.M.C 3.Y.V 3.S.C 3.E.V	2.0 1.5 1.75 1.3 1.75 0.8	hamuse	0	306
+536	Yavapai	STAR	h a m m s i	3 7 4 4 3 7	AXLMBZ	HAMMSI	5	5.H.C 5.A.V 5.M.c 5.M.c 5.S.C 5.I.V	2.0 1.5 1.1 1.1 1.75 0.8	hammsi	0	306
+#
+84	Cocopa	STONE	x uː ɾ	3 7 5	AXN	GYR	1	1.G.C 1.Y.V 1.R.c	2.0 1.5 0.8	xuːɾ	0	307
+199	Ipai	STONE	ʔ ə w i lʲ	1 7 6 7 5	AXBYN	HEWIL	2	2.H.C 2.E.V 2.W.C 2.I.V 2.L.c	2.0 1.5 1.75 1.3 0.8	ʔəwilʲ	0	308
+323	Mohave	STONE	ʔ a v iː	1 7 3 7	AXBZ	HABI	3	3.H.C 3.A.V 3.B.C 3.I.V	2.0 1.5 1.75 0.8	ʔaviː	1	308
+423	Tipai	STONE	w iː	6 7	AX	WI	4	4.W.C 4.I.V	2.0 1.5	wiː	0	308
+537	Yavapai	STONE	ʔ w i	1 6 7	ACX	HWI	5	5.H.C 5.W.C 5.I.V	2.0 1.5 1.5	ʔwi	1	308
+#
+85	Cocopa	SUN	ɲ a	4 7	AX	NA	1	1.N.C 1.A.V	2.0 1.5	ɲa	0	309
+200	Ipai	SUN	ʔ ə nʲ aː	1 7 4 7	AXBZ	HENA	2	2.H.C 2.E.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	ʔənʲaː	0	309
+324	Mohave	SUN	ʔ a ɲ a	1 7 4 7	AXBZ	HANA	3	3.H.C 3.A.V 3.N.C 3.A.V	2.0 1.5 1.75 0.8	ʔaɲa	0	309
+424	Tipai	SUN	ɲ a	4 7	AX	NA	4	4.N.C 4.A.V	2.0 1.5	ɲa	0	309
+425	Tipai	SUN	ɲ aː	4 7	AX	NA	4	4.N.C 4.A.V	2.0 1.5	ɲaː	0	309
+538	Yavapai	SUN	ʔ ɲ aː	1 4 7	ACX	HNA	5	5.H.C 5.N.C 5.A.V	2.0 1.5 1.5	ʔɲaː	1	309
+#
+86	Cocopa	SWIM	x a ʎ̥ n u p	3 7 5 4 7 1	AXMBYN	GALNYP	1	1.G.C 1.A.V 1.L.c 1.N.C 1.Y.V 1.P.c	2.0 1.5 1.1 1.75 1.3 0.8	xaʎ̥nup	0	310
+201	Ipai	SWIM	aː p u ɬ	7 1 7 5	XBYN	APYL	2	2.A.V 2.P.C 2.Y.V 2.L.c	1.5 1.75 1.3 0.8	aːpuɬ	0	311
+325	Mohave	SWIM	ʔ a h a ʎ a ʔ oː p k	1 7 3 7 5 7 1 7 1 1	AXBYBYBYLN	HAHALAHUPK	3	3.H.C 3.A.V 3.H.C 3.A.V 3.L.C 3.A.V 3.H.C 3.U.V 3.P.c 3.K.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.1 0.8	ʔahaʎaʔoːpk	0	312
+426	Tipai	SWIM	x a n u p	3 7 4 7 1	AXBYN	GANYP	4	4.G.C 4.A.V 4.N.C 4.Y.V 4.P.c	2.0 1.5 1.75 1.3 0.8	xanup	0	310
+539	Yavapai	SWIM	ʔ h a θ p u j i	1 3 7 3 1 7 6 7	ACXMBYBZ	HHADPYJI	5	5.H.C 5.H.C 5.A.V 5.D.c 5.P.C 5.Y.V 5.J.C 5.I.V	2.0 1.5 1.5 1.1 1.75 1.3 1.75 0.8	ʔhaθpuji	0	314
+#
+87	Cocopa	TAIL	ʃ j u ʎ̥	3 6 7 5	ACXN	SJYL	1	1.S.C 1.J.C 1.Y.V 1.L.c	2.0 1.5 1.5 0.8	ʃjuʎ̥	0	315
+202	Ipai	TAIL	x ə j u ɬ	3 7 6 7 5	AXBYN	GEJYL	2	2.G.C 2.E.V 2.J.C 2.Y.V 2.L.c	2.0 1.5 1.75 1.3 0.8	xəjuɬ	0	315
+326	Mohave	TAIL	iː ʔ a r	7 1 7 5	XBYN	IHAR	3	3.I.V 3.H.C 3.A.V 3.R.c	1.5 1.75 1.3 0.8	iːʔar	0	317
+427	Tipai	TAIL	ʃ ə j u ɬ	3 7 6 7 5	AXBYN	SEJYL	4	4.S.C 4.E.V 4.J.C 4.Y.V 4.L.c	2.0 1.5 1.75 1.3 0.8	ʃəjuɬ	0	315
+540	Yavapai	TAIL	β h e	3 3 7	ACZ	BHE	5	5.B.C 5.H.C 5.E.V	2.0 1.5 0.8	βhe	0	319
+#
+88	Cocopa	THAT	ʂ uː	3 7	AX	SY	1	1.S.C 1.Y.V	2.0 1.5	ʂuː	0	320
+89	Cocopa	THAT	ʔ u ʂ uː	1 7 3 7	AXBZ	HYSY	1	1.H.C 1.Y.V 1.S.C 1.Y.V	2.0 1.5 1.75 0.8	ʔuʂuː	0	320
+203	Ipai	THAT	p uː	1 7	AX	PY	2	2.P.C 2.Y.V	2.0 1.5	puː	0	321
+327	Mohave	THAT	h o v a ʧ	3 7 3 7 2	AXBYN	HUBAC	3	3.H.C 3.U.V 3.B.C 3.A.V 3.C.c	2.0 1.5 1.75 1.3 0.8	hovaʧ	0	322
+428	Tipai	THAT	p uː	1 7	AX	PY	4	4.P.C 4.Y.V	2.0 1.5	puː	0	321
+541	Yavapai	THAT	ɲ θ a	4 3 7	ACZ	NDA	5	5.N.C 5.D.C 5.A.V	2.0 1.5 0.8	ɲθa	0	324
+#
+112	Cocopa	THIN (OF SHAPE OF OBJECT)	ɾ ʂ aː w	5 3 7 6	ACYN	RSAW	1	1.R.C 1.S.C 1.A.V 1.W.c	2.0 1.5 1.3 0.8	ɾʂaːw	0	325
+225	Ipai	THIN (OF SHAPE OF OBJECT)	w ə kʷ iː ɹ p	6 7 1 7 5 1	AXBYLN	WEKIRP	2	2.W.C 2.E.V 2.K.C 2.I.V 2.R.c 2.P.c	2.0 1.5 1.75 1.3 1.1 0.8	wəkʷiːɹp	0	326
+352	Mohave	THIN (OF SHAPE OF OBJECT)	ʔ uː h ʔ aː r k	1 7 3 1 7 5 1	AXMBYLN	HYHHARK	3	3.H.C 3.Y.V 3.H.c 3.H.C 3.A.V 3.R.c 3.K.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	ʔuːhʔaːrk	0	327
+568	Yavapai	THIN (OF SHAPE OF OBJECT)	θ e q i	3 7 1 7	AXBZ	DEKI	5	5.D.C 5.E.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	θeqi	0	328
+#
+90	Cocopa	THIS	p iː	1 7	AX	PI	1	1.P.C 1.I.V	2.0 1.5	piː	0	329
+91	Cocopa	THIS	ʔ u p iː	1 7 1 7	AXBZ	HYPI	1	1.H.C 1.Y.V 1.P.C 1.I.V	2.0 1.5 1.75 0.8	ʔupiː	0	329
+204	Ipai	THIS	p ə j aː	1 7 6 7	AXBZ	PEJA	2	2.P.C 2.E.V 2.J.C 2.A.V	2.0 1.5 1.75 0.8	pəjaː	0	330
+328	Mohave	THIS	v i ð a ʧ	3 7 3 7 2	AXBYN	BIDAC	3	3.B.C 3.I.V 3.D.C 3.A.V 3.C.c	2.0 1.5 1.75 1.3 0.8	viðaʧ	0	330
+429	Tipai	THIS	p ə j a	1 7 6 7	AXBZ	PEJA	4	4.P.C 4.E.V 4.J.C 4.A.V	2.0 1.5 1.75 0.8	pəja	0	330
+542	Yavapai	THIS	β j a	3 6 7	ACX	BJA	5	5.B.C 5.J.C 5.A.V	2.0 1.5 1.5	βja	0	330
+#
+92	Cocopa	THOU	m a p u ʧ	4 7 1 7 2	AXBYN	MAPYC	1	1.M.C 1.A.V 1.P.C 1.Y.V 1.C.c	2.0 1.5 1.75 1.3 0.8	mapuʧ	0	331
+205	Ipai	THOU	m aː	4 7	AX	MA	2	2.M.C 2.A.V	2.0 1.5	maː	0	331
+329	Mohave	THOU	m a ɲ ʧ	4 7 4 2	AXLN	MANC	3	3.M.C 3.A.V 3.N.c 3.C.c	2.0 1.5 1.1 0.8	maɲʧ	0	333
+430	Tipai	THOU	m aː ʧ	4 7 2	AXN	MAC	4	4.M.C 4.A.V 4.C.c	2.0 1.5 0.8	maːʧ	0	331
+543	Yavapai	THOU	m aː ʧ	4 7 2	AXN	MAC	5	5.M.C 5.A.V 5.C.c	2.0 1.5 0.8	maːʧ	0	333
+#
+93	Cocopa	TONGUE	m p a ʎ̥	4 1 7 5	ACYN	MPAL	1	1.M.C 1.P.C 1.A.V 1.L.c	2.0 1.5 1.3 0.8	mpaʎ̥	0	334
+206	Ipai	TONGUE	ə n̪ ə p a ɬ	7 4 7 1 7 5	XBYBYN	ENEPAL	2	2.E.V 2.N.C 2.E.V 2.P.C 2.A.V 2.L.c	1.5 1.75 1.3 1.75 1.3 0.8	ən̪əpaɬ	0	334
+330	Mohave	TONGUE	iː p a ʎ	7 1 7 5	XBYN	IPAL	3	3.I.V 3.P.C 3.A.V 3.L.c	1.5 1.75 1.3 0.8	iːpaʎ	0	334
+431	Tipai	TONGUE	x ə n p a ɬ	3 7 4 1 7 5	AXMBYN	GENPAL	4	4.G.C 4.E.V 4.N.c 4.P.C 4.A.V 4.L.c	2.0 1.5 1.1 1.75 1.3 0.8	xənpaɬ	0	334
+544	Yavapai	TONGUE	h i m p a l	3 7 4 1 7 5	AXMBYN	HIMPAL	5	5.H.C 5.I.V 5.M.c 5.P.C 5.A.V 5.L.c	2.0 1.5 1.1 1.75 1.3 0.8	himpal	0	334
+545	Yavapai	TONGUE	h i m p a l	3 7 4 1 7 5	AXMBYN	HIMPAL	5	5.H.C 5.I.V 5.M.c 5.P.C 5.A.V 5.L.c	2.0 1.5 1.1 1.75 1.3 0.8	himpal	1	334
+#
+94	Cocopa	TOOTH	ʔ i j a	1 7 6 7	AXBZ	HIJA	1	1.H.C 1.I.V 1.J.C 1.A.V	2.0 1.5 1.75 0.8	ʔija	1	335
+207	Ipai	TOOTH	ə j aː w	7 6 7 6	XBYN	EJAW	2	2.E.V 2.J.C 2.A.V 2.W.c	1.5 1.75 1.3 0.8	əjaːw	0	335
+331	Mohave	TOOTH	iː ð oː	7 3 7	XBZ	IDU	3	3.I.V 3.D.C 3.U.V	1.5 1.75 0.8	iːðoː	0	337
+546	Yavapai	TOOTH	j o	6 7	AX	JU	5	5.J.C 5.U.V	2.0 1.5	jo	0	337
+#
+95	Cocopa	TREE	ʔ a j aː	1 7 6 7	AXBZ	HAJA	1	1.H.C 1.A.V 1.J.C 1.A.V	2.0 1.5 1.75 0.8	ʔajaː	0	338
+208	Ipai	TREE	ʔ i lʲ	1 7 5	AXN	HIL	2	2.H.C 2.I.V 2.L.c	2.0 1.5 0.8	ʔilʲ	0	339
+432	Tipai	TREE	ʔ iː	1 7	AX	HI	4	4.H.C 4.I.V	2.0 1.5	ʔiː	0	339
+547	Yavapai	TREE	ʔ ʔ i	1 1 7	ACZ	HHI	5	5.H.C 5.H.C 5.I.V	2.0 1.5 0.8	ʔʔi	0	339
+#
+96	Cocopa	TWO	x w a k	3 6 7 1	ACXN	GWAK	1	1.G.C 1.W.C 1.A.V 1.K.c	2.0 1.5 1.5 0.8	xwak	0	340
+209	Ipai	TWO	x ə w a k	3 7 6 7 1	AXBYN	GEWAK	2	2.G.C 2.E.V 2.W.C 2.A.V 2.K.c	2.0 1.5 1.75 1.3 0.8	xəwak	0	340
+332	Mohave	TWO	h a v i k k	3 7 3 7 1 1	AXBYLN	HABIKK	3	3.H.C 3.A.V 3.B.C 3.I.V 3.K.c 3.K.c	2.0 1.5 1.75 1.3 1.1 0.8	havikk	0	340
+433	Tipai	TWO	x ə w a k	3 7 6 7 1	AXBYN	GEWAK	4	4.G.C 4.E.V 4.W.C 4.A.V 4.K.c	2.0 1.5 1.75 1.3 0.8	xəwak	0	340
+548	Yavapai	TWO	h w a k i	3 6 7 1 7	ACXBZ	HWAKI	5	5.H.C 5.W.C 5.A.V 5.K.C 5.I.V	2.0 1.5 1.5 1.75 0.8	hwaki	0	340
+#
+97	Cocopa	WALK	ʔ aː	1 7	AX	HA	1	1.H.C 1.A.V	2.0 1.5	ʔaː	0	341
+210	Ipai	WALK	w aː	6 7	AX	WA	2	2.W.C 2.A.V	2.0 1.5	waː	0	342
+333	Mohave	WALK	i j e m k	7 6 7 4 1	XBYLN	IJEMK	3	3.I.V 3.J.C 3.E.V 3.M.c 3.K.c	1.5 1.75 1.3 1.1 0.8	ijemk	0	343
+434	Tipai	WALK	aː	7	X	A	4	4.A.V	1.5	aː	1	341
+549	Yavapai	WALK	j a m i	6 7 4 7	AXBZ	JAMI	5	5.J.C 5.A.V 5.M.C 5.I.V	2.0 1.5 1.75 0.8	jami	0	345
+550	Yavapai	WALK	j a m i	6 7 4 7	AXBZ	JAMI	5	5.J.C 5.A.V 5.M.C 5.I.V	2.0 1.5 1.75 0.8	jami	1	345
+#
+98	Cocopa	WARM	ʎ̥ a p	5 7 1	AXN	LAP	1	1.L.C 1.A.V 1.P.c	2.0 1.5 0.8	ʎ̥ap	0	346
+211	Ipai	WARM	w ə ɹ aː w	6 7 5 7 6	AXBYN	WERAW	2	2.W.C 2.E.V 2.R.C 2.A.V 2.W.c	2.0 1.5 1.75 1.3 0.8	wəɹaːw	0	347
+334	Mohave	WARM	i p i ʎ k	7 1 7 5 1	XBYLN	IPILK	3	3.I.V 3.P.C 3.I.V 3.L.c 3.K.c	1.5 1.75 1.3 1.1 0.8	ipiʎk	0	348
+335	Mohave	WARM	i p iː ʎ k	7 1 7 5 1	XBYLN	IPILK	3	3.I.V 3.P.C 3.I.V 3.L.c 3.K.c	1.5 1.75 1.3 1.1 0.8	ipiːʎk	0	348
+435	Tipai	WARM	ʎ̥ a p	5 7 1	AXN	LAP	4	4.L.C 4.A.V 4.P.c	2.0 1.5 0.8	ʎ̥ap	0	346
+551	Yavapai	WARM	ʔ r u j i	1 5 7 6 7	ACXBZ	HRYJI	5	5.H.C 5.R.C 5.Y.V 5.J.C 5.I.V	2.0 1.5 1.5 1.75 0.8	ʔruji	0	350
+#
+99	Cocopa	WATER	x a	3 7	AX	GA	1	1.G.C 1.A.V	2.0 1.5	xa	0	351
+212	Ipai	WATER	ʔ ə x aː	1 7 3 7	AXBZ	HEGA	2	2.H.C 2.E.V 2.G.C 2.A.V	2.0 1.5 1.75 0.8	ʔəxaː	0	352
+336	Mohave	WATER	ʔ a h a	1 7 3 7	AXBZ	HAHA	3	3.H.C 3.A.V 3.H.C 3.A.V	2.0 1.5 1.75 0.8	ʔaha	0	352
+436	Tipai	WATER	x a	3 7	AX	GA	4	4.G.C 4.A.V	2.0 1.5	xa	0	351
+552	Yavapai	WATER	ʔ h a	1 3 7	ACX	HHA	5	5.H.C 5.H.C 5.A.V	2.0 1.5 1.5	ʔha	0	352
+#
+100	Cocopa	WE	ɲ aː ʧ	4 7 2	AXN	NAC	1	1.N.C 1.A.V 1.C.c	2.0 1.5 0.8	ɲaːʧ	1	353
+213	Ipai	WE	ʔ ə nʲ aː w a p ʧ	1 7 4 7 6 7 1 2	AXBYBYBC	HENAWAPC	2	2.H.C 2.E.V 2.N.C 2.A.V 2.W.C 2.A.V 2.P.C 2.C.C	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.5	ʔənʲaːwapʧ	0	354
+337	Mohave	WE	ʔ i ɲ eː ʧ v ʧ	1 7 4 7 2 3 2	AXBYBYN	HINECBC	3	3.H.C 3.I.V 3.N.C 3.E.V 3.C.C 3.B.V 3.C.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ʔiɲeːʧvʧ	0	355
+437	Tipai	WE	ɲ a ʔ w a ʧ	4 7 1 6 7 2	AXBCYN	NAHWAC	4	4.N.C 4.A.V 4.H.C 4.W.C 4.A.V 4.C.c	2.0 1.5 1.75 1.5 1.3 0.8	ɲaʔwaʧ	0	353
+553	Yavapai	WE	ʔ ɲ a ʧ β	1 4 7 2 3	ACXBC	HNACB	5	5.H.C 5.N.C 5.A.V 5.C.C 5.B.C	2.0 1.5 1.5 1.75 1.5	ʔɲaʧβ	0	355
+#
+101	Cocopa	WHAT	l uː ɲ	5 7 4	AXN	LYN	1	1.L.C 1.Y.V 1.N.c	2.0 1.5 0.8	luːɲ	0	356
+214	Ipai	WHAT	ʔ uː ʧ	1 7 2	AXN	HYC	2	2.H.C 2.Y.V 2.C.c	2.0 1.5 0.8	ʔuːʧ	0	357
+338	Mohave	WHAT	k uː ʧ	1 7 2	AXN	KYC	3	3.K.C 3.Y.V 3.C.c	2.0 1.5 0.8	kuːʧ	0	357
+438	Tipai	WHAT	m aː j iː ʧ	4 7 6 7 2	AXBYN	MAJIC	4	4.M.C 4.A.V 4.J.C 4.I.V 4.C.c	2.0 1.5 1.75 1.3 0.8	maːjiːʧ	0	359
+554	Yavapai	WHAT	k a β	1 7 3	AXN	KAB	5	5.K.C 5.A.V 5.B.c	2.0 1.5 0.8	kaβ	0	360
+#
+102	Cocopa	WHITE	x m aː ʎ̥	3 4 7 5	ACXN	GMAL	1	1.G.C 1.M.C 1.A.V 1.L.c	2.0 1.5 1.5 0.8	xmaːʎ̥	0	361
+215	Ipai	WHITE	n̪ ə m ə ʂ a p	4 7 4 7 3 7 1	AXBYBYN	NEMESAP	2	2.N.C 2.E.V 2.M.C 2.E.V 2.S.C 2.A.V 2.P.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	n̪əməʂap	0	362
+339	Mohave	WHITE	ɲ a m a s a v	4 7 4 7 3 7 3	AXBYBYN	NAMASAB	3	3.N.C 3.A.V 3.M.C 3.A.V 3.S.C 3.A.V 3.B.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ɲamasav	0	362
+439	Tipai	WHITE	ɲ ə m ʃ a p	4 7 4 3 7 1	AXMBYN	NEMSAP	4	4.N.C 4.E.V 4.M.c 4.S.C 4.A.V 4.P.c	2.0 1.5 1.1 1.75 1.3 0.8	ɲəmʃap	0	362
+555	Yavapai	WHITE	ɲ m s a β i	4 4 3 7 3 7	AMBYBZ	NMSABI	5	5.N.C 5.M.c 5.S.C 5.A.V 5.B.C 5.I.V	2.0 1.1 1.75 1.3 1.75 0.8	ɲmsaβi	0	362
+#
+103	Cocopa	WHO	l uː ɲ	5 7 4	AXN	LYN	1	1.L.C 1.Y.V 1.N.c	2.0 1.5 0.8	luːɲ	1	363
+216	Ipai	WHO	m aː p	4 7 1	AXN	MAP	2	2.M.C 2.A.V 2.P.c	2.0 1.5 0.8	maːp	0	364
+340	Mohave	WHO	m a k a ʧ	4 7 1 7 2	AXBYN	MAKAC	3	3.M.C 3.A.V 3.K.C 3.A.V 3.C.c	2.0 1.5 1.75 1.3 0.8	makaʧ	0	365
+440	Tipai	WHO	m ə ʔ a p	4 7 1 7 1	AXBYN	MEHAP	4	4.M.C 4.E.V 4.H.C 4.A.V 4.P.c	2.0 1.5 1.75 1.3 0.8	məʔap	0	364
+556	Yavapai	WHO	β k a	3 1 7	ACZ	BKA	5	5.B.C 5.K.C 5.A.V	2.0 1.5 0.8	βka	0	367
+#
+113	Cocopa	WIND	ʧ x a	2 3 7	ACX	CGA	1	1.C.C 1.G.C 1.A.V	2.0 1.5 1.5	ʧxa	0	368
+226	Ipai	WIND	j aː j p	6 7 6 1	AXLN	JAJP	2	2.J.C 2.A.V 2.J.c 2.P.c	2.0 1.5 1.1 0.8	jaːjp	0	369
+353	Mohave	WIND	m a t a h a	4 7 1 7 3 7	AXBYBZ	MATAHA	3	3.M.C 3.A.V 3.T.C 3.A.V 3.H.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mataha	0	370
+354	Mohave	WIND	m a t h a	4 7 1 3 7	AXBCZ	MATHA	3	3.M.C 3.A.V 3.T.C 3.H.C 3.A.V	2.0 1.5 1.75 1.5 0.8	matha	0	370
+449	Tipai	WIND	m a t̪ x a	4 7 1 3 7	AXBCZ	MATGA	4	4.M.C 4.A.V 4.T.C 4.G.C 4.A.V	2.0 1.5 1.75 1.5 0.8	mat̪xa	0	370
+569	Yavapai	WIND	m a t h a j a	4 7 1 3 7 6 7	AXBCYBZ	MATHAJA	5	5.M.C 5.A.V 5.T.C 5.H.C 5.A.V 5.J.C 5.A.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	mathaja	0	370
+570	Yavapai	WIND	m a t h aː j a	4 7 1 3 7 6 7	AXBCYBZ	MATHAJA	5	5.M.C 5.A.V 5.T.C 5.H.C 5.A.V 5.J.C 5.A.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	mathaːja	0	370
+571	Yavapai	WIND	m a t h a j a	4 7 1 3 7 6 7	AXBCYBZ	MATHAJA	5	5.M.C 5.A.V 5.T.C 5.H.C 5.A.V 5.J.C 5.A.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	mathaja	1	370
+#
+104	Cocopa	WOMAN	s ʔ a k	3 1 7 1	ACYN	SHAK	1	1.S.C 1.H.C 1.A.V 1.K.c	2.0 1.5 1.3 0.8	sʔak	0	371
+217	Ipai	WOMAN	s i nʲ	3 7 4	AXN	SIN	2	2.S.C 2.I.V 2.N.c	2.0 1.5 0.8	sinʲ	0	372
+341	Mohave	WOMAN	θ i ɲ a ʔ aː k	3 7 4 7 1 7 1	AXBYBYN	DINAHAK	3	3.D.C 3.I.V 3.N.C 3.A.V 3.H.C 3.A.V 3.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	θiɲaʔaːk	0	371
+342	Mohave	WOMAN	θ i ɲ a ʔ aː k	3 7 4 7 1 7 1	AXBYBYN	DINAHAK	3	3.D.C 3.I.V 3.N.C 3.A.V 3.H.C 3.A.V 3.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	θiɲaʔaːk	1	371
+441	Tipai	WOMAN	ɲ ə ʧ ʔ a k	4 7 2 1 7 1	AXMBYN	NECHAK	4	4.N.C 4.E.V 4.C.c 4.H.C 4.A.V 4.K.c	2.0 1.5 1.1 1.75 1.3 0.8	ɲəʧʔak	0	371
+557	Yavapai	WOMAN	β q i	3 1 7	ACZ	BKI	5	5.B.C 5.K.C 5.I.V	2.0 1.5 0.8	βqi	0	375
+558	Yavapai	WOMAN	p q i	1 1 7	ACZ	PKI	5	5.P.C 5.K.C 5.I.V	2.0 1.5 0.8	pqi	0	375
+#
+114	Cocopa	WORM	m a ʔ iː ʎ̥	4 7 1 7 5	AXBYN	MAHIL	1	1.M.C 1.A.V 1.H.C 1.I.V 1.L.c	2.0 1.5 1.75 1.3 0.8	maʔiːʎ̥	0	376
+227	Ipai	WORM	i ɬ	7 5	XN	IL	2	2.I.V 2.L.c	1.5 0.8	iɬ	0	376
+355	Mohave	WORM	i ʔ iː ʎ v a	7 1 7 5 3 7	XBYMBZ	IHILBA	3	3.I.V 3.H.C 3.I.V 3.L.c 3.B.C 3.A.V	1.5 1.75 1.3 1.1 1.75 0.8	iʔiːʎva	0	378
+572	Yavapai	WORM	ʔ ʔ i l a	1 1 7 5 7	ACYBZ	HHILA	5	5.H.C 5.H.C 5.I.V 5.L.C 5.A.V	2.0 1.5 1.3 1.75 0.8	ʔʔila	0	376
+#
+115	Cocopa	YEAR	m a t k aː m	4 7 1 1 7 4	AXMBYN	MATKAM	1	1.M.C 1.A.V 1.T.c 1.K.C 1.A.V 1.M.c	2.0 1.5 1.1 1.75 1.3 0.8	matkaːm	0	379
+228	Ipai	YEAR	ʔ aː nʲ	1 7 4	AXN	HAN	2	2.H.C 2.A.V 2.N.c	2.0 1.5 0.8	ʔaːnʲ	0	380
+356	Mohave	YEAR	h o ð e	3 7 3 7	AXBZ	HUDE	3	3.H.C 3.U.V 3.D.C 3.E.V	2.0 1.5 1.75 0.8	hoðe	0	381
+357	Mohave	YEAR	h uː ð e	3 7 3 7	AXBZ	HYDE	3	3.H.C 3.Y.V 3.D.C 3.E.V	2.0 1.5 1.75 0.8	huːðe	0	381
+450	Tipai	YEAR	m a t w a m	4 7 1 6 7 4	AXBCYN	MATWAM	4	4.M.C 4.A.V 4.T.C 4.W.C 4.A.V 4.M.c	2.0 1.5 1.75 1.5 1.3 0.8	matwam	0	382
+573	Yavapai	YEAR	ʔ ʧʰ u r a	1 2 7 5 7	ACXBZ	HCYRA	5	5.H.C 5.C.C 5.Y.V 5.R.C 5.A.V	2.0 1.5 1.5 1.75 0.8	ʔʧʰura	0	381
+#
+105	Cocopa	YELLOW	qʷ a ʂ	1 7 3	AXN	KAS	1	1.K.C 1.A.V 1.S.c	2.0 1.5 0.8	qʷaʂ	0	383
+218	Ipai	YELLOW	ʔ ə kʷ a s	1 7 1 7 3	AXBYN	HEKAS	2	2.H.C 2.E.V 2.K.C 2.A.V 2.S.c	2.0 1.5 1.75 1.3 0.8	ʔəkʷas	0	383
+343	Mohave	YELLOW	ʔ a qʷ a θ m	1 7 1 7 3 4	AXBYBC	HAKADM	3	3.H.C 3.A.V 3.K.C 3.A.V 3.D.C 3.M.C	2.0 1.5 1.75 1.3 1.75 1.5	ʔaqʷaθm	0	383
+344	Mohave	YELLOW	ʔ a qʷ aː θ m	1 7 1 7 3 4	AXBYBC	HAKADM	3	3.H.C 3.A.V 3.K.C 3.A.V 3.D.C 3.M.C	2.0 1.5 1.75 1.3 1.75 1.5	ʔaqʷaːθm	0	383
+442	Tipai	YELLOW	kʷ a s	1 7 3	AXN	KAS	4	4.K.C 4.A.V 4.S.c	2.0 1.5 0.8	kʷas	0	383
+559	Yavapai	YELLOW	ʔ qʷ a θ i	1 1 7 3 7	ACYBZ	HKADI	5	5.H.C 5.K.C 5.A.V 5.D.C 5.I.V	2.0 1.5 1.3 1.75 0.8	ʔqʷaθi	0	383
+# Created using the LexStat class of LingPy-2.6.8
+# Parameters: 2:1_1.00_1000_0.70_global-2-0.50:local-1-0.50_0.30__T_shuffle_False:upgma:-2_0.7_0.00_-5.00
+# Cluster: lexstat_upgma_0.60

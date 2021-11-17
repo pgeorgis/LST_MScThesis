@@ -1,0 +1,369 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	TOKENS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	LEXSTATID
+#
+1	Central Yana	ALL	p a n a u m a	1 7 4 7 7 4 7	AXBYYBZ	PANAYMA	1	1.P.C 1.A.V 1.N.C 1.A.V 1.Y.V 1.M.C 1.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	panauma	0	1
+81	Northern Yana	ALL	p a n a u m a	1 7 4 7 7 4 7	AXBYYBZ	PANAYMA	2	2.P.C 2.A.V 2.N.C 2.A.V 2.Y.V 2.M.C 2.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	panauma	0	1
+179	Yahi	ALL	p a n a u m a	1 7 4 7 7 4 7	AXBYYBZ	PANAYMA	3	3.P.C 3.A.V 3.N.C 3.A.V 3.Y.V 3.M.C 3.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	panauma	0	1
+#
+82	Northern Yana	ASH	tʼ a p ʔ l aː w i ʔ a u n a	1 7 1 1 5 7 6 7 1 7 7 4 7	AXMBCYBYBYYBZ	TAPHLAWIHAYNA	2	2.T.C 2.A.V 2.P.c 2.H.C 2.L.C 2.A.V 2.W.C 2.I.V 2.H.C 2.A.V 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.1 1.75 1.5 1.3 1.75 1.3 1.75 1.3 1.3 1.75 0.8	tʼapʔlaːwiʔauna	0	2
+#
+83	Northern Yana	BARK	p a t ʔ j a u n a	1 7 1 1 6 7 7 4 7	AXMBCYYBZ	PATHJAYNA	2	2.P.C 2.A.V 2.T.c 2.H.C 2.J.C 2.A.V 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.1 1.75 1.5 1.3 1.3 1.75 0.8	patʔjauna	0	3
+#
+84	Northern Yana	BELLY	w i l l a	6 7 5 5 7	AXMBZ	WILLA	2	2.W.C 2.I.V 2.L.c 2.L.C 2.A.V	2.0 1.5 1.1 1.75 0.8	willa	0	4
+180	Yahi	BELLY	w i l l a	6 7 5 5 7	AXMBZ	WILLA	3	3.W.C 3.I.V 3.L.c 3.L.C 3.A.V	2.0 1.5 1.1 1.75 0.8	willa	0	4
+#
+2	Central Yana	BIG	p a ʦ a l	1 7 2 7 5	AXBYN	PACAL	1	1.P.C 1.A.V 1.C.C 1.A.V 1.L.c	2.0 1.5 1.75 1.3 0.8	paʦal	0	5
+85	Northern Yana	BIG	p a ʦ a l	1 7 2 7 5	AXBYN	PACAL	2	2.P.C 2.A.V 2.C.C 2.A.V 2.L.c	2.0 1.5 1.75 1.3 0.8	paʦal	0	5
+181	Yahi	BIG	p a ʦ a l	1 7 2 7 5	AXBYN	PACAL	3	3.P.C 3.A.V 3.C.C 3.A.V 3.L.c	2.0 1.5 1.75 1.3 0.8	paʦal	0	5
+#
+86	Northern Yana	BIRD	ʦ u t ʔ a w i	2 7 1 1 7 6 7	AXMBYBZ	CYTHAWI	2	2.C.C 2.Y.V 2.T.c 2.H.C 2.A.V 2.W.C 2.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʦutʔawi	0	6
+#
+3	Central Yana	BITE	ʦ a	2 7	AX	CA	1	1.C.C 1.A.V	2.0 1.5	ʦa	0	7
+87	Northern Yana	BITE	ʦ a	2 7	AX	CA	2	2.C.C 2.A.V	2.0 1.5	ʦa	0	7
+182	Yahi	BITE	ʦ a	2 7	AX	CA	3	3.C.C 3.A.V	2.0 1.5	ʦa	0	7
+#
+4	Central Yana	BLACK	t a pʰ a l s a	1 7 1 7 5 3 7	AXBYMBZ	TAPALSA	1	1.T.C 1.A.V 1.P.C 1.A.V 1.L.c 1.S.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	tapʰalsa	0	8
+88	Northern Yana	BLACK	t a pʰ a l s a	1 7 1 7 5 3 7	AXBYMBZ	TAPALSA	2	2.T.C 2.A.V 2.P.C 2.A.V 2.L.c 2.S.C 2.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	tapʰalsa	0	8
+183	Yahi	BLACK	t a h pʰ a l s a	1 7 3 1 7 5 3 7	AXMBYMBZ	TAHPALSA	3	3.T.C 3.A.V 3.H.c 3.P.C 3.A.V 3.L.c 3.S.C 3.A.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 0.8	tahpʰalsa	0	8
+#
+5	Central Yana	BLOOD	w a t ʔ t u w i	6 7 1 1 1 7 6 7	AXLMBYBZ	WATHTYWI	1	1.W.C 1.A.V 1.T.c 1.H.c 1.T.C 1.Y.V 1.W.C 1.I.V	2.0 1.5 1.1 1.1 1.75 1.3 1.75 0.8	watʔtuwi	0	9
+89	Northern Yana	BLOOD	w a t ʔ t u w i	6 7 1 1 1 7 6 7	AXLMBYBZ	WATHTYWI	2	2.W.C 2.A.V 2.T.c 2.H.c 2.T.C 2.Y.V 2.W.C 2.I.V	2.0 1.5 1.1 1.1 1.75 1.3 1.75 0.8	watʔtuwi	0	9
+#
+6	Central Yana	BONE	ʔ i x t a l ʔ	1 7 3 1 7 5 1	AXMBYLN	HIGTALH	1	1.H.C 1.I.V 1.G.c 1.T.C 1.A.V 1.L.c 1.H.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	ʔixtalʔ	0	10
+90	Northern Yana	BONE	ʔ i x t a l ʔ	1 7 3 1 7 5 1	AXMBYLN	HIGTALH	2	2.H.C 2.I.V 2.G.c 2.T.C 2.A.V 2.L.c 2.H.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	ʔixtalʔ	0	10
+184	Yahi	BONE	ʔ a x t a t ʔ	1 7 3 1 7 1 1	AXMBYLN	HAGTATH	3	3.H.C 3.A.V 3.G.c 3.T.C 3.A.V 3.T.c 3.H.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	ʔaxtatʔ	0	10
+#
+91	Northern Yana	BREAST	ʦ u x p i n n a	2 7 3 1 7 4 4 7	AXMBYMBZ	CYGPINNA	2	2.C.C 2.Y.V 2.G.c 2.P.C 2.I.V 2.N.c 2.N.C 2.A.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 0.8	ʦuxpinna	0	11
+#
+7	Central Yana	BURN (SOMETHING)	h a ʔ w iː	3 7 1 6 7	AXBCZ	HAHWI	1	1.H.C 1.A.V 1.H.C 1.W.C 1.I.V	2.0 1.5 1.75 1.5 0.8	haʔwiː	0	12
+92	Northern Yana	BURN (SOMETHING)	h a ʔ w iː	3 7 1 6 7	AXBCZ	HAHWI	2	2.H.C 2.A.V 2.H.C 2.W.C 2.I.V	2.0 1.5 1.75 1.5 0.8	haʔwiː	0	12
+185	Yahi	BURN (SOMETHING)	h a ʔ w iː	3 7 1 6 7	AXBCZ	HAHWI	3	3.H.C 3.A.V 3.H.C 3.W.C 3.I.V	2.0 1.5 1.75 1.5 0.8	haʔwiː	0	12
+#
+93	Northern Yana	CLAW OR NAIL	s u kʼ u ʔ l i p t a l l a	3 7 1 7 1 5 7 1 1 7 5 5 7	AXBYBCYMBYMBZ	SYKYHLIPTALLA	2	2.S.C 2.Y.V 2.K.C 2.Y.V 2.H.C 2.L.C 2.I.V 2.P.c 2.T.C 2.A.V 2.L.c 2.L.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.5 1.3 1.1 1.75 1.3 1.1 1.75 0.8	sukʼuʔliptalla	0	13
+186	Yahi	CLAW OR NAIL	s u kʼ u ʔ n i m t a n n a	3 7 1 7 1 4 7 4 1 7 4 4 7	AXBYBCYMBYMBZ	SYKYHNIMTANNA	3	3.S.C 3.Y.V 3.K.C 3.Y.V 3.H.C 3.N.C 3.I.V 3.M.c 3.T.C 3.A.V 3.N.c 3.N.C 3.A.V	2.0 1.5 1.75 1.3 1.75 1.5 1.3 1.1 1.75 1.3 1.1 1.75 0.8	sukʼuʔnimtanna	0	13
+#
+8	Central Yana	COME	n i	4 7	AX	NI	1	1.N.C 1.I.V	2.0 1.5	ni	0	14
+9	Central Yana	COME	h a	3 7	AX	HA	1	1.H.C 1.A.V	2.0 1.5	ha	0	17
+94	Northern Yana	COME	n i	4 7	AX	NI	2	2.N.C 2.I.V	2.0 1.5	ni	0	14
+95	Northern Yana	COME	h a	3 7	AX	HA	2	2.H.C 2.A.V	2.0 1.5	ha	0	17
+187	Yahi	COME	n i	4 7	AX	NI	3	3.N.C 3.I.V	2.0 1.5	ni	0	14
+188	Yahi	COME	h a	3 7	AX	HA	3	3.H.C 3.A.V	2.0 1.5	ha	0	17
+#
+10	Central Yana	DIE	t i l a u	1 7 5 7 7	AXBYZ	TILAY	1	1.T.C 1.I.V 1.L.C 1.A.V 1.Y.V	2.0 1.5 1.75 1.3 0.8	tilau	0	18
+96	Northern Yana	DIE	t i l a u	1 7 5 7 7	AXBYZ	TILAY	2	2.T.C 2.I.V 2.L.C 2.A.V 2.Y.V	2.0 1.5 1.75 1.3 0.8	tilau	0	18
+#
+11	Central Yana	DOG	s uː s u	3 7 3 7	AXBZ	SYSY	1	1.S.C 1.Y.V 1.S.C 1.Y.V	2.0 1.5 1.75 0.8	suːsu	0	19
+97	Northern Yana	DOG	s uː s u	3 7 3 7	AXBZ	SYSY	2	2.S.C 2.Y.V 2.S.C 2.Y.V	2.0 1.5 1.75 0.8	suːsu	0	19
+189	Yahi	DOG	s uː s u	3 7 3 7	AXBZ	SYSY	3	3.S.C 3.Y.V 3.S.C 3.Y.V	2.0 1.5 1.75 0.8	suːsu	0	19
+#
+98	Northern Yana	DRINK	s iː	3 7	AX	SI	2	2.S.C 2.I.V	2.0 1.5	siː	0	20
+190	Yahi	DRINK	ʦ iː	2 7	AX	CI	3	3.C.C 3.I.V	2.0 1.5	ʦiː	0	20
+#
+12	Central Yana	DRY	kʰ u l s i	1 7 5 3 7	AXMBZ	KYLSI	1	1.K.C 1.Y.V 1.L.c 1.S.C 1.I.V	2.0 1.5 1.1 1.75 0.8	kʰulsi	0	21
+99	Northern Yana	DRY	kʰ u l s i	1 7 5 3 7	AXMBZ	KYLSI	2	2.K.C 2.Y.V 2.L.c 2.S.C 2.I.V	2.0 1.5 1.1 1.75 0.8	kʰulsi	0	21
+191	Yahi	DRY	kʰ u l s i	1 7 5 3 7	AXMBZ	KYLSI	3	3.K.C 3.Y.V 3.L.c 3.S.C 3.I.V	2.0 1.5 1.1 1.75 0.8	kʰulsi	0	21
+#
+13	Central Yana	EAR	m a l k u	4 7 5 1 7	AXMBZ	MALKY	1	1.M.C 1.A.V 1.L.c 1.K.C 1.Y.V	2.0 1.5 1.1 1.75 0.8	malku	0	22
+100	Northern Yana	EAR	m a l ʔ k u	4 7 5 1 1 7	AXLMBZ	MALHKY	2	2.M.C 2.A.V 2.L.c 2.H.c 2.K.C 2.Y.V	2.0 1.5 1.1 1.1 1.75 0.8	malʔku	0	22
+192	Yahi	EAR	m a n ʔ k u	4 7 4 1 1 7	AXLMBZ	MANHKY	3	3.M.C 3.A.V 3.N.c 3.H.c 3.K.C 3.Y.V	2.0 1.5 1.1 1.1 1.75 0.8	manʔku	0	22
+#
+14	Central Yana	EARTH (SOIL)	p iː w i	1 7 6 7	AXBZ	PIWI	1	1.P.C 1.I.V 1.W.C 1.I.V	2.0 1.5 1.75 0.8	piːwi	0	23
+101	Northern Yana	EARTH (SOIL)	p iː w i	1 7 6 7	AXBZ	PIWI	2	2.P.C 2.I.V 2.W.C 2.I.V	2.0 1.5 1.75 0.8	piːwi	0	23
+193	Yahi	EARTH (SOIL)	p iː w i	1 7 6 7	AXBZ	PIWI	3	3.P.C 3.I.V 3.W.C 3.I.V	2.0 1.5 1.75 0.8	piːwi	0	23
+#
+15	Central Yana	EAT	m a	4 7	AX	MA	1	1.M.C 1.A.V	2.0 1.5	ma	0	24
+102	Northern Yana	EAT	m a	4 7	AX	MA	2	2.M.C 2.A.V	2.0 1.5	ma	0	24
+194	Yahi	EAT	m a	4 7	AX	MA	3	3.M.C 3.A.V	2.0 1.5	ma	0	24
+#
+16	Central Yana	EYE	ʦʰ u n a	2 7 4 7	AXBZ	CYNA	1	1.C.C 1.Y.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	ʦʰuna	0	25
+103	Northern Yana	EYE	ʦʰ u n a	2 7 4 7	AXBZ	CYNA	2	2.C.C 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	ʦʰuna	0	25
+195	Yahi	EYE	ʦʰ u n a	2 7 4 7	AXBZ	CYNA	3	3.C.C 3.Y.V 3.N.C 3.A.V	2.0 1.5 1.75 0.8	ʦʰuna	0	25
+#
+75	Central Yana	FAR	pʰ a u	1 7 7	AXZ	PAY	1	1.P.C 1.A.V 1.Y.V	2.0 1.5 0.8	pʰau	0	26
+173	Northern Yana	FAR	pʰ a u	1 7 7	AXZ	PAY	2	2.P.C 2.A.V 2.Y.V	2.0 1.5 0.8	pʰau	0	26
+#
+17	Central Yana	FAT (FROM ANIMALS)	x a u j a u	3 7 7 6 7 7	AXYBYZ	GAYJAY	1	1.G.C 1.A.V 1.Y.V 1.J.C 1.A.V 1.Y.V	2.0 1.5 1.3 1.75 1.3 0.8	xaujau	0	27
+104	Northern Yana	FAT (FROM ANIMALS)	x a u j a u	3 7 7 6 7 7	AXYBYZ	GAYJAY	2	2.G.C 2.A.V 2.Y.V 2.J.C 2.A.V 2.Y.V	2.0 1.5 1.3 1.75 1.3 0.8	xaujau	0	27
+196	Yahi	FAT (FROM ANIMALS)	x a u j a u	3 7 7 6 7 7	AXYBYZ	GAYJAY	3	3.G.C 3.A.V 3.Y.V 3.J.C 3.A.V 3.Y.V	2.0 1.5 1.3 1.75 1.3 0.8	xaujau	0	27
+#
+105	Northern Yana	FEATHER	p uː n i	1 7 4 7	AXBZ	PYNI	2	2.P.C 2.Y.V 2.N.C 2.I.V	2.0 1.5 1.75 0.8	puːni	0	28
+197	Yahi	FEATHER	p uː n i	1 7 4 7	AXBZ	PYNI	3	3.P.C 3.Y.V 3.N.C 3.I.V	2.0 1.5 1.75 0.8	puːni	0	28
+#
+18	Central Yana	FIRE	ʔ a u n a	1 7 7 4 7	AXYBZ	HAYNA	1	1.H.C 1.A.V 1.Y.V 1.N.C 1.A.V	2.0 1.5 1.3 1.75 0.8	ʔauna	0	29
+106	Northern Yana	FIRE	ʔ a u n a	1 7 7 4 7	AXYBZ	HAYNA	2	2.H.C 2.A.V 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.3 1.75 0.8	ʔauna	0	29
+198	Yahi	FIRE	ʔ a u n a	1 7 7 4 7	AXYBZ	HAYNA	3	3.H.C 3.A.V 3.Y.V 3.N.C 3.A.V	2.0 1.5 1.3 1.75 0.8	ʔauna	0	29
+#
+19	Central Yana	FISH	k a l aː	1 7 5 7	AXBZ	KALA	1	1.K.C 1.A.V 1.L.C 1.A.V	2.0 1.5 1.75 0.8	kalaː	0	30
+107	Northern Yana	FISH	k a l aː	1 7 5 7	AXBZ	KALA	2	2.K.C 2.A.V 2.L.C 2.A.V	2.0 1.5 1.75 0.8	kalaː	0	30
+199	Yahi	FISH	k a l aː x i	1 7 5 7 3 7	AXBYBZ	KALAGI	3	3.K.C 3.A.V 3.L.C 3.A.V 3.G.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	kalaːxi	0	30
+#
+20	Central Yana	FLY (MOVE THROUGH AIR)	p a	1 7	AX	PA	1	1.P.C 1.A.V	2.0 1.5	pa	0	31
+108	Northern Yana	FLY (MOVE THROUGH AIR)	p a	1 7	AX	PA	2	2.P.C 2.A.V	2.0 1.5	pa	0	31
+200	Yahi	FLY (MOVE THROUGH AIR)	p a	1 7	AX	PA	3	3.P.C 3.A.V	2.0 1.5	pa	0	31
+#
+21	Central Yana	FOOT	l a l l a	5 7 5 5 7	AXMBZ	LALLA	1	1.L.C 1.A.V 1.L.c 1.L.C 1.A.V	2.0 1.5 1.1 1.75 0.8	lalla	0	32
+109	Northern Yana	FOOT	l a l l a	5 7 5 5 7	AXMBZ	LALLA	2	2.L.C 2.A.V 2.L.c 2.L.C 2.A.V	2.0 1.5 1.1 1.75 0.8	lalla	0	32
+201	Yahi	FOOT	l a l l a	5 7 5 5 7	AXMBZ	LALLA	3	3.L.C 3.A.V 3.L.c 3.L.C 3.A.V	2.0 1.5 1.1 1.75 0.8	lalla	0	32
+#
+22	Central Yana	FULL	p a n ʔ iː	1 7 4 1 7	AXMBZ	PANHI	1	1.P.C 1.A.V 1.N.c 1.H.C 1.I.V	2.0 1.5 1.1 1.75 0.8	panʔiː	0	33
+110	Northern Yana	FULL	p a ʔ n iː	1 7 1 4 7	AXBCZ	PAHNI	2	2.P.C 2.A.V 2.H.C 2.N.C 2.I.V	2.0 1.5 1.75 1.5 0.8	paʔniː	0	33
+202	Yahi	FULL	p a ʔ n iː	1 7 1 4 7	AXBCZ	PAHNI	3	3.P.C 3.A.V 3.H.C 3.N.C 3.I.V	2.0 1.5 1.75 1.5 0.8	paʔniː	0	33
+#
+23	Central Yana	GIVE	h a l ʦ a w a u	3 7 5 2 7 6 7 7	AXMBYBYZ	HALCAWAY	1	1.H.C 1.A.V 1.L.c 1.C.C 1.A.V 1.W.C 1.A.V 1.Y.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	halʦawau	0	34
+111	Northern Yana	GIVE	h a l ʦ a w a u	3 7 5 2 7 6 7 7	AXMBYBYZ	HALCAWAY	2	2.H.C 2.A.V 2.L.c 2.C.C 2.A.V 2.W.C 2.A.V 2.Y.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	halʦawau	0	34
+#
+24	Central Yana	GOOD	ʦʼ u p ʔ	2 7 1 1	AXLN	CYPH	1	1.C.C 1.Y.V 1.P.c 1.H.c	2.0 1.5 1.1 0.8	ʦʼupʔ	0	35
+112	Northern Yana	GOOD	ʦʼ u p ʔ	2 7 1 1	AXLN	CYPH	2	2.C.C 2.Y.V 2.P.c 2.H.c	2.0 1.5 1.1 0.8	ʦʼupʔ	0	35
+203	Yahi	GOOD	ʦʼ u p ʔ	2 7 1 1	AXLN	CYPH	3	3.C.C 3.Y.V 3.P.c 3.H.c	2.0 1.5 1.1 0.8	ʦʼupʔ	0	35
+#
+113	Northern Yana	GREEN	t a ʦʼ k a i s a	1 7 2 1 7 7 3 7	AXMBYYBZ	TACKAISA	2	2.T.C 2.A.V 2.C.c 2.K.C 2.A.V 2.I.V 2.S.C 2.A.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	taʦʼkaisa	0	36
+204	Yahi	GREEN	t a ʦʼ k a i s a	1 7 2 1 7 7 3 7	AXMBYYBZ	TACKAISA	3	3.T.C 3.A.V 3.C.c 3.K.C 3.A.V 3.I.V 3.S.C 3.A.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	taʦʼkaisa	0	36
+#
+25	Central Yana	HAIR	kʼ u j u l l a	1 7 6 7 5 5 7	AXBYMBZ	KYJYLLA	1	1.K.C 1.Y.V 1.J.C 1.Y.V 1.L.c 1.L.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	kʼujulla	0	37
+114	Northern Yana	HAIR	kʼ u j u l	1 7 6 7 5	AXBYN	KYJYL	2	2.K.C 2.Y.V 2.J.C 2.Y.V 2.L.c	2.0 1.5 1.75 1.3 0.8	kʼujul	0	37
+205	Yahi	HAIR	kʼ u ʔ j u l l a	1 7 1 6 7 5 5 7	AXBCYMBZ	KYHJYLLA	3	3.K.C 3.Y.V 3.H.C 3.J.C 3.Y.V 3.L.c 3.L.C 3.A.V	2.0 1.5 1.75 1.5 1.3 1.1 1.75 0.8	kʼuʔjulla	0	37
+#
+26	Central Yana	HAND	t a l l a	1 7 5 5 7	AXMBZ	TALLA	1	1.T.C 1.A.V 1.L.c 1.L.C 1.A.V	2.0 1.5 1.1 1.75 0.8	talla	0	38
+115	Northern Yana	HAND	t a l l a	1 7 5 5 7	AXMBZ	TALLA	2	2.T.C 2.A.V 2.L.c 2.L.C 2.A.V	2.0 1.5 1.1 1.75 0.8	talla	0	38
+206	Yahi	HAND	t a l l a	1 7 5 5 7	AXMBZ	TALLA	3	3.T.C 3.A.V 3.L.c 3.L.C 3.A.V	2.0 1.5 1.1 1.75 0.8	talla	0	38
+#
+27	Central Yana	HEAD	tʼ a l ʔ a i n a	1 7 5 1 7 7 4 7	AXMBYYBZ	TALHAINA	1	1.T.C 1.A.V 1.L.c 1.H.C 1.A.V 1.I.V 1.N.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	tʼalʔaina	0	39
+116	Northern Yana	HEAD	tʼ a l ʔ a i n a	1 7 5 1 7 7 4 7	AXMBYYBZ	TALHAINA	2	2.T.C 2.A.V 2.L.c 2.H.C 2.A.V 2.I.V 2.N.C 2.A.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	tʼalʔaina	0	39
+#
+28	Central Yana	HEAR	k aː	1 7	AX	KA	1	1.K.C 1.A.V	2.0 1.5	kaː	0	40
+117	Northern Yana	HEAR	k aː	1 7	AX	KA	2	2.K.C 2.A.V	2.0 1.5	kaː	0	40
+207	Yahi	HEAR	k aː	1 7	AX	KA	3	3.K.C 3.A.V	2.0 1.5	kaː	0	40
+#
+29	Central Yana	HEART	ʦ u k u ʦʼ i	2 7 1 7 2 7	AXBYBZ	CYKYCI	1	1.C.C 1.Y.V 1.K.C 1.Y.V 1.C.C 1.I.V	2.0 1.5 1.75 1.3 1.75 0.8	ʦukuʦʼi	0	41
+118	Northern Yana	HEART	ʦ u kʼ u t ʦʼ i	2 7 1 7 1 2 7	AXBYBCZ	CYKYTCI	2	2.C.C 2.Y.V 2.K.C 2.Y.V 2.T.C 2.C.C 2.I.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	ʦukʼutʦʼi	0	41
+#
+174	Northern Yana	HEAVY	m i ʦ a	4 7 2 7	AXBZ	MICA	2	2.M.C 2.I.V 2.C.C 2.A.V	2.0 1.5 1.75 0.8	miʦa	0	42
+257	Yahi	HEAVY	ʦʼ a ʔ w i ʦ a	2 7 1 6 7 2 7	AXBCYBZ	CAHWICA	3	3.C.C 3.A.V 3.H.C 3.W.C 3.I.V 3.C.C 3.A.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	ʦʼaʔwiʦa	0	43
+#
+30	Central Yana	HORN (ANATOMY)	w eː j u	6 7 6 7	AXBZ	WEJY	1	1.W.C 1.E.V 1.J.C 1.Y.V	2.0 1.5 1.75 0.8	weːju	0	44
+119	Northern Yana	HORN (ANATOMY)	w eː j u	6 7 6 7	AXBZ	WEJY	2	2.W.C 2.E.V 2.J.C 2.Y.V	2.0 1.5 1.75 0.8	weːju	0	44
+208	Yahi	HORN (ANATOMY)	w eː j u	6 7 6 7	AXBZ	WEJY	3	3.W.C 3.E.V 3.J.C 3.Y.V	2.0 1.5 1.75 0.8	weːju	0	44
+#
+31	Central Yana	I	a i ʔ n i ʦ a	7 7 1 4 7 2 7	XYBCYBZ	AIHNICA	1	1.A.V 1.I.V 1.H.C 1.N.C 1.I.V 1.C.C 1.A.V	1.5 1.3 1.75 1.5 1.3 1.75 0.8	aiʔniʦa	0	45
+120	Northern Yana	I	a i ʔ n i ʦ a	7 7 1 4 7 2 7	XYBCYBZ	AIHNICA	2	2.A.V 2.I.V 2.H.C 2.N.C 2.I.V 2.C.C 2.A.V	1.5 1.3 1.75 1.5 1.3 1.75 0.8	aiʔniʦa	0	45
+209	Yahi	I	a i ʔ n i ʦ i	7 7 1 4 7 2 7	XYBCYBZ	AIHNICI	3	3.A.V 3.I.V 3.H.C 3.N.C 3.I.V 3.C.C 3.I.V	1.5 1.3 1.75 1.5 1.3 1.75 0.8	aiʔniʦi	0	45
+#
+32	Central Yana	KILL	ʔ a m ʔ ʦ i	1 7 4 1 2 7	AXMBCZ	HAMHCI	1	1.H.C 1.A.V 1.M.c 1.H.C 1.C.C 1.I.V	2.0 1.5 1.1 1.75 1.5 0.8	ʔamʔʦi	0	46
+121	Northern Yana	KILL	ʔ a p ʔ ʦ i	1 7 1 1 2 7	AXMBCZ	HAPHCI	2	2.H.C 2.A.V 2.P.c 2.H.C 2.C.C 2.I.V	2.0 1.5 1.1 1.75 1.5 0.8	ʔapʔʦi	0	46
+210	Yahi	KILL	ʔ a p ʔ ʦ i	1 7 1 1 2 7	AXMBCZ	HAPHCI	3	3.H.C 3.A.V 3.P.c 3.H.C 3.C.C 3.I.V	2.0 1.5 1.1 1.75 1.5 0.8	ʔapʔʦi	0	46
+#
+122	Northern Yana	KNEE	h iː w a k i n n a	3 7 6 7 1 7 4 4 7	AXBYBYMBZ	HIWAKINNA	2	2.H.C 2.I.V 2.W.C 2.A.V 2.K.C 2.I.V 2.N.c 2.N.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 0.8	hiːwakinna	0	47
+211	Yahi	KNEE	pʰ uː t i kʼ i	1 7 1 7 1 7	AXBYBZ	PYTIKI	3	3.P.C 3.Y.V 3.T.C 3.I.V 3.K.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	pʰuːtikʼi	0	48
+#
+123	Northern Yana	KNOW (SOMETHING)	t i ʦ i p a	1 7 2 7 1 7	AXBYBZ	TICIPA	2	2.T.C 2.I.V 2.C.C 2.I.V 2.P.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tiʦipa	0	49
+#
+124	Northern Yana	LEAF	tʼ aː pʰ a l l a	1 7 1 7 5 5 7	AXBYMBZ	TAPALLA	2	2.T.C 2.A.V 2.P.C 2.A.V 2.L.c 2.L.C 2.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	tʼaːpʰalla	0	50
+#
+33	Central Yana	LIE (REST)	m u r u l	4 7 5 7 5	AXBYN	MYRYL	1	1.M.C 1.Y.V 1.R.C 1.Y.V 1.L.c	2.0 1.5 1.75 1.3 0.8	murul	0	51
+125	Northern Yana	LIE (REST)	m u r u l	4 7 5 7 5	AXBYN	MYRYL	2	2.M.C 2.Y.V 2.R.C 2.Y.V 2.L.c	2.0 1.5 1.75 1.3 0.8	murul	0	51
+212	Yahi	LIE (REST)	m u r u l	4 7 5 7 5	AXBYN	MYRYL	3	3.M.C 3.Y.V 3.R.C 3.Y.V 3.L.c	2.0 1.5 1.75 1.3 0.8	murul	0	51
+#
+34	Central Yana	LIVER	i m a	7 4 7	XBZ	IMA	1	1.I.V 1.M.C 1.A.V	1.5 1.75 0.8	ima	0	52
+126	Northern Yana	LIVER	i m a	7 4 7	XBZ	IMA	2	2.I.V 2.M.C 2.A.V	1.5 1.75 0.8	ima	0	52
+213	Yahi	LIVER	i m a	7 4 7	XBZ	IMA	3	3.I.V 3.M.C 3.A.V	1.5 1.75 0.8	ima	0	52
+#
+35	Central Yana	LONG	ʦ u l	2 7 5	AXN	CYL	1	1.C.C 1.Y.V 1.L.c	2.0 1.5 0.8	ʦul	0	53
+127	Northern Yana	LONG	ʦ u l	2 7 5	AXN	CYL	2	2.C.C 2.Y.V 2.L.c	2.0 1.5 0.8	ʦul	0	53
+214	Yahi	LONG	ʦ u l	2 7 5	AXN	CYL	3	3.C.C 3.Y.V 3.L.c	2.0 1.5 0.8	ʦul	0	53
+#
+128	Northern Yana	LOUSE	ʦ i n a	2 7 4 7	AXBZ	CINA	2	2.C.C 2.I.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	ʦina	0	54
+#
+36	Central Yana	MAN	h i s i	3 7 3 7	AXBZ	HISI	1	1.H.C 1.I.V 1.S.C 1.I.V	2.0 1.5 1.75 0.8	hisi	0	55
+129	Northern Yana	MAN	h i s i	3 7 3 7	AXBZ	HISI	2	2.H.C 2.I.V 2.S.C 2.I.V	2.0 1.5 1.75 0.8	hisi	0	55
+215	Yahi	MAN	h i h s i	3 7 3 3 7	AXMBZ	HIHSI	3	3.H.C 3.I.V 3.H.c 3.S.C 3.I.V	2.0 1.5 1.1 1.75 0.8	hihsi	0	55
+#
+37	Central Yana	MANY	t a t ʔ	1 7 1 1	AXLN	TATH	1	1.T.C 1.A.V 1.T.c 1.H.c	2.0 1.5 1.1 0.8	tatʔ	0	56
+130	Northern Yana	MANY	t a t ʔ	1 7 1 1	AXLN	TATH	2	2.T.C 2.A.V 2.T.c 2.H.c	2.0 1.5 1.1 0.8	tatʔ	0	56
+216	Yahi	MANY	t a t ʔ	1 7 1 1	AXLN	TATH	3	3.T.C 3.A.V 3.T.c 3.H.c	2.0 1.5 1.1 0.8	tatʔ	0	56
+#
+131	Northern Yana	MEAT	p a s i	1 7 3 7	AXBZ	PASI	2	2.P.C 2.A.V 2.S.C 2.I.V	2.0 1.5 1.75 0.8	pasi	0	57
+217	Yahi	MEAT	p a h s i	1 7 3 3 7	AXMBZ	PAHSI	3	3.P.C 3.A.V 3.H.c 3.S.C 3.I.V	2.0 1.5 1.1 1.75 0.8	pahsi	1	57
+#
+132	Northern Yana	MOON	w a kʼ aː r a	6 7 1 7 5 7	AXBYBZ	WAKARA	2	2.W.C 2.A.V 2.K.C 2.A.V 2.R.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	wakʼaːra	0	58
+218	Yahi	MOON	w a kʼ aː r a	6 7 1 7 5 7	AXBYBZ	WAKARA	3	3.W.C 3.A.V 3.K.C 3.A.V 3.R.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	wakʼaːra	0	58
+#
+38	Central Yana	MOUNTAIN	ʦ iː k a l l a	2 7 1 7 5 5 7	AXBYMBZ	CIKALLA	1	1.C.C 1.I.V 1.K.C 1.A.V 1.L.c 1.L.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	ʦiːkalla	0	59
+133	Northern Yana	MOUNTAIN	ʦ iː k a l l a	2 7 1 7 5 5 7	AXBYMBZ	CIKALLA	2	2.C.C 2.I.V 2.K.C 2.A.V 2.L.c 2.L.C 2.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	ʦiːkalla	0	59
+219	Yahi	MOUNTAIN	ʦ iː k a l x i	2 7 1 7 5 3 7	AXBYMBZ	CIKALGI	3	3.C.C 3.I.V 3.K.C 3.A.V 3.L.c 3.G.C 3.I.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	ʦiːkalxi	0	59
+#
+39	Central Yana	MOUTH	p a l l a	1 7 5 5 7	AXMBZ	PALLA	1	1.P.C 1.A.V 1.L.c 1.L.C 1.A.V	2.0 1.5 1.1 1.75 0.8	palla	0	60
+220	Yahi	MOUTH	p a l l a	1 7 5 5 7	AXMBZ	PALLA	3	3.P.C 3.A.V 3.L.c 3.L.C 3.A.V	2.0 1.5 1.1 1.75 0.8	palla	0	60
+#
+40	Central Yana	NAME	ʦ eː j a u n a	2 7 6 7 7 4 7	AXBYYBZ	CEJAYNA	1	1.C.C 1.E.V 1.J.C 1.A.V 1.Y.V 1.N.C 1.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	ʦeːjauna	0	61
+134	Northern Yana	NAME	ʦ eː j a u n a	2 7 6 7 7 4 7	AXBYYBZ	CEJAYNA	2	2.C.C 2.E.V 2.J.C 2.A.V 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	ʦeːjauna	0	61
+221	Yahi	NAME	ʦ eː j a u n a	2 7 6 7 7 4 7	AXBYYBZ	CEJAYNA	3	3.C.C 3.E.V 3.J.C 3.A.V 3.Y.V 3.N.C 3.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	ʦeːjauna	0	61
+#
+76	Central Yana	NEAR	kʼ a ʔ n a i	1 7 1 4 7 7	AXBCYZ	KAHNAI	1	1.K.C 1.A.V 1.H.C 1.N.C 1.A.V 1.I.V	2.0 1.5 1.75 1.5 1.3 0.8	kʼaʔnai	0	62
+175	Northern Yana	NEAR	kʼ a ʔ n a i	1 7 1 4 7 7	AXBCYZ	KAHNAI	2	2.K.C 2.A.V 2.H.C 2.N.C 2.A.V 2.I.V	2.0 1.5 1.75 1.5 1.3 0.8	kʼaʔnai	0	62
+258	Yahi	NEAR	kʼ a ʔ n a i	1 7 1 4 7 7	AXBCYZ	KAHNAI	3	3.K.C 3.A.V 3.H.C 3.N.C 3.A.V 3.I.V	2.0 1.5 1.75 1.5 1.3 0.8	kʼaʔnai	0	62
+#
+135	Northern Yana	NECK	t u l l a	1 7 5 5 7	AXMBZ	TYLLA	2	2.T.C 2.Y.V 2.L.c 2.L.C 2.A.V	2.0 1.5 1.1 1.75 0.8	tulla	0	63
+222	Yahi	NECK	t u l l a	1 7 5 5 7	AXMBZ	TYLLA	3	3.T.C 3.Y.V 3.L.c 3.L.C 3.A.V	2.0 1.5 1.1 1.75 0.8	tulla	0	63
+#
+41	Central Yana	NIGHT	p a s iː j a u n a	1 7 3 7 6 7 7 4 7	AXBYBYYBZ	PASIJAYNA	1	1.P.C 1.A.V 1.S.C 1.I.V 1.J.C 1.A.V 1.Y.V 1.N.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	pasiːjauna	0	64
+136	Northern Yana	NIGHT	p a s iː j a u n a	1 7 3 7 6 7 7 4 7	AXBYBYYBZ	PASIJAYNA	2	2.P.C 2.A.V 2.S.C 2.I.V 2.J.C 2.A.V 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	pasiːjauna	0	64
+223	Yahi	NIGHT	p a h s i	1 7 3 3 7	AXMBZ	PAHSI	3	3.P.C 3.A.V 3.H.c 3.S.C 3.I.V	2.0 1.5 1.1 1.75 0.8	pahsi	0	64
+#
+137	Northern Yana	NOSE	l iː l i m a u n a	5 7 5 7 4 7 7 4 7	AXBYBYYBZ	LILIMAYNA	2	2.L.C 2.I.V 2.L.C 2.I.V 2.M.C 2.A.V 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	liːlimauna	0	65
+224	Yahi	NOSE	n iː n i m a u n a	4 7 4 7 4 7 7 4 7	AXBYBYYBZ	NINIMAYNA	3	3.N.C 3.I.V 3.N.C 3.I.V 3.M.C 3.A.V 3.Y.V 3.N.C 3.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	niːnimauna	0	65
+#
+42	Central Yana	NOT	kʰ uː	1 7	AX	KY	1	1.K.C 1.Y.V	2.0 1.5	kʰuː	0	66
+138	Northern Yana	NOT	kʰ uː	1 7	AX	KY	2	2.K.C 2.Y.V	2.0 1.5	kʰuː	0	66
+225	Yahi	NOT	kʰ uː	1 7	AX	KY	3	3.K.C 3.Y.V	2.0 1.5	kʰuː	0	66
+#
+43	Central Yana	ONE	p a i k u	1 7 7 1 7	AXYBZ	PAIKY	1	1.P.C 1.A.V 1.I.V 1.K.C 1.Y.V	2.0 1.5 1.3 1.75 0.8	paiku	0	67
+139	Northern Yana	ONE	p a i k u	1 7 7 1 7	AXYBZ	PAIKY	2	2.P.C 2.A.V 2.I.V 2.K.C 2.Y.V	2.0 1.5 1.3 1.75 0.8	paiku	0	67
+226	Yahi	ONE	p a i k u	1 7 7 1 7	AXYBZ	PAIKY	3	3.P.C 3.A.V 3.I.V 3.K.C 3.Y.V	2.0 1.5 1.3 1.75 0.8	paiku	0	67
+#
+44	Central Yana	PERSON	j aː n a	6 7 4 7	AXBZ	JANA	1	1.J.C 1.A.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	jaːna	0	68
+140	Northern Yana	PERSON	j aː n a	6 7 4 7	AXBZ	JANA	2	2.J.C 2.A.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	jaːna	0	68
+227	Yahi	PERSON	j aː x i	6 7 3 7	AXBZ	JAGI	3	3.J.C 3.A.V 3.G.C 3.I.V	2.0 1.5 1.75 0.8	jaːxi	0	68
+#
+45	Central Yana	RAIN (PRECIPITATION)	p a r eː kʼ u	1 7 5 7 1 7	AXBYBZ	PAREKY	1	1.P.C 1.A.V 1.R.C 1.E.V 1.K.C 1.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	pareːkʼu	0	69
+141	Northern Yana	RAIN (PRECIPITATION)	p a r i kʼ u	1 7 5 7 1 7	AXBYBZ	PARIKY	2	2.P.C 2.A.V 2.R.C 2.I.V 2.K.C 2.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	parikʼu	0	69
+228	Yahi	RAIN (PRECIPITATION)	p a r i kʼ u	1 7 5 7 1 7	AXBYBZ	PARIKY	3	3.P.C 3.A.V 3.R.C 3.I.V 3.K.C 3.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	parikʼu	0	69
+#
+46	Central Yana	RED	p a w a t ʔ k u	1 7 6 7 1 1 1 7	AXBYLMBZ	PAWATHKY	1	1.P.C 1.A.V 1.W.C 1.A.V 1.T.c 1.H.c 1.K.C 1.Y.V	2.0 1.5 1.75 1.3 1.1 1.1 1.75 0.8	pawatʔku	0	70
+142	Northern Yana	RED	t a w a t ʔ s a	1 7 6 7 1 1 3 7	AXBYMBCZ	TAWATHSA	2	2.T.C 2.A.V 2.W.C 2.A.V 2.T.c 2.H.C 2.S.C 2.A.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 0.8	tawatʔsa	0	71
+229	Yahi	RED	t a w a t ʔ s a	1 7 6 7 1 1 3 7	AXBYMBCZ	TAWATHSA	3	3.T.C 3.A.V 3.W.C 3.A.V 3.T.c 3.H.C 3.S.C 3.A.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 0.8	tawatʔsa	0	71
+#
+47	Central Yana	ROAD	h iː j a	3 7 6 7	AXBZ	HIJA	1	1.H.C 1.I.V 1.J.C 1.A.V	2.0 1.5 1.75 0.8	hiːja	0	72
+143	Northern Yana	ROAD	h iː j a	3 7 6 7	AXBZ	HIJA	2	2.H.C 2.I.V 2.J.C 2.A.V	2.0 1.5 1.75 0.8	hiːja	0	72
+230	Yahi	ROAD	h iː j a	3 7 6 7	AXBZ	HIJA	3	3.H.C 3.I.V 3.J.C 3.A.V	2.0 1.5 1.75 0.8	hiːja	0	72
+#
+144	Northern Yana	ROUND	h eː ʦ i l	3 7 2 7 5	AXBYN	HECIL	2	2.H.C 2.E.V 2.C.C 2.I.V 2.L.c	2.0 1.5 1.75 1.3 0.8	heːʦil	0	73
+#
+176	Northern Yana	SALT	w iː ʦʰ u	6 7 2 7	AXBZ	WICY	2	2.W.C 2.I.V 2.C.C 2.Y.V	2.0 1.5 1.75 0.8	wiːʦʰu	0	74
+#
+145	Northern Yana	SAND	kʰ u i ʔ j a u n a	1 7 7 1 6 7 7 4 7	AXYBCYYBZ	KYIHJAYNA	2	2.K.C 2.Y.V 2.I.V 2.H.C 2.J.C 2.A.V 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.3 1.75 1.5 1.3 1.3 1.75 0.8	kʰuiʔjauna	0	75
+#
+48	Central Yana	SAY	tʰ iː	1 7	AX	TI	1	1.T.C 1.I.V	2.0 1.5	tʰiː	0	76
+146	Northern Yana	SAY	tʰ iː	1 7	AX	TI	2	2.T.C 2.I.V	2.0 1.5	tʰiː	0	76
+231	Yahi	SAY	tʰ iː	1 7	AX	TI	3	3.T.C 3.I.V	2.0 1.5	tʰiː	0	76
+#
+49	Central Yana	SEE	t i w a i	1 7 6 7 7	AXBYZ	TIWAI	1	1.T.C 1.I.V 1.W.C 1.A.V 1.I.V	2.0 1.5 1.75 1.3 0.8	tiwai	0	77
+147	Northern Yana	SEE	t i w a i	1 7 6 7 7	AXBYZ	TIWAI	2	2.T.C 2.I.V 2.W.C 2.A.V 2.I.V	2.0 1.5 1.75 1.3 0.8	tiwai	0	77
+232	Yahi	SEE	t a w a i	1 7 6 7 7	AXBYZ	TAWAI	3	3.T.C 3.A.V 3.W.C 3.A.V 3.I.V	2.0 1.5 1.75 1.3 0.8	tawai	0	77
+#
+77	Central Yana	SHORT	p a k a n k u	1 7 1 7 4 1 7	AXBYMBZ	PAKANKY	1	1.P.C 1.A.V 1.K.C 1.A.V 1.N.c 1.K.C 1.Y.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	pakanku	0	78
+177	Northern Yana	SHORT	p a k a t k u	1 7 1 7 1 1 7	AXBYMBZ	PAKATKY	2	2.P.C 2.A.V 2.K.C 2.A.V 2.T.c 2.K.C 2.Y.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	pakatku	0	78
+259	Yahi	SHORT	p a h k a n k u	1 7 3 1 7 4 1 7	AXMBYMBZ	PAHKANKY	3	3.P.C 3.A.V 3.H.c 3.K.C 3.A.V 3.N.c 3.K.C 3.Y.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 0.8	pahkanku	0	78
+#
+50	Central Yana	SIT	w a	6 7	AX	WA	1	1.W.C 1.A.V	2.0 1.5	wa	0	79
+148	Northern Yana	SIT	w a	6 7	AX	WA	2	2.W.C 2.A.V	2.0 1.5	wa	0	79
+233	Yahi	SIT	w a	6 7	AX	WA	3	3.W.C 3.A.V	2.0 1.5	wa	0	79
+#
+51	Central Yana	SKIN	m i w i	4 7 6 7	AXBZ	MIWI	1	1.M.C 1.I.V 1.W.C 1.I.V	2.0 1.5 1.75 0.8	miwi	0	80
+#
+52	Central Yana	SLEEP	s a m s i	3 7 4 3 7	AXMBZ	SAMSI	1	1.S.C 1.A.V 1.M.c 1.S.C 1.I.V	2.0 1.5 1.1 1.75 0.8	samsi	0	81
+149	Northern Yana	SLEEP	s a p s i	3 7 1 3 7	AXBCZ	SAPSI	2	2.S.C 2.A.V 2.P.C 2.S.C 2.I.V	2.0 1.5 1.75 1.5 0.8	sapsi	0	81
+234	Yahi	SLEEP	ʦ a m s i	2 7 4 3 7	AXMBZ	CAMSI	3	3.C.C 3.A.V 3.M.c 3.S.C 3.I.V	2.0 1.5 1.1 1.75 0.8	ʦamsi	0	81
+#
+53	Central Yana	SMALL	tʼ i n iː k u	1 7 4 7 1 7	AXBYBZ	TINIKY	1	1.T.C 1.I.V 1.N.C 1.I.V 1.K.C 1.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	tʼiniːku	0	82
+150	Northern Yana	SMALL	tʼ i n iː k u	1 7 4 7 1 7	AXBYBZ	TINIKY	2	2.T.C 2.I.V 2.N.C 2.I.V 2.K.C 2.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	tʼiniːku	0	82
+235	Yahi	SMALL	tʼ i h n iː k u	1 7 3 4 7 1 7	AXBCYBZ	TIHNIKY	3	3.T.C 3.I.V 3.H.C 3.N.C 3.I.V 3.K.C 3.Y.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	tʼihniːku	0	82
+#
+54	Central Yana	SMOKE (EXHAUST)	ʦʰ eː kʼ a u n a	2 7 1 7 7 4 7	AXBYYBZ	CEKAYNA	1	1.C.C 1.E.V 1.K.C 1.A.V 1.Y.V 1.N.C 1.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	ʦʰeːkʼauna	0	83
+151	Northern Yana	SMOKE (EXHAUST)	ʦʰ eː kʼ a u n a	2 7 1 7 7 4 7	AXBYYBZ	CEKAYNA	2	2.C.C 2.E.V 2.K.C 2.A.V 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	ʦʰeːkʼauna	0	83
+#
+55	Central Yana	STAND	w aː kʼ i	6 7 1 7	AXBZ	WAKI	1	1.W.C 1.A.V 1.K.C 1.I.V	2.0 1.5 1.75 0.8	waːkʼi	0	84
+152	Northern Yana	STAND	w aː kʼ i	6 7 1 7	AXBZ	WAKI	2	2.W.C 2.A.V 2.K.C 2.I.V	2.0 1.5 1.75 0.8	waːkʼi	0	84
+236	Yahi	STAND	w aː kʼ i	6 7 1 7	AXBZ	WAKI	3	3.W.C 3.A.V 3.K.C 3.I.V	2.0 1.5 1.75 0.8	waːkʼi	0	84
+#
+153	Northern Yana	STAR	i ʔ l a l a	7 1 5 7 5 7	XBCYBZ	IHLALA	2	2.I.V 2.H.C 2.L.C 2.A.V 2.L.C 2.A.V	1.5 1.75 1.5 1.3 1.75 0.8	iʔlala	0	85
+237	Yahi	STAR	h i l t a k a	3 7 5 1 7 1 7	AXMBYBZ	HILTAKA	3	3.H.C 3.I.V 3.L.c 3.T.C 3.A.V 3.K.C 3.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	hiltaka	0	86
+#
+56	Central Yana	STONE	kʼ a i n a	1 7 7 4 7	AXYBZ	KAINA	1	1.K.C 1.A.V 1.I.V 1.N.C 1.A.V	2.0 1.5 1.3 1.75 0.8	kʼaina	0	87
+154	Northern Yana	STONE	kʼ a i n a	1 7 7 4 7	AXYBZ	KAINA	2	2.K.C 2.A.V 2.I.V 2.N.C 2.A.V	2.0 1.5 1.3 1.75 0.8	kʼaina	0	87
+238	Yahi	STONE	kʼ a i n a	1 7 7 4 7	AXYBZ	KAINA	3	3.K.C 3.A.V 3.I.V 3.N.C 3.A.V	2.0 1.5 1.3 1.75 0.8	kʼaina	0	87
+#
+155	Northern Yana	SUN	tʼ u i n a	1 7 7 4 7	AXYBZ	TYINA	2	2.T.C 2.Y.V 2.I.V 2.N.C 2.A.V	2.0 1.5 1.3 1.75 0.8	tʼuina	0	88
+239	Yahi	SUN	tʼ u i x i	1 7 7 3 7	AXYBZ	TYIGI	3	3.T.C 3.Y.V 3.I.V 3.G.C 3.I.V	2.0 1.5 1.3 1.75 0.8	tʼuixi	0	88
+#
+57	Central Yana	SWIM	pʰ uː	1 7	AX	PY	1	1.P.C 1.Y.V	2.0 1.5	pʰuː	0	89
+156	Northern Yana	SWIM	pʰ uː	1 7	AX	PY	2	2.P.C 2.Y.V	2.0 1.5	pʰuː	0	89
+240	Yahi	SWIM	pʰ uː	1 7	AX	PY	3	3.P.C 3.Y.V	2.0 1.5	pʰuː	0	89
+#
+58	Central Yana	TAIL	pʼ u l s u	1 7 5 3 7	AXMBZ	PYLSY	1	1.P.C 1.Y.V 1.L.c 1.S.C 1.Y.V	2.0 1.5 1.1 1.75 0.8	pʼulsu	0	90
+#
+59	Central Yana	THAT	a i ʦ e ʔ e	7 7 2 7 1 7	XYBYBZ	AICEHE	1	1.A.V 1.I.V 1.C.C 1.E.V 1.H.C 1.E.V	1.5 1.3 1.75 1.3 1.75 0.8	aiʦeʔe	0	91
+157	Northern Yana	THAT	a i ʦ e ʔ e	7 7 2 7 1 7	XYBYBZ	AICEHE	2	2.A.V 2.I.V 2.C.C 2.E.V 2.H.C 2.E.V	1.5 1.3 1.75 1.3 1.75 0.8	aiʦeʔe	0	91
+241	Yahi	THAT	a i ʦ i	7 7 2 7	XYBZ	AICI	3	3.A.V 3.I.V 3.C.C 3.I.V	1.5 1.3 1.75 0.8	aiʦi	0	91
+#
+78	Central Yana	THIN (OF SHAPE OF OBJECT)	pʼ u tʼ aː	1 7 1 7	AXBZ	PYTA	1	1.P.C 1.Y.V 1.T.C 1.A.V	2.0 1.5 1.75 0.8	pʼutʼaː	0	92
+#
+60	Central Yana	THIS	a i ʦʰ	7 7 2	XYN	AIC	1	1.A.V 1.I.V 1.C.c	1.5 1.3 0.8	aiʦʰ	0	93
+158	Northern Yana	THIS	a i ʦʰ	7 7 2	XYN	AIC	2	2.A.V 2.I.V 2.C.c	1.5 1.3 0.8	aiʦʰ	0	94
+#
+61	Central Yana	THOU	a i ʔ n u m a	7 7 1 4 7 4 7	XYBCYBZ	AIHNYMA	1	1.A.V 1.I.V 1.H.C 1.N.C 1.Y.V 1.M.C 1.A.V	1.5 1.3 1.75 1.5 1.3 1.75 0.8	aiʔnuma	0	95
+159	Northern Yana	THOU	a i ʔ n u m a	7 7 1 4 7 4 7	XYBCYBZ	AIHNYMA	2	2.A.V 2.I.V 2.H.C 2.N.C 2.Y.V 2.M.C 2.A.V	1.5 1.3 1.75 1.5 1.3 1.75 0.8	aiʔnuma	0	95
+242	Yahi	THOU	a i ʔ n u m a	7 7 1 4 7 4 7	XYBCYBZ	AIHNYMA	3	3.A.V 3.I.V 3.H.C 3.N.C 3.Y.V 3.M.C 3.A.V	1.5 1.3 1.75 1.5 1.3 1.75 0.8	aiʔnuma	0	95
+#
+160	Northern Yana	TONGUE	p a w a ʔ l a	1 7 6 7 1 5 7	AXBYBCZ	PAWAHLA	2	2.P.C 2.A.V 2.W.C 2.A.V 2.H.C 2.L.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	pawaʔla	0	96
+243	Yahi	TONGUE	p a w a ʔ n a	1 7 6 7 1 4 7	AXBYBCZ	PAWAHNA	3	3.P.C 3.A.V 3.W.C 3.A.V 3.H.C 3.N.C 3.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	pawaʔna	0	96
+#
+62	Central Yana	TOOTH	kʰ i ʦʼ a u n a	1 7 2 7 7 4 7	AXBYYBZ	KICAYNA	1	1.K.C 1.I.V 1.C.C 1.A.V 1.Y.V 1.N.C 1.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	kʰiʦʼauna	0	97
+244	Yahi	TOOTH	kʰ i ʦʼ a u n a	1 7 2 7 7 4 7	AXBYYBZ	KICAYNA	3	3.K.C 3.I.V 3.C.C 3.A.V 3.Y.V 3.N.C 3.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	kʰiʦʼauna	0	97
+#
+63	Central Yana	TREE	ʔ i n a	1 7 4 7	AXBZ	HINA	1	1.H.C 1.I.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	ʔina	0	98
+161	Northern Yana	TREE	ʔ i n a	1 7 4 7	AXBZ	HINA	2	2.H.C 2.I.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	ʔina	0	98
+245	Yahi	TREE	ʔ i w i	1 7 6 7	AXBZ	HIWI	3	3.H.C 3.I.V 3.W.C 3.I.V	2.0 1.5 1.75 0.8	ʔiwi	0	100
+#
+64	Central Yana	TWO	u x	7 3	XN	YG	1	1.Y.V 1.G.c	1.5 0.8	ux	0	101
+162	Northern Yana	TWO	u x	7 3	XN	YG	2	2.Y.V 2.G.c	1.5 0.8	ux	0	101
+246	Yahi	TWO	u x	7 3	XN	YG	3	3.Y.V 3.G.c	1.5 0.8	ux	0	101
+#
+65	Central Yana	WALK	n i	4 7	AX	NI	1	1.N.C 1.I.V	2.0 1.5	ni	1	102
+66	Central Yana	WALK	h a	3 7	AX	HA	1	1.H.C 1.A.V	2.0 1.5	ha	1	105
+163	Northern Yana	WALK	n i	4 7	AX	NI	2	2.N.C 2.I.V	2.0 1.5	ni	1	102
+164	Northern Yana	WALK	h a	3 7	AX	HA	2	2.H.C 2.A.V	2.0 1.5	ha	1	105
+247	Yahi	WALK	n i	4 7	AX	NI	3	3.N.C 3.I.V	2.0 1.5	ni	1	102
+248	Yahi	WALK	h a	3 7	AX	HA	3	3.H.C 3.A.V	2.0 1.5	ha	1	105
+#
+67	Central Yana	WARM	j a r i pʼ a	6 7 5 7 1 7	AXBYBZ	JARIPA	1	1.J.C 1.A.V 1.R.C 1.I.V 1.P.C 1.A.V	2.0 1.5 1.75 1.3 1.75 0.8	jaripʼa	0	106
+165	Northern Yana	WARM	j a r i pʼ a	6 7 5 7 1 7	AXBYBZ	JARIPA	2	2.J.C 2.A.V 2.R.C 2.I.V 2.P.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	jaripʼa	0	106
+249	Yahi	WARM	a ʔ n a i n a	7 1 4 7 7 4 7	XBCYYBZ	AHNAINA	3	3.A.V 3.H.C 3.N.C 3.A.V 3.I.V 3.N.C 3.A.V	1.5 1.75 1.5 1.3 1.3 1.75 0.8	aʔnaina	0	108
+#
+68	Central Yana	WATER	x a n a	3 7 4 7	AXBZ	GANA	1	1.G.C 1.A.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	xana	0	109
+166	Northern Yana	WATER	x a n a	3 7 4 7	AXBZ	GANA	2	2.G.C 2.A.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	xana	0	109
+250	Yahi	WATER	x a n a	3 7 4 7	AXBZ	GANA	3	3.G.C 3.A.V 3.N.C 3.A.V	2.0 1.5 1.75 0.8	xana	0	109
+#
+69	Central Yana	WE	a i kʰ i ʔ n i k i	7 7 1 7 1 4 7 1 7	XYBYBCYBZ	AIKIHNIKI	1	1.A.V 1.I.V 1.K.C 1.I.V 1.H.C 1.N.C 1.I.V 1.K.C 1.I.V	1.5 1.3 1.75 1.3 1.75 1.5 1.3 1.75 0.8	aikʰiʔniki	0	110
+167	Northern Yana	WE	a i kʰ i ʔ n i k i	7 7 1 7 1 4 7 1 7	XYBYBCYBZ	AIKIHNIKI	2	2.A.V 2.I.V 2.K.C 2.I.V 2.H.C 2.N.C 2.I.V 2.K.C 2.I.V	1.5 1.3 1.75 1.3 1.75 1.5 1.3 1.75 0.8	aikʰiʔniki	0	110
+251	Yahi	WE	a i kʰ i ʔ n i k i	7 7 1 7 1 4 7 1 7	XYBYBCYBZ	AIKIHNIKI	3	3.A.V 3.I.V 3.K.C 3.I.V 3.H.C 3.N.C 3.I.V 3.K.C 3.I.V	1.5 1.3 1.75 1.3 1.75 1.5 1.3 1.75 0.8	aikʰiʔniki	0	110
+#
+70	Central Yana	WHAT	a ʦʰ iː m a	7 2 7 4 7	XBYBZ	ACIMA	1	1.A.V 1.C.C 1.I.V 1.M.C 1.A.V	1.5 1.75 1.3 1.75 0.8	aʦʰiːma	0	111
+168	Northern Yana	WHAT	a ʦʰ iː m a	7 2 7 4 7	XBYBZ	ACIMA	2	2.A.V 2.C.C 2.I.V 2.M.C 2.A.V	1.5 1.75 1.3 1.75 0.8	aʦʰiːma	0	111
+252	Yahi	WHAT	ʔ a h ʦ a	1 7 3 2 7	AXMBZ	HAHCA	3	3.H.C 3.A.V 3.H.c 3.C.C 3.A.V	2.0 1.5 1.1 1.75 0.8	ʔahʦa	0	113
+#
+71	Central Yana	WHITE	t a l a p ʔ s a	1 7 5 7 1 1 3 7	AXBYMBCZ	TALAPHSA	1	1.T.C 1.A.V 1.L.C 1.A.V 1.P.c 1.H.C 1.S.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 0.8	talapʔsa	0	114
+169	Northern Yana	WHITE	tʼ a l a p ʔ	1 7 5 7 1 1	AXBYLN	TALAPH	2	2.T.C 2.A.V 2.L.C 2.A.V 2.P.c 2.H.c	2.0 1.5 1.75 1.3 1.1 0.8	tʼalapʔ	0	114
+253	Yahi	WHITE	tʼ a l a p ʔ	1 7 5 7 1 1	AXBYLN	TALAPH	3	3.T.C 3.A.V 3.L.C 3.A.V 3.P.c 3.H.c	2.0 1.5 1.75 1.3 1.1 0.8	tʼalapʔ	0	114
+#
+72	Central Yana	WHO	ʔ a m p i m a	1 7 4 1 7 4 7	AXMBYBZ	HAMPIMA	1	1.H.C 1.A.V 1.M.c 1.P.C 1.I.V 1.M.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʔampima	0	115
+170	Northern Yana	WHO	ʔ a p p i m a	1 7 1 1 7 4 7	AXMBYBZ	HAPPIMA	2	2.H.C 2.A.V 2.P.c 2.P.C 2.I.V 2.M.C 2.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʔappima	0	115
+254	Yahi	WHO	ʔ a m p i m a	1 7 4 1 7 4 7	AXMBYBZ	HAMPIMA	3	3.H.C 3.A.V 3.M.c 3.P.C 3.I.V 3.M.C 3.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʔampima	0	115
+#
+79	Central Yana	WIND	ʦ u kʼ a l l a	2 7 1 7 5 5 7	AXBYMBZ	CYKALLA	1	1.C.C 1.Y.V 1.K.C 1.A.V 1.L.c 1.L.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	ʦukʼalla	0	116
+178	Northern Yana	WIND	ʦ u kʼ a l l a	2 7 1 7 5 5 7	AXBYMBZ	CYKALLA	2	2.C.C 2.Y.V 2.K.C 2.A.V 2.L.c 2.L.C 2.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	ʦukʼalla	0	116
+260	Yahi	WIND	ʦ u ʔ kʼ a l l a	2 7 1 1 7 5 5 7	AXMBYMBZ	CYHKALLA	3	3.C.C 3.Y.V 3.H.c 3.K.C 3.A.V 3.L.c 3.L.C 3.A.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 0.8	ʦuʔkʼalla	0	116
+#
+73	Central Yana	WOMAN	m a r i ʔ m i	4 7 5 7 1 4 7	AXBYBCZ	MARIHMI	1	1.M.C 1.A.V 1.R.C 1.I.V 1.H.C 1.M.C 1.I.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	mariʔmi	0	117
+171	Northern Yana	WOMAN	m a r i ʔ m i	4 7 5 7 1 4 7	AXBYBCZ	MARIHMI	2	2.M.C 2.A.V 2.R.C 2.I.V 2.H.C 2.M.C 2.I.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	mariʔmi	0	117
+255	Yahi	WOMAN	m a r i ʔ m i	4 7 5 7 1 4 7	AXBYBCZ	MARIHMI	3	3.M.C 3.A.V 3.R.C 3.I.V 3.H.C 3.M.C 3.I.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	mariʔmi	0	117
+#
+80	Central Yana	WORM	p iː n a	1 7 4 7	AXBZ	PINA	1	1.P.C 1.I.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	piːna	0	118
+#
+74	Central Yana	YELLOW	t a m u x t u i s a	1 7 4 7 3 1 7 7 3 7	AXBYMBYYBZ	TAMYGTYISA	1	1.T.C 1.A.V 1.M.C 1.Y.V 1.G.c 1.T.C 1.Y.V 1.I.V 1.S.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.3 1.75 0.8	tamuxtuisa	0	119
+172	Northern Yana	YELLOW	m u x t u i	4 7 3 1 7 7	AXMBYZ	MYGTYI	2	2.M.C 2.Y.V 2.G.c 2.T.C 2.Y.V 2.I.V	2.0 1.5 1.1 1.75 1.3 0.8	muxtui	0	119
+256	Yahi	YELLOW	t a m u s t u i s a	1 7 4 7 3 1 7 7 3 7	AXBYMBYYBZ	TAMYSTYISA	3	3.T.C 3.A.V 3.M.C 3.Y.V 3.S.c 3.T.C 3.Y.V 3.I.V 3.S.C 3.A.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.3 1.75 0.8	tamustuisa	0	119
+# Created using the LexStat class of LingPy-2.6.8
+# Parameters: 2:1_1.00_1000_0.70_global-2-0.50:local-1-0.50_0.30__T_shuffle_False:upgma:-2_0.7_0.00_-5.00
+# Cluster: lexstat_upgma_0.60
