@@ -5,10 +5,10 @@ from scipy.spatial.distance import squareform
 from scipy.cluster.hierarchy import dendrogram, linkage, fcluster, to_tree
 
 #%%
-destination = '/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Trees/Results/'
+destination = '../Results/Trees/'
 
 functions = {'PMI':(score_pmi, False, 0.34),
-             'Surprisal':(surprisal_sim, True, 0.74),
+             'Surprisal':(surprisal_sim, True, 0.72),
              #'Surprisal2gram':(surprisal_sim, True, 0.69),
              'Phonetic':(word_sim, True, 0.17),
              'Hybrid':(hybrid_similarity, True, 0.56),
@@ -17,13 +17,14 @@ functions = {'PMI':(score_pmi, False, 0.34),
 
 #OPTIMAL VALUES FROM VALIDATION DATASETS ON COMMON CONCEPT SET USING BCUBED F1
 #PMI: 0.34
-#Surprisal: 0.74
+#Surprisal unigram: 0.72
 #Surprisal bigram: 0.69
 #Phonetic_WITHinfopenalty: 0.23 #need to rerun for this
 #Phonetic_withOUTinfopenalty (DEFAULT): 0.17 #THIS IS THE VERSION I USE FOR TREE DRAWING
 #Phonetic_withOUTinfopenalty_summed_penalties: 0.62
 #Phonetic_withinfopenalty_summed_penalties: 0.71
 #Hybrid similarity: 0.58 (old) / 0.56 (unigram, mean_sim phonetic - DEFAULT) / 0.64 (unigram, total_sim phonetic)
+#Levenshtein distance of ASJP: 0.69
 
 #%%
 def draw_all_trees(family, newick_directory,
