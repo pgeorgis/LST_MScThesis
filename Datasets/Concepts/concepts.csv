@@ -1,900 +1,502 @@
 Concept	BaseConcept	N_Languages	N_Families	Families
-EAR	EAR	228	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-EYE	EYE	228	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-I	I	228	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-ONE	ONE	228	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-THOU	THOU	228	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-TWO	TWO	228	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-WATER	WATER	228	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-BLOOD	BLOOD	227	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-EAT	EAT	227	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-MOUTH	MOUTH	227	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-TONGUE	TONGUE	227	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-WHAT	WHAT	227	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-BELLY	BELLY	226	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-DOG	DOG	226	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-HEAR	HEAR	226	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-SLEEP	SLEEP	226	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-BLACK	BLACK	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-COME	COME	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-DRY	DRY	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-HEAD	HEAD	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-MOON	MOON	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-NECK	NECK	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-NIGHT	NIGHT	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-NOSE	NOSE	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-SEE	SEE	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-SIT	SIT	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-STAR	STAR	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-WHITE	WHITE	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-WHO	WHO	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-BONE	BONE	224	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-CLOUD	CLOUD	224	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-DRINK	DRINK	224	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-GOOD	GOOD	224	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-KILL	KILL	224	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-LONG	LONG	224	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-NAME	NAME	224	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-TOOTH	TOOTH	224	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-WE	WE	225	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-RED	RED	223	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-SAY	SAY	223	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-SMALL	SMALL	223	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-STAND	STAND	223	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-SWIM	SWIM	223	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-BIRD	BIRD	222	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-FIRE	FIRE	222	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-TAIL	TAIL	222	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-THIS	THIS	222	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-YELLOW	YELLOW	222	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-ASH	ASH	221	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-GREEN	GREEN	221	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-BIG	BIG	220	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-LEAF	LEAF	220	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-NEW	NEW	220	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-ROOT	ROOT	220	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-THAT	THAT	220	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-BITE	BITE	219	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-FISH	FISH	219	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-LIVER	LIVER	219	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-SAND	SAND	219	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-WALK	WALK	219	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-BREAST	BREAST	217	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-EARTH (SOIL)	EARTH	202	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Dravidian
-PERSON	PERSON	217	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-EGG	EGG	215	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-FLY (MOVE THROUGH AIR)	FLY	200	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Dravidian
-SMOKE (EXHAUST)	SMOKE	201	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Dravidian
-FEATHER	FEATHER	206	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-STONE	STONE	217	8	Arabic; Italic; Turkic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-HEAVY	HEAVY	202	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-LOUSE	LOUSE	199	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-KNOW (SOMETHING)	KNOW	183	7	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian
-FAR	FAR	197	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-HAND	HAND	197	8	Arabic; Italic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-NEAR	NEAR	197	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-SHORT	SHORT	197	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-WIND	WIND	197	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-YEAR	YEAR	197	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-SALT	SALT	195	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-SUN	SUN	195	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-KNEE	KNEE	194	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-ALL	ALL	193	8	Arabic; Italic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-DIE	DIE	193	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-FULL	FULL	193	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-GIVE	GIVE	193	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-NOT	NOT	193	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-TREE	TREE	193	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-WOMAN	WOMAN	190	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-HEART	HEART	189	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-WORM	WORM	189	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-SNAKE	SNAKE	185	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic
-BARK	BARK	183	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-HORN (ANATOMY)	HORN	166	7	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Dravidian
-ROUND	ROUND	172	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-SEED	SEED	170	8	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-COLD	COLD	164	8	Arabic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-FAT (ORGANIC SUBSTANCE)	FAT	163	6	Arabic; Italic; Turkic; Balto-Slavic; Sinitic; Polynesian
-MANY	MANY	172	7	Arabic; Italic; Turkic; Hokan; Sinitic; Uralic; Dravidian
-FOOT	FOOT	164	7	Arabic; Italic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-MOUNTAIN	MOUNTAIN	164	7	Arabic; Italic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-SKIN	SKIN	147	7	Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Uralic; Dravidian
-RAIN (PRECIPITATION)	RAIN	226	9	Arabic; Italic; Turkic; Balto-Slavic; Hokan; Sinitic; Polynesian; Dravidian; Uralic
-WARM	WARM	145	7	Arabic; Turkic; Balto-Slavic; Hokan; Polynesian; Uralic; Dravidian
-MAN	MAN	136	7	Arabic; Turkic; Balto-Slavic; Hokan; Sinitic; Uralic; Dravidian
-HAIR	HAIR	158	6	Arabic; Italic; Balto-Slavic; Hokan; Polynesian; Uralic
-ROAD	PATH OR ROAD	124	5	Arabic; Italic; Balto-Slavic; Hokan; Dravidian
-LIE (REST)	LIE	137	6	Arabic; Italic; Balto-Slavic; Hokan; Sinitic; Dravidian
-DIG	DIG	130	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FIVE	FIVE	130	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-THREE	THREE	130	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-WHERE	WHERE	130	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-BACK	BACK	129	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FALL	FALL	129	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FATHER	FATHER	129	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FOUR	FOUR	129	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-LAUGH	LAUGH	129	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-HOW	HOW	128	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-RIGHT	RIGHT	128	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-SEW	SEW	128	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-DUST	DUST	127	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-MOTHER	MOTHER	127	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-WING	WING	127	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FLOW	FLOW	126	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-STICK	STICK	125	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-THEY	THEY	126	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-THROW	THROW	125	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-WET	WET	125	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-THICK	THICK	124	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-BLOW (OF WIND)	BLOW (OF WIND)	125	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-COUNT	COUNT	123	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-DAY (NOT NIGHT)	DAY	108	5	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian
-NARROW	NARROW	123	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-SHARP	SHARP	123	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-WIDE	WIDE	123	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-BREATHE	BREATHE	122	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FEAR (BE AFRAID)	FEAR	107	5	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian
-LEFT	LEFT	122	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-SKY	SKY	122	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-DIRTY	DIRTY	121	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FLOWER	FLOWER	121	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FOG	FOG	121	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FOREST	FOREST	121	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-GRASS	GRASS	121	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-HUNT	HUNT	120	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-LAKE	LAKE	119	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-BE ALIVE	LIVE	104	5	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian
-SEA	SEA	118	6	Arabic; Turkic; Balto-Slavic; Sinitic; Polynesian; Uralic
-THIN	THIN	152	5	Arabic; Italic; Turkic; Polynesian; Uralic
-BURN	BURN	119	5	Turkic; Sinitic; Polynesian; Uralic; Dravidian
-ROPE	ROPE	109	5	Arabic; Turkic; Sinitic; Polynesian; Uralic
-ROTTEN	ROTTEN	108	5	Arabic; Turkic; Sinitic; Polynesian; Uralic
-SUCK	SUCK	108	5	Arabic; Turkic; Sinitic; Polynesian; Uralic
-IN	IN	107	5	Arabic; Turkic; Sinitic; Polynesian; Uralic
-SPIT	SPIT	107	5	Arabic; Turkic; Sinitic; Polynesian; Uralic
-YOU	YOU	107	5	Arabic; Turkic; Balto-Slavic; Polynesian; Uralic
-VOMIT	VOMIT	106	5	Arabic; Turkic; Sinitic; Polynesian; Uralic
-SCRATCH	SCRATCH	104	5	Arabic; Turkic; Sinitic; Polynesian; Uralic
-SWELL	SWELL	104	5	Arabic; Turkic; Sinitic; Polynesian; Uralic
-OTHER	OTHER	101	5	Arabic; Turkic; Balto-Slavic; Polynesian; Uralic
-HERE	HERE	99	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-WASH	WASH	99	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-CLAW	FINGERNAIL	76	4	Turkic; Balto-Slavic; Sinitic; Dravidian
-CUT	CUT	98	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-PULL	PULL	98	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-ICE	ICE	97	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-PLAY	PLAY	97	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-SING	SING	97	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-TIE	TIE	97	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-RIVER	RIVER	96	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-SNOW	SNOW	96	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-FREEZE	FREEZE	95	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-THERE	THERE	95	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-BAD	BAD	94	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-AND	AND	93	5	Arabic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FIGHT	FIGHT	93	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-WIFE	WIFE	93	5	Arabic; Balto-Slavic; Sinitic; Polynesian; Uralic
-HUSBAND	HUSBAND	91	5	Arabic; Balto-Slavic; Sinitic; Polynesian; Uralic
-MEAT	MEAT	111	6	Arabic; Turkic; Balto-Slavic; Hokan; Uralic; Dravidian
-CORRECT (RIGHT)	CORRECT	75	4	Balto-Slavic; Arabic; Sinitic; Polynesian
-PUSH	PUSH	89	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-SMOOTH	SMOOTH	89	5	Arabic; Turkic; Balto-Slavic; Sinitic; Uralic
-BLUNT	BLUNT	86	5	Arabic; Balto-Slavic; Sinitic; Polynesian; Uralic
-FINGERNAIL	FINGERNAIL	137	5	Arabic; Italic; Turkic; Balto-Slavic; Uralic
-CRY	CRY	93	4	Turkic; Balto-Slavic; Polynesian; Uralic
-WHEN	WHEN	91	4	Turkic; Polynesian; Arabic; Uralic
-THINK	THINK	96	4	Turkic; Polynesian; Arabic; Uralic
-HOUSE	HOUSE	89	4	Turkic; Balto-Slavic; Polynesian; Uralic
-AT	AT	83	4	Turkic; Polynesian; Arabic; Uralic
-FRUIT	FRUIT	83	4	Turkic; Polynesian; Arabic; Sinitic
-SPLIT	SPLIT	81	4	Uralic; Polynesian; Arabic; Sinitic
-HOLD	HOLD	79	4	Uralic; Balto-Slavic; Arabic; Polynesian
-SQUEEZE	SQUEEZE	79	4	Uralic; Polynesian; Arabic; Sinitic
-STAB	STAB	79	4	Uralic; Polynesian; Arabic; Sinitic
-STRAIGHT	STRAIGHT	79	4	Turkic; Arabic; Sinitic; Uralic
-GUTS	GUTS	77	4	Turkic; Arabic; Sinitic; Uralic
-SMELL (PERCEIVE)	SMELL	76	4	Balto-Slavic; Arabic; Sinitic; Polynesian
-HIT	HIT	75	4	Uralic; Balto-Slavic; Arabic; Polynesian
-IF	IF	72	4	Uralic; Polynesian; Arabic; Sinitic
-ANIMAL	ANIMAL	68	4	Uralic; Balto-Slavic; Arabic; Sinitic
-LEG	LEG	67	4	Uralic; Balto-Slavic; Arabic; Sinitic
-RUB	RUB	66	4	Uralic; Balto-Slavic; Arabic; Sinitic
-FLESH OR MEAT	MEAT	89	2	Polynesian; Italic
-BURN (SOMETHING)	BURN	81	3	Balto-Slavic; Hokan; Italic
-LIE DOWN	LIE	62	2	Turkic; Polynesian
-HAIR (HEAD)	HAIR	69	3	Turkic; Sinitic; Dravidian
-ABOVE	ABOVE	68	3	Turkic; Balto-Slavic; Polynesian
-GROW	GROW	68	3	Turkic; Balto-Slavic; Polynesian
-OPEN	OPEN	67	3	Turkic; Balto-Slavic; Polynesian
-SHOULDER	SHOULDER	66	3	Turkic; Balto-Slavic; Polynesian
-BRANCH	BRANCH	65	3	Turkic; Balto-Slavic; Polynesian
-GO	GO	64	3	Turkic; Balto-Slavic; Uralic
-TAKE	TAKE	64	3	Turkic; Balto-Slavic; Uralic
-RUN	RUN	63	3	Turkic; Balto-Slavic; Uralic
-MOSQUITO	MOSQUITO	62	3	Uralic; Balto-Slavic; Polynesian
-OLD	OLD	69	3	Uralic; Polynesian; Arabic
-TEN	TEN	62	3	Uralic; Balto-Slavic; Polynesian
-CARRY	CARRY	61	3	Turkic; Balto-Slavic; Uralic
-HARD	HARD	61	3	Turkic; Balto-Slavic; Uralic
-NAVEL	NAVEL	61	3	Turkic; Balto-Slavic; Uralic
-NINE	NINE	61	3	Uralic; Balto-Slavic; Polynesian
-YESTERDAY	YESTERDAY	61	3	Turkic; Balto-Slavic; Uralic
-HOT	WARM	60	3	Turkic; Balto-Slavic; Sinitic
-BITTER	BITTER	59	3	Turkic; Balto-Slavic; Uralic
-SHADE	SHADE	59	3	Turkic; Balto-Slavic; Uralic
-SPIDER	SPIDER	59	3	Uralic; Balto-Slavic; Polynesian
-WITH	WITH	59	3	Turkic; Arabic; Uralic
-ANT	ANT	58	3	Turkic; Balto-Slavic; Uralic
-SWEET	SWEET	56	3	Turkic; Balto-Slavic; Uralic
-FLY (INSECT)	FLY (INSECT)	60	3	Turkic; Balto-Slavic; Uralic
-FEW	FEW	50	3	Uralic; Arabic; Sinitic
-BECAUSE	BECAUSE	48	3	Uralic; Arabic; Sinitic
-CHILD (YOUNG HUMAN)	CHILD (YOUNG HUMAN)	46	3	Balto-Slavic; Arabic; Sinitic
-FLOAT	FLOAT	45	3	Uralic; Arabic; Sinitic
-WIPE	WIPE	45	3	Uralic; Balto-Slavic; Arabic
-MALE PERSON	MAN	89	2	Polynesian; Italic
-SKIN (HUMAN)	SKIN	73	2	Arabic; Italic
-RAIN (RAINING)	RAINING	11	1	Balto-Slavic
-FOOT OR LEG	FOOT	62	2	Turkic; Polynesian
-CHEW	CHEW	56	2	Turkic; Polynesian
-HE OR SHE	3SG	31	1	Polynesian
-CHILD	CHILD	53	2	Uralic; Polynesian
-DO OR MAKE	DO OR MAKE	46	2	Turkic; Uralic
-CHILD (DESCENDANT)	CHILD (DESCENDANT)	30	1	Turkic
-TURN	TURN	45	2	Uralic; Polynesian
-DREAM (SOMETHING)	DREAM	28	1	Polynesian
-HE OR SHE OR IT	3SG	42	2	Turkic; Balto-Slavic
-BEAT	BEAT	42	2	Turkic; Balto-Slavic
-COOK (SOMETHING)	COOK	42	2	Balto-Slavic; Polynesian
-FIND	FIND	42	2	Turkic; Balto-Slavic
-GRASP	GRASP	42	2	Turkic; Balto-Slavic
-HIDE (CONCEAL)	HIDE (CONCEAL)	42	2	Turkic; Balto-Slavic
-LOOK	LOOK	42	2	Turkic; Balto-Slavic
-MONTH	MONTH	42	2	Turkic; Balto-Slavic
-PUT ON	PUT ON	42	2	Turkic; Balto-Slavic
-REMAIN	REMAIN	42	2	Turkic; Balto-Slavic
-THUNDER	THUNDER	42	2	Balto-Slavic; Polynesian
-WOOD	WOOD	42	2	Turkic; Balto-Slavic
-BREAK (CLEAVE)	BREAK (CLEAVE)	41	2	Turkic; Balto-Slavic
-COVER	COVER	41	2	Turkic; Balto-Slavic
-GRIND	GRIND	41	2	Turkic; Uralic
-HIDE	HIDE	41	2	Uralic; Polynesian
-JUMP	JUMP	41	2	Turkic; Balto-Slavic
-LICK	LICK	41	2	Turkic; Balto-Slavic
-LOOK FOR	LOOK FOR	41	2	Turkic; Balto-Slavic
-THROAT	THROAT	41	2	Turkic; Balto-Slavic
-WORK (ACTIVITY)	WORK (ACTIVITY)	41	2	Balto-Slavic; Polynesian
-ASK (REQUEST)	ASK (REQUEST)	40	2	Turkic; Balto-Slavic
-EIGHT	EIGHT	40	2	Balto-Slavic; Polynesian
-HOLE	HOLE	40	2	Turkic; Balto-Slavic
-RIPE	RIPE	40	2	Turkic; Balto-Slavic
-RISE (MOVE UPWARDS)	RISE (MOVE UPWARDS)	40	2	Turkic; Balto-Slavic
-SEVEN	SEVEN	40	2	Balto-Slavic; Polynesian
-SWALLOW	SWALLOW	40	2	Turkic; Balto-Slavic
-TEAR (SHRED)	TEAR (SHRED)	40	2	Turkic; Balto-Slavic
-TOMORROW	TOMORROW	40	2	Turkic; Balto-Slavic
-TRUE	TRUE	40	2	Turkic; Balto-Slavic
-BELOW OR UNDER	BELOW OR UNDER	39	2	Balto-Slavic; Polynesian
-BRAIN	BRAIN	39	2	Turkic; Balto-Slavic
-CLIMB	CLIMB	39	2	Balto-Slavic; Polynesian
-EDGE	EDGE	39	2	Turkic; Balto-Slavic
-NEEDLE (FOR SEWING)	NEEDLE	39	2	Balto-Slavic; Polynesian
-OLD (USED)	OLD	39	2	Turkic; Balto-Slavic
-SOFT	SOFT	39	2	Turkic; Balto-Slavic
-SIX	SIX	38	2	Balto-Slavic; Polynesian
-STEAL	STEAL	38	2	Balto-Slavic; Polynesian
-CHEEK	CHEEK	37	2	Turkic; Balto-Slavic
-CHOOSE	CHOOSE	37	2	Balto-Slavic; Polynesian
-COUGH	COUGH	37	2	Turkic; Balto-Slavic
-HUNDRED	HUNDRED	37	2	Balto-Slavic; Polynesian
-SMELL	SMELL	42	2	Turkic; Uralic
-BUY	BUY	36	2	Balto-Slavic; Polynesian
-FAT (FROM ANIMALS)	FAT	36	2	Hokan; Dravidian
-FOAM	FOAM	36	2	Turkic; Balto-Slavic
-RAW	RAW	36	2	Turkic; Balto-Slavic
-HE	3SG	35	2	Arabic; Sinitic
-CHIN	CHIN	35	2	Turkic; Balto-Slavic
-THOUSAND	THOUSAND	35	2	Balto-Slavic; Polynesian
-TURN (SOMETHING)	TURN (SOMETHING)	35	2	Turkic; Balto-Slavic
-TURN AROUND	TURN AROUND	35	2	Arabic; Sinitic
-SHOOT	SHOOT	34	2	Balto-Slavic; Polynesian
-BEHIND	BEHIND	33	2	Uralic; Balto-Slavic
-CHARCOAL	CHARCOAL	33	2	Uralic; Balto-Slavic
-FACE	FACE	33	2	Uralic; Balto-Slavic
-FOX	FOX	33	2	Uralic; Balto-Slavic
-PIECE	PIECE	33	2	Uralic; Balto-Slavic
-SOUR	SOUR	33	2	Turkic; Balto-Slavic
-SUMMER	SUMMER	33	2	Uralic; Balto-Slavic
-UNCLE	UNCLE	33	2	Uralic; Balto-Slavic
-WORD	WORD	33	2	Uralic; Balto-Slavic
-BECOME	BECOME	32	2	Uralic; Balto-Slavic
-COMB	COMB	32	2	Uralic; Balto-Slavic
-DIVIDE	DIVIDE	32	2	Uralic; Balto-Slavic
-GATHER	GATHER	32	2	Uralic; Balto-Slavic
-GIRL	GIRL	32	2	Uralic; Balto-Slavic
-HEEL	HEEL	32	2	Uralic; Balto-Slavic
-MORNING	MORNING	32	2	Uralic; Balto-Slavic
-SONG	SONG	32	2	Uralic; Balto-Slavic
-TEACH	TEACH	32	2	Uralic; Balto-Slavic
-WHISTLE	WHISTLE	32	2	Uralic; Balto-Slavic
-BEGIN	BEGIN	31	2	Uralic; Balto-Slavic
-BERRY	BERRY	31	2	Uralic; Balto-Slavic
-DEAF	DEAF	31	2	Uralic; Balto-Slavic
-LIFT	LIFT	31	2	Uralic; Balto-Slavic
-ONLY	ONLY	31	2	Uralic; Balto-Slavic
-SOME	SOME	31	2	Uralic; Arabic
-TOUCH	TOUCH	31	2	Uralic; Balto-Slavic
-CLEAN	CLEAN	30	2	Uralic; Balto-Slavic
-OLD (AGED)	OLD	30	2	Balto-Slavic; Sinitic
-PATH	PATH OR ROAD	30	2	Balto-Slavic; Sinitic
-RAINBOW	RAINBOW	30	2	Uralic; Balto-Slavic
-SHAKE	SHAKE	30	2	Uralic; Balto-Slavic
-SISTER	SISTER	30	2	Uralic; Balto-Slavic
-SOON	SOON	30	2	Uralic; Balto-Slavic
-THINK (REFLECT)	THINK	30	2	Balto-Slavic; Sinitic
-DISAPPEAR	DISAPPEAR	29	2	Uralic; Balto-Slavic
-FOREHEAD	FOREHEAD	29	2	Turkic; Balto-Slavic
-THIGH	THIGH	29	2	Uralic; Balto-Slavic
-BATHE	BATHE	28	2	Uralic; Balto-Slavic
-GROAN	GROAN	28	2	Uralic; Balto-Slavic
-SHUT	SHUT	28	2	Uralic; Balto-Slavic
-BAKE	BAKE	27	2	Uralic; Balto-Slavic
-BURNING	BURN	27	2	Balto-Slavic; Arabic
-MIND	MIND	27	2	Uralic; Balto-Slavic
-TWENTY	TWENTY	27	2	Balto-Slavic; Polynesian
-BE HUNGRY	BE HUNGRY	30	2	Uralic; Balto-Slavic
-LEAVE	LEAVE	26	2	Uralic; Balto-Slavic
-LIGHT (IGNITE)	LIGHT (IGNITE)	31	2	Uralic; Balto-Slavic
-SOUND OR NOISE	SOUND OR NOISE	32	2	Uralic; Balto-Slavic
-KEEP	KEEP	25	2	Uralic; Balto-Slavic
-ARRIVE	ARRIVE	24	2	Uralic; Balto-Slavic
-FIFTY	FIFTY	24	2	Balto-Slavic; Polynesian
-PICK UP	PICK UP	22	2	Uralic; Balto-Slavic
-THIN (OF LEAF AND CLOTH)	THIN	21	2	Hokan; Sinitic
-THIN (OF SHAPE OF OBJECT)	THIN	19	2	Balto-Slavic; Hokan
-COLD (OF WEATHER)	COLD	58	1	Italic
-WARM (OF WEATHER)	WARM	58	1	Italic
-BE DEAD OR DIE	DIE	31	1	Polynesian
-FASTEN	FASTEN	31	1	Polynesian
-ARM OR HAND	HAND	31	1	Turkic
-LIGHTNING	LIGHTNING	31	1	Polynesian
-MOUNTAIN OR HILL	MOUNTAIN	31	1	Turkic
-NO OR NOT	NOT	31	1	Polynesian
-PATH OR ROAD	PATH OR ROAD	51	2	Uralic; Polynesian
-FEMALE PERSON	WOMAN	31	1	Polynesian
-BAD OR EVIL	BAD OR EVIL	30	1	Polynesian
-BOTTOM	BOTTOM	30	1	Turkic
-CUT OR HACK	CUT	30	1	Polynesian
-FEMALE (OF AN ANIMAL) (N.)	FEMALE ANIMAL	30	1	Turkic
-FIREWOOD	FIREWOOD	30	1	Turkic
-INTESTINES	INTESTINES	30	1	Polynesian
-PAINFUL OR SICK	PAINFUL OR SICK	30	1	Polynesian
-DEEP	DEEP	29	1	Turkic
-RAT	RAT	29	1	Polynesian
-UPPER LEG (THIGH)	UPPER LEG (THIGH)	29	1	Turkic
-WHICH	WHICH	29	1	Turkic
-TALL	TALL	28	1	Turkic
-POUND	POUND	26	1	Polynesian
-THATCH OR ROOF	ROOF	26	1	Polynesian
-PLANT (SOMETHING)	PLANT (SOMETHING)	25	1	Polynesian
-PUS	PUS	25	1	Turkic
-SHY OR ASHAMED	SHY OR ASHAMED	25	1	Polynesian
-SPIN	SPIN	24	1	Turkic
-WEAVE	WEAVE	24	1	Turkic
-NASAL MUCUS (SNOT)	SNOT	23	1	Turkic
-YAWN	YAWN	23	1	Polynesian
-CLAW OR NAIL	FINGERNAIL	19	1	Hokan
+3SG	3SG	23	1	Uralic
+ABOVE	ABOVE	115	3	Japonic; Polynesian; Turkic
+ALL	ALL	296	11	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Uralic; Uto-Aztecan
+AND	AND	96	6	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Uralic
+ANIMAL	ANIMAL	104	5	Arabic; Balto-Slavic; Bantu; Sinitic; Uralic
+ANT	ANT	66	3	Turkic; Uralic; Vietic
+ARM	ARM OR HAND	69	2	Bantu; Uto-Aztecan
+ARM OR HAND	ARM OR HAND	49	2	Turkic; Vietic
+ARMPIT	ARMPIT	15	1	Uralic
+ARRIVE	ARRIVE	13	1	Uralic
+ASH	ASH	410	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+ASK (REQUEST)	ASK (REQUEST)	30	1	Turkic
+AT	AT	142	5	Arabic; Japonic; Polynesian; Turkic; Uralic
+BACK	BACK	233	9	Arabic; Balto-Slavic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Vietic
+BAD	BAD	152	6	Arabic; Balto-Slavic; Japonic; Sinitic; Turkic; Uralic
+BAD OR EVIL	BAD OR EVIL	29	1	Polynesian
+BAKE	BAKE	17	1	Uralic
+BARK	BARK	276	12	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+BAT	BAT	14	1	Uralic
+BATHE	BATHE	18	1	Uralic
+BE ALIVE	LIVE	185	6	Arabic; Japonic; Polynesian; Quechuan; Sinitic; Turkic
+BE DEAD OR DIE	BE DEAD OR DIE	87	2	Japonic; Polynesian
+BE HUNGRY	BE HUNGRY	20	1	Uralic
+BEAT	BEAT	32	1	Turkic
+BECAUSE	BECAUSE	49	3	Arabic; Sinitic; Uralic
+BECOME	BECOME	22	1	Uralic
+BED	BED	30	1	Bantu
+BEGIN	BEGIN	21	1	Uralic
+BEHIND	BEHIND	23	1	Uralic
+BELLY	BELLY OR STOMACH	398	14	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+BELLY OR STOMACH	BELLY OR STOMACH	17	1	Vietic
+BELOW OR UNDER	BELOW OR UNDER	85	2	Japonic; Polynesian
+BERRY	BERRY	30	2	Balto-Slavic; Uralic
+BESIDE	BESIDE	15	1	Uralic
+BIG	BIG	404	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+BIRD	BIRD	413	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+BITE	BITE	373	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+BITTER	BITTER	67	3	Turkic; Uralic; Vietic
+BLACK	BLACK	373	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+BLOOD	BLOOD	413	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+BLOW (OF WIND)	BLOW (OF WIND)	168	6	Arabic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+BLOW (WITH MOUTH)	BLOW (WITH MOUTH)	15	1	Vietic
+BLUE OR GREEN	BLUE OR GREEN	9	1	Vietic
+BLUNT	BLUNT	131	5	Arabic; Japonic; Polynesian; Sinitic; Uralic
+BODY LOUSE	LOUSE	15	1	Vietic
+BONE	BONE	412	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+BORE	BORE	14	1	Uralic
+BORROW	BORROW	14	1	Uralic
+BOTTOM	BOTTOM	31	1	Turkic
+BRAIN	BRAIN	30	1	Turkic
+BRANCH	BRANCH	139	4	Japonic; Polynesian; Quechuan; Turkic
+BREAD	BREAD	32	1	Quechuan
+BREAK (CLEAVE)	BREAK (CLEAVE)	31	1	Turkic
+BREAST	BREAST	404	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+BREATHE	BREATHE	179	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+BROTHER (OF MAN)	BROTHER	33	1	Quechuan
+BROTHER (OF WOMAN)	BROTHER	33	1	Quechuan
+BURN	BURN	193	7	Balto-Slavic; Dravidian; Japonic; Polynesian; Sinitic; Turkic; Uralic
+BURN (SOMETHING)	BURN	146	5	Bantu; Hellenic; Hokan; Italic; Uto-Aztecan
+BURNING	BURN	25	2	Arabic; Vietic
+BUY	BUY	82	2	Japonic; Polynesian
+CARRY	CARRY	52	2	Turkic; Uralic
+CHARCOAL	CHARCOAL	23	1	Uralic
+CHEEK	CHEEK	27	1	Turkic
+CHEST	CHEST	11	1	Vietic
+CHEW	CHEW	112	3	Japonic; Polynesian; Turkic
+CHILD	CHILD	154	5	Bantu; Japonic; Polynesian; Uralic; Vietic
+CHILD (DESCENDANT)	CHILD (DESCENDANT)	48	2	Turkic; Uralic
+CHILD (YOUNG HUMAN)	CHILD (YOUNG HUMAN)	35	2	Arabic; Sinitic
+CHIN	CHIN	25	1	Turkic
+CHOOSE	CHOOSE	26	2	Japonic; Polynesian
+CIRCULAR (ROUND IN TWO DIMENSIONS)	ROUND	6	2	Hellenic; Hokan
+CLAW	FINGERNAIL OR TOENAIL	99	4	Dravidian; Sinitic; Turkic; Uto-Aztecan
+CLAW OR NAIL	FINGERNAIL OR TOENAIL	31	2	Hokan; Vietic
+CLEAN	CLEAN	20	1	Uralic
+CLIMB	CLIMB	85	2	Japonic; Polynesian
+CLOTHES	CLOTHES	9	1	Balto-Slavic
+CLOUD	CLOUD	413	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+COLD	COLD	294	11	Arabic; Balto-Slavic; Dravidian; Hokan; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+COLD (OF WEATHER)	COLD	62	2	Hellenic; Italic
+COMB	COMB	22	1	Uralic
+COME	COME	396	14	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+COOK (SOMETHING)	COOK	88	2	Japonic; Polynesian
+COOKED	COOKED	15	1	Uralic
+CORRECT	CORRECT	21	1	Uralic
+CORRECT (RIGHT)	CORRECT	122	4	Arabic; Japonic; Polynesian; Sinitic
+COUGH	COUGH	27	1	Turkic
+COUNT	COUNT	210	8	Arabic; Balto-Slavic; Bantu; Japonic; Polynesian; Sinitic; Turkic; Uralic
+COVER	COVER	31	1	Turkic
+CRY	CRY	200	7	Balto-Slavic; Japonic; Polynesian; Quechuan; Turkic; Uralic; Vietic
+CUT	CUT OR HACK	98	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+CUT DOWN	CUT DOWN	15	1	Uralic
+CUT OR HACK	CUT OR HACK	87	2	Japonic; Polynesian
+DANCE	DANCE	9	1	Balto-Slavic
+DAY	DAY	23	1	Uralic
+DAY (NOT NIGHT)	DAY	187	6	Arabic; Japonic; Polynesian; Quechuan; Sinitic; Turkic
+DEAF	DEAF	21	1	Uralic
+DEEP	DEEP	30	1	Turkic
+DEW	DEW	27	1	Bantu
+DIE	BE DEAD OR DIE	324	13	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+DIG	DIG	187	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+DIRTY	DIRTY	207	8	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+DISAPPEAR	DISAPPEAR	19	1	Uralic
+DIVIDE	DIVIDE	22	1	Uralic
+DO OR MAKE	DO OR MAKE	57	3	Turkic; Uralic; Vietic
+DOG	DOG	416	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+DREAM	DREAM	17	1	Uralic
+DREAM (SOMETHING)	DREAM	70	2	Japonic; Polynesian
+DRINK	DRINK	411	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+DRY	DRY	371	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+DUST	DUST	184	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+EAR	EAR	418	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+EARLY	EARLY	14	1	Uralic
+EARTH	EARTH	39	2	Balto-Slavic; Uralic
+EARTH (SOIL)	EARTH	341	12	Arabic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uto-Aztecan; Vietic
+EAT	EAT	411	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+EDGE	EDGE	29	1	Turkic
+EGG	EGG	404	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+EIGHT	EIGHT	128	4	Balto-Slavic; Japonic; Polynesian; Quechuan
+ELBOW	ELBOW	33	1	Quechuan
+ELEPHANT	ELEPHANT	32	1	Bantu
+EMPTY	EMPTY	26	1	Quechuan
+EXTINGUISH	EXTINGUISH	16	1	Uralic
+EYE	EYE	418	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+FACE	FACE	81	3	Bantu; Quechuan; Uralic
+FALL	FALL	229	9	Arabic; Balto-Slavic; Bantu; Japonic; Polynesian; Sinitic; Turkic; Uralic; Vietic
+FAR	FAR	313	12	Arabic; Balto-Slavic; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Vietic
+FASTEN	FASTEN	88	2	Japonic; Polynesian
+FAT	FAT	38	2	Balto-Slavic; Uralic
+FAT (FROM ANIMALS)	ORGANIC FAT OR OIL	36	2	Dravidian; Hokan
+FAT (ORGANIC SUBSTANCE)	ORGANIC FAT OR OIL	293	10	Arabic; Hellenic; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uto-Aztecan; Vietic
+FATHER	FATHER	186	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+FEAR	FEAR	22	1	Uralic
+FEAR (BE AFRAID)	FEAR	100	5	Arabic; Japonic; Polynesian; Sinitic; Turkic
+FEATHER	FEATHER OR FUR OR HAIR	346	13	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+FEATHER OR FUR OR HAIR	FEATHER OR FUR OR HAIR	13	1	Vietic
+FEMALE (OF AN ANIMAL) (N.)	FEMALE ANIMAL	31	1	Turkic
+FEMALE PERSON	WOMAN	88	2	Japonic; Polynesian
+FEW	FEW	51	3	Arabic; Sinitic; Uralic
+FIFTY	FIFTY	14	2	Japonic; Polynesian
+FIGHT	FIGHT	93	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+FIND	FIND	32	1	Turkic
+FINGERNAIL	FINGERNAIL OR TOENAIL	219	8	Arabic; Balto-Slavic; Bantu; Hellenic; Italic; Quechuan; Turkic; Uralic
+FIRE	FIRE OR FIREWOOD	396	14	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+FIRE OR FIREWOOD	FIRE OR FIREWOOD	16	1	Vietic
+FIREWOOD	FIRE OR FIREWOOD	60	2	Bantu; Turkic
+FISH	FISH	377	14	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+FIVE	FIVE	284	10	Arabic; Balto-Slavic; Bantu; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+FLESH	FLESH OR MEAT	19	1	Sinitic
+FLESH OR MEAT	FLESH OR MEAT	198	6	Hellenic; Italic; Japonic; Polynesian; Quechuan; Vietic
+FLOAT	FLOAT	46	3	Arabic; Sinitic; Uralic
+FLOW	FLOW	126	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+FLOWER	FLOWER	210	8	Arabic; Balto-Slavic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
 FLOWING BODY OF WATER	FLOWING BODY OF WATER	19	1	Sinitic
-HOLD OR TAKE	HOLD OR TAKE	19	1	Sinitic
-KNOW	KNOW	41	2	Uralic; Dravidian
-FLESH	MEAT	19	1	Sinitic
-NUMBER	NUMBER	19	1	Sinitic
-STRIKE	STRIKE	19	1	Sinitic
-HEAD LOUSE	LOUSE	17	1	Dravidian
-EXTINGUISH	EXTINGUISH	15	1	Uralic
-TIRED	TIRED	15	1	Uralic
-TOP	TOP	15	1	Uralic
-TWIST (AROUND)	TWIST (AROUND)	15	1	Uralic
-ARMPIT	ARMPIT	14	1	Uralic
-BESIDE	BESIDE	14	1	Uralic
-COOKED	COOKED	14	1	Uralic
-CUT DOWN	CUT DOWN	14	1	Uralic
-HEN	HEN	14	1	Uralic
-LOSE	LOSE	14	1	Uralic
-LUNG	LUNG	14	1	Uralic
-NIT	NIT	14	1	Uralic
-ROAST OR FRY	ROAST OR FRY	14	1	Uralic
-SHALLOW	SHALLOW	14	1	Uralic
-SON-IN-LAW	SON-IN-LAW	14	1	Uralic
-STRETCH	STRETCH	14	1	Uralic
-TESTICLES	TESTICLES	14	1	Uralic
-TREE STUMP	TREE STUMP	14	1	Uralic
-BAT	BAT	13	1	Uralic
-BORE	BORE	13	1	Uralic
-BORROW	BORROW	13	1	Uralic
-EARLY	EARLY	13	1	Uralic
-SALTY	SALTY	13	1	Uralic
-SHIT (DEFECATE)	SHIT (DEFECATE)	13	1	Uralic
-STINKING	STINKING	13	1	Uralic
-TRAP (CATCH)	TRAP (CATCH)	13	1	Uralic
-MOLAR TOOTH	MOLAR TOOTH	12	1	Uralic
-SNIFF	SNIFF	12	1	Uralic
-ACHE	ACHE	11	1	Balto-Slavic
-AFTERWARDS	AFTERWARDS	11	1	Balto-Slavic
-AGAIN	AGAIN	11	1	Balto-Slavic
-AGE	AGE	11	1	Balto-Slavic
-AIR	AIR	11	1	Balto-Slavic
-ALONE	ALONE	11	1	Balto-Slavic
-ALREADY	ALREADY	11	1	Balto-Slavic
-ALWAYS	ALWAYS	11	1	Balto-Slavic
-APPLE	APPLE	11	1	Balto-Slavic
-ARM	ARM	11	1	Balto-Slavic
-ARROW	ARROW	11	1	Balto-Slavic
-ASK (INQUIRE)	ASK (INQUIRE)	11	1	Balto-Slavic
-AUNT	AUNT	11	1	Balto-Slavic
-AUTUMN	AUTUMN	11	1	Balto-Slavic
-BAD LUCK	BAD LUCK	11	1	Balto-Slavic
-BAG	BAG	11	1	Balto-Slavic
-BARKING	BARKING	11	1	Balto-Slavic
-BAY	BAY	11	1	Balto-Slavic
-BE ABLE	BE ABLE	11	1	Balto-Slavic
-BE BORN	BE BORN	11	1	Balto-Slavic
-BEAR	BEAR	11	1	Balto-Slavic
-BEARD	BEARD	11	1	Balto-Slavic
-BEAUTIFUL	BEAUTIFUL	11	1	Balto-Slavic
-BECOME SICK	BECOME SICK	11	1	Balto-Slavic
-BED	BED	11	1	Balto-Slavic
-BEFORE	BEFORE	11	1	Balto-Slavic
-BELIEVE	BELIEVE	11	1	Balto-Slavic
-BELT	BELT	11	1	Balto-Slavic
-BEND	BEND	11	1	Balto-Slavic
-BEND (SOMETHING)	BEND (SOMETHING)	11	1	Balto-Slavic
-BETRAY	BETRAY	11	1	Balto-Slavic
-BETWEEN	BETWEEN	11	1	Balto-Slavic
-BIRCH	BIRCH	11	1	Balto-Slavic
-BLANKET	BLANKET	11	1	Balto-Slavic
-BLIND	BLIND	11	1	Balto-Slavic
-BLOW (WITH MOUTH)	BLOW (WITH MOUTH)	11	1	Balto-Slavic
-BLUE	BLUE	11	1	Balto-Slavic
-BOARD	BOARD	11	1	Balto-Slavic
-BOAST	BOAST	11	1	Balto-Slavic
-BOAT	BOAT	11	1	Balto-Slavic
-BODY	BODY	11	1	Balto-Slavic
-BOIL (OF LIQUID)	BOIL (OF LIQUID)	11	1	Balto-Slavic
-BOIL (SOMETHING)	BOIL (SOMETHING)	11	1	Balto-Slavic
-BOOK	BOOK	11	1	Balto-Slavic
-BOOT	BOOT	11	1	Balto-Slavic
-BORDER	BORDER	11	1	Balto-Slavic
-BOW	BOW	11	1	Balto-Slavic
-BOX	BOX	11	1	Balto-Slavic
-BOY	BOY	11	1	Balto-Slavic
-BREAD	BREAD	11	1	Balto-Slavic
-BREAK (DESTROY OR GET DESTROYED)	BREAK (DESTROY OR GET DESTROYED)	11	1	Balto-Slavic
-BREATH	BREATH	11	1	Balto-Slavic
-BRIDGE	BRIDGE	11	1	Balto-Slavic
-BRIGHT	BRIGHT	11	1	Balto-Slavic
-BRING	BRING	11	1	Balto-Slavic
-BROOM	BROOM	11	1	Balto-Slavic
-BROTHER	BROTHER	11	2	Balto-Slavic
-BUCKET	BUCKET	11	1	Balto-Slavic
-BUILD	BUILD	11	1	Balto-Slavic
-BULL	BULL	11	1	Balto-Slavic
-BUTTER	BUTTER	11	1	Balto-Slavic
-BUTTERFLY	BUTTERFLY	11	1	Balto-Slavic
-BUTTON	BUTTON	11	1	Balto-Slavic
-CALL	CALL	11	1	Balto-Slavic
-CALL BY NAME	CALL BY NAME	11	1	Balto-Slavic
-CAP	CAP	11	1	Balto-Slavic
-CAT	CAT	11	1	Balto-Slavic
-CATCH	CATCH	11	1	Balto-Slavic
-CAVE	CAVE	11	1	Balto-Slavic
-CEASE	CEASE	11	1	Balto-Slavic
-CHAIR	CHAIR	11	1	Balto-Slavic
-CHANGE	CHANGE	11	1	Balto-Slavic
-CHARACTER	CHARACTER	11	1	Balto-Slavic
-CHEAP	CHEAP	11	1	Balto-Slavic
-CHEST	CHEST	11	1	Balto-Slavic
-CHICKEN	CHICKEN	11	1	Balto-Slavic
-CHOP	CHOP	11	1	Balto-Slavic
-CHURCH	CHURCH	11	1	Balto-Slavic
-CIRCLE	CIRCLE	11	1	Balto-Slavic
-CLAY	CLAY	11	1	Balto-Slavic
-CLEAN (SOMETHING)	CLEAN (SOMETHING)	11	1	Balto-Slavic
-CLEVER	CLEVER	11	1	Balto-Slavic
-CLOSED	CLOSED	11	1	Balto-Slavic
-CLOTH	CLOTH	11	1	Balto-Slavic
-CLOTHES	CLOTHES	11	1	Balto-Slavic
-COAST	COAST	11	1	Balto-Slavic
-COLLAR	COLLAR	11	1	Balto-Slavic
-COMB (VERB)	COMB (VERB)	11	1	Balto-Slavic
-COME BACK	COME BACK	11	1	Balto-Slavic
-CORNER	CORNER	11	1	Balto-Slavic
-COUNTRY	COUNTRY	11	1	Balto-Slavic
-COW	COW	11	1	Balto-Slavic
-CRANE	CRANE	11	1	Balto-Slavic
-CRAWL	CRAWL	11	1	Balto-Slavic
-CROSS	CROSS	11	1	Balto-Slavic
-CROW	CROW	11	1	Balto-Slavic
-CUP	CUP	11	1	Balto-Slavic
-DAMAGE	DAMAGE	11	1	Balto-Slavic
-DANCE	DANCE	11	1	Balto-Slavic
-DARK	DARK	11	1	Balto-Slavic
-DAUGHTER	DAUGHTER	11	1	Balto-Slavic
-DEAR	DEAR	11	1	Balto-Slavic
-DEATH	DEATH	11	1	Balto-Slavic
-DECORATE	DECORATE	11	1	Balto-Slavic
-DEFEND	DEFEND	11	1	Balto-Slavic
-DESIRE	DESIRE	11	1	Balto-Slavic
-DESTROY	DESTROY	11	1	Balto-Slavic
-DEXTEROUS	DEXTEROUS	11	1	Balto-Slavic
-DIFFERENT	DIFFERENT	11	1	Balto-Slavic
-DILIGENT	DILIGENT	11	1	Balto-Slavic
-DIRT	DIRT	11	1	Balto-Slavic
-DISEASE	DISEASE	11	1	Balto-Slavic
-DIVE	DIVE	11	1	Balto-Slavic
-DO	DO	11	1	Balto-Slavic
-DOLL	DOLL	11	1	Balto-Slavic
-DONATE	DONATE	11	1	Balto-Slavic
-DOOR	DOOR	11	1	Balto-Slavic
-DOWN	DOWN	11	1	Balto-Slavic
-DOWN OR BELOW	DOWN OR BELOW	11	1	Balto-Slavic
-DRAG	DRAG	11	1	Balto-Slavic
-DRAW MILK	DRAW MILK	11	1	Balto-Slavic
-DREAM	DREAM	27	2	Uralic; Balto-Slavic
-DRESS UP	DRESS UP	11	1	Balto-Slavic
-DRIVE	DRIVE	11	1	Balto-Slavic
-DRY UP	DRY UP	11	1	Balto-Slavic
-DUCK	DUCK	11	1	Balto-Slavic
-DWELL (LIVE, RESIDE)	DWELL	11	1	Balto-Slavic
-DYE	DYE	11	1	Balto-Slavic
-EAGLE	EAGLE	11	1	Balto-Slavic
-EAST	EAST	11	1	Balto-Slavic
-EIGHTY	EIGHTY	11	1	Balto-Slavic
-ELBOW	ELBOW	11	1	Balto-Slavic
-ELEVEN	ELEVEN	11	1	Balto-Slavic
-ELK	ELK	11	1	Balto-Slavic
-EMPTY	EMPTY	11	1	Balto-Slavic
-END (OF SPACE)	END (OF SPACE)	11	1	Balto-Slavic
-END (OF TIME)	END (OF TIME)	11	1	Balto-Slavic
-ENDURE	ENDURE	11	1	Balto-Slavic
-ENEMY	ENEMY	11	1	Balto-Slavic
-ENTER	ENTER	11	1	Balto-Slavic
-ESCAPE	ESCAPE	11	1	Balto-Slavic
-EVENING	EVENING	11	1	Balto-Slavic
-EVIL	EVIL	11	1	Balto-Slavic
-EXPENSIVE	EXPENSIVE	11	1	Balto-Slavic
-FALL ASLEEP	FALL ASLEEP	11	1	Balto-Slavic
-FAME	FAME	11	1	Balto-Slavic
-FAMILY	FAMILY	11	1	Balto-Slavic
-FAT (OBESE)	FAT (OBESE)	11	1	Balto-Slavic
-FAULT	FAULT	11	1	Balto-Slavic
-FEBRUARY	FEBRUARY	11	1	Balto-Slavic
-FEED	FEED	11	1	Balto-Slavic
-FEEL (TACTUALLY)	FEEL (TACTUALLY)	11	1	Balto-Slavic
-FENCE	FENCE	11	1	Balto-Slavic
-FEVER	FEVER	11	1	Balto-Slavic
-FILL	FILL	11	1	Balto-Slavic
-FINGER	FINGER	11	1	Balto-Slavic
-FINGERNAIL OR TOENAIL	FINGERNAIL	11	1	Balto-Slavic
-FINISH	FINISH	11	1	Balto-Slavic
-FIR	FIR	11	1	Balto-Slavic
-FIRST	FIRST	11	1	Balto-Slavic
-FLAT	FLAT	11	1	Balto-Slavic
-FLEE	FLEE	11	1	Balto-Slavic
-FLOOR	FLOOR	11	1	Balto-Slavic
-FOOD	FOOD	11	1	Balto-Slavic
-FOR A LONG TIME	FOR A LONG TIME	11	1	Balto-Slavic
-FOREIGN	FOREIGN	11	1	Balto-Slavic
-FORGET	FORGET	11	1	Balto-Slavic
-FORK	FORK	11	1	Balto-Slavic
-FORTY	FORTY	11	1	Balto-Slavic
-FRESH	FRESH	11	1	Balto-Slavic
-FRIDAY	FRIDAY	11	1	Balto-Slavic
-FRIEND	FRIEND	11	1	Balto-Slavic
-FROST	FROST	11	1	Balto-Slavic
-FRY	FRY	11	1	Balto-Slavic
-FUR	FUR	11	1	Balto-Slavic
-GAME	GAME	11	1	Balto-Slavic
-GENTLE	GENTLE	11	1	Balto-Slavic
-GET	GET	11	1	Balto-Slavic
-GET TIRED	GET TIRED	11	1	Balto-Slavic
-GLASS	GLASS	11	1	Balto-Slavic
-GOD	GOD	11	1	Balto-Slavic
-GOLD	GOLD	11	1	Balto-Slavic
-GOOD-LOOKING	GOOD-LOOKING	11	1	Balto-Slavic
-GOOSE	GOOSE	11	1	Balto-Slavic
-GRAIN	GRAIN	11	1	Balto-Slavic
-GRANDFATHER	GRANDFATHER	11	1	Balto-Slavic
-GRANDMOTHER	GRANDMOTHER	11	1	Balto-Slavic
-GRAVE	GRAVE	11	1	Balto-Slavic
-GREY	GREY	11	1	Balto-Slavic
-GRIEF	GRIEF	11	1	Balto-Slavic
-GROUND	GROUND	11	1	Balto-Slavic
-GUEST	GUEST	11	1	Balto-Slavic
-GUN	GUN	11	1	Balto-Slavic
-HALF	HALF	11	1	Balto-Slavic
-HANDLE	HANDLE	11	1	Balto-Slavic
-HANG UP	HANG UP	11	1	Balto-Slavic
-HAPPEN	HAPPEN	11	1	Balto-Slavic
-HARE	HARE	11	1	Balto-Slavic
-HAY	HAY	11	1	Balto-Slavic
-HEALTHY	HEALTHY	11	1	Balto-Slavic
-HEAT	HEAT	11	1	Balto-Slavic
-HELP	HELP	11	1	Balto-Slavic
-HILL	HILL	11	1	Balto-Slavic
-HINDER	HINDER	11	1	Balto-Slavic
-HOME	HOME	11	1	Balto-Slavic
-HONEY	HONEY	11	1	Balto-Slavic
-HOOK	HOOK	11	1	Balto-Slavic
-HORSE	HORSE	11	1	Balto-Slavic
-HOW MUCH	HOW MUCH	11	1	Balto-Slavic
-HOWL	HOWL	11	1	Balto-Slavic
-HUNGER	HUNGER	11	1	Balto-Slavic
-IDOL	IDOL	11	1	Balto-Slavic
-IN FRONT OF	IN FRONT OF	11	1	Balto-Slavic
-IN VAIN	IN VAIN	11	1	Balto-Slavic
-INCREASE	INCREASE	11	1	Balto-Slavic
-INVITE	INVITE	11	1	Balto-Slavic
-IRON	IRON	11	1	Balto-Slavic
-ISLAND	ISLAND	11	1	Balto-Slavic
-JANUARY	JANUARY	11	1	Balto-Slavic
-JAW	JAW	11	1	Balto-Slavic
-JOIN	JOIN	11	1	Balto-Slavic
-JOY	JOY	11	1	Balto-Slavic
-KETTLE	KETTLE	11	1	Balto-Slavic
-KICK	KICK	11	1	Balto-Slavic
-KIND (THING)	KIND (THING)	11	1	Balto-Slavic
-KING	KING	11	1	Balto-Slavic
-KISS	KISS	11	1	Balto-Slavic
-KNIFE	KNIFE	11	1	Balto-Slavic
-KNOCK	KNOCK	11	1	Balto-Slavic
-KNOT	KNOT	11	1	Balto-Slavic
-LADDER	LADDER	11	1	Balto-Slavic
-LANGUAGE	LANGUAGE	11	1	Balto-Slavic
-LAST (FINAL)	LAST (FINAL)	11	1	Balto-Slavic
-LAY (VERB)	LAY (VERB)	11	1	Balto-Slavic
-LAZY	LAZY	11	1	Balto-Slavic
-LEAD (GUIDE)	LEAD	11	1	Balto-Slavic
-LEARN	LEARN	11	1	Balto-Slavic
-LEATHER	LEATHER	11	1	Balto-Slavic
-LENGTH	LENGTH	11	1	Balto-Slavic
-LETTER	LETTER	11	1	Balto-Slavic
-LID (COVER, CAP)	LID	11	1	Balto-Slavic
-LIFE	LIFE	11	1	Balto-Slavic
-LIGHT (RADIATION)	LIGHT	11	1	Balto-Slavic
-LIKE	LIKE	11	1	Balto-Slavic
-LINE	LINE	11	1	Balto-Slavic
-LIP	LIP	11	1	Balto-Slavic
-LISTEN	LISTEN	11	1	Balto-Slavic
-LOAD	LOAD	11	1	Balto-Slavic
-LOCK	LOCK	11	1	Balto-Slavic
-LOUD	LOUD	11	1	Uralic
-LOVE	LOVE	11	1	Balto-Slavic
-MAINLAND	MAINLAND	11	1	Balto-Slavic
-MAKE	MAKE	11	1	Balto-Slavic
-MEAL	MEAL	11	1	Balto-Slavic
-MEASURE	MEASURE	11	1	Balto-Slavic
-MEDICINE	MEDICINE	11	1	Balto-Slavic
-MEET	MEET	11	1	Balto-Slavic
-MELT	MELT	11	1	Balto-Slavic
-MEMORY	MEMORY	11	1	Balto-Slavic
-MERRY	MERRY	11	1	Balto-Slavic
-MIDDAY	MIDDAY	11	1	Balto-Slavic
-MIDDLE	MIDDLE	11	1	Balto-Slavic
-MILK	MILK	11	1	Balto-Slavic
-MIRROR	MIRROR	11	1	Balto-Slavic
-MISTAKE	MISTAKE	11	1	Balto-Slavic
-MONDAY	MONDAY	11	1	Balto-Slavic
-MONEY	MONEY	11	1	Balto-Slavic
-MOUSE	MOUSE	11	1	Balto-Slavic
-MOUSTACHE	MOUSTACHE	11	1	Balto-Slavic
-MUSHROOM	MUSHROOM	11	1	Balto-Slavic
-NAIL (TOOL)	NAIL (TOOL)	11	1	Balto-Slavic
-NAKED	NAKED	11	1	Balto-Slavic
-NAPE (OF NECK)	NECK	11	1	Balto-Slavic
-NEST	NEST	11	1	Balto-Slavic
-NEVER	NEVER	11	1	Balto-Slavic
-NEWSPAPER	NEWSPAPER	11	1	Balto-Slavic
-NINETY	NINETY	11	1	Balto-Slavic
-NOISE	NOISE	11	1	Balto-Slavic
-NOOSE	NOOSE	11	1	Balto-Slavic
-NORTH	NORTH	11	1	Balto-Slavic
-NOW	NOW	11	1	Balto-Slavic
-OFTEN	OFTEN	11	1	Balto-Slavic
-OIL (ORGANIC SUBSTANCE)	OIL (ORGANIC SUBSTANCE)	11	1	Balto-Slavic
-ONE TIME	ONE TIME	11	1	Balto-Slavic
-ONION	ONION	11	1	Balto-Slavic
-OR	OR	11	1	Balto-Slavic
-OWL	OWL	11	1	Balto-Slavic
-OWN	OWN	11	1	Balto-Slavic
-PADDLE	PADDLE	11	1	Balto-Slavic
-PAIN	PAIN	11	1	Balto-Slavic
-PAINT (PIGMENTS)	PAINT (PIGMENTS)	11	1	Balto-Slavic
-PAINTING	PAINTING	11	1	Balto-Slavic
-PALM OF HAND	PALM OF HAND	11	1	Balto-Slavic
-PARENTS	PARENTS	11	1	Balto-Slavic
-PART	PART	11	1	Balto-Slavic
-PASS	PASS	11	1	Balto-Slavic
-PASTURE	PASTURE	11	1	Balto-Slavic
-PAY	PAY	11	1	Balto-Slavic
-PEOPLE	PEOPLE	11	1	Balto-Slavic
-PHYSICIAN	PHYSICIAN	11	1	Balto-Slavic
-PICK	PICK	11	1	Balto-Slavic
-PICTURE	PICTURE	11	1	Balto-Slavic
-PIG	PIG	11	1	Balto-Slavic
-PILLOW	PILLOW	11	1	Balto-Slavic
-PINE	PINE	11	1	Balto-Slavic
-PIT (POTHOLE)	PIT	11	1	Balto-Slavic
-PLACE (POSITION)	PLACE (POSITION)	11	1	Balto-Slavic
-POINTED	POINTED	11	1	Balto-Slavic
-POOR	POOR	11	1	Balto-Slavic
-POT	POT	11	1	Balto-Slavic
-POUR	POUR	11	1	Balto-Slavic
-POWER	POWER	11	1	Balto-Slavic
-PRAISE	PRAISE	11	1	Balto-Slavic
-PRECIPICE	PRECIPICE	11	1	Balto-Slavic
-PRESERVE	PRESERVE	11	1	Balto-Slavic
-PRESS	PRESS	11	1	Balto-Slavic
-PRICE	PRICE	11	1	Balto-Slavic
-PROMISE	PROMISE	11	1	Balto-Slavic
-PUT	PUT	11	1	Balto-Slavic
-QUIET	QUIET	11	1	Balto-Slavic
-RAISE	RAISE	11	1	Balto-Slavic
-RAISE (A CHILD)	RAISE (A CHILD)	11	1	Balto-Slavic
-READ	READ	11	1	Balto-Slavic
-RECOVER	RECOVER	11	1	Balto-Slavic
-REMEMBER	REMEMBER	11	1	Balto-Slavic
-REPAIR	REPAIR	11	1	Balto-Slavic
-RESCUE	RESCUE	11	1	Balto-Slavic
-REST	REST	11	1	Balto-Slavic
-RESULT IN	RESULT IN	11	1	Balto-Slavic
-RICH	RICH	11	1	Balto-Slavic
-RING	RING	11	1	Balto-Slavic
-RIPEN	RIPEN	11	1	Balto-Slavic
-ROCK	STONE	11	1	Balto-Slavic
-ROOF	ROOF	11	1	Balto-Slavic
-ROOSTER	ROOSTER	11	1	Balto-Slavic
-ROUGH	ROUGH	11	1	Uralic
-ROW	ROW	11	1	Balto-Slavic
-RULE	RULE	11	1	Balto-Slavic
-SAD	SAD	11	1	Balto-Slavic
-SATURDAY	SATURDAY	11	1	Balto-Slavic
-SCRAPE	SCRAPE	11	1	Balto-Slavic
-SECOND	SECOND	11	1	Balto-Slavic
-SEEM	SEEM	11	1	Balto-Slavic
-SELL	SELL	11	1	Balto-Slavic
-SEND	SEND	11	1	Balto-Slavic
-SET (HEAVENLY BODIES)	SET (HEAVENLY BODIES)	11	1	Balto-Slavic
-SEVENTY	SEVENTY	11	1	Balto-Slavic
-SEVERE	SEVERE	11	1	Balto-Slavic
-SHARE	SHARE	11	1	Uralic
-SHARPEN (SOMETHING)	SHARPEN (SOMETHING)	11	1	Balto-Slavic
-SHEEP	SHEEP	11	1	Balto-Slavic
-SHELF	SHELF	11	1	Balto-Slavic
-SHELL	SHELL	11	1	Uralic
-SHINE	SHINE	11	1	Balto-Slavic
-SHIRT	SHIRT	11	1	Balto-Slavic
-SHIVER	SHIVER	11	1	Balto-Slavic
-SHOE	SHOE	11	1	Balto-Slavic
-SHOP	SHOP	11	1	Balto-Slavic
-SHORE	SHORE	11	1	Balto-Slavic
-SHOUT	SHOUT	11	1	Balto-Slavic
-SHOVEL	SHOVEL	11	1	Balto-Slavic
-SHOW	SHOW	11	1	Balto-Slavic
-SICK	SICK	11	1	Balto-Slavic
-SILVER	SILVER	11	1	Balto-Slavic
-SIT DOWN	SIT DOWN	11	1	Balto-Slavic
-SIXTY	SIXTY	11	1	Balto-Slavic
-SKIN (OF FRUIT)	SKIN (OF FRUIT)	11	1	Balto-Slavic
-SLEDGE	SLEDGE	11	1	Balto-Slavic
-SOMETIMES	SOMETIMES	11	1	Balto-Slavic
-SON	SON	11	1	Balto-Slavic
-SOUP	SOUP	11	1	Balto-Slavic
-SOUTH	SOUTH	11	1	Balto-Slavic
-SPADE	SPADE	11	1	Balto-Slavic
-SPARK	SPARK	11	1	Balto-Slavic
-SPEAK	SPEAK	11	1	Balto-Slavic
-SPEECH	SPEECH	11	1	Balto-Slavic
-SPIRIT	SPIRIT	11	1	Balto-Slavic
-SPOIL (BECOME SPOILED)	SPOIL (BECOME SPOILED)	11	1	Balto-Slavic
-SPOIL (SOMEBODY OR SOMETHING)	SPOIL (SOMEBODY OR SOMETHING)	11	1	Balto-Slavic
-SPOON	SPOON	11	1	Balto-Slavic
-SPRING (OF WATER)	SPRING (OF WATER)	11	1	Balto-Slavic
-SPRINGTIME	SPRINGTIME	11	1	Balto-Slavic
-SQUIRREL	SQUIRREL	11	1	Balto-Slavic
-STAND UP	STAND UP	11	1	Balto-Slavic
-STEP (VERB)	STEP (VERB)	11	1	Balto-Slavic
-STING	STING	11	1	Balto-Slavic
-STINGY	STINGY	11	1	Balto-Slavic
-STOMACH	STOMACH	11	1	Balto-Slavic
-STORY	STORY	11	1	Balto-Slavic
-STOVE	STOVE	11	1	Balto-Slavic
-STRENGTH	STRENGTH	11	1	Balto-Slavic
-STRING	STRING	11	1	Balto-Slavic
-STRONG	STRONG	11	1	Balto-Slavic
-STUPID	STUPID	11	1	Balto-Slavic
-SUCCEED	SUCCEED	11	1	Balto-Slavic
-SUMMIT	SUMMIT	11	1	Balto-Slavic
-SUNDAY	SUNDAY	11	1	Balto-Slavic
-SWAMP	SWAMP	11	1	Balto-Slavic
-SWAY	SWAY	11	1	Balto-Slavic
-SWEEP	SWEEP	11	1	Balto-Slavic
-TABLE	TABLE	11	1	Balto-Slavic
-TASTE	TASTE	11	1	Balto-Slavic
-TASTE (SOMETHING)	TASTE (SOMETHING)	11	1	Balto-Slavic
-TASTY	TASTY	11	1	Balto-Slavic
-TEA	TEA	11	1	Balto-Slavic
-TEACHER	TEACHER	11	1	Balto-Slavic
-TEAR (OF EYE)	TEAR	11	1	Balto-Slavic
-TELL	TELL	11	1	Balto-Slavic
-TENDON	TENDON	11	1	Balto-Slavic
-FINE OR THIN	THIN	11	1	Balto-Slavic
-THIN (SLIM)	THIN (SLIM)	11	1	Balto-Slavic
-THING	THING	11	1	Balto-Slavic
-THIRD	THIRD	11	1	Balto-Slavic
-THIRTY	THIRTY	11	1	Balto-Slavic
-THREAD	THREAD	11	1	Balto-Slavic
-THROUGH	THROUGH	11	1	Balto-Slavic
-THUNDER (VERB)	THUNDER (VERB)	11	1	Balto-Slavic
-THURSDAY	THURSDAY	11	1	Balto-Slavic
-TIME	TIME	11	1	Balto-Slavic
-TODAY	TODAY	11	1	Balto-Slavic
-TOE	TOE	11	1	Balto-Slavic
-TOGETHER	TOGETHER	11	1	Balto-Slavic
-TOWEL	TOWEL	11	1	Balto-Slavic
-TOWN	TOWN	11	1	Balto-Slavic
-TRAP (PITFALL)	TRAP (PITFALL)	11	1	Balto-Slavic
-TREE TRUNK	TREE TRUNK	11	1	Balto-Slavic
-TROUSERS	TROUSERS	11	1	Balto-Slavic
-TRUTH	TRUTH	11	1	Balto-Slavic
-TRY	TRY	11	1	Balto-Slavic
-TUESDAY	TUESDAY	11	1	Balto-Slavic
-TWELVE	TWELVE	11	1	Balto-Slavic
-UNDERSTAND	UNDERSTAND	11	1	Balto-Slavic
-UNTIE	UNTIE	11	1	Uralic
-UNTRUTH	UNTRUTH	11	1	Balto-Slavic
-UP	UP	11	1	Balto-Slavic
-VEIN	VEIN	11	1	Balto-Slavic
-VERY	VERY	11	1	Balto-Slavic
-VILLAGE	VILLAGE	11	1	Balto-Slavic
-VISIBLE	VISIBLE	11	1	Balto-Slavic
-VISIT	VISIT	11	1	Balto-Slavic
-VOICE	VOICE	11	1	Balto-Slavic
-WAIT (FOR)	WAIT (FOR)	11	1	Balto-Slavic
-WAKE UP	WAKE UP	11	1	Balto-Slavic
-WANT	WANT	11	1	Balto-Slavic
-WAR	WAR	11	1	Balto-Slavic
-WATCH	WATCH	11	1	Balto-Slavic
-WAVE	WAVE	11	1	Balto-Slavic
-WEAK	WEAK	11	1	Balto-Slavic
-WEATHER	WEATHER	11	1	Balto-Slavic
-WEDNESDAY	WEDNESDAY	11	1	Balto-Slavic
-WEEK	WEEK	11	1	Balto-Slavic
-WEIGHT	WEIGHT	11	1	Balto-Slavic
-WELL	WELL	11	1	Balto-Slavic
-WEST	WEST	11	1	Balto-Slavic
-WHY	WHY	11	1	Balto-Slavic
-WILLOW	WILLOW	11	1	Balto-Slavic
-WIN	WIN	11	1	Balto-Slavic
-WINDOW	WINDOW	11	1	Balto-Slavic
-WINTER	WINTER	11	1	Balto-Slavic
-WOLF	WOLF	11	1	Balto-Slavic
-WOOL	WOOL	11	1	Balto-Slavic
-WORK (LABOUR)	WORK (LABOUR)	11	1	Balto-Slavic
-WORLD	WORLD	11	1	Balto-Slavic
-WOUND	WOUND	11	1	Balto-Slavic
-WRAP	WRAP	11	1	Balto-Slavic
-WRITE	WRITE	11	1	Balto-Slavic
-YOUNG	YOUNG	11	1	Balto-Slavic
-MILLET	MILLET	10	1	Uralic
-LEND	LEND	9	1	Uralic
-MUMBLE	MUMBLE	9	1	Uralic
-GRANDCHILD	GRANDCHILD	8	1	Uralic
-TURTLE	TURTLE	6	1	Uralic
-VULTURE	VULTURE	6	1	Uralic
-RAINING OR RAIN	RAIN	15	1	Uralic
-YOUNGER BROTHER	YOUNGER BROTHER	8	1	Uralic
-SPHERICAL (ROUND IN THREE DIMENSIONS)	ROUND	5	1	Hokan
+FLY	FLY	39	2	Balto-Slavic; Uralic
+FLY (INSECT)	FLY (INSECT)	51	2	Turkic; Uralic
+FLY (MOVE THROUGH AIR)	FLY	368	13	Arabic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uto-Aztecan; Vietic
+FOAM	FOAM	25	1	Turkic
+FOG	FOG	178	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+FOOT	FOOT OR LEG	256	11	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Uralic; Uto-Aztecan; Vietic
+FOOT OR LEG	FOOT OR LEG	120	3	Japonic; Polynesian; Turkic
+FOREHEAD	FOREHEAD	50	2	Quechuan; Turkic
+FOREST	FOREST	176	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+FOUR	FOUR	284	10	Arabic; Balto-Slavic; Bantu; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+FOX	FOX	54	2	Quechuan; Uralic
+FREEZE	FREEZE	95	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+FRUIT	FRUIT	139	5	Arabic; Japonic; Polynesian; Sinitic; Turkic
+FULL	FULL	280	12	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+GATHER	GATHER	22	1	Uralic
+GET TIRED	GET TIRED	33	1	Quechuan
+GIRL	GIRL	22	1	Uralic
+GIVE	GIVE	319	13	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+GO	GO	88	3	Quechuan; Turkic; Uralic
+GOLD	GOLD	32	1	Quechuan
+GOOD	GOOD	336	13	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+GRANDCHILD	GRANDCHILD	9	1	Uralic
 GRANDSON	GRANDSON	4	1	Uralic
-CIRCULAR (ROUND IN TWO DIMENSIONS)	ROUND	4	1	Hokan
-THIN (OF HAIR AND THREAD)	THIN	2	1	Hokan
+GRASP	GRASP	32	1	Turkic
+GRASS	GRASS	211	8	Arabic; Balto-Slavic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+GREEN	BLUE OR GREEN	348	13	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+GRIND	GRIND	43	2	Turkic; Uralic
+GROAN	GROAN	18	1	Uralic
+GROW	GROW	114	3	Japonic; Polynesian; Turkic
+GUTS	GUTS	79	4	Arabic; Sinitic; Turkic; Uralic
+HAIR	HAIR	261	9	Arabic; Balto-Slavic; Hellenic; Hokan; Italic; Japonic; Polynesian; Uralic; Uto-Aztecan
+HAIR (HEAD)	HAIR	154	6	Bantu; Dravidian; Quechuan; Sinitic; Turkic; Vietic
+HAND	ARM OR HAND	333	12	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Uralic; Uto-Aztecan
+HAPPY	HAPPY	32	1	Quechuan
+HARD	HARD	63	3	Turkic; Uralic; Vietic
+HE	3SG	35	2	Arabic; Sinitic
+HE OR SHE	3SG	85	2	Japonic; Polynesian
+HE OR SHE OR IT	3SG	43	2	Turkic; Vietic
+HEAD	HEAD	415	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+HEAD LOUSE	LOUSE	34	2	Dravidian; Vietic
+HEAR	HEAR OR LISTEN	397	14	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+HEAR OR LISTEN	HEAR OR LISTEN	14	1	Vietic
+HEART	HEART	316	13	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+HEAVY	HEAVY	350	13	Arabic; Balto-Slavic; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+HEEL	HEEL	22	1	Uralic
+HEN	HEN	15	1	Uralic
+HERE	HERE	99	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+HIDE	HIDE	99	3	Japonic; Polynesian; Uralic
+HIDE (CONCEAL)	HIDE (CONCEAL)	65	2	Quechuan; Turkic
+HIT	HIT	122	4	Arabic; Japonic; Polynesian; Uralic
+HOLD	HOLD OR TAKE	136	5	Arabic; Balto-Slavic; Japonic; Polynesian; Uralic
+HOLD OR TAKE	HOLD OR TAKE	19	1	Sinitic
+HOLE	HOLE	30	1	Turkic
+HORN	HORN	38	2	Balto-Slavic; Uralic
+HORN (ANATOMY)	HORN	278	11	Arabic; Bantu; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uto-Aztecan; Vietic
+HOT	HOT OR WARM	83	3	Sinitic; Turkic; Uto-Aztecan
+HOT OR WARM	HOT OR WARM	32	1	Quechuan
+HOUSE	HOUSE	184	6	Bantu; Japonic; Polynesian; Turkic; Uralic; Vietic
+HOW	HOW	182	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+HUNDRED	HUNDRED	36	3	Balto-Slavic; Japonic; Polynesian
+HUNGER	HUNGER	33	1	Bantu
+HUNT	HUNT	168	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+HUSBAND	HUSBAND	180	7	Arabic; Balto-Slavic; Japonic; Polynesian; Quechuan; Sinitic; Uralic
+I	I	339	13	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+ICE	ICE	97	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+IF	IF	73	5	Arabic; Japonic; Polynesian; Sinitic; Uralic
+IN	IN	166	6	Arabic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+INSIDE	IN	16	1	Vietic
+INTESTINES	INTESTINES	117	3	Bantu; Japonic; Polynesian
+IRON	IRON	28	1	Bantu
+JUMP	JUMP	31	1	Turkic
+KEEP	KEEP	15	1	Uralic
+KILL	KILL	377	14	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+KNEE	KNEE	321	13	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+KNIFE	KNIFE	32	1	Bantu
+KNOW	KNOW	58	3	Balto-Slavic; Dravidian; Uralic
+KNOW (SOMETHING)	KNOW	347	12	Arabic; Bantu; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uto-Aztecan; Vietic
+LAKE	LAKE	119	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+LAUGH	LAUGH	219	8	Arabic; Balto-Slavic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+LEAF	LEAF	408	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+LEAVE	LEAVE	15	1	Uralic
+LEFT	LEFT	202	7	Arabic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+LEG	FOOT OR LEG	135	6	Arabic; Balto-Slavic; Bantu; Quechuan; Sinitic; Uralic
+LEND	LEND	10	1	Uralic
+LICK	LICK	64	2	Quechuan; Turkic
+LIE	LIE	35	2	Balto-Slavic; Uralic
+LIE (REST)	LIE	173	8	Arabic; Dravidian; Hellenic; Hokan; Italic; Sinitic; Uto-Aztecan; Vietic
+LIE DOWN	LIE	120	3	Japonic; Polynesian; Turkic
+LIFT	LIFT	21	1	Uralic
+LIGHT (IGNITE)	LIGHT (IGNITE)	21	1	Uralic
+LIGHT (WEIGHT)	LIGHT (WEIGHT)	24	1	Quechuan
+LIGHTNING	LIGHTNING	88	2	Japonic; Polynesian
+LIP	LIP	28	1	Quechuan
+LIVE	LIVE	22	1	Uralic
+LIVER	LIVER	314	14	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+LONG	LONG	343	13	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+LOOK	LOOK	32	1	Turkic
+LOOK FOR	LOOK FOR	31	1	Turkic
+LOSE	LOSE	15	1	Uralic
+LOUD	LOUD	12	1	Uralic
+LOUSE	LOUSE	371	13	Arabic; Balto-Slavic; Bantu; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+LUNG	LUNG	15	1	Uralic
+MALE PERSON	MALE PERSON	152	4	Hellenic; Italic; Japonic; Polynesian
+MAN	MALE PERSON	245	10	Arabic; Balto-Slavic; Bantu; Dravidian; Hokan; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+MANY	MANY	251	11	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+MEAT	FLESH OR MEAT	152	7	Arabic; Balto-Slavic; Dravidian; Hokan; Turkic; Uralic; Uto-Aztecan
+MILLET	MILLET	11	1	Uralic
+MIND	MIND	18	1	Uralic
+MOLAR TOOTH	MOLAR TOOTH	13	1	Uralic
+MONTH	MONTH	32	1	Turkic
+MOON	MOON	414	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+MORNING	MORNING	22	1	Uralic
+MOSQUITO	MOSQUITO	109	3	Japonic; Polynesian; Uralic
+MOTHER	MOTHER	183	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+MOUNTAIN	MOUNTAIN OR HILL	258	11	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Uralic; Uto-Aztecan; Vietic
+MOUNTAIN OR HILL	MOUNTAIN OR HILL	32	1	Turkic
+MOUSE	MOUSE	32	1	Quechuan
+MOUTH	MOUTH	412	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+MUMBLE	MUMBLE	10	1	Uralic
+NAME	NAME	396	14	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+NARROW	NARROW	180	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+NASAL MUCUS (SNOT)	SNOT	24	1	Turkic
+NAVEL	NAVEL	158	6	Bantu; Quechuan; Turkic; Uralic; Uto-Aztecan; Vietic
+NEAR	NEAR	266	10	Arabic; Balto-Slavic; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+NECK	NECK	414	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+NEEDLE (FOR SEWING)	NEEDLE	85	2	Japonic; Polynesian
+NEW	NEW	368	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+NIGHT	NIGHT	411	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+NINE	NINE	151	5	Balto-Slavic; Japonic; Polynesian; Quechuan; Uralic
+NIT	NIT	15	1	Uralic
+NO OR NOT	NO OR NOT	121	3	Japonic; Polynesian; Uto-Aztecan
+NOSE	NOSE	415	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+NOT	NO OR NOT	239	10	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic
+NUMBER	NUMBER	19	1	Sinitic
+OLD	OLD	168	6	Arabic; Balto-Slavic; Japonic; Polynesian; Uralic; Uto-Aztecan
+OLD (AGED)	OLD	19	1	Sinitic
+OLD (OF MAN)	OLD	33	1	Quechuan
+OLD (OF WOMAN)	OLD	28	1	Quechuan
+OLD (USED)	OLD	39	2	Turkic; Vietic
+ONE	ONE	419	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+ONLY	ONLY	21	1	Uralic
+OPEN	OPEN	114	3	Japonic; Polynesian; Turkic
+ORGANIC FAT OR OIL	ORGANIC FAT OR OIL	37	1	Bantu
+OTHER	OTHER	158	6	Arabic; Balto-Slavic; Japonic; Polynesian; Turkic; Uralic
+PAINFUL OR SICK	PAINFUL OR SICK	57	2	Japonic; Polynesian
+PATH	PATH OR ROAD	19	1	Sinitic
+PATH OR ROAD	PATH OR ROAD	173	6	Balto-Slavic; Japonic; Polynesian; Uralic; Uto-Aztecan; Vietic
+PERSON	PERSON	399	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+PICK UP	PICK UP	12	1	Uralic
+PIECE	PIECE	23	1	Uralic
+PLANT (SOMETHING)	PLANT (SOMETHING)	82	2	Japonic; Polynesian
+PLAY	PLAY	97	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+POUND	POUND	83	2	Japonic; Polynesian
+PULL	PULL	98	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+PUS	PUS	26	1	Turkic
+PUSH	PUSH	122	6	Arabic; Balto-Slavic; Quechuan; Sinitic; Turkic; Uralic
+PUT ON	PUT ON	32	1	Turkic
+RAIN	RAINING OR RAIN	39	2	Balto-Slavic; Uralic
+RAIN (PRECIPITATION)	RAINING OR RAIN	343	12	Arabic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uto-Aztecan; Vietic
+RAINBOW	RAINBOW	20	1	Uralic
+RAINING OR RAIN	RAINING OR RAIN	33	1	Quechuan
+RAT	RAT	86	2	Japonic; Polynesian
+RAW	RAW	26	1	Turkic
+RED	RED	374	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+REMAIN	REMAIN	32	1	Turkic
+RIGHT	RIGHT	204	7	Arabic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+RIPE	RIPE	30	1	Turkic
+RISE (MOVE UPWARDS)	RISE (MOVE UPWARDS)	30	1	Turkic
+RIVER	RIVER	129	6	Arabic; Balto-Slavic; Quechuan; Sinitic; Turkic; Uralic
+ROAD	PATH OR ROAD	181	7	Arabic; Bantu; Dravidian; Hellenic; Hokan; Italic; Quechuan
+ROAST OR FRY	ROAST OR FRY	15	1	Uralic
+ROOT	ROOT	405	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+ROPE	ROPE	245	9	Arabic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+ROTTEN	ROTTEN	167	6	Arabic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+ROUGH	ROUGH	12	1	Uralic
+ROUND	ROUND	221	10	Arabic; Balto-Slavic; Dravidian; Hokan; Italic; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+RUB	RUB	65	4	Arabic; Balto-Slavic; Sinitic; Uralic
+RUN	RUN	69	3	Turkic; Uralic; Vietic
+SALT	SALT	378	14	Arabic; Balto-Slavic; Bantu; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+SALTY	SALTY	14	1	Uralic
+SAND	SAND	399	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+SAY	SAY	326	12	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+SCRATCH	SCRATCH	163	6	Arabic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+SEA	SEA	175	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+SEE	SEE	408	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+SEED	SEED	242	11	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+SEND	SEND	31	1	Bantu
+SEVEN	SEVEN	128	4	Balto-Slavic; Japonic; Polynesian; Quechuan
+SEW	SEW	217	8	Arabic; Balto-Slavic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+SHADE	SHADE	95	4	Quechuan; Turkic; Uralic; Vietic
+SHAKE	SHAKE	20	1	Uralic
+SHALLOW	SHALLOW	15	1	Uralic
+SHAME	SHAME	27	1	Bantu
+SHARE	SHARE	12	1	Uralic
+SHARP	SHARP	151	8	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+SHELL	SHELL	12	1	Uralic
+SHIT (DEFECATE)	SHIT (DEFECATE)	14	1	Uralic
+SHOOT	SHOOT	90	3	Balto-Slavic; Japonic; Polynesian
+SHORT	SHORT	297	11	Arabic; Balto-Slavic; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+SHOULDER	SHOULDER	113	3	Japonic; Polynesian; Turkic
+SHUT	SHUT	18	1	Uralic
+SHY OR ASHAMED	SHY OR ASHAMED	82	2	Japonic; Polynesian
+SICK	PAINFUL OR SICK	31	1	Quechuan
+SING	SING	162	7	Arabic; Balto-Slavic; Bantu; Sinitic; Turkic; Uralic; Uto-Aztecan
+SISTER	SISTER	20	1	Uralic
+SISTER (OF MAN)	SISTER	33	1	Quechuan
+SISTER (OF WOMAN)	SISTER	33	1	Quechuan
+SIT	SIT	342	13	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Vietic
+SIT DOWN	SIT DOWN	33	1	Uto-Aztecan
+SIX	SIX	159	5	Balto-Slavic; Japonic; Polynesian; Quechuan; Uto-Aztecan
+SKIN	SKIN	329	12	Balto-Slavic; Bantu; Dravidian; Hokan; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+SKIN (HUMAN)	SKIN	78	3	Arabic; Hellenic; Italic
+SKY	SKY	239	9	Arabic; Balto-Slavic; Bantu; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+SLEEP	SLEEP	375	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+SLEEP (STATE)	SLEEP	34	1	Bantu
+SMALL	SMALL	369	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+SMELL	SMELL	53	3	Balto-Slavic; Turkic; Uralic
+SMELL (PERCEIVE)	SMELL	123	4	Arabic; Japonic; Polynesian; Sinitic
+SMOKE	SMOKE	38	2	Balto-Slavic; Uralic
+SMOKE (EXHAUST)	SMOKE	373	13	Arabic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uto-Aztecan; Vietic
+SMOOTH	SMOOTH	89	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+SNAKE	SNAKE	321	12	Arabic; Balto-Slavic; Bantu; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+SNIFF	SNIFF	13	1	Uralic
+SNOW	SNOW	128	6	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic; Uto-Aztecan
+SOFT	SOFT	29	1	Turkic
+SOME	SOME	32	2	Arabic; Uralic
+SON-IN-LAW	SON-IN-LAW	15	1	Uralic
+SONG	SONG	22	1	Uralic
+SOON	SOON	20	1	Uralic
+SOUND OR NOISE	SOUND OR NOISE	22	1	Uralic
+SOUR	SOUR	23	1	Turkic
+SPEAK	SPEAK	53	3	Balto-Slavic; Quechuan; Vietic
+SPEAR	SPEAR	30	1	Bantu
+SPHERICAL (ROUND IN THREE DIMENSIONS)	ROUND	10	2	Hellenic; Hokan
+SPIDER	SPIDER	106	3	Japonic; Polynesian; Uralic
+SPIN	SPIN	25	1	Turkic
+SPIT	SPIT	197	7	Arabic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+SPLIT	SPLIT	107	5	Arabic; Japonic; Polynesian; Sinitic; Uralic
+SQUEEZE	SQUEEZE	79	4	Arabic; Polynesian; Sinitic; Uralic
+STAB	STAB	137	5	Arabic; Japonic; Polynesian; Sinitic; Uralic
+STAND	STAND	325	12	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+STAND UP	STAND UP	45	2	Uto-Aztecan; Vietic
+STAR	STAR	373	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+STEAL	STEAL	115	3	Bantu; Japonic; Polynesian
+STICK	STICK	181	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+STINKING	STINKING	14	1	Uralic
+STONE	STONE	419	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+STRAIGHT	STRAIGHT	81	4	Arabic; Sinitic; Turkic; Uralic
+STRETCH	STRETCH	15	1	Uralic
+STRIKE	STRIKE	52	2	Quechuan; Sinitic
+STUPID	STUPID	9	1	Balto-Slavic
+SUCK	SUCK	199	7	Arabic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+SUCKLE (BREASTFEED, NURSE)	SUCKLE	15	1	Vietic
+SUMMER	SUMMER	23	1	Uralic
+SUN	SUN	312	12	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+SWALLOW	SWALLOW	30	1	Turkic
+SWEET	SWEET	95	4	Quechuan; Turkic; Uralic; Vietic
+SWELL	SWELL	161	6	Arabic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+SWIM	SWIM	348	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+TAIL	TAIL	408	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+TAKE	HOLD OR TAKE	55	2	Turkic; Uralic
+TALL	TALL	29	1	Turkic
+TEACH	TEACH	22	1	Uralic
+TEAR (SHRED)	TEAR (SHRED)	30	1	Turkic
+TEN	TEN	183	6	Balto-Slavic; Bantu; Japonic; Polynesian; Quechuan; Uralic
+TESTICLES	TESTICLES	15	1	Uralic
+THAT	THAT	320	12	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+THATCH OR ROOF	THATCH OR ROOF	78	2	Japonic; Polynesian
+THERE	THERE	95	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+THEY	THEY	142	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+THICK	THICK	142	8	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Vietic
+THIGH	THIGH	19	1	Uralic
+THIN	FINE OR THIN	232	8	Arabic; Balto-Slavic; Hellenic; Italic; Japonic; Polynesian; Turkic; Uralic
+THIN (OF HAIR AND THREAD)	FINE OR THIN	2	1	Hokan
+THIN (OF LEAF AND CLOTH)	FINE OR THIN	21	2	Hokan; Sinitic
+THIN (OF SHAPE OF OBJECT)	FINE OR THIN	8	1	Hokan
+THINK	THINK	164	6	Arabic; Balto-Slavic; Japonic; Polynesian; Turkic; Uralic
+THINK (REFLECT)	THINK	47	2	Quechuan; Sinitic
+THIS	THIS	367	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+THOU	THOU	319	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+THOUSAND	THOUSAND	25	2	Japonic; Polynesian
+THREE	THREE	286	10	Arabic; Balto-Slavic; Bantu; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+THROAT	THROAT	31	1	Turkic
+THROW	THROW	216	8	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+THUNDER	THUNDER	88	2	Japonic; Polynesian
+TIE	TIE	110	6	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic; Vietic
+TIRED	TIRED	16	1	Uralic
+TOMORROW	TOMORROW	30	1	Turkic
+TONGUE	TONGUE	415	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+TOOTH	TOOTH	406	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+TOP	TOP	16	1	Uralic
+TOUCH	TOUCH	21	1	Uralic
+TRAP (CATCH)	TRAP (CATCH)	14	1	Uralic
+TREE	TREE	325	13	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+TREE STUMP	TREE STUMP	15	1	Uralic
+TRUE	TRUE	30	1	Turkic
+TURN	TURN	103	3	Japonic; Polynesian; Uralic
+TURN (SOMETHING)	TURN (SOMETHING)	25	1	Turkic
+TURN AROUND	TURN AROUND	35	2	Arabic; Sinitic
+TURTLE	TURTLE	7	1	Uralic
+TWENTY	TWENTY	26	3	Balto-Slavic; Japonic; Polynesian
+TWIST (AROUND)	TWIST (AROUND)	16	1	Uralic
+TWO	TWO	418	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+UNCLE	UNCLE	23	1	Uralic
+UNTIE	UNTIE	11	1	Uralic
+UP	UP	33	1	Quechuan
+UPPER LEG (THIGH)	UPPER LEG (THIGH)	44	2	Turkic; Vietic
+URINE	URINE	30	1	Bantu
+VILLAGE	VILLAGE	30	1	Bantu
+VOMIT	VOMIT	225	8	Arabic; Bantu; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+VULTURE	VULTURE	7	1	Uralic
+WALK	WALK	343	14	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+WAR	WAR	31	1	Bantu
+WARM	HOT OR WARM	224	9	Arabic; Balto-Slavic; Dravidian; Hokan; Japonic; Polynesian; Turkic; Uralic; Vietic
+WARM (OF WEATHER)	HOT OR WARM	61	2	Hellenic; Italic
+WASH	WASH	99	5	Arabic; Balto-Slavic; Sinitic; Turkic; Uralic
+WATER	WATER	419	15	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+WE	WE	323	12	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Uto-Aztecan
+WE (INCLUSIVE)	WE	31	1	Quechuan
+WEAVE	WEAVE	25	1	Turkic
+WET	WET	182	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+WHAT	WHAT	374	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+WHEN	WHEN	150	5	Arabic; Japonic; Polynesian; Turkic; Uralic
+WHERE	WHERE	184	7	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic
+WHICH	WHICH	30	1	Turkic
+WHISTLE	WHISTLE	22	1	Uralic
+WHITE	WHITE	376	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+WHO	WHO	373	14	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+WIDE	WIDE	189	8	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Turkic; Uralic; Vietic
+WIFE	WIFE	148	6	Arabic; Balto-Slavic; Japonic; Polynesian; Sinitic; Uralic
+WIND	WIND	377	14	Arabic; Balto-Slavic; Bantu; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan; Vietic
+WING	WING	215	8	Arabic; Balto-Slavic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+WIPE	WIPE	35	2	Arabic; Uralic
+WITH	WITH	82	4	Arabic; Quechuan; Turkic; Uralic
+WOMAN	WOMAN	305	12	Arabic; Balto-Slavic; Bantu; Dravidian; Hellenic; Hokan; Italic; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+WOOD	WOOD	32	1	Turkic
+WORD	WORD	23	1	Uralic
+WORK (ACTIVITY)	WORK (ACTIVITY)	86	2	Japonic; Polynesian
+WORM	WORM	288	11	Arabic; Balto-Slavic; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic
+YAWN	YAWN	79	2	Japonic; Polynesian
+YEAR	YEAR	333	12	Arabic; Balto-Slavic; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+YELLOW	YELLOW	357	13	Arabic; Balto-Slavic; Dravidian; Hellenic; Hokan; Italic; Japonic; Polynesian; Quechuan; Sinitic; Turkic; Uralic; Uto-Aztecan
+YESTERDAY	YESTERDAY	52	2	Turkic; Uralic
+YOU	YOU	159	6	Arabic; Balto-Slavic; Japonic; Polynesian; Turkic; Uralic
+YOUNG (OF MAN)	YOUNG	30	1	Quechuan
+YOUNG (OF WOMAN)	YOUNG	28	1	Quechuan
+YOUNGER BROTHER	BROTHER	9	1	Uralic
