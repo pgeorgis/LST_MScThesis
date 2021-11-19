@@ -1,8 +1,4 @@
 	Aichi	Akita	Aomori	Chiba	Ehime	Fukui	Fukuoka	Fukushima	Gifu	Gunma	Hachijō	Hateruma	Hirara	Hiroshima	Hokkaidō	Hyōgo	Ibaraki	Ikema	Irafu	Ishigaki	Ishikawa	Iwate	Kagawa	Kagoshima	Kanagawa	Kumamoto	Kyōtō	Kōchi	Mie	Miyagi	Miyazaki	Nagano	Nagasaki	Nara	Naze	Niigata	Okayama	Okinawa	Old Japanese	Saga	Saitama	Shiga	Shimane	Shizuoka	Taketomi	Tarama	Tochigi	Tokushima	Tottori	Toyama	Tōkyō	Wakayama	Yamagata	Yamaguchi	Yamanashi	Yonaguni	Ōita	Ōsaka
-ALL_1	miɴna	miɴna	miɴna	miɴa	miɴna	miɴna		miɴna	miɴna	miɴna	meɴna		mːna	miɴna	miɴna	miɴna	miɴna	mːna	mːna		ɴna	miɴna	miɴna	miɴna	miɴna	mina	miɴna	miɴnaː	mina	miɴna	miɴna	miɴna	miɴna	miɴna		ɴna	miɴna		mɨna		miɴa	mina	meɴna	miɴna		mːna	mina	mina	miɴna	ɴna	miɴa	miɴna	miɴna	miɴna	miɴna		miɴna	mina
-ALL_2																																								ʃiʔkja																		
-ALL_3							soːjo					muːruɴ								muːru																		muru							muːru											muru		
-ALL_4																																			ɡoʔto																							
 ASH_1		aɡu	aɡu					aɡu							aku							aɡu								aɡu						aku																	aɡu					
 ASH_2																																																								çiɡuɴ		
 ASH_3													karapaɨ					karapai	karapaɨ																											karapaɨ												
@@ -174,9 +170,6 @@ MOUTH_1	kuʧi	kuʤi	kuʣu	kuʧi	kuʧi	kuʧi	kuʧi	kuʤi	kuʧi	kuʧi	kuʧi	βuʦ�
 MOUTH_2																																																								tʔi		
 NAME_1	namɛː	namae	namɛː	namɛː	namae	namae	namae	namae	namae	namae	nameː			namae	namae	namae	namae				namae	namɛ	namae	namae	nameː		namae	namae		namɛː		namae	namaje	namae		namae	nameː				nameː	namae	namae	namae			name	namae	namae		namae		namɛ	namɛː	namae			namae
 NAME_2												naɴ	naː					naː	naː	naː						na			naː		na				naː			naː	na	na					naː	naː				naː		naː				na	na	
-NEAR_1	ʧikɛː	ʧikɛ	ʦukɛ	ʧikɛː	ʧikai	ʧikeː	ʧikaka	ʧikɛ	ʧikɛː	ʧikai	ʧikakja	sɨkahaɴ	ʦɨkakaiɨ	ʧikaː	ʧikai	ʧikai	ʧikae	maikai	ʦɨkakaru	ʦɨkasaːɴ	ʧikai	ʦukɛ	ʧikai	ʧike	ʧikɛː	ʧikaka	ʧikai	ʧikai	ʧikai	ʦukae	ʧike	ʧikeː	ʧikaka	ʧikaː	ʦɨkjaʃaɴ	ʧike	ʧikɛː	ʃikjaʃeɴ	tikaʃi	ʧikaka	ʧikeː	ʧikai	ʧikae	ʧikeː	ʃikaːɴ		ʧikai	ʧikai	ʧikai	ʧikai	ʧikai	ʧikai	ʧiʔkɛː	ʧikɛː	ʧikai		ʧikeː	ʧikai
-NEAR_2																																																								tʔaɴ		
-NEAR_3																																														umaɡama												
 NECK_1													nubui					nudu	nubui	nubi																									nubi											nubi		
 NECK_2	kubi	kuɴbi	kuɴpita	kubi	kubi	kubi	kubi	kubi	kubi	kubi	kubi			kubi	kubi	kubi	kubi				kubi	kubi	kubi	kuʔ	kubi	kubi	kubi	kubi	kubi	kuɴpita	kubi	kubi	kubi	kubi	kʔubi	kubi	kubi	kubi	kubi	kubi	kubi	kubi	kubi	kubi			kubi	kubi	kubi	kubi	kubi	kubi	kuɴbi	kubi	kubi		kubi	kubi
 NECK_3																																														βuʤɨbuni												
@@ -216,9 +209,6 @@ SAY_4													aɨ					ai	aɨ
 SAY_5			heru																											ʃaɴberu		seu																					ʃaberu					
 SEE_1																																			njuɴ																					ɴnuɴ		
 SEE_2	miru	miru	miru	miru	miru	miru	miru	miru	miru	miru	miru	miruɴ	miːɨ	miru	miru	miru	miru	miː	miːl	miruɴ	miru	miru	miru	miʔ	miru	miru	miru	miru	miru	miru	miru	miru	miʔ	miru		miru	miː	miːɴ	miru	miː	miru	miru	miru	miru	miruɴ	miːl	miru	miru	miru	miru	miru	miru	miru	miru	miru		miru	miru
-SHORT_1																																			ʔiʔkjaʃaɴ			ʔiɴkjaʃeɴ																				
-SHORT_2												marohaɴ	marukaɨ					marukai	marukal																											maʔraːl										maraɴ		
-SHORT_3	miʤiɡɛː	miɴʤiɡɛ	miʦukɛ	miʧikɛː	miʤikai	miʤikai	miʤikaka	miʤiɡɛ	miʤiɡɛː	miʤikai	miʧikakja			miʤikaː	miʤikai	miʤikai	miʧikae			iɴʦɨkasaːɴ	miʤikai	miʣukɛ	miʤikai	miçike	miʤikeː	miʤikaka	miʤikai	miʣoi	miʤikai	miʦukɛ	miʃike	miʤikeː	miʤikaka	miʤikaː		miʤiɡɛː	miʤiɡɛː		miʤikaʃi	miʃikaka	miʤikeː	miʤikai	meʧikae	miʤikeː	iʃikaːɴ		miʧikai	miʤikai	miʤikai	miʤikai	miʤikai	miʤikai	miɴʤikɛ	miʤiɡɛː	miʤikai		miʃikeː	miʤikai
 SIT_1							idoru																					iʣaru																												ɴturuɴ		
 SIT_2	suwaru	nemaru	nemaru	suwaru	suwaru	nimaru		suwaru	suwaru	suwaru	suwaru			suwaru	suwaru	suwaru	suwaru				nemaru	nemaru	suwaru	suwaʔ	suwaru	suwaru	suwaru		suwaru	nemaru	suwaru	suwaru	suwaʔ	suwaru		nemaru	suwaru			suwaː	suwaru	suwaru		suwaru			suwaru	suwaru	suwaru	nemaru	suwaru		nemaru	suwaru	suwaru		suwaru	suwaru
 SIT_3																																																				betaʣuwari						
@@ -260,10 +250,6 @@ TAIL_6																																																								duɴpani
 THAT_1																																					eː						aː															
 THAT_2	are	are	ae	are	are	are	are	are	are	are			kai	are	are	ae	are	kai	kari		are	are	are		are	aru	are	are	are		are	are		are	arɨ	are		ari	kare		are	are		are	kari	kal	are	are	are	aru	are	are	are	are	are			are
 THAT_3											ui													ai						aeʣu			ai							ai																	aitu	
-THIN_1																																													pisaɴ	piʔsaːl										çiʦaɴ		
-THIN_2												psɨʃahaɴ							psɨsɨkal	psɨʃi̥saːɴ															çiʃiːʃaɴ																							
-THIN_3	uʃuː	uʃie	usue	usuː	usui	usui	usuka	usui	uʃuː	usui	usukja		usɨkaɨ	usui	usui	usui	usue				usui	usu	usui	uʃi	uʃiː	usuka	usui	usui	usui	usue	usi	usue	usuka	usui		uːse	uʃiː	ʔusuʃeɴ	usuʃi	usuka	usue	usui	oʃiː	usui			usui	usui	usui	uʔsui	usui	usui	uʔʃi	uʃiː	usui		usiː	usui
-THIN_4																		ʔsukai																																								
 THIS_1	køːʦu								køːʦu																					koeʣu																											koitu	
 THIS_2		kore	koe	kore	kore	kore	kore	kore		kore	koi		kui	kore	kore	koe	kore	kui	kuri		kore	kore	kore	koi	kore	koru	kore	kore	kore		kore	kore	koi	kore	kurɨ	kore	kore	βuri	køre	koi	kore	kore	keː	kore	kuri	kul	kore	kore	kore	koru	kore	kore	kore	kore	kore			kore
 TONGUE_1					bero			bero	bero	bero				bero	bero		bero													bero	bero		bero	ʃitabero			bero				bero			bero			bero	bero		bero								
@@ -301,8 +287,6 @@ WHO_2	døːʦu								døːʦu					dore									doiʦu	doɴʃi											duɴʦ�
 WHO_3							dai				dai																												ta																			
 WHO_4																																						tanʧuː							taʔtaː													
 WIND_1	kaʣe	kaɴje	kaɴʣe	kade	kaʣe	kaje	kaje	kaʣe	kaʣe	kaʣe	kaʣe	kaʤi	kaʤi	kade	kaʣe	kaʣe	kaʣe	kadi	kaʤi	kaʤi	kaʣe	kaɴʣe	kaʣe	kaʣe	kaʣe	kaje	kaʣe	kaʣe	kaʣe	kaɴje	kaje	kaʣe	kaje	kaʣe	kaʤə	kaʣe	kaʣe	haʤi	kaʣe	kaje	kaʣe	kaʣe	kaʣe	kaʣe	kaʤi	kadi	kaʣe	kaʣe	kaʣe	kaʣe	kaʣe	kaʣe	kaɴʣe	kaje	kaʣe	kadi	kaje	kaʣe
-WORM_1	memeʣo	mimiɴʤi	memeɴʣu	mimiʣu	mimiʣu	mimiʣu	mimiʣu	mimiʣu	memeʣu	memeʣu	memeʣume	mimiʤɨ	mimiʤɨ	mimiʣu	mimiʣu	mimiʣu	memeʣume	ʤɨmiʤɨ	ʤɨmiʤɨ	mimiʤɨ	mimiʣu	mimiɴʣu	mimiʣu	mimiʣu̥	memeʣu	mimiʣu	memeʣu	mimiʣu	mimiʣu	mimiɴʣu	mimiʣu	memeʣu	mimiʣu	memeʣu		memeʣu	mimiʣu	mimiʤi		mimiʣu	memeʣu	memeʣu	memeʤi	memeʣu	miːmaʤi	miːmiʤɨ	mimiʣu	memeʣu	mimiʣu	memeʣu	mimiʣu	memeʣu	memeɴʤi	mimiʣu	memeʣu	timimi	mimiʣu	memeʣu
-WORM_2																																			meːʤa																							
 YEAR_1	toʃi	toʃi	tosu	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	tusɨ	tusɨ	toʃi	toʃi	toʃi	toʃi	tusɨ	tusɨ	tusɨ	toʃi	tosu	toʃi	toʃi̥	toʃi	toʃi	toʃi	toʃi	toʃi	tosu	toʃi	toʃi	toʃi	toʃi	tuʃi	toʃi	toʃi	tuʃiː	tøʃi	toʃi	toʃi	toʃi	toʃi	toʃi	tuʃi	tusɨ	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	tuʧi	toʃi	toʃi
 YELLOW_1												ksɨɴksɨʃahaɴ								ksɨɴksɨɴ																																						
 YELLOW_2							kina																			kina														kiɴnaka																	kina	

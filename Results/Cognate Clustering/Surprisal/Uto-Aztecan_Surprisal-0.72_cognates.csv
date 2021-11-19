@@ -1,22 +1,15 @@
 	Cahuilla	Central Tarahumara	Chemehuevi	Classical Nahuatl	Comanche	Cupeño	El Nayar Cora	Eudeve	Highland Puebla Nahuatl	Hopi	Huarijío	Huichol	Kawaiisu	Luiseño	Mayo	Mono	Northern Paiute	Northern Tepehuan	Panamint	Pima Bajo	Pipil	Pochutec	Serrano	Shoshoni	Southeastern Tepehuan	Southern Paiute	Teguima	Tetelcingo Nahuatl	Tohono O'odham	Tongva	Tubar	Tübatulabal	Ute	Yaqui
-ALL_1																																	pɑʔɑmɑnuni~pɑʔɑmɑnuktis	
-ALL_2						pətɑ̠ʔɑmɑ																												
-ALL_3										sosojɑm~sosoj																								
-ALL_4													monojo																					
-ALL_5																																	mɑnuni	
-ALL_6												nai̯tɯ~junai̯tɯ					noːʔju																	
-ALL_7															ʦikti																			ʦikti
-ALL_8																nasimi																		
-ALL_9																							puju									piniju		
-ALL_10								awona~haona			joma															mano~manu								
-ALL_11				moʧ~moʧi	ojɯ~ojo				noʧi			nai̯								βɯʃ	muʧi	noʧo		ojoːn			sə	noʧi	wɯs~wɯs					
-ALL_12	u̠mun		mɑnːo																															
-ALL_13				iːxkiʧ										ʧoʔon				βɯʃi	wɯmː						vɯʃ						weʦɑ̠t~wesɑ̠t			
-ALL_14							hei̯ʦe																											
-ALL_15																			sɯmɯsɯ															
-ALL_16																			ojoːntɯ~ojoːntɯsɯ															
-ALL_17																														owɑ̠̄ʔix				
-ALL_18		omɑrwɑme																																
+ARM_1															koomi																			
+ARM_2																																		konkabam
+ARM_3									ahkol												mahkul													
+ARM_4																															mavoːi̯r			
+ARM_5		seka			pɨra						seka		pɨravɨ			pɨtːa	pɨtːa	juca	pɨta	huca				pɨta		pɨta							pɨtapi	
+ARM_6																									nob				nowi					
+ARM_7			aŋapɨ					nocat																										
+ARM_8	mal							mamat		maʔa		mama		mat							maji~mah		maː				mama	mø		man		maʦon~madzan		
+ARM_9				maːi̯tl																														
+ARM_10																											møtzaca							
+ARM_11							mwahkaʔa																											
 ASH_1						wɨʂkiʃ																												
 ASH_2														teeliŋiʃ																				
 ASH_3																	kutːusːipɨ																	
@@ -607,18 +600,6 @@ MAN_9				tlaːkatl					taːɡat	taaqa											takat	teket						tløkatl
 MAN_10	naxaniʃ					naxaniʃ								jaʔaʃ		nana	nana																	
 MAN_11							tjaːtaʔa																											
 MAN_12																							wɨcɨʂʦ											
-MANY_1												kʷinija		hihee																				
-MANY_2					soːtɨ														soːntɨn					soːntɨn										
-MANY_3	meten					mɨtʔiʃ																												
-MANY_4							mwiʔi	mui̯										mui̯		muʔi	muːʧi				mui̯ʔ				muʔi					
-MANY_5													awa			ewa	iwa																	
-MANY_6				miak~miek					miak												mijak		wɨr					mejak			mui̯ar			
-MANY_7			apaʔa							kaasta																apæ							apaʔnatːɨ	
-MANY_8		weka									wei̯ka																							
-MANY_9															hwebenːa																			huebeena
-MANY_10																														ajohin		joːwi		
-MANY_11																							wɨwɨht											
-MANY_12																											surapĕqui̯							
 MEAT_1	waʔiʃ					waʔiʃ						wai̯		waaʔiʃ	wakas																			
 MEAT_2				nakatl					nakat												nakat	neket						nakatl						
 MEAT_3		saʔpa						sata~saba~saabaʔa		sikʷi	saʔpa									hai̯van					bakas		sata							
@@ -790,28 +771,6 @@ ROOT_5				tlaneːlwatl					naːlwat																			nelwajutl~nelwatl
 ROOT_6		nawa				wala	naanaʔa	nava		ŋaʔat	nawa	nana			naːwa								ŋaːqaw				nawa							nawa
 ROOT_7																					inenɡwaho													
 ROOT_8	pukuʔu																																	
-ROUND_1																	paʦːipːonoʔa~paʦːipːunuʔa																	
-ROUND_2																												miːmiːltiʦ						
-ROUND_3																atːɨppono																		
-ROUND_4																							pucupuʔq											
-ROUND_5																			munukantɨn					ponokantɨn										
-ROUND_6																																	pootːɨkːwatɨ	
-ROUND_7			munuŋki																															
-ROUND_8													muduʔnidɨ																					
-ROUND_9																																muluŋwal		
-ROUND_10																																muluʔuŋa		
-ROUND_11									teolotik																									
-ROUND_12					topːonitɨ															kovolik														
-ROUND_13		ɡapo						tacore~tacoris~ʦaporis			kahpola																ʦapːŏra~ʦapːŏri							
-ROUND_14																		ʦabulica																
-ROUND_15							huʔura							peeva	lobola																			lobola
-ROUND_16	pumule					puvɨ																												
-ROUND_17								bola							lobːai̯											potːo~poːtːø			olas					robːoʔi
-ROUND_18										pølaŋpɨ																								
-ROUND_19				jawalli																														
-ROUND_20																																		kiiʧu
-ROUND_21																									xikoːl̥ik									
-ROUND_22																														turaːrkiwiʔ				
 SALT_1						jɨwal																	ʦukaʔt											
 SALT_2	iŋily													eŋla																				
 SALT_3				istatl					istatl												istatl	ostet						istatl		aŋor				
@@ -851,42 +810,6 @@ SEE_5		neʔ~eʔne~neʔne									neʔne	niere~zei̯						nunːide		nɨi̯d					n
 SEE_6		naʧi																																
 SEE_7							seihra																											
 SEE_8																																taːwɨɡɨt		
-SEED_1					pehe														pehe					pehe										
-SEED_2			puʔipi										puʔivi													puʔiɨ̯							pɨʔiapi	
-SEED_3	puʧily																																	
-SEED_4						puʃ				poosi				puʃla		pusi	pui̯						puːʦ											
-SEED_5																														puːʈ͡ʂin		punʒil		
-SEED_6																											vuʧit							
-SEED_7		tali																																
-SEED_8												imɨari																						
-SEED_9																				kai̯									kai̯					
-SEED_10																									kai̯ʧuk									
-SEED_11				aʧtli			aci				pahci	haci			baʧia						aju	aʧ									waciran			baʧia
-SEED_12									ʃinaːʧ																			ʃiːnøʧtli						
-SEED_13								suvatzi																										
-SEED_14																		usːoqui̯																
-SEED_15																					ajuhwaʧ													
-SHORT_1		kuʔteli																																
-SHORT_2																																tabuːʔupil		
-SHORT_3																							qapockaʔ											
-SHORT_4																													ʂopolk					
-SHORT_5					paʔitɨːci																													
-SHORT_6				ʦicikicin					ʦikciːn																			ʦiciːkiːci						
-SHORT_7														kapakpamal																				
-SHORT_8							ʦapwatun																											
-SHORT_9																								kɨpihtɨn										
-SHORT_10																				dumarica					dumaːl̥									
-SHORT_11								ʧupica										kavulika																
-SHORT_12			topici																topːoʦːitɨ							topɨ~topːɨ								
-SHORT_13																							ʦaːpuʔ											
-SHORT_14											eʔmeruma~aʔmerima																			kamuhoʔ				
-SHORT_15															pooʧi																			poʧilai̯
-SHORT_16										ʦaava							miʦːi										sapːada~sapːata							
-SHORT_17	muti					mutɨqɨ																	mutipik											
-SHORT_18																					kutu													
-SHORT_19																topːociʦːini																		
-SHORT_20													tovʔepiːʧɨ																					
-SHORT_21																																	kapaʔatːokowatːɨ	
 SKIN_1		wiʧi									wiʔci																				kvici			
 SKIN_2																	pɨhɨ																	
 SKIN_3																															kucit			

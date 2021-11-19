@@ -1,11 +1,4 @@
 	Anuta	Austral (Ra'ivavae)	Austral (Rurutuan)	East Futuna	Emae	Futuna-Aniwa	Hawaiian	Kapingamarangi	Luangiua	Mangareva	Maori	Mele-Fila	Niuean	North Marquesan	Nukuria	Penrhyn	Pukapuka	RakahangaManihiki	Rapanui	Rarotongan	RennellBellona	Samoan	Sikaiana	Tahitian	Tikopia	Tongan	Tuamotuan	Tuvalu	Vaeakau-Taumako	Wallisian
-ALL_1														tiatohu					tahi											
-ALL_2						oʃi			aakoa			eutʃi												atoʔa						
-ALL_3				fuli	pini		apau			kouroa							pau	pauroa												fulifuli
-ALL_4	katoa	ʔatoʔa		kaatoa				ɡodoo			katoa		ɡotoa		katoo	katoa	katoa	kaatoatoa		katoa	kaatoa	ʔaatoa	katoa		katoa	kotoa	katoŋa	katoa	katoa	katoa
-ALL_5			paaʔaaːʔatoʔa																											
-ALL_6																	wui													
-ALL_7																					huɡi									
 ASH_1		ɢehuauahi					lehu	lehu	lehu					ʔehu	rehu	rehu		rehu			ɡehu		lehu	rehu			rehu		lehu	
 ASH_2											puŋarehu																			
 ASH_3						namuʰlaŋa											malamala~lewulewu													
@@ -228,14 +221,6 @@ MOUTH_4			vaʔa			fafa			puʔu	ʔaʔa				fafa	pukua					vaʔa			pukua
 NAME_1													hiɡoa													hiŋoa				hiɡoa
 NAME_2	iŋoa	iʔoa	iʔoa	iɡoa	iŋoa	iɡoa	inoa	iŋoo	iŋoa	iŋoa	iŋoa	iŋoa		ikoa	inoa	iŋoa	iŋoa	iŋoa		iŋoa	iŋoa	iŋoa	male	iʔoa	iɡoa		iŋoa	iɡoa	iŋoa	
 NAME_3																			ʔiiɡoa											
-NEAR_1								hoho											hahine											
-NEAR_2																	pili								piri			pili		
-NEAR_3	nei			nei					ŋei																					
-NEAR_4				ofi																						ofi				
-NEAR_5																					hitaiaki	lata							leuetʰaki	
-NEAR_6			ʔatata		fefetai	tata				tata	tata	etata	tata	tata	taupirimai	tata	vaatata		tupuaki	tata		vaalata~tafatafa	taupili	faatata			tata			tata
-NEAR_7							kokoke																							
-NEAR_8																		taha												
 NECK_1	ua				ua			ua			ua		ua				ua				uʔa	ua	ua		ua		ua	ua	ua	uʔa
 NECK_2				ʔua		penaaua			ʔua						koomanu				ɡao							kia				kia
 NECK_3		ʔaɢapoʔa	ʔaʔii				ʔaaʔiaːʔi			kaki		popo		kaakiaːki		kakii	kakii	kakii		kakii				ʔaʔii			kaakiaːki			
@@ -300,10 +285,6 @@ SEE_1	mamata		naanaaːna	matamata				mada		nana			mata								mata	matamata
 SEE_2		ʔite		kite	kutea		ʔike		ʔike		kite			ʔite	kite		kitea		tikea	kite	kite	ʔite	kite	ʔite	kite		kite		kutea	
 SEE_3				tio		safea						sereia										vaʔai				sio		pula~kilo		sio
 SEE_4																		tititiro												
-SHORT_1				leka																	leka									
-SHORT_2	nounou													nohinohi												nounou				
-SHORT_3						saka					hakahaka					sakasaka						saʔasaʔa								
-SHORT_4		poto	poto			poto	pookole	bodo	poko	poto	poto		puku	poto	potopoto	poto	puupoto~puunekeneke		poto	poto	puku	poto~puʔupuʔu	poto	poto	pukupuku		poto	toetoe	popoto	pukupuku
 SIT_1	nopo		noʔo~araʔi	nofo	nofoiraro	nofo				noʔo		nofo	nofo							noʔo		nofo			nofo	nofo				nofo
 SIT_2		nohotu					noho	noho	ŋoho		noho			noho	noho	noho		noho	noho		noho		noho	paarahi			noho	noho	noho	
 SIT_3																	noonooːno									taŋutu				
@@ -351,13 +332,6 @@ TAIL_5							huelo	huku					hiku	hiku				hiku	hiku					hiʔu			hiku	hiku		hiku
 THAT_1			teeraeːra			tena		tera			teeraeːra~teenaeːna			teʔaa		taua	teia~teelaeːla	teeia~taua						teeraeːra		koena		teelaeːla~teenaeːna	tena	kohee
 THAT_2					ira		la						ia		raa				era	aua	ia						aua			
 THAT_3	ena						na					nera			naa							lela~lena			na					
-THIN_1		ɢaiɢai												kahikahi																
-THIN_2										rikiriki				ʔakiaki	tuarikiriki								tualiki					tuaniki		
-THIN_3														piʔahiʔahi																
-THIN_4			rairai				lahi	rahirahi			rahirahi		aleale		rrahi		lalawi	rahirahi	raʔi	rairai				rairai			rahi			
-THIN_5																		aŋiaŋi		aŋiaŋi					nifi					
-THIN_6	manipi			manifi	manifinifi	mafinfini			maŋihi			manfinifi									maanihi	manifi				manifi			manihi	manifi
-THIN_7																	tutule													
 THIS_1			teie			tenei	keeia	tenei	keŋei	tenei	teenei	kenei		tenei		teeia	teenei	taua		teeia			tenei	teie		koeni	te	teenei	tene	
 THIS_2	ieni			leinei	reni		nei								nei		eenei	nei	nei		ia	lenei			nei			nei	ne	eni
 THOU_1	koe~ke	ʔoe	ʔoe	koe~kee	akue	koe	ʔoe	ɡoe	ʔoe	koe	koe	akoe	koe	ʔoe	koe	koe	koe	koe	kou	koe	koe	ʔoe	koe	ʔoe	koe~kee	koe	koe	ke	koe	koe~kee
@@ -403,12 +377,6 @@ WIND_1	mataŋi	mataʔi	mataʔi	mataɡi	mataŋi	mataɡi	makani	madaŋi	makaŋi	ma
 WIND_2				savili									havili						tokerau			savili								havili
 WIND_3						sau										sau														
 WIND_4										hau	hau								hahau											
-WORM_1																						ʔanufe								ʔulukele
-WORM_2				kelemutu				patupatu					kelemutu									ʔelemutu				kelemutu		kalemuta		
-WORM_3																					suɡati									
-WORM_4																	veli													
-WORM_5		toʔeɢepo	toʔe			nufekere	koʔe			iritoke	noke			toke	tamakerekere	toke		toke		toke		toʔe		toʔe			toke		peipe	
-WORM_6																			koreha											
 YEAR_1		matahiti	mataʔiti				makahiki									matahiti	matawiti	matahiti	matahiti	mataʔiti				matahiti					ŋatae	
 YEAR_2	tau			taʔu	tau	tau		tau	kau	tau	tau	tau	tau	tau			taakaloŋa		taʔu	tau	taʔu	tausaŋa	tau		tau	taʔu	tau	tauhaŋa		taʔu
 YEAR_3										ano																				

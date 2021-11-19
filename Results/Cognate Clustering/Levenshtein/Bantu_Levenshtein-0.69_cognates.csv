@@ -1,4 +1,10 @@
 	Bemba	Bulu	Fang	Ganda	Gogo	Haya	Kalanga	Kamba	Kikuyu	Kimbundu	Koongo	Lingala	Lozi	Luba-Katanga	Luba-Lulua	Makhuwa	Meru	Ndonga	Ndzwani Comorian	Ngazidja Comorian	North Ndebele	Nyanja	Nyankole	Rundi	Shona	Songe	Sukuma	Swahili	Tonga	Tsonga	Tswa	Tswana	Umbundu	Venda	Xhosa	Yaka	Zulu
+ARM_1		wo																																		bɔ́	
+ARM_2	ukùboko			mukono	múwoko	mkono	boko	kẅɔ́kɔ̏	ɣuɔkɔ		koko	lobɔ́kɔ	lizoho		kuboko	mɔ̌nɔ	uko	okwako	mhóno	mhóno		kóno	omukono	ukuboko	ruoko	mbòko	nkono	mkono	kuboko	vókó	wókó	bɔ́χɔ́	ókwo̍kwó		umkʰono		
+ARM_3										lukuaku																											
+ARM_4														diːkàsa																							
+ARM_5			enam																		inɡalo																ínɡàló
+ARM_6																																		ʧanda			
 ASH_1	imìto																	omutoko															éti̍kó				
 ASH_2												mputulú		butò	bútu											butǒ											
 ASH_3							lota						mulola								lotʰa			umuɲota	dòtà							mõlõrã		mulora	umlotʰa		umlota
@@ -193,6 +199,15 @@ FIRE_3					móoto		moto					mɔ́tɔ				mɔ́ːrɔ	muro		móro	ḿdro		óto		
 FIRE_4	ùmulilo			mulilo		omulilo				tubia			mulilo	mudilo				omulilo			umlilo		omuriro	umuriro					mulilo			lɪ̀lɔ̀			umlilo	muíá	umlilo
 FIRE_5		nduan	nduan																																		
 FIRE_6											tija				kápja																						
+FIREWOOD_1				luku																			enku														
+FIREWOOD_2	mukoso							oko	rokô																												
+FIREWOOD_3																																χʊ́ŋ́					
+FIREWOOD_4																																				múíá	
+FIREWOOD_5						enkwi											nɡwi							inkwi			ŋ̤wi										
+FIREWOOD_6							huni				nkuni	kóni				ikʰúni			ŋkúni	uhúni	inkuni	kʰúni			huni			kuni		tʼiɦúɲí				kʰuni	iiŋkʼuni		iziŋkʼúni
+FIREWOOD_7		njaʔa	nʣaʔa																																		
+FIREWOOD_8																										ntete											
+FIREWOOD_9					ŋɡwaáɡu																																
 FISH_1										mbiji	mbisi	mbísi																					ómbi̍sí				
 FISH_2														ʃipa	múʃípá											muʃìpà											
 FISH_3	isabì												tapi								inɬanzi							samaki		nɬamp͡fi	ɬaβi	t͡ɬʰàpì			intlanzi		ínɬànzì
@@ -293,6 +308,15 @@ LEAF_9																									ʃiʒ̤a
 LEAF_10	ìlibuːla										lukaja	lokásá																		tlula	tluka						
 LEAF_11																																	émélá				
 LEAF_12			okjɛɲ																																		
+LEG_1																			munɖú	mndú		endo															
+LEG_2																	urende				umlenze									nenɡe	nenɡe			mulenʒe	umlenze		umlenze
+LEG_3																mwétto																					
+LEG_4										kinama																											
+LEG_5																																t͡ɬʊ̀χà					
+LEG_6	ùkuːlu			kuɡulu	ḿɡulu	okuɡulu					malu							okuɡulu					okuɡuru	ukuɡuru			ɡuɡulu	mɡuu	kuulu				ókúlú				
+LEG_7													lihutu																								
+LEG_8								koo	kòɣòrò			lokolo			múkolo											mukǒlò										kò	
+LEG_9		abo	abɔ				ɡumbo																		ɡumbo												
 LIVER_1		osaɲ																																			
 LIVER_2			esəʔ																																		
 LIVER_3											nsoko																										
@@ -373,6 +397,12 @@ ONE_4																					ɲe														ɲe		ɲe
 ONE_5								mwɛ̋	emwɛ				ŋwi		mwé		jimwi	mwe					mwe	mwe	mwé				mwe	n̍we	n̍we	ŋwɪ̀					
 ONE_6							nʔompela																														
 ONE_7																																		tʰihi			
+ORGANIC FAT OR OIL_1		avon̂	avɔŋ																																		
+ORGANIC FAT OR OIL_2										maji				mani																						bòàdí	
+ORGANIC FAT OR OIL_3	amàfuta			mafuta	máfuta	amajuta	futa	maútȁ	maɣúta		mafuta	mafúta	mafula		mafúta	makʰúra	mafura		maʈá	mafúra	amafutʰa	fúta	amajuta	amavuta	mafútá		maɡuta	mafuta	máfuta	mafúrʱá	mafúrá	fúrá		map͡fura	amafutʰa		ámáfùtʰà
+ORGANIC FAT OR OIL_4																		omakaɡaʤi																			
+ORGANIC FAT OR OIL_5																																	úlélà				
+ORGANIC FAT OR OIL_6																										mwîmù											
 PERSON_1							tʰu									ʔnttʰu						ntʰu										tʰʊ̀					
 PERSON_2	ùmuntu			omuntu	muúntu	omuntu		mōːn̏dȍ	mòndò	mutu	muntu		mutu	muntu	muntu		ndu	omuntu	múnʈu	m̀nɖu	umuntu		omuntu	umuntu	mun̤u	mûntu	mun̤u	mtu	muntu	mun̤u	mun̤u		ómúnù	mutʰu	umntu		umuntu
 PERSON_3		môt	mbot									moto																								tò	
@@ -433,6 +463,17 @@ SKIN_12	nkàndà			nkuta			ɡanda				nkanda						ikanda								ɡanda				íci
 SKIN_13																nrápála																					
 SKIN_14		ékôp	ekop					kekɔndɛ	ɣekɔndɛ́																	ekòba							éko̍vá				
 SKIN_15										kiba				lukoba	díkoba																						ísíkʰùmbà
+SLEEP (STATE)_1																			lála	lála																	
+SLEEP (STATE)_2																ikʰóve									hope									kʰoɸe			
+SLEEP (STATE)_3																							okuɡwejeɡjera														
+SLEEP (STATE)_4												mpɔnɡí																sinɡizi	n̍ɡonzi							tɔ̀nɡì	
+SLEEP (STATE)_5																		oomposi																			
+SLEEP (STATE)_6					ntóoŋɡo																ubutʰonɡo									βur̥oŋɡó					ubútʰoŋɡo		ubútʰoŋɡo
+SLEEP (STATE)_7		ôjo	ojo					tɔɔ	tɔrɔ̌																							rɔ̀kɔ̀					
+SLEEP (STATE)_8																	nruo																				
+SLEEP (STATE)_9	utùlo			otulo		otulo	nkopeʃulo				tulu				túlu							tuló				túlǒ	tulo						étúlo̍				
+SLEEP (STATE)_10										kilu																											
+SLEEP (STATE)_11																								amatiro													
 SMOKE (EXHAUST)_1				mukka																																múè	
 SMOKE (EXHAUST)_2																					tʰunǃa																
 SMOKE (EXHAUST)_3		ôtita	oʦira			omwiika				diʃi	mwisi	mólinɡa		mwîʃi	mwînʃí	mwiíʃi		olwiθi					omwika			mîʃi		moʃi					ówísí				

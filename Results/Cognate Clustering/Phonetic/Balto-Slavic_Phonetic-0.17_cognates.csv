@@ -1,9 +1,4 @@
 	Belarusian	Bulgarian	Burgenland Čakavian	Czech	Kajkavian	Latvian	Lithuanian	Macedonian	Polish	Russian	Slovak	Slovenian	Ukrainian	Čakavian (Cres)	Čakavian (Istria)	Štokavian
-ALL_1												ʋə́s	ʋɛsʲ			
-ALL_2															sva~sa	sâʋ
-ALL_3	uvʲˈesʲ		vas		vjes	viss	vʲˈɪsɐs			vʲesʲ				vɛs		
-ALL_4		fsˈiʧkʲi							fʂˈɨstɛk		fʃˈɛtɔk					
-ALL_5				fʃˈɛxɛn				sidef								
 ASH_1	pˈopʲeɫ	pˈɛpɛɫ	pjěpɛl	pˈopɛl	pˈæpæl			pepel	pˈɔpʲjuw	pʲˈepʲɪɫ	pˈɔpɔɫ	pɛpɛ̀ːu̯	pˈɔpʲiɫ	pɔ̌ːpɛl	pˈɔpɛl	pêpeo
 ASH_2						pæ̌lni	pʲɛlʲɛnɐ̌j			zɐɫˈa			zɔɫˈɑ			
 BARK_1	karˈa	korˈa	ku̯ɔ̌ra	kˈuːra	kˈu̯orɒ			kora	kˈɔɾa	kɐrˈa	kˈʊ̯ɔra	skɔ̀ːra	kɔrˈɑ	kɔ̌ːra	kˈɔra	kôra
@@ -66,6 +61,7 @@ EAR_1						ǎwss	ɐwsʲˈɪs
 EAR_2	vˈuxa				vuʃˈejso											
 EAR_3		uxˈɔ		ˈuxo				uvo	ˈuxɔ	ˈuxə	ˈuxɔ	uxɔ̀ː	wˈuxɔ	ûːxɔ	ûːxɔ	ûxo
 EAR_4			ǔːɦɔ													
+EARTH_1	zʲæmlʲˈæ	zɛmʲˈa	zˈɛmʎa~zˈɛmja	zˈɛmɲɛ	zˈæmʎɒ~zˈæmjɒ	zɛmɛ	ʒʲæ̌mʲeː	zemʲa	ʑˈɛmʲja	zʲɪmlʲˈa	zɛm	zéːmla	zɛmlʲˈɑ	zɛmjˈa	zɛmʎˈa	zěmʎa
 EAT_1		jam														
 EAT_2								jaj								
 EAT_3	jˈesʲʦʲi		jîːst	jiːst	jejs	êːst			jɛɕʨ	jesʲtʲ	jɛsc	jɛ̀ːsti	jˈistɪ	jɛst	jɛs	jêsti
@@ -92,6 +88,8 @@ FIRE_4																ʋâtra
 FISH_1	rˈɨba	rˈibɐ	rˈiba	rˈɪba	rˈibɒ			riba	ɾˈɨba	rˈɨbə	rˈiba	rìːba	rˈɪbɐ	rˈiba	rˈiba	rîba
 FISH_2						zǐws										
 FISH_3							ʒʊvʲˈɪs									
+FLY_1	lʲætˈaʦʲ	lɛtʲˈɤ	lˈɛtit	lˈɛːtat	lˈætit	liduɔ̯̂t	lʲěːktʲɪ	ʎeta~ʎetnuva	lˈataʨ~lˈɛʨɛʨ	lʲɪtˈatʲ	ɫˈɛcɪ̯ɛc	lɛ̀ːtati	lʲitˈɑtɪ	lɛtˈɛt	lɛtˈɛt	lětjeti~ljeː̌tati
+FLY_2							sʲkrʲˈɪsʲtʲɪ									
 FOOT_1									stˈɔpa	stʊpnʲˈa						stǒpalo
 FOOT_2				nˈoɦa							nˈɔɦa		nɔɦˈɑ			
 FOOT_3	naʁˈa		nu̯ɔ̌ɡa		nˈu̯oɡɒ			noɡa				nóːɡa		nɔɡˈa	nɔɡˈa	nǒɡa
@@ -124,6 +122,8 @@ HEAVY_1						smaks
 HEAVY_2							sʊŋkˈʊs									
 HEAVY_3	ʦʲˈæʂkʲi	tˈɛʒɐk	tjêʒak	cˈɛʃkiː	tˈæʒæk			teʒok	ʨˈɛw̃ʂkʲi	tʲɪʐˈoɫɨɪ̯	cˈaʃkiː	téːʒɛk		těːʃki	tˈɛʒak	těːʒak
 HEAVY_4													ʋɐʒkˈɪi̯			
+HORN_1	roʁ̥	rɔk	ru̯ôɡ	rox	ru̯oɡ	raks	rɐ̌ɡɐs	rok	ɾuk	rok	rɔx	rɔ̀ːk		rôːx	ru̯ôx	rôːɡ
+HORN_2													ɾʲiɦ			
 I_1		as				ɛs	ɐʃ									
 I_2			mjênɛ		mˈænæ	mani	mɐnʲɛ	mene						mɛnˈɛ	manˈɛ	
 I_3	jæ		jâː	jaː	jaː			jas	ja	ja	ja	jás	jɑ	ja	jǎː	jâː
@@ -138,6 +138,11 @@ KNOW_4	znaʦʲ		znat		znɒt	zinâːt	ʒʲɪnôːtʲɪ			znatʲ		znàːti	znˈ
 LEAF_1						lapːa	ɫɐ̌pɐs									
 LEAF_2	lʲist	list	lîːst	lɪst	lˈiːʃʧæ			ʎis	lʲiɕʨ	lʲist	ɫist	lìːst	ɫɪst		lîːs	lîːst
 LEAF_3														pɛrˈɔ		
+LEG_1				nˈoɦa							nˈɔɦa		nɔɦˈɑ			
+LEG_2	naʁˈa								nˈɔɡa	nɐɡˈa		nóːɡa				nǒɡa
+LEG_3		krak														
+LIE_1						ɡulêːt	ɡʊlʲêːtʲɪ									
+LIE_2	lʲæʐˈaʦʲ	lɛʒˈɤ	lˈɛʒat	lˈɛʒɛt	lˈæʒɒt			ʎeʒi	lˈɛʐɛʨ	lʲɪʐˈatʲ	ɫˈɛʒac	lɛʒàːti	ɫɛʒˈɑtɪ	lɛʒˈat	lɛʒˈat	lěʒati
 LIVER_1			jâːtra	jˈaːtra	jejtra							jɛ̀ːtra		jěːtra	jjětra	jêtra
 LIVER_2						aknas										
 LIVER_3		ʧˈɛrɛn drɔp						ʦr̩n ʤiɡer	vɔntɾˈɔba							
@@ -155,9 +160,6 @@ MAN_1	muʂʧˈɨna	mɤʃ	mûːʒ	muʃ	mowʃ~mɔʃkiː			maʃ	mɛw̃ʐʈ͡ʂˈɨ
 MAN_2						vīːrs~vīːrjɛtis	vʲîːrɐs									
 MAN_3			ɦlâːp								xɫap					
 MAN_4													ʧɔɫɔʋʲˈik			
-MANY_1								mnoɡu~noɡu						blâːɡɔ		
-MANY_2			ʧˈuda		ʧˈudɒ	dāwʣ	dɐ̌wk								ʧˈuda	
-MANY_3															pˈunɔ	
 MEAT_1	mʲˈæsa	mɛsˈɔ	mjêsɔ	mˈaso	mˈejsɔ		mʲeːsˈɐ	meso	mʲjˈɛw̃sɔ	mʲˈasə	mˈæsɔ	mɛsɔ̀ː	mjˈɑsɔ	mêːsɔ	mjêsɔ	mêːso
 MEAT_2						ɡaʎa										
 MOON_1		ɫunˈa								ɫʊnˈa		lùːna				
@@ -177,8 +179,6 @@ MOUTH_6							bʊrnˈɐ
 NAME_1						vǎːrts	vɐ̌rdɐs									
 NAME_2	imʲˈæ	ˈimɛ		jmˈɛːno	ˈimæ			ime	ˈimʲjɛ	ˈimʲə	mˈɛnɔ	imɛ̀ː	imjˈɑ	ˈimɛ~jˈimɛ	ˈimɛ	îme
 NAME_3			ʔimɛ													
-NEAR_1	blʲˈisʲkʲi	blˈizɐk		blˈiːskiː	blˈizu~blˈiːzu			bʎizu	blʲˈiskʲi	blʲˈiskʲɪɪ̯	bɫˈiːski	blìːʒni	bɫɪzʲkˈɪi̯	blǐːzu	blǐːzu	blîzak
-NEAR_2						tuvu	ɐrʲtʲˈɪ									
 NECK_1	ʂˈɨjæ							ʃija	ʂˈɨja	ʂˈɛjə			ʃˈɪjɐ			
 NECK_2		vrat	vrat											vrâːt	vrâːt	
 NECK_3												u̯ràːt				ʋrâːt
@@ -202,17 +202,15 @@ PATH OR ROAD_5											xˈɔdɲiːk
 PERSON_1	ʧʌɫavʲˈek	ʧovˈɛk	ʧlˈɔviːk	ʧlˈovjɛk	ʧlˈu̯ovæk	ʦǐlvǣːks		ʧojek	ʈ͡ʂwˈɔvʲjɛk	ʨɪɫɐvʲˈek	ʧɫˈɔʋɛk	ʧlóːʋɛk		ʧɔvˈɛk~ʃlɔvˈɛk	ʧɔvˈɛk	ʧǒʋjek
 PERSON_2							ʒmoːɡˈʊs									
 PERSON_3													lʲʊdˈɪnɐ			
+RAIN_1			ɡu̯ɔ̌dina		ɡˈu̯odinɒ											
+RAIN_2						ljêtus	lʲjɛtˈʊs									
+RAIN_3	doʂʧ	dɤʃt		dɛːʃc				doʃ	dɛʂʈ͡ʂ	doʂtʲ	daːʃc	dɛ́ʃ	dɔʃʧ	dɛʃ	dǎːʃ	kîʃa
 RED_1							rɐwdôːnɐs					rdɛ́ʧ				
 RED_2						sârkǎns										
 RED_3	ʧɨrvˈonɨ	ʧɛrvˈɛn	ʧˈr̩ʎjɛn~ʧˈr̩ʎɛn	ʧˈɛrvɛniː	ʧˈɛrjæn			ʦr̩ven	ʈ͡ʂɛɾvˈɔnɨ		ʧˈɛrʋɛniː		ʧɛrwˈɔnɪi̯	ʧɛvjěːni		ʦř̩ʋen
 RED_4										krˈasnɨɪ̯					kr̩vǎːvi	
 ROOT_1						saknɛ	ʃɐknʲˈɪs									
 ROOT_2	kˈoranʲ	kˈɔrɛn	ku̯ɔ̌rɛn	kˈor̝ɛn	kˈu̯orænɒ			koren	kˈɔʐɛɲ	kˈorʲɪnʲ	kˈɔrɛɲ	kɔrɛnìːna	kˈɔɾʲinʲ	kɔ̌ːrɛn	kˈɔrɛn	kôrjeːn
-ROUND_1				kˈulatiː		apǎʎʃ					ɡˈuʎatiː					
-ROUND_2	krˈuʁɫɨ	krˈɤɡɐɫ		ˈokrou̯ɦliː	krˈowpi				ɔkɾˈɔŋɡwɨ	krˈuɡɫɨɪ̯	ˈɔkruːɦɫi	ɔkrɔ̀ːɡɛu̯	krˈuɦɫɪi̯		ɔkrǔːɡal	ǒkruːɡao
-ROUND_3														tɔ̌ːndi	tu̯ǒnt	
-ROUND_4								tɛrkalest								
-ROUND_5							ɐ̌pʲsʲkrʲɪtɐs									
 SALT_1	solʲ	sɔɫ	su̯ôl	suːl	sowj	sǎːls		soʎ	sul	solʲ	sɔʎ	sɔ̀ːu̯	sʲilʲ	sôːl	su̯ôl	sôːl
 SALT_2							drʊskˈɐ									
 SAND_1	pʲæsˈok	pʲˈasɐk		pˈiːsɛk	pˈejsæk			pesok	pʲjˈasɛk	pʲɪsˈok	pˈɪ̯ɛsɔk	pɛ̀ːsɛk	pʲisˈɔk	pɛsˈɛk		pjeːsak
@@ -227,12 +225,6 @@ SAY_6	skazˈaʦʲ	kˈaʒɐ								skɐzˈatʲ			skɐzˈɑtɪ			kǎːzati
 SEE_1	bˈaʧɨʦʲ	vˈidʲɐ	vˈidit	vˈɪɟɛt	vˈidæt~vˈidæti~vˈidit	rɛʣêːt	mɐtʲîːtʲɪ	vidi	vʲˈiʥɛʨ	vʲˈidʲɪtʲ	ʋˈiɟɪ̯ɛc	ʋìːdɛti	bˈɑʧɪtɪ	vêːc~vêːt	vˈidɛt	ʋîdjeti
 SEE_2									zɔbˈaʈ͡ʂɨʨ							
 SEE_3								puʎi								
-SEED_1						sǣːkla	sʲêːkɫɐ									
-SEED_2	sʲˈemʲæ	sˈɛmɛ	sˈimɛ	sˈɛmɛno	sjˈemæ			seme	naɕˈɔnɔ	sʲˈemʲə	sˈɛmɛnɔ	sɛ̀ːmɛ	sʲˈimjɐ	sěːmɛ	sˈɛmɛn	sjême
-SHORT_1		kɤs						kus								
-SHORT_2	karˈotʲkʲi		krâːtaːk	krˈaːtkiː	krˈaːtki				kɾˈutkʲi	kɐrˈotkʲɪɪ̯	krˈaːtki	kràːtɛk	kɔrˈɔtkɪi̯	krǎːtak	krâːtak	krǎːtak
-SHORT_3							trʊ̌mpɐs									
-SHORT_4						îːss										
 SIT_1	sʲæʣʲˈeʦʲ	sɛdʲˈɤ	sˈidit	sˈɛɟɛt	sjˈedit	sêːdêːt	sʲeːdʲêːtʲɪ	sedi	ɕˈɛʥɛʨ	sʲɪdʲˈetʲ	sˈɛɟɪ̯ɛc	sɛdɛ̀ːti	sɪdʲˈitɪ	sɛdˈɛt	sɛdˈɛt	sjěditi
 SKIN_1						âːda	ôːdɐ									
 SKIN_2	skˈura								skˈuɾa				ʃkʲˈirɐ			
@@ -243,6 +235,10 @@ SLEEP_3						ɡulêːt
 SMALL_1						mass	mɐ̌ʒɐs					màːjxɛn				
 SMALL_2	malʲˈenʲkʲi	mˈaɫɐk	mǎːʎuʧak~mǎːjuʧak	mˈaliː	mɒl			mal	mˈawɨ	mˈalʲɪnʲkʲɪɪ̯	mˈaɫiː		mɐɫˈɪi̯~mɐɫˈɛnʲkɪi̯	mâːli	mâːli	mâːliː~mǎlen
 SMALL_3		drˈɛbɛn														
+SMOKE_1	dɨm	dim	dîːm	diːm	diːm~dim	dūːmi	dûːmɐj		dɨm	dɨm	dim	dím	dɪm	dǐːm	dǐːm	dîm
+SMOKE_2		pˈuʃɛk														
+SMOKE_3				kou̯r̝̊												
+SMOKE_4								ʧat								
 SNAKE_1	zmʲæjˈæ	zmijˈa						zmija	ʐmʲˈija	zmʲɪjˈa			zmʲijˈɑ		zmˈija	zmǐja
 SNAKE_2						ʧūːska		smok						smradˈina		
 SNAKE_3			ɦad	ɦat							ɦat					
@@ -265,8 +261,6 @@ TAIL_4						astɛ
 TAIL_5									ˈɔɡɔn							
 THAT_1					own		ɐnˈɐs	on						ɔnɔ̌ːx~nɔ̌ːx	ɔnˈi	ǒnoː
 THAT_2	tˈoje	tovˈa	tâː	to	tej~taː	tas		t	tɔ	to	tɔ	tɔ̀ː	tɔ	ɔtɔ̌ːx~tɔ̌ːx	ta~tâː	tôː
-THIN_1	tˈonkʲi	tˈɤnɐk	tǎːnak	tˈɛŋkiː	tˈejnæk			tanok	ʨˈɛŋkʲi	tˈonkʲɪɪ̯	cˈɛŋkiː	tàːnɛk	tɔnkˈɪi̯	tˈɛnɛk	tˈanak	tânak
-THIN_2						tjêws	pɫôːnɐs									
 THIS_1	ʁˈɛta					ʃis	ʃʲɪs							ɔvɔ̌ːx~vɔ̌ːx		
 THIS_2		tˈɔzi		tˈoto				t	tɔ	ˈɛtə	tɔ~tˈaːtɔ	tɔ̀ː	ʦɛ			
 THIS_3			u̯ôv		owv			ov							ɔvˈi	
@@ -314,11 +308,6 @@ WOMAN_1	ʐanʧˈɨna	ʒɛnˈa	ʒˈɛna	ʒˈɛna	ʒjˈenɒ~ʒjˈenskɒ			ʒena		�
 WOMAN_2						sjɛvjɛtɛ			kɔbʲjˈɛta							
 WOMAN_3			rˈɔba													
 WOMAN_4							môːtʲɛrʲɪs									
-WORM_1												ɡlìːsta			ɡlîːs~ɡlîːsta	
-WORM_2											ʧɛrʋ	ʧə́ru̯	ʧɛrʋjˈɑk			ʦr̩̂ːʋ
-WORM_3	ʧarvʲˈæk	ʧˈɛrvɛj	ʧr̩̂v	ʧɛrf	ʧɛrv	tǎːrps		ʦr̩veʦ		ʨɪrvʲˈak				ʧêːrf	ʧr̩̂f	
-WORM_4							kʲɪrʲmʲeːlʲěː									
-WORM_5									ɾˈɔbak							
 YEAR_1	ʁot	ɡodˈinɐ				ɡats		ɡodina		ɡot						ɡôdina
 YEAR_2				rok					ɾɔk		rɔk		ɾʲik			
 YEAR_3			ljětɔ		ljˈetɔ		mʲæ̌tɐj					lɛ̀ːtɔ		lěːtɔ	lˈɛtɔ	
