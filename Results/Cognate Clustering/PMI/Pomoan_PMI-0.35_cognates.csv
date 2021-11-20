@@ -1,4 +1,7 @@
 	Central Pomo	Eastern Pomo	Kashaya	Northeastern Pomo	Northern Pomo	Southeastern Pomo	Southern Pomo
+ALL_1	jaːwˈal					ʔˈuχqat̪	
+ALL_2					dilˈej		naːpˈijo
+ALL_3		kuːmˈu	tʼiː				
 ASH_1	no	no			nohˈo		hiːno
 ASH_2			ʔinoqoʧ				
 ASH_3						χˈojonoχˌo	
@@ -25,17 +28,15 @@ BURN (SOMETHING)_1		ʃaːtʼˈoː	muhkʰujʔ
 CLAW OR NAIL_1	ʔeːʧʼ	rikʰ	heːʧʼ	hˈeːʧʼa	heʧʼ	ʔaʃˈab	heːʧʼ
 CLOUD_1	kʰbaː	xaːbˈo	qʰabaː		pʰut̪ʼ	xubˈu	kʰˈabʔa
 CLOUD_2				kʰˈaʔbot̪on			
-COLD_1		qaːʦʰˈil		ʃˈoʔt̪ʼon		qsˈilit̪	moʔdotʼ
-COLD_2			ʔihjuːm				
-COLD_3					mˈadoː		
-COLD_4	kʼiw						
+COLD_1		qaːʦʰˈil	ʔihjuːm	ʃˈoʔt̪ʼon		qsˈilit̪	moʔdotʼ
+COLD_2					mˈadoː		
+COLD_3	kʼiw						
 COME_1	waːd		waːd	kˈoːn	waːdˈe		hwˈaːd
 COME_2		qˈoːjuhu					
 COME_3						χolo	
-DIE_1				muʔkʼˈaːwan			
-DIE_2							ʔahʧʰˈoʧi
-DIE_3	kʼla				kʼˈalaː		
-DIE_4		muːdˈal	hʧʰojiːʧʼ			qʼalˈal	
+DIE_1				muʔkʼˈaːwan			ʔahʧʰˈoʧi
+DIE_2	kʼla				kʼˈalaː		
+DIE_3		muːdˈal	hʧʰojiːʧʼ			qʼalˈal	
 DOG_1	hˈaju	hˈaju	haju		hajˈu	hˈaju	
 DOG_2							hˈajːu
 DOG_3				boʔlˈaukaː			
@@ -50,20 +51,17 @@ EARTH (SOIL)_3						χqo
 EAT_1			maʔa	mˈaʔaːn	maʔˈa		
 EAT_2	kaːwˈa	kuːhˈuː				qwal	ʧˈuhːu
 EGG_1	ʧʼoː	kʼˈo	hiʧʼoː	ʧʼˈo	ʧʼoː	qʼo	hˈiʧʼːo
-EYE_1	ʔuj	ʔuj			ʔuj	ʔuj	
-EYE_2			huʔuj				huʔːˈukʰbe
-EYE_3				ui			
+EYE_1	ʔuj	ʔuj	huʔuj		ʔuj	ʔuj	huʔːˈukʰbe
+EYE_2				ui			
 FAR_1		lˈila					
 FAR_2					ʧadil		
 FAT (FROM ANIMALS)_1	pʰuj	pʰuj	ʔihpʰuj	fˈijin	pʰuj	fuj	ʔihpʰuj
 FEATHER_1				tʰˈa	tʰe		
-FEATHER_2	ʔi					ʔi	
-FEATHER_3		jiːʔˈi	hiʔi				hiʔːi
+FEATHER_2	ʔi	jiːʔˈi	hiʔi			ʔi	hiʔːi
 FIRE_1			ʔoho				ʔˈohːo
 FIRE_2	ho	xo		ˈoho	ho	χo	
 FISH_1	ʃa	ʃa			ʃa	xa	
-FISH_2			ʔahʃa				ʔˈahʃa
-FISH_3				ʃˈakaː			
+FISH_2			ʔahʃa	ʃˈakaː			ʔˈahʃa
 FLY (MOVE THROUGH AIR)_1			ʧa			ʦal	
 FLY (MOVE THROUGH AIR)_2							haʧːa
 FLY (MOVE THROUGH AIR)_3	pʰde	pʰuːdˈiːl			pʰidˈe		
@@ -76,8 +74,7 @@ GIVE_1	daːkˈa	diːqˈaː	dihqa		dikˈa	ʔaqa	dˈihka
 GIVE_2				hˈoːn			
 GOOD_1	kʼdi	qʼoːdˈij	qʼoʔdi	kʼˈudi	kʼidˈi		kʼˈoʔdi
 GOOD_2						ʦʼimˈa	
-GREEN_1		ʦʼaːbˈaʦʼaːbˌakʰ				ʦʼijaʦʼija	
-GREEN_2	ʦʼaːkʰˈil		ʦʼaqʰaːla	ʧamˈoron	ʦʼakʰˈatʼ		ʦʼˈahkʰil
+GREEN_1	ʦʼaːkʰˈil	ʦʼaːbˈaʦʼaːbˌakʰ	ʦʼaqʰaːla	ʧamˈoron	ʦʼakʰˈatʼ	ʦʼijaʦʼija	ʦʼˈahkʰil
 HAIR_1	ʔeː		heʔe	hˈele	ʔe	ʔej	hˈeʔːe
 HAIR_2		muːsˈu					
 HAND_1			ʧohʃo	t̪ˈohʃo			
@@ -98,9 +95,8 @@ I_3						wit̪
 I_4	ʔaː	haː	ʔa	ʔaː	ʔaː	ʔa	
 I_5							ʔˈaːʔa
 KILL_1						mudˈoqa	mihjˈana
-KILL_2	haːkʼˈuːm		pʰakʼuːm		ʧaban		
-KILL_3				kʼˈamanan			
-KILL_4		ʃaːkʼ					
+KILL_2	haːkʼˈuːm		pʰakʼuːm	kʼˈamanan	ʧaban		
+KILL_3		ʃaːkʼ					
 KNEE_1	snoː	qʼuːt̪ˈul	moqʰoː		jaːsˈis	qʼadˈa	sinːˈot̪ːa
 KNEE_2				ʃˈiʔkʼˈono			
 KNOW (SOMETHING)_1		meːʔˈel	ʔduːʧiʧʼ				hiʔduʧːˈed
@@ -114,9 +110,9 @@ LONG_2				kˈolon
 LOUSE_1			ʔahʧi				ʔˈahʧi
 LOUSE_2	ʧi	kiː		t̪ˈikaː	ʧi	ʦin	
 MAN_1	bˈaja		hiʔbaja				ʔˈaʧːaj
-MAN_2				bˈiki		ʦˈawi	
-MAN_3		kaːkʰ					
-MAN_4					baː		
+MAN_2		kaːkʰ		bˈiki		ʦˈawi	
+MAN_3					baː		
+MANY_1	t̪ʰˈedu		batʰeː	bˈahtʰe	batʰˈe	bitˈeqa	bˈahtʰe
 MEAT_1	pʼʃe	biːʃˈe	bihʃe	bˈehʃe	biʃˈe	bxe	behʃe
 MOON_1		duːwˈelˌaː		dˈuwedakaː		ʔeweda	
 MOON_2	lˈaːʃa		qʼalaːʃa				ʔalːˈaːʃa
@@ -148,8 +144,7 @@ PERSON_2			ʔaʧaːʧ	t̪ˈaːt̪kaː
 PERSON_3							ʔahʧˈahʧej
 PERSON_4						ʔˈumt̪iwi	
 RAIN (PRECIPITATION)_1	ʧʰe					sʦʼen	
-RAIN (PRECIPITATION)_2		kʰiːkˈeː	ʔihʧʰe	ʃˈiʔt̪ʼoːn			ʧˈehʧʰe
-RAIN (PRECIPITATION)_3					biʃˈemaː		
+RAIN (PRECIPITATION)_2		kʰiːkˈeː	ʔihʧʰe	ʃˈiʔt̪ʼoːn	biʃˈemaː		ʧˈehʧʰe
 RED_1	tʼas		kʼiːs		t̪ʼaʦʼ		hˈatʼːa
 RED_2		qʼedˈaqʼedˌakʰ		ʧʼabˈaran		t̪ʼˈant̪ʼan	
 ROAD_1		dˈadaj				dˈawa	
@@ -157,6 +152,8 @@ ROAD_2			hiʔda				hˈiʔda
 ROAD_3	da			da	da		
 ROOT_1	saːmˈa	ʦʰiʦʰ			jem	sumˈa	sˈuːlen
 ROOT_2			ʔihqʰot				
+ROUND_1	ʃbokʼ		poloːlo		ʧʼadˈol		lˈupːu
+ROUND_2				mukˈaːkan		bˈunbun	
 SALT_1		kʰeːʔˈeː	taʔqʼo	ʧʰˈeʔeː	ʃeʔˈeː		taʔkʼo
 SAND_1	mʦatʼ	tʰaːʔˈaː	mitaʧ		miʧˈatʼ	mat̪ˈak	mˈiːtaj
 SAND_2				hˈino			
@@ -166,9 +163,10 @@ SAY_3				wˈeːn	heʔ
 SAY_4						muwˈat̪a	
 SEE_1	pʰwi					mqo	
 SEE_2		kaːr	ʧad	t̪aːn	ʧadi		ʧˈaːd
+SEED_1	sˈemija		semíːja			semˈeja	simˈiːja
+SEED_2		qˈaːsoj			soː		
 SIT_1		kˈaː	ʧa				
-SIT_2	ʔaːʧʰˈa				ʧimˈa	sʦʼa	ʧˈiːjo
-SIT_3				t̪ˈuman			
+SIT_2	ʔaːʧʰˈa			t̪ˈuman	ʧimˈa	sʦʼa	ʧˈiːjo
 SKIN_1	ʦʼda	ʦʼiːdˈa	ʦʼiʔda	ʃˈuːru	sijˈan	qʼˈot̪al	ʦʼˈiʔda
 SLEEP_1	sma	siːmˈaːmˈer	simaːq	ʃimˈaːkan	simˈa		sˈiːma
 SLEEP_2						qnaq	
@@ -177,8 +175,7 @@ SMALL_2		buːhˈuʃ		t̪ʼˈuːjaʔan	biʧʼˈuʔ	kʼˈuʧʼin	kiʦʼːˈidu
 SMOKE (EXHAUST)_1	hosˈaha	saːxˈa	hosa	ʃˈaha	sahˈa	ʦχa	ʔohːˈosa
 SNAKE_1		qaːlˈutʼuːdˌukʰ					
 SNAKE_2					misakʰala		
-STAND_1	ʧaːtˈom	kˈokʰ	t̪ʼeːt̪	t̪ˈoːn	t̪omˈa		ʧˈoht̪on
-STAND_2						qt̪ˈomat̪	
+STAND_1	ʧaːtˈom	kˈokʰ	t̪ʼeːt̪	t̪ˈoːn	t̪omˈa	qt̪ˈomat̪	ʧˈoht̪on
 STAR_1		ʔˈujaxo		kˈoʔtaikaː	tʰotʰˈol		
 STAR_2	kʰʔˈaːmul		qʰaːmoʦʼ				kʰˈamhun
 STAR_3						ʦʼeχajqʼujqʼuj	
@@ -200,8 +197,7 @@ THIS_2			maʔu			mˈiji	mˈaːmu
 THIS_3		me					
 THOU_1	ma	ma	ma	ˈama	ma	ma	ʔˈaːma
 TONGUE_1		bal				bal	
-TONGUE_2	hˈawba		haːba	hˈuʔbaː	hˈabaː		
-TONGUE_3							hˈibʔa
+TONGUE_2	hˈawba		haːba	hˈuʔbaː	hˈabaː		hˈibʔa
 TOOTH_1	ʔo	jaːʔˈo	hoʔo	ʔo	ʔo	ʔo	hˈoʔːo
 TREE_1	kʰle	xaːlˈeː	qʰale	kʰˈali	kʰalˈe	χalˈe	kʰˈaːle
 TWO_1	kʰoː	xoʧʰ	qʰoː		kʰoː	χos	ʔˈakʰːo
@@ -211,15 +207,12 @@ WALK_2						wal
 WALK_3			w				
 WALK_4					hu		
 WARM_1				moʔʦʼˈolon		mit̪ʼe	
-WARM_2	ho	xo			ho		
-WARM_3			ʔoho				ʔˈohːo
+WARM_2	ho	xo	ʔoho		ho		ʔˈohːo
 WATER_1	kʰa	xa		kʰa	kʰa	χa	
 WATER_2			ʔahqʰa				ʔˈahkʰa
 WE_1		waː				wij	
-WE_2	ja		ja	ˈajaː	ja		
-WE_3							ʔˈaːja
-WHAT_1		ʧʰi	baqʼoː		kʼo		bˈaːkʼo
-WHAT_2	kʼˈowa			pʰaːʃka		ʔˈawi	
+WE_2	ja		ja	ˈajaː	ja		ʔˈaːja
+WHAT_1	kʼˈowa	ʧʰi	baqʼoː	pʰaːʃka	kʼo	ʔˈawi	bˈaːkʼo
 WHITE_1	kaːlˈe		qahle		kalˈe		kˈahle
 WHITE_2		pʰiːt̪ʼˈaw		tʰˈajan		t̪ʼˈot̪ʼo	
 WHO_1	bˈaːwa			t̪ʰˈaʔa			ʧˈaʔːa
@@ -229,6 +222,7 @@ WIND_2			ʔihja	hˈija			ʔihja
 WOMAN_1						bitˈed	bˈaʔaj
 WOMAN_2	mˈaːt̪a		ʔimaːt̪a		mˈaːt̪a		
 WOMAN_3		da		dˈaki			
+WORM_1		kʰˈol	bila				
 YEAR_1			mal		jemal		
 YEAR_2						mutin	
 YEAR_3		xuːʦʼˈaj					

@@ -1,6 +1,13 @@
 	Beijing	Changsha	Chengdu	Fuzhou	Guangzhou	Guilin	Ha'erbin	Jinan	Jixi	Loudi	Meixian	Nanchang	Nanjing	Rongcheng	Suzhou	Taiyuan	Wenzhou	Xi'an	Xiamen
+ALL_1	ʨʰɥɛn³⁵pu⁵¹	ʨʰɥẽ¹³pu¹¹	ʨʰɥan²¹pu²¹³		ʦʰyn²¹pou²²	ʨɥã²²pu²¹	ʨʰɥan²⁴pu⁵³	ʨʰɥæ̃⁵³pu³¹	ʨʰɥẽ⁴⁴pʰu³¹	ʣwĩ¹³bu¹¹	ʨʰjen¹¹pʰu⁵³	ʨʰɥon²⁴pu⁰	ʨʰɥen¹³pu⁴⁴	ʦʰjɐn³⁵pu³³⁴	zjɪ¹³bu²³¹	ʨʰɥe²¹pu⁴⁵		ʦʰwæ̃²⁴pu⁴⁴	ʦwan²⁴pɔ²²
+ALL_2																	jy³⁴¹bu²⁴		
+ALL_3				ko²¹²louŋ⁵³ŋa²⁴²															
 ASH_1	xwei⁵⁵	fei³³	xwei⁴⁵		fwi⁵³	fei⁴²	xwei⁴⁴	xwei²¹³	fa⁵⁵	xwe⁴⁴	foi³³	fɨi⁴²	xwei³¹	xwei⁵²		xwei²¹	fai⁴⁴	xwei²¹	
 ASH_2				hwoi⁵⁵hwoi⁵⁵~hwoi⁵⁵											hwe̞⁴⁴				he⁵⁵
+BACK_1	pei⁵¹	pei⁵⁵	pei²¹³	pʰjaŋ⁵⁵	pwi³³	pei²⁵	pei⁵³	pei³¹	pa³⁵	pe³⁵	poi⁵³		pei⁴⁴	pei⁵²	pe̞⁴¹²	pei⁴⁵		pei²⁴	
+BACK_2												pei⁴⁵ʨjaʔ⁰							ka⁵⁵ʦjaʔ³²
+BACK_3																	pai⁴²ʥi²⁴saŋ⁴⁴		
+BACK_4																		ʨi²¹pei²⁴	
 BARK_1	ʂu⁵¹pʰjə³⁵	ɕy¹¹pi¹³	su²¹³pʰi²¹	ʦʰjeu²¹²pʰwoi⁵³	sy²²pʰei²¹	ɕy²¹pi²²	ʂu⁵³pʰi²⁴	ʂu³¹pʰi⁵³	ɕy³¹pʰɹ̩⁴⁴	ʑy¹¹bi¹³	su⁵³pʰi¹¹	su²¹pʰi²⁴	su⁴⁴pʰi¹³	ʃy³³⁴pʰi³⁵	zɻ̩ʷ²³¹bi¹³	su⁴⁵pʰi²¹	zɹ̩²²bei³⁴¹	fu⁴⁴pʰi²⁴	ʦʰju²²pʰe²⁴
 BELLY_1				puʔ²⁴lo³²															pak³²tɔ⁵³
 BELLY_2					tʰou²³						tu³¹						døy²⁴		
@@ -44,9 +51,17 @@ COLD_4																			kwã²⁴
 COME_1	lɛ³⁵	lai¹³	lai²¹	li³²	lɔi²¹	lai²²	lai²⁴	lɛ⁵³		le¹³	loi¹¹	lai⁴⁵	nɛ¹³	lai³⁵	le̞¹³	lai²¹		lɛ²⁴	lai²⁴
 COME_2									na⁴⁴										
 COME_3																	ʦau²⁴²lo⁰		
+COUNT_1	ʂu²¹³	səu⁴¹	su⁵³	sou²¹²	sou³⁵	su²⁵	ʂu²¹³	ʂu⁴⁵	su²¹³	sɤu⁴²	sɹ̩⁵³	su²¹³	su¹¹	ʃu³³⁴	səu⁵²	su⁵³	ti²⁴	sou⁵³	sɔ²¹
 DIE_1	sɹ̩²¹³	sɹ̩⁴¹	sɹ̩⁵³	si³²	sei³⁵	sɹ̩²³	sɹ̩²¹³	sɹ̩⁴⁵	sɹ̩²¹³	sɹ̩⁴²	sɹ̩³¹	sɹ̩²¹³	sɹ̩¹¹	sɹ̩²¹⁴	si⁵²	sɹ̩⁵³	sɹ̩²⁴²	sɹ̩⁵³	si⁵³
 DIE_2		tan¹³sɹ̩⁵⁵lan¹³																	
 DIE_3		kwa³³																	
+DIRTY_1									voʔ³²lo³¹										
+DIRTY_2										pʰa³⁵la¹¹									
+DIRTY_3	ʦɑŋ⁵⁵	ʦan³³	ʦaŋ⁴⁵				ʦaŋ⁴⁴	ʦɑŋ²¹⁴				ʦɔŋ⁴²	ʦɑ̃³¹	ʦaŋ⁵²		ʦɒ̃²¹		ʦɑŋ²¹	
+DIRTY_4		la²⁴tʰa²⁴	la²¹tʰa²¹~nəu²¹səu⁵⁵	la⁵⁵ʦʰa⁵⁵		la⁵⁵tʰa²¹	mai²⁴tʰai⁰					ŋa⁴²ʦa⁰							lau²⁴sjɔŋ²⁴
+DIRTY_5				ouʔ⁵ʦʰwoʔ²⁴											oʔ⁴ʦʰoʔ⁴				
+DIRTY_6					u⁵⁵ʦou⁵³												ə⁴⁴ʦə⁴⁴		
+DIRTY_7											me⁵³								
 DOG_1	kou²¹⁴	kəu⁴¹	kəu⁵³	kʰɛiŋ³²	kɐu³⁵	kai²³	kou²¹³	kou⁴⁵	ki²¹³	tjɤ⁴²	keu³¹	kjɛu²¹³	kəɯ¹¹	kou²¹³	kʏ⁵²	kəu⁵³	kau²⁴²	kou⁵³	kau⁵³
 DOG_2				kʰɛiŋ³²ŋjaŋ³²															
 DRINK_1					jɐm³⁵														lim⁵⁵
@@ -74,6 +89,10 @@ EYE_2															ŋe̞²³¹u⁴⁴ʦɻ̩ʷ⁴⁴		ŋa²⁴leŋ³⁴¹ʦɹ̩�
 EYE_3	jɛn²¹³ʨiŋ⁵⁵	ŋan⁴¹ʨin⁰	jɛn⁵³ʨin⁵⁵		ŋan²³ʦɛŋ⁵⁵	ŋã²³ʦei⁴²	jan²¹³ʨiŋ⁰	jæ̃⁴⁵ʨiŋ⁰	ŋo²¹³ʨjɑ̃⁵⁵	ŋã⁴²ʨy⁴⁴	ŋjan³¹ʦu³³	ŋan²¹³ʨjaŋ⁰	jen¹¹ʨin⁰	jɐn²¹⁴ʦiŋ⁵²		je⁵³ʨiŋ⁰			
 EYE_4							jan²¹³									je⁵³			
 EYE_5																		njæ̃⁵³wo⁰	
+FALL_1			lo²¹															lwo²¹	
+FALL_2					lɔk²						lok⁵					laʔ²			lak³²
+FALL_3	tjɑu⁵¹	tjau¹¹	tjau²¹³	tɔuŋ²⁴²		tjɑu²⁵	tjau⁵³	tjɔ³¹		swa¹³			tjɔ⁴⁴	tjau³³⁴		tjau⁴⁵	daŋ²²	tjɑu⁴⁴	
+FALL_4									noʔ³²~tjaʔ³²			tjɛt⁵			dəʔ²³	tjəʔ²			
 FAR_1				hwoŋ²⁴²											ɦjø²³¹				
 FAR_2	ɥɛn²¹³	ɥẽ⁴¹	ɥan⁵³		yn²³	ɥã²³	ɥan²¹³	ɥæ̃⁴⁵	ɥẽ²¹³	wĩ⁴²	jan³¹	ɥon²¹³	ɥen¹¹	ɥɐn²¹⁴		ɥe⁵³	ju²⁴	ɥæ̃⁵³	wan⁵³
 FAT (ORGANIC SUBSTANCE)_1	ʈ͡ʂɻ̩²¹³fɑŋ³⁵	ʦɹ̩³³fan¹³					ʈ͡ʂɻ̩²¹³faŋ²⁴	ʈ͡ʂɻ̩²¹⁴fɑŋ⁴⁵	ʦɹ̩²¹³xõ⁴⁴			ʦɹ̩²¹³faŋ²¹	ʈ͡ʂɻ̩¹¹fɑ̃¹³	ʈ͡ʂɻ̩²¹⁴faŋ³⁵		ʦɹ̩⁵³fɒ̃⁰		ʦɹ̩²¹fɑŋ²⁴	
@@ -93,16 +112,25 @@ FISH_3									ɲy⁴⁴
 FISH_4																			hi²⁴
 FISH_5						ŋ̍t²³sɹ̩⁰te³³													
 FISH_6											nn̩¹¹								
+FIVE_1									vu²¹³										
+FIVE_2																			ɡɔ²²
+FIVE_3				ŋou²⁴²	ŋ̍²³	ŋ̍²³					n̩³¹	ŋ̍²¹³			ŋ̍²³¹		ŋ̍²⁴		
+FIVE_4	u²¹³	u⁴¹	u⁵³				u²¹³	u⁴⁵		u⁴²			u¹¹	u²¹⁴		u⁵³		u⁵³	
 FLESH_1						jou⁵⁵								jou³³⁴					
 FLESH_2	ʐou⁵¹	ʐəu²⁴	zəu²¹³				ʐou⁵³	ʐou³¹		nio³⁵			ʐəɯ⁴⁴			zəu⁴⁵	ɲjeu²¹	ʐou⁴⁴	
 FLESH_3				nyʔ⁵					ɲɥoʔ³²		ŋjuk¹	ɲjuʔ⁵			ɲjoʔ²³				
 FLESH_4																			baʔ³²
 FLESH_5					ik²														
+FLOWER_1				hwa⁵⁵											ho⁴⁴		ho⁴⁴		hwe⁵⁵ja⁵³~hwe⁵⁵
+FLOWER_2		fa³³									fa³³ve⁰								
+FLOWER_3	xwa⁵⁵		xwa⁴⁵		fa⁵⁵	fa⁴²	xwa⁴⁴	xwa²¹⁴		xɔ⁴⁴		fa⁴⁵	xwɑ³¹	xwa⁵²		xwa²¹		xwɑ²¹	
+FLOWER_4									xo⁵⁵nn̩⁰										
 FLY (MOVE THROUGH AIR)_1	fei⁵⁵	fei³³	fei⁴⁵	pwoi⁵⁵	fei⁵³	fei⁴²	fei⁴⁴	fei²¹⁴	fi⁵⁵	xwi⁴⁴	fi³³	fɨi⁴²	fei³¹	fe⁵²	fi⁴⁴	fei²¹	fei⁴⁴	fei²¹	pe⁵⁵
 FOOT_1					kœk³				ʨɥoʔ³²		kjok¹	ʨjoʔ⁵	ʨjoʔ⁵		ʨjɑʔ⁴				
 FOOT_2			ʨɥo²¹pə⁵³			ɕy⁵⁵te²²	ʨjau²¹³ja⁴⁴ʦɹ̩⁰												
 FOOT_3				kʰa⁵⁵															kʰa⁵⁵
 FOOT_4	ʨjɑu²¹⁴	ʨjo²⁴					ʨjau²¹³	ʨɥɤ²¹⁴		djo¹³				cɥɔ²¹⁴		ʨjau⁵³	ʨja⁴¹	ʨɥo²¹	
+FOUR_1	sɹ̩⁵¹	sɹ̩⁵⁵	sɹ̩²¹³	sɛi²¹²	sei³³	sɹ̩²⁵	sɹ̩⁵³	sɹ̩³¹	sɹ̩³⁵	sɹ̩³⁵	si⁵³	sɹ̩⁴⁵	sɹ̩⁴⁴	sɹ̩³³⁴	sɹ̩⁴¹²	sɹ̩⁴⁵	sɹ̩⁵¹	sɹ̩⁴⁴	si²¹
 FULL_1	man²¹⁴	mõ⁴¹	man⁵³	mwaŋ³²	mun²³	mã²³	man²¹³	mæ̃⁴⁵	mɑ̃²¹³	mẽ⁴²	man³³	mon²¹³	mɑ̃¹¹	mɐn²¹⁴	mø²³¹	mæ̃⁵³	mø²⁴²	mæ̃⁵³	mwã⁵³
 FULL_2			pau²¹³																
 FULL_3				ko²¹²louŋ⁵³															
@@ -114,6 +142,7 @@ GIVE_5										nɔ⁴⁴sɹ̩³⁵
 GOOD_1							tai⁵³ʨiŋ⁵³~pu⁵³lai⁵³							pu²¹⁴ʦʰau³³⁴					
 GOOD_2				ho³²	hou³⁵						hau³¹	hau²¹³			hæ⁵²		hə²⁴		ho⁵³
 GOOD_3	xɑu²¹⁴	xau⁴¹	xau⁵³			xɑu²³	xau²¹³	xɔ⁴⁵	xɤ²¹³	xɤ³⁵			xɔ¹¹			xau⁵³		xɑu⁵³	
+GRASS_1	ʦʰau²¹⁴	ʦʰau⁴¹	ʦʰau⁵³	ʦʰau³²	ʦʰou³⁵	ʦʰɑu²³	ʦʰau²¹³	ʦʰɔ⁴⁵	ʦʰɤ²¹³	ʦʰɤ⁴²	ʦʰau³¹	ʦʰau²¹³	ʦʰɔ¹¹	ʦʰau²¹⁴	ʦʰæ⁵²	ʦʰau⁵³	ʦʰə²⁴²	ʦʰɑu⁵³	ʦʰau⁵³
 GREEN_1	ly⁵¹	ləu²⁴	nu²¹			ljou⁵⁵	ly⁵³	ly³¹		lɤu³⁵				ly²¹⁴		ly⁴⁵	lo²¹	ljou²¹	
 GREEN_2				lwoʔ⁵	lok²				nɤʔ²³		ljuk⁵	ljuʔ⁵	luʔ⁵		loʔ²³				lik⁵
 HAIR (HEAD)_1						tai²²mau²²			tʰi⁴⁴mɤ⁴⁴		tʰeu¹¹na¹¹mau³³								tʰau²⁴mŋ̍²⁴
@@ -132,6 +161,10 @@ HEART_3								ɕjẽ²¹³ʦɑŋ²¹		ɣwẽ¹³ɕin⁴⁴								ɕjẽ²¹ʦ�
 HEART_4								ɕjẽ²¹⁴	ɕjɑ̃⁵⁵~ɕjɑ̃⁵⁵ʦʰɔ³¹									ɕjẽ²¹	
 HEAVY_1	ʈ͡ʂuŋ⁵¹	ʦən¹¹	ʦoŋ²¹³	tɔyŋ²⁴²	ʦoŋ²²	ʦwɤŋ²³	ʦuŋ⁵³	ʈ͡ʂuŋ³¹		dɤn¹¹	ʦʰuŋ⁵³	ʦʰuŋ²¹	ʦoŋ⁴⁴	ʈ͡ʂoŋ³³⁴	zoŋ²³¹	ʦuŋ⁴⁵		p͡fəŋ⁴⁴	taŋ²²
 HEAVY_2									ʦʰɑ̃²¹³								ʥɥɔ²⁴		
+HOLD OR TAKE_1												laʔ⁵							tʰeʔ⁵
+HOLD OR TAKE_2	na³⁵	la¹³		njeŋ⁵⁵	lɔ³⁵		na²⁴	na⁵³		nɔ⁴⁴	na³³	la⁴⁵	lɑ¹³	na⁵²	no¹³	na²¹		nɑ²⁴	
+HOLD OR TAKE_3			tai²¹	to⁵³					tɔ⁵⁵								to²⁴²		
+HOLD OR TAKE_4						kei²²													
 HORN (ANATOMY)_1	ʨjɑu²¹⁴	ʨjo²⁴				kɑu⁵⁵	ʨjau²¹³	ʨɥɤ²¹⁴		ko¹³				cɥɔ²¹⁴			ko⁴¹	ʨɥo²¹	
 HORN (ANATOMY)_2			ʨɥo²¹ʨɥo²¹																
 HORN (ANATOMY)_3					kɔk³				koʔ³²		kok¹ve⁰	kɔʔ⁵	koʔ⁵		koʔ⁴	ʨɥəʔ²			kak³²
@@ -164,6 +197,8 @@ KNOW (SOMETHING)_3		ɕjau⁴¹tə⁰	ɕjau⁵³te²¹			ɕjɑu²³tja⁵⁵			ɕ
 KNOW (SOMETHING)_4																			ʦai⁵⁵jã⁵³
 KNOW (SOMETHING)_5			toŋ⁵³no²¹																
 KNOW (SOMETHING)_6				ɛ²⁴²hjeu³²															
+LAUGH_1	ɕjɑu⁵¹	ɕjau⁵⁵	ɕjau²¹³	ʦʰjeu²¹²	sju³³	ɕjɑu²⁵	ɕjau⁵³	ɕjɔ³¹	ɕje³⁵	sjɤ³⁵	sjau⁵³	ɕjɛu⁴⁵	ɕjɔ⁴⁴	sjau³³⁴	sjæ⁴¹²	ɕjau⁴⁵	ɕjɛ⁵¹	ɕjɑu⁴⁴	ʦʰjo²¹
+LAUGH_2							lɤ⁵³												
 LEAF_1				loʔ⁵~loʔ⁵loʔ⁵															
 LEAF_2					ip²														
 LEAF_3															ɦjəʔ²³ʦɹ̩⁵²				
@@ -199,6 +234,7 @@ MAN_5				touŋ²¹²mwo³²nøyŋ⁵³							nam¹¹me³³ŋin¹¹
 MAN_6																			ta²²pɔ⁵⁵laŋ²⁴
 MAN_7						lã²²liŋ²²													
 MAN_8																	nø³⁴¹ʦɹ̩²⁴²kʰa⁴¹		
+MANY_1	two⁵⁵	to³³	to⁴⁵	sa²⁴²	tɔ⁵³	two⁴²	two⁴⁴	twɤ²¹⁴	tɵ⁵⁵	to⁴⁴	to³³	to⁴²	to³¹	twɔ⁵²	təu⁴⁴	two²¹	tɤu⁴⁴	two²¹	ʦwe²²
 MOON_1					yt²kwɔŋ⁵⁵														
 MOON_2																	ɲy²¹kwɔ⁴⁴		
 MOON_3										we³⁵kɔŋ⁴⁴						ɥəʔmi⁰			
@@ -211,6 +247,8 @@ MOUTH_1	ʦwei²¹³	ʦei⁴¹	ʦwei⁵³pa⁵⁵	ʦʰwoi²¹²	ʦøy³⁵	ʦwei�
 MOUTH_2			ja²¹pa⁵⁵																
 NAME_1	miŋ³⁵ʦɹ̩⁰	min¹³ʦɹ̩⁰	min²¹ʦɹ̩²¹³	mjaŋ⁵³ʒɛi²⁴²	mɛŋ²¹ʦi²²	mei²²ʦɹ̩²¹	miŋ²⁴ʦɹ̩⁰	miŋ⁵³ʦɹ̩⁰	mjɑ̃⁴⁴ʦʰɹ̩³¹	mjɔ̃¹³ʣɹ̩¹¹	mjaŋ¹¹sɹ̩⁵³	mjaŋ⁴⁵ʦɹ̩⁰	min¹³sɹ̩⁰	miŋ⁵²ʦɹ̩⁰	min¹³zɹ̩²³¹	miŋ²¹ʦɹ̩⁴⁵	meŋ³⁴¹zɹ̩²²	miŋ²⁴ʦɹ̩⁰	
 NAME_2																			mjã²⁴li²²
+NEAR_1								ʨjẽ³¹	ʨʰjɑ̃²¹³										
+NEAR_2	ʨin⁵¹	ʨin⁴¹	ʨin²¹³	køyŋ²⁴²~køyŋ²⁴²nau⁵⁵	kɐn²²	ʨiŋ²⁵	ʨin⁵³			din¹¹	kʰjun⁵³	ʨʰin²¹	ʨin⁴⁴	cin³³⁴	ʥin²³¹	ʨiŋ⁴⁵	ʣjaŋ²⁴	ʨin⁴⁴	kun²²
 NECK_1	po³⁵ʦɹ̩⁰	po¹³ʦɹ̩⁰					pɤ²⁴ʦɹ̩⁰	pɤ⁵³ʦɹ̩⁰				pɔʔ⁵ʦɹ̩⁰	poʔ⁵ʦɹ̩⁰	pɔ³⁵kəŋ²¹⁴ʦɹ̩⁰		paʔ⁵⁴ʦəʔ⁰		po²⁴ʦɹ̩⁰	
 NECK_2									kʰi³⁵ʨjɑ̃²¹³						dʏ¹³ʨin⁵²		dɤu³⁴¹ʨjaŋ²⁴²		
 NECK_3				tau²⁴²ɔuʔ²⁴															
@@ -239,6 +277,7 @@ NOT_2	pu⁵¹	pu²⁴	pu²¹			pu²²	pu⁵³	pu²¹⁴		pʰu¹³				pu²¹⁴		
 NOT_3				mo⁵³															
 NOT_4				iŋ⁵⁵~ŋ̍²⁴²															
 NOT_5											mm̩¹¹								
+OLD (AGED)_1	lɑu²¹⁴	lau⁴¹	lau⁵³	lau²⁴²~lo³²	lou²³	lɑu²³	lau²¹³	lɔ⁴⁵	nɤ²¹³	lɤ⁴²	lau³¹	lau²¹³	lɔ¹¹	lau²¹⁴	læ²³¹	lau⁵³	lə²⁴	lɑu⁵³	lau²²
 ONE_1				soʔ⁵															ʦit⁵
 ONE_2				ɛiʔ²⁴	jɐt⁵				jeʔ³²		it¹	it⁵	iʔ⁵		jəʔ⁴	jəʔ²			
 ONE_3	i⁵⁵	i²⁴	i²¹			i⁵⁵	i⁴⁴	i²¹⁴		i¹³				i²¹⁴			jai⁴¹	i²¹	
@@ -258,6 +297,14 @@ RED_4									fɑ̃⁴⁴
 ROOT_1	kə⁵⁵	kən³³	kən⁴⁵	kyŋ⁵⁵	kɐn⁵⁵	kɤn⁴²	kən⁴⁴	kẽ²¹⁴	kɑ̃⁵⁵	kẽ⁴⁴	kin³³	kjɛn⁴²	kən³¹	kən⁵²	kən⁴⁴	kəŋ²¹	ky⁴⁴	kẽ²¹	kun⁵⁵
 ROOT_2																	ʥɥɔ³⁴¹		
 ROOT_3		təu³³ʦɹ̩⁰																	
+ROPE_1		sən¹³ʦɹ̩⁰~so²⁴ʦɹ̩⁰	swən²¹ʦɹ̩⁵³~swən²¹sə²¹~so²¹sə²¹~so²¹ʦɹ̩²¹			swo⁵⁵ʦe²³	ʂəŋ²⁴ʦɹ̩⁰	ʂəŋ⁵³ʦɹ̩⁰		ʑin¹³ʦɹ̩⁰		sɨn⁴⁵ʦɹ̩⁰	sən¹³ʦɹ̩⁰	ʂəŋ³⁵ʦɹ̩⁰		səŋ²¹ʦəʔ⁰			
+ROPE_2	ʂəŋ³⁵				seŋ²¹										zən¹³	səŋ²¹	zeŋ³⁴¹	ʂəŋ²⁴	
+ROPE_3				soʔ²⁴							sok¹								soʔ³²a⁵³
+ROPE_4									ɕjɑ̃⁴⁴										
+ROUND_1	ɥɛn³⁵	ɥẽ¹³	ɥan²¹	jeŋ⁵³	yn²¹	ɥã²²	ɥan²⁴	ɥæ̃⁵³	ɥẽ⁴⁴		jan¹¹	ɥon⁴⁵	ɥen¹³			ɥe²¹	jy³⁴¹	ɥæ̃²⁴	jæ²⁴
+ROUND_2										wĩ¹³tʰwe⁴⁴									
+ROUND_3														tʰɐn³⁵					
+ROUND_4															ɦjø¹³				
 SALT_1	jɛn³⁵	jẽ¹³				jã²²	jan²⁴	jæ̃⁵³	jẽ⁴⁴		jam¹¹	jɛn⁴⁵	jen¹³	jɐn⁵²			ji³⁴¹	jæ̃²⁴	jam²⁴
 SALT_2			jɛn²¹pa⁵⁵																
 SALT_3					im²¹														
@@ -277,11 +324,23 @@ SAY_7												wa²¹
 SEE_1	kʰan⁵¹ʨjɛn⁵¹	kʰan⁵⁵ʨjan⁵⁵	kʰan²¹³tau⁵³	kʰaŋ²¹²ŋjeŋ²¹²		kʰwã⁴²ʨjã⁴²	kʰan⁵³ʨjan⁰	kʰæ̃³¹ʨjæ̃⁰	kʰɔ³⁵ʨje³⁵	kʰẽ³⁵ʨjæ³⁵	kʰon⁵³kjan⁵³	kʰon²¹³ʨjɛn⁴⁵~kʰon²¹³tau⁴²	kʰɑ̃⁴⁴ʨjen⁴⁴	kʰɐn³³⁴cjɐn³³⁴	kʰø⁵²ʨjɪ⁴¹²	kʰæ̃⁴⁵ʨje⁴⁵		kʰæ̃⁴⁴ʨjæ̃⁰	kʰwã²¹tjo⁰
 SEE_2					tʰɐi³⁵kin³³		ʈ͡ʂʰou²¹³ʨjan⁰										ʦʰɹ̩⁴⁴ʥja⁰		
 SEE_3																			ki²²
+SEED_1											ʦuŋ³¹ŋe⁰				ʦoŋ⁵²				ʦiŋ⁵³
+SEED_2	ʈ͡ʂuŋ²¹³ʦə⁰	ʦən⁴¹ʦɹ̩⁰	ʦoŋ⁵³ʦɹ̩⁵³	ʦi³²ʦi³²	ʦoŋ³⁵ʦi³⁵	ʦwɤŋ²³ʦe²³	ʦuŋ²¹³ʦɹ̩⁰	ʈ͡ʂuŋ⁴⁵ʦɹ̩⁰	ʦɑ̃²¹³ʦɹ̩²¹³	tɤn⁴²ʦɹ̩⁰		ʦuŋ²¹³ʦɹ̩⁰	ʦoŋ¹¹sɹ̩⁰	ʈ͡ʂoŋ²¹⁴ʦɹ̩⁰		ʦuŋ⁵³ʦəʔ⁰		p͡fəŋ⁵³ʦɹ̩⁰	
+SEED_3																	ʨɥɔ²⁴		
+SEW_1				tʰjeŋ²¹²															tʰjæ²²
+SEW_2		ljẽ¹³			lyn²¹							ljɛn⁴⁵					leŋ²²		
+SEW_3	fəŋ³⁵	xən¹³	foŋ²¹	pʰuŋ⁵³ɛiŋ²⁴²		fɤn²²	fəŋ²⁴	fəŋ⁵³	fɑ̃⁴⁴	ɣɤn¹³	pʰuŋ¹¹	fuŋ⁴⁵	fən¹³	fəŋ³⁵	voŋ¹³	fəŋ²¹		fəŋ²⁴	
+SHARP_1	ʨjɛn⁵⁵	ʨjan³³	ʨjɛn⁴⁵	ʦjeŋ⁵⁵	ʦim⁵³	ʨjã⁴²	ʨjan⁴⁴	ʨjæ̃²¹⁴	ʦẽ⁵⁵	ʨjæ⁴⁴	ʦjam³³	ʨjɛn⁴²	ʨjen³¹	ʦjɛ⁵²	ʦi⁴⁴	ʨje²¹	ʨi⁴⁴	ʨjæ̃²¹	ʦjam⁵⁵
+SHORT_1	twan²¹⁴	tõ⁴¹	twan⁵³	tøy³²	tyn³⁵	twã²³	twan²¹³	twæ̃⁴⁵	tɑ̃²¹³	twẽ⁴²	ton³¹	ton²¹³	twɑ̃¹¹	tɐn²¹⁴	tø⁵²	twæ̃⁵³	tø²⁴	twæ̃⁵³	te⁵³
 SIT_1	ʦwo⁵¹	ʦo¹¹	ʦo²¹³	sɔy²⁴²	ʦʰɔ²²	ʦwo²³	ʦwo⁵³	ʦwɤ³¹		ʦʰo¹¹	ʦʰo³³	ʦʰo²¹	ʦo⁴⁴	ʦwɔ³³⁴	zəu²³¹	ʦwɤ⁴⁵	zo²⁴	ʦwo⁴⁴	ʦe²²
 SIT_2									kʰwi²¹³										
 SKIN_1	pʰi³⁵fu⁰	pi¹³fu³³	pʰi²¹pʰi²¹~pʰi²¹ʦɹ̩⁵³		pʰei²¹fu⁵³	pi²²fu⁴²		pʰi⁵³fu²¹⁴				pʰi²⁴fu⁰	pʰi¹³fu³¹	pʰi³⁵fu⁵²	bi¹³fu⁴⁴	pʰi²¹fu²¹	bei³⁴¹fu⁴⁴		
 SKIN_2				pʰwoi⁵³u⁵⁵~pʰwoi⁵³					pʰɹ̩⁴⁴	pʰi¹³	pʰi¹¹							pʰi²⁴	pʰe²¹
 SKIN_3							ʐou⁵³pʰjə²⁴												
+SKY_1							tʰjan⁴⁴			tʰjæ⁴⁴					tʰjɪ⁴⁴		tʰi⁴⁴lei⁴⁴		
+SKY_2															tʰjɪ⁴¹læ²³¹ɦjɑ¹³				
+SKY_3					tʰin⁵⁵hoŋ⁵³						tʰjen³³hoŋ⁵³								
+SKY_4	tʰjɛn⁵⁵kʰuŋ⁵⁵	tʰjẽ³³kʰən³³	tʰjɛn⁴⁵saŋ²¹³	tʰjeŋ⁵⁵nøyŋ⁵⁵		tʰjã⁴²kʰɤn⁴²	tʰjan⁴⁴ʂaŋ⁰	tʰjæ̃²¹⁴kʰuŋ³¹	tʰẽ⁵⁵kʰwɑ̃⁵⁵			tʰjɛn⁴²kuŋ⁴²	tʰjen³¹kʰoŋ³¹	tʰjɐn⁵²kʰoŋ³³⁴		tʰje²¹sɒ̃⁴⁵		tʰjæ̃²¹kʰuŋ²¹	tʰjæ⁵⁵tiŋ⁵³
 SLEEP_1	ʂwei⁵¹	ɕɥei¹¹	swei²¹³		søy²²	swei²¹	ʂwei⁵³	ʂwei³¹			soi⁵³		swei⁴⁴	ʂwei³³⁴		swei⁴⁵		fei⁴⁴	
 SLEEP_2		kʰwən⁵⁵		kʰɔuŋ²¹²					kʰwɑ̃³⁵	kʰun³⁵		kʰun²¹³			kʰwən⁴¹²		kʰy⁵¹		kʰun²¹
 SMALL_1	ɕjɑu²¹³	ɕjau⁴¹~ɕi⁵⁵	ɕjau⁵³	sɑ²¹²	sju³⁵	ɕi²⁴	ɕjau²¹³	ɕjɔ⁴⁵	ɕje²¹³	ɕjɤ⁴²	se⁵³	ɕjɛu²¹³	ɕjɔ¹¹	sjau²¹⁴	sjæ⁵²	ɕjau⁵³	sai²⁴	ɕjɑu⁵³	swe²¹
@@ -306,6 +365,12 @@ STAR_3																			ʦʰjæ⁵⁵
 STONE_1	ʂɻ̩³⁵tʰou⁰	sɹ̩²⁴təu⁰	sjɹ̩²¹tʰəu²¹	swoʔ⁵lau⁵³	sɛk²tʰɐu²¹	sei²²tai²²	ʂɻ̩²⁴tʰou⁰	ʂi⁵³tʰou⁰	ɕjeʔ³²tʰi⁴⁴		sak⁵tʰeu¹¹	saʔ²tʰɛu⁰	ʂɻ̩ʔ⁵tʰəɯ¹³	ʂɹ̩³⁵tʰou⁰	zɑʔ²³dʏ¹³	səʔ⁵⁴tʰəu²¹		ʂɻ̩²⁴tʰou⁰	ʦjoʔ⁵tʰau²⁴
 STONE_2										ɕjɔ³⁵djɤ¹³kwa⁰									
 STONE_3																	zei²¹dɤu³⁴¹ʦɹ̩²⁴²ŋ̍⁰		
+SUCK_1					kʰɐp⁵						kʰip¹								
+SUCK_2				soʔ²⁴					soʔ³²			ʨit⁵	soʔ⁵		soʔ⁴	ɕjəʔ²			suʔ⁵
+SUCK_3		ʨin³³			syn²³					ʦin⁴⁴									
+SUCK_4	ɕi⁵⁵		ʨy²¹			swo⁵⁵		ʂwẽ⁵³						çy²¹⁴			ʨy⁴¹~ɕjai⁴¹	ɕi²¹	
+SUCK_5							kwo²¹³												
+SUCK_6															həu⁴⁴				
 SUN_1	tʰai⁵¹jɑŋ³⁵	tʰai⁵⁵jan¹³	tʰai²¹³jaŋ²¹		tʰai³³jœŋ²¹		tʰai⁵³jaŋ⁰	tʰə³¹jɑŋ⁵³	tʰɔ³⁵jɔ⁴⁴	tʰa³⁵jɔŋ¹³		tʰai²¹³jɔŋ⁴⁵	tʰɛ⁴⁴jɑ̃⁰		tʰɑ⁴¹²ɦjã¹³	tʰai⁴⁵jɒ̃⁰	tʰa⁵¹ji³⁴¹	tʰɛ⁴⁴jɑŋ⁰	
 SUN_2				niʔ⁵tʰau⁵³							ŋit¹tʰeu¹¹								
 SUN_3										ni³⁵djɤ¹³kʰu⁴⁴									
@@ -324,6 +389,20 @@ THAT_1				hy³²~hwoi⁵³								he²¹³					he²⁴		hit³²
 THAT_2											ke⁵³				kwe̞⁴⁴	vai⁵³			
 THAT_3	nɑ⁵¹		na²¹³		na³³		na⁵³	na³¹	na³¹					njɛ³³⁴				nɑ⁵³	
 THAT_4		la⁵⁵				la²³				lo¹¹		la²¹³	ləʔ⁵						
+THEY_1	tʰa⁵⁵mən³⁵	tʰa³³mən	tʰa⁴⁵mən²¹				tʰa⁴⁴mən⁰	tʰa⁴⁵mẽ⁰		tʰɔ⁴⁴nã¹³		ʨje²⁴mɨn⁰	tʰɑ³¹mən¹³	tʰa⁵²mən³³⁴		tʰa²¹məŋ⁰			
+THEY_2				i⁵⁵nøyŋ⁵³~i⁵⁵koʔ²⁴nøyŋ⁵³															
+THEY_3									ki⁴⁴jɑ̃⁰								ɡei³⁴¹ljɛ³⁴¹		
+THEY_4					kʰøy²³tei²²	tʰa⁴²ti⁰kɤ²¹												tʰɑ²¹ti⁰	
+THEY_5											ki¹¹ten³³ŋin¹¹								
+THEY_6															li⁴⁴toʔ⁰				
+THEY_7																			in⁵⁵
+THICK_1					hɐu²³							hɛu²¹			ɦʏ²³¹				
+THICK_2						xai²⁵ɕi²²	xou⁵³ʂɻ̩⁰												
+THICK_3	xou⁵¹	xəi⁴¹	xəu²¹³	kau²⁴²			xou⁵³	xou³¹	xi²¹³	ɣɤ¹¹			xəɯ⁴⁴	xou³³⁴		xəu⁴⁵	ɡau²⁴	xou⁴⁴	kau²²
+THICK_4											pʰun³³								
+THIN (OF LEAF AND CLOTH)_1	pɑu³⁵	po²⁴	po²¹			pɑu²²	pɤ²⁴	pɤ⁵³		pʰo¹¹				pɔ³⁵			bo²³	po²⁴	
+THIN (OF LEAF AND CLOTH)_2				poʔ⁵	pɔk²				pʰoʔ³²		pʰok⁵	pʰɔʔ⁵	poʔ⁵		boʔ²³	pəʔ⁵⁴			poʔ⁵
+THINK (REFLECT)_1	ɕjɑŋ²¹³	ɕjan⁴¹	ɕjaŋ⁵³	swoŋ³²	sœŋ³⁵	ɕjɑŋ²³	ɕjaŋ²¹³	ɕjɑŋ⁴⁵	ɕjõ²¹³	ɕjɔŋ⁴²	sjoŋ³¹	ɕjɔŋ²¹³	ɕjɑ̃¹¹	sjaŋ²¹³	sjã⁵²	ɕjɒ̃⁵³	ɕi²⁴	ɕjɑŋ⁵³	sjũ²²
 THIS_1		ko²⁴										ko²¹³							
 THIS_2													ʈ͡ʂe⁴⁴		ke̞⁴⁴				
 THIS_3	ʈ͡ʂɤ⁵¹		ʦe²¹³	ʦi³²~ʦja³²			ʈ͡ʂɤ⁵³	ʈ͡ʂɤ³¹		ʦɹ̩³⁵				ʧɛ³³⁴		ʦai⁵³		ʈ͡ʂɤ⁵³	ʦit³²
@@ -334,6 +413,13 @@ THIS_7					li⁵⁵
 THIS_8									nn̩²¹³										
 THOU_1	ni²¹⁴	li⁴¹	ɲi⁵³	ny³²~ny³²nøyŋ⁵³	nei²³	lio²³	ni²¹³	ɲi⁴⁵	n̩²¹³	n̩⁴²		n̩²¹³	li¹¹	ni²¹⁴	ne̞²³¹	ni⁵³	ɲi²⁴	ni⁵³	li⁵³
 THOU_2											n̩¹¹								
+THREE_1	san⁵⁵	san³³	san⁴⁵	saŋ⁵⁵	sam⁵⁵	sã⁴²	san⁴⁴	sæ̃²¹⁴	sɔ⁵⁵	sã⁴⁴	sam³³	san⁴²	sɑ̃³¹	sɐn⁵²	se̞⁴⁴	sæ̃²¹	sa⁴⁴	sæ̃²¹	sã⁵⁵
+THROW_1				kœʔ⁵											toʔ⁴				
+THROW_2	ʐəŋ⁵⁵	ʐən¹³	zən⁴⁵				ʐəŋ⁴⁴	ləŋ²¹⁴				lɨn²¹				zəŋ⁵³			liŋ⁵⁵
+THROW_3		ɕwai⁴¹	swai⁵³	ljeu⁵⁵	tju⁵⁵	tjou⁴²				ljɤ¹¹	tju³³	tju⁴²	swə³¹	ljau³³⁴				ljɑu⁴⁴	
+THROW_4				kʰœ³²													ɡa²²		
+THROW_5									pʰɤ⁵⁵										
+THROW_6										jɔ³⁵									
 TONGUE_1				ʦʰwoi²¹²sjoʔ⁵					kʰi²¹³ʨʰɥaʔ³²										
 TONGUE_2																	kʰau²⁴²ji²¹		
 TONGUE_3	ʂɤ³⁵															ʂəʔ⁵⁴			ʦiʔ⁵ja⁵³
@@ -350,6 +436,14 @@ TWO_2		ə¹¹			i²²					ɤ¹¹			ə⁴⁴					ə⁴⁴
 TWO_3																	ŋ̍²²		lŋ̍²²
 TWO_4	ljɑŋ²¹⁴	ljan⁴¹	ljaŋ⁵³	laŋ²⁴²	lœŋ³⁵			ljɑŋ⁴⁵		njɔŋ⁴²	ljoŋ³¹	ljɔŋ²¹³			ljã²³¹~əl²³¹	lja⁵³	ljə²¹	ljɑŋ⁵³	
 TWO_5				nɛi²⁴²					ɲjõ²¹³		ŋi⁵³		ɲjɑ̃¹¹		ɲi²³¹				
+VOMIT_1									fɔ⁵⁵ŋoʔ³²										
+VOMIT_2											pʰon³³								
+VOMIT_3			fa²¹tʰu⁵³lo²¹~tʰu⁵³lo²¹~ŋəu⁵³lo²¹													tʰu⁵³lə⁰			
+VOMIT_4										ta³⁵xwe⁴²									
+VOMIT_5										xwe⁴²		ŋjɛu²¹³							
+VOMIT_6	tʰu⁵¹	tʰu⁵⁵		tʰou²¹²		tʰu²⁵	tʰu⁵³	tʰu³¹				tʰu²¹³	tʰu⁴⁴				tʰøy⁵¹		tʰo²¹
+VOMIT_7					ŋɐu³⁵tʰou³³								əɯ¹¹tʰu⁴⁴	ou²¹³tʰu²¹⁴				ŋou²¹tʰu⁵³	
+VOMIT_8															ʏ⁵²				
 WALK_1	ʦou²¹³	ʦəu⁴¹	ʦəu⁵³		ʦɐu³⁵		ʦou²¹³	ʦou⁴⁵		ʨio⁴²		ʦɛu²¹³	ʦəɯ¹¹	ʦou²¹⁴	bæ¹³	ʦəu⁵³	ʦau²⁴	ʦou⁵³	
 WALK_2				kjaŋ⁵³															kjã²⁴
 WALK_3						xei²²			xẽ⁴⁴										
@@ -365,6 +459,10 @@ WE_7	wo²¹³mən³⁵						wo²¹³mən⁰						o¹¹mən¹³	wɔ²¹⁴mən³�
 WE_8		ŋo⁴¹mən⁰	ŋo⁵³mm̩⁵⁵					vɔ⁴⁵mẽ⁰				ŋo²¹³mɨn⁰			ŋəu²³¹ɲi⁰	ɣɤ⁵³mɤ⁰			
 WE_9									ɔ²¹³jɑ̃⁰										
 WE_10																			lan⁵³
+WET_1					sɐp⁵						səp¹	sɨt⁵			səʔ⁴	səʔ²			sip³²
+WET_2	ʂɻ̩⁵⁵	sɹ̩²⁴	sɹ̩²¹			ɕi⁵⁵	ʂɻ̩⁴⁴	ʂɻ̩²¹⁴		ɕi¹³			ʦʰɔ¹³	ʃi²¹⁴			sai⁴¹	ʈ͡ʂɑu²⁴	
+WET_3									tʰi³⁵ni⁴⁴										
+WET_4				laŋ²⁴²															
 WHAT_1		mo²⁴ʦɹ̩⁰								mɤ⁴²ʦɹ̩⁰									
 WHAT_2			sa²¹³ʦɹ̩⁵³																
 WHAT_3							ʂa²⁴								sɑ⁴¹²			sɑ⁴⁴	
@@ -373,6 +471,16 @@ WHAT_5	ʂən³⁵mə⁰	sən²⁴mo⁰				sɤn²²ma²²	ʂən²⁴mɤ⁰	ʂẽ�
 WHAT_6					mɐt⁵jɛ²³							ɕit⁵li²¹							
 WHAT_7											mak¹ke⁵³								
 WHAT_8																	a⁴¹ɲi³⁴¹		
+WHERE_1				tje³²nœ³²															
+WHERE_2																			to⁵⁵loʔ⁵
+WHERE_3		o¹³ʦɹ̩⁰																ɑ⁵³tɑ²¹	
+WHERE_4															no¹³taʔ⁰				
+WHERE_5													lɑ¹¹kʰwɛ⁴⁴				ɲjau²¹dwɔ²⁴		
+WHERE_6	na²¹⁴li²¹⁴	la⁴¹li⁰					na²⁴li²¹³	na²¹³ɲjẽ⁰		la⁴²li⁰	ŋai⁵³je⁰	la²¹³li⁰		na³⁵li²¹⁴		na⁵³lɛ⁰			
+WHERE_7			nə⁵³				na²¹³~na²¹³ka⁴⁴		na²¹³xɑ̃³⁵										
+WHERE_8			nə⁵³kən⁵⁵ʨʰjɛn²¹																
+WHERE_9						la²³xɑŋ³³													
+WHERE_10					pin⁵⁵tou²²														
 WHITE_1				paʔ⁵	pak²				pʰaʔ³²		pʰak⁵	pʰaʔ⁵	pəʔ⁵		bɑʔ²³				peʔ⁵
 WHITE_2	pɛ³⁵	pə²⁴	pe²¹			pja²²	pai²⁴	pei⁵³		pʰɔ³⁵				pɛ³³⁴		pai²¹~pjə⁵⁴	ba²¹	pei²⁴	
 WHO_1			na⁵³ko²¹³			la²³kwo³³			na²¹³kɵ³⁵			lai²¹³ko²¹	lɑ¹¹ko⁴⁴						
@@ -381,8 +489,20 @@ WHO_3				tje³²ʒjeʔ²⁴~tje³²nøyŋ⁵³											sɑ⁴¹²ɲin¹³				s
 WHO_4																	a⁴¹ɲi³⁴¹naŋ³⁴¹		
 WHO_5											man³¹ŋin¹¹								
 WHO_6		o¹³ʦɹ̩⁵⁵ko⁵⁵																	
+WIDE_1					fun⁵⁵						fat¹								
+WIDE_2	kʰwan⁵⁵		kʰwan⁴⁵	kʰwaʔ²⁴~kʰwaŋ⁵⁵		kʰwã⁴²	kʰwan⁴⁴	kʰwæ̃²¹⁴	kʰwɔ⁵⁵	kʰwẽ⁴⁴		kʰwon⁴²	kʰwɑ̃³¹	kʰwɐn⁵²	kʰwəʔ⁴	kʰwæ̃²¹	kʰo⁴¹	kʰwæ̃²¹	kʰwaʔ³²
+WIDE_3		kʰõ³³																	
 WIND_1				huŋ⁵⁵													hoŋ⁴⁴		hɔŋ⁵⁵
 WIND_2	fəŋ⁵⁵	xən³³	foŋ⁴⁵		foŋ⁵³	fɤn⁴²	fəŋ⁴⁴	fɛn²¹⁴	fɑ̃⁵⁵	xɤn⁴⁴	fuŋ³³	fuŋ⁴²	fən³¹	fəŋ⁵²	foŋ⁴⁴	fəŋ²¹		fəŋ²¹	
+WING_1										je³⁵ka³⁵							jai²¹pʰwɔ²⁴²		
+WING_2									jɑʔ³²sɵ⁵⁵			jɛt²¹kwaŋ⁰							
+WING_3											it⁵kap¹								
+WING_4		i⁵⁵ka¹³ʦɹ̩⁰						ʈ͡ʂʰɻ̩²¹ʦɹ̩⁰											
+WING_5				siʔ⁵															sit⁵la⁵³
+WING_6					ʦʰi³³													tʰɹ̩⁴⁴	
+WING_7	ʈ͡ʂʰɻ̩⁵¹pɑ²¹⁴	ʦʰɹ̩⁵⁵pan¹³	ʦɹ̩²¹³paŋ⁵³				sɹ̩⁵³paŋ²¹³		ʦʰɹ̩³⁵põ²¹³			ʦʰɹ̩²¹³paŋ⁰~ʦʰɹ̩²¹³kwaŋ⁰	ʈ͡ʂʰɻ̩⁴⁴pɑ⁰	ʈ͡ʂʰɹ̩³³⁴pə⁰		ʦʰɹ̩⁴⁵pɒ̃⁵³		ʦʰɹ̩⁴⁴pɑŋ⁰	
+WING_8						ʨi²⁵kwã²²ʦe²³													
+WING_9															ʨi⁴⁴kaʔ⁴				
 WOMAN_1										ny⁴²nin¹³ka⁰							lə²⁴ɲjaŋ³⁴¹kʰa⁴¹		
 WOMAN_2				ny³²ɛ²¹²	nøy²³jɐn²¹	ly²³liŋ²³					moi⁵³je⁰ŋin¹¹			ny²¹³in⁵²					
 WOMAN_3							njaŋ²⁴mə⁰		ɲy²¹³nɤ⁰						ɲy²³¹ɲin¹³				
@@ -390,6 +510,7 @@ WOMAN_4	ny²¹⁴ʐɛn³⁵	ɲy⁴¹ʐən⁰~ɲy⁴¹ti⁰	ɲy⁵³zən²¹~ɲy�
 WOMAN_5												ɲy²¹³kʰaʔ⁵							
 WOMAN_6				ʦy⁵⁵nøyŋ⁵³nøyŋ⁵³															ʦa⁵⁵bɔ⁵³laŋ²⁴
 WOMAN_7				i⁵⁵ʦja³²															
+WORM_1	ʈ͡ʂʰuŋ³⁵	ʦən¹³	ʦʰoŋ²¹	tʰøyŋ⁵³	ʦʰoŋ²¹	ʦwɤŋ²²	ʈ͡ʂuŋ²¹	ʈ͡ʂʰuŋ⁵³	ʦʰɑ̃⁴⁴	ʥjɤŋ¹³	ʦʰuŋ¹¹	ʦʰuŋ²⁴	ʦʰoŋ¹³	ʈ͡ʂoŋ³⁵	zoŋ¹³	ʦʰuŋ²¹	ʥɥoŋ³⁴¹	p͡fʰəŋ²⁴	tʰaŋ²⁴hja²²
 YEAR_1	njɛn³⁵	ɲjẽ¹³	ɲjɛn²¹~ɲjɛn²¹fən²¹³		nin²¹		njan²⁴~njan²⁴fən⁵³	njæ̃⁵³	ɲje⁴⁴	njæ¹³		ɲjɛn⁴⁵	ljen¹³	njɐn⁵²	ɲjɪ¹³	nje²¹	ɲi³⁴¹	njæ̃²⁴	
 YEAR_2						ljã²²													
 YEAR_3				ʦai³²							se⁵³								

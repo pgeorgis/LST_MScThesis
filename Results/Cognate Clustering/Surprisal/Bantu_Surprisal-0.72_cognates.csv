@@ -131,6 +131,12 @@ CLOUD_15								eðwɛɔ
 COME_1	isa	zu	zu	jja	úza	ija	ʒa	oka	óka	iza	uisa	jà	taha	ija	vwá	wa		ja	ʒá	ʤa	za	ʣa	ija	za	buda	fìkà	iza	ʄa		ta	ta	t͡ɬà	íjà	da	za	jè	zà
 COME_2																	oriʃo																				
 COME_3																													boola								
+COUNT_1																			hasibu									hesabu									
+COUNT_2																						welenɡa			ʋerenɡa												
+COUNT_3	pend																																tenda				
+COUNT_4		lan̂	laŋ	bala	vala		bala	tala	tára		tanɡa	tánɡa			badika		tanla			waza	bala		bara	harura		badika	bala			ɬàja				βala	bala	tánɡ	bala
+COUNT_5																alakela																					
+COUNT_6																																dúédísà					
 DIE_1	fwa	wu	wu	fwa	fwa	fa	fa	̈a		fa	fwa	fa	ʃwa	fwà	fwa	kʰwa	fwa	sa	fa	fa	fa	fa	fa	p͡fa	fá	fwǎ	ʧa	fa	fwa	fá	fá	swá	fà	fa	fa	wá	fá
 DIE_2									â																												
 DOG_1									kuro																												
@@ -178,6 +184,11 @@ EYE_1	ilìnso	dis	ʣis	luso	líiso	eliiʃo	eʃo	iːðɔ	ríːθɔ		disu	lís
 EYE_2																usu																					
 EYE_3																																			iliɬoameɬo		
 EYE_4										meɲa																											
+FALL_1	wu	ku	ku	ɡwa	ɡwa	ɡwa	wa		ɣua		bwa	éja			pòna		wa			wa	wa	ɡwa	ɡwa	ɡwa	ɡwa	fona	ɡwa			wà		wà	loka		wà	kú	wa
+FALL_2																wúlùwa																					
+FALL_3								βaloka					lauka															anɡuka									
+FALL_4																			dúmba																		
+FALL_5																																		ɸuɸurea			
 FEATHER_1																	mafuli																				
 FEATHER_2																															limbáví						
 FEATHER_3																						ntʰenɡa			mun̤ènɡá									mutʰenɡa			
@@ -230,6 +241,9 @@ FISH_8		kos	kwas						tɛ́ɣa					ʃipa	múʃípá											muʃìpà
 FISH_9							hobe																		hóʋé									kʰoβe			
 FISH_10					sóomba											ihópa						sómba															
 FISH_11				ekjeɲanja																																	
+FIVE_1		tan	tan	taano	hano	itanu	ʃanu	itaanɔ	iθanɔ		tanu	mítáno				tʰanu	firaanu		ʦánu	ʦánu	ɬanu	isanu	taano	tanu	ʃanu	tanu	itano	tano		ǹt͡ɬʰánu		t͡ɬʰánʊ́	tanu	tʰanu	ɬanu	tánò	ɬanu
+FIVE_2													ketalizoho																								
+FIVE_3															taanunombreʧardinal																						
 FLY (MOVE THROUGH AIR)_1																			nʣí	nʣì	ndiza																ndiza
 FLY (MOVE THROUGH AIR)_2		jele	jele																																		
 FLY (MOVE THROUGH AIR)_3						halala										váva										pàlàlà	lala			haha	haha				bʱabʱa		
@@ -237,6 +251,11 @@ FLY (MOVE THROUGH AIR)_4																																	pãlãlã			pùmb
 FLY (MOVE THROUGH AIR)_5												pumbwa																									
 FLY (MOVE THROUGH AIR)_6							pʰururuka																		bʱururuka												
 FLY (MOVE THROUGH AIR)_7	pupuka			buuka	luka			oloka	ómboka	vumuka	tilumuka		fufa		bùùka		rumbuka	tuka				uluká	ɡuruka	ɡuruka				ruka	uluka			fʊ̀fà		ɸuɸa			
+FOUR_1		njin																								nanka							kwana				kane
+FOUR_2				na	ne	inai	nna	iɲa	iɲa		ja	mínei	ne				fiini		nné	né	ne	nái	na	ne	na		ine	ne		mùnè		nɛ̀		na	ne	áná	
+FOUR_3																ʧeʃe																					
+FOUR_4			ɲiiɲ																																		
+FOUR_5															naajinombreʧardinal																						
 GIVE_1	peːla	ve	və	wa	peela	ha	pa		hâ	bana	ɡana	pesa	fa	pà	pa	váha		pa	va	níka	pʰa	paʦa	ha	ha	pá	fà	in̤a	pa	íkúpa	há	ɲíká	fá	ɪhà	ɸa	pʰa		pʰá
 GIVE_2																	niinjia																				
 GIVE_3																																				kì	
@@ -518,6 +537,18 @@ SKIN_15								kekɔndɛ	ɣekɔndɛ́
 SKIN_16																														nɬonɡé	ɬónɡé						
 SKIN_17					ɲciíŋɡo																																
 SKIN_18						omubilihomme																															
+SKY_1																irímu	iruveu																				
+SKY_2		jôp	ʣop																																		
+SKY_3				ɡɡuru		eiɡulu			ìɣòrò		zulu	likoló			djulu								eiɡuru	ijuru		eilu									izulu		izulu
+SKY_4																														tʼìlò							
+SKY_5																			wíŋɡu	biŋɡu								uwinɡu									
+SKY_6																																		lʰitʰadʰulu			
+SKY_7					ulaŋɡa																																
+SKY_8								jajaja																													
+SKY_9																					isibakabaka																
+SKY_10																																ápí				nzàmbé	
+SKY_11																						tʰambo															
+SKY_12																									denɡa												
 SLEEP (STATE)_1																ikʰóve									hope									kʰoɸe			
 SLEEP (STATE)_2												mpɔnɡí																	n̍ɡonzi							tɔ̀nɡì	
 SLEEP (STATE)_3																		oomposi																			
@@ -575,6 +606,8 @@ TAIL_6							ŋwise	mweðɛ
 TAIL_7																																	úkɪ̠̍l̠á̠				
 TAIL_8																																				mbànɡú	
 TAIL_9									mutiːŋɡɔ́ɛ																												
+THREE_1		la	laa	satu	datu	iʃatu	tʰatu	itato	iθatu		tatu	mísáto	talu			raru	firaru		ráru	ráru	tʰatʰu	itátu	ʃatu	tatu	n̤atu	satu	idatu	tatu		r̥ár̥u	nʱaru	rárʊ́	tatu	raru	tʰatʰu	sátò	tʰatʰu
+THREE_2															sàtùpronomnuméralʧardinal																						
 TONGUE_1																		elaka											mulaka								
 TONGUE_2		ôjem	ojəm																																		
 TONGUE_3	ulùlimi			lulimi	ilimi	olurimi	limi	oemɛ	roréme	dimi	ludimi	lolému	lulimi	ludìmi	lúdimí	nlumi	ulumi		ulími	ulíme	ulimi	líme	orurimi	ururimi	rìmì	edìmi	lulimi	ulimi		rirímí	lirímí	lɪ́mɪ́	élímí	lulimi	ulwimi	lémè	ulimi
@@ -595,6 +628,12 @@ TWO_1		baé	bɛɲ
 TWO_2	bili			bili		bili		ile	iɣere	iadi		míbalé	beli	bìdì	bidi	ili	fivili	jaali	ilí	ilí	bili	iwíri	biri	biri	ʋìrí	bàbìdì	ibili	wili	bi̋le	mbírʱí	mbirí	bèdí	váːlì	βili	bini	báé	bili
 TWO_3											ole																										
 TWO_4					ɲejete																																
+VOMIT_1			jo				tʰo																													ló	
+VOMIT_2	luk										luka				lùka									ruka	ruʦa		luka										bujisa
+VOMIT_3																					amaɬanzo													matanza			
+VOMIT_4					deeka												jooka																				
+VOMIT_5						tabika		taβeka	táheka			sanza	taza			rápʰjàa			ravíha	raβiha		sanza	tanaka			lasa		tapika		ɬántʼa		t͡ɬʰáʦá	sanja		ɡabʱa		
+VOMIT_6				sesema																																	
 WALK_1	enda				jeenda					enda	enda				éndá	eétta		eenda		enda		jenda	ɡjenda						eenda				éndà	enda			
 WALK_2		wulu	wulu																																		
 WALK_3									ʃɛ̀ːra										dàɡa																		

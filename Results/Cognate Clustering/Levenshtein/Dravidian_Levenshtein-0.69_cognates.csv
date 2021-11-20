@@ -1,4 +1,11 @@
 	Badga	Betta Kurumba	Brahui	Gondi	Kannada	Kodava	Kolami	Kota	Koya	Kurukh	Kuwi	Malayalam	Malto	Ollari Gadba	Parji	Tamil	Telugu	Toda	Tulu	Yeruva
+ALL_1	ella				ella	ella		ellaːm				ella				ellaːm				
+ALL_2			kull																	
+ALL_3													ɡoːʈahiː~ɡiːʈeniː							
+ALL_4		oːʈəja		bottiɡ					mottam								mottamu			
+ALL_5									antaː								anta~anni			nanɡaːɭə
+ALL_6							maːk			majin	haɾa								maːta	
+ALL_7																		oʋʋoɖimo		
 ASH_1																			ʧuːnja~ʧoːnja	
 ASH_2												ʧaːmbal~ʧaːɾam				saːmbal				
 ASH_3				niːɾ						ʧind				niɖ	nĩd					
@@ -366,6 +373,17 @@ MAN_8									peːkaːl		kakasi
 MAN_9				mankal			maniʂaːn		maɡaʋaːɳɖ								maɡaʋaːɖu			panija
 MAN_10		ɡəɳɖaɭə			ɡanɖasu	aːnaaɭə		ɡanmaɡu												
 MAN_11			naɾeenə									aːɳə				aːɳə~aːɳ			aːnʤʋu	
+MANY_1													diːkehi~ɡaːɖehi							
+MANY_2												ottiɾi								
+MANY_3						dumba														tumba
+MANY_4	appaɾa						peɾe													
+MANY_5																		uppuːm		
+MANY_6		kajɾijə														neɾija				
+MANY_7			baːz							baɡɡe									baːɾi	
+MANY_8				ʤaːsta	halaʋu				ʧaːla			pala				palə	naːnaː~ʧaːla			
+MANY_9				ʋellen																
+MANY_10									beʧʧoːko											
+MANY_11								iːʤoːɖ												
 MEAT_1				haʋʋi					anɡiː											
 MEAT_2								keteɾi								kaɾi				
 MEAT_3		əɾsi				eɾaʧi						iɾaʧi				iraicci				iɾaʧi
@@ -466,6 +484,12 @@ ROOT_2	peːɾə	bjaːɾə			beːɾu	beːɾə	ʋeːɾkam		ʋeːɾ		ʋeɾ	ʋeːɾ�
 ROOT_3				hiːɾ																
 ROOT_4			ɾoːte																	
 ROOT_5														kuɾe						
+ROUND_1			ɡoːl peɾi																	
+ROUND_2							bubbaɾi													
+ROUND_3					baʈʈa			ʋaʈam				vaʈʈa				ʋaʈʈam		uʈʈi		
+ROUND_4						uɾuʈa						uɾunɖa				uɾunɖai			uɾuʈə	uɾuʈu
+ROUND_5				ɡuɳɖɾal	duɳɖane				ɡuɳɖɾaːn	ɡuʈiɳɖa			ɡuɖme~ɡuɖijo				ɡuɳɖɾani			
+ROUND_6		bəjnsakɾanɡuːdə																		
 SAND_1		maɳalə			maɾaɭu	maɳa						maɳal		maːn	man	maɳal		manal		maɳə
 SAND_2											bali		baːli							
 SAND_3	pakke																			
@@ -490,6 +514,12 @@ SEE_5							taːna					kaːɳuka				kaːɳ
 SEE_6										jeːɾna										
 SEE_7				huɖa					uːɖa				ʈunɖpo				ʧuːɖu			
 SEE_8														ʧu						
+SEED_1						kuɾu														kuɾu
+SEED_2				peɖe	bede				peːɳɖku							ʋedə				
+SEED_3		bissə~biʧʧə	beʤʤ	viʤʤa	biːʤa					biː							biːʤam~ɡinʤa		biːʤa	
+SEED_4	pittə						ʋittanam	ʋitu				vita			vittid		ʋittanam	pittə		
+SEED_5										ɡoʈa										
+SEED_6												paɾippə								
 SIT_1										okʰna										
 SIT_2													hokpo							
 SIT_3	kuɭəʋə	kuːɾsu~kuːtnu iːɾ			kuɭitiko~kuːtuko												kuːɾʧo			

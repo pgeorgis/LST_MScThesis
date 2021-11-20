@@ -1,4 +1,6 @@
 	Aromanian	Asturian	Catalan (Castelló de la Plana)	Catalan (Central)	Catalan (Manises)	Catalan (Minorcan)	Catalan (Northwestern)	Catalan (Valencia)	Dalmatian	Emiliano (Carpigiano)	Emiliano (Ferrarese)	Emiliano (Reggiano)	Franco-Provençal	French	Friulian	Galician	Istro-Romanian	Italian	Ladin (Fassano)	Ladin (Gardenese)	Latin (Archaic)	Latin (Late Classical)	Ligurian (Genoa)	Ligurian (Rapallo)	Ligurian (Stella)	Lombard (Bergamo)	Lombard (Plesio)	Megleno-Romanian	Neapolitan	Occitan	Old French	Old Italian	Picard	Piedmontese (Barbania)	Piedmontese (Carmagnola)	Piedmontese (Lanzo Torinese)	Piedmontese (Turinese)	Piedmontese (Vercellese)	Portuguese	Romagnol	Romanian	Romansh (Grischun)	Romansh (Surmiran)	Romansh (Sursilvan)	Romansh (Vallader)	Sardinian (Campidanese)	Sardinian (Logudorese)	Sicilian (Catanian)	Sicilian (Messinese)	Sicilian (Palermitan)	Sicilian (Southeastern)	Spanish	Tuscan	Umbrian	Venetian (Bellunese)	Venetian (Primiero)	Venetian (Venice)	Walloon
+ALL_1																					ˈɔmnɪs	ˈɔmnɪs																																				
+ALL_2	tˈutŭ	tˈoo	tot	tot	tot	tot	tot	tot	toʧ	tut	tut	tot	to~tot	tu	dut	tˈoðo	tot	tˈutto	dut	dut		tˈoːtʊs	tyttu	tˈyttu	tˈyttu	tøt	tyʧʧ	tot	tˈuttə	tut	tot	tˈutto	tu	tyt	tyjt	tyt	tyt	tyʧ	tˈoðu	tot	tot	tut	tot	tut	twot	tˈottu	tˈottu	tˈuttu	tˈuttu	tˈuttu	tˈuttu	tˈoðo	tˈutto	tˈuttu	tˈuto	tut	tˈuto	tu
 ASH_1	skrˈumŭ																											skrum																														
 ASH_2									kanˈajsa												kˈɪnɪs	kˈɪnɪs											ʃɛ̃n														kisˈina											sɛn
 ASH_3	ʧinˈuʃe	θenˈiθa													ʧinˈize	θˈinθa	ʧerˈuʃe											ʧənˈuʃə											sˈĩzɐ		ʧenˈuʃə											θenˈiθa						
@@ -267,6 +269,24 @@ MALE PERSON_4																				əl	wɪr	vɪr
 MALE PERSON_5																																														ˈommini	ˈommine				wˈɔmminu							
 MALE PERSON_6		ˈome	ˈɔme	ˈɔmə	ˈɔme	ˈɔmu	ˈɔme	ˈɔme	om~jom	ˈɔm	ˈɔman	om	ˈomo	ɔm	ɔm	ˈɔme		wˈɔmo	om			ˈɔmoː	ˈɔmmu	ˈɔmmu	ˈɔmmu	øm	omm		ˈɔmmə	ˈɔme	ˈõmə	wˈɔmo	ɔ̃m	ˈɔm	ˈɔm	ˈɔm	ɔm	ˈoːmaŋ	ˈɔmɐ̃j̃	om		um	om	um	om			ˈɔmu					ˈɔmo	ˈɔme	ɔm	ɔm	ˈɔmo	ɔm
 MALE PERSON_7																																																				ˈombɾe						
+MANY_1																													assˈajə																			assˈai	assˈai	assˈai	assˈai							
+MANY_2											parˈɛʧ																		paɾˈikkjə																													
+MANY_3													bjɛ																													bler	bler	bja	bler													
+MANY_4														boku																																												
+MANY_5																																	ɡʁɑ̃mɛ̃																									bʀaːmɛ̃
+MANY_6																														bɾavamˈeŋ																												
+MANY_7																	majmˈunt																																									
+MANY_8																			trop	trwep																																						
+MANY_9										tant		taːnt			tanc			tˈanto								tˈanʧe	tˈaːnti							tˈaŋti	tˈaŋti	tˈaŋt	tˈaŋt	tˈaŋʧi															tˈanto	tˈantu	tˈaŋti	tˈaŋti	tˈaŋti	
+MANY_10																							iŋmˈuʤʤu	mˈuʤʤu																																		
+MANY_11	mˈultu	mˈunʧo	moɫt	moɫ	moɫt	moɫt	moɫ	moɫt	mwalt							mˈojto		mˈolto			mˈʊɫtʊs	mˈʊɫtʊs						mult				mˈolto							mˈũj̃tu		mult											mˈuʧo						
+MANY_12																			nmˈuje															əŋmˈyʧ				aŋmˈyʧ																				
+MANY_13																																								unmˈownt																		
+MANY_14																																														mˈeða~mˈera	mˈedas											
+MANY_15																														fˈɔɾso																												
+MANY_16																	ʧˈuda																																									
+MANY_17																															mẽj̃nt																											
+MANY_18																									dibˈɛːli																																	
 MOON_1	lˈunə	ʎˈuna	ʎˈuna	ʎˈunə	ʎˈuna	ʎˈunə	ʎˈunɛ	ʎˈuna	lˈojna	lˈuna	lˈuna	lˈuːna	lna	lyn	lˈune	lˈua	lˈuræ	lˈuna	lˈuna	lˈuna	ɫˈuːna	ɫˈuːna	lˈyŋŋa	lˈyŋŋa	lˈyːŋŋa	lˈyna	lˈyna	lˈunə	lˈunə	lˈyno	lỹnə	lˈuna	lœn	lˈyŋa	lˈyŋa	lˈyŋa	lˈyŋa	lˈyŋa	lˈuɐ	lˈowna	lˈunə	ʎˈinə	ʎˈiɲə	ʎˈinə	ʎˈynə	lˈuna	lˈuna	lˈuna	lˈuna	lˈuna	lˈuna	lˈuna	lˈuna	lˈuna	lˈuna	lˈuna	lˈuna~ɰˈuna	lyn
 MOUNTAIN_1	mˈunte	montˈaɲa	muntˈaɲa	muntˈaɲə	muntˈaɲa	muntˈaɲə	muntˈaɲɛ~montˈaɲɛ	muntˈaɲa	mwant	muntˈaɲa	muntˈaɲa	muntˈaːɲa	mɔ̃tˈaɲe	mɔ̃taɲ	mɔnt	montˈaɲa		montˈaɲɲa~mˈonte			moːns	moːns		muntˈaɲa		montˈaɲa	muntˈaɲa	mˈunti	muntˈaɲɲə	muntˈaɲo	mõntˈẽj̃ɲə	mˈonte~montˈaɲa	mɔ̃tɛ̃ɲ	muŋt~muŋtˈaɲa	muŋtˈaɲa	muŋtˈaɲa	muŋtˈaɲa	muŋtˈaːɲa	mõntˈɐɲɐ~mˈõntɨ	mownt~muntˈãɲa	mˈunte	muntˈoɲə	muntˈoɲə		muntˈoɲə	mˈɔnti	mˈonte	muntˈaɲɲa	mˈunti~muntˈaɲɲa	muntˈaɲɲa	muntˈaɲɲa	montˈaɲa	montˈaɲɲa~mˈonte	mˈonte	moŋtˈaɲa	moŋtˈaɲa	moŋtˈaɲa	mɔ̃taɲ
 MOUNTAIN_2																			krˈepa	krəp																																						
@@ -280,6 +300,20 @@ MOUTH_4																												rost
 MOUTH_5													ɡrwɛ̃																																													
 NAME_1	nˈumə	nˈome	nɔm	nɔm	nɔm	nɔm	nɔm	nɔm	nawŋ~nam	nɔm	nom	nɔm	nɔ̃	nɔ̃	nɔŋ	nˈome	lˈume	nˈome	inˈom	inwˈem	nˈoːmɛn	nˈoːmɛn	nˈumme	nˈumme	nˈumme	nɔm	nomm	nˈumi	nˈɔmmə	num	nõm	nˈome	nɔ̃	nɔm	nɔm	nɔm	nɔm	nɔːm	nˈomɨ	nom	nˈume	num	nom	num	nom	nˈɔmini		nˈɔmu	nˈumi	nwˈɔmu~nwˈɔmmu	nˈɔmi	nˈombɾe	nˈome	nˈome	nˈɔme	nˈɔme	nˈɔme	nɔ̃
 NAME_2																																															lˈummene											
+NEAR_1									alˈiʧ																																						akkˈurʦʦu											
+NEAR_2	aprˈo̯ape		apɾˈɔp	əpɾˈɔp	pɾɔp	əpɾˈɔp	apɾˈɔp	pɾɔp					pre	pʁɛ		pɾˈɛto	prˈope				prˈɔpɛ	prˈɔpɛ						prˈo̯api		pɾˈɔʧe	prɛs	prˈɛsso	pʁe								aprˈo̯ape																	tupʀɛ
+NEAR_3																																							pˈɛɾtu																			
+NEAR_4																																													dəʃtrˈuʃ													
+NEAR_5		θˈeɾka														θˈeɾka																																				θˈeɾka						
+NEAR_6												arˈɛjnt																																														
+NEAR_7																																															akˈante											
+NEAR_8																																							pɾˈɔsimu																			
+NEAR_9																			daveʒˈiŋ	dawʒˈiŋ														davzˈiŋ		davzˈiŋ	avzˈiŋ																					
+NEAR_10											vsin	vzejn						viʧˈino					veʒˈiːn	viʒˈin	viʒˈin	izˈi	vizˈiŋ		viʃˈinə~beʃˈinə						vzˈiŋ			vziːŋ		bzẽn						biʒinu		viʧˈinu	vɨʧˈinu	viʧˈinu	viʧˈinu		viʧˈino	viʧˈinu	vizˈiŋ	vezˈiŋ	visˈiŋ	
+NEAR_11										zvɛjn																																																
+NEAR_12																																										dəmənˈajvəl	mənˈevəl	dəmənˈɛjvəl														
+NEAR_13															dˈɔnɟe																																											
+NEAR_14																																												dətjˈer														
 NECK_1	ɡˈuʃe																											ɡˈuʃə																		ʦˈuɣu												
 NECK_2																																									ɡɨt																	
 NECK_3		peskwˈeθo														peskˈɔθo																							pɨʃkˈosu																			
@@ -334,6 +368,12 @@ ROOT_7		raˈiθ			raˈiɫ			raˈiɫ~araˈiɫ	radˈajka	raiːz	radˈis	raˈiːza	
 ROOT_8			arˈɛɫ	ərˈeɫ~reɫ		rɛɫ	arˈeɫ~reɫ												rejʃ				rˈejʒa		rˈɛːjʒe									rɛjs	rɛjz	rɛjs							rɛjʃ															
 ROOT_9															lidrˈiːs																																											
 ROOT_10																																														arrˈeʒini												
+ROUND_1	ɡurɡuʎˈe̯atŭ																											ɡurɡuʎˈat																														
+ROUND_2			reðˈo	ruðˈo	reðˈo	rəðˈo	roðˈo~reðˈo	reðˈo																						ʀedˈuŋ																												
+ROUND_3		redˈondo								rotˈɔnd~tɔnd	tond	ardˈɔnd~rutˈɔnd~tˈɔnd				reðˈondo	tond	rotˈondo~tˈondo			rʊtˈʊndʊs	rʊtˈʊndʊs	rjˈuŋdu	rjˈuŋdu	rjˈuŋdu	rotˈont			tˈunnə~rutˈunnə	ʀund		tˈondo		rutˈuŋd	rutˈuŋd	rutˈuŋd	rutˈuŋd~rjuŋd	rutˈoːŋt	ʁɨðˈõndu	tond	rotˈund					tˈundu	tˈundu	tˈunnu	tˈunnu	tˈunnu	tˈunnu	reðˈonðo	tˈondo	tˈonnu	tˈoŋdo	tˈoŋdo	tˈoŋdo	
+ROUND_4																											redˈuːnt															rədˈunt	rədˈɔnt	rədˈunt	rədwˈɔnt													
+ROUND_5													rjɔ̃	ʁɔ̃	tarˈɔnt				torˈon	turˈont											reˈõnt		ʁɔ̃																									ʀɔ̃
+ROUND_6	arukutˈosŭ																																																									
 SALT_1	sˈare	sal	saɫ	saɫ	saɫ	saɫ	saɫ	saɫ	swal	sɛːl	sal	sɛːl	saː	sɛl	saːl	sal	sˈɒre	sˈale	sɛl	sɛl	saːɫ	saːɫ	saː	saː	soː	sal	sˈaa	sˈari	sˈalə	saw	seːl	sˈale	se	sal	sal	sal	sal	sal	saɫ	seə̯l	sˈare	sal	sal	sal	sal	sˈali	sˈale	sˈali	sˈalɨ	sˈali	sˈali	sal	sˈale	sˈale	sal	sal	sal	se
 SAND_1	arˈinə	aɾˈena	aɾˈena		aɾˈena	əɾˈɛnə	aɾˈenɛ	aɾˈena								aɾˈea					harˈeːna	arˈeːna	ˈɛːŋŋa						rˈena		arˈẽj̃nə	rˈena							ɐɾˈɐjɐ							arˈɛna	rena	rrˈina	rrˈina	ʐˈina	ʐˈina	aɾˈena	rˈena					
 SAND_2									salbwˈoŋ								salbˈun																																									
@@ -349,6 +389,13 @@ SEE_1	vˈedŭ	beɾ	vˈɛwɾe	bˈɛwɾə	bˈoɾe	vˈɛwɾə	bˈɛwɾe	bˈoɾe	ve
 SEE_2															vjˈɔdi																																											
 SEE_3																				udˈəj																																						
 SEE_4																																					sʧarˈɛ																					
+SEED_1	simˈinʦə	simjˈente							semjˈanʦ	semˈɛjnsa	smɛnt	smˈɛjnsa~smˈɛjnta			semˈɛnʧe	semˈente	semˈinʦæ	semˈente	səmˈenʦa	sumˈənʦa					semˈɛːŋʦa	sˈomesa	sumˈenʦa	simˈinʦə	səmmˈɛntə~səmmˈɛnʦə		sẽmˈãnʦə	semˈenʦa		smɛns	smenz	smɛns	smɛns	samnˈɛ	sɨmˈẽntɨ	smˈẽnta	səmˈɨnʦə							simˈɛnʦa	simˈɛnʦa	simjˈɛnʦa	simˈɛnʦa	semˈiʎa			semˈɛŋθa			
+SEED_2																		sˈeme			sˈeːmɛn	sˈeːmɛn	sˈemme	sˈemi								sˈeme										sem	sem	sem	sem	sˈɛmmini	sˈemmene						sˈeme	sˈeme		sem	sˈeme~sˈema	
+SEED_3			ʎavˈoɾ	ʎəβˈo	ʎaβˈoɾ	ʎəvˈo	ʎaβˈo~ʎaˈo	ʎaβˈoɾ																																																		
+SEED_4													ɡrˈãna	ɡʁɛn																ɡɾˈano			ɡʁɛ̃n																									ɡʀɛ̃n
+SHORT_1																					brˈɛwɪs	brˈɛvɪs																																				
+SHORT_2	skˈurtu	kˈuɾtjo~kˈoɾto	kuɾt	kuɾt	kuɾt	kuɾt	kuɾt~kuɾ	kuɾt	kwart	kurt	kurt	kuːrt	ko	kuʁ	kurt	kˈuɾto	skurt	kˈorto	kurt	kurt			kˈurtu	kˈyrtu	kˈyrtu	kørt	kyːrt		kˈurtə	kuɾt	kort	kˈorto	kuʁ	kyrt	kyrt	kyrt	kyrt	kørt	kˈuɾtu	kurt	skurt	kurt	kurt	kwort	kwort	krˈuʦʦu	kˈurʦu	kˈuɾtu	kˈuttu	kˈuɾtu	kˈuɾtu	kˈoɾto	kˈorto	kˈurtu	kurt	kurt	kˈurto	kuːʀ
+SHORT_3																												kus																														
 SIT_1																			ˈesersentˈa~ˈesersentˈaʒˈu	vˈeʃtərsəntˈa																																						
 SIT_2					estˈaɾasentˈat										staːsentˈaːt																								iʃtˈaɾsẽntˈaðu													estˈaɾsentˈaðo					stˈarseŋtˈa	
 SIT_3																													stˈaassəttˈatə																													
@@ -442,6 +489,14 @@ THAT_3																		kwˈello					kwˈɛlulˈi	kwˈɛllu	kwˈɛːllu				kˈil
 THAT_4		ˈesi	ˈejʃe		ˈejʃe			ˈejʃe								ˈese					ˈɪllɛ~ˈɪstɛ	ˈɪllɛ~ˈɪstɛ																	ˈesɨ													ˈese						
 THAT_5													ʃotjɛ																																													
 THAT_6																																											ˈawtər															
+THIN_1										mˈɛɡer	mˈaɡar																																															
+THIN_2			pɾim	pɾim	pɾim	pɾim	pɾim	pɾim					prɛ̃																																													
+THIN_3		fˈino	fi	fi	fi	fi	fi	finˈet					fɛ̃	fɛ̃	fiŋ	fˈino										fi			fˈinə	fiŋ			fɛ̃		fiŋ	fiŋ		fiːŋ	fˈinu			fin	feɲ	fin	fin	fˈini		fˈinu	fˈinu	fˈinu	fˈinu	fˈino	fˈino	fˈinu	fiŋ	fiŋ	fiŋ	
+THIN_4																					tˈɛnʊɪs	tˈɛnwɪs									tˈɛ̃nvə																											tɛn
+THIN_5																												slap																														
+THIN_6																																															lˈanʒu											
+THIN_7	supʦˈɨre																supʦˈire																								subʦˈire																	
+THIN_8												sutˈiːl			sutˈiːl			sottˈile	sotˈil	sutˈil			sutˈiː	suttˈi	sɛːtˈi		setˈii					sottˈile		sytˈil	sytˈil	sytˈil	sytˈil	sutˈiːl		stil				satˈel	ʃtiʎ												sotˈil	
 THIS_1																					hɪk	ɪk																				kwɛl	ɕel	kwel														
 THIS_2	aˈestu	ˈesti	ˈeste	əkˈɛt~əkˈɛst	ˈeste	əkˈɛt	akˈet	ˈeste	kost	kwɛst	kwest	kɔst			kɛst	ˈeste	ʧˈesta	kwˈesto	keʃt	kəʃt				kwˈɛstu	kwˈɛːstu	kˈɛsto		ʦˈista	kˈistə	akˈest~akˈeste	ʦist	kwˈesto		kust	kust	kust	kust		ˈeʃtɨ	kwest	aʧˈest				kwist	kˈustu	kˈustu	kˈistu	kˈistu	kˈistu	kˈistu	ˈeste	kwˈesto	tˈistu	kwˈesto	sto	kwˈesto~sto	
 THIS_3														səsi									stˈukˈi										ʃʃi					kuskˈiː																				sysi~sytsi
@@ -498,6 +553,13 @@ WOMAN_2			dˈɔna	dˈɔnə	dˈɔna	dˈɔnə	dˈɔnɛ	dˈɔna		dˈɔna	dˈɔna	d�
 WOMAN_3													fˈɛna	fam	fˈɛmine				fˈemena			fˈeːmɪna				fˈɛnne			fˈɛmmənə~fˈemmənə	fˈemo~fˈumo	fˈãmə	fˈemmina	fœm	fˈumna	fˈumna	fˈumna					femˈeje	fˈɛmnə	fˈɛmnə	fˈɛmnə		fˈɛmmina	ˈemmina	fˈimmina	fˈimmɨna	fˈimmina	fˈimmina			fˈemmina	fˈemena	fˈemena		fam
 WOMAN_4																				ˈəjla																																						
 WOMAN_5																	ʒˈenskæ																																									
+WORM_1			kuk	kuk	kuk	kuk	kuk	kuk		beːɡ		bɛjɡ																																									bˈako		but			
+WORM_2		meɾˈuko																																																								
+WORM_3	ʑˈermu								vjarm		vɛrm		ve	vɛʁ	vjɛr	bˈɛɾme	ɣʎˈermu~ʎˈermu	vˈɛrme	verm	jərm	wˈɛrmɪs	vˈɛrmɪs	vˈɛrme	vˈeːrme	vˈɛːrmu	ˈɛrem	vermˈɛn	ɟˈarmi	vˈɛrmə	vˈɛɾme	vɛrm	vˈɛrmo	vɛʁ	vɛrm	vɛrm	vɛrm	vɛrm	vɛrm	vˈɛɾmɨ	vˈeːrman	vjˈerme	vɛrm	vɛrm	vjɛrm	vɛrm		ˈerme	vˈɛɾmi~vˈɛɾmu	vˈɛɾmi	vjˈɛɾmu~vjˈɛɾmi	vˈɛɾmi			vˈɛrme		vˈɛrmen	vˈɛrme	vjeːʀ
+WORM_4																																									rˈɨmə																	
+WORM_5																																														brˈɛmmini												
+WORM_6																																																				lombɾˈiθ						
+WORM_7																																							miɲˈɔkɐ																			
 YEAR_1	ˈanŭ	ˈaɲo	aɲ	aɲ	aɲ	aɲ	aɲ	aɲ	jajŋ	an	an	aːn	ã	ɑ̃~ane	an	ˈano	ɒn	ˈanno	an	an	ˈannʊs	ˈannʊs	ˈannu	ˈannu	ˈannu	an	ann	an	ˈannə		ãn~ãnˈeːə	ˈanno	ɛ̃ne	an	an	an	ˈani~aŋ	aŋ	ˈɐnu	an	an	ɔn	ɔn	ɔn	on	ˈannu	ˈannu	ˈannu	ˈannu	ˈannu	ˈannu	ˈaɲo	ˈanno	annu	an	an	ˈano	ã~aneːj
 YEAR_2																														annˈado																												
 YELLOW_1			ɡɾɔk	ɡɾɔk	ɡɾɔk	ɡɾɔk	ɡɾɔk	ɡɾɔk																																						ɡrˈoɣu	ɡrˈoɡu											

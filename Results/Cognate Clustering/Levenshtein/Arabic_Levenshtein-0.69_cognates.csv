@@ -1,5 +1,10 @@
 	Chadian Arabic	Cypriot Arabic	Dhofari Arabic	Egyptian Arabic	Gulf Arabic	Hassaniya Arabic	Iraqi Arabic	Levantine Arabic	Maltese	Modern Standard Arabic	Moroccan Arabic	Najdi Arabic	North Mesopotamian Arabic	Sanaani Arabic	Sudanese Arabic	Tunisian Arabic
+ALL_1	kulla	kull	kull	kɔll	kɛll		kull	kɛll	kʊll	kull	kul	kɛll	kill	kull	kull	kul
+ALL_2						kaːməl~kaːmliːn				kaːmil~ʤamiːʕ		ʤəmiːʕ	kaːməl	ɡʲaːmiʕ		
 ASH_1	rumaːd	rmat	riːd	rɑmɑːd	rmɑːd	rmɑːd	rmˤɑːd	rimɛːd	rmɪːt	rɑmaːd	rmɑdˤ	rɛmɑːd	ɣɑmɑːd	rɑmaːd	rˤɑmɑːdˤ	rmaːd
+BACK_1						ɡfa	ɡufˤɑ	ʔɑfɑ		qufaː				ɢafaː		
+BACK_2						lluːrɑ					llur					
+BACK_3	dahr	ðɑxr	ðˤɑhɑr	dɑhr	ðˤɑhɛr	ðˤhər	ðˤɑhɑr	dɑhr	dɐːr	ðˤahar	dˤhər	ðˤɑhɑr	ðˤɑhɛɣ	ðˤɑhr	dˤɑhr	ðˤhɑr
 BARK_1	ɡirf									qilf					ɢirf	
 BARK_2			qiʃara			ɡuʃra		ʔɛʃri	ʔɔʃrɐ		qəʃrˤa		qiʃiɣ	ɢiʃrih	ɢiʃrɑ	qiʃra
 BARK_3					ħɛtˤɑb							ħatˤɑb				
@@ -41,7 +46,15 @@ COME_1				ɡɛ										ɡʲɛːʔ
 COME_2					jɑ		ʔʤɑː	ɛʒɑ								
 COME_3		ʒa	ɡaː			ʒa					ʒa				ɡʲa	ʒaː
 COME_4	ʤaː								ʤɪː	ʤaːʔa		ʤa	ʤiː			
+COUNT_1					ħɛsˤɑ					ʔaħsˤɑː						
+COUNT_2		ʕadd		ʕ̞add	ʕadd	ʕədd	ʢadd	ʕadd		ʕadda		ʕadd	ʕʌdd	ʕadd	ʕadd	
+COUNT_3	hasab		ħsaːb			ħsəb	ʜɛsab			ħasiba	ħsəb	ħasab	ħasab	ħasab	ħasab	ħsib
+COUNT_4									ɐːt							
 DIE_1	maːt	mat	maːt	maːt	mɑːt	maːt	mɑːt	maːt	mɪːt	maːta	mat	maːt	mɑːt	mɑːt	mɑːt	maːt
+DIRTY_1	wasix			wɛsɛx	wasˤəx	mˤmˤʷassəx	wasˤix	wɛsɛx		wasix	mmʷssəx		wisˤix	wasiχ	wasχaːn~wasiχ	mmassix
+DIRTY_2							naɡɛs			naʤas						
+DIRTY_3			ħatak~ʃaxal													
+DIRTY_4		mʌʕaθθi														
 DOG_1	kɛlib	kilp	kɛlb	kalb	ʧalb	kʌlb	ʧalɛb	kalb	kɛlp	kalb	kəlb	ʦalb~kalb	kalib	kalb	kalib	kalb
 DRINK_1	ʃɛrɛb	ʃirɛp	ʃraːb	ʃɛrɛb	ʃɛrɛb	ʃrəb	ʃɛrab	ʃɛrɛb	ʃɔrɔp	ʃariba	ʃrəb	ʃɛrɛb	ʃiɣib	ʃirib	ʃɛrɛb	ʃrab
 DRY_1				naːʃɛf	nɑːʃɛf		nɑːʃɛf	nɛːʃɛf	nɪːʃɛf			naːʃɛf	niːʃif	naːʃif	nɑːʃif	
@@ -59,6 +72,10 @@ EGG_1	bɛːda		bɛːðˤa	bɛːdˤɑ	bɛːðˤa	bajðˤɑ	bɪe̯ðˤɑ	bɑjdˤɑ
 EGG_2		pɛð														
 EGG_3																ʕaðˤma
 EYE_1	ʔɛːn	ʕɑjn	ʕɛːn	ʕ̞ɛːn	ʕɛːn	ʕʌjn	ʢɛːn	ʕɑjn	ɐːjn	ʕajn	ʕin	ʕɛːn	ʕɛɛn	ʕajn	ʕajn	ʕiːn
+FALL_1	waɡaː			wɛʔɛʕ̞	wuɡaʕ		wuɡaʢ	wɑʔɑʕ	wɐʔɐ						waɢaʕ	
+FALL_2			sqɑːtˤ							saqɑta~waqɑʕa						
+FALL_3		vɑkʕɑ	tˤɑːħ		tˤɑːħ	tˤɑːħ					tˤɑħ	tˤɑːħ		tˤɑːħ		tˤaːħ
+FALL_4													ʃʌqləb			
 FAR_1	bɛʔiːd	pɛʕiːt	baʕuːd	bɛʕ̞iːd	baʕiːd	bʕiːd	bʢiːd	bɛʕiːd		baʕiːd	bʕid	baʕiːd	bʕiːd	biʕiːd	baʕiːd	bʕiːd
 FAR_2									bɛjt							
 FAT (ORGANIC SUBSTANCE)_1			maʃaħ	ʃaħm	ʃaħam	ʃħam	dasam~ʃaʜam	ʃaħm	ʃɐħɐm	ʃaħm	ʃħɛm	ʃaħm	ʃəħim	ʃaħm	ʃaħm	ʃħam
@@ -75,12 +92,20 @@ FIRE_4		ɔkit
 FISH_1	huːt					ħuːt			ħʊːtɐ	ħuːt	ħutɑ			ħuːtih		ħuːta
 FISH_2			sˤɛːd							sˤɑjd				sˤɑjd		
 FISH_3			samaka	samaka	smiʧɑ		sɛmʧa	sɛmkɛ		samaka		samakah	sʌmʌki	samakih	samaka	
+FIVE_1	xamsa	xampsɛ	xumsa	xamsa	xamsɑ	xʌmsa	xumˤsɑ	xɑmsɛ	ħɐmsɐ	xamsa	xəmsɑ	xams	xʌmsi	χamsih	χamsɑ	xamsa
+FLOWER_1	nuwaːr					nəwwɑːr					nuwwɑrˤɑ				nɑwwɑːr	nawwaːra
+FLOWER_2			warada	warda			warɛd~warda			ward			wʌɣdaːji			
+FLOWER_3			zɑhɑrɑ		zahra			zɑhrɑ		zahrɑ		zahrah		zahrah	zahra	
+FLOWER_4									fjʊːrɐ							
+FLOWER_5		vɑrte														
 FLY (MOVE THROUGH AIR)_1	taːr		tˤaːr	tˤɑːr	tˤɑːr	tˤɑːr	tˤɑːr	tˤɑːr	tɐːr	tˤɑːra	tˤɑr	tˤaːr	tˤɑɣ	tˤɑːr	tˤɑːr	tɑːr
 FOOT_1	riʤl			rɛɡl	riːl	rʒəl	rɛʤɛl			riʤl	rʒəl	riʤil	ɣiʤil	riɡʲl	rɛɡʲl	
 FOOT_2		iʒr						ɛʒr								
 FOOT_3	kuraː					kraːʕ									kurɑːʕ	
 FOOT_4			qadam		ʤadam					qɑdam				ɢadam		
 FOOT_5									sɪːʔ							saːq
+FOUR_1	arba	arpʌʕa	arbaʕa	ɑrbɑʕ̞ɑ	ʔɑrbɑʕa	ʌrbʕa	ɑrbʢɑ	ʔɑrbʕɑ	ɛrbɐ	ʔarbaʕa	rˤəbʕa	ʔarbaʕ		ʔɑrbɑʕɑh	ɑrbɑʕɑ	rbʕaː
+FOUR_2													uːbaʕ			
 FULL_1										kaːmil	ʕamər		kaːməl	kaːmil		
 FULL_2			mʕabbiː					mʕabbɛː								mʕɛbbi
 FULL_3										mumtaliʔ		məntɛli				
@@ -94,6 +119,12 @@ GOOD_2								mniːħ					mliːħ
 GOOD_3	zɛːn		zɛːn		zɛːn	zajn	zɪe̯n				məzjan	zɪe̯n				
 GOOD_4		taɛp		kwajjɛs				tˤɑjjɪb	tɐjjɛp	tˤɑjjib				kwajjis	kuwajjis	
 GOOD_5																baːhi
+GRASS_1		ʃxex														
+GRASS_2		tʃɛʕiːr														
+GRASS_3			ħaʃiːʃ		ʕɛʃɛb~ħaʃiːʃ		ʢɛʃɛb	ħaʃiːʃ~ʕɔʃb	ħɐʃiːʃ	ʕuʃb~ħaʃiːʃ		ʕɛʃb	ħʌʃiːʃ	ħaʃiːʃ~ʕuʃb	ɢaʃʃ	ħʃiːʃ
+GRASS_4	ɡɛʃ															
+GRASS_5				nɛɡiːla											naʤiːla	
+GRASS_6					rɑbiːʕ	rbiːʕa					rbiʕ	rabiːʕ				
 GREEN_1	ʔaxadar	xɔðɛr	xðɑːr	ɑɣdɑr	xɑðˤɑrˤ		ʔɑxðˤɑr	ʔɑxdˤɑr	ɐħdɐr	ʔaxdˤɑr	xdˤər	xɑðˤɑrˤ	ʌxðˤɑɣ	ʔaχðˤɑr	ɑχdˤɑr	axdˤir
 GREEN_2						ʌxðˤɑr nɛʕnaːʕ										
 HAIR_1	ʃaʔur	ʃaʕar	ʃaʕar	ʃɑʕ̞r	ʃaʕar	ʃʌʕra	ʃaʢar	ʃɑʕɛr	ʃɐːr	ʃaʕr	ʃəʕrɑ	ʃaʕar		ʃaʕr	ʃɑʕr	ʃʕɑr
@@ -107,6 +138,13 @@ HEAR_1	sɛmiː	simʕe	smaːʕ	sɛmɛʕ̞	sɛmaʕ	smʌʕ	sɛmaʢ	sɑmɑʕ	sɛmɐ	
 HEART_1							fˤfˤɑːd			fuʔaːd			ffɑːd			
 HEART_2	ɡɛlb	kɑlp	qɑlb	ʔalb	ɡalˤb	ɡʌlb	ɡalˤubˤ	ʔalb	ʔɐlp	qɑlb	qəlb	ɡalˤb	qʌlib	ɢalb	ɢalb	qalb
 HEAVY_1	tɑɡiːl	θkiːl	θiqiːl	tɛʔiːl	θaɡiːl	əθ̬ɡiːl	θɛɡiːl	tʔiːl	tʔiːl	θaqiːl	tqil	θaɡiːl	θʌqiːl	θaɢiːl	tɑɢiːl	θqiːl
+HOLD_1						krəd					rfəd					
+HOLD_2		pisek	masak	mɛsɛk						masika		mɛsak	misik		misik	
+HOLD_3					lɛzam		lɛzam		zɐmm					lazam		
+HOLD_4						ħkam			ħɐː							
+HOLD_5																ʃad
+HOLD_6			qbaːðˤ									ɡabɑðˤ				
+HOLD_7	karab							kamaʃ		ʔaxaða						
 HORN (ANATOMY)_1	ɡurn		qaran	ʔɑrn	ɡɑrn	ɡʌrˤn	ɡɛrɛn	ʔɑrn	ʔɐrn	qɑrn	qərn	ɡarn~ʣarn	qʌɣin	ɢarn	ɢɑrn	ɡarn
 I_1	ana	ana	aːnaː	ana~dana	ɑːna	aːna	ʔɑːniː	ʔɑnɑ~ʔana		ʔanaː	anɑ~anajɑ	ana	anɑː	ʔanɛ	ana	ɛːnɛ~aːna
 I_2									jɪːn							
@@ -120,6 +158,9 @@ KNOW (SOMETHING)_2			diraː		dɛrɑ		dɛrɑ	dɛri		darɑ		dara		dɛri
 KNOW (SOMETHING)_3										ʕalima				ʕilim		
 KNOW (SOMETHING)_4	ʔarɛf	ʕirɛf	ʕrɑːf	ʕ̞ɛrɛf	ʕɛrɑf	ʕrɑf	ʢɛrɑf	ʕarɛf~ʕɛrɛf		ʕarifa	ʕrəf	ʕarif	ʕiɣif	ʕirif	ʕirif	ʕraf
 KNOW (SOMETHING)_5									jɐːf							
+LAUGH_1			kɑrkɑr	karkaʕ̞			kɑrkɑr				kakɑ					
+LAUGH_2		taxak	ðˤħaːk	daħak	ðˤɛħaʧ	ðˤħʌk	ðˤɛʜak	dˤɑħɑk	dɐħɐk	dˤɑħika	dˤħak	ðˤaħʦ~ðˤaħak	ðˤiħik	ðˤiħik	daħik	ðˤħak
+LAUGH_3	dɛhɛk															
 LEAF_1	warʃaːl~warɡa	varka			wruɡa	warˤɡa	warɡa	wɑrʔɑ	wɛrʔɐ	waraqɑ	wərˤqɑ	waraɡah	waɣʌqɑ	waraɢih	waraɢa	warqa
 LEAF_2				waraʔɛt ʃɑɡɑr												
 LEAF_3			ħuːsˤɑ													
@@ -146,6 +187,13 @@ LOUSE_3	ɡɛmɛl
 LOUSE_4			ʃniːt													
 MAN_1	raʤul~raːʤil		riɡɡiːl~riɡɡaːl	rɑːɡɛl	rajjɑːl	rɑːʒəl	rɛʤʤɑːl	rɛʒʒaːl	rɐːʤɛl	rɑʤul	rˤaːʒəl	raʤʤaːl	ɣiʤiːl	raɡʲɡʲaːl	rɑːɡʲil	raːʒil
 MAN_2		intsan														
+MANY_1						jaːsər										
+MANY_2														zijaːdih		
+MANY_3			waːɡid									waːʤid				
+MANY_4	katiːr	xtiːr	kiθiːr	kɛtiːr				ktiːr		kaθiːr		kəθiːr	ksiːɣ		katiːr	
+MANY_5											bəzzaf					barʃa
+MANY_6					wɑːjɛd		hwɑːja									
+MANY_7														χɑjrɑːt		
 MEAT_1	lɛham	laxm	laħam	laħma	laħam	lħʌm	laʜam	lɑħm	lɐħɐm	laħm	lħam	laħam	laħim	laħm	laħm	lħam
 MOON_1	ɡamar	kamar	qmaːr	ʔɑmɑr	ɡumɑr	qʌmʌrˤ~ɡamrˤa	ɡumɑr	ʔɑmɑr	ʔɐmɐr	qɑmɑr	qəmr	ɡumɑr~ɡɛmar	qʌmʌɣ	ɢamɑr	ɢɑmɑr	ɡamra
 MOUNTAIN_1						kədja			ɔːljɐ							
@@ -159,6 +207,13 @@ MOUTH_3			θɔːm		θamm	vˤumm		tɛmm	fɔmm	famm	fumm	θɛmm~famm	θimm	fumm		f
 MOUTH_4	xaʃɛm	xank		ħanak	ħalʤ		ʜalɛɡ		ħɐlʔ			ħalɡ			χaʃm	
 NAME_1	ʔusm	ism	ism	ɛsm	asɛm	ism	ɛsm	ʔɛsɛm	ɪsɛm	ʔism		ɛsm	isim	ʔism	ism	ism
 NAME_2											səm				sammu	
+NEAR_1						ħða										ħðɛː
+NEAR_2								ħadd			ħdɑ					
+NEAR_3									ħdɛjn							
+NEAR_4				ʔɔrɑjjɛb		ɡrʌjjəb										
+NEAR_5	ɡariːb		qurb~qɑriːb		ɡarˤiːb		qɑrˤiːb	ʔariːb	ʔriːp	qɑriːb~biqurb	qrib	ʣəriːb	qʌɣiːb	ɢariːb	ɢariːb	qriːb
+NEAR_6				ɡamb	jamm		jamm						jʌmm	ɡʲamb		
+NEAR_7		ʒump														
 NECK_1	rɛɡaba	raɣbe	raqba	raʔaba	rɡuba	raɡba	ruɡbɑ	rɑʔbɛ		raqaba				raɢabih~ruɢbih	raɢaba	raqbaː
 NECK_2												ʕɛlba				
 NECK_3													ɣʌqqabi			
@@ -175,6 +230,11 @@ NOSE_5										ʔanf
 NOT_1			lɔːb~lɑː		mɔːb		mɑ~lɑː	mɑ					mɒː	lɑː		
 NOT_2		la			laː	laː				laː~lam~lan		la				
 NOT_3	maː	ma~maj	maː	mɛʃ~mɔʃ~ma   ʃ	mu~ma	maː~maːhu	muː	mɛʃ~mu	mʊːʃ	maː	maʃi~ma   ʃ	muː~ma		maːʃ~ma   ʃ	ma~muʃ	muːʃ~ma   ʃ
+OLD_1	ʃɛːb		ʃɛːb				ʃaːjɛb	ʃɛjb	ʃɪːħ	ʃajb~ʃajx		ʃaːjɛb	ʃiːb			
+OLD_2				ʕ̞aɡuːz						ʕaʤuːz				ʕaɡʲuːz	ʕaɡʲuːz	
+OLD_3		ʕɑtiːk					ʢatiːɡ	ʕatiːʔ		ʕatiːq			ʕʌtiːq		ʕatˤiːɢ	
+OLD_4					kabiːrˤ	kbiːr					kbir			kabiːr		kbiːr
+OLD_5	ɡɛdiːm		qɑdiːm	ʔadiːm	qɑdiːm		qɑdiːm	ʔadiːm	ʔɐdiːm	qɑdiːm	qdim	ɡədiːm	qʌdiːm	ɢadiːm	ɢadiːm	qdiːm
 ONE_1		ɛxɛn~ɛxtɛ														
 ONE_2	waːhid~wahdɛ		waːħad~waːħada	waːħɛd~waħda	wɑːħɛd~wɛħdɛ	waːħid~waħda	wɑʜɛd~wɛʜdɛ	wɑːħɑd~wɑħdɛ	wɪːħɛt	waːħid~waːħida	waħɛd~wɛħdɑ~wɛħdin	waːħid~wɛħdɛ	wiːħəd~wiħdi	waːħid~waːħidih	wɑːħɛd~wɛħdɛ	waːħid~wɛːħda
 PERSON_1				ʃɑxsˤ				ʃaxsˤ		ʃɑxsˤ		ʃaxɛs				ʃɑxsˤ
@@ -194,6 +254,12 @@ ROOT_1	ʔiriɡ				ʕirʤ	ʕɛrɡ	ʢɛrɛɡ	ʃɛrʃ	ɛːrʔ	ʕirq			ʕiriq		ʕɛr
 ROOT_2			ɡiðar	ɡɛdr										ɡʲiðr	ɡʲazr	
 ROOT_3					ʤaðɛr					ʤaðr		ʤaðɛr	ʤʌðiɣ			
 ROOT_4											ʒdər					
+ROPE_1	habil		ħbaːl	ħabl	ħabɛl	ħbʌl	ʜabɛl	ħabl	ħɐbɛl	ħabl	ħbəl	ħabɛl	ħabil	ħabl	ħabl	ħbal
+ROPE_2		xɑpl														
+ROUND_1	mudawwar			mɛdɑwwɑr	mdawwɑr		mdawwar	mdɔwwɛr			mdˤuwwər	mdawwɑr	mdawwiɣ	mdawwɑr~mukawwɑr	mudˤawwɑr	mdawwir
+ROUND_2										mustadiːr						
+ROUND_3						mzʌɡnən										
+ROUND_4		strɔnʤili														
 SALT_1	mɛlh	milx	milħ	malħ	mɛlħ	məlħ	mɛlɛʜ	malħ	mɛlħ	milħ	məlħ	mɛlħ	miliħ	milħ	milħ	milħ
 SAND_1	ramla		rɑmɑl	rɑmlɑ	rˤɑmɛl		rɑmulˤ	rɑml	rɐmɛl	raml	rəmlɑ	rˤɑməl	ɣɑməl	rɑml	rɑmlɑ	rmal
 SAND_2						traːb										
@@ -204,6 +270,23 @@ SEE_2		ra							rɐː	rɑʔaː						raː
 SEE_3						rˤaːʕi v										
 SEE_4													ɣiʃiʕ			
 SEE_5														ʔibsɑr		
+SEED_1				taʔaːwi											tɑɢɑːwi	
+SEED_2							ʜabba			ħabba		ʕaʤmah	ħʌbb	ħabbih		
+SEED_3													ʕəʤɔ			
+SEED_4	bizrɛ	pizr	biðara	bɛzr	bazir		bazra~bɑðrɑ	bɛzr		biðra~bizr			baziɣ	baðarih	bazr	
+SEED_5					bɑdɑr											
+SEED_6									zɛrrɪːjɐ	zarʕ	zərriʕa					zurriːʕa
+SEED_7	tɛːraːb														tirɑːb	
+SEED_8						ʒəɡraːʒ										
+SEW_1		ʃall			ʃall	ʃəll								ʃall		
+SEW_2	xajjat		xɛːtˤ	xɑjjɑtˤ	xɑːtˤ	xʌjjɑtˤ	xɑjjɑtˤ	xɑjjɛt		xɑːtˤa	xəjjətˤ	xɑːtˤ	xʌjjitˤ	χɑjjɑtˤ	χɑjjɑtˤ	xɑjjitˤ
+SEW_3									ħɪːt							
+SHARP_1	mutarraɡ					mtˤarˤrˤaɡ										
+SHARP_2					ħaːdd	ħaːdd	ʜaːdd	ħaːdd		ħaːdd			ħaːdd	ħaːdd	ħaːdd	
+SHARP_3				ħaːmi		maːðˤi			ʔɐwwɪ		mɑdˤi					mɑːdˤi
+SHORT_1			qasˤʕuːr~qasˤiːr		ɡasˤiːr			ʔsiːr	ʔɐsiːr	qɑsˤiːr	qsˤirˤ	ɡəsˤiːr		ɢasˤiːr		qsˤiːr
+SHORT_2	ɡisɑjjɑr			ʔɔsɑjjɑr		ɡsˤajjər	ɡsˤɑjjɛrˤ						qʌsˤijjəɣ		ɢusˤɑjjɑr	
+SHORT_3		xmiːn														
 SIT_1			ɡlaːs		jɛlas					ʤalasa	ɡləs			ɡʲalas		
 SIT_2													nɛbɛsˤ			
 SIT_3	ɡaʔad	kaʕa		aʕ̞ad	ɡɛʕad	ɡʕʌd	ɡɛʢad	ʔɑʕɑd		qaʕada		ɡaʕad			ɢaʕad	qʕad
@@ -211,6 +294,8 @@ SIT_4									ʔɐːt
 SIT_5													bəʧɛx			
 SKIN (HUMAN)_1					baʃara			baʃara		baʃarɑ				baʃarih		
 SKIN (HUMAN)_2	ʤild		ɡild	ɡɛld	jɛld	ʒəll	ʤɛlɛd	ʒɛld	ʤɪldɐ	ʤild	ʒəld	ʤɛld	ʤilid	ɡʲild	ɡʲɛld	ʒilda
+SKY_1				dɛnja			dɛnjɑ									
+SKY_2	sama	sama	smaː	sama	sama	sma	sɛma	samɑ	sɛmɐ	samaːʔ	smɑ	sɛma	sama	samɛːʔ	sama	smaː
 SLEEP_1	rɛɡɛd				raɡad	rɡəd			rɐʔɐt	raqɑda				raɢad		rqad
 SLEEP_2	naːm	nam	naːm	naːm	nɑːm		nɑːm	naːm		naːma	nʕas	naːm	nɑːm		nɑːm	
 SMALL_1	saxajjar			sɔɣɑjjɑr		sqajjər~sɣajjər	zɣɑjjɛrˤ						əsˤɣɑjjəɣ		suɣɑjjɑr	
@@ -232,6 +317,9 @@ STONE_1							sˤɑxrɑ			sˤɑxɑr				sˤɑχr
 STONE_2	haʤaraːj	xaʒra	ħaɡaːra	ħɑɡɑrɑ	ħijɑr	ħʌʒra	ʜʤɑːrˤa	ħɑʒrɑ		ħaʤɑrɑ	ħəʒra	ħaʤɑr	ħʌʤɑɣ	ħiɡʲɑːrɑh	ħɑɡʲɑr	ħɑʒrɑ
 STONE_3							sˤalˤbuːx					sˤəlˤbuːx				
 STONE_4									ʤɛblɐ							
+SUCK_1	mass	mɑss		mɑsˤsˤ	mɑsˤsˤ	mʌsˤsˤ	mɑsˤmɑsˤ~mɑsˤsˤ	mɑsˤsˤ~mɑʔʔ		mɑsˤsˤ	məsˤsˤ	mɑsˤsˤ	mɑsˤ	mɑsˤmɑsˤ~mɑsˤsˤ	mɑsˤsˤ	
+SUCK_2			rðˤaːʕ			rðˤaʕ										rðˤaʕ
+SUCK_3	radiː								rɛdɐ	rɑdˤiʕa						
 SUN_1	ʃams	ʃimps	ʃims	ʃams	ʃams	ʃams	ʃamɛs	ʃams	ʃɛmʃ	ʃams	ʃəmʃ	ʃams	ʃamis	ʃams	ʃams	samʃ~ʃams
 SWIM_1			sbaːħ				sɛbaʜ	sɛbɛħ		sabaħa		sɛbɛħ	sibiħ	sabaħ		
 SWIM_2			ʕaːm	ʕ̞aːm	ʕaːm	ʕaːm			ɐːm	ʕaːm	ʕam			ʕaːm	ʕaːm	ʕaːm
@@ -251,12 +339,43 @@ THAT_2										ðaːlika~tilka~tiːka
 THAT_3														ðˤɑjjik~tajjik		
 THAT_4	daːk~diːk	aðak~aðik	haːðaːk~haːðiːk		haðɑːk~haːðiːʧ	ðaːk~ðiːk	ðɑːkɑ	hajdiːk~hiːdɛːk			hadak~dak~hadik~dik	ðaːk~ðiːk	hʌðɛːk~hʌðiːk		daːk~dɛːk	haːðaːka~haːðiːka
 THAT_5							ðɪe̯ʧɛ									
+THEY_1		innɛn											immɛ			
+THEY_2	hinna		hɛːn		hɛn		hɛnˤnˤ	hɛnnɛː		hunna		hənn		hɛn	hun	
+THEY_3	human		hum	hɔmma	hum	huːmˤɑ~huːmaːti	humˤmˤɑ		ʊːmɐ	hum	humɑ	humm		hɔm	hum	huːma
+THICK_1			ɣliːðˤ			ɣliːðˤ~qliːðˤ				ɣɑliːðˤ	ɣlidˤ					xʃiːn~ɣliːðˤ
+THICK_2	samiːn		matiːn	tɛxiːn	mɛtiːn		θəxiːn	smiːk~ətxiːn		θaxiːn~samiːk		matɪe̯n	θʌxiːn	matiːn	tɑχiːn	
+THICK_3		ʕɑpi														
+THICK_4									ɔħʃɔn							
+THIN_1				rɔfɑjjɑʕ̞		rɡɛjjəɡ									riɢɛjjiɢ	
+THIN_2				nɛħiːf	ðˤʕiːf			nɑħiːf		naħiːf	nħif	ðˤəʕiːf		naħiːf	naħiːf	ðˤʕiːf
+THIN_3		θkiːk														
+THIN_4			ɡaʃuːf													
+THIN_5	bɑːtil		ħatˤiːtˤ													
+THIN_6						rɡiːɡ						dəɡiːɡ				
+THIN_7							rɛfiːʢ	rʔiːʔ	rʔɪːʔ	rɑqiːq~rafiːʕ	rqiq		ɣʌqiːq	rafiːʕ		
+THIN_8					dɛʤiːʤ											
+THINK_1						txʌmməm					xəmməm					xamməm
+THINK_2	dɑnn			zˤɑnn	ðˤɑnn		ðˤɑnn			ðˤɑnna		ðˤɑnn		ðˤɑnn	zˤɑnn	
+THINK_3		ftaɛn					tfɑtˤtˤan									
+THINK_4	fɛkɛr		fakkar	fɑkkɑr	fakkir		fakkɛr	fakkɛr		fakkara		fɛkɛr	fakkar	fakkar		fakkir
+THINK_5							ʢtɛqɑd	ʕtɑʔɑd		ʔiʕtaqɑda						
+THINK_6									ħɐsɛp	ħasiba						
 THIS_1														ðˤɑjjɑːh~tajjih		
 THIS_2	daː~diː			da~di					dɐːn~diːn						da~dɛ	
 THIS_3						ðɑ~ði						ða~ði				
 THIS_4		aða~aðiː	haːðiː		hɑːða~hɑːði		hɑːðɑ~hiːaːtaː	hajdɑ~hajdɛ		haːðaː~haːðihiː	hada~hadi		haːðaː~haːðiː			haːða~haːði
 THOU_1						ntijja					ntajɑ~ntijɑ					
 THOU_2	inta~intɛ~inti	int~inti	intɑ~inti	ɛnta~ɛnti	ɛntɑ~ɛnti	nta	ɛntɛ~ɛnti	ɛntɑ~ɛntɛ	ɪnt~ɪntɪ	ʔanta~ʔant	ntɑ~nti	ənta~ənti	ʌntɑ~ʌntɛː	ant~anti	intɑ~inti	inti
+THREE_1	talaːta	tlaθɛ	θalaːθa	talaːta	θalɑːθa	θ̬laːθ̬a	tlɑːθa~t͡ɬɑːθa	tlaːtɛ~t͡ɬaːtɛ~klaːtɛ	tlɪːtɐ	θalaːθa	tlatɑ	θalaːθ	θaːθi	θalaːθah	talɑːtɑ	θlaːθa
+THROW_1												tˤɑʃʃ				
+THROW_2													tˤɛrr			
+THROW_3	xatt							zatt					zɛtt			
+THROW_4									ʃɛħɛt							
+THROW_5				ħɛdɛf	ħɛðaf							ħaðaf				
+THROW_6		ʃalax	lwaːħ			laːħ		ʃalaħ			laħ					ʃajjaʕ~lwaħ
+THROW_7	rama	rma	ramaː	rama					rɛmɐ	ramaː				ramaː	rama	
+THROW_8					ðabb		ðabb	kabb						ðabal		
+THROW_9											sijjəb					
 TONGUE_1	lisaːn	san	lisaːn	lɛsaːn	lɛsɑːn	lsaːn	əlsɑːn	lsaːn	lsɪːn	lisaːn	lsan	lsaːn	əlsuːn	lisaːn	lisɑːn	lsaːn
 TOOTH_1	sɛnn	sinn		sɛnna	sɛnn	sʌnn	sɛnn	sɛnn	sɪnnɐ	sinna	sənnɑ	sinn	sin	sɛnnih	sɛnn	sinna
 TOOTH_2			ðars		ðˤɛrs	dˤars				dˤirs	dərsɑ	ðˤirs		ðˤirs		
@@ -267,6 +386,15 @@ TREE_4													siʤʌɣɑ
 TWO_1	tinɛːn~tittɛːn	xnajn	θnɛːn~θantɛːn	ɛtnɛːn	θnɛːn~θəntɛːn	iθ̬najn~θ̬intajn	θnɪe̯n~θəntɪe̯n	tnɛjn~tnɛːn~tintɛːn	tnɛjn	ʔiθnaːn~ʔiθnataːn~ʔiθnajn~ʔiθnatajn	tnin	əθnɛːn~θəntɪe̯n	θniːn~θintiːɛn	θnajn~θintajn	ɛtnɛːn	θniːn
 TWO_2											ʒuʒ					zuːz
 TWO_3									zɛwʧ							
+VOMIT_1							tqɑjjɑ			taqajjaʔa			tqɑjjɑ			
+VOMIT_2			zɑʕ		zɑːʕ		zɑwwɑʢ				ruwwəʕ		zɑwwɑʕ			
+VOMIT_3				tˤɑrrɛʃ						istafrɑɣa				tˤɑrɑʃ	istɑfrɑɣ	
+VOMIT_4													ʔəstənfʌʕ			
+VOMIT_5						ɡðəf								ɢaðˤɑf		
+VOMIT_6															ɢidif	
+VOMIT_7	dafaɡ								ʔɐlɐ							
+VOMIT_8		raʒʒʕe						raʒʕɑ								
+VOMIT_9			radd			rɔdd					rədd					rad
 WALK_1	saːr				sˤɑːr						sˤɑr					
 WALK_2						twaːtˤa~ɡɔwtˤarˤ										
 WALK_3	maʃa	miʃɛ	mʃaː	mɛʃi	mɛʃɑ		mɛʃa	mɛʃi	mɛʃɐ	maʃaː	tməʃʃɑ	mɛʃa	məʃi		maʃa	mʃaː
@@ -278,23 +406,38 @@ WATER_1	almɛ		miː			ʌlma			ɪlmɐ						ɛlmiː
 WATER_2	mɔːja	mɔɛ	maːj	mɑjjɑ	mɑːj		mˤɑːj	mɑjj		maːʔ~mijaːh	ma	maː~mɔːja	mɑːj	mɛːʔ	mɔːja	maː
 WE_1	ʔaniːna	naxni	naħana	ɛħna		ʌħna~ʌħnaːti	ɛʜnɛ	nɑħnɑː	ɐħnɐ	naħnu~ʔinnaː	ħnɑ~ħnajɑ	əħna~ənnaː	niħnɑː	əħnə	ɛħna	ħənaː
 WE_2					nɛħɛn											
+WET_1			xðˤɑr											ɑχðˤɑr		
+WET_2	mabluːl	maplul		mabluːl	mabluːl	mʌbluːl	mballal	mbɑllɑl		muballal		mabluːl		mabluːl	mabluːl	mabluːl
+WET_3									mʃɐrrɐp							
+WET_4											fazəɡ					
+WET_5			rɑtˤb		rɑtˤəb					rɑtˤb		ratˤub				
+WET_6							nɑːɡɛʢ						mnɑqqɑʕ			
 WHAT_1	ʃunu				ʃuː~ʃɛnu	ʃənhu	ʃɛnu	ʃu	ʃɪnʊ		aʃnu		ʌʃuː		ʃinu	ʃnuwwa~ʃnuːma
 WHAT_2		aʃ	ɛːʃ		ɛːʃ	aːʃ		ʔɛːʃ			aʃ	wɛʃ				
 WHAT_3						ʃ	ʃə		ʃ~ʃɪːʃ							
 WHAT_4										maː~maːða						
 WHAT_5				ʔɛː										mɛh	ʔɛː	
+WHERE_1	wɛːn	ajn	fɛːn~ħɛːn	fɛːn	wɛːn	mnɛjn~wɛjn	wɪe̯n	wɛjn~wɛːn	fɛjn	ʔajna	fin	wɛin	wɛn	ajn	wɛːn	wiːn~fiːn
 WHITE_1	ʔabjɛt		bjɑːðˤ	ɑbjɑd	ɑbjɑðˤ	ʌbjɑðˤ	ʔɑbjɑðˤ	ʔɑbjɑdˤ	ɐbjɐt	ʔabjɑdˤ	bjədˤ	ɑbjɑðˤ	ʌbjɑðˤ	ʔabjɑðˤ	ɑbjɑdˤ	abjidˤ
 WHITE_2		apkjað														
 WHO_1											ʃkun					ʃkuːn
 WHO_2		mɛn	miːn	miːn	mɛn	mən~mənhu	manuː	miːn		man		mən	mənu	man	minu	
 WHO_3	jaːtu															
+WIDE_1		fsiːʕi												fsaħ		
+WIDE_2	wasiː		waːsɛʕ	waːsɛʕ̞	wɑːsɛʕ	waːsəʕ	wɑːsɛʢ	wɛːsɛʕ	wɪːsɐ	waːsiʕ	wasɛʕ	waːsɛʕ	wɛːsiʕ	waːsiʕ	wɑːsɑʕ	waːsɛʕ
+WIDE_3			ʕɑriːð		ʕariːðˤ		ʢɑrˤiːðˤ	ʕɑriːdˤ		ʕɑriːdˤ		ʕariːðˤ				
+WIDE_4										raħiːb			raːhi			
 WIND_1	riːh				riːħ	riːħ~arjaːħ			rɪːħ	riːħ	riħ	riːħ	ɣiːħ	riːħ	riːħ	riːħ
 WIND_2			habu		hbuːb											
 WIND_3		xava		hawa			hɑwɑ	hɑwɑ		hawaːʔ				hawa		
+WING_1	ʤɛnaːh			ɡɛnaːħ	ʤanaːħ	ʒnaːħ	əʤnɑːʜ	ʒɛːnɛħ	ʤɛwnɐħ	ʤanaːħ	ʒənħ	ʤanaːħ	əʤnɒːħ	ɡʲanaːħ	ɡʲɑnɑːħ	ʒnaːħ
 WOMAN_1				wlɛjja			mrajja						mɑɣijji			
 WOMAN_2					ħurma							ħɔrma		ħurma		
 WOMAN_3	mara	mɑrɑ	mɑrɑ			mrˤɑ	mɑrɑ	mɑrɑ	mɐrɐ	imrɑʔa~almɑrʔa	mrˤɑ	mɑrɛ	mɑɣɑ	mɑrih	mɑrɑ	mra
 WOMAN_4				sɛtt												
+WORM_1	duːda		duːd	duːda	duːd	duːd	duːd	duːdi	dʊːdʊ	duːda	duda	duːdah		duːdah	duːdɑ	duːda
+WORM_2		tut														
+WORM_3													ʌɣdɑ			
 YEAR_1			ʕaːm			ʕaːm				ʕaːm	ʕam				ʕaːm	ʕaːm
 YEAR_2	sana	sinɛ	sana	sana	sana	sna	sana	sɛnɛ	sɛnɐ	sana		sanah	sani	sanah	sana	
 YELLOW_1	ʔasfar	asfar	sˤfɑːr	ɑsfɑr	ɑsˤfɑr	ʌsˤvɑr	ʔɑsˤfɑr	ʔɑsˤfɑr	ɪsfɐr	ʔasˤfar	sˤfər	ɑsˤfɑr	ʌsˤfɑɣ	ʔasˤfɑr	asfɑr	asˤfir

@@ -1,9 +1,25 @@
 	Anuta	Austral (Ra'ivavae)	Austral (Rurutuan)	East Futuna	Emae	Futuna-Aniwa	Hawaiian	Kapingamarangi	Luangiua	Mangareva	Maori	Mele-Fila	Niuean	North Marquesan	Nukuria	Penrhyn	Pukapuka	RakahangaManihiki	Rapanui	Rarotongan	RennellBellona	Samoan	Sikaiana	Tahitian	Tikopia	Tongan	Tuamotuan	Tuvalu	Vaeakau-Taumako	Wallisian
+ALL_1							apau										pau													
+ALL_2										kouroa								pauroa												
+ALL_3	katoa	ʔatoʔa	paaʔaaːʔatoʔa	kaatoa				ɡodoo	aakoa		katoa		ɡotoa		katoo	katoa	katoa	kaatoatoa		katoa	kaatoa	ʔaatoa	katoa	atoʔa	katoa	kotoa	katoŋa	katoa	katoa	katoa
+ALL_4														tiatohu																
+ALL_5																			tahi											
+ALL_6				fuli													wui				huɡi									
+ALL_7																														fulifuli
+ALL_8						oʃi																								
+ALL_9												eutʃi																		
+ALL_10					pini																									
 ASH_1						namuʰlaŋa																								
 ASH_2																	malamala													
 ASH_3				muɡaalafu		maɡarafu				ŋaraʔu	puŋarehu																			
 ASH_4	repu	ɢehuauahi	reʔu	lafu	refu		lehu	lehu	lehu	ʔeʔu		arefu	efu	ʔehu	rehu	rehu	lewulewu	rehu		reʔu	ɡehu	lefulefu	lehu	rehu	refu	efuefu	rehu	pefu	lehu	lefu
 ASH_5																			ʔeoʔeo											
+BACK_1	muri																muli	muri												
+BACK_2									aŋa						kantua															
+BACK_3		tua	tautua	tuʔa	simatua	bua	kua	dua		tua	tuaraa	pua	tuʔa	tua			tua	tua			tuʔa	tua	tua	tua	tua	tuʔa	papatua	tua	tua	tuʔa
+BACK_4																			tuʔaivi											
+BACK_5																				mokotua										
+BACK_6																sope														
 BE DEAD OR DIE_1																				poʔe				pohe			pohe			
 BE DEAD OR DIE_2																		hiti												
 BE DEAD OR DIE_3	mate	mate	mate	mate	mate	mate	make	made	make	mate	mate	mate	mate	mate	mate	mate	mate	mate	mate	mate	mate	mate	mate		mate	mate	mate	mate	mate	mate
@@ -89,6 +105,23 @@ COME_3																			tuʔu
 COME_4		haeɢemai	ʔaeremai~ʔanomai		numai	ʰmai	mai	hani	haamai		haeremai	fenmai		heʔemai	oomai		lolomai	naumai~taumai~hanomai~romai~haeremai				oomai	halemai	haeremai		oomai	mai	mai		
 COME_5														tihe																
 COME_6																				taataaːtaʔi										
+COUNT_1																		taale		taareaːre										
+COUNT_2							helu										wakalau													
+COUNT_3										touʔara																				
+COUNT_4													totou																	
+COUNT_5		taiʔo	taiʔo									tao												taiʔo						
+COUNT_6	rau			lau					pau						ppau								pau		rau	laua		lau	phaua	lau
+COUNT_7					taua	tau		dau			tatau			tau		tau	tatau	tatauaŋa	tataku	tatau	tau	faitau			tau			tau		
+DIRTY_1									sava					hava		sava			hava	ʔavaʔava			sava				hava			
+DIRTY_2					uri	uriuri																				ʔuli				
+DIRTY_3								tokoria																						
+DIRTY_4															kerekere							ʔeleʔelea			kere			kelekelea		
+DIRTY_5		ɢepo	repo				lepo										lepo	lepo		repo				repo						
+DIRTY_6																														liko
+DIRTY_7	parapara			palapala									palapala	paʔapaʔa				parapara			paɡapaɡa								pelapela	palapala
+DIRTY_8													pilo										pela					pala		
+DIRTY_9						paku				paneu	paru	paku					palanui~pakuoŋea												paku	
+DIRTY_10																			one											
 DOG_1	korii	ʔuɢi	ʔuuriuːri	kulii	kuri	kuli	ʔiilio			kurii	kurii	kori	kulii	kuʔi		kurii	kulii	kurii	kuri	kurii	kuɡi	ʔulii	kulii	ʔurii	kuri	kulii	kurio	kulii	kulii	kulii
 DOG_2									poi																					
 DOG_3								pana									puakaoa													
@@ -131,6 +164,17 @@ EGG_10											heeki
 EYE_1	mata	mata	mata	mata	mata	mata	maka	mata	maka	mata	mata	mata	mata	mata	kanamata	mata	mata	mata	mata	mata	mata	mata		mata	mata	mata	mata	mata	mata	mata
 EYE_2														korohi				kanohi		kanoʔi										
 EYE_3																							kale							
+FALL_1							haaʔule								heke															
+FALL_2				malele						marere	makere			mekeʔe						marere							marere			malele
+FALL_3																											makiri			
+FALL_4												melu																	meu	
+FALL_5			marua										mokulu	mokuʔu			paŋulu~makulu			makuru		paʔuu								mokulu
+FALL_6	remo																												emo	
+FALL_7		topa	topa	too	to					topa				topa			too	topa	topa	topa	too	too		topa		too	topa	too		
+FALL_8						takaifo																								
+FALL_9				siɡa				hiŋa	siŋa					hina		siŋa	jiijiŋa		hiɡa	ʔiŋa			sina		siŋa		hiŋa			hiɡa
+FALL_10														huutehenua																
+FALL_11														viʔi																
 FAR_1	mamao			taumamaʔo~mamaʔo			mamao	mokoa	mao	mamaʔo		imao	mamao	memaʔo	mmao	momoo	mamao	momoo		mamao	mamaʔo	mamao	mmao		mao	mamaʔo	taumamao	mamao	mao	taumamaʔo~mamaʔo
 FAR_2					iᵐbua	pʰai																								
 FAR_3																			kumi											
@@ -162,11 +206,22 @@ FIRE_3																													keu
 FISH_1	ika	iʔa	iʔa	ika	ika	ika	iʔa	iɡa		ika	ika	ika	ika	iʔa	ika	ika	ika	iika	ʔiika	ika	ika	iʔa	ika	iʔa	ika	ika		ika	ika	ika
 FISH_2																											paru			
 FISH_3									kaŋaha																					
+FIVE_1	nima			lima	rima	rima	lima	lima	lima	rima	rima	erima	lima	ʔima	rima	rima	lima	lima	rima	rima	ɡima	lima	lima	rima	rima	nima	rima	lima	lima	nima
+FIVE_2		pae	pae																					pae						
+FIVE_3																		taapahi												
 FLESH OR MEAT_1												pakasi																		meʔakai
 FLESH OR MEAT_2	kanofi			kanofi		kʰano		kano	aŋohi				kakano		kanohi						kano	ʔaʔano			kanofi	kano		kanofi		
 FLESH OR MEAT_3		ʔiʔo	ʔiʔo				ʔiʔo			kiko	kiko		kiko	kiko		kiko	kiko	kiko	kiko	kiko		ʔiʔo	io	ʔiʔo			kiko		io	
 FLESH OR MEAT_4			ʔiinaʔi																											
 FLESH OR MEAT_5					kanmate																									
+FLOWER_1								akai													laka					kakala				
+FLOWER_2					serakau																									
+FLOWER_3	pua						pua			pua	puaawai	fuma		pua		pua	pua		pua	pua		fuŋa					pua	pula		
+FLOWER_4															purupuru															
+FLOWER_5				fiti									fiti																	fisi
+FLOWER_6				see		se																	see		see					
+FLOWER_7		tiaɢe	tiare						uke	tiare							tiale	tiare						tiare						
+FLOWER_8																													imea	
 FLY (MOVE THROUGH AIR)_1	rere	ɢeɢe	rere	lele	rere	rere	lele		lele	rere	rere	rere	lele		herrei~rere	rere	lele	rere	rere	rere	ɡeɡe	lele	lele	rere	rere		rere	lele	lele	lele
 FLY (MOVE THROUGH AIR)_2																	pepeke													
 FLY (MOVE THROUGH AIR)_3																					eba									
@@ -176,6 +231,7 @@ FLY (MOVE THROUGH AIR)_6								maaŋi
 FOOT OR LEG_1	vae		ʔaavae	vaʔe	βae	vae	waawae	wae	vae		waewae	βae	vee	vae	vae	vae	vae	waewae	vaʔe	vae	baʔe	vae	vae	ʔaavae	vae	vaʔe	vae	vae	vae	vaʔe
 FOOT OR LEG_2									kapuae	aʔape										tapuae			tapuae							
 FOOT OR LEG_3		umaha																												
+FOUR_1	paa	maha	ʔa	faa	fa	fa	haa	haa	haa	ʔa	faa	efa	faa	faa	haa	haa	waa	faa	ha	ʔaa	haa	efaa	haa	maha	faa	faa	haa	faa	haa	faa
 GOOD_1														ʔeka	taurekareka	reka	leka		reka	reka			leka		rekareka		reka			
 GOOD_2	rerei																lelei					lelei				lelei		lelei		lelei
 GOOD_3						rufie											kalule													
@@ -187,6 +243,13 @@ GOOD_8											pai
 GOOD_9									kau																					
 GOOD_10										porotu																				
 GOOD_11														kanahau																
+GRASS_1			matie	mutie						mutie				mutie						matie	mutie	mutia		matie						musie
+GRASS_2					mauku		mauʔu								mouku	mauku			mouku	mauku					mauku	mohuku	moouku	mouku		mohuku
+GRASS_3												manamu																		
+GRASS_4									veve								vajavaja						veve							
+GRASS_5	vao																												kaoa	
+GRASS_6						ŋafari																								
+GRASS_7											karaaihe																			
 GREEN_1						rauneamaʰmata																lanumeamata				lanumata				
 GREEN_2					matamata																									
 GREEN_3				moto		moto	maʔomaʔo			moto											moto		moto							moto
@@ -217,6 +280,20 @@ HEAVY_1														toko~tono
 HEAVY_2	mamafa	toimaha	tiaʔa	mamafa	mamafa	mafa	kaumaha	maha	maha	teimaha	taimaha	mafa	mamafa		taenaha	taimaha	taewana	taimaha	paɡahaʔa	teimaʔa	mamaha	mamafa	mmaha	toiaha	mafa	mamafa		mamafa	maha	mamafa
 HEAVY_3																											tuʔatuʔa			
 HEAVY_4										kikikiki																				
+HOLD_1						kumia						puatia																		
+HOLD_2	kuku			kuku							pupuri		kuku			kuku			kuku	kukua		ʔuʔu			kuku	kuku				kuku
+HOLD_3																					pipiki								pikia	
+HOLD_4							paʔa																		puke			puke		puke
+HOLD_5														ʔiʔima																
+HOLD_6		ɢave																												
+HOLD_7																									fesu					
+HOLD_8																	liko													
+HOLD_9																					ʔoso									
+HOLD_10					tauai					taamau				mau				mau												
+HOLD_11																			aaru											
+HOLD_12								tahi	kaohi						taaohi								taaohi							
+HOLD_13			taapeʔa																					taapeʔa						
+HOLD_14				sapo									hapo			taŋo	taŋo			taŋo					sapo		taŋo	taɡo		taɡo~hapo
 I_1	kau	vau	au~vau	ku~kau	kou	au~avau	au	au	aŋau	au	au	aβau	ku~kau	ʔu~au	nau	au	aku~au	koau	au	ku~au	ku~kau	aʔu	au	vau~au	ku~kau	ou	ku~au	aku	au	koau
 KILL_1											patu						patu	patu		putu							patu			
 KILL_2																						fasioti								
@@ -235,6 +312,8 @@ KNOW (SOMETHING)_5		ʔite	ʔite				ʔike			kite		taea				kite		kite		kite				ʔi
 KNOW (SOMETHING)_6	poto			poto																					poto					
 KNOW (SOMETHING)_7	iroa				iroa	iroa		iloo	ailoa				iloa		iloa		iiloloa					iloa	iloa		iloa	ʔilo		iloa	iloa	ʔiloʔi
 KNOW (SOMETHING)_8											moohio																			
+LAUGH_1	kata	ʔata	ata	kata	kata	kata	ʔaka	katakata	ʔaka	kata	kata	kata	kata	ʔata		kata	kaakata	kata	kata	kata	kata	ʔata	kata	ʔata	kata	kata	kata	kata	kata	kata
+LAUGH_2															piha															
 LEAF_1	rau	ɢaueɢe	rauʔere	lau	raurau	rau	lau	rou	lau	rau	rau	rau	au	ʔau	rau	rau	lau		raupa	rau	ɡau	lau	lau	rauʔere	rau	lou	rau	lau	lau	lau
 LEAF_2																												mulo		
 LIE DOWN_1																	moekilalo											moekilalo		
@@ -267,6 +346,15 @@ MOUTH_1		vaha	vaʔa			fafa	waha	haha		ʔaʔa	waha			fafa		vaha		vaha	haha	vaʔa	
 MOUTH_2	ŋutu			ɡutu	ŋutu			ŋudu	puʔu			ŋutu	ŋutu	nutu	pukua		ŋutu	ŋutu	ɡutu		ŋutu	ŋutu	pukua		ŋutu	ŋutu	ŋutu	ɡutu	ŋutu	mutu
 NAME_1	iŋoa	iʔoa	iʔoa	iɡoa	iŋoa	iɡoa	inoa	iŋoo	iŋoa	iŋoa	iŋoa	iŋoa	hiɡoa	ikoa	inoa	iŋoa	iŋoa	iŋoa	ʔiiɡoa	iŋoa	iŋoa	iŋoa		iʔoa	iɡoa	hiŋoa	iŋoa	iɡoa	iŋoa	hiɡoa
 NAME_2																							male							
+NEAR_1					fefetai																hitaiaki									
+NEAR_2																													leuetʰaki	
+NEAR_3			ʔatata			tata				tata	tata	etata	tata	tata		tata	vaatata	taha		tata		vaalata~tafatafa~lata		faatata			tata			tata
+NEAR_4							kokoke																							
+NEAR_5															taupirimai		pili						taupili		piri			pili		
+NEAR_6																			tupuaki											
+NEAR_7				ofi				hoho																		ofi				
+NEAR_8	nei			nei					ŋei																					
+NEAR_9																			hahine											
 NECK_1		ʔaɢapoʔa																	ɡao											
 NECK_2												popo																		
 NECK_3						penaaua																								
@@ -289,6 +377,15 @@ NO OR NOT_7	kairo					ʃikai						sai		ieai			kaani~kaaji~kiai		inakai		siʔai~s
 NOSE_1	iu	ihu		isu	isu	isu	ihu	uuhiu	aisu~isu	iʔu	ihu	usu	ihu	ihu	kaihu	isu	iju	isu	ihu		isu	isu	kaiusu	ihu	isu	ihu	ihu	ihu	iu	ihu
 NOSE_2			putaeʔu																	putaaŋi										
 NOSE_3																													poŋaiu	
+OLD_1	maatua			matuʔa	tuai			tuai	makua~mua~ukuai			tuai	tuai		matua		matua		tuai		tauiku~matuʔa	tuai~matua	matua~mua		maatua	motuʔa		matua	matʰua	matua
+OLD_2														koua					korohua								korou			
+OLD_3			ruuʔau															ruuhau						ruuʔau						
+OLD_4														kakiu																
+OLD_5		tahito					kahiko			teʔito				tehito		tahito		tahito		taʔito										
+OLD_6						takausore																								
+OLD_7																					bebe~poepoe									
+OLD_8											pakeke																			
+OLD_9																	poovioːvi													
 ONE_1		hoʔe																						hoʔe						
 ONE_2	tasi		taʔi	tasi	tasi	tasi	ʔekahi	dahi	kahi	taʔi	tahi	etasi	taha	tahi	hokotahi	tahi	taji	tetahi	tahi	taʔi	tahi	etasi	tasi	tahi	tasi	taha	tahi	tahi	kotahi	tahi
 PATH OR ROAD_1		puɢumu	puruumu															puruumu						puruumu						
@@ -315,6 +412,13 @@ ROOT_1	tapito											kasikoa
 ROOT_2		aʔa	aʔa	aka		akai	aʔa	aɡa		aka			aka	aka		aka	aka	aka	aka			aʔa		aʔa		aka	aka		aka	aka
 ROOT_3					kairakau				paʔiaʔa		pakiaka				patiaka					pakiaka	paʔiaʔa		patiaka		vaiaka					
 ROOT_4																												poɡai		
+ROPE_1	maea			maea				moea	maea			mea			maea							maea	maea		maea	maea		maea		maea
+ROPE_2		nape													kaavei															
+ROPE_3			taura	taula		taura	kaula	taura		toura	taura		toua	touʔa		taura	taula	taula	taura	taura	tauɡa			taura			taura			taula
+ROPE_4					faβa	vava				kaka		wawa			uka~kaha~haha		kawa													
+ROPE_5																													hau	
+ROPE_6																											patoko			
+ROPE_7																												lopu		
 SALT_1						sol									horo															
 SALT_2											tote																			
 SALT_3													matima									maasima				maasima		maasima		
@@ -350,12 +454,35 @@ SEE_6																			tikea
 SEE_7																						vaʔai								
 SEE_8						safea						sereia																		
 SEE_9																												pula		
+SEW_1		niɢa	nira																					nira						
+SEW_2	titina			tui	tuitui	tui~sukia		dui	kui	tue	tui	tuia	tui	tui	ttui	tui	tui	tuitui	tui	tui	tui	suʔi	tui		tui	tuitui	tui			tui
+SEW_3			tiiʔai																											
+SEW_4																													tohia	
+SEW_5			au																					au						
+SEW_6																		ruru												
+SEW_7							humuhumu																							
+SHARP_1																						masele							mfasele	
+SHARP_2						matakai						matʃikai	matila												mata	maasila		matakai		maasila
+SHARP_3		ʔoi	ʔoi				ʔoi			koikoi	koi			koi		koi	kokoi	koi		koi				ʔoi			koi			
+SHARP_4	kakai			fakakaa~kakai	makakai			ɡaa	ʔaa						kaa				kaʔi		hakakaa~kakai	maʔai	kaa							
+SHARP_5																													mdakhaa	
+SHARP_6																	niniva													
+SHARP_7																											popo			
+SHORT_1											hakahaka					sakasaka						saʔasaʔa								
+SHORT_2				leka		saka															leka									
+SHORT_3													puku								puku	puʔupuʔu			pukupuku					pukupuku
+SHORT_4																	puunekeneke													
+SHORT_5		poto	poto			poto	pookole	bodo	poko	poto	poto			poto	potopoto	poto	puupoto		poto	poto		poto	poto	poto			poto	toetoe	popoto	
+SHORT_6	nounou													nohinohi												nounou				
 SIT_1						buku																								
 SIT_2																										taŋutu				
 SIT_3			araʔi																					paarahi						
 SIT_4	nopo	nohotu	noʔo	nofo	nofoiraro	nofo	noho	noho	ŋoho	noʔo	noho	nofo	nofo	noho	noho	noho	noonooːno	noho	noho	noʔo	noho	nofo	noho		nofo	nofo	noho	noho	noho	nofo
 SKIN_1																						paʔu						pau	paku	
 SKIN_2	kiri	ʔiɢi	ʔiri	kili	kiri	kiri	ʔili	ɡili	ʔili	kiri	kiri	kiri	kili	kiʔi	kiri	kiri	kili	kiri	kiri	kiri	kiɡi	ʔiliola	kili	ʔiri	kiri	kili	kiri	kili	kilihino	kili
+SKY_1	raŋi	ɢaʔi	tuaraʔi	laɡi	raŋi	raɡi	lani	laŋi	laŋi	raŋi	raŋi	raŋi		ʔaŋi		raŋi	laŋi	laŋi	raɡi	raŋi	ɡaŋi	laŋi	lani	raʔi	raɡi	laŋi	raŋi	laɡi	velaŋi	laɡi
+SKY_2															kaniva															
+SKY_3												maloa																		
 SLEEP_1								khi																						
 SLEEP_2																	lowi													
 SLEEP_3					ŋoro	moeroa																								
@@ -398,6 +525,15 @@ STONE_2																		toka
 STONE_3		ʔohai	ʔooʔaʔi																					ʔoofaʔi						
 STONE_4	patu		poʔatu	fatu		faatu	poohaku	hadu	haku	poʔatu	koofatu	fatu	patu		hatu	poohatu	watu	fatu~poohatu		pooʔatu	balu	fatu	hatu		fatu		poofatu~hatu	fatu	hatu	
 STONE_5														hatukeʔaa																
+SUCK_1					mumu			u							uu							susu				huhu				
+SUCK_2																									puku					
+SUCK_3	miti			momi		umi			miki	miti		tomia	miti		umiumi		miti	miti		miti	umi~miti		umiumi~mmiti		miti		momi~miti	mimiti		momi~mihi
+SUCK_4																													mihikia	
+SUCK_5		ʔote	ʔote								ŋote					ŋote	ŋote	ŋote		ŋotea				ʔote						
+SUCK_6				komo			omo			omo				omo					omo								ŋoŋo			
+SUCK_7															homohomo															
+SUCK_8																		fakaroroma												
+SUCK_9																				ʔia										
 SWIM_1					kaokao																		koukou							
 SWIM_2	kau	ʔau	ʔau	kau		kau	ʔau	kau	ʔau	kau	kauhoe	kaukau	kou	kau	kkau	kau		kaukau	kau	kau	kakau	ʔaʔau		ʔau	kau	kakau	kau	kakau	kau	kau
 SWIM_3																		hopuvai												
@@ -414,11 +550,46 @@ THAT_3			teeraeːra								teeraeːra~teenaeːna						teia~teelaeːla	teeia					
 THAT_4							la	tera				nera		teʔaa	raa				era			lela								
 THAT_5	ena					tena	na								naa							lena			na	koena			tena	
 THAT_6																														kohee
+THEY_1	naaua	ɢaatou~ɢaaua	raatou~raaua	lotou~laa	raua~ratou	kiraua	laakou~laaua		laaua~laakou	raatou~raaua	raatou~raaua	raua~ratou	maua	ʔatou	laaua~laatou		laatou~laaua	raaua~raatou	raʔua	raaua~raatou	kiŋɡatou~kiŋɡaaua	laaʔua~laatou	laaua~laatou	raatou~raaua	ratou~raua	kinautolu		laatou	lʰatou~lʰaua	naaua
+THEY_2								tikaula																						
+THICK_1																						mafia						tuaefa	eha	
+THICK_2		meʔumeʔu																						meʔumeʔu						
+THICK_3			tuetue																			tuatua					tuʔatuʔa	tuatua		
+THICK_4	maatoru			maatotolu	matorutoru	matoru	maakolukolu	maadolu	makolu	maatoru	matotoru	matoru	matolu	motoʔu	maatoru		maatolu	maateru	matoru	maatoru	maatoɡu	matolutolu	maatoru		maatoru	matolu		maatolu		maatolu
+THICK_5															hamataku															
+THIN_1										rikiriki					tuarikiriki								tualiki					tuaniki		
+THIN_2	manipi			manifi	manifinifi	mafinfini			maŋihi			manfinifi									maanihi	manifi			nifi	manifi			manihi	manifi
+THIN_3														ʔakiaki				aŋiaŋi		aŋiaŋi										
+THIN_4		ɢaiɢai	rairai				lahi	rahirahi			rahirahi			piʔahiʔahi~kahikahi	rrahi		lalawi	rahirahi	raʔi	rairai				rairai			rahi			
+THIN_5													aleale																	
+THIN_6																	tutule													
+THINK_1		heɢuɢi																												
+THINK_2																							hakateletele							
+THINK_3				masalo						makara			mahala				majala	mahara		maʔara							mahara			mahalo
+THINK_4	maanatu		manaʔo	manatu		manatu	manaʔo					mantua	manatu		maanatu	manako	manako~manatu	hakamanako	manaʔu		maanatu	manatu		manaʔo	maanatu			manatu	mnatua	manatu
+THINK_5					fakaturia						fakaaro																			
+THINK_6								hakapau						maʔakau								maafaufau				fakakaukau		maafaufau		
+THINK_7																												laɡona		
+THINK_8																													hiŋa	
+THINK_9									hakaoko																					
 THIS_1	ieni		teie	leinei	reni	tenei	nei~keeia	tenei	keŋei	tenei	teenei	kenei		tenei	nei	teeia	eenei~teenei	nei	nei	teeia		lenei	tenei	teie	nei	koeni	te	nei~teenei	tene~ne	eni
 THIS_2																					ia									
 THIS_3																		taua												
 THOU_1	koe~ke	ʔoe	ʔoe	koe~kee	akue	koe	ʔoe	ɡoe	ʔoe	koe	koe	akoe	koe	ʔoe	koe	koe	koe	koe		koe	koe	ʔoe	koe	ʔoe	koe~kee	koe	koe	ke	koe	koe~kee
 THOU_2																	ou		kou											
+THREE_1	toru	toɢu	toru	tolu	toru	toru	kolu	dolu	kolu	toru	toru	etoru	tolu	toʔu	toru	toru	tolu	toru	toru	toru	toɡu	etolu	tolu	toru	toru	tolu	toru	tolu	tolu	tolu
+THROW_1								maka			paŋa									maka							maka	apa		
+THROW_2																		fakamui												
+THROW_3																														ʔatu
+THROW_4					pepe																tupe							tupe		
+THROW_5	peiia			peʔesi	pesia				pesi			pesia				peehua				peeʔia			pehi							peʔehi
+THROW_6							hoʔolei																							
+THROW_7																				ʔia										
+THROW_8										kero			velo						vero											
+THROW_9															riaki											lii				
+THROW_10				tii		ʦiri		dili		tiri				tiʔi	ttiri		uti~tili			tiri							tiri		sili	
+THROW_11		taaoɢa	taaora									woro		tioʔa										taaora		tolo	toro			
+THROW_12																						toŋi								
 TONGUE_1	arero	aɢeɢo	arero	ʔalelo	arero	rero	alelo		alelo	arero	arero		alelo	aʔeʔo	arero	arero	alelo	alelo	arero	arero	ʔaɡeɡo	alelo	alelo	arero	alelo	ʔelelo	arero	alelo	alelo	ʔalelo
 TONGUE_2								horore																						
 TONGUE_3												limena																		
@@ -426,6 +597,8 @@ TOOTH_1	nipo	niho	niʔo	nifo	nifo	nifo	niho	niha	ŋiho	niʔo	niho	nifo	nifo	niho
 TWO_1		piti	piti																					piti						
 TWO_2	rua		rua	lua	rua	rua	lua	lua	lua	rua	rua	rua	ua	ʔua		rua	lua	lua	rua	rua	ɡua	elua	lua		rua	ua	rua		lua	lua
 TWO_3															hiaoa													aoa		
+VOMIT_1		pihaʔe																						pihaʔe						
+VOMIT_2	rua		ruʔaʔi	lua~lua	rua	lua	luaʔi	luai~rua	lua	ruaki	ruaki	rua	puhaki~lua	ʔua	rua	rua	luaki~lua	ruaki	rua	puaki	ɡua	luaʔi~puaʔi	lua		rua	lua	ruua	lua	lua	puʔaki~lua
 WALK_1			ʔano	ano																										
 WALK_2								taahao																	tahao					
 WALK_3																										ʔalu			kau	
@@ -443,8 +616,26 @@ WATER_3	vai		vai	vai	βai	vai	wai	wai	vai	vai	wai	wai	vai	vai	vai	vai		vai	vai	v
 WATER_4																	jua													
 WE_1						kimaua		ɡida~ɡida													kimaa~kita									
 WE_2	tou	maatou~maaua~taatou~taaua	maatou~maaua~taatou~taaua	tou~maa	maua~taua~matou~tatou		maakou~maaua~kaakou~kaaua		kaaua~maakou~kaakou~maaua	taaua	maatou~maaua~taatou~taaua	maua~taua~matou~tatou	mautolu~maua~tautolu~taua	taua~maua~matou~tatou	maatou~taatou		ataaua~amaaua~maatou~taatou	taatou~maatou	tatou~matou	taatou~maatou		maatou~taatou	taaua~maatou~taatou~maaua	maatou~maaua~taatou~taaua	tou	kimautolu~kitautolu	tatou		tʰatou~tʰaua~mhatou~mhaua	tou~maa
+WET_1				taitaia														tavai												
+WET_2	parapara														para													pala		palapala
+WET_3			rari							rari						rari			lali	taarari				rari			rari			
+WET_4					roro																									
+WET_5										raŋa																				
+WET_6		maʔu	maʔu	maatuʔu						maku	maakuaːku							maahuaːhu										maalu		
+WET_7				fakasasau																										
+WET_8						su		tʰiu	suu								jujuu				suuʔia	susuu	siu		suu	viku		hihiu	siu	
+WET_9						ʰnupu	pulu																							
+WET_10														ʔautau																
+WET_11												lousa																		
+WET_12				vikuviku																										
+WET_13																				maaʔuaːʔuʔuaːʔuːʔu										
+WET_14																			hehe											
 WHAT_1	aa	aha	aʔa	aa		aha	aha	aha		aʔa	aha	afa	haa	aha	heaa	aha	wea	eaha	aha	aʔa	aa		aa	eaha	aa	haa	aha	aa	aa	aa
 WHAT_2					rea				kea													ʔoleaa								
+WHERE_1	pea	hea		fea	ife		aiaihea	hee	hea	ʔea	fea	ifia	fee	hea	ihea	hea	iwea	hea	he	ʔea	hea	ʔofea	hea	hea	fea	ʔifee	hea		ihea	fea
+WHERE_2			ʔia																											
+WHERE_3																												teehea		
+WHERE_4						ua																								
 WHITE_1		ʔuoʔuo					keʔokeʔo																	ʔuoʔuo						
 WHITE_2									maʔiŋi									maakita												
 WHITE_3											maa																			
@@ -456,10 +647,31 @@ WHITE_8						kʰeŋo								teko
 WHITE_9	kena							kene									kena								kena					
 WHITE_10																						sina				hinehina				
 WHO_1	ai	vai	vai	ai	koi	akai	wai	ai	ai	ai	wai	kuai	hai	ai	koai	ai	ai	koai	aai	ʔai	ai	ʔoai	ai	ʔovai	ai	hai	ai	ai	ai	ai
+WIDE_1			ʔaʔano								faanui									ʔaʔano				ʔaʔano						
+WIDE_2																			kau											
+WIDE_3							aakea			ʔataʔata				fatea				patapata~atea		aatea		aateatea								
+WIDE_4		ɢaɢahi		laulasi		ʰlafa		balaha	laha				laulahi		raharaha	raharaha	lapalapa						llaha			laulahi	raha	lauefa	laueha	laulahi
+WIDE_5																						lautele								
+WIDE_6																									lafalafa					
 WIND_1	mataŋi	mataʔi	mataʔi	mataɡi	mataŋi	mataɡi	makani	madaŋi	makaŋi	mataŋi		mataŋi	mataŋi	metani	matani	mataŋi	mataŋi	mataŋi	mataɡi	mataŋi	mataŋi	mataŋi	matani	mataʔi	mataɡi	mataŋi	mataŋi		mataŋi	mataɡi
 WIND_2				savili									havili									savili								havili
 WIND_3						sau				hau	hau					sau			hahau											
 WIND_4																			tokerau											
+WING_1			pererau							pererau~pehau	parirau	pekau	peehau	pekeu		pererau		paehau		peeʔau				pererau			pererau			
+WING_2							ʔeeheu																							
+WING_3	kapakau			kapakau	pakakau	pakau			apaʔau				tapakau		kapakau		pakajau~kapakapa				kapakau	ʔapaʔau	kapakau		kapakau	kapakau		kapakau	kapakau	kapakau
+WING_4								bakaumanu																						
+WING_5																			karʔa											
+WING_6		maiti																												
+WORM_1																	veli				suɡati									
+WORM_2								patupatu																						
+WORM_3																						ʔanufe								
+WORM_4																													peipe	
+WORM_5		toʔeɢepo	toʔe				koʔe			iritoke	noke			toke		toke		toke		toke		toʔe		toʔe			toke			
+WORM_6						nufekere																								ʔulukele
+WORM_7															tamakerekere															
+WORM_8				kelemutu									kelemutu									ʔelemutu				kelemutu		kalemuta		
+WORM_9																			koreha											
 YEAR_1		matahiti	mataʔiti				makahiki									matahiti	matawiti	matahiti	matahiti	mataʔiti				matahiti						
 YEAR_2															kirimahi															
 YEAR_3																	taakaloŋa					tausaŋa						tauhaŋa		

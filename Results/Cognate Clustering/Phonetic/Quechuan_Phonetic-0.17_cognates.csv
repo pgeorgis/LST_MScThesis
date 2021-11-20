@@ -1,6 +1,7 @@
 	Apolobamba	Apurí-Madean-Viñac	Ayacucho	Azuay	Cacra-Hongos	Cajamarca	Chachapoyas	Chimborazo	Chocos-Huangáscar	Chuquisaca	Cochabamba	Colombian Inga	Corongo	Cuzco	Eastern-Apurímac	Huallaga-Huánuco	Huancavelica	Huaraz-Huailas	Huaylla-Huanca	Imbabura	Jauja-Huanca	Lambayeque	Laraos	Lincha-Tana	Liscay-San Pedro	Napo	Pacaraos	Pastaza	Puno	San Martín	Santiago del Estero	Tena	Yaru
 ASH_1	uʧpʰa	uʈpa	uʧpa	uʧupa	uʈpa	uʂpa	uʈ͡ʂpa	uʃpa	uʈpa	uʃpʰa	uʃpʰa	uʧpa	uʧpa	uspʰa	uspa	uʧpa	uʧpa	uʧpa	uʈ͡ʂpa	uʧufa	uʈ͡ʂpa	uʈ͡ʂpa	uʈ͡ʂpa	uʈpa	uʈpa	uʃpa	uʈ͡ʂpa	uʧpa	uspʰa	uʧpa	uʃpa	uʃpa	
 ASH_2																																	χoχeʈ͡ʂa
+BACK_1	wasa	waʃa	wasa	waʃa	waʃa	waxta	waʃa	waʃa	waʃa	wasa	wasa	wasa	waqta~waχta	wasa	wasa	waχta	wasa	waqta	waʂa	waʃa	waʂa	waχta	waʃa	waʃa	waʃa	waʃa	waʃa	waʃa	wasa	waʃa	wasa	waʃa	waʃa
 BELLY_1						paʈ͡ʂa							paʈ͡ʂa			paʧa		paʧa	pata		pata	paʈ͡ʂa					paʈ͡ʂa						paʈ͡ʂa
 BELLY_2	wixsa~wisa	wiksa	wiksa	wiχa	wiksa		wiksa	wixsa	wiksa	wixsa	wisa	wixsa		wixsa	wiksa		wiksa			wiksa			wiksa	wiksa	wiksa	wiksa		wiksa	wiksa	wiksa	wixsa	iksa	
 BIG_1	atʰun	hatun	hatuŋ	hatun	hatun	atun	atun	hatun	hatun	hatun	hatun	atun	atun	hatun	hatun	hatun	hatun		hatun	xatun	hatun	atun	hatun	hatun	hatun	hatun	xatuŋ	atun	hatun	atun	atun	atun	χatuŋ
@@ -47,17 +48,32 @@ FAT (ORGANIC SUBSTANCE)_2																				ɸiɾa								ɡrasa
 FAT (ORGANIC SUBSTANCE)_3															untu																		
 FINGERNAIL_1	siʎu	siʎu	siʎu	ʃiʎu	siʎu	ʃiʤu	ʃiʥu	siʒu	siʎu	siʎu	siʎu	siʎu	ʃiʎu	siʎu	siʎu	ʃiʎu	siʎu	ʃiʎu	ʃiʎu	siʎu	ʃiʎu	siʒu	ʃiʎu	siʎu	siʎu	ʃiʎu	ʃilu	ʃiʎu	siʎu	ʃiʥu	siʒu	siʎu	ʃilu
 FIRE_1	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	ɲiɲa	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina	nina
+FIVE_1	piʧqa	piʧqa	piʧχa	piʧka	piʧqa	piʧʁa	piʧka	piʧka	piʧqa	piʃqa	pʰiʃʁa	piʧka	piʦqa	pisqa	piska~piʧqa	piʧqa	piʧχa~piʧqa	piʦqa	piʧʔa	piʃka	piʧʔa		piʧqa	piʧqa	piʧqa	piʧka	pisʁa	piʧka	pisqa	piʧka	piʃqa	piʧka	piʧχa
+FIVE_2																						sinko											
 FLESH OR MEAT_1	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	eːʦa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʦa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯sa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa	ai̯ʧa
+FLOWER_1						tuktu						tuxtu				tuktu						tuktu											
+FLOWER_2		wai̯ta	wai̯ta		wai̯ta		wai̯ta		wai̯ta				weːta		wai̯ta		wai̯ta	wai̯ta	wai̯ta		wai̯ta		wai̯ta	wai̯ta	wai̯ta		wai̯ʧa						wai̯ta
+FLOWER_3	tʼika	sisa		sisa	hisa			sisa	sisa	tʼika	tʼika			tʼika	tika				sisa	sisa	sisa			sisa	sisa	sisa		sisa	tʼika	sisa	sisa	sisa	
 FLY (MOVE THROUGH AIR)_1	hala ʧa																												hala nta				
 FLY (MOVE THROUGH AIR)_2																				bula na						wambu rina						wambu ri	
 FLY (MOVE THROUGH AIR)_3		pawa	pawa		pawa	pari	pawa		pawa	pʰawa	pʰawa		bu̯elɛ	pʰawa	pala~pawa	paːri	pawa	paxaɾi	paːli		paːli	pari	pawa	pawa	pawa		paːɾi	pawa na		pawa	paː		paːɾi
 FLY (MOVE THROUGH AIR)_4								kaʒpa																									
 FOOT_1	ʧaki	ʈaki	ʧaki	ʧaki	ʈaki	ʈ͡ʂaki	ʈ͡ʂaki	ʧaki	ʈaki	ʧaki	ʧaki	ʧaxi	ʈ͡ʂaki	ʧaki	ʧaki~ataka	ʧaki	ʧaki	ʧaki	ʈ͡ʂaki	ʧaki	ʈ͡ʂaki	ʈ͡ʂaki	ʈ͡ʂaki	ʈaki	ʈaki	ʧaki	ʈ͡ʂaki	ʧaki	ʧaki	ʧaki	ʧaxi	ʧaki	ʈ͡ʂaɡi
+FOUR_1	tawa	tawa	tawa		tawa				tawa	tawa	tawa			tawa	tawa		tawa		tawa		tawa		tawa	tawa	tawa				tawa		taː		
+FOUR_2				ʧusku		ʈ͡ʂusku	ʧusku	ʧusku				ʧusku	ʈ͡ʂusku			ʧusku		ʧusku	ʈ͡ʂusku	ʧusku	ʈ͡ʂusku					ʧusku	ʈ͡ʂusku	ʧusku		ʧusku		ʧusku	ʈ͡ʂusɡu
+FOUR_3																						kuatro											
 FULL_1															paqar~qapa																		
 FULL_2		saksasa			saksaʃa				saksasa															saksaʃa	saksasa							unda kta	
 FULL_3	huntʼa	hunta	hunta	hunda	hunta	unda	xunda	hunda	hunta	huntʼa	huntʼa	xunda	unta	huntʼa	ʎinpa~hunta	hunta	hunta		hunta	xunda	hunta	unda	hunta	hunta	hunta	hunda	xunta	unda	huntʼa	xunda	unta		χonta
 FULL_4																		wiɲaj															
 GIVE_1	qu	qo	χo	ku na	qo	qu	ku	ku	qo	qu	ɢu	kara	qu	qu	qo	qu	χu		ʔu	ku na	ʔu	qu	qu	qo	qo	kun a	χo	ku na	qu	ku	qo	ku	χo
+GRASS_1																ʧuqu																	
+GRASS_2																		pastu															
+GRASS_3	qura	qewa	χoɾa	kiwa	qewa	qiwa	kiwa	kʰiwa	qewa	qura			qura	qura	qora		χura		qula	xiwa	qula~qiwa	χiwa	qiwa	qewa	qewa	kiwa	χewa	kiwa	qura	kiwa		kiwa	χewa
+GRASS_4																			hiwa														
+GRASS_5				juju			wai̯ʥa																							wai̯ʥa	juju		
+GRASS_6											jerba																						
+GRASS_7												uxsa																					
 GREEN_1						ʧiʁjax	ʧikjax						ʦiqjaq									ʧiχjaχ								ʧikxak			
 GREEN_2	qʼumir		χumiɽ	lumaɾ						qʼumir	qʼumir			qʼumir			χiwa	beɾi										kiʎu	qʼumir		qomeɾ		
 GREEN_3								berde							kuku	berde			biɾdi	biɾdi			berde			birdi	berdi					berde	
@@ -81,6 +97,9 @@ KNEE_1								sampi			ʧaki muʁu
 KNEE_2		moqo	moχo						moqo	muqu				muqu	moqo		muχu								moqo								
 KNEE_3	qunqur	qonqoɾ		kunɡuɾi	qonqol	qunɡuri	kunɡuri		qonqoɾ			kunɡur	qunquri			qunqur		qoɲqoɾ	ʔunʔul	kunɡuɾi	ʔunʔul	qunɢuri	qunqur	qonqoɾ	qonqoɾ	kunɡuri	χoɴχuɾ	kunɡuri	qunquri	kunɡuri	qoŋqoɾi	kunɡuri muku	χoɴχuʐ
 KNOW (SOMETHING)_1	jaʧa	jaʈa	jaʧa	jaʧa na	jaʈa	jaʈ͡ʂa	jaʈ͡ʂa	jaʧa	jaʈa	jaʧa	jaʧa	jaʧa	jaʈ͡ʂa	jaʧa	jaʧa	jaʧa	jaʧa	jaʧa	jaʈ͡ʂa	jaʧa na	jaʈ͡ʂa	jaʈ͡ʂa	jaʈ͡ʂa	jaʈa	jaʈa	jaʧa na	jaʈ͡ʂa~ɾeχi	jaʧa na	jaʧa	jaʧa	jaʧa	jaʧa	jaʈ͡ʂa
+LAUGH_1	asi	asi	asi	asi na	asi	asi	asi	asi	asi	asi	asi	asi	asi	asi	asi	asi	asi	asi	asi	asi na	asi	asi	asi	asi	asi	asi na		asi na	asi	asi	asiː	asi	
+LAUGH_2																																	ai̯ku
+LAUGH_3																											aji						
 LEAF_1				panɡa				pʰanɡa				panɡa								fanɡa						panɡa		panɡa				panɡa	
 LEAF_2					ʃuja																												
 LEAF_3																		matu															
@@ -93,6 +112,9 @@ LOUSE_2	usa	usa	usa	usa	usa	usa	usa	usa	usa	usa	usa	usa	usa	usa	usa	usa	usa	uxa	
 MAN_1	qʰari	qaɾi	χaɾi	kaɾi	qali			kʰari	qaɾi	qʰari	qʰari	kari		qʰari	qari		χari		kaɾi	kaɾi			qari	qaɾi	qaɾi	kari		kari	qʰari		qaɾi	kari	
 MAN_2						uʎʁu	uʥku						uʎqu			uʎqu					uʎʔu	uʒɢu					ulχo			uʥku			olχu
 MAN_3																		hombɾe															
+MANY_1	aʧkʰa	aʧka	aʧka	aʧka	aʧka	aʧka		aʧka	aʧka	aʃkʰa s	aʃkʰa	aʧka	aʦka	askʰa	aska	aʧka	aʧka		aʧka	aʧka	aʧka	aʧka	aʧka	aʧka	aʧka	aʃka	isisiː	aʧka	aʃkʰa	suka man~aʧka	aʧka	aʃka	aʧka
+MANY_2																		fejupa										japa					
+MANY_3															nisju																		
 MOON_1	kiʎa	kiʎa	kiʎa	kiʎa	kiʎa	kiʥa	kiʥa	kiʒa	kiʎa	kiʎa	kiʎa	xiʎa	kiʎa	kiʎa	kiʎa	kiʎa	kiʎa	kiʎa	kiʎa	kiʎa	kiʎa	kiʒa	kiʎa	kiʎa	kiʎa	kiʎa	kila	kiʎa	kiʎa	kiʥa	kiʒa	kiʎa	kila
 MOUNTAIN_1	urqu	oɾqu	oɾχo	uɾku	olqu	urqu	urku	urku	oɾqu	urqu	urʁu			urqu	orqo	hirka	urɢu	oɾqu	ulʔu	uɾku	ulʔu		urqu	oɾqu	oɾqu	urku		urku	urqu	urku	oɾqo	urku	
 MOUNTAIN_2													qaqa		qirka							χaʁa					xiɾka						xiɾka
@@ -105,6 +127,13 @@ NIGHT_1	tuta	tuta	tuta	tuta	tuta	tuta	tuta	tuta	tuta	tuta	tuta	tuta	paɢas	tuta	
 NIGHT_2																											waɾai̯						
 NOSE_1	sinqa	seŋqa	seŋχa	sinɡa	seŋqa	sinɡa	sinɡa	sinɡa	seŋqa	sinqa	sinʁa	sinɡa	sinqa	sinqa	senqa	sinqa	sinɢa	seɲqa	sinʔa	sinɡa	sinʔa	sinɢa	sinqa	seŋqa	seŋqa	sinɡa	siɴχa	sinɡa	sinqa	sinɡa	seŋqa	sinɡa	seŋχa
 NOT_1	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	maɲa	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana	mana
+OLD (OF MAN)_1	maʧu la	maʧu	maʧu				maʧu		maʧu	aʧa ʧi	aʧa ʧi			maʧu	maʧu		maʧu								maʧu				maʧu	maʧu	maʧu		
+OLD (OF MAN)_2					au̯kiʃ								au̯kis			au̯kis		au̯kis	au̯kiʃ		au̯kiʃ		au̯kiʃ	au̯kiʃ			au̯kiŋ						au̯ɡis
+OLD (OF MAN)_3				ɾuku		mau̯ka		r̝uku				ruku			mau̯ka					ɾuku ɾuna		r̝uku				ruku		ɾuku				ruku	
+OLD (OF WOMAN)_1																		ɾuku				r̝uku~r̝uku na				ruku						ruku	
+OLD (OF WOMAN)_2	paja	paja	paja	paja			paja	paja			paja			paja	paja		paja			paja waɾmi								paja	paja	paja	paja		
+OLD (OF WOMAN)_3													ʈ͡ʂakwa s			ʧakwa n			ʧakwaʂ		ʧakwaʂ		ʧakwa ʃ				ʧaʧas~sakwa						ʧakwas
+OLD (OF WOMAN)_4						biexa				aʧa ʧi																							
 ONE_1	ux									ux	ux		uk									uk							ux				
 ONE_2		huk	huk		huk				huk					huχ	huk~huχ~huq	huk	huk				huk		huk	huk	huk								
 ONE_3				ʃuɡ		suχ	sux	ʃux				suɡ						xuk	suk	ʃuk						ʃu	xuk	ʃuk		suk	sux	ʃux	χok
@@ -120,6 +149,7 @@ ROAD_4																												ʈ͡ʂuʧa
 ROOT_1												anɡu														anɡu		anɡu				anɡu	
 ROOT_2	sapʰi	sapi	sapi	sapi	sapi	ʈ͡ʂupa	sapi	sapi~sipi	sapi	sapʰi	sapʰi		ʈ͡ʂapa	sapʰi	sapi	sapi	sapi		sipi	sapi	sipi	ʈ͡ʂupa		sapi	sapi		sapi		sapʰi	sapi	sapi		sapi
 ROOT_3								pisi															raiz										
+ROPE_1	waskʰa	waska	waska	waska	waska	waska	waska	waska	waska	waʃkʰa	waska	waska	waska	waskʰa	waska	waska	waskʰa	waska	waska	waska	waska	waska	waska		waska	waska	waska	waska	wiskʰa	waska	waska	waska	wasɡa
 SALT_1	kaʧi	kaʈ͡ʂi	kaʧi	kaʧi	kaʈ͡ʂi	kaʈ͡ʂi	kaʈ͡ʂi	kaʧi	kaʈ͡ʂi	kaʧi	kaʧi	kaʧi	kaʈ͡ʂi	kaʧi	kaʧi	kaʧi	kaʧi	kaʧi	kaʈ͡ʂi	kaʧi	kaʈ͡ʂi	kaʈ͡ʂi	kaʈ͡ʂi	kaʈ͡ʂi	kaʈ͡ʂi	kaʧi	kaʈ͡ʂi	kaʧi	kaʧi	kaʧi	kaʧi	kaʧi	kaʈ͡ʂi
 SAND_1	aqu	aqo	aχo		aqo	aʁu			aqo				aqu	aqu	aqo	aquʃ	aχu		aʔu		aʔu	aʁu	aqu	aqo	aqo				aqu				
 SAND_2																		aʎpa															
@@ -127,6 +157,12 @@ SAND_3				tiju			tiju	tʰiju		tʼiju	tʼiju									tiju								tiju		tiju	tiju
 SAND_4																																ʦaʦa	çoχja
 SEE_1		qawa	χawa		qawa		kawa		qawa			kawa			qawa									qawa	qawa					kawa	qaː		
 SEE_2	riku	ɾika	ɾiku	ɾiku na	lika	rika	riku	r̝iku	ɾika	riku	riku		rika	riku	riku	rika	riku	ɾika	lika	ɾiku na	lika	rika	rika	lika	ɾika	riku na	ɾika	ɾiku na	riku	riku		riku	ʐiɡa
+SEED_1			muɾu~muja	muju		muru	muru~ruru	muju				muju	muru		ruru	muru		muɾu		muju			muni			muju	muɾu	muju		muru~ruru		muju	muɾu
+SEED_2	muxu									muhu	muhu			muxu	muχu~muhu~muqu		muxu		muhu		muhu								muxu				
+SEED_3																						semiʎa											
+SEW_1		utka			utka				utka															utka	utka								
+SEW_2	siɾa	siɾa	siɾa	siɾa na	sila	siɾa	siɾa	siɾa	siɾa	siɾa	siɾa	siɾa		siɾa	siɾa	hiɾa	siɾa	xiɾa	hila	siɾa na		siɾa	siɾa	siɾa	siɾa	siɾa na	xiɾa	siɾa na	siɾa	siɾa	seɾa	siɾa	χeɾa
+SEW_3													ira																				
 SIT_1													ama			hama																	
 SIT_2																											kukaɾaː~ʧapaɾaː						
 SIT_3	tija	tija	tija	tija ɾi ku na	tija	tija	tija	tija	tija	tija	tija	tija ku		tija	tija		tija		tiju	tija ɾina	tiju	ta	tija	tija	tija	tija rina	tai̯ ku	tiraji na	tija	tija	tiːja xu	tija	taː ku
@@ -150,6 +186,8 @@ STAR_3	qu̯iʎur	qoi̯ʎuɾ	χoi̯ʎuɾ	ku̯iʎuɾ	qoi̯ʎul											qu̯iʎar
 STAR_4																												istiriʎa				estreʎa	
 STAR_5		lusiɾu			ʃusilu	luzeru		luzeru	lusiɾu				loseːro				luziru			luziɾu				lusiɾu	lusiɾu		loːseɾo			lusero			
 STONE_1	rumi	ɾumi	ɾumi	ɾumi	lumi	rumi	rumi	rumi	ɾumi	r̝umi	rumi	rumi	rumi	rumi	rumi	rumi	rumi	ɾumi	lumi	ɾumi	lumi	r̝umi	rumi	lumi	ɾumi	rumi	rumai̯~rumi	ɾumi	rumi	rumi	ɾumi	rumi	ʐumi
+SUCK_1						ɲuɲu												mamaɾ	ɲuɲu		ɲuɲu										ɲuɲu		
+SUCK_2	ʧʼunqa	ʃoqu	soχo	sunɡa na~ʧuʧu na	ʃoqu		çuku	ʧuʧu	ʃoqu	ʧʼunqa	ʧʼunʁa	ʧuʧu ri	ʃuqu	ʧʼunqa	ʧonqa	ʃuqu	suχu		ʃoqu	ʧupa na	ʃoqu	ʃuʁu	ʃuqu	ʃoqu	ʃoqu	ʦunɡa na	çoχu	ʧupa na~ʦunɡa na~ʧuʧu na	ʧʼunqa	çuku	ʧoŋqa	ʦunɡa	çoχu
 SUN_1	inti	inti	inti	inti	inti		indi	inti	inti	inti	inti	indi		inti	inti	inti	inti	iɲti	inti	inti	inti		inti	inti	inti	indi		indi	inti	indi	inti	indi	inti
 SUN_2		ɾupai̯	ɾupai̯	ɾupai̯	lupai̯	rupai̯			ɾupai̯				rupeː									rupai̯		lupai̯	ɾupai̯		wilka						
 SWIM_1																narja													tuju				
@@ -157,8 +195,15 @@ SWIM_2	sambu ʎa			wambu na				wambu									sambu ʎa			wambu na
 SWIM_3							wai̯ta			wai̯tʼa	wai̯tʼa	wai̯ta		wai̯ta												wai̯ta na		wai̯ta na		wai̯ta	wai̯ta	wai̯ta	
 SWIM_4			nadja			nada							nada						maːta			nada	nada										badu
 TAIL_1	ʧupa	ʈupa	ʧupa	ʧupa	ʈupa	ʈ͡ʂupa	ʈ͡ʂupa	ʧupa	ʈupa	ʧupa	ʧupa	ʧupa	ʈ͡ʂupa	ʧupa	ʧupa	ʧupa	ʧupa	ʧupa	ʈ͡ʂupa	ʧupa	ʈ͡ʂupa	ʈ͡ʂupa	ʈ͡ʂupa	ʈupa	ʈupa	ʧupa	ʈ͡ʂupa	ʧupa	ʧupa	ʧupa	ʧupa	ʧupa	ʈ͡ʂuba
+THINK (REFLECT)_1			juja	juja na		juja	juja	juja				juja		juja			juja			juja na						juja na		juja ri na	juja	juja		juja	
+THINK (REFLECT)_2	jarpa												jarpa			jarpa					jalpa	jarpa	jarpa				jaɾpa				jaʧai̯		jaɾba
+THINK (REFLECT)_3																			jai̯ni ʧa ku~jai̯ni ka ʈ͡ʂa~uma ʧa ku														
+THINK (REFLECT)_4										tʼuku	tʼuku																						
+THINK (REFLECT)_5															hamu ta																		
+THINK (REFLECT)_6																		peɲsaɾ															
 THIS_1	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	keː	kai̯	kai̯	kai̯	kai̯		kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯	kai̯
 THOU_1	qan	qam	χam	kan	qam	qam	kam	kan	qam	qan	ʁan	kam	qam	qan	qan	qam	χam	qam	qam	kan	qam	xam	qam	qam	qam	kan	ʁam	kan	qan	kam	qam	kan	χam
+THREE_1	kimsa	kimsa	kimsa	kimsa	kimsa	kimsa	kimsa	kimsa	kimsa	kinsa	kinsa	kimsa	kinsa	kinsa	kinsa	kimsa	kimza	kima	kimsa	kimsa	kimsa	kimsa	kimsa	kimsa	kimsa	kimsa	kima	kimsa	kimsa	kimsa	kimsa	kinsa	kima
 TONGUE_1																			haʎu		haʎu												
 TONGUE_2	qaʎu	qaʎu	χaʎu	kaʎu	qaʎu	qaʥu	kaʥu	kʰaʒu	qaʎu	qaʎu	ɢaʎu	kaʎu	qaʎu	qaʎu	qaʎu	qaʎu	χaʎu	qaʎu		xaʎu		qaʤu~χaʤu	qaʎu	qaʎu	qaʎu	kaʎu	ʁaʎu~ʁalu	kaʎu	qaʎu	kaʥu	qaʒu	kaʎu	χaʎu
 TOOTH_1	kiru	kiɾu	kiɾu	kiɾu	kilu	kiru	kiru	kiru	kiɾu	kiru	kiru	xiru	kiru	kiru	kiru	kiru	kiru	kiɾu	kilu	kiɾu	kilu	kiru	kiru	kiɾu	kiɾu	kiru	kiɾu	kiru	kiru	kiru	kiɾu	kiru	kiɾu
@@ -183,7 +228,14 @@ WHO_1	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi	pi
 WHO_2																										mai̯kan							
 WIND_1																vi̯ento											bintu						
 WIND_2	wai̯ra	wai̯ra	wai̯ɾa	wai̯ɾa	wai̯la	wai̯ra	wai̯ra	wai̯ra	wai̯ɾa	wai̯ra	wai̯ra	wai̯ra	weːra	wai̯ra	wai̯ra		wai̯ra	wau̯ja	wai̯wa	wai̯ɾa	wai̯wa	wai̯ra	wai̯ra	wai̯ɾa	wai̯ɾa	wai̯ra		wai̯ra	wai̯ra	wai̯ra	wai̯ɾa	wai̯ra	
+WING_1						ala		alas					ala							alas		ala											
+WING_2	lixra	ɾikɾa	ɾapɾa		ʃikla		rikra		ɾikɾa	lixra	liχra~lixra			raɸra	rapra		rapra	ɾipɾa	lapla		lapla		likra	likla	ɾikɾa	riɡra		ɾiɡra	rixra	rikra	lixɾa		ʐapɾa
+WING_3												uɡʎa riska			parpa	kapa																riʁra panɡa	
 WOMAN_1	warmi	waɾmi	waɾmi	waɾmi	walmi	warmi	warmi	warmi	waɾmi	warmi	warmi	warmi	warmi	warmi	warmi	warmi	warmi	waɾmi	walmi	waɾmi	walmi	warmi	warmi	waɾmi	waɾmi	warmi	waɾmi	warmi	warmi	warmi	waɾmi	warmi	waɾmi
+WORM_1		uɾu	uɾu		ulu				uɾu						uru									uɾu	uɾu								
+WORM_2	kuru			kuɾu		kuru	kuru	kʰuru		kʰuru	kʰuru	kuru	kuru	kuru	siʎwi~utuskuru	kuru	kuru	kuɾu	kulu		kulu		kuru			kuru	kuɾu	kuru	kuru	kuru	kuɾu	kuru	kuɾu
+WORM_3																						ɲuʃi											
+WORM_4																				ku̯ika													
 YEAR_1	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata		wata~watə	wata	wata	wata	wata	wata	wata	wata	wata	wata	wata
 YEAR_2																						aɲo											
 YELLOW_1																			tunʔuʂ		tunʔuʂ												

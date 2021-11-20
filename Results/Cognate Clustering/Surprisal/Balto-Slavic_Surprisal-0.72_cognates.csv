@@ -1,7 +1,18 @@
 	Belarusian	Bulgarian	Burgenland Čakavian	Czech	Kajkavian	Latvian	Lithuanian	Macedonian	Polish	Russian	Slovak	Slovenian	Ukrainian	Čakavian (Cres)	Čakavian (Istria)	Štokavian
+ALL_1									fʂˈɨstɛk		fʃˈɛtɔk					
+ALL_2				fʃˈɛxɛn												
+ALL_3	uvʲˈesʲ		vas		vjes	viss	vʲˈɪsɐs			vʲesʲ		ʋə́s	ʋɛsʲ	vɛs		
+ALL_4															sva~sa	sâʋ
+ALL_5								sidef								
+ALL_6		fsˈiʧkʲi														
 ASH_1						pæ̌lni	pʲɛlʲɛnɐ̌j									
 ASH_2										zɐɫˈa			zɔɫˈɑ			
 ASH_3	pˈopʲeɫ	pˈɛpɛɫ	pjěpɛl	pˈopɛl	pˈæpæl			pepel	pˈɔpʲjuw	pʲˈepʲɪɫ	pˈɔpɔɫ	pɛpɛ̀ːu̯	pˈɔpʲiɫ	pɔ̌ːpɛl	pˈɔpɛl	pêpeo
+BACK_1	sʲpʲˈina									spʲɪnˈa			spˈɪnɐ			
+BACK_2				zˈaːda												lěːʥa
+BACK_3				ɦr̝bɛt					ɡʐbʲjɛt		xˈr̩baːt	xrbɛ́t				xř̩bat
+BACK_4		ɡrɤp														
+BACK_5									plˈɛʦɨ							
 BARK_1						miza										
 BARK_2												lùːbjɛ				
 BARK_3	karˈa	korˈa	ku̯ɔ̌ra	kˈuːra	kˈu̯orɒ			kora	kˈɔɾa	kɐrˈa	kˈʊ̯ɔra	skɔ̀ːra	kɔrˈɑ	kɔ̌ːra	kˈɔra	kôra
@@ -52,10 +63,19 @@ COME_1	prɨjsʲʦʲˈi			pr̝̊ˈɪjiːt					pʂɨjɕʨ	prʲɪjtʲˈi	priːsc	pr
 COME_2						atnāːkt	ɐtʲêjtʲɪ									
 COME_3		ˈidɐ						idi								
 COME_4		dˈɔjdɐ	du̯ôjt		dowt~du̯ojt~dˈowti			doj								dǒːʨi
+COUNT_1		brˈɔjɐ														brǒjiti
+COUNT_2	lʲiʧˈɨʦʲ								lʲˈiʈ͡ʂɨʨ				lʲiʧˈɪtɪ			
+COUNT_3				pˈoʧiːtat							pˈɔʧiːtac					
+COUNT_4										ɕːɪtˈatʲ		ʃtɛ̀ːti				
 DIE_1	pamʲˈerʦʲi												pɔmˈɛrtɪ			
 DIE_2						nuɔ̯̌mīrt	nʊmʲǐrʲtʲɪ									
 DIE_3						mīrt	mʲǐrʲtʲɪ									
 DIE_4		umrˈɤ	ˈumriːt	ˈumr̝iːt	mrejt			umri	ˈumʐɛʨ	ʊmʲɪrʲˈetʲ	ˈumrɪ̯ɛc~zˈɔmrɪ̯ɛc	umrɛ̀ːti		pɔmrěːt~umrěːt	umrjěːt	ǔmrjeːti
+DIRTY_1				ʃpˈɪnaviː							ʃpˈinaʋiː					pr̩̂ʎaʋ
+DIRTY_2	brˈudnɨ								bɾˈudnɨ				brʊdnˈɪi̯			
+DIRTY_3										ɡrʲˈaznɨɪ̯						
+DIRTY_4		mrˈɤsɛn														
+DIRTY_5												umàːzan				
 DOG_1			pas	pɛs					pʲjɛs		pɛs	pɛ́s		pɛs		pâs
 DOG_2						sǔns										
 DOG_3							ʃuə̌									
@@ -77,6 +97,7 @@ EGG_2						uɔ̯la
 EGG_3							kʲɛwʃʲˈɪnʲɪs									
 EYE_1	vˈoka	okˈɔ	u̯ɔ̌kɔ	ˈoko	ˈu̯okːɔ	aʦs	ɐkʲˈɪs	oko	ˈɔkɔ		ˈɔkɔ	ɔkɔ̀ː	ˈɔkɔ	ɔ̌ːkɔ	ˈɔkɔ	ôko
 EYE_2										ɡɫas						
+FALL_1	pˈadaʦʲ	pˈadɐm		pˈadat					pˈadaʨ	pˈadətʲ	pˈadac	pàːdati	pˈɑdɐtɪ			pâdati
 FAR_1						tâːlu	toːlʲɪ									
 FAR_2	dalʲˈɵka	dɐlˈɛʧɛ	dǎːlɛkɔ	dˈalɛko	dˈaːlkɔ			daʎeko	dalˈɛkɔ	dəlʲɪkˈo	ɟˈaɫɛkɔ	dàːlɛʧ	dɐɫˈɛkɔ	děːlɡɔ	dˈuɡɔ	dalěko
 FAR_3														lǎːrɡɔ		
@@ -90,6 +111,8 @@ FIRE_2	aʁˈonʲ	ˈɔɡɐn	ʔˈɔɡaːɲ	ˈoɦɛɲ	ˈu̯oɡæɲ			oɡan	ˈɔɡʲ
 FIRE_3																ʋâtra
 FISH_1	rˈɨba	rˈibɐ	rˈiba	rˈɪba	rˈibɒ			riba	ɾˈɨba	rˈɨbə	rˈiba	rìːba	rˈɪbɐ	rˈiba	rˈiba	rîba
 FISH_2						zǐws	ʒʊvʲˈɪs									
+FIVE_1	pʲæʦʲ	pɛt		pjɛt					pʲjɛɲʨ	pʲætʲ	pæc	pɛ̀ːt	pjɑtʲ			pêːt
+FLOWER_1	kʲvʲˈetka	ʦvˈɛtɛ		kvjɛt					kfʲjat	ʦvʲɪtˈok	kʋɛt	ʦʋéːt	kʋʲˈitkɐ			ʦʋjeː̂t
 FLY_1	lʲætˈaʦʲ	lɛtʲˈɤ	lˈɛtit	lˈɛːtat	lˈætit			ʎeta	lˈataʨ~lˈɛʨɛʨ	lʲɪtˈatʲ	ɫˈɛcɪ̯ɛc	lɛ̀ːtati	lʲitˈɑtɪ	lɛtˈɛt	lɛtˈɛt	lětjeti~ljeː̌tati
 FLY_2							lʲěːktʲɪ									
 FLY_3						liduɔ̯̂t										
@@ -100,12 +123,14 @@ FOOT_2		krak
 FOOT_3	naʁˈa		nu̯ɔ̌ɡa	nˈoɦa	nˈu̯oɡɒ			noɡa			nˈɔɦa	nóːɡa	nɔɦˈɑ	nɔɡˈa	nɔɡˈa	nǒɡa
 FOOT_4									stˈɔpa	stʊpnʲˈa						
 FOOT_5																stǒpalo
+FOUR_1	ʧatˈɨrɨ	ʧˈɛtiri		ʧtˈɪr̝ɪ					ʈ͡ʂtˈɛɾɨ	ʨɪtˈɨrʲe	ʃtˈiri	ʃtìːri	ʧɔtˈɪrɪ			ʧětiri
 FULL_1	pˈownɨ	pˈɤlɛn	pûːn	pˈl̩niː	pun	pīlns	pîɫnɐs	poln	pˈɛwnɨ	pˈoɫnɨɪ̯	pˈɫ̩niː	pɔ̀ːu̯n	pˈɔʋnɪi̯	pˈɛlni	pǔːn	pûn
 GIVE_1	daʦʲ	dam	dat	daːt	dɒt~daːt	duɔ̯̂t~duɔ̯t	duə̂tʲɪ	daj	daʨ	datʲ	dac	dàːti	dˈɑtɪ	dat	dat	dâti
 GOOD_1	dˈobrɨ	dobˈɤr	du̯ɔ̌bar	dˈobriː	dˈu̯obær			dober	dˈɔbɾɨ		dˈɔbriː	dɔ̀ːbɛr	dˈɔbrɪi̯	dɔ̌ːbɛr	dˈɔbar	dôbar
 GOOD_2						laps										
 GOOD_3										xɐrˈoʂɨɪ̯						
 GOOD_4							ɡʲæ̌rɐs									
+GRASS_1	travˈa	trɛvˈa		trˈaːva					tɾˈava	trɐvˈa	trˈaːʋa	tràːʋa	trɐʋˈɑ			trǎːʋa
 GREEN_1	zʲælʲˈɵnɨ	zɛlˈɛn	zˈɛljɛn	zˈɛlɛniː	zˈælæn			zeʎen	ʑɛlˈɔnɨ	zʲɪlʲˈɵnɨɪ̯	zˈɛɫɛniː	zɛlɛ́n	zɛɫˈɛnɪi̯	zɛlěːni	zˈɛlɛn	zělen
 GREEN_2						zǎʎʃ	ʒɐ̌lʲɛs									
 HAIR_1	vʌɫasˈɨ		vlâːs	vlˈasɪ	lˈaːsi				vwˈɔsɨ	vˈoɫəsɨ	ʋɫas	làːs		vlâːs	vlâːs	
@@ -124,6 +149,8 @@ HEART_2						sîrts	ʃʲɪrʲdʲˈɪs
 HEAVY_1						smaks	sʊŋkˈʊs									
 HEAVY_2	ʦʲˈæʂkʲi	tˈɛʒɐk	tjêʒak	cˈɛʃkiː	tˈæʒæk			teʒok	ʨˈɛw̃ʂkʲi		cˈaʃkiː	téːʒɛk	ʋɐʒkˈɪi̯	těːʃki	tˈɛʒak	těːʒak
 HEAVY_3										tʲɪʐˈoɫɨɪ̯						
+HOLD_1	trɨmˈaʦʲ								tʂˈɨmaʨ				trɪmˈɑtɪ			
+HOLD_2		dɐrʒˈɤ		dˈr̩ʒɛt						dʲɪrʐˈatʲ	dˈr̩ʒac	drʒàːti				dř̩ʒati
 HORN_1	roʁ̥	rɔk	ru̯ôɡ	rox	ru̯oɡ	raks	rɐ̌ɡɐs	rok	ɾuk	rok	rɔx	rɔ̀ːk	ɾʲiɦ	rôːx	ru̯ôx	rôːɡ
 I_1			mjênɛ		mˈænæ	mani	mɐnʲɛ	mene						mɛnˈɛ	manˈɛ	
 I_2	jæ	as	jâː	jaː	jaː	ɛs	ɐʃ	jas	ja	ja	ja	jás	jɑ	ja	jǎː	jâː
@@ -134,6 +161,7 @@ KNEE_1	kalʲˈena	kolʲˈano	kɔljěnɔ	kˈolɛno	kɔlˈænɔ			koʎeno	kɔlˈa
 KNEE_2						ʦɛlis	kʲæ̌lʲɪs									
 KNOW_1				vjˈɛɟɛt					vʲjˈɛʥɛʨ		ʋˈɛɟɪ̯ɛc	ʋɛ̀ːdɛti				
 KNOW_2	znaʦʲ	znˈajɐ	znat		znɒt	zinâːt	ʒʲɪnôːtʲɪ	znaj		znatʲ		znàːti	znˈɑtɪ	znat	znat	znâti
+LAUGH_1	smʲæjˈæʦʦa	smˈɛjɐ sɛ		smaːt sɛ					ɕmʲjaʨ ɕɛ	smʲɪjˈatʦə	smɪ̯acsa	smɛjàːtisɛ	smʲijˈɑtɪsʲɐ			smǐjatise
 LEAF_1						lapːa	ɫɐ̌pɐs									
 LEAF_2														pɛrˈɔ		
 LEAF_3	lʲist	list	lîːst	lɪst				ʎis	lʲiɕʨ	lʲist	ɫist	lìːst	ɫɪst		lîːs	lîːst
@@ -166,6 +194,11 @@ MAN_6																muʃkǎːraʦ
 MAN_7															muʃkîː	
 MAN_8						vīːrjɛtis										
 MAN_9													ʧɔɫɔʋʲˈik			
+MANY_1								mnoɡu~noɡu								
+MANY_2														blâːɡɔ		
+MANY_3															pˈunɔ	
+MANY_4			ʧˈuda		ʧˈudɒ										ʧˈuda	
+MANY_5						dāwʣ	dɐ̌wk									
 MEAT_1	mʲˈæsa	mɛsˈɔ	mjêsɔ	mˈaso	mˈejsɔ		mʲeːsˈɐ	meso	mʲjˈɛw̃sɔ	mʲˈasə	mˈæsɔ	mɛsɔ̀ː	mjˈɑsɔ	mêːsɔ	mjêsɔ	mêːso
 MEAT_2						ɡaʎa										
 MOON_1		ɫunˈa				mɛːnɛss				ɫʊnˈa		lùːna				
@@ -187,6 +220,9 @@ MOUTH_7		ustˈa	ʔûːsta	ˈuːsta				usta	ˈusta		ˈuːsta	ùːsta		ǔːsta	
 NAME_1	imʲˈæ	ˈimɛ	ʔimɛ	jmˈɛːno	ˈimæ			ime	ˈimʲjɛ	ˈimʲə	mˈɛnɔ	imɛ̀ː	imjˈɑ	ˈimɛ~jˈimɛ	ˈimɛ	îme
 NAME_2						vǎːrts										
 NAME_3							vɐ̌rdɐs									
+NEAR_1	blʲˈisʲkʲi	blˈizɐk		blˈiːskiː	blˈizu~blˈiːzu			bʎizu	blʲˈiskʲi	blʲˈiskʲɪɪ̯	bɫˈiːski	blìːʒni	bɫɪzʲkˈɪi̯	blǐːzu	blǐːzu	blîzak
+NEAR_2						tuvu										
+NEAR_3							ɐrʲtʲˈɪ									
 NECK_1	ʂˈɨjæ							ʃija	ʂˈɨja	ʂˈɛjə			ʃˈɪjɐ			
 NECK_2				kr̩k		kakls	kɐ̌kɫɐs		kaɾk		kr̩k					
 NECK_3		vrat	vrat									u̯ràːt		vrâːt	vrâːt	ʋrâːt
@@ -197,6 +233,7 @@ NIGHT_1	noʧ	nɔʃt	nu̯ôc	noʦ	nowʧ	nakts	nɐktʲˈɪs	noc	nɔʦ	noʨ	nɔʦ	
 NOSE_1	nos	nɔs	nu̯ôs	nos	nu̯os~nows		nôːsʲɪs	nos	nɔs	nos	nɔs	nɔ̀ːs	nʲis	nôːs	nu̯ôs	nôːs
 NOSE_2						dæɡǔns										
 NOT_1	nʲe	nɛ	nɛ	nɛ	næ	nɛ	nʲɛ	ne	ɲɛ	nʲɪ	ɲɪ̯ɛ	nɛ	nɛ	nɛ	nɛ	nê
+OLD_1	starˈɨ	star		stˈariː					stˈaɾɨ	stˈarɨɪ̯	stˈariː	stár	stɐrˈɪi̯			stâr
 ONE_1						vjêns	vʲjênɐs									
 ONE_2	aʣʲˈin	ɛdˈin	jˈɛdaːn~jˈɛdan	jˈɛdɛn	jˈædæn			eden	jˈɛdɛn	ɐdʲˈin	jˈɛdɛn	éːdɛn	ɔdˈɪn	jɛdˈɛn	jɛdǎːn	jědan
 PATH OR ROAD_1	darˈoʁa								dɾˈɔɡa	dɐrˈoɡə			dɔrˈɔɦɐ			
@@ -224,6 +261,13 @@ ROOT_1	kˈoranʲ	kˈɔrɛn	ku̯ɔ̌rɛn	kˈor̝ɛn	kˈu̯orænɒ			koren	kˈɔʐ
 ROOT_2												kɔrɛnìːna				
 ROOT_3						saknɛ										
 ROOT_4							ʃɐknʲˈɪs									
+ROUND_1														tɔ̌ːndi		
+ROUND_2															tu̯ǒnt	
+ROUND_3				kˈulatiː							ɡˈuʎatiː					
+ROUND_4	krˈuʁɫɨ	krˈɤɡɐɫ		ˈokrou̯ɦliː	krˈowpi				ɔkɾˈɔŋɡwɨ	krˈuɡɫɨɪ̯	ˈɔkruːɦɫi	ɔkrɔ̀ːɡɛu̯	krˈuɦɫɪi̯		ɔkrǔːɡal	ǒkruːɡao
+ROUND_5						apǎʎʃ										
+ROUND_6								tɛrkalest								
+ROUND_7							ɐ̌pʲsʲkrʲɪtɐs									
 SALT_1	solʲ	sɔɫ	su̯ôl	suːl	sowj	sǎːls		soʎ	sul	solʲ	sɔʎ	sɔ̀ːu̯	sʲilʲ	sôːl	su̯ôl	sôːl
 SALT_2							drʊskˈɐ									
 SAND_1															sablu̯ôn~ʃablu̯ôn	
@@ -241,10 +285,19 @@ SEE_2								puʎi
 SEE_3	bˈaʧɨʦʲ								zɔbˈaʈ͡ʂɨʨ				bˈɑʧɪtɪ			
 SEE_4						rɛʣêːt										
 SEE_5							mɐtʲîːtʲɪ									
+SEED_1						sǣːkla	sʲêːkɫɐ									
+SEED_2	sʲˈemʲæ	sˈɛmɛ	sˈimɛ	sˈɛmɛno	sjˈemæ			seme		sʲˈemʲə	sˈɛmɛnɔ	sɛ̀ːmɛ	sʲˈimjɐ	sěːmɛ	sˈɛmɛn	sjême
+SEED_3									naɕˈɔnɔ							
+SEW_1	ʂɨʦʲ	ʃˈijɐ		ʃiːt					ʂɨʨ	ʂɨtʲ	ʃic	ʃìːʋati	ʃˈɪtɪ			ʃîti
+SHARP_1	vˈostrɨ	ˈɔstɐr		ˈostriː					ˈɔstɾɨ	ˈostrɨɪ̯	ˈɔstriː	ɔ̀ːstɛr	ɦˈɔstrɪi̯			ôʃtar
+SHORT_1		kɤs				îːss		kus								
+SHORT_2	karˈotʲkʲi		krâːtaːk	krˈaːtkiː	krˈaːtki				kɾˈutkʲi	kɐrˈotkʲɪɪ̯	krˈaːtki	kràːtɛk	kɔrˈɔtkɪi̯	krǎːtak	krâːtak	krǎːtak
+SHORT_3							trʊ̌mpɐs									
 SIT_1	sʲæʣʲˈeʦʲ	sɛdʲˈɤ	sˈidit	sˈɛɟɛt	sjˈedit	sêːdêːt	sʲeːdʲêːtʲɪ	sedi	ɕˈɛʥɛʨ	sʲɪdʲˈetʲ	sˈɛɟɪ̯ɛc	sɛdɛ̀ːti	sɪdʲˈitɪ	sɛdˈɛt	sɛdˈɛt	sjěditi
 SKIN_1						âːda	ôːdɐ									
 SKIN_2		kˈɔʒɐ	ku̯ɔ̌ʒa	kˈuːʒɛ	kˈu̯oʒɒ			koʒa		kˈoʐə	kˈɔʒa	kɔ̀ːʒa		kɔ̌ːʒa	kˈɔʒa	kôʒa
 SKIN_3	skˈura								skˈuɾa				ʃkʲˈirɐ			
+SKY_1	nʲˈeba	nɛbˈɛ		nˈɛbɛ					ɲˈɛbɔ	nʲˈebə	ɲˈɛbɔ	nɛbɔ̀ː	nˈɛbɔ			nêbo
 SLEEP_1	spaʦʲ	spʲɤ	spat	spaːt	spaːt			spije	spaʨ	spatʲ	spac	spàːti	spˈɑtɪ	spat	spat	spâti
 SLEEP_2						ɡulêːt										
 SLEEP_3							mʲjɛɡôːtʲɪ									
@@ -284,11 +337,29 @@ TAIL_4			rjêp		rejp							rɛ́p		rěːp	rjěp	rêːp
 TAIL_5							uədʲɛɡˈɐ									
 THAT_1					own		ɐnˈɐs	on						ɔnɔ̌ːx	ɔnˈi	ǒnoː
 THAT_2	tˈoje	tovˈa	tâː	to	tej~taː	tas		t	tɔ	to	tɔ	tɔ̀ː	tɔ	ɔtɔ̌ːx~tɔ̌ːx~nɔ̌ːx	ta~tâː	tôː
+THEY_1				ˈoɲɪ					ˈɔɲi	ɐnʲˈi	ˈɔɲi	óːni	wɔnˈɪ			ǒni
+THEY_2	jænˈɨ															
+THEY_3		tɛ														
+THICK_1		dɛbˈɛɫ										déːbɛu̯				děbeo
+THICK_2	tˈowstɨ			tlˈustiː						tˈoɫstɨɪ̯	tˈɫ̩stiː		tɔʋstˈɪi̯			
+THICK_3									ɡɾˈubɨ							
+THIN_1	tˈonkʲi	tˈɤnɐk	tǎːnak	tˈɛŋkiː	tˈejnæk			tanok	ʨˈɛŋkʲi	tˈonkʲɪɪ̯	cˈɛŋkiː	tàːnɛk	tɔnkˈɪi̯	tˈɛnɛk	tˈanak	tânak
+THIN_2						tjêws										
+THIN_3							pɫôːnɐs									
+THINK_1	dˈumaʦʲ									dˈumətʲ			dˈumɐtɪ			
+THINK_2		mˈislʲɐ		mˈɪslɪt					mˈɨɕlɛʨ		mˈisɫɪ̯ɛc	mìːsliti	mˈɪsɫɪtɪ			mîsliti
 THIS_1		tˈɔzi	u̯ôv		owv			ov						ɔvɔ̌ːx~vɔ̌ːx	ɔvˈi	ǒʋoː
 THIS_2	ʁˈɛta			tˈoto						ˈɛtə	tˈaːtɔ					
 THIS_3						ʃis	ʃʲɪs	t	tɔ		tɔ	tɔ̀ː	ʦɛ			
 THOU_1	tɨ	ti	tîː	tɪ	tiː	tu	tʊ	ti	tɨ	tɨ	ti	tìː	tɪ	tîː	tîː	tîː
 THOU_2								tebe								
+THREE_1	trɨ	tri		tr̝̊ɪ					tʂɨ	trʲi	tri	trìː	trɪ			trîː
+THROW_1	kʲˈidaʦʲ								ʐˈuʦaʨ				kˈɪdɐtɪ			bǎʦati
+THROW_2				ɦˈoɟɪt							ɦˈɔɟic					
+THROW_3										brɐsˈatʲ						
+THROW_4											ʋˈr̩ɦnuːc					
+THROW_5		xvˈɤrlʲɐ														
+THROW_6												u̯rèːʧi				
 TONGUE_1	jæzˈɨk	ɛzˈik	jˈɛziːk	jˈazɪk	jˈæzik			jazik	jˈɛw̃zɨk	jɪzˈɨk	jˈazik	jéːzik	jɐzˈɪk	zajˈik	zajˈik	jězik
 TONGUE_2						měːlɛ										
 TONGUE_3							lʲjɛʒˈʊvʲɪs									
@@ -314,19 +385,29 @@ WATER_2							vɐnduə̌
 WATER_3						ûːděns										
 WE_1	mɨ		mîː	mɪ	miː	mɛːs	mʲæ̌s		mɨ	mɨ	mi	mìː	mɪ	mîː	mîː	mîː
 WE_2		nˈiɛ	nâːs		naːs			nije~nas						nas	nas	
+WET_1	mˈokrɨ	mˈɔkɐr		mˈokriː					mˈɔkɾɨ	mˈokrɨɪ̯	mˈɔkriː	mɔ̀ːkɛr	mˈɔkrɪi̯			môkar
 WHAT_1	ʂto	ʃtɔ	ʧa~ʧâː	ʦo	kɒj~kæj	kas	kɐs	ʃo~ʃco	ʦɔ	ʂto	ʧɔ	kàːj	ʃʧɔ	ʧɛ	ʧa	ʃtô
 WHAT_2		kɐkvˈɔ														
+WHERE_1	ʣʲe	kɐdˈɛ		ɡdɛ					ɡʥɛ	ɡdʲe	ɡɟɛ	kjɛ̀ː	dɛ			ɡdjê
 WHITE_1						bālts	bɐ̂ɫtɐs									
 WHITE_2	bʲˈeɫɨ	bʲaɫ	bjêl	bˈiːliː	bejl			bel	bʲjˈawɨ	bʲˈeɫɨɪ̯	bˈɪ̯ɛɫi	bɛ̀ːu̯	bʲˈiɫɪi̯	bêːli	bjêl	bjeː̂l
 WHO_1	xto	kɔj	ɡdɔ~dɔ	ɡdo	kow	kas	kɐs	koj	ktɔ	kto	ktɔ	kdɔ̀ː	xtɔ	kîː	kiː	tkô
+WIDE_1	ʂɨrˈokʲi	ʃirˈɔk		ʃˈɪrokiː					ʂɛɾˈɔkʲi	ʂɨrˈokʲɪɪ̯	ʃˈirɔkiː	ʃirɔ́k	ʃɪrˈɔkɪi̯			ʃǐrok
 WIND_1	vʲˈeʦʲer	vʲˈatɐr	vjětar	vˈiːtr̩	vjˈetær			veter	vʲjatɾ	vʲˈetʲɪr	ʋˈɪ̯ɛtɔr	ʋɛ̀ːtɛr	ʋʲˈitɛr	věːtɛr	vˈɛtar	ʋjêtar
 WIND_2						vɛːjʃ	vʲêːjɛs									
+WING_1	krɨɫˈo	kriɫˈɔ		kr̝̊ˈiːdlo					skʂˈɨdwɔ	krɨɫˈo	krˈiːdɫɔ	krìːlɔ	krɪɫˈɔ			krǐːlo
 WOMAN_1		ʒɛnˈa	ʒˈɛna	ʒˈɛna	ʒjˈenɒ~ʒjˈenskɒ			ʒena			ʒˈɛna	ʒɛ̀ːnska	ʒʲˈinkɐ	ʒɛnˈa~ʒěːnska	ʒjěnska	ʒěna
 WOMAN_2	ʐanʧˈɨna									ʐˈɛnʲɕːɪnə						
 WOMAN_3						sjɛvjɛtɛ										
 WOMAN_4									kɔbʲjˈɛta							
 WOMAN_5							môːtʲɛrʲɪs									
 WOMAN_6			rˈɔba													
+WORM_1												ɡlìːsta			ɡlîːs~ɡlîːsta	
+WORM_2			ʧr̩̂v	ʧɛrf	ʧɛrv						ʧɛrʋ	ʧə́ru̯		ʧêːrf	ʧr̩̂f	ʦr̩̂ːʋ
+WORM_3	ʧarvʲˈæk	ʧˈɛrvɛj						ʦr̩veʦ		ʨɪrvʲˈak			ʧɛrʋjˈɑk			
+WORM_4						tǎːrps										
+WORM_5									ɾˈɔbak							
+WORM_6							kʲɪrʲmʲeːlʲěː									
 YEAR_1		ɡodˈinɐ						ɡodina								ɡôdina
 YEAR_2				rok					ɾɔk		rɔk		ɾʲik			
 YEAR_3			ljětɔ		ljˈetɔ							lɛ̀ːtɔ		lěːtɔ	lˈɛtɔ	

@@ -1,4 +1,6 @@
 	Cocopa	Ipai	Mohave	Tipai	Yavapai
+ALL_1			paj		pˈaja
+ALL_2	saːm	nʲaːmat̪		ʧamʎ̥~ɲaʧˈamʎ̥	
 ASH_1	xmʔuɬ	ʔəmpiɬ	hamʔuːʎ		ʔmhˈúˑl~ʔmhˈûˑl
 BARK_1	ʂxujˈal				
 BARK_2		xaːsəjaɬ			
@@ -25,6 +27,7 @@ BREAST_4					ɲmˈaja
 BURN (SOMETHING)_1			tapoːmm		tˈu
 BURN (SOMETHING)_2	ʎ̥maɾ			aʎ̥mˈar	
 BURN (SOMETHING)_3		aːɹaːw			
+CIRCULAR (ROUND IN TWO DIMENSIONS)_1	ɾjaɾ	jaɹəjaɹ		jərjˈar	
 CLAW OR NAIL_1		salʲəxʷuːw		ʃaʎ̥nəpˈuːl	
 CLAW OR NAIL_2	ɬkaxʷˈaw~ʎ̥kaxʷˈaw				
 CLAW OR NAIL_3					slhβˈoˑ
@@ -112,6 +115,10 @@ LOUSE_2		əmiɬʲ
 MAN_1	ʔapˈa		ʔiːpa	ʔiːpˈa	
 MAN_2					pˌaˑhmˈija
 MAN_3		ʔiːkʷiʧ			
+MANY_1	ʎ̥aj			ʎ̥aw	
+MANY_2		xəmiːj~ʔəxmiːj			
+MANY_3			ʔapaʎm		
+MANY_4					ʔtˈe
 MEAT_1		kukʷaːjp	kʷiːkʷaj~kiːkʷaj		
 MEAT_2				kʷak	
 MEAT_3					kʷˌeˑθˈoβa
@@ -123,6 +130,8 @@ MOUTH_1		aː		aː
 MOUTH_2	ʔijˈa		iːja		jˈa
 NAME_1	muʎ̥		imuːʎ		mˈul~mˈol
 NAME_2		ʧəxiʧ			
+NEAR_1	xɾpaj	xəlʲəpaj		xəʎpˈaj	
+NEAR_2			ipanm		ipˈé
 NECK_1			maʎaqe		mlqˈí
 NECK_2	mpuk	iːpuk~əjəpuk		iːpˈuk	
 NEW_1	xaɲ	wəxaj			
@@ -156,6 +165,11 @@ SAY_2			im
 SEE_1	wiː	əwuːw		wiːw	
 SEE_2			ijuːk		
 SEE_3					ʔˈuˑ
+SEED_1	jas	əjaʧ	iðiːʧ		jˈaʧ
+SHORT_1	xʎʔut			ləʔˈuɲ	
+SHORT_2		məputk			
+SHORT_3					ʧkrˈoti
+SHORT_4			wenawen		
 SIT_1	wa	wən̪ak	ivak	wa	wˈa
 SKIN_1	ɲkʷʔaɬ	əkʷaɬʲ			
 SKIN_2			ʧaθkʷil		
@@ -170,6 +184,8 @@ SMOKE (EXHAUST)_1			ʔahʷaː		ʔˌohʷˈaja
 SMOKE (EXHAUST)_2	xjaj				
 SMOKE (EXHAUST)_3		ʔuːxuj			
 SNAKE_1	ʔawˈi		ʔave	aʔwˈi	ʔlwˈí~ʔlwˈî
+SPHERICAL (ROUND IN THREE DIMENSIONS)_1	ɾʔuɾ	ʔəlul			klʔˈulki
+SPHERICAL (ROUND IN THREE DIMENSIONS)_2			jenajen		
 STAND_1		pəxəkʷiː~pəxkʷiː			βskʷˈiˑ
 STAND_2	pʔaː		ivʔawm	pʔaw	
 STAR_1			hamuse		hˌammsˈíˑ
@@ -187,6 +203,10 @@ TAIL_3			iːʔar
 THAT_1	ʂuː~ʔuʂˈuː	puː		puː	
 THAT_2			hovaʧ		
 THAT_3					ɲθˈa
+THIN (OF SHAPE OF OBJECT)_1	ɾʂaːw				
+THIN (OF SHAPE OF OBJECT)_2					θˈéqi
+THIN (OF SHAPE OF OBJECT)_3		wəkʷiːɹp			
+THIN (OF SHAPE OF OBJECT)_4			ʔuːhʔaːrk		
 THIS_1	piː~ʔupˈiː	pəjaː	viðaʧ	pəjˈa	βjˈa
 THOU_1	mapˈuʧ	maː	maɲʧ	maːʧ	mˈaːʧ
 TONGUE_1	mpaʎ̥	ən̪əpaɬ	iːpaʎ	xənpˈaɬ	himpˈál~himpˈâl
@@ -219,6 +239,9 @@ WIND_2		jaːjp
 WOMAN_1					βqˈí~pqˈí
 WOMAN_2	sʔak		θiɲaʔaːk~θiɲaʔaːk	ɲəʧʔˈak	
 WOMAN_3		sinʲ			
+WORM_1			iʔˈiːʎva		ʔʔˈîˑla
+WORM_2	maʔˈiːʎ̥				
+WORM_3		iɬ			
 YEAR_1	mˌatkˈaːm			matwˈam	
 YEAR_2			hoðe~huːðe		ʔʧʰˈura
 YEAR_3		ʔaːnʲ			

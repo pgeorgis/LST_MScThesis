@@ -1,4 +1,16 @@
 	Erzya	Estonian	Finnish	Hungarian	Ingrian	Karelian	Khanty	Kildin Saami	Komi-Permyak	Komi-Zyrian	Livonian	Mansi	Meadow Mari	Nganasan	North Saami	Selkup	Skolt Saami	South Saami	Tundra Nenets	Udmurt	Veps	Votic	Võro
+ALL_1				mind												muntə							
+ALL_2														bənsə									
+ALL_3									bɯdɤs	bɯd													
+ALL_4								puɡː							pʊ̯ɔh		pukɐ						
+ALL_5	veɕe																						
+ALL_6																				vɑɲmɯz			
+ALL_7										stɑv		soːχ											
+ALL_8							əjsɑ̆ɣɯt																
+ALL_9				øsːɛʃ																			
+ALL_10		kɤik	kɑikːi		kɑi	kɑikːi												kɑːjhkɛ			kɑik	kɤik	kˑɤikʲˑ
+ALL_11													ʧə̠lɑ										
+ALL_12																			mɑlʔ				
 ASH_1	kulov							kunː							kʊtnɑ		kunːɐ	kuβnɛ					
 ASH_2		tuhk	tuxkɑ			tʊxkɑ					tuːˀɡɨd			tuːdʲoəʔ							tʊxk	tuhk	tˑuhkˑ
 ASH_3																			tunzʲibʲɑ				
@@ -7,6 +19,15 @@ ASH_5																				peɲ
 ASH_6				hɒmu									lomə̠ʒ			ɕiːmə							
 ASH_7							kɑjəm		pɤjim	pɤjim													
 ASH_8												χuːʎəm											
+BACK_1		selk	selkæ		selɡ̊æ	sɛlkæ		sielʲːk			sæːlɡɑ				se̯ælɛki		sɛalʲɟ͡ʝːɘ				sɛlʲɡ	selʧ	sˑælk
+BACK_2												sis											
+BACK_3							ʧø̆ɳʧ																
+BACK_4													tup							tɯbɯr			
+BACK_5	koporʲ~kutʲmerʲe																						
+BACK_6									mɯʃk	mɯʃ													
+BACK_7																moqə			mɑxɑ				
+BACK_8														məku									
+BACK_9																		rʉʧːɛ					
 BARK_1								paːr̥ːk							paːrɑhkʊ			pɑːrhkuʌ					
 BARK_2									kɑʨ					kɑsu		qɑːsə							kˑosˑkʲˑ
 BARK_3	kerʲ	puːkoːr~korp	kɑːrnɑ	keːrɛɡ	koːri	kʊɔri	kær	keːrː		kɯrɕ	kuːorʲ	keːr	kyr				kərːɐ			kur	kɔrʲ	koːri	kˑuːrʲ
@@ -115,6 +136,14 @@ COME_7								puedʲːe
 COME_8		tulːɑ	tulːɑ		tulːɑ	tʊlːɑ					tuːldɑ		tolɑm	tujɕɑ							tʊldɑ	tulɤmɑ	tˑulɤmɑ
 COME_9																			toːsʲ				
 COME_10																tyː							
+COUNT_1				saːmol																			
+COUNT_2																toːr							
+COUNT_3									lɯdʲːɯnɯ	lɯdʲːɯnɯ										lɯʥːɯnɯ			
+COUNT_4	lovoms	luketɑ									luˀɡːə		luðɑm								lʊɡɛdɑ	lukɤmɑ	lukɤmɑ
+COUNT_5														tuəbtusɑ									
+COUNT_6			lɑskeɑ		lɑskiɑ	lɑskiɛ	lŏŋət	loːɡːe				lowiɲti			lɔhkɑh		lɒsʲc͡çːeːd						
+COUNT_7													ʧotlem										
+COUNT_8																		ryœknɛhtidh					
 DIE_1								jɒːmʲːe											xɑsʲ				
 DIE_2														dʲɑŋɡumsɑ									
 DIE_3															jaːpmih			jæːmɛdh					
@@ -124,6 +153,22 @@ DIE_6	kuloms		kuolːɑ		koːlːɑ	kʊɔlːɑ	kɑ̆lɑ				kuːolə	χoːli	kolem	
 DIE_7		surːɑ					sur															surɤmɑ	
 DIE_8																quː							
 DIE_9				mɛkhɒl																			
+DIRTY_1								saːkʲːs									saxsːɒi						
+DIRTY_2				sɛɲːɛʃ																			
+DIRTY_3											ræpːi												
+DIRTY_4	rudɑzov				reuɡ̊ɑz																rɛdʊkɑz		
+DIRTY_5		must			mustɑ																		musˑtˑ
+DIRTY_6							kulɯŋ													kɯrɕ			
+DIRTY_7														ɲeɡɯku									
+DIRTY_8			likɑinen			likɑni																	
+DIRTY_9				piskoʃ								pɑːŋkən											
+DIRTY_10										ɕɤd						ʧɑm				ɕɤd			
+DIRTY_11									ɲɑtʲɤɕ	ɲɑtʲ												roːjɤtːu	
+DIRTY_12	kɑrɡoʨ			kosoʃ																			
+DIRTY_13													lɑβə̠rɑn										
+DIRTY_14															tʊ̯ɔlvːɑs								
+DIRTY_15							pəɣtə																
+DIRTY_16																			wərʦɑwæj				
 DOG_1							æmp					ɑːmp											
 DOG_2															pe̯ænɑ			pɨɛɲɛ					
 DOG_3	piɲe							pienːe	pon	pon	piɲ		pij				piɐnːɒi			punɯ			pˑini
@@ -176,6 +221,17 @@ EYE_2								ʧalʲːm							ʧɑlɛbmi		ʧɐlʲmʲːɘ	ʧɛlmiɛ
 EYE_3																sɑji							
 EYE_4	ɕeʎme													ɕejmɯ									
 EYE_5									ɕin	ɕin			ʃiɲʧɑ							ɕin			
+FALL_1									uɕnɯ	uɕnɯ										uɕɯnɯ			
+FALL_2				ɛʃik																			
+FALL_3		kukːutɑ	pudotɑ																				kˑukˑɤrtumɑ
+FALL_4					tokːuɑ	lɑŋkɛtɑ					lɑŋɡə										lɑŋːɛtɑ	lɑŋkɤːmɑ	
+FALL_5	prɑms											rɑɣi											
+FALL_6													βozɑm										
+FALL_7														ʧəlhdʲi									
+FALL_8														sohədʲɑ									
+FALL_9								keːhʧe							kɑhʧːɑh		kəʧːɐd	kahʧɛdh					
+FALL_10							kørəɣ																
+FALL_11																ɑːlʨə							
 FAR_1					etːæːl																		
 FAR_2												eːlɑʎ											
 FAR_3						ɛtæhælːini															ɛdɑhɑinɛ		
@@ -212,6 +268,25 @@ FISH_1									ʨeri	ʨeri										ʨorɯɡ
 FISH_2												χuːl				quə̠lə							
 FISH_3	kɑl	kɑlɑ	kɑlɑ		kɑlɑ	kɑlɑ	kul	kuːlʲː			kɑlɑː		kol	kolɯ	kʊ̯ɔlːi		kuɛlʲːɘ	kʉɛliɛ			kɑlɑ	kɑlɑ	kˑɑlɑ
 FISH_4																			xɑʎɑ				
+FIVE_1														səŋhəʎɑŋkə		sompəlæŋqə			səmʎɑŋɡ				
+FIVE_2																		βɨjhtɛ					
+FIVE_3	vetʲe			øt			wet					ɑt											
+FIVE_4		viːs	ʋiːsi		viːz	viːsi			vit	vit	viːʒ				vihtːɑ		vitːɐ			vitʲ	viʒ	viːs	viːsʲˑ
+FIVE_5								vɨdː															
+FIVE_6													βiʧ										
+FLOWER_1								raːsʲː							raːsːi								
+FLOWER_2																		rɨɛsɛɡɛ					
+FLOWER_3				viraːɡ																			
+FLOWER_4																	xɛarʲvʲːrʲaːsʲːɘ						
+FLOWER_5									ʥoriʥ	ʥoriʥ		ɕoːri											
+FLOWER_6																					ænik		
+FLOWER_7																			ŋɑmdædʔŋæwɑ				
+FLOWER_8	ʨeʨɑ~ʦvetkɑ																						
+FLOWER_9			kukːɑ		kukːɑ	kʊkːɑ					pucːkɨz~pusk					sɯrkə				ɕɑɕkɑ		kukː	
+FLOWER_10							lɯjwə																
+FLOWER_11														lukuðiɑj									
+FLOWER_12		lilː																					lillʲ
+FLOWER_13													peleðə̠ʃ										
 FLY_1								kɨrʲːte															
 FLY_2													ʧoŋeʃtem										
 FLY_3																	c͡çɛrʲdʲːɛd						
@@ -229,6 +304,11 @@ FOOT_4												lɑːɣəl				topə
 FOOT_5		jɑlk	jɑlkɑ		jɑlɡ̊ɑ	jɑlkɑ		juːlʲːk			jɑːlɡɑ		jol		jʊ̯ɔlɛki			jʉɛlkiɛ			jɑʊɡ	jɑlk	jɑlk
 FOOT_6																	ʝuɛlʲɟ͡ʝːɘ						
 FOOT_7	piʎɡe																						
+FOUR_1														ʧətə		teːtːə							
+FOUR_2																			tʲeːt				
+FOUR_3		neli	neljæ	neːɟ	neljæ	nɛlːæ	ɲələ						nə̠l								nɛlʲː		neli
+FOUR_4								ɲieʎː				ɲilɑ						ɲiɛljiɛ					
+FOUR_5	ɲiʎe								ɲoʎ	ɲoʎ	nɛːʎɑ				ɲe̯æʎːe		nɛʎːɐ			ɲɯʎ		neʎːe	
 FULL_1														myntyɕɑ					pɑntɑ				
 FULL_2	peʃkɕe												temʃe										
 FULL_3							tel					tɑːɣəl											
@@ -251,6 +331,16 @@ GOOD_5				joː			jəm				jɨvɑː	jomɑs				somɑ			səwɑ
 GOOD_6													sɑj							umoj			
 GOOD_7										ʃɑɲ													
 GOOD_8														ɲɑɡəː									
+GRASS_1				fyː																			
+GRASS_2																							hɑin
+GRASS_3									turun	turun										turɯn			
+GRASS_4	tʲikʃe																						
+GRASS_5								raːsʲː							raːsːi		raːsʲːɘ	kʰræːsiɛ					
+GRASS_6		rohi	ruoɦo		roho																	roho	moro~ruːh
+GRASS_7													ʃuðo										
+GRASS_8														ɲotə		ɲuːʧə							
+GRASS_9							pɑm					pum											
+GRASS_10																			ŋɑmdæʔ				
 GREEN_1				zøld																			
 GREEN_2									zeʎonɤj														
 GREEN_3							kullø̆j																
@@ -317,6 +407,18 @@ HEAVY_8		rɑske	rɑskɑs		rɑskɑz~rɑŋkːɑ			loːsʲːesʲ							lɔsːɑh		l
 HEAVY_9									ɕɤkɯt	ɕɤkɯd										ɕekɯt			
 HEAVY_10	stɑkɑ													səŋkutuo					səŋɡoːwoːtɑ				
 HEAVY_11				ʃuːjoʃ																			
+HOLD_1										kutnɯ			kuʧem										
+HOLD_2							kætl																
+HOLD_3								ɒːnʲːe															
+HOLD_4																	tuɛrʲʝːeːd						
+HOLD_5	kirʲdʲems																						
+HOLD_6														kəmiɑsɑ					ɲɑʔəmbəsʲ				
+HOLD_7		hoitɑ		tɒrt								tɑkti											hoitˑmɑ
+HOLD_8															tɔ̯ɑlːɑh	orɑlpi							
+HOLD_9				foɡ																			
+HOLD_10									viʥnɯ	viʥnɯ										voʑɯnɯ			
+HOLD_11																		ʉtniɛdidh~steːrɛdh					
+HOLD_12			pitæː		pitˑæː	pityæ					piˀdːə										pidɑdɑ	pitæmæ	
 HORN_1							ɑ̆ŋət					ɑːɲt		ŋɑmtə		ɑːmtə							
 HORN_2																			ɲɑmd				
 HORN_3		sɑrv	sɑrʋi		sɑrvi	sɑrvi					sɔːrɑ				ʧɔ̯ɑrɛvi			ʧoærβiɛ			sɑrʲv	sɑrvi	sˑɑrvʲ
@@ -357,6 +459,19 @@ KNOW_8									tɤdnɯ	tɤdnɯ~kuʒnɯ										tosɯnɯ
 KNOW_9							onəl																
 KNOW_10													ʃiɲʧem										
 KNOW_11														ʧənɯdʲi									
+LAUGH_1								siːjːne															
+LAUGH_2														hidʲiɕi									
+LAUGH_3	pejdʲems																						
+LAUGH_4									serɑvnɯ	ɕerɑvnɯ										ɕerekjɑnɯ			
+LAUGH_5																		føːrhkɛdidh					
+LAUGH_6												muwɑli											
+LAUGH_7															pɔ̯ɑkʊstih		pɔɣstɛd						
+LAUGH_8							ɭɯsəɣ									pisəj			pʲisʲənzʲ				
+LAUGH_9	rɑkɑms																						
+LAUGH_10															ʧɑjbmɑh								
+LAUGH_11		nɑertɑ	nɑwrɑː		nɑɡrɑː	nɑkrʊɑ					nɑˀɡrə										nɑɡrdɑ	nɑɡrɤmɑ	nɑːrtmɑ
+LAUGH_12													βoʃtə̠lɑm										
+LAUGH_13				nɛvɛt																			
 LEAF_1				lɛveːl							lɛːɟ												
 LEAF_2	lopɑ	leht	leçti		lehti	lɛxti		leːsːt				luːptɑ	lə̠ʃtɑʃ		lɑstɑ		ləstːɐ				lɛxtɛz	lehto	lehtʲˑ
 LEAF_3																			weːbɑ				
@@ -416,6 +531,18 @@ MAN_9	ɑʎɑ~ʨorɑ									mort			mɑrij
 MAN_10														ŋɑnɑʔsɑ					xɑsɑwɑ	vorɡoron			
 MAN_11								ɒːlmolma							ɔlmːaːj		ɔːlmɐ	ɔlma					
 MAN_12																				piosmurt			
+MANY_1							ær																
+MANY_2																				tros			
+MANY_3		pɑljut																					pˑɑllʲo
+MANY_4			moni		moni																	mɤni	
+MANY_5		mitːu																					
+MANY_6													jɑtə̠r			koʨːə							
+MANY_7												sɑːw											
+MANY_8				ʃok									ʃuko										
+MANY_9			useɑ						unɑ	unɑ													
+MANY_10	lɑmo																						
+MANY_11														ŋuŋkəɡə									
+MANY_12								jeːnːe															
 MEAT_1									jɑj	jɑi			jør										
 MEAT_2							ɲoɣɯ							ɕɑhɯ									
 MEAT_3												ɲowəʎ											
@@ -454,6 +581,20 @@ MOUTH_5							lul					tuːs
 MOUTH_6		suː	suː	saːj	suː	suː					suː	suːp									sʊ	suː	sˑuː
 NAME_1	ʎem	nimi	nimi	neːv	imi	nimi	nem	neːmː	ɲim	ɲim	niˀm	nɑm	lym	ɲim	nɑmːɑ	ɲim	nəmːɐ	numːɛ		ɲim	nimi	nimi	nimi
 NAME_2																			ɲumʔ				
+NEAR_1							wæɳ																
+NEAR_2																						tyven	
+NEAR_3				køzɛl																			
+NEAR_4																		kiɛʦkiɛs					
+NEAR_5		liki			liɡ̊i								liʃne									liʧi	
+NEAR_6		læhetɑl	læɦelːæ								lɛˀʒɡɨli										læhɛlinɛ		læhikˑsˑel
+NEAR_7								alʲːt									ɐldːləs						
+NEAR_8									mɑtɯn	mɑtɯn										mɑtɯn			
+NEAR_9												wɑːtʲi		kɑdʲɑ									
+NEAR_10	mɑlɑso																		xɑxəjɑdɑ				
+NEAR_11												ʎɑpɑt											
+NEAR_12														noɡɑʔʎuky									
+NEAR_13																ʧɑʧæ							
+NEAR_14																						juːrɤz	
 NECK_1							tur													ʨɯrtɯ			
 NECK_2								ʧaːpex							ʧe̯æpeh		ʧɛapːɒt	ʧeæpuhkɛ					
 NECK_3										ɕilɯ			ʃyj										
@@ -495,6 +636,16 @@ NOT_6													oɣə̠ʃ			ɑsə
 NOT_7	ɑ								ɑbu	oz		ɑt											
 NOT_8																				uz			
 NOT_9							ənt																
+OLD_1												mɑtəm		mɑnuədʲəː									
+OLD_2		vɑnɑ	ʋɑnxɑ		vɑnhɑ	vɑnhɑ			vɑʒ	vɑʒ	vɑnɑː		ʃoŋɣo~toʃto							vuʒ	vɑnh	vɑnɑ	vɑnɑ
+OLD_3				ørɛɡ												meːntæʎ							
+OLD_4				reːɡi																			
+OLD_5																			ɲeːwxɨ				
+OLD_6	sirʲe~kezerʲeɲ																						
+OLD_7									pɤriɕ	pɤrɯɕ					pɔ̯ɑris			poæriɛs		pereɕ			
+OLD_8							pɯrəs	puerʲesʲ~vuːras									puarʲɛs~vuamʲɛs	βuʌrɛs					
+OLD_9							əs					jis											
+OLD_10														bəjkuɑ									
 ONE_1														ŋuʔəiʔ					ŋoːbʔ				
 ONE_2								eːxːt									əxtːɐ						
 ONE_3												ɑkʷɑ			ɔktɑ	okːər							
@@ -555,6 +706,28 @@ ROOT_6	jur	juːr	juːri		juːri	juːri					juːrʲ										jʊrʲ	juːri	juːr�
 ROOT_7									vuʒ	vuʒ										vɯʒɯ			
 ROOT_8													βoʒ										
 ROOT_9														bəntu									
+ROPE_1								nurʲː															
+ROPE_2														bɯnɯ									
+ROPE_3	piks																						
+ROPE_4							irkæn																
+ROPE_5							ʧoɳʧəɣ									ʧeːmʧə							
+ROPE_6									ɡez	ɡez										ɡozɯ			
+ROPE_7		køis	køysi	køteːl	køyz								kerem									ʧøysi	kˑøyʦʲˑ
+ROPE_8												kʷɑːliɣ										trosːi	
+ROUND_1														lɑlujkuə~mɑndɑjku									
+ROUND_2	keverʲ																						
+ROUND_3				ɡømbøjyː																			
+ROUND_4													tə̠rtə̠ʃ~jə̠rɣeʃke										
+ROUND_5	kruɡlovoj															koʎɑʎ							
+ROUND_6								jorʲːpesʲ							jɔrbpɑs		ʝoːrbɐs						
+ROUND_7									ɡɤɡrɤsɑ	ɡɤɡrɤs		mɑrɑwi											
+ROUND_8																		jurpɛ	sʲurtʲɑw				
+ROUND_9													ʧumə̠rɑʃ										
+ROUND_10		ymːɑrkune			ymb̥ærikːoi̯						imːɨrɡoutlimi											ymːerkɤin	ymærikˑ
+ROUND_11				kɛrɛk			pøŋɭək~kørək																
+ROUND_12																				kotɯres~pitɯres			
+ROUND_13			pyøreæ		pøːræhæin	pyœriɛ										pyrəʎ							
+ROUND_14																					kɛxkɛr		
 SALT_1				ʃoː									ʃiɲʧɑl			ɕɑːq							
 SALT_2															saːlti		salʲtʲːɘ	sæːlhtiɛ					
 SALT_3	sɑl	soːl	suolɑ		soːlɑ	sʊɔlɑ	sɑ̆lnə	suːlʲː	sov	sov	suːoʎ	solwɑl		sɯr						sɯlɑl	sɔl	soːl	sˑuːl
@@ -596,6 +769,48 @@ SEE_9		næhɑ	næçdæ		næhːæ	næhæ					næːdə										næxtɑ	næʧemæ	
 SEE_10																	vuɛinʲːɛd	βʉɛjnɛdh					
 SEE_11														ŋəðyɕɑ									
 SEE_12				laːt																			
+SEED_1			jyʋæ																			jyvæ	
+SEED_2		seːme	siemen		seːmen	siɛmɛn	sem	siem			siːɛmɡɨz		nøʃmø		siɛpmɑn		siəmɐ					seːmen	sˑeːmeʔ
+SEED_3																			sæwkoː		sɛmnɛd		
+SEED_4	vidʲme																						
+SEED_5							lænsem																
+SEED_6				mɒɡ												mumːol							
+SEED_7												uːrlɑχ											
+SEED_8									kɤʥɯs	kɤidɯs										kidɯs			
+SEED_9									tuɕ	tuɕ			tom							tɯɕ			
+SEW_1							jɑnt~jɯn					juːnti											
+SEW_2				vɒrː					vurnɯ	vurnɯ										vurɯnɯ			
+SEW_3								kuarːe							kɔ̯ɑrːʊh		kuarːɒd	koɒrudh					
+SEW_4													urɣem										
+SEW_5		ɤmːeltɑ	omːelːɑ		omːelːɑ	ɔmːɛlːɑ					umblə										ɔmbɛltɑ	ɤmːɤlːɑ	umplɤmɑ
+SEW_6														soʧədʲɑ~sonsɯdʲi					sædəsʲ				
+SEW_7	stɑms																						
+SEW_8																ɕyːtːə							
+SHARP_1									leʨɯt	leʨɯd										leʨɯt			
+SHARP_2		terɑv	teræʋæ		terˑæːvæ	tɛrævæ															tɛrɑv	terævʲ	tˑerːæv
+SHARP_3				eːlɛʃ~hɛɟɛʃ																			
+SHARP_4										joɕ													
+SHARP_5								pasʲːtlesʲ							pɑstilih		pɐsʲtʲːɛl	pɛstɛlɛs					
+SHARP_6													pysø										
+SHARP_7												peːlpɑ											
+SHARP_8	kerʲi~pʃtʲi																						
+SHARP_9											vɑˀimi												
+SHARP_10														homɯntɯə~ɲomsɑjkuə									
+SHARP_11					suiɡ̊u																		
+SHARP_12																ɑːŋtəʎ							
+SHORT_1									ʤeɲɯt	ʤeɲɯd													
+SHORT_2				røvid																			
+SHORT_3		lyhikːe	lyɦyt		lyhyd̥	lyhyt					liːti										lʏhʏd	lyhyd̥	lyhkˑene
+SHORT_4													kyʧə̠k	kəːʎyky									
+SHORT_5							wæɳ																
+SHORT_6																			xæmʔ				
+SHORT_7															ɔ̯ɑnehɑʃ			oænɛhks					
+SHORT_8								ɒːnʲxesʲ															
+SHORT_9	nurʲkɑ																						
+SHORT_10																	vuanʲic͡ç						
+SHORT_11							ɲɑɣəlt									qɑːmə							
+SHORT_12												wɑːtʲi								vɑkʨi			
+SHORT_13					mɑd̥ɑlɑin																		
 SIT_1				yl																			
 SIT_2												uːnli											
 SIT_3							ɑməs							ŋomtyɕɑ		ɑːmti			ŋɑmdʲoːsʲ				
@@ -618,6 +833,16 @@ SKIN_10	kedʲ
 SKIN_11				bøːr																			
 SKIN_12					teːlɑ																		
 SKIN_13																		ɲalʧa					
+SKY_1																nom			numʔ				
+SKY_2								alʲːm									ɐlʲmʲːɘ						
+SKY_3															ɑlɛbmi			ɛlmiɛ					
+SKY_4														ŋuə									
+SKY_5												kors	kɑβɑ										
+SKY_6		tɑevɑs	tɑiʋɑs		tɑivɑz	tɑivɑs	torəm				toːvɑz	toːrəm									tɑivɑz	tɑivɤz	tˑɑivɑsˑ
+SKY_7									jenɤʒ	jeneʒ													
+SKY_8	meɲeʎ																						
+SKY_9				eːɡ																			
+SKY_10																				in			
 SLEEP_1		mɑkɑtɑ			mɑmːɑd̥ɑ	mʊɑtɑ					mɑˀɡːə		mɑlem								mɑɡɑtɑ	mɑkːɑmɑ	mɑkɑmɑ
 SLEEP_2																			xoːɲoːsʲ				
 SLEEP_3				ɒlsik			ɑ̆lɑ																
@@ -688,6 +913,13 @@ STONE_5	cæv
 STONE_6																	c͡çɛadʲɟ͡ʝːɘ						
 STONE_7														huɑlə									
 STONE_8												ɑːχwtɑs											
+SUCK_1				sopik~siːv								sipɣi											
+SUCK_2	potʲɑms																						
+SUCK_3													ʃupʃɑm										
+SUCK_4									ɲimɑvnɯ	ɲoɲɑvnɯ										nonɯnɯ			
+SUCK_5								ɲumːe								ɲim							
+SUCK_6		imetɑ	imeæ		imˑiːæ																	imemæ	imemæ
+SUCK_7							em																
 SUN_1									ʃondi	ʃondi										ʃundɯ			
 SUN_2																			xɑjeːrdʔ				
 SUN_3				nɒp										kou									
@@ -716,11 +948,69 @@ TAIL_6		sɑpɑ		fɒrok							tɑbɑːr											sɑpɑ
 TAIL_7			hæntæ		hænd̥æ	hæntæ															hænd		hɑnt
 TAIL_8								siejːp							sæjpi		sɛibʲːɘ	siɛjpiɛ					
 TAIL_9														təjbu									
+TAKE_1							wə					wiɣ											
+TAKE_2																iː							
+TAKE_3									boɕtnɯ	boɕtnɯ										bɑɕtɯnɯ			
+TAKE_4		vɤtːɑ	otːɑː		otːɑː	ɔtːʊɑ							nɑlɑm								ɔtːɑ	vɤtːɤmɑ	vɤtˑmɑ
+TAKE_5	sɑjems																						
+TAKE_6														ŋohyləsɑ									
+TAKE_7								vaːlʲːte							vaːltih		valʲdʲːɛd						
+TAKE_8																		βæːltɛdh					
+TAKE_9				vɛs																			
+TAKE_10											vɨtːə												
+TAKE_11				foɡ																			
+TAKE_12																			meːsʲ				
 THAT_1									sijɑ	sijɤ			sɑðe							so			
 THAT_2	ɕe	seː									sɛ											seː	
 THAT_3														təti			tətɐ	tuhtɛ					
 THAT_4	tonɑ	toː	tuo		toː		tom	tudː~ʃto		tɯ		tɑ	tu	tɑːniə~tɑkəː	tɑh	toː			tʲikɨ			to	tˑuː
 THAT_5				ɒz																			
+THEY_1			he		høː	hyœ															hœ		
+THEY_2											nɛ											næmæ	nimæʔ
+THEY_3		nemɑt							nijɑ	nɑjɤ			nuno										
+THEY_4	siɲ							sɨjː							sij		siʝɐ			soːs			
+THEY_5														sɯtɯŋ									
+THEY_6												tɑːn				tɤpət							
+THEY_7							jəɣ																
+THEY_8																			pɨdoːʔ				
+THEY_9				øːk																			
+THICK_1							kø̆l	keːsː									kəsːɐd	kɨsːɛ					
+THICK_2									kɯz	kɯz												kruːtoi	
+THICK_3													kyʒɣø										
+THICK_4												osəŋ			ɑsːaːj								
+THICK_5																		jasːijɛs				jæmiæ	
+THICK_6											jɑˀmdi												
+THICK_7	eʧke						eɳəki																
+THICK_8		pɑks	pɑksu		pɑksu	pɑksʊ														zɤk		pɑksu	pˑɑkˑsˑ
+THICK_9				vɒʃtɒɡ												ɲɑŋtu			ɲɑŋoːtɑ				
+THIN_1														dʲobtəɡəː		ʨoːptə			jɑbtɑ				
+THIN_2					hoikːɑ	hɔikːɑ															hɔik	hoik~lɑih	
+THIN_3	ʧovɑ											oɕːɑ										nɤdrɑ	
+THIN_4							woɣəʎ																
+THIN_5									vɤsɲit	vesɲɯd													
+THIN_6				veːkoɲ																vekʨi			
+THIN_7											vʊiti												
+THIN_8		ɤhukːene	oɦut																				ohukˑɤnɤ
+THIN_9					heːno										ɑsehɑʃ								
+THIN_10														ɲeu									
+THIN_11							ætəm																
+THIN_12																	ɐːzʲːtʲɛmʲɘ						
+THIN_13								sieŋʲkesʲ															
+THIN_14													βiʧkə̠ʒ										
+THIN_15																		jisːɛhʦ					
+THINK_1																		ʉsːjɛdidh					
+THINK_2																			jiʔʲɑdærʦʲ				
+THINK_3							noməɣsətə					nomsi											
+THINK_4														sɯɲəruədʲi									
+THINK_5																tenirpi							
+THINK_6				ɡondol									ʃonem										
+THINK_7		mɤeltɑ	ɑjɑtelːɑ								mɨtlə												mɤtˑlɤmɑ
+THINK_8										mɤvnɑvnɯ										mɑlpɑnɯ			
+THINK_9					meinɑd̥ɑ																mɛlɛtɑdɑ		
+THINK_10	dumɑms								dumɑjtnɯ	dumɑjtnɯ												duːmɑmɑ	
+THINK_11								jurʲːte							jʊrdtɑʃih								
+THINK_12																	ʝuːrdʧɛd						
+THINK_13	ɑrʲɕems																						
 THIS_1		seː																				seː	sˑeo
 THIS_2			tæmæ		tæmæ	tæmæ	tim									tɑm							
 THIS_3																					nɛʦɛ		
@@ -733,6 +1023,24 @@ THOU_2		sɑ	sinæ		siæ	siɛ					sinɑː										sinæ	siæ	sˑɑk
 THOU_3				tɛ					te	te													
 THOU_4	ton							toːnː					tə̠j	tənə	tɔn	tɑn	tonɐ	tatnɛ		ton			
 THOU_5																			pɨdər				
+THREE_1				haːrom								χuːrəm											
+THREE_2	kolmo	kolm	kolme		kolmed̥	kɔlmɛ	koləm	koːlːm	kujim	kujim	kuolm		kum		kɔlɔbmɑ		koumːɐ	kulmɛ		kuiɲ	kɔʊmɛ	kɤlmi	kˑolm
+THREE_3														nɑɡyr		nɑːkur			ɲɑxɑrʔ				
+THROW_1							ʎæk																
+THROW_2								ʧaʦʲːke															
+THROW_3													ʃuem~kə̠ʃkem										
+THROW_4															sʊhpːeh								
+THROW_5									ʃupkɑvnɯ~ʨɑpkɑvnɯ	kojnɯ~ʨɤvtnɯ										kujɑnɯ~serpɑʎːɑnɯ			
+THROW_6				dob																			
+THROW_7														bɑjbudʲɑ									
+THROW_8																ʨɑʧːə							
+THROW_9																			moːsʲ				
+THROW_10		heitːɑ	heitːæː	hɒjiːt	heitːæː						ɛitə											heitːemæ	hiːtˑmæ
+THROW_11		visɑtːɑ				visɑtɑ					viskə												visˑkˑɑmɑ
+THROW_12	jortoms~kɑjɑms																					porotːɤmɑ~virɑutːɤmɑ	
+THROW_13							tɑ̆ɣɑ														tɑʦtæ		
+THROW_14														sətəməsɑ									
+THROW_15												reːpi											
 TONGUE_1														ɕiədʲə									
 TONGUE_2																ɕeː							
 TONGUE_3								ɲuxʧemʲ							ɲʊ̯ɔvʧːɑ		ɲuxʧːɐm	ɲuʌkʧɛmɛ					
@@ -759,6 +1067,15 @@ TWO_2				kɛtːøː			kætkən
 TWO_3												kitiɣ		ɕiti		ɕitə							
 TWO_4																	kuəxʲtʲːɘ						
 TWO_5																			sʲidʲɑ				
+VOMIT_1				haːɲ																			
+VOMIT_2													ukʃiɲʧɑm										
+VOMIT_3							ɑɣət																
+VOMIT_4												ɑːjtɑχti											
+VOMIT_5									ɤsɤtnɯ	vosnɯ~ɡorʥɯnɯ										ɤskɯnɯ			
+VOMIT_6	uksnoms	okːsentɑtɑ	oksentɑː		oksend̥ɑisːɑ																	ɤhsɤtːɤmɑ	osːɤntɑmɑ
+VOMIT_7													βɑkem										
+VOMIT_8																tøːtə							
+VOMIT_9								vukʲːse															
 WALK_1								vaːnʲːʦe							vaːʣːih		vaʣʲːɛd						
 WALK_2									vetlɤnɯ	vetlɯnɯ										vetlɯnɯ			
 WALK_3																				wɑmɯʃtɯnɯ			
@@ -791,10 +1108,30 @@ WATER_6							jəŋk
 WE_1												mɑːn							mɑɲɑʔ				
 WE_2	miɲ	meie	me	mi	møː	myœ	məŋ	mɨjː	mijɤ	mi	mɛːɡ		me	mɯŋ	mij	meː	miʝɐ			mi	mœ	myː	miːʔ
 WE_3																		mijːiɛh					
+WET_1														ɲetɯbɯə									
+WET_2																		luβːɛ					
+WET_3									uʎ														
+WET_4																			səʔɲuj				
+WET_5		mærk	mærkæ		mærɡ̊æ	mærkæ	mŏrɯ					ɲɑːr									mærɡ	mærʧ	
+WET_6				nɛdvɛʃ																			
+WET_7																							hæmː
+WET_8								ɲuːʦkas							ɲʊ̯ɔskːɑs		ɲuəʦkɒs						
+WET_9	nɑʧko												noʧko										likˑɤ
+WET_10									vɑ	vɑ													
+WET_11											kɑˀʒːi									kot			
+WET_12							lɑ̆ləŋ																
+WET_13																ʨentɑʎ							
 WHAT_1	meʑe						mø̆ɣi	meɡː															
 WHAT_2		mis	mi	mi	mi	mi		miː	mɯj	mɯj	mis	mɑn	mo	mɑː	mij		miːɐ	mij		mɑ	mi	mikæ	miæ
 WHAT_3																qɑji							
 WHAT_4																			ŋɑmɡæ				
+WHERE_1			misːæ	mibɛn																			
+WHERE_2																qɑjiqən							
+WHERE_3								kasʲt									kosʲtʲɘ						
+WHERE_4																		kʉsniɛ					
+WHERE_5	koso	kus			kuz	kʊsːɑ			kɯtɤn		kus		kuʃto	kuni		kuːn				kɯtɯn	kʊs	kuzɑ	
+WHERE_6				hol			kot			kɤn		χoːt			kɔs								kˑon
+WHERE_7																			xəɲɑnɑ				
 WHITE_1				fɛɦeːr																			
 WHITE_2							næɣi																
 WHITE_3																	viəlɡːɐd				vɑʊɡɛd		
@@ -812,12 +1149,28 @@ WHO_4	ki	kes	ken	ki	ken	kɛn		keː~keɡː	kin	kin	kis		kø		kij			kiɛ		kin	kɛn
 WHO_5			kukɑ		kuɡ̊ɑ								kuðo			kuti							
 WHO_6														sɯlɯ									
 WHO_7																	c͡çiːɐ						
+WIDE_1			leʋeæ		levˑiːæ	lɛviɛ															lɛvɛd		
+WIDE_2				seːlɛʃ																			
+WIDE_3							komət	koːmʲːtesʲ					kumðɑ					kamtɛ					
+WIDE_4	keʎej																						
+WIDE_5									pɑɕkɯt	pɑɕkɯd		pɑːŋχəŋ								pɑɕkɯt			
+WIDE_6														tɑntəɡəː		ʧɑːnʧə							
+WIDE_7		lɑi								otɑ	lɑiɡɑː				kɔvtɑh				lɑtɑ			lɑdʲː	lɑkʲɑ
+WIDE_8																	kobdːi						
 WIND_1							wɑt					woːt											
 WIND_2		tuːl	tuːli		tuːli	tuːli			tɤv	tɤv	tuːʎ									tɤl		tuːli	tˑuːlʲ
 WIND_3																merkə			mʲeːrʦʲɑ				
 WIND_4	vɑrmɑ												mɑrðeʒ										
 WIND_5								piːŋːk							piɛɡkɑ		piəɡːɐ	pɨɛkːɛ					
 WIND_6														biə									
+WING_1		tiːp	siːpi		siːb̥i	siːpi																siːpi	sˑiːp
+WING_2															sɔ̯ɑcːi			soɒja					
+WING_3				saːrɲ				suejː									suaʝːɐ				suːɡ		
+WING_4											tiːbɨz	towəl											
+WING_5													ʃulðə̠r			kuːtə							
+WING_6									bord	bord		mɑrk								burd			
+WING_7	ɕolmo						pɑ̆jlɑŋ																
+WING_8														ʧuo					toː				
 WOMAN_1	ɑvɑ			ɒsːoɲ						ɑɲ													
 WOMAN_2									iɲkɑ				yðə̠rɑmɑʃ			imːɑ							
 WOMAN_3										nɯvbɑbɑ													
@@ -826,6 +1179,14 @@ WOMAN_5				nøː								neː		nɯ					ɲeː
 WOMAN_6								nɨzan									neːzːɒn						
 WOMAN_7		nɑine	nɑinen		nɑin	nɑini	ni				nɑi				nisʊ			nyjsɛnɛ			nɑinɛ	nɑin	nɑːnɤ
 WOMAN_8																				kɯʃno			
+WORM_1														kəʎɕyʔə									
+WORM_2																			xəlɨ				
+WORM_3				feːrɛɡ								peːrk											
+WORM_4							soɣ		ɡɑɡ														
+WORM_5								maːdː							maːhtʊ		maːtːɐ						
+WORM_6			mɑto		mɑd̥o	mɑtɔ															mɑdɔ		vɑkɤl
+WORM_7										nomɯr										numɯr			
+WORM_8	suks	usː											ʃukʃ			ʧuk						touko	husʲː
 YEAR_1				eːv													eːc͡çːɘ						
 YEAR_2	ije												ij										
 YEAR_3								ɨɡʲː															

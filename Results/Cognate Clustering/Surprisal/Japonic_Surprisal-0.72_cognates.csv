@@ -1,9 +1,21 @@
 	Aichi	Akita	Aomori	Chiba	Ehime	Fukui	Fukuoka	Fukushima	Gifu	Gunma	Hachijō	Hateruma	Hirara	Hiroshima	Hokkaidō	Hyōgo	Ibaraki	Ikema	Irafu	Ishigaki	Ishikawa	Iwate	Kagawa	Kagoshima	Kanagawa	Kumamoto	Kyōtō	Kōchi	Mie	Miyagi	Miyazaki	Nagano	Nagasaki	Nara	Naze	Niigata	Okayama	Okinawa	Old Japanese	Saga	Saitama	Shiga	Shimane	Shizuoka	Taketomi	Tarama	Tochigi	Tokushima	Tottori	Toyama	Tōkyō	Wakayama	Yamagata	Yamaguchi	Yamanashi	Yonaguni	Ōita	Ōsaka
+ALL_1	miɴna	miɴna	miɴna	miɴa	miɴna	miɴna		miɴna	miɴna	miɴna	meɴna		mːna	miɴna	miɴna	miɴna	miɴna	mːna	mːna		ɴna	miɴna	miɴna	miɴna	miɴna	mina	miɴna	miɴnaː	mina	miɴna	miɴna	miɴna	miɴna	miɴna		ɴna	miɴna		mɨna		miɴa	mina	meɴna	miɴna		mːna	mina	mina	miɴna	ɴna	miɴa	miɴna	miɴna	miɴna	miɴna		miɴna	mina
+ALL_2																																								ʃiʔkja																		
+ALL_3							soːjo					muːruɴ								muːru																		muru							muːru											muru		
+ALL_4																																			ɡoʔto																							
 ASH_1		aɡu	aɡu					aɡu							aku							aɡu								aɡu						aku																	aɡu					
 ASH_2																																																								çiɡuɴ		
 ASH_3													karapaɨ					karapai	karapaɨ																											karapaɨ												
 ASH_4	βɛː			hɛː	hai	hai	hai			hai	heː	peː		hai		hai	hae			hai	hai		hai	heː	heː		hai	hai	hai		fe	heː	hai	hai	hə		hai		haçi		hai	hae	hae	heː	pai		hai	hai	hai	hai	hai	hai		hɛː	heː		heː	hai
 ASH_5									çɛː																	çaː												heː		çaː																		
+BACK_1	senaka	henaɡa	henaɡa	senaka		ʃenaɡa	ʃenaka	ʃenaɡa	senaka	senaka	hedaka	iʃinaɡa		sena	senaka	senaka	ʃenaɡa				senaka	senaɡa	senaka	senaka	senaka		senaka	senaka	senaka	ʃenaɡa	ʃenaka	senaka	ʃenaka	senaka		senaka	ʃena			ʃena	senaka	senaka	ʃena	senaka	kuʃinaka		senaka	ʃenaka	senaka	senaka	senaka	senaka	henaɡa	sena	senaka		ʃenaka	senaka
+BACK_2																																							se																			
+BACK_3					seɴɡo																																																					
+BACK_4																																						naɡaːni																				
+BACK_5													kusɨ							kusu															kusɨ																							
+BACK_6																		kuːɴmi	kuːɴni																																							
+BACK_7																																														kusɨbuni										kuʧʔibuni		
+BACK_8																										ɡotjaː																																
 BE DEAD OR DIE_1											marubu	maːrasuɴ								maːrasuɴ																		maːsuɴ							maːrasuɴ											maisuɴ		
 BE DEAD OR DIE_2	ʃinu	ʃinu	sunu	ʃinu	ʃinuru	ʃinu	ʃinu	ʃinu	ʃinu	ʃinu			sɨɴ	ʃinuru	ʃinu	ʃinu	ʃinu	sɨɴ	sɨɴ		ʃiɴ	sunu	ʃinu	keʃiɴ	ʃinu	ʃinuru	ʃinu	ʃinuru	ʃinu		keʃinuru	ʃimu	ʃinu	ʃinu	sɨɲuɴ	ʃiɡu	ʃinuru		ʃinu	ʃiɴ	ʃinu	ʃinu	ʃinoː	ʃinu		sɨɴ	ʃinu	ʃinu	ʃinuru	ʃinu	ʃinu	ʃinu	ʃinu	ʃinuru	ʃinu		ʃinuru	ʃinu
 BELLY_1															onaka																																							onaka				
@@ -49,6 +61,19 @@ COLD_6																								çijuʔ
 COLD_7																																			çiɡuruʃaɴ																							
 COME_1	kuru	kuru	kuru	kuru	kuru	kuru	kuru	kuru	kuru	kuru	kuru		ksɨsɨ	kuru	kuru	kuru	kuru				kuru	kuru	kuru			kuru	kuru	kuru	kuru		kuru	kuru	kuru	kuru		kuru	kuru				kuru	kuru		kuru			kuru	kuru	kuru	kuru	kuru	kuru	kuru		kuru		kuru	kuru
 COME_2												kuɴ						βuː	βuː	ksɨːɴ				kuʔ	iku										kjuɴ				ku	kuː			kuː		kuːɴ	ksɨː										kuɴ		
+COUNT_1												jumuɴ	jum			jomu		jum	jum		joɴ		jomu				jomu								jumjuɴ			jumuɴ							jumuɴ	jum		jomu				jomu				dumi		
+COUNT_2	kaɴjoseru	kaɴjeru	kaɴʤoeru	kaɴjoː	kaʣueru	kaɴjeru	kaɴneru	kaɴjoːʃiru	kaɴjoːseru	kaɴjoːsuru	kaɴjoːsu			kaʣueru	kaʣoeru		kaɴjoːsuru					kaɴjeru		kaɴʣuʔ	kaɴjoːsuru	kaɴʤuru		kaʣueru	kaʣoeru	kaɴʣoeru	kaʣojuru	kaɴjoːʃiru	kaʣojuru	kaʣueru		kaɴjoː	kaʣueru		kaʣoβu	kaʣojuru	kaɴjoːsuru	kaʣoeru	kajeː	kaɴjoːʃiru			kaʣoeru		kaʣureru	kaɴjoːsuru	kaʣoeru		kaɴjeru	kaʣøːru	kaʣoeru		kaʣojuru	kaʣujomu
+COUNT_3																				saɴmiɴsɨː																																						
+DIRTY_1																																	joʔsowaʃika							josowaʃika																		
+DIRTY_2												jaɴʃihaɴ								janiʔʃaːɴ								ɴdakiʤa							janaksɨʃaɴ										janijaɴ													
+DIRTY_3																																																								dinaɴ		
+DIRTY_4							urameʃika																																																			
+DIRTY_5	kitanɛː	kitanɛ	kitanɛ	kitanɛː	kitanai	kitanai		kiʔtanɛ	kitanɛː	kitaneː	kitanakja			kitanaː	kitanai	ʧanai	kitane	ʔʃana	ʔʃanaɡi		kitanai	kiʔtanɛ	kitanai	kiʔsanaka	kitaneː	kitanaka	kitanai		kitanai	kidanɛ	kisane	kiʔtaneː		kitanaː		kiʔtanɛ	kitaneː		kitanaʃi		kitaneː	kitanae	kitaneː	kiʔtanɛː			kitanai	kitanai	kitanai		kitanai	kitanai		kitanɛː	kitanai		kisaneː	kitanai
+DIRTY_6																																														sɨputalmunu												
+DIRTY_7													sɨkata																																													
+DIRTY_8																																																					biʃo					
+DIRTY_9																																																		uʣakuraʃiː								
+DIRTY_10																																						hoɡoʃeɴ																				
 DOG_1	inu	enu	enu	inu	inu	inu	iɴ	inu	inu	inu	inume	inu	iɴ	inu	inu	inu	enu	iɴ	iɴ	iɴ	iɴ	enu	inu	iɴ	inu	iɴ	inu	inu	inu	enu	iɴ	eno	inu	inu	iɴ		inu		inu	iɴ	inu	inu	eno	inu	iɴ	ina	inu	inu	inu	iɴ	inu	inu	enu	inu	inu	inu	iɴ	inu
 DOG_2																																				eɴɡa		iɴɡwaː																				
 DRINK_1	nomu	nomu	nomu	nomu	nomu	nomu	nomu	nomu	nomu	nomu	nomu	numuɴ	num	nomu	nomu	nomu	nomu	num	num	numuɴ	nomu	nomu	nomu	noɴ	nomu	nomu	nomu	nomu	nomu	nomu	nomu	nomu	nomu	nomu	numjuɴ	nomu	nomu	numuɴ	nømu	nomu	nomu	nomu	noɴ	nomu	numuɴ	num	nomu	nomu	nomu	nomu	nomu	nomu	nomu	nomu	nomu	numuɴ	nomu	nomu
@@ -78,6 +103,7 @@ EGG_5	tamaɡo	tamaŋo	tamaŋo	tamaɡo	tamaɡo	tamaŋo	tamaɡo	tamaŋo	tamaŋo	ta
 EYE_1		anaɡu	anaɡu							anako	manako											anaɡu								anaɡu											anako												anaɡu					
 EYE_2	me				meː	meː	me	me	me			miɴ	miː	me	me	meː	me	miː	miː	miː	meː		meː	me	me	me	meː	meː	meː		me	me	me	me	mɨ	me	me	miː	mə	me		meː	me	me	miː	miː	me	meː	me	meː	me	meː		me	me	mi	me	meː
 EYE_3				medama																																																						
+FALL_1	oʧiru	oʤiru	oʣuru	oʧiru	oʧiru	oʧiru	oʦuru	oʤiru	oʧiru	oʧiru	oteru	ʔuʧiruɴ	utiɨ	oʧiru	oʧiru	oʧiru	oʤiru	utiː	util	ʔutiruɴ	oʔʧiru	oʣuru	oʧiru	oʦuʔ	okoʔʧiru	oʧiru	oʧiru	oʧiru	oʧiru	oʣuru	oʦuru	oʧiru	oʦuru	oʧiru	ʔutɨrjuɴ	oʧiru	oʧiru	ʔutɨːɴ	øtu	oʧiː	oʧiru	oʧiru	oʧiː	oʧiru	utiruɴ	util	oʧiru	oʧiru	oʧiru	oʧiru	oʧiru	oʧiru	oʤiru	oʧiru	oʧiru	ʔutiruɴ	oturu	oʧiru
 FAR_1													kamaːkaɨ					kaːmakai																												kadaːʃaːl												
 FAR_2	toøː	toːe	toːe	toːkiː	towai	toːi	toːka	toːi	toøː	towai	toːkja			toːiː	toːi	toːi	toːe		tuːkal	tuːsaːɴ	toːi	toːe	toːi	toe	toeː	toːka	toːi	toːi	toːi	toːe	towi	toːe	toːka	toːiː	tuːʃaɴ	toːwe	toeː	tuːʃeɴ		toːka	toːi	toːi	toe	toːi	tuːwaɴ		toːi	toːi	toːiː	toːi	toːi	tobai		toiː	toːi	tuɴ	towiː	toːi
 FAR_3																																							tøhøʃi																			
@@ -100,9 +126,12 @@ FISH_1	sakana	saɡana	sakana	sakana	sakana	sakana		saɡana	sakana	sakana					sak
 FISH_2							io				jo	juː	ɨʣu	io				ɨʣu	ɨʣu					ijo		juoː		io			ioː		uo		ʔju			ʔjuː	uwo	ioː					iʣu	ɨʣu				io						iu		
 FISH_3																				ʔiʤɨ																																						
 FISH_4																																																									buijeɴ	
+FIVE_1	iʦuʦu	eʤiʔʧi	eʣuʔʦu	iʦuʦu	iʦuʦu	iʦuʦu	iʦuːʦu	iʦuʦu	iʦuʦu	iʦuʦu	iʦuʦu		iʦɨʦɨ	iʦuʦu	iʦuʦu	iʦuʦu	eʦuʦu	iʦɨʦɨ	iʦɨʦɨ	ʔiʦɨʔʦɨ	iʦuʦu	eʣuʔʦu	iʦuʦu	iʦuʔ	iʦuʦu	iʦuʦu	iʦuʦu	itutu	iʦuʦu	eʣuʣu	iʦuʦu	eʦuʦu	iʦuʦu	iʦuʦu	iʦɨʦɨ	eʦuʦu	iʦuʦu	iʧiʧiː	itu	iʦuʦu	iʦuʦu	iʦuʦu	eʧiʧi	iʦuʦu	iʧiʧi	iʦɨʦɨ	iʦuʦu	iʦuʦu	iʦuʦu	eʦuʦu	iʦuʦu	iʦuʦu	iʧiʧi	iʦuʦu	iʦuʦu	ʔiʧiʧi	itutu	iʦuʦu
+FIVE_2												ʔiʔsɨ																																														
 FLESH OR MEAT_1													mɨ													mi					mi			miː	mɨː							miː															mi	miː
 FLESH OR MEAT_2	niku	niɡu	niɡu	niku	niku	niku	niku	niɡu	niku	niku	niku	niku		niku	niku	niku	niku			niku	niku	niɡu	niku	niʔ	niku		niku	niku	niku	niku		niku	niku			niku	niku			niku	niku		neku	niku			niɡu	niku	niku	niku	niku	niku	niɡu	niku	niku	niku		
 FLESH OR MEAT_3																		sɨːsɨ	sɨːsɨ																			ʃiʃiː	ʃiʃi						ʃiːʃi	sɨːsɨ												
+FLOWER_1	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	pana	pana	hana	hana	hana	hana	hana	pana	pana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	βanaː	hana	hana	hana	hana	hana	hana	pana	pana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana
 FLY (MOVE THROUGH AIR)_1																		tunuʤiɨ																				tuʔtuɴnuɡuɴ																				
 FLY (MOVE THROUGH AIR)_2	tobu	toɴbu	toɴbu	tobu	tobu	tobu	tobu	tobu	tobu	tobu	tobu	buɴʦuɴ		tobu	tobu	tobu	tobu		budul		tobu	toɴbu	tobu	toʔ	tobu	tobu	tobu	tobu	tobu	toɴbu	tobu	tobu	tobu	tobu		tobu	tobu		tøbu	tobu	tobu	tobu	tobu	tobu	tubuɴ	budul	tobu	tobu	tobi	tobu	tobu	tobu	toɴbu	tobu	tobu	tubuɴ	tobu	tobu
 FLY (MOVE THROUGH AIR)_3													tubiːpiɨ																																													
@@ -113,12 +142,14 @@ FOOT OR LEG_2	aʃi	asu	asu	aʃi	aʃi	aʃi	aʃi	asu	aʃi	aʃi	aʃi			aʃi	aʃi	a�
 FOOT OR LEG_3																																						çisa																				
 FOOT OR LEG_4																																		hoʔda																								
 FOOT OR LEG_5																																																								sanda		
+FOUR_1	joʔʦu	joʔʧi	joʔʦu	joːʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	juːʦɨ	juːʦɨ	joʔʦu	joʔʦu	joʔʦu	joʔʦu	juːʦɨ	juːʦɨ	juːʦɨ	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	juːʦɨ	joʔʦu	joʔʦu	juːʧi	jø	joʔʦu	joʔʦu	joʔʦu	joʔʧi	joʔʦu	juːʧi	juːʦɨ	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʦu	joʔʧi	joʔʦu	joʔʦu	duʧi	joʔtu	joʔʦu
 GOOD_1													ʤoːtuː					ʤautu	ʤau̥tuː	ʤoːtoː																		ʤoːtoː																				
 GOOD_2	eː	e	e	iː	eː	iː		iː	eː	iː				eː		eː	eː				iː	e	eː		iː		eː	ei	eː	eː	iː	eː		iː		eː	eː				iː	eː	e	eː			iː	eː	eː	iː		eː	eː	eː			iː	eː
 GOOD_3							joka				joʔkja				joi									joka		joka							joka						jøʃi	joka											joi				joi			
 GOOD_4																																														ʤauʃaːl												
 GOOD_5																																			iʔʧaɴ										misaɴ											ɴsaɴ		
 GOOD_6												miʃahaɴ																																														
+GRASS_1	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	βuʦa	βusa	kusa	kusa	kusa	kusa	βusa	βusa	βusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusaː	kusa	kusa	kusa	kusa	kusa	kusa	ʔsa	βuʃa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	kusa	ʦa	kusa	kusa
 GREEN_1	awøː	aoe	aoe	awɛ	aoi	aoi	aoka	aoi	awøː	aoi	aokja			aoi	aoi	aoi	aoe	aukai	aukal	ausaːɴ	aoi	ae	aoi	aoka	awɛ	aoka	aoi	aoi	aoi	aoe	awi	aweː	aoi	aoi		aːwe	awøː		awoʃi	aoka	aoe	aoi	aoe	aɛː	aoːɴ		aoi	aoi	aoi	aoi	aoi	aoi	aoe	awøː	aoi		awiː	aoi
 GREEN_2												ohaɴmi	oːkaɨ																						oːʃaɴ			oːʃeɴ								oːʃaːl												
 GREEN_3																																																								dirumidiru		
@@ -142,6 +173,9 @@ HEAVY_3																		ɴbukai		ɴbusaɴ						omuka									ʔuɴbuʃaɴ			ʔu
 HEAVY_4																																								oβutaka					ɡuʔβaɴ													
 HEAVY_5			modɛomodɛ																																																							
 HEAVY_6												sɨtaɡiʃihaɴ																																														
+HOLD_1	moʦu	moʤi	moʣu	moʦu	moʦu	moʦu	moʦu	moʣu	moʦu	moʦu		muʦuɴ	muʦɨ	moʦu	moʦu	moʦu	moʦu	muʦɨ	muʦɨ	muʦɨɴ	moʦu	moʣu		moʔ	moʦu	moʦu	moʦu		moʦu		moʦu	moʦu	moʦu	moʦu	muʧuɴ		moʦu	muʔtuɴ	møtu	moʦu	moʦu	moʦu	moʧi	moʦu	mutuɴ	muʦɨ	moʣu	moʦu	moʦu	moʦu	moʦu	moʦu		moʦu	moʦu	mutuɴ	motu	moʦu
+HOLD_2																														taŋaɡu						taɡaku																	taŋaɡu					
+HOLD_3											saɡeru												saɡeru					saɴɡeru																														
 I_1		ore						ore									ore					ora																															ore					
 I_2	waʃi			wataʃi	wataʃi		ataʃi		waʔʧi	wataʃi	wai			waʃi	wataʃi	wataʃi							otaʃi	atai	wataʃi	wataʃi	wataʃi	wataʃi	waʃi	wadasu	waʃi	waʃi	wataʃi	waʃi		wataʃi	wataʃi			wataʃi	waʃi	wataʃi	wataʃi	waʃi			wataʃi	wataʃi	waʃi	waʃi	wataʃi	wataʃi		wataʃi	wataʃi		waʃi	wataʃi
 I_3			wa			ura							baɴ					baɴ	baɴ		wate														waɴ			waɴ	ware						baɴ	baɴ												
@@ -152,6 +186,7 @@ KNOW (SOMETHING)_3		oɴberu	oɴberu																			oɴberu																			
 KNOW (SOMETHING)_4	ʃiru			ʃiru	ʃiru	ʃiru	ʃiru	ʃiru	ʃiru	ʃiru			ʔsɨ	ʃiru	ʃiru	ʃiru	ʃiru	sɨː	sɨː	ʃiɴ	ʃiru		ʃiru	ʃiʔ	ʃiru	ʃiru	ʃiru	ʃiru	ʃiru	suru	ʃiru	ʃiru	ʃiru	ʃiru		ʃiru	ʃiru		ʃiru	ʃiʔ	ʃiru	ʃiru	ʃiː	ʃiru	ʔʃeːɴ	sɨː	ʃiru	ʃiru	ʃiru	ʃiru	ʃiru	ʃiru		ʃiru	ʃiru		ʃiru	ʃiru
 KNOW (SOMETHING)_5																																			sɨʔʧuri																							
 KNOW (SOMETHING)_6											ʃokja																																															
+LAUGH_1	warau	warau	wararu	warau	warau	warau	ʔwarau	waraː	warau	warau	waroːwa	baːruɴ	amaiɨ	warau	wawarau	warau	waraː	baraiː	baraɨ	baːroː	waroː	warau	warau	waru	warau	warau	warau	warau	warau	warau	warau	warau	waroː	warau	warajuri	waroː	warau	warajuɴ	wataβu	warau	warau	warau	waraː	warau	barauɴ	baruː	waraː	warau	warau	warau	warau	warau	waraː	warau	warau	baruɴ	waroː	warau
 LEAF_1	ha	fa	ha	ha	ha	haː	ha		ha			paː	paː	ha	ha	haː		haː	paː	paː	haː		ha	ha		ha	haː	ha	haː		ha	ha	ha	ha	haː			faː	ha	ha		haː	ha		paː	paː	ha	haː		haː	ha	haː	fa	ha	ha	ha	ha	haː
 LEAF_2								haʔpa		haʔpa	haʔpa						haoːa					haʔpa			haʔpa					haʔpa						haʔpa	haʔpa				haʔpa			haʔpa					haʔpa									
 LIE DOWN_1																																							køjaru																			
@@ -174,6 +209,9 @@ MOUTH_1	kuʧi	kuʤi	kuʣu	kuʧi	kuʧi	kuʧi	kuʧi	kuʤi	kuʧi	kuʧi	kuʧi	βuʦ�
 MOUTH_2																																																								tʔi		
 NAME_1												naɴ	naː					naː	naː	naː						na			naː		na				naː			naː	na	na					naː	naː				naː		naː				na	na	
 NAME_2	namɛː	namae	namɛː	namɛː	namae	namae	namae	namae	namae	namae	nameː			namae	namae	namae	namae				namae	namɛ	namae	namae	nameː		namae	namae		namɛː		namae	namaje	namae		namae	nameː				nameː	namae	namae	namae			name	namae	namae		namae		namɛ	namɛː	namae			namae
+NEAR_1	ʧikɛː	ʧikɛ	ʦukɛ	ʧikɛː	ʧikai	ʧikeː	ʧikaka	ʧikɛ	ʧikɛː	ʧikai	ʧikakja	sɨkahaɴ	ʦɨkakaiɨ	ʧikaː	ʧikai	ʧikai	ʧikae	maikai	ʦɨkakaru	ʦɨkasaːɴ	ʧikai	ʦukɛ	ʧikai	ʧike	ʧikɛː	ʧikaka	ʧikai	ʧikai	ʧikai	ʦukae	ʧike	ʧikeː	ʧikaka	ʧikaː	ʦɨkjaʃaɴ	ʧike	ʧikɛː	ʃikjaʃeɴ	tikaʃi	ʧikaka	ʧikeː	ʧikai	ʧikae	ʧikeː	ʃikaːɴ		ʧikai	ʧikai	ʧikai	ʧikai	ʧikai	ʧikai	ʧiʔkɛː	ʧikɛː	ʧikai		ʧikeː	ʧikai
+NEAR_2																																																								tʔaɴ		
+NEAR_3																																														umaɡama												
 NECK_1													nubui					nudu	nubui	nubi																									nubi											nubi		
 NECK_2	kubi	kuɴbi	kuɴpita	kubi	kubi	kubi	kubi	kubi	kubi	kubi	kubi			kubi	kubi	kubi	kubi				kubi	kubi	kubi	kuʔ	kubi	kubi	kubi	kubi	kubi	kuɴpita	kubi	kubi	kubi	kubi	kʔubi	kubi	kubi	kubi	kubi	kubi	kubi	kubi	kubi	kubi			kubi	kubi	kubi	kubi	kubi	kubi	kuɴbi	kubi	kubi		kubi	kubi
 NECK_3																																														βuʤɨbuni												
@@ -191,6 +229,11 @@ NO OR NOT_1	nɛː	nɛ	nɛ	nɛː	nai	neː	naka	nai	nɛː	nai	naʔkja	nu	ɲaːɴ	n
 NO OR NOT_2																araheɴ																																										
 NOSE_1	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	pana	pana	hana	hana	hana	hana	hana	pana	pana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	hana	βana	hana	hana	hana	hana	hana	hana	pana	pana	hana	hana	hana	hana	hana	hana	hana	hana	hana		hana	hana
 NOSE_2																																																								hanaburu		
+OLD_1																		jarikai	jarikal																																							
+OLD_2																																														ɡabaʃaːl												
+OLD_3	βurjuː	βuruʃi	βurusu	βuriː	βurui	βurui	βuruka	βurui	βurjuː	βurui	βuruʃikja		βuɨkaɨ	βurui	βurui	βurui	βurue			βurusaːɴ	βurui	βuru	βurui	βuri	βuriː	βuruka	βurui	βurui	βurui	βurue	βuri	βuruʃiː	βuruka	βurui	βuruʃaɴ	βuːre	βuriː	βuruʃeɴ	βuruʃi	βuʔka	βurui	βurui	βuri	βurui			βurui	βurui	βurui	βuruʃiː	βurui	βurui	βurue	βurwiː	βurui		βuriː	βurui
+OLD_4																																													ʔfumuɴ													
+OLD_5																																																								βurumunu		
 ONE_1											teʦu																								tʔɨːʦɨ			tiːʧi							piːʧi											tuʧi		
 ONE_2	çitoʦu	ʃitoʔʧi	sutoʔʦu	çitoʦu	çitoʦu	çitoʦu	çitoʦu	çitoʦu	çitoʦu	çitoʦu		psɨʦɨʦɨ	psɨtiːʦɨ	çitoʦu	çitoʦu	çitoʦu	çitoʦu	psɨtiːʦɨ	psɨtiːʦɨ	psɨtiːʣɨ	çitoʦu	çitoʔʦu	çitoʦu	çitoʔ	ʃitoʦu	çitoʦu	ʃitoʦu	çitotu	çitoʦu	çitoʦu	ʃitoʦu	ʃitoʦu	çitoʦu	çitoʦu		çioʦu	çitoʦu		çitø	çitoʦu	ʃitoʦu	çitoʦu	βutoʧi	çitoʦu		psɨtiːʦɨ	çitoʦu	çitoʦu	çitoʦu	çitoʦu	çitoʦu	çitoʦu	çitoʧi	çitoʦu	çitoʦu		çitotu	ʃitoʦu
 PATH OR ROAD_1	miʧi	miʤi		miʧi	miʧi	miʧi	miʧi	miʧi	miʧi	miʧi	miʧi	mɨʦɨ	mʦɨ	miʧi	miʧi	miʧi	miʧi	ɴʦɨ	mʦɨ	mɨʦɨ	miʧi	miʣu	miʧi	miʔ	miʧi	miʧi	miʧi	miʧi	miʧi		miʧi	miʧi	miʧi	miʧi	mɨʦɨ	miʧi	miʧi	miʧi	miti	miʧi	miʧi	miʧi	meʧi	miʧi	miʧi	mʦɨ	miʤi	miʧi	miʧi	miʧi	miʧi	miʧi	miʤi	miʧi	miʧi	amiti	miʧi	miʧi
@@ -203,6 +246,9 @@ RED_1	akɛː	aɡɛ	aɡɛ	akɛː	akai	akeː	akaka	aɡɛ	akɛː	akai	akakja	aɡaha
 RED_2																																			haːʃaɴ																							
 ROOT_1	ne	ne	ne		ne	neː	ne		ne			niɴ	niː	ne	ne	neː		niː	niː	niː	neː		ne	ne		ne	neː	neː	neː		ɲe	ne	ne	ne		ne	ne	niː	ne	ne		neː	ne		niː		ne	neː	ne	neː	ne	neː		ne	ne	ni	ne	neː
 ROOT_2				neboʔka				neʔko		neʔko	neʔko						neʔko					neʔko			neʔko					neʔko					nɨɡuri						neʔko			neʔko		nivul							neʔko					
+ROPE_1					ʦuna							sɨnaː							ʦɨna	ʦɨna																			tuna																			
+ROPE_2	nawa	nawa		nawa		nawa	nawa	nawa	nawa	nawa	noː		na	nawa	nawa	nawa	nawa	ɴna			nawa	nawa	nawa	nawa	nawa	nawa	nawa	naː	nawa	nawa	nawa	nawa	nawa	nawa	naː	nawa	nawa	naː		nawa	nawa	nawa	nawa	nawa	na	ɴna	nawa	nawa	nawa	nawa	nawa	nawa	nawa	nawa	nawa	ɴna	noː	nawa
+ROPE_3			ɡoɴnoba																																																							
 SALT_1	ʃio	ʃo	suo	ʃio	ʃio	ʃio	ʃiwo	ʃio	ʃio	ʃio	ʃio			ʃijo	ʃio	ʃio	ʃio				ʃoː	suo	ʃio	ʃio	ʃiwo	ʃio	oʃio	ʃio	ʃio	suo	ʃio	ʃoː	ʃio	ʃio		ʃoː	ʃio		ʃihø	ʃio	ʃoː	ʃiwo	so	ʃio			ʃio	ʃio	ʃio	ʔʃo	ʃio	ʃio	ʃo	oʃijo	ʃio		ʃijo	ʃio
 SALT_2												maːsu	maːsu					maːsu	maːsu	maːsu															maʃu			masu							maːsu	maːʃu										maʃi		
 SAND_1													mnaɡu					mnaɡu	mnaɡu												masaɡo								isaɡo							mnaɡu												
@@ -215,6 +261,12 @@ SAY_4													aɨ					ai	aɨ
 SAY_5												enuɴ								aɴkuɴ																			iβu						aʣuɴ													
 SEE_1																																			njuɴ																					ɴnuɴ		
 SEE_2	miru	miru	miru	miru	miru	miru	miru	miru	miru	miru	miru	miruɴ	miːɨ	miru	miru	miru	miru	miː	miːl	miruɴ	miru	miru	miru	miʔ	miru	miru	miru	miru	miru	miru	miru	miru	miʔ	miru		miru	miː	miːɴ	miru	miː	miru	miru	miru	miru	miruɴ	miːl	miru	miru	miru	miru	miru	miru	miru	miru	miru		miru	miru
+SEW_1	nuː	nu	nuru	nuː	nuː	nuː	nuː	nuː	nuː	nuː		nuːɴ	nuː	nuː	nuː	nuː	nuː	nuː	nuː	noːɴ	nuː	nuː	nuː	nuː	nuː	nuː	nuː	nuː	nuː	nuː	nuː	nou	nuː	nuː	nojuɴ	noː	nuː	noːjuɴ	nuβu	nuː	nuː	nuː	noː	nuː	nuːɴ	nuː	nuː	nuː	nuː	nuː	nuː	nuː	nuː	nuː	nuː	nuɴ	nuː	nuː
+SEW_2											toʣuru																																															
+SHORT_1																																			ʔiʔkjaʃaɴ			ʔiɴkjaʃeɴ																				
+SHORT_2												marohaɴ	marukaɨ					marukai	marukal																											maʔraːl										maraɴ		
+SHORT_3	miʤiɡɛː	miɴʤiɡɛ	miʦukɛ	miʧikɛː	miʤikai	miʤikai	miʤikaka	miʤiɡɛ	miʤiɡɛː	miʤikai	miʧikakja			miʤikaː	miʤikai	miʤikai	miʧikae			iɴʦɨkasaːɴ	miʤikai	miʣukɛ	miʤikai	miçike	miʤikeː	miʤikaka	miʤikai		miʤikai	miʦukɛ	miʃike	miʤikeː	miʤikaka	miʤikaː		miʤiɡɛː	miʤiɡɛː		miʤikaʃi	miʃikaka	miʤikeː	miʤikai	meʧikae	miʤikeː	iʃikaːɴ		miʧikai	miʤikai	miʤikai	miʤikai	miʤikai	miʤikai	miɴʤikɛ	miʤiɡɛː	miʤikai		miʃikeː	miʤikai
+SHORT_4																												miʣoi																														
 SIT_1													bzɨː					biː	bzɨː																											bzɨːl												
 SIT_2												bzɨruɴ								biruɴ															irjuɴ				wiru						biruɴ													
 SIT_3																																						iɴ																				
@@ -222,6 +274,9 @@ SIT_4	suwaru	nemaru	nemaru	suwaru	suwaru	nimaru	idoru	suwaru	suwaru	suwaru	suwar
 SIT_5																																																				betaʣuwari						
 SIT_6																																											ʃiwaːʧaɴkoʃiru															
 SKIN_1	kawa	kawa	kawa	kawa	kawa	kawa	kawa	kawa	kawa	kawa	kawa	kaː	kaː	kawa	kawa	kawa	kawa	kaː	kaː	kaː	kawa	kawa	kawa	kaː	kawa	kawa	kawa	kaː	kawa	kawa	kawa	kawa	kawa	kawa	koː	kawa	kawa	haː	kaha	kawa	kawa	kawa	kawa	kawa	kaː	kaː	kawa	kawa	kawa	kawa	kawa	kawa	kawa	kawa	kawa	ka	kawa	kawa
+SKY_1	sora	sora	sora	sora		sora	sora	sora	sora	sora				sora	sora	sora	sora				sora	sora	sora		sora	sora	sora	sora	sora	sora	sora	sora	sora	sora			sora		sora	sora	sora	sora	sora	sora			sora	sora	sora	sora	sora	sora	sora	sora	ʃira		sora	sora
+SKY_2					teɴ						teɴ	ʤiɴ	tiɴ					tiɴ	tiɴ	tiɴ				teɴ											tɨɴ			tiɴ							tiɴ	tiɴ										tiɴ		
+SKY_3																																				teɴʤoː																						
 SLEEP_1	nemuru	neru	neru	neburu	neru	neburu	nemuru	nemuru	nemuru	neburu	nemuru		nivu̥	neburu	nemuru	neru	neru		nivu̥	nibuɴ	neru	neru	neru	nemuʔ	nemuru	neburu	neru	nemuru	neru	nemuru	ɲemuru	neru	nemuʔ	neru	nɨburjuɴ	nemuru	neru	niɴbuɴ	inu	nuʔ	neburu	neru	neː	neburu	nibuɴ	ninil	nemuru	nemuru	neru	neburu	nemuru	neru	neburu	neru	nemuru	niɴduɴ	neru	neru
 SLEEP_2																		ɲuː																																								
 SLEEP_3												nuʔβuɴ																																														
@@ -242,6 +297,10 @@ STAND_1	taʦu	taʤi	taʣu	taʦu	taʦu	taʦu	taʦu	taʧi	taʦu	taʦu	taʦu	taʦɨ
 STAR_1	hoʃi	hoʃi	hosu	hoʃi	hoʃi		hoʃi	hoʃi		hoʃi	hoʃi	puʦɨ	pusɨ	hoʃi	hoʃi			βusɨ	pusɨ	pusɨ	hoʃi			hoʃi̥		hoʃi	hoʃi	hoʃi	hoʃi				hoʃi	hoʃi	βusɨ	hoʃi	hoʃi	βuʃiː	høʃi	hoʃi	hoʃi		hoʃi	hoʃi	puʃi	pusɨ	hoʃi	hoʃi	hoʃi		hoʃi		hoʃi	hoʃi	hoʃi	βuʧi	hoʃi	
 STAR_2						ohoʃisaɴ			ohoʔsama							hoʔsaɴ	ohoʔsama					ohosusama	ohoʔsaɴ		hoːʃisaɴ					ohosusama	hoʔsama	ohoʃisaɴ										hoʔsaɴ								hoʔsaɴ		hoʔsaɴ						hoʔsaɴ
 STONE_1	iʃina	eʃi	esu	iʃi	iʃi	iʃi	iʃi	iʃi	iʃina	iʃi	iʃi	ʔiʃi	isɨ	iʃi	iʃi	iʃi	eʃi	isɨ	isɨ	ʔiʃi	iʃi	esu	iʃi	iʃ	iʃi	iʃi	iʃi	iʃi	iʃi	esu	iʃi	eʃi	iʃi	iʃi	isɨ	eʃi	iʃi	iʃi	iʃi	iʃi	iʃi	iʃi	eʃi	iʃi	iʃi	iʃi	iʃi	iʃi	iʃi	iʃi	iʃi	iʃi	eʃi	iʃi	iʃi	iʧi	iʃi	iʃi
+SUCK_1													jubzɨ					juvu̥	juvu̥																											jubzɨ												
+SUCK_2	suː	ʃi		suː	suː	suː	suː	suː	suː	suː	suː			suː	suː	suː	suː			suːɴ	suː	suː	suː	suː	suː	suː	suː	suː	suː	suː	suː	suː	suː	suː	sɨːjuɴ	suː	suː			suː	suː	suː	ʃiː	suː	suːɴ		suː	suː	suː	suː	suː	suː	su	suː	suː		suː	suː
+SUCK_3			suru																																			supujuɴ	suhu																			
+SUCK_4												ʔsuɴ																																														
 SWIM_1								miʣuabiʃiru									miʣuabisuru															miʣoabiru															miʣuabisuru						miʤiaburu					
 SWIM_2																																												miʣuabe														
 SWIM_3																		uːʣɨ	uːʣɨ																																							
@@ -260,14 +319,38 @@ THAT_1																														aeʣu																											aitu
 THAT_2	are	are	ae	are	are	are	are	are	are	are			kai	are	are	ae	are	kai	kari		are	are	are	ai	are	aru	are	are	are		are	are	ai	are	arɨ	are		ari	kare	ai	are	are		are	kari	kal	are	are	are	aru	are	are	are	are	are			are
 THAT_3																																					eː						aː															
 THAT_4											ui																																															
+THEY_1														arera																									kare																			
+THEY_2		anoβutodaʤi	anoβutodaʣu		anoʃitora			anoʃitodaʧi							anoçitotaʧi						anoçitora	anoçidaʣu							anoçitora															anoçitoʔʧi				anoçitotaʧi		anoçitotaʧi	anoçitotaʧi				anoçitotaʧi			
+THEY_3																								aɴʃitaʔ																aitaʧi																		
+THICK_1												aʦahaɴ								aʔʦaɴ																																				aʦaɴ		
+THICK_2																																							atuʃi																			
+THIN_1	uʃuː	uʃie	usue	usuː	usui	usui	usuka	usui	uʃuː	usui	usukja		usɨkaɨ	usui	usui	usui	usue				usui	usu	usui	uʃi	uʃiː	usuka	usui	usui	usui	usue	usi	usue	usuka	usui		uːse	uʃiː	ʔusuʃeɴ	usuʃi	usuka	usue	usui	oʃiː	usui			usui	usui	usui	uʔsui	usui	usui	uʔʃi	uʃiː	usui		usiː	usui
+THIN_2																		ʔsukai																																								
+THIN_3																																													pisaɴ	piʔsaːl										çiʦaɴ		
+THIN_4																			psɨsɨkal	psɨʃi̥saːɴ															çiʃiːʃaɴ																							
+THIN_5												psɨʃahaɴ																																														
+THINK_1	omoː	omou	omoru	omou	omou	omou	omou	omou	omoː	omoː	omoːwa		umuː	omoː	omou	omou	omoː	umuː	umuː	ʔumuiɴ	omoː	omou	omou	omoː	omoː	omou	omou	omou	omou	omou	omuː	omoː	omoː	omou		omoː	omoː	ʔumuiɴ	ømøβu	omoː	omoː	omou	omoː	omoː	umuːɴ	umuː	omoː	omou	omoː	omoː	omoː	omou	omou	omoː	omoː	ʔumuɴ	omuː	omou
+THINK_2												muɴ																																														
+THINK_3																																			omojuri																							
 THIS_1	køːʦu								køːʦu																					koeʣu																											koitu	
 THIS_2		kore	koe	kore	kore	kore	kore	kore		kore	koi		kui	kore	kore	koe	kore	kui	kuri		kore	kore	kore	koi	kore	koru	kore	kore	kore		kore	kore	koi	kore	kurɨ	kore	kore	βuri	køre	koi	kore	kore	keː	kore	kuri	kul	kore	kore	kore	koru	kore	kore	kore	kore	kore			kore
+THREE_1	miʔʦu	miʔʧi	miʔʦu	miʔʦu	miʔʦu	miʔʦu	miːʦu	miʔʦu	miʔʦu	miʔʦu	miʔʦu	mɨːʦɨ	mɨːʦɨ	miʔʦu	miʔʦu	miʔʦu	miʔʦu	miːʦɨ	mɨːʦɨ	miːʦɨ	miʔʦu	miʔʦu	miʔʦu	miʔʦu	miʔʦu	miʔʦu	miʔʦu	miʔtu	miʔʦu	miʔʦu	miʔʦu	miʔʦu	miʔʦu	miʔʦu	miːʦɨ	miʔʦu	miʔʦu	miːʧi	mi	miʔʦu	miʔʦu	miʔʦu	meʔʧi	miʔʦu	miːʧi	mɨːʦɨ	miʔʦu	miʔʦu	miʔʦu	meʔʦu	miʔʦu	miʔʦu	miʔʧi	miʔʦu	miʔʦu	miʧi	miʔtu	miʔʦu
+THROW_1																		jai																												jal												
+THROW_2													tɨ																																													
+THROW_3						hoːru								hoːru		horu							hoːru		hoʔpoːru		horu	hoːru	horu					hoːru			hoːru					hokoru						hoːru				horu						horu
+THROW_4	naɡeru	naŋeru	naŋeru	naɡeru	naɡeru		naɡuru	naŋeru	naŋeru	naɡeru	naŋeru	naɴɡiruɴ			naŋeru		buɴnaŋeru			naɴɡiruɴ	naŋeru	naŋeru		naɡuʔ		naɡuru				naŋeru	naɡuru	naŋeru	naɡuru		naɡjuɴ	hoɴnaɡeru		naɡiːɴ	naɡu	naɡuʔ	naɡeru		naɡeː	naŋeru	naɴɡuɴ		naŋeru		naɡeru	naŋeru	naŋeru		naŋeru	naɡeru	naŋeru	naŋi	naɡuru	
+THROW_5																			teivu̥																																							
 TONGUE_1	ʃita	ʃita	suta	ʃita		heta	ʃita				ʃita	sɨta	sɨda			ʃita		tʔa	sɨta	sɨta	heta	suda	ʃita	ʃita	ʃita	ʃita	ʃita	ʃita	ʃita			hera			sɨba	ʃiʔta		ʃiʧaː	ʃita	ʃita		ʃita	ʃita		ʃita	sɨta			ʃita		ʃita	çita	ʃita	ʃita	ʃita	tʔa	ʃita	ʃita
 TONGUE_2					bero			bero	bero	bero				bero	bero		bero													bero	bero		bero	ʃitabero			bero				bero			bero			bero	bero		bero								
 TOOTH_1	ha	ha	ha	ha	haː	haː	ha	ha	ha	ha			paː	ha	ha	haː	ha	haː	paː	haː	haː	ha	haː	ha	ha	ha	haː	ha	haː	ha	ha	ha	ha	ha	ha	ha	ha	βaː	ha	ha	ha	haː	ha	ha	paː	paː	ha	haː	ha	haː	ha	haː	ha	ha	ha	ha	ha	haː
 TOOTH_2											nukaba																																															
 TOOTH_3												βuʦɨnupaɴ																																														
 TWO_1	βutaʦu	βutaʔʧi	βutaʔʦu	βutaʔʦu	βutaːʦu	βutaʦu	βutaʦu	βutaʦu	βutaʦu	βutaʔʦu	βutaʦu	βutaːʦɨ	βutaːʦɨ	βutaʦu	βutaʦu	βutaʦu	βutaʦu	βutaːʦɨ	βutaːʦɨ	βutaːʣɨ	βutaʦu	βutaʔʦu	βutaʦu	βutaʔ	βutaːʦu	βutaʦu	βutaʦu	βutaːtu	βutaʦu	βutaʦu	βutaʦu	βutaʦu	βutaʦu	βutaʦu	tʔaːʦɨ	βutaʔʦu	βutaʦu	taːʧi	βuta	βutaʦu	βutaʦu	βutaʦu	βutaʧi	βutaʦu	βutaːʧi	βutaːʦɨ	βutaʔʦu	βutaːʦu	βutaʦu	βutaʦu	βutaʦu	βutaʦu	βutaʔʧi	βutaːʦu	βutaʔʦu	taʧi	βutaʦu	βutaʦuː
+VOMIT_1												muduʃiɴ																																														
+VOMIT_2																																	tosu																									
+VOMIT_3																				aɡiruɴ				aɡuʔ																																		
+VOMIT_4	haku	haɡu	haɡu	hau	haku	haku	haku	haɡu	haku	haku	haku		paksɨ	haku	haku	haku	haku	haβu			haku	haɡu	haku		haku	haku	haku	haku	haku	haɡu	haku	haku		haku	hakjuɴ	haku	haku	βakuɴ	haku	haku	haku	haku	haku	haku	pakuɴ	paksɨ	haɡu	haku	haku	haku	haku	haku	haɡu	haku	haku	haɡuɴ	haku	haku
+VOMIT_5																			paʔtil																																							
 WALK_1											eːmu							aiʦɨ														eːbu				aebu								eːku														
 WALK_2	aruku	ariɡu	ariɡu	aruɡu	aruku	aruku	ajumu	aruku	aruku	aruɡu		aruɡuɴ	aɨksɨ	aruku	aruku	aruku	aruku		aruβu	araɡuɴ	aruku	aruɡu	aruku	ajuɴ	aruku	ajubu	aruku	aruku	aruku	aruɡu	ajumu		aruku	aruku	ʔaʔkjuɴ		aruku	ʔaʔkuɴ	ajume	ajubu	aruku	aruku	ariku		arakuɴ	alksɨ	aruku	aruku	aruku	araku	aruɡu	aruku	ariɡu	aruku	aruku	aiɡuɴ	ajumu	aruku
 WARM_1			aʔtaɡɛ					aʔtaɡe		aʔtakeː					aʔtakai		aʔtaɡɛː					aʔtaɡɛ			aʔtakeː		aʔtakai			aʔtaɡɛː		aʔtakeː	atataka			aʔtakɛ			atatakeʃi		aʔtakeː			aʔtakɛː			aʔtaɡai				atatakai		aʔtako		aʔtakai			
@@ -282,11 +365,20 @@ WE_4			waɴdo										baɴta					baɴti	baɴti																			waʔtaː						
 WE_5																																			wakja																							
 WE_6		oreadaʤi						oredaʧi									oretaʧi					oredaʣu			oretaʧi																																	
 WE_7																																				ʤibuɴtaʧi																						
+WET_1																				ʣoʔβiɴ																									ʣoʔβuɴ													
+WET_2		joŋoreru										doʔfariruɴ																								joɡoreru																	joŋoreru					
+WET_3											peːru																								nərjuɴ																					ɴɡaruɴ		
+WET_4	nureru		nureru	nureru	nureru	nureru	nururu	nureru	nureru	nureru				nureru	nureru	nureru	nureru				nureru	nureru	nureru	nuruʔ	nureru	nururu	nureru	nureru	nureru	nureru	nururu	noreru	nuruʔ	nureru			nureru		nuru	nuruʔ	nureru	nureru	noreː	nureru			nureru	nureru	nureru	nureru	nureru	nureru		nureru	nureru		nururu	nureru
+WET_5													ɴmiɨ					ɴmiː	ɴmil																			ɴriːɴ								ɴmil												
 WHAT_1												nuːjabaɴ																																														
 WHAT_2																																							nani																			
 WHAT_3													ɴʤi																						dɨɴ																							
 WHAT_4																				noː																																				nuɴ		
 WHAT_5	dono	dono	dono	dono	dono	dono	dono	dono	dono	dono	dono			dono	dono	dono	dono	inu	iʤinu		dono	dono	dono	doɴ	dono	doɴ	dono	ɴdono	dono	dono	doɴ	dono	doɴ	dono		dono	deːno	nuːnu		dono	dono	dono	dono	dono	nuːnu	ɴdənu	dono	dono	dono	doɴ	dono	dono	dono	dono	dono		doɴ	dono
+WHERE_1	doko	doɡo	doɡo		doko	doko	doko	doko	doko	doko	doko			doko	doko	doko	doko				doko	doɡo	doko	doko	doko	doko	doko	ɴdoko	doko	doɡo	doko	doko	doko	doko		doko	doko			doko	doko	doko	doko	doko			doɡo	doko	doko	doko	doko	doko	doko	doko	doko		doko	doko
+WHERE_2																																							iduku																			
+WHERE_3													ɴʣa					iʤa	iʣa																											ɴda												
+WHERE_4				doː																															daː			raː							maː													
 WHITE_1	ʃirøː	ʃire	sure	ʃireː	ʃiroi	ʃiroi	ʃiroka	maʔʃiro	ʃirøː	ʃiroi	ʃirokja			ʃiroi	ʃiroi	ʃiroi	ʃiroe				ʃiroi	sure	ʃiroi	ʃire	ʃireː	ʃiroka	ʃiroi	ʃiroi	ʃiroi		maʔʃiri		ʃiroka	ʃiroi	sɨruʃaɴ	ʃireː	ʃireː	ʃiruʃeɴ	ʃiroʃi	ʃiroka	ʃire	ʃirøe	ʃiroe	ʃiroi			ʃiroi	ʃiroi	ʃiroi	ʃiroi	ʃiroi	ʃiroi	ʃiroe	ʃirøː	ʃiroi		ʃiriː	ʃiroi
 WHITE_2																														ʔʃoe																												
 WHITE_3													ʔsukaɨ					ʔsukai	ʔsukam																											ʔsuʃaːl										ʦudari		
@@ -299,7 +391,15 @@ WHO_2																																						tanʧuː							taʔtaː
 WHO_3		donoβutp	donoβuto	doɴçito	donoʃito	donoçito		donoʃito		donoʃito			ɴʤipsɨtu		donoçito	donoʃito	donoçito	inusɨtu	talnupsɨtu		donoçito	donoçito			donoçito	donoçito	donoçito	ɴdonoçito	donoçito	donoçito	doɴʃito	donoʃito	donoçito	donoçito		donoʃito				donoçito	donoʃito	donoçito	donofuto	donoçito		ɴdinupsɨtu		donoçito	donomoɴ	donoçito	donoçito	donoçito		donoçito	donoçito			donoçito
 WHO_4	døːʦu								døːʦu														doiʦu												duɴʦʔu		deːʦu																doeʤi				doitu	
 WHO_5														dore										doɴʃi																																		
+WIDE_1												psɨsuhaɴ	psɨsukaɨ						psɨsukal																											psɨsuʃaːl												
+WIDE_2	çirøː	ʃire	sure	çireː	çiroi	çiroi	çiroka	çiroi	çirøː	çiroi	çirokja			çiroi	çiroi	çiroi	çiroe				çiroi	çire	çiroi	çire	çireː	çiroka	çiroi	çiroi	çiroi	çiroe	çiri	ʃireː	çiroka	çiroi	çiruʃaɴ	çireː	çireː	çiruʃeɴ	çirøʃi	çiroka	βireː	çiroi	βuroe	çireː	piʣoːɴ		çiroi	çiroi	çiroi	heroi	çiroi	çiroi	βiːre	çirøː	çiroi		çiriː	çiroi
+WIDE_3																				maiʃaːɴ																																				maisaɴ		
+WIDE_4																		βuikai																																								
 WIND_1	kaʣe	kaɴje	kaɴʣe	kade	kaʣe	kaje	kaje	kaʣe	kaʣe	kaʣe	kaʣe	kaʤi	kaʤi	kade	kaʣe	kaʣe	kaʣe	kadi	kaʤi	kaʤi	kaʣe	kaɴʣe	kaʣe	kaʣe	kaʣe	kaje	kaʣe	kaʣe	kaʣe	kaɴje	kaje	kaʣe	kaje	kaʣe	kaʤə	kaʣe	kaʣe	haʤi	kaʣe	kaje	kaʣe	kaʣe	kaʣe	kaʣe	kaʤi	kadi	kaʣe	kaʣe	kaʣe	kaʣe	kaʣe	kaʣe	kaɴʣe	kaje	kaʣe	kadi	kaje	kaʣe
+WING_1	hane	hane	hane	hane	hane	hane	hane	hane	hane	hane	hane	pani	pani	hane	hane	hane	hane	hani	pani	pani	hane	hane	hane	hane	hane	hane	hane	hane	hane	hane	hane	hane	hane		hanə	hane	hane	βani	hane	hane	hane	hane	hane	hane	pani	pani	hane	hane	hane	hane	hane	hane	hane	hane	hane	pani	hane	hane
+WING_2																																		haneɡeta																								
+WORM_1	memeʣo	mimiɴʤi	memeɴʣu	mimiʣu	mimiʣu	mimiʣu	mimiʣu	mimiʣu	memeʣu	memeʣu	memeʣume	mimiʤɨ	mimiʤɨ	mimiʣu	mimiʣu	mimiʣu	memeʣume	ʤɨmiʤɨ	ʤɨmiʤɨ	mimiʤɨ	mimiʣu	mimiɴʣu	mimiʣu	mimiʣu̥	memeʣu	mimiʣu	memeʣu	mimiʣu	mimiʣu	mimiɴʣu	mimiʣu	memeʣu	mimiʣu	memeʣu		memeʣu	mimiʣu	mimiʤi		mimiʣu	memeʣu	memeʣu	memeʤi	memeʣu	miːmaʤi	miːmiʤɨ	mimiʣu	memeʣu	mimiʣu	memeʣu	mimiʣu	memeʣu	memeɴʤi	mimiʣu	memeʣu	timimi	mimiʣu	memeʣu
+WORM_2																																			meːʤa																							
 YEAR_1	toʃi	toʃi	tosu	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	tusɨ	tusɨ	toʃi	toʃi	toʃi	toʃi	tusɨ	tusɨ	tusɨ	toʃi	tosu	toʃi	toʃi̥	toʃi	toʃi	toʃi	toʃi	toʃi	tosu	toʃi	toʃi	toʃi	toʃi	tuʃi	toʃi	toʃi	tuʃiː	tøʃi	toʃi	toʃi	toʃi	toʃi	toʃi	tuʃi	tusɨ	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	toʃi	tuʧi	toʃi	toʃi
 YELLOW_1												ksɨɴksɨʃahaɴ								ksɨɴksɨɴ																																						
 YELLOW_2							kina																			kina														kiɴnaka																	kina	

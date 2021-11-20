@@ -1,4 +1,16 @@
 	Central Pomo	Central Yana	Chimariko	Cocopa	Eastern Pomo	Highland Chontal	Ipai	Karok	Kashaya	Mohave	Northeastern Pomo	Northern Pomo	Northern Yana	Seri	Shasta	Southeastern Pomo	Southern Pomo	Tipai	Yahi	Yavapai
+ALL_1	jaːwˈal																			
+ALL_2			kʰˈumitʼʲin																	
+ALL_3						bulˈafʼkaʔ		koːβúɾa												
+ALL_4							nʲaːmat̪								ʔwiːwawáw	ʔˈuχqat̪				
+ALL_5															ʔwiːwaːwahúʔ					
+ALL_6										paj										pˈaja
+ALL_7									tʼiː					koːχ						
+ALL_8		panauma											panauma						panauma	
+ALL_9				saːm														ʧamʎ̥~ɲaʧˈamʎ̥		
+ALL_10					kuːmˈu															
+ALL_11												dilˈej								
+ALL_12																	naːpˈijo			
 ASH_1											malˈaʔ				máhawa					
 ASH_2	no				no							nohˈo					hiːno			
 ASH_3				xmʔuɬ			ʔəmpiɬ			hamʔuːʎ										ʔmhˈúˑl~ʔmhˈûˑl
@@ -94,6 +106,8 @@ BURN (SOMETHING)_4								áːhka												tˈu
 BURN (SOMETHING)_5					ʃaːtʼˈoː					tapoːmm										
 BURN (SOMETHING)_6									muhkʰujʔ											
 BURN (SOMETHING)_7						dibiʔˈeʔma														
+CIRCULAR (ROUND IN TWO DIMENSIONS)_1				ɾjaɾ			jaɹəjaɹ											jərjˈar		
+CIRCULAR (ROUND IN TWO DIMENSIONS)_2														kpˈɛːtix						
 CLAW OR NAIL_1													sukʼuʔliptalla						sukʼuʔnimtanna	
 CLAW OR NAIL_2							salʲəxʷuːw													
 CLAW OR NAIL_3																		ʃaʎ̥nəpˈuːl		
@@ -433,6 +447,17 @@ MAN_6	bˈaja								hiʔbaja
 MAN_7																ʦˈawi				pˌaˑhmˈija
 MAN_8							ʔiːkʷiʧ													
 MAN_9															ʔawatíkhwaː					
+MANY_1			hˈitat~hˈitʼam																	
+MANY_2						ʔaʃpˈeʔ														
+MANY_3							xəmiːj~ʔəxmiːj	táːj												
+MANY_4										ʔapaʎm										
+MANY_5														kˈatχo						
+MANY_6															ukːarí					
+MANY_7		tatʔ											tatʔ						tatʔ	ʔtˈe
+MANY_8				ʎ̥aj														ʎ̥aw		
+MANY_9									batʰeː		bˈahtʰe	batʰˈe					bˈahtʰe			
+MANY_10	t̪ʰˈedu																			
+MANY_11																bitˈeqa				
 MEAT_1													pasi						pahsi	
 MEAT_2			ˈaʔa					íːʃ												
 MEAT_3	pʼʃe				biːʃˈe				bihʃe		bˈehʃe	biʃˈe				bxe	behʃe			
@@ -475,6 +500,13 @@ NAME_6				muʎ̥						imuːʎ										mˈul~mˈol
 NAME_7								iθβuj												
 NAME_8														itˈaːsi						
 NAME_9						laftˈine														
+NEAR_1										ipanm										ipˈé
+NEAR_2								ûːmukiʧ												
+NEAR_3				xɾpaj			xəlʲəpaj											xəʎpˈaj		
+NEAR_4					t̪ʰiːbˈal															
+NEAR_5		kʼaʔnai											kʼaʔnai						kʼaʔnai	
+NEAR_6														ʔantˈaχɬ	ʔamːáx					
+NEAR_7						ʔasˈerka														
 NECK_1													tulla						tulla	
 NECK_2					qʼoj											qʼoj				
 NECK_3	mja								mihja								mˈihja			
@@ -559,6 +591,14 @@ ROOT_6			ʔˈaʧi									jem
 ROOT_7	saːmˈa			ʃma		lˈime	pəxəmaː			sama						sumˈa				
 ROOT_8										ʔiʧsama										ʔʔˌiˑmsmˈáˑ
 ROOT_9															ʔaráːʔiʔ					
+ROUND_1									poloːlo											
+ROUND_2															ʔíkʼankʼan					
+ROUND_3											mukˈaːkan									
+ROUND_4			nˈolːe													bˈunbun	lˈupːu			
+ROUND_5	ʃbokʼ												heːʦil							
+ROUND_6												ʧʼadˈol								
+ROUND_7								úɾuh												
+ROUND_8						ʔaʃpejjˈuɡi														
 SALT_1			ˈakʼi												ʔáːtax					
 SALT_2						ɬˈoʔwe														
 SALT_3														ʔantˈip						
@@ -593,6 +633,22 @@ SEE_4		tiwai											tiwai	kˈiʔo					tawai
 SEE_5															kwímːik					
 SEE_6			hˈimamta																	
 SEE_7						diʃˈimʔma														
+SEED_1	sˈemija								semíːja							semˈeja				
+SEED_2																	simˈiːja			
+SEED_3					qˈaːsoj							soː								
+SEED_4				jas			əjaʧ			iðiːʧ										jˈaʧ
+SEED_5														ˈiʔik	mákakʼ					
+SEED_6								úhiʃ												
+SEED_7						ɡalfanˈuʔ														
+SHORT_1								ipʃûːnkinaʧ~ipʃûːnkiniʧ												
+SHORT_2																				ʧkrˈoti
+SHORT_3						ʔadˈemɬka														
+SHORT_4														kˈisiɬ						
+SHORT_5		pakanku											pakatku						pahkanku	
+SHORT_6							məputk													
+SHORT_7					buʔˈuʧʼ										ʔehékʼːu					
+SHORT_8			χˈuʦʰʲulːa	xʎʔut														ləʔˈuɲ		
+SHORT_9										wenawen										
 SIT_1								ikɾiː						kiːx						
 SIT_2		wa		wa	kˈaː				ʧa	ivak			wa					wa	wa	wˈa
 SIT_3	ʔaːʧʰˈa										t̪ˈuman	ʧimˈa				sʦʼa				
@@ -652,6 +708,9 @@ SNAKE_4															núhuːsːu
 SNAKE_5												misakʰala								
 SNAKE_6					qaːlˈutʼuːdˌukʰ															
 SNAKE_7														ʃiːχkokˈaʃniʔantkʷkiːʔ						
+SPHERICAL (ROUND IN THREE DIMENSIONS)_1				ɾʔuɾ			ʔəlul							ktˈoknix						
+SPHERICAL (ROUND IN THREE DIMENSIONS)_2										jenajen										
+SPHERICAL (ROUND IN THREE DIMENSIONS)_3																				klʔˈulki
 STAND_1		waːkʼi							t̪ʼeːt̪				waːkʼi						waːkʼi	
 STAND_2					kˈokʰ						t̪ˈoːn			kaːp						
 STAND_3							pəxəkʷiː~pəxkʷiː													βskʷˈiˑ
@@ -709,6 +768,16 @@ THAT_3			pʰˈaʔut													ʔˈiji				ɲθˈa
 THAT_4		aiʦeʔe											aiʦeʔe						aiʦi	
 THAT_5										hovaʧ										
 THAT_6						hikˈuʔwa														
+THIN (OF HAIR AND THREAD)_1						ʔaʃalˈof														
+THIN (OF HAIR AND THREAD)_2														kχˈatkax						
+THIN (OF LEAF AND CLOTH)_1						ʔaɬˈa														
+THIN (OF LEAF AND CLOTH)_2														kˈoːsot						
+THIN (OF SHAPE OF OBJECT)_1				ɾʂaːw																θˈéqi
+THIN (OF SHAPE OF OBJECT)_2					pˈeːt̪ʰ			xútnahiʧ												
+THIN (OF SHAPE OF OBJECT)_3							wəkʷiːɹp													
+THIN (OF SHAPE OF OBJECT)_4			χˈelmu																	
+THIN (OF SHAPE OF OBJECT)_5		pʼutʼaː																		
+THIN (OF SHAPE OF OBJECT)_6										ʔuːhʔaːrk										
 THIS_1									maʔu							mˈiji	mˈaːmu			
 THIS_2		aiʦʰ											aiʦʰ							
 THIS_3					me										weː					
@@ -814,6 +883,13 @@ WOMAN_8				sʔak						θiɲaʔaːk~θiɲaʔaːk								ɲəʧʔˈak
 WOMAN_9			pˈunsar~pˈunsaːr~pˈunʦaːr																	
 WOMAN_10																bitˈed				
 WOMAN_11								asiktáβaːn												
+WORM_1		piːna							bila											
+WORM_2										iʔˈiːʎva										ʔʔˈîˑla
+WORM_3					kʰˈol		iɬ													
+WORM_4				maʔˈiːʎ̥				βákaj												
+WORM_5			hemuta																	
+WORM_6															ʔámtaːwa					
+WORM_7						ɬabˈimi														
 YEAR_1															ʧʼikíːsuʔ	mutin				
 YEAR_2										hoðe~huːðe										ʔʧʰˈura
 YEAR_3					xuːʦʼˈaj															

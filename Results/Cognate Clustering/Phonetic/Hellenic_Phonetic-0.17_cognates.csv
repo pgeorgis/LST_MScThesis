@@ -1,4 +1,7 @@
 	Ancient Attic Greek	Ancient Ionic Greek	Modern Demotic Greek	Pharasa Greek	Southern Tsakonian	Western Cappadocian Greek
+ALL_1			ˈolo		ˈole	ˈullo
+ALL_2	pánt	pánt				
+ALL_3				pitˈuni		
 ASH_1	tépʰraː				spoˈia	
 ASH_2		spodós	stˈaxti	stˈaxti		stˈaxʧi
 BARK_1	pʰlojós	pʰlojós	fliˈos	flˈiði	frˈua	
@@ -22,6 +25,7 @@ BREAST_2				kardˈia		kˈorfos~kˈolfos
 BURN (SOMETHING)_1				kˈafto		kˈafto
 BURN (SOMETHING)_2	káoː	kájoː	cˈeo			
 BURN (SOMETHING)_3					ðˈesu	
+CIRCULAR (ROUND IN TWO DIMENSIONS)_1	peripʰeréː	kykloteréː				
 CLOUD_1	népʰos	népʰos				
 CLOUD_2			sˈinefo	sˈinefa	sˈiɣnefo~sˈinefo	ʃˈinefo
 COLD (OF WEATHER)_1	psyːkʰrós	psyːkʰró			psuxrˈe	
@@ -101,12 +105,15 @@ LOUSE_1	pʰtʰéjr	pʰtʰéjr	psˈira	fθˈiri	psˈira	fʧir
 MALE PERSON_1					ˈaʧopo	ˈaropos
 MALE PERSON_2	anéːr	anéːr	ˈanðras~ˈadras			
 MALE PERSON_3				nomˈat		
+MANY_1	polý	polló	polˈi	polˈi	pˈase~persˈe	polˈi
 MOON_1	seléːneː	seléːneː				
 MOON_2			feɡˈari	fˈeŋɡos	feŋɡˈar̝i	fˈeŋɡos
 MOUNTAIN_1	óros	óros		ruʃˈi		
 MOUNTAIN_2			vunˈo		ʃˈina	vunˈi
 MOUTH_1	stóma	stóma	stomˈa	stomˈa	tʰˈuma	stomˈa
 NAME_1	ónoma	úːnoma	ˈonoma	ˈonoma	ˈonuma	ˈonoma
+NEAR_1			kodˈa	kondˈa	kondˈa	kondˈa
+NEAR_2	enɡýs	ankʰûː				
 NECK_1			lemˈos		lemˈo	
 NECK_2	awkʰéːn	awkʰéːn				
 NECK_3				ɣurɣˈuri		ɣurɣˈur
@@ -144,6 +151,10 @@ SEE_1	êjdon	êjdon		θorˈo		dranˈo
 SEE_2		orôː	ˈiða	ˈiða	orˈu	ˈira
 SEE_3	horôː					
 SEE_4			vlˈepo			
+SEED_1			spˈoros			spˈoros
+SEED_2	spérma	spérma			pʰrˈama	
+SHORT_1	brakʰý	brakʰý				
+SHORT_2			kodˈo		kondˈe	kondˈo
 SIT_1	kátʰeːmaj	káteːmaj	kˈaθome	kˈaθome	kasˈimene	kˈarume
 SKIN (HUMAN)_1	dérma	dérma	ðˈerma			dˈerma
 SKIN (HUMAN)_2					ʨˈepa	
@@ -157,6 +168,8 @@ SMALL_3				ˈokk
 SMOKE (EXHAUST)_1				ʦˈikna		ʧˈikna
 SMOKE (EXHAUST)_2	kapnós	kapnós	kapnˈos		kapinˈe~kapnˈe	
 SNAKE_1	ópʰis	ópʰis	fˈiði	fˈiði	ˈuθi~ˈuiθi	ofir
+SPHERICAL (ROUND IN THREE DIMENSIONS)_1	stronɡýlos	stronɡýlo	stroɟilˈo		stronʒilˈe	
+SPHERICAL (ROUND IN THREE DIMENSIONS)_2				juvarlaxi		
 STAND_1	hísteːmi	ísteːmi	stˈekome	stˈikno~stˈekno	stˈeku	stˈekno
 STAR_1	astéːr	astéːr	astˈeri	ˈastro		ˈastro
 STAR_2					ˈaʃi	
@@ -171,6 +184,7 @@ SWIM_3						yzd
 TAIL_1	kérkos			vrˈaði		turˈaði
 TAIL_2		uːréː	urˈa		nurˈa~urˈa	
 THAT_1	ekêjno	ekêjno	ecˈino	aʤˈino~aʧˈino	etˈine	ecˈino
+THIN_1	leptós	leptó	leptˈo		ftenˈe~psilˈe	ftenˈo
 THIS_1		ûːto	aftˈo	atˈe	ˈenderi~ˈendeni~ˈeteni	etˈo
 THIS_2	hûːto					
 THOU_1	sý	sý	esˈi	esˈi	ecˈu~etˈi	eʃˈi
@@ -201,6 +215,8 @@ WIND_1	ánemos	ánemos		ˈanemos		ˈanomos
 WIND_2			aˈeras		aˈera	
 WOMAN_1				nˈeka		nˈeka
 WOMAN_2	ɡynéː	ɡynéː	ʝinˈeka		ɣunˈeka	
+WORM_1			skulˈici		kʰˈoaka	skulˈik
+WORM_2		ewléː				
 YEAR_1			xrˈonos	xrˈonos	xrˈone	xrˈono
 YEAR_2	eniawtós	étos				
 YELLOW_1				xworˈo		xlorˈo
