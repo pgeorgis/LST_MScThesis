@@ -1,7 +1,6 @@
 ID	Language_ID	Glottocode	ISO 639-3	Parameter_ID	Value	Form	Segments	Source_Form	Cognate_ID	Loan	Comment	Source
 Vietnamese_I_2	Vietnamese	viet1252	vie	I	tao / (tôi)	taːu̯³³	t aː u̯ ³³	t aːu̯ ³³	I_2			
-Nguồn (Cổ Liêm)_I_2	Nguồn (Cổ Liêm)	nguo1239	nuo	I	t'ɔ1	tɔ¹	t ɔ ¹	t ɔ ¹	I_2			Nguyen1997
-Nguồn (Yên Thọ)_I_3	Nguồn (Yên Thọ)	nguo1239	nuo	I	ʔuj1	ʔuj¹	ʔ u j ¹	ʔ u j ¹	I_3			Nguyen1997
+Nguồn_I_2	Nguồn	nguo1239	nuo	I	t'ɔ1	tɔ¹	t ɔ ¹	t ɔ ¹	I_2			Nguyen1997
 Hung (Toum)_I_2	Hung (Toum)	toum1239	hnu	I	saw	saw	s a w	s a w	I_2			Ferlus2017
 Hung (Liha)_I_2	Hung (Liha)	lyha1238	hnu	I	saw	saw	s a w	s a w	I_2			Ferlus2017
 Chứt (Sách)_I_2	Chứt (Sách)	sach1240	scb	I	[[ho, mèŋ]]	ho	h o	h o	I_2			Ferlus2007
@@ -11,10 +10,8 @@ Arem_I_4	Arem	arem1240	aem	I	kɯ̆̀ʔ (<Katuic)	kɯʔ	k ɯ ʔ	k ɯ̀̆/ɯ ʔ	I_
 Thavưng_I_5	Thavưng	aheu1239	thm	I	kan3	kan³	k a n ³	k a n ³	I_5			Ferlus1979
 Maleng_I_6	Maleng	male1282	pkt	I	ʔeŋ (?Lao reflexive)	ʔeŋ	ʔ e ŋ	ʔ e ŋ	I_6			NVlNHH2001
 Vietnamese_THOU_12	Vietnamese	viet1252	vie	THOU	mày	mai̯²¹	m a i̯ ²¹	m ai̯ ²¹	THOU_12			
-Nguồn (Cổ Liêm)_THOU_14	Nguồn (Cổ Liêm)	nguo1239	nuo	THOU	jə̆w1	jə̆w¹	j ə̆ w ¹	j ə̆ w ¹	THOU_14			Nguyen1997
-Nguồn (Yên Thọ)_THOU_14	Nguồn (Yên Thọ)	nguo1239	nuo	THOU	zaw1	zaw¹	z a w ¹	z a w ¹	THOU_14			Nguyen1997
-Thổ (Làng Lỡ)_THOU_12	Thổ (Làng Lỡ)	thoo1240	tou	THOU	məj² ( v! )	məj²	m ə j ²	m ə j ²	THOU_12			
-Thổ (Cuối Chăm)_THOU_12	Thổ (Cuối Chăm)	thoo1240	tou	THOU	miː²	miː²	m iː ²	m iː ²	THOU_12			6.1
+Nguồn_THOU_14	Nguồn	nguo1239	nuo	THOU	jə̆w1	jə̆w¹	j ə̆ w ¹	j ə̆ w ¹	THOU_14			Nguyen1997
+Thổ_THOU_12	Thổ	thoo1240	tou	THOU	miː²	miː²	m iː ²	m iː ²	THOU_12			6.1
 Hung (Phong)_THOU_12	Hung (Phong)	phon1243	hnu	THOU	miː	miː	m iː	m iː	THOU_12			Ferlus2017
 Hung (Toum)_THOU_12	Hung (Toum)	toum1239	hnu	THOU	mei	mei	m e i	m ei	THOU_12			Ferlus2017
 Hung (Liha)_THOU_12	Hung (Liha)	lyha1238	hnu	THOU	məi	məi	m ə i	m əi	THOU_12			Ferlus2017
@@ -25,8 +22,8 @@ Arem_THOU_12	Arem	arem1240	aem	THOU	mɯ̀i̯	mɯi̯	m ɯ i̯	m ɯ̀i̯/ɯi̯	THO
 Thavưng_THOU_15	Thavưng	aheu1239	thm	THOU	thəw1, ʔəʔ1	tʰəw¹	tʰ ə w ¹	tʰ ə w ¹	THOU_15			Ferlus1979
 Maleng_THOU_16	Maleng	male1282	pkt	THOU	căk	căk	c ă k	c ă k	THOU_16			NVlNHH2001
 Vietnamese_HE OR SHE OR IT_17	Vietnamese	viet1252	vie	HE OR SHE OR IT	nó / hắn	nɔː⁴⁵	n ɔː ⁴⁵	n ɔː ⁴⁵	HE OR SHE OR IT_17			
-Nguồn (Cổ Liêm)_HE OR SHE OR IT_17	Nguồn (Cổ Liêm)	nguo1239	nuo	HE OR SHE OR IT	nɔ3	nɔ³	n ɔ ³	n ɔ ³	HE OR SHE OR IT_17			Nguyen1997
-Thổ (Cuối Chăm)_HE OR SHE OR IT_20	Thổ (Cuối Chăm)	thoo1240	tou	HE OR SHE OR IT	han³	han³	h a n ³	h a n ³	HE OR SHE OR IT_20			6.1
+Nguồn_HE OR SHE OR IT_17	Nguồn	nguo1239	nuo	HE OR SHE OR IT	nɔ3	nɔ³	n ɔ ³	n ɔ ³	HE OR SHE OR IT_17			Nguyen1997
+Thổ_HE OR SHE OR IT_20	Thổ	thoo1240	tou	HE OR SHE OR IT	han³	han³	h a n ³	h a n ³	HE OR SHE OR IT_20			6.1
 Hung (Phong)_HE OR SHE OR IT_20	Hung (Phong)	phon1243	hnu	HE OR SHE OR IT	han	han	h a n	h a n	HE OR SHE OR IT_20			Ferlus2017
 Hung (Toum)_HE OR SHE OR IT_20	Hung (Toum)	toum1239	hnu	HE OR SHE OR IT	han	han	h a n	h a n	HE OR SHE OR IT_20			Ferlus2017
 Hung (Liha)_HE OR SHE OR IT_20	Hung (Liha)	lyha1238	hnu	HE OR SHE OR IT	han	han	h a n	h a n	HE OR SHE OR IT_20			Ferlus2017
@@ -38,11 +35,8 @@ Maleng_HE OR SHE OR IT_20	Maleng	male1282	pkt	HE OR SHE OR IT	hăn˧˦˧ˀ	hă
 Vietnamese_ANT_25	Vietnamese	viet1252	vie	ANT	kiến	kiːŋ⁴⁵	k iː ŋ ⁴⁵	k iː ŋ ⁴⁵	ANT_25			
 Mương (Hòa Bình)_ANT_25	Mương (Hòa Bình)	muon1246	mtq	ANT	kiɛn³	kjɛn³	k j ɛ n ³	k i/j ɛ n ³	ANT_25			
 Mương (Sơn La)_ANT_25	Mương (Sơn La)	muon1246	mtq	ANT	kiɛn³	kjɛn³	k j ɛ n ³	k i/j ɛ n ³	ANT_25			
-Mương (Thanh Hóa)_ANT_25	Mương (Thanh Hóa)	muon1246	mtq	ANT	kiɛn³	kjɛn³	k j ɛ n ³	k i/j ɛ n ³	ANT_25			
-Nguồn (Cổ Liêm)_ANT_25	Nguồn (Cổ Liêm)	nguo1239	nuo	ANT	kien4	kjen⁴	k j e n ⁴	k i/j e n ⁴	ANT_25			Nguyen1997
-Nguồn (Yên Thọ)_ANT_25	Nguồn (Yên Thọ)	nguo1239	nuo	ANT	kien4	kjen⁴	k j e n ⁴	k i/j e n ⁴	ANT_25			Nguyen1997
-Thổ (Làng Lỡ)_ANT_25	Thổ (Làng Lỡ)	thoo1240	tou	ANT	ɣɛːn⁴	ɣɛːn⁴	ɣ ɛː n ⁴	ɣ ɛː n ⁴	ANT_25			
-Thổ (Cuối Chăm)_ANT_25	Thổ (Cuối Chăm)	thoo1240	tou	ANT	kɛːn³	kɛːn³	k ɛː n ³	k ɛː n ³	ANT_25			6.1
+Nguồn_ANT_25	Nguồn	nguo1239	nuo	ANT	kien4	kjen⁴	k j e n ⁴	k i/j e n ⁴	ANT_25			Nguyen1997
+Thổ_ANT_25	Thổ	thoo1240	tou	ANT	kɛːn³	kɛːn³	k ɛː n ³	k ɛː n ³	ANT_25			6.1
 Hung (Phong)_ANT_25	Hung (Phong)	phon1243	hnu	ANT	kɛːn	kɛːn	k ɛː n	k ɛː n	ANT_25			Ferlus2017
 Hung (Toum)_ANT_25	Hung (Toum)	toum1239	hnu	ANT	kɛːn	kɛːn	k ɛː n	k ɛː n	ANT_25			Ferlus2017
 Hung (Liha)_ANT_25	Hung (Liha)	lyha1238	hnu	ANT	kɛːn	kɛːn	k ɛː n	k ɛː n	ANT_25			Ferlus2017
@@ -55,10 +49,8 @@ Maleng_ANT_25	Maleng	male1282	pkt	ANT	kḛn˧˦˧ˀ	kḛn³⁴³	k ḛ n ³⁴³
 Vietnamese_ASH_30	Vietnamese	viet1252	vie	ASH	tro	ʈɔː³³	ʈ ɔː ³³	ʈ ɔː ³³	ASH_30			
 Mương (Hòa Bình)_ASH_31	Mương (Hòa Bình)	muon1246	mtq	ASH	puːɲ¹	puːɲ¹	p uː ɲ ¹	p uː ɲ ¹	ASH_31			
 Mương (Sơn La)_ASH_31	Mương (Sơn La)	muon1246	mtq	ASH	buːɲ¹	buːɲ¹	b uː ɲ ¹	b uː ɲ ¹	ASH_31			
-Mương (Thanh Hóa)_ASH_31	Mương (Thanh Hóa)	muon1246	mtq	ASH	vuːɲ¹	vuːɲ¹	v uː ɲ ¹	v uː ɲ ¹	ASH_31			
-Nguồn (Cổ Liêm)_ASH_31	Nguồn (Cổ Liêm)	nguo1239	nuo	ASH	vun1	vun¹	v u n ¹	v u n ¹	ASH_31			Nguyen1997
-Thổ (Làng Lỡ)_ASH_30	Thổ (Làng Lỡ)	thoo1240	tou	ASH	ʈɔː¹	ʈɔː¹	ʈ ɔː ¹	ʈ ɔː ¹	ASH_30			
-Thổ (Cuối Chăm)_ASH_30	Thổ (Cuối Chăm)	thoo1240	tou	ASH	plɒː¹	plɒː¹	p l ɒː ¹	p l ɒː ¹	ASH_30			6.1
+Nguồn_ASH_31	Nguồn	nguo1239	nuo	ASH	vun1	vun¹	v u n ¹	v u n ¹	ASH_31			Nguyen1997
+Thổ_ASH_30	Thổ	thoo1240	tou	ASH	plɒː¹	plɒː¹	p l ɒː ¹	p l ɒː ¹	ASH_30			6.1
 Hung (Phong)_ASH_31	Hung (Phong)	phon1243	hnu	ASH	buːn	buːn	b uː n	b uː n	ASH_31			Ferlus2017
 Hung (Toum)_ASH_31	Hung (Toum)	toum1239	hnu	ASH	buːɲ	buːɲ	b uː ɲ	b uː ɲ	ASH_31			Ferlus2017
 Hung (Liha)_ASH_31	Hung (Liha)	lyha1238	hnu	ASH	buːɲ	buːɲ	b uː ɲ	b uː ɲ	ASH_31			Ferlus2017
@@ -70,8 +62,7 @@ Maleng_ASH_31	Maleng	male1282	pkt	ASH	buɳ˧	buɳ³	b u ɳ ³	b u ɳ ³	ASH_31		
 Vietnamese_BACK_36	Vietnamese	viet1252	vie	BACK	lưng	lɨŋ³³	l ɨ ŋ ³³	l ɨ ŋ ³³	BACK_36			
 Mương (Hòa Bình)_BACK_36	Mương (Hòa Bình)	muon1246	mtq	BACK	lɨŋ¹	lɨŋ¹	l ɨ ŋ ¹	l ɨ ŋ ¹	BACK_36			
 Mương (Sơn La)_BACK_36	Mương (Sơn La)	muon1246	mtq	BACK	ləŋ¹	ləŋ¹	l ə ŋ ¹	l ə ŋ ¹	BACK_36			
-Nguồn (Cổ Liêm)_BACK_36	Nguồn (Cổ Liêm)	nguo1239	nuo	BACK	lɨŋ1	lɨŋ¹	l ɨ ŋ ¹	l ɨ ŋ ¹	BACK_36			Nguyen1997
-Thổ (Làng Lỡ)_BACK_36	Thổ (Làng Lỡ)	thoo1240	tou	BACK	lʌŋ¹	lʌŋ¹	l ʌ ŋ ¹	l ʌ ŋ ¹	BACK_36			
+Nguồn_BACK_36	Nguồn	nguo1239	nuo	BACK	lɨŋ1	lɨŋ¹	l ɨ ŋ ¹	l ɨ ŋ ¹	BACK_36			Nguyen1997
 Hung (Phong)_BACK_36	Hung (Phong)	phon1243	hnu	BACK	kʰlɨŋ	kʰlɨŋ	kʰ l ɨ ŋ	kʰ l ɨ ŋ	BACK_36			Ferlus2017
 Hung (Toum)_BACK_36	Hung (Toum)	toum1239	hnu	BACK	lʌŋ	lʌŋ	l ʌ ŋ	l ʌ ŋ	BACK_36			Ferlus2017
 Hung (Liha)_BACK_36	Hung (Liha)	lyha1238	hnu	BACK	lɔŋ	lɔŋ	l ɔ ŋ	l ɔ ŋ	BACK_36			Ferlus2017
@@ -84,11 +75,8 @@ Maleng_BACK_39	Maleng	male1282	pkt	BACK	takɒŋ˧	takɒŋ³	t a k ɒ ŋ ³	t a k
 Vietnamese_BARK_42	Vietnamese	viet1252	vie	BARK	vỏ	vɔː²¹⁴	v ɔː ²¹⁴	v ɔː ²¹⁴	BARK_42			
 Mương (Hòa Bình)_BARK_42	Mương (Hòa Bình)	muon1246	mtq	BARK	pɔː⁵	pɔː⁵	p ɔː ⁵	p ɔː ⁵	BARK_42			
 Mương (Sơn La)_BARK_42	Mương (Sơn La)	muon1246	mtq	BARK	pɔː⁵	pɔː⁵	p ɔː ⁵	p ɔː ⁵	BARK_42			
-Mương (Thanh Hóa)_BARK_42	Mương (Thanh Hóa)	muon1246	mtq	BARK	bɔː⁴⁶	bɔː⁴⁵	b ɔː ⁴⁵	b ɔː ⁴⁶/⁴⁵	BARK_42			
-Nguồn (Cổ Liêm)_BARK_42	Nguồn (Cổ Liêm)	nguo1239	nuo	BARK	pɔ6	pɔ⁵¹	p ɔ ⁵¹	p ɔ ⁶/⁵¹	BARK_42			Nguyen1997
-Nguồn (Yên Thọ)_BARK_42	Nguồn (Yên Thọ)	nguo1239	nuo	BARK	bɔ6	bɔ⁵¹	b ɔ ⁵¹	b ɔ ⁶/⁵¹	BARK_42			Nguyen1997
-Thổ (Làng Lỡ)_BARK_42	Thổ (Làng Lỡ)	thoo1240	tou	BARK	voa⁵⁶ ( i! v! hyp )	voa⁵⁵	v o a ⁵⁵	v oa ⁵⁶/⁵⁵	BARK_42			
-Thổ (Cuối Chăm)_BARK_42	Thổ (Cuối Chăm)	thoo1240	tou	BARK	pɒː⁵	pɒː⁵	p ɒː ⁵	p ɒː ⁵	BARK_42			6.1
+Nguồn_BARK_42	Nguồn	nguo1239	nuo	BARK	pɔ6	pɔ⁵¹	p ɔ ⁵¹	p ɔ ⁶/⁵¹	BARK_42			Nguyen1997
+Thổ_BARK_42	Thổ	thoo1240	tou	BARK	pɒː⁵	pɒː⁵	p ɒː ⁵	p ɒː ⁵	BARK_42			6.1
 Hung (Phong)_BARK_43	Hung (Phong)	phon1243	hnu	BARK	kdoːk	kdoːk	k d oː k	k d oː k	BARK_43			Ferlus2017
 Chứt (Mày)_BARK_45	Chứt (Mày)	mayy1239	scb	BARK	kupɔk³	kupɔk³	k u p ɔ k ³	k u p ɔ k ³	BARK_45			Babaev2018
 Chứt (Rục)_BARK_46	Chứt (Rục)	rucc1239	scb	BARK	kăduh kᵊʌj	kăduhkəʌj	k ă d u h k ə ʌ j	k ă d u h k ᵊ/ə + ʌ j	BARK_46			Nguyen/Tran/Ferlus1998
@@ -98,11 +86,8 @@ Maleng_BARK_45	Maleng	male1282	pkt	BARK	khalɒk˧˦	kʰalɒk³⁴	kʰ a l ɒ k �
 Vietnamese_BELLY OR STOMACH_49	Vietnamese	viet1252	vie	BELLY OR STOMACH	bụng	ɓuŋ͡m²¹²	ɓ u ŋ͡m ²¹²	ɓ u ŋm ²¹²	BELLY OR STOMACH_49			
 Mương (Hòa Bình)_BELLY OR STOMACH_50	Mương (Hòa Bình)	muon1246	mtq	BELLY OR STOMACH	kloːŋ⁴	kloːŋ⁴	k l oː ŋ ⁴	k l oː ŋ ⁴	BELLY OR STOMACH_50			
 Mương (Sơn La)_BELLY OR STOMACH_50	Mương (Sơn La)	muon1246	mtq	BELLY OR STOMACH	ploːŋ⁴⁶	ploːŋ⁴⁵	p l oː ŋ ⁴⁵	p l oː ŋ ⁴⁶/⁴⁵	BELLY OR STOMACH_50			
-Mương (Thanh Hóa)_BELLY OR STOMACH_50	Mương (Thanh Hóa)	muon1246	mtq	BELLY OR STOMACH	ʈoːŋ⁴⁶	ʈoːŋ⁴⁵	ʈ oː ŋ ⁴⁵	ʈ oː ŋ ⁴⁶/⁴⁵	BELLY OR STOMACH_50			
-Nguồn (Cổ Liêm)_BELLY OR STOMACH_49	Nguồn (Cổ Liêm)	nguo1239	nuo	BELLY OR STOMACH	puŋ4	puŋ⁴	p u ŋ ⁴	p u ŋ ⁴	BELLY OR STOMACH_49			Nguyen1997
-Nguồn (Yên Thọ)_BELLY OR STOMACH_49	Nguồn (Yên Thọ)	nguo1239	nuo	BELLY OR STOMACH	buŋ4	buŋ⁴	b u ŋ ⁴	b u ŋ ⁴	BELLY OR STOMACH_49			Nguyen1997
-Thổ (Làng Lỡ)_BELLY OR STOMACH_51	Thổ (Làng Lỡ)	thoo1240	tou	BELLY OR STOMACH	duːn³	duːn³	d uː n ³	d uː n ³	BELLY OR STOMACH_51			
-Thổ (Cuối Chăm)_BELLY OR STOMACH_51	Thổ (Cuối Chăm)	thoo1240	tou	BELLY OR STOMACH	duːl³	duːl³	d uː l ³	d uː l ³	BELLY OR STOMACH_51			6.1
+Nguồn_BELLY OR STOMACH_49	Nguồn	nguo1239	nuo	BELLY OR STOMACH	puŋ4	puŋ⁴	p u ŋ ⁴	p u ŋ ⁴	BELLY OR STOMACH_49			Nguyen1997
+Thổ_BELLY OR STOMACH_51	Thổ	thoo1240	tou	BELLY OR STOMACH	duːl³	duːl³	d uː l ³	d uː l ³	BELLY OR STOMACH_51			6.1
 Hung (Phong)_BELLY OR STOMACH_50	Hung (Phong)	phon1243	hnu	BELLY OR STOMACH	kluŋ	kluŋ	k l u ŋ	k l u ŋ	BELLY OR STOMACH_50			Ferlus2017
 Hung (Toum)_BELLY OR STOMACH_49	Hung (Toum)	toum1239	hnu	BELLY OR STOMACH	poŋ	poŋ	p o ŋ	p o ŋ	BELLY OR STOMACH_49			Ferlus2017
 Hung (Liha)_BELLY OR STOMACH_49	Hung (Liha)	lyha1238	hnu	BELLY OR STOMACH	poŋ	poŋ	p o ŋ	p o ŋ	BELLY OR STOMACH_49			Ferlus2017
@@ -113,7 +98,7 @@ Arem_BELLY OR STOMACH_49	Arem	arem1240	aem	BELLY OR STOMACH	pŭ̀ŋ	puŋ	p u ŋ
 Thavưng_BELLY OR STOMACH_52	Thavưng	aheu1239	thm	BELLY OR STOMACH	khaɁâl 'abdomen'	kʰaʔal	kʰ a ʔ a l	kʰ a ʔ â/a l	BELLY OR STOMACH_52			Ferlus1979
 Maleng_BELLY OR STOMACH_53	Maleng	male1282	pkt	BELLY OR STOMACH	ɬɔ̰c˧˦	ɬɔ̰c³⁴	ɬ ɔ̰ c ³⁴	ɬ ɔ̰ c ³⁴	BELLY OR STOMACH_53			NVlNHH2001
 Vietnamese_BIG_56	Vietnamese	viet1252	vie	BIG	lớn, to	ləːŋ⁴⁵	l əː ŋ ⁴⁵	l əː ŋ ⁴⁵	BIG_56			
-Nguồn (Cổ Liêm)_BIG_57	Nguồn (Cổ Liêm)	nguo1239	nuo	BIG	nə̆j4, roːŋ4 (wide)	nə̆j⁴	n ə̆ j ⁴	n ə̆ j ⁴	BIG_57			Nguyen1997
+Nguồn_BIG_57	Nguồn	nguo1239	nuo	BIG	nə̆j4, roːŋ4 (wide)	nə̆j⁴	n ə̆ j ⁴	n ə̆ j ⁴	BIG_57			Nguyen1997
 Hung (Phong)_BIG_57	Hung (Phong)	phon1243	hnu	BIG	neː	neː	n eː	n eː	BIG_57			Ferlus2017
 Hung (Toum)_BIG_57	Hung (Toum)	toum1239	hnu	BIG	niː	niː	n iː	n iː	BIG_57			Ferlus2017
 Hung (Liha)_BIG_57	Hung (Liha)	lyha1238	hnu	BIG	neː	neː	n eː	n eː	BIG_57			Ferlus2017
@@ -125,11 +110,8 @@ Maleng_BIG_61	Maleng	male1282	pkt	BIG	kḛ˧˦˧ˀ	kḛ³⁴³	k ḛ ³⁴³	k �
 Vietnamese_BIRD_64	Vietnamese	viet1252	vie	BIRD	chim	cim³³	c i m ³³	c i m ³³	BIRD_64			
 Mương (Hòa Bình)_BIRD_64	Mương (Hòa Bình)	muon1246	mtq	BIRD	ciːm¹	ciːm¹	c iː m ¹	c iː m ¹	BIRD_64			
 Mương (Sơn La)_BIRD_64	Mương (Sơn La)	muon1246	mtq	BIRD	ciːm¹	ciːm¹	c iː m ¹	c iː m ¹	BIRD_64			
-Mương (Thanh Hóa)_BIRD_64	Mương (Thanh Hóa)	muon1246	mtq	BIRD	ciːm¹	ciːm¹	c iː m ¹	c iː m ¹	BIRD_64			
-Nguồn (Cổ Liêm)_BIRD_64	Nguồn (Cổ Liêm)	nguo1239	nuo	BIRD	sɨm1	sɨm¹	s ɨ m ¹	s ɨ m ¹	BIRD_64			Nguyen1997
-Nguồn (Yên Thọ)_BIRD_64	Nguồn (Yên Thọ)	nguo1239	nuo	BIRD	cɨm1	cɨm¹	c ɨ m ¹	c ɨ m ¹	BIRD_64			Nguyen1997
-Thổ (Làng Lỡ)_BIRD_64	Thổ (Làng Lỡ)	thoo1240	tou	BIRD	ciːm¹	ciːm¹	c iː m ¹	c iː m ¹	BIRD_64			
-Thổ (Cuối Chăm)_BIRD_64	Thổ (Cuối Chăm)	thoo1240	tou	BIRD	ciːm¹	ciːm¹	c iː m ¹	c iː m ¹	BIRD_64			6.1
+Nguồn_BIRD_64	Nguồn	nguo1239	nuo	BIRD	sɨm1	sɨm¹	s ɨ m ¹	s ɨ m ¹	BIRD_64			Nguyen1997
+Thổ_BIRD_64	Thổ	thoo1240	tou	BIRD	ciːm¹	ciːm¹	c iː m ¹	c iː m ¹	BIRD_64			6.1
 Hung (Phong)_BIRD_64	Hung (Phong)	phon1243	hnu	BIRD	ciːm	ciːm	c iː m	c iː m	BIRD_64			Ferlus2017
 Hung (Toum)_BIRD_64	Hung (Toum)	toum1239	hnu	BIRD	ciːm	ciːm	c iː m	c iː m	BIRD_64			Ferlus2017
 Hung (Liha)_BIRD_64	Hung (Liha)	lyha1238	hnu	BIRD	ciːm	ciːm	c iː m	c iː m	BIRD_64			Ferlus2017
@@ -142,10 +124,8 @@ Maleng_BIRD_66	Maleng	male1282	pkt	BIRD	ʔɔ̰˧˦˧ˀ	ʔɔ̰³⁴³	ʔ ɔ̰ ³�
 Vietnamese_BITE_69	Vietnamese	viet1252	vie	BITE	cǎ́n	kăŋ⁴⁵	k ă ŋ ⁴⁵	c á/a n	BITE_69			
 Mương (Hòa Bình)_BITE_69	Mương (Hòa Bình)	muon1246	mtq	BITE	kaɲ³	kaɲ³	k a ɲ ³	k a ɲ ³	BITE_69			
 Mương (Sơn La)_BITE_69	Mương (Sơn La)	muon1246	mtq	BITE	kaɲ³	kaɲ³	k a ɲ ³	k a ɲ ³	BITE_69			
-Nguồn (Cổ Liêm)_BITE_69	Nguồn (Cổ Liêm)	nguo1239	nuo	BITE	kăn3	kăn³	k ă n ³	k ă n ³	BITE_69			Nguyen1997
-Nguồn (Yên Thọ)_BITE_69	Nguồn (Yên Thọ)	nguo1239	nuo	BITE	kăɲ3	kăɲ³	k ă ɲ ³	k ă ɲ ³	BITE_69			Nguyen1997
-Thổ (Làng Lỡ)_BITE_70	Thổ (Làng Lỡ)	thoo1240	tou	BITE	kam⁴	kam⁴	k a m ⁴	k a m ⁴	BITE_70			
-Thổ (Cuối Chăm)_BITE_70	Thổ (Cuối Chăm)	thoo1240	tou	BITE	kam⁴	kam⁴	k a m ⁴	k a m ⁴	BITE_70			6.1
+Nguồn_BITE_69	Nguồn	nguo1239	nuo	BITE	kăn3	kăn³	k ă n ³	k ă n ³	BITE_69			Nguyen1997
+Thổ_BITE_70	Thổ	thoo1240	tou	BITE	kam⁴	kam⁴	k a m ⁴	k a m ⁴	BITE_70			6.1
 Hung (Phong)_BITE_71	Hung (Phong)	phon1243	hnu	BITE	kaːt	kaːt	k aː t	k aː t	BITE_71			Ferlus2017
 Hung (Toum)_BITE_71	Hung (Toum)	toum1239	hnu	BITE	kaːt	kaːt	k aː t	k aː t	BITE_71			Ferlus2017
 Hung (Liha)_BITE_71	Hung (Liha)	lyha1238	hnu	BITE	kaːt	kaːt	k aː t	k aː t	BITE_71			Ferlus2017
@@ -158,11 +138,8 @@ Maleng_BITE_69	Maleng	male1282	pkt	BITE	kĭɳ˧˦˧ˀ , kap˧˦	kĭɳ³⁴³	k
 Vietnamese_BITTER_75	Vietnamese	viet1252	vie	BITTER	đắng	ɗaŋ⁴⁵	ɗ a ŋ ⁴⁵	ɗ a ŋ ⁴⁵	BITTER_75			
 Mương (Hòa Bình)_BITTER_75	Mương (Hòa Bình)	muon1246	mtq	BITTER	taŋ³	taŋ³	t a ŋ ³	t a ŋ ³	BITTER_75			
 Mương (Sơn La)_BITTER_75	Mương (Sơn La)	muon1246	mtq	BITTER	taŋ³	taŋ³	t a ŋ ³	t a ŋ ³	BITTER_75			
-Mương (Thanh Hóa)_BITTER_75	Mương (Thanh Hóa)	muon1246	mtq	BITTER	taŋ³	taŋ³	t a ŋ ³	t a ŋ ³	BITTER_75			
-Nguồn (Cổ Liêm)_BITTER_75	Nguồn (Cổ Liêm)	nguo1239	nuo	BITTER	tăŋ3	tăŋ³	t ă ŋ ³	t ă ŋ ³	BITTER_75			Nguyen1997
-Nguồn (Yên Thọ)_BITTER_75	Nguồn (Yên Thọ)	nguo1239	nuo	BITTER	ʔăŋ3	ʔăŋ³	ʔ ă ŋ ³	ʔ ă ŋ ³	BITTER_75			Nguyen1997
-Thổ (Làng Lỡ)_BITTER_75	Thổ (Làng Lỡ)	thoo1240	tou	BITTER	taŋ³	taŋ³	t a ŋ ³	t a ŋ ³	BITTER_75			
-Thổ (Cuối Chăm)_BITTER_75	Thổ (Cuối Chăm)	thoo1240	tou	BITTER	taŋ³	taŋ³	t a ŋ ³	t a ŋ ³	BITTER_75			6.1
+Nguồn_BITTER_75	Nguồn	nguo1239	nuo	BITTER	tăŋ3	tăŋ³	t ă ŋ ³	t ă ŋ ³	BITTER_75			Nguyen1997
+Thổ_BITTER_75	Thổ	thoo1240	tou	BITTER	taŋ³	taŋ³	t a ŋ ³	t a ŋ ³	BITTER_75			6.1
 Hung (Phong)_BITTER_75	Hung (Phong)	phon1243	hnu	BITTER	taŋ	taŋ	t a ŋ	t a ŋ	BITTER_75			Ferlus2017
 Hung (Toum)_BITTER_75	Hung (Toum)	toum1239	hnu	BITTER	taŋ	taŋ	t a ŋ	t a ŋ	BITTER_75			Ferlus2017
 Hung (Liha)_BITTER_75	Hung (Liha)	lyha1238	hnu	BITTER	taŋ	taŋ	t a ŋ	t a ŋ	BITTER_75			Ferlus2017
@@ -175,9 +152,7 @@ Maleng_BITTER_75	Maleng	male1282	pkt	BITTER	tă̰ŋ˧˦˧ˀ	tă̰ŋ³⁴³	t a
 Vietnamese_BLACK_79	Vietnamese	viet1252	vie	BLACK	đen	ɗɛːŋ³³	ɗ ɛː ŋ ³³	ɗ ɛː ŋ ³³	BLACK_79			
 Mương (Hòa Bình)_BLACK_80	Mương (Hòa Bình)	muon1246	mtq	BLACK	jəm¹	jəm¹	j ə m ¹	j ə m ¹	BLACK_80			
 Mương (Sơn La)_BLACK_80	Mương (Sơn La)	muon1246	mtq	BLACK	jəm¹	jəm¹	j ə m ¹	j ə m ¹	BLACK_80			
-Mương (Thanh Hóa)_BLACK_80	Mương (Thanh Hóa)	muon1246	mtq	BLACK	jəm¹	jəm¹	j ə m ¹	j ə m ¹	BLACK_80			
-Nguồn (Cổ Liêm)_BLACK_79	Nguồn (Cổ Liêm)	nguo1239	nuo	BLACK	tɛn1	tɛn¹	t ɛ n ¹	t ɛ n ¹	BLACK_79			Nguyen1997
-Nguồn (Yên Thọ)_BLACK_79	Nguồn (Yên Thọ)	nguo1239	nuo	BLACK	ʔɛn1	ʔɛn¹	ʔ ɛ n ¹	ʔ ɛ n ¹	BLACK_79			Nguyen1997
+Nguồn_BLACK_79	Nguồn	nguo1239	nuo	BLACK	tɛn1	tɛn¹	t ɛ n ¹	t ɛ n ¹	BLACK_79			Nguyen1997
 Chứt (Sách)_BLACK_79	Chứt (Sách)	sach1240	scb	BLACK	[[tɛn]]	tɛn	t ɛ n	t ɛ n	BLACK_79			Ferlus2007
 Chứt (Mày)_BLACK_79	Chứt (Mày)	mayy1239	scb	BLACK	tɛn¹	tɛn¹	t ɛ n ¹	t ɛ n ¹	BLACK_79			Babaev2018
 Chứt (Rục)_BLACK_79	Chứt (Rục)	rucc1239	scb	BLACK	tɛntɛn	tɛntɛn	t ɛ n t ɛ n	t ɛ n t ɛ n	BLACK_79			Nguyen/Tran/Ferlus1998
@@ -187,8 +162,7 @@ Maleng_BLACK_83	Maleng	male1282	pkt	BLACK	ɳɯ̆m˧˦	ɳɯ̆m³⁴	ɳ ɯ̆ m ³�
 Vietnamese_BLOOD_87	Vietnamese	viet1252	vie	BLOOD	máu (<'sap')	mau̯⁴⁵	m a u̯ ⁴⁵	m au̯ ⁴⁵	BLOOD_87			
 Mương (Hòa Bình)_BLOOD_87	Mương (Hòa Bình)	muon1246	mtq	BLOOD	maw³	maw³	m a w ³	m a w ³	BLOOD_87			
 Mương (Sơn La)_BLOOD_87	Mương (Sơn La)	muon1246	mtq	BLOOD	maw³	maw³	m a w ³	m a w ³	BLOOD_87			
-Mương (Thanh Hóa)_BLOOD_87	Mương (Thanh Hóa)	muon1246	mtq	BLOOD	maw³	maw³	m a w ³	m a w ³	BLOOD_87			
-Nguồn (Cổ Liêm)_BLOOD_87	Nguồn (Cổ Liêm)	nguo1239	nuo	BLOOD	maw3	maw³	m a w ³	m a w ³	BLOOD_87			Nguyen1997
+Nguồn_BLOOD_87	Nguồn	nguo1239	nuo	BLOOD	maw3	maw³	m a w ³	m a w ³	BLOOD_87			Nguyen1997
 Hung (Phong)_BLOOD_89	Hung (Phong)	phon1243	hnu	BLOOD	saːm	saːm	s aː m	s aː m	BLOOD_89			Ferlus2017
 Hung (Toum)_BLOOD_89	Hung (Toum)	toum1239	hnu	BLOOD	saːm	saːm	s aː m	s aː m	BLOOD_89			Ferlus2017
 Chứt (Sách)_BLOOD_89	Chứt (Sách)	sach1240	scb	BLOOD	asaːm³	asaːm³	a s aː m ³	a s aː m ³	BLOOD_89			Ferlus2007
@@ -199,10 +173,8 @@ Thavưng_BLOOD_87	Thavưng	aheu1239	thm	BLOOD	tamuː1	tamuː¹	t a m uː ¹	t a 
 Vietnamese_BLOW (WITH MOUTH)_91	Vietnamese	viet1252	vie	BLOW (WITH MOUTH)	thổi	tʰoːi̯²¹⁴	tʰ oː i̯ ²¹⁴	tʰ oːi̯ ²¹⁴	BLOW (WITH MOUTH)_91			
 Mương (Hòa Bình)_BLOW (WITH MOUTH)_91	Mương (Hòa Bình)	muon1246	mtq	BLOW (WITH MOUTH)	tʰoːj⁵	tʰoːj⁵	tʰ oː j ⁵	tʰ oː j ⁵	BLOW (WITH MOUTH)_91			
 Mương (Sơn La)_BLOW (WITH MOUTH)_91	Mương (Sơn La)	muon1246	mtq	BLOW (WITH MOUTH)	hoːl⁵	hoːl⁵	h oː l ⁵	h oː l ⁵	BLOW (WITH MOUTH)_91			
-Nguồn (Cổ Liêm)_BLOW (WITH MOUTH)_91	Nguồn (Cổ Liêm)	nguo1239	nuo	BLOW (WITH MOUTH)	t'on5	ton⁵	t o n ⁵	t o n ⁵	BLOW (WITH MOUTH)_91			Nguyen1997
-Nguồn (Yên Thọ)_BLOW (WITH MOUTH)_91	Nguồn (Yên Thọ)	nguo1239	nuo	BLOW (WITH MOUTH)	t'un5	tun⁵	t u n ⁵	t u n ⁵	BLOW (WITH MOUTH)_91			Nguyen1997
-Thổ (Làng Lỡ)_BLOW (WITH MOUTH)_91	Thổ (Làng Lỡ)	thoo1240	tou	BLOW (WITH MOUTH)	tʰuːn⁵⁶	tʰuːn⁵⁵	tʰ uː n ⁵⁵	tʰ uː n ⁵⁶/⁵⁵	BLOW (WITH MOUTH)_91			
-Thổ (Cuối Chăm)_BLOW (WITH MOUTH)_91	Thổ (Cuối Chăm)	thoo1240	tou	BLOW (WITH MOUTH)	tʰuːl⁵	tʰuːl⁵	tʰ uː l ⁵	tʰ uː l ⁵	BLOW (WITH MOUTH)_91			6.1
+Nguồn_BLOW (WITH MOUTH)_91	Nguồn	nguo1239	nuo	BLOW (WITH MOUTH)	t'on5	ton⁵	t o n ⁵	t o n ⁵	BLOW (WITH MOUTH)_91			Nguyen1997
+Thổ_BLOW (WITH MOUTH)_91	Thổ	thoo1240	tou	BLOW (WITH MOUTH)	tʰuːl⁵	tʰuːl⁵	tʰ uː l ⁵	tʰ uː l ⁵	BLOW (WITH MOUTH)_91			6.1
 Hung (Phong)_BLOW (WITH MOUTH)_91	Hung (Phong)	phon1243	hnu	BLOW (WITH MOUTH)	tuːt	tuːt	t uː t	t uː t	BLOW (WITH MOUTH)_91			Ferlus2017
 Hung (Toum)_BLOW (WITH MOUTH)_91	Hung (Toum)	toum1239	hnu	BLOW (WITH MOUTH)	tuːc	tuːc	t uː c	t uː c	BLOW (WITH MOUTH)_91			Ferlus2017
 Hung (Liha)_BLOW (WITH MOUTH)_91	Hung (Liha)	lyha1238	hnu	BLOW (WITH MOUTH)	tuːc	tuːc	t uː c	t uː c	BLOW (WITH MOUTH)_91			Ferlus2017
@@ -214,11 +186,8 @@ Thavưng_BLOW (WITH MOUTH)_91	Thavưng	aheu1239	thm	BLOW (WITH MOUTH)	thuːl1	t�
 Vietnamese_BONE_96	Vietnamese	viet1252	vie	BONE	xương	sɨːŋ³³	s ɨː ŋ ³³	s ɨː ŋ ³³	BONE_96			
 Mương (Hòa Bình)_BONE_96	Mương (Hòa Bình)	muon1246	mtq	BONE	sɨaŋ¹	sɨaŋ¹	s ɨ a ŋ ¹	s ɨa ŋ ¹	BONE_96			
 Mương (Sơn La)_BONE_96	Mương (Sơn La)	muon1246	mtq	BONE	sɨaŋ¹	sɨaŋ¹	s ɨ a ŋ ¹	s ɨa ŋ ¹	BONE_96			
-Mương (Thanh Hóa)_BONE_96	Mương (Thanh Hóa)	muon1246	mtq	BONE	sɨaŋ¹	sɨaŋ¹	s ɨ a ŋ ¹	s ɨa ŋ ¹	BONE_96			
-Nguồn (Cổ Liêm)_BONE_96	Nguồn (Cổ Liêm)	nguo1239	nuo	BONE	sɨəŋ1	sɨəŋ¹	s ɨ ə ŋ ¹	s ɨə ŋ ¹	BONE_96			Nguyen1997
-Nguồn (Yên Thọ)_BONE_96	Nguồn (Yên Thọ)	nguo1239	nuo	BONE	sɨəŋ1	sɨəŋ¹	s ɨ ə ŋ ¹	s ɨə ŋ ¹	BONE_96			Nguyen1997
-Thổ (Làng Lỡ)_BONE_96	Thổ (Làng Lỡ)	thoo1240	tou	BONE	sɨaŋ¹	sɨaŋ¹	s ɨ a ŋ ¹	s ɨa ŋ ¹	BONE_96			
-Thổ (Cuối Chăm)_BONE_96	Thổ (Cuối Chăm)	thoo1240	tou	BONE	sɨəŋ¹	sɨəŋ¹	s ɨ ə ŋ ¹	s ɨə ŋ ¹	BONE_96			6.1
+Nguồn_BONE_96	Nguồn	nguo1239	nuo	BONE	sɨəŋ1	sɨəŋ¹	s ɨ ə ŋ ¹	s ɨə ŋ ¹	BONE_96			Nguyen1997
+Thổ_BONE_96	Thổ	thoo1240	tou	BONE	sɨəŋ¹	sɨəŋ¹	s ɨ ə ŋ ¹	s ɨə ŋ ¹	BONE_96			6.1
 Chứt (Sách)_BONE_96	Chứt (Sách)	sach1240	scb	BONE	saːŋ²	saːŋ²	s aː ŋ ²	s aː ŋ ²	BONE_96			Ferlus2007
 Chứt (Mày)_BONE_96	Chứt (Mày)	mayy1239	scb	BONE	ɕaŋ²	ɕaŋ²	ɕ a ŋ ²	ɕ a ŋ ²	BONE_96			Babaev2018
 Chứt (Rục)_BONE_96	Chứt (Rục)	rucc1239	scb	BONE	sàŋ	saŋ	s a ŋ	s à/a ŋ	BONE_96			Nguyen/Tran/Ferlus1998
@@ -228,9 +197,8 @@ Maleng_BONE_96	Maleng	male1282	pkt	BONE	sɤŋ˧	sɤŋ³	s ɤ ŋ ³	s ɤ ŋ ³	BO
 Vietnamese_BREAST_99	Vietnamese	viet1252	vie	BREAST	vú	vu⁴⁵	v u ⁴⁵	v u ⁴⁵	BREAST_99			
 Mương (Hòa Bình)_BREAST_99	Mương (Hòa Bình)	muon1246	mtq	BREAST	puː³	puː³	p uː ³	p uː ³	BREAST_99			
 Mương (Sơn La)_BREAST_99	Mương (Sơn La)	muon1246	mtq	BREAST	puː³	puː³	p uː ³	p uː ³	BREAST_99			
-Nguồn (Cổ Liêm)_BREAST_100	Nguồn (Cổ Liêm)	nguo1239	nuo	BREAST	ʔu3	ʔu³	ʔ u ³	ʔ u ³	BREAST_100			Nguyen1997
-Thổ (Làng Lỡ)_BREAST_100	Thổ (Làng Lỡ)	thoo1240	tou	BREAST	ʔuː³	ʔuː³	ʔ uː ³	ʔ uː ³	BREAST_100			
-Thổ (Cuối Chăm)_BREAST_100	Thổ (Cuối Chăm)	thoo1240	tou	BREAST	ʔuː³	ʔuː³	ʔ uː ³	ʔ uː ³	BREAST_100			6.1
+Nguồn_BREAST_100	Nguồn	nguo1239	nuo	BREAST	ʔu3	ʔu³	ʔ u ³	ʔ u ³	BREAST_100			Nguyen1997
+Thổ_BREAST_100	Thổ	thoo1240	tou	BREAST	ʔuː³	ʔuː³	ʔ uː ³	ʔ uː ³	BREAST_100			6.1
 Hung (Phong)_BREAST_99	Hung (Phong)	phon1243	hnu	BREAST	nuː	nuː	n uː	n uː	BREAST_99			Ferlus2017
 Hung (Toum)_BREAST_99	Hung (Toum)	toum1239	hnu	BREAST	now	now	n o w	n o w	BREAST_99			Ferlus2017
 Hung (Liha)_BREAST_99	Hung (Liha)	lyha1238	hnu	BREAST	now	now	n o w	n o w	BREAST_99			Ferlus2017
@@ -243,8 +211,7 @@ Maleng_BREAST_99	Maleng	male1282	pkt	BREAST	panṵ˧˦˧ˀ	panṵ³⁴³	p a n u
 Vietnamese_CHEST_105	Vietnamese	viet1252	vie	CHEST	ngực	ŋɨk²¹²	ŋ ɨ k ²¹²	ŋ ɨ k ²¹²	CHEST_105			
 Mương (Hòa Bình)_CHEST_105	Mương (Hòa Bình)	muon1246	mtq	CHEST	ŋək⁸	ŋək⁵³	ŋ ə k ⁵³	ŋ ə k ⁸/⁵³	CHEST_105			
 Mương (Sơn La)_CHEST_105	Mương (Sơn La)	muon1246	mtq	CHEST	ŋək⁸	ŋək⁵³	ŋ ə k ⁵³	ŋ ə k ⁸/⁵³	CHEST_105			
-Nguồn (Cổ Liêm)_CHEST_105	Nguồn (Cổ Liêm)	nguo1239	nuo	CHEST	ŋɨk8	ŋɨk⁵³	ŋ ɨ k ⁵³	ŋ ɨ k ⁸/⁵³	CHEST_105			Nguyen1997
-Thổ (Làng Lỡ)_CHEST_105	Thổ (Làng Lỡ)	thoo1240	tou	CHEST	ŋɨk⁸	ŋɨk⁵³	ŋ ɨ k ⁵³	ŋ ɨ k ⁸/⁵³	CHEST_105			
+Nguồn_CHEST_105	Nguồn	nguo1239	nuo	CHEST	ŋɨk8	ŋɨk⁵³	ŋ ɨ k ⁵³	ŋ ɨ k ⁸/⁵³	CHEST_105			Nguyen1997
 Chứt (Sách)_CHEST_107	Chứt (Sách)	sach1240	scb	CHEST	[[tóŋ]]	toŋ	t o ŋ	t ó/o ŋ	CHEST_107			Ferlus2007
 Chứt (Mày)_CHEST_108	Chứt (Mày)	mayy1239	scb	CHEST	ʔaɽɤŋ¹	ʔaɽɤŋ¹	ʔ a ɽ ɤ ŋ ¹	ʔ a ɽ ɤ ŋ ¹	CHEST_108			Babaev2018
 Chứt (Rục)_CHEST_109	Chứt (Rục)	rucc1239	scb	CHEST	pakᵊaŋ	pakəaŋ	p a k ə a ŋ	p a k ᵊ/ə + a ŋ	CHEST_109			Nguyen/Tran/Ferlus1998
@@ -253,11 +220,8 @@ Thavưng_CHEST_110	Thavưng	aheu1239	thm	CHEST	Ɂək1 [< Lao]	ʔək¹	ʔ ə k ¹
 Maleng_CHEST_110	Maleng	male1282	pkt	CHEST	ʔɤ̆k˧˦	ʔɤ̆k³⁴	ʔ ɤ̆ k ³⁴	ʔ ɤ̆ k ³⁴	CHEST_110			NVlNHH2001
 Vietnamese_CHILD_114	Vietnamese	viet1252	vie	CHILD	con	kɔːŋ³³	k ɔː ŋ ³³	k ɔː ŋ ³³	CHILD_114			
 Mương (Hòa Bình)_CHILD_115	Mương (Hòa Bình)	muon1246	mtq	CHILD	dɛːt⁷	dɛːt⁵²	d ɛː t ⁵²	d ɛː t ⁷/⁵²	CHILD_115			
-Mương (Thanh Hóa)_CHILD_115	Mương (Thanh Hóa)	muon1246	mtq	CHILD	dɛːt⁷	dɛːt⁵²	d ɛː t ⁵²	d ɛː t ⁷/⁵²	CHILD_115			
-Nguồn (Cổ Liêm)_CHILD_114	Nguồn (Cổ Liêm)	nguo1239	nuo	CHILD	kɔn1	kɔn¹	k ɔ n ¹	k ɔ n ¹	CHILD_114			Nguyen1997
-Nguồn (Yên Thọ)_CHILD_114	Nguồn (Yên Thọ)	nguo1239	nuo	CHILD	kɔn1	kɔn¹	k ɔ n ¹	k ɔ n ¹	CHILD_114			Nguyen1997
-Thổ (Làng Lỡ)_CHILD_115	Thổ (Làng Lỡ)	thoo1240	tou	CHILD	dɛːt⁷	dɛːt⁵²	d ɛː t ⁵²	d ɛː t ⁷/⁵²	CHILD_115			
-Thổ (Cuối Chăm)_CHILD_115	Thổ (Cuối Chăm)	thoo1240	tou	CHILD	dɛːt⁷	dɛːt⁵²	d ɛː t ⁵²	d ɛː t ⁷/⁵²	CHILD_115			6.1
+Nguồn_CHILD_114	Nguồn	nguo1239	nuo	CHILD	kɔn1	kɔn¹	k ɔ n ¹	k ɔ n ¹	CHILD_114			Nguyen1997
+Thổ_CHILD_115	Thổ	thoo1240	tou	CHILD	dɛːt⁷	dɛːt⁵²	d ɛː t ⁵²	d ɛː t ⁷/⁵²	CHILD_115			6.1
 Hung (Phong)_CHILD_114	Hung (Phong)	phon1243	hnu	CHILD	kɔːn	kɔːn	k ɔː n	k ɔː n	CHILD_114			Ferlus2017
 Hung (Toum)_CHILD_114	Hung (Toum)	toum1239	hnu	CHILD	kɔːn	kɔːn	k ɔː n	k ɔː n	CHILD_114			Ferlus2017
 Hung (Liha)_CHILD_114	Hung (Liha)	lyha1238	hnu	CHILD	kɔːn	kɔːn	k ɔː n	k ɔː n	CHILD_114			Ferlus2017
@@ -267,8 +231,7 @@ Arem_CHILD_114	Arem	arem1240	aem	CHILD	kɒn	kɒn	k ɒ n	k ɒ n	CHILD_114			Kasug
 Thavưng_CHILD_114	Thavưng	aheu1239	thm	CHILD	kɔːn1	kɔːn¹	k ɔː n ¹	k ɔː n ¹	CHILD_114			Ferlus1979
 Maleng_CHILD_115	Maleng	male1282	pkt	CHILD	kadɛ˧˦˧ˀ	kadɛ³⁴³	k a d ɛ ³⁴³	k a d ɛ ³⁴³ˀ/³⁴³	CHILD_115			NVlNHH2001
 Vietnamese_BURNING_117	Vietnamese	viet1252	vie	BURNING	cháy	cai̯⁴⁵	c a i̯ ⁴⁵	c ai̯ ⁴⁵	BURNING_117			
-Nguồn (Cổ Liêm)_BURNING_118	Nguồn (Cổ Liêm)	nguo1239	nuo	BURNING	pɔŋ2	pɔŋ²	p ɔ ŋ ²	p ɔ ŋ ²	BURNING_118			Nguyen1997
-Nguồn (Yên Thọ)_BURNING_118	Nguồn (Yên Thọ)	nguo1239	nuo	BURNING	bɔŋ6	bɔŋ⁵¹	b ɔ ŋ ⁵¹	b ɔ ŋ ⁶/⁵¹	BURNING_118			Nguyen1997
+Nguồn_BURNING_118	Nguồn	nguo1239	nuo	BURNING	pɔŋ2	pɔŋ²	p ɔ ŋ ²	p ɔ ŋ ²	BURNING_118			Nguyen1997
 Hung (Phong)_BURNING_119	Hung (Phong)	phon1243	hnu	BURNING	ploːk	ploːk	p l oː k	p l oː k	BURNING_119			Ferlus2017
 Hung (Toum)_BURNING_119	Hung (Toum)	toum1239	hnu	BURNING	plaot	plaot	p l a o t	p l ao t	BURNING_119			Ferlus2017
 Hung (Liha)_BURNING_119	Hung (Liha)	lyha1238	hnu	BURNING	plaot	plaot	p l a o t	p l ao t	BURNING_119			Ferlus2017
@@ -276,8 +239,8 @@ Arem_BURNING_117	Arem	arem1240	aem	BURNING	tɕaːlʼ	ʨaːlˀ	ʨ aː lˀ	tɕ aː
 Thavưng_BURNING_117	Thavưng	aheu1239	thm	BURNING	cal1	cal¹	c a l ¹	c a l ¹	BURNING_117			Ferlus1979
 Maleng_BURNING_123	Maleng	male1282	pkt	BURNING	kĭɳ˧	kĭɳ³	k ĭ ɳ ³	k ĭ ɳ ³	BURNING_123			NVlNHH2001
 Vietnamese_CLAW OR NAIL_127	Vietnamese	viet1252	vie	CLAW OR NAIL	móng	mɔŋ͡m⁴⁵	m ɔ ŋ͡m ⁴⁵	m ɔ ŋm ⁴⁵	CLAW OR NAIL_127			
-Nguồn (Cổ Liêm)_CLAW OR NAIL_127	Nguồn (Cổ Liêm)	nguo1239	nuo	CLAW OR NAIL	mɔŋ3	mɔŋ³	m ɔ ŋ ³	m ɔ ŋ ³	CLAW OR NAIL_127			Nguyen1997
-Thổ (Cuối Chăm)_CLAW OR NAIL_129	Thổ (Cuối Chăm)	thoo1240	tou	CLAW OR NAIL	sam¹	sam¹	s a m ¹	s a m ¹	CLAW OR NAIL_129			6.1
+Nguồn_CLAW OR NAIL_127	Nguồn	nguo1239	nuo	CLAW OR NAIL	mɔŋ3	mɔŋ³	m ɔ ŋ ³	m ɔ ŋ ³	CLAW OR NAIL_127			Nguyen1997
+Thổ_CLAW OR NAIL_129	Thổ	thoo1240	tou	CLAW OR NAIL	sam¹	sam¹	s a m ¹	s a m ¹	CLAW OR NAIL_129			6.1
 Hung (Phong)_CLAW OR NAIL_129	Hung (Phong)	phon1243	hnu	CLAW OR NAIL	ksam	ksam	k s a m	k s a m	CLAW OR NAIL_129			Ferlus2017
 Hung (Toum)_CLAW OR NAIL_129	Hung (Toum)	toum1239	hnu	CLAW OR NAIL	sam	sam	s a m	s a m	CLAW OR NAIL_129			Ferlus2017
 Hung (Liha)_CLAW OR NAIL_129	Hung (Liha)	lyha1238	hnu	CLAW OR NAIL	sam	sam	s a m	s a m	CLAW OR NAIL_129			Ferlus2017
@@ -290,10 +253,8 @@ Maleng_CLAW OR NAIL_129	Maleng	male1282	pkt	CLAW OR NAIL	kasăm˧˦˧ˀ	kasăm
 Vietnamese_CLOUD_132	Vietnamese	viet1252	vie	CLOUD	mây	məi̯³³	m ə i̯ ³³	m əi̯ ³³	CLOUD_132			
 Mương (Hòa Bình)_CLOUD_132	Mương (Hòa Bình)	muon1246	mtq	CLOUD	maə¹	maə¹	m a ə ¹	m aə ¹	CLOUD_132			
 Mương (Sơn La)_CLOUD_132	Mương (Sơn La)	muon1246	mtq	CLOUD	məl¹	məl¹	m ə l ¹	m ə l ¹	CLOUD_132			
-Mương (Thanh Hóa)_CLOUD_132	Mương (Thanh Hóa)	muon1246	mtq	CLOUD	mən¹	mən¹	m ə n ¹	m ə n ¹	CLOUD_132			
-Nguồn (Cổ Liêm)_CLOUD_132	Nguồn (Cổ Liêm)	nguo1239	nuo	CLOUD	mə̆n1	mə̆n¹	m ə̆ n ¹	m ə̆ n ¹	CLOUD_132			Nguyen1997
-Thổ (Làng Lỡ)_CLOUD_132	Thổ (Làng Lỡ)	thoo1240	tou	CLOUD	mʌn¹	mʌn¹	m ʌ n ¹	m ʌ n ¹	CLOUD_132			
-Thổ (Cuối Chăm)_CLOUD_132	Thổ (Cuối Chăm)	thoo1240	tou	CLOUD	mʌl¹	mʌl¹	m ʌ l ¹	m ʌ l ¹	CLOUD_132			6.1
+Nguồn_CLOUD_132	Nguồn	nguo1239	nuo	CLOUD	mə̆n1	mə̆n¹	m ə̆ n ¹	m ə̆ n ¹	CLOUD_132			Nguyen1997
+Thổ_CLOUD_132	Thổ	thoo1240	tou	CLOUD	mʌl¹	mʌl¹	m ʌ l ¹	m ʌ l ¹	CLOUD_132			6.1
 Hung (Phong)_CLOUD_132	Hung (Phong)	phon1243	hnu	CLOUD	kmil	kmil	k m i l	k m i l	CLOUD_132			Ferlus2017
 Hung (Toum)_CLOUD_132	Hung (Toum)	toum1239	hnu	CLOUD	mʌl	mʌl	m ʌ l	m ʌ l	CLOUD_132			Ferlus2017
 Hung (Liha)_CLOUD_132	Hung (Liha)	lyha1238	hnu	CLOUD	mun	mun	m u n	m u n	CLOUD_132			Ferlus2017
@@ -306,9 +267,7 @@ Maleng_CLOUD_136	Maleng	male1282	pkt	CLOUD	mek˧	mek³	m e k ³	m e k ³	CLOUD_1
 Vietnamese_DIE_141	Vietnamese	viet1252	vie	DIE	chết	cəːt⁴⁵	c əː t ⁴⁵	c əː t ⁴⁵	DIE_141			
 Mương (Hòa Bình)_DIE_141	Mương (Hòa Bình)	muon1246	mtq	DIE	ceːt⁷	ceːt⁵²	c eː t ⁵²	c eː t ⁷/⁵²	DIE_141			
 Mương (Sơn La)_DIE_141	Mương (Sơn La)	muon1246	mtq	DIE	ceːt⁷	ceːt⁵²	c eː t ⁵²	c eː t ⁷/⁵²	DIE_141			
-Mương (Thanh Hóa)_DIE_141	Mương (Thanh Hóa)	muon1246	mtq	DIE	ceːt⁷	ceːt⁵²	c eː t ⁵²	c eː t ⁷/⁵²	DIE_141			
-Thổ (Làng Lỡ)_DIE_141	Thổ (Làng Lỡ)	thoo1240	tou	DIE	ceːt⁷	ceːt⁵²	c eː t ⁵²	c eː t ⁷/⁵²	DIE_141			
-Thổ (Cuối Chăm)_DIE_141	Thổ (Cuối Chăm)	thoo1240	tou	DIE	ceːt⁷	ceːt⁵²	c eː t ⁵²	c eː t ⁷/⁵²	DIE_141			6.1
+Thổ_DIE_141	Thổ	thoo1240	tou	DIE	ceːt⁷	ceːt⁵²	c eː t ⁵²	c eː t ⁷/⁵²	DIE_141			6.1
 Hung (Phong)_DIE_141	Hung (Phong)	phon1243	hnu	DIE	ceːt	ceːt	c eː t	c eː t	DIE_141			Ferlus2017
 Hung (Toum)_DIE_141	Hung (Toum)	toum1239	hnu	DIE	ceːt	ceːt	c eː t	c eː t	DIE_141			Ferlus2017
 Hung (Liha)_DIE_141	Hung (Liha)	lyha1238	hnu	DIE	ceːt	ceːt	c eː t	c eː t	DIE_141			Ferlus2017
@@ -321,10 +280,8 @@ Maleng_DIE_141	Maleng	male1282	pkt	DIE	kacɛt˧˦	kacɛt³⁴	k a c ɛ t ³⁴	k
 Vietnamese_DOG_145	Vietnamese	viet1252	vie	DOG	chó	cɔː⁴⁵	c ɔː ⁴⁵	c ɔː ⁴⁵	DOG_145			
 Mương (Hòa Bình)_DOG_145	Mương (Hòa Bình)	muon1246	mtq	DOG	cɔː³	cɔː³	c ɔː ³	c ɔː ³	DOG_145			
 Mương (Sơn La)_DOG_145	Mương (Sơn La)	muon1246	mtq	DOG	cɔː³	cɔː³	c ɔː ³	c ɔː ³	DOG_145			
-Mương (Thanh Hóa)_DOG_145	Mương (Thanh Hóa)	muon1246	mtq	DOG	cɔː³	cɔː³	c ɔː ³	c ɔː ³	DOG_145			
-Nguồn (Cổ Liêm)_DOG_146	Nguồn (Cổ Liêm)	nguo1239	nuo	DOG	xwien5 (< 犬quǎn khuyển)	xwjen⁵	x w j e n ⁵	x w i/j e n ⁵	DOG_146			Nguyen1997
-Thổ (Làng Lỡ)_DOG_145	Thổ (Làng Lỡ)	thoo1240	tou	DOG	cɔː³	cɔː³	c ɔː ³	c ɔː ³	DOG_145			
-Thổ (Cuối Chăm)_DOG_145	Thổ (Cuối Chăm)	thoo1240	tou	DOG	cɒː³	cɒː³	c ɒː ³	c ɒː ³	DOG_145			6.1
+Nguồn_DOG_146	Nguồn	nguo1239	nuo	DOG	xwien5 (< 犬quǎn khuyển)	xwjen⁵	x w j e n ⁵	x w i/j e n ⁵	DOG_146			Nguyen1997
+Thổ_DOG_145	Thổ	thoo1240	tou	DOG	cɒː³	cɒː³	c ɒː ³	c ɒː ³	DOG_145			6.1
 Hung (Phong)_DOG_145	Hung (Phong)	phon1243	hnu	DOG	cɔː	cɔː	c ɔː	c ɔː	DOG_145			Ferlus2017
 Hung (Toum)_DOG_145	Hung (Toum)	toum1239	hnu	DOG	cɔː	cɔː	c ɔː	c ɔː	DOG_145			Ferlus2017
 Hung (Liha)_DOG_145	Hung (Liha)	lyha1238	hnu	DOG	cɔː	cɔː	c ɔː	c ɔː	DOG_145			Ferlus2017
@@ -337,10 +294,8 @@ Maleng_DOG_145	Maleng	male1282	pkt	DOG	cɔ̰˧˦˧ˀ	cɔ̰³⁴³	c ɔ̰ ³⁴³
 Vietnamese_DRINK_148	Vietnamese	viet1252	vie	DRINK	uống	ʔuːŋ⁴⁵	ʔ uː ŋ ⁴⁵	ʔ uː ŋ ⁴⁵	DRINK_148			
 Mương (Hòa Bình)_DRINK_148	Mương (Hòa Bình)	muon1246	mtq	DRINK	ʔɔːŋ³	ʔɔːŋ³	ʔ ɔː ŋ ³	ʔ ɔː ŋ ³	DRINK_148			
 Mương (Sơn La)_DRINK_148	Mương (Sơn La)	muon1246	mtq	DRINK	ʔɔːŋ³	ʔɔːŋ³	ʔ ɔː ŋ ³	ʔ ɔː ŋ ³	DRINK_148			
-Mương (Thanh Hóa)_DRINK_148	Mương (Thanh Hóa)	muon1246	mtq	DRINK	ʔɔːŋ³	ʔɔːŋ³	ʔ ɔː ŋ ³	ʔ ɔː ŋ ³	DRINK_148			
-Nguồn (Cổ Liêm)_DRINK_148	Nguồn (Cổ Liêm)	nguo1239	nuo	DRINK	ʔɔːŋ3	ʔɔːŋ³	ʔ ɔː ŋ ³	ʔ ɔː ŋ ³	DRINK_148			Nguyen1997
-Thổ (Làng Lỡ)_DRINK_149	Thổ (Làng Lỡ)	thoo1240	tou	DRINK	ɲɔː³ ( v! )	ɲɔː³	ɲ ɔː ³	ɲ ɔː ³	DRINK_149			
-Thổ (Cuối Chăm)_DRINK_149	Thổ (Cuối Chăm)	thoo1240	tou	DRINK	ɲoː⁴	ɲoː⁴	ɲ oː ⁴	ɲ oː ⁴	DRINK_149			6.1
+Nguồn_DRINK_148	Nguồn	nguo1239	nuo	DRINK	ʔɔːŋ3	ʔɔːŋ³	ʔ ɔː ŋ ³	ʔ ɔː ŋ ³	DRINK_148			Nguyen1997
+Thổ_DRINK_149	Thổ	thoo1240	tou	DRINK	ɲoː⁴	ɲoː⁴	ɲ oː ⁴	ɲ oː ⁴	DRINK_149			6.1
 Hung (Phong)_DRINK_149	Hung (Phong)	phon1243	hnu	DRINK	ɲoː⁴⁶	ɲoː⁴⁵	ɲ oː ⁴⁵	ɲ oː ⁴⁶/⁴⁵	DRINK_149			Ferlus2017
 Hung (Toum)_DRINK_149	Hung (Toum)	toum1239	hnu	DRINK	ɲuː⁴⁶	ɲuː⁴⁵	ɲ uː ⁴⁵	ɲ uː ⁴⁶/⁴⁵	DRINK_149			Ferlus2017
 Hung (Liha)_DRINK_149	Hung (Liha)	lyha1238	hnu	DRINK	ɲoː⁴⁶	ɲoː⁴⁵	ɲ oː ⁴⁵	ɲ oː ⁴⁶/⁴⁵	DRINK_149			Ferlus2017
@@ -351,9 +306,8 @@ Arem_DRINK_149	Arem	arem1240	aem	DRINK	ɲə̯uʔ	ɲəu̯ʔ	ɲ ə u̯ ʔ	ɲ ə̯u
 Thavưng_DRINK_149	Thavưng	aheu1239	thm	DRINK	ɲuː2	ɲuː²	ɲ uː ²	ɲ uː ²	DRINK_149			Ferlus1979
 Maleng_DRINK_149	Maleng	male1282	pkt	DRINK	ɳõ˧˦˧ˀ	ɳõ³⁴³	ɳ õ ³⁴³	ɳ õ ³⁴³ˀ/³⁴³	DRINK_149			NVlNHH2001
 Vietnamese_DRY_154	Vietnamese	viet1252	vie	DRY	khô	xoː³³	x oː ³³	x oː ³³	DRY_154			
-Nguồn (Cổ Liêm)_DRY_154	Nguồn (Cổ Liêm)	nguo1239	nuo	DRY	xo1	xo¹	x o ¹	x o ¹	DRY_154			Nguyen1997
-Thổ (Làng Lỡ)_DRY_154	Thổ (Làng Lỡ)	thoo1240	tou	DRY	kʰoː¹	kʰoː¹	kʰ oː ¹	kʰ oː ¹	DRY_154			
-Thổ (Cuối Chăm)_DRY_154	Thổ (Cuối Chăm)	thoo1240	tou	DRY	kʰɔː¹	kʰɔː¹	kʰ ɔː ¹	kʰ ɔː ¹	DRY_154			6.1
+Nguồn_DRY_154	Nguồn	nguo1239	nuo	DRY	xo1	xo¹	x o ¹	x o ¹	DRY_154			Nguyen1997
+Thổ_DRY_154	Thổ	thoo1240	tou	DRY	kʰɔː¹	kʰɔː¹	kʰ ɔː ¹	kʰ ɔː ¹	DRY_154			6.1
 Hung (Liha)_DRY_154	Hung (Liha)	lyha1238	hnu	DRY	kʰaw	kʰaw	kʰ a w	kʰ a w	DRY_154			Ferlus2017
 Chứt (Sách)_DRY_154	Chứt (Sách)	sach1240	scb	DRY	[[kho]]	kʰo	kʰ o	kʰ o	DRY_154			Ferlus2007
 Chứt (Mày)_DRY_155	Chứt (Mày)	mayy1239	scb	DRY	ɽɔh¹	ɽɔh¹	ɽ ɔ h ¹	ɽ ɔ h ¹	DRY_155			Babaev2018
@@ -363,11 +317,8 @@ Maleng_DRY_155	Maleng	male1282	pkt	DRY	ɬɔh˧	ɬɔh³	ɬ ɔ h ³	ɬ ɔ h ³	DRY
 Vietnamese_EAR_160	Vietnamese	viet1252	vie	EAR	tai	taːi̯³³	t aː i̯ ³³	t aːi̯ ³³	EAR_160			
 Mương (Hòa Bình)_EAR_160	Mương (Hòa Bình)	muon1246	mtq	EAR	tʰaːj¹	tʰaːj¹	tʰ aː j ¹	tʰ aː j ¹	EAR_160			
 Mương (Sơn La)_EAR_160	Mương (Sơn La)	muon1246	mtq	EAR	saːj¹	saːj¹	s aː j ¹	s aː j ¹	EAR_160			
-Mương (Thanh Hóa)_EAR_160	Mương (Thanh Hóa)	muon1246	mtq	EAR	saːj¹	saːj¹	s aː j ¹	s aː j ¹	EAR_160			
-Nguồn (Cổ Liêm)_EAR_160	Nguồn (Cổ Liêm)	nguo1239	nuo	EAR	t'aj1	taj¹	t a j ¹	t a j ¹	EAR_160			Nguyen1997
-Nguồn (Yên Thọ)_EAR_160	Nguồn (Yên Thọ)	nguo1239	nuo	EAR	t'aj1	taj¹	t a j ¹	t a j ¹	EAR_160			Nguyen1997
-Thổ (Làng Lỡ)_EAR_160	Thổ (Làng Lỡ)	thoo1240	tou	EAR	saːj¹	saːj¹	s aː j ¹	s aː j ¹	EAR_160			
-Thổ (Cuối Chăm)_EAR_160	Thổ (Cuối Chăm)	thoo1240	tou	EAR	saːj¹	saːj¹	s aː j ¹	s aː j ¹	EAR_160			6.1
+Nguồn_EAR_160	Nguồn	nguo1239	nuo	EAR	t'aj1	taj¹	t a j ¹	t a j ¹	EAR_160			Nguyen1997
+Thổ_EAR_160	Thổ	thoo1240	tou	EAR	saːj¹	saːj¹	s aː j ¹	s aː j ¹	EAR_160			6.1
 Hung (Phong)_EAR_160	Hung (Phong)	phon1243	hnu	EAR	pat saːj	patsaːj	p a t s aː j	p a t s aː j	EAR_160			Ferlus2017
 Hung (Toum)_EAR_160	Hung (Toum)	toum1239	hnu	EAR	bat saːj	batsaːj	b a t s aː j	b a t s aː j	EAR_160			Ferlus2017
 Hung (Liha)_EAR_160	Hung (Liha)	lyha1238	hnu	EAR	saːj	saːj	s aː j	s aː j	EAR_160			Ferlus2017
@@ -380,11 +331,8 @@ Maleng_EAR_160	Maleng	male1282	pkt	EAR	saj˧	saj³	s a j ³	s a j ³	EAR_160			N
 Vietnamese_EARTH (SOIL)_164	Vietnamese	viet1252	vie	EARTH (SOIL)	đất	ɗək⁴⁵	ɗ ə k ⁴⁵	ɗ ə k ⁴⁵	EARTH (SOIL)_164			
 Mương (Hòa Bình)_EARTH (SOIL)_164	Mương (Hòa Bình)	muon1246	mtq	EARTH (SOIL)	tʌt⁷	tʌt⁵²	t ʌ t ⁵²	t ʌ t ⁷/⁵²	EARTH (SOIL)_164			
 Mương (Sơn La)_EARTH (SOIL)_164	Mương (Sơn La)	muon1246	mtq	EARTH (SOIL)	tʌt⁷	tʌt⁵²	t ʌ t ⁵²	t ʌ t ⁷/⁵²	EARTH (SOIL)_164			
-Mương (Thanh Hóa)_EARTH (SOIL)_164	Mương (Thanh Hóa)	muon1246	mtq	EARTH (SOIL)	dʌt⁷	dʌt⁵²	d ʌ t ⁵²	d ʌ t ⁷/⁵²	EARTH (SOIL)_164			
-Nguồn (Cổ Liêm)_EARTH (SOIL)_164	Nguồn (Cổ Liêm)	nguo1239	nuo	EARTH (SOIL)	tə̆t7	tə̆t⁵²	t ə̆ t ⁵²	t ə̆ t ⁷/⁵²	EARTH (SOIL)_164			Nguyen1997
-Nguồn (Yên Thọ)_EARTH (SOIL)_164	Nguồn (Yên Thọ)	nguo1239	nuo	EARTH (SOIL)	ʔə̆t7	ʔə̆t⁵²	ʔ ə̆ t ⁵²	ʔ ə̆ t ⁷/⁵²	EARTH (SOIL)_164			Nguyen1997
-Thổ (Làng Lỡ)_EARTH (SOIL)_164	Thổ (Làng Lỡ)	thoo1240	tou	EARTH (SOIL)	tʌt⁷	tʌt⁵²	t ʌ t ⁵²	t ʌ t ⁷/⁵²	EARTH (SOIL)_164			
-Thổ (Cuối Chăm)_EARTH (SOIL)_164	Thổ (Cuối Chăm)	thoo1240	tou	EARTH (SOIL)	tʌt⁷	tʌt⁵²	t ʌ t ⁵²	t ʌ t ⁷/⁵²	EARTH (SOIL)_164			6.1
+Nguồn_EARTH (SOIL)_164	Nguồn	nguo1239	nuo	EARTH (SOIL)	tə̆t7	tə̆t⁵²	t ə̆ t ⁵²	t ə̆ t ⁷/⁵²	EARTH (SOIL)_164			Nguyen1997
+Thổ_EARTH (SOIL)_164	Thổ	thoo1240	tou	EARTH (SOIL)	tʌt⁷	tʌt⁵²	t ʌ t ⁵²	t ʌ t ⁷/⁵²	EARTH (SOIL)_164			6.1
 Hung (Phong)_EARTH (SOIL)_164	Hung (Phong)	phon1243	hnu	EARTH (SOIL)	tit	tit	t i t	t i t	EARTH (SOIL)_164			Ferlus2017
 Hung (Toum)_EARTH (SOIL)_164	Hung (Toum)	toum1239	hnu	EARTH (SOIL)	tʌt	tʌt	t ʌ t	t ʌ t	EARTH (SOIL)_164			Ferlus2017
 Hung (Liha)_EARTH (SOIL)_164	Hung (Liha)	lyha1238	hnu	EARTH (SOIL)	tɔt	tɔt	t ɔ t	t ɔ t	EARTH (SOIL)_164			Ferlus2017
@@ -395,8 +343,7 @@ Arem_EARTH (SOIL)_166	Arem	arem1240	aem	EARTH (SOIL)	atăk	atăk	a t ă k	a t
 Thavưng_EARTH (SOIL)_166	Thavưng	aheu1239	thm	EARTH (SOIL)	Ɂataːk3	ʔataːk³	ʔ a t aː k ³	ʔ a t aː k ³	EARTH (SOIL)_166			Ferlus1979
 Maleng_EARTH (SOIL)_166	Maleng	male1282	pkt	EARTH (SOIL)	atăk˦	atăk⁴	a t ă k ⁴	a t ă k ⁴	EARTH (SOIL)_166			NVlNHH2001
 Vietnamese_EAT_169	Vietnamese	viet1252	vie	EAT	ǎn	ʔăŋ³³	ʔ ă ŋ ³³	ǎ/a n	EAT_169			
-Nguồn (Cổ Liêm)_EAT_169	Nguồn (Cổ Liêm)	nguo1239	nuo	EAT	ăn1	ăn¹	ă n ¹	ă n ¹	EAT_169			Nguyen1997
-Nguồn (Yên Thọ)_EAT_169	Nguồn (Yên Thọ)	nguo1239	nuo	EAT	ăn1	ăn¹	ă n ¹	ă n ¹	EAT_169			Nguyen1997
+Nguồn_EAT_169	Nguồn	nguo1239	nuo	EAT	ăn1	ăn¹	ă n ¹	ă n ¹	EAT_169			Nguyen1997
 Hung (Phong)_EAT_169	Hung (Phong)	phon1243	hnu	EAT	ʔan	ʔan	ʔ a n	ʔ a n	EAT_169			Ferlus2017
 Hung (Toum)_EAT_169	Hung (Toum)	toum1239	hnu	EAT	ʔan	ʔan	ʔ a n	ʔ a n	EAT_169			Ferlus2017
 Hung (Liha)_EAT_169	Hung (Liha)	lyha1238	hnu	EAT	ʔan	ʔan	ʔ a n	ʔ a n	EAT_169			Ferlus2017
@@ -409,11 +356,8 @@ Maleng_EAT_169	Maleng	male1282	pkt	EAT	ʔǎn˧	ʔan³	ʔ a n ³	ʔ ǎ/a n ³	EA
 Vietnamese_EGG_173	Vietnamese	viet1252	vie	EGG	trứng	ʈɨŋ⁴⁵	ʈ ɨ ŋ ⁴⁵	ʈ ɨ ŋ ⁴⁵	EGG_173			
 Mương (Hòa Bình)_EGG_173	Mương (Hòa Bình)	muon1246	mtq	EGG	kləŋ³	kləŋ³	k l ə ŋ ³	k l ə ŋ ³	EGG_173			
 Mương (Sơn La)_EGG_173	Mương (Sơn La)	muon1246	mtq	EGG	kləŋ³	kləŋ³	k l ə ŋ ³	k l ə ŋ ³	EGG_173			
-Mương (Thanh Hóa)_EGG_173	Mương (Thanh Hóa)	muon1246	mtq	EGG	kləŋ³	kləŋ³	k l ə ŋ ³	k l ə ŋ ³	EGG_173			
-Nguồn (Cổ Liêm)_EGG_173	Nguồn (Cổ Liêm)	nguo1239	nuo	EGG	ʈəŋ3	ʈəŋ³	ʈ ə ŋ ³	ʈ ə ŋ ³	EGG_173			Nguyen1997
-Nguồn (Yên Thọ)_EGG_173	Nguồn (Yên Thọ)	nguo1239	nuo	EGG	ʔləŋ3	ʔləŋ³	ʔ l ə ŋ ³	ʔ l ə ŋ ³	EGG_173			Nguyen1997
-Thổ (Làng Lỡ)_EGG_174	Thổ (Làng Lỡ)	thoo1240	tou	EGG	lɨən¹	lɨən¹	l ɨ ə n ¹	l ɨə n ¹	EGG_174			
-Thổ (Cuối Chăm)_EGG_174	Thổ (Cuối Chăm)	thoo1240	tou	EGG	lɨən¹	lɨən¹	l ɨ ə n ¹	l ɨə n ¹	EGG_174			6.1
+Nguồn_EGG_173	Nguồn	nguo1239	nuo	EGG	ʈəŋ3	ʈəŋ³	ʈ ə ŋ ³	ʈ ə ŋ ³	EGG_173			Nguyen1997
+Thổ_EGG_174	Thổ	thoo1240	tou	EGG	lɨən¹	lɨən¹	l ɨ ə n ¹	l ɨə n ¹	EGG_174			6.1
 Hung (Phong)_EGG_173	Hung (Phong)	phon1243	hnu	EGG	kləːŋ	kləːŋ	k l əː ŋ	k l əː ŋ	EGG_173			Ferlus2017
 Hung (Toum)_EGG_173	Hung (Toum)	toum1239	hnu	EGG	klaəŋ	klaəŋ	k l a ə ŋ	k l aə ŋ	EGG_173			Ferlus2017
 Hung (Liha)_EGG_173	Hung (Liha)	lyha1238	hnu	EGG	klaəŋ	klaəŋ	k l a ə ŋ	k l aə ŋ	EGG_173			Ferlus2017
@@ -426,11 +370,8 @@ Maleng_EGG_175	Maleng	male1282	pkt	EGG	talṵl˧˦˧ˀ	talṵl³⁴³	t a l ṵ 
 Vietnamese_EYE_179	Vietnamese	viet1252	vie	EYE	mạ̌t	măk⁴⁵	m ă k ⁴⁵	m ạ̌/a t	EYE_179			
 Mương (Hòa Bình)_EYE_179	Mương (Hòa Bình)	muon1246	mtq	EYE	mat²	mat²	m a t ²	m a t ²	EYE_179			
 Mương (Sơn La)_EYE_179	Mương (Sơn La)	muon1246	mtq	EYE	mat²	mat²	m a t ²	m a t ²	EYE_179			
-Mương (Thanh Hóa)_EYE_179	Mương (Thanh Hóa)	muon1246	mtq	EYE	mat²	mat²	m a t ²	m a t ²	EYE_179			
-Nguồn (Cổ Liêm)_EYE_179	Nguồn (Cổ Liêm)	nguo1239	nuo	EYE	măt7	măt⁵²	m ă t ⁵²	m ă t ⁷/⁵²	EYE_179			Nguyen1997
-Nguồn (Yên Thọ)_EYE_179	Nguồn (Yên Thọ)	nguo1239	nuo	EYE	măt7	măt⁵²	m ă t ⁵²	m ă t ⁷/⁵²	EYE_179			Nguyen1997
-Thổ (Làng Lỡ)_EYE_179	Thổ (Làng Lỡ)	thoo1240	tou	EYE	mat⁸	mat⁵³	m a t ⁵³	m a t ⁸/⁵³	EYE_179			
-Thổ (Cuối Chăm)_EYE_179	Thổ (Cuối Chăm)	thoo1240	tou	EYE	mat⁸	mat⁵³	m a t ⁵³	m a t ⁸/⁵³	EYE_179			6.1
+Nguồn_EYE_179	Nguồn	nguo1239	nuo	EYE	măt7	măt⁵²	m ă t ⁵²	m ă t ⁷/⁵²	EYE_179			Nguyen1997
+Thổ_EYE_179	Thổ	thoo1240	tou	EYE	mat⁸	mat⁵³	m a t ⁵³	m a t ⁸/⁵³	EYE_179			6.1
 Hung (Phong)_EYE_179	Hung (Phong)	phon1243	hnu	EYE	mat	mat	m a t	m a t	EYE_179			Ferlus2017
 Hung (Toum)_EYE_179	Hung (Toum)	toum1239	hnu	EYE	mat	mat	m a t	m a t	EYE_179			Ferlus2017
 Hung (Liha)_EYE_179	Hung (Liha)	lyha1238	hnu	EYE	mat	mat	m a t	m a t	EYE_179			Ferlus2017
@@ -441,8 +382,7 @@ Arem_EYE_179	Arem	arem1240	aem	EYE	mʌ̯ằt	mʌat	m ʌ a t	m ʌ̯/ʌ ằ/a t	
 Thavưng_EYE_179	Thavưng	aheu1239	thm	EYE	mat1	mat¹	m a t ¹	m a t ¹	EYE_179			Ferlus1979
 Maleng_EYE_179	Maleng	male1282	pkt	EYE	măt˧˦	măt³⁴	m ă t ³⁴	m ă t ³⁴	EYE_179			NVlNHH2001
 Vietnamese_FALL_180	Vietnamese	viet1252	vie	FALL	rơi	ɹəːi̯³³	ɹ əː i̯ ³³	r əːi̯ ³³	FALL_180			
-Nguồn (Cổ Liêm)_FALL_181	Nguồn (Cổ Liêm)	nguo1239	nuo	FALL	po5	po⁵	p o ⁵	p o ⁵	FALL_181			Nguyen1997
-Nguồn (Yên Thọ)_FALL_181	Nguồn (Yên Thọ)	nguo1239	nuo	FALL	bo5	bo⁵	b o ⁵	b o ⁵	FALL_181			Nguyen1997
+Nguồn_FALL_181	Nguồn	nguo1239	nuo	FALL	po5	po⁵	p o ⁵	p o ⁵	FALL_181			Nguyen1997
 Hung (Toum)_FALL_183	Hung (Toum)	toum1239	hnu	FALL	ʰlaəc	ʰlaəc	ʰl a ə c	ʰl aə c	FALL_183			Ferlus2017
 Hung (Liha)_FALL_183	Hung (Liha)	lyha1238	hnu	FALL	ɣaəc	ɣaəc	ɣ a ə c	ɣ aə c	FALL_183			Ferlus2017
 Chứt (Sách)_FALL_183	Chứt (Sách)	sach1240	scb	FALL	ruh²	ruh²	r u h ²	r u h ²	FALL_183			Ferlus2007
@@ -452,9 +392,8 @@ Arem_FALL_183	Arem	arem1240	aem	FALL	rŭh	ru	r u	r ŭh/u	FALL_183			Kasuga2008
 Thavưng_FALL_185	Thavưng	aheu1239	thm	FALL	thaloːj4	tʰaloːj⁴	tʰ a l oː j ⁴	tʰ a l oː j ⁴	FALL_185			Ferlus1979
 Maleng_FALL_183	Maleng	male1282	pkt	FALL	ɬuj˧˦˧ˀ	ɬuj³⁴³	ɬ u j ³⁴³	ɬ u j ³⁴³ˀ/³⁴³	FALL_183			NVlNHH2001
 Vietnamese_FAR_188	Vietnamese	viet1252	vie	FAR	xa	saː³³	s aː ³³	s aː ³³	FAR_188			
-Nguồn (Cổ Liêm)_FAR_188	Nguồn (Cổ Liêm)	nguo1239	nuo	FAR	sa1	sa¹	s a ¹	s a ¹	FAR_188			Nguyen1997
-Thổ (Làng Lỡ)_FAR_189	Thổ (Làng Lỡ)	thoo1240	tou	FAR	ŋaːj³	ŋaːj³	ŋ aː j ³	ŋ aː j ³	FAR_189			
-Thổ (Cuối Chăm)_FAR_189	Thổ (Cuối Chăm)	thoo1240	tou	FAR	ŋaːj³	ŋaːj³	ŋ aː j ³	ŋ aː j ³	FAR_189			6.1
+Nguồn_FAR_188	Nguồn	nguo1239	nuo	FAR	sa1	sa¹	s a ¹	s a ¹	FAR_188			Nguyen1997
+Thổ_FAR_189	Thổ	thoo1240	tou	FAR	ŋaːj³	ŋaːj³	ŋ aː j ³	ŋ aː j ³	FAR_189			6.1
 Hung (Phong)_FAR_189	Hung (Phong)	phon1243	hnu	FAR	ŋaːj	ŋaːj	ŋ aː j	ŋ aː j	FAR_189			Ferlus2017
 Hung (Toum)_FAR_189	Hung (Toum)	toum1239	hnu	FAR	ŋaːj	ŋaːj	ŋ aː j	ŋ aː j	FAR_189			Ferlus2017
 Hung (Liha)_FAR_189	Hung (Liha)	lyha1238	hnu	FAR	ŋaːj	ŋaːj	ŋ aː j	ŋ aː j	FAR_189			Ferlus2017
@@ -467,10 +406,8 @@ Maleng_FAR_189	Maleng	male1282	pkt	FAR	saŋa̤j˧˦˧ˀ	saŋa̤j³⁴³	s a ŋ a
 Vietnamese_FAT (ORGANIC SUBSTANCE)_193	Vietnamese	viet1252	vie	FAT (ORGANIC SUBSTANCE)	mỡ	məː²¹⁴	m əː ²¹⁴	m əː ²¹⁴	FAT (ORGANIC SUBSTANCE)_193			
 Mương (Hòa Bình)_FAT (ORGANIC SUBSTANCE)_193	Mương (Hòa Bình)	muon1246	mtq	FAT (ORGANIC SUBSTANCE)	məː⁶	məː⁵¹	m əː ⁵¹	m əː ⁶/⁵¹	FAT (ORGANIC SUBSTANCE)_193			
 Mương (Sơn La)_FAT (ORGANIC SUBSTANCE)_193	Mương (Sơn La)	muon1246	mtq	FAT (ORGANIC SUBSTANCE)	məː⁴⁶	məː⁴⁵	m əː ⁴⁵	m əː ⁴⁶/⁴⁵	FAT (ORGANIC SUBSTANCE)_193			
-Mương (Thanh Hóa)_FAT (ORGANIC SUBSTANCE)_193	Mương (Thanh Hóa)	muon1246	mtq	FAT (ORGANIC SUBSTANCE)	mməː⁴⁶	mːəː⁴⁵	mː əː ⁴⁵	mː əː ⁴⁶/⁴⁵	FAT (ORGANIC SUBSTANCE)_193			
-Nguồn (Cổ Liêm)_FAT (ORGANIC SUBSTANCE)_193	Nguồn (Cổ Liêm)	nguo1239	nuo	FAT (ORGANIC SUBSTANCE)	mə5	mə⁵	m ə ⁵	m ə ⁵	FAT (ORGANIC SUBSTANCE)_193			Nguyen1997
-Thổ (Làng Lỡ)_FAT (ORGANIC SUBSTANCE)_193	Thổ (Làng Lỡ)	thoo1240	tou	FAT (ORGANIC SUBSTANCE)	məː⁵⁶	məː⁵⁵	m əː ⁵⁵	m əː ⁵⁶/⁵⁵	FAT (ORGANIC SUBSTANCE)_193			
-Thổ (Cuối Chăm)_FAT (ORGANIC SUBSTANCE)_193	Thổ (Cuối Chăm)	thoo1240	tou	FAT (ORGANIC SUBSTANCE)	məː⁶	məː⁵¹	m əː ⁵¹	m əː ⁶/⁵¹	FAT (ORGANIC SUBSTANCE)_193			6.1
+Nguồn_FAT (ORGANIC SUBSTANCE)_193	Nguồn	nguo1239	nuo	FAT (ORGANIC SUBSTANCE)	mə5	mə⁵	m ə ⁵	m ə ⁵	FAT (ORGANIC SUBSTANCE)_193			Nguyen1997
+Thổ_FAT (ORGANIC SUBSTANCE)_193	Thổ	thoo1240	tou	FAT (ORGANIC SUBSTANCE)	məː⁶	məː⁵¹	m əː ⁵¹	m əː ⁶/⁵¹	FAT (ORGANIC SUBSTANCE)_193			6.1
 Hung (Phong)_FAT (ORGANIC SUBSTANCE)_194	Hung (Phong)	phon1243	hnu	FAT (ORGANIC SUBSTANCE)	puːj (<Tai)	puːj	p uː j	p uː j	FAT (ORGANIC SUBSTANCE)_194			Ferlus2017
 Chứt (Sách)_FAT (ORGANIC SUBSTANCE)_195	Chứt (Sách)	sach1240	scb	FAT (ORGANIC SUBSTANCE)	tluŋ²	tluŋ²	t l u ŋ ²	t l u ŋ ²	FAT (ORGANIC SUBSTANCE)_195			Ferlus2007
 Chứt (Mày)_FAT (ORGANIC SUBSTANCE)_195	Chứt (Mày)	mayy1239	scb	FAT (ORGANIC SUBSTANCE)	klŭŋ¹	klŭŋ¹	k l ŭ ŋ ¹	k l ŭ ŋ ¹	FAT (ORGANIC SUBSTANCE)_195			Babaev2018
@@ -480,11 +417,8 @@ Thavưng_FAT (ORGANIC SUBSTANCE)_196	Thavưng	aheu1239	thm	FAT (ORGANIC SUBSTANC
 Vietnamese_FEATHER OR FUR OR HAIR_199	Vietnamese	viet1252	vie	FEATHER OR FUR OR HAIR	lông	lɔŋ͡m³³	l ɔ ŋ͡m ³³	l ɔ ŋm ³³	FEATHER OR FUR OR HAIR_199			
 Mương (Hòa Bình)_FEATHER OR FUR OR HAIR_199	Mương (Hòa Bình)	muon1246	mtq	FEATHER OR FUR OR HAIR	loːŋ¹	loːŋ¹	l oː ŋ ¹	l oː ŋ ¹	FEATHER OR FUR OR HAIR_199			
 Mương (Sơn La)_FEATHER OR FUR OR HAIR_199	Mương (Sơn La)	muon1246	mtq	FEATHER OR FUR OR HAIR	loːŋ¹	loːŋ¹	l oː ŋ ¹	l oː ŋ ¹	FEATHER OR FUR OR HAIR_199			
-Mương (Thanh Hóa)_FEATHER OR FUR OR HAIR_199	Mương (Thanh Hóa)	muon1246	mtq	FEATHER OR FUR OR HAIR	loːŋ¹	loːŋ¹	l oː ŋ ¹	l oː ŋ ¹	FEATHER OR FUR OR HAIR_199			
-Nguồn (Cổ Liêm)_FEATHER OR FUR OR HAIR_199	Nguồn (Cổ Liêm)	nguo1239	nuo	FEATHER OR FUR OR HAIR	loːŋ2'	loːŋ²ʔ	l oː ŋ ² ʔ	l oː ŋ ² '/ʔ	FEATHER OR FUR OR HAIR_199			Nguyen1997
-Nguồn (Yên Thọ)_FEATHER OR FUR OR HAIR_199	Nguồn (Yên Thọ)	nguo1239	nuo	FEATHER OR FUR OR HAIR	loːŋ1	loːŋ¹	l oː ŋ ¹	l oː ŋ ¹	FEATHER OR FUR OR HAIR_199			Nguyen1997
-Thổ (Làng Lỡ)_FEATHER OR FUR OR HAIR_199	Thổ (Làng Lỡ)	thoo1240	tou	FEATHER OR FUR OR HAIR	loːŋ¹	loːŋ¹	l oː ŋ ¹	l oː ŋ ¹	FEATHER OR FUR OR HAIR_199			
-Thổ (Cuối Chăm)_FEATHER OR FUR OR HAIR_199	Thổ (Cuối Chăm)	thoo1240	tou	FEATHER OR FUR OR HAIR	lɔːŋ¹	lɔːŋ¹	l ɔː ŋ ¹	l ɔː ŋ ¹	FEATHER OR FUR OR HAIR_199			6.1
+Nguồn_FEATHER OR FUR OR HAIR_199	Nguồn	nguo1239	nuo	FEATHER OR FUR OR HAIR	loːŋ2'	loːŋ²ʔ	l oː ŋ ² ʔ	l oː ŋ ² '/ʔ	FEATHER OR FUR OR HAIR_199			Nguyen1997
+Thổ_FEATHER OR FUR OR HAIR_199	Thổ	thoo1240	tou	FEATHER OR FUR OR HAIR	lɔːŋ¹	lɔːŋ¹	l ɔː ŋ ¹	l ɔː ŋ ¹	FEATHER OR FUR OR HAIR_199			6.1
 Chứt (Sách)_FEATHER OR FUR OR HAIR_200	Chứt (Sách)	sach1240	scb	FEATHER OR FUR OR HAIR	suk⁷	suk⁵²	s u k ⁵²	s u k ⁷/⁵²	FEATHER OR FUR OR HAIR_200			Ferlus2007
 Chứt (Mày)_FEATHER OR FUR OR HAIR_200	Chứt (Mày)	mayy1239	scb	FEATHER OR FUR OR HAIR	ʔuɕŭk³	ʔuɕŭk³	ʔ u ɕ ŭ k ³	ʔ u ɕ ŭ k ³	FEATHER OR FUR OR HAIR_200			Babaev2018
 Chứt (Rục)_FEATHER OR FUR OR HAIR_200	Chứt (Rục)	rucc1239	scb	FEATHER OR FUR OR HAIR	ŭsúk	usuk	u s u k	ŭ/u s ú/u k	FEATHER OR FUR OR HAIR_200			Nguyen/Tran/Ferlus1998
@@ -493,9 +427,7 @@ Maleng_FEATHER OR FUR OR HAIR_200	Maleng	male1282	pkt	FEATHER OR FUR OR HAIR	ʔa
 Vietnamese_HAIR (HEAD)_203	Vietnamese	viet1252	vie	HAIR (HEAD)	tóc	tɔk͡p⁴⁵	t ɔ k͡p ⁴⁵	t ɔ kp ⁴⁵	HAIR (HEAD)_203			
 Mương (Hòa Bình)_HAIR (HEAD)_203	Mương (Hòa Bình)	muon1246	mtq	HAIR (HEAD)	tʰak⁷	tʰak⁵²	tʰ a k ⁵²	tʰ a k ⁷/⁵²	HAIR (HEAD)_203			
 Mương (Sơn La)_HAIR (HEAD)_203	Mương (Sơn La)	muon1246	mtq	HAIR (HEAD)	sak⁷	sak⁵²	s a k ⁵²	s a k ⁷/⁵²	HAIR (HEAD)_203			
-Mương (Thanh Hóa)_HAIR (HEAD)_203	Mương (Thanh Hóa)	muon1246	mtq	HAIR (HEAD)	sak⁷	sak⁵²	s a k ⁵²	s a k ⁷/⁵²	HAIR (HEAD)_203			
-Nguồn (Cổ Liêm)_HAIR (HEAD)_203	Nguồn (Cổ Liêm)	nguo1239	nuo	HAIR (HEAD)	t'ăk7	tăk⁵²	t ă k ⁵²	t ă k ⁷/⁵²	HAIR (HEAD)_203			Nguyen1997
-Nguồn (Yên Thọ)_HAIR (HEAD)_203	Nguồn (Yên Thọ)	nguo1239	nuo	HAIR (HEAD)	t'ăk7	tăk⁵²	t ă k ⁵²	t ă k ⁷/⁵²	HAIR (HEAD)_203			Nguyen1997
+Nguồn_HAIR (HEAD)_203	Nguồn	nguo1239	nuo	HAIR (HEAD)	t'ăk7	tăk⁵²	t ă k ⁵²	t ă k ⁷/⁵²	HAIR (HEAD)_203			Nguyen1997
 Hung (Phong)_HAIR (HEAD)_203	Hung (Phong)	phon1243	hnu	HAIR (HEAD)	suk	suk	s u k	s u k	HAIR (HEAD)_203			Ferlus2017
 Hung (Toum)_HAIR (HEAD)_203	Hung (Toum)	toum1239	hnu	HAIR (HEAD)	sok	sok	s o k	s o k	HAIR (HEAD)_203			Ferlus2017
 Hung (Liha)_HAIR (HEAD)_203	Hung (Liha)	lyha1238	hnu	HAIR (HEAD)	sok	sok	s o k	s o k	HAIR (HEAD)_203			Ferlus2017
@@ -508,10 +440,8 @@ Maleng_HAIR (HEAD)_204	Maleng	male1282	pkt	HAIR (HEAD)	kɤ̰j˧˦˧ˀ	kɤ̰j³�
 Vietnamese_FIRE OR FIREWOOD_207	Vietnamese	viet1252	vie	FIRE OR FIREWOOD	lửa (cf. củi "firewood")	lɨə²¹⁴	l ɨ ə ²¹⁴	l ɨə ²¹⁴	FIRE OR FIREWOOD_207			
 Mương (Hòa Bình)_FIRE OR FIREWOOD_208	Mương (Hòa Bình)	muon1246	mtq	FIRE OR FIREWOOD	kuːj⁵	kuːj⁵	k uː j ⁵	k uː j ⁵	FIRE OR FIREWOOD_208			
 Mương (Sơn La)_FIRE OR FIREWOOD_208	Mương (Sơn La)	muon1246	mtq	FIRE OR FIREWOOD	kuːj⁵	kuːj⁵	k uː j ⁵	k uː j ⁵	FIRE OR FIREWOOD_208			
-Mương (Thanh Hóa)_FIRE OR FIREWOOD_208	Mương (Thanh Hóa)	muon1246	mtq	FIRE OR FIREWOOD	kuːj⁵	kuːj⁵	k uː j ⁵	k uː j ⁵	FIRE OR FIREWOOD_208			
-Nguồn (Cổ Liêm)_FIRE OR FIREWOOD_208	Nguồn (Cổ Liêm)	nguo1239	nuo	FIRE OR FIREWOOD	kun5	kun⁵	k u n ⁵	k u n ⁵	FIRE OR FIREWOOD_208			Nguyen1997
-Thổ (Làng Lỡ)_FIRE OR FIREWOOD_208	Thổ (Làng Lỡ)	thoo1240	tou	FIRE OR FIREWOOD	ɣuːn⁵⁶	ɣuːn⁵⁵	ɣ uː n ⁵⁵	ɣ uː n ⁵⁶/⁵⁵	FIRE OR FIREWOOD_208			
-Thổ (Cuối Chăm)_FIRE OR FIREWOOD_208	Thổ (Cuối Chăm)	thoo1240	tou	FIRE OR FIREWOOD	kuːl⁶	kuːl⁵¹	k uː l ⁵¹	k uː l ⁶/⁵¹	FIRE OR FIREWOOD_208			6.1
+Nguồn_FIRE OR FIREWOOD_208	Nguồn	nguo1239	nuo	FIRE OR FIREWOOD	kun5	kun⁵	k u n ⁵	k u n ⁵	FIRE OR FIREWOOD_208			Nguyen1997
+Thổ_FIRE OR FIREWOOD_208	Thổ	thoo1240	tou	FIRE OR FIREWOOD	kuːl⁶	kuːl⁵¹	k uː l ⁵¹	k uː l ⁶/⁵¹	FIRE OR FIREWOOD_208			6.1
 Hung (Phong)_FIRE OR FIREWOOD_208	Hung (Phong)	phon1243	hnu	FIRE OR FIREWOOD	kuːt	kuːt	k uː t	k uː t	FIRE OR FIREWOOD_208			Ferlus2017
 Hung (Toum)_FIRE OR FIREWOOD_208	Hung (Toum)	toum1239	hnu	FIRE OR FIREWOOD	kuːc	kuːc	k uː c	k uː c	FIRE OR FIREWOOD_208			Ferlus2017
 Hung (Liha)_FIRE OR FIREWOOD_208	Hung (Liha)	lyha1238	hnu	FIRE OR FIREWOOD	kuːc	kuːc	k uː c	k uː c	FIRE OR FIREWOOD_208			Ferlus2017
@@ -524,11 +454,8 @@ Maleng_FIRE OR FIREWOOD_208	Maleng	male1282	pkt	FIRE OR FIREWOOD	kuih˧	kuih³	k
 Vietnamese_FISH_212	Vietnamese	viet1252	vie	FISH	cá	kaː⁴⁵	k aː ⁴⁵	k aː ⁴⁵	FISH_212			
 Mương (Hòa Bình)_FISH_212	Mương (Hòa Bình)	muon1246	mtq	FISH	kaː³	kaː³	k aː ³	k aː ³	FISH_212			
 Mương (Sơn La)_FISH_212	Mương (Sơn La)	muon1246	mtq	FISH	kaː³, kaː³	kaː³	k aː ³	k aː ³	FISH_212			
-Mương (Thanh Hóa)_FISH_212	Mương (Thanh Hóa)	muon1246	mtq	FISH	kaː³	kaː³	k aː ³	k aː ³	FISH_212			
-Nguồn (Cổ Liêm)_FISH_212	Nguồn (Cổ Liêm)	nguo1239	nuo	FISH	ka3	ka³	k a ³	k a ³	FISH_212			Nguyen1997
-Nguồn (Yên Thọ)_FISH_212	Nguồn (Yên Thọ)	nguo1239	nuo	FISH	ka3	ka³	k a ³	k a ³	FISH_212			Nguyen1997
-Thổ (Làng Lỡ)_FISH_212	Thổ (Làng Lỡ)	thoo1240	tou	FISH	kaː³	kaː³	k aː ³	k aː ³	FISH_212			
-Thổ (Cuối Chăm)_FISH_212	Thổ (Cuối Chăm)	thoo1240	tou	FISH	kaː³	kaː³	k aː ³	k aː ³	FISH_212			6.1
+Nguồn_FISH_212	Nguồn	nguo1239	nuo	FISH	ka3	ka³	k a ³	k a ³	FISH_212			Nguyen1997
+Thổ_FISH_212	Thổ	thoo1240	tou	FISH	kaː³	kaː³	k aː ³	k aː ³	FISH_212			6.1
 Hung (Phong)_FISH_212	Hung (Phong)	phon1243	hnu	FISH	kaː	kaː	k aː	k aː	FISH_212			Ferlus2017
 Hung (Toum)_FISH_212	Hung (Toum)	toum1239	hnu	FISH	kaː	kaː	k aː	k aː	FISH_212			Ferlus2017
 Hung (Liha)_FISH_212	Hung (Liha)	lyha1238	hnu	FISH	kaː	kaː	k aː	k aː	FISH_212			Ferlus2017
@@ -541,9 +468,8 @@ Maleng_FISH_212	Maleng	male1282	pkt	FISH	aka̰˧˦˧ˀ	aka̰³⁴³	a k a̰ ³�
 Vietnamese_FLESH OR MEAT_214	Vietnamese	viet1252	vie	FLESH OR MEAT	thịt	tʰɨt²¹²	tʰ ɨ t ²¹²	tʰ ɨ t ²¹²	FLESH OR MEAT_214			
 Mương (Hòa Bình)_FLESH OR MEAT_215	Mương (Hòa Bình)	muon1246	mtq	FLESH OR MEAT	ɲuk⁷	ɲuk⁵²	ɲ u k ⁵²	ɲ u k ⁷/⁵²	FLESH OR MEAT_215			
 Mương (Sơn La)_FLESH OR MEAT_215	Mương (Sơn La)	muon1246	mtq	FLESH OR MEAT	ɲuk⁷	ɲuk⁵²	ɲ u k ⁵²	ɲ u k ⁷/⁵²	FLESH OR MEAT_215			
-Nguồn (Cổ Liêm)_FLESH OR MEAT_214	Nguồn (Cổ Liêm)	nguo1239	nuo	FLESH OR MEAT	t'it8	tit⁵³	t i t ⁵³	t i t ⁸/⁵³	FLESH OR MEAT_214			Nguyen1997
-Thổ (Làng Lỡ)_FLESH OR MEAT_214	Thổ (Làng Lỡ)	thoo1240	tou	FLESH OR MEAT	siːt⁸	siːt⁵³	s iː t ⁵³	s iː t ⁸/⁵³	FLESH OR MEAT_214			
-Thổ (Cuối Chăm)_FLESH OR MEAT_214	Thổ (Cuối Chăm)	thoo1240	tou	FLESH OR MEAT	siːt⁸	siːt⁵³	s iː t ⁵³	s iː t ⁸/⁵³	FLESH OR MEAT_214			6.1
+Nguồn_FLESH OR MEAT_214	Nguồn	nguo1239	nuo	FLESH OR MEAT	t'it8	tit⁵³	t i t ⁵³	t i t ⁸/⁵³	FLESH OR MEAT_214			Nguyen1997
+Thổ_FLESH OR MEAT_214	Thổ	thoo1240	tou	FLESH OR MEAT	siːt⁸	siːt⁵³	s iː t ⁵³	s iː t ⁸/⁵³	FLESH OR MEAT_214			6.1
 Hung (Liha)_FLESH OR MEAT_214	Hung (Liha)	lyha1238	hnu	FLESH OR MEAT	siːt	siːt	s iː t	s iː t	FLESH OR MEAT_214			Ferlus2017
 Chứt (Sách)_FLESH OR MEAT_214	Chứt (Sách)	sach1240	scb	FLESH OR MEAT	sit⁸	sit⁵³	s i t ⁵³	s i t ⁸/⁵³	FLESH OR MEAT_214			Ferlus2007
 Chứt (Mày)_FLESH OR MEAT_214	Chứt (Mày)	mayy1239	scb	FLESH OR MEAT	ɕit⁴	ɕit⁴	ɕ i t ⁴	ɕ i t ⁴	FLESH OR MEAT_214			Babaev2018
@@ -554,9 +480,7 @@ Maleng_FLESH OR MEAT_214	Maleng	male1282	pkt	FLESH OR MEAT	sit˦	sit⁴	s i t �
 Vietnamese_FLY (MOVE THROUGH AIR)_222	Vietnamese	viet1252	vie	FLY (MOVE THROUGH AIR)	bay	ɓai̯³³	ɓ a i̯ ³³	ɓ ai̯ ³³	FLY (MOVE THROUGH AIR)_222			
 Mương (Hòa Bình)_FLY (MOVE THROUGH AIR)_222	Mương (Hòa Bình)	muon1246	mtq	FLY (MOVE THROUGH AIR)	paə¹	paə¹	p a ə ¹	p aə ¹	FLY (MOVE THROUGH AIR)_222			
 Mương (Sơn La)_FLY (MOVE THROUGH AIR)_222	Mương (Sơn La)	muon1246	mtq	FLY (MOVE THROUGH AIR)	pal¹	pal¹	p a l ¹	p a l ¹	FLY (MOVE THROUGH AIR)_222			
-Mương (Thanh Hóa)_FLY (MOVE THROUGH AIR)_222	Mương (Thanh Hóa)	muon1246	mtq	FLY (MOVE THROUGH AIR)	ban¹	ban¹	b a n ¹	b a n ¹	FLY (MOVE THROUGH AIR)_222			
-Thổ (Làng Lỡ)_FLY (MOVE THROUGH AIR)_222	Thổ (Làng Lỡ)	thoo1240	tou	FLY (MOVE THROUGH AIR)	pʌn¹	pʌn¹	p ʌ n ¹	p ʌ n ¹	FLY (MOVE THROUGH AIR)_222			
-Thổ (Cuối Chăm)_FLY (MOVE THROUGH AIR)_222	Thổ (Cuối Chăm)	thoo1240	tou	FLY (MOVE THROUGH AIR)	pʌl¹	pʌl¹	p ʌ l ¹	p ʌ l ¹	FLY (MOVE THROUGH AIR)_222			6.1
+Thổ_FLY (MOVE THROUGH AIR)_222	Thổ	thoo1240	tou	FLY (MOVE THROUGH AIR)	pʌl¹	pʌl¹	p ʌ l ¹	p ʌ l ¹	FLY (MOVE THROUGH AIR)_222			6.1
 Hung (Phong)_FLY (MOVE THROUGH AIR)_222	Hung (Phong)	phon1243	hnu	FLY (MOVE THROUGH AIR)	pil	pil	p i l	p i l	FLY (MOVE THROUGH AIR)_222			Ferlus2017
 Hung (Toum)_FLY (MOVE THROUGH AIR)_222	Hung (Toum)	toum1239	hnu	FLY (MOVE THROUGH AIR)	pʌl	pʌl	p ʌ l	p ʌ l	FLY (MOVE THROUGH AIR)_222			Ferlus2017
 Hung (Liha)_FLY (MOVE THROUGH AIR)_222	Hung (Liha)	lyha1238	hnu	FLY (MOVE THROUGH AIR)	pɔn	pɔn	p ɔ n	p ɔ n	FLY (MOVE THROUGH AIR)_222			Ferlus2017
@@ -569,10 +493,8 @@ Maleng_FLY (MOVE THROUGH AIR)_222	Maleng	male1282	pkt	FLY (MOVE THROUGH AIR)	pɤ
 Vietnamese_FOOT_227	Vietnamese	viet1252	vie	FOOT	chân	cəŋ³³	c ə ŋ ³³	c ə ŋ ³³	FOOT_227			
 Mương (Hòa Bình)_FOOT_227	Mương (Hòa Bình)	muon1246	mtq	FOOT	cən¹	cən¹	c ə n ¹	c ə n ¹	FOOT_227			
 Mương (Sơn La)_FOOT_227	Mương (Sơn La)	muon1246	mtq	FOOT	cən¹	cən¹	c ə n ¹	c ə n ¹	FOOT_227			
-Mương (Thanh Hóa)_FOOT_227	Mương (Thanh Hóa)	muon1246	mtq	FOOT	cən¹	cən¹	c ə n ¹	c ə n ¹	FOOT_227			
-Nguồn (Cổ Liêm)_FOOT_228	Nguồn (Cổ Liêm)	nguo1239	nuo	FOOT	cɔ2	cɔ²	c ɔ ²	c ɔ ²	FOOT_228			Nguyen1997
-Nguồn (Yên Thọ)_FOOT_228	Nguồn (Yên Thọ)	nguo1239	nuo	FOOT	cɔt	cɔt	c ɔ t	c ɔ t	FOOT_228			Nguyen1997
-Thổ (Cuối Chăm)_FOOT_229	Thổ (Cuối Chăm)	thoo1240	tou	FOOT	kaŋ⁵	kaŋ⁵	k a ŋ ⁵	k a ŋ ⁵	FOOT_229			6.1
+Nguồn_FOOT_228	Nguồn	nguo1239	nuo	FOOT	cɔ2	cɔ²	c ɔ ²	c ɔ ²	FOOT_228			Nguyen1997
+Thổ_FOOT_229	Thổ	thoo1240	tou	FOOT	kaŋ⁵	kaŋ⁵	k a ŋ ⁵	k a ŋ ⁵	FOOT_229			6.1
 Chứt (Sách)_FOOT_230	Chứt (Sách)	sach1240	scb	FOOT	ciːŋ²	ciːŋ²	c iː ŋ ²	c iː ŋ ²	FOOT_230			Ferlus2007
 Chứt (Mày)_FOOT_230	Chứt (Mày)	mayy1239	scb	FOOT	ciŋ²	ciŋ²	c i ŋ ²	c i ŋ ²	FOOT_230			Babaev2018
 Chứt (Rục)_FOOT_230	Chứt (Rục)	rucc1239	scb	FOOT	ciŋ	ciŋ	c i ŋ	c i ŋ	FOOT_230			Nguyen/Tran/Ferlus1998
@@ -580,9 +502,8 @@ Arem_FOOT_230	Arem	arem1240	aem	FOOT	tɕìŋ	ʨiŋ	ʨ i ŋ	tɕ ì/i ŋ	FOOT_230
 Thavưng_FOOT_230	Thavưng	aheu1239	thm	FOOT	ciːŋ1	ciːŋ¹	c iː ŋ ¹	c iː ŋ ¹	FOOT_230			Ferlus1979
 Maleng_FOOT_230	Maleng	male1282	pkt	FOOT	siŋ˧	siŋ³	s i ŋ ³	s i ŋ ³	FOOT_230			NVlNHH2001
 Vietnamese_FULL_232	Vietnamese	viet1252	vie	FULL	đầy	ɗəi̯²¹	ɗ ə i̯ ²¹	ɗ əi̯ ²¹	FULL_232			
-Nguồn (Cổ Liêm)_FULL_233	Nguồn (Cổ Liêm)	nguo1239	nuo	FULL	lăm1	lăm¹	l ă m ¹	l ă m ¹	FULL_233			Nguyen1997
-Thổ (Làng Lỡ)_FULL_234	Thổ (Làng Lỡ)	thoo1240	tou	FULL	ʈeː³	ʈeː³	ʈ eː ³	ʈ eː ³	FULL_234			
-Thổ (Cuối Chăm)_FULL_234	Thổ (Cuối Chăm)	thoo1240	tou	FULL	pleː³	pleː³	p l eː ³	p l eː ³	FULL_234			6.1
+Nguồn_FULL_233	Nguồn	nguo1239	nuo	FULL	lăm1	lăm¹	l ă m ¹	l ă m ¹	FULL_233			Nguyen1997
+Thổ_FULL_234	Thổ	thoo1240	tou	FULL	pleː³	pleː³	p l eː ³	p l eː ³	FULL_234			6.1
 Hung (Phong)_FULL_233	Hung (Phong)	phon1243	hnu	FULL	blam	blam	b l a m	b l a m	FULL_233			Ferlus2017
 Hung (Toum)_FULL_233	Hung (Toum)	toum1239	hnu	FULL	blam	blam	b l a m	b l a m	FULL_233			Ferlus2017
 Hung (Liha)_FULL_233	Hung (Liha)	lyha1238	hnu	FULL	blam	blam	b l a m	b l a m	FULL_233			Ferlus2017
@@ -592,8 +513,7 @@ Chứt (Rục)_FULL_233	Chứt (Rục)	rucc1239	scb	FULL	blăm	blăm	b l ă m	
 Arem_FULL_235	Arem	arem1240	aem	FULL	pằɲ	paɲ	p a ɲ	p ằ/a ɲ	FULL_235			Kasuga2008
 Maleng_FULL_235	Maleng	male1282	pkt	FULL	pĭc˧˦	pĭc³⁴	p ĭ c ³⁴	p ĭ c ³⁴	FULL_235			NVlNHH2001
 Vietnamese_GIVE_240	Vietnamese	viet1252	vie	GIVE	cho	cɔː³³	c ɔː ³³	c ɔː ³³	GIVE_240			
-Nguồn (Cổ Liêm)_GIVE_240	Nguồn (Cổ Liêm)	nguo1239	nuo	GIVE	cɔ1	cɔ¹	c ɔ ¹	c ɔ ¹	GIVE_240			Nguyen1997
-Nguồn (Yên Thọ)_GIVE_240	Nguồn (Yên Thọ)	nguo1239	nuo	GIVE	tɔ1	tɔ¹	t ɔ ¹	t ɔ ¹	GIVE_240			Nguyen1997
+Nguồn_GIVE_240	Nguồn	nguo1239	nuo	GIVE	cɔ1	cɔ¹	c ɔ ¹	c ɔ ¹	GIVE_240			Nguyen1997
 Hung (Toum)_GIVE_240	Hung (Toum)	toum1239	hnu	GIVE	caə	caə	c a ə	c aə	GIVE_240			Ferlus2017
 Hung (Liha)_GIVE_240	Hung (Liha)	lyha1238	hnu	GIVE	caə	caə	c a ə	c aə	GIVE_240			Ferlus2017
 Chứt (Sách)_GIVE_240	Chứt (Sách)	sach1240	scb	GIVE	[[cɤ́]]	cɤ	c ɤ	c ɤ́/ɤ	GIVE_240			Ferlus2007
@@ -602,8 +522,7 @@ Chứt (Rục)_GIVE_240	Chứt (Rục)	rucc1239	scb	GIVE	cʌə	cʌə	c ʌ ə	c �
 Arem_GIVE_240	Arem	arem1240	aem	GIVE	tɕɒː	ʨɒː	ʨ ɒː	tɕ ɒː	GIVE_240			Kasuga2008
 Maleng_GIVE_240	Maleng	male1282	pkt	GIVE	cɤ˧	cɤ³	c ɤ ³	c ɤ ³	GIVE_240			NVlNHH2001
 Vietnamese_GOOD_246	Vietnamese	viet1252	vie	GOOD	tốt, hay	tok⁴⁵	t o k ⁴⁵	t o k ⁴⁵	GOOD_246			
-Nguồn (Cổ Liêm)_GOOD_246	Nguồn (Cổ Liêm)	nguo1239	nuo	GOOD	t'oːt7	toːt⁵²	t oː t ⁵²	t oː t ⁷/⁵²	GOOD_246			Nguyen1997
-Nguồn (Yên Thọ)_GOOD_246	Nguồn (Yên Thọ)	nguo1239	nuo	GOOD	t'ot7	tot⁵²	t o t ⁵²	t o t ⁷/⁵²	GOOD_246			Nguyen1997
+Nguồn_GOOD_246	Nguồn	nguo1239	nuo	GOOD	t'oːt7	toːt⁵²	t oː t ⁵²	t oː t ⁷/⁵²	GOOD_246			Nguyen1997
 Chứt (Sách)_GOOD_246	Chứt (Sách)	sach1240	scb	GOOD	[[tʰót]]	tʰot	tʰ o t	tʰ ó/o t	GOOD_246			Ferlus2007
 Chứt (Mày)_GOOD_248	Chứt (Mày)	mayy1239	scb	GOOD	hăi̯¹	hăi¹	h ă i ¹	h ă i̯/i ¹	GOOD_248			Babaev2018
 Chứt (Rục)_GOOD_248	Chứt (Rục)	rucc1239	scb	GOOD	haj	haj	h a j	h a j	GOOD_248			Nguyen/Tran/Ferlus1998
@@ -611,8 +530,7 @@ Arem_GOOD_249	Arem	arem1240	aem	GOOD	ʔie̯m (< Katuic)	ʔie̯m	ʔ i e̯ m	ʔ ie
 Thavưng_GOOD_249	Thavưng	aheu1239	thm	GOOD	diː (<Tai)	diː	d iː	d iː	GOOD_249			Ferlus1979
 Maleng_GOOD_249	Maleng	male1282	pkt	GOOD	di˧ (<Tai)	di³	d i ³	d i ³	GOOD_249			NVlNHH2001
 Vietnamese_BLUE OR GREEN_254	Vietnamese	viet1252	vie	BLUE OR GREEN	xanh (LSV thanh)	san³³	s a n ³³	s a n ³³	BLUE OR GREEN_254			
-Nguồn (Cổ Liêm)_BLUE OR GREEN_254	Nguồn (Cổ Liêm)	nguo1239	nuo	BLUE OR GREEN	sɛɲ1	sɛɲ¹	s ɛ ɲ ¹	s ɛ ɲ ¹	BLUE OR GREEN_254			Nguyen1997
-Nguồn (Yên Thọ)_BLUE OR GREEN_254	Nguồn (Yên Thọ)	nguo1239	nuo	BLUE OR GREEN	sɛɲ1	sɛɲ¹	s ɛ ɲ ¹	s ɛ ɲ ¹	BLUE OR GREEN_254			Nguyen1997
+Nguồn_BLUE OR GREEN_254	Nguồn	nguo1239	nuo	BLUE OR GREEN	sɛɲ1	sɛɲ¹	s ɛ ɲ ¹	s ɛ ɲ ¹	BLUE OR GREEN_254			Nguyen1997
 Chứt (Sách)_BLUE OR GREEN_254	Chứt (Sách)	sach1240	scb	BLUE OR GREEN	[[seŋ]]	seŋ	s e ŋ	s e ŋ	BLUE OR GREEN_254			Ferlus2007
 Chứt (Mày)_BLUE OR GREEN_254	Chứt (Mày)	mayy1239	scb	BLUE OR GREEN	ɕeŋ¹	ɕeŋ¹	ɕ e ŋ ¹	ɕ e ŋ ¹	BLUE OR GREEN_254			Babaev2018
 Chứt (Rục)_BLUE OR GREEN_254	Chứt (Rục)	rucc1239	scb	BLUE OR GREEN	sĭŋ	sĭŋ	s ĭ ŋ	s ĭ ŋ	BLUE OR GREEN_254			Nguyen/Tran/Ferlus1998
@@ -622,11 +540,8 @@ Maleng_BLUE OR GREEN_255	Maleng	male1282	pkt	BLUE OR GREEN	salɛːw324	salɛːw�
 Vietnamese_ARM OR HAND_259	Vietnamese	viet1252	vie	ARM OR HAND	tay	tai̯³³	t a i̯ ³³	t ai̯ ³³	ARM OR HAND_259			
 Mương (Hòa Bình)_ARM OR HAND_259	Mương (Hòa Bình)	muon1246	mtq	ARM OR HAND	tʰaj¹	tʰaj¹	tʰ a j ¹	tʰ a j ¹	ARM OR HAND_259			
 Mương (Sơn La)_ARM OR HAND_259	Mương (Sơn La)	muon1246	mtq	ARM OR HAND	saj¹	saj¹	s a j ¹	s a j ¹	ARM OR HAND_259			
-Mương (Thanh Hóa)_ARM OR HAND_259	Mương (Thanh Hóa)	muon1246	mtq	ARM OR HAND	saj¹	saj¹	s a j ¹	s a j ¹	ARM OR HAND_259			
-Nguồn (Cổ Liêm)_ARM OR HAND_259	Nguồn (Cổ Liêm)	nguo1239	nuo	ARM OR HAND	t'ăj1	tăj¹	t ă j ¹	t ă j ¹	ARM OR HAND_259			Nguyen1997
-Nguồn (Yên Thọ)_ARM OR HAND_259	Nguồn (Yên Thọ)	nguo1239	nuo	ARM OR HAND	t'ăj1	tăj¹	t ă j ¹	t ă j ¹	ARM OR HAND_259			Nguyen1997
-Thổ (Làng Lỡ)_ARM OR HAND_259	Thổ (Làng Lỡ)	thoo1240	tou	ARM OR HAND	siː¹	siː¹	s iː ¹	s iː ¹	ARM OR HAND_259			
-Thổ (Cuối Chăm)_ARM OR HAND_259	Thổ (Cuối Chăm)	thoo1240	tou	ARM OR HAND	siː¹	siː¹	s iː ¹	s iː ¹	ARM OR HAND_259			6.1
+Nguồn_ARM OR HAND_259	Nguồn	nguo1239	nuo	ARM OR HAND	t'ăj1	tăj¹	t ă j ¹	t ă j ¹	ARM OR HAND_259			Nguyen1997
+Thổ_ARM OR HAND_259	Thổ	thoo1240	tou	ARM OR HAND	siː¹	siː¹	s iː ¹	s iː ¹	ARM OR HAND_259			6.1
 Hung (Phong)_ARM OR HAND_259	Hung (Phong)	phon1243	hnu	ARM OR HAND	siː	siː	s iː	s iː	ARM OR HAND_259			Ferlus2017
 Hung (Toum)_ARM OR HAND_259	Hung (Toum)	toum1239	hnu	ARM OR HAND	sei	sei	s e i	s ei	ARM OR HAND_259			Ferlus2017
 Hung (Liha)_ARM OR HAND_259	Hung (Liha)	lyha1238	hnu	ARM OR HAND	səi	səi	s ə i	s əi	ARM OR HAND_259			Ferlus2017
@@ -638,8 +553,7 @@ Thavưng_ARM OR HAND_259	Thavưng	aheu1239	thm	ARM OR HAND	siː	siː	s iː	s iː
 Maleng_ARM OR HAND_259	Maleng	male1282	pkt	ARM OR HAND	sɪ˧	sɪ³	s ɪ ³	s ɪ ³	ARM OR HAND_259			NVlNHH2001
 Vietnamese_HARD_262	Vietnamese	viet1252	vie	HARD	cứng, rắn	kɨŋ⁴⁵	k ɨ ŋ ⁴⁵	k ɨ ŋ ⁴⁵	HARD_262			
 Mương (Sơn La)_HARD_262	Mương (Sơn La)	muon1246	mtq	HARD	kʌŋ³	kʌŋ³	k ʌ ŋ ³	k ʌ ŋ ³	HARD_262			
-Nguồn (Cổ Liêm)_HARD_262	Nguồn (Cổ Liêm)	nguo1239	nuo	HARD	kɨŋ3	kɨŋ³	k ɨ ŋ ³	k ɨ ŋ ³	HARD_262			Nguyen1997
-Thổ (Làng Lỡ)_HARD_262	Thổ (Làng Lỡ)	thoo1240	tou	HARD	kɨŋ³ ( < )	kɨŋ³	k ɨ ŋ ³	k ɨ ŋ ³	HARD_262			
+Nguồn_HARD_262	Nguồn	nguo1239	nuo	HARD	kɨŋ3	kɨŋ³	k ɨ ŋ ³	k ɨ ŋ ³	HARD_262			Nguyen1997
 Hung (Phong)_HARD_264	Hung (Phong)	phon1243	hnu	HARD	ksan	ksan	k s a n	k s a n	HARD_264			Ferlus2017
 Hung (Toum)_HARD_262	Hung (Toum)	toum1239	hnu	HARD	kʌŋ	kʌŋ	k ʌ ŋ	k ʌ ŋ	HARD_262			Ferlus2017
 Hung (Liha)_HARD_262	Hung (Liha)	lyha1238	hnu	HARD	kɔŋ	kɔŋ	k ɔ ŋ	k ɔ ŋ	HARD_262			Ferlus2017
@@ -650,11 +564,8 @@ Maleng_HARD_265	Maleng	male1282	pkt	HARD	khalɪh˧ ~ khaleh˧	kʰalɪh³	kʰ a l
 Vietnamese_HEAD_269	Vietnamese	viet1252	vie	HEAD	đầu	ɗəu̯²¹	ɗ ə u̯ ²¹	ɗ əu̯ ²¹	HEAD_269			
 Mương (Hòa Bình)_HEAD_270	Mương (Hòa Bình)	muon1246	mtq	HEAD	kloːk⁷	kloːk⁵²	k l oː k ⁵²	k l oː k ⁷/⁵²	HEAD_270			
 Mương (Sơn La)_HEAD_270	Mương (Sơn La)	muon1246	mtq	HEAD	kloːk⁷	kloːk⁵²	k l oː k ⁵²	k l oː k ⁷/⁵²	HEAD_270			
-Mương (Thanh Hóa)_HEAD_270	Mương (Thanh Hóa)	muon1246	mtq	HEAD	ʈoːk⁷	ʈoːk⁵²	ʈ oː k ⁵²	ʈ oː k ⁷/⁵²	HEAD_270			
-Nguồn (Cổ Liêm)_HEAD_270	Nguồn (Cổ Liêm)	nguo1239	nuo	HEAD	ʈoːk7	ʈoːk⁵²	ʈ oː k ⁵²	ʈ oː k ⁷/⁵²	HEAD_270			Nguyen1997
-Nguồn (Yên Thọ)_HEAD_270	Nguồn (Yên Thọ)	nguo1239	nuo	HEAD	loːk7	loːk⁵²	l oː k ⁵²	l oː k ⁷/⁵²	HEAD_270			Nguyen1997
-Thổ (Làng Lỡ)_HEAD_270	Thổ (Làng Lỡ)	thoo1240	tou	HEAD	ʐuok⁸	ʐwok⁵³	ʐ w o k ⁵³	ʐ u/w o k ⁸/⁵³	HEAD_270			
-Thổ (Cuối Chăm)_HEAD_270	Thổ (Cuối Chăm)	thoo1240	tou	HEAD	kloːk⁸	kloːk⁵³	k l oː k ⁵³	k l oː k ⁸/⁵³	HEAD_270			6.1
+Nguồn_HEAD_270	Nguồn	nguo1239	nuo	HEAD	ʈoːk7	ʈoːk⁵²	ʈ oː k ⁵²	ʈ oː k ⁷/⁵²	HEAD_270			Nguyen1997
+Thổ_HEAD_270	Thổ	thoo1240	tou	HEAD	kloːk⁸	kloːk⁵³	k l oː k ⁵³	k l oː k ⁸/⁵³	HEAD_270			6.1
 Hung (Phong)_HEAD_270	Hung (Phong)	phon1243	hnu	HEAD	kloːk	kloːk	k l oː k	k l oː k	HEAD_270			Ferlus2017
 Hung (Toum)_HEAD_270	Hung (Toum)	toum1239	hnu	HEAD	kloːk	kloːk	k l oː k	k l oː k	HEAD_270			Ferlus2017
 Hung (Liha)_HEAD_270	Hung (Liha)	lyha1238	hnu	HEAD	kloːk	kloːk	k l oː k	k l oː k	HEAD_270			Ferlus2017
@@ -667,8 +578,7 @@ Maleng_HEAD_270	Maleng	male1282	pkt	HEAD	kalṵk˧˦	kalṵk³⁴	k a l ṵ k ³
 Vietnamese_HEAR OR LISTEN_275	Vietnamese	viet1252	vie	HEAR OR LISTEN	nghe	ŋɛː³³	ŋ ɛː ³³	ŋ ɛː ³³	HEAR OR LISTEN_275			
 Mương (Hòa Bình)_HEAR OR LISTEN_276	Mương (Hòa Bình)	muon1246	mtq	HEAR OR LISTEN	maŋ¹	maŋ¹	m a ŋ ¹	m a ŋ ¹	HEAR OR LISTEN_276			
 Mương (Sơn La)_HEAR OR LISTEN_276	Mương (Sơn La)	muon1246	mtq	HEAR OR LISTEN	maŋ¹	maŋ¹	m a ŋ ¹	m a ŋ ¹	HEAR OR LISTEN_276			
-Mương (Thanh Hóa)_HEAR OR LISTEN_276	Mương (Thanh Hóa)	muon1246	mtq	HEAR OR LISTEN	maŋ¹ ( < )	maŋ¹	m a ŋ ¹	m a ŋ ¹	HEAR OR LISTEN_276			
-Nguồn (Cổ Liêm)_HEAR OR LISTEN_275	Nguồn (Cổ Liêm)	nguo1239	nuo	HEAR OR LISTEN	ŋɛ1	ŋɛ¹	ŋ ɛ ¹	ŋ ɛ ¹	HEAR OR LISTEN_275			Nguyen1997
+Nguồn_HEAR OR LISTEN_275	Nguồn	nguo1239	nuo	HEAR OR LISTEN	ŋɛ1	ŋɛ¹	ŋ ɛ ¹	ŋ ɛ ¹	HEAR OR LISTEN_275			Nguyen1997
 Hung (Phong)_HEAR OR LISTEN_275	Hung (Phong)	phon1243	hnu	HEAR OR LISTEN	ŋɛː	ŋɛː	ŋ ɛː	ŋ ɛː	HEAR OR LISTEN_275			Ferlus2017
 Hung (Toum)_HEAR OR LISTEN_275	Hung (Toum)	toum1239	hnu	HEAR OR LISTEN	ŋɛː	ŋɛː	ŋ ɛː	ŋ ɛː	HEAR OR LISTEN_275			Ferlus2017
 Hung (Liha)_HEAR OR LISTEN_275	Hung (Liha)	lyha1238	hnu	HEAR OR LISTEN	ŋɛː	ŋɛː	ŋ ɛː	ŋ ɛː	HEAR OR LISTEN_275			Ferlus2017
@@ -679,9 +589,8 @@ Arem_HEAR OR LISTEN_276	Arem	arem1240	aem	HEAR OR LISTEN	ta³³|ma̤ŋ³² 'to l
 Thavưng_HEAR OR LISTEN_278	Thavưng	aheu1239	thm	HEAR OR LISTEN	hapaŋ2	hapaŋ²	h a p a ŋ ²	h a p a ŋ ²	HEAR OR LISTEN_278			Ferlus1979
 Maleng_HEAR OR LISTEN_277	Maleng	male1282	pkt	HEAR OR LISTEN	ŋet˧˦ 'to hear'	ŋet³⁴tohearʔ	ŋ e t ³⁴ t o h e a r ʔ	ŋ e t ³⁴ t o h ea r '/ʔ	HEAR OR LISTEN_277			NVlNHH2001
 Vietnamese_HEART_283	Vietnamese	viet1252	vie	HEART	tim	tim³³	t i m ³³	t i m ³³	HEART_283			
-Nguồn (Cổ Liêm)_HEART_283	Nguồn (Cổ Liêm)	nguo1239	nuo	HEART	tim1	tim¹	t i m ¹	t i m ¹	HEART_283			Nguyen1997
-Nguồn (Yên Thọ)_HEART_283	Nguồn (Yên Thọ)	nguo1239	nuo	HEART	ʔim1 / tim1*	ʔim¹	ʔ i m ¹	ʔ i m ¹	HEART_283			Nguyen1997
-Thổ (Cuối Chăm)_HEART_283	Thổ (Cuối Chăm)	thoo1240	tou	HEART	tiːm¹	tiːm¹	t iː m ¹	t iː m ¹	HEART_283			6.1
+Nguồn_HEART_283	Nguồn	nguo1239	nuo	HEART	tim1	tim¹	t i m ¹	t i m ¹	HEART_283			Nguyen1997
+Thổ_HEART_283	Thổ	thoo1240	tou	HEART	tiːm¹	tiːm¹	t iː m ¹	t iː m ¹	HEART_283			6.1
 Hung (Phong)_HEART_283	Hung (Phong)	phon1243	hnu	HEART	seːm	seːm	s eː m	s eː m	HEART_283			Ferlus2017
 Hung (Liha)_HEART_283	Hung (Liha)	lyha1238	hnu	HEART	sɛːm	sɛːm	s ɛː m	s ɛː m	HEART_283			Ferlus2017
 Chứt (Sách)_HEART_285	Chứt (Sách)	sach1240	scb	HEART	toːŋ¹	toːŋ¹	t oː ŋ ¹	t oː ŋ ¹	HEART_285			Ferlus2007
@@ -693,10 +602,8 @@ Maleng_HEART_285	Maleng	male1282	pkt	HEART	tɒ̆ŋ˧˦˧324	tɒ̆ŋ³²⁴	t ɒ�
 Vietnamese_HEAVY_290	Vietnamese	viet1252	vie	HEAVY	nặng	naŋ²¹²	n a ŋ ²¹²	n a ŋ ²¹²	HEAVY_290			
 Mương (Hòa Bình)_HEAVY_290	Mương (Hòa Bình)	muon1246	mtq	HEAVY	naŋ⁴	naŋ⁴	n a ŋ ⁴	n a ŋ ⁴	HEAVY_290			
 Mương (Sơn La)_HEAVY_290	Mương (Sơn La)	muon1246	mtq	HEAVY	naŋ⁴⁶	naŋ⁴⁵	n a ŋ ⁴⁵	n a ŋ ⁴⁶/⁴⁵	HEAVY_290			
-Mương (Thanh Hóa)_HEAVY_290	Mương (Thanh Hóa)	muon1246	mtq	HEAVY	naŋ⁴⁶	naŋ⁴⁵	n a ŋ ⁴⁵	n a ŋ ⁴⁶/⁴⁵	HEAVY_290			
-Nguồn (Cổ Liêm)_HEAVY_290	Nguồn (Cổ Liêm)	nguo1239	nuo	HEAVY	năŋ4	năŋ⁴	n ă ŋ ⁴	n ă ŋ ⁴	HEAVY_290			Nguyen1997
-Thổ (Làng Lỡ)_HEAVY_290	Thổ (Làng Lỡ)	thoo1240	tou	HEAVY	naŋ⁴	naŋ⁴	n a ŋ ⁴	n a ŋ ⁴	HEAVY_290			
-Thổ (Cuối Chăm)_HEAVY_290	Thổ (Cuối Chăm)	thoo1240	tou	HEAVY	naŋ³	naŋ³	n a ŋ ³	n a ŋ ³	HEAVY_290			6.1
+Nguồn_HEAVY_290	Nguồn	nguo1239	nuo	HEAVY	năŋ4	năŋ⁴	n ă ŋ ⁴	n ă ŋ ⁴	HEAVY_290			Nguyen1997
+Thổ_HEAVY_290	Thổ	thoo1240	tou	HEAVY	naŋ³	naŋ³	n a ŋ ³	n a ŋ ³	HEAVY_290			6.1
 Hung (Phong)_HEAVY_290	Hung (Phong)	phon1243	hnu	HEAVY	naŋ	naŋ	n a ŋ	n a ŋ	HEAVY_290			Ferlus2017
 Hung (Toum)_HEAVY_290	Hung (Toum)	toum1239	hnu	HEAVY	naŋ	naŋ	n a ŋ	n a ŋ	HEAVY_290			Ferlus2017
 Hung (Liha)_HEAVY_290	Hung (Liha)	lyha1238	hnu	HEAVY	naŋ	naŋ	n a ŋ	n a ŋ	HEAVY_290			Ferlus2017
@@ -706,10 +613,8 @@ Chứt (Rục)_HEAVY_290	Chứt (Rục)	rucc1239	scb	HEAVY	nǎ͗ŋ	naŋ	n a ŋ	n
 Vietnamese_HORN (ANATOMY)_294	Vietnamese	viet1252	vie	HORN (ANATOMY)	sừng	sɨŋ²¹	s ɨ ŋ ²¹	s ɨ ŋ ²¹	HORN (ANATOMY)_294			
 Mương (Hòa Bình)_HORN (ANATOMY)_294	Mương (Hòa Bình)	muon1246	mtq	HORN (ANATOMY)	kʰɨŋ²	kʰɨŋ²	kʰ ɨ ŋ ²	kʰ ɨ ŋ ²	HORN (ANATOMY)_294			
 Mương (Sơn La)_HORN (ANATOMY)_294	Mương (Sơn La)	muon1246	mtq	HORN (ANATOMY)	kʰəŋ²	kʰəŋ²	kʰ ə ŋ ²	kʰ ə ŋ ²	HORN (ANATOMY)_294			
-Mương (Thanh Hóa)_HORN (ANATOMY)_294	Mương (Thanh Hóa)	muon1246	mtq	HORN (ANATOMY)	kʰɨŋ²	kʰɨŋ²	kʰ ɨ ŋ ²	kʰ ɨ ŋ ²	HORN (ANATOMY)_294			
-Nguồn (Cổ Liêm)_HORN (ANATOMY)_294	Nguồn (Cổ Liêm)	nguo1239	nuo	HORN (ANATOMY)	ʃɨŋ2djaj1	ʃɨŋ²djaj¹	ʃ ɨ ŋ ² d j a j ¹	ʃ ɨ ŋ ² d j a j ¹	HORN (ANATOMY)_294			Nguyen1997
-Thổ (Làng Lỡ)_HORN (ANATOMY)_294	Thổ (Làng Lỡ)	thoo1240	tou	HORN (ANATOMY)	ʂɨŋ²	ʂɨŋ²	ʂ ɨ ŋ ²	ʂ ɨ ŋ ²	HORN (ANATOMY)_294			
-Thổ (Cuối Chăm)_HORN (ANATOMY)_294	Thổ (Cuối Chăm)	thoo1240	tou	HORN (ANATOMY)	kʰrɨŋ²	kʰrɨŋ²	kʰ r ɨ ŋ ²	kʰ r ɨ ŋ ²	HORN (ANATOMY)_294			6.1
+Nguồn_HORN (ANATOMY)_294	Nguồn	nguo1239	nuo	HORN (ANATOMY)	ʃɨŋ2djaj1	ʃɨŋ²djaj¹	ʃ ɨ ŋ ² d j a j ¹	ʃ ɨ ŋ ² d j a j ¹	HORN (ANATOMY)_294			Nguyen1997
+Thổ_HORN (ANATOMY)_294	Thổ	thoo1240	tou	HORN (ANATOMY)	kʰrɨŋ²	kʰrɨŋ²	kʰ r ɨ ŋ ²	kʰ r ɨ ŋ ²	HORN (ANATOMY)_294			6.1
 Hung (Phong)_HORN (ANATOMY)_294	Hung (Phong)	phon1243	hnu	HORN (ANATOMY)	kʰrɨŋ	kʰrɨŋ	kʰ r ɨ ŋ	kʰ r ɨ ŋ	HORN (ANATOMY)_294			Ferlus2017
 Hung (Toum)_HORN (ANATOMY)_294	Hung (Toum)	toum1239	hnu	HORN (ANATOMY)	kʰlʌŋ	kʰlʌŋ	kʰ l ʌ ŋ	kʰ l ʌ ŋ	HORN (ANATOMY)_294			Ferlus2017
 Hung (Liha)_HORN (ANATOMY)_294	Hung (Liha)	lyha1238	hnu	HORN (ANATOMY)	kʰlɔŋ	kʰlɔŋ	kʰ l ɔ ŋ	kʰ l ɔ ŋ	HORN (ANATOMY)_294			Ferlus2017
@@ -721,10 +626,8 @@ Thavưng_HORN (ANATOMY)_296	Thavưng	aheu1239	thm	HORN (ANATOMY)	tkɔːj1	tkɔː
 Vietnamese_HOUSE_298	Vietnamese	viet1252	vie	HOUSE	nhà	ɲaː²¹	ɲ aː ²¹	ɲ aː ²¹	HOUSE_298			
 Mương (Hòa Bình)_HOUSE_298	Mương (Hòa Bình)	muon1246	mtq	HOUSE	ɲaː²	ɲaː²	ɲ aː ²	ɲ aː ²	HOUSE_298			
 Mương (Sơn La)_HOUSE_298	Mương (Sơn La)	muon1246	mtq	HOUSE	ɲaː²	ɲaː²	ɲ aː ²	ɲ aː ²	HOUSE_298			
-Mương (Thanh Hóa)_HOUSE_298	Mương (Thanh Hóa)	muon1246	mtq	HOUSE	ɲaː²	ɲaː²	ɲ aː ²	ɲ aː ²	HOUSE_298			
-Nguồn (Cổ Liêm)_HOUSE_298	Nguồn (Cổ Liêm)	nguo1239	nuo	HOUSE	ɲa2	ɲa²	ɲ a ²	ɲ a ²	HOUSE_298			Nguyen1997
-Thổ (Làng Lỡ)_HOUSE_298	Thổ (Làng Lỡ)	thoo1240	tou	HOUSE	ɲaː²	ɲaː²	ɲ aː ²	ɲ aː ²	HOUSE_298			
-Thổ (Cuối Chăm)_HOUSE_298	Thổ (Cuối Chăm)	thoo1240	tou	HOUSE	ɲɐː²	ɲɐː²	ɲ ɐː ²	ɲ ɐː ²	HOUSE_298			6.1
+Nguồn_HOUSE_298	Nguồn	nguo1239	nuo	HOUSE	ɲa2	ɲa²	ɲ a ²	ɲ a ²	HOUSE_298			Nguyen1997
+Thổ_HOUSE_298	Thổ	thoo1240	tou	HOUSE	ɲɐː²	ɲɐː²	ɲ ɐː ²	ɲ ɐː ²	HOUSE_298			6.1
 Hung (Phong)_HOUSE_298	Hung (Phong)	phon1243	hnu	HOUSE	ɲaː	ɲaː	ɲ aː	ɲ aː	HOUSE_298			Ferlus2017
 Hung (Toum)_HOUSE_298	Hung (Toum)	toum1239	hnu	HOUSE	ɲaː	ɲaː	ɲ aː	ɲ aː	HOUSE_298			Ferlus2017
 Hung (Liha)_HOUSE_298	Hung (Liha)	lyha1238	hnu	HOUSE	ɲaː	ɲaː	ɲ aː	ɲ aː	HOUSE_298			Ferlus2017
@@ -737,11 +640,8 @@ Maleng_HOUSE_301	Maleng	male1282	pkt	HOUSE	kanɒ̰˧˦˧ˀ	kanɒ̰³⁴³	k a n 
 Vietnamese_INSIDE_305	Vietnamese	viet1252	vie	INSIDE	trong	ʈɔŋ͡m³³	ʈ ɔ ŋ͡m ³³	ʈ ɔ ŋm ³³	INSIDE_305			
 Mương (Hòa Bình)_INSIDE_305	Mương (Hòa Bình)	muon1246	mtq	INSIDE	klɔːŋ¹	klɔːŋ¹	k l ɔː ŋ ¹	k l ɔː ŋ ¹	INSIDE_305			
 Mương (Sơn La)_INSIDE_305	Mương (Sơn La)	muon1246	mtq	INSIDE	klɔːŋ¹	klɔːŋ¹	k l ɔː ŋ ¹	k l ɔː ŋ ¹	INSIDE_305			
-Mương (Thanh Hóa)_INSIDE_305	Mương (Thanh Hóa)	muon1246	mtq	INSIDE	ʈɔːŋ¹	ʈɔːŋ¹	ʈ ɔː ŋ ¹	ʈ ɔː ŋ ¹	INSIDE_305			
-Nguồn (Cổ Liêm)_INSIDE_305	Nguồn (Cổ Liêm)	nguo1239	nuo	INSIDE	ʈɔːŋ1	ʈɔːŋ¹	ʈ ɔː ŋ ¹	ʈ ɔː ŋ ¹	INSIDE_305			Nguyen1997
-Nguồn (Yên Thọ)_INSIDE_305	Nguồn (Yên Thọ)	nguo1239	nuo	INSIDE	ʔlɔːŋ1	ʔlɔːŋ¹	ʔ l ɔː ŋ ¹	ʔ l ɔː ŋ ¹	INSIDE_305			Nguyen1997
-Thổ (Làng Lỡ)_INSIDE_305	Thổ (Làng Lỡ)	thoo1240	tou	INSIDE	ʈawŋ¹	ʈawŋ¹	ʈ a w ŋ ¹	ʈ a w ŋ ¹	INSIDE_305			
-Thổ (Cuối Chăm)_INSIDE_305	Thổ (Cuối Chăm)	thoo1240	tou	INSIDE	klɒːŋ¹	klɒːŋ¹	k l ɒː ŋ ¹	k l ɒː ŋ ¹	INSIDE_305			6.1
+Nguồn_INSIDE_305	Nguồn	nguo1239	nuo	INSIDE	ʈɔːŋ1	ʈɔːŋ¹	ʈ ɔː ŋ ¹	ʈ ɔː ŋ ¹	INSIDE_305			Nguyen1997
+Thổ_INSIDE_305	Thổ	thoo1240	tou	INSIDE	klɒːŋ¹	klɒːŋ¹	k l ɒː ŋ ¹	k l ɒː ŋ ¹	INSIDE_305			6.1
 Hung (Phong)_INSIDE_305	Hung (Phong)	phon1243	hnu	INSIDE	klɔːŋ	klɔːŋ	k l ɔː ŋ	k l ɔː ŋ	INSIDE_305			Ferlus2017
 Hung (Toum)_INSIDE_305	Hung (Toum)	toum1239	hnu	INSIDE	klɔːŋ	klɔːŋ	k l ɔː ŋ	k l ɔː ŋ	INSIDE_305			Ferlus2017
 Hung (Liha)_INSIDE_305	Hung (Liha)	lyha1238	hnu	INSIDE	klɔːŋ	klɔːŋ	k l ɔː ŋ	k l ɔː ŋ	INSIDE_305			Ferlus2017
@@ -751,10 +651,8 @@ Chứt (Rục)_INSIDE_305	Chứt (Rục)	rucc1239	scb	INSIDE	klɔŋ	klɔŋ	k l �
 Thavưng_INSIDE_305	Thavưng	aheu1239	thm	INSIDE	kʰəlɔŋ1	kʰəlɔŋ¹	kʰ ə l ɔ ŋ ¹	kʰ ə l ɔ ŋ ¹	INSIDE_305			Ferlus1979
 Maleng_INSIDE_305	Maleng	male1282	pkt	INSIDE	kalɒ̆ŋ˧	kalɒ̆ŋ³	k a l ɒ̆ ŋ ³	k a l ɒ̆ ŋ ³	INSIDE_305			NVlNHH2001
 Vietnamese_KILL_307	Vietnamese	viet1252	vie	KILL	giết	jiːk⁴⁵	j iː k ⁴⁵	j iː k ⁴⁵	KILL_307			
-Nguồn (Cổ Liêm)_KILL_307	Nguồn (Cổ Liêm)	nguo1239	nuo	KILL	jɨet7	jɨet⁵²	j ɨ e t ⁵²	j ɨe t ⁷/⁵²	KILL_307			Nguyen1997
-Nguồn (Yên Thọ)_KILL_307	Nguồn (Yên Thọ)	nguo1239	nuo	KILL	ziet7	zjet⁵²	z j e t ⁵²	z i/j e t ⁷/⁵²	KILL_307			Nguyen1997
-Thổ (Làng Lỡ)_KILL_307	Thổ (Làng Lỡ)	thoo1240	tou	KILL	jiɛt⁷	jjɛt⁵²	j j ɛ t ⁵²	j i/j ɛ t ⁷/⁵²	KILL_307			
-Thổ (Cuối Chăm)_KILL_307	Thổ (Cuối Chăm)	thoo1240	tou	KILL	jiɛt⁷	jjɛt⁵²	j j ɛ t ⁵²	j i/j ɛ t ⁷/⁵²	KILL_307			6.1
+Nguồn_KILL_307	Nguồn	nguo1239	nuo	KILL	jɨet7	jɨet⁵²	j ɨ e t ⁵²	j ɨe t ⁷/⁵²	KILL_307			Nguyen1997
+Thổ_KILL_307	Thổ	thoo1240	tou	KILL	jiɛt⁷	jjɛt⁵²	j j ɛ t ⁵²	j i/j ɛ t ⁷/⁵²	KILL_307			6.1
 Hung (Phong)_KILL_307	Hung (Phong)	phon1243	hnu	KILL	pceːt	pceːt	p c eː t	p c eː t	KILL_307			Ferlus2017
 Hung (Liha)_KILL_307	Hung (Liha)	lyha1238	hnu	KILL	ʄiɛt CHECK	ʄjɛth	ʄ j ɛ t h	ʄ i/j ɛ t H/h	KILL_307			Ferlus2017
 Chứt (Sách)_KILL_307	Chứt (Sách)	sach1240	scb	KILL	kəciːt⁷	kəciːt⁵²	k ə c iː t ⁵²	k ə c iː t ⁷/⁵²	KILL_307			Ferlus2007
@@ -763,9 +661,7 @@ Chứt (Rục)_KILL_307	Chứt (Rục)	rucc1239	scb	KILL	kacít	kacit	k a c i t	
 Arem_KILL_307	Arem	arem1240	aem	KILL	katɕit	kaʨit	k a ʨ i t	k a tɕ i t	KILL_307			Kasuga2008
 Thavưng_KILL_308	Thavưng	aheu1239	thm	KILL	pɔh1	pɔh¹	p ɔ h ¹	p ɔ h ¹	KILL_308			Ferlus1979
 Vietnamese_KNEE_312	Vietnamese	viet1252	vie	KNEE	đầu gối	ɗəu̯²¹ɡoːi̯⁴⁵	ɗ ə u̯ ²¹ ɡ oː i̯ ⁴⁵	ɗ əu̯ ²¹ ɡ oːi̯ ⁴⁵	KNEE_312			
-Mương (Thanh Hóa)_KNEE_312	Mương (Thanh Hóa)	muon1246	mtq	KNEE	koːn³	koːn³	k oː n ³	k oː n ³	KNEE_312			
-Nguồn (Cổ Liêm)_KNEE_312	Nguồn (Cổ Liêm)	nguo1239	nuo	KNEE	ʈok7kon3	ʈok⁵²kon³	ʈ o k ⁵² k o n ³	ʈ o k ⁷/⁵² k o n ³	KNEE_312			Nguyen1997
-Nguồn (Yên Thọ)_KNEE_312	Nguồn (Yên Thọ)	nguo1239	nuo	KNEE	lok7kun3	lok⁵²kun³	l o k ⁵² k u n ³	l o k ⁷/⁵² k u n ³	KNEE_312			Nguyen1997
+Nguồn_KNEE_312	Nguồn	nguo1239	nuo	KNEE	ʈok7kon3	ʈok⁵²kon³	ʈ o k ⁵² k o n ³	ʈ o k ⁷/⁵² k o n ³	KNEE_312			Nguyen1997
 Hung (Toum)_KNEE_312	Hung (Toum)	toum1239	hnu	KNEE	kulkuːl	kulkuːl	k u l k uː l	k u l k uː l	KNEE_312			Ferlus2017
 Hung (Liha)_KNEE_312	Hung (Liha)	lyha1238	hnu	KNEE	kunkuːn	kunkuːn	k u n k uː n	k u n k uː n	KNEE_312			Ferlus2017
 Chứt (Sách)_KNEE_312	Chứt (Sách)	sach1240	scb	KNEE	təkuːl³	təkuːl³	t ə k uː l ³	t ə k uː l ³	KNEE_312			Ferlus2007
@@ -784,11 +680,8 @@ Maleng_KNOW (SOMETHING)_318	Maleng	male1282	pkt	KNOW (SOMETHING)	ɬo˧˦˧ˀ (< 
 Vietnamese_LEAF_322	Vietnamese	viet1252	vie	LEAF	lá	laː⁴⁵	l aː ⁴⁵	l aː ⁴⁵	LEAF_322			
 Mương (Hòa Bình)_LEAF_322	Mương (Hòa Bình)	muon1246	mtq	LEAF	laː³	laː³	l aː ³	l aː ³	LEAF_322			
 Mương (Sơn La)_LEAF_322	Mương (Sơn La)	muon1246	mtq	LEAF	laː³	laː³	l aː ³	l aː ³	LEAF_322			
-Mương (Thanh Hóa)_LEAF_322	Mương (Thanh Hóa)	muon1246	mtq	LEAF	laː³	laː³	l aː ³	l aː ³	LEAF_322			
-Nguồn (Cổ Liêm)_LEAF_322	Nguồn (Cổ Liêm)	nguo1239	nuo	LEAF	la3	la³	l a ³	l a ³	LEAF_322			Nguyen1997
-Nguồn (Yên Thọ)_LEAF_322	Nguồn (Yên Thọ)	nguo1239	nuo	LEAF	la3	la³	l a ³	l a ³	LEAF_322			Nguyen1997
-Thổ (Làng Lỡ)_LEAF_322	Thổ (Làng Lỡ)	thoo1240	tou	LEAF	laː³	laː³	l aː ³	l aː ³	LEAF_322			
-Thổ (Cuối Chăm)_LEAF_322	Thổ (Cuối Chăm)	thoo1240	tou	LEAF	laː³	laː³	l aː ³	l aː ³	LEAF_322			6.1
+Nguồn_LEAF_322	Nguồn	nguo1239	nuo	LEAF	la3	la³	l a ³	l a ³	LEAF_322			Nguyen1997
+Thổ_LEAF_322	Thổ	thoo1240	tou	LEAF	laː³	laː³	l aː ³	l aː ³	LEAF_322			6.1
 Hung (Phong)_LEAF_322	Hung (Phong)	phon1243	hnu	LEAF	laː	laː	l aː	l aː	LEAF_322			Ferlus2017
 Hung (Toum)_LEAF_322	Hung (Toum)	toum1239	hnu	LEAF	laː	laː	l aː	l aː	LEAF_322			Ferlus2017
 Hung (Liha)_LEAF_322	Hung (Liha)	lyha1238	hnu	LEAF	laː	laː	l aː	l aː	LEAF_322			Ferlus2017
@@ -799,7 +692,7 @@ Arem_LEAF_322	Arem	arem1240	aem	LEAF	ulɛa̯ʔ	ulɛa̯ʔ	u l ɛ a̯ ʔ	u l ɛa̯
 Thavưng_LEAF_322	Thavưng	aheu1239	thm	LEAF	slaː4	slaː⁴	s l aː ⁴	s l aː ⁴	LEAF_322			Ferlus1979
 Maleng_LEAF_322	Maleng	male1282	pkt	LEAF	salwa̰˧˦˧ˀ	salwa̰³⁴³	s a l w a̰ ³⁴³	s a l w a̰ ³⁴³ˀ/³⁴³	LEAF_322			NVlNHH2001
 Vietnamese_LIE (REST)_324	Vietnamese	viet1252	vie	LIE (REST)	nǎ̀m	năm²¹	n ă m ²¹	n à/a m	LIE (REST)_324			
-Nguồn (Cổ Liêm)_LIE (REST)_324	Nguồn (Cổ Liêm)	nguo1239	nuo	LIE (REST)	năm2	năm²	n ă m ²	n ă m ²	LIE (REST)_324			Nguyen1997
+Nguồn_LIE (REST)_324	Nguồn	nguo1239	nuo	LIE (REST)	năm2	năm²	n ă m ²	n ă m ²	LIE (REST)_324			Nguyen1997
 Hung (Toum)_LIE (REST)_324	Hung (Toum)	toum1239	hnu	LIE (REST)	lam	lam	l a m	l a m	LIE (REST)_324			Ferlus2017
 Chứt (Sách)_LIE (REST)_325	Chứt (Sách)	sach1240	scb	LIE (REST)	təŋah¹	təŋah¹	t ə ŋ a h ¹	t ə ŋ a h ¹	LIE (REST)_325			Ferlus2007
 Chứt (Mày)_LIE (REST)_326	Chứt (Mày)	mayy1239	scb	LIE (REST)	ɲă̤p⁴	ɲap⁴	ɲ a p ⁴	ɲ ă̤/a p ⁴	LIE (REST)_326			Babaev2018
@@ -810,10 +703,8 @@ Maleng_LIE (REST)_324	Maleng	male1282	pkt	LIE (REST)	năm324	năm³²⁴	n ă
 Vietnamese_LIVER_331	Vietnamese	viet1252	vie	LIVER	gan	ɡaːŋ³³	ɡ aː ŋ ³³	ɡ aː ŋ ³³	LIVER_331			
 Mương (Hòa Bình)_LIVER_332	Mương (Hòa Bình)	muon1246	mtq	LIVER	lɔːm²	lɔːm²	l ɔː m ²	l ɔː m ²	LIVER_332			
 Mương (Sơn La)_LIVER_332	Mương (Sơn La)	muon1246	mtq	LIVER	lɔːm²	lɔːm²	l ɔː m ²	l ɔː m ²	LIVER_332			
-Mương (Thanh Hóa)_LIVER_332	Mương (Thanh Hóa)	muon1246	mtq	LIVER	lɔːm²	lɔːm²	l ɔː m ²	l ɔː m ²	LIVER_332			
-Nguồn (Cổ Liêm)_LIVER_331	Nguồn (Cổ Liêm)	nguo1239	nuo	LIVER	kan1	kan¹	k a n ¹	k a n ¹	LIVER_331			Nguyen1997
-Thổ (Làng Lỡ)_LIVER_333	Thổ (Làng Lỡ)	thoo1240	tou	LIVER	ɣaːn¹	ɣaːn¹	ɣ aː n ¹	ɣ aː n ¹	LIVER_333			
-Thổ (Cuối Chăm)_LIVER_332	Thổ (Cuối Chăm)	thoo1240	tou	LIVER	lɔːm²	lɔːm²	l ɔː m ²	l ɔː m ²	LIVER_332			6.1
+Nguồn_LIVER_331	Nguồn	nguo1239	nuo	LIVER	kan1	kan¹	k a n ¹	k a n ¹	LIVER_331			Nguyen1997
+Thổ_LIVER_332	Thổ	thoo1240	tou	LIVER	lɔːm²	lɔːm²	l ɔː m ²	l ɔː m ²	LIVER_332			6.1
 Hung (Phong)_LIVER_332	Hung (Phong)	phon1243	hnu	LIVER	lɔːm	lɔːm	l ɔː m	l ɔː m	LIVER_332			Ferlus2017
 Hung (Toum)_LIVER_332	Hung (Toum)	toum1239	hnu	LIVER	lɔːm	lɔːm	l ɔː m	l ɔː m	LIVER_332			Ferlus2017
 Hung (Liha)_LIVER_332	Hung (Liha)	lyha1238	hnu	LIVER	lɔːm	lɔːm	l ɔː m	l ɔː m	LIVER_332			Ferlus2017
@@ -826,11 +717,8 @@ Maleng_LIVER_332	Maleng	male1282	pkt	LIVER	lɒm324	lɒm³²⁴	l ɒ m ³²⁴	l 
 Vietnamese_LONG_336	Vietnamese	viet1252	vie	LONG	dài	jaːi̯²¹	j aː i̯ ²¹	j aːi̯ ²¹	LONG_336			
 Mương (Hòa Bình)_LONG_336	Mương (Hòa Bình)	muon1246	mtq	LONG	zaːj²	zaːj²	z aː j ²	z aː j ²	LONG_336			
 Mương (Sơn La)_LONG_336	Mương (Sơn La)	muon1246	mtq	LONG	zaːj²	zaːj²	z aː j ²	z aː j ²	LONG_336			
-Mương (Thanh Hóa)_LONG_336	Mương (Thanh Hóa)	muon1246	mtq	LONG	zaːj²	zaːj²	z aː j ²	z aː j ²	LONG_336			
-Nguồn (Cổ Liêm)_LONG_336	Nguồn (Cổ Liêm)	nguo1239	nuo	LONG	jaj2	jaj²	j a j ²	j a j ²	LONG_336			Nguyen1997
-Nguồn (Yên Thọ)_LONG_336	Nguồn (Yên Thọ)	nguo1239	nuo	LONG	zaj2	zaj²	z a j ²	z a j ²	LONG_336			Nguyen1997
-Thổ (Làng Lỡ)_LONG_337	Thổ (Làng Lỡ)	thoo1240	tou	LONG	juan¹	jwan¹	j w a n ¹	j u/w a n ¹	LONG_337			
-Thổ (Cuối Chăm)_LONG_337	Thổ (Cuối Chăm)	thoo1240	tou	LONG	jɔːn¹	jɔːn¹	j ɔː n ¹	j ɔː n ¹	LONG_337			6.1
+Nguồn_LONG_336	Nguồn	nguo1239	nuo	LONG	jaj2	jaj²	j a j ²	j a j ²	LONG_336			Nguyen1997
+Thổ_LONG_337	Thổ	thoo1240	tou	LONG	jɔːn¹	jɔːn¹	j ɔː n ¹	j ɔː n ¹	LONG_337			6.1
 Hung (Phong)_LONG_337	Hung (Phong)	phon1243	hnu	LONG	joːn	joːn	j oː n	j oː n	LONG_337			Ferlus2017
 Hung (Toum)_LONG_337	Hung (Toum)	toum1239	hnu	LONG	jɔːn	jɔːn	j ɔː n	j ɔː n	LONG_337			Ferlus2017
 Hung (Liha)_LONG_337	Hung (Liha)	lyha1238	hnu	LONG	jaon	jaon	j a o n	j ao n	LONG_337			Ferlus2017
@@ -843,11 +731,8 @@ Maleng_LONG_337	Maleng	male1282	pkt	LONG	zon˧	zon³	z o n ³	z o n ³	LONG_337	
 Vietnamese_HEAD LOUSE_342	Vietnamese	viet1252	vie	HEAD LOUSE	chấy	cəi̯⁴⁵	c ə i̯ ⁴⁵	c əi̯ ⁴⁵	HEAD LOUSE_342			
 Mương (Hòa Bình)_HEAD LOUSE_342	Mương (Hòa Bình)	muon1246	mtq	HEAD LOUSE	ciː³	ciː³	c iː ³	c iː ³	HEAD LOUSE_342			
 Mương (Sơn La)_HEAD LOUSE_342	Mương (Sơn La)	muon1246	mtq	HEAD LOUSE	ciː³	ciː³	c iː ³	c iː ³	HEAD LOUSE_342			
-Mương (Thanh Hóa)_HEAD LOUSE_342	Mương (Thanh Hóa)	muon1246	mtq	HEAD LOUSE	ciː³	ciː³	c iː ³	c iː ³	HEAD LOUSE_342			
-Nguồn (Cổ Liêm)_HEAD LOUSE_342	Nguồn (Cổ Liêm)	nguo1239	nuo	HEAD LOUSE	si3	si³	s i ³	s i ³	HEAD LOUSE_342			Nguyen1997
-Nguồn (Yên Thọ)_HEAD LOUSE_342	Nguồn (Yên Thọ)	nguo1239	nuo	HEAD LOUSE	ci3	ci³	c i ³	c i ³	HEAD LOUSE_342			Nguyen1997
-Thổ (Làng Lỡ)_HEAD LOUSE_342	Thổ (Làng Lỡ)	thoo1240	tou	HEAD LOUSE	ciː³	ciː³	c iː ³	c iː ³	HEAD LOUSE_342			
-Thổ (Cuối Chăm)_HEAD LOUSE_342	Thổ (Cuối Chăm)	thoo1240	tou	HEAD LOUSE	ciː³	ciː³	c iː ³	c iː ³	HEAD LOUSE_342			6.1
+Nguồn_HEAD LOUSE_342	Nguồn	nguo1239	nuo	HEAD LOUSE	si3	si³	s i ³	s i ³	HEAD LOUSE_342			Nguyen1997
+Thổ_HEAD LOUSE_342	Thổ	thoo1240	tou	HEAD LOUSE	ciː³	ciː³	c iː ³	c iː ³	HEAD LOUSE_342			6.1
 Hung (Phong)_HEAD LOUSE_342	Hung (Phong)	phon1243	hnu	HEAD LOUSE	ciː	ciː	c iː	c iː	HEAD LOUSE_342			Ferlus2017
 Hung (Toum)_HEAD LOUSE_342	Hung (Toum)	toum1239	hnu	HEAD LOUSE	cei	cei	c e i	c ei	HEAD LOUSE_342			Ferlus2017
 Hung (Liha)_HEAD LOUSE_342	Hung (Liha)	lyha1238	hnu	HEAD LOUSE	cəi	cəi	c ə i	c əi	HEAD LOUSE_342			Ferlus2017
@@ -860,9 +745,8 @@ Maleng_HEAD LOUSE_342	Maleng	male1282	pkt	HEAD LOUSE	cḭ˦˧ˀ	cḭ⁴³	c ḭ 
 Vietnamese_BODY LOUSE_345	Vietnamese	viet1252	vie	BODY LOUSE	rận	ɹəŋ²¹²	ɹ ə ŋ ²¹²	r ə ŋ ²¹²	BODY LOUSE_345			
 Mương (Hòa Bình)_BODY LOUSE_345	Mương (Hòa Bình)	muon1246	mtq	BODY LOUSE	kʰiɲ³	kʰiɲ³	kʰ i ɲ ³	kʰ i ɲ ³	BODY LOUSE_345			
 Mương (Sơn La)_BODY LOUSE_345	Mương (Sơn La)	muon1246	mtq	BODY LOUSE	fəɲ⁴⁶	fəɲ⁴⁵	f ə ɲ ⁴⁵	f ə ɲ ⁴⁶/⁴⁵	BODY LOUSE_345			
-Nguồn (Cổ Liêm)_BODY LOUSE_345	Nguồn (Cổ Liêm)	nguo1239	nuo	BODY LOUSE	reɲ4	reɲ⁴	r e ɲ ⁴	r e ɲ ⁴	BODY LOUSE_345			Nguyen1997
-Thổ (Làng Lỡ)_BODY LOUSE_345	Thổ (Làng Lỡ)	thoo1240	tou	BODY LOUSE	siɲ³	siɲ³	s i ɲ ³	s i ɲ ³	BODY LOUSE_345			
-Thổ (Cuối Chăm)_BODY LOUSE_345	Thổ (Cuối Chăm)	thoo1240	tou	BODY LOUSE	pʰriɲ³	pʰriɲ³	pʰ r i ɲ ³	pʰ r i ɲ ³	BODY LOUSE_345			6.1
+Nguồn_BODY LOUSE_345	Nguồn	nguo1239	nuo	BODY LOUSE	reɲ4	reɲ⁴	r e ɲ ⁴	r e ɲ ⁴	BODY LOUSE_345			Nguyen1997
+Thổ_BODY LOUSE_345	Thổ	thoo1240	tou	BODY LOUSE	pʰriɲ³	pʰriɲ³	pʰ r i ɲ ³	pʰ r i ɲ ³	BODY LOUSE_345			6.1
 Hung (Phong)_BODY LOUSE_345	Hung (Phong)	phon1243	hnu	BODY LOUSE	pʰliŋ	pʰliŋ	pʰ l i ŋ	pʰ l i ŋ	BODY LOUSE_345			Ferlus2017
 Hung (Toum)_BODY LOUSE_345	Hung (Toum)	toum1239	hnu	BODY LOUSE	pʰlɛɲ	pʰlɛɲ	pʰ l ɛ ɲ	pʰ l ɛ ɲ	BODY LOUSE_345			Ferlus2017
 Hung (Liha)_BODY LOUSE_345	Hung (Liha)	lyha1238	hnu	BODY LOUSE	pʰlʌɲ	pʰlʌɲ	pʰ l ʌ ɲ	pʰ l ʌ ɲ	BODY LOUSE_345			Ferlus2017
@@ -884,10 +768,8 @@ Maleng_DO OR MAKE_352	Maleng	male1282	pkt	DO OR MAKE	mɛ˧˦	mɛ³⁴	m ɛ ³⁴
 Vietnamese_MOON_356	Vietnamese	viet1252	vie	MOON	trǎng	ʈăŋ³³	ʈ ă ŋ ³³	t r ǎ/a n g	MOON_356			
 Mương (Hòa Bình)_MOON_356	Mương (Hòa Bình)	muon1246	mtq	MOON	klaŋ¹	klaŋ¹	k l a ŋ ¹	k l a ŋ ¹	MOON_356			
 Mương (Sơn La)_MOON_356	Mương (Sơn La)	muon1246	mtq	MOON	plaŋ¹	plaŋ¹	p l a ŋ ¹	p l a ŋ ¹	MOON_356			
-Mương (Thanh Hóa)_MOON_356	Mương (Thanh Hóa)	muon1246	mtq	MOON	ʈaŋ¹	ʈaŋ¹	ʈ a ŋ ¹	ʈ a ŋ ¹	MOON_356			
-Nguồn (Cổ Liêm)_MOON_356	Nguồn (Cổ Liêm)	nguo1239	nuo	MOON	măt8ʈăŋ1	măt⁵³ʈăŋ¹	m ă t ⁵³ ʈ ă ŋ ¹	m ă t ⁸/⁵³ ʈ ă ŋ ¹	MOON_356			Nguyen1997
-Nguồn (Yên Thọ)_MOON_356	Nguồn (Yên Thọ)	nguo1239	nuo	MOON	măt8lăŋ1	măt⁵³lăŋ¹	m ă t ⁵³ l ă ŋ ¹	m ă t ⁸/⁵³ l ă ŋ ¹	MOON_356			Nguyen1997
-Thổ (Cuối Chăm)_MOON_356	Thổ (Cuối Chăm)	thoo1240	tou	MOON	plɔŋ² ( v! )	plɔŋ²	p l ɔ ŋ ²	p l ɔ ŋ ²	MOON_356			6.1
+Nguồn_MOON_356	Nguồn	nguo1239	nuo	MOON	măt8ʈăŋ1	măt⁵³ʈăŋ¹	m ă t ⁵³ ʈ ă ŋ ¹	m ă t ⁸/⁵³ ʈ ă ŋ ¹	MOON_356			Nguyen1997
+Thổ_MOON_356	Thổ	thoo1240	tou	MOON	plɔŋ² ( v! )	plɔŋ²	p l ɔ ŋ ²	p l ɔ ŋ ²	MOON_356			6.1
 Hung (Phong)_MOON_356	Hung (Phong)	phon1243	hnu	MOON	plɔːŋ	plɔːŋ	p l ɔː ŋ	p l ɔː ŋ	MOON_356			Ferlus2017
 Hung (Toum)_MOON_356	Hung (Toum)	toum1239	hnu	MOON	plɔoŋ	plɔoŋ	p l ɔ o ŋ	p l ɔo ŋ	MOON_356			Ferlus2017
 Hung (Liha)_MOON_356	Hung (Liha)	lyha1238	hnu	MOON	plɔːŋ	plɔːŋ	p l ɔː ŋ	p l ɔː ŋ	MOON_356			Ferlus2017
@@ -900,11 +782,8 @@ Maleng_MOON_362	Maleng	male1282	pkt	MOON	thala324	tʰala³²⁴	tʰ a l a ³²�
 Vietnamese_MOUNTAIN_366	Vietnamese	viet1252	vie	MOUNTAIN	núi "mountain"; đồi "hill"	nui̯⁴⁵	n u i̯ ⁴⁵	n ui̯ ⁴⁵	MOUNTAIN_366			
 Mương (Hòa Bình)_MOUNTAIN_367	Mương (Hòa Bình)	muon1246	mtq	MOUNTAIN	toːə²	toːə²	t oː ə ²	t oːə ²	MOUNTAIN_367			
 Mương (Sơn La)_MOUNTAIN_367	Mương (Sơn La)	muon1246	mtq	MOUNTAIN	toːl²	toːl²	t oː l ²	t oː l ²	MOUNTAIN_367			
-Mương (Thanh Hóa)_MOUNTAIN_367	Mương (Thanh Hóa)	muon1246	mtq	MOUNTAIN	doːn²	doːn²	d oː n ²	d oː n ²	MOUNTAIN_367			
-Nguồn (Cổ Liêm)_MOUNTAIN_368	Nguồn (Cổ Liêm)	nguo1239	nuo	MOUNTAIN	lɛn2ta3	lɛn²ta³	l ɛ n ² t a ³	l ɛ n ² t a ³	MOUNTAIN_368			Nguyen1997
-Nguồn (Yên Thọ)_MOUNTAIN_369	Nguồn (Yên Thọ)	nguo1239	nuo	MOUNTAIN	ru3	ru³	r u ³	r u ³	MOUNTAIN_369			Nguyen1997
-Thổ (Làng Lỡ)_MOUNTAIN_370	Thổ (Làng Lỡ)	thoo1240	tou	MOUNTAIN	nuːj³ (Viet loan)	nuːj³	n uː j ³	n uː j ³	MOUNTAIN_370			
-Thổ (Cuối Chăm)_MOUNTAIN_369	Thổ (Cuối Chăm)	thoo1240	tou	MOUNTAIN	pʰraw³	pʰraw³	pʰ r a w ³	pʰ r a w ³	MOUNTAIN_369			6.1
+Nguồn_MOUNTAIN_368	Nguồn	nguo1239	nuo	MOUNTAIN	lɛn2ta3	lɛn²ta³	l ɛ n ² t a ³	l ɛ n ² t a ³	MOUNTAIN_368			Nguyen1997
+Thổ_MOUNTAIN_369	Thổ	thoo1240	tou	MOUNTAIN	pʰraw³	pʰraw³	pʰ r a w ³	pʰ r a w ³	MOUNTAIN_369			6.1
 Hung (Phong)_MOUNTAIN_369	Hung (Phong)	phon1243	hnu	MOUNTAIN	pʰluː	pʰluː	pʰ l uː	pʰ l uː	MOUNTAIN_369			Ferlus2017
 Hung (Toum)_MOUNTAIN_369	Hung (Toum)	toum1239	hnu	MOUNTAIN	pʰlow	pʰlow	pʰ l o w	pʰ l o w	MOUNTAIN_369			Ferlus2017
 Hung (Liha)_MOUNTAIN_369	Hung (Liha)	lyha1238	hnu	MOUNTAIN	pʰlow	pʰlow	pʰ l o w	pʰ l o w	MOUNTAIN_369			Ferlus2017
@@ -917,9 +796,8 @@ Maleng_MOUNTAIN_370	Maleng	male1282	pkt	MOUNTAIN	phŏn˧˦˧ˀ (Lao ໂພນ)	
 Vietnamese_MOUTH_379	Vietnamese	viet1252	vie	MOUTH	miệng, mồm	miːŋ²¹²	m iː ŋ ²¹²	m iː ŋ ²¹²	MOUTH_379			
 Mương (Hòa Bình)_MOUTH_380	Mương (Hòa Bình)	muon1246	mtq	MOUTH	moːm²	moːm²	m oː m ²	m oː m ²	MOUTH_380			
 Mương (Sơn La)_MOUTH_380	Mương (Sơn La)	muon1246	mtq	MOUTH	moːm² / mɛːŋ⁴	moːm²	m oː m ²	m oː m ²	MOUTH_380			
-Mương (Thanh Hóa)_MOUTH_380	Mương (Thanh Hóa)	muon1246	mtq	MOUTH	moːm²	moːm²	m oː m ²	m oː m ²	MOUTH_380			
-Nguồn (Cổ Liêm)_MOUTH_380	Nguồn (Cổ Liêm)	nguo1239	nuo	MOUTH	mom2	mom²	m o m ²	m o m ²	MOUTH_380			Nguyen1997
-Thổ (Cuối Chăm)_MOUTH_380	Thổ (Cuối Chăm)	thoo1240	tou	MOUTH	mɔːm¹ ( t! )	mɔːm¹	m ɔː m ¹	m ɔː m ¹	MOUTH_380			6.1
+Nguồn_MOUTH_380	Nguồn	nguo1239	nuo	MOUTH	mom2	mom²	m o m ²	m o m ²	MOUTH_380			Nguyen1997
+Thổ_MOUTH_380	Thổ	thoo1240	tou	MOUTH	mɔːm¹ ( t! )	mɔːm¹	m ɔː m ¹	m ɔː m ¹	MOUTH_380			6.1
 Chứt (Sách)_MOUTH_382	Chứt (Sách)	sach1240	scb	MOUTH	kaːŋ³	kaːŋ³	k aː ŋ ³	k aː ŋ ³	MOUTH_382			Ferlus2007
 Chứt (Mày)_MOUTH_382	Chứt (Mày)	mayy1239	scb	MOUTH	kaŋ³	kaŋ³	k a ŋ ³	k a ŋ ³	MOUTH_382			Babaev2018
 Chứt (Rục)_MOUTH_382	Chứt (Rục)	rucc1239	scb	MOUTH	káŋ	kaŋ	k a ŋ	k á/a ŋ	MOUTH_382			Nguyen/Tran/Ferlus1998
@@ -929,8 +807,6 @@ Maleng_MOUTH_379	Maleng	male1282	pkt	MOUTH	mɜ̆ɳ˧˦	mɜ̆ɳ³⁴	m ɜ̆ ɳ ³
 Vietnamese_NAVEL_387	Vietnamese	viet1252	vie	NAVEL	rốn	ɹoŋ⁴⁵	ɹ o ŋ ⁴⁵	r o ŋ ⁴⁵	NAVEL_387			
 Mương (Hòa Bình)_NAVEL_387	Mương (Hòa Bình)	muon1246	mtq	NAVEL	tʰuːɲ³	tʰuːɲ³	tʰ uː ɲ ³	tʰ uː ɲ ³	NAVEL_387			
 Mương (Sơn La)_NAVEL_387	Mương (Sơn La)	muon1246	mtq	NAVEL	suːɲ³ / soːɲ³	suːɲ³	s uː ɲ ³	s uː ɲ ³	NAVEL_387			
-Mương (Thanh Hóa)_NAVEL_387	Mương (Thanh Hóa)	muon1246	mtq	NAVEL	suːɲ³	suːɲ³	s uː ɲ ³	s uː ɲ ³	NAVEL_387			
-Nguồn (Yên Thọ)_NAVEL_387	Nguồn (Yên Thọ)	nguo1239	nuo	NAVEL	ɲə4lo6t'un3	ɲə⁴lo⁵¹tun³	ɲ ə ⁴ l o ⁵¹ t u n ³	ɲ ə ⁴ l o ⁶/⁵¹ t u n ³	NAVEL_387			Nguyen1997
 Hung (Phong)_NAVEL_387	Hung (Phong)	phon1243	hnu	NAVEL	suːn	suːn	s uː n	s uː n	NAVEL_387			Ferlus2017
 Hung (Liha)_NAVEL_387	Hung (Liha)	lyha1238	hnu	NAVEL	suːɲ	suːɲ	s uː ɲ	s uː ɲ	NAVEL_387			Ferlus2017
 Chứt (Sách)_NAVEL_388	Chứt (Sách)	sach1240	scb	NAVEL	duduːl³	duduːl³	d u d uː l ³	d u d uː l ³	NAVEL_388			Ferlus2007
@@ -942,9 +818,7 @@ Maleng_NAVEL_387	Maleng	male1282	pkt	NAVEL	masuɳ˦	masuɳ⁴	m a s u ɳ ⁴	m a
 Vietnamese_NECK_393	Vietnamese	viet1252	vie	NECK	cổ	koː²¹⁴	k oː ²¹⁴	k oː ²¹⁴	NECK_393			
 Mương (Hòa Bình)_NECK_394	Mương (Hòa Bình)	muon1246	mtq	NECK	kɛːə¹	kɛːə¹	k ɛː ə ¹	k ɛːə ¹	NECK_394			
 Mương (Sơn La)_NECK_394	Mương (Sơn La)	muon1246	mtq	NECK	kɛːl¹	kɛːl¹	k ɛː l ¹	k ɛː l ¹	NECK_394			
-Mương (Thanh Hóa)_NECK_394	Mương (Thanh Hóa)	muon1246	mtq	NECK	kɛːn¹	kɛːn¹	k ɛː n ¹	k ɛː n ¹	NECK_394			
-Nguồn (Cổ Liêm)_NECK_393	Nguồn (Cổ Liêm)	nguo1239	nuo	NECK	ko5	ko⁵	k o ⁵	k o ⁵	NECK_393			Nguyen1997
-Nguồn (Yên Thọ)_NECK_395	Nguồn (Yên Thọ)	nguo1239	nuo	NECK	hɔːŋ4	hɔːŋ⁴	h ɔː ŋ ⁴	h ɔː ŋ ⁴	NECK_395			Nguyen1997
+Nguồn_NECK_393	Nguồn	nguo1239	nuo	NECK	ko5	ko⁵	k o ⁵	k o ⁵	NECK_393			Nguyen1997
 Hung (Phong)_NECK_393	Hung (Phong)	phon1243	hnu	NECK	koː	koː	k oː	k oː	NECK_393			Ferlus2017
 Hung (Toum)_NECK_393	Hung (Toum)	toum1239	hnu	NECK	kaw	kaw	k a w	k a w	NECK_393			Ferlus2017
 Hung (Liha)_NECK_393	Hung (Liha)	lyha1238	hnu	NECK	kaw	kaw	k a w	k a w	NECK_393			Ferlus2017
@@ -957,9 +831,8 @@ Maleng_NECK_396	Maleng	male1282	pkt	NECK	katăŋ˧	katăŋ³	k a t ă ŋ ³	k
 Vietnamese_NEW_402	Vietnamese	viet1252	vie	NEW	mới	məːi̯⁴⁵	m əː i̯ ⁴⁵	m əːi̯ ⁴⁵	NEW_402			
 Mương (Hòa Bình)_NEW_402	Mương (Hòa Bình)	muon1246	mtq	NEW	məːj³	məːj³	m əː j ³	m əː j ³	NEW_402			
 Mương (Sơn La)_NEW_402	Mương (Sơn La)	muon1246	mtq	NEW	məːj³	məːj³	m əː j ³	m əː j ³	NEW_402			
-Nguồn (Cổ Liêm)_NEW_402	Nguồn (Cổ Liêm)	nguo1239	nuo	NEW	məj3	məj³	m ə j ³	m ə j ³	NEW_402			Nguyen1997
-Thổ (Làng Lỡ)_NEW_402	Thổ (Làng Lỡ)	thoo1240	tou	NEW	bəːj³	bəːj³	b əː j ³	b əː j ³	NEW_402			
-Thổ (Cuối Chăm)_NEW_402	Thổ (Cuối Chăm)	thoo1240	tou	NEW	bəːj³	bəːj³	b əː j ³	b əː j ³	NEW_402			6.1
+Nguồn_NEW_402	Nguồn	nguo1239	nuo	NEW	məj3	məj³	m ə j ³	m ə j ³	NEW_402			Nguyen1997
+Thổ_NEW_402	Thổ	thoo1240	tou	NEW	bəːj³	bəːj³	b əː j ³	b əː j ³	NEW_402			6.1
 Hung (Phong)_NEW_402	Hung (Phong)	phon1243	hnu	NEW	bəːj	bəːj	b əː j	b əː j	NEW_402			Ferlus2017
 Hung (Toum)_NEW_402	Hung (Toum)	toum1239	hnu	NEW	baəj	baəj	b a ə j	b aə j	NEW_402			Ferlus2017
 Hung (Liha)_NEW_402	Hung (Liha)	lyha1238	hnu	NEW	baːj	baːj	b aː j	b aː j	NEW_402			Ferlus2017
@@ -969,10 +842,8 @@ Chứt (Rục)_NEW_402	Chứt (Rục)	rucc1239	scb	NEW	bə̀j	bəj	b ə j	b ə̀
 Arem_NEW_402	Arem	arem1240	aem	NEW	mɛa̯h	mɛa̯h	m ɛ a̯ h	m ɛa̯ h	NEW_402			Kasuga2008
 Maleng_NEW_402	Maleng	male1282	pkt	NEW	tamə324	tamə³²⁴	t a m ə ³²⁴	t a m ə ³²⁴	NEW_402			NVlNHH2001
 Vietnamese_NIGHT_404	Vietnamese	viet1252	vie	NIGHT	đêm	ɗeːm³³	ɗ eː m ³³	ɗ eː m ³³	NIGHT_404			
-Nguồn (Cổ Liêm)_NIGHT_404	Nguồn (Cổ Liêm)	nguo1239	nuo	NIGHT	tem1	tem¹	t e m ¹	t e m ¹	NIGHT_404			Nguyen1997
-Nguồn (Yên Thọ)_NIGHT_404	Nguồn (Yên Thọ)	nguo1239	nuo	NIGHT	ʔem1	ʔem¹	ʔ e m ¹	ʔ e m ¹	NIGHT_404			Nguyen1997
-Thổ (Làng Lỡ)_NIGHT_404	Thổ (Làng Lỡ)	thoo1240	tou	NIGHT	teːm¹	teːm¹	t eː m ¹	t eː m ¹	NIGHT_404			
-Thổ (Cuối Chăm)_NIGHT_404	Thổ (Cuối Chăm)	thoo1240	tou	NIGHT	teːm¹	teːm¹	t eː m ¹	t eː m ¹	NIGHT_404			6.1
+Nguồn_NIGHT_404	Nguồn	nguo1239	nuo	NIGHT	tem1	tem¹	t e m ¹	t e m ¹	NIGHT_404			Nguyen1997
+Thổ_NIGHT_404	Thổ	thoo1240	tou	NIGHT	teːm¹	teːm¹	t eː m ¹	t eː m ¹	NIGHT_404			6.1
 Hung (Phong)_NIGHT_404	Hung (Phong)	phon1243	hnu	NIGHT	teːm	teːm	t eː m	t eː m	NIGHT_404			Ferlus2017
 Hung (Toum)_NIGHT_404	Hung (Toum)	toum1239	hnu	NIGHT	taem	taem	t a e m	t ae m	NIGHT_404			Ferlus2017
 Hung (Liha)_NIGHT_404	Hung (Liha)	lyha1238	hnu	NIGHT	tɛːm	tɛːm	t ɛː m	t ɛː m	NIGHT_404			Ferlus2017
@@ -984,11 +855,8 @@ Thavưng_NIGHT_406	Thavưng	aheu1239	thm	NIGHT	Ɂamah3	ʔamah³	ʔ a m a h ³	ʔ
 Vietnamese_NOSE_413	Vietnamese	viet1252	vie	NOSE	mũi	mui̯²¹⁴	m u i̯ ²¹⁴	m ui̯ ²¹⁴	NOSE_413			
 Mương (Hòa Bình)_NOSE_413	Mương (Hòa Bình)	muon1246	mtq	NOSE	muːj⁶	muːj⁵¹	m uː j ⁵¹	m uː j ⁶/⁵¹	NOSE_413			
 Mương (Sơn La)_NOSE_413	Mương (Sơn La)	muon1246	mtq	NOSE	muːj⁴⁶	muːj⁴⁵	m uː j ⁴⁵	m uː j ⁴⁶/⁴⁵	NOSE_413			
-Mương (Thanh Hóa)_NOSE_413	Mương (Thanh Hóa)	muon1246	mtq	NOSE	muːj⁴⁶	muːj⁴⁵	m uː j ⁴⁵	m uː j ⁴⁶/⁴⁵	NOSE_413			
-Nguồn (Cổ Liêm)_NOSE_413	Nguồn (Cổ Liêm)	nguo1239	nuo	NOSE	mun5/2	mun⁵	m u n ⁵	m u n ⁵	NOSE_413			Nguyen1997
-Nguồn (Yên Thọ)_NOSE_413	Nguồn (Yên Thọ)	nguo1239	nuo	NOSE	mun2	mun²	m u n ²	m u n ²	NOSE_413			Nguyen1997
-Thổ (Làng Lỡ)_NOSE_413	Thổ (Làng Lỡ)	thoo1240	tou	NOSE	muːn⁵⁶	muːn⁵⁵	m uː n ⁵⁵	m uː n ⁵⁶/⁵⁵	NOSE_413			
-Thổ (Cuối Chăm)_NOSE_413	Thổ (Cuối Chăm)	thoo1240	tou	NOSE	muːl⁶	muːl⁵¹	m uː l ⁵¹	m uː l ⁶/⁵¹	NOSE_413			6.1
+Nguồn_NOSE_413	Nguồn	nguo1239	nuo	NOSE	mun5/2	mun⁵	m u n ⁵	m u n ⁵	NOSE_413			Nguyen1997
+Thổ_NOSE_413	Thổ	thoo1240	tou	NOSE	muːl⁶	muːl⁵¹	m uː l ⁵¹	m uː l ⁶/⁵¹	NOSE_413			6.1
 Hung (Phong)_NOSE_413	Hung (Phong)	phon1243	hnu	NOSE	muːt	muːt	m uː t	m uː t	NOSE_413			Ferlus2017
 Hung (Toum)_NOSE_413	Hung (Toum)	toum1239	hnu	NOSE	muːc	muːc	m uː c	m uː c	NOSE_413			Ferlus2017
 Hung (Liha)_NOSE_413	Hung (Liha)	lyha1238	hnu	NOSE	muːc	muːc	m uː c	m uː c	NOSE_413			Ferlus2017
@@ -1011,11 +879,8 @@ Maleng_OLD (USED)_416	Maleng	male1282	pkt	OLD (USED)	thala324 (thăw˧˦˧ˀ)	t
 Vietnamese_ONE_423	Vietnamese	viet1252	vie	ONE	một	mok²¹²	m o k ²¹²	m o k ²¹²	ONE_423			
 Mương (Hòa Bình)_ONE_423	Mương (Hòa Bình)	muon1246	mtq	ONE	moːt⁸	moːt⁵³	m oː t ⁵³	m oː t ⁸/⁵³	ONE_423			
 Mương (Sơn La)_ONE_423	Mương (Sơn La)	muon1246	mtq	ONE	moːc⁸	moːc⁵³	m oː c ⁵³	m oː c ⁸/⁵³	ONE_423			
-Mương (Thanh Hóa)_ONE_423	Mương (Thanh Hóa)	muon1246	mtq	ONE	moːt⁸	moːt⁵³	m oː t ⁵³	m oː t ⁸/⁵³	ONE_423			
-Nguồn (Cổ Liêm)_ONE_423	Nguồn (Cổ Liêm)	nguo1239	nuo	ONE	mot8	mot⁵³	m o t ⁵³	m o t ⁸/⁵³	ONE_423			Nguyen1997
-Nguồn (Yên Thọ)_ONE_423	Nguồn (Yên Thọ)	nguo1239	nuo	ONE	mot8 (mot7 in compounds)	mot⁵³	m o t ⁵³	m o t ⁸/⁵³	ONE_423			Nguyen1997
-Thổ (Làng Lỡ)_ONE_423	Thổ (Làng Lỡ)	thoo1240	tou	ONE	moːt⁸	moːt⁵³	m oː t ⁵³	m oː t ⁸/⁵³	ONE_423			
-Thổ (Cuối Chăm)_ONE_423	Thổ (Cuối Chăm)	thoo1240	tou	ONE	moːt⁸	moːt⁵³	m oː t ⁵³	m oː t ⁸/⁵³	ONE_423			6.1
+Nguồn_ONE_423	Nguồn	nguo1239	nuo	ONE	mot8	mot⁵³	m o t ⁵³	m o t ⁸/⁵³	ONE_423			Nguyen1997
+Thổ_ONE_423	Thổ	thoo1240	tou	ONE	moːt⁸	moːt⁵³	m oː t ⁵³	m oː t ⁸/⁵³	ONE_423			6.1
 Hung (Phong)_ONE_423	Hung (Phong)	phon1243	hnu	ONE	moːt	moːt	m oː t	m oː t	ONE_423			Ferlus2017
 Hung (Toum)_ONE_423	Hung (Toum)	toum1239	hnu	ONE	muːc	muːc	m uː c	m uː c	ONE_423			Ferlus2017
 Hung (Liha)_ONE_423	Hung (Liha)	lyha1238	hnu	ONE	moːc	moːc	m oː c	m oː c	ONE_423			Ferlus2017
@@ -1028,9 +893,7 @@ Maleng_ONE_423	Maleng	male1282	pkt	ONE	moc˧˦	moc³⁴	m o c ³⁴	m o c ³⁴	
 Vietnamese_PATH OR ROAD_426	Vietnamese	viet1252	vie	PATH OR ROAD	dường	jɨə̯ŋ²¹	j ɨ ə̯ ŋ ²¹	d ư/u ờ/o n g	PATH OR ROAD_426			
 Mương (Hòa Bình)_PATH OR ROAD_427	Mương (Hòa Bình)	muon1246	mtq	PATH OR ROAD	tʰaː³	tʰaː³	tʰ aː ³	tʰ aː ³	PATH OR ROAD_427			
 Mương (Sơn La)_PATH OR ROAD_427	Mương (Sơn La)	muon1246	mtq	PATH OR ROAD	kʰaː³	kʰaː³	kʰ aː ³	kʰ aː ³	PATH OR ROAD_427			
-Mương (Thanh Hóa)_PATH OR ROAD_427	Mương (Thanh Hóa)	muon1246	mtq	PATH OR ROAD	kʰaː³	kʰaː³	kʰ aː ³	kʰ aː ³	PATH OR ROAD_427			
-Nguồn (Cổ Liêm)_PATH OR ROAD_426	Nguồn (Cổ Liêm)	nguo1239	nuo	PATH OR ROAD	taŋ2'ti1'	taŋ²ti¹ʔ	t a ŋ ² t i ¹ ʔ	t a ŋ ² t i ¹ '/ʔ	PATH OR ROAD_426			Nguyen1997
-Nguồn (Yên Thọ)_PATH OR ROAD_426	Nguồn (Yên Thọ)	nguo1239	nuo	PATH OR ROAD	ʔaŋ2di1	ʔaŋ²di¹	ʔ a ŋ ² d i ¹	ʔ a ŋ ² d i ¹	PATH OR ROAD_426			Nguyen1997
+Nguồn_PATH OR ROAD_426	Nguồn	nguo1239	nuo	PATH OR ROAD	taŋ2'ti1'	taŋ²ti¹ʔ	t a ŋ ² t i ¹ ʔ	t a ŋ ² t i ¹ '/ʔ	PATH OR ROAD_426			Nguyen1997
 Hung (Phong)_PATH OR ROAD_427	Hung (Phong)	phon1243	hnu	PATH OR ROAD	klaː	klaː	k l aː	k l aː	PATH OR ROAD_427			Ferlus2017
 Hung (Toum)_PATH OR ROAD_427	Hung (Toum)	toum1239	hnu	PATH OR ROAD	kʰlaː	kʰlaː	kʰ l aː	kʰ l aː	PATH OR ROAD_427			Ferlus2017
 Hung (Liha)_PATH OR ROAD_427	Hung (Liha)	lyha1238	hnu	PATH OR ROAD	kʰlaː	kʰlaː	kʰ l aː	kʰ l aː	PATH OR ROAD_427			Ferlus2017
@@ -1040,8 +903,7 @@ Chứt (Rục)_PATH OR ROAD_426	Chứt (Rục)	rucc1239	scb	PATH OR ROAD	tɨàŋ
 Arem_PATH OR ROAD_427	Arem	arem1240	aem	PATH OR ROAD	urɛa̯ʔ	urɛa̯ʔ	u r ɛ a̯ ʔ	u r ɛa̯ ʔ	PATH OR ROAD_427			Kasuga2008
 Thavưng_PATH OR ROAD_427	Thavưng	aheu1239	thm	PATH OR ROAD	kʰalaː2	kʰalaː²	kʰ a l aː ²	kʰ a l aː ²	PATH OR ROAD_427			Ferlus1979
 Vietnamese_PERSON_432	Vietnamese	viet1252	vie	PERSON	người	ŋɨːi̯²¹	ŋ ɨː i̯ ²¹	ŋ ɨːi̯ ²¹	PERSON_432			
-Nguồn (Cổ Liêm)_PERSON_432	Nguồn (Cổ Liêm)	nguo1239	nuo	PERSON	ŋaj2	ŋaj²	ŋ a j ²	ŋ a j ²	PERSON_432			Nguyen1997
-Nguồn (Yên Thọ)_PERSON_432	Nguồn (Yên Thọ)	nguo1239	nuo	PERSON	ŋaj2	ŋaj²	ŋ a j ²	ŋ a j ²	PERSON_432			Nguyen1997
+Nguồn_PERSON_432	Nguồn	nguo1239	nuo	PERSON	ŋaj2	ŋaj²	ŋ a j ²	ŋ a j ²	PERSON_432			Nguyen1997
 Hung (Phong)_PERSON_434	Hung (Phong)	phon1243	hnu	PERSON	kun	kun	k u n	k u n	PERSON_434			Ferlus2017
 Hung (Toum)_PERSON_434	Hung (Toum)	toum1239	hnu	PERSON	kɔn	kɔn	k ɔ n	k ɔ n	PERSON_434			Ferlus2017
 Hung (Liha)_PERSON_434	Hung (Liha)	lyha1238	hnu	PERSON	kun	kun	k u n	k u n	PERSON_434			Ferlus2017
@@ -1054,10 +916,8 @@ Maleng_PERSON_435	Maleng	male1282	pkt	PERSON	khŏn˧ (< Lao)	kʰŏn³	kʰ ŏ 
 Vietnamese_RAIN (PRECIPITATION)_441	Vietnamese	viet1252	vie	RAIN (PRECIPITATION)	mưa	mɨə³³	m ɨ ə ³³	m ɨə ³³	RAIN (PRECIPITATION)_441			
 Mương (Hòa Bình)_RAIN (PRECIPITATION)_441	Mương (Hòa Bình)	muon1246	mtq	RAIN (PRECIPITATION)	mɨa¹	mɨa¹	m ɨ a ¹	m ɨa ¹	RAIN (PRECIPITATION)_441			
 Mương (Sơn La)_RAIN (PRECIPITATION)_441	Mương (Sơn La)	muon1246	mtq	RAIN (PRECIPITATION)	mɨa¹	mɨa¹	m ɨ a ¹	m ɨa ¹	RAIN (PRECIPITATION)_441			
-Mương (Thanh Hóa)_RAIN (PRECIPITATION)_441	Mương (Thanh Hóa)	muon1246	mtq	RAIN (PRECIPITATION)	mɨa¹	mɨa¹	m ɨ a ¹	m ɨa ¹	RAIN (PRECIPITATION)_441			
-Nguồn (Cổ Liêm)_RAIN (PRECIPITATION)_441	Nguồn (Cổ Liêm)	nguo1239	nuo	RAIN (PRECIPITATION)	mɨa1	mɨa¹	m ɨ a ¹	m ɨa ¹	RAIN (PRECIPITATION)_441			Nguyen1997
-Thổ (Làng Lỡ)_RAIN (PRECIPITATION)_441	Thổ (Làng Lỡ)	thoo1240	tou	RAIN (PRECIPITATION)	mɨa¹	mɨa¹	m ɨ a ¹	m ɨa ¹	RAIN (PRECIPITATION)_441			
-Thổ (Cuối Chăm)_RAIN (PRECIPITATION)_441	Thổ (Cuối Chăm)	thoo1240	tou	RAIN (PRECIPITATION)	mɐː²	mɐː²	m ɐː ²	m ɐː ²	RAIN (PRECIPITATION)_441			6.1
+Nguồn_RAIN (PRECIPITATION)_441	Nguồn	nguo1239	nuo	RAIN (PRECIPITATION)	mɨa1	mɨa¹	m ɨ a ¹	m ɨa ¹	RAIN (PRECIPITATION)_441			Nguyen1997
+Thổ_RAIN (PRECIPITATION)_441	Thổ	thoo1240	tou	RAIN (PRECIPITATION)	mɐː²	mɐː²	m ɐː ²	m ɐː ²	RAIN (PRECIPITATION)_441			6.1
 Hung (Phong)_RAIN (PRECIPITATION)_441	Hung (Phong)	phon1243	hnu	RAIN (PRECIPITATION)	kʰmaː	kʰmaː	kʰ m aː	kʰ m aː	RAIN (PRECIPITATION)_441			Ferlus2017
 Hung (Toum)_RAIN (PRECIPITATION)_441	Hung (Toum)	toum1239	hnu	RAIN (PRECIPITATION)	maː	maː	m aː	m aː	RAIN (PRECIPITATION)_441			Ferlus2017
 Hung (Liha)_RAIN (PRECIPITATION)_441	Hung (Liha)	lyha1238	hnu	RAIN (PRECIPITATION)	maː	maː	m aː	m aː	RAIN (PRECIPITATION)_441			Ferlus2017
@@ -1070,10 +930,7 @@ Maleng_RAIN (PRECIPITATION)_443	Maleng	male1282	pkt	RAIN (PRECIPITATION)	sɯŋ˦
 Vietnamese_RED_446	Vietnamese	viet1252	vie	RED	đỏ	ɗɔː²¹⁴	ɗ ɔː ²¹⁴	ɗ ɔː ²¹⁴	RED_446			
 Mương (Hòa Bình)_RED_446	Mương (Hòa Bình)	muon1246	mtq	RED	tɔː⁵	tɔː⁵	t ɔː ⁵	t ɔː ⁵	RED_446			
 Mương (Sơn La)_RED_446	Mương (Sơn La)	muon1246	mtq	RED	tɔː⁵	tɔː⁵	t ɔː ⁵	t ɔː ⁵	RED_446			
-Mương (Thanh Hóa)_RED_446	Mương (Thanh Hóa)	muon1246	mtq	RED	dɔː⁵	dɔː⁵	d ɔː ⁵	d ɔː ⁵	RED_446			
-Nguồn (Cổ Liêm)_RED_446	Nguồn (Cổ Liêm)	nguo1239	nuo	RED	tɔ5	tɔ⁵	t ɔ ⁵	t ɔ ⁵	RED_446			Nguyen1997
-Nguồn (Yên Thọ)_RED_446	Nguồn (Yên Thọ)	nguo1239	nuo	RED	ʔɔ5	ʔɔ⁵	ʔ ɔ ⁵	ʔ ɔ ⁵	RED_446			Nguyen1997
-Thổ (Làng Lỡ)_RED_446	Thổ (Làng Lỡ)	thoo1240	tou	RED	dɔː⁵⁶	dɔː⁵⁵	d ɔː ⁵⁵	d ɔː ⁵⁶/⁵⁵	RED_446			
+Nguồn_RED_446	Nguồn	nguo1239	nuo	RED	tɔ5	tɔ⁵	t ɔ ⁵	t ɔ ⁵	RED_446			Nguyen1997
 Hung (Toum)_RED_447	Hung (Toum)	toum1239	hnu	RED	kɔːl	kɔːl	k ɔː l	k ɔː l	RED_447			Ferlus2017
 Hung (Liha)_RED_447	Hung (Liha)	lyha1238	hnu	RED	kaon	kaon	k a o n	k ao n	RED_447			Ferlus2017
 Chứt (Sách)_RED_446	Chứt (Sách)	sach1240	scb	RED	tɔː⁶ / tɔh¹	tɔː⁵¹	t ɔː ⁵¹	t ɔː ⁶/⁵¹	RED_446			Ferlus2007
@@ -1085,10 +942,8 @@ Maleng_RED_446	Maleng	male1282	pkt	RED	tɔh˧	tɔh³	t ɔ h ³	t ɔ h ³	RED_446
 Vietnamese_ROOT_451	Vietnamese	viet1252	vie	ROOT	rễ	ɹeː²¹⁴	ɹ eː ²¹⁴	r eː ²¹⁴	ROOT_451			
 Mương (Hòa Bình)_ROOT_451	Mương (Hòa Bình)	muon1246	mtq	ROOT	rac²	rac²	r a c ²	r a c ²	ROOT_451			
 Mương (Sơn La)_ROOT_451	Mương (Sơn La)	muon1246	mtq	ROOT	tʰac²	tʰac²	tʰ a c ²	tʰ a c ²	ROOT_451			
-Mương (Thanh Hóa)_ROOT_451	Mương (Thanh Hóa)	muon1246	mtq	ROOT	Âɛc²	aɛc²	a ɛ c ²	Â/a ɛ c ²	ROOT_451			
-Nguồn (Cổ Liêm)_ROOT_451	Nguồn (Cổ Liêm)	nguo1239	nuo	ROOT	rɛt8	rɛt⁵³	r ɛ t ⁵³	r ɛ t ⁸/⁵³	ROOT_451			Nguyen1997
-Thổ (Làng Lỡ)_ROOT_452	Thổ (Làng Lỡ)	thoo1240	tou	ROOT	ʐeː² ( < Viet)	ʐeː²	ʐ eː ²	ʐ eː ²	ROOT_452			
-Thổ (Cuối Chăm)_ROOT_451	Thổ (Cuối Chăm)	thoo1240	tou	ROOT	lɛːl⁶	lɛːl⁵¹	l ɛː l ⁵¹	l ɛː l ⁶/⁵¹	ROOT_451			6.1
+Nguồn_ROOT_451	Nguồn	nguo1239	nuo	ROOT	rɛt8	rɛt⁵³	r ɛ t ⁵³	r ɛ t ⁸/⁵³	ROOT_451			Nguyen1997
+Thổ_ROOT_451	Thổ	thoo1240	tou	ROOT	lɛːl⁶	lɛːl⁵¹	l ɛː l ⁵¹	l ɛː l ⁶/⁵¹	ROOT_451			6.1
 Chứt (Sách)_ROOT_451	Chứt (Sách)	sach1240	scb	ROOT	liɛlʰ¹	ljɛlʰ¹	l j ɛ lʰ ¹	l i/j ɛ lʰ ¹	ROOT_451			Ferlus2007
 Chứt (Mày)_ROOT_451	Chứt (Mày)	mayy1239	scb	ROOT	lɛl̥³	lɛl̥³	l ɛ l̥ ³	l ɛ l̥ ³	ROOT_451			Babaev2018
 Chứt (Rục)_ROOT_451	Chứt (Rục)	rucc1239	scb	ROOT	liɛʳʰ	ljɛ	l j ɛ	l i/j ɛʳʰ/ɛ	ROOT_451			Nguyen/Tran/Ferlus1998
@@ -1098,10 +953,8 @@ Maleng_ROOT_451	Maleng	male1282	pkt	ROOT	lɛl˧˦	lɛl³⁴	l ɛ l ³⁴	l ɛ l 
 Vietnamese_ROPE_453	Vietnamese	viet1252	vie	ROPE	chạc	caːk²¹²	c aː k ²¹²	c aː k ²¹²	ROPE_453			
 Mương (Hòa Bình)_ROPE_453	Mương (Hòa Bình)	muon1246	mtq	ROPE	caːk⁸	caːk⁵³	c aː k ⁵³	c aː k ⁸/⁵³	ROPE_453			
 Mương (Sơn La)_ROPE_453	Mương (Sơn La)	muon1246	mtq	ROPE	caːk⁸	caːk⁵³	c aː k ⁵³	c aː k ⁸/⁵³	ROPE_453			
-Nguồn (Cổ Liêm)_ROPE_453	Nguồn (Cổ Liêm)	nguo1239	nuo	ROPE	cak8	cak⁵³	c a k ⁵³	c a k ⁸/⁵³	ROPE_453			Nguyen1997
-Nguồn (Yên Thọ)_ROPE_453	Nguồn (Yên Thọ)	nguo1239	nuo	ROPE	tak8mun5	tak⁵³mun⁵	t a k ⁵³ m u n ⁵	t a k ⁸/⁵³ m u n ⁵	ROPE_453			Nguyen1997
-Thổ (Làng Lỡ)_ROPE_453	Thổ (Làng Lỡ)	thoo1240	tou	ROPE	caːk⁸	caːk⁵³	c aː k ⁵³	c aː k ⁸/⁵³	ROPE_453			
-Thổ (Cuối Chăm)_ROPE_453	Thổ (Cuối Chăm)	thoo1240	tou	ROPE	cɐːk⁸	cɐːk⁵³	c ɐː k ⁵³	c ɐː k ⁸/⁵³	ROPE_453			6.1
+Nguồn_ROPE_453	Nguồn	nguo1239	nuo	ROPE	cak8	cak⁵³	c a k ⁵³	c a k ⁸/⁵³	ROPE_453			Nguyen1997
+Thổ_ROPE_453	Thổ	thoo1240	tou	ROPE	cɐːk⁸	cɐːk⁵³	c ɐː k ⁵³	c ɐː k ⁸/⁵³	ROPE_453			6.1
 Chứt (Sách)_ROPE_453	Chứt (Sách)	sach1240	scb	ROPE	cə̀ak⁸	cəak⁵³	c ə a k ⁵³	c ə̀a/əa k ⁸/⁵³	ROPE_453			Ferlus2007
 Chứt (Mày)_ROPE_453	Chứt (Mày)	mayy1239	scb	ROPE	ca̤k⁴	ca̤k⁴	c a̤ k ⁴	c a̤ k ⁴	ROPE_453			Babaev2018
 Chứt (Rục)_ROPE_453	Chứt (Rục)	rucc1239	scb	ROPE	cạk	cak	c a k	c ạ/a k	ROPE_453			Nguyen/Tran/Ferlus1998
@@ -1111,11 +964,8 @@ Maleng_ROPE_456	Maleng	male1282	pkt	ROPE	ʔatŏŋ324	ʔatŏŋ³²⁴	ʔ a t o�
 Vietnamese_ROUND_461	Vietnamese	viet1252	vie	ROUND	tròn	ʈɔːŋ²¹	ʈ ɔː ŋ ²¹	ʈ ɔː ŋ ²¹	ROUND_461			
 Mương (Hòa Bình)_ROUND_461	Mương (Hòa Bình)	muon1246	mtq	ROUND	klɔːn²	klɔːn²	k l ɔː n ²	k l ɔː n ²	ROUND_461			
 Mương (Sơn La)_ROUND_461	Mương (Sơn La)	muon1246	mtq	ROUND	klɔːn²	klɔːn²	k l ɔː n ²	k l ɔː n ²	ROUND_461			
-Mương (Thanh Hóa)_ROUND_461	Mương (Thanh Hóa)	muon1246	mtq	ROUND	ʈɔːn²	ʈɔːn²	ʈ ɔː n ²	ʈ ɔː n ²	ROUND_461			
-Nguồn (Cổ Liêm)_ROUND_461	Nguồn (Cổ Liêm)	nguo1239	nuo	ROUND	ʈɔn2	ʈɔn²	ʈ ɔ n ²	ʈ ɔ n ²	ROUND_461			Nguyen1997
-Nguồn (Yên Thọ)_ROUND_461	Nguồn (Yên Thọ)	nguo1239	nuo	ROUND	ʔlɔn2	ʔlɔn²	ʔ l ɔ n ²	ʔ l ɔ n ²	ROUND_461			Nguyen1997
-Thổ (Làng Lỡ)_ROUND_461	Thổ (Làng Lỡ)	thoo1240	tou	ROUND	ʐoan²	ʐoan²	ʐ o a n ²	ʐ oa n ²	ROUND_461			
-Thổ (Cuối Chăm)_ROUND_461	Thổ (Cuối Chăm)	thoo1240	tou	ROUND	klɔːn²	klɔːn²	k l ɔː n ²	k l ɔː n ²	ROUND_461			6.1
+Nguồn_ROUND_461	Nguồn	nguo1239	nuo	ROUND	ʈɔn2	ʈɔn²	ʈ ɔ n ²	ʈ ɔ n ²	ROUND_461			Nguyen1997
+Thổ_ROUND_461	Thổ	thoo1240	tou	ROUND	klɔːn²	klɔːn²	k l ɔː n ²	k l ɔː n ²	ROUND_461			6.1
 Chứt (Sách)_ROUND_461	Chứt (Sách)	sach1240	scb	ROUND	tlɔːn²	tlɔːn²	t l ɔː n ²	t l ɔː n ²	ROUND_461			Ferlus2007
 Chứt (Mày)_ROUND_461	Chứt (Mày)	mayy1239	scb	ROUND	klɔn²	klɔn²	k l ɔ n ²	k l ɔ n ²	ROUND_461			Babaev2018
 Chứt (Rục)_ROUND_461	Chứt (Rục)	rucc1239	scb	ROUND	klɔ̀n	klɔn	k l ɔ n	k l ɔ̀/ɔ n	ROUND_461			Nguyen/Tran/Ferlus1998
@@ -1124,9 +974,7 @@ Maleng_ROUND_463	Maleng	male1282	pkt	ROUND	kalŏm324	kalŏm³²⁴	k a l ŏ m
 Vietnamese_RUN_466	Vietnamese	viet1252	vie	RUN	chạy	cai̯²¹²	c a i̯ ²¹²	c ai̯ ²¹²	RUN_466			
 Mương (Hòa Bình)_RUN_466	Mương (Hòa Bình)	muon1246	mtq	RUN	caə⁴	caə⁴	c a ə ⁴	c aə ⁴	RUN_466			
 Mương (Sơn La)_RUN_466	Mương (Sơn La)	muon1246	mtq	RUN	cal⁴⁶	cal⁴⁵	c a l ⁴⁵	c a l ⁴⁶/⁴⁵	RUN_466			
-Mương (Thanh Hóa)_RUN_466	Mương (Thanh Hóa)	muon1246	mtq	RUN	can⁴⁶	can⁴⁵	c a n ⁴⁵	c a n ⁴⁶/⁴⁵	RUN_466			
-Nguồn (Cổ Liêm)_RUN_466	Nguồn (Cổ Liêm)	nguo1239	nuo	RUN	căn4	căn⁴	c ă n ⁴	c ă n ⁴	RUN_466			Nguyen1997
-Nguồn (Yên Thọ)_RUN_466	Nguồn (Yên Thọ)	nguo1239	nuo	RUN	tăn4	tăn⁴	t ă n ⁴	t ă n ⁴	RUN_466			Nguyen1997
+Nguồn_RUN_466	Nguồn	nguo1239	nuo	RUN	căn4	căn⁴	c ă n ⁴	c ă n ⁴	RUN_466			Nguyen1997
 Hung (Phong)_RUN_467	Hung (Phong)	phon1243	hnu	RUN	toːŋ	toːŋ	t oː ŋ	t oː ŋ	RUN_467			Ferlus2017
 Hung (Toum)_RUN_467	Hung (Toum)	toum1239	hnu	RUN	tɔːŋ	tɔːŋ	t ɔː ŋ	t ɔː ŋ	RUN_467			Ferlus2017
 Hung (Liha)_RUN_467	Hung (Liha)	lyha1238	hnu	RUN	taoŋ	taoŋ	t a o ŋ	t ao ŋ	RUN_467			Ferlus2017
@@ -1139,11 +987,8 @@ Maleng_RUN_470	Maleng	male1282	pkt	RUN	ʔalɔ̰ŋ324	ʔalɔ̰ŋ³²⁴	ʔ a l ɔ
 Vietnamese_SALT_474	Vietnamese	viet1252	vie	SALT	muối	muːi̯⁴⁵	m uː i̯ ⁴⁵	m uːi̯ ⁴⁵	SALT_474			
 Mương (Hòa Bình)_SALT_474	Mương (Hòa Bình)	muon1246	mtq	SALT	vɔːj³	vɔːj³	v ɔː j ³	v ɔː j ³	SALT_474			
 Mương (Sơn La)_SALT_474	Mương (Sơn La)	muon1246	mtq	SALT	bɔːj³	bɔːj³	b ɔː j ³	b ɔː j ³	SALT_474			
-Mương (Thanh Hóa)_SALT_474	Mương (Thanh Hóa)	muon1246	mtq	SALT	vɔːj³	vɔːj³	v ɔː j ³	v ɔː j ³	SALT_474			
-Nguồn (Cổ Liêm)_SALT_474	Nguồn (Cổ Liêm)	nguo1239	nuo	SALT	vɔj3	vɔj³	v ɔ j ³	v ɔ j ³	SALT_474			Nguyen1997
-Nguồn (Yên Thọ)_SALT_474	Nguồn (Yên Thọ)	nguo1239	nuo	SALT	vɔj3	vɔj³	v ɔ j ³	v ɔ j ³	SALT_474			Nguyen1997
-Thổ (Làng Lỡ)_SALT_474	Thổ (Làng Lỡ)	thoo1240	tou	SALT	bɔːj³	bɔːj³	b ɔː j ³	b ɔː j ³	SALT_474			
-Thổ (Cuối Chăm)_SALT_474	Thổ (Cuối Chăm)	thoo1240	tou	SALT	bɒːj³	bɒːj³	b ɒː j ³	b ɒː j ³	SALT_474			6.1
+Nguồn_SALT_474	Nguồn	nguo1239	nuo	SALT	vɔj3	vɔj³	v ɔ j ³	v ɔ j ³	SALT_474			Nguyen1997
+Thổ_SALT_474	Thổ	thoo1240	tou	SALT	bɒːj³	bɒːj³	b ɒː j ³	b ɒː j ³	SALT_474			6.1
 Hung (Phong)_SALT_474	Hung (Phong)	phon1243	hnu	SALT	bɔːj	bɔːj	b ɔː j	b ɔː j	SALT_474			Ferlus2017
 Hung (Toum)_SALT_474	Hung (Toum)	toum1239	hnu	SALT	bɔːj	bɔːj	b ɔː j	b ɔː j	SALT_474			Ferlus2017
 Hung (Liha)_SALT_474	Hung (Liha)	lyha1238	hnu	SALT	bɔːj	bɔːj	b ɔː j	b ɔː j	SALT_474			Ferlus2017
@@ -1156,8 +1001,7 @@ Maleng_SALT_474	Maleng	male1282	pkt	SALT	bɔ̰j˧˦˧ˀ	bɔ̰j³⁴³	b ɔ̰ j �
 Vietnamese_SAND_478	Vietnamese	viet1252	vie	SAND	cát	kaːk⁴⁵	k aː k ⁴⁵	k aː k ⁴⁵	SAND_478			
 Mương (Hòa Bình)_SAND_478	Mương (Hòa Bình)	muon1246	mtq	SAND	kaːc⁷	kaːc⁵²	k aː c ⁵²	k aː c ⁷/⁵²	SAND_478			
 Mương (Sơn La)_SAND_478	Mương (Sơn La)	muon1246	mtq	SAND	kaːc⁷	kaːc⁵²	k aː c ⁵²	k aː c ⁷/⁵²	SAND_478			
-Nguồn (Cổ Liêm)_SAND_478	Nguồn (Cổ Liêm)	nguo1239	nuo	SAND	kăc7	kăc⁵²	k ă c ⁵²	k ă c ⁷/⁵²	SAND_478			Nguyen1997
-Thổ (Làng Lỡ)_SAND_478	Thổ (Làng Lỡ)	thoo1240	tou	SAND	ɣaːt⁷	ɣaːt⁵²	ɣ aː t ⁵²	ɣ aː t ⁷/⁵²	SAND_478			
+Nguồn_SAND_478	Nguồn	nguo1239	nuo	SAND	kăc7	kăc⁵²	k ă c ⁵²	k ă c ⁷/⁵²	SAND_478			Nguyen1997
 Hung (Phong)_SAND_479	Hung (Phong)	phon1243	hnu	SAND	pʰlɛː	pʰlɛː	pʰ l ɛː	pʰ l ɛː	SAND_479			Ferlus2017
 Hung (Toum)_SAND_479	Hung (Toum)	toum1239	hnu	SAND	kʰlɛː	kʰlɛː	kʰ l ɛː	kʰ l ɛː	SAND_479			Ferlus2017
 Hung (Liha)_SAND_479	Hung (Liha)	lyha1238	hnu	SAND	kʰlɛː	kʰlɛː	kʰ l ɛː	kʰ l ɛː	SAND_479			Ferlus2017
@@ -1168,8 +1012,7 @@ Arem_SAND_478	Arem	arem1240	aem	SAND	takaːʲc	takaːi̯c	t a k aː i̯ c	t a k 
 Thavưng_SAND_481	Thavưng	aheu1239	thm	SAND	thɛh2	tʰɛh²	tʰ ɛ h ²	tʰ ɛ h ²	SAND_481			Ferlus1979
 Maleng_SAND_480	Maleng	male1282	pkt	SAND	khalɤŋ˧	kʰalɤŋ³	kʰ a l ɤ ŋ ³	kʰ a l ɤ ŋ ³	SAND_480			NVlNHH2001
 Vietnamese_SPEAK_485	Vietnamese	viet1252	vie	SPEAK	nói / kể	nɔːi̯⁴⁵	n ɔː i̯ ⁴⁵	n ɔːi̯ ⁴⁵	SPEAK_485			
-Nguồn (Cổ Liêm)_SPEAK_485	Nguồn (Cổ Liêm)	nguo1239	nuo	SPEAK	nɔj3	nɔj³	n ɔ j ³	n ɔ j ³	SPEAK_485			Nguyen1997
-Nguồn (Yên Thọ)_SPEAK_485	Nguồn (Yên Thọ)	nguo1239	nuo	SPEAK	nə̆j4	nə̆j⁴	n ə̆ j ⁴	n ə̆ j ⁴	SPEAK_485			Nguyen1997
+Nguồn_SPEAK_485	Nguồn	nguo1239	nuo	SPEAK	nɔj3	nɔj³	n ɔ j ³	n ɔ j ³	SPEAK_485			Nguyen1997
 Hung (Phong)_SPEAK_488	Hung (Phong)	phon1243	hnu	SPEAK	kʰɲaw	kʰɲaw	kʰ ɲ a w	kʰ ɲ a w	SPEAK_488			Ferlus2017
 Hung (Toum)_SPEAK_488	Hung (Toum)	toum1239	hnu	SPEAK	ɲaw	ɲaw	ɲ a w	ɲ a w	SPEAK_488			Ferlus2017
 Hung (Liha)_SPEAK_488	Hung (Liha)	lyha1238	hnu	SPEAK	ɲaw	ɲaw	ɲ a w	ɲ a w	SPEAK_488			Ferlus2017
@@ -1179,7 +1022,7 @@ Chứt (Rục)_SPEAK_486	Chứt (Rục)	rucc1239	scb	SPEAK	cỏl	col	c o l	c ỏ
 Arem_SPEAK_489	Arem	arem1240	aem	SPEAK	ɗɯɤ̯l	ɗɯɤ̯l	ɗ ɯ ɤ̯ l	ɗ ɯɤ̯ l	SPEAK_489			Kasuga2008
 Thavưng_SPEAK_490	Thavưng	aheu1239	thm	SPEAK	vaw4 [< Lao]	vaw⁴	v a w ⁴	v a w ⁴	SPEAK_490			Ferlus1979
 Vietnamese_SEE_495	Vietnamese	viet1252	vie	SEE	thấy	tʰəi̯⁴⁵	tʰ ə i̯ ⁴⁵	tʰ əi̯ ⁴⁵	SEE_495			
-Nguồn (Cổ Liêm)_SEE_495	Nguồn (Cổ Liêm)	nguo1239	nuo	SEE	t'ə̆j3	tə̆j³	t ə̆ j ³	t ə̆ j ³	SEE_495			Nguyen1997
+Nguồn_SEE_495	Nguồn	nguo1239	nuo	SEE	t'ə̆j3	tə̆j³	t ə̆ j ³	t ə̆ j ³	SEE_495			Nguyen1997
 Hung (Toum)_SEE_499	Hung (Toum)	toum1239	hnu	SEE	daːm	daːm	d aː m	d aː m	SEE_499			Ferlus2017
 Hung (Liha)_SEE_499	Hung (Liha)	lyha1238	hnu	SEE	daːm	daːm	d aː m	d aː m	SEE_499			Ferlus2017
 Chứt (Sách)_SEE_500	Chứt (Sách)	sach1240	scb	SEE	[[ʒuả̤m]]	ʒua̤m	ʒ u a̤ m	ʒ u ả̤/a̤ m	SEE_500			Ferlus2007
@@ -1191,11 +1034,8 @@ Maleng_SEE_497	Maleng	male1282	pkt	SEE	cɤ̆ŋ˧˦	cɤ̆ŋ³⁴	c ɤ̆ ŋ ³⁴	
 Vietnamese_SHADE_505	Vietnamese	viet1252	vie	SHADE	bóng	ɓɔŋ͡m⁴⁵	ɓ ɔ ŋ͡m ⁴⁵	ɓ ɔ ŋm ⁴⁵	SHADE_505			
 Mương (Hòa Bình)_SHADE_505	Mương (Hòa Bình)	muon1246	mtq	SHADE	pɔːŋ³	pɔːŋ³	p ɔː ŋ ³	p ɔː ŋ ³	SHADE_505			
 Mương (Sơn La)_SHADE_505	Mương (Sơn La)	muon1246	mtq	SHADE	pɔːŋ³	pɔːŋ³	p ɔː ŋ ³	p ɔː ŋ ³	SHADE_505			
-Mương (Thanh Hóa)_SHADE_505	Mương (Thanh Hóa)	muon1246	mtq	SHADE	bɔːŋ³	bɔːŋ³	b ɔː ŋ ³	b ɔː ŋ ³	SHADE_505			
-Nguồn (Cổ Liêm)_SHADE_505	Nguồn (Cổ Liêm)	nguo1239	nuo	SHADE	pɔŋmăc7	pɔŋmăc⁵²	p ɔ ŋ m ă c ⁵²	p ɔ ŋ m ă c ⁷/⁵²	SHADE_505			Nguyen1997
-Nguồn (Yên Thọ)_SHADE_505	Nguồn (Yên Thọ)	nguo1239	nuo	SHADE	bɔŋ3măc7	bɔŋ³măc⁵²	b ɔ ŋ ³ m ă c ⁵²	b ɔ ŋ ³ m ă c ⁷/⁵²	SHADE_505			Nguyen1997
-Thổ (Làng Lỡ)_SHADE_505	Thổ (Làng Lỡ)	thoo1240	tou	SHADE	pɔːŋ³	pɔːŋ³	p ɔː ŋ ³	p ɔː ŋ ³	SHADE_505			
-Thổ (Cuối Chăm)_SHADE_505	Thổ (Cuối Chăm)	thoo1240	tou	SHADE	pɒːŋ³	pɒːŋ³	p ɒː ŋ ³	p ɒː ŋ ³	SHADE_505			6.1
+Nguồn_SHADE_505	Nguồn	nguo1239	nuo	SHADE	pɔŋmăc7	pɔŋmăc⁵²	p ɔ ŋ m ă c ⁵²	p ɔ ŋ m ă c ⁷/⁵²	SHADE_505			Nguyen1997
+Thổ_SHADE_505	Thổ	thoo1240	tou	SHADE	pɒːŋ³	pɒːŋ³	p ɒː ŋ ³	p ɒː ŋ ³	SHADE_505			6.1
 Hung (Phong)_SHADE_506	Hung (Phong)	phon1243	hnu	SHADE	ʰlum	ʰlum	ʰl u m	ʰl u m	SHADE_506			Ferlus2017
 Hung (Toum)_SHADE_506	Hung (Toum)	toum1239	hnu	SHADE	ʰlɔm	ʰlɔm	ʰl ɔ m	ʰl ɔ m	SHADE_506			Ferlus2017
 Hung (Liha)_SHADE_506	Hung (Liha)	lyha1238	hnu	SHADE	ɣɔm	ɣɔm	ɣ ɔ m	ɣ ɔ m	SHADE_506			Ferlus2017
@@ -1203,11 +1043,8 @@ Chứt (Mày)_SHADE_505	Chứt (Mày)	mayy1239	scb	SHADE	pɔŋ³ 'shade'/ tuŋut
 Vietnamese_SIT_509	Vietnamese	viet1252	vie	SIT	ngồi	ŋoːi̯²¹	ŋ oː i̯ ²¹	ŋ oːi̯ ²¹	SIT_509			
 Mương (Hòa Bình)_SIT_509	Mương (Hòa Bình)	muon1246	mtq	SIT	ŋoːj²	ŋoːj²	ŋ oː j ²	ŋ oː j ²	SIT_509			
 Mương (Sơn La)_SIT_509	Mương (Sơn La)	muon1246	mtq	SIT	ŋoːj²	ŋoːj²	ŋ oː j ²	ŋ oː j ²	SIT_509			
-Mương (Thanh Hóa)_SIT_509	Mương (Thanh Hóa)	muon1246	mtq	SIT	ŋoːj²	ŋoːj²	ŋ oː j ²	ŋ oː j ²	SIT_509			
-Nguồn (Cổ Liêm)_SIT_509	Nguồn (Cổ Liêm)	nguo1239	nuo	SIT	ŋoj2	ŋoj²	ŋ o j ²	ŋ o j ²	SIT_509			Nguyen1997
-Nguồn (Yên Thọ)_SIT_510	Nguồn (Yên Thọ)	nguo1239	nuo	SIT	tɔ2hɔ5 (??)	tɔ²hɔ⁵	t ɔ ² h ɔ ⁵	t ɔ ² h ɔ ⁵	SIT_510			Nguyen1997
-Thổ (Làng Lỡ)_SIT_509	Thổ (Làng Lỡ)	thoo1240	tou	SIT	ŋoːj²	ŋoːj²	ŋ oː j ²	ŋ oː j ²	SIT_509			
-Thổ (Cuối Chăm)_SIT_509	Thổ (Cuối Chăm)	thoo1240	tou	SIT	ŋoːj²	ŋoːj²	ŋ oː j ²	ŋ oː j ²	SIT_509			6.1
+Nguồn_SIT_509	Nguồn	nguo1239	nuo	SIT	ŋoj2	ŋoj²	ŋ o j ²	ŋ o j ²	SIT_509			Nguyen1997
+Thổ_SIT_509	Thổ	thoo1240	tou	SIT	ŋoːj²	ŋoːj²	ŋ oː j ²	ŋ oː j ²	SIT_509			6.1
 Hung (Toum)_SIT_509	Hung (Toum)	toum1239	hnu	SIT	ŋuːj	ŋuːj	ŋ uː j	ŋ uː j	SIT_509			Ferlus2017
 Chứt (Sách)_SIT_509	Chứt (Sách)	sach1240	scb	SIT	[[ŋò̤i̯]]	ŋo̤i	ŋ o̤ i	ŋ ò̤/o̤ i̯/i	SIT_509			Ferlus2007
 Chứt (Mày)_SIT_509	Chứt (Mày)	mayy1239	scb	SIT	ŋo̤i̯²	ŋo̤i̯²	ŋ o̤ i̯ ²	ŋ o̤i̯ ²	SIT_509			Babaev2018
@@ -1218,9 +1055,7 @@ Maleng_SIT_512	Maleng	male1282	pkt	SIT	sadoh˧	sadoh³	s a d o h ³	s a d o h ³
 Vietnamese_SKIN_516	Vietnamese	viet1252	vie	SKIN	da	jaː³³	j aː ³³	j aː ³³	SKIN_516			
 Mương (Hòa Bình)_SKIN_516	Mương (Hòa Bình)	muon1246	mtq	SKIN	taː¹	taː¹	t aː ¹	t aː ¹	SKIN_516			
 Mương (Sơn La)_SKIN_516	Mương (Sơn La)	muon1246	mtq	SKIN	taː¹	taː¹	t aː ¹	t aː ¹	SKIN_516			
-Mương (Thanh Hóa)_SKIN_516	Mương (Thanh Hóa)	muon1246	mtq	SKIN	taː¹	taː¹	t aː ¹	t aː ¹	SKIN_516			
-Nguồn (Cổ Liêm)_SKIN_516	Nguồn (Cổ Liêm)	nguo1239	nuo	SKIN	ta1	ta¹	t a ¹	t a ¹	SKIN_516			Nguyen1997
-Nguồn (Yên Thọ)_SKIN_516	Nguồn (Yên Thọ)	nguo1239	nuo	SKIN	ʔa1/ʃot7*	ʔa¹	ʔ a ¹	ʔ a ¹	SKIN_516			Nguyen1997
+Nguồn_SKIN_516	Nguồn	nguo1239	nuo	SKIN	ta1	ta¹	t a ¹	t a ¹	SKIN_516			Nguyen1997
 Hung (Phong)_SKIN_517	Hung (Phong)	phon1243	hnu	SKIN	kʰloːt	kʰloːt	kʰ l oː t	kʰ l oː t	SKIN_517			Ferlus2017
 Hung (Toum)_SKIN_517	Hung (Toum)	toum1239	hnu	SKIN	kʰlaot	kʰlaot	kʰ l a o t	kʰ l ao t	SKIN_517			Ferlus2017
 Hung (Liha)_SKIN_517	Hung (Liha)	lyha1238	hnu	SKIN	kʰlaot	kʰlaot	kʰ l a o t	kʰ l ao t	SKIN_517			Ferlus2017
@@ -1231,8 +1066,7 @@ Arem_SKIN_517	Arem	arem1240	aem	SKIN	aruo̯ʲc	arwoi̯c	a r w o i̯ c	a r u/w o�
 Thavưng_SKIN_517	Thavưng	aheu1239	thm	SKIN	khaloːt2	kʰaloːt²	kʰ a l oː t ²	kʰ a l oː t ²	SKIN_517			Ferlus1979
 Maleng_SKIN_517	Maleng	male1282	pkt	SKIN	khalɔ̰t˧˦	kʰalɔ̰t³⁴	kʰ a l ɔ̰ t ³⁴	kʰ a l ɔ̰ t ³⁴	SKIN_517			NVlNHH2001
 Vietnamese_SLEEP_522	Vietnamese	viet1252	vie	SLEEP	ngủ	ŋu²¹⁴	ŋ u ²¹⁴	ŋ u ²¹⁴	SLEEP_522			
-Nguồn (Cổ Liêm)_SLEEP_522	Nguồn (Cổ Liêm)	nguo1239	nuo	SLEEP	ŋu5	ŋu⁵	ŋ u ⁵	ŋ u ⁵	SLEEP_522			Nguyen1997
-Nguồn (Yên Thọ)_SLEEP_524	Nguồn (Yên Thọ)	nguo1239	nuo	SLEEP	ŋăj3	ŋăj³	ŋ ă j ³	ŋ ă j ³	SLEEP_524			Nguyen1997
+Nguồn_SLEEP_522	Nguồn	nguo1239	nuo	SLEEP	ŋu5	ŋu⁵	ŋ u ⁵	ŋ u ⁵	SLEEP_522			Nguyen1997
 Hung (Phong)_SLEEP_525	Hung (Phong)	phon1243	hnu	SLEEP	tɨŋ	tɨŋ	t ɨ ŋ	t ɨ ŋ	SLEEP_525			Ferlus2017
 Hung (Toum)_SLEEP_525	Hung (Toum)	toum1239	hnu	SLEEP	tʌŋ	tʌŋ	t ʌ ŋ	t ʌ ŋ	SLEEP_525			Ferlus2017
 Hung (Liha)_SLEEP_525	Hung (Liha)	lyha1238	hnu	SLEEP	tɔŋ	tɔŋ	t ɔ ŋ	t ɔ ŋ	SLEEP_525			Ferlus2017
@@ -1243,7 +1077,7 @@ Arem_SLEEP_528	Arem	arem1240	aem	SLEEP	pĭh	pi	p i	p ĭh/i	SLEEP_528			Kasuga20
 Thavưng_SLEEP_526	Thavưng	aheu1239	thm	SLEEP	nam4	nam⁴	n a m ⁴	n a m ⁴	SLEEP_526			Ferlus1979
 Maleng_SLEEP_526	Maleng	male1282	pkt	SLEEP	năm324	năm³²⁴	n ă m ³²⁴	n ă m ³²⁴	SLEEP_526			NVlNHH2001
 Vietnamese_SMALL_533	Vietnamese	viet1252	vie	SMALL	nhỏ / nít (small regarding children), bé	ɲɔː²¹⁴	ɲ ɔː ²¹⁴	ɲ ɔː ²¹⁴	SMALL_533			
-Nguồn (Cổ Liêm)_SMALL_533	Nguồn (Cổ Liêm)	nguo1239	nuo	SMALL	ɲɔ5	ɲɔ⁵	ɲ ɔ ⁵	ɲ ɔ ⁵	SMALL_533			Nguyen1997
+Nguồn_SMALL_533	Nguồn	nguo1239	nuo	SMALL	ɲɔ5	ɲɔ⁵	ɲ ɔ ⁵	ɲ ɔ ⁵	SMALL_533			Nguyen1997
 Hung (Toum)_SMALL_534	Hung (Toum)	toum1239	hnu	SMALL	diːt	diːt	d iː t	d iː t	SMALL_534			Ferlus2017
 Hung (Liha)_SMALL_534	Hung (Liha)	lyha1238	hnu	SMALL	diːt	diːt	d iː t	d iː t	SMALL_534			Ferlus2017
 Chứt (Sách)_SMALL_535	Chứt (Sách)	sach1240	scb	SMALL	[[d’uóʔ]]	dʔuoʔ	d ʔ u o ʔ	d ’/ʔ u ó/o ʔ	SMALL_535			Ferlus2007
@@ -1255,10 +1089,8 @@ Maleng_SMALL_534	Maleng	male1282	pkt	SMALL	dɪt˧˦	dɪt³⁴	d ɪ t ³⁴	d ɪ 
 Vietnamese_SMOKE (EXHAUST)_542	Vietnamese	viet1252	vie	SMOKE (EXHAUST)	khói	xɔːi̯⁴⁵	x ɔː i̯ ⁴⁵	x ɔːi̯ ⁴⁵	SMOKE (EXHAUST)_542			
 Mương (Hòa Bình)_SMOKE (EXHAUST)_542	Mương (Hòa Bình)	muon1246	mtq	SMOKE (EXHAUST)	kʰɔːj³	kʰɔːj³	kʰ ɔː j ³	kʰ ɔː j ³	SMOKE (EXHAUST)_542			
 Mương (Sơn La)_SMOKE (EXHAUST)_542	Mương (Sơn La)	muon1246	mtq	SMOKE (EXHAUST)	kʰɔːj³	kʰɔːj³	kʰ ɔː j ³	kʰ ɔː j ³	SMOKE (EXHAUST)_542			
-Mương (Thanh Hóa)_SMOKE (EXHAUST)_542	Mương (Thanh Hóa)	muon1246	mtq	SMOKE (EXHAUST)	kʰɔːj³	kʰɔːj³	kʰ ɔː j ³	kʰ ɔː j ³	SMOKE (EXHAUST)_542			
-Nguồn (Cổ Liêm)_SMOKE (EXHAUST)_542	Nguồn (Cổ Liêm)	nguo1239	nuo	SMOKE (EXHAUST)	xɔj3	xɔj³	x ɔ j ³	x ɔ j ³	SMOKE (EXHAUST)_542			Nguyen1997
-Thổ (Làng Lỡ)_SMOKE (EXHAUST)_542	Thổ (Làng Lỡ)	thoo1240	tou	SMOKE (EXHAUST)	kʰɔːj³	kʰɔːj³	kʰ ɔː j ³	kʰ ɔː j ³	SMOKE (EXHAUST)_542			
-Thổ (Cuối Chăm)_SMOKE (EXHAUST)_542	Thổ (Cuối Chăm)	thoo1240	tou	SMOKE (EXHAUST)	kʰɒːj³	kʰɒːj³	kʰ ɒː j ³	kʰ ɒː j ³	SMOKE (EXHAUST)_542			6.1
+Nguồn_SMOKE (EXHAUST)_542	Nguồn	nguo1239	nuo	SMOKE (EXHAUST)	xɔj3	xɔj³	x ɔ j ³	x ɔ j ³	SMOKE (EXHAUST)_542			Nguyen1997
+Thổ_SMOKE (EXHAUST)_542	Thổ	thoo1240	tou	SMOKE (EXHAUST)	kʰɒːj³	kʰɒːj³	kʰ ɒː j ³	kʰ ɒː j ³	SMOKE (EXHAUST)_542			6.1
 Hung (Phong)_SMOKE (EXHAUST)_542	Hung (Phong)	phon1243	hnu	SMOKE (EXHAUST)	kʰɔːj	kʰɔːj	kʰ ɔː j	kʰ ɔː j	SMOKE (EXHAUST)_542			Ferlus2017
 Hung (Toum)_SMOKE (EXHAUST)_542	Hung (Toum)	toum1239	hnu	SMOKE (EXHAUST)	kʰɔːj	kʰɔːj	kʰ ɔː j	kʰ ɔː j	SMOKE (EXHAUST)_542			Ferlus2017
 Hung (Liha)_SMOKE (EXHAUST)_542	Hung (Liha)	lyha1238	hnu	SMOKE (EXHAUST)	kʰɔːj	kʰɔːj	kʰ ɔː j	kʰ ɔː j	SMOKE (EXHAUST)_542			Ferlus2017
@@ -1269,8 +1101,7 @@ Arem_SMOKE (EXHAUST)_542	Arem	arem1240	aem	SMOKE (EXHAUST)	ahɒːi̯ʼ	ahɒːi̯
 Thavưng_SMOKE (EXHAUST)_542	Thavưng	aheu1239	thm	SMOKE (EXHAUST)	kahɔːj1	kahɔːj¹	k a h ɔː j ¹	k a h ɔː j ¹	SMOKE (EXHAUST)_542			Ferlus1979
 Maleng_SMOKE (EXHAUST)_542	Maleng	male1282	pkt	SMOKE (EXHAUST)	kahəj˧˦˧ˀ	kahəj³⁴³	k a h ə j ³⁴³	k a h ə j ³⁴³ˀ/³⁴³	SMOKE (EXHAUST)_542			NVlNHH2001
 Vietnamese_STAND UP_546	Vietnamese	viet1252	vie	STAND UP	đứng	ɗɨŋ⁴⁵	ɗ ɨ ŋ ⁴⁵	ɗ ɨ ŋ ⁴⁵	STAND UP_546			
-Nguồn (Cổ Liêm)_STAND UP_546	Nguồn (Cổ Liêm)	nguo1239	nuo	STAND UP	tɨŋ3jə̆n4	tɨŋ³jə̆n⁴	t ɨ ŋ ³ j ə̆ n ⁴	t ɨ ŋ ³ j ə̆ n ⁴	STAND UP_546			Nguyen1997
-Nguồn (Yên Thọ)_STAND UP_548	Nguồn (Yên Thọ)	nguo1239	nuo	STAND UP	ʔɨŋ3zə̆n4	ʔɨŋ³zə̆n⁴	ʔ ɨ ŋ ³ z ə̆ n ⁴	ʔ ɨ ŋ ³ z ə̆ n ⁴	STAND UP_548			Nguyen1997
+Nguồn_STAND UP_546	Nguồn	nguo1239	nuo	STAND UP	tɨŋ3jə̆n4	tɨŋ³jə̆n⁴	t ɨ ŋ ³ j ə̆ n ⁴	t ɨ ŋ ³ j ə̆ n ⁴	STAND UP_546			Nguyen1997
 Hung (Phong)_STAND UP_546	Hung (Phong)	phon1243	hnu	STAND UP	tɨŋ	tɨŋ	t ɨ ŋ	t ɨ ŋ	STAND UP_546			Ferlus2017
 Hung (Toum)_STAND UP_546	Hung (Toum)	toum1239	hnu	STAND UP	tʌŋ	tʌŋ	t ʌ ŋ	t ʌ ŋ	STAND UP_546			Ferlus2017
 Hung (Liha)_STAND UP_546	Hung (Liha)	lyha1238	hnu	STAND UP	tɔŋ	tɔŋ	t ɔ ŋ	t ɔ ŋ	STAND UP_546			Ferlus2017
@@ -1283,10 +1114,8 @@ Maleng_STAND UP_546	Maleng	male1282	pkt	STAND UP	tɯ̰̆ŋ˧˦˧ˀ	tɯ̰̆ŋ³�
 Vietnamese_STAR_550	Vietnamese	viet1252	vie	STAR	sao	saːu̯³³	s aː u̯ ³³	s aːu̯ ³³	STAR_550			
 Mương (Hòa Bình)_STAR_550	Mương (Hòa Bình)	muon1246	mtq	STAR	kʰaːw¹	kʰaːw¹	kʰ aː w ¹	kʰ aː w ¹	STAR_550			
 Mương (Sơn La)_STAR_550	Mương (Sơn La)	muon1246	mtq	STAR	kʰaːw¹	kʰaːw¹	kʰ aː w ¹	kʰ aː w ¹	STAR_550			
-Mương (Thanh Hóa)_STAR_550	Mương (Thanh Hóa)	muon1246	mtq	STAR	kʰaːw¹	kʰaːw¹	kʰ aː w ¹	kʰ aː w ¹	STAR_550			
-Nguồn (Cổ Liêm)_STAR_550	Nguồn (Cổ Liêm)	nguo1239	nuo	STAR	ʃaw1	ʃaw¹	ʃ a w ¹	ʃ a w ¹	STAR_550			Nguyen1997
-Thổ (Làng Lỡ)_STAR_550	Thổ (Làng Lỡ)	thoo1240	tou	STAR	ʂaːw¹	ʂaːw¹	ʂ aː w ¹	ʂ aː w ¹	STAR_550			
-Thổ (Cuối Chăm)_STAR_550	Thổ (Cuối Chăm)	thoo1240	tou	STAR	kʰraːw¹	kʰraːw¹	kʰ r aː w ¹	kʰ r aː w ¹	STAR_550			6.1
+Nguồn_STAR_550	Nguồn	nguo1239	nuo	STAR	ʃaw1	ʃaw¹	ʃ a w ¹	ʃ a w ¹	STAR_550			Nguyen1997
+Thổ_STAR_550	Thổ	thoo1240	tou	STAR	kʰraːw¹	kʰraːw¹	kʰ r aː w ¹	kʰ r aː w ¹	STAR_550			6.1
 Hung (Phong)_STAR_551	Hung (Phong)	phon1243	hnu	STAR	kbeː	kbeː	k b eː	k b eː	STAR_551			Ferlus2017
 Hung (Toum)_STAR_551	Hung (Toum)	toum1239	hnu	STAR	bae	bae	b a e	b ae	STAR_551			Ferlus2017
 Hung (Liha)_STAR_551	Hung (Liha)	lyha1238	hnu	STAR	baɛ	baɛ	b a ɛ	b aɛ	STAR_551			Ferlus2017
@@ -1299,11 +1128,8 @@ Maleng_STAR_553	Maleng	male1282	pkt	STAR	kalɔ324	kalɔ³²⁴	k a l ɔ ³²⁴	
 Vietnamese_STONE_557	Vietnamese	viet1252	vie	STONE	đá	ɗaː⁴⁵	ɗ aː ⁴⁵	ɗ aː ⁴⁵	STONE_557			
 Mương (Hòa Bình)_STONE_558	Mương (Hòa Bình)	muon1246	mtq	STONE	kʰuː⁴	kʰuː⁴	kʰ uː ⁴	kʰ uː ⁴	STONE_558			
 Mương (Sơn La)_STONE_558	Mương (Sơn La)	muon1246	mtq	STONE	fuː⁴	fuː⁴	f uː ⁴	f uː ⁴	STONE_558			
-Mương (Thanh Hóa)_STONE_558	Mương (Thanh Hóa)	muon1246	mtq	STONE	kʰuː⁴	kʰuː⁴	kʰ uː ⁴	kʰ uː ⁴	STONE_558			
-Nguồn (Cổ Liêm)_STONE_557	Nguồn (Cổ Liêm)	nguo1239	nuo	STONE	ta3	ta³	t a ³	t a ³	STONE_557			Nguyen1997
-Nguồn (Yên Thọ)_STONE_557	Nguồn (Yên Thọ)	nguo1239	nuo	STONE	ta3,ʔa3	ta³	t a ³	t a ³	STONE_557			Nguyen1997
-Thổ (Làng Lỡ)_STONE_557	Thổ (Làng Lỡ)	thoo1240	tou	STONE	δaː³	ðaː³	ð aː ³	δ/ð aː ³	STONE_557			
-Thổ (Cuối Chăm)_STONE_557	Thổ (Cuối Chăm)	thoo1240	tou	STONE	taː³	taː³	t aː ³	t aː ³	STONE_557			6.1
+Nguồn_STONE_557	Nguồn	nguo1239	nuo	STONE	ta3	ta³	t a ³	t a ³	STONE_557			Nguyen1997
+Thổ_STONE_557	Thổ	thoo1240	tou	STONE	taː³	taː³	t aː ³	t aː ³	STONE_557			6.1
 Hung (Phong)_STONE_557	Hung (Phong)	phon1243	hnu	STONE	taː	taː	t aː	t aː	STONE_557			Ferlus2017
 Hung (Toum)_STONE_557	Hung (Toum)	toum1239	hnu	STONE	taː	taː	t aː	t aː	STONE_557			Ferlus2017
 Hung (Liha)_STONE_557	Hung (Liha)	lyha1238	hnu	STONE	taː	taː	t aː	t aː	STONE_557			Ferlus2017
@@ -1316,10 +1142,8 @@ Maleng_STONE_560	Maleng	male1282	pkt	STONE	kɔn kɤl˧ ~ kɤr˧	kɔnkɤl³	k ɔ 
 Vietnamese_SWEET_563	Vietnamese	viet1252	vie	SWEET	ngọt	ŋɔːk²¹²	ŋ ɔː k ²¹²	ŋ ɔː k ²¹²	SWEET_563			
 Mương (Hòa Bình)_SWEET_563	Mương (Hòa Bình)	muon1246	mtq	SWEET	ŋɔːc⁸	ŋɔːc⁵³	ŋ ɔː c ⁵³	ŋ ɔː c ⁸/⁵³	SWEET_563			
 Mương (Sơn La)_SWEET_563	Mương (Sơn La)	muon1246	mtq	SWEET	ŋɔːc⁸	ŋɔːc⁵³	ŋ ɔː c ⁵³	ŋ ɔː c ⁸/⁵³	SWEET_563			
-Mương (Thanh Hóa)_SWEET_563	Mương (Thanh Hóa)	muon1246	mtq	SWEET	ŋɔːc⁸	ŋɔːc⁵³	ŋ ɔː c ⁵³	ŋ ɔː c ⁸/⁵³	SWEET_563			
-Nguồn (Cổ Liêm)_SWEET_563	Nguồn (Cổ Liêm)	nguo1239	nuo	SWEET	ŋɔːt8	ŋɔːt⁵³	ŋ ɔː t ⁵³	ŋ ɔː t ⁸/⁵³	SWEET_563			Nguyen1997
-Thổ (Làng Lỡ)_SWEET_563	Thổ (Làng Lỡ)	thoo1240	tou	SWEET	ŋɔːt⁸	ŋɔːt⁵³	ŋ ɔː t ⁵³	ŋ ɔː t ⁸/⁵³	SWEET_563			
-Thổ (Cuối Chăm)_SWEET_563	Thổ (Cuối Chăm)	thoo1240	tou	SWEET	ŋɔːt⁸	ŋɔːt⁵³	ŋ ɔː t ⁵³	ŋ ɔː t ⁸/⁵³	SWEET_563			6.1
+Nguồn_SWEET_563	Nguồn	nguo1239	nuo	SWEET	ŋɔːt8	ŋɔːt⁵³	ŋ ɔː t ⁵³	ŋ ɔː t ⁸/⁵³	SWEET_563			Nguyen1997
+Thổ_SWEET_563	Thổ	thoo1240	tou	SWEET	ŋɔːt⁸	ŋɔːt⁵³	ŋ ɔː t ⁵³	ŋ ɔː t ⁸/⁵³	SWEET_563			6.1
 Hung (Phong)_SWEET_563	Hung (Phong)	phon1243	hnu	SWEET	ŋɔːt	ŋɔːt	ŋ ɔː t	ŋ ɔː t	SWEET_563			Ferlus2017
 Hung (Toum)_SWEET_563	Hung (Toum)	toum1239	hnu	SWEET	ŋɔːc	ŋɔːc	ŋ ɔː c	ŋ ɔː c	SWEET_563			Ferlus2017
 Hung (Liha)_SWEET_563	Hung (Liha)	lyha1238	hnu	SWEET	ŋɔːc	ŋɔːc	ŋ ɔː c	ŋ ɔː c	SWEET_563			Ferlus2017
@@ -1331,9 +1155,8 @@ Maleng_SWEET_563	Maleng	male1282	pkt	SWEET	ŋɔc˧˦	ŋɔc³⁴	ŋ ɔ c ³⁴	ŋ
 Vietnamese_SUCKLE (BREASTFEED, NURSE)_567	Vietnamese	viet1252	vie	SUCKLE (BREASTFEED, NURSE)	bú	ɓu⁴⁵	ɓ u ⁴⁵	ɓ u ⁴⁵	SUCKLE (BREASTFEED, NURSE)_567			
 Mương (Hòa Bình)_SUCKLE (BREASTFEED, NURSE)_568	Mương (Hòa Bình)	muon1246	mtq	SUCKLE (BREASTFEED, NURSE)	Ɂuː³ / puː³	ʔuː³	ʔ uː ³	ʔ uː ³	SUCKLE (BREASTFEED, NURSE)_568			
 Mương (Sơn La)_SUCKLE (BREASTFEED, NURSE)_568	Mương (Sơn La)	muon1246	mtq	SUCKLE (BREASTFEED, NURSE)	Ɂuː³ / puː³	ʔuː³	ʔ uː ³	ʔ uː ³	SUCKLE (BREASTFEED, NURSE)_568			
-Nguồn (Cổ Liêm)_SUCKLE (BREASTFEED, NURSE)_568	Nguồn (Cổ Liêm)	nguo1239	nuo	SUCKLE (BREASTFEED, NURSE)	ʔu3	ʔu³	ʔ u ³	ʔ u ³	SUCKLE (BREASTFEED, NURSE)_568			Nguyen1997
-Thổ (Làng Lỡ)_SUCKLE (BREASTFEED, NURSE)_568	Thổ (Làng Lỡ)	thoo1240	tou	SUCKLE (BREASTFEED, NURSE)	ʔuː³	ʔuː³	ʔ uː ³	ʔ uː ³	SUCKLE (BREASTFEED, NURSE)_568			
-Thổ (Cuối Chăm)_SUCKLE (BREASTFEED, NURSE)_568	Thổ (Cuối Chăm)	thoo1240	tou	SUCKLE (BREASTFEED, NURSE)	ʔuː³	ʔuː³	ʔ uː ³	ʔ uː ³	SUCKLE (BREASTFEED, NURSE)_568			6.1
+Nguồn_SUCKLE (BREASTFEED, NURSE)_568	Nguồn	nguo1239	nuo	SUCKLE (BREASTFEED, NURSE)	ʔu3	ʔu³	ʔ u ³	ʔ u ³	SUCKLE (BREASTFEED, NURSE)_568			Nguyen1997
+Thổ_SUCKLE (BREASTFEED, NURSE)_568	Thổ	thoo1240	tou	SUCKLE (BREASTFEED, NURSE)	ʔuː³	ʔuː³	ʔ uː ³	ʔ uː ³	SUCKLE (BREASTFEED, NURSE)_568			6.1
 Hung (Phong)_SUCKLE (BREASTFEED, NURSE)_569	Hung (Phong)	phon1243	hnu	SUCKLE (BREASTFEED, NURSE)	nuː	nuː	n uː	n uː	SUCKLE (BREASTFEED, NURSE)_569			Ferlus2017
 Hung (Toum)_SUCKLE (BREASTFEED, NURSE)_569	Hung (Toum)	toum1239	hnu	SUCKLE (BREASTFEED, NURSE)	now	now	n o w	n o w	SUCKLE (BREASTFEED, NURSE)_569			Ferlus2017
 Hung (Liha)_SUCKLE (BREASTFEED, NURSE)_569	Hung (Liha)	lyha1238	hnu	SUCKLE (BREASTFEED, NURSE)	now	now	n o w	n o w	SUCKLE (BREASTFEED, NURSE)_569			Ferlus2017
@@ -1344,7 +1167,7 @@ Arem_SUCKLE (BREASTFEED, NURSE)_567	Arem	arem1240	aem	SUCKLE (BREASTFEED, NURSE)
 Thavưng_SUCKLE (BREASTFEED, NURSE)_568	Thavưng	aheu1239	thm	SUCKLE (BREASTFEED, NURSE)	ʔuː3	ʔuː³	ʔ uː ³	ʔ uː ³	SUCKLE (BREASTFEED, NURSE)_568			Ferlus1979
 Maleng_SUCKLE (BREASTFEED, NURSE)_568	Maleng	male1282	pkt	SUCKLE (BREASTFEED, NURSE)	ʔṵ̃˧˦˧ˀ	ʔṵ̃³⁴³	ʔ ṵ̃ ³⁴³	ʔ ṵ̃ ³⁴³ˀ/³⁴³	SUCKLE (BREASTFEED, NURSE)_568			NVlNHH2001
 Vietnamese_SWIM_572	Vietnamese	viet1252	vie	SWIM	bơi	ɓəːi̯³³	ɓ əː i̯ ³³	ɓ əːi̯ ³³	SWIM_572			
-Nguồn (Cổ Liêm)_SWIM_573	Nguồn (Cổ Liêm)	nguo1239	nuo	SWIM	t'ăm3	tăm³	t ă m ³	t ă m ³	SWIM_573			Nguyen1997
+Nguồn_SWIM_573	Nguồn	nguo1239	nuo	SWIM	t'ăm3	tăm³	t ă m ³	t ă m ³	SWIM_573			Nguyen1997
 Hung (Toum)_SWIM_572	Hung (Toum)	toum1239	hnu	SWIM	pəːj	pəːj	p əː j	p əː j	SWIM_572			Ferlus2017
 Hung (Liha)_SWIM_572	Hung (Liha)	lyha1238	hnu	SWIM	pəːj	pəːj	p əː j	p əː j	SWIM_572			Ferlus2017
 Chứt (Sách)_SWIM_572	Chứt (Sách)	sach1240	scb	SWIM	[[pɤi̯]]	pɤi̯	p ɤ i̯	p ɤi̯	SWIM_572			Ferlus2007
@@ -1355,11 +1178,8 @@ Maleng_SWIM_577	Maleng	male1282	pkt	SWIM	lɔj˧˦ (< Tai/Viet.)	lɔj³⁴	l ɔ j
 Vietnamese_TAIL_581	Vietnamese	viet1252	vie	TAIL	đuôi	ɗuəi̯³³	ɗ u ə i̯ ³³	đ/ð u ô/o i	TAIL_581			
 Mương (Hòa Bình)_TAIL_581	Mương (Hòa Bình)	muon1246	mtq	TAIL	tuoj¹	twoj¹	t w o j ¹	t u/w o j ¹	TAIL_581			
 Mương (Sơn La)_TAIL_581	Mương (Sơn La)	muon1246	mtq	TAIL	tuoj¹	twoj¹	t w o j ¹	t u/w o j ¹	TAIL_581			
-Mương (Thanh Hóa)_TAIL_582	Mương (Thanh Hóa)	muon1246	mtq	TAIL	duoj¹ ( < )	dwoj¹	d w o j ¹	d u/w o j ¹	TAIL_582			
-Nguồn (Cổ Liêm)_TAIL_581	Nguồn (Cổ Liêm)	nguo1239	nuo	TAIL	tuj1	tuj¹	t u j ¹	t u j ¹	TAIL_581			Nguyen1997
-Nguồn (Yên Thọ)_TAIL_581	Nguồn (Yên Thọ)	nguo1239	nuo	TAIL	ʔuoj1	ʔwoj¹	ʔ w o j ¹	ʔ u/w o j ¹	TAIL_581			Nguyen1997
-Thổ (Làng Lỡ)_TAIL_581	Thổ (Làng Lỡ)	thoo1240	tou	TAIL	δuəj²	ðwəj²	ð w ə j ²	δ/ð u/w ə j ²	TAIL_581			
-Thổ (Cuối Chăm)_TAIL_581	Thổ (Cuối Chăm)	thoo1240	tou	TAIL	tɔːj²	tɔːj²	t ɔː j ²	t ɔː j ²	TAIL_581			6.1
+Nguồn_TAIL_581	Nguồn	nguo1239	nuo	TAIL	tuj1	tuj¹	t u j ¹	t u j ¹	TAIL_581			Nguyen1997
+Thổ_TAIL_581	Thổ	thoo1240	tou	TAIL	tɔːj²	tɔːj²	t ɔː j ²	t ɔː j ²	TAIL_581			6.1
 Hung (Phong)_TAIL_581	Hung (Phong)	phon1243	hnu	TAIL	tɔːj	tɔːj	t ɔː j	t ɔː j	TAIL_581			Ferlus2017
 Hung (Toum)_TAIL_581	Hung (Toum)	toum1239	hnu	TAIL	toːj	toːj	t oː j	t oː j	TAIL_581			Ferlus2017
 Hung (Liha)_TAIL_581	Hung (Liha)	lyha1238	hnu	TAIL	tɔːj	tɔːj	t ɔː j	t ɔː j	TAIL_581			Ferlus2017
@@ -1371,10 +1191,7 @@ Thavưng_TAIL_581	Thavưng	aheu1239	thm	TAIL	toːj1	toːj¹	t oː j ¹	t oː j �
 Vietnamese_THICK_584	Vietnamese	viet1252	vie	THICK	dày	jai̯²¹	j a i̯ ²¹	j ai̯ ²¹	THICK_584			
 Mương (Hòa Bình)_THICK_584	Mương (Hòa Bình)	muon1246	mtq	THICK	taj²	taj²	t a j ²	t a j ²	THICK_584			
 Mương (Sơn La)_THICK_584	Mương (Sơn La)	muon1246	mtq	THICK	taj²	taj²	t a j ²	t a j ²	THICK_584			
-Mương (Thanh Hóa)_THICK_584	Mương (Thanh Hóa)	muon1246	mtq	THICK	taj²	taj²	t a j ²	t a j ²	THICK_584			
-Nguồn (Cổ Liêm)_THICK_584	Nguồn (Cổ Liêm)	nguo1239	nuo	THICK	tăj2	tăj²	t ă j ²	t ă j ²	THICK_584			Nguyen1997
-Nguồn (Yên Thọ)_THICK_584	Nguồn (Yên Thọ)	nguo1239	nuo	THICK	ʔăj2	ʔăj²	ʔ ă j ²	ʔ ă j ²	THICK_584			Nguyen1997
-Thổ (Làng Lỡ)_THICK_584	Thổ (Làng Lỡ)	thoo1240	tou	THICK	δəaj²	ðəaj²	ð ə a j ²	δ/ð əa j ²	THICK_584			
+Nguồn_THICK_584	Nguồn	nguo1239	nuo	THICK	tăj2	tăj²	t ă j ²	t ă j ²	THICK_584			Nguyen1997
 Hung (Phong)_THICK_584	Hung (Phong)	phon1243	hnu	THICK	ktaj	ktaj	k t a j	k t a j	THICK_584			Ferlus2017
 Hung (Toum)_THICK_584	Hung (Toum)	toum1239	hnu	THICK	taj	taj	t a j	t a j	THICK_584			Ferlus2017
 Hung (Liha)_THICK_584	Hung (Liha)	lyha1238	hnu	THICK	taj	taj	t a j	t a j	THICK_584			Ferlus2017
@@ -1385,9 +1202,8 @@ Thavưng_THICK_585	Thavưng	aheu1239	thm	THICK	kbuː	kbuː	k b uː	k b uː	THICK
 Maleng_THICK_585	Maleng	male1282	pkt	THICK	kapu˧	kapu³	k a p u ³	k a p u ³	THICK_585			NVlNHH2001
 Vietnamese_UPPER LEG (THIGH)_587	Vietnamese	viet1252	vie	UPPER LEG (THIGH)	đùi	ɗui̯²¹	ɗ u i̯ ²¹	ɗ ui̯ ²¹	UPPER LEG (THIGH)_587			
 Mương (Hòa Bình)_UPPER LEG (THIGH)_588	Mương (Hòa Bình)	muon1246	mtq	UPPER LEG (THIGH)	bluː¹	bluː¹	b l uː ¹	b l uː ¹	UPPER LEG (THIGH)_588			
-Nguồn (Cổ Liêm)_UPPER LEG (THIGH)_589	Nguồn (Cổ Liêm)	nguo1239	nuo	UPPER LEG (THIGH)	ʈaj3pen3	ʈaj³pen³	ʈ a j ³ p e n ³	ʈ a j ³ p e n ³	UPPER LEG (THIGH)_589			Nguyen1997
-Nguồn (Yên Thọ)_UPPER LEG (THIGH)_589	Nguồn (Yên Thọ)	nguo1239	nuo	UPPER LEG (THIGH)	ʔlaj3ben3	ʔlaj³ben³	ʔ l a j ³ b e n ³	ʔ l a j ³ b e n ³	UPPER LEG (THIGH)_589			Nguyen1997
-Thổ (Cuối Chăm)_UPPER LEG (THIGH)_590	Thổ (Cuối Chăm)	thoo1240	tou	UPPER LEG (THIGH)	paː⁵	paː⁵	p aː ⁵	p aː ⁵	UPPER LEG (THIGH)_590			6.1
+Nguồn_UPPER LEG (THIGH)_589	Nguồn	nguo1239	nuo	UPPER LEG (THIGH)	ʈaj3pen3	ʈaj³pen³	ʈ a j ³ p e n ³	ʈ a j ³ p e n ³	UPPER LEG (THIGH)_589			Nguyen1997
+Thổ_UPPER LEG (THIGH)_590	Thổ	thoo1240	tou	UPPER LEG (THIGH)	paː⁵	paː⁵	p aː ⁵	p aː ⁵	UPPER LEG (THIGH)_590			6.1
 Hung (Phong)_UPPER LEG (THIGH)_590	Hung (Phong)	phon1243	hnu	UPPER LEG (THIGH)	kpaː	kpaː	k p aː	k p aː	UPPER LEG (THIGH)_590			Ferlus2017
 Hung (Toum)_UPPER LEG (THIGH)_590	Hung (Toum)	toum1239	hnu	UPPER LEG (THIGH)	kpaː	kpaː	k p aː	k p aː	UPPER LEG (THIGH)_590			Ferlus2017
 Hung (Liha)_UPPER LEG (THIGH)_590	Hung (Liha)	lyha1238	hnu	UPPER LEG (THIGH)	papaː	papaː	p a p aː	p a p aː	UPPER LEG (THIGH)_590			Ferlus2017
@@ -1398,9 +1214,8 @@ Arem_UPPER LEG (THIGH)_588	Arem	arem1240	aem	UPPER LEG (THIGH)	ulău̯	ulău	u
 Thavưng_UPPER LEG (THIGH)_588	Thavưng	aheu1239	thm	UPPER LEG (THIGH)	maluː2	maluː²	m a l uː ²	m a l uː ²	UPPER LEG (THIGH)_588			Ferlus1979
 Maleng_UPPER LEG (THIGH)_591	Maleng	male1282	pkt	UPPER LEG (THIGH)	tapɛl324	tapɛl³²⁴	t a p ɛ l ³²⁴	t a p ɛ l ³²⁴	UPPER LEG (THIGH)_591			NVlNHH2001
 Vietnamese_THIS_593	Vietnamese	viet1252	vie	THIS	này	nai̯²¹	n a i̯ ²¹	n ai̯ ²¹	THIS_593			
-Nguồn (Cổ Liêm)_THIS_593	Nguồn (Cổ Liêm)	nguo1239	nuo	THIS	năj1	năj¹	n ă j ¹	n ă j ¹	THIS_593			Nguyen1997
-Thổ (Làng Lỡ)_THIS_593	Thổ (Làng Lỡ)	thoo1240	tou	THIS	naː³	naː³	n aː ³	n aː ³	THIS_593			
-Thổ (Cuối Chăm)_THIS_593	Thổ (Cuối Chăm)	thoo1240	tou	THIS	naː³	naː³	n aː ³	n aː ³	THIS_593			6.1
+Nguồn_THIS_593	Nguồn	nguo1239	nuo	THIS	năj1	năj¹	n ă j ¹	n ă j ¹	THIS_593			Nguyen1997
+Thổ_THIS_593	Thổ	thoo1240	tou	THIS	naː³	naː³	n aː ³	n aː ³	THIS_593			6.1
 Hung (Phong)_THIS_593	Hung (Phong)	phon1243	hnu	THIS	niː	niː	n iː	n iː	THIS_593			Ferlus2017
 Hung (Toum)_THIS_593	Hung (Toum)	toum1239	hnu	THIS	nei	nei	n e i	n ei	THIS_593			Ferlus2017
 Hung (Liha)_THIS_593	Hung (Liha)	lyha1238	hnu	THIS	nəi	nəi	n ə i	n əi	THIS_593			Ferlus2017
@@ -1413,8 +1228,7 @@ Maleng_THIS_593	Maleng	male1282	pkt	THIS	tani˧	tani³	t a n i ³	t a n i ³	THI
 Vietnamese_TIE_598	Vietnamese	viet1252	vie	TIE	trói, thắt / buộc	ʈɔːi̯⁴⁵	ʈ ɔː i̯ ⁴⁵	t r ó/o i	TIE_598			
 Mương (Hòa Bình)_TIE_598	Mương (Hòa Bình)	muon1246	mtq	TIE	klɔːj³	klɔːj³	k l ɔː j ³	k l ɔː j ³	TIE_598			
 Mương (Sơn La)_TIE_598	Mương (Sơn La)	muon1246	mtq	TIE	klɔːj³	klɔːj³	k l ɔː j ³	k l ɔː j ³	TIE_598			
-Nguồn (Cổ Liêm)_TIE_598	Nguồn (Cổ Liêm)	nguo1239	nuo	TIE	ʈɔj3	ʈɔj³	ʈ ɔ j ³	ʈ ɔ j ³	TIE_598			Nguyen1997
-Nguồn (Yên Thọ)_TIE_598	Nguồn (Yên Thọ)	nguo1239	nuo	TIE	ʔlɔj3	ʔlɔj³	ʔ l ɔ j ³	ʔ l ɔ j ³	TIE_598			Nguyen1997
+Nguồn_TIE_598	Nguồn	nguo1239	nuo	TIE	ʈɔj3	ʈɔj³	ʈ ɔ j ³	ʈ ɔ j ³	TIE_598			Nguyen1997
 Hung (Phong)_TIE_600	Hung (Phong)	phon1243	hnu	TIE	piak	pjak	p j a k	p i/j a k	TIE_600			Ferlus2017
 Hung (Toum)_TIE_600	Hung (Toum)	toum1239	hnu	TIE	piak	pjak	p j a k	p i/j a k	TIE_600			Ferlus2017
 Hung (Liha)_TIE_600	Hung (Liha)	lyha1238	hnu	TIE	pɨak	pɨak	p ɨ a k	p ɨa k	TIE_600			Ferlus2017
@@ -1426,9 +1240,7 @@ Maleng_TIE_603	Maleng	male1282	pkt	TIE	mat˧˦ (<Lao)	mat³⁴	m a t ³⁴	m a t
 Vietnamese_TONGUE_608	Vietnamese	viet1252	vie	TONGUE	lưỡi	lɨːi̯²¹⁴	l ɨː i̯ ²¹⁴	l ɨːi̯ ²¹⁴	TONGUE_608			
 Mương (Hòa Bình)_TONGUE_608	Mương (Hòa Bình)	muon1246	mtq	TONGUE	laːj⁶	laːj⁵¹	l aː j ⁵¹	l aː j ⁶/⁵¹	TONGUE_608			
 Mương (Sơn La)_TONGUE_608	Mương (Sơn La)	muon1246	mtq	TONGUE	laːj⁴ ⁶	laːj⁴⁵	l aː j ⁴⁵	l aː j ⁴⁶/⁴⁵	TONGUE_608			
-Mương (Thanh Hóa)_TONGUE_608	Mương (Thanh Hóa)	muon1246	mtq	TONGUE	laːj⁴⁶	laːj⁴⁵	l aː j ⁴⁵	l aː j ⁴⁶/⁴⁵	TONGUE_608			
-Thổ (Làng Lỡ)_TONGUE_608	Thổ (Làng Lỡ)	thoo1240	tou	TONGUE	laːn⁵⁶	laːn⁵⁵	l aː n ⁵⁵	l aː n ⁵⁶/⁵⁵	TONGUE_608			
-Thổ (Cuối Chăm)_TONGUE_608	Thổ (Cuối Chăm)	thoo1240	tou	TONGUE	lɐːl⁶	lɐːl⁵¹	l ɐː l ⁵¹	l ɐː l ⁶/⁵¹	TONGUE_608			6.1
+Thổ_TONGUE_608	Thổ	thoo1240	tou	TONGUE	lɐːl⁶	lɐːl⁵¹	l ɐː l ⁵¹	l ɐː l ⁶/⁵¹	TONGUE_608			6.1
 Hung (Phong)_TONGUE_608	Hung (Phong)	phon1243	hnu	TONGUE	laːt	laːt	l aː t	l aː t	TONGUE_608			Ferlus2017
 Hung (Toum)_TONGUE_608	Hung (Toum)	toum1239	hnu	TONGUE	laːc	laːc	l aː c	l aː c	TONGUE_608			Ferlus2017
 Hung (Liha)_TONGUE_608	Hung (Liha)	lyha1238	hnu	TONGUE	laːc	laːc	l aː c	l aː c	TONGUE_608			Ferlus2017
@@ -1440,8 +1252,7 @@ Thavưng_TONGUE_608	Thavưng	aheu1239	thm	TONGUE	lajh1	laʤʰ¹	l a ʤʰ ¹	l a 
 Maleng_TONGUE_608	Maleng	male1282	pkt	TONGUE	lal˧ ~ lar˧	lal³	l a l ³	l a l ³	TONGUE_608			NVlNHH2001
 Vietnamese_TOOTH_611	Vietnamese	viet1252	vie	TOOTH	rǎng / nanh "canine tooth"	ɹăŋ³³	ɹ ă ŋ ³³	r ǎ/a n g	TOOTH_611			
 Mương (Sơn La)_TOOTH_611	Mương (Sơn La)	muon1246	mtq	TOOTH	saŋ¹	saŋ¹	s a ŋ ¹	s a ŋ ¹	TOOTH_611			
-Mương (Thanh Hóa)_TOOTH_611	Mương (Thanh Hóa)	muon1246	mtq	TOOTH	saŋ¹	saŋ¹	s a ŋ ¹	s a ŋ ¹	TOOTH_611			
-Nguồn (Cổ Liêm)_TOOTH_611	Nguồn (Cổ Liêm)	nguo1239	nuo	TOOTH	t'ăŋ1	tăŋ¹	t ă ŋ ¹	t ă ŋ ¹	TOOTH_611			Nguyen1997
+Nguồn_TOOTH_611	Nguồn	nguo1239	nuo	TOOTH	t'ăŋ1	tăŋ¹	t ă ŋ ¹	t ă ŋ ¹	TOOTH_611			Nguyen1997
 Chứt (Sách)_TOOTH_611	Chứt (Sách)	sach1240	scb	TOOTH	kəsaŋ¹	kəsaŋ¹	k ə s a ŋ ¹	k ə s a ŋ ¹	TOOTH_611			Ferlus2007
 Chứt (Mày)_TOOTH_611	Chứt (Mày)	mayy1239	scb	TOOTH	kaɕăŋ¹	kaɕăŋ¹	k a ɕ ă ŋ ¹	k a ɕ ă ŋ ¹	TOOTH_611			Babaev2018
 Chứt (Rục)_TOOTH_611	Chứt (Rục)	rucc1239	scb	TOOTH	kàsăŋ	kasăŋ	k a s ă ŋ	k à/a s ă ŋ	TOOTH_611			Nguyen/Tran/Ferlus1998
@@ -1451,9 +1262,8 @@ Maleng_TOOTH_611	Maleng	male1282	pkt	TOOTH	kasăŋ˧	kasăŋ³	k a s ă ŋ ³
 Vietnamese_TREE_615	Vietnamese	viet1252	vie	TREE	сây	kəi̯³³	k ə i̯ ³³	c â/a y	TREE_615			
 Mương (Hòa Bình)_TREE_615	Mương (Hòa Bình)	muon1246	mtq	TREE	kaə¹	kaə¹	k a ə ¹	k aə ¹	TREE_615			
 Mương (Sơn La)_TREE_615	Mương (Sơn La)	muon1246	mtq	TREE	kəl¹	kəl¹	k ə l ¹	k ə l ¹	TREE_615			
-Mương (Thanh Hóa)_TREE_615	Mương (Thanh Hóa)	muon1246	mtq	TREE	kən¹	kən¹	k ə n ¹	k ə n ¹	TREE_615			
-Nguồn (Cổ Liêm)_TREE_615	Nguồn (Cổ Liêm)	nguo1239	nuo	TREE	kən1	kən¹	k ə n ¹	k ə n ¹	TREE_615			Nguyen1997
-Thổ (Cuối Chăm)_TREE_615	Thổ (Cuối Chăm)	thoo1240	tou	TREE	kʌl² / ɣʌj¹	kʌl²	k ʌ l ²	k ʌ l ²	TREE_615			6.1
+Nguồn_TREE_615	Nguồn	nguo1239	nuo	TREE	kən1	kən¹	k ə n ¹	k ə n ¹	TREE_615			Nguyen1997
+Thổ_TREE_615	Thổ	thoo1240	tou	TREE	kʌl² / ɣʌj¹	kʌl²	k ʌ l ²	k ʌ l ²	TREE_615			6.1
 Hung (Phong)_TREE_615	Hung (Phong)	phon1243	hnu	TREE	kaw	kaw	k a w	k a w	TREE_615			Ferlus2017
 Hung (Toum)_TREE_615	Hung (Toum)	toum1239	hnu	TREE	kʌl	kʌl	k ʌ l	k ʌ l	TREE_615			Ferlus2017
 Hung (Liha)_TREE_615	Hung (Liha)	lyha1238	hnu	TREE	kɔn	kɔn	k ɔ n	k ɔ n	TREE_615			Ferlus2017
@@ -1466,11 +1276,8 @@ Maleng_TREE_615	Maleng	male1282	pkt	TREE	kil˧	kil³	k i l ³	k i l ³	TREE_615	
 Vietnamese_TWO_621	Vietnamese	viet1252	vie	TWO	hai	haːi̯³³	h aː i̯ ³³	h aːi̯ ³³	TWO_621			
 Mương (Hòa Bình)_TWO_621	Mương (Hòa Bình)	muon1246	mtq	TWO	haːə¹	haːə¹	h aː ə ¹	h aːə ¹	TWO_621			
 Mương (Sơn La)_TWO_621	Mương (Sơn La)	muon1246	mtq	TWO	haːl¹	haːl¹	h aː l ¹	h aː l ¹	TWO_621			
-Mương (Thanh Hóa)_TWO_621	Mương (Thanh Hóa)	muon1246	mtq	TWO	haːn¹	haːn¹	h aː n ¹	h aː n ¹	TWO_621			
-Nguồn (Cổ Liêm)_TWO_621	Nguồn (Cổ Liêm)	nguo1239	nuo	TWO	han1	han¹	h a n ¹	h a n ¹	TWO_621			Nguyen1997
-Nguồn (Yên Thọ)_TWO_621	Nguồn (Yên Thọ)	nguo1239	nuo	TWO	han1	han¹	h a n ¹	h a n ¹	TWO_621			Nguyen1997
-Thổ (Làng Lỡ)_TWO_621	Thổ (Làng Lỡ)	thoo1240	tou	TWO	haːn¹	haːn¹	h aː n ¹	h aː n ¹	TWO_621			
-Thổ (Cuối Chăm)_TWO_621	Thổ (Cuối Chăm)	thoo1240	tou	TWO	haːl¹	haːl¹	h aː l ¹	h aː l ¹	TWO_621			6.1
+Nguồn_TWO_621	Nguồn	nguo1239	nuo	TWO	han1	han¹	h a n ¹	h a n ¹	TWO_621			Nguyen1997
+Thổ_TWO_621	Thổ	thoo1240	tou	TWO	haːl¹	haːl¹	h aː l ¹	h aː l ¹	TWO_621			6.1
 Hung (Phong)_TWO_621	Hung (Phong)	phon1243	hnu	TWO	haːl	haːl	h aː l	h aː l	TWO_621			Ferlus2017
 Hung (Toum)_TWO_621	Hung (Toum)	toum1239	hnu	TWO	haːl	haːl	h aː l	h aː l	TWO_621			Ferlus2017
 Hung (Liha)_TWO_621	Hung (Liha)	lyha1238	hnu	TWO	haːn	haːn	h aː n	h aː n	TWO_621			Ferlus2017
@@ -1483,11 +1290,8 @@ Maleng_TWO_621	Maleng	male1282	pkt	TWO	hal˧˦	hal³⁴	h a l ³⁴	h a l ³⁴	
 Vietnamese_WALK_625	Vietnamese	viet1252	vie	WALK	đi	ɗi³³	ɗ i ³³	ɗ i ³³	WALK_625			
 Mương (Hòa Bình)_WALK_625	Mương (Hòa Bình)	muon1246	mtq	WALK	tiː¹	tiː¹	t iː ¹	t iː ¹	WALK_625			
 Mương (Sơn La)_WALK_625	Mương (Sơn La)	muon1246	mtq	WALK	tiː¹	tiː¹	t iː ¹	t iː ¹	WALK_625			
-Mương (Thanh Hóa)_WALK_625	Mương (Thanh Hóa)	muon1246	mtq	WALK	diː¹	diː¹	d iː ¹	d iː ¹	WALK_625			
-Nguồn (Cổ Liêm)_WALK_625	Nguồn (Cổ Liêm)	nguo1239	nuo	WALK	ti1	ti¹	t i ¹	t i ¹	WALK_625			Nguyen1997
-Nguồn (Yên Thọ)_WALK_625	Nguồn (Yên Thọ)	nguo1239	nuo	WALK	ʔi1	ʔi¹	ʔ i ¹	ʔ i ¹	WALK_625			Nguyen1997
-Thổ (Làng Lỡ)_WALK_625	Thổ (Làng Lỡ)	thoo1240	tou	WALK	tiː²	tiː²	t iː ²	t iː ²	WALK_625			
-Thổ (Cuối Chăm)_WALK_625	Thổ (Cuối Chăm)	thoo1240	tou	WALK	tiː²	tiː²	t iː ²	t iː ²	WALK_625			6.1
+Nguồn_WALK_625	Nguồn	nguo1239	nuo	WALK	ti1	ti¹	t i ¹	t i ¹	WALK_625			Nguyen1997
+Thổ_WALK_625	Thổ	thoo1240	tou	WALK	tiː²	tiː²	t iː ²	t iː ²	WALK_625			6.1
 Hung (Phong)_WALK_625	Hung (Phong)	phon1243	hnu	WALK	tiː	tiː	t iː	t iː	WALK_625			Ferlus2017
 Hung (Toum)_WALK_625	Hung (Toum)	toum1239	hnu	WALK	tei	tei	t e i	t ei	WALK_625			Ferlus2017
 Hung (Liha)_WALK_625	Hung (Liha)	lyha1238	hnu	WALK	təi	təi	t ə i	t əi	WALK_625			Ferlus2017
@@ -1500,10 +1304,8 @@ Maleng_WALK_627	Maleng	male1282	pkt	WALK	ʔɤc˧˦	ʔɤc³⁴	ʔ ɤ c ³⁴	ʔ �
 Vietnamese_WARM_631	Vietnamese	viet1252	vie	WARM	ấm	ʔəm⁴⁵	ʔ ə m ⁴⁵	ʔ ə m ⁴⁵	WARM_631			
 Mương (Hòa Bình)_WARM_631	Mương (Hòa Bình)	muon1246	mtq	WARM	ʔəm³	ʔəm³	ʔ ə m ³	ʔ ə m ³	WARM_631			
 Mương (Sơn La)_WARM_631	Mương (Sơn La)	muon1246	mtq	WARM	ʔəm³	ʔəm³	ʔ ə m ³	ʔ ə m ³	WARM_631			
-Nguồn (Cổ Liêm)_WARM_631	Nguồn (Cổ Liêm)	nguo1239	nuo	WARM	ə̆m1ə̆m3	ə̆m¹ə̆m³	ə̆ m ¹ ə̆ m ³	ə̆ m ¹ ə̆ m ³	WARM_631			Nguyen1997
-Nguồn (Yên Thọ)_WARM_631	Nguồn (Yên Thọ)	nguo1239	nuo	WARM	ə̆m3	ə̆m³	ə̆ m ³	ə̆ m ³	WARM_631			Nguyen1997
-Thổ (Làng Lỡ)_WARM_631	Thổ (Làng Lỡ)	thoo1240	tou	WARM	ʔʌm³	ʔʌm³	ʔ ʌ m ³	ʔ ʌ m ³	WARM_631			
-Thổ (Cuối Chăm)_WARM_631	Thổ (Cuối Chăm)	thoo1240	tou	WARM	ʔʌm³	ʔʌm³	ʔ ʌ m ³	ʔ ʌ m ³	WARM_631			6.1
+Nguồn_WARM_631	Nguồn	nguo1239	nuo	WARM	ə̆m1ə̆m3	ə̆m¹ə̆m³	ə̆ m ¹ ə̆ m ³	ə̆ m ¹ ə̆ m ³	WARM_631			Nguyen1997
+Thổ_WARM_631	Thổ	thoo1240	tou	WARM	ʔʌm³	ʔʌm³	ʔ ʌ m ³	ʔ ʌ m ³	WARM_631			6.1
 Hung (Phong)_WARM_632	Hung (Phong)	phon1243	hnu	WARM	tʰəːl	tʰəːl	tʰ əː l	tʰ əː l	WARM_632			Ferlus2017
 Hung (Toum)_WARM_632	Hung (Toum)	toum1239	hnu	WARM	tʰəːl	tʰəːl	tʰ əː l	tʰ əː l	WARM_632			Ferlus2017
 Chứt (Sách)_WARM_631	Chứt (Sách)	sach1240	scb	WARM	[[kəʔám]]	kəʔam	k ə ʔ a m	k ə ʔ á/a m	WARM_631			Ferlus2007
@@ -1515,11 +1317,8 @@ Maleng_WARM_631	Maleng	male1282	pkt	WARM	taʔɯ̆m˧˦˧ˀ	taʔɯ̆m³⁴³	t a 
 Vietnamese_WATER_638	Vietnamese	viet1252	vie	WATER	nước	nɨːk⁴⁵	n ɨː k ⁴⁵	n ɨː k ⁴⁵	WATER_638			
 Mương (Hòa Bình)_WATER_638	Mương (Hòa Bình)	muon1246	mtq	WATER	raːk⁷	raːk⁵²	r aː k ⁵²	r aː k ⁷/⁵²	WATER_638			
 Mương (Sơn La)_WATER_638	Mương (Sơn La)	muon1246	mtq	WATER	daːk⁷	daːk⁵²	d aː k ⁵²	d aː k ⁷/⁵²	WATER_638			
-Mương (Thanh Hóa)_WATER_638	Mương (Thanh Hóa)	muon1246	mtq	WATER	raːk⁷	raːk⁵²	r aː k ⁵²	r aː k ⁷/⁵²	WATER_638			
-Nguồn (Cổ Liêm)_WATER_638	Nguồn (Cổ Liêm)	nguo1239	nuo	WATER	djak7	djak⁵²	d j a k ⁵²	d j a k ⁷/⁵²	WATER_638			Nguyen1997
-Nguồn (Yên Thọ)_WATER_638	Nguồn (Yên Thọ)	nguo1239	nuo	WATER	djak7	djak⁵²	d j a k ⁵²	d j a k ⁷/⁵²	WATER_638			Nguyen1997
-Thổ (Làng Lỡ)_WATER_638	Thổ (Làng Lỡ)	thoo1240	tou	WATER	daːk⁷	daːk⁵²	d aː k ⁵²	d aː k ⁷/⁵²	WATER_638			
-Thổ (Cuối Chăm)_WATER_638	Thổ (Cuối Chăm)	thoo1240	tou	WATER	daːk⁷	daːk⁵²	d aː k ⁵²	d aː k ⁷/⁵²	WATER_638			6.1
+Nguồn_WATER_638	Nguồn	nguo1239	nuo	WATER	djak7	djak⁵²	d j a k ⁵²	d j a k ⁷/⁵²	WATER_638			Nguyen1997
+Thổ_WATER_638	Thổ	thoo1240	tou	WATER	daːk⁷	daːk⁵²	d aː k ⁵²	d aː k ⁷/⁵²	WATER_638			6.1
 Hung (Phong)_WATER_638	Hung (Phong)	phon1243	hnu	WATER	daːk	daːk	d aː k	d aː k	WATER_638			Ferlus2017
 Hung (Toum)_WATER_638	Hung (Toum)	toum1239	hnu	WATER	daːk	daːk	d aː k	d aː k	WATER_638			Ferlus2017
 Hung (Liha)_WATER_638	Hung (Liha)	lyha1238	hnu	WATER	daːk	daːk	d aː k	d aː k	WATER_638			Ferlus2017
@@ -1532,10 +1331,8 @@ Maleng_WATER_638	Maleng	male1282	pkt	WATER	dak˦	dak⁴	d a k ⁴	d a k ⁴	WATE
 Vietnamese_CRY_641	Vietnamese	viet1252	vie	CRY	khóc	xɔk͡p⁴⁵	x ɔ k͡p ⁴⁵	x ɔ kp ⁴⁵	CRY_641			
 Mương (Hòa Bình)_CRY_642	Mương (Hòa Bình)	muon1246	mtq	CRY	ɲaːm⁴	ɲaːm⁴	ɲ aː m ⁴	ɲ aː m ⁴	CRY_642			
 Mương (Sơn La)_CRY_642	Mương (Sơn La)	muon1246	mtq	CRY	ɲaːm⁴	ɲaːm⁴	ɲ aː m ⁴	ɲ aː m ⁴	CRY_642			
-Mương (Thanh Hóa)_CRY_642	Mương (Thanh Hóa)	muon1246	mtq	CRY	ɲaːm⁴	ɲaːm⁴	ɲ aː m ⁴	ɲ aː m ⁴	CRY_642			
-Nguồn (Cổ Liêm)_CRY_642	Nguồn (Cổ Liêm)	nguo1239	nuo	CRY	ɲam4	ɲam⁴	ɲ a m ⁴	ɲ a m ⁴	CRY_642			Nguyen1997
-Thổ (Làng Lỡ)_CRY_642	Thổ (Làng Lỡ)	thoo1240	tou	CRY	ɲɐːm⁴	ɲɐːm⁴	ɲ ɐː m ⁴	ɲ ɐː m ⁴	CRY_642			
-Thổ (Cuối Chăm)_CRY_642	Thổ (Cuối Chăm)	thoo1240	tou	CRY	ɲɐːm⁴	ɲɐːm⁴	ɲ ɐː m ⁴	ɲ ɐː m ⁴	CRY_642			6.1
+Nguồn_CRY_642	Nguồn	nguo1239	nuo	CRY	ɲam4	ɲam⁴	ɲ a m ⁴	ɲ a m ⁴	CRY_642			Nguyen1997
+Thổ_CRY_642	Thổ	thoo1240	tou	CRY	ɲɐːm⁴	ɲɐːm⁴	ɲ ɐː m ⁴	ɲ ɐː m ⁴	CRY_642			6.1
 Hung (Phong)_CRY_642	Hung (Phong)	phon1243	hnu	CRY	ɲaːm	ɲaːm	ɲ aː m	ɲ aː m	CRY_642			Ferlus2017
 Hung (Toum)_CRY_642	Hung (Toum)	toum1239	hnu	CRY	jaːm	jaːm	j aː m	j aː m	CRY_642			Ferlus2017
 Hung (Liha)_CRY_642	Hung (Liha)	lyha1238	hnu	CRY	jaːm	jaːm	j aː m	j aː m	CRY_642			Ferlus2017
@@ -1546,8 +1343,7 @@ Arem_CRY_642	Arem	arem1240	aem	CRY	aʑìe̯mʼ	aʑiemˀ	a ʑ i e mˀ	a ʑ ì/i 
 Thavưng_CRY_642	Thavưng	aheu1239	thm	CRY	Ɂahiːm3	ʔahiːm³	ʔ a h iː m ³	ʔ a h iː m ³	CRY_642			Ferlus1979
 Maleng_CRY_642	Maleng	male1282	pkt	CRY	zɤ̰m˧˦˧ˀ	zɤ̰m³⁴³	z ɤ̰ m ³⁴³	z ɤ̰ m ³⁴³ˀ/³⁴³	CRY_642			NVlNHH2001
 Vietnamese_WHAT_643	Vietnamese	viet1252	vie	WHAT	gì	ji²¹	j i ²¹	j i ²¹	WHAT_643			
-Nguồn (Cổ Liêm)_WHAT_644	Nguồn (Cổ Liêm)	nguo1239	nuo	WHAT	si1	si¹	s i ¹	s i ¹	WHAT_644			Nguyen1997
-Nguồn (Yên Thọ)_WHAT_644	Nguồn (Yên Thọ)	nguo1239	nuo	WHAT	ci1	ci¹	c i ¹	c i ¹	WHAT_644			Nguyen1997
+Nguồn_WHAT_644	Nguồn	nguo1239	nuo	WHAT	si1	si¹	s i ¹	s i ¹	WHAT_644			Nguyen1997
 Hung (Toum)_WHAT_644	Hung (Toum)	toum1239	hnu	WHAT	ciː	ciː	c iː	c iː	WHAT_644			Ferlus2017
 Hung (Liha)_WHAT_644	Hung (Liha)	lyha1238	hnu	WHAT	ciː	ciː	c iː	c iː	WHAT_644			Ferlus2017
 Chứt (Sách)_WHAT_643	Chứt (Sách)	sach1240	scb	WHAT	[[kɛ́]]	kɛ	k ɛ	k ɛ́/ɛ	WHAT_643			Ferlus2007
@@ -1559,9 +1355,8 @@ Maleng_WHAT_646	Maleng	male1282	pkt	WHAT	mʌ	mʌ	m ʌ	m ʌ	WHAT_646			NVlNHH2001
 Vietnamese_WHITE_649	Vietnamese	viet1252	vie	WHITE	trǎ́ng	ʈăŋ⁴⁵	ʈ ă ŋ ⁴⁵	t r á/a n g	WHITE_649			
 Mương (Hòa Bình)_WHITE_650	Mương (Hòa Bình)	muon1246	mtq	WHITE	lɔːk⁸	lɔːk⁵³	l ɔː k ⁵³	l ɔː k ⁸/⁵³	WHITE_650			
 Mương (Sơn La)_WHITE_650	Mương (Sơn La)	muon1246	mtq	WHITE	lɔːk⁸	lɔːk⁵³	l ɔː k ⁵³	l ɔː k ⁸/⁵³	WHITE_650			
-Nguồn (Cổ Liêm)_WHITE_649	Nguồn (Cổ Liêm)	nguo1239	nuo	WHITE	ʈăŋ3	ʈăŋ³	ʈ ă ŋ ³	ʈ ă ŋ ³	WHITE_649			Nguyen1997
-Nguồn (Yên Thọ)_WHITE_649	Nguồn (Yên Thọ)	nguo1239	nuo	WHITE	lăŋ3	lăŋ³	l ă ŋ ³	l ă ŋ ³	WHITE_649			Nguyen1997
-Thổ (Cuối Chăm)_WHITE_651	Thổ (Cuối Chăm)	thoo1240	tou	WHITE	pɐːk⁸ / plɔːk⁸	pɐːk⁵³	p ɐː k ⁵³	p ɐː k ⁸/⁵³	WHITE_651			6.1
+Nguồn_WHITE_649	Nguồn	nguo1239	nuo	WHITE	ʈăŋ3	ʈăŋ³	ʈ ă ŋ ³	ʈ ă ŋ ³	WHITE_649			Nguyen1997
+Thổ_WHITE_651	Thổ	thoo1240	tou	WHITE	pɐːk⁸ / plɔːk⁸	pɐːk⁵³	p ɐː k ⁵³	p ɐː k ⁸/⁵³	WHITE_651			6.1
 Hung (Phong)_WHITE_650	Hung (Phong)	phon1243	hnu	WHITE	plɔːk	plɔːk	p l ɔː k	p l ɔː k	WHITE_650			Ferlus2017
 Hung (Toum)_WHITE_650	Hung (Toum)	toum1239	hnu	WHITE	plɔ‹k	plɔk	p l ɔ k	p l ɔ k	WHITE_650			Ferlus2017
 Hung (Liha)_WHITE_650	Hung (Liha)	lyha1238	hnu	WHITE	plɔːk	plɔːk	p l ɔː k	p l ɔː k	WHITE_650			Ferlus2017
@@ -1574,10 +1369,8 @@ Maleng_WHITE_652	Maleng	male1282	pkt	WHITE	lɒk˧˦	lɒk³⁴	l ɒ k ³⁴	l ɒ 
 Vietnamese_WHO_656	Vietnamese	viet1252	vie	WHO	ai	ʔaːi̯³³	ʔ aː i̯ ³³	ʔ aːi̯ ³³	WHO_656			
 Mương (Hòa Bình)_WHO_656	Mương (Hòa Bình)	muon1246	mtq	WHO	ʔaːj¹	ʔaːj¹	ʔ aː j ¹	ʔ aː j ¹	WHO_656			
 Mương (Sơn La)_WHO_656	Mương (Sơn La)	muon1246	mtq	WHO	ʔaːj¹	ʔaːj¹	ʔ aː j ¹	ʔ aː j ¹	WHO_656			
-Nguồn (Cổ Liêm)_WHO_656	Nguồn (Cổ Liêm)	nguo1239	nuo	WHO	aj1	aj¹	a j ¹	a j ¹	WHO_656			Nguyen1997
-Nguồn (Yên Thọ)_WHO_656	Nguồn (Yên Thọ)	nguo1239	nuo	WHO	aj1	aj¹	a j ¹	a j ¹	WHO_656			Nguyen1997
-Thổ (Làng Lỡ)_WHO_656	Thổ (Làng Lỡ)	thoo1240	tou	WHO	ʔeː¹	ʔeː¹	ʔ eː ¹	ʔ eː ¹	WHO_656			
-Thổ (Cuối Chăm)_WHO_656	Thổ (Cuối Chăm)	thoo1240	tou	WHO	ʔeː¹	ʔeː¹	ʔ eː ¹	ʔ eː ¹	WHO_656			6.1
+Nguồn_WHO_656	Nguồn	nguo1239	nuo	WHO	aj1	aj¹	a j ¹	a j ¹	WHO_656			Nguyen1997
+Thổ_WHO_656	Thổ	thoo1240	tou	WHO	ʔeː¹	ʔeː¹	ʔ eː ¹	ʔ eː ¹	WHO_656			6.1
 Hung (Phong)_WHO_656	Hung (Phong)	phon1243	hnu	WHO	ʔeː	ʔeː	ʔ eː	ʔ eː	WHO_656			Ferlus2017
 Hung (Toum)_WHO_656	Hung (Toum)	toum1239	hnu	WHO	ʔae	ʔae	ʔ a e	ʔ ae	WHO_656			Ferlus2017
 Hung (Liha)_WHO_656	Hung (Liha)	lyha1238	hnu	WHO	ʔaɛ	ʔaɛ	ʔ a ɛ	ʔ aɛ	WHO_656			Ferlus2017
@@ -1590,8 +1383,7 @@ Maleng_WHO_659	Maleng	male1282	pkt	WHO	ʔavɛ˧	ʔavɛ³	ʔ a v ɛ ³	ʔ a v ɛ 
 Vietnamese_WIDE_662	Vietnamese	viet1252	vie	WIDE	rộng	ɹɔŋ͡m²¹²	ɹ ɔ ŋ͡m ²¹²	r ɔ ŋm ²¹²	WIDE_662			
 Mương (Hòa Bình)_WIDE_662	Mương (Hòa Bình)	muon1246	mtq	WIDE	ʐoːŋ⁴	ʐoːŋ⁴	ʐ oː ŋ ⁴	ʐ oː ŋ ⁴	WIDE_662			
 Mương (Sơn La)_WIDE_662	Mương (Sơn La)	muon1246	mtq	WIDE	tʰoːŋ⁴⁶	tʰoːŋ⁴⁵	tʰ oː ŋ ⁴⁵	tʰ oː ŋ ⁴⁶/⁴⁵	WIDE_662			
-Thổ (Làng Lỡ)_WIDE_662	Thổ (Làng Lỡ)	thoo1240	tou	WIDE	ʐɔːŋ¹	ʐɔːŋ¹	ʐ ɔː ŋ ¹	ʐ ɔː ŋ ¹	WIDE_662			
-Thổ (Cuối Chăm)_WIDE_662	Thổ (Cuối Chăm)	thoo1240	tou	WIDE	roːŋ⁴	roːŋ⁴	r oː ŋ ⁴	r oː ŋ ⁴	WIDE_662			6.1
+Thổ_WIDE_662	Thổ	thoo1240	tou	WIDE	roːŋ⁴	roːŋ⁴	r oː ŋ ⁴	r oː ŋ ⁴	WIDE_662			6.1
 Hung (Toum)_WIDE_662	Hung (Toum)	toum1239	hnu	WIDE	ʰloːŋ	ʰloːŋ	ʰl oː ŋ	ʰl oː ŋ	WIDE_662			Ferlus2017
 Hung (Liha)_WIDE_662	Hung (Liha)	lyha1238	hnu	WIDE	ɣoːŋ	ɣoːŋ	ɣ oː ŋ	ɣ oː ŋ	WIDE_662			Ferlus2017
 Chứt (Rục)_WIDE_662	Chứt (Rục)	rucc1239	scb	WIDE	ʒuọŋ	ʒuoŋ	ʒ u o ŋ	ʒ u ọ/o ŋ	WIDE_662			Nguyen/Tran/Ferlus1998
@@ -1599,10 +1391,8 @@ Arem_WIDE_662	Arem	arem1240	aem	WIDE	ròŋʼ	roŋˀ	r o ŋˀ	r ò/o ŋʼ/ŋˀ	W
 Vietnamese_WIND_666	Vietnamese	viet1252	vie	WIND	gió	jɔː⁴⁵	j ɔː ⁴⁵	j ɔː ⁴⁵	WIND_666			
 Mương (Hòa Bình)_WIND_666	Mương (Hòa Bình)	muon1246	mtq	WIND	sɔː³	sɔː³	s ɔː ³	s ɔː ³	WIND_666			
 Mương (Sơn La)_WIND_666	Mương (Sơn La)	muon1246	mtq	WIND	sɔː³	sɔː³	s ɔː ³	s ɔː ³	WIND_666			
-Mương (Thanh Hóa)_WIND_666	Mương (Thanh Hóa)	muon1246	mtq	WIND	sɔː³	sɔː³	s ɔː ³	s ɔː ³	WIND_666			
-Nguồn (Cổ Liêm)_WIND_666	Nguồn (Cổ Liêm)	nguo1239	nuo	WIND	sɔ3	sɔ³	s ɔ ³	s ɔ ³	WIND_666			Nguyen1997
-Thổ (Làng Lỡ)_WIND_666	Thổ (Làng Lỡ)	thoo1240	tou	WIND	jua³	jwa³	j w a ³	j u/w a ³	WIND_666			
-Thổ (Cuối Chăm)_WIND_666	Thổ (Cuối Chăm)	thoo1240	tou	WIND	sɒː³	sɒː³	s ɒː ³	s ɒː ³	WIND_666			6.1
+Nguồn_WIND_666	Nguồn	nguo1239	nuo	WIND	sɔ3	sɔ³	s ɔ ³	s ɔ ³	WIND_666			Nguyen1997
+Thổ_WIND_666	Thổ	thoo1240	tou	WIND	sɒː³	sɒː³	s ɒː ³	s ɒː ³	WIND_666			6.1
 Hung (Phong)_WIND_666	Hung (Phong)	phon1243	hnu	WIND	kăjɔː	kăjɔː	k ă j ɔː	k ă j ɔː	WIND_666			Ferlus2017
 Hung (Toum)_WIND_666	Hung (Toum)	toum1239	hnu	WIND	jɔː	jɔː	j ɔː	j ɔː	WIND_666			Ferlus2017
 Hung (Liha)_WIND_666	Hung (Liha)	lyha1238	hnu	WIND	jɔː	jɔː	j ɔː	j ɔː	WIND_666			Ferlus2017
