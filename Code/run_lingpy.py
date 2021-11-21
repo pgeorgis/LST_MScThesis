@@ -158,8 +158,8 @@ def adjust_characters(lexstat_ch, skip=[]):
     return strip_diacritics(unidecode.unidecode(lexstat_ch))
     
 
-def load_lexstat_clusters(dataset, concept_set=None):
-    lexstat_data = process_lexstat_data(dataset)
+def load_lexstat_clusters(dataset, concept_set=None, **kwargs):
+    lexstat_data = process_lexstat_data(dataset, **kwargs)
     
     if concept_set == None:
         concept_set = list(lexstat_data.keys())

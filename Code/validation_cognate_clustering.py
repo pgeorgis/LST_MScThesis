@@ -220,22 +220,20 @@ for vd in validation_datasets:
 
 #%%
 #Distance/similarity functions
-functions = {#'Surprisal':(surprisal_sim, True),
-             #'PMI':(score_pmi, False),
-             #'Phonetic':(word_sim, True),
+functions = {'Surprisal':(surprisal_sim, True),
+             'PMI':(score_pmi, False),
+             'Phonetic':(word_sim, True),
              'Hybrid':(hybrid_similarity, True),
+             'Levenshtein':(LevenshteinDist, False),
              #'SyllStrPhonetic':(segmental_word_sim, True),
              #'BasicPhonetic':(basic_word_sim, True),
-             #'Levenshtein':(LevenshteinDist, False),
              #'PhoneticSurprisal':(phonetic_surprisal, True),
-             
-             #'Z-Surprisal':(z_score_surprisal, False)
              }
 
 #%%
 #Evaluate validation datasets for all functions with parameters = [0.0, ..., 1.0]
 evaluation = {}
-destination = '../Results/Cognate Clustering/Validation/Common Concepts/revised_gemination_'
+destination = '../Results/Cognate Clustering/Validation/'
 
 #%%
 function_labels = list(functions.keys())
@@ -277,37 +275,48 @@ for i in range(len(functions)):
             print('\n')
 
 #%%
-#Plot all performances
-loaded = defaultdict(lambda:False)
-#%%
+#Plot all performances on validation datasets
 for func_label in evaluation: 
     plot_performance(evaluation[func_label], func_label, save_directory=destination,
-                     legend_pos=(0.9, 0.9), method=method)
+                     legend_pos=(0.9, 0.3), method=method)
     optimum = optimal_parameter(evaluation[func_label], method=method)
     print(f'Best parameter value for {func_label}: {optimum}')
     for family in evaluation[func_label]:
         if method == 'bcubed':
             print(family, round(evaluation[func_label][family][optimum][2], 3))
-        else: #mcc.
+        else: #mcc
             print(family, round(evaluation[func_label][family][optimum], 3))
 
+#%%
+#Get performance on test datasets at optimum parameter values
+loaded = defaultdict(lambda:False)
+
+#%%
 for func_label in functions:
+    optimum = optimal_parameter(evaluation[func_label], method=method)
     dist_func, func_sim = functions[func_label]
-    print(func_label, optimum)
     for family in test_datasets: 
-        if loaded[family.name] == False:  
+        if (loaded[family.name] == False):  
             print(f'Loading {family.name} phoneme PMI...') 
             family.load_phoneme_pmi() 
             print(f'Loading {family.name} phoneme surprisal...') 
             family.load_phoneme_surprisal(ngram_size=ngram_size)
             loaded[family.name] = True
-        print(f'Clustering {family.name} words...') 
+    
+    for family in families.values():
+        print(f'Clustering {family.name} words according to {func_label} measure...') 
         family_clusters = family.cluster_cognates(concept_list=common_concepts,
                                         dist_func=dist_func, sim=func_sim,
                                         cutoff=optimum, 
                                         #ngram_size=ngram_size
                                         #total_sim=True
                                         )
+        
+        print(f'Writing cognate index file...')
+        create_folder(func_label, '../Results/Cognate Clustering/')
+        family.write_cognate_index(family_clusters,
+                                   output_file=f'../Results/Cognate Clustering/{func_label}/{family.name}_{func_label}-{optimum}_cognates.csv')
+        
         print(f'Evaluating {family.name} cognate clusters...') 
         family_eval = family.evaluate_clusters(family_clusters, method=method)
         if method == 'bcubed':

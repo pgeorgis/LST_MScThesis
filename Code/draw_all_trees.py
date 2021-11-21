@@ -7,16 +7,16 @@ from scipy.cluster.hierarchy import dendrogram, linkage, fcluster, to_tree
 #%%
 destination = '../Results/Trees/'
 
-functions = {'PMI':(score_pmi, False, 0.34),
+functions = {'PMI':(score_pmi, False, 0.35),
              'Surprisal':(surprisal_sim, True, 0.72),
              #'Surprisal2gram':(surprisal_sim, True, 0.69),
              'Phonetic':(word_sim, True, 0.17),
-             'Hybrid':(hybrid_similarity, True, 0.56),
+             'Hybrid':(hybrid_similarity, True, 0.56)
              }
 
 
 #OPTIMAL VALUES FROM VALIDATION DATASETS ON COMMON CONCEPT SET USING BCUBED F1
-#PMI: 0.34
+#PMI: 0.35
 #Surprisal unigram: 0.72
 #Surprisal bigram: 0.69
 #Phonetic_WITHinfopenalty: 0.23 #need to rerun for this

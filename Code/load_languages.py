@@ -165,10 +165,12 @@ class Dataset:
         for lang_pair in itertools.product(self.languages.values(), self.languages.values()):
             lang1, lang2 = lang_pair
             if lang1 != lang2:
-                pair_mutual_coverage = len([concept for concept in lang1.vocabulary 
+                pair_mutual_coverage = len([concept for concept in concept_list 
+                                            if concept in lang1.vocabulary 
                                             if concept in lang2.vocabulary])
                 mutual_coverages[lang_pair] = pair_mutual_coverage
-        avg_mutual_coverage = mean(mutual_coverages.values()) / len(self.concepts)
+        avg_mutual_coverage = mean(mutual_coverages.values()) / len([c for c in concept_list 
+                                                                     if c in self.concepts])
         
         return mutual_coverage, avg_mutual_coverage
                     
@@ -1051,6 +1053,12 @@ def combine_datasets(dataset_list):
     
 
 #%%
+#LOAD COMMON CONCEPTS
+common_concepts = pd.read_csv(str(parent_dir) + '/Datasets/Concepts/common_concepts.csv', sep='\t')
+common_concepts = set(concept 
+                      for i, row in common_concepts.iterrows() 
+                      for concept in row['Alternate_Labels'].split('; '))
+
 #LOAD FAMILIES AND WRITE VOCABULARY INDEX FILES
 datasets_path = str(parent_dir) + '/Datasets/'
 os.chdir(datasets_path)
@@ -1075,7 +1083,7 @@ for family in ['Arabic',
     filepath = datasets_path + family + f'/{family_path}_data.csv'
     print(f'Loading {family}...')
     families[family] = Dataset(filepath, family)
-    #families[family].prune_languages(min_amc=0.75)
+    #families[family].prune_languages(min_amc=0.75, concept_list=common_concepts)
     #families[family].write_vocab_index()
     language_variables = {format_as_variable(lang):families[family].languages[lang] 
                           for lang in families[family].languages}
@@ -1096,8 +1104,3 @@ all_families = [families[family] for family in families]
 total_languages = len(all_languages)
 total_families = len(all_families)
 
-#Load common concepts
-common_concepts = pd.read_csv(str(parent_dir) + '/Datasets/Concepts/common_concepts.csv', sep='\t')
-common_concepts = set(concept 
-                      for i, row in common_concepts.iterrows() 
-                      for concept in row['Alternate_Labels'].split('; '))
