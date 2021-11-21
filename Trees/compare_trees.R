@@ -1,5 +1,4 @@
 #Load packages for loading and evaluating phylogenetic trees
-library(TreeDist)
 library(Quartet)
 library(phytools)
 library(phangorn)
@@ -51,41 +50,28 @@ load_forest <- function(newick_files) {
   return(forest)
 }
 
-#Function for automatically evaluating a series of trees against one gold tree
-#Return the tree which best matches the gold tree
+#Function for automatically evaluating a series of trees against one gold tree using GQD
+#Returns the tree which best matches the gold tree
 best_matching_tree <- function(gold_tree, test_forest, forest_names=NULL, add_root=TRUE) {
   
-  #Create lists for TreeDist and QuartetDivergence scores
-  TD_scores <- c()
+  #Create lists for Generalized Quartet Distance scores
   QD_scores <- c()
   
-  #Iterate through test trees and measure TreeDist and QuartetDivergence
+  #Iterate through test trees and measure Generalized Quartet Distance
   for (test_tree in test_forest) {
-    
-    tree_dist <- TreeDistance(gold_tree, test_tree)
-    #statuses <- QuartetStatus(gold_tree, test_tree)
-    #QD <- QuartetDivergence(statuses, similarity = FALSE)
     GQD <- gen_quartet_distance(gold_tree, test_tree, add_root=add_root)
-    TD_scores <- append(TD_scores, tree_dist)
     QD_scores <- append(QD_scores, GQD)
   }
   
-  #Get overall scores by averaging TreeDist and QuartetDivergence
-  #scores <- (TD_scores + QD_scores) / 2
-  
-  #Only consider the Generalized Quartet Distances
-  scores <- QD_scores
-  
   #Get index of the tree with the minimum distance from the gold tree
-  min_index <- which.min(scores)
+  min_index <- which.min(QD_scores)
   
   #Print the name of the best tree if the corresponding names were supplied
   if(!is.null(forest_names)) {
     print(paste('Best match:', forest_names[[min_index]]))
   }
   
-  #Print the best tree's scores
-  print(paste('TreeDist:', round(TD_scores[[min_index]],2)))
+  #Print the best tree's score
   print(paste('QuartetDivergence:', round(QD_scores[[min_index]],2)))
   
   #Return the tree with the minimum distance score from the gold tree
@@ -135,7 +121,9 @@ for (family in families) {
   family_gold <- read.newick(paste('Gold/', family, '_pruned.tre', sep=''), quiet=TRUE)
   
   #Load distance-based (exclude binary) trees into a MultiPhylo forest
-  family_trees <- list.files(path=paste('Results/', family, sep=''))
+  setwd('..')
+  tree_dir <- paste(getwd(), '/Results/Trees/', family, sep='')
+  family_trees <- list.files(path=tree_dir)
   family_trees <- family_trees[grep('.tre', family_trees)]
   
   #Remove single linkage trees
@@ -144,7 +132,8 @@ for (family in families) {
   if (length(family_trees[grep('binary', family_trees)]) > 0) {
     family_trees <- family_trees[-grep('binary', family_trees)]
   }
-  family_trees <- paste(local_dir, '/Results/', family, '/', family_trees, sep='')
+  
+  family_trees <- paste(tree_dir, family_trees, sep='/')
   
   #Sort trees by cognate detection and evaluation method
   cognate_methods <- c('none', 'Phonetic', 'PMI', 'Surprisal', 'Hybrid', 'gold')
@@ -182,14 +171,9 @@ for (family in families) {
       #Find the maximum clade credibility (MCC) tree among these
       mcc_tree <- maxCladeCred(method_forest)
       
-      #Generate a majority consensus tree from these
-      #consensus_tree <- consensus(method_forest, p=0.5)
-      
       #Evaluate the MCC and consensus trees for TreeDist and Generalized Quartet Distance
       TD_MCC <- TreeDistance(family_gold, mcc_tree)
       GQD_MCC <- gen_quartet_distance(family_gold, mcc_tree, add_root=TRUE)
-      #TD_consensus <- TreeDistance(family_gold, consensus_tree)
-      #GQD_consensus <- gen_quartet_distance(family_gold, consensus_tree, add_root=TRUE)
       
       #Add a row to the tree_results data frame with these values
       row_MCC <- list(family=family, 
@@ -197,15 +181,8 @@ for (family in families) {
                       tree_type='MaxCladeCredibility',
                       TreeDist=TD_MCC, GenQuartetDist=GQD_MCC)
       tree_results <- rbind(tree_results, row_MCC)
-      
-      #row_consensus <- list(family=family, 
-      #                      cognate_method=cognate_method, eval_method=eval_method, 
-      #                      tree_type='MajorityConsensus',
-      #                      TreeDist=TD_consensus, GenQuartetDist=GQD_consensus)
-      #tree_results <- rbind(tree_results, row_consensus)
     }
   } 
-  
   
   #Evaluate and determine the best trees
   none_trees <- all_trees[grep('none', names(all_trees))]
@@ -218,23 +195,35 @@ for (family in families) {
   cat('\n')
   
   #Plot and save the evaluation of the best tree using QuartetDivergence diagram
-  png_plot_path <- paste('Results/', family, '/', family, "_best_auto.png", sep='')
-  tre_plot_path <- paste('Results/', family, '/', family, "_best_auto.tre", sep='')
-  png(filename=png_plot_path, width=700, height=700)
+  png_plot_path <- paste(tree_dir, '/', family, "_best_auto.png", sep='')
+  tre_plot_path <- paste(tree_dir, '/', family, "_best_auto.tre", sep='')
+  png(filename=png_plot_path, width=1000, height=700)
   VisualizeQuartets(ladderize(family_gold), ladderize(best_auto_tree), style='size', spectrum=rainbow(300)[1:101])
   dev.off()
   write.tree(best_auto_tree, file=tre_plot_path)
   
-  png_plot_path <- paste('Results/', family, '/', family, "_best_gold.png", sep='')
-  tre_plot_path <- paste('Results/', family, '/', family, "_best_gold.tre", sep='')
-  png(filename=png_plot_path, width=700, height=700)
+  png_plot_path <- paste(tree_dir, '/', family, "_best_gold.png", sep='')
+  tre_plot_path <- paste(tree_dir, '/', family, "_best_gold.tre", sep='')
+  png(filename=png_plot_path, width=1000, height=700)
   VisualizeQuartets(ladderize(family_gold), ladderize(best_gold_tree), style='size', spectrum=rainbow(300)[1:101])
   dev.off()
   write.tree(best_gold_tree, file=tre_plot_path)
   
+  #Plot densiTree based on automatic trees, using gold tree as consensus
+  class(auto_trees) <- "multiPhylo"
+  png_plot_path <- paste(tree_dir, '/', family, "_auto_densiTree.png", sep='')
+  png(filename=png_plot_path, width=1000, height=700)
+  if (family != 'Hokan') {
+    densiTree(auto_trees, consensus=ladderize(family_gold), alpha=0.1)
+  } else {
+    densiTree(auto_trees, alpha=0.1)
+  }
+  dev.off()
+  setwd(local_dir)
 }
 
 #Write tree evaluation results to a csv file
-write.csv(tree_results, paste(local_dir, 'Results/tree_evaluation_results.csv', sep='/'), row.names = FALSE)
-
-
+setwd('..')
+tree_dir <- paste(getwd(), '/Results/Trees/', sep='')
+write.csv(tree_results, paste(tree_dir, 'tree_evaluation_results.csv', sep='/'), row.names = FALSE)
+setwd(local_dir)
