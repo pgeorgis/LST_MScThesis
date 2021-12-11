@@ -1,0 +1,38 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((0:0.09174016952469377,1:0.09174016952469377)3:0.047038734444383945,2:0.13877890396907772)4:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 10.06772655899972 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[4 1] (0,3): 1 1 2 1 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.01290965604184059 </statenode>
+<statenode id='featureClockRate:Yana_gold_common-concepts:COME'>featureClockRate:Yana_gold_common-concepts:COME[1 1] (0.0,Infinity): 1.1226680015666881 </statenode>
+<statenode id='featureClockRate:Yana_gold_common-concepts:HEAVY'>featureClockRate:Yana_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 1.1131178880727515 </statenode>
+<statenode id='featureClockRate:Yana_gold_common-concepts:STAR'>featureClockRate:Yana_gold_common-concepts:STAR[1 1] (0.0,Infinity): 1.3413064384721989 </statenode>
+<statenode id='featureClockRate:Yana_gold_common-concepts:WALK'>featureClockRate:Yana_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.6538449887488728 </statenode>
+<statenode id='featureClockRate:Yana_gold_common-concepts:WARM'>featureClockRate:Yana_gold_common-concepts:WARM[1 1] (0.0,Infinity): 0.981024025762301 </statenode>
+<statenode id='featureClockRate:Yana_gold_common-concepts:WHAT'>featureClockRate:Yana_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 0.7880386573771859 </statenode>
+<statenode id='featureClockRateGammaShape:Yana_gold_common-concepts'>featureClockRateGammaShape:Yana_gold_common-concepts[1 1] (1.1,100.0): 17.38659281813868 </statenode>
+<statenode id='featureClockRateGammaScale:Yana_gold_common-concepts'>featureClockRateGammaScale:Yana_gold_common-concepts[1 1] (-Infinity,Infinity): 0.05751558171631766 </statenode>
+<statenode id='covarion_alpha.s:Yana_gold_common-concepts'>covarion_alpha.s:Yana_gold_common-concepts[1 1] (1.0E-4,1.0): 0.19225436994348905 </statenode>
+<statenode id='covarion_s.s:Yana_gold_common-concepts'>covarion_s.s:Yana_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.06490341985005213 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":3.163758032007329,"accept":24950,"reject":232444,"acceptFC":24378,"rejectFC":228790,"rejectIv":115085,"rejectOp":115085},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":73678,"reject":183287,"acceptFC":72781,"rejectFC":179994,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":4870,"reject":46802,"acceptFC":4805,"rejectFC":45992,"rejectIv":34473,"rejectOp":34473},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":1742,"reject":50118,"acceptFC":1724,"rejectFC":49216,"rejectIv":45314,"rejectOp":45314},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":287988,"reject":229040,"acceptFC":283446,"rejectFC":224928,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.19248678561903926,"accept":15074,"reject":36378,"acceptFC":14537,"rejectFC":36046,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.19435946352517974,"accept":12637,"reject":38839,"acceptFC":12126,"rejectFC":38473,"rejectIv":1981,"rejectOp":1981},
+{"id":"UpDown","p":0.1530054900534216,"accept":14227,"reject":37763,"acceptFC":13608,"rejectFC":37491,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.1760126881786373,"accept":16007,"reject":35495,"acceptFC":15505,"rejectFC":35174,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":82945,"reject":88586,"acceptFC":81590,"rejectFC":87093,"rejectIv":86094,"rejectOp":86094},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":162985,"reject":9157,"acceptFC":160317,"rejectFC":8919,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":165779,"reject":6295,"acceptFC":163159,"rejectFC":6128,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.15803159178688903,"accept":14783,"reject":37080,"acceptFC":14272,"rejectFC":36752,"rejectIv":21,"rejectOp":21},
+{"id":"featureClockRateGammaUpDown:Yana_gold_common-concepts","p":0.10119351292701678,"accept":1091,"reject":4043,"acceptFC":1034,"rejectFC":4020,"rejectIv":2621,"rejectOp":2621},
+{"id":"covarion_alpha_scaler.s:Yana_gold_common-concepts","p":0.030077752439456353,"accept":1541,"reject":15374,"acceptFC":1351,"rejectFC":15282,"rejectIv":14285,"rejectOp":14285},
+{"id":"Yana_gold_common-concepts:covarion_s_scaler.s","p":0.17375094928743598,"accept":5294,"reject":11983,"acceptFC":5118,"rejectFC":11888,"rejectIv":155,"rejectOp":155},
+{"id":"featureClockRateDeltaExchanger:default","p":14.734837417593758,"accept":1382,"reject":50344,"acceptFC":1111,"rejectFC":49771,"rejectIv":46299,"rejectOp":46299}
+]}
+-->

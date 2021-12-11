@@ -1,0 +1,2787 @@
+Language_ID,Feature_ID,IPA,Value
+Bemba,DOG,imbwà,1
+Bulu,DOG,mvu,1
+Fang,DOG,mvu,1
+Ganda,DOG,embwa,1
+Gogo,DOG,ḿbwa,1
+Haya,DOG,embwa,1
+Kimbundu,DOG,mbua,1
+Koongo,DOG,mbwa,1
+Lingala,DOG,mbwá,1
+Luba-Katanga,DOG,mbwà,1
+Luba-Lulua,DOG,mbwá,1
+Ndonga,DOG,ombwa,1
+Ndzwani_Comorian,DOG,mbwá,1
+Ngazidja_Comorian,DOG,mbwá,1
+Nyankole,DOG,embwa,1
+Rundi,DOG,imbwa,1
+Shona,DOG,imbwá,1
+Songe,DOG,ḿbwà,1
+Sukuma,DOG,mva,1
+Swahili,DOG,mbwa,1
+Tonga,DOG,mubwa,1
+Umbundu,DOG,ómbwà,1
+Venda,DOG,mmbwa,1
+Kalanga,DOG,bɡa,2
+Lozi,DOG,nja,2
+North_Ndebele,DOG,inja,2
+Tswana,DOG,ɲ̀ʧá,2
+Xhosa,DOG,inja,2
+Zulu,DOG,ínjà,2
+Kamba,DOG,ŋɡiteːsolo,3
+Meru,DOG,ikite,3
+Kikuyu,DOG,kuro,4
+Makhuwa,DOG,mwalápwa,5
+Nyanja,DOG,ɡaru,6
+Tsonga,DOG,mbjáná,7
+Tswa,DOG,mbzáná,7
+Yaka,DOG,mbóándé,8
+Bemba,KNOW (SOMETHING),ìsiba,9
+Kalanga,KNOW (SOMETHING),ziba,9
+Kimbundu,KNOW (SOMETHING),ijia,9
+Lingala,KNOW (SOMETHING),jéba,9
+Lozi,KNOW (SOMETHING),ziba,9
+Makhuwa,KNOW (SOMETHING),ʧúwèla,9
+Ndzwani_Comorian,KNOW (SOMETHING),ʒua,9
+Ngazidja_Comorian,KNOW (SOMETHING),ʤua,9
+Nyanja,KNOW (SOMETHING),ʣiwa,9
+Shona,KNOW (SOMETHING),zíʋá,9
+Swahili,KNOW (SOMETHING),ʄua,9
+Tonga,KNOW (SOMETHING),zʲiba,9
+Tsonga,KNOW (SOMETHING),tívá,9
+Tswa,KNOW (SOMETHING),tívá,9
+Umbundu,KNOW (SOMETHING),kúlíhà,9
+Venda,KNOW (SOMETHING),dʰiβa,9
+Yaka,KNOW (SOMETHING),pí,9
+Bulu,KNOW (SOMETHING),jem,10
+Fang,KNOW (SOMETHING),jəm,10
+Ganda,KNOW (SOMETHING),maɲa,11
+Gogo,KNOW (SOMETHING),maɲa,11
+Haya,KNOW (SOMETHING),maɲa,11
+Kamba,KNOW (SOMETHING),maɲȁ,11
+Kikuyu,KNOW (SOMETHING),mɛ̀ɲa,11
+Luba-Lulua,KNOW (SOMETHING),máɲá,11
+Meru,KNOW (SOMETHING),maɲa,11
+Nyankole,KNOW (SOMETHING),maɲa,11
+Rundi,KNOW (SOMETHING),meɲa,11
+Sukuma,KNOW (SOMETHING),mana,11
+Koongo,KNOW (SOMETHING),zaba,12
+Luba-Katanga,KNOW (SOMETHING),juka,13
+Songe,KNOW (SOMETHING),ǔka,13
+Ndonga,KNOW (SOMETHING),ʦeja,14
+North_Ndebele,KNOW (SOMETHING),azi,15
+Tswana,KNOW (SOMETHING),íʦɪ́,15
+Xhosa,KNOW (SOMETHING),azi,15
+Zulu,KNOW (SOMETHING),âzì,15
+Bemba,CLOUD,ìkumbi,16
+Luba-Katanga,CLOUD,diːkumbi,16
+Meru,CLOUD,irumbe,16
+Songe,CLOUD,elevu,16
+Tonga,CLOUD,ikkumbi,16
+Bulu,CLOUD,nkut,17
+Fang,CLOUD,ŋ̍kut,17
+Yaka,CLOUD,kùtú,17
+Ganda,CLOUD,kile,18
+Gogo,CLOUD,mavunde,19
+Makhuwa,CLOUD,nihútte,19
+Sukuma,CLOUD,ilunde,19
+Haya,CLOUD,ekiʧwi,20
+Kamba,CLOUD,eðwɛɔ,20
+Kikuyu,CLOUD,ìtù,20
+Nyankole,CLOUD,ekiʧu,20
+Rundi,CLOUD,iɡicu,20
+Kalanga,CLOUD,ɡole,21
+Shona,CLOUD,ɡòré,21
+Venda,CLOUD,ɡole,21
+Kimbundu,CLOUD,dituta,22
+Koongo,CLOUD,tuti,22
+Lingala,CLOUD,lipáta,23
+Lozi,CLOUD,lilu,24
+Luba-Lulua,CLOUD,dívúbá,25
+Ndonga,CLOUD,oʃikoɡo,26
+Ndzwani_Comorian,CLOUD,vìŋɡu,27
+Ngazidja_Comorian,CLOUD,biŋɡu,27
+Swahili,CLOUD,winɡu,27
+North_Ndebele,CLOUD,ilifu,28
+Tsonga,CLOUD,papa,28
+Tswa,CLOUD,refu,28
+Xhosa,CLOUD,ifu,28
+Zulu,CLOUD,ífù,28
+Nyanja,CLOUD,tambo,29
+Tswana,CLOUD,rù,30
+Umbundu,CLOUD,éléndè,31
+Bemba,NECK,ùmukoʃi,32
+Nyanja,NECK,kʰosi,32
+Rundi,NECK,izosi,32
+Bulu,NECK,tjin̂,33
+Fang,NECK,kiŋ,33
+Gogo,NECK,síiŋɡo,33
+Kamba,NECK,ŋɡiŋɡɔ,33
+Kikuyu,NECK,ŋɡíŋɡɔ́,33
+Kimbundu,NECK,ʃinɡu,33
+Koongo,NECK,nsinɡu,33
+Lingala,NECK,nkinɡó,33
+Luba-Katanga,NECK,nʃinɡo,33
+Luba-Lulua,NECK,nʃiŋu,33
+Makhuwa,NECK,isíko,33
+Ndonga,NECK,oθinɡo,33
+Ndzwani_Comorian,NECK,nʦíŋɡo,33
+Ngazidja_Comorian,NECK,nʦiŋɡo,33
+Songe,NECK,nʃìnɡo,33
+Sukuma,NECK,n̤inɡo,33
+Swahili,NECK,ʃinɡo,33
+Tonga,NECK,nsinɡo,33
+Umbundu,NECK,ósínɡó,33
+Venda,NECK,muʦinɡa,33
+Yaka,NECK,kínɡó,33
+Ganda,NECK,bulaɡo,34
+Haya,NECK,enɡoto,35
+Nyankole,NECK,ebiʦja,35
+Kalanga,NECK,ʦʰibʱa,36
+Shona,NECK,muʦìpà,36
+Lozi,NECK,mulala,37
+Meru,NECK,sunɡo,38
+North_Ndebele,NECK,intamo,39
+Tsonga,NECK,n̤amu,39
+Tswa,NECK,n̤amu,39
+Xhosa,NECK,intamo,39
+Zulu,NECK,intamu,39
+Tswana,NECK,làlà,40
+Bemba,STONE,ìlibwe,41
+Gogo,STONE,íbwe,41
+Kalanga,STONE,bɡe,41
+Lozi,STONE,liʧwe,41
+Luba-Katanga,STONE,diːbwe,41
+Luba-Lulua,STONE,díbwé,41
+Meru,STONE,iwe,41
+Ndzwani_Comorian,STONE,bwé,41
+Ngazidja_Comorian,STONE,bwè,41
+Rundi,STONE,ibuje,41
+Shona,STONE,bwe,41
+Songe,STONE,ebwà,41
+Sukuma,STONE,iwe,41
+Swahili,STONE,ʄiwe,41
+Tonga,STONE,ibbwe,41
+Tsonga,STONE,ribje,41
+Umbundu,STONE,éwe̍,41
+Yaka,STONE,bùè,41
+Bulu,STONE,akok,42
+Fang,STONE,akɔʔ,42
+Ganda,STONE,ejjinja,43
+Haya,STONE,eibale,44
+Nyankole,STONE,eibaare,44
+Kamba,STONE,eβia,45
+Kikuyu,STONE,ihíɣa,46
+Kimbundu,STONE,tadi,47
+Koongo,STONE,tadi,47
+Lingala,STONE,libánɡá,48
+Makhuwa,STONE,ʔnlùku,49
+Ndonga,STONE,emanja,50
+North_Ndebele,STONE,iliʧʔe,51
+Tswa,STONE,ʃwa,51
+Tswana,STONE,t͡ɬàpá,51
+Xhosa,STONE,ilitje,51
+Zulu,STONE,íʧè,51
+Nyanja,STONE,alá,52
+Venda,STONE,muʣiβo,53
+Bemba,COUNT,pend,54
+Bulu,COUNT,lan̂,55
+Fang,COUNT,laŋ,55
+Koongo,COUNT,tanɡa,55
+Lingala,COUNT,tánɡa,55
+Yaka,COUNT,tánɡ,55
+Ganda,COUNT,bala,56
+Gogo,COUNT,vala,56
+Kalanga,COUNT,bala,56
+Luba-Lulua,COUNT,badika,56
+Ngazidja_Comorian,COUNT,waza,56
+North_Ndebele,COUNT,bala,56
+Nyankole,COUNT,bara,56
+Songe,COUNT,badika,56
+Sukuma,COUNT,bala,56
+Venda,COUNT,βala,56
+Xhosa,COUNT,bala,56
+Zulu,COUNT,bala,56
+Kamba,COUNT,tala,57
+Kikuyu,COUNT,tára,57
+Meru,COUNT,tanla,57
+Makhuwa,COUNT,alakela,58
+Ndzwani_Comorian,COUNT,hasibu,59
+Swahili,COUNT,hesabu,59
+Nyanja,COUNT,welenɡa,60
+Shona,COUNT,ʋerenɡa,60
+Rundi,COUNT,harura,61
+Tsonga,COUNT,ɬàja,62
+Tswana,COUNT,dúédísà,63
+Umbundu,COUNT,tenda,64
+Bemba,WIND,ela,65
+Bulu,WIND,évun̂ulu,66
+Fang,WIND,m̩fuã,66
+Yaka,WIND,vúnɡá,66
+Ganda,WIND,mpewo,67
+Gogo,WIND,mbého,67
+Kalanga,WIND,pʰepo,67
+Makhuwa,WIND,ipʰéjo,67
+Ndzwani_Comorian,WIND,mpévo,67
+Ngazidja_Comorian,WIND,upépo,67
+Nyanja,WIND,pʰépo,67
+Shona,WIND,m̤epo,67
+Swahili,WIND,upepo,67
+Tswana,WIND,pʰɪ́fɔ́,67
+Haya,WIND,omujaɡa,68
+Nyankole,WIND,omujaɡa,68
+Rundi,WIND,umujaɡa,68
+Sukuma,WIND,ɲaɡa,68
+Kamba,WIND,okoŋɡi,69
+Kikuyu,WIND,ròhùːhɔ̀,70
+Koongo,WIND,kitembo,71
+Lingala,WIND,mopɛpɛ,72
+Meru,WIND,mburato,73
+North_Ndebele,WIND,umoja,74
+Tsonga,WIND,mójá,74
+Venda,WIND,muja,74
+Xhosa,WIND,umoja,74
+Zulu,WIND,umoja,74
+Umbundu,WIND,ofela,75
+Bemba,KNEE,ikùfi,76
+Bulu,KNEE,abon̂,77
+Fang,KNEE,abɔŋ,77
+Lingala,KNEE,libɔ́lɔ́nɡɔ́,77
+Yaka,KNEE,bɔ́nɡɔ́,77
+Ganda,KNEE,vvuvi,78
+Rundi,KNEE,ivi,78
+Gogo,KNEE,ifuɡámilo,79
+Haya,KNEE,okujwi,80
+Kalanga,KNEE,dwi,80
+Luba-Katanga,KNEE,kunwi,80
+Sukuma,KNEE,izwi,80
+Kamba,KNEE,elu,81
+Kikuyu,KNEE,iru,81
+Meru,KNEE,nri,81
+Kimbundu,KNEE,pumuna,82
+Koongo,KNEE,kikulu,83
+Ndzwani_Comorian,KNEE,ɡuŋɡúni,83
+Ngazidja_Comorian,KNEE,ɡuŋɡúno,83
+Lozi,KNEE,liŋwele,84
+Luba-Lulua,KNEE,ʧínú,85
+Makhuwa,KNEE,nikútʰa,86
+Ndonga,KNEE,onɡolo,87
+Umbundu,KNEE,ònɡòlò,87
+North_Ndebele,KNEE,idolo,88
+Tsonga,KNEE,ʦolo,88
+Tswa,KNEE,ʣolo,88
+Xhosa,KNEE,idolo,88
+Zulu,KNEE,ídolo,88
+Nyanja,KNEE,bóndo,89
+Nyankole,KNEE,okuju,90
+Shona,KNEE,bʋi,91
+Songe,KNEE,ekùnunɡù,92
+Swahili,KNEE,ɡoti,93
+Tonga,KNEE,íɡondo,94
+Tswana,KNEE,ŋɔ́lɛ́,95
+Bemba,EAT,lja,96
+Bulu,EAT,di,96
+Fang,EAT,ʣi,96
+Gogo,EAT,lja,96
+Haya,EAT,lʲa,96
+Kalanga,EAT,ja,96
+Kamba,EAT,ja̋,96
+Kikuyu,EAT,reâ,96
+Koongo,EAT,dia,96
+Lingala,EAT,lía,96
+Lozi,EAT,ʧa,96
+Luba-Katanga,EAT,djà,96
+Luba-Lulua,EAT,dja,96
+Makhuwa,EAT,lja,96
+Meru,EAT,la,96
+Ndonga,EAT,lja,96
+Ndzwani_Comorian,EAT,la,96
+Ngazidja_Comorian,EAT,la,96
+North_Ndebele,EAT,ɮa,96
+Nyanja,EAT,dia,96
+Nyankole,EAT,rʲa,96
+Rundi,EAT,rʲa,96
+Shona,EAT,djá,96
+Songe,EAT,djǎ,96
+Swahili,EAT,la,96
+Tonga,EAT,lja,96
+Tsonga,EAT,djá,96
+Tswa,EAT,ɡá,96
+Tswana,EAT,ʤá,96
+Umbundu,EAT,ljà,96
+Venda,EAT,la,96
+Xhosa,EAT,tja,96
+Yaka,EAT,dì,96
+Zulu,EAT,ɮʱá,96
+Kimbundu,EAT,zuela,97
+Bulu,SKY,jôp,98
+Fang,SKY,ʣop,98
+Ganda,SKY,ɡɡuru,99
+Haya,SKY,eiɡulu,99
+Kikuyu,SKY,ìɣòrò,99
+Koongo,SKY,zulu,99
+Lingala,SKY,likoló,99
+Luba-Lulua,SKY,djulu,99
+Nyankole,SKY,eiɡuru,99
+Rundi,SKY,ijuru,99
+Songe,SKY,eilu,99
+Venda,SKY,lʰitʰadʰulu,99
+Xhosa,SKY,izulu,99
+Zulu,SKY,izulu,99
+Gogo,SKY,ulaŋɡa,100
+Kamba,SKY,jajaja,101
+Makhuwa,SKY,irímu,102
+Meru,SKY,iruveu,103
+Ndzwani_Comorian,SKY,wíŋɡu,104
+Ngazidja_Comorian,SKY,biŋɡu,104
+Swahili,SKY,uwinɡu,104
+North_Ndebele,SKY,isibakabaka,105
+Nyanja,SKY,tʰambo,106
+Shona,SKY,denɡa,107
+Tsonga,SKY,tʼìlò,108
+Tswana,SKY,ápí,109
+Yaka,SKY,nzàmbé,110
+Bemba,TAIL,umùkila,111
+Ganda,TAIL,mukira,111
+Gogo,TAIL,múcila,111
+Haya,TAIL,omukila,111
+Kikuyu,TAIL,mutiːŋɡɔ́ɛ,111
+Kimbundu,TAIL,mukila,111
+Koongo,TAIL,nkila,111
+Lingala,TAIL,mokilá,111
+Luba-Katanga,TAIL,kila,111
+Luba-Lulua,TAIL,múkilá,111
+Makhuwa,TAIL,mwila,111
+Meru,TAIL,njija,111
+Ndonga,TAIL,omuʃila,111
+Ndzwani_Comorian,TAIL,mʃía,111
+Ngazidja_Comorian,TAIL,mʃía,111
+North_Ndebele,TAIL,isisila,111
+Nyanja,TAIL,ʧíra,111
+Nyankole,TAIL,omukira,111
+Shona,TAIL,muʧira,111
+Songe,TAIL,mukìla,111
+Sukuma,TAIL,nkila,111
+Swahili,TAIL,mkia,111
+Tonga,TAIL,mucila,111
+Tsonga,TAIL,nʧílá,111
+Tswa,TAIL,ʧílá,111
+Umbundu,TAIL,úkɪ̠̍l̠á̠,111
+Venda,TAIL,muʧila,111
+Xhosa,TAIL,umsila,111
+Zulu,TAIL,umsila,111
+Bulu,TAIL,njem,112
+Fang,TAIL,ŋɡjem,112
+Kalanga,TAIL,ŋwise,113
+Kamba,TAIL,mweðɛ,114
+Lozi,TAIL,muhata,115
+Rundi,TAIL,umurizo,116
+Tswana,TAIL,χàt͡ɬá,117
+Yaka,TAIL,mbànɡú,118
+Bulu,FIVE,tan,119
+Fang,FIVE,tan,119
+Ganda,FIVE,taano,119
+Gogo,FIVE,hano,119
+Haya,FIVE,itanu,119
+Kalanga,FIVE,ʃanu,119
+Kamba,FIVE,itaanɔ,119
+Kikuyu,FIVE,iθanɔ,119
+Koongo,FIVE,tanu,119
+Lingala,FIVE,mítáno,119
+Luba-Lulua,FIVE,taanunombreʧardinal,119
+Makhuwa,FIVE,tʰanu,119
+Meru,FIVE,firaanu,119
+Ndzwani_Comorian,FIVE,ʦánu,119
+Ngazidja_Comorian,FIVE,ʦánu,119
+North_Ndebele,FIVE,ɬanu,119
+Nyanja,FIVE,isanu,119
+Nyankole,FIVE,taano,119
+Rundi,FIVE,tanu,119
+Shona,FIVE,ʃanu,119
+Songe,FIVE,tanu,119
+Sukuma,FIVE,itano,119
+Swahili,FIVE,tano,119
+Tsonga,FIVE,ǹt͡ɬʰánu,119
+Tswana,FIVE,t͡ɬʰánʊ́,119
+Umbundu,FIVE,tanu,119
+Venda,FIVE,tʰanu,119
+Xhosa,FIVE,ɬanu,119
+Yaka,FIVE,tánò,119
+Zulu,FIVE,ɬanu,119
+Lozi,FIVE,ketalizoho,120
+Bemba,TOOTH,ilìːno,121
+Ganda,TOOTH,elinɲo,121
+Gogo,TOOTH,líino,121
+Haya,TOOTH,eliino,121
+Kalanga,TOOTH,ʒino,121
+Koongo,TOOTH,dinu,121
+Lingala,TOOTH,líno,121
+Lozi,TOOTH,liino,121
+Luba-Katanga,TOOTH,dîno,121
+Luba-Lulua,TOOTH,dînú,121
+Makhuwa,TOOTH,niino,121
+Meru,TOOTH,mwiini,121
+Ndzwani_Comorian,TOOTH,ʣíɲo,121
+Ngazidja_Comorian,TOOTH,ʣíɲo,121
+North_Ndebele,TOOTH,iziɲo,121
+Nyanja,TOOTH,ʣíno,121
+Nyankole,TOOTH,eriino,121
+Rundi,TOOTH,iriɲo,121
+Shona,TOOTH,zínó,121
+Songe,TOOTH,eìno,121
+Sukuma,TOOTH,lino,121
+Swahili,TOOTH,ʄino,121
+Tonga,TOOTH,ílíɲo,121
+Tsonga,TOOTH,tínó,121
+Tswa,TOOTH,tínó,121
+Tswana,TOOTH,ínɔ́,121
+Venda,TOOTH,lʰinʰo,121
+Xhosa,TOOTH,iziɲo,121
+Yaka,TOOTH,ínò,121
+Zulu,TOOTH,ízîɲò,121
+Bulu,TOOTH,ason̂,122
+Fang,TOOTH,asoŋ,122
+Kamba,TOOTH,eɛɔ,123
+Kikuyu,TOOTH,ìɣɛ̀ɣɔ̀,123
+Kimbundu,TOOTH,diju,123
+Ndonga,TOOTH,ejeɡo,123
+Umbundu,TOOTH,éijò,123
+Bemba,WATER,amènsi,124
+Ganda,WATER,mazzi,124
+Haya,WATER,emaizi,124
+Kikuyu,WATER,máːe,124
+Lingala,WATER,mái,124
+Makhuwa,WATER,maaʃi,124
+Ndzwani_Comorian,WATER,máʒi,124
+Ngazidja_Comorian,WATER,máʤi,124
+North_Ndebele,WATER,amanzi,124
+Nyanja,WATER,ʣí,124
+Nyankole,WATER,amaizi,124
+Rundi,WATER,amazi,124
+Sukuma,WATER,minzi,124
+Swahili,WATER,maʄi,124
+Tonga,WATER,ímáanzi,124
+Tsonga,WATER,mátí,124
+Tswa,WATER,mátí,124
+Tswana,WATER,mèʦí,124
+Venda,WATER,mád̪í,124
+Xhosa,WATER,amanzi,124
+Yaka,WATER,máì,124
+Zulu,WATER,ámànzì,124
+Bulu,WATER,mendim,125
+Fang,WATER,mənʣim,125
+Gogo,WATER,maleéŋɡa,126
+Kalanga,WATER,vula,127
+Shona,WATER,mʋura,127
+Kamba,WATER,keɣwo,128
+Kimbundu,WATER,meɲa,129
+Koongo,WATER,masa,130
+Lozi,WATER,nezi,131
+Luba-Katanga,WATER,mêma,132
+Songe,WATER,mêma,132
+Umbundu,WATER,óvává,132
+Luba-Lulua,WATER,mâjímáají,133
+Ndonga,WATER,omeja,133
+Meru,WATER,mura,134
+Bemba,SLEEP (STATE),utùlo,135
+Bulu,SLEEP (STATE),ôjo,135
+Fang,SLEEP (STATE),ojo,135
+Ganda,SLEEP (STATE),otulo,135
+Haya,SLEEP (STATE),otulo,135
+Kamba,SLEEP (STATE),tɔɔ,135
+Kikuyu,SLEEP (STATE),tɔrɔ̌,135
+Kimbundu,SLEEP (STATE),kilu,135
+Koongo,SLEEP (STATE),tulu,135
+Luba-Lulua,SLEEP (STATE),túlu,135
+Nyanja,SLEEP (STATE),tuló,135
+Songe,SLEEP (STATE),túlǒ,135
+Sukuma,SLEEP (STATE),tulo,135
+Umbundu,SLEEP (STATE),étúlo̍,135
+Gogo,SLEEP (STATE),ntóoŋɡo,136
+North_Ndebele,SLEEP (STATE),ubutʰonɡo,136
+Tsonga,SLEEP (STATE),βur̥oŋɡó,136
+Xhosa,SLEEP (STATE),ubútʰoŋɡo,136
+Zulu,SLEEP (STATE),ubútʰoŋɡo,136
+Kalanga,SLEEP (STATE),nkopeʃulo,137
+Makhuwa,SLEEP (STATE),ikʰóve,137
+Shona,SLEEP (STATE),hope,137
+Venda,SLEEP (STATE),kʰoɸe,137
+Lingala,SLEEP (STATE),mpɔnɡí,138
+Ndonga,SLEEP (STATE),oomposi,138
+Meru,SLEEP (STATE),nruo,139
+Ndzwani_Comorian,SLEEP (STATE),lála,140
+Ngazidja_Comorian,SLEEP (STATE),lála,140
+Nyankole,SLEEP (STATE),okuɡwejeɡjera,141
+Rundi,SLEEP (STATE),amatiro,142
+Swahili,SLEEP (STATE),sinɡizi,143
+Tonga,SLEEP (STATE),n̍ɡonzi,144
+Tswana,SLEEP (STATE),rɔ̀kɔ̀,145
+Yaka,SLEEP (STATE),tɔ̀nɡì,146
+Bemba,ROAD,ǹsila,147
+Bulu,ROAD,zen,147
+Fang,ROAD,zən,147
+Gogo,ROAD,nzîla,147
+Kalanga,ROAD,zila,147
+Kamba,ROAD,nzea,147
+Kikuyu,ROAD,ɲjerá,147
+Kimbundu,ROAD,njila,147
+Koongo,ROAD,nzila,147
+Lingala,ROAD,nzelá,147
+Lozi,ROAD,nzila,147
+Luba-Lulua,ROAD,nzílá,147
+Meru,ROAD,ʃija,147
+Ndonga,ROAD,ondjila,147
+Nyanja,ROAD,jira,147
+Rundi,ROAD,inzira,147
+Shona,ROAD,nzìrà,147
+Sukuma,ROAD,nzila,147
+Swahili,ROAD,nʄia,147
+Tonga,ROAD,inzila,147
+Tswana,ROAD,ʦɪ̀là,147
+Umbundu,ROAD,óudjílà,147
+Yaka,ROAD,ndíá,147
+Ganda,ROAD,kkubo,148
+Haya,ROAD,omuhanda,149
+Nyankole,ROAD,omuhanda,149
+Luba-Katanga,ROAD,diːʃìndà,150
+Songe,ROAD,eʃìnda,150
+Makhuwa,ROAD,nttála,151
+Tsonga,ROAD,nd͡lela,151
+Tswa,ROAD,nd͡lela,151
+Venda,ROAD,ndʰila,151
+Xhosa,ROAD,ind͡ɮela,151
+Zulu,ROAD,índ͡ɮʱèlà,151
+Ndzwani_Comorian,ROAD,paré,152
+Ngazidja_Comorian,ROAD,paré,152
+North_Ndebele,ROAD,umɡwaǃo,153
+Bemba,LEAF,ìlibuːla,154
+Shona,LEAF,ʃiʒ̤a,154
+Bulu,LEAF,kaé,155
+Fang,LEAF,okjɛɲ,155
+Kimbundu,LEAF,difu,155
+Koongo,LEAF,lukaja,155
+Lingala,LEAF,lokásá,155
+Ganda,LEAF,kikoola,156
+Gogo,LEAF,ihaánze,157
+Makhuwa,LEAF,niwámba,157
+Nyanja,LEAF,ʦamba,157
+Haya,LEAF,ekibabi,158
+Nyankole,LEAF,eibabi,158
+Rundi,LEAF,ibabi,158
+Kalanga,LEAF,ʒani,159
+Luba-Katanga,LEAF,mani,159
+Luba-Lulua,LEAF,djâɲé,159
+Ndzwani_Comorian,LEAF,uwáni,159
+Ngazidja_Comorian,LEAF,wani,159
+Swahili,LEAF,ʄani,159
+Kamba,LEAF,eðaŋɡo,160
+Meru,LEAF,iru,160
+Sukuma,LEAF,idutu,160
+Tonga,LEAF,itu,160
+Kikuyu,LEAF,iθaŋɡo,161
+Yaka,LEAF,ánɡɔ̀,161
+Lozi,LEAF,litali,162
+Ndonga,LEAF,efo,163
+North_Ndebele,LEAF,iɬamvu,164
+Songe,LEAF,esàki,165
+Tsonga,LEAF,tlula,166
+Tswa,LEAF,tluka,166
+Tswana,LEAF,t͡ɬʰàrɪ̀,167
+Venda,LEAF,tari,167
+Umbundu,LEAF,émélá,168
+Xhosa,LEAF,iǃ̬ʱabi,169
+Zulu,LEAF,ikʰasi,169
+Bemba,HEAR,mfwa,170
+Kalanga,HEAR,hwa,170
+Kimbundu,HEAR,ivua,170
+Luba-Katanga,HEAR,ùmvwa,170
+Luba-Lulua,HEAR,mvwá,170
+Makhuwa,HEAR,iíwa,170
+Ndonga,HEAR,uva,170
+Rundi,HEAR,umva,170
+Shona,HEAR,hwá,170
+Tonga,HEAR,mvwa,170
+Tswana,HEAR,út͡ɬwá,170
+Umbundu,HEAR,jévá,170
+Venda,HEAR,p͡fa,170
+Xhosa,HEAR,va,170
+Bulu,HEAR,wôk,171
+Fang,HEAR,woʔ,171
+Lingala,HEAR,jóka,171
+Gogo,HEAR,hulika,172
+Haya,HEAR,hulila,172
+Nyankole,HEAR,hurira,172
+Kamba,HEAR,eɣwa,173
+Kikuyu,HEAR,íɣwa,173
+Sukuma,HEAR,iɡwa,173
+Koongo,HEAR,wa,174
+Lozi,HEAR,twa,175
+Meru,HEAR,ita,176
+Ndzwani_Comorian,HEAR,kía,177
+Ngazidja_Comorian,HEAR,iʃia,177
+Swahili,HEAR,sikia,177
+North_Ndebele,HEAR,zwa,178
+Tsonga,HEAR,twá,178
+Tswa,HEAR,zwá,178
+Zulu,HEAR,izwa,178
+Nyanja,HEAR,mvera,179
+Songe,HEAR,pùʃa,180
+Yaka,HEAR,ká,181
+Bemba,DIE,fwa,182
+Bulu,DIE,wu,182
+Fang,DIE,wu,182
+Ganda,DIE,fwa,182
+Gogo,DIE,fwa,182
+Haya,DIE,fa,182
+Kalanga,DIE,fa,182
+Kamba,DIE,̈a,182
+Kikuyu,DIE,â,182
+Kimbundu,DIE,fa,182
+Koongo,DIE,fwa,182
+Lingala,DIE,fa,182
+Luba-Katanga,DIE,fwà,182
+Luba-Lulua,DIE,fwa,182
+Makhuwa,DIE,kʰwa,182
+Meru,DIE,fwa,182
+Ndzwani_Comorian,DIE,fa,182
+Ngazidja_Comorian,DIE,fa,182
+North_Ndebele,DIE,fa,182
+Nyanja,DIE,fa,182
+Nyankole,DIE,fa,182
+Rundi,DIE,p͡fa,182
+Shona,DIE,fá,182
+Songe,DIE,fwǎ,182
+Sukuma,DIE,ʧa,182
+Swahili,DIE,fa,182
+Tonga,DIE,fwa,182
+Tsonga,DIE,fá,182
+Tswa,DIE,fá,182
+Tswana,DIE,swá,182
+Umbundu,DIE,fà,182
+Venda,DIE,fa,182
+Xhosa,DIE,fa,182
+Yaka,DIE,wá,182
+Zulu,DIE,fá,182
+Lozi,DIE,ʃwa,183
+Ndonga,DIE,sa,184
+Bemba,DRINK,nwa,185
+Bulu,DRINK,nju,185
+Fang,DRINK,ɲu,185
+Ganda,DRINK,ɲra,185
+Gogo,DRINK,ŋwa,185
+Haya,DRINK,ɲwa,185
+Kamba,DRINK,ɲẅa,185
+Kikuyu,DRINK,ɲuâ,185
+Kimbundu,DRINK,nua,185
+Koongo,DRINK,nwa,185
+Lozi,DRINK,nwa,185
+Luba-Lulua,DRINK,nwa,185
+Meru,DRINK,nwa,185
+Ndonga,DRINK,nwa,185
+Ndzwani_Comorian,DRINK,nwa,185
+Ngazidja_Comorian,DRINK,nwa,185
+Nyankole,DRINK,ɲwa,185
+Rundi,DRINK,ɲwa,185
+Shona,DRINK,mwá,185
+Sukuma,DRINK,ŋwa,185
+Swahili,DRINK,ɲwa,185
+Tonga,DRINK,ɲwa,185
+Tsonga,DRINK,nwá,185
+Tswa,DRINK,nwá,185
+Tswana,DRINK,nwá,185
+Umbundu,DRINK,njwà,185
+Venda,DRINK,nwa,185
+Yaka,DRINK,nú,185
+Lingala,DRINK,mela,186
+Luba-Katanga,DRINK,tòma,187
+Songe,DRINK,tòma,187
+Makhuwa,DRINK,wúrja,188
+North_Ndebele,DRINK,natʰa,189
+Nyanja,DRINK,mwa,190
+Xhosa,DRINK,sela,191
+Zulu,DRINK,pʰuza,192
+Bemba,EGG,ilìni,193
+Bulu,EGG,atji,194
+Fang,EGG,aki,194
+Ganda,EGG,ɡɡi,194
+Kalanga,EGG,ɡai,194
+Lozi,EGG,lii,194
+Luba-Katanga,EGG,dì,194
+Luba-Lulua,EGG,díjí,194
+Meru,EGG,ijai,194
+Rundi,EGG,iɡi,194
+Shona,EGG,zàí,194
+Songe,EGG,ejì,194
+Sukuma,EGG,iɡi,194
+Swahili,EGG,jai,194
+Tonga,EGG,iji,194
+Tswana,EGG,ɪ́,194
+Gogo,EGG,iɡáaŋka,195
+North_Ndebele,EGG,iǃanda,195
+Xhosa,EGG,iǃanda,195
+Zulu,EGG,íǃàndá,195
+Haya,EGG,eihuli,196
+Nyankole,EGG,eihuri,196
+Kamba,EGG,etumbe,197
+Kikuyu,EGG,itúmbé,197
+Kimbundu,EGG,ba,198
+Koongo,EGG,diakì,199
+Lingala,EGG,likɛi,200
+Ndonga,EGG,eji,200
+Yaka,EGG,kɛ́í,200
+Makhuwa,EGG,nijóʧe,201
+Ndzwani_Comorian,EGG,ʒwaí,202
+Ngazidja_Comorian,EGG,ʤwaí,202
+Nyanja,EGG,ʣira,203
+Tsonga,EGG,tanʣá,204
+Tswa,EGG,tanʣá,204
+Umbundu,EGG,ésa̍là,205
+Venda,EGG,ɡumba,206
+Bemba,BARK,bós,207
+Lingala,BARK,póso,207
+Songe,BARK,kifùsù,207
+Bulu,BARK,ebapele,208
+Fang,BARK,ebap,208
+Gogo,BARK,ibada,209
+Luba-Katanga,BARK,kibàle,209
+Haya,BARK,ekiʃuʃu,210
+Nyankole,BARK,ekiʃuʃu,210
+Rundi,BARK,iɡiʃiʃwa,210
+Kamba,BARK,ekɔndɛ,211
+Kikuyu,BARK,ikɔni,212
+Shona,BARK,kòkó,212
+Yaka,BARK,kókó,212
+Kimbundu,BARK,kiʃiʃi,213
+Koongo,BARK,kibula,214
+Lozi,BARK,likwati,215
+Tonga,BARK,cikwa,215
+Tsonga,BARK,rihantí,215
+Tswa,BARK,hatí,215
+Tswana,BARK,kwàtí,215
+Venda,BARK,ɡwatí,215
+Luba-Lulua,BARK,ʧízúbú,216
+Makhuwa,BARK,nikúla,217
+Meru,BARK,ikanda,218
+Ndonga,BARK,ejula,219
+Sukuma,BARK,iɡula,219
+Ndzwani_Comorian,BARK,ɡózi,220
+Ngazidja_Comorian,BARK,ɡozi,220
+North_Ndebele,BARK,kʰonkotʰa,221
+Nyanja,BARK,kʰunɡwa,222
+Umbundu,BARK,óʧípétà,223
+Xhosa,BARK,iǁolo,224
+Zulu,BARK,íliǁôlo,224
+Bemba,ROOT,ùmusila,225
+Bulu,ROOT,nkaɲ,226
+Fang,ROOT,ŋ̍kaŋ,226
+Lingala,ROOT,mokánɡá,226
+Ganda,ROOT,mulandila,227
+Gogo,ROOT,ḿdela,228
+Haya,ROOT,omuzi,229
+Kalanga,ROOT,ʣi,229
+Kikuyu,ROOT,mòrì,229
+Luba-Katanga,ROOT,ji,229
+Luba-Lulua,ROOT,múzí,229
+Meru,ROOT,nrari,229
+Ndonga,ROOT,omuʤi,229
+Ndzwani_Comorian,ROOT,mwízi,229
+Ngazidja_Comorian,ROOT,mzi,229
+Nyanja,ROOT,zu,229
+Nyankole,ROOT,omuzi,229
+Rundi,ROOT,umuzi,229
+Shona,ROOT,muʣì,229
+Songe,ROOT,muʃì,229
+Sukuma,ROOT,nzwi,229
+Tswana,ROOT,dì,229
+Venda,ROOT,muʣi,229
+Kamba,ROOT,moi,230
+Kimbundu,ROOT,ndanji,231
+Koongo,ROOT,mwansi,232
+Lozi,ROOT,mubisi,233
+Makhuwa,ROOT,nritaatʰi,234
+North_Ndebele,ROOT,impande,235
+Zulu,ROOT,ímpàndè,235
+Swahili,ROOT,mzizi,236
+Tonga,ROOT,imujanda,237
+Tsonga,ROOT,riminʦu,238
+Tswa,ROOT,liminʦu,238
+Umbundu,ROOT,ólúmbómbò,239
+Xhosa,ROOT,inɡǀambu,240
+Yaka,ROOT,nɡìlì,241
+Bemba,ORGANIC FAT OR OIL,amàfuta,242
+Ganda,ORGANIC FAT OR OIL,mafuta,242
+Gogo,ORGANIC FAT OR OIL,máfuta,242
+Haya,ORGANIC FAT OR OIL,amajuta,242
+Kalanga,ORGANIC FAT OR OIL,futa,242
+Kamba,ORGANIC FAT OR OIL,maútȁ,242
+Kikuyu,ORGANIC FAT OR OIL,maɣúta,242
+Koongo,ORGANIC FAT OR OIL,mafuta,242
+Lingala,ORGANIC FAT OR OIL,mafúta,242
+Lozi,ORGANIC FAT OR OIL,mafula,242
+Luba-Lulua,ORGANIC FAT OR OIL,mafúta,242
+Makhuwa,ORGANIC FAT OR OIL,makʰúra,242
+Meru,ORGANIC FAT OR OIL,mafura,242
+Ndzwani_Comorian,ORGANIC FAT OR OIL,maʈá,242
+Ngazidja_Comorian,ORGANIC FAT OR OIL,mafúra,242
+North_Ndebele,ORGANIC FAT OR OIL,amafutʰa,242
+Nyanja,ORGANIC FAT OR OIL,fúta,242
+Nyankole,ORGANIC FAT OR OIL,amajuta,242
+Rundi,ORGANIC FAT OR OIL,amavuta,242
+Shona,ORGANIC FAT OR OIL,mafútá,242
+Sukuma,ORGANIC FAT OR OIL,maɡuta,242
+Swahili,ORGANIC FAT OR OIL,mafuta,242
+Tonga,ORGANIC FAT OR OIL,máfuta,242
+Tsonga,ORGANIC FAT OR OIL,mafúrʱá,242
+Tswa,ORGANIC FAT OR OIL,mafúrá,242
+Tswana,ORGANIC FAT OR OIL,fúrá,242
+Venda,ORGANIC FAT OR OIL,map͡fura,242
+Xhosa,ORGANIC FAT OR OIL,amafutʰa,242
+Zulu,ORGANIC FAT OR OIL,ámáfùtʰà,242
+Bulu,ORGANIC FAT OR OIL,avon̂,243
+Fang,ORGANIC FAT OR OIL,avɔŋ,243
+Kimbundu,ORGANIC FAT OR OIL,maji,244
+Luba-Katanga,ORGANIC FAT OR OIL,mani,244
+Ndonga,ORGANIC FAT OR OIL,omakaɡaʤi,244
+Yaka,ORGANIC FAT OR OIL,bòàdí,244
+Songe,ORGANIC FAT OR OIL,mwîmù,245
+Umbundu,ORGANIC FAT OR OIL,úlélà,246
+Bemba,FIRE,ùmulilo,247
+Ganda,FIRE,mulilo,247
+Haya,FIRE,omulilo,247
+Lozi,FIRE,mulilo,247
+Luba-Katanga,FIRE,mudilo,247
+Ndonga,FIRE,omulilo,247
+North_Ndebele,FIRE,umlilo,247
+Nyankole,FIRE,omuriro,247
+Rundi,FIRE,umuriro,247
+Songe,FIRE,kâlo,247
+Tonga,FIRE,mulilo,247
+Tsonga,FIRE,nʣilo,247
+Tswa,FIRE,nʣilu,247
+Tswana,FIRE,lɪ̀lɔ̀,247
+Umbundu,FIRE,óndálu̍,247
+Xhosa,FIRE,umlilo,247
+Zulu,FIRE,umlilo,247
+Bulu,FIRE,nduan,248
+Fang,FIRE,nduan,248
+Gogo,FIRE,móoto,249
+Kalanga,FIRE,moto,249
+Makhuwa,FIRE,mɔ́ːrɔ,249
+Meru,FIRE,muro,249
+Ndzwani_Comorian,FIRE,móro,249
+Ngazidja_Comorian,FIRE,ḿdro,249
+Nyanja,FIRE,óto,249
+Shona,FIRE,mwòtó,249
+Sukuma,FIRE,moto,249
+Swahili,FIRE,moto,249
+Venda,FIRE,mwoto,249
+Kamba,FIRE,mwaki,250
+Kikuyu,FIRE,mwàːkì,250
+Kimbundu,FIRE,tubia,251
+Koongo,FIRE,tija,252
+Lingala,FIRE,mɔ́tɔ,253
+Luba-Lulua,FIRE,kápja,254
+Yaka,FIRE,muíá,254
+Bemba,SKIN,nkàndà,255
+Kalanga,SKIN,ɡanda,255
+Kimbundu,SKIN,kiba,255
+Koongo,SKIN,nkanda,255
+Meru,SKIN,ikanda,255
+Shona,SKIN,ɡanda,255
+Tonga,SKIN,ícíkanda,255
+Venda,SKIN,lukanda,255
+Bulu,SKIN,ékôp,256
+Fang,SKIN,ekop,256
+Luba-Katanga,SKIN,lukoba,256
+Luba-Lulua,SKIN,díkoba,256
+Rundi,SKIN,uruhu,256
+Songe,SKIN,ekòba,256
+Umbundu,SKIN,éko̍vá,256
+Ganda,SKIN,nkuta,257
+Sukuma,SKIN,iɡula,257
+Gogo,SKIN,ɲciíŋɡo,258
+Haya,SKIN,omubilihomme,259
+Kamba,SKIN,kekɔndɛ,260
+Kikuyu,SKIN,ɣekɔndɛ́,260
+Lingala,SKIN,lopóso,261
+Lozi,SKIN,litalo,262
+Makhuwa,SKIN,nrápála,263
+Ndonga,SKIN,oʃipa,264
+Ndzwani_Comorian,SKIN,ŋɡózi,265
+Ngazidja_Comorian,SKIN,ŋɡòzi,265
+Swahili,SKIN,nɡozi,265
+North_Ndebele,SKIN,isiɡoɡo,266
+Nyanja,SKIN,nɡuo,267
+Nyankole,SKIN,ekiʃuʃu,268
+Tsonga,SKIN,nɬonɡé,269
+Tswa,SKIN,ɬónɡé,269
+Tswana,SKIN,t͡ɬàpɪ̀,270
+Xhosa,SKIN,ijwambu,271
+Yaka,SKIN,kátá,272
+Zulu,SKIN,ísíkʰùmbà,273
+Bemba,ASH,imìto,274
+Luba-Katanga,ASH,butò,274
+Luba-Lulua,ASH,bútu,274
+Songe,ASH,butǒ,274
+Tonga,ASH,itwe,274
+Bulu,ASH,asup,275
+Fang,ASH,asup,275
+Yaka,ASH,sùvé,275
+Ganda,ASH,vvu,276
+Gogo,ASH,máfu,276
+Haya,ASH,eijwi,276
+Kamba,ASH,mou,276
+Kikuyu,ASH,mohû,276
+Meru,ASH,ifu,276
+Ndzwani_Comorian,ASH,vú,276
+Ngazidja_Comorian,ASH,vú,276
+Nyanja,ASH,pʰulusa,276
+Nyankole,ASH,eiju,276
+Sukuma,ASH,ibu,276
+Kalanga,ASH,lota,277
+Makhuwa,ASH,ittuúra,277
+North_Ndebele,ASH,lotʰa,277
+Rundi,ASH,umuɲota,277
+Shona,ASH,dòtà,277
+Tswana,ASH,mõlõrã,277
+Venda,ASH,mulora,277
+Xhosa,ASH,umlotʰa,277
+Zulu,ASH,umlota,277
+Kimbundu,ASH,ditókua,278
+Koongo,ASH,bombi,278
+Lingala,ASH,mputulú,279
+Lozi,ASH,mulola,280
+Ndonga,ASH,omutoko,281
+Umbundu,ASH,éti̍kó,281
+Swahili,ASH,sizi,282
+Tsonga,ASH,nkuma,283
+Tswa,ASH,kʰuma,283
+Bemba,HAIR (HEAD),ùmusisi,284
+Nyanja,HAIR (HEAD),síʦi,284
+Tonga,HAIR (HEAD),isusu,284
+Tsonga,HAIR (HEAD),nsísí,284
+Tswa,HAIR (HEAD),sísí,284
+Tswana,HAIR (HEAD),rírí,284
+Bulu,HAIR (HEAD),ésil,285
+Fang,HAIR (HEAD),esii,285
+Ganda,HAIR (HEAD),luvule,286
+Gogo,HAIR (HEAD),mvwiíli,286
+Kamba,HAIR (HEAD),osue,286
+Kikuyu,HAIR (HEAD),ɲjuére,286
+Luba-Katanga,HAIR (HEAD),njwěle,286
+Meru,HAIR (HEAD),ifuli,286
+Ndzwani_Comorian,HAIR (HEAD),ɲéle,286
+Ngazidja_Comorian,HAIR (HEAD),uɲíle,286
+North_Ndebele,HAIR (HEAD),unwele,286
+Sukuma,HAIR (HEAD),lujwili,286
+Swahili,HAIR (HEAD),ɲwele,286
+Xhosa,HAIR (HEAD),inwele,286
+Zulu,HAIR (HEAD),ulunwele,286
+Haya,HAIR (HEAD),eiʃoke,287
+Koongo,HAIR (HEAD),lusuki,287
+Lingala,HAIR (HEAD),nswéi,287
+Luba-Lulua,HAIR (HEAD),lúsúki,287
+Nyankole,HAIR (HEAD),eiʃokje,287
+Yaka,HAIR (HEAD),sùèí,287
+Kimbundu,HAIR (HEAD),ndemba,288
+Lozi,HAIR (HEAD),milili,289
+Makhuwa,HAIR (HEAD),ikʰarári,290
+Ndonga,HAIR (HEAD),efufu,291
+Rundi,HAIR (HEAD),umuʃaʦi,292
+Shona,HAIR (HEAD),v̤uʣi,293
+Venda,HAIR (HEAD),βuliʤi,293
+Songe,HAIR (HEAD),luɲèːne,294
+Umbundu,HAIR (HEAD),ésínɡà,295
+Bemba,MOON,umwèsi,296
+Ganda,MOON,mwezi,296
+Gogo,MOON,mwéezi,296
+Haya,MOON,omwezi,296
+Kalanga,MOON,ŋweʣi,296
+Kamba,MOON,mwɛi,296
+Kikuyu,MOON,mwɛ́ri,296
+Kimbundu,MOON,mbeji,296
+Lozi,MOON,kweli,296
+Luba-Katanga,MOON,kwêzi,296
+Luba-Lulua,MOON,mwenzí,296
+Makhuwa,MOON,mweéri,296
+Meru,MOON,mwiiri,296
+Ndonga,MOON,omweʤi,296
+Ndzwani_Comorian,MOON,mwézi,296
+Ngazidja_Comorian,MOON,mwézi,296
+Nyanja,MOON,ezí,296
+Nyankole,MOON,okwezi,296
+Rundi,MOON,ukwezi,296
+Shona,MOON,mwèʣí,296
+Songe,MOON,mwêʃi,296
+Sukuma,MOON,ŋweji,296
+Swahili,MOON,mwezi,296
+Tonga,MOON,mwezi,296
+Tsonga,MOON,n̍hwétí,296
+Tswa,MOON,hwétí,296
+Tswana,MOON,ǃʰwèdí,296
+Venda,MOON,mweʣi,296
+Bulu,MOON,nɡon,297
+Fang,MOON,ŋɡwan,297
+Koongo,MOON,nɡonda,297
+Lingala,MOON,sánzá,298
+North_Ndebele,MOON,injanɡa,299
+Xhosa,MOON,injanɡa,299
+Zulu,MOON,íɲànɡá,299
+Umbundu,MOON,ésájì,300
+Yaka,MOON,sónɡé,301
+Bemba,ONE,mo,302
+Ganda,ONE,mu,302
+Luba-Katanga,ONE,mo,302
+Songe,ONE,mone,302
+Sukuma,ONE,imo,302
+Bulu,ONE,fok,303
+Fang,ONE,bɔʔɔ,303
+Lingala,ONE,mɔ́kɔ́,303
+Gogo,ONE,moŋɡa,304
+Haya,ONE,emoi,305
+Kamba,ONE,mwɛ̋,305
+Kikuyu,ONE,emwɛ,305
+Luba-Lulua,ONE,mwé,305
+Meru,ONE,jimwi,305
+Ndonga,ONE,mwe,305
+Nyankole,ONE,mwe,305
+Rundi,ONE,mwe,305
+Shona,ONE,mwé,305
+Tonga,ONE,mwe,305
+Kalanga,ONE,nʔompela,306
+Kimbundu,ONE,moʃi,307
+Koongo,ONE,mosi,307
+Ngazidja_Comorian,ONE,monʦi,307
+Nyanja,ONE,móʣi,307
+Umbundu,ONE,mósì,307
+Yaka,ONE,émɔ̀tí,307
+Lozi,ONE,ŋwi,308
+Tswana,ONE,ŋwɪ̀,308
+Makhuwa,ONE,moka,309
+Ndzwani_Comorian,ONE,moʒá,309
+Swahili,ONE,moʄa,309
+North_Ndebele,ONE,ɲe,310
+Tsonga,ONE,n̍we,310
+Tswa,ONE,n̍we,310
+Xhosa,ONE,ɲe,310
+Zulu,ONE,ɲe,310
+Venda,ONE,tʰihi,311
+Bulu,THREE,la,312
+Fang,THREE,laa,312
+Ganda,THREE,satu,313
+Gogo,THREE,datu,313
+Haya,THREE,iʃatu,313
+Kalanga,THREE,tʰatu,313
+Kamba,THREE,itato,313
+Kikuyu,THREE,iθatu,313
+Koongo,THREE,tatu,313
+Lingala,THREE,mísáto,313
+Lozi,THREE,talu,313
+Luba-Lulua,THREE,sàtùpronomnuméralʧardinal,313
+Makhuwa,THREE,raru,313
+Meru,THREE,firaru,313
+Ndzwani_Comorian,THREE,ráru,313
+Ngazidja_Comorian,THREE,ráru,313
+North_Ndebele,THREE,tʰatʰu,313
+Nyanja,THREE,itátu,313
+Nyankole,THREE,ʃatu,313
+Rundi,THREE,tatu,313
+Shona,THREE,n̤atu,313
+Songe,THREE,satu,313
+Sukuma,THREE,idatu,313
+Swahili,THREE,tatu,313
+Tsonga,THREE,r̥ár̥u,313
+Tswa,THREE,nʱaru,313
+Tswana,THREE,rárʊ́,313
+Umbundu,THREE,tatu,313
+Venda,THREE,raru,313
+Xhosa,THREE,tʰatʰu,313
+Yaka,THREE,sátò,313
+Zulu,THREE,tʰatʰu,313
+Bemba,FISH,isabì,314
+Lozi,FISH,tapi,314
+Tsonga,FISH,nɬamp͡fi,314
+Tswa,FISH,ɬaβi,314
+Tswana,FISH,t͡ɬʰàpì,314
+Bulu,FISH,kos,315
+Fang,FISH,kwas,315
+Ganda,FISH,ekjeɲanja,316
+Gogo,FISH,sóomba,317
+Nyanja,FISH,sómba,317
+Haya,FISH,emfuru,318
+Kalanga,FISH,hobe,319
+Makhuwa,FISH,ihópa,319
+Shona,FISH,hóʋé,319
+Venda,FISH,kʰoβe,319
+Kamba,FISH,ekojo,320
+Kikuyu,FISH,tɛ́ɣa,320
+Kimbundu,FISH,mbiji,321
+Koongo,FISH,mbisi,321
+Lingala,FISH,mbísi,321
+Umbundu,FISH,ómbi̍sí,321
+Luba-Katanga,FISH,ʃipa,322
+Luba-Lulua,FISH,múʃípá,322
+Songe,FISH,muʃìpà,322
+Meru,FISH,ikunɡa,323
+Ndonga,FISH,ohi,324
+Nyankole,FISH,inswi,324
+Sukuma,FISH,ʃi,324
+Tonga,FISH,nswi,324
+Yaka,FISH,súè,324
+Ndzwani_Comorian,FISH,fí,325
+Ngazidja_Comorian,FISH,nfí,325
+Rundi,FISH,ifi,325
+North_Ndebele,FISH,inɬanzi,326
+Xhosa,FISH,intlanzi,326
+Zulu,FISH,ínɬànzì,326
+Swahili,FISH,samaki,327
+Bemba,MOUTH,àkanwa,328
+Bulu,MOUTH,anju,328
+Fang,MOUTH,aɲu,328
+Ganda,MOUTH,kamwa,328
+Haya,MOUTH,omunwa,328
+Kamba,MOUTH,kaɲẅa,328
+Kikuyu,MOUTH,kanua,328
+Koongo,MOUTH,nwa,328
+Meru,MOUTH,kana,328
+Ndzwani_Comorian,MOUTH,háɲo,328
+Ngazidja_Comorian,MOUTH,haɲwa,328
+Nyankole,MOUTH,akanwa,328
+Rundi,MOUTH,umunwa,328
+Swahili,MOUTH,kiɲwa,328
+Tonga,MOUTH,kanwa,328
+Umbundu,MOUTH,omena,328
+Yaka,MOUTH,nùà,328
+Gogo,MOUTH,ḿlomo,329
+Kalanga,MOUTH,lomo,329
+Lozi,MOUTH,mulomo,329
+North_Ndebele,MOUTH,umlomo,329
+Shona,MOUTH,ròmò,329
+Sukuma,MOUTH,nomo,329
+Tsonga,MOUTH,nomo,329
+Tswa,MOUTH,nomo,329
+Tswana,MOUTH,lòmʊ̀,329
+Venda,MOUTH,mulomo,329
+Xhosa,MOUTH,umlomo,329
+Zulu,MOUTH,úmlòmò,329
+Kimbundu,MOUTH,dikanu,330
+Luba-Katanga,MOUTH,kjàkanwa,330
+Luba-Lulua,MOUTH,múkáná,330
+Ndonga,MOUTH,okana,330
+Songe,MOUTH,kukànwà,330
+Lingala,MOUTH,monɔkɔ,331
+Makhuwa,MOUTH,maláku,332
+Nyanja,MOUTH,kamwa,333
+Bemba,BURN (SOMETHING),pja,334
+Kimbundu,BURN (SOMETHING),uika,334
+Makhuwa,BURN (SOMETHING),vja,334
+Ndonga,BURN (SOMETHING),pja,334
+Ngazidja_Comorian,BURN (SOMETHING),βa,334
+Rundi,BURN (SOMETHING),hiʃa,334
+Songe,BURN (SOMETHING),fjà,334
+Tonga,BURN (SOMETHING),pja,334
+Bulu,BURN (SOMETHING),dik,335
+Fang,BURN (SOMETHING),ʣiʔi,335
+Ganda,BURN (SOMETHING),ɡɡja,336
+Gogo,BURN (SOMETHING),aka,337
+Haya,BURN (SOMETHING),aka,337
+Meru,BURN (SOMETHING),aka,337
+Nyankole,BURN (SOMETHING),aka,337
+Sukuma,BURN (SOMETHING),baka,337
+Swahili,BURN (SOMETHING),waka,337
+Kalanga,BURN (SOMETHING),ʦʰwa,338
+North_Ndebele,BURN (SOMETHING),ʧa,338
+Nyanja,BURN (SOMETHING),psa,338
+Shona,BURN (SOMETHING),ʦʋá,338
+Tswana,BURN (SOMETHING),ʂwã,338
+Venda,BURN (SOMETHING),huʂa,338
+Xhosa,BURN (SOMETHING),ʧa,338
+Zulu,BURN (SOMETHING),ʃa,338
+Kamba,BURN (SOMETHING),βeːβja,339
+Kikuyu,BURN (SOMETHING),heːhia,339
+Koongo,BURN (SOMETHING),joka,340
+Lingala,BURN (SOMETHING),etumba,341
+Lozi,BURN (SOMETHING),tumbuka,341
+Yaka,BURN (SOMETHING),sél,341
+Luba-Katanga,BURN (SOMETHING),teːma,342
+Umbundu,BURN (SOMETHING),támà,342
+Luba-Lulua,BURN (SOMETHING),kóóʃákúóʃá,343
+Ndzwani_Comorian,BURN (SOMETHING),vùʣa,344
+Tsonga,BURN (SOMETHING),p͡furʱa,345
+Bemba,BIRD,ìʧoːni,346
+Bulu,BIRD,ônon,346
+Fang,BIRD,onwan,346
+Ganda,BIRD,enɲoɲi,346
+Haya,BIRD,ekiɲoɲi,346
+Kalanga,BIRD,ɲuni,346
+Kamba,BIRD,esone,346
+Kikuyu,BIRD,ɲɔni,346
+Koongo,BIRD,nuni,346
+Lozi,BIRD,ɲuɲuni,346
+Luba-Katanga,BIRD,koni,346
+Luba-Lulua,BIRD,ɲúúɲí,346
+Makhuwa,BIRD,mwaánùni,346
+Ndzwani_Comorian,BIRD,ɲúɲi,346
+Ngazidja_Comorian,BIRD,nùni,346
+North_Ndebele,BIRD,injoni,346
+Nyankole,BIRD,eɲoɲi,346
+Rundi,BIRD,iɲoni,346
+Songe,BIRD,kôni,346
+Sukuma,BIRD,noni,346
+Tonga,BIRD,imujuni,346
+Tsonga,BIRD,ɲaɲana,346
+Tswa,BIRD,ʧiɲaɲani,346
+Tswana,BIRD,nɔ̀ɲánɪ́,346
+Venda,BIRD,ʧinoni,346
+Yaka,BIRD,ɲɔ̀dí,346
+Zulu,BIRD,íɲònì,346
+Gogo,BIRD,ndêje,347
+Lingala,BIRD,ndeke,347
+Meru,BIRD,ndeje,347
+Swahili,BIRD,ndeɡe,347
+Kimbundu,BIRD,njila,348
+Ndonga,BIRD,okaʤila,348
+Umbundu,BIRD,ónji̍lá,348
+Nyanja,BIRD,mbálame,349
+Shona,BIRD,ʃìrì,350
+Xhosa,BIRD,intaka,351
+Bemba,PERSON,ùmuntu,352
+Bulu,PERSON,môt,352
+Fang,PERSON,mbot,352
+Ganda,PERSON,omuntu,352
+Gogo,PERSON,muúntu,352
+Haya,PERSON,omuntu,352
+Kalanga,PERSON,tʰu,352
+Kamba,PERSON,mōːn̏dȍ,352
+Kikuyu,PERSON,mòndò,352
+Kimbundu,PERSON,mutu,352
+Koongo,PERSON,muntu,352
+Lingala,PERSON,moto,352
+Lozi,PERSON,mutu,352
+Luba-Katanga,PERSON,muntu,352
+Luba-Lulua,PERSON,muntu,352
+Makhuwa,PERSON,ʔnttʰu,352
+Meru,PERSON,ndu,352
+Ndonga,PERSON,omuntu,352
+Ndzwani_Comorian,PERSON,múnʈu,352
+Ngazidja_Comorian,PERSON,m̀nɖu,352
+North_Ndebele,PERSON,umuntu,352
+Nyanja,PERSON,ntʰu,352
+Nyankole,PERSON,omuntu,352
+Rundi,PERSON,umuntu,352
+Songe,PERSON,mûntu,352
+Swahili,PERSON,mtu,352
+Tonga,PERSON,muntu,352
+Tswana,PERSON,tʰʊ̀,352
+Umbundu,PERSON,ómúnù,352
+Venda,PERSON,mutʰu,352
+Xhosa,PERSON,umntu,352
+Yaka,PERSON,tò,352
+Zulu,PERSON,umuntu,352
+Shona,PERSON,mun̤u,353
+Sukuma,PERSON,mun̤u,353
+Tsonga,PERSON,mun̤u,353
+Tswa,PERSON,mun̤u,353
+Bemba,BIG,kalàmbà,354
+Bulu,BIG,anen,355
+Fang,BIG,nən,355
+Ganda,BIG,nene,355
+Kamba,BIG,nɛ́nɛ̏,355
+Kikuyu,BIG,nɛ́nɛ,355
+Kimbundu,BIG,nene,355
+Koongo,BIG,nene,355
+Lingala,BIG,monene,355
+Luba-Lulua,BIG,nené,355
+Meru,BIG,nini,355
+Ndonga,BIG,omunene,355
+Rundi,BIG,nini,355
+Tonga,BIG,pati,355
+Umbundu,BIG,ne̍nè,355
+Gogo,BIG,βaha,356
+Ndzwani_Comorian,BIG,libwávu,356
+Swahili,BIG,kubwa,356
+Haya,BIG,hanɡo,357
+Nyankole,BIG,hanɡo,357
+Kalanga,BIG,kulukulu,358
+Ngazidja_Comorian,BIG,kúu,358
+North_Ndebele,BIG,kʰulu,358
+Nyanja,BIG,kulu,358
+Shona,BIG,ɡuru,358
+Tsonga,BIG,kúlú,358
+Tswana,BIG,ɡóló,358
+Venda,BIG,hulwane,358
+Xhosa,BIG,kʰulu,358
+Zulu,BIG,kʰúlù,358
+Lozi,BIG,tuna,359
+Luba-Katanga,BIG,kàtà,360
+Songe,BIG,mukàtà,360
+Makhuwa,BIG,wunnuwela,361
+Sukuma,BIG,ale,362
+Tswa,BIG,hombé,363
+Yaka,BIG,làí,364
+Bemba,BREAST,ibe̍ːlè,365
+Bulu,BREAST,abé,365
+Fang,BREAST,abɛɲ,365
+Ganda,BREAST,bbeele,365
+Haya,BREAST,omabele,365
+Kimbundu,BREAST,diele,365
+Koongo,BREAST,beno,365
+Lingala,BREAST,libéle,365
+Lozi,BREAST,lizwele,365
+Luba-Katanga,BREAST,bele,365
+Luba-Lulua,BREAST,díbeelé,365
+Makhuwa,BREAST,ipéle,365
+Meru,BREAST,mawele,365
+Ndzwani_Comorian,BREAST,béle,365
+Ngazidja_Comorian,BREAST,béle,365
+North_Ndebele,BREAST,ibele,365
+Nyanja,BREAST,jére,365
+Nyankole,BREAST,eibeere,365
+Rundi,BREAST,ibere,365
+Songe,BREAST,ebèːle,365
+Sukuma,BREAST,mbele,365
+Swahili,BREAST,ziwa,365
+Tsonga,BREAST,vélé,365
+Tswa,BREAST,vélé,365
+Tswana,BREAST,bɛ́lɛ́,365
+Umbundu,BREAST,éve̍lé,365
+Xhosa,BREAST,ibele,365
+Yaka,BREAST,bɛlɛ́,365
+Zulu,BREAST,ibele,365
+Gogo,BREAST,itóombo,366
+Kalanga,BREAST,ʒamu,367
+Shona,BREAST,zámú,367
+Venda,BREAST,d̪ámú,367
+Kamba,BREAST,nɔndɔ,368
+Kikuyu,BREAST,ɲɔ̀ndɔ̀,368
+Ndonga,BREAST,eɡundji,369
+Tonga,BREAST,nkolo,370
+Bemba,FIREWOOD,mukoso,371
+Bulu,FIREWOOD,njaʔa,372
+Fang,FIREWOOD,nʣaʔa,372
+Ganda,FIREWOOD,luku,373
+Haya,FIREWOOD,enkwi,373
+Kamba,FIREWOOD,oko,373
+Kikuyu,FIREWOOD,rokô,373
+Meru,FIREWOOD,nɡwi,373
+Nyankole,FIREWOOD,enku,373
+Rundi,FIREWOOD,inkwi,373
+Sukuma,FIREWOOD,ŋ̤wi,373
+Gogo,FIREWOOD,ŋɡwaáɡu,374
+Kalanga,FIREWOOD,huni,375
+Koongo,FIREWOOD,nkuni,375
+Lingala,FIREWOOD,kóni,375
+Makhuwa,FIREWOOD,ikʰúni,375
+Ndzwani_Comorian,FIREWOOD,ŋkúni,375
+Ngazidja_Comorian,FIREWOOD,uhúni,375
+North_Ndebele,FIREWOOD,inkuni,375
+Nyanja,FIREWOOD,kʰúni,375
+Shona,FIREWOOD,huni,375
+Swahili,FIREWOOD,kuni,375
+Tsonga,FIREWOOD,tʼiɦúɲí,375
+Tswana,FIREWOOD,χʊ́ŋ́,375
+Venda,FIREWOOD,kʰuni,375
+Xhosa,FIREWOOD,iiŋkʼuni,375
+Zulu,FIREWOOD,iziŋkʼúni,375
+Songe,FIREWOOD,ntete,376
+Yaka,FIREWOOD,múíá,377
+Bemba,FINGERNAIL,iljàla,378
+Bulu,FINGERNAIL,jaé,378
+Fang,FINGERNAIL,ʣɛɲ,378
+Ganda,FINGERNAIL,lwala,378
+Kalanga,FINGERNAIL,ɲala,378
+Kamba,FINGERNAIL,waa,378
+Kimbundu,FINGERNAIL,kiala,378
+Koongo,FINGERNAIL,luzala,378
+Lozi,FINGERNAIL,linala,378
+Luba-Katanga,FINGERNAIL,djàːlà,378
+Luba-Lulua,FINGERNAIL,lúzadí,378
+Ndonga,FINGERNAIL,olunjala,378
+Nyankole,FINGERNAIL,ekjara,378
+Rundi,FINGERNAIL,urwara,378
+Shona,FINGERNAIL,nzara,378
+Songe,FINGERNAIL,lwâla,378
+Sukuma,FINGERNAIL,njala,378
+Tonga,FINGERNAIL,lwala,378
+Tsonga,FINGERNAIL,ŋwálá,378
+Tswana,FINGERNAIL,nálá,378
+Umbundu,FINGERNAIL,ólúudjálà,378
+Venda,FINGERNAIL,lwala,378
+Gogo,FINGERNAIL,ŋkombazala,379
+Haya,FINGERNAIL,mpambo,380
+Kikuyu,FINGERNAIL,roára,381
+Lingala,FINGERNAIL,linzaka,382
+Makhuwa,FINGERNAIL,ɛkátʰa,383
+Meru,FINGERNAIL,uʃaa,384
+Swahili,FINGERNAIL,ukuʧa,384
+Ndzwani_Comorian,FINGERNAIL,kófu,385
+Ngazidja_Comorian,FINGERNAIL,fuu,385
+North_Ndebele,FINGERNAIL,uzipʰo,386
+Xhosa,FINGERNAIL,uzipʰo,386
+Zulu,FINGERNAIL,uzipo,386
+Nyanja,FINGERNAIL,kʰádabo,387
+Yaka,FINGERNAIL,tùkù,388
+Bemba,SEE,mona,389
+Gogo,SEE,wona,389
+Haya,SEE,bona,389
+Kamba,SEE,ɔna,389
+Kikuyu,SEE,ɔ́na,389
+Kimbundu,SEE,mona,389
+Koongo,SEE,mona,389
+Lingala,SEE,móna,389
+Lozi,SEE,bona,389
+Luba-Katanga,SEE,mona,389
+Luba-Lulua,SEE,moná,389
+Makhuwa,SEE,oóna,389
+Ndonga,SEE,mona,389
+Ndzwani_Comorian,SEE,óna,389
+Ngazidja_Comorian,SEE,ona,389
+North_Ndebele,SEE,bona,389
+Nyanja,SEE,ona,389
+Rundi,SEE,bona,389
+Shona,SEE,óna,389
+Songe,SEE,mòna,389
+Sukuma,SEE,bona,389
+Swahili,SEE,ona,389
+Tonga,SEE,bona,389
+Tsonga,SEE,vóná,389
+Tswa,SEE,wóná,389
+Tswana,SEE,bɔ́ná,389
+Umbundu,SEE,mólá,389
+Venda,SEE,βona,389
+Xhosa,SEE,bona,389
+Zulu,SEE,bónà,389
+Bulu,SEE,jen,390
+Fang,SEE,jen,390
+Ganda,SEE,laba,391
+Meru,SEE,lolija,392
+Nyankole,SEE,reeba,393
+Yaka,SEE,tá,394
+Bemba,SMOKE (EXHAUST),iʧùnsi,395
+Gogo,SMOKE (EXHAUST),ljóosi,395
+Kalanga,SMOKE (EXHAUST),si,395
+Kamba,SMOKE (EXHAUST),sjoki,395
+Kimbundu,SMOKE (EXHAUST),diʃi,395
+Koongo,SMOKE (EXHAUST),mwisi,395
+Lozi,SMOKE (EXHAUST),musi,395
+Luba-Katanga,SMOKE (EXHAUST),mwîʃi,395
+Luba-Lulua,SMOKE (EXHAUST),mwînʃí,395
+Makhuwa,SMOKE (EXHAUST),mwiíʃi,395
+Ndonga,SMOKE (EXHAUST),olwiθi,395
+Ndzwani_Comorian,SMOKE (EXHAUST),mósi,395
+Ngazidja_Comorian,SMOKE (EXHAUST),ʤosi,395
+Nyanja,SMOKE (EXHAUST),ʦí,395
+Rundi,SMOKE (EXHAUST),umwoʦi,395
+Shona,SMOKE (EXHAUST),ùʦí,395
+Songe,SMOKE (EXHAUST),mîʃi,395
+Sukuma,SMOKE (EXHAUST),ljoʧi,395
+Swahili,SMOKE (EXHAUST),moʃi,395
+Tonga,SMOKE (EXHAUST),íbúsi,395
+Tsonga,SMOKE (EXHAUST),músí,395
+Tswa,SMOKE (EXHAUST),músí,395
+Tswana,SMOKE (EXHAUST),sí,395
+Umbundu,SMOKE (EXHAUST),ówísí,395
+Venda,SMOKE (EXHAUST),muʦi,395
+Xhosa,SMOKE (EXHAUST),uḿsi,395
+Zulu,SMOKE (EXHAUST),úmúsì,395
+Bulu,SMOKE (EXHAUST),ôtita,396
+Fang,SMOKE (EXHAUST),oʦira,396
+Ganda,SMOKE (EXHAUST),mukka,397
+Haya,SMOKE (EXHAUST),omwiika,397
+Nyankole,SMOKE (EXHAUST),omwika,397
+Kikuyu,SMOKE (EXHAUST),ndɔ̀ːɣɔ̀,398
+Lingala,SMOKE (EXHAUST),mólinɡa,399
+Meru,SMOKE (EXHAUST),musu,400
+North_Ndebele,SMOKE (EXHAUST),tʰunǃa,401
+Yaka,SMOKE (EXHAUST),múè,402
+Bemba,SNAKE,iʧilamba,403
+Bulu,SNAKE,njo,404
+Fang,SNAKE,ɲo,404
+Gogo,SNAKE,nzôka,404
+Haya,SNAKE,enjoka,404
+Kalanga,SNAKE,ɲoka,404
+Kamba,SNAKE,nzoka,404
+Lingala,SNAKE,njóka,404
+Lozi,SNAKE,noha,404
+Luba-Lulua,SNAKE,nnjòka,404
+Makhuwa,SNAKE,inwáa,404
+Meru,SNAKE,ʃoka,404
+Ndzwani_Comorian,SNAKE,ɲóha,404
+Ngazidja_Comorian,SNAKE,ɲóha,404
+North_Ndebele,SNAKE,injoka,404
+Nyankole,SNAKE,enjoka,404
+Rundi,SNAKE,inɡoka,404
+Shona,SNAKE,ɲoka,404
+Songe,SNAKE,nioka,404
+Sukuma,SNAKE,nzoka,404
+Swahili,SNAKE,ɲoka,404
+Tsonga,SNAKE,ɲókʼá,404
+Tswa,SNAKE,ɲoka,404
+Tswana,SNAKE,nɔ́χá,404
+Umbundu,SNAKE,onjoha,404
+Venda,SNAKE,nʰowa,404
+Xhosa,SNAKE,iɲoka,404
+Yaka,SNAKE,nzɔ,404
+Zulu,SNAKE,iɲoka,404
+Ganda,SNAKE,musota,405
+Kikuyu,SNAKE,ɲamojaðe,406
+Koongo,SNAKE,mboma,407
+Nyanja,SNAKE,nʣiira,408
+Bemba,TREE,ìʧimùti,409
+Bulu,TREE,élé,409
+Fang,TREE,ele,409
+Ganda,TREE,muti,409
+Gogo,TREE,múti,409
+Haya,TREE,omuti,409
+Kalanga,TREE,ti,409
+Kamba,TREE,mote,409
+Kikuyu,TREE,moté,409
+Kimbundu,TREE,muʃi,409
+Koongo,TREE,nti,409
+Lingala,TREE,nzeté,409
+Luba-Katanga,TREE,muʧì,409
+Luba-Lulua,TREE,múʧi,409
+Makhuwa,TREE,mwíri,409
+Meru,TREE,nri,409
+Ndonga,TREE,omuti,409
+Ndzwani_Comorian,TREE,mwirí,409
+Ngazidja_Comorian,TREE,mdrí,409
+Nyankole,TREE,omuti,409
+Rundi,TREE,iɡiti,409
+Shona,TREE,mutí,409
+Songe,TREE,muʦʰi,409
+Sukuma,TREE,linti,409
+Swahili,TREE,mti,409
+Tsonga,TREE,murʱe,409
+Tswana,TREE,t͡ɬʰàrɪ̀,409
+Umbundu,TREE,útì,409
+Venda,TREE,muri,409
+Xhosa,TREE,umtʰi,409
+Yaka,TREE,lé,409
+Zulu,TREE,umutʰi,409
+Lozi,TREE,kota,410
+North_Ndebele,TREE,isiɬaɬa,411
+Nyanja,TREE,nténɡo,412
+Tonga,TREE,cisamu,413
+Tswa,TREE,siɲa,414
+Bemba,BELLY,ì̀fumo,415
+Bulu,BELLY,abum,415
+Fang,BELLY,abum,415
+Kimbundu,BELLY,divumu,415
+Koongo,BELLY,kivumu,415
+Lingala,BELLY,libumu,415
+Umbundu,BELLY,ímò,415
+Gogo,BELLY,nda,416
+Haya,BELLY,eibundaenda,416
+Kikuyu,BELLY,nda,416
+Meru,BELLY,ndeu,416
+Nyankole,BELLY,enda,416
+Rundi,BELLY,inda,416
+Tonga,BELLY,ida,416
+Kalanga,BELLY,tumbu,417
+Shona,BELLY,dùmbù,417
+Sukuma,BELLY,ŋ̤umbi,417
+Swahili,BELLY,tumbo,417
+Tswa,BELLY,rúmbú,417
+Venda,BELLY,tʰumbu,417
+Kamba,BELLY,eβu,418
+Luba-Katanga,BELLY,fu,418
+Luba-Lulua,BELLY,dífu,418
+Songe,BELLY,efù,418
+Lozi,BELLY,mba,419
+Ndzwani_Comorian,BELLY,mímba,419
+Ngazidja_Comorian,BELLY,mmba,419
+Nyanja,BELLY,mímba,419
+Tswana,BELLY,ḿpá,419
+Makhuwa,BELLY,ntʰúkwa,420
+Ndonga,BELLY,epunda,421
+North_Ndebele,BELLY,isisu,422
+Xhosa,BELLY,isisu,422
+Zulu,BELLY,ìsísù,422
+Tsonga,BELLY,kʰwírí,423
+Yaka,BELLY,ɛ̀ì,424
+Bemba,BONE,ifùpa,425
+Gogo,BONE,ífupa,425
+Haya,BONE,eiɡufa,425
+Kalanga,BONE,fupa,425
+Kimbundu,BONE,fuba,425
+Lingala,BONE,mokua,425
+Luba-Katanga,BONE,mukùpa,425
+Luba-Lulua,BONE,múfubá,425
+Makhuwa,BONE,nikʰúva,425
+Meru,BONE,ifuwa,425
+Ndonga,BONE,esipa,425
+Ndzwani_Comorian,BONE,múbwa,425
+Ngazidja_Comorian,BONE,ʃíba,425
+Nyanja,BONE,p͡fúpa,425
+Nyankole,BONE,eiɡufa,425
+Rundi,BONE,iɡufa,425
+Shona,BONE,fúfá,425
+Songe,BONE,mufùfwa,425
+Sukuma,BONE,iɡuha,425
+Swahili,BONE,mfupa,425
+Tonga,BONE,ícífuwa,425
+Umbundu,BONE,éke̍pá,425
+Yaka,BONE,kúà,425
+Bulu,BONE,eves,426
+Fang,BONE,eves,426
+Koongo,BONE,visi,426
+Ganda,BONE,ɡɡumba,427
+Kamba,BONE,eβende,428
+Kikuyu,BONE,ihéndé,428
+Lozi,BONE,lisapo,429
+North_Ndebele,BONE,itʰambo,430
+Tsonga,BONE,rʱámbó,430
+Tswa,BONE,rámbú,430
+Xhosa,BONE,itʰambo,430
+Zulu,BONE,îtʰâmbò,430
+Tswana,BONE,rápɔ́,431
+Venda,BONE,lirapʰo,431
+Bemba,SALT,ʧele,432
+Luba-Lulua,SALT,mukèlèà,432
+Nyanja,SALT,ʧére,432
+Bulu,SALT,nku,433
+Fang,SALT,ŋ̍ku,433
+Koongo,SALT,munɡwa,433
+Lingala,SALT,monɡwa,433
+Songe,SALT,munɡwa,433
+Umbundu,SALT,omonɡwa,433
+Yaka,SALT,kúá,433
+Ganda,SALT,munɲo,434
+Gogo,SALT,mwíino,434
+Haya,SALT,mwoɲu,434
+Kamba,SALT,moɲo,434
+Kikuyu,SALT,moóɲo,434
+Ndzwani_Comorian,SALT,ʃíŋɡo,434
+Ngazidja_Comorian,SALT,mɲo,434
+Nyankole,SALT,omwoɲo,434
+Rundi,SALT,umwuɲu,434
+Shona,SALT,muɲu,434
+Sukuma,SALT,mun̤u,434
+Swahili,SALT,muɲu,434
+Tsonga,SALT,múɲú,434
+Makhuwa,SALT,maakʰa,435
+Meru,SALT,ʃimbi,436
+North_Ndebele,SALT,iʧwʔaji,437
+Tswana,SALT,ʦwáí,437
+Venda,SALT,mataβa,437
+Xhosa,SALT,itjuwa,437
+Zulu,SALT,iʦwaji,437
+Bemba,RAIN (PRECIPITATION),ḿfùlà,438
+Gogo,RAIN (PRECIPITATION),mvûla,438
+Kamba,RAIN (PRECIPITATION),mbua,438
+Kikuyu,RAIN (PRECIPITATION),mbúra,438
+Kimbundu,RAIN (PRECIPITATION),nvula,438
+Koongo,RAIN (PRECIPITATION),mvula,438
+Lingala,RAIN (PRECIPITATION),mbúla,438
+Lozi,RAIN (PRECIPITATION),pula,438
+Luba-Katanga,RAIN (PRECIPITATION),mvula,438
+Luba-Lulua,RAIN (PRECIPITATION),mvulá,438
+Ndonga,RAIN (PRECIPITATION),omvula,438
+Ndzwani_Comorian,RAIN (PRECIPITATION),vúa,438
+Nyanja,RAIN (PRECIPITATION),bvúla,438
+Rundi,RAIN (PRECIPITATION),imvura,438
+Shona,RAIN (PRECIPITATION),mʋura,438
+Sukuma,RAIN (PRECIPITATION),mbula,438
+Swahili,RAIN (PRECIPITATION),mvua,438
+Tonga,RAIN (PRECIPITATION),mvula,438
+Tsonga,RAIN (PRECIPITATION),mp͡fúlá,438
+Tswa,RAIN (PRECIPITATION),vúlá,438
+Tswana,RAIN (PRECIPITATION),púlá,438
+Umbundu,RAIN (PRECIPITATION),ómbe̍la,438
+Venda,RAIN (PRECIPITATION),mvula,438
+Xhosa,RAIN (PRECIPITATION),imvula,438
+Yaka,RAIN (PRECIPITATION),mbúá,438
+Zulu,RAIN (PRECIPITATION),ímvûlà,438
+Bulu,RAIN (PRECIPITATION),mven̂,439
+Fang,RAIN (PRECIPITATION),mvəŋ,439
+Ganda,RAIN (PRECIPITATION),nkuba,440
+Haya,RAIN (PRECIPITATION),enjula,441
+Nyankole,RAIN (PRECIPITATION),enjura,441
+Kalanga,RAIN (PRECIPITATION),na,442
+North_Ndebele,RAIN (PRECIPITATION),na,442
+Makhuwa,RAIN (PRECIPITATION),ipúla,443
+Meru,RAIN (PRECIPITATION),fua,443
+Ngazidja_Comorian,RAIN (PRECIPITATION),ɲa,444
+Songe,RAIN (PRECIPITATION),mpèʃi,445
+Bemba,WOMAN,umwànakaʃi,446
+Ganda,WOMAN,omukazi,446
+Haya,WOMAN,omukazi,446
+Kalanga,WOMAN,kaʣi,446
+Kimbundu,WOMAN,mukaji,446
+Lingala,WOMAN,mwási,446
+Luba-Katanga,WOMAN,mwanamukàzi,446
+Luba-Lulua,WOMAN,múkazi,446
+Nyanja,WOMAN,kázi,446
+Nyankole,WOMAN,omukazi,446
+Shona,WOMAN,káʣí,446
+Songe,WOMAN,mukàʃiba,446
+Tsonga,WOMAN,wánsátí,446
+Tswa,WOMAN,wásátí,446
+Tswana,WOMAN,sádí,446
+Umbundu,WOMAN,úkajì,446
+Venda,WOMAN,musaʣi,446
+Xhosa,WOMAN,umfazi,446
+Zulu,WOMAN,úḿfâzì,446
+Bulu,WOMAN,minɡa,447
+Fang,WOMAN,minŋɡa,447
+Gogo,WOMAN,mcéekulu,448
+Kamba,WOMAN,mondomoka,449
+Kikuyu,WOMAN,motuma,449
+Meru,WOMAN,nka,449
+Swahili,WOMAN,mwanamke,449
+Koongo,WOMAN,nkento,450
+Ndonga,WOMAN,omukiintu,450
+Lozi,WOMAN,musali,451
+Makhuwa,WOMAN,ntʰíjàna,452
+Ndzwani_Comorian,WOMAN,mnʈumamá,453
+Ngazidja_Comorian,WOMAN,mnɖumamá,453
+North_Ndebele,WOMAN,inina,454
+Rundi,WOMAN,umuɡore,455
+Sukuma,WOMAN,nkima,456
+Tonga,WOMAN,mukaintu,457
+Yaka,WOMAN,moétò,458
+Bemba,LEG,ùkuːlu,459
+Ganda,LEG,kuɡulu,459
+Gogo,LEG,ḿɡulu,459
+Haya,LEG,okuɡulu,459
+Kamba,LEG,koo,459
+Kikuyu,LEG,kòɣòrò,459
+Koongo,LEG,malu,459
+Lingala,LEG,lokolo,459
+Lozi,LEG,lihutu,459
+Luba-Lulua,LEG,múkolo,459
+Ndonga,LEG,okuɡulu,459
+Nyanja,LEG,endo,459
+Nyankole,LEG,okuɡuru,459
+Rundi,LEG,ukuɡuru,459
+Songe,LEG,mukǒlò,459
+Sukuma,LEG,ɡuɡulu,459
+Swahili,LEG,mɡuu,459
+Tonga,LEG,kuulu,459
+Umbundu,LEG,ókúlú,459
+Yaka,LEG,kò,459
+Bulu,LEG,abo,460
+Fang,LEG,abɔ,460
+Kalanga,LEG,ɡumbo,461
+Shona,LEG,ɡumbo,461
+Kimbundu,LEG,kinama,462
+Makhuwa,LEG,mwétto,463
+Meru,LEG,urende,464
+Ndzwani_Comorian,LEG,munɖú,465
+Ngazidja_Comorian,LEG,mndú,465
+North_Ndebele,LEG,umlenze,466
+Venda,LEG,mulenʒe,466
+Xhosa,LEG,umlenze,466
+Zulu,LEG,umlenze,466
+Tsonga,LEG,nenɡe,467
+Tswa,LEG,nenɡe,467
+Tswana,LEG,t͡ɬʊ̀χà,468
+Bemba,WALK,enda,469
+Gogo,WALK,jeenda,469
+Kamba,WALK,tɛmbɛa,469
+Kimbundu,WALK,enda,469
+Koongo,WALK,enda,469
+Luba-Lulua,WALK,éndá,469
+Meru,WALK,irajaaro,469
+Ndonga,WALK,eenda,469
+Ngazidja_Comorian,WALK,enda,469
+Nyanja,WALK,jenda,469
+Nyankole,WALK,ɡjenda,469
+Tonga,WALK,eenda,469
+Umbundu,WALK,éndà,469
+Venda,WALK,enda,469
+Bulu,WALK,wulu,470
+Fang,WALK,wulu,470
+Ganda,WALK,tambula,471
+Haya,WALK,tambuka,471
+Lingala,WALK,támbolá,471
+Rundi,WALK,tambuka,471
+Songe,WALK,tàmbuka,471
+Swahili,WALK,tembea,471
+Yaka,WALK,támbol,471
+Kalanga,WALK,nanɡajila,472
+Kikuyu,WALK,ʃɛ̀ːra,473
+Lozi,WALK,zamaja,474
+Luba-Katanga,WALK,nânɡà,475
+Makhuwa,WALK,eétta,476
+Ndzwani_Comorian,WALK,dàɡa,477
+North_Ndebele,WALK,hamba,478
+Shona,WALK,fámba,478
+Tsonga,WALK,fámbá,478
+Tswa,WALK,fámbá,478
+Xhosa,WALK,hamba,478
+Zulu,WALK,hamba,478
+Sukuma,WALK,siminza,479
+Bemba,COME,isa,480
+Gogo,COME,úza,480
+Kimbundu,COME,iza,480
+Koongo,COME,uisa,480
+Meru,COME,oriʃo,480
+Sukuma,COME,iza,480
+Bulu,COME,zu,481
+Fang,COME,zu,481
+Ganda,COME,jja,482
+Haya,COME,ija,482
+Kalanga,COME,ʒa,482
+Lingala,COME,jà,482
+Luba-Katanga,COME,ija,482
+Makhuwa,COME,wa,482
+Ndonga,COME,ja,482
+Ndzwani_Comorian,COME,ʒá,482
+Ngazidja_Comorian,COME,ʤa,482
+North_Ndebele,COME,za,482
+Nyanja,COME,ʣa,482
+Nyankole,COME,ija,482
+Rundi,COME,za,482
+Swahili,COME,ʄa,482
+Umbundu,COME,íjà,482
+Xhosa,COME,za,482
+Yaka,COME,jè,482
+Zulu,COME,zà,482
+Kamba,COME,oka,483
+Kikuyu,COME,óka,483
+Lozi,COME,taha,484
+Luba-Lulua,COME,vwá,485
+Shona,COME,buda,486
+Tonga,COME,boola,486
+Songe,COME,fìkà,487
+Tsonga,COME,ta,488
+Tswa,COME,ta,488
+Tswana,COME,t͡ɬà,488
+Venda,COME,da,488
+Bemba,NOSE,ùmoːna,489
+Bulu,NOSE,jôé,490
+Fang,NOSE,ʤwiɲ,490
+Lingala,NOSE,nzólo,490
+Luba-Katanga,NOSE,muːlù,490
+Luba-Lulua,NOSE,djûlúdíulú,490
+Ndonga,NOSE,ejulu,490
+Rundi,NOSE,izuru,490
+Umbundu,NOSE,éɲulu,490
+Yaka,NOSE,míɔ̀,490
+Ganda,NOSE,nɲindo,491
+Haya,NOSE,eɲindo,491
+Nyankole,NOSE,eɲindo,491
+Gogo,NOSE,mpûla,492
+Makhuwa,NOSE,noroo,492
+Meru,NOSE,mbua,492
+Ndzwani_Comorian,NOSE,mpúa,492
+Ngazidja_Comorian,NOSE,mbùa,492
+Swahili,NOSE,pua,492
+Kalanga,NOSE,milo,493
+Kamba,NOSE,eɲoo,494
+Kikuyu,NOSE,inoro,494
+Sukuma,NOSE,ljulu,494
+Kimbundu,NOSE,zunu,495
+Koongo,NOSE,mbombo,496
+Lozi,NOSE,ŋɡo,497
+North_Ndebele,NOSE,impumulo,498
+Xhosa,NOSE,pumlo,498
+Nyanja,NOSE,funo,499
+Shona,NOSE,m̤ùnò,499
+Songe,NOSE,mpèmbe,500
+Tonga,NOSE,ímpemo,501
+Tsonga,NOSE,n̤ómp͡fú,502
+Tswa,NOSE,n̤óvú,502
+Tswana,NOSE,ŋ̀kɔ́,503
+Venda,NOSE,ninɡo,504
+Zulu,NOSE,íkʰàlà,505
+Bemba,NIGHT,ubùsiku,506
+Kalanga,NIGHT,siku,506
+Kamba,NIGHT,otuko,506
+Kikuyu,NIGHT,otúko,506
+Kimbundu,NIGHT,usuku,506
+Lozi,NIGHT,busihu,506
+Luba-Katanga,NIGHT,bufuku,506
+Luba-Lulua,NIGHT,bútukú,506
+Makhuwa,NIGHT,uhíju,506
+Ndonga,NIGHT,uusiku,506
+Ngazidja_Comorian,NIGHT,masihu,506
+North_Ndebele,NIGHT,ubusuku,506
+Nyanja,NIGHT,síku,506
+Shona,NIGHT,usíkú,506
+Songe,NIGHT,bufùku,506
+Sukuma,NIGHT,bujiku,506
+Swahili,NIGHT,usiku,506
+Tonga,NIGHT,busiku,506
+Tsonga,NIGHT,vusíkú,506
+Tswa,NIGHT,wusíkú,506
+Tswana,NIGHT,síχʊ́,506
+Umbundu,NIGHT,úte̍ké,506
+Venda,NIGHT,βusiku,506
+Xhosa,NIGHT,ubusuku,506
+Zulu,NIGHT,ubusuku,506
+Bulu,NIGHT,alu,507
+Fang,NIGHT,alu,507
+Lingala,NIGHT,butú,507
+Yaka,NIGHT,bùtú,507
+Ganda,NIGHT,kiro,508
+Gogo,NIGHT,cílo,508
+Haya,NIGHT,ekilo,508
+Meru,NIGHT,jijo,508
+Nyankole,NIGHT,ekiro,508
+Koongo,NIGHT,mpimpa,509
+Ndzwani_Comorian,NIGHT,ukú,510
+Rundi,NIGHT,ijoro,511
+Bemba,KILL,ipaja,512
+Luba-Katanga,KILL,ipaja,512
+Luba-Lulua,KILL,ʃípá,512
+Ndonga,KILL,ʤipaɡa,512
+Songe,KILL,lwìfà,512
+Umbundu,KILL,ípájà,512
+Bulu,KILL,wôé,513
+Fang,KILL,wiɲ,513
+Ganda,KILL,tta,514
+Haya,KILL,ita,514
+Nyankole,KILL,ita,514
+Rundi,KILL,ica,514
+Gogo,KILL,wulaɡa,515
+Kalanga,KILL,zwibulaja,515
+Kamba,KILL,oaa,515
+Kikuyu,KILL,óraɣa,515
+North_Ndebele,KILL,bulala,515
+Shona,KILL,úrájá,515
+Sukuma,KILL,bulaɡa,515
+Tswana,KILL,bʊ́lájá,515
+Venda,KILL,βulaja,515
+Xhosa,KILL,bulala,515
+Zulu,KILL,bùlálà,515
+Kimbundu,KILL,bonda,516
+Koongo,KILL,ɡonda,516
+Lingala,KILL,boma,517
+Lozi,KILL,balaja,518
+Makhuwa,KILL,iíva,519
+Meru,KILL,nutuja,520
+Ndzwani_Comorian,KILL,ua,521
+Swahili,KILL,ua,521
+Ngazidja_Comorian,KILL,sòŋɡa,522
+Nyanja,KILL,pʰa,523
+Tonga,KILL,jaja,524
+Tsonga,KILL,d͡lájá,525
+Tswa,KILL,dájá,525
+Yaka,KILL,lá,526
+Bemba,HEART,umùtima,527
+Bulu,HEART,nlem,527
+Fang,HEART,n̩nəm,527
+Ganda,HEART,mutima,527
+Kimbundu,HEART,muʃima,527
+Lingala,HEART,motéma,527
+Makhuwa,HEART,nrìma,527
+Ndonga,HEART,omutima,527
+Nyanja,HEART,tíma,527
+Nyankole,HEART,omutima,527
+Rundi,HEART,umuʃaha,527
+Songe,HEART,eʃìmbà,527
+Umbundu,HEART,útímá,527
+Yaka,HEART,lémà,527
+Gogo,HEART,ntumbúla,528
+Ngazidja_Comorian,HEART,mbumbu,528
+Haya,HEART,omwojo,529
+Kalanga,HEART,mojo,529
+Luba-Lulua,HEART,móójó,529
+Ndzwani_Comorian,HEART,mó,529
+Shona,HEART,mwojo,529
+Swahili,HEART,mojo,529
+Tonga,HEART,mojo,529
+Venda,HEART,mwojo,529
+Kamba,HEART,ŋɡɔɔ,530
+Kikuyu,HEART,ŋɡɔ́rɔ,530
+Meru,HEART,nɡoo,530
+Sukuma,HEART,ŋ̤olo,530
+Koongo,HEART,mbundu,531
+Lozi,HEART,pilu,532
+Luba-Katanga,HEART,mukuːnka,533
+Luba-Katanga,HEART,mi,533
+North_Ndebele,HEART,inɬizijo,534
+Xhosa,HEART,inhizijo,534
+Zulu,HEART,ínɬìzíjò,534
+Tsonga,HEART,mbilú,535
+Tswa,HEART,mbilú,535
+Tswana,HEART,pɪ̀lʊ́,535
+Bemba,TWO,bili,536
+Ganda,TWO,bili,536
+Haya,TWO,bili,536
+Kamba,TWO,ile,536
+Kikuyu,TWO,iɣere,536
+Lozi,TWO,beli,536
+Luba-Katanga,TWO,bìdì,536
+Luba-Lulua,TWO,bidi,536
+Makhuwa,TWO,ili,536
+Meru,TWO,fivili,536
+Ndzwani_Comorian,TWO,ilí,536
+Ngazidja_Comorian,TWO,ilí,536
+North_Ndebele,TWO,bili,536
+Nyanja,TWO,iwíri,536
+Nyankole,TWO,biri,536
+Rundi,TWO,biri,536
+Shona,TWO,ʋìrí,536
+Songe,TWO,bàbìdì,536
+Sukuma,TWO,ibili,536
+Swahili,TWO,wili,536
+Tonga,TWO,bi̋le,536
+Tsonga,TWO,mbírʱí,536
+Tswa,TWO,mbirí,536
+Tswana,TWO,bèdí,536
+Venda,TWO,βili,536
+Xhosa,TWO,bini,536
+Zulu,TWO,bili,536
+Bulu,TWO,baé,537
+Fang,TWO,bɛɲ,537
+Kimbundu,TWO,iadi,537
+Lingala,TWO,míbalé,537
+Ndonga,TWO,jaali,537
+Umbundu,TWO,váːlì,537
+Yaka,TWO,báé,537
+Gogo,TWO,ɲejete,538
+Koongo,TWO,ole,539
+Bemba,BLOOD,ùmulopa,540
+Kalanga,BLOOD,lopa,540
+Tonga,BLOOD,bulowa,540
+Venda,BLOOD,maloɸa,540
+Bulu,BLOOD,metʧi,541
+Fang,BLOOD,məki,541
+Lingala,BLOOD,makilá,541
+Ganda,BLOOD,musaaji,542
+Gogo,BLOOD,sakámi,543
+Kamba,BLOOD,nðakamɛ,543
+Kikuyu,BLOOD,θàkàmɛ̀,543
+Makhuwa,BLOOD,nikʰami,543
+Nyankole,BLOOD,eʃaɡama,543
+Haya,BLOOD,obwamba,544
+Kimbundu,BLOOD,maɲinɡa,545
+Sukuma,BLOOD,mininɡa,545
+Koongo,BLOOD,menɡa,546
+Lozi,BLOOD,mali,547
+Luba-Katanga,BLOOD,ʃi,548
+Luba-Lulua,BLOOD,máʃí,548
+Songe,BLOOD,masè,548
+Meru,BLOOD,usao,549
+Ndonga,BLOOD,ombinzi,550
+Ndzwani_Comorian,BLOOD,dámu,551
+Ngazidja_Comorian,BLOOD,damu,551
+Swahili,BLOOD,damu,551
+North_Ndebele,BLOOD,iɡazi,552
+Nyanja,BLOOD,ɡazi,552
+Tsonga,BLOOD,nɡátí,552
+Tswa,BLOOD,kʰata,552
+Xhosa,BLOOD,iɡazi,552
+Zulu,BLOOD,íɡàzí,552
+Rundi,BLOOD,amaraso,553
+Shona,BLOOD,ròmbè,554
+Tswana,BLOOD,dí,555
+Umbundu,BLOOD,ósóndè,556
+Yaka,BLOOD,àndá,557
+Bemba,SAND,ùmusènɡa,558
+Gogo,SAND,mhaáŋka,558
+Kamba,SAND,keðaŋɡaðe,558
+Kikuyu,SAND,moθâŋɡa,558
+Kimbundu,SAND,senɡe,558
+Koongo,SAND,senɡi,558
+Luba-Katanga,SAND,musenɡa,558
+Luba-Lulua,SAND,lúséŋá,558
+Meru,SAND,nsanɡa,558
+Ndzwani_Comorian,SAND,mʦàŋɡa,558
+Ngazidja_Comorian,SAND,mʦaŋɡa,558
+Nyanja,SAND,ʧenɡa,558
+Swahili,SAND,mʧanɡa,558
+Tonga,SAND,musenɡa,558
+Bulu,SAND,nselek,559
+Fang,SAND,n̩sələʔ,559
+Ganda,SAND,museɲu,560
+Haya,SAND,omuʃeɲe,560
+Nyankole,SAND,omuʃeeɲi,560
+Rundi,SAND,umuseɲi,560
+Kalanga,SAND,seʧe,561
+Shona,SAND,jéʧà,561
+Lingala,SAND,zɛlɔ,562
+Lozi,SAND,muʃabati,563
+North_Ndebele,SAND,isiɬabatʰi,563
+Zulu,SAND,ísíɬàbâtʰì,563
+Makhuwa,SAND,ʔnhááva,564
+Tsonga,SAND,sává,564
+Tswana,SAND,ʃàwà,564
+Ndonga,SAND,evi,565
+Songe,SAND,mafjènkjeɲì,566
+Tswa,SAND,seke,567
+Umbundu,SAND,évè,567
+Xhosa,SAND,isanti,568
+Yaka,SAND,kɛ́nzɛ́,569
+Bemba,TONGUE,ulùlimi,570
+Bulu,TONGUE,ôjem,570
+Fang,TONGUE,ojəm,570
+Ganda,TONGUE,lulimi,570
+Gogo,TONGUE,ilimi,570
+Haya,TONGUE,olurimi,570
+Kalanga,TONGUE,limi,570
+Kamba,TONGUE,oemɛ,570
+Kikuyu,TONGUE,roréme,570
+Kimbundu,TONGUE,dimi,570
+Koongo,TONGUE,ludimi,570
+Lingala,TONGUE,lolému,570
+Lozi,TONGUE,lulimi,570
+Luba-Katanga,TONGUE,ludìmi,570
+Luba-Lulua,TONGUE,lúdimí,570
+Makhuwa,TONGUE,nlumi,570
+Meru,TONGUE,ulumi,570
+Ndzwani_Comorian,TONGUE,ulími,570
+Ngazidja_Comorian,TONGUE,ulíme,570
+North_Ndebele,TONGUE,ulimi,570
+Nyanja,TONGUE,líme,570
+Nyankole,TONGUE,orurimi,570
+Rundi,TONGUE,ururimi,570
+Shona,TONGUE,rìmì,570
+Songe,TONGUE,edìmi,570
+Sukuma,TONGUE,lulimi,570
+Swahili,TONGUE,ulimi,570
+Tsonga,TONGUE,rirímí,570
+Tswa,TONGUE,lirímí,570
+Tswana,TONGUE,lɪ́mɪ́,570
+Umbundu,TONGUE,élímí,570
+Venda,TONGUE,lulimi,570
+Xhosa,TONGUE,ulwimi,570
+Yaka,TONGUE,lémè,570
+Zulu,TONGUE,ulimi,570
+Ndonga,TONGUE,elaka,571
+Tonga,TONGUE,mulaka,572
+Bulu,FOUR,njin,573
+Fang,FOUR,ɲiiɲ,573
+Ganda,FOUR,na,574
+Gogo,FOUR,ne,574
+Haya,FOUR,inai,574
+Kalanga,FOUR,nna,574
+Kamba,FOUR,iɲa,574
+Kikuyu,FOUR,iɲa,574
+Koongo,FOUR,ja,574
+Lingala,FOUR,mínei,574
+Lozi,FOUR,ne,574
+Luba-Lulua,FOUR,naajinombreʧardinal,574
+Meru,FOUR,fiini,574
+Ndzwani_Comorian,FOUR,nné,574
+Ngazidja_Comorian,FOUR,né,574
+North_Ndebele,FOUR,ne,574
+Nyanja,FOUR,nái,574
+Nyankole,FOUR,na,574
+Rundi,FOUR,ne,574
+Shona,FOUR,na,574
+Songe,FOUR,nanka,574
+Sukuma,FOUR,ine,574
+Swahili,FOUR,ne,574
+Tsonga,FOUR,mùnè,574
+Tswana,FOUR,nɛ̀,574
+Umbundu,FOUR,kwana,574
+Venda,FOUR,na,574
+Xhosa,FOUR,ne,574
+Yaka,FOUR,áná,574
+Zulu,FOUR,kane,574
+Makhuwa,FOUR,ʧeʃe,575
+Bemba,ARM,ukùboko,576
+Bulu,ARM,wo,576
+Gogo,ARM,múwoko,576
+Kalanga,ARM,boko,576
+Kamba,ARM,kẅɔ́kɔ̏,576
+Kikuyu,ARM,ɣuɔkɔ,576
+Kimbundu,ARM,lukuaku,576
+Koongo,ARM,koko,576
+Lingala,ARM,lobɔ́kɔ,576
+Luba-Lulua,ARM,kuboko,576
+Meru,ARM,uko,576
+Ndonga,ARM,okwako,576
+Rundi,ARM,ukuboko,576
+Shona,ARM,ruoko,576
+Songe,ARM,mbòko,576
+Tonga,ARM,kuboko,576
+Tsonga,ARM,vókó,576
+Tswa,ARM,wókó,576
+Tswana,ARM,bɔ́χɔ́,576
+Umbundu,ARM,ókwo̍kwó,576
+Yaka,ARM,bɔ́,576
+Fang,ARM,enam,577
+Ganda,ARM,mukono,578
+Haya,ARM,mkono,578
+Makhuwa,ARM,mɔ̌nɔ,578
+Ndzwani_Comorian,ARM,mhóno,578
+Ngazidja_Comorian,ARM,mhóno,578
+Nyanja,ARM,kóno,578
+Nyankole,ARM,omukono,578
+Sukuma,ARM,nkono,578
+Swahili,ARM,mkono,578
+Xhosa,ARM,umkʰono,578
+Lozi,ARM,lizoho,579
+Luba-Katanga,ARM,diːkàsa,580
+North_Ndebele,ARM,inɡalo,581
+Zulu,ARM,ínɡàló,581
+Venda,ARM,ʧanda,582
+Bemba,EYE,ilìnso,583
+Bulu,EYE,dis,583
+Fang,EYE,ʣis,583
+Ganda,EYE,luso,583
+Gogo,EYE,líiso,583
+Haya,EYE,eliiʃo,583
+Kalanga,EYE,eʃo,583
+Kamba,EYE,iːðɔ,583
+Kikuyu,EYE,ríːθɔ,583
+Koongo,EYE,disu,583
+Lingala,EYE,líso,583
+Lozi,EYE,liito,583
+Luba-Katanga,EYE,dîːso,583
+Luba-Lulua,EYE,dîsú,583
+Makhuwa,EYE,usu,583
+Meru,EYE,iriso,583
+Ndonga,EYE,eho,583
+Ndzwani_Comorian,EYE,ʣíʦo,583
+Ngazidja_Comorian,EYE,ʣíʦo,583
+North_Ndebele,EYE,iliɬo,583
+Nyanja,EYE,díso,583
+Nyankole,EYE,eriiʃo,583
+Rundi,EYE,ijiʃo,583
+Shona,EYE,zísó,583
+Songe,EYE,eìso,583
+Sukuma,EYE,liso,583
+Swahili,EYE,ʄiʧo,583
+Tonga,EYE,lisi,583
+Tsonga,EYE,tíɬó,583
+Tswa,EYE,tíɬó,583
+Tswana,EYE,ít͡ɬʰɔ́,583
+Umbundu,EYE,ísò,583
+Venda,EYE,lito,583
+Xhosa,EYE,iliɬoameɬo,583
+Yaka,EYE,ísɔ̀,583
+Zulu,EYE,îsó,583
+Kimbundu,EYE,meɲa,584
+Bemba,GIVE,peːla,585
+Gogo,GIVE,peela,585
+Nyanja,GIVE,paʦa,585
+Nyanja,GIVE,peleka,585
+Bulu,GIVE,ve,586
+Fang,GIVE,və,586
+Ganda,GIVE,wa,586
+Haya,GIVE,ha,586
+Kalanga,GIVE,pa,586
+Kikuyu,GIVE,hâ,586
+Lingala,GIVE,pesa,586
+Lozi,GIVE,fa,586
+Luba-Katanga,GIVE,pà,586
+Luba-Lulua,GIVE,pa,586
+Makhuwa,GIVE,váha,586
+Ndonga,GIVE,pa,586
+Ndzwani_Comorian,GIVE,va,586
+Ngazidja_Comorian,GIVE,níka,586
+North_Ndebele,GIVE,pʰa,586
+Nyankole,GIVE,ha,586
+Rundi,GIVE,ha,586
+Shona,GIVE,pá,586
+Songe,GIVE,fà,586
+Sukuma,GIVE,in̤a,586
+Swahili,GIVE,pa,586
+Tonga,GIVE,íkúpa,586
+Tsonga,GIVE,há,586
+Tswana,GIVE,fá,586
+Venda,GIVE,ɸa,586
+Xhosa,GIVE,pʰa,586
+Zulu,GIVE,pʰá,586
+Kamba,GIVE,nɛŋɡanɛ,587
+Meru,GIVE,niinjia,587
+Tswa,GIVE,ɲíká,587
+Kimbundu,GIVE,bana,588
+Koongo,GIVE,ɡana,588
+Umbundu,GIVE,ɪhà,589
+Yaka,GIVE,kì,590
+Bemba,LIVER,ilìbu,591
+Bulu,LIVER,osaɲ,592
+Fang,LIVER,esəʔ,592
+Ganda,LIVER,kibumba,593
+Gogo,LIVER,ítoɡa,594
+Haya,LIVER,omwiilima,595
+Kamba,LIVER,etɛma,595
+Kimbundu,LIVER,nzundu,595
+Luba-Lulua,LIVER,múʧimá,595
+Meru,LIVER,irima,595
+Songe,LIVER,eʃimbadifite,595
+Sukuma,LIVER,itima,595
+Kalanga,LIVER,lopa,596
+Shona,LIVER,rópá,596
+Kikuyu,LIVER,ini,597
+Ndzwani_Comorian,LIVER,ɲé,597
+Ngazidja_Comorian,LIVER,ɲe,597
+Nyankole,LIVER,ekine,597
+Swahili,LIVER,ini,597
+Tonga,LIVER,muni,597
+Koongo,LIVER,nsoko,598
+Lingala,LIVER,libale,599
+Yaka,LIVER,bàè,599
+Lozi,LIVER,sibiti,600
+Makhuwa,LIVER,hápa,601
+Ndonga,LIVER,ehuli,602
+North_Ndebele,LIVER,isibindi,603
+Nyanja,LIVER,windí,603
+Tsonga,LIVER,ʃivínʣí,603
+Tswa,LIVER,ʧivínʣí,603
+Tswana,LIVER,bɪ́tɪ́,603
+Venda,LIVER,ʧiβindi,603
+Xhosa,LIVER,isibindi,603
+Zulu,LIVER,isibindi,603
+Rundi,LIVER,iɡitiɡu,604
+Umbundu,LIVER,ómu̍má,605
+Bemba,EAR,ukùtwi,606
+Gogo,EAR,íkutu,606
+Nyanja,EAR,kʰutu,606
+Bulu,EAR,alo,607
+Fang,EAR,alɔ,607
+Ganda,EAR,kutu,607
+Kamba,EAR,koto,607
+Kikuyu,EAR,ɣoto,607
+Koongo,EAR,kutu,607
+Meru,EAR,kuri,607
+Ngazidja_Comorian,EAR,ʃiʃíjo,607
+Nyankole,EAR,okutu,607
+Songe,EAR,etwì,607
+Sukuma,EAR,ɡutu,607
+Haya,EAR,okutwi,608
+Lingala,EAR,litoi,608
+Luba-Katanga,EAR,kutwì,608
+Ndonga,EAR,okuʦi,608
+Rundi,EAR,uɡutwi,608
+Shona,EAR,itwí,608
+Tonga,EAR,kutwi,608
+Umbundu,EAR,étwɪ,608
+Yaka,EAR,lóè,608
+Kimbundu,EAR,kiiadi,609
+Lozi,EAR,zebe,610
+Luba-Lulua,EAR,díʧí,611
+Makhuwa,EAR,niɲáru,612
+Ndzwani_Comorian,EAR,kío,613
+Swahili,EAR,sikio,613
+North_Ndebele,EAR,inɮebe,614
+Tsonga,EAR,nd͡levé,614
+Tswa,EAR,nd͡levé,614
+Tswana,EAR,ʦɛ̀bɛ́,614
+Venda,EAR,ndeβe,614
+Xhosa,EAR,ind͡ɮebe,614
+Zulu,EAR,índ͡ɮʱèbé,614
+Bemba,HORN (ANATOMY),ulùsenɡo,615
+Luba-Katanga,HORN (ANATOMY),lusèːnɡò,615
+Luba-Lulua,HORN (ANATOMY),lúseŋú,615
+Songe,HORN (ANATOMY),lusùnɡwa,615
+Bulu,HORN (ANATOMY),nlak,616
+Fang,HORN (ANATOMY),n̩laʔ,616
+Ganda,HORN (ANATOMY),ŋŋombi,617
+Gogo,HORN (ANATOMY),ihéembe,617
+Haya,HORN (ANATOMY),eihembe,617
+Meru,HORN (ANATOMY),mbembe,617
+Nyankole,HORN (ANATOMY),eihembe,617
+Rundi,HORN (ANATOMY),ihembe,617
+Sukuma,HORN (ANATOMY),ipembe,617
+Swahili,HORN (ANATOMY),pembe,617
+Kalanga,HORN (ANATOMY),ɲanɡa,618
+Makhuwa,HORN (ANATOMY),ɲɲáka,618
+Nyanja,HORN (ANATOMY),ɲaŋɡá,618
+Shona,HORN (ANATOMY),ɲanɡa,618
+Tswana,HORN (ANATOMY),nàká,618
+Venda,HORN (ANATOMY),lunʰanɡa,618
+Kamba,HORN (ANATOMY),oβja,619
+Kikuyu,HORN (ANATOMY),roheá,619
+Kimbundu,HORN (ANATOMY),kimbunɡu,620
+Koongo,HORN (ANATOMY),mpaka,621
+Lingala,HORN (ANATOMY),liséké,622
+Lozi,HORN (ANATOMY),lunaka,623
+Ndonga,HORN (ANATOMY),ooluniɡa,624
+Ndzwani_Comorian,HORN (ANATOMY),ɲoŋɡá,625
+Ngazidja_Comorian,HORN (ANATOMY),ɲoŋɡa,625
+North_Ndebele,HORN (ANATOMY),upʰondo,626
+Tsonga,HORN (ANATOMY),rìm̤ònʣò,626
+Tswa,HORN (ANATOMY),lim̤onʣo,626
+Xhosa,HORN (ANATOMY),ipʰondo,626
+Zulu,HORN (ANATOMY),úpʰòndò,626
+Tonga,HORN (ANATOMY),luja,627
+Umbundu,HORN (ANATOMY),ómbínɡà,628
+Yaka,HORN (ANATOMY),sébá,629
+Bemba,HEAD,umùtwe,630
+Ganda,HEAD,mutwe,630
+Gogo,HEAD,itwe,630
+Haya,HEAD,omutwe,630
+Kamba,HEAD,motwɛ̋,630
+Luba-Lulua,HEAD,mútwe,630
+Meru,HEAD,nrwe,630
+Nyankole,HEAD,omutwe,630
+Rundi,HEAD,umutwe,630
+Songe,HEAD,mutwě,630
+Sukuma,HEAD,ntwe,630
+Tonga,HEAD,mutwe,630
+Umbundu,HEAD,útwe̍,630
+Bulu,HEAD,nlô,631
+Fang,HEAD,n̩lo,631
+Kimbundu,HEAD,mutue,631
+Koongo,HEAD,ntu,631
+Lingala,HEAD,motú,631
+Lozi,HEAD,toho,631
+Makhuwa,HEAD,múru,631
+Ndonga,HEAD,omuʦe,631
+Nyanja,HEAD,tú,631
+Kalanga,HEAD,ʃolo,632
+North_Ndebele,HEAD,inɬoko,632
+Shona,HEAD,musóró,632
+Tsonga,HEAD,nɬókó,632
+Tswa,HEAD,ɬókó,632
+Tswana,HEAD,t͡ɬʰɔ́χɔ́,632
+Venda,HEAD,tʰhoho,632
+Xhosa,HEAD,intloko,632
+Zulu,HEAD,ínɬókò,632
+Kikuyu,HEAD,keɔŋɡɔ́,633
+Ndzwani_Comorian,HEAD,ʃiʦwá,634
+Ngazidja_Comorian,HEAD,hiʦwá,634
+Swahili,HEAD,kiʧwa,634
+Yaka,HEAD,sókò,635
+Bemba,EARTH (SOIL),ùmusilì,636
+Bulu,EARTH (SOIL),si,637
+Fang,EARTH (SOIL),si,637
+Kikuyu,EARTH (SOIL),téːri,637
+Kimbundu,EARTH (SOIL),iʃi,637
+Lingala,EARTH (SOIL),nansé,637
+Lozi,EARTH (SOIL),fafasi,637
+Rundi,EARTH (SOIL),isi,637
+Songe,EARTH (SOIL),paʃi,637
+Umbundu,EARTH (SOIL),pósì,637
+Yaka,EARTH (SOIL),vàsé,637
+Ganda,EARTH (SOIL),ttaka,638
+Haya,EARTH (SOIL),eitaka,638
+Makhuwa,EARTH (SOIL),ittʰája,638
+Nyanja,EARTH (SOIL),dotʰe,638
+Nyankole,EARTH (SOIL),eitaka,638
+Gogo,EARTH (SOIL),iloóŋɡo,639
+Ndzwani_Comorian,EARTH (SOIL),doŋɡó,639
+Ngazidja_Comorian,EARTH (SOIL),doŋɡó,639
+Sukuma,EARTH (SOIL),bulonɡo,639
+Swahili,EARTH (SOIL),udonɡo,639
+Kalanga,EARTH (SOIL),vu,640
+Ndonga,EARTH (SOIL),pevi,640
+Shona,EARTH (SOIL),iv̤u,640
+Venda,EARTH (SOIL),mavu,640
+Kamba,EARTH (SOIL),moðaŋɡa,641
+Koongo,EARTH (SOIL),ntoto,642
+Luba-Katanga,EARTH (SOIL),lobà,643
+Luba-Lulua,EARTH (SOIL),búlóbá,643
+Meru,EARTH (SOIL),uteri,644
+North_Ndebele,EARTH (SOIL),umɬabatʰi,645
+Xhosa,EARTH (SOIL),umɬaba,645
+Zulu,EARTH (SOIL),úḿɬâbà,645
+Tsonga,EARTH (SOIL),misává,646
+Tswa,EARTH (SOIL),misává,646
+Bemba,FALL,wu,647
+Bulu,FALL,ku,647
+Fang,FALL,ku,647
+Ganda,FALL,ɡwa,647
+Gogo,FALL,ɡwa,647
+Haya,FALL,ɡwa,647
+Kalanga,FALL,wa,647
+Kikuyu,FALL,ɣua,647
+Lingala,FALL,éja,647
+Makhuwa,FALL,wúlùwa,647
+Meru,FALL,wa,647
+Ndzwani_Comorian,FALL,dúmba,647
+Ngazidja_Comorian,FALL,wa,647
+North_Ndebele,FALL,wa,647
+Nyanja,FALL,ɡwa,647
+Nyankole,FALL,ɡwa,647
+Rundi,FALL,ɡwa,647
+Shona,FALL,ɡwa,647
+Sukuma,FALL,ɡwa,647
+Tsonga,FALL,wà,647
+Tswana,FALL,wà,647
+Venda,FALL,ɸuɸurea,647
+Xhosa,FALL,wà,647
+Yaka,FALL,kú,647
+Zulu,FALL,wa,647
+Kamba,FALL,βaloka,648
+Lozi,FALL,lauka,648
+Umbundu,FALL,loka,648
+Koongo,FALL,bwa,649
+Luba-Lulua,FALL,pòna,650
+Songe,FALL,fona,650
+Swahili,FALL,anɡuka,651
+Bemba,VOMIT,luk,652
+Fang,VOMIT,jo,652
+Koongo,VOMIT,luka,652
+Luba-Lulua,VOMIT,lùka,652
+Meru,VOMIT,jooka,652
+Rundi,VOMIT,ruka,652
+Sukuma,VOMIT,luka,652
+Yaka,VOMIT,ló,652
+Ganda,VOMIT,sesema,653
+Gogo,VOMIT,deeka,654
+Haya,VOMIT,tabika,655
+Kamba,VOMIT,taβeka,655
+Kikuyu,VOMIT,táheka,655
+Makhuwa,VOMIT,rápʰjàa,655
+Ndzwani_Comorian,VOMIT,ravíha,655
+Ngazidja_Comorian,VOMIT,raβiha,655
+Swahili,VOMIT,tapika,655
+Kalanga,VOMIT,tʰo,656
+Lingala,VOMIT,sanza,657
+Nyanja,VOMIT,sanza,657
+Umbundu,VOMIT,sanja,657
+Lozi,VOMIT,taza,658
+North_Ndebele,VOMIT,amaɬanzo,659
+Tsonga,VOMIT,ɬántʼa,659
+Venda,VOMIT,matanza,659
+Xhosa,VOMIT,ɡabʱa,659
+Zulu,VOMIT,bujisa,659
+Nyankole,VOMIT,tanaka,660
+Shona,VOMIT,ruʦa,661
+Tswana,VOMIT,t͡ɬʰáʦá,661
+Songe,VOMIT,lasa,662
+Bemba,BITE,suma,663
+Luba-Katanga,BITE,sùma,663
+Luba-Lulua,BITE,sumá,663
+Songe,BITE,sùma,663
+Bulu,BITE,lóp,664
+Fang,BITE,lop,664
+Ganda,BITE,luma,664
+Gogo,BITE,luma,664
+Haya,BITE,ruma,664
+Kalanga,BITE,luma,664
+Kamba,BITE,ómȁ,664
+Kamba,BITE,óma,664
+Kikuyu,BITE,róma,664
+Kimbundu,BITE,lumata,664
+Lozi,BITE,luma,664
+Makhuwa,BITE,lúma,664
+Meru,BITE,imara,664
+Ndonga,BITE,lumata,664
+North_Ndebele,BITE,luma,664
+Nyanja,BITE,womola,664
+Nyankole,BITE,ruma,664
+Rundi,BITE,ruma,664
+Shona,BITE,rúma,664
+Sukuma,BITE,luma,664
+Swahili,BITE,uma,664
+Tonga,BITE,luma,664
+Tsonga,BITE,lúma,664
+Tswa,BITE,luma,664
+Tswana,BITE,lʊ́má,664
+Umbundu,BITE,lu̍mánà,664
+Venda,BITE,luma,664
+Xhosa,BITE,luma,664
+Zulu,BITE,lúmà,664
+Koongo,BITE,ta,665
+Lingala,BITE,swá,666
+Ndzwani_Comorian,BITE,remamáɲo,667
+Ngazidja_Comorian,BITE,kazamáɲo,667
+Yaka,BITE,bònz,668
+Bemba,FEATHER,ìlisako,669
+Bulu,FEATHER,asaé,670
+Kimbundu,FEATHER,kisiba,670
+Koongo,FEATHER,nsala,670
+Lingala,FEATHER,lonsálá,670
+Luba-Katanga,FEATHER,sala,670
+Luba-Lulua,FEATHER,lúsala,670
+Yaka,FEATHER,sálá,670
+Fang,FEATHER,endəŋ,671
+Ganda,FEATHER,kjooja,672
+Haya,FEATHER,ebjoja,672
+Kikuyu,FEATHER,ruɔjá,672
+Nyankole,FEATHER,ebjoja,672
+Rundi,FEATHER,ubwoja,672
+Sukuma,FEATHER,boja,672
+Swahili,FEATHER,uɲoja,672
+Gogo,FEATHER,maweha,673
+Kamba,FEATHER,eβwea,673
+Kalanga,FEATHER,siba,674
+Tsonga,FEATHER,risívá,674
+Lozi,FEATHER,lifufa,675
+Makhuwa,FEATHER,ǹtɛ́nka,676
+Nyanja,FEATHER,ntʰenɡa,676
+Shona,FEATHER,mun̤ènɡá,676
+Venda,FEATHER,mutʰenɡa,676
+Meru,FEATHER,mafuli,677
+Ndonga,FEATHER,olwenja,678
+Umbundu,FEATHER,éɲa̍,678
+Ndzwani_Comorian,FEATHER,púzi,679
+Ngazidja_Comorian,FEATHER,uβuzi,679
+North_Ndebele,FEATHER,upʰapʰe,680
+Tonga,FEATHER,ipepe,680
+Tswa,FEATHER,limbáví,680
+Tswana,FEATHER,fàfá,680
+Xhosa,FEATHER,upʰapʰe,680
+Zulu,FEATHER,upape,680
+Songe,FEATHER,lusǒ,681
+Bemba,FLY (MOVE THROUGH AIR),pupuka,682
+Ganda,FLY (MOVE THROUGH AIR),buuka,682
+Kalanga,FLY (MOVE THROUGH AIR),pʰururuka,682
+Kimbundu,FLY (MOVE THROUGH AIR),vumuka,682
+Luba-Lulua,FLY (MOVE THROUGH AIR),bùùka,682
+Shona,FLY (MOVE THROUGH AIR),bʱururuka,682
+Bulu,FLY (MOVE THROUGH AIR),jele,683
+Fang,FLY (MOVE THROUGH AIR),jele,683
+Gogo,FLY (MOVE THROUGH AIR),luka,684
+Kamba,FLY (MOVE THROUGH AIR),oloka,684
+Kikuyu,FLY (MOVE THROUGH AIR),ómboka,684
+Nyanja,FLY (MOVE THROUGH AIR),uluká,684
+Nyankole,FLY (MOVE THROUGH AIR),ɡuruka,684
+Rundi,FLY (MOVE THROUGH AIR),ɡuruka,684
+Tonga,FLY (MOVE THROUGH AIR),uluka,684
+Haya,FLY (MOVE THROUGH AIR),halala,685
+Koongo,FLY (MOVE THROUGH AIR),tilumuka,686
+Lingala,FLY (MOVE THROUGH AIR),pumbwa,687
+Yaka,FLY (MOVE THROUGH AIR),pùmb,687
+Lozi,FLY (MOVE THROUGH AIR),fufa,688
+Makhuwa,FLY (MOVE THROUGH AIR),váva,688
+Tsonga,FLY (MOVE THROUGH AIR),haha,688
+Tswa,FLY (MOVE THROUGH AIR),haha,688
+Tswana,FLY (MOVE THROUGH AIR),fʊ̀fà,688
+Venda,FLY (MOVE THROUGH AIR),ɸuɸa,688
+Xhosa,FLY (MOVE THROUGH AIR),bʱabʱa,688
+Meru,FLY (MOVE THROUGH AIR),rumbuka,689
+Ndonga,FLY (MOVE THROUGH AIR),tuka,690
+Swahili,FLY (MOVE THROUGH AIR),ruka,690
+Ndzwani_Comorian,FLY (MOVE THROUGH AIR),nʣí,691
+Ngazidja_Comorian,FLY (MOVE THROUGH AIR),nʣì,691
+North_Ndebele,FLY (MOVE THROUGH AIR),ndiza,692
+Zulu,FLY (MOVE THROUGH AIR),ndiza,692
+Songe,FLY (MOVE THROUGH AIR),pàlàlà,693
+Umbundu,FLY (MOVE THROUGH AIR),pãlãlã,693
+Sukuma,FLY (MOVE THROUGH AIR),lala,694
+Bemba,MAN,umwàːume,695
+Gogo,MAN,múlume,695
+Kalanga,MAN,lume,695
+Kamba,MAN,omɛ,695
+Kikuyu,MAN,ɲjámba,695
+Luba-Katanga,MAN,mwânamulùme,695
+Luba-Lulua,MAN,mulume,695
+Meru,MAN,nndumi,695
+Ndonga,MAN,omulumentu,695
+Ndzwani_Comorian,MAN,mnʈubabá,695
+Ngazidja_Comorian,MAN,mume,695
+Shona,MAN,murúmé,695
+Songe,MAN,mulùme,695
+Swahili,MAN,mwanamume,695
+Tonga,MAN,mulombwana,695
+Umbundu,MAN,úlúmé,695
+Bulu,MAN,fam,696
+Fang,MAN,fam,696
+Ganda,MAN,musajja,697
+Haya,MAN,ʃaija,697
+Nyankole,MAN,ʃaija,697
+Kimbundu,MAN,diala,698
+Koongo,MAN,jakala,698
+Lingala,MAN,mobáli,699
+Makhuwa,MAN,nlópwàna,700
+North_Ndebele,MAN,indoda,701
+Xhosa,MAN,indodaama,701
+Zulu,MAN,índòdà,701
+Nyanja,MAN,aḿna,702
+Rundi,MAN,inɡabo,703
+Sukuma,MAN,nɡoʃi,704
+Tsonga,MAN,wánúná,705
+Tswa,MAN,wánúná,705
+Venda,MAN,muluna,705
+Yaka,MAN,tò,706
+Bemba,LOUSE,indà,707
+Haya,LOUSE,endai,707
+Kamba,LOUSE,ndaa,707
+Kikuyu,LOUSE,ndáːa,707
+Lozi,LOUSE,nda,707
+Meru,LOUSE,nda,707
+Ndzwani_Comorian,LOUSE,nɖá,707
+Ngazidja_Comorian,LOUSE,nda,707
+Nyankole,LOUSE,enda,707
+Rundi,LOUSE,inda,707
+Shona,LOUSE,inda,707
+Sukuma,LOUSE,nda,707
+Tswana,LOUSE,ǹtá,707
+Venda,LOUSE,nnda,707
+Bulu,LOUSE,njin,708
+Fang,LOUSE,ɲin,708
+Gogo,LOUSE,mpani,709
+Kimbundu,LOUSE,ina,710
+Koongo,LOUSE,sina,710
+Ndonga,LOUSE,ona,710
+Umbundu,LOUSE,ónà,710
+Lingala,LOUSE,sili,711
+Yaka,LOUSE,sìdì,711
+Luba-Katanga,LOUSE,kuso,712
+Luba-Lulua,LOUSE,nkusu,712
+Songe,LOUSE,ńkìsa,712
+Makhuwa,LOUSE,iʈʰúpo,713
+North_Ndebele,LOUSE,intwala,714
+Tsonga,LOUSE,n̤wálá,714
+Tswa,LOUSE,n̤wálá,714
+Xhosa,LOUSE,intwala,714
+Zulu,LOUSE,íntwálà,714
+Nyanja,LOUSE,sabwe,715
+Swahili,LOUSE,ʧawa,716
+Tonga,LOUSE,njina,717
+Bemba,NAME,isìːna,718
+Ganda,NAME,linɲa,718
+Kalanga,NAME,zina,718
+Kimbundu,NAME,dijina,718
+Koongo,NAME,zina,718
+Luba-Katanga,NAME,diːzìna,718
+Luba-Lulua,NAME,dîná,718
+Makhuwa,NAME,ʔnʧína,718
+Meru,NAME,irina,718
+Ndonga,NAME,eʤina,718
+Ndzwani_Comorian,NAME,ʣína,718
+Ngazidja_Comorian,NAME,ʣína,718
+Nyanja,NAME,ʣína,718
+Nyankole,NAME,eiziina,718
+Rundi,NAME,izina,718
+Songe,NAME,eʃìna,718
+Sukuma,NAME,lina,718
+Swahili,NAME,ʄina,718
+Tonga,NAME,zina,718
+Tswana,NAME,íná,718
+Venda,NAME,ʣina,718
+Yaka,NAME,ínà,718
+Bulu,NAME,jôé,719
+Fang,NAME,ejola,719
+Gogo,NAME,ítaɡwa,720
+Haya,NAME,eibala,721
+Kamba,NAME,esjetwa,722
+Kikuyu,NAME,ritwa,722
+Shona,NAME,zítá,722
+Lingala,NAME,nkómbó,723
+Lozi,NAME,libizo,724
+North_Ndebele,NAME,ibizo,724
+Tsonga,NAME,vító,724
+Tswa,NAME,vítú,724
+Umbundu,NAME,óndúkò,725
+Xhosa,NAME,iɡama,726
+Zulu,NAME,îkâmà,726
+Bemba,SUN,akàsuba,727
+Bulu,SUN,jôp,727
+Fang,SUN,n̩loʣop,727
+Ganda,SUN,njuba,727
+Gogo,SUN,ízuva,727
+Haya,SUN,eizoba,727
+Kalanga,SUN,ʒuba,727
+Kamba,SUN,sjoa,727
+Kikuyu,SUN,rióa,727
+Luba-Katanga,SUN,djuba,727
+Luba-Lulua,SUN,dîbá,727
+Makhuwa,SUN,́nʧúwa,727
+Meru,SUN,saa,727
+Ndzwani_Comorian,SUN,ʒúa,727
+Ngazidja_Comorian,SUN,ʤua,727
+Nyanja,SUN,ʣúwa,727
+Nyankole,SUN,eizooba,727
+Rundi,SUN,izuba,727
+Shona,SUN,zuʋa,727
+Songe,SUN,ńɡùba,727
+Swahili,SUN,ʄua,727
+Tonga,SUN,zuba,727
+Venda,SUN,dʰuβa,727
+Kimbundu,SUN,muaɲa,728
+Umbundu,SUN,éku̍mbí,728
+Koongo,SUN,ntanɡu,729
+Ndonga,SUN,etanɡo,729
+Lingala,SUN,mói,730
+Lozi,SUN,lizazazi,731
+North_Ndebele,SUN,ilanɡa,732
+Xhosa,SUN,ilanɡa,732
+Zulu,SUN,ìlànɡà,732
+Sukuma,SUN,limi,733
+Tsonga,SUN,djambu,734
+Tswa,SUN,ɡambu,734
+Tswana,SUN,ʦàʦí,735
+Yaka,SUN,ísé,736

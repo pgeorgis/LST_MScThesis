@@ -1,0 +1,261 @@
+Language_ID,Feature_ID,IPA,Value
+Central_Yana,DOG,suːsu,1
+Northern_Yana,DOG,suːsu,1
+Yahi,DOG,suːsu,1
+Northern_Yana,KNOW (SOMETHING),tiʦipa,2
+Central_Yana,FOOT,lalla,3
+Northern_Yana,FOOT,lalla,3
+Yahi,FOOT,lalla,3
+Northern_Yana,NECK,tulla,4
+Yahi,NECK,tulla,4
+Central_Yana,STONE,kʼaina,5
+Northern_Yana,STONE,kʼaina,5
+Yahi,STONE,kʼaina,5
+Central_Yana,WIND,ʦukʼalla,6
+Northern_Yana,WIND,ʦukʼalla,6
+Yahi,WIND,ʦuʔkʼalla,6
+Northern_Yana,KNEE,hiːwakinna,7
+Yahi,KNEE,pʰuːtikʼi,7
+Central_Yana,WHITE,talapʔsa,8
+Northern_Yana,WHITE,tʼalapʔ,8
+Yahi,WHITE,tʼalapʔ,8
+Central_Yana,EAT,ma,9
+Northern_Yana,EAT,ma,9
+Yahi,EAT,ma,9
+Northern_Yana,HEAVY,miʦa,10
+Yahi,HEAVY,ʦʼaʔwiʦa,11
+Central_Yana,TAIL,pʼulsu,12
+Central_Yana,TOOTH,kʰiʦʼauna,13
+Yahi,TOOTH,kʰiʦʼauna,13
+Central_Yana,WATER,xana,14
+Northern_Yana,WATER,xana,14
+Yahi,WATER,xana,14
+Central_Yana,ROAD,hiːja,15
+Northern_Yana,ROAD,hiːja,15
+Yahi,ROAD,hiːja,15
+Northern_Yana,LEAF,tʼaːpʰalla,16
+Central_Yana,HEAR,kaː,17
+Northern_Yana,HEAR,kaː,17
+Yahi,HEAR,kaː,17
+Northern_Yana,MEAT,pasi,18
+Yahi,MEAT,pahsi,18
+Central_Yana,DIE,tilau,19
+Northern_Yana,DIE,tilau,19
+Northern_Yana,DRINK,siː,20
+Yahi,DRINK,ʦiː,20
+Central_Yana,NOT,kʰuː,21
+Northern_Yana,NOT,kʰuː,21
+Yahi,NOT,kʰuː,21
+Central_Yana,FAT (FROM ANIMALS),xaujau,22
+Northern_Yana,FAT (FROM ANIMALS),xaujau,22
+Yahi,FAT (FROM ANIMALS),xaujau,22
+Central_Yana,SIT,wa,23
+Northern_Yana,SIT,wa,23
+Yahi,SIT,wa,23
+Northern_Yana,BARK,patʔjauna,24
+Central_Yana,FIRE,ʔauna,25
+Northern_Yana,FIRE,ʔauna,25
+Yahi,FIRE,ʔauna,25
+Central_Yana,SKIN,miwi,26
+Northern_Yana,ASH,tʼapʔlaːwiʔauna,27
+Central_Yana,THAT,aiʦeʔe,28
+Northern_Yana,THAT,aiʦeʔe,28
+Yahi,THAT,aiʦi,28
+Central_Yana,HAIR,kʼujulla,29
+Northern_Yana,HAIR,kʼujul,29
+Yahi,HAIR,kʼuʔjulla,29
+Northern_Yana,MOON,wakʼaːra,30
+Yahi,MOON,wakʼaːra,30
+Central_Yana,ONE,paiku,31
+Northern_Yana,ONE,paiku,31
+Yahi,ONE,paiku,31
+Central_Yana,I,aiʔniʦa,32
+Northern_Yana,I,aiʔniʦa,32
+Yahi,I,aiʔniʦi,32
+Central_Yana,WORM,piːna,33
+Central_Yana,FISH,kalaː,34
+Northern_Yana,FISH,kalaː,34
+Yahi,FISH,kalaːxi,34
+Central_Yana,SMALL,tʼiniːku,35
+Northern_Yana,SMALL,tʼiniːku,35
+Yahi,SMALL,tʼihniːku,35
+Central_Yana,SHORT,pakanku,36
+Northern_Yana,SHORT,pakatku,36
+Yahi,SHORT,pahkanku,36
+Central_Yana,MOUTH,palla,37
+Yahi,MOUTH,palla,37
+Central_Yana,BURN (SOMETHING),haʔwiː,38
+Northern_Yana,BURN (SOMETHING),haʔwiː,38
+Yahi,BURN (SOMETHING),haʔwiː,38
+Central_Yana,WE,aikʰiʔniki,39
+Northern_Yana,WE,aikʰiʔniki,39
+Yahi,WE,aikʰiʔniki,39
+Northern_Yana,BIRD,ʦutʔawi,40
+Central_Yana,PERSON,jaːna,41
+Northern_Yana,PERSON,jaːna,41
+Yahi,PERSON,jaːxi,41
+Central_Yana,BIG,paʦal,42
+Northern_Yana,BIG,paʦal,42
+Yahi,BIG,paʦal,42
+Northern_Yana,BREAST,ʦuxpinna,43
+Central_Yana,HAND,talla,44
+Northern_Yana,HAND,talla,44
+Yahi,HAND,talla,44
+Central_Yana,SEE,tiwai,45
+Northern_Yana,SEE,tiwai,45
+Yahi,SEE,tawai,45
+Central_Yana,SMOKE (EXHAUST),ʦʰeːkʼauna,46
+Northern_Yana,SMOKE (EXHAUST),ʦʰeːkʼauna,46
+Central_Yana,STAND,waːkʼi,47
+Northern_Yana,STAND,waːkʼi,47
+Yahi,STAND,waːkʼi,47
+Central_Yana,TREE,ʔina,48
+Northern_Yana,TREE,ʔina,48
+Yahi,TREE,ʔiwi,48
+Central_Yana,FAR,pʰau,49
+Northern_Yana,FAR,pʰau,49
+Northern_Yana,BELLY,willa,50
+Yahi,BELLY,willa,50
+Northern_Yana,ROUND,heːʦil,51
+Central_Yana,BONE,ʔixtalʔ,52
+Northern_Yana,BONE,ʔixtalʔ,52
+Yahi,BONE,ʔaxtatʔ,52
+Northern_Yana,SALT,wiːʦʰu,53
+Central_Yana,RAIN (PRECIPITATION),pareːkʼu,54
+Northern_Yana,RAIN (PRECIPITATION),parikʼu,54
+Yahi,RAIN (PRECIPITATION),parikʼu,54
+Central_Yana,SLEEP,samsi,55
+Northern_Yana,SLEEP,sapsi,55
+Yahi,SLEEP,ʦamsi,55
+Central_Yana,WOMAN,mariʔmi,56
+Northern_Yana,WOMAN,mariʔmi,56
+Yahi,WOMAN,mariʔmi,56
+Central_Yana,LONG,ʦul,57
+Northern_Yana,LONG,ʦul,57
+Yahi,LONG,ʦul,57
+Central_Yana,MOUNTAIN,ʦiːkalla,58
+Northern_Yana,MOUNTAIN,ʦiːkalla,58
+Yahi,MOUNTAIN,ʦiːkalxi,58
+Central_Yana,WALK,ni,59
+Northern_Yana,WALK,ni,59
+Yahi,WALK,ni,59
+Central_Yana,WALK,ha,60
+Northern_Yana,WALK,ha,60
+Yahi,WALK,ha,60
+Central_Yana,DRY,kʰulsi,61
+Northern_Yana,DRY,kʰulsi,61
+Yahi,DRY,kʰulsi,61
+Central_Yana,THIS,aiʦʰ,62
+Northern_Yana,THIS,aiʦʰ,62
+Central_Yana,LIE (REST),murul,63
+Northern_Yana,LIE (REST),murul,63
+Yahi,LIE (REST),murul,63
+Central_Yana,COME,ni,64
+Northern_Yana,COME,ni,64
+Yahi,COME,ni,64
+Central_Yana,COME,ha,65
+Northern_Yana,COME,ha,65
+Yahi,COME,ha,65
+Northern_Yana,NOSE,liːlimauna,66
+Yahi,NOSE,niːnimauna,66
+Central_Yana,NIGHT,pasiːjauna,67
+Northern_Yana,NIGHT,pasiːjauna,67
+Yahi,NIGHT,pahsi,67
+Central_Yana,KILL,ʔamʔʦi,68
+Northern_Yana,KILL,ʔapʔʦi,68
+Yahi,KILL,ʔapʔʦi,68
+Central_Yana,RED,pawatʔku,69
+Northern_Yana,RED,tawatʔsa,69
+Yahi,RED,tawatʔsa,69
+Central_Yana,HEART,ʦukuʦʼi,70
+Northern_Yana,HEART,ʦukʼutʦʼi,70
+Central_Yana,SWIM,pʰuː,71
+Northern_Yana,SWIM,pʰuː,71
+Yahi,SWIM,pʰuː,71
+Central_Yana,TWO,ux,72
+Northern_Yana,TWO,ux,72
+Yahi,TWO,ux,72
+Central_Yana,WHAT,aʦʰiːma,73
+Northern_Yana,WHAT,aʦʰiːma,73
+Yahi,WHAT,ʔahʦa,74
+Northern_Yana,STAR,iʔlala,75
+Yahi,STAR,hiltaka,76
+Central_Yana,BLOOD,watʔtuwi,77
+Northern_Yana,BLOOD,watʔtuwi,77
+Central_Yana,SAY,tʰiː,78
+Northern_Yana,SAY,tʰiː,78
+Yahi,SAY,tʰiː,78
+Central_Yana,BLACK,tapʰalsa,79
+Northern_Yana,BLACK,tapʰalsa,79
+Yahi,BLACK,tahpʰalsa,79
+Central_Yana,YELLOW,tamuxtuisa,80
+Northern_Yana,YELLOW,muxtui,80
+Yahi,YELLOW,tamustuisa,80
+Central_Yana,WARM,jaripʼa,81
+Northern_Yana,WARM,jaripʼa,81
+Yahi,WARM,aʔnaina,82
+Northern_Yana,SAND,kʰuiʔjauna,83
+Northern_Yana,TONGUE,pawaʔla,84
+Yahi,TONGUE,pawaʔna,84
+Central_Yana,NEAR,kʼaʔnai,85
+Northern_Yana,NEAR,kʼaʔnai,85
+Yahi,NEAR,kʼaʔnai,85
+Northern_Yana,GREEN,taʦʼkaisa,86
+Yahi,GREEN,taʦʼkaisa,86
+Central_Yana,THIN (OF SHAPE OF OBJECT),pʼutʼaː,87
+Central_Yana,EYE,ʦʰuna,88
+Northern_Yana,EYE,ʦʰuna,88
+Yahi,EYE,ʦʰuna,88
+Central_Yana,GIVE,halʦawau,89
+Northern_Yana,GIVE,halʦawau,89
+Central_Yana,LIVER,ima,90
+Northern_Yana,LIVER,ima,90
+Yahi,LIVER,ima,90
+Central_Yana,MANY,tatʔ,91
+Northern_Yana,MANY,tatʔ,91
+Yahi,MANY,tatʔ,91
+Northern_Yana,CLAW OR NAIL,sukʼuʔliptalla,92
+Yahi,CLAW OR NAIL,sukʼuʔnimtanna,92
+Central_Yana,EAR,malku,93
+Northern_Yana,EAR,malʔku,93
+Yahi,EAR,manʔku,93
+Central_Yana,HORN (ANATOMY),weːju,94
+Northern_Yana,HORN (ANATOMY),weːju,94
+Yahi,HORN (ANATOMY),weːju,94
+Central_Yana,HEAD,tʼalʔaina,95
+Northern_Yana,HEAD,tʼalʔaina,95
+Central_Yana,EARTH (SOIL),piːwi,96
+Northern_Yana,EARTH (SOIL),piːwi,96
+Yahi,EARTH (SOIL),piːwi,96
+Central_Yana,GOOD,ʦʼupʔ,97
+Northern_Yana,GOOD,ʦʼupʔ,97
+Yahi,GOOD,ʦʼupʔ,97
+Central_Yana,ALL,panauma,98
+Northern_Yana,ALL,panauma,98
+Yahi,ALL,panauma,98
+Central_Yana,BITE,ʦa,99
+Northern_Yana,BITE,ʦa,99
+Yahi,BITE,ʦa,99
+Northern_Yana,FEATHER,puːni,100
+Yahi,FEATHER,puːni,100
+Central_Yana,FLY (MOVE THROUGH AIR),pa,101
+Northern_Yana,FLY (MOVE THROUGH AIR),pa,101
+Yahi,FLY (MOVE THROUGH AIR),pa,101
+Central_Yana,THOU,aiʔnuma,102
+Northern_Yana,THOU,aiʔnuma,102
+Yahi,THOU,aiʔnuma,102
+Central_Yana,FULL,panʔiː,103
+Northern_Yana,FULL,paʔniː,103
+Yahi,FULL,paʔniː,103
+Central_Yana,MAN,hisi,104
+Northern_Yana,MAN,hisi,104
+Yahi,MAN,hihsi,104
+Northern_Yana,LOUSE,ʦina,105
+Central_Yana,NAME,ʦeːjauna,106
+Northern_Yana,NAME,ʦeːjauna,106
+Yahi,NAME,ʦeːjauna,106
+Central_Yana,WHO,ʔampima,107
+Northern_Yana,WHO,ʔappima,107
+Yahi,WHO,ʔampima,107
+Northern_Yana,SUN,tʼuina,108
+Yahi,SUN,tʼuixi,108

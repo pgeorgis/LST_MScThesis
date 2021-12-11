@@ -1,0 +1,715 @@
+Language_ID,Feature_ID,IPA,Value
+Ancient_Attic_Greek,DOG,kýːoːn,1
+Ancient_Ionic_Greek,DOG,kýːoːn,1
+Southern_Tsakonian,DOG,kˈue,1
+Modern_Demotic_Greek,DOG,scˈilos,2
+Pharasa_Greek,DOG,sʧilˈi,2
+Western_Cappadocian_Greek,DOG,ʃcilˈi,2
+Ancient_Attic_Greek,KNOW (SOMETHING),ôjda,3
+Ancient_Ionic_Greek,KNOW (SOMETHING),ôjda,3
+Ancient_Ionic_Greek,KNOW (SOMETHING),epístamaj,4
+Modern_Demotic_Greek,KNOW (SOMETHING),ksˈero,5
+Southern_Tsakonian,KNOW (SOMETHING),ksˈeru,5
+Western_Cappadocian_Greek,KNOW (SOMETHING),ksˈevro,5
+Pharasa_Greek,KNOW (SOMETHING),katˈexo,6
+Ancient_Attic_Greek,CLOUD,népʰos,7
+Ancient_Ionic_Greek,CLOUD,népʰos,7
+Modern_Demotic_Greek,CLOUD,sˈinefo,7
+Pharasa_Greek,CLOUD,sˈinefa,7
+Southern_Tsakonian,CLOUD,sˈiɣnefo,7
+Southern_Tsakonian,CLOUD,sˈinefo,7
+Western_Cappadocian_Greek,CLOUD,ʃˈinefo,7
+Ancient_Attic_Greek,FOOT,pod,8
+Ancient_Ionic_Greek,FOOT,pod,8
+Modern_Demotic_Greek,FOOT,pˈoði,8
+Pharasa_Greek,FOOT,porˈaði,8
+Southern_Tsakonian,FOOT,pˈua,8
+Western_Cappadocian_Greek,FOOT,prej,8
+Ancient_Attic_Greek,NECK,awkʰéːn,9
+Ancient_Ionic_Greek,NECK,awkʰéːn,9
+Modern_Demotic_Greek,NECK,lemˈos,10
+Southern_Tsakonian,NECK,lemˈo,10
+Pharasa_Greek,NECK,ɣurɣˈuri,11
+Western_Cappadocian_Greek,NECK,ɣurɣˈur,11
+Ancient_Attic_Greek,MALE PERSON,anéːr,12
+Ancient_Ionic_Greek,MALE PERSON,anéːr,12
+Modern_Demotic_Greek,MALE PERSON,ˈanðras,12
+Modern_Demotic_Greek,MALE PERSON,ˈadras,12
+Pharasa_Greek,MALE PERSON,nomˈat,13
+Southern_Tsakonian,MALE PERSON,ˈaʧopo,14
+Western_Cappadocian_Greek,MALE PERSON,ˈaropos,14
+Ancient_Attic_Greek,STONE,lítʰos,15
+Ancient_Ionic_Greek,STONE,lítʰos,15
+Pharasa_Greek,STONE,θˈali,15
+Western_Cappadocian_Greek,STONE,nitˈer,15
+Western_Cappadocian_Greek,STONE,niçˈer,15
+Western_Cappadocian_Greek,STONE,ter,15
+Modern_Demotic_Greek,STONE,pˈetra,16
+Southern_Tsakonian,STONE,pˈeʧe,16
+Ancient_Attic_Greek,WIND,ánemos,17
+Ancient_Ionic_Greek,WIND,ánemos,17
+Pharasa_Greek,WIND,ˈanemos,17
+Western_Cappadocian_Greek,WIND,ˈanomos,17
+Modern_Demotic_Greek,WIND,aˈeras,18
+Southern_Tsakonian,WIND,aˈera,18
+Ancient_Attic_Greek,KNEE,ɡóny,19
+Ancient_Ionic_Greek,KNEE,ɡóny,19
+Modern_Demotic_Greek,KNEE,ɣˈonato,19
+Pharasa_Greek,KNEE,ɣˈonoto,19
+Southern_Tsakonian,KNEE,ɣˈuna,19
+Western_Cappadocian_Greek,KNEE,ɣˈonato,19
+Ancient_Attic_Greek,WHITE,lewkó,20
+Ancient_Ionic_Greek,WHITE,lewkó,20
+Southern_Tsakonian,WHITE,lekˈo,20
+Modern_Demotic_Greek,WHITE,ˈaspro,21
+Pharasa_Greek,WHITE,ˈaspro,21
+Western_Cappadocian_Greek,WHITE,ˈaspro,21
+Ancient_Attic_Greek,EAT,estʰíoː,22
+Ancient_Attic_Greek,EAT,pʰaɡ,23
+Modern_Demotic_Greek,EAT,ˈefaɣa,23
+Pharasa_Greek,EAT,ˈefaɣa,23
+Southern_Tsakonian,EAT,efaˈika,23
+Western_Cappadocian_Greek,EAT,ˈefaɣa,23
+Ancient_Ionic_Greek,EAT,sitéomaj,24
+Modern_Demotic_Greek,EAT,trˈoo,25
+Pharasa_Greek,EAT,trˈoɣo,25
+Southern_Tsakonian,EAT,ʧu,25
+Western_Cappadocian_Greek,EAT,trˈoɣo,25
+Ancient_Attic_Greek,HEAVY,barý,26
+Modern_Demotic_Greek,HEAVY,varˈi,26
+Southern_Tsakonian,HEAVY,var̝ˈu,26
+Western_Cappadocian_Greek,HEAVY,varˈi,26
+Ancient_Ionic_Greek,HEAVY,embriːtʰéː,27
+Ancient_Attic_Greek,TAIL,kérkos,28
+Ancient_Ionic_Greek,TAIL,uːréː,29
+Modern_Demotic_Greek,TAIL,urˈa,29
+Pharasa_Greek,TAIL,vrˈaði,29
+Southern_Tsakonian,TAIL,nurˈa,29
+Southern_Tsakonian,TAIL,urˈa,29
+Western_Cappadocian_Greek,TAIL,turˈaði,29
+Ancient_Attic_Greek,TOOTH,odónt,30
+Ancient_Ionic_Greek,TOOTH,odónt,30
+Modern_Demotic_Greek,TOOTH,ðˈodi,30
+Pharasa_Greek,TOOTH,ðandˈari,30
+Southern_Tsakonian,TOOTH,ˈonda,30
+Western_Cappadocian_Greek,TOOTH,zˈonʧi,30
+Ancient_Attic_Greek,WATER,hýdoːr,31
+Ancient_Ionic_Greek,WATER,ýdoːr,31
+Southern_Tsakonian,WATER,ˈio,31
+Modern_Demotic_Greek,WATER,nerˈo,32
+Pharasa_Greek,WATER,nerˈo,32
+Western_Cappadocian_Greek,WATER,lerˈo,32
+Ancient_Attic_Greek,ROAD,hodós,33
+Ancient_Ionic_Greek,ROAD,odós,33
+Modern_Demotic_Greek,ROAD,ðrˈomos,34
+Pharasa_Greek,ROAD,strˈata,35
+Western_Cappadocian_Greek,ROAD,strˈata,35
+Southern_Tsakonian,ROAD,porˈia,36
+Ancient_Attic_Greek,LEAF,pʰýllon,37
+Ancient_Ionic_Greek,LEAF,pʰýllon,37
+Modern_Demotic_Greek,LEAF,fˈilo,37
+Pharasa_Greek,LEAF,fˈio,37
+Southern_Tsakonian,LEAF,fˈili,37
+Western_Cappadocian_Greek,LEAF,fˈilo,37
+Ancient_Attic_Greek,HEAR,akúːoː,38
+Ancient_Ionic_Greek,HEAR,akúːoː,38
+Modern_Demotic_Greek,HEAR,akˈuo,38
+Pharasa_Greek,HEAR,ku,38
+Western_Cappadocian_Greek,HEAR,akˈuo,38
+Southern_Tsakonian,HEAR,ɲˈiu,39
+Ancient_Attic_Greek,DIE,apotʰnéːjskoː,40
+Ancient_Ionic_Greek,DIE,apotʰnéːjskoː,40
+Modern_Demotic_Greek,DIE,peθˈeno,40
+Southern_Tsakonian,DIE,penˈakʰu,40
+Western_Cappadocian_Greek,DIE,peranˈiʃko,40
+Pharasa_Greek,DIE,xˈan,41
+Ancient_Attic_Greek,DRINK,píːnoː,42
+Ancient_Ionic_Greek,DRINK,píːnoː,42
+Modern_Demotic_Greek,DRINK,pˈino,42
+Pharasa_Greek,DRINK,pˈino,42
+Southern_Tsakonian,DRINK,cˈinu,42
+Western_Cappadocian_Greek,DRINK,pjinˈiʃko,42
+Ancient_Attic_Greek,NEW,néo,43
+Modern_Demotic_Greek,NEW,nˈeo,43
+Modern_Demotic_Greek,NEW,cenˈurʝo,44
+Southern_Tsakonian,NEW,ʨinˈurʨe,44
+Southern_Tsakonian,NEW,ʨirnˈuʨi,44
+Western_Cappadocian_Greek,NEW,cenˈurjo,44
+Pharasa_Greek,NEW,tazˈos,45
+Ancient_Attic_Greek,NOT,uː,46
+Ancient_Attic_Greek,NOT,uːk,46
+Ancient_Attic_Greek,NOT,uːkʰ,46
+Ancient_Ionic_Greek,NOT,uː,46
+Ancient_Ionic_Greek,NOT,uːk,46
+Modern_Demotic_Greek,NOT,ðen,46
+Pharasa_Greek,NOT,ʤo,46
+Southern_Tsakonian,NOT,o,46
+Western_Cappadocian_Greek,NOT,ðen,46
+Ancient_Attic_Greek,SIT,kátʰeːmaj,47
+Ancient_Ionic_Greek,SIT,káteːmaj,47
+Modern_Demotic_Greek,SIT,kˈaθome,47
+Pharasa_Greek,SIT,kˈaθome,47
+Southern_Tsakonian,SIT,kasˈimene,47
+Western_Cappadocian_Greek,SIT,kˈarume,47
+Ancient_Attic_Greek,EGG,oːjón,48
+Ancient_Ionic_Greek,EGG,oːjón,48
+Modern_Demotic_Greek,EGG,avɣˈo,48
+Pharasa_Greek,EGG,vo,48
+Southern_Tsakonian,EGG,avuɣˈo,48
+Western_Cappadocian_Greek,EGG,ovɣˈo,48
+Ancient_Attic_Greek,BARK,pʰlojós,49
+Ancient_Ionic_Greek,BARK,pʰlojós,49
+Modern_Demotic_Greek,BARK,fliˈos,49
+Pharasa_Greek,BARK,flˈiði,49
+Southern_Tsakonian,BARK,frˈua,49
+Western_Cappadocian_Greek,BARK,ɣabˈɨx,50
+Ancient_Attic_Greek,ROOT,r̥ízdaː,51
+Ancient_Ionic_Greek,ROOT,r̥ízdaː,51
+Modern_Demotic_Greek,ROOT,rˈiza,51
+Pharasa_Greek,ROOT,rˈiza,51
+Southern_Tsakonian,ROOT,ʃˈinda,51
+Western_Cappadocian_Greek,ROOT,rˈiza,51
+Ancient_Attic_Greek,FIRE,pŷːr,52
+Ancient_Ionic_Greek,FIRE,pŷːr,52
+Modern_Demotic_Greek,FIRE,fotçˈa,53
+Pharasa_Greek,FIRE,nistˈia,54
+Western_Cappadocian_Greek,FIRE,niʃʧˈa,54
+Southern_Tsakonian,FIRE,kʰˈara,55
+Ancient_Attic_Greek,ASH,tépʰraː,56
+Ancient_Ionic_Greek,ASH,spodós,57
+Southern_Tsakonian,ASH,spoˈia,57
+Modern_Demotic_Greek,ASH,stˈaxti,58
+Pharasa_Greek,ASH,stˈaxti,58
+Western_Cappadocian_Greek,ASH,stˈaxʧi,58
+Ancient_Attic_Greek,THAT,ekêjno,59
+Ancient_Ionic_Greek,THAT,ekêjno,59
+Modern_Demotic_Greek,THAT,ecˈino,59
+Pharasa_Greek,THAT,aʤˈino,59
+Pharasa_Greek,THAT,aʧˈino,59
+Western_Cappadocian_Greek,THAT,ecˈino,59
+Southern_Tsakonian,THAT,etˈine,60
+Ancient_Attic_Greek,HAIR,tríkʰes,61
+Ancient_Ionic_Greek,HAIR,tríkʰes,61
+Southern_Tsakonian,HAIR,ʧˈiçe,61
+Modern_Demotic_Greek,HAIR,maʎˈa,62
+Pharasa_Greek,HAIR,malˈia,62
+Western_Cappadocian_Greek,HAIR,maljˈa,62
+Ancient_Attic_Greek,MOON,seléːneː,63
+Ancient_Ionic_Greek,MOON,seléːneː,63
+Modern_Demotic_Greek,MOON,feɡˈari,64
+Pharasa_Greek,MOON,fˈeŋɡos,64
+Southern_Tsakonian,MOON,feŋɡˈar̝i,64
+Western_Cappadocian_Greek,MOON,fˈeŋɡos,64
+Ancient_Attic_Greek,ONE,hen,65
+Ancient_Ionic_Greek,ONE,en,65
+Modern_Demotic_Greek,ONE,ˈenas,65
+Pharasa_Greek,ONE,ˈena,65
+Southern_Tsakonian,ONE,ˈena,65
+Western_Cappadocian_Greek,ONE,ˈena,65
+Ancient_Attic_Greek,I,eɡóː,66
+Ancient_Ionic_Greek,I,eɡóː,66
+Modern_Demotic_Greek,I,eɣˈo,66
+Pharasa_Greek,I,eɣˈo,66
+Pharasa_Greek,I,o,66
+Southern_Tsakonian,I,ezˈu,66
+Western_Cappadocian_Greek,I,eɣˈo,66
+Ancient_Attic_Greek,I,em,67
+Ancient_Ionic_Greek,I,em,67
+Modern_Demotic_Greek,I,emˈena,67
+Pharasa_Greek,I,emˈena,67
+Southern_Tsakonian,I,eɲˈi,67
+Western_Cappadocian_Greek,I,emˈena,67
+Ancient_Ionic_Greek,WORM,ewléː,68
+Modern_Demotic_Greek,WORM,skulˈici,69
+Southern_Tsakonian,WORM,kʰˈoaka,69
+Western_Cappadocian_Greek,WORM,skulˈik,69
+Ancient_Attic_Greek,FISH,ikʰtʰýːs,70
+Ancient_Ionic_Greek,FISH,ikʰtʰýːs,70
+Modern_Demotic_Greek,FISH,psˈari,71
+Pharasa_Greek,FISH,psˈari,71
+Southern_Tsakonian,FISH,psˈar̝i,71
+Western_Cappadocian_Greek,FISH,psar,71
+Ancient_Attic_Greek,SMALL,smiːkrós,72
+Ancient_Ionic_Greek,SMALL,smiːkró,72
+Modern_Demotic_Greek,SMALL,mikrˈo,72
+Southern_Tsakonian,SMALL,miʦˈi,72
+Western_Cappadocian_Greek,SMALL,mikrˈo,72
+Pharasa_Greek,SMALL,ˈokk,73
+Ancient_Attic_Greek,SHORT,brakʰý,74
+Ancient_Ionic_Greek,SHORT,brakʰý,74
+Modern_Demotic_Greek,SHORT,kodˈo,75
+Southern_Tsakonian,SHORT,kondˈe,75
+Western_Cappadocian_Greek,SHORT,kondˈo,75
+Ancient_Attic_Greek,MOUTH,stóma,76
+Ancient_Ionic_Greek,MOUTH,stóma,76
+Modern_Demotic_Greek,MOUTH,stomˈa,76
+Pharasa_Greek,MOUTH,stomˈa,76
+Southern_Tsakonian,MOUTH,tʰˈuma,76
+Western_Cappadocian_Greek,MOUTH,stomˈa,76
+Ancient_Attic_Greek,BURN (SOMETHING),káoː,77
+Ancient_Ionic_Greek,BURN (SOMETHING),kájoː,77
+Modern_Demotic_Greek,BURN (SOMETHING),cˈeo,77
+Pharasa_Greek,BURN (SOMETHING),kˈafto,77
+Western_Cappadocian_Greek,BURN (SOMETHING),kˈafto,77
+Southern_Tsakonian,BURN (SOMETHING),ðˈesu,78
+Ancient_Attic_Greek,WE,heːmêjs,79
+Ancient_Ionic_Greek,WE,eːmêjs,79
+Modern_Demotic_Greek,WE,emˈis,79
+Pharasa_Greek,WE,emˈis,79
+Southern_Tsakonian,WE,eɲˈi,79
+Southern_Tsakonian,WE,emˈunane,79
+Southern_Tsakonian,WE,eɲˈinane,79
+Western_Cappadocian_Greek,WE,emˈis,79
+Ancient_Attic_Greek,BIRD,órnis,80
+Ancient_Ionic_Greek,BIRD,órnis,80
+Modern_Demotic_Greek,BIRD,pulˈi,81
+Pharasa_Greek,BIRD,pulˈi,81
+Southern_Tsakonian,BIRD,puʎˈi,81
+Western_Cappadocian_Greek,BIRD,pulˈi,81
+Ancient_Attic_Greek,PERSON,ántʰroːpos,82
+Ancient_Ionic_Greek,PERSON,ántʰroːpos,82
+Modern_Demotic_Greek,PERSON,ˈanθropos,82
+Southern_Tsakonian,PERSON,ˈaʧopo,82
+Western_Cappadocian_Greek,PERSON,ˈaropos,82
+Pharasa_Greek,PERSON,nomˈat,83
+Ancient_Attic_Greek,BIG,méɡas,84
+Ancient_Ionic_Greek,BIG,méɡas,84
+Modern_Demotic_Greek,BIG,meɣˈalo,84
+Pharasa_Greek,BIG,mˈeɣo,84
+Western_Cappadocian_Greek,BIG,mˈeɣa,84
+Southern_Tsakonian,BIG,aʧˈe,85
+Ancient_Attic_Greek,BREAST,stêːtʰos,86
+Ancient_Ionic_Greek,BREAST,stéːtʰea,86
+Modern_Demotic_Greek,BREAST,stˈiθos,86
+Southern_Tsakonian,BREAST,stˈiθi,86
+Pharasa_Greek,BREAST,kardˈia,87
+Western_Cappadocian_Greek,BREAST,kˈorfos,88
+Western_Cappadocian_Greek,BREAST,kˈolfos,88
+Ancient_Attic_Greek,HAND,kʰéjr,89
+Ancient_Ionic_Greek,HAND,kʰéjr,89
+Modern_Demotic_Greek,HAND,çˈeri,89
+Pharasa_Greek,HAND,ʃˈeri,89
+Southern_Tsakonian,HAND,çˈera,89
+Western_Cappadocian_Greek,HAND,çer,89
+Ancient_Attic_Greek,FINGERNAIL,ónykʰ,90
+Ancient_Ionic_Greek,FINGERNAIL,ónykʰ,90
+Modern_Demotic_Greek,FINGERNAIL,nˈiçi,90
+Pharasa_Greek,FINGERNAIL,nˈiʃi,90
+Southern_Tsakonian,FINGERNAIL,ɲˈiçi,90
+Western_Cappadocian_Greek,FINGERNAIL,niç,90
+Ancient_Attic_Greek,SPHERICAL (ROUND IN THREE DIMENSIONS),stronɡýlos,91
+Ancient_Ionic_Greek,SPHERICAL (ROUND IN THREE DIMENSIONS),stronɡýlo,91
+Modern_Demotic_Greek,SPHERICAL (ROUND IN THREE DIMENSIONS),stroɟilˈo,91
+Southern_Tsakonian,SPHERICAL (ROUND IN THREE DIMENSIONS),stronʒilˈe,91
+Pharasa_Greek,SPHERICAL (ROUND IN THREE DIMENSIONS),juvarlaxi,92
+Ancient_Attic_Greek,SEE,horôː,93
+Ancient_Ionic_Greek,SEE,orôː,93
+Southern_Tsakonian,SEE,orˈu,93
+Ancient_Attic_Greek,SEE,êjdon,94
+Ancient_Ionic_Greek,SEE,êjdon,94
+Modern_Demotic_Greek,SEE,ˈiða,94
+Pharasa_Greek,SEE,ˈiða,94
+Western_Cappadocian_Greek,SEE,ˈira,94
+Modern_Demotic_Greek,SEE,vlˈepo,95
+Pharasa_Greek,SEE,θorˈo,96
+Western_Cappadocian_Greek,SEE,dranˈo,97
+Ancient_Attic_Greek,SMOKE (EXHAUST),kapnós,98
+Ancient_Ionic_Greek,SMOKE (EXHAUST),kapnós,98
+Modern_Demotic_Greek,SMOKE (EXHAUST),kapnˈos,98
+Southern_Tsakonian,SMOKE (EXHAUST),kapinˈe,98
+Southern_Tsakonian,SMOKE (EXHAUST),kapnˈe,98
+Pharasa_Greek,SMOKE (EXHAUST),ʦˈikna,99
+Western_Cappadocian_Greek,SMOKE (EXHAUST),ʧˈikna,99
+Ancient_Attic_Greek,STAND,hísteːmi,100
+Ancient_Ionic_Greek,STAND,ísteːmi,100
+Modern_Demotic_Greek,STAND,stˈekome,100
+Pharasa_Greek,STAND,stˈikno,100
+Pharasa_Greek,STAND,stˈekno,100
+Southern_Tsakonian,STAND,stˈeku,100
+Western_Cappadocian_Greek,STAND,stˈekno,100
+Ancient_Attic_Greek,SNAKE,ópʰis,101
+Ancient_Ionic_Greek,SNAKE,ópʰis,101
+Modern_Demotic_Greek,SNAKE,fˈiði,101
+Pharasa_Greek,SNAKE,fˈiði,101
+Southern_Tsakonian,SNAKE,ˈuθi,101
+Southern_Tsakonian,SNAKE,ˈuiθi,101
+Western_Cappadocian_Greek,SNAKE,ofir,101
+Ancient_Attic_Greek,TREE,déndron,102
+Ancient_Ionic_Greek,TREE,déndreon,102
+Modern_Demotic_Greek,TREE,ðˈedro,102
+Southern_Tsakonian,TREE,ðenʤikˈo,102
+Western_Cappadocian_Greek,TREE,ðendrˈo,102
+Pharasa_Greek,TREE,ksˈio,103
+Ancient_Attic_Greek,FAR,pórroː,104
+Ancient_Ionic_Greek,FAR,prósoː,104
+Modern_Demotic_Greek,FAR,makriˈa,105
+Pharasa_Greek,FAR,makrˈa,105
+Western_Cappadocian_Greek,FAR,makrˈa,105
+Southern_Tsakonian,FAR,alˈarɣa,106
+Ancient_Attic_Greek,BELLY,ɡastéːr,107
+Ancient_Ionic_Greek,BELLY,ɡastéːr,107
+Modern_Demotic_Greek,BELLY,ciʎˈa,108
+Pharasa_Greek,BELLY,ʤilˈia,108
+Southern_Tsakonian,BELLY,fˈukʰa,109
+Western_Cappadocian_Greek,BELLY,karjˈa,110
+Ancient_Attic_Greek,BONE,ostéon,111
+Ancient_Ionic_Greek,BONE,ostéon,111
+Pharasa_Greek,BONE,sto,111
+Western_Cappadocian_Greek,BONE,sʧas,111
+Modern_Demotic_Greek,BONE,kˈokalo,112
+Southern_Tsakonian,BONE,kˈokale,112
+Ancient_Attic_Greek,SALT,háls,113
+Ancient_Ionic_Greek,SALT,áls,113
+Modern_Demotic_Greek,SALT,alˈati,113
+Pharasa_Greek,SALT,as,113
+Southern_Tsakonian,SALT,ˈaʦi,113
+Western_Cappadocian_Greek,SALT,ˈalas,113
+Ancient_Attic_Greek,RAIN (PRECIPITATION),ómbros,114
+Ancient_Ionic_Greek,RAIN (PRECIPITATION),ómbros,114
+Modern_Demotic_Greek,RAIN (PRECIPITATION),vroçˈi,115
+Pharasa_Greek,RAIN (PRECIPITATION),vreʃˈi,115
+Southern_Tsakonian,RAIN (PRECIPITATION),vrˈexo,115
+Western_Cappadocian_Greek,RAIN (PRECIPITATION),vrexˈos,115
+Ancient_Attic_Greek,SLEEP,katʰéwdoː,116
+Ancient_Ionic_Greek,SLEEP,éwdoː,116
+Southern_Tsakonian,SLEEP,kasˈiu,116
+Modern_Demotic_Greek,SLEEP,cimˈame,117
+Western_Cappadocian_Greek,SLEEP,cimˈume,117
+Pharasa_Greek,SLEEP,pnˈono,118
+Southern_Tsakonian,SLEEP,ecˈuva,119
+Ancient_Attic_Greek,WOMAN,ɡynéː,120
+Ancient_Ionic_Greek,WOMAN,ɡynéː,120
+Modern_Demotic_Greek,WOMAN,ʝinˈeka,120
+Pharasa_Greek,WOMAN,nˈeka,120
+Southern_Tsakonian,WOMAN,ɣunˈeka,120
+Western_Cappadocian_Greek,WOMAN,nˈeka,120
+Ancient_Attic_Greek,LONG,makró,121
+Ancient_Ionic_Greek,LONG,makró,121
+Modern_Demotic_Greek,LONG,makrˈi,121
+Southern_Tsakonian,LONG,makr̝ˈu,121
+Western_Cappadocian_Greek,LONG,makrˈi,121
+Ancient_Attic_Greek,MOUNTAIN,óros,122
+Ancient_Ionic_Greek,MOUNTAIN,óros,122
+Modern_Demotic_Greek,MOUNTAIN,vunˈo,123
+Western_Cappadocian_Greek,MOUNTAIN,vunˈi,123
+Pharasa_Greek,MOUNTAIN,ruʃˈi,124
+Southern_Tsakonian,MOUNTAIN,ʃˈina,125
+Ancient_Attic_Greek,WALK,êjmi,126
+Ancient_Ionic_Greek,WALK,êjmi,126
+Modern_Demotic_Greek,WALK,pˈao,127
+Modern_Demotic_Greek,WALK,piʝˈeno,127
+Modern_Demotic_Greek,WALK,pˈiɣa,127
+Pharasa_Greek,WALK,pajˈeno,127
+Pharasa_Greek,WALK,pˈeno,127
+Pharasa_Greek,WALK,piˈaɣa,127
+Pharasa_Greek,WALK,pˈiɣa,127
+Western_Cappadocian_Greek,WALK,pˈeno,127
+Western_Cappadocian_Greek,WALK,pˈiɣa,127
+Southern_Tsakonian,WALK,ˈeŋɡu,128
+Southern_Tsakonian,WALK,ezˈak,129
+Ancient_Attic_Greek,DRY,kseːró,130
+Pharasa_Greek,DRY,kserˈo,130
+Southern_Tsakonian,DRY,ʦerˈe,130
+Western_Cappadocian_Greek,DRY,kserˈo,130
+Ancient_Ionic_Greek,DRY,âwo,131
+Modern_Demotic_Greek,DRY,steɣnˈo,132
+Ancient_Attic_Greek,THIS,hûːto,133
+Ancient_Ionic_Greek,THIS,ûːto,133
+Modern_Demotic_Greek,THIS,aftˈo,134
+Pharasa_Greek,THIS,atˈe,134
+Western_Cappadocian_Greek,THIS,etˈo,134
+Southern_Tsakonian,THIS,ˈenderi,135
+Southern_Tsakonian,THIS,ˈendeni,135
+Southern_Tsakonian,THIS,ˈeteni,136
+Ancient_Attic_Greek,LIE (REST),katákejmaj,137
+Ancient_Ionic_Greek,LIE (REST),kêjmaj,137
+Modern_Demotic_Greek,LIE (REST),ksaplˈono,138
+Southern_Tsakonian,LIE (REST),ʦaprˈukʰu,138
+Western_Cappadocian_Greek,LIE (REST),xalˈano,139
+Ancient_Attic_Greek,COME,héːkoː,140
+Ancient_Attic_Greek,COME,ʌltʰ,141
+Ancient_Ionic_Greek,COME,eltʰ,141
+Modern_Demotic_Greek,COME,ˈirθa,141
+Pharasa_Greek,COME,ˈirta,141
+Western_Cappadocian_Greek,COME,ˈirta,141
+Ancient_Ionic_Greek,COME,érkʰomaj,142
+Modern_Demotic_Greek,COME,ˈerxome,142
+Pharasa_Greek,COME,ˈerxume,142
+Western_Cappadocian_Greek,COME,ˈerxume,142
+Southern_Tsakonian,COME,par̝ˈiu,143
+Southern_Tsakonian,COME,ekˈan,144
+Ancient_Attic_Greek,NOSE,r̥iːn,145
+Ancient_Ionic_Greek,NOSE,r̥iːn,145
+Southern_Tsakonian,NOSE,ʃˈukʰo,145
+Modern_Demotic_Greek,NOSE,mˈiti,146
+Pharasa_Greek,NOSE,mˈiti,146
+Western_Cappadocian_Greek,NOSE,mˈita,146
+Ancient_Attic_Greek,NIGHT,nýkt,147
+Ancient_Ionic_Greek,NIGHT,nýkt,147
+Modern_Demotic_Greek,NIGHT,nˈixta,147
+Pharasa_Greek,NIGHT,niˈexta,147
+Southern_Tsakonian,NIGHT,ɲˈutʰa,147
+Western_Cappadocian_Greek,NIGHT,nˈixta,147
+Ancient_Attic_Greek,KILL,apoktéjnoː,148
+Ancient_Ionic_Greek,KILL,ktéjnoː,148
+Modern_Demotic_Greek,KILL,skotˈono,149
+Pharasa_Greek,KILL,skotˈono,149
+Southern_Tsakonian,KILL,skotˈunu,149
+Western_Cappadocian_Greek,KILL,skotˈono,149
+Pharasa_Greek,KILL,fsˈaɣno,150
+Western_Cappadocian_Greek,KILL,fˈaxno,150
+Ancient_Attic_Greek,RED,erytʰrós,151
+Ancient_Ionic_Greek,RED,erytʰrós,151
+Modern_Demotic_Greek,RED,kˈocino,152
+Southern_Tsakonian,RED,koʦinˈe,152
+Pharasa_Greek,RED,ltʰinˈos,153
+Western_Cappadocian_Greek,RED,açnˈo,153
+Western_Cappadocian_Greek,RED,açlˈo,153
+Western_Cappadocian_Greek,RED,alçˈo,153
+Ancient_Attic_Greek,HEART,kardíaː,154
+Ancient_Ionic_Greek,HEART,kardíeː,154
+Modern_Demotic_Greek,HEART,karðʝˈa,154
+Pharasa_Greek,HEART,kardˈia,154
+Southern_Tsakonian,HEART,karðˈia,154
+Western_Cappadocian_Greek,HEART,karjˈa,154
+Ancient_Attic_Greek,SWIM,néoː,155
+Ancient_Ionic_Greek,SWIM,néoː,155
+Modern_Demotic_Greek,SWIM,kolibˈo,156
+Pharasa_Greek,SWIM,plˈefo,157
+Southern_Tsakonian,SWIM,aplˈeu,157
+Southern_Tsakonian,SWIM,plˈeu,157
+Western_Cappadocian_Greek,SWIM,yzd,158
+Ancient_Attic_Greek,WARM (OF WEATHER),tʰermó,159
+Ancient_Ionic_Greek,WARM (OF WEATHER),tʰermó,159
+Modern_Demotic_Greek,WARM (OF WEATHER),zestˈo,160
+Ancient_Attic_Greek,TWO,dýo,161
+Ancient_Ionic_Greek,TWO,dýo,161
+Modern_Demotic_Greek,TWO,ðˈio,161
+Pharasa_Greek,TWO,ðˈio,161
+Southern_Tsakonian,TWO,ðˈi,161
+Western_Cappadocian_Greek,TWO,erjˈo,161
+Ancient_Attic_Greek,THIN,leptós,162
+Ancient_Ionic_Greek,THIN,leptó,162
+Modern_Demotic_Greek,THIN,leptˈo,162
+Southern_Tsakonian,THIN,ftenˈe,163
+Western_Cappadocian_Greek,THIN,ftenˈo,163
+Southern_Tsakonian,THIN,psilˈe,164
+Ancient_Attic_Greek,WHAT,tí,165
+Ancient_Ionic_Greek,WHAT,tí,165
+Modern_Demotic_Greek,WHAT,ti,165
+Pharasa_Greek,WHAT,tˈipo,165
+Southern_Tsakonian,WHAT,ʦi,165
+Western_Cappadocian_Greek,WHAT,ʧi,165
+Ancient_Attic_Greek,STAR,astéːr,166
+Ancient_Ionic_Greek,STAR,astéːr,166
+Modern_Demotic_Greek,STAR,astˈeri,166
+Pharasa_Greek,STAR,ˈastro,166
+Southern_Tsakonian,STAR,ˈaʃi,166
+Western_Cappadocian_Greek,STAR,ˈastro,166
+Ancient_Attic_Greek,BLOOD,hâjma,167
+Ancient_Ionic_Greek,BLOOD,âjma,167
+Modern_Demotic_Greek,BLOOD,ˈema,167
+Pharasa_Greek,BLOOD,ˈaima,167
+Southern_Tsakonian,BLOOD,ˈema,167
+Western_Cappadocian_Greek,BLOOD,ˈoima,167
+Ancient_Attic_Greek,SAY,pʰeːmí,168
+Ancient_Ionic_Greek,SAY,pʰeːmí,168
+Ancient_Attic_Greek,SAY,êjpa,169
+Ancient_Ionic_Greek,SAY,êjpa,169
+Modern_Demotic_Greek,SAY,ˈipa,169
+Pharasa_Greek,SAY,ˈipa,169
+Southern_Tsakonian,SAY,epˈeka,169
+Western_Cappadocian_Greek,SAY,ˈipa,169
+Modern_Demotic_Greek,SAY,lˈeo,170
+Pharasa_Greek,SAY,lˈeo,170
+Western_Cappadocian_Greek,SAY,lˈeo,170
+Southern_Tsakonian,SAY,aˈu,171
+Ancient_Attic_Greek,BLACK,mélan,172
+Ancient_Ionic_Greek,BLACK,mélan,172
+Modern_Demotic_Greek,BLACK,mˈavros,173
+Pharasa_Greek,BLACK,mˈavro,173
+Western_Cappadocian_Greek,BLACK,mˈavro,173
+Southern_Tsakonian,BLACK,kuvˈane,174
+Ancient_Attic_Greek,YELLOW,ksantʰó,175
+Modern_Demotic_Greek,YELLOW,cˈitrino,176
+Southern_Tsakonian,YELLOW,ʨˈitr̝ine,176
+Pharasa_Greek,YELLOW,xworˈo,177
+Western_Cappadocian_Greek,YELLOW,xlorˈo,177
+Ancient_Attic_Greek,SAND,ámmos,178
+Modern_Demotic_Greek,SAND,ˈamos,178
+Pharasa_Greek,SAND,nˈamos,178
+Southern_Tsakonian,SAND,ˈamo,178
+Ancient_Ionic_Greek,SAND,psámmos,179
+Western_Cappadocian_Greek,SAND,mˈilis,180
+Ancient_Attic_Greek,TONGUE,ɡlôːtta,181
+Ancient_Ionic_Greek,TONGUE,ɡlôːssa,181
+Modern_Demotic_Greek,TONGUE,ɣlˈosa,181
+Pharasa_Greek,TONGUE,ɣwˈosa,181
+Pharasa_Greek,TONGUE,ɣwˈasa,181
+Southern_Tsakonian,TONGUE,ɣrˈusa,181
+Western_Cappadocian_Greek,TONGUE,ɣlˈosa,181
+Ancient_Attic_Greek,NEAR,enɡýs,182
+Ancient_Ionic_Greek,NEAR,ankʰûː,183
+Modern_Demotic_Greek,NEAR,kodˈa,184
+Pharasa_Greek,NEAR,kondˈa,184
+Southern_Tsakonian,NEAR,kondˈa,184
+Western_Cappadocian_Greek,NEAR,kondˈa,184
+Ancient_Attic_Greek,GREEN,ɡlawkó,185
+Modern_Demotic_Greek,GREEN,prˈasino,186
+Southern_Tsakonian,GREEN,prˈasine,186
+Western_Cappadocian_Greek,GREEN,prˈaʃino,186
+Ancient_Attic_Greek,EYE,opʰtʰalmós,187
+Ancient_Attic_Greek,EYE,ómma,187
+Ancient_Ionic_Greek,EYE,opʰtʰalmós,187
+Modern_Demotic_Greek,EYE,mˈati,187
+Pharasa_Greek,EYE,ftˈalmi,187
+Southern_Tsakonian,EYE,psilˈe,187
+Western_Cappadocian_Greek,EYE,maʃ,187
+Ancient_Attic_Greek,SKIN (HUMAN),dérma,188
+Ancient_Ionic_Greek,SKIN (HUMAN),dérma,188
+Modern_Demotic_Greek,SKIN (HUMAN),ðˈerma,188
+Western_Cappadocian_Greek,SKIN (HUMAN),dˈerma,188
+Southern_Tsakonian,SKIN (HUMAN),ʨˈepa,189
+Ancient_Attic_Greek,COLD (OF WEATHER),psyːkʰrós,190
+Ancient_Ionic_Greek,COLD (OF WEATHER),psyːkʰró,190
+Southern_Tsakonian,COLD (OF WEATHER),psuxrˈe,190
+Modern_Demotic_Greek,COLD (OF WEATHER),krˈio,191
+Ancient_Attic_Greek,FLESH OR MEAT,kréas,192
+Ancient_Ionic_Greek,FLESH OR MEAT,kréas,192
+Modern_Demotic_Greek,FLESH OR MEAT,krˈeas,192
+Pharasa_Greek,FLESH OR MEAT,kræs,192
+Southern_Tsakonian,FLESH OR MEAT,krˈie,192
+Western_Cappadocian_Greek,FLESH OR MEAT,cirjˈas,192
+Ancient_Attic_Greek,SEED,spérma,193
+Ancient_Ionic_Greek,SEED,spérma,193
+Modern_Demotic_Greek,SEED,spˈoros,193
+Southern_Tsakonian,SEED,pʰrˈama,193
+Western_Cappadocian_Greek,SEED,spˈoros,193
+Ancient_Attic_Greek,FAT (ORGANIC SUBSTANCE),piːmeléː,194
+Ancient_Ionic_Greek,FAT (ORGANIC SUBSTANCE),piːmeléː,194
+Modern_Demotic_Greek,FAT (ORGANIC SUBSTANCE),lˈipos,195
+Pharasa_Greek,FAT (ORGANIC SUBSTANCE),ˈalima,196
+Western_Cappadocian_Greek,FAT (ORGANIC SUBSTANCE),ˈalima,196
+Southern_Tsakonian,FAT (ORGANIC SUBSTANCE),ksˈinʒi,197
+Ancient_Attic_Greek,GIVE,dídoːmi,198
+Ancient_Ionic_Greek,GIVE,dídoːmi,198
+Modern_Demotic_Greek,GIVE,ðˈino,198
+Pharasa_Greek,GIVE,ðˈito,198
+Southern_Tsakonian,GIVE,ðˈiu,198
+Western_Cappadocian_Greek,GIVE,dˈino,198
+Ancient_Attic_Greek,LIVER,hêːpar,199
+Modern_Demotic_Greek,LIVER,sikˈoti,200
+Pharasa_Greek,LIVER,siɡˈoti,200
+Southern_Tsakonian,LIVER,ʃkˈoci,200
+Western_Cappadocian_Greek,LIVER,ʃkˈot,200
+Ancient_Attic_Greek,MANY,polý,201
+Ancient_Ionic_Greek,MANY,polló,201
+Modern_Demotic_Greek,MANY,polˈi,201
+Pharasa_Greek,MANY,polˈi,201
+Western_Cappadocian_Greek,MANY,polˈi,201
+Southern_Tsakonian,MANY,pˈase,202
+Southern_Tsakonian,MANY,persˈe,203
+Ancient_Attic_Greek,EAR,oːt,204
+Ancient_Ionic_Greek,EAR,oːt,204
+Modern_Demotic_Greek,EAR,aftˈi,204
+Pharasa_Greek,EAR,ti,204
+Southern_Tsakonian,EAR,avotˈana,204
+Southern_Tsakonian,EAR,avutˈana,204
+Western_Cappadocian_Greek,EAR,afʧˈi,204
+Western_Cappadocian_Greek,EAR,fʧˈi,204
+Ancient_Attic_Greek,HORN (ANATOMY),kéras,205
+Ancient_Ionic_Greek,HORN (ANATOMY),kéras,205
+Modern_Demotic_Greek,HORN (ANATOMY),cˈerato,205
+Pharasa_Greek,HORN (ANATOMY),ʦˈeroto,205
+Southern_Tsakonian,HORN (ANATOMY),ʨˈerate,205
+Southern_Tsakonian,HORN (ANATOMY),ʨˈera,205
+Western_Cappadocian_Greek,HORN (ANATOMY),cˈerato,205
+Ancient_Attic_Greek,HEAD,kepʰaléː,206
+Ancient_Ionic_Greek,HEAD,kepʰaléː,206
+Modern_Demotic_Greek,HEAD,cefˈali,206
+Pharasa_Greek,HEAD,ʧufˈali,206
+Southern_Tsakonian,HEAD,ʨufˈa,206
+Western_Cappadocian_Greek,HEAD,cifˈal,206
+Ancient_Attic_Greek,EARTH (SOIL),ɡêː,207
+Ancient_Ionic_Greek,EARTH (SOIL),ɡêː,207
+Modern_Demotic_Greek,EARTH (SOIL),xˈoma,208
+Pharasa_Greek,EARTH (SOIL),xˈoma,208
+Southern_Tsakonian,EARTH (SOIL),xˈoma,208
+Southern_Tsakonian,EARTH (SOIL),xˈuma,208
+Western_Cappadocian_Greek,EARTH (SOIL),xˈoma,208
+Ancient_Attic_Greek,YEAR,eniawtós,209
+Ancient_Ionic_Greek,YEAR,étos,210
+Modern_Demotic_Greek,YEAR,xrˈonos,211
+Pharasa_Greek,YEAR,xrˈonos,211
+Southern_Tsakonian,YEAR,xrˈone,211
+Western_Cappadocian_Greek,YEAR,xrˈono,211
+Ancient_Attic_Greek,GOOD,aɡatʰó,212
+Ancient_Ionic_Greek,GOOD,kʰreːstós,213
+Modern_Demotic_Greek,GOOD,kalˈo,214
+Pharasa_Greek,GOOD,kaˈo,214
+Southern_Tsakonian,GOOD,kalˈe,214
+Western_Cappadocian_Greek,GOOD,kalˈo,214
+Ancient_Attic_Greek,ALL,pánt,215
+Ancient_Ionic_Greek,ALL,pánt,215
+Modern_Demotic_Greek,ALL,ˈolo,216
+Southern_Tsakonian,ALL,ˈole,216
+Western_Cappadocian_Greek,ALL,ˈullo,216
+Pharasa_Greek,ALL,pitˈuni,217
+Ancient_Attic_Greek,BITE,dáknoː,218
+Ancient_Ionic_Greek,BITE,dáknoː,218
+Modern_Demotic_Greek,BITE,ðaɡˈono,218
+Pharasa_Greek,BITE,ðˈakno,218
+Western_Cappadocian_Greek,BITE,ðˈakno,218
+Southern_Tsakonian,BITE,kaʦˈinu,219
+Ancient_Attic_Greek,FEATHER,pterón,220
+Ancient_Ionic_Greek,FEATHER,pterón,220
+Modern_Demotic_Greek,FEATHER,fterˈo,220
+Pharasa_Greek,FEATHER,fterˈu,220
+Southern_Tsakonian,FEATHER,fterˈe,220
+Western_Cappadocian_Greek,FEATHER,fterˈo,220
+Ancient_Attic_Greek,FLY (MOVE THROUGH AIR),pétomaj,221
+Ancient_Ionic_Greek,FLY (MOVE THROUGH AIR),pétomaj,221
+Modern_Demotic_Greek,FLY (MOVE THROUGH AIR),petˈo,221
+Pharasa_Greek,FLY (MOVE THROUGH AIR),pettˈao,221
+Southern_Tsakonian,FLY (MOVE THROUGH AIR),petˈu,221
+Western_Cappadocian_Greek,FLY (MOVE THROUGH AIR),petˈano,221
+Ancient_Attic_Greek,THOU,sý,222
+Ancient_Ionic_Greek,THOU,sý,222
+Modern_Demotic_Greek,THOU,esˈi,222
+Pharasa_Greek,THOU,esˈi,222
+Southern_Tsakonian,THOU,ecˈu,222
+Southern_Tsakonian,THOU,etˈi,222
+Western_Cappadocian_Greek,THOU,eʃˈi,222
+Ancient_Attic_Greek,FULL,pléːreː,223
+Ancient_Ionic_Greek,FULL,pléo,223
+Ancient_Attic_Greek,FULL,mestó,224
+Modern_Demotic_Greek,FULL,ʝemˈato,225
+Pharasa_Greek,FULL,emˈo,225
+Southern_Tsakonian,FULL,ʝomˈate,225
+Western_Cappadocian_Greek,FULL,ɣomomˈeno,225
+Ancient_Attic_Greek,CIRCULAR (ROUND IN TWO DIMENSIONS),peripʰeréː,226
+Ancient_Ionic_Greek,CIRCULAR (ROUND IN TWO DIMENSIONS),kykloteréː,227
+Ancient_Attic_Greek,LOUSE,pʰtʰéjr,228
+Ancient_Ionic_Greek,LOUSE,pʰtʰéjr,228
+Modern_Demotic_Greek,LOUSE,psˈira,228
+Pharasa_Greek,LOUSE,fθˈiri,228
+Southern_Tsakonian,LOUSE,psˈira,228
+Western_Cappadocian_Greek,LOUSE,fʧir,228
+Ancient_Attic_Greek,NAME,ónoma,229
+Ancient_Ionic_Greek,NAME,úːnoma,229
+Modern_Demotic_Greek,NAME,ˈonoma,229
+Pharasa_Greek,NAME,ˈonoma,229
+Southern_Tsakonian,NAME,ˈonuma,229
+Western_Cappadocian_Greek,NAME,ˈonoma,229
+Ancient_Attic_Greek,WHO,tí,230
+Ancient_Ionic_Greek,WHO,tí,230
+Pharasa_Greek,WHO,tis,230
+Western_Cappadocian_Greek,WHO,ʧis,230
+Modern_Demotic_Greek,WHO,pçˈo,231
+Southern_Tsakonian,WHO,pˈie,231
+Ancient_Attic_Greek,SUN,héːlios,232
+Ancient_Ionic_Greek,SUN,éːlios,232
+Modern_Demotic_Greek,SUN,ˈiʎos,232
+Pharasa_Greek,SUN,ˈoilos,232
+Southern_Tsakonian,SUN,ˈiʎe,232
+Western_Cappadocian_Greek,SUN,ˈoljos,232

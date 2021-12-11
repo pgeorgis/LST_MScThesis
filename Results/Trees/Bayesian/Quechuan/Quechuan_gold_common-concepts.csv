@@ -1,0 +1,3600 @@
+Language_ID,Feature_ID,IPA,Value
+Apolobamba,COLD,ʧiri,1
+Apurí-Madean-Viñac,COLD,ʧiɾi,1
+Ayacucho,COLD,ʧiɾi,1
+Azuay,COLD,ʧiɾi,1
+Cajamarca,COLD,ʧiri,1
+Chachapoyas,COLD,ʧiri,1
+Chimborazo,COLD,ʧiri,1
+Chocos-Huangáscar,COLD,ʧiɾi,1
+Chuquisaca,COLD,ʧiri,1
+Cochabamba,COLD,ʧiri,1
+Colombian_Inga,COLD,ʧiri,1
+Cuzco,COLD,ʧiri,1
+Eastern-Apurímac,COLD,ʧiri,1
+Huancavelica,COLD,ʧiri,1
+Imbabura,COLD,ʧiɾi,1
+Liscay-San_Pedro,COLD,ʧiɾi,1
+Napo,COLD,ʧiri,1
+Pastaza,COLD,ʧiri,1
+Puno,COLD,ʧiri,1
+San_Martín,COLD,ʧiri,1
+Santiago_del_Estero,COLD,ʧiɾi,1
+Tena,COLD,ʧiri,1
+Apurí-Madean-Viñac,COLD,alalaj,2
+Cacra-Hongos,COLD,alalai̯,2
+Chocos-Huangáscar,COLD,alalai̯,2
+Corongo,COLD,ala la,2
+Huaraz-Huailas,COLD,alaːlai̯,2
+Huaylla-Huanca,COLD,alalaʔ,2
+Jauja-Huanca,COLD,alalaʔ,2
+Laraos,COLD,ala la,2
+Lincha-Tana,COLD,alalai̯,2
+Liscay-San_Pedro,COLD,alalai̯,2
+Pacaraos,COLD,alalai̯,2
+Yaru,COLD,alala,2
+Eastern-Apurímac,COLD,qasa,3
+Huallaga-Huánuco,COLD,qasa,3
+Lambayeque,COLD,xasa,3
+Apolobamba,DOG,alqu,4
+Apurí-Madean-Viñac,DOG,aʎqo,4
+Ayacucho,DOG,aʎχo,4
+Azuay,DOG,aʎku,4
+Cacra-Hongos,DOG,aʎqo,4
+Cajamarca,DOG,aʧʁu,4
+Chachapoyas,DOG,aʥku,4
+Chimborazo,DOG,aʒku,4
+Chocos-Huangáscar,DOG,aʎqo,4
+Chuquisaca,DOG,alqu,4
+Cochabamba,DOG,alʁu,4
+Colombian_Inga,DOG,alku,4
+Corongo,DOG,aʎqu,4
+Cuzco,DOG,alqu,4
+Eastern-Apurímac,DOG,aʎqo,4
+Eastern-Apurímac,DOG,alqo,4
+Huallaga-Huánuco,DOG,aʎqu,4
+Huancavelica,DOG,aʎχu,4
+Huaraz-Huailas,DOG,aʎqu,4
+Huaylla-Huanca,DOG,aʎʔu,4
+Imbabura,DOG,aʎku,4
+Jauja-Huanca,DOG,aʎʔu,4
+Lambayeque,DOG,aʒʁu,4
+Laraos,DOG,alqu,4
+Lincha-Tana,DOG,aʎqo,4
+Liscay-San_Pedro,DOG,aʎqo,4
+Napo,DOG,aʎku,4
+Pacaraos,DOG,alχo,4
+Pastaza,DOG,aʎku,4
+Puno,DOG,alqu,4
+San_Martín,DOG,aʥku,4
+Santiago_del_Estero,DOG,aʒqo,4
+Tena,DOG,aʎku,4
+Yaru,DOG,alχo,4
+Apolobamba,KNOW (SOMETHING),jaʧa,5
+Apurí-Madean-Viñac,KNOW (SOMETHING),jaʈa,5
+Ayacucho,KNOW (SOMETHING),jaʧa,5
+Azuay,KNOW (SOMETHING),jaʧa na,5
+Cacra-Hongos,KNOW (SOMETHING),jaʈa,5
+Cajamarca,KNOW (SOMETHING),jaʈ͡ʂa,5
+Chachapoyas,KNOW (SOMETHING),jaʈ͡ʂa,5
+Chimborazo,KNOW (SOMETHING),jaʧa,5
+Chocos-Huangáscar,KNOW (SOMETHING),jaʈa,5
+Chuquisaca,KNOW (SOMETHING),jaʧa,5
+Cochabamba,KNOW (SOMETHING),jaʧa,5
+Colombian_Inga,KNOW (SOMETHING),jaʧa,5
+Corongo,KNOW (SOMETHING),jaʈ͡ʂa,5
+Cuzco,KNOW (SOMETHING),jaʧa,5
+Eastern-Apurímac,KNOW (SOMETHING),jaʧa,5
+Huallaga-Huánuco,KNOW (SOMETHING),jaʧa,5
+Huancavelica,KNOW (SOMETHING),jaʧa,5
+Huaraz-Huailas,KNOW (SOMETHING),jaʧa,5
+Huaylla-Huanca,KNOW (SOMETHING),jaʈ͡ʂa,5
+Imbabura,KNOW (SOMETHING),jaʧa na,5
+Jauja-Huanca,KNOW (SOMETHING),jaʈ͡ʂa,5
+Lambayeque,KNOW (SOMETHING),jaʈ͡ʂa,5
+Laraos,KNOW (SOMETHING),jaʈ͡ʂa,5
+Lincha-Tana,KNOW (SOMETHING),jaʈa,5
+Liscay-San_Pedro,KNOW (SOMETHING),jaʈa,5
+Napo,KNOW (SOMETHING),jaʧa na,5
+Pacaraos,KNOW (SOMETHING),jaʈ͡ʂa,5
+Pastaza,KNOW (SOMETHING),jaʧa na,5
+Puno,KNOW (SOMETHING),jaʧa,5
+San_Martín,KNOW (SOMETHING),jaʧa,5
+Santiago_del_Estero,KNOW (SOMETHING),jaʧa,5
+Tena,KNOW (SOMETHING),jaʧa,5
+Yaru,KNOW (SOMETHING),jaʈ͡ʂa,5
+Pacaraos,KNOW (SOMETHING),ɾeχi,6
+Apolobamba,CLOUD,pʰuju,7
+Apurí-Madean-Viñac,CLOUD,puju,7
+Ayacucho,CLOUD,puju,7
+Azuay,CLOUD,puju,7
+Chachapoyas,CLOUD,puju,7
+Chimborazo,CLOUD,pʰuju,7
+Chocos-Huangáscar,CLOUD,puju,7
+Chuquisaca,CLOUD,pʰuju,7
+Cochabamba,CLOUD,pʰuju,7
+Colombian_Inga,CLOUD,puju,7
+Cuzco,CLOUD,pʰuju,7
+Eastern-Apurímac,CLOUD,puju,7
+Eastern-Apurímac,CLOUD,fuju,7
+Huancavelica,CLOUD,puju,7
+Imbabura,CLOUD,fuju,7
+Liscay-San_Pedro,CLOUD,puju,7
+Napo,CLOUD,puju,7
+Pastaza,CLOUD,puju,7
+Puno,CLOUD,pʰuju,7
+San_Martín,CLOUD,puju,7
+Santiago_del_Estero,CLOUD,puju,7
+Tena,CLOUD,puju,7
+Cacra-Hongos,CLOUD,pukutai̯,8
+Cajamarca,CLOUD,pukutai̯,8
+Corongo,CLOUD,pukuteː,8
+Huallaga-Huánuco,CLOUD,pukutai̯,8
+Huaraz-Huailas,CLOUD,pukutai̯,8
+Huaylla-Huanca,CLOUD,pukutai̯,8
+Jauja-Huanca,CLOUD,pukutai̯,8
+Lambayeque,CLOUD,puktai̯,8
+Laraos,CLOUD,pukutai̯,8
+Lincha-Tana,CLOUD,pukutai̯,8
+Pacaraos,CLOUD,pukutai̯,8
+Yaru,CLOUD,puɡutai̯,8
+Apolobamba,FOOT,ʧaki,9
+Apurí-Madean-Viñac,FOOT,ʈaki,9
+Ayacucho,FOOT,ʧaki,9
+Azuay,FOOT,ʧaki,9
+Cacra-Hongos,FOOT,ʈaki,9
+Cajamarca,FOOT,ʈ͡ʂaki,9
+Chachapoyas,FOOT,ʈ͡ʂaki,9
+Chimborazo,FOOT,ʧaki,9
+Chocos-Huangáscar,FOOT,ʈaki,9
+Chuquisaca,FOOT,ʧaki,9
+Cochabamba,FOOT,ʧaki,9
+Colombian_Inga,FOOT,ʧaxi,9
+Corongo,FOOT,ʈ͡ʂaki,9
+Cuzco,FOOT,ʧaki,9
+Eastern-Apurímac,FOOT,ʧaki,9
+Huallaga-Huánuco,FOOT,ʧaki,9
+Huancavelica,FOOT,ʧaki,9
+Huaraz-Huailas,FOOT,ʧaki,9
+Huaylla-Huanca,FOOT,ʈ͡ʂaki,9
+Imbabura,FOOT,ʧaki,9
+Jauja-Huanca,FOOT,ʈ͡ʂaki,9
+Lambayeque,FOOT,ʈ͡ʂaki,9
+Laraos,FOOT,ʈ͡ʂaki,9
+Lincha-Tana,FOOT,ʈaki,9
+Liscay-San_Pedro,FOOT,ʈaki,9
+Napo,FOOT,ʧaki,9
+Pacaraos,FOOT,ʈ͡ʂaki,9
+Pastaza,FOOT,ʧaki,9
+Puno,FOOT,ʧaki,9
+San_Martín,FOOT,ʧaki,9
+Santiago_del_Estero,FOOT,ʧaxi,9
+Tena,FOOT,ʧaki,9
+Yaru,FOOT,ʈ͡ʂaɡi,9
+Eastern-Apurímac,FOOT,ataka,10
+Apolobamba,NECK,kunka,11
+Apurí-Madean-Viñac,NECK,kunka,11
+Ayacucho,NECK,kunka,11
+Azuay,NECK,kunɡa,11
+Cacra-Hongos,NECK,kunka,11
+Cajamarca,NECK,kunɡa,11
+Chachapoyas,NECK,kunɡa,11
+Chimborazo,NECK,kunɡa,11
+Chocos-Huangáscar,NECK,kunka,11
+Chuquisaca,NECK,kunka,11
+Cochabamba,NECK,kunka,11
+Colombian_Inga,NECK,kunɡa,11
+Corongo,NECK,kunka,11
+Cuzco,NECK,kunka,11
+Eastern-Apurímac,NECK,kunka,11
+Huallaga-Huánuco,NECK,kunka,11
+Huancavelica,NECK,kunka,11
+Huaraz-Huailas,NECK,kuɲka,11
+Huaylla-Huanca,NECK,kunka,11
+Imbabura,NECK,kunɡa,11
+Jauja-Huanca,NECK,kunka,11
+Lambayeque,NECK,kunɡa,11
+Laraos,NECK,kunka,11
+Lincha-Tana,NECK,kunka,11
+Liscay-San_Pedro,NECK,kunka,11
+Napo,NECK,kunɡa,11
+Pacaraos,NECK,kuŋka,11
+Pastaza,NECK,kunɡa,11
+Puno,NECK,kunka,11
+San_Martín,NECK,kunɡa,11
+Santiago_del_Estero,NECK,kuŋka,11
+Tena,NECK,kunɡa,11
+Yaru,NECK,kuŋka,11
+Apolobamba,STONE,rumi,12
+Apurí-Madean-Viñac,STONE,ɾumi,12
+Ayacucho,STONE,ɾumi,12
+Azuay,STONE,ɾumi,12
+Cacra-Hongos,STONE,lumi,12
+Cajamarca,STONE,rumi,12
+Chachapoyas,STONE,rumi,12
+Chimborazo,STONE,rumi,12
+Chocos-Huangáscar,STONE,ɾumi,12
+Chuquisaca,STONE,r̝umi,12
+Cochabamba,STONE,rumi,12
+Colombian_Inga,STONE,rumi,12
+Corongo,STONE,rumi,12
+Cuzco,STONE,rumi,12
+Eastern-Apurímac,STONE,rumi,12
+Huallaga-Huánuco,STONE,rumi,12
+Huancavelica,STONE,rumi,12
+Huaraz-Huailas,STONE,ɾumi,12
+Huaylla-Huanca,STONE,lumi,12
+Imbabura,STONE,ɾumi,12
+Jauja-Huanca,STONE,lumi,12
+Lambayeque,STONE,r̝umi,12
+Laraos,STONE,rumi,12
+Lincha-Tana,STONE,lumi,12
+Liscay-San_Pedro,STONE,ɾumi,12
+Napo,STONE,rumi,12
+Pacaraos,STONE,rumai̯,12
+Pacaraos,STONE,rumi,12
+Pastaza,STONE,ɾumi,12
+Puno,STONE,rumi,12
+San_Martín,STONE,rumi,12
+Santiago_del_Estero,STONE,ɾumi,12
+Tena,STONE,rumi,12
+Yaru,STONE,ʐumi,12
+Apolobamba,WIND,wai̯ra,13
+Apurí-Madean-Viñac,WIND,wai̯ra,13
+Ayacucho,WIND,wai̯ɾa,13
+Azuay,WIND,wai̯ɾa,13
+Cacra-Hongos,WIND,wai̯la,13
+Cajamarca,WIND,wai̯ra,13
+Chachapoyas,WIND,wai̯ra,13
+Chimborazo,WIND,wai̯ra,13
+Chocos-Huangáscar,WIND,wai̯ɾa,13
+Chuquisaca,WIND,wai̯ra,13
+Cochabamba,WIND,wai̯ra,13
+Colombian_Inga,WIND,wai̯ra,13
+Corongo,WIND,weːra,13
+Cuzco,WIND,wai̯ra,13
+Eastern-Apurímac,WIND,wai̯ra,13
+Huancavelica,WIND,wai̯ra,13
+Huaylla-Huanca,WIND,wai̯wa,13
+Imbabura,WIND,wai̯ɾa,13
+Jauja-Huanca,WIND,wai̯wa,13
+Lambayeque,WIND,wai̯ra,13
+Laraos,WIND,wai̯ra,13
+Lincha-Tana,WIND,wai̯ɾa,13
+Liscay-San_Pedro,WIND,wai̯ɾa,13
+Napo,WIND,wai̯ra,13
+Pastaza,WIND,wai̯ra,13
+Puno,WIND,wai̯ra,13
+San_Martín,WIND,wai̯ra,13
+Santiago_del_Estero,WIND,wai̯ɾa,13
+Tena,WIND,wai̯ra,13
+Huallaga-Huánuco,WIND,vi̯ento,14
+Pacaraos,WIND,bintu,14
+Huaraz-Huailas,WIND,wau̯ja,15
+Apolobamba,KNEE,qunqur,16
+Apurí-Madean-Viñac,KNEE,qonqoɾ,16
+Azuay,KNEE,kunɡuɾi,16
+Cacra-Hongos,KNEE,qonqol,16
+Cajamarca,KNEE,qunɡuri,16
+Chachapoyas,KNEE,kunɡuri,16
+Chocos-Huangáscar,KNEE,qonqoɾ,16
+Colombian_Inga,KNEE,kunɡur,16
+Corongo,KNEE,qunquri,16
+Huallaga-Huánuco,KNEE,qunqur,16
+Huaraz-Huailas,KNEE,qoɲqoɾ,16
+Huaylla-Huanca,KNEE,ʔunʔul,16
+Imbabura,KNEE,kunɡuɾi,16
+Jauja-Huanca,KNEE,ʔunʔul,16
+Lambayeque,KNEE,qunɢuri,16
+Laraos,KNEE,qunqur,16
+Lincha-Tana,KNEE,qonqoɾ,16
+Liscay-San_Pedro,KNEE,qonqoɾ,16
+Napo,KNEE,kunɡuri,16
+Pacaraos,KNEE,χoɴχuɾ,16
+Pastaza,KNEE,kunɡuri,16
+Puno,KNEE,qunquri,16
+San_Martín,KNEE,kunɡuri,16
+Santiago_del_Estero,KNEE,qoŋqoɾi,16
+Yaru,KNEE,χoɴχuʐ,16
+Apurí-Madean-Viñac,KNEE,moqo,17
+Ayacucho,KNEE,moχo,17
+Chocos-Huangáscar,KNEE,moqo,17
+Chuquisaca,KNEE,muqu,17
+Cochabamba,KNEE,ʧaki muʁu,17
+Cuzco,KNEE,muqu,17
+Eastern-Apurímac,KNEE,moqo,17
+Huancavelica,KNEE,muχu,17
+Liscay-San_Pedro,KNEE,moqo,17
+Tena,KNEE,kunɡuri muku,17
+Chimborazo,KNEE,sampi,18
+Apolobamba,WHITE,juraχ,19
+Apurí-Madean-Viñac,WHITE,juɾaq,19
+Ayacucho,WHITE,juɾaχ,19
+Azuay,WHITE,juɾaɡ,19
+Cacra-Hongos,WHITE,julaq,19
+Cajamarca,WHITE,juraq,19
+Chachapoyas,WHITE,jurak,19
+Chimborazo,WHITE,jurax,19
+Chocos-Huangáscar,WHITE,juɾaq,19
+Chuquisaca,WHITE,juraχ,19
+Cochabamba,WHITE,juraχ,19
+Colombian_Inga,WHITE,jura,19
+Corongo,WHITE,juraq,19
+Cuzco,WHITE,juraχ,19
+Eastern-Apurímac,WHITE,juraq,19
+Huallaga-Huánuco,WHITE,juraχ,19
+Huancavelica,WHITE,rujaχ,19
+Huancavelica,WHITE,juraχ,19
+Huaraz-Huailas,WHITE,julaq,19
+Huaylla-Huanca,WHITE,julaʔ,19
+Imbabura,WHITE,juɾax,19
+Jauja-Huanca,WHITE,julaʔ,19
+Lambayeque,WHITE,juraq,19
+Laraos,WHITE,juraχ,19
+Lincha-Tana,WHITE,juɾaq,19
+Liscay-San_Pedro,WHITE,juɾaq,19
+Napo,WHITE,rujaχ,19
+Pacaraos,WHITE,juɾaχ,19
+Pastaza,WHITE,jura,19
+Puno,WHITE,juraχ,19
+San_Martín,WHITE,jurak,19
+Santiago_del_Estero,WHITE,juɾaχ,19
+Tena,WHITE,jurax,19
+Yaru,WHITE,juɾaχ,19
+Eastern-Apurímac,WHITE,ku̯iʎa,20
+Apolobamba,EAT,mikʰu,21
+Apurí-Madean-Viñac,EAT,miku,21
+Ayacucho,EAT,miku,21
+Azuay,EAT,miku na,21
+Cacra-Hongos,EAT,miku,21
+Cajamarca,EAT,miku,21
+Chachapoyas,EAT,miku,21
+Chimborazo,EAT,miku,21
+Chocos-Huangáscar,EAT,miku,21
+Chuquisaca,EAT,mikʰu,21
+Cochabamba,EAT,mikʰu,21
+Colombian_Inga,EAT,miku,21
+Corongo,EAT,miku,21
+Cuzco,EAT,mixu,21
+Eastern-Apurímac,EAT,miχu,21
+Huallaga-Huánuco,EAT,miku,21
+Huancavelica,EAT,miku,21
+Huaraz-Huailas,EAT,miku,21
+Huaylla-Huanca,EAT,miku,21
+Imbabura,EAT,miku na,21
+Jauja-Huanca,EAT,miku,21
+Lambayeque,EAT,miku,21
+Laraos,EAT,miku,21
+Lincha-Tana,EAT,miku,21
+Liscay-San_Pedro,EAT,miku,21
+Napo,EAT,miku na,21
+Pacaraos,EAT,miku,21
+Pacaraos,EAT,mika,21
+Pastaza,EAT,miku na,21
+Puno,EAT,mikʰu,21
+San_Martín,EAT,miku,21
+Santiago_del_Estero,EAT,mixu,21
+Tena,EAT,miku,21
+Yaru,EAT,miku,21
+Eastern-Apurímac,EAT,manja,22
+Eastern-Apurímac,EAT,qastu,23
+Apolobamba,HEAVY,ʎasa,24
+Apurí-Madean-Viñac,HEAVY,ʎasa,24
+Ayacucho,HEAVY,ʎasaχ,24
+Azuay,HEAVY,ʎaʃaɡ,24
+Cacra-Hongos,HEAVY,ʎasa,24
+Cajamarca,HEAVY,ʎaʃa,24
+Chachapoyas,HEAVY,ʥaça,24
+Chimborazo,HEAVY,ʒaʃa,24
+Chocos-Huangáscar,HEAVY,ʎasa,24
+Chuquisaca,HEAVY,ʎasa,24
+Cochabamba,HEAVY,ʎasa,24
+Colombian_Inga,HEAVY,ʎasa,24
+Corongo,HEAVY,lasa,24
+Cuzco,HEAVY,ʎasa,24
+Eastern-Apurímac,HEAVY,ʎasa,24
+Huallaga-Huánuco,HEAVY,lasa,24
+Huancavelica,HEAVY,ʎasa,24
+Huaraz-Huailas,HEAVY,lasaq,24
+Huaylla-Huanca,HEAVY,ʎasaʔ,24
+Imbabura,HEAVY,ʎaʃax,24
+Jauja-Huanca,HEAVY,ʎasaʔ,24
+Lambayeque,HEAVY,ʒaʃa,24
+Laraos,HEAVY,ʎasa,24
+Lincha-Tana,HEAVY,ʎasa,24
+Liscay-San_Pedro,HEAVY,ʎasa,24
+Napo,HEAVY,ʎaʃa,24
+Pacaraos,HEAVY,lasa,24
+Pastaza,HEAVY,ʎaʃa,24
+Puno,HEAVY,ʎasa,24
+San_Martín,HEAVY,ʥaça,24
+Santiago_del_Estero,HEAVY,lasaχ,24
+Tena,HEAVY,ʎaʃa,24
+Yaru,HEAVY,lasa,24
+Eastern-Apurímac,HEAVY,panra,25
+Eastern-Apurímac,HEAVY,qasupa,26
+Apolobamba,TAIL,ʧupa,27
+Apurí-Madean-Viñac,TAIL,ʈupa,27
+Ayacucho,TAIL,ʧupa,27
+Azuay,TAIL,ʧupa,27
+Cacra-Hongos,TAIL,ʈupa,27
+Cajamarca,TAIL,ʈ͡ʂupa,27
+Chachapoyas,TAIL,ʈ͡ʂupa,27
+Chimborazo,TAIL,ʧupa,27
+Chocos-Huangáscar,TAIL,ʈupa,27
+Chuquisaca,TAIL,ʧupa,27
+Cochabamba,TAIL,ʧupa,27
+Colombian_Inga,TAIL,ʧupa,27
+Corongo,TAIL,ʈ͡ʂupa,27
+Cuzco,TAIL,ʧupa,27
+Eastern-Apurímac,TAIL,ʧupa,27
+Huallaga-Huánuco,TAIL,ʧupa,27
+Huancavelica,TAIL,ʧupa,27
+Huaraz-Huailas,TAIL,ʧupa,27
+Huaylla-Huanca,TAIL,ʈ͡ʂupa,27
+Imbabura,TAIL,ʧupa,27
+Jauja-Huanca,TAIL,ʈ͡ʂupa,27
+Lambayeque,TAIL,ʈ͡ʂupa,27
+Laraos,TAIL,ʈ͡ʂupa,27
+Lincha-Tana,TAIL,ʈupa,27
+Liscay-San_Pedro,TAIL,ʈupa,27
+Napo,TAIL,ʧupa,27
+Pacaraos,TAIL,ʈ͡ʂupa,27
+Pastaza,TAIL,ʧupa,27
+Puno,TAIL,ʧupa,27
+San_Martín,TAIL,ʧupa,27
+Santiago_del_Estero,TAIL,ʧupa,27
+Tena,TAIL,ʧupa,27
+Yaru,TAIL,ʈ͡ʂuba,27
+Apolobamba,FIVE,piʧqa,28
+Apurí-Madean-Viñac,FIVE,piʧqa,28
+Ayacucho,FIVE,piʧχa,28
+Azuay,FIVE,piʧka,28
+Cacra-Hongos,FIVE,piʧqa,28
+Cajamarca,FIVE,piʧʁa,28
+Chachapoyas,FIVE,piʧka,28
+Chimborazo,FIVE,piʧka,28
+Chocos-Huangáscar,FIVE,piʧqa,28
+Chuquisaca,FIVE,piʃqa,28
+Cochabamba,FIVE,pʰiʃʁa,28
+Colombian_Inga,FIVE,piʧka,28
+Corongo,FIVE,piʦqa,28
+Cuzco,FIVE,pisqa,28
+Eastern-Apurímac,FIVE,piska,28
+Eastern-Apurímac,FIVE,piʧqa,28
+Huallaga-Huánuco,FIVE,piʧqa,28
+Huancavelica,FIVE,piʧχa,28
+Huancavelica,FIVE,piʧqa,28
+Huaraz-Huailas,FIVE,piʦqa,28
+Huaylla-Huanca,FIVE,piʧʔa,28
+Imbabura,FIVE,piʃka,28
+Jauja-Huanca,FIVE,piʧʔa,28
+Laraos,FIVE,piʧqa,28
+Lincha-Tana,FIVE,piʧqa,28
+Liscay-San_Pedro,FIVE,piʧqa,28
+Napo,FIVE,piʧka,28
+Pacaraos,FIVE,pisʁa,28
+Pastaza,FIVE,piʧka,28
+Puno,FIVE,pisqa,28
+San_Martín,FIVE,piʧka,28
+Santiago_del_Estero,FIVE,piʃqa,28
+Tena,FIVE,piʧka,28
+Yaru,FIVE,piʧχa,28
+Lambayeque,FIVE,sinko,29
+Apolobamba,TOOTH,kiru,30
+Apurí-Madean-Viñac,TOOTH,kiɾu,30
+Ayacucho,TOOTH,kiɾu,30
+Azuay,TOOTH,kiɾu,30
+Cacra-Hongos,TOOTH,kilu,30
+Cajamarca,TOOTH,kiru,30
+Chachapoyas,TOOTH,kiru,30
+Chimborazo,TOOTH,kiru,30
+Chocos-Huangáscar,TOOTH,kiɾu,30
+Chuquisaca,TOOTH,kiru,30
+Cochabamba,TOOTH,kiru,30
+Colombian_Inga,TOOTH,xiru,30
+Corongo,TOOTH,kiru,30
+Cuzco,TOOTH,kiru,30
+Eastern-Apurímac,TOOTH,kiru,30
+Huallaga-Huánuco,TOOTH,kiru,30
+Huancavelica,TOOTH,kiru,30
+Huaraz-Huailas,TOOTH,kiɾu,30
+Huaylla-Huanca,TOOTH,kilu,30
+Imbabura,TOOTH,kiɾu,30
+Jauja-Huanca,TOOTH,kilu,30
+Lambayeque,TOOTH,kiru,30
+Laraos,TOOTH,kiru,30
+Lincha-Tana,TOOTH,kiɾu,30
+Liscay-San_Pedro,TOOTH,kiɾu,30
+Napo,TOOTH,kiru,30
+Pacaraos,TOOTH,kiɾu,30
+Pastaza,TOOTH,kiru,30
+Puno,TOOTH,kiru,30
+San_Martín,TOOTH,kiru,30
+Santiago_del_Estero,TOOTH,kiɾu,30
+Tena,TOOTH,kiru,30
+Yaru,TOOTH,kiɾu,30
+Apolobamba,SEW,siɾa,31
+Apurí-Madean-Viñac,SEW,siɾa,31
+Ayacucho,SEW,siɾa,31
+Azuay,SEW,siɾa na,31
+Cacra-Hongos,SEW,sila,31
+Cajamarca,SEW,siɾa,31
+Chachapoyas,SEW,siɾa,31
+Chimborazo,SEW,siɾa,31
+Chocos-Huangáscar,SEW,siɾa,31
+Chuquisaca,SEW,siɾa,31
+Cochabamba,SEW,siɾa,31
+Colombian_Inga,SEW,siɾa,31
+Corongo,SEW,ira,31
+Cuzco,SEW,siɾa,31
+Eastern-Apurímac,SEW,siɾa,31
+Huallaga-Huánuco,SEW,hiɾa,31
+Huancavelica,SEW,siɾa,31
+Huaraz-Huailas,SEW,xiɾa,31
+Huaylla-Huanca,SEW,hila,31
+Imbabura,SEW,siɾa na,31
+Lambayeque,SEW,siɾa,31
+Laraos,SEW,siɾa,31
+Lincha-Tana,SEW,siɾa,31
+Liscay-San_Pedro,SEW,siɾa,31
+Napo,SEW,siɾa na,31
+Pacaraos,SEW,xiɾa,31
+Pastaza,SEW,siɾa na,31
+Puno,SEW,siɾa,31
+San_Martín,SEW,siɾa,31
+Santiago_del_Estero,SEW,seɾa,31
+Tena,SEW,siɾa,31
+Yaru,SEW,χeɾa,31
+Apurí-Madean-Viñac,SEW,utka,32
+Cacra-Hongos,SEW,utka,32
+Chocos-Huangáscar,SEW,utka,32
+Lincha-Tana,SEW,utka,32
+Liscay-San_Pedro,SEW,utka,32
+Apolobamba,WATER,unu,33
+Cuzco,WATER,unu,33
+Eastern-Apurímac,WATER,unu,33
+Puno,WATER,unu,33
+Apurí-Madean-Viñac,WATER,jaku,34
+Ayacucho,WATER,jaku,34
+Azuay,WATER,jaku,34
+Cacra-Hongos,WATER,jaku,34
+Cajamarca,WATER,jaku,34
+Chachapoyas,WATER,jaku,34
+Chimborazo,WATER,jaku,34
+Chocos-Huangáscar,WATER,jaku,34
+Chuquisaca,WATER,jaku,34
+Cochabamba,WATER,jaku,34
+Colombian_Inga,WATER,jaku,34
+Corongo,WATER,jaku,34
+Eastern-Apurímac,WATER,jaku,34
+Huallaga-Huánuco,WATER,jaku,34
+Huancavelica,WATER,jaku,34
+Huaraz-Huailas,WATER,jaku,34
+Huaylla-Huanca,WATER,jaku,34
+Imbabura,WATER,jaku,34
+Jauja-Huanca,WATER,jaku,34
+Lambayeque,WATER,jaku,34
+Laraos,WATER,jaku,34
+Lincha-Tana,WATER,jaku,34
+Liscay-San_Pedro,WATER,jaku,34
+Napo,WATER,jaku,34
+Pacaraos,WATER,jaku,34
+Pastaza,WATER,jaku,34
+San_Martín,WATER,jaku,34
+Santiago_del_Estero,WATER,jaxu,34
+Tena,WATER,jaku,34
+Yaru,WATER,jaɡu,34
+Eastern-Apurímac,WATER,ʧuʎʧu̯i,35
+Apolobamba,ROAD,ɲan,36
+Ayacucho,ROAD,ɲaŋ,36
+Azuay,ROAD,ɲan,36
+Cajamarca,ROAD,ɲan,36
+Chachapoyas,ROAD,ɲan,36
+Chimborazo,ROAD,ɲan,36
+Chuquisaca,ROAD,jan,36
+Cochabamba,ROAD,jan,36
+Colombian_Inga,ROAD,ɲam bi,36
+Corongo,ROAD,naːni,36
+Cuzco,ROAD,ɲan,36
+Eastern-Apurímac,ROAD,ɲan,36
+Huallaga-Huánuco,ROAD,naːni,36
+Huaraz-Huailas,ROAD,ɲaːɲi,36
+Imbabura,ROAD,ɲan,36
+Napo,ROAD,ɲam bi,36
+Pastaza,ROAD,ɲam bi,36
+Puno,ROAD,ɲan,36
+San_Martín,ROAD,ɲan,36
+Santiago_del_Estero,ROAD,ɲan,36
+Tena,ROAD,ɲan,36
+Huancavelica,ROAD,kamino,37
+Laraos,ROAD,kaminu,37
+Yaru,ROAD,kaminu,37
+Huaylla-Huanca,ROAD,puli na,38
+Pastaza,ROAD,ʈ͡ʂuʧa,39
+Apolobamba,LEAF,rapʰi,40
+Ayacucho,LEAF,ʎaχe,40
+Ayacucho,LEAF,ɾapi,40
+Chuquisaca,LEAF,laqʰi,40
+Cochabamba,LEAF,laqʰi,40
+Cuzco,LEAF,rapʼi,40
+Cuzco,LEAF,rapʰa,40
+Cuzco,LEAF,rapʼa,40
+Cuzco,LEAF,rapʰi,40
+Eastern-Apurímac,LEAF,rapi,40
+Huancavelica,LEAF,rapi,40
+Puno,LEAF,lapʰi,40
+Apurí-Madean-Viñac,LEAF,ɾapɾi,41
+Cacra-Hongos,LEAF,ʃapla,41
+Cajamarca,LEAF,rapra,41
+Chachapoyas,LEAF,rapra,41
+Chocos-Huangáscar,LEAF,ɾapɾa,41
+Corongo,LEAF,rapra,41
+Huallaga-Huánuco,LEAF,rapra,41
+Huaylla-Huanca,LEAF,lapla,41
+Jauja-Huanca,LEAF,lapla,41
+Lambayeque,LEAF,r̝apra,41
+Laraos,LEAF,lapra,41
+Liscay-San_Pedro,LEAF,ɾapɾa,41
+Pacaraos,LEAF,ɾapɾa,41
+San_Martín,LEAF,rapra,41
+Yaru,LEAF,ʐapɾa,41
+Apurí-Madean-Viñac,LEAF,juɾa,42
+Chocos-Huangáscar,LEAF,juɾa,42
+Azuay,LEAF,panɡa,43
+Chimborazo,LEAF,pʰanɡa,43
+Colombian_Inga,LEAF,panɡa,43
+Imbabura,LEAF,fanɡa,43
+Napo,LEAF,panɡa,43
+Pastaza,LEAF,panɡa,43
+Tena,LEAF,panɡa,43
+Cacra-Hongos,LEAF,ʃuja,44
+Huaraz-Huailas,LEAF,matu,45
+Apolobamba,HOT OR WARM,ʎiχti,46
+Apurí-Madean-Viñac,HOT OR WARM,qoni,47
+Ayacucho,HOT OR WARM,χoɲi,47
+Azuay,HOT OR WARM,kunuɡ,47
+Cacra-Hongos,HOT OR WARM,qoni,47
+Cajamarca,HOT OR WARM,quɲu χ,47
+Chachapoyas,HOT OR WARM,kuɲu,47
+Chimborazo,HOT OR WARM,kunu x,47
+Chimborazo,HOT OR WARM,kunu x ʒa,47
+Chocos-Huangáscar,HOT OR WARM,qoni,47
+Chuquisaca,HOT OR WARM,qʼuɲi,47
+Colombian_Inga,HOT OR WARM,kunu,47
+Cuzco,HOT OR WARM,qʼuɲi,47
+Eastern-Apurímac,HOT OR WARM,qoɲi,47
+Huancavelica,HOT OR WARM,χuni,47
+Imbabura,HOT OR WARM,kunku ʎa,47
+Lambayeque,HOT OR WARM,χuɲu χ,47
+Lincha-Tana,HOT OR WARM,qoni,47
+Liscay-San_Pedro,HOT OR WARM,qoni,47
+Pacaraos,HOT OR WARM,χoɲu,47
+Puno,HOT OR WARM,qʼuɲi,47
+San_Martín,HOT OR WARM,kuɲu,47
+Yaru,HOT OR WARM,χonu,47
+Cochabamba,HOT OR WARM,rupʰa,48
+Cochabamba,HOT OR WARM,r̝upʰa,48
+Colombian_Inga,HOT OR WARM,rupa,48
+Napo,HOT OR WARM,rupa,48
+Pastaza,HOT OR WARM,ɾupa,48
+Santiago_del_Estero,HOT OR WARM,ɾupaχ,48
+Tena,HOT OR WARM,rupa k,48
+Corongo,HOT OR WARM,aʧa ʧa q,49
+Huallaga-Huánuco,HOT OR WARM,aka χ,49
+Huaylla-Huanca,HOT OR WARM,akaʈ͡ʂaq,49
+Jauja-Huanca,HOT OR WARM,akaʈ͡ʂaq,49
+Laraos,HOT OR WARM,aka ʧa q,49
+Yaru,HOT OR WARM,aka,49
+Apolobamba,HEAR,uja ɾi,50
+Apurí-Madean-Viñac,HEAR,uja ɾi,50
+Ayacucho,HEAR,uja ɾi,50
+Azuay,HEAR,uja na,50
+Cacra-Hongos,HEAR,uja li,50
+Cajamarca,HEAR,uja,50
+Chimborazo,HEAR,uja,50
+Chocos-Huangáscar,HEAR,uja ɾi,50
+Chuquisaca,HEAR,uja ɾi,50
+Cochabamba,HEAR,uja ɾi,50
+Colombian_Inga,HEAR,uja,50
+Cuzco,HEAR,uja ɾi,50
+Huancavelica,HEAR,uja ri,50
+Huaylla-Huanca,HEAR,uja li,50
+Imbabura,HEAR,uja na,50
+Jauja-Huanca,HEAR,uja,50
+Lambayeque,HEAR,uja,50
+Laraos,HEAR,uja ɾi,50
+Lincha-Tana,HEAR,uja ɾi,50
+Liscay-San_Pedro,HEAR,uja ɾi,50
+Napo,HEAR,uja na,50
+Pacaraos,HEAR,uja,50
+Pastaza,HEAR,uja na,50
+Puno,HEAR,uja ɾi,50
+San_Martín,HEAR,uja ri,50
+Santiago_del_Estero,HEAR,uja ɾiː,50
+Tena,HEAR,uja,50
+Yaru,HEAR,uja,50
+Chachapoyas,HEAR,wija ri,51
+Corongo,HEAR,wija,51
+Huallaga-Huánuco,HEAR,wija,51
+Huaraz-Huailas,HEAR,wija,51
+Apolobamba,DIE,waɲu,52
+Apurí-Madean-Viñac,DIE,waɲu,52
+Ayacucho,DIE,waɲu,52
+Azuay,DIE,waɲu na,52
+Cacra-Hongos,DIE,waɲu,52
+Cajamarca,DIE,waɲu,52
+Chachapoyas,DIE,waɲu,52
+Chimborazo,DIE,waɲu,52
+Chocos-Huangáscar,DIE,waɲu,52
+Chuquisaca,DIE,waɲu,52
+Cochabamba,DIE,waɲu,52
+Colombian_Inga,DIE,waɲu,52
+Corongo,DIE,waɲu,52
+Cuzco,DIE,waɲu,52
+Eastern-Apurímac,DIE,waɲu,52
+Huallaga-Huánuco,DIE,waɲu,52
+Huancavelica,DIE,waɲu,52
+Huaraz-Huailas,DIE,waɲu,52
+Huaylla-Huanca,DIE,waɲu,52
+Imbabura,DIE,waɲu na,52
+Jauja-Huanca,DIE,waɲu,52
+Lambayeque,DIE,wanu,52
+Laraos,DIE,waɲu,52
+Lincha-Tana,DIE,waɲu,52
+Liscay-San_Pedro,DIE,waɲu,52
+Napo,DIE,waɲu na,52
+Pacaraos,DIE,waɲu ku,52
+Pastaza,DIE,waɲu na,52
+Puno,DIE,waɲu,52
+San_Martín,DIE,waɲu,52
+Santiago_del_Estero,DIE,waɲu,52
+Tena,DIE,waɲu,52
+Yaru,DIE,wanu,52
+Colombian_Inga,DIE,ʧinɡa ri,53
+Apolobamba,BACK,wasa,54
+Apurí-Madean-Viñac,BACK,waʃa,54
+Ayacucho,BACK,wasa,54
+Azuay,BACK,waʃa,54
+Cacra-Hongos,BACK,waʃa,54
+Chachapoyas,BACK,waʃa,54
+Chimborazo,BACK,waʃa,54
+Chocos-Huangáscar,BACK,waʃa,54
+Chuquisaca,BACK,wasa,54
+Cochabamba,BACK,wasa,54
+Colombian_Inga,BACK,wasa,54
+Cuzco,BACK,wasa,54
+Eastern-Apurímac,BACK,wasa,54
+Huancavelica,BACK,wasa,54
+Huaylla-Huanca,BACK,waʂa,54
+Imbabura,BACK,waʃa,54
+Jauja-Huanca,BACK,waʂa,54
+Laraos,BACK,waʃa,54
+Lincha-Tana,BACK,waʃa,54
+Liscay-San_Pedro,BACK,waʃa,54
+Napo,BACK,waʃa,54
+Pacaraos,BACK,waʃa,54
+Pastaza,BACK,waʃa,54
+Puno,BACK,wasa,54
+San_Martín,BACK,waʃa,54
+Santiago_del_Estero,BACK,wasa,54
+Tena,BACK,waʃa,54
+Yaru,BACK,waʃa,54
+Cajamarca,BACK,waxta,55
+Corongo,BACK,waqta,55
+Corongo,BACK,waχta,55
+Huallaga-Huánuco,BACK,waχta,55
+Huaraz-Huailas,BACK,waqta,55
+Lambayeque,BACK,waχta,55
+Apolobamba,DRINK,upja,56
+Apurí-Madean-Viñac,DRINK,upja,56
+Ayacucho,DRINK,upja,56
+Azuay,DRINK,upja na,56
+Cacra-Hongos,DRINK,upja,56
+Cajamarca,DRINK,upja,56
+Chachapoyas,DRINK,upja,56
+Chimborazo,DRINK,ubja,56
+Chocos-Huangáscar,DRINK,upja,56
+Chuquisaca,DRINK,uxja,56
+Cochabamba,DRINK,uxja,56
+Colombian_Inga,DRINK,upja,56
+Corongo,DRINK,upja,56
+Cuzco,DRINK,uxja,56
+Eastern-Apurímac,DRINK,upja,56
+Huancavelica,DRINK,upja,56
+Huaylla-Huanca,DRINK,upja,56
+Imbabura,DRINK,ufja na,56
+Jauja-Huanca,DRINK,upja,56
+Lambayeque,DRINK,upja,56
+Laraos,DRINK,upja,56
+Lincha-Tana,DRINK,upja,56
+Liscay-San_Pedro,DRINK,upja,56
+Pacaraos,DRINK,upja,56
+Pastaza,DRINK,upja na,56
+Puno,DRINK,uxa,56
+San_Martín,DRINK,upja,56
+Santiago_del_Estero,DRINK,upja,56
+Yaru,DRINK,upja,56
+Huaraz-Huailas,DRINK,bebeɾ,57
+Napo,DRINK,upi na,58
+Tena,DRINK,upi,58
+Apolobamba,NEW,musuχ,59
+Apurí-Madean-Viñac,NEW,muʃoq,59
+Ayacucho,NEW,mosoχ,59
+Azuay,NEW,muʃuɡ,59
+Cacra-Hongos,NEW,muʃoq,59
+Cajamarca,NEW,muʃuχ,59
+Chachapoyas,NEW,muʃuk,59
+Chimborazo,NEW,muʃux,59
+Chocos-Huangáscar,NEW,muʃoq,59
+Chuquisaca,NEW,musuχ,59
+Cochabamba,NEW,musuχ,59
+Colombian_Inga,NEW,musu,59
+Corongo,NEW,muʃuq,59
+Cuzco,NEW,musuχ,59
+Eastern-Apurímac,NEW,mosoq,59
+Eastern-Apurímac,NEW,musuq,59
+Huallaga-Huánuco,NEW,muʃuχ,59
+Huancavelica,NEW,musuχ,59
+Huaraz-Huailas,NEW,muʃoq,59
+Huaylla-Huanca,NEW,muʂuʔ,59
+Imbabura,NEW,muʃux,59
+Jauja-Huanca,NEW,muʂuʔ,59
+Lambayeque,NEW,muʃux,59
+Laraos,NEW,muʃuq,59
+Lincha-Tana,NEW,muʃoq,59
+Liscay-San_Pedro,NEW,muʃoq,59
+Napo,NEW,muʃu,59
+Pacaraos,NEW,muʃoχ,59
+Pastaza,NEW,muʃu,59
+Puno,NEW,musuχ,59
+San_Martín,NEW,muʃuk,59
+Santiago_del_Estero,NEW,mosoχ,59
+Tena,NEW,muʃux,59
+Yaru,NEW,muʃoχ,59
+Apolobamba,NOT,mana,60
+Apurí-Madean-Viñac,NOT,mana,60
+Ayacucho,NOT,mana,60
+Azuay,NOT,mana,60
+Cacra-Hongos,NOT,mana,60
+Cajamarca,NOT,mana,60
+Chachapoyas,NOT,mana,60
+Chimborazo,NOT,mana,60
+Chocos-Huangáscar,NOT,mana,60
+Chuquisaca,NOT,mana,60
+Cochabamba,NOT,mana,60
+Colombian_Inga,NOT,mana,60
+Corongo,NOT,mana,60
+Cuzco,NOT,mana,60
+Eastern-Apurímac,NOT,mana,60
+Huallaga-Huánuco,NOT,mana,60
+Huancavelica,NOT,mana,60
+Huaraz-Huailas,NOT,maɲa,60
+Huaylla-Huanca,NOT,mana,60
+Imbabura,NOT,mana,60
+Jauja-Huanca,NOT,mana,60
+Lambayeque,NOT,mana,60
+Laraos,NOT,mana,60
+Lincha-Tana,NOT,mana,60
+Liscay-San_Pedro,NOT,mana,60
+Napo,NOT,mana,60
+Pacaraos,NOT,mana,60
+Pastaza,NOT,mana,60
+Puno,NOT,mana,60
+San_Martín,NOT,mana,60
+Santiago_del_Estero,NOT,mana,60
+Tena,NOT,mana,60
+Yaru,NOT,mana,60
+Apolobamba,SIT,tija,61
+Apurí-Madean-Viñac,SIT,tija,61
+Ayacucho,SIT,tija,61
+Azuay,SIT,tija ɾi ku na,61
+Cacra-Hongos,SIT,tija,61
+Cajamarca,SIT,tija,61
+Chachapoyas,SIT,tija,61
+Chimborazo,SIT,tija,61
+Chocos-Huangáscar,SIT,tija,61
+Chuquisaca,SIT,tija,61
+Cochabamba,SIT,tija,61
+Colombian_Inga,SIT,tija ku,61
+Cuzco,SIT,tija,61
+Eastern-Apurímac,SIT,tija,61
+Huancavelica,SIT,tija,61
+Huaylla-Huanca,SIT,tiju,61
+Imbabura,SIT,tija ɾina,61
+Jauja-Huanca,SIT,tiju,61
+Lambayeque,SIT,ta,61
+Laraos,SIT,tija,61
+Lincha-Tana,SIT,tija,61
+Liscay-San_Pedro,SIT,tija,61
+Napo,SIT,tija rina,61
+Pacaraos,SIT,tai̯ ku,61
+Pastaza,SIT,tiraji na,61
+Puno,SIT,tija,61
+San_Martín,SIT,tija,61
+Santiago_del_Estero,SIT,tiːja xu,61
+Tena,SIT,tija,61
+Yaru,SIT,taː ku,61
+Corongo,SIT,ama,62
+Huallaga-Huánuco,SIT,hama,62
+Eastern-Apurímac,SIT,paʧi,63
+Pacaraos,SIT,kukaɾaː,64
+Pacaraos,SIT,ʧapaɾaː,65
+Apolobamba,EGG,runtu,66
+Apurí-Madean-Viñac,EGG,ɾuntu,66
+Ayacucho,EGG,ɾuntu,66
+Cacra-Hongos,EGG,luntu,66
+Chachapoyas,EGG,rundu,66
+Chocos-Huangáscar,EGG,ɾuntu,66
+Chuquisaca,EGG,r̝untu,66
+Cochabamba,EGG,r̝untu,66
+Corongo,EGG,runtu,66
+Cuzco,EGG,runtu,66
+Eastern-Apurímac,EGG,runtu,66
+Huallaga-Huánuco,EGG,runtu,66
+Huancavelica,EGG,runtu,66
+Huaylla-Huanca,EGG,luntu,66
+Lambayeque,EGG,r̝undu,66
+Laraos,EGG,runtu,66
+Lincha-Tana,EGG,luntu,66
+Liscay-San_Pedro,EGG,ɾuntu,66
+Puno,EGG,runtu,66
+San_Martín,EGG,rundu,66
+Santiago_del_Estero,EGG,ɾuntu,66
+Azuay,EGG,ɾuru,67
+Cajamarca,EGG,ruru,67
+Chimborazo,EGG,lulun,67
+Huaraz-Huailas,EGG,ɾuɾu,67
+Imbabura,EGG,lulun,67
+Jauja-Huanca,EGG,lulu,67
+Napo,EGG,lulun,67
+Pacaraos,EGG,ɾuɾu,67
+Pastaza,EGG,lulun,67
+Tena,EGG,lulun,67
+Yaru,EGG,ʐuɾu,67
+Apolobamba,RAINING OR RAIN,para,68
+Apurí-Madean-Viñac,RAINING OR RAIN,paɾa,68
+Ayacucho,RAINING OR RAIN,paɾa,68
+Cacra-Hongos,RAINING OR RAIN,pala,68
+Chocos-Huangáscar,RAINING OR RAIN,paɾa,68
+Chuquisaca,RAINING OR RAIN,para,68
+Cochabamba,RAINING OR RAIN,para,68
+Cuzco,RAINING OR RAIN,para,68
+Eastern-Apurímac,RAINING OR RAIN,para,68
+Huancavelica,RAINING OR RAIN,para,68
+Lincha-Tana,RAINING OR RAIN,paɾa,68
+Liscay-San_Pedro,RAINING OR RAIN,paɾa,68
+Puno,RAINING OR RAIN,para,68
+Santiago_del_Estero,RAINING OR RAIN,paɾa,68
+Azuay,RAINING OR RAIN,tamja,69
+Cajamarca,RAINING OR RAIN,tamja,69
+Chachapoyas,RAINING OR RAIN,tamja,69
+Chimborazo,RAINING OR RAIN,tamja,69
+Colombian_Inga,RAINING OR RAIN,tamja,69
+Corongo,RAINING OR RAIN,tamja,69
+Huallaga-Huánuco,RAINING OR RAIN,tamja,69
+Huaraz-Huailas,RAINING OR RAIN,tamja,69
+Huaylla-Huanca,RAINING OR RAIN,tamja,69
+Imbabura,RAINING OR RAIN,tamja,69
+Jauja-Huanca,RAINING OR RAIN,tamja,69
+Lambayeque,RAINING OR RAIN,tamja,69
+Laraos,RAINING OR RAIN,tamja,69
+Napo,RAINING OR RAIN,tamja,69
+Pacaraos,RAINING OR RAIN,tamja,69
+Pastaza,RAINING OR RAIN,tamja,69
+San_Martín,RAINING OR RAIN,tamja,69
+Tena,RAINING OR RAIN,tamja,69
+Yaru,RAINING OR RAIN,tanja,69
+Apolobamba,ROOT,sapʰi,70
+Apurí-Madean-Viñac,ROOT,sapi,70
+Ayacucho,ROOT,sapi,70
+Azuay,ROOT,sapi,70
+Cacra-Hongos,ROOT,sapi,70
+Chachapoyas,ROOT,sapi,70
+Chimborazo,ROOT,sapi,70
+Chimborazo,ROOT,sipi,70
+Chocos-Huangáscar,ROOT,sapi,70
+Chuquisaca,ROOT,sapʰi,70
+Cochabamba,ROOT,sapʰi,70
+Cuzco,ROOT,sapʰi,70
+Eastern-Apurímac,ROOT,sapi,70
+Huallaga-Huánuco,ROOT,sapi,70
+Huancavelica,ROOT,sapi,70
+Huaylla-Huanca,ROOT,sipi,70
+Imbabura,ROOT,sapi,70
+Jauja-Huanca,ROOT,sipi,70
+Lincha-Tana,ROOT,sapi,70
+Liscay-San_Pedro,ROOT,sapi,70
+Pacaraos,ROOT,sapi,70
+Puno,ROOT,sapʰi,70
+San_Martín,ROOT,sapi,70
+Santiago_del_Estero,ROOT,sapi,70
+Yaru,ROOT,sapi,70
+Cajamarca,ROOT,ʈ͡ʂupa,71
+Corongo,ROOT,ʈ͡ʂapa,71
+Lambayeque,ROOT,ʈ͡ʂupa,71
+Chimborazo,ROOT,pisi,72
+Colombian_Inga,ROOT,anɡu,73
+Napo,ROOT,anɡu,73
+Pastaza,ROOT,anɡu,73
+Tena,ROOT,anɡu,73
+Laraos,ROOT,raiz,74
+Apolobamba,FIRE,nina,75
+Apurí-Madean-Viñac,FIRE,nina,75
+Ayacucho,FIRE,nina,75
+Azuay,FIRE,nina,75
+Cacra-Hongos,FIRE,nina,75
+Cajamarca,FIRE,nina,75
+Chachapoyas,FIRE,nina,75
+Chimborazo,FIRE,nina,75
+Chocos-Huangáscar,FIRE,nina,75
+Chuquisaca,FIRE,nina,75
+Cochabamba,FIRE,nina,75
+Colombian_Inga,FIRE,nina,75
+Corongo,FIRE,nina,75
+Cuzco,FIRE,nina,75
+Eastern-Apurímac,FIRE,nina,75
+Huallaga-Huánuco,FIRE,nina,75
+Huancavelica,FIRE,nina,75
+Huaraz-Huailas,FIRE,ɲiɲa,75
+Huaylla-Huanca,FIRE,nina,75
+Imbabura,FIRE,nina,75
+Jauja-Huanca,FIRE,nina,75
+Lambayeque,FIRE,nina,75
+Laraos,FIRE,nina,75
+Lincha-Tana,FIRE,nina,75
+Liscay-San_Pedro,FIRE,nina,75
+Napo,FIRE,nina,75
+Pacaraos,FIRE,nina,75
+Pastaza,FIRE,nina,75
+Puno,FIRE,nina,75
+San_Martín,FIRE,nina,75
+Santiago_del_Estero,FIRE,nina,75
+Tena,FIRE,nina,75
+Yaru,FIRE,nina,75
+Apolobamba,OLD (OF MAN),maʧu la,76
+Apurí-Madean-Viñac,OLD (OF MAN),maʧu,76
+Ayacucho,OLD (OF MAN),maʧu,76
+Chachapoyas,OLD (OF MAN),maʧu,76
+Chocos-Huangáscar,OLD (OF MAN),maʧu,76
+Cuzco,OLD (OF MAN),maʧu,76
+Eastern-Apurímac,OLD (OF MAN),maʧu,76
+Huancavelica,OLD (OF MAN),maʧu,76
+Liscay-San_Pedro,OLD (OF MAN),maʧu,76
+Puno,OLD (OF MAN),maʧu,76
+San_Martín,OLD (OF MAN),maʧu,76
+Santiago_del_Estero,OLD (OF MAN),maʧu,76
+Azuay,OLD (OF MAN),ɾuku,77
+Chimborazo,OLD (OF MAN),r̝uku,77
+Colombian_Inga,OLD (OF MAN),ruku,77
+Lambayeque,OLD (OF MAN),r̝uku,77
+Napo,OLD (OF MAN),ruku,77
+Pastaza,OLD (OF MAN),ɾuku,77
+Tena,OLD (OF MAN),ruku,77
+Cacra-Hongos,OLD (OF MAN),au̯kiʃ,78
+Corongo,OLD (OF MAN),au̯kis,78
+Huallaga-Huánuco,OLD (OF MAN),au̯kis,78
+Huaraz-Huailas,OLD (OF MAN),au̯kis,78
+Huaylla-Huanca,OLD (OF MAN),au̯kiʃ,78
+Jauja-Huanca,OLD (OF MAN),au̯kiʃ,78
+Laraos,OLD (OF MAN),au̯kiʃ,78
+Lincha-Tana,OLD (OF MAN),au̯kiʃ,78
+Pacaraos,OLD (OF MAN),au̯kiŋ,78
+Yaru,OLD (OF MAN),au̯ɡis,78
+Cajamarca,OLD (OF MAN),mau̯ka,79
+Eastern-Apurímac,OLD (OF MAN),mau̯ka,79
+Chuquisaca,OLD (OF MAN),aʧa ʧi,80
+Cochabamba,OLD (OF MAN),aʧa ʧi,80
+Imbabura,OLD (OF MAN),ɾuku ɾuna,81
+Apolobamba,SKIN,qara,82
+Apurí-Madean-Viñac,SKIN,qaɾa,82
+Ayacucho,SKIN,χaɾa,82
+Azuay,SKIN,kaɾa,82
+Cacra-Hongos,SKIN,qala,82
+Cajamarca,SKIN,qara,82
+Chachapoyas,SKIN,kara,82
+Chimborazo,SKIN,kara,82
+Chocos-Huangáscar,SKIN,qaɾa,82
+Chuquisaca,SKIN,qara,82
+Cochabamba,SKIN,ɢara,82
+Colombian_Inga,SKIN,kara,82
+Corongo,SKIN,qara,82
+Cuzco,SKIN,qara,82
+Eastern-Apurímac,SKIN,qara,82
+Huallaga-Huánuco,SKIN,qara,82
+Huancavelica,SKIN,χara,82
+Huaraz-Huailas,SKIN,qaɾa,82
+Imbabura,SKIN,kaɾa,82
+Lambayeque,SKIN,χara,82
+Laraos,SKIN,qara,82
+Lincha-Tana,SKIN,qaɾa,82
+Liscay-San_Pedro,SKIN,qaɾa,82
+Napo,SKIN,kara,82
+Pacaraos,SKIN,ʁaɾa,82
+Pastaza,SKIN,kara,82
+Puno,SKIN,qara,82
+San_Martín,SKIN,kara,82
+Santiago_del_Estero,SKIN,qaɾa,82
+Tena,SKIN,kara,82
+Yaru,SKIN,χaɾa,82
+Huaylla-Huanca,SKIN,uta,83
+Apolobamba,ASH,uʧpʰa,84
+Apurí-Madean-Viñac,ASH,uʈpa,84
+Ayacucho,ASH,uʧpa,84
+Azuay,ASH,uʧupa,84
+Cacra-Hongos,ASH,uʈpa,84
+Cajamarca,ASH,uʂpa,84
+Chachapoyas,ASH,uʈ͡ʂpa,84
+Chimborazo,ASH,uʃpa,84
+Chocos-Huangáscar,ASH,uʈpa,84
+Chuquisaca,ASH,uʃpʰa,84
+Cochabamba,ASH,uʃpʰa,84
+Colombian_Inga,ASH,uʧpa,84
+Corongo,ASH,uʧpa,84
+Cuzco,ASH,uspʰa,84
+Eastern-Apurímac,ASH,uspa,84
+Huallaga-Huánuco,ASH,uʧpa,84
+Huancavelica,ASH,uʧpa,84
+Huaraz-Huailas,ASH,uʧpa,84
+Huaylla-Huanca,ASH,uʈ͡ʂpa,84
+Imbabura,ASH,uʧufa,84
+Jauja-Huanca,ASH,uʈ͡ʂpa,84
+Lambayeque,ASH,uʈ͡ʂpa,84
+Laraos,ASH,uʈ͡ʂpa,84
+Lincha-Tana,ASH,uʈpa,84
+Liscay-San_Pedro,ASH,uʈpa,84
+Napo,ASH,uʃpa,84
+Pacaraos,ASH,uʈ͡ʂpa,84
+Pastaza,ASH,uʧpa,84
+Puno,ASH,uspʰa,84
+San_Martín,ASH,uʧpa,84
+Santiago_del_Estero,ASH,uʃpa,84
+Tena,ASH,uʃpa,84
+Yaru,ASH,χoχeʈ͡ʂa,85
+Apolobamba,HAIR (HEAD),ʧuxʧa,86
+Apurí-Madean-Viñac,HAIR (HEAD),ʧukʧa,86
+Ayacucho,HAIR (HEAD),ʧukʧa,86
+Chachapoyas,HAIR (HEAD),ʧuxʧa,86
+Chocos-Huangáscar,HAIR (HEAD),ʧukʧa,86
+Chuquisaca,HAIR (HEAD),ʧuxʧa,86
+Cochabamba,HAIR (HEAD),ʧuxʧa,86
+Cuzco,HAIR (HEAD),ʧuxʧa,86
+Eastern-Apurímac,HAIR (HEAD),ʧukʧa,86
+Huancavelica,HAIR (HEAD),ʧukʧa,86
+Pastaza,HAIR (HEAD),ʧukʧa,86
+Puno,HAIR (HEAD),ʧuxʧa,86
+San_Martín,HAIR (HEAD),ʧukʧa,86
+Santiago_del_Estero,HAIR (HEAD),ʧuxʧa,86
+Apurí-Madean-Viñac,HAIR (HEAD),aqʧa,87
+Azuay,HAIR (HEAD),aɡʧa,87
+Cacra-Hongos,HAIR (HEAD),aqʧa,87
+Cajamarca,HAIR (HEAD),aχʧa,87
+Chimborazo,HAIR (HEAD),axʧa,87
+Chocos-Huangáscar,HAIR (HEAD),aqʧa,87
+Colombian_Inga,HAIR (HEAD),axʧa,87
+Corongo,HAIR (HEAD),aqʦa,87
+Huallaga-Huánuco,HAIR (HEAD),aχʧa,87
+Huaraz-Huailas,HAIR (HEAD),aqʦa,87
+Huaylla-Huanca,HAIR (HEAD),aʔʧa,87
+Imbabura,HAIR (HEAD),akʧa,87
+Jauja-Huanca,HAIR (HEAD),aʔʧa,87
+Lambayeque,HAIR (HEAD),aχʧa,87
+Laraos,HAIR (HEAD),aχʧa,87
+Lincha-Tana,HAIR (HEAD),aqʧa,87
+Liscay-San_Pedro,HAIR (HEAD),aqʧa,87
+Napo,HAIR (HEAD),akʧa,87
+Pacaraos,HAIR (HEAD),aχsa,87
+Tena,HAIR (HEAD),akʧa,87
+Yaru,HAIR (HEAD),aχʧa,87
+Apolobamba,MOON,kiʎa,88
+Apurí-Madean-Viñac,MOON,kiʎa,88
+Ayacucho,MOON,kiʎa,88
+Azuay,MOON,kiʎa,88
+Cacra-Hongos,MOON,kiʎa,88
+Cajamarca,MOON,kiʥa,88
+Chachapoyas,MOON,kiʥa,88
+Chimborazo,MOON,kiʒa,88
+Chocos-Huangáscar,MOON,kiʎa,88
+Chuquisaca,MOON,kiʎa,88
+Cochabamba,MOON,kiʎa,88
+Colombian_Inga,MOON,xiʎa,88
+Corongo,MOON,kiʎa,88
+Cuzco,MOON,kiʎa,88
+Eastern-Apurímac,MOON,kiʎa,88
+Huallaga-Huánuco,MOON,kiʎa,88
+Huancavelica,MOON,kiʎa,88
+Huaraz-Huailas,MOON,kiʎa,88
+Huaylla-Huanca,MOON,kiʎa,88
+Imbabura,MOON,kiʎa,88
+Jauja-Huanca,MOON,kiʎa,88
+Lambayeque,MOON,kiʒa,88
+Laraos,MOON,kiʎa,88
+Lincha-Tana,MOON,kiʎa,88
+Liscay-San_Pedro,MOON,kiʎa,88
+Napo,MOON,kiʎa,88
+Pacaraos,MOON,kila,88
+Pastaza,MOON,kiʎa,88
+Puno,MOON,kiʎa,88
+San_Martín,MOON,kiʥa,88
+Santiago_del_Estero,MOON,kiʒa,88
+Tena,MOON,kiʎa,88
+Yaru,MOON,kila,88
+Apolobamba,ONE,ux,89
+Apurí-Madean-Viñac,ONE,huk,89
+Ayacucho,ONE,huk,89
+Azuay,ONE,ʃuɡ,89
+Cacra-Hongos,ONE,huk,89
+Cajamarca,ONE,suχ,89
+Chachapoyas,ONE,sux,89
+Chimborazo,ONE,ʃux,89
+Chocos-Huangáscar,ONE,huk,89
+Chuquisaca,ONE,ux,89
+Cochabamba,ONE,ux,89
+Colombian_Inga,ONE,suɡ,89
+Corongo,ONE,uk,89
+Cuzco,ONE,huχ,89
+Eastern-Apurímac,ONE,huk,89
+Eastern-Apurímac,ONE,huχ,89
+Eastern-Apurímac,ONE,huq,89
+Huallaga-Huánuco,ONE,huk,89
+Huancavelica,ONE,huk,89
+Huaraz-Huailas,ONE,xuk,89
+Huaylla-Huanca,ONE,suk,89
+Imbabura,ONE,ʃuk,89
+Jauja-Huanca,ONE,huk,89
+Lambayeque,ONE,uk,89
+Laraos,ONE,huk,89
+Lincha-Tana,ONE,huk,89
+Liscay-San_Pedro,ONE,huk,89
+Napo,ONE,ʃu,89
+Pacaraos,ONE,xuk,89
+Pastaza,ONE,ʃuk,89
+Puno,ONE,ux,89
+San_Martín,ONE,suk,89
+Santiago_del_Estero,ONE,sux,89
+Tena,ONE,ʃux,89
+Yaru,ONE,χok,89
+Apolobamba,THREE,kimsa,90
+Apurí-Madean-Viñac,THREE,kimsa,90
+Ayacucho,THREE,kimsa,90
+Azuay,THREE,kimsa,90
+Cacra-Hongos,THREE,kimsa,90
+Cajamarca,THREE,kimsa,90
+Chachapoyas,THREE,kimsa,90
+Chimborazo,THREE,kimsa,90
+Chocos-Huangáscar,THREE,kimsa,90
+Chuquisaca,THREE,kinsa,90
+Cochabamba,THREE,kinsa,90
+Colombian_Inga,THREE,kimsa,90
+Corongo,THREE,kinsa,90
+Cuzco,THREE,kinsa,90
+Eastern-Apurímac,THREE,kinsa,90
+Huallaga-Huánuco,THREE,kimsa,90
+Huancavelica,THREE,kimza,90
+Huaraz-Huailas,THREE,kima,90
+Huaylla-Huanca,THREE,kimsa,90
+Imbabura,THREE,kimsa,90
+Jauja-Huanca,THREE,kimsa,90
+Lambayeque,THREE,kimsa,90
+Laraos,THREE,kimsa,90
+Lincha-Tana,THREE,kimsa,90
+Liscay-San_Pedro,THREE,kimsa,90
+Napo,THREE,kimsa,90
+Pacaraos,THREE,kima,90
+Pastaza,THREE,kimsa,90
+Puno,THREE,kimsa,90
+San_Martín,THREE,kimsa,90
+Santiago_del_Estero,THREE,kimsa,90
+Tena,THREE,kinsa,90
+Yaru,THREE,kima,90
+Apolobamba,WORM,kuru,91
+Apurí-Madean-Viñac,WORM,uɾu,91
+Ayacucho,WORM,uɾu,91
+Azuay,WORM,kuɾu,91
+Cacra-Hongos,WORM,ulu,91
+Cajamarca,WORM,kuru,91
+Chachapoyas,WORM,kuru,91
+Chimborazo,WORM,kʰuru,91
+Chocos-Huangáscar,WORM,uɾu,91
+Chuquisaca,WORM,kʰuru,91
+Cochabamba,WORM,kʰuru,91
+Colombian_Inga,WORM,kuru,91
+Corongo,WORM,kuru,91
+Cuzco,WORM,kuru,91
+Eastern-Apurímac,WORM,uru,91
+Eastern-Apurímac,WORM,utuskuru,91
+Huallaga-Huánuco,WORM,kuru,91
+Huancavelica,WORM,kuru,91
+Huaraz-Huailas,WORM,kuɾu,91
+Huaylla-Huanca,WORM,kulu,91
+Jauja-Huanca,WORM,kulu,91
+Laraos,WORM,kuru,91
+Lincha-Tana,WORM,uɾu,91
+Liscay-San_Pedro,WORM,uɾu,91
+Napo,WORM,kuru,91
+Pacaraos,WORM,kuɾu,91
+Pastaza,WORM,kuru,91
+Puno,WORM,kuru,91
+San_Martín,WORM,kuru,91
+Santiago_del_Estero,WORM,kuɾu,91
+Tena,WORM,kuru,91
+Yaru,WORM,kuɾu,91
+Eastern-Apurímac,WORM,siʎwi,92
+Imbabura,WORM,ku̯ika,93
+Lambayeque,WORM,ɲuʃi,94
+Apolobamba,SMALL,huʧʼu̯i,95
+Apurí-Madean-Viñac,SMALL,uʧuk,95
+Ayacucho,SMALL,uʧu̯i,95
+Cacra-Hongos,SMALL,uʧuk,95
+Chachapoyas,SMALL,uʧu ajkka,95
+Chimborazo,SMALL,uʧi ʒa,95
+Chocos-Huangáscar,SMALL,uʧuk,95
+Chuquisaca,SMALL,huʧʼu̯i,95
+Cochabamba,SMALL,huʧʼu̯i,95
+Colombian_Inga,SMALL,uʧu ʎa,95
+Corongo,SMALL,uʧuk,95
+Corongo,SMALL,iʧik,95
+Cuzco,SMALL,huʧʼu̯i,95
+Eastern-Apurímac,SMALL,huʧu̯i,95
+Huallaga-Huánuco,SMALL,iʧik,95
+Huaylla-Huanca,SMALL,uʧuk,95
+Imbabura,SMALL,uʧi ʎa,95
+Jauja-Huanca,SMALL,uʧuk,95
+Laraos,SMALL,uʧu̯i,95
+Lincha-Tana,SMALL,uʧuk,95
+Liscay-San_Pedro,SMALL,uʧuk,95
+Napo,SMALL,iʧi ʎa,95
+Pacaraos,SMALL,uʧuk,95
+Pastaza,SMALL,uʧi ʎa,95
+Puno,SMALL,huʧʼu̯i,95
+Santiago_del_Estero,SMALL,utu la,95
+Tena,SMALL,iʧi ʎa,95
+Yaru,SMALL,iʧik la,95
+Apurí-Madean-Viñac,SMALL,taksa,96
+Ayacucho,SMALL,taksa,96
+Cacra-Hongos,SMALL,taksa,96
+Cajamarca,SMALL,takʃa,96
+Chocos-Huangáscar,SMALL,taksa,96
+Eastern-Apurímac,SMALL,taksa,96
+Huancavelica,SMALL,taksa,96
+Huaraz-Huailas,SMALL,takʃa,96
+Huaylla-Huanca,SMALL,takʂa,96
+Jauja-Huanca,SMALL,takʂa,96
+Lambayeque,SMALL,takʃa,96
+Lincha-Tana,SMALL,taksa,96
+Liscay-San_Pedro,SMALL,taksa,96
+San_Martín,SMALL,takʃa,96
+Yaru,SMALL,takʃa,96
+Azuay,SMALL,uʧi ʎa,97
+Azuay,SMALL,kutu,97
+Eastern-Apurímac,SMALL,ʧiki,98
+Eastern-Apurímac,SMALL,ʧinki,98
+Eastern-Apurímac,SMALL,ʧinli,98
+Apolobamba,GRASS,qura,99
+Ayacucho,GRASS,χoɾa,99
+Chuquisaca,GRASS,qura,99
+Corongo,GRASS,qura,99
+Cuzco,GRASS,qura,99
+Eastern-Apurímac,GRASS,qora,99
+Huancavelica,GRASS,χura,99
+Huaylla-Huanca,GRASS,qula,99
+Jauja-Huanca,GRASS,qula,99
+Puno,GRASS,qura,99
+Apurí-Madean-Viñac,GRASS,qewa,100
+Cacra-Hongos,GRASS,qewa,100
+Cajamarca,GRASS,qiwa,100
+Chachapoyas,GRASS,kiwa,100
+Chimborazo,GRASS,kʰiwa,100
+Chocos-Huangáscar,GRASS,qewa,100
+Huaylla-Huanca,GRASS,hiwa,100
+Imbabura,GRASS,xiwa,100
+Jauja-Huanca,GRASS,qiwa,100
+Lambayeque,GRASS,χiwa,100
+Laraos,GRASS,qiwa,100
+Lincha-Tana,GRASS,qewa,100
+Liscay-San_Pedro,GRASS,qewa,100
+Napo,GRASS,kiwa,100
+Pacaraos,GRASS,χewa,100
+Pastaza,GRASS,kiwa,100
+San_Martín,GRASS,kiwa,100
+Tena,GRASS,kiwa,100
+Yaru,GRASS,χewa,100
+Azuay,GRASS,kiwa,101
+Azuay,GRASS,juju,101
+Chachapoyas,GRASS,wai̯ʥa,102
+San_Martín,GRASS,wai̯ʥa,102
+Cochabamba,GRASS,jerba,103
+Colombian_Inga,GRASS,uxsa,104
+Huallaga-Huánuco,GRASS,ʧuqu,105
+Huaraz-Huailas,GRASS,pastu,106
+Santiago_del_Estero,GRASS,juju,107
+Apolobamba,MOUTH,simi,108
+Apurí-Madean-Viñac,MOUTH,ʃimi,108
+Ayacucho,MOUTH,simi,108
+Azuay,MOUTH,ʃimi,108
+Cacra-Hongos,MOUTH,ʃimi,108
+Cajamarca,MOUTH,ʃimi,108
+Chachapoyas,MOUTH,ʃimi,108
+Chimborazo,MOUTH,ʃimi,108
+Chocos-Huangáscar,MOUTH,ʃimi,108
+Chuquisaca,MOUTH,simi,108
+Cochabamba,MOUTH,simi,108
+Colombian_Inga,MOUTH,simi,108
+Corongo,MOUTH,ʃimi,108
+Cuzco,MOUTH,simi,108
+Eastern-Apurímac,MOUTH,simi,108
+Huallaga-Huánuco,MOUTH,ʃimi,108
+Huancavelica,MOUTH,simi,108
+Huaraz-Huailas,MOUTH,ʃimi,108
+Huaylla-Huanca,MOUTH,ʃimi,108
+Imbabura,MOUTH,ʃimi,108
+Jauja-Huanca,MOUTH,ʃimi,108
+Lambayeque,MOUTH,ʃimi,108
+Laraos,MOUTH,ʃimi,108
+Lincha-Tana,MOUTH,ʃimi,108
+Liscay-San_Pedro,MOUTH,ʃimi,108
+Napo,MOUTH,ʃimi,108
+Pacaraos,MOUTH,ʃimi,108
+Pastaza,MOUTH,ʃimi,108
+Puno,MOUTH,simi,108
+San_Martín,MOUTH,ʃimi,108
+Santiago_del_Estero,MOUTH,simi,108
+Tena,MOUTH,ʃimi,108
+Yaru,MOUTH,ʃimi,108
+Apolobamba,BIRD,pʼisqu,109
+Apurí-Madean-Viñac,BIRD,piʃqo,109
+Ayacucho,BIRD,pisχo,109
+Azuay,BIRD,piʃku,109
+Cacra-Hongos,BIRD,piʃqo,109
+Cajamarca,BIRD,piʃʁu,109
+Chachapoyas,BIRD,piʃku,109
+Chimborazo,BIRD,piʃku,109
+Chocos-Huangáscar,BIRD,piʃqo,109
+Chuquisaca,BIRD,pʼisqu,109
+Cochabamba,BIRD,pʼisʁu,109
+Colombian_Inga,BIRD,pisku,109
+Corongo,BIRD,piʃqu,109
+Eastern-Apurímac,BIRD,pisqo,109
+Huallaga-Huánuco,BIRD,piʃqu,109
+Huaraz-Huailas,BIRD,piʃqu,109
+Huaylla-Huanca,BIRD,piʃʔu,109
+Imbabura,BIRD,piʃku,109
+Jauja-Huanca,BIRD,piʃʔu,109
+Laraos,BIRD,piʃqu,109
+Lincha-Tana,BIRD,piʃqo,109
+Liscay-San_Pedro,BIRD,piʃqo,109
+Napo,BIRD,piʃku,109
+Pacaraos,BIRD,piʃχo,109
+Pastaza,BIRD,piʃku,109
+Puno,BIRD,pʼisqu,109
+San_Martín,BIRD,piʃku,109
+Santiago_del_Estero,BIRD,piʃqo,109
+Tena,BIRD,piʃku,109
+Yaru,BIRD,piʃχo,109
+Ayacucho,BIRD,uɾpitu,110
+Eastern-Apurímac,BIRD,urpitu,110
+Cuzco,BIRD,piʧinku,111
+Cuzco,BIRD,piʧinkʰu,111
+Eastern-Apurímac,BIRD,piʧinko,111
+Huancavelica,BIRD,piʧiwsa,111
+Lambayeque,BIRD,kuru,112
+Apolobamba,PERSON,runa,113
+Apurí-Madean-Viñac,PERSON,ɾuna,113
+Ayacucho,PERSON,ɾuna,113
+Azuay,PERSON,ʃuɡ ɾuna,113
+Cajamarca,PERSON,runa,113
+Chachapoyas,PERSON,runa,113
+Chimborazo,PERSON,r̝una,113
+Chocos-Huangáscar,PERSON,ɾuna,113
+Chuquisaca,PERSON,runa,113
+Chuquisaca,PERSON,r̝una,113
+Cochabamba,PERSON,r̝una,113
+Colombian_Inga,PERSON,runa,113
+Corongo,PERSON,runa,113
+Cuzco,PERSON,runa,113
+Eastern-Apurímac,PERSON,runa,113
+Huallaga-Huánuco,PERSON,runa,113
+Huancavelica,PERSON,runa,113
+Huaraz-Huailas,PERSON,ɲuɲa,113
+Huaylla-Huanca,PERSON,nuna,113
+Jauja-Huanca,PERSON,nuna,113
+Lambayeque,PERSON,runa,113
+Laraos,PERSON,runa,113
+Lincha-Tana,PERSON,luna,113
+Liscay-San_Pedro,PERSON,ɾuna,113
+Napo,PERSON,runa,113
+Pacaraos,PERSON,ɾuna,113
+Pastaza,PERSON,ɾuna,113
+Puno,PERSON,runa,113
+San_Martín,PERSON,runa,113
+Tena,PERSON,runa,113
+Yaru,PERSON,nuna,113
+Imbabura,PERSON,xinti,114
+Apolobamba,BIG,atʰun,115
+Apurí-Madean-Viñac,BIG,hatun,115
+Ayacucho,BIG,hatuŋ,115
+Azuay,BIG,hatun,115
+Cacra-Hongos,BIG,hatun,115
+Cajamarca,BIG,atun,115
+Chachapoyas,BIG,atun,115
+Chimborazo,BIG,hatun,115
+Chocos-Huangáscar,BIG,hatun,115
+Chuquisaca,BIG,hatun,115
+Cochabamba,BIG,hatun,115
+Colombian_Inga,BIG,atun,115
+Corongo,BIG,atun,115
+Cuzco,BIG,hatun,115
+Eastern-Apurímac,BIG,hatun,115
+Huallaga-Huánuco,BIG,hatun,115
+Huancavelica,BIG,hatun,115
+Huaylla-Huanca,BIG,hatun,115
+Imbabura,BIG,xatun,115
+Jauja-Huanca,BIG,hatun,115
+Lambayeque,BIG,atun,115
+Laraos,BIG,hatun,115
+Lincha-Tana,BIG,hatun,115
+Liscay-San_Pedro,BIG,hatun,115
+Napo,BIG,hatun,115
+Pacaraos,BIG,xatuŋ,115
+Pastaza,BIG,atun,115
+Puno,BIG,hatun,115
+San_Martín,BIG,atun,115
+Santiago_del_Estero,BIG,atun,115
+Tena,BIG,atun,115
+Yaru,BIG,χatuŋ,115
+Huaraz-Huailas,BIG,jaʃqa,116
+Apolobamba,BREAST,ɲuɲu,117
+Apurí-Madean-Viñac,BREAST,ɲuɲu,117
+Ayacucho,BREAST,ɲuɲu,117
+Cacra-Hongos,BREAST,ɲuɲu,117
+Chachapoyas,BREAST,ɲuɲu,117
+Chocos-Huangáscar,BREAST,ɲuɲu,117
+Chuquisaca,BREAST,ɲuɲu,117
+Cochabamba,BREAST,ɲuɲu,117
+Cuzco,BREAST,ɲuɲu,117
+Huancavelica,BREAST,ɲuɲu,117
+Huaraz-Huailas,BREAST,ɳuɳu,117
+Huaylla-Huanca,BREAST,ɲuɲu,117
+Lambayeque,BREAST,ɲuɲu,117
+Laraos,BREAST,ɲuɲu,117
+Lincha-Tana,BREAST,ɲuɲu,117
+Liscay-San_Pedro,BREAST,ɲuɲu,117
+Puno,BREAST,ɲuɲu,117
+San_Martín,BREAST,ɲuɲu,117
+Santiago_del_Estero,BREAST,ɲuɲu,117
+Apurí-Madean-Viñac,BREAST,ʧiʧi,118
+Cacra-Hongos,BREAST,ʧiʧi,118
+Cajamarca,BREAST,ʧuʧu,118
+Chachapoyas,BREAST,ʧuʧu,118
+Chimborazo,BREAST,ʧuʧu,118
+Chocos-Huangáscar,BREAST,ʧiʧi,118
+Colombian_Inga,BREAST,ʧuʧu,118
+Huallaga-Huánuco,BREAST,ʧuʧu,118
+Huallaga-Huánuco,BREAST,ʧiʧi,118
+Huaylla-Huanca,BREAST,ʧiʧi,118
+Imbabura,BREAST,ʧuʧu,118
+Jauja-Huanca,BREAST,ʧuʧu,118
+Lincha-Tana,BREAST,ʧiʧi,118
+Liscay-San_Pedro,BREAST,ʧiʧi,118
+Napo,BREAST,ʧuʧu,118
+Pacaraos,BREAST,ʧuʧu,118
+Pastaza,BREAST,ʧuʧu,118
+San_Martín,BREAST,ʧuʧu,118
+Tena,BREAST,ʧuʧu,118
+Yaru,BREAST,ʧuʧu,118
+Azuay,BREAST,qinʒu,119
+Azuay,BREAST,puɡɾu,119
+Corongo,BREAST,seno,120
+Eastern-Apurímac,BREAST,oqʎai̯,121
+Apolobamba,WE (INCLUSIVE),ɲuqanʧis,122
+Apurí-Madean-Viñac,WE (INCLUSIVE),noqanʧik,122
+Ayacucho,WE (INCLUSIVE),ɲoχanʧik,122
+Azuay,WE (INCLUSIVE),ɲuqanʧi,122
+Cacra-Hongos,WE (INCLUSIVE),ɲoqanʧik,122
+Cajamarca,WE (INCLUSIVE),nuʁanʤiʁ,122
+Chachapoyas,WE (INCLUSIVE),ɲukanʧi,122
+Chimborazo,WE (INCLUSIVE),ɲukanʧix,122
+Chocos-Huangáscar,WE (INCLUSIVE),ɲoqanʧik,122
+Chuquisaca,WE (INCLUSIVE),nuqanʧis,122
+Cochabamba,WE (INCLUSIVE),nuʁanʧiχ,122
+Colombian_Inga,WE (INCLUSIVE),nukanʧi,122
+Corongo,WE (INCLUSIVE),ɲuqanʦik,122
+Cuzco,WE (INCLUSIVE),nuqanʧis,122
+Eastern-Apurímac,WE (INCLUSIVE),ɲoqanʧis,122
+Huallaga-Huánuco,WE (INCLUSIVE),nuqanʧi,122
+Huancavelica,WE (INCLUSIVE),ɲuχanʧik,122
+Huaraz-Huailas,WE (INCLUSIVE),ɲoqaɲʦi,122
+Imbabura,WE (INCLUSIVE),ɲukanʧik,122
+Lambayeque,WE (INCLUSIVE),nuʁanʧi,122
+Laraos,WE (INCLUSIVE),nuqanʧik,122
+Lincha-Tana,WE (INCLUSIVE),ɲoqanʧik,122
+Liscay-San_Pedro,WE (INCLUSIVE),ɲoqanʧik,122
+Napo,WE (INCLUSIVE),ɲukanʧi,122
+Pacaraos,WE (INCLUSIVE),ɲoχansi,122
+Pastaza,WE (INCLUSIVE),nukanʧi,122
+Puno,WE (INCLUSIVE),nuqanʧis,122
+San_Martín,WE (INCLUSIVE),ɲukanʧi,122
+Santiago_del_Estero,WE (INCLUSIVE),noχai̯ʃ,122
+Tena,WE (INCLUSIVE),ɲukanʧi,122
+Yaru,WE (INCLUSIVE),noχaɲʧi,122
+Yaru,WE (INCLUSIVE),noχaɲʧik,122
+Apolobamba,HAND,maki,123
+Apurí-Madean-Viñac,HAND,maki,123
+Ayacucho,HAND,maki,123
+Azuay,HAND,maki,123
+Cacra-Hongos,HAND,maki,123
+Cajamarca,HAND,maki,123
+Chachapoyas,HAND,maki,123
+Chimborazo,HAND,maki,123
+Chocos-Huangáscar,HAND,maki,123
+Chuquisaca,HAND,maki,123
+Cochabamba,HAND,maki,123
+Colombian_Inga,HAND,maxi,123
+Corongo,HAND,maki,123
+Cuzco,HAND,maki,123
+Eastern-Apurímac,HAND,maki,123
+Huallaga-Huánuco,HAND,maki,123
+Huancavelica,HAND,maki,123
+Huaraz-Huailas,HAND,maki,123
+Huaylla-Huanca,HAND,maki,123
+Imbabura,HAND,maki,123
+Jauja-Huanca,HAND,maki,123
+Lambayeque,HAND,maki,123
+Laraos,HAND,maki,123
+Lincha-Tana,HAND,maki,123
+Liscay-San_Pedro,HAND,maki,123
+Napo,HAND,maki,123
+Pacaraos,HAND,maki,123
+Pastaza,HAND,maki,123
+Puno,HAND,maki,123
+San_Martín,HAND,maki,123
+Santiago_del_Estero,HAND,maxi,123
+Tena,HAND,maki,123
+Yaru,HAND,maɡi,123
+Apolobamba,FINGERNAIL,siʎu,124
+Apurí-Madean-Viñac,FINGERNAIL,siʎu,124
+Ayacucho,FINGERNAIL,siʎu,124
+Azuay,FINGERNAIL,ʃiʎu,124
+Cacra-Hongos,FINGERNAIL,siʎu,124
+Cajamarca,FINGERNAIL,ʃiʤu,124
+Chachapoyas,FINGERNAIL,ʃiʥu,124
+Chimborazo,FINGERNAIL,siʒu,124
+Chocos-Huangáscar,FINGERNAIL,siʎu,124
+Chuquisaca,FINGERNAIL,siʎu,124
+Cochabamba,FINGERNAIL,siʎu,124
+Colombian_Inga,FINGERNAIL,siʎu,124
+Corongo,FINGERNAIL,ʃiʎu,124
+Cuzco,FINGERNAIL,siʎu,124
+Eastern-Apurímac,FINGERNAIL,siʎu,124
+Huallaga-Huánuco,FINGERNAIL,ʃiʎu,124
+Huancavelica,FINGERNAIL,siʎu,124
+Huaraz-Huailas,FINGERNAIL,ʃiʎu,124
+Huaylla-Huanca,FINGERNAIL,ʃiʎu,124
+Imbabura,FINGERNAIL,siʎu,124
+Jauja-Huanca,FINGERNAIL,ʃiʎu,124
+Lambayeque,FINGERNAIL,siʒu,124
+Laraos,FINGERNAIL,ʃiʎu,124
+Lincha-Tana,FINGERNAIL,siʎu,124
+Liscay-San_Pedro,FINGERNAIL,siʎu,124
+Napo,FINGERNAIL,ʃiʎu,124
+Pacaraos,FINGERNAIL,ʃilu,124
+Pastaza,FINGERNAIL,ʃiʎu,124
+Puno,FINGERNAIL,siʎu,124
+San_Martín,FINGERNAIL,ʃiʥu,124
+Santiago_del_Estero,FINGERNAIL,siʒu,124
+Tena,FINGERNAIL,siʎu,124
+Yaru,FINGERNAIL,ʃilu,124
+Apolobamba,SEE,riku,125
+Apurí-Madean-Viñac,SEE,ɾika,125
+Ayacucho,SEE,ɾiku,125
+Azuay,SEE,ɾiku na,125
+Cacra-Hongos,SEE,lika,125
+Cajamarca,SEE,rika,125
+Chachapoyas,SEE,riku,125
+Chimborazo,SEE,r̝iku,125
+Chocos-Huangáscar,SEE,ɾika,125
+Chuquisaca,SEE,riku,125
+Cochabamba,SEE,riku,125
+Corongo,SEE,rika,125
+Cuzco,SEE,riku,125
+Eastern-Apurímac,SEE,riku,125
+Huallaga-Huánuco,SEE,rika,125
+Huancavelica,SEE,riku,125
+Huaraz-Huailas,SEE,ɾika,125
+Huaylla-Huanca,SEE,lika,125
+Imbabura,SEE,ɾiku na,125
+Jauja-Huanca,SEE,lika,125
+Lambayeque,SEE,rika,125
+Laraos,SEE,rika,125
+Lincha-Tana,SEE,lika,125
+Liscay-San_Pedro,SEE,ɾika,125
+Napo,SEE,riku na,125
+Pacaraos,SEE,ɾika,125
+Pastaza,SEE,ɾiku na,125
+Puno,SEE,riku,125
+San_Martín,SEE,riku,125
+Tena,SEE,riku,125
+Apurí-Madean-Viñac,SEE,qawa,126
+Ayacucho,SEE,χawa,126
+Cacra-Hongos,SEE,qawa,126
+Chachapoyas,SEE,kawa,126
+Chocos-Huangáscar,SEE,qawa,126
+Colombian_Inga,SEE,kawa,126
+Eastern-Apurímac,SEE,qawa,126
+Lincha-Tana,SEE,qawa,126
+Liscay-San_Pedro,SEE,qawa,126
+San_Martín,SEE,kawa,126
+Santiago_del_Estero,SEE,qaː,126
+Yaru,SEE,ʐiɡa,127
+Apolobamba,SMOKE (EXHAUST),qʼusɲi,128
+Ayacucho,SMOKE (EXHAUST),χosni,128
+Azuay,SMOKE (EXHAUST),kusni,128
+Chachapoyas,SMOKE (EXHAUST),kusni,128
+Chimborazo,SMOKE (EXHAUST),kuʃni,128
+Chuquisaca,SMOKE (EXHAUST),qʼusɲi,128
+Cochabamba,SMOKE (EXHAUST),qʼuʃɲi,128
+Colombian_Inga,SMOKE (EXHAUST),kusni,128
+Cuzco,SMOKE (EXHAUST),qʼusɲi,128
+Eastern-Apurímac,SMOKE (EXHAUST),qosɲi,128
+Huancavelica,SMOKE (EXHAUST),χusɲi,128
+Imbabura,SMOKE (EXHAUST),kuʃni,128
+Laraos,SMOKE (EXHAUST),quʃni,128
+Napo,SMOKE (EXHAUST),kuʃni,128
+Pastaza,SMOKE (EXHAUST),kuʃni,128
+Puno,SMOKE (EXHAUST),qʼuʃɲi,128
+San_Martín,SMOKE (EXHAUST),kusni,128
+Santiago_del_Estero,SMOKE (EXHAUST),qosni,128
+Tena,SMOKE (EXHAUST),kuʃɲi,128
+Apurí-Madean-Viñac,SMOKE (EXHAUST),huʃta,129
+Cacra-Hongos,SMOKE (EXHAUST),huʃta,129
+Chocos-Huangáscar,SMOKE (EXHAUST),huʃta,129
+Lincha-Tana,SMOKE (EXHAUST),huʃta,129
+Liscay-San_Pedro,SMOKE (EXHAUST),huʃta,129
+Cajamarca,SMOKE (EXHAUST),qundai̯,130
+Corongo,SMOKE (EXHAUST),qunte,130
+Huallaga-Huánuco,SMOKE (EXHAUST),quʃtai̯,130
+Huaylla-Huanca,SMOKE (EXHAUST),huntai̯,130
+Jauja-Huanca,SMOKE (EXHAUST),huntai̯,130
+Lambayeque,SMOKE (EXHAUST),χundai̯,130
+Pacaraos,SMOKE (EXHAUST),χojai̯,130
+Huaraz-Huailas,SMOKE (EXHAUST),xumo,131
+Yaru,SMOKE (EXHAUST),χoʂʈ͡ʂi,132
+Apolobamba,STAND,saja,133
+Apurí-Madean-Viñac,STAND,saja,133
+Ayacucho,STAND,saja,133
+Azuay,STAND,ʃaja na,133
+Cacra-Hongos,STAND,haja,133
+Cajamarca,STAND,ʃaja,133
+Chachapoyas,STAND,ʃaja,133
+Chimborazo,STAND,ʃaja,133
+Chocos-Huangáscar,STAND,saja ɾi,133
+Chuquisaca,STAND,saja,133
+Cochabamba,STAND,saja,133
+Colombian_Inga,STAND,saja ku,133
+Corongo,STAND,ʃaː,133
+Cuzco,STAND,saja,133
+Eastern-Apurímac,STAND,saja,133
+Huallaga-Huánuco,STAND,ʃaja,133
+Huancavelica,STAND,saja,133
+Huaraz-Huailas,STAND,ʃaː ku,133
+Huaylla-Huanca,STAND,saː ku,133
+Huaylla-Huanca,STAND,saː ku la,133
+Imbabura,STAND,ʃaja ɾi na,133
+Lambayeque,STAND,ʃaja,133
+Laraos,STAND,saja,133
+Lincha-Tana,STAND,saja ɾi,133
+Liscay-San_Pedro,STAND,saja ɾi,133
+Napo,STAND,ʃaja ri na,133
+Pastaza,STAND,ʃaja na,133
+Puno,STAND,saja,133
+San_Martín,STAND,ʃaja,133
+Santiago_del_Estero,STAND,saja,133
+Tena,STAND,ʃaja,133
+Yaru,STAND,ʃaja,133
+Pacaraos,STAND,ʈ͡ʂaʈ͡ʂa,134
+Apolobamba,TREE,saʧʼa,135
+Ayacucho,TREE,saʧa,135
+Chuquisaca,TREE,saʧʼa,135
+Cochabamba,TREE,saʧʼa,135
+Colombian_Inga,TREE,saʧa,135
+Corongo,TREE,aʈ͡ʂa,135
+Eastern-Apurímac,TREE,saʧa,135
+Huancavelica,TREE,saʧa,135
+Huaylla-Huanca,TREE,haʈ͡ʂa,135
+Jauja-Huanca,TREE,saʈ͡ʂa,135
+Apurí-Madean-Viñac,TREE,qeɾu,136
+Cacra-Hongos,TREE,qelu,136
+Cajamarca,TREE,qiru,136
+Chocos-Huangáscar,TREE,qeɾu,136
+Huallaga-Huánuco,TREE,qiru,136
+Huaraz-Huailas,TREE,qeɾu,136
+Lambayeque,TREE,χiru,136
+Lincha-Tana,TREE,qeɾu,136
+Liscay-San_Pedro,TREE,qeɾu,136
+Pacaraos,TREE,χeɾu,136
+Yaru,TREE,χeɾu,136
+Azuay,TREE,juɾa,137
+Chachapoyas,TREE,jura,137
+Chimborazo,TREE,jura,137
+Imbabura,TREE,juɾa,137
+Napo,TREE,ruja,137
+San_Martín,TREE,jura,137
+Tena,TREE,jura,137
+Cuzco,TREE,maʎki,138
+Eastern-Apurímac,TREE,pisona,139
+Laraos,TREE,munti,140
+Pastaza,TREE,kaspi,141
+Puno,TREE,quqa,142
+Santiago_del_Estero,TREE,taχo,143
+Apolobamba,FAR,karu,144
+Apurí-Madean-Viñac,FAR,kaɾu,144
+Ayacucho,FAR,kaɾu,144
+Azuay,FAR,kaɾu,144
+Cacra-Hongos,FAR,kalu,144
+Cajamarca,FAR,karu,144
+Chachapoyas,FAR,karu,144
+Chimborazo,FAR,karu,144
+Chocos-Huangáscar,FAR,kaɾu,144
+Chuquisaca,FAR,karu,144
+Cochabamba,FAR,karu,144
+Colombian_Inga,FAR,karu,144
+Cuzco,FAR,karu,144
+Eastern-Apurímac,FAR,karu,144
+Eastern-Apurímac,FAR,qaru,144
+Huallaga-Huánuco,FAR,karu,144
+Huancavelica,FAR,karu,144
+Huaraz-Huailas,FAR,kaɾu,144
+Huaylla-Huanca,FAR,kalu,144
+Imbabura,FAR,kaɾu,144
+Jauja-Huanca,FAR,kalu,144
+Lambayeque,FAR,karu,144
+Laraos,FAR,karu,144
+Lincha-Tana,FAR,kaɾu,144
+Liscay-San_Pedro,FAR,kaɾu,144
+Napo,FAR,karu,144
+Pacaraos,FAR,kaɾu,144
+Pastaza,FAR,karu,144
+Puno,FAR,karu,144
+San_Martín,FAR,karu,144
+Santiago_del_Estero,FAR,kaɾu,144
+Tena,FAR,karu,144
+Yaru,FAR,kaɾu,144
+Corongo,FAR,larɡu,145
+Pastaza,FAR,ʧipi,146
+Apolobamba,BELLY,wixsa,147
+Apolobamba,BELLY,wisa,147
+Apurí-Madean-Viñac,BELLY,wiksa,147
+Ayacucho,BELLY,wiksa,147
+Azuay,BELLY,wiχa,147
+Cacra-Hongos,BELLY,wiksa,147
+Chachapoyas,BELLY,wiksa,147
+Chimborazo,BELLY,wixsa,147
+Chocos-Huangáscar,BELLY,wiksa,147
+Chuquisaca,BELLY,wixsa,147
+Cochabamba,BELLY,wisa,147
+Colombian_Inga,BELLY,wixsa,147
+Cuzco,BELLY,wixsa,147
+Eastern-Apurímac,BELLY,wiksa,147
+Huancavelica,BELLY,wiksa,147
+Imbabura,BELLY,wiksa,147
+Laraos,BELLY,wiksa,147
+Lincha-Tana,BELLY,wiksa,147
+Liscay-San_Pedro,BELLY,wiksa,147
+Napo,BELLY,wiksa,147
+Pastaza,BELLY,wiksa,147
+Puno,BELLY,wiksa,147
+San_Martín,BELLY,wiksa,147
+Santiago_del_Estero,BELLY,wixsa,147
+Tena,BELLY,iksa,147
+Cajamarca,BELLY,paʈ͡ʂa,148
+Corongo,BELLY,paʈ͡ʂa,148
+Huallaga-Huánuco,BELLY,paʧa,148
+Huaraz-Huailas,BELLY,paʧa,148
+Huaylla-Huanca,BELLY,pata,148
+Jauja-Huanca,BELLY,pata,148
+Lambayeque,BELLY,paʈ͡ʂa,148
+Pacaraos,BELLY,paʈ͡ʂa,148
+Yaru,BELLY,paʈ͡ʂa,148
+Apolobamba,BONE,tuʎu,149
+Apurí-Madean-Viñac,BONE,tuʎu,149
+Ayacucho,BONE,tuʎu,149
+Azuay,BONE,tuʎu,149
+Cacra-Hongos,BONE,tuʎu,149
+Cajamarca,BONE,tuʤu,149
+Chachapoyas,BONE,tuʥu,149
+Chimborazo,BONE,tuʒu,149
+Chocos-Huangáscar,BONE,tuʎu,149
+Chuquisaca,BONE,tuʎu,149
+Cochabamba,BONE,tuʎu,149
+Colombian_Inga,BONE,tuʎu,149
+Corongo,BONE,tuʎu,149
+Cuzco,BONE,tuʎu,149
+Eastern-Apurímac,BONE,tuʎu,149
+Huallaga-Huánuco,BONE,tuʎu,149
+Huancavelica,BONE,tuʎu,149
+Huaraz-Huailas,BONE,tuʎu,149
+Huaylla-Huanca,BONE,tuʎu,149
+Imbabura,BONE,tuʎu,149
+Jauja-Huanca,BONE,tuʎu,149
+Lambayeque,BONE,tuʒu,149
+Laraos,BONE,tuʎu,149
+Lincha-Tana,BONE,tuʎu,149
+Liscay-San_Pedro,BONE,tuʎu,149
+Napo,BONE,tuʎu,149
+Pacaraos,BONE,tulu,149
+Pastaza,BONE,tuʎu,149
+Puno,BONE,tuʎu,149
+San_Martín,BONE,tuʥu,149
+Santiago_del_Estero,BONE,tuʒu,149
+Tena,BONE,tuʎu,149
+Yaru,BONE,tulu,149
+Apolobamba,SALT,kaʧi,150
+Apurí-Madean-Viñac,SALT,kaʈ͡ʂi,150
+Ayacucho,SALT,kaʧi,150
+Azuay,SALT,kaʧi,150
+Cacra-Hongos,SALT,kaʈ͡ʂi,150
+Cajamarca,SALT,kaʈ͡ʂi,150
+Chachapoyas,SALT,kaʈ͡ʂi,150
+Chimborazo,SALT,kaʧi,150
+Chocos-Huangáscar,SALT,kaʈ͡ʂi,150
+Chuquisaca,SALT,kaʧi,150
+Cochabamba,SALT,kaʧi,150
+Colombian_Inga,SALT,kaʧi,150
+Corongo,SALT,kaʈ͡ʂi,150
+Cuzco,SALT,kaʧi,150
+Eastern-Apurímac,SALT,kaʧi,150
+Huallaga-Huánuco,SALT,kaʧi,150
+Huancavelica,SALT,kaʧi,150
+Huaraz-Huailas,SALT,kaʧi,150
+Huaylla-Huanca,SALT,kaʈ͡ʂi,150
+Imbabura,SALT,kaʧi,150
+Jauja-Huanca,SALT,kaʈ͡ʂi,150
+Lambayeque,SALT,kaʈ͡ʂi,150
+Laraos,SALT,kaʈ͡ʂi,150
+Lincha-Tana,SALT,kaʈ͡ʂi,150
+Liscay-San_Pedro,SALT,kaʈ͡ʂi,150
+Napo,SALT,kaʧi,150
+Pacaraos,SALT,kaʈ͡ʂi,150
+Pastaza,SALT,kaʧi,150
+Puno,SALT,kaʧi,150
+San_Martín,SALT,kaʧi,150
+Santiago_del_Estero,SALT,kaʧi,150
+Tena,SALT,kaʧi,150
+Yaru,SALT,kaʈ͡ʂi,150
+Apolobamba,SLEEP,puɲu,151
+Apurí-Madean-Viñac,SLEEP,puɲu,151
+Ayacucho,SLEEP,puɲu,151
+Azuay,SLEEP,puɲu na,151
+Cacra-Hongos,SLEEP,puɲu,151
+Cajamarca,SLEEP,puɲu,151
+Chachapoyas,SLEEP,puɲu,151
+Chimborazo,SLEEP,puɲu,151
+Chocos-Huangáscar,SLEEP,puɲu,151
+Chuquisaca,SLEEP,puɲu,151
+Cochabamba,SLEEP,puɲu,151
+Colombian_Inga,SLEEP,puɲu,151
+Corongo,SLEEP,puɲu,151
+Cuzco,SLEEP,puɲu,151
+Eastern-Apurímac,SLEEP,puɲu,151
+Huallaga-Huánuco,SLEEP,puɲu,151
+Huancavelica,SLEEP,puɲu,151
+Huaraz-Huailas,SLEEP,puɲu,151
+Huaylla-Huanca,SLEEP,puɲu,151
+Imbabura,SLEEP,puɲu na,151
+Jauja-Huanca,SLEEP,puɲu,151
+Lambayeque,SLEEP,punu,151
+Laraos,SLEEP,puɲu,151
+Lincha-Tana,SLEEP,puɲu,151
+Liscay-San_Pedro,SLEEP,puɲu,151
+Napo,SLEEP,puɲu na,151
+Pacaraos,SLEEP,puɲu,151
+Pastaza,SLEEP,puɲu na,151
+Puno,SLEEP,puɲu,151
+San_Martín,SLEEP,puɲu,151
+Santiago_del_Estero,SLEEP,puɲu,151
+Tena,SLEEP,puɲu,151
+Yaru,SLEEP,punu,151
+Apolobamba,WOMAN,warmi,152
+Apurí-Madean-Viñac,WOMAN,waɾmi,152
+Ayacucho,WOMAN,waɾmi,152
+Azuay,WOMAN,waɾmi,152
+Cacra-Hongos,WOMAN,walmi,152
+Cajamarca,WOMAN,warmi,152
+Chachapoyas,WOMAN,warmi,152
+Chimborazo,WOMAN,warmi,152
+Chocos-Huangáscar,WOMAN,waɾmi,152
+Chuquisaca,WOMAN,warmi,152
+Cochabamba,WOMAN,warmi,152
+Colombian_Inga,WOMAN,warmi,152
+Corongo,WOMAN,warmi,152
+Cuzco,WOMAN,warmi,152
+Eastern-Apurímac,WOMAN,warmi,152
+Huallaga-Huánuco,WOMAN,warmi,152
+Huancavelica,WOMAN,warmi,152
+Huaraz-Huailas,WOMAN,waɾmi,152
+Huaylla-Huanca,WOMAN,walmi,152
+Imbabura,WOMAN,waɾmi,152
+Jauja-Huanca,WOMAN,walmi,152
+Lambayeque,WOMAN,warmi,152
+Laraos,WOMAN,warmi,152
+Lincha-Tana,WOMAN,waɾmi,152
+Liscay-San_Pedro,WOMAN,waɾmi,152
+Napo,WOMAN,warmi,152
+Pacaraos,WOMAN,waɾmi,152
+Pastaza,WOMAN,warmi,152
+Puno,WOMAN,warmi,152
+San_Martín,WOMAN,warmi,152
+Santiago_del_Estero,WOMAN,waɾmi,152
+Tena,WOMAN,warmi,152
+Yaru,WOMAN,waɾmi,152
+Apolobamba,LEG,ʧaki,153
+Apurí-Madean-Viñac,LEG,ʈaki,153
+Cacra-Hongos,LEG,ʈaki,153
+Chocos-Huangáscar,LEG,ʈaki,153
+Chuquisaca,LEG,ʧaki,153
+Cochabamba,LEG,ʧaki,153
+Cuzco,LEG,ʧaka,153
+Lincha-Tana,LEG,ʈaki,153
+Liscay-San_Pedro,LEG,ʈaki,153
+Puno,LEG,ʧaki,153
+Ayacucho,LEG,ʧanka,154
+Azuay,LEG,ʧanɡa,154
+Cajamarca,LEG,ʈ͡ʂanɡa,154
+Chachapoyas,LEG,ʈ͡ʂanɡa,154
+Chimborazo,LEG,ʧanɡa,154
+Colombian_Inga,LEG,ʧanɡa,154
+Corongo,LEG,ʈ͡ʂanka,154
+Eastern-Apurímac,LEG,ʧanka,154
+Huallaga-Huánuco,LEG,ʧanka,154
+Huaraz-Huailas,LEG,ʧaɲka,154
+Huaylla-Huanca,LEG,ʈ͡ʂanka,154
+Imbabura,LEG,ʧanɡa,154
+Jauja-Huanca,LEG,ʈ͡ʂanka,154
+Lambayeque,LEG,ʈ͡ʂanɡa,154
+Laraos,LEG,ʈ͡ʂanka,154
+Napo,LEG,ʧanɡa,154
+Pacaraos,LEG,ʈ͡ʂaŋka,154
+Pastaza,LEG,ʧanɡa,154
+San_Martín,LEG,ʧanɡa,154
+Santiago_del_Estero,LEG,ʧuŋka,154
+Tena,LEG,ʧanɡa,154
+Yaru,LEG,ʈ͡ʂaŋka,154
+Huancavelica,LEG,perna,155
+Apolobamba,OLD (OF WOMAN),paja,156
+Apurí-Madean-Viñac,OLD (OF WOMAN),paja,156
+Ayacucho,OLD (OF WOMAN),paja,156
+Azuay,OLD (OF WOMAN),paja,156
+Chachapoyas,OLD (OF WOMAN),paja,156
+Chimborazo,OLD (OF WOMAN),paja,156
+Cochabamba,OLD (OF WOMAN),paja,156
+Cuzco,OLD (OF WOMAN),paja,156
+Eastern-Apurímac,OLD (OF WOMAN),paja,156
+Huancavelica,OLD (OF WOMAN),paja,156
+Pastaza,OLD (OF WOMAN),paja,156
+Puno,OLD (OF WOMAN),paja,156
+San_Martín,OLD (OF WOMAN),paja,156
+Santiago_del_Estero,OLD (OF WOMAN),paja,156
+Cajamarca,OLD (OF WOMAN),biexa,157
+Chuquisaca,OLD (OF WOMAN),aʧa ʧi,158
+Corongo,OLD (OF WOMAN),ʈ͡ʂakwa s,159
+Huallaga-Huánuco,OLD (OF WOMAN),ʧakwa n,159
+Huaylla-Huanca,OLD (OF WOMAN),ʧakwaʂ,159
+Jauja-Huanca,OLD (OF WOMAN),ʧakwaʂ,159
+Laraos,OLD (OF WOMAN),ʧakwa ʃ,159
+Pacaraos,OLD (OF WOMAN),ʧaʧas,159
+Pacaraos,OLD (OF WOMAN),sakwa,159
+Yaru,OLD (OF WOMAN),ʧakwas,159
+Huaraz-Huailas,OLD (OF WOMAN),ɾuku,160
+Lambayeque,OLD (OF WOMAN),r̝uku,160
+Lambayeque,OLD (OF WOMAN),r̝uku na,160
+Napo,OLD (OF WOMAN),ruku,160
+Tena,OLD (OF WOMAN),ruku,160
+Imbabura,OLD (OF WOMAN),paja waɾmi,161
+Apolobamba,MOUNTAIN,urqu,162
+Apurí-Madean-Viñac,MOUNTAIN,oɾqu,162
+Ayacucho,MOUNTAIN,oɾχo,162
+Azuay,MOUNTAIN,uɾku,162
+Cacra-Hongos,MOUNTAIN,olqu,162
+Cajamarca,MOUNTAIN,urqu,162
+Chachapoyas,MOUNTAIN,urku,162
+Chimborazo,MOUNTAIN,urku,162
+Chocos-Huangáscar,MOUNTAIN,oɾqu,162
+Chuquisaca,MOUNTAIN,urqu,162
+Cochabamba,MOUNTAIN,urʁu,162
+Cuzco,MOUNTAIN,urqu,162
+Eastern-Apurímac,MOUNTAIN,orqo,162
+Huancavelica,MOUNTAIN,urɢu,162
+Huaraz-Huailas,MOUNTAIN,oɾqu,162
+Huaylla-Huanca,MOUNTAIN,ulʔu,162
+Imbabura,MOUNTAIN,uɾku,162
+Jauja-Huanca,MOUNTAIN,ulʔu,162
+Laraos,MOUNTAIN,urqu,162
+Lincha-Tana,MOUNTAIN,oɾqu,162
+Liscay-San_Pedro,MOUNTAIN,oɾqu,162
+Napo,MOUNTAIN,urku,162
+Pastaza,MOUNTAIN,urku,162
+Puno,MOUNTAIN,urqu,162
+San_Martín,MOUNTAIN,urku,162
+Santiago_del_Estero,MOUNTAIN,oɾqo,162
+Tena,MOUNTAIN,urku,162
+Colombian_Inga,MOUNTAIN,saʧuku,163
+Corongo,MOUNTAIN,qaqa,164
+Lambayeque,MOUNTAIN,χaʁa,164
+Eastern-Apurímac,MOUNTAIN,qirka,165
+Huallaga-Huánuco,MOUNTAIN,hirka,165
+Pacaraos,MOUNTAIN,xiɾka,165
+Yaru,MOUNTAIN,xiɾka,165
+Apolobamba,WALK,puri,166
+Ayacucho,WALK,puɾi,166
+Azuay,WALK,puɾi na,166
+Cajamarca,WALK,puri,166
+Chachapoyas,WALK,puri,166
+Chimborazo,WALK,puri,166
+Chuquisaca,WALK,puri,166
+Cochabamba,WALK,puri,166
+Colombian_Inga,WALK,puri,166
+Corongo,WALK,puri,166
+Cuzco,WALK,puri,166
+Eastern-Apurímac,WALK,puri,166
+Huallaga-Huánuco,WALK,puri,166
+Huancavelica,WALK,puri,166
+Huaylla-Huanca,WALK,puli,166
+Imbabura,WALK,puɾi na,166
+Jauja-Huanca,WALK,puli,166
+Lambayeque,WALK,puri,166
+Laraos,WALK,puri,166
+Napo,WALK,puri na,166
+Pacaraos,WALK,puɾi,166
+Pastaza,WALK,puri na,166
+Puno,WALK,puri,166
+San_Martín,WALK,puri,166
+Santiago_del_Estero,WALK,puɾiː,166
+Tena,WALK,puri,166
+Yaru,WALK,puɾi,166
+Huaraz-Huailas,WALK,aɲdaɾ,167
+Apolobamba,DRY,ʧʼaki,168
+Apurí-Madean-Viñac,DRY,ʧaki,168
+Ayacucho,DRY,ʧaki,168
+Azuay,DRY,ʧaki ʃka,168
+Cacra-Hongos,DRY,ʧaki,168
+Cajamarca,DRY,ʧaki,168
+Chachapoyas,DRY,ʧaki,168
+Chimborazo,DRY,ʧaki ʃka,168
+Chocos-Huangáscar,DRY,ʧaki,168
+Chuquisaca,DRY,ʧʼaki,168
+Cochabamba,DRY,ʧʼaki,168
+Colombian_Inga,DRY,ʧaxi ska,168
+Corongo,DRY,ʦaki,168
+Cuzco,DRY,ʧʼaki,168
+Eastern-Apurímac,DRY,ʧaki,168
+Huallaga-Huánuco,DRY,ʧaki,168
+Huancavelica,DRY,ʧaki,168
+Huaraz-Huailas,DRY,ʦaki,168
+Huaylla-Huanca,DRY,ʧaki,168
+Imbabura,DRY,ʧaki ʃka,168
+Jauja-Huanca,DRY,ʧaki,168
+Lambayeque,DRY,ʧaki,168
+Laraos,DRY,ʧaki,168
+Lincha-Tana,DRY,ʧaki,168
+Liscay-San_Pedro,DRY,ʧaki,168
+Napo,DRY,ʧaki ʧi na,168
+Pacaraos,DRY,saki,168
+Pastaza,DRY,ʧaki ʃka,168
+Puno,DRY,ʧʼaki,168
+San_Martín,DRY,ʧaki,168
+Santiago_del_Estero,DRY,ʧaxi,168
+Tena,DRY,ʧaki ʃka,168
+Yaru,DRY,ʧaɡi,168
+Colombian_Inga,DRY,tusta,169
+Eastern-Apurímac,DRY,qawi,170
+Apolobamba,THIS,kai̯,171
+Apurí-Madean-Viñac,THIS,kai̯,171
+Ayacucho,THIS,kai̯,171
+Azuay,THIS,kai̯,171
+Cacra-Hongos,THIS,kai̯,171
+Cajamarca,THIS,kai̯,171
+Chachapoyas,THIS,kai̯,171
+Chimborazo,THIS,kai̯,171
+Chocos-Huangáscar,THIS,kai̯,171
+Chuquisaca,THIS,kai̯,171
+Cochabamba,THIS,kai̯,171
+Colombian_Inga,THIS,kai̯,171
+Corongo,THIS,keː,171
+Cuzco,THIS,kai̯,171
+Eastern-Apurímac,THIS,kai̯,171
+Huallaga-Huánuco,THIS,kai̯,171
+Huancavelica,THIS,kai̯,171
+Huaylla-Huanca,THIS,kai̯,171
+Imbabura,THIS,kai̯,171
+Jauja-Huanca,THIS,kai̯,171
+Lambayeque,THIS,kai̯,171
+Laraos,THIS,kai̯,171
+Lincha-Tana,THIS,kai̯,171
+Liscay-San_Pedro,THIS,kai̯,171
+Napo,THIS,kai̯,171
+Pacaraos,THIS,kai̯,171
+Pastaza,THIS,kai̯,171
+Puno,THIS,kai̯,171
+San_Martín,THIS,kai̯,171
+Santiago_del_Estero,THIS,kai̯,171
+Tena,THIS,kai̯,171
+Yaru,THIS,kai̯,171
+Apolobamba,COME,hamu,172
+Apurí-Madean-Viñac,COME,hamu,172
+Ayacucho,COME,hamu,172
+Azuay,COME,ʃamu na,172
+Cacra-Hongos,COME,hamu,172
+Cajamarca,COME,ʃamu,172
+Chachapoyas,COME,ʃamu,172
+Chimborazo,COME,ʃamu,172
+Chocos-Huangáscar,COME,hamu,172
+Chuquisaca,COME,hamu,172
+Cochabamba,COME,hamu,172
+Colombian_Inga,COME,samu,172
+Corongo,COME,ʃamu,172
+Cuzco,COME,hamu,172
+Eastern-Apurímac,COME,hamu,172
+Eastern-Apurímac,COME,qamu,172
+Huallaga-Huánuco,COME,ʃamu,172
+Huancavelica,COME,hamu,172
+Huaraz-Huailas,COME,ʃamu,172
+Huaylla-Huanca,COME,ʂamu,172
+Imbabura,COME,ʃamu na,172
+Lambayeque,COME,ʃamu,172
+Laraos,COME,hamu,172
+Lincha-Tana,COME,hamu,172
+Liscay-San_Pedro,COME,hamu,172
+Napo,COME,ʃamu na,172
+Pacaraos,COME,ʃamu,172
+Pastaza,COME,ʃamu na,172
+Puno,COME,hamu,172
+San_Martín,COME,ʃamu,172
+Santiago_del_Estero,COME,amu,172
+Tena,COME,ʃamu,172
+Yaru,COME,ʃamu,172
+Jauja-Huanca,COME,ai̯wa mu,173
+Apolobamba,NOSE,sinqa,174
+Apurí-Madean-Viñac,NOSE,seŋqa,174
+Ayacucho,NOSE,seŋχa,174
+Azuay,NOSE,sinɡa,174
+Cacra-Hongos,NOSE,seŋqa,174
+Cajamarca,NOSE,sinɡa,174
+Chachapoyas,NOSE,sinɡa,174
+Chimborazo,NOSE,sinɡa,174
+Chocos-Huangáscar,NOSE,seŋqa,174
+Chuquisaca,NOSE,sinqa,174
+Cochabamba,NOSE,sinʁa,174
+Colombian_Inga,NOSE,sinɡa,174
+Corongo,NOSE,sinqa,174
+Cuzco,NOSE,sinqa,174
+Eastern-Apurímac,NOSE,senqa,174
+Huallaga-Huánuco,NOSE,sinqa,174
+Huancavelica,NOSE,sinɢa,174
+Huaraz-Huailas,NOSE,seɲqa,174
+Huaylla-Huanca,NOSE,sinʔa,174
+Imbabura,NOSE,sinɡa,174
+Jauja-Huanca,NOSE,sinʔa,174
+Lambayeque,NOSE,sinɢa,174
+Laraos,NOSE,sinqa,174
+Lincha-Tana,NOSE,seŋqa,174
+Liscay-San_Pedro,NOSE,seŋqa,174
+Napo,NOSE,sinɡa,174
+Pacaraos,NOSE,siɴχa,174
+Pastaza,NOSE,sinɡa,174
+Puno,NOSE,sinqa,174
+San_Martín,NOSE,sinɡa,174
+Santiago_del_Estero,NOSE,seŋqa,174
+Tena,NOSE,sinɡa,174
+Yaru,NOSE,seŋχa,174
+Apolobamba,NIGHT,tuta,175
+Apurí-Madean-Viñac,NIGHT,tuta,175
+Ayacucho,NIGHT,tuta,175
+Azuay,NIGHT,tuta,175
+Cacra-Hongos,NIGHT,tuta,175
+Cajamarca,NIGHT,tuta,175
+Chachapoyas,NIGHT,tuta,175
+Chimborazo,NIGHT,tuta,175
+Chocos-Huangáscar,NIGHT,tuta,175
+Chuquisaca,NIGHT,tuta,175
+Cochabamba,NIGHT,tuta,175
+Colombian_Inga,NIGHT,tuta,175
+Cuzco,NIGHT,tuta,175
+Eastern-Apurímac,NIGHT,tuta,175
+Huancavelica,NIGHT,tuta,175
+Huaylla-Huanca,NIGHT,tuta,175
+Imbabura,NIGHT,tuta,175
+Jauja-Huanca,NIGHT,tuta,175
+Lambayeque,NIGHT,tuta,175
+Laraos,NIGHT,tuta,175
+Lincha-Tana,NIGHT,tuta,175
+Liscay-San_Pedro,NIGHT,tuta,175
+Napo,NIGHT,tuta,175
+Puno,NIGHT,tuta,175
+San_Martín,NIGHT,tuta,175
+Santiago_del_Estero,NIGHT,tuta,175
+Tena,NIGHT,tuta,175
+Corongo,NIGHT,paɢas,176
+Huaraz-Huailas,NIGHT,paqas,176
+Yaru,NIGHT,paχas,176
+Huallaga-Huánuco,NIGHT,ʧakai̯,177
+Pacaraos,NIGHT,waɾai̯,178
+Apolobamba,RED,puka,179
+Apurí-Madean-Viñac,RED,puka,179
+Ayacucho,RED,puka,179
+Cacra-Hongos,RED,puka,179
+Chachapoyas,RED,puka,179
+Chimborazo,RED,puka,179
+Chocos-Huangáscar,RED,puka,179
+Chuquisaca,RED,puka,179
+Cochabamba,RED,puka,179
+Colombian_Inga,RED,puka,179
+Corongo,RED,puka,179
+Cuzco,RED,puka,179
+Eastern-Apurímac,RED,puka,179
+Huallaga-Huánuco,RED,puka,179
+Huancavelica,RED,puka,179
+Huaraz-Huailas,RED,puka,179
+Huaylla-Huanca,RED,puka,179
+Imbabura,RED,puka,179
+Jauja-Huanca,RED,puka,179
+Laraos,RED,puka,179
+Lincha-Tana,RED,puka,179
+Liscay-San_Pedro,RED,puka,179
+Napo,RED,puka,179
+Pacaraos,RED,puka,179
+Pastaza,RED,puka,179
+Puno,RED,puka,179
+San_Martín,RED,puka,179
+Santiago_del_Estero,RED,puxa,179
+Tena,RED,puka,179
+Yaru,RED,puɡa,179
+Azuay,RED,puka,180
+Azuay,RED,piʧi,180
+Cajamarca,RED,ʧupika,181
+Lambayeque,RED,ʧupika,181
+Colombian_Inga,RED,piʧi,182
+Apolobamba,HEART,sunqu,183
+Ayacucho,HEART,soŋχo,183
+Azuay,HEART,ʃunɡu,183
+Cacra-Hongos,HEART,ʃoŋqu,183
+Cajamarca,HEART,ʃonqo,183
+Chachapoyas,HEART,ʃunɡu,183
+Chimborazo,HEART,ʃunɡu,183
+Chocos-Huangáscar,HEART,ʃoŋqu,183
+Chuquisaca,HEART,sunqu,183
+Cochabamba,HEART,sunʁu,183
+Colombian_Inga,HEART,sunɡu,183
+Corongo,HEART,ʃunqu,183
+Cuzco,HEART,sunqu,183
+Eastern-Apurímac,HEART,sonqo,183
+Huallaga-Huánuco,HEART,ʃunqu,183
+Huancavelica,HEART,sunɢu,183
+Huaraz-Huailas,HEART,ʃoɲqu,183
+Huaylla-Huanca,HEART,ʂunʔu,183
+Imbabura,HEART,ʃunɡu,183
+Jauja-Huanca,HEART,ʂunʔu,183
+Laraos,HEART,sunqu,183
+Lincha-Tana,HEART,ʃoŋqu,183
+Liscay-San_Pedro,HEART,ʃoŋqu,183
+Napo,HEART,ʃunɡu,183
+Pacaraos,HEART,ʃuɴχu,183
+Puno,HEART,sunqu,183
+San_Martín,HEART,ʃunɡu,183
+Santiago_del_Estero,HEART,soŋqo,183
+Tena,HEART,ʃunɡu,183
+Yaru,HEART,ʃoŋχu,183
+Lambayeque,HEART,korazon,184
+Pastaza,HEART,kurasun,184
+Apolobamba,SWIM,sambu ʎa,185
+Azuay,SWIM,wambu na,185
+Chimborazo,SWIM,wambu,185
+Huancavelica,SWIM,sambu ʎa,185
+Imbabura,SWIM,wambu na,185
+Ayacucho,SWIM,nadja,186
+Cajamarca,SWIM,nada,186
+Corongo,SWIM,nada,186
+Huallaga-Huánuco,SWIM,narja,186
+Lambayeque,SWIM,nada,186
+Laraos,SWIM,nada,186
+Chachapoyas,SWIM,wai̯ta,187
+Chuquisaca,SWIM,wai̯tʼa,187
+Cochabamba,SWIM,wai̯tʼa,187
+Colombian_Inga,SWIM,wai̯ta,187
+Cuzco,SWIM,wai̯ta,187
+Napo,SWIM,wai̯ta na,187
+Pastaza,SWIM,wai̯ta na,187
+San_Martín,SWIM,wai̯ta,187
+Santiago_del_Estero,SWIM,wai̯ta,187
+Tena,SWIM,wai̯ta,187
+Huaylla-Huanca,SWIM,maːta,188
+Puno,SWIM,tuju,189
+Yaru,SWIM,badu,190
+Apolobamba,ROPE,waskʰa,191
+Apurí-Madean-Viñac,ROPE,waska,191
+Ayacucho,ROPE,waska,191
+Azuay,ROPE,waska,191
+Cacra-Hongos,ROPE,waska,191
+Cajamarca,ROPE,waska,191
+Chachapoyas,ROPE,waska,191
+Chimborazo,ROPE,waska,191
+Chocos-Huangáscar,ROPE,waska,191
+Chuquisaca,ROPE,waʃkʰa,191
+Cochabamba,ROPE,waska,191
+Colombian_Inga,ROPE,waska,191
+Corongo,ROPE,waska,191
+Cuzco,ROPE,waskʰa,191
+Eastern-Apurímac,ROPE,waska,191
+Huallaga-Huánuco,ROPE,waska,191
+Huancavelica,ROPE,waskʰa,191
+Huaraz-Huailas,ROPE,waska,191
+Huaylla-Huanca,ROPE,waska,191
+Imbabura,ROPE,waska,191
+Jauja-Huanca,ROPE,waska,191
+Lambayeque,ROPE,waska,191
+Laraos,ROPE,waska,191
+Liscay-San_Pedro,ROPE,waska,191
+Napo,ROPE,waska,191
+Pacaraos,ROPE,waska,191
+Pastaza,ROPE,waska,191
+Puno,ROPE,wiskʰa,191
+San_Martín,ROPE,waska,191
+Santiago_del_Estero,ROPE,waska,191
+Tena,ROPE,waska,191
+Yaru,ROPE,wasɡa,191
+Apolobamba,TWO,iskai̯,192
+Apurí-Madean-Viñac,TWO,iʃkai̯,192
+Ayacucho,TWO,iskai̯,192
+Azuay,TWO,iʃkai̯,192
+Cacra-Hongos,TWO,iʃkai̯,192
+Cajamarca,TWO,iskai̯,192
+Chachapoyas,TWO,içkai̯,192
+Chimborazo,TWO,iʃki,192
+Chocos-Huangáscar,TWO,iʃkai̯,192
+Chuquisaca,TWO,iskai̯,192
+Cochabamba,TWO,iskai̯,192
+Colombian_Inga,TWO,iskai̯,192
+Corongo,TWO,iʃkeː,192
+Cuzco,TWO,iskai̯,192
+Eastern-Apurímac,TWO,iskai̯,192
+Huallaga-Huánuco,TWO,iskai̯,192
+Huancavelica,TWO,iskai̯,192
+Huaraz-Huailas,TWO,iʃkai̯,192
+Huaylla-Huanca,TWO,iʃkai̯,192
+Imbabura,TWO,iʃkai̯,192
+Jauja-Huanca,TWO,iʃkai̯,192
+Lambayeque,TWO,iskai̯,192
+Laraos,TWO,iʃkai̯,192
+Lincha-Tana,TWO,iʃkai̯,192
+Liscay-San_Pedro,TWO,iʃkai̯,192
+Napo,TWO,iʃkai̯,192
+Pacaraos,TWO,içkai̯,192
+Pastaza,TWO,iʃkai̯,192
+Puno,TWO,iskai̯,192
+San_Martín,TWO,içkai̯,192
+Santiago_del_Estero,TWO,iʃkai̯,192
+Tena,TWO,iʃki,192
+Yaru,TWO,içɡai̯,192
+Apolobamba,THINK (REFLECT),jarpa,193
+Corongo,THINK (REFLECT),jarpa,193
+Huallaga-Huánuco,THINK (REFLECT),jarpa,193
+Jauja-Huanca,THINK (REFLECT),jalpa,193
+Lambayeque,THINK (REFLECT),jarpa,193
+Laraos,THINK (REFLECT),jarpa,193
+Pacaraos,THINK (REFLECT),jaɾpa,193
+Yaru,THINK (REFLECT),jaɾba,193
+Ayacucho,THINK (REFLECT),juja,194
+Azuay,THINK (REFLECT),juja na,194
+Cajamarca,THINK (REFLECT),juja,194
+Chachapoyas,THINK (REFLECT),juja,194
+Chimborazo,THINK (REFLECT),juja,194
+Colombian_Inga,THINK (REFLECT),juja,194
+Cuzco,THINK (REFLECT),juja,194
+Huancavelica,THINK (REFLECT),juja,194
+Imbabura,THINK (REFLECT),juja na,194
+Napo,THINK (REFLECT),juja na,194
+Pastaza,THINK (REFLECT),juja ri na,194
+Puno,THINK (REFLECT),juja,194
+San_Martín,THINK (REFLECT),juja,194
+Tena,THINK (REFLECT),juja,194
+Chuquisaca,THINK (REFLECT),tʼuku,195
+Cochabamba,THINK (REFLECT),tʼuku,195
+Eastern-Apurímac,THINK (REFLECT),hamu ta,196
+Huaraz-Huailas,THINK (REFLECT),peɲsaɾ,197
+Huaylla-Huanca,THINK (REFLECT),jai̯ni ʧa ku,198
+Huaylla-Huanca,THINK (REFLECT),jai̯ni ka ʈ͡ʂa,198
+Huaylla-Huanca,THINK (REFLECT),uma ʧa ku,199
+Santiago_del_Estero,THINK (REFLECT),jaʧai̯,200
+Apolobamba,SUCK,ʧʼunqa,201
+Chuquisaca,SUCK,ʧʼunqa,201
+Cochabamba,SUCK,ʧʼunʁa,201
+Cuzco,SUCK,ʧʼunqa,201
+Eastern-Apurímac,SUCK,ʧonqa,201
+Napo,SUCK,ʦunɡa na,201
+Pastaza,SUCK,ʦunɡa na,201
+Puno,SUCK,ʧʼunqa,201
+Santiago_del_Estero,SUCK,ʧoŋqa,201
+Tena,SUCK,ʦunɡa,201
+Apurí-Madean-Viñac,SUCK,ʃoqu,202
+Ayacucho,SUCK,soχo,202
+Cacra-Hongos,SUCK,ʃoqu,202
+Chachapoyas,SUCK,çuku,202
+Chocos-Huangáscar,SUCK,ʃoqu,202
+Corongo,SUCK,ʃuqu,202
+Huallaga-Huánuco,SUCK,ʃuqu,202
+Huancavelica,SUCK,suχu,202
+Huaylla-Huanca,SUCK,ʃoqu,202
+Jauja-Huanca,SUCK,ʃoqu,202
+Lambayeque,SUCK,ʃuʁu,202
+Laraos,SUCK,ʃuqu,202
+Lincha-Tana,SUCK,ʃoqu,202
+Liscay-San_Pedro,SUCK,ʃoqu,202
+Pacaraos,SUCK,çoχu,202
+San_Martín,SUCK,çuku,202
+Yaru,SUCK,çoχu,202
+Azuay,SUCK,sunɡa na,203
+Azuay,SUCK,ʧuʧu na,203
+Cajamarca,SUCK,ɲuɲu,204
+Huaylla-Huanca,SUCK,ɲuɲu,204
+Jauja-Huanca,SUCK,ɲuɲu,204
+Santiago_del_Estero,SUCK,ɲuɲu,204
+Chimborazo,SUCK,ʧuʧu,205
+Colombian_Inga,SUCK,ʧuʧu ri,205
+Pastaza,SUCK,ʧuʧu na,205
+Huaraz-Huailas,SUCK,mamaɾ,206
+Imbabura,SUCK,ʧupa na,207
+Pastaza,SUCK,ʧupa na,207
+Apolobamba,WHAT,ima,208
+Apurí-Madean-Viñac,WHAT,ima,208
+Ayacucho,WHAT,ima,208
+Azuay,WHAT,ima,208
+Cacra-Hongos,WHAT,ima,208
+Cajamarca,WHAT,ima,208
+Chachapoyas,WHAT,ima,208
+Chimborazo,WHAT,ima,208
+Chocos-Huangáscar,WHAT,ima,208
+Chuquisaca,WHAT,ima,208
+Cochabamba,WHAT,ima,208
+Colombian_Inga,WHAT,ima,208
+Corongo,WHAT,ima,208
+Cuzco,WHAT,ima,208
+Eastern-Apurímac,WHAT,ima,208
+Huallaga-Huánuco,WHAT,ima,208
+Huancavelica,WHAT,ima,208
+Huaraz-Huailas,WHAT,ima,208
+Huaylla-Huanca,WHAT,ima,208
+Imbabura,WHAT,ima,208
+Jauja-Huanca,WHAT,ima,208
+Lambayeque,WHAT,ima,208
+Laraos,WHAT,ima,208
+Lincha-Tana,WHAT,ima,208
+Liscay-San_Pedro,WHAT,ima,208
+Napo,WHAT,ima,208
+Pacaraos,WHAT,ima,208
+Pastaza,WHAT,ima,208
+Puno,WHAT,ima,208
+San_Martín,WHAT,ima,208
+Santiago_del_Estero,WHAT,ima,208
+Tena,WHAT,ima,208
+Yaru,WHAT,ima,208
+Apolobamba,STAR,qu̯iʎur,209
+Apurí-Madean-Viñac,STAR,qoi̯ʎuɾ,209
+Ayacucho,STAR,χoi̯ʎuɾ,209
+Azuay,STAR,ku̯iʎuɾ,209
+Cacra-Hongos,STAR,qoi̯ʎul,209
+Huallaga-Huánuco,STAR,qu̯iʎar,209
+Huallaga-Huánuco,STAR,qu̯iʎur,209
+Huaraz-Huailas,STAR,qai̯ʎuɾ,209
+Huaylla-Huanca,STAR,hu̯iʎur,209
+Jauja-Huanca,STAR,hu̯iʎur,209
+Lambayeque,STAR,χujar,209
+Laraos,STAR,qu̯iʎur,209
+Lincha-Tana,STAR,qoi̯ʎuɾ,209
+Santiago_del_Estero,STAR,qoʒuɾ,209
+Yaru,STAR,χoi̯ʎaʐ,209
+Apurí-Madean-Viñac,STAR,lusiɾu,210
+Cacra-Hongos,STAR,ʃusilu,210
+Cajamarca,STAR,luzeru,210
+Chimborazo,STAR,luzeru,210
+Chocos-Huangáscar,STAR,lusiɾu,210
+Corongo,STAR,loseːro,210
+Huancavelica,STAR,luziru,210
+Imbabura,STAR,luziɾu,210
+Lincha-Tana,STAR,lusiɾu,210
+Liscay-San_Pedro,STAR,lusiɾu,210
+Pacaraos,STAR,loːseɾo,210
+San_Martín,STAR,lusero,210
+Chuquisaca,STAR,ʧʼaska,211
+Cochabamba,STAR,ʧʼaska,211
+Cuzco,STAR,ʧʼaska,211
+Puno,STAR,ʧʼaska,211
+Pastaza,STAR,istiriʎa,212
+Tena,STAR,estreʎa,212
+Apolobamba,BLOOD,ʎawar,213
+Apurí-Madean-Viñac,BLOOD,jawaɾ,213
+Ayacucho,BLOOD,jawaɾ,213
+Azuay,BLOOD,jawaɾ,213
+Cacra-Hongos,BLOOD,jawal,213
+Cajamarca,BLOOD,jawar,213
+Chachapoyas,BLOOD,jawar,213
+Chimborazo,BLOOD,jawar̝,213
+Chocos-Huangáscar,BLOOD,jawaɾ,213
+Chuquisaca,BLOOD,jawar,213
+Cochabamba,BLOOD,ʎawar,213
+Colombian_Inga,BLOOD,jawar,213
+Corongo,BLOOD,jawar̥,213
+Cuzco,BLOOD,jawar,213
+Eastern-Apurímac,BLOOD,jawar,213
+Huallaga-Huánuco,BLOOD,jawar,213
+Huancavelica,BLOOD,jawar,213
+Huaraz-Huailas,BLOOD,jawaɾ,213
+Huaylla-Huanca,BLOOD,jawar,213
+Imbabura,BLOOD,jawaɾ,213
+Jauja-Huanca,BLOOD,jawar,213
+Lambayeque,BLOOD,jawar,213
+Laraos,BLOOD,jawar,213
+Lincha-Tana,BLOOD,jawaɾ,213
+Liscay-San_Pedro,BLOOD,jawaɾ,213
+Napo,BLOOD,rawai̯,213
+Pacaraos,BLOOD,jawaɾ,213
+Pastaza,BLOOD,jawar,213
+Puno,BLOOD,jawar,213
+San_Martín,BLOOD,jawar,213
+Santiago_del_Estero,BLOOD,jaːɾ,213
+Tena,BLOOD,jawar̥,213
+Yaru,BLOOD,jawaʐ,213
+Apolobamba,BLACK,jana,214
+Apurí-Madean-Viñac,BLACK,jana,214
+Ayacucho,BLACK,jana,214
+Azuay,BLACK,jana,214
+Cacra-Hongos,BLACK,jana,214
+Cajamarca,BLACK,jana,214
+Chachapoyas,BLACK,jana,214
+Chimborazo,BLACK,jana,214
+Chocos-Huangáscar,BLACK,jana,214
+Chuquisaca,BLACK,jana,214
+Cochabamba,BLACK,jana,214
+Colombian_Inga,BLACK,jana,214
+Corongo,BLACK,jana,214
+Cuzco,BLACK,jana,214
+Eastern-Apurímac,BLACK,jana,214
+Huallaga-Huánuco,BLACK,jana,214
+Huancavelica,BLACK,jana,214
+Huaraz-Huailas,BLACK,jaɲa,214
+Huaylla-Huanca,BLACK,jana,214
+Imbabura,BLACK,jana,214
+Jauja-Huanca,BLACK,jana,214
+Lambayeque,BLACK,jana,214
+Laraos,BLACK,jana,214
+Lincha-Tana,BLACK,jana,214
+Liscay-San_Pedro,BLACK,jana,214
+Napo,BLACK,jana,214
+Pacaraos,BLACK,jana,214
+Pastaza,BLACK,jana,214
+Puno,BLACK,jana,214
+San_Martín,BLACK,jana,214
+Santiago_del_Estero,BLACK,jana,214
+Tena,BLACK,jana,214
+Yaru,BLACK,jana,214
+Apolobamba,YELLOW,qʼiʎu,215
+Ayacucho,YELLOW,χeʎu,215
+Azuay,YELLOW,kiʎu,215
+Chachapoyas,YELLOW,kiʥu,215
+Chimborazo,YELLOW,kiʒu,215
+Chuquisaca,YELLOW,qʼiʎu,215
+Cochabamba,YELLOW,qʼiʎu,215
+Colombian_Inga,YELLOW,xiʎu,215
+Cuzco,YELLOW,qʼiʎu,215
+Huancavelica,YELLOW,χiʎu,215
+Imbabura,YELLOW,kiʎu,215
+Napo,YELLOW,kiʎu,215
+Pastaza,YELLOW,kiʎu,215
+Puno,YELLOW,qʼiʎu,215
+San_Martín,YELLOW,kiʥu,215
+Santiago_del_Estero,YELLOW,qɪʒu,215
+Tena,YELLOW,kiʎu,215
+Apurí-Madean-Viñac,YELLOW,qaɾwa,216
+Cacra-Hongos,YELLOW,qalwa,216
+Cajamarca,YELLOW,qarwa,216
+Chocos-Huangáscar,YELLOW,qaɾwa,216
+Corongo,YELLOW,qarwa,216
+Huallaga-Huánuco,YELLOW,qarwa ʃ,216
+Huaraz-Huailas,YELLOW,qaɾwaʃ,216
+Lambayeque,YELLOW,χarwa,216
+Laraos,YELLOW,qarwa ʃ,216
+Lincha-Tana,YELLOW,qaɾwa,216
+Liscay-San_Pedro,YELLOW,qaɾwa,216
+Pacaraos,YELLOW,ʁaɾwa,216
+Eastern-Apurímac,YELLOW,paru,217
+Huaylla-Huanca,YELLOW,tunʔuʂ,218
+Jauja-Huanca,YELLOW,tunʔuʂ,218
+Yaru,YELLOW,tiɾi,219
+Apolobamba,SAND,aqu,220
+Apurí-Madean-Viñac,SAND,aqo,220
+Ayacucho,SAND,aχo,220
+Cacra-Hongos,SAND,aqo,220
+Cajamarca,SAND,aʁu,220
+Chocos-Huangáscar,SAND,aqo,220
+Corongo,SAND,aqu,220
+Cuzco,SAND,aqu,220
+Eastern-Apurímac,SAND,aqo,220
+Huallaga-Huánuco,SAND,aquʃ,220
+Huancavelica,SAND,aχu,220
+Huaylla-Huanca,SAND,aʔu,220
+Jauja-Huanca,SAND,aʔu,220
+Lambayeque,SAND,aʁu,220
+Laraos,SAND,aqu,220
+Lincha-Tana,SAND,aqo,220
+Liscay-San_Pedro,SAND,aqo,220
+Puno,SAND,aqu,220
+Azuay,SAND,tiju,221
+Chachapoyas,SAND,tiju,221
+Chimborazo,SAND,tʰiju,221
+Chuquisaca,SAND,tʼiju,221
+Cochabamba,SAND,tʼiju,221
+Imbabura,SAND,tiju,221
+Pastaza,SAND,tiju,221
+San_Martín,SAND,tiju,221
+Santiago_del_Estero,SAND,tiju,221
+Huaraz-Huailas,SAND,aʎpa,222
+Tena,SAND,ʦaʦa,223
+Yaru,SAND,çoχja,224
+Apolobamba,TONGUE,qaʎu,225
+Apurí-Madean-Viñac,TONGUE,qaʎu,225
+Ayacucho,TONGUE,χaʎu,225
+Azuay,TONGUE,kaʎu,225
+Cacra-Hongos,TONGUE,qaʎu,225
+Cajamarca,TONGUE,qaʥu,225
+Chachapoyas,TONGUE,kaʥu,225
+Chimborazo,TONGUE,kʰaʒu,225
+Chocos-Huangáscar,TONGUE,qaʎu,225
+Chuquisaca,TONGUE,qaʎu,225
+Cochabamba,TONGUE,ɢaʎu,225
+Colombian_Inga,TONGUE,kaʎu,225
+Corongo,TONGUE,qaʎu,225
+Cuzco,TONGUE,qaʎu,225
+Eastern-Apurímac,TONGUE,qaʎu,225
+Huallaga-Huánuco,TONGUE,qaʎu,225
+Huancavelica,TONGUE,χaʎu,225
+Huaraz-Huailas,TONGUE,qaʎu,225
+Huaylla-Huanca,TONGUE,haʎu,225
+Imbabura,TONGUE,xaʎu,225
+Jauja-Huanca,TONGUE,haʎu,225
+Lambayeque,TONGUE,qaʤu,225
+Lambayeque,TONGUE,χaʤu,225
+Laraos,TONGUE,qaʎu,225
+Lincha-Tana,TONGUE,qaʎu,225
+Liscay-San_Pedro,TONGUE,qaʎu,225
+Napo,TONGUE,kaʎu,225
+Pacaraos,TONGUE,ʁaʎu,225
+Pacaraos,TONGUE,ʁalu,225
+Pastaza,TONGUE,kaʎu,225
+Puno,TONGUE,qaʎu,225
+San_Martín,TONGUE,kaʥu,225
+Santiago_del_Estero,TONGUE,qaʒu,225
+Tena,TONGUE,kaʎu,225
+Yaru,TONGUE,χaʎu,225
+Apolobamba,FOUR,tawa,226
+Apurí-Madean-Viñac,FOUR,tawa,226
+Ayacucho,FOUR,tawa,226
+Cacra-Hongos,FOUR,tawa,226
+Chocos-Huangáscar,FOUR,tawa,226
+Chuquisaca,FOUR,tawa,226
+Cochabamba,FOUR,tawa,226
+Cuzco,FOUR,tawa,226
+Eastern-Apurímac,FOUR,tawa,226
+Huancavelica,FOUR,tawa,226
+Huaylla-Huanca,FOUR,tawa,226
+Jauja-Huanca,FOUR,tawa,226
+Laraos,FOUR,tawa,226
+Lincha-Tana,FOUR,tawa,226
+Liscay-San_Pedro,FOUR,tawa,226
+Puno,FOUR,tawa,226
+Santiago_del_Estero,FOUR,taː,226
+Azuay,FOUR,ʧusku,227
+Cajamarca,FOUR,ʈ͡ʂusku,227
+Chachapoyas,FOUR,ʧusku,227
+Chimborazo,FOUR,ʧusku,227
+Colombian_Inga,FOUR,ʧusku,227
+Corongo,FOUR,ʈ͡ʂusku,227
+Huallaga-Huánuco,FOUR,ʧusku,227
+Huaraz-Huailas,FOUR,ʧusku,227
+Huaylla-Huanca,FOUR,ʈ͡ʂusku,227
+Imbabura,FOUR,ʧusku,227
+Jauja-Huanca,FOUR,ʈ͡ʂusku,227
+Napo,FOUR,ʧusku,227
+Pacaraos,FOUR,ʈ͡ʂusku,227
+Pastaza,FOUR,ʧusku,227
+San_Martín,FOUR,ʧusku,227
+Tena,FOUR,ʧusku,227
+Yaru,FOUR,ʈ͡ʂusɡu,227
+Lambayeque,FOUR,kuatro,228
+Apolobamba,GREEN,qʼumir,229
+Ayacucho,GREEN,χumiɽ,229
+Chuquisaca,GREEN,qʼumir,229
+Cochabamba,GREEN,qʼumir,229
+Cuzco,GREEN,qʼumir,229
+Puno,GREEN,qʼumir,229
+Santiago_del_Estero,GREEN,qomeɾ,229
+Azuay,GREEN,lumaɾ,230
+Cajamarca,GREEN,ʧiʁjax,231
+Chachapoyas,GREEN,ʧikjax,231
+Corongo,GREEN,ʦiqjaq,231
+Lambayeque,GREEN,ʧiχjaχ,231
+San_Martín,GREEN,ʧikxak,231
+Chimborazo,GREEN,berde,232
+Huallaga-Huánuco,GREEN,berde,232
+Huaraz-Huailas,GREEN,beɾi,232
+Huaylla-Huanca,GREEN,biɾdi,232
+Imbabura,GREEN,biɾdi,232
+Laraos,GREEN,berde,232
+Napo,GREEN,birdi,232
+Pacaraos,GREEN,berdi,232
+Tena,GREEN,berde,232
+Eastern-Apurímac,GREEN,kuku,233
+Huancavelica,GREEN,χiwa,234
+Pastaza,GREEN,kiʎu,235
+Apolobamba,WING,lixra,236
+Apurí-Madean-Viñac,WING,ɾikɾa,236
+Cacra-Hongos,WING,ʃikla,236
+Chachapoyas,WING,rikra,236
+Chocos-Huangáscar,WING,ɾikɾa,236
+Chuquisaca,WING,lixra,236
+Cochabamba,WING,liχra,236
+Cochabamba,WING,lixra,236
+Huaraz-Huailas,WING,ɾipɾa,236
+Laraos,WING,likra,236
+Lincha-Tana,WING,likla,236
+Liscay-San_Pedro,WING,ɾikɾa,236
+Napo,WING,riɡra,236
+Pastaza,WING,ɾiɡra,236
+Puno,WING,rixra,236
+San_Martín,WING,rikra,236
+Santiago_del_Estero,WING,lixɾa,236
+Ayacucho,WING,ɾapɾa,237
+Cuzco,WING,raɸra,237
+Eastern-Apurímac,WING,rapra,237
+Eastern-Apurímac,WING,parpa,237
+Huancavelica,WING,rapra,237
+Huaylla-Huanca,WING,lapla,237
+Jauja-Huanca,WING,lapla,237
+Yaru,WING,ʐapɾa,237
+Cajamarca,WING,ala,238
+Chimborazo,WING,alas,238
+Corongo,WING,ala,238
+Imbabura,WING,alas,238
+Lambayeque,WING,ala,238
+Colombian_Inga,WING,uɡʎa riska,239
+Huallaga-Huánuco,WING,kapa,240
+Tena,WING,riʁra panɡa,241
+Apolobamba,EYE,ɲawi,242
+Apurí-Madean-Viñac,EYE,ɲawi,242
+Ayacucho,EYE,ɲawi,242
+Azuay,EYE,ɲawi,242
+Cacra-Hongos,EYE,ɲawi,242
+Cajamarca,EYE,ɲawi,242
+Chachapoyas,EYE,ɲawi,242
+Chimborazo,EYE,ɲawi,242
+Chocos-Huangáscar,EYE,ɲawi,242
+Chuquisaca,EYE,ɲawi,242
+Cochabamba,EYE,ɲawi,242
+Colombian_Inga,EYE,ɲawi,242
+Corongo,EYE,ɲawi,242
+Cuzco,EYE,ɲawi,242
+Eastern-Apurímac,EYE,ɲawi,242
+Huallaga-Huánuco,EYE,ɲawi,242
+Huancavelica,EYE,ɲawi,242
+Huaraz-Huailas,EYE,ɳawi,242
+Huaylla-Huanca,EYE,ɲawi,242
+Jauja-Huanca,EYE,ɲawi,242
+Lambayeque,EYE,nawi,242
+Laraos,EYE,ɲawi,242
+Lincha-Tana,EYE,ɲawi,242
+Liscay-San_Pedro,EYE,ɲawi,242
+Napo,EYE,ɲawi,242
+Pacaraos,EYE,ɲawi,242
+Pastaza,EYE,ɲavi,242
+Puno,EYE,ɲawi,242
+San_Martín,EYE,ɲawi,242
+Santiago_del_Estero,EYE,ɲawi,242
+Tena,EYE,ɲaβi,242
+Tena,EYE,ɲawi,242
+Yaru,EYE,nawi,242
+Imbabura,EYE,ɲawi lulun,243
+Apolobamba,FLESH OR MEAT,ai̯ʧa,244
+Apurí-Madean-Viñac,FLESH OR MEAT,ai̯ʧa,244
+Ayacucho,FLESH OR MEAT,ai̯ʧa,244
+Azuay,FLESH OR MEAT,ai̯ʧa,244
+Cacra-Hongos,FLESH OR MEAT,ai̯ʧa,244
+Cajamarca,FLESH OR MEAT,ai̯ʧa,244
+Chachapoyas,FLESH OR MEAT,ai̯ʧa,244
+Chimborazo,FLESH OR MEAT,ai̯ʧa,244
+Chocos-Huangáscar,FLESH OR MEAT,ai̯ʧa,244
+Chuquisaca,FLESH OR MEAT,ai̯ʧa,244
+Cochabamba,FLESH OR MEAT,ai̯ʧa,244
+Colombian_Inga,FLESH OR MEAT,ai̯ʧa,244
+Corongo,FLESH OR MEAT,eːʦa,244
+Cuzco,FLESH OR MEAT,ai̯ʧa,244
+Eastern-Apurímac,FLESH OR MEAT,ai̯ʧa,244
+Huallaga-Huánuco,FLESH OR MEAT,ai̯ʧa,244
+Huancavelica,FLESH OR MEAT,ai̯ʧa,244
+Huaraz-Huailas,FLESH OR MEAT,ai̯ʦa,244
+Huaylla-Huanca,FLESH OR MEAT,ai̯ʧa,244
+Imbabura,FLESH OR MEAT,ai̯ʧa,244
+Jauja-Huanca,FLESH OR MEAT,ai̯ʧa,244
+Lambayeque,FLESH OR MEAT,ai̯ʧa,244
+Laraos,FLESH OR MEAT,ai̯ʧa,244
+Lincha-Tana,FLESH OR MEAT,ai̯ʧa,244
+Liscay-San_Pedro,FLESH OR MEAT,ai̯ʧa,244
+Napo,FLESH OR MEAT,ai̯ʧa,244
+Pacaraos,FLESH OR MEAT,ai̯sa,244
+Pastaza,FLESH OR MEAT,ai̯ʧa,244
+Puno,FLESH OR MEAT,ai̯ʧa,244
+San_Martín,FLESH OR MEAT,ai̯ʧa,244
+Santiago_del_Estero,FLESH OR MEAT,ai̯ʧa,244
+Tena,FLESH OR MEAT,ai̯ʧa,244
+Yaru,FLESH OR MEAT,ai̯ʧa,244
+Apolobamba,SEED,muxu,245
+Ayacucho,SEED,muja,245
+Azuay,SEED,muju,245
+Chimborazo,SEED,muju,245
+Chuquisaca,SEED,muhu,245
+Cochabamba,SEED,muhu,245
+Colombian_Inga,SEED,muju,245
+Cuzco,SEED,muxu,245
+Eastern-Apurímac,SEED,muχu,245
+Eastern-Apurímac,SEED,muhu,245
+Eastern-Apurímac,SEED,muqu,245
+Huancavelica,SEED,muxu,245
+Huaylla-Huanca,SEED,muhu,245
+Imbabura,SEED,muju,245
+Jauja-Huanca,SEED,muhu,245
+Napo,SEED,muju,245
+Pastaza,SEED,muju,245
+Puno,SEED,muxu,245
+Tena,SEED,muju,245
+Ayacucho,SEED,muɾu,246
+Cajamarca,SEED,muru,246
+Chachapoyas,SEED,muru,246
+Corongo,SEED,muru,246
+Huallaga-Huánuco,SEED,muru,246
+Huaraz-Huailas,SEED,muɾu,246
+Pacaraos,SEED,muɾu,246
+San_Martín,SEED,muru,246
+Yaru,SEED,muɾu,246
+Chachapoyas,SEED,ruru,247
+Eastern-Apurímac,SEED,ruru,247
+San_Martín,SEED,ruru,247
+Lambayeque,SEED,semiʎa,248
+Laraos,SEED,muni,249
+Apolobamba,FAT (ORGANIC SUBSTANCE),wira,250
+Apurí-Madean-Viñac,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Ayacucho,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Azuay,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Cacra-Hongos,FAT (ORGANIC SUBSTANCE),wila,250
+Cajamarca,FAT (ORGANIC SUBSTANCE),wira,250
+Chachapoyas,FAT (ORGANIC SUBSTANCE),wira,250
+Chimborazo,FAT (ORGANIC SUBSTANCE),wira,250
+Chocos-Huangáscar,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Chuquisaca,FAT (ORGANIC SUBSTANCE),wira,250
+Cochabamba,FAT (ORGANIC SUBSTANCE),wira,250
+Colombian_Inga,FAT (ORGANIC SUBSTANCE),wira,250
+Corongo,FAT (ORGANIC SUBSTANCE),wira,250
+Cuzco,FAT (ORGANIC SUBSTANCE),wira,250
+Eastern-Apurímac,FAT (ORGANIC SUBSTANCE),wira,250
+Huallaga-Huánuco,FAT (ORGANIC SUBSTANCE),wira,250
+Huancavelica,FAT (ORGANIC SUBSTANCE),wira,250
+Huaraz-Huailas,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Huaylla-Huanca,FAT (ORGANIC SUBSTANCE),wila,250
+Imbabura,FAT (ORGANIC SUBSTANCE),ɸiɾa,250
+Jauja-Huanca,FAT (ORGANIC SUBSTANCE),wila,250
+Lambayeque,FAT (ORGANIC SUBSTANCE),wira,250
+Laraos,FAT (ORGANIC SUBSTANCE),wira,250
+Lincha-Tana,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Liscay-San_Pedro,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Pacaraos,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Puno,FAT (ORGANIC SUBSTANCE),wira,250
+San_Martín,FAT (ORGANIC SUBSTANCE),wira,250
+Santiago_del_Estero,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Tena,FAT (ORGANIC SUBSTANCE),ira,250
+Yaru,FAT (ORGANIC SUBSTANCE),wiɾa,250
+Eastern-Apurímac,FAT (ORGANIC SUBSTANCE),untu,251
+Pastaza,FAT (ORGANIC SUBSTANCE),ɡrasa,252
+Apolobamba,GIVE,qu,253
+Apurí-Madean-Viñac,GIVE,qo,253
+Ayacucho,GIVE,χo,253
+Azuay,GIVE,ku na,253
+Cacra-Hongos,GIVE,qo,253
+Cajamarca,GIVE,qu,253
+Chachapoyas,GIVE,ku,253
+Chimborazo,GIVE,ku,253
+Chocos-Huangáscar,GIVE,qo,253
+Chuquisaca,GIVE,qu,253
+Cochabamba,GIVE,ɢu,253
+Corongo,GIVE,qu,253
+Cuzco,GIVE,qu,253
+Eastern-Apurímac,GIVE,qo,253
+Huallaga-Huánuco,GIVE,qu,253
+Huancavelica,GIVE,χu,253
+Huaylla-Huanca,GIVE,ʔu,253
+Imbabura,GIVE,ku na,253
+Jauja-Huanca,GIVE,ʔu,253
+Lambayeque,GIVE,qu,253
+Laraos,GIVE,qu,253
+Lincha-Tana,GIVE,qo,253
+Liscay-San_Pedro,GIVE,qo,253
+Napo,GIVE,kun a,253
+Pacaraos,GIVE,χo,253
+Pastaza,GIVE,ku na,253
+Puno,GIVE,qu,253
+San_Martín,GIVE,ku,253
+Santiago_del_Estero,GIVE,qo,253
+Tena,GIVE,ku,253
+Yaru,GIVE,χo,253
+Colombian_Inga,GIVE,kara,254
+Apolobamba,MANY,aʧkʰa,255
+Apurí-Madean-Viñac,MANY,aʧka,255
+Ayacucho,MANY,aʧka,255
+Azuay,MANY,aʧka,255
+Cacra-Hongos,MANY,aʧka,255
+Cajamarca,MANY,aʧka,255
+Chimborazo,MANY,aʧka,255
+Chocos-Huangáscar,MANY,aʧka,255
+Chuquisaca,MANY,aʃkʰa s,255
+Cochabamba,MANY,aʃkʰa,255
+Colombian_Inga,MANY,aʧka,255
+Corongo,MANY,aʦka,255
+Cuzco,MANY,askʰa,255
+Eastern-Apurímac,MANY,aska,255
+Huallaga-Huánuco,MANY,aʧka,255
+Huancavelica,MANY,aʧka,255
+Huaylla-Huanca,MANY,aʧka,255
+Imbabura,MANY,aʧka,255
+Jauja-Huanca,MANY,aʧka,255
+Lambayeque,MANY,aʧka,255
+Laraos,MANY,aʧka,255
+Lincha-Tana,MANY,aʧka,255
+Liscay-San_Pedro,MANY,aʧka,255
+Napo,MANY,aʃka,255
+Pastaza,MANY,aʧka,255
+Puno,MANY,aʃkʰa,255
+San_Martín,MANY,aʧka,255
+Santiago_del_Estero,MANY,aʧka,255
+Tena,MANY,aʃka,255
+Yaru,MANY,aʧka,255
+Eastern-Apurímac,MANY,nisju,256
+Huaraz-Huailas,MANY,fejupa,257
+Pacaraos,MANY,isisiː,258
+Pastaza,MANY,japa,259
+San_Martín,MANY,suka man,260
+Apolobamba,EAR,ninri,261
+Apolobamba,EAR,linri,261
+Apurí-Madean-Viñac,EAR,ɾinɾi,261
+Ayacucho,EAR,ɾiŋɾi,261
+Azuay,EAR,ɾinɾi,261
+Cacra-Hongos,EAR,linli,261
+Cajamarca,EAR,rinri,261
+Chachapoyas,EAR,rinri,261
+Chimborazo,EAR,r̝inr̝in,261
+Chocos-Huangáscar,EAR,ɾinɾi,261
+Chuquisaca,EAR,linri,261
+Chuquisaca,EAR,ninri,261
+Chuquisaca,EAR,niɡri,261
+Cochabamba,EAR,ninri,261
+Cochabamba,EAR,linri,261
+Colombian_Inga,EAR,rinri,261
+Corongo,EAR,rinri,261
+Cuzco,EAR,ninri,261
+Cuzco,EAR,rinri,261
+Eastern-Apurímac,EAR,rinri,261
+Eastern-Apurímac,EAR,ninri,261
+Huallaga-Huánuco,EAR,rinri,261
+Huancavelica,EAR,linri,261
+Huancavelica,EAR,rinri,261
+Huaraz-Huailas,EAR,ɾiɲɾi,261
+Huaylla-Huanca,EAR,linli,261
+Imbabura,EAR,ɾinɾi,261
+Jauja-Huanca,EAR,linli,261
+Lambayeque,EAR,r̝inri,261
+Laraos,EAR,linri,261
+Lincha-Tana,EAR,linɾi,261
+Liscay-San_Pedro,EAR,ɾinɾi,261
+Napo,EAR,rinri,261
+Pacaraos,EAR,ɾiŋɾi,261
+Pastaza,EAR,ɾinri,261
+Puno,EAR,ninri,261
+Puno,EAR,rinri,261
+San_Martín,EAR,rinri,261
+Santiago_del_Estero,EAR,niŋɾi,261
+Tena,EAR,riŋri,261
+Yaru,EAR,ʐiŋɾi,261
+Apolobamba,HORN (ANATOMY),waχra,262
+Apurí-Madean-Viñac,HORN (ANATOMY),waqɾa,262
+Ayacucho,HORN (ANATOMY),waχɾa,262
+Cacra-Hongos,HORN (ANATOMY),waqla,262
+Cajamarca,HORN (ANATOMY),waqra,262
+Chachapoyas,HORN (ANATOMY),wakra,262
+Chocos-Huangáscar,HORN (ANATOMY),waqɾa,262
+Chuquisaca,HORN (ANATOMY),waχra,262
+Cochabamba,HORN (ANATOMY),waχra,262
+Corongo,HORN (ANATOMY),waqra,262
+Cuzco,HORN (ANATOMY),waχra,262
+Eastern-Apurímac,HORN (ANATOMY),waqra,262
+Huallaga-Huánuco,HORN (ANATOMY),waχra,262
+Huancavelica,HORN (ANATOMY),waχra,262
+Huaraz-Huailas,HORN (ANATOMY),waqɾa,262
+Huaylla-Huanca,HORN (ANATOMY),waʔla,262
+Jauja-Huanca,HORN (ANATOMY),waʔla,262
+Lambayeque,HORN (ANATOMY),waχra,262
+Laraos,HORN (ANATOMY),waχra,262
+Lincha-Tana,HORN (ANATOMY),waqɾa,262
+Liscay-San_Pedro,HORN (ANATOMY),waqɾa,262
+Pacaraos,HORN (ANATOMY),waχɾa,262
+Puno,HORN (ANATOMY),waχra,262
+San_Martín,HORN (ANATOMY),wakra,262
+Santiago_del_Estero,HORN (ANATOMY),waχɾa,262
+Yaru,HORN (ANATOMY),waχɾa,262
+Azuay,HORN (ANATOMY),ɡaʧu,263
+Chimborazo,HORN (ANATOMY),ʁaʧu,263
+Chimborazo,HORN (ANATOMY),ɡaʧu,263
+Colombian_Inga,HORN (ANATOMY),kaʧu,263
+Imbabura,HORN (ANATOMY),kaʧu,263
+Napo,HORN (ANATOMY),kaʧu,263
+Pastaza,HORN (ANATOMY),kaʧu,263
+Pastaza,HORN (ANATOMY),kurmi ta,264
+Tena,HORN (ANATOMY),kurnus,264
+Apolobamba,HEAD,uma,265
+Apurí-Madean-Viñac,HEAD,uma,265
+Ayacucho,HEAD,uma,265
+Azuay,HEAD,uma,265
+Cacra-Hongos,HEAD,uma,265
+Cajamarca,HEAD,uma,265
+Chachapoyas,HEAD,uma,265
+Chimborazo,HEAD,uma,265
+Chocos-Huangáscar,HEAD,uma,265
+Chuquisaca,HEAD,uma,265
+Cochabamba,HEAD,uma,265
+Colombian_Inga,HEAD,uma,265
+Corongo,HEAD,uma,265
+Cuzco,HEAD,uma,265
+Eastern-Apurímac,HEAD,uma,265
+Huallaga-Huánuco,HEAD,uma,265
+Huancavelica,HEAD,uma,265
+Huaraz-Huailas,HEAD,uma,265
+Huaylla-Huanca,HEAD,uma,265
+Imbabura,HEAD,uma,265
+Jauja-Huanca,HEAD,uma,265
+Lambayeque,HEAD,uma,265
+Laraos,HEAD,uma,265
+Lincha-Tana,HEAD,uma,265
+Liscay-San_Pedro,HEAD,uma,265
+Napo,HEAD,uma,265
+Pacaraos,HEAD,uma,265
+Pastaza,HEAD,uma,265
+Puno,HEAD,uma,265
+San_Martín,HEAD,uma,265
+Santiago_del_Estero,HEAD,uma,265
+Tena,HEAD,uma,265
+Yaru,HEAD,uma,265
+Apolobamba,LAUGH,asi,266
+Apurí-Madean-Viñac,LAUGH,asi,266
+Ayacucho,LAUGH,asi,266
+Azuay,LAUGH,asi na,266
+Cacra-Hongos,LAUGH,asi,266
+Cajamarca,LAUGH,asi,266
+Chachapoyas,LAUGH,asi,266
+Chimborazo,LAUGH,asi,266
+Chocos-Huangáscar,LAUGH,asi,266
+Chuquisaca,LAUGH,asi,266
+Cochabamba,LAUGH,asi,266
+Colombian_Inga,LAUGH,asi,266
+Corongo,LAUGH,asi,266
+Cuzco,LAUGH,asi,266
+Eastern-Apurímac,LAUGH,asi,266
+Huallaga-Huánuco,LAUGH,asi,266
+Huancavelica,LAUGH,asi,266
+Huaraz-Huailas,LAUGH,asi,266
+Huaylla-Huanca,LAUGH,asi,266
+Imbabura,LAUGH,asi na,266
+Jauja-Huanca,LAUGH,asi,266
+Lambayeque,LAUGH,asi,266
+Laraos,LAUGH,asi,266
+Lincha-Tana,LAUGH,asi,266
+Liscay-San_Pedro,LAUGH,asi,266
+Napo,LAUGH,asi na,266
+Pacaraos,LAUGH,aji,266
+Pastaza,LAUGH,asi na,266
+Puno,LAUGH,asi,266
+San_Martín,LAUGH,asi,266
+Santiago_del_Estero,LAUGH,asiː,266
+Tena,LAUGH,asi,266
+Yaru,LAUGH,ai̯ku,267
+Apolobamba,YEAR,wata,268
+Apurí-Madean-Viñac,YEAR,wata,268
+Ayacucho,YEAR,wata,268
+Azuay,YEAR,wata,268
+Cacra-Hongos,YEAR,wata,268
+Cajamarca,YEAR,wata,268
+Chachapoyas,YEAR,wata,268
+Chimborazo,YEAR,wata,268
+Chocos-Huangáscar,YEAR,wata,268
+Chuquisaca,YEAR,wata,268
+Cochabamba,YEAR,wata,268
+Colombian_Inga,YEAR,wata,268
+Corongo,YEAR,wata,268
+Cuzco,YEAR,wata,268
+Eastern-Apurímac,YEAR,wata,268
+Huallaga-Huánuco,YEAR,wata,268
+Huancavelica,YEAR,wata,268
+Huaraz-Huailas,YEAR,wata,268
+Huaylla-Huanca,YEAR,wata,268
+Imbabura,YEAR,wata,268
+Jauja-Huanca,YEAR,wata,268
+Laraos,YEAR,wata,268
+Laraos,YEAR,watə,268
+Lincha-Tana,YEAR,wata,268
+Liscay-San_Pedro,YEAR,wata,268
+Napo,YEAR,wata,268
+Pacaraos,YEAR,wata,268
+Pastaza,YEAR,wata,268
+Puno,YEAR,wata,268
+San_Martín,YEAR,wata,268
+Santiago_del_Estero,YEAR,wata,268
+Tena,YEAR,wata,268
+Yaru,YEAR,wata,268
+Lambayeque,YEAR,aɲo,269
+Apolobamba,BITE,kani,270
+Apurí-Madean-Viñac,BITE,kani,270
+Azuay,BITE,kani na,270
+Cacra-Hongos,BITE,kani,270
+Cajamarca,BITE,kani,270
+Chachapoyas,BITE,kani,270
+Chimborazo,BITE,kani,270
+Chocos-Huangáscar,BITE,kani,270
+Chuquisaca,BITE,kani,270
+Cochabamba,BITE,kani,270
+Colombian_Inga,BITE,kani,270
+Corongo,BITE,kani,270
+Cuzco,BITE,kani,270
+Eastern-Apurímac,BITE,kani,270
+Huallaga-Huánuco,BITE,kaɲi,270
+Huaraz-Huailas,BITE,aɲi,270
+Huaylla-Huanca,BITE,kani,270
+Imbabura,BITE,kani na,270
+Jauja-Huanca,BITE,kani,270
+Lambayeque,BITE,kani,270
+Lincha-Tana,BITE,kani,270
+Liscay-San_Pedro,BITE,kani,270
+Napo,BITE,kani na,270
+Pacaraos,BITE,kani,270
+Pastaza,BITE,kani na,270
+Puno,BITE,kani,270
+San_Martín,BITE,kani,270
+Santiago_del_Estero,BITE,kaniː,270
+Tena,BITE,kani,270
+Ayacucho,BITE,kaʧu,271
+Eastern-Apurímac,BITE,kaʧu,271
+Eastern-Apurímac,BITE,qaʧu,271
+Huancavelica,BITE,kaʧa,271
+Laraos,BITE,kaʈ͡ʂu,271
+Yaru,BITE,kaʈ͡ʂu,271
+Eastern-Apurímac,BITE,kamu,272
+Apolobamba,FLY (MOVE THROUGH AIR),hala ʧa,273
+Apurí-Madean-Viñac,FLY (MOVE THROUGH AIR),pawa,274
+Ayacucho,FLY (MOVE THROUGH AIR),pawa,274
+Cacra-Hongos,FLY (MOVE THROUGH AIR),pawa,274
+Chachapoyas,FLY (MOVE THROUGH AIR),pawa,274
+Chocos-Huangáscar,FLY (MOVE THROUGH AIR),pawa,274
+Chuquisaca,FLY (MOVE THROUGH AIR),pʰawa,274
+Cochabamba,FLY (MOVE THROUGH AIR),pʰawa,274
+Cuzco,FLY (MOVE THROUGH AIR),pʰawa,274
+Eastern-Apurímac,FLY (MOVE THROUGH AIR),pala,274
+Eastern-Apurímac,FLY (MOVE THROUGH AIR),pawa,274
+Huancavelica,FLY (MOVE THROUGH AIR),pawa,274
+Laraos,FLY (MOVE THROUGH AIR),pawa,274
+Lincha-Tana,FLY (MOVE THROUGH AIR),pawa,274
+Liscay-San_Pedro,FLY (MOVE THROUGH AIR),pawa,274
+Pastaza,FLY (MOVE THROUGH AIR),pawa na,274
+San_Martín,FLY (MOVE THROUGH AIR),pawa,274
+Santiago_del_Estero,FLY (MOVE THROUGH AIR),paː,274
+Cajamarca,FLY (MOVE THROUGH AIR),pari,275
+Huallaga-Huánuco,FLY (MOVE THROUGH AIR),paːri,275
+Huaraz-Huailas,FLY (MOVE THROUGH AIR),paxaɾi,275
+Huaylla-Huanca,FLY (MOVE THROUGH AIR),paːli,275
+Jauja-Huanca,FLY (MOVE THROUGH AIR),paːli,275
+Lambayeque,FLY (MOVE THROUGH AIR),pari,275
+Pacaraos,FLY (MOVE THROUGH AIR),paːɾi,275
+Yaru,FLY (MOVE THROUGH AIR),paːɾi,275
+Chimborazo,FLY (MOVE THROUGH AIR),kaʒpa,276
+Corongo,FLY (MOVE THROUGH AIR),bu̯elɛ,277
+Imbabura,FLY (MOVE THROUGH AIR),bula na,277
+Napo,FLY (MOVE THROUGH AIR),wambu rina,278
+Tena,FLY (MOVE THROUGH AIR),wambu ri,278
+Puno,FLY (MOVE THROUGH AIR),hala nta,279
+Apolobamba,THOU,qan,280
+Apurí-Madean-Viñac,THOU,qam,280
+Ayacucho,THOU,χam,280
+Azuay,THOU,kan,280
+Cacra-Hongos,THOU,qam,280
+Cajamarca,THOU,qam,280
+Chachapoyas,THOU,kam,280
+Chimborazo,THOU,kan,280
+Chocos-Huangáscar,THOU,qam,280
+Chuquisaca,THOU,qan,280
+Cochabamba,THOU,ʁan,280
+Colombian_Inga,THOU,kam,280
+Corongo,THOU,qam,280
+Cuzco,THOU,qan,280
+Eastern-Apurímac,THOU,qan,280
+Huallaga-Huánuco,THOU,qam,280
+Huancavelica,THOU,χam,280
+Huaraz-Huailas,THOU,qam,280
+Huaylla-Huanca,THOU,qam,280
+Imbabura,THOU,kan,280
+Jauja-Huanca,THOU,qam,280
+Lambayeque,THOU,xam,280
+Laraos,THOU,qam,280
+Lincha-Tana,THOU,qam,280
+Liscay-San_Pedro,THOU,qam,280
+Napo,THOU,kan,280
+Pacaraos,THOU,ʁam,280
+Pastaza,THOU,kan,280
+Puno,THOU,qan,280
+San_Martín,THOU,kam,280
+Santiago_del_Estero,THOU,qam,280
+Tena,THOU,kan,280
+Yaru,THOU,χam,280
+Apolobamba,FULL,huntʼa,281
+Apurí-Madean-Viñac,FULL,hunta,281
+Ayacucho,FULL,hunta,281
+Azuay,FULL,hunda,281
+Cacra-Hongos,FULL,hunta,281
+Cajamarca,FULL,unda,281
+Chachapoyas,FULL,xunda,281
+Chimborazo,FULL,hunda,281
+Chocos-Huangáscar,FULL,hunta,281
+Chuquisaca,FULL,huntʼa,281
+Cochabamba,FULL,huntʼa,281
+Colombian_Inga,FULL,xunda,281
+Corongo,FULL,unta,281
+Cuzco,FULL,huntʼa,281
+Eastern-Apurímac,FULL,hunta,281
+Huallaga-Huánuco,FULL,hunta,281
+Huancavelica,FULL,hunta,281
+Huaylla-Huanca,FULL,hunta,281
+Imbabura,FULL,xunda,281
+Jauja-Huanca,FULL,hunta,281
+Lambayeque,FULL,unda,281
+Laraos,FULL,hunta,281
+Lincha-Tana,FULL,hunta,281
+Liscay-San_Pedro,FULL,hunta,281
+Napo,FULL,hunda,281
+Pacaraos,FULL,xunta,281
+Pastaza,FULL,unda,281
+Puno,FULL,huntʼa,281
+San_Martín,FULL,xunda,281
+Santiago_del_Estero,FULL,unta,281
+Tena,FULL,unda kta,281
+Yaru,FULL,χonta,281
+Apurí-Madean-Viñac,FULL,saksasa,282
+Cacra-Hongos,FULL,saksaʃa,282
+Chocos-Huangáscar,FULL,saksasa,282
+Lincha-Tana,FULL,saksaʃa,282
+Liscay-San_Pedro,FULL,saksasa,282
+Eastern-Apurímac,FULL,ʎinpa,283
+Eastern-Apurímac,FULL,paqar,284
+Eastern-Apurímac,FULL,qapa,285
+Huaraz-Huailas,FULL,wiɲaj,286
+Apolobamba,FLOWER,tʼika,287
+Chuquisaca,FLOWER,tʼika,287
+Cochabamba,FLOWER,tʼika,287
+Cuzco,FLOWER,tʼika,287
+Eastern-Apurímac,FLOWER,tika,287
+Puno,FLOWER,tʼika,287
+Apurí-Madean-Viñac,FLOWER,sisa,288
+Azuay,FLOWER,sisa,288
+Cacra-Hongos,FLOWER,hisa,288
+Chimborazo,FLOWER,sisa,288
+Chocos-Huangáscar,FLOWER,sisa,288
+Huaylla-Huanca,FLOWER,sisa,288
+Imbabura,FLOWER,sisa,288
+Jauja-Huanca,FLOWER,sisa,288
+Lincha-Tana,FLOWER,sisa,288
+Liscay-San_Pedro,FLOWER,sisa,288
+Napo,FLOWER,sisa,288
+Pastaza,FLOWER,sisa,288
+San_Martín,FLOWER,sisa,288
+Santiago_del_Estero,FLOWER,sisa,288
+Tena,FLOWER,sisa,288
+Apurí-Madean-Viñac,FLOWER,wai̯ta,289
+Ayacucho,FLOWER,wai̯ta,289
+Cacra-Hongos,FLOWER,wai̯ta,289
+Chachapoyas,FLOWER,wai̯ta,289
+Chocos-Huangáscar,FLOWER,wai̯ta,289
+Corongo,FLOWER,weːta,289
+Eastern-Apurímac,FLOWER,wai̯ta,289
+Huancavelica,FLOWER,wai̯ta,289
+Huaraz-Huailas,FLOWER,wai̯ta,289
+Huaylla-Huanca,FLOWER,wai̯ta,289
+Jauja-Huanca,FLOWER,wai̯ta,289
+Laraos,FLOWER,wai̯ta,289
+Lincha-Tana,FLOWER,wai̯ta,289
+Liscay-San_Pedro,FLOWER,wai̯ta,289
+Pacaraos,FLOWER,wai̯ʧa,289
+Yaru,FLOWER,wai̯ta,289
+Cajamarca,FLOWER,tuktu,290
+Colombian_Inga,FLOWER,tuxtu,290
+Huallaga-Huánuco,FLOWER,tuktu,290
+Lambayeque,FLOWER,tuktu,290
+Apolobamba,MAN,qʰari,291
+Apurí-Madean-Viñac,MAN,qaɾi,291
+Ayacucho,MAN,χaɾi,291
+Azuay,MAN,kaɾi,291
+Cacra-Hongos,MAN,qali,291
+Chimborazo,MAN,kʰari,291
+Chocos-Huangáscar,MAN,qaɾi,291
+Chuquisaca,MAN,qʰari,291
+Cochabamba,MAN,qʰari,291
+Colombian_Inga,MAN,kari,291
+Cuzco,MAN,qʰari,291
+Eastern-Apurímac,MAN,qari,291
+Huancavelica,MAN,χari,291
+Huaylla-Huanca,MAN,kaɾi,291
+Imbabura,MAN,kaɾi,291
+Laraos,MAN,qari,291
+Lincha-Tana,MAN,qaɾi,291
+Liscay-San_Pedro,MAN,qaɾi,291
+Napo,MAN,kari,291
+Pastaza,MAN,kari,291
+Puno,MAN,qʰari,291
+Santiago_del_Estero,MAN,qaɾi,291
+Tena,MAN,kari,291
+Cajamarca,MAN,uʎʁu,292
+Chachapoyas,MAN,uʥku,292
+Corongo,MAN,uʎqu,292
+Huallaga-Huánuco,MAN,uʎqu,292
+Jauja-Huanca,MAN,uʎʔu,292
+Lambayeque,MAN,uʒɢu,292
+Pacaraos,MAN,ulχo,292
+San_Martín,MAN,uʥku,292
+Yaru,MAN,olχu,292
+Huaraz-Huailas,MAN,hombɾe,293
+Apolobamba,LOUSE,usa,294
+Apurí-Madean-Viñac,LOUSE,usa,294
+Ayacucho,LOUSE,usa,294
+Azuay,LOUSE,usa,294
+Cacra-Hongos,LOUSE,usa,294
+Cajamarca,LOUSE,usa,294
+Chachapoyas,LOUSE,usa,294
+Chimborazo,LOUSE,usa,294
+Chocos-Huangáscar,LOUSE,usa,294
+Chuquisaca,LOUSE,usa,294
+Cochabamba,LOUSE,usa,294
+Colombian_Inga,LOUSE,usa,294
+Corongo,LOUSE,usa,294
+Cuzco,LOUSE,usa,294
+Eastern-Apurímac,LOUSE,usa,294
+Huallaga-Huánuco,LOUSE,usa,294
+Huancavelica,LOUSE,usa,294
+Huaraz-Huailas,LOUSE,uxa,294
+Huaylla-Huanca,LOUSE,usa,294
+Imbabura,LOUSE,usa,294
+Jauja-Huanca,LOUSE,usa,294
+Laraos,LOUSE,usa,294
+Lincha-Tana,LOUSE,usa,294
+Liscay-San_Pedro,LOUSE,usa,294
+Napo,LOUSE,usa,294
+Pacaraos,LOUSE,uwa,294
+Pastaza,LOUSE,usa,294
+Puno,LOUSE,usa,294
+San_Martín,LOUSE,usa,294
+Santiago_del_Estero,LOUSE,usa,294
+Tena,LOUSE,usa,294
+Yaru,LOUSE,uwa,294
+Lambayeque,LOUSE,lisu,295
+Lambayeque,LOUSE,liʃu,295
+Apolobamba,NAME,suti,296
+Apurí-Madean-Viñac,NAME,suti,296
+Ayacucho,NAME,suti,296
+Azuay,NAME,ʃuti,296
+Cacra-Hongos,NAME,huti,296
+Cajamarca,NAME,ʃuti,296
+Chachapoyas,NAME,ʃuti,296
+Chimborazo,NAME,ʃuti,296
+Chocos-Huangáscar,NAME,suti,296
+Chuquisaca,NAME,suti,296
+Cochabamba,NAME,suti,296
+Colombian_Inga,NAME,suti,296
+Corongo,NAME,ʃuti,296
+Cuzco,NAME,suti,296
+Eastern-Apurímac,NAME,suti,296
+Huallaga-Huánuco,NAME,huti,296
+Huancavelica,NAME,suti,296
+Huaraz-Huailas,NAME,xuti,296
+Huaylla-Huanca,NAME,suti,296
+Imbabura,NAME,ʃuti,296
+Jauja-Huanca,NAME,suti,296
+Lambayeque,NAME,ʃuti,296
+Laraos,NAME,suti,296
+Lincha-Tana,NAME,suti,296
+Liscay-San_Pedro,NAME,suti,296
+Napo,NAME,ʃuti,296
+Pacaraos,NAME,xuti,296
+Pastaza,NAME,ʃuti,296
+Puno,NAME,suti,296
+San_Martín,NAME,ʃuti,296
+Santiago_del_Estero,NAME,suti,296
+Tena,NAME,ʃuti,296
+Yaru,NAME,χoti,296
+Apolobamba,WHO,pi,297
+Apurí-Madean-Viñac,WHO,pi,297
+Ayacucho,WHO,pi,297
+Azuay,WHO,pi,297
+Cacra-Hongos,WHO,pi,297
+Cajamarca,WHO,pi,297
+Chachapoyas,WHO,pi,297
+Chimborazo,WHO,pi,297
+Chocos-Huangáscar,WHO,pi,297
+Chuquisaca,WHO,pi,297
+Cochabamba,WHO,pi,297
+Colombian_Inga,WHO,pi,297
+Corongo,WHO,pi,297
+Cuzco,WHO,pi,297
+Eastern-Apurímac,WHO,pi,297
+Huallaga-Huánuco,WHO,pi,297
+Huancavelica,WHO,pi,297
+Huaraz-Huailas,WHO,pi,297
+Huaylla-Huanca,WHO,pi,297
+Imbabura,WHO,pi,297
+Jauja-Huanca,WHO,pi,297
+Lambayeque,WHO,pi,297
+Laraos,WHO,pi,297
+Lincha-Tana,WHO,pi,297
+Liscay-San_Pedro,WHO,pi,297
+Pacaraos,WHO,piː,297
+Pastaza,WHO,pi,297
+Puno,WHO,pi,297
+San_Martín,WHO,pi,297
+Santiago_del_Estero,WHO,pi taχ,297
+Tena,WHO,pi,297
+Yaru,WHO,pi,297
+Napo,WHO,mai̯kan,298
+Apolobamba,SUN,inti,299
+Apurí-Madean-Viñac,SUN,inti,299
+Ayacucho,SUN,inti,299
+Cacra-Hongos,SUN,inti,299
+Chachapoyas,SUN,indi,299
+Chimborazo,SUN,inti,299
+Chocos-Huangáscar,SUN,inti,299
+Chuquisaca,SUN,inti,299
+Cochabamba,SUN,inti,299
+Colombian_Inga,SUN,indi,299
+Cuzco,SUN,inti,299
+Eastern-Apurímac,SUN,inti,299
+Huallaga-Huánuco,SUN,inti,299
+Huancavelica,SUN,inti,299
+Huaraz-Huailas,SUN,iɲti,299
+Huaylla-Huanca,SUN,inti,299
+Imbabura,SUN,inti,299
+Jauja-Huanca,SUN,inti,299
+Laraos,SUN,inti,299
+Lincha-Tana,SUN,inti,299
+Liscay-San_Pedro,SUN,inti,299
+Napo,SUN,indi,299
+Pastaza,SUN,indi,299
+Puno,SUN,inti,299
+San_Martín,SUN,indi,299
+Santiago_del_Estero,SUN,inti,299
+Tena,SUN,indi,299
+Yaru,SUN,inti,299
+Apurí-Madean-Viñac,SUN,ɾupai̯,300
+Ayacucho,SUN,ɾupai̯,300
+Cacra-Hongos,SUN,lupai̯,300
+Cajamarca,SUN,rupai̯,300
+Chocos-Huangáscar,SUN,ɾupai̯,300
+Corongo,SUN,rupeː,300
+Lambayeque,SUN,rupai̯,300
+Lincha-Tana,SUN,lupai̯,300
+Liscay-San_Pedro,SUN,ɾupai̯,300
+Azuay,SUN,ɾupai̯,301
+Azuay,SUN,inti,301
+Pacaraos,SUN,wilka,302

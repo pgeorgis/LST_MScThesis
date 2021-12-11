@@ -1,0 +1,104 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((((0:0.17531469578638698,(1:0.02797831095700026,2:0.02797831095700026)14:0.1473363848293867)16:0.13119750235163946,3:0.30651219813802644)22:0.19459423697151235,((((4:0.013080968062864642,6:0.013080968062864642)15:0.16241757157190206,5:0.1754985396347667)17:0.13365700707586076,11:0.30915554671062745)25:0.05637217408559514,(((8:5.52654987770408E-4,9:5.52654987770408E-4)19:0.08643417459212215,(10:0.07549992509661313,13:0.07549992509661313)23:0.011486904483279423)20:0.09290214951884045,12:0.179888979098733)18:0.1856387416974896)21:0.1355787143133162)24:0.10821741401464258,7:0.6093238491241814)26:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 3.5329988883803787 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[26 1] (0,25): 23 20 18 5 4 5 1 22 19 22 18 25 1 20 2 2 3 23 1 23 20 19 16 16 23 0 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 1.3363399179471787 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:ASH'>featureClockRate:Vietic_gold_common-concepts:ASH[1 1] (0.0,Infinity): 2.451159782153856 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BACK'>featureClockRate:Vietic_gold_common-concepts:BACK[1 1] (0.0,Infinity): 0.6139828642797135 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BARK'>featureClockRate:Vietic_gold_common-concepts:BARK[1 1] (0.0,Infinity): 2.1154478548877433 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BELLY_OR_STOMACH'>featureClockRate:Vietic_gold_common-concepts:BELLY_OR_STOMACH[1 1] (0.0,Infinity): 1.0820301766538953 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BIG'>featureClockRate:Vietic_gold_common-concepts:BIG[1 1] (0.0,Infinity): 0.6383250361269216 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BIRD'>featureClockRate:Vietic_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.27040553420877134 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BITE'>featureClockRate:Vietic_gold_common-concepts:BITE[1 1] (0.0,Infinity): 0.45286299587565654 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BLACK'>featureClockRate:Vietic_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.7510749362888502 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BLOOD'>featureClockRate:Vietic_gold_common-concepts:BLOOD[1 1] (0.0,Infinity): 0.34667457216299624 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BLUE_OR_GREEN'>featureClockRate:Vietic_gold_common-concepts:BLUE_OR_GREEN[1 1] (0.0,Infinity): 0.7257157796826845 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BONE'>featureClockRate:Vietic_gold_common-concepts:BONE[1 1] (0.0,Infinity): 0.3356615337136917 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BREAST'>featureClockRate:Vietic_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 4.071253341936145 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:BURNING'>featureClockRate:Vietic_gold_common-concepts:BURNING[1 1] (0.0,Infinity): 2.3294190818153466 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:CLAW_OR_NAIL'>featureClockRate:Vietic_gold_common-concepts:CLAW_OR_NAIL[1 1] (0.0,Infinity): 0.28532629916329383 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:CLOUD'>featureClockRate:Vietic_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.39529267907973853 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:DOG'>featureClockRate:Vietic_gold_common-concepts:DOG[1 1] (0.0,Infinity): 0.09817872483779283 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:DRINK'>featureClockRate:Vietic_gold_common-concepts:DRINK[1 1] (0.0,Infinity): 0.15069120301714134 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:DRY'>featureClockRate:Vietic_gold_common-concepts:DRY[1 1] (0.0,Infinity): 0.261931463801902 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Vietic_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 0.7990860849954236 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:EGG'>featureClockRate:Vietic_gold_common-concepts:EGG[1 1] (0.0,Infinity): 1.745447226914722 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:FALL'>featureClockRate:Vietic_gold_common-concepts:FALL[1 1] (0.0,Infinity): 1.9813911005886955 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:FAR'>featureClockRate:Vietic_gold_common-concepts:FAR[1 1] (0.0,Infinity): 0.05203243905488075 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)'>featureClockRate:Vietic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)[1 1] (0.0,Infinity): 0.46174140314429657 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:FEATHER_OR_FUR_OR_HAIR'>featureClockRate:Vietic_gold_common-concepts:FEATHER_OR_FUR_OR_HAIR[1 1] (0.0,Infinity): 0.2878940754906463 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:FIRE_OR_FIREWOOD'>featureClockRate:Vietic_gold_common-concepts:FIRE_OR_FIREWOOD[1 1] (0.0,Infinity): 0.2170957921130745 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:FLESH_OR_MEAT'>featureClockRate:Vietic_gold_common-concepts:FLESH_OR_MEAT[1 1] (0.0,Infinity): 0.22260807843092345 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Vietic_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 0.24018355125484978 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:FOOT'>featureClockRate:Vietic_gold_common-concepts:FOOT[1 1] (0.0,Infinity): 1.7730184532907352 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:FULL'>featureClockRate:Vietic_gold_common-concepts:FULL[1 1] (0.0,Infinity): 1.441267328360708 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:GOOD'>featureClockRate:Vietic_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 2.0717087662946163 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:HAIR_(HEAD)'>featureClockRate:Vietic_gold_common-concepts:HAIR_(HEAD)[1 1] (0.0,Infinity): 0.136412453092219 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:HEAD'>featureClockRate:Vietic_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 1.1436306158359513 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:HEAD_LOUSE'>featureClockRate:Vietic_gold_common-concepts:HEAD_LOUSE[1 1] (0.0,Infinity): 0.46642685807625006 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:HEAR_OR_LISTEN'>featureClockRate:Vietic_gold_common-concepts:HEAR_OR_LISTEN[1 1] (0.0,Infinity): 0.6432133120120678 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:HEART'>featureClockRate:Vietic_gold_common-concepts:HEART[1 1] (0.0,Infinity): 0.7348934178614698 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:HORN_(ANATOMY)'>featureClockRate:Vietic_gold_common-concepts:HORN_(ANATOMY)[1 1] (0.0,Infinity): 0.3971070690412313 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:I'>featureClockRate:Vietic_gold_common-concepts:I[1 1] (0.0,Infinity): 0.6170551008208083 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:KILL'>featureClockRate:Vietic_gold_common-concepts:KILL[1 1] (0.0,Infinity): 0.0894079414126269 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Vietic_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 1.057044607954507 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:LIE_(REST)'>featureClockRate:Vietic_gold_common-concepts:LIE_(REST)[1 1] (0.0,Infinity): 1.2628576853594478 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:LIVER'>featureClockRate:Vietic_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 0.13538858431478673 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:LONG'>featureClockRate:Vietic_gold_common-concepts:LONG[1 1] (0.0,Infinity): 0.7193938934815453 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:MOON'>featureClockRate:Vietic_gold_common-concepts:MOON[1 1] (0.0,Infinity): 0.47307942476362796 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:MOUNTAIN'>featureClockRate:Vietic_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 1.576564107758704 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:MOUTH'>featureClockRate:Vietic_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 1.2077925847940658 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:NECK'>featureClockRate:Vietic_gold_common-concepts:NECK[1 1] (0.0,Infinity): 1.730087416368489 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:NIGHT'>featureClockRate:Vietic_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 0.6910617279069109 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:OLD_(USED)'>featureClockRate:Vietic_gold_common-concepts:OLD_(USED)[1 1] (0.0,Infinity): 0.6915357150855367 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:PATH_OR_ROAD'>featureClockRate:Vietic_gold_common-concepts:PATH_OR_ROAD[1 1] (0.0,Infinity): 1.3744111245674462 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:PERSON'>featureClockRate:Vietic_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 1.2741068916225824 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Vietic_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 0.2212817892730755 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:RED'>featureClockRate:Vietic_gold_common-concepts:RED[1 1] (0.0,Infinity): 0.1759439187057371 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:ROPE'>featureClockRate:Vietic_gold_common-concepts:ROPE[1 1] (0.0,Infinity): 0.7828647075456177 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:ROUND'>featureClockRate:Vietic_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 0.205129872579502 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:SAND'>featureClockRate:Vietic_gold_common-concepts:SAND[1 1] (0.0,Infinity): 1.2942538875122336 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:SEE'>featureClockRate:Vietic_gold_common-concepts:SEE[1 1] (0.0,Infinity): 1.120434252481096 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:SIT'>featureClockRate:Vietic_gold_common-concepts:SIT[1 1] (0.0,Infinity): 0.1831903754414838 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:SKIN'>featureClockRate:Vietic_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 0.07906299711465997 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:SLEEP'>featureClockRate:Vietic_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 1.1172091474872394 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:SMALL'>featureClockRate:Vietic_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 2.1784921030978617 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:STAR'>featureClockRate:Vietic_gold_common-concepts:STAR[1 1] (0.0,Infinity): 0.6490720084272106 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:STONE'>featureClockRate:Vietic_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.5551148061113305 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:SWIM'>featureClockRate:Vietic_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 2.78098742406381 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:THICK'>featureClockRate:Vietic_gold_common-concepts:THICK[1 1] (0.0,Infinity): 0.8411646121847258 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:THIS'>featureClockRate:Vietic_gold_common-concepts:THIS[1 1] (0.0,Infinity): 0.33776204232855517 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:THOU'>featureClockRate:Vietic_gold_common-concepts:THOU[1 1] (0.0,Infinity): 0.9729881308235533 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:TREE'>featureClockRate:Vietic_gold_common-concepts:TREE[1 1] (0.0,Infinity): 0.35749788985491576 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:WALK'>featureClockRate:Vietic_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.17134516917810813 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:WARM'>featureClockRate:Vietic_gold_common-concepts:WARM[1 1] (0.0,Infinity): 0.707428469643297 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:WHAT'>featureClockRate:Vietic_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 0.4418256146588933 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:WHITE'>featureClockRate:Vietic_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 1.6621333903559612 </statenode>
+<statenode id='featureClockRate:Vietic_gold_common-concepts:WHO'>featureClockRate:Vietic_gold_common-concepts:WHO[1 1] (0.0,Infinity): 0.3746539385681821 </statenode>
+<statenode id='featureClockRateGammaShape:Vietic_gold_common-concepts'>featureClockRateGammaShape:Vietic_gold_common-concepts[1 1] (1.1,100.0): 1.7485448760024405 </statenode>
+<statenode id='featureClockRateGammaScale:Vietic_gold_common-concepts'>featureClockRateGammaScale:Vietic_gold_common-concepts[1 1] (-Infinity,Infinity): 0.5719041093679116 </statenode>
+<statenode id='covarion_alpha.s:Vietic_gold_common-concepts'>covarion_alpha.s:Vietic_gold_common-concepts[1 1] (1.0E-4,1.0): 0.862438455832816 </statenode>
+<statenode id='covarion_s.s:Vietic_gold_common-concepts'>covarion_s.s:Vietic_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.36979993821870016 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.4658690907568749,"accept":28893,"reject":230076,"acceptFC":28740,"rejectFC":225990,"rejectIv":93181,"rejectOp":93181},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":53830,"reject":203950,"acceptFC":53187,"rejectFC":200296,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":697,"reject":51130,"acceptFC":687,"rejectFC":50305,"rejectIv":26915,"rejectOp":26915},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":670,"reject":51038,"acceptFC":663,"rejectFC":50259,"rejectIv":12388,"rejectOp":12388},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":182410,"reject":333149,"acceptFC":179594,"rejectFC":327659,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.5886588900826024,"accept":11998,"reject":39260,"acceptFC":11852,"rejectFC":38548,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.4263314921854008,"accept":7903,"reject":43695,"acceptFC":7708,"rejectFC":43024,"rejectIv":9756,"rejectOp":9756},
+{"id":"UpDown","p":0.5419700490632998,"accept":10512,"reject":40837,"acceptFC":10352,"rejectFC":40136,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.27819104123618965,"accept":13885,"reject":37655,"acceptFC":13457,"rejectFC":37229,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":93021,"reject":78842,"acceptFC":91295,"rejectFC":77741,"rejectIv":62823,"rejectOp":62823},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":56346,"reject":114830,"acceptFC":55203,"rejectFC":113201,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":79571,"reject":92875,"acceptFC":78016,"rejectFC":91624,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.28545266827463034,"accept":3690,"reject":48207,"acceptFC":3449,"rejectFC":47605,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Vietic_gold_common-concepts","p":0.4172049520139167,"accept":946,"reject":4200,"acceptFC":915,"rejectFC":4145,"rejectIv":808,"rejectOp":808},
+{"id":"covarion_alpha_scaler.s:Vietic_gold_common-concepts","p":0.1200707420280593,"accept":3071,"reject":14157,"acceptFC":2898,"rejectFC":14048,"rejectIv":12607,"rejectOp":12607},
+{"id":"Vietic_gold_common-concepts:covarion_s_scaler.s","p":0.16761619037024986,"accept":5037,"reject":12304,"acceptFC":4865,"rejectFC":12183,"rejectIv":27,"rejectOp":27},
+{"id":"featureClockRateDeltaExchanger:default","p":2.038961113786923,"accept":9587,"reject":41729,"acceptFC":9419,"rejectFC":41076,"rejectIv":28330,"rejectOp":28330}
+]}
+-->

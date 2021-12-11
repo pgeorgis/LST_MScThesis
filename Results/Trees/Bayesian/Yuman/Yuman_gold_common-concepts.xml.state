@@ -1,0 +1,96 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((0:0.42954570493626154,(1:0.2418690261799641,3:0.2418690261799641)7:0.18767667875629745)5:0.16875264991404781,(2:0.3380913197029612,4:0.3380913197029612)6:0.26020703514734816)8:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 0.6675135908898788 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[8 1] (0,7): 2 7 0 1 6 2 3 2 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.2949649332455749 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:ALL'>featureClockRate:Yuman_gold_common-concepts:ALL[1 1] (0.0,Infinity): 0.7751971100654338 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:ASH'>featureClockRate:Yuman_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.9747330596687636 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:BARK'>featureClockRate:Yuman_gold_common-concepts:BARK[1 1] (0.0,Infinity): 1.4668554672832412 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:BELLY'>featureClockRate:Yuman_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 0.45397616192791423 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:BIG'>featureClockRate:Yuman_gold_common-concepts:BIG[1 1] (0.0,Infinity): 0.5459379386786379 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:BIRD'>featureClockRate:Yuman_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.6003571734993347 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:BITE'>featureClockRate:Yuman_gold_common-concepts:BITE[1 1] (0.0,Infinity): 0.7236659954367611 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:BREAST'>featureClockRate:Yuman_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 1.3446645166450164 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:BURN_(SOMETHING)'>featureClockRate:Yuman_gold_common-concepts:BURN_(SOMETHING)[1 1] (0.0,Infinity): 1.3125205977547982 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:CLAW_OR_NAIL'>featureClockRate:Yuman_gold_common-concepts:CLAW_OR_NAIL[1 1] (0.0,Infinity): 1.1068562473443873 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:COLD'>featureClockRate:Yuman_gold_common-concepts:COLD[1 1] (0.0,Infinity): 0.7969860798059993 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:COME'>featureClockRate:Yuman_gold_common-concepts:COME[1 1] (0.0,Infinity): 1.1266140281998915 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:DIE'>featureClockRate:Yuman_gold_common-concepts:DIE[1 1] (0.0,Infinity): 1.3198623909201948 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:DOG'>featureClockRate:Yuman_gold_common-concepts:DOG[1 1] (0.0,Infinity): 1.6604539368023776 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:DRY'>featureClockRate:Yuman_gold_common-concepts:DRY[1 1] (0.0,Infinity): 0.8624826298004931 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:EAT'>featureClockRate:Yuman_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.769106894319058 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:EGG'>featureClockRate:Yuman_gold_common-concepts:EGG[1 1] (0.0,Infinity): 0.38398638789466677 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:FAR'>featureClockRate:Yuman_gold_common-concepts:FAR[1 1] (0.0,Infinity): 0.6926698703934193 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Yuman_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 0.4288518787866754 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:FULL'>featureClockRate:Yuman_gold_common-concepts:FULL[1 1] (0.0,Infinity): 0.6239339235302532 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:GIVE'>featureClockRate:Yuman_gold_common-concepts:GIVE[1 1] (0.0,Infinity): 0.7264670664323423 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:GOOD'>featureClockRate:Yuman_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 0.5209238113674316 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:HAIR'>featureClockRate:Yuman_gold_common-concepts:HAIR[1 1] (0.0,Infinity): 0.9465663007134966 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:HEAD'>featureClockRate:Yuman_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 1.0212986431363673 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:HEART'>featureClockRate:Yuman_gold_common-concepts:HEART[1 1] (0.0,Infinity): 1.132418406570079 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:HEAVY'>featureClockRate:Yuman_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 0.5252237635342408 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:KILL'>featureClockRate:Yuman_gold_common-concepts:KILL[1 1] (0.0,Infinity): 0.3718742858779167 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:KNEE'>featureClockRate:Yuman_gold_common-concepts:KNEE[1 1] (0.0,Infinity): 1.774599826936742 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Yuman_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 1.7090314069270107 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:LEAF'>featureClockRate:Yuman_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 1.6331017862565038 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:MAN'>featureClockRate:Yuman_gold_common-concepts:MAN[1 1] (0.0,Infinity): 0.5310416124973589 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:MANY'>featureClockRate:Yuman_gold_common-concepts:MANY[1 1] (0.0,Infinity): 1.303626076840393 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:MEAT'>featureClockRate:Yuman_gold_common-concepts:MEAT[1 1] (0.0,Infinity): 1.8114602380681477 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:MOUNTAIN'>featureClockRate:Yuman_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 1.0539604562782692 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:NAME'>featureClockRate:Yuman_gold_common-concepts:NAME[1 1] (0.0,Infinity): 1.4669520932800462 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:NEAR'>featureClockRate:Yuman_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 0.475584594015632 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:NECK'>featureClockRate:Yuman_gold_common-concepts:NECK[1 1] (0.0,Infinity): 0.33983221537220115 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:NEW'>featureClockRate:Yuman_gold_common-concepts:NEW[1 1] (0.0,Infinity): 3.097155875373428 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:NIGHT'>featureClockRate:Yuman_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 0.7978738108912977 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Yuman_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 0.6578605651511737 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:ROOT'>featureClockRate:Yuman_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 0.5039813158379356 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:SALT'>featureClockRate:Yuman_gold_common-concepts:SALT[1 1] (0.0,Infinity): 1.1490736300024913 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:SAND'>featureClockRate:Yuman_gold_common-concepts:SAND[1 1] (0.0,Infinity): 1.0354997759394917 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:SEE'>featureClockRate:Yuman_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.7616820731213281 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:SHORT'>featureClockRate:Yuman_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 0.9842929648003063 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:SIT'>featureClockRate:Yuman_gold_common-concepts:SIT[1 1] (0.0,Infinity): 1.2472310072447335 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:SKIN'>featureClockRate:Yuman_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 0.9744622808624083 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:SMALL'>featureClockRate:Yuman_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 0.533877313149228 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:SPHERICAL_(ROUND_IN_THREE_DIMENSIONS)'>featureClockRate:Yuman_gold_common-concepts:SPHERICAL_(ROUND_IN_THREE_DIMENSIONS)[1 1] (0.0,Infinity): 0.989999128447304 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:STAND'>featureClockRate:Yuman_gold_common-concepts:STAND[1 1] (0.0,Infinity): 0.4335664899654256 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:STAR'>featureClockRate:Yuman_gold_common-concepts:STAR[1 1] (0.0,Infinity): 0.9541685660703855 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:STONE'>featureClockRate:Yuman_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.39530100113258215 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:SWIM'>featureClockRate:Yuman_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 0.7601739050199874 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:TAIL'>featureClockRate:Yuman_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 0.6348003892351555 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:THAT'>featureClockRate:Yuman_gold_common-concepts:THAT[1 1] (0.0,Infinity): 1.6156886487195914 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:THIN_(OF_SHAPE_OF_OBJECT)'>featureClockRate:Yuman_gold_common-concepts:THIN_(OF_SHAPE_OF_OBJECT)[1 1] (0.0,Infinity): 0.8537701928558434 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:TREE'>featureClockRate:Yuman_gold_common-concepts:TREE[1 1] (0.0,Infinity): 0.5919508956052644 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:WARM'>featureClockRate:Yuman_gold_common-concepts:WARM[1 1] (0.0,Infinity): 0.881692436230991 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:WHAT'>featureClockRate:Yuman_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 1.3253447218901968 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:WHITE'>featureClockRate:Yuman_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 0.5277016780941758 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:WHO'>featureClockRate:Yuman_gold_common-concepts:WHO[1 1] (0.0,Infinity): 1.0109588380711918 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:WIND'>featureClockRate:Yuman_gold_common-concepts:WIND[1 1] (0.0,Infinity): 0.6936012563752234 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:WOMAN'>featureClockRate:Yuman_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 1.1580319042548606 </statenode>
+<statenode id='featureClockRate:Yuman_gold_common-concepts:YEAR'>featureClockRate:Yuman_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 0.9022485526097835 </statenode>
+<statenode id='featureClockRateGammaShape:Yuman_gold_common-concepts'>featureClockRateGammaShape:Yuman_gold_common-concepts[1 1] (1.1,100.0): 4.92613956563515 </statenode>
+<statenode id='featureClockRateGammaScale:Yuman_gold_common-concepts'>featureClockRateGammaScale:Yuman_gold_common-concepts[1 1] (-Infinity,Infinity): 0.20299871464787958 </statenode>
+<statenode id='covarion_alpha.s:Yuman_gold_common-concepts'>covarion_alpha.s:Yuman_gold_common-concepts[1 1] (1.0E-4,1.0): 0.962349304620827 </statenode>
+<statenode id='covarion_s.s:Yuman_gold_common-concepts'>covarion_s.s:Yuman_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.0023494410065017434 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":1.349869094239256,"accept":30312,"reject":227328,"acceptFC":29966,"rejectFC":223350,"rejectIv":97159,"rejectOp":97159},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":43409,"reject":214776,"acceptFC":42653,"rejectFC":211384,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":1344,"reject":50204,"acceptFC":1315,"rejectFC":49400,"rejectIv":29395,"rejectOp":29395},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":619,"reject":51043,"acceptFC":610,"rejectFC":50191,"rejectIv":28738,"rejectOp":28738},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":189857,"reject":327903,"acceptFC":186476,"rejectFC":322910,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.46794453055575436,"accept":14054,"reject":37622,"acceptFC":13828,"rejectFC":36969,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.3211356440432178,"accept":10587,"reject":40823,"acceptFC":10330,"rejectFC":40257,"rejectIv":5785,"rejectOp":5785},
+{"id":"UpDown","p":0.43765633553075445,"accept":13176,"reject":38419,"acceptFC":12950,"rejectFC":37819,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.1774426024495962,"accept":13564,"reject":38027,"acceptFC":13069,"rejectFC":37686,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":83651,"reject":87845,"acceptFC":82144,"rejectFC":86576,"rejectIv":73082,"rejectOp":73082},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":108256,"reject":63307,"acceptFC":106037,"rejectFC":62788,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":124116,"reject":47805,"acceptFC":121669,"rejectFC":47453,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.21273695500174292,"accept":16026,"reject":35332,"acceptFC":15433,"rejectFC":35056,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Yuman_gold_common-concepts","p":0.3809321558886678,"accept":1260,"reject":3948,"acceptFC":1230,"rejectFC":3895,"rejectIv":67,"rejectOp":67},
+{"id":"covarion_alpha_scaler.s:Yuman_gold_common-concepts","p":0.06611645466278512,"accept":1950,"reject":15004,"acceptFC":1742,"rejectFC":14934,"rejectIv":13607,"rejectOp":13607},
+{"id":"Yuman_gold_common-concepts:covarion_s_scaler.s","p":0.16901136214180898,"accept":5006,"reject":12031,"acceptFC":4836,"rejectFC":11931,"rejectIv":87,"rejectOp":87},
+{"id":"featureClockRateDeltaExchanger:default","p":1.578736908213491,"accept":16799,"reject":34598,"acceptFC":16644,"rejectFC":33941,"rejectIv":16506,"rejectOp":16506}
+]}
+-->

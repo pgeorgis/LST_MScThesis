@@ -1,0 +1,113 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((((((((((((((0:0.022230377271208433,8:0.022230377271208433)96:0.016380791507169812,(20:0.023967743213689784,49:0.023967743213689784)63:0.01464342556468846)101:0.0013354902565249835,(31:0.014820299480111883,43:0.014820299480111883)85:0.025126359554791346)86:0.01063889157535583,((9:0.00613233641408457,40:0.00613233641408457)84:0.014248705942861921,35:0.02038104235694649)88:0.030204508253312567)100:0.015679076598317035,((5:0.02903214225926318,24:0.02903214225926318)77:0.028917192985061017,(7:0.004588699497041803,16:0.004588699497041803)74:0.05336063574728239)93:0.008315291964251896)102:0.015396398403433431,32:0.08166102561200952)112:0.001047570507435619,((14:0.05352958969195662,46:0.05352958969195662)58:0.01725676364280823,(50:1.35701403777331E-4,54:1.35701403777331E-4)89:0.07065065193098752)87:0.011922242784680293)83:0.005058777482122315,3:0.08776737360156746)59:0.0034701513094439612,(((1:0.02353896733732224,52:0.02353896733732224)64:0.022849853098797862,21:0.0463888204361201)108:0.01534005679540653,(2:0.022122084231093592,29:0.022122084231093592)70:0.039606793000433044)82:0.029508647679484787)80:0.0185548240349417,(42:0.029235377047327562,48:0.029235377047327562)94:0.08055697189862555)109:0.01152454673064493,(4:0.1033712438734788,(((((13:0.01155223525213325,36:0.01155223525213325)61:0.038755964560870035,28:0.05030819981300329)105:0.016055330178187693,(((15:0.007089296662697887,51:0.007089296662697887)106:9.575997766882024E-4,47:0.00804689643938609)98:0.04593985164433913,(((26:0.029284072034387088,41:0.029284072034387088)92:0.007744890950510817,33:0.037028962984897905)79:0.002687866233794599,57:0.039716829218692504)60:0.014269918865032712)107:0.012376781907465766)66:0.019592314138364902,(22:0.05177346894236345,27:0.05177346894236345)111:0.034182375187192436)72:0.008213856429269889,53:0.09416970055882577)90:0.009201543314653032)65:0.017945651803119245)91:0.014978902715533746,(((((6:0.022949024468354475,39:0.022949024468354475)67:0.020990880173157884,10:0.04393990464151236)62:0.03449421758626771,23:0.07843412222778007)99:0.0067409182195222045,38:0.08517504044730227)97:0.004330063713986448,(25:0.01767607289341206,(30:0.011453118810891541,56:0.011453118810891541)110:0.006222954082520519)69:0.07182903126787665)71:0.046790694230843075)103:0.052162574425043434,(((11:0.08209478769122831,19:0.08209478769122831)68:0.029096159406669916,((12:0.037311924566613336,45:0.037311924566613336)76:0.013687219261448696,(17:0.02141448999786163,18:0.02141448999786163)95:0.029584653830200404)78:0.0601918032698362)104:0.041114451997333545,(44:0.1452930358829581,55:0.1452930358829581)113:0.0070123632122736645)73:0.036152973721943454)81:3.135050848229459E-4,(34:0.06694280223298998,37:0.06694280223298998)75:0.12182907566900819)114:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 14.831481736120383 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[114 1] (0,113): 76 104 51 2 10 81 100 105 25 17 103 107 66 89 55 66 90 97 75 83 73 49 5 54 35 93 50 78 4 91 107 104 64 34 100 110 26 67 93 92 73 86 75 74 33 99 4 38 57 92 94 85 97 45 52 105 88 23 76 15 98 12 27 88 70 2 32 80 30 29 28 62 59 113 20 72 24 26 107 91 69 68 98 2 38 60 77 9 10 6 8 4 25 9 3 35 31 2 6 81 32 102 49 113 3 17 57 91 81 50 26 19 42 59 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 1.1421226824355368 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:ALL'>featureClockRate:Japonic_gold_common-concepts:ALL[1 1] (0.0,Infinity): 0.2866228460781042 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:ASH'>featureClockRate:Japonic_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.5962493543030286 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:BACK'>featureClockRate:Japonic_gold_common-concepts:BACK[1 1] (0.0,Infinity): 0.2928117912095948 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:BE_DEAD_OR_DIE'>featureClockRate:Japonic_gold_common-concepts:BE_DEAD_OR_DIE[1 1] (0.0,Infinity): 0.7930620090689009 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:BELLY'>featureClockRate:Japonic_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 0.33646731331674173 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:BIG'>featureClockRate:Japonic_gold_common-concepts:BIG[1 1] (0.0,Infinity): 2.0260704534642358 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:BITE'>featureClockRate:Japonic_gold_common-concepts:BITE[1 1] (0.0,Infinity): 1.474220577265489 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:BLACK'>featureClockRate:Japonic_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.443882884672425 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:BREAST'>featureClockRate:Japonic_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 1.6541420053114024 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:BURN'>featureClockRate:Japonic_gold_common-concepts:BURN[1 1] (0.0,Infinity): 0.394666994543681 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:CLOUD'>featureClockRate:Japonic_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.21178035492481334 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:COLD'>featureClockRate:Japonic_gold_common-concepts:COLD[1 1] (0.0,Infinity): 1.7603264822899753 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:COME'>featureClockRate:Japonic_gold_common-concepts:COME[1 1] (0.0,Infinity): 0.09323433256744851 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:COUNT'>featureClockRate:Japonic_gold_common-concepts:COUNT[1 1] (0.0,Infinity): 2.5608024077587137 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:DIRTY'>featureClockRate:Japonic_gold_common-concepts:DIRTY[1 1] (0.0,Infinity): 0.5798373806700692 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:DRY'>featureClockRate:Japonic_gold_common-concepts:DRY[1 1] (0.0,Infinity): 1.089389676794177 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Japonic_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 1.5505965839138816 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:EAT'>featureClockRate:Japonic_gold_common-concepts:EAT[1 1] (0.0,Infinity): 1.2100546765941533 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:EGG'>featureClockRate:Japonic_gold_common-concepts:EGG[1 1] (0.0,Infinity): 0.9012111046440973 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:EYE'>featureClockRate:Japonic_gold_common-concepts:EYE[1 1] (0.0,Infinity): 0.5387721745498562 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:FAR'>featureClockRate:Japonic_gold_common-concepts:FAR[1 1] (0.0,Infinity): 0.49435359309174104 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:FEATHER'>featureClockRate:Japonic_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 2.0166705731441925 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:FEMALE_PERSON'>featureClockRate:Japonic_gold_common-concepts:FEMALE_PERSON[1 1] (0.0,Infinity): 1.730951992758414 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:FIRE'>featureClockRate:Japonic_gold_common-concepts:FIRE[1 1] (0.0,Infinity): 0.6911135488643158 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:FISH'>featureClockRate:Japonic_gold_common-concepts:FISH[1 1] (0.0,Infinity): 1.633546372671747 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:FLESH_OR_MEAT'>featureClockRate:Japonic_gold_common-concepts:FLESH_OR_MEAT[1 1] (0.0,Infinity): 1.7462937267128404 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Japonic_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 1.0038776037724786 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:FOOT_OR_LEG'>featureClockRate:Japonic_gold_common-concepts:FOOT_OR_LEG[1 1] (0.0,Infinity): 0.2537265987928409 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:GOOD'>featureClockRate:Japonic_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 0.5595212021375457 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:GREEN'>featureClockRate:Japonic_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 0.7394805479808825 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:HEAD'>featureClockRate:Japonic_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 1.6783447329099568 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:HEAVY'>featureClockRate:Japonic_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 0.4950557839588502 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:HOLD'>featureClockRate:Japonic_gold_common-concepts:HOLD[1 1] (0.0,Infinity): 0.31548604148285864 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:I'>featureClockRate:Japonic_gold_common-concepts:I[1 1] (0.0,Infinity): 0.5942567994416385 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Japonic_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 1.7929034732090054 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:LAUGH'>featureClockRate:Japonic_gold_common-concepts:LAUGH[1 1] (0.0,Infinity): 0.6021092375886629 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:LIE_DOWN'>featureClockRate:Japonic_gold_common-concepts:LIE_DOWN[1 1] (0.0,Infinity): 0.5881913403938608 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:LOUSE'>featureClockRate:Japonic_gold_common-concepts:LOUSE[1 1] (0.0,Infinity): 0.12416996180703462 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:MALE_PERSON'>featureClockRate:Japonic_gold_common-concepts:MALE_PERSON[1 1] (0.0,Infinity): 0.18285213986574309 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:MOON'>featureClockRate:Japonic_gold_common-concepts:MOON[1 1] (0.0,Infinity): 1.4262263654364828 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:NEAR'>featureClockRate:Japonic_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 0.6495294594305869 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:NECK'>featureClockRate:Japonic_gold_common-concepts:NECK[1 1] (0.0,Infinity): 0.45453184737335667 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:NEW'>featureClockRate:Japonic_gold_common-concepts:NEW[1 1] (0.0,Infinity): 1.3804899233348433 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:NIGHT'>featureClockRate:Japonic_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 1.3616139531662612 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:NO_OR_NOT'>featureClockRate:Japonic_gold_common-concepts:NO_OR_NOT[1 1] (0.0,Infinity): 0.9226327478343215 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:OLD'>featureClockRate:Japonic_gold_common-concepts:OLD[1 1] (0.0,Infinity): 0.7803509377881326 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:PATH_OR_ROAD'>featureClockRate:Japonic_gold_common-concepts:PATH_OR_ROAD[1 1] (0.0,Infinity): 0.4790484831854056 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:PERSON'>featureClockRate:Japonic_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 1.1930996605439597 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:RED'>featureClockRate:Japonic_gold_common-concepts:RED[1 1] (0.0,Infinity): 0.41079203210695536 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:ROPE'>featureClockRate:Japonic_gold_common-concepts:ROPE[1 1] (0.0,Infinity): 0.2695465780513874 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SALT'>featureClockRate:Japonic_gold_common-concepts:SALT[1 1] (0.0,Infinity): 0.551498132671051 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SAND'>featureClockRate:Japonic_gold_common-concepts:SAND[1 1] (0.0,Infinity): 0.6285535229574377 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SAY'>featureClockRate:Japonic_gold_common-concepts:SAY[1 1] (0.0,Infinity): 0.6090330782764369 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SEE'>featureClockRate:Japonic_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.1357640567641447 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SEW'>featureClockRate:Japonic_gold_common-concepts:SEW[1 1] (0.0,Infinity): 0.5329023032515744 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SHORT'>featureClockRate:Japonic_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 0.6051067542648041 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SIT'>featureClockRate:Japonic_gold_common-concepts:SIT[1 1] (0.0,Infinity): 1.491159537890654 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SKY'>featureClockRate:Japonic_gold_common-concepts:SKY[1 1] (0.0,Infinity): 1.1436378572939485 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SLEEP'>featureClockRate:Japonic_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 0.3607680646217823 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SMALL'>featureClockRate:Japonic_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 1.8921330612846787 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SNAKE'>featureClockRate:Japonic_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 0.9948257172579748 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SUCK'>featureClockRate:Japonic_gold_common-concepts:SUCK[1 1] (0.0,Infinity): 0.24152440753708038 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:SWIM'>featureClockRate:Japonic_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 1.4161048807401104 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:TAIL'>featureClockRate:Japonic_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 1.2653383740393311 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:THAT'>featureClockRate:Japonic_gold_common-concepts:THAT[1 1] (0.0,Infinity): 0.38059631802259397 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:THEY'>featureClockRate:Japonic_gold_common-concepts:THEY[1 1] (0.0,Infinity): 0.3020662861506598 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:THIN'>featureClockRate:Japonic_gold_common-concepts:THIN[1 1] (0.0,Infinity): 1.1684621095234469 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:THIS'>featureClockRate:Japonic_gold_common-concepts:THIS[1 1] (0.0,Infinity): 0.374873492013446 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:THROW'>featureClockRate:Japonic_gold_common-concepts:THROW[1 1] (0.0,Infinity): 0.8863364352429264 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:TONGUE'>featureClockRate:Japonic_gold_common-concepts:TONGUE[1 1] (0.0,Infinity): 1.9497763760460114 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:VOMIT'>featureClockRate:Japonic_gold_common-concepts:VOMIT[1 1] (0.0,Infinity): 0.1834996540657549 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:WALK'>featureClockRate:Japonic_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.49718277378582143 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:WARM'>featureClockRate:Japonic_gold_common-concepts:WARM[1 1] (0.0,Infinity): 1.2705376128616779 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:WE'>featureClockRate:Japonic_gold_common-concepts:WE[1 1] (0.0,Infinity): 0.5417290823217507 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:WET'>featureClockRate:Japonic_gold_common-concepts:WET[1 1] (0.0,Infinity): 0.9202457602199332 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:WHAT'>featureClockRate:Japonic_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 0.5464199412737651 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:WHERE'>featureClockRate:Japonic_gold_common-concepts:WHERE[1 1] (0.0,Infinity): 1.3231029927522795 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:WHITE'>featureClockRate:Japonic_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 1.098842199994223 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:WHO'>featureClockRate:Japonic_gold_common-concepts:WHO[1 1] (0.0,Infinity): 1.2181360463609998 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:WIDE'>featureClockRate:Japonic_gold_common-concepts:WIDE[1 1] (0.0,Infinity): 0.7491552541914416 </statenode>
+<statenode id='featureClockRate:Japonic_gold_common-concepts:YELLOW'>featureClockRate:Japonic_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 1.0350080177970122 </statenode>
+<statenode id='featureClockRateGammaShape:Japonic_gold_common-concepts'>featureClockRateGammaShape:Japonic_gold_common-concepts[1 1] (1.1,100.0): 2.6730561290502646 </statenode>
+<statenode id='featureClockRateGammaScale:Japonic_gold_common-concepts'>featureClockRateGammaScale:Japonic_gold_common-concepts[1 1] (-Infinity,Infinity): 0.37410362959916516 </statenode>
+<statenode id='covarion_alpha.s:Japonic_gold_common-concepts'>covarion_alpha.s:Japonic_gold_common-concepts[1 1] (1.0E-4,1.0): 0.004816625785344968 </statenode>
+<statenode id='covarion_s.s:Japonic_gold_common-concepts'>covarion_s.s:Japonic_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.2984057281107205 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.8887384154730222,"accept":2509,"reject":254951,"acceptFC":2417,"rejectFC":250797,"rejectIv":125230,"rejectOp":125230},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":83502,"reject":174498,"acceptFC":81989,"rejectFC":171791,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":282,"reject":51039,"acceptFC":256,"rejectFC":50187,"rejectIv":25964,"rejectOp":25964},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":497,"reject":50721,"acceptFC":458,"rejectFC":49905,"rejectIv":3779,"rejectOp":3779},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":241554,"reject":275061,"acceptFC":237479,"rejectFC":270662,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.68088828667524,"accept":10471,"reject":41229,"acceptFC":10386,"rejectFC":40501,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.49980281359473505,"accept":7100,"reject":44401,"acceptFC":6957,"rejectFC":43702,"rejectIv":10120,"rejectOp":10120},
+{"id":"UpDown","p":0.6756675287067557,"accept":11188,"reject":40195,"acceptFC":11093,"rejectFC":39450,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.4328374917126323,"accept":11395,"reject":40094,"acceptFC":11139,"rejectFC":39462,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":109444,"reject":62935,"acceptFC":107672,"rejectFC":61854,"rejectIv":58775,"rejectOp":58775},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":58711,"reject":113252,"acceptFC":57736,"rejectFC":111363,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":80958,"reject":91091,"acceptFC":79632,"rejectFC":89665,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.7080806016954816,"accept":9700,"reject":41940,"acceptFC":9607,"rejectFC":41165,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Japonic_gold_common-concepts","p":0.45027880859415087,"accept":1286,"reject":3807,"acceptFC":1262,"rejectFC":3736,"rejectIv":377,"rejectOp":377},
+{"id":"covarion_alpha_scaler.s:Japonic_gold_common-concepts","p":0.1921742212588727,"accept":5783,"reject":11276,"acceptFC":5636,"rejectFC":11150,"rejectIv":59,"rejectOp":59},
+{"id":"Japonic_gold_common-concepts:covarion_s_scaler.s","p":0.4652986379734717,"accept":4159,"reject":13125,"acceptFC":4092,"rejectFC":12877,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateDeltaExchanger:default","p":4.400751074254013,"accept":4547,"reject":47300,"acceptFC":4347,"rejectFC":46678,"rejectIv":39244,"rejectOp":39244}
+]}
+-->

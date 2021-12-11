@@ -1,0 +1,128 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((((0:0.10399197197669505,17:0.10399197197669505)32:0.0050146854676572095,(1:0.06499406214409698,7:0.06499406214409698)34:0.04401259530025528)26:7.839253360805293E-4,((4:0.0638008223937399,((5:0.03280145405689899,19:0.03280145405689899)21:0.02776464095231642,18:0.060566095009215414)36:0.0032347273845244814)22:0.020032388695233008,(11:0.03672172300292596,15:0.03672172300292596)20:0.04711148808604694)23:0.025957371691459882)35:0.25364529435819694,((2:0.3033573173924038,(9:0.06496490701289585,12:0.06496490701289585)24:0.23839241037950792)30:0.05054713308514397,(((3:0.14050265458464933,(6:0.12740709780523185,(8:0.09265043160413548,16:0.09265043160413548)31:0.03475666620109637)27:0.013095556779417483)37:0.03467642069172763,14:0.17517907527637697)25:0.003287667547739598,(10:0.127392333693285,13:0.127392333693285)28:0.051074409130831555)29:0.1754377076534312)33:0.009531426661081976)38:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 6.097525468628561 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[38 1] (0,37): 18 31 32 28 21 17 31 25 14 34 35 28 34 28 0 33 28 30 35 25 12 20 1 28 28 6 13 8 15 0 34 23 5 19 12 4 35 31 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.6397498892124097 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:ALL'>featureClockRate:Dravidian_gold_common-concepts:ALL[1 1] (0.0,Infinity): 0.42527433494660577 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:ASH'>featureClockRate:Dravidian_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.5265286361581223 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BARK'>featureClockRate:Dravidian_gold_common-concepts:BARK[1 1] (0.0,Infinity): 2.3033775635198332 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BELLY'>featureClockRate:Dravidian_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 1.2420660397944356 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BIG'>featureClockRate:Dravidian_gold_common-concepts:BIG[1 1] (0.0,Infinity): 0.7596749501634911 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BIRD'>featureClockRate:Dravidian_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.7738203984596503 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BITE'>featureClockRate:Dravidian_gold_common-concepts:BITE[1 1] (0.0,Infinity): 2.0117905990953044 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BLACK'>featureClockRate:Dravidian_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.7062350001027167 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BLOOD'>featureClockRate:Dravidian_gold_common-concepts:BLOOD[1 1] (0.0,Infinity): 0.8301883113356344 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BONE'>featureClockRate:Dravidian_gold_common-concepts:BONE[1 1] (0.0,Infinity): 0.6947067108459322 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BREAST'>featureClockRate:Dravidian_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 1.4169053963850264 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:BURN'>featureClockRate:Dravidian_gold_common-concepts:BURN[1 1] (0.0,Infinity): 0.4240376106780157 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:CLAW'>featureClockRate:Dravidian_gold_common-concepts:CLAW[1 1] (0.0,Infinity): 0.6513586104691066 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:CLOUD'>featureClockRate:Dravidian_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 1.6648360679498588 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:COLD'>featureClockRate:Dravidian_gold_common-concepts:COLD[1 1] (0.0,Infinity): 1.2328410478568785 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:DIE'>featureClockRate:Dravidian_gold_common-concepts:DIE[1 1] (0.0,Infinity): 0.36053655216207764 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:DOG'>featureClockRate:Dravidian_gold_common-concepts:DOG[1 1] (0.0,Infinity): 0.8604560911438083 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:DRINK'>featureClockRate:Dravidian_gold_common-concepts:DRINK[1 1] (0.0,Infinity): 0.49257882300528666 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:DRY'>featureClockRate:Dravidian_gold_common-concepts:DRY[1 1] (0.0,Infinity): 1.594456941397307 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:EAR'>featureClockRate:Dravidian_gold_common-concepts:EAR[1 1] (0.0,Infinity): 0.27046434150056925 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Dravidian_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 0.4475673318354971 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:EAT'>featureClockRate:Dravidian_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.4449653786687344 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:EGG'>featureClockRate:Dravidian_gold_common-concepts:EGG[1 1] (0.0,Infinity): 0.6585223717285276 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:EYE'>featureClockRate:Dravidian_gold_common-concepts:EYE[1 1] (0.0,Infinity): 0.13719210545556548 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:FAT_(FROM_ANIMALS)'>featureClockRate:Dravidian_gold_common-concepts:FAT_(FROM_ANIMALS)[1 1] (0.0,Infinity): 0.22492702850789315 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:FEATHER'>featureClockRate:Dravidian_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 1.077328164159801 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:FIRE'>featureClockRate:Dravidian_gold_common-concepts:FIRE[1 1] (0.0,Infinity): 1.2021793194796526 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:FISH'>featureClockRate:Dravidian_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.5141069101824449 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Dravidian_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 0.8394435975014083 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:FOOT'>featureClockRate:Dravidian_gold_common-concepts:FOOT[1 1] (0.0,Infinity): 1.8948914098650864 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:FULL'>featureClockRate:Dravidian_gold_common-concepts:FULL[1 1] (0.0,Infinity): 1.3707710306807992 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:GIVE'>featureClockRate:Dravidian_gold_common-concepts:GIVE[1 1] (0.0,Infinity): 0.40766240647244567 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:GOOD'>featureClockRate:Dravidian_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 0.6789329725380606 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:GREEN'>featureClockRate:Dravidian_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 0.423090888841097 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:HAIR_(HEAD)'>featureClockRate:Dravidian_gold_common-concepts:HAIR_(HEAD)[1 1] (0.0,Infinity): 3.535238609236292 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:HAND'>featureClockRate:Dravidian_gold_common-concepts:HAND[1 1] (0.0,Infinity): 0.28446380825330675 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:HEAD'>featureClockRate:Dravidian_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 0.40416476504116916 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:HEAD_LOUSE'>featureClockRate:Dravidian_gold_common-concepts:HEAD_LOUSE[1 1] (0.0,Infinity): 0.7879631967970502 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:HEAR'>featureClockRate:Dravidian_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 0.23619221700055887 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:HEART'>featureClockRate:Dravidian_gold_common-concepts:HEART[1 1] (0.0,Infinity): 0.8090355311641353 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:HORN_(ANATOMY)'>featureClockRate:Dravidian_gold_common-concepts:HORN_(ANATOMY)[1 1] (0.0,Infinity): 0.8621853685035978 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:KILL'>featureClockRate:Dravidian_gold_common-concepts:KILL[1 1] (0.0,Infinity): 0.7142371049944598 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:KNEE'>featureClockRate:Dravidian_gold_common-concepts:KNEE[1 1] (0.0,Infinity): 1.604951796975623 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:KNOW'>featureClockRate:Dravidian_gold_common-concepts:KNOW[1 1] (0.0,Infinity): 0.691809220873327 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:LEAF'>featureClockRate:Dravidian_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 0.7565620644272202 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:LIE_(REST)'>featureClockRate:Dravidian_gold_common-concepts:LIE_(REST)[1 1] (0.0,Infinity): 1.4794707459679541 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:LIVER'>featureClockRate:Dravidian_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 1.2870520221892905 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:LONG'>featureClockRate:Dravidian_gold_common-concepts:LONG[1 1] (0.0,Infinity): 1.0285525210775281 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:MAN'>featureClockRate:Dravidian_gold_common-concepts:MAN[1 1] (0.0,Infinity): 0.49141671422971345 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:MANY'>featureClockRate:Dravidian_gold_common-concepts:MANY[1 1] (0.0,Infinity): 0.8280029088357459 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:MEAT'>featureClockRate:Dravidian_gold_common-concepts:MEAT[1 1] (0.0,Infinity): 0.8309197812911789 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:MOON'>featureClockRate:Dravidian_gold_common-concepts:MOON[1 1] (0.0,Infinity): 1.5851644976626589 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:MOUNTAIN'>featureClockRate:Dravidian_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 1.8556425167532344 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:MOUTH'>featureClockRate:Dravidian_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 1.4853362588137908 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:NAME'>featureClockRate:Dravidian_gold_common-concepts:NAME[1 1] (0.0,Infinity): 0.44134319074486433 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:NECK'>featureClockRate:Dravidian_gold_common-concepts:NECK[1 1] (0.0,Infinity): 0.6153866684474371 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:NEW'>featureClockRate:Dravidian_gold_common-concepts:NEW[1 1] (0.0,Infinity): 0.7537953530437611 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:NIGHT'>featureClockRate:Dravidian_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 1.7003543219452382 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:NOSE'>featureClockRate:Dravidian_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 0.6885410165837289 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:NOT'>featureClockRate:Dravidian_gold_common-concepts:NOT[1 1] (0.0,Infinity): 1.2907853223451604 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:ONE'>featureClockRate:Dravidian_gold_common-concepts:ONE[1 1] (0.0,Infinity): 0.029350273914239874 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:PERSON'>featureClockRate:Dravidian_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 1.3124743811649164 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Dravidian_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 0.7341128007864413 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:RED'>featureClockRate:Dravidian_gold_common-concepts:RED[1 1] (0.0,Infinity): 0.9915323569618149 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:ROAD'>featureClockRate:Dravidian_gold_common-concepts:ROAD[1 1] (0.0,Infinity): 3.1823217963611152 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:ROOT'>featureClockRate:Dravidian_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 0.18660138147560842 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:ROUND'>featureClockRate:Dravidian_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 0.7790214212598756 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SAND'>featureClockRate:Dravidian_gold_common-concepts:SAND[1 1] (0.0,Infinity): 0.9413413355059302 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SAY'>featureClockRate:Dravidian_gold_common-concepts:SAY[1 1] (0.0,Infinity): 1.8520546189484608 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SEE'>featureClockRate:Dravidian_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.7932441105358434 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SEED'>featureClockRate:Dravidian_gold_common-concepts:SEED[1 1] (0.0,Infinity): 0.34878205268747897 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SIT'>featureClockRate:Dravidian_gold_common-concepts:SIT[1 1] (0.0,Infinity): 2.7553610638779165 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SKIN'>featureClockRate:Dravidian_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 0.6304902645933339 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SLEEP'>featureClockRate:Dravidian_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 0.6400025788582461 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SMALL'>featureClockRate:Dravidian_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 1.2157071094311722 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SMOKE_(EXHAUST)'>featureClockRate:Dravidian_gold_common-concepts:SMOKE_(EXHAUST)[1 1] (0.0,Infinity): 0.3646370315644748 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:STAND'>featureClockRate:Dravidian_gold_common-concepts:STAND[1 1] (0.0,Infinity): 0.8683616333594827 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:STAR'>featureClockRate:Dravidian_gold_common-concepts:STAR[1 1] (0.0,Infinity): 1.1432553837354467 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:STONE'>featureClockRate:Dravidian_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.3998568320118128 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SUN'>featureClockRate:Dravidian_gold_common-concepts:SUN[1 1] (0.0,Infinity): 0.4449447953402026 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:SWIM'>featureClockRate:Dravidian_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 0.5444249614736851 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:TAIL'>featureClockRate:Dravidian_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 0.6258151758737567 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:THAT'>featureClockRate:Dravidian_gold_common-concepts:THAT[1 1] (0.0,Infinity): 0.2700231237539352 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:THIS'>featureClockRate:Dravidian_gold_common-concepts:THIS[1 1] (0.0,Infinity): 0.6733510834077299 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:TONGUE'>featureClockRate:Dravidian_gold_common-concepts:TONGUE[1 1] (0.0,Infinity): 0.15466373275804715 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:TOOTH'>featureClockRate:Dravidian_gold_common-concepts:TOOTH[1 1] (0.0,Infinity): 0.3803625796771708 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:TREE'>featureClockRate:Dravidian_gold_common-concepts:TREE[1 1] (0.0,Infinity): 0.6322894834039998 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:TWO'>featureClockRate:Dravidian_gold_common-concepts:TWO[1 1] (0.0,Infinity): 0.07749238503708167 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:WALK'>featureClockRate:Dravidian_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.35596268756564026 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:WARM'>featureClockRate:Dravidian_gold_common-concepts:WARM[1 1] (0.0,Infinity): 1.2544588106891592 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:WATER'>featureClockRate:Dravidian_gold_common-concepts:WATER[1 1] (0.0,Infinity): 0.4466848343492432 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:WE'>featureClockRate:Dravidian_gold_common-concepts:WE[1 1] (0.0,Infinity): 0.3218710669829385 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:WHITE'>featureClockRate:Dravidian_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 0.7780211261250768 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:WHO'>featureClockRate:Dravidian_gold_common-concepts:WHO[1 1] (0.0,Infinity): 0.77321049584882 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:WOMAN'>featureClockRate:Dravidian_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 0.4817757444348094 </statenode>
+<statenode id='featureClockRate:Dravidian_gold_common-concepts:YELLOW'>featureClockRate:Dravidian_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 0.30964724204516525 </statenode>
+<statenode id='featureClockRateGammaShape:Dravidian_gold_common-concepts'>featureClockRateGammaShape:Dravidian_gold_common-concepts[1 1] (1.1,100.0): 2.1158812651018604 </statenode>
+<statenode id='featureClockRateGammaScale:Dravidian_gold_common-concepts'>featureClockRateGammaScale:Dravidian_gold_common-concepts[1 1] (-Infinity,Infinity): 0.47261631193273085 </statenode>
+<statenode id='covarion_alpha.s:Dravidian_gold_common-concepts'>covarion_alpha.s:Dravidian_gold_common-concepts[1 1] (1.0E-4,1.0): 0.01958202713909 </statenode>
+<statenode id='covarion_s.s:Dravidian_gold_common-concepts'>covarion_s.s:Dravidian_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.7511489835348604 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.38838393301776514,"accept":11901,"reject":246231,"acceptFC":11834,"rejectFC":242108,"rejectIv":106414,"rejectOp":106414},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":70513,"reject":187574,"acceptFC":69273,"rejectFC":184650,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":638,"reject":50771,"acceptFC":628,"rejectFC":50024,"rejectIv":26300,"rejectOp":26300},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":732,"reject":50897,"acceptFC":721,"rejectFC":50072,"rejectIv":9359,"rejectOp":9359},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":197889,"reject":317658,"acceptFC":194739,"rejectFC":312449,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.6447104793757829,"accept":9994,"reject":41637,"acceptFC":9888,"rejectFC":40886,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.49605915656922844,"accept":8526,"reject":43342,"acceptFC":8384,"rejectFC":42611,"rejectIv":11438,"rejectOp":11438},
+{"id":"UpDown","p":0.655446822534598,"accept":11020,"reject":40864,"acceptFC":10911,"rejectFC":40059,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.3196987065622644,"accept":13553,"reject":38171,"acceptFC":13207,"rejectFC":37672,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":100595,"reject":71327,"acceptFC":98956,"rejectFC":70165,"rejectIv":60597,"rejectOp":60597},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":55204,"reject":116919,"acceptFC":54192,"rejectFC":115110,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":78860,"reject":92724,"acceptFC":77481,"rejectFC":91280,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.558410426823533,"accept":11510,"reject":39800,"acceptFC":11332,"rejectFC":39120,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Dravidian_gold_common-concepts","p":0.46234246134162726,"accept":1306,"reject":3867,"acceptFC":1273,"rejectFC":3824,"rejectIv":254,"rejectOp":254},
+{"id":"covarion_alpha_scaler.s:Dravidian_gold_common-concepts","p":0.1754059894571736,"accept":5661,"reject":11606,"acceptFC":5497,"rejectFC":11495,"rejectIv":58,"rejectOp":58},
+{"id":"Dravidian_gold_common-concepts:covarion_s_scaler.s","p":0.4487037715748653,"accept":5429,"reject":11880,"acceptFC":5357,"rejectFC":11689,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateDeltaExchanger:default","p":2.1207443819296956,"accept":8387,"reject":43015,"acceptFC":8229,"rejectFC":42323,"rejectIv":27987,"rejectOp":27987}
+]}
+-->

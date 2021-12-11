@@ -1,0 +1,103 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((0:0.11352019378498426,1:0.11352019378498426)9:0.41190119344552556,((2:0.1460368722201541,4:0.1460368722201541)7:0.1543572956049965,(3:0.16996000290570393,5:0.16996000290570393)6:0.13043416491944668)8:0.2250272194053592)10:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 3.6694153291230323 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[10 1] (0,9): 4 0 0 7 9 0 2 2 1 9 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.7092960521601871 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:ALL'>featureClockRate:Hellenic_gold_common-concepts:ALL[1 1] (0.0,Infinity): 0.8889907534883779 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:ASH'>featureClockRate:Hellenic_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.7002909426204278 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:BARK'>featureClockRate:Hellenic_gold_common-concepts:BARK[1 1] (0.0,Infinity): 1.0052718120787345 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:BELLY'>featureClockRate:Hellenic_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 1.3325767956790346 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:BIG'>featureClockRate:Hellenic_gold_common-concepts:BIG[1 1] (0.0,Infinity): 1.1987846920039478 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:BIRD'>featureClockRate:Hellenic_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.43685404299253977 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:BITE'>featureClockRate:Hellenic_gold_common-concepts:BITE[1 1] (0.0,Infinity): 0.4748012277463978 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:BLACK'>featureClockRate:Hellenic_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 1.0822928920508526 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:BONE'>featureClockRate:Hellenic_gold_common-concepts:BONE[1 1] (0.0,Infinity): 0.6744745883955154 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:BREAST'>featureClockRate:Hellenic_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 1.3529958139225926 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:BURN_(SOMETHING)'>featureClockRate:Hellenic_gold_common-concepts:BURN_(SOMETHING)[1 1] (0.0,Infinity): 1.143596196454091 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:CIRCULAR_(ROUND_IN_TWO_DIMENSIONS)'>featureClockRate:Hellenic_gold_common-concepts:CIRCULAR_(ROUND_IN_TWO_DIMENSIONS)[1 1] (0.0,Infinity): 1.385061403240327 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:COLD_(OF_WEATHER)'>featureClockRate:Hellenic_gold_common-concepts:COLD_(OF_WEATHER)[1 1] (0.0,Infinity): 0.8140032528656708 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:COME'>featureClockRate:Hellenic_gold_common-concepts:COME[1 1] (0.0,Infinity): 1.1781929977102987 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:DIE'>featureClockRate:Hellenic_gold_common-concepts:DIE[1 1] (0.0,Infinity): 0.4566584243477175 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:DOG'>featureClockRate:Hellenic_gold_common-concepts:DOG[1 1] (0.0,Infinity): 0.7684489122565901 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:DRY'>featureClockRate:Hellenic_gold_common-concepts:DRY[1 1] (0.0,Infinity): 1.0819038082111985 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Hellenic_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 1.052469266592818 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:EAT'>featureClockRate:Hellenic_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.9411904650010661 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:FAR'>featureClockRate:Hellenic_gold_common-concepts:FAR[1 1] (0.0,Infinity): 0.8797304955361688 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)'>featureClockRate:Hellenic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)[1 1] (0.0,Infinity): 0.5075884404369362 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:FIRE'>featureClockRate:Hellenic_gold_common-concepts:FIRE[1 1] (0.0,Infinity): 1.2429057253496416 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:FISH'>featureClockRate:Hellenic_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.6425196456986159 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:FULL'>featureClockRate:Hellenic_gold_common-concepts:FULL[1 1] (0.0,Infinity): 1.1943935428732968 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:GOOD'>featureClockRate:Hellenic_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 0.5400332056805758 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:GREEN'>featureClockRate:Hellenic_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 1.0043669559216462 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:HAIR'>featureClockRate:Hellenic_gold_common-concepts:HAIR[1 1] (0.0,Infinity): 0.9134284490595521 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:HEAR'>featureClockRate:Hellenic_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 1.0606190380125344 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:HEAVY'>featureClockRate:Hellenic_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 1.1753242693966626 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:I'>featureClockRate:Hellenic_gold_common-concepts:I[1 1] (0.0,Infinity): 0.2661824918999389 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:KILL'>featureClockRate:Hellenic_gold_common-concepts:KILL[1 1] (0.0,Infinity): 0.7552944627653279 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Hellenic_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 1.6294173759772608 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:LIE_(REST)'>featureClockRate:Hellenic_gold_common-concepts:LIE_(REST)[1 1] (0.0,Infinity): 0.8174046536915107 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:LIVER'>featureClockRate:Hellenic_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 0.8310075688504668 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:MALE_PERSON'>featureClockRate:Hellenic_gold_common-concepts:MALE_PERSON[1 1] (0.0,Infinity): 1.1458761034367921 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:MANY'>featureClockRate:Hellenic_gold_common-concepts:MANY[1 1] (0.0,Infinity): 0.9327619644441402 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:MOON'>featureClockRate:Hellenic_gold_common-concepts:MOON[1 1] (0.0,Infinity): 1.0818660339926238 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:MOUNTAIN'>featureClockRate:Hellenic_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 0.9902813442615371 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:NEAR'>featureClockRate:Hellenic_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 1.172055909595891 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:NECK'>featureClockRate:Hellenic_gold_common-concepts:NECK[1 1] (0.0,Infinity): 1.0953833971411326 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:NEW'>featureClockRate:Hellenic_gold_common-concepts:NEW[1 1] (0.0,Infinity): 0.7974125358080749 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:NOSE'>featureClockRate:Hellenic_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 0.9949665845069523 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:PERSON'>featureClockRate:Hellenic_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 0.5902410631685768 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Hellenic_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 0.775705289932543 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:RED'>featureClockRate:Hellenic_gold_common-concepts:RED[1 1] (0.0,Infinity): 1.1363226279620795 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:ROAD'>featureClockRate:Hellenic_gold_common-concepts:ROAD[1 1] (0.0,Infinity): 1.7412627395487197 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SAND'>featureClockRate:Hellenic_gold_common-concepts:SAND[1 1] (0.0,Infinity): 1.2265444061251207 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SAY'>featureClockRate:Hellenic_gold_common-concepts:SAY[1 1] (0.0,Infinity): 0.6383969455599204 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SEE'>featureClockRate:Hellenic_gold_common-concepts:SEE[1 1] (0.0,Infinity): 1.0927087311230477 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SHORT'>featureClockRate:Hellenic_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 1.0863042057079153 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SKIN_(HUMAN)'>featureClockRate:Hellenic_gold_common-concepts:SKIN_(HUMAN)[1 1] (0.0,Infinity): 0.7693760153718485 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SLEEP'>featureClockRate:Hellenic_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 1.7160237262763625 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SMALL'>featureClockRate:Hellenic_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 0.8316966711744311 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SMOKE_(EXHAUST)'>featureClockRate:Hellenic_gold_common-concepts:SMOKE_(EXHAUST)[1 1] (0.0,Infinity): 1.254416726048551 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SPHERICAL_(ROUND_IN_THREE_DIMENSIONS)'>featureClockRate:Hellenic_gold_common-concepts:SPHERICAL_(ROUND_IN_THREE_DIMENSIONS)[1 1] (0.0,Infinity): 0.9921196828872855 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:STONE'>featureClockRate:Hellenic_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.6068558046469162 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:SWIM'>featureClockRate:Hellenic_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 1.4185965997749366 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:TAIL'>featureClockRate:Hellenic_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 0.8417632114566284 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:THAT'>featureClockRate:Hellenic_gold_common-concepts:THAT[1 1] (0.0,Infinity): 1.6525505626294958 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:THIN'>featureClockRate:Hellenic_gold_common-concepts:THIN[1 1] (0.0,Infinity): 0.982116185890875 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:THIS'>featureClockRate:Hellenic_gold_common-concepts:THIS[1 1] (0.0,Infinity): 1.1999332628032242 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:TREE'>featureClockRate:Hellenic_gold_common-concepts:TREE[1 1] (0.0,Infinity): 1.1744643870458844 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:WALK'>featureClockRate:Hellenic_gold_common-concepts:WALK[1 1] (0.0,Infinity): 1.1441506647271675 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:WARM_(OF_WEATHER)'>featureClockRate:Hellenic_gold_common-concepts:WARM_(OF_WEATHER)[1 1] (0.0,Infinity): 0.5698522555804555 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:WATER'>featureClockRate:Hellenic_gold_common-concepts:WATER[1 1] (0.0,Infinity): 0.7160150807290923 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:WHITE'>featureClockRate:Hellenic_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 0.9082760743663749 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:WHO'>featureClockRate:Hellenic_gold_common-concepts:WHO[1 1] (0.0,Infinity): 1.1314863963307513 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:WIND'>featureClockRate:Hellenic_gold_common-concepts:WIND[1 1] (0.0,Infinity): 0.45190106767043725 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:WORM'>featureClockRate:Hellenic_gold_common-concepts:WORM[1 1] (0.0,Infinity): 0.6007553814580573 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:YEAR'>featureClockRate:Hellenic_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 0.8086766137839256 </statenode>
+<statenode id='featureClockRate:Hellenic_gold_common-concepts:YELLOW'>featureClockRate:Hellenic_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 0.7319282013759336 </statenode>
+<statenode id='featureClockRateGammaShape:Hellenic_gold_common-concepts'>featureClockRateGammaShape:Hellenic_gold_common-concepts[1 1] (1.1,100.0): 8.350243380162889 </statenode>
+<statenode id='featureClockRateGammaScale:Hellenic_gold_common-concepts'>featureClockRateGammaScale:Hellenic_gold_common-concepts[1 1] (-Infinity,Infinity): 0.11975698844606543 </statenode>
+<statenode id='covarion_alpha.s:Hellenic_gold_common-concepts'>covarion_alpha.s:Hellenic_gold_common-concepts[1 1] (1.0E-4,1.0): 0.8860130404773909 </statenode>
+<statenode id='covarion_s.s:Hellenic_gold_common-concepts'>covarion_s.s:Hellenic_gold_common-concepts[1 1] (1.0E-4,Infinity): 4.022876108332041E-4 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.5804953462690455,"accept":26815,"reject":231347,"acceptFC":26598,"rejectFC":227303,"rejectIv":94196,"rejectOp":94196},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":27846,"reject":230087,"acceptFC":27292,"rejectFC":226388,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":674,"reject":50922,"acceptFC":662,"rejectFC":50049,"rejectIv":28520,"rejectOp":28520},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":324,"reject":51608,"acceptFC":319,"rejectFC":50731,"rejectIv":25684,"rejectOp":25684},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":125565,"reject":390169,"acceptFC":123442,"rejectFC":383691,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.5285267568092836,"accept":12440,"reject":39197,"acceptFC":12266,"rejectFC":38548,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.3670722240942632,"accept":11102,"reject":40083,"acceptFC":10879,"rejectFC":39485,"rejectIv":5359,"rejectOp":5359},
+{"id":"UpDown","p":0.5046929479165085,"accept":12004,"reject":39809,"acceptFC":11820,"rejectFC":39151,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.20096005959773086,"accept":14364,"reject":37192,"acceptFC":13806,"rejectFC":36890,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":70464,"reject":102013,"acceptFC":69326,"rejectFC":100279,"rejectIv":72192,"rejectOp":72192},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":56242,"reject":116229,"acceptFC":55278,"rejectFC":114270,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":77507,"reject":93883,"acceptFC":76219,"rejectFC":92270,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.3249766201539356,"accept":9386,"reject":41827,"acceptFC":9110,"rejectFC":41262,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Hellenic_gold_common-concepts","p":0.37439204398143716,"accept":1133,"reject":3938,"acceptFC":1120,"rejectFC":3876,"rejectIv":552,"rejectOp":552},
+{"id":"covarion_alpha_scaler.s:Hellenic_gold_common-concepts","p":0.14890443924982563,"accept":3407,"reject":13786,"acceptFC":3242,"rejectFC":13667,"rejectIv":11853,"rejectOp":11853},
+{"id":"Hellenic_gold_common-concepts:covarion_s_scaler.s","p":0.16124608656203168,"accept":4830,"reject":12379,"acceptFC":4635,"rejectFC":12277,"rejectIv":109,"rejectOp":109},
+{"id":"featureClockRateDeltaExchanger:default","p":0.8187735271225723,"accept":18415,"reject":33014,"acceptFC":18335,"rejectFC":32197,"rejectIv":2185,"rejectOp":2185}
+]}
+-->

@@ -1,0 +1,120 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((((0:0.2843561542187918,14:0.2843561542187918)19:0.03774554246028178,3:0.32210169667907357)24:0.035825056763914676,(((1:0.2390248140501915,7:0.2390248140501915)20:0.06567980246975458,(6:0.15408005406767755,12:0.15408005406767755)22:0.15062456245226852)16:0.010752629998821261,((2:0.24442554671613262,(9:0.15119919073149055,13:0.15119919073149055)26:0.09322635598464207)18:0.009025808367768534,(4:0.11194860915190927,11:0.11194860915190927)28:0.14150274593199189)27:0.06200589143486618)17:0.04246950692422091)21:0.3386810065721319,(5:0.41298290642729707,(8:0.21773295712103796,(10:0.15504525111442805,15:0.15504525111442805)29:0.06268770600660992)25:0.1952499493062591)23:0.2836248535878231)30:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 3.032031345483643 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[30 1] (0,29): 21 29 21 16 19 7 14 4 27 19 18 20 15 9 4 5 25 16 14 0 15 2 7 23 11 11 12 17 11 8 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.558262231894964 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:ALL'>featureClockRate:Arabic_gold_common-concepts:ALL[1 1] (0.0,Infinity): 0.7613120108207982 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:BACK'>featureClockRate:Arabic_gold_common-concepts:BACK[1 1] (0.0,Infinity): 0.9619258292712224 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:BARK'>featureClockRate:Arabic_gold_common-concepts:BARK[1 1] (0.0,Infinity): 1.8495182718831074 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:BELLY'>featureClockRate:Arabic_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 0.8235981573950681 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:BIRD'>featureClockRate:Arabic_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.9329567594483237 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:BITE'>featureClockRate:Arabic_gold_common-concepts:BITE[1 1] (0.0,Infinity): 1.1640436054687444 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:BLACK'>featureClockRate:Arabic_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.8243359131146345 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:BREAST'>featureClockRate:Arabic_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 1.425573023979353 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:BURNING'>featureClockRate:Arabic_gold_common-concepts:BURNING[1 1] (0.0,Infinity): 0.8229387380613364 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:CLOUD'>featureClockRate:Arabic_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.285818303510773 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:COLD'>featureClockRate:Arabic_gold_common-concepts:COLD[1 1] (0.0,Infinity): 0.2817155720755862 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:COUNT'>featureClockRate:Arabic_gold_common-concepts:COUNT[1 1] (0.0,Infinity): 1.0405244054499856 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:DIRTY'>featureClockRate:Arabic_gold_common-concepts:DIRTY[1 1] (0.0,Infinity): 0.6466626639440874 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:DRY'>featureClockRate:Arabic_gold_common-concepts:DRY[1 1] (0.0,Infinity): 0.51538908402296 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Arabic_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 0.6468794969827734 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:EGG'>featureClockRate:Arabic_gold_common-concepts:EGG[1 1] (0.0,Infinity): 0.6876454752890931 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:FALL'>featureClockRate:Arabic_gold_common-concepts:FALL[1 1] (0.0,Infinity): 0.6029531011908875 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)'>featureClockRate:Arabic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)[1 1] (0.0,Infinity): 0.3465487568159682 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:FIRE'>featureClockRate:Arabic_gold_common-concepts:FIRE[1 1] (0.0,Infinity): 0.8911202769696772 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:FISH'>featureClockRate:Arabic_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.6286551337196977 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:FLOWER'>featureClockRate:Arabic_gold_common-concepts:FLOWER[1 1] (0.0,Infinity): 1.392507856837527 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:FOOT'>featureClockRate:Arabic_gold_common-concepts:FOOT[1 1] (0.0,Infinity): 0.5524270709419115 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:FULL'>featureClockRate:Arabic_gold_common-concepts:FULL[1 1] (0.0,Infinity): 1.4308185862380831 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:GOOD'>featureClockRate:Arabic_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 1.1250619306208751 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:GRASS'>featureClockRate:Arabic_gold_common-concepts:GRASS[1 1] (0.0,Infinity): 1.0036367765456906 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:HEAD'>featureClockRate:Arabic_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 0.527659543417138 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:HEART'>featureClockRate:Arabic_gold_common-concepts:HEART[1 1] (0.0,Infinity): 0.2821554460549991 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:HOLD'>featureClockRate:Arabic_gold_common-concepts:HOLD[1 1] (0.0,Infinity): 1.2671934285907203 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:KILL'>featureClockRate:Arabic_gold_common-concepts:KILL[1 1] (0.0,Infinity): 0.8376536935559342 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Arabic_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 0.5604385435673278 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:LAUGH'>featureClockRate:Arabic_gold_common-concepts:LAUGH[1 1] (0.0,Infinity): 0.5882888137882998 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:LEAF'>featureClockRate:Arabic_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 0.5317539497081152 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:LEG'>featureClockRate:Arabic_gold_common-concepts:LEG[1 1] (0.0,Infinity): 1.5387483574481253 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:LIE_(REST)'>featureClockRate:Arabic_gold_common-concepts:LIE_(REST)[1 1] (0.0,Infinity): 1.1923225002089615 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:LIVER'>featureClockRate:Arabic_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 0.8028831873575194 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:LOUSE'>featureClockRate:Arabic_gold_common-concepts:LOUSE[1 1] (0.0,Infinity): 0.3601061693690154 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:MAN'>featureClockRate:Arabic_gold_common-concepts:MAN[1 1] (0.0,Infinity): 0.5247271416920676 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:MANY'>featureClockRate:Arabic_gold_common-concepts:MANY[1 1] (0.0,Infinity): 0.926145729308862 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:MOUNTAIN'>featureClockRate:Arabic_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 0.5868265615003893 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:MOUTH'>featureClockRate:Arabic_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 1.6048942946814369 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:NEAR'>featureClockRate:Arabic_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 0.47452814504527085 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:NECK'>featureClockRate:Arabic_gold_common-concepts:NECK[1 1] (0.0,Infinity): 0.9789641282243888 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:NOSE'>featureClockRate:Arabic_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 1.5103490409649605 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:NOT'>featureClockRate:Arabic_gold_common-concepts:NOT[1 1] (0.0,Infinity): 0.287415901303573 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:OLD'>featureClockRate:Arabic_gold_common-concepts:OLD[1 1] (0.0,Infinity): 0.8766269985230308 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:PERSON'>featureClockRate:Arabic_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 1.2943180769851583 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Arabic_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 1.07860117597058 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:ROAD'>featureClockRate:Arabic_gold_common-concepts:ROAD[1 1] (0.0,Infinity): 0.5612842340848203 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:ROOT'>featureClockRate:Arabic_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 3.145749500887867 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:ROUND'>featureClockRate:Arabic_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 0.9847937489060544 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SAND'>featureClockRate:Arabic_gold_common-concepts:SAND[1 1] (0.0,Infinity): 0.23515805839398524 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SEE'>featureClockRate:Arabic_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.6697565329109318 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SEED'>featureClockRate:Arabic_gold_common-concepts:SEED[1 1] (0.0,Infinity): 1.0681646380567449 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SEW'>featureClockRate:Arabic_gold_common-concepts:SEW[1 1] (0.0,Infinity): 1.2069936893584343 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SHARP'>featureClockRate:Arabic_gold_common-concepts:SHARP[1 1] (0.0,Infinity): 1.8119879059131283 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SHORT'>featureClockRate:Arabic_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 0.4275138697753283 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SIT'>featureClockRate:Arabic_gold_common-concepts:SIT[1 1] (0.0,Infinity): 0.9057930040249911 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SKIN_(HUMAN)'>featureClockRate:Arabic_gold_common-concepts:SKIN_(HUMAN)[1 1] (0.0,Infinity): 0.6671401175905485 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SKY'>featureClockRate:Arabic_gold_common-concepts:SKY[1 1] (0.0,Infinity): 0.5182867466503533 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SLEEP'>featureClockRate:Arabic_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 0.6889850942961341 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SNAKE'>featureClockRate:Arabic_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 1.2252529659088867 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:STAND'>featureClockRate:Arabic_gold_common-concepts:STAND[1 1] (0.0,Infinity): 0.36442647431930736 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:STAR'>featureClockRate:Arabic_gold_common-concepts:STAR[1 1] (0.0,Infinity): 0.7537213827944198 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:STONE'>featureClockRate:Arabic_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.7241228881158913 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SUCK'>featureClockRate:Arabic_gold_common-concepts:SUCK[1 1] (0.0,Infinity): 1.4195857798431095 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:SWIM'>featureClockRate:Arabic_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 0.4192260734169408 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:TAIL'>featureClockRate:Arabic_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 1.482728860367356 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:THAT'>featureClockRate:Arabic_gold_common-concepts:THAT[1 1] (0.0,Infinity): 0.5547342744359318 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:THEY'>featureClockRate:Arabic_gold_common-concepts:THEY[1 1] (0.0,Infinity): 0.9080767403478601 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:THICK'>featureClockRate:Arabic_gold_common-concepts:THICK[1 1] (0.0,Infinity): 0.6818967256121491 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:THIN'>featureClockRate:Arabic_gold_common-concepts:THIN[1 1] (0.0,Infinity): 0.8973803745697273 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:THINK'>featureClockRate:Arabic_gold_common-concepts:THINK[1 1] (0.0,Infinity): 2.2558671895873688 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:THROW'>featureClockRate:Arabic_gold_common-concepts:THROW[1 1] (0.0,Infinity): 2.4814527063458294 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:TOOTH'>featureClockRate:Arabic_gold_common-concepts:TOOTH[1 1] (0.0,Infinity): 0.42582426214732005 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:TREE'>featureClockRate:Arabic_gold_common-concepts:TREE[1 1] (0.0,Infinity): 0.23689729687893435 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:TWO'>featureClockRate:Arabic_gold_common-concepts:TWO[1 1] (0.0,Infinity): 0.11994320720486445 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:VOMIT'>featureClockRate:Arabic_gold_common-concepts:VOMIT[1 1] (0.0,Infinity): 1.091690387125972 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WALK'>featureClockRate:Arabic_gold_common-concepts:WALK[1 1] (0.0,Infinity): 1.6601081839568472 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WARM'>featureClockRate:Arabic_gold_common-concepts:WARM[1 1] (0.0,Infinity): 0.7492581711491061 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WE'>featureClockRate:Arabic_gold_common-concepts:WE[1 1] (0.0,Infinity): 0.6459156114488935 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WET'>featureClockRate:Arabic_gold_common-concepts:WET[1 1] (0.0,Infinity): 0.7940811446112149 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WHAT'>featureClockRate:Arabic_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 1.2874937731731166 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WHO'>featureClockRate:Arabic_gold_common-concepts:WHO[1 1] (0.0,Infinity): 0.6881393704804852 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WIDE'>featureClockRate:Arabic_gold_common-concepts:WIDE[1 1] (0.0,Infinity): 0.5590420941742098 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WIND'>featureClockRate:Arabic_gold_common-concepts:WIND[1 1] (0.0,Infinity): 1.1011172231244386 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WOMAN'>featureClockRate:Arabic_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 1.1948135347516793 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:WORM'>featureClockRate:Arabic_gold_common-concepts:WORM[1 1] (0.0,Infinity): 0.2416580955025234 </statenode>
+<statenode id='featureClockRate:Arabic_gold_common-concepts:YEAR'>featureClockRate:Arabic_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 0.7055735916799394 </statenode>
+<statenode id='featureClockRateGammaShape:Arabic_gold_common-concepts'>featureClockRateGammaShape:Arabic_gold_common-concepts[1 1] (1.1,100.0): 4.00626903073479 </statenode>
+<statenode id='featureClockRateGammaScale:Arabic_gold_common-concepts'>featureClockRateGammaScale:Arabic_gold_common-concepts[1 1] (-Infinity,Infinity): 0.24960879869233146 </statenode>
+<statenode id='covarion_alpha.s:Arabic_gold_common-concepts'>covarion_alpha.s:Arabic_gold_common-concepts[1 1] (1.0E-4,1.0): 0.03819446015223512 </statenode>
+<statenode id='covarion_s.s:Arabic_gold_common-concepts'>covarion_s.s:Arabic_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.18337812834711834 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.3976058616903896,"accept":23276,"reject":233867,"acceptFC":23162,"rejectFC":229720,"rejectIv":88631,"rejectOp":88631},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":61333,"reject":197312,"acceptFC":60148,"rejectFC":194241,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":665,"reject":50856,"acceptFC":646,"rejectFC":50052,"rejectIv":26636,"rejectOp":26636},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":844,"reject":50407,"acceptFC":823,"rejectFC":49564,"rejectIv":11366,"rejectOp":11366},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":203094,"reject":312561,"acceptFC":199563,"rejectFC":307596,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.5964098864542814,"accept":10066,"reject":41430,"acceptFC":9928,"rejectFC":40704,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.5569995929545092,"accept":8366,"reject":43383,"acceptFC":8242,"rejectFC":42636,"rejectIv":10829,"rejectOp":10829},
+{"id":"UpDown","p":0.6229875707078977,"accept":11932,"reject":39865,"acceptFC":11810,"rejectFC":39161,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.29526118634920057,"accept":13846,"reject":37916,"acceptFC":13405,"rejectFC":37496,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":96833,"reject":75216,"acceptFC":95308,"rejectFC":74078,"rejectIv":61903,"rejectOp":61903},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":54507,"reject":117502,"acceptFC":53521,"rejectFC":115754,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":77256,"reject":95087,"acceptFC":75843,"rejectFC":93757,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.5498762118184517,"accept":10527,"reject":40986,"acceptFC":10317,"rejectFC":40335,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Arabic_gold_common-concepts","p":0.4033539358201809,"accept":1114,"reject":4055,"acceptFC":1090,"rejectFC":4006,"rejectIv":255,"rejectOp":255},
+{"id":"covarion_alpha_scaler.s:Arabic_gold_common-concepts","p":0.1656530180088692,"accept":5003,"reject":12184,"acceptFC":4847,"rejectFC":12058,"rejectIv":14,"rejectOp":14},
+{"id":"Arabic_gold_common-concepts:covarion_s_scaler.s","p":0.4714687906898661,"accept":4648,"reject":12601,"acceptFC":4555,"rejectFC":12393,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateDeltaExchanger:default","p":1.8170222954874984,"accept":11592,"reject":39871,"acceptFC":11442,"rejectFC":39220,"rejectIv":24132,"rejectOp":24132}
+]}
+-->

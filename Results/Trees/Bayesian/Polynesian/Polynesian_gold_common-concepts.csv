@@ -1,0 +1,4326 @@
+Language_ID,Feature_ID,IPA,Value
+Anuta,COLD,makariri,1
+East_Futuna,COLD,makalili,1
+Emae,COLD,makariri,1
+Futuna-Aniwa,COLD,makaliɡi,1
+Kapingamarangi,COLD,makariri,1
+Luangiua,COLD,maalili,1
+Mangareva,COLD,makariri,1
+Maori,COLD,makariri,1
+Mele-Fila,COLD,makariri,1
+Niuean,COLD,makalili,1
+North_Marquesan,COLD,kamariri,1
+North_Marquesan,COLD,makarere,1
+Nukuria,COLD,makariri,1
+Penrhyn,COLD,makariri,1
+Pukapuka,COLD,makalili,1
+RakahangaManihiki,COLD,makalili,1
+RennellBellona,COLD,makaɡiɡi,1
+Samoan,COLD,maʔalili,1
+Sikaiana,COLD,makalili,1
+Tikopia,COLD,makariri,1
+Tuamotuan,COLD,makariri,1
+Tuvalu,COLD,makalili,1
+Vaeakau-Taumako,COLD,maliki,1
+Wallisian,COLD,makalili,1
+Austral_(Ra'ivavae),COLD,haumaaɢuaːɢu,2
+Samoan,COLD,maluuluuːlu,2
+Tuvalu,COLD,maaluaːluluaːluːlu,2
+Austral_(Rurutuan),COLD,toʔetoʔe,3
+RakahangaManihiki,COLD,toketoke,3
+Rapanui,COLD,takeo,3
+Tahitian,COLD,toʔetoʔe,3
+Tuamotuan,COLD,toketoke,3
+East_Futuna,COLD,momoko,4
+Tongan,COLD,momoko,4
+Hawaiian,COLD,anu,5
+Mangareva,COLD,anu,5
+North_Marquesan,COLD,anu,5
+Penrhyn,COLD,anu,5
+Pukapuka,COLD,ano,5
+Rarotongan,COLD,anutoketoke,5
+Rarotongan,COLD,anu,5
+Tuamotuan,COLD,anu,5
+Austral_(Ra'ivavae),WIDE,ɢaɢahi,6
+Austral_(Rurutuan),WIDE,ʔaʔano,7
+Rarotongan,WIDE,ʔaʔano,7
+Tahitian,WIDE,ʔaʔano,7
+East_Futuna,WIDE,laulasi,8
+Niuean,WIDE,laulahi,8
+Samoan,WIDE,lautele,8
+Tongan,WIDE,laulahi,8
+Vaeakau-Taumako,WIDE,laueha,8
+Wallisian,WIDE,laulahi,8
+Futuna-Aniwa,WIDE,ʰlafa,9
+Kapingamarangi,WIDE,balaha,9
+Luangiua,WIDE,laha,9
+Penrhyn,WIDE,raharaha,9
+Pukapuka,WIDE,lapalapa,9
+Sikaiana,WIDE,llaha,9
+Tikopia,WIDE,lafalafa,9
+Tuamotuan,WIDE,raha,9
+Hawaiian,WIDE,aakea,10
+North_Marquesan,WIDE,fatea,10
+RakahangaManihiki,WIDE,atea,10
+Rarotongan,WIDE,aatea,10
+Samoan,WIDE,aateatea,10
+Mangareva,WIDE,ʔataʔata,11
+Maori,WIDE,faanui,12
+Nukuria,WIDE,raharaha,13
+RakahangaManihiki,WIDE,patapata,14
+Rapanui,WIDE,kau,15
+Tuvalu,WIDE,lauefa,16
+Anuta,DOG,korii,17
+Austral_(Ra'ivavae),DOG,ʔuɢi,17
+Austral_(Rurutuan),DOG,ʔuuriuːri,17
+East_Futuna,DOG,kulii,17
+Emae,DOG,kuri,17
+Futuna-Aniwa,DOG,kuli,17
+Hawaiian,DOG,ʔiilio,17
+Mangareva,DOG,kurii,17
+Maori,DOG,kurii,17
+Mele-Fila,DOG,kori,17
+Niuean,DOG,kulii,17
+North_Marquesan,DOG,kuʔi,17
+Penrhyn,DOG,kurii,17
+Pukapuka,DOG,kulii,17
+RakahangaManihiki,DOG,kurii,17
+Rapanui,DOG,kuri,17
+Rarotongan,DOG,kurii,17
+RennellBellona,DOG,kuɡi,17
+Samoan,DOG,ʔulii,17
+Sikaiana,DOG,kulii,17
+Tahitian,DOG,ʔurii,17
+Tikopia,DOG,kuri,17
+Tongan,DOG,kulii,17
+Tuamotuan,DOG,kurio,17
+Tuvalu,DOG,kulii,17
+Vaeakau-Taumako,DOG,kulii,17
+Wallisian,DOG,kulii,17
+Kapingamarangi,DOG,pana,18
+Luangiua,DOG,poi,19
+North_Marquesan,DOG,nuhe,20
+Nukuria,DOG,manukaitama,21
+Pukapuka,DOG,puakaoa,22
+Rapanui,DOG,paiheɡa,23
+Samoan,DOG,maile,24
+Anuta,KNOW (SOMETHING),poto,25
+East_Futuna,KNOW (SOMETHING),poto,25
+Tikopia,KNOW (SOMETHING),poto,25
+Anuta,KNOW (SOMETHING),iroa,26
+Emae,KNOW (SOMETHING),iroa,26
+Futuna-Aniwa,KNOW (SOMETHING),iroa,26
+Kapingamarangi,KNOW (SOMETHING),iloo,26
+Luangiua,KNOW (SOMETHING),ailoa,26
+Niuean,KNOW (SOMETHING),iloa,26
+Nukuria,KNOW (SOMETHING),iloa,26
+Pukapuka,KNOW (SOMETHING),iiloloa,26
+Samoan,KNOW (SOMETHING),iloa,26
+Sikaiana,KNOW (SOMETHING),iloa,26
+Tikopia,KNOW (SOMETHING),iloa,26
+Tongan,KNOW (SOMETHING),ʔilo,26
+Tuvalu,KNOW (SOMETHING),iloa,26
+Vaeakau-Taumako,KNOW (SOMETHING),iloa,26
+Austral_(Ra'ivavae),KNOW (SOMETHING),ʔite,27
+Austral_(Rurutuan),KNOW (SOMETHING),ʔite,27
+Hawaiian,KNOW (SOMETHING),ʔike,27
+Mangareva,KNOW (SOMETHING),kite,27
+Penrhyn,KNOW (SOMETHING),kite,27
+RakahangaManihiki,KNOW (SOMETHING),kite,27
+Rarotongan,KNOW (SOMETHING),kite,27
+Tahitian,KNOW (SOMETHING),ʔite,27
+Tuamotuan,KNOW (SOMETHING),kite,27
+East_Futuna,KNOW (SOMETHING),masani,28
+Wallisian,KNOW (SOMETHING),ʔiloʔi,28
+East_Futuna,KNOW (SOMETHING),maatino,29
+RennellBellona,KNOW (SOMETHING),maatino,29
+Maori,KNOW (SOMETHING),moohio,30
+Mele-Fila,KNOW (SOMETHING),taea,31
+North_Marquesan,KNOW (SOMETHING),hani,32
+Pukapuka,KNOW (SOMETHING),wanewane,33
+Pukapuka,KNOW (SOMETHING),maawutu,34
+RakahangaManihiki,KNOW (SOMETHING),maarama,35
+Rapanui,KNOW (SOMETHING),aɡi,36
+Rarotongan,KNOW (SOMETHING),maatau,37
+Tuamotuan,KNOW (SOMETHING),maatau,37
+Sikaiana,KNOW (SOMETHING),atamai,38
+Anuta,CLOUD,ao,39
+East_Futuna,CLOUD,ʔao,39
+Emae,CLOUD,ᵐboroa,39
+Futuna-Aniwa,CLOUD,boa,39
+Hawaiian,CLOUD,ao,39
+Mangareva,CLOUD,ao,39
+Maori,CLOUD,kapua,39
+Niuean,CLOUD,laɡi,39
+North_Marquesan,CLOUD,ao,39
+Penrhyn,CLOUD,oo,39
+Pukapuka,CLOUD,kaapuao,39
+RakahangaManihiki,CLOUD,kapua,39
+RakahangaManihiki,CLOUD,ao,39
+Rarotongan,CLOUD,tiao,39
+RennellBellona,CLOUD,ʔao,39
+Samoan,CLOUD,ao,39
+Tikopia,CLOUD,ao,39
+Tongan,CLOUD,ʔao,39
+Tuamotuan,CLOUD,ao,39
+Vaeakau-Taumako,CLOUD,meluao,39
+Wallisian,CLOUD,ʔao,39
+Austral_(Ra'ivavae),CLOUD,ata,40
+Austral_(Rurutuan),CLOUD,ata,41
+Kapingamarangi,CLOUD,kororaŋi,42
+Rarotongan,CLOUD,tumuraŋi,42
+Luangiua,CLOUD,puulehu,43
+Sikaiana,CLOUD,lehuna,43
+Mele-Fila,CLOUD,taeteraŋi,44
+Nukuria,CLOUD,kaniva,45
+RakahangaManihiki,CLOUD,kaikaiŋa,46
+Rapanui,CLOUD,raɡi,47
+Rapanui,CLOUD,kohu,48
+Tahitian,CLOUD,ata,49
+Tuamotuan,CLOUD,titi,50
+Tuvalu,CLOUD,kaumana,51
+Anuta,BURN,tutu,52
+East_Futuna,BURN,susunu,52
+Kapingamarangi,BURN,dudu,52
+Mangareva,BURN,tutu,52
+North_Marquesan,BURN,tutu,52
+Pukapuka,BURN,tutu,52
+RakahangaManihiki,BURN,tutu,52
+Rapanui,BURN,tutu,52
+RennellBellona,BURN,tutu,52
+Samoan,BURN,susunu,52
+Sikaiana,BURN,tutu,52
+Tikopia,BURN,tutu,52
+Tongan,BURN,tutu,52
+Wallisian,BURN,tutu,52
+Anuta,BURN,tuŋia,53
+Austral_(Ra'ivavae),BURN,tutuʔi,53
+Emae,BURN,tuŋia,53
+Futuna-Aniwa,BURN,tuŋia,53
+Hawaiian,BURN,kuni,53
+Kapingamarangi,BURN,tuŋi,53
+Luangiua,BURN,kuŋi,53
+Mele-Fila,BURN,tuŋia,53
+Niuean,BURN,tuŋi,53
+Nukuria,BURN,ttuni,53
+Rarotongan,BURN,tutuŋi,53
+RennellBellona,BURN,tuuŋia,53
+Sikaiana,BURN,tuunia,53
+Tahitian,BURN,tutuʔi,53
+Tuamotuan,BURN,tuŋi,53
+Tuvalu,BURN,tuɡia,53
+Anuta,BURN,tapu,54
+Mangareva,BURN,taʔu,54
+Maori,BURN,tahu,54
+Niuean,BURN,tafu,54
+Penrhyn,BURN,tahu,54
+Rarotongan,BURN,taʔu,54
+Samoan,BURN,tafu,54
+Tikopia,BURN,tafu,54
+Tuamotuan,BURN,tahu,54
+Tuvalu,BURN,tafu,54
+Austral_(Rurutuan),BURN,ʔaʔaʔama,55
+Hawaiian,BURN,ʔaa,56
+Mangareva,BURN,kaʔa,56
+RakahangaManihiki,BURN,kaa,56
+Vaeakau-Taumako,BURN,khaa,56
+North_Marquesan,BURN,hakauʔa,57
+Samoan,BURN,mu,58
+Vaeakau-Taumako,BURN,ula,59
+Anuta,NECK,ua,60
+East_Futuna,NECK,ʔua,60
+Emae,NECK,ua,60
+Kapingamarangi,NECK,ua,60
+Luangiua,NECK,ʔua,60
+Maori,NECK,ua,60
+Niuean,NECK,ua,60
+Pukapuka,NECK,ua,60
+RennellBellona,NECK,uʔa,60
+Samoan,NECK,ua,60
+Sikaiana,NECK,ua,60
+Tikopia,NECK,ua,60
+Tuamotuan,NECK,ua,60
+Tuvalu,NECK,ua,60
+Vaeakau-Taumako,NECK,ua,60
+Wallisian,NECK,uʔa,60
+Austral_(Ra'ivavae),NECK,ʔaɢapoʔa,61
+Austral_(Rurutuan),NECK,ʔaʔii,62
+Hawaiian,NECK,ʔaaʔiaːʔi,62
+Mangareva,NECK,kaki,62
+North_Marquesan,NECK,kaakiaːki,62
+Penrhyn,NECK,kakii,62
+Pukapuka,NECK,kakii,62
+RakahangaManihiki,NECK,kakii,62
+Rarotongan,NECK,kakii,62
+Tahitian,NECK,ʔaʔii,62
+Tongan,NECK,kia,62
+Tuamotuan,NECK,kaakiaːki,62
+Wallisian,NECK,kia,62
+Futuna-Aniwa,NECK,penaaua,63
+Mele-Fila,NECK,popo,64
+Nukuria,NECK,koomanu,65
+Rapanui,NECK,ɡao,66
+Anuta,MALE PERSON,tamaaroa,67
+Anuta,MALE PERSON,taŋata,68
+East_Futuna,MALE PERSON,taɡata,68
+Mangareva,MALE PERSON,taŋata,68
+Nukuria,MALE PERSON,tanata,68
+RakahangaManihiki,MALE PERSON,taŋata,68
+RennellBellona,MALE PERSON,taŋata,68
+Sikaiana,MALE PERSON,tanata,68
+Tongan,MALE PERSON,taŋata,68
+Vaeakau-Taumako,MALE PERSON,taŋata,68
+Austral_(Ra'ivavae),MALE PERSON,taane,69
+Austral_(Rurutuan),MALE PERSON,taane,69
+Emae,MALE PERSON,taŋata,69
+Futuna-Aniwa,MALE PERSON,taane,69
+Hawaiian,MALE PERSON,kaane,69
+Kapingamarangi,MALE PERSON,daane,69
+Luangiua,MALE PERSON,kaŋe,69
+Maori,MALE PERSON,taane,69
+Mele-Fila,MALE PERSON,tane,69
+Niuean,MALE PERSON,taane,69
+North_Marquesan,MALE PERSON,tane,69
+Penrhyn,MALE PERSON,taane,69
+Pukapuka,MALE PERSON,taane,69
+Rapanui,MALE PERSON,tane,69
+Rarotongan,MALE PERSON,taane,69
+Samoan,MALE PERSON,taane,69
+Sikaiana,MALE PERSON,taane,69
+Tahitian,MALE PERSON,taane,69
+Tikopia,MALE PERSON,taane,69
+Tuamotuan,MALE PERSON,taane,69
+Tuvalu,MALE PERSON,taane,69
+Wallisian,MALE PERSON,taʔane,69
+Mangareva,MALE PERSON,tamaroa,70
+North_Marquesan,MALE PERSON,toa,70
+Rarotongan,MALE PERSON,tamaroa,70
+North_Marquesan,MALE PERSON,heko,71
+Tuamotuan,MALE PERSON,haakoi,71
+North_Marquesan,MALE PERSON,tamaʔoa,72
+RakahangaManihiki,MALE PERSON,roopaoːpa,73
+Vaeakau-Taumako,MALE PERSON,mhe,74
+Anuta,STONE,patu,75
+Austral_(Rurutuan),STONE,poʔatu,75
+East_Futuna,STONE,fatu,75
+Futuna-Aniwa,STONE,faatu,75
+Hawaiian,STONE,poohaku,75
+Kapingamarangi,STONE,hadu,75
+Luangiua,STONE,haku,75
+Mangareva,STONE,poʔatu,75
+Maori,STONE,koofatu,75
+Mele-Fila,STONE,fatu,75
+Niuean,STONE,patu,75
+North_Marquesan,STONE,hatukeʔaa,75
+Nukuria,STONE,hatu,75
+Penrhyn,STONE,poohatu,75
+Pukapuka,STONE,watu,75
+RakahangaManihiki,STONE,fatu,75
+RakahangaManihiki,STONE,poohatu,75
+Rarotongan,STONE,pooʔatu,75
+RennellBellona,STONE,balu,75
+Samoan,STONE,fatu,75
+Sikaiana,STONE,hatu,75
+Tikopia,STONE,fatu,75
+Tuamotuan,STONE,poofatu,75
+Tuamotuan,STONE,hatu,75
+Tuvalu,STONE,fatu,75
+Vaeakau-Taumako,STONE,hatu,75
+Austral_(Ra'ivavae),STONE,ʔohai,76
+Austral_(Rurutuan),STONE,ʔooʔaʔi,76
+Tahitian,STONE,ʔoofaʔi,76
+East_Futuna,STONE,maka,77
+Emae,STONE,maka,77
+Niuean,STONE,maka,77
+Rapanui,STONE,maʔea,77
+Samoan,STONE,maʔa,77
+Tongan,STONE,maka,77
+Wallisian,STONE,maka,77
+North_Marquesan,STONE,keʔa,78
+RakahangaManihiki,STONE,toka,79
+Anuta,COUNT,rau,80
+East_Futuna,COUNT,lau,80
+Emae,COUNT,taua,80
+Futuna-Aniwa,COUNT,tau,80
+Kapingamarangi,COUNT,dau,80
+Luangiua,COUNT,pau,80
+Mangareva,COUNT,touʔara,80
+Maori,COUNT,tatau,80
+Mele-Fila,COUNT,tao,80
+Niuean,COUNT,totou,80
+North_Marquesan,COUNT,tau,80
+Nukuria,COUNT,ppau,80
+Penrhyn,COUNT,tau,80
+Pukapuka,COUNT,tatau,80
+Pukapuka,COUNT,wakalau,80
+RakahangaManihiki,COUNT,tatauaŋa,80
+Rapanui,COUNT,tataku,80
+Rarotongan,COUNT,tatau,80
+RennellBellona,COUNT,tau,80
+Samoan,COUNT,faitau,80
+Sikaiana,COUNT,pau,80
+Tikopia,COUNT,tau,80
+Tikopia,COUNT,rau,80
+Tongan,COUNT,laua,80
+Tuvalu,COUNT,lau,80
+Tuvalu,COUNT,tau,80
+Vaeakau-Taumako,COUNT,phaua,80
+Wallisian,COUNT,lau,80
+Austral_(Ra'ivavae),COUNT,taiʔo,81
+Austral_(Rurutuan),COUNT,taiʔo,81
+Tahitian,COUNT,taiʔo,81
+Hawaiian,COUNT,helu,82
+RakahangaManihiki,COUNT,taale,83
+Rarotongan,COUNT,taareaːre,83
+Anuta,THINK,maanatu,84
+East_Futuna,THINK,manatu,84
+Futuna-Aniwa,THINK,manatu,84
+Niuean,THINK,manatu,84
+Nukuria,THINK,maanatu,84
+Pukapuka,THINK,manatu,84
+RennellBellona,THINK,maanatu,84
+Samoan,THINK,manatu,84
+Tikopia,THINK,maanatu,84
+Tuvalu,THINK,manatu,84
+Vaeakau-Taumako,THINK,mnatua,84
+Wallisian,THINK,manatu,84
+Austral_(Ra'ivavae),THINK,heɢuɢi,85
+Austral_(Rurutuan),THINK,manaʔo,86
+Hawaiian,THINK,manaʔo,86
+North_Marquesan,THINK,maʔakau,86
+Penrhyn,THINK,manako,86
+Pukapuka,THINK,manako,86
+RakahangaManihiki,THINK,hakamanako,86
+Rapanui,THINK,manaʔu,86
+Tahitian,THINK,manaʔo,86
+East_Futuna,THINK,masalo,87
+Niuean,THINK,mahala,87
+Pukapuka,THINK,majala,87
+RakahangaManihiki,THINK,mahara,87
+Rarotongan,THINK,maʔara,87
+Tuamotuan,THINK,mahara,87
+Wallisian,THINK,mahalo,87
+Emae,THINK,fakaturia,88
+Kapingamarangi,THINK,hakapau,89
+Luangiua,THINK,hakaoko,90
+Mangareva,THINK,makara,91
+Samoan,THINK,maafaufau,91
+Tuvalu,THINK,maafaufau,91
+Maori,THINK,fakaaro,92
+Mele-Fila,THINK,mantua,93
+Sikaiana,THINK,hakateletele,94
+Tongan,THINK,fakakaukau,95
+Tuvalu,THINK,laɡona,96
+Vaeakau-Taumako,THINK,hiŋa,97
+Anuta,WIND,mataŋi,98
+Austral_(Ra'ivavae),WIND,mataʔi,98
+Austral_(Rurutuan),WIND,mataʔi,98
+East_Futuna,WIND,mataɡi,98
+Emae,WIND,mataŋi,98
+Futuna-Aniwa,WIND,mataɡi,98
+Hawaiian,WIND,makani,98
+Kapingamarangi,WIND,madaŋi,98
+Luangiua,WIND,makaŋi,98
+Mangareva,WIND,mataŋi,98
+Mele-Fila,WIND,mataŋi,98
+Niuean,WIND,mataŋi,98
+North_Marquesan,WIND,metani,98
+Nukuria,WIND,matani,98
+Penrhyn,WIND,mataŋi,98
+Pukapuka,WIND,mataŋi,98
+RakahangaManihiki,WIND,mataŋi,98
+Rapanui,WIND,mataɡi,98
+Rarotongan,WIND,mataŋi,98
+RennellBellona,WIND,mataŋi,98
+Samoan,WIND,mataŋi,98
+Sikaiana,WIND,matani,98
+Tahitian,WIND,mataʔi,98
+Tikopia,WIND,mataɡi,98
+Tongan,WIND,mataŋi,98
+Tuamotuan,WIND,mataŋi,98
+Vaeakau-Taumako,WIND,mataŋi,98
+Wallisian,WIND,mataɡi,98
+East_Futuna,WIND,savili,99
+Niuean,WIND,havili,99
+Samoan,WIND,savili,99
+Wallisian,WIND,havili,99
+Futuna-Aniwa,WIND,sau,100
+Mangareva,WIND,hau,100
+Maori,WIND,hau,100
+Penrhyn,WIND,sau,100
+Rapanui,WIND,hahau,100
+Rapanui,WIND,tokerau,101
+Anuta,WHITE,tea,102
+Austral_(Rurutuan),WHITE,teatea,102
+East_Futuna,WHITE,tea,102
+Futuna-Aniwa,WHITE,tea,102
+Hawaiian,WHITE,kea,102
+Mangareva,WHITE,tea,102
+Niuean,WHITE,tea,102
+North_Marquesan,WHITE,tea,102
+Penrhyn,WHITE,tea,102
+RakahangaManihiki,WHITE,tea,102
+Rapanui,WHITE,teatea,102
+Rarotongan,WHITE,tea,102
+RennellBellona,WHITE,tea,102
+Samoan,WHITE,tea,102
+Sikaiana,WHITE,tea,102
+Tikopia,WHITE,tea,102
+Tuamotuan,WHITE,tea,102
+Tuvalu,WHITE,tea,102
+Vaeakau-Taumako,WHITE,tʰea,102
+Wallisian,WHITE,tea,102
+Anuta,WHITE,kena,103
+Futuna-Aniwa,WHITE,kʰeŋo,103
+Kapingamarangi,WHITE,kene,103
+Pukapuka,WHITE,kena,103
+Tikopia,WHITE,kena,103
+Austral_(Ra'ivavae),WHITE,ʔuoʔuo,104
+Emae,WHITE,tea,105
+Hawaiian,WHITE,keʔokeʔo,106
+North_Marquesan,WHITE,teko,106
+Luangiua,WHITE,maʔiŋi,107
+Maori,WHITE,maa,108
+Mele-Fila,WHITE,tetea,109
+North_Marquesan,WHITE,tavaiʔe,110
+Nukuria,WHITE,maatea,111
+Pukapuka,WHITE,mumuka,112
+RakahangaManihiki,WHITE,maakita,113
+Samoan,WHITE,sina,114
+Tongan,WHITE,hinehina,114
+Samoan,WHITE,paʔepaʔe,115
+Tahitian,WHITE,ʔuoʔuo,116
+Anuta,FOOT OR LEG,vae,117
+Austral_(Rurutuan),FOOT OR LEG,ʔaavae,117
+East_Futuna,FOOT OR LEG,vaʔe,117
+Emae,FOOT OR LEG,βae,117
+Futuna-Aniwa,FOOT OR LEG,vae,117
+Hawaiian,FOOT OR LEG,waawae,117
+Kapingamarangi,FOOT OR LEG,wae,117
+Luangiua,FOOT OR LEG,vae,117
+Maori,FOOT OR LEG,waewae,117
+Mele-Fila,FOOT OR LEG,βae,117
+Niuean,FOOT OR LEG,vee,117
+North_Marquesan,FOOT OR LEG,vae,117
+Nukuria,FOOT OR LEG,vae,117
+Penrhyn,FOOT OR LEG,vae,117
+Pukapuka,FOOT OR LEG,vae,117
+RakahangaManihiki,FOOT OR LEG,waewae,117
+Rapanui,FOOT OR LEG,vaʔe,117
+Rarotongan,FOOT OR LEG,vae,117
+RennellBellona,FOOT OR LEG,baʔe,117
+Samoan,FOOT OR LEG,vae,117
+Sikaiana,FOOT OR LEG,vae,117
+Tahitian,FOOT OR LEG,ʔaavae,117
+Tikopia,FOOT OR LEG,vae,117
+Tongan,FOOT OR LEG,vaʔe,117
+Tuamotuan,FOOT OR LEG,vae,117
+Tuvalu,FOOT OR LEG,vae,117
+Vaeakau-Taumako,FOOT OR LEG,vae,117
+Wallisian,FOOT OR LEG,vaʔe,117
+Austral_(Ra'ivavae),FOOT OR LEG,umaha,118
+Luangiua,FOOT OR LEG,kapuae,119
+Rarotongan,FOOT OR LEG,tapuae,119
+Sikaiana,FOOT OR LEG,tapuae,119
+Mangareva,FOOT OR LEG,aʔape,120
+Anuta,EAT,kai,121
+Austral_(Ra'ivavae),EAT,ʔamu,121
+Austral_(Rurutuan),EAT,ʔai,121
+East_Futuna,EAT,kai,121
+Emae,EAT,kaikai,121
+Futuna-Aniwa,EAT,keina,121
+Hawaiian,EAT,ʔai,121
+Kapingamarangi,EAT,ɡai,121
+Luangiua,EAT,ʔai,121
+Mangareva,EAT,kai,121
+Maori,EAT,kai,121
+Mele-Fila,EAT,kai,121
+Niuean,EAT,kai,121
+North_Marquesan,EAT,ʔai,121
+Nukuria,EAT,kai,121
+Penrhyn,EAT,kai,121
+Pukapuka,EAT,kaikai,121
+RakahangaManihiki,EAT,kaikai,121
+Rapanui,EAT,kai,121
+Rarotongan,EAT,kaiŋa,121
+RennellBellona,EAT,kai,121
+Samoan,EAT,ʔai,121
+Sikaiana,EAT,kai,121
+Tahitian,EAT,ʔamu,121
+Tikopia,EAT,kai,121
+Tongan,EAT,kai,121
+Tuamotuan,EAT,kai,121
+Tuvalu,EAT,kai,121
+Vaeakau-Taumako,EAT,kai,121
+Wallisian,EAT,kai,121
+East_Futuna,EAT,omaki,122
+Wallisian,EAT,ʔomaki,122
+Emae,EAT,foro,123
+Pukapuka,EAT,tamitami,124
+Anuta,HEAVY,mamafa,125
+Austral_(Ra'ivavae),HEAVY,toimaha,125
+Austral_(Rurutuan),HEAVY,tiaʔa,125
+East_Futuna,HEAVY,mamafa,125
+Emae,HEAVY,mamafa,125
+Futuna-Aniwa,HEAVY,mafa,125
+Hawaiian,HEAVY,kaumaha,125
+Kapingamarangi,HEAVY,maha,125
+Luangiua,HEAVY,maha,125
+Mangareva,HEAVY,teimaha,125
+Maori,HEAVY,taimaha,125
+Mele-Fila,HEAVY,mafa,125
+Niuean,HEAVY,mamafa,125
+Nukuria,HEAVY,taenaha,125
+Penrhyn,HEAVY,taimaha,125
+Pukapuka,HEAVY,taewana,125
+RakahangaManihiki,HEAVY,taimaha,125
+Rarotongan,HEAVY,teimaʔa,125
+RennellBellona,HEAVY,mamaha,125
+Samoan,HEAVY,mamafa,125
+Sikaiana,HEAVY,mmaha,125
+Tahitian,HEAVY,toiaha,125
+Tikopia,HEAVY,mafa,125
+Tongan,HEAVY,mamafa,125
+Tuvalu,HEAVY,mamafa,125
+Vaeakau-Taumako,HEAVY,maha,125
+Wallisian,HEAVY,mamafa,125
+Mangareva,HEAVY,kikikiki,126
+North_Marquesan,HEAVY,toko,127
+North_Marquesan,HEAVY,tono,128
+Rapanui,HEAVY,paɡahaʔa,129
+Tuamotuan,HEAVY,tuʔatuʔa,130
+Anuta,SKY,raŋi,131
+Austral_(Ra'ivavae),SKY,ɢaʔi,131
+Austral_(Rurutuan),SKY,tuaraʔi,131
+East_Futuna,SKY,laɡi,131
+Emae,SKY,raŋi,131
+Futuna-Aniwa,SKY,raɡi,131
+Hawaiian,SKY,lani,131
+Kapingamarangi,SKY,laŋi,131
+Luangiua,SKY,laŋi,131
+Mangareva,SKY,raŋi,131
+Maori,SKY,raŋi,131
+Mele-Fila,SKY,raŋi,131
+North_Marquesan,SKY,ʔaŋi,131
+Penrhyn,SKY,raŋi,131
+Pukapuka,SKY,laŋi,131
+RakahangaManihiki,SKY,laŋi,131
+Rapanui,SKY,raɡi,131
+Rarotongan,SKY,raŋi,131
+RennellBellona,SKY,ɡaŋi,131
+Samoan,SKY,laŋi,131
+Sikaiana,SKY,lani,131
+Tahitian,SKY,raʔi,131
+Tikopia,SKY,raɡi,131
+Tongan,SKY,laŋi,131
+Tuamotuan,SKY,raŋi,131
+Tuvalu,SKY,laɡi,131
+Vaeakau-Taumako,SKY,velaŋi,131
+Wallisian,SKY,laɡi,131
+Mele-Fila,SKY,maloa,132
+Nukuria,SKY,kaniva,133
+Anuta,TAIL,tiku,134
+East_Futuna,TAIL,siku,134
+Emae,TAIL,siku,134
+Futuna-Aniwa,TAIL,siku,134
+Mangareva,TAIL,ʔiku,134
+Niuean,TAIL,hiku,134
+North_Marquesan,TAIL,hiku,134
+Nukuria,TAIL,moihuku,134
+Penrhyn,TAIL,siku,134
+Pukapuka,TAIL,jiku,134
+RakahangaManihiki,TAIL,hiku,134
+Rapanui,TAIL,hiku,134
+Rarotongan,TAIL,ʔiku,134
+RennellBellona,TAIL,siku,134
+Samoan,TAIL,siʔusiʔu,134
+Tahitian,TAIL,hiʔu,134
+Tikopia,TAIL,sikusiku,134
+Tongan,TAIL,iku,134
+Tuamotuan,TAIL,hiku,134
+Tuvalu,TAIL,hiku,134
+Wallisian,TAIL,hiku,134
+Austral_(Rurutuan),TAIL,vero,135
+Hawaiian,TAIL,huelo,135
+Mangareva,TAIL,vero,135
+North_Marquesan,TAIL,veʔo,135
+Tahitian,TAIL,ʔaero,135
+Tuamotuan,TAIL,vaero,135
+Austral_(Rurutuan),TAIL,ʔuʔu,136
+Kapingamarangi,TAIL,huku,136
+Luangiua,TAIL,mosuʔi,136
+Sikaiana,TAIL,muisuki,136
+Mangareva,TAIL,ave,137
+Maori,TAIL,fiore,138
+Mele-Fila,TAIL,rapue,139
+Tahitian,TAIL,ʔitere,140
+Vaeakau-Taumako,TAIL,pole,141
+Anuta,FIVE,nima,142
+East_Futuna,FIVE,lima,142
+Emae,FIVE,rima,142
+Futuna-Aniwa,FIVE,rima,142
+Hawaiian,FIVE,lima,142
+Kapingamarangi,FIVE,lima,142
+Luangiua,FIVE,lima,142
+Mangareva,FIVE,rima,142
+Maori,FIVE,rima,142
+Mele-Fila,FIVE,erima,142
+Niuean,FIVE,lima,142
+North_Marquesan,FIVE,ʔima,142
+Nukuria,FIVE,rima,142
+Penrhyn,FIVE,rima,142
+Pukapuka,FIVE,lima,142
+RakahangaManihiki,FIVE,lima,142
+Rapanui,FIVE,rima,142
+Rarotongan,FIVE,rima,142
+RennellBellona,FIVE,ɡima,142
+Samoan,FIVE,lima,142
+Sikaiana,FIVE,lima,142
+Tahitian,FIVE,rima,142
+Tikopia,FIVE,rima,142
+Tongan,FIVE,nima,142
+Tuamotuan,FIVE,rima,142
+Tuvalu,FIVE,lima,142
+Vaeakau-Taumako,FIVE,lima,142
+Wallisian,FIVE,nima,142
+Austral_(Ra'ivavae),FIVE,pae,143
+Austral_(Rurutuan),FIVE,pae,143
+Tahitian,FIVE,pae,143
+RakahangaManihiki,FIVE,taapahi,144
+Anuta,TOOTH,nipo,145
+Austral_(Ra'ivavae),TOOTH,niho,145
+Austral_(Rurutuan),TOOTH,niʔo,145
+East_Futuna,TOOTH,nifo,145
+Emae,TOOTH,nifo,145
+Futuna-Aniwa,TOOTH,nifo,145
+Hawaiian,TOOTH,niho,145
+Kapingamarangi,TOOTH,niha,145
+Luangiua,TOOTH,ŋiho,145
+Mangareva,TOOTH,niʔo,145
+Maori,TOOTH,niho,145
+Mele-Fila,TOOTH,nifo,145
+Niuean,TOOTH,nifo,145
+North_Marquesan,TOOTH,niho,145
+Nukuria,TOOTH,niho,145
+Penrhyn,TOOTH,niho,145
+Pukapuka,TOOTH,nio,145
+RakahangaManihiki,TOOTH,niho,145
+Rapanui,TOOTH,niho,145
+Rarotongan,TOOTH,niʔo,145
+RennellBellona,TOOTH,niho,145
+Samoan,TOOTH,nifo,145
+Sikaiana,TOOTH,niho,145
+Tahitian,TOOTH,niho,145
+Tikopia,TOOTH,nifo,145
+Tongan,TOOTH,nifo,145
+Tuamotuan,TOOTH,niho,145
+Tuvalu,TOOTH,nifo,145
+Vaeakau-Taumako,TOOTH,niho,145
+Wallisian,TOOTH,nifo,145
+Anuta,SEW,titina,146
+Austral_(Rurutuan),SEW,tiiʔai,146
+Austral_(Ra'ivavae),SEW,niɢa,147
+Austral_(Rurutuan),SEW,nira,147
+Tahitian,SEW,nira,147
+Austral_(Rurutuan),SEW,au,148
+Tahitian,SEW,au,148
+East_Futuna,SEW,tui,149
+Emae,SEW,tuitui,149
+Futuna-Aniwa,SEW,tui,149
+Kapingamarangi,SEW,dui,149
+Luangiua,SEW,kui,149
+Mangareva,SEW,tue,149
+Maori,SEW,tui,149
+Mele-Fila,SEW,tuia,149
+Niuean,SEW,tui,149
+North_Marquesan,SEW,tui,149
+Nukuria,SEW,ttui,149
+Penrhyn,SEW,tui,149
+Pukapuka,SEW,tui,149
+RakahangaManihiki,SEW,tuitui,149
+Rapanui,SEW,tui,149
+Rarotongan,SEW,tui,149
+RennellBellona,SEW,tui,149
+Sikaiana,SEW,tui,149
+Tikopia,SEW,tui,149
+Tongan,SEW,tuitui,149
+Tuamotuan,SEW,tui,149
+Wallisian,SEW,tui,149
+Futuna-Aniwa,SEW,sukia,150
+Hawaiian,SEW,humuhumu,151
+RakahangaManihiki,SEW,ruru,152
+Samoan,SEW,suʔi,153
+Vaeakau-Taumako,SEW,tohia,154
+Anuta,WATER,vai,155
+Austral_(Rurutuan),WATER,vai,155
+East_Futuna,WATER,vai,155
+Emae,WATER,βai,155
+Futuna-Aniwa,WATER,vai,155
+Hawaiian,WATER,wai,155
+Kapingamarangi,WATER,wai,155
+Luangiua,WATER,vai,155
+Mangareva,WATER,vai,155
+Maori,WATER,wai,155
+Mele-Fila,WATER,wai,155
+Niuean,WATER,vai,155
+North_Marquesan,WATER,vai,155
+Nukuria,WATER,vai,155
+Penrhyn,WATER,vai,155
+Pukapuka,WATER,jua,155
+RakahangaManihiki,WATER,vai,155
+Rapanui,WATER,vai,155
+Rarotongan,WATER,vai,155
+RennellBellona,WATER,bai,155
+Samoan,WATER,vai,155
+Sikaiana,WATER,vai,155
+Tikopia,WATER,vai,155
+Tongan,WATER,vai,155
+Tuamotuan,WATER,vai,155
+Tuvalu,WATER,vai,155
+Vaeakau-Taumako,WATER,vai,155
+Wallisian,WATER,vai,155
+Austral_(Ra'ivavae),WATER,papemaaʔaɢo,156
+Tahitian,WATER,pape,156
+Anuta,LEAF,rau,157
+Austral_(Ra'ivavae),LEAF,ɢaueɢe,157
+Austral_(Rurutuan),LEAF,rauʔere,157
+East_Futuna,LEAF,lau,157
+Emae,LEAF,raurau,157
+Futuna-Aniwa,LEAF,rau,157
+Hawaiian,LEAF,lau,157
+Kapingamarangi,LEAF,rou,157
+Luangiua,LEAF,lau,157
+Mangareva,LEAF,rau,157
+Maori,LEAF,rau,157
+Mele-Fila,LEAF,rau,157
+Niuean,LEAF,au,157
+North_Marquesan,LEAF,ʔau,157
+Nukuria,LEAF,rau,157
+Penrhyn,LEAF,rau,157
+Pukapuka,LEAF,lau,157
+Rapanui,LEAF,raupa,157
+Rarotongan,LEAF,rau,157
+RennellBellona,LEAF,ɡau,157
+Samoan,LEAF,lau,157
+Sikaiana,LEAF,lau,157
+Tahitian,LEAF,rauʔere,157
+Tikopia,LEAF,rau,157
+Tongan,LEAF,lou,157
+Tuamotuan,LEAF,rau,157
+Tuvalu,LEAF,lau,157
+Vaeakau-Taumako,LEAF,lau,157
+Wallisian,LEAF,lau,157
+Tuvalu,LEAF,mulo,158
+Anuta,HEAR,roŋo,159
+Austral_(Ra'ivavae),HEAR,haʔaɢoʔo,159
+Austral_(Rurutuan),HEAR,ʔiiroʔaroʔa,159
+East_Futuna,HEAR,loɡo,159
+Emae,HEAR,fanoŋo,159
+Futuna-Aniwa,HEAR,raŋona,159
+Hawaiian,HEAR,hoʔolono,159
+Kapingamarangi,HEAR,loŋo,159
+Luangiua,HEAR,loŋo,159
+Mangareva,HEAR,ʔakaroŋo,159
+Maori,HEAR,roŋo,159
+Mele-Fila,HEAR,roŋona,159
+Niuean,HEAR,faanoŋo,159
+North_Marquesan,HEAR,ʔono,159
+Nukuria,HEAR,rono,159
+Penrhyn,HEAR,roŋo,159
+Pukapuka,HEAR,laŋona,159
+RakahangaManihiki,HEAR,laŋona,159
+Rapanui,HEAR,ɡaroʔa,159
+Rarotongan,HEAR,roŋo,159
+RennellBellona,HEAR,ɡoŋo,159
+Samoan,HEAR,faʔaloŋo,159
+Sikaiana,HEAR,lono,159
+Tahitian,HEAR,faʔaroʔo,159
+Tikopia,HEAR,roɡo,159
+Tongan,HEAR,fenoŋo,159
+Tuamotuan,HEAR,roŋo,159
+Tuvalu,HEAR,loɡo,159
+Vaeakau-Taumako,HEAR,loŋo,159
+Wallisian,HEAR,loɡo,159
+Anuta,BACK,muri,160
+Pukapuka,BACK,muli,160
+RakahangaManihiki,BACK,muri,160
+Austral_(Ra'ivavae),BACK,tua,161
+Austral_(Rurutuan),BACK,tautua,161
+East_Futuna,BACK,tuʔa,161
+Emae,BACK,simatua,161
+Futuna-Aniwa,BACK,bua,161
+Hawaiian,BACK,kua,161
+Kapingamarangi,BACK,dua,161
+Luangiua,BACK,aŋa,161
+Mangareva,BACK,tua,161
+Maori,BACK,tuaraa,161
+Niuean,BACK,tuʔa,161
+North_Marquesan,BACK,tua,161
+Nukuria,BACK,kantua,161
+Pukapuka,BACK,tua,161
+RakahangaManihiki,BACK,tua,161
+Rapanui,BACK,tuʔaivi,161
+RennellBellona,BACK,tuʔa,161
+Samoan,BACK,tua,161
+Sikaiana,BACK,tua,161
+Tahitian,BACK,tua,161
+Tikopia,BACK,tua,161
+Tongan,BACK,tuʔa,161
+Tuamotuan,BACK,papatua,161
+Tuvalu,BACK,tua,161
+Vaeakau-Taumako,BACK,tua,161
+Wallisian,BACK,tuʔa,161
+Mele-Fila,BACK,pua,162
+Penrhyn,BACK,sope,163
+Rarotongan,BACK,mokotua,164
+Anuta,DRINK,inu,165
+Austral_(Ra'ivavae),DRINK,inu,165
+Austral_(Rurutuan),DRINK,unu,165
+East_Futuna,DRINK,inu,165
+Emae,DRINK,βinu,165
+Futuna-Aniwa,DRINK,inu,165
+Hawaiian,DRINK,inu,165
+Kapingamarangi,DRINK,inu,165
+Luangiua,DRINK,uŋu,165
+Mangareva,DRINK,inu,165
+Maori,DRINK,inu,165
+Mele-Fila,DRINK,unu,165
+Niuean,DRINK,inu,165
+North_Marquesan,DRINK,inu,165
+Nukuria,DRINK,inu,165
+Penrhyn,DRINK,inu,165
+Pukapuka,DRINK,inu,165
+RakahangaManihiki,DRINK,inu,165
+Rapanui,DRINK,unu,165
+Rarotongan,DRINK,inu,165
+RennellBellona,DRINK,mia,165
+Samoan,DRINK,inu,165
+Sikaiana,DRINK,unu,165
+Tahitian,DRINK,inu,165
+Tikopia,DRINK,inu,165
+Tongan,DRINK,inu,165
+Tuamotuan,DRINK,inu,165
+Tuvalu,DRINK,inu,165
+Vaeakau-Taumako,DRINK,inumia,165
+Wallisian,DRINK,inu,165
+Anuta,NEW,pou,166
+East_Futuna,NEW,foʔou,166
+Emae,NEW,fou,166
+Futuna-Aniwa,NEW,fou,166
+Hawaiian,NEW,hou,166
+Kapingamarangi,NEW,hoou,166
+Luangiua,NEW,hoou,166
+Mangareva,NEW,ʔou,166
+Maori,NEW,hoou,166
+Mele-Fila,NEW,fou,166
+Niuean,NEW,foou,166
+North_Marquesan,NEW,hou,166
+Nukuria,NEW,hoou,166
+Penrhyn,NEW,hoou,166
+Pukapuka,NEW,wou,166
+RakahangaManihiki,NEW,foou,166
+Rapanui,NEW,hoʔou,166
+Rarotongan,NEW,ʔoou,166
+RennellBellona,NEW,hoʔou,166
+Samoan,NEW,fou,166
+Sikaiana,NEW,hou,166
+Tikopia,NEW,fou,166
+Tongan,NEW,foʔou,166
+Tuamotuan,NEW,hoou,166
+Tuvalu,NEW,foou,166
+Vaeakau-Taumako,NEW,hou,166
+Wallisian,NEW,foʔou,166
+Austral_(Ra'ivavae),NEW,aapi,167
+Austral_(Rurutuan),NEW,aapiaːpi,167
+Tahitian,NEW,ʔaapiaːpi,167
+Anuta,SIT,nopo,168
+Austral_(Ra'ivavae),SIT,nohotu,168
+Austral_(Rurutuan),SIT,noʔo,168
+East_Futuna,SIT,nofo,168
+Emae,SIT,nofoiraro,168
+Futuna-Aniwa,SIT,nofo,168
+Hawaiian,SIT,noho,168
+Kapingamarangi,SIT,noho,168
+Luangiua,SIT,ŋoho,168
+Mangareva,SIT,noʔo,168
+Maori,SIT,noho,168
+Mele-Fila,SIT,nofo,168
+Niuean,SIT,nofo,168
+North_Marquesan,SIT,noho,168
+Nukuria,SIT,noho,168
+Penrhyn,SIT,noho,168
+Pukapuka,SIT,noonooːno,168
+RakahangaManihiki,SIT,noho,168
+Rapanui,SIT,noho,168
+Rarotongan,SIT,noʔo,168
+RennellBellona,SIT,noho,168
+Samoan,SIT,nofo,168
+Sikaiana,SIT,noho,168
+Tikopia,SIT,nofo,168
+Tongan,SIT,nofo,168
+Tuamotuan,SIT,noho,168
+Tuvalu,SIT,noho,168
+Vaeakau-Taumako,SIT,noho,168
+Wallisian,SIT,nofo,168
+Austral_(Rurutuan),SIT,araʔi,169
+Tahitian,SIT,paarahi,169
+Futuna-Aniwa,SIT,buku,170
+Tongan,SIT,taŋutu,170
+Anuta,EGG,puai,171
+Austral_(Rurutuan),EGG,ʔua,171
+East_Futuna,EGG,fua,171
+Emae,EGG,fuamoa,171
+Hawaiian,EGG,hua,171
+Luangiua,EGG,hua,171
+Maori,EGG,huamanu,171
+Nukuria,EGG,hua,171
+Penrhyn,EGG,hua,171
+Pukapuka,EGG,wuamoa,171
+Rarotongan,EGG,ua,171
+RennellBellona,EGG,hua,171
+Samoan,EGG,fuaamoa,171
+Tikopia,EGG,fuei,171
+Tongan,EGG,foʔimanu,171
+Tuvalu,EGG,fua,171
+Austral_(Ra'ivavae),EGG,hueɢo,172
+Tahitian,EGG,huero,172
+East_Futuna,EGG,niuniu,173
+Futuna-Aniwa,EGG,vahvaka,174
+Kapingamarangi,EGG,ŋoko,175
+Mangareva,EGG,maamarimoa,176
+North_Marquesan,EGG,mamaʔi,176
+Rapanui,EGG,maamari,176
+Maori,EGG,heeki,177
+Mele-Fila,EGG,atolu,178
+Rapanui,EGG,toua,179
+Tuamotuan,EGG,toouo,179
+Sikaiana,EGG,tamamoa,180
+Vaeakau-Taumako,EGG,hatukio,181
+Anuta,ROOT,tapito,182
+Austral_(Ra'ivavae),ROOT,aʔa,183
+Austral_(Rurutuan),ROOT,aʔa,183
+East_Futuna,ROOT,aka,183
+Emae,ROOT,kairakau,183
+Futuna-Aniwa,ROOT,akai,183
+Hawaiian,ROOT,aʔa,183
+Kapingamarangi,ROOT,aɡa,183
+Luangiua,ROOT,paʔiaʔa,183
+Mangareva,ROOT,aka,183
+Maori,ROOT,pakiaka,183
+Mele-Fila,ROOT,kasikoa,183
+Niuean,ROOT,aka,183
+North_Marquesan,ROOT,aka,183
+Nukuria,ROOT,patiaka,183
+Penrhyn,ROOT,aka,183
+Pukapuka,ROOT,aka,183
+RakahangaManihiki,ROOT,aka,183
+Rapanui,ROOT,aka,183
+Rarotongan,ROOT,pakiaka,183
+RennellBellona,ROOT,paʔiaʔa,183
+Samoan,ROOT,aʔa,183
+Sikaiana,ROOT,patiaka,183
+Tahitian,ROOT,aʔa,183
+Tikopia,ROOT,vaiaka,183
+Tongan,ROOT,aka,183
+Tuamotuan,ROOT,aka,183
+Tuvalu,ROOT,poɡai,183
+Vaeakau-Taumako,ROOT,aka,183
+Wallisian,ROOT,aka,183
+Anuta,FIRE,api,184
+Austral_(Ra'ivavae),FIRE,auahi,184
+Austral_(Rurutuan),FIRE,auaʔi,184
+East_Futuna,FIRE,afi,184
+Emae,FIRE,afi,184
+Futuna-Aniwa,FIRE,afi,184
+Hawaiian,FIRE,ahi,184
+Kapingamarangi,FIRE,ahi,184
+Luangiua,FIRE,ahi,184
+Mangareva,FIRE,aʔi,184
+Maori,FIRE,ahi,184
+Mele-Fila,FIRE,afi,184
+Niuean,FIRE,afi,184
+North_Marquesan,FIRE,ahi,184
+Nukuria,FIRE,ahi,184
+Penrhyn,FIRE,ahi,184
+Pukapuka,FIRE,awi,184
+RakahangaManihiki,FIRE,ahi,184
+Rapanui,FIRE,ahi,184
+Rarotongan,FIRE,aʔi,184
+RennellBellona,FIRE,ahi,184
+Samoan,FIRE,afi,184
+Sikaiana,FIRE,ahi,184
+Tahitian,FIRE,auahi,184
+Tikopia,FIRE,afi,184
+Tongan,FIRE,afi,184
+Tuamotuan,FIRE,ahi,184
+Tuvalu,FIRE,afi,184
+Wallisian,FIRE,afi,184
+Tuvalu,FIRE,kavakava,185
+Vaeakau-Taumako,FIRE,keu,186
+Anuta,SKIN,kiri,187
+Austral_(Ra'ivavae),SKIN,ʔiɢi,187
+Austral_(Rurutuan),SKIN,ʔiri,187
+East_Futuna,SKIN,kili,187
+Emae,SKIN,kiri,187
+Futuna-Aniwa,SKIN,kiri,187
+Hawaiian,SKIN,ʔili,187
+Kapingamarangi,SKIN,ɡili,187
+Luangiua,SKIN,ʔili,187
+Mangareva,SKIN,kiri,187
+Maori,SKIN,kiri,187
+Mele-Fila,SKIN,kiri,187
+Niuean,SKIN,kili,187
+North_Marquesan,SKIN,kiʔi,187
+Nukuria,SKIN,kiri,187
+Penrhyn,SKIN,kiri,187
+Pukapuka,SKIN,kili,187
+RakahangaManihiki,SKIN,kiri,187
+Rapanui,SKIN,kiri,187
+Rarotongan,SKIN,kiri,187
+RennellBellona,SKIN,kiɡi,187
+Samoan,SKIN,ʔiliola,187
+Sikaiana,SKIN,kili,187
+Tahitian,SKIN,ʔiri,187
+Tikopia,SKIN,kiri,187
+Tongan,SKIN,kili,187
+Tuamotuan,SKIN,kiri,187
+Tuvalu,SKIN,kili,187
+Vaeakau-Taumako,SKIN,kilihino,187
+Wallisian,SKIN,kili,187
+Samoan,SKIN,paʔu,188
+Tuvalu,SKIN,pau,188
+Vaeakau-Taumako,SKIN,paku,188
+Anuta,ASH,repu,189
+Austral_(Ra'ivavae),ASH,ɢehuauahi,189
+Austral_(Rurutuan),ASH,reʔu,189
+East_Futuna,ASH,lafu,189
+Emae,ASH,refu,189
+Futuna-Aniwa,ASH,maɡarafu,189
+Hawaiian,ASH,lehu,189
+Kapingamarangi,ASH,lehu,189
+Luangiua,ASH,lehu,189
+Mangareva,ASH,ʔeʔu,189
+Maori,ASH,puŋarehu,189
+Mele-Fila,ASH,arefu,189
+Niuean,ASH,efu,189
+North_Marquesan,ASH,ʔehu,189
+Nukuria,ASH,rehu,189
+Penrhyn,ASH,rehu,189
+Pukapuka,ASH,lewulewu,189
+RakahangaManihiki,ASH,rehu,189
+Rapanui,ASH,ʔeoʔeo,189
+Rarotongan,ASH,reʔu,189
+RennellBellona,ASH,ɡehu,189
+Samoan,ASH,lefulefu,189
+Sikaiana,ASH,lehu,189
+Tahitian,ASH,rehu,189
+Tikopia,ASH,refu,189
+Tongan,ASH,efuefu,189
+Tuamotuan,ASH,rehu,189
+Tuvalu,ASH,pefu,189
+Vaeakau-Taumako,ASH,lehu,189
+Wallisian,ASH,lefu,189
+East_Futuna,ASH,muɡaalafu,190
+Mangareva,ASH,ŋaraʔu,190
+Futuna-Aniwa,ASH,namuʰlaŋa,191
+Pukapuka,ASH,malamala,192
+Anuta,THAT,ena,193
+Futuna-Aniwa,THAT,tena,193
+Hawaiian,THAT,na,193
+Maori,THAT,teenaeːna,193
+Mele-Fila,THAT,nera,193
+Niuean,THAT,ia,193
+North_Marquesan,THAT,teʔaa,193
+Nukuria,THAT,naa,193
+Pukapuka,THAT,teia,193
+RakahangaManihiki,THAT,teeia,193
+RennellBellona,THAT,ia,193
+Samoan,THAT,lena,193
+Tikopia,THAT,na,193
+Tongan,THAT,koena,193
+Tuvalu,THAT,teenaeːna,193
+Vaeakau-Taumako,THAT,tena,193
+Austral_(Rurutuan),THAT,teeraeːra,194
+Emae,THAT,ira,195
+Hawaiian,THAT,la,196
+Kapingamarangi,THAT,tera,197
+Maori,THAT,teeraeːra,198
+Nukuria,THAT,raa,199
+Penrhyn,THAT,taua,200
+RakahangaManihiki,THAT,taua,200
+Rarotongan,THAT,aua,200
+Tuamotuan,THAT,aua,200
+Pukapuka,THAT,teelaeːla,201
+Rapanui,THAT,era,202
+Samoan,THAT,lela,203
+Tahitian,THAT,teeraeːra,204
+Tuvalu,THAT,teelaeːla,205
+Wallisian,THAT,kohee,206
+Anuta,BE DEAD OR DIE,mate,207
+Austral_(Ra'ivavae),BE DEAD OR DIE,mate,207
+Austral_(Rurutuan),BE DEAD OR DIE,mate,207
+East_Futuna,BE DEAD OR DIE,mate,207
+Emae,BE DEAD OR DIE,mate,207
+Futuna-Aniwa,BE DEAD OR DIE,mate,207
+Hawaiian,BE DEAD OR DIE,make,207
+Kapingamarangi,BE DEAD OR DIE,made,207
+Luangiua,BE DEAD OR DIE,make,207
+Mangareva,BE DEAD OR DIE,mate,207
+Maori,BE DEAD OR DIE,mate,207
+Mele-Fila,BE DEAD OR DIE,mate,207
+Niuean,BE DEAD OR DIE,mate,207
+North_Marquesan,BE DEAD OR DIE,mate,207
+Nukuria,BE DEAD OR DIE,mate,207
+Penrhyn,BE DEAD OR DIE,mate,207
+Pukapuka,BE DEAD OR DIE,mate,207
+RakahangaManihiki,BE DEAD OR DIE,mate,207
+Rapanui,BE DEAD OR DIE,mate,207
+Rarotongan,BE DEAD OR DIE,mate,207
+RennellBellona,BE DEAD OR DIE,mate,207
+Samoan,BE DEAD OR DIE,mate,207
+Sikaiana,BE DEAD OR DIE,mate,207
+Tikopia,BE DEAD OR DIE,mate,207
+Tongan,BE DEAD OR DIE,mate,207
+Tuamotuan,BE DEAD OR DIE,mate,207
+Tuvalu,BE DEAD OR DIE,mate,207
+Vaeakau-Taumako,BE DEAD OR DIE,mate,207
+Wallisian,BE DEAD OR DIE,mate,207
+North_Marquesan,BE DEAD OR DIE,keʔo,208
+RakahangaManihiki,BE DEAD OR DIE,hiti,209
+Rarotongan,BE DEAD OR DIE,poʔe,210
+Tahitian,BE DEAD OR DIE,pohe,210
+Tuamotuan,BE DEAD OR DIE,pohe,210
+Anuta,HAIR,puru,211
+Austral_(Ra'ivavae),HAIR,huɢuhuɢupoʔo,211
+East_Futuna,HAIR,fulu,211
+Emae,HAIR,fereuru,211
+Futuna-Aniwa,HAIR,furu,211
+Kapingamarangi,HAIR,hulu,211
+Niuean,HAIR,fulu,211
+North_Marquesan,HAIR,huʔu,211
+Penrhyn,HAIR,huru,211
+Pukapuka,HAIR,wuluwulu,211
+Rapanui,HAIR,huruhuru,211
+Rarotongan,HAIR,ʔuru,211
+RennellBellona,HAIR,huɡu,211
+Tikopia,HAIR,furu,211
+Tuamotuan,HAIR,huru,211
+Tuvalu,HAIR,fulufulu,211
+Wallisian,HAIR,fulu,211
+Austral_(Rurutuan),HAIR,rouru,212
+East_Futuna,HAIR,lauulu,212
+Futuna-Aniwa,HAIR,rauru,212
+Hawaiian,HAIR,lauoho,212
+Luangiua,HAIR,laulu,212
+Mangareva,HAIR,rauoʔo,212
+Mele-Fila,HAIR,rouru,212
+Niuean,HAIR,lauulu,212
+North_Marquesan,HAIR,ʔouoho,212
+Nukuria,HAIR,rauru,212
+Pukapuka,HAIR,lauulu,212
+RakahangaManihiki,HAIR,rauru,212
+Rarotongan,HAIR,rauru,212
+Samoan,HAIR,lauulu,212
+Sikaiana,HAIR,laulu,212
+Tahitian,HAIR,rouru,212
+Tikopia,HAIR,rauuru,212
+Tongan,HAIR,louʔulu,212
+Tuamotuan,HAIR,roouru,212
+Vaeakau-Taumako,HAIR,laulu,212
+Wallisian,HAIR,lauulu,212
+Kapingamarangi,HAIR,ŋahuru,213
+Maori,HAIR,makawe,214
+Rapanui,HAIR,oho,215
+Anuta,OLD,maatua,216
+East_Futuna,OLD,matuʔa,216
+Luangiua,OLD,makua,216
+Nukuria,OLD,matua,216
+Pukapuka,OLD,matua,216
+RennellBellona,OLD,matuʔa,216
+Samoan,OLD,matua,216
+Sikaiana,OLD,matua,216
+Tikopia,OLD,maatua,216
+Tongan,OLD,motuʔa,216
+Tuvalu,OLD,matua,216
+Vaeakau-Taumako,OLD,matʰua,216
+Wallisian,OLD,matua,216
+Austral_(Ra'ivavae),OLD,tahito,217
+Hawaiian,OLD,kahiko,217
+Mangareva,OLD,teʔito,217
+North_Marquesan,OLD,tehito,217
+Penrhyn,OLD,tahito,217
+RakahangaManihiki,OLD,tahito,217
+Rarotongan,OLD,taʔito,217
+Austral_(Rurutuan),OLD,ruuʔau,218
+RakahangaManihiki,OLD,ruuhau,218
+Tahitian,OLD,ruuʔau,218
+Emae,OLD,tuai,219
+Kapingamarangi,OLD,tuai,219
+Luangiua,OLD,ukuai,219
+Mele-Fila,OLD,tuai,219
+Niuean,OLD,tuai,219
+Rapanui,OLD,tuai,219
+Samoan,OLD,tuai,219
+Futuna-Aniwa,OLD,takausore,220
+Luangiua,OLD,mua,221
+Sikaiana,OLD,mua,221
+Maori,OLD,pakeke,222
+North_Marquesan,OLD,kakiu,223
+North_Marquesan,OLD,koua,224
+Rapanui,OLD,korohua,224
+Tuamotuan,OLD,korou,224
+Pukapuka,OLD,poovioːvi,225
+RennellBellona,OLD,bebe,226
+RennellBellona,OLD,poepoe,227
+RennellBellona,OLD,tauiku,228
+Anuta,MOON,maaina,229
+East_Futuna,MOON,maasina,229
+Emae,MOON,masina,229
+Hawaiian,MOON,mahina,229
+Kapingamarangi,MOON,maahina,229
+Mangareva,MOON,maʔina,229
+Mangareva,MOON,maaʔina,229
+Niuean,MOON,mahina,229
+North_Marquesan,MOON,meʔama,229
+Pukapuka,MOON,maina,229
+Rapanui,MOON,mahina,229
+RennellBellona,MOON,maasina,229
+Samoan,MOON,maasina,229
+Tongan,MOON,maahina,229
+Tuamotuan,MOON,hina,229
+Tuvalu,MOON,maalama,229
+Wallisian,MOON,maahina,229
+Austral_(Ra'ivavae),MOON,ʔaavaʔe,230
+Austral_(Rurutuan),MOON,ʔaavaʔe,230
+Tahitian,MOON,ʔaavaʔe,230
+Futuna-Aniwa,MOON,marama,231
+Luangiua,MOON,malama,231
+Maori,MOON,marama,231
+Nukuria,MOON,marama,231
+Penrhyn,MOON,marama,231
+RakahangaManihiki,MOON,marama,231
+Rarotongan,MOON,marama,231
+Samoan,MOON,maalama,231
+Sikaiana,MOON,malama,231
+Tikopia,MOON,marama,231
+Mele-Fila,MOON,aŋale,232
+Vaeakau-Taumako,MOON,akahu,233
+Anuta,ONE,tasi,234
+Austral_(Rurutuan),ONE,taʔi,234
+East_Futuna,ONE,tasi,234
+Emae,ONE,tasi,234
+Futuna-Aniwa,ONE,tasi,234
+Hawaiian,ONE,ʔekahi,234
+Kapingamarangi,ONE,dahi,234
+Luangiua,ONE,kahi,234
+Mangareva,ONE,taʔi,234
+Maori,ONE,tahi,234
+Mele-Fila,ONE,etasi,234
+North_Marquesan,ONE,tahi,234
+Nukuria,ONE,hokotahi,234
+Penrhyn,ONE,tahi,234
+Pukapuka,ONE,taji,234
+RakahangaManihiki,ONE,tetahi,234
+Rapanui,ONE,tahi,234
+Rarotongan,ONE,taʔi,234
+RennellBellona,ONE,tahi,234
+Samoan,ONE,etasi,234
+Sikaiana,ONE,tasi,234
+Tahitian,ONE,tahi,234
+Tikopia,ONE,tasi,234
+Tuamotuan,ONE,tahi,234
+Tuvalu,ONE,tahi,234
+Vaeakau-Taumako,ONE,kotahi,234
+Wallisian,ONE,tahi,234
+Austral_(Ra'ivavae),ONE,hoʔe,235
+Tahitian,ONE,hoʔe,235
+Niuean,ONE,taha,236
+Tongan,ONE,taha,236
+Anuta,THREE,toru,237
+Austral_(Ra'ivavae),THREE,toɢu,237
+Austral_(Rurutuan),THREE,toru,237
+East_Futuna,THREE,tolu,237
+Emae,THREE,toru,237
+Futuna-Aniwa,THREE,toru,237
+Hawaiian,THREE,kolu,237
+Kapingamarangi,THREE,dolu,237
+Luangiua,THREE,kolu,237
+Mangareva,THREE,toru,237
+Maori,THREE,toru,237
+Mele-Fila,THREE,etoru,237
+Niuean,THREE,tolu,237
+North_Marquesan,THREE,toʔu,237
+Nukuria,THREE,toru,237
+Penrhyn,THREE,toru,237
+Pukapuka,THREE,tolu,237
+RakahangaManihiki,THREE,toru,237
+Rapanui,THREE,toru,237
+Rarotongan,THREE,toru,237
+RennellBellona,THREE,toɡu,237
+Samoan,THREE,etolu,237
+Sikaiana,THREE,tolu,237
+Tahitian,THREE,toru,237
+Tikopia,THREE,toru,237
+Tongan,THREE,tolu,237
+Tuamotuan,THREE,toru,237
+Tuvalu,THREE,tolu,237
+Vaeakau-Taumako,THREE,tolu,237
+Wallisian,THREE,tolu,237
+Anuta,I,kau,238
+Austral_(Ra'ivavae),I,vau,238
+Austral_(Rurutuan),I,au,238
+Austral_(Rurutuan),I,vau,238
+East_Futuna,I,kau,238
+Emae,I,kou,238
+Futuna-Aniwa,I,au,238
+Futuna-Aniwa,I,avau,238
+Hawaiian,I,au,238
+Kapingamarangi,I,au,238
+Luangiua,I,aŋau,238
+Mangareva,I,au,238
+Maori,I,au,238
+Mele-Fila,I,aβau,238
+Niuean,I,kau,238
+North_Marquesan,I,au,238
+Nukuria,I,nau,238
+Penrhyn,I,au,238
+Pukapuka,I,au,238
+RakahangaManihiki,I,koau,238
+Rapanui,I,au,238
+Rarotongan,I,au,238
+RennellBellona,I,kau,238
+Samoan,I,aʔu,238
+Sikaiana,I,au,238
+Tahitian,I,vau,238
+Tahitian,I,au,238
+Tikopia,I,kau,238
+Tongan,I,ou,238
+Tuamotuan,I,au,238
+Tuvalu,I,aku,238
+Vaeakau-Taumako,I,au,238
+Wallisian,I,koau,238
+East_Futuna,I,ku,239
+Niuean,I,ku,239
+North_Marquesan,I,ʔu,239
+Pukapuka,I,aku,239
+Rarotongan,I,ku,239
+RennellBellona,I,ku,239
+Tikopia,I,ku,239
+Tuamotuan,I,ku,239
+Austral_(Ra'ivavae),WORM,toʔeɢepo,240
+Austral_(Rurutuan),WORM,toʔe,240
+Hawaiian,WORM,koʔe,240
+Mangareva,WORM,iritoke,240
+Maori,WORM,noke,240
+North_Marquesan,WORM,toke,240
+Penrhyn,WORM,toke,240
+RakahangaManihiki,WORM,toke,240
+Rarotongan,WORM,toke,240
+Samoan,WORM,toʔe,240
+Tahitian,WORM,toʔe,240
+Tuamotuan,WORM,toke,240
+East_Futuna,WORM,kelemutu,241
+Futuna-Aniwa,WORM,nufekere,241
+Niuean,WORM,kelemutu,241
+Nukuria,WORM,tamakerekere,241
+Samoan,WORM,ʔelemutu,241
+Tongan,WORM,kelemutu,241
+Tuvalu,WORM,kalemuta,241
+Wallisian,WORM,ʔulukele,241
+Kapingamarangi,WORM,patupatu,242
+Pukapuka,WORM,veli,243
+Rapanui,WORM,koreha,244
+RennellBellona,WORM,suɡati,245
+Samoan,WORM,ʔanufe,246
+Vaeakau-Taumako,WORM,peipe,247
+Anuta,FISH,ika,248
+Austral_(Ra'ivavae),FISH,iʔa,248
+Austral_(Rurutuan),FISH,iʔa,248
+East_Futuna,FISH,ika,248
+Emae,FISH,ika,248
+Futuna-Aniwa,FISH,ika,248
+Hawaiian,FISH,iʔa,248
+Kapingamarangi,FISH,iɡa,248
+Mangareva,FISH,ika,248
+Maori,FISH,ika,248
+Mele-Fila,FISH,ika,248
+Niuean,FISH,ika,248
+North_Marquesan,FISH,iʔa,248
+Nukuria,FISH,ika,248
+Penrhyn,FISH,ika,248
+Pukapuka,FISH,ika,248
+RakahangaManihiki,FISH,iika,248
+Rapanui,FISH,ʔiika,248
+Rarotongan,FISH,ika,248
+RennellBellona,FISH,ika,248
+Samoan,FISH,iʔa,248
+Sikaiana,FISH,ika,248
+Tahitian,FISH,iʔa,248
+Tikopia,FISH,ika,248
+Tongan,FISH,ika,248
+Tuvalu,FISH,ika,248
+Vaeakau-Taumako,FISH,ika,248
+Wallisian,FISH,ika,248
+Luangiua,FISH,kaŋaha,249
+Tuamotuan,FISH,paru,250
+Anuta,SMALL,riki,251
+East_Futuna,SMALL,ʔikiʔiki,251
+Hawaiian,SMALL,liʔi,251
+Luangiua,SMALL,suli,251
+Niuean,SMALL,liki,251
+North_Marquesan,SMALL,ʔiki,251
+Nukuria,SMALL,punarikiriki,251
+Pukapuka,SMALL,liliki,251
+RennellBellona,SMALL,ɡiki,251
+Sikaiana,SMALL,liki,251
+Tuamotuan,SMALL,riki,251
+Tuvalu,SMALL,foliki,251
+Vaeakau-Taumako,SMALL,likiliki,251
+Austral_(Ra'ivavae),SMALL,iti,252
+Austral_(Rurutuan),SMALL,maaitiiti,252
+Emae,SMALL,titi,252
+Maori,SMALL,iti,252
+North_Marquesan,SMALL,iti,252
+Penrhyn,SMALL,iti,252
+RakahangaManihiki,SMALL,meeiti,252
+Rapanui,SMALL,iti,252
+Rarotongan,SMALL,iti,252
+Samoan,SMALL,itiiti,252
+Tuamotuan,SMALL,iti,252
+Futuna-Aniwa,SMALL,sisi,253
+Tongan,SMALL,siʔi,253
+Wallisian,SMALL,siʔi,253
+Kapingamarangi,SMALL,bodo,254
+North_Marquesan,SMALL,poto,254
+Penrhyn,SMALL,poto,254
+Rapanui,SMALL,poto,254
+Rarotongan,SMALL,poto,254
+Mangareva,SMALL,niŋore,255
+Mele-Fila,SMALL,kekela,256
+Niuean,SMALL,puku,257
+Tikopia,SMALL,pukupuku,257
+Wallisian,SMALL,pukupuku,257
+North_Marquesan,SMALL,kaiu,258
+Pukapuka,SMALL,lewu,259
+Tahitian,SMALL,naʔinaʔi,260
+Tuvalu,SMALL,fonini,261
+Vaeakau-Taumako,SMALL,kiko,262
+Anuta,GRASS,vao,263
+Austral_(Rurutuan),GRASS,matie,264
+East_Futuna,GRASS,mutie,264
+Mangareva,GRASS,mutie,264
+North_Marquesan,GRASS,mutie,264
+Rarotongan,GRASS,matie,264
+RennellBellona,GRASS,mutie,264
+Samoan,GRASS,mutia,264
+Tahitian,GRASS,matie,264
+Wallisian,GRASS,musie,264
+Emae,GRASS,mauku,265
+Hawaiian,GRASS,mauʔu,265
+Nukuria,GRASS,mouku,265
+Penrhyn,GRASS,mauku,265
+Rapanui,GRASS,mouku,265
+Rarotongan,GRASS,mauku,265
+Tikopia,GRASS,mauku,265
+Tongan,GRASS,mohuku,265
+Tuamotuan,GRASS,moouku,265
+Tuvalu,GRASS,mouku,265
+Wallisian,GRASS,mohuku,265
+Futuna-Aniwa,GRASS,ŋafari,266
+Luangiua,GRASS,veve,267
+Sikaiana,GRASS,veve,267
+Maori,GRASS,karaaihe,268
+Mele-Fila,GRASS,manamu,269
+Pukapuka,GRASS,vajavaja,270
+Vaeakau-Taumako,GRASS,kaoa,271
+Anuta,SHORT,nounou,272
+Tongan,SHORT,nounou,272
+Austral_(Ra'ivavae),SHORT,poto,273
+Austral_(Rurutuan),SHORT,poto,273
+Futuna-Aniwa,SHORT,poto,273
+Hawaiian,SHORT,pookole,273
+Kapingamarangi,SHORT,bodo,273
+Luangiua,SHORT,poko,273
+Mangareva,SHORT,poto,273
+Maori,SHORT,poto,273
+North_Marquesan,SHORT,poto,273
+Nukuria,SHORT,potopoto,273
+Penrhyn,SHORT,poto,273
+Pukapuka,SHORT,puupoto,273
+Rapanui,SHORT,poto,273
+Rarotongan,SHORT,poto,273
+Samoan,SHORT,poto,273
+Sikaiana,SHORT,poto,273
+Tahitian,SHORT,poto,273
+Tuamotuan,SHORT,poto,273
+Vaeakau-Taumako,SHORT,popoto,273
+East_Futuna,SHORT,leka,274
+RennellBellona,SHORT,leka,274
+Futuna-Aniwa,SHORT,saka,275
+Maori,SHORT,hakahaka,275
+Penrhyn,SHORT,sakasaka,275
+Samoan,SHORT,saʔasaʔa,275
+Niuean,SHORT,puku,276
+RennellBellona,SHORT,puku,276
+Samoan,SHORT,puʔupuʔu,276
+Tikopia,SHORT,pukupuku,276
+Wallisian,SHORT,pukupuku,276
+North_Marquesan,SHORT,nohinohi,277
+Pukapuka,SHORT,puunekeneke,278
+Tuvalu,SHORT,toetoe,279
+Anuta,SHARP,kakai,280
+Austral_(Ra'ivavae),SHARP,ʔoi,280
+Austral_(Rurutuan),SHARP,ʔoi,280
+East_Futuna,SHARP,fakakaa,280
+East_Futuna,SHARP,kakai,280
+Emae,SHARP,makakai,280
+Futuna-Aniwa,SHARP,matakai,280
+Hawaiian,SHARP,ʔoi,280
+Kapingamarangi,SHARP,ɡaa,280
+Luangiua,SHARP,ʔaa,280
+Mangareva,SHARP,koikoi,280
+Maori,SHARP,koi,280
+Mele-Fila,SHARP,matʃikai,280
+North_Marquesan,SHARP,koi,280
+Nukuria,SHARP,kaa,280
+Penrhyn,SHARP,koi,280
+Pukapuka,SHARP,kokoi,280
+RakahangaManihiki,SHARP,koi,280
+Rapanui,SHARP,kaʔi,280
+Rarotongan,SHARP,koi,280
+RennellBellona,SHARP,hakakaa,280
+RennellBellona,SHARP,kakai,280
+Samoan,SHARP,maʔai,280
+Sikaiana,SHARP,kaa,280
+Tahitian,SHARP,ʔoi,280
+Tikopia,SHARP,mata,280
+Tuamotuan,SHARP,koi,280
+Tuvalu,SHARP,matakai,280
+Vaeakau-Taumako,SHARP,mdakhaa,280
+Niuean,SHARP,matila,281
+Samoan,SHARP,masele,281
+Tongan,SHARP,maasila,281
+Vaeakau-Taumako,SHARP,mfasele,281
+Wallisian,SHARP,maasila,281
+Pukapuka,SHARP,niniva,282
+Tuamotuan,SHARP,popo,283
+Anuta,MOUTH,ŋutu,284
+East_Futuna,MOUTH,ɡutu,284
+Emae,MOUTH,ŋutu,284
+Kapingamarangi,MOUTH,ŋudu,284
+Mele-Fila,MOUTH,ŋutu,284
+Niuean,MOUTH,ŋutu,284
+North_Marquesan,MOUTH,nutu,284
+Pukapuka,MOUTH,ŋutu,284
+RakahangaManihiki,MOUTH,ŋutu,284
+Rapanui,MOUTH,ɡutu,284
+RennellBellona,MOUTH,ŋutu,284
+Samoan,MOUTH,ŋutu,284
+Tikopia,MOUTH,ŋutu,284
+Tongan,MOUTH,ŋutu,284
+Tuamotuan,MOUTH,ŋutu,284
+Tuvalu,MOUTH,ɡutu,284
+Vaeakau-Taumako,MOUTH,ŋutu,284
+Wallisian,MOUTH,mutu,284
+Austral_(Ra'ivavae),MOUTH,vaha,285
+Austral_(Rurutuan),MOUTH,vaʔa,285
+Futuna-Aniwa,MOUTH,fafa,285
+Hawaiian,MOUTH,waha,285
+Kapingamarangi,MOUTH,haha,285
+Mangareva,MOUTH,ʔaʔa,285
+Maori,MOUTH,waha,285
+North_Marquesan,MOUTH,fafa,285
+Penrhyn,MOUTH,vaha,285
+RakahangaManihiki,MOUTH,vaha,285
+Rapanui,MOUTH,haha,285
+Rarotongan,MOUTH,vaʔa,285
+Tahitian,MOUTH,vaha,285
+Tuamotuan,MOUTH,vaha,285
+Luangiua,MOUTH,puʔu,286
+Nukuria,MOUTH,pukua,286
+Sikaiana,MOUTH,pukua,286
+Anuta,WE,tou,287
+East_Futuna,WE,tou,287
+Tikopia,WE,tou,287
+Wallisian,WE,tou,287
+Austral_(Ra'ivavae),WE,maatou,288
+Austral_(Ra'ivavae),WE,maaua,288
+Austral_(Rurutuan),WE,maatou,288
+Austral_(Rurutuan),WE,maaua,288
+East_Futuna,WE,maa,288
+Emae,WE,maua,288
+Emae,WE,matou,288
+Futuna-Aniwa,WE,kimaua,288
+Hawaiian,WE,maakou,288
+Hawaiian,WE,maaua,288
+Luangiua,WE,maakou,288
+Luangiua,WE,maaua,288
+Maori,WE,maatou,288
+Maori,WE,maaua,288
+Mele-Fila,WE,maua,288
+Mele-Fila,WE,matou,288
+Niuean,WE,mautolu,288
+Niuean,WE,maua,288
+North_Marquesan,WE,maua,288
+North_Marquesan,WE,matou,288
+Nukuria,WE,maatou,288
+Pukapuka,WE,amaaua,288
+Pukapuka,WE,maatou,288
+RakahangaManihiki,WE,maatou,288
+Rapanui,WE,matou,288
+Rarotongan,WE,maatou,288
+RennellBellona,WE,kimaa,288
+Samoan,WE,maatou,288
+Sikaiana,WE,maatou,288
+Sikaiana,WE,maaua,288
+Tahitian,WE,maatou,288
+Tahitian,WE,maaua,288
+Tongan,WE,kimautolu,288
+Vaeakau-Taumako,WE,mhatou,288
+Vaeakau-Taumako,WE,mhaua,288
+Wallisian,WE,maa,288
+Austral_(Ra'ivavae),WE,taatou,289
+Austral_(Ra'ivavae),WE,taaua,289
+Austral_(Rurutuan),WE,taatou,289
+Austral_(Rurutuan),WE,taaua,289
+Emae,WE,taua,289
+Emae,WE,tatou,289
+Hawaiian,WE,kaakou,289
+Hawaiian,WE,kaaua,289
+Kapingamarangi,WE,ɡida,289
+Luangiua,WE,kaaua,289
+Luangiua,WE,kaakou,289
+Mangareva,WE,taaua,289
+Maori,WE,taatou,289
+Maori,WE,taaua,289
+Mele-Fila,WE,taua,289
+Mele-Fila,WE,tatou,289
+Niuean,WE,tautolu,289
+Niuean,WE,taua,289
+North_Marquesan,WE,taua,289
+North_Marquesan,WE,tatou,289
+Nukuria,WE,taatou,289
+Pukapuka,WE,ataaua,289
+Pukapuka,WE,taatou,289
+RakahangaManihiki,WE,taatou,289
+Rapanui,WE,tatou,289
+Rarotongan,WE,taatou,289
+RennellBellona,WE,kita,289
+Samoan,WE,taatou,289
+Sikaiana,WE,taaua,289
+Sikaiana,WE,taatou,289
+Tahitian,WE,taatou,289
+Tahitian,WE,taaua,289
+Tongan,WE,kitautolu,289
+Tuamotuan,WE,tatou,289
+Vaeakau-Taumako,WE,tʰatou,289
+Vaeakau-Taumako,WE,tʰaua,289
+Anuta,BIRD,manu,290
+Austral_(Ra'ivavae),BIRD,manu,290
+Austral_(Rurutuan),BIRD,manu,290
+East_Futuna,BIRD,manu,290
+Emae,BIRD,manu,290
+Futuna-Aniwa,BIRD,manu,290
+Hawaiian,BIRD,manu,290
+Kapingamarangi,BIRD,manu,290
+Luangiua,BIRD,manu,290
+Mangareva,BIRD,manu,290
+Maori,BIRD,manu,290
+Mele-Fila,BIRD,manu,290
+Niuean,BIRD,manulele,290
+North_Marquesan,BIRD,manu,290
+Nukuria,BIRD,manu,290
+Penrhyn,BIRD,manu,290
+Pukapuka,BIRD,manu,290
+RakahangaManihiki,BIRD,manu,290
+Rapanui,BIRD,manu,290
+Rarotongan,BIRD,manurere,290
+RennellBellona,BIRD,manu,290
+Samoan,BIRD,manulele,290
+Tahitian,BIRD,manu,290
+Tikopia,BIRD,manu,290
+Tongan,BIRD,manu,290
+Tuamotuan,BIRD,manu,290
+Tuvalu,BIRD,manulele,290
+Vaeakau-Taumako,BIRD,manumanu,290
+Wallisian,BIRD,manulele,290
+RakahangaManihiki,BIRD,maimua,291
+Sikaiana,BIRD,kivi,292
+Anuta,PERSON,taŋata,293
+Austral_(Ra'ivavae),PERSON,taʔata,293
+Austral_(Rurutuan),PERSON,taʔata,293
+East_Futuna,PERSON,taɡata,293
+Emae,PERSON,taŋata,293
+Futuna-Aniwa,PERSON,tafata,293
+Hawaiian,PERSON,kanaka,293
+Kapingamarangi,PERSON,daŋada,293
+Luangiua,PERSON,kaŋaka,293
+Mangareva,PERSON,taŋata,293
+Maori,PERSON,taŋata,293
+Mele-Fila,PERSON,taŋata,293
+Niuean,PERSON,taŋata,293
+North_Marquesan,PERSON,kenana,293
+North_Marquesan,PERSON,ʔenata,293
+Penrhyn,PERSON,taŋata,293
+Pukapuka,PERSON,taŋata,293
+RakahangaManihiki,PERSON,taŋata,293
+Rapanui,PERSON,taɡata,293
+Rarotongan,PERSON,taŋata,293
+RennellBellona,PERSON,taŋata,293
+Samoan,PERSON,taŋata,293
+Sikaiana,PERSON,tanata,293
+Tahitian,PERSON,taʔata,293
+Tikopia,PERSON,taŋata,293
+Tongan,PERSON,taŋata,293
+Tuamotuan,PERSON,taŋata,293
+Tuvalu,PERSON,taɡata,293
+Vaeakau-Taumako,PERSON,tai,293
+Wallisian,PERSON,taɡata,293
+Nukuria,PERSON,tama,294
+Pukapuka,PERSON,tama,294
+Sikaiana,PERSON,tama,294
+Pukapuka,PERSON,kovi,295
+Anuta,BIG,rai,296
+Austral_(Ra'ivavae),BIG,ɢahi,296
+Austral_(Rurutuan),BIG,raʔi,296
+East_Futuna,BIG,lasi,296
+Emae,BIG,lasi,296
+Luangiua,BIG,lahi,296
+Niuean,BIG,lahi,296
+Penrhyn,BIG,rahi,296
+RakahangaManihiki,BIG,rahi,296
+Rapanui,BIG,rahi,296
+Samoan,BIG,lasi,296
+Tahitian,BIG,rahi,296
+Tikopia,BIG,lasi,296
+Tongan,BIG,lahi,296
+Tuvalu,BIG,lahi,296
+Wallisian,BIG,lahi,296
+Futuna-Aniwa,BIG,efa,297
+RennellBellona,BIG,ɡauʔeha,297
+Tongan,BIG,fuʔu,297
+Futuna-Aniwa,BIG,sore,298
+Hawaiian,BIG,nui,299
+Mangareva,BIG,nui,299
+Maori,BIG,nui,299
+North_Marquesan,BIG,nui,299
+Penrhyn,BIG,nue,299
+RakahangaManihiki,BIG,nui,299
+Rapanui,BIG,nui,299
+Samoan,BIG,nui,299
+Sikaiana,BIG,niu,299
+Tuamotuan,BIG,nui,299
+Kapingamarangi,BIG,tamana,300
+Mangareva,BIG,ruʔaruʔa,301
+Mele-Fila,BIG,motua,302
+Rarotongan,BIG,ʔakamatuu,302
+North_Marquesan,BIG,maaka,303
+Nukuria,BIG,hamataku,303
+Rarotongan,BIG,maʔatamaʔata,303
+Pukapuka,BIG,toŋi,304
+Pukapuka,BIG,wowolo,305
+RakahangaManihiki,BIG,koorereka,306
+Rarotongan,BIG,katakata,307
+Samoan,BIG,tele,308
+Vaeakau-Taumako,BIG,tʰuabe,309
+Anuta,BREAST,uu,310
+East_Futuna,BREAST,uu,310
+Futuna-Aniwa,BREAST,u,310
+Hawaiian,BREAST,uu,310
+Kapingamarangi,BREAST,uu,310
+Luangiua,BREAST,uu,310
+Maori,BREAST,uu,310
+Mele-Fila,BREAST,susu,310
+Niuean,BREAST,huhu,310
+North_Marquesan,BREAST,u,310
+Nukuria,BREAST,uu,310
+Penrhyn,BREAST,uu,310
+Pukapuka,BREAST,wuu,310
+RakahangaManihiki,BREAST,uu,310
+Rapanui,BREAST,ʔuu,310
+Rarotongan,BREAST,uu,310
+RennellBellona,BREAST,uu,310
+Samoan,BREAST,susu,310
+Sikaiana,BREAST,uu,310
+Tikopia,BREAST,uu,310
+Tongan,BREAST,huhu,310
+Tuvalu,BREAST,uu,310
+Wallisian,BREAST,huhu,310
+Austral_(Ra'ivavae),BREAST,ʔouma,311
+Austral_(Rurutuan),BREAST,ʔoouma,311
+Pukapuka,BREAST,uma,311
+RakahangaManihiki,BREAST,umauma,311
+Tuamotuan,BREAST,koouma,311
+Austral_(Rurutuan),BREAST,tiitiiːti,312
+Tahitian,BREAST,tiitiiːti,312
+Emae,BREAST,mumu,313
+Mangareva,BREAST,kuperu,314
+North_Marquesan,BREAST,kiʔinene,315
+Nukuria,BREAST,hatahata,316
+Vaeakau-Taumako,BREAST,hatahata,316
+Pukapuka,BREAST,aloalo,317
+RakahangaManihiki,BREAST,alo,317
+Anuta,HAND,nima,318
+Anuta,HAND,rima,319
+Austral_(Ra'ivavae),HAND,ɢima,319
+Austral_(Rurutuan),HAND,rima,319
+East_Futuna,HAND,lima,319
+Emae,HAND,rima,319
+Futuna-Aniwa,HAND,rima,319
+Hawaiian,HAND,lima,319
+Kapingamarangi,HAND,lima,319
+Luangiua,HAND,lima,319
+Mangareva,HAND,rima,319
+Maori,HAND,riŋa,319
+Mele-Fila,HAND,rima,319
+Niuean,HAND,lima,319
+North_Marquesan,HAND,ʔima,319
+Nukuria,HAND,rima,319
+Penrhyn,HAND,rima,319
+Pukapuka,HAND,lima,319
+RakahangaManihiki,HAND,rima,319
+Rapanui,HAND,rima,319
+Rarotongan,HAND,rima,319
+RennellBellona,HAND,ɡima,319
+Samoan,HAND,lima,319
+Sikaiana,HAND,lima,319
+Tahitian,HAND,rima,319
+Tikopia,HAND,rima,319
+Tongan,HAND,nima,319
+Tuamotuan,HAND,rima,319
+Tuvalu,HAND,lima,319
+Vaeakau-Taumako,HAND,lima,319
+Rarotongan,HAND,kapu,320
+Tuamotuan,HAND,kapu,320
+Wallisian,HAND,nima,321
+Anuta,SEE,mamata,322
+East_Futuna,SEE,matamata,322
+Kapingamarangi,SEE,mada,322
+Niuean,SEE,mata,322
+RennellBellona,SEE,mata,322
+Samoan,SEE,matamata,322
+Austral_(Ra'ivavae),SEE,ʔite,323
+East_Futuna,SEE,kite,323
+Emae,SEE,kutea,323
+Hawaiian,SEE,ʔike,323
+Luangiua,SEE,ʔike,323
+Maori,SEE,kite,323
+North_Marquesan,SEE,ʔite,323
+Nukuria,SEE,kite,323
+Pukapuka,SEE,kitea,323
+Rapanui,SEE,tikea,323
+Rarotongan,SEE,kite,323
+RennellBellona,SEE,kite,323
+Samoan,SEE,ʔite,323
+Sikaiana,SEE,kite,323
+Tahitian,SEE,ʔite,323
+Tikopia,SEE,kite,323
+Tuamotuan,SEE,kite,323
+Vaeakau-Taumako,SEE,kutea,323
+Austral_(Rurutuan),SEE,naanaaːna,324
+Mangareva,SEE,nana,324
+East_Futuna,SEE,tio,325
+Tongan,SEE,sio,325
+Wallisian,SEE,sio,325
+Futuna-Aniwa,SEE,safea,326
+Mele-Fila,SEE,sereia,327
+RakahangaManihiki,SEE,tititiro,328
+Tuvalu,SEE,kilo,328
+Samoan,SEE,vaʔai,329
+Tuvalu,SEE,pula,330
+Anuta,SMOKE (EXHAUST),autiapi,331
+Austral_(Ra'ivavae),SMOKE (EXHAUST),auauahi,331
+Austral_(Rurutuan),SMOKE (EXHAUST),auauaʔi,331
+East_Futuna,SMOKE (EXHAUST),aausia,331
+Emae,SMOKE (EXHAUST),asuafi,331
+Futuna-Aniwa,SMOKE (EXHAUST),au,331
+Hawaiian,SMOKE (EXHAUST),uahi,331
+Kapingamarangi,SMOKE (EXHAUST),seahi,331
+Mangareva,SMOKE (EXHAUST),ahi,331
+Maori,SMOKE (EXHAUST),auahi,331
+Niuean,SMOKE (EXHAUST),ahu,331
+North_Marquesan,SMOKE (EXHAUST),auahi,331
+Nukuria,SMOKE (EXHAUST),au,331
+Penrhyn,SMOKE (EXHAUST),auahi,331
+Pukapuka,SMOKE (EXHAUST),au,331
+RakahangaManihiki,SMOKE (EXHAUST),au,331
+Rapanui,SMOKE (EXHAUST),auahi,331
+Rarotongan,SMOKE (EXHAUST),auaʔi,331
+RennellBellona,SMOKE (EXHAUST),ʔauahi,331
+Samoan,SMOKE (EXHAUST),asu,331
+Sikaiana,SMOKE (EXHAUST),au,331
+Tahitian,SMOKE (EXHAUST),auauahi,331
+Tikopia,SMOKE (EXHAUST),ausiafi,331
+Tongan,SMOKE (EXHAUST),ʔahu,331
+Tuamotuan,SMOKE (EXHAUST),auahi,331
+Tuvalu,SMOKE (EXHAUST),au,331
+Wallisian,SMOKE (EXHAUST),ʔahu,331
+Luangiua,SMOKE (EXHAUST),ʔohu,332
+Nukuria,SMOKE (EXHAUST),kohu,332
+Tikopia,SMOKE (EXHAUST),kofu,332
+Vaeakau-Taumako,SMOKE (EXHAUST),kohu,332
+Mele-Fila,SMOKE (EXHAUST),silaŋo,333
+Anuta,STAND,tuu,334
+Austral_(Ra'ivavae),STAND,tuu,334
+Austral_(Rurutuan),STAND,tuu,334
+East_Futuna,STAND,tuʔu,334
+Emae,STAND,tuiruŋa,334
+Futuna-Aniwa,STAND,tu,334
+Hawaiian,STAND,ku,334
+Kapingamarangi,STAND,duu,334
+Luangiua,STAND,uu,334
+Mangareva,STAND,ʔakaatuaːtu,334
+Maori,STAND,tuu,334
+Niuean,STAND,tuu,334
+North_Marquesan,STAND,tuu,334
+Nukuria,STAND,tuu,334
+Penrhyn,STAND,tuu,334
+Pukapuka,STAND,wetuu,334
+RakahangaManihiki,STAND,tuu,334
+Rapanui,STAND,tuʔu,334
+Rarotongan,STAND,tuu,334
+RennellBellona,STAND,tuʔu,334
+Samoan,STAND,tuu,334
+Sikaiana,STAND,tuu,334
+Tikopia,STAND,tuu,334
+Tongan,STAND,tuʔu,334
+Tuamotuan,STAND,tuu,334
+Tuvalu,STAND,tuu,334
+Vaeakau-Taumako,STAND,tʰuː,334
+Wallisian,STAND,tuʔu,334
+Austral_(Ra'ivavae),STAND,tia,335
+Mele-Fila,STAND,telao,336
+Tahitian,STAND,tiʔa,337
+Austral_(Rurutuan),SNAKE,ooʔioːʔi,338
+Pukapuka,SNAKE,oovioːvi,338
+Rarotongan,SNAKE,ʔoouioːui,338
+Tahitian,SNAKE,ʔoofioːfi,338
+East_Futuna,SNAKE,ɡata,339
+Emae,SNAKE,ŋata,339
+Futuna-Aniwa,SNAKE,ŋata,339
+Luangiua,SNAKE,ʔaka,339
+Mele-Fila,SNAKE,ŋatasai,339
+Niuean,SNAKE,ɡata,339
+RennellBellona,SNAKE,ŋata,339
+Samoan,SNAKE,ŋata,339
+Tongan,SNAKE,ŋata,339
+Vaeakau-Taumako,SNAKE,ŋata,339
+Hawaiian,SNAKE,naheka,340
+Maori,SNAKE,naakahi,341
+North_Marquesan,SNAKE,puhihenua,342
+Nukuria,SNAKE,kata,343
+Sikaiana,SNAKE,sineki,344
+Tikopia,SNAKE,ŋau,345
+Anuta,FAR,mamao,346
+East_Futuna,FAR,mamaʔo,346
+Hawaiian,FAR,mamao,346
+Luangiua,FAR,mao,346
+Mangareva,FAR,mamaʔo,346
+Mele-Fila,FAR,imao,346
+Niuean,FAR,mamao,346
+North_Marquesan,FAR,memaʔo,346
+Nukuria,FAR,mmao,346
+Penrhyn,FAR,momoo,346
+Pukapuka,FAR,mamao,346
+RakahangaManihiki,FAR,momoo,346
+Rarotongan,FAR,mamao,346
+RennellBellona,FAR,mamaʔo,346
+Samoan,FAR,mamao,346
+Sikaiana,FAR,mmao,346
+Tikopia,FAR,mao,346
+Tongan,FAR,mamaʔo,346
+Tuamotuan,FAR,taumamao,346
+Tuvalu,FAR,mamao,346
+Vaeakau-Taumako,FAR,mao,346
+Wallisian,FAR,mamaʔo,346
+Austral_(Rurutuan),FAR,aatea,347
+Tahitian,FAR,aatea,347
+East_Futuna,FAR,taumamaʔo,348
+Wallisian,FAR,taumamaʔo,348
+Emae,FAR,iᵐbua,349
+Futuna-Aniwa,FAR,pʰai,350
+Kapingamarangi,FAR,mokoa,351
+Maori,FAR,tafiti,352
+RakahangaManihiki,FAR,hakarere,353
+Rapanui,FAR,kumi,354
+Anuta,BELLY,manava,355
+East_Futuna,BELLY,manava,355
+Futuna-Aniwa,BELLY,manava,355
+Luangiua,BELLY,maŋava,355
+Mangareva,BELLY,manava,355
+Niuean,BELLY,manava,355
+Nukuria,BELLY,manava,355
+Penrhyn,BELLY,manava,355
+Pukapuka,BELLY,manava,355
+RakahangaManihiki,BELLY,manavanui,355
+Rapanui,BELLY,manava,355
+Rarotongan,BELLY,manava,355
+RennellBellona,BELLY,manaba,355
+Samoan,BELLY,manava,355
+Sikaiana,BELLY,manava,355
+Tikopia,BELLY,manava,355
+Tuamotuan,BELLY,manava,355
+Vaeakau-Taumako,BELLY,manava,355
+Wallisian,BELLY,manava,355
+Austral_(Ra'ivavae),BELLY,ʔoopuoːpu,356
+Austral_(Rurutuan),BELLY,ʔoopuoːpu,356
+Hawaiian,BELLY,ʔoopuoːpu,356
+Mangareva,BELLY,koopuoːpu,356
+North_Marquesan,BELLY,ʔopu,356
+Penrhyn,BELLY,koopuoːpu,356
+RakahangaManihiki,BELLY,koopuoːpu,356
+Rapanui,BELLY,kopu,356
+Rarotongan,BELLY,koopuoːpu,356
+Tahitian,BELLY,ʔoopuoːpu,356
+Tuamotuan,BELLY,koopuoːpu,356
+East_Futuna,BELLY,tinaʔe,357
+Futuna-Aniwa,BELLY,ʃinae,357
+Mele-Fila,BELLY,sinae,357
+Tuvalu,BELLY,tinae,357
+East_Futuna,BELLY,kona,358
+Kapingamarangi,BELLY,kona,358
+Mangareva,BELLY,kona,358
+Penrhyn,BELLY,kona,358
+Rarotongan,BELLY,kona,358
+Tikopia,BELLY,kona,358
+Tuamotuan,BELLY,kona,358
+Wallisian,BELLY,kona,358
+Emae,BELLY,nakau,359
+Futuna-Aniwa,BELLY,alo,360
+Wallisian,BELLY,ʔalo,360
+Maori,BELLY,puku,361
+Tongan,BELLY,kete,362
+Tuamotuan,BELLY,tia,363
+Vaeakau-Taumako,BELLY,ŋapula,364
+Anuta,NO OR NOT,kairo,365
+Austral_(Ra'ivavae),NO OR NOT,eʔere,366
+Austral_(Rurutuan),NO OR NOT,eʔore,367
+Hawaiian,NO OR NOT,ʔole,367
+Mangareva,NO OR NOT,kore,367
+Maori,NO OR NOT,kaahore,367
+Penrhyn,NO OR NOT,kare,367
+Pukapuka,NO OR NOT,kaakole,367
+RakahangaManihiki,NO OR NOT,ekore,367
+Rarotongan,NO OR NOT,kaaʔore,367
+East_Futuna,NO OR NOT,see,368
+Kapingamarangi,NO OR NOT,tee,368
+Luangiua,NO OR NOT,he,368
+Niuean,NO OR NOT,tee,368
+North_Marquesan,NO OR NOT,tee,368
+Nukuria,NO OR NOT,te,368
+Sikaiana,NO OR NOT,heai,368
+Wallisian,NO OR NOT,heʔe,368
+Emae,NO OR NOT,e,369
+Pukapuka,NO OR NOT,jee,369
+Samoan,NO OR NOT,leai,369
+Futuna-Aniwa,NO OR NOT,ʃikai,370
+Mele-Fila,NO OR NOT,sai,370
+North_Marquesan,NO OR NOT,ieai,370
+Pukapuka,NO OR NOT,kiai,370
+RennellBellona,NO OR NOT,siʔai,370
+RennellBellona,NO OR NOT,siai,370
+Samoan,NO OR NOT,iʔai,370
+Tikopia,NO OR NOT,siei,370
+Tongan,NO OR NOT,ʔikai,370
+Tuvalu,NO OR NOT,ikai,370
+Vaeakau-Taumako,NO OR NOT,siai,370
+Pukapuka,NO OR NOT,kaani,371
+Pukapuka,NO OR NOT,kaaji,372
+Rapanui,NO OR NOT,inakai,372
+Rapanui,NO OR NOT,taʔe,373
+Rarotongan,NO OR NOT,ʔauraka,374
+Tuamotuan,NO OR NOT,kauraka,374
+Tahitian,NO OR NOT,ʔaita,375
+Tuvalu,NO OR NOT,mooe,376
+Anuta,BONE,ivi,377
+Anuta,BONE,ui,377
+Austral_(Ra'ivavae),BONE,iviivi,377
+Austral_(Rurutuan),BONE,ivi,377
+East_Futuna,BONE,ivi,377
+Emae,BONE,sui,377
+Futuna-Aniwa,BONE,iui,377
+Hawaiian,BONE,iwi,377
+Kapingamarangi,BONE,iwi,377
+Luangiua,BONE,ivi,377
+Mangareva,BONE,ivi,377
+Maori,BONE,iwi,377
+Mele-Fila,BONE,teiβi,377
+Niuean,BONE,ivi,377
+Niuean,BONE,hui,377
+North_Marquesan,BONE,ivi,377
+Nukuria,BONE,ivi,377
+Penrhyn,BONE,ivi,377
+Pukapuka,BONE,ivi,377
+RakahangaManihiki,BONE,ivi,377
+Rapanui,BONE,ivi,377
+Rarotongan,BONE,ivi,377
+RennellBellona,BONE,ibi,377
+Samoan,BONE,ivi,377
+Sikaiana,BONE,ivi,377
+Tahitian,BONE,ivi,377
+Tikopia,BONE,ivi,377
+Tongan,BONE,hui,377
+Tuamotuan,BONE,ivi,377
+Tuvalu,BONE,ivi,377
+Vaeakau-Taumako,BONE,ivi,377
+Wallisian,BONE,hui,377
+Austral_(Ra'ivavae),SALT,ʔavaʔava,378
+Austral_(Rurutuan),SALT,miti,379
+Mangareva,SALT,miti,379
+Pukapuka,SALT,miti,379
+Rapanui,SALT,miti,379
+Rarotongan,SALT,miti,379
+Samoan,SALT,miti,379
+Tahitian,SALT,miti,379
+Tuamotuan,SALT,miti,379
+East_Futuna,SALT,paʔatai,380
+Emae,SALT,tai,380
+Hawaiian,SALT,paʔakai,380
+North_Marquesan,SALT,paʔatai,380
+North_Marquesan,SALT,kanatai,380
+RennellBellona,SALT,tai,380
+Wallisian,SALT,tai,380
+Futuna-Aniwa,SALT,sol,381
+Maori,SALT,tote,382
+Mele-Fila,SALT,mara,383
+Niuean,SALT,matima,384
+Samoan,SALT,maasima,384
+Tongan,SALT,maasima,384
+Tuvalu,SALT,maasima,384
+North_Marquesan,SALT,puhinaʔu,385
+Nukuria,SALT,horo,386
+Anuta,RAIN (PRECIPITATION),ua,387
+Austral_(Rurutuan),RAIN (PRECIPITATION),ua,387
+East_Futuna,RAIN (PRECIPITATION),ʔuaina,387
+Emae,RAIN (PRECIPITATION),ua,387
+Futuna-Aniwa,RAIN (PRECIPITATION),ua,387
+Hawaiian,RAIN (PRECIPITATION),ua,387
+Kapingamarangi,RAIN (PRECIPITATION),ua,387
+Luangiua,RAIN (PRECIPITATION),ʔua,387
+Mangareva,RAIN (PRECIPITATION),ua,387
+Maori,RAIN (PRECIPITATION),ua,387
+Mele-Fila,RAIN (PRECIPITATION),ua,387
+Niuean,RAIN (PRECIPITATION),uha,387
+North_Marquesan,RAIN (PRECIPITATION),ua,387
+Nukuria,RAIN (PRECIPITATION),ua,387
+Penrhyn,RAIN (PRECIPITATION),ua,387
+Pukapuka,RAIN (PRECIPITATION),ua,387
+RakahangaManihiki,RAIN (PRECIPITATION),ua,387
+Rapanui,RAIN (PRECIPITATION),ʔuua,387
+Rarotongan,RAIN (PRECIPITATION),ua,387
+RennellBellona,RAIN (PRECIPITATION),ʔua,387
+Samoan,RAIN (PRECIPITATION),ua,387
+Sikaiana,RAIN (PRECIPITATION),ua,387
+Tahitian,RAIN (PRECIPITATION),ua,387
+Tikopia,RAIN (PRECIPITATION),ua,387
+Tongan,RAIN (PRECIPITATION),ʔuha,387
+Tuamotuan,RAIN (PRECIPITATION),ua,387
+Tuvalu,RAIN (PRECIPITATION),ua,387
+Vaeakau-Taumako,RAIN (PRECIPITATION),ua,387
+Wallisian,RAIN (PRECIPITATION),ʔua,387
+Austral_(Ra'ivavae),RAIN (PRECIPITATION),ua,388
+Samoan,RAIN (PRECIPITATION),timu,389
+Tuvalu,RAIN (PRECIPITATION),timu,389
+Anuta,SLEEP,moe,390
+Austral_(Rurutuan),SLEEP,moe,390
+East_Futuna,SLEEP,moe,390
+Emae,SLEEP,moe,390
+Futuna-Aniwa,SLEEP,moeroa,390
+Hawaiian,SLEEP,moe,390
+Luangiua,SLEEP,moe,390
+Mangareva,SLEEP,moe,390
+Maori,SLEEP,moe,390
+Mele-Fila,SLEEP,moe,390
+Niuean,SLEEP,mohe,390
+North_Marquesan,SLEEP,hiamoe,390
+Nukuria,SLEEP,moe,390
+Penrhyn,SLEEP,moe,390
+Pukapuka,SLEEP,momoe,390
+RakahangaManihiki,SLEEP,moe,390
+Rapanui,SLEEP,moe,390
+Rarotongan,SLEEP,moe,390
+RennellBellona,SLEEP,moe,390
+Samoan,SLEEP,moe,390
+Sikaiana,SLEEP,moe,390
+Tikopia,SLEEP,moe,390
+Tongan,SLEEP,mohe,390
+Tuamotuan,SLEEP,moe,390
+Tuvalu,SLEEP,moe,390
+Vaeakau-Taumako,SLEEP,moe,390
+Wallisian,SLEEP,moe,390
+Austral_(Ra'ivavae),SLEEP,moe,391
+Emae,SLEEP,ŋoro,392
+Kapingamarangi,SLEEP,khi,393
+Pukapuka,SLEEP,lowi,394
+Tahitian,SLEEP,taʔoto,395
+Anuta,THICK,maatoru,396
+East_Futuna,THICK,maatotolu,396
+Emae,THICK,matorutoru,396
+Futuna-Aniwa,THICK,matoru,396
+Hawaiian,THICK,maakolukolu,396
+Kapingamarangi,THICK,maadolu,396
+Luangiua,THICK,makolu,396
+Mangareva,THICK,maatoru,396
+Maori,THICK,matotoru,396
+Mele-Fila,THICK,matoru,396
+Niuean,THICK,matolu,396
+North_Marquesan,THICK,motoʔu,396
+Nukuria,THICK,maatoru,396
+Pukapuka,THICK,maatolu,396
+RakahangaManihiki,THICK,maateru,396
+Rapanui,THICK,matoru,396
+Rarotongan,THICK,maatoru,396
+RennellBellona,THICK,maatoɡu,396
+Samoan,THICK,matolutolu,396
+Sikaiana,THICK,maatoru,396
+Tikopia,THICK,maatoru,396
+Tongan,THICK,matolu,396
+Tuvalu,THICK,maatolu,396
+Wallisian,THICK,maatolu,396
+Austral_(Ra'ivavae),THICK,meʔumeʔu,397
+Tahitian,THICK,meʔumeʔu,397
+Austral_(Rurutuan),THICK,tuetue,398
+Samoan,THICK,tuatua,398
+Tuamotuan,THICK,tuʔatuʔa,398
+Tuvalu,THICK,tuatua,398
+Tuvalu,THICK,tuaefa,398
+Nukuria,THICK,hamataku,399
+Samoan,THICK,mafia,400
+Vaeakau-Taumako,THICK,eha,401
+Anuta,WET,parapara,402
+Nukuria,WET,para,402
+Tuvalu,WET,pala,402
+Wallisian,WET,palapala,402
+Austral_(Ra'ivavae),WET,maʔu,403
+Austral_(Rurutuan),WET,maʔu,403
+East_Futuna,WET,maatuʔu,403
+Mangareva,WET,maku,403
+Maori,WET,maakuaːku,403
+RakahangaManihiki,WET,maahuaːhu,403
+Rarotongan,WET,maaʔuaːʔuʔuaːʔuːʔu,403
+Tuvalu,WET,maalu,403
+Austral_(Rurutuan),WET,rari,404
+Mangareva,WET,rari,404
+Penrhyn,WET,rari,404
+Rapanui,WET,lali,404
+Rarotongan,WET,taarari,404
+Tahitian,WET,rari,404
+Tuamotuan,WET,rari,404
+East_Futuna,WET,taitaia,405
+East_Futuna,WET,fakasasau,406
+Mele-Fila,WET,lousa,406
+Rapanui,WET,hehe,406
+East_Futuna,WET,vikuviku,407
+Tongan,WET,viku,407
+Emae,WET,roro,408
+Futuna-Aniwa,WET,su,409
+Kapingamarangi,WET,tʰiu,409
+Luangiua,WET,suu,409
+Pukapuka,WET,jujuu,409
+RennellBellona,WET,suuʔia,409
+Samoan,WET,susuu,409
+Sikaiana,WET,siu,409
+Tikopia,WET,suu,409
+Tuvalu,WET,hihiu,409
+Vaeakau-Taumako,WET,siu,409
+Futuna-Aniwa,WET,ʰnupu,410
+Hawaiian,WET,pulu,411
+Mangareva,WET,raŋa,412
+North_Marquesan,WET,ʔautau,413
+RakahangaManihiki,WET,tavai,414
+Anuta,LONG,roa,415
+Austral_(Ra'ivavae),LONG,ɢoa,415
+Austral_(Rurutuan),LONG,roa,415
+East_Futuna,LONG,loa,415
+Hawaiian,LONG,loa,415
+Kapingamarangi,LONG,loo,415
+Luangiua,LONG,loa,415
+Maori,LONG,roa,415
+Niuean,LONG,loa,415
+North_Marquesan,LONG,ʔoa,415
+Nukuria,LONG,rooroa,415
+Penrhyn,LONG,roa,415
+Pukapuka,LONG,loa,415
+RakahangaManihiki,LONG,roa,415
+Rapanui,LONG,roa,415
+Rarotongan,LONG,roa,415
+RennellBellona,LONG,ɡoa,415
+Samoan,LONG,loloa,415
+Sikaiana,LONG,loa,415
+Tahitian,LONG,roa,415
+Tikopia,LONG,loa,415
+Tongan,LONG,looloa,415
+Tuamotuan,LONG,roa,415
+Tuvalu,LONG,loa,415
+Vaeakau-Taumako,LONG,loa,415
+Wallisian,LONG,loa,415
+Emae,LONG,leβaleβa,416
+Futuna-Aniwa,LONG,pʰalo,417
+Mangareva,LONG,roa,418
+Mele-Fila,LONG,totoe,419
+Samoan,LONG,ʔumi,420
+Anuta,WALK,aere,421
+Austral_(Ra'ivavae),WALK,haeɢe,421
+Austral_(Rurutuan),WALK,ʔanorimoʔaere,421
+East_Futuna,WALK,saʔele,421
+Emae,WALK,saere,421
+Hawaiian,WALK,hele,421
+Kapingamarangi,WALK,haele,421
+Luangiua,WALK,haele,421
+Mangareva,WALK,ʔere,421
+Maori,WALK,haereawaewae,421
+Niuean,WALK,haele,421
+North_Marquesan,WALK,heʔe,421
+Nukuria,WALK,haare,421
+Penrhyn,WALK,saere,421
+Pukapuka,WALK,jaaeleaːelele,421
+RakahangaManihiki,WALK,haere,421
+Rapanui,WALK,haere,421
+Rarotongan,WALK,ʔaere,421
+RennellBellona,WALK,saʔeɡe,421
+Samoan,WALK,saele,421
+Sikaiana,WALK,saele,421
+Tahitian,WALK,haere,421
+Tikopia,WALK,saere,421
+Tuamotuan,WALK,haere,421
+Tuvalu,WALK,haele,421
+Wallisian,WALK,haaere,421
+Austral_(Rurutuan),WALK,rimorimo,422
+Austral_(Rurutuan),WALK,ʔano,423
+East_Futuna,WALK,ano,423
+Kapingamarangi,WALK,heeheeːhe,424
+Kapingamarangi,WALK,taahao,425
+Tikopia,WALK,tahao,425
+Mele-Fila,WALK,saria,426
+Tahitian,WALK,ori,427
+Tongan,WALK,ʔalu,428
+Vaeakau-Taumako,WALK,kau,429
+Anuta,DRY,pakupaku,430
+Luangiua,DRY,paupaʔu,430
+Nukuria,DRY,pakupaku,430
+Samoan,DRY,paʔupaʔu,430
+Austral_(Ra'ivavae),DRY,maɢo,431
+Austral_(Rurutuan),DRY,maroo,431
+East_Futuna,DRY,maloo,431
+Emae,DRY,maro,431
+Hawaiian,DRY,maloʔo,431
+Mangareva,DRY,maro,431
+Maori,DRY,maroke,431
+North_Marquesan,DRY,moʔo,431
+RakahangaManihiki,DRY,maroo,431
+Rarotongan,DRY,maroo,431
+RennellBellona,DRY,maɡoo,431
+Tahitian,DRY,maroo,431
+Tikopia,DRY,maroo,431
+Tuamotuan,DRY,maroo,431
+Wallisian,DRY,malo,431
+East_Futuna,DRY,masa,432
+Futuna-Aniwa,DRY,masa,432
+Niuean,DRY,maha,432
+Penrhyn,DRY,masa,432
+Sikaiana,DRY,masa,432
+Tikopia,DRY,masa,432
+Wallisian,DRY,maha,432
+Futuna-Aniwa,DRY,matu,433
+Mele-Fila,DRY,matu,433
+Vaeakau-Taumako,DRY,matʰuː,433
+Kapingamarangi,DRY,maŋo,434
+RennellBellona,DRY,maamala,434
+Samoan,DRY,maŋo,434
+Vaeakau-Taumako,DRY,maŋoa,434
+Niuean,DRY,pakaka,435
+North_Marquesan,DRY,pakaka,435
+Pukapuka,DRY,wakapakapaka,435
+Rapanui,DRY,pakapaka,435
+Samoan,DRY,paʔaʔa,435
+Pukapuka,DRY,omoi,436
+Tongan,DRY,moomoa,436
+Tuvalu,DRY,tauaki,437
+Anuta,THIS,ieni,438
+East_Futuna,THIS,leinei,438
+Emae,THIS,reni,438
+Hawaiian,THIS,nei,438
+Nukuria,THIS,nei,438
+Pukapuka,THIS,eenei,438
+RakahangaManihiki,THIS,nei,438
+Rapanui,THIS,nei,438
+Samoan,THIS,lenei,438
+Tikopia,THIS,nei,438
+Tongan,THIS,koeni,438
+Tuvalu,THIS,nei,438
+Vaeakau-Taumako,THIS,ne,438
+Wallisian,THIS,eni,438
+Austral_(Rurutuan),THIS,teie,439
+Futuna-Aniwa,THIS,tenei,440
+Kapingamarangi,THIS,tenei,440
+Luangiua,THIS,keŋei,440
+Mangareva,THIS,tenei,440
+Maori,THIS,teenei,440
+Mele-Fila,THIS,kenei,440
+North_Marquesan,THIS,tenei,440
+Pukapuka,THIS,teenei,440
+Sikaiana,THIS,tenei,440
+Tuvalu,THIS,teenei,440
+Vaeakau-Taumako,THIS,tene,440
+Hawaiian,THIS,keeia,441
+Penrhyn,THIS,teeia,442
+RakahangaManihiki,THIS,taua,443
+Rarotongan,THIS,teeia,444
+RennellBellona,THIS,ia,445
+Tahitian,THIS,teie,446
+Tuamotuan,THIS,te,447
+Anuta,COME,au,448
+East_Futuna,COME,ʔau,448
+Mangareva,COME,aʔu,448
+Niuean,COME,aua,448
+Pukapuka,COME,jau,448
+Samoan,COME,sau,448
+Tikopia,COME,au,448
+Tongan,COME,haʔu,448
+Tuvalu,COME,hau,448
+Vaeakau-Taumako,COME,au,448
+Austral_(Ra'ivavae),COME,haeɢemai,449
+Austral_(Rurutuan),COME,ʔaeremai,449
+Austral_(Rurutuan),COME,ʔanomai,449
+Emae,COME,numai,449
+Futuna-Aniwa,COME,ʰmai,449
+Hawaiian,COME,mai,449
+Luangiua,COME,haamai,449
+Maori,COME,haeremai,449
+Mele-Fila,COME,fenmai,449
+North_Marquesan,COME,heʔemai,449
+Nukuria,COME,oomai,449
+Pukapuka,COME,lolomai,449
+RakahangaManihiki,COME,naumai,449
+RakahangaManihiki,COME,taumai,449
+RakahangaManihiki,COME,hanomai,449
+RakahangaManihiki,COME,romai,449
+RakahangaManihiki,COME,haeremai,449
+RennellBellona,COME,aʔu,449
+Samoan,COME,oomai,449
+Sikaiana,COME,halemai,449
+Tahitian,COME,haeremai,449
+Tongan,COME,oomai,449
+Tuamotuan,COME,mai,449
+Tuvalu,COME,mai,449
+Wallisian,COME,aʔu,449
+Kapingamarangi,COME,hani,450
+North_Marquesan,COME,tihe,451
+RakahangaManihiki,COME,aro,452
+Rapanui,COME,tuʔu,453
+Rarotongan,COME,taataaːtaʔi,454
+Anuta,NOSE,iu,455
+Austral_(Ra'ivavae),NOSE,ihu,455
+Austral_(Rurutuan),NOSE,putaeʔu,455
+East_Futuna,NOSE,isu,455
+Emae,NOSE,isu,455
+Futuna-Aniwa,NOSE,isu,455
+Hawaiian,NOSE,ihu,455
+Kapingamarangi,NOSE,uuhiu,455
+Luangiua,NOSE,aisu,455
+Luangiua,NOSE,isu,455
+Mangareva,NOSE,iʔu,455
+Maori,NOSE,ihu,455
+Mele-Fila,NOSE,usu,455
+Niuean,NOSE,ihu,455
+North_Marquesan,NOSE,ihu,455
+Nukuria,NOSE,kaihu,455
+Penrhyn,NOSE,isu,455
+Pukapuka,NOSE,iju,455
+RakahangaManihiki,NOSE,isu,455
+Rapanui,NOSE,ihu,455
+Rarotongan,NOSE,putaaŋi,455
+RennellBellona,NOSE,isu,455
+Samoan,NOSE,isu,455
+Sikaiana,NOSE,kaiusu,455
+Tahitian,NOSE,ihu,455
+Tikopia,NOSE,isu,455
+Tongan,NOSE,ihu,455
+Tuamotuan,NOSE,ihu,455
+Tuvalu,NOSE,ihu,455
+Vaeakau-Taumako,NOSE,iu,455
+Wallisian,NOSE,ihu,455
+Vaeakau-Taumako,NOSE,poŋaiu,456
+Anuta,DIRTY,parapara,457
+East_Futuna,DIRTY,palapala,457
+Maori,DIRTY,paru,457
+Niuean,DIRTY,palapala,457
+North_Marquesan,DIRTY,paʔapaʔa,457
+Pukapuka,DIRTY,palanui,457
+RakahangaManihiki,DIRTY,parapara,457
+RennellBellona,DIRTY,paɡapaɡa,457
+Sikaiana,DIRTY,pela,457
+Tuvalu,DIRTY,pala,457
+Vaeakau-Taumako,DIRTY,pelapela,457
+Wallisian,DIRTY,palapala,457
+Austral_(Ra'ivavae),DIRTY,ɢepo,458
+Austral_(Rurutuan),DIRTY,repo,458
+Hawaiian,DIRTY,lepo,458
+Pukapuka,DIRTY,lepo,458
+RakahangaManihiki,DIRTY,lepo,458
+Rarotongan,DIRTY,repo,458
+Tahitian,DIRTY,repo,458
+Emae,DIRTY,uri,459
+Futuna-Aniwa,DIRTY,paku,460
+Mele-Fila,DIRTY,paku,460
+Pukapuka,DIRTY,pakuoŋea,460
+Vaeakau-Taumako,DIRTY,paku,460
+Futuna-Aniwa,DIRTY,uriuri,461
+Kapingamarangi,DIRTY,tokoria,462
+Luangiua,DIRTY,sava,463
+North_Marquesan,DIRTY,hava,463
+Penrhyn,DIRTY,sava,463
+Rapanui,DIRTY,hava,463
+Rarotongan,DIRTY,ʔavaʔava,463
+Sikaiana,DIRTY,sava,463
+Tuamotuan,DIRTY,hava,463
+Mangareva,DIRTY,paneu,464
+Niuean,DIRTY,pilo,465
+Nukuria,DIRTY,kerekere,466
+Samoan,DIRTY,ʔeleʔelea,466
+Tikopia,DIRTY,kere,466
+Tuvalu,DIRTY,kelekelea,466
+Rapanui,DIRTY,one,467
+Tongan,DIRTY,ʔuli,468
+Wallisian,DIRTY,liko,469
+Anuta,NIGHT,pouri,470
+Anuta,NIGHT,poo,471
+Austral_(Ra'ivavae),NIGHT,poo,471
+Austral_(Rurutuan),NIGHT,poo,471
+East_Futuna,NIGHT,pooʔuli,471
+Emae,NIGHT,po,471
+Futuna-Aniwa,NIGHT,po,471
+Hawaiian,NIGHT,poo,471
+Kapingamarangi,NIGHT,boo,471
+Luangiua,NIGHT,poo,471
+Mangareva,NIGHT,poo,471
+Maori,NIGHT,poo,471
+Mele-Fila,NIGHT,po,471
+Niuean,NIGHT,pouli,471
+Niuean,NIGHT,poo,471
+North_Marquesan,NIGHT,poo,471
+Nukuria,NIGHT,poo,471
+Penrhyn,NIGHT,poo,471
+Pukapuka,NIGHT,poo,471
+RakahangaManihiki,NIGHT,poiri,471
+RakahangaManihiki,NIGHT,poo,471
+Rapanui,NIGHT,poo,471
+Rarotongan,NIGHT,poo,471
+RennellBellona,NIGHT,poo,471
+Samoan,NIGHT,poo,471
+Sikaiana,NIGHT,poo,471
+Tahitian,NIGHT,poo,471
+Tikopia,NIGHT,poo,471
+Tongan,NIGHT,poo,471
+Tuamotuan,NIGHT,poo,471
+Tuvalu,NIGHT,poouli,471
+Tuvalu,NIGHT,poo,471
+Vaeakau-Taumako,NIGHT,poo,471
+Wallisian,NIGHT,pooʔuli,471
+Wallisian,NIGHT,poo,471
+Tuamotuan,NIGHT,ruki,472
+Tuvalu,NIGHT,taiao,473
+Anuta,KILL,tamate,474
+Austral_(Rurutuan),KILL,ʔaʔamate,474
+East_Futuna,KILL,tamate,474
+Futuna-Aniwa,KILL,ʃiakamate,474
+Hawaiian,KILL,hoʔomake,474
+North_Marquesan,KILL,haʔamate,474
+RakahangaManihiki,KILL,taa,474
+Rarotongan,KILL,taamatemate,474
+Samoan,KILL,taamate,474
+Tongan,KILL,taamateʔi,474
+Tuvalu,KILL,taamate,474
+Vaeakau-Taumako,KILL,tamatea,474
+Wallisian,KILL,tamatei,474
+Austral_(Rurutuan),KILL,ta,475
+Emae,KILL,teiakemate,475
+Luangiua,KILL,kaa,475
+Mele-Fila,KILL,teiamatia,475
+Niuean,KILL,taa,475
+Penrhyn,KILL,taa,475
+RennellBellona,KILL,taa,475
+Sikaiana,KILL,taa,475
+Tikopia,KILL,ta,475
+Vaeakau-Taumako,KILL,taia,475
+Kapingamarangi,KILL,taliki,476
+Mangareva,KILL,tinaʔi,477
+Nukuria,KILL,tiinai,477
+Rapanui,KILL,tiɡaʔi,477
+Maori,KILL,patu,478
+Pukapuka,KILL,patu,478
+RakahangaManihiki,KILL,patu,478
+Rarotongan,KILL,putu,478
+Tuamotuan,KILL,patu,478
+North_Marquesan,KILL,pehi,479
+RakahangaManihiki,KILL,pehikitetoka,479
+North_Marquesan,KILL,kukumi,480
+Rarotongan,KILL,taa,481
+Samoan,KILL,fasioti,481
+Rarotongan,KILL,kikini,482
+Tahitian,KILL,taparahi,483
+Tuamotuan,KILL,taparahi,483
+Anuta,THROW,peiia,484
+East_Futuna,THROW,peʔesi,484
+Emae,THROW,pesia,484
+Luangiua,THROW,pesi,484
+Mele-Fila,THROW,pesia,484
+Sikaiana,THROW,pehi,484
+Wallisian,THROW,peʔehi,484
+Austral_(Ra'ivavae),THROW,taaoɢa,485
+Austral_(Rurutuan),THROW,taaora,485
+North_Marquesan,THROW,tioʔa,485
+Tahitian,THROW,taaora,485
+East_Futuna,THROW,tii,486
+Futuna-Aniwa,THROW,ʦiri,486
+Kapingamarangi,THROW,dili,486
+Mangareva,THROW,tiri,486
+North_Marquesan,THROW,tiʔi,486
+Nukuria,THROW,ttiri,486
+Pukapuka,THROW,tili,486
+Rarotongan,THROW,tiri,486
+Tuamotuan,THROW,tiri,486
+Vaeakau-Taumako,THROW,sili,486
+Emae,THROW,pepe,487
+Hawaiian,THROW,hoʔolei,488
+Kapingamarangi,THROW,maka,489
+Rarotongan,THROW,maka,489
+Tuamotuan,THROW,maka,489
+Mangareva,THROW,kero,490
+Maori,THROW,paŋa,491
+Mele-Fila,THROW,woro,492
+Niuean,THROW,velo,493
+Rapanui,THROW,vero,493
+Nukuria,THROW,riaki,494
+Tongan,THROW,lii,494
+Penrhyn,THROW,peehua,495
+Rarotongan,THROW,peeʔia,495
+Pukapuka,THROW,uti,496
+RakahangaManihiki,THROW,fakamui,497
+Rarotongan,THROW,ʔia,498
+RennellBellona,THROW,tupe,499
+Tuvalu,THROW,tupe,499
+Samoan,THROW,toŋi,500
+Tongan,THROW,tolo,501
+Tuamotuan,THROW,toro,501
+Tuvalu,THROW,apa,502
+Wallisian,THROW,ʔatu,503
+Anuta,RED,mero,504
+East_Futuna,RED,mea,504
+Futuna-Aniwa,RED,mea,504
+Kapingamarangi,RED,mmee,504
+Luangiua,RED,mea,504
+Mele-Fila,RED,mea,504
+Nukuria,RED,mmea,504
+Pukapuka,RED,melo,504
+Rapanui,RED,mea,504
+RennellBellona,RED,mea,504
+Samoan,RED,mea,504
+Samoan,RED,melomelo,504
+Sikaiana,RED,mea,504
+Tikopia,RED,mero,504
+Tikopia,RED,mea,504
+Tuamotuan,RED,mea,504
+Vaeakau-Taumako,RED,mea,504
+Anuta,RED,oata,505
+East_Futuna,RED,soata,505
+Austral_(Ra'ivavae),RED,ʔuteʔute,506
+Rarotongan,RED,ʔute,506
+Tahitian,RED,ʔuteʔute,506
+Austral_(Rurutuan),RED,ʔuraʔura,507
+East_Futuna,RED,kula,507
+Hawaiian,RED,ʔula,507
+Mangareva,RED,kura,507
+Niuean,RED,kula,507
+North_Marquesan,RED,kuwa,507
+Penrhyn,RED,kura,507
+Pukapuka,RED,kula,507
+RakahangaManihiki,RED,kura,507
+Rarotongan,RED,kura,507
+RennellBellona,RED,kuɡa,507
+Samoan,RED,ʔula,507
+Tongan,RED,kulokula,507
+Tuamotuan,RED,kura,507
+Tuvalu,RED,kula,507
+Wallisian,RED,kula,507
+Emae,RED,loa,508
+Maori,RED,fero,509
+Rapanui,RED,herohero,509
+North_Marquesan,RED,pukiki,510
+RakahangaManihiki,RED,muramura,511
+Anuta,SWIM,kau,512
+Austral_(Ra'ivavae),SWIM,ʔau,512
+Austral_(Rurutuan),SWIM,ʔau,512
+East_Futuna,SWIM,kau,512
+Emae,SWIM,kaokao,512
+Futuna-Aniwa,SWIM,kau,512
+Hawaiian,SWIM,ʔau,512
+Kapingamarangi,SWIM,kau,512
+Luangiua,SWIM,ʔau,512
+Mangareva,SWIM,kau,512
+Maori,SWIM,kauhoe,512
+Mele-Fila,SWIM,kaukau,512
+Niuean,SWIM,kou,512
+North_Marquesan,SWIM,kau,512
+Nukuria,SWIM,kkau,512
+Penrhyn,SWIM,kau,512
+Pukapuka,SWIM,taakele,512
+RakahangaManihiki,SWIM,kaukau,512
+Rapanui,SWIM,kau,512
+Rarotongan,SWIM,kau,512
+RennellBellona,SWIM,kakau,512
+Samoan,SWIM,ʔaʔau,512
+Sikaiana,SWIM,koukou,512
+Tahitian,SWIM,ʔau,512
+Tikopia,SWIM,kau,512
+Tongan,SWIM,kakau,512
+Tuamotuan,SWIM,kau,512
+Tuvalu,SWIM,kakau,512
+Vaeakau-Taumako,SWIM,kau,512
+Wallisian,SWIM,kau,512
+RakahangaManihiki,SWIM,hopuvai,513
+Anuta,ROPE,maea,514
+East_Futuna,ROPE,maea,514
+Kapingamarangi,ROPE,moea,514
+Luangiua,ROPE,maea,514
+Mele-Fila,ROPE,mea,514
+Nukuria,ROPE,maea,514
+Samoan,ROPE,maea,514
+Sikaiana,ROPE,maea,514
+Tikopia,ROPE,maea,514
+Tongan,ROPE,maea,514
+Tuvalu,ROPE,maea,514
+Wallisian,ROPE,maea,514
+Austral_(Ra'ivavae),ROPE,nape,515
+Austral_(Rurutuan),ROPE,taura,516
+East_Futuna,ROPE,taula,516
+Futuna-Aniwa,ROPE,taura,516
+Hawaiian,ROPE,kaula,516
+Kapingamarangi,ROPE,taura,516
+Mangareva,ROPE,toura,516
+Maori,ROPE,taura,516
+Niuean,ROPE,toua,516
+North_Marquesan,ROPE,touʔa,516
+Penrhyn,ROPE,taura,516
+Pukapuka,ROPE,taula,516
+RakahangaManihiki,ROPE,taula,516
+Rapanui,ROPE,taura,516
+Rarotongan,ROPE,taura,516
+RennellBellona,ROPE,tauɡa,516
+Tahitian,ROPE,taura,516
+Tuamotuan,ROPE,taura,516
+Wallisian,ROPE,taula,516
+Emae,ROPE,faβa,517
+Futuna-Aniwa,ROPE,vava,517
+Mele-Fila,ROPE,wawa,517
+Nukuria,ROPE,haha,517
+Mangareva,ROPE,kaka,518
+Nukuria,ROPE,uka,519
+Nukuria,ROPE,kaavei,520
+Pukapuka,ROPE,kawa,520
+Nukuria,ROPE,kaha,521
+Tuamotuan,ROPE,patoko,522
+Tuvalu,ROPE,lopu,523
+Vaeakau-Taumako,ROPE,hau,524
+Anuta,FEMALE PERSON,papine,525
+Austral_(Ra'ivavae),FEMALE PERSON,vahine,525
+Austral_(Rurutuan),FEMALE PERSON,vaʔine,525
+East_Futuna,FEMALE PERSON,fine,525
+Emae,FEMALE PERSON,fafine,525
+Futuna-Aniwa,FEMALE PERSON,fafine,525
+Hawaiian,FEMALE PERSON,wahine,525
+Kapingamarangi,FEMALE PERSON,ahina,525
+Luangiua,FEMALE PERSON,hiŋe,525
+Mangareva,FEMALE PERSON,ʔaʔine,525
+Mangareva,FEMALE PERSON,ʔine,525
+Maori,FEMALE PERSON,wahine,525
+Mele-Fila,FEMALE PERSON,tefine,525
+Niuean,FEMALE PERSON,fine,525
+Niuean,FEMALE PERSON,fifine,525
+North_Marquesan,FEMALE PERSON,hine,525
+North_Marquesan,FEMALE PERSON,vehine,525
+Nukuria,FEMALE PERSON,hahine,525
+Penrhyn,FEMALE PERSON,hine,525
+Penrhyn,FEMALE PERSON,vahine,525
+Pukapuka,FEMALE PERSON,waawine,525
+RakahangaManihiki,FEMALE PERSON,tamahine,525
+RakahangaManihiki,FEMALE PERSON,vahine,525
+Rapanui,FEMALE PERSON,bahine,525
+Rarotongan,FEMALE PERSON,ʔine,525
+Rarotongan,FEMALE PERSON,vaʔine,525
+RennellBellona,FEMALE PERSON,hine,525
+RennellBellona,FEMALE PERSON,hahine,525
+Samoan,FEMALE PERSON,fafine,525
+Sikaiana,FEMALE PERSON,hine,525
+Sikaiana,FEMALE PERSON,hahine,525
+Tahitian,FEMALE PERSON,vahine,525
+Tikopia,FEMALE PERSON,fine,525
+Tongan,FEMALE PERSON,fefine,525
+Tuamotuan,FEMALE PERSON,hiine,525
+Tuamotuan,FEMALE PERSON,vahiine,525
+Tuvalu,FEMALE PERSON,fafine,525
+Vaeakau-Taumako,FEMALE PERSON,hana,525
+Vaeakau-Taumako,FEMALE PERSON,hahine,525
+Wallisian,FEMALE PERSON,fine,525
+Rapanui,FEMALE PERSON,tama,526
+Anuta,LIE DOWN,takoto,527
+Luangiua,LIE DOWN,kaʔoko,527
+Maori,LIE DOWN,takoto,527
+Niuean,LIE DOWN,takoto,527
+Nukuria,LIE DOWN,takoto,527
+Penrhyn,LIE DOWN,takoto,527
+Pukapuka,LIE DOWN,takoto,527
+RakahangaManihiki,LIE DOWN,takato,527
+Rarotongan,LIE DOWN,ʔakatakoto,527
+Samoan,LIE DOWN,taʔoto,527
+Tahitian,LIE DOWN,taʔoto,527
+Tongan,LIE DOWN,tokoto,527
+Tuamotuan,LIE DOWN,takoto,527
+Vaeakau-Taumako,LIE DOWN,takoto,527
+Wallisian,LIE DOWN,takoto,527
+Austral_(Ra'ivavae),LIE DOWN,tiiɢaha,528
+Austral_(Rurutuan),LIE DOWN,tiiraʔa,528
+Austral_(Rurutuan),LIE DOWN,taarava,529
+Austral_(Rurutuan),LIE DOWN,tiipapa,530
+Rarotongan,LIE DOWN,ʔakatiipapa,530
+East_Futuna,LIE DOWN,moe,531
+Emae,LIE DOWN,moe,531
+Futuna-Aniwa,LIE DOWN,moe,531
+Hawaiian,LIE DOWN,hinamoe,531
+Kapingamarangi,LIE DOWN,moe,531
+Mele-Fila,LIE DOWN,moe,531
+North_Marquesan,LIE DOWN,moe,531
+Pukapuka,LIE DOWN,moekilalo,531
+Rapanui,LIE DOWN,moe,531
+Rarotongan,LIE DOWN,moe,531
+RennellBellona,LIE DOWN,moe,531
+Sikaiana,LIE DOWN,moe,531
+Tikopia,LIE DOWN,moe,531
+Tuvalu,LIE DOWN,moekilalo,531
+Mangareva,LIE DOWN,ʔakaearaŋa,532
+RakahangaManihiki,LIE DOWN,roharoha,533
+Tuvalu,LIE DOWN,fakapale,534
+Anuta,TWO,rua,535
+Austral_(Rurutuan),TWO,rua,535
+East_Futuna,TWO,lua,535
+Emae,TWO,rua,535
+Futuna-Aniwa,TWO,rua,535
+Hawaiian,TWO,lua,535
+Kapingamarangi,TWO,lua,535
+Luangiua,TWO,lua,535
+Mangareva,TWO,rua,535
+Maori,TWO,rua,535
+Mele-Fila,TWO,rua,535
+Niuean,TWO,ua,535
+North_Marquesan,TWO,ʔua,535
+Nukuria,TWO,hiaoa,535
+Penrhyn,TWO,rua,535
+Pukapuka,TWO,lua,535
+RakahangaManihiki,TWO,lua,535
+Rapanui,TWO,rua,535
+Rarotongan,TWO,rua,535
+RennellBellona,TWO,ɡua,535
+Samoan,TWO,elua,535
+Sikaiana,TWO,lua,535
+Tikopia,TWO,rua,535
+Tongan,TWO,ua,535
+Tuamotuan,TWO,rua,535
+Tuvalu,TWO,aoa,535
+Vaeakau-Taumako,TWO,lua,535
+Wallisian,TWO,lua,535
+Austral_(Ra'ivavae),TWO,piti,536
+Austral_(Rurutuan),TWO,piti,536
+Tahitian,TWO,piti,536
+Anuta,SUCK,miti,537
+Luangiua,SUCK,miki,537
+Mangareva,SUCK,miti,537
+Niuean,SUCK,miti,537
+Pukapuka,SUCK,miti,537
+RakahangaManihiki,SUCK,miti,537
+Rarotongan,SUCK,miti,537
+RennellBellona,SUCK,miti,537
+Sikaiana,SUCK,mmiti,537
+Tikopia,SUCK,miti,537
+Tuamotuan,SUCK,miti,537
+Tuvalu,SUCK,mimiti,537
+Vaeakau-Taumako,SUCK,mihikia,537
+Wallisian,SUCK,mihi,537
+Austral_(Ra'ivavae),SUCK,ʔote,538
+Austral_(Rurutuan),SUCK,ʔote,538
+Maori,SUCK,ŋote,538
+Penrhyn,SUCK,ŋote,538
+Pukapuka,SUCK,ŋote,538
+RakahangaManihiki,SUCK,ŋote,538
+Rarotongan,SUCK,ŋotea,538
+Tahitian,SUCK,ʔote,538
+East_Futuna,SUCK,momi,539
+Emae,SUCK,mumu,539
+East_Futuna,SUCK,komo,540
+Hawaiian,SUCK,omo,540
+Mangareva,SUCK,omo,540
+Mele-Fila,SUCK,tomia,540
+North_Marquesan,SUCK,omo,540
+Nukuria,SUCK,homohomo,540
+RakahangaManihiki,SUCK,fakaroroma,540
+Rapanui,SUCK,omo,540
+Tuamotuan,SUCK,ŋoŋo,540
+Futuna-Aniwa,SUCK,umi,541
+Nukuria,SUCK,umiumi,541
+RennellBellona,SUCK,umi,541
+Sikaiana,SUCK,umiumi,541
+Kapingamarangi,SUCK,u,542
+Nukuria,SUCK,uu,542
+Samoan,SUCK,susu,542
+Tongan,SUCK,huhu,542
+Rarotongan,SUCK,ʔia,543
+Tikopia,SUCK,puku,544
+Tuamotuan,SUCK,momi,545
+Wallisian,SUCK,momi,545
+Anuta,THIN,manipi,546
+East_Futuna,THIN,manifi,546
+Emae,THIN,manifinifi,546
+Futuna-Aniwa,THIN,mafinfini,546
+Luangiua,THIN,maŋihi,546
+Mele-Fila,THIN,manfinifi,546
+RennellBellona,THIN,maanihi,546
+Samoan,THIN,manifi,546
+Tikopia,THIN,nifi,546
+Tongan,THIN,manifi,546
+Vaeakau-Taumako,THIN,manihi,546
+Wallisian,THIN,manifi,546
+Austral_(Ra'ivavae),THIN,ɢaiɢai,547
+Austral_(Rurutuan),THIN,rairai,547
+Hawaiian,THIN,lahi,547
+Kapingamarangi,THIN,rahirahi,547
+Maori,THIN,rahirahi,547
+North_Marquesan,THIN,piʔahiʔahi,547
+Nukuria,THIN,rrahi,547
+Pukapuka,THIN,lalawi,547
+RakahangaManihiki,THIN,rahirahi,547
+Rapanui,THIN,raʔi,547
+Rarotongan,THIN,rairai,547
+Tahitian,THIN,rairai,547
+Tuamotuan,THIN,rahi,547
+Mangareva,THIN,rikiriki,548
+Niuean,THIN,aleale,549
+North_Marquesan,THIN,ʔakiaki,550
+RakahangaManihiki,THIN,aŋiaŋi,550
+Rarotongan,THIN,aŋiaŋi,550
+North_Marquesan,THIN,kahikahi,551
+Nukuria,THIN,tuarikiriki,552
+Sikaiana,THIN,tualiki,552
+Tuvalu,THIN,tuaniki,552
+Pukapuka,THIN,tutule,553
+Anuta,WHAT,aa,554
+Austral_(Ra'ivavae),WHAT,aha,554
+Austral_(Rurutuan),WHAT,aʔa,554
+East_Futuna,WHAT,aa,554
+Futuna-Aniwa,WHAT,aha,554
+Hawaiian,WHAT,aha,554
+Kapingamarangi,WHAT,aha,554
+Luangiua,WHAT,kea,554
+Mangareva,WHAT,aʔa,554
+Maori,WHAT,aha,554
+Mele-Fila,WHAT,afa,554
+Niuean,WHAT,haa,554
+North_Marquesan,WHAT,aha,554
+Nukuria,WHAT,heaa,554
+Penrhyn,WHAT,aha,554
+RakahangaManihiki,WHAT,eaha,554
+Rapanui,WHAT,aha,554
+Rarotongan,WHAT,aʔa,554
+RennellBellona,WHAT,aa,554
+Sikaiana,WHAT,aa,554
+Tahitian,WHAT,eaha,554
+Tikopia,WHAT,aa,554
+Tongan,WHAT,haa,554
+Tuamotuan,WHAT,aha,554
+Tuvalu,WHAT,aa,554
+Vaeakau-Taumako,WHAT,aa,554
+Wallisian,WHAT,aa,554
+Emae,WHAT,rea,555
+Pukapuka,WHAT,wea,555
+Samoan,WHAT,ʔoleaa,555
+Anuta,STAR,petuu,556
+Austral_(Ra'ivavae),STAR,hetiʔa,556
+Austral_(Rurutuan),STAR,fetiʔa,556
+East_Futuna,STAR,fetuʔu,556
+Emae,STAR,fetu,556
+Futuna-Aniwa,STAR,fatuu,556
+Hawaiian,STAR,hookuoːku,556
+Kapingamarangi,STAR,heduu,556
+Luangiua,STAR,heku,556
+Mangareva,STAR,ʔetu,556
+Maori,STAR,fetuu,556
+Niuean,STAR,fetuu,556
+North_Marquesan,STAR,fetoe,556
+Nukuria,STAR,hetuu,556
+Penrhyn,STAR,hetuu,556
+Pukapuka,STAR,wetuu,556
+RakahangaManihiki,STAR,feetueːtu,556
+Rapanui,STAR,hetuʔu,556
+Rarotongan,STAR,ʔeetueːtu,556
+RennellBellona,STAR,hetuʔu,556
+Samoan,STAR,fetuu,556
+Sikaiana,STAR,hetuu,556
+Tahitian,STAR,fetiʔa,556
+Tikopia,STAR,fetuu,556
+Tongan,STAR,fetuʔu,556
+Tuamotuan,STAR,hetuu,556
+Tuvalu,STAR,fetuu,556
+Vaeakau-Taumako,STAR,hetuu,556
+Wallisian,STAR,fetuʔu,556
+Mele-Fila,STAR,masoi,557
+Pukapuka,STAR,mata,558
+RakahangaManihiki,STAR,vairaŋakaveiŋa,559
+Anuta,BLOOD,toto,560
+Austral_(Ra'ivavae),BLOOD,toto,560
+Austral_(Rurutuan),BLOOD,toto,560
+East_Futuna,BLOOD,toto,560
+Emae,BLOOD,toto,560
+Futuna-Aniwa,BLOOD,toto,560
+Hawaiian,BLOOD,koko,560
+Kapingamarangi,BLOOD,dodo,560
+Luangiua,BLOOD,koko,560
+Mangareva,BLOOD,toto,560
+Maori,BLOOD,toto,560
+Mele-Fila,BLOOD,atoto,560
+Niuean,BLOOD,toto,560
+North_Marquesan,BLOOD,toto,560
+Nukuria,BLOOD,toto,560
+Penrhyn,BLOOD,toto,560
+Pukapuka,BLOOD,toto,560
+RakahangaManihiki,BLOOD,toto,560
+Rapanui,BLOOD,toto,560
+Rarotongan,BLOOD,toto,560
+RennellBellona,BLOOD,toto,560
+Samoan,BLOOD,toto,560
+Tahitian,BLOOD,toto,560
+Tikopia,BLOOD,toto,560
+Tongan,BLOOD,toto,560
+Tuamotuan,BLOOD,toto,560
+Tuvalu,BLOOD,toto,560
+Vaeakau-Taumako,BLOOD,toto,560
+Wallisian,BLOOD,toto,560
+Sikaiana,BLOOD,haeko,561
+Tuvalu,BLOOD,kelakela,562
+Anuta,SAY,karaŋa,563
+Rarotongan,SAY,karaŋa,563
+Austral_(Ra'ivavae),SAY,paɢaupaɢau,564
+Austral_(Rurutuan),SAY,parau,564
+North_Marquesan,SAY,peʔau,564
+Tahitian,SAY,parau,564
+Tuamotuan,SAY,parau,564
+East_Futuna,SAY,pati,565
+Emae,SAY,muna,566
+Nukuria,SAY,hua,566
+Tikopia,SAY,muna,566
+Futuna-Aniwa,SAY,tuku,567
+Mele-Fila,SAY,tokua,567
+Tuvalu,SAY,taku,567
+Vaeakau-Taumako,SAY,tukua,567
+Hawaiian,SAY,ʔoolelo,568
+Maori,SAY,koorero,568
+Rarotongan,SAY,koorero,568
+Kapingamarangi,SAY,tapa,569
+Luangiua,SAY,kakala,570
+Samoan,SAY,tautala,570
+Sikaiana,SAY,taatala,570
+Luangiua,SAY,meaʔe,571
+Mangareva,SAY,ki,572
+RakahangaManihiki,SAY,ki,572
+Rapanui,SAY,kii,572
+Niuean,SAY,kepehe,573
+Tongan,SAY,pehee,573
+North_Marquesan,SAY,tekao,574
+Nukuria,SAY,hai,575
+Tuvalu,SAY,faipati,575
+Pukapuka,SAY,mea,576
+Rarotongan,SAY,tuatua,577
+RennellBellona,SAY,heŋɡeu,578
+Anuta,BLACK,uri,579
+East_Futuna,BLACK,ʔuli,579
+Emae,BLACK,uri,579
+Futuna-Aniwa,BLACK,uri,579
+Kapingamarangi,BLACK,uli,579
+Luangiua,BLACK,ʔuli,579
+Mangareva,BLACK,uri,579
+Niuean,BLACK,uli,579
+Penrhyn,BLACK,uri,579
+Pukapuka,BLACK,uli,579
+RakahangaManihiki,BLACK,uriuri,579
+Rarotongan,BLACK,uri,579
+RennellBellona,BLACK,ʔuɡi,579
+Samoan,BLACK,uliuli,579
+Sikaiana,BLACK,uli,579
+Tikopia,BLACK,uri,579
+Tongan,BLACK,ʔuliʔuli,579
+Tuamotuan,BLACK,uri,579
+Tuvalu,BLACK,uli,579
+Vaeakau-Taumako,BLACK,uli,579
+Wallisian,BLACK,ʔuli,579
+Austral_(Ra'ivavae),BLACK,ʔeɢeʔeɢe,580
+Austral_(Rurutuan),BLACK,ʔereʔere,580
+Hawaiian,BLACK,ʔeleʔele,580
+Mangareva,BLACK,kerekere,580
+RakahangaManihiki,BLACK,kerekere,580
+Rapanui,BLACK,kerekere,580
+Rarotongan,BLACK,kere,580
+Tahitian,BLACK,ʔereʔere,580
+Tuamotuan,BLACK,kere,580
+Maori,BLACK,maŋu,581
+Mele-Fila,BLACK,paku,582
+North_Marquesan,BLACK,hivahiva,583
+Rarotongan,BLACK,ʔiva,583
+Tuamotuan,BLACK,hiva,583
+Nukuria,BLACK,riparara,584
+Anuta,YELLOW,teteŋa,585
+Austral_(Ra'ivavae),YELLOW,ɢeʔaɢeʔa,586
+Austral_(Rurutuan),YELLOW,reʔareʔa,586
+Hawaiian,YELLOW,lena,586
+Penrhyn,YELLOW,reŋareŋa,586
+RakahangaManihiki,YELLOW,reŋa,586
+Rarotongan,YELLOW,reŋareŋa,586
+Samoan,YELLOW,leɡa,586
+Tahitian,YELLOW,reʔareʔa,586
+Tongan,YELLOW,eŋeeŋa,586
+Tuamotuan,YELLOW,reŋareŋa,586
+Wallisian,YELLOW,leɡaleɡa,586
+East_Futuna,YELLOW,felo,587
+Emae,YELLOW,ferofero,587
+Futuna-Aniwa,YELLOW,fero,587
+Luangiua,YELLOW,helo,587
+RennellBellona,YELLOW,heɡoheɡo,587
+Sikaiana,YELLOW,felo,587
+Tikopia,YELLOW,fero,587
+Tuvalu,YELLOW,fefelo,587
+Vaeakau-Taumako,YELLOW,helo,587
+Futuna-Aniwa,YELLOW,rauneaʰleu,588
+Kapingamarangi,YELLOW,laupuke,589
+Mangareva,YELLOW,reŋareŋa,590
+Maori,YELLOW,koofai,591
+Mele-Fila,YELLOW,maloloa,592
+Niuean,YELLOW,aɡo,593
+North_Marquesan,YELLOW,tokatoka,594
+Nukuria,YELLOW,vaiano,595
+Pukapuka,YELLOW,jeŋajeŋa,596
+Rapanui,YELLOW,para,597
+Samoan,YELLOW,saamasama,598
+Tuvalu,YELLOW,sama,598
+Tikopia,YELLOW,seŋa,599
+Tuvalu,YELLOW,heɡaheɡa,599
+Anuta,WARM,mapanapana,600
+Austral_(Rurutuan),WARM,maaʔanaʔana,600
+East_Futuna,WARM,maafana,600
+Emae,WARM,mafanafana,600
+Futuna-Aniwa,WARM,mafana,600
+Hawaiian,WARM,hahana,600
+Kapingamarangi,WARM,mahana,600
+Luangiua,WARM,mahaŋa,600
+Mangareva,WARM,maʔana,600
+Maori,WARM,mahana,600
+Niuean,WARM,mafana,600
+North_Marquesan,WARM,haʔamaahanahana,600
+Nukuria,WARM,mahana,600
+Penrhyn,WARM,mahana,600
+Pukapuka,WARM,maajana,600
+RakahangaManihiki,WARM,mahana,600
+Rapanui,WARM,mahana,600
+Rapanui,WARM,hana,600
+Rarotongan,WARM,maʔana,600
+RennellBellona,WARM,mahana,600
+Sikaiana,WARM,maahana,600
+Tahitian,WARM,maahanahana,600
+Tikopia,WARM,mafana,600
+Tongan,WARM,mafana,600
+Tuamotuan,WARM,mahana,600
+Tuvalu,WARM,mafana,600
+Vaeakau-Taumako,WARM,mahana,600
+Wallisian,WARM,mafana,600
+Austral_(Ra'ivavae),WARM,veʔaveʔa,601
+Austral_(Rurutuan),WARM,veravera,601
+Hawaiian,WARM,wela,601
+Mele-Fila,WARM,wera,601
+Pukapuka,WARM,vela,601
+Samoan,WARM,vela,601
+Tuvalu,WARM,mavelavela,601
+Anuta,SAND,kere,602
+Luangiua,SAND,ʔele,602
+Nukuria,SAND,kerekere,602
+Pukapuka,SAND,kelekele,602
+Austral_(Ra'ivavae),SAND,one,603
+Austral_(Rurutuan),SAND,one,603
+East_Futuna,SAND,ʔone,603
+Emae,SAND,one,603
+Futuna-Aniwa,SAND,one,603
+Hawaiian,SAND,one,603
+Kapingamarangi,SAND,one,603
+Mangareva,SAND,one,603
+Maori,SAND,one,603
+Mele-Fila,SAND,waraune,603
+Niuean,SAND,one,603
+North_Marquesan,SAND,one,603
+Penrhyn,SAND,one,603
+Pukapuka,SAND,one,603
+RakahangaManihiki,SAND,one,603
+Rapanui,SAND,one,603
+Rarotongan,SAND,one,603
+RennellBellona,SAND,ʔone,603
+Samoan,SAND,oneone,603
+Sikaiana,SAND,one,603
+Tahitian,SAND,one,603
+Tikopia,SAND,one,603
+Tongan,SAND,ʔoneʔone,603
+Tuamotuan,SAND,one,603
+Tuvalu,SAND,fuu,603
+Vaeakau-Taumako,SAND,one,603
+Wallisian,SAND,one,603
+Pukapuka,SAND,tini,604
+Anuta,TONGUE,arero,605
+Austral_(Ra'ivavae),TONGUE,aɢeɢo,605
+Austral_(Rurutuan),TONGUE,arero,605
+East_Futuna,TONGUE,ʔalelo,605
+Emae,TONGUE,arero,605
+Futuna-Aniwa,TONGUE,rero,605
+Hawaiian,TONGUE,alelo,605
+Kapingamarangi,TONGUE,horore,605
+Luangiua,TONGUE,alelo,605
+Mangareva,TONGUE,arero,605
+Maori,TONGUE,arero,605
+Niuean,TONGUE,alelo,605
+North_Marquesan,TONGUE,aʔeʔo,605
+Nukuria,TONGUE,arero,605
+Penrhyn,TONGUE,arero,605
+Pukapuka,TONGUE,alelo,605
+RakahangaManihiki,TONGUE,alelo,605
+Rapanui,TONGUE,arero,605
+Rarotongan,TONGUE,arero,605
+RennellBellona,TONGUE,ʔaɡeɡo,605
+Samoan,TONGUE,alelo,605
+Sikaiana,TONGUE,alelo,605
+Tahitian,TONGUE,arero,605
+Tikopia,TONGUE,alelo,605
+Tongan,TONGUE,ʔelelo,605
+Tuamotuan,TONGUE,arero,605
+Tuvalu,TONGUE,alelo,605
+Vaeakau-Taumako,TONGUE,alelo,605
+Wallisian,TONGUE,ʔalelo,605
+Mele-Fila,TONGUE,limena,606
+Anuta,NEAR,nei,607
+East_Futuna,NEAR,nei,607
+Luangiua,NEAR,ŋei,607
+Austral_(Rurutuan),NEAR,ʔatata,608
+Futuna-Aniwa,NEAR,tata,608
+Mangareva,NEAR,tata,608
+Maori,NEAR,tata,608
+Mele-Fila,NEAR,etata,608
+Niuean,NEAR,tata,608
+North_Marquesan,NEAR,tata,608
+Penrhyn,NEAR,tata,608
+Pukapuka,NEAR,vaatata,608
+RakahangaManihiki,NEAR,taha,608
+Rarotongan,NEAR,tata,608
+Samoan,NEAR,lata,608
+Tahitian,NEAR,faatata,608
+Tuamotuan,NEAR,tata,608
+Wallisian,NEAR,tata,608
+East_Futuna,NEAR,ofi,609
+Tongan,NEAR,ofi,609
+Emae,NEAR,fefetai,610
+Rapanui,NEAR,tupuaki,610
+Hawaiian,NEAR,kokoke,611
+Kapingamarangi,NEAR,hoho,612
+Nukuria,NEAR,taupirimai,613
+Pukapuka,NEAR,pili,613
+Sikaiana,NEAR,taupili,613
+Tikopia,NEAR,piri,613
+Tuvalu,NEAR,pili,613
+Rapanui,NEAR,hahine,614
+RennellBellona,NEAR,hitaiaki,615
+Vaeakau-Taumako,NEAR,leuetʰaki,615
+Samoan,NEAR,vaalata,616
+Samoan,NEAR,tafatafa,617
+Anuta,FOUR,paa,618
+Austral_(Ra'ivavae),FOUR,maha,618
+Austral_(Rurutuan),FOUR,ʔa,618
+East_Futuna,FOUR,faa,618
+Emae,FOUR,fa,618
+Futuna-Aniwa,FOUR,fa,618
+Hawaiian,FOUR,haa,618
+Kapingamarangi,FOUR,haa,618
+Luangiua,FOUR,haa,618
+Mangareva,FOUR,ʔa,618
+Maori,FOUR,faa,618
+Mele-Fila,FOUR,efa,618
+Niuean,FOUR,faa,618
+North_Marquesan,FOUR,faa,618
+Nukuria,FOUR,haa,618
+Penrhyn,FOUR,haa,618
+Pukapuka,FOUR,waa,618
+RakahangaManihiki,FOUR,faa,618
+Rapanui,FOUR,ha,618
+Rarotongan,FOUR,ʔaa,618
+RennellBellona,FOUR,haa,618
+Samoan,FOUR,efaa,618
+Sikaiana,FOUR,haa,618
+Tahitian,FOUR,maha,618
+Tikopia,FOUR,faa,618
+Tongan,FOUR,faa,618
+Tuamotuan,FOUR,haa,618
+Tuvalu,FOUR,faa,618
+Vaeakau-Taumako,FOUR,haa,618
+Wallisian,FOUR,faa,618
+Anuta,GREEN,kepu,619
+Tikopia,GREEN,kefu,619
+Anuta,GREEN,mata,620
+Emae,GREEN,matamata,620
+Austral_(Ra'ivavae),GREEN,matie,621
+Austral_(Rurutuan),GREEN,matie,621
+Futuna-Aniwa,GREEN,rauneamaʰmata,621
+Penrhyn,GREEN,matie,621
+Rapanui,GREEN,mata,621
+Rarotongan,GREEN,taamatie,621
+Rarotongan,GREEN,ʔakamatie,621
+Samoan,GREEN,lanumeamata,621
+Sikaiana,GREEN,moto,621
+Tahitian,GREEN,matie,621
+Tikopia,GREEN,mata,621
+Tongan,GREEN,lanumata,621
+Tuamotuan,GREEN,matie,621
+East_Futuna,GREEN,moto,622
+Futuna-Aniwa,GREEN,moto,622
+Mangareva,GREEN,moto,622
+RennellBellona,GREEN,moto,622
+Wallisian,GREEN,moto,622
+Hawaiian,GREEN,maʔomaʔo,623
+Luangiua,GREEN,kea,624
+Maori,GREEN,kaakaaːkariki,625
+Mele-Fila,GREEN,keskesa,626
+Niuean,GREEN,lanulaukou,627
+Tuvalu,GREEN,lanulauniu,627
+North_Marquesan,GREEN,ʔoutiteʔe,628
+Nukuria,GREEN,uri,629
+Samoan,GREEN,usiusi,629
+Vaeakau-Taumako,GREEN,uiui,629
+Pukapuka,GREEN,ujiŋele,630
+Tahitian,GREEN,niinamu,631
+Anuta,WING,kapakau,632
+East_Futuna,WING,kapakau,632
+Emae,WING,pakakau,632
+Futuna-Aniwa,WING,pakau,632
+Hawaiian,WING,ʔeeheu,632
+Kapingamarangi,WING,bakaumanu,632
+Luangiua,WING,apaʔau,632
+Mangareva,WING,pehau,632
+Mele-Fila,WING,pekau,632
+Niuean,WING,peehau,632
+Niuean,WING,tapakau,632
+North_Marquesan,WING,pekeu,632
+Nukuria,WING,kapakau,632
+Pukapuka,WING,pakajau,632
+Pukapuka,WING,kapakapa,632
+Rarotongan,WING,peeʔau,632
+RennellBellona,WING,kapakau,632
+Samoan,WING,ʔapaʔau,632
+Sikaiana,WING,kapakau,632
+Tikopia,WING,kapakau,632
+Tongan,WING,kapakau,632
+Tuvalu,WING,kapakau,632
+Vaeakau-Taumako,WING,kapakau,632
+Wallisian,WING,kapakau,632
+Austral_(Ra'ivavae),WING,maiti,633
+Austral_(Rurutuan),WING,pererau,634
+Mangareva,WING,pererau,634
+Maori,WING,parirau,634
+Penrhyn,WING,pererau,634
+RakahangaManihiki,WING,paehau,634
+Tahitian,WING,pererau,634
+Tuamotuan,WING,pererau,634
+Rapanui,WING,karʔa,635
+Anuta,EYE,mata,636
+Austral_(Ra'ivavae),EYE,mata,636
+Austral_(Rurutuan),EYE,mata,636
+East_Futuna,EYE,mata,636
+Emae,EYE,mata,636
+Futuna-Aniwa,EYE,mata,636
+Hawaiian,EYE,maka,636
+Kapingamarangi,EYE,mata,636
+Mangareva,EYE,mata,636
+Maori,EYE,mata,636
+Mele-Fila,EYE,mata,636
+Niuean,EYE,mata,636
+North_Marquesan,EYE,mata,636
+Nukuria,EYE,kanamata,636
+Penrhyn,EYE,mata,636
+Pukapuka,EYE,mata,636
+RakahangaManihiki,EYE,mata,636
+Rapanui,EYE,mata,636
+Rarotongan,EYE,mata,636
+RennellBellona,EYE,mata,636
+Samoan,EYE,mata,636
+Tahitian,EYE,mata,636
+Tikopia,EYE,mata,636
+Tongan,EYE,mata,636
+Tuamotuan,EYE,mata,636
+Tuvalu,EYE,mata,636
+Vaeakau-Taumako,EYE,mata,636
+Wallisian,EYE,mata,636
+Luangiua,EYE,maka,637
+Sikaiana,EYE,kale,637
+North_Marquesan,EYE,korohi,638
+RakahangaManihiki,EYE,kanohi,638
+Rarotongan,EYE,kanoʔi,638
+Anuta,FLESH OR MEAT,kanofi,639
+East_Futuna,FLESH OR MEAT,kanofi,639
+Emae,FLESH OR MEAT,kanmate,639
+Futuna-Aniwa,FLESH OR MEAT,kʰano,639
+Kapingamarangi,FLESH OR MEAT,kano,639
+Luangiua,FLESH OR MEAT,aŋohi,639
+Niuean,FLESH OR MEAT,kakano,639
+Nukuria,FLESH OR MEAT,kanohi,639
+RennellBellona,FLESH OR MEAT,kano,639
+Samoan,FLESH OR MEAT,ʔaʔano,639
+Tikopia,FLESH OR MEAT,kanofi,639
+Tongan,FLESH OR MEAT,kano,639
+Tuvalu,FLESH OR MEAT,kanofi,639
+Austral_(Ra'ivavae),FLESH OR MEAT,ʔiʔo,640
+Austral_(Rurutuan),FLESH OR MEAT,ʔiʔo,640
+Hawaiian,FLESH OR MEAT,ʔiʔo,640
+Mangareva,FLESH OR MEAT,kiko,640
+Maori,FLESH OR MEAT,kiko,640
+Niuean,FLESH OR MEAT,kiko,640
+North_Marquesan,FLESH OR MEAT,kiko,640
+Penrhyn,FLESH OR MEAT,kiko,640
+Pukapuka,FLESH OR MEAT,kiko,640
+RakahangaManihiki,FLESH OR MEAT,kiko,640
+Rapanui,FLESH OR MEAT,kiko,640
+Rarotongan,FLESH OR MEAT,kiko,640
+Samoan,FLESH OR MEAT,ʔiʔo,640
+Sikaiana,FLESH OR MEAT,io,640
+Tahitian,FLESH OR MEAT,ʔiʔo,640
+Tuamotuan,FLESH OR MEAT,kiko,640
+Vaeakau-Taumako,FLESH OR MEAT,io,640
+Austral_(Rurutuan),FLESH OR MEAT,ʔiinaʔi,641
+Mele-Fila,FLESH OR MEAT,pakasi,642
+Wallisian,FLESH OR MEAT,meʔakai,643
+Anuta,FAT (ORGANIC SUBSTANCE),momona,644
+Hawaiian,FAT (ORGANIC SUBSTANCE),momona,644
+Nukuria,FAT (ORGANIC SUBSTANCE),moomona,644
+Samoan,FAT (ORGANIC SUBSTANCE),momona,644
+Austral_(Ra'ivavae),FAT (ORGANIC SUBSTANCE),poɢia,645
+Austral_(Rurutuan),FAT (ORGANIC SUBSTANCE),miʔi,646
+Tahitian,FAT (ORGANIC SUBSTANCE),miʔi,646
+East_Futuna,FAT (ORGANIC SUBSTANCE),ɡako,647
+Emae,FAT (ORGANIC SUBSTANCE),ŋako,647
+Futuna-Aniwa,FAT (ORGANIC SUBSTANCE),ŋako,647
+Maori,FAT (ORGANIC SUBSTANCE),ŋako,647
+Niuean,FAT (ORGANIC SUBSTANCE),ɡako,647
+Pukapuka,FAT (ORGANIC SUBSTANCE),ŋako,647
+Rapanui,FAT (ORGANIC SUBSTANCE),nako,647
+Rarotongan,FAT (ORGANIC SUBSTANCE),ŋako,647
+RennellBellona,FAT (ORGANIC SUBSTANCE),ŋako,647
+Samoan,FAT (ORGANIC SUBSTANCE),ŋaʔo,647
+Tongan,FAT (ORGANIC SUBSTANCE),ŋako,647
+Tuvalu,FAT (ORGANIC SUBSTANCE),ɡako,647
+Kapingamarangi,FAT (ORGANIC SUBSTANCE),kiris,648
+Luangiua,FAT (ORGANIC SUBSTANCE),sunu,649
+Mangareva,FAT (ORGANIC SUBSTANCE),hinu,649
+Niuean,FAT (ORGANIC SUBSTANCE),huni,649
+North_Marquesan,FAT (ORGANIC SUBSTANCE),hinuʔama,649
+Penrhyn,FAT (ORGANIC SUBSTANCE),sunu,649
+Rarotongan,FAT (ORGANIC SUBSTANCE),ʔinu,649
+Samoan,FAT (ORGANIC SUBSTANCE),suni,649
+Sikaiana,FAT (ORGANIC SUBSTANCE),sinu,649
+Tikopia,FAT (ORGANIC SUBSTANCE),sinu,649
+Tuamotuan,FAT (ORGANIC SUBSTANCE),hinu,649
+Wallisian,FAT (ORGANIC SUBSTANCE),huni,649
+Mangareva,FAT (ORGANIC SUBSTANCE),matatere,650
+Mele-Fila,FAT (ORGANIC SUBSTANCE),kanainai,651
+North_Marquesan,FAT (ORGANIC SUBSTANCE),kerehi,652
+Pukapuka,FAT (ORGANIC SUBSTANCE),tooŋaoːŋaua,653
+Pukapuka,FAT (ORGANIC SUBSTANCE),matuu,654
+Vaeakau-Taumako,FAT (ORGANIC SUBSTANCE),utouto,655
+Anuta,LIVER,ate,656
+Austral_(Rurutuan),LIVER,ate,656
+East_Futuna,LIVER,ʔate,656
+Emae,LIVER,ate,656
+Futuna-Aniwa,LIVER,ate,656
+Hawaiian,LIVER,ake,656
+Kapingamarangi,LIVER,ade,656
+Luangiua,LIVER,ʔate,656
+Mangareva,LIVER,ate,656
+Maori,LIVER,ate,656
+Mele-Fila,LIVER,ate,656
+Niuean,LIVER,ate,656
+North_Marquesan,LIVER,ate,656
+Nukuria,LIVER,ate,656
+Penrhyn,LIVER,ate,656
+Pukapuka,LIVER,ate,656
+RakahangaManihiki,LIVER,ate,656
+Rapanui,LIVER,ate,656
+Rarotongan,LIVER,ate,656
+RennellBellona,LIVER,ʔate,656
+Samoan,LIVER,ate,656
+Sikaiana,LIVER,ate,656
+Tikopia,LIVER,ate,656
+Tongan,LIVER,ʔate,656
+Tuamotuan,LIVER,ate,656
+Tuvalu,LIVER,ate,656
+Vaeakau-Taumako,LIVER,ate,656
+Wallisian,LIVER,ʔate,656
+Austral_(Ra'ivavae),LIVER,ʔuupaʔa,657
+Austral_(Rurutuan),LIVER,ʔupaʔa,657
+Tahitian,LIVER,ʔupaʔa,657
+Mangareva,LIVER,kakaroumei,658
+Anuta,EAR,tariŋa,659
+Austral_(Ra'ivavae),EAR,taɢiʔa,659
+Austral_(Rurutuan),EAR,tariʔa,659
+East_Futuna,EAR,taliɡa,659
+Emae,EAR,tariŋa,659
+Futuna-Aniwa,EAR,tariŋa,659
+Kapingamarangi,EAR,daliŋa,659
+Luangiua,EAR,kaliŋa,659
+Mangareva,EAR,tariŋa,659
+Maori,EAR,tariŋa,659
+Mele-Fila,EAR,teriŋa,659
+Niuean,EAR,teliŋa,659
+Nukuria,EAR,kautarina,659
+Penrhyn,EAR,tariŋa,659
+Pukapuka,EAR,taliŋa,659
+RakahangaManihiki,EAR,tariŋa,659
+Rapanui,EAR,tariɡa,659
+Rarotongan,EAR,tariŋa,659
+RennellBellona,EAR,taɡiŋa,659
+Samoan,EAR,taliŋa,659
+Sikaiana,EAR,talina,659
+Tahitian,EAR,tariʔa,659
+Tikopia,EAR,tariŋa,659
+Tongan,EAR,teliŋa,659
+Tuamotuan,EAR,tariŋa,659
+Tuvalu,EAR,taliɡa,659
+Vaeakau-Taumako,EAR,taliŋa,659
+Wallisian,EAR,taliɡa,659
+Hawaiian,EAR,pepeiao,660
+North_Marquesan,EAR,pua,661
+Anuta,HEAD,uru,662
+East_Futuna,HEAD,ʔulu,662
+Emae,HEAD,nauru,662
+Futuna-Aniwa,HEAD,uru,662
+Niuean,HEAD,ulu,662
+North_Marquesan,HEAD,uʔu,662
+Pukapuka,HEAD,ulu,662
+RakahangaManihiki,HEAD,ulu,662
+RennellBellona,HEAD,ʔuɡu,662
+Samoan,HEAD,ulu,662
+Tongan,HEAD,ʔulu,662
+Tuamotuan,HEAD,uru,662
+Tuvalu,HEAD,ulu,662
+Wallisian,HEAD,ʔulu,662
+Austral_(Ra'ivavae),HEAD,upoʔo,663
+Austral_(Rurutuan),HEAD,upoʔo,663
+Hawaiian,HEAD,poʔo,663
+Kapingamarangi,HEAD,liboɡo,663
+Luangiua,HEAD,poho,663
+Mangareva,HEAD,upoko,663
+Maori,HEAD,upoko,663
+North_Marquesan,HEAD,upoko,663
+Nukuria,HEAD,pokouru,663
+Penrhyn,HEAD,upoko,663
+RakahangaManihiki,HEAD,upoko,663
+Rapanui,HEAD,puoko,663
+Rarotongan,HEAD,upoko,663
+Sikaiana,HEAD,poho,663
+Tahitian,HEAD,upoʔo,663
+Tikopia,HEAD,poko,663
+Tuamotuan,HEAD,upoko,663
+Tuvalu,HEAD,piho,663
+Vaeakau-Taumako,HEAD,pihoulu,663
+Austral_(Rurutuan),HEAD,pao,664
+Mangareva,HEAD,oʔo,665
+Mele-Fila,HEAD,kele,666
+Anuta,EARTH (SOIL),kerekere,667
+East_Futuna,EARTH (SOIL),kele,667
+Emae,EARTH (SOIL),kere,667
+Futuna-Aniwa,EARTH (SOIL),kere,667
+Kapingamarangi,EARTH (SOIL),ɡele,667
+Luangiua,EARTH (SOIL),ʔele,667
+Maori,EARTH (SOIL),kere,667
+Mele-Fila,EARTH (SOIL),kere,667
+Niuean,EARTH (SOIL),kele,667
+Nukuria,EARTH (SOIL),kerekere,667
+Pukapuka,EARTH (SOIL),kelekele,667
+RennellBellona,EARTH (SOIL),keɡe,667
+Sikaiana,EARTH (SOIL),kele,667
+Tikopia,EARTH (SOIL),kere,667
+Tongan,EARTH (SOIL),kelekele,667
+Tuvalu,EARTH (SOIL),kele,667
+Wallisian,EARTH (SOIL),kele,667
+Austral_(Ra'ivavae),EARTH (SOIL),ɢepo,668
+Austral_(Rurutuan),EARTH (SOIL),repo,668
+Hawaiian,EARTH (SOIL),lepo,668
+Mangareva,EARTH (SOIL),repo,668
+Maori,EARTH (SOIL),repo,668
+North_Marquesan,EARTH (SOIL),ʔepo,668
+Penrhyn,EARTH (SOIL),repo,668
+Rapanui,EARTH (SOIL),repo,668
+Rarotongan,EARTH (SOIL),repo,668
+Tahitian,EARTH (SOIL),repo,668
+Tuamotuan,EARTH (SOIL),repo,668
+Hawaiian,EARTH (SOIL),honua,669
+Maori,EARTH (SOIL),oneone,670
+Rapanui,EARTH (SOIL),one,670
+Vaeakau-Taumako,EARTH (SOIL),tuaone,670
+Pukapuka,EARTH (SOIL),palapala,671
+Vaeakau-Taumako,EARTH (SOIL),pela,671
+Samoan,EARTH (SOIL),lalolaŋi,672
+Anuta,THEY,naaua,673
+Austral_(Ra'ivavae),THEY,ɢaaua,673
+Austral_(Rurutuan),THEY,raaua,673
+East_Futuna,THEY,laa,673
+Emae,THEY,raua,673
+Futuna-Aniwa,THEY,kiraua,673
+Hawaiian,THEY,laaua,673
+Luangiua,THEY,laaua,673
+Maori,THEY,raaua,673
+Mele-Fila,THEY,raua,673
+Niuean,THEY,maua,673
+Nukuria,THEY,laaua,673
+Pukapuka,THEY,laaua,673
+RakahangaManihiki,THEY,raaua,673
+Rapanui,THEY,raʔua,673
+Rarotongan,THEY,raaua,673
+RennellBellona,THEY,kiŋɡaaua,673
+Samoan,THEY,laaʔua,673
+Sikaiana,THEY,laaua,673
+Tahitian,THEY,raaua,673
+Tikopia,THEY,raua,673
+Tuvalu,THEY,laatou,673
+Vaeakau-Taumako,THEY,lʰaua,673
+Wallisian,THEY,naaua,673
+Austral_(Ra'ivavae),THEY,ɢaatou,674
+Austral_(Rurutuan),THEY,raatou,674
+East_Futuna,THEY,lotou,674
+Emae,THEY,ratou,674
+Hawaiian,THEY,laakou,674
+Luangiua,THEY,laakou,674
+Mangareva,THEY,raaua,674
+Maori,THEY,raatou,674
+Mele-Fila,THEY,ratou,674
+North_Marquesan,THEY,ʔatou,674
+Nukuria,THEY,laatou,674
+Pukapuka,THEY,laatou,674
+RakahangaManihiki,THEY,raatou,674
+Rarotongan,THEY,raatou,674
+RennellBellona,THEY,kiŋɡatou,674
+Samoan,THEY,laatou,674
+Sikaiana,THEY,laatou,674
+Tahitian,THEY,raatou,674
+Tikopia,THEY,ratou,674
+Tongan,THEY,kinautolu,674
+Vaeakau-Taumako,THEY,lʰatou,674
+Kapingamarangi,THEY,tikaula,675
+Mangareva,THEY,raatou,676
+Anuta,FALL,remo,677
+Vaeakau-Taumako,FALL,emo,677
+Austral_(Ra'ivavae),FALL,topa,678
+Austral_(Rurutuan),FALL,topa,678
+Mangareva,FALL,topa,678
+North_Marquesan,FALL,topa,678
+RakahangaManihiki,FALL,topa,678
+Rapanui,FALL,topa,678
+Rarotongan,FALL,topa,678
+Tahitian,FALL,topa,678
+Tuamotuan,FALL,topa,678
+Austral_(Rurutuan),FALL,marua,679
+East_Futuna,FALL,too,680
+Emae,FALL,to,680
+Pukapuka,FALL,too,680
+RennellBellona,FALL,too,680
+Samoan,FALL,too,680
+Tongan,FALL,too,680
+Tuvalu,FALL,too,680
+East_Futuna,FALL,siɡa,681
+Kapingamarangi,FALL,hiŋa,681
+Luangiua,FALL,siŋa,681
+North_Marquesan,FALL,hina,681
+Penrhyn,FALL,siŋa,681
+Pukapuka,FALL,jiijiŋa,681
+Rapanui,FALL,hiɡa,681
+Rarotongan,FALL,ʔiŋa,681
+Sikaiana,FALL,sina,681
+Tikopia,FALL,siŋa,681
+Tuamotuan,FALL,hiŋa,681
+Wallisian,FALL,hiɡa,681
+East_Futuna,FALL,malele,682
+Mangareva,FALL,marere,682
+Rarotongan,FALL,marere,682
+Tuamotuan,FALL,marere,682
+Wallisian,FALL,malele,682
+Futuna-Aniwa,FALL,takaifo,683
+Hawaiian,FALL,haaʔule,684
+Maori,FALL,makere,685
+North_Marquesan,FALL,mekeʔe,685
+Tuamotuan,FALL,makiri,685
+Mele-Fila,FALL,melu,686
+Vaeakau-Taumako,FALL,meu,686
+Niuean,FALL,mokulu,687
+North_Marquesan,FALL,mokuʔu,687
+Pukapuka,FALL,makulu,687
+Rarotongan,FALL,makuru,687
+Wallisian,FALL,mokulu,687
+North_Marquesan,FALL,huutehenua,688
+North_Marquesan,FALL,viʔi,689
+Nukuria,FALL,heke,690
+Pukapuka,FALL,paŋulu,691
+Samoan,FALL,paʔuu,691
+Anuta,LAUGH,kata,692
+Austral_(Ra'ivavae),LAUGH,ʔata,692
+Austral_(Rurutuan),LAUGH,ata,692
+East_Futuna,LAUGH,kata,692
+Emae,LAUGH,kata,692
+Futuna-Aniwa,LAUGH,kata,692
+Hawaiian,LAUGH,ʔaka,692
+Kapingamarangi,LAUGH,katakata,692
+Luangiua,LAUGH,ʔaka,692
+Mangareva,LAUGH,kata,692
+Maori,LAUGH,kata,692
+Mele-Fila,LAUGH,kata,692
+Niuean,LAUGH,kata,692
+North_Marquesan,LAUGH,ʔata,692
+Penrhyn,LAUGH,kata,692
+Pukapuka,LAUGH,kaakata,692
+RakahangaManihiki,LAUGH,kata,692
+Rapanui,LAUGH,kata,692
+Rarotongan,LAUGH,kata,692
+RennellBellona,LAUGH,kata,692
+Samoan,LAUGH,ʔata,692
+Sikaiana,LAUGH,kata,692
+Tahitian,LAUGH,ʔata,692
+Tikopia,LAUGH,kata,692
+Tongan,LAUGH,kata,692
+Tuamotuan,LAUGH,kata,692
+Tuvalu,LAUGH,kata,692
+Vaeakau-Taumako,LAUGH,kata,692
+Wallisian,LAUGH,kata,692
+Nukuria,LAUGH,piha,693
+Anuta,VOMIT,rua,694
+Austral_(Rurutuan),VOMIT,ruʔaʔi,694
+East_Futuna,VOMIT,lua,694
+Emae,VOMIT,rua,694
+Futuna-Aniwa,VOMIT,lua,694
+Hawaiian,VOMIT,luaʔi,694
+Kapingamarangi,VOMIT,luai,694
+Kapingamarangi,VOMIT,rua,694
+Luangiua,VOMIT,lua,694
+Mangareva,VOMIT,ruaki,694
+Maori,VOMIT,ruaki,694
+Mele-Fila,VOMIT,rua,694
+Niuean,VOMIT,lua,694
+North_Marquesan,VOMIT,ʔua,694
+Nukuria,VOMIT,rua,694
+Penrhyn,VOMIT,rua,694
+Pukapuka,VOMIT,luaki,694
+Pukapuka,VOMIT,lua,694
+RakahangaManihiki,VOMIT,ruaki,694
+Rapanui,VOMIT,rua,694
+RennellBellona,VOMIT,ɡua,694
+Samoan,VOMIT,luaʔi,694
+Sikaiana,VOMIT,lua,694
+Tikopia,VOMIT,rua,694
+Tongan,VOMIT,lua,694
+Tuamotuan,VOMIT,ruua,694
+Tuvalu,VOMIT,lua,694
+Vaeakau-Taumako,VOMIT,lua,694
+Wallisian,VOMIT,lua,694
+Austral_(Ra'ivavae),VOMIT,pihaʔe,695
+Tahitian,VOMIT,pihaʔe,695
+Niuean,VOMIT,puhaki,696
+Rarotongan,VOMIT,puaki,696
+Samoan,VOMIT,puaʔi,696
+Wallisian,VOMIT,puʔaki,696
+Anuta,HOLD,kuku,697
+East_Futuna,HOLD,kuku,697
+Niuean,HOLD,kuku,697
+Penrhyn,HOLD,kuku,697
+Rapanui,HOLD,kuku,697
+Rarotongan,HOLD,kukua,697
+Samoan,HOLD,ʔuʔu,697
+Tikopia,HOLD,kuku,697
+Tongan,HOLD,kuku,697
+Wallisian,HOLD,kuku,697
+Austral_(Ra'ivavae),HOLD,ɢave,698
+Austral_(Rurutuan),HOLD,taapeʔa,699
+Tahitian,HOLD,taapeʔa,699
+East_Futuna,HOLD,sapo,700
+Niuean,HOLD,hapo,700
+Tikopia,HOLD,sapo,700
+Wallisian,HOLD,hapo,700
+Emae,HOLD,tauai,701
+Kapingamarangi,HOLD,tahi,701
+Luangiua,HOLD,kaohi,701
+Nukuria,HOLD,taaohi,701
+Sikaiana,HOLD,taaohi,701
+Futuna-Aniwa,HOLD,kumia,702
+Hawaiian,HOLD,paʔa,703
+Mangareva,HOLD,taamau,704
+North_Marquesan,HOLD,mau,704
+RakahangaManihiki,HOLD,mau,704
+Maori,HOLD,pupuri,705
+Mele-Fila,HOLD,puatia,706
+North_Marquesan,HOLD,ʔiʔima,707
+Penrhyn,HOLD,taŋo,708
+Pukapuka,HOLD,taŋo,708
+Rarotongan,HOLD,taŋo,708
+Tuamotuan,HOLD,taŋo,708
+Tuvalu,HOLD,taɡo,708
+Wallisian,HOLD,taɡo,708
+Pukapuka,HOLD,liko,709
+Rapanui,HOLD,aaru,710
+RennellBellona,HOLD,ʔoso,711
+RennellBellona,HOLD,pipiki,712
+Vaeakau-Taumako,HOLD,pikia,712
+Tikopia,HOLD,puke,713
+Tuvalu,HOLD,puke,713
+Wallisian,HOLD,puke,713
+Tikopia,HOLD,fesu,714
+Anuta,YEAR,tau,715
+East_Futuna,YEAR,taʔu,715
+Emae,YEAR,tau,715
+Futuna-Aniwa,YEAR,tau,715
+Kapingamarangi,YEAR,tau,715
+Luangiua,YEAR,kau,715
+Mangareva,YEAR,tau,715
+Maori,YEAR,tau,715
+Niuean,YEAR,tau,715
+North_Marquesan,YEAR,tau,715
+Rapanui,YEAR,taʔu,715
+Rarotongan,YEAR,tau,715
+RennellBellona,YEAR,taʔu,715
+Samoan,YEAR,tausaŋa,715
+Sikaiana,YEAR,tau,715
+Tikopia,YEAR,tau,715
+Tongan,YEAR,taʔu,715
+Tuamotuan,YEAR,tau,715
+Tuvalu,YEAR,tauhaŋa,715
+Wallisian,YEAR,taʔu,715
+Austral_(Ra'ivavae),YEAR,matahiti,716
+Austral_(Rurutuan),YEAR,mataʔiti,716
+Hawaiian,YEAR,makahiki,716
+Penrhyn,YEAR,matahiti,716
+Pukapuka,YEAR,matawiti,716
+RakahangaManihiki,YEAR,matahiti,716
+Rapanui,YEAR,matahiti,716
+Rarotongan,YEAR,mataʔiti,716
+Tahitian,YEAR,matahiti,716
+Mangareva,YEAR,ano,717
+Mele-Fila,YEAR,tau,718
+North_Marquesan,YEAR,huaʔa,719
+Nukuria,YEAR,kirimahi,720
+Pukapuka,YEAR,taakaloŋa,721
+Vaeakau-Taumako,YEAR,ŋatae,722
+Anuta,GOOD,rerei,723
+Pukapuka,GOOD,lelei,723
+Samoan,GOOD,lelei,723
+Tongan,GOOD,lelei,723
+Tuvalu,GOOD,lelei,723
+Wallisian,GOOD,lelei,723
+Austral_(Ra'ivavae),GOOD,maitaʔi,724
+Austral_(Rurutuan),GOOD,maitaʔi,724
+Hawaiian,GOOD,maikaʔi,724
+North_Marquesan,GOOD,meitaʔi,724
+Penrhyn,GOOD,maitaki,724
+RakahangaManihiki,GOOD,maitaki,724
+Rarotongan,GOOD,meitaki,724
+Tahitian,GOOD,maitaʔi,724
+Tuamotuan,GOOD,meitaki,724
+East_Futuna,GOOD,maalie,725
+Emae,GOOD,sumarie,725
+Kapingamarangi,GOOD,humalia,725
+Mele-Fila,GOOD,merie,725
+Niuean,GOOD,melie,725
+Samoan,GOOD,malie,725
+Wallisian,GOOD,maalie,725
+Futuna-Aniwa,GOOD,rufie,726
+Luangiua,GOOD,kau,727
+North_Marquesan,GOOD,ʔeka,727
+Nukuria,GOOD,taurekareka,727
+Penrhyn,GOOD,reka,727
+Pukapuka,GOOD,leka,727
+Rapanui,GOOD,reka,727
+Rarotongan,GOOD,reka,727
+Sikaiana,GOOD,leka,727
+Tikopia,GOOD,rekareka,727
+Tuamotuan,GOOD,reka,727
+Mangareva,GOOD,porotu,728
+Mangareva,GOOD,marie,729
+Maori,GOOD,pai,730
+North_Marquesan,GOOD,kanahau,731
+Penrhyn,GOOD,suumariŋa,732
+Pukapuka,GOOD,kalule,733
+Rapanui,GOOD,rivariva,734
+RennellBellona,GOOD,ŋɡaoi,735
+Vaeakau-Taumako,GOOD,lavoi,736
+Anuta,ALL,katoa,737
+Austral_(Ra'ivavae),ALL,ʔatoʔa,737
+Austral_(Rurutuan),ALL,paaʔaaːʔatoʔa,737
+East_Futuna,ALL,kaatoa,737
+Kapingamarangi,ALL,ɡodoo,737
+Luangiua,ALL,aakoa,737
+Maori,ALL,katoa,737
+Niuean,ALL,ɡotoa,737
+Nukuria,ALL,katoo,737
+Penrhyn,ALL,katoa,737
+Pukapuka,ALL,katoa,737
+RakahangaManihiki,ALL,kaatoatoa,737
+Rarotongan,ALL,katoa,737
+RennellBellona,ALL,kaatoa,737
+Samoan,ALL,ʔaatoa,737
+Sikaiana,ALL,katoa,737
+Tahitian,ALL,atoʔa,737
+Tikopia,ALL,katoa,737
+Tongan,ALL,kotoa,737
+Tuamotuan,ALL,katoŋa,737
+Tuvalu,ALL,katoa,737
+Vaeakau-Taumako,ALL,katoa,737
+Wallisian,ALL,katoa,737
+East_Futuna,ALL,fuli,738
+RennellBellona,ALL,huɡi,738
+Wallisian,ALL,fulifuli,738
+Emae,ALL,pini,739
+Futuna-Aniwa,ALL,oʃi,740
+Mele-Fila,ALL,eutʃi,740
+Hawaiian,ALL,apau,741
+Pukapuka,ALL,pau,741
+RakahangaManihiki,ALL,pauroa,741
+Mangareva,ALL,kouroa,742
+North_Marquesan,ALL,tiatohu,743
+Pukapuka,ALL,wui,744
+Rapanui,ALL,tahi,745
+Anuta,BITE,kati,746
+Austral_(Rurutuan),BITE,paʔati,746
+Kapingamarangi,BITE,kati,746
+Luangiua,BITE,eki,746
+Mangareva,BITE,eti,746
+Mele-Fila,BITE,ketʃia,746
+Niuean,BITE,eti,746
+Penrhyn,BITE,kati,746
+Pukapuka,BITE,kati,746
+RakahangaManihiki,BITE,kakati,746
+Rarotongan,BITE,eti,746
+Samoan,BITE,ʔati,746
+Tikopia,BITE,kati,746
+Tuamotuan,BITE,kati,746
+Austral_(Rurutuan),BITE,ʔooʔiniʔini,747
+Tahitian,BITE,hohoni,747
+East_Futuna,BITE,ʔuu,748
+Luangiua,BITE,uu,748
+Nukuria,BITE,takiluu,748
+RennellBellona,BITE,uʔu,748
+Samoan,BITE,u,748
+Sikaiana,BITE,nunu,748
+Tongan,BITE,uʔu,748
+Wallisian,BITE,uʔu,748
+Emae,BITE,utia,749
+Futuna-Aniwa,BITE,maŋuʃia,749
+Samoan,BITE,utia,749
+Tikopia,BITE,uuti,749
+Vaeakau-Taumako,BITE,usia,749
+Hawaiian,BITE,nahu,750
+Maori,BITE,ŋau,750
+North_Marquesan,BITE,nahu,750
+Rapanui,BITE,ɡau,750
+Tikopia,BITE,ŋau,750
+Vaeakau-Taumako,BITE,ŋalia,751
+Vaeakau-Taumako,BITE,esia,752
+Anuta,FEATHER,puru,753
+Austral_(Ra'ivavae),FEATHER,huɢuhuɢumanu,753
+Austral_(Rurutuan),FEATHER,ʔuruʔuru,753
+East_Futuna,FEATHER,fulu,753
+Futuna-Aniwa,FEATHER,furu,753
+Hawaiian,FEATHER,hulu,753
+Kapingamarangi,FEATHER,ŋahuru,753
+Mangareva,FEATHER,ʔuru,753
+Maori,FEATHER,hurumanu,753
+North_Marquesan,FEATHER,huʔumanu,753
+Penrhyn,FEATHER,huru,753
+Pukapuka,FEATHER,wulu,753
+RakahangaManihiki,FEATHER,huruhuru,753
+Rapanui,FEATHER,huruhuru,753
+Rarotongan,FEATHER,ʔuruʔuru,753
+Samoan,FEATHER,fulu,753
+Tahitian,FEATHER,huruhuru,753
+Tikopia,FEATHER,furu,753
+Tongan,FEATHER,fulufulu,753
+Tuamotuan,FEATHER,huru,753
+Tuvalu,FEATHER,fulu,753
+Vaeakau-Taumako,FEATHER,hulu,753
+Emae,FEATHER,ᵐbala,754
+Luangiua,FEATHER,palaa,754
+Niuean,FEATHER,palaa,754
+Nukuria,FEATHER,paraa,754
+RennellBellona,FEATHER,pala,754
+Sikaiana,FEATHER,palaa,754
+Wallisian,FEATHER,palaa,754
+Mele-Fila,FEATHER,wero,755
+Samoan,FEATHER,ʔula,756
+Anuta,FLY (MOVE THROUGH AIR),rere,757
+Austral_(Ra'ivavae),FLY (MOVE THROUGH AIR),ɢeɢe,757
+Austral_(Rurutuan),FLY (MOVE THROUGH AIR),rere,757
+East_Futuna,FLY (MOVE THROUGH AIR),lele,757
+Emae,FLY (MOVE THROUGH AIR),rere,757
+Futuna-Aniwa,FLY (MOVE THROUGH AIR),rere,757
+Hawaiian,FLY (MOVE THROUGH AIR),lele,757
+Luangiua,FLY (MOVE THROUGH AIR),lele,757
+Mangareva,FLY (MOVE THROUGH AIR),rere,757
+Maori,FLY (MOVE THROUGH AIR),rere,757
+Mele-Fila,FLY (MOVE THROUGH AIR),rere,757
+Niuean,FLY (MOVE THROUGH AIR),lele,757
+Nukuria,FLY (MOVE THROUGH AIR),rere,757
+Penrhyn,FLY (MOVE THROUGH AIR),rere,757
+Pukapuka,FLY (MOVE THROUGH AIR),lele,757
+RakahangaManihiki,FLY (MOVE THROUGH AIR),rere,757
+Rapanui,FLY (MOVE THROUGH AIR),rere,757
+Rarotongan,FLY (MOVE THROUGH AIR),rere,757
+RennellBellona,FLY (MOVE THROUGH AIR),ɡeɡe,757
+Samoan,FLY (MOVE THROUGH AIR),lele,757
+Sikaiana,FLY (MOVE THROUGH AIR),lele,757
+Tahitian,FLY (MOVE THROUGH AIR),rere,757
+Tikopia,FLY (MOVE THROUGH AIR),rere,757
+Tuamotuan,FLY (MOVE THROUGH AIR),rere,757
+Tuvalu,FLY (MOVE THROUGH AIR),lele,757
+Vaeakau-Taumako,FLY (MOVE THROUGH AIR),lele,757
+Wallisian,FLY (MOVE THROUGH AIR),lele,757
+Austral_(Rurutuan),FLY (MOVE THROUGH AIR),ʔaʔamaraʔa,758
+Kapingamarangi,FLY (MOVE THROUGH AIR),maaŋi,759
+North_Marquesan,FLY (MOVE THROUGH AIR),ona,760
+Nukuria,FLY (MOVE THROUGH AIR),herrei,761
+Pukapuka,FLY (MOVE THROUGH AIR),pepeke,762
+RennellBellona,FLY (MOVE THROUGH AIR),eba,763
+Tongan,FLY (MOVE THROUGH AIR),puna,764
+Anuta,THOU,koe,765
+Austral_(Ra'ivavae),THOU,ʔoe,765
+Austral_(Rurutuan),THOU,ʔoe,765
+East_Futuna,THOU,koe,765
+Emae,THOU,akue,765
+Futuna-Aniwa,THOU,koe,765
+Hawaiian,THOU,ʔoe,765
+Kapingamarangi,THOU,ɡoe,765
+Luangiua,THOU,ʔoe,765
+Mangareva,THOU,koe,765
+Maori,THOU,koe,765
+Mele-Fila,THOU,akoe,765
+Niuean,THOU,koe,765
+North_Marquesan,THOU,ʔoe,765
+Nukuria,THOU,koe,765
+Penrhyn,THOU,koe,765
+Pukapuka,THOU,koe,765
+RakahangaManihiki,THOU,koe,765
+Rapanui,THOU,kou,765
+Rarotongan,THOU,koe,765
+RennellBellona,THOU,koe,765
+Samoan,THOU,ʔoe,765
+Sikaiana,THOU,koe,765
+Tahitian,THOU,ʔoe,765
+Tikopia,THOU,koe,765
+Tongan,THOU,koe,765
+Tuamotuan,THOU,koe,765
+Tuvalu,THOU,ke,765
+Vaeakau-Taumako,THOU,koe,765
+Wallisian,THOU,koe,765
+Anuta,THOU,ke,766
+East_Futuna,THOU,kee,766
+Tikopia,THOU,kee,766
+Wallisian,THOU,kee,766
+Pukapuka,THOU,ou,767
+Anuta,PATH OR ROAD,ara,768
+Austral_(Rurutuan),PATH OR ROAD,araʔaraʔa,768
+East_Futuna,PATH OR ROAD,ala,768
+Emae,PATH OR ROAD,ara,768
+Hawaiian,PATH OR ROAD,ala,768
+Kapingamarangi,PATH OR ROAD,ala,768
+Luangiua,PATH OR ROAD,ala,768
+Mangareva,PATH OR ROAD,ara,768
+Maori,PATH OR ROAD,ara,768
+Mele-Fila,PATH OR ROAD,ara,768
+Niuean,PATH OR ROAD,hala,768
+Penrhyn,PATH OR ROAD,ara,768
+Pukapuka,PATH OR ROAD,ŋutuala,768
+RakahangaManihiki,PATH OR ROAD,ara,768
+Rapanui,PATH OR ROAD,ara,768
+Rarotongan,PATH OR ROAD,ara,768
+RennellBellona,PATH OR ROAD,aɡa,768
+Samoan,PATH OR ROAD,ala,768
+Sikaiana,PATH OR ROAD,ala,768
+Tahitian,PATH OR ROAD,ara,768
+Tikopia,PATH OR ROAD,ara,768
+Tongan,PATH OR ROAD,hala,768
+Tuamotuan,PATH OR ROAD,ara,768
+Tuvalu,PATH OR ROAD,auala,768
+Vaeakau-Taumako,PATH OR ROAD,ala,768
+Wallisian,PATH OR ROAD,ala,768
+Austral_(Ra'ivavae),PATH OR ROAD,puɢumu,769
+Austral_(Rurutuan),PATH OR ROAD,puruumu,769
+RakahangaManihiki,PATH OR ROAD,puruumu,769
+Tahitian,PATH OR ROAD,puruumu,769
+Futuna-Aniwa,PATH OR ROAD,retu,770
+North_Marquesan,PATH OR ROAD,vaʔa,771
+Nukuria,PATH OR ROAD,haarena,772
+Tahitian,PATH OR ROAD,ʔeeʔa,773
+Anuta,FLOWER,pua,774
+Hawaiian,FLOWER,pua,774
+Luangiua,FLOWER,uke,774
+Mangareva,FLOWER,pua,774
+Maori,FLOWER,puaawai,774
+Mele-Fila,FLOWER,fuma,774
+North_Marquesan,FLOWER,pua,774
+Penrhyn,FLOWER,pua,774
+Pukapuka,FLOWER,pua,774
+Rapanui,FLOWER,pua,774
+Rarotongan,FLOWER,pua,774
+Samoan,FLOWER,fuŋa,774
+Tuamotuan,FLOWER,pua,774
+Austral_(Ra'ivavae),FLOWER,tiaɢe,775
+Austral_(Rurutuan),FLOWER,tiare,775
+Mangareva,FLOWER,tiare,775
+Pukapuka,FLOWER,tiale,775
+RakahangaManihiki,FLOWER,tiare,775
+Tahitian,FLOWER,tiare,775
+East_Futuna,FLOWER,see,776
+Emae,FLOWER,serakau,776
+Futuna-Aniwa,FLOWER,se,776
+Sikaiana,FLOWER,see,776
+Tikopia,FLOWER,see,776
+East_Futuna,FLOWER,fiti,777
+Niuean,FLOWER,fiti,777
+Wallisian,FLOWER,fisi,777
+Kapingamarangi,FLOWER,akai,778
+Nukuria,FLOWER,purupuru,779
+Tuvalu,FLOWER,pula,779
+RennellBellona,FLOWER,laka,780
+Tongan,FLOWER,kakala,781
+Vaeakau-Taumako,FLOWER,imea,782
+Anuta,LOUSE,kutu,783
+Austral_(Ra'ivavae),LOUSE,ʔutuʔu,783
+Austral_(Rurutuan),LOUSE,ʔutu,783
+East_Futuna,LOUSE,kutu,783
+Emae,LOUSE,kutu,783
+Futuna-Aniwa,LOUSE,kutu,783
+Hawaiian,LOUSE,ʔuku,783
+Kapingamarangi,LOUSE,ɡudu,783
+Luangiua,LOUSE,ʔuku,783
+Mangareva,LOUSE,kutu,783
+Maori,LOUSE,kutu,783
+Mele-Fila,LOUSE,kutu,783
+Niuean,LOUSE,kutu,783
+North_Marquesan,LOUSE,ʔutu,783
+North_Marquesan,LOUSE,kutupapa,783
+Nukuria,LOUSE,kutu,783
+Penrhyn,LOUSE,kutu,783
+Pukapuka,LOUSE,lia,783
+RakahangaManihiki,LOUSE,ŋutu,783
+Rapanui,LOUSE,kutu,783
+Rarotongan,LOUSE,kutupapa,783
+Rarotongan,LOUSE,kutu,783
+RennellBellona,LOUSE,kutu,783
+Samoan,LOUSE,ʔutu,783
+Sikaiana,LOUSE,kutu,783
+Tahitian,LOUSE,ʔutu,783
+Tikopia,LOUSE,kutu,783
+Tongan,LOUSE,kutu,783
+Tuamotuan,LOUSE,kutu,783
+Vaeakau-Taumako,LOUSE,kutu,783
+Wallisian,LOUSE,kutu,783
+East_Futuna,LOUSE,tuma,784
+Niuean,LOUSE,tuma,784
+Tongan,LOUSE,tuma,784
+Wallisian,LOUSE,tuma,784
+Anuta,NAME,iŋoa,785
+Austral_(Ra'ivavae),NAME,iʔoa,785
+Austral_(Rurutuan),NAME,iʔoa,785
+East_Futuna,NAME,iɡoa,785
+Emae,NAME,iŋoa,785
+Futuna-Aniwa,NAME,iɡoa,785
+Hawaiian,NAME,inoa,785
+Kapingamarangi,NAME,iŋoo,785
+Luangiua,NAME,iŋoa,785
+Mangareva,NAME,iŋoa,785
+Maori,NAME,iŋoa,785
+Mele-Fila,NAME,iŋoa,785
+Niuean,NAME,hiɡoa,785
+North_Marquesan,NAME,ikoa,785
+Nukuria,NAME,inoa,785
+Penrhyn,NAME,iŋoa,785
+Pukapuka,NAME,iŋoa,785
+RakahangaManihiki,NAME,iŋoa,785
+Rapanui,NAME,ʔiiɡoa,785
+Rarotongan,NAME,iŋoa,785
+RennellBellona,NAME,iŋoa,785
+Samoan,NAME,iŋoa,785
+Tahitian,NAME,iʔoa,785
+Tikopia,NAME,iɡoa,785
+Tongan,NAME,hiŋoa,785
+Tuamotuan,NAME,iŋoa,785
+Tuvalu,NAME,iɡoa,785
+Vaeakau-Taumako,NAME,iŋoa,785
+Wallisian,NAME,hiɡoa,785
+Sikaiana,NAME,male,786
+Anuta,WHO,ai,787
+Austral_(Ra'ivavae),WHO,vai,787
+Austral_(Rurutuan),WHO,vai,787
+East_Futuna,WHO,ai,787
+Emae,WHO,koi,787
+Futuna-Aniwa,WHO,akai,787
+Hawaiian,WHO,wai,787
+Kapingamarangi,WHO,ai,787
+Luangiua,WHO,ai,787
+Mangareva,WHO,ai,787
+Maori,WHO,wai,787
+Mele-Fila,WHO,kuai,787
+Niuean,WHO,hai,787
+North_Marquesan,WHO,ai,787
+Nukuria,WHO,koai,787
+Penrhyn,WHO,ai,787
+Pukapuka,WHO,ai,787
+RakahangaManihiki,WHO,koai,787
+Rapanui,WHO,aai,787
+Rarotongan,WHO,ʔai,787
+RennellBellona,WHO,ai,787
+Samoan,WHO,ʔoai,787
+Sikaiana,WHO,ai,787
+Tahitian,WHO,ʔovai,787
+Tikopia,WHO,ai,787
+Tongan,WHO,hai,787
+Tuamotuan,WHO,ai,787
+Tuvalu,WHO,ai,787
+Vaeakau-Taumako,WHO,ai,787
+Wallisian,WHO,ai,787
+Anuta,WHERE,pea,788
+Austral_(Ra'ivavae),WHERE,hea,788
+Austral_(Rurutuan),WHERE,ʔia,788
+East_Futuna,WHERE,fea,788
+Emae,WHERE,ife,788
+Futuna-Aniwa,WHERE,ua,788
+Hawaiian,WHERE,aiaihea,788
+Kapingamarangi,WHERE,hee,788
+Luangiua,WHERE,hea,788
+Mangareva,WHERE,ʔea,788
+Maori,WHERE,fea,788
+Mele-Fila,WHERE,ifia,788
+Niuean,WHERE,fee,788
+North_Marquesan,WHERE,hea,788
+Nukuria,WHERE,ihea,788
+Penrhyn,WHERE,hea,788
+Pukapuka,WHERE,iwea,788
+RakahangaManihiki,WHERE,hea,788
+Rapanui,WHERE,he,788
+Rarotongan,WHERE,ʔea,788
+RennellBellona,WHERE,hea,788
+Samoan,WHERE,ʔofea,788
+Sikaiana,WHERE,hea,788
+Tahitian,WHERE,hea,788
+Tikopia,WHERE,fea,788
+Tongan,WHERE,ʔifee,788
+Tuamotuan,WHERE,hea,788
+Tuvalu,WHERE,teehea,788
+Vaeakau-Taumako,WHERE,ihea,788
+Wallisian,WHERE,fea,788

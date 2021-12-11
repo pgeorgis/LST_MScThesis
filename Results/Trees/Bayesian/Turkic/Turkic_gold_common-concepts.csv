@@ -1,0 +1,4849 @@
+Language_ID,Feature_ID,IPA,Value
+Azerbaijani,COLD,sojuɡ,1
+Bashkir,COLD,hɯwɯq,1
+Chulym,COLD,sooq,1
+Chuvash,COLD,sivɘ,1
+Crimean_Tatar,COLD,suvuq,1
+Cuman,COLD,sɑoɡh,1
+Gagauz,COLD,suːk,1
+Kara-Kalpak,COLD,suwɯq,1
+Karachay-Balkar,COLD,suwuq,1
+Karaim,COLD,suvuk,1
+Karaim,COLD,suvuχ,1
+Kazakh,COLD,suɯq,1
+Khakas,COLD,sooχ,1
+Khalaj,COLD,sovuq,1
+Kumyk,COLD,suwuq,1
+Kyrgyz,COLD,suuq,1
+Nogai,COLD,suwɯq,1
+Northern_Altai,COLD,sooq,1
+Old_Turkic,COLD,soɣɯq,1
+Salar,COLD,soχ,1
+Shor,COLD,soːq,1
+Southern_Altai,COLD,sooq,1
+Tatar,COLD,suɯq,1
+Tofa,COLD,sooq,1
+Turkish,COLD,soːuk,1
+Turkmen,COLD,θowuq,1
+Tuvan,COLD,sooq,1
+Uyghur,COLD,soɣuq,1
+Uzbek,COLD,sɔvuq,1
+Dolgan,COLD,tɯmnɯː,2
+Yakut,COLD,tɯmnɯː,2
+Khalaj,COLD,buːz,3
+West_Yugur,COLD,tot,4
+Azerbaijani,WIDE,ɟeniʃ,5
+Bashkir,WIDE,kiŋ,5
+Crimean_Tatar,WIDE,keŋ,5
+Crimean_Tatar,WIDE,keniʃ,5
+Gagauz,WIDE,ɡeniʃ,5
+Kara-Kalpak,WIDE,keŋ,5
+Karachay-Balkar,WIDE,keŋ,5
+Karaim,WIDE,ken,5
+Kazakh,WIDE,keŋ,5
+Khalaj,WIDE,kiːeŋ,5
+Kumyk,WIDE,ɡeŋ,5
+Kyrgyz,WIDE,keŋ,5
+Nogai,WIDE,keŋ,5
+Northern_Altai,WIDE,keŋ,5
+Old_Turkic,WIDE,keŋ,5
+Siberian_Tatar,WIDE,kɛŋ,5
+Southern_Altai,WIDE,keŋ,5
+Tatar,WIDE,kiŋ,5
+Turkish,WIDE,ɟeniʃ,5
+Turkmen,WIDE,ɡiŋ,5
+Uyghur,WIDE,kɛŋ,5
+Uzbek,WIDE,keŋ,5
+West_Yugur,WIDE,keŋ,5
+Yakut,WIDE,kieŋ,5
+Chulym,WIDE,ʧɑlβɑq,6
+Khakas,WIDE,ʧɑlbɑχ,6
+Shor,WIDE,ʧɑlbɑq,6
+Siberian_Tatar,WIDE,jɑlbɯrsɑq,6
+Southern_Altai,WIDE,ɟɑlbɑχ,6
+Chuvash,WIDE,sɑrlɑɡɑ,7
+Dolgan,WIDE,ketit,8
+Khakas,WIDE,ɑllɯɣ,9
+Tofa,WIDE,ɑˤlhɯɣ,9
+Azerbaijani,DOG,it,10
+Bashkir,DOG,et,10
+Chuvash,DOG,jɯdɤ̆ʷ,10
+Cuman,DOG,it,10
+Dolgan,DOG,ɯt,10
+Kara-Kalpak,DOG,ijt,10
+Karachay-Balkar,DOG,it,10
+Karaim,DOG,it,10
+Kazakh,DOG,it,10
+Khalaj,DOG,it,10
+Kumyk,DOG,it,10
+Kyrgyz,DOG,it,10
+Nogai,DOG,ijt,10
+Northern_Altai,DOG,ijt,10
+Northern_Altai,DOG,it,10
+Old_Turkic,DOG,ɯt,10
+Salar,DOG,iʃt,10
+Siberian_Tatar,DOG,it,10
+Southern_Altai,DOG,it,10
+Tatar,DOG,et,10
+Turkmen,DOG,it,10
+Tuvan,DOG,ɯt,10
+Uyghur,DOG,iʃt,10
+Uzbek,DOG,it,10
+West_Yugur,DOG,ɯʃt,10
+West_Yugur,DOG,eʃt,10
+Yakut,DOG,ɯt,10
+Chulym,DOG,ɑdɑj,11
+Khakas,DOG,ɑdɑj,11
+Shor,DOG,ɑdɑj,11
+Crimean_Tatar,DOG,køpek,12
+Gagauz,DOG,køpek,12
+Turkish,DOG,cøpec,12
+Tofa,DOG,ʧɯdɯɣ,13
+Azerbaijani,KNOW (SOMETHING),bil,14
+Bashkir,KNOW (SOMETHING),bel,14
+Chulym,KNOW (SOMETHING),pɘl,14
+Chuvash,KNOW (SOMETHING),pɘl,14
+Crimean_Tatar,KNOW (SOMETHING),bil,14
+Cuman,KNOW (SOMETHING),bil,14
+Dolgan,KNOW (SOMETHING),bil,14
+Gagauz,KNOW (SOMETHING),bil,14
+Kara-Kalpak,KNOW (SOMETHING),bil,14
+Karachay-Balkar,KNOW (SOMETHING),bil,14
+Karaim,KNOW (SOMETHING),bil,14
+Kazakh,KNOW (SOMETHING),bɘl,14
+Khakas,KNOW (SOMETHING),pɘl,14
+Khalaj,KNOW (SOMETHING),bil,14
+Kumyk,KNOW (SOMETHING),bil,14
+Kyrgyz,KNOW (SOMETHING),bil,14
+Nogai,KNOW (SOMETHING),bil,14
+Old_Turkic,KNOW (SOMETHING),bil,14
+Salar,KNOW (SOMETHING),bel,14
+Shor,KNOW (SOMETHING),pil,14
+Siberian_Tatar,KNOW (SOMETHING),pil,14
+Southern_Altai,KNOW (SOMETHING),bil,14
+Tatar,KNOW (SOMETHING),bel,14
+Tofa,KNOW (SOMETHING),bil,14
+Turkish,KNOW (SOMETHING),bilʲ,14
+Turkmen,KNOW (SOMETHING),bil,14
+Tuvan,KNOW (SOMETHING),bil,14
+Uyghur,KNOW (SOMETHING),bil,14
+Uzbek,KNOW (SOMETHING),bil,14
+West_Yugur,KNOW (SOMETHING),pel,14
+West_Yugur,KNOW (SOMETHING),pɯl,14
+West_Yugur,KNOW (SOMETHING),bel,14
+Yakut,KNOW (SOMETHING),bil,14
+Northern_Altai,KNOW (SOMETHING),oŋnɑ,15
+Azerbaijani,CLOUD,bulut,16
+Bashkir,CLOUD,bolot,16
+Chulym,CLOUD,pulut,16
+Chuvash,CLOUD,pɘ̆ʷlɘ̆ʷt,16
+Crimean_Tatar,CLOUD,bulut,16
+Cuman,CLOUD,bulut,16
+Dolgan,CLOUD,bɯlɯt,16
+Gagauz,CLOUD,bulut,16
+Kara-Kalpak,CLOUD,bult,16
+Karachay-Balkar,CLOUD,bulut,16
+Karaim,CLOUD,bulut,16
+Kazakh,CLOUD,bʊlt,16
+Khakas,CLOUD,pulut,16
+Khalaj,CLOUD,bulɯt,16
+Kumyk,CLOUD,bulut,16
+Kyrgyz,CLOUD,bulut,16
+Nogai,CLOUD,bulɯt,16
+Northern_Altai,CLOUD,pulut,16
+Old_Turkic,CLOUD,bulɯt,16
+Salar,CLOUD,pulut,16
+Salar,CLOUD,polut,16
+Shor,CLOUD,pulut,16
+Siberian_Tatar,CLOUD,polot,16
+Siberian_Tatar,CLOUD,pulut,16
+Southern_Altai,CLOUD,bulut,16
+Tatar,CLOUD,bolɯt,16
+Tofa,CLOUD,bulut,16
+Turkish,CLOUD,buɫut,16
+Turkmen,CLOUD,bulut,16
+Tuvan,CLOUD,bulut,16
+Uyghur,CLOUD,bulut,16
+Uzbek,CLOUD,bulut,16
+West_Yugur,CLOUD,pulut,16
+West_Yugur,CLOUD,pɯlɯt,16
+Yakut,CLOUD,bɯlɯt,16
+Azerbaijani,BURN,jɑn,17
+Bashkir,BURN,jɑn,17
+Chuvash,BURN,ɕun,17
+Crimean_Tatar,BURN,jɑn,17
+Gagauz,BURN,jɑn,17
+Kara-Kalpak,BURN,ʒɑn,17
+Karaim,BURN,jɑn,17
+Kazakh,BURN,ʒɑn,17
+Kumyk,BURN,jɑn,17
+Kyrgyz,BURN,ʤɑn,17
+Nogai,BURN,jɑn,17
+Northern_Altai,BURN,kyj,17
+Siberian_Tatar,BURN,jɑn,17
+Tatar,BURN,jɑn,17
+Turkish,BURN,jɑn,17
+Turkmen,BURN,jɑn,17
+Uyghur,BURN,jɑn,17
+Uzbek,BURN,jɔn,17
+Chulym,BURN,koj,18
+Cuman,BURN,kyj,18
+Karachay-Balkar,BURN,kyj,18
+Karaim,BURN,kyv,18
+Karaim,BURN,kiv,18
+Karaim,BURN,tiv,18
+Khakas,BURN,køj,18
+Khalaj,BURN,kien,18
+Kyrgyz,BURN,kyj,18
+Old_Turkic,BURN,kyn,18
+Old_Turkic,BURN,kyj,18
+Salar,BURN,køj,18
+Shor,BURN,køj,18
+Southern_Altai,BURN,kyj,18
+Uyghur,BURN,køj,18
+West_Yugur,BURN,kyj,18
+Dolgan,BURN,ɡydeːrij,19
+Tofa,BURN,qɯˤp,20
+Tuvan,BURN,qɯp,20
+Yakut,BURN,umɑj,21
+Azerbaijani,NECK,bojun,22
+Bashkir,NECK,mujɯn,22
+Chulym,NECK,poːjun,22
+Chuvash,NECK,møj,22
+Crimean_Tatar,NECK,bojun,22
+Cuman,NECK,bojn,22
+Dolgan,NECK,muoj,22
+Gagauz,NECK,bojun,22
+Kara-Kalpak,NECK,mojɯn,22
+Karachay-Balkar,NECK,bojun,22
+Karaim,NECK,bojun,22
+Kazakh,NECK,mojɯn,22
+Khakas,NECK,mojɯn,22
+Khalaj,NECK,buun,22
+Kumyk,NECK,bojun,22
+Kyrgyz,NECK,mojun,22
+Nogai,NECK,mojɯn,22
+Northern_Altai,NECK,mojɯn,22
+Old_Turkic,NECK,bojɯn,22
+Salar,NECK,poinɯ,22
+Shor,NECK,mojun,22
+Siberian_Tatar,NECK,mojun,22
+Siberian_Tatar,NECK,mojɯn,22
+Siberian_Tatar,NECK,mujɯn,22
+Southern_Altai,NECK,mojɯn,22
+Tatar,NECK,mujɯn,22
+Tofa,NECK,møen,22
+Turkish,NECK,bojun,22
+Turkmen,NECK,bojun,22
+Tuvan,NECK,mojun,22
+Uyghur,NECK,bojun,22
+Uzbek,NECK,bojɯn,22
+West_Yugur,NECK,moin,22
+Yakut,NECK,moːy,22
+Azerbaijani,STONE,dɑʃ,23
+Bashkir,STONE,tɑʃ,23
+Chulym,STONE,tɑs,23
+Chulym,STONE,sɑjdɑːzə,23
+Chuvash,STONE,ʧul,23
+Crimean_Tatar,STONE,tɑʃ,23
+Cuman,STONE,tɑs,23
+Cuman,STONE,tɑʃ,23
+Dolgan,STONE,tɑːs,23
+Gagauz,STONE,tɑʃ,23
+Kara-Kalpak,STONE,tɑs,23
+Karachay-Balkar,STONE,tɑʃ,23
+Karaim,STONE,tɑʃ,23
+Kazakh,STONE,tɑs,23
+Khakas,STONE,tɑs,23
+Khalaj,STONE,tɑːɑʃ,23
+Kumyk,STONE,tɑʃ,23
+Kyrgyz,STONE,tɑʃ,23
+Nogai,STONE,tɑs,23
+Northern_Altai,STONE,tɑʃ,23
+Northern_Altai,STONE,tɑs,23
+Old_Turkic,STONE,tɑʃ,23
+Salar,STONE,tɑʃ,23
+Shor,STONE,tɑʃ,23
+Siberian_Tatar,STONE,tɑʃ,23
+Southern_Altai,STONE,tɑʃ,23
+Tatar,STONE,tɑʃ,23
+Tofa,STONE,dɑʃ,23
+Turkish,STONE,tɑʃ,23
+Turkmen,STONE,dɑʃ,23
+Tuvan,STONE,dɑʃ,23
+Uyghur,STONE,tɑʃ,23
+Uzbek,STONE,tɔʃ,23
+West_Yugur,STONE,tɑs,23
+Yakut,STONE,tɑːs,23
+Azerbaijani,COUNT,sɑj,24
+Bashkir,COUNT,hɑnɑ,24
+Chulym,COUNT,sɑnɑ,24
+Crimean_Tatar,COUNT,sɑj,24
+Dolgan,COUNT,ɑk,24
+Gagauz,COUNT,sɑj,24
+Kara-Kalpak,COUNT,sɑnɑ,24
+Karachay-Balkar,COUNT,sɑnɑ,24
+Karaim,COUNT,sɑj,24
+Karaim,COUNT,sɑn,24
+Kazakh,COUNT,sɑnɑ,24
+Khakas,COUNT,sɑnɑ,24
+Khalaj,COUNT,sɑːɑnɑ,24
+Kumyk,COUNT,sɑnɑ,24
+Kyrgyz,COUNT,sɑnɑ,24
+Nogai,COUNT,sɑnɑ,24
+Northern_Altai,COUNT,sɑnɑ,24
+Old_Turkic,COUNT,sɑnɑ,24
+Salar,COUNT,sɑnɑʲ,24
+Tatar,COUNT,sɑnɑ,24
+Tofa,COUNT,sɑnɑ,24
+Turkish,COUNT,sɑj,24
+Turkmen,COUNT,θɑnɑ,24
+Tuvan,COUNT,sɑnɑ,24
+Uyghur,COUNT,sɑnɑ,24
+Uzbek,COUNT,sɑnɑ,24
+West_Yugur,COUNT,sɑnɑ,24
+Yakut,COUNT,ɑːχ,24
+Azerbaijani,THINK,dyʃyn,25
+Crimean_Tatar,THINK,tysyn,25
+Gagauz,THINK,dyʃyn,25
+Turkish,THINK,dyʃyn,25
+Bashkir,THINK,ujlɑ,26
+Crimean_Tatar,THINK,ojlɑ,26
+Kara-Kalpak,THINK,ojlɑ,26
+Karachay-Balkar,THINK,ojlɑ,26
+Kazakh,THINK,ojlɑ,26
+Kumyk,THINK,ojlɑʃ,26
+Kyrgyz,THINK,ojlɑ,26
+Nogai,THINK,ojlɑ,26
+Siberian_Tatar,THINK,ojlɑ,26
+Tatar,THINK,ujlɑ,26
+Uyghur,THINK,ojlɑ,26
+Uzbek,THINK,ojlɑ,26
+Chulym,THINK,pøːɡun,27
+Shor,THINK,pøɡyn,27
+Chulym,THINK,sɑːɣən,28
+Chuvash,THINK,ʃuɣɤ̆ʷʃlɑ,28
+Cuman,THINK,sɑɡin,28
+Karaim,THINK,sɑɣɯn,28
+Khakas,THINK,sɑɣɯn,28
+Northern_Altai,THINK,sɑɣɯn,28
+Old_Turkic,THINK,sɑqɯn,28
+Tofa,THINK,sɑɣɯn,28
+West_Yugur,THINK,sɑqɯn,28
+Khalaj,THINK,sɑn,29
+Northern_Altai,THINK,sɑnɑ,29
+Shor,THINK,sɑnɑn,29
+Southern_Altai,THINK,sɑnɑ,29
+Yakut,THINK,sɑnɑ,29
+Tuvan,THINK,bodɑ,30
+Azerbaijani,WIND,jel,31
+Bashkir,WIND,jel,31
+Chulym,WIND,ʧɛl,31
+Chuvash,WIND,ɕil,31
+Crimean_Tatar,WIND,jel,31
+Cuman,WIND,jel,31
+Kara-Kalpak,WIND,ʒel,31
+Karachay-Balkar,WIND,ʤel,31
+Karaim,WIND,jel,31
+Kazakh,WIND,ʒel,31
+Khakas,WIND,ʧil,31
+Khalaj,WIND,jel,31
+Kumyk,WIND,jel,31
+Nogai,WIND,jel,31
+Old_Turkic,WIND,jel,31
+Salar,WIND,jel,31
+Siberian_Tatar,WIND,yël,31
+Tatar,WIND,ʤil,31
+Turkmen,WIND,jel,31
+West_Yugur,WIND,jil,31
+West_Yugur,WIND,jɯl,31
+Dolgan,WIND,tɯɑl,32
+Yakut,WIND,tɯɑl,32
+Tofa,WIND,qɑt,33
+Tuvan,WIND,χɑt,33
+Azerbaijani,KNEE,diz,34
+Chulym,KNEE,təsβɑːzə,34
+Chuvash,KNEE,ʧɘrɡuɕɕi,34
+Crimean_Tatar,KNEE,tiz,34
+Cuman,KNEE,tizɡi,34
+Cuman,KNEE,kesi,34
+Gagauz,KNEE,diz,34
+Kara-Kalpak,KNEE,dize,34
+Karaim,KNEE,tyz,34
+Karaim,KNEE,tiz,34
+Karaim,KNEE,kiz,34
+Kazakh,KNEE,tɘze,34
+Khakas,KNEE,tɘzek,34
+Khalaj,KNEE,tiːiz,34
+Kyrgyz,KNEE,tize,34
+Nogai,KNEE,tiz,34
+Northern_Altai,KNEE,tize,34
+Old_Turkic,KNEE,tiz,34
+Salar,KNEE,tizeχ,34
+Shor,KNEE,tize,34
+Siberian_Tatar,KNEE,tizi,34
+Siberian_Tatar,KNEE,tiz,34
+Southern_Altai,KNEE,tize,34
+Tatar,KNEE,tez,34
+Tofa,KNEE,tɘskek,34
+Turkish,KNEE,diz,34
+Turkmen,KNEE,dɯð,34
+Tuvan,KNEE,dis,34
+Uyghur,KNEE,tiz,34
+Uzbek,KNEE,tiz,34
+West_Yugur,KNEE,tez,34
+West_Yugur,KNEE,tiz,34
+Bashkir,KNEE,tubɯq,35
+Dolgan,KNEE,tobuk,35
+Karachay-Balkar,KNEE,tobuq,35
+Kumyk,KNEE,tobuq,35
+Yakut,KNEE,tobuk,35
+Chulym,KNEE,təsβɑːzə,36
+Chuvash,KNEE,ʧɘrɡuɕɕi,37
+Azerbaijani,WHITE,ɑɣ,38
+Bashkir,WHITE,ɑq,38
+Chulym,WHITE,ɑqβus,38
+Crimean_Tatar,WHITE,ɑq,38
+Cuman,WHITE,ɑk,38
+Gagauz,WHITE,ɑk,38
+Kara-Kalpak,WHITE,ɑq,38
+Karachay-Balkar,WHITE,ɑq,38
+Karaim,WHITE,ɑk,38
+Kazakh,WHITE,ɑq,38
+Khakas,WHITE,ɑχ,38
+Kumyk,WHITE,ɑq,38
+Kyrgyz,WHITE,ɑq,38
+Nogai,WHITE,ɑq,38
+Northern_Altai,WHITE,ɑq,38
+Salar,WHITE,ɑχ,38
+Shor,WHITE,ɑq,38
+Siberian_Tatar,WHITE,ɑq,38
+Southern_Altai,WHITE,ɑq,38
+Tatar,WHITE,ɑq,38
+Tofa,WHITE,ɑq,38
+Turkmen,WHITE,ɑq,38
+Tuvan,WHITE,ɑq,38
+Uyghur,WHITE,ɑq,38
+Uzbek,WHITE,ɔq,38
+West_Yugur,WHITE,ɑq,38
+Chuvash,WHITE,ʃurɤ̆ʷ,39
+Khalaj,WHITE,hyryn,40
+Old_Turkic,WHITE,yryŋ,40
+Yakut,WHITE,yryŋ,40
+Azerbaijani,FOOT OR LEG,ɑjɑɡ,41
+Bashkir,FOOT OR LEG,ɑjɑq,41
+Chulym,FOOT OR LEG,ɑzɑq,41
+Chuvash,FOOT OR LEG,orɑ,41
+Crimean_Tatar,FOOT OR LEG,ɑjɑq,41
+Cuman,FOOT OR LEG,ɑjɑk,41
+Dolgan,FOOT OR LEG,ɑtɑk,41
+Gagauz,FOOT OR LEG,ɑjɑk,41
+Kara-Kalpak,FOOT OR LEG,ɑjɑq,41
+Karachay-Balkar,FOOT OR LEG,ɑjɑq,41
+Karaim,FOOT OR LEG,ɑjɑk,41
+Kazakh,FOOT OR LEG,ɑjɑq,41
+Khakas,FOOT OR LEG,ɑzɑχ,41
+Khalaj,FOOT OR LEG,hɑdɑq,41
+Kumyk,FOOT OR LEG,ɑjɑq,41
+Kyrgyz,FOOT OR LEG,ɑjɑq,41
+Nogai,FOOT OR LEG,ɑjɑq,41
+Old_Turkic,FOOT OR LEG,ɑdɑq,41
+Salar,FOOT OR LEG,ɑjɑχ,41
+Shor,FOOT OR LEG,ɑzɑq,41
+Siberian_Tatar,FOOT OR LEG,ɑjɑq,41
+Tatar,FOOT OR LEG,ɑjɑq,41
+Turkish,FOOT OR LEG,ɑjɑk,41
+Turkmen,FOOT OR LEG,ɑjɑq,41
+Uyghur,FOOT OR LEG,ɑjɑq,41
+Uzbek,FOOT OR LEG,ɔjɔq,41
+West_Yugur,FOOT OR LEG,ɑzɑq,41
+Yakut,FOOT OR LEG,ɑtɑχ,41
+Karachay-Balkar,FOOT OR LEG,but,42
+Kumyk,FOOT OR LEG,but,42
+Kyrgyz,FOOT OR LEG,but,42
+Northern_Altai,FOOT OR LEG,but,42
+Old_Turkic,FOOT OR LEG,but,42
+Southern_Altai,FOOT OR LEG,but,42
+Tofa,FOOT OR LEG,but,42
+Tuvan,FOOT OR LEG,but,42
+Azerbaijani,EAT,je,43
+Chulym,EAT,ʧi,43
+Chuvash,EAT,ɕi,43
+Dolgan,EAT,hie,43
+Gagauz,EAT,i,43
+Kara-Kalpak,EAT,ʒe,43
+Kazakh,EAT,ʒe,43
+Khakas,EAT,ʧɘ,43
+Khalaj,EAT,jeːe,43
+Kyrgyz,EAT,ʤe,43
+Nogai,EAT,je,43
+Northern_Altai,EAT,ci,43
+Old_Turkic,EAT,je,43
+Salar,EAT,je,43
+Salar,EAT,ji,43
+Shor,EAT,ʧiː,43
+Siberian_Tatar,EAT,jë,43
+Southern_Altai,EAT,ɟi,43
+Tofa,EAT,ʧi,43
+Tofa,EAT,nemne,43
+Turkish,EAT,je,43
+Turkmen,EAT,ij,43
+Tuvan,EAT,ʧemne,43
+Tuvan,EAT,ʧi,43
+Uyghur,EAT,ji,43
+Uzbek,EAT,je,43
+West_Yugur,EAT,je,43
+West_Yugur,EAT,ji,43
+West_Yugur,EAT,ʤi,43
+Yakut,EAT,sie,43
+Bashkir,EAT,ɑʃɑ,44
+Crimean_Tatar,EAT,ɑʃɑ,44
+Cuman,EAT,ɑʃɑ,44
+Dolgan,EAT,ɑhɑː,44
+Karachay-Balkar,EAT,ɑʃɑ,44
+Karaim,EAT,ɑsɑ,44
+Karaim,EAT,ɑʃɑ,44
+Kumyk,EAT,ɑʃɑ,44
+Nogai,EAT,ɑʃɑ,44
+Old_Turkic,EAT,ɑʃɑ,44
+Siberian_Tatar,EAT,ɑʃɑ,44
+Southern_Altai,EAT,ɑʒɑn,44
+Tatar,EAT,ɑʃɑ,44
+Yakut,EAT,ɑhɑː,44
+Azerbaijani,HEAVY,ɑɣɯr,45
+Bashkir,HEAVY,ɑwɯr,45
+Chulym,HEAVY,ɑɑr,45
+Chuvash,HEAVY,jɯvɤ̆ʷr,45
+Crimean_Tatar,HEAVY,ɑɣɯr,45
+Cuman,HEAVY,ɑɡer,45
+Dolgan,HEAVY,ɯɑr,45
+Gagauz,HEAVY,ɑɑr,45
+Kara-Kalpak,HEAVY,ɑwɯr,45
+Karachay-Balkar,HEAVY,ɑwur,45
+Karaim,HEAVY,ɑvur,45
+Kazakh,HEAVY,ɑwɯr,45
+Khakas,HEAVY,ɑɑr,45
+Khalaj,HEAVY,ɑɣir,45
+Kumyk,HEAVY,ɑwur,45
+Kyrgyz,HEAVY,oor,45
+Nogai,HEAVY,ɑwɯr,45
+Northern_Altai,HEAVY,ɑɑr,45
+Old_Turkic,HEAVY,ɑɣɯr,45
+Salar,HEAVY,ɑɣɯr,45
+Shor,HEAVY,ɑːr,45
+Siberian_Tatar,HEAVY,ɑwɯr,45
+Southern_Altai,HEAVY,uur,45
+Tatar,HEAVY,ɑwɯr,45
+Tofa,HEAVY,ɑɑr,45
+Turkish,HEAVY,ɑːɯr,45
+Turkmen,HEAVY,ɑɣɯr,45
+Tuvan,HEAVY,ɑɑr,45
+Uyghur,HEAVY,eɣir,45
+Uzbek,HEAVY,ɔɣir,45
+West_Yugur,HEAVY,ɑɣɯr,45
+Yakut,HEAVY,ɯɑrɑχɑn,45
+Azerbaijani,SKY,ɟøj,46
+Bashkir,SKY,kyk,46
+Crimean_Tatar,SKY,kok,46
+Cuman,SKY,kok,46
+Gagauz,SKY,ɡøk,46
+Karachay-Balkar,SKY,køk,46
+Karaim,SKY,køk,46
+Kumyk,SKY,køk,46
+Kyrgyz,SKY,køk,46
+Nogai,SKY,køk,46
+Northern_Altai,SKY,køk,46
+Old_Turkic,SKY,køk,46
+Siberian_Tatar,SKY,køk,46
+Tatar,SKY,kyk,46
+Turkish,SKY,ɟøc,46
+Chulym,SKY,kunʲ,47
+Chuvash,SKY,tybe,48
+Dolgan,SKY,kɑllɑːn,49
+Old_Turkic,SKY,qɑlɯq,49
+Yakut,SKY,χɑllɑːn,49
+Khakas,SKY,tiɡɘr,50
+Northern_Altai,SKY,teɡri,50
+Old_Turkic,SKY,teŋri,50
+Shor,SKY,teɡri,50
+Southern_Altai,SKY,teŋeri,50
+Tofa,SKY,deːre,50
+Tuvan,SKY,deer,50
+West_Yugur,SKY,teŋir,50
+Azerbaijani,TAIL,ɡujruɡ,51
+Bashkir,TAIL,qojroq,51
+Chulym,TAIL,quzuruq,51
+Chuvash,TAIL,χyre,51
+Crimean_Tatar,TAIL,qujruq,51
+Cuman,TAIL,kujruɡ,51
+Dolgan,TAIL,kuturuk,51
+Gagauz,TAIL,kujruk,51
+Kara-Kalpak,TAIL,qujrɯq,51
+Karachay-Balkar,TAIL,qujruq,51
+Karaim,TAIL,kujruk,51
+Kazakh,TAIL,qʊjrɯq,51
+Khakas,TAIL,χuzuruχ,51
+Khalaj,TAIL,qurduq,51
+Kumyk,TAIL,qujruq,51
+Kyrgyz,TAIL,qujruq,51
+Nogai,TAIL,qujrɯq,51
+Northern_Altai,TAIL,qujruq,51
+Northern_Altai,TAIL,qujrɯq,51
+Old_Turkic,TAIL,qudruq,51
+Salar,TAIL,quruχ,51
+Salar,TAIL,kuruχ,51
+Shor,TAIL,quzuruq,51
+Siberian_Tatar,TAIL,qujrɯq,51
+Southern_Altai,TAIL,qujruq,51
+Tatar,TAIL,qojrɯq,51
+Tofa,TAIL,quduruq,51
+Turkish,TAIL,kujruk,51
+Turkmen,TAIL,ɡujruq,51
+Tuvan,TAIL,quduruq,51
+Uyghur,TAIL,qujruq,51
+West_Yugur,TAIL,quzruq,51
+Yakut,TAIL,kuturuk,51
+Azerbaijani,FIVE,beʃ,52
+Bashkir,FIVE,beʃ,52
+Chulym,FIVE,pɛs,52
+Chuvash,FIVE,pilɘk,52
+Crimean_Tatar,FIVE,beʃ,52
+Cuman,FIVE,bes,52
+Dolgan,FIVE,bies,52
+Gagauz,FIVE,bulɑʃɯq,52
+Kara-Kalpak,FIVE,bes,52
+Karachay-Balkar,FIVE,beʃ,52
+Karaim,FIVE,beʃ,52
+Kazakh,FIVE,bes,52
+Khakas,FIVE,pis,52
+Khalaj,FIVE,biːeʃ,52
+Khalaj,FIVE,beːeʃ,52
+Kumyk,FIVE,beʃ,52
+Kyrgyz,FIVE,beʃ,52
+Nogai,FIVE,bes,52
+Northern_Altai,FIVE,peʃ,52
+Old_Turkic,FIVE,beʃ,52
+Salar,FIVE,peʃ,52
+Shor,FIVE,peʃ,52
+Siberian_Tatar,FIVE,pëʃ,52
+Southern_Altai,FIVE,beʃ,52
+Tatar,FIVE,biʃ,52
+Tofa,FIVE,beʃ,52
+Turkish,FIVE,beʃ,52
+Turkmen,FIVE,bɛʃ,52
+Tuvan,FIVE,beʃ,52
+Uyghur,FIVE,bɛʃ,52
+Uzbek,FIVE,beʃ,52
+West_Yugur,FIVE,pis,52
+West_Yugur,FIVE,pes,52
+Yakut,FIVE,bies,52
+Azerbaijani,TOOTH,diʃ,53
+Bashkir,TOOTH,teʃ,53
+Chulym,TOOTH,tɘs,53
+Crimean_Tatar,TOOTH,tiʃ,53
+Cuman,TOOTH,tis,53
+Dolgan,TOOTH,tiːs,53
+Gagauz,TOOTH,diʃ,53
+Kara-Kalpak,TOOTH,tis,53
+Karachay-Balkar,TOOTH,tiʃ,53
+Karaim,TOOTH,tis,53
+Karaim,TOOTH,tiʃ,53
+Karaim,TOOTH,diʃ,53
+Kazakh,TOOTH,tɘs,53
+Khakas,TOOTH,tɘs,53
+Khalaj,TOOTH,tiːiʃ,53
+Kumyk,TOOTH,tiʃ,53
+Kyrgyz,TOOTH,tiʃ,53
+Nogai,TOOTH,tis,53
+Northern_Altai,TOOTH,tiʃ,53
+Old_Turkic,TOOTH,tiʃ,53
+Salar,TOOTH,tiʧ,53
+Shor,TOOTH,tiʃ,53
+Southern_Altai,TOOTH,tiʃ,53
+Tatar,TOOTH,teʃ,53
+Tofa,TOOTH,dɘʃ,53
+Turkish,TOOTH,diʃ,53
+Turkmen,TOOTH,diʃ,53
+Uyghur,TOOTH,ʧiʃ,53
+Uzbek,TOOTH,tiʃ,53
+West_Yugur,TOOTH,tɯs,53
+West_Yugur,TOOTH,tes,53
+Yakut,TOOTH,tiːs,53
+Chuvash,TOOTH,ʃɤ̆ʷl,54
+Azerbaijani,SEW,tic,55
+Bashkir,SEW,tek,55
+Chulym,SEW,tɘk,55
+Crimean_Tatar,SEW,tik,55
+Cuman,SEW,tik,55
+Dolgan,SEW,tik,55
+Gagauz,SEW,dik,55
+Kara-Kalpak,SEW,tik,55
+Karachay-Balkar,SEW,tik,55
+Karaim,SEW,tik,55
+Kazakh,SEW,tɘk,55
+Khakas,SEW,tɘk,55
+Khalaj,SEW,tik,55
+Kumyk,SEW,tik,55
+Kyrgyz,SEW,tik,55
+Nogai,SEW,tik,55
+Northern_Altai,SEW,tik,55
+Salar,SEW,tiχ,55
+Shor,SEW,tik,55
+Siberian_Tatar,SEW,tik,55
+Tatar,SEW,tek,55
+Turkish,SEW,dic,55
+Turkmen,SEW,tik,55
+Uyghur,SEW,tik,55
+Uzbek,SEW,tik,55
+West_Yugur,SEW,tek,55
+West_Yugur,SEW,tɯq,55
+Yakut,SEW,tik,55
+Chuvash,SEW,ɕɘ̆ʷle,56
+Northern_Altai,SEW,køktø,57
+Southern_Altai,SEW,køktø,57
+Tofa,SEW,dɑɑrɑ,58
+Tuvan,SEW,dɑːrɑ,58
+Azerbaijani,WATER,su,59
+Bashkir,WATER,hɯw,59
+Chulym,WATER,suɣ,59
+Chuvash,WATER,ʃɯv,59
+Crimean_Tatar,WATER,suw,59
+Cuman,WATER,su,59
+Dolgan,WATER,uu,59
+Gagauz,WATER,su,59
+Kara-Kalpak,WATER,suw,59
+Karachay-Balkar,WATER,suw,59
+Karaim,WATER,suv,59
+Kazakh,WATER,su,59
+Khakas,WATER,suɣ,59
+Khalaj,WATER,suw,59
+Kumyk,WATER,suw,59
+Kyrgyz,WATER,suu,59
+Nogai,WATER,suw,59
+Northern_Altai,WATER,suɣ,59
+Old_Turkic,WATER,suv,59
+Salar,WATER,su,59
+Shor,WATER,suɣ,59
+Siberian_Tatar,WATER,su,59
+Southern_Altai,WATER,suː,59
+Tatar,WATER,su,59
+Tofa,WATER,suɣ,59
+Turkish,WATER,su,59
+Turkmen,WATER,θuw,59
+Tuvan,WATER,suɣ,59
+Uyghur,WATER,su,59
+Uzbek,WATER,suv,59
+West_Yugur,WATER,su,59
+Yakut,WATER,uu,59
+Azerbaijani,LEAF,jɑrpɑɡ,60
+Bashkir,LEAF,jɑprɑq,60
+Crimean_Tatar,LEAF,jɑprɑq,60
+Cuman,LEAF,jɑprɑk,60
+Cuman,LEAF,jɑbuldrɑk,60
+Dolgan,LEAF,hebirdek,60
+Gagauz,LEAF,jɑprɑk,60
+Kara-Kalpak,LEAF,ʒɑpɯrɑq,60
+Karachay-Balkar,LEAF,ʧɑprɑq,60
+Karaim,LEAF,jɑprɑq,60
+Kazakh,LEAF,ʒɑpɯrɑq,60
+Kumyk,LEAF,jɑpɯrɑq,60
+Kyrgyz,LEAF,ʤɑlbɯrɑq,60
+Nogai,LEAF,jɑpɯrɑq,60
+Northern_Altai,LEAF,cɑlbɯrɑq,60
+Old_Turkic,LEAF,jɑpɯrɣɑq,60
+Salar,LEAF,jɑrfɑq,60
+Siberian_Tatar,LEAF,jɑprɑq,60
+Southern_Altai,LEAF,ɟɑlbrɑχ,60
+Tatar,LEAF,jɑfrɑq,60
+Turkish,LEAF,jɑprɑk,60
+Turkmen,LEAF,jɑprɑq,60
+Uyghur,LEAF,jopurmɑq,60
+Yakut,LEAF,sebirdeχ,60
+Chulym,LEAF,pyyr,61
+Khakas,LEAF,pyr,61
+Shor,LEAF,pyr,61
+Tofa,LEAF,byr,61
+Tuvan,LEAF,byry,61
+Chuvash,LEAF,ɕulʑɤ̆ʷ,62
+Northern_Altai,LEAF,qɑvɑq,63
+Siberian_Tatar,LEAF,qɑvɑq,63
+Azerbaijani,HEAR,eʃit,64
+Bashkir,HEAR,iʃet,64
+Chulym,HEAR,ɛs,64
+Chuvash,HEAR,ilt,64
+Crimean_Tatar,HEAR,eʃit,64
+Cuman,HEAR,esit,64
+Cuman,HEAR,eʃit,64
+Dolgan,HEAR,ihit,64
+Gagauz,HEAR,iʃit,64
+Kara-Kalpak,HEAR,esit,64
+Karachay-Balkar,HEAR,eʃit,64
+Karaim,HEAR,esit,64
+Karaim,HEAR,eʃit,64
+Kazakh,HEAR,esɘt,64
+Khakas,HEAR,is,64
+Khalaj,HEAR,iʃyt,64
+Kumyk,HEAR,eʃit,64
+Nogai,HEAR,esit,64
+Old_Turkic,HEAR,eʃit,64
+Salar,HEAR,iʃti,64
+Siberian_Tatar,HEAR,iʃit,64
+Siberian_Tatar,HEAR,eʃit,64
+Tatar,HEAR,iʃet,64
+Turkish,HEAR,iʃit,64
+Turkmen,HEAR,eʃit,64
+Uyghur,HEAR,iʃit,64
+Uzbek,HEAR,eʃit,64
+Yakut,HEAR,ihit,64
+Kyrgyz,HEAR,uq,65
+Northern_Altai,HEAR,uq,65
+Shor,HEAR,uq,65
+Siberian_Tatar,HEAR,uq,65
+Siberian_Tatar,HEAR,oq,65
+Southern_Altai,HEAR,uq,65
+Tofa,HEAR,dɯŋnɑ,66
+Tuvan,HEAR,dɯŋnɑ,66
+West_Yugur,HEAR,tinnɑ,66
+Azerbaijani,MEAT,æt,67
+Bashkir,MEAT,it,67
+Chulym,MEAT,ɛt,67
+Crimean_Tatar,MEAT,et,67
+Cuman,MEAT,et,67
+Dolgan,MEAT,et,67
+Kara-Kalpak,MEAT,et,67
+Karachay-Balkar,MEAT,et,67
+Karaim,MEAT,et,67
+Kazakh,MEAT,et,67
+Khakas,MEAT,it,67
+Khalaj,MEAT,ɛt,67
+Kumyk,MEAT,et,67
+Kyrgyz,MEAT,et,67
+Nogai,MEAT,et,67
+Northern_Altai,MEAT,et,67
+Old_Turkic,MEAT,et,67
+Salar,MEAT,et,67
+Shor,MEAT,et,67
+Siberian_Tatar,MEAT,ët,67
+Southern_Altai,MEAT,et,67
+Tatar,MEAT,it,67
+Tofa,MEAT,eˤt,67
+Turkish,MEAT,et,67
+Turkmen,MEAT,et,67
+Tuvan,MEAT,eˤt,67
+West_Yugur,MEAT,et,67
+West_Yugur,MEAT,jit,67
+Yakut,MEAT,et,67
+Azerbaijani,DIE,øl,68
+Bashkir,DIE,yl,68
+Chulym,DIE,øl,68
+Chuvash,DIE,vil,68
+Crimean_Tatar,DIE,øl,68
+Cuman,DIE,ol,68
+Dolgan,DIE,øl,68
+Gagauz,DIE,øl,68
+Kara-Kalpak,DIE,øl,68
+Karachay-Balkar,DIE,øl,68
+Karaim,DIE,øl,68
+Kazakh,DIE,øl,68
+Khakas,DIE,øl,68
+Kumyk,DIE,øl,68
+Kyrgyz,DIE,øl,68
+Nogai,DIE,øl,68
+Northern_Altai,DIE,øl,68
+Old_Turkic,DIE,øl,68
+Salar,DIE,ul,68
+Shor,DIE,øl,68
+Siberian_Tatar,DIE,øl,68
+Southern_Altai,DIE,øl,68
+Tatar,DIE,yl,68
+Tofa,DIE,øl,68
+Turkish,DIE,ølʲ,68
+Turkmen,DIE,øl,68
+Tuvan,DIE,øl,68
+Uyghur,DIE,øl,68
+Uzbek,DIE,ol,68
+West_Yugur,DIE,jul,68
+Yakut,DIE,øl,68
+Azerbaijani,BACK,ɑrχɑ,69
+Bashkir,BACK,ɑrqɑ,69
+Crimean_Tatar,BACK,ɑrqɑ,69
+Cuman,BACK,ɑrkɑ,69
+Gagauz,BACK,ɑrkɑ,69
+Kara-Kalpak,BACK,ɑrqɑ,69
+Karaim,BACK,ɑrkɑ,69
+Karaim,BACK,ɑrqɑ,69
+Kazakh,BACK,ɑrqɑ,69
+Khakas,BACK,ɑrɣɑ,69
+Khalaj,BACK,ɑrqɑ,69
+Kumyk,BACK,ɑrqɑ,69
+Kyrgyz,BACK,ɑrqɑ,69
+Nogai,BACK,ɑrqɑ,69
+Northern_Altai,BACK,ɑrqɑ,69
+Northern_Altai,BACK,ɑrɣɑ,69
+Old_Turkic,BACK,ɑrqɑ,69
+Salar,BACK,ɑrɣɑ,69
+Salar,BACK,ɑrχɑ,69
+Siberian_Tatar,BACK,ɑrɣɑ,69
+Tatar,BACK,ɑrqɑ,69
+Turkish,BACK,ɑrkɑ,69
+Turkmen,BACK,ɑrqɑ,69
+Uyghur,BACK,ɑrqɑ,69
+Uzbek,BACK,ɔrqɑ,69
+West_Yugur,BACK,ɑrqɑ,69
+Chulym,BACK,ʧɑːrən,70
+Chuvash,BACK,ɕurɤ̆ʷm,70
+Chulym,BACK,pɛl,71
+Kazakh,BACK,bel,71
+Northern_Altai,BACK,bel,71
+Southern_Altai,BACK,bel,71
+Dolgan,BACK,his,72
+Karachay-Balkar,BACK,sɯrt,73
+Northern_Altai,BACK,sɯrt,73
+Tatar,BACK,sɯrt,73
+Turkish,BACK,sɯrt,73
+Shor,BACK,køksy,74
+Yakut,BACK,køɣys,74
+Tofa,BACK,oːrhɑ,75
+Tuvan,BACK,oːrɣɑ,75
+Azerbaijani,DRINK,iʧ,76
+Bashkir,DRINK,es,76
+Chulym,DRINK,iʧ,76
+Chuvash,DRINK,ɘɕ,76
+Crimean_Tatar,DRINK,iʧ,76
+Cuman,DRINK,yʃ,76
+Cuman,DRINK,iʃ,76
+Cuman,DRINK,yʧ,76
+Cuman,DRINK,iʧ,76
+Dolgan,DRINK,is,76
+Gagauz,DRINK,iʧ,76
+Kara-Kalpak,DRINK,iʃ,76
+Karachay-Balkar,DRINK,iʧ,76
+Karaim,DRINK,iʧ,76
+Karaim,DRINK,iʦ,76
+Kazakh,DRINK,ɘʃ,76
+Khakas,DRINK,ɘs,76
+Khalaj,DRINK,iʧ,76
+Kumyk,DRINK,iʧ,76
+Kyrgyz,DRINK,iʧ,76
+Nogai,DRINK,iʃ,76
+Northern_Altai,DRINK,iʧ,76
+Old_Turkic,DRINK,iʧ,76
+Salar,DRINK,iʧ,76
+Shor,DRINK,iʃ,76
+Siberian_Tatar,DRINK,ëʧ,76
+Southern_Altai,DRINK,iʧ,76
+Tatar,DRINK,eʧ,76
+Tofa,DRINK,iʃ,76
+Turkish,DRINK,iʧmec,76
+Turkmen,DRINK,iʧ,76
+Tuvan,DRINK,iʃ,76
+Uyghur,DRINK,iʧ,76
+Uzbek,DRINK,iʧ,76
+West_Yugur,DRINK,iʧ,76
+West_Yugur,DRINK,iʃ,76
+West_Yugur,DRINK,eʧ,76
+Yakut,DRINK,is,76
+Azerbaijani,NEW,jeni,77
+Bashkir,NEW,jɑŋɯ,77
+Chulym,NEW,nʲɑɑ,77
+Chuvash,NEW,ɕɘnɘ,77
+Crimean_Tatar,NEW,jɑŋɯ,77
+Cuman,NEW,iɑnɡi,77
+Cuman,NEW,jɑnɡi,77
+Dolgan,NEW,hɑŋɑ,77
+Gagauz,NEW,jeni,77
+Kara-Kalpak,NEW,ʒɑŋɑ,77
+Karachay-Balkar,NEW,ʤɑŋɯ,77
+Karaim,NEW,jɑnɣɯ,77
+Kazakh,NEW,ʒɑŋɑ,77
+Khakas,NEW,nɑɑ,77
+Khalaj,NEW,jɛŋɡi,77
+Kumyk,NEW,jɑŋɯ,77
+Kyrgyz,NEW,ʤɑŋɯ,77
+Nogai,NEW,jɑŋɯ,77
+Northern_Altai,NEW,ɲɑŋɯ,77
+Northern_Altai,NEW,jɑː,77
+Old_Turkic,NEW,jɑŋɯ,77
+Salar,NEW,jɑŋɯ,77
+Shor,NEW,nɑː,77
+Siberian_Tatar,NEW,jɑŋɑ,77
+Southern_Altai,NEW,ɟɑŋɯ,77
+Tatar,NEW,jɑŋɑ,77
+Tofa,NEW,ɲɑɑ,77
+Turkish,NEW,jeni,77
+Uyghur,NEW,jeŋi,77
+West_Yugur,NEW,jɑŋɯ,77
+West_Yugur,NEW,jɑŋɑ,77
+Yakut,NEW,sɑŋɑ,77
+Azerbaijani,NOT,mɑ,78
+Bashkir,NOT,mɑ,78
+Chulym,NOT,bɑ,78
+Chuvash,NOT,mɑ,78
+Crimean_Tatar,NOT,mɑ,78
+Cuman,NOT,mɑ,78
+Dolgan,NOT,bɑ,78
+Gagauz,NOT,mɑ,78
+Kara-Kalpak,NOT,mɑ,78
+Kara-Kalpak,NOT,bɑ,78
+Kara-Kalpak,NOT,pɑ,78
+Karachay-Balkar,NOT,mɑ,78
+Karaim,NOT,mɑ,78
+Kazakh,NOT,mɑ,78
+Khakas,NOT,bɑ,78
+Khakas,NOT,pɑ,78
+Khakas,NOT,mɑ,78
+Khalaj,NOT,mɑ,78
+Kumyk,NOT,mɑ,78
+Kyrgyz,NOT,bɑ,78
+Nogai,NOT,mɑ,78
+Nogai,NOT,bɑ,78
+Nogai,NOT,pɑ,78
+Northern_Altai,NOT,bɑ,78
+Old_Turkic,NOT,mɑ,78
+Salar,NOT,mɑ,78
+Shor,NOT,pɑ,78
+Shor,NOT,bɑ,78
+Shor,NOT,mɑ,78
+Siberian_Tatar,NOT,mɑ,78
+Southern_Altai,NOT,mɑ,78
+Southern_Altai,NOT,bɑ,78
+Tatar,NOT,mɑ,78
+Tofa,NOT,bɑ,78
+Tofa,NOT,vɑ,78
+Tofa,NOT,pɑ,78
+Turkish,NOT,mɑ,78
+Turkmen,NOT,mɑ,78
+Tuvan,NOT,mɑ,78
+Tuvan,NOT,eves,78
+Uyghur,NOT,mɑ,78
+Uzbek,NOT,mɑ,78
+West_Yugur,NOT,emes,78
+West_Yugur,NOT,emestro,78
+West_Yugur,NOT,emeser,78
+West_Yugur,NOT,mɑ,78
+West_Yugur,NOT,pɑ,78
+Yakut,NOT,mɑ,78
+Yakut,NOT,bɑ,78
+Azerbaijani,SIT,otur,79
+Bashkir,SIT,ultɯr,79
+Chulym,SIT,oːlur,79
+Chuvash,SIT,lɑr,79
+Crimean_Tatar,SIT,otur,79
+Cuman,SIT,oltur,79
+Dolgan,SIT,olor,79
+Gagauz,SIT,otur,79
+Kara-Kalpak,SIT,otɯr,79
+Karachay-Balkar,SIT,oltur,79
+Karaim,SIT,oltur,79
+Kazakh,SIT,otɯr,79
+Khakas,SIT,odɯr,79
+Kumyk,SIT,oltur,79
+Kyrgyz,SIT,otur,79
+Nogai,SIT,oltɯr,79
+Northern_Altai,SIT,otur,79
+Old_Turkic,SIT,olur,79
+Salar,SIT,otɯr,79
+Shor,SIT,odur,79
+Siberian_Tatar,SIT,otɯr,79
+Southern_Altai,SIT,otɯr,79
+Tatar,SIT,utɯr,79
+Tofa,SIT,olur,79
+Tofa,SIT,olɯr,79
+Turkish,SIT,otur,79
+Turkmen,SIT,otur,79
+Tuvan,SIT,olur,79
+Uyghur,SIT,oltur,79
+Uzbek,SIT,otir,79
+West_Yugur,SIT,oltur,79
+Yakut,SIT,olor,79
+Khalaj,SIT,juor,80
+Azerbaijani,EGG,jumurtɑ,81
+Bashkir,EGG,jomortqɑ,81
+Chulym,EGG,ʧumurtqɑ,81
+Chuvash,EGG,ɕømɑrdɑ,81
+Crimean_Tatar,EGG,jɯmɯrtɑ,81
+Cuman,EGG,jumurtkɑ,81
+Dolgan,EGG,hɯmɯːt,81
+Gagauz,EGG,jɯmɯrtɑ,81
+Karaim,EGG,jumurtχɑ,81
+Kazakh,EGG,ʒʊmɯrtqɑ,81
+Khakas,EGG,nɯmɯrχɑ,81
+Khalaj,EGG,jumurqɑ,81
+Kumyk,EGG,jɯmɯrtqɑ,81
+Kyrgyz,EGG,ʤumurtqɑ,81
+Nogai,EGG,jumɯrtqɑ,81
+Northern_Altai,EGG,ɲurtqɑ,81
+Northern_Altai,EGG,ɲɯmɯrtqɑ,81
+Old_Turkic,EGG,jumurɣɑ,81
+Salar,EGG,jomurtɑ,81
+Salar,EGG,jumotor,81
+Shor,EGG,nɯbɯrtqɑ,81
+Siberian_Tatar,EGG,jomɯrtqɑ,81
+Southern_Altai,EGG,ɟɯmɯrtχɑ,81
+Tatar,EGG,jomɯrqɑ,81
+Tofa,EGG,ɲumurhɑ,81
+Turkish,EGG,jumurtɑ,81
+Turkmen,EGG,jumurtɡɑ,81
+Tuvan,EGG,ʧuurɣɑ,81
+Yakut,EGG,sɯmɯːt,81
+West_Yugur,EGG,ojɑ,82
+West_Yugur,EGG,ujɑ,82
+Azerbaijani,BARK,ɡɑbɯɡ,83
+Bashkir,BARK,qɑbɯq,83
+Chuvash,BARK,χubɤ̆ʷ,83
+Crimean_Tatar,BARK,qɑbuq,83
+Cuman,BARK,kɑbuk,83
+Gagauz,BARK,kɑbuk,83
+Kara-Kalpak,BARK,qɑbɯq,83
+Karachay-Balkar,BARK,qɑbuq,83
+Karaim,BARK,kɑbuk,83
+Kazakh,BARK,qɑbɯq,83
+Kumyk,BARK,qɑbuq,83
+Kyrgyz,BARK,qɑbɯq,83
+Nogai,BARK,qɑbɯq,83
+Northern_Altai,BARK,qɑɣɑʃ,83
+Salar,BARK,koχ,83
+Siberian_Tatar,BARK,qɑbɯq,83
+Tatar,BARK,qɑbɯq,83
+Turkish,BARK,kɑbuk,83
+Turkish,BARK,kɑbuːu,83
+Turkmen,BARK,ɡɑbɯq,83
+Uyghur,BARK,qovzɑq,83
+Chulym,BARK,qɑqβɑʧ,84
+Khakas,BARK,χɑχpɑs,84
+Shor,BARK,qɑqpɑʃ,84
+Dolgan,BARK,kɑtɯrɯk,85
+Khalaj,BARK,qɑːɑs,85
+Old_Turkic,BARK,qɑdɯz,85
+West_Yugur,BARK,qɑzdɯq,85
+Yakut,BARK,χɑtɯrɯk,85
+Tofa,BARK,ʧøˤprɛː,86
+Tuvan,BARK,ʧøvyreː,86
+Azerbaijani,ROOT,cøc,87
+Gagauz,ROOT,køk,87
+Turkish,ROOT,cøc,87
+Turkmen,ROOT,køk,87
+Bashkir,ROOT,tɑmɯr,88
+Chuvash,ROOT,tɯmɑr,88
+Crimean_Tatar,ROOT,tɑmɯr,88
+Kara-Kalpak,ROOT,tɑmɯr,88
+Karachay-Balkar,ROOT,tɑmɯr,88
+Karaim,ROOT,tɑmur,88
+Kazakh,ROOT,tɑmɯr,88
+Kumyk,ROOT,tɑmur,88
+Kyrgyz,ROOT,tɑmɯr,88
+Nogai,ROOT,tɑmɯr,88
+Siberian_Tatar,ROOT,tɑmɯr,88
+Tatar,ROOT,tɑmɯr,88
+Uyghur,ROOT,tomur,88
+Chulym,ROOT,ʧəltəs,89
+Dolgan,ROOT,hilis,89
+Old_Turkic,ROOT,jɯltɯz,89
+Shor,ROOT,ʧɯltɯs,89
+Tofa,ROOT,sɯldɯs,89
+Uyghur,ROOT,jiltiz,89
+Uyghur,ROOT,ʒiltiz,89
+Uzbek,ROOT,ildiz,89
+West_Yugur,ROOT,jɯltɯs,89
+Yakut,ROOT,silis,89
+Cuman,ROOT,tub,90
+Northern_Altai,ROOT,tɑzɯl,91
+Shor,ROOT,tɑzɯl,91
+Siberian_Tatar,ROOT,tɑzɯl,91
+Southern_Altai,ROOT,tɑzɯl,91
+Tuvan,ROOT,dɑzɯl,91
+Salar,ROOT,ozeχ,92
+Azerbaijani,FIRE,od,93
+Bashkir,FIRE,ut,93
+Chulym,FIRE,ot,93
+Chuvash,FIRE,vut,93
+Cuman,FIRE,ot,93
+Dolgan,FIRE,uot,93
+Kara-Kalpak,FIRE,ot,93
+Karachay-Balkar,FIRE,ot,93
+Karaim,FIRE,ot,93
+Kazakh,FIRE,ot,93
+Khakas,FIRE,ot,93
+Khalaj,FIRE,huːot,93
+Kumyk,FIRE,ot,93
+Kyrgyz,FIRE,ot,93
+Nogai,FIRE,ot,93
+Northern_Altai,FIRE,ot,93
+Old_Turkic,FIRE,ot,93
+Salar,FIRE,ot,93
+Shor,FIRE,ot,93
+Siberian_Tatar,FIRE,ot,93
+Southern_Altai,FIRE,ot,93
+Tatar,FIRE,ut,93
+Tofa,FIRE,ot,93
+Turkmen,FIRE,oːt,93
+Tuvan,FIRE,ot,93
+Uyghur,FIRE,ot,93
+West_Yugur,FIRE,ot,93
+Yakut,FIRE,uot,93
+Azerbaijani,SKIN,dæri,94
+Bashkir,SKIN,tire,94
+Chuvash,SKIN,tirɘ,94
+Crimean_Tatar,SKIN,teri,94
+Dolgan,SKIN,tiriː,94
+Gagauz,SKIN,deri,94
+Kara-Kalpak,SKIN,teri,94
+Karachay-Balkar,SKIN,teri,94
+Karaim,SKIN,teri,94
+Kazakh,SKIN,terɘ,94
+Khakas,SKIN,teːr,94
+Khalaj,SKIN,tɛri,94
+Kumyk,SKIN,teri,94
+Kyrgyz,SKIN,teri,94
+Nogai,SKIN,teri,94
+Northern_Altai,SKIN,tere,94
+Old_Turkic,SKIN,teri,94
+Salar,SKIN,tir,94
+Shor,SKIN,tere,94
+Siberian_Tatar,SKIN,tɛri,94
+Southern_Altai,SKIN,tere,94
+Tatar,SKIN,tire,94
+Turkish,SKIN,deri,94
+Turkmen,SKIN,deri,94
+Uyghur,SKIN,terɛ,94
+Uzbek,SKIN,teri,94
+West_Yugur,SKIN,ter,94
+West_Yugur,SKIN,tere,94
+Yakut,SKIN,tiriː,94
+Chulym,SKIN,ʧɑmɑɣ,95
+Cuman,SKIN,bilɑu,96
+Tofa,SKIN,keˤʃ,97
+Tuvan,SKIN,keʃ,97
+Azerbaijani,TAKE,ɟøtyr,98
+Bashkir,TAKE,ɑl,99
+Chulym,TAKE,ɑl,99
+Chuvash,TAKE,il,99
+Crimean_Tatar,TAKE,ɑl,99
+Cuman,TAKE,ɑl,99
+Dolgan,TAKE,ɯl,99
+Gagauz,TAKE,ɑl,99
+Kara-Kalpak,TAKE,ɑl,99
+Karachay-Balkar,TAKE,ɑl,99
+Karaim,TAKE,ɑl,99
+Kazakh,TAKE,ɑl,99
+Khakas,TAKE,ɑl,99
+Khalaj,TAKE,ɑl,99
+Kumyk,TAKE,ɑl,99
+Kyrgyz,TAKE,ɑl,99
+Nogai,TAKE,ɑl,99
+Northern_Altai,TAKE,ɑl,99
+Old_Turkic,TAKE,ɑl,99
+Salar,TAKE,ɑl,99
+Shor,TAKE,ɑl,99
+Siberian_Tatar,TAKE,ɑl,99
+Southern_Altai,TAKE,ɑl,99
+Tatar,TAKE,ɑl,99
+Tofa,TAKE,ɑl,99
+Turkish,TAKE,ɑɫ,99
+Turkmen,TAKE,ɑl,99
+Tuvan,TAKE,ɑl,99
+Uyghur,TAKE,ɑl,99
+Uzbek,TAKE,ɔl,99
+West_Yugur,TAKE,ɑl,99
+Yakut,TAKE,ɯl,99
+Azerbaijani,ASH,cyl,100
+Bashkir,ASH,køl,100
+Chulym,ASH,kulʲ,100
+Chuvash,ASH,kɘ̆ʷl,100
+Crimean_Tatar,ASH,kyl,100
+Dolgan,ASH,kyl,100
+Gagauz,ASH,kyl,100
+Kara-Kalpak,ASH,kyl,100
+Karachay-Balkar,ASH,kyl,100
+Karaim,ASH,kyl,100
+Kazakh,ASH,kyl,100
+Khakas,ASH,kyl,100
+Khalaj,ASH,kil,100
+Kumyk,ASH,kyl,100
+Kyrgyz,ASH,kyl,100
+Nogai,ASH,kyl,100
+Northern_Altai,ASH,kyl,100
+Old_Turkic,ASH,kyl,100
+Salar,ASH,kul,100
+Salar,ASH,kyl,100
+Shor,ASH,kyl,100
+Southern_Altai,ASH,kyl,100
+Tatar,ASH,køl,100
+Tofa,ASH,hyl,100
+Turkish,ASH,cylʲ,100
+Turkmen,ASH,kyl,100
+Tuvan,ASH,χyl,100
+Uyghur,ASH,kyl,100
+Uzbek,ASH,kul,100
+West_Yugur,ASH,kul,100
+Yakut,ASH,kyl,100
+Azerbaijani,THAT,o,101
+Chuvash,THAT,leʃ,101
+Crimean_Tatar,THAT,o,101
+Cuman,THAT,os ol,101
+Dolgan,THAT,ol,101
+Gagauz,THAT,o,101
+Kara-Kalpak,THAT,ol,101
+Karachay-Balkar,THAT,o,101
+Karaim,THAT,ol,101
+Khakas,THAT,ol,101
+Khalaj,THAT,o,101
+Kumyk,THAT,o,101
+Nogai,THAT,ol,101
+Northern_Altai,THAT,ol,101
+Old_Turkic,THAT,ol,101
+Salar,THAT,u,101
+Shor,THAT,ol,101
+Siberian_Tatar,THAT,ul,101
+Southern_Altai,THAT,ol,101
+Tofa,THAT,ol,101
+Turkish,THAT,o,101
+Turkmen,THAT,ol,101
+Uyghur,THAT,u,101
+Uzbek,THAT,o,101
+West_Yugur,THAT,ol,101
+Yakut,THAT,ol,101
+Bashkir,THAT,teɡe,102
+Chulym,THAT,tɛɣ,102
+Kyrgyz,THAT,tiɡi,102
+Tatar,THAT,teɡe,102
+Tuvan,THAT,døø,102
+Kazakh,THAT,ɑnɑ,103
+Azerbaijani,HAIR (HEAD),sɑʧ,104
+Bashkir,HAIR (HEAD),sɛs,104
+Chulym,HAIR (HEAD),ʧɑʧ,104
+Chuvash,HAIR (HEAD),ɕyɕ,104
+Crimean_Tatar,HAIR (HEAD),sɑʧ,104
+Cuman,HAIR (HEAD),zɑk,104
+Dolgan,HAIR (HEAD),ɑs,104
+Gagauz,HAIR (HEAD),sɑʧ,104
+Kara-Kalpak,HAIR (HEAD),ʃɑʃ,104
+Karachay-Balkar,HAIR (HEAD),ʧɑʧ,104
+Karaim,HAIR (HEAD),sɑʧ,104
+Karaim,HAIR (HEAD),seʧ,104
+Karaim,HAIR (HEAD),ʦɑʦ,104
+Karaim,HAIR (HEAD),ʧɑʧ,104
+Kazakh,HAIR (HEAD),ʃɑʃ,104
+Khakas,HAIR (HEAD),sɑs,104
+Khalaj,HAIR (HEAD),sɑʧ,104
+Kumyk,HAIR (HEAD),ʧɑʧ,104
+Kyrgyz,HAIR (HEAD),ʧɑʧ,104
+Nogai,HAIR (HEAD),ʃɑʃ,104
+Northern_Altai,HAIR (HEAD),ʧɑʧ,104
+Northern_Altai,HAIR (HEAD),ʃɑʃ,104
+Old_Turkic,HAIR (HEAD),sɑʧ,104
+Salar,HAIR (HEAD),sɑʧ,104
+Shor,HAIR (HEAD),ʃɑʃ,104
+Siberian_Tatar,HAIR (HEAD),ʦɑʦ,104
+Southern_Altai,HAIR (HEAD),ʧɑʧ,104
+Tatar,HAIR (HEAD),ʧɛʧ,104
+Tofa,HAIR (HEAD),ʧeˤʃ,104
+Turkish,HAIR (HEAD),sɑʧ,104
+Turkmen,HAIR (HEAD),θɑʧ,104
+Uyghur,HAIR (HEAD),ʧɑʧ,104
+Uzbek,HAIR (HEAD),sɔʧ,104
+West_Yugur,HAIR (HEAD),sɛʤ,104
+West_Yugur,HAIR (HEAD),ʃɑʤ,104
+West_Yugur,HAIR (HEAD),sɑʧ,104
+Yakut,HAIR (HEAD),ɑs,104
+Kumyk,HAIR (HEAD),tyk,105
+Tuvan,HAIR (HEAD),dyk,105
+Azerbaijani,MOON,ɑj,106
+Bashkir,MOON,ɑj,106
+Chulym,MOON,ɑjɣɑrɑːɣə,106
+Chuvash,MOON,ujɤ̆ʷχ,106
+Crimean_Tatar,MOON,ɑj,106
+Cuman,MOON,ɑj,106
+Dolgan,MOON,ɯj,106
+Gagauz,MOON,ɑj,106
+Kara-Kalpak,MOON,ɑj,106
+Karachay-Balkar,MOON,ɑj,106
+Karaim,MOON,ɑj,106
+Kazakh,MOON,ɑj,106
+Khakas,MOON,ɑj,106
+Khalaj,MOON,hɑːɑj,106
+Kumyk,MOON,ɑj,106
+Kyrgyz,MOON,ɑj,106
+Nogai,MOON,ɑj,106
+Northern_Altai,MOON,ɑj,106
+Old_Turkic,MOON,ɑj,106
+Salar,MOON,ɑj,106
+Shor,MOON,ɑj,106
+Siberian_Tatar,MOON,ɑjɑq,106
+Southern_Altai,MOON,ɑj,106
+Tatar,MOON,ɑj,106
+Tofa,MOON,ɑj,106
+Turkish,MOON,ɑj,106
+Turkmen,MOON,ɑj,106
+Tuvan,MOON,ɑj,106
+Uyghur,MOON,ɑj,106
+Uzbek,MOON,ɔj,106
+West_Yugur,MOON,ɑj,106
+Yakut,MOON,ɯj,106
+Azerbaijani,ONE,bir,107
+Bashkir,ONE,ber,107
+Chulym,ONE,pɘr,107
+Chuvash,ONE,pɘrre,107
+Chuvash,ONE,pɘr,107
+Crimean_Tatar,ONE,bir,107
+Cuman,ONE,bir,107
+Dolgan,ONE,biːr,107
+Gagauz,ONE,bir,107
+Kara-Kalpak,ONE,bir,107
+Karachay-Balkar,ONE,bir,107
+Karaim,ONE,bir,107
+Kazakh,ONE,bɘr,107
+Khakas,ONE,pɘr,107
+Khalaj,ONE,biː,107
+Kumyk,ONE,bir,107
+Kyrgyz,ONE,bir,107
+Nogai,ONE,bir,107
+Northern_Altai,ONE,pir,107
+Northern_Altai,ONE,bir,107
+Northern_Altai,ONE,mir,107
+Northern_Altai,ONE,vir,107
+Old_Turkic,ONE,bir,107
+Salar,ONE,bir,107
+Shor,ONE,pir,107
+Siberian_Tatar,ONE,pir,107
+Southern_Altai,ONE,bir,107
+Tatar,ONE,ber,107
+Tofa,ONE,bɘr,107
+Tofa,ONE,bɘrɛɛ,107
+Turkish,ONE,bir,107
+Turkmen,ONE,bir,107
+Tuvan,ONE,bir,107
+Uyghur,ONE,bir,107
+Uzbek,ONE,bir,107
+West_Yugur,ONE,per,107
+West_Yugur,ONE,pɯr,107
+Yakut,ONE,biːr,107
+Azerbaijani,THREE,yʧ,108
+Bashkir,THREE,øs,108
+Chulym,THREE,yʧ,108
+Chuvash,THREE,viɕɕɘ,108
+Chuvash,THREE,viʑɘ,108
+Chuvash,THREE,viɕ,108
+Crimean_Tatar,THREE,yʧ,108
+Cuman,THREE,uʧ,108
+Dolgan,THREE,ys,108
+Gagauz,THREE,yʧ,108
+Kara-Kalpak,THREE,yʃ,108
+Karachay-Balkar,THREE,yʧ,108
+Karaim,THREE,yʧ,108
+Kazakh,THREE,yʃ,108
+Khakas,THREE,ys,108
+Khalaj,THREE,yːʧ,108
+Kumyk,THREE,yʧ,108
+Kyrgyz,THREE,yʧ,108
+Nogai,THREE,yʃ,108
+Northern_Altai,THREE,yʧ,108
+Northern_Altai,THREE,yʃ,108
+Old_Turkic,THREE,yʧ,108
+Salar,THREE,uʃ,108
+Shor,THREE,yʃ,108
+Siberian_Tatar,THREE,øʧ,108
+Southern_Altai,THREE,yʧ,108
+Tatar,THREE,øʧ,108
+Tofa,THREE,yʃ,108
+Turkish,THREE,yʧ,108
+Turkmen,THREE,yʧ,108
+Tuvan,THREE,yʃ,108
+Uyghur,THREE,yʧ,108
+Uzbek,THREE,uʧ,108
+West_Yugur,THREE,yʃ,108
+West_Yugur,THREE,uʃ,108
+Yakut,THREE,ys,108
+Azerbaijani,I,mæn,109
+Bashkir,I,min,109
+Chulym,I,mɛn,109
+Crimean_Tatar,I,men,109
+Cuman,I,men,109
+Dolgan,I,min,109
+Gagauz,I,bɛn,109
+Kara-Kalpak,I,men,109
+Karachay-Balkar,I,men,109
+Karaim,I,men,109
+Kazakh,I,men,109
+Khakas,I,min,109
+Khalaj,I,mɛn,109
+Kumyk,I,men,109
+Kyrgyz,I,men,109
+Nogai,I,men,109
+Northern_Altai,I,men,109
+Old_Turkic,I,ben,109
+Salar,I,men,109
+Shor,I,men,109
+Siberian_Tatar,I,min,109
+Southern_Altai,I,men,109
+Tatar,I,min,109
+Tofa,I,men,109
+Turkish,I,ben,109
+Turkmen,I,men,109
+Tuvan,I,men,109
+Uyghur,I,mɛn,109
+Uzbek,I,men,109
+West_Yugur,I,men,109
+Yakut,I,min,109
+Chuvash,I,ebɘ,110
+Azerbaijani,WORM,ɡurd,111
+Chulym,WORM,qurt,111
+Chuvash,WORM,χurt,111
+Crimean_Tatar,WORM,qurt,111
+Cuman,WORM,kurt,111
+Gagauz,WORM,kurt,111
+Kara-Kalpak,WORM,qurt,111
+Karachay-Balkar,WORM,qurt,111
+Karaim,WORM,kurt,111
+Kazakh,WORM,qʊrt,111
+Khakas,WORM,χurt,111
+Khalaj,WORM,quːrt,111
+Kyrgyz,WORM,qurt,111
+Nogai,WORM,qurt,111
+Northern_Altai,WORM,qurt,111
+Old_Turkic,WORM,qurt,111
+Shor,WORM,qurt,111
+Siberian_Tatar,WORM,qort,111
+Southern_Altai,WORM,qurt,111
+Tatar,WORM,qort,111
+Tofa,WORM,quˤrt,111
+Turkish,WORM,kurt,111
+Turkmen,WORM,ɡurʧuq,111
+Tuvan,WORM,qurt,111
+Uyghur,WORM,qurut,111
+Azerbaijani,WORM,soχulʧɑn,112
+Bashkir,WORM,selɛwsen,112
+Chulym,WORM,søøskæj,112
+Crimean_Tatar,WORM,sɯvɑlʧɑn,112
+Kumyk,WORM,χurt,112
+Kyrgyz,WORM,søølʤɑn,112
+Nogai,WORM,ʃɯlɑwʃɑn,112
+Salar,WORM,suɡulʤɯŋ,112
+Shor,WORM,ʃoːʃqɑn,112
+Southern_Altai,WORM,ʧojloʃqon,112
+Tatar,WORM,suɑlʧɑn,112
+Tofa,WORM,ʃojlɑʃqɑn,112
+Turkish,WORM,soɫuʤɑn,112
+Uyghur,WORM,ʧuvɑlʧɑŋ,112
+Uzbek,WORM,ʧuvɑlʧɑŋ,112
+Chuvash,WORM,ømɑn,113
+Azerbaijani,FISH,bɑlɯɡ,114
+Bashkir,FISH,bɑlɯq,114
+Chulym,FISH,pɑːləq,114
+Chuvash,FISH,pulɤ̆ʷ,114
+Crimean_Tatar,FISH,bɑlɯq,114
+Cuman,FISH,bɑlik,114
+Cuman,FISH,bɑluk,114
+Dolgan,FISH,bɑlɯk,114
+Gagauz,FISH,bɑlɯk,114
+Kara-Kalpak,FISH,bɑlɯq,114
+Karaim,FISH,bɑlɯk,114
+Karaim,FISH,bɑlɯq,114
+Kazakh,FISH,bɑlɯq,114
+Khakas,FISH,pɑlɯχ,114
+Kumyk,FISH,bɑlɯq,114
+Kyrgyz,FISH,bɑlɯq,114
+Nogai,FISH,bɑlɯq,114
+Northern_Altai,FISH,bɑlɯq,114
+Old_Turkic,FISH,bɑlɯq,114
+Salar,FISH,bɑluχ,114
+Shor,FISH,pɑlɯq,114
+Siberian_Tatar,FISH,bɑlɯq,114
+Southern_Altai,FISH,bɑlɯq,114
+Tatar,FISH,bɑlɯq,114
+Tofa,FISH,bɑlɯq,114
+Turkish,FISH,bɑɫɯk,114
+Turkmen,FISH,bɑlɯq,114
+Tuvan,FISH,bɑlɯq,114
+Uyghur,FISH,beliq,114
+Uzbek,FISH,bɑliq,114
+Yakut,FISH,bɑlɯk,114
+Karachay-Balkar,FISH,ʧɑbɑq,115
+Azerbaijani,SMALL,ciʧic,116
+Chulym,SMALL,kɘʧeeʧ,116
+Cuman,SMALL,kyʧe,116
+Cuman,SMALL,kiʧi,116
+Dolgan,SMALL,kyʧʧyɡyj,116
+Gagauz,SMALL,kyʧyʤyk,116
+Kara-Kalpak,SMALL,kiʃkene,116
+Kara-Kalpak,SMALL,kiʃkentɑj,116
+Karachay-Balkar,SMALL,ɡitʧe,116
+Karaim,SMALL,kiʧi,116
+Karaim,SMALL,kiʦi,116
+Kazakh,SMALL,kɘʃkene,116
+Kazakh,SMALL,kɘʃkentɑj,116
+Khakas,SMALL,kɘʧiʤek,116
+Kumyk,SMALL,ɡiʧʧi,116
+Kyrgyz,SMALL,kiʧine,116
+Nogai,SMALL,kiʃkej,116
+Northern_Altai,SMALL,kiʤiɡ,116
+Northern_Altai,SMALL,kiʧi,116
+Northern_Altai,SMALL,kiʧinek,116
+Northern_Altai,SMALL,kiʧeʧ,116
+Northern_Altai,SMALL,kiʧy,116
+Old_Turkic,SMALL,kiʧiɡ,116
+Salar,SMALL,kiʧi,116
+Salar,SMALL,kiʤi,116
+Shor,SMALL,kiʧiɡ,116
+Siberian_Tatar,SMALL,kiʧy,116
+Southern_Altai,SMALL,kiʧi,116
+Tatar,SMALL,keʧkenɛ,116
+Turkish,SMALL,cyʧyc,116
+Turkmen,SMALL,kiʧi,116
+Uyghur,SMALL,kiʧik,116
+Uzbek,SMALL,kiʧkinɑ,116
+West_Yugur,SMALL,kiʧiɡ,116
+Yakut,SMALL,kuʧːuɡuj,116
+Bashkir,SMALL,bɛlɛkɛj,117
+Bashkir,SMALL,bɛlɛkɛs,117
+Crimean_Tatar,SMALL,ufɑʧɯq,118
+Turkish,SMALL,ufɑk,118
+Azerbaijani,GRASS,ot,119
+Chulym,GRASS,ot,119
+Crimean_Tatar,GRASS,ot,119
+Dolgan,GRASS,ot,119
+Gagauz,GRASS,ot,119
+Karaim,GRASS,ot,119
+Karaim,GRASS,jɑʃot,119
+Khakas,GRASS,ot,119
+Khalaj,GRASS,oot,119
+Kumyk,GRASS,ot,119
+Shor,GRASS,ot,119
+Turkish,GRASS,ot,119
+Turkmen,GRASS,ot,119
+Tuvan,GRASS,oˤt,119
+Uyghur,GRASS,ot,119
+Uzbek,GRASS,ot,119
+West_Yugur,GRASS,oht,119
+Yakut,GRASS,ot,119
+Bashkir,GRASS,ylɛn,120
+Crimean_Tatar,GRASS,ølen,120
+Nogai,GRASS,ølen,120
+Northern_Altai,GRASS,øløŋ,120
+Shor,GRASS,øleŋ,120
+Siberian_Tatar,GRASS,ylɛŋ,120
+Southern_Altai,GRASS,øløŋ,120
+Tatar,GRASS,ylɛn,120
+Chuvash,GRASS,kurɤ̆ʷk,121
+Cuman,GRASS,kukel,122
+Tofa,GRASS,køk,122
+Kara-Kalpak,GRASS,ʃøp,123
+Kazakh,GRASS,ʃøp,123
+Kyrgyz,GRASS,ʧøp,123
+Salar,GRASS,ʧøp,123
+Salar,GRASS,ʧyp,123
+Uyghur,GRASS,ʧøp,123
+Tuvan,GRASS,siɡen,124
+Azerbaijani,SHORT,ɡɯsɑ,125
+Bashkir,SHORT,qɯsqɑ,125
+Chulym,SHORT,qəsqɑ,125
+Chuvash,SHORT,kɘske,125
+Crimean_Tatar,SHORT,qɯsqɑ,125
+Cuman,SHORT,kiʃkɑ,125
+Gagauz,SHORT,kɯsɑ,125
+Kara-Kalpak,SHORT,qɯsqɑ,125
+Karachay-Balkar,SHORT,qɯsχɑ,125
+Karaim,SHORT,kɯskɑ,125
+Kazakh,SHORT,qɯʃqɑ,125
+Khakas,SHORT,χɯsχɑ,125
+Kumyk,SHORT,qɯsɣɑ,125
+Kyrgyz,SHORT,qɯsqɑ,125
+Nogai,SHORT,qɯsqɑ,125
+Northern_Altai,SHORT,qɯsqɑ,125
+Old_Turkic,SHORT,qɯsɡɑ,125
+Salar,SHORT,χɯsχɑ,125
+Shor,SHORT,qɯsqɑ,125
+Southern_Altai,SHORT,qɯsχɑ,125
+Tatar,SHORT,qɯsqɑ,125
+Tofa,SHORT,qɯˤsqɑ,125
+Turkish,SHORT,kɯsɑ,125
+Turkmen,SHORT,ɡɯθɡɑ,125
+Tuvan,SHORT,qɯsqɑ,125
+Uyghur,SHORT,qisqɑ,125
+West_Yugur,SHORT,qɯsqɑ,125
+Dolgan,SHORT,kɯlɡɑs,126
+Yakut,SHORT,kɯlɡɑs,126
+Siberian_Tatar,SHORT,qɑrsɑq,127
+Azerbaijani,SHARP,iti,128
+Chulym,SHARP,ʧɘdɘɣ,128
+Chuvash,SHARP,ɕivɘʧ,128
+Cuman,SHARP,iti,128
+Dolgan,SHARP,hɯtɯː,128
+Karachay-Balkar,SHARP,ʤiti,128
+Karaim,SHARP,iti,128
+Khakas,SHARP,ʧɘtɘɡ,128
+Khalaj,SHARP,jitdi,128
+Khalaj,SHARP,jittiː,128
+Kumyk,SHARP,itti,128
+Old_Turkic,SHARP,jiti,128
+Old_Turkic,SHARP,jitti,128
+Shor,SHARP,ʧidiɡ,128
+Tofa,SHARP,ʧiˤtɘ,128
+Turkmen,SHARP,jiti,128
+Tuvan,SHARP,ʧidiɡ,128
+West_Yugur,SHARP,ɯʃtɯɣ,128
+Yakut,SHARP,sɯtɯː,128
+Bashkir,SHARP,ytker,129
+Kara-Kalpak,SHARP,øtkir,129
+Kazakh,SHARP,øtkɘr,129
+Kyrgyz,SHARP,øtkyr,129
+Nogai,SHARP,øtkir,129
+Northern_Altai,SHARP,øtkyr,129
+Southern_Altai,SHARP,øtkyr,129
+Southern_Altai,SHARP,ødyr,129
+Tatar,SHARP,ytken,129
+Uyghur,SHARP,øtkyr,129
+Uzbek,SHARP,otkir,129
+Crimean_Tatar,SHARP,keskin,130
+Gagauz,SHARP,keskin,130
+Khalaj,SHARP,kɛsɡili,130
+Turkish,SHARP,cescin,130
+Kyrgyz,SHARP,qurʧ,131
+Southern_Altai,SHARP,qurʧ,131
+Azerbaijani,MOUTH,ɑɣɯz,132
+Bashkir,MOUTH,ɑwɯð,132
+Chulym,MOUTH,ɑːɣəs,132
+Crimean_Tatar,MOUTH,ɑɣɯz,132
+Cuman,MOUTH,ɑɡis,132
+Gagauz,MOUTH,ɑːz,132
+Kara-Kalpak,MOUTH,ɑwɯz,132
+Karachay-Balkar,MOUTH,ɑwuz,132
+Karaim,MOUTH,ɑvuz,132
+Kazakh,MOUTH,ɑwɯz,132
+Khakas,MOUTH,ɑɑs,132
+Khalaj,MOUTH,ɑːɣɯz,132
+Kumyk,MOUTH,ɑwuz,132
+Kyrgyz,MOUTH,ooz,132
+Nogai,MOUTH,ɑwɯz,132
+Northern_Altai,MOUTH,ɑɣɯs,132
+Old_Turkic,MOUTH,ɑɣɯz,132
+Salar,MOUTH,ɑɣɯz,132
+Shor,MOUTH,ɑqsɯ,132
+Siberian_Tatar,MOUTH,ɑwɯs,132
+Southern_Altai,MOUTH,oos,132
+Tatar,MOUTH,ɑwɯz,132
+Tofa,MOUTH,ɑɑs,132
+Turkish,MOUTH,ɑːɯz,132
+Turkmen,MOUTH,ɑɣɯð,132
+Tuvan,MOUTH,ɑɑs,132
+Uyghur,MOUTH,eɣiz,132
+Uzbek,MOUTH,ɔɣiz,132
+West_Yugur,MOUTH,ɑɣɯs,132
+West_Yugur,MOUTH,ɑχs,132
+Chuvash,MOUTH,ɕøvɑr,133
+Dolgan,MOUTH,ɑɲɑk,134
+Yakut,MOUTH,ɑj̃ɑχ,134
+Azerbaijani,WE,biz,135
+Bashkir,WE,beð,135
+Chulym,WE,pɘs,135
+Chuvash,WE,ebir,135
+Crimean_Tatar,WE,biz,135
+Cuman,WE,biz,135
+Dolgan,WE,bihiɡi,135
+Gagauz,WE,biz,135
+Kara-Kalpak,WE,biz,135
+Karachay-Balkar,WE,biz,135
+Karaim,WE,biz,135
+Kazakh,WE,bɘz,135
+Khakas,WE,pɘs,135
+Khalaj,WE,biz,135
+Kumyk,WE,biz,135
+Kyrgyz,WE,biz,135
+Nogai,WE,biz,135
+Northern_Altai,WE,pis,135
+Old_Turkic,WE,biz,135
+Salar,WE,piser,135
+Shor,WE,pis,135
+Siberian_Tatar,WE,biz,135
+Southern_Altai,WE,bis,135
+Tatar,WE,bez,135
+Tofa,WE,bister,135
+Turkish,WE,biz,135
+Turkmen,WE,bið,135
+Tuvan,WE,bis,135
+Uyghur,WE,biz,135
+Uzbek,WE,biz,135
+West_Yugur,WE,mɯs,135
+West_Yugur,WE,mɯster,135
+Yakut,WE,bihiɡi,135
+Azerbaijani,BIRD,ɡuʃ,136
+Bashkir,BIRD,qoʃ,136
+Chulym,BIRD,qus,136
+Chulym,BIRD,quʧɑq,136
+Crimean_Tatar,BIRD,quʃ,136
+Cuman,BIRD,kus,136
+Gagauz,BIRD,kuʃ,136
+Kara-Kalpak,BIRD,qus,136
+Karaim,BIRD,kuʃ,136
+Karaim,BIRD,kus,136
+Kazakh,BIRD,qʊs,136
+Khakas,BIRD,χus,136
+Kumyk,BIRD,quʃ,136
+Kyrgyz,BIRD,quʃ,136
+Nogai,BIRD,qus,136
+Northern_Altai,BIRD,quʃ,136
+Old_Turkic,BIRD,quʃ,136
+Salar,BIRD,quʃ,136
+Shor,BIRD,quʃ,136
+Siberian_Tatar,BIRD,quʃ,136
+Southern_Altai,BIRD,quʃ,136
+Tatar,BIRD,qoʃ,136
+Tofa,BIRD,quˤʃqɑʃ,136
+Turkish,BIRD,kuʃ,136
+Turkmen,BIRD,ɡuʃ,136
+Tuvan,BIRD,quʃ,136
+Uyghur,BIRD,quʃ,136
+Uzbek,BIRD,quʃ,136
+West_Yugur,BIRD,qus,136
+West_Yugur,BIRD,qos,136
+Chuvash,BIRD,kɑjɤ̆ʷk,137
+Dolgan,BIRD,køtør,138
+Yakut,BIRD,køtør,138
+Karachay-Balkar,BIRD,qɑnɑtlɯ,139
+Kyrgyz,BIRD,qɑnɑttuː,139
+Bashkir,PERSON,keʃe,140
+Chulym,PERSON,kɘzɘ,140
+Cuman,PERSON,kisi,140
+Dolgan,PERSON,kihi,140
+Karaim,PERSON,kiʃi,140
+Kazakh,PERSON,kɘsɘ,140
+Khakas,PERSON,kɘzɘ,140
+Kumyk,PERSON,ɡiʃi,140
+Kyrgyz,PERSON,kiʃi,140
+Nogai,PERSON,kisi,140
+Northern_Altai,PERSON,kiʒi,140
+Northern_Altai,PERSON,kiʤi,140
+Old_Turkic,PERSON,kiʃi,140
+Salar,PERSON,kiʃ,140
+Shor,PERSON,kiʒi,140
+Siberian_Tatar,PERSON,kiʃi,140
+Southern_Altai,PERSON,kiʒi,140
+Tatar,PERSON,keʃe,140
+Tofa,PERSON,kiʃi,140
+Turkish,PERSON,ciʃi,140
+Tuvan,PERSON,kiʒi,140
+Uyghur,PERSON,kiʃi,140
+Uzbek,PERSON,kiʃi,140
+West_Yugur,PERSON,kise,140
+Yakut,PERSON,kihi,140
+Chuvash,PERSON,ɕɯn,141
+Old_Turkic,PERSON,jɑlŋuq,141
+Azerbaijani,BIG,bøjyc,142
+Crimean_Tatar,BIG,byjyk,142
+Gagauz,BIG,byyk,142
+Karaim,BIG,bijik,142
+Karaim,BIG,byjyk,142
+Khalaj,BIG,bydyk,142
+Khalaj,BIG,bidik,142
+Old_Turkic,BIG,bedyk,142
+Turkish,BIG,byjyc,142
+West_Yugur,BIG,pezik,142
+Chulym,BIG,uluɣ,143
+Cuman,BIG,ulu,143
+Dolgan,BIG,ulɑkɑn,143
+Karachay-Balkar,BIG,ullu,143
+Karaim,BIG,ullu,143
+Khakas,BIG,uluɣ,143
+Kumyk,BIG,ullu,143
+Old_Turkic,BIG,uluɣ,143
+Salar,BIG,ullɯ,143
+Shor,BIG,uluɣ,143
+Siberian_Tatar,BIG,ulɯ,143
+Siberian_Tatar,BIG,olu,143
+Tofa,BIG,uluɣ,143
+Turkmen,BIG,ulɯ,143
+Tuvan,BIG,uluɣ,143
+Yakut,BIG,ulɑχɑn,143
+Chuvash,BIG,pɯzɤ̆ʷk,144
+Kara-Kalpak,BIG,ylken,145
+Kazakh,BIG,ylken,145
+Nogai,BIG,yjken,145
+Azerbaijani,BREAST,cøcs,146
+Bashkir,BREAST,kykrɛk,146
+Chuvash,BREAST,køɡør,146
+Crimean_Tatar,BREAST,kokys,146
+Cuman,BREAST,køksuɡ,146
+Cuman,BREAST,køɡis,146
+Gagauz,BREAST,ɡyːs,146
+Kara-Kalpak,BREAST,køkyrek,146
+Karachay-Balkar,BREAST,køkyrek,146
+Karaim,BREAST,køkrɛk,146
+Karaim,BREAST,kekrek,146
+Karaim,BREAST,køkrek,146
+Karaim,BREAST,køkis,146
+Karaim,BREAST,køχis,146
+Kazakh,BREAST,køkrek,146
+Khakas,BREAST,køɡɘs,146
+Khakas,BREAST,køksɘ,146
+Khalaj,BREAST,kiːes,146
+Khalaj,BREAST,køjs,146
+Kumyk,BREAST,køkyrek,146
+Kyrgyz,BREAST,køkyrøk,146
+Nogai,BREAST,køkirek,146
+Northern_Altai,BREAST,køɡys,146
+Old_Turkic,BREAST,køɡyz,146
+Salar,BREAST,kyprɛχ,146
+Siberian_Tatar,BREAST,køkrɛk,146
+Siberian_Tatar,BREAST,kykrɛk,146
+Southern_Altai,BREAST,køɡys,146
+Tatar,BREAST,kykrɛk,146
+Turkish,BREAST,ɟøːys,146
+Turkmen,BREAST,kykrek,146
+Uyghur,BREAST,køkrɛk,146
+Uyghur,BREAST,køksɛ,146
+Uzbek,BREAST,kokrɑk,146
+West_Yugur,BREAST,ɡøs,146
+Azerbaijani,BREAST,døʃ,147
+Bashkir,BREAST,tyʃ,147
+Chulym,BREAST,tøs,147
+Cuman,BREAST,tos,147
+Dolgan,BREAST,tyøs,147
+Kara-Kalpak,BREAST,tøs,147
+Karachay-Balkar,BREAST,tøʃ,147
+Karaim,BREAST,tøʃ,147
+Karaim,BREAST,tes,147
+Kazakh,BREAST,tøs,147
+Kumyk,BREAST,tøʃ,147
+Northern_Altai,BREAST,tøʃ,147
+Old_Turkic,BREAST,tøʃ,147
+Shor,BREAST,tøʃ,147
+Siberian_Tatar,BREAST,tyʃ,147
+Southern_Altai,BREAST,tøʃ,147
+Tatar,BREAST,tyʃ,147
+Tofa,BREAST,tøʃ,147
+Turkmen,BREAST,døʃ,147
+West_Yugur,BREAST,tos,147
+West_Yugur,BREAST,tus,147
+West_Yugur,BREAST,tys,147
+Yakut,BREAST,tyøs,147
+Kara-Kalpak,BREAST,ɡewde,148
+Kazakh,BREAST,kewde,148
+Azerbaijani,FIREWOOD,odun,149
+Bashkir,FIREWOOD,utɯn,149
+Chulym,FIREWOOD,oːduŋ,149
+Chuvash,FIREWOOD,vudɤ̆ʷ,149
+Crimean_Tatar,FIREWOOD,odun,149
+Cuman,FIREWOOD,odim,149
+Gagauz,FIREWOOD,odun,149
+Kara-Kalpak,FIREWOOD,otɯn,149
+Karachay-Balkar,FIREWOOD,otun,149
+Karaim,FIREWOOD,otun,149
+Kazakh,FIREWOOD,otɯn,149
+Khakas,FIREWOOD,odɯŋ,149
+Khalaj,FIREWOOD,huːotun,149
+Kyrgyz,FIREWOOD,otun,149
+Nogai,FIREWOOD,otɯn,149
+Old_Turkic,FIREWOOD,otuŋ,149
+Salar,FIREWOOD,otɯn,149
+Salar,FIREWOOD,oʦɯn,149
+Salar,FIREWOOD,uʦɯn,149
+Shor,FIREWOOD,oduŋ,149
+Siberian_Tatar,FIREWOOD,otɯn,149
+Southern_Altai,FIREWOOD,odɯn,149
+Tatar,FIREWOOD,utɯn,149
+Turkish,FIREWOOD,odun,149
+Turkmen,FIREWOOD,odun,149
+Uyghur,FIREWOOD,otun,149
+Uzbek,FIREWOOD,otin,149
+West_Yugur,FIREWOOD,otun,149
+West_Yugur,FIREWOOD,otɯn,149
+Cuman,FIREWOOD,ɑɡɑʧ,150
+Dolgan,FIREWOOD,mɑstɑr,150
+Kumyk,FIREWOOD,ɑɣɑʧ,150
+Nogai,FIREWOOD,ɑɣɑʃ,150
+Tofa,FIREWOOD,neʃ,150
+Tuvan,FIREWOOD,ɯjɑʃ,150
+Yakut,FIREWOOD,mɑs,150
+Azerbaijani,FINGERNAIL,dɯrnɑɡ,151
+Bashkir,FINGERNAIL,tɯrnɑq,151
+Chulym,FINGERNAIL,tərɣɑq,151
+Chuvash,FINGERNAIL,ʧɘrne,151
+Crimean_Tatar,FINGERNAIL,tɯrnɑq,151
+Dolgan,FINGERNAIL,tɯŋɯrɑk,151
+Gagauz,FINGERNAIL,tɯrnɑk,151
+Kara-Kalpak,FINGERNAIL,tɯrnɑq,151
+Karachay-Balkar,FINGERNAIL,tɯrnɑq,151
+Karaim,FINGERNAIL,tɯrnɑk,151
+Kazakh,FINGERNAIL,tɯrnɑq,151
+Khakas,FINGERNAIL,tɯrɣɑχ,151
+Khalaj,FINGERNAIL,tɯrnɑq,151
+Kumyk,FINGERNAIL,tɯrnɑq,151
+Nogai,FINGERNAIL,tɯrnɑq,151
+Northern_Altai,FINGERNAIL,tɯrɣɑq,151
+Old_Turkic,FINGERNAIL,tɯrŋɑq,151
+Old_Turkic,FINGERNAIL,tɯŋrɑq,151
+Salar,FINGERNAIL,tɯrnɑχ,151
+Tatar,FINGERNAIL,tɯrnɑq,151
+Turkish,FINGERNAIL,tɯrnɑk,151
+Turkmen,FINGERNAIL,dɯrnɑq,151
+Tuvan,FINGERNAIL,dɯrɣɑq,151
+Uzbek,FINGERNAIL,tirnɔq,151
+Yakut,FINGERNAIL,tɯŋɯrɑχ,151
+Cuman,FINGERNAIL,termɑk,152
+Kyrgyz,FINGERNAIL,tɯrmɑq,152
+Northern_Altai,FINGERNAIL,tɯrbɑq,152
+Shor,FINGERNAIL,tɯrbɑq,152
+Southern_Altai,FINGERNAIL,tɯrmɑχ,152
+Tofa,FINGERNAIL,dɯrbɑq,152
+Uyghur,FINGERNAIL,tirmɑq,152
+West_Yugur,FINGERNAIL,tɑrmɑq,152
+West_Yugur,FINGERNAIL,tɯrmɑq,152
+West_Yugur,FINGERNAIL,tɯrvɑq,152
+Azerbaijani,SEE,ɟør,153
+Bashkir,SEE,kyr,153
+Chulym,SEE,korʲ,153
+Chuvash,SEE,kur,153
+Crimean_Tatar,SEE,kør,153
+Cuman,SEE,kor,153
+Dolgan,SEE,kør,153
+Gagauz,SEE,ɡør,153
+Kara-Kalpak,SEE,kør,153
+Karachay-Balkar,SEE,kør,153
+Karaim,SEE,kør,153
+Karaim,SEE,ker,153
+Kazakh,SEE,kør,153
+Khakas,SEE,kør,153
+Khalaj,SEE,ker,153
+Kumyk,SEE,ɡør,153
+Kyrgyz,SEE,kør,153
+Nogai,SEE,kør,153
+Northern_Altai,SEE,kør,153
+Old_Turkic,SEE,kør,153
+Salar,SEE,kør,153
+Shor,SEE,kør,153
+Siberian_Tatar,SEE,kør,153
+Southern_Altai,SEE,kør,153
+Tatar,SEE,kyr,153
+Tofa,SEE,kør,153
+Turkish,SEE,ɟør,153
+Turkmen,SEE,ɡør,153
+Tuvan,SEE,kør,153
+Uyghur,SEE,kør,153
+Uzbek,SEE,kor,153
+West_Yugur,SEE,kør,153
+West_Yugur,SEE,kyr,153
+Yakut,SEE,kør,153
+Azerbaijani,SMOKE (EXHAUST),tysty,154
+Bashkir,SMOKE (EXHAUST),tøtøn,154
+Chulym,SMOKE (EXHAUST),tydyn,154
+Chuvash,SMOKE (EXHAUST),tɘ̆ʷdɘ̆ʷm,154
+Crimean_Tatar,SMOKE (EXHAUST),tytyn,154
+Cuman,SMOKE (EXHAUST),tutum,154
+Cuman,SMOKE (EXHAUST),tutun,154
+Gagauz,SMOKE (EXHAUST),tytyn,154
+Kara-Kalpak,SMOKE (EXHAUST),tytin,154
+Karachay-Balkar,SMOKE (EXHAUST),tytyn,154
+Karaim,SMOKE (EXHAUST),tytyn,154
+Karaim,SMOKE (EXHAUST),tytsy,154
+Kazakh,SMOKE (EXHAUST),tytɘn,154
+Khakas,SMOKE (EXHAUST),tydyn,154
+Khalaj,SMOKE (EXHAUST),tityn,154
+Kumyk,SMOKE (EXHAUST),tytyn,154
+Kyrgyz,SMOKE (EXHAUST),tytyn,154
+Nogai,SMOKE (EXHAUST),tytin,154
+Northern_Altai,SMOKE (EXHAUST),tydøk,154
+Old_Turkic,SMOKE (EXHAUST),tytyn,154
+Salar,SMOKE (EXHAUST),ʦyʦyn,154
+Salar,SMOKE (EXHAUST),ʤyʤyn,154
+Shor,SMOKE (EXHAUST),tydyn,154
+Siberian_Tatar,SMOKE (EXHAUST),totin,154
+Tatar,SMOKE (EXHAUST),tøten,154
+Turkmen,SMOKE (EXHAUST),tyθθe,154
+Uzbek,SMOKE (EXHAUST),tutun,154
+Dolgan,SMOKE (EXHAUST),buruo,155
+Yakut,SMOKE (EXHAUST),buruo,155
+Khakas,SMOKE (EXHAUST),ɯs,156
+Southern_Altai,SMOKE (EXHAUST),ɯʃ,156
+Tofa,SMOKE (EXHAUST),ɯʃ,156
+Tuvan,SMOKE (EXHAUST),ɯʃ,156
+Uyghur,SMOKE (EXHAUST),is,156
+Uyghur,SMOKE (EXHAUST),ɛs,156
+West_Yugur,SMOKE (EXHAUST),ɯs,156
+Turkish,SMOKE (EXHAUST),dumɑn,157
+Azerbaijani,STAND,dur,158
+Bashkir,STAND,tor,158
+Chulym,STAND,tur,158
+Chuvash,STAND,tør,158
+Crimean_Tatar,STAND,tur,158
+Cuman,STAND,tur,158
+Dolgan,STAND,tur,158
+Gagauz,STAND,dur,158
+Kara-Kalpak,STAND,tur,158
+Karachay-Balkar,STAND,tur,158
+Karaim,STAND,tur,158
+Kazakh,STAND,tur,158
+Khakas,STAND,tur,158
+Khalaj,STAND,tur,158
+Kumyk,STAND,tur,158
+Kyrgyz,STAND,tur,158
+Nogai,STAND,tur,158
+Northern_Altai,STAND,tur,158
+Old_Turkic,STAND,tur,158
+Salar,STAND,dɯr,158
+Shor,STAND,tur,158
+Siberian_Tatar,STAND,tor,158
+Siberian_Tatar,STAND,tur,158
+Southern_Altai,STAND,tur,158
+Tatar,STAND,tor,158
+Tofa,STAND,tur,158
+Turkish,STAND,dur,158
+Turkmen,STAND,dur,158
+Tuvan,STAND,tur,158
+Uyghur,STAND,tur,158
+Uzbek,STAND,tur,158
+West_Yugur,STAND,tur,158
+Yakut,STAND,tur,158
+Azerbaijani,SNAKE,ilɑn,159
+Bashkir,SNAKE,jɯlɑn,159
+Chuvash,SNAKE,ɕɘlen,159
+Crimean_Tatar,SNAKE,jɯlɑn,159
+Cuman,SNAKE,ilɑn,159
+Cuman,SNAKE,ɡillɑn,159
+Cuman,SNAKE,jlɑɡɑn,159
+Gagauz,SNAKE,jɯlɑn,159
+Kara-Kalpak,SNAKE,ʒɯlɑn,159
+Karachay-Balkar,SNAKE,ʤɯlɑn,159
+Karaim,SNAKE,jɯlɑn,159
+Karaim,SNAKE,ilɑn,159
+Kazakh,SNAKE,ʒɯlɑn,159
+Khakas,SNAKE,ʧɯlɑn,159
+Khalaj,SNAKE,jilɑːn,159
+Kumyk,SNAKE,jɯlɑn,159
+Kyrgyz,SNAKE,ʤɯlɑn,159
+Nogai,SNAKE,jɯlɑn,159
+Northern_Altai,SNAKE,cɯlɑn,159
+Old_Turkic,SNAKE,jɯlɑn,159
+Salar,SNAKE,jilɑn,159
+Shor,SNAKE,ʧɯlɑn,159
+Siberian_Tatar,SNAKE,jɯlɑn,159
+Southern_Altai,SNAKE,ɟɯlɑn,159
+Tatar,SNAKE,jɯlɑn,159
+Turkish,SNAKE,jɯɫɑn,159
+Turkmen,SNAKE,jɯlɑn,159
+Tuvan,SNAKE,ʧɯlɑn,159
+Uyghur,SNAKE,ilɑn,159
+Uyghur,SNAKE,ʒilɑn,159
+Uzbek,SNAKE,ilɔn,159
+West_Yugur,SNAKE,jɯlɑn,159
+Chulym,SNAKE,uzunɣurt,160
+Tofa,SNAKE,ʧer bɑlɯː,161
+Yakut,SNAKE,erien yøn,162
+Azerbaijani,TREE,ɑɣɑʤ,163
+Bashkir,TREE,ɑɣɑs,163
+Chulym,TREE,ɑɑʧ,163
+Chuvash,TREE,jɯvɤ̆ʷɕ,163
+Dolgan,TREE,mɑs,163
+Gagauz,TREE,ɑːʧ,163
+Kara-Kalpak,TREE,ɑɣɑʃ,163
+Kazakh,TREE,ɑɣɑʃ,163
+Khakas,TREE,ɑɣɑs,163
+Khalaj,TREE,hɑɣɑʧ,163
+Kyrgyz,TREE,ʤɯɣɑʧ,163
+Northern_Altai,TREE,ɑɣɑʃ,163
+Old_Turkic,TREE,ɯɣɑʧ,163
+Salar,TREE,ɑɣɑʧ,163
+Shor,TREE,ɑɣɑʃ,163
+Siberian_Tatar,TREE,ɑɣɑʦ,163
+Southern_Altai,TREE,ɑɣɑʃ,163
+Tatar,TREE,ɑɣɑʧ,163
+Tofa,TREE,neʃ,163
+Turkish,TREE,ɑːɑʧ,163
+Turkmen,TREE,ɑɣɑʧ,163
+Tuvan,TREE,ɯjɑʃ,163
+Uyghur,TREE,jɑɣɑʧ,163
+Yakut,TREE,mɑs,163
+Crimean_Tatar,TREE,terek,164
+Cuman,TREE,terɑk,164
+Karachay-Balkar,TREE,terek,164
+Karaim,TREE,tørɛk,164
+Kumyk,TREE,terek,164
+Nogai,TREE,terek,164
+West_Yugur,TREE,terek,164
+Old_Turkic,TREE,søɡyt,165
+Azerbaijani,FAR,uzɑɡ,166
+Crimean_Tatar,FAR,uzɑq,166
+Gagauz,FAR,uzɑk,166
+Kara-Kalpak,FAR,uzɑq,166
+Karachay-Balkar,FAR,uzɑq,166
+Nogai,FAR,uzɑq,166
+Northern_Altai,FAR,uzɑq,166
+Southern_Altai,FAR,uzɑq,166
+Turkish,FAR,uzɑk,166
+Turkmen,FAR,uðɑq,166
+Uyghur,FAR,uzɑq,166
+Uzbek,FAR,uzoq,166
+West_Yugur,FAR,uzɑq,166
+Bashkir,FAR,jɯrɑq,167
+Chulym,FAR,ərɑq,167
+Cuman,FAR,yrɑk,167
+Cuman,FAR,yrɑh,167
+Dolgan,FAR,ɯrɑːk,167
+Gagauz,FAR,jɯrɑk,167
+Karaim,FAR,irɑχ,167
+Karaim,FAR,jɯrɑq,167
+Khakas,FAR,ɯrɑχ,167
+Khalaj,FAR,hɯrɑɑq,167
+Kumyk,FAR,jɯrɑq,167
+Kyrgyz,FAR,ɯrɑɑq,167
+Northern_Altai,FAR,rɑq,167
+Northern_Altai,FAR,ɯrɑɑq,167
+Old_Turkic,FAR,jɯrɑq,167
+Salar,FAR,jɯrɑχɑr,167
+Shor,FAR,ɯrɑq,167
+Siberian_Tatar,FAR,jɯrɑq,167
+Southern_Altai,FAR,ɯrɑɑq,167
+Tatar,FAR,jɯrɑq,167
+Tofa,FAR,ɯrɑq,167
+Tuvan,FAR,ɯrɑq,167
+Uyghur,FAR,ʒirɑq,167
+Yakut,FAR,ɯrɑːχ,167
+Chuvash,FAR,inʑe,168
+Kara-Kalpak,FAR,qɑʃɯq,169
+Kazakh,FAR,qɑʃɯq,169
+Azerbaijani,HOT,isti,170
+Bashkir,HOT,eθe,170
+Chulym,HOT,izɘɣ,170
+Crimean_Tatar,HOT,sɯʤɑq,170
+Cuman,HOT,issi,170
+Dolgan,HOT,itiː,170
+Gagauz,HOT,sɯʤɑk,170
+Kara-Kalpak,HOT,ɯssɯ,170
+Karachay-Balkar,HOT,issi,170
+Karaim,HOT,issi,170
+Kazakh,HOT,ɯstɯq,170
+Khakas,HOT,ɘzɘɡ,170
+Kumyk,HOT,issi,170
+Kyrgyz,HOT,ɯsɯq,170
+Nogai,HOT,issi,170
+Northern_Altai,HOT,iziɡ,170
+Northern_Altai,HOT,yzyɡ,170
+Old_Turkic,HOT,isiɡ,170
+Salar,HOT,ɯssɯ,170
+Shor,HOT,iziɡ,170
+Siberian_Tatar,HOT,isy,170
+Southern_Altai,HOT,izy,170
+Tatar,HOT,esse,170
+Tofa,HOT,iˤsɘɣ,170
+Turkish,HOT,sɯʤɑk,170
+Tuvan,HOT,iziɡ,170
+Uyghur,HOT,issiq,170
+Uzbek,HOT,issiq,170
+West_Yugur,HOT,issɯɡ,170
+Yakut,HOT,itiː,170
+Chuvash,HOT,vɘri,171
+Salar,HOT,qɯzɯɡu,172
+Turkmen,HOT,ɡɯðɡɯn,172
+Uyghur,HOT,qiziq,172
+Azerbaijani,BELLY,ɡɑrɯn,173
+Chulym,BELLY,qɑːrən,173
+Chuvash,BELLY,χɯrɤ̆ʷm,173
+Crimean_Tatar,BELLY,qɑrɯn,173
+Cuman,BELLY,kɑren,173
+Cuman,BELLY,kɑrin,173
+Gagauz,BELLY,kɑrnɯ,173
+Kara-Kalpak,BELLY,qɑrɯn,173
+Karachay-Balkar,BELLY,qɑrɯn,173
+Karaim,BELLY,kɑrɯn,173
+Kazakh,BELLY,qɑrɯn,173
+Khakas,BELLY,χɑrɯn,173
+Khalaj,BELLY,qɑrɯn,173
+Northern_Altai,BELLY,qɑrɯn,173
+Old_Turkic,BELLY,qɑrɯn,173
+Shor,BELLY,qɑrnɯ,173
+Tatar,BELLY,qɑrɯn,173
+Turkish,BELLY,kɑrɯn,173
+Turkmen,BELLY,ɡɑrɯn,173
+Tuvan,BELLY,χɯrɯn,173
+Uyghur,BELLY,qerin,173
+Uzbek,BELLY,qɔrin,173
+West_Yugur,BELLY,qɑrɯn,173
+Bashkir,BELLY,es,174
+Dolgan,BELLY,is,174
+Kara-Kalpak,BELLY,iʃ,174
+Kazakh,BELLY,ɘs,174
+Khakas,BELLY,ɘstɘ,174
+Kyrgyz,BELLY,iʧ,174
+Nogai,BELLY,iʃ,174
+Northern_Altai,BELLY,iʧ,174
+Northern_Altai,BELLY,iʃ,174
+Siberian_Tatar,BELLY,ëʧ,174
+Southern_Altai,BELLY,iʧ,174
+Tofa,BELLY,iˤʃtɘ,174
+Turkmen,BELLY,iʧ,174
+Tuvan,BELLY,iʒin,174
+Uyghur,BELLY,iʧ,174
+West_Yugur,BELLY,iʧiɡe,174
+West_Yugur,BELLY,iʧike,174
+West_Yugur,BELLY,iʧiki,174
+West_Yugur,BELLY,iʧikɯ,174
+Yakut,BELLY,is,174
+Bashkir,BELLY,qorhɑq,175
+Crimean_Tatar,BELLY,qursɑq,175
+Kara-Kalpak,BELLY,qursɑq,175
+Karaim,BELLY,kursɑχ,175
+Kumyk,BELLY,qursɑq,175
+Kyrgyz,BELLY,qursɑq,175
+Nogai,BELLY,qursɑq,175
+Salar,BELLY,χusɑχ,175
+Shor,BELLY,qursɑq,175
+Tatar,BELLY,qorsɑq,175
+Uyghur,BELLY,qosɑq,175
+Azerbaijani,ROUND,døvreli,176
+Tofa,ROUND,tøørej,176
+Azerbaijani,ROUND,jumru,177
+Bashkir,ROUND,jomoro,177
+Chulym,ROUND,ʧumɑq,177
+Cuman,ROUND,juɡɑlɑk,177
+Gagauz,ROUND,juvɑrlɑk,177
+Kara-Kalpak,ROUND,ʒumɑlɑq,177
+Kara-Kalpak,ROUND,ʒumɯrɯ,177
+Karaim,ROUND,jumɑlɑk,177
+Kazakh,ROUND,ʒʊmɯr,177
+Khakas,ROUND,nɯmɑlɑχ,177
+Kyrgyz,ROUND,ʤumuru,177
+Tatar,ROUND,jomrɯ,177
+Turkish,ROUND,juvɑrɫɑk,177
+Uyghur,ROUND,jumulɑq,177
+Uyghur,ROUND,ʒumulɑq,177
+Uzbek,ROUND,jumɑlɔq,177
+Bashkir,ROUND,tumɑlɑq,178
+Crimean_Tatar,ROUND,tomɑlɑq,178
+Kara-Kalpak,ROUND,domɑlɑq,178
+Kara-Kalpak,ROUND,dumɑlɑq,178
+Kazakh,ROUND,domɑlɑq,178
+Nogai,ROUND,tɯmɑlɑq,178
+Uyghur,ROUND,domulɑq,178
+Uzbek,ROUND,dumɑlɔq,178
+Chuvash,ROUND,ɕɑvrɑɡɑ,179
+Cuman,ROUND,ʧourɑ,179
+Cuman,ROUND,teɡirmɑ,180
+Dolgan,ROUND,tøɡyryk,180
+Kyrgyz,ROUND,teɡerek,180
+Kyrgyz,ROUND,toɣoloq,180
+Old_Turkic,ROUND,teɣirmi,180
+Southern_Altai,ROUND,teɣerik,180
+Yakut,ROUND,tøɡyryk,180
+Khakas,ROUND,terpek,181
+Turkish,ROUND,deːirmi,181
+Khalaj,ROUND,ɡildir,182
+Azerbaijani,BONE,symyc,183
+Bashkir,BONE,højɛk,183
+Chulym,BONE,søøk,183
+Chuvash,BONE,ʃømø,183
+Cuman,BONE,souɑt,183
+Dolgan,BONE,oŋuok,183
+Kara-Kalpak,BONE,syjek,183
+Karachay-Balkar,BONE,syjek,183
+Karaim,BONE,sivek,183
+Karaim,BONE,syjek,183
+Kazakh,BONE,syjek,183
+Khakas,BONE,søøk,183
+Kumyk,BONE,syjek,183
+Kyrgyz,BONE,søøk,183
+Nogai,BONE,syjek,183
+Northern_Altai,BONE,søøk,183
+Northern_Altai,BONE,søk,183
+Old_Turkic,BONE,syŋyk,183
+Salar,BONE,seniχ,183
+Shor,BONE,søːk,183
+Siberian_Tatar,BONE,syøk,183
+Southern_Altai,BONE,søøk,183
+Tatar,BONE,søjɛk,183
+Tofa,BONE,søøk,183
+Turkmen,BONE,θyŋk,183
+Tuvan,BONE,søøk,183
+Uyghur,BONE,søŋɛk,183
+Uyghur,BONE,syŋɛk,183
+Uyghur,BONE,syjɛk,183
+Uzbek,BONE,sujɑk,183
+West_Yugur,BONE,sɯmɯq,183
+Yakut,BONE,uŋuoχ,183
+Crimean_Tatar,BONE,kemik,184
+Gagauz,BONE,kemik,184
+Turkish,BONE,cemic,184
+Azerbaijani,SALT,duz,185
+Bashkir,SALT,toð,185
+Chulym,SALT,tus,185
+Chuvash,SALT,tøvɑr,185
+Crimean_Tatar,SALT,tuz,185
+Cuman,SALT,tus,185
+Dolgan,SALT,tyːs,185
+Gagauz,SALT,tuz,185
+Kara-Kalpak,SALT,duz,185
+Karachay-Balkar,SALT,tuz,185
+Karaim,SALT,tuz,185
+Kazakh,SALT,tʊz,185
+Khakas,SALT,tus,185
+Khalaj,SALT,tuz,185
+Kumyk,SALT,tuz,185
+Kyrgyz,SALT,tuz,185
+Nogai,SALT,tuz,185
+Northern_Altai,SALT,tus,185
+Old_Turkic,SALT,tuz,185
+Salar,SALT,duz,185
+Salar,SALT,dyz,185
+Salar,SALT,tyz,185
+Shor,SALT,tus,185
+Southern_Altai,SALT,tus,185
+Tatar,SALT,toz,185
+Tofa,SALT,tus,185
+Turkish,SALT,tuz,185
+Turkmen,SALT,duð,185
+Tuvan,SALT,dus,185
+Uyghur,SALT,tuz,185
+Uzbek,SALT,tuz,185
+West_Yugur,SALT,tuz,185
+Yakut,SALT,tuːs,185
+Azerbaijani,RAIN (PRECIPITATION),jɑɣɯʃ,186
+Bashkir,RAIN (PRECIPITATION),jɑmɣɯr,186
+Chuvash,RAIN (PRECIPITATION),ɕumɤ̆ʷr,186
+Crimean_Tatar,RAIN (PRECIPITATION),jɑɣɯʃ,186
+Cuman,RAIN (PRECIPITATION),jɑmɡur,186
+Dolgan,RAIN (PRECIPITATION),hɑmɯːr,186
+Gagauz,RAIN (PRECIPITATION),jɑːmur,186
+Kara-Kalpak,RAIN (PRECIPITATION),ʒɑwɯn,186
+Karachay-Balkar,RAIN (PRECIPITATION),ʤɑŋur,186
+Karachay-Balkar,RAIN (PRECIPITATION),ʤɑwun,186
+Karaim,RAIN (PRECIPITATION),jɑmɣur,186
+Kazakh,RAIN (PRECIPITATION),ʒɑŋbɯr,186
+Kazakh,RAIN (PRECIPITATION),ʒɑwɯn,186
+Khakas,RAIN (PRECIPITATION),nɑŋmɯr,186
+Khalaj,RAIN (PRECIPITATION),jɑɣɯʃ,186
+Kumyk,RAIN (PRECIPITATION),jɑŋur,186
+Kumyk,RAIN (PRECIPITATION),jɑwun,186
+Kyrgyz,RAIN (PRECIPITATION),ʤɑmɣɯr,186
+Nogai,RAIN (PRECIPITATION),jɑmɣɯr,186
+Northern_Altai,RAIN (PRECIPITATION),ɲɑŋmɯr,186
+Northern_Altai,RAIN (PRECIPITATION),ɲɑnmɯr,186
+Northern_Altai,RAIN (PRECIPITATION),nɯŋmɯr,186
+Old_Turkic,RAIN (PRECIPITATION),jɑɣmur,186
+Salar,RAIN (PRECIPITATION),jɑɣmur,186
+Shor,RAIN (PRECIPITATION),nɑɣbur,186
+Siberian_Tatar,RAIN (PRECIPITATION),jɑnɣɯr,186
+Southern_Altai,RAIN (PRECIPITATION),ɟɑɑʃ,186
+Southern_Altai,RAIN (PRECIPITATION),ɟɑŋmɯr,186
+Tatar,RAIN (PRECIPITATION),jɑnɡɯr,186
+Turkish,RAIN (PRECIPITATION),jɑːmur,186
+Turkmen,RAIN (PRECIPITATION),jɑɣɯʃ,186
+Turkmen,RAIN (PRECIPITATION),jɑɣmɯr,186
+Uyghur,RAIN (PRECIPITATION),jɑmɣur,186
+Uzbek,RAIN (PRECIPITATION),jɔmɣir,186
+West_Yugur,RAIN (PRECIPITATION),jɑɣmɯr,186
+Yakut,RAIN (PRECIPITATION),sɑmɯːr,186
+Chulym,RAIN (PRECIPITATION),suɣ,187
+Tofa,RAIN (PRECIPITATION),øˤsken,188
+Azerbaijani,SLEEP,jɑt,189
+Khalaj,SLEEP,jɑt,189
+Turkmen,SLEEP,jɑt,189
+Bashkir,SLEEP,joqlɑ,190
+Crimean_Tatar,SLEEP,juqlɑ,190
+Kara-Kalpak,SLEEP,ujqɯlɑ,190
+Karachay-Balkar,SLEEP,ʤuqlɑ,190
+Karaim,SLEEP,juklɑ,190
+Kazakh,SLEEP,ʊjɯqtɑ,190
+Kumyk,SLEEP,juχlɑ,190
+Kyrgyz,SLEEP,uqtɑ,190
+Nogai,SLEEP,ujqlɑ,190
+Northern_Altai,SLEEP,ujqtɑ,190
+Northern_Altai,SLEEP,ujttɑ,190
+Salar,SLEEP,uχlɑ,190
+Siberian_Tatar,SLEEP,joqlɑ,190
+Siberian_Tatar,SLEEP,juqlɑ,190
+Southern_Altai,SLEEP,uχtɑ,190
+Tatar,SLEEP,joqlɑ,190
+Turkmen,SLEEP,uqlɑ,190
+Uyghur,SLEEP,uχlɑ,190
+Uzbek,SLEEP,uχlɑ,190
+Chulym,SLEEP,uzu,191
+Cuman,SLEEP,uju,191
+Dolgan,SLEEP,utuj,191
+Gagauz,SLEEP,uju,191
+Khakas,SLEEP,uzu,191
+Old_Turkic,SLEEP,udɯ,191
+Shor,SLEEP,uzu,191
+Tofa,SLEEP,udu,191
+Turkish,SLEEP,uju,191
+Tuvan,SLEEP,udu,191
+West_Yugur,SLEEP,uzu,191
+Yakut,SLEEP,utuj,191
+Chuvash,SLEEP,ɕɯvɤ̆ʷr,192
+Azerbaijani,WOMAN,ɡɑdɯn,193
+Bashkir,WOMAN,qɑtɯn,193
+Chulym,WOMAN,qɑtkɘzɘ,193
+Crimean_Tatar,WOMAN,qɑdɯn,193
+Cuman,WOMAN,kɑtu,193
+Cuman,WOMAN,kɑtun,193
+Kara-Kalpak,WOMAN,qɑtɯn,193
+Karaim,WOMAN,qɑtɯn,193
+Kumyk,WOMAN,qɑtɯn ɡiʃi,193
+Nogai,WOMAN,χɑtɯn,193
+Northern_Altai,WOMAN,qɑt,193
+Salar,WOMAN,qɑːtɯn keːʃ,193
+Siberian_Tatar,WOMAN,qɑtɯn,193
+Tatar,WOMAN,χɑtɯn,193
+Turkish,WOMAN,kɑdɯn,193
+Uzbek,WOMAN,χɔtin,193
+Chulym,WOMAN,qɑtkɘzɘ,194
+Khakas,WOMAN,ipʧɘ kɘzɘ,194
+Khalaj,WOMAN,kiʃi,194
+Kumyk,WOMAN,qɑtɯn ɡiʃi,194
+Northern_Altai,WOMAN,tiʒi kiʒi,194
+Salar,WOMAN,qɑːtɯn keːʃ,194
+Shor,WOMAN,tiʒi kiʒi,194
+Southern_Altai,WOMAN,yjkiʒi,194
+Tuvan,WOMAN,χereeʒen,194
+Uzbek,WOMAN,χɔtin,194
+Chuvash,WOMAN,χɘrɑrɤ̆ʷm,195
+Nogai,WOMAN,χɑtɯnqɯz,195
+Tatar,WOMAN,χɑtɯnqɯz,195
+Chuvash,WOMAN,χɘrɑrɤ̆ʷm,196
+Khakas,WOMAN,ipʧɘ kɘzɘ,196
+Northern_Altai,WOMAN,epʧi,196
+Old_Turkic,WOMAN,evʧi,196
+Shor,WOMAN,epʧi,196
+Southern_Altai,WOMAN,yjkiʒi,196
+Crimean_Tatar,WOMAN,qɯsqɑjɑqlɯ,197
+Nogai,WOMAN,qɯsqɑjɑqlɯ,197
+Cuman,WOMAN,tusi,198
+Karachay-Balkar,WOMAN,tiʃirɯw,198
+Northern_Altai,WOMAN,tiʒi kiʒi,198
+Old_Turkic,WOMAN,tiʃi,198
+Shor,WOMAN,tiʒi kiʒi,198
+Gagauz,WOMAN,kɑrɯ,199
+Tofa,WOMAN,qoˤrhɯɲɑq,199
+West_Yugur,WOMAN,sɛʤdɯɣ,200
+Azerbaijani,THICK,ɡɑlɯn,201
+Bashkir,THICK,qɑlɯn,201
+Chulym,THICK,qɑːləŋ,201
+Chuvash,THICK,χulɤ̆ʷn,201
+Crimean_Tatar,THICK,qɑlɯn,201
+Gagauz,THICK,kɑlɯn,201
+Kara-Kalpak,THICK,qɑlɯn,201
+Karachay-Balkar,THICK,qɑlɯn,201
+Karaim,THICK,kɑlɯn,201
+Kazakh,THICK,qɑlɯŋ,201
+Khakas,THICK,χɑlɯn,201
+Kumyk,THICK,qɑlɯn,201
+Kyrgyz,THICK,qɑlɯn,201
+Nogai,THICK,qɑlɯn,201
+Old_Turkic,THICK,qɑlɯn,201
+Shor,THICK,qɑlɯn,201
+Southern_Altai,THICK,qɑlɯn,201
+Tatar,THICK,qɑlɯn,201
+Tofa,THICK,hɯlɯn,201
+Turkish,THICK,kɑɫɯn,201
+Turkmen,THICK,ɡɑlɯŋ,201
+Tuvan,THICK,qɯlɯn,201
+Uyghur,THICK,qelin,201
+Uzbek,THICK,qɑlin,201
+West_Yugur,THICK,qɑlɯn,201
+Yakut,THICK,χɑlɯŋ,201
+Azerbaijani,THICK,joɣun,202
+Bashkir,THICK,jɯwɑn,202
+Kara-Kalpak,THICK,ʒuwɑn,202
+Khalaj,THICK,joɣun,202
+Old_Turkic,THICK,joɣun,202
+Salar,THICK,joɣɑn,202
+Siberian_Tatar,THICK,juwɑn,202
+Southern_Altai,THICK,ɟoon,202
+Tatar,THICK,juwɑn,202
+Tofa,THICK,nøon,202
+Turkmen,THICK,joɣɯn,202
+Tuvan,THICK,ʧoon,202
+Uzbek,THICK,joɣɔn,202
+West_Yugur,THICK,joɣɯn,202
+Yakut,THICK,suon,202
+Karachay-Balkar,THICK,bɑzɯq,203
+Karaim,THICK,bɑzɯq,203
+Nogai,THICK,dombɑj,204
+Azerbaijani,WET,jɑʃ,205
+Gagauz,WET,jɑʃ,205
+Karaim,WET,jɑʃ,205
+Bashkir,WET,eweʃ,206
+Karaim,WET,jivis,206
+Karaim,WET,jyvyʃ,206
+Salar,WET,ojʃi,206
+Salar,WET,uːse,206
+Salar,WET,uːʃ,206
+Tatar,WET,jyjeʃ,206
+Chulym,WET,suɣluɣ,207
+Crimean_Tatar,WET,sɯlɑq,207
+Karachay-Balkar,WET,suu,207
+Kazakh,WET,su,207
+Kumyk,WET,suw,207
+Kyrgyz,WET,suu,207
+Nogai,WET,suw,207
+Northern_Altai,WET,suɣ,207
+Southern_Altai,WET,suulu,207
+Tatar,WET,sulɯ,207
+Turkish,WET,ɯsɫɑk,207
+Uzbek,WET,suv,207
+Dolgan,WET,nʲɯlʧɑɡɑj,208
+Yakut,WET,inʧeɣej,208
+Kara-Kalpak,WET,høl,209
+Khakas,WET,øl,209
+Khalaj,WET,heːl,209
+Khalaj,WET,hiːel,209
+Shor,WET,øl,209
+Tofa,WET,øl,209
+Turkmen,WET,øl,209
+Tuvan,WET,øl,209
+Uyghur,WET,høl,209
+Uzbek,WET,hol,209
+Karachay-Balkar,WET,ʤibiɡen,210
+Northern_Altai,WET,jibiɡ,210
+West_Yugur,WET,ʃɯdɯq,211
+West_Yugur,WET,ʃidɯk,211
+West_Yugur,WET,ʃɯtɯq,211
+Azerbaijani,LONG,uzun,212
+Bashkir,LONG,oðon,212
+Chulym,LONG,uzun,212
+Chuvash,LONG,vørøm,212
+Crimean_Tatar,LONG,uzun,212
+Cuman,LONG,uzun,212
+Dolgan,LONG,uhun,212
+Gagauz,LONG,uzun,212
+Kara-Kalpak,LONG,uzɯn,212
+Karachay-Balkar,LONG,uzun,212
+Karaim,LONG,uzun,212
+Kazakh,LONG,ʊzɯn,212
+Khakas,LONG,uzun,212
+Khalaj,LONG,uzuːn,212
+Kumyk,LONG,uzun,212
+Kyrgyz,LONG,uzun,212
+Nogai,LONG,uzɯn,212
+Northern_Altai,LONG,uzun,212
+Old_Turkic,LONG,uzun,212
+Salar,LONG,uzun,212
+Shor,LONG,uzun,212
+Siberian_Tatar,LONG,uzɯn,212
+Siberian_Tatar,LONG,ozɯn,212
+Southern_Altai,LONG,uzun,212
+Tatar,LONG,ozɯn,212
+Tofa,LONG,uzun,212
+Turkish,LONG,uzun,212
+Turkmen,LONG,uðɯn,212
+Tuvan,LONG,uzun,212
+Uyghur,LONG,uzun,212
+Uzbek,LONG,uzun,212
+West_Yugur,LONG,uzun,212
+West_Yugur,LONG,uzin,212
+West_Yugur,LONG,uzen,212
+Yakut,LONG,uhun,212
+Azerbaijani,WALK,jeri,213
+Bashkir,WALK,jør,213
+Chulym,WALK,ʧør,213
+Chuvash,WALK,ɕyre,213
+Crimean_Tatar,WALK,jyr,213
+Cuman,WALK,jur,213
+Kara-Kalpak,WALK,ʒyr,213
+Karachay-Balkar,WALK,ʤyry,213
+Karaim,WALK,jyry,213
+Kazakh,WALK,ʒyr,213
+Khakas,WALK,ʧør,213
+Khalaj,WALK,jorɯ,213
+Kumyk,WALK,jyry,213
+Kyrgyz,WALK,ʤyr,213
+Nogai,WALK,jyr,213
+Northern_Altai,WALK,cor,213
+Old_Turkic,WALK,jorɯ,213
+Salar,WALK,jyr,213
+Salar,WALK,jer,213
+Shor,WALK,ʧør,213
+Siberian_Tatar,WALK,jør,213
+Tatar,WALK,jør,213
+Tofa,WALK,ʧoru,213
+Turkish,WALK,jyry,213
+Turkmen,WALK,jøre,213
+Tuvan,WALK,ʧoru,213
+Uyghur,WALK,ʒyr,213
+Uzbek,WALK,jur,213
+Azerbaijani,WALK,ɟæz,214
+Gagauz,WALK,ɡez,214
+Dolgan,WALK,bɑr,215
+West_Yugur,WALK,pɑr,215
+West_Yugur,WALK,vɑr,215
+Dolgan,WALK,hɯrɯt,216
+Northern_Altai,WALK,pɑs,217
+Northern_Altai,WALK,bɑs,217
+Southern_Altai,WALK,bɑs,217
+Yakut,WALK,χɑːmp,218
+Azerbaijani,DRY,ɡuru,219
+Bashkir,DRY,qoro,219
+Crimean_Tatar,DRY,quru,219
+Cuman,DRY,kuru,219
+Dolgan,DRY,kurɑːnɑk,219
+Gagauz,DRY,kuru,219
+Gagauz,DRY,kurɑk,219
+Kara-Kalpak,DRY,qurɣɑq,219
+Karachay-Balkar,DRY,qurɣɑq,219
+Karachay-Balkar,DRY,quru,219
+Karaim,DRY,kurɣɑk,219
+Kazakh,DRY,qʊrɣɑq,219
+Khakas,DRY,χuruɣ,219
+Khalaj,DRY,qurruɣ,219
+Kumyk,DRY,quru,219
+Kyrgyz,DRY,qurɣɑq,219
+Nogai,DRY,qurɯ,219
+Northern_Altai,DRY,kuru,219
+Old_Turkic,DRY,quruɣ,219
+Salar,DRY,kuru,219
+Shor,DRY,quruɣ,219
+Southern_Altai,DRY,qurɣɑχ,219
+Tatar,DRY,qorɯ,219
+Tofa,DRY,qurɣɑɣ,219
+Turkish,DRY,kuru,219
+Turkmen,DRY,ɡurɯ,219
+Tuvan,DRY,qurɣɑɣ,219
+Uyghur,DRY,quruq,219
+Uzbek,DRY,quruq,219
+West_Yugur,DRY,qurlyɣ,219
+Yakut,DRY,kurɑːn,219
+Chulym,DRY,keːbɘɣ,220
+Chuvash,DRY,tibɘ,221
+Cuman,DRY,kɑk,222
+Siberian_Tatar,DRY,qɑq,222
+Azerbaijani,THIS,bu,223
+Bashkir,THIS,bɯl,223
+Chulym,THIS,pu,223
+Crimean_Tatar,THIS,bu,223
+Cuman,THIS,bu,223
+Dolgan,THIS,bu,223
+Gagauz,THIS,bu,223
+Kara-Kalpak,THIS,bul,223
+Karachay-Balkar,THIS,bu,223
+Karaim,THIS,bu,223
+Kazakh,THIS,bʊl,223
+Khakas,THIS,pu,223
+Khalaj,THIS,bo,223
+Kumyk,THIS,bu,223
+Kyrgyz,THIS,bu,223
+Nogai,THIS,bu,223
+Northern_Altai,THIS,po,223
+Old_Turkic,THIS,bu,223
+Salar,THIS,bu,223
+Shor,THIS,po,223
+Siberian_Tatar,THIS,bu,223
+Southern_Altai,THIS,pu,223
+Tatar,THIS,bu,223
+Tofa,THIS,bo,223
+Turkish,THIS,bu,223
+Turkmen,THIS,bu,223
+Tuvan,THIS,bo,223
+Uyghur,THIS,bu,223
+Uzbek,THIS,bu,223
+West_Yugur,THIS,pu,223
+Yakut,THIS,bu,223
+Chuvash,THIS,ku,224
+Azerbaijani,COME,ɟæl,225
+Bashkir,COME,kil,225
+Chulym,COME,kæl,225
+Chuvash,COME,kil,225
+Crimean_Tatar,COME,kel,225
+Cuman,COME,kel,225
+Dolgan,COME,kel,225
+Gagauz,COME,ɡel,225
+Kara-Kalpak,COME,kel,225
+Karachay-Balkar,COME,kel,225
+Karaim,COME,kel,225
+Kazakh,COME,kel,225
+Khakas,COME,kil,225
+Khalaj,COME,kɛl,225
+Kumyk,COME,ɡel,225
+Kyrgyz,COME,kel,225
+Nogai,COME,kel,225
+Northern_Altai,COME,kel,225
+Old_Turkic,COME,kel,225
+Salar,COME,ɡel,225
+Shor,COME,kel,225
+Siberian_Tatar,COME,kël,225
+Southern_Altai,COME,kel,225
+Tatar,COME,kil,225
+Tofa,COME,kel,225
+Turkish,COME,ɟelʲ,225
+Turkmen,COME,ɡel,225
+Tuvan,COME,kel,225
+Uyghur,COME,kɛl,225
+Uzbek,COME,kel,225
+West_Yugur,COME,kel,225
+Yakut,COME,kel,225
+Azerbaijani,NOSE,burun,226
+Chulym,NOSE,purun,226
+Crimean_Tatar,NOSE,burun,226
+Cuman,NOSE,burun,226
+Cuman,NOSE,buen,226
+Cuman,NOSE,bin,226
+Dolgan,NOSE,munnu,226
+Gagauz,NOSE,burnu,226
+Kara-Kalpak,NOSE,murɯn,226
+Karachay-Balkar,NOSE,burun,226
+Karaim,NOSE,burun,226
+Kazakh,NOSE,murɯn,226
+Khakas,NOSE,purun,226
+Khalaj,NOSE,burɯn,226
+Kumyk,NOSE,burun,226
+Kyrgyz,NOSE,murun,226
+Nogai,NOSE,burɯn,226
+Northern_Altai,NOSE,burun,226
+Old_Turkic,NOSE,burun,226
+Salar,NOSE,purnɯ,226
+Shor,NOSE,purnu,226
+Siberian_Tatar,NOSE,morɯn,226
+Siberian_Tatar,NOSE,murɯn,226
+Tatar,NOSE,borɯn,226
+Turkish,NOSE,burun,226
+Turkmen,NOSE,burun,226
+Uyghur,NOSE,burun,226
+Uzbek,NOSE,burun,226
+Yakut,NOSE,murun,226
+Southern_Altai,NOSE,tumʧuq,227
+Tuvan,NOSE,dumʧuq,227
+Tofa,NOSE,hɑɑj,228
+Tuvan,NOSE,χɑɑj,228
+West_Yugur,NOSE,qɑŋrɯq,228
+Azerbaijani,DIRTY,bulɑʃɯɡ,229
+Crimean_Tatar,DIRTY,bulɑʃɯq,229
+Gagauz,DIRTY,bulɑʃɯk,229
+Karaim,DIRTY,bɯlɑʃɯq,229
+Bashkir,DIRTY,bɯsrɑq,230
+Tatar,DIRTY,pɯʧrɑq,230
+Chulym,DIRTY,kɘrlɘɣ,231
+Crimean_Tatar,DIRTY,kirli,231
+Dolgan,DIRTY,kirdeːk,231
+Kara-Kalpak,DIRTY,kirli,231
+Karachay-Balkar,DIRTY,kir,231
+Khakas,DIRTY,kɘrlɘɡ,231
+Kyrgyz,DIRTY,kir,231
+Nogai,DIRTY,kirli,231
+Northern_Altai,DIRTY,kir,231
+Northern_Altai,DIRTY,kirliɡ,231
+Old_Turkic,DIRTY,kirliɡ,231
+Shor,DIRTY,kirliɡ,231
+Southern_Altai,DIRTY,kirly,231
+Southern_Altai,DIRTY,kyrly,231
+Tofa,DIRTY,hɘrlɘɣ,231
+Turkish,DIRTY,cirlʲi,231
+Turkmen,DIRTY,kirli,231
+Tuvan,DIRTY,χirliɡ,231
+Uyghur,DIRTY,kir,231
+Uzbek,DIRTY,kir,231
+West_Yugur,DIRTY,ker,231
+West_Yugur,DIRTY,kerlʲe,231
+Yakut,DIRTY,kirdeːχ,231
+Cuman,DIRTY,sɑsi,232
+Azerbaijani,NIGHT,ɟeʤæ,233
+Crimean_Tatar,NIGHT,ɡeʤe,233
+Gagauz,NIGHT,ɡeʤɛ,233
+Karachay-Balkar,NIGHT,keʧe,233
+Karaim,NIGHT,keʧɛ,233
+Karaim,NIGHT,keʦe,233
+Khalaj,NIGHT,kiːeʧɛ,233
+Kumyk,NIGHT,ɡeʧe,233
+Nogai,NIGHT,keʃe,233
+Salar,NIGHT,ɡeʤe,233
+Turkish,NIGHT,ɟeʤe,233
+Turkmen,NIGHT,ɡiʤe,233
+Uzbek,NIGHT,keʧɑ,233
+Bashkir,NIGHT,tøn,234
+Chulym,NIGHT,tyn,234
+Cuman,NIGHT,tun,234
+Dolgan,NIGHT,tyːn,234
+Kara-Kalpak,NIGHT,tyn,234
+Kazakh,NIGHT,tyn,234
+Khakas,NIGHT,tyn,234
+Kyrgyz,NIGHT,tyn,234
+Nogai,NIGHT,tyn,234
+Northern_Altai,NIGHT,tyn,234
+Old_Turkic,NIGHT,tyn,234
+Shor,NIGHT,tyn,234
+Siberian_Tatar,NIGHT,tøn,234
+Siberian_Tatar,NIGHT,tyn,234
+Southern_Altai,NIGHT,tyn,234
+Tatar,NIGHT,tøn,234
+Tofa,NIGHT,dynne,234
+Tuvan,NIGHT,dyn,234
+Uyghur,NIGHT,tyn,234
+West_Yugur,NIGHT,tyn,234
+Yakut,NIGHT,tyːn,234
+Chulym,NIGHT,qɑrɑ,235
+Khakas,NIGHT,χɑrɑɑ,235
+Chuvash,NIGHT,ɕɘ̆ʷr,236
+Azerbaijani,KILL,øldyr,237
+Bashkir,KILL,ylter,237
+Chulym,KILL,øːlyr,237
+Chuvash,KILL,vɘ̆ʷler,237
+Crimean_Tatar,KILL,øldyr,237
+Dolgan,KILL,ølør,237
+Gagauz,KILL,øldyr,237
+Kara-Kalpak,KILL,øltir,237
+Karachay-Balkar,KILL,øltyr,237
+Karaim,KILL,øldir,237
+Kazakh,KILL,øltɘr,237
+Khakas,KILL,ødɘr,237
+Khalaj,KILL,hilɛːr,237
+Kumyk,KILL,øltyr,237
+Kyrgyz,KILL,øltyr,237
+Nogai,KILL,øltir,237
+Northern_Altai,KILL,øltør,237
+Northern_Altai,KILL,øltyr,237
+Old_Turkic,KILL,ølyr,237
+Salar,KILL,ølter,237
+Shor,KILL,ødyr,237
+Siberian_Tatar,KILL,øjtir,237
+Southern_Altai,KILL,øltyr,237
+Tatar,KILL,yter,237
+Tofa,KILL,ølyr,237
+Turkish,KILL,ølʲdyr,237
+Turkmen,KILL,øldyr,237
+Tuvan,KILL,ølyr,237
+Uyghur,KILL,øltyr,237
+Uzbek,KILL,oldir,237
+West_Yugur,KILL,julur,237
+Yakut,KILL,ølør,237
+Cuman,KILL,jɑrɑ et,238
+Azerbaijani,THROW,ɑt,239
+Chuvash,THROW,ɯvɤ̆ʷt,239
+Crimean_Tatar,THROW,ɑt,239
+Gagauz,THROW,ɑt,239
+Kara-Kalpak,THROW,ɑt,239
+Karachay-Balkar,THROW,ɑt,239
+Karaim,THROW,ɑt,239
+Khalaj,THROW,hɑt,239
+Old_Turkic,THROW,ɑt,239
+Siberian_Tatar,THROW,ɑt,239
+Tatar,THROW,ɑt,239
+Turkish,THROW,ɑt,239
+Uyghur,THROW,ɑt,239
+Uzbek,THROW,ɔt,239
+Bashkir,THROW,tɑʃlɑ,240
+Chulym,THROW,tɑstɑ,240
+Kara-Kalpak,THROW,tɑslɑ,240
+Kazakh,THROW,tɑstɑ,240
+Khakas,THROW,tɑstɑ,240
+Kumyk,THROW,tɑʃlɑ,240
+Kyrgyz,THROW,tɑʃtɑ,240
+Nogai,THROW,tɑslɑ,240
+Shor,THROW,tɑʃtɑ,240
+Siberian_Tatar,THROW,tɑʃlɑ,240
+Southern_Altai,THROW,tɑʃtɑ,240
+Tatar,THROW,tɑʃlɑ,240
+Turkmen,THROW,tɑʃlɑ,240
+Tuvan,THROW,dɑʒɑ,240
+Uyghur,THROW,tɑʃlɑ,240
+Uzbek,THROW,tɑʃlɑ,240
+Bashkir,THROW,ɯrɣɯt,241
+Kyrgyz,THROW,ɯrɡɯt,241
+Bashkir,THROW,bɛr,242
+Chuvash,THROW,per,242
+Chuvash,THROW,pɤ̆ʷrɑχ,243
+Dolgan,THROW,bɯrɑk,243
+Yakut,THROW,bɯrɑχ,243
+Dolgan,THROW,keːs,244
+Old_Turkic,THROW,kemiʃ,244
+Yakut,THROW,kebis,244
+Yakut,THROW,keːs,244
+Kara-Kalpak,THROW,ɯlɑqtɯr,245
+Kazakh,THROW,lɑqtɯr,245
+Nogai,THROW,bɯlɑqtɯr,245
+Karachay-Balkar,THROW,silde,246
+Khakas,THROW,sil,246
+Northern_Altai,THROW,ʧel,247
+Tofa,THROW,qɑɣ,248
+Tuvan,THROW,oqtɑ,249
+West_Yugur,THROW,tɑrdɑ,250
+Bashkir,RED,qɯðɯl,251
+Chulym,RED,qəzəl,251
+Chuvash,RED,χɘrlɘ,251
+Crimean_Tatar,RED,kɯzil,251
+Cuman,RED,kezel,251
+Dolgan,RED,kɯhɯl,251
+Kara-Kalpak,RED,qɯzɯl,251
+Karachay-Balkar,RED,qɯzɯl,251
+Karaim,RED,kɯzɯl,251
+Karaim,RED,kizɯl,251
+Kazakh,RED,qɯzɯl,251
+Khakas,RED,χɯzɯl,251
+Khalaj,RED,qɯzɯl,251
+Kumyk,RED,qɯzɯl,251
+Kyrgyz,RED,qɯzɯl,251
+Nogai,RED,qɯzɯl,251
+Northern_Altai,RED,qɯzɯl,251
+Old_Turkic,RED,qɯzɯl,251
+Salar,RED,qɯsɯl,251
+Salar,RED,qɯzɯl,251
+Shor,RED,qɯzɯl,251
+Siberian_Tatar,RED,qɯzɯl,251
+Southern_Altai,RED,qɯzɯl,251
+Tatar,RED,qɯzɯl,251
+Tofa,RED,qɯzɯl,251
+Turkmen,RED,ɡɯðɯl,251
+Tuvan,RED,qɯzɯl,251
+Uyghur,RED,qizil,251
+Uzbek,RED,qizil,251
+West_Yugur,RED,qɯzɯl,251
+Yakut,RED,kɯhɯl,251
+Azerbaijani,HEART,yræc,252
+Bashkir,HEART,jørɛk,252
+Chulym,HEART,ʧyrek,252
+Chuvash,HEART,ʧɘre,252
+Crimean_Tatar,HEART,jyrek,252
+Dolgan,HEART,hyrek,252
+Gagauz,HEART,yrek,252
+Kara-Kalpak,HEART,ʒyrek,252
+Karachay-Balkar,HEART,ʤyrek,252
+Karaim,HEART,jirek,252
+Kazakh,HEART,ʒyrek,252
+Khakas,HEART,ʧyrek,252
+Khalaj,HEART,jirɛk,252
+Kumyk,HEART,jyrek,252
+Kyrgyz,HEART,ʤyrek,252
+Nogai,HEART,jyrek,252
+Northern_Altai,HEART,dyrek,252
+Old_Turkic,HEART,jyrek,252
+Salar,HEART,jiriɡ,252
+Shor,HEART,ʧyrek,252
+Siberian_Tatar,HEART,jorɛk,252
+Southern_Altai,HEART,ɟyrek,252
+Tatar,HEART,jørɛk,252
+Tofa,HEART,ʧyrek,252
+Turkmen,HEART,jyrek,252
+Tuvan,HEART,ʧyrek,252
+Uyghur,HEART,ʒyrɛk,252
+Uyghur,HEART,jyrɛk,252
+Uzbek,HEART,jurɑk,252
+West_Yugur,HEART,jyrek,252
+West_Yugur,HEART,jørek,252
+Yakut,HEART,syreχ,252
+Azerbaijani,SWIM,yz,253
+Bashkir,SWIM,jøð,253
+Chulym,SWIM,ʧys,253
+Cuman,SWIM,juz,253
+Gagauz,SWIM,yz,253
+Kara-Kalpak,SWIM,ʒyz,253
+Karachay-Balkar,SWIM,ʤyz,253
+Karaim,SWIM,jyz,253
+Kazakh,SWIM,ʒyz,253
+Khakas,SWIM,ʧys,253
+Kumyk,SWIM,jyz,253
+Kyrgyz,SWIM,syz,253
+Nogai,SWIM,jyz,253
+Northern_Altai,SWIM,jys,253
+Old_Turkic,SWIM,jyz,253
+Shor,SWIM,ʧys,253
+Siberian_Tatar,SWIM,jys,253
+Southern_Altai,SWIM,ɟys,253
+Tatar,SWIM,jøz,253
+Turkish,SWIM,jyz,253
+Turkmen,SWIM,jyð,253
+Uyghur,SWIM,yz,253
+Crimean_Tatar,SWIM,jɑldɑ,254
+Nogai,SWIM,jɑldɑ,254
+Dolgan,SWIM,køp,255
+Khalaj,SWIM,kirun,256
+Salar,SWIM,ʧum,257
+Tofa,SWIM,eˤhin,258
+Tuvan,SWIM,eʃt,258
+Uzbek,SWIM,suz,259
+West_Yugur,SWIM,qɑj,260
+Azerbaijani,MOUNTAIN OR HILL,dɑɣ,261
+Bashkir,MOUNTAIN OR HILL,tɑw,261
+Chulym,MOUNTAIN OR HILL,tɑɣ,261
+Chuvash,MOUNTAIN OR HILL,tu,261
+Crimean_Tatar,MOUNTAIN OR HILL,dɑɣ,261
+Cuman,MOUNTAIN OR HILL,tɑɡ,261
+Cuman,MOUNTAIN OR HILL,tɑv,261
+Kara-Kalpak,MOUNTAIN OR HILL,tɑw,261
+Karachay-Balkar,MOUNTAIN OR HILL,tɑw,261
+Karaim,MOUNTAIN OR HILL,tɑv,261
+Kazakh,MOUNTAIN OR HILL,tɑw,261
+Khakas,MOUNTAIN OR HILL,tɑɣ,261
+Khalaj,MOUNTAIN OR HILL,tɑːɑɣ,261
+Kumyk,MOUNTAIN OR HILL,tɑw,261
+Kyrgyz,MOUNTAIN OR HILL,too,261
+Nogai,MOUNTAIN OR HILL,tɑw,261
+Northern_Altai,MOUNTAIN OR HILL,tɑɣ,261
+Old_Turkic,MOUNTAIN OR HILL,tɑɣ,261
+Salar,MOUNTAIN OR HILL,tɑɣ,261
+Shor,MOUNTAIN OR HILL,tɑɣ,261
+Siberian_Tatar,MOUNTAIN OR HILL,tɑw,261
+Tatar,MOUNTAIN OR HILL,tɑw,261
+Tofa,MOUNTAIN OR HILL,dɑɣ,261
+Turkish,MOUNTAIN OR HILL,dɑː,261
+Turkmen,MOUNTAIN OR HILL,dɑɣ,261
+Tuvan,MOUNTAIN OR HILL,dɑɣ,261
+Uyghur,MOUNTAIN OR HILL,tɑɣ,261
+Uzbek,MOUNTAIN OR HILL,tɔɣ,261
+West_Yugur,MOUNTAIN OR HILL,tɑɣ,261
+Dolgan,MOUNTAIN OR HILL,kɑjɑ,262
+Yakut,MOUNTAIN OR HILL,χɑjɑ,262
+Gagauz,MOUNTAIN OR HILL,bɑjɯr,263
+Southern_Altai,MOUNTAIN OR HILL,qɯr,264
+Azerbaijani,CLAW,ʤɑjnɑɡ,265
+Bashkir,CLAW,tɯrnɑq,266
+Chulym,CLAW,tərɣɑq,266
+Chuvash,CLAW,ʧɘrne,266
+Crimean_Tatar,CLAW,tɯrnɑq,266
+Gagauz,CLAW,tɯrnɑk,266
+Kara-Kalpak,CLAW,tɯrnɑq,266
+Karachay-Balkar,CLAW,tɯrnɑq,266
+Karaim,CLAW,tɯrnɑχ,266
+Kazakh,CLAW,tɯrnɑq,266
+Kumyk,CLAW,tɯrnɑq,266
+Nogai,CLAW,tɯrnɑq,266
+Shor,CLAW,tɯrɣɑq,266
+Tatar,CLAW,tɯrnɑq,266
+Turkish,CLAW,tɯrnɑk,266
+Turkmen,CLAW,dɯrnɑq,266
+Uzbek,CLAW,tirnɔq,266
+Yakut,CLAW,tɯŋɯrɑχ,266
+Cuman,CLAW,termɑk,267
+Dolgan,CLAW,tɑrbɑk,267
+Khakas,CLAW,tɯrɣɑχ,267
+Kyrgyz,CLAW,tɯrmɑq,267
+Northern_Altai,CLAW,tɯrvɑq,267
+Northern_Altai,CLAW,tɯrbɑq,267
+Southern_Altai,CLAW,tɯrmɑχ,267
+Tofa,CLAW,dɯrbɑq,267
+Tuvan,CLAW,dɯrbɑq,267
+Uyghur,CLAW,tirmɑq,267
+Azerbaijani,ROPE,ip,268
+Crimean_Tatar,ROPE,jip,268
+Kara-Kalpak,ROPE,ʒip,268
+Karaim,ROPE,jip,268
+Kazakh,ROPE,ʒɘp,268
+Kyrgyz,ROPE,ʤip,268
+Siberian_Tatar,ROPE,jip,268
+Turkish,ROPE,ip,268
+Turkmen,ROPE,jyp,268
+West_Yugur,ROPE,jep,268
+West_Yugur,ROPE,jip,268
+Azerbaijani,ROPE,cændir,269
+Chuvash,ROPE,kɑndrɑ,269
+Tuvan,ROPE,χendir,269
+Bashkir,ROPE,bɑw,270
+Chulym,ROPE,pɑɣ,270
+Chuvash,ROPE,pɤ̆ʷjɑv,270
+Dolgan,ROPE,bɯɑ,270
+Kara-Kalpak,ROPE,bɑw,270
+Kazakh,ROPE,bɑw,270
+Khakas,ROPE,pɑɣ,270
+Nogai,ROPE,bɑw,270
+Northern_Altai,ROPE,pɑɣ,270
+Shor,ROPE,pɑɣ,270
+Southern_Altai,ROPE,buː,270
+Tatar,ROPE,bɑw,270
+Tofa,ROPE,bɑɣ,270
+West_Yugur,ROPE,pɑɣ,270
+Yakut,ROPE,bɯɑ,270
+Bashkir,ROPE,ɑrqɑn,271
+Crimean_Tatar,ROPE,ɑrqɑn,271
+Kara-Kalpak,ROPE,ɑrqɑn,271
+Kazakh,ROPE,ɑrqɑn,271
+Kumyk,ROPE,ɑrqɑn,271
+Nogai,ROPE,ɑrqɑn,271
+Uzbek,ROPE,ɑrqɔn,271
+Chuvash,ROPE,vɘ̆ʷren,272
+Cuman,ROPE,ørken,272
+Karaim,ROPE,ørken,272
+Karaim,ROPE,erken,272
+Gagauz,ROPE,ʧɑtɯ,273
+Kyrgyz,ROPE,køtørmø,274
+Old_Turkic,ROPE,uruq,275
+Salar,ROPE,urχɑn,275
+Turkish,ROPE,urɡɑn,275
+West_Yugur,ROPE,uruq,275
+Azerbaijani,LIE DOWN,uzɑn,276
+Bashkir,LIE DOWN,jɑt,277
+Chulym,LIE DOWN,ʧɑt,277
+Crimean_Tatar,LIE DOWN,jɑt,277
+Cuman,LIE DOWN,jɑt,277
+Dolgan,LIE DOWN,hɯt,277
+Gagauz,LIE DOWN,jɑt,277
+Kara-Kalpak,LIE DOWN,ʒɑt,277
+Karachay-Balkar,LIE DOWN,ʤɑt,277
+Karaim,LIE DOWN,jɑt,277
+Kazakh,LIE DOWN,ʒɑt,277
+Khakas,LIE DOWN,ʧɑt,277
+Khalaj,LIE DOWN,jɑːt,277
+Kumyk,LIE DOWN,jɑt,277
+Kyrgyz,LIE DOWN,ʤɑt,277
+Nogai,LIE DOWN,jɑt,277
+Northern_Altai,LIE DOWN,cɑt,277
+Old_Turkic,LIE DOWN,jɑt,277
+Salar,LIE DOWN,jɑt,277
+Shor,LIE DOWN,ʧɑt,277
+Siberian_Tatar,LIE DOWN,jɑt,277
+Southern_Altai,LIE DOWN,ɟɑt,277
+Tatar,LIE DOWN,jɑt,277
+Tofa,LIE DOWN,ʧɯˤtɑr,277
+Turkish,LIE DOWN,jɑt,277
+Turkmen,LIE DOWN,jɑt,277
+Tuvan,LIE DOWN,ʧɯt,277
+Uyghur,LIE DOWN,jɑt,277
+Uzbek,LIE DOWN,jɔt,277
+West_Yugur,LIE DOWN,jɑt,277
+Yakut,LIE DOWN,sɯt,277
+Chuvash,LIE DOWN,vɯrt,278
+Azerbaijani,TWO,ici,279
+Bashkir,TWO,ike,279
+Chulym,TWO,iɡɘ,279
+Chuvash,TWO,ikkɘ,279
+Chuvash,TWO,iɡɘ,279
+Chuvash,TWO,ik,279
+Crimean_Tatar,TWO,eki,279
+Cuman,TWO,eki,279
+Dolgan,TWO,ikki,279
+Gagauz,TWO,iki,279
+Kara-Kalpak,TWO,eki,279
+Karachay-Balkar,TWO,eki,279
+Karaim,TWO,eki,279
+Kazakh,TWO,ekɘ,279
+Khakas,TWO,ɘkɘ,279
+Khalaj,TWO,ɛkki,279
+Kumyk,TWO,eki,279
+Kyrgyz,TWO,eki,279
+Nogai,TWO,eki,279
+Northern_Altai,TWO,eki,279
+Northern_Altai,TWO,ekki,279
+Old_Turkic,TWO,eki,279
+Old_Turkic,TWO,iki,279
+Salar,TWO,iʃki,279
+Salar,TWO,iʧki,279
+Shor,TWO,ijɡi,279
+Siberian_Tatar,TWO,ëki,279
+Siberian_Tatar,TWO,eki,279
+Southern_Altai,TWO,eki,279
+Tatar,TWO,ike,279
+Tofa,TWO,iˤhi,279
+Turkish,TWO,ici,279
+Turkmen,TWO,iki,279
+Tuvan,TWO,iji,279
+Uyghur,TWO,ikki,279
+Uzbek,TWO,ikki,279
+West_Yugur,TWO,iʃke,279
+Yakut,TWO,ikki,279
+Azerbaijani,SUCK,sor,280
+Bashkir,SUCK,hur,280
+Chulym,SUCK,sor,280
+Kara-Kalpak,SUCK,sor,280
+Kazakh,SUCK,sor,280
+Khakas,SUCK,sor,280
+Khalaj,SUCK,suor,280
+Kumyk,SUCK,sor,280
+Kyrgyz,SUCK,sor,280
+Nogai,SUCK,sor,280
+Northern_Altai,SUCK,sor,280
+Old_Turkic,SUCK,sor,280
+Shor,SUCK,sor,280
+Southern_Altai,SUCK,soor,280
+Tatar,SUCK,suɯr,280
+Tofa,SUCK,sor,280
+Turkmen,SUCK,θor,280
+Tuvan,SUCK,sor,280
+Uyghur,SUCK,ʃorɑ,280
+Uzbek,SUCK,sor,280
+Azerbaijani,SUCK,æm,281
+Bashkir,SUCK,im,281
+Chulym,SUCK,ɛm,281
+Chuvash,SUCK,ɘ̆ʷm,281
+Crimean_Tatar,SUCK,em,281
+Dolgan,SUCK,em,281
+Gagauz,SUCK,em,281
+Kara-Kalpak,SUCK,em,281
+Karachay-Balkar,SUCK,em,281
+Karaim,SUCK,em,281
+Kazakh,SUCK,em,281
+Khakas,SUCK,em,281
+Khalaj,SUCK,ɛm,281
+Kumyk,SUCK,em,281
+Kyrgyz,SUCK,em,281
+Nogai,SUCK,em,281
+Northern_Altai,SUCK,ep,281
+Shor,SUCK,em,281
+Southern_Altai,SUCK,em,281
+Tatar,SUCK,im,281
+Tofa,SUCK,em,281
+Turkish,SUCK,em,281
+Turkmen,SUCK,em,281
+Tuvan,SUCK,em,281
+Uyghur,SUCK,ɛm,281
+Uzbek,SUCK,em,281
+West_Yugur,SUCK,em,281
+Yakut,SUCK,em,281
+Dolgan,SUCK,obor,282
+Yakut,SUCK,obor,282
+Azerbaijani,THIN,inʤæ,283
+Chulym,THIN,ʧɘʧkæʤeːk,283
+Chuvash,THIN,ɕinʑe,283
+Crimean_Tatar,THIN,inʤe,283
+Dolgan,THIN,hinnʲiɡes,283
+Gagauz,THIN,inʤɛ,283
+Kara-Kalpak,THIN,ʒiŋiʃke,283
+Karachay-Balkar,THIN,iŋiʧke,283
+Karaim,THIN,inʧke,283
+Kazakh,THIN,ʒɘŋɘʃke,283
+Khakas,THIN,nɘske,283
+Kyrgyz,THIN,iʧke,283
+Nogai,THIN,jiŋiʃke,283
+Northern_Altai,THIN,ʧiʧke,283
+Old_Turkic,THIN,jinʧɡe,283
+Salar,THIN,lɛʃki,283
+Salar,THIN,neʃke,283
+Tatar,THIN,neʧkɛ,283
+Tofa,THIN,niŋɡe,283
+Turkish,THIN,inʤe,283
+Turkmen,THIN,inʧe,283
+Tuvan,THIN,ʧiŋɡe,283
+Uyghur,THIN,inʧike,283
+Uyghur,THIN,iŋiʧke,283
+Uzbek,THIN,iŋiʧkɑ,283
+West_Yugur,THIN,ʃike,283
+Yakut,THIN,sinɲiɡes,283
+Bashkir,THIN,joqɑ,284
+Chulym,THIN,ʧuɣɑʤɑːq,284
+Chuvash,THIN,ɕuɣɑ,284
+Crimean_Tatar,THIN,jufqɑ,284
+Kara-Kalpak,THIN,ʒuqɑ,284
+Karachay-Balkar,THIN,ʤuqɑ,284
+Kazakh,THIN,ʒʊqɑ,284
+Khakas,THIN,ʧuɣɑ,284
+Kyrgyz,THIN,ʤuqɑ,284
+Nogai,THIN,juqɑ,284
+Old_Turkic,THIN,juqɑ,284
+Salar,THIN,joχpɑ,284
+Shor,THIN,ʧuɣɑ,284
+Southern_Altai,THIN,ɟuqɑ,284
+Tatar,THIN,juqɑ,284
+Tofa,THIN,ʧuɣɑ,284
+Turkmen,THIN,juqɑ,284
+Tuvan,THIN,ʧuɣɑ,284
+Uyghur,THIN,jupqɑ,284
+Uyghur,THIN,juqqɑ,284
+Uyghur,THIN,ʒupqɑ,284
+Uzbek,THIN,jupqɑ,284
+West_Yugur,THIN,juqɑ,284
+Azerbaijani,WHAT,næ,285
+Bashkir,WHAT,ni,285
+Bashkir,WHAT,nimɛ,285
+Chulym,WHAT,nøme,285
+Chuvash,WHAT,mɘn,285
+Crimean_Tatar,WHAT,ne,285
+Cuman,WHAT,ne,285
+Gagauz,WHAT,ne,285
+Gagauz,WHAT,nɑʃej,285
+Kara-Kalpak,WHAT,ne,285
+Karachay-Balkar,WHAT,ne,285
+Karaim,WHAT,ne,285
+Kazakh,WHAT,ne,285
+Khakas,WHAT,nime,285
+Khalaj,WHAT,nɛːsɛ,285
+Kumyk,WHAT,ne,285
+Kyrgyz,WHAT,emne,285
+Nogai,WHAT,ne,285
+Northern_Altai,WHAT,ne,285
+Northern_Altai,WHAT,ɲime,285
+Northern_Altai,WHAT,nime,285
+Old_Turkic,WHAT,ne,285
+Salar,WHAT,nɛ,285
+Shor,WHAT,noː,285
+Siberian_Tatar,WHAT,nemɛ,285
+Southern_Altai,WHAT,neme,285
+Tatar,WHAT,ni,285
+Tofa,WHAT,ʧy,285
+Turkish,WHAT,ne,285
+Turkmen,WHAT,nɛme,285
+Tuvan,WHAT,ʧy,285
+Uyghur,WHAT,nimɛ,285
+Uzbek,WHAT,nimɑ,285
+West_Yugur,WHAT,ni,285
+West_Yugur,WHAT,ne,285
+Yakut,WHAT,tuoχ,285
+Bashkir,OLD (USED),iθke,286
+Crimean_Tatar,OLD (USED),eski,286
+Cuman,OLD (USED),eski,286
+Gagauz,OLD (USED),eski,286
+Kara-Kalpak,OLD (USED),eski,286
+Karachay-Balkar,OLD (USED),eski,286
+Karaim,OLD (USED),eski,286
+Kazakh,OLD (USED),eskɘ,286
+Kumyk,OLD (USED),esɡi,286
+Kyrgyz,OLD (USED),eski,286
+Nogai,OLD (USED),eski,286
+Northern_Altai,OLD (USED),eski,286
+Old_Turkic,OLD (USED),eski,286
+Salar,OLD (USED),eski,286
+Shor,OLD (USED),eski,286
+Siberian_Tatar,OLD (USED),ëski,286
+Southern_Altai,OLD (USED),eski,286
+Tatar,OLD (USED),iske,286
+Turkish,OLD (USED),esci,286
+Uyghur,OLD (USED),ɛski,286
+Uzbek,OLD (USED),eski,286
+Chulym,OLD (USED),ɛrɡe,287
+Dolgan,OLD (USED),erɡe,287
+Khakas,OLD (USED),irɡɘ,287
+Tofa,OLD (USED),eˤrhi,287
+Tuvan,OLD (USED),erɡi,287
+West_Yugur,OLD (USED),erke,287
+Yakut,OLD (USED),erɡe,287
+Chuvash,OLD (USED),kivɘ,288
+Azerbaijani,STAR,ulduz,289
+Bashkir,STAR,jondoð,289
+Chulym,STAR,ʧəltəs,289
+Chuvash,STAR,ɕøldør,289
+Crimean_Tatar,STAR,jɯldɯz,289
+Cuman,STAR,juldus,289
+Dolgan,STAR,hulus,289
+Gagauz,STAR,jɯldɯz,289
+Kara-Kalpak,STAR,ʒuldɯz,289
+Karachay-Balkar,STAR,ʤulduz,289
+Karaim,STAR,julduz,289
+Karaim,STAR,jolduz,289
+Karaim,STAR,jɯldɯz,289
+Kazakh,STAR,ʒʊldɯz,289
+Khakas,STAR,ʧɯltɯs,289
+Khalaj,STAR,julduz,289
+Kumyk,STAR,julduz,289
+Kyrgyz,STAR,ʤɯldɯz,289
+Nogai,STAR,juldɯz,289
+Northern_Altai,STAR,jɯldɯs,289
+Old_Turkic,STAR,jultuz,289
+Salar,STAR,jultus,289
+Salar,STAR,jiltis,289
+Shor,STAR,ʧɯltɯs,289
+Southern_Altai,STAR,ɟɯldɯs,289
+Tatar,STAR,joldɯz,289
+Tofa,STAR,sɯltɯs,289
+Turkish,STAR,jɯɫdɯz,289
+Turkmen,STAR,jɯldɯð,289
+Tuvan,STAR,sɯldɯs,289
+Uyghur,STAR,jultuz,289
+Uyghur,STAR,ʒultuz,289
+Uzbek,STAR,julduz,289
+West_Yugur,STAR,jultɯs,289
+West_Yugur,STAR,jɯltɯs,289
+Yakut,STAR,sulus,289
+Azerbaijani,BLOOD,ɡɑn,290
+Bashkir,BLOOD,qɑn,290
+Chulym,BLOOD,qɑn,290
+Chuvash,BLOOD,jun,290
+Crimean_Tatar,BLOOD,qɑn,290
+Cuman,BLOOD,kɑn,290
+Dolgan,BLOOD,kɑɑn,290
+Gagauz,BLOOD,kɑn,290
+Kara-Kalpak,BLOOD,qɑn,290
+Karachay-Balkar,BLOOD,qɑn,290
+Karaim,BLOOD,kɑn,290
+Karaim,BLOOD,qɑn,290
+Kazakh,BLOOD,qɑn,290
+Khakas,BLOOD,χɑn,290
+Khalaj,BLOOD,qɑːn,290
+Kumyk,BLOOD,qɑn,290
+Kyrgyz,BLOOD,qɑn,290
+Nogai,BLOOD,qɑn,290
+Northern_Altai,BLOOD,qɑn,290
+Old_Turkic,BLOOD,qɑn,290
+Salar,BLOOD,qɑn,290
+Shor,BLOOD,qɑn,290
+Siberian_Tatar,BLOOD,qɑn,290
+Southern_Altai,BLOOD,qɑn,290
+Tatar,BLOOD,qɑn,290
+Tofa,BLOOD,qɑn,290
+Turkish,BLOOD,kɑn,290
+Turkmen,BLOOD,ɡɑːn,290
+Tuvan,BLOOD,χɑn,290
+Uyghur,BLOOD,qɑn,290
+Uzbek,BLOOD,qɔn,290
+West_Yugur,BLOOD,qɑn,290
+Yakut,BLOOD,χɑːn,290
+Azerbaijani,SAY,de,291
+Bashkir,SAY,ti,291
+Chuvash,SAY,te,291
+Cuman,SAY,de,291
+Dolgan,SAY,die,291
+Gagauz,SAY,de,291
+Kara-Kalpak,SAY,de,291
+Karachay-Balkar,SAY,de,291
+Kumyk,SAY,de,291
+Kyrgyz,SAY,de,291
+Nogai,SAY,de,291
+Northern_Altai,SAY,de,291
+Old_Turkic,SAY,teː,291
+Salar,SAY,tɛ,291
+Salar,SAY,ti,291
+Siberian_Tatar,SAY,të,291
+Southern_Altai,SAY,de,291
+Tatar,SAY,di,291
+Tofa,SAY,de,291
+Turkish,SAY,de,291
+Turkmen,SAY,dij,291
+Uyghur,SAY,dɛ,291
+Uzbek,SAY,de,291
+West_Yugur,SAY,ti,291
+Yakut,SAY,die,291
+Azerbaijani,SAY,søjlæ,292
+Gagauz,SAY,søle,292
+Turkish,SAY,søjlʲe,292
+Bashkir,SAY,ɛjt,293
+Chulym,SAY,ɑjt,293
+Crimean_Tatar,SAY,ɑjt,293
+Cuman,SAY,ɑjt,293
+Kara-Kalpak,SAY,ɑjt,293
+Karachay-Balkar,SAY,ɑjt,293
+Karaim,SAY,ɑjt,293
+Kazakh,SAY,ɑjt,293
+Khalaj,SAY,hɑːj,293
+Kyrgyz,SAY,ɑjt,293
+Nogai,SAY,ɑjt,293
+Northern_Altai,SAY,ɑjt,293
+Salar,SAY,ejʃɑ,293
+Shor,SAY,ɑjt,293
+Siberian_Tatar,SAY,ɛjt,293
+Southern_Altai,SAY,ɑjt,293
+Tatar,SAY,ɛjt,293
+Turkmen,SAY,ɑjt,293
+Uyghur,SAY,ejt,293
+Uzbek,SAY,ɑjt,293
+West_Yugur,SAY,ɑj,293
+Khakas,SAY,ʧooχtɑ,294
+Tuvan,SAY,ʧuɣɑːlɑ,294
+Azerbaijani,BLACK,ɡɑrɑ,295
+Bashkir,BLACK,qɑrɑ,295
+Chulym,BLACK,qɑrɑ,295
+Chuvash,BLACK,χurɑ,295
+Crimean_Tatar,BLACK,qɑrɑ,295
+Cuman,BLACK,kɑrɑ,295
+Dolgan,BLACK,kɑrɑ,295
+Gagauz,BLACK,kɑrɑ,295
+Kara-Kalpak,BLACK,qɑrɑ,295
+Karachay-Balkar,BLACK,qɑrɑ,295
+Karaim,BLACK,kɑrɑ,295
+Karaim,BLACK,qɑrɑ,295
+Kazakh,BLACK,qɑrɑ,295
+Khakas,BLACK,χɑrɑ,295
+Khalaj,BLACK,qɑrɑ,295
+Kumyk,BLACK,qɑrɑ,295
+Kyrgyz,BLACK,qɑrɑ,295
+Nogai,BLACK,qɑrɑ,295
+Northern_Altai,BLACK,qɑrɑ,295
+Old_Turkic,BLACK,qɑrɑ,295
+Salar,BLACK,qɑrɑ,295
+Shor,BLACK,qɑrɑ,295
+Siberian_Tatar,BLACK,qɑrɑ,295
+Southern_Altai,BLACK,qɑrɑ,295
+Tatar,BLACK,qɑrɑ,295
+Tofa,BLACK,qɑrɑ,295
+Turkish,BLACK,kɑrɑ,295
+Turkmen,BLACK,ɡɑrɑ,295
+Tuvan,BLACK,qɑrɑ,295
+Uyghur,BLACK,qɑrɑ,295
+Uzbek,BLACK,qɔrɑ,295
+West_Yugur,BLACK,qɑrɑ,295
+Yakut,BLACK,χɑrɑ,295
+Azerbaijani,YELLOW,sɑrɯ,296
+Bashkir,YELLOW,hɑrɯ,296
+Chulym,YELLOW,sɑːrəɣ,296
+Crimean_Tatar,YELLOW,sɑrɯ,296
+Cuman,YELLOW,sɑri,296
+Gagauz,YELLOW,sɑrɯ,296
+Kara-Kalpak,YELLOW,sɑrɯ,296
+Karachay-Balkar,YELLOW,sɑrɯ,296
+Karaim,YELLOW,sɑrɯ,296
+Kazakh,YELLOW,sɑrɯ,296
+Khakas,YELLOW,sɑrɯɣ,296
+Kyrgyz,YELLOW,sɑrɯ,296
+Nogai,YELLOW,sɑrɯ,296
+Northern_Altai,YELLOW,sɑrɯ,296
+Old_Turkic,YELLOW,sɑrɯɣ,296
+Salar,YELLOW,sɑrɯ,296
+Shor,YELLOW,sɑrɯɣ,296
+Siberian_Tatar,YELLOW,sɑrɯ,296
+Southern_Altai,YELLOW,sɑrɯ,296
+Tatar,YELLOW,sɑrɯ,296
+Tofa,YELLOW,sɑrɯɣ,296
+Turkish,YELLOW,sɑrɯ,296
+Turkmen,YELLOW,θɑrɯ,296
+Tuvan,YELLOW,sɑrɯɣ,296
+Uyghur,YELLOW,seriq,296
+Uzbek,YELLOW,sɑriq,296
+West_Yugur,YELLOW,sɑrɯɣ,296
+Yakut,YELLOW,ɑrɑɣɑs,296
+Dolgan,YELLOW,hɑhɑrkɑj,297
+Dolgan,YELLOW,hɑhɯl,297
+Yakut,YELLOW,sɑhɑrχɑj,297
+Khalaj,YELLOW,ʧɑqɯr,298
+Bashkir,WARM,jɯlɯ,299
+Chulym,WARM,ʧələɣ,299
+Kara-Kalpak,WARM,ʒɯllɯ,299
+Karachay-Balkar,WARM,ʤɯlɯ,299
+Karaim,WARM,jɯlɯ,299
+Kazakh,WARM,ʒɯlɯ,299
+Khakas,WARM,ʧɯlɯɣ,299
+Kumyk,WARM,jɯlɯ,299
+Kyrgyz,WARM,ʤɯluu,299
+Nogai,WARM,jɯlɯ,299
+Northern_Altai,WARM,jɯlɯɣ,299
+Old_Turkic,WARM,jɯlɯɣ,299
+Shor,WARM,ʧɯlɯɣ,299
+Southern_Altai,WARM,ɟɯlu,299
+Tatar,WARM,ʤɯlɯ,299
+Tofa,WARM,ʧɯlɯɣ,299
+Turkish,WARM,ɯɫɯk,299
+Turkmen,WARM,jɯlɯ,299
+Tuvan,WARM,ʧɯlɯɣ,299
+Uyghur,WARM,illiq,299
+Uzbek,WARM,iliq,299
+West_Yugur,WARM,jilɯɣ,299
+Yakut,WARM,sɯlɑːs,299
+Chuvash,WARM,ɤ̆ʷʒɤ̆ʷ,300
+Crimean_Tatar,WARM,sɯʤɑq,300
+Cuman,WARM,issi,300
+Dolgan,WARM,itiː,300
+Dolgan,WARM,iciɡes,300
+Gagauz,WARM,sɯʤɑk,300
+Karaim,WARM,issi,300
+Khalaj,WARM,hissiː,300
+Kumyk,WARM,issi,300
+Salar,WARM,ɯssɯ,300
+Uzbek,WARM,issiq,300
+Azerbaijani,ARM OR HAND,ɡol,301
+Bashkir,ARM OR HAND,qul,301
+Chulym,ARM OR HAND,qol,301
+Chuvash,ARM OR HAND,χul,301
+Crimean_Tatar,ARM OR HAND,qol,301
+Gagauz,ARM OR HAND,kol,301
+Kara-Kalpak,ARM OR HAND,qol,301
+Karachay-Balkar,ARM OR HAND,qol,301
+Karaim,ARM OR HAND,kol,301
+Kazakh,ARM OR HAND,qol,301
+Khakas,ARM OR HAND,χol,301
+Khalaj,ARM OR HAND,qol,301
+Kumyk,ARM OR HAND,qol,301
+Kyrgyz,ARM OR HAND,qol,301
+Nogai,ARM OR HAND,qol,301
+Northern_Altai,ARM OR HAND,qol,301
+Old_Turkic,ARM OR HAND,qol,301
+Salar,ARM OR HAND,qol,301
+Shor,ARM OR HAND,qol,301
+Siberian_Tatar,ARM OR HAND,qol,301
+Southern_Altai,ARM OR HAND,qol,301
+Tatar,ARM OR HAND,qul,301
+Tofa,ARM OR HAND,qol,301
+Turkish,ARM OR HAND,koɫ,301
+Turkmen,ARM OR HAND,ɡol,301
+Tuvan,ARM OR HAND,χol,301
+Uyghur,ARM OR HAND,qol,301
+Uzbek,ARM OR HAND,qol,301
+West_Yugur,ARM OR HAND,qol,301
+Azerbaijani,ARM OR HAND,æl,302
+Chuvash,ARM OR HAND,ɑlɤ̆ʷ,302
+Crimean_Tatar,ARM OR HAND,el,302
+Cuman,ARM OR HAND,el,302
+Dolgan,ARM OR HAND,iliː,302
+Gagauz,ARM OR HAND,el,302
+Khalaj,ARM OR HAND,ɛl,302
+Old_Turkic,ARM OR HAND,eliɡ,302
+Salar,ARM OR HAND,el,302
+Salar,ARM OR HAND,il,302
+Turkish,ARM OR HAND,elʲ,302
+Turkmen,ARM OR HAND,el,302
+West_Yugur,ARM OR HAND,elɯɣ,302
+West_Yugur,ARM OR HAND,eliɡ,302
+Yakut,ARM OR HAND,iliː,302
+Karachay-Balkar,ARM OR HAND,bilek,303
+Karaim,ARM OR HAND,bilek,303
+Karaim,ARM OR HAND,bilɛk,303
+Azerbaijani,SAND,ɡum,304
+Bashkir,SAND,qom,304
+Chulym,SAND,qum,304
+Crimean_Tatar,SAND,qum,304
+Cuman,SAND,kum,304
+Cuman,SAND,kun,304
+Dolgan,SAND,kumɑk,304
+Gagauz,SAND,kum,304
+Kara-Kalpak,SAND,qum,304
+Karachay-Balkar,SAND,qum,304
+Karaim,SAND,kum,304
+Kazakh,SAND,qʊm,304
+Khakas,SAND,χum,304
+Kumyk,SAND,χum,304
+Kyrgyz,SAND,qum,304
+Nogai,SAND,qum,304
+Northern_Altai,SAND,quvɑq,304
+Northern_Altai,SAND,qum,304
+Old_Turkic,SAND,qum,304
+Salar,SAND,kum,304
+Shor,SAND,qumɑq,304
+Siberian_Tatar,SAND,qum,304
+Tatar,SAND,qom,304
+Tofa,SAND,hum,304
+Turkish,SAND,kum,304
+Uyghur,SAND,qum,304
+Uzbek,SAND,qum,304
+West_Yugur,SAND,qum,304
+West_Yugur,SAND,qom,304
+Yakut,SAND,kumɑχ,304
+Chuvash,SAND,χɤ̆ʷjɤ̆ʷr,305
+Kumyk,SAND,qɑjɯr,305
+Nogai,SAND,qɑjɯr,305
+Turkmen,SAND,ʧɛɡe,306
+Azerbaijani,TONGUE,dil,307
+Bashkir,TONGUE,tel,307
+Chulym,TONGUE,tɘl,307
+Chuvash,TONGUE,ʧɘlɣe,307
+Crimean_Tatar,TONGUE,til,307
+Cuman,TONGUE,til,307
+Dolgan,TONGUE,tɯl,307
+Gagauz,TONGUE,dil,307
+Kara-Kalpak,TONGUE,til,307
+Karachay-Balkar,TONGUE,til,307
+Karaim,TONGUE,til,307
+Kazakh,TONGUE,tɘl,307
+Khakas,TONGUE,tɘl,307
+Khalaj,TONGUE,til,307
+Kumyk,TONGUE,til,307
+Kyrgyz,TONGUE,til,307
+Nogai,TONGUE,til,307
+Northern_Altai,TONGUE,til,307
+Old_Turkic,TONGUE,tɯl,307
+Salar,TONGUE,ʦil,307
+Shor,TONGUE,til,307
+Siberian_Tatar,TONGUE,til,307
+Southern_Altai,TONGUE,til,307
+Tatar,TONGUE,tel,307
+Tofa,TONGUE,dɯl,307
+Turkish,TONGUE,dilʲ,307
+Turkmen,TONGUE,dil,307
+Tuvan,TONGUE,dɯl,307
+Uyghur,TONGUE,til,307
+Uzbek,TONGUE,til,307
+West_Yugur,TONGUE,tel,307
+Yakut,TONGUE,tɯl,307
+Azerbaijani,NEAR,jɑχɯn,308
+Bashkir,NEAR,jɑqɯn,308
+Chulym,NEAR,ʧɑːɣən,308
+Crimean_Tatar,NEAR,jɑqun,308
+Gagauz,NEAR,jɑqɯn,308
+Kara-Kalpak,NEAR,ʒɑqɯn,308
+Karaim,NEAR,jɑqɯn,308
+Kazakh,NEAR,ʒɑqɯn,308
+Khakas,NEAR,ʧɑɣɯn,308
+Kyrgyz,NEAR,ʤɑqɯn,308
+Northern_Altai,NEAR,cɑɣɯn,308
+Salar,NEAR,jɑχɯn,308
+Shor,NEAR,ʧɑɣɯn,308
+Siberian_Tatar,NEAR,yɑqɯn,308
+Tatar,NEAR,jɑqɯn,308
+Turkish,NEAR,jɑkɯn,308
+Turkmen,NEAR,jɑqɯn,308
+Uyghur,NEAR,jeqin,308
+Uzbek,NEAR,jɑqin,308
+West_Yugur,NEAR,jɑqɯn,308
+West_Yugur,NEAR,juqun,308
+Chuvash,NEAR,ɕɯvɤ̆ʷχ,309
+Cuman,NEAR,jɑoh,309
+Dolgan,NEAR,ʧuɡɑs,309
+Dolgan,NEAR,huɡɑs,309
+Karachay-Balkar,NEAR,ʤuwuq,309
+Kumyk,NEAR,juwuq,309
+Nogai,NEAR,juwɯq,309
+Old_Turkic,NEAR,jɑɣuq,309
+Old_Turkic,NEAR,jɑɣuru,309
+Siberian_Tatar,NEAR,yɑvɯq,309
+Southern_Altai,NEAR,juq,309
+Southern_Altai,NEAR,juχ,309
+Tofa,NEAR,ʧoːɣɑʃ,309
+Tuvan,NEAR,ʧooq,309
+Yakut,NEAR,ʧuɡɑs,309
+Azerbaijani,FOUR,dørd,310
+Bashkir,FOUR,dyrt,310
+Chulym,FOUR,tørt,310
+Chuvash,FOUR,tøvɑttɤ̆ʷ,310
+Chuvash,FOUR,tøvɑdɤ̆ʷ,310
+Chuvash,FOUR,tøvɑt,310
+Crimean_Tatar,FOUR,dørt,310
+Cuman,FOUR,tort,310
+Dolgan,FOUR,tyørt,310
+Gagauz,FOUR,dørt,310
+Kara-Kalpak,FOUR,tørt,310
+Karachay-Balkar,FOUR,tørt,310
+Karaim,FOUR,dørt,310
+Kazakh,FOUR,tørt,310
+Khakas,FOUR,tørt,310
+Khalaj,FOUR,tøːørt,310
+Khalaj,FOUR,tyːørt,310
+Kumyk,FOUR,dørt,310
+Kyrgyz,FOUR,tørt,310
+Nogai,FOUR,dørt,310
+Northern_Altai,FOUR,tørt,310
+Old_Turkic,FOUR,tørt,310
+Shor,FOUR,tørt,310
+Siberian_Tatar,FOUR,tørt,310
+Southern_Altai,FOUR,tørt,310
+Tatar,FOUR,dyrt,310
+Tofa,FOUR,dørt,310
+Turkish,FOUR,dørt,310
+Turkmen,FOUR,dørt,310
+Tuvan,FOUR,dørt,310
+Uyghur,FOUR,tørt,310
+Uzbek,FOUR,tort,310
+West_Yugur,FOUR,dyrt,310
+West_Yugur,FOUR,tyrt,310
+West_Yugur,FOUR,tørt,310
+Yakut,FOUR,tyørt,310
+Azerbaijani,GREEN,jɑʃɯl,311
+Bashkir,GREEN,jɛʃel,311
+Crimean_Tatar,GREEN,jeʃil,311
+Cuman,GREEN,jɑs,311
+Gagauz,GREEN,jeʃil,311
+Karachay-Balkar,GREEN,ʤɑʃɯl,311
+Karaim,GREEN,jesil,311
+Kazakh,GREEN,ʒɑsɯl,311
+Kumyk,GREEN,jɑʃɯl,311
+Kyrgyz,GREEN,ʤɑʃɯl,311
+Nogai,GREEN,jɑsɯl,311
+Northern_Altai,GREEN,cɑʒɯl,311
+Old_Turkic,GREEN,jɑʃɯl,311
+Salar,GREEN,jɑːʃɯl,311
+Shor,GREEN,ʧɑʒɯl,311
+Siberian_Tatar,GREEN,jiʃil,311
+Southern_Altai,GREEN,ɟɑʒɯl,311
+Tatar,GREEN,jɛʃel,311
+Turkish,GREEN,jeʃilʲ,311
+Turkmen,GREEN,jɑʃɯl,311
+Uyghur,GREEN,jeʃil,311
+Uzbek,GREEN,jɑʃil,311
+West_Yugur,GREEN,jɑsɯl,311
+Chulym,GREEN,kok,312
+Dolgan,GREEN,kyøk,312
+Kara-Kalpak,GREEN,køk,312
+Khakas,GREEN,køk,312
+Khalaj,GREEN,kyøk,312
+Khalaj,GREEN,kiek,312
+Tofa,GREEN,køk,312
+Uyghur,GREEN,køk,312
+Yakut,GREEN,kyøχ,312
+Chuvash,GREEN,simɘs,313
+Azerbaijani,WING,ɡɑnɑd,314
+Bashkir,WING,qɑnɑt,314
+Chulym,WING,qɑnɑt,314
+Chuvash,WING,ɕunɑt,314
+Crimean_Tatar,WING,qɑnɑt,314
+Cuman,WING,hɑnɑt,314
+Dolgan,WING,kɯnɑt,314
+Gagauz,WING,kɑnɑt,314
+Kara-Kalpak,WING,qɑnɑt,314
+Karachay-Balkar,WING,qɑnɑt,314
+Karaim,WING,kɑnɑt,314
+Kazakh,WING,qɑnɑt,314
+Khakas,WING,χɑnɑt,314
+Kumyk,WING,qɑnɑt,314
+Kyrgyz,WING,qɑnɑt,314
+Nogai,WING,qɑnɑt,314
+Northern_Altai,WING,qɑnɑt,314
+Old_Turkic,WING,qɑnɑt,314
+Salar,WING,qɑnɑt,314
+Shor,WING,qɑnɑt,314
+Siberian_Tatar,WING,qɑnɑt,314
+Southern_Altai,WING,qɑnɑt,314
+Tatar,WING,qɑnɑt,314
+Tofa,WING,hɑnɑt,314
+Turkish,WING,kɑnɑt,314
+Turkmen,WING,ɡɑnɑt,314
+Uyghur,WING,qɑnɑt,314
+Uzbek,WING,qɑnɔt,314
+West_Yugur,WING,qɑnɑt,314
+West_Yugur,WING,qɯjnɑt,314
+Yakut,WING,kɯnɑt,314
+Tuvan,WING,ʧɑlɣɯn,315
+Azerbaijani,EYE,cøz,316
+Bashkir,EYE,kyð,316
+Chuvash,EYE,kuɕ,316
+Crimean_Tatar,EYE,køz,316
+Cuman,EYE,køʃ,316
+Gagauz,EYE,ɡøz,316
+Kara-Kalpak,EYE,køz,316
+Karachay-Balkar,EYE,køz,316
+Karaim,EYE,køz,316
+Karaim,EYE,kez,316
+Kazakh,EYE,køz,316
+Khalaj,EYE,køz,316
+Kumyk,EYE,ɡøz,316
+Kyrgyz,EYE,køz,316
+Nogai,EYE,køz,316
+Northern_Altai,EYE,køs,316
+Old_Turkic,EYE,køz,316
+Salar,EYE,koz,316
+Siberian_Tatar,EYE,køz,316
+Southern_Altai,EYE,køs,316
+Tatar,EYE,kyz,316
+Turkish,EYE,ɟøz,316
+Turkmen,EYE,ɡøð,316
+Uyghur,EYE,køz,316
+Uzbek,EYE,koz,316
+West_Yugur,EYE,kyz,316
+West_Yugur,EYE,køz,316
+Chulym,EYE,qɑrɑq,317
+Dolgan,EYE,kɑrɑk,317
+Khakas,EYE,χɑrɑχ,317
+Shor,EYE,qɑrɑq,317
+Tofa,EYE,qɑrɑq,317
+Tuvan,EYE,qɑrɑq,317
+Yakut,EYE,χɑrɑχ,317
+Bashkir,SEED,orloq,318
+Chuvash,SEED,vørø,318
+Crimean_Tatar,SEED,urluq,318
+Cuman,SEED,uru,318
+Cuman,SEED,ourluk,318
+Karachay-Balkar,SEED,urluq,318
+Karaim,SEED,urluk,318
+Kazakh,SEED,ʊrɯq,318
+Kumyk,SEED,urluq,318
+Kyrgyz,SEED,uruq,318
+Nogai,SEED,urlɯq,318
+Old_Turkic,SEED,uruɣ,318
+Salar,SEED,urluχ,318
+Tatar,SEED,orlɯq,318
+Uyghur,SEED,uruq,318
+Uzbek,SEED,uruɣ,318
+Azerbaijani,FAT (ORGANIC SUBSTANCE),jɑɣ,319
+Chulym,FAT (ORGANIC SUBSTANCE),ʧɑɣ,319
+Chuvash,FAT (ORGANIC SUBSTANCE),ɕu,319
+Crimean_Tatar,FAT (ORGANIC SUBSTANCE),jɑɣ,319
+Cuman,FAT (ORGANIC SUBSTANCE),jɑv,319
+Dolgan,FAT (ORGANIC SUBSTANCE),hɯɑ,319
+Gagauz,FAT (ORGANIC SUBSTANCE),jɑː,319
+Karachay-Balkar,FAT (ORGANIC SUBSTANCE),ʤɑw,319
+Karaim,FAT (ORGANIC SUBSTANCE),jɑv,319
+Khakas,FAT (ORGANIC SUBSTANCE),ʧɑɣ,319
+Khalaj,FAT (ORGANIC SUBSTANCE),jɑːɑɣ,319
+Northern_Altai,FAT (ORGANIC SUBSTANCE),jɯɣ,319
+Old_Turkic,FAT (ORGANIC SUBSTANCE),jɑɣ,319
+Salar,FAT (ORGANIC SUBSTANCE),jɑɣ,319
+Shor,FAT (ORGANIC SUBSTANCE),ʧɑɣ,319
+Southern_Altai,FAT (ORGANIC SUBSTANCE),ɟu,319
+Tofa,FAT (ORGANIC SUBSTANCE),ʧɑɣ,319
+Turkish,FAT (ORGANIC SUBSTANCE),jɑː,319
+Turkmen,FAT (ORGANIC SUBSTANCE),jɑɣ,319
+Uyghur,FAT (ORGANIC SUBSTANCE),jɑɣ,319
+Uzbek,FAT (ORGANIC SUBSTANCE),jɔɣ,319
+Yakut,FAT (ORGANIC SUBSTANCE),sɯɑ,319
+Bashkir,FAT (ORGANIC SUBSTANCE),mɑj,320
+Kara-Kalpak,FAT (ORGANIC SUBSTANCE),mɑj,320
+Kazakh,FAT (ORGANIC SUBSTANCE),mɑj,320
+Kumyk,FAT (ORGANIC SUBSTANCE),mɑj,320
+Kyrgyz,FAT (ORGANIC SUBSTANCE),mɑj,320
+Nogai,FAT (ORGANIC SUBSTANCE),mɑj,320
+Siberian_Tatar,FAT (ORGANIC SUBSTANCE),mɑj,320
+Tatar,FAT (ORGANIC SUBSTANCE),mɑj,320
+Uyghur,FAT (ORGANIC SUBSTANCE),mɑj,320
+Khakas,FAT (ORGANIC SUBSTANCE),ys,321
+Tuvan,FAT (ORGANIC SUBSTANCE),ys,321
+West_Yugur,FAT (ORGANIC SUBSTANCE),tønɑχ,322
+Azerbaijani,GIVE,ver,323
+Bashkir,GIVE,bir,323
+Chulym,GIVE,pɛr,323
+Chuvash,GIVE,pɑr,323
+Crimean_Tatar,GIVE,ber,323
+Cuman,GIVE,ber,323
+Dolgan,GIVE,bier,323
+Gagauz,GIVE,ver,323
+Kara-Kalpak,GIVE,ber,323
+Karachay-Balkar,GIVE,ber,323
+Karaim,GIVE,ber,323
+Karaim,GIVE,ver,323
+Kazakh,GIVE,ber,323
+Khakas,GIVE,pir,323
+Khalaj,GIVE,vier,323
+Kumyk,GIVE,ber,323
+Kyrgyz,GIVE,ber,323
+Nogai,GIVE,ber,323
+Northern_Altai,GIVE,per,323
+Northern_Altai,GIVE,ber,323
+Old_Turkic,GIVE,ber,323
+Salar,GIVE,per,323
+Salar,GIVE,ver,323
+Salar,GIVE,ber,323
+Shor,GIVE,per,323
+Siberian_Tatar,GIVE,ber,323
+Siberian_Tatar,GIVE,bɛr,323
+Southern_Altai,GIVE,ber,323
+Tatar,GIVE,bir,323
+Tofa,GIVE,ber,323
+Turkish,GIVE,ver,323
+Turkmen,GIVE,ber,323
+Tuvan,GIVE,ber,323
+Uyghur,GIVE,bɛr,323
+Uzbek,GIVE,ber,323
+West_Yugur,GIVE,per,323
+Yakut,GIVE,bier,323
+Azerbaijani,LIVER,bɑɣɯr,324
+Bashkir,LIVER,bɑwɯr,324
+Chulym,LIVER,pɑɑr,324
+Chuvash,LIVER,pɘ̆ʷvɘ̆ʷr,324
+Dolgan,LIVER,bɯɑr,324
+Kara-Kalpak,LIVER,bɑwɯr,324
+Karachay-Balkar,LIVER,bɑwur,324
+Karaim,LIVER,bɑvur,324
+Karaim,LIVER,bɑwɯr,324
+Karaim,LIVER,bɑɣɯr,324
+Kazakh,LIVER,bɑwɯr,324
+Khakas,LIVER,pɑɑr,324
+Kumyk,LIVER,bɑwur,324
+Kyrgyz,LIVER,boor,324
+Nogai,LIVER,bɑwɯr,324
+Northern_Altai,LIVER,bɑɣɯr,324
+Northern_Altai,LIVER,pɑɑr,324
+Old_Turkic,LIVER,bɑɣɯr,324
+Salar,LIVER,pɑɣɯr,324
+Shor,LIVER,pɑːr,324
+Siberian_Tatar,LIVER,bɑwɯr,324
+Siberian_Tatar,LIVER,pɑwɯr,324
+Siberian_Tatar,LIVER,pɑɣɯr,324
+Southern_Altai,LIVER,buur,324
+Tatar,LIVER,bɑwɯr,324
+Tofa,LIVER,bɑɑr,324
+Turkmen,LIVER,bɑɣɯr,324
+Tuvan,LIVER,bɑɑr,324
+Uyghur,LIVER,beɣir,324
+West_Yugur,LIVER,pɑɣɯr,324
+Yakut,LIVER,bɯɑr,324
+Azerbaijani,MANY,ʧoχ,325
+Crimean_Tatar,MANY,ʧoq,325
+Gagauz,MANY,ʧok,325
+Turkish,MANY,ʧok,325
+Bashkir,MANY,kyp,326
+Chulym,MANY,kopʲ,326
+Cuman,MANY,køp,326
+Kara-Kalpak,MANY,køp,326
+Karachay-Balkar,MANY,køb,326
+Karaim,MANY,køp,326
+Kazakh,MANY,køp,326
+Khakas,MANY,køp,326
+Kumyk,MANY,køp,326
+Kyrgyz,MANY,køp,326
+Nogai,MANY,køp,326
+Northern_Altai,MANY,køp,326
+Salar,MANY,kop,326
+Shor,MANY,køp,326
+Siberian_Tatar,MANY,køp,326
+Southern_Altai,MANY,køp,326
+Tatar,MANY,kyp,326
+Tofa,MANY,køˤp,326
+Tofa,MANY,køˤf,326
+Turkmen,MANY,køp,326
+Tuvan,MANY,χøj,326
+Uyghur,MANY,køp,326
+Uzbek,MANY,kop,326
+West_Yugur,MANY,kep,326
+Dolgan,MANY,yɡys,327
+Old_Turkic,MANY,ykyʃ,327
+Azerbaijani,EAR,ɡulɑɡ,328
+Bashkir,EAR,qolɑq,328
+Chulym,EAR,qulɑq,328
+Chuvash,EAR,χølɣɑ,328
+Crimean_Tatar,EAR,qulɑq,328
+Cuman,EAR,kulɑɡ,328
+Dolgan,EAR,kulɡɑːk,328
+Gagauz,EAR,kulɑk,328
+Kara-Kalpak,EAR,qulɑq,328
+Karachay-Balkar,EAR,qulɑq,328
+Karaim,EAR,kulɑk,328
+Karaim,EAR,kulɑχ,328
+Karaim,EAR,qulɑq,328
+Kazakh,EAR,qulɑq,328
+Khakas,EAR,χulɑχ,328
+Khalaj,EAR,qulɑːq,328
+Kumyk,EAR,qulɑq,328
+Kyrgyz,EAR,qulɑq,328
+Nogai,EAR,qulɑq,328
+Northern_Altai,EAR,qɯlɑq,328
+Northern_Altai,EAR,qulɑq,328
+Old_Turkic,EAR,qulqɑq,328
+Salar,EAR,qulɑχ,328
+Shor,EAR,qulɑq,328
+Siberian_Tatar,EAR,qolɑq,328
+Siberian_Tatar,EAR,qulɑq,328
+Southern_Altai,EAR,qulɑq,328
+Tatar,EAR,qolɑq,328
+Tofa,EAR,qulɑq,328
+Turkish,EAR,kuɫɑk,328
+Turkmen,EAR,ɡulɑq,328
+Tuvan,EAR,qulɑq,328
+Uyghur,EAR,qulɑq,328
+Uzbek,EAR,qulɔq,328
+West_Yugur,EAR,qulɑq,328
+Yakut,EAR,kulɡɑːχ,328
+Azerbaijani,HORN (ANATOMY),bujnuz,329
+Bashkir,HORN (ANATOMY),møɡøð,329
+Chulym,HORN (ANATOMY),myys,329
+Chuvash,HORN (ANATOMY),møjrɑɡɑ,329
+Crimean_Tatar,HORN (ANATOMY),bojnuz,329
+Cuman,HORN (ANATOMY),munɡus,329
+Dolgan,HORN (ANATOMY),muos,329
+Gagauz,HORN (ANATOMY),bujnuz,329
+Kara-Kalpak,HORN (ANATOMY),myjiz,329
+Karachay-Balkar,HORN (ANATOMY),myjyz,329
+Karaim,HORN (ANATOMY),myŋyz,329
+Karaim,HORN (ANATOMY),miviz,329
+Kazakh,HORN (ANATOMY),myjɘz,329
+Khakas,HORN (ANATOMY),myys,329
+Kumyk,HORN (ANATOMY),myjyz,329
+Kyrgyz,HORN (ANATOMY),myjyz,329
+Nogai,HORN (ANATOMY),myjiz,329
+Northern_Altai,HORN (ANATOMY),myys,329
+Old_Turkic,HORN (ANATOMY),myjyz,329
+Salar,HORN (ANATOMY),moŋus,329
+Shor,HORN (ANATOMY),myːs,329
+Southern_Altai,HORN (ANATOMY),myys,329
+Tatar,HORN (ANATOMY),møɡez,329
+Tofa,HORN (ANATOMY),miis,329
+Turkish,HORN (ANATOMY),bojnuz,329
+Tuvan,HORN (ANATOMY),mɯjɯs,329
+Uyghur,HORN (ANATOMY),myŋɡyz,329
+West_Yugur,HORN (ANATOMY),moŋus,329
+Yakut,HORN (ANATOMY),muos,329
+Azerbaijani,HEAD,bɑʃ,330
+Bashkir,HEAD,bɑʃ,330
+Chulym,HEAD,pɑs,330
+Chuvash,HEAD,puɕ,330
+Crimean_Tatar,HEAD,bɑʃ,330
+Cuman,HEAD,bɑs,330
+Dolgan,HEAD,bɑs,330
+Gagauz,HEAD,bɑʃ,330
+Karachay-Balkar,HEAD,bɑʃ,330
+Karaim,HEAD,bɑʃ,330
+Karaim,HEAD,bɑs,330
+Kazakh,HEAD,bɑs,330
+Khakas,HEAD,pɑs,330
+Khalaj,HEAD,bɑːʃ,330
+Kumyk,HEAD,bɑʃ,330
+Kyrgyz,HEAD,bɑʃ,330
+Nogai,HEAD,bɑs,330
+Northern_Altai,HEAD,bɑʃ,330
+Northern_Altai,HEAD,pɑʃ,330
+Old_Turkic,HEAD,bɑʃ,330
+Salar,HEAD,pɑʃ,330
+Salar,HEAD,bɑʃ,330
+Shor,HEAD,pɑʃ,330
+Siberian_Tatar,HEAD,pɑʃ,330
+Siberian_Tatar,HEAD,bɑʃ,330
+Southern_Altai,HEAD,bɑʃ,330
+Tatar,HEAD,bɑʃ,330
+Tofa,HEAD,bɑˤʃ,330
+Turkish,HEAD,bɑʃ,330
+Tuvan,HEAD,bɑʃ,330
+Uyghur,HEAD,bɑʃ,330
+Uzbek,HEAD,bɔʃ,330
+West_Yugur,HEAD,pɑʃ,330
+Yakut,HEAD,bɑs,330
+Azerbaijani,EARTH (SOIL),jer,331
+Bashkir,EARTH (SOIL),jer,331
+Chulym,EARTH (SOIL),ʧɛr,331
+Chuvash,EARTH (SOIL),ɕɘr,331
+Crimean_Tatar,EARTH (SOIL),jer,331
+Cuman,EARTH (SOIL),ier,331
+Cuman,EARTH (SOIL),jer,331
+Dolgan,EARTH (SOIL),hir,331
+Gagauz,EARTH (SOIL),jer,331
+Kara-Kalpak,EARTH (SOIL),ʒer,331
+Karachay-Balkar,EARTH (SOIL),ʤer,331
+Karaim,EARTH (SOIL),jer,331
+Kazakh,EARTH (SOIL),ʒer,331
+Khakas,EARTH (SOIL),ʧir,331
+Khalaj,EARTH (SOIL),jer,331
+Kumyk,EARTH (SOIL),jer,331
+Kyrgyz,EARTH (SOIL),ʤer,331
+Nogai,EARTH (SOIL),jer,331
+Northern_Altai,EARTH (SOIL),cer,331
+Northern_Altai,EARTH (SOIL),ɟer,331
+Northern_Altai,EARTH (SOIL),jer,331
+Old_Turkic,EARTH (SOIL),jer,331
+Shor,EARTH (SOIL),ʧer,331
+Siberian_Tatar,EARTH (SOIL),jer,331
+Southern_Altai,EARTH (SOIL),ɟer,331
+Tatar,EARTH (SOIL),ʤir,331
+Tofa,EARTH (SOIL),ʧer,331
+Turkish,EARTH (SOIL),jer,331
+Turkmen,EARTH (SOIL),jer,331
+Uyghur,EARTH (SOIL),jɛr,331
+Uzbek,EARTH (SOIL),jer,331
+West_Yugur,EARTH (SOIL),jer,331
+Yakut,EARTH (SOIL),sir,331
+Azerbaijani,EARTH (SOIL),torpɑɡ,332
+Bashkir,EARTH (SOIL),tuprɑq,332
+Chulym,EARTH (SOIL),toβrɑq,332
+Chuvash,EARTH (SOIL),tøprɑ,332
+Crimean_Tatar,EARTH (SOIL),toprɑq,332
+Gagauz,EARTH (SOIL),toprɑk,332
+Kara-Kalpak,EARTH (SOIL),topɯrɑq,332
+Karachay-Balkar,EARTH (SOIL),toprɑq,332
+Karaim,EARTH (SOIL),toprɑq,332
+Kazakh,EARTH (SOIL),topɯrɑq,332
+Khakas,EARTH (SOIL),tobɯrɑχ,332
+Khalaj,EARTH (SOIL),turpɑq,332
+Kumyk,EARTH (SOIL),topurɑq,332
+Kyrgyz,EARTH (SOIL),topurɑq,332
+Nogai,EARTH (SOIL),topɯrɑq,332
+Northern_Altai,EARTH (SOIL),toprɑq,332
+Old_Turkic,EARTH (SOIL),toprɑq,332
+Shor,EARTH (SOIL),tobrɑq,332
+Southern_Altai,EARTH (SOIL),tobrɑq,332
+Tatar,EARTH (SOIL),tufrɑq,332
+Tofa,EARTH (SOIL),toˤprɑq,332
+Turkish,EARTH (SOIL),toprɑk,332
+Turkmen,EARTH (SOIL),toprɑq,332
+Tuvan,EARTH (SOIL),dovurɑq,332
+Uyghur,EARTH (SOIL),toprɑq,332
+Uzbek,EARTH (SOIL),tuprɔq,332
+West_Yugur,EARTH (SOIL),torvɑq,332
+West_Yugur,EARTH (SOIL),tɯrvɑq,332
+Dolgan,EARTH (SOIL),buor,333
+Yakut,EARTH (SOIL),buor,333
+Azerbaijani,THEY,onlɑr,334
+Bashkir,THEY,ulɑr,334
+Chulym,THEY,olɑr,334
+Chuvash,THEY,vɘ̆ʷzem,334
+Crimean_Tatar,THEY,olɑr,334
+Cuman,THEY,ɑlɑr,334
+Gagauz,THEY,onnɑr,334
+Kara-Kalpak,THEY,olɑr,334
+Karachay-Balkar,THEY,ɑlɑ,334
+Karaim,THEY,ɑlɑr,334
+Kazakh,THEY,olɑr,334
+Khakas,THEY,olɑr,334
+Khalaj,THEY,ollɑr,334
+Kumyk,THEY,olɑr,334
+Kyrgyz,THEY,ɑlɑr,334
+Nogai,THEY,olɑr,334
+Northern_Altai,THEY,ɯlɑr,334
+Northern_Altai,THEY,lɑr,334
+Old_Turkic,THEY,olɑr,334
+Salar,THEY,vulɑr,334
+Shor,THEY,ɯlɑr,334
+Southern_Altai,THEY,olor,334
+Tatar,THEY,ɑlɑr,334
+Tofa,THEY,olɑrɯŋ,334
+Turkish,THEY,onɫɑr,334
+Turkmen,THEY,olɑr,334
+Tuvan,THEY,olɑr,334
+Uyghur,THEY,ulɑr,334
+Uzbek,THEY,ulɑr,334
+Dolgan,THEY,ɡiniler,335
+Yakut,THEY,kiniler,335
+West_Yugur,THEY,qolɑr,336
+Azerbaijani,FALL,dyʃ,337
+Cuman,FALL,tuʃ,337
+Dolgan,FALL,tys,337
+Gagauz,FALL,dyʃ,337
+Karachay-Balkar,FALL,tyʃ,337
+Karaim,FALL,ʧyʃ,337
+Karaim,FALL,kis tyʃ,337
+Kazakh,FALL,tys,337
+Khakas,FALL,tys,337
+Khalaj,FALL,tiʃ,337
+Kyrgyz,FALL,tyʃ,337
+Northern_Altai,FALL,tyʃ,337
+Old_Turkic,FALL,tyʃ,337
+Salar,FALL,ʤyʤ,337
+Siberian_Tatar,FALL,tyʃ,337
+Southern_Altai,FALL,tyʃ,337
+Tofa,FALL,tyˤʃ,337
+Turkish,FALL,dyʃ,337
+Tuvan,FALL,dyʃ,337
+Uyghur,FALL,ʧyʃ,337
+Yakut,FALL,tys,337
+Bashkir,FALL,jɯɣɯl,338
+Crimean_Tatar,FALL,jɯqɯl,338
+Kara-Kalpak,FALL,ʒɯɣɯl,338
+Karachay-Balkar,FALL,ʤɯɣɯl,338
+Karaim,FALL,jɯɣɯl,338
+Kazakh,FALL,ʒɯɣɯl,338
+Kumyk,FALL,jɯɣɯl,338
+Kyrgyz,FALL,ʤɯɣɯl,338
+Nogai,FALL,jɯɣɯl,338
+Salar,FALL,jɯχɯl,338
+Shor,FALL,ʧɯɣɯl,338
+Siberian_Tatar,FALL,jɯɣɑl,338
+Tatar,FALL,jɯɣɯl,338
+Turkmen,FALL,jɯqɯl,338
+Uyghur,FALL,ʒiqil,338
+Uzbek,FALL,jiqil,338
+Chulym,FALL,ɑŋnɑl,339
+Khakas,FALL,ɑŋdɑrɯl,339
+Chuvash,FALL,yk,340
+Kazakh,FALL,qulɑ,341
+Salar,FALL,ʃɑŋkulɑ,341
+Salar,FALL,ʃøŋ kol,341
+Uzbek,FALL,tokil,342
+West_Yugur,FALL,toqrɑ,342
+Azerbaijani,LAUGH,ɟyl,343
+Bashkir,LAUGH,køl,343
+Chulym,LAUGH,kulʲ,343
+Chuvash,LAUGH,kul,343
+Crimean_Tatar,LAUGH,kulʲ,343
+Cuman,LAUGH,kul,343
+Dolgan,LAUGH,kyl,343
+Gagauz,LAUGH,ɡyl,343
+Kara-Kalpak,LAUGH,kyl,343
+Karachay-Balkar,LAUGH,kyl,343
+Karaim,LAUGH,kyl,343
+Karaim,LAUGH,kul,343
+Karaim,LAUGH,kil,343
+Kazakh,LAUGH,kyl,343
+Khakas,LAUGH,kyl,343
+Khalaj,LAUGH,kil,343
+Kumyk,LAUGH,kyle,343
+Kyrgyz,LAUGH,kyl,343
+Nogai,LAUGH,kyl,343
+Northern_Altai,LAUGH,kyl,343
+Salar,LAUGH,kulli,343
+Siberian_Tatar,LAUGH,køl,343
+Tatar,LAUGH,køl,343
+Turkish,LAUGH,ɟylʲ,343
+Turkmen,LAUGH,ɡyl,343
+Uyghur,LAUGH,kyl,343
+Uzbek,LAUGH,kul,343
+West_Yugur,LAUGH,kyl,343
+West_Yugur,LAUGH,kul,343
+West_Yugur,LAUGH,kulʲ,343
+Yakut,LAUGH,kyl,343
+Khakas,LAUGH,χɑtχɯr,344
+Shor,LAUGH,qɑtqɯr,344
+Southern_Altai,LAUGH,qɑtχɯr,344
+Tofa,LAUGH,qɑˤqqɯr,344
+Tuvan,LAUGH,qɑttɯr,344
+Azerbaijani,VOMIT,ɡus,345
+Bashkir,VOMIT,qoθ,345
+Chulym,VOMIT,qus,345
+Chuvash,VOMIT,χøs,345
+Crimean_Tatar,VOMIT,qus,345
+Cuman,VOMIT,kus,345
+Gagauz,VOMIT,kus,345
+Kara-Kalpak,VOMIT,qus,345
+Karachay-Balkar,VOMIT,qus,345
+Karaim,VOMIT,kus,345
+Kazakh,VOMIT,qʊs,345
+Khakas,VOMIT,χus,345
+Khalaj,VOMIT,qus,345
+Kumyk,VOMIT,qus,345
+Kyrgyz,VOMIT,qus,345
+Nogai,VOMIT,qus,345
+Northern_Altai,VOMIT,qus,345
+Old_Turkic,VOMIT,qus,345
+Southern_Altai,VOMIT,qus,345
+Tatar,VOMIT,qos,345
+Tofa,VOMIT,quˤs,345
+Turkish,VOMIT,kus,345
+Turkmen,VOMIT,ɡuθ,345
+Tuvan,VOMIT,qus,345
+Uyghur,VOMIT,qus,345
+Uzbek,VOMIT,qus,345
+West_Yugur,VOMIT,qus,345
+Yakut,VOMIT,χotuolɑː,345
+Azerbaijani,YEAR,il,346
+Bashkir,YEAR,jɯl,346
+Chulym,YEAR,ʧɯl,346
+Crimean_Tatar,YEAR,jɯl,346
+Cuman,YEAR,ɡil,346
+Cuman,YEAR,jil,346
+Gagauz,YEAR,jɯl,346
+Kara-Kalpak,YEAR,ʒɯl,346
+Karachay-Balkar,YEAR,ʤɯl,346
+Karaim,YEAR,jɯl,346
+Karaim,YEAR,il,346
+Khalaj,YEAR,jil,346
+Kumyk,YEAR,jɯl,346
+Kyrgyz,YEAR,ʤɯl,346
+Nogai,YEAR,jɯl,346
+Northern_Altai,YEAR,cɯl,346
+Old_Turkic,YEAR,jɯl,346
+Salar,YEAR,jel,346
+Salar,YEAR,jɯl,346
+Salar,YEAR,jil,346
+Shor,YEAR,ʧɯl,346
+Siberian_Tatar,YEAR,jɯl,346
+Southern_Altai,YEAR,ɟɯl,346
+Tofa,YEAR,ʧɯl,346
+Turkish,YEAR,jɯɫ,346
+Turkmen,YEAR,jɯl,346
+Tuvan,YEAR,ʧɯl,346
+Uyghur,YEAR,ʒil,346
+Uzbek,YEAR,jil,346
+West_Yugur,YEAR,jɯl,346
+Yakut,YEAR,sɯl,346
+Chuvash,YEAR,ɕul,347
+Azerbaijani,GOOD,jɑχʃɯ,348
+Bashkir,GOOD,jɑqʃɯ,348
+Chulym,GOOD,ʧɑqsə,348
+Crimean_Tatar,GOOD,jɑχʃɯ,348
+Cuman,GOOD,jɑksi,348
+Kara-Kalpak,GOOD,ʒɑqsɯ,348
+Karachay-Balkar,GOOD,ɑʃχɯ,348
+Karaim,GOOD,jɑχʃɯ,348
+Karaim,GOOD,jɑχsɯ,348
+Kazakh,GOOD,ʒɑqsɯ,348
+Khakas,GOOD,ʧɑχsɯ,348
+Kumyk,GOOD,jɑχʃɯ,348
+Kyrgyz,GOOD,ʤɑqʃɯ,348
+Nogai,GOOD,jɑχʃɯ,348
+Northern_Altai,GOOD,cɑqʃɯ,348
+Northern_Altai,GOOD,ɟɑqʃɯ,348
+Salar,GOOD,jɑχʃi,348
+Salar,GOOD,jɑχʃɑrɑ,348
+Shor,GOOD,ʧɑqʃɯ,348
+Siberian_Tatar,GOOD,jɑqʃɯ,348
+Southern_Altai,GOOD,ɟɑχʃɯ,348
+Tatar,GOOD,jɑχʃɯ,348
+Turkmen,GOOD,jɑɡʃɯ,348
+Uyghur,GOOD,jɑχʃɯ,348
+Uzbek,GOOD,jɑχʃi,348
+West_Yugur,GOOD,jɑχʃɯ,348
+Crimean_Tatar,GOOD,eji,349
+Cuman,GOOD,ejɡi,349
+Gagauz,GOOD,iji,349
+Karachay-Balkar,GOOD,iɡi,349
+Nogai,GOOD,ijɡi,349
+Old_Turkic,GOOD,edɡy,349
+Tofa,GOOD,eˤkkɘ,349
+Turkish,GOOD,iji,349
+Tuvan,GOOD,eki,349
+Dolgan,GOOD,yʧyɡej,350
+Yakut,GOOD,yʧyɡej,350
+Azerbaijani,BITE,diʃlæ,351
+Bashkir,BITE,teʃlɛ,351
+Crimean_Tatar,BITE,tiʃle,351
+Cuman,BITE,tislɑ,351
+Kara-Kalpak,BITE,tisle,351
+Karaim,BITE,tiʃle,351
+Karaim,BITE,ʧiʃle,351
+Kazakh,BITE,tɘste,351
+Kyrgyz,BITE,tiʃtø,351
+Nogai,BITE,tisle,351
+Northern_Altai,BITE,tiʃte,351
+Old_Turkic,BITE,tiʃle,351
+Salar,BITE,ʧɯːʃle,351
+Southern_Altai,BITE,tiʃte,351
+Tatar,BITE,teʃlɛ,351
+Turkmen,BITE,diʃle,351
+Uyghur,BITE,ʧiʃlɛ,351
+Uzbek,BITE,tiʃlɑ,351
+West_Yugur,BITE,teste,351
+West_Yugur,BITE,tiste,351
+West_Yugur,BITE,tɯste,351
+Azerbaijani,BITE,ɡɑp,352
+Chulym,BITE,qɑp,352
+Karachay-Balkar,BITE,qɑp,352
+Kazakh,BITE,qɑp,352
+Kumyk,BITE,χɑp,352
+Nogai,BITE,qɑp,352
+Chuvash,BITE,ɕɯrt,353
+Dolgan,BITE,ɯtɯr,354
+Khakas,BITE,ɯzɯr,354
+Shor,BITE,ɯzɯr,354
+Tofa,BITE,ɯˤsɯr,354
+Turkish,BITE,ɯsɯr,354
+Tuvan,BITE,ɯzɯr,354
+Yakut,BITE,ɯtɯr,354
+Gagauz,BITE,dɑlɑ,355
+Azerbaijani,FEATHER,tyc,356
+Chulym,FEATHER,tyk,356
+Chuvash,FEATHER,tɘ̆ʷk,356
+Dolgan,FEATHER,tyː,356
+Gagauz,FEATHER,tyj,356
+Karachay-Balkar,FEATHER,qɑnɑtlɯ tyk,356
+Karaim,FEATHER,tik,356
+Kumyk,FEATHER,tyk,356
+Northern_Altai,FEATHER,tyk,356
+Old_Turkic,FEATHER,tysi,356
+Tofa,FEATHER,tyk,356
+Turkish,FEATHER,tyj,356
+Yakut,FEATHER,tyː,356
+Azerbaijani,FEATHER,lælæc,357
+Salar,FEATHER,mimiluχ,357
+Turkmen,FEATHER,jelek,357
+Crimean_Tatar,FEATHER,qɑnɑt,358
+Karachay-Balkar,FEATHER,qɑnɑtlɯ tyk,358
+Southern_Altai,FEATHER,qɑnɑt,358
+Cuman,FEATHER,junɡ,359
+Khakas,FEATHER,ʧyɡ,360
+Shor,FEATHER,ʧyɡ,360
+Tuvan,FEATHER,ʧyɡ,360
+Azerbaijani,FLY (MOVE THROUGH AIR),uʧ,361
+Bashkir,FLY (MOVE THROUGH AIR),os,361
+Chulym,FLY (MOVE THROUGH AIR),uʧ,361
+Chuvash,FLY (MOVE THROUGH AIR),vɘ̆ʷɕ,361
+Crimean_Tatar,FLY (MOVE THROUGH AIR),uʧ,361
+Cuman,FLY (MOVE THROUGH AIR),uʧ,361
+Gagauz,FLY (MOVE THROUGH AIR),uʧ,361
+Kara-Kalpak,FLY (MOVE THROUGH AIR),uʃ,361
+Karachay-Balkar,FLY (MOVE THROUGH AIR),uʧ,361
+Karaim,FLY (MOVE THROUGH AIR),uʧ,361
+Karaim,FLY (MOVE THROUGH AIR),uʦ,361
+Kazakh,FLY (MOVE THROUGH AIR),ʊʃ,361
+Khakas,FLY (MOVE THROUGH AIR),uʧuχ,361
+Khalaj,FLY (MOVE THROUGH AIR),uʧ,361
+Kumyk,FLY (MOVE THROUGH AIR),uʧ,361
+Kyrgyz,FLY (MOVE THROUGH AIR),uʧ,361
+Nogai,FLY (MOVE THROUGH AIR),uʃ,361
+Northern_Altai,FLY (MOVE THROUGH AIR),uʧ,361
+Northern_Altai,FLY (MOVE THROUGH AIR),uʃ,361
+Old_Turkic,FLY (MOVE THROUGH AIR),uʧ,361
+Salar,FLY (MOVE THROUGH AIR),uʧ,361
+Salar,FLY (MOVE THROUGH AIR),uʃ,361
+Salar,FLY (MOVE THROUGH AIR),yʧ,361
+Shor,FLY (MOVE THROUGH AIR),uʧuq,361
+Siberian_Tatar,FLY (MOVE THROUGH AIR),oʧ,361
+Siberian_Tatar,FLY (MOVE THROUGH AIR),uʦ,361
+Southern_Altai,FLY (MOVE THROUGH AIR),uʧ,361
+Tatar,FLY (MOVE THROUGH AIR),oʧ,361
+Tofa,FLY (MOVE THROUGH AIR),uˤʃ,361
+Turkish,FLY (MOVE THROUGH AIR),uʧ,361
+Turkmen,FLY (MOVE THROUGH AIR),uʧ,361
+Tuvan,FLY (MOVE THROUGH AIR),uʃ,361
+Uyghur,FLY (MOVE THROUGH AIR),uʧ,361
+Uzbek,FLY (MOVE THROUGH AIR),uʧ,361
+West_Yugur,FLY (MOVE THROUGH AIR),uʃ,361
+West_Yugur,FLY (MOVE THROUGH AIR),uʧ,361
+West_Yugur,FLY (MOVE THROUGH AIR),yʧ,361
+Dolgan,FLY (MOVE THROUGH AIR),køt,362
+Yakut,FLY (MOVE THROUGH AIR),køt,362
+Azerbaijani,THOU,sæn,363
+Bashkir,THOU,hin,363
+Chulym,THOU,sɛn,363
+Crimean_Tatar,THOU,sen,363
+Cuman,THOU,sen,363
+Dolgan,THOU,en,363
+Gagauz,THOU,sɛn,363
+Kara-Kalpak,THOU,sen,363
+Karachay-Balkar,THOU,sen,363
+Karaim,THOU,sen,363
+Kazakh,THOU,sen,363
+Khakas,THOU,sin,363
+Khalaj,THOU,sɛn,363
+Kumyk,THOU,sen,363
+Kyrgyz,THOU,sen,363
+Northern_Altai,THOU,sen,363
+Old_Turkic,THOU,sen,363
+Salar,THOU,sen,363
+Shor,THOU,sen,363
+Siberian_Tatar,THOU,sin,363
+Southern_Altai,THOU,sen,363
+Tatar,THOU,sin,363
+Tofa,THOU,sen,363
+Turkish,THOU,sen,363
+Turkmen,THOU,θen,363
+Tuvan,THOU,sen,363
+Uyghur,THOU,sɛn,363
+West_Yugur,THOU,sen,363
+Yakut,THOU,en,363
+Chuvash,THOU,ezɘ,364
+Nogai,THOU,siz,364
+Uzbek,THOU,siz,364
+Azerbaijani,FULL,dolu,365
+Bashkir,FULL,tulɯ,365
+Chulym,FULL,toldərɑ,365
+Chuvash,FULL,tulli,365
+Crimean_Tatar,FULL,tolu,365
+Cuman,FULL,tolu,365
+Dolgan,FULL,toloru,365
+Gagauz,FULL,dolu,365
+Kara-Kalpak,FULL,tolɣɑn,365
+Kara-Kalpak,FULL,tolɯq,365
+Karachay-Balkar,FULL,tolu,365
+Karaim,FULL,tolu,365
+Kazakh,FULL,tolɯ,365
+Khakas,FULL,toldɯrɑ,365
+Khalaj,FULL,tuolɑ,365
+Kumyk,FULL,tolu,365
+Kyrgyz,FULL,tolturɑ,365
+Nogai,FULL,tolɯ,365
+Northern_Altai,FULL,toltɯrɑ,365
+Old_Turkic,FULL,tolu,365
+Salar,FULL,tolu,365
+Shor,FULL,toldurɑ,365
+Siberian_Tatar,FULL,tol,365
+Southern_Altai,FULL,tolo,365
+Tatar,FULL,tulɯ,365
+Tofa,FULL,dolu,365
+Turkish,FULL,doɫu,365
+Turkmen,FULL,dolɯ,365
+Tuvan,FULL,dolu,365
+Uyghur,FULL,toluq,365
+Uyghur,FULL,tolɑ,365
+Uzbek,FULL,tolɑ,365
+West_Yugur,FULL,tolo,365
+West_Yugur,FULL,tolu,365
+Yakut,FULL,toloru,365
+Azerbaijani,FLOWER,ʧiʧæc,366
+Bashkir,FLOWER,sɛskɛ,366
+Crimean_Tatar,FLOWER,ʧiʧek,366
+Cuman,FLOWER,ʧiʧek,366
+Gagauz,FLOWER,ʧiʧek,366
+Karaim,FLOWER,ʧeʧɛɡi,366
+Kumyk,FLOWER,ʧeʧek,366
+Nogai,FLOWER,ʃeʃekej,366
+Northern_Altai,FLOWER,ʧeʤek,366
+Old_Turkic,FLOWER,ʧeʧek,366
+Salar,FLOWER,ʧiʧeχ,366
+Siberian_Tatar,FLOWER,ʧiʧɛk,366
+Southern_Altai,FLOWER,ʧeʧek,366
+Tatar,FLOWER,ʧɛʧɛk,366
+Tatar,FLOWER,ʧɛʧkɛ,366
+Turkish,FLOWER,ʧiʧec,366
+Tuvan,FLOWER,ʧeʧek,366
+Uyghur,FLOWER,ʧeʧɛk,366
+West_Yugur,FLOWER,ʧyʧyɡ,366
+Dolgan,FLOWER,ot,367
+Khakas,FLOWER,ʧɑχɑjɑχ,368
+Shor,FLOWER,ʧɑqkijek,368
+Tofa,FLOWER,ɑqɑʃ,369
+Azerbaijani,MAN,ciʃi,370
+Bashkir,MAN,ir,370
+Dolgan,MAN,er kihi,370
+Karachay-Balkar,MAN,erkiʃi,370
+Karaim,MAN,kiʃi,370
+Karaim,MAN,kisi,370
+Karaim,MAN,er,370
+Khakas,MAN,ir kɘzɘ,370
+Kumyk,MAN,eren,370
+Kyrgyz,MAN,kiʃi,370
+Old_Turkic,MAN,kiʃi,370
+Salar,MAN,ɛr kiʃi,370
+Shor,MAN,er kiʒi,370
+Southern_Altai,MAN,erkiʒi,370
+Tatar,MAN,ir,370
+Tuvan,MAN,er kiʒi,370
+Uyghur,MAN,ɛr,370
+West_Yugur,MAN,eren,370
+West_Yugur,MAN,erkek kise,370
+Yakut,MAN,er kihi,370
+Bashkir,MAN,ir,371
+Chulym,MAN,ɛr,371
+Chuvash,MAN,ɑrʑɯn,371
+Cuman,MAN,er,371
+Dolgan,MAN,er kihi,371
+Kara-Kalpak,MAN,er,371
+Karachay-Balkar,MAN,erkiʃi,371
+Karaim,MAN,eren,371
+Karaim,MAN,er,371
+Kazakh,MAN,er,371
+Khakas,MAN,ir kɘzɘ,371
+Khalaj,MAN,hɛr,371
+Kumyk,MAN,er,371
+Kumyk,MAN,eren,371
+Nogai,MAN,er,371
+Northern_Altai,MAN,er,371
+Old_Turkic,MAN,er,371
+Salar,MAN,ɛr kiʃi,371
+Shor,MAN,er kiʒi,371
+Siberian_Tatar,MAN,er,371
+Siberian_Tatar,MAN,ɛr,371
+Southern_Altai,MAN,erkiʒi,371
+Tatar,MAN,ir,371
+Tofa,MAN,er,371
+Tuvan,MAN,er kiʒi,371
+Uyghur,MAN,ɛr,371
+West_Yugur,MAN,eren,371
+West_Yugur,MAN,er,371
+Yakut,MAN,er kihi,371
+Chuvash,MAN,ɑrʑɯn,372
+Old_Turkic,MAN,jɑlŋuq,372
+Crimean_Tatar,MAN,erkek,373
+Kara-Kalpak,MAN,erkek,373
+Karaim,MAN,erkek,373
+Kazakh,MAN,erkek,373
+Kumyk,MAN,erkek,373
+Kyrgyz,MAN,erkek,373
+Nogai,MAN,erkek,373
+Turkish,MAN,ercec,373
+Turkmen,MAN,erkek,373
+Uyghur,MAN,ɛrkɛk,373
+Uzbek,MAN,erkɑk,373
+West_Yugur,MAN,erkek kise,373
+Azerbaijani,LOUSE,bit,374
+Bashkir,LOUSE,bet,374
+Chulym,LOUSE,pɘt,374
+Chulym,LOUSE,pit,374
+Chuvash,LOUSE,pɯjdɤ̆ʷ,374
+Crimean_Tatar,LOUSE,bit,374
+Cuman,LOUSE,bit,374
+Kara-Kalpak,LOUSE,bijt,374
+Karachay-Balkar,LOUSE,bit,374
+Karaim,LOUSE,bit,374
+Kazakh,LOUSE,bit,374
+Khakas,LOUSE,pɘt,374
+Khalaj,LOUSE,bit,374
+Kumyk,LOUSE,bit,374
+Kyrgyz,LOUSE,bit,374
+Nogai,LOUSE,bijt,374
+Northern_Altai,LOUSE,pijt,374
+Northern_Altai,LOUSE,pit,374
+Old_Turkic,LOUSE,bit,374
+Salar,LOUSE,piʧt,374
+Shor,LOUSE,pit,374
+Southern_Altai,LOUSE,bit,374
+Tatar,LOUSE,bet,374
+Tofa,LOUSE,bɯˤt,374
+Turkish,LOUSE,bit,374
+Turkmen,LOUSE,bit,374
+Tuvan,LOUSE,bɯt,374
+Uyghur,LOUSE,pit,374
+Uzbek,LOUSE,bit,374
+West_Yugur,LOUSE,pɯʃt,374
+West_Yugur,LOUSE,pɯʃ,374
+West_Yugur,LOUSE,pɯt,374
+Yakut,LOUSE,bɯt,374
+Azerbaijani,NAME,ɑd,375
+Chulym,NAME,ɑt,375
+Chuvash,NAME,jɑt,375
+Crimean_Tatar,NAME,ɑd,375
+Cuman,NAME,ɑt,375
+Dolgan,NAME,ɑːt,375
+Gagauz,NAME,ɑd,375
+Kara-Kalpak,NAME,ɑt,375
+Karachay-Balkar,NAME,ɑt,375
+Karaim,NAME,ɑd,375
+Karaim,NAME,ɑt,375
+Kazakh,NAME,ɑt,375
+Khakas,NAME,ɑt,375
+Khalaj,NAME,ɑːt,375
+Kumyk,NAME,ɑt,375
+Kyrgyz,NAME,ɑt,375
+Nogai,NAME,ɑt,375
+Northern_Altai,NAME,ɑt,375
+Old_Turkic,NAME,ɑt,375
+Salar,NAME,ɑt,375
+Shor,NAME,ɑt,375
+Siberian_Tatar,NAME,ɑt,375
+Southern_Altai,NAME,ɑt,375
+Tatar,NAME,ɑt,375
+Tofa,NAME,ɑt,375
+Turkish,NAME,ɑd,375
+Turkmen,NAME,ɑt,375
+Tuvan,NAME,ɑt,375
+Uyghur,NAME,ɑt,375
+Uzbek,NAME,ɔt,375
+West_Yugur,NAME,ɑt,375
+Yakut,NAME,ɑːt,375
+Azerbaijani,WHO,cim,376
+Bashkir,WHO,kem,376
+Chulym,WHO,kɘm,376
+Chuvash,WHO,kɑm,376
+Crimean_Tatar,WHO,kim,376
+Cuman,WHO,kym,376
+Cuman,WHO,kim,376
+Dolgan,WHO,kim,376
+Gagauz,WHO,kim,376
+Kara-Kalpak,WHO,kim,376
+Karachay-Balkar,WHO,kim,376
+Karaim,WHO,kim,376
+Kazakh,WHO,kɘm,376
+Khakas,WHO,kem,376
+Khalaj,WHO,kim,376
+Kumyk,WHO,kim,376
+Kyrgyz,WHO,kim,376
+Nogai,WHO,kim,376
+Northern_Altai,WHO,kem,376
+Old_Turkic,WHO,kem,376
+Salar,WHO,kem,376
+Shor,WHO,kem,376
+Siberian_Tatar,WHO,kim,376
+Southern_Altai,WHO,kem,376
+Tatar,WHO,kem,376
+Tofa,WHO,qum,376
+Turkish,WHO,cim,376
+Turkmen,WHO,kim,376
+Tuvan,WHO,qɯm,376
+Uyghur,WHO,kim,376
+Uzbek,WHO,kim,376
+West_Yugur,WHO,kim,376
+Yakut,WHO,kim,376
+Azerbaijani,WHERE,hɑrɑdɑ,377
+Bashkir,WHERE,qɑjðɑ,378
+Chulym,WHERE,qɑjdɑ,378
+Chuvash,WHERE,ɤ̆ʷɕtɑ,378
+Crimean_Tatar,WHERE,qɑjdɑ,378
+Cuman,WHERE,kɑjdɑ,378
+Cuman,WHERE,kɑni,378
+Dolgan,WHERE,kɑnnɑ,378
+Kara-Kalpak,WHERE,qɑjdɑ,378
+Karachay-Balkar,WHERE,qɑjdɑ,378
+Karachay-Balkar,WHERE,qɑlɑjdɑ,378
+Karaim,WHERE,kɑjdɑ,378
+Kazakh,WHERE,qɑjdɑ,378
+Khakas,WHERE,χɑjdɑ,378
+Khalaj,WHERE,qɑː,378
+Kumyk,WHERE,qɑjdɑ,378
+Kyrgyz,WHERE,qɑjdɑ,378
+Nogai,WHERE,qɑjdɑ,378
+Northern_Altai,WHERE,qɑjt,378
+Northern_Altai,WHERE,qɑjdɑ,378
+Old_Turkic,WHERE,qɑjudɑ,378
+Old_Turkic,WHERE,qɑndɑ,378
+Salar,WHERE,qɑjdɑ,378
+Salar,WHERE,qɑjtɑ,378
+Shor,WHERE,qɑjdɑ,378
+Siberian_Tatar,WHERE,qɑjdɑ,378
+Southern_Altai,WHERE,qɑjdɑ,378
+Tatar,WHERE,qɑjdɑ,378
+Tofa,WHERE,qɑjdɑ,378
+Tuvan,WHERE,qɑjdɑ,378
+Tuvan,WHERE,qɑjɑː,378
+Uyghur,WHERE,qeni,378
+Uzbek,WHERE,qɑjerdɑ,378
+West_Yugur,WHERE,qɑjtɑ,378
+West_Yugur,WHERE,qɑn,378
+Yakut,WHERE,χɑnnɑ,378
+Crimean_Tatar,WHERE,ne jerde,379
+Kara-Kalpak,WHERE,qɑj ʒerde,379
+Kumyk,WHERE,ne jerde,379
+Nogai,WHERE,qɑjerde,379
+Uyghur,WHERE,qɑjsi jerde,379
+Uyghur,WHERE,qɛjɛrdɛ,379
+Uzbek,WHERE,qɑjerdɑ,379
+Crimean_Tatar,WHERE,ne jerde,380
+Gagauz,WHERE,neredi,380
+Khalaj,WHERE,nieːdɛ,380
+Kumyk,WHERE,ne jerde,380
+Turkish,WHERE,nerede,380
+Turkmen,WHERE,nirede,380
+Azerbaijani,SUN,ɟynæʃ,381
+Azerbaijani,SUN,ɟyn,381
+Chulym,SUN,kunʲɣɑrɑːɣə,381
+Cuman,SUN,kun,381
+Dolgan,SUN,kyn,381
+Gagauz,SUN,ɡyn,381
+Kara-Kalpak,SUN,kyn,381
+Karachay-Balkar,SUN,kyn,381
+Kazakh,SUN,kyn,381
+Khakas,SUN,kyn,381
+Khalaj,SUN,kyn,381
+Khalaj,SUN,kin,381
+Kumyk,SUN,ɡyn,381
+Kyrgyz,SUN,kyn,381
+Nogai,SUN,kyn,381
+Northern_Altai,SUN,kyn,381
+Old_Turkic,SUN,kyn,381
+Salar,SUN,kun,381
+Shor,SUN,kyn,381
+Southern_Altai,SUN,kyn,381
+Tofa,SUN,hyn,381
+Turkmen,SUN,ɡyn,381
+Tuvan,SUN,χyn,381
+Uyghur,SUN,kyn,381
+West_Yugur,SUN,kyn,381
+Yakut,SUN,kyn,381
+Azerbaijani,SUN,ɟynæʃ,382
+Azerbaijani,SUN,ɟyn,382
+Bashkir,SUN,qojɑʃ,382
+Chuvash,SUN,χɘ̆ʷvel,382
+Crimean_Tatar,SUN,kyneʃ,382
+Gagauz,SUN,ɡyneʃ,382
+Karaim,SUN,kujɑʃ,382
+Kumyk,SUN,ɡyn,382
+Siberian_Tatar,SUN,qojɑʃ,382
+Tatar,SUN,qojɑʃ,382
+Turkish,SUN,ɟyneʃ,382
+Uzbek,SUN,qujɔʃ,382
+Chulym,SUN,kunʲɣɑrɑːɣə,383

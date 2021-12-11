@@ -1,0 +1,137 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((((((((((0:0.028386311204636163,4:0.028386311204636163)27:0.04310859780770447,17:0.07149490901234064)26:0.007980719595549302,15:0.07947562860788994)22:0.011412325893035119,2:0.09088795450092506)21:0.007753570200274257,((6:0.05315701762021235,13:0.05315701762021235)23:0.013827221660151469,7:0.06698423928036382)35:0.0316572854208355)24:0.0073147005749853306,12:0.10595622527618465)19:0.012316013001974616,((1:0.09815408110766168,9:0.09815408110766168)29:0.0032816848756263423,11:0.10143576598328802)25:0.016836472294871244)34:0.061195973735713574,(5:0.15976610867493238,8:0.15976610867493238)30:0.019702103338940458)32:0.04577195453597058,((3:0.14009426013271206,18:0.14009426013271206)20:0.08095832628929742,(14:0.1720292109476427,16:0.1720292109476427)33:0.049023375474366776)28:0.004187580127833934)31:0.11718677224069424,10:0.34242693879053765)36:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 5.162941907971329 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[36 1] (0,35): 0 14 31 34 34 12 25 1 22 32 2 18 3 25 11 9 25 24 16 12 33 28 14 23 19 4 27 18 23 28 7 25 23 16 11 13 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.8311014413637929 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:ALL'>featureClockRate:Sinitic_gold_common-concepts:ALL[1 1] (0.0,Infinity): 0.08799437875782878 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:ASH'>featureClockRate:Sinitic_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.019424404871330236 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:BACK'>featureClockRate:Sinitic_gold_common-concepts:BACK[1 1] (0.0,Infinity): 0.40294172256352095 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:BELLY'>featureClockRate:Sinitic_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 0.47178585362087383 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:BIRD'>featureClockRate:Sinitic_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.5955031268639548 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:BITE'>featureClockRate:Sinitic_gold_common-concepts:BITE[1 1] (0.0,Infinity): 0.2863423249968452 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:BLACK'>featureClockRate:Sinitic_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.47316635559857545 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:BONE'>featureClockRate:Sinitic_gold_common-concepts:BONE[1 1] (0.0,Infinity): 0.8117717433810184 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:BREAST'>featureClockRate:Sinitic_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 2.7020824582860974 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:CLAW'>featureClockRate:Sinitic_gold_common-concepts:CLAW[1 1] (0.0,Infinity): 1.4561172400172122 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:CLOUD'>featureClockRate:Sinitic_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.0986403742374935 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:COLD'>featureClockRate:Sinitic_gold_common-concepts:COLD[1 1] (0.0,Infinity): 0.14072467344287232 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:COUNT'>featureClockRate:Sinitic_gold_common-concepts:COUNT[1 1] (0.0,Infinity): 0.135999725990036 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:DIE'>featureClockRate:Sinitic_gold_common-concepts:DIE[1 1] (0.0,Infinity): 0.06556450012561488 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:DIRTY'>featureClockRate:Sinitic_gold_common-concepts:DIRTY[1 1] (0.0,Infinity): 1.118439962857545 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:DOG'>featureClockRate:Sinitic_gold_common-concepts:DOG[1 1] (0.0,Infinity): 0.13359542745687886 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:DRINK'>featureClockRate:Sinitic_gold_common-concepts:DRINK[1 1] (0.0,Infinity): 0.966246210174873 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:DRY'>featureClockRate:Sinitic_gold_common-concepts:DRY[1 1] (0.0,Infinity): 0.24638207025961945 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:EAR'>featureClockRate:Sinitic_gold_common-concepts:EAR[1 1] (0.0,Infinity): 0.630176189289994 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Sinitic_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 0.24462589476366184 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:EAT'>featureClockRate:Sinitic_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.7860327558982609 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:EGG'>featureClockRate:Sinitic_gold_common-concepts:EGG[1 1] (0.0,Infinity): 0.2027440567418007 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:EYE'>featureClockRate:Sinitic_gold_common-concepts:EYE[1 1] (0.0,Infinity): 0.975013270469435 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:FALL'>featureClockRate:Sinitic_gold_common-concepts:FALL[1 1] (0.0,Infinity): 0.9328897420063711 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)'>featureClockRate:Sinitic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)[1 1] (0.0,Infinity): 0.8489436557207475 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:FEATHER'>featureClockRate:Sinitic_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 0.10663826498949164 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:FISH'>featureClockRate:Sinitic_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.22781526761146156 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:FLESH'>featureClockRate:Sinitic_gold_common-concepts:FLESH[1 1] (0.0,Infinity): 0.11471225887542469 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:FLOWER'>featureClockRate:Sinitic_gold_common-concepts:FLOWER[1 1] (0.0,Infinity): 0.3232104101363872 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:FOOT'>featureClockRate:Sinitic_gold_common-concepts:FOOT[1 1] (0.0,Infinity): 0.809164488984199 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:FULL'>featureClockRate:Sinitic_gold_common-concepts:FULL[1 1] (0.0,Infinity): 0.3810550997107603 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:GIVE'>featureClockRate:Sinitic_gold_common-concepts:GIVE[1 1] (0.0,Infinity): 0.9132118349238426 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:GOOD'>featureClockRate:Sinitic_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 0.24793705647463285 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:HAIR_(HEAD)'>featureClockRate:Sinitic_gold_common-concepts:HAIR_(HEAD)[1 1] (0.0,Infinity): 0.20902893767982317 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:HAND'>featureClockRate:Sinitic_gold_common-concepts:HAND[1 1] (0.0,Infinity): 0.08011836851350201 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:HEAD'>featureClockRate:Sinitic_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 0.6532620508915825 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:HEAR'>featureClockRate:Sinitic_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 0.36787061151237355 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:HEART'>featureClockRate:Sinitic_gold_common-concepts:HEART[1 1] (0.0,Infinity): 0.06845947735981044 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:HOLD_OR_TAKE'>featureClockRate:Sinitic_gold_common-concepts:HOLD_OR_TAKE[1 1] (0.0,Infinity): 0.9789861076902631 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:HORN_(ANATOMY)'>featureClockRate:Sinitic_gold_common-concepts:HORN_(ANATOMY)[1 1] (0.0,Infinity): 0.5097790718754677 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:I'>featureClockRate:Sinitic_gold_common-concepts:I[1 1] (0.0,Infinity): 0.14325647992022433 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:KILL'>featureClockRate:Sinitic_gold_common-concepts:KILL[1 1] (0.0,Infinity): 0.2517902708035238 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:KNEE'>featureClockRate:Sinitic_gold_common-concepts:KNEE[1 1] (0.0,Infinity): 2.0824152766013 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Sinitic_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 0.747832250822078 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:LAUGH'>featureClockRate:Sinitic_gold_common-concepts:LAUGH[1 1] (0.0,Infinity): 0.0988008047690522 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:LEAF'>featureClockRate:Sinitic_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 1.601455951572808 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:LEG'>featureClockRate:Sinitic_gold_common-concepts:LEG[1 1] (0.0,Infinity): 1.1548093823663934 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:LIE_(REST)'>featureClockRate:Sinitic_gold_common-concepts:LIE_(REST)[1 1] (0.0,Infinity): 0.898781629026161 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:LIVER'>featureClockRate:Sinitic_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 0.32219305307820856 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:LOUSE'>featureClockRate:Sinitic_gold_common-concepts:LOUSE[1 1] (0.0,Infinity): 1.8060730723511513 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:MAN'>featureClockRate:Sinitic_gold_common-concepts:MAN[1 1] (0.0,Infinity): 0.8115483716272172 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:MOON'>featureClockRate:Sinitic_gold_common-concepts:MOON[1 1] (0.0,Infinity): 1.3188040467282727 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:MOUTH'>featureClockRate:Sinitic_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 0.26122092118661816 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:NEAR'>featureClockRate:Sinitic_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 0.06501396287375105 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:NECK'>featureClockRate:Sinitic_gold_common-concepts:NECK[1 1] (0.0,Infinity): 0.8370233800579853 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:NIGHT'>featureClockRate:Sinitic_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 1.249891605160566 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:NOSE'>featureClockRate:Sinitic_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 0.5315402169867659 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:NOT'>featureClockRate:Sinitic_gold_common-concepts:NOT[1 1] (0.0,Infinity): 1.693402968502831 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:ONE'>featureClockRate:Sinitic_gold_common-concepts:ONE[1 1] (0.0,Infinity): 0.033690080640217814 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:PATH'>featureClockRate:Sinitic_gold_common-concepts:PATH[1 1] (0.0,Infinity): 0.38354151094693206 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:ROOT'>featureClockRate:Sinitic_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 0.20958397375403606 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:ROPE'>featureClockRate:Sinitic_gold_common-concepts:ROPE[1 1] (0.0,Infinity): 0.9702615478202911 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:ROUND'>featureClockRate:Sinitic_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 0.19077505800044908 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SALT'>featureClockRate:Sinitic_gold_common-concepts:SALT[1 1] (0.0,Infinity): 0.13388919418992884 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SAND'>featureClockRate:Sinitic_gold_common-concepts:SAND[1 1] (0.0,Infinity): 0.4951528273043361 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SAY'>featureClockRate:Sinitic_gold_common-concepts:SAY[1 1] (0.0,Infinity): 0.5705664190532946 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SEE'>featureClockRate:Sinitic_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.4522193470733916 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SEED'>featureClockRate:Sinitic_gold_common-concepts:SEED[1 1] (0.0,Infinity): 0.698699909047544 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SEW'>featureClockRate:Sinitic_gold_common-concepts:SEW[1 1] (0.0,Infinity): 0.6552333103213515 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SIT'>featureClockRate:Sinitic_gold_common-concepts:SIT[1 1] (0.0,Infinity): 0.5557238675743001 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SKIN'>featureClockRate:Sinitic_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 2.8374627448821137 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SKY'>featureClockRate:Sinitic_gold_common-concepts:SKY[1 1] (0.0,Infinity): 2.8538964765554216 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SLEEP'>featureClockRate:Sinitic_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 0.8027428432675312 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SMALL'>featureClockRate:Sinitic_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 0.9667479404090609 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SMOKE_(EXHAUST)'>featureClockRate:Sinitic_gold_common-concepts:SMOKE_(EXHAUST)[1 1] (0.0,Infinity): 0.2692611803120869 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SNAKE'>featureClockRate:Sinitic_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 0.6116704997071614 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:STAND'>featureClockRate:Sinitic_gold_common-concepts:STAND[1 1] (0.0,Infinity): 0.6753549597254158 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:STAR'>featureClockRate:Sinitic_gold_common-concepts:STAR[1 1] (0.0,Infinity): 0.4883592401659101 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:STONE'>featureClockRate:Sinitic_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.14738171513374526 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SUCK'>featureClockRate:Sinitic_gold_common-concepts:SUCK[1 1] (0.0,Infinity): 2.40493198754605 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SUN'>featureClockRate:Sinitic_gold_common-concepts:SUN[1 1] (0.0,Infinity): 0.958118874586013 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:SWIM'>featureClockRate:Sinitic_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 1.1473821994926716 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:TAIL'>featureClockRate:Sinitic_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 0.5646545986745675 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:THAT'>featureClockRate:Sinitic_gold_common-concepts:THAT[1 1] (0.0,Infinity): 0.8857253109026425 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:THEY'>featureClockRate:Sinitic_gold_common-concepts:THEY[1 1] (0.0,Infinity): 0.6039792157693289 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:THICK'>featureClockRate:Sinitic_gold_common-concepts:THICK[1 1] (0.0,Infinity): 0.5127129313460449 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:THIS'>featureClockRate:Sinitic_gold_common-concepts:THIS[1 1] (0.0,Infinity): 0.9346940271613842 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:THOU'>featureClockRate:Sinitic_gold_common-concepts:THOU[1 1] (0.0,Infinity): 0.5713047204481163 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:THROW'>featureClockRate:Sinitic_gold_common-concepts:THROW[1 1] (0.0,Infinity): 4.609432148851522 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:TONGUE'>featureClockRate:Sinitic_gold_common-concepts:TONGUE[1 1] (0.0,Infinity): 1.1821687980712725 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:TOOTH'>featureClockRate:Sinitic_gold_common-concepts:TOOTH[1 1] (0.0,Infinity): 0.2452373721329288 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:TREE'>featureClockRate:Sinitic_gold_common-concepts:TREE[1 1] (0.0,Infinity): 0.03417459926230315 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:TWO'>featureClockRate:Sinitic_gold_common-concepts:TWO[1 1] (0.0,Infinity): 0.08730654339208976 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:VOMIT'>featureClockRate:Sinitic_gold_common-concepts:VOMIT[1 1] (0.0,Infinity): 1.02779217509427 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WALK'>featureClockRate:Sinitic_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.934413135163439 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WE'>featureClockRate:Sinitic_gold_common-concepts:WE[1 1] (0.0,Infinity): 0.9321702833555683 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WET'>featureClockRate:Sinitic_gold_common-concepts:WET[1 1] (0.0,Infinity): 0.6478664684606601 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WHAT'>featureClockRate:Sinitic_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 1.2876079061404706 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WHERE'>featureClockRate:Sinitic_gold_common-concepts:WHERE[1 1] (0.0,Infinity): 1.8460927212344436 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WHO'>featureClockRate:Sinitic_gold_common-concepts:WHO[1 1] (0.0,Infinity): 1.0509814317048527 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WIDE'>featureClockRate:Sinitic_gold_common-concepts:WIDE[1 1] (0.0,Infinity): 0.16089358674426787 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WING'>featureClockRate:Sinitic_gold_common-concepts:WING[1 1] (0.0,Infinity): 1.9942121589928843 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WOMAN'>featureClockRate:Sinitic_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 1.20398761070056 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:WORM'>featureClockRate:Sinitic_gold_common-concepts:WORM[1 1] (0.0,Infinity): 0.19463485752089135 </statenode>
+<statenode id='featureClockRate:Sinitic_gold_common-concepts:YEAR'>featureClockRate:Sinitic_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 0.6560836254732982 </statenode>
+<statenode id='featureClockRateGammaShape:Sinitic_gold_common-concepts'>featureClockRateGammaShape:Sinitic_gold_common-concepts[1 1] (1.1,100.0): 1.3203123646582124 </statenode>
+<statenode id='featureClockRateGammaScale:Sinitic_gold_common-concepts'>featureClockRateGammaScale:Sinitic_gold_common-concepts[1 1] (-Infinity,Infinity): 0.7573965273428823 </statenode>
+<statenode id='covarion_alpha.s:Sinitic_gold_common-concepts'>covarion_alpha.s:Sinitic_gold_common-concepts[1 1] (1.0E-4,1.0): 0.16940643263862964 </statenode>
+<statenode id='covarion_s.s:Sinitic_gold_common-concepts'>covarion_s.s:Sinitic_gold_common-concepts[1 1] (1.0E-4,Infinity): 2.4779524419027013 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.3631407992756351,"accept":9038,"reject":249164,"acceptFC":8989,"rejectFC":245006,"rejectIv":108115,"rejectOp":108115},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":62380,"reject":194955,"acceptFC":61305,"rejectFC":191784,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":675,"reject":50785,"acceptFC":662,"rejectFC":49914,"rejectIv":26565,"rejectOp":26565},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":715,"reject":51253,"acceptFC":699,"rejectFC":50404,"rejectIv":9872,"rejectOp":9872},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":205459,"reject":311005,"acceptFC":202283,"rejectFC":305624,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.6458781484658852,"accept":8776,"reject":42760,"acceptFC":8690,"rejectFC":42018,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.5369615204920589,"accept":7375,"reject":43997,"acceptFC":7280,"rejectFC":43215,"rejectIv":11999,"rejectOp":11999},
+{"id":"UpDown","p":0.675664296797037,"accept":10504,"reject":40957,"acceptFC":10406,"rejectFC":40169,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.3116062547348037,"accept":13619,"reject":37779,"acceptFC":13236,"rejectFC":37266,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":95035,"reject":76831,"acceptFC":93635,"rejectFC":75496,"rejectIv":60349,"rejectOp":60349},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":39419,"reject":132539,"acceptFC":38922,"rejectFC":130184,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":62571,"reject":109785,"acceptFC":61733,"rejectFC":107754,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.6884468552346429,"accept":10879,"reject":40538,"acceptFC":10805,"rejectFC":39786,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Sinitic_gold_common-concepts","p":0.42379216753048193,"accept":905,"reject":4303,"acceptFC":875,"rejectFC":4239,"rejectIv":1000,"rejectOp":1000},
+{"id":"covarion_alpha_scaler.s:Sinitic_gold_common-concepts","p":0.14549312314346846,"accept":3742,"reject":13620,"acceptFC":3652,"rejectFC":13443,"rejectIv":6628,"rejectOp":6628},
+{"id":"Sinitic_gold_common-concepts:covarion_s_scaler.s","p":0.2806418774113043,"accept":6653,"reject":10576,"acceptFC":6497,"rejectFC":10450,"rejectIv":3,"rejectOp":3},
+{"id":"featureClockRateDeltaExchanger:default","p":1.640975086087447,"accept":9060,"reject":42349,"acceptFC":8859,"rejectFC":41712,"rejectIv":26174,"rejectOp":26174}
+]}
+-->

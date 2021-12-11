@@ -1,0 +1,124 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((((((0:0.031016172161958365,12:0.031016172161958365)23:0.032018913714377824,9:0.06303508587633619)24:0.08230245011014564,((3:0.0389702245445466,10:0.0389702245445466)16:0.07597319504068593,8:0.11494341958523253)21:0.030394116401249296)19:0.05220080241039843,(((2:0.0610483650627924,(4:0.057968174020307316,(13:0.0520743635642197,14:0.0520743635642197)28:0.005893810456087618)27:0.003080191042485081)17:0.03220724659859118,15:0.09325561166138358)22:0.015289107717394987,11:0.10854471937877856)26:0.0889936190181017)18:0.017372479816902237,(1:0.13175955820231874,7:0.13175955820231874)29:0.08315126001146375)20:0.5251396606848016,(5:0.15375549470592903,6:0.15375549470592903)25:0.586294984192655)30:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 3.756214466595797 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[30 1] (0,29): 16 8 4 7 24 29 18 14 17 15 12 13 24 2 15 10 17 15 17 8 25 2 25 24 10 27 1 16 14 7 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.5459563362201033 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:ASH'>featureClockRate:Balto-Slavic_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.25978196343269877 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BACK'>featureClockRate:Balto-Slavic_gold_common-concepts:BACK[1 1] (0.0,Infinity): 0.8673346110003699 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BARK'>featureClockRate:Balto-Slavic_gold_common-concepts:BARK[1 1] (0.0,Infinity): 0.49660891699483023 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BELLY'>featureClockRate:Balto-Slavic_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 1.2125194141046345 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BIG'>featureClockRate:Balto-Slavic_gold_common-concepts:BIG[1 1] (0.0,Infinity): 0.8699474694805768 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BIRD'>featureClockRate:Balto-Slavic_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.4457727663610563 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BITE'>featureClockRate:Balto-Slavic_gold_common-concepts:BITE[1 1] (0.0,Infinity): 0.38944500814488825 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BLACK'>featureClockRate:Balto-Slavic_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.21114059487477488 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BLOOD'>featureClockRate:Balto-Slavic_gold_common-concepts:BLOOD[1 1] (0.0,Infinity): 0.11379168211293156 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BONE'>featureClockRate:Balto-Slavic_gold_common-concepts:BONE[1 1] (0.0,Infinity): 0.3321310544906329 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BREAST'>featureClockRate:Balto-Slavic_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 1.8859341544190444 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:BURN'>featureClockRate:Balto-Slavic_gold_common-concepts:BURN[1 1] (0.0,Infinity): 1.7121972404944863 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:CLOUD'>featureClockRate:Balto-Slavic_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.6062305558984173 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:COLD'>featureClockRate:Balto-Slavic_gold_common-concepts:COLD[1 1] (0.0,Infinity): 1.0611065194577207 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:COME'>featureClockRate:Balto-Slavic_gold_common-concepts:COME[1 1] (0.0,Infinity): 0.387536808158645 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:COUNT'>featureClockRate:Balto-Slavic_gold_common-concepts:COUNT[1 1] (0.0,Infinity): 1.1110283336415177 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:DIRTY'>featureClockRate:Balto-Slavic_gold_common-concepts:DIRTY[1 1] (0.0,Infinity): 2.123513189381612 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:DOG'>featureClockRate:Balto-Slavic_gold_common-concepts:DOG[1 1] (0.0,Infinity): 1.3541857841997123 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:DRINK'>featureClockRate:Balto-Slavic_gold_common-concepts:DRINK[1 1] (0.0,Infinity): 1.1082420081801634 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:EAT'>featureClockRate:Balto-Slavic_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.3082747776996908 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:EGG'>featureClockRate:Balto-Slavic_gold_common-concepts:EGG[1 1] (0.0,Infinity): 0.23657446717431416 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:EYE'>featureClockRate:Balto-Slavic_gold_common-concepts:EYE[1 1] (0.0,Infinity): 0.48183232673525345 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:FAR'>featureClockRate:Balto-Slavic_gold_common-concepts:FAR[1 1] (0.0,Infinity): 0.6888695825205556 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:FEATHER'>featureClockRate:Balto-Slavic_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 0.4289490322957724 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:FIRE'>featureClockRate:Balto-Slavic_gold_common-concepts:FIRE[1 1] (0.0,Infinity): 0.51366639387162 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:FISH'>featureClockRate:Balto-Slavic_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.308509219788944 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:FLY'>featureClockRate:Balto-Slavic_gold_common-concepts:FLY[1 1] (0.0,Infinity): 0.6731738557366359 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:FOOT'>featureClockRate:Balto-Slavic_gold_common-concepts:FOOT[1 1] (0.0,Infinity): 0.7315418131977942 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:GOOD'>featureClockRate:Balto-Slavic_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 1.8561527779593878 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:HAIR'>featureClockRate:Balto-Slavic_gold_common-concepts:HAIR[1 1] (0.0,Infinity): 0.9584847372887568 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:HEAR'>featureClockRate:Balto-Slavic_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 1.2021331679333058 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:HEAVY'>featureClockRate:Balto-Slavic_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 0.6904795290529928 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:HOLD'>featureClockRate:Balto-Slavic_gold_common-concepts:HOLD[1 1] (0.0,Infinity): 1.2338292884005013 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:I'>featureClockRate:Balto-Slavic_gold_common-concepts:I[1 1] (0.0,Infinity): 0.5383213027292316 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:KILL'>featureClockRate:Balto-Slavic_gold_common-concepts:KILL[1 1] (0.0,Infinity): 0.44976186215567737 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:KNOW'>featureClockRate:Balto-Slavic_gold_common-concepts:KNOW[1 1] (0.0,Infinity): 0.7514942645026551 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:LEAF'>featureClockRate:Balto-Slavic_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 0.7058648671791148 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:LEG'>featureClockRate:Balto-Slavic_gold_common-concepts:LEG[1 1] (0.0,Infinity): 1.0873414484021784 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:LIE'>featureClockRate:Balto-Slavic_gold_common-concepts:LIE[1 1] (0.0,Infinity): 0.6246943167241625 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:LIVER'>featureClockRate:Balto-Slavic_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 1.1618028817430845 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:LONG'>featureClockRate:Balto-Slavic_gold_common-concepts:LONG[1 1] (0.0,Infinity): 0.6141205766553115 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:LOUSE'>featureClockRate:Balto-Slavic_gold_common-concepts:LOUSE[1 1] (0.0,Infinity): 0.30568302614512205 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:MAN'>featureClockRate:Balto-Slavic_gold_common-concepts:MAN[1 1] (0.0,Infinity): 0.45080818273009693 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:MANY'>featureClockRate:Balto-Slavic_gold_common-concepts:MANY[1 1] (0.0,Infinity): 0.775390704471712 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:MEAT'>featureClockRate:Balto-Slavic_gold_common-concepts:MEAT[1 1] (0.0,Infinity): 0.8115705849027596 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:MOON'>featureClockRate:Balto-Slavic_gold_common-concepts:MOON[1 1] (0.0,Infinity): 1.112226907456006 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:MOUNTAIN'>featureClockRate:Balto-Slavic_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 1.5482311259544124 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:MOUTH'>featureClockRate:Balto-Slavic_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 0.5644939753785901 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:NAME'>featureClockRate:Balto-Slavic_gold_common-concepts:NAME[1 1] (0.0,Infinity): 0.09838765625048596 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:NEAR'>featureClockRate:Balto-Slavic_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 0.6789493064381171 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:NECK'>featureClockRate:Balto-Slavic_gold_common-concepts:NECK[1 1] (0.0,Infinity): 0.433638538223579 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:NEW'>featureClockRate:Balto-Slavic_gold_common-concepts:NEW[1 1] (0.0,Infinity): 0.2556473900408418 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:NOSE'>featureClockRate:Balto-Slavic_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 0.25131422946316173 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:PATH_OR_ROAD'>featureClockRate:Balto-Slavic_gold_common-concepts:PATH_OR_ROAD[1 1] (0.0,Infinity): 1.5482128725068236 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:PERSON'>featureClockRate:Balto-Slavic_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 1.2884100029653311 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:RAIN'>featureClockRate:Balto-Slavic_gold_common-concepts:RAIN[1 1] (0.0,Infinity): 1.4787180378786522 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:RED'>featureClockRate:Balto-Slavic_gold_common-concepts:RED[1 1] (0.0,Infinity): 1.1976557968041313 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:ROOT'>featureClockRate:Balto-Slavic_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 0.07337519022395944 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:ROUND'>featureClockRate:Balto-Slavic_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 2.0652266290233836 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SALT'>featureClockRate:Balto-Slavic_gold_common-concepts:SALT[1 1] (0.0,Infinity): 0.29499326746206606 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SAND'>featureClockRate:Balto-Slavic_gold_common-concepts:SAND[1 1] (0.0,Infinity): 1.1607485363460992 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SAY'>featureClockRate:Balto-Slavic_gold_common-concepts:SAY[1 1] (0.0,Infinity): 0.8544945739873897 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SEE'>featureClockRate:Balto-Slavic_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.9105282495177462 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SHORT'>featureClockRate:Balto-Slavic_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 0.49202818450246233 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SKIN'>featureClockRate:Balto-Slavic_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 0.17036582374234138 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SLEEP'>featureClockRate:Balto-Slavic_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 0.2500776774628111 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SMALL'>featureClockRate:Balto-Slavic_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 0.12138301250533831 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SMOKE'>featureClockRate:Balto-Slavic_gold_common-concepts:SMOKE[1 1] (0.0,Infinity): 1.7622647675866383 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SNAKE'>featureClockRate:Balto-Slavic_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 2.183118532173076 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:STAR'>featureClockRate:Balto-Slavic_gold_common-concepts:STAR[1 1] (0.0,Infinity): 0.7429576030663243 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:STONE'>featureClockRate:Balto-Slavic_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.19179857462496214 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:SWIM'>featureClockRate:Balto-Slavic_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 0.6354107655191924 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:TAIL'>featureClockRate:Balto-Slavic_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 0.995571902798362 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:THAT'>featureClockRate:Balto-Slavic_gold_common-concepts:THAT[1 1] (0.0,Infinity): 1.1942089316096527 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:THEY'>featureClockRate:Balto-Slavic_gold_common-concepts:THEY[1 1] (0.0,Infinity): 0.5088327144493268 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:THICK'>featureClockRate:Balto-Slavic_gold_common-concepts:THICK[1 1] (0.0,Infinity): 1.6023348021484263 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:THIN'>featureClockRate:Balto-Slavic_gold_common-concepts:THIN[1 1] (0.0,Infinity): 0.4590425108293311 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:THINK'>featureClockRate:Balto-Slavic_gold_common-concepts:THINK[1 1] (0.0,Infinity): 1.357480698625051 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:THIS'>featureClockRate:Balto-Slavic_gold_common-concepts:THIS[1 1] (0.0,Infinity): 2.8260863262476583 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:THOU'>featureClockRate:Balto-Slavic_gold_common-concepts:THOU[1 1] (0.0,Infinity): 0.23304257679961454 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:THROW'>featureClockRate:Balto-Slavic_gold_common-concepts:THROW[1 1] (0.0,Infinity): 2.7994485866100653 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:TONGUE'>featureClockRate:Balto-Slavic_gold_common-concepts:TONGUE[1 1] (0.0,Infinity): 0.14089193469300965 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:TOOTH'>featureClockRate:Balto-Slavic_gold_common-concepts:TOOTH[1 1] (0.0,Infinity): 0.28520775236144097 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:TREE'>featureClockRate:Balto-Slavic_gold_common-concepts:TREE[1 1] (0.0,Infinity): 0.6152287082009187 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:WALK'>featureClockRate:Balto-Slavic_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.8933967507581064 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:WARM'>featureClockRate:Balto-Slavic_gold_common-concepts:WARM[1 1] (0.0,Infinity): 1.5840730268218048 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:WE'>featureClockRate:Balto-Slavic_gold_common-concepts:WE[1 1] (0.0,Infinity): 0.28013295688154954 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:WHAT'>featureClockRate:Balto-Slavic_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 1.7939664053871531 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:WOMAN'>featureClockRate:Balto-Slavic_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 0.7634121251914038 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:WORM'>featureClockRate:Balto-Slavic_gold_common-concepts:WORM[1 1] (0.0,Infinity): 0.7318893791256992 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:YEAR'>featureClockRate:Balto-Slavic_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 1.339176196032875 </statenode>
+<statenode id='featureClockRate:Balto-Slavic_gold_common-concepts:YELLOW'>featureClockRate:Balto-Slavic_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 0.023245223799856156 </statenode>
+<statenode id='featureClockRateGammaShape:Balto-Slavic_gold_common-concepts'>featureClockRateGammaShape:Balto-Slavic_gold_common-concepts[1 1] (1.1,100.0): 1.8564092154479284 </statenode>
+<statenode id='featureClockRateGammaScale:Balto-Slavic_gold_common-concepts'>featureClockRateGammaScale:Balto-Slavic_gold_common-concepts[1 1] (-Infinity,Infinity): 0.5386743352050826 </statenode>
+<statenode id='covarion_alpha.s:Balto-Slavic_gold_common-concepts'>covarion_alpha.s:Balto-Slavic_gold_common-concepts[1 1] (1.0E-4,1.0): 0.05352731669106826 </statenode>
+<statenode id='covarion_s.s:Balto-Slavic_gold_common-concepts'>covarion_s.s:Balto-Slavic_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.5089483953067104 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.3964439992162493,"accept":15929,"reject":241270,"acceptFC":15838,"rejectFC":237084,"rejectIv":104744,"rejectOp":104744},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":44783,"reject":213913,"acceptFC":43973,"rejectFC":210515,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":447,"reject":51414,"acceptFC":435,"rejectFC":50644,"rejectIv":26872,"rejectOp":26872},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":402,"reject":51443,"acceptFC":391,"rejectFC":50567,"rejectIv":10875,"rejectOp":10875},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":181785,"reject":333814,"acceptFC":178858,"rejectFC":328108,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.579152276223499,"accept":10272,"reject":41462,"acceptFC":10108,"rejectFC":40768,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.4442192341453381,"accept":12714,"reject":38491,"acceptFC":12520,"rejectFC":37823,"rejectIv":2016,"rejectOp":2016},
+{"id":"UpDown","p":0.5643663094464857,"accept":10251,"reject":41147,"acceptFC":10115,"rejectFC":40434,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.29001101375773447,"accept":13423,"reject":38179,"acceptFC":13042,"rejectFC":37749,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":99837,"reject":71873,"acceptFC":98204,"rejectFC":70661,"rejectIv":61669,"rejectOp":61669},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":66228,"reject":106281,"acceptFC":65389,"rejectFC":104216,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":87917,"reject":84033,"acceptFC":86755,"rejectFC":82414,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.4863972608036778,"accept":12690,"reject":38902,"acceptFC":12542,"rejectFC":38194,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Balto-Slavic_gold_common-concepts","p":0.3941737611645031,"accept":945,"reject":4164,"acceptFC":913,"rejectFC":4112,"rejectIv":551,"rejectOp":551},
+{"id":"covarion_alpha_scaler.s:Balto-Slavic_gold_common-concepts","p":0.1712716341187436,"accept":5264,"reject":11955,"acceptFC":5081,"rejectFC":11858,"rejectIv":766,"rejectOp":766},
+{"id":"Balto-Slavic_gold_common-concepts:covarion_s_scaler.s","p":0.290788049254134,"accept":5139,"reject":11994,"acceptFC":5036,"rejectFC":11799,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateDeltaExchanger:default","p":1.5094729257998774,"accept":14138,"reject":37502,"acceptFC":13981,"rejectFC":36834,"rejectIv":20939,"rejectOp":20939}
+]}
+-->

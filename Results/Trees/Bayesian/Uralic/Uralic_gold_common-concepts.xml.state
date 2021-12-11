@@ -1,0 +1,164 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((((0:0.2071889567672461,((((1:0.0103601633754362,22:0.0103601633754362)30:0.03352638769956343,(((2:0.015588783494565956,(5:0.00688174282213752,20:0.00688174282213752)38:0.008707040672428435)41:0.006437794305649849,4:0.022026577800215805)23:0.017537959695962575,21:0.03956453749617838)32:0.004322013578821254)37:0.010746038002450824,10:0.05463258907745046)34:0.12105602969606176,(((7:0.017800312499481157,16:0.017800312499481157)29:0.007517999802734827,14:0.025318312302215984)33:0.008728898673966992,17:0.034047210976182976)27:0.14164140779732926)25:0.03150033799373389)24:0.009457527509213665,(((8:0.024239856790892387,9:0.024239856790892387)36:0.01836566571778658,19:0.04260552250867897)40:0.10245226639884067,12:0.14505778890751964)42:0.07158869536894014)43:0.01302166340762681,(3:0.15309953345297364,(6:0.11000058925742809,11:0.11000058925742809)39:0.04309894419554555)28:0.07656861423111294)26:0.01619879958683712,(13:0.11645551199440893,(15:0.05997280499459568,18:0.05997280499459568)35:0.05648270699981325)31:0.12941143527651477)44:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 10.483625897717824 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[44 1] (0,43): 16 15 19 27 20 8 17 28 17 1 2 19 21 5 4 42 14 29 20 17 43 6 15 15 26 28 4 27 12 15 0 43 21 19 12 2 40 11 37 42 34 24 12 16 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.36516810279726497 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:ALL'>featureClockRate:Uralic_gold_common-concepts:ALL[1 1] (0.0,Infinity): 0.5090849122801948 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:ASH'>featureClockRate:Uralic_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.6201182402011616 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BACK'>featureClockRate:Uralic_gold_common-concepts:BACK[1 1] (0.0,Infinity): 1.7392001959386139 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BARK'>featureClockRate:Uralic_gold_common-concepts:BARK[1 1] (0.0,Infinity): 1.4466310921756167 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BELLY'>featureClockRate:Uralic_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 0.7742369722662181 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BIG'>featureClockRate:Uralic_gold_common-concepts:BIG[1 1] (0.0,Infinity): 0.6469037322997861 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BIRD'>featureClockRate:Uralic_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.8291764029081634 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BITE'>featureClockRate:Uralic_gold_common-concepts:BITE[1 1] (0.0,Infinity): 2.562907133562562 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BLACK'>featureClockRate:Uralic_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.8124840195729393 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BLOOD'>featureClockRate:Uralic_gold_common-concepts:BLOOD[1 1] (0.0,Infinity): 0.39289178413834247 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BONE'>featureClockRate:Uralic_gold_common-concepts:BONE[1 1] (0.0,Infinity): 0.8520840089140018 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BREAST'>featureClockRate:Uralic_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 0.6266302415687245 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:BURN'>featureClockRate:Uralic_gold_common-concepts:BURN[1 1] (0.0,Infinity): 1.0989421435122895 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:CLOUD'>featureClockRate:Uralic_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.49428576514039035 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:COLD'>featureClockRate:Uralic_gold_common-concepts:COLD[1 1] (0.0,Infinity): 0.7104161904916491 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:COME'>featureClockRate:Uralic_gold_common-concepts:COME[1 1] (0.0,Infinity): 0.3757382036365727 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:COUNT'>featureClockRate:Uralic_gold_common-concepts:COUNT[1 1] (0.0,Infinity): 1.849143553583655 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:DIE'>featureClockRate:Uralic_gold_common-concepts:DIE[1 1] (0.0,Infinity): 0.3700320622410104 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:DIRTY'>featureClockRate:Uralic_gold_common-concepts:DIRTY[1 1] (0.0,Infinity): 1.729090905752085 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:DOG'>featureClockRate:Uralic_gold_common-concepts:DOG[1 1] (0.0,Infinity): 0.6972957069139812 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:DRINK'>featureClockRate:Uralic_gold_common-concepts:DRINK[1 1] (0.0,Infinity): 0.4268322583365185 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:DRY'>featureClockRate:Uralic_gold_common-concepts:DRY[1 1] (0.0,Infinity): 0.6167255186809002 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:EAR'>featureClockRate:Uralic_gold_common-concepts:EAR[1 1] (0.0,Infinity): 0.198391277487303 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:EARTH'>featureClockRate:Uralic_gold_common-concepts:EARTH[1 1] (0.0,Infinity): 0.7487644936275832 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:EAT'>featureClockRate:Uralic_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.09554239474395365 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:EGG'>featureClockRate:Uralic_gold_common-concepts:EGG[1 1] (0.0,Infinity): 0.3430552559256549 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FALL'>featureClockRate:Uralic_gold_common-concepts:FALL[1 1] (0.0,Infinity): 3.2010572938849764 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FAR'>featureClockRate:Uralic_gold_common-concepts:FAR[1 1] (0.0,Infinity): 0.4697896458035215 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FEATHER'>featureClockRate:Uralic_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 1.347617934743596 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FINGERNAIL'>featureClockRate:Uralic_gold_common-concepts:FINGERNAIL[1 1] (0.0,Infinity): 0.20493295519216578 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FIRE'>featureClockRate:Uralic_gold_common-concepts:FIRE[1 1] (0.0,Infinity): 0.33653650360060605 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FISH'>featureClockRate:Uralic_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.060356412617725085 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FIVE'>featureClockRate:Uralic_gold_common-concepts:FIVE[1 1] (0.0,Infinity): 0.23772349827874537 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FLOWER'>featureClockRate:Uralic_gold_common-concepts:FLOWER[1 1] (0.0,Infinity): 0.9311641976478209 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FLY'>featureClockRate:Uralic_gold_common-concepts:FLY[1 1] (0.0,Infinity): 1.1521711619194621 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FOOT'>featureClockRate:Uralic_gold_common-concepts:FOOT[1 1] (0.0,Infinity): 0.50911852470006 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FOUR'>featureClockRate:Uralic_gold_common-concepts:FOUR[1 1] (0.0,Infinity): 0.20365883010173477 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:FULL'>featureClockRate:Uralic_gold_common-concepts:FULL[1 1] (0.0,Infinity): 0.36835676068319034 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:GIVE'>featureClockRate:Uralic_gold_common-concepts:GIVE[1 1] (0.0,Infinity): 0.535578098347266 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:GOOD'>featureClockRate:Uralic_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 1.3332823509397076 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:GRASS'>featureClockRate:Uralic_gold_common-concepts:GRASS[1 1] (0.0,Infinity): 0.7789924569696309 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:GREEN'>featureClockRate:Uralic_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 1.6991747867724372 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:HAIR'>featureClockRate:Uralic_gold_common-concepts:HAIR[1 1] (0.0,Infinity): 0.4953958372473003 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:HAND'>featureClockRate:Uralic_gold_common-concepts:HAND[1 1] (0.0,Infinity): 0.7949813297580509 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:HEAD'>featureClockRate:Uralic_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 0.5589649042940741 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:HEAR'>featureClockRate:Uralic_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 0.6006878682560585 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:HEART'>featureClockRate:Uralic_gold_common-concepts:HEART[1 1] (0.0,Infinity): 0.4376452295404853 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:HEAVY'>featureClockRate:Uralic_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 1.391475564752987 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:HOLD'>featureClockRate:Uralic_gold_common-concepts:HOLD[1 1] (0.0,Infinity): 1.284190396206439 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:HORN'>featureClockRate:Uralic_gold_common-concepts:HORN[1 1] (0.0,Infinity): 0.3794626981047 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:KILL'>featureClockRate:Uralic_gold_common-concepts:KILL[1 1] (0.0,Infinity): 1.3968154806586945 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:KNEE'>featureClockRate:Uralic_gold_common-concepts:KNEE[1 1] (0.0,Infinity): 1.1405924256987907 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:KNOW'>featureClockRate:Uralic_gold_common-concepts:KNOW[1 1] (0.0,Infinity): 1.513156530945878 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:LAUGH'>featureClockRate:Uralic_gold_common-concepts:LAUGH[1 1] (0.0,Infinity): 0.9191469471293074 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:LEAF'>featureClockRate:Uralic_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 1.0206492579228703 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:LEG'>featureClockRate:Uralic_gold_common-concepts:LEG[1 1] (0.0,Infinity): 1.0677512362312 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:LIE'>featureClockRate:Uralic_gold_common-concepts:LIE[1 1] (0.0,Infinity): 1.2829570528380838 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:LIVER'>featureClockRate:Uralic_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 0.31179458854919523 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:LONG'>featureClockRate:Uralic_gold_common-concepts:LONG[1 1] (0.0,Infinity): 0.5399877342365148 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:LOUSE'>featureClockRate:Uralic_gold_common-concepts:LOUSE[1 1] (0.0,Infinity): 0.5727116964626471 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:MAN'>featureClockRate:Uralic_gold_common-concepts:MAN[1 1] (0.0,Infinity): 0.8562714449676031 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:MANY'>featureClockRate:Uralic_gold_common-concepts:MANY[1 1] (0.0,Infinity): 1.2747605002093727 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:MEAT'>featureClockRate:Uralic_gold_common-concepts:MEAT[1 1] (0.0,Infinity): 0.43549024918049983 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:MOON'>featureClockRate:Uralic_gold_common-concepts:MOON[1 1] (0.0,Infinity): 1.408263794475148 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:MOUNTAIN'>featureClockRate:Uralic_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 3.391733026961056 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:MOUTH'>featureClockRate:Uralic_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 0.37593009789871684 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:NEAR'>featureClockRate:Uralic_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 1.3671526392901958 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:NECK'>featureClockRate:Uralic_gold_common-concepts:NECK[1 1] (0.0,Infinity): 0.2705901197999017 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:NEW'>featureClockRate:Uralic_gold_common-concepts:NEW[1 1] (0.0,Infinity): 0.8507473433403344 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:NIGHT'>featureClockRate:Uralic_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 0.19866012514638126 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:NOSE'>featureClockRate:Uralic_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 0.3193456187394089 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:NOT'>featureClockRate:Uralic_gold_common-concepts:NOT[1 1] (0.0,Infinity): 0.4016815337624391 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:OLD'>featureClockRate:Uralic_gold_common-concepts:OLD[1 1] (0.0,Infinity): 1.0156171546162316 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:ONE'>featureClockRate:Uralic_gold_common-concepts:ONE[1 1] (0.0,Infinity): 0.34926167735525115 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:PATH_OR_ROAD'>featureClockRate:Uralic_gold_common-concepts:PATH_OR_ROAD[1 1] (0.0,Infinity): 0.5438924914241969 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:PERSON'>featureClockRate:Uralic_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 0.8118373366930194 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:RAIN'>featureClockRate:Uralic_gold_common-concepts:RAIN[1 1] (0.0,Infinity): 1.0200588458452435 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:RED'>featureClockRate:Uralic_gold_common-concepts:RED[1 1] (0.0,Infinity): 0.5226212664650084 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:ROOT'>featureClockRate:Uralic_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 0.5679704491084424 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:ROPE'>featureClockRate:Uralic_gold_common-concepts:ROPE[1 1] (0.0,Infinity): 0.9822893839855478 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:ROUND'>featureClockRate:Uralic_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 0.9474696059498284 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SALT'>featureClockRate:Uralic_gold_common-concepts:SALT[1 1] (0.0,Infinity): 0.540417099925032 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SAND'>featureClockRate:Uralic_gold_common-concepts:SAND[1 1] (0.0,Infinity): 1.5772601903604873 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SAY'>featureClockRate:Uralic_gold_common-concepts:SAY[1 1] (0.0,Infinity): 0.609666563879039 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SEE'>featureClockRate:Uralic_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.4589511682556784 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SEED'>featureClockRate:Uralic_gold_common-concepts:SEED[1 1] (0.0,Infinity): 0.4606766563024411 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SEW'>featureClockRate:Uralic_gold_common-concepts:SEW[1 1] (0.0,Infinity): 0.5405205034909266 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SHARP'>featureClockRate:Uralic_gold_common-concepts:SHARP[1 1] (0.0,Infinity): 0.5409094257448268 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SHORT'>featureClockRate:Uralic_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 0.7782233639406845 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SIT'>featureClockRate:Uralic_gold_common-concepts:SIT[1 1] (0.0,Infinity): 0.748947409558399 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SKIN'>featureClockRate:Uralic_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 0.9952683628141 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SKY'>featureClockRate:Uralic_gold_common-concepts:SKY[1 1] (0.0,Infinity): 1.8066647963496456 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SLEEP'>featureClockRate:Uralic_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 0.9383160077402188 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SMALL'>featureClockRate:Uralic_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 1.1798842760591963 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SMOKE'>featureClockRate:Uralic_gold_common-concepts:SMOKE[1 1] (0.0,Infinity): 0.5682690478547445 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SNAKE'>featureClockRate:Uralic_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 2.3660510958322836 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:STAND'>featureClockRate:Uralic_gold_common-concepts:STAND[1 1] (0.0,Infinity): 1.0271711732830924 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:STAR'>featureClockRate:Uralic_gold_common-concepts:STAR[1 1] (0.0,Infinity): 0.6978870415265512 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:STONE'>featureClockRate:Uralic_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.13594567608345415 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SUCK'>featureClockRate:Uralic_gold_common-concepts:SUCK[1 1] (0.0,Infinity): 0.5595111615787571 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SUN'>featureClockRate:Uralic_gold_common-concepts:SUN[1 1] (0.0,Infinity): 1.126202761507514 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:SWIM'>featureClockRate:Uralic_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 0.37570920392654333 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:TAIL'>featureClockRate:Uralic_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 2.2761056555645673 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:TAKE'>featureClockRate:Uralic_gold_common-concepts:TAKE[1 1] (0.0,Infinity): 0.44716782364007435 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:THAT'>featureClockRate:Uralic_gold_common-concepts:THAT[1 1] (0.0,Infinity): 1.6063808292862687 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:THEY'>featureClockRate:Uralic_gold_common-concepts:THEY[1 1] (0.0,Infinity): 0.9459654590657368 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:THICK'>featureClockRate:Uralic_gold_common-concepts:THICK[1 1] (0.0,Infinity): 0.8380727794417119 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:THIN'>featureClockRate:Uralic_gold_common-concepts:THIN[1 1] (0.0,Infinity): 0.8348144256298454 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:THINK'>featureClockRate:Uralic_gold_common-concepts:THINK[1 1] (0.0,Infinity): 0.6862920952850725 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:THIS'>featureClockRate:Uralic_gold_common-concepts:THIS[1 1] (0.0,Infinity): 1.3534623318173153 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:THOU'>featureClockRate:Uralic_gold_common-concepts:THOU[1 1] (0.0,Infinity): 0.27580124207300094 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:THREE'>featureClockRate:Uralic_gold_common-concepts:THREE[1 1] (0.0,Infinity): 0.18227428029704554 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:THROW'>featureClockRate:Uralic_gold_common-concepts:THROW[1 1] (0.0,Infinity): 1.3093868983661499 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:TONGUE'>featureClockRate:Uralic_gold_common-concepts:TONGUE[1 1] (0.0,Infinity): 1.1288154801176433 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:TOOTH'>featureClockRate:Uralic_gold_common-concepts:TOOTH[1 1] (0.0,Infinity): 1.8713452800171073 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:TREE'>featureClockRate:Uralic_gold_common-concepts:TREE[1 1] (0.0,Infinity): 0.2780242334669934 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:VOMIT'>featureClockRate:Uralic_gold_common-concepts:VOMIT[1 1] (0.0,Infinity): 0.15324661935237294 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WALK'>featureClockRate:Uralic_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.9420154376161611 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WARM'>featureClockRate:Uralic_gold_common-concepts:WARM[1 1] (0.0,Infinity): 0.9791185238746373 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WATER'>featureClockRate:Uralic_gold_common-concepts:WATER[1 1] (0.0,Infinity): 0.3519382350300716 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WET'>featureClockRate:Uralic_gold_common-concepts:WET[1 1] (0.0,Infinity): 2.230324639395191 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WHAT'>featureClockRate:Uralic_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 0.6860787438936924 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WHERE'>featureClockRate:Uralic_gold_common-concepts:WHERE[1 1] (0.0,Infinity): 0.6920010863426769 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WHITE'>featureClockRate:Uralic_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 1.1925671571317296 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WHO'>featureClockRate:Uralic_gold_common-concepts:WHO[1 1] (0.0,Infinity): 1.1941873605417106 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WIDE'>featureClockRate:Uralic_gold_common-concepts:WIDE[1 1] (0.0,Infinity): 1.1610679987287782 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WIND'>featureClockRate:Uralic_gold_common-concepts:WIND[1 1] (0.0,Infinity): 0.7902375506994422 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WING'>featureClockRate:Uralic_gold_common-concepts:WING[1 1] (0.0,Infinity): 0.7119670041693904 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WOMAN'>featureClockRate:Uralic_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 0.3682392306326911 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:WORM'>featureClockRate:Uralic_gold_common-concepts:WORM[1 1] (0.0,Infinity): 0.885442489218877 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:YEAR'>featureClockRate:Uralic_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 1.6038673518973254 </statenode>
+<statenode id='featureClockRate:Uralic_gold_common-concepts:YELLOW'>featureClockRate:Uralic_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 0.9132614446379949 </statenode>
+<statenode id='featureClockRateGammaShape:Uralic_gold_common-concepts'>featureClockRateGammaShape:Uralic_gold_common-concepts[1 1] (1.1,100.0): 2.31261783456016 </statenode>
+<statenode id='featureClockRateGammaScale:Uralic_gold_common-concepts'>featureClockRateGammaScale:Uralic_gold_common-concepts[1 1] (-Infinity,Infinity): 0.4324103987506398 </statenode>
+<statenode id='covarion_alpha.s:Uralic_gold_common-concepts'>covarion_alpha.s:Uralic_gold_common-concepts[1 1] (1.0E-4,1.0): 8.064514157461014E-4 </statenode>
+<statenode id='covarion_s.s:Uralic_gold_common-concepts'>covarion_s.s:Uralic_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.3886235467405353 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.3525077610786866,"accept":5811,"reject":251167,"acceptFC":5744,"rejectFC":247035,"rejectIv":114310,"rejectOp":114310},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":25842,"reject":232832,"acceptFC":25372,"rejectFC":229036,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":199,"reject":51260,"acceptFC":195,"rejectFC":50388,"rejectIv":26343,"rejectOp":26343},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":373,"reject":51436,"acceptFC":360,"rejectFC":50598,"rejectIv":8633,"rejectOp":8633},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":149712,"reject":366483,"acceptFC":147444,"rejectFC":360295,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.7063615908205018,"accept":10964,"reject":40743,"acceptFC":10875,"rejectFC":39972,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.5463087995141815,"accept":8003,"reject":43619,"acceptFC":7892,"rejectFC":42887,"rejectIv":10654,"rejectOp":10654},
+{"id":"UpDown","p":0.6934359129708211,"accept":10561,"reject":41104,"acceptFC":10465,"rejectFC":40379,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.31942600119869546,"accept":12564,"reject":39101,"acceptFC":12185,"rejectFC":38580,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":104591,"reject":67045,"acceptFC":102966,"rejectFC":65818,"rejectIv":60072,"rejectOp":60072},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":69374,"reject":102547,"acceptFC":68593,"rejectFC":100388,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":91098,"reject":80667,"acceptFC":89955,"rejectFC":78856,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.4798765481378739,"accept":11840,"reject":39740,"acceptFC":11741,"rejectFC":38976,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Uralic_gold_common-concepts","p":0.4751770025405091,"accept":1206,"reject":4003,"acceptFC":1181,"rejectFC":3945,"rejectIv":2,"rejectOp":2},
+{"id":"covarion_alpha_scaler.s:Uralic_gold_common-concepts","p":0.17058128733367933,"accept":5340,"reject":11791,"acceptFC":5170,"rejectFC":11686,"rejectIv":38,"rejectOp":38},
+{"id":"Uralic_gold_common-concepts:covarion_s_scaler.s","p":0.49648686552473403,"accept":4644,"reject":12664,"acceptFC":4584,"rejectFC":12440,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateDeltaExchanger:default","p":1.1515985710732237,"accept":15429,"reject":36248,"acceptFC":15302,"rejectFC":35503,"rejectIv":12570,"rejectOp":12570}
+]}
+-->

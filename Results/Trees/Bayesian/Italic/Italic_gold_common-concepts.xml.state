@@ -1,0 +1,114 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((((0:0.04478935578563197,27:0.04478935578563197)103:0.039641754435815836,(16:0.05543154190633496,40:0.05543154190633496)77:0.02899956831511285)75:0.1353404482668018,(((((((1:0.008403311816869588,51:0.008403311816869588)82:0.03406771984259641,(15:0.03256570299659037,38:0.03256570299659037)112:0.009905328662875634)91:0.04124792742291501,((((2:0.007743952530474661,7:0.007743952530474661)111:0.0017102218084694542,4:0.009454174338944115)66:0.02251622022181989,(3:0.009339021869298872,6:0.009339021869298872)59:0.022631372691465132)110:0.001343647911464435,5:0.03331404247222844)81:0.050404916610152575)99:0.0402149034119824,(45:0.04440554016751102,46:0.04440554016751102)85:0.07952832232685239)102:0.007223416309335207,(((12:0.04618687990524138,(13:0.025724592142571695,(32:0.02077934555862999,57:0.02077934555862999)100:0.004945246583941704)71:0.020462287762669687)104:0.0019964263735004,29:0.04818330627874178)70:0.07702191626085081,30:0.1252052225395926)98:0.005952056264106026)101:0.015626746745708353,((((8:0.022537244003923162,17:0.022537244003923162)86:0.06097602647819103,((((((((9:0.03199726035489005,10:0.03199726035489005)72:0.019227665671468767,56:0.051224926026358815)89:0.0026031439065294856,(11:0.038371104682926344,(25:0.03361755883866941,26:0.03361755883866941)108:0.004753545844256933)92:0.015456965249961957)83:0.0011148845824454218,((33:0.012766211649677355,36:0.012766211649677355)106:0.02957182877987121,(34:0.036662366552620784,35:0.036662366552620784)64:0.0056756738769277795)58:0.012604914085785159)73:0.0027841736770370454,((22:0.015942547337528094,24:0.015942547337528094)109:0.020287265640289247,23:0.03622981297781734)69:0.021497315214553427)65:0.0034133475336588226,37:0.06114047572602959)68:0.0019494136534475084,(((28:0.026754862926272403,((47:0.012730834331695343,(49:0.009712566957778144,50:0.009712566957778144)61:0.003018267373917199)96:0.011344879085774919,48:0.024075713417470262)87:0.0026791495088021415)93:0.0178560456739306,(52:0.031765537654300124,53:0.031765537654300124)67:0.012845370945902879)78:0.004732273597507761,39:0.049343182197710764)76:0.013746707181766335)105:0.010871708516295375,(14:0.042979597501621156,(54:0.014000358809293123,55:0.014000358809293123)80:0.028979238692328033)113:0.03098200039415132)95:0.009551672586341722)79:0.015992716337344434,(18:0.05241755912410532,19:0.05241755912410532)63:0.04708842769535331)107:0.017914680392683194,31:0.11742066721214182)84:0.029363358337265152)74:0.04135988064160523,((41:0.03263308684465621,(42:0.029332450883906236,43:0.029332450883906236)60:0.003300635960749976)94:0.09680846703406581,44:0.12944155387872203)90:0.05870235231229018)62:0.03162765229723741)97:0.024467917374645126,(20:0.010796410894787608,21:0.010796410894787608)88:0.23344306496810713)114:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 16.36259266321278 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[114 1] (0,113): 78 68 100 67 91 65 23 32 97 66 33 24 92 8 16 0 113 90 4 97 97 19 31 23 101 43 92 108 57 72 5 1 97 67 27 36 91 27 98 55 36 43 72 25 12 33 98 9 15 71 63 93 74 50 40 104 7 110 54 79 71 37 18 41 69 86 77 41 29 33 40 97 49 31 20 112 83 29 33 105 14 100 110 83 28 102 41 87 48 83 32 79 14 72 14 55 97 43 70 79 16 89 26 29 111 27 4 79 60 71 66 39 53 23 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.5501758539577064 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:ALL'>featureClockRate:Italic_gold_common-concepts:ALL[1 1] (0.0,Infinity): 0.5538459186166002 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:ASH'>featureClockRate:Italic_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.346463507003903 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:BARK'>featureClockRate:Italic_gold_common-concepts:BARK[1 1] (0.0,Infinity): 1.5570134029435652 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:BELLY'>featureClockRate:Italic_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 1.0410939415090907 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:BIG'>featureClockRate:Italic_gold_common-concepts:BIG[1 1] (0.0,Infinity): 1.803962570948113 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:BIRD'>featureClockRate:Italic_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 1.3471534936727 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:BITE'>featureClockRate:Italic_gold_common-concepts:BITE[1 1] (0.0,Infinity): 1.4020978379980211 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:BLACK'>featureClockRate:Italic_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.24379372558481116 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:BREAST'>featureClockRate:Italic_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 0.3691258720606211 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:BURN_(SOMETHING)'>featureClockRate:Italic_gold_common-concepts:BURN_(SOMETHING)[1 1] (0.0,Infinity): 0.5271881225099422 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:CLOUD'>featureClockRate:Italic_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.27972902814188255 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:COLD_(OF_WEATHER)'>featureClockRate:Italic_gold_common-concepts:COLD_(OF_WEATHER)[1 1] (0.0,Infinity): 0.3090559576802237 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:DOG'>featureClockRate:Italic_gold_common-concepts:DOG[1 1] (0.0,Infinity): 0.513339823577279 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:DRINK'>featureClockRate:Italic_gold_common-concepts:DRINK[1 1] (0.0,Infinity): 0.2857803141509685 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:DRY'>featureClockRate:Italic_gold_common-concepts:DRY[1 1] (0.0,Infinity): 2.1188927149718575 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Italic_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 0.15954801572567764 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:EAT'>featureClockRate:Italic_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.33791245395623715 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:FAR'>featureClockRate:Italic_gold_common-concepts:FAR[1 1] (0.0,Infinity): 1.7810869761209633 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)'>featureClockRate:Italic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)[1 1] (0.0,Infinity): 0.18199293960025303 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:FEATHER'>featureClockRate:Italic_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 1.5785161771200438 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:FINGERNAIL'>featureClockRate:Italic_gold_common-concepts:FINGERNAIL[1 1] (0.0,Infinity): 0.28388146838938977 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:FIRE'>featureClockRate:Italic_gold_common-concepts:FIRE[1 1] (0.0,Infinity): 0.27040707490731286 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:FISH'>featureClockRate:Italic_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.3317555454460603 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:FLESH_OR_MEAT'>featureClockRate:Italic_gold_common-concepts:FLESH_OR_MEAT[1 1] (0.0,Infinity): 0.40775024881103716 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Italic_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 0.49101525573515514 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:FOOT'>featureClockRate:Italic_gold_common-concepts:FOOT[1 1] (0.0,Infinity): 0.10845953502050654 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:GIVE'>featureClockRate:Italic_gold_common-concepts:GIVE[1 1] (0.0,Infinity): 0.6575484371775223 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:GREEN'>featureClockRate:Italic_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 0.19177358830395533 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:HAIR'>featureClockRate:Italic_gold_common-concepts:HAIR[1 1] (0.0,Infinity): 1.5920632995524575 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:HEAD'>featureClockRate:Italic_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 1.2225449886403799 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:HEAR'>featureClockRate:Italic_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 0.6592805088677985 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:HEART'>featureClockRate:Italic_gold_common-concepts:HEART[1 1] (0.0,Infinity): 0.4014741536490626 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:HEAVY'>featureClockRate:Italic_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 0.9991382965833147 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:HORN_(ANATOMY)'>featureClockRate:Italic_gold_common-concepts:HORN_(ANATOMY)[1 1] (0.0,Infinity): 0.07930301775041752 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:I'>featureClockRate:Italic_gold_common-concepts:I[1 1] (0.0,Infinity): 0.38756200420796205 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:KILL'>featureClockRate:Italic_gold_common-concepts:KILL[1 1] (0.0,Infinity): 1.3414109710940196 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:KNEE'>featureClockRate:Italic_gold_common-concepts:KNEE[1 1] (0.0,Infinity): 0.8180630629703239 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Italic_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 0.408853407554662 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:LEAF'>featureClockRate:Italic_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 0.48279076656489417 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:LIE_(REST)'>featureClockRate:Italic_gold_common-concepts:LIE_(REST)[1 1] (0.0,Infinity): 2.6879706813316986 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:LIVER'>featureClockRate:Italic_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 0.465704688874644 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:LONG'>featureClockRate:Italic_gold_common-concepts:LONG[1 1] (0.0,Infinity): 0.9069376266742609 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:MALE_PERSON'>featureClockRate:Italic_gold_common-concepts:MALE_PERSON[1 1] (0.0,Infinity): 1.3650925110332204 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:MANY'>featureClockRate:Italic_gold_common-concepts:MANY[1 1] (0.0,Infinity): 1.3201795107873384 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:MOUNTAIN'>featureClockRate:Italic_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 0.39933723990533376 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:MOUTH'>featureClockRate:Italic_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 0.11785684232653229 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:NEAR'>featureClockRate:Italic_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 0.5812211122272275 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:NECK'>featureClockRate:Italic_gold_common-concepts:NECK[1 1] (0.0,Infinity): 1.2280104272218437 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:NOSE'>featureClockRate:Italic_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 0.23191852867184615 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:NOT'>featureClockRate:Italic_gold_common-concepts:NOT[1 1] (0.0,Infinity): 0.7633737962641165 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:PERSON'>featureClockRate:Italic_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 1.1570294345567742 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Italic_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 0.7351116582530908 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:RED'>featureClockRate:Italic_gold_common-concepts:RED[1 1] (0.0,Infinity): 1.7968658330474887 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:ROAD'>featureClockRate:Italic_gold_common-concepts:ROAD[1 1] (0.0,Infinity): 1.7424490445295882 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:ROOT'>featureClockRate:Italic_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 0.8896919722815391 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:ROUND'>featureClockRate:Italic_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 0.6656102647821142 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SAND'>featureClockRate:Italic_gold_common-concepts:SAND[1 1] (0.0,Infinity): 0.827295399762451 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SAY'>featureClockRate:Italic_gold_common-concepts:SAY[1 1] (0.0,Infinity): 0.4455103701044025 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SEE'>featureClockRate:Italic_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.07672194713385379 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SEED'>featureClockRate:Italic_gold_common-concepts:SEED[1 1] (0.0,Infinity): 0.09306862185332972 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SHORT'>featureClockRate:Italic_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 0.2420634680426214 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SKIN_(HUMAN)'>featureClockRate:Italic_gold_common-concepts:SKIN_(HUMAN)[1 1] (0.0,Infinity): 0.496844117248898 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SMALL'>featureClockRate:Italic_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 0.41251175320918104 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SMOKE_(EXHAUST)'>featureClockRate:Italic_gold_common-concepts:SMOKE_(EXHAUST)[1 1] (0.0,Infinity): 0.2791282011387676 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SNAKE'>featureClockRate:Italic_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 1.9647905687317766 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:STAND'>featureClockRate:Italic_gold_common-concepts:STAND[1 1] (0.0,Infinity): 3.1609760062648906 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:STONE'>featureClockRate:Italic_gold_common-concepts:STONE[1 1] (0.0,Infinity): 1.2590769801181405 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:SWIM'>featureClockRate:Italic_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 1.097975015188575 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:TAIL'>featureClockRate:Italic_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 0.4711135253482572 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:THAT'>featureClockRate:Italic_gold_common-concepts:THAT[1 1] (0.0,Infinity): 0.3976966338038634 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:THIN'>featureClockRate:Italic_gold_common-concepts:THIN[1 1] (0.0,Infinity): 0.9121874057979207 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:THIS'>featureClockRate:Italic_gold_common-concepts:THIS[1 1] (0.0,Infinity): 0.48901884590868827 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:TREE'>featureClockRate:Italic_gold_common-concepts:TREE[1 1] (0.0,Infinity): 1.6586897550002515 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:WARM_(OF_WEATHER)'>featureClockRate:Italic_gold_common-concepts:WARM_(OF_WEATHER)[1 1] (0.0,Infinity): 0.8870790182737336 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:WE'>featureClockRate:Italic_gold_common-concepts:WE[1 1] (0.0,Infinity): 0.49193979775399 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:WHAT'>featureClockRate:Italic_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 0.1431411061922532 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:WHITE'>featureClockRate:Italic_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 0.6334521226822349 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:WHO'>featureClockRate:Italic_gold_common-concepts:WHO[1 1] (0.0,Infinity): 0.44664392604770714 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:WIND'>featureClockRate:Italic_gold_common-concepts:WIND[1 1] (0.0,Infinity): 0.33371727426144493 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:WOMAN'>featureClockRate:Italic_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 2.734360763257451 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:WORM'>featureClockRate:Italic_gold_common-concepts:WORM[1 1] (0.0,Infinity): 0.8610002174609181 </statenode>
+<statenode id='featureClockRate:Italic_gold_common-concepts:YELLOW'>featureClockRate:Italic_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 0.5109896113480961 </statenode>
+<statenode id='featureClockRateGammaShape:Italic_gold_common-concepts'>featureClockRateGammaShape:Italic_gold_common-concepts[1 1] (1.1,100.0): 1.605328161670627 </statenode>
+<statenode id='featureClockRateGammaScale:Italic_gold_common-concepts'>featureClockRateGammaScale:Italic_gold_common-concepts[1 1] (-Infinity,Infinity): 0.6229255948262485 </statenode>
+<statenode id='covarion_alpha.s:Italic_gold_common-concepts'>covarion_alpha.s:Italic_gold_common-concepts[1 1] (1.0E-4,1.0): 8.837057203312564E-4 </statenode>
+<statenode id='covarion_s.s:Italic_gold_common-concepts'>covarion_s.s:Italic_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.37358394541840506 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.5590140149585567,"accept":3270,"reject":254366,"acceptFC":3184,"rejectFC":250255,"rejectIv":123385,"rejectOp":123385},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":63993,"reject":194104,"acceptFC":62662,"rejectFC":191137,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":205,"reject":51149,"acceptFC":198,"rejectFC":50347,"rejectIv":26041,"rejectOp":26041},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":434,"reject":51089,"acceptFC":395,"rejectFC":50252,"rejectIv":3930,"rejectOp":3930},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":223873,"reject":292930,"acceptFC":220182,"rejectFC":288155,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.6916244653887775,"accept":10188,"reject":41807,"acceptFC":10120,"rejectFC":41029,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.5380006693670799,"accept":6897,"reject":44260,"acceptFC":6805,"rejectFC":43491,"rejectIv":12539,"rejectOp":12539},
+{"id":"UpDown","p":0.6962451207101606,"accept":11141,"reject":40261,"acceptFC":11053,"rejectFC":39476,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.4662446931073874,"accept":13385,"reject":38233,"acceptFC":13137,"rejectFC":37649,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":110648,"reject":61225,"acceptFC":108877,"rejectFC":60202,"rejectIv":58214,"rejectOp":58214},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":69159,"reject":103065,"acceptFC":68200,"rejectFC":101239,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":92586,"reject":79550,"acceptFC":91253,"rejectFC":77972,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.6413316830984587,"accept":10492,"reject":40749,"acceptFC":10397,"rejectFC":39984,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Italic_gold_common-concepts","p":0.41667608307026255,"accept":1175,"reject":3950,"acceptFC":1150,"rejectFC":3898,"rejectIv":580,"rejectOp":580},
+{"id":"covarion_alpha_scaler.s:Italic_gold_common-concepts","p":0.16780794953489991,"accept":5078,"reject":12122,"acceptFC":4922,"rejectFC":11999,"rejectIv":41,"rejectOp":41},
+{"id":"Italic_gold_common-concepts:covarion_s_scaler.s","p":0.5118038825565651,"accept":4494,"reject":12699,"acceptFC":4436,"rejectFC":12451,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateDeltaExchanger:default","p":2.1463644943452027,"accept":8048,"reject":43376,"acceptFC":7834,"rejectFC":42720,"rejectIv":29097,"rejectOp":29097}
+]}
+-->

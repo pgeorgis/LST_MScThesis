@@ -1,0 +1,146 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>(((((((0:0.04900909183262828,5:0.04900909183262828)56:0.03689204483088283,13:0.08590113666351111)42:0.011729712406911674,22:0.09763084907042278)46:0.03132377531607923,29:0.12895462438650201)48:0.09516691840365354,31:0.22412154279015556)44:0.008699618110758978,((((((1:0.029588150484398428,10:0.029588150484398428)34:0.04381838047439551,((7:0.03746789338041042,26:0.03746789338041042)60:0.02955372309704559,(14:0.009588036896280537,33:0.009588036896280537)43:0.057433579581175474)59:0.006384914481337933)37:0.07813497395255238,30:0.15154150491134633)57:0.0017305214459441831,(17:0.031899665966025656,((19:0.015634952248895224,28:0.015634952248895224)58:0.013519032661621806,24:0.02915398491051703)63:0.0027456810555086253)45:0.12137236039126485)52:0.0011766694822480106,((((3:0.014065343504379647,(20:0.012669367441608258,27:0.012669367441608258)47:0.001395976062771389)41:9.495061738060782E-4,21:0.015014849678185725)51:0.0051676845453684835,8:0.02018253422355421)61:0.11419389695689339,(6:0.05099092761160578,11:0.05099092761160578)49:0.0833855035688418)39:0.020072264659090927)64:0.024360258018037484,9:0.178808953857576)50:0.054012207043338534)55:0.04606225235561201,(((((2:0.015494113402806958,25:0.015494113402806958)35:0.0033267352691030046,32:0.018820848671909963)36:0.013140619160513286,12:0.03196146783242325)38:0.03546095689259651,((4:0.013648500547451396,23:0.013648500547451396)40:0.009854608101003777,18:0.023503108648455173)65:0.04391931607656459)62:0.014093991596962382,(15:0.028367835787337665,16:0.028367835787337665)53:0.05314858053464448)54:0.1973669969345444)66:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 11.603650328818919 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[66 1] (0,65): 5 46 31 21 47 39 23 14 25 41 13 48 19 36 33 17 19 21 53 36 62 3 23 1 61 9 54 3 26 35 5 4 27 18 58 61 20 18 21 18 18 46 49 30 61 11 16 58 4 12 5 10 53 18 3 16 19 58 10 21 35 56 26 53 53 41 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.3934975432779742 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:ALL'>featureClockRate:Uto-Aztecan_gold_common-concepts:ALL[1 1] (0.0,Infinity): 1.243667359267655 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:ARM'>featureClockRate:Uto-Aztecan_gold_common-concepts:ARM[1 1] (0.0,Infinity): 0.8030121669216201 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:ASH'>featureClockRate:Uto-Aztecan_gold_common-concepts:ASH[1 1] (0.0,Infinity): 1.0008188833390153 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BARK'>featureClockRate:Uto-Aztecan_gold_common-concepts:BARK[1 1] (0.0,Infinity): 0.6474307765624135 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BELLY'>featureClockRate:Uto-Aztecan_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 0.6184485909326621 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BIG'>featureClockRate:Uto-Aztecan_gold_common-concepts:BIG[1 1] (0.0,Infinity): 0.630884647639411 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BIRD'>featureClockRate:Uto-Aztecan_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 1.164289822850091 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BITE'>featureClockRate:Uto-Aztecan_gold_common-concepts:BITE[1 1] (0.0,Infinity): 0.28492216174223667 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BLACK'>featureClockRate:Uto-Aztecan_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 1.1650367226825027 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BLOOD'>featureClockRate:Uto-Aztecan_gold_common-concepts:BLOOD[1 1] (0.0,Infinity): 0.516200388068878 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BONE'>featureClockRate:Uto-Aztecan_gold_common-concepts:BONE[1 1] (0.0,Infinity): 1.1606924205893776 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BREAST'>featureClockRate:Uto-Aztecan_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 0.22733573400363666 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:BURN_(SOMETHING)'>featureClockRate:Uto-Aztecan_gold_common-concepts:BURN_(SOMETHING)[1 1] (0.0,Infinity): 0.5736878549515338 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:CLAW'>featureClockRate:Uto-Aztecan_gold_common-concepts:CLAW[1 1] (0.0,Infinity): 0.4411405242680286 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:CLOUD'>featureClockRate:Uto-Aztecan_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.7678913103140196 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:COLD'>featureClockRate:Uto-Aztecan_gold_common-concepts:COLD[1 1] (0.0,Infinity): 1.0147292455863828 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:COME'>featureClockRate:Uto-Aztecan_gold_common-concepts:COME[1 1] (0.0,Infinity): 0.7053391627253016 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:DIE'>featureClockRate:Uto-Aztecan_gold_common-concepts:DIE[1 1] (0.0,Infinity): 0.9614575604023576 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:DIRTY'>featureClockRate:Uto-Aztecan_gold_common-concepts:DIRTY[1 1] (0.0,Infinity): 1.2868027188976066 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:DOG'>featureClockRate:Uto-Aztecan_gold_common-concepts:DOG[1 1] (0.0,Infinity): 2.198632619059265 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:DRINK'>featureClockRate:Uto-Aztecan_gold_common-concepts:DRINK[1 1] (0.0,Infinity): 1.2007074835102278 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:DRY'>featureClockRate:Uto-Aztecan_gold_common-concepts:DRY[1 1] (0.0,Infinity): 0.5097376411886873 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:EAR'>featureClockRate:Uto-Aztecan_gold_common-concepts:EAR[1 1] (0.0,Infinity): 0.17164196939977222 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Uto-Aztecan_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 1.2244120352909342 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:EAT'>featureClockRate:Uto-Aztecan_gold_common-concepts:EAT[1 1] (0.0,Infinity): 1.063008625931106 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:EGG'>featureClockRate:Uto-Aztecan_gold_common-concepts:EGG[1 1] (0.0,Infinity): 0.6273062171177421 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:EYE'>featureClockRate:Uto-Aztecan_gold_common-concepts:EYE[1 1] (0.0,Infinity): 0.713000057223723 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)'>featureClockRate:Uto-Aztecan_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)[1 1] (0.0,Infinity): 1.1996525026908513 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:FEATHER'>featureClockRate:Uto-Aztecan_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 1.4783943645672841 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:FIRE'>featureClockRate:Uto-Aztecan_gold_common-concepts:FIRE[1 1] (0.0,Infinity): 0.703104980604417 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:FISH'>featureClockRate:Uto-Aztecan_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.6505003989856432 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:FIVE'>featureClockRate:Uto-Aztecan_gold_common-concepts:FIVE[1 1] (0.0,Infinity): 0.6405814283434512 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Uto-Aztecan_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 0.5069582367263062 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:FOOT'>featureClockRate:Uto-Aztecan_gold_common-concepts:FOOT[1 1] (0.0,Infinity): 0.7194674384187084 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:FOUR'>featureClockRate:Uto-Aztecan_gold_common-concepts:FOUR[1 1] (0.0,Infinity): 0.9857526449472003 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:FULL'>featureClockRate:Uto-Aztecan_gold_common-concepts:FULL[1 1] (0.0,Infinity): 1.0564090597872329 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:GIVE'>featureClockRate:Uto-Aztecan_gold_common-concepts:GIVE[1 1] (0.0,Infinity): 2.008873896708117 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:GOOD'>featureClockRate:Uto-Aztecan_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 1.4913507464005589 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:GREEN'>featureClockRate:Uto-Aztecan_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 1.070217426559918 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:HAIR'>featureClockRate:Uto-Aztecan_gold_common-concepts:HAIR[1 1] (0.0,Infinity): 1.8591895217548635 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:HAND'>featureClockRate:Uto-Aztecan_gold_common-concepts:HAND[1 1] (0.0,Infinity): 0.3118579405526341 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:HEAD'>featureClockRate:Uto-Aztecan_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 0.39925777166647525 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:HEAR'>featureClockRate:Uto-Aztecan_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 0.37852296558789916 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:HEART'>featureClockRate:Uto-Aztecan_gold_common-concepts:HEART[1 1] (0.0,Infinity): 1.254525061301856 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:HEAVY'>featureClockRate:Uto-Aztecan_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 0.526245923339209 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:HORN_(ANATOMY)'>featureClockRate:Uto-Aztecan_gold_common-concepts:HORN_(ANATOMY)[1 1] (0.0,Infinity): 0.14284159024978 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:HOT'>featureClockRate:Uto-Aztecan_gold_common-concepts:HOT[1 1] (0.0,Infinity): 1.1326484147415876 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:I'>featureClockRate:Uto-Aztecan_gold_common-concepts:I[1 1] (0.0,Infinity): 0.1968031418765924 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:KILL'>featureClockRate:Uto-Aztecan_gold_common-concepts:KILL[1 1] (0.0,Infinity): 0.22327878751968688 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:KNEE'>featureClockRate:Uto-Aztecan_gold_common-concepts:KNEE[1 1] (0.0,Infinity): 1.098801708476811 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Uto-Aztecan_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 0.481720353298208 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:LEAF'>featureClockRate:Uto-Aztecan_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 0.6625959907988318 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:LIE_(REST)'>featureClockRate:Uto-Aztecan_gold_common-concepts:LIE_(REST)[1 1] (0.0,Infinity): 0.5889890507800886 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:LIVER'>featureClockRate:Uto-Aztecan_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 0.36349105758543965 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:LONG'>featureClockRate:Uto-Aztecan_gold_common-concepts:LONG[1 1] (0.0,Infinity): 1.4874273101623203 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:LOUSE'>featureClockRate:Uto-Aztecan_gold_common-concepts:LOUSE[1 1] (0.0,Infinity): 1.5536886654540267 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:MAN'>featureClockRate:Uto-Aztecan_gold_common-concepts:MAN[1 1] (0.0,Infinity): 0.5602901531960381 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:MANY'>featureClockRate:Uto-Aztecan_gold_common-concepts:MANY[1 1] (0.0,Infinity): 0.8923883923334192 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:MEAT'>featureClockRate:Uto-Aztecan_gold_common-concepts:MEAT[1 1] (0.0,Infinity): 1.3931309922636492 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:MOON'>featureClockRate:Uto-Aztecan_gold_common-concepts:MOON[1 1] (0.0,Infinity): 0.312819887906315 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:MOUNTAIN'>featureClockRate:Uto-Aztecan_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 1.0033625024626625 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:MOUTH'>featureClockRate:Uto-Aztecan_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 0.6468922112134061 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:NAME'>featureClockRate:Uto-Aztecan_gold_common-concepts:NAME[1 1] (0.0,Infinity): 0.36405458073295804 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:NECK'>featureClockRate:Uto-Aztecan_gold_common-concepts:NECK[1 1] (0.0,Infinity): 1.7062889616104462 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:NEW'>featureClockRate:Uto-Aztecan_gold_common-concepts:NEW[1 1] (0.0,Infinity): 0.3624651007939384 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:NIGHT'>featureClockRate:Uto-Aztecan_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 0.407725914330927 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:NO_OR_NOT'>featureClockRate:Uto-Aztecan_gold_common-concepts:NO_OR_NOT[1 1] (0.0,Infinity): 0.6595781348246074 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:NOSE'>featureClockRate:Uto-Aztecan_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 0.4116720303023893 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:OLD'>featureClockRate:Uto-Aztecan_gold_common-concepts:OLD[1 1] (0.0,Infinity): 1.5401017231812166 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:ONE'>featureClockRate:Uto-Aztecan_gold_common-concepts:ONE[1 1] (0.0,Infinity): 0.8516067042916393 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:PATH_OR_ROAD'>featureClockRate:Uto-Aztecan_gold_common-concepts:PATH_OR_ROAD[1 1] (0.0,Infinity): 0.3275017812963734 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:PERSON'>featureClockRate:Uto-Aztecan_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 0.7925160808738652 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Uto-Aztecan_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 1.233056973918095 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:RED'>featureClockRate:Uto-Aztecan_gold_common-concepts:RED[1 1] (0.0,Infinity): 1.625765183957495 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:ROOT'>featureClockRate:Uto-Aztecan_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 0.6484114954513294 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:ROPE'>featureClockRate:Uto-Aztecan_gold_common-concepts:ROPE[1 1] (0.0,Infinity): 1.322672782965575 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:ROUND'>featureClockRate:Uto-Aztecan_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 1.8362362804765024 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SALT'>featureClockRate:Uto-Aztecan_gold_common-concepts:SALT[1 1] (0.0,Infinity): 0.838455544729606 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SAND'>featureClockRate:Uto-Aztecan_gold_common-concepts:SAND[1 1] (0.0,Infinity): 0.8171660707761204 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SAY'>featureClockRate:Uto-Aztecan_gold_common-concepts:SAY[1 1] (0.0,Infinity): 1.1085813036889698 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SEE'>featureClockRate:Uto-Aztecan_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.8358644377900997 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SEED'>featureClockRate:Uto-Aztecan_gold_common-concepts:SEED[1 1] (0.0,Infinity): 0.3211052889393472 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SHARP'>featureClockRate:Uto-Aztecan_gold_common-concepts:SHARP[1 1] (0.0,Infinity): 0.6595158947053367 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SHORT'>featureClockRate:Uto-Aztecan_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 1.356298235179793 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SKIN'>featureClockRate:Uto-Aztecan_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 2.053138844442136 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SKY'>featureClockRate:Uto-Aztecan_gold_common-concepts:SKY[1 1] (0.0,Infinity): 0.7500275640509871 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SLEEP'>featureClockRate:Uto-Aztecan_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 0.699003542161112 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SMALL'>featureClockRate:Uto-Aztecan_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 0.9012634665559578 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SMOKE_(EXHAUST)'>featureClockRate:Uto-Aztecan_gold_common-concepts:SMOKE_(EXHAUST)[1 1] (0.0,Infinity): 0.9703980988398101 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SNAKE'>featureClockRate:Uto-Aztecan_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 0.4985108564797549 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:STAR'>featureClockRate:Uto-Aztecan_gold_common-concepts:STAR[1 1] (0.0,Infinity): 0.7972035933426667 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:STONE'>featureClockRate:Uto-Aztecan_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.15417239285693612 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SUN'>featureClockRate:Uto-Aztecan_gold_common-concepts:SUN[1 1] (0.0,Infinity): 1.0109284607780364 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:SWIM'>featureClockRate:Uto-Aztecan_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 1.3551030448090489 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:TAIL'>featureClockRate:Uto-Aztecan_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 0.2779310045792329 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:THAT'>featureClockRate:Uto-Aztecan_gold_common-concepts:THAT[1 1] (0.0,Infinity): 1.4045530948139935 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:THIS'>featureClockRate:Uto-Aztecan_gold_common-concepts:THIS[1 1] (0.0,Infinity): 2.6505833103102856 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:THOU'>featureClockRate:Uto-Aztecan_gold_common-concepts:THOU[1 1] (0.0,Infinity): 1.1613927037753144 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:THROW'>featureClockRate:Uto-Aztecan_gold_common-concepts:THROW[1 1] (0.0,Infinity): 0.9870532916203156 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:TONGUE'>featureClockRate:Uto-Aztecan_gold_common-concepts:TONGUE[1 1] (0.0,Infinity): 0.1355555687229137 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:TOOTH'>featureClockRate:Uto-Aztecan_gold_common-concepts:TOOTH[1 1] (0.0,Infinity): 0.15880970743947145 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:TREE'>featureClockRate:Uto-Aztecan_gold_common-concepts:TREE[1 1] (0.0,Infinity): 1.3031375394718807 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:TWO'>featureClockRate:Uto-Aztecan_gold_common-concepts:TWO[1 1] (0.0,Infinity): 0.1881132768563363 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:VOMIT'>featureClockRate:Uto-Aztecan_gold_common-concepts:VOMIT[1 1] (0.0,Infinity): 0.8477931830106551 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:WALK'>featureClockRate:Uto-Aztecan_gold_common-concepts:WALK[1 1] (0.0,Infinity): 1.085810619431495 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:WATER'>featureClockRate:Uto-Aztecan_gold_common-concepts:WATER[1 1] (0.0,Infinity): 0.20898322832179683 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:WE'>featureClockRate:Uto-Aztecan_gold_common-concepts:WE[1 1] (0.0,Infinity): 1.0504428158531423 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:WHAT'>featureClockRate:Uto-Aztecan_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 1.2403124708807107 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:WHITE'>featureClockRate:Uto-Aztecan_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 1.3099390575697285 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:WHO'>featureClockRate:Uto-Aztecan_gold_common-concepts:WHO[1 1] (0.0,Infinity): 0.9543806012025918 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:WIND'>featureClockRate:Uto-Aztecan_gold_common-concepts:WIND[1 1] (0.0,Infinity): 0.41182460985342445 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:WOMAN'>featureClockRate:Uto-Aztecan_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 1.0695913594528046 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:YEAR'>featureClockRate:Uto-Aztecan_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 1.356986980074335 </statenode>
+<statenode id='featureClockRate:Uto-Aztecan_gold_common-concepts:YELLOW'>featureClockRate:Uto-Aztecan_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 0.8642350742326478 </statenode>
+<statenode id='featureClockRateGammaShape:Uto-Aztecan_gold_common-concepts'>featureClockRateGammaShape:Uto-Aztecan_gold_common-concepts[1 1] (1.1,100.0): 2.5337399384049517 </statenode>
+<statenode id='featureClockRateGammaScale:Uto-Aztecan_gold_common-concepts'>featureClockRateGammaScale:Uto-Aztecan_gold_common-concepts[1 1] (-Infinity,Infinity): 0.39467349621900355 </statenode>
+<statenode id='covarion_alpha.s:Uto-Aztecan_gold_common-concepts'>covarion_alpha.s:Uto-Aztecan_gold_common-concepts[1 1] (1.0E-4,1.0): 0.004718705238703557 </statenode>
+<statenode id='covarion_s.s:Uto-Aztecan_gold_common-concepts'>covarion_s.s:Uto-Aztecan_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.5403530938793812 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.4453976695358844,"accept":2862,"reject":255691,"acceptFC":2834,"rejectFC":251472,"rejectIv":121944,"rejectOp":121944},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":50690,"reject":206480,"acceptFC":49717,"rejectFC":203235,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":285,"reject":51010,"acceptFC":274,"rejectFC":50178,"rejectIv":26055,"rejectOp":26055},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":435,"reject":51455,"acceptFC":416,"rejectFC":50639,"rejectIv":5966,"rejectOp":5966},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":158816,"reject":357353,"acceptFC":156075,"rejectFC":351492,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.7140587367942228,"accept":9759,"reject":41769,"acceptFC":9659,"rejectFC":40997,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.6664739518965423,"accept":6134,"reject":45824,"acceptFC":6046,"rejectFC":45076,"rejectIv":16690,"rejectOp":16690},
+{"id":"UpDown","p":0.6903795336315899,"accept":8859,"reject":42821,"acceptFC":8771,"rejectFC":42087,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.39098665280337436,"accept":13376,"reject":38537,"acceptFC":13045,"rejectFC":38008,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":108252,"reject":63068,"acceptFC":106452,"rejectFC":62023,"rejectIv":59289,"rejectOp":59289},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":82187,"reject":89998,"acceptFC":81159,"rejectFC":88200,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":104369,"reject":66946,"acceptFC":102964,"rejectFC":65591,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.47974257307377083,"accept":11602,"reject":40344,"acceptFC":11452,"rejectFC":39619,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Uto-Aztecan_gold_common-concepts","p":0.48466065000853203,"accept":1315,"reject":3748,"acceptFC":1283,"rejectFC":3690,"rejectIv":65,"rejectOp":65},
+{"id":"covarion_alpha_scaler.s:Uto-Aztecan_gold_common-concepts","p":0.1733041904549487,"accept":5445,"reject":11809,"acceptFC":5279,"rejectFC":11681,"rejectIv":18,"rejectOp":18},
+{"id":"Uto-Aztecan_gold_common-concepts:covarion_s_scaler.s","p":0.43761035709335805,"accept":4740,"reject":12588,"acceptFC":4678,"rejectFC":12343,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateDeltaExchanger:default","p":1.43887291276541,"accept":11181,"reject":40253,"acceptFC":11022,"rejectFC":39613,"rejectIv":19504,"rejectOp":19504}
+]}
+-->

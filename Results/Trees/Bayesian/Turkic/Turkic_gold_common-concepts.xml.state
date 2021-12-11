@@ -1,0 +1,125 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>(((((((((0:0.1287332448752638,(4:0.08266461128706633,(7:0.05801818293455748,25:0.05801818293455748)45:0.024646428352508847)36:0.046068633588197475)39:0.020909112212860043,(19:0.09711347982018782,26:0.09711347982018782)55:0.05252887726793602)35:0.004641166179924744,((9:0.08276724986935272,14:0.08276724986935272)56:0.025492851521213764,10:0.10826010139056648)33:0.04602342187748211)54:0.010061473215233346,((((1:0.025460761991481066,23:0.025460761991481066)42:0.03687710108811637,21:0.06233786307959743)38:0.05360540378267188,((8:0.05471917594846335,11:0.05471917594846335)58:0.041513848082628944,(16:0.037453686174086384,29:0.037453686174086384)61:0.05877933785700591)50:0.01971024283117702)46:0.004277470727289831,((15:0.09508471375700293,(17:0.04404090218958821,22:0.04404090218958821)53:0.05104381156741472)52:0.02190656979273327,28:0.1169912835497362)40:0.003229454039822943)47:0.04412425889372279)48:0.03049937786121923,5:0.19484437434450116)44:0.008505454505292026,3:0.2033498288497932)60:0.05822838301291977,(2:0.14081907819798342,((12:0.08709224985131431,(24:0.047870469383854565,27:0.047870469383854565)41:0.03922178046745974)34:0.050790970142290115,20:0.13788321999360442)37:0.0029358582043789994)57:0.12075913366472954)51:0.034603729650955595,(((6:0.03728304142731801,31:0.03728304142731801)59:0.10063095755494159,18:0.1379139989822596)32:0.11190686577764664,13:0.24982086475990622)49:0.04636107675376233)43:0.06344290060687297,30:0.3596248421205415)62:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 6.579455888058533 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[62 1] (0,61): 16 56 29 58 48 34 45 21 12 50 10 42 6 25 32 21 38 17 9 30 5 29 49 10 48 12 38 51 13 55 9 13 13 7 16 1 29 38 41 59 31 61 43 2 42 56 32 22 5 32 20 38 33 54 54 3 36 48 37 60 35 17 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.7473927394777266 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:ARM_OR_HAND'>featureClockRate:Turkic_gold_common-concepts:ARM_OR_HAND[1 1] (0.0,Infinity): 0.7212567796644428 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:BACK'>featureClockRate:Turkic_gold_common-concepts:BACK[1 1] (0.0,Infinity): 1.320230654323121 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:BARK'>featureClockRate:Turkic_gold_common-concepts:BARK[1 1] (0.0,Infinity): 0.20953933266263425 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:BELLY'>featureClockRate:Turkic_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 1.4470451894906844 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:BIG'>featureClockRate:Turkic_gold_common-concepts:BIG[1 1] (0.0,Infinity): 1.009213843045721 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:BIRD'>featureClockRate:Turkic_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.6247000486266896 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:BITE'>featureClockRate:Turkic_gold_common-concepts:BITE[1 1] (0.0,Infinity): 0.9618566681357328 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:BONE'>featureClockRate:Turkic_gold_common-concepts:BONE[1 1] (0.0,Infinity): 0.17390136132506362 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:BREAST'>featureClockRate:Turkic_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 0.7688612496761414 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:BURN'>featureClockRate:Turkic_gold_common-concepts:BURN[1 1] (0.0,Infinity): 1.006740680552409 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:CLAW'>featureClockRate:Turkic_gold_common-concepts:CLAW[1 1] (0.0,Infinity): 1.9299271535143703 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:COLD'>featureClockRate:Turkic_gold_common-concepts:COLD[1 1] (0.0,Infinity): 0.40694118218935404 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:DIRTY'>featureClockRate:Turkic_gold_common-concepts:DIRTY[1 1] (0.0,Infinity): 0.5289888639436225 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:DOG'>featureClockRate:Turkic_gold_common-concepts:DOG[1 1] (0.0,Infinity): 0.6733942287137819 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:DRY'>featureClockRate:Turkic_gold_common-concepts:DRY[1 1] (0.0,Infinity): 0.4539042939342225 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Turkic_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 0.5879644853589108 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:EAT'>featureClockRate:Turkic_gold_common-concepts:EAT[1 1] (0.0,Infinity): 1.1449814049814864 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:EGG'>featureClockRate:Turkic_gold_common-concepts:EGG[1 1] (0.0,Infinity): 0.21806333893096436 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:EYE'>featureClockRate:Turkic_gold_common-concepts:EYE[1 1] (0.0,Infinity): 0.7110469943666988 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FALL'>featureClockRate:Turkic_gold_common-concepts:FALL[1 1] (0.0,Infinity): 1.301470999159294 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FAR'>featureClockRate:Turkic_gold_common-concepts:FAR[1 1] (0.0,Infinity): 1.0810573895409488 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)'>featureClockRate:Turkic_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)[1 1] (0.0,Infinity): 0.9502465085545413 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FEATHER'>featureClockRate:Turkic_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 3.0991695801375867 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FINGERNAIL'>featureClockRate:Turkic_gold_common-concepts:FINGERNAIL[1 1] (0.0,Infinity): 0.4756813238890054 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FIREWOOD'>featureClockRate:Turkic_gold_common-concepts:FIREWOOD[1 1] (0.0,Infinity): 0.3922655556536198 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FISH'>featureClockRate:Turkic_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.15370974821913125 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FLOWER'>featureClockRate:Turkic_gold_common-concepts:FLOWER[1 1] (0.0,Infinity): 1.2075383223985519 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Turkic_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 0.6110916877702135 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:FOOT_OR_LEG'>featureClockRate:Turkic_gold_common-concepts:FOOT_OR_LEG[1 1] (0.0,Infinity): 0.6382599680261861 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:GOOD'>featureClockRate:Turkic_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 0.4534978363301959 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:GRASS'>featureClockRate:Turkic_gold_common-concepts:GRASS[1 1] (0.0,Infinity): 1.7029123358576297 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:GREEN'>featureClockRate:Turkic_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 1.285897963873302 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:HAIR_(HEAD)'>featureClockRate:Turkic_gold_common-concepts:HAIR_(HEAD)[1 1] (0.0,Infinity): 0.4233489482782584 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:HEAR'>featureClockRate:Turkic_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 1.0598868431096635 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:HOT'>featureClockRate:Turkic_gold_common-concepts:HOT[1 1] (0.0,Infinity): 0.12012179227511866 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:I'>featureClockRate:Turkic_gold_common-concepts:I[1 1] (0.0,Infinity): 0.25557520256358923 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:KILL'>featureClockRate:Turkic_gold_common-concepts:KILL[1 1] (0.0,Infinity): 0.18826756400638806 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:KNEE'>featureClockRate:Turkic_gold_common-concepts:KNEE[1 1] (0.0,Infinity): 0.40324049977776366 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Turkic_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 0.4566280447632949 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:LAUGH'>featureClockRate:Turkic_gold_common-concepts:LAUGH[1 1] (0.0,Infinity): 0.32479870474313066 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:LEAF'>featureClockRate:Turkic_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 0.7540345667041706 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:LIE_DOWN'>featureClockRate:Turkic_gold_common-concepts:LIE_DOWN[1 1] (0.0,Infinity): 0.1189793291657616 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:MAN'>featureClockRate:Turkic_gold_common-concepts:MAN[1 1] (0.0,Infinity): 1.2713111052450587 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:MANY'>featureClockRate:Turkic_gold_common-concepts:MANY[1 1] (0.0,Infinity): 0.5374302571856946 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:MOUNTAIN_OR_HILL'>featureClockRate:Turkic_gold_common-concepts:MOUNTAIN_OR_HILL[1 1] (0.0,Infinity): 0.8316294041062879 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:MOUTH'>featureClockRate:Turkic_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 0.2883959558760104 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:NEAR'>featureClockRate:Turkic_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 2.608863992820657 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:NIGHT'>featureClockRate:Turkic_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 0.939094102995629 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:NOSE'>featureClockRate:Turkic_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 0.3974152673734048 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:OLD_(USED)'>featureClockRate:Turkic_gold_common-concepts:OLD_(USED)[1 1] (0.0,Infinity): 0.6724830064701559 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:PERSON'>featureClockRate:Turkic_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 1.0367811605123138 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Turkic_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 0.26703058126335866 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:ROOT'>featureClockRate:Turkic_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 1.5237004583147695 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:ROPE'>featureClockRate:Turkic_gold_common-concepts:ROPE[1 1] (0.0,Infinity): 2.1285768075656306 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:ROUND'>featureClockRate:Turkic_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 1.9104390170210839 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SAND'>featureClockRate:Turkic_gold_common-concepts:SAND[1 1] (0.0,Infinity): 0.3062410649825943 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SAY'>featureClockRate:Turkic_gold_common-concepts:SAY[1 1] (0.0,Infinity): 0.7613308509517824 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SEW'>featureClockRate:Turkic_gold_common-concepts:SEW[1 1] (0.0,Infinity): 1.0682987374787458 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SHARP'>featureClockRate:Turkic_gold_common-concepts:SHARP[1 1] (0.0,Infinity): 0.5283600873854795 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SHORT'>featureClockRate:Turkic_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 0.12631438649891447 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SIT'>featureClockRate:Turkic_gold_common-concepts:SIT[1 1] (0.0,Infinity): 0.32035752060652817 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SKIN'>featureClockRate:Turkic_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 1.262484214363519 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SKY'>featureClockRate:Turkic_gold_common-concepts:SKY[1 1] (0.0,Infinity): 0.3123206062185923 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SLEEP'>featureClockRate:Turkic_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 1.96927564843767 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SMALL'>featureClockRate:Turkic_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 1.0503261313908523 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SMOKE_(EXHAUST)'>featureClockRate:Turkic_gold_common-concepts:SMOKE_(EXHAUST)[1 1] (0.0,Infinity): 0.45379412700621935 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SNAKE'>featureClockRate:Turkic_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 0.39202856118065094 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SUCK'>featureClockRate:Turkic_gold_common-concepts:SUCK[1 1] (0.0,Infinity): 0.561261551408346 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SUN'>featureClockRate:Turkic_gold_common-concepts:SUN[1 1] (0.0,Infinity): 0.7132471559317107 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:SWIM'>featureClockRate:Turkic_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 1.2755773119003853 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:TAKE'>featureClockRate:Turkic_gold_common-concepts:TAKE[1 1] (0.0,Infinity): 0.14642946416742875 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:THAT'>featureClockRate:Turkic_gold_common-concepts:THAT[1 1] (0.0,Infinity): 0.8903413281707537 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:THEY'>featureClockRate:Turkic_gold_common-concepts:THEY[1 1] (0.0,Infinity): 0.20435950289164762 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:THICK'>featureClockRate:Turkic_gold_common-concepts:THICK[1 1] (0.0,Infinity): 0.5555711127071956 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:THIN'>featureClockRate:Turkic_gold_common-concepts:THIN[1 1] (0.0,Infinity): 1.511829974770178 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:THINK'>featureClockRate:Turkic_gold_common-concepts:THINK[1 1] (0.0,Infinity): 1.7501043822094329 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:THIS'>featureClockRate:Turkic_gold_common-concepts:THIS[1 1] (0.0,Infinity): 0.1331675679936034 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:THOU'>featureClockRate:Turkic_gold_common-concepts:THOU[1 1] (0.0,Infinity): 0.7208490343761572 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:THROW'>featureClockRate:Turkic_gold_common-concepts:THROW[1 1] (0.0,Infinity): 2.1280148210162073 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:TOOTH'>featureClockRate:Turkic_gold_common-concepts:TOOTH[1 1] (0.0,Infinity): 0.17229900258038966 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:TREE'>featureClockRate:Turkic_gold_common-concepts:TREE[1 1] (0.0,Infinity): 0.6915419983611356 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WALK'>featureClockRate:Turkic_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.8757335865866496 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WARM'>featureClockRate:Turkic_gold_common-concepts:WARM[1 1] (0.0,Infinity): 2.160346471389121 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WET'>featureClockRate:Turkic_gold_common-concepts:WET[1 1] (0.0,Infinity): 1.4302497157135483 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WHERE'>featureClockRate:Turkic_gold_common-concepts:WHERE[1 1] (0.0,Infinity): 1.0856034445764626 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WHITE'>featureClockRate:Turkic_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 0.7981833394429434 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WIDE'>featureClockRate:Turkic_gold_common-concepts:WIDE[1 1] (0.0,Infinity): 0.4667634144629293 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WIND'>featureClockRate:Turkic_gold_common-concepts:WIND[1 1] (0.0,Infinity): 0.5627714792830716 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WING'>featureClockRate:Turkic_gold_common-concepts:WING[1 1] (0.0,Infinity): 0.15595521358497416 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WOMAN'>featureClockRate:Turkic_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 2.5695712203792067 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:WORM'>featureClockRate:Turkic_gold_common-concepts:WORM[1 1] (0.0,Infinity): 0.822873315032869 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:YEAR'>featureClockRate:Turkic_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 0.15307849898138007 </statenode>
+<statenode id='featureClockRate:Turkic_gold_common-concepts:YELLOW'>featureClockRate:Turkic_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 0.15911872085465462 </statenode>
+<statenode id='featureClockRateGammaShape:Turkic_gold_common-concepts'>featureClockRateGammaShape:Turkic_gold_common-concepts[1 1] (1.1,100.0): 2.5248917516745024 </statenode>
+<statenode id='featureClockRateGammaScale:Turkic_gold_common-concepts'>featureClockRateGammaScale:Turkic_gold_common-concepts[1 1] (-Infinity,Infinity): 0.39605658315323977 </statenode>
+<statenode id='covarion_alpha.s:Turkic_gold_common-concepts'>covarion_alpha.s:Turkic_gold_common-concepts[1 1] (1.0E-4,1.0): 0.13791850870978395 </statenode>
+<statenode id='covarion_s.s:Turkic_gold_common-concepts'>covarion_s.s:Turkic_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.5271438400964878 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.3917740175288333,"accept":9668,"reject":248489,"acceptFC":9565,"rejectFC":244322,"rejectIv":111793,"rejectOp":111793},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":64720,"reject":193402,"acceptFC":63578,"rejectFC":190290,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":405,"reject":51386,"acceptFC":391,"rejectFC":50534,"rejectIv":26209,"rejectOp":26209},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":750,"reject":50382,"acceptFC":732,"rejectFC":49565,"rejectIv":6320,"rejectOp":6320},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":217882,"reject":297301,"acceptFC":214137,"rejectFC":292426,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.6753035364881179,"accept":10444,"reject":41437,"acceptFC":10332,"rejectFC":40667,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.5665172727899661,"accept":7653,"reject":44155,"acceptFC":7531,"rejectFC":43418,"rejectIv":13770,"rejectOp":13770},
+{"id":"UpDown","p":0.6753072777580612,"accept":11033,"reject":40257,"acceptFC":10928,"rejectFC":39524,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.37652533748878214,"accept":12920,"reject":38309,"acceptFC":12627,"rejectFC":37801,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":106652,"reject":65964,"acceptFC":104819,"rejectFC":64828,"rejectIv":59641,"rejectOp":59641},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":60825,"reject":110826,"acceptFC":59804,"rejectFC":109010,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":83406,"reject":88339,"acceptFC":82046,"rejectFC":86873,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.6529216782893466,"accept":11815,"reject":39710,"acceptFC":11696,"rejectFC":39039,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Turkic_gold_common-concepts","p":0.4443060637195373,"accept":1287,"reject":3900,"acceptFC":1253,"rejectFC":3846,"rejectIv":262,"rejectOp":262},
+{"id":"covarion_alpha_scaler.s:Turkic_gold_common-concepts","p":0.16625960795867786,"accept":5027,"reject":12333,"acceptFC":4840,"rejectFC":12238,"rejectIv":13,"rejectOp":13},
+{"id":"Turkic_gold_common-concepts:covarion_s_scaler.s","p":0.44250187330452156,"accept":4256,"reject":13145,"acceptFC":4189,"rejectFC":12931,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateDeltaExchanger:default","p":1.1926256139027789,"accept":16200,"reject":35723,"acceptFC":16011,"rejectFC":35002,"rejectIv":14952,"rejectOp":14952}
+]}
+-->

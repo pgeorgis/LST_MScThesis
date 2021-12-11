@@ -1,0 +1,106 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>(((((0:0.2814103829736624,6:0.2814103829736624)9:0.1813038952104078,4:0.4627142781840702)10:0.6869867978438032,2:1.1497010760278734)11:0.6904580462873551,(1:1.6738051168320909,3:1.6738051168320909)7:0.1663540054831376)8:1.1049476414733328,5:2.9451067637885613)12:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 0.7981937561922332 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[12 1] (0,11): 8 6 0 11 9 4 5 10 3 0 1 4 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 1.0642462115971552 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:ALL'>featureClockRate:Pomoan_gold_common-concepts:ALL[1 1] (0.0,Infinity): 4.03190864938729 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:ASH'>featureClockRate:Pomoan_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.03540704031470554 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:BARK'>featureClockRate:Pomoan_gold_common-concepts:BARK[1 1] (0.0,Infinity): 0.14488130861783216 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:BELLY'>featureClockRate:Pomoan_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 0.1357831018698371 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:BIG'>featureClockRate:Pomoan_gold_common-concepts:BIG[1 1] (0.0,Infinity): 0.07390162434285294 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:BLACK'>featureClockRate:Pomoan_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.7428823658644281 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:BLOOD'>featureClockRate:Pomoan_gold_common-concepts:BLOOD[1 1] (0.0,Infinity): 0.48993034375357647 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:BURN_(SOMETHING)'>featureClockRate:Pomoan_gold_common-concepts:BURN_(SOMETHING)[1 1] (0.0,Infinity): 0.49100056084039767 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:CLAW_OR_NAIL'>featureClockRate:Pomoan_gold_common-concepts:CLAW_OR_NAIL[1 1] (0.0,Infinity): 0.6079722500407476 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:CLOUD'>featureClockRate:Pomoan_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.048707563087573846 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:COLD'>featureClockRate:Pomoan_gold_common-concepts:COLD[1 1] (0.0,Infinity): 1.4797251657256716 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:COME'>featureClockRate:Pomoan_gold_common-concepts:COME[1 1] (0.0,Infinity): 0.4618364893982887 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:DIE'>featureClockRate:Pomoan_gold_common-concepts:DIE[1 1] (0.0,Infinity): 0.524794530665716 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:DOG'>featureClockRate:Pomoan_gold_common-concepts:DOG[1 1] (0.0,Infinity): 0.18962379762101644 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:DRINK'>featureClockRate:Pomoan_gold_common-concepts:DRINK[1 1] (0.0,Infinity): 0.4171061248360315 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:DRY'>featureClockRate:Pomoan_gold_common-concepts:DRY[1 1] (0.0,Infinity): 0.8164940818765807 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Pomoan_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 0.720431392938686 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:EAT'>featureClockRate:Pomoan_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.2945826694990975 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:FAR'>featureClockRate:Pomoan_gold_common-concepts:FAR[1 1] (0.0,Infinity): 0.2365804295631837 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:FEATHER'>featureClockRate:Pomoan_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 0.37223352181548724 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Pomoan_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 1.0985626990090127 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:FULL'>featureClockRate:Pomoan_gold_common-concepts:FULL[1 1] (0.0,Infinity): 0.5205940819752582 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:GIVE'>featureClockRate:Pomoan_gold_common-concepts:GIVE[1 1] (0.0,Infinity): 0.12001432601503767 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:GOOD'>featureClockRate:Pomoan_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 0.09912346849753223 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:GREEN'>featureClockRate:Pomoan_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 0.33690733562737507 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:HAIR'>featureClockRate:Pomoan_gold_common-concepts:HAIR[1 1] (0.0,Infinity): 0.5708777668768724 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:HAND'>featureClockRate:Pomoan_gold_common-concepts:HAND[1 1] (0.0,Infinity): 1.5131507381886953 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:HEAD'>featureClockRate:Pomoan_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 1.1267169891255309 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:HEAR'>featureClockRate:Pomoan_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 0.11770004451230767 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:HEART'>featureClockRate:Pomoan_gold_common-concepts:HEART[1 1] (0.0,Infinity): 0.5425955958461303 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:HEAVY'>featureClockRate:Pomoan_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 0.041917442727792145 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:I'>featureClockRate:Pomoan_gold_common-concepts:I[1 1] (0.0,Infinity): 6.955739074462454E-4 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:KILL'>featureClockRate:Pomoan_gold_common-concepts:KILL[1 1] (0.0,Infinity): 2.950336116907278 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:KNEE'>featureClockRate:Pomoan_gold_common-concepts:KNEE[1 1] (0.0,Infinity): 1.119782339211526 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Pomoan_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 1.7102462195626438 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:LEAF'>featureClockRate:Pomoan_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 2.465115202486524 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:LONG'>featureClockRate:Pomoan_gold_common-concepts:LONG[1 1] (0.0,Infinity): 0.25876508162543943 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:MAN'>featureClockRate:Pomoan_gold_common-concepts:MAN[1 1] (0.0,Infinity): 0.7411967334732568 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:MOON'>featureClockRate:Pomoan_gold_common-concepts:MOON[1 1] (0.0,Infinity): 1.2226503348894666 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:MOUNTAIN'>featureClockRate:Pomoan_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 0.04772697210608087 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:NECK'>featureClockRate:Pomoan_gold_common-concepts:NECK[1 1] (0.0,Infinity): 1.096943772430857 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:NEW'>featureClockRate:Pomoan_gold_common-concepts:NEW[1 1] (0.0,Infinity): 0.16421555560827658 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:NOT'>featureClockRate:Pomoan_gold_common-concepts:NOT[1 1] (0.0,Infinity): 1.112963637032025 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:ONE'>featureClockRate:Pomoan_gold_common-concepts:ONE[1 1] (0.0,Infinity): 0.5772215128763203 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:PERSON'>featureClockRate:Pomoan_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 0.21334173439694237 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Pomoan_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 0.1989069039288143 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:RED'>featureClockRate:Pomoan_gold_common-concepts:RED[1 1] (0.0,Infinity): 0.6845104543711007 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:ROOT'>featureClockRate:Pomoan_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 1.5973397240172473 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:ROUND'>featureClockRate:Pomoan_gold_common-concepts:ROUND[1 1] (0.0,Infinity): 1.2355436675808216 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SALT'>featureClockRate:Pomoan_gold_common-concepts:SALT[1 1] (0.0,Infinity): 3.2830922560182607 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SAND'>featureClockRate:Pomoan_gold_common-concepts:SAND[1 1] (0.0,Infinity): 0.15069870833445304 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SAY'>featureClockRate:Pomoan_gold_common-concepts:SAY[1 1] (0.0,Infinity): 1.009222633258749 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SEE'>featureClockRate:Pomoan_gold_common-concepts:SEE[1 1] (0.0,Infinity): 0.14513684375350017 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SEED'>featureClockRate:Pomoan_gold_common-concepts:SEED[1 1] (0.0,Infinity): 1.4365304747221392 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SKIN'>featureClockRate:Pomoan_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 0.3757758180997719 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SLEEP'>featureClockRate:Pomoan_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 0.029102052727408956 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SMALL'>featureClockRate:Pomoan_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 3.156201098795231 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SNAKE'>featureClockRate:Pomoan_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 1.02879195065556 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:STAND'>featureClockRate:Pomoan_gold_common-concepts:STAND[1 1] (0.0,Infinity): 0.2607785869798508 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:STAR'>featureClockRate:Pomoan_gold_common-concepts:STAR[1 1] (0.0,Infinity): 0.4904928830514184 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SUN'>featureClockRate:Pomoan_gold_common-concepts:SUN[1 1] (0.0,Infinity): 0.2088403665478905 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:SWIM'>featureClockRate:Pomoan_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 2.198045241472696 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:TAIL'>featureClockRate:Pomoan_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 0.09281285816698664 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:THAT'>featureClockRate:Pomoan_gold_common-concepts:THAT[1 1] (0.0,Infinity): 0.9568419832207572 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:THIS'>featureClockRate:Pomoan_gold_common-concepts:THIS[1 1] (0.0,Infinity): 0.8289638249918657 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:WALK'>featureClockRate:Pomoan_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.6283811267268387 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:WARM'>featureClockRate:Pomoan_gold_common-concepts:WARM[1 1] (0.0,Infinity): 0.29229371451831754 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:WHAT'>featureClockRate:Pomoan_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 0.19526848191394655 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:WHITE'>featureClockRate:Pomoan_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 0.4371795393479546 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:WHO'>featureClockRate:Pomoan_gold_common-concepts:WHO[1 1] (0.0,Infinity): 2.8965672461135243 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:WOMAN'>featureClockRate:Pomoan_gold_common-concepts:WOMAN[1 1] (0.0,Infinity): 2.0010840586874985 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:WORM'>featureClockRate:Pomoan_gold_common-concepts:WORM[1 1] (0.0,Infinity): 4.071657232079353 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:YEAR'>featureClockRate:Pomoan_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 0.39810364097248374 </statenode>
+<statenode id='featureClockRate:Pomoan_gold_common-concepts:YELLOW'>featureClockRate:Pomoan_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 1.0897819330755891 </statenode>
+<statenode id='featureClockRateGammaShape:Pomoan_gold_common-concepts'>featureClockRateGammaShape:Pomoan_gold_common-concepts[1 1] (1.1,100.0): 1.158931124117652 </statenode>
+<statenode id='featureClockRateGammaScale:Pomoan_gold_common-concepts'>featureClockRateGammaScale:Pomoan_gold_common-concepts[1 1] (-Infinity,Infinity): 0.8628640470427834 </statenode>
+<statenode id='covarion_alpha.s:Pomoan_gold_common-concepts'>covarion_alpha.s:Pomoan_gold_common-concepts[1 1] (1.0E-4,1.0): 0.5548407185932643 </statenode>
+<statenode id='covarion_s.s:Pomoan_gold_common-concepts'>covarion_s.s:Pomoan_gold_common-concepts[1 1] (1.0E-4,Infinity): 3.0157560734293525 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.992391403815541,"accept":42593,"reject":215371,"acceptFC":42447,"rejectFC":211199,"rejectIv":83771,"rejectOp":83771},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":99238,"reject":158435,"acceptFC":97660,"rejectFC":155745,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":3922,"reject":47880,"acceptFC":3861,"rejectFC":47101,"rejectIv":28278,"rejectOp":28278},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":2711,"reject":48978,"acceptFC":2667,"rejectFC":48165,"rejectIv":23240,"rejectOp":23240},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":237271,"reject":278132,"acceptFC":233254,"rejectFC":273776,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.5253777559474444,"accept":12594,"reject":38794,"acceptFC":12431,"rejectFC":38173,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.43109332349044055,"accept":13491,"reject":38187,"acceptFC":13344,"rejectFC":37479,"rejectIv":7797,"rejectOp":7797},
+{"id":"UpDown","p":0.5276295550925556,"accept":13064,"reject":38121,"acceptFC":12909,"rejectFC":37419,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.21967242984895508,"accept":14796,"reject":36407,"acceptFC":14291,"rejectFC":36051,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":80981,"reject":91385,"acceptFC":79349,"rejectFC":90169,"rejectIv":69639,"rejectOp":69639},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":73436,"reject":98731,"acceptFC":71627,"rejectFC":97786,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":95600,"reject":76974,"acceptFC":93478,"rejectFC":76286,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.2897326716004405,"accept":9883,"reject":41724,"acceptFC":9436,"rejectFC":41364,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Pomoan_gold_common-concepts","p":0.36071429574100805,"accept":594,"reject":4624,"acceptFC":559,"rejectFC":4571,"rejectIv":1021,"rejectOp":1021},
+{"id":"covarion_alpha_scaler.s:Pomoan_gold_common-concepts","p":0.055803904974075565,"accept":1672,"reject":15733,"acceptFC":1486,"rejectFC":15622,"rejectIv":14584,"rejectOp":14584},
+{"id":"Pomoan_gold_common-concepts:covarion_s_scaler.s","p":0.16969975618346245,"accept":4917,"reject":12455,"acceptFC":4738,"rejectFC":12348,"rejectIv":76,"rejectOp":76},
+{"id":"featureClockRateDeltaExchanger:default","p":1.4254211496843041,"accept":14183,"reject":37124,"acceptFC":14067,"rejectFC":36390,"rejectIv":20060,"rejectOp":20060}
+]}
+-->

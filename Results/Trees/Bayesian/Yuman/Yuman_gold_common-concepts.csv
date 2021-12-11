@@ -1,0 +1,574 @@
+Language_ID,Feature_ID,IPA,Value
+Cocopa,COLD,xsuːɾ,1
+Ipai,COLD,xəʧuːɹ,1
+Mohave,COLD,haʧuːrk,1
+Tipai,COLD,ʃuːkˈat,2
+Yavapai,COLD,mˈúni,3
+Cocopa,DOG,xat,4
+Ipai,DOG,ʔəxat,4
+Mohave,DOG,hatʧoq,4
+Tipai,DOG,xat,4
+Yavapai,DOG,kθˈar,5
+Cocopa,KNOW (SOMETHING),ʔuːjˈaː,6
+Tipai,KNOW (SOMETHING),uːjˈaːw,6
+Ipai,KNOW (SOMETHING),n̪uɹ,7
+Mohave,KNOW (SOMETHING),suːpawm,8
+Yavapai,KNOW (SOMETHING),spˈo,8
+Cocopa,CLOUD,kʷiː,9
+Ipai,CLOUD,ʔəkʷiːj,9
+Mohave,CLOUD,ʔiːkʷe,9
+Tipai,CLOUD,kʷiː,9
+Yavapai,CLOUD,ʔkʷˈi,9
+Cocopa,FOOT,ʔimˈiː,10
+Ipai,FOOT,əmilʲ,10
+Mohave,FOOT,iːme,10
+Tipai,FOOT,miː,10
+Yavapai,FOOT,mˈi,10
+Cocopa,NECK,mpuk,11
+Ipai,NECK,iːpuk,11
+Ipai,NECK,əjəpuk,11
+Tipai,NECK,iːpˈuk,11
+Mohave,NECK,maʎaqe,12
+Yavapai,NECK,mlqˈí,12
+Cocopa,STONE,xuːɾ,13
+Ipai,STONE,ʔəwilʲ,14
+Mohave,STONE,ʔaviː,14
+Tipai,STONE,wiː,14
+Yavapai,STONE,ʔwˈíˑ,14
+Cocopa,WIND,ʧxa,15
+Mohave,WIND,mataha,15
+Mohave,WIND,matha,15
+Tipai,WIND,mat̪xˈa,15
+Yavapai,WIND,mˌathˈaja,15
+Yavapai,WIND,mˌathˈâːja,15
+Yavapai,WIND,mˌathˈája,15
+Ipai,WIND,jaːjp,16
+Cocopa,KNEE,ʔimˈiːtaːkˈaːɲ,17
+Ipai,KNEE,məxət̪un̪,18
+Ipai,KNEE,xəmət̪un̪,18
+Mohave,KNEE,iːmemipuk,19
+Tipai,KNEE,miːnəpˈuk,19
+Yavapai,KNEE,mipˈúk,19
+Cocopa,WHITE,xmaːʎ̥,20
+Ipai,WHITE,n̪əməʂap,21
+Mohave,WHITE,ɲamasav,21
+Tipai,WHITE,ɲəmʃˈap,21
+Yavapai,WHITE,ɲmsˈaβi,21
+Cocopa,EAT,ma,22
+Mohave,EAT,ʔiʧamam,22
+Mohave,EAT,ʔiʧamaːm,22
+Yavapai,EAT,mˈáˑ,22
+Ipai,EAT,wəsaːw,23
+Tipai,EAT,saːw,23
+Cocopa,HEAVY,ɲix,24
+Ipai,HEAVY,wən̪ix,24
+Ipai,HEAVY,wən̪ax,24
+Mohave,HEAVY,ineːh,24
+Mohave,HEAVY,ineːθ,24
+Tipai,HEAVY,nix,24
+Yavapai,HEAVY,nˈoˑ,25
+Cocopa,TAIL,ʃjuʎ̥,26
+Ipai,TAIL,xəjuɬ,26
+Tipai,TAIL,ʃəjˈuɬ,26
+Mohave,TAIL,iːʔar,27
+Yavapai,TAIL,βhˈé,28
+Cocopa,TOOTH,ʔijˈa,29
+Ipai,TOOTH,əjaːw,29
+Mohave,TOOTH,iːðoː,29
+Yavapai,TOOTH,jˈoˑ,29
+Cocopa,WATER,xa,30
+Ipai,WATER,ʔəxaː,30
+Mohave,WATER,ʔaha,30
+Tipai,WATER,xa,30
+Yavapai,WATER,ʔhˈá,30
+Cocopa,ROAD,waɲˈa,31
+Ipai,ROAD,ʔuːnʲaː,31
+Mohave,ROAD,ʔavʔuɲe,31
+Tipai,ROAD,waʔɲˈa,31
+Yavapai,ROAD,ʔɲˈa,31
+Cocopa,LEAF,wal,32
+Ipai,LEAF,ʔəjaɬ,33
+Mohave,LEAF,hamaʎ,34
+Yavapai,LEAF,θˈéqa,35
+Cocopa,HEAR,ʔiːʔˈiːp,36
+Ipai,HEAR,jip,36
+Mohave,HEAR,aʔavk,36
+Tipai,HEAR,ʔip,36
+Yavapai,HEAR,ʔˈêˑβi,36
+Cocopa,MEAT,ʔimˈaːʧ,37
+Ipai,MEAT,kukʷaːjp,38
+Mohave,MEAT,kʷiːkʷaj,38
+Mohave,MEAT,kiːkʷaj,38
+Tipai,MEAT,kʷak,39
+Yavapai,MEAT,kʷˌeˑθˈoβa,40
+Cocopa,DIE,mʂpa,41
+Tipai,DIE,məspˈa,41
+Ipai,DIE,məlaj,42
+Mohave,DIE,ipujk,43
+Yavapai,DIE,pˈi,43
+Cocopa,DRINK,ʂi,44
+Ipai,DRINK,wəsiː,44
+Mohave,DRINK,iθiːm,44
+Tipai,DRINK,si,44
+Yavapai,DRINK,θˈiˑ,44
+Cocopa,NEW,xaɲ,45
+Ipai,NEW,wəxaj,46
+Mohave,NEW,mapiːθ,47
+Yavapai,NEW,iβmˈû,48
+Cocopa,NOT,lum,49
+Ipai,NOT,umaːw,49
+Mohave,NOT,mot,49
+Tipai,NOT,xəmˈaːw,49
+Yavapai,NOT,ʔˈúmi,49
+Cocopa,FAT (FROM ANIMALS),ʃaj,50
+Mohave,FAT (FROM ANIMALS),ʔamusaj,50
+Yavapai,FAT (FROM ANIMALS),sˈaja,50
+Cocopa,SIT,wa,51
+Mohave,SIT,ivak,51
+Tipai,SIT,wa,51
+Yavapai,SIT,wˈa,51
+Ipai,SIT,wən̪ak,52
+Cocopa,EGG,xmˌaʂuʔˈap,53
+Mohave,EGG,iθʔaw,53
+Ipai,EGG,ʔuɹ,54
+Tipai,EGG,ʃəjˈaʧ,55
+Yavapai,EGG,sqˈáwa,56
+Cocopa,BARK,ʂxujˈal,57
+Ipai,BARK,xaːsəjaɬ,57
+Mohave,BARK,ʧaθkʷil,58
+Yavapai,BARK,θpˈîla,59
+Cocopa,ROOT,ʃma,60
+Ipai,ROOT,pəxəmaː,60
+Mohave,ROOT,sama,60
+Mohave,ROOT,ʔiʧsama,60
+Yavapai,ROOT,ʔʔˌiˑmsmˈáˑ,60
+Tipai,ROOT,waxənˈu,61
+Cocopa,FIRE,ʔaʔˈaː,62
+Ipai,FIRE,ʔaːw,62
+Mohave,FIRE,ʔaʔaw,62
+Yavapai,FIRE,ʔʔˈó,62
+Cocopa,SKIN,ɲkʷʔaɬ,63
+Ipai,SKIN,əkʷaɬʲ,63
+Mohave,SKIN,ʧaθkʷil,63
+Yavapai,SKIN,θpˈîla,64
+Cocopa,ASH,xmʔuɬ,65
+Mohave,ASH,hamʔuːʎ,65
+Yavapai,ASH,ʔmhˈúˑl,65
+Yavapai,ASH,ʔmhˈûˑl,65
+Ipai,ASH,ʔəmpiɬ,66
+Cocopa,THAT,ʂuː,67
+Cocopa,THAT,ʔuʂˈuː,67
+Ipai,THAT,puː,68
+Tipai,THAT,puː,68
+Mohave,THAT,hovaʧ,69
+Yavapai,THAT,ɲθˈa,70
+Cocopa,HAIR,mxʷaɬ,71
+Ipai,HAIR,xəɬʲt̪aː,72
+Tipai,HAIR,ʎ̥t̪a,72
+Mohave,HAIR,iʔe,73
+Mohave,HAIR,ɲiʔe,73
+Yavapai,HAIR,qwˈawa,74
+Cocopa,MOON,xʎ̥ʔa,75
+Ipai,MOON,xəɬʲaː,75
+Mohave,MOON,haʎʔa,75
+Yavapai,MOON,hlˈa,75
+Cocopa,ONE,ʃit,76
+Ipai,ONE,ʔəxin̪k,76
+Mohave,ONE,ʔasentk,76
+Tipai,ONE,ʃin,76
+Yavapai,ONE,ʔsˈiti,76
+Yavapai,ONE,ʔsˈiˑti,76
+Cocopa,I,ɲaːʧ,77
+Ipai,I,ʔənʲaːʧ,77
+Mohave,I,ʔiɲeʧ,77
+Tipai,I,ɲaːʧ,77
+Yavapai,I,ʔɲˈaʧi,77
+Cocopa,WORM,maʔˈiːʎ̥,78
+Ipai,WORM,iɬ,78
+Mohave,WORM,iʔˈiːʎva,78
+Yavapai,WORM,ʔʔˈîˑla,78
+Cocopa,FISH,siʔˈiʎ̥,79
+Mohave,FISH,ʔaʧiː,79
+Yavapai,FISH,ʔʧˈiˑ,79
+Cocopa,SMALL,ʔiʎʧˈaʃ,80
+Ipai,SMALL,ʔəst̪ik,81
+Mohave,SMALL,iʧʔawk,82
+Tipai,SMALL,ʎəpˈiʃ,83
+Yavapai,SMALL,kˈeʧ,84
+Cocopa,SHORT,xʎʔut,85
+Yavapai,SHORT,ʧkrˈoti,85
+Ipai,SHORT,məputk,86
+Mohave,SHORT,wenawen,87
+Tipai,SHORT,ləʔˈuɲ,87
+Cocopa,MOUTH,ʔijˈa,88
+Ipai,MOUTH,aː,88
+Mohave,MOUTH,iːja,88
+Tipai,MOUTH,aː,88
+Yavapai,MOUTH,jˈa,88
+Cocopa,BURN (SOMETHING),ʎ̥maɾ,89
+Tipai,BURN (SOMETHING),aʎ̥mˈar,89
+Ipai,BURN (SOMETHING),aːɹaːw,90
+Mohave,BURN (SOMETHING),tapoːmm,91
+Yavapai,BURN (SOMETHING),tˈu,92
+Cocopa,WE,ɲaːʧ,93
+Ipai,WE,ʔənʲaːwapʧ,93
+Mohave,WE,ʔiɲeːʧvʧ,93
+Tipai,WE,ɲaʔwˈaʧ,93
+Yavapai,WE,ʔɲˈaʧβ,93
+Cocopa,BIRD,ʃa,94
+Ipai,BIRD,ʔaːʂaː,94
+Tipai,BIRD,aʔʃˈa,94
+Tipai,BIRD,aːʃˈa,94
+Yavapai,BIRD,ʔʧsˈa,94
+Mohave,BIRD,ʔiʧajer,95
+Mohave,BIRD,ʔiʧijer,95
+Cocopa,PERSON,ʧapˈaj,96
+Ipai,PERSON,ʔiːpaj,96
+Mohave,PERSON,piʔpa,96
+Mohave,PERSON,piʔipa,96
+Mohave,PERSON,piːpa,96
+Tipai,PERSON,t̪iːpˈaj,96
+Yavapai,PERSON,ʔpˈáˑ,96
+Yavapai,PERSON,ʔpˈâˑ,96
+Cocopa,BIG,pt̪aj,97
+Mohave,BIG,vaʎtajm,97
+Mohave,BIG,vatajm,97
+Tipai,BIG,t̪aj,97
+Yavapai,BIG,βtˈe,97
+Ipai,BIG,ʔiːkuː,98
+Cocopa,BREAST,xʧkaɾ,99
+Cocopa,BREAST,ʧxkaɾ,99
+Tipai,BREAST,t̪əxkˈar,99
+Ipai,BREAST,iːʧix,100
+Mohave,BREAST,iːwa,101
+Yavapai,BREAST,ɲmˈaja,102
+Cocopa,HAND,ʔiʃˈaːʎ̥,103
+Ipai,HAND,əsaɬʲ,103
+Mohave,HAND,iːsaʎ,103
+Tipai,HAND,ʃaʎ̥,103
+Yavapai,HAND,sˈal,103
+Cocopa,SPHERICAL (ROUND IN THREE DIMENSIONS),ɾʔuɾ,104
+Ipai,SPHERICAL (ROUND IN THREE DIMENSIONS),ʔəlul,104
+Yavapai,SPHERICAL (ROUND IN THREE DIMENSIONS),klʔˈulki,104
+Mohave,SPHERICAL (ROUND IN THREE DIMENSIONS),jenajen,105
+Cocopa,SEE,wiː,106
+Ipai,SEE,əwuːw,106
+Tipai,SEE,wiːw,106
+Mohave,SEE,ijuːk,107
+Yavapai,SEE,ʔˈuˑ,107
+Cocopa,SMOKE (EXHAUST),xjaj,108
+Ipai,SMOKE (EXHAUST),ʔuːxuj,108
+Mohave,SMOKE (EXHAUST),ʔahʷaː,108
+Yavapai,SMOKE (EXHAUST),ʔˌohʷˈaja,108
+Cocopa,STAND,pʔaː,109
+Mohave,STAND,ivʔawm,109
+Tipai,STAND,pʔaw,109
+Ipai,STAND,pəxəkʷiː,110
+Ipai,STAND,pəxkʷiː,110
+Yavapai,STAND,βskʷˈiˑ,110
+Cocopa,SNAKE,ʔawˈi,111
+Mohave,SNAKE,ʔave,111
+Tipai,SNAKE,aʔwˈi,111
+Yavapai,SNAKE,ʔlwˈí,111
+Yavapai,SNAKE,ʔlwˈî,111
+Cocopa,TREE,ʔajˈaː,112
+Ipai,TREE,ʔilʲ,113
+Tipai,TREE,ʔiː,113
+Yavapai,TREE,ʔʔˈiˑ,113
+Cocopa,FAR,kuɾ,114
+Ipai,FAR,ʔəkuɹ,114
+Tipai,FAR,kur,114
+Mohave,FAR,ʔamiːʧk,115
+Yavapai,FAR,twˈaji,116
+Yavapai,FAR,twˈaˑji,116
+Cocopa,BELLY,ʔiʧˈu,117
+Ipai,BELLY,ət̪uː,117
+Mohave,BELLY,iːto,117
+Tipai,BELLY,t̪u,117
+Yavapai,BELLY,mnˈûˑna,118
+Cocopa,BONE,ɲjaːk,119
+Ipai,BONE,aq,119
+Mohave,BONE,ɲasak,119
+Tipai,BONE,ak,119
+Yavapai,BONE,ʧjˈaˑka,119
+Cocopa,SALT,ʂʔiɾ,120
+Ipai,SALT,ʔəsilʲ,121
+Mohave,SALT,ʔaθʔiː,121
+Yavapai,SALT,ʔθˈiˑ,121
+Tipai,SALT,saːl,122
+Cocopa,RAIN (PRECIPITATION),pʔaj,123
+Mohave,RAIN (PRECIPITATION),kuvʔaw,123
+Yavapai,RAIN (PRECIPITATION),kˌiβˈâwa,123
+Ipai,RAIN (PRECIPITATION),ʔəkʷij,124
+Mohave,RAIN (PRECIPITATION),kuvʔaw,124
+Tipai,RAIN (PRECIPITATION),kʷiː,124
+Yavapai,RAIN (PRECIPITATION),kˌiβˈâwa,124
+Cocopa,SLEEP,ʃma,125
+Ipai,SLEEP,xəmaː,125
+Mohave,SLEEP,ismam,125
+Tipai,SLEEP,ʃəmˈa,125
+Yavapai,SLEEP,smˈaː,125
+Yavapai,SLEEP,smˈaˑ,125
+Cocopa,WOMAN,sʔak,126
+Mohave,WOMAN,θiɲaʔaːk,126
+Tipai,WOMAN,ɲəʧʔˈak,126
+Ipai,WOMAN,sinʲ,127
+Mohave,WOMAN,θiɲaʔaːk,127
+Yavapai,WOMAN,βqˈí,128
+Yavapai,WOMAN,pqˈí,128
+Cocopa,LONG,kuʎ̥,129
+Ipai,LONG,ʔəquɬ,129
+Mohave,LONG,ʔakʲuːʎm,129
+Yavapai,LONG,kʲˈuˑli,129
+Cocopa,MOUNTAIN,wiː,130
+Mohave,MOUNTAIN,ʔaviː,130
+Yavapai,MOUNTAIN,ʔwˈíˑ,130
+Ipai,MOUNTAIN,mat̪ət̪aj,131
+Tipai,MOUNTAIN,matkʷat̪ˈaj,131
+Cocopa,WALK,ʔaː,132
+Ipai,WALK,waː,132
+Mohave,WALK,ijemk,132
+Tipai,WALK,aː,132
+Yavapai,WALK,jˈaˑmi,132
+Yavapai,WALK,jˈami,132
+Cocopa,DRY,ʂʔaɾ,133
+Ipai,DRY,saːj,134
+Tipai,DRY,sʔaːj,134
+Mohave,DRY,iroːvk,135
+Yavapai,DRY,rˈuβi,135
+Cocopa,THIS,piː,136
+Cocopa,THIS,ʔupˈiː,136
+Ipai,THIS,pəjaː,136
+Mohave,THIS,viðaʧ,136
+Tipai,THIS,pəjˈa,136
+Yavapai,THIS,βjˈa,136
+Cocopa,LIE (REST),jak,137
+Ipai,LIE (REST),jaq,137
+Mohave,LIE (REST),iðikk,137
+Tipai,LIE (REST),jak,137
+Yavapai,LIE (REST),jˈâki,137
+Cocopa,COME,jiː,138
+Mohave,COME,iðiːk,138
+Ipai,COME,wəjiw,139
+Tipai,COME,jiw,139
+Yavapai,COME,jˈûwi,139
+Cocopa,NOSE,ʔixˈu,140
+Ipai,NOSE,əxuː,140
+Mohave,NOSE,iːhu,140
+Tipai,NOSE,xu,140
+Yavapai,NOSE,hˈúː,140
+Cocopa,NIGHT,ʧɲam,141
+Mohave,NIGHT,tiːɲam,141
+Tipai,NIGHT,t̪iːɲˈam,141
+Ipai,NIGHT,kuxun,142
+Yavapai,NIGHT,hiˑpˈaˑ,143
+Cocopa,KILL,nak,144
+Ipai,KILL,aːmuːʧ,145
+Tipai,KILL,aːmˈuːʧ,145
+Mohave,KILL,tapujm,146
+Yavapai,KILL,nˈéhi,147
+Cocopa,RED,xʷat,148
+Ipai,RED,ʔəxʷat,148
+Mohave,RED,ʔahʷatm,148
+Mohave,RED,ʔahʷaːtm,148
+Tipai,RED,xʷat,148
+Yavapai,RED,ʔhʷˈati,148
+Cocopa,HEART,ʔijˈaːj,149
+Mohave,HEART,iːwa,149
+Yavapai,HEART,iˑwˈáˑja,149
+Ipai,HEART,iːʧix,150
+Tipai,HEART,iːʧˈaʃ,150
+Cocopa,SWIM,xaʎ̥nup,151
+Tipai,SWIM,xanˈup,151
+Ipai,SWIM,aːpuɬ,152
+Mohave,SWIM,ʔahaʎaʔoːpk,153
+Yavapai,SWIM,ʔhˌaθpˈuˑji,154
+Cocopa,TWO,xwak,155
+Ipai,TWO,xəwak,155
+Mohave,TWO,havikk,155
+Tipai,TWO,xəwˈak,155
+Yavapai,TWO,hwˈâki,155
+Cocopa,WHAT,luːɲ,156
+Ipai,WHAT,ʔuːʧ,157
+Mohave,WHAT,kuːʧ,158
+Tipai,WHAT,maːjˈiːʧ,159
+Yavapai,WHAT,kˈaβ,160
+Cocopa,STAR,kʷʎ̥ap,161
+Ipai,STAR,kʷən̪məsaːp,162
+Mohave,STAR,hamuse,163
+Yavapai,STAR,hˌammsˈíˑ,163
+Cocopa,BLOOD,ɲxʷat,164
+Ipai,BLOOD,ʔəxʷat,164
+Mohave,BLOOD,ɲahʷat,164
+Tipai,BLOOD,xʷat,164
+Yavapai,BLOOD,ʔhʷˈata,164
+Cocopa,SAY,ʔi,165
+Ipai,SAY,wiː,165
+Mohave,SAY,im,165
+Tipai,SAY,ʔi,165
+Tipai,SAY,i,165
+Yavapai,SAY,ʔˈiˑ,165
+Cocopa,BLACK,ɲiːʎ̥,166
+Ipai,BLACK,nʲiɬʲ,166
+Mohave,BLACK,ɲaːʔiːʎ,166
+Tipai,BLACK,ɲiʎ̥,166
+Yavapai,BLACK,ʔɲˈáː,166
+Cocopa,YELLOW,qʷaʂ,167
+Ipai,YELLOW,ʔəkʷas,167
+Mohave,YELLOW,ʔaqʷaθm,167
+Mohave,YELLOW,ʔaqʷaːθm,167
+Tipai,YELLOW,kʷas,167
+Yavapai,YELLOW,ʔqʷˈaθi,167
+Cocopa,WARM,ʎ̥ap,168
+Tipai,WARM,ʎ̥ap,168
+Ipai,WARM,wəɹaːw,169
+Yavapai,WARM,ʔrˈuji,169
+Mohave,WARM,ipiʎk,170
+Mohave,WARM,ipiːʎk,170
+Cocopa,SAND,mˌatʎ̥ʃʔˈaː,171
+Ipai,SAND,məsxaɹaːj,171
+Mohave,SAND,ʔamatsaʎʔaj,171
+Mohave,SAND,saʎʔaj,171
+Yavapai,SAND,ʔhˌaʧwˈá,172
+Cocopa,TONGUE,mpaʎ̥,173
+Ipai,TONGUE,ən̪əpaɬ,173
+Mohave,TONGUE,iːpaʎ,173
+Tipai,TONGUE,xənpˈaɬ,173
+Yavapai,TONGUE,himpˈál,173
+Yavapai,TONGUE,himpˈâl,173
+Cocopa,NEAR,xɾpaj,174
+Ipai,NEAR,xəlʲəpaj,174
+Tipai,NEAR,xəʎpˈaj,174
+Yavapai,NEAR,ipˈé,174
+Mohave,NEAR,ipanm,175
+Cocopa,GREEN,xpsiw,176
+Ipai,GREEN,xəpəʂiw,176
+Mohave,GREEN,havasuːk,176
+Tipai,GREEN,xəpʃˈiw,176
+Yavapai,GREEN,hˌaβsˈuˑwi,176
+Cocopa,THIN (OF SHAPE OF OBJECT),ɾʂaːw,177
+Ipai,THIN (OF SHAPE OF OBJECT),wəkʷiːɹp,178
+Mohave,THIN (OF SHAPE OF OBJECT),ʔuːhʔaːrk,179
+Yavapai,THIN (OF SHAPE OF OBJECT),θˈéqi,180
+Cocopa,EYE,ʔijˈu,181
+Ipai,EYE,əjiːw,181
+Mohave,EYE,iːðo,181
+Tipai,EYE,jiːw,181
+Yavapai,EYE,jˈuˑ,181
+Cocopa,SEED,jas,182
+Ipai,SEED,əjaʧ,182
+Mohave,SEED,iðiːʧ,182
+Yavapai,SEED,jˈaʧ,182
+Cocopa,GIVE,iː,183
+Ipai,GIVE,winʲ,183
+Tipai,GIVE,iɲ,183
+Mohave,GIVE,ajm,184
+Mohave,GIVE,aajm,184
+Yavapai,GIVE,ʔˈéˑ,184
+Cocopa,LIVER,ʧpuʂˈu,185
+Ipai,LIVER,ʧəpəsiː,185
+Mohave,LIVER,ʧavuθiː,185
+Tipai,LIVER,t̪əpsˈi,185
+Yavapai,LIVER,ʧβθˈiˑ,185
+Cocopa,MANY,ʎ̥aj,186
+Tipai,MANY,ʎ̥aw,186
+Ipai,MANY,xəmiːj,187
+Ipai,MANY,ʔəxmiːj,187
+Mohave,MANY,ʔapaʎm,188
+Yavapai,MANY,ʔtˈe,189
+Cocopa,CLAW OR NAIL,ɬkaxʷˈaw,190
+Cocopa,CLAW OR NAIL,ʎ̥kaxʷˈaw,190
+Ipai,CLAW OR NAIL,salʲəxʷuːw,190
+Mohave,CLAW OR NAIL,iːsaʎkuʎoho,190
+Yavapai,CLAW OR NAIL,slhβˈoˑ,190
+Tipai,CLAW OR NAIL,ʃaʎ̥nəpˈuːl,191
+Cocopa,EAR,ʃmaːl,192
+Ipai,EAR,xəmaɬ,192
+Mohave,EAR,ismaʎk,192
+Tipai,EAR,ʃəmˈaʎ̥,192
+Yavapai,EAR,smˈalka,192
+Cocopa,HORN (ANATOMY),kʷa,193
+Ipai,HORN (ANATOMY),əkʷaː,193
+Mohave,HORN (ANATOMY),iːkʷe,193
+Yavapai,HORN (ANATOMY),kʷˈá,193
+Cocopa,HEAD,mkuɾ,194
+Ipai,HEAD,xəɬʲt̪aː,195
+Mohave,HEAD,ʧuksa,196
+Mohave,HEAD,ʧuska,196
+Tipai,HEAD,ʎ̥mu,197
+Yavapai,HEAD,hˈúː,198
+Cocopa,EARTH (SOIL),mat,199
+Ipai,EARTH (SOIL),ʔəmat̪,199
+Mohave,EARTH (SOIL),ʔamat,199
+Tipai,EARTH (SOIL),mat,199
+Yavapai,EARTH (SOIL),mˈât,199
+Cocopa,YEAR,mˌatkˈaːm,200
+Tipai,YEAR,matwˈam,200
+Ipai,YEAR,ʔaːnʲ,201
+Mohave,YEAR,hoðe,202
+Mohave,YEAR,huːðe,202
+Yavapai,YEAR,ʔʧʰˈura,203
+Cocopa,GOOD,pxʷaj,204
+Ipai,GOOD,ʔəxan̪,205
+Tipai,GOOD,ʔiːxˈan,205
+Tipai,GOOD,xan,205
+Yavapai,GOOD,ʔhˈáni,205
+Mohave,GOOD,ʔahotk,206
+Mohave,GOOD,ʔahoːtk,206
+Cocopa,ALL,saːm,207
+Tipai,ALL,ʧamʎ̥,207
+Tipai,ALL,ɲaʧˈamʎ̥,207
+Ipai,ALL,nʲaːmat̪,208
+Mohave,ALL,paj,209
+Yavapai,ALL,pˈaja,209
+Cocopa,BITE,ʂaː,210
+Ipai,BITE,ʧuːkuw,211
+Mohave,BITE,ʧakʲoːk,211
+Tipai,BITE,ʧuːkˈaw,211
+Yavapai,BITE,ʧkʲˈo,211
+Cocopa,FEATHER,ʃawˈal,212
+Mohave,FEATHER,siviːʎ,212
+Yavapai,FEATHER,wˈala,212
+Cocopa,FLY (MOVE THROUGH AIR),man,213
+Ipai,FLY (MOVE THROUGH AIR),wəman̪,213
+Ipai,FLY (MOVE THROUGH AIR),uman̪,213
+Mohave,FLY (MOVE THROUGH AIR),ijerk,214
+Yavapai,FLY (MOVE THROUGH AIR),βjˈaˑri,214
+Cocopa,THOU,mapˈuʧ,215
+Ipai,THOU,maː,215
+Mohave,THOU,maɲʧ,215
+Tipai,THOU,maːʧ,215
+Yavapai,THOU,mˈaːʧ,215
+Cocopa,FULL,ʧpuɾ,216
+Yavapai,FULL,tmpˈiri,216
+Ipai,FULL,t̪əmuɹ,217
+Tipai,FULL,t̪əmʔˈur,217
+Mohave,FULL,tapeːsm,218
+Cocopa,MAN,ʔapˈa,219
+Mohave,MAN,ʔiːpa,219
+Tipai,MAN,ʔiːpˈa,219
+Yavapai,MAN,pˌaˑhmˈija,219
+Ipai,MAN,ʔiːkʷiʧ,220
+Cocopa,CIRCULAR (ROUND IN TWO DIMENSIONS),ɾjaɾ,221
+Ipai,CIRCULAR (ROUND IN TWO DIMENSIONS),jaɹəjaɹ,221
+Tipai,CIRCULAR (ROUND IN TWO DIMENSIONS),jərjˈar,221
+Cocopa,LOUSE,ʔiʔˈiʎ̥,222
+Ipai,LOUSE,əmiɬʲ,222
+Mohave,LOUSE,ɲiʔiːʎ,222
+Yavapai,LOUSE,hʔˈel,222
+Cocopa,NAME,muʎ̥,223
+Mohave,NAME,imuːʎ,223
+Yavapai,NAME,mˈul,223
+Yavapai,NAME,mˈol,223
+Ipai,NAME,ʧəxiʧ,224
+Cocopa,WHO,luːɲ,225
+Ipai,WHO,maːp,226
+Tipai,WHO,məʔˈap,226
+Mohave,WHO,makaʧ,227
+Yavapai,WHO,βkˈa,227
+Cocopa,SUN,ɲa,228
+Ipai,SUN,ʔənʲaː,228
+Mohave,SUN,ʔaɲa,228
+Tipai,SUN,ɲa,228
+Tipai,SUN,ɲaː,228
+Yavapai,SUN,ʔɲˈáː,228

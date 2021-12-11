@@ -1,0 +1,147 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>((((((0:0.06578259494494441,24:0.06578259494494441)42:0.029498023854673802,((((3:0.03323553856916575,29:0.03323553856916575)39:0.04058955865580019,25:0.07382509722496594)45:0.002035289051875097,12:0.07586038627684104)33:0.006657925828451899,(4:0.045344608632986186,20:0.045344608632986186)34:0.03717370347230675)47:0.012762306694325279)40:0.003629450382609853,(21:0.08174957885242524,27:0.08174957885242524)50:0.017160490329802824)35:0.008319358569218366,(((5:0.07958742811088926,11:0.07958742811088926)49:0.020256484357038113,(((8:0.033101069845172276,22:0.033101069845172276)54:0.04028109666576432,14:0.0733821665109366)44:0.022011823958400012,28:0.09539399046933661)52:0.004449921998590761)53:0.0030034205557183252,7:0.1028473330236457)41:0.004382094727800739)38:0.047707997723191495,16:0.15493742547463793)37:0.03018965115028624,((((((((1:0.0253624808452896,23:0.0253624808452896)46:0.011813493650129053,2:0.03717597449541865)30:0.040683215958228866,17:0.07785919045364752)32:0.02646818173101753,(15:0.10370986986621102,(19:0.09221254524257436,26:0.09221254524257436)56:0.01149732462363666)57:6.175023184540329E-4)31:0.024460737528707685,9:0.12878810971337273)48:0.01371780554415336,(6:0.12354299949100163,13:0.12354299949100163)43:0.018962915766524466)51:0.00756281625241681,18:0.1500687315099429)55:0.009792749463308076,10:0.15986148097325098)36:0.02526559565167319)58:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 12.508012193481626 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[58 1] (0,57): 38 57 17 37 54 34 33 50 38 17 18 56 16 29 55 12 22 38 38 10 16 22 39 54 9 40 8 42 49 20 57 10 4 56 14 11 31 44 28 8 8 47 21 29 27 33 29 14 39 49 31 15 50 6 22 17 38 31 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.469237433771106 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:ALL'>featureClockRate:Polynesian_gold_common-concepts:ALL[1 1] (0.0,Infinity): 0.5238551418889854 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:ASH'>featureClockRate:Polynesian_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.18836500270941187 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BACK'>featureClockRate:Polynesian_gold_common-concepts:BACK[1 1] (0.0,Infinity): 0.620997181294092 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BE_DEAD_OR_DIE'>featureClockRate:Polynesian_gold_common-concepts:BE_DEAD_OR_DIE[1 1] (0.0,Infinity): 0.2541337163766868 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BELLY'>featureClockRate:Polynesian_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 0.9262113223183376 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BIG'>featureClockRate:Polynesian_gold_common-concepts:BIG[1 1] (0.0,Infinity): 1.3687364793548322 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BIRD'>featureClockRate:Polynesian_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 1.1089208266709103 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BITE'>featureClockRate:Polynesian_gold_common-concepts:BITE[1 1] (0.0,Infinity): 0.9401838848280072 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BLACK'>featureClockRate:Polynesian_gold_common-concepts:BLACK[1 1] (0.0,Infinity): 0.4722269332212934 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BLOOD'>featureClockRate:Polynesian_gold_common-concepts:BLOOD[1 1] (0.0,Infinity): 0.6202454041682262 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BREAST'>featureClockRate:Polynesian_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 1.0766455097409622 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:BURN'>featureClockRate:Polynesian_gold_common-concepts:BURN[1 1] (0.0,Infinity): 1.997296391594031 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:CLOUD'>featureClockRate:Polynesian_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.7320402020877056 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:COLD'>featureClockRate:Polynesian_gold_common-concepts:COLD[1 1] (0.0,Infinity): 1.0687467574431972 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:COME'>featureClockRate:Polynesian_gold_common-concepts:COME[1 1] (0.0,Infinity): 0.8184396731807443 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:COUNT'>featureClockRate:Polynesian_gold_common-concepts:COUNT[1 1] (0.0,Infinity): 0.2796941716232215 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:DIRTY'>featureClockRate:Polynesian_gold_common-concepts:DIRTY[1 1] (0.0,Infinity): 1.0970049691058337 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:DOG'>featureClockRate:Polynesian_gold_common-concepts:DOG[1 1] (0.0,Infinity): 0.20201249682563743 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:DRY'>featureClockRate:Polynesian_gold_common-concepts:DRY[1 1] (0.0,Infinity): 3.8899801435583274 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:EAR'>featureClockRate:Polynesian_gold_common-concepts:EAR[1 1] (0.0,Infinity): 0.0866713419763625 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:EARTH_(SOIL)'>featureClockRate:Polynesian_gold_common-concepts:EARTH_(SOIL)[1 1] (0.0,Infinity): 0.724253055469463 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:EAT'>featureClockRate:Polynesian_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.22014604481969394 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:EGG'>featureClockRate:Polynesian_gold_common-concepts:EGG[1 1] (0.0,Infinity): 1.1021409575517662 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:EYE'>featureClockRate:Polynesian_gold_common-concepts:EYE[1 1] (0.0,Infinity): 1.0833361785380642 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FALL'>featureClockRate:Polynesian_gold_common-concepts:FALL[1 1] (0.0,Infinity): 1.820194395921932 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FAR'>featureClockRate:Polynesian_gold_common-concepts:FAR[1 1] (0.0,Infinity): 0.38775953587706646 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)'>featureClockRate:Polynesian_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)[1 1] (0.0,Infinity): 0.8760714564316092 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FEATHER'>featureClockRate:Polynesian_gold_common-concepts:FEATHER[1 1] (0.0,Infinity): 0.3656736352319622 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FEMALE_PERSON'>featureClockRate:Polynesian_gold_common-concepts:FEMALE_PERSON[1 1] (0.0,Infinity): 0.07594232124963486 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FIRE'>featureClockRate:Polynesian_gold_common-concepts:FIRE[1 1] (0.0,Infinity): 0.515035702124612 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FISH'>featureClockRate:Polynesian_gold_common-concepts:FISH[1 1] (0.0,Infinity): 0.11155934837827422 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FIVE'>featureClockRate:Polynesian_gold_common-concepts:FIVE[1 1] (0.0,Infinity): 0.18760354553303515 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FLESH_OR_MEAT'>featureClockRate:Polynesian_gold_common-concepts:FLESH_OR_MEAT[1 1] (0.0,Infinity): 0.6851322801046378 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FLOWER'>featureClockRate:Polynesian_gold_common-concepts:FLOWER[1 1] (0.0,Infinity): 1.1854215751529589 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Polynesian_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 0.9139245056819398 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:FOOT_OR_LEG'>featureClockRate:Polynesian_gold_common-concepts:FOOT_OR_LEG[1 1] (0.0,Infinity): 0.6310349996740422 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:GOOD'>featureClockRate:Polynesian_gold_common-concepts:GOOD[1 1] (0.0,Infinity): 1.12765478960227 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:GRASS'>featureClockRate:Polynesian_gold_common-concepts:GRASS[1 1] (0.0,Infinity): 1.0562738171378663 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:GREEN'>featureClockRate:Polynesian_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 1.3804137027917212 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:HAIR'>featureClockRate:Polynesian_gold_common-concepts:HAIR[1 1] (0.0,Infinity): 0.7482497973931237 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:HAND'>featureClockRate:Polynesian_gold_common-concepts:HAND[1 1] (0.0,Infinity): 0.10050104687936962 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:HEAD'>featureClockRate:Polynesian_gold_common-concepts:HEAD[1 1] (0.0,Infinity): 0.9153007035076517 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:HEAVY'>featureClockRate:Polynesian_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 0.9121096302344003 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:HOLD'>featureClockRate:Polynesian_gold_common-concepts:HOLD[1 1] (0.0,Infinity): 1.8406224275043477 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:I'>featureClockRate:Polynesian_gold_common-concepts:I[1 1] (0.0,Infinity): 0.7913845606790237 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:KILL'>featureClockRate:Polynesian_gold_common-concepts:KILL[1 1] (0.0,Infinity): 2.4367711338350286 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Polynesian_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 0.5228420576228388 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:LAUGH'>featureClockRate:Polynesian_gold_common-concepts:LAUGH[1 1] (0.0,Infinity): 0.18091265711792387 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:LEAF'>featureClockRate:Polynesian_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 0.10786087443717873 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:LIE_DOWN'>featureClockRate:Polynesian_gold_common-concepts:LIE_DOWN[1 1] (0.0,Infinity): 1.2478380087835461 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:LIVER'>featureClockRate:Polynesian_gold_common-concepts:LIVER[1 1] (0.0,Infinity): 0.22134752840809724 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:LONG'>featureClockRate:Polynesian_gold_common-concepts:LONG[1 1] (0.0,Infinity): 0.7128688388881705 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:LOUSE'>featureClockRate:Polynesian_gold_common-concepts:LOUSE[1 1] (0.0,Infinity): 0.2686006849446092 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:MALE_PERSON'>featureClockRate:Polynesian_gold_common-concepts:MALE_PERSON[1 1] (0.0,Infinity): 1.0330219913877792 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:MOON'>featureClockRate:Polynesian_gold_common-concepts:MOON[1 1] (0.0,Infinity): 1.0894222412577403 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:MOUTH'>featureClockRate:Polynesian_gold_common-concepts:MOUTH[1 1] (0.0,Infinity): 0.5596261181128268 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:NAME'>featureClockRate:Polynesian_gold_common-concepts:NAME[1 1] (0.0,Infinity): 0.14455712554207334 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:NEAR'>featureClockRate:Polynesian_gold_common-concepts:NEAR[1 1] (0.0,Infinity): 1.090244088319305 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:NECK'>featureClockRate:Polynesian_gold_common-concepts:NECK[1 1] (0.0,Infinity): 0.6430550031929312 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:NEW'>featureClockRate:Polynesian_gold_common-concepts:NEW[1 1] (0.0,Infinity): 0.407524689724321 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:NIGHT'>featureClockRate:Polynesian_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 0.07878362823128995 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:NO_OR_NOT'>featureClockRate:Polynesian_gold_common-concepts:NO_OR_NOT[1 1] (0.0,Infinity): 1.628535017982384 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:NOSE'>featureClockRate:Polynesian_gold_common-concepts:NOSE[1 1] (0.0,Infinity): 0.10621448660053079 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:OLD'>featureClockRate:Polynesian_gold_common-concepts:OLD[1 1] (0.0,Infinity): 0.9545716696585756 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:ONE'>featureClockRate:Polynesian_gold_common-concepts:ONE[1 1] (0.0,Infinity): 0.5854662180116907 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:PATH_OR_ROAD'>featureClockRate:Polynesian_gold_common-concepts:PATH_OR_ROAD[1 1] (0.0,Infinity): 0.7952056955187106 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:PERSON'>featureClockRate:Polynesian_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 0.4048197317434302 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:RAIN_(PRECIPITATION)'>featureClockRate:Polynesian_gold_common-concepts:RAIN_(PRECIPITATION)[1 1] (0.0,Infinity): 0.0909713206493113 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:RED'>featureClockRate:Polynesian_gold_common-concepts:RED[1 1] (0.0,Infinity): 0.5295211298601468 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:ROOT'>featureClockRate:Polynesian_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 0.041437028777061125 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:ROPE'>featureClockRate:Polynesian_gold_common-concepts:ROPE[1 1] (0.0,Infinity): 0.6504121037939549 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SALT'>featureClockRate:Polynesian_gold_common-concepts:SALT[1 1] (0.0,Infinity): 1.2929542609319251 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SAND'>featureClockRate:Polynesian_gold_common-concepts:SAND[1 1] (0.0,Infinity): 0.5839719030954084 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SAY'>featureClockRate:Polynesian_gold_common-concepts:SAY[1 1] (0.0,Infinity): 2.259188903315232 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SEE'>featureClockRate:Polynesian_gold_common-concepts:SEE[1 1] (0.0,Infinity): 1.4360257894647008 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SEW'>featureClockRate:Polynesian_gold_common-concepts:SEW[1 1] (0.0,Infinity): 1.3167509385315255 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SHARP'>featureClockRate:Polynesian_gold_common-concepts:SHARP[1 1] (0.0,Infinity): 0.5089394107052843 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SHORT'>featureClockRate:Polynesian_gold_common-concepts:SHORT[1 1] (0.0,Infinity): 1.1873273018565091 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SIT'>featureClockRate:Polynesian_gold_common-concepts:SIT[1 1] (0.0,Infinity): 0.45232067607082654 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SKIN'>featureClockRate:Polynesian_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 0.28081891779058965 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SKY'>featureClockRate:Polynesian_gold_common-concepts:SKY[1 1] (0.0,Infinity): 0.19818316551125859 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SLEEP'>featureClockRate:Polynesian_gold_common-concepts:SLEEP[1 1] (0.0,Infinity): 0.5542304420933629 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SMALL'>featureClockRate:Polynesian_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 1.3055300111422627 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SMOKE_(EXHAUST)'>featureClockRate:Polynesian_gold_common-concepts:SMOKE_(EXHAUST)[1 1] (0.0,Infinity): 0.5663608232885632 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SNAKE'>featureClockRate:Polynesian_gold_common-concepts:SNAKE[1 1] (0.0,Infinity): 0.6453786183552197 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:STAND'>featureClockRate:Polynesian_gold_common-concepts:STAND[1 1] (0.0,Infinity): 0.8366705422475311 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:STAR'>featureClockRate:Polynesian_gold_common-concepts:STAR[1 1] (0.0,Infinity): 0.2980956296870848 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:STONE'>featureClockRate:Polynesian_gold_common-concepts:STONE[1 1] (0.0,Infinity): 0.4575827721343994 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SUCK'>featureClockRate:Polynesian_gold_common-concepts:SUCK[1 1] (0.0,Infinity): 1.8125787420211508 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:SWIM'>featureClockRate:Polynesian_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 0.2580064359547398 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:TAIL'>featureClockRate:Polynesian_gold_common-concepts:TAIL[1 1] (0.0,Infinity): 1.047849616816266 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:THAT'>featureClockRate:Polynesian_gold_common-concepts:THAT[1 1] (0.0,Infinity): 0.4959661599243761 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:THEY'>featureClockRate:Polynesian_gold_common-concepts:THEY[1 1] (0.0,Infinity): 1.2127583838354616 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:THICK'>featureClockRate:Polynesian_gold_common-concepts:THICK[1 1] (0.0,Infinity): 0.5890234068777898 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:THIN'>featureClockRate:Polynesian_gold_common-concepts:THIN[1 1] (0.0,Infinity): 0.43851500911610447 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:THINK'>featureClockRate:Polynesian_gold_common-concepts:THINK[1 1] (0.0,Infinity): 0.593309534740546 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:THIS'>featureClockRate:Polynesian_gold_common-concepts:THIS[1 1] (0.0,Infinity): 1.1744960325427476 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:THOU'>featureClockRate:Polynesian_gold_common-concepts:THOU[1 1] (0.0,Infinity): 0.1527304528185367 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:THROW'>featureClockRate:Polynesian_gold_common-concepts:THROW[1 1] (0.0,Infinity): 1.1798721711953637 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:TONGUE'>featureClockRate:Polynesian_gold_common-concepts:TONGUE[1 1] (0.0,Infinity): 0.0721311041950663 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:TWO'>featureClockRate:Polynesian_gold_common-concepts:TWO[1 1] (0.0,Infinity): 0.09082539735457595 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:VOMIT'>featureClockRate:Polynesian_gold_common-concepts:VOMIT[1 1] (0.0,Infinity): 0.7422246921686257 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WALK'>featureClockRate:Polynesian_gold_common-concepts:WALK[1 1] (0.0,Infinity): 1.2561788240183618 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WARM'>featureClockRate:Polynesian_gold_common-concepts:WARM[1 1] (0.0,Infinity): 0.35992797583332176 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WATER'>featureClockRate:Polynesian_gold_common-concepts:WATER[1 1] (0.0,Infinity): 0.4822391327452867 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WE'>featureClockRate:Polynesian_gold_common-concepts:WE[1 1] (0.0,Infinity): 0.21366234211310609 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WET'>featureClockRate:Polynesian_gold_common-concepts:WET[1 1] (0.0,Infinity): 2.848829242958402 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WHAT'>featureClockRate:Polynesian_gold_common-concepts:WHAT[1 1] (0.0,Infinity): 0.379916458543922 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WHITE'>featureClockRate:Polynesian_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 0.9802960918117524 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WIDE'>featureClockRate:Polynesian_gold_common-concepts:WIDE[1 1] (0.0,Infinity): 1.0719106920362398 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WIND'>featureClockRate:Polynesian_gold_common-concepts:WIND[1 1] (0.0,Infinity): 0.5012204499936599 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WING'>featureClockRate:Polynesian_gold_common-concepts:WING[1 1] (0.0,Infinity): 0.6016320086110908 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:WORM'>featureClockRate:Polynesian_gold_common-concepts:WORM[1 1] (0.0,Infinity): 1.3281346181947709 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:YEAR'>featureClockRate:Polynesian_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 0.42492525470795506 </statenode>
+<statenode id='featureClockRate:Polynesian_gold_common-concepts:YELLOW'>featureClockRate:Polynesian_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 0.7335016845181448 </statenode>
+<statenode id='featureClockRateGammaShape:Polynesian_gold_common-concepts'>featureClockRateGammaShape:Polynesian_gold_common-concepts[1 1] (1.1,100.0): 1.485244724172487 </statenode>
+<statenode id='featureClockRateGammaScale:Polynesian_gold_common-concepts'>featureClockRateGammaScale:Polynesian_gold_common-concepts[1 1] (-Infinity,Infinity): 0.673289716990685 </statenode>
+<statenode id='covarion_alpha.s:Polynesian_gold_common-concepts'>covarion_alpha.s:Polynesian_gold_common-concepts[1 1] (1.0E-4,1.0): 0.028910536314306127 </statenode>
+<statenode id='covarion_s.s:Polynesian_gold_common-concepts'>covarion_s.s:Polynesian_gold_common-concepts[1 1] (1.0E-4,Infinity): 0.4534029626489059 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.5599586510270573,"accept":3355,"reject":254457,"acceptFC":3314,"rejectFC":250249,"rejectIv":119954,"rejectOp":119954},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":71094,"reject":187849,"acceptFC":69863,"rejectFC":184879,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":562,"reject":51129,"acceptFC":553,"rejectFC":50260,"rejectIv":26225,"rejectOp":26225},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":867,"reject":50441,"acceptFC":845,"rejectFC":49634,"rejectIv":6645,"rejectOp":6645},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":218847,"reject":297137,"acceptFC":215447,"rejectFC":291868,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.6586526524187413,"accept":7534,"reject":44007,"acceptFC":7468,"rejectFC":43256,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.6015392395760225,"accept":6098,"reject":45536,"acceptFC":6001,"rejectFC":44806,"rejectIv":14763,"rejectOp":14763},
+{"id":"UpDown","p":0.7223890501867023,"accept":10421,"reject":40895,"acceptFC":10355,"rejectFC":40094,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.36396205746083726,"accept":12864,"reject":38760,"acceptFC":12549,"rejectFC":38203,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":105832,"reject":65947,"acceptFC":104065,"rejectFC":64874,"rejectIv":59810,"rejectOp":59810},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":62150,"reject":109557,"acceptFC":61311,"rejectFC":107463,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":87161,"reject":84907,"acceptFC":85957,"rejectFC":83244,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.6090539213219172,"accept":12036,"reject":39762,"acceptFC":11906,"rejectFC":38998,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Polynesian_gold_common-concepts","p":0.37958642320249325,"accept":790,"reject":4483,"acceptFC":763,"rejectFC":4435,"rejectIv":800,"rejectOp":800},
+{"id":"covarion_alpha_scaler.s:Polynesian_gold_common-concepts","p":0.18502453755946943,"accept":5934,"reject":11213,"acceptFC":5759,"rejectFC":11112,"rejectIv":27,"rejectOp":27},
+{"id":"Polynesian_gold_common-concepts:covarion_s_scaler.s","p":0.5256431124444808,"accept":3970,"reject":13094,"acceptFC":3913,"rejectFC":12862,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateDeltaExchanger:default","p":1.1833833642838343,"accept":12674,"reject":38638,"acceptFC":12545,"rejectFC":37933,"rejectIv":18608,"rejectOp":18608}
+]}
+-->

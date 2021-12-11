@@ -35,8 +35,8 @@ BODY LOUSE_3												hahiŋ³
 BODY LOUSE_4								ma³hriɳ³⁴³						
 BONE_1	ɕie̯ŋ	ɕaŋ²	saŋ	saːŋ²				sɤŋ³	sɨaŋ¹	sɨaŋ¹	sɨəŋ¹		sɨəŋ¹	sɨːŋ³³
 BONE_2												tkoːk²		
-BREAST_1	nɒːi̯	nɔi̯⁴	nɔj	nɔːj³	now	nuː	now							
-BREAST_2								panṵ³⁴³	puː³	puː³	ʔu³		ʔuː³	vu⁴⁵
+BREAST_1								panṵ³⁴³	puː³	puː³	ʔu³		ʔuː³	vu⁴⁵
+BREAST_2	nɒːi̯	nɔi̯⁴	nɔj	nɔːj³	now	nuː	now							
 BREAST_3												panuː		
 BURNING_1					plaot	ploːk	plaot							
 BURNING_2											pɔŋ²			
@@ -83,8 +83,7 @@ FLESH OR MEAT_1									ɲuk⁵²	ɲuk⁵²
 FLESH OR MEAT_2	tʰit	ɕit⁴	sit	sit⁵³	siːt			sit⁴			tit⁵³		siːt⁵³	tʰɨt²¹²
 FLESH OR MEAT_3												mɛːŋ²		
 FLY (MOVE THROUGH AIR)_1	păl	pɤ̆l¹	pəl	pəl¹	pɔn	pil	pʌl	pɤ̆l⁴	paə¹	pal¹		hul¹	pʌl¹	ɓai̯³³
-FOOT_1	ʨiŋ	ciŋ²	ciŋ	ciːŋ²				siŋ³	cən¹	cən¹		ciːŋ¹	kaŋ⁵	cəŋ³³
-FOOT_2											cɔ²			
+FOOT_1	ʨiŋ	ciŋ²	ciŋ	ciːŋ²				siŋ³	cən¹	cən¹	cɔ²	ciːŋ¹	kaŋ⁵	cəŋ³³
 FULL_1	paɲ							pĭc³⁴						
 FULL_2		ɓlăm¹	blăm	blam	blam	blam	blam				lăm¹		pleː³	
 FULL_3														ɗəi̯²¹
@@ -170,8 +169,8 @@ PERSON_1		ŋai̯²	ŋaj								ŋaj²			ŋɨːi̯²¹
 PERSON_2				kɔːn¹	kun	kun	kɔn	kʰŏn³				kon		
 PERSON_3	ʨʌmrău													
 RAIN (PRECIPITATION)_1	mia	kuma̤²	kŭmʌa	kuməa²	maː	kʰmaː	maː		mɨa¹	mɨa¹	mɨa¹		mɐː²	mɨə³³
-RAIN (PRECIPITATION)_2								sɯŋ⁴						
-RAIN (PRECIPITATION)_3												maloːj²		
+RAIN (PRECIPITATION)_2												maloːj²		
+RAIN (PRECIPITATION)_3								sɯŋ⁴						
 RED_1	ikaːlˀ				kaon		kɔːl							
 RED_2		tɔ⁴	tɔ	tɔː⁵¹				tɔh³	tɔː⁵	tɔː⁵	tɔ⁵	tɔh¹		ɗɔː²¹⁴
 ROOT_1		lɛl̥³	ljɛ	ljɛlʰ¹				lɛl³⁴					lɛːl⁵¹	
@@ -189,9 +188,8 @@ SAND_3		kaɽa̤ŋ²						kʰalɤŋ³
 SAND_4					kʰlɛː	pʰlɛː	kʰlɛː							
 SAND_5												tʰɛh²		
 SEE_1											tə̆j³			tʰəi̯⁴⁵
-SEE_2	ʨɯŋ	cɯ̆ŋ¹	cɨŋ					cɤ̆ŋ³⁴						
-SEE_3				ʒua̤m	daːm		daːm							
-SEE_4												nah⁴		
+SEE_2	ʨɯŋ	cɯ̆ŋ¹	cɨŋ	ʒua̤m	daːm		daːm	cɤ̆ŋ³⁴						
+SEE_3												nah⁴		
 SIT_1	ŋoi	ŋo̤i̯²	ŋuj	ŋo̤i			ŋuːj		ŋoːj²	ŋoːj²	ŋoj²		ŋoːj²	ŋoːi̯²¹
 SIT_2												cuŋ²		
 SIT_3								sadoh³						
@@ -202,11 +200,11 @@ SLEEP_1					tɔŋ	tɨŋ	tʌŋ
 SLEEP_2											ŋu⁵			ŋu²¹⁴
 SLEEP_3		ɲap⁴	nʌp	nəa̤p				năm³²⁴				nam⁴		
 SLEEP_4	pi													
-SMALL_1		ɗɛ⁰ɗɛ³	dɛdɛ											
-SMALL_2	kʌtkʌ̆t													
-SMALL_3											ɲɔ⁵			ɲɔː²¹⁴
-SMALL_4					diːt		diːt	dɪt³⁴				ʔiːt		
-SMALL_5				dʔuoʔ										
+SMALL_1											ɲɔ⁵			ɲɔː²¹⁴
+SMALL_2					diːt		diːt	dɪt³⁴				ʔiːt		
+SMALL_3				dʔuoʔ										
+SMALL_4		ɗɛ⁰ɗɛ³	dɛdɛ											
+SMALL_5	kʌtkʌ̆t													
 SMOKE (EXHAUST)_1	ahɒːi̯	kuhɔi̯³	kaɔj	kəhɔːj³	kʰɔːj	kʰɔːj	kʰɔːj	kahəj³⁴³	kʰɔːj³	kʰɔːj³	xɔj³	kahɔːj¹	kʰɒːj³	xɔːi̯⁴⁵
 STAR_1		kumĭŋ¹	kŭmiɲ	kumiŋ										
 STAR_2					baɛ	kbeː	bae		kʰaːw¹	kʰaːw¹	ʃaw¹		kʰraːw¹	saːu̯³³
@@ -226,8 +224,7 @@ THICK_1	uɓău							kapu³				kbuː
 THICK_2					taj	ktaj	taj		taj²	taj²	tăj²			jai̯²¹
 THICK_3		katɤ̆i̯²	kutɨej											
 THIS_1		ʔini¹						tani³				ʔaliː¹		
-THIS_2			ni	ni	nəi	niː	nei				năj¹		naː³	nai̯²¹
-THIS_3	kɯ̆i̯													
+THIS_2	kɯ̆i̯		ni	ni	nəi	niː	nei				năj¹		naː³	nai̯²¹
 THOU_1											jə̆w¹	tʰəw¹		
 THOU_2	mɯi̯	ʔami¹	mi	mi	məi	miː	mei						miː²	mai̯²¹
 THOU_3								căk						

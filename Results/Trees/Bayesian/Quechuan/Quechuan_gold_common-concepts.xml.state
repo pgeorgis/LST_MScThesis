@@ -1,0 +1,106 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:beastlingTree'>(((((((0:0.01835826490818204,28:0.01835826490818204)45:0.029382335030017154,13:0.047740599938199194)41:0.002920429771295953,(9:0.017489050699360655,10:0.017489050699360655)59:0.033171979010134495)52:0.02474388549115788,(((2:0.028839688592931723,16:0.028839688592931723)63:0.007809524393934366,14:0.03664921298686609)38:0.03562974865771312,30:0.07227896164457921)37:0.0031259535560738128)42:0.028712186504478224,(6:0.012823745242716712,29:0.012823745242716712)55:0.09129335646241454)43:0.03349752771081016,(((3:0.03103354500605558,7:0.03103354500605558)50:0.01332872764237555,19:0.04436227264843113)57:0.07198481304692111,((11:0.04276509628502573,27:0.04276509628502573)58:0.022466406668624414,(25:0.006817671216112627,31:0.006817671216112627)56:0.05841383173753752)36:0.051115582741702095)46:0.02126754372058917)60:0.037445181475586425,(((((1:0.0015370748143120315,8:0.0015370748143120315)44:0.00706653877715701,24:0.008603613591469042)62:0.03997149951605154,(4:0.009302998314268621,23:0.009302998314268621)61:0.03927211479325196)54:0.09116773984078338,22:0.13974285294830396)39:0.009030739909778623,((((5:0.06055434750339252,21:0.06055434750339252)49:0.031058212937131444,((12:0.06987226421612676,15:0.06987226421612676)40:0.00822861346968487,17:0.07810087768581163)53:0.013511682754712331)51:0.012550274507158982,(26:0.09137381056346937,32:0.09137381056346937)35:0.012789024384213574)48:0.011981222465543201,(18:0.026700577389038832,20:0.026700577389038832)34:0.08944348002418731)33:0.032629535444856445)47:0.026286218033445247)64:0.0</statenode>
+<statenode id='birthRate.t:beastlingTree'>birthRate.t:beastlingTree[1 1] (-Infinity,Infinity): 19.19652172344615 </statenode>
+<statenode id='clockRate.c:default'>clockRate.c:default[1 1] (-Infinity,1000.0): 1.0 </statenode>
+<statenode id='rateCategories.c:default'>rateCategories.c:default[64 1] (0,63): 42 27 45 57 6 12 46 11 27 0 40 52 41 18 63 33 49 55 11 46 10 63 5 15 36 56 27 45 14 17 37 47 37 53 13 58 27 2 52 43 32 14 45 20 8 25 55 29 57 58 13 13 52 30 6 2 5 16 23 39 60 0 12 36 </statenode>
+<statenode id='ucldSdev.c:default'>ucldSdev.c:default[1 1] (0.0,10.0): 0.5603042440820968 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:ASH'>featureClockRate:Quechuan_gold_common-concepts:ASH[1 1] (0.0,Infinity): 0.26052313080276446 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:BACK'>featureClockRate:Quechuan_gold_common-concepts:BACK[1 1] (0.0,Infinity): 0.17791744781293586 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:BELLY'>featureClockRate:Quechuan_gold_common-concepts:BELLY[1 1] (0.0,Infinity): 0.2732404489598349 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:BIG'>featureClockRate:Quechuan_gold_common-concepts:BIG[1 1] (0.0,Infinity): 0.7211457588217285 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:BIRD'>featureClockRate:Quechuan_gold_common-concepts:BIRD[1 1] (0.0,Infinity): 0.8456284719151921 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:BITE'>featureClockRate:Quechuan_gold_common-concepts:BITE[1 1] (0.0,Infinity): 0.6514926158155321 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:BREAST'>featureClockRate:Quechuan_gold_common-concepts:BREAST[1 1] (0.0,Infinity): 1.5773590155377804 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:CLOUD'>featureClockRate:Quechuan_gold_common-concepts:CLOUD[1 1] (0.0,Infinity): 0.387041182947902 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:COLD'>featureClockRate:Quechuan_gold_common-concepts:COLD[1 1] (0.0,Infinity): 1.2740052860269953 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:COME'>featureClockRate:Quechuan_gold_common-concepts:COME[1 1] (0.0,Infinity): 1.0642180984808316 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:DIE'>featureClockRate:Quechuan_gold_common-concepts:DIE[1 1] (0.0,Infinity): 0.36484291358261883 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:DRINK'>featureClockRate:Quechuan_gold_common-concepts:DRINK[1 1] (0.0,Infinity): 0.36643209408909294 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:DRY'>featureClockRate:Quechuan_gold_common-concepts:DRY[1 1] (0.0,Infinity): 0.04207588638331211 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:EAT'>featureClockRate:Quechuan_gold_common-concepts:EAT[1 1] (0.0,Infinity): 0.06798937841702346 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:EGG'>featureClockRate:Quechuan_gold_common-concepts:EGG[1 1] (0.0,Infinity): 1.8049303499490768 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:EYE'>featureClockRate:Quechuan_gold_common-concepts:EYE[1 1] (0.0,Infinity): 0.12751376794016311 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:FAR'>featureClockRate:Quechuan_gold_common-concepts:FAR[1 1] (0.0,Infinity): 0.2865173570788663 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)'>featureClockRate:Quechuan_gold_common-concepts:FAT_(ORGANIC_SUBSTANCE)[1 1] (0.0,Infinity): 0.4625943423015981 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:FIVE'>featureClockRate:Quechuan_gold_common-concepts:FIVE[1 1] (0.0,Infinity): 0.3780338364046616 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:FLOWER'>featureClockRate:Quechuan_gold_common-concepts:FLOWER[1 1] (0.0,Infinity): 1.556480022955796 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)'>featureClockRate:Quechuan_gold_common-concepts:FLY_(MOVE_THROUGH_AIR)[1 1] (0.0,Infinity): 0.78919782098024 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:FOOT'>featureClockRate:Quechuan_gold_common-concepts:FOOT[1 1] (0.0,Infinity): 0.05113249206882281 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:FOUR'>featureClockRate:Quechuan_gold_common-concepts:FOUR[1 1] (0.0,Infinity): 0.5041212261599057 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:FULL'>featureClockRate:Quechuan_gold_common-concepts:FULL[1 1] (0.0,Infinity): 0.22734485959777606 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:GIVE'>featureClockRate:Quechuan_gold_common-concepts:GIVE[1 1] (0.0,Infinity): 0.06335110979236652 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:GRASS'>featureClockRate:Quechuan_gold_common-concepts:GRASS[1 1] (0.0,Infinity): 0.5215603669376906 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:GREEN'>featureClockRate:Quechuan_gold_common-concepts:GREEN[1 1] (0.0,Infinity): 2.206033446919799 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:HAIR_(HEAD)'>featureClockRate:Quechuan_gold_common-concepts:HAIR_(HEAD)[1 1] (0.0,Infinity): 0.4505915977466494 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:HEAR'>featureClockRate:Quechuan_gold_common-concepts:HEAR[1 1] (0.0,Infinity): 0.3888026186948539 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:HEART'>featureClockRate:Quechuan_gold_common-concepts:HEART[1 1] (0.0,Infinity): 0.36982670464947476 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:HEAVY'>featureClockRate:Quechuan_gold_common-concepts:HEAVY[1 1] (0.0,Infinity): 0.19566401709272174 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:HORN_(ANATOMY)'>featureClockRate:Quechuan_gold_common-concepts:HORN_(ANATOMY)[1 1] (0.0,Infinity): 0.32345087252715826 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:HOT_OR_WARM'>featureClockRate:Quechuan_gold_common-concepts:HOT_OR_WARM[1 1] (0.0,Infinity): 1.7004699997144859 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:KNEE'>featureClockRate:Quechuan_gold_common-concepts:KNEE[1 1] (0.0,Infinity): 1.4036521928667098 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:KNOW_(SOMETHING)'>featureClockRate:Quechuan_gold_common-concepts:KNOW_(SOMETHING)[1 1] (0.0,Infinity): 0.08726365892988 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:LAUGH'>featureClockRate:Quechuan_gold_common-concepts:LAUGH[1 1] (0.0,Infinity): 0.25166302461243556 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:LEAF'>featureClockRate:Quechuan_gold_common-concepts:LEAF[1 1] (0.0,Infinity): 0.6096632941964117 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:LEG'>featureClockRate:Quechuan_gold_common-concepts:LEG[1 1] (0.0,Infinity): 1.1180441469263043 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:LOUSE'>featureClockRate:Quechuan_gold_common-concepts:LOUSE[1 1] (0.0,Infinity): 0.5972719620217272 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:MAN'>featureClockRate:Quechuan_gold_common-concepts:MAN[1 1] (0.0,Infinity): 1.5599184353011315 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:MANY'>featureClockRate:Quechuan_gold_common-concepts:MANY[1 1] (0.0,Infinity): 0.6019122318608594 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:MOUNTAIN'>featureClockRate:Quechuan_gold_common-concepts:MOUNTAIN[1 1] (0.0,Infinity): 0.844760464045348 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:NIGHT'>featureClockRate:Quechuan_gold_common-concepts:NIGHT[1 1] (0.0,Infinity): 0.8234761823687783 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:OLD_(OF_MAN)'>featureClockRate:Quechuan_gold_common-concepts:OLD_(OF_MAN)[1 1] (0.0,Infinity): 1.0476312391457088 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:OLD_(OF_WOMAN)'>featureClockRate:Quechuan_gold_common-concepts:OLD_(OF_WOMAN)[1 1] (0.0,Infinity): 1.8351834629472992 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:PERSON'>featureClockRate:Quechuan_gold_common-concepts:PERSON[1 1] (0.0,Infinity): 0.18627154379743194 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:RAINING_OR_RAIN'>featureClockRate:Quechuan_gold_common-concepts:RAINING_OR_RAIN[1 1] (0.0,Infinity): 0.5002172143325141 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:RED'>featureClockRate:Quechuan_gold_common-concepts:RED[1 1] (0.0,Infinity): 0.3696133220339657 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:ROAD'>featureClockRate:Quechuan_gold_common-concepts:ROAD[1 1] (0.0,Infinity): 1.2261202281280654 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:ROOT'>featureClockRate:Quechuan_gold_common-concepts:ROOT[1 1] (0.0,Infinity): 1.150402165626947 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SAND'>featureClockRate:Quechuan_gold_common-concepts:SAND[1 1] (0.0,Infinity): 1.177689302788734 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SEE'>featureClockRate:Quechuan_gold_common-concepts:SEE[1 1] (0.0,Infinity): 1.396549241881477 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SEED'>featureClockRate:Quechuan_gold_common-concepts:SEED[1 1] (0.0,Infinity): 0.4989706283218651 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SEW'>featureClockRate:Quechuan_gold_common-concepts:SEW[1 1] (0.0,Infinity): 0.1536986016519143 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SIT'>featureClockRate:Quechuan_gold_common-concepts:SIT[1 1] (0.0,Infinity): 0.3159607824804241 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SKIN'>featureClockRate:Quechuan_gold_common-concepts:SKIN[1 1] (0.0,Infinity): 0.4189157891256092 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SMALL'>featureClockRate:Quechuan_gold_common-concepts:SMALL[1 1] (0.0,Infinity): 1.4790486647310424 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SMOKE_(EXHAUST)'>featureClockRate:Quechuan_gold_common-concepts:SMOKE_(EXHAUST)[1 1] (0.0,Infinity): 0.9144051499363444 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:STAND'>featureClockRate:Quechuan_gold_common-concepts:STAND[1 1] (0.0,Infinity): 0.2862350748995148 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:STAR'>featureClockRate:Quechuan_gold_common-concepts:STAR[1 1] (0.0,Infinity): 3.4477814450025006 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SUCK'>featureClockRate:Quechuan_gold_common-concepts:SUCK[1 1] (0.0,Infinity): 2.35394914197667 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SUN'>featureClockRate:Quechuan_gold_common-concepts:SUN[1 1] (0.0,Infinity): 1.0832326736401623 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:SWIM'>featureClockRate:Quechuan_gold_common-concepts:SWIM[1 1] (0.0,Infinity): 2.340242516934323 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:THINK_(REFLECT)'>featureClockRate:Quechuan_gold_common-concepts:THINK_(REFLECT)[1 1] (0.0,Infinity): 1.089631757364959 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:TREE'>featureClockRate:Quechuan_gold_common-concepts:TREE[1 1] (0.0,Infinity): 2.379014082370473 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:WALK'>featureClockRate:Quechuan_gold_common-concepts:WALK[1 1] (0.0,Infinity): 0.1871726237134016 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:WATER'>featureClockRate:Quechuan_gold_common-concepts:WATER[1 1] (0.0,Infinity): 1.3457712274574332 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:WHITE'>featureClockRate:Quechuan_gold_common-concepts:WHITE[1 1] (0.0,Infinity): 0.12179126036842688 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:WHO'>featureClockRate:Quechuan_gold_common-concepts:WHO[1 1] (0.0,Infinity): 0.470829873988748 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:WIND'>featureClockRate:Quechuan_gold_common-concepts:WIND[1 1] (0.0,Infinity): 0.3946264103165956 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:WING'>featureClockRate:Quechuan_gold_common-concepts:WING[1 1] (0.0,Infinity): 2.4808230901018273 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:WORM'>featureClockRate:Quechuan_gold_common-concepts:WORM[1 1] (0.0,Infinity): 0.5236893041895587 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:YEAR'>featureClockRate:Quechuan_gold_common-concepts:YEAR[1 1] (0.0,Infinity): 0.09462247148219481 </statenode>
+<statenode id='featureClockRate:Quechuan_gold_common-concepts:YELLOW'>featureClockRate:Quechuan_gold_common-concepts:YELLOW[1 1] (0.0,Infinity): 0.8889454428044496 </statenode>
+<statenode id='featureClockRateGammaShape:Quechuan_gold_common-concepts'>featureClockRateGammaShape:Quechuan_gold_common-concepts[1 1] (1.1,100.0): 1.4601333851886966 </statenode>
+<statenode id='featureClockRateGammaScale:Quechuan_gold_common-concepts'>featureClockRateGammaScale:Quechuan_gold_common-concepts[1 1] (-Infinity,Infinity): 0.6848689374161342 </statenode>
+<statenode id='covarion_alpha.s:Quechuan_gold_common-concepts'>covarion_alpha.s:Quechuan_gold_common-concepts[1 1] (1.0E-4,1.0): 0.6917214982278617 </statenode>
+<statenode id='covarion_s.s:Quechuan_gold_common-concepts'>covarion_s.s:Quechuan_gold_common-concepts[1 1] (1.0E-4,Infinity): 6.976119754796644E-4 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"SubtreeSlide.t:beastlingTree","p":0.3952903012366567,"accept":5746,"reject":251976,"acceptFC":5706,"rejectFC":247768,"rejectIv":119980,"rejectOp":119980},
+{"id":"narrow.t:beastlingTree","p":"NaN","accept":51838,"reject":207109,"acceptFC":50770,"rejectFC":203886,"rejectIv":0,"rejectOp":0},
+{"id":"wide.t:beastlingTree","p":"NaN","accept":219,"reject":51174,"acceptFC":205,"rejectFC":50381,"rejectIv":26251,"rejectOp":26251},
+{"id":"WilsonBalding.t:beastlingTree","p":"NaN","accept":235,"reject":51209,"acceptFC":213,"rejectFC":50368,"rejectIv":5953,"rejectOp":5953},
+{"id":"UniformOperator.t:beastlingTree","p":"NaN","accept":211641,"reject":304756,"acceptFC":208097,"rejectFC":299723,"rejectIv":0,"rejectOp":0},
+{"id":"treeScaler.t:beastlingTree","p":0.6569443940693394,"accept":10150,"reject":41370,"acceptFC":10038,"rejectFC":40641,"rejectIv":0,"rejectOp":0},
+{"id":"treeRootScaler.t:beastlingTree","p":0.5848999441494163,"accept":7565,"reject":43744,"acceptFC":7461,"rejectFC":42994,"rejectIv":13538,"rejectOp":13538},
+{"id":"UpDown","p":0.6543901728176135,"accept":10775,"reject":40673,"acceptFC":10657,"rejectFC":39959,"rejectIv":0,"rejectOp":0},
+{"id":"YuleBirthRateScaler.t:beastlingTree","p":0.3904623050500855,"accept":13504,"reject":37996,"acceptFC":13191,"rejectFC":37452,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesRandomWalkOperator.c:default","p":"NaN","accept":107770,"reject":63854,"acceptFC":105955,"rejectFC":62759,"rejectIv":59162,"rejectOp":59162},
+{"id":"rateCategoriesSwapOperator.c:default","p":"NaN","accept":72995,"reject":99101,"acceptFC":71890,"rejectFC":97416,"rejectIv":0,"rejectOp":0},
+{"id":"rateCategoriesUniformOperator.c:default","p":"NaN","accept":96493,"reject":75451,"acceptFC":95012,"rejectFC":74158,"rejectIv":0,"rejectOp":0},
+{"id":"ucldSdevScaler.c:default","p":0.5619521519545788,"accept":10793,"reject":40921,"acceptFC":10643,"rejectFC":40231,"rejectIv":0,"rejectOp":0},
+{"id":"featureClockRateGammaUpDown:Quechuan_gold_common-concepts","p":0.4013126636555091,"accept":1031,"reject":4093,"acceptFC":1002,"rejectFC":4024,"rejectIv":757,"rejectOp":757},
+{"id":"covarion_alpha_scaler.s:Quechuan_gold_common-concepts","p":0.17640400024359043,"accept":4837,"reject":12474,"acceptFC":4635,"rejectFC":12389,"rejectIv":6830,"rejectOp":6830},
+{"id":"Quechuan_gold_common-concepts:covarion_s_scaler.s","p":0.2932410953353121,"accept":7202,"reject":10139,"acceptFC":7114,"rejectFC":9959,"rejectIv":73,"rejectOp":73},
+{"id":"featureClockRateDeltaExchanger:default","p":1.3002113531694681,"accept":11929,"reject":39238,"acceptFC":11762,"rejectFC":38530,"rejectIv":19728,"rejectOp":19728}
+]}
+-->

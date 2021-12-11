@@ -1,0 +1,6807 @@
+Language_ID,Feature_ID,IPA,Value
+Aichi,COLD,sabjuː,1
+Akita,COLD,samue,1
+Chiba,COLD,sabiː,1
+Fukui,COLD,sabui,1
+Fukuoka,COLD,samuka,1
+Fukushima,COLD,sameː,1
+Gifu,COLD,sabjuː,1
+Gunma,COLD,samiː,1
+Hiroshima,COLD,sabui,1
+Hyōgo,COLD,sabui,1
+Ibaraki,COLD,samue,1
+Ishikawa,COLD,sabui,1
+Kagawa,COLD,sabui,1
+Kanagawa,COLD,samiː,1
+Kumamoto,COLD,saɴka,1
+Kyōtō,COLD,samui,1
+Mie,COLD,samui,1
+Miyazaki,COLD,sami,1
+Nagano,COLD,sabiː,1
+Nagasaki,COLD,samuka,1
+Nara,COLD,sabui,1
+Niigata,COLD,saːme,1
+Okayama,COLD,samiː,1
+Saitama,COLD,samiː,1
+Shiga,COLD,samui,1
+Shimane,COLD,samiː,1
+Shizuoka,COLD,sabiː,1
+Tochigi,COLD,samui,1
+Tokushima,COLD,samui,1
+Tottori,COLD,samui,1
+Toyama,COLD,sabui,1
+Tōkyō,COLD,samui,1
+Wakayama,COLD,sabui,1
+Yamagata,COLD,saɴbu,1
+Yamaguchi,COLD,samiː,1
+Yamanashi,COLD,samui,1
+Ōita,COLD,samiː,1
+Ōsaka,COLD,sabui,1
+Aomori,COLD,suɴbareru,2
+Hokkaidō,COLD,ʃibareru,2
+Iwate,COLD,suɴbareru,2
+Miyagi,COLD,subareru,2
+Old_Japanese,COLD,samuʃi,2
+Ehime,COLD,çijai,3
+Kagoshima,COLD,çijuʔ,3
+Kōchi,COLD,çijai,3
+Naze,COLD,çiɡuruʃaɴ,3
+Okinawa,COLD,çiːʃeɴ,3
+Saga,COLD,çijka,3
+Hachijō,COLD,koɡeiru,4
+Hateruma,COLD,piʃahaɴ,5
+Hirara,COLD,psɨʃikaɨ,5
+Ikema,COLD,ʔʃikai,5
+Irafu,COLD,psɨʃikam,5
+Ishigaki,COLD,piːʃaɴ,5
+Taketomi,COLD,piːjaɴ,5
+Tarama,COLD,piːʃaːl,5
+Yonaguni,COLD,çisaɴ,5
+Aichi,WIDE,çirøː,6
+Akita,WIDE,ʃire,6
+Aomori,WIDE,sure,6
+Chiba,WIDE,çireː,6
+Ehime,WIDE,çiroi,6
+Fukui,WIDE,çiroi,6
+Fukuoka,WIDE,çiroka,6
+Fukushima,WIDE,çiroi,6
+Gifu,WIDE,çirøː,6
+Gunma,WIDE,çiroi,6
+Hachijō,WIDE,çirokja,6
+Hiroshima,WIDE,çiroi,6
+Hokkaidō,WIDE,çiroi,6
+Hyōgo,WIDE,çiroi,6
+Ibaraki,WIDE,çiroe,6
+Ishikawa,WIDE,çiroi,6
+Iwate,WIDE,çire,6
+Kagawa,WIDE,çiroi,6
+Kagoshima,WIDE,çire,6
+Kanagawa,WIDE,çireː,6
+Kumamoto,WIDE,çiroka,6
+Kyōtō,WIDE,çiroi,6
+Kōchi,WIDE,çiroi,6
+Mie,WIDE,çiroi,6
+Miyagi,WIDE,çiroe,6
+Miyazaki,WIDE,çiri,6
+Nagano,WIDE,ʃireː,6
+Nagasaki,WIDE,çiroka,6
+Nara,WIDE,çiroi,6
+Naze,WIDE,çiruʃaɴ,6
+Niigata,WIDE,çireː,6
+Okayama,WIDE,çireː,6
+Okinawa,WIDE,çiruʃeɴ,6
+Old_Japanese,WIDE,çirøʃi,6
+Saga,WIDE,çiroka,6
+Saitama,WIDE,βireː,6
+Shiga,WIDE,çiroi,6
+Shimane,WIDE,βuroe,6
+Shizuoka,WIDE,çireː,6
+Tochigi,WIDE,çiroi,6
+Tokushima,WIDE,çiroi,6
+Tottori,WIDE,çiroi,6
+Toyama,WIDE,heroi,6
+Tōkyō,WIDE,çiroi,6
+Wakayama,WIDE,çiroi,6
+Yamagata,WIDE,βiːre,6
+Yamaguchi,WIDE,çirøː,6
+Yamanashi,WIDE,çiroi,6
+Ōita,WIDE,çiriː,6
+Ōsaka,WIDE,çiroi,6
+Hateruma,WIDE,psɨsuhaɴ,7
+Hirara,WIDE,psɨsukaɨ,7
+Irafu,WIDE,psɨsukal,7
+Taketomi,WIDE,piʣoːɴ,7
+Tarama,WIDE,psɨsuʃaːl,7
+Ikema,WIDE,βuikai,8
+Ishigaki,WIDE,maiʃaːɴ,9
+Yonaguni,WIDE,maisaɴ,9
+Aichi,DOG,inu,10
+Akita,DOG,enu,10
+Aomori,DOG,enu,10
+Chiba,DOG,inu,10
+Ehime,DOG,inu,10
+Fukui,DOG,inu,10
+Fukuoka,DOG,iɴ,10
+Fukushima,DOG,inu,10
+Gifu,DOG,inu,10
+Gunma,DOG,inu,10
+Hachijō,DOG,inume,10
+Hateruma,DOG,inu,10
+Hirara,DOG,iɴ,10
+Hiroshima,DOG,inu,10
+Hokkaidō,DOG,inu,10
+Hyōgo,DOG,inu,10
+Ibaraki,DOG,enu,10
+Ikema,DOG,iɴ,10
+Irafu,DOG,iɴ,10
+Ishigaki,DOG,iɴ,10
+Ishikawa,DOG,iɴ,10
+Iwate,DOG,enu,10
+Kagawa,DOG,inu,10
+Kagoshima,DOG,iɴ,10
+Kanagawa,DOG,inu,10
+Kumamoto,DOG,iɴ,10
+Kyōtō,DOG,inu,10
+Kōchi,DOG,inu,10
+Mie,DOG,inu,10
+Miyagi,DOG,enu,10
+Miyazaki,DOG,iɴ,10
+Nagano,DOG,eno,10
+Nagasaki,DOG,inu,10
+Nara,DOG,inu,10
+Naze,DOG,iɴ,10
+Niigata,DOG,eɴɡa,10
+Okayama,DOG,inu,10
+Okinawa,DOG,iɴɡwaː,10
+Old_Japanese,DOG,inu,10
+Saga,DOG,iɴ,10
+Saitama,DOG,inu,10
+Shiga,DOG,inu,10
+Shimane,DOG,eno,10
+Shizuoka,DOG,inu,10
+Taketomi,DOG,iɴ,10
+Tarama,DOG,ina,10
+Tochigi,DOG,inu,10
+Tokushima,DOG,inu,10
+Tottori,DOG,inu,10
+Toyama,DOG,iɴ,10
+Tōkyō,DOG,inu,10
+Wakayama,DOG,inu,10
+Yamagata,DOG,enu,10
+Yamaguchi,DOG,inu,10
+Yamanashi,DOG,inu,10
+Yonaguni,DOG,inu,10
+Ōita,DOG,iɴ,10
+Ōsaka,DOG,inu,10
+Aichi,KNOW (SOMETHING),ʃiru,11
+Chiba,KNOW (SOMETHING),ʃiru,11
+Ehime,KNOW (SOMETHING),ʃiru,11
+Fukui,KNOW (SOMETHING),ʃiru,11
+Fukuoka,KNOW (SOMETHING),ʃiru,11
+Fukushima,KNOW (SOMETHING),ʃiru,11
+Gifu,KNOW (SOMETHING),ʃiru,11
+Gunma,KNOW (SOMETHING),ʃiru,11
+Hirara,KNOW (SOMETHING),ʔsɨ,11
+Hiroshima,KNOW (SOMETHING),ʃiru,11
+Hokkaidō,KNOW (SOMETHING),ʃiru,11
+Hyōgo,KNOW (SOMETHING),ʃiru,11
+Ibaraki,KNOW (SOMETHING),ʃiru,11
+Ikema,KNOW (SOMETHING),sɨː,11
+Irafu,KNOW (SOMETHING),sɨː,11
+Ishigaki,KNOW (SOMETHING),ʃiɴ,11
+Ishikawa,KNOW (SOMETHING),ʃiru,11
+Kagawa,KNOW (SOMETHING),ʃiru,11
+Kagoshima,KNOW (SOMETHING),ʃiʔ,11
+Kanagawa,KNOW (SOMETHING),ʃiru,11
+Kumamoto,KNOW (SOMETHING),ʃiru,11
+Kyōtō,KNOW (SOMETHING),ʃiru,11
+Kōchi,KNOW (SOMETHING),ʃiru,11
+Mie,KNOW (SOMETHING),ʃiru,11
+Miyagi,KNOW (SOMETHING),suru,11
+Miyazaki,KNOW (SOMETHING),ʃiru,11
+Nagano,KNOW (SOMETHING),ʃiru,11
+Nagasaki,KNOW (SOMETHING),ʃiru,11
+Nara,KNOW (SOMETHING),ʃiru,11
+Naze,KNOW (SOMETHING),sɨʔʧuri,11
+Niigata,KNOW (SOMETHING),ʃiru,11
+Okayama,KNOW (SOMETHING),ʃiru,11
+Old_Japanese,KNOW (SOMETHING),ʃiru,11
+Saga,KNOW (SOMETHING),ʃiʔ,11
+Saitama,KNOW (SOMETHING),ʃiru,11
+Shiga,KNOW (SOMETHING),ʃiru,11
+Shimane,KNOW (SOMETHING),ʃiː,11
+Shizuoka,KNOW (SOMETHING),ʃiru,11
+Tarama,KNOW (SOMETHING),sɨː,11
+Tochigi,KNOW (SOMETHING),ʃiru,11
+Tokushima,KNOW (SOMETHING),ʃiru,11
+Tottori,KNOW (SOMETHING),ʃiru,11
+Toyama,KNOW (SOMETHING),ʃiru,11
+Tōkyō,KNOW (SOMETHING),ʃiru,11
+Wakayama,KNOW (SOMETHING),ʃiru,11
+Yamaguchi,KNOW (SOMETHING),ʃiru,11
+Yamanashi,KNOW (SOMETHING),ʃiru,11
+Ōita,KNOW (SOMETHING),ʃiru,11
+Ōsaka,KNOW (SOMETHING),ʃiru,11
+Akita,KNOW (SOMETHING),oɴberu,12
+Aomori,KNOW (SOMETHING),oɴberu,12
+Iwate,KNOW (SOMETHING),oɴberu,12
+Yamagata,KNOW (SOMETHING),oberu,12
+Hachijō,KNOW (SOMETHING),ʃokja,13
+Hateruma,KNOW (SOMETHING),baɡaruɴ,14
+Okinawa,KNOW (SOMETHING),wakaiɴ,14
+Taketomi,KNOW (SOMETHING),ʔʃeːɴ,15
+Yonaguni,KNOW (SOMETHING),ʔatiʔaɴ,16
+Aichi,CLOUD,kumo,17
+Akita,CLOUD,kumo,17
+Aomori,CLOUD,kumo,17
+Chiba,CLOUD,kumo,17
+Ehime,CLOUD,kumo,17
+Fukui,CLOUD,kumo,17
+Fukuoka,CLOUD,kumo,17
+Fukushima,CLOUD,kumo,17
+Gifu,CLOUD,kumo,17
+Gunma,CLOUD,kumo,17
+Hachijō,CLOUD,kumo,17
+Hateruma,CLOUD,βumoɴ,17
+Hirara,CLOUD,βumu,17
+Hiroshima,CLOUD,kumo,17
+Hokkaidō,CLOUD,kumo,17
+Hyōgo,CLOUD,kumo,17
+Ibaraki,CLOUD,kumo,17
+Irafu,CLOUD,βumu,17
+Ishigaki,CLOUD,kumu,17
+Ishikawa,CLOUD,kumo,17
+Iwate,CLOUD,kumo,17
+Kagawa,CLOUD,kumo,17
+Kagoshima,CLOUD,kumo,17
+Kanagawa,CLOUD,kumo,17
+Kumamoto,CLOUD,kumo,17
+Kyōtō,CLOUD,kumo,17
+Kōchi,CLOUD,kumo,17
+Mie,CLOUD,kumo,17
+Miyagi,CLOUD,kumo,17
+Miyazaki,CLOUD,kumo,17
+Nagano,CLOUD,kumo,17
+Nagasaki,CLOUD,kumo,17
+Nara,CLOUD,kumo,17
+Naze,CLOUD,kʔumu,17
+Niigata,CLOUD,kumo,17
+Okayama,CLOUD,kumo,17
+Okinawa,CLOUD,kumuː,17
+Old_Japanese,CLOUD,kumo,17
+Saga,CLOUD,kumo,17
+Saitama,CLOUD,kumo,17
+Shiga,CLOUD,kumo,17
+Shimane,CLOUD,kumo,17
+Shizuoka,CLOUD,kumo,17
+Taketomi,CLOUD,βumu,17
+Tarama,CLOUD,βumu,17
+Tochigi,CLOUD,kumo,17
+Tokushima,CLOUD,kumo,17
+Tottori,CLOUD,kumo,17
+Toyama,CLOUD,kumo,17
+Tōkyō,CLOUD,kumo,17
+Wakayama,CLOUD,kumo,17
+Yamagata,CLOUD,kumo,17
+Yamaguchi,CLOUD,kumo,17
+Yamanashi,CLOUD,kumo,17
+Ōita,CLOUD,kumo,17
+Ōsaka,CLOUD,kumo,17
+Ikema,CLOUD,ɴmu,18
+Yonaguni,CLOUD,ɴmu,18
+Aichi,BURN,jaku,19
+Akita,BURN,jaɡu,19
+Aomori,BURN,jaɡu,19
+Chiba,BURN,jaku,19
+Ehime,BURN,jaku,19
+Fukui,BURN,jaku,19
+Fukuoka,BURN,jaku,19
+Fukushima,BURN,jaɡu,19
+Gifu,BURN,jaku,19
+Gunma,BURN,jaɡu,19
+Hachijō,BURN,jaku,19
+Hateruma,BURN,jaɡuɴ,19
+Hirara,BURN,jaksɨ,19
+Hiroshima,BURN,jaku,19
+Hokkaidō,BURN,jaku,19
+Hyōgo,BURN,jaku,19
+Ibaraki,BURN,jaɡu,19
+Ikema,BURN,jaβu,19
+Irafu,BURN,jaβu,19
+Ishigaki,BURN,jakuɴ,19
+Ishikawa,BURN,jaku,19
+Iwate,BURN,jaɡu,19
+Kagawa,BURN,jaku,19
+Kagoshima,BURN,jaʔ,19
+Kanagawa,BURN,jaku,19
+Kumamoto,BURN,jaku,19
+Kōchi,BURN,jaku,19
+Mie,BURN,jaku,19
+Miyagi,BURN,jaɡu,19
+Miyazaki,BURN,jaku,19
+Nagano,BURN,jaku,19
+Nagasaki,BURN,jaku,19
+Nara,BURN,jaku,19
+Naze,BURN,jakjuɴ,19
+Niigata,BURN,jaku,19
+Okayama,BURN,jaku,19
+Okinawa,BURN,jakuɴ,19
+Saga,BURN,jaku,19
+Saitama,BURN,jaku,19
+Shimane,BURN,jaku,19
+Shizuoka,BURN,jaku,19
+Taketomi,BURN,jakuɴ,19
+Tarama,BURN,jaksɨ,19
+Tochigi,BURN,jaɡu,19
+Tokushima,BURN,jaku,19
+Tottori,BURN,jaku,19
+Toyama,BURN,jaku,19
+Tōkyō,BURN,jaku,19
+Wakayama,BURN,jaku,19
+Yamagata,BURN,jaɡu,19
+Yamaguchi,BURN,jaku,19
+Yamanashi,BURN,jaku,19
+Yonaguni,BURN,daɡuɴ,19
+Ōita,BURN,jaku,19
+Ōsaka,BURN,jaku,19
+Kyōtō,BURN,taku,20
+Shiga,BURN,taku,20
+Old_Japanese,BURN,moju,21
+Aichi,NECK,kubi,22
+Akita,NECK,kuɴbi,22
+Aomori,NECK,kuɴpita,22
+Chiba,NECK,kubi,22
+Ehime,NECK,kubi,22
+Fukui,NECK,kubi,22
+Fukuoka,NECK,kubi,22
+Fukushima,NECK,kubi,22
+Gifu,NECK,kubi,22
+Gunma,NECK,kubi,22
+Hachijō,NECK,kubi,22
+Hiroshima,NECK,kubi,22
+Hokkaidō,NECK,kubi,22
+Hyōgo,NECK,kubi,22
+Ibaraki,NECK,kubi,22
+Ishikawa,NECK,kubi,22
+Iwate,NECK,kubi,22
+Kagawa,NECK,kubi,22
+Kagoshima,NECK,kuʔ,22
+Kanagawa,NECK,kubi,22
+Kumamoto,NECK,kubi,22
+Kyōtō,NECK,kubi,22
+Kōchi,NECK,kubi,22
+Mie,NECK,kubi,22
+Miyagi,NECK,kuɴpita,22
+Miyazaki,NECK,kubi,22
+Nagano,NECK,kubi,22
+Nagasaki,NECK,kubi,22
+Nara,NECK,kubi,22
+Naze,NECK,kʔubi,22
+Niigata,NECK,kubi,22
+Okayama,NECK,kubi,22
+Okinawa,NECK,kubi,22
+Old_Japanese,NECK,kubi,22
+Saga,NECK,kubi,22
+Saitama,NECK,kubi,22
+Shiga,NECK,kubi,22
+Shimane,NECK,kubi,22
+Shizuoka,NECK,kubi,22
+Tochigi,NECK,kubi,22
+Tokushima,NECK,kubi,22
+Tottori,NECK,kubi,22
+Toyama,NECK,kubi,22
+Tōkyō,NECK,kubi,22
+Wakayama,NECK,kubi,22
+Yamagata,NECK,kuɴbi,22
+Yamaguchi,NECK,kubi,22
+Yamanashi,NECK,kubi,22
+Ōita,NECK,kubi,22
+Ōsaka,NECK,kubi,22
+Hateruma,NECK,mansɨɴ,23
+Hirara,NECK,nubui,24
+Ikema,NECK,nudu,24
+Irafu,NECK,nubui,24
+Ishigaki,NECK,nubi,24
+Taketomi,NECK,nubi,24
+Yonaguni,NECK,nubi,24
+Tarama,NECK,βuʤɨbuni,25
+Aichi,MALE PERSON,otoko,26
+Akita,MALE PERSON,odoko,26
+Aomori,MALE PERSON,odoko,26
+Chiba,MALE PERSON,otoː,26
+Ehime,MALE PERSON,otoko,26
+Fukui,MALE PERSON,otoko,26
+Fukuoka,MALE PERSON,otoko,26
+Fukushima,MALE PERSON,odoɡo,26
+Gifu,MALE PERSON,otoko,26
+Gunma,MALE PERSON,otoko,26
+Hachijō,MALE PERSON,onokoɡo,26
+Hiroshima,MALE PERSON,otoko,26
+Hokkaidō,MALE PERSON,otoko,26
+Hyōgo,MALE PERSON,otoko,26
+Ibaraki,MALE PERSON,otoko,26
+Ishikawa,MALE PERSON,otoko,26
+Iwate,MALE PERSON,odoɡo,26
+Kagawa,MALE PERSON,otoko,26
+Kagoshima,MALE PERSON,otoko,26
+Kanagawa,MALE PERSON,otoko,26
+Kumamoto,MALE PERSON,otoko,26
+Kyōtō,MALE PERSON,otoko,26
+Kōchi,MALE PERSON,otoko,26
+Mie,MALE PERSON,otoko,26
+Miyagi,MALE PERSON,odoɡo,26
+Miyazaki,MALE PERSON,otoko,26
+Nagano,MALE PERSON,otoko,26
+Nagasaki,MALE PERSON,otoko,26
+Nara,MALE PERSON,otoko,26
+Niigata,MALE PERSON,otoko,26
+Okayama,MALE PERSON,otoko,26
+Old_Japanese,MALE PERSON,wo,26
+Saga,MALE PERSON,otoko,26
+Saitama,MALE PERSON,otoko,26
+Shiga,MALE PERSON,otoko,26
+Shimane,MALE PERSON,otoko,26
+Shizuoka,MALE PERSON,otoko,26
+Tochigi,MALE PERSON,otoko,26
+Tokushima,MALE PERSON,otoko,26
+Tottori,MALE PERSON,otoko,26
+Toyama,MALE PERSON,otoko,26
+Tōkyō,MALE PERSON,otoko,26
+Wakayama,MALE PERSON,otoko,26
+Yamagata,MALE PERSON,odoɡo,26
+Yamaguchi,MALE PERSON,otoko,26
+Yamanashi,MALE PERSON,otoko,26
+Ōita,MALE PERSON,otoko,26
+Ōsaka,MALE PERSON,otoko,26
+Hateruma,MALE PERSON,bidumu,27
+Hirara,MALE PERSON,bikidum,27
+Ikema,MALE PERSON,bikidul,27
+Irafu,MALE PERSON,bikidum,27
+Ishigaki,MALE PERSON,biɡiduɴ,27
+Taketomi,MALE PERSON,bikidumu,27
+Tarama,MALE PERSON,bikidum,27
+Yonaguni,MALE PERSON,biɴɡa,27
+Naze,MALE PERSON,iɴɡa,28
+Okinawa,MALE PERSON,ikiːɡa,28
+Aichi,STONE,iʃina,29
+Akita,STONE,eʃi,29
+Aomori,STONE,esu,29
+Chiba,STONE,iʃi,29
+Ehime,STONE,iʃi,29
+Fukui,STONE,iʃi,29
+Fukuoka,STONE,iʃi,29
+Fukushima,STONE,iʃi,29
+Gifu,STONE,iʃina,29
+Gunma,STONE,iʃi,29
+Hachijō,STONE,iʃi,29
+Hateruma,STONE,ʔiʃi,29
+Hirara,STONE,isɨ,29
+Hiroshima,STONE,iʃi,29
+Hokkaidō,STONE,iʃi,29
+Hyōgo,STONE,iʃi,29
+Ibaraki,STONE,eʃi,29
+Ikema,STONE,isɨ,29
+Irafu,STONE,isɨ,29
+Ishigaki,STONE,ʔiʃi,29
+Ishikawa,STONE,iʃi,29
+Iwate,STONE,esu,29
+Kagawa,STONE,iʃi,29
+Kagoshima,STONE,iʃ,29
+Kanagawa,STONE,iʃi,29
+Kumamoto,STONE,iʃi,29
+Kyōtō,STONE,iʃi,29
+Kōchi,STONE,iʃi,29
+Mie,STONE,iʃi,29
+Miyagi,STONE,esu,29
+Miyazaki,STONE,iʃi,29
+Nagano,STONE,eʃi,29
+Nagasaki,STONE,iʃi,29
+Nara,STONE,iʃi,29
+Naze,STONE,isɨ,29
+Niigata,STONE,eʃi,29
+Okayama,STONE,iʃi,29
+Okinawa,STONE,iʃi,29
+Old_Japanese,STONE,iʃi,29
+Saga,STONE,iʃi,29
+Saitama,STONE,iʃi,29
+Shiga,STONE,iʃi,29
+Shimane,STONE,eʃi,29
+Shizuoka,STONE,iʃi,29
+Taketomi,STONE,iʃi,29
+Tarama,STONE,iʃi,29
+Tochigi,STONE,iʃi,29
+Tokushima,STONE,iʃi,29
+Tottori,STONE,iʃi,29
+Toyama,STONE,iʃi,29
+Tōkyō,STONE,iʃi,29
+Wakayama,STONE,iʃi,29
+Yamagata,STONE,eʃi,29
+Yamaguchi,STONE,iʃi,29
+Yamanashi,STONE,iʃi,29
+Yonaguni,STONE,iʧi,29
+Ōita,STONE,iʃi,29
+Ōsaka,STONE,iʃi,29
+Aichi,COUNT,kaɴjoseru,30
+Aomori,COUNT,kaɴʤoeru,30
+Chiba,COUNT,kaɴjoː,30
+Fukuoka,COUNT,kaɴneru,30
+Fukushima,COUNT,kaɴjoːʃiru,30
+Gifu,COUNT,kaɴjoːseru,30
+Gunma,COUNT,kaɴjoːsuru,30
+Hachijō,COUNT,kaɴjoːsu,30
+Ibaraki,COUNT,kaɴjoːsuru,30
+Iwate,COUNT,kaɴjeru,30
+Kagoshima,COUNT,kaɴʣuʔ,30
+Kanagawa,COUNT,kaɴjoːsuru,30
+Kumamoto,COUNT,kaɴʤuru,30
+Nagano,COUNT,kaɴjoːʃiru,30
+Niigata,COUNT,kaɴjoː,30
+Saga,COUNT,kaʣojuru,30
+Saitama,COUNT,kaɴjoːsuru,30
+Shizuoka,COUNT,kaɴjoːʃiru,30
+Toyama,COUNT,kaɴjoːsuru,30
+Akita,COUNT,kaɴjeru,31
+Ehime,COUNT,kaʣueru,31
+Fukui,COUNT,kaɴjeru,31
+Hiroshima,COUNT,kaʣueru,31
+Hokkaidō,COUNT,kaʣoeru,31
+Kōchi,COUNT,kaʣueru,31
+Mie,COUNT,kaʣoeru,31
+Miyagi,COUNT,kaɴʣoeru,31
+Miyazaki,COUNT,kaʣojuru,31
+Nagasaki,COUNT,kaʣojuru,31
+Nara,COUNT,kaʣueru,31
+Okayama,COUNT,kaʣueru,31
+Old_Japanese,COUNT,kaʣoβu,31
+Shiga,COUNT,kaʣoeru,31
+Shimane,COUNT,kajeː,31
+Tochigi,COUNT,kaʣoeru,31
+Tottori,COUNT,kaʣureru,31
+Tōkyō,COUNT,kaʣoeru,31
+Yamagata,COUNT,kaɴjeru,31
+Yamaguchi,COUNT,kaʣøːru,31
+Yamanashi,COUNT,kaʣoeru,31
+Ōita,COUNT,kaʣojuru,31
+Hateruma,COUNT,jumuɴ,32
+Hirara,COUNT,jum,32
+Hyōgo,COUNT,jomu,32
+Ikema,COUNT,jum,32
+Irafu,COUNT,jum,32
+Ishikawa,COUNT,joɴ,32
+Kagawa,COUNT,jomu,32
+Kyōtō,COUNT,jomu,32
+Naze,COUNT,jumjuɴ,32
+Okinawa,COUNT,jumuɴ,32
+Taketomi,COUNT,jumuɴ,32
+Tarama,COUNT,jum,32
+Tokushima,COUNT,jomu,32
+Wakayama,COUNT,jomu,32
+Ōsaka,COUNT,kaʣujomu,32
+Ishigaki,COUNT,saɴmiɴsɨː,33
+Yonaguni,COUNT,dumi,34
+Aichi,THINK,omoː,35
+Akita,THINK,omou,35
+Aomori,THINK,omoru,35
+Chiba,THINK,omou,35
+Ehime,THINK,omou,35
+Fukui,THINK,omou,35
+Fukuoka,THINK,omou,35
+Fukushima,THINK,omou,35
+Gifu,THINK,omoː,35
+Gunma,THINK,omoː,35
+Hachijō,THINK,omoːwa,35
+Hateruma,THINK,muɴ,35
+Hirara,THINK,umuː,35
+Hiroshima,THINK,omoː,35
+Hokkaidō,THINK,omou,35
+Hyōgo,THINK,omou,35
+Ibaraki,THINK,omoː,35
+Ikema,THINK,umuː,35
+Irafu,THINK,umuː,35
+Ishigaki,THINK,ʔumuiɴ,35
+Ishikawa,THINK,omoː,35
+Iwate,THINK,omou,35
+Kagawa,THINK,omou,35
+Kagoshima,THINK,omoː,35
+Kanagawa,THINK,omoː,35
+Kumamoto,THINK,omou,35
+Kyōtō,THINK,omou,35
+Kōchi,THINK,omou,35
+Mie,THINK,omou,35
+Miyagi,THINK,omou,35
+Miyazaki,THINK,omuː,35
+Nagano,THINK,omoː,35
+Nagasaki,THINK,omoː,35
+Nara,THINK,omou,35
+Naze,THINK,omojuri,35
+Niigata,THINK,omoː,35
+Okayama,THINK,omoː,35
+Okinawa,THINK,ʔumuiɴ,35
+Old_Japanese,THINK,ømøβu,35
+Saga,THINK,omoː,35
+Saitama,THINK,omoː,35
+Shiga,THINK,omou,35
+Shimane,THINK,omoː,35
+Shizuoka,THINK,omoː,35
+Taketomi,THINK,umuːɴ,35
+Tarama,THINK,umuː,35
+Tochigi,THINK,omoː,35
+Tokushima,THINK,omou,35
+Tottori,THINK,omoː,35
+Toyama,THINK,omoː,35
+Tōkyō,THINK,omoː,35
+Wakayama,THINK,omou,35
+Yamagata,THINK,omou,35
+Yamaguchi,THINK,omoː,35
+Yamanashi,THINK,omoː,35
+Yonaguni,THINK,ʔumuɴ,35
+Ōita,THINK,omuː,35
+Ōsaka,THINK,omou,35
+Aichi,WIND,kaʣe,36
+Akita,WIND,kaɴje,36
+Aomori,WIND,kaɴʣe,36
+Chiba,WIND,kade,36
+Ehime,WIND,kaʣe,36
+Fukui,WIND,kaje,36
+Fukuoka,WIND,kaje,36
+Fukushima,WIND,kaʣe,36
+Gifu,WIND,kaʣe,36
+Gunma,WIND,kaʣe,36
+Hachijō,WIND,kaʣe,36
+Hateruma,WIND,kaʤi,36
+Hirara,WIND,kaʤi,36
+Hiroshima,WIND,kade,36
+Hokkaidō,WIND,kaʣe,36
+Hyōgo,WIND,kaʣe,36
+Ibaraki,WIND,kaʣe,36
+Ikema,WIND,kadi,36
+Irafu,WIND,kaʤi,36
+Ishigaki,WIND,kaʤi,36
+Ishikawa,WIND,kaʣe,36
+Iwate,WIND,kaɴʣe,36
+Kagawa,WIND,kaʣe,36
+Kagoshima,WIND,kaʣe,36
+Kanagawa,WIND,kaʣe,36
+Kumamoto,WIND,kaje,36
+Kyōtō,WIND,kaʣe,36
+Kōchi,WIND,kaʣe,36
+Mie,WIND,kaʣe,36
+Miyagi,WIND,kaɴje,36
+Miyazaki,WIND,kaje,36
+Nagano,WIND,kaʣe,36
+Nagasaki,WIND,kaje,36
+Nara,WIND,kaʣe,36
+Naze,WIND,kaʤə,36
+Niigata,WIND,kaʣe,36
+Okayama,WIND,kaʣe,36
+Okinawa,WIND,haʤi,36
+Old_Japanese,WIND,kaʣe,36
+Saga,WIND,kaje,36
+Saitama,WIND,kaʣe,36
+Shiga,WIND,kaʣe,36
+Shimane,WIND,kaʣe,36
+Shizuoka,WIND,kaʣe,36
+Taketomi,WIND,kaʤi,36
+Tarama,WIND,kadi,36
+Tochigi,WIND,kaʣe,36
+Tokushima,WIND,kaʣe,36
+Tottori,WIND,kaʣe,36
+Toyama,WIND,kaʣe,36
+Tōkyō,WIND,kaʣe,36
+Wakayama,WIND,kaʣe,36
+Yamagata,WIND,kaɴʣe,36
+Yamaguchi,WIND,kaje,36
+Yamanashi,WIND,kaʣe,36
+Yonaguni,WIND,kadi,36
+Ōita,WIND,kaje,36
+Ōsaka,WIND,kaʣe,36
+Aichi,WHITE,ʃirøː,37
+Akita,WHITE,ʃire,37
+Aomori,WHITE,sure,37
+Chiba,WHITE,ʃireː,37
+Ehime,WHITE,ʃiroi,37
+Fukui,WHITE,ʃiroi,37
+Fukuoka,WHITE,ʃiroka,37
+Fukushima,WHITE,maʔʃiro,37
+Gifu,WHITE,ʃirøː,37
+Gunma,WHITE,ʃiroi,37
+Hachijō,WHITE,ʃirokja,37
+Hiroshima,WHITE,ʃiroi,37
+Hokkaidō,WHITE,ʃiroi,37
+Hyōgo,WHITE,ʃiroi,37
+Ibaraki,WHITE,ʃiroe,37
+Ishikawa,WHITE,ʃiroi,37
+Iwate,WHITE,sure,37
+Kagawa,WHITE,ʃiroi,37
+Kagoshima,WHITE,ʃire,37
+Kanagawa,WHITE,ʃireː,37
+Kumamoto,WHITE,ʃiroka,37
+Kyōtō,WHITE,ʃiroi,37
+Kōchi,WHITE,ʃiroi,37
+Mie,WHITE,ʃiroi,37
+Miyagi,WHITE,ʔʃoe,37
+Miyazaki,WHITE,maʔʃiri,37
+Nagano,WHITE,ʃireːnamaʔʧireː,37
+Nagasaki,WHITE,ʃiroka,37
+Nara,WHITE,ʃiroi,37
+Naze,WHITE,sɨruʃaɴ,37
+Niigata,WHITE,ʃireː,37
+Okayama,WHITE,ʃireː,37
+Okinawa,WHITE,ʃiruʃeɴ,37
+Old_Japanese,WHITE,ʃiroʃi,37
+Saga,WHITE,ʃiroka,37
+Saitama,WHITE,ʃire,37
+Shiga,WHITE,ʃirøe,37
+Shimane,WHITE,ʃiroe,37
+Shizuoka,WHITE,ʃiroi,37
+Tochigi,WHITE,ʃiroi,37
+Tokushima,WHITE,ʃiroi,37
+Tottori,WHITE,ʃiroi,37
+Toyama,WHITE,ʃiroi,37
+Tōkyō,WHITE,ʃiroi,37
+Wakayama,WHITE,ʃiroi,37
+Yamagata,WHITE,ʃiroe,37
+Yamaguchi,WHITE,ʃirøː,37
+Yamanashi,WHITE,ʃiroi,37
+Ōita,WHITE,ʃiriː,37
+Ōsaka,WHITE,ʃiroi,37
+Hateruma,WHITE,ʔsoːʃahaɴ,38
+Hirara,WHITE,ʔsukaɨ,38
+Ikema,WHITE,ʔsukai,38
+Irafu,WHITE,ʔsukam,38
+Taketomi,WHITE,ʔsoːɴ,38
+Tarama,WHITE,ʔsuʃaːl,38
+Ishigaki,WHITE,sɨsɨsaːɴ,39
+Yonaguni,WHITE,ʦudari,40
+Aichi,FOOT OR LEG,aʃi,41
+Akita,FOOT OR LEG,asu,41
+Aomori,FOOT OR LEG,asu,41
+Chiba,FOOT OR LEG,aʃi,41
+Ehime,FOOT OR LEG,aʃi,41
+Fukui,FOOT OR LEG,aʃi,41
+Fukuoka,FOOT OR LEG,aʃi,41
+Fukushima,FOOT OR LEG,asu,41
+Gifu,FOOT OR LEG,aʃi,41
+Gunma,FOOT OR LEG,aʃi,41
+Hachijō,FOOT OR LEG,aʃi,41
+Hiroshima,FOOT OR LEG,aʃi,41
+Hokkaidō,FOOT OR LEG,aʃi,41
+Hyōgo,FOOT OR LEG,aʃi,41
+Ibaraki,FOOT OR LEG,aʃi,41
+Ishikawa,FOOT OR LEG,aʃi,41
+Iwate,FOOT OR LEG,asu,41
+Kagawa,FOOT OR LEG,aʃi,41
+Kagoshima,FOOT OR LEG,aʃ,41
+Kanagawa,FOOT OR LEG,aʃi,41
+Kumamoto,FOOT OR LEG,aʃi,41
+Kyōtō,FOOT OR LEG,aʃi,41
+Kōchi,FOOT OR LEG,aʃi,41
+Mie,FOOT OR LEG,aʃi,41
+Miyagi,FOOT OR LEG,asu,41
+Miyazaki,FOOT OR LEG,aʃi,41
+Nagano,FOOT OR LEG,aʃi,41
+Nagasaki,FOOT OR LEG,aʃi,41
+Niigata,FOOT OR LEG,aʃi,41
+Okayama,FOOT OR LEG,aʃi,41
+Old_Japanese,FOOT OR LEG,aʃi,41
+Saga,FOOT OR LEG,aʃi,41
+Saitama,FOOT OR LEG,aʃi,41
+Shiga,FOOT OR LEG,aʃi,41
+Shimane,FOOT OR LEG,aʃi,41
+Shizuoka,FOOT OR LEG,aʃi,41
+Tochigi,FOOT OR LEG,aʃi,41
+Tokushima,FOOT OR LEG,aʃi,41
+Tottori,FOOT OR LEG,aʃi,41
+Toyama,FOOT OR LEG,aʃi,41
+Tōkyō,FOOT OR LEG,aʃi,41
+Wakayama,FOOT OR LEG,aʃi,41
+Yamagata,FOOT OR LEG,asu,41
+Yamaguchi,FOOT OR LEG,aʃi,41
+Yamanashi,FOOT OR LEG,aʃi,41
+Ōita,FOOT OR LEG,aʃi,41
+Ōsaka,FOOT OR LEG,aʃi,41
+Hateruma,FOOT OR LEG,paɴ,42
+Hirara,FOOT OR LEG,paɡzɨ,42
+Ikema,FOOT OR LEG,haʤɨ,42
+Irafu,FOOT OR LEG,paɡzɨ,42
+Ishigaki,FOOT OR LEG,haɴ,42
+Naze,FOOT OR LEG,haɡi,42
+Taketomi,FOOT OR LEG,paɴ,42
+Tarama,FOOT OR LEG,paɡzɨ,42
+Nara,FOOT OR LEG,hoʔda,43
+Okinawa,FOOT OR LEG,çisa,44
+Yonaguni,FOOT OR LEG,sanda,45
+Aichi,EAT,kuː,46
+Akita,EAT,ku,46
+Aomori,EAT,ku,46
+Chiba,EAT,kuː,46
+Ehime,EAT,kuː,46
+Fukui,EAT,kuː,46
+Fukuoka,EAT,kuː,46
+Fukushima,EAT,kuː,46
+Gifu,EAT,kuː,46
+Gunma,EAT,kuː,46
+Hiroshima,EAT,kuː,46
+Hokkaidō,EAT,kuː,46
+Hyōgo,EAT,kuː,46
+Ibaraki,EAT,kuː,46
+Ishikawa,EAT,kuː,46
+Iwate,EAT,ku,46
+Kagawa,EAT,kuː,46
+Kanagawa,EAT,kuː,46
+Kumamoto,EAT,kuː,46
+Kyōtō,EAT,kuː,46
+Kōchi,EAT,kuː,46
+Mie,EAT,kuː,46
+Miyagi,EAT,kuː,46
+Miyazaki,EAT,kuː,46
+Nagano,EAT,kuː,46
+Nagasaki,EAT,kuː,46
+Nara,EAT,kuː,46
+Niigata,EAT,kuː,46
+Okayama,EAT,kuː,46
+Old_Japanese,EAT,kuβu,46
+Saga,EAT,kuː,46
+Saitama,EAT,kuː,46
+Shiga,EAT,kuː,46
+Shimane,EAT,kuː,46
+Shizuoka,EAT,kuː,46
+Tochigi,EAT,kuː,46
+Tottori,EAT,kuː,46
+Toyama,EAT,kuː,46
+Tōkyō,EAT,kuː,46
+Wakayama,EAT,kuː,46
+Yamagata,EAT,kuː,46
+Yamaguchi,EAT,kuː,46
+Yamanashi,EAT,kuː,46
+Ōita,EAT,kuː,46
+Ōsaka,EAT,kuː,46
+Hachijō,EAT,kamu,47
+Naze,EAT,kamjuɴ,47
+Hateruma,EAT,hoɴ,48
+Ishigaki,EAT,hoːɴ,48
+Hirara,EAT,βoː,49
+Ikema,EAT,βau,49
+Irafu,EAT,βau,49
+Tarama,EAT,βuː,49
+Kagoshima,EAT,tamoʔ,50
+Okinawa,EAT,keːɴ,51
+Taketomi,EAT,ʔβuɴ,52
+Yonaguni,EAT,βuɴ,52
+Tokushima,EAT,taberu,53
+Aichi,HEAVY,omøː,54
+Akita,HEAVY,obodɛ,54
+Aomori,HEAVY,modɛomodɛ,54
+Chiba,HEAVY,ɴtɛː,54
+Ehime,HEAVY,omotai,54
+Fukui,HEAVY,omoi,54
+Fukuoka,HEAVY,omotaka,54
+Fukushima,HEAVY,omoi,54
+Gifu,HEAVY,omøː,54
+Gunma,HEAVY,omoteː,54
+Hachijō,HEAVY,omokja,54
+Hiroshima,HEAVY,omotaː,54
+Hokkaidō,HEAVY,omoi,54
+Hyōgo,HEAVY,omotai,54
+Ibaraki,HEAVY,omoe,54
+Ishikawa,HEAVY,obotai,54
+Iwate,HEAVY,omodɛ,54
+Kagawa,HEAVY,omoi,54
+Kagoshima,HEAVY,obi,54
+Kanagawa,HEAVY,omoteː,54
+Kumamoto,HEAVY,omuka,54
+Kyōtō,HEAVY,omotai,54
+Kōchi,HEAVY,omotai,54
+Mie,HEAVY,omoi,54
+Miyagi,HEAVY,omodɛ,54
+Miyazaki,HEAVY,oɴte,54
+Nagano,HEAVY,jomoteː,54
+Nagasaki,HEAVY,omoka,54
+Nara,HEAVY,omotaː,54
+Niigata,HEAVY,omotɛː,54
+Okayama,HEAVY,omeː,54
+Old_Japanese,HEAVY,omoʃi,54
+Saga,HEAVY,oβutaka,54
+Saitama,HEAVY,omoteː,54
+Shiga,HEAVY,omoi,54
+Shimane,HEAVY,motae,54
+Shizuoka,HEAVY,omoi,54
+Tochigi,HEAVY,omoi,54
+Tokushima,HEAVY,omoi,54
+Tottori,HEAVY,omotao,54
+Toyama,HEAVY,omoi,54
+Tōkyō,HEAVY,omoi,54
+Wakayama,HEAVY,omotao,54
+Yamagata,HEAVY,obodɛː,54
+Yamaguchi,HEAVY,omotɛː,54
+Yamanashi,HEAVY,omoi,54
+Ōita,HEAVY,omutɛː,54
+Ōsaka,HEAVY,omoi,54
+Hateruma,HEAVY,sɨtaɡiʃihaɴ,55
+Taketomi,HEAVY,ɡuʔβaɴ,55
+Yonaguni,HEAVY,ʔiɴsaɴ,55
+Hirara,HEAVY,ivḁkaɨ,56
+Ikema,HEAVY,ɴbukai,56
+Irafu,HEAVY,juvḁkal,56
+Ishigaki,HEAVY,ɴbusaɴ,56
+Naze,HEAVY,ʔuɴbuʃaɴ,56
+Okinawa,HEAVY,ʔuɴbuʃeɴ,56
+Tarama,HEAVY,i̥vu̥ʃaːl,56
+Aichi,SKY,sora,57
+Akita,SKY,sora,57
+Aomori,SKY,sora,57
+Chiba,SKY,sora,57
+Fukui,SKY,sora,57
+Fukuoka,SKY,sora,57
+Fukushima,SKY,sora,57
+Gifu,SKY,sora,57
+Gunma,SKY,sora,57
+Hiroshima,SKY,sora,57
+Hokkaidō,SKY,sora,57
+Hyōgo,SKY,sora,57
+Ibaraki,SKY,sora,57
+Ishikawa,SKY,sora,57
+Iwate,SKY,sora,57
+Kagawa,SKY,sora,57
+Kanagawa,SKY,sora,57
+Kumamoto,SKY,sora,57
+Kyōtō,SKY,sora,57
+Kōchi,SKY,sora,57
+Mie,SKY,sora,57
+Miyagi,SKY,sora,57
+Miyazaki,SKY,sora,57
+Nagano,SKY,sora,57
+Nagasaki,SKY,sora,57
+Nara,SKY,sora,57
+Okayama,SKY,sora,57
+Old_Japanese,SKY,sora,57
+Saga,SKY,sora,57
+Saitama,SKY,sora,57
+Shiga,SKY,sora,57
+Shimane,SKY,sora,57
+Shizuoka,SKY,sora,57
+Tochigi,SKY,sora,57
+Tokushima,SKY,sora,57
+Tottori,SKY,sora,57
+Toyama,SKY,sora,57
+Tōkyō,SKY,sora,57
+Wakayama,SKY,sora,57
+Yamagata,SKY,sora,57
+Yamaguchi,SKY,sora,57
+Yamanashi,SKY,ʃira,57
+Ōita,SKY,sora,57
+Ōsaka,SKY,sora,57
+Ehime,SKY,teɴ,58
+Hachijō,SKY,teɴ,58
+Hirara,SKY,tiɴ,58
+Ikema,SKY,tiɴ,58
+Irafu,SKY,tiɴ,58
+Ishigaki,SKY,tiɴ,58
+Kagoshima,SKY,teɴ,58
+Naze,SKY,tɨɴ,58
+Niigata,SKY,teɴʤoː,58
+Okinawa,SKY,tiɴ,58
+Taketomi,SKY,tiɴ,58
+Tarama,SKY,tiɴ,58
+Yonaguni,SKY,tiɴ,58
+Hateruma,SKY,ʤiɴ,59
+Aichi,TAIL,oʔpo,60
+Akita,TAIL,ʃiʔpo,60
+Aomori,TAIL,oʔpa,60
+Chiba,TAIL,oʔpo,60
+Ehime,TAIL,obaʧi,60
+Fukui,TAIL,ʃiriʔpo,60
+Fukuoka,TAIL,ʃiʔpo,60
+Fukushima,TAIL,ʃiʔpo,60
+Gifu,TAIL,oɴbo,60
+Gunma,TAIL,ʃiʔpo,60
+Hachijō,TAIL,oʔpo,60
+Hiroshima,TAIL,oɴbaʧi,60
+Hokkaidō,TAIL,o,60
+Hyōgo,TAIL,oː,60
+Ibaraki,TAIL,ʃiriʔpo,60
+Ishikawa,TAIL,oː,60
+Iwate,TAIL,oʔpa,60
+Kagawa,TAIL,oː,60
+Kagoshima,TAIL,ʃiːbo,60
+Kanagawa,TAIL,oʔpo,60
+Kumamoto,TAIL,ʃiribo,60
+Kyōtō,TAIL,oː,60
+Kōchi,TAIL,obaʔta,60
+Miyagi,TAIL,suʔpo,60
+Miyazaki,TAIL,ʃiriʔpo,60
+Nagano,TAIL,oʔpo,60
+Nagasaki,TAIL,o,60
+Nara,TAIL,o,60
+Niigata,TAIL,ʃiʔpo,60
+Okayama,TAIL,ʃiʔpo,60
+Old_Japanese,TAIL,wo,60
+Saga,TAIL,o,60
+Saitama,TAIL,çiʔpo,60
+Shiga,TAIL,oː,60
+Shimane,TAIL,ʃiːbo,60
+Shizuoka,TAIL,ʃiʔpo,60
+Tochigi,TAIL,o,60
+Tokushima,TAIL,oː,60
+Tottori,TAIL,ʃiʔpo,60
+Toyama,TAIL,ʃiriʔpo,60
+Tōkyō,TAIL,ʃiʔpo,60
+Wakayama,TAIL,oː,60
+Yamagata,TAIL,oʔpa,60
+Yamaguchi,TAIL,ʃiʔpo,60
+Yamanashi,TAIL,ʃiʔpo,60
+Ōita,TAIL,o,60
+Ōsaka,TAIL,oː,60
+Hateruma,TAIL,busupu,61
+Hirara,TAIL,ʣuː,62
+Ikema,TAIL,ʤuː,62
+Irafu,TAIL,ʣuː,62
+Ishigaki,TAIL,ʣuː,62
+Naze,TAIL,ʤuːbu,62
+Okinawa,TAIL,ʤuː,62
+Taketomi,TAIL,ʣuː,62
+Tarama,TAIL,ʤuː,62
+Yonaguni,TAIL,duɴpani,63
+Aichi,FIVE,iʦuʦu,64
+Akita,FIVE,eʤiʔʧi,64
+Aomori,FIVE,eʣuʔʦu,64
+Chiba,FIVE,iʦuʦu,64
+Ehime,FIVE,iʦuʦu,64
+Fukui,FIVE,iʦuʦu,64
+Fukuoka,FIVE,iʦuːʦu,64
+Fukushima,FIVE,iʦuʦu,64
+Gifu,FIVE,iʦuʦu,64
+Gunma,FIVE,iʦuʦu,64
+Hachijō,FIVE,iʦuʦu,64
+Hateruma,FIVE,ʔiʔsɨ,64
+Hirara,FIVE,iʦɨʦɨ,64
+Hiroshima,FIVE,iʦuʦu,64
+Hokkaidō,FIVE,iʦuʦu,64
+Hyōgo,FIVE,iʦuʦu,64
+Ibaraki,FIVE,eʦuʦu,64
+Ikema,FIVE,iʦɨʦɨ,64
+Irafu,FIVE,iʦɨʦɨ,64
+Ishigaki,FIVE,ʔiʦɨʔʦɨ,64
+Ishikawa,FIVE,iʦuʦu,64
+Iwate,FIVE,eʣuʔʦu,64
+Kagawa,FIVE,iʦuʦu,64
+Kagoshima,FIVE,iʦuʔ,64
+Kanagawa,FIVE,iʦuʦu,64
+Kumamoto,FIVE,iʦuʦu,64
+Kyōtō,FIVE,iʦuʦu,64
+Kōchi,FIVE,itutu,64
+Mie,FIVE,iʦuʦu,64
+Miyagi,FIVE,eʣuʣu,64
+Miyazaki,FIVE,iʦuʦu,64
+Nagano,FIVE,eʦuʦu,64
+Nagasaki,FIVE,iʦuʦu,64
+Nara,FIVE,iʦuʦu,64
+Naze,FIVE,iʦɨʦɨ,64
+Niigata,FIVE,eʦuʦu,64
+Okayama,FIVE,iʦuʦu,64
+Okinawa,FIVE,iʧiʧiː,64
+Old_Japanese,FIVE,itu,64
+Saga,FIVE,iʦuʦu,64
+Saitama,FIVE,iʦuʦu,64
+Shiga,FIVE,iʦuʦu,64
+Shimane,FIVE,eʧiʧi,64
+Shizuoka,FIVE,iʦuʦu,64
+Taketomi,FIVE,iʧiʧi,64
+Tarama,FIVE,iʦɨʦɨ,64
+Tochigi,FIVE,iʦuʦu,64
+Tokushima,FIVE,iʦuʦu,64
+Tottori,FIVE,iʦuʦu,64
+Toyama,FIVE,eʦuʦu,64
+Tōkyō,FIVE,iʦuʦu,64
+Wakayama,FIVE,iʦuʦu,64
+Yamagata,FIVE,iʧiʧi,64
+Yamaguchi,FIVE,iʦuʦu,64
+Yamanashi,FIVE,iʦuʦu,64
+Yonaguni,FIVE,ʔiʧiʧi,64
+Ōita,FIVE,itutu,64
+Ōsaka,FIVE,iʦuʦu,64
+Aichi,TOOTH,ha,65
+Akita,TOOTH,ha,65
+Aomori,TOOTH,ha,65
+Chiba,TOOTH,ha,65
+Ehime,TOOTH,haː,65
+Fukui,TOOTH,haː,65
+Fukuoka,TOOTH,ha,65
+Fukushima,TOOTH,ha,65
+Gifu,TOOTH,ha,65
+Gunma,TOOTH,ha,65
+Hachijō,TOOTH,nukaba,65
+Hateruma,TOOTH,βuʦɨnupaɴ,65
+Hirara,TOOTH,paː,65
+Hiroshima,TOOTH,ha,65
+Hokkaidō,TOOTH,ha,65
+Hyōgo,TOOTH,haː,65
+Ibaraki,TOOTH,ha,65
+Ikema,TOOTH,haː,65
+Irafu,TOOTH,paː,65
+Ishigaki,TOOTH,haː,65
+Ishikawa,TOOTH,haː,65
+Iwate,TOOTH,ha,65
+Kagawa,TOOTH,haː,65
+Kagoshima,TOOTH,ha,65
+Kanagawa,TOOTH,ha,65
+Kumamoto,TOOTH,ha,65
+Kyōtō,TOOTH,haː,65
+Kōchi,TOOTH,ha,65
+Mie,TOOTH,haː,65
+Miyagi,TOOTH,ha,65
+Miyazaki,TOOTH,ha,65
+Nagano,TOOTH,ha,65
+Nagasaki,TOOTH,ha,65
+Nara,TOOTH,ha,65
+Naze,TOOTH,ha,65
+Niigata,TOOTH,ha,65
+Okayama,TOOTH,ha,65
+Okinawa,TOOTH,βaː,65
+Old_Japanese,TOOTH,ha,65
+Saga,TOOTH,ha,65
+Saitama,TOOTH,ha,65
+Shiga,TOOTH,haː,65
+Shimane,TOOTH,ha,65
+Shizuoka,TOOTH,ha,65
+Taketomi,TOOTH,paː,65
+Tarama,TOOTH,paː,65
+Tochigi,TOOTH,ha,65
+Tokushima,TOOTH,haː,65
+Tottori,TOOTH,ha,65
+Toyama,TOOTH,haː,65
+Tōkyō,TOOTH,ha,65
+Wakayama,TOOTH,haː,65
+Yamagata,TOOTH,ha,65
+Yamaguchi,TOOTH,ha,65
+Yamanashi,TOOTH,ha,65
+Yonaguni,TOOTH,ha,65
+Ōita,TOOTH,ha,65
+Ōsaka,TOOTH,haː,65
+Aichi,SEW,nuː,66
+Akita,SEW,nu,66
+Aomori,SEW,nuru,66
+Chiba,SEW,nuː,66
+Ehime,SEW,nuː,66
+Fukui,SEW,nuː,66
+Fukuoka,SEW,nuː,66
+Fukushima,SEW,nuː,66
+Gifu,SEW,nuː,66
+Gunma,SEW,nuː,66
+Hateruma,SEW,nuːɴ,66
+Hirara,SEW,nuː,66
+Hiroshima,SEW,nuː,66
+Hokkaidō,SEW,nuː,66
+Hyōgo,SEW,nuː,66
+Ibaraki,SEW,nuː,66
+Ikema,SEW,nuː,66
+Irafu,SEW,nuː,66
+Ishigaki,SEW,noːɴ,66
+Ishikawa,SEW,nuː,66
+Iwate,SEW,nuː,66
+Kagawa,SEW,nuː,66
+Kagoshima,SEW,nuː,66
+Kanagawa,SEW,nuː,66
+Kumamoto,SEW,nuː,66
+Kyōtō,SEW,nuː,66
+Kōchi,SEW,nuː,66
+Mie,SEW,nuː,66
+Miyagi,SEW,nuː,66
+Miyazaki,SEW,nuː,66
+Nagano,SEW,nou,66
+Nagasaki,SEW,nuː,66
+Nara,SEW,nuː,66
+Naze,SEW,nojuɴ,66
+Niigata,SEW,noː,66
+Okayama,SEW,nuː,66
+Okinawa,SEW,noːjuɴ,66
+Old_Japanese,SEW,nuβu,66
+Saga,SEW,nuː,66
+Saitama,SEW,nuː,66
+Shiga,SEW,nuː,66
+Shimane,SEW,noː,66
+Shizuoka,SEW,nuː,66
+Taketomi,SEW,nuːɴ,66
+Tarama,SEW,nuː,66
+Tochigi,SEW,nuː,66
+Tokushima,SEW,nuː,66
+Tottori,SEW,nuː,66
+Toyama,SEW,nuː,66
+Tōkyō,SEW,nuː,66
+Wakayama,SEW,nuː,66
+Yamagata,SEW,nuː,66
+Yamaguchi,SEW,nuː,66
+Yamanashi,SEW,nuː,66
+Yonaguni,SEW,nuɴ,66
+Ōita,SEW,nuː,66
+Ōsaka,SEW,nuː,66
+Hachijō,SEW,toʣuru,67
+Aichi,WATER,miʣu,68
+Akita,WATER,miɴʤi,68
+Aomori,WATER,miɴʣu,68
+Chiba,WATER,miʣu,68
+Ehime,WATER,miʣu,68
+Fukui,WATER,miʣu,68
+Fukuoka,WATER,miʣu,68
+Fukushima,WATER,miʣu,68
+Gifu,WATER,miʣu,68
+Gunma,WATER,miʣu,68
+Hachijō,WATER,miʣu,68
+Hateruma,WATER,miʣɨ,68
+Hirara,WATER,miʣɨ,68
+Hiroshima,WATER,miʣu,68
+Hokkaidō,WATER,miʣu,68
+Hyōgo,WATER,miʣu,68
+Ibaraki,WATER,miʣu,68
+Ikema,WATER,miʣɨ,68
+Irafu,WATER,miʣɨ,68
+Ishigaki,WATER,miʣɨ,68
+Ishikawa,WATER,miʣu,68
+Iwate,WATER,miɴʣu,68
+Kagawa,WATER,miʣu,68
+Kagoshima,WATER,miʔ,68
+Kanagawa,WATER,miʣu,68
+Kumamoto,WATER,miʣu,68
+Kyōtō,WATER,miʣu,68
+Kōchi,WATER,miɴdu,68
+Mie,WATER,miʣu,68
+Miyagi,WATER,miɴʣu,68
+Miyazaki,WATER,miʣu,68
+Nagano,WATER,miʣu,68
+Nagasaki,WATER,miʣu,68
+Nara,WATER,miʣu,68
+Naze,WATER,mɨʣɨ,68
+Niigata,WATER,miʣu,68
+Okayama,WATER,miʣu,68
+Okinawa,WATER,miʤi,68
+Old_Japanese,WATER,midu,68
+Saga,WATER,miʣu,68
+Saitama,WATER,miʣu,68
+Shiga,WATER,miʣu,68
+Shimane,WATER,meʤi,68
+Shizuoka,WATER,miʣu,68
+Taketomi,WATER,miʤi,68
+Tarama,WATER,miʣɨ,68
+Tochigi,WATER,miʣu,68
+Tokushima,WATER,miʣu,68
+Tottori,WATER,miʣu,68
+Toyama,WATER,miʣu,68
+Tōkyō,WATER,miʣu,68
+Wakayama,WATER,miʣu,68
+Yamagata,WATER,miɴʤi,68
+Yamaguchi,WATER,miʣu,68
+Yamanashi,WATER,miʣu,68
+Yonaguni,WATER,miɴ,68
+Ōita,WATER,miʣu,68
+Ōsaka,WATER,miʣu,68
+Aichi,LEAF,ha,69
+Akita,LEAF,fa,69
+Aomori,LEAF,ha,69
+Chiba,LEAF,ha,69
+Ehime,LEAF,ha,69
+Fukui,LEAF,haː,69
+Fukuoka,LEAF,ha,69
+Fukushima,LEAF,haʔpa,69
+Gifu,LEAF,ha,69
+Gunma,LEAF,haʔpa,69
+Hachijō,LEAF,haʔpa,69
+Hateruma,LEAF,paː,69
+Hirara,LEAF,paː,69
+Hiroshima,LEAF,ha,69
+Hokkaidō,LEAF,ha,69
+Hyōgo,LEAF,haː,69
+Ibaraki,LEAF,haoːa,69
+Ikema,LEAF,haː,69
+Irafu,LEAF,paː,69
+Ishigaki,LEAF,paː,69
+Ishikawa,LEAF,haː,69
+Iwate,LEAF,haʔpa,69
+Kagawa,LEAF,ha,69
+Kagoshima,LEAF,ha,69
+Kanagawa,LEAF,haʔpa,69
+Kumamoto,LEAF,ha,69
+Kyōtō,LEAF,haː,69
+Kōchi,LEAF,ha,69
+Mie,LEAF,haː,69
+Miyagi,LEAF,haʔpa,69
+Miyazaki,LEAF,ha,69
+Nagano,LEAF,ha,69
+Nagasaki,LEAF,ha,69
+Nara,LEAF,ha,69
+Naze,LEAF,haː,69
+Niigata,LEAF,haʔpa,69
+Okayama,LEAF,haʔpa,69
+Okinawa,LEAF,faː,69
+Old_Japanese,LEAF,ha,69
+Saga,LEAF,ha,69
+Saitama,LEAF,haʔpa,69
+Shiga,LEAF,haː,69
+Shimane,LEAF,ha,69
+Shizuoka,LEAF,haʔpa,69
+Taketomi,LEAF,paː,69
+Tarama,LEAF,paː,69
+Tochigi,LEAF,ha,69
+Tokushima,LEAF,haː,69
+Tottori,LEAF,haʔpa,69
+Toyama,LEAF,haː,69
+Tōkyō,LEAF,ha,69
+Wakayama,LEAF,haː,69
+Yamagata,LEAF,fa,69
+Yamaguchi,LEAF,ha,69
+Yamanashi,LEAF,ha,69
+Yonaguni,LEAF,ha,69
+Ōita,LEAF,ha,69
+Ōsaka,LEAF,haː,69
+Aichi,HEAR,kiku,70
+Akita,HEAR,kiɡu,70
+Aomori,HEAR,kiɡu,70
+Chiba,HEAR,kiku,70
+Ehime,HEAR,kiku,70
+Fukui,HEAR,kiku,70
+Fukuoka,HEAR,kiku,70
+Fukushima,HEAR,kiɡu,70
+Gifu,HEAR,kiku,70
+Gunma,HEAR,kiku,70
+Hachijō,HEAR,kiku,70
+Hateruma,HEAR,sɨkuɴ,70
+Hirara,HEAR,ʦɨksɨ,70
+Hiroshima,HEAR,kiku,70
+Hokkaidō,HEAR,kiku,70
+Hyōgo,HEAR,kiku,70
+Ibaraki,HEAR,kiku,70
+Ikema,HEAR,ʧiːβu,70
+Irafu,HEAR,ʦɨʦɨ,70
+Ishigaki,HEAR,sɨkuɴ,70
+Ishikawa,HEAR,kiku,70
+Iwate,HEAR,kiɡu,70
+Kagawa,HEAR,kiku,70
+Kagoshima,HEAR,kiʔ,70
+Kanagawa,HEAR,kiku,70
+Kumamoto,HEAR,kiku,70
+Kyōtō,HEAR,kiku,70
+Kōchi,HEAR,kiku,70
+Mie,HEAR,kiku,70
+Miyagi,HEAR,kiɡu,70
+Miyazaki,HEAR,kiku,70
+Nagano,HEAR,kiku,70
+Nagasaki,HEAR,kiku,70
+Nara,HEAR,kiku,70
+Naze,HEAR,kikjuɴ,70
+Niigata,HEAR,kiku,70
+Okayama,HEAR,kiku,70
+Okinawa,HEAR,kikuɴ,70
+Old_Japanese,HEAR,kiku,70
+Saga,HEAR,kiku,70
+Saitama,HEAR,kiku,70
+Shiga,HEAR,kiku,70
+Shimane,HEAR,kiku,70
+Shizuoka,HEAR,kiku,70
+Taketomi,HEAR,sɨkuɴ,70
+Tarama,HEAR,ksɨksɨ,70
+Tochigi,HEAR,kiku,70
+Tokushima,HEAR,kiku,70
+Tottori,HEAR,kiku,70
+Toyama,HEAR,kiku,70
+Tōkyō,HEAR,kiku,70
+Wakayama,HEAR,kiku,70
+Yamagata,HEAR,kiku,70
+Yamaguchi,HEAR,kiku,70
+Yamanashi,HEAR,kiku,70
+Yonaguni,HEAR,kʔuɴ,70
+Ōita,HEAR,kiku,70
+Ōsaka,HEAR,kiku,70
+Aichi,BACK,senaka,71
+Akita,BACK,henaɡa,71
+Aomori,BACK,henaɡa,71
+Chiba,BACK,senaka,71
+Ehime,BACK,seɴɡo,71
+Fukui,BACK,ʃenaɡa,71
+Fukuoka,BACK,ʃenaka,71
+Fukushima,BACK,ʃenaɡa,71
+Gifu,BACK,senaka,71
+Gunma,BACK,senaka,71
+Hachijō,BACK,hedaka,71
+Hateruma,BACK,iʃinaɡa,71
+Hiroshima,BACK,sena,71
+Hokkaidō,BACK,senaka,71
+Hyōgo,BACK,senaka,71
+Ibaraki,BACK,ʃenaɡa,71
+Ishikawa,BACK,senaka,71
+Iwate,BACK,senaɡa,71
+Kagawa,BACK,senaka,71
+Kagoshima,BACK,senaka,71
+Kanagawa,BACK,senaka,71
+Kyōtō,BACK,senaka,71
+Kōchi,BACK,senaka,71
+Mie,BACK,senaka,71
+Miyagi,BACK,ʃenaɡa,71
+Miyazaki,BACK,ʃenaka,71
+Nagano,BACK,senaka,71
+Nagasaki,BACK,ʃenaka,71
+Nara,BACK,senaka,71
+Niigata,BACK,senaka,71
+Okayama,BACK,ʃena,71
+Okinawa,BACK,naɡaːni,71
+Old_Japanese,BACK,se,71
+Saga,BACK,ʃena,71
+Saitama,BACK,senaka,71
+Shiga,BACK,senaka,71
+Shimane,BACK,ʃena,71
+Shizuoka,BACK,senaka,71
+Tochigi,BACK,senaka,71
+Tokushima,BACK,ʃenaka,71
+Tottori,BACK,senaka,71
+Toyama,BACK,senaka,71
+Tōkyō,BACK,senaka,71
+Wakayama,BACK,senaka,71
+Yamagata,BACK,henaɡa,71
+Yamaguchi,BACK,sena,71
+Yamanashi,BACK,senaka,71
+Ōita,BACK,ʃenaka,71
+Ōsaka,BACK,senaka,71
+Hirara,BACK,kusɨ,72
+Ikema,BACK,kuːɴmi,72
+Irafu,BACK,kuːɴni,72
+Ishigaki,BACK,kusu,72
+Naze,BACK,kusɨ,72
+Taketomi,BACK,kuʃinaka,72
+Tarama,BACK,kusɨbuni,72
+Yonaguni,BACK,kuʧʔibuni,72
+Kumamoto,BACK,ɡotjaː,73
+Aichi,DRINK,nomu,74
+Akita,DRINK,nomu,74
+Aomori,DRINK,nomu,74
+Chiba,DRINK,nomu,74
+Ehime,DRINK,nomu,74
+Fukui,DRINK,nomu,74
+Fukuoka,DRINK,nomu,74
+Fukushima,DRINK,nomu,74
+Gifu,DRINK,nomu,74
+Gunma,DRINK,nomu,74
+Hachijō,DRINK,nomu,74
+Hateruma,DRINK,numuɴ,74
+Hirara,DRINK,num,74
+Hiroshima,DRINK,nomu,74
+Hokkaidō,DRINK,nomu,74
+Hyōgo,DRINK,nomu,74
+Ibaraki,DRINK,nomu,74
+Ikema,DRINK,num,74
+Irafu,DRINK,num,74
+Ishigaki,DRINK,numuɴ,74
+Ishikawa,DRINK,nomu,74
+Iwate,DRINK,nomu,74
+Kagawa,DRINK,nomu,74
+Kagoshima,DRINK,noɴ,74
+Kanagawa,DRINK,nomu,74
+Kumamoto,DRINK,nomu,74
+Kyōtō,DRINK,nomu,74
+Kōchi,DRINK,nomu,74
+Mie,DRINK,nomu,74
+Miyagi,DRINK,nomu,74
+Miyazaki,DRINK,nomu,74
+Nagano,DRINK,nomu,74
+Nagasaki,DRINK,nomu,74
+Nara,DRINK,nomu,74
+Naze,DRINK,numjuɴ,74
+Niigata,DRINK,nomu,74
+Okayama,DRINK,nomu,74
+Okinawa,DRINK,numuɴ,74
+Old_Japanese,DRINK,nømu,74
+Saga,DRINK,nomu,74
+Saitama,DRINK,nomu,74
+Shiga,DRINK,nomu,74
+Shimane,DRINK,noɴ,74
+Shizuoka,DRINK,nomu,74
+Taketomi,DRINK,numuɴ,74
+Tarama,DRINK,num,74
+Tochigi,DRINK,nomu,74
+Tokushima,DRINK,nomu,74
+Tottori,DRINK,nomu,74
+Toyama,DRINK,nomu,74
+Tōkyō,DRINK,nomu,74
+Wakayama,DRINK,nomu,74
+Yamagata,DRINK,nomu,74
+Yamaguchi,DRINK,nomu,74
+Yamanashi,DRINK,nomu,74
+Yonaguni,DRINK,numuɴ,74
+Ōita,DRINK,nomu,74
+Ōsaka,DRINK,nomu,74
+Aichi,NEW,ataraʃiː,75
+Akita,NEW,ataraʃi,75
+Aomori,NEW,atarasu,75
+Chiba,NEW,ataraʃiː,75
+Ehime,NEW,ataraʃiː,75
+Fukui,NEW,ataraʃiː,75
+Fukuoka,NEW,ataraʃika,75
+Fukushima,NEW,adaraʃiː,75
+Gifu,NEW,ataraʃiː,75
+Gunma,NEW,ataraʃiː,75
+Hachijō,NEW,adaraʃikja,75
+Hokkaidō,NEW,ataraʃiː,75
+Ibaraki,NEW,adaraʃie,75
+Ishikawa,NEW,ataraʃiː,75
+Iwate,NEW,adarasu,75
+Kagawa,NEW,ataraʃiː,75
+Kanagawa,NEW,ataraʃiː,75
+Kumamoto,NEW,ataraʃika,75
+Mie,NEW,ataraʃiː,75
+Miyagi,NEW,atarasuː,75
+Nagano,NEW,ataraʃiː,75
+Nagasaki,NEW,ataraʃika,75
+Niigata,NEW,ataraʃi,75
+Okayama,NEW,ataraʃiː,75
+Old_Japanese,NEW,ataraʃi,75
+Saga,NEW,ataraʃika,75
+Saitama,NEW,ataraʃiː,75
+Shizuoka,NEW,ataraʃiː,75
+Tochigi,NEW,ataraʃiː,75
+Tottori,NEW,ataraʃiː,75
+Toyama,NEW,aʔtaraʃiː,75
+Tōkyō,NEW,ataraʃiː,75
+Yamagata,NEW,aʔdaraʃie,75
+Yamaguchi,NEW,ataraʃiː,75
+Yamanashi,NEW,ataraʃiː,75
+Yonaguni,NEW,atarasaɴ,75
+Ōita,NEW,ataraʃiː,75
+Hateruma,NEW,meːsahaɴ,76
+Hirara,NEW,miɨkaɨ,76
+Ikema,NEW,miːkai,76
+Irafu,NEW,mɨːkal,76
+Ishigaki,NEW,miːʃaɴ,76
+Naze,NEW,miːʃaɴ,76
+Okinawa,NEW,miːʃeɴ,76
+Taketomi,NEW,miːsaɴ,76
+Tarama,NEW,mɨːʃaːl,76
+Hiroshima,NEW,ɲiːna,77
+Kagoshima,NEW,ɲike,77
+Miyazaki,NEW,ɲiɴtona,77
+Hyōgo,NEW,sara,78
+Kyōtō,NEW,sara,78
+Kōchi,NEW,sara,78
+Nara,NEW,saraː,78
+Shiga,NEW,sara,78
+Shimane,NEW,sarana,78
+Tokushima,NEW,sara,78
+Wakayama,NEW,sara,78
+Ōsaka,NEW,sara,78
+Aichi,SIT,suwaru,79
+Chiba,SIT,suwaru,79
+Ehime,SIT,suwaru,79
+Fukushima,SIT,suwaru,79
+Gifu,SIT,suwaru,79
+Gunma,SIT,suwaru,79
+Hachijō,SIT,suwaru,79
+Hiroshima,SIT,suwaru,79
+Hokkaidō,SIT,suwaru,79
+Hyōgo,SIT,suwaru,79
+Ibaraki,SIT,suwaru,79
+Kagawa,SIT,suwaru,79
+Kagoshima,SIT,suwaʔ,79
+Kanagawa,SIT,suwaru,79
+Kumamoto,SIT,suwaru,79
+Kyōtō,SIT,suwaru,79
+Mie,SIT,suwaru,79
+Miyazaki,SIT,suwaru,79
+Nagano,SIT,suwaru,79
+Nagasaki,SIT,suwaʔ,79
+Nara,SIT,suwaru,79
+Okayama,SIT,suwaru,79
+Saga,SIT,suwaː,79
+Saitama,SIT,suwaru,79
+Shiga,SIT,suwaru,79
+Shizuoka,SIT,suwaru,79
+Tochigi,SIT,suwaru,79
+Tokushima,SIT,suwaru,79
+Tottori,SIT,suwaru,79
+Tōkyō,SIT,suwaru,79
+Wakayama,SIT,betaʣuwari,79
+Yamaguchi,SIT,suwaru,79
+Yamanashi,SIT,suwaru,79
+Ōita,SIT,suwaru,79
+Ōsaka,SIT,suwaru,79
+Akita,SIT,nemaru,80
+Aomori,SIT,nemaru,80
+Fukui,SIT,nimaru,80
+Ishikawa,SIT,nemaru,80
+Iwate,SIT,nemaru,80
+Miyagi,SIT,nemaru,80
+Niigata,SIT,nemaru,80
+Toyama,SIT,nemaru,80
+Yamagata,SIT,nemaru,80
+Fukuoka,SIT,idoru,81
+Kōchi,SIT,iʣaru,81
+Hateruma,SIT,bzɨruɴ,82
+Hirara,SIT,bzɨː,82
+Ikema,SIT,biː,82
+Irafu,SIT,bzɨː,82
+Ishigaki,SIT,biruɴ,82
+Taketomi,SIT,biruɴ,82
+Tarama,SIT,bzɨːl,82
+Naze,SIT,irjuɴ,83
+Okinawa,SIT,iɴ,83
+Old_Japanese,SIT,wiru,84
+Yonaguni,SIT,ɴturuɴ,84
+Shimane,SIT,ʃiwaːʧaɴkoʃiru,85
+Aichi,EGG,tamaɡo,86
+Akita,EGG,tamaŋo,86
+Aomori,EGG,tamaŋo,86
+Chiba,EGG,tamaɡo,86
+Ehime,EGG,tamaɡo,86
+Fukui,EGG,tamaŋo,86
+Fukuoka,EGG,tamaɡo,86
+Fukushima,EGG,tamaŋo,86
+Gifu,EGG,tamaŋo,86
+Gunma,EGG,tamaɡo,86
+Hachijō,EGG,tamaɡo,86
+Hiroshima,EGG,tamaɡo,86
+Hokkaidō,EGG,tamaŋo,86
+Hyōgo,EGG,tamaŋo,86
+Ibaraki,EGG,tamaŋo,86
+Ishikawa,EGG,tamaŋo,86
+Iwate,EGG,tamaŋo,86
+Kagawa,EGG,tamaɡo,86
+Kagoshima,EGG,tamaɡo,86
+Kanagawa,EGG,tamaŋo,86
+Kumamoto,EGG,tamaɡo,86
+Kyōtō,EGG,tamaŋo,86
+Kōchi,EGG,tamaɴɡo,86
+Mie,EGG,tamaɡo,86
+Miyagi,EGG,tamaŋo,86
+Miyazaki,EGG,tamaɡo,86
+Nagano,EGG,tamaŋo,86
+Nagasaki,EGG,tamaɡo,86
+Nara,EGG,tama,86
+Niigata,EGG,tamaɡo,86
+Okayama,EGG,tamaɡo,86
+Old_Japanese,EGG,ko,86
+Saga,EGG,tamaɡo,86
+Saitama,EGG,tamaɡo,86
+Shiga,EGG,tamaŋo,86
+Shimane,EGG,tamaɡo,86
+Shizuoka,EGG,tamaŋo,86
+Taketomi,EGG,koːma,86
+Tochigi,EGG,tamaŋo,86
+Tokushima,EGG,tamaɡo,86
+Tottori,EGG,tamaɡo,86
+Toyama,EGG,tamamo,86
+Tōkyō,EGG,tamaɡo,86
+Wakayama,EGG,tamaɴɡo,86
+Yamagata,EGG,tamaŋo,86
+Yamaguchi,EGG,tamaɡo,86
+Yamanashi,EGG,tamaŋo,86
+Ōita,EGG,tamaɡo,86
+Ōsaka,EGG,tamaŋo,86
+Hateruma,EGG,keː,87
+Hirara,EGG,tunaka,88
+Ikema,EGG,tunuka,88
+Irafu,EGG,tunuka,88
+Ishigaki,EGG,tunaɡa,88
+Naze,EGG,kʔuɡa,89
+Okinawa,EGG,βuɡa,89
+Tarama,EGG,kuɡa,89
+Yonaguni,EGG,kaiŋu,90
+Aichi,ROOT,ne,91
+Akita,ROOT,ne,91
+Aomori,ROOT,ne,91
+Chiba,ROOT,neboʔka,91
+Ehime,ROOT,ne,91
+Fukui,ROOT,neː,91
+Fukuoka,ROOT,ne,91
+Fukushima,ROOT,neʔko,91
+Gifu,ROOT,ne,91
+Gunma,ROOT,neʔko,91
+Hachijō,ROOT,neʔko,91
+Hateruma,ROOT,niɴ,91
+Hirara,ROOT,niː,91
+Hiroshima,ROOT,ne,91
+Hokkaidō,ROOT,ne,91
+Hyōgo,ROOT,neː,91
+Ibaraki,ROOT,neʔko,91
+Ikema,ROOT,niː,91
+Irafu,ROOT,niː,91
+Ishigaki,ROOT,niː,91
+Ishikawa,ROOT,neː,91
+Iwate,ROOT,neʔko,91
+Kagawa,ROOT,ne,91
+Kagoshima,ROOT,ne,91
+Kanagawa,ROOT,neʔko,91
+Kumamoto,ROOT,ne,91
+Kyōtō,ROOT,neː,91
+Kōchi,ROOT,neː,91
+Mie,ROOT,neː,91
+Miyagi,ROOT,neʔko,91
+Miyazaki,ROOT,ɲe,91
+Nagano,ROOT,ne,91
+Nagasaki,ROOT,ne,91
+Nara,ROOT,ne,91
+Naze,ROOT,nɨɡuri,91
+Niigata,ROOT,ne,91
+Okayama,ROOT,ne,91
+Okinawa,ROOT,niː,91
+Old_Japanese,ROOT,ne,91
+Saga,ROOT,ne,91
+Saitama,ROOT,neʔko,91
+Shiga,ROOT,neː,91
+Shimane,ROOT,ne,91
+Shizuoka,ROOT,neʔko,91
+Taketomi,ROOT,niː,91
+Tarama,ROOT,nivul,91
+Tochigi,ROOT,ne,91
+Tokushima,ROOT,neː,91
+Tottori,ROOT,ne,91
+Toyama,ROOT,neː,91
+Tōkyō,ROOT,ne,91
+Wakayama,ROOT,neː,91
+Yamagata,ROOT,neʔko,91
+Yamaguchi,ROOT,ne,91
+Yamanashi,ROOT,ne,91
+Yonaguni,ROOT,ni,91
+Ōita,ROOT,ne,91
+Ōsaka,ROOT,neː,91
+Aichi,FIRE,çi,92
+Akita,FIRE,ʃu,92
+Aomori,FIRE,su,92
+Chiba,FIRE,çi,92
+Ehime,FIRE,çiː,92
+Fukui,FIRE,çiː,92
+Fukuoka,FIRE,çi,92
+Fukushima,FIRE,çi,92
+Gifu,FIRE,çi,92
+Gunma,FIRE,çi,92
+Hachijō,FIRE,çi,92
+Hateruma,FIRE,psɨ,92
+Hiroshima,FIRE,çi,92
+Hokkaidō,FIRE,çi,92
+Hyōgo,FIRE,çiː,92
+Ibaraki,FIRE,çi,92
+Ishigaki,FIRE,psɨː,92
+Ishikawa,FIRE,çiː,92
+Iwate,FIRE,çi,92
+Kagawa,FIRE,çiː,92
+Kagoshima,FIRE,çi,92
+Kanagawa,FIRE,çi,92
+Kumamoto,FIRE,çiː,92
+Kyōtō,FIRE,çiː,92
+Kōchi,FIRE,çiː,92
+Mie,FIRE,çiː,92
+Miyagi,FIRE,çi,92
+Miyazaki,FIRE,çi,92
+Nagano,FIRE,ʃi,92
+Nagasaki,FIRE,çi,92
+Nara,FIRE,çiː,92
+Niigata,FIRE,çi,92
+Okayama,FIRE,çi,92
+Okinawa,FIRE,piː,92
+Old_Japanese,FIRE,çɨ,92
+Saga,FIRE,çi,92
+Saitama,FIRE,çi,92
+Shiga,FIRE,çiː,92
+Shimane,FIRE,βu,92
+Shizuoka,FIRE,çi,92
+Taketomi,FIRE,piː,92
+Tochigi,FIRE,çiː,92
+Tokushima,FIRE,çiː,92
+Tottori,FIRE,çi,92
+Toyama,FIRE,çiː,92
+Tōkyō,FIRE,çi,92
+Wakayama,FIRE,çiː,92
+Yamagata,FIRE,βi,92
+Yamaguchi,FIRE,çi,92
+Yamanashi,FIRE,çi,92
+Ōita,FIRE,çi,92
+Ōsaka,FIRE,çiː,92
+Hirara,FIRE,umaʦɨ,93
+Ikema,FIRE,umaʦɨ,93
+Irafu,FIRE,umaʦɨ,93
+Naze,FIRE,mʔaʦɨ,93
+Tarama,FIRE,umuʦɨ,93
+Yonaguni,FIRE,ʧʔi,93
+Aichi,SKIN,kawa,94
+Akita,SKIN,kawa,94
+Aomori,SKIN,kawa,94
+Chiba,SKIN,kawa,94
+Ehime,SKIN,kawa,94
+Fukui,SKIN,kawa,94
+Fukuoka,SKIN,kawa,94
+Fukushima,SKIN,kawa,94
+Gifu,SKIN,kawa,94
+Gunma,SKIN,kawa,94
+Hachijō,SKIN,kawa,94
+Hateruma,SKIN,kaː,94
+Hirara,SKIN,kaː,94
+Hiroshima,SKIN,kawa,94
+Hokkaidō,SKIN,kawa,94
+Hyōgo,SKIN,kawa,94
+Ibaraki,SKIN,kawa,94
+Ikema,SKIN,kaː,94
+Irafu,SKIN,kaː,94
+Ishigaki,SKIN,kaː,94
+Ishikawa,SKIN,kawa,94
+Iwate,SKIN,kawa,94
+Kagawa,SKIN,kawa,94
+Kagoshima,SKIN,kaː,94
+Kanagawa,SKIN,kawa,94
+Kumamoto,SKIN,kawa,94
+Kyōtō,SKIN,kawa,94
+Kōchi,SKIN,kaː,94
+Mie,SKIN,kawa,94
+Miyagi,SKIN,kawa,94
+Miyazaki,SKIN,kawa,94
+Nagano,SKIN,kawa,94
+Nagasaki,SKIN,kawa,94
+Nara,SKIN,kawa,94
+Naze,SKIN,koː,94
+Niigata,SKIN,kawa,94
+Okayama,SKIN,kawa,94
+Okinawa,SKIN,haː,94
+Old_Japanese,SKIN,kaha,94
+Saga,SKIN,kawa,94
+Saitama,SKIN,kawa,94
+Shiga,SKIN,kawa,94
+Shimane,SKIN,kawa,94
+Shizuoka,SKIN,kawa,94
+Taketomi,SKIN,kaː,94
+Tarama,SKIN,kaː,94
+Tochigi,SKIN,kawa,94
+Tokushima,SKIN,kawa,94
+Tottori,SKIN,kawa,94
+Toyama,SKIN,kawa,94
+Tōkyō,SKIN,kawa,94
+Wakayama,SKIN,kawa,94
+Yamagata,SKIN,kawa,94
+Yamaguchi,SKIN,kawa,94
+Yamanashi,SKIN,kawa,94
+Yonaguni,SKIN,ka,94
+Ōita,SKIN,kawa,94
+Ōsaka,SKIN,kawa,94
+Aichi,ASH,βɛː,95
+Chiba,ASH,hɛː,95
+Ehime,ASH,hai,95
+Fukui,ASH,hai,95
+Fukuoka,ASH,hai,95
+Gifu,ASH,çɛː,95
+Gunma,ASH,hai,95
+Hachijō,ASH,heː,95
+Hateruma,ASH,peː,95
+Hirara,ASH,karapaɨ,95
+Hiroshima,ASH,hai,95
+Hyōgo,ASH,hai,95
+Ibaraki,ASH,hae,95
+Ikema,ASH,karapai,95
+Irafu,ASH,karapaɨ,95
+Ishigaki,ASH,hai,95
+Ishikawa,ASH,hai,95
+Kagawa,ASH,hai,95
+Kagoshima,ASH,heː,95
+Kanagawa,ASH,heː,95
+Kyōtō,ASH,hai,95
+Kōchi,ASH,hai,95
+Mie,ASH,hai,95
+Miyazaki,ASH,fe,95
+Nagano,ASH,heː,95
+Nagasaki,ASH,hai,95
+Nara,ASH,hai,95
+Naze,ASH,hə,95
+Okayama,ASH,hai,95
+Okinawa,ASH,heː,95
+Old_Japanese,ASH,haçi,95
+Saitama,ASH,hai,95
+Shiga,ASH,hae,95
+Shimane,ASH,hae,95
+Shizuoka,ASH,heː,95
+Taketomi,ASH,pai,95
+Tarama,ASH,karapaɨ,95
+Tochigi,ASH,hai,95
+Tokushima,ASH,hai,95
+Tottori,ASH,hai,95
+Toyama,ASH,hai,95
+Tōkyō,ASH,hai,95
+Wakayama,ASH,hai,95
+Yamaguchi,ASH,hɛː,95
+Yamanashi,ASH,heː,95
+Ōita,ASH,heː,95
+Ōsaka,ASH,hai,95
+Akita,ASH,aɡu,96
+Aomori,ASH,aɡu,96
+Fukushima,ASH,aɡu,96
+Hokkaidō,ASH,aku,96
+Iwate,ASH,aɡu,96
+Miyagi,ASH,aɡu,96
+Niigata,ASH,aku,96
+Yamagata,ASH,aɡu,96
+Kumamoto,ASH,çaː,97
+Saga,ASH,çaː,97
+Yonaguni,ASH,çiɡuɴ,98
+Aichi,THAT,are,99
+Akita,THAT,are,99
+Aomori,THAT,ae,99
+Chiba,THAT,are,99
+Ehime,THAT,are,99
+Fukui,THAT,are,99
+Fukuoka,THAT,are,99
+Fukushima,THAT,are,99
+Gifu,THAT,are,99
+Gunma,THAT,are,99
+Hiroshima,THAT,are,99
+Hokkaidō,THAT,are,99
+Hyōgo,THAT,ae,99
+Ibaraki,THAT,are,99
+Ishikawa,THAT,are,99
+Iwate,THAT,are,99
+Kagawa,THAT,are,99
+Kagoshima,THAT,ai,99
+Kanagawa,THAT,are,99
+Kumamoto,THAT,aru,99
+Kyōtō,THAT,are,99
+Kōchi,THAT,are,99
+Mie,THAT,are,99
+Miyagi,THAT,aeʣu,99
+Miyazaki,THAT,are,99
+Nagano,THAT,are,99
+Nagasaki,THAT,ai,99
+Nara,THAT,are,99
+Naze,THAT,arɨ,99
+Niigata,THAT,are,99
+Okayama,THAT,eː,99
+Okinawa,THAT,ari,99
+Saga,THAT,ai,99
+Saitama,THAT,are,99
+Shiga,THAT,are,99
+Shimane,THAT,aː,99
+Shizuoka,THAT,are,99
+Tochigi,THAT,are,99
+Tokushima,THAT,are,99
+Tottori,THAT,are,99
+Toyama,THAT,aru,99
+Tōkyō,THAT,are,99
+Wakayama,THAT,are,99
+Yamagata,THAT,are,99
+Yamaguchi,THAT,are,99
+Yamanashi,THAT,are,99
+Ōita,THAT,aitu,99
+Ōsaka,THAT,are,99
+Hachijō,THAT,ui,100
+Hirara,THAT,kai,101
+Ikema,THAT,kai,101
+Irafu,THAT,kari,101
+Old_Japanese,THAT,kare,101
+Taketomi,THAT,kari,101
+Tarama,THAT,kal,101
+Aichi,BE DEAD OR DIE,ʃinu,102
+Akita,BE DEAD OR DIE,ʃinu,102
+Aomori,BE DEAD OR DIE,sunu,102
+Chiba,BE DEAD OR DIE,ʃinu,102
+Ehime,BE DEAD OR DIE,ʃinuru,102
+Fukui,BE DEAD OR DIE,ʃinu,102
+Fukuoka,BE DEAD OR DIE,ʃinu,102
+Fukushima,BE DEAD OR DIE,ʃinu,102
+Gifu,BE DEAD OR DIE,ʃinu,102
+Gunma,BE DEAD OR DIE,ʃinu,102
+Hirara,BE DEAD OR DIE,sɨɴ,102
+Hiroshima,BE DEAD OR DIE,ʃinuru,102
+Hokkaidō,BE DEAD OR DIE,ʃinu,102
+Hyōgo,BE DEAD OR DIE,ʃinu,102
+Ibaraki,BE DEAD OR DIE,ʃinu,102
+Ikema,BE DEAD OR DIE,sɨɴ,102
+Irafu,BE DEAD OR DIE,sɨɴ,102
+Ishikawa,BE DEAD OR DIE,ʃiɴ,102
+Iwate,BE DEAD OR DIE,sunu,102
+Kagawa,BE DEAD OR DIE,ʃinu,102
+Kagoshima,BE DEAD OR DIE,keʃiɴ,102
+Kanagawa,BE DEAD OR DIE,ʃinu,102
+Kumamoto,BE DEAD OR DIE,ʃinuru,102
+Kyōtō,BE DEAD OR DIE,ʃinu,102
+Kōchi,BE DEAD OR DIE,ʃinuru,102
+Mie,BE DEAD OR DIE,ʃinu,102
+Miyazaki,BE DEAD OR DIE,keʃinuru,102
+Nagano,BE DEAD OR DIE,ʃimu,102
+Nagasaki,BE DEAD OR DIE,ʃinu,102
+Nara,BE DEAD OR DIE,ʃinu,102
+Naze,BE DEAD OR DIE,sɨɲuɴ,102
+Niigata,BE DEAD OR DIE,ʃiɡu,102
+Okayama,BE DEAD OR DIE,ʃinuru,102
+Old_Japanese,BE DEAD OR DIE,ʃinu,102
+Saga,BE DEAD OR DIE,ʃiɴ,102
+Saitama,BE DEAD OR DIE,ʃinu,102
+Shiga,BE DEAD OR DIE,ʃinu,102
+Shimane,BE DEAD OR DIE,ʃinoː,102
+Shizuoka,BE DEAD OR DIE,ʃinu,102
+Tarama,BE DEAD OR DIE,sɨɴ,102
+Tochigi,BE DEAD OR DIE,ʃinu,102
+Tokushima,BE DEAD OR DIE,ʃinu,102
+Tottori,BE DEAD OR DIE,ʃinuru,102
+Toyama,BE DEAD OR DIE,ʃinu,102
+Tōkyō,BE DEAD OR DIE,ʃinu,102
+Wakayama,BE DEAD OR DIE,ʃinu,102
+Yamagata,BE DEAD OR DIE,ʃinu,102
+Yamaguchi,BE DEAD OR DIE,ʃinuru,102
+Yamanashi,BE DEAD OR DIE,ʃinu,102
+Ōita,BE DEAD OR DIE,ʃinuru,102
+Ōsaka,BE DEAD OR DIE,ʃinu,102
+Hachijō,BE DEAD OR DIE,marubu,103
+Hateruma,BE DEAD OR DIE,maːrasuɴ,103
+Ishigaki,BE DEAD OR DIE,maːrasuɴ,103
+Okinawa,BE DEAD OR DIE,maːsuɴ,103
+Taketomi,BE DEAD OR DIE,maːrasuɴ,103
+Yonaguni,BE DEAD OR DIE,maisuɴ,103
+Aichi,HAIR,ke,104
+Akita,HAIR,ke,104
+Aomori,HAIR,ke,104
+Chiba,HAIR,ke,104
+Ehime,HAIR,ke,104
+Fukui,HAIR,keː,104
+Fukuoka,HAIR,ke,104
+Fukushima,HAIR,ke,104
+Gifu,HAIR,ke,104
+Gunma,HAIR,ke,104
+Hachijō,HAIR,kebuʃo,104
+Hateruma,HAIR,kiː,104
+Hirara,HAIR,psɨɡi,104
+Hiroshima,HAIR,ke,104
+Hokkaidō,HAIR,ke,104
+Hyōgo,HAIR,keː,104
+Ibaraki,HAIR,ke,104
+Ikema,HAIR,kiː,104
+Irafu,HAIR,psɨɡi,104
+Ishigaki,HAIR,kiː,104
+Ishikawa,HAIR,keː,104
+Iwate,HAIR,ke,104
+Kagawa,HAIR,ke,104
+Kagoshima,HAIR,ke,104
+Kanagawa,HAIR,keba,104
+Kumamoto,HAIR,ke,104
+Kyōtō,HAIR,keː,104
+Kōchi,HAIR,ke,104
+Mie,HAIR,keː,104
+Miyagi,HAIR,ke,104
+Miyazaki,HAIR,ke,104
+Nagano,HAIR,ke,104
+Nagasaki,HAIR,ke,104
+Nara,HAIR,ke,104
+Naze,HAIR,ksɨ,104
+Niigata,HAIR,ke,104
+Okayama,HAIR,ke,104
+Okinawa,HAIR,kiː,104
+Old_Japanese,HAIR,kə,104
+Saga,HAIR,ke,104
+Saitama,HAIR,ke,104
+Shiga,HAIR,keː,104
+Shimane,HAIR,ke,104
+Shizuoka,HAIR,ke,104
+Taketomi,HAIR,kiː,104
+Tarama,HAIR,psɨɡi,104
+Tochigi,HAIR,ke,104
+Tokushima,HAIR,keː,104
+Tottori,HAIR,ke,104
+Toyama,HAIR,keː,104
+Tōkyō,HAIR,ke,104
+Wakayama,HAIR,keː,104
+Yamagata,HAIR,ke,104
+Yamaguchi,HAIR,ke,104
+Yamanashi,HAIR,ke,104
+Yonaguni,HAIR,ki,104
+Ōita,HAIR,ke,104
+Ōsaka,HAIR,keː,104
+Aichi,OLD,βurjuː,105
+Akita,OLD,βuruʃi,105
+Aomori,OLD,βurusu,105
+Chiba,OLD,βuriː,105
+Ehime,OLD,βurui,105
+Fukui,OLD,βurui,105
+Fukuoka,OLD,βuruka,105
+Fukushima,OLD,βurui,105
+Gifu,OLD,βurjuː,105
+Gunma,OLD,βurui,105
+Hachijō,OLD,βuruʃikja,105
+Hirara,OLD,βuɨkaɨ,105
+Hiroshima,OLD,βurui,105
+Hokkaidō,OLD,βurui,105
+Hyōgo,OLD,βurui,105
+Ibaraki,OLD,βurue,105
+Ishigaki,OLD,βurusaːɴ,105
+Ishikawa,OLD,βurui,105
+Iwate,OLD,βuru,105
+Kagawa,OLD,βurui,105
+Kagoshima,OLD,βuri,105
+Kanagawa,OLD,βuriː,105
+Kumamoto,OLD,βuruka,105
+Kyōtō,OLD,βurui,105
+Kōchi,OLD,βurui,105
+Mie,OLD,βurui,105
+Miyagi,OLD,βurue,105
+Miyazaki,OLD,βuri,105
+Nagano,OLD,βuruʃiː,105
+Nagasaki,OLD,βuruka,105
+Nara,OLD,βurui,105
+Naze,OLD,βuruʃaɴ,105
+Niigata,OLD,βuːre,105
+Okayama,OLD,βuriː,105
+Okinawa,OLD,βuruʃeɴ,105
+Old_Japanese,OLD,βuruʃi,105
+Saga,OLD,βuʔka,105
+Saitama,OLD,βurui,105
+Shiga,OLD,βurui,105
+Shimane,OLD,βuri,105
+Shizuoka,OLD,βurui,105
+Tochigi,OLD,βurui,105
+Tokushima,OLD,βurui,105
+Tottori,OLD,βurui,105
+Toyama,OLD,βuruʃiː,105
+Tōkyō,OLD,βurui,105
+Wakayama,OLD,βurui,105
+Yamagata,OLD,βurue,105
+Yamaguchi,OLD,βurwiː,105
+Yamanashi,OLD,βurui,105
+Yonaguni,OLD,βurumunu,105
+Ōita,OLD,βuriː,105
+Ōsaka,OLD,βurui,105
+Ikema,OLD,jarikai,106
+Irafu,OLD,jarikal,106
+Taketomi,OLD,ʔfumuɴ,107
+Tarama,OLD,ɡabaʃaːl,108
+Aichi,MOON,ʦuki,109
+Akita,MOON,ʧiki,109
+Aomori,MOON,ʦuki,109
+Chiba,MOON,oʦukisama,109
+Ehime,MOON,ʦuki,109
+Fukui,MOON,ʦuki,109
+Fukuoka,MOON,ʦuki,109
+Fukushima,MOON,ʦuki,109
+Gifu,MOON,ʦuki,109
+Gunma,MOON,ʦuki,109
+Hachijō,MOON,ʦuki,109
+Hirara,MOON,ʦɨkiɨ,109
+Hiroshima,MOON,oʔʦukisaɴ,109
+Hokkaidō,MOON,ʦuki,109
+Hyōgo,MOON,oʦukisaɴ,109
+Ibaraki,MOON,oʦukisama,109
+Ishigaki,MOON,ʦɨksɨ,109
+Ishikawa,MOON,oʦukisaɴ,109
+Iwate,MOON,ʦuɡi,109
+Kagawa,MOON,oʦukisaɴ,109
+Kagoshima,MOON,oʦuʔsama,109
+Kanagawa,MOON,oʦukisaɴ,109
+Kumamoto,MOON,ʦuki,109
+Kyōtō,MOON,oʦukisaɴ,109
+Kōchi,MOON,tuki,109
+Mie,MOON,oʦukisaɴ,109
+Miyagi,MOON,ʦuɡi,109
+Nagano,MOON,oʦukisaɴ,109
+Nagasaki,MOON,ʦuki,109
+Nara,MOON,ʦuki,109
+Naze,MOON,ʦɨki,109
+Niigata,MOON,ʦuki,109
+Okayama,MOON,oʦukisama,109
+Old_Japanese,MOON,tukɨ,109
+Saga,MOON,ʦuki,109
+Saitama,MOON,oʦukisama,109
+Shiga,MOON,oʦukisaɴ,109
+Shimane,MOON,ʧiki,109
+Shizuoka,MOON,ʦuki,109
+Taketomi,MOON,ʃiki,109
+Tarama,MOON,ʦɨksɨ,109
+Tochigi,MOON,oʦukisaɴ,109
+Tokushima,MOON,ʦuki,109
+Tottori,MOON,ʦuki,109
+Toyama,MOON,ʦuki,109
+Tōkyō,MOON,ʦuki,109
+Wakayama,MOON,oʦukisaɴ,109
+Yamagata,MOON,ʧiɡi,109
+Yamaguchi,MOON,ʦuki,109
+Yamanashi,MOON,ʦuki,109
+Ōita,MOON,otukisaɴ,109
+Ōsaka,MOON,oʔʦukisaɴ,109
+Hateruma,MOON,sɨkəɴ,110
+Ikema,MOON,ʦɨʔʧu,111
+Irafu,MOON,ʦɨʔʧu,111
+Okinawa,MOON,tiʔʧoː,111
+Miyazaki,MOON,ɡwaʔteɴsama,112
+Yonaguni,MOON,ubuta,113
+Aichi,ONE,çitoʦu,114
+Akita,ONE,ʃitoʔʧi,114
+Aomori,ONE,sutoʔʦu,114
+Chiba,ONE,çitoʦu,114
+Ehime,ONE,çitoʦu,114
+Fukui,ONE,çitoʦu,114
+Fukuoka,ONE,çitoʦu,114
+Fukushima,ONE,çitoʦu,114
+Gifu,ONE,çitoʦu,114
+Gunma,ONE,çitoʦu,114
+Hachijō,ONE,teʦu,114
+Hateruma,ONE,psɨʦɨʦɨ,114
+Hirara,ONE,psɨtiːʦɨ,114
+Hiroshima,ONE,çitoʦu,114
+Hokkaidō,ONE,çitoʦu,114
+Hyōgo,ONE,çitoʦu,114
+Ibaraki,ONE,çitoʦu,114
+Ikema,ONE,psɨtiːʦɨ,114
+Irafu,ONE,psɨtiːʦɨ,114
+Ishigaki,ONE,psɨtiːʣɨ,114
+Ishikawa,ONE,çitoʦu,114
+Iwate,ONE,çitoʔʦu,114
+Kagawa,ONE,çitoʦu,114
+Kagoshima,ONE,çitoʔ,114
+Kanagawa,ONE,ʃitoʦu,114
+Kumamoto,ONE,çitoʦu,114
+Kyōtō,ONE,ʃitoʦu,114
+Kōchi,ONE,çitotu,114
+Mie,ONE,çitoʦu,114
+Miyagi,ONE,çitoʦu,114
+Miyazaki,ONE,ʃitoʦu,114
+Nagano,ONE,ʃitoʦu,114
+Nagasaki,ONE,çitoʦu,114
+Nara,ONE,çitoʦu,114
+Naze,ONE,tʔɨːʦɨ,114
+Niigata,ONE,çioʦu,114
+Okayama,ONE,çitoʦu,114
+Okinawa,ONE,tiːʧi,114
+Old_Japanese,ONE,çitø,114
+Saga,ONE,çitoʦu,114
+Saitama,ONE,ʃitoʦu,114
+Shiga,ONE,çitoʦu,114
+Shimane,ONE,βutoʧi,114
+Shizuoka,ONE,çitoʦu,114
+Taketomi,ONE,piːʧi,114
+Tarama,ONE,psɨtiːʦɨ,114
+Tochigi,ONE,çitoʦu,114
+Tokushima,ONE,çitoʦu,114
+Tottori,ONE,çitoʦu,114
+Toyama,ONE,çitoʦu,114
+Tōkyō,ONE,çitoʦu,114
+Wakayama,ONE,çitoʦu,114
+Yamagata,ONE,çitoʧi,114
+Yamaguchi,ONE,çitoʦu,114
+Yamanashi,ONE,çitoʦu,114
+Yonaguni,ONE,tuʧi,114
+Ōita,ONE,çitotu,114
+Ōsaka,ONE,ʃitoʦu,114
+Aichi,THREE,miʔʦu,115
+Akita,THREE,miʔʧi,115
+Aomori,THREE,miʔʦu,115
+Chiba,THREE,miʔʦu,115
+Ehime,THREE,miʔʦu,115
+Fukui,THREE,miʔʦu,115
+Fukuoka,THREE,miːʦu,115
+Fukushima,THREE,miʔʦu,115
+Gifu,THREE,miʔʦu,115
+Gunma,THREE,miʔʦu,115
+Hachijō,THREE,miʔʦu,115
+Hateruma,THREE,mɨːʦɨ,115
+Hirara,THREE,mɨːʦɨ,115
+Hiroshima,THREE,miʔʦu,115
+Hokkaidō,THREE,miʔʦu,115
+Hyōgo,THREE,miʔʦu,115
+Ibaraki,THREE,miʔʦu,115
+Ikema,THREE,miːʦɨ,115
+Irafu,THREE,mɨːʦɨ,115
+Ishigaki,THREE,miːʦɨ,115
+Ishikawa,THREE,miʔʦu,115
+Iwate,THREE,miʔʦu,115
+Kagawa,THREE,miʔʦu,115
+Kagoshima,THREE,miʔʦu,115
+Kanagawa,THREE,miʔʦu,115
+Kumamoto,THREE,miʔʦu,115
+Kyōtō,THREE,miʔʦu,115
+Kōchi,THREE,miʔtu,115
+Mie,THREE,miʔʦu,115
+Miyagi,THREE,miʔʦu,115
+Miyazaki,THREE,miʔʦu,115
+Nagano,THREE,miʔʦu,115
+Nagasaki,THREE,miʔʦu,115
+Nara,THREE,miʔʦu,115
+Naze,THREE,miːʦɨ,115
+Niigata,THREE,miʔʦu,115
+Okayama,THREE,miʔʦu,115
+Okinawa,THREE,miːʧi,115
+Old_Japanese,THREE,mi,115
+Saga,THREE,miʔʦu,115
+Saitama,THREE,miʔʦu,115
+Shiga,THREE,miʔʦu,115
+Shimane,THREE,meʔʧi,115
+Shizuoka,THREE,miʔʦu,115
+Taketomi,THREE,miːʧi,115
+Tarama,THREE,mɨːʦɨ,115
+Tochigi,THREE,miʔʦu,115
+Tokushima,THREE,miʔʦu,115
+Tottori,THREE,miʔʦu,115
+Toyama,THREE,meʔʦu,115
+Tōkyō,THREE,miʔʦu,115
+Wakayama,THREE,miʔʦu,115
+Yamagata,THREE,miʔʧi,115
+Yamaguchi,THREE,miʔʦu,115
+Yamanashi,THREE,miʔʦu,115
+Yonaguni,THREE,miʧi,115
+Ōita,THREE,miʔtu,115
+Ōsaka,THREE,miʔʦu,115
+Aichi,I,waʃi,116
+Aomori,I,wa,116
+Chiba,I,wataʃi,116
+Ehime,I,wataʃi,116
+Fukui,I,ura,116
+Fukuoka,I,ataʃi,116
+Gifu,I,waʔʧi,116
+Gunma,I,wataʃi,116
+Hachijō,I,wai,116
+Hirara,I,baɴ,116
+Hiroshima,I,waʃi,116
+Hokkaidō,I,wataʃi,116
+Hyōgo,I,wataʃi,116
+Ikema,I,baɴ,116
+Irafu,I,baɴ,116
+Ishikawa,I,wate,116
+Kagawa,I,otaʃi,116
+Kagoshima,I,atai,116
+Kanagawa,I,wataʃi,116
+Kumamoto,I,wataʃi,116
+Kyōtō,I,wataʃi,116
+Kōchi,I,wataʃi,116
+Mie,I,waʃi,116
+Miyagi,I,wadasu,116
+Miyazaki,I,waʃi,116
+Nagano,I,waʃi,116
+Nagasaki,I,wataʃi,116
+Nara,I,waʃi,116
+Naze,I,waɴ,116
+Niigata,I,wataʃi,116
+Okayama,I,wataʃi,116
+Okinawa,I,waɴ,116
+Old_Japanese,I,ware,116
+Saga,I,wataʃi,116
+Saitama,I,waʃi,116
+Shiga,I,wataʃi,116
+Shimane,I,wataʃi,116
+Shizuoka,I,waʃi,116
+Taketomi,I,baɴ,116
+Tarama,I,baɴ,116
+Tochigi,I,wataʃi,116
+Tokushima,I,wataʃi,116
+Tottori,I,waʃi,116
+Toyama,I,waʃi,116
+Tōkyō,I,wataʃi,116
+Wakayama,I,wataʃi,116
+Yamaguchi,I,wataʃi,116
+Yamanashi,I,wataʃi,116
+Ōita,I,waʃi,116
+Ōsaka,I,wataʃi,116
+Akita,I,ore,117
+Fukushima,I,ore,117
+Ibaraki,I,ore,117
+Iwate,I,ora,117
+Yamagata,I,ore,117
+Aichi,WORM,memeʣo,118
+Akita,WORM,mimiɴʤi,118
+Aomori,WORM,memeɴʣu,118
+Chiba,WORM,mimiʣu,118
+Ehime,WORM,mimiʣu,118
+Fukui,WORM,mimiʣu,118
+Fukuoka,WORM,mimiʣu,118
+Fukushima,WORM,mimiʣu,118
+Gifu,WORM,memeʣu,118
+Gunma,WORM,memeʣu,118
+Hachijō,WORM,memeʣume,118
+Hateruma,WORM,mimiʤɨ,118
+Hirara,WORM,mimiʤɨ,118
+Hiroshima,WORM,mimiʣu,118
+Hokkaidō,WORM,mimiʣu,118
+Hyōgo,WORM,mimiʣu,118
+Ibaraki,WORM,memeʣume,118
+Ikema,WORM,ʤɨmiʤɨ,118
+Irafu,WORM,ʤɨmiʤɨ,118
+Ishigaki,WORM,mimiʤɨ,118
+Ishikawa,WORM,mimiʣu,118
+Iwate,WORM,mimiɴʣu,118
+Kagawa,WORM,mimiʣu,118
+Kagoshima,WORM,mimiʣu̥,118
+Kanagawa,WORM,memeʣu,118
+Kumamoto,WORM,mimiʣu,118
+Kyōtō,WORM,memeʣu,118
+Kōchi,WORM,mimiʣu,118
+Mie,WORM,mimiʣu,118
+Miyagi,WORM,mimiɴʣu,118
+Miyazaki,WORM,mimiʣu,118
+Nagano,WORM,memeʣu,118
+Nagasaki,WORM,mimiʣu,118
+Nara,WORM,memeʣu,118
+Naze,WORM,meːʤa,118
+Niigata,WORM,memeʣu,118
+Okayama,WORM,mimiʣu,118
+Okinawa,WORM,mimiʤi,118
+Saga,WORM,mimiʣu,118
+Saitama,WORM,memeʣu,118
+Shiga,WORM,memeʣu,118
+Shimane,WORM,memeʤi,118
+Shizuoka,WORM,memeʣu,118
+Taketomi,WORM,miːmaʤi,118
+Tarama,WORM,miːmiʤɨ,118
+Tochigi,WORM,mimiʣu,118
+Tokushima,WORM,memeʣu,118
+Tottori,WORM,mimiʣu,118
+Toyama,WORM,memeʣu,118
+Tōkyō,WORM,mimiʣu,118
+Wakayama,WORM,memeʣu,118
+Yamagata,WORM,memeɴʤi,118
+Yamaguchi,WORM,mimiʣu,118
+Yamanashi,WORM,memeʣu,118
+Yonaguni,WORM,timimi,118
+Ōita,WORM,mimiʣu,118
+Ōsaka,WORM,memeʣu,118
+Aichi,FISH,sakana,119
+Akita,FISH,saɡana,119
+Aomori,FISH,sakana,119
+Chiba,FISH,sakana,119
+Ehime,FISH,sakana,119
+Fukui,FISH,sakana,119
+Fukushima,FISH,saɡana,119
+Gifu,FISH,sakana,119
+Gunma,FISH,sakana,119
+Hokkaidō,FISH,sakana,119
+Hyōgo,FISH,sakana,119
+Ibaraki,FISH,sakana,119
+Ishikawa,FISH,sakana,119
+Iwate,FISH,sakana,119
+Kagawa,FISH,sakana,119
+Kanagawa,FISH,sakana,119
+Kyōtō,FISH,osakana,119
+Mie,FISH,sakana,119
+Miyagi,FISH,saɡana,119
+Nagano,FISH,sakana,119
+Nara,FISH,sakana,119
+Niigata,FISH,sakana,119
+Okayama,FISH,sakana,119
+Saitama,FISH,sakana,119
+Shiga,FISH,sakana,119
+Shimane,FISH,sakana,119
+Shizuoka,FISH,sakana,119
+Tochigi,FISH,saɡana,119
+Tokushima,FISH,sakana,119
+Tottori,FISH,sakana,119
+Tōkyō,FISH,sakana,119
+Wakayama,FISH,sakana,119
+Yamagata,FISH,saɡana,119
+Yamaguchi,FISH,sakana,119
+Yamanashi,FISH,sakana,119
+Ōsaka,FISH,sakana,119
+Fukuoka,FISH,io,120
+Hachijō,FISH,jo,120
+Hateruma,FISH,juː,120
+Hiroshima,FISH,io,120
+Kagoshima,FISH,ijo,120
+Kumamoto,FISH,juoː,120
+Kōchi,FISH,io,120
+Miyazaki,FISH,ioː,120
+Nagasaki,FISH,uo,120
+Naze,FISH,ʔju,120
+Okinawa,FISH,ʔjuː,120
+Old_Japanese,FISH,uwo,120
+Saga,FISH,ioː,120
+Toyama,FISH,io,120
+Yonaguni,FISH,iu,120
+Hirara,FISH,ɨʣu,121
+Ikema,FISH,ɨʣu,121
+Irafu,FISH,ɨʣu,121
+Ishigaki,FISH,ʔiʤɨ,121
+Taketomi,FISH,iʣu,121
+Tarama,FISH,ɨʣu,121
+Ōita,FISH,buijeɴ,122
+Aichi,SMALL,ʧiːsɛ,123
+Akita,SMALL,ʧiʔʧɛ,123
+Aomori,SMALL,ʦuʔʧea,123
+Chiba,SMALL,ʧiːsɛː,123
+Fukui,SMALL,ʧai,123
+Fukushima,SMALL,ʧiʔʧɛ,123
+Gifu,SMALL,ʧiːkøː,123
+Gunma,SMALL,ʧiʔʧai,123
+Hokkaidō,SMALL,ʧiːsai,123
+Ibaraki,SMALL,ʧiʔkoe,123
+Ishikawa,SMALL,ʧiʔʧai,123
+Kanagawa,SMALL,ʧiʔʧeː,123
+Kyōtō,SMALL,ʧiʔʧai,123
+Mie,SMALL,ʧiʔsai,123
+Miyagi,SMALL,ʦaʔkoe,123
+Nagano,SMALL,ʧiːseː,123
+Nagasaki,SMALL,ʧiːsaka,123
+Nara,SMALL,ʧisaː,123
+Naze,SMALL,ʦɨbimuɴ,123
+Niigata,SMALL,ʧiʔʧe,123
+Old_Japanese,SMALL,tiçisaʃi,123
+Saitama,SMALL,ʧiʔʧeː,123
+Shiga,SMALL,ʧiʔsai,123
+Tochigi,SMALL,ʧiːsai,123
+Toyama,SMALL,ʧiɴkoi,123
+Tōkyō,SMALL,ʧiːsai,123
+Wakayama,SMALL,ʧiʔsai,123
+Yamagata,SMALL,ʧiʔʧa,123
+Yamanashi,SMALL,ʧiːsai,123
+Ōsaka,SMALL,ʧiʔʧai,123
+Ehime,SMALL,komai,124
+Fukuoka,SMALL,komaka,124
+Hiroshima,SMALL,komaː,124
+Hyōgo,SMALL,komai,124
+Ishigaki,SMALL,ɡumasaːɴ,124
+Kagawa,SMALL,koɴmai,124
+Kagoshima,SMALL,kome,124
+Kumamoto,SMALL,komaɴka,124
+Kōchi,SMALL,koɴmai,124
+Miyazaki,SMALL,koɴme,124
+Okayama,SMALL,komɛː,124
+Saga,SMALL,komaka,124
+Shizuoka,SMALL,kosui,124
+Taketomi,SMALL,ɡumaːɴ,124
+Tokushima,SMALL,komai,124
+Tottori,SMALL,komai,124
+Yamaguchi,SMALL,komɛː,124
+Yonaguni,SMALL,ɡumatati,124
+Ōita,SMALL,koɴmeː,124
+Hachijō,SMALL,neʔkokja,125
+Hateruma,SMALL,ʔiʃsaɡahan,126
+Hirara,SMALL,imikaɨ,127
+Ikema,SMALL,imikai,127
+Irafu,SMALL,imikal,127
+Tarama,SMALL,imiʃsaːl,127
+Iwate,SMALL,pɛʔko,128
+Okinawa,SMALL,βuːʃeɴ,129
+Shimane,SMALL,hoʃe,129
+Aichi,GRASS,kusa,130
+Akita,GRASS,kusa,130
+Aomori,GRASS,kusa,130
+Chiba,GRASS,kusa,130
+Ehime,GRASS,kusa,130
+Fukui,GRASS,kusa,130
+Fukuoka,GRASS,kusa,130
+Fukushima,GRASS,kusa,130
+Gifu,GRASS,kusa,130
+Gunma,GRASS,kusa,130
+Hachijō,GRASS,kusa,130
+Hateruma,GRASS,βuʦa,130
+Hirara,GRASS,βusa,130
+Hiroshima,GRASS,kusa,130
+Hokkaidō,GRASS,kusa,130
+Hyōgo,GRASS,kusa,130
+Ibaraki,GRASS,kusa,130
+Ikema,GRASS,βusa,130
+Irafu,GRASS,βusa,130
+Ishigaki,GRASS,βusa,130
+Ishikawa,GRASS,kusa,130
+Iwate,GRASS,kusa,130
+Kagawa,GRASS,kusa,130
+Kagoshima,GRASS,kusa,130
+Kanagawa,GRASS,kusa,130
+Kumamoto,GRASS,kusa,130
+Kyōtō,GRASS,kusa,130
+Kōchi,GRASS,kusa,130
+Mie,GRASS,kusa,130
+Miyagi,GRASS,kusa,130
+Miyazaki,GRASS,kusa,130
+Nagano,GRASS,kusa,130
+Nagasaki,GRASS,kusa,130
+Nara,GRASS,kusa,130
+Naze,GRASS,kusa,130
+Niigata,GRASS,kusa,130
+Okayama,GRASS,kusa,130
+Okinawa,GRASS,kusaː,130
+Old_Japanese,GRASS,kusa,130
+Saga,GRASS,kusa,130
+Saitama,GRASS,kusa,130
+Shiga,GRASS,kusa,130
+Shimane,GRASS,kusa,130
+Shizuoka,GRASS,kusa,130
+Taketomi,GRASS,ʔsa,130
+Tarama,GRASS,βuʃa,130
+Tochigi,GRASS,kusa,130
+Tokushima,GRASS,kusa,130
+Tottori,GRASS,kusa,130
+Toyama,GRASS,kusa,130
+Tōkyō,GRASS,kusa,130
+Wakayama,GRASS,kusa,130
+Yamagata,GRASS,kusa,130
+Yamaguchi,GRASS,kusa,130
+Yamanashi,GRASS,kusa,130
+Yonaguni,GRASS,ʦa,130
+Ōita,GRASS,kusa,130
+Ōsaka,GRASS,kusa,130
+Aichi,SHORT,miʤiɡɛː,131
+Akita,SHORT,miɴʤiɡɛ,131
+Aomori,SHORT,miʦukɛ,131
+Chiba,SHORT,miʧikɛː,131
+Ehime,SHORT,miʤikai,131
+Fukui,SHORT,miʤikai,131
+Fukuoka,SHORT,miʤikaka,131
+Fukushima,SHORT,miʤiɡɛ,131
+Gifu,SHORT,miʤiɡɛː,131
+Gunma,SHORT,miʤikai,131
+Hachijō,SHORT,miʧikakja,131
+Hiroshima,SHORT,miʤikaː,131
+Hokkaidō,SHORT,miʤikai,131
+Hyōgo,SHORT,miʤikai,131
+Ibaraki,SHORT,miʧikae,131
+Ishikawa,SHORT,miʤikai,131
+Iwate,SHORT,miʣukɛ,131
+Kagawa,SHORT,miʤikai,131
+Kagoshima,SHORT,miçike,131
+Kanagawa,SHORT,miʤikeː,131
+Kumamoto,SHORT,miʤikaka,131
+Kyōtō,SHORT,miʤikai,131
+Kōchi,SHORT,miʣoi,131
+Mie,SHORT,miʤikai,131
+Miyagi,SHORT,miʦukɛ,131
+Miyazaki,SHORT,miʃike,131
+Nagano,SHORT,miʤikeː,131
+Nagasaki,SHORT,miʤikaka,131
+Nara,SHORT,miʤikaː,131
+Niigata,SHORT,miʤiɡɛː,131
+Okayama,SHORT,miʤiɡɛː,131
+Old_Japanese,SHORT,miʤikaʃi,131
+Saga,SHORT,miʃikaka,131
+Saitama,SHORT,miʤikeː,131
+Shiga,SHORT,miʤikai,131
+Shimane,SHORT,meʧikae,131
+Shizuoka,SHORT,miʤikeː,131
+Tochigi,SHORT,miʧikai,131
+Tokushima,SHORT,miʤikai,131
+Tottori,SHORT,miʤikai,131
+Toyama,SHORT,miʤikai,131
+Tōkyō,SHORT,miʤikai,131
+Wakayama,SHORT,miʤikai,131
+Yamagata,SHORT,miɴʤikɛ,131
+Yamaguchi,SHORT,miʤiɡɛː,131
+Yamanashi,SHORT,miʤikai,131
+Ōita,SHORT,miʃikeː,131
+Ōsaka,SHORT,miʤikai,131
+Hateruma,SHORT,marohaɴ,132
+Hirara,SHORT,marukaɨ,132
+Ikema,SHORT,marukai,132
+Irafu,SHORT,marukal,132
+Tarama,SHORT,maʔraːl,132
+Yonaguni,SHORT,maraɴ,132
+Ishigaki,SHORT,iɴʦɨkasaːɴ,133
+Naze,SHORT,ʔiʔkjaʃaɴ,133
+Okinawa,SHORT,ʔiɴkjaʃeɴ,133
+Taketomi,SHORT,iʃikaːɴ,133
+Old_Japanese,SHARP,toʃi,134
+Aichi,MOUTH,kuʧi,135
+Akita,MOUTH,kuʤi,135
+Aomori,MOUTH,kuʣu,135
+Chiba,MOUTH,kuʧi,135
+Ehime,MOUTH,kuʧi,135
+Fukui,MOUTH,kuʧi,135
+Fukuoka,MOUTH,kuʧi,135
+Fukushima,MOUTH,kuʤi,135
+Gifu,MOUTH,kuʧi,135
+Gunma,MOUTH,kuʧi,135
+Hachijō,MOUTH,kuʧi,135
+Hateruma,MOUTH,βuʦɨ,135
+Hirara,MOUTH,kuʦɨ,135
+Hiroshima,MOUTH,kuʧi,135
+Hokkaidō,MOUTH,kuʧi,135
+Hyōgo,MOUTH,kuʧi,135
+Ibaraki,MOUTH,kuʧi,135
+Ikema,MOUTH,kuʦɨ,135
+Irafu,MOUTH,kuʦɨ,135
+Ishigaki,MOUTH,βuʧi,135
+Ishikawa,MOUTH,kuʧi,135
+Iwate,MOUTH,kuʣu,135
+Kagawa,MOUTH,kuʧi,135
+Kagoshima,MOUTH,kuʔ,135
+Kanagawa,MOUTH,kuʧi,135
+Kumamoto,MOUTH,kuʧi,135
+Kyōtō,MOUTH,kuʧi,135
+Kōchi,MOUTH,kuʧi,135
+Mie,MOUTH,kuʧi,135
+Miyagi,MOUTH,kuʦu,135
+Miyazaki,MOUTH,kuʧi,135
+Nagano,MOUTH,kuʧi,135
+Nagasaki,MOUTH,kuʧi,135
+Nara,MOUTH,kuʧi,135
+Naze,MOUTH,kuʧi,135
+Niigata,MOUTH,kuʧi,135
+Okayama,MOUTH,kuʧi,135
+Okinawa,MOUTH,kuʧi,135
+Old_Japanese,MOUTH,kuti,135
+Saga,MOUTH,kuʧi,135
+Saitama,MOUTH,kuʧi,135
+Shiga,MOUTH,kuʧi,135
+Shimane,MOUTH,kuʧi,135
+Shizuoka,MOUTH,kuʧi,135
+Taketomi,MOUTH,βuʧi,135
+Tarama,MOUTH,kuʦɨ,135
+Tochigi,MOUTH,kuʧi,135
+Tokushima,MOUTH,kuʧi,135
+Tottori,MOUTH,kuʧi,135
+Toyama,MOUTH,kuʧi,135
+Tōkyō,MOUTH,kuʧi,135
+Wakayama,MOUTH,kuʧi,135
+Yamagata,MOUTH,kuʧi,135
+Yamaguchi,MOUTH,kuʧi,135
+Yamanashi,MOUTH,kuʧi,135
+Yonaguni,MOUTH,tʔi,135
+Ōita,MOUTH,kuʧi,135
+Ōsaka,MOUTH,kuʧi,135
+Aichi,WE,waʃiraː,136
+Aomori,WE,waɴdo,136
+Chiba,WE,wataʃidomo,136
+Ehime,WE,wataʃira,136
+Fukuoka,WE,ataʃidaʧi,136
+Gifu,WE,waʃira,136
+Gunma,WE,wataʃitaʧi,136
+Hachijō,WE,waira,136
+Hirara,WE,baɴta,136
+Hiroshima,WE,waʃira,136
+Hokkaidō,WE,wataʃidomo,136
+Hyōgo,WE,wataʃira,136
+Ikema,WE,baɴti,136
+Irafu,WE,baɴti,136
+Ishikawa,WE,watera,136
+Kagawa,WE,otaʃira,136
+Kagoshima,WE,ataitaʔ,136
+Kumamoto,WE,wataʃidoɴ,136
+Kyōtō,WE,wataʃira,136
+Kōchi,WE,wataʃiraː,136
+Mie,WE,wataʃira,136
+Miyagi,WE,wadasudaʦu,136
+Miyazaki,WE,waʃitaʧi,136
+Nagano,WE,waʃidomo,136
+Nagasaki,WE,wataʃidomo,136
+Nara,WE,waʃira,136
+Naze,WE,wakja,136
+Okayama,WE,wataʃiraː,136
+Okinawa,WE,waʔtaː,136
+Old_Japanese,WE,ware,136
+Saga,WE,wataʃidomo,136
+Saitama,WE,waʃira,136
+Shiga,WE,wataʃira,136
+Shimane,WE,wataʃidomo,136
+Shizuoka,WE,waʃira,136
+Taketomi,WE,baɴtaː,136
+Tarama,WE,aɴta,136
+Tochigi,WE,wataʃira,136
+Tokushima,WE,wataʃira,136
+Tottori,WE,waʃiraː,136
+Toyama,WE,waʃitaʧi,136
+Tōkyō,WE,wataʃitaʧi,136
+Wakayama,WE,wataʃira,136
+Yamagata,WE,wadaʃida,136
+Yamaguchi,WE,wataʃitaʧi,136
+Yamanashi,WE,wataʃidomo,136
+Ōita,WE,waʃidoː,136
+Ōsaka,WE,watera,136
+Akita,WE,oreadaʤi,137
+Fukui,WE,urara,137
+Fukushima,WE,oredaʧi,137
+Ibaraki,WE,oretaʧi,137
+Iwate,WE,oredaʣu,137
+Kanagawa,WE,oretaʧi,137
+Niigata,WE,ʤibuɴtaʧi,138
+Aichi,BIRD,tori,139
+Akita,BIRD,tori,139
+Aomori,BIRD,tori,139
+Chiba,BIRD,tori,139
+Ehime,BIRD,tori,139
+Fukui,BIRD,tori,139
+Fukuoka,BIRD,tori,139
+Fukushima,BIRD,tori,139
+Gifu,BIRD,tori,139
+Gunma,BIRD,tori,139
+Hachijō,BIRD,torime,139
+Hateruma,BIRD,turɨ,139
+Hirara,BIRD,tuɨ,139
+Hiroshima,BIRD,tori,139
+Hokkaidō,BIRD,tori,139
+Hyōgo,BIRD,tori,139
+Ibaraki,BIRD,tori,139
+Ikema,BIRD,tui,139
+Irafu,BIRD,tul,139
+Ishigaki,BIRD,turɨ,139
+Ishikawa,BIRD,tori,139
+Iwate,BIRD,tori,139
+Kagawa,BIRD,tori,139
+Kagoshima,BIRD,toi,139
+Kanagawa,BIRD,tori,139
+Kumamoto,BIRD,tori,139
+Kyōtō,BIRD,tori,139
+Kōchi,BIRD,tori,139
+Mie,BIRD,tori,139
+Miyagi,BIRD,tori,139
+Miyazaki,BIRD,tori,139
+Nagano,BIRD,tori,139
+Nagasaki,BIRD,tori,139
+Nara,BIRD,tori,139
+Naze,BIRD,turi,139
+Niigata,BIRD,tori,139
+Okayama,BIRD,tori,139
+Okinawa,BIRD,tui,139
+Old_Japanese,BIRD,tøri,139
+Saga,BIRD,toi,139
+Saitama,BIRD,tori,139
+Shiga,BIRD,tori,139
+Shimane,BIRD,toː,139
+Shizuoka,BIRD,tori,139
+Taketomi,BIRD,tul,139
+Tarama,BIRD,tul,139
+Tochigi,BIRD,tori,139
+Tokushima,BIRD,tori,139
+Tottori,BIRD,tori,139
+Toyama,BIRD,tori,139
+Tōkyō,BIRD,tori,139
+Wakayama,BIRD,tori,139
+Yamagata,BIRD,tori,139
+Yamaguchi,BIRD,tori,139
+Yamanashi,BIRD,tori,139
+Yonaguni,BIRD,hatu,139
+Ōita,BIRD,tori,139
+Ōsaka,BIRD,tori,139
+Aichi,PERSON,çito,140
+Akita,PERSON,βuto,140
+Aomori,PERSON,suto,140
+Chiba,PERSON,çito,140
+Ehime,PERSON,çito,140
+Fukui,PERSON,çito,140
+Fukuoka,PERSON,çito,140
+Fukushima,PERSON,ʃito,140
+Gifu,PERSON,çito,140
+Gunma,PERSON,ʃito,140
+Hachijō,PERSON,ʃito,140
+Hateruma,PERSON,psɨtu,140
+Hirara,PERSON,psɨtu,140
+Hiroshima,PERSON,çito,140
+Hokkaidō,PERSON,çito,140
+Hyōgo,PERSON,çito,140
+Ibaraki,PERSON,çito,140
+Ikema,PERSON,sɨtu,140
+Irafu,PERSON,psɨtu,140
+Ishigaki,PERSON,psɨtu,140
+Ishikawa,PERSON,çito,140
+Iwate,PERSON,çito,140
+Kagawa,PERSON,çito,140
+Kagoshima,PERSON,çito,140
+Kanagawa,PERSON,çito,140
+Kumamoto,PERSON,çito,140
+Kyōtō,PERSON,ʃito,140
+Kōchi,PERSON,çito,140
+Mie,PERSON,çito,140
+Miyagi,PERSON,çito,140
+Nagano,PERSON,ʃito,140
+Nagasaki,PERSON,çito,140
+Nara,PERSON,çito,140
+Niigata,PERSON,ʃito,140
+Okayama,PERSON,çito,140
+Old_Japanese,PERSON,çitø,140
+Saga,PERSON,çito,140
+Saitama,PERSON,ʃito,140
+Shiga,PERSON,çito,140
+Shimane,PERSON,βuto,140
+Shizuoka,PERSON,çito,140
+Tarama,PERSON,psɨtu,140
+Tochigi,PERSON,çito,140
+Tokushima,PERSON,çito,140
+Tottori,PERSON,çito,140
+Toyama,PERSON,ʃito,140
+Tōkyō,PERSON,çito,140
+Wakayama,PERSON,çito,140
+Yamagata,PERSON,çito,140
+Yamaguchi,PERSON,çito,140
+Yamanashi,PERSON,çito,140
+Yonaguni,PERSON,tʔu,140
+Ōita,PERSON,çito,140
+Ōsaka,PERSON,çito,140
+Naze,PERSON,ʧʔu,141
+Okinawa,PERSON,ʧuː,141
+Taketomi,PERSON,pusu,142
+Aichi,BIG,oːkiː,143
+Akita,BIG,oʔki,143
+Aomori,BIG,oʔki,143
+Chiba,BIG,oʔkiː,143
+Ehime,BIG,oːkiː,143
+Fukuoka,BIG,oːʔka,143
+Hiroshima,BIG,oːkeː,143
+Hokkaidō,BIG,oːkiː,143
+Hyōgo,BIG,oːkeː,143
+Iwate,BIG,oʔki,143
+Kagawa,BIG,oːkiː,143
+Kyōtō,BIG,oːkiː,143
+Mie,BIG,oʔkiː,143
+Miyagi,BIG,oʔkiː,143
+Nagasaki,BIG,oːkina,143
+Nara,BIG,oːkiː,143
+Okayama,BIG,oːkeː,143
+Old_Japanese,BIG,øβø,143
+Shimane,BIG,oːkina,143
+Tochigi,BIG,oːkiː,143
+Tokushima,BIG,oːkiː,143
+Tottori,BIG,oːkiː,143
+Tōkyō,BIG,oːkiː,143
+Wakayama,BIG,okiː,143
+Yamagata,BIG,oʔki,143
+Yamaguchi,BIG,oːkina,143
+Yamanashi,BIG,oːkiː,143
+Ōsaka,BIG,oːkiː,143
+Fukui,BIG,ikɛ,144
+Gifu,BIG,ikɛ,144
+Shiga,BIG,ikɛː,144
+Shizuoka,BIG,ikai,144
+Fukushima,BIG,ʣuɴnɛ,145
+Gunma,BIG,deʔkai,146
+Ibaraki,BIG,ekae,146
+Ishikawa,BIG,dekai,146
+Kanagawa,BIG,dʔkɛ,146
+Nagano,BIG,dʔkɛ,146
+Niigata,BIG,deʔkae,146
+Saitama,BIG,dʔkɛ,146
+Toyama,BIG,deʔkai,146
+Hachijō,BIG,boːkja,147
+Hateruma,BIG,busahaɴ,148
+Hirara,BIG,upukaiː,148
+Ikema,BIG,βuikai,148
+Irafu,BIG,ukukal,148
+Tarama,BIG,upʃaːl,148
+Ishigaki,BIG,maiʃaːɴ,149
+Okinawa,BIG,maːɡiʃeɴ,149
+Taketomi,BIG,maijaɴ,149
+Yonaguni,BIG,maisa,149
+Kagoshima,BIG,βute,150
+Kumamoto,BIG,βutoka,150
+Kōchi,BIG,βutoi,150
+Miyazaki,BIG,βuti,150
+Saga,BIG,βutoka,150
+Ōita,BIG,βutiː,150
+Naze,BIG,daibaɴ,151
+Aichi,BREAST,mune,152
+Akita,BREAST,mune,152
+Aomori,BREAST,mune,152
+Chiba,BREAST,mune,152
+Ehime,BREAST,mune,152
+Fukui,BREAST,mune,152
+Fukuoka,BREAST,mune,152
+Fukushima,BREAST,mune,152
+Gifu,BREAST,mune,152
+Gunma,BREAST,mune,152
+Hachijō,BREAST,mune,152
+Hiroshima,BREAST,mune,152
+Hokkaidō,BREAST,mune,152
+Hyōgo,BREAST,mune,152
+Ibaraki,BREAST,mune,152
+Ishikawa,BREAST,mune,152
+Iwate,BREAST,mune,152
+Kagawa,BREAST,mune,152
+Kagoshima,BREAST,mune,152
+Kanagawa,BREAST,mune,152
+Kumamoto,BREAST,mune,152
+Kyōtō,BREAST,mune,152
+Kōchi,BREAST,mune,152
+Mie,BREAST,mune,152
+Miyagi,BREAST,mune,152
+Miyazaki,BREAST,mune,152
+Nagano,BREAST,munaŋara,152
+Nagasaki,BREAST,mune,152
+Nara,BREAST,mune,152
+Naze,BREAST,monə,152
+Niigata,BREAST,mune,152
+Okayama,BREAST,mune,152
+Old_Japanese,BREAST,mune,152
+Saga,BREAST,mune,152
+Saitama,BREAST,mune,152
+Shiga,BREAST,mune,152
+Shimane,BREAST,mine,152
+Shizuoka,BREAST,mune,152
+Tochigi,BREAST,mune,152
+Tokushima,BREAST,mune,152
+Tottori,BREAST,mune,152
+Toyama,BREAST,mune,152
+Tōkyō,BREAST,mune,152
+Wakayama,BREAST,mune,152
+Yamagata,BREAST,mune,152
+Yamaguchi,BREAST,mune,152
+Yamanashi,BREAST,mune,152
+Ōita,BREAST,mune,152
+Ōsaka,BREAST,mune,152
+Hateruma,BREAST,niʦɨ,153
+Okinawa,BREAST,niːβara,153
+Hirara,BREAST,ɴmivu̥ʦɨ,154
+Ikema,BREAST,ɴmiuʦɨ,154
+Irafu,BREAST,ɴmivu̥ʦɨ,154
+Ishigaki,BREAST,ɴni,154
+Taketomi,BREAST,ɴːni,154
+Tarama,BREAST,mni,154
+Yonaguni,BREAST,ʧimumuti,155
+Aichi,HAND,te,156
+Akita,HAND,te,156
+Aomori,HAND,te,156
+Chiba,HAND,te,156
+Ehime,HAND,teː,156
+Fukui,HAND,teː,156
+Fukuoka,HAND,te,156
+Fukushima,HAND,te,156
+Gifu,HAND,te,156
+Gunma,HAND,te,156
+Hachijō,HAND,te,156
+Hateruma,HAND,sɨː,156
+Hirara,HAND,tiː,156
+Hiroshima,HAND,te,156
+Hokkaidō,HAND,te,156
+Hyōgo,HAND,teː,156
+Ibaraki,HAND,te,156
+Ikema,HAND,tiː,156
+Irafu,HAND,tiː,156
+Ishigaki,HAND,tiː,156
+Ishikawa,HAND,teː,156
+Iwate,HAND,te,156
+Kagawa,HAND,teː,156
+Kagoshima,HAND,tɨ,156
+Kanagawa,HAND,te,156
+Kumamoto,HAND,ʧe,156
+Kyōtō,HAND,teː,156
+Kōchi,HAND,te,156
+Mie,HAND,teː,156
+Miyagi,HAND,te,156
+Miyazaki,HAND,te,156
+Nagano,HAND,te,156
+Nagasaki,HAND,te,156
+Nara,HAND,te,156
+Naze,HAND,tiː,156
+Niigata,HAND,te,156
+Okayama,HAND,te,156
+Okinawa,HAND,tiː,156
+Old_Japanese,HAND,tə,156
+Saga,HAND,te,156
+Saitama,HAND,te,156
+Shiga,HAND,teː,156
+Shimane,HAND,te,156
+Shizuoka,HAND,te,156
+Taketomi,HAND,tiː,156
+Tarama,HAND,tiː,156
+Tochigi,HAND,te,156
+Tokushima,HAND,teː,156
+Tottori,HAND,te,156
+Toyama,HAND,teː,156
+Tōkyō,HAND,te,156
+Wakayama,HAND,teː,156
+Yamagata,HAND,te,156
+Yamaguchi,HAND,te,156
+Yamanashi,HAND,te,156
+Yonaguni,HAND,ti,156
+Ōita,HAND,te,156
+Ōsaka,HAND,teː,156
+Aichi,SEE,miru,157
+Akita,SEE,miru,157
+Aomori,SEE,miru,157
+Chiba,SEE,miru,157
+Ehime,SEE,miru,157
+Fukui,SEE,miru,157
+Fukuoka,SEE,miru,157
+Fukushima,SEE,miru,157
+Gifu,SEE,miru,157
+Gunma,SEE,miru,157
+Hachijō,SEE,miru,157
+Hateruma,SEE,miruɴ,157
+Hirara,SEE,miːɨ,157
+Hiroshima,SEE,miru,157
+Hokkaidō,SEE,miru,157
+Hyōgo,SEE,miru,157
+Ibaraki,SEE,miru,157
+Ikema,SEE,miː,157
+Irafu,SEE,miːl,157
+Ishigaki,SEE,miruɴ,157
+Ishikawa,SEE,miru,157
+Iwate,SEE,miru,157
+Kagawa,SEE,miru,157
+Kagoshima,SEE,miʔ,157
+Kanagawa,SEE,miru,157
+Kumamoto,SEE,miru,157
+Kyōtō,SEE,miru,157
+Kōchi,SEE,miru,157
+Mie,SEE,miru,157
+Miyagi,SEE,miru,157
+Miyazaki,SEE,miru,157
+Nagano,SEE,miru,157
+Nagasaki,SEE,miʔ,157
+Nara,SEE,miru,157
+Niigata,SEE,miru,157
+Okayama,SEE,miː,157
+Okinawa,SEE,miːɴ,157
+Old_Japanese,SEE,miru,157
+Saga,SEE,miː,157
+Saitama,SEE,miru,157
+Shiga,SEE,miru,157
+Shimane,SEE,miru,157
+Shizuoka,SEE,miru,157
+Taketomi,SEE,miruɴ,157
+Tarama,SEE,miːl,157
+Tochigi,SEE,miru,157
+Tokushima,SEE,miru,157
+Tottori,SEE,miru,157
+Toyama,SEE,miru,157
+Tōkyō,SEE,miru,157
+Wakayama,SEE,miru,157
+Yamagata,SEE,miru,157
+Yamaguchi,SEE,miru,157
+Yamanashi,SEE,miru,157
+Ōita,SEE,miru,157
+Ōsaka,SEE,miru,157
+Naze,SEE,njuɴ,158
+Yonaguni,SEE,ɴnuɴ,158
+Aichi,SMOKE (EXHAUST),keburi,159
+Akita,SMOKE (EXHAUST),kemuri,159
+Aomori,SMOKE (EXHAUST),kemu,159
+Chiba,SMOKE (EXHAUST),kebu,159
+Ehime,SMOKE (EXHAUST),kemuri,159
+Fukui,SMOKE (EXHAUST),keburi,159
+Fukuoka,SMOKE (EXHAUST),kemuri,159
+Fukushima,SMOKE (EXHAUST),kemuri,159
+Gifu,SMOKE (EXHAUST),keburi,159
+Gunma,SMOKE (EXHAUST),kemuri,159
+Hachijō,SMOKE (EXHAUST),kemu,159
+Hateruma,SMOKE (EXHAUST),kipusɨː,159
+Hirara,SMOKE (EXHAUST),kivu̥sɨ,159
+Hiroshima,SMOKE (EXHAUST),keburi,159
+Hokkaidō,SMOKE (EXHAUST),kemuri,159
+Hyōgo,SMOKE (EXHAUST),keburi,159
+Ibaraki,SMOKE (EXHAUST),kemuri,159
+Ikema,SMOKE (EXHAUST),kjuːsɨ,159
+Irafu,SMOKE (EXHAUST),kivu̥sɨ,159
+Ishigaki,SMOKE (EXHAUST),kifuː,159
+Ishikawa,SMOKE (EXHAUST),kemuri,159
+Iwate,SMOKE (EXHAUST),kemuri,159
+Kagawa,SMOKE (EXHAUST),kemuri,159
+Kagoshima,SMOKE (EXHAUST),kemui,159
+Kanagawa,SMOKE (EXHAUST),kebu,159
+Kumamoto,SMOKE (EXHAUST),keburi,159
+Kyōtō,SMOKE (EXHAUST),kemuri,159
+Kōchi,SMOKE (EXHAUST),kemuri,159
+Mie,SMOKE (EXHAUST),keburi,159
+Miyagi,SMOKE (EXHAUST),kemuri,159
+Miyazaki,SMOKE (EXHAUST),kemuri,159
+Nagano,SMOKE (EXHAUST),kebu,159
+Nagasaki,SMOKE (EXHAUST),kemuri,159
+Nara,SMOKE (EXHAUST),kemuri,159
+Naze,SMOKE (EXHAUST),ksɨbuʃi,159
+Niigata,SMOKE (EXHAUST),kemu,159
+Okayama,SMOKE (EXHAUST),kemuri,159
+Okinawa,SMOKE (EXHAUST),kibui,159
+Old_Japanese,SMOKE (EXHAUST),keburi,159
+Saga,SMOKE (EXHAUST),kebui,159
+Saitama,SMOKE (EXHAUST),kebu,159
+Shiga,SMOKE (EXHAUST),kemuri,159
+Shimane,SMOKE (EXHAUST),kemoː,159
+Shizuoka,SMOKE (EXHAUST),kebu,159
+Taketomi,SMOKE (EXHAUST),kiboːʃi,159
+Tarama,SMOKE (EXHAUST),kiβusɨ,159
+Tochigi,SMOKE (EXHAUST),kemuri,159
+Tokushima,SMOKE (EXHAUST),kemuri,159
+Tottori,SMOKE (EXHAUST),kemuri,159
+Toyama,SMOKE (EXHAUST),keburi,159
+Tōkyō,SMOKE (EXHAUST),kemuri,159
+Wakayama,SMOKE (EXHAUST),keburi,159
+Yamagata,SMOKE (EXHAUST),kemuri,159
+Yamaguchi,SMOKE (EXHAUST),kemuri,159
+Yamanashi,SMOKE (EXHAUST),kemuri,159
+Yonaguni,SMOKE (EXHAUST),kibuɴʧi,159
+Ōita,SMOKE (EXHAUST),kemuri,159
+Ōsaka,SMOKE (EXHAUST),keburi,159
+Aichi,STAND,taʦu,160
+Akita,STAND,taʤi,160
+Aomori,STAND,taʣu,160
+Chiba,STAND,taʦu,160
+Ehime,STAND,taʦu,160
+Fukui,STAND,taʦu,160
+Fukuoka,STAND,taʦu,160
+Fukushima,STAND,taʧi,160
+Gifu,STAND,taʦu,160
+Gunma,STAND,taʦu,160
+Hachijō,STAND,taʦu,160
+Hateruma,STAND,taʦɨɴ,160
+Hirara,STAND,taʦɨ,160
+Hiroshima,STAND,taʦu,160
+Hokkaidō,STAND,taʦu,160
+Hyōgo,STAND,taʦu,160
+Ibaraki,STAND,taʦu,160
+Ikema,STAND,taʦɨ,160
+Irafu,STAND,taβu,160
+Ishigaki,STAND,taʦuɴ,160
+Ishikawa,STAND,taʦu,160
+Iwate,STAND,taʣu,160
+Kagawa,STAND,tateru,160
+Kagoshima,STAND,taʔ,160
+Kanagawa,STAND,taʦu,160
+Kumamoto,STAND,taʦu,160
+Kyōtō,STAND,taʦu,160
+Kōchi,STAND,tateru,160
+Mie,STAND,taʦu,160
+Miyagi,STAND,taʣu,160
+Miyazaki,STAND,taʦu,160
+Nagano,STAND,taʦu,160
+Nagasaki,STAND,taʦu,160
+Nara,STAND,taʦu,160
+Naze,STAND,taʧuɴ,160
+Niigata,STAND,taʦu,160
+Okayama,STAND,tateru,160
+Okinawa,STAND,taʔtuɴ,160
+Old_Japanese,STAND,tatu,160
+Saga,STAND,taʦu,160
+Saitama,STAND,taʦu,160
+Shiga,STAND,taʦu,160
+Shimane,STAND,taʧi,160
+Shizuoka,STAND,taʦu,160
+Taketomi,STAND,tatuɴ,160
+Tarama,STAND,taʦɨ,160
+Tochigi,STAND,taʣu,160
+Tokushima,STAND,taʦu,160
+Tottori,STAND,taʦu,160
+Toyama,STAND,taʦu,160
+Tōkyō,STAND,taʦu,160
+Wakayama,STAND,taʦu,160
+Yamagata,STAND,taʤi,160
+Yamaguchi,STAND,taʦu,160
+Yamanashi,STAND,taʦu,160
+Yonaguni,STAND,tatʔuɴ,160
+Ōita,STAND,tatu,160
+Ōsaka,STAND,taʦu,160
+Aichi,SNAKE,kuʧinawa,161
+Fukuoka,SNAKE,kuʧinawa,161
+Hiroshima,SNAKE,kuʧinawa,161
+Hyōgo,SNAKE,kuʦuna,161
+Mie,SNAKE,kuʧinawa,161
+Nagasaki,SNAKE,kuʧinawa,161
+Okayama,SNAKE,kuʧinawa,161
+Saga,SNAKE,kuʧinawa,161
+Shimane,SNAKE,kuʧinawa,161
+Tokushima,SNAKE,ɡuʧinawa,161
+Tottori,SNAKE,kuʧinawa,161
+Wakayama,SNAKE,kuʧinaː,161
+Akita,SNAKE,βeɴbi,162
+Aomori,SNAKE,heɴbi,162
+Chiba,SNAKE,hebi,162
+Ehime,SNAKE,hebi,162
+Fukui,SNAKE,heːbu,162
+Fukushima,SNAKE,hebi,162
+Gifu,SNAKE,heɴbi,162
+Gunma,SNAKE,hebi,162
+Hachijō,SNAKE,hebime,162
+Hokkaidō,SNAKE,hebi,162
+Ibaraki,SNAKE,hebi,162
+Ishikawa,SNAKE,hebi,162
+Iwate,SNAKE,çeɴbi,162
+Kagawa,SNAKE,hebi,162
+Kagoshima,SNAKE,heʔ,162
+Kanagawa,SNAKE,hebi,162
+Kumamoto,SNAKE,hebi,162
+Kyōtō,SNAKE,hebi,162
+Kōchi,SNAKE,hebi,162
+Miyagi,SNAKE,hebi,162
+Miyazaki,SNAKE,hebi,162
+Nagano,SNAKE,hebi,162
+Nara,SNAKE,hebi,162
+Niigata,SNAKE,hebi,162
+Old_Japanese,SNAKE,həmi,162
+Saitama,SNAKE,hebi,162
+Shiga,SNAKE,heːbi,162
+Shizuoka,SNAKE,heːbi,162
+Tochigi,SNAKE,hebi,162
+Toyama,SNAKE,heːbi,162
+Tōkyō,SNAKE,hebi,162
+Yamagata,SNAKE,βeɴbi,162
+Yamaguchi,SNAKE,hebi,162
+Yamanashi,SNAKE,hebi,162
+Ōita,SNAKE,hebi,162
+Ōsaka,SNAKE,hebi,162
+Hateruma,SNAKE,paku,163
+Hirara,SNAKE,pau,163
+Ikema,SNAKE,hau,163
+Irafu,SNAKE,pavu̥,163
+Ishigaki,SNAKE,habu,163
+Naze,SNAKE,habu,163
+Okinawa,SNAKE,βabu,163
+Taketomi,SNAKE,pabu,163
+Tarama,SNAKE,poː,164
+Yonaguni,SNAKE,tuɡara,165
+Aichi,FAR,toøː,166
+Akita,FAR,toːe,166
+Aomori,FAR,toːe,166
+Chiba,FAR,toːkiː,166
+Ehime,FAR,towai,166
+Fukui,FAR,toːi,166
+Fukuoka,FAR,toːka,166
+Fukushima,FAR,toːi,166
+Gifu,FAR,toøː,166
+Gunma,FAR,towai,166
+Hachijō,FAR,toːkja,166
+Hateruma,FAR,tuːsahaɴ,166
+Hiroshima,FAR,toːiː,166
+Hokkaidō,FAR,toːi,166
+Hyōgo,FAR,toːi,166
+Ibaraki,FAR,toːe,166
+Irafu,FAR,tuːkal,166
+Ishigaki,FAR,tuːsaːɴ,166
+Ishikawa,FAR,toːi,166
+Iwate,FAR,toːe,166
+Kagawa,FAR,toːi,166
+Kagoshima,FAR,toe,166
+Kanagawa,FAR,toeː,166
+Kumamoto,FAR,toːka,166
+Kyōtō,FAR,toːi,166
+Kōchi,FAR,toːi,166
+Mie,FAR,toːi,166
+Miyagi,FAR,toːe,166
+Miyazaki,FAR,towi,166
+Nagano,FAR,toːe,166
+Nagasaki,FAR,toːka,166
+Nara,FAR,toːiː,166
+Naze,FAR,tuːʃaɴ,166
+Niigata,FAR,toːwe,166
+Okayama,FAR,toeː,166
+Okinawa,FAR,tuːʃeɴ,166
+Old_Japanese,FAR,tøhøʃi,166
+Saga,FAR,toːka,166
+Saitama,FAR,toːi,166
+Shiga,FAR,toːi,166
+Shimane,FAR,toe,166
+Shizuoka,FAR,toːi,166
+Taketomi,FAR,tuːwaɴ,166
+Tochigi,FAR,toːi,166
+Tokushima,FAR,toːi,166
+Tottori,FAR,toːiː,166
+Toyama,FAR,toːi,166
+Tōkyō,FAR,toːi,166
+Wakayama,FAR,tobai,166
+Yamagata,FAR,toʔɡu,166
+Yamaguchi,FAR,toiː,166
+Yamanashi,FAR,toːi,166
+Yonaguni,FAR,tuɴ,166
+Ōita,FAR,towiː,166
+Ōsaka,FAR,toːi,166
+Hirara,FAR,kamaːkaɨ,167
+Ikema,FAR,kaːmakai,167
+Tarama,FAR,kadaːʃaːl,168
+Aichi,BELLY,hara,169
+Akita,BELLY,hara,169
+Aomori,BELLY,hara,169
+Chiba,BELLY,hara,169
+Ehime,BELLY,hara,169
+Fukui,BELLY,hara,169
+Fukuoka,BELLY,hara,169
+Fukushima,BELLY,hara,169
+Gifu,BELLY,hara,169
+Gunma,BELLY,hara,169
+Hachijō,BELLY,hara,169
+Hiroshima,BELLY,hara,169
+Hyōgo,BELLY,hara,169
+Ibaraki,BELLY,hara,169
+Ishikawa,BELLY,hara,169
+Iwate,BELLY,hara,169
+Kagawa,BELLY,hara,169
+Kagoshima,BELLY,hara,169
+Kanagawa,BELLY,hara,169
+Kumamoto,BELLY,hara,169
+Kyōtō,BELLY,hara,169
+Kōchi,BELLY,hara,169
+Mie,BELLY,hara,169
+Miyagi,BELLY,hara,169
+Miyazaki,BELLY,hara,169
+Nagano,BELLY,hara,169
+Nagasaki,BELLY,hara,169
+Nara,BELLY,hara,169
+Niigata,BELLY,hara,169
+Okayama,BELLY,hara,169
+Saga,BELLY,hara,169
+Saitama,BELLY,hara,169
+Shiga,BELLY,hara,169
+Shimane,BELLY,hara,169
+Shizuoka,BELLY,hara,169
+Tochigi,BELLY,hara,169
+Tokushima,BELLY,hara,169
+Tottori,BELLY,hara,169
+Toyama,BELLY,hara,169
+Tōkyō,BELLY,hara,169
+Wakayama,BELLY,hara,169
+Yamagata,BELLY,hara,169
+Yamanashi,BELLY,hara,169
+Ōita,BELLY,hara,169
+Ōsaka,BELLY,hara,169
+Hateruma,BELLY,bata,170
+Hirara,BELLY,bata,170
+Ikema,BELLY,bata,170
+Irafu,BELLY,bata,170
+Ishigaki,BELLY,bada,170
+Naze,BELLY,wata,170
+Okinawa,BELLY,wataː,170
+Old_Japanese,BELLY,wata,170
+Taketomi,BELLY,bata,170
+Tarama,BELLY,bata,170
+Yonaguni,BELLY,bata,170
+Hokkaidō,BELLY,onaka,171
+Yamaguchi,BELLY,onaka,171
+Aichi,NO OR NOT,nɛː,172
+Akita,NO OR NOT,nɛ,172
+Aomori,NO OR NOT,nɛ,172
+Chiba,NO OR NOT,nɛː,172
+Ehime,NO OR NOT,nai,172
+Fukui,NO OR NOT,neː,172
+Fukuoka,NO OR NOT,naka,172
+Fukushima,NO OR NOT,nai,172
+Gifu,NO OR NOT,nɛː,172
+Gunma,NO OR NOT,nai,172
+Hachijō,NO OR NOT,naʔkja,172
+Hateruma,NO OR NOT,nu,172
+Hirara,NO OR NOT,ɲaːɴ,172
+Hiroshima,NO OR NOT,naː,172
+Hokkaidō,NO OR NOT,nai,172
+Ibaraki,NO OR NOT,nae,172
+Ikema,NO OR NOT,ɲaːɴ,172
+Irafu,NO OR NOT,ɲaːɴ,172
+Ishigaki,NO OR NOT,nu,172
+Ishikawa,NO OR NOT,nai,172
+Iwate,NO OR NOT,nɛ,172
+Kagawa,NO OR NOT,nai,172
+Kagoshima,NO OR NOT,ne,172
+Kanagawa,NO OR NOT,neː,172
+Kumamoto,NO OR NOT,naka,172
+Kyōtō,NO OR NOT,nai,172
+Kōchi,NO OR NOT,nai,172
+Mie,NO OR NOT,nai,172
+Miyagi,NO OR NOT,nɛ,172
+Miyazaki,NO OR NOT,ne,172
+Nagano,NO OR NOT,neː,172
+Nagasaki,NO OR NOT,naka,172
+Nara,NO OR NOT,naː,172
+Naze,NO OR NOT,nəɴ,172
+Niigata,NO OR NOT,nɛː,172
+Okayama,NO OR NOT,nɛː,172
+Okinawa,NO OR NOT,neːɴ,172
+Old_Japanese,NO OR NOT,nu,172
+Saga,NO OR NOT,naka,172
+Saitama,NO OR NOT,neː,172
+Shiga,NO OR NOT,nai,172
+Shimane,NO OR NOT,ne,172
+Shizuoka,NO OR NOT,ne,172
+Taketomi,NO OR NOT,naːnu,172
+Tarama,NO OR NOT,neːɴ,172
+Tochigi,NO OR NOT,neː,172
+Tokushima,NO OR NOT,nai,172
+Tottori,NO OR NOT,nai,172
+Toyama,NO OR NOT,nai,172
+Tōkyō,NO OR NOT,nai,172
+Wakayama,NO OR NOT,nai,172
+Yamagata,NO OR NOT,nɛ,172
+Yamaguchi,NO OR NOT,nɛː,172
+Yamanashi,NO OR NOT,nai,172
+Yonaguni,NO OR NOT,nuɴ,172
+Ōita,NO OR NOT,neː,172
+Ōsaka,NO OR NOT,nai,172
+Hyōgo,NO OR NOT,araheɴ,173
+Aichi,BONE,hone,174
+Akita,BONE,hone,174
+Aomori,BONE,hone,174
+Chiba,BONE,hone,174
+Ehime,BONE,hone,174
+Fukui,BONE,hone,174
+Fukuoka,BONE,hone,174
+Fukushima,BONE,hone,174
+Gifu,BONE,hone,174
+Gunma,BONE,hone,174
+Hachijō,BONE,hone,174
+Hateruma,BONE,puni,174
+Hirara,BONE,puni,174
+Hiroshima,BONE,hone,174
+Hokkaidō,BONE,hone,174
+Hyōgo,BONE,hone,174
+Ibaraki,BONE,hone,174
+Ikema,BONE,βuni,174
+Irafu,BONE,puni,174
+Ishigaki,BONE,βuni,174
+Ishikawa,BONE,hone,174
+Iwate,BONE,hone,174
+Kagawa,BONE,hone,174
+Kagoshima,BONE,hone,174
+Kanagawa,BONE,hone,174
+Kumamoto,BONE,hone,174
+Kyōtō,BONE,hone,174
+Kōchi,BONE,hone,174
+Mie,BONE,hone,174
+Miyagi,BONE,hone,174
+Miyazaki,BONE,hone,174
+Nagano,BONE,hone,174
+Nagasaki,BONE,hone,174
+Nara,BONE,hone,174
+Naze,BONE,βunɨ,174
+Niigata,BONE,hone,174
+Okayama,BONE,hone,174
+Okinawa,BONE,βuni,174
+Old_Japanese,BONE,høne,174
+Saga,BONE,hone,174
+Saitama,BONE,hone,174
+Shiga,BONE,hone,174
+Shimane,BONE,hone,174
+Shizuoka,BONE,hone,174
+Taketomi,BONE,puni,174
+Tarama,BONE,puni,174
+Tochigi,BONE,hone,174
+Tokushima,BONE,hone,174
+Tottori,BONE,hone,174
+Toyama,BONE,hone,174
+Tōkyō,BONE,hone,174
+Wakayama,BONE,hone,174
+Yamagata,BONE,hone,174
+Yamaguchi,BONE,hone,174
+Yamanashi,BONE,hone,174
+Yonaguni,BONE,βuni,174
+Ōita,BONE,hone,174
+Ōsaka,BONE,hone,174
+Aichi,SALT,ʃio,175
+Akita,SALT,ʃo,175
+Aomori,SALT,suo,175
+Chiba,SALT,ʃio,175
+Ehime,SALT,ʃio,175
+Fukui,SALT,ʃio,175
+Fukuoka,SALT,ʃiwo,175
+Fukushima,SALT,ʃio,175
+Gifu,SALT,ʃio,175
+Gunma,SALT,ʃio,175
+Hachijō,SALT,ʃio,175
+Hiroshima,SALT,ʃijo,175
+Hokkaidō,SALT,ʃio,175
+Hyōgo,SALT,ʃio,175
+Ibaraki,SALT,ʃio,175
+Ishikawa,SALT,ʃoː,175
+Iwate,SALT,suo,175
+Kagawa,SALT,ʃio,175
+Kagoshima,SALT,ʃio,175
+Kanagawa,SALT,ʃiwo,175
+Kumamoto,SALT,ʃio,175
+Kyōtō,SALT,oʃio,175
+Kōchi,SALT,ʃio,175
+Mie,SALT,ʃio,175
+Miyagi,SALT,suo,175
+Miyazaki,SALT,ʃio,175
+Nagano,SALT,ʃoː,175
+Nagasaki,SALT,ʃio,175
+Nara,SALT,ʃio,175
+Niigata,SALT,ʃoː,175
+Okayama,SALT,ʃio,175
+Old_Japanese,SALT,ʃihø,175
+Saga,SALT,ʃio,175
+Saitama,SALT,ʃoː,175
+Shiga,SALT,ʃiwo,175
+Shimane,SALT,so,175
+Shizuoka,SALT,ʃio,175
+Tochigi,SALT,ʃio,175
+Tokushima,SALT,ʃio,175
+Tottori,SALT,ʃio,175
+Toyama,SALT,ʔʃo,175
+Tōkyō,SALT,ʃio,175
+Wakayama,SALT,ʃio,175
+Yamagata,SALT,ʃo,175
+Yamaguchi,SALT,oʃijo,175
+Yamanashi,SALT,ʃio,175
+Ōita,SALT,ʃijo,175
+Ōsaka,SALT,ʃio,175
+Hateruma,SALT,maːsu,176
+Hirara,SALT,maːsu,176
+Ikema,SALT,maːsu,176
+Irafu,SALT,maːsu,176
+Ishigaki,SALT,maːsu,176
+Naze,SALT,maʃu,176
+Okinawa,SALT,masu,176
+Taketomi,SALT,maːsu,176
+Tarama,SALT,maːʃu,176
+Yonaguni,SALT,maʃi,176
+Aichi,RAIN (PRECIPITATION),ame,177
+Akita,RAIN (PRECIPITATION),ame,177
+Aomori,RAIN (PRECIPITATION),ame,177
+Chiba,RAIN (PRECIPITATION),ame,177
+Ehime,RAIN (PRECIPITATION),ame,177
+Fukui,RAIN (PRECIPITATION),ame,177
+Fukuoka,RAIN (PRECIPITATION),ame,177
+Fukushima,RAIN (PRECIPITATION),ame,177
+Gifu,RAIN (PRECIPITATION),ame,177
+Gunma,RAIN (PRECIPITATION),ame,177
+Hachijō,RAIN (PRECIPITATION),ame,177
+Hateruma,RAIN (PRECIPITATION),ami,177
+Hirara,RAIN (PRECIPITATION),ami,177
+Hiroshima,RAIN (PRECIPITATION),ame,177
+Hokkaidō,RAIN (PRECIPITATION),ame,177
+Hyōgo,RAIN (PRECIPITATION),ame,177
+Ibaraki,RAIN (PRECIPITATION),ame,177
+Ikema,RAIN (PRECIPITATION),ami,177
+Irafu,RAIN (PRECIPITATION),ami,177
+Ishigaki,RAIN (PRECIPITATION),aːmi,177
+Ishikawa,RAIN (PRECIPITATION),ame,177
+Iwate,RAIN (PRECIPITATION),ame,177
+Kagawa,RAIN (PRECIPITATION),ame,177
+Kagoshima,RAIN (PRECIPITATION),ame,177
+Kanagawa,RAIN (PRECIPITATION),ame,177
+Kumamoto,RAIN (PRECIPITATION),ame,177
+Kyōtō,RAIN (PRECIPITATION),ame,177
+Kōchi,RAIN (PRECIPITATION),ame,177
+Mie,RAIN (PRECIPITATION),ame,177
+Miyagi,RAIN (PRECIPITATION),ame,177
+Miyazaki,RAIN (PRECIPITATION),ame,177
+Nagano,RAIN (PRECIPITATION),ame,177
+Nagasaki,RAIN (PRECIPITATION),ame,177
+Nara,RAIN (PRECIPITATION),ame,177
+Naze,RAIN (PRECIPITATION),ʔamɨ,177
+Niigata,RAIN (PRECIPITATION),ame,177
+Okayama,RAIN (PRECIPITATION),ame,177
+Okinawa,RAIN (PRECIPITATION),ʔamiː,177
+Old_Japanese,RAIN (PRECIPITATION),amə,177
+Saga,RAIN (PRECIPITATION),ameame,177
+Saitama,RAIN (PRECIPITATION),ame,177
+Shiga,RAIN (PRECIPITATION),ame,177
+Shimane,RAIN (PRECIPITATION),ame,177
+Shizuoka,RAIN (PRECIPITATION),ame,177
+Taketomi,RAIN (PRECIPITATION),ami,177
+Tarama,RAIN (PRECIPITATION),ami,177
+Tochigi,RAIN (PRECIPITATION),ame,177
+Tokushima,RAIN (PRECIPITATION),ame,177
+Tottori,RAIN (PRECIPITATION),ame,177
+Toyama,RAIN (PRECIPITATION),ame,177
+Tōkyō,RAIN (PRECIPITATION),ame,177
+Wakayama,RAIN (PRECIPITATION),ame,177
+Yamagata,RAIN (PRECIPITATION),ame,177
+Yamaguchi,RAIN (PRECIPITATION),ame,177
+Yamanashi,RAIN (PRECIPITATION),ame,177
+Yonaguni,RAIN (PRECIPITATION),ami,177
+Ōita,RAIN (PRECIPITATION),ame,177
+Ōsaka,RAIN (PRECIPITATION),ame,177
+Aichi,SLEEP,nemuru,178
+Akita,SLEEP,neru,178
+Aomori,SLEEP,neru,178
+Chiba,SLEEP,neburu,178
+Ehime,SLEEP,neru,178
+Fukui,SLEEP,neburu,178
+Fukuoka,SLEEP,nemuru,178
+Fukushima,SLEEP,nemuru,178
+Gifu,SLEEP,nemuru,178
+Gunma,SLEEP,neburu,178
+Hachijō,SLEEP,nemuru,178
+Hirara,SLEEP,nivu̥,178
+Hiroshima,SLEEP,neburu,178
+Hokkaidō,SLEEP,nemuru,178
+Hyōgo,SLEEP,neru,178
+Ibaraki,SLEEP,neru,178
+Ikema,SLEEP,ɲuː,178
+Irafu,SLEEP,nivu̥,178
+Ishigaki,SLEEP,nibuɴ,178
+Ishikawa,SLEEP,neru,178
+Iwate,SLEEP,neru,178
+Kagawa,SLEEP,neru,178
+Kagoshima,SLEEP,nemuʔ,178
+Kanagawa,SLEEP,nemuru,178
+Kumamoto,SLEEP,neburu,178
+Kyōtō,SLEEP,neru,178
+Kōchi,SLEEP,nemuru,178
+Mie,SLEEP,neru,178
+Miyagi,SLEEP,nemuru,178
+Miyazaki,SLEEP,ɲemuru,178
+Nagano,SLEEP,neru,178
+Nagasaki,SLEEP,nemuʔ,178
+Nara,SLEEP,neru,178
+Naze,SLEEP,nɨburjuɴ,178
+Niigata,SLEEP,nemuru,178
+Okayama,SLEEP,neru,178
+Okinawa,SLEEP,niɴbuɴ,178
+Saitama,SLEEP,neburu,178
+Shiga,SLEEP,neru,178
+Shimane,SLEEP,neː,178
+Shizuoka,SLEEP,neburu,178
+Taketomi,SLEEP,nibuɴ,178
+Tarama,SLEEP,ninil,178
+Tochigi,SLEEP,nemuru,178
+Tokushima,SLEEP,nemuru,178
+Tottori,SLEEP,neru,178
+Toyama,SLEEP,neburu,178
+Tōkyō,SLEEP,nemuru,178
+Wakayama,SLEEP,neru,178
+Yamagata,SLEEP,neburu,178
+Yamaguchi,SLEEP,neru,178
+Yamanashi,SLEEP,nemuru,178
+Ōita,SLEEP,neru,178
+Ōsaka,SLEEP,neru,178
+Hateruma,SLEEP,nuʔβuɴ,179
+Old_Japanese,SLEEP,inu,179
+Saga,SLEEP,nuʔ,179
+Yonaguni,SLEEP,niɴduɴ,180
+Hateruma,THICK,aʦahaɴ,181
+Ishigaki,THICK,aʔʦaɴ,181
+Old_Japanese,THICK,atuʃi,181
+Yonaguni,THICK,aʦaɴ,181
+Aichi,WET,nureru,182
+Aomori,WET,nureru,182
+Chiba,WET,nureru,182
+Ehime,WET,nureru,182
+Fukui,WET,nureru,182
+Fukuoka,WET,nururu,182
+Fukushima,WET,nureru,182
+Gifu,WET,nureru,182
+Gunma,WET,nureru,182
+Hiroshima,WET,nureru,182
+Hokkaidō,WET,nureru,182
+Hyōgo,WET,nureru,182
+Ibaraki,WET,nureru,182
+Ishikawa,WET,nureru,182
+Iwate,WET,nureru,182
+Kagawa,WET,nureru,182
+Kagoshima,WET,nuruʔ,182
+Kanagawa,WET,nureru,182
+Kumamoto,WET,nururu,182
+Kyōtō,WET,nureru,182
+Kōchi,WET,nureru,182
+Mie,WET,nureru,182
+Miyagi,WET,nureru,182
+Miyazaki,WET,nururu,182
+Nagano,WET,noreru,182
+Nagasaki,WET,nuruʔ,182
+Nara,WET,nureru,182
+Naze,WET,nərjuɴ,182
+Okayama,WET,nureru,182
+Old_Japanese,WET,nuru,182
+Saga,WET,nuruʔ,182
+Saitama,WET,nureru,182
+Shiga,WET,nureru,182
+Shimane,WET,noreː,182
+Shizuoka,WET,nureru,182
+Tochigi,WET,nureru,182
+Tokushima,WET,nureru,182
+Tottori,WET,nureru,182
+Toyama,WET,nureru,182
+Tōkyō,WET,nureru,182
+Wakayama,WET,nureru,182
+Yamaguchi,WET,nureru,182
+Yamanashi,WET,nureru,182
+Ōita,WET,nururu,182
+Ōsaka,WET,nureru,182
+Akita,WET,joŋoreru,183
+Niigata,WET,joɡoreru,183
+Yamagata,WET,joŋoreru,183
+Hachijō,WET,peːru,184
+Hirara,WET,ɴmiɨ,184
+Ikema,WET,ɴmiː,184
+Irafu,WET,ɴmil,184
+Okinawa,WET,ɴriːɴ,184
+Tarama,WET,ɴmil,184
+Hateruma,WET,doʔfariruɴ,185
+Ishigaki,WET,ʣoʔβiɴ,186
+Taketomi,WET,ʣoʔβuɴ,186
+Yonaguni,WET,ɴɡaruɴ,187
+Aichi,LONG,naŋɛː,188
+Akita,LONG,naŋɛ,188
+Aomori,LONG,naŋɛ,188
+Chiba,LONG,naɡɛː,188
+Ehime,LONG,naɡai,188
+Fukui,LONG,naŋeː,188
+Fukuoka,LONG,naɴka,188
+Fukushima,LONG,naŋɛ,188
+Gifu,LONG,naŋɛː,188
+Gunma,LONG,naɡai,188
+Hachijō,LONG,naɴɡakja,188
+Hateruma,LONG,naːhaɴ,188
+Hirara,LONG,naɡakaɨ,188
+Hiroshima,LONG,naɡaː,188
+Hokkaidō,LONG,naŋai,188
+Hyōgo,LONG,naŋai,188
+Ibaraki,LONG,naŋae,188
+Ikema,LONG,naɡakai,188
+Irafu,LONG,naɡakal,188
+Ishigaki,LONG,naːsaːɴ,188
+Ishikawa,LONG,naŋai,188
+Iwate,LONG,naŋɛ,188
+Kagawa,LONG,naɡai,188
+Kagoshima,LONG,naɡe,188
+Kanagawa,LONG,naŋeː,188
+Kumamoto,LONG,naɴka,188
+Kyōtō,LONG,naŋai,188
+Kōchi,LONG,naɴɡai,188
+Mie,LONG,naɡai,188
+Miyagi,LONG,naŋɛː,188
+Miyazaki,LONG,naɡe,188
+Nagano,LONG,naŋeː,188
+Nagasaki,LONG,naɡaka,188
+Nara,LONG,naɴɡaː,188
+Naze,LONG,naɡasaɴ,188
+Niigata,LONG,naːɡɛː,188
+Okayama,LONG,naŋɛː,188
+Okinawa,LONG,naɡaʃeɴ,188
+Old_Japanese,LONG,naɡaʃi,188
+Saga,LONG,naɴka,188
+Saitama,LONG,naɡeː,188
+Shiga,LONG,naŋai,188
+Shimane,LONG,naɡae,188
+Shizuoka,LONG,naŋeː,188
+Taketomi,LONG,naːɴ,188
+Tarama,LONG,naɡaʃaːl,188
+Tochigi,LONG,naŋai,188
+Tokushima,LONG,naɡai,188
+Tottori,LONG,naɡai,188
+Toyama,LONG,naŋai,188
+Tōkyō,LONG,naŋai,188
+Wakayama,LONG,naɴɡai,188
+Yamagata,LONG,naɴŋɛ,188
+Yamaguchi,LONG,naŋɛː,188
+Yamanashi,LONG,naŋai,188
+Yonaguni,LONG,nasaɴ,188
+Ōita,LONG,naɡeː,188
+Ōsaka,LONG,naŋai,188
+Aichi,WALK,aruku,189
+Akita,WALK,ariɡu,189
+Aomori,WALK,ariɡu,189
+Chiba,WALK,aruɡu,189
+Ehime,WALK,aruku,189
+Fukui,WALK,aruku,189
+Fukushima,WALK,aruku,189
+Gifu,WALK,aruku,189
+Gunma,WALK,aruɡu,189
+Hateruma,WALK,aruɡuɴ,189
+Hirara,WALK,aɨksɨ,189
+Hiroshima,WALK,aruku,189
+Hokkaidō,WALK,aruku,189
+Hyōgo,WALK,aruku,189
+Ibaraki,WALK,aruku,189
+Ikema,WALK,aiʦɨ,189
+Irafu,WALK,aruβu,189
+Ishigaki,WALK,araɡuɴ,189
+Ishikawa,WALK,aruku,189
+Iwate,WALK,aruɡu,189
+Kagawa,WALK,aruku,189
+Kanagawa,WALK,aruku,189
+Kyōtō,WALK,aruku,189
+Kōchi,WALK,aruku,189
+Mie,WALK,aruku,189
+Miyagi,WALK,aruɡu,189
+Nagasaki,WALK,aruku,189
+Nara,WALK,aruku,189
+Naze,WALK,ʔaʔkjuɴ,189
+Okayama,WALK,aruku,189
+Okinawa,WALK,ʔaʔkuɴ,189
+Saitama,WALK,aruku,189
+Shiga,WALK,aruku,189
+Shimane,WALK,ariku,189
+Taketomi,WALK,arakuɴ,189
+Tarama,WALK,alksɨ,189
+Tochigi,WALK,aruku,189
+Tokushima,WALK,aruku,189
+Tottori,WALK,aruku,189
+Toyama,WALK,araku,189
+Tōkyō,WALK,aruɡu,189
+Wakayama,WALK,aruku,189
+Yamagata,WALK,ariɡu,189
+Yamaguchi,WALK,aruku,189
+Yamanashi,WALK,aruku,189
+Yonaguni,WALK,aiɡuɴ,189
+Ōsaka,WALK,aruku,189
+Fukuoka,WALK,ajumu,190
+Kagoshima,WALK,ajuɴ,190
+Kumamoto,WALK,ajubu,190
+Miyazaki,WALK,ajumu,190
+Old_Japanese,WALK,ajume,190
+Saga,WALK,ajubu,190
+Ōita,WALK,ajumu,190
+Hachijō,WALK,eːmu,191
+Nagano,WALK,eːbu,191
+Niigata,WALK,aebu,191
+Shizuoka,WALK,eːku,191
+Aichi,DRY,kawaku,192
+Akita,DRY,kawaɡu,192
+Aomori,DRY,kawaɡu,192
+Chiba,DRY,kaːku,192
+Ehime,DRY,kawaku,192
+Fukui,DRY,kawaku,192
+Fukuoka,DRY,çiaɡaru,192
+Fukushima,DRY,kʷaɡu,192
+Gifu,DRY,kawaku,192
+Gunma,DRY,kawaku,192
+Hachijō,DRY,kawaku,192
+Hateruma,DRY,karuɡuɴ,192
+Hirara,DRY,kaːksɨ,192
+Hokkaidō,DRY,kawaku,192
+Hyōgo,DRY,kawaku,192
+Ishikawa,DRY,kawaku,192
+Iwate,DRY,kawaɡu,192
+Kagawa,DRY,kawaku,192
+Kanagawa,DRY,kawaku,192
+Kyōtō,DRY,kawaku,192
+Kōchi,DRY,kaːku,192
+Mie,DRY,kawaku,192
+Miyagi,DRY,kawaɡu,192
+Nagasaki,DRY,kawaku,192
+Nara,DRY,kawaku,192
+Niigata,DRY,kawaku,192
+Okayama,DRY,kawaku,192
+Old_Japanese,DRY,kawaku,192
+Saga,DRY,kawaku,192
+Saitama,DRY,kawaku,192
+Shiga,DRY,kawaku,192
+Shimane,DRY,kawaku,192
+Tochigi,DRY,kawaɡu,192
+Tokushima,DRY,kawaku,192
+Tottori,DRY,kawaku,192
+Tōkyō,DRY,kawaku,192
+Wakayama,DRY,kawaku,192
+Yamaguchi,DRY,kawaku,192
+Yamanashi,DRY,kawaku,192
+Ōita,DRY,kawaku,192
+Ōsaka,DRY,kawaku,192
+Hiroshima,DRY,çiru,193
+Ibaraki,DRY,çiru,193
+Nagano,DRY,ʃiru,193
+Shizuoka,DRY,çiru,193
+Yamagata,DRY,βiru,193
+Ikema,DRY,sari,194
+Irafu,DRY,kaːraʦɨ,195
+Ishigaki,DRY,kaːraɡuɴ,195
+Kagoshima,DRY,çiaɡaʔ,195
+Kumamoto,DRY,çiaɡaru,195
+Miyazaki,DRY,çiaɡaru,195
+Taketomi,DRY,kaːrakuɴ,195
+Tarama,DRY,kaːrakɨ,195
+Yonaguni,DRY,karaɡuɴ,195
+Naze,DRY,korakjuɴ,196
+Okinawa,DRY,haːrakuɴ,197
+Toyama,DRY,hoseru,198
+Aichi,THIS,køːʦu,199
+Gifu,THIS,køːʦu,199
+Akita,THIS,kore,200
+Aomori,THIS,koe,200
+Chiba,THIS,kore,200
+Ehime,THIS,kore,200
+Fukui,THIS,kore,200
+Fukuoka,THIS,kore,200
+Fukushima,THIS,kore,200
+Gunma,THIS,kore,200
+Hachijō,THIS,koi,200
+Hirara,THIS,kui,200
+Hiroshima,THIS,kore,200
+Hokkaidō,THIS,kore,200
+Hyōgo,THIS,koe,200
+Ibaraki,THIS,kore,200
+Ikema,THIS,kui,200
+Irafu,THIS,kuri,200
+Ishikawa,THIS,kore,200
+Iwate,THIS,kore,200
+Kagawa,THIS,kore,200
+Kagoshima,THIS,koi,200
+Kanagawa,THIS,kore,200
+Kumamoto,THIS,koru,200
+Kyōtō,THIS,kore,200
+Kōchi,THIS,kore,200
+Mie,THIS,kore,200
+Miyagi,THIS,koeʣu,200
+Miyazaki,THIS,kore,200
+Nagano,THIS,kore,200
+Nagasaki,THIS,koi,200
+Nara,THIS,kore,200
+Naze,THIS,kurɨ,200
+Niigata,THIS,kore,200
+Okayama,THIS,kore,200
+Okinawa,THIS,βuri,200
+Old_Japanese,THIS,køre,200
+Saga,THIS,koi,200
+Saitama,THIS,kore,200
+Shiga,THIS,kore,200
+Shimane,THIS,keː,200
+Shizuoka,THIS,kore,200
+Taketomi,THIS,kuri,200
+Tarama,THIS,kul,200
+Tochigi,THIS,kore,200
+Tokushima,THIS,kore,200
+Tottori,THIS,kore,200
+Toyama,THIS,koru,200
+Tōkyō,THIS,kore,200
+Wakayama,THIS,kore,200
+Yamagata,THIS,kore,200
+Yamaguchi,THIS,kore,200
+Yamanashi,THIS,kore,200
+Ōita,THIS,koitu,200
+Ōsaka,THIS,kore,200
+Aichi,COME,kuru,201
+Akita,COME,kuru,201
+Aomori,COME,kuru,201
+Chiba,COME,kuru,201
+Ehime,COME,kuru,201
+Fukui,COME,kuru,201
+Fukuoka,COME,kuru,201
+Fukushima,COME,kuru,201
+Gifu,COME,kuru,201
+Gunma,COME,kuru,201
+Hachijō,COME,kuru,201
+Hateruma,COME,kuɴ,201
+Hirara,COME,ksɨsɨ,201
+Hiroshima,COME,kuru,201
+Hokkaidō,COME,kuru,201
+Hyōgo,COME,kuru,201
+Ibaraki,COME,kuru,201
+Ikema,COME,βuː,201
+Irafu,COME,βuː,201
+Ishigaki,COME,ksɨːɴ,201
+Ishikawa,COME,kuru,201
+Iwate,COME,kuru,201
+Kagawa,COME,kuru,201
+Kagoshima,COME,kuʔ,201
+Kumamoto,COME,kuru,201
+Kyōtō,COME,kuru,201
+Kōchi,COME,kuru,201
+Mie,COME,kuru,201
+Miyazaki,COME,kuru,201
+Nagano,COME,kuru,201
+Nagasaki,COME,kuru,201
+Nara,COME,kuru,201
+Naze,COME,kjuɴ,201
+Niigata,COME,kuru,201
+Okayama,COME,kuru,201
+Old_Japanese,COME,ku,201
+Saga,COME,kuː,201
+Saitama,COME,kuru,201
+Shiga,COME,kuru,201
+Shimane,COME,kuː,201
+Shizuoka,COME,kuru,201
+Taketomi,COME,kuːɴ,201
+Tarama,COME,ksɨː,201
+Tochigi,COME,kuru,201
+Tokushima,COME,kuru,201
+Tottori,COME,kuru,201
+Toyama,COME,kuru,201
+Tōkyō,COME,kuru,201
+Wakayama,COME,kuru,201
+Yamagata,COME,kuru,201
+Yamanashi,COME,kuru,201
+Yonaguni,COME,kuɴ,201
+Ōita,COME,kuru,201
+Ōsaka,COME,kuru,201
+Kanagawa,COME,iku,202
+Aichi,NOSE,hana,203
+Akita,NOSE,hana,203
+Aomori,NOSE,hana,203
+Chiba,NOSE,hana,203
+Ehime,NOSE,hana,203
+Fukui,NOSE,hana,203
+Fukuoka,NOSE,hana,203
+Fukushima,NOSE,hana,203
+Gifu,NOSE,hana,203
+Gunma,NOSE,hana,203
+Hachijō,NOSE,hana,203
+Hateruma,NOSE,pana,203
+Hirara,NOSE,pana,203
+Hiroshima,NOSE,hana,203
+Hokkaidō,NOSE,hana,203
+Hyōgo,NOSE,hana,203
+Ibaraki,NOSE,hana,203
+Ikema,NOSE,hana,203
+Irafu,NOSE,pana,203
+Ishigaki,NOSE,pana,203
+Ishikawa,NOSE,hana,203
+Iwate,NOSE,hana,203
+Kagawa,NOSE,hana,203
+Kagoshima,NOSE,hana,203
+Kanagawa,NOSE,hana,203
+Kumamoto,NOSE,hana,203
+Kyōtō,NOSE,hana,203
+Kōchi,NOSE,hana,203
+Mie,NOSE,hana,203
+Miyagi,NOSE,hana,203
+Miyazaki,NOSE,hana,203
+Nagano,NOSE,hana,203
+Nagasaki,NOSE,hana,203
+Nara,NOSE,hana,203
+Naze,NOSE,hana,203
+Niigata,NOSE,hana,203
+Okayama,NOSE,hana,203
+Okinawa,NOSE,βana,203
+Old_Japanese,NOSE,hana,203
+Saga,NOSE,hana,203
+Saitama,NOSE,hana,203
+Shiga,NOSE,hana,203
+Shimane,NOSE,hana,203
+Shizuoka,NOSE,hana,203
+Taketomi,NOSE,pana,203
+Tarama,NOSE,pana,203
+Tochigi,NOSE,hana,203
+Tokushima,NOSE,hana,203
+Tottori,NOSE,hana,203
+Toyama,NOSE,hana,203
+Tōkyō,NOSE,hana,203
+Wakayama,NOSE,hana,203
+Yamagata,NOSE,hana,203
+Yamaguchi,NOSE,hana,203
+Yamanashi,NOSE,hana,203
+Yonaguni,NOSE,hanaburu,203
+Ōita,NOSE,hana,203
+Ōsaka,NOSE,hana,203
+Aichi,DIRTY,kitanɛː,204
+Akita,DIRTY,kitanɛ,204
+Aomori,DIRTY,kitanɛ,204
+Chiba,DIRTY,kitanɛː,204
+Ehime,DIRTY,kitanai,204
+Fukui,DIRTY,kitanai,204
+Fukushima,DIRTY,kiʔtanɛ,204
+Gifu,DIRTY,kitanɛː,204
+Gunma,DIRTY,kitaneː,204
+Hachijō,DIRTY,kitanakja,204
+Hiroshima,DIRTY,kitanaː,204
+Hokkaidō,DIRTY,kitanai,204
+Hyōgo,DIRTY,ʧanai,204
+Ibaraki,DIRTY,kitane,204
+Ishikawa,DIRTY,kitanai,204
+Iwate,DIRTY,kiʔtanɛ,204
+Kagawa,DIRTY,kitanai,204
+Kagoshima,DIRTY,kiʔsanaka,204
+Kanagawa,DIRTY,kitaneː,204
+Kumamoto,DIRTY,kitanaka,204
+Kyōtō,DIRTY,kitanai,204
+Mie,DIRTY,kitanai,204
+Miyagi,DIRTY,kidanɛ,204
+Miyazaki,DIRTY,kisane,204
+Nagano,DIRTY,kiʔtaneː,204
+Nara,DIRTY,kitanaː,204
+Niigata,DIRTY,kiʔtanɛ,204
+Okayama,DIRTY,kitaneː,204
+Old_Japanese,DIRTY,kitanaʃi,204
+Saitama,DIRTY,kitaneː,204
+Shiga,DIRTY,kitanae,204
+Shimane,DIRTY,kitaneː,204
+Shizuoka,DIRTY,kiʔtanɛː,204
+Tochigi,DIRTY,kitanai,204
+Tokushima,DIRTY,kitanai,204
+Tottori,DIRTY,kitanai,204
+Tōkyō,DIRTY,kitanai,204
+Wakayama,DIRTY,kitanai,204
+Yamaguchi,DIRTY,kitanɛː,204
+Yamanashi,DIRTY,kitanai,204
+Ōita,DIRTY,kisaneː,204
+Ōsaka,DIRTY,kitanai,204
+Fukuoka,DIRTY,urameʃika,205
+Nagasaki,DIRTY,joʔsowaʃika,205
+Saga,DIRTY,josowaʃika,205
+Hateruma,DIRTY,jaɴʃihaɴ,206
+Ishigaki,DIRTY,janiʔʃaːɴ,206
+Taketomi,DIRTY,janijaɴ,206
+Hirara,DIRTY,sɨkata,207
+Ikema,DIRTY,ʔʃana,208
+Irafu,DIRTY,ʔʃanaɡi,208
+Kōchi,DIRTY,ɴdakiʤa,209
+Naze,DIRTY,janaksɨʃaɴ,210
+Okinawa,DIRTY,hoɡoʃeɴ,211
+Tarama,DIRTY,sɨputalmunu,212
+Toyama,DIRTY,uʣakuraʃiː,213
+Yamagata,DIRTY,biʃo,214
+Yonaguni,DIRTY,dinaɴ,215
+Aichi,NIGHT,joru,216
+Akita,NIGHT,joma,216
+Chiba,NIGHT,joru,216
+Ehime,NIGHT,joru,216
+Fukui,NIGHT,joːsa,216
+Fukuoka,NIGHT,josari,216
+Fukushima,NIGHT,joru,216
+Gifu,NIGHT,josari,216
+Hachijō,NIGHT,baɴ,216
+Hateruma,NIGHT,juru,216
+Hirara,NIGHT,juɨ,216
+Hiroshima,NIGHT,joru,216
+Hokkaidō,NIGHT,joru,216
+Ibaraki,NIGHT,joru,216
+Ikema,NIGHT,jui,216
+Irafu,NIGHT,junai,216
+Ishigaki,NIGHT,juːrɨ,216
+Ishikawa,NIGHT,joru,216
+Kagawa,NIGHT,joru,216
+Kagoshima,NIGHT,joi,216
+Kanagawa,NIGHT,joru,216
+Kumamoto,NIGHT,josari,216
+Kōchi,NIGHT,joru,216
+Mie,NIGHT,joru,216
+Miyagi,NIGHT,joma,216
+Miyazaki,NIGHT,joru,216
+Nagasaki,NIGHT,joru,216
+Nara,NIGHT,joru,216
+Naze,NIGHT,juru,216
+Okinawa,NIGHT,juruː,216
+Old_Japanese,NIGHT,jo,216
+Saga,NIGHT,joru,216
+Shimane,NIGHT,joː,216
+Shizuoka,NIGHT,josari,216
+Taketomi,NIGHT,juːru,216
+Tarama,NIGHT,junaɡatu,216
+Tochigi,NIGHT,joru,216
+Tottori,NIGHT,joːsari,216
+Tōkyō,NIGHT,joru,216
+Yamagata,NIGHT,joɴma,216
+Yamanashi,NIGHT,joːsare,216
+Yonaguni,NIGHT,duru,216
+Ōita,NIGHT,joru,216
+Aomori,NIGHT,baɴŋe,217
+Gunma,NIGHT,joru,217
+Hyōgo,NIGHT,baɴ,217
+Iwate,NIGHT,joma,217
+Kyōtō,NIGHT,joru,217
+Nagano,NIGHT,baɴ,217
+Niigata,NIGHT,joru,217
+Okayama,NIGHT,baɴ,217
+Saitama,NIGHT,baɴɡe,217
+Shiga,NIGHT,baɴ,217
+Tokushima,NIGHT,baɴ,217
+Toyama,NIGHT,juːsa,217
+Wakayama,NIGHT,baɴ,217
+Yamaguchi,NIGHT,baɴ,217
+Ōsaka,NIGHT,baɴ,217
+Aichi,KILL,korosu,218
+Akita,KILL,koroʃi,218
+Aomori,KILL,korosu,218
+Chiba,KILL,korosu,218
+Ehime,KILL,korosu,218
+Fukui,KILL,korosu,218
+Fukuoka,KILL,korosu,218
+Fukushima,KILL,korosu,218
+Gifu,KILL,korosu,218
+Gunma,KILL,korosu,218
+Hachijō,KILL,korosu,218
+Hateruma,KILL,kurasuɴ,218
+Hirara,KILL,kurusɨ,218
+Hiroshima,KILL,konosu,218
+Hokkaidō,KILL,korosu,218
+Hyōgo,KILL,korosu,218
+Ibaraki,KILL,korosu,218
+Ikema,KILL,kurasɨ,218
+Irafu,KILL,kurusɨ,218
+Ishigaki,KILL,kurasuɴ,218
+Ishikawa,KILL,korosu,218
+Iwate,KILL,korosu,218
+Kagawa,KILL,korosu,218
+Kagoshima,KILL,korosu̥,218
+Kanagawa,KILL,korosu,218
+Kumamoto,KILL,korosu,218
+Kyōtō,KILL,korosu,218
+Kōchi,KILL,korosu,218
+Mie,KILL,korosu,218
+Miyagi,KILL,korosu,218
+Miyazaki,KILL,korosu,218
+Nagano,KILL,korosu,218
+Nagasaki,KILL,korosu,218
+Nara,KILL,korosu,218
+Naze,KILL,kuʔʧuɴ,218
+Niigata,KILL,korosu,218
+Okayama,KILL,korosu,218
+Okinawa,KILL,kurusuɴ,218
+Old_Japanese,KILL,kørøsu,218
+Saga,KILL,korosu,218
+Saitama,KILL,korosu,218
+Shiga,KILL,korosu,218
+Shimane,KILL,koroʃi,218
+Shizuoka,KILL,korosu,218
+Taketomi,KILL,kurasuɴ,218
+Tarama,KILL,kurusɨ,218
+Tochigi,KILL,korosu,218
+Tokushima,KILL,korosu,218
+Tottori,KILL,korosu,218
+Toyama,KILL,korosu,218
+Tōkyō,KILL,korosu,218
+Wakayama,KILL,korosu,218
+Yamagata,KILL,koroʃi,218
+Yamaguchi,KILL,korosu,218
+Yamanashi,KILL,korosu,218
+Yonaguni,KILL,kuruɴ,218
+Ōita,KILL,korosu,218
+Ōsaka,KILL,korosu,218
+Aichi,THROW,naɡeru,219
+Akita,THROW,naŋeru,219
+Aomori,THROW,naŋeru,219
+Chiba,THROW,naɡeru,219
+Ehime,THROW,naɡeru,219
+Fukuoka,THROW,naɡuru,219
+Fukushima,THROW,naŋeru,219
+Gifu,THROW,naŋeru,219
+Gunma,THROW,naɡeru,219
+Hachijō,THROW,naŋeru,219
+Hateruma,THROW,naɴɡiruɴ,219
+Hokkaidō,THROW,naŋeru,219
+Ibaraki,THROW,buɴnaŋeru,219
+Ishigaki,THROW,naɴɡiruɴ,219
+Ishikawa,THROW,naŋeru,219
+Iwate,THROW,naŋeru,219
+Kagoshima,THROW,naɡuʔ,219
+Kumamoto,THROW,naɡuru,219
+Miyagi,THROW,naŋeru,219
+Miyazaki,THROW,naɡuru,219
+Nagano,THROW,naŋeru,219
+Nagasaki,THROW,naɡuru,219
+Naze,THROW,naɡjuɴ,219
+Okinawa,THROW,naɡiːɴ,219
+Old_Japanese,THROW,naɡu,219
+Saga,THROW,naɡuʔ,219
+Saitama,THROW,naɡeru,219
+Shimane,THROW,naɡeː,219
+Shizuoka,THROW,naŋeru,219
+Taketomi,THROW,naɴɡuɴ,219
+Tochigi,THROW,naŋeru,219
+Tottori,THROW,naɡeru,219
+Toyama,THROW,naŋeru,219
+Tōkyō,THROW,naŋeru,219
+Yamagata,THROW,naŋeru,219
+Yamaguchi,THROW,naɡeru,219
+Yamanashi,THROW,naŋeru,219
+Yonaguni,THROW,naŋi,219
+Ōita,THROW,naɡuru,219
+Fukui,THROW,hoːru,220
+Hiroshima,THROW,hoːru,220
+Hyōgo,THROW,horu,220
+Kagawa,THROW,hoːru,220
+Kanagawa,THROW,hoʔpoːru,220
+Kyōtō,THROW,horu,220
+Kōchi,THROW,hoːru,220
+Mie,THROW,horu,220
+Nara,THROW,hoːru,220
+Niigata,THROW,hoɴnaɡeru,220
+Okayama,THROW,hoːru,220
+Shiga,THROW,hokoru,220
+Tokushima,THROW,hoːru,220
+Wakayama,THROW,horu,220
+Ōsaka,THROW,horu,220
+Hirara,THROW,tɨ,221
+Irafu,THROW,teivu̥,221
+Ikema,THROW,jai,222
+Tarama,THROW,jal,222
+Aichi,RED,akɛː,223
+Akita,RED,aɡɛ,223
+Aomori,RED,aɡɛ,223
+Chiba,RED,akɛː,223
+Ehime,RED,akai,223
+Fukui,RED,akeː,223
+Fukuoka,RED,akaka,223
+Fukushima,RED,aɡɛ,223
+Gifu,RED,akɛː,223
+Gunma,RED,akai,223
+Hachijō,RED,akakja,223
+Hateruma,RED,aɡahaɴ,223
+Hirara,RED,akakaɨ,223
+Hiroshima,RED,akaː,223
+Hokkaidō,RED,akai,223
+Hyōgo,RED,akai,223
+Ibaraki,RED,akae,223
+Ikema,RED,akakai,223
+Irafu,RED,akakam,223
+Ishigaki,RED,akasaːɴ,223
+Ishikawa,RED,akai,223
+Iwate,RED,aɡɛ,223
+Kagawa,RED,akai,223
+Kagoshima,RED,ake,223
+Kanagawa,RED,akɛ,223
+Kumamoto,RED,aʔka,223
+Kyōtō,RED,akai,223
+Kōchi,RED,akai,223
+Mie,RED,akai,223
+Miyagi,RED,aɡɛː,223
+Miyazaki,RED,ake,223
+Nagano,RED,akeː,223
+Nagasaki,RED,akaka,223
+Nara,RED,akaː,223
+Niigata,RED,akɛː,223
+Okayama,RED,akɛː,223
+Okinawa,RED,akaʃeɴ,223
+Old_Japanese,RED,akaʃi,223
+Saga,RED,aʔka,223
+Saitama,RED,akeː,223
+Shiga,RED,akai,223
+Shimane,RED,akae,223
+Shizuoka,RED,akai,223
+Taketomi,RED,aɡaːɴ,223
+Tarama,RED,akaʃaːl,223
+Tochigi,RED,aɡai,223
+Tokushima,RED,akai,223
+Tottori,RED,akai,223
+Toyama,RED,akai,223
+Tōkyō,RED,akai,223
+Wakayama,RED,akai,223
+Yamagata,RED,aɡɛ,223
+Yamaguchi,RED,akɛː,223
+Yamanashi,RED,akai,223
+Yonaguni,RED,aɡaɴtai,223
+Ōita,RED,akeː,223
+Ōsaka,RED,akai,223
+Naze,RED,haːʃaɴ,224
+Aichi,SWIM,abiru,225
+Fukushima,SWIM,miʣuabiʃiru,225
+Gifu,SWIM,abiru,225
+Ibaraki,SWIM,miʣuabisuru,225
+Ishikawa,SWIM,aberu,225
+Nagano,SWIM,miʣoabiru,225
+Niigata,SWIM,abiru,225
+Shizuoka,SWIM,miʣuabe,225
+Tochigi,SWIM,miʣuabisuru,225
+Toyama,SWIM,abiru,225
+Yamagata,SWIM,miʤiaburu,225
+Akita,SWIM,ojoŋu,226
+Aomori,SWIM,ojoɡu,226
+Chiba,SWIM,ojuɡu,226
+Ehime,SWIM,ojoɡu,226
+Fukui,SWIM,ojoŋu,226
+Fukuoka,SWIM,ojoɡu,226
+Gunma,SWIM,ojoɡu,226
+Hachijō,SWIM,ojoɡu,226
+Hateruma,SWIM,ʔuɴ,226
+Hirara,SWIM,ujuɡzɨ,226
+Hiroshima,SWIM,ojoɡu,226
+Hokkaidō,SWIM,ojoɡu,226
+Hyōgo,SWIM,ojoŋu,226
+Ikema,SWIM,uːʣɨ,226
+Irafu,SWIM,uːʣɨ,226
+Ishigaki,SWIM,ʔumuɴ,226
+Iwate,SWIM,ojoɡu,226
+Kagawa,SWIM,ojoɡu,226
+Kagoshima,SWIM,ojoʔ,226
+Kanagawa,SWIM,ojoɡu,226
+Kumamoto,SWIM,ojeɡu,226
+Kyōtō,SWIM,ojoŋu,226
+Kōchi,SWIM,ojoɴɡu,226
+Mie,SWIM,ojoɡu,226
+Miyagi,SWIM,ojoɡu,226
+Miyazaki,SWIM,oeɡu,226
+Nagasaki,SWIM,ojoɡu,226
+Nara,SWIM,ojoɴɡu,226
+Naze,SWIM,ʔuɡjuɴ,226
+Okayama,SWIM,ojoɡu,226
+Okinawa,SWIM,ʔuiɡuɴ,226
+Old_Japanese,SWIM,øjøɡu,226
+Saga,SWIM,ojoɡu,226
+Saitama,SWIM,ojoɡu,226
+Shiga,SWIM,ojoŋu,226
+Shimane,SWIM,ojoɡu,226
+Taketomi,SWIM,uːɴ,226
+Tarama,SWIM,uiɡzɨ,226
+Tokushima,SWIM,ojoɡu,226
+Tottori,SWIM,ojoɡu,226
+Tōkyō,SWIM,ojoɡu,226
+Wakayama,SWIM,ojoɴɡu,226
+Yamaguchi,SWIM,ojoɡu,226
+Yamanashi,SWIM,ojoŋu,226
+Yonaguni,SWIM,ʔuɡuɴ,226
+Ōita,SWIM,ojoɡu,226
+Ōsaka,SWIM,ojoŋu,226
+Aichi,ROPE,nawa,227
+Akita,ROPE,nawa,227
+Chiba,ROPE,nawa,227
+Ehime,ROPE,ʦuna,227
+Fukui,ROPE,nawa,227
+Fukuoka,ROPE,nawa,227
+Fukushima,ROPE,nawa,227
+Gifu,ROPE,nawa,227
+Gunma,ROPE,nawa,227
+Hachijō,ROPE,noː,227
+Hateruma,ROPE,sɨnaː,227
+Hirara,ROPE,na,227
+Hiroshima,ROPE,nawa,227
+Hokkaidō,ROPE,nawa,227
+Hyōgo,ROPE,nawa,227
+Ibaraki,ROPE,nawa,227
+Ikema,ROPE,ɴna,227
+Irafu,ROPE,ʦɨna,227
+Ishigaki,ROPE,ʦɨna,227
+Ishikawa,ROPE,nawa,227
+Iwate,ROPE,nawa,227
+Kagawa,ROPE,nawa,227
+Kagoshima,ROPE,nawa,227
+Kanagawa,ROPE,nawa,227
+Kumamoto,ROPE,nawa,227
+Kyōtō,ROPE,nawa,227
+Kōchi,ROPE,naː,227
+Mie,ROPE,nawa,227
+Miyagi,ROPE,nawa,227
+Miyazaki,ROPE,nawa,227
+Nagano,ROPE,nawa,227
+Nagasaki,ROPE,nawa,227
+Nara,ROPE,nawa,227
+Naze,ROPE,naː,227
+Niigata,ROPE,nawa,227
+Okayama,ROPE,nawa,227
+Okinawa,ROPE,naː,227
+Old_Japanese,ROPE,tuna,227
+Saga,ROPE,nawa,227
+Saitama,ROPE,nawa,227
+Shiga,ROPE,nawa,227
+Shimane,ROPE,nawa,227
+Shizuoka,ROPE,nawa,227
+Taketomi,ROPE,na,227
+Tarama,ROPE,ɴna,227
+Tochigi,ROPE,nawa,227
+Tokushima,ROPE,nawa,227
+Tottori,ROPE,nawa,227
+Toyama,ROPE,nawa,227
+Tōkyō,ROPE,nawa,227
+Wakayama,ROPE,nawa,227
+Yamagata,ROPE,nawa,227
+Yamaguchi,ROPE,nawa,227
+Yamanashi,ROPE,nawa,227
+Yonaguni,ROPE,ɴna,227
+Ōita,ROPE,noː,227
+Ōsaka,ROPE,nawa,227
+Aomori,ROPE,ɡoɴnoba,228
+Aichi,FEMALE PERSON,onaɡo,229
+Akita,FEMALE PERSON,onaŋo,229
+Aomori,FEMALE PERSON,onaŋo,229
+Chiba,FEMALE PERSON,oɴna,229
+Ehime,FEMALE PERSON,oɴna,229
+Fukuoka,FEMALE PERSON,onaɡo,229
+Fukushima,FEMALE PERSON,oɴna,229
+Gifu,FEMALE PERSON,onaŋo,229
+Gunma,FEMALE PERSON,oɴna,229
+Hachijō,FEMALE PERSON,oɴnaɡo,229
+Hiroshima,FEMALE PERSON,onaɡo,229
+Hokkaidō,FEMALE PERSON,oɴna,229
+Hyōgo,FEMALE PERSON,onaŋo,229
+Ibaraki,FEMALE PERSON,oɴna,229
+Iwate,FEMALE PERSON,onaŋo,229
+Kagawa,FEMALE PERSON,onaɡo,229
+Kagoshima,FEMALE PERSON,onaɡo,229
+Kanagawa,FEMALE PERSON,oɴna,229
+Kumamoto,FEMALE PERSON,onaɡo,229
+Kyōtō,FEMALE PERSON,oɴna,229
+Kōchi,FEMALE PERSON,oɴna,229
+Mie,FEMALE PERSON,oɴna,229
+Miyagi,FEMALE PERSON,onaŋo,229
+Miyazaki,FEMALE PERSON,onaɡo,229
+Nagano,FEMALE PERSON,oɴna,229
+Nagasaki,FEMALE PERSON,oɴna,229
+Nara,FEMALE PERSON,oɴna,229
+Naze,FEMALE PERSON,unaɡu,229
+Niigata,FEMALE PERSON,onaɡo,229
+Okayama,FEMALE PERSON,onaɡo,229
+Okinawa,FEMALE PERSON,inaːɡu,229
+Saga,FEMALE PERSON,onaɡo,229
+Saitama,FEMALE PERSON,oɴna,229
+Shiga,FEMALE PERSON,oɴna,229
+Shimane,FEMALE PERSON,onaɡo,229
+Shizuoka,FEMALE PERSON,oɴna,229
+Tochigi,FEMALE PERSON,oɴna,229
+Tokushima,FEMALE PERSON,onaɡo,229
+Tottori,FEMALE PERSON,onaɡo,229
+Toyama,FEMALE PERSON,oɴna,229
+Tōkyō,FEMALE PERSON,oɴna,229
+Wakayama,FEMALE PERSON,oɴna,229
+Yamagata,FEMALE PERSON,onaŋo,229
+Yamaguchi,FEMALE PERSON,oɴna,229
+Yamanashi,FEMALE PERSON,oɴna,229
+Ōita,FEMALE PERSON,onaɡo,229
+Ōsaka,FEMALE PERSON,oɴna,229
+Fukui,FEMALE PERSON,mero,230
+Hateruma,FEMALE PERSON,midumu,230
+Hirara,FEMALE PERSON,midum,230
+Ikema,FEMALE PERSON,midu̥ɴ,230
+Irafu,FEMALE PERSON,midum,230
+Ishigaki,FEMALE PERSON,miduɴ,230
+Ishikawa,FEMALE PERSON,mero,230
+Old_Japanese,FEMALE PERSON,me,230
+Taketomi,FEMALE PERSON,midumu,230
+Tarama,FEMALE PERSON,midum,230
+Yonaguni,FEMALE PERSON,minuŋa,230
+Aichi,LIE DOWN,neru,231
+Akita,LIE DOWN,neru,231
+Aomori,LIE DOWN,neru,231
+Chiba,LIE DOWN,neru,231
+Ehime,LIE DOWN,neru,231
+Fukui,LIE DOWN,neru,231
+Fukuoka,LIE DOWN,neru,231
+Fukushima,LIE DOWN,neru,231
+Gifu,LIE DOWN,neru,231
+Gunma,LIE DOWN,neru,231
+Hachijō,LIE DOWN,neru,231
+Hirara,LIE DOWN,nivu̥,231
+Hiroshima,LIE DOWN,neru,231
+Hokkaidō,LIE DOWN,neru,231
+Hyōgo,LIE DOWN,neru,231
+Ibaraki,LIE DOWN,nemuru,231
+Ikema,LIE DOWN,ɲuː,231
+Irafu,LIE DOWN,nivu̥,231
+Ishigaki,LIE DOWN,nibuɴ,231
+Ishikawa,LIE DOWN,neru,231
+Iwate,LIE DOWN,neru,231
+Kagawa,LIE DOWN,neru,231
+Kagoshima,LIE DOWN,neʔ,231
+Kanagawa,LIE DOWN,neru,231
+Kyōtō,LIE DOWN,neru,231
+Kōchi,LIE DOWN,neru,231
+Mie,LIE DOWN,neru,231
+Miyagi,LIE DOWN,neru,231
+Miyazaki,LIE DOWN,ɲeru,231
+Nagano,LIE DOWN,neru,231
+Nara,LIE DOWN,neru,231
+Naze,LIE DOWN,nɨburjuɴ,231
+Niigata,LIE DOWN,neru,231
+Okayama,LIE DOWN,neru,231
+Okinawa,LIE DOWN,niɴbuɴ,231
+Saitama,LIE DOWN,neru,231
+Shiga,LIE DOWN,neru,231
+Shimane,LIE DOWN,neː,231
+Shizuoka,LIE DOWN,neru,231
+Taketomi,LIE DOWN,nibuɴ,231
+Tarama,LIE DOWN,ninil,231
+Tochigi,LIE DOWN,neru,231
+Tokushima,LIE DOWN,neru,231
+Tottori,LIE DOWN,neru,231
+Toyama,LIE DOWN,neru,231
+Tōkyō,LIE DOWN,neru,231
+Wakayama,LIE DOWN,neru,231
+Yamaguchi,LIE DOWN,neru,231
+Yamanashi,LIE DOWN,neru,231
+Yonaguni,LIE DOWN,niɴduɴ,231
+Ōita,LIE DOWN,neru,231
+Ōsaka,LIE DOWN,neru,231
+Hateruma,LIE DOWN,nuʔβuɴ,232
+Kumamoto,LIE DOWN,nuru,232
+Nagasaki,LIE DOWN,nuru,232
+Saga,LIE DOWN,nuʔ,232
+Old_Japanese,LIE DOWN,køjaru,233
+Yamagata,LIE DOWN,joɡorobu,234
+Aichi,TWO,βutaʦu,235
+Akita,TWO,βutaʔʧi,235
+Aomori,TWO,βutaʔʦu,235
+Chiba,TWO,βutaʔʦu,235
+Ehime,TWO,βutaːʦu,235
+Fukui,TWO,βutaʦu,235
+Fukuoka,TWO,βutaʦu,235
+Fukushima,TWO,βutaʦu,235
+Gifu,TWO,βutaʦu,235
+Gunma,TWO,βutaʔʦu,235
+Hachijō,TWO,βutaʦu,235
+Hateruma,TWO,βutaːʦɨ,235
+Hirara,TWO,βutaːʦɨ,235
+Hiroshima,TWO,βutaʦu,235
+Hokkaidō,TWO,βutaʦu,235
+Hyōgo,TWO,βutaʦu,235
+Ibaraki,TWO,βutaʦu,235
+Ikema,TWO,βutaːʦɨ,235
+Irafu,TWO,βutaːʦɨ,235
+Ishigaki,TWO,βutaːʣɨ,235
+Ishikawa,TWO,βutaʦu,235
+Iwate,TWO,βutaʔʦu,235
+Kagawa,TWO,βutaʦu,235
+Kagoshima,TWO,βutaʔ,235
+Kanagawa,TWO,βutaːʦu,235
+Kumamoto,TWO,βutaʦu,235
+Kyōtō,TWO,βutaʦu,235
+Kōchi,TWO,βutaːtu,235
+Mie,TWO,βutaʦu,235
+Miyagi,TWO,βutaʦu,235
+Miyazaki,TWO,βutaʦu,235
+Nagano,TWO,βutaʦu,235
+Nagasaki,TWO,βutaʦu,235
+Nara,TWO,βutaʦu,235
+Naze,TWO,tʔaːʦɨ,235
+Niigata,TWO,βutaʔʦu,235
+Okayama,TWO,βutaʦu,235
+Okinawa,TWO,taːʧi,235
+Old_Japanese,TWO,βuta,235
+Saga,TWO,βutaʦu,235
+Saitama,TWO,βutaʦu,235
+Shiga,TWO,βutaʦu,235
+Shimane,TWO,βutaʧi,235
+Shizuoka,TWO,βutaʦu,235
+Taketomi,TWO,βutaːʧi,235
+Tarama,TWO,βutaːʦɨ,235
+Tochigi,TWO,βutaʔʦu,235
+Tokushima,TWO,βutaːʦu,235
+Tottori,TWO,βutaʦu,235
+Toyama,TWO,βutaʦu,235
+Tōkyō,TWO,βutaʦu,235
+Wakayama,TWO,βutaʦu,235
+Yamagata,TWO,βutaʔʧi,235
+Yamaguchi,TWO,βutaːʦu,235
+Yamanashi,TWO,βutaʔʦu,235
+Yonaguni,TWO,taʧi,235
+Ōita,TWO,βutaʦu,235
+Ōsaka,TWO,βutaʦuː,235
+Aichi,SUCK,suː,236
+Akita,SUCK,ʃi,236
+Aomori,SUCK,suru,236
+Chiba,SUCK,suː,236
+Ehime,SUCK,suː,236
+Fukui,SUCK,suː,236
+Fukuoka,SUCK,suː,236
+Fukushima,SUCK,suː,236
+Gifu,SUCK,suː,236
+Gunma,SUCK,suː,236
+Hachijō,SUCK,suː,236
+Hateruma,SUCK,ʔsuɴ,236
+Hiroshima,SUCK,suː,236
+Hokkaidō,SUCK,suː,236
+Hyōgo,SUCK,suː,236
+Ibaraki,SUCK,suː,236
+Ishigaki,SUCK,suːɴ,236
+Ishikawa,SUCK,suː,236
+Iwate,SUCK,suː,236
+Kagawa,SUCK,suː,236
+Kagoshima,SUCK,suː,236
+Kanagawa,SUCK,suː,236
+Kumamoto,SUCK,suː,236
+Kyōtō,SUCK,suː,236
+Kōchi,SUCK,suː,236
+Mie,SUCK,suː,236
+Miyagi,SUCK,suː,236
+Miyazaki,SUCK,suː,236
+Nagano,SUCK,suː,236
+Nagasaki,SUCK,suː,236
+Nara,SUCK,suː,236
+Naze,SUCK,sɨːjuɴ,236
+Niigata,SUCK,suː,236
+Okayama,SUCK,suː,236
+Old_Japanese,SUCK,suhu,236
+Saga,SUCK,suː,236
+Saitama,SUCK,suː,236
+Shiga,SUCK,suː,236
+Shimane,SUCK,ʃiː,236
+Shizuoka,SUCK,suː,236
+Taketomi,SUCK,suːɴ,236
+Tochigi,SUCK,suː,236
+Tokushima,SUCK,suː,236
+Tottori,SUCK,suː,236
+Toyama,SUCK,suː,236
+Tōkyō,SUCK,suː,236
+Wakayama,SUCK,suː,236
+Yamagata,SUCK,su,236
+Yamaguchi,SUCK,suː,236
+Yamanashi,SUCK,suː,236
+Ōita,SUCK,suː,236
+Ōsaka,SUCK,suː,236
+Hirara,SUCK,jubzɨ,237
+Ikema,SUCK,juvu̥,237
+Irafu,SUCK,juvu̥,237
+Tarama,SUCK,jubzɨ,237
+Okinawa,SUCK,supujuɴ,238
+Aichi,THIN,uʃuː,239
+Akita,THIN,uʃie,239
+Aomori,THIN,usue,239
+Chiba,THIN,usuː,239
+Ehime,THIN,usui,239
+Fukui,THIN,usui,239
+Fukuoka,THIN,usuka,239
+Fukushima,THIN,usui,239
+Gifu,THIN,uʃuː,239
+Gunma,THIN,usui,239
+Hachijō,THIN,usukja,239
+Hirara,THIN,usɨkaɨ,239
+Hiroshima,THIN,usui,239
+Hokkaidō,THIN,usui,239
+Hyōgo,THIN,usui,239
+Ibaraki,THIN,usue,239
+Ikema,THIN,ʔsukai,239
+Ishikawa,THIN,usui,239
+Iwate,THIN,usu,239
+Kagawa,THIN,usui,239
+Kagoshima,THIN,uʃi,239
+Kanagawa,THIN,uʃiː,239
+Kumamoto,THIN,usuka,239
+Kyōtō,THIN,usui,239
+Kōchi,THIN,usui,239
+Mie,THIN,usui,239
+Miyagi,THIN,usue,239
+Miyazaki,THIN,usi,239
+Nagano,THIN,usue,239
+Nagasaki,THIN,usuka,239
+Nara,THIN,usui,239
+Niigata,THIN,uːse,239
+Okayama,THIN,uʃiː,239
+Okinawa,THIN,ʔusuʃeɴ,239
+Old_Japanese,THIN,usuʃi,239
+Saga,THIN,usuka,239
+Saitama,THIN,usue,239
+Shiga,THIN,usui,239
+Shimane,THIN,oʃiː,239
+Shizuoka,THIN,usui,239
+Tochigi,THIN,usui,239
+Tokushima,THIN,usui,239
+Tottori,THIN,usui,239
+Toyama,THIN,uʔsui,239
+Tōkyō,THIN,usui,239
+Wakayama,THIN,usui,239
+Yamagata,THIN,uʔʃi,239
+Yamaguchi,THIN,uʃiː,239
+Yamanashi,THIN,usui,239
+Yonaguni,THIN,çiʦaɴ,239
+Ōita,THIN,usiː,239
+Ōsaka,THIN,usui,239
+Hateruma,THIN,psɨʃahaɴ,240
+Irafu,THIN,psɨsɨkal,240
+Ishigaki,THIN,psɨʃi̥saːɴ,240
+Naze,THIN,çiʃiːʃaɴ,240
+Taketomi,THIN,pisaɴ,240
+Tarama,THIN,piʔsaːl,240
+Aichi,WHAT,dono,241
+Akita,WHAT,dono,241
+Aomori,WHAT,dono,241
+Chiba,WHAT,dono,241
+Ehime,WHAT,dono,241
+Fukui,WHAT,dono,241
+Fukuoka,WHAT,dono,241
+Fukushima,WHAT,dono,241
+Gifu,WHAT,dono,241
+Gunma,WHAT,dono,241
+Hachijō,WHAT,dono,241
+Hiroshima,WHAT,dono,241
+Hokkaidō,WHAT,dono,241
+Hyōgo,WHAT,dono,241
+Ibaraki,WHAT,dono,241
+Ishikawa,WHAT,dono,241
+Iwate,WHAT,dono,241
+Kagawa,WHAT,dono,241
+Kagoshima,WHAT,doɴ,241
+Kanagawa,WHAT,dono,241
+Kumamoto,WHAT,doɴ,241
+Kyōtō,WHAT,dono,241
+Kōchi,WHAT,ɴdono,241
+Mie,WHAT,dono,241
+Miyagi,WHAT,dono,241
+Miyazaki,WHAT,doɴ,241
+Nagano,WHAT,dono,241
+Nagasaki,WHAT,doɴ,241
+Nara,WHAT,dono,241
+Niigata,WHAT,dono,241
+Okayama,WHAT,deːno,241
+Saga,WHAT,dono,241
+Saitama,WHAT,dono,241
+Shiga,WHAT,dono,241
+Shimane,WHAT,dono,241
+Shizuoka,WHAT,dono,241
+Tochigi,WHAT,dono,241
+Tokushima,WHAT,dono,241
+Tottori,WHAT,dono,241
+Toyama,WHAT,doɴ,241
+Tōkyō,WHAT,dono,241
+Wakayama,WHAT,dono,241
+Yamagata,WHAT,dono,241
+Yamaguchi,WHAT,dono,241
+Yamanashi,WHAT,dono,241
+Ōita,WHAT,doɴ,241
+Ōsaka,WHAT,dono,241
+Hateruma,WHAT,nuːjabaɴ,242
+Ishigaki,WHAT,noː,242
+Okinawa,WHAT,nuːnu,242
+Old_Japanese,WHAT,nani,242
+Taketomi,WHAT,nuːnu,242
+Yonaguni,WHAT,nuɴ,242
+Hirara,WHAT,ɴʤi,243
+Ikema,WHAT,inu,243
+Irafu,WHAT,iʤinu,243
+Tarama,WHAT,ɴdənu,243
+Naze,WHAT,dɨɴ,244
+Aichi,STAR,hoʃi,245
+Akita,STAR,hoʃi,245
+Aomori,STAR,hosu,245
+Chiba,STAR,hoʃi,245
+Ehime,STAR,hoʃi,245
+Fukui,STAR,ohoʃisaɴ,245
+Fukuoka,STAR,hoʃi,245
+Fukushima,STAR,hoʃi,245
+Gifu,STAR,ohoʔsama,245
+Gunma,STAR,hoʃi,245
+Hachijō,STAR,hoʃi,245
+Hateruma,STAR,puʦɨ,245
+Hirara,STAR,pusɨ,245
+Hiroshima,STAR,hoʃi,245
+Hokkaidō,STAR,hoʃi,245
+Hyōgo,STAR,hoʔsaɴ,245
+Ibaraki,STAR,ohoʔsama,245
+Ikema,STAR,βusɨ,245
+Irafu,STAR,pusɨ,245
+Ishigaki,STAR,pusɨ,245
+Ishikawa,STAR,hoʃi,245
+Iwate,STAR,ohosusama,245
+Kagawa,STAR,ohoʔsaɴ,245
+Kagoshima,STAR,hoʃi̥,245
+Kanagawa,STAR,hoːʃisaɴ,245
+Kumamoto,STAR,hoʃi,245
+Kyōtō,STAR,hoʃi,245
+Kōchi,STAR,hoʃi,245
+Mie,STAR,hoʃi,245
+Miyagi,STAR,ohosusama,245
+Miyazaki,STAR,hoʔsama,245
+Nagano,STAR,ohoʃisaɴ,245
+Nagasaki,STAR,hoʃi,245
+Nara,STAR,hoʃi,245
+Naze,STAR,βusɨ,245
+Niigata,STAR,hoʃi,245
+Okayama,STAR,hoʃi,245
+Okinawa,STAR,βuʃiː,245
+Old_Japanese,STAR,høʃi,245
+Saga,STAR,hoʃi,245
+Saitama,STAR,hoʃi,245
+Shiga,STAR,hoʔsaɴ,245
+Shimane,STAR,hoʃi,245
+Shizuoka,STAR,hoʃi,245
+Taketomi,STAR,puʃi,245
+Tarama,STAR,pusɨ,245
+Tochigi,STAR,hoʃi,245
+Tokushima,STAR,hoʃi,245
+Tottori,STAR,hoʃi,245
+Toyama,STAR,hoʔsaɴ,245
+Tōkyō,STAR,hoʃi,245
+Wakayama,STAR,hoʔsaɴ,245
+Yamagata,STAR,hoʃi,245
+Yamaguchi,STAR,hoʃi,245
+Yamanashi,STAR,hoʃi,245
+Yonaguni,STAR,βuʧi,245
+Ōita,STAR,hoʃi,245
+Ōsaka,STAR,hoʔsaɴ,245
+Aichi,BLOOD,ʧi,246
+Akita,BLOOD,ʧi,246
+Aomori,BLOOD,ʧi,246
+Chiba,BLOOD,ʧi,246
+Ehime,BLOOD,ʧi,246
+Fukui,BLOOD,ʧiː,246
+Fukuoka,BLOOD,ʧi,246
+Fukushima,BLOOD,ʧi,246
+Gifu,BLOOD,ʧi,246
+Gunma,BLOOD,ʧi,246
+Hachijō,BLOOD,ʧi,246
+Hateruma,BLOOD,ʣɨː,246
+Hirara,BLOOD,akaʦɨ,246
+Hiroshima,BLOOD,ʧi,246
+Hokkaidō,BLOOD,ʧi,246
+Hyōgo,BLOOD,ʧiː,246
+Ibaraki,BLOOD,ʧi,246
+Ikema,BLOOD,akaʦɨ,246
+Irafu,BLOOD,akaʦɨ,246
+Ishigaki,BLOOD,ʦɨː,246
+Ishikawa,BLOOD,ʧiː,246
+Iwate,BLOOD,ʦu,246
+Kagawa,BLOOD,ʧiː,246
+Kagoshima,BLOOD,ʧiː,246
+Kanagawa,BLOOD,ʧi,246
+Kumamoto,BLOOD,ʧiː,246
+Kyōtō,BLOOD,ʧiː,246
+Kōchi,BLOOD,ʧi,246
+Mie,BLOOD,ʧiː,246
+Miyagi,BLOOD,ʦuː,246
+Miyazaki,BLOOD,ʧi,246
+Nagano,BLOOD,ʧi,246
+Nagasaki,BLOOD,ʧi,246
+Nara,BLOOD,ʧi,246
+Naze,BLOOD,ʦɨ,246
+Niigata,BLOOD,ʧi,246
+Okayama,BLOOD,ʧi,246
+Okinawa,BLOOD,ʧiː,246
+Old_Japanese,BLOOD,ti,246
+Saga,BLOOD,ʧi,246
+Saitama,BLOOD,ʧi,246
+Shiga,BLOOD,ʧiː,246
+Shimane,BLOOD,ʧi,246
+Shizuoka,BLOOD,ʧi,246
+Taketomi,BLOOD,ʃiː,246
+Tarama,BLOOD,akaʦɨ,246
+Tochigi,BLOOD,ʧiː,246
+Tokushima,BLOOD,ʧiː,246
+Tottori,BLOOD,ʧi,246
+Toyama,BLOOD,ʧiː,246
+Tōkyō,BLOOD,ʧi,246
+Wakayama,BLOOD,ʧiː,246
+Yamagata,BLOOD,ʧiː,246
+Yamaguchi,BLOOD,ʧi,246
+Yamanashi,BLOOD,ʧi,246
+Yonaguni,BLOOD,ʧi,246
+Ōita,BLOOD,ʧi,246
+Ōsaka,BLOOD,ʧiː,246
+Aichi,SAY,juː,247
+Akita,SAY,ju,247
+Chiba,SAY,juː,247
+Ehime,SAY,juː,247
+Fukui,SAY,juː,247
+Fukuoka,SAY,juː,247
+Fukushima,SAY,ju,247
+Gifu,SAY,juː,247
+Gunma,SAY,ɲuː,247
+Hachijō,SAY,juː,247
+Hirara,SAY,aɨ,247
+Hiroshima,SAY,juː,247
+Hokkaidō,SAY,juː,247
+Hyōgo,SAY,juː,247
+Ibaraki,SAY,juː,247
+Ikema,SAY,ai,247
+Irafu,SAY,aɨ,247
+Ishikawa,SAY,juː,247
+Iwate,SAY,juː,247
+Kagawa,SAY,juː,247
+Kagoshima,SAY,ju,247
+Kanagawa,SAY,juː,247
+Kumamoto,SAY,juː,247
+Kyōtō,SAY,juː,247
+Kōchi,SAY,juː,247
+Mie,SAY,juː,247
+Miyazaki,SAY,juː,247
+Nagasaki,SAY,juː,247
+Nara,SAY,juː,247
+Naze,SAY,ʔjuɴ,247
+Niigata,SAY,juː,247
+Okayama,SAY,juː,247
+Okinawa,SAY,ʔjuɴ,247
+Old_Japanese,SAY,iβu,247
+Saga,SAY,juː,247
+Saitama,SAY,juː,247
+Shiga,SAY,juː,247
+Shimane,SAY,iː,247
+Shizuoka,SAY,juː,247
+Tarama,SAY,ɨː,247
+Tochigi,SAY,ɲuː,247
+Tokushima,SAY,juː,247
+Tottori,SAY,juː,247
+Toyama,SAY,juː,247
+Tōkyō,SAY,juː,247
+Wakayama,SAY,juː,247
+Yamaguchi,SAY,juː,247
+Yamanashi,SAY,juː,247
+Ōita,SAY,juː,247
+Ōsaka,SAY,juː,247
+Aomori,SAY,heru,248
+Miyagi,SAY,ʃaɴberu,248
+Yamagata,SAY,ʃaberu,248
+Hateruma,SAY,enuɴ,249
+Ishigaki,SAY,aɴkuɴ,250
+Nagano,SAY,seu,251
+Taketomi,SAY,aʣuɴ,252
+Yonaguni,SAY,ɴduɴ,253
+Aichi,BLACK,kurøː,254
+Akita,BLACK,kure,254
+Aomori,BLACK,kure,254
+Chiba,BLACK,kureː,254
+Ehime,BLACK,kuroi,254
+Fukui,BLACK,kuroi,254
+Fukuoka,BLACK,kuroka,254
+Fukushima,BLACK,maʔkureː,254
+Gifu,BLACK,kurøː,254
+Gunma,BLACK,kuroi,254
+Hachijō,BLACK,kurokja,254
+Hiroshima,BLACK,kuroi,254
+Hokkaidō,BLACK,kuroi,254
+Hyōgo,BLACK,kuroi,254
+Ibaraki,BLACK,kuroe,254
+Ishikawa,BLACK,kuroi,254
+Iwate,BLACK,kure,254
+Kagawa,BLACK,kuroi,254
+Kagoshima,BLACK,kure,254
+Kanagawa,BLACK,kureː,254
+Kumamoto,BLACK,kuroka,254
+Kyōtō,BLACK,kuroi,254
+Kōchi,BLACK,kuroi,254
+Mie,BLACK,kuroi,254
+Miyagi,BLACK,kuroe,254
+Miyazaki,BLACK,maʔkuri,254
+Nagano,BLACK,kureː,254
+Nagasaki,BLACK,kuroka,254
+Nara,BLACK,kuroi,254
+Naze,BLACK,kʔuruʃaɴ,254
+Niigata,BLACK,kuːre,254
+Okayama,BLACK,kureː,254
+Okinawa,BLACK,kuruʃeɴ,254
+Old_Japanese,BLACK,kuroʃi,254
+Saga,BLACK,kuroka,254
+Saitama,BLACK,kuroi,254
+Shiga,BLACK,kurøe,254
+Shimane,BLACK,kuroe,254
+Shizuoka,BLACK,kuroi,254
+Tochigi,BLACK,kuroi,254
+Tokushima,BLACK,kuroi,254
+Tottori,BLACK,kuroi,254
+Toyama,BLACK,kuroi,254
+Tōkyō,BLACK,kuroi,254
+Wakayama,BLACK,kuroi,254
+Yamagata,BLACK,kuroe,254
+Yamaguchi,BLACK,kurøː,254
+Yamanashi,BLACK,kuroi,254
+Ōita,BLACK,kureː,254
+Ōsaka,BLACK,kuroi,254
+Hateruma,BLACK,βuːhahaɴ,255
+Hirara,BLACK,ʔfukaɨ,255
+Ikema,BLACK,ʔfukai,255
+Irafu,BLACK,ʔfukam,255
+Ishigaki,BLACK,βuβuːsaɴ,255
+Taketomi,BLACK,ʔfoːɴ,255
+Tarama,BLACK,ʔβuʃaːru,255
+Yonaguni,BLACK,βuru,255
+Aichi,YELLOW,kiː,256
+Akita,YELLOW,kiːro,256
+Aomori,YELLOW,kiːro,256
+Chiba,YELLOW,kiːro,256
+Ehime,YELLOW,kiːro,256
+Fukui,YELLOW,ukoɴ,256
+Fukuoka,YELLOW,kina,256
+Fukushima,YELLOW,kjuːro,256
+Gifu,YELLOW,kiːro,256
+Gunma,YELLOW,kiːro,256
+Hachijō,YELLOW,kiːro,256
+Hateruma,YELLOW,ksɨɴksɨʃahaɴ,256
+Hirara,YELLOW,ksɨːru,256
+Hiroshima,YELLOW,kiː,256
+Hokkaidō,YELLOW,kiːro,256
+Hyōgo,YELLOW,kiː,256
+Ibaraki,YELLOW,kiːro,256
+Ikema,YELLOW,ʦɨːru,256
+Irafu,YELLOW,kiːru,256
+Ishigaki,YELLOW,ksɨɴksɨɴ,256
+Ishikawa,YELLOW,kiːro,256
+Kagawa,YELLOW,kiː,256
+Kagoshima,YELLOW,kinairo,256
+Kanagawa,YELLOW,kiːro,256
+Kumamoto,YELLOW,kina,256
+Kyōtō,YELLOW,kiːro,256
+Kōchi,YELLOW,kiː,256
+Mie,YELLOW,kiːro,256
+Miyagi,YELLOW,kiːro,256
+Miyazaki,YELLOW,kiːro,256
+Nagano,YELLOW,kiːro,256
+Nagasaki,YELLOW,kiːro,256
+Nara,YELLOW,kiːro,256
+Naze,YELLOW,kʔiʔiro,256
+Niigata,YELLOW,kiero,256
+Okayama,YELLOW,kiːro,256
+Okinawa,YELLOW,kiːru,256
+Old_Japanese,YELLOW,ki,256
+Saga,YELLOW,kiɴnaka,256
+Saitama,YELLOW,kiːro,256
+Shiga,YELLOW,kiːro,256
+Shimane,YELLOW,kiːro,256
+Shizuoka,YELLOW,kiːro,256
+Taketomi,YELLOW,kiːru,256
+Tarama,YELLOW,kiːru,256
+Tochigi,YELLOW,kiːro,256
+Tokushima,YELLOW,kiːro,256
+Tottori,YELLOW,kiːro,256
+Tōkyō,YELLOW,kiːro,256
+Wakayama,YELLOW,kiːro,256
+Yamaguchi,YELLOW,kiː,256
+Yamanashi,YELLOW,kiːro,256
+Yonaguni,YELLOW,kirui,256
+Ōita,YELLOW,kina,256
+Ōsaka,YELLOW,kiː,256
+Iwate,YELLOW,ukoɴero,257
+Toyama,YELLOW,okoɴiro,257
+Yamagata,YELLOW,ukoɴ,257
+Aichi,WARM,nukuʧeː,258
+Akita,WARM,nuɡue,258
+Ehime,WARM,nukui,258
+Fukui,WARM,ɲikutɛ,258
+Fukuoka,WARM,nuʔka,258
+Gifu,WARM,nukutø,258
+Hachijō,WARM,nukuokja,258
+Hirara,WARM,nufukaɨ,258
+Hiroshima,WARM,nukui,258
+Hyōgo,WARM,nukui,258
+Ishigaki,WARM,nuβusaɴ,258
+Ishikawa,WARM,nukui,258
+Kagawa,WARM,nukui,258
+Kagoshima,WARM,nuki,258
+Kumamoto,WARM,nuʔka,258
+Kōchi,WARM,nukui,258
+Mie,WARM,nukutai,258
+Miyazaki,WARM,nukuiː,258
+Nagano,WARM,aʔtakeː,258
+Nara,WARM,nukui,258
+Naze,WARM,nukuʃaɴ,258
+Okayama,WARM,nukiː,258
+Okinawa,WARM,nukuʃeɴ,258
+Saga,WARM,nuʔka,258
+Shiga,WARM,nukui,258
+Shimane,WARM,nokui,258
+Shizuoka,WARM,aʔtakɛː,258
+Taketomi,WARM,nuʔsaɴ,258
+Tarama,WARM,nufuʃaːl,258
+Tokushima,WARM,nukui,258
+Tottori,WARM,nukui,258
+Toyama,WARM,nukui,258
+Wakayama,WARM,nukui,258
+Yamaguchi,WARM,nukui,258
+Yonaguni,WARM,nukusaɴ,258
+Ōita,WARM,nukui,258
+Ōsaka,WARM,nukui,258
+Aomori,WARM,aʔtaɡɛ,259
+Chiba,WARM,aʔʦuː,259
+Fukushima,WARM,aʔtaɡe,259
+Gunma,WARM,aʔtakeː,259
+Hokkaidō,WARM,aʔtakai,259
+Ibaraki,WARM,aʔtaɡɛː,259
+Iwate,WARM,aʔtaɡɛ,259
+Kanagawa,WARM,aʔtakeː,259
+Kyōtō,WARM,aʔtakai,259
+Miyagi,WARM,aʔtaɡɛː,259
+Nagasaki,WARM,atataka,259
+Niigata,WARM,aʔtakɛ,259
+Old_Japanese,WARM,atatakeʃi,259
+Saitama,WARM,aʔtakeː,259
+Tochigi,WARM,aʔtaɡai,259
+Tōkyō,WARM,atatakai,259
+Yamagata,WARM,aʔtako,259
+Yamanashi,WARM,aʔtakai,259
+Hateruma,WARM,noːsahaɴ,260
+Ikema,WARM,nufukai,261
+Irafu,WARM,nufukam,261
+Aichi,SAND,suna,262
+Akita,SAND,ʃina,262
+Aomori,SAND,suna,262
+Chiba,SAND,suna,262
+Ehime,SAND,suna,262
+Fukui,SAND,suna,262
+Fukuoka,SAND,suna,262
+Fukushima,SAND,suna,262
+Gifu,SAND,suna,262
+Gunma,SAND,suna,262
+Hachijō,SAND,suna,262
+Hiroshima,SAND,suna,262
+Hokkaidō,SAND,suna,262
+Hyōgo,SAND,suna,262
+Ibaraki,SAND,suna,262
+Ishikawa,SAND,suna,262
+Iwate,SAND,suna,262
+Kagawa,SAND,suna,262
+Kagoshima,SAND,ʣuna,262
+Kanagawa,SAND,suna,262
+Kumamoto,SAND,suna,262
+Kyōtō,SAND,suna,262
+Kōchi,SAND,suna,262
+Mie,SAND,suna,262
+Miyagi,SAND,suna,262
+Nagano,SAND,suna,262
+Nagasaki,SAND,suna,262
+Nara,SAND,suna,262
+Naze,SAND,sɨna,262
+Niigata,SAND,suna,262
+Okayama,SAND,suna,262
+Okinawa,SAND,ʃina,262
+Saga,SAND,ʣuna,262
+Saitama,SAND,suna,262
+Shiga,SAND,suna,262
+Shimane,SAND,ʃina,262
+Shizuoka,SAND,suna,262
+Tochigi,SAND,suna,262
+Tokushima,SAND,suna,262
+Tottori,SAND,suna,262
+Toyama,SAND,suna,262
+Tōkyō,SAND,suna,262
+Wakayama,SAND,suna,262
+Yamagata,SAND,ʃina,262
+Yamaguchi,SAND,suna,262
+Yamanashi,SAND,suna,262
+Ōita,SAND,suna,262
+Ōsaka,SAND,suna,262
+Hateruma,SAND,iʃoɴ,263
+Ishigaki,SAND,inoː,263
+Taketomi,SAND,inoɴ,263
+Hirara,SAND,mnaɡu,264
+Ikema,SAND,mnaɡu,264
+Irafu,SAND,mnaɡu,264
+Tarama,SAND,mnaɡu,264
+Miyazaki,SAND,masaɡo,265
+Old_Japanese,SAND,isaɡo,265
+Yonaguni,SAND,ʧinaɴ,266
+Aichi,TONGUE,ʃita,267
+Akita,TONGUE,ʃita,267
+Aomori,TONGUE,suta,267
+Chiba,TONGUE,ʃita,267
+Ehime,TONGUE,bero,267
+Fukui,TONGUE,heta,267
+Fukuoka,TONGUE,ʃita,267
+Hachijō,TONGUE,ʃita,267
+Hateruma,TONGUE,sɨta,267
+Hirara,TONGUE,sɨda,267
+Hyōgo,TONGUE,ʃita,267
+Ikema,TONGUE,tʔa,267
+Irafu,TONGUE,sɨta,267
+Ishigaki,TONGUE,sɨta,267
+Ishikawa,TONGUE,heta,267
+Iwate,TONGUE,suda,267
+Kagawa,TONGUE,ʃita,267
+Kagoshima,TONGUE,ʃita,267
+Kanagawa,TONGUE,ʃita,267
+Kumamoto,TONGUE,ʃita,267
+Kyōtō,TONGUE,ʃita,267
+Kōchi,TONGUE,ʃita,267
+Mie,TONGUE,ʃita,267
+Nara,TONGUE,ʃitabero,267
+Naze,TONGUE,sɨba,267
+Niigata,TONGUE,ʃiʔta,267
+Okinawa,TONGUE,ʃiʧaː,267
+Old_Japanese,TONGUE,ʃita,267
+Saga,TONGUE,ʃita,267
+Shiga,TONGUE,ʃita,267
+Shimane,TONGUE,ʃita,267
+Taketomi,TONGUE,ʃita,267
+Tarama,TONGUE,sɨta,267
+Tottori,TONGUE,ʃita,267
+Tōkyō,TONGUE,ʃita,267
+Wakayama,TONGUE,çita,267
+Yamagata,TONGUE,ʃita,267
+Yamaguchi,TONGUE,ʃita,267
+Yamanashi,TONGUE,ʃita,267
+Yonaguni,TONGUE,tʔa,267
+Ōita,TONGUE,ʃita,267
+Ōsaka,TONGUE,ʃita,267
+Fukushima,TONGUE,bero,268
+Gifu,TONGUE,bero,268
+Gunma,TONGUE,bero,268
+Hiroshima,TONGUE,bero,268
+Hokkaidō,TONGUE,bero,268
+Ibaraki,TONGUE,bero,268
+Miyagi,TONGUE,bero,268
+Miyazaki,TONGUE,bero,268
+Nagano,TONGUE,hera,268
+Nagasaki,TONGUE,bero,268
+Okayama,TONGUE,bero,268
+Saitama,TONGUE,bero,268
+Shizuoka,TONGUE,bero,268
+Tochigi,TONGUE,bero,268
+Tokushima,TONGUE,bero,268
+Toyama,TONGUE,bero,268
+Aichi,NEAR,ʧikɛː,269
+Akita,NEAR,ʧikɛ,269
+Aomori,NEAR,ʦukɛ,269
+Chiba,NEAR,ʧikɛː,269
+Ehime,NEAR,ʧikai,269
+Fukui,NEAR,ʧikeː,269
+Fukuoka,NEAR,ʧikaka,269
+Fukushima,NEAR,ʧikɛ,269
+Gifu,NEAR,ʧikɛː,269
+Gunma,NEAR,ʧikai,269
+Hachijō,NEAR,ʧikakja,269
+Hateruma,NEAR,sɨkahaɴ,269
+Hirara,NEAR,ʦɨkakaiɨ,269
+Hiroshima,NEAR,ʧikaː,269
+Hokkaidō,NEAR,ʧikai,269
+Hyōgo,NEAR,ʧikai,269
+Ibaraki,NEAR,ʧikae,269
+Irafu,NEAR,ʦɨkakaru,269
+Ishigaki,NEAR,ʦɨkasaːɴ,269
+Ishikawa,NEAR,ʧikai,269
+Iwate,NEAR,ʦukɛ,269
+Kagawa,NEAR,ʧikai,269
+Kagoshima,NEAR,ʧike,269
+Kanagawa,NEAR,ʧikɛː,269
+Kumamoto,NEAR,ʧikaka,269
+Kyōtō,NEAR,ʧikai,269
+Kōchi,NEAR,ʧikai,269
+Mie,NEAR,ʧikai,269
+Miyagi,NEAR,ʦukae,269
+Miyazaki,NEAR,ʧike,269
+Nagano,NEAR,ʧikeː,269
+Nagasaki,NEAR,ʧikaka,269
+Nara,NEAR,ʧikaː,269
+Naze,NEAR,ʦɨkjaʃaɴ,269
+Niigata,NEAR,ʧike,269
+Okayama,NEAR,ʧikɛː,269
+Okinawa,NEAR,ʃikjaʃeɴ,269
+Old_Japanese,NEAR,tikaʃi,269
+Saga,NEAR,ʧikaka,269
+Saitama,NEAR,ʧikeː,269
+Shiga,NEAR,ʧikai,269
+Shimane,NEAR,ʧikae,269
+Shizuoka,NEAR,ʧikeː,269
+Taketomi,NEAR,ʃikaːɴ,269
+Tochigi,NEAR,ʧikai,269
+Tokushima,NEAR,ʧikai,269
+Tottori,NEAR,ʧikai,269
+Toyama,NEAR,ʧikai,269
+Tōkyō,NEAR,ʧikai,269
+Wakayama,NEAR,ʧikai,269
+Yamagata,NEAR,ʧiʔkɛː,269
+Yamaguchi,NEAR,ʧikɛː,269
+Yamanashi,NEAR,ʧikai,269
+Ōita,NEAR,ʧikeː,269
+Ōsaka,NEAR,ʧikai,269
+Ikema,NEAR,maikai,270
+Tarama,NEAR,umaɡama,270
+Yonaguni,NEAR,tʔaɴ,271
+Aichi,FOUR,joʔʦu,272
+Akita,FOUR,joʔʧi,272
+Aomori,FOUR,joʔʦu,272
+Chiba,FOUR,joːʦu,272
+Ehime,FOUR,joʔʦu,272
+Fukui,FOUR,joʔʦu,272
+Fukuoka,FOUR,joʔʦu,272
+Fukushima,FOUR,joʔʦu,272
+Gifu,FOUR,joʔʦu,272
+Gunma,FOUR,joʔʦu,272
+Hachijō,FOUR,joʔʦu,272
+Hateruma,FOUR,juːʦɨ,272
+Hirara,FOUR,juːʦɨ,272
+Hiroshima,FOUR,joʔʦu,272
+Hokkaidō,FOUR,joʔʦu,272
+Hyōgo,FOUR,joʔʦu,272
+Ibaraki,FOUR,joʔʦu,272
+Ikema,FOUR,juːʦɨ,272
+Irafu,FOUR,juːʦɨ,272
+Ishigaki,FOUR,juːʦɨ,272
+Ishikawa,FOUR,joʔʦu,272
+Iwate,FOUR,joʔʦu,272
+Kagawa,FOUR,joʔʦu,272
+Kagoshima,FOUR,joʔʦu,272
+Kanagawa,FOUR,joʔʦu,272
+Kumamoto,FOUR,joʔʦu,272
+Kyōtō,FOUR,joʔʦu,272
+Kōchi,FOUR,joʔʦu,272
+Mie,FOUR,joʔʦu,272
+Miyagi,FOUR,joʔʦu,272
+Miyazaki,FOUR,joʔʦu,272
+Nagano,FOUR,joʔʦu,272
+Nagasaki,FOUR,joʔʦu,272
+Nara,FOUR,joʔʦu,272
+Naze,FOUR,juːʦɨ,272
+Niigata,FOUR,joʔʦu,272
+Okayama,FOUR,joʔʦu,272
+Okinawa,FOUR,juːʧi,272
+Old_Japanese,FOUR,jø,272
+Saga,FOUR,joʔʦu,272
+Saitama,FOUR,joʔʦu,272
+Shiga,FOUR,joʔʦu,272
+Shimane,FOUR,joʔʧi,272
+Shizuoka,FOUR,joʔʦu,272
+Taketomi,FOUR,juːʧi,272
+Tarama,FOUR,juːʦɨ,272
+Tochigi,FOUR,joʔʦu,272
+Tokushima,FOUR,joʔʦu,272
+Tottori,FOUR,joʔʦu,272
+Toyama,FOUR,joʔʦu,272
+Tōkyō,FOUR,joʔʦu,272
+Wakayama,FOUR,joʔʦu,272
+Yamagata,FOUR,joʔʧi,272
+Yamaguchi,FOUR,joʔʦu,272
+Yamanashi,FOUR,joʔʦu,272
+Yonaguni,FOUR,duʧi,272
+Ōita,FOUR,joʔtu,272
+Ōsaka,FOUR,joʔʦu,272
+Aichi,GREEN,awøː,273
+Akita,GREEN,aoe,273
+Aomori,GREEN,aoe,273
+Chiba,GREEN,awɛ,273
+Ehime,GREEN,aoi,273
+Fukui,GREEN,aoi,273
+Fukuoka,GREEN,aoka,273
+Fukushima,GREEN,aoi,273
+Gifu,GREEN,awøː,273
+Gunma,GREEN,aoi,273
+Hachijō,GREEN,aokja,273
+Hateruma,GREEN,ohaɴmi,273
+Hirara,GREEN,oːkaɨ,273
+Hiroshima,GREEN,aoi,273
+Hokkaidō,GREEN,aoi,273
+Hyōgo,GREEN,aoi,273
+Ibaraki,GREEN,aoe,273
+Ikema,GREEN,aukai,273
+Irafu,GREEN,aukal,273
+Ishigaki,GREEN,ausaːɴ,273
+Ishikawa,GREEN,aoi,273
+Iwate,GREEN,ae,273
+Kagawa,GREEN,aoi,273
+Kagoshima,GREEN,aoka,273
+Kanagawa,GREEN,awɛ,273
+Kumamoto,GREEN,aoka,273
+Kyōtō,GREEN,aoi,273
+Kōchi,GREEN,aoi,273
+Mie,GREEN,aoi,273
+Miyagi,GREEN,aoe,273
+Miyazaki,GREEN,awi,273
+Nagano,GREEN,aweː,273
+Nagasaki,GREEN,aoi,273
+Nara,GREEN,aoi,273
+Naze,GREEN,oːʃaɴ,273
+Niigata,GREEN,aːwe,273
+Okayama,GREEN,awøː,273
+Okinawa,GREEN,oːʃeɴ,273
+Old_Japanese,GREEN,awoʃi,273
+Saga,GREEN,aoka,273
+Saitama,GREEN,aoe,273
+Shiga,GREEN,aoi,273
+Shimane,GREEN,aoe,273
+Shizuoka,GREEN,aɛː,273
+Taketomi,GREEN,aoːɴ,273
+Tarama,GREEN,oːʃaːl,273
+Tochigi,GREEN,aoi,273
+Tokushima,GREEN,aoi,273
+Tottori,GREEN,aoi,273
+Toyama,GREEN,aoi,273
+Tōkyō,GREEN,aoi,273
+Wakayama,GREEN,aoi,273
+Yamagata,GREEN,aoe,273
+Yamaguchi,GREEN,awøː,273
+Yamanashi,GREEN,aoi,273
+Ōita,GREEN,awiː,273
+Ōsaka,GREEN,aoi,273
+Yonaguni,GREEN,dirumidiru,274
+Aichi,WING,hane,275
+Akita,WING,hane,275
+Aomori,WING,hane,275
+Chiba,WING,hane,275
+Ehime,WING,hane,275
+Fukui,WING,hane,275
+Fukuoka,WING,hane,275
+Fukushima,WING,hane,275
+Gifu,WING,hane,275
+Gunma,WING,hane,275
+Hachijō,WING,hane,275
+Hateruma,WING,pani,275
+Hirara,WING,pani,275
+Hiroshima,WING,hane,275
+Hokkaidō,WING,hane,275
+Hyōgo,WING,hane,275
+Ibaraki,WING,hane,275
+Ikema,WING,hani,275
+Irafu,WING,pani,275
+Ishigaki,WING,pani,275
+Ishikawa,WING,hane,275
+Iwate,WING,hane,275
+Kagawa,WING,hane,275
+Kagoshima,WING,hane,275
+Kanagawa,WING,hane,275
+Kumamoto,WING,hane,275
+Kyōtō,WING,hane,275
+Kōchi,WING,hane,275
+Mie,WING,hane,275
+Miyagi,WING,hane,275
+Miyazaki,WING,hane,275
+Nagano,WING,hane,275
+Nagasaki,WING,hane,275
+Nara,WING,haneɡeta,275
+Naze,WING,hanə,275
+Niigata,WING,hane,275
+Okayama,WING,hane,275
+Okinawa,WING,βani,275
+Old_Japanese,WING,hane,275
+Saga,WING,hane,275
+Saitama,WING,hane,275
+Shiga,WING,hane,275
+Shimane,WING,hane,275
+Shizuoka,WING,hane,275
+Taketomi,WING,pani,275
+Tarama,WING,pani,275
+Tochigi,WING,hane,275
+Tokushima,WING,hane,275
+Tottori,WING,hane,275
+Toyama,WING,hane,275
+Tōkyō,WING,hane,275
+Wakayama,WING,hane,275
+Yamagata,WING,hane,275
+Yamaguchi,WING,hane,275
+Yamanashi,WING,hane,275
+Yonaguni,WING,pani,275
+Ōita,WING,hane,275
+Ōsaka,WING,hane,275
+Aichi,EYE,me,276
+Chiba,EYE,medama,276
+Ehime,EYE,meː,276
+Fukui,EYE,meː,276
+Fukuoka,EYE,me,276
+Fukushima,EYE,me,276
+Gifu,EYE,me,276
+Hateruma,EYE,miɴ,276
+Hirara,EYE,miː,276
+Hiroshima,EYE,me,276
+Hokkaidō,EYE,me,276
+Hyōgo,EYE,meː,276
+Ibaraki,EYE,me,276
+Ikema,EYE,miː,276
+Irafu,EYE,miː,276
+Ishigaki,EYE,miː,276
+Ishikawa,EYE,meː,276
+Kagawa,EYE,meː,276
+Kagoshima,EYE,me,276
+Kanagawa,EYE,me,276
+Kumamoto,EYE,me,276
+Kyōtō,EYE,meː,276
+Kōchi,EYE,meː,276
+Mie,EYE,meː,276
+Miyazaki,EYE,me,276
+Nagano,EYE,me,276
+Nagasaki,EYE,me,276
+Nara,EYE,me,276
+Naze,EYE,mɨ,276
+Niigata,EYE,me,276
+Okayama,EYE,me,276
+Okinawa,EYE,miː,276
+Old_Japanese,EYE,mə,276
+Saga,EYE,me,276
+Shiga,EYE,meː,276
+Shimane,EYE,me,276
+Shizuoka,EYE,me,276
+Taketomi,EYE,miː,276
+Tarama,EYE,miː,276
+Tochigi,EYE,me,276
+Tokushima,EYE,meː,276
+Tottori,EYE,me,276
+Toyama,EYE,meː,276
+Tōkyō,EYE,me,276
+Wakayama,EYE,meː,276
+Yamaguchi,EYE,me,276
+Yamanashi,EYE,me,276
+Yonaguni,EYE,mi,276
+Ōita,EYE,me,276
+Ōsaka,EYE,meː,276
+Akita,EYE,anaɡu,277
+Aomori,EYE,anaɡu,277
+Gunma,EYE,anako,277
+Hachijō,EYE,manako,277
+Iwate,EYE,anaɡu,277
+Miyagi,EYE,anaɡu,277
+Saitama,EYE,anako,277
+Yamagata,EYE,anaɡu,277
+Aichi,FLESH OR MEAT,niku,278
+Akita,FLESH OR MEAT,niɡu,278
+Aomori,FLESH OR MEAT,niɡu,278
+Chiba,FLESH OR MEAT,niku,278
+Ehime,FLESH OR MEAT,niku,278
+Fukui,FLESH OR MEAT,niku,278
+Fukuoka,FLESH OR MEAT,niku,278
+Fukushima,FLESH OR MEAT,niɡu,278
+Gifu,FLESH OR MEAT,niku,278
+Gunma,FLESH OR MEAT,niku,278
+Hachijō,FLESH OR MEAT,niku,278
+Hateruma,FLESH OR MEAT,niku,278
+Hiroshima,FLESH OR MEAT,niku,278
+Hokkaidō,FLESH OR MEAT,niku,278
+Hyōgo,FLESH OR MEAT,niku,278
+Ibaraki,FLESH OR MEAT,niku,278
+Ishigaki,FLESH OR MEAT,niku,278
+Ishikawa,FLESH OR MEAT,niku,278
+Iwate,FLESH OR MEAT,niɡu,278
+Kagawa,FLESH OR MEAT,niku,278
+Kagoshima,FLESH OR MEAT,niʔ,278
+Kanagawa,FLESH OR MEAT,niku,278
+Kyōtō,FLESH OR MEAT,niku,278
+Kōchi,FLESH OR MEAT,niku,278
+Mie,FLESH OR MEAT,niku,278
+Miyagi,FLESH OR MEAT,niku,278
+Nagano,FLESH OR MEAT,niku,278
+Nagasaki,FLESH OR MEAT,niku,278
+Niigata,FLESH OR MEAT,niku,278
+Okayama,FLESH OR MEAT,niku,278
+Saga,FLESH OR MEAT,niku,278
+Saitama,FLESH OR MEAT,niku,278
+Shimane,FLESH OR MEAT,neku,278
+Shizuoka,FLESH OR MEAT,niku,278
+Tochigi,FLESH OR MEAT,niɡu,278
+Tokushima,FLESH OR MEAT,niku,278
+Tottori,FLESH OR MEAT,niku,278
+Toyama,FLESH OR MEAT,niku,278
+Tōkyō,FLESH OR MEAT,niku,278
+Wakayama,FLESH OR MEAT,niku,278
+Yamagata,FLESH OR MEAT,niɡu,278
+Yamaguchi,FLESH OR MEAT,niku,278
+Yamanashi,FLESH OR MEAT,niku,278
+Yonaguni,FLESH OR MEAT,niku,278
+Hirara,FLESH OR MEAT,mɨ,279
+Kumamoto,FLESH OR MEAT,mi,279
+Miyazaki,FLESH OR MEAT,mi,279
+Nara,FLESH OR MEAT,miː,279
+Naze,FLESH OR MEAT,mɨː,279
+Shiga,FLESH OR MEAT,miː,279
+Ōita,FLESH OR MEAT,mi,279
+Ōsaka,FLESH OR MEAT,miː,279
+Ikema,FLESH OR MEAT,sɨːsɨ,280
+Irafu,FLESH OR MEAT,sɨːsɨ,280
+Okinawa,FLESH OR MEAT,ʃiʃiː,280
+Old_Japanese,FLESH OR MEAT,ʃiʃi,280
+Taketomi,FLESH OR MEAT,ʃiːʃi,280
+Tarama,FLESH OR MEAT,sɨːsɨ,280
+Aichi,FAT (ORGANIC SUBSTANCE),abura,281
+Akita,FAT (ORGANIC SUBSTANCE),aɴbura,281
+Aomori,FAT (ORGANIC SUBSTANCE),aɴbura,281
+Chiba,FAT (ORGANIC SUBSTANCE),abura,281
+Ehime,FAT (ORGANIC SUBSTANCE),abura,281
+Fukui,FAT (ORGANIC SUBSTANCE),abura,281
+Fukuoka,FAT (ORGANIC SUBSTANCE),abura,281
+Fukushima,FAT (ORGANIC SUBSTANCE),abura,281
+Gifu,FAT (ORGANIC SUBSTANCE),abura,281
+Gunma,FAT (ORGANIC SUBSTANCE),abura,281
+Hachijō,FAT (ORGANIC SUBSTANCE),abura,281
+Hateruma,FAT (ORGANIC SUBSTANCE),aba,281
+Hirara,FAT (ORGANIC SUBSTANCE),aʔva,281
+Hiroshima,FAT (ORGANIC SUBSTANCE),abura,281
+Hokkaidō,FAT (ORGANIC SUBSTANCE),abura,281
+Hyōgo,FAT (ORGANIC SUBSTANCE),abura,281
+Ibaraki,FAT (ORGANIC SUBSTANCE),abura,281
+Ikema,FAT (ORGANIC SUBSTANCE),aʔva,281
+Irafu,FAT (ORGANIC SUBSTANCE),aʔva,281
+Ishigaki,FAT (ORGANIC SUBSTANCE),aba,281
+Ishikawa,FAT (ORGANIC SUBSTANCE),abura,281
+Iwate,FAT (ORGANIC SUBSTANCE),aɴbura,281
+Kagawa,FAT (ORGANIC SUBSTANCE),abura,281
+Kagoshima,FAT (ORGANIC SUBSTANCE),abura,281
+Kanagawa,FAT (ORGANIC SUBSTANCE),abura,281
+Kumamoto,FAT (ORGANIC SUBSTANCE),abura,281
+Kyōtō,FAT (ORGANIC SUBSTANCE),abura,281
+Kōchi,FAT (ORGANIC SUBSTANCE),abura,281
+Mie,FAT (ORGANIC SUBSTANCE),abura,281
+Miyagi,FAT (ORGANIC SUBSTANCE),aɴbura,281
+Miyazaki,FAT (ORGANIC SUBSTANCE),abura,281
+Nagano,FAT (ORGANIC SUBSTANCE),abura,281
+Nagasaki,FAT (ORGANIC SUBSTANCE),abura,281
+Nara,FAT (ORGANIC SUBSTANCE),abura,281
+Naze,FAT (ORGANIC SUBSTANCE),abura,281
+Niigata,FAT (ORGANIC SUBSTANCE),abura,281
+Okayama,FAT (ORGANIC SUBSTANCE),abira,281
+Okinawa,FAT (ORGANIC SUBSTANCE),ʔaɴra,281
+Old_Japanese,FAT (ORGANIC SUBSTANCE),abura,281
+Saga,FAT (ORGANIC SUBSTANCE),abura,281
+Saitama,FAT (ORGANIC SUBSTANCE),abura,281
+Shiga,FAT (ORGANIC SUBSTANCE),abura,281
+Shimane,FAT (ORGANIC SUBSTANCE),abura,281
+Shizuoka,FAT (ORGANIC SUBSTANCE),abura,281
+Taketomi,FAT (ORGANIC SUBSTANCE),aba,281
+Tarama,FAT (ORGANIC SUBSTANCE),aʔva,281
+Tochigi,FAT (ORGANIC SUBSTANCE),abura,281
+Tokushima,FAT (ORGANIC SUBSTANCE),abura,281
+Tottori,FAT (ORGANIC SUBSTANCE),taneabura,281
+Toyama,FAT (ORGANIC SUBSTANCE),abura,281
+Tōkyō,FAT (ORGANIC SUBSTANCE),abura,281
+Wakayama,FAT (ORGANIC SUBSTANCE),abura,281
+Yamagata,FAT (ORGANIC SUBSTANCE),aɴbura,281
+Yamaguchi,FAT (ORGANIC SUBSTANCE),abura,281
+Yamanashi,FAT (ORGANIC SUBSTANCE),abura,281
+Yonaguni,FAT (ORGANIC SUBSTANCE),aɴda,281
+Ōita,FAT (ORGANIC SUBSTANCE),abura,281
+Ōsaka,FAT (ORGANIC SUBSTANCE),abura,281
+Old_Japanese,LIVER,kimo,282
+Aichi,EAR,mimi,283
+Akita,EAR,mimi,283
+Aomori,EAR,mimi,283
+Chiba,EAR,mimi,283
+Ehime,EAR,mimi,283
+Fukui,EAR,mimi,283
+Fukuoka,EAR,mimi,283
+Fukushima,EAR,mimi,283
+Gifu,EAR,mimi,283
+Gunma,EAR,mimi,283
+Hachijō,EAR,mimi,283
+Hateruma,EAR,miʃukurumiɴ,283
+Hirara,EAR,mim,283
+Hiroshima,EAR,mimi,283
+Hokkaidō,EAR,mimi,283
+Hyōgo,EAR,mimi,283
+Ibaraki,EAR,mimi,283
+Ikema,EAR,miɴ,283
+Irafu,EAR,mim,283
+Ishigaki,EAR,miɴ,283
+Ishikawa,EAR,mimi,283
+Iwate,EAR,mimi,283
+Kagawa,EAR,mimi,283
+Kagoshima,EAR,miɴ,283
+Kanagawa,EAR,mimi,283
+Kumamoto,EAR,mimi,283
+Kyōtō,EAR,mimi,283
+Kōchi,EAR,mimi,283
+Mie,EAR,mimi,283
+Miyagi,EAR,mimi,283
+Miyazaki,EAR,mimi,283
+Nagano,EAR,mimi,283
+Nagasaki,EAR,mimi,283
+Nara,EAR,mimi,283
+Naze,EAR,miɴ,283
+Niigata,EAR,mimi,283
+Okayama,EAR,mimi,283
+Okinawa,EAR,mimiː,283
+Old_Japanese,EAR,mimi,283
+Saga,EAR,mimi,283
+Saitama,EAR,mimi,283
+Shiga,EAR,mimi,283
+Shimane,EAR,mimi,283
+Shizuoka,EAR,mimi,283
+Taketomi,EAR,miɴ,283
+Tarama,EAR,mim,283
+Tochigi,EAR,mimi,283
+Tokushima,EAR,mimi,283
+Tottori,EAR,mimi,283
+Toyama,EAR,mimi,283
+Tōkyō,EAR,mimi,283
+Wakayama,EAR,mimi,283
+Yamagata,EAR,mimi,283
+Yamaguchi,EAR,mimi,283
+Yamanashi,EAR,mimi,283
+Yonaguni,EAR,miɴtaβu,283
+Ōita,EAR,mimi,283
+Ōsaka,EAR,mimi,283
+Aichi,HEAD,suko,284
+Fukuoka,HEAD,ʣuku,284
+Kagoshima,HEAD,ʣu,284
+Shiga,HEAD,dosuko,284
+Akita,HEAD,adama,285
+Aomori,HEAD,adama,285
+Chiba,HEAD,atama,285
+Ehime,HEAD,atama,285
+Fukui,HEAD,atama,285
+Fukushima,HEAD,adama,285
+Gifu,HEAD,atama,285
+Gunma,HEAD,atama,285
+Hiroshima,HEAD,atama,285
+Hokkaidō,HEAD,atama,285
+Hyōgo,HEAD,atama,285
+Ibaraki,HEAD,atama,285
+Ishikawa,HEAD,atama,285
+Iwate,HEAD,adama,285
+Kagawa,HEAD,atana,285
+Kanagawa,HEAD,atama,285
+Kumamoto,HEAD,atama,285
+Kōchi,HEAD,atama,285
+Mie,HEAD,atama,285
+Miyagi,HEAD,adama,285
+Nagano,HEAD,atama,285
+Nagasaki,HEAD,atama,285
+Niigata,HEAD,atama,285
+Okayama,HEAD,atama,285
+Saga,HEAD,atama,285
+Saitama,HEAD,atama,285
+Shimane,HEAD,atama,285
+Shizuoka,HEAD,atama,285
+Tochigi,HEAD,atama,285
+Tokushima,HEAD,atama,285
+Tottori,HEAD,atama,285
+Toyama,HEAD,atama,285
+Tōkyō,HEAD,atama,285
+Wakayama,HEAD,atama,285
+Yamagata,HEAD,adama,285
+Yamanashi,HEAD,atama,285
+Hachijō,HEAD,ʦuburi,286
+Kyōtō,HEAD,oʦumu,286
+Nara,HEAD,omuʦuri,286
+Yamaguchi,HEAD,omuʦu,286
+Ōsaka,HEAD,oʦumo,286
+Hateruma,HEAD,amasukuru,287
+Hirara,HEAD,kanamaɨ,288
+Ikema,HEAD,kanamai,288
+Irafu,HEAD,kanamal,288
+Tarama,HEAD,kanamal,288
+Ishigaki,HEAD,ʦɨːburɨ,289
+Naze,HEAD,ʦʔɨːburu,289
+Okinawa,HEAD,ʧibuːru,289
+Taketomi,HEAD,suburu,289
+Miyazaki,HEAD,biɴta,290
+Old_Japanese,HEAD,kaʃira,291
+Ōita,HEAD,kaʃira,291
+Yonaguni,HEAD,ɴɡʔusa,292
+Aichi,EARTH (SOIL),ʦuʃi,293
+Akita,EARTH (SOIL),ʧiʤi,293
+Aomori,EARTH (SOIL),ʦuʣu,293
+Chiba,EARTH (SOIL),ʦuʃi,293
+Ehime,EARTH (SOIL),ʦuʃi,293
+Fukushima,EARTH (SOIL),ʦuʃi,293
+Gifu,EARTH (SOIL),ʦuʃi,293
+Gunma,EARTH (SOIL),ʦuʃi,293
+Hachijō,EARTH (SOIL),ʦuʃi,293
+Hiroshima,EARTH (SOIL),ʦuʃi,293
+Hokkaidō,EARTH (SOIL),ʦuʃi,293
+Hyōgo,EARTH (SOIL),ʦuʃi,293
+Ibaraki,EARTH (SOIL),ʦuʃi,293
+Iwate,EARTH (SOIL),ʦuʣu,293
+Kagawa,EARTH (SOIL),ʦuʃi,293
+Kagoshima,EARTH (SOIL),ʦuʔ,293
+Kanagawa,EARTH (SOIL),ʦuʃi,293
+Kumamoto,EARTH (SOIL),ʦuʃi,293
+Kyōtō,EARTH (SOIL),ʦuʃi,293
+Kōchi,EARTH (SOIL),tuʧi,293
+Mie,EARTH (SOIL),ʦuʃi,293
+Miyagi,EARTH (SOIL),ʦuʣu,293
+Miyazaki,EARTH (SOIL),ʦuʃi,293
+Nagasaki,EARTH (SOIL),ʦuʃi,293
+Nara,EARTH (SOIL),ʦuʃi,293
+Okayama,EARTH (SOIL),ʦuʃi,293
+Old_Japanese,EARTH (SOIL),tuti,293
+Saitama,EARTH (SOIL),ʦuʃi,293
+Shiga,EARTH (SOIL),ʦuʃi,293
+Shimane,EARTH (SOIL),ʧiʧi,293
+Shizuoka,EARTH (SOIL),ʦuʃi,293
+Tochigi,EARTH (SOIL),ʦuʃi,293
+Tokushima,EARTH (SOIL),ʦuʃi,293
+Tottori,EARTH (SOIL),ʦuʃi,293
+Tōkyō,EARTH (SOIL),ʦuʃi,293
+Wakayama,EARTH (SOIL),ʦuʃi,293
+Yamagata,EARTH (SOIL),ʧiʤi,293
+Yamanashi,EARTH (SOIL),ʦuʃi,293
+Ōita,EARTH (SOIL),tuʧi,293
+Ōsaka,EARTH (SOIL),ʦuʃi,293
+Fukui,EARTH (SOIL),beto,294
+Nagano,EARTH (SOIL),beto,294
+Niigata,EARTH (SOIL),beto,294
+Fukuoka,EARTH (SOIL),doro,295
+Ishikawa,EARTH (SOIL),doro,295
+Saga,EARTH (SOIL),doro,295
+Toyama,EARTH (SOIL),doro,295
+Yamaguchi,EARTH (SOIL),doro,295
+Hateruma,EARTH (SOIL),ɴta,296
+Hirara,EARTH (SOIL),mta,296
+Ikema,EARTH (SOIL),ɴta,296
+Irafu,EARTH (SOIL),mta,296
+Ishigaki,EARTH (SOIL),ɴta,296
+Tarama,EARTH (SOIL),mta,296
+Naze,EARTH (SOIL),niʃa,297
+Okinawa,EARTH (SOIL),ɴʧaː,297
+Taketomi,EARTH (SOIL),ʤiː,298
+Yonaguni,EARTH (SOIL),dinaɡa,299
+Akita,THEY,anoβutodaʤi,300
+Aomori,THEY,anoβutodaʣu,300
+Ehime,THEY,anoʃitora,300
+Fukushima,THEY,anoʃitodaʧi,300
+Hiroshima,THEY,arera,300
+Hokkaidō,THEY,anoçitotaʧi,300
+Ishikawa,THEY,anoçitora,300
+Iwate,THEY,anoçidaʣu,300
+Kagoshima,THEY,aɴʃitaʔ,300
+Mie,THEY,anoçitora,300
+Saga,THEY,aitaʧi,300
+Shizuoka,THEY,anoçitoʔʧi,300
+Tokushima,THEY,anoçitotaʧi,300
+Toyama,THEY,anoçitotaʧi,300
+Tōkyō,THEY,anoçitotaʧi,300
+Yamanashi,THEY,anoçitotaʧi,300
+Old_Japanese,THEY,kare,301
+Aichi,FALL,oʧiru,302
+Akita,FALL,oʤiru,302
+Aomori,FALL,oʣuru,302
+Chiba,FALL,oʧiru,302
+Ehime,FALL,oʧiru,302
+Fukui,FALL,oʧiru,302
+Fukuoka,FALL,oʦuru,302
+Fukushima,FALL,oʤiru,302
+Gifu,FALL,oʧiru,302
+Gunma,FALL,oʧiru,302
+Hachijō,FALL,oteru,302
+Hateruma,FALL,ʔuʧiruɴ,302
+Hirara,FALL,utiɨ,302
+Hiroshima,FALL,oʧiru,302
+Hokkaidō,FALL,oʧiru,302
+Hyōgo,FALL,oʧiru,302
+Ibaraki,FALL,oʤiru,302
+Ikema,FALL,utiː,302
+Irafu,FALL,util,302
+Ishigaki,FALL,ʔutiruɴ,302
+Ishikawa,FALL,oʔʧiru,302
+Iwate,FALL,oʣuru,302
+Kagawa,FALL,oʧiru,302
+Kagoshima,FALL,oʦuʔ,302
+Kanagawa,FALL,okoʔʧiru,302
+Kumamoto,FALL,oʧiru,302
+Kyōtō,FALL,oʧiru,302
+Kōchi,FALL,oʧiru,302
+Mie,FALL,oʧiru,302
+Miyagi,FALL,oʣuru,302
+Miyazaki,FALL,oʦuru,302
+Nagano,FALL,oʧiru,302
+Nagasaki,FALL,oʦuru,302
+Nara,FALL,oʧiru,302
+Naze,FALL,ʔutɨrjuɴ,302
+Niigata,FALL,oʧiru,302
+Okayama,FALL,oʧiru,302
+Okinawa,FALL,ʔutɨːɴ,302
+Old_Japanese,FALL,øtu,302
+Saga,FALL,oʧiː,302
+Saitama,FALL,oʧiru,302
+Shiga,FALL,oʧiru,302
+Shimane,FALL,oʧiː,302
+Shizuoka,FALL,oʧiru,302
+Taketomi,FALL,utiruɴ,302
+Tarama,FALL,util,302
+Tochigi,FALL,oʧiru,302
+Tokushima,FALL,oʧiru,302
+Tottori,FALL,oʧiru,302
+Toyama,FALL,oʧiru,302
+Tōkyō,FALL,oʧiru,302
+Wakayama,FALL,oʧiru,302
+Yamagata,FALL,oʤiru,302
+Yamaguchi,FALL,oʧiru,302
+Yamanashi,FALL,oʧiru,302
+Yonaguni,FALL,ʔutiruɴ,302
+Ōita,FALL,oturu,302
+Ōsaka,FALL,oʧiru,302
+Aichi,LAUGH,warau,303
+Akita,LAUGH,warau,303
+Aomori,LAUGH,wararu,303
+Chiba,LAUGH,warau,303
+Ehime,LAUGH,warau,303
+Fukui,LAUGH,warau,303
+Fukuoka,LAUGH,ʔwarau,303
+Fukushima,LAUGH,waraː,303
+Gifu,LAUGH,warau,303
+Gunma,LAUGH,warau,303
+Hachijō,LAUGH,waroːwa,303
+Hateruma,LAUGH,baːruɴ,303
+Hiroshima,LAUGH,warau,303
+Hokkaidō,LAUGH,wawarau,303
+Hyōgo,LAUGH,warau,303
+Ibaraki,LAUGH,waraː,303
+Ikema,LAUGH,baraiː,303
+Irafu,LAUGH,baraɨ,303
+Ishigaki,LAUGH,baːroː,303
+Ishikawa,LAUGH,waroː,303
+Iwate,LAUGH,warau,303
+Kagawa,LAUGH,warau,303
+Kagoshima,LAUGH,waru,303
+Kanagawa,LAUGH,warau,303
+Kumamoto,LAUGH,warau,303
+Kyōtō,LAUGH,warau,303
+Kōchi,LAUGH,warau,303
+Mie,LAUGH,warau,303
+Miyagi,LAUGH,warau,303
+Miyazaki,LAUGH,warau,303
+Nagano,LAUGH,warau,303
+Nagasaki,LAUGH,waroː,303
+Nara,LAUGH,warau,303
+Naze,LAUGH,warajuri,303
+Niigata,LAUGH,waroː,303
+Okayama,LAUGH,warau,303
+Okinawa,LAUGH,warajuɴ,303
+Old_Japanese,LAUGH,wataβu,303
+Saga,LAUGH,warau,303
+Saitama,LAUGH,warau,303
+Shiga,LAUGH,warau,303
+Shimane,LAUGH,waraː,303
+Shizuoka,LAUGH,warau,303
+Taketomi,LAUGH,barauɴ,303
+Tarama,LAUGH,baruː,303
+Tochigi,LAUGH,waraː,303
+Tokushima,LAUGH,warau,303
+Tottori,LAUGH,warau,303
+Toyama,LAUGH,warau,303
+Tōkyō,LAUGH,warau,303
+Wakayama,LAUGH,warau,303
+Yamagata,LAUGH,waraː,303
+Yamaguchi,LAUGH,warau,303
+Yamanashi,LAUGH,warau,303
+Yonaguni,LAUGH,baruɴ,303
+Ōita,LAUGH,waroː,303
+Ōsaka,LAUGH,warau,303
+Hirara,LAUGH,amaiɨ,304
+Aichi,VOMIT,haku,305
+Akita,VOMIT,haɡu,305
+Aomori,VOMIT,haɡu,305
+Chiba,VOMIT,hau,305
+Ehime,VOMIT,haku,305
+Fukui,VOMIT,haku,305
+Fukuoka,VOMIT,haku,305
+Fukushima,VOMIT,haɡu,305
+Gifu,VOMIT,haku,305
+Gunma,VOMIT,haku,305
+Hachijō,VOMIT,haku,305
+Hirara,VOMIT,paksɨ,305
+Hiroshima,VOMIT,haku,305
+Hokkaidō,VOMIT,haku,305
+Hyōgo,VOMIT,haku,305
+Ibaraki,VOMIT,haku,305
+Ikema,VOMIT,haβu,305
+Irafu,VOMIT,paʔtil,305
+Ishikawa,VOMIT,haku,305
+Iwate,VOMIT,haɡu,305
+Kagawa,VOMIT,haku,305
+Kanagawa,VOMIT,haku,305
+Kumamoto,VOMIT,haku,305
+Kyōtō,VOMIT,haku,305
+Kōchi,VOMIT,haku,305
+Mie,VOMIT,haku,305
+Miyagi,VOMIT,haɡu,305
+Miyazaki,VOMIT,haku,305
+Nagano,VOMIT,haku,305
+Nara,VOMIT,haku,305
+Naze,VOMIT,hakjuɴ,305
+Niigata,VOMIT,haku,305
+Okayama,VOMIT,haku,305
+Okinawa,VOMIT,βakuɴ,305
+Old_Japanese,VOMIT,haku,305
+Saga,VOMIT,haku,305
+Saitama,VOMIT,haku,305
+Shiga,VOMIT,haku,305
+Shimane,VOMIT,haku,305
+Shizuoka,VOMIT,haku,305
+Taketomi,VOMIT,pakuɴ,305
+Tarama,VOMIT,paksɨ,305
+Tochigi,VOMIT,haɡu,305
+Tokushima,VOMIT,haku,305
+Tottori,VOMIT,haku,305
+Toyama,VOMIT,haku,305
+Tōkyō,VOMIT,haku,305
+Wakayama,VOMIT,haku,305
+Yamagata,VOMIT,haɡu,305
+Yamaguchi,VOMIT,haku,305
+Yamanashi,VOMIT,haku,305
+Yonaguni,VOMIT,haɡuɴ,305
+Ōita,VOMIT,haku,305
+Ōsaka,VOMIT,haku,305
+Hateruma,VOMIT,muduʃiɴ,306
+Ishigaki,VOMIT,aɡiruɴ,307
+Kagoshima,VOMIT,aɡuʔ,307
+Nagasaki,VOMIT,tosu,308
+Aichi,HOLD,moʦu,309
+Akita,HOLD,moʤi,309
+Aomori,HOLD,moʣu,309
+Chiba,HOLD,moʦu,309
+Ehime,HOLD,moʦu,309
+Fukui,HOLD,moʦu,309
+Fukuoka,HOLD,moʦu,309
+Fukushima,HOLD,moʣu,309
+Gifu,HOLD,moʦu,309
+Gunma,HOLD,moʦu,309
+Hateruma,HOLD,muʦuɴ,309
+Hirara,HOLD,muʦɨ,309
+Hiroshima,HOLD,moʦu,309
+Hokkaidō,HOLD,moʦu,309
+Hyōgo,HOLD,moʦu,309
+Ibaraki,HOLD,moʦu,309
+Ikema,HOLD,muʦɨ,309
+Irafu,HOLD,muʦɨ,309
+Ishigaki,HOLD,muʦɨɴ,309
+Ishikawa,HOLD,moʦu,309
+Iwate,HOLD,moʣu,309
+Kagoshima,HOLD,moʔ,309
+Kanagawa,HOLD,moʦu,309
+Kumamoto,HOLD,moʦu,309
+Kyōtō,HOLD,moʦu,309
+Mie,HOLD,moʦu,309
+Miyazaki,HOLD,moʦu,309
+Nagano,HOLD,moʦu,309
+Nagasaki,HOLD,moʦu,309
+Nara,HOLD,moʦu,309
+Naze,HOLD,muʧuɴ,309
+Okayama,HOLD,moʦu,309
+Okinawa,HOLD,muʔtuɴ,309
+Old_Japanese,HOLD,møtu,309
+Saga,HOLD,moʦu,309
+Saitama,HOLD,moʦu,309
+Shiga,HOLD,moʦu,309
+Shimane,HOLD,moʧi,309
+Shizuoka,HOLD,moʦu,309
+Taketomi,HOLD,mutuɴ,309
+Tarama,HOLD,muʦɨ,309
+Tochigi,HOLD,moʣu,309
+Tokushima,HOLD,moʦu,309
+Tottori,HOLD,moʦu,309
+Toyama,HOLD,moʦu,309
+Tōkyō,HOLD,moʦu,309
+Wakayama,HOLD,moʦu,309
+Yamaguchi,HOLD,moʦu,309
+Yamanashi,HOLD,moʦu,309
+Yonaguni,HOLD,mutuɴ,309
+Ōita,HOLD,motu,309
+Ōsaka,HOLD,moʦu,309
+Hachijō,HOLD,saɡeru,310
+Kagawa,HOLD,saɡeru,310
+Kōchi,HOLD,saɴɡeru,310
+Miyagi,HOLD,taŋaɡu,311
+Niigata,HOLD,taɡaku,311
+Yamagata,HOLD,taŋaɡu,311
+Aichi,YEAR,toʃi,312
+Akita,YEAR,toʃi,312
+Aomori,YEAR,tosu,312
+Chiba,YEAR,toʃi,312
+Ehime,YEAR,toʃi,312
+Fukui,YEAR,toʃi,312
+Fukuoka,YEAR,toʃi,312
+Fukushima,YEAR,toʃi,312
+Gifu,YEAR,toʃi,312
+Gunma,YEAR,toʃi,312
+Hachijō,YEAR,toʃi,312
+Hateruma,YEAR,tusɨ,312
+Hirara,YEAR,tusɨ,312
+Hiroshima,YEAR,toʃi,312
+Hokkaidō,YEAR,toʃi,312
+Hyōgo,YEAR,toʃi,312
+Ibaraki,YEAR,toʃi,312
+Ikema,YEAR,tusɨ,312
+Irafu,YEAR,tusɨ,312
+Ishigaki,YEAR,tusɨ,312
+Ishikawa,YEAR,toʃi,312
+Iwate,YEAR,tosu,312
+Kagawa,YEAR,toʃi,312
+Kagoshima,YEAR,toʃi̥,312
+Kanagawa,YEAR,toʃi,312
+Kumamoto,YEAR,toʃi,312
+Kyōtō,YEAR,toʃi,312
+Kōchi,YEAR,toʃi,312
+Mie,YEAR,toʃi,312
+Miyagi,YEAR,tosu,312
+Miyazaki,YEAR,toʃi,312
+Nagano,YEAR,toʃi,312
+Nagasaki,YEAR,toʃi,312
+Nara,YEAR,toʃi,312
+Naze,YEAR,tuʃi,312
+Niigata,YEAR,toʃi,312
+Okayama,YEAR,toʃi,312
+Okinawa,YEAR,tuʃiː,312
+Old_Japanese,YEAR,tøʃi,312
+Saga,YEAR,toʃi,312
+Saitama,YEAR,toʃi,312
+Shiga,YEAR,toʃi,312
+Shimane,YEAR,toʃi,312
+Shizuoka,YEAR,toʃi,312
+Taketomi,YEAR,tuʃi,312
+Tarama,YEAR,tusɨ,312
+Tochigi,YEAR,toʃi,312
+Tokushima,YEAR,toʃi,312
+Tottori,YEAR,toʃi,312
+Toyama,YEAR,toʃi,312
+Tōkyō,YEAR,toʃi,312
+Wakayama,YEAR,toʃi,312
+Yamagata,YEAR,toʃi,312
+Yamaguchi,YEAR,toʃi,312
+Yamanashi,YEAR,toʃi,312
+Yonaguni,YEAR,tuʧi,312
+Ōita,YEAR,toʃi,312
+Ōsaka,YEAR,toʃi,312
+Aichi,GOOD,eː,313
+Akita,GOOD,e,313
+Aomori,GOOD,e,313
+Chiba,GOOD,iː,313
+Ehime,GOOD,eː,313
+Fukui,GOOD,iː,313
+Fukuoka,GOOD,joka,313
+Fukushima,GOOD,iː,313
+Gifu,GOOD,eː,313
+Gunma,GOOD,iː,313
+Hachijō,GOOD,joʔkja,313
+Hiroshima,GOOD,eː,313
+Hokkaidō,GOOD,joi,313
+Hyōgo,GOOD,eː,313
+Ibaraki,GOOD,eː,313
+Ishikawa,GOOD,iː,313
+Iwate,GOOD,e,313
+Kagawa,GOOD,eː,313
+Kagoshima,GOOD,joka,313
+Kanagawa,GOOD,iː,313
+Kumamoto,GOOD,joka,313
+Kyōtō,GOOD,eː,313
+Kōchi,GOOD,ei,313
+Mie,GOOD,eː,313
+Miyagi,GOOD,eː,313
+Miyazaki,GOOD,iː,313
+Nagano,GOOD,eː,313
+Nagasaki,GOOD,joka,313
+Nara,GOOD,iː,313
+Naze,GOOD,iʔʧaɴ,313
+Niigata,GOOD,eː,313
+Okayama,GOOD,eː,313
+Old_Japanese,GOOD,jøʃi,313
+Saga,GOOD,joka,313
+Saitama,GOOD,iː,313
+Shiga,GOOD,eː,313
+Shimane,GOOD,e,313
+Shizuoka,GOOD,eː,313
+Tochigi,GOOD,iː,313
+Tokushima,GOOD,eː,313
+Tottori,GOOD,eː,313
+Toyama,GOOD,iː,313
+Tōkyō,GOOD,joi,313
+Wakayama,GOOD,eː,313
+Yamagata,GOOD,eː,313
+Yamaguchi,GOOD,eː,313
+Yamanashi,GOOD,joi,313
+Ōita,GOOD,iː,313
+Ōsaka,GOOD,eː,313
+Hateruma,GOOD,miʃahaɴ,314
+Taketomi,GOOD,misaɴ,314
+Yonaguni,GOOD,ɴsaɴ,314
+Hirara,GOOD,ʤoːtuː,315
+Ikema,GOOD,ʤautu,315
+Irafu,GOOD,ʤau̥tuː,315
+Ishigaki,GOOD,ʤoːtoː,315
+Okinawa,GOOD,ʤoːtoː,315
+Tarama,GOOD,ʤauʃaːl,315
+Aichi,ALL,miɴna,316
+Akita,ALL,miɴna,316
+Aomori,ALL,miɴna,316
+Chiba,ALL,miɴa,316
+Ehime,ALL,miɴna,316
+Fukui,ALL,miɴna,316
+Fukushima,ALL,miɴna,316
+Gifu,ALL,miɴna,316
+Gunma,ALL,miɴna,316
+Hachijō,ALL,meɴna,316
+Hiroshima,ALL,miɴna,316
+Hokkaidō,ALL,miɴna,316
+Hyōgo,ALL,miɴna,316
+Ibaraki,ALL,miɴna,316
+Ishikawa,ALL,ɴna,316
+Iwate,ALL,miɴna,316
+Kagawa,ALL,miɴna,316
+Kagoshima,ALL,miɴna,316
+Kanagawa,ALL,miɴna,316
+Kumamoto,ALL,mina,316
+Kyōtō,ALL,miɴna,316
+Kōchi,ALL,miɴnaː,316
+Mie,ALL,mina,316
+Miyagi,ALL,miɴna,316
+Miyazaki,ALL,miɴna,316
+Nagano,ALL,miɴna,316
+Nagasaki,ALL,miɴna,316
+Nara,ALL,miɴna,316
+Niigata,ALL,ɴna,316
+Okayama,ALL,miɴna,316
+Old_Japanese,ALL,mɨna,316
+Saitama,ALL,miɴa,316
+Shiga,ALL,mina,316
+Shimane,ALL,meɴna,316
+Shizuoka,ALL,miɴna,316
+Tochigi,ALL,mina,316
+Tokushima,ALL,mina,316
+Tottori,ALL,miɴna,316
+Toyama,ALL,ɴna,316
+Tōkyō,ALL,miɴa,316
+Wakayama,ALL,miɴna,316
+Yamagata,ALL,miɴna,316
+Yamaguchi,ALL,miɴna,316
+Yamanashi,ALL,miɴna,316
+Ōita,ALL,miɴna,316
+Ōsaka,ALL,mina,316
+Fukuoka,ALL,soːjo,317
+Hateruma,ALL,muːruɴ,318
+Hirara,ALL,mːna,318
+Ikema,ALL,mːna,318
+Irafu,ALL,mːna,318
+Ishigaki,ALL,muːru,318
+Okinawa,ALL,muru,318
+Taketomi,ALL,muːru,318
+Tarama,ALL,mːna,318
+Yonaguni,ALL,muru,318
+Naze,ALL,ɡoʔto,319
+Saga,ALL,ʃiʔkja,320
+Akita,BITE,kamiʤiɡu,321
+Ehime,BITE,kamiʦuku,321
+Hateruma,BITE,kamisɨkuɴ,321
+Hokkaidō,BITE,kamiʦuku,321
+Ishigaki,BITE,kamuɴ,321
+Ishikawa,BITE,kamu,321
+Kyōtō,BITE,kamiʦuku,321
+Old_Japanese,BITE,kamu,321
+Toyama,BITE,kamu,321
+Tōkyō,BITE,kamiʦuku,321
+Aomori,BITE,kuʔʦuɡu,322
+Fukui,BITE,kuwaʦuku,322
+Fukushima,BITE,kuiʦuku,322
+Hiroshima,BITE,kuiʦuku,322
+Iwate,BITE,kuʔʧaɡaru,322
+Kagoshima,BITE,kaɴʦuʔ,322
+Nara,BITE,kuiʦuku,322
+Shizuoka,BITE,kuʔʦuku,322
+Hirara,BITE,βuː,323
+Ikema,BITE,βuː,323
+Irafu,BITE,βuː,323
+Tarama,BITE,βaɴksɨ,323
+Okinawa,BITE,kuːjuɴ,324
+Yonaguni,BITE,puiʦuɴ,325
+Aichi,FEATHER,hane,326
+Chiba,FEATHER,hane,326
+Ehime,FEATHER,hane,326
+Fukui,FEATHER,hane,326
+Fukuoka,FEATHER,hane,326
+Gifu,FEATHER,hane,326
+Gunma,FEATHER,hane,326
+Hachijō,FEATHER,hane,326
+Hiroshima,FEATHER,haneɡe,326
+Hyōgo,FEATHER,hane,326
+Ibaraki,FEATHER,hane,326
+Ishikawa,FEATHER,hane,326
+Iwate,FEATHER,hane,326
+Kagawa,FEATHER,hane,326
+Kagoshima,FEATHER,haneɡe,326
+Kanagawa,FEATHER,keba,326
+Kumamoto,FEATHER,hane,326
+Kyōtō,FEATHER,hane,326
+Kōchi,FEATHER,hane,326
+Mie,FEATHER,hane,326
+Miyagi,FEATHER,hane,326
+Miyazaki,FEATHER,hane,326
+Nagano,FEATHER,hane,326
+Nagasaki,FEATHER,hane,326
+Naze,FEATHER,hanə,326
+Niigata,FEATHER,hane,326
+Okayama,FEATHER,hane,326
+Okinawa,FEATHER,βaniɡeː,326
+Old_Japanese,FEATHER,hane,326
+Saga,FEATHER,hane,326
+Shiga,FEATHER,hane,326
+Shimane,FEATHER,hane,326
+Shizuoka,FEATHER,hane,326
+Taketomi,FEATHER,pani,326
+Tochigi,FEATHER,hane,326
+Tokushima,FEATHER,hane,326
+Tottori,FEATHER,hane,326
+Toyama,FEATHER,hane,326
+Tōkyō,FEATHER,hane,326
+Wakayama,FEATHER,hane,326
+Yamagata,FEATHER,hane,326
+Yamaguchi,FEATHER,hane,326
+Yamanashi,FEATHER,hane,326
+Ōita,FEATHER,hane,326
+Ōsaka,FEATHER,hane,326
+Akita,FEATHER,ke,327
+Aomori,FEATHER,ke,327
+Fukushima,FEATHER,keː,327
+Hateruma,FEATHER,kiː,327
+Ikema,FEATHER,kiː,327
+Ishigaki,FEATHER,kiː,327
+Nara,FEATHER,tornoke,327
+Yonaguni,FEATHER,ki,327
+Hirara,FEATHER,paninupsɨɡi,328
+Irafu,FEATHER,psɨɡi,328
+Tarama,FEATHER,psɨɡi,328
+Hokkaidō,FEATHER,umoː,329
+Saitama,FEATHER,tojasu,330
+Aichi,FLY (MOVE THROUGH AIR),tobu,331
+Akita,FLY (MOVE THROUGH AIR),toɴbu,331
+Aomori,FLY (MOVE THROUGH AIR),toɴbu,331
+Chiba,FLY (MOVE THROUGH AIR),tobu,331
+Ehime,FLY (MOVE THROUGH AIR),tobu,331
+Fukui,FLY (MOVE THROUGH AIR),tobu,331
+Fukuoka,FLY (MOVE THROUGH AIR),tobu,331
+Fukushima,FLY (MOVE THROUGH AIR),tobu,331
+Gifu,FLY (MOVE THROUGH AIR),tobu,331
+Gunma,FLY (MOVE THROUGH AIR),tobu,331
+Hachijō,FLY (MOVE THROUGH AIR),tobu,331
+Hirara,FLY (MOVE THROUGH AIR),tubiːpiɨ,331
+Hiroshima,FLY (MOVE THROUGH AIR),tobu,331
+Hokkaidō,FLY (MOVE THROUGH AIR),tobu,331
+Hyōgo,FLY (MOVE THROUGH AIR),tobu,331
+Ibaraki,FLY (MOVE THROUGH AIR),tobu,331
+Ishikawa,FLY (MOVE THROUGH AIR),tobu,331
+Iwate,FLY (MOVE THROUGH AIR),toɴbu,331
+Kagawa,FLY (MOVE THROUGH AIR),tobu,331
+Kagoshima,FLY (MOVE THROUGH AIR),toʔ,331
+Kanagawa,FLY (MOVE THROUGH AIR),tobu,331
+Kumamoto,FLY (MOVE THROUGH AIR),tobu,331
+Kyōtō,FLY (MOVE THROUGH AIR),tobu,331
+Kōchi,FLY (MOVE THROUGH AIR),tobu,331
+Mie,FLY (MOVE THROUGH AIR),tobu,331
+Miyagi,FLY (MOVE THROUGH AIR),toɴbu,331
+Miyazaki,FLY (MOVE THROUGH AIR),tobu,331
+Nagano,FLY (MOVE THROUGH AIR),tobu,331
+Nagasaki,FLY (MOVE THROUGH AIR),tobu,331
+Nara,FLY (MOVE THROUGH AIR),tobu,331
+Niigata,FLY (MOVE THROUGH AIR),tobu,331
+Okayama,FLY (MOVE THROUGH AIR),tobu,331
+Old_Japanese,FLY (MOVE THROUGH AIR),tøbu,331
+Saga,FLY (MOVE THROUGH AIR),tobu,331
+Saitama,FLY (MOVE THROUGH AIR),tobu,331
+Shiga,FLY (MOVE THROUGH AIR),tobu,331
+Shimane,FLY (MOVE THROUGH AIR),tobu,331
+Shizuoka,FLY (MOVE THROUGH AIR),tobu,331
+Taketomi,FLY (MOVE THROUGH AIR),tubuɴ,331
+Tochigi,FLY (MOVE THROUGH AIR),tobu,331
+Tokushima,FLY (MOVE THROUGH AIR),tobu,331
+Tottori,FLY (MOVE THROUGH AIR),tobi,331
+Toyama,FLY (MOVE THROUGH AIR),tobu,331
+Tōkyō,FLY (MOVE THROUGH AIR),tobu,331
+Wakayama,FLY (MOVE THROUGH AIR),tobu,331
+Yamagata,FLY (MOVE THROUGH AIR),toɴbu,331
+Yamaguchi,FLY (MOVE THROUGH AIR),tobu,331
+Yamanashi,FLY (MOVE THROUGH AIR),tobu,331
+Yonaguni,FLY (MOVE THROUGH AIR),tubuɴ,331
+Ōita,FLY (MOVE THROUGH AIR),tobu,331
+Ōsaka,FLY (MOVE THROUGH AIR),tobu,331
+Hateruma,FLY (MOVE THROUGH AIR),buɴʦuɴ,332
+Ikema,FLY (MOVE THROUGH AIR),tunuʤiɨ,333
+Irafu,FLY (MOVE THROUGH AIR),budul,334
+Tarama,FLY (MOVE THROUGH AIR),budul,334
+Ishigaki,FLY (MOVE THROUGH AIR),majaːruɴ,335
+Naze,FLY (MOVE THROUGH AIR),udeɨʔkjuɴ,336
+Okinawa,FLY (MOVE THROUGH AIR),tuʔtuɴnuɡuɴ,337
+Old_Japanese,THOU,nare,338
+Aichi,PATH OR ROAD,miʧi,339
+Akita,PATH OR ROAD,miʤi,339
+Chiba,PATH OR ROAD,miʧi,339
+Ehime,PATH OR ROAD,miʧi,339
+Fukui,PATH OR ROAD,miʧi,339
+Fukuoka,PATH OR ROAD,miʧi,339
+Fukushima,PATH OR ROAD,miʧi,339
+Gifu,PATH OR ROAD,miʧi,339
+Gunma,PATH OR ROAD,miʧi,339
+Hachijō,PATH OR ROAD,miʧi,339
+Hateruma,PATH OR ROAD,mɨʦɨ,339
+Hirara,PATH OR ROAD,mʦɨ,339
+Hiroshima,PATH OR ROAD,miʧi,339
+Hokkaidō,PATH OR ROAD,miʧi,339
+Hyōgo,PATH OR ROAD,miʧi,339
+Ibaraki,PATH OR ROAD,miʧi,339
+Ikema,PATH OR ROAD,ɴʦɨ,339
+Irafu,PATH OR ROAD,mʦɨ,339
+Ishigaki,PATH OR ROAD,mɨʦɨ,339
+Ishikawa,PATH OR ROAD,miʧi,339
+Iwate,PATH OR ROAD,miʣu,339
+Kagawa,PATH OR ROAD,miʧi,339
+Kagoshima,PATH OR ROAD,miʔ,339
+Kanagawa,PATH OR ROAD,miʧi,339
+Kumamoto,PATH OR ROAD,miʧi,339
+Kyōtō,PATH OR ROAD,miʧi,339
+Kōchi,PATH OR ROAD,miʧi,339
+Mie,PATH OR ROAD,miʧi,339
+Miyazaki,PATH OR ROAD,miʧi,339
+Nagano,PATH OR ROAD,miʧi,339
+Nagasaki,PATH OR ROAD,miʧi,339
+Nara,PATH OR ROAD,miʧi,339
+Naze,PATH OR ROAD,mɨʦɨ,339
+Niigata,PATH OR ROAD,miʧi,339
+Okayama,PATH OR ROAD,miʧi,339
+Okinawa,PATH OR ROAD,miʧi,339
+Old_Japanese,PATH OR ROAD,miti,339
+Saga,PATH OR ROAD,miʧi,339
+Saitama,PATH OR ROAD,miʧi,339
+Shiga,PATH OR ROAD,miʧi,339
+Shimane,PATH OR ROAD,meʧi,339
+Shizuoka,PATH OR ROAD,miʧi,339
+Taketomi,PATH OR ROAD,miʧi,339
+Tarama,PATH OR ROAD,mʦɨ,339
+Tochigi,PATH OR ROAD,miʤi,339
+Tokushima,PATH OR ROAD,miʧi,339
+Tottori,PATH OR ROAD,miʧi,339
+Toyama,PATH OR ROAD,miʧi,339
+Tōkyō,PATH OR ROAD,miʧi,339
+Wakayama,PATH OR ROAD,miʧi,339
+Yamagata,PATH OR ROAD,miʤi,339
+Yamaguchi,PATH OR ROAD,miʧi,339
+Yamanashi,PATH OR ROAD,miʧi,339
+Yonaguni,PATH OR ROAD,amiti,339
+Ōita,PATH OR ROAD,miʧi,339
+Ōsaka,PATH OR ROAD,miʧi,339
+Aomori,PATH OR ROAD,kɛɴdo,340
+Miyagi,PATH OR ROAD,doːro,341
+Aichi,FLOWER,hana,342
+Akita,FLOWER,hana,342
+Aomori,FLOWER,hana,342
+Chiba,FLOWER,hana,342
+Ehime,FLOWER,hana,342
+Fukui,FLOWER,hana,342
+Fukuoka,FLOWER,hana,342
+Fukushima,FLOWER,hana,342
+Gifu,FLOWER,hana,342
+Gunma,FLOWER,hana,342
+Hachijō,FLOWER,hana,342
+Hateruma,FLOWER,pana,342
+Hirara,FLOWER,pana,342
+Hiroshima,FLOWER,hana,342
+Hokkaidō,FLOWER,hana,342
+Hyōgo,FLOWER,hana,342
+Ibaraki,FLOWER,hana,342
+Ikema,FLOWER,hana,342
+Irafu,FLOWER,pana,342
+Ishigaki,FLOWER,pana,342
+Ishikawa,FLOWER,hana,342
+Iwate,FLOWER,hana,342
+Kagawa,FLOWER,hana,342
+Kagoshima,FLOWER,hana,342
+Kanagawa,FLOWER,hana,342
+Kumamoto,FLOWER,hana,342
+Kyōtō,FLOWER,hana,342
+Kōchi,FLOWER,hana,342
+Mie,FLOWER,hana,342
+Miyagi,FLOWER,hana,342
+Miyazaki,FLOWER,hana,342
+Nagano,FLOWER,hana,342
+Nagasaki,FLOWER,hana,342
+Nara,FLOWER,hana,342
+Naze,FLOWER,hana,342
+Niigata,FLOWER,hana,342
+Okayama,FLOWER,hana,342
+Okinawa,FLOWER,βanaː,342
+Old_Japanese,FLOWER,hana,342
+Saga,FLOWER,hana,342
+Saitama,FLOWER,hana,342
+Shiga,FLOWER,hana,342
+Shimane,FLOWER,hana,342
+Shizuoka,FLOWER,hana,342
+Taketomi,FLOWER,pana,342
+Tarama,FLOWER,pana,342
+Tochigi,FLOWER,hana,342
+Tokushima,FLOWER,hana,342
+Tottori,FLOWER,hana,342
+Toyama,FLOWER,hana,342
+Tōkyō,FLOWER,hana,342
+Wakayama,FLOWER,hana,342
+Yamagata,FLOWER,hana,342
+Yamaguchi,FLOWER,hana,342
+Yamanashi,FLOWER,hana,342
+Yonaguni,FLOWER,hana,342
+Ōita,FLOWER,hana,342
+Ōsaka,FLOWER,hana,342
+Aichi,LOUSE,ʃirami,343
+Akita,LOUSE,ʃirami,343
+Aomori,LOUSE,surame,343
+Chiba,LOUSE,ʃirami,343
+Ehime,LOUSE,ʃirami,343
+Fukui,LOUSE,ʃirami,343
+Fukuoka,LOUSE,ʃirami,343
+Fukushima,LOUSE,ʃirami,343
+Gifu,LOUSE,ʃirami,343
+Gunma,LOUSE,ʃirami,343
+Hachijō,LOUSE,ʃaɴme,343
+Hiroshima,LOUSE,ʃirame,343
+Hokkaidō,LOUSE,ʃirami,343
+Hyōgo,LOUSE,ʃirame,343
+Ibaraki,LOUSE,ʃirami,343
+Ishikawa,LOUSE,ʃirami,343
+Iwate,LOUSE,surame,343
+Kagawa,LOUSE,ʃirami,343
+Kagoshima,LOUSE,ʃirame,343
+Kanagawa,LOUSE,ʃirami,343
+Kumamoto,LOUSE,ʃirame,343
+Kyōtō,LOUSE,ʃirame,343
+Kōchi,LOUSE,ʃirami,343
+Mie,LOUSE,ʃirami,343
+Miyagi,LOUSE,surame,343
+Miyazaki,LOUSE,ʃirame,343
+Nagano,LOUSE,ʃirami,343
+Nagasaki,LOUSE,ʃirami,343
+Nara,LOUSE,ʃirame,343
+Naze,LOUSE,sɨraɴ,343
+Niigata,LOUSE,ʃirami,343
+Okayama,LOUSE,ʃirami,343
+Okinawa,LOUSE,ʃiraɴ,343
+Old_Japanese,LOUSE,ʃirami,343
+Saga,LOUSE,ʃirami,343
+Saitama,LOUSE,ʃirami,343
+Shiga,LOUSE,ʃirame,343
+Shimane,LOUSE,ʃirami,343
+Shizuoka,LOUSE,ʃirami,343
+Tochigi,LOUSE,ʃirami,343
+Tokushima,LOUSE,ʃirame,343
+Tottori,LOUSE,ʃirami,343
+Toyama,LOUSE,ʃirami,343
+Tōkyō,LOUSE,ʃirami,343
+Wakayama,LOUSE,ʃirame,343
+Yamagata,LOUSE,ʃirami,343
+Yamaguchi,LOUSE,ʃirami,343
+Yamanashi,LOUSE,ʃirami,343
+Ōita,LOUSE,ʃirame,343
+Ōsaka,LOUSE,ʃirame,343
+Hateruma,LOUSE,saːɴ,344
+Hirara,LOUSE,ʔsam,344
+Ikema,LOUSE,ʔsam,344
+Irafu,LOUSE,ʔsam,344
+Ishigaki,LOUSE,ʔsaɴ,344
+Taketomi,LOUSE,ʔsaɴ,344
+Tarama,LOUSE,ʔsam,344
+Yonaguni,LOUSE,ʦaɴ,344
+Aichi,NAME,namɛː,345
+Akita,NAME,namae,345
+Aomori,NAME,namɛː,345
+Chiba,NAME,namɛː,345
+Ehime,NAME,namae,345
+Fukui,NAME,namae,345
+Fukuoka,NAME,namae,345
+Fukushima,NAME,namae,345
+Gifu,NAME,namae,345
+Gunma,NAME,namae,345
+Hachijō,NAME,nameː,345
+Hateruma,NAME,naɴ,345
+Hirara,NAME,naː,345
+Hiroshima,NAME,namae,345
+Hokkaidō,NAME,namae,345
+Hyōgo,NAME,namae,345
+Ibaraki,NAME,namae,345
+Ikema,NAME,naː,345
+Irafu,NAME,naː,345
+Ishigaki,NAME,naː,345
+Ishikawa,NAME,namae,345
+Iwate,NAME,namɛ,345
+Kagawa,NAME,namae,345
+Kagoshima,NAME,namae,345
+Kanagawa,NAME,nameː,345
+Kumamoto,NAME,na,345
+Kyōtō,NAME,namae,345
+Kōchi,NAME,namae,345
+Mie,NAME,naː,345
+Miyagi,NAME,namɛː,345
+Miyazaki,NAME,na,345
+Nagano,NAME,namae,345
+Nagasaki,NAME,namaje,345
+Nara,NAME,namae,345
+Naze,NAME,naː,345
+Niigata,NAME,namae,345
+Okayama,NAME,nameː,345
+Okinawa,NAME,naː,345
+Old_Japanese,NAME,na,345
+Saga,NAME,na,345
+Saitama,NAME,nameː,345
+Shiga,NAME,namae,345
+Shimane,NAME,namae,345
+Shizuoka,NAME,namae,345
+Taketomi,NAME,naː,345
+Tarama,NAME,naː,345
+Tochigi,NAME,name,345
+Tokushima,NAME,namae,345
+Tottori,NAME,namae,345
+Toyama,NAME,naː,345
+Tōkyō,NAME,namae,345
+Wakayama,NAME,naː,345
+Yamagata,NAME,namɛ,345
+Yamaguchi,NAME,namɛː,345
+Yamanashi,NAME,namae,345
+Yonaguni,NAME,na,345
+Ōita,NAME,na,345
+Ōsaka,NAME,namae,345
+Aichi,WHO,døːʦu,346
+Akita,WHO,donoβutp,346
+Aomori,WHO,donoβuto,346
+Chiba,WHO,doɴçito,346
+Ehime,WHO,donoʃito,346
+Fukui,WHO,donoçito,346
+Fukushima,WHO,donoʃito,346
+Gifu,WHO,døːʦu,346
+Gunma,WHO,donoʃito,346
+Hiroshima,WHO,dore,346
+Hokkaidō,WHO,donoçito,346
+Hyōgo,WHO,donoʃito,346
+Ibaraki,WHO,donoçito,346
+Ishikawa,WHO,donoçito,346
+Iwate,WHO,donoçito,346
+Kagawa,WHO,doiʦu,346
+Kagoshima,WHO,doɴʃi,346
+Kanagawa,WHO,donoçito,346
+Kumamoto,WHO,donoçito,346
+Kyōtō,WHO,donoçito,346
+Kōchi,WHO,ɴdonoçito,346
+Mie,WHO,donoçito,346
+Miyagi,WHO,donoçito,346
+Miyazaki,WHO,doɴʃito,346
+Nagano,WHO,donoʃito,346
+Nagasaki,WHO,donoçito,346
+Nara,WHO,donoçito,346
+Niigata,WHO,donoʃito,346
+Okayama,WHO,deːʦu,346
+Saga,WHO,donoçito,346
+Saitama,WHO,donoʃito,346
+Shiga,WHO,donoçito,346
+Shimane,WHO,donofuto,346
+Shizuoka,WHO,donoçito,346
+Tokushima,WHO,donoçito,346
+Tottori,WHO,donomoɴ,346
+Toyama,WHO,donoçito,346
+Tōkyō,WHO,donoçito,346
+Wakayama,WHO,donoçito,346
+Yamagata,WHO,doeʤi,346
+Yamaguchi,WHO,donoçito,346
+Yamanashi,WHO,donoçito,346
+Ōita,WHO,doitu,346
+Ōsaka,WHO,donoçito,346
+Fukuoka,WHO,dai,347
+Hachijō,WHO,dai,347
+Old_Japanese,WHO,ta,347
+Hirara,WHO,ɴʤipsɨtu,348
+Ikema,WHO,inusɨtu,348
+Irafu,WHO,talnupsɨtu,348
+Tarama,WHO,ɴdinupsɨtu,348
+Naze,WHO,duɴʦʔu,349
+Okinawa,WHO,tanʧuː,349
+Taketomi,WHO,taʔtaː,350
+Aichi,WHERE,doko,351
+Akita,WHERE,doɡo,351
+Aomori,WHERE,doɡo,351
+Chiba,WHERE,doː,351
+Ehime,WHERE,doko,351
+Fukui,WHERE,doko,351
+Fukuoka,WHERE,doko,351
+Fukushima,WHERE,doko,351
+Gifu,WHERE,doko,351
+Gunma,WHERE,doko,351
+Hachijō,WHERE,doko,351
+Hiroshima,WHERE,doko,351
+Hokkaidō,WHERE,doko,351
+Hyōgo,WHERE,doko,351
+Ibaraki,WHERE,doko,351
+Ishikawa,WHERE,doko,351
+Iwate,WHERE,doɡo,351
+Kagawa,WHERE,doko,351
+Kagoshima,WHERE,doko,351
+Kanagawa,WHERE,doko,351
+Kumamoto,WHERE,doko,351
+Kyōtō,WHERE,doko,351
+Kōchi,WHERE,ɴdoko,351
+Mie,WHERE,doko,351
+Miyagi,WHERE,doɡo,351
+Miyazaki,WHERE,doko,351
+Nagano,WHERE,doko,351
+Nagasaki,WHERE,doko,351
+Nara,WHERE,doko,351
+Niigata,WHERE,doko,351
+Okayama,WHERE,doko,351
+Old_Japanese,WHERE,iduku,351
+Saga,WHERE,doko,351
+Saitama,WHERE,doko,351
+Shiga,WHERE,doko,351
+Shimane,WHERE,doko,351
+Shizuoka,WHERE,doko,351
+Tochigi,WHERE,doɡo,351
+Tokushima,WHERE,doko,351
+Tottori,WHERE,doko,351
+Toyama,WHERE,doko,351
+Tōkyō,WHERE,doko,351
+Wakayama,WHERE,doko,351
+Yamagata,WHERE,doko,351
+Yamaguchi,WHERE,doko,351
+Yamanashi,WHERE,doko,351
+Ōita,WHERE,doko,351
+Ōsaka,WHERE,doko,351
+Hirara,WHERE,ɴʣa,352
+Naze,WHERE,daː,352
+Tarama,WHERE,ɴda,352
+Ikema,WHERE,iʤa,353
+Irafu,WHERE,iʣa,353
+Okinawa,WHERE,raː,354
+Taketomi,WHERE,maː,355
