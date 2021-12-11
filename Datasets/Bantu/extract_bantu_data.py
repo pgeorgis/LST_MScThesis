@@ -65,8 +65,39 @@ conversion_dict = {#CONSONANTS
                    'ɡǃ':'ǃ̬ʱ', #voiced aspirated post-alveolar click (Xhosa, North Ndebele)
                    
                    #VOWELS: tones and nasalized vowels
-                   'à':'à', 
-                   'á':'á',
+                   # 'à':'a˨', 
+                   # 'á':'a˦',
+                   #  'â':'a˥˩',
+                   #  'ã':'ã',
+                   #  'è':'e˨',
+                   #  'é':'e˦',
+                   #  'ê':'e˥˩',
+                   #  'ɛ́':'ɛ˦',
+                   #  'ì':'i˨',
+                   #  'í':'i˦',
+                   #  'î':'i˥˩',
+                   #  'ò':'o˨',
+                   #  'ó':'o˦',
+                   #  'ô':'o˥˩',
+                   #  'õ':'õ',
+                   #  'ù':'u˨',
+                   #  'ú':'u˦',
+                   #  'û':'u˥˩',
+                   #  'ě':'e˩˥',
+                   #  'ń':'n˦',
+                   #  'ō':'o˧',
+                   #  'ǎ':'a˩˥',
+                   #  'ǒ':'o˩˥',
+                   #  'ǔ':'u˩˥',
+                   #  'ǹ':'n˨',
+                   #  'ȁ':'a˩',
+                   #  'ȉ':'i˩',
+                   #  'ȍ':'o˩',
+                   #  'ȕ':'u˩',
+                   #  'ḿ':'m˦',
+                   
+                    'à':'à', 
+                    'á':'á',
                      'â':'â',
                      'ã':'ã',
                      'è':'è',
@@ -94,8 +125,8 @@ conversion_dict = {#CONSONANTS
                      'ȍ':'ȍ',
                      'ȕ':'ȕ',
                      'ḿ':'ḿ',
-                     'ẅ':'ẅ',
-                     'ɩ':'ɪ', #uncertain
+                    'ẅ':'ẅ',
+                    'ɩ':'ɪ', #uncertain
                    
                    #Affricates
                    'pf':'p͡f', #Nyanja, Rundi, Shona, Tsonga, Venda
@@ -104,6 +135,15 @@ conversion_dict = {#CONSONANTS
                    'tʃ':'ʧ',
                    'dʒ':'ʤ',
                    'tɬ':'t͡ɬ',     
+                   
+                   #Tones
+                   # '̏':'˩',
+                   # '̀':'˨',
+                   # '̄':'˧',
+                   # '́':'˦',
+                   # '̋':'˥',
+                   # '̂':'˥˩',
+                   # '̌':'˩˥',
                    
                    #Other
                    '\+':'', 
@@ -243,8 +283,15 @@ def fix_tr(tr, lang, orth, gloss):
             fixed = re.sub('ɡǀʼ', 'ǀ̬ʱ', fixed) #voiced aspirated dental click
             fixed = re.sub('rh', 'x', fixed)
             
-    
-        
+    #Reverse order of tonemes and length markings, e.g. '˨ː' --> 'ː˨'   
+    t = '|'.join(tonemes)
+    r = re.search(f'[{t}]+ː', fixed)
+    if r != None:
+        start, end = r.span()
+        fixed = list(fixed)
+        fixed[start+1:end] = fixed[start:end-1]
+        fixed[start] = 'ː'
+        fixed = ''.join(fixed)
     
     return fixed, orth
 
@@ -253,7 +300,7 @@ def fix_tr(tr, lang, orth, gloss):
 Bantu_verbs = ['BITE', 'BURN (SOMETHING)', 'COME', 'COUNT', 'DIE', 'DRINK', 
                'EAT', 'FALL', 'FLY (MOVE THROUGH AIR)', 'GIVE', 'HEAR', 'KILL', 
                'KNOW (SOMETHING)', 'SEE', 'SEND', 'STEAL', 'VOMIT', 'WALK']
-accents = '|'.join(suprasegmental_diacritics)  
+accents = '|'.join(list(suprasegmental_diacritics)+tonemes)  
 uku_ = f"^u[{accents}]*ku[{accents}]*"
 ukw_ = f"^u[{accents}]*kw[{accents}]*"
 oku_ = f"^o[{accents}]*ku[{accents}]*"
@@ -397,7 +444,7 @@ bantu_phones = set([ch for i in bantu_data
                    for ch in bantu_data[i]['Form']])
 
 new_chs = set(phone for phone in bantu_phones 
-              if phone not in all_sounds+diacritics+[' '])
+              if phone not in all_sounds+diacritics+[' ']+tonemes)
 
 def lookup_segment(segment, data=bantu_data, langs=None):
     if langs == None:

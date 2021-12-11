@@ -180,26 +180,37 @@ def fix_tr(word, lang):
             word = re.sub("n'", 'ɲ', word) 
             #see http://turkic.elegantlexicon.com/lxforms.php?lx=tof
         
-        elif lang in ['Turkish', 'Azeri']:
+        elif lang in ['Turkish', 'Azeri', 'Kirghiz', 'Nogai', 'KazanTatar']:
             front_vowels = ['e', 'i', 'ø', 'y', 'æ', 'ɛ']
-            back_vowels = ['a', 'ɯ', 'o', 'u'] #/a/ not changed to /ɑ/ until conversion dict
+            back_vowels = ['a', 'ɯ', 'o', 'u', 'uː'] #/a/ not changed to /ɑ/ until conversion dict
             velar_palatalization = {'k':'c', 'g':'ɟ'} #not changed to /ɡ/ until conversion dict
             
-            #Palatalization of velars adjacent to front vowels
-            for velar_stop in velar_palatalization: 
-                palatalized = velar_palatalization[velar_stop]
-                for front_vowel in front_vowels:
-                    word = re.sub(f'{velar_stop}{front_vowel}', f'{palatalized}{front_vowel}', word)
-                    word = re.sub(f'{front_vowel}{velar_stop}', f'{front_vowel}{palatalized}', word)
-            
-            if lang == 'Turkish':
-                #/ɫ/ adjacent to back vowels, /lʲ/ adjacent to front vowels
-                for back_vowel in back_vowels:
-                    word = re.sub(f'l{back_vowel}', f'ɫ{back_vowel}', word)
-                    word = re.sub(f'{back_vowel}l', f'{back_vowel}ɫ', word)
-                word = re.sub('l', 'lʲ', word)
+            #Palatalization of velars adjacent to front vowels (not in Nogai or Kazan Tatar)
+            if lang not in ['Nogai', 'KazanTatar']:
+                for velar_stop in velar_palatalization: 
+                    palatalized = velar_palatalization[velar_stop]
+                    for front_vowel in front_vowels:
+                        word = re.sub(f'{velar_stop}{front_vowel}', f'{palatalized}{front_vowel}', word)
+                        word = re.sub(f'{front_vowel}{velar_stop}', f'{front_vowel}{palatalized}', word)
                 
-                word = re.sub('yʃtynde', 'ystynde', word) #mistranscribed word in Turkish
+            if lang in ['Turkish', 'Kirghiz', 'Nogai', 'KazanTatar']:
+                for back_vowel in back_vowels:
+                    if lang not in ['Nogai', 'KazanTatar']:
+                        word = re.sub(f'l{back_vowel}', f'ɫ{back_vowel}', word)
+                        word = re.sub(f'{back_vowel}l', f'{back_vowel}ɫ', word)
+                    
+                    # /ɡ/ --> /ʁ/ in back vowel contexts in Kyrgyz and Nogai
+                    if lang in ['Kirghiz', 'Nogai', 'KazanTatar']:
+                        word = re.sub(f'g{back_vowel}', f'ʁ{back_vowel}', word)
+                        word = re.sub(f'{back_vowel}g', f'{back_vowel}ʁ', word)
+                    
+                #/lʲ/ adjacent to front vowels in Turkish
+                if lang == 'Turkish':
+                    word = re.sub('l', 'lʲ', word)
+                
+                    #Correct specific Turkish words
+                    word = re.sub('yʃtynde', 'ystynde', word) #mistranscribed word in Turkish
+                    word = re.sub('iʨmec', 'iʨ', word) #reduce to root form, as in other languages
             
             elif lang == 'Azeri':
                 word = re.sub('bɛrk', 'bɛrc', word) #palatalized velar which would not be captured by above rules
@@ -209,6 +220,7 @@ def fix_tr(word, lang):
             word = re.sub('z', 'ʃ', word)
             word = re.sub('x', 'z', word)
             
+            #Problematic/ambiguous Cuman graphemes
             #c(h), x, z, ɡ, s, e, o 
             
             

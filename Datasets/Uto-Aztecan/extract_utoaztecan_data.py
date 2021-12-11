@@ -60,6 +60,7 @@ conversion_dict = {#Consonants
                    'tʃ':'ʧ',
                    'ʈʂ':'ʈ͡ʂ',
                    'tˡ':'t͡ɬ',
+                   'tl':'t͡ɬ',
                    
                    #Diphthongs
                    'ae':'ae̯',
@@ -120,6 +121,10 @@ def fix_tr(tr):
         fixed.append(seg)
     
     fixed = ''.join(fixed)
+    
+    #Convert again
+    for seq in conversion_dict:
+        fixed = re.sub(seq, conversion_dict[seq], fixed)
     
     return fixed
 
