@@ -1,0 +1,812 @@
+	Badga	Betta Kurumba	Brahui	Gondi	Kannada	Kodava	Kolami	Kota	Koya	Kurukh	Kuwi	Malayalam	Malto	Ollari Gadba	Parji	Tamil	Telugu	Toda	Tulu	Yeruva
+ALL_1	ella				ella	ella		ellaːm				ella				ellaːm				
+ALL_2			kull																	
+ALL_3									mottam								mottamu			
+ALL_4							maːk												maːta	
+ALL_5									antaː								anta~anni			
+ALL_6										majin	haɾa									
+ALL_7				bottiɡ									ɡoːʈahiː~ɡiːʈeniː							
+ALL_8																				nanɡaːɭə
+ALL_9		oːʈəja																		
+ALL_10																		oʋʋoɖimo		
+ASH_1									buːɖida								buːɖida			
+ASH_2		piːdi			buːdi	buːdi												puːdi		buːdi
+ASH_3												ʧaːmbal				saːmbal				
+ASH_4			his	niːɾ																
+ASH_5										ʧind		ʧaːɾam		niɖ	nĩd				ʧuːnja~ʧoːnja	
+ASH_6							buɡɡi													
+ASH_7								poːdu atukə												
+ASH_8	kolabuːdi																			
+BARK_1									beɾaɖu	oːɖak							beɾaɖu			
+BARK_2				toːl																toːlu
+BARK_3		meɾtoːlə										maɾattoli								
+BARK_4			bund																	
+BARK_5								kolluʧo												
+BARK_6					naːɾu															
+BARK_7						ʧekke														
+BARK_8																			ketta	
+BARK_9					toɡaʈi				danʈi											
+BARK_10	paʈʈe					aʈʈe						paʈʈa				paʈʈe	paʈʈa			
+BARK_11																		puʈkoɾi		
+BARK_12							ɖanɖi maɖɖa													
+BELLY_1													puɖaː							
+BELLY_2																	kaɖupu			
+BELLY_3											banɖi					tonti			banʤi	
+BELLY_4														puduɡ						baːɾə
+BELLY_5			peɖʰ	piːɾ								ʋajaɾə				vayiru		piɾ		baiɾu
+BELLY_6									ɖokka	kuːl										
+BELLY_7	oʈʈe	poʈʈi			hoʈʈe~hoʈʈa	poʈʈe									poʈʈa	toppai	poʈʈa			
+BELLY_8							ʈeʈʈe													
+BELLY_9								naɖpeːʈɡu												
+BIG_1	doɖɖadə				doɖɖadu															
+BIG_2																		ittuːɖə		
+BIG_3											beːɾ			muɾe						
+BIG_4								toɖut							beɾto					
+BIG_5						baljadə						ʋaludə								baleji
+BIG_6										koha			beːɖo						malla	
+BIG_7		dappu	ballun																	
+BIG_8				pedda					beɾɾa							peɾija~peɾəsə	pedda			
+BIRD_1																paɾaʋai		paɾaʋai		
+BIRD_2		pikki			hakki~pakʂi	pakʂi						pakʂi					pakʂi		pakki	pakʧi
+BIRD_3								pakkiɡaɭ												
+BIRD_4				piʈʈə			piʈʈa										pitta			
+BIRD_5									piʈʈeːku											
+BIRD_6													puʤudu							
+BIRD_7														titə						
+BIRD_8										oɖa		kili								
+BIRD_9			ʧok																	
+BIRD_10											minu									
+BITE_1													koːhi							
+BITE_2																			tinaːɾa	
+BITE_3			kaat kanninɡ																	
+BITE_4												kadikkuɡa								
+BITE_5									koɾaka						koɾk		koɾuku			
+BITE_6	kaʧʧə	kaɖi~kajɾi		kask	kaɖi~kaʧʧu	kaɖi		kaɖə	kaʧʧaː	kʰaʧʧna	kaʧine					kaɖi				kaɖi
+BITE_7							atekaʂin													
+BITE_8																		paɾʧiʈʧi		
+BLACK_1										mokʰaɾo			maɖhaɾo							
+BLACK_2									nalla								nalupu~nalla			
+BLACK_3						kaɾtadə														kaɾtaji
+BLACK_4				kaɾə	kaɾu				kaːʈe		kadia									
+BLACK_5	kappə				kappu			kaɾuppə				kaɾuppə				kaɾəppə		kappə	kappu	
+BLACK_6		kaɾtənu ipədə																		
+BLACK_7							ɖaːɾiate													
+BLACK_8			maːon																	
+BLOOD_1					ɾakta							ɾektam				ɾattam	ɾaktamu			
+BLOOD_2	ɾattə																			
+BLOOD_3	nettuɾu	nəttəɾə	ditaɾ	nettuɾ			nettuɾ	neːtuɾu	nettuɾ		nettiɾ			nettiɾ	netiɾ		nettuɾu		nettaɾə	
+BLOOD_4						ʧoːɾə						ʧoːɾa								ʧoːɾe
+BLOOD_5										kʰeːns								poːkʰə		
+BLOOD_6													ɾasadu							
+BONE_1										kʰoʧol			oːʧuldiː							
+BONE_2												asti								
+BONE_3		jaləʋə			jelubu			jeluʋə								elumbə				
+BONE_4	ilə											ellə						elf	ellə	
+BONE_5			aɖɖə																	
+BONE_6					muːɭe	muːɭe			buːlaː~buːlk						bũla					muːɭe
+BONE_7				bokka			bokka										jemuka~bokka			
+BREAST_1									eddam						edɾam					
+BREAST_2					ede															
+BREAST_3	maːɾə					mele		meːl				maːru~mula				maːɾbə~maːɾə				mele
+BREAST_4							saːtti							palɡil						
+BREAST_5				dudo													ɡunde			
+BREAST_6		kujndiɡi																		
+BREAST_7			xad																	
+BREAST_8													daibuku							
+BREAST_9											sipadaki							niʤikuɖi		
+BREAST_10					stʰana							stanam					stʰanamu			
+BREAST_11										jeʋakʰ									tiɡala	
+BURN_1										olna										
+BURN_2																eɾi				
+BURN_3				niɾus																
+BURN_4	kiʧiːkdə																			
+BURN_5												katikkuɡa								
+BURN_6			xaːxaɾ tinninɡ																	
+BURN_7																			pottaʋaɾa	
+BURN_8																		tiːkku kaːttiti		
+BURN_9		bjaːɭ~ben																		
+BURN_10									maɳɖu								maɳɖu			
+BURN_11					suɖu	ʧuːɖə														ʧuːɖə
+BURN_12		kattu~kettu						kaːto					meːda				kaːlu			
+BURN_13							ɡonɖka													
+CLAW_1												nakʰam				naɡam				
+CLAW_2																				ummi
+CLAW_3								kaijoːɾu												
+CLAW_4														kaʂʋanɖe						
+CLAW_5		kiːjəɡɡəɾə																		
+CLAW_6			hoɾ ad			ʋoji									ɡẽɾi					
+CLAW_7	uɡilə			ɡoɾk	uɡaɾu		ɡoːɾ		ɡoːɾk								ɡoːɾu	juːɾ	uɡuɾu	
+CLAW_8											ɡaɾka									
+CLAW_9										oɾokʰ			oɾuɡdu							
+CLAW_10			zeel																	
+CLOUD_1										badaːli			badliː							
+CLOUD_2							aːbaɾ													
+CLOUD_3											dunɖaɾa									
+CLOUD_4	manʤu			mabbu					mabbu		haːɡu						mabbu			
+CLOUD_5															malɡuɾ					
+CLOUD_6			ʤammaɾ																	
+CLOUD_7		moːɖə			moːɖa	moːɖa											moːɖamu		moːɖa	moːɖa
+CLOUD_8					mẽɡha			meːɡam				mekʰam				meːɡam	meːɡʰamu	meːɡam		
+COLD_1										kiːɾna			kiʋa							
+COLD_2	koɾuʋə							koɾʋə										koɾti		
+COLD_3																kuɭiɾʧi				
+COLD_4		səjlijə																		
+COLD_5						talinʤadə														
+COLD_6			jakʰ~jax	sallaɡ		koːʈa			sallaː								ʧalla		ʧappa	
+COLD_7							pani								paɲil					
+COLD_8					taɳɳiɡe								panijaː							taɳiʤe
+COLD_9												taɳuppə								
+COME_1	pappa																ʋaʧʧu			
+COME_2										baɾna		ʋaɾuɡa	baɾəaː						baɾaɾa	
+COME_3									ʋaːdaɖam											
+COME_4			banninɡ																	
+COME_5		baːɾ~ban~bu		ʋa	baɾu~baː	baː	ʋa		ʋa					ʋa	veɾ	ʋaː	ɾa			baː
+COME_6																		paːɾti		
+DIE_1	saːʋadə							taːʋə												
+DIE_2				haː	saːji	ʧːɭa									cay	ʧaː				ʧaːɭa
+DIE_3			kahinɡ																	
+DIE_4																			sajjaɾa	
+DIE_5							tiɡteːn													
+DIE_6									ɖollatam											
+DIE_7										kʰena										
+DIE_8																sattə po				
+DIE_9																	ʧaʧʧipoːʋu			
+DIE_10		maɾdoːɡ																		
+DIE_11												maɾikkuɡa								
+DIE_12													keəaːnaːkeəidaːh							
+DIE_13																		keɖuoisi		
+DOG_1	ne	naːjə		nej	naːji	naːji		naːji	nej			naːja		ne		naːji		noi	naːji	naːji
+DOG_2			kuʧak				aːte													
+DOG_3															netta					
+DOG_4													kuʧʧo				kukka			
+DOG_5										alla		paʈʈi								
+DRINK_1			kuninɡ																	
+DRINK_2																	taːɡu			
+DRINK_3																			paɾijaɾa	
+DRINK_4					kudijoːdu															
+DRINK_5							aniɾusaːt													
+DRINK_6	kuɖapə	kuɖi~kujɾi			kuɖi	kuɖipa						kuʈi				kuɖi				kuɖipə
+DRINK_7												kudikkuɡa								
+DRINK_8				un					unnu	onna			hoːnaː	un	un					
+DRINK_9								unatukə												
+DRINK_10																		uʈʈudi		
+DRY_1									poɖi								poɖi			
+DRY_2			baːɾun																	
+DRY_3										kʰajka			aːikaː							
+DRY_4																kaːnʤə				unaku
+DRY_5																	eɳɖu			
+DRY_6								kanʈiko												
+DRY_7									aɾtaːd											
+DRY_8																kaindadə				
+DRY_9				ʋaʈʈa	battida							vaɾaɳʈa								
+DRY_10																ulaɾnta				
+DRY_11	oɳikiladə				oɳaɡidu	oɳanɡina						uɳanɡija						oɳikisi		
+DRY_12		ajnɡənu ipədə																		
+DRY_13																			nunɡuduna	
+DRY_14							aːtiɾ													
+EAR_1														kekal	kekol					
+EAR_2										kʰebda		kaːtu				kaːdə				
+EAR_3		kiʋija									kiɾiju									
+EAR_4	kiʋi		xaf	keʋu	kiʋi	kemi	keʋ	keʋə	keʋ~keʋk			ʧeʋi					ʧeʋi	kili	kebi	kemi
+EAR_5													daɾtiː							
+EARTH (SOIL)_1										kʰekʰel				tukud	tũk					
+EARTH (SOIL)_2											iɾaː									
+EARTH (SOIL)_3																		koɖə		
+EARTH (SOIL)_4				mannə	maɳɳu	mannə			maʈʈi			mannə				mannə	mannu~maʈʈi		mannə	
+EARTH (SOIL)_5		buːmi					bʰuːmi				bʰumi		bʰumi							
+EARTH (SOIL)_6			ɖaɡaːɾ																	
+EARTH (SOIL)_7								bʰuloːɡam												
+EAT_1	timbə	tinn			tinnu	tinə			tinnu		tinu	tinnuɡa		tin	tin		tinu			tinnoː
+EAT_2								tin atej										toɾtin		
+EAT_3							aːntisatun													
+EAT_4				ʤeʋi															uɳaːɾa	
+EAT_5													lapah							
+EAT_6										mokʰna										
+EAT_7																saːpədə				
+EAT_8			kuninɡ																	
+EAT_9													ʤaːɡoːlpah							
+EGG_1			baede																	
+EGG_2										biː										
+EGG_3									ɡaɾbam								ɡuɖɖu			
+EGG_4	moʈʈe	mujɾɡi			moʈʈe	muʈʈe		mooʈə				muʈʈa				muʈʈe		muʈʈe		muʈʈe
+EGG_5				miːnʤ																
+EGG_6					tatti														ketti	
+EGG_7							sanku				tala									
+EGG_8			xuahae																	
+EGG_9														kaɾbə						
+EGG_10													ɾaɾapaːndu							
+EYE_1	kaɳɳə	kaɳɳu	xan	kəɖə	kaɳɳə	kaɳɳə	kan	kaɳɳə		kʰann	kanu	kaɳɳə		kaɳul	kan	kaɳɳə	kannu	kaɳ	kaɳɳu	kaɳɳə
+EYE_2									koɳɖ											
+EYE_3													aːndu							
+EYE_4												neːtɾam								
+FAT (FROM ANIMALS)_1					kobbu												koʋʋu			
+FAT (FROM ANIMALS)_2								koɭupu							koɽukuɖ					
+FAT (FROM ANIMALS)_3	koɭəppə											koɻuppə				koɻuppə		koɻəppə		
+FAT (FROM ANIMALS)_4				koɾonʤ																
+FAT (FROM ANIMALS)_5									kodoʋoːs											
+FAT (FROM ANIMALS)_6										neʈa			neʤʤa							
+FAT (FROM ANIMALS)_7			ʧaɾpiː			ʧeɾabi													ʧeɾabi	ʧiɾabi
+FAT (FROM ANIMALS)_8		teɾija												meːn						
+FAT (FROM ANIMALS)_9									laːʋ								laːʋu			
+FAT (FROM ANIMALS)_10		tanniʋi																		
+FEATHER_1	ɾakke							ɾeːkə	ɡeɾk							ɾekke		iɾakke		
+FEATHER_2				buɾa			bull													
+FEATHER_3					ɡaɾi								pakiː							
+FEATHER_4			paɾɾe																huʋi	
+FEATHER_5										penʧo										
+FEATHER_6					tupaʈa	topaʈa						tuːʋalə								
+FEATHER_7																				toːpəʈaː
+FEATHER_8		tiʋija																		
+FEATHER_9																	iːka			
+FIRE_1												teː				teː			tuʋu	tiː
+FIRE_2						titta				ʧiʧʧ			ʧiʧadu					tiːttə		
+FIRE_3	kiʧʧə	tissə~tiʧʧa					kiss		kis						kic					
+FIRE_4			xaːxaɾ																	
+FIRE_5								nippu								neɾuppu	nippu			
+FIRE_6									neɡɡaɖ											
+FIRE_7												aɡni					aɡɡi			
+FIRE_8					benki															
+FIRE_9											dankeɾe									
+FIRE_10				taɖmi																
+FIRE_11																	maɳʈa			
+FISH_1							ɡuɖɖi													
+FISH_2																	ʧeːpa			
+FISH_3															key					
+FISH_4									kiːke											
+FISH_5										inʤo										
+FISH_6	miːnə	miːnu		miːn	miːnə	miːnə		miːnə				miːn	miːndu	miːn		miːnə		miːn	miːnə	miːnə
+FISH_7					maʦya							malsjam								
+FISH_8			maʧʧiː																	
+FLY (MOVE THROUGH AIR)_1	paɾappə																			
+FLY (MOVE THROUGH AIR)_2												paɾakkuɡa								
+FLY (MOVE THROUGH AIR)_3		paːɾ~peːɾ		paɾi	haːɾu	paːɾa		paːɾʋu								paɾə		poːɾʧ		
+FLY (MOVE THROUGH AIR)_4																			ɾaːpaɾa	
+FLY (MOVE THROUGH AIR)_5																	eɡuɾu			
+FLY (MOVE THROUGH AIR)_6							tulsaːd		tulla											
+FLY (MOVE THROUGH AIR)_7										uɖijaɾna										
+FLY (MOVE THROUGH AIR)_8													uɖaːɾi							
+FLY (MOVE THROUGH AIR)_9			baːl kanninɡ																	
+FLY (MOVE THROUGH AIR)_10																				mannə
+FOOT_1			nat		aɖi				aɖuɡu			aʈi				aɖi	aɖuɡu			
+FOOT_2													ɾaɖadu							
+FOOT_3	anɡaːlə					anɡaːl														
+FOOT_4		kaːlə		kaːl						kʰeɖ						kaalə		koːl	kaːlə	kaːlə
+FOOT_5					paːda						paːdami	paːdam		paːdam		paːdam	paːdamu			
+FOOT_6								tapaɖ												
+FOOT_7							ʤeʈʈa													
+FULL_1				niɳɖ			ninɖu		ninɖaː	nindka		niɾaɲa	nindpaː			nirainta	ninɖu			
+FULL_2																			dinʤidunɖu	
+FULL_3	tʰumbe				tumbidu	dumba														dumba
+FULL_4		fullə	puɾ											puneʈ		muɭu				
+FULL_5											ɡuɾa									
+FULL_6																		soːkkaije		
+GIVE_1											taa					taː				
+GIVE_2									iːdatam								iʋʋaɖam			
+GIVE_3																		itʧadta		
+GIVE_4	koɖu	koɖ			koɖu	koɖi										kuɖə			koɾo	koɖu
+GIVE_5			tinninɡ																	
+GIVE_6												koɖukkuɡa								
+GIVE_7							siːtaːn			ʧihna			ʧibaːh							
+GIVE_8								tej	iːm											
+GIVE_9				hi										ʧi	cĩ					
+GIVE_10																	iʧʧu			
+GOOD_1				assal															eɖɖedana	
+GOOD_2	oɭɭajadə				oɭɭijadu															
+GOOD_3							sobhatan													
+GOOD_4								oludə										ulti		
+GOOD_5											nejun		heːɖu~ɾaɖu							
+GOOD_6		nall				nalla						nalla				nalla				nallə
+GOOD_7									manʧid								manʧi			
+GOOD_8			ʤuaːn																	
+GOOD_9										daːʋ										
+GREEN_1				hiː											pay					
+GREEN_2							niɡuɾ													
+GREEN_3											nilia									
+GREEN_4			ɡuanakki										ɾanalo							
+GREEN_5		passlaːnɡi~paʧʧəlaːnɡi																		
+GREEN_6	paʧʧe			paʧʧad		paʧʧe		paʧʧə	paʧʧa			paʧʧa				paʧʧə	paʧʧa	paʧʧai	paʧʧe	paʧʧe
+GREEN_7					hasiɾu						kasuli									
+GREEN_8											aːkupaʧʧa									
+GREEN_9										haɾijaːɾ										
+HAIR (HEAD)_1	oɾame											ɾõmam								
+HAIR (HEAD)_2								manɖə miːɾə												
+HAIR (HEAD)_3																	veɳʈɾukalu			
+HAIR (HEAD)_4						telami							taːli							tilami
+HAIR (HEAD)_5				kel	kũdalu~kuːdalu				kelk										kuːʤal	
+HAIR (HEAD)_6		taːkəɾə												talʧenʈi						
+HAIR (HEAD)_7																maiɾə		miːɾs		
+HAIR (HEAD)_8											bana									
+HAIR (HEAD)_9												muɖi				muɖi				
+HAIR (HEAD)_10			puʒʒe							ʧuʈʈi										
+HAIR (HEAD)_11									ʤuʈʈul								ʤuʈʈu			
+HAIR (HEAD)_12							tiːɾu							ʧendi						
+HAND_1	kaj	kiːja	ɖuː	kaj	kaj	kaj		kaij	kaj			kaj		kiː	key	kaj		koi	kai	kaj
+HAND_2							keju			kʰekkʰa	keju		ʈeʈu							
+HAND_3																	ʧejji			
+HEAD_1										kuk			kukudu							
+HEAD_2	manɖe	maɳɖi				maɳɖe		manɖə										maʈʈə	manɖa	
+HEAD_3				talla	tale		tal		talakaːj			tala		taːl	tel	talə	tala			tile
+HEAD_4											tɾajun									
+HEAD_5			kaːʈum																	
+HEAD_6												ʂiɾasə								
+HEAD LOUSE_1		pjaːnu	boːdʰ		heːnu	peːnə	paːnu			peːn		peːn			pẽni	peːnə	peːnu		peːn	peːnə
+HEAD LOUSE_2				poɾki					poɾiki											
+HEAD LOUSE_3	ili~kili							paiji												
+HEAD LOUSE_4																		iɾs		
+HEAR_1	keːpə	kəːɭ			keːɭu	keːɭə		keːlə	keːʤa			kelkuɡa				keːɭə		keːl		keːɭu
+HEAR_2							ʋinti										ʋinu			
+HEAR_3				kenʤ						menna			meːna~meːnpo		ven				keɳaɾa	
+HEAR_4			bininɡ																	
+HEART_1		jaddi																		
+HEART_2																		manasə		
+HEART_3													huɡliː							
+HEART_4								nenʤu						ʤibe						nenʤi
+HEART_5			ust																	
+HEART_6				ɡuɳɖe			ɡunɖe			buka							ɡuɳɖa			
+HEART_7									ɡuɳɖekaːja											
+HEART_8					hɾudaya	hɾudaja						hɾudajam					hɾudajamu			
+HEART_9																idajam				
+HEART_10							paːnam													
+HORN (ANATOMY)_1			maɾɡʰ							maɾaɡ			maɾɡadu							
+HORN (ANATOMY)_2				koɾ														kuːɾ		
+HORN (ANATOMY)_3	kombə	kombbə			kombu	kombə	kommu		komm			kompə				kombə	kommu		kombu	kombə
+HORN (ANATOMY)_4									koːkku											
+HORN (ANATOMY)_5														kaɾ ɡuʧul						
+I_1	na										mu									
+I_2		naːʋə		nanna	naːnu	naːnə	neːnu	aːn	nanna	aeːn	naːnu	ɲaːn	heːnu	aːn	aːn	naːn	neːnu	oːn	jaːnu	naːn
+I_3			iː																	
+KILL_1	koppə				kollu	kollə						kolluɡa				kollə				kollə
+KILL_2																		keɖukisti		
+KILL_3								taːʋiɾ												
+KILL_4																			keɾijaɾa	
+KILL_5				kʰatamki																
+KILL_6																	ʧampu			
+KILL_7				haʋka					aʋakaː											
+KILL_8										eɖabna										
+KILL_9													baʤpo							
+KILL_10			kasfinɡ																	
+KILL_11							alanɡʈaːn													
+KILL_12		kenɡaːɭ																		
+KNEE_1				tonɡɾa																
+KNEE_2									boʈmiɳɖaː											
+KNEE_3	muʈʈi				maɳɖi	maɳɖi						muʈʈə				muʈʈi		muʈʈi		
+KNEE_4							muɖsu			muka			muːka			muːʈə				
+KNEE_5					muɳakaːlo							muɻaŋkaːl				muɻaŋkaːl				muːlekaːlə
+KNEE_6								moːɡaːl	moːkaːl								moːkaːlu			
+KNEE_7											mendaja			ʋanɡul						
+KNEE_8		mannɡaːlə																		
+KNEE_9			ɡoːɖ																	
+KNEE_10																			meɳakaːləɡanʈu	
+KNOW_1			ʧaːinɡ											sun	pun					
+KNOW_2							uɾtanɖaːt													
+KNOW_3																		aɾspini		
+KNOW_4	aɾaʋə				aɾi	aɾi										ari				aɾiʋo
+KNOW_5										akʰna		aɾajuɡa								
+KNOW_6													haːhpo							
+KNOW_7					telidiko				teluseː							teɾijum~teɾinʤuko	telusuko~telusukonu			
+KNOW_8																			teɾijaɾa	
+KNOW_9				jeɾpaʈ													eraːɡu			
+KNOW_10		ɡottaːɡ																		
+KNOW_11								asuːbej												
+KNOW_12													sikaːɾpo							
+KNOW_13		ɡott uɳɖi																		
+KNOW_14													baɖeminpo							
+LEAF_1	elə	jali			jele			eːlu				ila				ele		eɾs	iɾa	ele
+LEAF_2				aːki			aːk		aːkiː								aːku			
+LEAF_3										atkʰa			haːtʰa		ev					
+LEAF_4			pann																	
+LEAF_5														ʈunɖe						
+LEAF_6						elakaɳɖa														
+LEAF_7											patɾa									
+LIE (REST)_1					malaɡu										maɖ					
+LIE (REST)_2				miɳɖsi																
+LIE (REST)_3		baːɖ		dolsi																
+LIE (REST)_4																		poaʈʧiː		
+LIE (REST)_5													koːɖpo			keɖə				
+LIE (REST)_6	haɖaʋə															paɖə	paɖukonu			
+LIE (REST)_7		baːʈɳu iːɾ																		
+LIE (REST)_8																			buɾoːnaɾa	
+LIE (REST)_9						budda				paiha										biːndo
+LIE (REST)_10									unʤa											
+LIE (REST)_11										fasijaːɾ										
+LIE (REST)_12												kiɖakkuɡa								
+LIE (REST)_13																		pokkum		
+LIE (REST)_14			dɾoɡʰ taɖinɡ																	
+LIE (REST)_15							labaːɖ muɖsati													
+LIVER_1								iːɾu				ĩɾal			taɾuŋɡ	iːɾaɭ				
+LIVER_2					hĩɾi								ʧedɾo							
+LIVER_3							kaleja										kaːlejamu			
+LIVER_4									kaːʤam			kaɾaɭə								
+LIVER_5														taɖinɡ						
+LIVER_6						tombe														tombe
+LIVER_7				taɾki						umbalkʰo										
+LIVER_8		tədlə																		
+LIVER_9			ʤaɡaɾ																	
+LIVER_10																		kuɖaːl		
+LIVER_11					medaʤiːɾika															
+LONG_1	utta	uddu			udda	uddə													uda	
+LONG_2							poɖaːm										poɖaʋu			
+LONG_3									poɖaʋuʈaːdu											
+LONG_4			muɾɡun																	
+LONG_5										diɡaːh			diɡaɖo							
+LONG_6								niːtam				niːnɖa~niːlamuɭɭa				nĩɳʈa~niːɭam~niːɭamaːna				niːʈa
+LONG_7																		neɾti		
+LONG_8				laːm																
+MAN_1					puɾuʂa							puɾuʂan					puɾuʂuɖu			
+MAN_2									maɡaʋaːɳɖ								maɡaʋaːɖu			
+MAN_3							maniʂaːn													panija
+MAN_4		ɡəɳɖaɭə			ɡanɖasu			ɡanmaɡu												
+MAN_5				mankal					peːkaːl		kakasi									
+MAN_6											kodomi									
+MAN_7	kanɖumuɡa																			
+MAN_8										meːt			muɖsaː							
+MAN_9			naɾeenə																	
+MAN_10																aːmbɭe				
+MAN_11						aːnaaɭə						aːɳə				aːɳə~aːɳ			aːnʤʋu	
+MAN_12											ɖola									
+MAN_13																		aːlom		
+MANY_1								iːʤoːɖ												
+MANY_2									beʧʧoːko											
+MANY_3				ʤaːsta		dumba														tumba
+MANY_4	appaɾa																	uppuːm		
+MANY_5			baːz																baːɾi	
+MANY_6					halaʋu				ʧaːla			pala				palə	ʧaːla			
+MANY_7				ʋellen						baɡɡe										
+MANY_8													diːkehi~ɡaːɖehi							
+MANY_9							peɾe									neɾija				
+MANY_10		kajɾijə																		
+MANY_11												ottiɾi								
+MANY_12																	naːnaː			
+MEAT_1					maːmsa							maːmsam					maːmsamu		maːsa	
+MEAT_2								keteɾi												
+MEAT_3																kaɾi				
+MEAT_4		əɾsi				eɾaʧi						iɾaʧi				iraicci				iɾaʧi
+MEAT_5							muɾija													
+MEAT_6	paːɖə~paːɡə				baːɖu			podu					maːkɖu					piːt		
+MEAT_7			suː						anɡiː	ahɖaː										
+MEAT_8				haʋʋi																
+MOON_1					candɾa~ʧendɾa	ʧendɾa						ʧendɾan				cantiɾan			ʧendɾe	
+MOON_2																	ʧendɾuɖu			
+MOON_3										ʧando										
+MOON_4									sanɖamaːma											
+MOON_5	tinɡuʋa																			
+MOON_6				ʤanɡo							lenʤu									
+MOON_7													bilpdu							
+MOON_8			ʈuːbe					unaːʋə												
+MOON_9							nela	nelavə	nella					nelinɡ	neliɲ	nila		nila		nilaʧi
+MOON_10		pəɾi																		
+MOUNTAIN_1												paɾʋatam					paɾʋatamu			
+MOUNTAIN_2	male											mala				malai				
+MOUNTAIN_3																			daːɾi	
+MOUNTAIN_4		bəʈʈə		meʈʈa	beʈʈa				meʈʈa	paɾta										
+MOUNTAIN_5								ʋeːʈume						kappe						
+MOUNTAIN_6																		tiʈʈə		
+MOUNTAIN_7						kundə											konɖa			kundə
+MOUNTAIN_8			maʃ						ɡubal											
+MOUNTAIN_9							danɖimeːʈ													
+MOUNTAIN_10													beːɖo pahaːɖi							
+MOUTH_1							muːti				ɡuʈi									
+MOUTH_2				toɖɖi																
+MOUTH_3	pe	baːjə	baː		baːji	baːji		ʋaːji				ʋaːja		ʧaːlu	vaːy	ʋaːji~ʋaː		poːi	baːji	baːji
+MOUTH_4									pavuːɾ	baji										
+MOUTH_5													toɾo							
+MOUTH_6																	noːɾu			
+NAME_1										naːme			naːmi							
+NAME_2	esaɾə	pjaːɾə	pin	poɾol	hesaɾu	peda	peːɾ	peːɾ	pedeɾ			peɾə			pidiɾ	peːɾə	peːɾu	peːɾ	pudaɾə	peːɾu
+NAME_3											doɾu									
+NECK_1			lex				mak													
+NECK_2																		maɾ		
+NECK_3				ɡuɖunɡa									ɖoːnɖo							
+NECK_4		kpːmaːɭi																		
+NECK_5								kaɖateːl												
+NECK_6					kuthiɡe															
+NECK_7																			kekkilə	
+NECK_8	katə											kaɻutə				kaɭuttə				
+NECK_9													asaɾdu							
+NECK_10														kanɖ						
+NECK_11										kʰesiɾ										
+NECK_12						boːɭe											meɖa			boːɭe
+NECK_13									meɖakaːja											
+NEW_1							kota		kottad								kotta			
+NEW_2	ostə				hosadu														posatta	
+NEW_3				puna						puːna	puni		puːna		pun					
+NEW_4						pudija		pudijadə				pudija				pudusə~pudu		puduːn		pudijai
+NEW_5			puːskun																	
+NEW_6		pəjjmən																		
+NEW_7														nia						
+NIGHT_1					ɾaːtɾi							ɾaːtɾi				ɾaːtɾi	ɾaːtɾi		ɾaːtɾe	
+NIGHT_2				naɾkaɖ																
+NIGHT_3													ɾaːti							
+NIGHT_4																				andi
+NIGHT_5										maːha			maːaː							
+NIGHT_6	iɾə		nam													iɾaːʋə~ɾaːʋə				
+NIGHT_7						bajiʈə														
+NIGHT_8								eːlumaɾam												
+NIGHT_9									mulipe											
+NIGHT_10							siɾbedin													
+NIGHT_11		ədlə																		
+NIGHT_12											laːn									
+NIGHT_13																		ekkaːɖə		
+NOSE_1											munɡeli			munɡan						
+NOSE_2				mosoɾ					mossoːɾ				musoː							
+NOSE_3																		mittuːp		
+NOSE_4	muːkə	muːkkə			muːɡə	muːkkə	muːkk	muːkə				muːkə				muːkə	mukku		muːɡu	muːkkə
+NOSE_5															muvãɖ					
+NOSE_6										muːji										
+NOSE_7			baːmus																	
+NOT_1	kulle			helle		ille		illa	ille			illa				ille				ille
+NOT_2		ila~ala	aːxa		alla					mala			malaː							
+NOT_3							kaːdu										leːdu~kaːdu			
+NOT_4																			aːtu	
+NOT_5																		aːɖudi		
+NOT_6													hambija							
+NOT_7			ne																	
+ONE_1			asit					oːdit												
+ONE_2	ondə	ʋandə		ondi	ondu	ondə				oːnd	ɾanɖi	onnə	oːnd			onnə			onʤi	onʤu
+ONE_3															ok		okaʈi			
+ONE_4							okkoːt		oɾɾoːʈ											
+ONE_5														okuʈi				uttə		
+PERSON_1		aːɭə~aːɭu								aːl										
+PERSON_2				lokuɾ																
+PERSON_3	kanɖə																			
+PERSON_4																		kinnuːɖə		
+PERSON_5			bandaɡ										malah							
+PERSON_6					manusa	manasa	maniʂaːn					manuʂan				manitan~manuʂan	maniʂi		manuʂeː	manuʧe
+PERSON_7									mansuːɳɖ											
+RAIN (PRECIPITATION)_1																	ʋaɾʂam		baɾsa	
+RAIN (PRECIPITATION)_2							ʋaːna		ʋaːna						vaːni		ʋaːna			
+RAIN (PRECIPITATION)_3													ʤaɖaː							
+RAIN (PRECIPITATION)_4	me	maɭi			maɭe	maɭe		mai				maɻa				maɻai				maɭe
+RAIN (PRECIPITATION)_5			peɾ	piɾ						ʧeːp	bela									
+RAIN (PRECIPITATION)_6																		meɖutti		
+RED_1								netiɾ			netuɾi									
+RED_2										kheso			eːso							
+RED_3				eɾɾaɡ~jeɾɾaɡ			jeɾuɖi		eɾɾa								eɾupu			
+RED_4			xiːsun																	
+RED_5	keppə				kempu	ʧoːpə						ʧumappə				cem~seʋappə~seɡappə		keppə	kempu	ʧoːpə
+RED_6											ɡaɖɡa									
+RED_7															key					
+RED_8		tissəɡaɳɖaːnɡi																		
+ROAD_1					maːɾɡa												maːɾɡamu			
+ROAD_2		baʈʈi				baːte											baːʈa			
+ROAD_3					ɾaste	ɾaste								ɾasta						ɾaste
+ROAD_4																			paɾvata	
+ROAD_5							taːʋu						paːodu		paːv					
+ROAD_6							daaɾ			ɖahaɾe										
+ROAD_7	taːɾi			haɾɾi				taːɾi	aɾɾi			ʋaɻi				vaɻi	daːɾi			
+ROAD_8																		aːlaɾ		
+ROAD_9			saɖak																	
+ROOT_1										paːda			bandaː	kuɾe						
+ROOT_2	peːɾə	bjaːɾə		hiːɾ	beːɾu	beːɾə	ʋeːɾkam		ʋeːɾ		ʋeɾ	ʋeːɾə			vaːɾ	ʋeːɾə	ʋeːɾu	ʋeɾ	beːɾu	beːɾə
+ROOT_3			ɾoːte																	
+ROUND_1					baʈʈa			ʋaʈam				vaʈʈa				ʋaʈʈam				
+ROUND_2				ɡuɳɖɾal	duɳɖane				ɡuɳɖɾaːn								ɡuɳɖɾani			
+ROUND_3													ɡuɖme~ɡuɖijo							
+ROUND_4										ɡuʈiɳɖa										
+ROUND_5							bubbaɾi													
+ROUND_6						uɾuʈa						uɾunɖa				uɾunɖai			uɾuʈə	uɾuʈu
+ROUND_7																		uʈʈi		
+ROUND_8		bəjnsakɾanɡuːdə																		
+ROUND_9			ɡoːl peɾi																	
+SAND_1		maɳalə			maɾaɭu	maɳa					bali	maɳal	baːli	maːn	man	maɳal		manal		maɳə
+SAND_2			ɾeːk																	
+SAND_3				uske	usubu		usuka		isike								isuka			
+SAND_4	pakke																			
+SAND_5										ʧalkuɾu										
+SAND_6																			pojja	
+SAY_1				in		annə									en					
+SAY_2									kella							ʧollə~sollə				
+SAY_3																	ʧeppu			
+SAY_4										bakʰna									paɳaɾa	
+SAY_5												paɾajuɡa								
+SAY_6		pəːɭ			heɭu			paidu												paɾe
+SAY_7			paːninɡ																	
+SAY_8													hauɖpo							
+SAY_9																		aːʋaɖə		
+SAY_10	eɡəʋə																			
+SEE_1	noːɖə	noːɖ			noːɖu	noːʈə		noːʈə										nuːʈ		noːku
+SEE_2				huɖa					uːɖa			kaːɳuka				kaːɳ	ʧuːɖu			
+SEE_3													ʈunɖpo							
+SEE_4							taːna			jeːɾna										
+SEE_5																paːɾə			tuʋaːɾa	
+SEE_6		najɾ																		
+SEE_7			unninɡ																	
+SEE_8														ʧu						
+SEED_1						kuɾu														kuɾu
+SEED_2				peɖe					peːɳɖku											
+SEED_3							ʋittanam										ʋittanam			
+SEED_4	pittə	bissə~biʧʧə	beʤʤ	viʤʤa	bede~biːʤa			ʋitu		ɡoʈa		vita			vittid	ʋedə	biːʤam~ɡinʤa	pittə	biːʤa	
+SEED_5										biː										
+SEED_6												paɾippə								
+SIT_1				udda			udə		kuddaː					undu						
+SIT_2												iɾikkuɡa								iɾaiku
+SIT_3																ukkaːɾə				
+SIT_4																		eɾakkaɾ		
+SIT_5										okʰna			hokpo							
+SIT_6		kuːɾsu			kuːtuko												kuːɾʧo			
+SIT_7					kuɭitiko															
+SIT_8		kuːtnu iːɾ	tuːlinɡ																	
+SIT_9	kuɭəʋə																		kullaɾa	
+SIT_10			zunɖinɡ																	
+SIT_11						aɭe														
+SKIN_1					ʧaɾma							ʧeɾmam					ʧaɾmamu		ʧeɾma	
+SKIN_2										ʧapʈa			ʧaːna							
+SKIN_3	toːlə	toːlə	sil	toːl	toɡalu	toːlə	toːl	toːlu	toːl			toli		tal	tõl	toːlə	toːlu	tuːɾs		toːlu
+SLEEP_1					nidɾiso															
+SLEEP_2																	nidɾapoʋu			
+SLEEP_3													andaɾpo koːɖa							
+SLEEP_4										khandaɾna										
+SLEEP_5																			ʤippaɾa	
+SLEEP_6							iːmanɡsati													
+SLEEP_7					malaɡu										maɖ					
+SLEEP_8				miːɳɖa																
+SLEEP_9												uɾanɡuɡa				uraŋku				
+SLEEP_10						oɾa														oɾa
+SLEEP_11	oɾəɡədə	aɾɡu~eɾɡu						oɾəɡə										oɾkʰə		
+SLEEP_12			xaʧinɡ																	
+SLEEP_13									unʤaʈam											
+SLEEP_14													anəa							
+SLEEP_15																tuːnɡə				
+SMALL_1													saɾʋe	kandeːk						
+SMALL_2	kiʈʈiːʈ																			
+SMALL_3						ʧeɾijadə						ʧeɾija				ciriya				ʧeɾija
+SMALL_4																		keːɾuːɖə		
+SMALL_5					ʧikkadu								ɾikʋaːdi							
+SMALL_6		kiɾi																	kiɲa	
+SMALL_7	kunnadə			ʧinna			sinna	ɡuntə	ʧinnad	sanni					cin	ʧinna	ʧinna			
+SMALL_8			ʧunak																	
+SMOKE (EXHAUST)_1			moːʃ										moːha							
+SMOKE (EXHAUST)_2										mosaɡa										
+SMOKE (EXHAUST)_3	hoɡe	pəɡɡi		poja	hoɡe	poɡe	poɡ	peɡu				puka		poaːɡ		pukai~puɡai	poɡa		poɡa	poɡe
+SMOKE (EXHAUST)_4																		pukuɖti		
+SMOKE (EXHAUST)_5									kumpoːɖ											
+STAND_1								ninnatukə												
+STAND_2																	nilabaɖu			
+STAND_3					nintiko	nində							hilpo							ninʤo
+STAND_4							niːmaːn		nilliman											
+STAND_5	nippə			nil					nilla			nilkuɡa			nilp	nil	nilʧonu			
+STAND_6			salinɡ~ʤeːk salinɡ																	
+STAND_7										iʤʤna									untaɾa	
+STAND_8		əddənu iːɾ																		
+STAND_9																		mukkaɖuɾil		
+STAND_10		əːɭ																		
+STAR_1				sukku			sukka		ukka		huka				cukka		ʧukka			
+STAR_2		miːnu								biːnko			biːnka			mĩn				
+STAR_3														puʈ						
+STAR_4	paːndmiːnə																			
+STAR_5					nakʂatɾ	nakʂatɾa		nakʂaʈiɾam				nakʂatɾam					nakʂatɾamu		nakʂatɾe	
+STAR_6	naʧʧatɾa															naʧʧatiɾam		naʈʧatiɾam		naʧʧatiɾa
+STAR_7			isʈaːɾ																	
+STONE_1				baɳɖa			ɡunɖə													
+STONE_2													ɡuɡa							
+STONE_3	kallə	kallə	xal		kallu	kallə		kal				kallə		kanɖ	kel	kallə		kaɾs	kallu	kallu
+STONE_4									ɾaːj		ʋali						ɾaːji			
+STONE_5										pakʰna										
+SUN_1					suːɾja	suːɾja		suːɾijan				suːɾjan				suːɾjan			suːɾje	ʧuːɾja
+SUN_2																		suːɾijan		
+SUN_3							suɾija													
+SUN_4																	suːɾjuɖu			
+SUN_5	ottə	pottə					poddu	poɖutə	poɖudu								poddu			
+SUN_6				poɾə							ʋeda		beːɾdu							
+SUN_7										biːɖi										
+SUN_8														ʋele						
+SUN_9			de																	
+SWIM_1												neentuɡa				neentə				
+SWIM_2					iːʤo				iːta	oːɡna			hoːɡpo				iːdu			
+SWIM_3								niːʧal										niːʧal		
+SWIM_4	niːndə	niːnɖʒu																		
+SWIM_5				pohem			poːnim													
+SWIM_6						miːɾodu														
+SWIM_7																			miːndaɾa	
+SWIM_8																				maɳa
+SWIM_9			beʂolinɡ																	
+SWIM_10				naɾi																
+TAIL_1			liʈʈik																	
+TAIL_2														kindiɾ						
+TAIL_3				tokoɾ			toːka		tokaːɾ						tõka		toːka			
+TAIL_4										kʰola			oli							
+TAIL_5	paːlə	baːlə			baːla	baːlə		ʋaːlə				ʋaːlə				ʋaːlə	vaːlamu	poːɾsam	biːla	baːlu
+THAT_1			ae		aː					huː		aː			aː		aː			
+THAT_2											et					anta				
+THAT_3	adə	adə		adu	adhu	adə	ad	adhə	addu			adə	aːdu~haːd	adə		adhə	adi	adə	aʋu	aʋeː
+THIS_1												iː			ĩ		ĩ			
+THIS_2	idə	idə		id	idhu	idə	id	idhə	iddu	iːd	idu	idə	iːdu	idə		inta~idhə	idi	idə	undu	iʋeː
+THIS_3			daː																	
+THOU_1			niː																i	
+THOU_2				nimme					nimma											
+THOU_3	ni	niːjə			niːnu	niːnə	niːnu	niːja		niːn	ninu	ni	niːn~niːnu	in	ĩn	ni	niːʋu~nuʋʋu	ni		ni
+TONGUE_1	naːlanɡe	nelɡi			naːliɡe	naːʋu	naːlka	naːlɡə	naːlike			naːkə		naːnɡ		naːkkə	naːluka	noːf		naːʋu
+TONGUE_2			duʋiː																	
+TONGUE_3																			naːlaːji	
+TONGUE_4															nevãɖ					
+TONGUE_5										takkha			taɖta							
+TONGUE_6				ʋenʤeɾ							ʋenɖaːɾu									
+TOOTH_1			dandaːn~dantaːn																	
+TOOTH_2	hallə	pallə		pal	hallu	pallə	palku	pal	palk	pall	palu	pallə	paːldu		pel	pallə	pannu	paɾse		pallu
+TOOTH_3														paːlkill						
+TOOTH_4																			kuːli	
+TREE_1			dɾahkʰt																	
+TREE_2																	ʧeʈʈu			
+TREE_3	moɾa	meɾi		maɾa	maɾa	maɾa		maɾam	maːɾa		paʈa	maɾam			meɾi	maɾam			maɾa	maɾa
+TREE_4										mann								meːn		
+TREE_5							maːk													
+TREE_6												vɾukʂam								
+TWO_1	eɾaɖə			ɾeɳɖu	jeɾaɖu	daɳɖə			ɾeɳɖ		ɾinɖa	ɾendə	paːnɖa			ɾenɖə	ɾeɳɖu		ɾaɖɖu	iɾandə
+TWO_2								eɖu							iɾ			eːɖə		
+TWO_3			iɾat											iɾuɖu						
+TWO_4													maksa~ʤoːɖsa							
+TWO_5		əddu					duɖə													
+TWO_6										iːɾəb										
+WALK_1				taka						eːkʰna			heːkpo							
+WALK_2	naɖəʋadə	naɖi			naɖə	naɖa	naɖus	naɖʋu	naɖam							naɖə	naɖuʧu	naɖaɾɾə~naɖandə	naɖapaɾa	naɖa
+WALK_3												naɖakkuɡa								
+WALK_4			ʧeɾɾinɡ																	
+WARM_1												ʧeɾəʧuːɖə								
+WARM_2																		koɾtilije		
+WARM_3										udum				ʋeʈal						
+WARM_4				kaːsta																
+WARM_5										oːɾʧka										
+WARM_6	uppekke~uppe																			
+WARM_7					beʧʧaɡe	bekke	ʋekka										ʋeʧʧa		beʧʧa	bekki
+WARM_8		suːɖə							ʋeːɖ							suːɖə				
+WARM_9			baːsun																	
+WARM_10													kuɖni							
+WARM_11												uʂɳa								
+WARM_12																ʋedəʋedəppə				
+WATER_1										amm			hamdu							
+WATER_2												ʋellam								
+WATER_3												jalam								
+WATER_4	niːɾə	niːɾə	diːɾ	jeɾ	niːɾu	niːɾə	iːɾ	niːɾ	eːɾu					niːɾ	nĩɾ	niːɾə	niːɾu~niːɭɭu	niːɾ	niːɾə	niːɾu
+WATER_5											eju									
+WATER_6																taɳɳi				
+WE_1					naːʋu					naːm		naːm	naːmu	aːm	aːm	naːm	meːmu	oːm		
+WE_2									manaːɖu								manamu			
+WE_3	nanɡa	naɳɡə~jaɳɡə				nanɡa										naːnɡa				nanɡa
+WE_4				mammoʈ				amme	mamma		mambu	nammal								
+WE_5							amdə													
+WE_6			nan																	
+WE_7																			jankulu	
+WHAT_1				baʈʈal					baːta											
+WHAT_2		ajindi	antə			jentə						endə					eːɳʈi~eːmiʈi			
+WHAT_3										jeːndɾa			indiɾdu~indɾaːn							
+WHAT_4														ennaːʈ		enne		inno	enʧina	entai
+WHAT_5	eːnə				jeːnu		em	etaːnə			ena						ẽmi			
+WHAT_6															naːto					
+WHITE_1						boltadə														boltaji
+WHITE_2											pandi		sadaː							
+WHITE_3										paɳɖɾu										
+WHITE_4				tellaɡ			telluɖi		telup								telupu			
+WHITE_5					biɭi										vil			pelti		
+WHITE_6	ʋeɭɭe	bəɭɭu						ʋellə			dumda					veɭɭə	vella		boldu	
+WHITE_7													ʤinpɾo							
+WHITE_8			piːun																	
+WHITE_9											kumnɖi									
+WHITE_10												ʋeɭuppə								
+WHO_1										ne			neːdu		ed					
+WHO_2	taːɾa	daːɾə	deːɾ	boɾ	jaːɾu	daːɾə		daːɾə				aːɾə				jaaɾə		oɾi	jeːɾu	jaːɾu
+WHO_3																	evaɾu			
+WHO_4											daat									
+WHO_5									beːnonɖu											
+WOMAN_1					stɾĩ							stɾiː					stɾiː			
+WOMAN_2					henɡasu	ponnaːɭə		pemaɡu				peɳɳə				peɳ~poɳɳə			ponʤa	paniʧi
+WOMAN_3		pəɳakkən																		
+WOMAN_4									piːkiːɖ											
+WOMAN_5											aːnʋanli									
+WOMAN_6																	mahiɭa			
+WOMAN_7							baːji				ɖoli		teldu				aːɖadi			
+WOMAN_8										aːli										
+WOMAN_9				muɾtad						mukka										
+WOMAN_10	emmaːti																			
+WOMAN_11									naːtaʋaːd											
+WOMAN_12																		tusmoːɡə		
+WOMAN_13											kodoɡi pada									
+WOMAN_14			njaaɽi																	
+YELLOW_1				pivaːʰd			pijuda		pasap								pasupu			
+YELLOW_2										baːlka	toɡoɾi		balke							
+YELLOW_3			puːʃkun																	
+YELLOW_4	manʤe					manʤa		manʤə				maɲa				manʤaɭ			manʤalu	manʤe
+YELLOW_5				kampal																
+YELLOW_6											hinɡeɾi									
+YELLOW_7																		aɾʤin		
+YELLOW_8		manʤəlaːnɡi																		
+YELLOW_9					haladi															
