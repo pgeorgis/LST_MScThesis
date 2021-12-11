@@ -100,8 +100,9 @@ for alignment in multiple_alignments:
     alignment_datasets[format_as_variable(alignment.group)].append(alignment)
 globals().update(alignment_datasets)
 
-test_datasets = [Andean, Bai, French, Germanic, Japanese, Ob_Ugrian, Romance, Sinitic, Slavic]
+#test_datasets = [Andean, Bai, French, Germanic, Japanese, Ob_Ugrian, Romance, Sinitic, Slavic]
 #not including: Bulgarian/Norwegian/Dutch (too big)
+test_datasets = [Andean, Bai, Bulgarian, Dutch, French, Germanic, Japanese, Norwegian, Ob_Ugrian, Romance, Sinitic, Slavic]
 
 #%%
 def test_alignments(dataset, 

@@ -6,10 +6,11 @@
 import re, math, os
 import pandas as pd
 from collections import defaultdict
-from nwunsch_alignment import best_alignment 
 from nltk import edit_distance
 from sklearn.metrics import jaccard_score
+from scipy.spatial.distance import cosine
 from statistics import mean
+from nwunsch_alignment import best_alignment 
 from auxiliary_functions import strip_ch
 
 #IMPORT SOUND DATA
@@ -142,10 +143,17 @@ def diphthong_dict(diphthong):
     """Returns dictionary of features for diphthongal segment"""
     components = segment_word(diphthong)
     
+    #Create weights: 1 for syllabic components and 0.5 for non-syllabic components
+    weights = [1 if phone_id(component)['syllabic'] == 1 else 0.5 
+               for component in components]
+    
+    #Normalize the weights
+    weight_sum = sum(weights)
+    weights = [i/weight_sum for i in weights]
+    
     #Create combined dictionary using features of component segments
-    weight = 1 / len(components)
     diphth_dict = defaultdict(lambda:0)
-    for segment in components:
+    for segment, weight in zip(components, weights):
         feature_id = phone_id(segment)
         for feature in feature_id:
             diphth_dict[feature] += (weight * feature_id[feature])
@@ -561,34 +569,8 @@ def lookup_segments(features, values,
 #%%
 
 #SIMILARITY / DISTANCE MEASURES
-def dot_product(vec1, vec2):
-    """Returns the dot product of two vectors"""
-    products = []
-    for term in vec1:
-        try:
-            product = vec1[term] * vec2[term]
-            products.append(product)
-        except KeyError:
-            print(f'The specified key ({term}) is missing from vec2.')
-    return sum(products)
 
-def norm(vector):
-    """Returns the norm of a vector"""
-    sum_of_squares = 0
-    for term in vector:
-        sum_of_squares += (vector[term] ** 2)
-    return math.sqrt(sum_of_squares)        
-
-def vector_sim(vec1, vec2):
-    """Returns the cosine similarity of two non-zero vectors"""
-    numerator = dot_product(vec1, vec2)
-    denominator = norm(vec1) * norm(vec2)
-    if denominator == 0:
-        print('Error: one or more of the vectors is a zero-vector!')
-        raise ValueError
-    similarity = numerator / denominator
-    return similarity
-
+#Cosine similarity: cosine() imported from scipy.spatial.distance
 
 def hamming_distance(vec1, vec2, normalize=True):
     differences = len([feature for feature in vec1 if vec1[feature] != vec2[feature]])
@@ -662,14 +644,14 @@ def weighted_dice(vec1, vec2, weights=feature_weights):
 
 #PHONE COMPARISON
 checked_phone_sims = {}
-def phone_sim(phone1, phone2, distance='weighted_dice', exclude_features=[]):
+def phone_sim(phone1, phone2, similarity='weighted_dice', exclude_features=[]):
     """Returns the similarity of the features of the two phones according to
     the specified distance/similarity function;
     Features not to be included in the comparison should be passed as a list to
     the exclude_features parameter (by default no features excluded)"""
     
     #If the phone similarity has already been calculated for this pair, retrieve it
-    reference = (phone1, phone2, distance, tuple(exclude_features))
+    reference = (phone1, phone2, similarity, tuple(exclude_features))
     if reference in checked_phone_sims:
         return checked_phone_sims[reference]
     
@@ -685,19 +667,35 @@ def phone_sim(phone1, phone2, distance='weighted_dice', exclude_features=[]):
                 pass
 
     #Calculate similarity of phone features according to specified measure
-    measures = {'cosine':vector_sim,
+    measures = {'cosine':cosine,
                 'dice':dice_sim,
                 'hamming':hamming_distance,
                 'jaccard':jaccard_sim,
+                'weighted_cosine':cosine,
+                'weighted_dice':weighted_dice,
                 'weighted_hamming':weighted_hamming,
-                'weighted_jaccard':weighted_jaccard,
-                'weighted_dice':weighted_dice}
-    dist_func = measures[distance]
+                'weighted_jaccard':weighted_jaccard}
+    try:
+        measure = measures[similarity]
+    except KeyError:
+        print(f'Error: similarity measure "{similarity}" not recognized!')
+        raise KeyError
     
-    score = dist_func(phone_id1, phone_id2)
+    if similarity not in ['cosine', 'weighted_cosine']:
+        score = measure(phone_id1, phone_id2)
+    else:
+        compare_features = list(phone_id1.keys())
+        phone1_values = [phone_id1[feature] for feature in compare_features]
+        phone2_values = [phone_id2[feature] for feature in compare_features]
+        if similarity == 'weighted_cosine':
+            weights = [feature_weights[feature] for feature in compare_features]
+            #Subtract from 1: cosine() returns a distance
+            score = 1 - measure(phone1_values, phone2_values, w=weights)
+        else:
+            score = 1 - measure(phone1_values, phone2_values)
     
     #If method is Hamming, convert distance to similarity
-    if distance in ['hamming', 'weighted_hamming']:
+    if similarity in ['hamming', 'weighted_hamming']:
         score = 1 - score
         
     #Save the phonetic similarity score to dictionary, return score
@@ -707,8 +705,8 @@ def phone_sim(phone1, phone2, distance='weighted_dice', exclude_features=[]):
 
 def compare_measures(seg1, seg2):
     measures = {}
-    for dist_func in ['cosine', 'dice', 'hamming', 'jaccard',
-                   'weighted_hamming', 'weighted_dice', 'weighted_jaccard']:
+    for dist_func in ['cosine', 'hamming', 'jaccard', 'dice', 
+                   'weighted_cosine', 'weighted_hamming', 'weighted_dice', 'weighted_jaccard']:
         measures[dist_func] = phone_sim(seg1, seg2, dist_func)
     return measures
 

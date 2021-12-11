@@ -35,10 +35,17 @@ e_method_GQD = defaultdict(lambda:defaultdict(lambda:[]))
 #calibration_GQD = defaultdict(lambda:defaultdict(lambda:[]))
 n_trees = 0
 
+auto_cognate_sets = defaultdict(lambda:[])
 
 gold_evals = defaultdict(lambda:[])
 auto_evals = defaultdict(lambda:[])
 none_evals = defaultdict(lambda:[])
+
+combo_methods = defaultdict(lambda:[])
+
+best_auto_cognate_sets = defaultdict(lambda:[])
+best_auto_evals = defaultdict(lambda:[])
+
 
 for family in sorted(list(family_trees.keys())):
     print(f'{family.upper()} - {len(family_trees[family])} total trees')
@@ -58,6 +65,23 @@ for family in sorted(list(family_trees.keys())):
                     combo_method[tree] = tree_d[tree]
             eval_d[family].append(round(min(combo_method.values()),3))
     
+    for method in ['Phonetic', 'PMI', 'Surprisal', 'Hybrid']:
+        cog_method = {}
+        for tree in auto_trees:
+            if method == tree.split('/')[1]:
+                cog_method[tree] = auto_trees[tree]
+        auto_cognate_sets[family].append(round(min(cog_method.values()),3))
+        
+    for method1 in ['Phonetic', 'PMI', 'Surprisal', 'Hybrid']:
+        for method2 in ['Phonetic', 'PMI', 'Surprisal', 'Hybrid']:
+            combo_method = {}
+            for tree in auto_trees:
+                if method1 == tree.split('/')[1]:
+                    if method2 == tree.split('/')[2].split('-')[0]:
+                        combo_method[tree] = auto_trees[tree]
+            combo_methods[family].append(round(min(combo_method.values()),3))
+            
+    
     for tree in family_trees[family]:
         f, cognate_method, eval_method, linkage_method = tree.split('/')
         if linkage_method != 'MaxCladeCredibility':
@@ -66,7 +90,15 @@ for family in sorted(list(family_trees.keys())):
             c_method_GQD[family][cognate_method].append(GQD)
             e_method_GQD[family][eval_method].append(GQD)
             
-    
+    #Get methods used for best auto trees
+    best_score = min(auto_trees.values())
+    best_trees = [tree for tree in auto_trees if auto_trees[tree] <= best_score]
+    for tree in best_trees:
+        elements = tree.split('/')
+        cognate_method = elements[1]
+        eval_method = elements[2].split('-')[0]
+        best_auto_cognate_sets[cognate_method].append(family)
+        best_auto_evals[eval_method].append(family)
     
     print('\n')
 

@@ -47,6 +47,21 @@ def create_folder(folder_name, directory=None):
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
     os.chdir(cwd)
+    
+def chunk_list(lis, n):
+    """Splits a list into sublists of length n; if not evenly divisible by n,
+    the final sublist contains the remainder"""
+    return [lis[i * n:(i + 1) * n] for i in range((len(lis) + n - 1) // n)]
+
+def rescale(val, lis, new_min = 0.0, new_max = 1.0):
+    """Rescales a value between new_min and new_max according to the values of lis"""
+    numerator = new_max - new_min
+    old_max, old_min = max(lis), min(lis)
+    denominator = old_max - old_min
+    part1 = numerator / denominator
+    part2 = val - old_max
+    part3 = new_max
+    return part1 * part2 + part3
 
 #%%
 #STRING MANIPULATION

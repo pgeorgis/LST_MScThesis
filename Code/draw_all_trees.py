@@ -7,31 +7,42 @@ from scipy.cluster.hierarchy import dendrogram, linkage, fcluster, to_tree
 #%%
 destination = '../Results/Trees/'
 
-functions = {'PMI':(score_pmi, False, 0.35),
-             'Surprisal':(surprisal_sim, True, 0.72),
+functions = {'PMI':(score_pmi, False, 0.36),
+             'Surprisal':(surprisal_sim, True, 0.74),
              #'Surprisal2gram':(surprisal_sim, True, 0.69),
-             'Phonetic':(word_sim, True, 0.17),
-             'Hybrid':(hybrid_similarity, True, 0.56)
+             'Phonetic':(word_sim, True, 0.16),
+             'Hybrid':(hybrid_similarity, True, 0.57),
+             'Levenshtein':(LevenshteinDist, False, 0.73)
              }
 
 
 #OPTIMAL VALUES FROM VALIDATION DATASETS ON COMMON CONCEPT SET USING BCUBED F1
-#PMI: 0.35
+#PMI: 0.34
 #Surprisal unigram: 0.72
 #Surprisal bigram: 0.69
-#Phonetic_WITHinfopenalty: 0.23 #need to rerun for this
-#Phonetic_withOUTinfopenalty (DEFAULT): 0.17 #THIS IS THE VERSION I USE FOR TREE DRAWING
-#Phonetic_withOUTinfopenalty_summed_penalties: 0.62
-#Phonetic_withinfopenalty_summed_penalties: 0.71
+#Phonetic_mean_penalties (DEFAULT): 0.15 #THIS IS THE VERSION I USE FOR TREE DRAWING
+#Phonetic_summed_penalties: 0.65
 #Hybrid similarity: 0.58 (old) / 0.56 (unigram, mean_sim phonetic - DEFAULT) / 0.64 (unigram, total_sim phonetic)
-#Levenshtein distance of ASJP: 0.69
+#Levenshtein distance of ASJP: 0.66 
+
+#OPTIMAL VALUES FROM CROSS VALIDATION
+#PMI: 0.36
+#Surprisal unigram: 0.74
+#Surprisal bigram: ? not yet run with CV
+#Phonetic_mean_penalties (DEFAULT): 0.16 #THIS IS THE VERSION I USE FOR TREE DRAWING
+#Phonetic_summed_penalties: 0.65
+#Hybrid similarity: 0.58 (old) / 0.57 (unigram, mean_sim phonetic - DEFAULT) / 0.64 (unigram, total_sim phonetic)
+#Levenshtein distance of ASJP: 0.73
+
 
 #%%
 def draw_all_trees(family, newick_directory,
+                   concept_list=common_concepts,
                    cognate_types=['auto', 'gold', 'none'],
                    cluster_functions=functions,
                    eval_functions=functions,
                    linkage_methods=['average', 'complete', 'single', 'ward', 'weighted'],
+                   min_similarities=[i/100 for i in range(0,51,10)],
                    plot=False, plot_directory=None,
                    load_pmi=True,
                    load_surprisal=True, ngram_size=1):
@@ -48,7 +59,7 @@ def draw_all_trees(family, newick_directory,
     #Dendrogram characteristics
     languages = list(family.languages.values()) 
     names = [lang.name for lang in languages]
-    concept_list = [c for c in common_concepts if len(family.concepts[c]) > 1]
+    concept_list = [c for c in concept_list if len(family.concepts[c]) > 1]
     
     gold, none = False, False
     for cog in cognate_types:
@@ -96,38 +107,40 @@ def draw_all_trees(family, newick_directory,
                                                           ['calibrated', 'uncalibrated']):
                     print(f'\t\tEvaluation method: {eval_label}-{calibration_label}')
                     
-                    dm = distance_matrix(group=languages, 
-                                         dist_func=cognate_sim, 
-                                         sim=True,
-                                         eval_func=eval_func,
-                                         eval_sim=eval_sim,
-                                         clustered_cognates=clustered_concepts,
-                                         calibrate=calibration,
-                                         clustered_id=cluster_id)
-                    dists = squareform(dm)
-                    
-                    for method in linkage_methods:                
-                        lm = linkage(dists, method, metric='euclidean')
-                        newick_tree = linkage2newick(lm, names)
-                        newick_tree = re.sub('\s', '_', newick_tree)
+                    for min_sim in min_similarities:
+                        dm = distance_matrix(group=languages, 
+                                             dist_func=cognate_sim, 
+                                             sim=True,
+                                             eval_func=eval_func,
+                                             eval_sim=eval_sim,
+                                             clustered_cognates=clustered_concepts,
+                                             calibrate=calibration,
+                                             clustered_id=cluster_id,
+                                             min_similarity=min_sim)
+                        dists = squareform(dm)
                         
-                        if cog == 'auto':
-                            title = f'{family.name} (Cognates:{cluster_label}, Eval:{eval_label}-{calibration_label}, {method})'
-                            newick_title = f'{family.name}_auto-{cluster_label}_{eval_label}-{calibration_label}_{method}.tre'
-                        else:
-                            title = f'{family.name} (Cognates:{cog}, Eval:{eval_label}, {method})'
-                            newick_title = f'{family.name}_{cog}_{eval_label}-{calibration_label}_{method}.tre'
+                        for method in linkage_methods:                
+                            lm = linkage(dists, method, metric='euclidean')
+                            newick_tree = linkage2newick(lm, names)
+                            newick_tree = re.sub('\s', '_', newick_tree)
                             
-                        with open(f'{newick_directory}/{newick_title}', 'w') as f:
-                            f.write(newick_tree)
-                        
-                        if plot == True:
-                            plt.figure(figsize=(10,8))
-                            dendrogram(lm, p=30, orientation='left', labels=names)
-                            plt.title(title, fontsize=30)
-                            plt.savefig(f'{plot_directory}/{title}.png', bbox_inches='tight', dpi=300)
-                            plt.show()
-                            plt.close()
+                            if cog == 'auto':
+                                title = f'{family.name} (Cognates:{cluster_label}, Eval:{eval_label}-{calibration_label}-min_{min_sim}, {method})'
+                                newick_title = f'{family.name}_auto-{cluster_label}_{eval_label}-{calibration_label}_min-{min_sim}_{method}.tre'
+                            else:
+                                title = f'{family.name} (Cognates:{cog}, Eval:{eval_label}-min_{min_sim}, {method})'
+                                newick_title = f'{family.name}_{cog}_{eval_label}-{calibration_label}-min_{min_sim}_{method}.tre'
+                                
+                            with open(f'{newick_directory}/{newick_title}', 'w') as f:
+                                f.write(newick_tree)
+                            
+                            if plot == True:
+                                plt.figure(figsize=(10,8))
+                                dendrogram(lm, p=30, orientation='left', labels=names)
+                                plt.title(title, fontsize=30)
+                                plt.savefig(f'{plot_directory}/{title}.png', bbox_inches='tight', dpi=300)
+                                plt.show()
+                                plt.close()
                             
 #%%
 for family in families.values():
@@ -135,6 +148,6 @@ for family in families.values():
     create_folder(family.name, destination)
     newick_directory = f'{destination}/{family.name}'
     draw_all_trees(family, 
-                   newick_directory=newick_directory, 
-                   plot=False, plot_directory=plot_directory,
-                   load_pmi=False, load_surprisal=False)
+                    newick_directory=newick_directory, 
+                    plot=False, plot_directory=plot_directory,
+                    load_pmi=True, load_surprisal=True)

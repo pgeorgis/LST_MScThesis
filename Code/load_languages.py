@@ -361,6 +361,43 @@ class Dataset:
             except KeyError:
                 pass
     
+    def phonetic_diversity(self):
+        diversity_scores = {}
+        for cognate_set in self.cognate_sets:
+            cognate_set_diversity = {}
+            checked = []
+            forms = []
+            for lang1 in self.cognate_sets[cognate_set]:
+                forms.extend([strip_ch(w, ['(', ')']) for w in self.cognate_sets[cognate_set][lang1]])
+            lf = len(forms)
+            if lf > 1:
+                diversity_scores[cognate_set] = len(set(forms)) / lf
+                
+                
+                #l1 = self.languages[lang1]
+                #for lang2 in self.cognate_sets[cognate_set]:
+                #    l2 = self.languages[lang2]
+                    # for word_form1 in self.cognate_sets[cognate_set][lang1]:
+                    #     word_form1 = strip_ch(word_form1, ['(', ')'])
+                    #     for word_form2 in self.cognate_sets[cognate_set][lang2]:
+                    #         word_form2 = strip_ch(word_form2, ['(', ')'])
+                    #         if (l1 != l2) or (word_form1 != word_form2):
+                    #             item = (lang1, word_form1, lang2, word_form2)
+                    #             if item not in checked:
+                    #                 #cognate_set_diversity[item] = 1 - word_sim((word_form1, l1), (word_form2, l2))
+                    #                 if word_form1 == word_form2:
+                    #                     cognate_set_diversity[item] = 1
+                    #                 else:
+                    #                     cognate_set_diversity[item] = 0
+                    #                 checked.append(item)
+                    #                 checked.append((lang2, word_form2, lang1, word_form1))
+            #if len(cognate_set_diversity) > 0:
+            #    diversity_scores[cognate_set] = mean(cognate_set_diversity.values())
+        return mean(diversity_scores.values())
+                    
+        
+        
+    
     def cognate_set_dendrogram(self, cognate_id, 
                                dist_func, sim=True, 
                                combine_cognate_sets=True,
@@ -582,6 +619,8 @@ class Dataset:
         elif method == 'mcc':
             return mean(mcc_scores.values())
     
+    
+    
     def draw_tree(self, 
                   dist_func, sim, concept_list=None,                  
                   cluster_func=None, cluster_sim=None, cutoff=None,
@@ -656,15 +695,24 @@ class Dataset:
                                )
     
     
-    def examine_cognates(self, language_list, concepts=None):
-        if concepts == None:
-            concepts = sorted(list(self.cognate_sets.keys()))
+    def examine_cognates(self, language_list=None, concepts=None, cognate_sets=None,
+                         min_langs=2):
+        if language_list == None:
+            language_list = list(self.languages.values())
         
-        for cognate_set in concepts:
-            lang_count = len([lang for lang in language_list if lang.name in self.cognate_sets[cognate_set]])
-            if lang_count > 1:
+        if (concepts == None) and (cognate_sets == None):
+            cognate_sets = sorted(list(self.cognate_sets.keys()))
+        
+        elif concepts != None:
+            cognate_sets = []
+            for concept in concepts:
+                cognate_sets.extend([c for c in self.cognate_sets if '_'.join(c.split('_')[:-1]) == concept])
+        
+        for cognate_set in cognate_sets:
+            lang_count = [lang for lang in language_list if lang.name in self.cognate_sets[cognate_set]]
+            if len(lang_count) >= min_langs:
                 print(cognate_set)
-                for lang in language_list:
+                for lang in lang_count:
                     print(f'{lang.name}: {" ~ ".join(self.cognate_sets[cognate_set][lang.name])}')
                 print('\n')
                 
@@ -994,10 +1042,11 @@ class Language(Dataset):
         
     
     def phone_dendrogram(self, 
-                         distance='weighted_dice', 
-                         method='complete', 
+                         similarity='weighted_dice', 
+                         method='ward', 
                          exclude_length=True, exclude_tones=True,
-                         title=None, save_directory=None):
+                         title=None, save_directory=None,
+                         **kwargs):
         if title == None:
             title = f'Phonetic Inventory of {self.name}'
         
@@ -1012,14 +1061,15 @@ class Language(Dataset):
         if exclude_tones == True:
             phonemes = [p for p in phonemes if p not in self.tonemes]
         
-        draw_dendrogram(group=phonemes, 
-                        labels=phonemes,
-                        dist_func=phone_sim,
-                        sim=True,
-                        distance=distance,
-                        method=method,
-                        title=title,
-                        save_directory=save_directory)
+        return draw_dendrogram(group=phonemes,
+                               labels=phonemes, 
+                               dist_func=phone_sim, 
+                               sim=True, 
+                               similarity=similarity, 
+                               method=method, 
+                               title=title, 
+                               save_directory=save_directory, 
+                               **kwargs)
     
     def __str__(self):
         """Print a summary of the language object"""

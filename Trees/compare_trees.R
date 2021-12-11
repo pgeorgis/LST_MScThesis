@@ -2,6 +2,7 @@
 library(Quartet)
 library(phytools)
 library(phangorn)
+library(TreeDist)
 
 #Set working directory to location where this script is saved
 library("rstudioapi")
@@ -52,19 +53,19 @@ load_forest <- function(newick_files) {
 
 #Function for automatically evaluating a series of trees against one gold tree using GQD
 #Returns the tree which best matches the gold tree
-best_matching_tree <- function(gold_tree, test_forest, forest_names=NULL, add_root=TRUE) {
+best_matching_tree <- function(gold_tree, test_forest, method=gen_quartet_distance, forest_names=NULL, add_root=TRUE) {
   
-  #Create lists for Generalized Quartet Distance scores
-  QD_scores <- c()
+  #Create lists for tree evaluation scores
+  scores <- c()
   
-  #Iterate through test trees and measure Generalized Quartet Distance
+  #Iterate through test trees and evaluate distance from gold tree
   for (test_tree in test_forest) {
-    GQD <- gen_quartet_distance(gold_tree, test_tree, add_root=add_root)
-    QD_scores <- append(QD_scores, GQD)
+    score <- method(gold_tree, test_tree, add_root=add_root)
+    scores <- append(scores, score)
   }
   
   #Get index of the tree with the minimum distance from the gold tree
-  min_index <- which.min(QD_scores)
+  min_index <- which.min(scores)
   
   #Print the name of the best tree if the corresponding names were supplied
   if(!is.null(forest_names)) {
@@ -72,7 +73,7 @@ best_matching_tree <- function(gold_tree, test_forest, forest_names=NULL, add_ro
   }
   
   #Print the best tree's score
-  print(paste('QuartetDivergence:', round(QD_scores[[min_index]],2)))
+  print(paste('Distance:', round(scores[[min_index]],2)))
   
   #Return the tree with the minimum distance score from the gold tree
   return(test_forest[[min_index]])
@@ -107,6 +108,7 @@ families <- c('Arabic',
 tree_results <- data.frame(family=character(),
                            cognate_method=character(),
                            eval_method=character(),
+                           min_similarity=character(),
                            tree_type=character(),
                            TreeDist=numeric(),
                            GenQuartetDist=numeric()
@@ -136,11 +138,13 @@ for (family in families) {
   family_trees <- paste(tree_dir, family_trees, sep='/')
   
   #Sort trees by cognate detection and evaluation method
-  cognate_methods <- c('none', 'Phonetic', 'PMI', 'Surprisal', 'Hybrid', 'gold')
+  cognate_methods <- c('none', 'Phonetic', 'PMI', 'Surprisal', 'Hybrid', 'Levenshtein', 'gold')
+  #cognate_methods <- c('Phonetic', 'PMI', 'Surprisal', 'Hybrid')
   eval_methods <- c('Phonetic-calibrated', 'Phonetic-uncalibrated', 
                     'PMI-calibrated', 'PMI-uncalibrated',
                     'Surprisal-calibrated', 'Surprisal-uncalibrated',
-                    'Hybrid-calibrated', 'Hybrid-uncalibrated')
+                    'Hybrid-calibrated', 'Hybrid-uncalibrated',
+                    'Levenshtein-calibrated', 'Levenshtein-uncalibrated')
   all_trees <- c()
   for (cognate_method in cognate_methods) {
     for (eval_method in eval_methods) {
@@ -153,18 +157,20 @@ for (family in families) {
       #Evaluate each individual tree for TreeDistance and Generalized Quartet Distance
       for (i in seq(length(method_forest))) {
         linkage <- strsplit(tail(strsplit(method_trees[[i]], '_')[[1]], n=1), '.tre')[[1]]
+        min_sim <- tail(strsplit(method_trees[[i]], '_')[[1]], n=2)[[1]]
         tree <- method_forest[[i]]
         TD <- TreeDistance(family_gold, tree)
         GQD <- gen_quartet_distance(family_gold, tree, add_root=TRUE)
         
         #Add a row to the tree_results data frame with these values
         row <- list(family=family, 
-                    cognate_method=cognate_method, eval_method=eval_method, tree_type=linkage,
+                    cognate_method=cognate_method, eval_method=eval_method, 
+                    min_similarity=min_sim, tree_type=linkage,
                     TreeDist=TD, GenQuartetDist=GQD)
         tree_results <- rbind(tree_results, row)
         
         #Save the tree to list for overall comparison
-        all_trees[[paste(method, linkage, sep='_')]] = tree
+        all_trees[[paste(method, paste('min', min_sim, sep='-'), linkage, sep='_')]] = tree
         
       }
 
@@ -178,6 +184,7 @@ for (family in families) {
       #Add a row to the tree_results data frame with these values
       row_MCC <- list(family=family, 
                       cognate_method=cognate_method, eval_method=eval_method, 
+                      min_similarity='N/A',
                       tree_type='MaxCladeCredibility',
                       TreeDist=TD_MCC, GenQuartetDist=GQD_MCC)
       tree_results <- rbind(tree_results, row_MCC)
@@ -187,11 +194,15 @@ for (family in families) {
   #Evaluate and determine the best trees
   none_trees <- all_trees[grep('none', names(all_trees))]
   gold_trees <- all_trees[grep('gold', names(all_trees))]
+  ld_trees <- all_trees[grep('Levenshtein', names(all_trees))]
+  ld_trees <- ld_trees[-grep('gold', names(ld_trees))]
   auto_trees <- all_trees[-grep('gold', names(all_trees))]
-  auto_trees <- auto_trees[-grep('none', names(all_trees))]
-  best_auto_tree <- best_matching_tree(family_gold, auto_trees, names(auto_trees), add_root=TRUE)
-  best_none_tree <- best_matching_tree(family_gold, none_trees, names(none_trees), add_root=TRUE)
-  best_gold_tree <- best_matching_tree(family_gold, gold_trees, names(gold_trees), add_root=TRUE)
+  auto_trees <- auto_trees[-grep('none', names(auto_trees))]
+  auto_trees <- auto_trees[-grep('Levenshtein', names(auto_trees))]
+  best_auto_tree <- best_matching_tree(gold_tree=family_gold, test_forest=auto_trees, forest_names=names(auto_trees), add_root=TRUE)
+  best_ld_tree <- best_matching_tree(gold_tree=family_gold, test_forest=ld_trees, forest_names=names(ld_trees), add_root=TRUE)
+  best_none_tree <- best_matching_tree(gold_tree=family_gold, test_forest=none_trees, forest_names=names(none_trees), add_root=TRUE)
+  best_gold_tree <- best_matching_tree(gold_tree=family_gold, test_forest=gold_trees, forest_names=names(gold_trees), add_root=TRUE)
   cat('\n')
   
   #Plot and save the evaluation of the best tree using QuartetDivergence diagram
@@ -214,9 +225,9 @@ for (family in families) {
   png_plot_path <- paste(tree_dir, '/', family, "_auto_densiTree.png", sep='')
   png(filename=png_plot_path, width=1000, height=700)
   if (family != 'Hokan') {
-    densiTree(auto_trees, consensus=ladderize(family_gold), alpha=0.1)
+    densiTree(auto_trees, consensus=ladderize(family_gold), alpha=0.01)
   } else {
-    densiTree(auto_trees, alpha=0.1)
+    densiTree(auto_trees, alpha=0.01)
   }
   dev.off()
   setwd(local_dir)

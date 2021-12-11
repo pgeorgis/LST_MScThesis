@@ -117,13 +117,13 @@ def process_lexstat_data(lang_group, tr_fixes=tr_fixes, filepath=None):
     return cognates
 
 def create_LexStat_cognate_index(lang_group, output_file=None,
-                                sep='\t', variants_sep='~'):
+                                sep='\t', variants_sep='~', **kwargs):
     assert sep != variants_sep
     if output_file == None:
         output_file = f'{lang_group.directory}/LexStat/{lang_group.name} LexStat Vocabulary Index.csv'
     
     #Create cognate set index
-    cognate_sets = process_lexstat_data(lang_group)
+    cognate_sets = process_lexstat_data(lang_group, **kwargs)
     
     #Write cognate set index to .csv file
     with open(output_file, 'w') as f:

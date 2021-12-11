@@ -48,7 +48,9 @@ polynesian <- lang_data[lang_data$Dataset=='Polynesian',]
 polynesian_subfamilies = polynesian$Classification
 polynesian_subfamilies = strsplit(polynesian_subfamilies, ",")
 polynesian_subfamilies = sapply(polynesian_subfamilies, "[", 3)
-map.feature(languages=polynesian$Name, features=polynesian_subfamilies, latitude=polynesian$Latitude, longitude=polynesian$Longitude)
+map.feature(languages=polynesian$Name, features=polynesian_subfamilies, 
+            latitude=polynesian$Latitude, longitude=polynesian$Longitude, 
+            zoom.control = TRUE, map.orientation = "Pacific")
 
 #Map Uralic
 uralic <- lang_data[lang_data$Dataset=='Uralic',]

@@ -25,6 +25,7 @@ def prepare_alignment(item1, item2, **kwargs):
         word2, lang2 = item2
     
     else:
+        word1, word2 = item1, item2
         lang1, lang2 = None, None
         
     #If language input has been given, incorporate their phoneme PMI for the alignment
@@ -92,35 +93,19 @@ def word_sim(word1, word2=None,
             or tuple (first word, second language)
     word2 : string (second word) or tuple (second word, second language)"""
     
-    if (word1, word2, sim_func, 
-        penalize_infocontent, penalize_sonority, 
-        context_reduction, prosodic_env_scaling,
-        total_sim) in calculated_word_sims:
-        return calculated_word_sims[(word1, word2, sim_func, 
-                                     penalize_infocontent, penalize_sonority, 
-                                     context_reduction, prosodic_env_scaling, 
-                                     total_sim)]
-    
+
+    #If word2 == None, we assume word1 argument is actually an aligned word pair
+    #Otherwise, align the two words
+    if word2 != None:
+        alignment = prepare_alignment(word1, word2)
     else:
-        
-        #Calculate informativity of each segment for use as penalties
-        if penalize_infocontent == True:
-            form1, lang1 = word1
-            form2, lang2 = word2
-            #Remove stress and tone diacritics; syllabic diacritics (above and below); spaces
-            diacritics_to_remove = list(suprasegmental_diacritics) + ['̩', '̍', ' ']
-            word_info1 = lang1.calculate_infocontent(strip_ch(form1, diacritics_to_remove))
-            word_info2 = lang2.calculate_infocontent(strip_ch(form2, diacritics_to_remove))
-        else:
-            lang1, lang2 = None, None
-        
-        #If word2 == None, we assume word1 argument is actually an aligned word pair
-        #Otherwise, align the two words
-        if word2 != None:
-            alignment = prepare_alignment(word1, word2)
-        else:
-            alignment = word1
-            
+        alignment = word1
+    
+    if (tuple(alignment), sim_func, penalize_sonority, 
+       context_reduction, prosodic_env_scaling, total_sim) in calculated_word_sims: 
+        return calculated_word_sims[(tuple(alignment), sim_func, penalize_sonority, 
+                                     context_reduction, prosodic_env_scaling, total_sim)] 
+    else:
         #Get list of penalties
         penalties = []
         for i in range(len(alignment)):
@@ -135,23 +120,9 @@ def word_sim(word1, word2=None,
                     deleted_segment = seg2
                     index = len([alignment[j][1] for j in range(i) if alignment[j][1] != '-'])
                     
-                    #Check whether information content was calculated
-                    #If so, retrieve information content of deleted segment
-                    if penalize_infocontent == True:
-                        assert (lang1, lang2) != (None, None)
-                        seg_info = word_info2[index][1]
-                        penalty *= seg_info
-                    
                 else:
                     deleted_segment = seg1
                     index = len([alignment[j][0] for j in range(i) if alignment[j][0] != '-'])
-                    
-                    #Check whether information content was calculated
-                    #If so, retrieve information content of deleted segment
-                    if penalize_infocontent == True:
-                        assert (lang1, lang2) != (None, None)
-                        seg_info = word_info1[index][1]
-                        penalty *= seg_info
                 
                 if penalize_sonority == True:
                     sonority = get_sonority(deleted_segment)
@@ -251,7 +222,6 @@ def word_sim(word1, word2=None,
                                 if ('ː' in prev_pair[gap_index]) or ('ˑ' in prev_pair[gap_index]):
                                     penalty = 0
                                 
-                    
                     if double == True:
                         penalty /= penalty_discount
                 
@@ -283,18 +253,12 @@ def word_sim(word1, word2=None,
         word_sim = math.e**-word_dist
         
         #Save the calculated score
-        if (lang1, lang2) != (None, None):
-            calculated_word_sims[((word1, lang1), (word2, lang2), sim_func, 
-                                  penalize_infocontent, penalize_sonority, 
-                                  context_reduction, prosodic_env_scaling, 
-                                  total_sim)] = word_sim
-            
-        else:
-            calculated_word_sims[(word1, word2, sim_func, 
-                                 penalize_infocontent, penalize_sonority, 
+        if word2 != None:
+            calculated_word_sims[(tuple(alignment), sim_func, 
+                                 penalize_sonority, 
                                  context_reduction, prosodic_env_scaling, 
                                  total_sim)] = word_sim
-        
+            
         return word_sim
 
 
@@ -498,7 +462,7 @@ def combine_PMI(lang1, lang2, **kwargs):
 
 
 scored_word_pmi = {}
-def score_pmi(pair1, pair2, sim2dist=True, **kwargs):
+def score_pmi(pair1, pair2, sim2dist=True, alpha=0.5, **kwargs):
     if (pair1, pair2, sim2dist) in scored_word_pmi:
         return scored_word_pmi[(pair1, pair2, sim2dist)]
     
@@ -529,7 +493,6 @@ def score_pmi(pair1, pair2, sim2dist=True, **kwargs):
         PMI_score = mean(PMI_values) 
         
         if sim2dist == True:
-            alpha=0.5
             PMI_dist = math.exp(-max(PMI_score, 0)**alpha)
             scored_word_pmi[(pair1, pair2, sim2dist)] = PMI_dist
             return PMI_dist

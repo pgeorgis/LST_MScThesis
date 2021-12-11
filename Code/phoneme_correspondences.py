@@ -223,7 +223,7 @@ class PhonemeCorrDetector:
         while (iteration < max_iterations) and (qualifying_words[iteration] != qualifying_words[iteration-1]):
             iteration += 1
             
-            #Align the qualifying and words of the previous step using previous step's PMI
+            #Align the qualifying words of the previous step using previous step's PMI
             cognate_alignments = self.align_wordlist(qualifying_words[iteration-1], 
                                                      added_penalty_dict=PMI_iterations[iteration-1])
             
@@ -378,36 +378,6 @@ class PhonemeCorrDetector:
             smoothed_surprisal[ngram1] = default_dict(smoothed_surprisal[ngram1], l=smoothed_oov)
                 
         return smoothed_surprisal
-
-    def old_phoneme_surprisal(self, correspondence_counts):
-        """Calculates phoneme surprisal with Lidstone smoothing given a dictionary
-        of raw phoneme correspondence counts"""
-        
-        #Dictionary of total occurrence of lang1 segments in alignments
-        totals = {seg1:sum(correspondence_counts[seg1].values()) 
-                  for seg1 in correspondence_counts}
-        
-        #Calculate d parameter for Lidstone smoothing as the number of 
-        #phonemes in lang2, plus 1 for the gap character
-        d = len(self.lang2.phonemes) + 1
-        
-        #Calculate surprisal with Lidstone smoothing
-        surprisal_values = {seg1:{seg2:surprisal(lidstone_smoothing(x=correspondence_counts[seg1].get(seg2, 0), 
-                                                                    N=totals[seg1], 
-                                                                    d=d)) 
-                                                 for seg2 in correspondence_counts[seg1]} 
-                                                 for seg1 in correspondence_counts}
-        
-        #Set the default value of each nested dictionary as the Lidstone smoothed
-        #surprisal value for 0 occurrences
-        for seg1 in surprisal_values:
-            surprisal_values[seg1] = default_dict(surprisal_values[seg1],
-                                                  l=surprisal(lidstone_smoothing(x=0, 
-                                                                                 N=totals[seg1], 
-                                                                                 d=d)))
-        surprisal_values = default_dict(surprisal_values, l=defaultdict(lambda:self.lang2.phoneme_entropy))
-        return surprisal_values
-    
     
     def calc_phoneme_surprisal(self, radius=2, 
                                max_iterations=10, 
