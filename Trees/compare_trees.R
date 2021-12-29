@@ -59,10 +59,15 @@ best_matching_tree <- function(gold_tree, test_forest, method=gen_quartet_distan
   scores <- c()
   
   #Iterate through test trees and evaluate distance from gold tree
-  for (test_tree in test_forest) {
+  for (i in seq(length(test_forest))) {
+    test_tree <- test_forest[[i]]
     score <- method(gold_tree, test_tree, add_root=add_root)
     scores <- append(scores, score)
   }
+  #for (test_tree in test_forest) {
+  #  score <- method(gold_tree, test_tree, add_root=add_root)
+  #  scores <- append(scores, score)
+  #}
   
   #Get index of the tree with the minimum distance from the gold tree
   min_index <- which.min(scores)
@@ -128,18 +133,10 @@ for (family in families) {
   family_trees <- list.files(path=tree_dir)
   family_trees <- family_trees[grep('.tre', family_trees)]
   
-  #Remove single linkage trees
-  family_trees <- family_trees[-grep('single', family_trees)]
-  
-  if (length(family_trees[grep('binary', family_trees)]) > 0) {
-    family_trees <- family_trees[-grep('binary', family_trees)]
-  }
-  
   family_trees <- paste(tree_dir, family_trees, sep='/')
   
   #Sort trees by cognate detection and evaluation method
   cognate_methods <- c('none', 'Phonetic', 'PMI', 'Surprisal', 'Hybrid', 'Levenshtein', 'gold')
-  #cognate_methods <- c('Phonetic', 'PMI', 'Surprisal', 'Hybrid')
   eval_methods <- c('Phonetic-calibrated', 'Phonetic-uncalibrated', 
                     'PMI-calibrated', 'PMI-uncalibrated',
                     'Surprisal-calibrated', 'Surprisal-uncalibrated',
@@ -238,3 +235,100 @@ setwd('..')
 tree_dir <- paste(getwd(), '/Results/Trees/', sep='')
 write.csv(tree_results, paste(tree_dir, 'tree_evaluation_results.csv', sep='/'), row.names = FALSE)
 setwd(local_dir)
+
+#Evaluate Bayesian inference trees
+bayesian_path <- '../Results/Trees/Bayesian'
+bayesian_results <- data.frame(family=character(),
+                               tree_type=character(),
+                               TreeDist=numeric(),
+                               GenQuartetDist=numeric())
+for (family in families) {
+  
+  #Skip Hokan, because the Bayesian trees are based on gold cognate sets, which are unavailable for Hokan
+  if (family != 'Hokan') {
+    print(family)
+    
+    #Load gold reference tree and Nexus file containing Bayesian character-based trees
+    family_gold <- read.newick(paste('Gold/', family, '_pruned.tre', sep=''), quiet=TRUE)
+    family_bayesian <- read.nexus(file=paste(bayesian_path, family, paste(family, 'gold_common-concepts.nex', sep='_'), sep='/'))
+    
+    #Replace curly brackets with parentheses in gold tree, which is how they appear in Bayesian trees
+    family_gold$tip.label <- str_replace_all(family_gold$tip.label, '\\{', '(')
+    family_gold$tip.label <- str_replace_all(family_gold$tip.label, '\\}', ')')
+    
+    #Make replacements for specific families in order to match Bayesian trees formatting
+    if (family == 'Polynesian') {
+      family_gold$tip.label[which(family_gold$tip.label == "Austral_(Ra'ivavae)")] = "Austral_(Raivavae)"
+    } else if (family == 'Sinitic') {
+      family_gold$tip.label[which(family_gold$tip.label == "Xi'an")] = "Xian"
+      family_gold$tip.label[which(family_gold$tip.label == "Ha'erbin")] = "Haerbin"
+    } else if (family == 'Uto-Aztecan') {
+      family_gold$tip.label[which(family_gold$tip.label == "Tohono_O'odham")] = 'Tohono_Oodham'
+    }
+    
+    #Calculate maximum clade credibility tree and its distances from the gold tree
+    family_mcc <- maxCladeCred(family_bayesian)
+    mcc_TD <- TreeDistance(family_gold, family_mcc)
+    mcc_GQD <- gen_quartet_distance(family_gold, family_mcc, add_root=TRUE)
+    
+    #Save the MCC tree and plot to file
+    write.tree(family_mcc, file=paste(bayesian_path, family, paste(family, 'MCC.tre', sep='_'), sep='/'))
+    png_plot_path <- paste(bayesian_path, family, paste(family, 'MCC.png', sep='_'), sep='/')
+    png(filename=png_plot_path, width=1000, height=700)
+    VisualizeQuartets(ladderize(family_gold), ladderize(family_mcc), style='size', spectrum=rainbow(300)[1:101])
+    dev.off()
+    
+    #Add MCC measurements to dataframe
+    row_MCC <- list(family=family,
+                    tree_type='MCC',
+                    TreeDist=mcc_TD,
+                    GenQuartetDist=mcc_GQD)
+    bayesian_results <- rbind(bayesian_results, row_MCC)
+    
+    #Identify the single tree which best matches the gold reference tree
+    #and take its measurements; save to the dataframe
+    best_bayesian <- best_matching_tree(family_gold, family_bayesian)
+    best_TD <- TreeDistance(family_gold, best_bayesian)
+    best_GQD <- gen_quartet_distance(family_gold, best_bayesian, add_root=TRUE)
+    row_best <- list(family=family,
+                     tree_type='best',
+                     TreeDist=best_TD,
+                     GenQuartetDist=best_GQD)
+    bayesian_results <- rbind(bayesian_results, row_best)
+    
+    #Save the best tree and plot to file
+    write.tree(best_bayesian, file=paste(bayesian_path, family, paste(family, 'best_bayesian.tre', sep='_'), sep='/'))
+    png_plot_path <- paste(bayesian_path, family, paste(family, 'best_bayesian.png', sep='_'), sep='/')
+    png(filename=png_plot_path, width=1000, height=700)
+    VisualizeQuartets(ladderize(family_gold), ladderize(best_bayesian), style='size', spectrum=rainbow(300)[1:101])
+    dev.off()
+    
+    #Plot densiTree based on Bayesian inference trees, using gold tree as consensus
+    class(family_bayesian) <- "multiPhylo"
+    png_plot_path <- paste(bayesian_path, family, paste(family, 'densiTree.png', sep='_'), sep='/')
+    png(filename=png_plot_path, width=1000, height=700)
+    densiTree(family_bayesian, consensus=ladderize(family_gold), alpha=0.01)
+    dev.off()
+    setwd(local_dir)
+    cat('\n')
+  }
+}
+
+#Write Bayesian tree evaluation results to a csv file
+setwd('..')
+tree_dir <- paste(getwd(), '/Results/Trees', sep='')
+write.csv(bayesian_results, paste(tree_dir, 'bayesian_tree_evaluation_results.csv', sep='/'), row.names = FALSE)
+setwd(local_dir)
+
+
+#Random trees
+for (family in families) {
+  family_gold <- read.newick(paste('Gold/', family, '_pruned.tre', sep=''), quiet=TRUE)
+  n_langs <- length(family_gold$tip.label)
+  random_tree <- rtree(n=n_langs)
+  for (i in seq(n_langs)) {
+    random_tree$tip.label[which(random_tree$tip.label == paste('t', i, sep=''))] = family_gold$tip.label[[i]]
+  }
+  plotTree(random_tree)
+  print(paste(family, round(gen_quartet_distance(family_gold, random_tree), 2)))
+}

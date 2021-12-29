@@ -128,8 +128,8 @@ dd <- data.frame(Taxa=family_data$Name, Classification=subgroups)
 png_path <- paste(tree_dir, family, paste(family, 'dot_tree_best_auto.png', sep='_'), sep='/')
 png(filename=png_path, width=900, height=700)
 ggtree(best_auto_tree) %<+% dd + 
-  geom_tippoint(aes(color=Classification, x=0.97), size=5, show.legend=TRUE) + 
-  geom_tiplab(aes(color=Classification), offset=0.005, align=TRUE, show.legend=FALSE) + 
+  geom_tippoint(aes(color=Classification, x=0.99), size=5, show.legend=TRUE) + 
+  geom_tiplab(aes(color=Classification), offset=0.01, align=TRUE, show.legend=FALSE) + 
   xlim(0, 1.2)
 dev.off()
 
@@ -150,6 +150,16 @@ ggtree(best_auto_tree) %<+% dd +
   xlim(0, 2)
 dev.off()
 
+best_alt_tree <- read.tree(file=paste(tree_dir, family, paste(family, 'best_alt_auto.tre', sep='_'), sep='/'))
+best_alt_tree <- reformat_tips(best_alt_tree)
+png_path <- paste(tree_dir, family, paste(family, 'dot_tree_best_alt_auto.png', sep='_'), sep='/')
+png(filename=png_path, width=900, height=700)
+ggtree(best_alt_tree) %<+% dd + 
+  geom_tippoint(aes(color=Classification, x=1.8), size=3, show.legend=TRUE) + 
+  geom_tiplab(aes(color=Classification), offset=0.01, align=TRUE, show.legend=FALSE) + 
+  xlim(0, 2.2)
+dev.off()
+
 #JAPONIC
 family <- 'Japonic'
 best_auto_tree <- read.tree(file=paste(tree_dir, family, paste(family, 'best_auto.tre', sep='_'), sep='/'))
@@ -164,6 +174,16 @@ ggtree(best_auto_tree) %<+% dd +
   geom_tippoint(aes(color=Classification, x=0.95), size=3, show.legend=TRUE) + 
   geom_tiplab(aes(color=Classification), offset=0.005, align=TRUE, show.legend=FALSE) + 
   xlim(0, 1.05)
+dev.off()
+
+best_alt_tree <- read.tree(file=paste(tree_dir, family, paste(family, 'best_alt_auto.tre', sep='_'), sep='/'))
+best_alt_tree <- reformat_tips(best_alt_tree)
+png_path <- paste(tree_dir, family, paste(family, 'dot_tree_best_alt_auto.png', sep='_'), sep='/')
+png(filename=png_path, width=900, height=700)
+ggtree(best_alt_tree) %<+% dd + 
+  geom_tippoint(aes(color=Classification, x=2.48), size=3, show.legend=TRUE) + 
+  geom_tiplab(aes(color=Classification), offset=0.01, align=TRUE, show.legend=FALSE) + 
+  xlim(0, 2.7)
 dev.off()
 
 #POLYNESIAN
@@ -230,6 +250,18 @@ ggtree(best_auto_tree) %<+% dd +
   geom_tippoint(aes(color=Classification, x=1.11), size=5, show.legend=TRUE) + 
   geom_tiplab(aes(color=Classification), offset=0.01, align=TRUE, show.legend=FALSE) + 
   xlim(0, 1.3)
+dev.off()
+
+best_alt_tree <- read.tree(file=paste(tree_dir, family, paste(family, 'best_alt_auto.tre', sep='_'), sep='/'))
+best_alt_tree <- reformat_tips(best_alt_tree)
+best_alt_tree$tip.label[which(best_alt_tree$tip.label == 'Haerbin')] = "Ha'erbin"
+best_alt_tree$tip.label[which(best_alt_tree$tip.label == 'Xian')] = "Xi'an"
+png_path <- paste(tree_dir, family, paste(family, 'dot_tree_best_alt_auto.png', sep='_'), sep='/')
+png(filename=png_path, width=900, height=700)
+ggtree(best_alt_tree) %<+% dd + 
+  geom_tippoint(aes(color=Classification, x=0.91), size=5, show.legend=TRUE) + 
+  geom_tiplab(aes(color=Classification), offset=0.01, align=TRUE, show.legend=FALSE) + 
+  xlim(0, 1)
 dev.off()
 
 #TURKIC
@@ -310,8 +342,8 @@ dd <- data.frame(Taxa=family_data$Name, Classification=subgroups)
 png_path <- paste(tree_dir, family, paste(family, 'dot_tree_best_auto.png', sep='_'), sep='/')
 png(filename=png_path, width=900, height=700)
 ggtree(best_auto_tree) %<+% dd + 
-  geom_tippoint(aes(color=Classification, x=0.86), size=5, show.legend=TRUE) + 
-  geom_tiplab(aes(color=Classification), offset=0.005, align=TRUE, show.legend=FALSE) + 
+  geom_tippoint(aes(color=Classification, x=0.85), size=5, show.legend=TRUE) + 
+  geom_tiplab(aes(color=Classification), offset=0.02, align=TRUE, show.legend=FALSE) + 
   xlim(0, 1)
 dev.off()
 
