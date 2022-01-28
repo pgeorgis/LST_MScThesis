@@ -103,6 +103,17 @@ reformat_tree <- function(tree, languages) {
         parent_tip_indices <- parent_tip_indices[length(parent_tip_indices)]
         parent_tip_indices <- sapply(parent_tip_indices, "[", 1)
         parent_node_indices[still_NA_langs] <- parent_tip_indices
+        
+        #Check if there are still NA languages
+        #This appears to occur for, e.g. "North Ndebele", "Ndzwani Comorian", where there is a space
+        still_NA_langs <- which(is.na(parent_node_indices))
+        if (length(still_NA_langs)>0) {
+          still_NA_names <- names(still_NA_langs)
+          still_NA_names <- str_replace_all(still_NA_names, ' ', '')
+          parent_tip_indices <- sapply(still_NA_names, grep, tree$tip.label)
+          parent_node_indices[still_NA_langs] <- parent_tip_indices
+        }
+        
       }
       
       for (i in seq(length(NA_langs))) {
@@ -127,37 +138,31 @@ reformat_tree <- function(tree, languages) {
 
 #Get list of families
 families <- c('Arabic', 
+              'Bantu',
               'Balto-Slavic', 
               'Dravidian',
+              'Hellenic',
               'Italic', 
+              'Japonic',
               'Polynesian', 
+              'Quechuan',
               'Sinitic',
               'Turkic', 
               'Uralic',
+              'Uto-Aztecan',
+              'Vietic',
               
               #Hokan non-isolate subfamilies
-              #'Chimariko',
-              'Cochimi-Yuman',
-              #'Karuk',
               'Pomoan',
-              #'Seri',
-              #'Shastan',
               'Tequistlatecan',
               'Yana',
-              
-              #Validation datasets
-              'Bantu',
-              'Hellenic',
-              'Japonic',
-              'Quechuan',
-              'Uto-Aztecan',
-              'Vietic'
+              'Yuman'
               )
 
 for (family in families) {
   
   #Load original Glottolog tree for family
-  tree <- read.newick(paste(local_dir, '/Gold/', family, '.tre', sep=""))
+  tree <- read.tree(paste(local_dir, '/Gold/', family, '.tre', sep=""))
   
   #Plot the original Glottolog tree
   #plot(tree)
@@ -169,7 +174,7 @@ for (family in families) {
   langs <- as.vector(family_data$Name)
   
   #Load the preprocessed Glottolog tree for family
-  preprocessed_tree <- read.newick(paste(local_dir, '/Gold/', family, '_preprocessed.tre', sep=""))
+  preprocessed_tree <- read.tree(paste(local_dir, '/Gold/', family, '_preprocessed.tre', sep=""))
   
   #Plot the preprocessed tree before reformatting and pruning
   #plot(preprocessed_tree)

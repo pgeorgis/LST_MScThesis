@@ -11,7 +11,7 @@ from word_evaluation import *
 from phoneme_correspondences import PhonemeCorrDetector
 from linguistic_distance import *
 
-class Dataset: 
+class LexicalDataset: 
     def __init__(self, filepath, name, 
                  id_c = 'ID',
                  language_name_c='Language_ID',
@@ -361,38 +361,22 @@ class Dataset:
             except KeyError:
                 pass
     
-    def phonetic_diversity(self):
-        diversity_scores = {}
+    def phonetic_diversity(self, ch_to_remove=[]):
+        #diversity_scores = {}
+        diversity_scores = defaultdict(lambda:[])
         for cognate_set in self.cognate_sets:
-            cognate_set_diversity = {}
-            checked = []
+            concept = cognate_set.split('_')[0]
             forms = []
             for lang1 in self.cognate_sets[cognate_set]:
-                forms.extend([strip_ch(w, ['(', ')']) for w in self.cognate_sets[cognate_set][lang1]])
+                forms.extend([strip_ch(w, ['(', ')']+ch_to_remove) for w in self.cognate_sets[cognate_set][lang1]])
             lf = len(forms)
             if lf > 1:
-                diversity_scores[cognate_set] = len(set(forms)) / lf
-                
-                
-                #l1 = self.languages[lang1]
-                #for lang2 in self.cognate_sets[cognate_set]:
-                #    l2 = self.languages[lang2]
-                    # for word_form1 in self.cognate_sets[cognate_set][lang1]:
-                    #     word_form1 = strip_ch(word_form1, ['(', ')'])
-                    #     for word_form2 in self.cognate_sets[cognate_set][lang2]:
-                    #         word_form2 = strip_ch(word_form2, ['(', ')'])
-                    #         if (l1 != l2) or (word_form1 != word_form2):
-                    #             item = (lang1, word_form1, lang2, word_form2)
-                    #             if item not in checked:
-                    #                 #cognate_set_diversity[item] = 1 - word_sim((word_form1, l1), (word_form2, l2))
-                    #                 if word_form1 == word_form2:
-                    #                     cognate_set_diversity[item] = 1
-                    #                 else:
-                    #                     cognate_set_diversity[item] = 0
-                    #                 checked.append(item)
-                    #                 checked.append((lang2, word_form2, lang1, word_form1))
-            #if len(cognate_set_diversity) > 0:
-            #    diversity_scores[cognate_set] = mean(cognate_set_diversity.values())
+                #diversity_scores[cognate_set] = len(set(forms)) / lf
+                diversity_scores[concept].append(len(set(forms)) / lf)
+        
+        for concept in diversity_scores:
+            diversity_scores[concept] = mean(diversity_scores[concept])
+        
         return mean(diversity_scores.values())
                     
         
@@ -785,7 +769,7 @@ class Dataset:
         return s
 
 #%%
-class Language(Dataset):
+class Language(LexicalDataset):
     def __init__(self, name, data, 
                  lang_id=None, glottocode=None, iso_code=None, family=None,
                  segments_c='Segments', ipa_c='Form', 
@@ -1132,7 +1116,7 @@ for family in ['Arabic',
     family_path = re.sub('-', '_', family).lower()
     filepath = datasets_path + family + f'/{family_path}_data.csv'
     print(f'Loading {family}...')
-    families[family] = Dataset(filepath, family)
+    families[family] = LexicalDataset(filepath, family)
     #families[family].prune_languages(min_amc=0.75, concept_list=common_concepts)
     #families[family].write_vocab_index()
     language_variables = {format_as_variable(lang):families[family].languages[lang] 

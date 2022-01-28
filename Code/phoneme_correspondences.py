@@ -2,7 +2,6 @@ import os, itertools, random
 from auxiliary_functions import *
 from phonetic_distance import *
 from statistics import mean, stdev
-#from scipy.stats import norm
 
 
 class PhonemeCorrDetector:

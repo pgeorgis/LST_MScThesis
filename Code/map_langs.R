@@ -5,8 +5,19 @@ lang_data <- read.csv("Languages.csv", sep="\t")
 #Rename Family field of Hokan dataset to "Hokan"
 lang_data[lang_data$Dataset=='Hokan',"Family"] = 'Hokan'
 
-#Map all languages
-map.feature(languages=lang_data$Name, features=lang_data$Family, latitude=lang_data$Latitude, longitude=lang_data$Longitude, color='Paired', zoom.control = TRUE)
+#Rename Niger-Congo --> Atlantic-Congo
+lang_data[lang_data$Dataset=='Bantu',"Family"] = 'Atlantic-Congo'
+
+#Map all languages by top-level family
+map.feature(languages=lang_data$Name, features=lang_data$Family, latitude=lang_data$Latitude, longitude=lang_data$Longitude, color='Accent', zoom.control = TRUE)
+
+#Map languages by dataset
+lang_data[lang_data$Dataset=='Baltic',"Dataset"] = 'Balto-Slavic'
+lang_data[lang_data$Dataset=='Slavic',"Dataset"] = 'Balto-Slavic'
+lang_data[lang_data$Dataset=='NorthEuraLex',"Dataset"] = 'Balto-Slavic'
+map.feature(languages=lang_data$Name, features=lang_data$Dataset, latitude=lang_data$Latitude, longitude=lang_data$Longitude, color='Accent', zoom.control = TRUE,
+            map.orientation = "Pacific")
+
 
 #Map Hokan
 hokan = lang_data[lang_data$Dataset=='Hokan',]
@@ -41,7 +52,8 @@ sinitic <- lang_data[lang_data$Dataset=='Sinitic',]
 sinitic_subfamilies = sinitic$Classification
 sinitic_subfamilies = strsplit(sinitic_subfamilies, ",")
 sinitic_subfamilies = sapply(sinitic_subfamilies, "[", 3)
-map.feature(languages=sinitic$Name, features=sinitic_subfamilies, latitude=sinitic$Latitude, longitude=sinitic$Longitude)
+map.feature(languages=sinitic$Name, features=sinitic_subfamilies, latitude=sinitic$Latitude, longitude=sinitic$Longitude,
+            zoom.control = TRUE)
 
 #Map Polynesian
 polynesian <- lang_data[lang_data$Dataset=='Polynesian',]
@@ -79,7 +91,7 @@ quechuan <- lang_data[lang_data$Dataset=='Quechuan',]
 quechuan_subfamilies = quechuan$Classification
 quechuan_subfamilies = strsplit(quechuan_subfamilies, ",")
 quechuan_subfamilies = sapply(quechuan_subfamilies, "[", 3)
-map.feature(languages=quechuan$Name, features=quechuan_subfamilies, latitude=quechuan$Latitude, longitude=quechuan$Longitude)
+map.feature(languages=quechuan$Name, features=quechuan_subfamilies, latitude=quechuan$Latitude, longitude=quechuan$Longitude, zoom.control = TRUE)
 
 #Map Japonic
 japonic <- lang_data[lang_data$Dataset=='Japonic',]

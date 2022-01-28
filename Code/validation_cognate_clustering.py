@@ -2,7 +2,7 @@
 import pandas as pd
 from load_languages import *
 from auxiliary_functions import chunk_list, rescale
-import seaborn as sns
+krsimport seaborn as sns
 sns.set(font_scale=1.0)
 
 #%%

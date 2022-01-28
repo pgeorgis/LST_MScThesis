@@ -3,6 +3,8 @@ from load_languages import *
 import re
 from scipy.spatial.distance import squareform
 from scipy.cluster.hierarchy import dendrogram, linkage, fcluster, to_tree
+from skbio import DistanceMatrix
+from skbio.tree import nj
 
 #%%
 destination = '../Results/Trees/'
@@ -15,33 +17,13 @@ functions = {'PMI':(score_pmi, False, 0.36),
              'Levenshtein':(LevenshteinDist, False, 0.73)
              }
 
-
-#OPTIMAL VALUES FROM VALIDATION DATASETS ON COMMON CONCEPT SET USING BCUBED F1
-#PMI: 0.34
-#Surprisal unigram: 0.72
-#Surprisal bigram: 0.69
-#Phonetic_mean_penalties (DEFAULT): 0.15 #THIS IS THE VERSION I USE FOR TREE DRAWING
-#Phonetic_summed_penalties: 0.65
-#Hybrid similarity: 0.58 (old) / 0.56 (unigram, mean_sim phonetic - DEFAULT) / 0.64 (unigram, total_sim phonetic)
-#Levenshtein distance of ASJP: 0.66 
-
-#OPTIMAL VALUES FROM CROSS VALIDATION
-#PMI: 0.36
-#Surprisal unigram: 0.74
-#Surprisal bigram: ? not yet run with CV
-#Phonetic_mean_penalties (DEFAULT): 0.16 #THIS IS THE VERSION I USE FOR TREE DRAWING
-#Phonetic_summed_penalties: 0.65
-#Hybrid similarity: 0.58 (old) / 0.57 (unigram, mean_sim phonetic - DEFAULT) / 0.64 (unigram, total_sim phonetic)
-#Levenshtein distance of ASJP: 0.73
-
-
 #%%
 def draw_all_trees(family, newick_directory,
                    concept_list=common_concepts,
                    cognate_types=['auto', 'gold', 'none'],
                    cluster_functions=functions,
                    eval_functions=functions,
-                   linkage_methods=['average', 'complete', 'single', 'ward', 'weighted'],
+                   linkage_methods=['average', 'complete', 'single', 'ward', 'weighted', 'nj'],
                    min_similarities=[i/100 for i in range(0,51,10)],
                    plot=False, plot_directory=None,
                    load_pmi=True,
@@ -119,17 +101,28 @@ def draw_all_trees(family, newick_directory,
                                              min_similarity=min_sim)
                         dists = squareform(dm)
                         
-                        for method in linkage_methods:                
-                            lm = linkage(dists, method, metric='euclidean')
-                            newick_tree = linkage2newick(lm, names)
+                        for method in linkage_methods:   
+                            if method != 'nj':    
+                                lm = linkage(dists, method, metric='euclidean')
+                                newick_tree = linkage2newick(lm, names)
+                            else: #Neighbor-Joining algorithm
+                                lang_names = [re.sub('\(', '{', l) for l in names]
+                                lang_names = [re.sub('\)', '}', l) for l in lang_names]
+                                nj_dm = DistanceMatrix(dists, ids=lang_names)
+                                newick_tree = nj(nj_dm, 
+                                                 disallow_negative_branch_length=True, 
+                                                 result_constructor=str)
+                                
+                            #Fix formatting of Newick string
                             newick_tree = re.sub('\s', '_', newick_tree)
+                            newick_tree = re.sub(',_', ',', newick_tree)
                             
                             if cog == 'auto':
                                 title = f'{family.name} (Cognates:{cluster_label}, Eval:{eval_label}-{calibration_label}-min_{min_sim}, {method})'
                                 newick_title = f'{family.name}_auto-{cluster_label}_{eval_label}-{calibration_label}_min-{min_sim}_{method}.tre'
                             else:
                                 title = f'{family.name} (Cognates:{cog}, Eval:{eval_label}-min_{min_sim}, {method})'
-                                newick_title = f'{family.name}_{cog}_{eval_label}-{calibration_label}-min_{min_sim}_{method}.tre'
+                                newick_title = f'{family.name}_{cog}_{eval_label}-{calibration_label}_min-{min_sim}_{method}.tre'
                                 
                             with open(f'{newick_directory}/{newick_title}', 'w') as f:
                                 f.write(newick_tree)
@@ -147,7 +140,7 @@ for family in families.values():
     plot_directory = family.directory + 'Plots/'
     create_folder(family.name, destination)
     newick_directory = f'{destination}/{family.name}'
-    draw_all_trees(family, 
+    draw_all_trees(family,linkage_methods=['nj'],
                     newick_directory=newick_directory, 
                     plot=False, plot_directory=plot_directory,
-                    load_pmi=True, load_surprisal=True)
+                    load_pmi=False, load_surprisal=False)

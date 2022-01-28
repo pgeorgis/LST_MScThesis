@@ -51,6 +51,13 @@ load_forest <- function(newick_files) {
   return(forest)
 }
 
+GQD_TD_dist <- function(reference_tree, test_tree, add_root = FALSE) {
+  #Returns the Euclidean distance of trees in GQD and TreeDist dimensions 
+  GQD <- gen_quartet_distance(reference_tree, test_tree, add_root=add_root)
+  TD <- TreeDistance(reference_tree, test_tree)
+  return(sqrt(sum(c(GQD^2, TD^2))))
+}
+
 #Function for automatically evaluating a series of trees against one gold tree using GQD
 #Returns the tree which best matches the gold tree
 best_matching_tree <- function(gold_tree, test_forest, method=gen_quartet_distance, forest_names=NULL, add_root=TRUE) {
@@ -64,10 +71,6 @@ best_matching_tree <- function(gold_tree, test_forest, method=gen_quartet_distan
     score <- method(gold_tree, test_tree, add_root=add_root)
     scores <- append(scores, score)
   }
-  #for (test_tree in test_forest) {
-  #  score <- method(gold_tree, test_tree, add_root=add_root)
-  #  scores <- append(scores, score)
-  #}
   
   #Get index of the tree with the minimum distance from the gold tree
   min_index <- which.min(scores)
@@ -87,19 +90,17 @@ best_matching_tree <- function(gold_tree, test_forest, method=gen_quartet_distan
 #Get list of families
 families <- c('Arabic', 
               'Balto-Slavic', 
+              'Bantu',
               'Dravidian',
+              'Hellenic',
               'Hokan',
               'Italic', 
+              'Japonic',
               'Polynesian', 
+              'Quechuan',
               'Sinitic',
               'Turkic', 
               'Uralic',
-              
-              #Validation datasets
-              'Bantu',
-              'Hellenic',
-              'Japonic',
-              'Quechuan',
               'Uto-Aztecan',
               'Vietic',
               

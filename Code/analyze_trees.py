@@ -1,13 +1,16 @@
 import pandas as pd
 from collections import defaultdict
 
-tree_results = pd.read_csv('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Trees/Results/tree_evaluation_results.csv')
+tree_results = pd.read_csv('/Users/phgeorgis/Documents/School/MSc/Saarland_University/Courses/Thesis/Results/Trees/tree_evaluation_results.csv')
 family_trees = defaultdict(lambda:{})
+mcc_trees = defaultdict(lambda:{})
+
 cognate_method_scores = defaultdict(lambda:[])
 eval_method_scores = defaultdict(lambda:[])
 calibration_scores = defaultdict(lambda:[])
 method_scores = defaultdict(lambda:[])
 linkage_scores = defaultdict(lambda:[])
+min_sim_scores = defaultdict(lambda:[])
 
 for i, row in tree_results.iterrows():
     family = row.family
@@ -15,6 +18,7 @@ for i, row in tree_results.iterrows():
     eval_method = row.eval_method
     tree_type = row.tree_type
     GQD = row.GenQuartetDist
+    min_sim = row.min_similarity
     if tree_type != 'MaxCladeCredibility':
         #method_scores['/'.join([cognate_method, eval_method, tree_type])].append(GQD)
         eval_method1, calibration_method = eval_method.split('-')
@@ -23,7 +27,11 @@ for i, row in tree_results.iterrows():
         cognate_method_scores[cognate_method].append(GQD)
         eval_method_scores[eval_method1].append(GQD)
         calibration_scores[calibration_method].append(GQD)
-    family_trees[family]['/'.join([family, cognate_method, eval_method, tree_type])] = GQD
+        min_sim_scores[min_sim].append(GQD)
+        family_trees[family]['/'.join([family, cognate_method, eval_method, min_sim, tree_type])] = GQD
+    else:
+        mcc_trees[family]['/'.join([family, cognate_method, eval_method, tree_type])] = GQD
+    
     
 method_avg_scores = {method:mean(method_scores[method]) for method in method_scores}
 auto_avg_scores = {method:mean(method_scores[method]) for method in method_scores if 'gold' not in method}
@@ -32,7 +40,7 @@ auto_avg_scores = {method:mean(method_scores[method]) for method in method_score
 linkage_GQD = defaultdict(lambda:defaultdict(lambda:[]))
 c_method_GQD = defaultdict(lambda:defaultdict(lambda:[]))
 e_method_GQD = defaultdict(lambda:defaultdict(lambda:[]))
-#calibration_GQD = defaultdict(lambda:defaultdict(lambda:[]))
+min_sim_GQD = defaultdict(lambda:defaultdict(lambda:[]))
 n_trees = 0
 
 auto_cognate_sets = defaultdict(lambda:[])
@@ -83,12 +91,13 @@ for family in sorted(list(family_trees.keys())):
             
     
     for tree in family_trees[family]:
-        f, cognate_method, eval_method, linkage_method = tree.split('/')
+        f, cognate_method, eval_method, min_sim, linkage_method = tree.split('/')
         if linkage_method != 'MaxCladeCredibility':
             GQD = family_trees[family][tree]
             linkage_GQD[family][linkage_method].append(GQD)
             c_method_GQD[family][cognate_method].append(GQD)
             e_method_GQD[family][eval_method].append(GQD)
+            min_sim_GQD[family][min_sim].append(GQD)
             
     #Get methods used for best auto trees
     best_score = min(auto_trees.values())
@@ -110,32 +119,34 @@ for c_method in c_method_GQD['Arabic']:
         methods_GQD[c_method].extend(c_method_GQD[family][c_method])
         
 #%%
+mcc_analysis = defaultdict(lambda:defaultdict(lambda:[]))
 
-# Build the plot
-fig, ax = plt.subplots()
-ax.bar(x_pos, CTEs, yerr=error, align='center', alpha=0.5, ecolor='black', capsize=10)
-# Create lists for the plot
-method = ['Phonetic', 'PMI', 'Surprisal', 'Hybrid', 'Gold', 'None']
-x_pos = np.arange(len(method))
-CTEs = [aluminum_mean, copper_mean, steel_mean]
-error = [aluminum_std, copper_std, steel_std]
+for family in mcc_trees:
+    for tree_id in mcc_trees[family]:
+        score = mcc_trees[family][tree_id]
+        tree_id = tree_id.split('/')[1:-1]
+        tree_id[1] = tree_id[1].split('-')[0]
+        if tree_id[0] == 'gold':
+            mcc_analysis[family][tree_id[1]].append(score)
+    for method in mcc_analysis[family]:
+        mcc_analysis[family][method] = min(mcc_analysis[family][method])
 
-    
+#%%
+best_trees = defaultdict(lambda:defaultdict(lambda:[]))
 
-    
-    
-#%%    
-    cognate_method = row.cognate_method
-    if cognate_method != 'gold':
-        tree_type = row.tree_type
-        if tree_type != 'MaxCladeCredibility':
-            n_trees += 1
-            GQD = row.GenQuartetDist
-            family = row.family
-            linkage_GQD[family][tree_type] += GQD
-            c_method_GQD[family][cognate_method] += GQD
-            eval_method = row.eval_method
-            e_method_GQD[family][eval_method] += GQD
-            calibration = eval_method.split('-')[1]
-            calibration_GQD[family][calibration] += GQD
-            
+for family in family_trees:
+    for tree_id in family_trees[family]:
+        score = family_trees[family][tree_id]
+        tree_id = tree_id.split('/')[1:-2]
+        tree_id[1] = tree_id[1].split('-')[0]
+        if tree_id[0] == 'gold':
+            best_trees[family][tree_id[1]].append(score)
+    for method in best_trees[family]:
+        best_trees[family][method] = min(best_trees[family][method])
+        
+for method in ['Phonetic', 'PMI', 'Surprisal', 'Hybrid', 'Levenshtein']:
+    print(method.upper())
+    for family in best_trees:
+        print(best_trees[family][method])
+    print('\n')
+
