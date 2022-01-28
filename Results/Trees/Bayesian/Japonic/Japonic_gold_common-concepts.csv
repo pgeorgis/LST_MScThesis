@@ -14,7 +14,7 @@ Ishikawa,COLD,sabui,1
 Kagawa,COLD,sabui,1
 Kanagawa,COLD,samiː,1
 Kumamoto,COLD,saɴka,1
-Kyōtō,COLD,samui,1
+Kyōto,COLD,samui,1
 Mie,COLD,samui,1
 Miyazaki,COLD,sami,1
 Nagano,COLD,sabiː,1
@@ -78,7 +78,7 @@ Kagawa,WIDE,çiroi,6
 Kagoshima,WIDE,çire,6
 Kanagawa,WIDE,çireː,6
 Kumamoto,WIDE,çiroka,6
-Kyōtō,WIDE,çiroi,6
+Kyōto,WIDE,çiroi,6
 Kōchi,WIDE,çiroi,6
 Mie,WIDE,çiroi,6
 Miyagi,WIDE,çiroe,6
@@ -141,7 +141,7 @@ Kagawa,DOG,inu,10
 Kagoshima,DOG,iɴ,10
 Kanagawa,DOG,inu,10
 Kumamoto,DOG,iɴ,10
-Kyōtō,DOG,inu,10
+Kyōto,DOG,inu,10
 Kōchi,DOG,inu,10
 Mie,DOG,inu,10
 Miyagi,DOG,enu,10
@@ -194,7 +194,7 @@ Kagawa,KNOW (SOMETHING),ʃiru,11
 Kagoshima,KNOW (SOMETHING),ʃiʔ,11
 Kanagawa,KNOW (SOMETHING),ʃiru,11
 Kumamoto,KNOW (SOMETHING),ʃiru,11
-Kyōtō,KNOW (SOMETHING),ʃiru,11
+Kyōto,KNOW (SOMETHING),ʃiru,11
 Kōchi,KNOW (SOMETHING),ʃiru,11
 Mie,KNOW (SOMETHING),ʃiru,11
 Miyagi,KNOW (SOMETHING),suru,11
@@ -256,7 +256,7 @@ Kagawa,CLOUD,kumo,17
 Kagoshima,CLOUD,kumo,17
 Kanagawa,CLOUD,kumo,17
 Kumamoto,CLOUD,kumo,17
-Kyōtō,CLOUD,kumo,17
+Kyōto,CLOUD,kumo,17
 Kōchi,CLOUD,kumo,17
 Mie,CLOUD,kumo,17
 Miyagi,CLOUD,kumo,17
@@ -344,7 +344,7 @@ Yamanashi,BURN,jaku,19
 Yonaguni,BURN,daɡuɴ,19
 Ōita,BURN,jaku,19
 Ōsaka,BURN,jaku,19
-Kyōtō,BURN,taku,20
+Kyōto,BURN,taku,20
 Shiga,BURN,taku,20
 Old_Japanese,BURN,moju,21
 Aichi,NECK,kubi,22
@@ -368,7 +368,7 @@ Kagawa,NECK,kubi,22
 Kagoshima,NECK,kuʔ,22
 Kanagawa,NECK,kubi,22
 Kumamoto,NECK,kubi,22
-Kyōtō,NECK,kubi,22
+Kyōto,NECK,kubi,22
 Kōchi,NECK,kubi,22
 Mie,NECK,kubi,22
 Miyagi,NECK,kuɴpita,22
@@ -426,7 +426,7 @@ Kagawa,MALE PERSON,otoko,26
 Kagoshima,MALE PERSON,otoko,26
 Kanagawa,MALE PERSON,otoko,26
 Kumamoto,MALE PERSON,otoko,26
-Kyōtō,MALE PERSON,otoko,26
+Kyōto,MALE PERSON,otoko,26
 Kōchi,MALE PERSON,otoko,26
 Mie,MALE PERSON,otoko,26
 Miyagi,MALE PERSON,odoɡo,26
@@ -489,7 +489,7 @@ Kagawa,STONE,iʃi,29
 Kagoshima,STONE,iʃ,29
 Kanagawa,STONE,iʃi,29
 Kumamoto,STONE,iʃi,29
-Kyōtō,STONE,iʃi,29
+Kyōto,STONE,iʃi,29
 Kōchi,STONE,iʃi,29
 Mie,STONE,iʃi,29
 Miyagi,STONE,esu,29
@@ -569,7 +569,7 @@ Ikema,COUNT,jum,32
 Irafu,COUNT,jum,32
 Ishikawa,COUNT,joɴ,32
 Kagawa,COUNT,jomu,32
-Kyōtō,COUNT,jomu,32
+Kyōto,COUNT,jomu,32
 Naze,COUNT,jumjuɴ,32
 Okinawa,COUNT,jumuɴ,32
 Taketomi,COUNT,jumuɴ,32
@@ -605,7 +605,7 @@ Kagawa,THINK,omou,35
 Kagoshima,THINK,omoː,35
 Kanagawa,THINK,omoː,35
 Kumamoto,THINK,omou,35
-Kyōtō,THINK,omou,35
+Kyōto,THINK,omou,35
 Kōchi,THINK,omou,35
 Mie,THINK,omou,35
 Miyagi,THINK,omou,35
@@ -663,7 +663,7 @@ Kagawa,WIND,kaʣe,36
 Kagoshima,WIND,kaʣe,36
 Kanagawa,WIND,kaʣe,36
 Kumamoto,WIND,kaje,36
-Kyōtō,WIND,kaʣe,36
+Kyōto,WIND,kaʣe,36
 Kōchi,WIND,kaʣe,36
 Mie,WIND,kaʣe,36
 Miyagi,WIND,kaɴje,36
@@ -716,7 +716,7 @@ Kagawa,WHITE,ʃiroi,37
 Kagoshima,WHITE,ʃire,37
 Kanagawa,WHITE,ʃireː,37
 Kumamoto,WHITE,ʃiroka,37
-Kyōtō,WHITE,ʃiroi,37
+Kyōto,WHITE,ʃiroi,37
 Kōchi,WHITE,ʃiroi,37
 Mie,WHITE,ʃiroi,37
 Miyagi,WHITE,ʔʃoe,37
@@ -774,7 +774,7 @@ Kagawa,FOOT OR LEG,aʃi,41
 Kagoshima,FOOT OR LEG,aʃ,41
 Kanagawa,FOOT OR LEG,aʃi,41
 Kumamoto,FOOT OR LEG,aʃi,41
-Kyōtō,FOOT OR LEG,aʃi,41
+Kyōto,FOOT OR LEG,aʃi,41
 Kōchi,FOOT OR LEG,aʃi,41
 Mie,FOOT OR LEG,aʃi,41
 Miyagi,FOOT OR LEG,asu,41
@@ -830,7 +830,7 @@ Iwate,EAT,ku,46
 Kagawa,EAT,kuː,46
 Kanagawa,EAT,kuː,46
 Kumamoto,EAT,kuː,46
-Kyōtō,EAT,kuː,46
+Kyōto,EAT,kuː,46
 Kōchi,EAT,kuː,46
 Mie,EAT,kuː,46
 Miyagi,EAT,kuː,46
@@ -890,7 +890,7 @@ Kagawa,HEAVY,omoi,54
 Kagoshima,HEAVY,obi,54
 Kanagawa,HEAVY,omoteː,54
 Kumamoto,HEAVY,omuka,54
-Kyōtō,HEAVY,omotai,54
+Kyōto,HEAVY,omotai,54
 Kōchi,HEAVY,omotai,54
 Mie,HEAVY,omoi,54
 Miyagi,HEAVY,omodɛ,54
@@ -945,7 +945,7 @@ Iwate,SKY,sora,57
 Kagawa,SKY,sora,57
 Kanagawa,SKY,sora,57
 Kumamoto,SKY,sora,57
-Kyōtō,SKY,sora,57
+Kyōto,SKY,sora,57
 Kōchi,SKY,sora,57
 Mie,SKY,sora,57
 Miyagi,SKY,sora,57
@@ -1006,7 +1006,7 @@ Kagawa,TAIL,oː,60
 Kagoshima,TAIL,ʃiːbo,60
 Kanagawa,TAIL,oʔpo,60
 Kumamoto,TAIL,ʃiribo,60
-Kyōtō,TAIL,oː,60
+Kyōto,TAIL,oː,60
 Kōchi,TAIL,obaʔta,60
 Miyagi,TAIL,suʔpo,60
 Miyazaki,TAIL,ʃiriʔpo,60
@@ -1068,7 +1068,7 @@ Kagawa,FIVE,iʦuʦu,64
 Kagoshima,FIVE,iʦuʔ,64
 Kanagawa,FIVE,iʦuʦu,64
 Kumamoto,FIVE,iʦuʦu,64
-Kyōtō,FIVE,iʦuʦu,64
+Kyōto,FIVE,iʦuʦu,64
 Kōchi,FIVE,itutu,64
 Mie,FIVE,iʦuʦu,64
 Miyagi,FIVE,eʣuʣu,64
@@ -1126,7 +1126,7 @@ Kagawa,TOOTH,haː,65
 Kagoshima,TOOTH,ha,65
 Kanagawa,TOOTH,ha,65
 Kumamoto,TOOTH,ha,65
-Kyōtō,TOOTH,haː,65
+Kyōto,TOOTH,haː,65
 Kōchi,TOOTH,ha,65
 Mie,TOOTH,haː,65
 Miyagi,TOOTH,ha,65
@@ -1183,7 +1183,7 @@ Kagawa,SEW,nuː,66
 Kagoshima,SEW,nuː,66
 Kanagawa,SEW,nuː,66
 Kumamoto,SEW,nuː,66
-Kyōtō,SEW,nuː,66
+Kyōto,SEW,nuː,66
 Kōchi,SEW,nuː,66
 Mie,SEW,nuː,66
 Miyagi,SEW,nuː,66
@@ -1242,7 +1242,7 @@ Kagawa,WATER,miʣu,68
 Kagoshima,WATER,miʔ,68
 Kanagawa,WATER,miʣu,68
 Kumamoto,WATER,miʣu,68
-Kyōtō,WATER,miʣu,68
+Kyōto,WATER,miʣu,68
 Kōchi,WATER,miɴdu,68
 Mie,WATER,miʣu,68
 Miyagi,WATER,miɴʣu,68
@@ -1300,7 +1300,7 @@ Kagawa,LEAF,ha,69
 Kagoshima,LEAF,ha,69
 Kanagawa,LEAF,haʔpa,69
 Kumamoto,LEAF,ha,69
-Kyōtō,LEAF,haː,69
+Kyōto,LEAF,haː,69
 Kōchi,LEAF,ha,69
 Mie,LEAF,haː,69
 Miyagi,LEAF,haʔpa,69
@@ -1358,7 +1358,7 @@ Kagawa,HEAR,kiku,70
 Kagoshima,HEAR,kiʔ,70
 Kanagawa,HEAR,kiku,70
 Kumamoto,HEAR,kiku,70
-Kyōtō,HEAR,kiku,70
+Kyōto,HEAR,kiku,70
 Kōchi,HEAR,kiku,70
 Mie,HEAR,kiku,70
 Miyagi,HEAR,kiɡu,70
@@ -1411,7 +1411,7 @@ Iwate,BACK,senaɡa,71
 Kagawa,BACK,senaka,71
 Kagoshima,BACK,senaka,71
 Kanagawa,BACK,senaka,71
-Kyōtō,BACK,senaka,71
+Kyōto,BACK,senaka,71
 Kōchi,BACK,senaka,71
 Mie,BACK,senaka,71
 Miyagi,BACK,ʃenaɡa,71
@@ -1474,7 +1474,7 @@ Kagawa,DRINK,nomu,74
 Kagoshima,DRINK,noɴ,74
 Kanagawa,DRINK,nomu,74
 Kumamoto,DRINK,nomu,74
-Kyōtō,DRINK,nomu,74
+Kyōto,DRINK,nomu,74
 Kōchi,DRINK,nomu,74
 Mie,DRINK,nomu,74
 Miyagi,DRINK,nomu,74
@@ -1556,7 +1556,7 @@ Hiroshima,NEW,ɲiːna,77
 Kagoshima,NEW,ɲike,77
 Miyazaki,NEW,ɲiɴtona,77
 Hyōgo,NEW,sara,78
-Kyōtō,NEW,sara,78
+Kyōto,NEW,sara,78
 Kōchi,NEW,sara,78
 Nara,NEW,saraː,78
 Shiga,NEW,sara,78
@@ -1579,7 +1579,7 @@ Kagawa,SIT,suwaru,79
 Kagoshima,SIT,suwaʔ,79
 Kanagawa,SIT,suwaru,79
 Kumamoto,SIT,suwaru,79
-Kyōtō,SIT,suwaru,79
+Kyōto,SIT,suwaru,79
 Mie,SIT,suwaru,79
 Miyazaki,SIT,suwaru,79
 Nagano,SIT,suwaru,79
@@ -1643,7 +1643,7 @@ Kagawa,EGG,tamaɡo,86
 Kagoshima,EGG,tamaɡo,86
 Kanagawa,EGG,tamaŋo,86
 Kumamoto,EGG,tamaɡo,86
-Kyōtō,EGG,tamaŋo,86
+Kyōto,EGG,tamaŋo,86
 Kōchi,EGG,tamaɴɡo,86
 Mie,EGG,tamaɡo,86
 Miyagi,EGG,tamaŋo,86
@@ -1706,7 +1706,7 @@ Kagawa,ROOT,ne,91
 Kagoshima,ROOT,ne,91
 Kanagawa,ROOT,neʔko,91
 Kumamoto,ROOT,ne,91
-Kyōtō,ROOT,neː,91
+Kyōto,ROOT,neː,91
 Kōchi,ROOT,neː,91
 Mie,ROOT,neː,91
 Miyagi,ROOT,neʔko,91
@@ -1761,7 +1761,7 @@ Kagawa,FIRE,çiː,92
 Kagoshima,FIRE,çi,92
 Kanagawa,FIRE,çi,92
 Kumamoto,FIRE,çiː,92
-Kyōtō,FIRE,çiː,92
+Kyōto,FIRE,çiː,92
 Kōchi,FIRE,çiː,92
 Mie,FIRE,çiː,92
 Miyagi,FIRE,çi,92
@@ -1822,7 +1822,7 @@ Kagawa,SKIN,kawa,94
 Kagoshima,SKIN,kaː,94
 Kanagawa,SKIN,kawa,94
 Kumamoto,SKIN,kawa,94
-Kyōtō,SKIN,kawa,94
+Kyōto,SKIN,kawa,94
 Kōchi,SKIN,kaː,94
 Mie,SKIN,kawa,94
 Miyagi,SKIN,kawa,94
@@ -1874,7 +1874,7 @@ Ishikawa,ASH,hai,95
 Kagawa,ASH,hai,95
 Kagoshima,ASH,heː,95
 Kanagawa,ASH,heː,95
-Kyōtō,ASH,hai,95
+Kyōto,ASH,hai,95
 Kōchi,ASH,hai,95
 Mie,ASH,hai,95
 Miyazaki,ASH,fe,95
@@ -1932,7 +1932,7 @@ Kagawa,THAT,are,99
 Kagoshima,THAT,ai,99
 Kanagawa,THAT,are,99
 Kumamoto,THAT,aru,99
-Kyōtō,THAT,are,99
+Kyōto,THAT,are,99
 Kōchi,THAT,are,99
 Mie,THAT,are,99
 Miyagi,THAT,aeʣu,99
@@ -1990,7 +1990,7 @@ Kagawa,BE DEAD OR DIE,ʃinu,102
 Kagoshima,BE DEAD OR DIE,keʃiɴ,102
 Kanagawa,BE DEAD OR DIE,ʃinu,102
 Kumamoto,BE DEAD OR DIE,ʃinuru,102
-Kyōtō,BE DEAD OR DIE,ʃinu,102
+Kyōto,BE DEAD OR DIE,ʃinu,102
 Kōchi,BE DEAD OR DIE,ʃinuru,102
 Mie,BE DEAD OR DIE,ʃinu,102
 Miyazaki,BE DEAD OR DIE,keʃinuru,102
@@ -2050,7 +2050,7 @@ Kagawa,HAIR,ke,104
 Kagoshima,HAIR,ke,104
 Kanagawa,HAIR,keba,104
 Kumamoto,HAIR,ke,104
-Kyōtō,HAIR,keː,104
+Kyōto,HAIR,keː,104
 Kōchi,HAIR,ke,104
 Mie,HAIR,keː,104
 Miyagi,HAIR,ke,104
@@ -2105,7 +2105,7 @@ Kagawa,OLD,βurui,105
 Kagoshima,OLD,βuri,105
 Kanagawa,OLD,βuriː,105
 Kumamoto,OLD,βuruka,105
-Kyōtō,OLD,βurui,105
+Kyōto,OLD,βurui,105
 Kōchi,OLD,βurui,105
 Mie,OLD,βurui,105
 Miyagi,OLD,βurue,105
@@ -2162,7 +2162,7 @@ Kagawa,MOON,oʦukisaɴ,109
 Kagoshima,MOON,oʦuʔsama,109
 Kanagawa,MOON,oʦukisaɴ,109
 Kumamoto,MOON,ʦuki,109
-Kyōtō,MOON,oʦukisaɴ,109
+Kyōto,MOON,oʦukisaɴ,109
 Kōchi,MOON,tuki,109
 Mie,MOON,oʦukisaɴ,109
 Miyagi,MOON,ʦuɡi,109
@@ -2223,7 +2223,7 @@ Kagawa,ONE,çitoʦu,114
 Kagoshima,ONE,çitoʔ,114
 Kanagawa,ONE,ʃitoʦu,114
 Kumamoto,ONE,çitoʦu,114
-Kyōtō,ONE,ʃitoʦu,114
+Kyōto,ONE,ʃitoʦu,114
 Kōchi,ONE,çitotu,114
 Mie,ONE,çitoʦu,114
 Miyagi,ONE,çitoʦu,114
@@ -2281,7 +2281,7 @@ Kagawa,THREE,miʔʦu,115
 Kagoshima,THREE,miʔʦu,115
 Kanagawa,THREE,miʔʦu,115
 Kumamoto,THREE,miʔʦu,115
-Kyōtō,THREE,miʔʦu,115
+Kyōto,THREE,miʔʦu,115
 Kōchi,THREE,miʔtu,115
 Mie,THREE,miʔʦu,115
 Miyagi,THREE,miʔʦu,115
@@ -2333,7 +2333,7 @@ Kagawa,I,otaʃi,116
 Kagoshima,I,atai,116
 Kanagawa,I,wataʃi,116
 Kumamoto,I,wataʃi,116
-Kyōtō,I,wataʃi,116
+Kyōto,I,wataʃi,116
 Kōchi,I,wataʃi,116
 Mie,I,waʃi,116
 Miyagi,I,wadasu,116
@@ -2394,7 +2394,7 @@ Kagawa,WORM,mimiʣu,118
 Kagoshima,WORM,mimiʣu̥,118
 Kanagawa,WORM,memeʣu,118
 Kumamoto,WORM,mimiʣu,118
-Kyōtō,WORM,memeʣu,118
+Kyōto,WORM,memeʣu,118
 Kōchi,WORM,mimiʣu,118
 Mie,WORM,mimiʣu,118
 Miyagi,WORM,mimiɴʣu,118
@@ -2441,7 +2441,7 @@ Ishikawa,FISH,sakana,119
 Iwate,FISH,sakana,119
 Kagawa,FISH,sakana,119
 Kanagawa,FISH,sakana,119
-Kyōtō,FISH,osakana,119
+Kyōto,FISH,osakana,119
 Mie,FISH,sakana,119
 Miyagi,FISH,saɡana,119
 Nagano,FISH,sakana,119
@@ -2495,7 +2495,7 @@ Hokkaidō,SMALL,ʧiːsai,123
 Ibaraki,SMALL,ʧiʔkoe,123
 Ishikawa,SMALL,ʧiʔʧai,123
 Kanagawa,SMALL,ʧiʔʧeː,123
-Kyōtō,SMALL,ʧiʔʧai,123
+Kyōto,SMALL,ʧiʔʧai,123
 Mie,SMALL,ʧiʔsai,123
 Miyagi,SMALL,ʦaʔkoe,123
 Nagano,SMALL,ʧiːseː,123
@@ -2567,7 +2567,7 @@ Kagawa,GRASS,kusa,130
 Kagoshima,GRASS,kusa,130
 Kanagawa,GRASS,kusa,130
 Kumamoto,GRASS,kusa,130
-Kyōtō,GRASS,kusa,130
+Kyōto,GRASS,kusa,130
 Kōchi,GRASS,kusa,130
 Mie,GRASS,kusa,130
 Miyagi,GRASS,kusa,130
@@ -2620,7 +2620,7 @@ Kagawa,SHORT,miʤikai,131
 Kagoshima,SHORT,miçike,131
 Kanagawa,SHORT,miʤikeː,131
 Kumamoto,SHORT,miʤikaka,131
-Kyōtō,SHORT,miʤikai,131
+Kyōto,SHORT,miʤikai,131
 Kōchi,SHORT,miʣoi,131
 Mie,SHORT,miʤikai,131
 Miyagi,SHORT,miʦukɛ,131
@@ -2684,7 +2684,7 @@ Kagawa,MOUTH,kuʧi,135
 Kagoshima,MOUTH,kuʔ,135
 Kanagawa,MOUTH,kuʧi,135
 Kumamoto,MOUTH,kuʧi,135
-Kyōtō,MOUTH,kuʧi,135
+Kyōto,MOUTH,kuʧi,135
 Kōchi,MOUTH,kuʧi,135
 Mie,MOUTH,kuʧi,135
 Miyagi,MOUTH,kuʦu,135
@@ -2734,7 +2734,7 @@ Ishikawa,WE,watera,136
 Kagawa,WE,otaʃira,136
 Kagoshima,WE,ataitaʔ,136
 Kumamoto,WE,wataʃidoɴ,136
-Kyōtō,WE,wataʃira,136
+Kyōto,WE,wataʃira,136
 Kōchi,WE,wataʃiraː,136
 Mie,WE,wataʃira,136
 Miyagi,WE,wadasudaʦu,136
@@ -2797,7 +2797,7 @@ Kagawa,BIRD,tori,139
 Kagoshima,BIRD,toi,139
 Kanagawa,BIRD,tori,139
 Kumamoto,BIRD,tori,139
-Kyōtō,BIRD,tori,139
+Kyōto,BIRD,tori,139
 Kōchi,BIRD,tori,139
 Mie,BIRD,tori,139
 Miyagi,BIRD,tori,139
@@ -2855,7 +2855,7 @@ Kagawa,PERSON,çito,140
 Kagoshima,PERSON,çito,140
 Kanagawa,PERSON,çito,140
 Kumamoto,PERSON,çito,140
-Kyōtō,PERSON,ʃito,140
+Kyōto,PERSON,ʃito,140
 Kōchi,PERSON,çito,140
 Mie,PERSON,çito,140
 Miyagi,PERSON,çito,140
@@ -2897,7 +2897,7 @@ Hokkaidō,BIG,oːkiː,143
 Hyōgo,BIG,oːkeː,143
 Iwate,BIG,oʔki,143
 Kagawa,BIG,oːkiː,143
-Kyōtō,BIG,oːkiː,143
+Kyōto,BIG,oːkiː,143
 Mie,BIG,oʔkiː,143
 Miyagi,BIG,oʔkiː,143
 Nagasaki,BIG,oːkina,143
@@ -2965,7 +2965,7 @@ Kagawa,BREAST,mune,152
 Kagoshima,BREAST,mune,152
 Kanagawa,BREAST,mune,152
 Kumamoto,BREAST,mune,152
-Kyōtō,BREAST,mune,152
+Kyōto,BREAST,mune,152
 Kōchi,BREAST,mune,152
 Mie,BREAST,mune,152
 Miyagi,BREAST,mune,152
@@ -3028,7 +3028,7 @@ Kagawa,HAND,teː,156
 Kagoshima,HAND,tɨ,156
 Kanagawa,HAND,te,156
 Kumamoto,HAND,ʧe,156
-Kyōtō,HAND,teː,156
+Kyōto,HAND,teː,156
 Kōchi,HAND,te,156
 Mie,HAND,teː,156
 Miyagi,HAND,te,156
@@ -3086,7 +3086,7 @@ Kagawa,SEE,miru,157
 Kagoshima,SEE,miʔ,157
 Kanagawa,SEE,miru,157
 Kumamoto,SEE,miru,157
-Kyōtō,SEE,miru,157
+Kyōto,SEE,miru,157
 Kōchi,SEE,miru,157
 Mie,SEE,miru,157
 Miyagi,SEE,miru,157
@@ -3144,7 +3144,7 @@ Kagawa,SMOKE (EXHAUST),kemuri,159
 Kagoshima,SMOKE (EXHAUST),kemui,159
 Kanagawa,SMOKE (EXHAUST),kebu,159
 Kumamoto,SMOKE (EXHAUST),keburi,159
-Kyōtō,SMOKE (EXHAUST),kemuri,159
+Kyōto,SMOKE (EXHAUST),kemuri,159
 Kōchi,SMOKE (EXHAUST),kemuri,159
 Mie,SMOKE (EXHAUST),keburi,159
 Miyagi,SMOKE (EXHAUST),kemuri,159
@@ -3202,7 +3202,7 @@ Kagawa,STAND,tateru,160
 Kagoshima,STAND,taʔ,160
 Kanagawa,STAND,taʦu,160
 Kumamoto,STAND,taʦu,160
-Kyōtō,STAND,taʦu,160
+Kyōto,STAND,taʦu,160
 Kōchi,STAND,tateru,160
 Mie,STAND,taʦu,160
 Miyagi,STAND,taʣu,160
@@ -3263,7 +3263,7 @@ Kagawa,SNAKE,hebi,162
 Kagoshima,SNAKE,heʔ,162
 Kanagawa,SNAKE,hebi,162
 Kumamoto,SNAKE,hebi,162
-Kyōtō,SNAKE,hebi,162
+Kyōto,SNAKE,hebi,162
 Kōchi,SNAKE,hebi,162
 Miyagi,SNAKE,hebi,162
 Miyazaki,SNAKE,hebi,162
@@ -3316,7 +3316,7 @@ Kagawa,FAR,toːi,166
 Kagoshima,FAR,toe,166
 Kanagawa,FAR,toeː,166
 Kumamoto,FAR,toːka,166
-Kyōtō,FAR,toːi,166
+Kyōto,FAR,toːi,166
 Kōchi,FAR,toːi,166
 Mie,FAR,toːi,166
 Miyagi,FAR,toːe,166
@@ -3370,7 +3370,7 @@ Kagawa,BELLY,hara,169
 Kagoshima,BELLY,hara,169
 Kanagawa,BELLY,hara,169
 Kumamoto,BELLY,hara,169
-Kyōtō,BELLY,hara,169
+Kyōto,BELLY,hara,169
 Kōchi,BELLY,hara,169
 Mie,BELLY,hara,169
 Miyagi,BELLY,hara,169
@@ -3433,7 +3433,7 @@ Kagawa,NO OR NOT,nai,172
 Kagoshima,NO OR NOT,ne,172
 Kanagawa,NO OR NOT,neː,172
 Kumamoto,NO OR NOT,naka,172
-Kyōtō,NO OR NOT,nai,172
+Kyōto,NO OR NOT,nai,172
 Kōchi,NO OR NOT,nai,172
 Mie,NO OR NOT,nai,172
 Miyagi,NO OR NOT,nɛ,172
@@ -3492,7 +3492,7 @@ Kagawa,BONE,hone,174
 Kagoshima,BONE,hone,174
 Kanagawa,BONE,hone,174
 Kumamoto,BONE,hone,174
-Kyōtō,BONE,hone,174
+Kyōto,BONE,hone,174
 Kōchi,BONE,hone,174
 Mie,BONE,hone,174
 Miyagi,BONE,hone,174
@@ -3545,7 +3545,7 @@ Kagawa,SALT,ʃio,175
 Kagoshima,SALT,ʃio,175
 Kanagawa,SALT,ʃiwo,175
 Kumamoto,SALT,ʃio,175
-Kyōtō,SALT,oʃio,175
+Kyōto,SALT,oʃio,175
 Kōchi,SALT,ʃio,175
 Mie,SALT,ʃio,175
 Miyagi,SALT,suo,175
@@ -3608,7 +3608,7 @@ Kagawa,RAIN (PRECIPITATION),ame,177
 Kagoshima,RAIN (PRECIPITATION),ame,177
 Kanagawa,RAIN (PRECIPITATION),ame,177
 Kumamoto,RAIN (PRECIPITATION),ame,177
-Kyōtō,RAIN (PRECIPITATION),ame,177
+Kyōto,RAIN (PRECIPITATION),ame,177
 Kōchi,RAIN (PRECIPITATION),ame,177
 Mie,RAIN (PRECIPITATION),ame,177
 Miyagi,RAIN (PRECIPITATION),ame,177
@@ -3665,7 +3665,7 @@ Kagawa,SLEEP,neru,178
 Kagoshima,SLEEP,nemuʔ,178
 Kanagawa,SLEEP,nemuru,178
 Kumamoto,SLEEP,neburu,178
-Kyōtō,SLEEP,neru,178
+Kyōto,SLEEP,neru,178
 Kōchi,SLEEP,nemuru,178
 Mie,SLEEP,neru,178
 Miyagi,SLEEP,nemuru,178
@@ -3721,7 +3721,7 @@ Kagawa,WET,nureru,182
 Kagoshima,WET,nuruʔ,182
 Kanagawa,WET,nureru,182
 Kumamoto,WET,nururu,182
-Kyōtō,WET,nureru,182
+Kyōto,WET,nureru,182
 Kōchi,WET,nureru,182
 Mie,WET,nureru,182
 Miyagi,WET,nureru,182
@@ -3786,7 +3786,7 @@ Kagawa,LONG,naɡai,188
 Kagoshima,LONG,naɡe,188
 Kanagawa,LONG,naŋeː,188
 Kumamoto,LONG,naɴka,188
-Kyōtō,LONG,naŋai,188
+Kyōto,LONG,naŋai,188
 Kōchi,LONG,naɴɡai,188
 Mie,LONG,naɡai,188
 Miyagi,LONG,naŋɛː,188
@@ -3840,7 +3840,7 @@ Ishikawa,WALK,aruku,189
 Iwate,WALK,aruɡu,189
 Kagawa,WALK,aruku,189
 Kanagawa,WALK,aruku,189
-Kyōtō,WALK,aruku,189
+Kyōto,WALK,aruku,189
 Kōchi,WALK,aruku,189
 Mie,WALK,aruku,189
 Miyagi,WALK,aruɡu,189
@@ -3895,7 +3895,7 @@ Ishikawa,DRY,kawaku,192
 Iwate,DRY,kawaɡu,192
 Kagawa,DRY,kawaku,192
 Kanagawa,DRY,kawaku,192
-Kyōtō,DRY,kawaku,192
+Kyōto,DRY,kawaku,192
 Kōchi,DRY,kaːku,192
 Mie,DRY,kawaku,192
 Miyagi,DRY,kawaɡu,192
@@ -3958,7 +3958,7 @@ Kagawa,THIS,kore,200
 Kagoshima,THIS,koi,200
 Kanagawa,THIS,kore,200
 Kumamoto,THIS,koru,200
-Kyōtō,THIS,kore,200
+Kyōto,THIS,kore,200
 Kōchi,THIS,kore,200
 Mie,THIS,kore,200
 Miyagi,THIS,koeʣu,200
@@ -4014,7 +4014,7 @@ Iwate,COME,kuru,201
 Kagawa,COME,kuru,201
 Kagoshima,COME,kuʔ,201
 Kumamoto,COME,kuru,201
-Kyōtō,COME,kuru,201
+Kyōto,COME,kuru,201
 Kōchi,COME,kuru,201
 Mie,COME,kuru,201
 Miyazaki,COME,kuru,201
@@ -4070,7 +4070,7 @@ Kagawa,NOSE,hana,203
 Kagoshima,NOSE,hana,203
 Kanagawa,NOSE,hana,203
 Kumamoto,NOSE,hana,203
-Kyōtō,NOSE,hana,203
+Kyōto,NOSE,hana,203
 Kōchi,NOSE,hana,203
 Mie,NOSE,hana,203
 Miyagi,NOSE,hana,203
@@ -4122,7 +4122,7 @@ Kagawa,DIRTY,kitanai,204
 Kagoshima,DIRTY,kiʔsanaka,204
 Kanagawa,DIRTY,kitaneː,204
 Kumamoto,DIRTY,kitanaka,204
-Kyōtō,DIRTY,kitanai,204
+Kyōto,DIRTY,kitanai,204
 Mie,DIRTY,kitanai,204
 Miyagi,DIRTY,kidanɛ,204
 Miyazaki,DIRTY,kisane,204
@@ -4207,7 +4207,7 @@ Aomori,NIGHT,baɴŋe,217
 Gunma,NIGHT,joru,217
 Hyōgo,NIGHT,baɴ,217
 Iwate,NIGHT,joma,217
-Kyōtō,NIGHT,joru,217
+Kyōto,NIGHT,joru,217
 Nagano,NIGHT,baɴ,217
 Niigata,NIGHT,joru,217
 Okayama,NIGHT,baɴ,217
@@ -4244,7 +4244,7 @@ Kagawa,KILL,korosu,218
 Kagoshima,KILL,korosu̥,218
 Kanagawa,KILL,korosu,218
 Kumamoto,KILL,korosu,218
-Kyōtō,KILL,korosu,218
+Kyōto,KILL,korosu,218
 Kōchi,KILL,korosu,218
 Mie,KILL,korosu,218
 Miyagi,KILL,korosu,218
@@ -4320,7 +4320,7 @@ Hiroshima,THROW,hoːru,220
 Hyōgo,THROW,horu,220
 Kagawa,THROW,hoːru,220
 Kanagawa,THROW,hoʔpoːru,220
-Kyōtō,THROW,horu,220
+Kyōto,THROW,horu,220
 Kōchi,THROW,hoːru,220
 Mie,THROW,horu,220
 Nara,THROW,hoːru,220
@@ -4360,7 +4360,7 @@ Kagawa,RED,akai,223
 Kagoshima,RED,ake,223
 Kanagawa,RED,akɛ,223
 Kumamoto,RED,aʔka,223
-Kyōtō,RED,akai,223
+Kyōto,RED,akai,223
 Kōchi,RED,akai,223
 Mie,RED,akai,223
 Miyagi,RED,aɡɛː,223
@@ -4424,7 +4424,7 @@ Kagawa,SWIM,ojoɡu,226
 Kagoshima,SWIM,ojoʔ,226
 Kanagawa,SWIM,ojoɡu,226
 Kumamoto,SWIM,ojeɡu,226
-Kyōtō,SWIM,ojoŋu,226
+Kyōto,SWIM,ojoŋu,226
 Kōchi,SWIM,ojoɴɡu,226
 Mie,SWIM,ojoɡu,226
 Miyagi,SWIM,ojoɡu,226
@@ -4475,7 +4475,7 @@ Kagawa,ROPE,nawa,227
 Kagoshima,ROPE,nawa,227
 Kanagawa,ROPE,nawa,227
 Kumamoto,ROPE,nawa,227
-Kyōtō,ROPE,nawa,227
+Kyōto,ROPE,nawa,227
 Kōchi,ROPE,naː,227
 Mie,ROPE,nawa,227
 Miyagi,ROPE,nawa,227
@@ -4527,7 +4527,7 @@ Kagawa,FEMALE PERSON,onaɡo,229
 Kagoshima,FEMALE PERSON,onaɡo,229
 Kanagawa,FEMALE PERSON,oɴna,229
 Kumamoto,FEMALE PERSON,onaɡo,229
-Kyōtō,FEMALE PERSON,oɴna,229
+Kyōto,FEMALE PERSON,oɴna,229
 Kōchi,FEMALE PERSON,oɴna,229
 Mie,FEMALE PERSON,oɴna,229
 Miyagi,FEMALE PERSON,onaŋo,229
@@ -4590,7 +4590,7 @@ Iwate,LIE DOWN,neru,231
 Kagawa,LIE DOWN,neru,231
 Kagoshima,LIE DOWN,neʔ,231
 Kanagawa,LIE DOWN,neru,231
-Kyōtō,LIE DOWN,neru,231
+Kyōto,LIE DOWN,neru,231
 Kōchi,LIE DOWN,neru,231
 Mie,LIE DOWN,neru,231
 Miyagi,LIE DOWN,neru,231
@@ -4650,7 +4650,7 @@ Kagawa,TWO,βutaʦu,235
 Kagoshima,TWO,βutaʔ,235
 Kanagawa,TWO,βutaːʦu,235
 Kumamoto,TWO,βutaʦu,235
-Kyōtō,TWO,βutaʦu,235
+Kyōto,TWO,βutaʦu,235
 Kōchi,TWO,βutaːtu,235
 Mie,TWO,βutaʦu,235
 Miyagi,TWO,βutaʦu,235
@@ -4705,7 +4705,7 @@ Kagawa,SUCK,suː,236
 Kagoshima,SUCK,suː,236
 Kanagawa,SUCK,suː,236
 Kumamoto,SUCK,suː,236
-Kyōtō,SUCK,suː,236
+Kyōto,SUCK,suː,236
 Kōchi,SUCK,suː,236
 Mie,SUCK,suː,236
 Miyagi,SUCK,suː,236
@@ -4762,7 +4762,7 @@ Kagawa,THIN,usui,239
 Kagoshima,THIN,uʃi,239
 Kanagawa,THIN,uʃiː,239
 Kumamoto,THIN,usuka,239
-Kyōtō,THIN,usui,239
+Kyōto,THIN,usui,239
 Kōchi,THIN,usui,239
 Mie,THIN,usui,239
 Miyagi,THIN,usue,239
@@ -4818,7 +4818,7 @@ Kagawa,WHAT,dono,241
 Kagoshima,WHAT,doɴ,241
 Kanagawa,WHAT,dono,241
 Kumamoto,WHAT,doɴ,241
-Kyōtō,WHAT,dono,241
+Kyōto,WHAT,dono,241
 Kōchi,WHAT,ɴdono,241
 Mie,WHAT,dono,241
 Miyagi,WHAT,dono,241
@@ -4881,7 +4881,7 @@ Kagawa,STAR,ohoʔsaɴ,245
 Kagoshima,STAR,hoʃi̥,245
 Kanagawa,STAR,hoːʃisaɴ,245
 Kumamoto,STAR,hoʃi,245
-Kyōtō,STAR,hoʃi,245
+Kyōto,STAR,hoʃi,245
 Kōchi,STAR,hoʃi,245
 Mie,STAR,hoʃi,245
 Miyagi,STAR,ohosusama,245
@@ -4939,7 +4939,7 @@ Kagawa,BLOOD,ʧiː,246
 Kagoshima,BLOOD,ʧiː,246
 Kanagawa,BLOOD,ʧi,246
 Kumamoto,BLOOD,ʧiː,246
-Kyōtō,BLOOD,ʧiː,246
+Kyōto,BLOOD,ʧiː,246
 Kōchi,BLOOD,ʧi,246
 Mie,BLOOD,ʧiː,246
 Miyagi,BLOOD,ʦuː,246
@@ -4994,7 +4994,7 @@ Kagawa,SAY,juː,247
 Kagoshima,SAY,ju,247
 Kanagawa,SAY,juː,247
 Kumamoto,SAY,juː,247
-Kyōtō,SAY,juː,247
+Kyōto,SAY,juː,247
 Kōchi,SAY,juː,247
 Mie,SAY,juː,247
 Miyazaki,SAY,juː,247
@@ -5050,7 +5050,7 @@ Kagawa,BLACK,kuroi,254
 Kagoshima,BLACK,kure,254
 Kanagawa,BLACK,kureː,254
 Kumamoto,BLACK,kuroka,254
-Kyōtō,BLACK,kuroi,254
+Kyōto,BLACK,kuroi,254
 Kōchi,BLACK,kuroi,254
 Mie,BLACK,kuroi,254
 Miyagi,BLACK,kuroe,254
@@ -5112,7 +5112,7 @@ Kagawa,YELLOW,kiː,256
 Kagoshima,YELLOW,kinairo,256
 Kanagawa,YELLOW,kiːro,256
 Kumamoto,YELLOW,kina,256
-Kyōtō,YELLOW,kiːro,256
+Kyōto,YELLOW,kiːro,256
 Kōchi,YELLOW,kiː,256
 Mie,YELLOW,kiːro,256
 Miyagi,YELLOW,kiːro,256
@@ -5190,7 +5190,7 @@ Hokkaidō,WARM,aʔtakai,259
 Ibaraki,WARM,aʔtaɡɛː,259
 Iwate,WARM,aʔtaɡɛ,259
 Kanagawa,WARM,aʔtakeː,259
-Kyōtō,WARM,aʔtakai,259
+Kyōto,WARM,aʔtakai,259
 Miyagi,WARM,aʔtaɡɛː,259
 Nagasaki,WARM,atataka,259
 Niigata,WARM,aʔtakɛ,259
@@ -5224,7 +5224,7 @@ Kagawa,SAND,suna,262
 Kagoshima,SAND,ʣuna,262
 Kanagawa,SAND,suna,262
 Kumamoto,SAND,suna,262
-Kyōtō,SAND,suna,262
+Kyōto,SAND,suna,262
 Kōchi,SAND,suna,262
 Mie,SAND,suna,262
 Miyagi,SAND,suna,262
@@ -5281,7 +5281,7 @@ Kagawa,TONGUE,ʃita,267
 Kagoshima,TONGUE,ʃita,267
 Kanagawa,TONGUE,ʃita,267
 Kumamoto,TONGUE,ʃita,267
-Kyōtō,TONGUE,ʃita,267
+Kyōto,TONGUE,ʃita,267
 Kōchi,TONGUE,ʃita,267
 Mie,TONGUE,ʃita,267
 Nara,TONGUE,ʃitabero,267
@@ -5344,7 +5344,7 @@ Kagawa,NEAR,ʧikai,269
 Kagoshima,NEAR,ʧike,269
 Kanagawa,NEAR,ʧikɛː,269
 Kumamoto,NEAR,ʧikaka,269
-Kyōtō,NEAR,ʧikai,269
+Kyōto,NEAR,ʧikai,269
 Kōchi,NEAR,ʧikai,269
 Mie,NEAR,ʧikai,269
 Miyagi,NEAR,ʦukae,269
@@ -5403,7 +5403,7 @@ Kagawa,FOUR,joʔʦu,272
 Kagoshima,FOUR,joʔʦu,272
 Kanagawa,FOUR,joʔʦu,272
 Kumamoto,FOUR,joʔʦu,272
-Kyōtō,FOUR,joʔʦu,272
+Kyōto,FOUR,joʔʦu,272
 Kōchi,FOUR,joʔʦu,272
 Mie,FOUR,joʔʦu,272
 Miyagi,FOUR,joʔʦu,272
@@ -5461,7 +5461,7 @@ Kagawa,GREEN,aoi,273
 Kagoshima,GREEN,aoka,273
 Kanagawa,GREEN,awɛ,273
 Kumamoto,GREEN,aoka,273
-Kyōtō,GREEN,aoi,273
+Kyōto,GREEN,aoi,273
 Kōchi,GREEN,aoi,273
 Mie,GREEN,aoi,273
 Miyagi,GREEN,aoe,273
@@ -5519,7 +5519,7 @@ Kagawa,WING,hane,275
 Kagoshima,WING,hane,275
 Kanagawa,WING,hane,275
 Kumamoto,WING,hane,275
-Kyōtō,WING,hane,275
+Kyōto,WING,hane,275
 Kōchi,WING,hane,275
 Mie,WING,hane,275
 Miyagi,WING,hane,275
@@ -5572,7 +5572,7 @@ Kagawa,EYE,meː,276
 Kagoshima,EYE,me,276
 Kanagawa,EYE,me,276
 Kumamoto,EYE,me,276
-Kyōtō,EYE,meː,276
+Kyōto,EYE,meː,276
 Kōchi,EYE,meː,276
 Mie,EYE,meː,276
 Miyazaki,EYE,me,276
@@ -5631,7 +5631,7 @@ Iwate,FLESH OR MEAT,niɡu,278
 Kagawa,FLESH OR MEAT,niku,278
 Kagoshima,FLESH OR MEAT,niʔ,278
 Kanagawa,FLESH OR MEAT,niku,278
-Kyōtō,FLESH OR MEAT,niku,278
+Kyōto,FLESH OR MEAT,niku,278
 Kōchi,FLESH OR MEAT,niku,278
 Mie,FLESH OR MEAT,niku,278
 Miyagi,FLESH OR MEAT,niku,278
@@ -5693,7 +5693,7 @@ Kagawa,FAT (ORGANIC SUBSTANCE),abura,281
 Kagoshima,FAT (ORGANIC SUBSTANCE),abura,281
 Kanagawa,FAT (ORGANIC SUBSTANCE),abura,281
 Kumamoto,FAT (ORGANIC SUBSTANCE),abura,281
-Kyōtō,FAT (ORGANIC SUBSTANCE),abura,281
+Kyōto,FAT (ORGANIC SUBSTANCE),abura,281
 Kōchi,FAT (ORGANIC SUBSTANCE),abura,281
 Mie,FAT (ORGANIC SUBSTANCE),abura,281
 Miyagi,FAT (ORGANIC SUBSTANCE),aɴbura,281
@@ -5752,7 +5752,7 @@ Kagawa,EAR,mimi,283
 Kagoshima,EAR,miɴ,283
 Kanagawa,EAR,mimi,283
 Kumamoto,EAR,mimi,283
-Kyōtō,EAR,mimi,283
+Kyōto,EAR,mimi,283
 Kōchi,EAR,mimi,283
 Mie,EAR,mimi,283
 Miyagi,EAR,mimi,283
@@ -5825,7 +5825,7 @@ Wakayama,HEAD,atama,285
 Yamagata,HEAD,adama,285
 Yamanashi,HEAD,atama,285
 Hachijō,HEAD,ʦuburi,286
-Kyōtō,HEAD,oʦumu,286
+Kyōto,HEAD,oʦumu,286
 Nara,HEAD,omuʦuri,286
 Yamaguchi,HEAD,omuʦu,286
 Ōsaka,HEAD,oʦumo,286
@@ -5860,7 +5860,7 @@ Kagawa,EARTH (SOIL),ʦuʃi,293
 Kagoshima,EARTH (SOIL),ʦuʔ,293
 Kanagawa,EARTH (SOIL),ʦuʃi,293
 Kumamoto,EARTH (SOIL),ʦuʃi,293
-Kyōtō,EARTH (SOIL),ʦuʃi,293
+Kyōto,EARTH (SOIL),ʦuʃi,293
 Kōchi,EARTH (SOIL),tuʧi,293
 Mie,EARTH (SOIL),ʦuʃi,293
 Miyagi,EARTH (SOIL),ʦuʣu,293
@@ -5943,7 +5943,7 @@ Kagawa,FALL,oʧiru,302
 Kagoshima,FALL,oʦuʔ,302
 Kanagawa,FALL,okoʔʧiru,302
 Kumamoto,FALL,oʧiru,302
-Kyōtō,FALL,oʧiru,302
+Kyōto,FALL,oʧiru,302
 Kōchi,FALL,oʧiru,302
 Mie,FALL,oʧiru,302
 Miyagi,FALL,oʣuru,302
@@ -6000,7 +6000,7 @@ Kagawa,LAUGH,warau,303
 Kagoshima,LAUGH,waru,303
 Kanagawa,LAUGH,warau,303
 Kumamoto,LAUGH,warau,303
-Kyōtō,LAUGH,warau,303
+Kyōto,LAUGH,warau,303
 Kōchi,LAUGH,warau,303
 Mie,LAUGH,warau,303
 Miyagi,LAUGH,warau,303
@@ -6056,7 +6056,7 @@ Iwate,VOMIT,haɡu,305
 Kagawa,VOMIT,haku,305
 Kanagawa,VOMIT,haku,305
 Kumamoto,VOMIT,haku,305
-Kyōtō,VOMIT,haku,305
+Kyōto,VOMIT,haku,305
 Kōchi,VOMIT,haku,305
 Mie,VOMIT,haku,305
 Miyagi,VOMIT,haɡu,305
@@ -6115,7 +6115,7 @@ Iwate,HOLD,moʣu,309
 Kagoshima,HOLD,moʔ,309
 Kanagawa,HOLD,moʦu,309
 Kumamoto,HOLD,moʦu,309
-Kyōtō,HOLD,moʦu,309
+Kyōto,HOLD,moʦu,309
 Mie,HOLD,moʦu,309
 Miyazaki,HOLD,moʦu,309
 Nagano,HOLD,moʦu,309
@@ -6175,7 +6175,7 @@ Kagawa,YEAR,toʃi,312
 Kagoshima,YEAR,toʃi̥,312
 Kanagawa,YEAR,toʃi,312
 Kumamoto,YEAR,toʃi,312
-Kyōtō,YEAR,toʃi,312
+Kyōto,YEAR,toʃi,312
 Kōchi,YEAR,toʃi,312
 Mie,YEAR,toʃi,312
 Miyagi,YEAR,tosu,312
@@ -6228,7 +6228,7 @@ Kagawa,GOOD,eː,313
 Kagoshima,GOOD,joka,313
 Kanagawa,GOOD,iː,313
 Kumamoto,GOOD,joka,313
-Kyōtō,GOOD,eː,313
+Kyōto,GOOD,eː,313
 Kōchi,GOOD,ei,313
 Mie,GOOD,eː,313
 Miyagi,GOOD,eː,313
@@ -6285,7 +6285,7 @@ Kagawa,ALL,miɴna,316
 Kagoshima,ALL,miɴna,316
 Kanagawa,ALL,miɴna,316
 Kumamoto,ALL,mina,316
-Kyōtō,ALL,miɴna,316
+Kyōto,ALL,miɴna,316
 Kōchi,ALL,miɴnaː,316
 Mie,ALL,mina,316
 Miyagi,ALL,miɴna,316
@@ -6329,7 +6329,7 @@ Hateruma,BITE,kamisɨkuɴ,321
 Hokkaidō,BITE,kamiʦuku,321
 Ishigaki,BITE,kamuɴ,321
 Ishikawa,BITE,kamu,321
-Kyōtō,BITE,kamiʦuku,321
+Kyōto,BITE,kamiʦuku,321
 Old_Japanese,BITE,kamu,321
 Toyama,BITE,kamu,321
 Tōkyō,BITE,kamiʦuku,321
@@ -6364,7 +6364,7 @@ Kagawa,FEATHER,hane,326
 Kagoshima,FEATHER,haneɡe,326
 Kanagawa,FEATHER,keba,326
 Kumamoto,FEATHER,hane,326
-Kyōtō,FEATHER,hane,326
+Kyōto,FEATHER,hane,326
 Kōchi,FEATHER,hane,326
 Mie,FEATHER,hane,326
 Miyagi,FEATHER,hane,326
@@ -6427,7 +6427,7 @@ Kagawa,FLY (MOVE THROUGH AIR),tobu,331
 Kagoshima,FLY (MOVE THROUGH AIR),toʔ,331
 Kanagawa,FLY (MOVE THROUGH AIR),tobu,331
 Kumamoto,FLY (MOVE THROUGH AIR),tobu,331
-Kyōtō,FLY (MOVE THROUGH AIR),tobu,331
+Kyōto,FLY (MOVE THROUGH AIR),tobu,331
 Kōchi,FLY (MOVE THROUGH AIR),tobu,331
 Mie,FLY (MOVE THROUGH AIR),tobu,331
 Miyagi,FLY (MOVE THROUGH AIR),toɴbu,331
@@ -6489,7 +6489,7 @@ Kagawa,PATH OR ROAD,miʧi,339
 Kagoshima,PATH OR ROAD,miʔ,339
 Kanagawa,PATH OR ROAD,miʧi,339
 Kumamoto,PATH OR ROAD,miʧi,339
-Kyōtō,PATH OR ROAD,miʧi,339
+Kyōto,PATH OR ROAD,miʧi,339
 Kōchi,PATH OR ROAD,miʧi,339
 Mie,PATH OR ROAD,miʧi,339
 Miyazaki,PATH OR ROAD,miʧi,339
@@ -6548,7 +6548,7 @@ Kagawa,FLOWER,hana,342
 Kagoshima,FLOWER,hana,342
 Kanagawa,FLOWER,hana,342
 Kumamoto,FLOWER,hana,342
-Kyōtō,FLOWER,hana,342
+Kyōto,FLOWER,hana,342
 Kōchi,FLOWER,hana,342
 Mie,FLOWER,hana,342
 Miyagi,FLOWER,hana,342
@@ -6601,7 +6601,7 @@ Kagawa,LOUSE,ʃirami,343
 Kagoshima,LOUSE,ʃirame,343
 Kanagawa,LOUSE,ʃirami,343
 Kumamoto,LOUSE,ʃirame,343
-Kyōtō,LOUSE,ʃirame,343
+Kyōto,LOUSE,ʃirame,343
 Kōchi,LOUSE,ʃirami,343
 Mie,LOUSE,ʃirami,343
 Miyagi,LOUSE,surame,343
@@ -6664,7 +6664,7 @@ Kagawa,NAME,namae,345
 Kagoshima,NAME,namae,345
 Kanagawa,NAME,nameː,345
 Kumamoto,NAME,na,345
-Kyōtō,NAME,namae,345
+Kyōto,NAME,namae,345
 Kōchi,NAME,namae,345
 Mie,NAME,naː,345
 Miyagi,NAME,namɛː,345
@@ -6715,7 +6715,7 @@ Kagawa,WHO,doiʦu,346
 Kagoshima,WHO,doɴʃi,346
 Kanagawa,WHO,donoçito,346
 Kumamoto,WHO,donoçito,346
-Kyōtō,WHO,donoçito,346
+Kyōto,WHO,donoçito,346
 Kōchi,WHO,ɴdonoçito,346
 Mie,WHO,donoçito,346
 Miyagi,WHO,donoçito,346
@@ -6771,7 +6771,7 @@ Kagawa,WHERE,doko,351
 Kagoshima,WHERE,doko,351
 Kanagawa,WHERE,doko,351
 Kumamoto,WHERE,doko,351
-Kyōtō,WHERE,doko,351
+Kyōto,WHERE,doko,351
 Kōchi,WHERE,ɴdoko,351
 Mie,WHERE,doko,351
 Miyagi,WHERE,doɡo,351
