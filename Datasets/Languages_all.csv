@@ -27,7 +27,7 @@ Bantu	Niger-Congo, Southern Bantoid, Narrow Bantu, Central-Western Bantu, Njila	
 Bantu	Niger-Congo, Southern Bantoid, Narrow Bantu, Central-Western Bantu, Njila	Umbundu	r11umbundu	Umbundu	umbu1257	umb	Umbundu	Niger-Congo	Africa	-12.4763	14.4148	Grollemund et al., 2015	
 Bantu	Niger-Congo, Southern Bantoid, Narrow Bantu, Central-Western Bantu, North Zaire River	Lingala	c36dlingala	Lingala	ling1263	lin	Lingala	Niger-Congo	Africa	-4.409174	15.28532	Grollemund et al., 2015	
 Bantu	Niger-Congo, Southern Bantoid, Narrow Bantu, Central-Western Bantu, North Zaire River	Yaka	c104aka	Yaka (Central African Republic)	yaka1272	axk	Yaka (Central African Republic)	Niger-Congo	Africa	3.6515	17.2713	Grollemund et al., 2015	
-Bantu	Niger-Congo, Southern Bantoid, Narrow Bantu, Central-Western Bantu, West-Coastal Bantu	Koongo	h16kikongo	Koongo	koon1244	kng	Koongo	Niger-Congo	Africa	-5.57722	14.4771	Grollemund et al., 2015	
+Bantu	Niger-Congo, Southern Bantoid, Narrow Bantu, Central-Western Bantu, West-Coastal Bantu	Koongo	h16kikongo	Koongo	koon1244	kng	South-Central Koongo	Niger-Congo	Africa	-5.57722	14.4771	Grollemund et al., 2015	
 Bantu	Niger-Congo, Southern Bantoid, Narrow Bantu, East Bantu, Botatwe	Tonga	m64tonga	Tonga	tong1318	toi	Tonga (Zambia)	Niger-Congo	Africa	-17.422325	27.103495	Grollemund et al., 2015	
 Bantu	Niger-Congo, Southern Bantoid, Narrow Bantu, East Bantu, Northeast Savanna Bantu	Ganda	je15luganda	Ganda	gand1255	lug	Ganda	Niger-Congo	Africa	0.66884	32.15153	Grollemund et al., 2015	
 Bantu	Niger-Congo, Southern Bantoid, Narrow Bantu, East Bantu, Northeast Savanna Bantu	Gogo	g11gogo	Gogo	gogo1263	gog	Gogo	Niger-Congo	Africa	-6.35951	35.4807	Grollemund et al., 2015	
@@ -80,7 +80,7 @@ Hellenic	Indo-European, Hellenic, East Greek, Modern Koineic Greek, Cappadocian 
 Hellenic	Indo-European, Hellenic, East Greek, Modern Koineic Greek, Cappadocian Greek	Western Cappadocian Greek	Cappadocian Greek (Aravan)	Western Cappadocian	west2337	cpg	Cappadocian Greek	Indo-European	Eurasia	38.5476601	34.8696135	Kassian (2015)	Aravan dialect
 Hellenic	Indo-European, Hellenic, East Greek, Modern Koineic Greek, Nuclear Modern Greek	Modern Demotic Greek	Modern Demotic Greek	Dimotiki	dimo1238	ell	Modern Greek (1453-)	Indo-European	Eurasia	38.9954	21.987713	Evdokimova & Kassian (2014)	Athens and Thessaloniki
 Hellenic	Indo-European, Hellenic, Tsakonian	Southern Tsakonian	Southern Tsakonian	Southern Tsakonian	sout2607	tsd	Tsakonian	Indo-European	Eurasia	37.1671554	22.8608871	Kassian (2015)	
-Hokan	Chimariko	Chimariko	Chimariko	Chimariko	chim1301	cid	Chimariko	Isolate	North America	41.0	-123.0	Zhivlov (2011)	
+Hokan	Chimariko	Chimariko	Chimariko	Chimariko	chim1301	cid	Chimariko	Isolate	North America	41.0	-123.0	Zhivlov (2012)	
 Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman	Cocopa	Cocopa	Cocopa	coco1261	coc	Cocopa	Cochimi-Yuman	North America	32.376	-114.848	Zhivlov (2015)	
 Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Ipai	Mesa Grande 'Iipay	Ipai	ipai1240	dih	Kumiai	Cochimi-Yuman	North America	33.005	-116.993	Zhivlov (2015)	
 Hokan	Cochimi-Yuman, Yuman, Delta-Californian Yuman, Diegueño	Tipai	Jamul Tiipay	Tipai	kumi1248	dih	Kumiai	Cochimi-Yuman	North America	32.331	-116.604	Zhivlov (2015)	
@@ -124,98 +124,98 @@ Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Manises)	M
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Minorcan)	Minorcan Catalan	Menorquí	meno1253	cat	Catalan	Indo-European	Eurasia	39.9496	4.1104	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Northwestern)	North-Western Catalan	Català Nord-Occidental	cata1291	cat	Catalan	Indo-European	Eurasia	41.3985	0.7913	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Catalan (Valencia)	Valencia Catalan	Valencià	vale1252	cat	Valencian	Indo-European	Eurasia	39.4699	-0.3763	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Emiliano (Carpigiano)	Carpigiano Emiliano	Emiliano	emil1241	egl	Emilian	Indo-European	Eurasia	44.7839	11.5794	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Emiliano (Ferrarese)	Ferrarese Emiliano	Eastern Emiliano	east2275	egl	Emilian	Indo-European	Eurasia	44.8381	11.6198	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Emiliano (Reggiano)	Reggiano Emiliano	Central Emiliano	cent1959	egl	Emilian	Indo-European	Eurasia	44.699	10.6297	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Franco-Provençal	Savoyard Franco-Provençal	Savoyard	savo1253	frp	Francoprovençal	Indo-European	Eurasia	45.8051	6.48152	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance	French	Standard French	French	stan1290	fra	French	Indo-European	Eurasia	48.0	2.0	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Friulian	Friulian	Friulian	friu1240	fur	Friulian	Indo-European	Eurasia	46.1473	13.0493	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Ladin (Fassano)	Fassano Ladin	Fassano	fass1244	lld	Ladin	Indo-European	Eurasia	46.4333	11.7	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Ladin (Gardenese)	Gardenese Ladin	Gardenese	gard1241	lld	Ladin	Indo-European	Eurasia	46.5559	11.7028	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Indo-European	Eurasia	44.0	6.0	Saenko (2015)	Named Occitan rather than Provençal in order to avoid confusion with Franco-Provençal
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Old French	Old French	Old French (842-ca. 1400)	oldf1239	fro	Old French (842-ca. 1400)	Indo-European	Eurasia	48.8	1.11	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Picard	Picard	Picard	pica1241	pcd	Picard	Indo-European	Eurasia	50.2831	3.25085	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Grischun)	Rumantsch Grischun	Rumantsch Grischun	ruma1247	roh	Romansh	Indo-European	Eurasia	46.5538	9.92812	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Surmiran)	Surmiran Romansh	Surmiran-Albula	surm1243	roh	Romansh	Indo-European	Eurasia	46.7123	9.4494	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Sursilvan)	Sursilvan Romansh	Sursilvan	surs1244	roh	Romansh	Indo-European	Eurasia	46.6881	9.2007	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Vallader)	Vallader Romansh	Lower Engadine	lowe1386	roh	Romansh	Indo-European	Eurasia	46.5497	9.8959	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Walloon	Walloon	Walloon	wall1255	wln	Walloon	Indo-European	Eurasia	50.2235	5.14509	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Emiliano (Carpigiano)	Carpigiano Emiliano	Emiliano	emil1241	egl	Emilian	Indo-European	Eurasia	44.7839	11.5794	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Emiliano (Ferrarese)	Ferrarese Emiliano	Eastern Emiliano	east2275	egl	Emilian	Indo-European	Eurasia	44.8381	11.6198	Saenko (2015)	
+Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Emiliano (Reggiano)	Reggiano Emiliano	Central Emiliano	cent1959	egl	Emilian	Indo-European	Eurasia	44.699	10.6297	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Ligurian (Genoa)	Genoese Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.4056	8.9463	Saenko (2015)	Dialect of Genoa
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Ligurian (Rapallo)	Rapallo Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.3498	9.2339	Saenko (2015)	Close subdialect of Genoese
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Ligurian (Stella)	Stella Ligurian	Genoese	geno1240	lij	Ligurian	Indo-European	Eurasia	44.394	8.4952	Saenko (2015)	Central Ligurian (ligure centrale/centro-occidentale) dialect of Province of Savona
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Lombard (Bergamo)	Bergamo Lombard	Bergamasco	berg1241	lmo	Lombard	Indo-European	Eurasia	45.6983	9.6773	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Lombard (Plesio)	Plesio Lombard	Western Lombard	west2343	lmo	Lombard	Indo-European	Eurasia	46.0633	9.2074	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Occitan	Provençal Occitan	Provençal	prov1235	oci	Occitan (post 1500)	Indo-European	Eurasia	44.0	6.0	Saenko (2015)	Named Occitan rather than Provençal in order to avoid confusion with Franco-Provençal
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Old French	Old French	Old French (842-ca. 1400)	oldf1239	fro	Old French (842-ca. 1400)	Indo-European	Eurasia	48.8	1.11	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Picard	Picard	Picard	pica1241	pcd	Picard	Indo-European	Eurasia	50.2831	3.25085	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Barbania)	Barbania Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.2913	7.6312	Saenko (2015)	Close subdialect of the Turinese dialect
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Carmagnola)	Carmagnola Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	44.8459	7.7174	Saenko (2015)	Close subdialect of the Turinese dialect
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Lanzo Torinese)	Lanzo Torinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.2701	7.4775	Saenko (2015)	Close subdialect of the Turinese dialect
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Turinese)	Turinese Piemontese	Turinese	turi1245	pms	Piemontese	Indo-European	Eurasia	45.0703	7.6869	Saenko (2015)	Close subdialect of the Turinese dialect
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Piedmontese (Vercellese)	Vercellese Piemontese	Low Piemontese	lowp1238	pms	Piemontese	Indo-European	Eurasia	45.3202	8.4186	Saenko (2015)	Eastern/Low Piemontese, transitional to Lombard
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Romagnol	Ravennate Romagnol	Romagnol	roma1328	rgn	Romagnol	Indo-European	Eurasia	44.2349	11.7189	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Grischun)	Rumantsch Grischun	Rumantsch Grischun	ruma1247	roh	Romansh	Indo-European	Eurasia	46.5538	9.92812	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Surmiran)	Surmiran Romansh	Surmiran-Albula	surm1243	roh	Romansh	Indo-European	Eurasia	46.7123	9.4494	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Sursilvan)	Sursilvan Romansh	Sursilvan	surs1244	roh	Romansh	Indo-European	Eurasia	46.6881	9.2007	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Romansh (Vallader)	Vallader Romansh	Lower Engadine	lowe1386	roh	Romansh	Indo-European	Eurasia	46.5497	9.8959	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Venetian (Bellunese)	Bellunese Venetian	Triestine	trie1242	vec	Venetian	Indo-European	Eurasia	46.1425	12.2167	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Venetian (Primiero)	Primiero Venetian	Trentine	tret1239	vec	Venetian	Indo-European	Eurasia	46.1758	11.8284	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Gallo-Romance, Gallo-Italic	Venetian (Venice)	Venice Venetian	Venetian Proper	vene1259	vec	Venetian	Indo-European	Eurasia	45.4408	12.3155	Saenko (2015)	
-Italic	Indo-European, Italic, Western Romance, Gallo-Romance	Walloon	Walloon	Walloon	wall1255	wln	Walloon	Indo-European	Eurasia	50.2235	5.14509	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Ibero-Romance	Asturian	Asturian	Asturian	astu1246	ast	Asturian; Leonese	Indo-European	Eurasia	42.4181	-6.02227	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Ibero-Romance	Galician	Galician	Galician	gali1258	glg	Galician	Indo-European	Eurasia	42.2446	-7.5343	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Ibero-Romance	Portuguese	Standard Portuguese	Portuguese	port1283	por	Portuguese	Indo-European	Eurasia	39.91	-8.1	Saenko (2015)	
 Italic	Indo-European, Italic, Western Romance, Ibero-Romance	Spanish	Castilian Spanish	Castilian	cast1244	spa	Spanish	Indo-European	Eurasia	41.7666	-2.479	Saenko (2015)	
-Japonic	Japonic, Japanesic	Old Japanese	OldJapanese	Old Japanese	oldj1239	ojp	Old Japanese	Japonic	Eurasia	34.683333	135.8	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Aichi	Aichi	Nagoya	nago1242			Japonic	Eurasia	35.1219442	137.081740723195	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Akita	Akita	Akita	akit1240			Japonic	Eurasia	39.6898802	140.342608	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Aomori	Aomori	Tsugaru	tsug1237			Japonic	Eurasia	40.886943	140.590121	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Chiba	Chiba	Chiba	chib1248			Japonic	Eurasia	35.609985	140.118126	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Fukushima	Fukushima	Fukushima	fuku1243			Japonic	Eurasia	37.75454	140.4592144	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Gifu	Gifu	Hida	hida1245			Japonic	Eurasia	35.7867449	137.0460777	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Gunma	Gunma	Gunma	gunm1237			Japonic	Eurasia	36.52198	139.033483	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Hokkaidō	Hokkaido	Hokkaido	hokk1243			Japonic	Eurasia	43.4519831	142.8197834	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Ibaraki	Ibaraki	Ibaraki	ibar1242			Japonic	Eurasia	36.2869536	140.4703384	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Iwate	Iwate	Kesen	kese1237			Japonic	Eurasia	39.9724169	141.2124422	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Kanagawa	Kanagawa	Kanagawa	kana1290			Japonic	Eurasia	35.4715259	139.6275201	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Miyagi	Miyagi	Sendai	send1240			Japonic	Eurasia	38.2677554	140.8691498	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Nagano	Nagano	Nagano	naga1408			Japonic	Eurasia	36.1143945	138.0319015	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Niigata	Niigata	Niigata	niig1237			Japonic	Eurasia	37.6452283	138.7669125	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Saitama	Saitama	Chichibu	chic1269			Japonic	Eurasia	35.9754168	139.4160114	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Shizuoka	Shizuoka	Shizuoka	shiz1237			Japonic	Eurasia	34.979149	138.38299	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Tochigi	Tochigi	Tochigi	toch1258			Japonic	Eurasia	36.3818177	139.733591	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Tōkyō	Tokyo	Tōkyō	toky1238			Japonic	Eurasia	35.6828387	139.7594549	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Yamagata	Yamagata	Yamagata	yama1262			Japonic	Eurasia	38.2553393	140.3400205	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Eastern Japanese	Yamanashi	Yamanashi	Yamanashi	yama1263			Japonic	Eurasia	35.6928452	138.6871263	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Hachijō	Hachijō	Hachijyo	Hachijō	hach1238			Japonic	Eurasia	33.1069602	139.767310718251	Lee & Hasegawa, 2011	Appears twice in Glottolog tree, once as a top-level division sister to Japanesic and Ryūkyūan, and once as division within Japanese; Wikipedia describes it a descendant of (Eastern) Old Japanese, hence the latter Glottolog classification is assumed here
-Japonic	Japonic, Japanesic, Kyūshū	Fukuoka	Fukuoka	Chikuho-ben	chik1251			Japonic	Eurasia	33.6251241	130.6180016	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Kyūshū	Kagoshima	Kagoshima	Satsugū	sats1241			Japonic	Eurasia	31.521587	130.5474077	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Kyūshū	Kumamoto	Kumamoto	Kumamoto-ben	kuma1281			Japonic	Eurasia	32.6450475	130.6341345	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Kyūshū	Miyazaki	Miyazaki	Miyazaki-ben	miya1258			Japonic	Eurasia	31.9076334	131.4204022	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Kyūshū	Nagasaki	Nagasaki	Nagasaki-ben	naga1405			Japonic	Eurasia	33.1154683	129.7874339	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Kyūshū	Ōita	Oita	Ōita-ben	oita1237			Japonic	Eurasia	33.1819875	131.4270217	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Kyūshū	Saga	Saga	Saga-ben	saga1265			Japonic	Eurasia	33.2185408	130.1296585	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Ehime	Ehime	Iyo-ben	iyob1237			Japonic	Eurasia	33.6013646	132.8185275	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Fukui	Fukui	Fukui	fuku1241			Japonic	Eurasia	35.9263502	136.6068127	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Hiroshima	Hiroshima	Hiroshima	hiro1237			Japonic	Eurasia	34.3916058	132.4518156	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Hyōgo	Hyogo	Kobe (Japonic)	kobe1244			Japonic	Eurasia	34.6677915	135.1641816	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Ishikawa	Ishikawa	Kanazawa	kana1289			Japonic	Eurasia	36.5780499	136.6480247	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Kagawa	Kagawa	Kagawa-ben	kaga1258			Japonic	Eurasia	34.3454438499999	134.109814153127	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Kōchi	Kochi	Hata-ben	hata1244			Japonic	Eurasia	33.5680384	133.5394221	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Kyōtō	Kyoto	Kyoto	kyot1238			Japonic	Eurasia	35.021041	135.7556075	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Mie	Mie	Mie	miee1237			Japonic	Eurasia	34.7339685	136.5154489	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Nara	Nara	Oku-yoshino	okuy1237			Japonic	Eurasia	34.2963089	135.8816819	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Okayama	Okayama	Okayama	okay1237			Japonic	Eurasia	34.6553944	133.9194595	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Ōsaka	Osaka	Ōsaka	osak1237			Japonic	Eurasia	34.6198813	135.490357	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Shiga	Shiga	Shiga	shig1237			Japonic	Eurasia	35.2018175	135.9245546	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Shimane	Shimane	Izumo-ben	izum1237			Japonic	Eurasia	35.3668891	132.7548827	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Tokushima	Tokushima	Tokushima-ben	toku1245			Japonic	Eurasia	34.0698307	134.5550353	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Tottori	Tottori	Tottori	tott1237			Japonic	Eurasia	35.3555075	133.8678525	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Toyama	Toyama	Toyama	toya1237			Japonic	Eurasia	36.6957569	137.2136215	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Wakayama	Wakayama	Wakayama	waka1279			Japonic	Eurasia	34.234617	135.1782181	Lee & Hasegawa, 2011	
-Japonic	Japonic, Japanesic, Western Japanese	Yamaguchi	Yamaguchi	Yamaguchi	yama1261			Japonic	Eurasia	34.1781317	131.4737077	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Northern Ryūkyūan	Naze	Naze	Naze	naze1238			Japonic	Eurasia	28.3740442	129.5064497	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Northern Ryūkyūan	Okinawa	Okinawa	Okinawa	okin1244			Japonic	Eurasia	26.4748948	127.911468664084	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Hateruma	Hateruma	Hateruma	hate1238			Japonic	Eurasia	24.0587455	123.782155373325	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Hirara	Hirara	Miyako-Jima	miya1260			Japonic	Eurasia	24.926431	125.2411151	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Ikema	Ikema	Ikema-Jima	ikem1235			Japonic	Eurasia	24.9252099	125.2448702	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Irafu	Irafu	Irabu-Jima	irab1238			Japonic	Eurasia	24.829624	125.1918053	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Ishigaki	Ishigaki	Ishigaki	ishi1240			Japonic	Eurasia	24.3457111	124.1575482	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Taketomi	Taketomi	Taketomi	take1256			Japonic	Eurasia	24.322143	123.826987	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Tarama	Tarama	Tarama-Minna	tara1319			Japonic	Eurasia	24.661495	124.6979386	Lee & Hasegawa, 2011	
-Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Yonaguni	Yonaguni	Yonaguni	yona1241	yoi	Yonaguni	Japonic	Eurasia	24.45566	122.992602	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic	Old Japanese	OldJapanese	Old Japanese	oldj1239	ojp	Old Japanese	Japonic	Eurasia	34.6833	135.8	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Aichi	Aichi	Nagoya	nago1242	jpn	Japanese	Japonic	Eurasia	35.1219	137.08174	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Akita	Akita	Akita	akit1240	jpn	Japanese	Japonic	Eurasia	39.6899	140.34261	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Aomori	Aomori	Tsugaru	tsug1237	jpn	Japanese	Japonic	Eurasia	40.8869	140.59012	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Chiba	Chiba	Chiba	chib1248	jpn	Japanese	Japonic	Eurasia	35.61	140.11813	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Fukushima	Fukushima	Fukushima	fuku1243	jpn	Japanese	Japonic	Eurasia	37.7545	140.45921	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Gifu	Gifu	Hida	hida1245	jpn	Japanese	Japonic	Eurasia	35.7867	137.04608	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Gunma	Gunma	Gunma	gunm1237	jpn	Japanese	Japonic	Eurasia	36.522	139.03348	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Hokkaidō	Hokkaido	Hokkaido	hokk1243	jpn	Japanese	Japonic	Eurasia	43.452	142.81978	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Ibaraki	Ibaraki	Ibaraki	ibar1242	jpn	Japanese	Japonic	Eurasia	36.287	140.47034	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Iwate	Iwate	Kesen	kese1237	jpn	Japanese	Japonic	Eurasia	39.9724	141.21244	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Kanagawa	Kanagawa	Kanagawa	kana1290	jpn	Japanese	Japonic	Eurasia	35.4715	139.62752	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Miyagi	Miyagi	Sendai	send1240	jpn	Japanese	Japonic	Eurasia	38.2678	140.86915	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Nagano	Nagano	Nagano	naga1408	jpn	Japanese	Japonic	Eurasia	36.1144	138.0319	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Niigata	Niigata	Niigata	niig1237	jpn	Japanese	Japonic	Eurasia	37.6452	138.76691	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Saitama	Saitama	Chichibu	chic1269	jpn	Japanese	Japonic	Eurasia	35.9754	139.41601	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Shizuoka	Shizuoka	Shizuoka	shiz1237	jpn	Japanese	Japonic	Eurasia	34.9791	138.38299	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Tochigi	Tochigi	Tochigi	toch1258	jpn	Japanese	Japonic	Eurasia	36.3818	139.73359	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Tōkyō	Tokyo	Tōkyō	toky1238	jpn	Japanese	Japonic	Eurasia	35.6828	139.75945	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Yamagata	Yamagata	Yamagata	yama1262	jpn	Japanese	Japonic	Eurasia	38.2553	140.34002	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Eastern Japanese	Yamanashi	Yamanashi	Yamanashi	yama1263	jpn	Japanese	Japonic	Eurasia	35.6928	138.68713	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Hachijō	Hachijō	Hachijyo	Hachijō	hach1238	jpn	Japanese	Japonic	Eurasia	33.107	139.76731	Lee & Hasegawa, 2011	Appears twice in Glottolog tree, once as a top-level division sister to Japanesic and Ryūkyūan, and once as division within Japanese; Wikipedia describes it a descendant of (Eastern) Old Japanese, hence the latter Glottolog classification is assumed here
+Japonic	Japonic, Japanesic, Kyūshū	Fukuoka	Fukuoka	Chikuho-ben	chik1251	jpn	Japanese	Japonic	Eurasia	33.6251	130.618	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Kagoshima	Kagoshima	Satsugū	sats1241	jpn	Japanese	Japonic	Eurasia	31.5216	130.54741	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Kumamoto	Kumamoto	Kumamoto-ben	kuma1281	jpn	Japanese	Japonic	Eurasia	32.645	130.63413	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Miyazaki	Miyazaki	Miyazaki-ben	miya1258	jpn	Japanese	Japonic	Eurasia	31.9076	131.4204	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Nagasaki	Nagasaki	Nagasaki-ben	naga1405	jpn	Japanese	Japonic	Eurasia	33.1155	129.78743	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Ōita	Oita	Ōita-ben	oita1237	jpn	Japanese	Japonic	Eurasia	33.182	131.42702	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Kyūshū	Saga	Saga	Saga-ben	saga1265	jpn	Japanese	Japonic	Eurasia	33.2185	130.12966	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Ehime	Ehime	Iyo-ben	iyob1237	jpn	Japanese	Japonic	Eurasia	33.6014	132.81853	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Fukui	Fukui	Fukui	fuku1241	jpn	Japanese	Japonic	Eurasia	35.9264	136.60681	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Hiroshima	Hiroshima	Hiroshima	hiro1237	jpn	Japanese	Japonic	Eurasia	34.3916	132.45182	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Hyōgo	Hyogo	Kobe (Japonic)	kobe1244	jpn	Japanese	Japonic	Eurasia	34.6678	135.16418	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Ishikawa	Ishikawa	Kanazawa	kana1289	jpn	Japanese	Japonic	Eurasia	36.578	136.64802	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Kagawa	Kagawa	Kagawa-ben	kaga1258	jpn	Japanese	Japonic	Eurasia	34.3454	134.10981	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Kōchi	Kochi	Hata-ben	hata1244	jpn	Japanese	Japonic	Eurasia	33.568	133.53942	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Kyōto	Kyoto	Kyoto	kyot1238	jpn	Japanese	Japonic	Eurasia	35.021	135.75561	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Mie	Mie	Mie	miee1237	jpn	Japanese	Japonic	Eurasia	34.734	136.51545	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Nara	Nara	Oku-yoshino	okuy1237	jpn	Japanese	Japonic	Eurasia	34.2963	135.88168	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Okayama	Okayama	Okayama	okay1237	jpn	Japanese	Japonic	Eurasia	34.6554	133.91946	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Ōsaka	Osaka	Ōsaka	osak1237	jpn	Japanese	Japonic	Eurasia	34.6199	135.49036	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Shiga	Shiga	Shiga	shig1237	jpn	Japanese	Japonic	Eurasia	35.2018	135.92455	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Shimane	Shimane	Izumo-ben	izum1237	jpn	Japanese	Japonic	Eurasia	35.3669	132.75488	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Tokushima	Tokushima	Tokushima-ben	toku1245	jpn	Japanese	Japonic	Eurasia	34.0698	134.55504	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Tottori	Tottori	Tottori	tott1237	jpn	Japanese	Japonic	Eurasia	35.3555	133.86785	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Toyama	Toyama	Toyama	toya1237	jpn	Japanese	Japonic	Eurasia	36.6958	137.21362	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Wakayama	Wakayama	Wakayama	waka1279	jpn	Japanese	Japonic	Eurasia	34.2346	135.17822	Lee & Hasegawa, 2011	
+Japonic	Japonic, Japanesic, Western Japanese	Yamaguchi	Yamaguchi	Yamaguchi	yama1261	jpn	Japanese	Japonic	Eurasia	34.1781	131.47371	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Northern Ryūkyūan	Naze	Naze	Naze	naze1238	ryn	Northern Amami-Oshima	Japonic	Eurasia	28.374	129.50645	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Northern Ryūkyūan	Okinawa	Okinawa	Okinawa	okin1244	ryu	Central Okinawan	Japonic	Eurasia	26.4749	127.91147	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Hateruma	Hateruma	Hateruma	hate1238	rys	Yaeyama	Japonic	Eurasia	24.0587	123.78216	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Hirara	Hirara	Miyako-Jima	miya1260	mvi	Miyako	Japonic	Eurasia	24.9264	125.24112	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Ikema	Ikema	Ikema-Jima	ikem1235	mvi	Miyako	Japonic	Eurasia	24.9252	125.24487	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Irafu	Irafu	Irabu-Jima	irab1238	mvi	Miyako	Japonic	Eurasia	24.8296	125.19181	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Ishigaki	Ishigaki	Ishigaki	ishi1240	rys	Yaeyama	Japonic	Eurasia	24.3457	124.15755	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Taketomi	Taketomi	Taketomi	take1256	rys	Yaeyama	Japonic	Eurasia	24.3221	123.82699	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Tarama	Tarama	Tarama-Minna	tara1319	mvi	Miyako	Japonic	Eurasia	24.6615	124.69794	Lee & Hasegawa, 2011	
+Japonic	Japonic, Ryūkyūan, Southern Ryūkyūan	Yonaguni	Yonaguni	Yonaguni	yona1241	yoi	Yonaguni	Japonic	Eurasia	24.4557	122.9926	Lee & Hasegawa, 2011	
 NorthEuraLex	Abkhaz-Adyge, Abkhaz-Abaza	Abkhaz	Abkhaz	Abkhaz	abkh1244	abk	Abkhazian	Abkhaz-Adyge	Eurasia	43.056218	41.159115	Dellert et al., 2019	
 NorthEuraLex	Abkhaz-Adyge, Circassian	Adyghe	Adyghe	Adyghe	adyg1241	ady	Adyghe	Abkhaz-Adyge	Eurasia	44.0	39.33	Dellert et al., 2019	
 NorthEuraLex	Afro-Asiatic, Semitic	Modern Hebrew	Modern Hebrew	Modern Hebrew	hebr1245	heb	Hebrew	Afro-Asiatic	Eurasia	31.1056	35.0179	Dellert et al., 2019	
@@ -293,7 +293,7 @@ NorthEuraLex	Turkic, Kipchak	Tatar	Tatar	Tatar	tata1255	tat	Tatar	Turkic	Eurasia
 NorthEuraLex	Turkic, North Siberian Turkic	Sakha	Sakha	Sakha	yaku1245	sah	Yakut	Turkic	Eurasia	61.6974	133.98	Dellert et al., 2019	
 NorthEuraLex	Turkic, Oghuz	North Azerbaijani	North Azerbaijani	North Azerbaijani	nort2697	azj	North Azerbaijani	Turkic	Eurasia	40.9777	46.4737	Dellert et al., 2019	
 NorthEuraLex	Turkic, Oghuz	Turkish	Turkish	Turkish	nucl1301	tur	Turkish	Turkic	Eurasia	39.8667	32.8667	Dellert et al., 2019	
-NorthEuraLex	Turkic, Turkestan Turkic	Northern Uzbek	Northern Uzbek	Northern Uzbek	nort2690	uzn	Northern Uzbek	Turkic	Eurasia	40.886	69.211	Dellert et al., 2019	
+NorthEuraLex	Turkic, Karluk	Northern Uzbek	Northern Uzbek	Northern Uzbek	nort2690	uzn	Northern Uzbek	Turkic	Eurasia	40.886	69.211	Dellert et al., 2019	
 NorthEuraLex	Uralic, Finnic	Estonian	Estonian	Estonian	esto1258	ekk	Standard Estonian	Uralic	Eurasia	58.55	25.82	Dellert et al., 2019	
 NorthEuraLex	Uralic, Finnic	Finnish	Finnish	Finnish	finn1318	fin	Finnish	Uralic	Eurasia	64.7628	25.5577	Dellert et al., 2019	
 NorthEuraLex	Uralic, Finnic	Livonian	Livonian	Liv	livv1244	liv	Liv	Uralic	Eurasia	57.566	22.0262	Dellert et al., 2019	
@@ -439,9 +439,9 @@ Turkic	Turkic, South Siberian Turkic	Shor	Shor	Shor	shor1247	cjs	Shor	Turkic	Eur
 Turkic	Turkic, South Siberian Turkic	Tofa	Tofa	Tofa	tofa1248	kim	Karagas	Turkic	Eurasia	53.75	98.0	Savelyev & Robbeets (2020)	
 Turkic	Turkic, South Siberian Turkic	Tuvan	Tuvan	Tuvinian	tuvi1240	tyv	Tuvinian	Turkic	Eurasia	51.7	94.36667	Savelyev & Robbeets (2020)	
 Turkic	Turkic, South Siberian Turkic	West Yugur	SarygYugur	West Yugur	west2402	ybe	West Yugur	Turkic	Eurasia	39.0548	99.3112	Savelyev & Robbeets (2020)	West Yugur, Yellow Uyghur
-Turkic	Turkic, Turkestan Turkic	Old Turkic	OldTurkic	Old Turkic	oldu1238	oui	Old Uighur	Turkic	Eurasia	42.852778	89.529167	Savelyev & Robbeets (2020)	Old Uyghur texts from the 9th century AD
-Turkic	Turkic, Turkestan Turkic	Uyghur	Uyghur	Uighur	uigh1240	uig	Uyghur	Turkic	Eurasia	43.88	87.38	Savelyev & Robbeets (2020)	
-Turkic	Turkic, Turkestan Turkic	Uzbek	Uzbek	Uzbek	uzbe1247	uzb	Uzbek	Turkic	Eurasia	39.0	66.0	Savelyev & Robbeets (2020)	
+Turkic	Turkic, Karluk	Old Turkic	OldTurkic	Old Turkic	oldu1238	oui	Old Uighur	Turkic	Eurasia	42.852778	89.529167	Savelyev & Robbeets (2020)	Old Uyghur texts from the 9th century AD
+Turkic	Turkic, Karluk	Uyghur	Uyghur	Uighur	uigh1240	uig	Uyghur	Turkic	Eurasia	43.88	87.38	Savelyev & Robbeets (2020)	
+Turkic	Turkic, Karluk	Uzbek	Uzbek	Uzbek	uzbe1247	uzb	Uzbek	Turkic	Eurasia	39.0	66.0	Savelyev & Robbeets (2020)	
 Uralic	Uralic	Proto-Uralic	Proto-Uralic*					Uralic	Eurasia			De Heer et al.; Syrjänen	
 Uralic	Uralic, Finnic	Estonian	Standard Estonian	Estonian	esto1258	ekk	Standard Estonian	Uralic	Eurasia	58.55	25.82	De Heer et al.; Syrjänen	
 Uralic	Uralic, Finnic	Finnish	Standard Finnish	Finnish	finn1318	fin	Finnish	Uralic	Eurasia	64.7628	25.5577	De Heer et al.; Syrjänen	
