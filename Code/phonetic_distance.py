@@ -100,8 +100,20 @@ def strip_diacritics(string, excepted=[]):
     """Removes diacritic characters from an IPA string
     By default removes all diacritics; in order to keep certain diacritics,
     these should be passed as a list to the "excepted" parameter"""
-    to_remove = [ch for ch in string if ch in diacritics if ch not in excepted]
-    return ''.join([ch for ch in string if ch not in to_remove])
+    try:
+        to_remove = [ch for ch in string if ch in diacritics if ch not in excepted]
+        return ''.join([ch for ch in string if ch not in to_remove])
+    except RecursionError:
+        with open('error.txt', 'w') as f:
+            f.write(f'Unable to parse phonetic characters in form: {string}')
+        raise RecursionError
+
+
+def verify_charset(text):
+    """Verifies that all characters are recognized as IPA characters or diacritics"""
+    chs = set(list(text))
+    unk_ch = set(ch for ch in chs if ch not in set(all_sounds+diacritics+tonemes+[' ']))
+    return unk_ch
 
 
 #%%
@@ -762,7 +774,7 @@ def align_costs(seq1, seq2,
                     cost = math.log(cost)
                 else:
                     cost = -math.inf
-                
+            
             alignment_costs[(i, j)] = cost
     return alignment_costs
 
