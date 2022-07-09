@@ -1,7 +1,6 @@
-#from load_languages import *
 from auxiliary_functions import euclidean_dist, normalize_dict
 from word_evaluation import *
-from statistics import mean, stdev
+from statistics import mean, stdev, StatisticsError
 import math, random
 from scipy.stats import norm
 
@@ -56,11 +55,11 @@ def cognate_sim(lang1, lang2, clustered_cognates,
                 clustered_id=None,
                 return_score_dict=False,
                 **kwargs):
-    try:
+    if (lang1, lang2, clustered_id, eval_func, eval_sim, exclude_synonyms, min_similarity) in cognate_sims:
         #Try to retrieve previously calculated similarity dictionary
-        sims = cognate_sims[(lang1, lang2, clustered_id, eval_func, eval_sim, exclude_synonyms)]
+        sims = cognate_sims[(lang1, lang2, clustered_id, eval_func, eval_sim, exclude_synonyms, min_similarity)]
     
-    except KeyError:
+    else:
         sims = {}
         for concept in clustered_cognates:
             concept_sims = {}
@@ -91,10 +90,14 @@ def cognate_sim(lang1, lang2, clustered_cognates,
                 
             else:
                 if (l1_wordcount > 0) and (l2_wordcount > 0):
-                    sims[concept] = 0
+                    sims[concept] = 0        
         
+        if len(sims) == 0:
+            print(f'Error: no shared concepts found between {lang1.name} and {lang2.name}!')
+            raise StatisticsError
+            
         #Save score dictionary
-        cognate_sims[(lang1, lang2, clustered_id, eval_func, eval_sim, exclude_synonyms)] = sims
+        cognate_sims[(lang1, lang2, clustered_id, eval_func, eval_sim, exclude_synonyms, min_similarity)] = sims
         
     #Get the non-synonymous word pair scores against which to 
     #calibrate the synonymous word scores
@@ -147,7 +150,7 @@ def cognate_sim(lang1, lang2, clustered_cognates,
     
     else:
         mean_sim = mean(sims.values())
-        
+
         return mean_sim
             
 
@@ -178,7 +181,7 @@ def hybrid_cognate_dist(lang1, lang2,
                               exclude_synonyms=exclude_synonyms)
         scores.append(1-measure)
     return euclidean_dist(scores)
-
+    
 
 #%%
 
