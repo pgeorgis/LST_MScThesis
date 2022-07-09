@@ -258,8 +258,17 @@ def cluster_items(group, labels,
         #with the clusters in numerical order
         clusters[cluster].append(item)
     
-    return clusters
-        
+    return clusters 
+
+# def lm2dendrogram(lm, p=30, orientation='left', labels=None):
+#     dendrogram(lm, p=p, orientation=orientation, labels=labels)
+#     if title != None:
+#         plt.title(title, fontsize=30)
+#     plt.savefig(f'{save_directory}{title}.png', bbox_inches='tight', dpi=300)
+#     plt.show()
+#     if return_newick == True:
+#         return linkage2newick(lm, labels)
+
 def draw_dendrogram(group, dist_func, title=None, sim=False, labels=None, 
                     p=30, method='average', metric='euclidean',
                     orientation='left', 
@@ -305,18 +314,25 @@ def linkage2newick(linkage_matrix, leaf_labels):
     tree = to_tree(linkage_matrix, False)
     return getNewick(tree, "", tree.dist, leaf_labels)
 
+def dm2coords(dm, dimensions=2):
+    """Returns coordinate embeddings of an array of items from their distance matrix"""
+    adist = np.array(dm)
+    amax = np.amax(adist)
+    adist /= amax
+    mds = manifold.MDS(n_components=dimensions, 
+                       dissimilarity="precomputed", 
+                       random_state=42)
+    results = mds.fit(adist)
+    coords = results.embedding_
+    return coords
+    
 
 def plot_distances(group, dist_func=None, sim=False, dimensions=2, labels=None, 
                    title=None, plotsize=None, invert_yaxis=False, invert_xaxis=False,
                    directory='',
                    **kwargs):   
     dm = distance_matrix(group, dist_func, sim, **kwargs)
-    adist = np.array(dm)
-    amax = np.amax(adist)
-    adist /= amax
-    mds = manifold.MDS(n_components=dimensions, dissimilarity="precomputed", random_state=42) #if an integer, random state parameter controls that multiple function calls will produce consistent mappings; popular values are 0 and 42
-    results = mds.fit(adist)
-    coords = results.embedding_
+    coords = dm2coords(dm, dimensions)
     sns.set(font_scale=1.0)
     if plotsize == None:
         x_coords = [coords[i][0] for i in range(len(coords))]
@@ -376,11 +392,7 @@ def network_plot(group, labels,
     
     #Calculate initial coordinates for nodes from a distance matrix using MDS
     dm = distance_matrix(group, dist_func, sim, **kwargs)
-    amax = np.amax(dm)
-    dm /= amax
-    mds = manifold.MDS(n_components=dimensions, dissimilarity="precomputed", random_state=42) #if an integer, random state parameter controls that multiple function calls will produce consistent mappings; popular values are 0 and 42
-    results = mds.fit(dm)
-    coords = results.embedding_
+    coords = dm2coords(dm, dimensions)
     coordinates = {}
     for n, x, y in zip(item_labels, coords[:, 0], coords[:, 1]):
         coordinates[n] = (x, y)
@@ -540,11 +552,7 @@ def new_network_plot(group, labels,
         #with the clusters in numerical order
         clusters[cluster].append(item)
     
-    amax = np.amax(dm)
-    dm /= amax
-    mds = manifold.MDS(n_components=dimensions, dissimilarity="precomputed", random_state=42) #if an integer, random state parameter controls that multiple function calls will produce consistent mappings; popular values are 0 and 42
-    results = mds.fit(dm)
-    coords = results.embedding_
+    coords = dm2coords(dm, dimensions)
     coordinates = {}
     for n, x, y in zip(item_labels, coords[:, 0], coords[:, 1]):
         coordinates[n] = (x, y)
@@ -628,7 +636,7 @@ def new_network_plot(group, labels,
             for cluster2 in closest_clusters:
                 distances = dict_tuplelist(cluster_dists[cluster2][1])
                 
-                #Find the n nearest individual pairs between the clusters
+                #Find the n nearest individual pairs between the clusters (min 1, max 5)
                 n_nearest_items = round(min(max(1, nearest_items * len(distances)), 5))
                 
                 closest_pairs = distances[-n_nearest_items:]
@@ -725,7 +733,8 @@ def newer_network_plot(group, labels,
                  dist_func=None, sim=True,
                  coordpos=True, dimensions=3, seed=1,
                  step_size=0.05, connection_decay=0.5,
-                 edgelabels=False, edge_label_dist=True, 
+                 edgelabels=False, edge_label_dist=True,
+                 scale_dist_func=math.sqrt,
                  scale_dist=100, edge_decimals=1,
                  scale_nodes=False, node_sizes=None, node_colors=None,
                  invert_yaxis=False, invert_xaxis=False,
@@ -759,11 +768,7 @@ def newer_network_plot(group, labels,
             clusters[cluster].append(item)
         return clusters
     
-    amax = np.amax(dm)
-    dm /= amax
-    mds = manifold.MDS(n_components=dimensions, dissimilarity="precomputed", random_state=42) #if an integer, random state parameter controls that multiple function calls will produce consistent mappings; popular values are 0 and 42
-    results = mds.fit(dm)
-    coords = results.embedding_
+    coords = dm2coords(dm, dimensions)
     coordinates = {}
     for n, x, y in zip(item_labels, coords[:, 0], coords[:, 1]):
         coordinates[n] = (x, y)
@@ -775,7 +780,7 @@ def newer_network_plot(group, labels,
         plt.figure(figsize=(10, 8))
     
     #Iterate through pairs of nodes and adding edges between them
-    #For every node, add edges connecting it to the n least distance node (min_edges)
+    #For every node, add edges connecting it to the n least distant nodes (min_edges)
     #And then add more edges up until the maximum number of edges if their distance is lower than the threshold
     #Label edges with distances/similarities
     edge_labels = {}
@@ -880,7 +885,8 @@ def newer_network_plot(group, labels,
         iteration_clusters = get_clusters(lm, cutoff=cluster_threshold)
         if len(iteration_clusters) < len(cluster_iterations[max(cluster_iterations.keys())]):
             #connection_proportion = 1/(iteration**2)
-            scale_distance = math.sqrt(iteration) #math.log((iteration+1), 2) #iteration
+            #scale_distance = math.sqrt(iteration) #math.log((iteration+1), 2) #iteration
+            scale_distance = scale_dist_func(iteration)
             connect_clusters(iteration_clusters,
                              connect_proportion=connect_proportion, 
                              scale_distance=scale_distance)
