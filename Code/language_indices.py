@@ -61,21 +61,19 @@ for i in range(len(list(lang_metadata['Name']))):
 #WRITE LANGUAGE INDICES
 for dataset in ['Arabic',
                 'Balto-Slavic',
+                'Bantu',
                 'Dravidian',
+                'Hellenic',
                 'Hokan',
                 'Italic',
+                'Japonic',
                 'Polynesian',
+                'Quechuan',
                 'Sinitic',
                 'Turkic',
                 'Uralic',
-                
-                #Validation datasets
-                'Bantu',
-                'Hellenic',
-                'Quechuan',
-                'Japonic',
                 'Uto-Aztecan',
-                'Vietic'
+                'Vietic'                
                 ]:
     directory = str(parent_dir) + f'/Datasets/{dataset}'
     os.chdir(directory)
