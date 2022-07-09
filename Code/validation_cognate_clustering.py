@@ -2,7 +2,7 @@
 import pandas as pd
 from load_languages import *
 from auxiliary_functions import chunk_list, rescale
-krsimport seaborn as sns
+import seaborn as sns
 sns.set(font_scale=1.0)
 
 #%%
@@ -266,7 +266,7 @@ for i in range(len(functions)):
                                                     concept_list=common_concepts,
                                                     
                                                     #Surprisal/hybrid arguments
-                                                    #ngram_size=ngram_size,
+                                                    ngram_size=ngram_size,
                                                     
                                                     #Phonetic arguments
                                                     #penalize_infocontent=True,
