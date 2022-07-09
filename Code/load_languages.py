@@ -1,4 +1,4 @@
-import os, re, itertools, copy
+import os, re, itertools, copy, glob
 from statistics import mean
 from collections import defaultdict
 import math, bcubed, random
@@ -28,8 +28,9 @@ class LexicalDataset:
         self.filepath = filepath
         self.directory = self.filepath.rsplit('/', maxsplit=1)[0] + '/'
         
-        #Create a folder for plots within the dataset's directory
+        #Create a folder for plots and detected cognate sets within the dataset's directory
         create_folder('Plots', self.directory)
+        create_folder('Cognates', self.directory)
         
         #Columns of dataset
         self.id_c = id_c
@@ -49,10 +50,12 @@ class LexicalDataset:
         self.lang_ids = {}
         self.glottocodes = {}
         self.iso_codes = {}
+        self.distance_matrices = {}
         
         #Concepts in dataset
         self.concepts = defaultdict(lambda:defaultdict(lambda:[]))
         self.cognate_sets = defaultdict(lambda:defaultdict(lambda:[]))
+        self.clustered_cognates = defaultdict(lambda:{})
         self.load_data(self.filepath)
         self.load_cognate_sets()
         self.mutual_coverage = self.calculate_mutual_coverage()
@@ -423,7 +426,8 @@ class LexicalDataset:
                         save_directory=save_directory,
                         **kwargs
                         )
-    
+
+
     def cluster_cognates(self, concept_list,
                          dist_func, sim,
                          cutoff,
@@ -455,6 +459,13 @@ class LexicalDataset:
             
             clustered_cognates[concept] = clusters
         
+        #Create code and store the result
+        code = f'{self.name}_distfunc-{dist_func.__name__}_sim-{sim}_cutoff-{cutoff}'
+        for key, value in kwargs.items():
+            code += f'_{key}-{value}'
+        self.clustered_cognates[code] = clustered_cognates
+        self.write_cognate_index(clustered_cognates, os.path.join(self.directory, 'Cognates', f'{code}.cog'))
+
         return clustered_cognates
     
     def write_cognate_index(self, clustered_cognates, output_file,
@@ -483,6 +494,55 @@ class LexicalDataset:
                     line.append(entry)
                 line = sep.join(line)
                 f.write(f'{line}\n')
+                
+    def load_cognate_index(self, index_file, sep='\t', variants_sep='~'):
+        assert sep != variants_sep
+        index = defaultdict(lambda:defaultdict(lambda:[]))
+        with open(index_file, 'r') as f:
+            f = f.readlines()
+            doculects = [name.strip() for name in f[0].split(sep)[1:]]
+            for line in f[1:]:
+                line = line.split(sep)
+                cognate_id = line[0].rsplit('_', maxsplit=1)
+                #print(cognate_id, line[0].rsplit('_', maxsplit=1))
+                try:
+                    gloss, cognate_class = cognate_id
+                except ValueError:
+                    gloss, cognate_class = cognate_id, '' #confirm that this is correct
+                for lang, form in zip(doculects, line[1:]):
+                    forms = form.split(variants_sep)
+                    for form_i in forms:
+                        form_i = form_i.strip()
+                        
+                        #Verify that all characters used in transcriptions are recognized
+                        unk_ch = verify_charset(form_i)
+                        if len(unk_ch) > 0:
+                            unk_ch_s = '< ' + ' '.join(unk_ch) + ' >'
+                            print(f'Unable to parse characters {unk_ch_s} in {lang} /{form_i}/ "{gloss}"!')
+                            raise ValueError
+                        if len(form_i.strip()) > 0:
+                            index[gloss][cognate_class].append(f'{lang} /{form_i}/')   
+        
+        return index
+
+
+    def load_clustered_cognates(self, **kwargs):
+        cwd = os.getcwd()
+        os.chdir(os.path.join(self.directory, 'Cognates'))
+        cognate_files = glob.glob('*.cog')
+        for cognate_file in cognate_files:
+            code = cognate_file.rsplit('.', maxsplit=1)[0]
+            self.clustered_cognates[code] = self.load_cognate_index(cognate_file, **kwargs)
+        n = len(cognate_files)
+        s = f'Loaded {n} cognate'
+        if n > 1 or n < 1:
+            s += ' indices.'
+        else:
+            s += ' index.'
+        print(s)
+        os.chdir(cwd)
+            
+        
                 
     def write_BEASTling_input(self, clustered_cognates, 
                               name, directory,
@@ -603,14 +663,236 @@ class LexicalDataset:
         elif method == 'mcc':
             return mean(mcc_scores.values())
     
+    def distance_matrix(self, dist_func, sim, 
+                        concept_list=None,
+                        cluster_func=None, cluster_sim=None, cutoff=None, 
+                        cognates='auto',
+                        **kwargs):
+        
+        #Try to skip re-calculation of distance matrix by retrieving
+        #a previously computed distance matrix by its code
+        code = f'cognates-{cognates}_distfunc-{dist_func.__name__}_sim-{sim}_cutoff-{cutoff}'
+        for key, value in kwargs.items():
+            #if type(value) == function:
+            #    value = value.__name__
+            code += f'_{key}-{value}'
+        #doesn't yet account for concept_list ID
+        
+        if code in self.distance_matrices:
+            return self.distance_matrices[code]
+        
+        #Use all available concepts by default
+        if concept_list == None:
+            concept_list = sorted([concept for concept in self.concepts.keys() 
+                                   if len(self.concepts[concept]) > 1])
+        else:
+            concept_list = sorted([concept for concept in concept_list 
+                                   if len(self.concepts[concept]) > 1])
+        
+        if dist_func == Z_score_dist:
+            cognates = 'none'
+        #Automatic cognate clustering        
+        if cognates == 'auto':
+            assert cluster_func != None
+            assert cluster_sim != None
+            assert cutoff != None
+            
+            cognate_code = f'{self.name}_distfunc-{cluster_func.__name__}_sim-{sim}_cutoff-{cutoff}'
+            #for key, value in kwargs.items():
+            #    code += f'_{key}-{value}'
+            if cognate_code in self.clustered_cognates:
+                clustered_concepts = self.clustered_cognates[cognate_code]
+            else:
+                print('Clustering cognates...')
+                clustered_concepts = self.cluster_cognates(concept_list,
+                                                        dist_func=cluster_func, 
+                                                        sim=cluster_sim, 
+                                                        cutoff=cutoff)
+
+        #Use gold cognate classes
+        elif cognates == 'gold':
+            clustered_concepts = defaultdict(lambda:defaultdict(lambda:[]))
+            for concept in concept_list:
+                cognate_ids = [cognate_id for cognate_id in self.cognate_sets 
+                               if cognate_id.split('_')[0] == concept]
+                for cognate_id in cognate_ids:
+                    for lang in self.cognate_sets[cognate_id]:
+                        for form in self.cognate_sets[cognate_id][lang]:
+                            form = strip_ch(form, ['(', ')'])
+                            clustered_concepts[concept][cognate_id].append(f'{lang} /{form}/')
+        
+        #No separation of cognates/non-cognates: 
+        #all synonymous words are evaluated irrespective of cognacy
+        elif cognates == 'none':
+            clustered_concepts = {concept:{concept:[f'{lang} /{self.concepts[concept][lang][i][1]}/'
+                                  for lang in self.concepts[concept] 
+                                  for i in range(len(self.concepts[concept][lang]))]}
+                                  for concept in concept_list}            
+        
+        #Raise error for unrecognized cognate clustering methods
+        else:
+            print(f'Error: cognate clustering method "{cognates}" not recognized!')
+            raise ValueError
+        
+        languages = [self.languages[lang] for lang in self.languages]
+        names = [lang.name for lang in languages]
+        
+        #Compute distance matrix
+        dm = distance_matrix(group=languages, labels=names, 
+                             dist_func=dist_func, sim=sim,
+                             clustered_cognates=clustered_concepts,
+                             **kwargs)
+        
+        #Store computed distance matrix
+        self.distance_matrices[code] = dm
+        
+        return dm
+    
+    
+    def linkage_matrix(self, dist_func, sim, 
+                       concept_list=None, 
+                       cluster_func=None, cluster_sim=None, cutoff=None, 
+                       cognates='auto',
+                       method='average', metric='euclidean',
+                       **kwargs):
+        dm = self.distance_matrix(dist_func, sim, 
+                                  concept_list, 
+                                  cluster_func, cluster_sim, cutoff, 
+                                  cognates, 
+                                  **kwargs)
+        dists = squareform(dm)
+        lm = linkage(dists, method, metric)
+        return lm    
     
     
     def draw_tree(self, 
                   dist_func, sim, concept_list=None,                  
                   cluster_func=None, cluster_sim=None, cutoff=None,
                   cognates='auto', 
-                  method='average', title=None, save_directory=None,
+                  method='average', metric='euclidean',
+                  title=None, save_directory=None,
                   return_newick=False,
+                  orientation='left', p=30,
+                  **kwargs):
+        
+        group = [self.languages[lang] for lang in self.languages]
+        labels = [lang.name for lang in group]
+        if title == None:
+            title = f'{self.name}'
+        if save_directory == None:
+            save_directory = self.directory + 'Plots/'
+            
+        lm = self.linkage_matrix(dist_func, sim, 
+                                 concept_list, 
+                                 cluster_func, cluster_sim, cutoff, 
+                                 cognates, method, metric, 
+                                 **kwargs)
+        
+        sns.set(font_scale=1.0)
+        if len(group) >= 100:
+            plt.figure(figsize=(20,20))
+        elif len(group) >= 60:
+            plt.figure(figsize=(10,10))
+        else:
+            plt.figure(figsize=(10,8))
+        
+        dendrogram(lm, p=p, orientation=orientation, labels=labels)
+        if title != None:
+            plt.title(title, fontsize=30)
+        plt.savefig(f'{save_directory}{title}.png', bbox_inches='tight', dpi=300)
+        plt.show()
+        if return_newick == True:
+            return linkage2newick(lm, labels)
+
+
+    def plot_languages(self, 
+                       dist_func, sim, concept_list=None, 
+                       cluster_func=None, cluster_sim=None, cutoff=None, 
+                       cognates='auto', 
+                       dimensions=2, top_connections=0.3, max_dist=1, alpha_func=None,
+                       plotsize=None, invert_xaxis=False, invert_yaxis=False,
+                       title=None, save_directory=None, 
+                       **kwargs):
+        
+        #Get lists of language objects and their labels
+        group = [self.languages[lang] for lang in self.languages]
+        labels = [lang.name for lang in group]
+        
+        #Compute a distance matrix
+        dm = self.distance_matrix(dist_func=dist_func, sim=sim, concept_list=concept_list, 
+                                  cluster_func=cluster_func, cluster_sim=cluster_sim, 
+                                  cutoff=cutoff, cognates=cognates,
+                                  **kwargs)
+        
+        #Use MDS to compute coordinate embeddings from distance matrix
+        coords = dm2coords(dm, dimensions)
+        
+        #Set the plot dimensions
+        sns.set(font_scale=1.0)
+        if plotsize == None:
+            x_coords = [coords[i][0] for i in range(len(coords))]
+            y_coords = [coords[i][1] for i in range(len(coords))]
+            x_range = max(x_coords) - min(x_coords)
+            y_range = max(y_coords) - min(y_coords)
+            y_ratio = y_range / x_range
+            n = max(10, round((len(group)/10)*2))
+            plotsize = (n, n*y_ratio)
+        plt.figure(figsize=plotsize)
+        
+        #Draw scatterplot points
+        plt.scatter(
+            coords[:, 0], coords[:, 1], marker = 'o'
+            )
+        
+        #Add labels to points
+        for label, x, y in zip(labels, coords[:, 0], coords[:, 1]):
+            plt.annotate(
+                label,
+                xy = (x, y), xytext = (5, -5),
+                textcoords = 'offset points', ha = 'left', va = 'bottom',
+                )
+        
+        #Add lines connecting points with a distance under a certain threshold
+        connected = []
+        for i in range(len(coords)):
+            for j in range(len(coords)):
+                if (j, i) not in connected:
+                    dist = dm[i][j]
+                    if dist <= max_dist:
+                        #if dist <= np.mean(dm[i]): #if the distance is lower than average
+                        if dist in np.sort(dm[i])[1:round(top_connections*(len(dm)-1))]:
+                            coords1, coords2 = coords[i], coords[j]
+                            x1, y1 = coords1
+                            x2, y2 = coords2
+                            if alpha_func == None:
+                                plt.plot([x1, x2],[y1, y2], alpha=1-dist)
+                            else:
+                                plt.plot([x1, x2],[y1, y2], alpha=alpha_func(dist))
+                            connected.append((i,j))
+        
+        #Optionally invert axes
+        if invert_yaxis == True:    
+            plt.gca().invert_yaxis()
+        if invert_xaxis == True:
+            plt.gca().invert_xaxis()
+            
+        #Save the plot
+        if title == None:
+            title = f'{self.name} plot'
+            if save_directory == None:
+                save_directory = os.path.join(self.directory, 'Plots/')
+            plt.savefig(f'{os.path.join(save_directory, title)}.png', bbox_inches='tight', dpi=300)
+        
+        #Show the figure
+        plt.show()
+        plt.close()
+    
+    def draw_network(self, 
+                  dist_func, sim, concept_list=None,                  
+                  cluster_func=None, cluster_sim=None, cutoff=None,
+                  cognates='auto', method='spring',
+                  title=None, save_directory=None,
+                  network_function=newer_network_plot,
                   **kwargs):
         
         #Use all available concepts by default
@@ -628,10 +910,18 @@ class LexicalDataset:
             assert cluster_func != None
             assert cluster_sim != None
             assert cutoff != None
-            clustered_concepts = self.cluster_cognates(concept_list,
-                                                       dist_func=cluster_func, 
-                                                       sim=cluster_sim, 
-                                                       cutoff=cutoff)
+            
+            code = f'{self.name}_distfunc-{cluster_func.__name__}_sim-{sim}_cutoff-{cutoff}'
+            #for key, value in kwargs.items():
+            #    code += f'_{key}-{value}'
+            if code in self.clustered_cognates:
+                clustered_concepts = self.clustered_cognates[code]
+            else:
+                print('Clustering cognates...')
+                clustered_concepts = self.cluster_cognates(concept_list,
+                                                        dist_func=cluster_func, 
+                                                        sim=cluster_sim, 
+                                                        cutoff=cutoff)
 
         #Use gold cognate classes
         elif cognates == 'gold':
@@ -662,21 +952,19 @@ class LexicalDataset:
         languages = [self.languages[lang] for lang in self.languages]
         names = [lang.name for lang in languages]
         if title == None:
-            title = f'{self.name}'
+            title = f'{self.name} network'
         if save_directory == None:
             save_directory = self.directory + 'Plots/'
         
-        return draw_dendrogram(group=languages, 
-                               labels=names, 
-                               dist_func=dist_func, 
-                               sim=sim, 
-                               method=method, 
-                               title=title, 
-                               save_directory=save_directory, 
-                               return_newick=return_newick,
-                               clustered_cognates=clustered_concepts,
-                               **kwargs
-                               )
+        return network_function(group=languages, 
+                            labels=names, 
+                            dist_func=dist_func,
+                            sim=sim,
+                            method=method,
+                            title=title,
+                            save_directory=save_directory,
+                            clustered_cognates=clustered_concepts,
+                            **kwargs)
     
     
     def examine_cognates(self, language_list=None, concepts=None, cognate_sets=None,
@@ -1097,22 +1385,8 @@ common_concepts = set(concept
 datasets_path = str(parent_dir) + '/Datasets/'
 os.chdir(datasets_path)
 families = {}
-for family in ['Arabic', 
-               'Balto-Slavic', 
-               'Bantu',
-               'Dravidian',
-               'Hellenic',
-               'Hokan',
-               'Italic',
-               'Japonic',
-               'Polynesian',
-               'Quechuan',
-               'Sinitic', 
-               'Turkic', 
-               'Uralic',
-               'Uto-Aztecan',
-               'Vietic'
-               ]:
+
+def load_family(family):
     family_path = re.sub('-', '_', family).lower()
     filepath = datasets_path + family + f'/{family_path}_data.csv'
     print(f'Loading {family}...')
@@ -1122,11 +1396,41 @@ for family in ['Arabic',
     language_variables = {format_as_variable(lang):families[family].languages[lang] 
                           for lang in families[family].languages}
     globals().update(language_variables)
+    return families[family]
+    
+
+# for family in ['Arabic', 
+#                'Balto-Slavic', 
+#                'Bantu',
+#                'Dravidian',
+#                #'French',
+#                'Germanic',
+#                'Hellenic',
+#                'Hokan',
+#                'Italic',
+#                'Japonic',
+#                'Polynesian',
+#                'Quechuan',
+#                'Sinitic', 
+#                'Turkic', 
+#                'Uralic',
+#                'Uto-Aztecan',
+#                'Vietic'
+#                ]:
+#     family_path = re.sub('-', '_', family).lower()
+#     filepath = datasets_path + family + f'/{family_path}_data.csv'
+#     print(f'Loading {family}...')
+#     families[family] = LexicalDataset(filepath, family)
+#     #families[family].prune_languages(min_amc=0.75, concept_list=common_concepts)
+#     #families[family].write_vocab_index()
+#     language_variables = {format_as_variable(lang):families[family].languages[lang] 
+#                           for lang in families[family].languages}
+#     globals().update(language_variables)
 
 #Add some commmonly used subsets
-families['Pomoan'] = families['Hokan'].subset('Pomoan', include=[lang for lang in families['Hokan'].languages if 'Pomo' in lang]+['Kashaya'])
-families['Yana'] = families['Hokan'].subset('Yana', include=['Northern Yana', 'Central Yana', 'Yahi'])
-families['Yuman'] = families['Hokan'].subset('Yuman', include=['Mohave', 'Yavapai', 'Tipai', 'Ipai', 'Cocopa'])
+#families['Pomoan'] = families['Hokan'].subset('Pomoan', include=[lang for lang in families['Hokan'].languages if 'Pomo' in lang]+['Kashaya'])
+#families['Yana'] = families['Hokan'].subset('Yana', include=['Northern Yana', 'Central Yana', 'Yahi'])
+#families['Yuman'] = families['Hokan'].subset('Yuman', include=['Mohave', 'Yavapai', 'Tipai', 'Ipai', 'Cocopa'])
 
 globals().update({format_as_variable(family):families[family] for family in families})
 os.chdir(local_dir)
