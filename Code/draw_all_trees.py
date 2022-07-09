@@ -139,7 +139,7 @@ def draw_all_trees(family, newick_directory,
 for family in families.values():
     plot_directory = family.directory + 'Plots/'
     create_folder(family.name, destination)
-    newick_directory = f'{destination}/{family.name}'
+    newick_directory = f'{destination}/{family.name}/{family.name} Newick trees'
     draw_all_trees(family,linkage_methods=['nj'],
                     newick_directory=newick_directory, 
                     plot=False, plot_directory=plot_directory,
