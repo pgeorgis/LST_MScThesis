@@ -358,7 +358,98 @@ def plot_distances(group, dist_func=None, sim=False, dimensions=2, labels=None,
         plt.gca().invert_xaxis()
     plt.savefig(f'{directory}{title}.png', bbox_inches='tight', dpi=300)
     plt.show()
+
+#%%
+from kneed import KneeLocator
+from sklearn.cluster import KMeans, DBSCAN
+from sklearn.metrics import silhouette_score
+from sklearn.preprocessing import StandardScaler
+
+def k_means_cluster(dm, k='elbow', n_init=10, max_iter=300, random_state=42, scaler=True, item_labels=None):
     
+    kmeans_kwargs = {"init":"random",
+                     "n_init":n_init,
+                     "max_iter":max_iter,
+                     "random_state":random_state}
+    
+    #Scale features to have mean=0 and stdev=1
+    if scaler:
+        scaler = StandardScaler()
+        dm = scaler.fit_transform(dm)
+    
+    #Use elbow method to automatically set value for k if not specified
+    if k == 'elbow':
+        sse = []
+        for k in range(1, 11):
+            kmeans = KMeans(n_clusters=k, **kmeans_kwargs)
+            kmeans.fit(dm)
+            sse.append(kmeans.inertia_)
+        kl = KneeLocator(range(1, 11), sse, curve="convex", direction="decreasing")
+        k = kl.elbow
+    
+    #Use silhouette method to automatically set value for k if not specified
+    elif k == 'silhouette':
+        silhouette_coef = []
+        
+        #Start at 2 clusters for silhouette coefficient
+        for k in range(2, 11):
+            kmeans = KMeans(n_clusters=k, **kmeans_kwargs)
+            kmeans.fit(dm)
+            score = silhouette_score(dm, kmeans.labels_)
+            silhouette_coef.append((k, score))
+        
+        #Select k with maximum silhouette coefficient
+        k = max(silhouette_coef, key=lambda x:x[1])[0]
+    
+    else:
+        assert type(k) == int
+    
+    #Initialize k-means clustering class
+    kmeans = KMeans(n_clusters=k, **kmeans_kwargs)
+    
+    #Fit kmeans clustering to dm
+    kmeans.fit(dm)
+    
+    #Access cluster assignments
+    labels = kmeans.labels_
+    
+    #If item labels are provided, return dictionary of item labels within each cluster
+    if item_labels != None:
+        assert len(item_labels) == len(labels)
+        clusters = defaultdict(lambda:[])
+        for item, cluster in zip(item_labels, labels):
+            clusters[cluster].append(item)
+        return clusters
+    
+    #Otherwise just return the list of cluster labels
+    else:
+        return labels
+
+def dbscan_cluster(dm, scaler=True, item_labels=None):
+    
+    if scaler:
+        scaler = StandardScaler()
+        dm = scaler.fit_transform(dm)
+    
+    dbscan = DBSCAN(eps=0.3)
+    dbscan.fit(dm)
+    
+    labels = dbscan.labels_
+    
+    #If item labels are provided, return dictionary of item labels within each cluster
+    if item_labels != None:
+        assert len(item_labels) == len(labels)
+        clusters = defaultdict(lambda:[])
+        for item, cluster in zip(item_labels, labels):
+            clusters[cluster].append(item)
+        return clusters
+    
+    #Otherwise just return the list of cluster labels
+    else:
+        return labels
+    
+        
+
 #%%
 def network_plot(group, labels, 
                  dist_func=None, sim=True,
@@ -957,6 +1048,86 @@ def newer_network_plot(group, labels,
     #Show the network plot and then close
     plt.show()
     plt.close()
+
+#%%
+def k_means_network(dm, labels, 
+                 dist_func=None, sim=True,
+                 edgelabels=False, edge_label_dist=True,
+                 edge_decimals=1,
+                 scale_nodes=False, node_sizes=None, node_colors=None,
+                 invert_yaxis=False, invert_xaxis=False,
+                 title=None, save_directory='',
+                 scale_func=lambda x:x+0.5,
+                 **kwargs):
+    
+    #Create dictionary of node indices and their labels
+    item_labels = {n:labels[n] for n in range(len(labels))}
+    assert len(item_labels) == len(dm)
+    
+    #Calculate initial distance matrix
+    #dm = distance_matrix(group, dist_func, sim, **kwargs)
+
+    #Given n items in the group, perform k means clustering n-2 times
+    assert len(labels) > 2
+    k_clusters = {}
+    for k in range(2,len(group)):
+        k_clusters[k] = k_means_cluster(dm, k=k, item_labels=item_labels.keys())
+    
+    #Initialize the network graph
+    gr = nx.Graph()
+    edge_labels = {}
+
+    def add_edge(node_i, node_j, dist, weight=1):
+        gr.add_edge(node_i, node_j, distance=dist, weight=1)
+        edge_labels[(node_i, node_j)] = str(round(dist, edge_decimals))
+
+    #Iterate from the largest number of clusters to the smallest
+    #On each iteration, connect all previously unconnected nodes within the new non-singleton clusters
+    #Scale/weight the distance down on each iteration
+    #Logic: weight clusters more heavily that emerge even when k approaches n
+    weight = 1
+    for k in range(len(group)-1,1,-1):
+        non_singletons = [cluster for cluster in k_clusters[k] if len(k_clusters[k][cluster]) > 1]
+        for cluster in non_singletons:
+            cluster = k_clusters[k][cluster]
+            for i in range(len(cluster)):
+                item_i = cluster[i]
+                for j in range(i+1,len(cluster)):
+                    item_j = cluster[j]
+                    if (item_i, item_j) not in edge_labels and (item_j, item_i) not in edge_labels:
+                        dist = dm[item_i][item_j]
+                        #dist *= scale
+                        add_edge(item_i, item_j, dist, weight=weight)
+        #scale = scale_func(scale)
+        weight = scale_func(weight)
+    
+    #Add any nodes which were skipped in the preceding iteration sequence due to 
+    #never clustering with any other node
+    for i in range(len(group)):
+        if i not in gr.nodes():
+            gr.add_node(i)
+            
+    #Get lists of edges and their distances for color-coding 
+    edgeList, colorsList = zip(*nx.get_edge_attributes(gr,'distance').items())
+
+
+    #Draw the network
+    nx.draw(gr, 
+            #pos=pos, 
+            edgelist = edgeList, 
+            #edge_color=colorsList, 
+            font_size=8, 
+            #edge_cmap = plt.cm.hot, vmin = 0, vmax = 1, 
+            labels=item_labels,
+            #node_color=node_colors, 
+            font_weight='bold', #node_size=nz_node_sizes
+            )
+    
+    
+
+
+
+    
 
 #%%
 def combine_overlapping_lists(list_of_lists):
